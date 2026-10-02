@@ -227,8 +227,8 @@ def trilhas():
         for i, slug in enumerate(t['areas'], 1):
             a = AREA[slug]
             L.append(f"{i}. **[{a['emoji']} {a['nome']}]({rel(cam, f'areas/{a['setor']}/{slug}.md')})**: {a['descricao']}")
-        ia_links = ' · '.join(f"[{AREA[s_]['nome']}]({rel(cam, f'areas/{AREA[s_]['setor']}/{s_}.md')}#{ancora_ia(s_)})" for s_ in t['areas'] if s_ not in ('ia-generativa', 'ferramentas-ia'))
-        L.append(f"\n🤖 **IA nesta trilha:** {ia_links}")
+        L.append('\n🤖 **IA nesta trilha:**\n')
+        L += [f"- [{AREA[s_]['nome']}]({rel(cam, f'areas/{AREA[s_]['setor']}/{s_}.md')}#{ancora_ia(s_)})" for s_ in t['areas'] if s_ not in ('ia-generativa', 'ferramentas-ia')]
         L.append('\n<details><summary>Primeiros links desta trilha</summary>\n')
         for slug in t['areas'][:4]:
             ess = [x for x in POR_AREA.get(slug, []) if x['essencial'] and not x.get('ia')][:3]
@@ -324,7 +324,8 @@ def readme():
         L.append(f"- [{s['emoji']} **{s['nome']}**](areas/{s['slug']}/README.md) — {n} links · {areas}.")
     L += ['', '## 🧭 Trilhas por profissão\n',
           '> Cada trilha junta as áreas que importam para uma profissão, na ordem em que vale a pena estudar.\n']
-    L.append(' · '.join(f"[{t['emoji']} {t['nome']}](trilhas/README.md#{gh_anchor(t['emoji'] + ' ' + t['nome'], set())})" for t in TRI) + '\n')
+    L += [f"- [{t['emoji']} {t['nome']}](trilhas/README.md#{gh_anchor(t['emoji'] + ' ' + t['nome'], set())})" for t in TRI]
+    L.append('')
     n_ia = sum(1 for x in LINKS if x.get('ia')); n_ia_ess = sum(1 for x in LINKS if x.get('ia') and x['essencial'])
     L += ['## 🤖 IA em todas as áreas\n',
           f"> Toda página de área tem uma seção **🤖 IA para <área>**: {n_ia} links de IA no total, {n_ia_ess} deles essenciais escolhidos a dedo e descritos em português. "

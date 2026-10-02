@@ -58,7 +58,16 @@
 7. **[🎁 Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md)**: Bancos de imagens, ícones, fontes, paletas, mockups e templates.
 8. **[💼 Carreira e Vagas](../areas/carreira/carreira-vagas.md)**: Vagas, currículo, entrevistas, roadmaps de carreira e salários.
 
-🤖 **IA nesta trilha:** [Front-end](../areas/tecnologia/front-end.md#-ia-para-front-end) · [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação) · [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux) · [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade) · [Ferramentas para Desenvolvedores](../areas/tecnologia/ferramentas-dev.md#-ia-para-ferramentas-para-desenvolvedores) · [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes) · [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos) · [Carreira e Vagas](../areas/carreira/carreira-vagas.md#-ia-para-carreira-e-vagas)
+🤖 **IA nesta trilha:**
+
+- [Front-end](../areas/tecnologia/front-end.md#-ia-para-front-end)
+- [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação)
+- [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux)
+- [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade)
+- [Ferramentas para Desenvolvedores](../areas/tecnologia/ferramentas-dev.md#-ia-para-ferramentas-para-desenvolvedores)
+- [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes)
+- [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos)
+- [Carreira e Vagas](../areas/carreira/carreira-vagas.md#-ia-para-carreira-e-vagas)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -90,7 +99,16 @@
 7. **[🔗 APIs Públicas](../areas/ferramentas/apis-publicas.md)**: APIs gratuitas para projetos, estudos e protótipos.
 8. **[🐧 Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md)**: Linux, shell, administração de sistemas e linha de comando.
 
-🤖 **IA nesta trilha:** [Back-end](../areas/tecnologia/back-end.md#-ia-para-back-end) · [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação) · [Bancos de Dados](../areas/tecnologia/bancos-de-dados.md#-ia-para-bancos-de-dados) · [Arquitetura e Engenharia de Software](../areas/tecnologia/arquitetura-software.md#-ia-para-arquitetura-e-engenharia-de-software) · [DevOps e Cloud](../areas/tecnologia/devops-cloud.md#-ia-para-devops-e-cloud) · [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes) · [APIs Públicas](../areas/ferramentas/apis-publicas.md#-ia-para-apis-públicas) · [Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md#-ia-para-linux-sistemas-e-terminal)
+🤖 **IA nesta trilha:**
+
+- [Back-end](../areas/tecnologia/back-end.md#-ia-para-back-end)
+- [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação)
+- [Bancos de Dados](../areas/tecnologia/bancos-de-dados.md#-ia-para-bancos-de-dados)
+- [Arquitetura e Engenharia de Software](../areas/tecnologia/arquitetura-software.md#-ia-para-arquitetura-e-engenharia-de-software)
+- [DevOps e Cloud](../areas/tecnologia/devops-cloud.md#-ia-para-devops-e-cloud)
+- [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes)
+- [APIs Públicas](../areas/ferramentas/apis-publicas.md#-ia-para-apis-públicas)
+- [Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md#-ia-para-linux-sistemas-e-terminal)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -120,7 +138,14 @@
 5. **[🔗 APIs Públicas](../areas/ferramentas/apis-publicas.md)**: APIs gratuitas para projetos, estudos e protótipos.
 6. **[📲 Apps para Android e iOS](../areas/ferramentas/apps-celular.md)**: Aplicativos úteis e de código aberto para celular.
 
-🤖 **IA nesta trilha:** [Mobile](../areas/tecnologia/mobile.md#-ia-para-mobile) · [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação) · [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux) · [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes) · [APIs Públicas](../areas/ferramentas/apis-publicas.md#-ia-para-apis-públicas) · [Apps para Android e iOS](../areas/ferramentas/apps-celular.md#-ia-para-apps-para-android-e-ios)
+🤖 **IA nesta trilha:**
+
+- [Mobile](../areas/tecnologia/mobile.md#-ia-para-mobile)
+- [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação)
+- [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux)
+- [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes)
+- [APIs Públicas](../areas/ferramentas/apis-publicas.md#-ia-para-apis-públicas)
+- [Apps para Android e iOS](../areas/ferramentas/apps-celular.md#-ia-para-apps-para-android-e-ios)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -150,7 +175,14 @@
 5. **[🖍️ Design Gráfico e Ilustração](../areas/criacao/design-grafico.md)**: Tipografia, cores, identidade visual, ilustração e recursos gráficos.
 6. **[🧮 Fundamentos da Computação](../areas/tecnologia/fundamentos-computacao.md)**: Algoritmos, estruturas de dados, sistemas operacionais, compiladores e teoria.
 
-🤖 **IA nesta trilha:** [Desenvolvimento de Jogos](../areas/tecnologia/games.md#-ia-para-desenvolvimento-de-jogos) · [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação) · [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação) · [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast) · [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração) · [Fundamentos da Computação](../areas/tecnologia/fundamentos-computacao.md#-ia-para-fundamentos-da-computação)
+🤖 **IA nesta trilha:**
+
+- [Desenvolvimento de Jogos](../areas/tecnologia/games.md#-ia-para-desenvolvimento-de-jogos)
+- [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação)
+- [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação)
+- [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast)
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+- [Fundamentos da Computação](../areas/tecnologia/fundamentos-computacao.md#-ia-para-fundamentos-da-computação)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -180,7 +212,14 @@
 5. **[🛡️ Cibersegurança](../areas/seguranca/ciberseguranca.md)**: Pentest, blue team, CTF, malware, forense e bug bounty.
 6. **[⚡ Automação e No-code](../areas/ferramentas/automacao.md)**: Automação de fluxos, no-code, low-code e integrações.
 
-🤖 **IA nesta trilha:** [DevOps e Cloud](../areas/tecnologia/devops-cloud.md#-ia-para-devops-e-cloud) · [Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md#-ia-para-linux-sistemas-e-terminal) · [Redes e Telecom](../areas/tecnologia/redes.md#-ia-para-redes-e-telecom) · [Self-hosted](../areas/ferramentas/self-hosted.md#-ia-para-self-hosted) · [Cibersegurança](../areas/seguranca/ciberseguranca.md#-ia-para-cibersegurança) · [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
+🤖 **IA nesta trilha:**
+
+- [DevOps e Cloud](../areas/tecnologia/devops-cloud.md#-ia-para-devops-e-cloud)
+- [Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md#-ia-para-linux-sistemas-e-terminal)
+- [Redes e Telecom](../areas/tecnologia/redes.md#-ia-para-redes-e-telecom)
+- [Self-hosted](../areas/ferramentas/self-hosted.md#-ia-para-self-hosted)
+- [Cibersegurança](../areas/seguranca/ciberseguranca.md#-ia-para-cibersegurança)
+- [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -211,7 +250,15 @@
 6. **[🛠️ Ferramentas para Desenvolvedores](../areas/tecnologia/ferramentas-dev.md)**: Editores, Git, terminais, produtividade e utilitários de desenvolvimento.
 7. **[🗂️ Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md)**: Scrum, Kanban, PMBOK, ferramentas e liderança de times.
 
-🤖 **IA nesta trilha:** [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes) · [Front-end](../areas/tecnologia/front-end.md#-ia-para-front-end) · [Back-end](../areas/tecnologia/back-end.md#-ia-para-back-end) · [Mobile](../areas/tecnologia/mobile.md#-ia-para-mobile) · [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade) · [Ferramentas para Desenvolvedores](../areas/tecnologia/ferramentas-dev.md#-ia-para-ferramentas-para-desenvolvedores) · [Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md#-ia-para-gestão-de-projetos-e-agilidade)
+🤖 **IA nesta trilha:**
+
+- [QA e Testes](../areas/tecnologia/qa-testes.md#-ia-para-qa-e-testes)
+- [Front-end](../areas/tecnologia/front-end.md#-ia-para-front-end)
+- [Back-end](../areas/tecnologia/back-end.md#-ia-para-back-end)
+- [Mobile](../areas/tecnologia/mobile.md#-ia-para-mobile)
+- [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade)
+- [Ferramentas para Desenvolvedores](../areas/tecnologia/ferramentas-dev.md#-ia-para-ferramentas-para-desenvolvedores)
+- [Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md#-ia-para-gestão-de-projetos-e-agilidade)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -241,7 +288,14 @@
 5. **[🧠 Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md)**: Estatística, ML clássico, deep learning, visão computacional e NLP.
 6. **[📉 Economia](../areas/ciencia-educacao/economia.md)**: Economia, econometria e políticas públicas.
 
-🤖 **IA nesta trilha:** [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi) · [Bancos de Dados](../areas/tecnologia/bancos-de-dados.md#-ia-para-bancos-de-dados) · [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos) · [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística) · [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning) · [Economia](../areas/ciencia-educacao/economia.md#-ia-para-economia)
+🤖 **IA nesta trilha:**
+
+- [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi)
+- [Bancos de Dados](../areas/tecnologia/bancos-de-dados.md#-ia-para-bancos-de-dados)
+- [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos)
+- [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística)
+- [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning)
+- [Economia](../areas/ciencia-educacao/economia.md#-ia-para-economia)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -270,7 +324,13 @@
 4. **[🔤 Linguagens de Programação](../areas/tecnologia/linguagens.md)**: Python, JavaScript, Java, Go, Rust, C#, PHP, Kotlin, Swift e dezenas de outras.
 5. **[🗃️ Datasets e Dados Abertos](../areas/dados-ia/datasets.md)**: Bases públicas, dados abertos governamentais e datasets para estudo.
 
-🤖 **IA nesta trilha:** [Engenharia de Dados](../areas/dados-ia/engenharia-de-dados.md#-ia-para-engenharia-de-dados) · [Bancos de Dados](../areas/tecnologia/bancos-de-dados.md#-ia-para-bancos-de-dados) · [DevOps e Cloud](../areas/tecnologia/devops-cloud.md#-ia-para-devops-e-cloud) · [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação) · [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos)
+🤖 **IA nesta trilha:**
+
+- [Engenharia de Dados](../areas/dados-ia/engenharia-de-dados.md#-ia-para-engenharia-de-dados)
+- [Bancos de Dados](../areas/tecnologia/bancos-de-dados.md#-ia-para-bancos-de-dados)
+- [DevOps e Cloud](../areas/tecnologia/devops-cloud.md#-ia-para-devops-e-cloud)
+- [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação)
+- [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -300,7 +360,13 @@
 5. **[🔀 Engenharia de Dados](../areas/dados-ia/engenharia-de-dados.md)**: Pipelines, ETL, data lakes, streaming e orquestração.
 6. **[📚 Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md)**: Artigos, bases científicas, LaTeX, gestão de referências e ciência aberta.
 
-🤖 **IA nesta trilha:** [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning) · [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística) · [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos) · [Engenharia de Dados](../areas/dados-ia/engenharia-de-dados.md#-ia-para-engenharia-de-dados) · [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
+🤖 **IA nesta trilha:**
+
+- [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning)
+- [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística)
+- [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos)
+- [Engenharia de Dados](../areas/dados-ia/engenharia-de-dados.md#-ia-para-engenharia-de-dados)
+- [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -330,7 +396,12 @@
 5. **[⚡ Automação e No-code](../areas/ferramentas/automacao.md)**: Automação de fluxos, no-code, low-code e integrações.
 6. **[🔗 APIs Públicas](../areas/ferramentas/apis-publicas.md)**: APIs gratuitas para projetos, estudos e protótipos.
 
-🤖 **IA nesta trilha:** [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning) · [Back-end](../areas/tecnologia/back-end.md#-ia-para-back-end) · [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code) · [APIs Públicas](../areas/ferramentas/apis-publicas.md#-ia-para-apis-públicas)
+🤖 **IA nesta trilha:**
+
+- [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning)
+- [Back-end](../areas/tecnologia/back-end.md#-ia-para-back-end)
+- [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
+- [APIs Públicas](../areas/ferramentas/apis-publicas.md#-ia-para-apis-públicas)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -360,7 +431,14 @@
 5. **[🐧 Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md)**: Linux, shell, administração de sistemas e linha de comando.
 6. **[⚖️ Jurídico e Direito](../areas/negocios/juridico.md)**: Legislação, direito digital, contratos e lawtech.
 
-🤖 **IA nesta trilha:** [Cibersegurança](../areas/seguranca/ciberseguranca.md#-ia-para-cibersegurança) · [OSINT e Investigação](../areas/seguranca/osint.md#-ia-para-osint-e-investigação) · [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados) · [Redes e Telecom](../areas/tecnologia/redes.md#-ia-para-redes-e-telecom) · [Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md#-ia-para-linux-sistemas-e-terminal) · [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
+🤖 **IA nesta trilha:**
+
+- [Cibersegurança](../areas/seguranca/ciberseguranca.md#-ia-para-cibersegurança)
+- [OSINT e Investigação](../areas/seguranca/osint.md#-ia-para-osint-e-investigação)
+- [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados)
+- [Redes e Telecom](../areas/tecnologia/redes.md#-ia-para-redes-e-telecom)
+- [Linux, Sistemas e Terminal](../areas/tecnologia/sistemas-linux.md#-ia-para-linux-sistemas-e-terminal)
+- [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -391,7 +469,15 @@
 6. **[🧠 Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md)**: Psicologia, neurociência, comportamento e saúde mental.
 7. **[📦 Gestão de Produto](../areas/negocios/produto.md)**: Discovery, roadmap, métricas e práticas de product management.
 
-🤖 **IA nesta trilha:** [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux) · [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração) · [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade) · [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos) · [Front-end](../areas/tecnologia/front-end.md#-ia-para-front-end) · [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência) · [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto)
+🤖 **IA nesta trilha:**
+
+- [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux)
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+- [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade)
+- [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos)
+- [Front-end](../areas/tecnologia/front-end.md#-ia-para-front-end)
+- [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência)
+- [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -421,7 +507,13 @@
 5. **[📲 Social Media e Conteúdo](../areas/marketing-vendas/social-media.md)**: Redes sociais, criação de conteúdo, creators e agendamento.
 6. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 
-🤖 **IA nesta trilha:** [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração) · [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos) · [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia) · [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+🤖 **IA nesta trilha:**
+
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+- [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos)
+- [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia)
+- [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -452,7 +544,14 @@
 6. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 7. **[📲 Social Media e Conteúdo](../areas/marketing-vendas/social-media.md)**: Redes sociais, criação de conteúdo, creators e agendamento.
 
-🤖 **IA nesta trilha:** [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo) · [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação) · [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast) · [Filmmaking e Cinema](../areas/criacao/filmmaking.md#-ia-para-filmmaking-e-cinema) · [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+🤖 **IA nesta trilha:**
+
+- [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
+- [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação)
+- [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast)
+- [Filmmaking e Cinema](../areas/criacao/filmmaking.md#-ia-para-filmmaking-e-cinema)
+- [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -483,7 +582,15 @@
 6. **[🧊 Motion Design, 3D e Animação](../areas/criacao/motion-3d.md)**: Blender, motion graphics, animação 2D/3D e efeitos visuais.
 7. **[🚀 Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md)**: Abrir e escalar negócios, captação, modelos de negócio e SaaS.
 
-🤖 **IA nesta trilha:** [Filmmaking e Cinema](../areas/criacao/filmmaking.md#-ia-para-filmmaking-e-cinema) · [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo) · [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia) · [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast) · [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação) · [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação) · [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups)
+🤖 **IA nesta trilha:**
+
+- [Filmmaking e Cinema](../areas/criacao/filmmaking.md#-ia-para-filmmaking-e-cinema)
+- [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
+- [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia)
+- [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast)
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+- [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação)
+- [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -512,7 +619,13 @@
 4. **[📲 Social Media e Conteúdo](../areas/marketing-vendas/social-media.md)**: Redes sociais, criação de conteúdo, creators e agendamento.
 5. **[🚀 Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md)**: Abrir e escalar negócios, captação, modelos de negócio e SaaS.
 
-🤖 **IA nesta trilha:** [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia) · [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração) · [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo) · [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups)
+🤖 **IA nesta trilha:**
+
+- [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia)
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+- [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+- [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -541,7 +654,13 @@
 4. **[🎮 Desenvolvimento de Jogos](../areas/tecnologia/games.md)**: Engines, gráficos, game design, assets e programação de jogos.
 5. **[🎁 Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md)**: Bancos de imagens, ícones, fontes, paletas, mockups e templates.
 
-🤖 **IA nesta trilha:** [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação) · [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração) · [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo) · [Desenvolvimento de Jogos](../areas/tecnologia/games.md#-ia-para-desenvolvimento-de-jogos) · [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos)
+🤖 **IA nesta trilha:**
+
+- [Motion Design, 3D e Animação](../areas/criacao/motion-3d.md#-ia-para-motion-design-3d-e-animação)
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+- [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
+- [Desenvolvimento de Jogos](../areas/tecnologia/games.md#-ia-para-desenvolvimento-de-jogos)
+- [Recursos Gratuitos](../areas/ferramentas/recursos-gratuitos.md#-ia-para-recursos-gratuitos)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -569,7 +688,12 @@
 3. **[📣 Marketing Digital](../areas/marketing-vendas/marketing-digital.md)**: Estratégia, funis, e-mail marketing, automação e growth.
 4. **[🎞️ Edição de Vídeo](../areas/criacao/edicao-de-video.md)**: Softwares de edição, color grading, legendas, codecs e fluxo de pós-produção.
 
-🤖 **IA nesta trilha:** [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo) · [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
+🤖 **IA nesta trilha:**
+
+- [Áudio, Música e Podcast](../areas/criacao/audio-musica.md#-ia-para-áudio-música-e-podcast)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -599,7 +723,13 @@
 5. **[🗣️ Idiomas](../areas/ciencia-educacao/idiomas.md)**: Inglês, espanhol e outros idiomas: cursos, apps e prática.
 6. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 
-🤖 **IA nesta trilha:** [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação) · [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [SEO](../areas/marketing-vendas/seo.md#-ia-para-seo) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo) · [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas)
+🤖 **IA nesta trilha:**
+
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [SEO](../areas/marketing-vendas/seo.md#-ia-para-seo)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+- [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -630,7 +760,15 @@
 6. **[🛒 E-commerce](../areas/marketing-vendas/e-commerce.md)**: Lojas virtuais, plataformas, pagamentos, logística e marketplaces.
 7. **[🖍️ Design Gráfico e Ilustração](../areas/criacao/design-grafico.md)**: Tipografia, cores, identidade visual, ilustração e recursos gráficos.
 
-🤖 **IA nesta trilha:** [Tráfego Pago](../areas/marketing-vendas/trafego-pago.md#-ia-para-tráfego-pago) · [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi) · [SEO](../areas/marketing-vendas/seo.md#-ia-para-seo) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo) · [E-commerce](../areas/marketing-vendas/e-commerce.md#-ia-para-e-commerce) · [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+🤖 **IA nesta trilha:**
+
+- [Tráfego Pago](../areas/marketing-vendas/trafego-pago.md#-ia-para-tráfego-pago)
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi)
+- [SEO](../areas/marketing-vendas/seo.md#-ia-para-seo)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+- [E-commerce](../areas/marketing-vendas/e-commerce.md#-ia-para-e-commerce)
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -661,7 +799,15 @@
 6. **[📊 Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md)**: Excel, SQL analítico, dashboards, visualização e Business Intelligence.
 7. **[⚡ Automação e No-code](../areas/ferramentas/automacao.md)**: Automação de fluxos, no-code, low-code e integrações.
 
-🤖 **IA nesta trilha:** [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [SEO](../areas/marketing-vendas/seo.md#-ia-para-seo) · [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo) · [Tráfego Pago](../areas/marketing-vendas/trafego-pago.md#-ia-para-tráfego-pago) · [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação) · [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi) · [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
+🤖 **IA nesta trilha:**
+
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [SEO](../areas/marketing-vendas/seo.md#-ia-para-seo)
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+- [Tráfego Pago](../areas/marketing-vendas/trafego-pago.md#-ia-para-tráfego-pago)
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+- [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi)
+- [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -691,7 +837,13 @@
 5. **[✍️ Escrita e Redação](../areas/criacao/escrita.md)**: Redação, copywriting, escrita técnica, revisão e publicação.
 6. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 
-🤖 **IA nesta trilha:** [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo) · [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração) · [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo) · [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia) · [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+🤖 **IA nesta trilha:**
+
+- [Social Media e Conteúdo](../areas/marketing-vendas/social-media.md#-ia-para-social-media-e-conteúdo)
+- [Design Gráfico e Ilustração](../areas/criacao/design-grafico.md#-ia-para-design-gráfico-e-ilustração)
+- [Edição de Vídeo](../areas/criacao/edicao-de-video.md#-ia-para-edição-de-vídeo)
+- [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia)
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -720,7 +872,13 @@
 4. **[✍️ Escrita e Redação](../areas/criacao/escrita.md)**: Redação, copywriting, escrita técnica, revisão e publicação.
 5. **[⚡ Automação e No-code](../areas/ferramentas/automacao.md)**: Automação de fluxos, no-code, low-code e integrações.
 
-🤖 **IA nesta trilha:** [Vendas e CRM](../areas/marketing-vendas/vendas.md#-ia-para-vendas-e-crm) · [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização) · [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação) · [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
+🤖 **IA nesta trilha:**
+
+- [Vendas e CRM](../areas/marketing-vendas/vendas.md#-ia-para-vendas-e-crm)
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+- [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -750,7 +908,14 @@
 5. **[🧾 Contabilidade e Fiscal](../areas/negocios/contabilidade.md)**: Contabilidade, impostos, MEI e rotinas fiscais.
 6. **[🛟 Atendimento e Customer Success](../areas/negocios/atendimento-suporte.md)**: Suporte, sucesso do cliente, help desk e base de conhecimento.
 
-🤖 **IA nesta trilha:** [E-commerce](../areas/marketing-vendas/e-commerce.md#-ia-para-e-commerce) · [Tráfego Pago](../areas/marketing-vendas/trafego-pago.md#-ia-para-tráfego-pago) · [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia) · [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal) · [Atendimento e Customer Success](../areas/negocios/atendimento-suporte.md#-ia-para-atendimento-e-customer-success)
+🤖 **IA nesta trilha:**
+
+- [E-commerce](../areas/marketing-vendas/e-commerce.md#-ia-para-e-commerce)
+- [Tráfego Pago](../areas/marketing-vendas/trafego-pago.md#-ia-para-tráfego-pago)
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [Fotografia](../areas/criacao/fotografia.md#-ia-para-fotografia)
+- [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal)
+- [Atendimento e Customer Success](../areas/negocios/atendimento-suporte.md#-ia-para-atendimento-e-customer-success)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -782,7 +947,16 @@
 7. **[📦 Gestão de Produto](../areas/negocios/produto.md)**: Discovery, roadmap, métricas e práticas de product management.
 8. **[⚡ Automação e No-code](../areas/ferramentas/automacao.md)**: Automação de fluxos, no-code, low-code e integrações.
 
-🤖 **IA nesta trilha:** [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups) · [Finanças e Investimentos](../areas/negocios/financas.md#-ia-para-finanças-e-investimentos) · [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal) · [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito) · [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital) · [Vendas e CRM](../areas/marketing-vendas/vendas.md#-ia-para-vendas-e-crm) · [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto) · [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
+🤖 **IA nesta trilha:**
+
+- [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups)
+- [Finanças e Investimentos](../areas/negocios/financas.md#-ia-para-finanças-e-investimentos)
+- [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal)
+- [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
+- [Marketing Digital](../areas/marketing-vendas/marketing-digital.md#-ia-para-marketing-digital)
+- [Vendas e CRM](../areas/marketing-vendas/vendas.md#-ia-para-vendas-e-crm)
+- [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto)
+- [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -812,7 +986,14 @@
 5. **[🚀 Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md)**: Abrir e escalar negócios, captação, modelos de negócio e SaaS.
 6. **[🧠 Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md)**: Psicologia, neurociência, comportamento e saúde mental.
 
-🤖 **IA nesta trilha:** [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto) · [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux) · [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi) · [Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md#-ia-para-gestão-de-projetos-e-agilidade) · [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups) · [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência)
+🤖 **IA nesta trilha:**
+
+- [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto)
+- [Design UI/UX](../areas/criacao/design-ui-ux.md#-ia-para-design-uiux)
+- [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi)
+- [Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md#-ia-para-gestão-de-projetos-e-agilidade)
+- [Empreendedorismo e Startups](../areas/negocios/empreendedorismo.md#-ia-para-empreendedorismo-e-startups)
+- [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -840,7 +1021,12 @@
 3. **[👥 RH e Gestão de Pessoas](../areas/negocios/rh-pessoas.md)**: Recrutamento, cultura, onboarding, remuneração e liderança.
 4. **[📦 Gestão de Produto](../areas/negocios/produto.md)**: Discovery, roadmap, métricas e práticas de product management.
 
-🤖 **IA nesta trilha:** [Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md#-ia-para-gestão-de-projetos-e-agilidade) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização) · [RH e Gestão de Pessoas](../areas/negocios/rh-pessoas.md#-ia-para-rh-e-gestão-de-pessoas) · [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto)
+🤖 **IA nesta trilha:**
+
+- [Gestão de Projetos e Agilidade](../areas/negocios/gestao-de-projetos.md#-ia-para-gestão-de-projetos-e-agilidade)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+- [RH e Gestão de Pessoas](../areas/negocios/rh-pessoas.md#-ia-para-rh-e-gestão-de-pessoas)
+- [Gestão de Produto](../areas/negocios/produto.md#-ia-para-gestão-de-produto)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -870,7 +1056,14 @@
 5. **[➗ Matemática e Estatística](../areas/ciencia-educacao/matematica.md)**: Do básico ao avançado, estatística, cálculo e álgebra linear.
 6. **[⚖️ Jurídico e Direito](../areas/negocios/juridico.md)**: Legislação, direito digital, contratos e lawtech.
 
-🤖 **IA nesta trilha:** [Finanças e Investimentos](../areas/negocios/financas.md#-ia-para-finanças-e-investimentos) · [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal) · [Economia](../areas/ciencia-educacao/economia.md#-ia-para-economia) · [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi) · [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística) · [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
+🤖 **IA nesta trilha:**
+
+- [Finanças e Investimentos](../areas/negocios/financas.md#-ia-para-finanças-e-investimentos)
+- [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal)
+- [Economia](../areas/ciencia-educacao/economia.md#-ia-para-economia)
+- [Análise de Dados e BI](../areas/dados-ia/analise-de-dados.md#-ia-para-análise-de-dados-e-bi)
+- [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística)
+- [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -899,7 +1092,13 @@
 4. **[⚖️ Jurídico e Direito](../areas/negocios/juridico.md)**: Legislação, direito digital, contratos e lawtech.
 5. **[⏱️ Produtividade e Organização](../areas/carreira/produtividade.md)**: Métodos, apps de notas, tarefas, foco e segundo cérebro.
 
-🤖 **IA nesta trilha:** [RH e Gestão de Pessoas](../areas/negocios/rh-pessoas.md#-ia-para-rh-e-gestão-de-pessoas) · [Carreira e Vagas](../areas/carreira/carreira-vagas.md#-ia-para-carreira-e-vagas) · [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência) · [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+🤖 **IA nesta trilha:**
+
+- [RH e Gestão de Pessoas](../areas/negocios/rh-pessoas.md#-ia-para-rh-e-gestão-de-pessoas)
+- [Carreira e Vagas](../areas/carreira/carreira-vagas.md#-ia-para-carreira-e-vagas)
+- [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência)
+- [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -928,7 +1127,12 @@
 4. **[✍️ Escrita e Redação](../areas/criacao/escrita.md)**: Redação, copywriting, escrita técnica, revisão e publicação.
 5. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 
-🤖 **IA nesta trilha:** [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito) · [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados) · [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica) · [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+🤖 **IA nesta trilha:**
+
+- [Jurídico e Direito](../areas/negocios/juridico.md#-ia-para-jurídico-e-direito)
+- [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados)
+- [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -957,7 +1161,13 @@
 4. **[⚡ Automação e No-code](../areas/ferramentas/automacao.md)**: Automação de fluxos, no-code, low-code e integrações.
 5. **[🤝 Vendas e CRM](../areas/marketing-vendas/vendas.md)**: Prospecção, negociação, CRM e operações de vendas.
 
-🤖 **IA nesta trilha:** [Atendimento e Customer Success](../areas/negocios/atendimento-suporte.md#-ia-para-atendimento-e-customer-success) · [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização) · [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code) · [Vendas e CRM](../areas/marketing-vendas/vendas.md#-ia-para-vendas-e-crm)
+🤖 **IA nesta trilha:**
+
+- [Atendimento e Customer Success](../areas/negocios/atendimento-suporte.md#-ia-para-atendimento-e-customer-success)
+- [Escrita e Redação](../areas/criacao/escrita.md#-ia-para-escrita-e-redação)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+- [Automação e No-code](../areas/ferramentas/automacao.md#-ia-para-automação-e-no-code)
+- [Vendas e CRM](../areas/marketing-vendas/vendas.md#-ia-para-vendas-e-crm)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -988,7 +1198,14 @@
 6. **[♿ Acessibilidade](../areas/carreira/acessibilidade.md)**: Acessibilidade digital, tecnologias assistivas e inclusão.
 7. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 
-🤖 **IA nesta trilha:** [Educação e Ensino](../areas/ciencia-educacao/educacao.md#-ia-para-educação-e-ensino) · [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica) · [Humanidades](../areas/ciencia-educacao/humanidades.md#-ia-para-humanidades) · [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística) · [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas) · [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade)
+🤖 **IA nesta trilha:**
+
+- [Educação e Ensino](../areas/ciencia-educacao/educacao.md#-ia-para-educação-e-ensino)
+- [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
+- [Humanidades](../areas/ciencia-educacao/humanidades.md#-ia-para-humanidades)
+- [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística)
+- [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas)
+- [Acessibilidade](../areas/carreira/acessibilidade.md#-ia-para-acessibilidade)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -1019,7 +1236,15 @@
 6. **[🏛️ Humanidades](../areas/ciencia-educacao/humanidades.md)**: História, filosofia, sociologia, geografia e artes.
 7. **[🧮 Fundamentos da Computação](../areas/tecnologia/fundamentos-computacao.md)**: Algoritmos, estruturas de dados, sistemas operacionais, compiladores e teoria.
 
-🤖 **IA nesta trilha:** [Educação e Ensino](../areas/ciencia-educacao/educacao.md#-ia-para-educação-e-ensino) · [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística) · [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização) · [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica) · [Humanidades](../areas/ciencia-educacao/humanidades.md#-ia-para-humanidades) · [Fundamentos da Computação](../areas/tecnologia/fundamentos-computacao.md#-ia-para-fundamentos-da-computação)
+🤖 **IA nesta trilha:**
+
+- [Educação e Ensino](../areas/ciencia-educacao/educacao.md#-ia-para-educação-e-ensino)
+- [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística)
+- [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+- [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
+- [Humanidades](../areas/ciencia-educacao/humanidades.md#-ia-para-humanidades)
+- [Fundamentos da Computação](../areas/tecnologia/fundamentos-computacao.md#-ia-para-fundamentos-da-computação)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -1050,7 +1275,15 @@
 6. **[🔭 Física e Astronomia](../areas/ciencia-educacao/fisica-astronomia.md)**: Física, astronomia, astrofísica e ciência espacial.
 7. **[⚗️ Química](../areas/ciencia-educacao/quimica.md)**: Química geral, computacional e ferramentas de laboratório.
 
-🤖 **IA nesta trilha:** [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica) · [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística) · [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos) · [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning) · [Biologia e Bioinformática](../areas/ciencia-educacao/biologia.md#-ia-para-biologia-e-bioinformática) · [Física e Astronomia](../areas/ciencia-educacao/fisica-astronomia.md#-ia-para-física-e-astronomia) · [Química](../areas/ciencia-educacao/quimica.md#-ia-para-química)
+🤖 **IA nesta trilha:**
+
+- [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
+- [Matemática e Estatística](../areas/ciencia-educacao/matematica.md#-ia-para-matemática-e-estatística)
+- [Datasets e Dados Abertos](../areas/dados-ia/datasets.md#-ia-para-datasets-e-dados-abertos)
+- [Ciência de Dados e Machine Learning](../areas/dados-ia/ciencia-de-dados-ml.md#-ia-para-ciência-de-dados-e-machine-learning)
+- [Biologia e Bioinformática](../areas/ciencia-educacao/biologia.md#-ia-para-biologia-e-bioinformática)
+- [Física e Astronomia](../areas/ciencia-educacao/fisica-astronomia.md#-ia-para-física-e-astronomia)
+- [Química](../areas/ciencia-educacao/quimica.md#-ia-para-química)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -1079,7 +1312,13 @@
 4. **[📚 Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md)**: Artigos, bases científicas, LaTeX, gestão de referências e ciência aberta.
 5. **[🕶️ Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md)**: Privacidade digital, LGPD/GDPR e ferramentas de proteção.
 
-🤖 **IA nesta trilha:** [Medicina e Saúde](../areas/ciencia-educacao/saude.md#-ia-para-medicina-e-saúde) · [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência) · [Biologia e Bioinformática](../areas/ciencia-educacao/biologia.md#-ia-para-biologia-e-bioinformática) · [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica) · [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados)
+🤖 **IA nesta trilha:**
+
+- [Medicina e Saúde](../areas/ciencia-educacao/saude.md#-ia-para-medicina-e-saúde)
+- [Psicologia e Neurociência](../areas/ciencia-educacao/psicologia.md#-ia-para-psicologia-e-neurociência)
+- [Biologia e Bioinformática](../areas/ciencia-educacao/biologia.md#-ia-para-biologia-e-bioinformática)
+- [Pesquisa Acadêmica](../areas/ciencia-educacao/pesquisa-academica.md#-ia-para-pesquisa-acadêmica)
+- [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -1108,7 +1347,13 @@
 4. **[🔭 Física e Astronomia](../areas/ciencia-educacao/fisica-astronomia.md)**: Física, astronomia, astrofísica e ciência espacial.
 5. **[🏠 Self-hosted](../areas/ferramentas/self-hosted.md)**: Software para hospedar você mesmo: nuvem própria, mídia, automação.
 
-🤖 **IA nesta trilha:** [Embarcados, IoT e Hardware](../areas/tecnologia/embarcados-iot.md#-ia-para-embarcados-iot-e-hardware) · [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação) · [Redes e Telecom](../areas/tecnologia/redes.md#-ia-para-redes-e-telecom) · [Física e Astronomia](../areas/ciencia-educacao/fisica-astronomia.md#-ia-para-física-e-astronomia) · [Self-hosted](../areas/ferramentas/self-hosted.md#-ia-para-self-hosted)
+🤖 **IA nesta trilha:**
+
+- [Embarcados, IoT e Hardware](../areas/tecnologia/embarcados-iot.md#-ia-para-embarcados-iot-e-hardware)
+- [Linguagens de Programação](../areas/tecnologia/linguagens.md#-ia-para-linguagens-de-programação)
+- [Redes e Telecom](../areas/tecnologia/redes.md#-ia-para-redes-e-telecom)
+- [Física e Astronomia](../areas/ciencia-educacao/fisica-astronomia.md#-ia-para-física-e-astronomia)
+- [Self-hosted](../areas/ferramentas/self-hosted.md#-ia-para-self-hosted)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -1138,7 +1383,14 @@
 5. **[🗣️ Idiomas](../areas/ciencia-educacao/idiomas.md)**: Inglês, espanhol e outros idiomas: cursos, apps e prática.
 6. **[💼 Carreira e Vagas](../areas/carreira/carreira-vagas.md)**: Vagas, currículo, entrevistas, roadmaps de carreira e salários.
 
-🤖 **IA nesta trilha:** [Trabalho Remoto e Freelancer](../areas/carreira/trabalho-remoto-freela.md#-ia-para-trabalho-remoto-e-freelancer) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização) · [Finanças e Investimentos](../areas/negocios/financas.md#-ia-para-finanças-e-investimentos) · [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal) · [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas) · [Carreira e Vagas](../areas/carreira/carreira-vagas.md#-ia-para-carreira-e-vagas)
+🤖 **IA nesta trilha:**
+
+- [Trabalho Remoto e Freelancer](../areas/carreira/trabalho-remoto-freela.md#-ia-para-trabalho-remoto-e-freelancer)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+- [Finanças e Investimentos](../areas/negocios/financas.md#-ia-para-finanças-e-investimentos)
+- [Contabilidade e Fiscal](../areas/negocios/contabilidade.md#-ia-para-contabilidade-e-fiscal)
+- [Idiomas](../areas/ciencia-educacao/idiomas.md#-ia-para-idiomas)
+- [Carreira e Vagas](../areas/carreira/carreira-vagas.md#-ia-para-carreira-e-vagas)
 
 <details><summary>Primeiros links desta trilha</summary>
 
@@ -1169,7 +1421,14 @@
 6. **[🪄 Ferramentas de IA](../areas/ferramentas/ferramentas-ia.md)**: Apps de IA para texto, imagem, vídeo, áudio e produtividade.
 7. **[⏱️ Produtividade e Organização](../areas/carreira/produtividade.md)**: Métodos, apps de notas, tarefas, foco e segundo cérebro.
 
-🤖 **IA nesta trilha:** [Ferramentas Online](../areas/ferramentas/ferramentas-online.md#-ia-para-ferramentas-online) · [Apps para macOS, Windows e Linux](../areas/ferramentas/apps-sistemas.md#-ia-para-apps-para-macos-windows-e-linux) · [Apps para Android e iOS](../areas/ferramentas/apps-celular.md#-ia-para-apps-para-android-e-ios) · [Extensões de Navegador](../areas/ferramentas/extensoes-navegador.md#-ia-para-extensões-de-navegador) · [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados) · [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
+🤖 **IA nesta trilha:**
+
+- [Ferramentas Online](../areas/ferramentas/ferramentas-online.md#-ia-para-ferramentas-online)
+- [Apps para macOS, Windows e Linux](../areas/ferramentas/apps-sistemas.md#-ia-para-apps-para-macos-windows-e-linux)
+- [Apps para Android e iOS](../areas/ferramentas/apps-celular.md#-ia-para-apps-para-android-e-ios)
+- [Extensões de Navegador](../areas/ferramentas/extensoes-navegador.md#-ia-para-extensões-de-navegador)
+- [Privacidade e Proteção de Dados](../areas/seguranca/privacidade.md#-ia-para-privacidade-e-proteção-de-dados)
+- [Produtividade e Organização](../areas/carreira/produtividade.md#-ia-para-produtividade-e-organização)
 
 <details><summary>Primeiros links desta trilha</summary>
 
