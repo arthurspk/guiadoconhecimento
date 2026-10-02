@@ -1,0 +1,5121 @@
+[
+ {
+  "repo": "ossu/computer-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-13",
+  "links": 147,
+  "nota": "Currículo completo e gratuito de ciência da computação (OSSU).",
+  "area": "fundamentos-computacao"
+ },
+ {
+  "repo": "Universidade-Livre/ciencia-da-computacao",
+  "arquivos": [
+   "README.md",
+   "extras/books.md",
+   "extras/courses.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-05-20",
+  "links": 147,
+  "nota": "Versão brasileira do currículo OSSU, com cursos gratuitos em português.",
+  "area": "fundamentos-computacao"
+ },
+ {
+  "repo": "tayllan/awesome-algorithms",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-22",
+  "links": 44,
+  "nota": "Lista enxuta de recursos para estudar algoritmos e estruturas de dados.",
+  "area": "fundamentos-computacao"
+ },
+ {
+  "repo": "mostafatouny/awesome-theoretical-computer-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-01-30",
+  "links": 238,
+  "nota": "Teoria da computação, complexidade, lógica e matemática discreta.",
+  "area": "fundamentos-computacao"
+ },
+ {
+  "repo": "aalhour/awesome-compilers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2022-11-09",
+  "links": 370,
+  "nota": "Referência sobre compiladores, interpretadores e linguagens; último commit em 2022-11 (limite do critério de 3 anos), mantida por ser a principal lista do tema.",
+  "area": "fundamentos-computacao"
+ },
+ {
+  "repo": "mtdvio/every-programmer-should-know",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2025-12-29",
+  "links": 198,
+  "nota": "Conceitos fundamentais que todo programador deveria conhecer (memória, concorrência, segurança, sistemas distribuídos).",
+  "area": "fundamentos-computacao"
+ },
+ {
+  "repo": "vinta/awesome-python",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 570,
+  "nota": "Python: lista de referência de bibliotecas, frameworks e ferramentas.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "sorrycc/awesome-javascript",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-08",
+  "links": 798,
+  "nota": "JavaScript: bibliotecas e recursos do ecossistema.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "dzharii/awesome-typescript",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Unlicense",
+  "ultimo_commit": "2026-02-10",
+  "links": 344,
+  "nota": "TypeScript: ferramentas, tipagens, tutoriais e bibliotecas.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "akullpp/awesome-java",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-23",
+  "links": 932,
+  "nota": "Java: frameworks, bibliotecas e ferramentas do ecossistema JVM.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "avelino/awesome-go",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 3282,
+  "nota": "Go: a maior lista de pacotes e recursos da linguagem (mantida por brasileiro); grande, mas é a referência.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "rust-unofficial/awesome-rust",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 3908,
+  "nota": "Rust: crates, aplicações e recursos de aprendizado; grande, mas é a referência.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "fffaraz/awesome-cpp",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-28",
+  "links": 1675,
+  "nota": "C e C++: bibliotecas, frameworks e ferramentas.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "oz123/awesome-c",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-19",
+  "links": 659,
+  "nota": "C puro: bibliotecas e recursos; usa links em estilo referência ([texto][n]), contagem feita pelas definições de link.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "quozd/awesome-dotnet",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-03-26",
+  "links": 737,
+  "nota": "C#/.NET: bibliotecas, ferramentas e frameworks.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "ziadoz/awesome-php",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "WTFPL",
+  "ultimo_commit": "2026-09-27",
+  "links": 585,
+  "nota": "PHP: bibliotecas, frameworks e ferramentas.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "mcxiaoke/awesome-kotlin",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-30",
+  "links": 652,
+  "nota": "Kotlin: bibliotecas, frameworks e recursos (a lista KotlinBy guarda os links em scripts .kts, por isso foi preterida).",
+  "area": "linguagens"
+ },
+ {
+  "repo": "matteocrippa/awesome-swift",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-03",
+  "links": 1108,
+  "nota": "Swift: bibliotecas e recursos para a linguagem da Apple.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "markets/awesome-ruby",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-10-01",
+  "links": 979,
+  "nota": "Ruby: gems, frameworks e ferramentas.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "h4cc/awesome-elixir",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-10-12",
+  "links": 1621,
+  "nota": "Elixir/Erlang: bibliotecas e ferramentas do ecossistema BEAM.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "yissachar/awesome-dart",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-05-24",
+  "links": 104,
+  "nota": "Dart: bibliotecas e ferramentas da linguagem.",
+  "area": "linguagens"
+ },
+ {
+  "repo": "EbookFoundation/free-programming-books",
+  "arquivos": [
+   "books/free-programming-books-pt_BR.md",
+   "courses/free-courses-pt_BR.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 498,
+  "nota": "Livros e cursos gratuitos de programação em português (apenas os arquivos pt_BR).",
+  "area": "linguagens"
+ },
+ {
+  "repo": "enaqx/awesome-react",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-04",
+  "links": 152,
+  "nota": "React: ferramentas, bibliotecas e recursos de aprendizado.",
+  "area": "front-end"
+ },
+ {
+  "repo": "awesome-css-group/awesome-css",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2024-10-30",
+  "links": 221,
+  "nota": "CSS: frameworks, ferramentas e referências.",
+  "area": "front-end"
+ },
+ {
+  "repo": "micromata/awesome-css-learning",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-01-31",
+  "links": 48,
+  "nota": "Recursos para aprender CSS de verdade.",
+  "area": "front-end"
+ },
+ {
+  "repo": "davidsonfellipe/awesome-wpo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-27",
+  "links": 290,
+  "nota": "Performance web (WPO), mantida por brasileiro.",
+  "area": "front-end"
+ },
+ {
+  "repo": "brunopulis/awesome-a11y",
+  "arquivos": [
+   "topics/articles-and-videos.md",
+   "topics/blogs.md",
+   "topics/books.md",
+   "topics/certificates.md",
+   "topics/companies-and-organizations.md",
+   "topics/conferences.md",
+   "topics/courses.md",
+   "topics/getting-started.md",
+   "topics/guides.md",
+   "topics/jobs.md",
+   "topics/laws.md",
+   "topics/meetups.md",
+   "topics/newsletter.md",
+   "topics/other-resources.md",
+   "topics/people.md",
+   "topics/podcasts.md",
+   "topics/specification.md",
+   "topics/talks.md",
+   "topics/tools.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-03",
+  "links": 597,
+  "nota": "Acessibilidade web, mantida por brasileiro; links distribuídos nos arquivos de topics/.",
+  "area": "front-end"
+ },
+ {
+  "repo": "felipefialho/frontend-challenges",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-05-14",
+  "links": 219,
+  "nota": "Desafios técnicos de front-end usados em processos seletivos (curadoria brasileira).",
+  "area": "front-end"
+ },
+ {
+  "repo": "sindresorhus/awesome-nodejs",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-02",
+  "links": 596,
+  "nota": "Node.js: pacotes e recursos para servidores em JavaScript.",
+  "area": "back-end"
+ },
+ {
+  "repo": "marmelab/awesome-rest",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-23",
+  "links": 187,
+  "nota": "APIs REST: guias, padrões e ferramentas.",
+  "area": "back-end"
+ },
+ {
+  "repo": "chentsulin/awesome-graphql",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 491,
+  "nota": "GraphQL: servidores, clientes e ferramentas.",
+  "area": "back-end"
+ },
+ {
+  "repo": "Kikobeats/awesome-api",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-10-12",
+  "links": 100,
+  "nota": "Design e boas práticas de APIs.",
+  "area": "back-end"
+ },
+ {
+  "repo": "mfornos/awesome-microservices",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-20",
+  "links": 389,
+  "nota": "Microsserviços: plataformas, padrões e leituras.",
+  "area": "back-end"
+ },
+ {
+  "repo": "kdeldycke/awesome-iam",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 283,
+  "nota": "Autenticação, autorização e gestão de identidade (IAM).",
+  "area": "back-end"
+ },
+ {
+  "repo": "Solido/awesome-flutter",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-03",
+  "links": 897,
+  "nota": "Flutter: pacotes, exemplos e aprendizado.",
+  "area": "mobile"
+ },
+ {
+  "repo": "jondot/awesome-react-native",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-26",
+  "links": 196,
+  "nota": "React Native: componentes, ferramentas e artigos.",
+  "area": "mobile"
+ },
+ {
+  "repo": "JStumpp/awesome-android",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-10-27",
+  "links": 326,
+  "nota": "Android: bibliotecas e ferramentas.",
+  "area": "mobile"
+ },
+ {
+  "repo": "vsouza/awesome-ios",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-08-27",
+  "links": 1876,
+  "nota": "iOS: bibliotecas e ferramentas (mantida por brasileiro); grande, mas é a referência.",
+  "area": "mobile"
+ },
+ {
+  "repo": "ellisonleao/magictools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-26",
+  "links": 430,
+  "nota": "Recursos para desenvolvimento de jogos (mantida por brasileiro): engines, arte, áudio e ferramentas.",
+  "area": "games"
+ },
+ {
+  "repo": "godotengine/awesome-godot",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-12",
+  "links": 368,
+  "nota": "Lista oficial da comunidade Godot: plugins, projetos e tutoriais.",
+  "area": "games"
+ },
+ {
+  "repo": "RyanNielson/awesome-unity",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-01-22",
+  "links": 72,
+  "nota": "Unity: assets, ferramentas e tutoriais.",
+  "area": "games"
+ },
+ {
+  "repo": "insthync/awesome-unreal",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Unlicense",
+  "ultimo_commit": "2026-09-14",
+  "links": 233,
+  "nota": "Unreal Engine: plugins, projetos e recursos.",
+  "area": "games"
+ },
+ {
+  "repo": "love2d-community/awesome-love2d",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-26",
+  "links": 323,
+  "nota": "LÖVE (Lua): bibliotecas e exemplos para jogos 2D.",
+  "area": "games"
+ },
+ {
+  "repo": "notpresident35/awesome-learn-gamedev",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-06-01",
+  "links": 274,
+  "nota": "Trilha de aprendizado em game dev: design, programação, arte e áudio.",
+  "area": "games"
+ },
+ {
+  "repo": "vhladiienko/awesome-game-production",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-04",
+  "links": 99,
+  "nota": "Produção de jogos: gestão, pipeline e carreira.",
+  "area": "games"
+ },
+ {
+  "repo": "wmariuss/awesome-devops",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-21",
+  "links": 327,
+  "nota": "Visão geral de ferramentas e práticas DevOps.",
+  "area": "devops-cloud"
+ },
+ {
+  "repo": "veggiemonk/awesome-docker",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Apache-2.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 412,
+  "nota": "Docker: ferramentas, tutoriais e projetos.",
+  "area": "devops-cloud"
+ },
+ {
+  "repo": "tomhuang12/awesome-k8s-resources",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-05-20",
+  "links": 255,
+  "nota": "Kubernetes: ferramentas e recursos (alternativa à ramitsurana/awesome-kubernetes, que é CC-BY-NC).",
+  "area": "devops-cloud"
+ },
+ {
+  "repo": "shuaibiyy/awesome-terraform",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-21",
+  "links": 527,
+  "nota": "Terraform e infraestrutura como código.",
+  "area": "devops-cloud"
+ },
+ {
+  "repo": "donnemartin/awesome-aws",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2023-05-28",
+  "links": 724,
+  "nota": "AWS: bibliotecas, ferramentas e guias.",
+  "area": "devops-cloud"
+ },
+ {
+  "repo": "cicdops/awesome-ciandcd",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "GPL-2.0",
+  "ultimo_commit": "2026-04-14",
+  "links": 187,
+  "nota": "Integração e entrega contínuas (CI/CD).",
+  "area": "devops-cloud"
+ },
+ {
+  "repo": "dhamaniasad/awesome-postgres",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-31",
+  "links": 366,
+  "nota": "PostgreSQL: ferramentas, extensões e artigos.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "shlomi-noach/awesome-mysql",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-22",
+  "links": 120,
+  "nota": "MySQL: ferramentas e recursos.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "ramnes/awesome-mongodb",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-18",
+  "links": 195,
+  "nota": "MongoDB: bibliotecas, ferramentas e aprendizado.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "planetopendata/awesome-sqlite",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-22",
+  "links": 79,
+  "nota": "SQLite: ferramentas e extensões.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "davidgasquez/awesome-duckdb",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-30",
+  "links": 418,
+  "nota": "DuckDB: extensões, ferramentas e artigos.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "mgramin/awesome-db-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-21",
+  "links": 323,
+  "nota": "Ferramentas de banco de dados: IDEs, migração, modelagem e monitoramento.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "pingcap/awesome-database-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-08-29",
+  "links": 249,
+  "nota": "Trilha de estudo sobre internals de bancos de dados.",
+  "area": "bancos-de-dados"
+ },
+ {
+  "repo": "TheJambo/awesome-testing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 194,
+  "nota": "Teste de software em geral: livros, blogs, ferramentas.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "atinfo/awesome-test-automation",
+  "arquivos": [
+   "README.md",
+   "automation-and-testing-as-service.md",
+   "c#-test-automation.md",
+   "general-purpose-test-automation-tools.md",
+   "java-test-automation.md",
+   "javascript-test-automation.md",
+   "kotlin-test-automation.md",
+   "mobile-test-automation.md",
+   "php-test-automation.md",
+   "python-test-automation.md",
+   "ruby-test-automation.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2025-11-28",
+  "links": 979,
+  "nota": "Automação de testes por linguagem; links distribuídos em arquivos por linguagem.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "christian-bromann/awesome-selenium",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-19",
+  "links": 109,
+  "nota": "Selenium: ferramentas, bibliotecas e recursos.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "mxschmitt/awesome-playwright",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 102,
+  "nota": "Playwright: integrações, ferramentas e exemplos.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "mojoaxel/awesome-regression-testing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 162,
+  "nota": "Testes de regressão visual.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "grafana/awesome-k6",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-30",
+  "links": 127,
+  "nota": "k6: testes de carga e performance.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "aliesbelik/awesome-jmeter",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-07-01",
+  "links": 258,
+  "nota": "JMeter: plugins, ferramentas e tutoriais de teste de performance.",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "goldbergyoni/javascript-testing-best-practices",
+  "arquivos": [
+   "readme-pt-br.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2023-08-08",
+  "links": 144,
+  "nota": "Boas práticas de testes em JavaScript/Node, com tradução para português (usado o arquivo pt-br).",
+  "area": "qa-testes"
+ },
+ {
+  "repo": "donnemartin/system-design-primer",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-03-19",
+  "links": 352,
+  "nota": "Guia de referência para design de sistemas e escalabilidade.",
+  "area": "arquitetura-software"
+ },
+ {
+  "repo": "simskij/awesome-software-architecture",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-19",
+  "links": 64,
+  "nota": "Arquitetura de software: padrões, artigos e livros.",
+  "area": "arquitetura-software"
+ },
+ {
+  "repo": "heynickc/awesome-ddd",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-26",
+  "links": 363,
+  "nota": "Domain-Driven Design, CQRS e Event Sourcing.",
+  "area": "arquitetura-software"
+ },
+ {
+  "repo": "binhnguyennus/awesome-scalability",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-01-04",
+  "links": 924,
+  "nota": "Escalabilidade e confiabilidade com casos reais de grandes empresas.",
+  "area": "arquitetura-software"
+ },
+ {
+  "repo": "DovAmir/awesome-design-patterns",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-10-25",
+  "links": 127,
+  "nota": "Padrões de projeto por linguagem e domínio.",
+  "area": "arquitetura-software"
+ },
+ {
+  "repo": "lutzh/awesome-event-driven-architecture",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-14",
+  "links": 34,
+  "nota": "Arquitetura orientada a eventos.",
+  "area": "arquitetura-software"
+ },
+ {
+  "repo": "awesome-foss/awesome-sysadmin",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-17",
+  "links": 675,
+  "nota": "Administração de sistemas com software livre.",
+  "area": "sistemas-linux"
+ },
+ {
+  "repo": "alebcay/awesome-shell",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-02-20",
+  "links": 375,
+  "nota": "Shell e linha de comando: ferramentas e guias.",
+  "area": "sistemas-linux"
+ },
+ {
+  "repo": "awesome-lists/awesome-bash",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-21",
+  "links": 119,
+  "nota": "Bash: scripts, ferramentas e tutoriais.",
+  "area": "sistemas-linux"
+ },
+ {
+  "repo": "jlevy/the-art-of-command-line",
+  "arquivos": [
+   "README-pt.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2023-07-12",
+  "links": 40,
+  "nota": "Guia da linha de comando em português.",
+  "area": "sistemas-linux"
+ },
+ {
+  "repo": "trimstray/the-book-of-secret-knowledge",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-11-19",
+  "links": 914,
+  "nota": "Coleção de ferramentas e referências para sysadmins e linha de comando; links em HTML (<a href>), por isso a contagem usa href.",
+  "area": "sistemas-linux"
+ },
+ {
+  "repo": "nyquist/awesome-networking",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-06-27",
+  "links": 142,
+  "nota": "Redes de computadores: livros, cursos e ferramentas.",
+  "area": "redes"
+ },
+ {
+  "repo": "facyber/awesome-networking",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-23",
+  "links": 88,
+  "nota": "Recursos de redes: protocolos, certificações e ferramentas.",
+  "area": "redes"
+ },
+ {
+  "repo": "networktocode/awesome-network-automation",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 363,
+  "nota": "Automação de redes (NetDevOps).",
+  "area": "redes"
+ },
+ {
+  "repo": "caesar0301/awesome-pcaptools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-09-03",
+  "links": 135,
+  "nota": "Ferramentas para análise de tráfego e arquivos PCAP.",
+  "area": "redes"
+ },
+ {
+  "repo": "zoidbergwill/awesome-ebpf",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-14",
+  "links": 291,
+  "nota": "eBPF: observabilidade e rede no kernel Linux.",
+  "area": "redes"
+ },
+ {
+  "repo": "nhivp/Awesome-Embedded",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Unlicense",
+  "ultimo_commit": "2026-09-06",
+  "links": 337,
+  "nota": "Sistemas embarcados: MCUs, RTOS, ferramentas e aprendizado.",
+  "area": "embarcados-iot"
+ },
+ {
+  "repo": "HQarroum/awesome-iot",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-30",
+  "links": 247,
+  "nota": "IoT: plataformas, protocolos e hardware.",
+  "area": "embarcados-iot"
+ },
+ {
+  "repo": "phodal/awesome-iot",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-21",
+  "links": 520,
+  "nota": "IoT: frameworks, bibliotecas e recursos.",
+  "area": "embarcados-iot"
+ },
+ {
+  "repo": "kitspace/awesome-electronics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-14",
+  "links": 170,
+  "nota": "Eletrônica: ferramentas de projeto, fabricação e aprendizado.",
+  "area": "embarcados-iot"
+ },
+ {
+  "repo": "thibmaek/awesome-raspberry-pi",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 325,
+  "nota": "Raspberry Pi: projetos, ferramentas e sistemas.",
+  "area": "embarcados-iot"
+ },
+ {
+  "repo": "Kiloreux/awesome-robotics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "WTFPL",
+  "ultimo_commit": "2024-09-22",
+  "links": 157,
+  "nota": "Robótica: bibliotecas, simuladores e cursos.",
+  "area": "embarcados-iot"
+ },
+ {
+  "repo": "ahmet/awesome-web3",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-29",
+  "links": 375,
+  "nota": "Web3: ferramentas, bibliotecas e aprendizado.",
+  "area": "blockchain-web3"
+ },
+ {
+  "repo": "bkrem/awesome-solidity",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-25",
+  "links": 200,
+  "nota": "Solidity e contratos inteligentes.",
+  "area": "blockchain-web3"
+ },
+ {
+  "repo": "btomashvili/awesome-ethereum",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-10-01",
+  "links": 146,
+  "nota": "Ethereum: ferramentas e recursos.",
+  "area": "blockchain-web3"
+ },
+ {
+  "repo": "igorbarinov/awesome-bitcoin",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-29",
+  "links": 167,
+  "nota": "Bitcoin: bibliotecas, serviços e leituras.",
+  "area": "blockchain-web3"
+ },
+ {
+  "repo": "yjjnls/awesome-blockchain",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2023-04-03",
+  "links": 341,
+  "nota": "Blockchain em geral: conceitos, plataformas e projetos.",
+  "area": "blockchain-web3"
+ },
+ {
+  "repo": "sobolevn/awesome-cryptography",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-15",
+  "links": 282,
+  "nota": "Criptografia aplicada: bibliotecas, livros e cursos.",
+  "area": "blockchain-web3"
+ },
+ {
+  "repo": "viatsko/awesome-vscode",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-06-21",
+  "links": 397,
+  "nota": "Extensões e recursos para o VS Code.",
+  "area": "ferramentas-dev"
+ },
+ {
+  "repo": "dictcp/awesome-git",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-07",
+  "links": 136,
+  "nota": "Git: ferramentas, tutoriais e referências.",
+  "area": "ferramentas-dev"
+ },
+ {
+  "repo": "agarrharr/awesome-cli-apps",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-30",
+  "links": 562,
+  "nota": "Aplicativos de linha de comando.",
+  "area": "ferramentas-dev"
+ },
+ {
+  "repo": "moimikey/awesome-devtools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-27",
+  "links": 120,
+  "nota": "Ferramentas para desenvolvedores web.",
+  "area": "ferramentas-dev"
+ },
+ {
+  "repo": "ripienaar/free-for-dev",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-30",
+  "links": 1376,
+  "nota": "Serviços com plano gratuito para desenvolvedores; grande, mas é a referência.",
+  "area": "ferramentas-dev"
+ },
+ {
+  "repo": "MunGell/awesome-for-beginners",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-10-01",
+  "links": 261,
+  "nota": "Projetos com issues amigáveis para iniciantes.",
+  "area": "open-source"
+ },
+ {
+  "repo": "freeCodeCamp/how-to-contribute-to-open-source",
+  "arquivos": [
+   "README-pt-BR.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2025-05-30",
+  "links": 88,
+  "nota": "Guia de como contribuir com open source (versão em português).",
+  "area": "open-source"
+ },
+ {
+  "repo": "todogroup/awesome-ospo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-04",
+  "links": 82,
+  "nota": "Escritórios de programa open source (OSPO) e governança.",
+  "area": "open-source"
+ },
+ {
+  "repo": "matiassingers/awesome-readme",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-28",
+  "links": 148,
+  "nota": "Exemplos e ferramentas para bons READMEs.",
+  "area": "open-source"
+ },
+ {
+  "repo": "nayafia/lemonade-stand",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-08-06",
+  "links": 132,
+  "nota": "Formas de financiar projetos open source.",
+  "area": "open-source"
+ },
+ {
+  "repo": "zachflower/awesome-open-source-supporters",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-07",
+  "links": 68,
+  "nota": "Empresas que oferecem planos gratuitos para projetos open source.",
+  "area": "open-source"
+ },
+ {
+  "repo": "felipefialho/awesome-made-by-brazilians",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-08",
+  "links": 788,
+  "nota": "Projetos open source feitos por brasileiros.",
+  "area": "open-source"
+ },
+ {
+  "repo": "arthurspk/guiadepowerbi",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-03",
+  "links": 128,
+  "nota": "Guia brasileiro de Power BI (DAX, Power Query, cursos, canais e certificação PL-300), em pt-BR.",
+  "area": "analise-de-dados"
+ },
+ {
+  "repo": "arthurspk/guiadeexcel",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-02",
+  "links": 138,
+  "nota": "Guia brasileiro de Excel com cursos, canais, funções e ferramentas, em pt-BR.",
+  "area": "analise-de-dados"
+ },
+ {
+  "repo": "PavelGrigoryevDS/awesome-data-analysis",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-09",
+  "links": 959,
+  "nota": "Referência da área: SQL, Python/pandas, estatística, visualização e BI; bem mantida, CC0.",
+  "area": "analise-de-dados"
+ },
+ {
+  "repo": "thenaturalist/awesome-business-intelligence",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-06-27",
+  "links": 232,
+  "nota": "Ferramentas e recursos de BI, data warehouse e modelagem analítica.",
+  "area": "analise-de-dados"
+ },
+ {
+  "repo": "arthurspk/guiadeengenhariadedados",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-03",
+  "links": 141,
+  "nota": "Guia brasileiro de engenharia de dados (orquestração, ELT, lakehouse, cursos e canais), em pt-BR.",
+  "area": "engenharia-de-dados"
+ },
+ {
+  "repo": "igorbarinov/awesome-data-engineering",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-07",
+  "links": 320,
+  "nota": "Lista de referência da área: bancos, ingestão, processamento em lote e streaming, orquestração.",
+  "area": "engenharia-de-dados"
+ },
+ {
+  "repo": "DataExpert-io/data-engineer-handbook",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-03",
+  "links": 261,
+  "nota": "Handbook muito popular com livros, comunidades, newsletters, cursos e projetos de engenharia de dados.",
+  "area": "engenharia-de-dados"
+ },
+ {
+  "repo": "manuzhang/awesome-streaming",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-28",
+  "links": 148,
+  "nota": "Frameworks, bibliotecas e recursos de processamento de dados em streaming.",
+  "area": "engenharia-de-dados"
+ },
+ {
+  "repo": "arthurspk/guiadecienciadedados",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-02",
+  "links": 151,
+  "nota": "Guia brasileiro de ciência de dados (estatística, Python, R, ML, cursos e canais), em pt-BR.",
+  "area": "ciencia-de-dados-ml"
+ },
+ {
+  "repo": "krzjoa/awesome-python-data-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-04-13",
+  "links": 386,
+  "nota": "Bibliotecas Python para ML, deep learning, visão, NLP e visualização, bem categorizadas.",
+  "area": "ciencia-de-dados-ml"
+ },
+ {
+  "repo": "ChristosChristofidis/awesome-deep-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2025-05-26",
+  "links": 610,
+  "nota": "Cursos, livros, vídeos, tutoriais e frameworks de deep learning.",
+  "area": "ciencia-de-dados-ml"
+ },
+ {
+  "repo": "keon/awesome-nlp",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-07",
+  "links": 743,
+  "nota": "Referência de processamento de linguagem natural: tutoriais, bibliotecas, datasets e recursos por idioma (inclui português).",
+  "area": "ciencia-de-dados-ml"
+ },
+ {
+  "repo": "steven2358/awesome-generative-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-24",
+  "links": 410,
+  "nota": "Lista de referência de IA generativa: modelos, ferramentas de texto, imagem, áudio, vídeo e código.",
+  "area": "ia-generativa"
+ },
+ {
+  "repo": "Danielskry/Awesome-RAG",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-23",
+  "links": 130,
+  "nota": "Recursos e ferramentas de Retrieval-Augmented Generation (RAG).",
+  "area": "ia-generativa"
+ },
+ {
+  "repo": "kaushikb11/awesome-llm-agents",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-27",
+  "links": 111,
+  "nota": "Frameworks e projetos de agentes baseados em LLM.",
+  "area": "ia-generativa"
+ },
+ {
+  "repo": "wong2/awesome-mcp-servers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-13",
+  "links": 660,
+  "nota": "Servidores e clientes do Model Context Protocol (MCP); bem menor e mais curada que punkpeye/awesome-mcp-servers (~9.700 links).",
+  "area": "ia-generativa"
+ },
+ {
+  "repo": "awesomedata/awesome-public-datasets",
+  "arquivos": [
+   "README.rst"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 2035,
+  "nota": "Referência mundial de datasets públicos por tema; README em reStructuredText (links no formato `nome <url>`_), exige parser próprio.",
+  "area": "datasets"
+ },
+ {
+  "repo": "juliohm/awesome-brazil-data",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-27",
+  "links": 59,
+  "nota": "Lista curada de bases de dados brasileiras para estudar o país.",
+  "area": "datasets"
+ },
+ {
+  "repo": "rgllm/awesome-portugal-data",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "GPL-3.0",
+  "ultimo_commit": "2026-09-04",
+  "links": 119,
+  "nota": "Repositórios de dados abertos de Portugal, em português.",
+  "area": "datasets"
+ },
+ {
+  "repo": "leomaurodesenv/game-datasets",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-20",
+  "links": 234,
+  "nota": "Datasets e ferramentas de jogos para pesquisa e ML, mantida por autor brasileiro.",
+  "area": "datasets"
+ },
+ {
+  "repo": "jdorfman/awesome-json-datasets",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-03-01",
+  "links": 171,
+  "nota": "Datasets e APIs públicas que retornam JSON sem autenticação, bons para estudo.",
+  "area": "datasets"
+ },
+ {
+  "repo": "arthurspk/guiadecybersecurity",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2023-03-31",
+  "links": 1273,
+  "nota": "Guia brasileiro de cibersegurança (roadmap, sites, canais, ferramentas, cheatsheets), em pt-BR; último commit há ~3,5 anos.",
+  "area": "ciberseguranca"
+ },
+ {
+  "repo": "enaqx/awesome-pentest",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-25",
+  "links": 613,
+  "nota": "Referência de pentest: ferramentas, distros, livros, CTFs e recursos ofensivos.",
+  "area": "ciberseguranca"
+ },
+ {
+  "repo": "fabacab/awesome-cybersecurity-blueteam",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-06-17",
+  "links": 268,
+  "nota": "Recursos de blue team: detecção, resposta a incidentes, hardening e threat hunting.",
+  "area": "ciberseguranca"
+ },
+ {
+  "repo": "rshipp/awesome-malware-analysis",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2024-05-30",
+  "links": 424,
+  "nota": "Ferramentas e recursos de análise de malware, sandboxes e threat intel.",
+  "area": "ciberseguranca"
+ },
+ {
+  "repo": "cugu/awesome-forensics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-26",
+  "links": 185,
+  "nota": "Ferramentas e recursos de forense digital, bem mantida.",
+  "area": "ciberseguranca"
+ },
+ {
+  "repo": "ngalongc/bug-bounty-reference",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-08-01",
+  "links": 240,
+  "nota": "Writeups de bug bounty organizados por tipo de vulnerabilidade.",
+  "area": "ciberseguranca"
+ },
+ {
+  "repo": "jivoi/awesome-osint",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-09",
+  "links": 1459,
+  "nota": "Referência da área: buscadores, redes sociais, pessoas, geolocalização, imagens e ferramentas OSINT.",
+  "area": "osint"
+ },
+ {
+  "repo": "wddadk/Offensive-OSINT-Tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-30",
+  "links": 142,
+  "nota": "Ferramentas OSINT com foco em reconhecimento ofensivo e enumeração.",
+  "area": "osint"
+ },
+ {
+  "repo": "tracelabs/awesome-osint",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MPL-2.0",
+  "ultimo_commit": "2026-08-23",
+  "links": 29,
+  "nota": "Lista da Trace Labs (ONG de OSINT para pessoas desaparecidas); curta e focada.",
+  "area": "osint"
+ },
+ {
+  "repo": "apurvsinghgautam/dark-web-osint-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-07",
+  "links": 26,
+  "nota": "Ferramentas OSINT para investigação na dark web.",
+  "area": "osint"
+ },
+ {
+  "repo": "arthurspk/guiadelgpd",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-02",
+  "links": 132,
+  "nota": "Guia brasileiro de LGPD (ANPD, cursos, livros, canais, ferramentas e carreira de DPO), em pt-BR.",
+  "area": "privacidade"
+ },
+ {
+  "repo": "pluja/awesome-privacy",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 811,
+  "nota": "Referência de alternativas e serviços que respeitam a privacidade, por categoria.",
+  "area": "privacidade"
+ },
+ {
+  "repo": "nikitavoloboev/privacy-respecting",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-02",
+  "links": 214,
+  "nota": "Alternativas que respeitam a privacidade para serviços e apps populares.",
+  "area": "privacidade"
+ },
+ {
+  "repo": "bakke92/awesome-gdpr",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-31",
+  "links": 65,
+  "nota": "Recursos sobre GDPR: textos, guias, ferramentas e conformidade.",
+  "area": "privacidade"
+ },
+ {
+  "repo": "alexpate/awesome-design-systems",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Unlicense",
+  "ultimo_commit": "2026-04-28",
+  "links": 283,
+  "nota": "Referência em design systems: sistemas públicos, artigos, ferramentas e livros.",
+  "area": "design-ui-ux"
+ },
+ {
+  "repo": "ttt30ga/awesome-product-design",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-09-21",
+  "links": 146,
+  "nota": "Ferramentas e recursos de product design (prototipação, wireframe, handoff, user research).",
+  "area": "design-ui-ux"
+ },
+ {
+  "repo": "brunopulis/awesome-a11y",
+  "arquivos": [
+   "topics/tools.md",
+   "topics/courses.md",
+   "topics/books.md",
+   "topics/guides.md",
+   "topics/getting-started.md",
+   "topics/articles-and-videos.md",
+   "topics/blogs.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-03",
+  "links": 270,
+  "nota": "Lista de acessibilidade mantida por brasileiro (Bruno Pulis); só os tópicos de ferramentas, cursos, livros, guias, artigos e blogs.",
+  "area": "design-ui-ux"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-ux",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 43,
+  "nota": "UX geral: pesquisa, ferramentas e aprendizado; licença declarada no README.",
+  "area": "design-ui-ux"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-figma",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 45,
+  "nota": "Plugins, kits e aprendizado de Figma; licença declarada no README.",
+  "area": "design-ui-ux"
+ },
+ {
+  "repo": "klaufel/awesome-design-systems",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-14",
+  "links": 120,
+  "nota": "Complementa a de alexpate com design systems e ferramentas; sobreposição parcial.",
+  "area": "design-ui-ux"
+ },
+ {
+  "repo": "Jolg42/awesome-typography",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-24",
+  "links": 360,
+  "nota": "Tipografia: fontes, ferramentas, livros, foundries e recursos de tipografia digital.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "brabadu/awesome-fonts",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-26",
+  "links": 171,
+  "nota": "Fontes livres, fontes de ícones e ferramentas para trabalhar com fontes; CC0 declarado no README.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "KenneyNL/Adobe-Alternatives",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-06-29",
+  "links": 229,
+  "nota": "Alternativas gratuitas e open source a Photoshop, Illustrator, InDesign, After Effects etc.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "notlmn/awesome-icons",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-27",
+  "links": 78,
+  "nota": "Projetos de ícones em SVG, PNG e fonte para download.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "Siilwyn/awesome-pixel-art",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 53,
+  "nota": "Pixel art: ferramentas, tutoriais, paletas e comunidades.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "mrpeker/awesome-illustrations",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-03-14",
+  "links": 43,
+  "nota": "Bancos de ilustrações gratuitas para projetos; CC0 declarado no README.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "dogfuntom/awesome-palette-choice",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Unlicense",
+  "ultimo_commit": "2025-01-15",
+  "links": 32,
+  "nota": "Ferramentas e referências para escolher paletas de cores.",
+  "area": "design-grafico"
+ },
+ {
+  "repo": "Greenysmac/awesome-davinci-resolve",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 240,
+  "nota": "Plugins, DCTLs, OFX, templates, scripts e recursos de DaVinci Resolve.",
+  "area": "edicao-de-video"
+ },
+ {
+  "repo": "forart/HyMPS",
+  "arquivos": [
+   "Video/Editors.md",
+   "Video/OpenFX.md"
+  ],
+  "licenca": "GPL-3.0",
+  "ultimo_commit": "2026-09-24",
+  "links": 230,
+  "nota": "Editores de vídeo e efeitos OpenFX open source; arquivos em tabela com badges (contagem já exclui badges).",
+  "area": "edicao-de-video"
+ },
+ {
+  "repo": "transitive-bullshit/awesome-ffmpeg",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-18",
+  "links": 37,
+  "nota": "Ferramentas, guias e wrappers de FFmpeg; CC0 declarado no README.",
+  "area": "edicao-de-video",
+  "excluir_topicos": "^(JavaScript|Native|Mobile|Python|Go|Rust|Node|Ruby|Java|C|PHP|\\.NET|Swift)"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-youtube",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-21",
+  "links": 36,
+  "nota": "Ferramentas e recursos para criadores de vídeo no YouTube; licença declarada no README.",
+  "area": "edicao-de-video"
+ },
+ {
+  "repo": "stingalleman/awesome-audiovisual",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-21",
+  "links": 74,
+  "nota": "Iluminação, áudio, vídeo, timecode e ferramentas de produção audiovisual profissional.",
+  "area": "filmmaking"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-drone-photography-cinematography",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 53,
+  "nota": "Drones, técnicas de filmagem aérea, pós-produção e regras de voo.",
+  "area": "filmmaking"
+ },
+ {
+  "repo": "oli-z/awesome-filmmaking",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-08",
+  "links": 35,
+  "nota": "Softwares de edição, VFX, ferramentas de set, música livre e aprendizado para cinema.",
+  "area": "filmmaking"
+ },
+ {
+  "repo": "rogersilvasouza/awesome-photography",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-19",
+  "links": 243,
+  "nota": "Marcas, podcasts, canais, cursos, guias de pose e utilitários; mantida por autor brasileiro.",
+  "area": "fotografia"
+ },
+ {
+  "repo": "neutraltone/awesome-stock-resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-02-11",
+  "links": 283,
+  "nota": "Bancos de fotos, vídeos e ilustrações gratuitos.",
+  "area": "fotografia"
+ },
+ {
+  "repo": "lunohodov/awesome-astrophotography",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-06-11",
+  "links": 112,
+  "nota": "Astrofotografia: softwares, processamento, equipamentos e comunidades.",
+  "area": "fotografia"
+ },
+ {
+  "repo": "ibaaj/awesome-OpenSourcePhotography",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-04-19",
+  "links": 83,
+  "nota": "Softwares open source de fotografia: RAW, catálogo, HDR, panorama.",
+  "area": "fotografia"
+ },
+ {
+  "repo": "agmmnn/awesome-blender",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-01-22",
+  "links": 1069,
+  "nota": "Referência de Blender: add-ons, tutoriais, assets e ferramentas; lista grande, mas focada. Ignorar README_ZH.md (duplicada).",
+  "area": "motion-3d"
+ },
+ {
+  "repo": "inlife/awesome-ae",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-30",
+  "links": 123,
+  "nota": "After Effects: scripts, plugins, tutoriais e recursos de motion graphics.",
+  "area": "motion-3d"
+ },
+ {
+  "repo": "fliptheweb/motion-ui-design",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-15",
+  "links": 122,
+  "nota": "Motion em interfaces: ferramentas de animação, prototipação e inspiração; CC0 declarado no README.",
+  "area": "motion-3d"
+ },
+ {
+  "repo": "LottieFiles/awesome-lottie",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-04-06",
+  "links": 50,
+  "nota": "Ecossistema Lottie para animações vetoriais leves em apps e web.",
+  "area": "motion-3d"
+ },
+ {
+  "repo": "ad-si/awesome-music-production",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "ISC",
+  "ultimo_commit": "2026-09-23",
+  "links": 340,
+  "nota": "Softwares, serviços, hardware e conhecimento de produção musical; links em estilo referência ([x]: url), não em ](url).",
+  "area": "audio-musica"
+ },
+ {
+  "repo": "ciconia/awesome-music",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-27",
+  "links": 144,
+  "nota": "Software de música, teoria, notação e bibliotecas; CC0 declarado no README.",
+  "area": "audio-musica"
+ },
+ {
+  "repo": "dreikanter/awesome-vst",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-09-15",
+  "links": 120,
+  "nota": "Plugins VST gratuitos e pagos por categoria.",
+  "area": "audio-musica"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-audio-engineering",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 73,
+  "nota": "Engenharia de áudio: gravação, mixagem, masterização e aprendizado.",
+  "area": "audio-musica"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-podcasting-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 56,
+  "nota": "Ferramentas de gravação, edição, hospedagem e distribuição de podcasts.",
+  "area": "audio-musica"
+ },
+ {
+  "repo": "classcompliant/awesome-dj-producer",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2025-10-23",
+  "links": 38,
+  "nota": "Recursos para DJs e produtores de música eletrônica.",
+  "area": "audio-musica"
+ },
+ {
+  "repo": "testthedocs/awesome-docs",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-NC-4.0",
+  "ultimo_commit": "2026-09-25",
+  "links": 293,
+  "nota": "Documentação e escrita técnica: ferramentas, guias de estilo, comunidades. Licença não comercial.",
+  "area": "escrita"
+ },
+ {
+  "repo": "BolajiAyodeji/awesome-technical-writing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-07-22",
+  "links": 171,
+  "nota": "Escrita técnica: cursos, livros, ferramentas e comunidades; licença declarada no README.",
+  "area": "escrita"
+ },
+ {
+  "repo": "mundimark/awesome-markdown-editors",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-06",
+  "links": 129,
+  "nota": "Editores Markdown e ferramentas de escrita sem distração.",
+  "area": "escrita"
+ },
+ {
+  "repo": "writing-resources/awesome-scientific-writing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-15",
+  "links": 70,
+  "nota": "Escrita científica com Markdown, LaTeX, Pandoc e gerenciadores de referências.",
+  "area": "escrita"
+ },
+ {
+  "repo": "armstrongl/awesome-writing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-01-15",
+  "links": 64,
+  "nota": "Ferramentas, blogs, guias de estilo, livros e cursos de escrita.",
+  "area": "escrita"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-blogging",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 57,
+  "nota": "Plataformas, ferramentas e estratégias de blog.",
+  "area": "escrita"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-self-publishing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 52,
+  "nota": "Autopublicação: diagramação, capas, distribuição e marketing de livros.",
+  "area": "escrita"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-journalism",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 51,
+  "nota": "Jornalismo: apuração, checagem, ferramentas e ética.",
+  "area": "escrita"
+ },
+ {
+  "repo": "marketingtoolslist/awesome-marketing",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-27",
+  "links": 298,
+  "nota": "Lista ampla e atual de ferramentas por disciplina: estratégia, SEO, social, conteúdo, e-mail, automação e analytics.",
+  "area": "marketing-digital"
+ },
+ {
+  "repo": "paulbradish/awesome-digital-marketing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-07-29",
+  "links": 263,
+  "nota": "Recursos de marketing digital (ferramentas, cursos, blogs) com licença CC0.",
+  "area": "marketing-digital"
+ },
+ {
+  "repo": "btomashvili/awesome-growth-hacking",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-08-26",
+  "links": 126,
+  "nota": "Growth hacking: ferramentas, artigos e táticas de aquisição.",
+  "area": "marketing-digital"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-email-marketing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 66,
+  "nota": "E-mail marketing: plataformas, entregabilidade, templates e guias.",
+  "area": "marketing-digital"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-content-marketing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 66,
+  "nota": "Marketing de conteúdo: planejamento, ferramentas e referências.",
+  "area": "marketing-digital"
+ },
+ {
+  "repo": "0xnr/awesome-analytics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-02-17",
+  "links": 190,
+  "nota": "Ferramentas de analytics e mensuração (web, produto, atribuição), base de qualquer gestão de tráfego.",
+  "area": "trafego-pago",
+  "excluir_topicos": "Endpoints|Analytics layers"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-google-analytics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-06-08",
+  "links": 74,
+  "nota": "Recursos de Google Analytics/GA4, tagueamento e relatórios.",
+  "area": "trafego-pago"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-facebook",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 47,
+  "nota": "Recursos oficiais e ferramentas do ecossistema Facebook/Meta, incluindo anúncios.",
+  "area": "trafego-pago"
+ },
+ {
+  "repo": "cenoura/awesome-ads",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2020-10-12",
+  "links": 38,
+  "nota": "Ad tech e mídia programática; antiga (2020), usar só como complemento.",
+  "area": "trafego-pago",
+  "excluir_topicos": "Prebid|Header Bidding"
+ },
+ {
+  "repo": "AirGrid/awesome-adtech",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2021-07-30",
+  "links": 36,
+  "nota": "Publicações, newsletters, comunidades e projetos de adtech; antiga (2021), complemento.",
+  "area": "trafego-pago"
+ },
+ {
+  "repo": "teles/awesome-seo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-30",
+  "links": 96,
+  "nota": "Lista de SEO mais conhecida no GitHub, muito ativa.",
+  "area": "seo"
+ },
+ {
+  "repo": "marcobiedermann/search-engine-optimization",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-02-24",
+  "links": 120,
+  "nota": "Checklist de SEO técnico com links de referência e ferramentas.",
+  "area": "seo"
+ },
+ {
+  "repo": "serpapi/awesome-seo-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-14",
+  "links": 127,
+  "nota": "Ferramentas de SEO por categoria (palavras-chave, backlinks, auditoria, SERP).",
+  "area": "seo"
+ },
+ {
+  "repo": "madawei2699/awesome-seo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-08-23",
+  "links": 65,
+  "nota": "Recursos de SEO para desenvolvedores e sites independentes.",
+  "area": "seo"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-seo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 49,
+  "nota": "Guias, ferramentas e comunidades de SEO.",
+  "area": "seo"
+ },
+ {
+  "repo": "best-of-ai/awesome-ai-seo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-27",
+  "links": 46,
+  "nota": "Ferramentas de SEO com IA e otimização para buscadores generativos.",
+  "area": "seo"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-social-media",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 60,
+  "nota": "Gestão de redes sociais: ferramentas, analytics e guias.",
+  "area": "social-media"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-instagram",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 52,
+  "nota": "Recursos e ferramentas para Instagram.",
+  "area": "social-media"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-youtube",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-21",
+  "links": 47,
+  "nota": "Recursos para criadores no YouTube.",
+  "area": "social-media"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-linkedin",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 48,
+  "nota": "Recursos para LinkedIn: perfil, conteúdo e ferramentas.",
+  "area": "social-media"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-x",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 48,
+  "nota": "Recursos e ferramentas para X (Twitter).",
+  "area": "social-media"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-podcasting-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 66,
+  "nota": "Ferramentas para produção e distribuição de podcasts.",
+  "area": "social-media"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-blogging",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 67,
+  "nota": "Ferramentas e recursos para blogs e criação de conteúdo escrito.",
+  "area": "social-media"
+ },
+ {
+  "repo": "deshabhishek007/awesome-social-media-referencing-resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "GPL-3.0",
+  "ultimo_commit": "2024-02-01",
+  "links": 57,
+  "nota": "Documentação oficial e guias de tamanhos/formatos de cada rede social.",
+  "area": "social-media"
+ },
+ {
+  "repo": "mailtoharshit/awesome-salesforce",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2021-10-11",
+  "links": 187,
+  "nota": "Maior lista sobre Salesforce (CRM); última atualização em 2021.",
+  "area": "vendas",
+  "excluir_topicos": "IDE|Packages|Developer|Open Source Projects|Plugins|Jav|Libraries"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-linkedin",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 48,
+  "nota": "LinkedIn para social selling e prospecção B2B.",
+  "area": "vendas"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-whatsapp",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 88,
+  "nota": "WhatsApp Business, API e ferramentas, canal central de vendas no Brasil.",
+  "area": "vendas"
+ },
+ {
+  "repo": "julionc/awesome-shopify",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-29",
+  "links": 158,
+  "nota": "Lista de referência sobre Shopify: temas, apps, APIs e guias.",
+  "area": "e-commerce"
+ },
+ {
+  "repo": "astrotars/awesome-ecommerce-stack",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2025-02-17",
+  "links": 154,
+  "nota": "Stack de ferramentas para operar um e-commerce (marketing, logística, suporte, pagamentos).",
+  "area": "e-commerce"
+ },
+ {
+  "repo": "kdeldycke/awesome-billing",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 279,
+  "nota": "Pagamentos, faturamento, precificação, fraude e marketplaces.",
+  "area": "e-commerce"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-payments",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 86,
+  "nota": "Gateways, processadores e conceitos de pagamentos online.",
+  "area": "e-commerce"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-amazon",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 62,
+  "nota": "Recursos para vender e operar na Amazon.",
+  "area": "e-commerce"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-stripe",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 94,
+  "nota": "Integração e ferramentas Stripe.",
+  "area": "e-commerce"
+ },
+ {
+  "repo": "KrishMunot/awesome-startup",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-08-27",
+  "links": 276,
+  "nota": "Recursos para criar uma startup: ideia, validação, captação e crescimento.",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "mezod/awesome-indie",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-3.0",
+  "ultimo_commit": "2024-06-12",
+  "links": 216,
+  "nota": "Negócios independentes e bootstrapped: artigos, podcasts e ferramentas.",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "RayBB/awesome-social-enterprise",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2024-12-23",
+  "links": 111,
+  "nota": "Negócios de impacto social.",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "mahseema/awesome-saas-directories",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-02-14",
+  "links": 57,
+  "nota": "Diretórios onde lançar e divulgar um SaaS.",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "directorysurf/awesome-founder-communities",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-08-15",
+  "links": 36,
+  "nota": "Comunidades de fundadores.",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-saas",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 95,
+  "nota": "Modelos, métricas e ferramentas para negócios SaaS.",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "mmccaff/PlacesToPostYourStartup",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-29",
+  "links": 110,
+  "nota": "Lugares para divulgar uma startup ou produto; links em URL crua (110 ocorrências de http).",
+  "area": "empreendedorismo"
+ },
+ {
+  "repo": "dend/awesome-product-management",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-07",
+  "links": 288,
+  "nota": "Lista de referência de gestão de produto (livros, artigos, ferramentas).",
+  "area": "produto"
+ },
+ {
+  "repo": "ttt30ga/awesome-product-design",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-09-21",
+  "links": 148,
+  "nota": "Design de produto do conceito à produção.",
+  "area": "produto"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-product-management",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-06-08",
+  "links": 81,
+  "nota": "Recursos e ferramentas de product management.",
+  "area": "produto"
+ },
+ {
+  "repo": "domenicosolazzo/awesome-okr",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2021-09-25",
+  "links": 98,
+  "nota": "OKRs: metodologia, exemplos e ferramentas; última atualização em 2021.",
+  "area": "produto"
+ },
+ {
+  "repo": "lorabv/awesome-agile",
+  "arquivos": [
+   "Product-Management.md",
+   "Product-Roadmap-and-Prioritisation.md",
+   "Design-Thinking.md",
+   "Estimation.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2022-01-17",
+  "links": 63,
+  "nota": "Arquivos de produto, roadmap, priorização e design thinking da lista awesome-agile.",
+  "area": "produto"
+ },
+ {
+  "repo": "shahedbd/awesome-project-management",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-29",
+  "links": 275,
+  "nota": "Ferramentas, metodologias e recursos de gestão de projetos.",
+  "area": "gestao-de-projetos"
+ },
+ {
+  "repo": "lorabv/awesome-agile",
+  "arquivos": [
+   "README.md",
+   "Team.md",
+   "Retrospectives.md",
+   "Technical-Debt.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2022-01-17",
+  "links": 92,
+  "nota": "Agilidade organizada por tema (times, retrospectivas, dívida técnica).",
+  "area": "gestao-de-projetos"
+ },
+ {
+  "repo": "kdeldycke/awesome-engineering-team-management",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-23",
+  "links": 411,
+  "nota": "Gestão e liderança de times de engenharia.",
+  "area": "gestao-de-projetos"
+ },
+ {
+  "repo": "rominalodolo/scrummaster",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2024-03-04",
+  "links": 59,
+  "nota": "Recursos para Scrum Masters.",
+  "area": "gestao-de-projetos"
+ },
+ {
+  "repo": "knowledge21/awesome-agile",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2019-11-23",
+  "links": 83,
+  "nota": "Lista da consultoria brasileira Knowledge21 sobre agilidade; antiga (2019).",
+  "area": "gestao-de-projetos"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-finance",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 91,
+  "nota": "Finanças pessoais, investimentos e mercado: ferramentas e referências.",
+  "area": "financas"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-fintech",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 100,
+  "nota": "Fintechs, open banking e infraestrutura financeira.",
+  "area": "financas"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-economics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-25",
+  "links": 67,
+  "nota": "Economia: dados, cursos e publicações.",
+  "area": "financas"
+ },
+ {
+  "repo": "Tpessia/dados-financeiros",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-06-29",
+  "links": 105,
+  "nota": "Fontes brasileiras de dados financeiros (Bacen, CVM, B3, Tesouro); links em URL crua.",
+  "area": "financas"
+ },
+ {
+  "repo": "plaintextaccounting/plaintextaccounting.github.io",
+  "arquivos": [
+   "src/index.md"
+  ],
+  "licenca": "GPL-3.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 356,
+  "nota": "Site plaintextaccounting.org: ferramentas, artigos e guias de contabilidade em texto puro.",
+  "area": "contabilidade"
+ },
+ {
+  "repo": "siddhantgoel/awesome-beancount",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-13",
+  "links": 192,
+  "nota": "Contabilidade de partidas dobradas com Beancount.",
+  "area": "contabilidade"
+ },
+ {
+  "repo": "kdeldycke/awesome-billing",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 279,
+  "nota": "Faturamento, notas, impostos sobre vendas, contabilidade e conciliação.",
+  "area": "contabilidade"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-excel",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-06-08",
+  "links": 83,
+  "nota": "Excel e planilhas, ferramenta central da rotina contábil.",
+  "area": "contabilidade"
+ },
+ {
+  "repo": "sjamilla/awesome-recruitment",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2023-12-18",
+  "links": 339,
+  "nota": "Recrutamento e sourcing: ferramentas, buscas booleanas e recursos.",
+  "area": "rh-pessoas"
+ },
+ {
+  "repo": "dailydotdev/awesome-developer-recruiting",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-02-22",
+  "links": 217,
+  "nota": "Recrutamento de pessoas desenvolvedoras.",
+  "area": "rh-pessoas"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-remote-work",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-06-08",
+  "links": 82,
+  "nota": "Práticas e ferramentas para equipes remotas.",
+  "area": "rh-pessoas"
+ },
+ {
+  "repo": "openlegaldata/awesome-legal-data",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-02",
+  "links": 180,
+  "nota": "Dados jurídicos abertos de vários países e ferramentas.",
+  "area": "juridico"
+ },
+ {
+  "repo": "ankane/awesome-legal",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-04",
+  "links": 37,
+  "nota": "Modelos gratuitos de documentos legais para empresas (termos, privacidade).",
+  "area": "juridico"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-digital-rights",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 58,
+  "nota": "Direitos digitais, privacidade e liberdade na internet.",
+  "area": "juridico"
+ },
+ {
+  "repo": "brettkromkamp/awesome-knowledge-management",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-12",
+  "links": 216,
+  "nota": "Gestão do conhecimento e bases de conhecimento.",
+  "area": "atendimento-suporte",
+  "excluir_topicos": "Semantic Web|Bibliotecas|Libraries|Up and Coming|People|Pessoas"
+ },
+ {
+  "repo": "BolajiAyodeji/awesome-technical-writing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-07-22",
+  "links": 175,
+  "nota": "Escrita técnica para central de ajuda e documentação de suporte.",
+  "area": "atendimento-suporte"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-whatsapp",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 88,
+  "nota": "WhatsApp Business e API, principal canal de atendimento no Brasil.",
+  "area": "atendimento-suporte"
+ },
+ {
+  "repo": "rossant/awesome-math",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-14",
+  "links": 372,
+  "nota": "Referência da área: cursos, livros, ferramentas e tópicos de matemática pura e aplicada.",
+  "area": "matematica"
+ },
+ {
+  "repo": "erikgahner/awesome-statistics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-05",
+  "links": 306,
+  "nota": "Materiais de estatística organizados por tema (probabilidade, inferência, regressão, causalidade).",
+  "area": "matematica"
+ },
+ {
+  "repo": "ossu/math",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-08-08",
+  "links": 34,
+  "nota": "Currículo autodidata de graduação em matemática com cursos gratuitos.",
+  "area": "matematica"
+ },
+ {
+  "repo": "RahulBirCodes/awesome-steam",
+  "arquivos": [
+   "content/mathematics/index.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-05",
+  "links": 50,
+  "nota": "Recursos de matemática para ensino básico e médio (só a seção de matemática).",
+  "area": "matematica"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-mathematics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 81,
+  "nota": "Lista enxuta e mantida de plataformas, ferramentas e referências de matemática.",
+  "area": "matematica"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-physics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 80,
+  "nota": "Lista mantida de cursos, livros, simulações e ferramentas de física.",
+  "area": "fisica-astronomia"
+ },
+ {
+  "repo": "wbierbower/awesome-physics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-02-20",
+  "links": 91,
+  "nota": "Software e simuladores para explorar conceitos de física.",
+  "area": "fisica-astronomia"
+ },
+ {
+  "repo": "mbiesiad/awesome-astronomy",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-06-01",
+  "links": 327,
+  "nota": "Astronomia para público geral: agências (NASA, ESA), observatórios, bases de dados e ciência cidadã.",
+  "area": "fisica-astronomia"
+ },
+ {
+  "repo": "Developer-Y/math-science-video-lectures",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-06-17",
+  "links": 290,
+  "nota": "Cursos universitários em vídeo de física (maior seção), matemática e química.",
+  "area": "fisica-astronomia"
+ },
+ {
+  "repo": "lmmentel/awesome-python-chemistry",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2025-09-21",
+  "links": 160,
+  "nota": "Bibliotecas e ferramentas Python para química computacional e quimioinformática.",
+  "area": "quimica"
+ },
+ {
+  "repo": "hsiaoyi0504/awesome-cheminformatics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-03-14",
+  "links": 142,
+  "nota": "Referência em quimioinformática: bibliotecas, bancos de dados, cursos e livros.",
+  "area": "quimica"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-chemistry",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 90,
+  "nota": "Visão geral mantida de bases de dados, softwares, cursos e sociedades de química.",
+  "area": "quimica"
+ },
+ {
+  "repo": "kjappelbaum/awesome-chemistry-datasets",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-01",
+  "links": 125,
+  "nota": "Conjuntos de dados químicos abertos para pesquisa e aprendizado de máquina.",
+  "area": "quimica"
+ },
+ {
+  "repo": "danielecook/Awesome-Bioinformatics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-27",
+  "links": 356,
+  "nota": "Referência da área: softwares, pipelines e recursos de bioinformática.",
+  "area": "biologia"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-bioinformatics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 46,
+  "nota": "Lista enxuta e mantida de bancos de dados, ferramentas e cursos de bioinformática.",
+  "area": "biologia"
+ },
+ {
+  "repo": "ecohealthalliance/awesome-parasite",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-NC-4.0",
+  "ultimo_commit": "2026-05-28",
+  "links": 90,
+  "nota": "Bases de dados e recursos sobre parasitas e interações patógeno-hospedeiro.",
+  "area": "biologia"
+ },
+ {
+  "repo": "pansapiens/awesome-protein-design-software",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-12-17",
+  "links": 132,
+  "nota": "Softwares de predição de estrutura e design de proteínas.",
+  "area": "biologia"
+ },
+ {
+  "repo": "kakoni/awesome-healthcare",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-05",
+  "links": 166,
+  "nota": "Software de código aberto para saúde: prontuários, padrões (FHIR, DICOM), dados e pesquisa.",
+  "area": "saude"
+ },
+ {
+  "repo": "leandromineti/awesome-healthmetrics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2023-09-22",
+  "links": 122,
+  "nota": "Recursos na interseção entre saúde, epidemiologia e ciência de dados.",
+  "area": "saude",
+  "excluir_topicos": "Competitions|Conferences"
+ },
+ {
+  "repo": "O957/awesome-infectious-disease-modeling",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-12",
+  "links": 65,
+  "nota": "Ferramentas, cursos e dados para modelagem de doenças infecciosas.",
+  "area": "saude",
+  "excluir_topicos": "^People$|^Pessoas$"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-digital-health",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-14",
+  "links": 48,
+  "nota": "Saúde digital: telemedicina, padrões, plataformas e regulação.",
+  "area": "saude"
+ },
+ {
+  "repo": "analyticalmonk/awesome-neuroscience",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-06-24",
+  "links": 75,
+  "nota": "Bibliotecas, cursos e conteúdo de neurociência.",
+  "area": "psicologia",
+  "excluir_topicos": "^(Python|Matlab|R|Julia|C\\+\\+|Java)$"
+ },
+ {
+  "repo": "dreamingechoes/awesome-mental-health",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-05-02",
+  "links": 141,
+  "nota": "Saúde mental e autocuidado, com artigos, palestras e organizações.",
+  "area": "psicologia"
+ },
+ {
+  "repo": "MohamedFAhmed/awesome-mental-health",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-02",
+  "links": 132,
+  "nota": "Recursos de saúde mental: apps, linhas de apoio, livros e comunidades.",
+  "area": "psicologia"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-neuroscience",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 57,
+  "nota": "Lista mantida de cursos, bases de dados e ferramentas de neurociência.",
+  "area": "psicologia"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-economics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-25",
+  "links": 67,
+  "nota": "Bases de dados, ferramentas, modelos e instituições de economia.",
+  "area": "economia"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-public-policy",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 92,
+  "nota": "Instituições, dados e ferramentas para políticas públicas.",
+  "area": "economia"
+ },
+ {
+  "repo": "antontarasenko/awesome-economics",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2023-03-13",
+  "links": 106,
+  "nota": "Kit inicial do economista: dados, software, cursos e blogs.",
+  "area": "economia"
+ },
+ {
+  "repo": "hanlulong/awesome-ai-for-economists",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-19",
+  "links": 444,
+  "nota": "Ferramentas de IA, bibliotecas e dados para pesquisa e ensino de economia.",
+  "area": "economia"
+ },
+ {
+  "repo": "juliohm/awesome-brazil-data",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-27",
+  "links": 59,
+  "nota": "Fontes de dados sobre o Brasil por estado e tema (IBGE, Ipea, portais estaduais).",
+  "area": "economia"
+ },
+ {
+  "repo": "dh-tech/awesome-digital-humanities",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-09",
+  "links": 126,
+  "nota": "Software e recursos para humanidades digitais.",
+  "area": "humanidades"
+ },
+ {
+  "repo": "maehr/awesome-digital-history",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-30",
+  "links": 163,
+  "nota": "Arquivos, fontes primárias, ferramentas e cursos de história digital.",
+  "area": "humanidades"
+ },
+ {
+  "repo": "gesiscss/awesome-computational-social-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-26",
+  "links": 352,
+  "nota": "Ciências sociais computacionais: cursos, livros, dados e ferramentas.",
+  "area": "humanidades"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-political-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 66,
+  "nota": "Recursos, dados e instituições de ciência política.",
+  "area": "humanidades"
+ },
+ {
+  "repo": "vuizur/awesome-language-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-10-06",
+  "links": 62,
+  "nota": "Ferramentas e métodos para aprender idiomas (leitura, áudio, SRS).",
+  "area": "idiomas"
+ },
+ {
+  "repo": "yvoronoy/awesome-english",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-11",
+  "links": 151,
+  "nota": "Recursos para aprender inglês: gramática, vocabulário, pronúncia e podcasts.",
+  "area": "idiomas"
+ },
+ {
+  "repo": "yudataguy/awesome-japanese",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 204,
+  "nota": "Recursos para aprender japonês, do kana à leitura avançada.",
+  "area": "idiomas"
+ },
+ {
+  "repo": "awesome-german/learning-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-27",
+  "links": 176,
+  "nota": "Apps e materiais para aprender alemão (usar só o README em inglês).",
+  "area": "idiomas"
+ },
+ {
+  "repo": "EbookFoundation/free-science-books",
+  "arquivos": [
+   "free-science-books.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-10-30",
+  "links": 144,
+  "nota": "Livros científicos gratuitos organizados por área (matemática, física, biologia, medicina).",
+  "area": "educacao"
+ },
+ {
+  "repo": "RahulBirCodes/awesome-steam",
+  "arquivos": [
+   "README.md",
+   "content/science/index.md",
+   "content/arts/index.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-05",
+  "links": 70,
+  "nota": "Materiais de apoio para ciências e artes em todos os níveis de ensino.",
+  "area": "educacao"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-edtech",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 45,
+  "nota": "Plataformas, ferramentas e pesquisa em tecnologia educacional.",
+  "area": "educacao"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-online-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 43,
+  "nota": "Plataformas de MOOCs, cursos gratuitos e recursos de aprendizagem online.",
+  "area": "educacao"
+ },
+ {
+  "repo": "writing-resources/awesome-scientific-writing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-15",
+  "links": 71,
+  "nota": "Escrita científica com Markdown, Pandoc, LaTeX e Jupyter.",
+  "area": "pesquisa-academica"
+ },
+ {
+  "repo": "egeerardyn/awesome-LaTeX",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-08-08",
+  "links": 187,
+  "nota": "Referência para LaTeX: editores, pacotes, modelos e tutoriais.",
+  "area": "pesquisa-academica"
+ },
+ {
+  "repo": "leipzig/awesome-reproducible-research",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-22",
+  "links": 95,
+  "nota": "Ferramentas, artigos e cursos sobre pesquisa reprodutível.",
+  "area": "pesquisa-academica"
+ },
+ {
+  "repo": "helenahartmann/awesome-PhD",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-25",
+  "links": 179,
+  "nota": "Recursos para pós-graduandos: escrita, produtividade, estatística e carreira.",
+  "area": "pesquisa-academica"
+ },
+ {
+  "repo": "brandonhimpfen/awesome-open-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-06",
+  "links": 61,
+  "nota": "Ciência aberta: repositórios, dados abertos, preprints e políticas.",
+  "area": "pesquisa-academica"
+ },
+ {
+  "repo": "dylanrees/citizen-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-28",
+  "links": 146,
+  "nota": "Ciência cidadã e comunitária: projetos, ferramentas e hardware aberto.",
+  "area": "pesquisa-academica"
+ },
+ {
+  "repo": "emredurukn/awesome-job-boards",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 488,
+  "nota": "Sites de vagas por nicho e região, inclusive tech; muito atualizado.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "tramcar/awesome-job-boards",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-29",
+  "links": 107,
+  "nota": "Job boards de nicho (por tecnologia e área), complementa a lista anterior.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "felipefialho/frontend-challenges",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-05-14",
+  "links": 219,
+  "nota": "Brasileiro: desafios técnicos reais de processos seletivos de empresas (front-end).",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "CollabCodeTech/backend-challenges",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-02-04",
+  "links": 161,
+  "nota": "Brasileiro: desafios técnicos de processos seletivos para back-end.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "react-brasil/empresas-que-usam-react-no-brasil",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-05-05",
+  "links": 405,
+  "nota": "Brasileiro: empresas que contratam React no Brasil, com links de site/vagas.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "DopplerHQ/awesome-interview-questions",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-07-29",
+  "links": 355,
+  "nota": "Perguntas de entrevista técnica organizadas por linguagem e tecnologia.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "yangshun/tech-interview-handbook",
+  "arquivos": [
+   "apps/website/contents/resume.md",
+   "apps/website/contents/career-growth.md",
+   "apps/website/contents/software-engineering-interview-guide.md",
+   "apps/website/contents/behavioral-interview.md",
+   "apps/website/contents/negotiation.md",
+   "apps/website/contents/coding-interview-prep.md",
+   "apps/website/contents/best-practice-questions.md",
+   "apps/website/contents/understanding-compensation.md",
+   "apps/website/contents/mock-interviews.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-08-07",
+  "links": 200,
+  "nota": "Guias de currículo, entrevistas, negociação e crescimento de carreira (só os .md de carreira).",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "viraptor/reverse-interview",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2025-02-20",
+  "links": 31,
+  "nota": "Perguntas para o candidato fazer ao empregador; poucos links, mas referência.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "liuchong/awesome-roadmaps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Zero-Public-License-1.0",
+  "ultimo_commit": "2026-08-03",
+  "links": 71,
+  "nota": "Roadmaps de carreira e estudo por área.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "poteto/hiring-without-whiteboards",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-23",
+  "links": 781,
+  "nota": "Empresas com processos seletivos sem whiteboard; grande, usar com filtro se precisar reduzir.",
+  "area": "carreira-vagas"
+ },
+ {
+  "repo": "lukasz-madon/awesome-remote-job",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-21",
+  "links": 535,
+  "nota": "Referência: empresas remotas, sites de vagas, ferramentas e artigos (só o README em inglês).",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "yanirs/established-remote",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-23",
+  "links": 257,
+  "nota": "Empresas consolidadas que contratam remoto, com link de carreiras.",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "hugo53/awesome-RemoteWork",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2025-12-27",
+  "links": 92,
+  "nota": "Ferramentas, comunidades e vagas para trabalho remoto.",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "engineerapart/TheRemoteFreelancer",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Unlicense",
+  "ultimo_commit": "2024-09-09",
+  "links": 85,
+  "nota": "Sites de freela e vagas remotas para desenvolvedores e designers.",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "digital-marketing-engineer/awesome-freelance-developer-resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2023-11-16",
+  "links": 94,
+  "nota": "Plataformas, contratos, cobrança e ferramentas para devs freelancers.",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "mezod/awesome-indie",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-3.0",
+  "ultimo_commit": "2024-06-12",
+  "links": 216,
+  "nota": "Recursos para quem trabalha por conta própria e cria produtos independentes.",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "awesomelistsio/awesome-digital-nomads",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-03-18",
+  "links": 59,
+  "nota": "Recursos para nômades digitais: vagas, moradia, comunidades.",
+  "area": "trabalho-remoto-freela"
+ },
+ {
+  "repo": "jyguyomarch/awesome-productivity",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2023-05-17",
+  "links": 85,
+  "nota": "Apps e métodos de produtividade por categoria.",
+  "area": "produtividade"
+ },
+ {
+  "repo": "tehtbl/awesome-note-taking",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-20",
+  "links": 120,
+  "nota": "Apps de notas, abertos e proprietários, comparados.",
+  "area": "produtividade"
+ },
+ {
+  "repo": "brettkromkamp/awesome-knowledge-management",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-12",
+  "links": 216,
+  "nota": "Gestão de conhecimento pessoal (PKM), segundo cérebro e ferramentas.",
+  "area": "produtividade"
+ },
+ {
+  "repo": "kmaasrud/awesome-obsidian",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2023-11-17",
+  "links": 306,
+  "nota": "Plugins, temas e recursos para Obsidian.",
+  "area": "produtividade"
+ },
+ {
+  "repo": "logseq/awesome-logseq",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-04-27",
+  "links": 118,
+  "nota": "Plugins, temas e guias oficiais da comunidade Logseq.",
+  "area": "produtividade"
+ },
+ {
+  "repo": "mundimark/awesome-markdown-editors",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-06",
+  "links": 133,
+  "nota": "Editores Markdown para notas e escrita.",
+  "area": "produtividade"
+ },
+ {
+  "repo": "ayr-ton/awesome-geek-podcasts",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-03-22",
+  "links": 345,
+  "nota": "Podcasts de tecnologia por idioma, com seção em português (autor brasileiro).",
+  "area": "comunidades"
+ },
+ {
+  "repo": "zudochkin/awesome-newsletters",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-10-01",
+  "links": 345,
+  "nota": "Newsletters de tecnologia por linguagem e tema.",
+  "area": "comunidades"
+ },
+ {
+  "repo": "JoseDeFreitas/awesome-youtubers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-05",
+  "links": 499,
+  "nota": "Canais do YouTube de programação e tecnologia.",
+  "area": "comunidades"
+ },
+ {
+  "repo": "mhxion/awesome-discord-communities",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-04-25",
+  "links": 673,
+  "nota": "Servidores do Discord de programação por tema.",
+  "area": "comunidades"
+ },
+ {
+  "repo": "matiassingers/awesome-slack",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-29",
+  "links": 72,
+  "nota": "Comunidades no Slack e ferramentas relacionadas.",
+  "area": "comunidades"
+ },
+ {
+  "repo": "agenda-tech-brasil/agenda-tech-brasil",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-26",
+  "links": 57,
+  "nota": "Brasileiro: agenda de eventos de tecnologia do ano no Brasil (arquivo/ tem anos anteriores).",
+  "area": "comunidades"
+ },
+ {
+  "repo": "scraly/developers-conferences-agenda",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 958,
+  "nota": "Agenda mundial de conferências para devs do ano corrente; archives/ tem anos anteriores.",
+  "area": "comunidades"
+ },
+ {
+  "repo": "dribdat/awesome-hackathon",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-21",
+  "links": 152,
+  "nota": "Ferramentas e guias para organizar e participar de hackathons.",
+  "area": "comunidades"
+ },
+ {
+  "repo": "brunopulis/awesome-a11y",
+  "arquivos": [
+   "README.md",
+   "topics/articles-and-videos.md",
+   "topics/blogs.md",
+   "topics/books.md",
+   "topics/certificates.md",
+   "topics/companies-and-organizations.md",
+   "topics/conferences.md",
+   "topics/courses.md",
+   "topics/getting-started.md",
+   "topics/guides.md",
+   "topics/jobs.md",
+   "topics/laws.md",
+   "topics/meetups.md",
+   "topics/newsletter.md",
+   "topics/other-resources.md",
+   "topics/people.md",
+   "topics/podcasts.md",
+   "topics/specification.md",
+   "topics/talks.md",
+   "topics/tools.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-03",
+  "links": 612,
+  "nota": "Mantida por brasileiro; ferramentas, artigos, cursos, leis e pessoas, divididos em topics/*.md.",
+  "area": "acessibilidade"
+ },
+ {
+  "repo": "lukeslp/awesome-accessibility",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-14",
+  "links": 579,
+  "nota": "Lista ampla de acessibilidade digital: ferramentas, testes, tecnologias assistivas.",
+  "area": "acessibilidade"
+ },
+ {
+  "repo": "awesomelistsio/awesome-web-accessibility",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-06",
+  "links": 57,
+  "nota": "Lista curta e atual de recursos de acessibilidade web.",
+  "area": "acessibilidade"
+ },
+ {
+  "repo": "aviaryan/awesome-no-login-web-apps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-25",
+  "links": 211,
+  "nota": "Ferramentas web que funcionam sem cadastro, por categoria.",
+  "area": "ferramentas-online"
+ },
+ {
+  "repo": "StanForever/awesome-websites",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-30",
+  "links": 540,
+  "nota": "Sites úteis e ferramentas online organizados por categoria.",
+  "area": "ferramentas-online"
+ },
+ {
+  "repo": "atakanaltok/awesome-useful-websites",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-05-28",
+  "links": 1437,
+  "nota": "Grande coleção de sites e ferramentas online úteis; referência da área.",
+  "area": "ferramentas-online"
+ },
+ {
+  "repo": "mahseema/awesome-ai-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-12-31",
+  "links": 483,
+  "nota": "Ferramentas de IA por categoria: texto, imagem, vídeo, áudio, código.",
+  "area": "ferramentas-ia"
+ },
+ {
+  "repo": "eudk/awesome-ai-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-06-07",
+  "links": 848,
+  "nota": "Lista ampla de ferramentas e serviços de IA.",
+  "area": "ferramentas-ia"
+ },
+ {
+  "repo": "ikaijua/Awesome-AITools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 465,
+  "nota": "Ferramentas de IA atualizadas diariamente (usar só README.md, há versão em chinês).",
+  "area": "ferramentas-ia"
+ },
+ {
+  "repo": "steven2358/awesome-generative-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-24",
+  "links": 410,
+  "nota": "Projetos e serviços de IA generativa por modalidade.",
+  "area": "ferramentas-ia"
+ },
+ {
+  "repo": "filipecalegario/awesome-generative-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-12-18",
+  "links": 1206,
+  "nota": "Mantida por brasileiro: grande lista de modelos e ferramentas de IA generativa.",
+  "area": "ferramentas-ia"
+ },
+ {
+  "repo": "sindresorhus/awesome-chatgpt",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-02-16",
+  "links": 187,
+  "nota": "Apps, extensões e ferramentas construídas sobre o ChatGPT.",
+  "area": "ferramentas-ia"
+ },
+ {
+  "repo": "awesome-selfhosted/awesome-selfhosted",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-3.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 2936,
+  "nota": "Referência da área: software livre para hospedar, por categoria (inclui links de demo/fonte).",
+  "area": "self-hosted"
+ },
+ {
+  "repo": "awesome-foss/awesome-sysadmin",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-09-17",
+  "links": 675,
+  "nota": "Ferramentas de administração de servidores, backup, monitoramento e rede.",
+  "area": "self-hosted"
+ },
+ {
+  "repo": "ccbikai/awesome-homelab",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-30",
+  "links": 719,
+  "nota": "Apps open source para homelab; contagem exclui badges (o grep bruto dá 2145 por causa de imagens shields).",
+  "area": "self-hosted"
+ },
+ {
+  "repo": "Haxxnet/Compose-Examples",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-28",
+  "links": 41,
+  "nota": "Exemplos de docker-compose para serviços self-hosted populares.",
+  "area": "self-hosted"
+ },
+ {
+  "repo": "jaywcjlove/awesome-mac",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 2270,
+  "nota": "Referência para macOS; usar só README.md (há traduções ja/zh/ko duplicadas).",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "serhii-londar/open-source-mac-os-apps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-09",
+  "links": 1180,
+  "nota": "Apps de código aberto para macOS.",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "iCHAIT/awesome-macOS",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-24",
+  "links": 466,
+  "nota": "Seleção menor de apps e utilitários para macOS.",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "0pandadev/awesome-windows",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-10",
+  "links": 541,
+  "nota": "Referência atual de apps e ferramentas para Windows.",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "luong-komorebi/Awesome-Linux-Software",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-05-03",
+  "links": 2465,
+  "nota": "Referência para Linux; usar só README.md (há traduções).",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "AppImageCommunity/awesome-appimage",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-12-07",
+  "links": 141,
+  "nota": "Apps distribuídos em AppImage e ferramentas do formato.",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "Kazhnuz/awesome-gnome",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-12-27",
+  "links": 215,
+  "nota": "Apps e extensões para o ambiente GNOME.",
+  "area": "apps-sistemas"
+ },
+ {
+  "repo": "offa/android-foss",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "GPL-3.0",
+  "ultimo_commit": "2026-10-01",
+  "links": 1645,
+  "nota": "Referência de apps Android livres por categoria.",
+  "area": "apps-celular"
+ },
+ {
+  "repo": "Psyhackological/AAA",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-29",
+  "links": 838,
+  "nota": "Awesome Android Apps: apps abertos e focados em privacidade.",
+  "area": "apps-celular"
+ },
+ {
+  "repo": "dkhamsing/open-source-ios-apps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 1371,
+  "nota": "Apps iOS de código aberto; links majoritariamente para o código-fonte.",
+  "area": "apps-celular"
+ },
+ {
+  "repo": "dersvenhesse/awesome-scriptable",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-11-15",
+  "links": 72,
+  "nota": "Scripts e widgets para o app Scriptable no iOS.",
+  "area": "apps-celular"
+ },
+ {
+  "repo": "themeselection/best-chrome-extensions",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-03-23",
+  "links": 184,
+  "nota": "Extensões de Chrome por categoria: produtividade, dev, design.",
+  "area": "extensoes-navegador"
+ },
+ {
+  "repo": "xynnn/awesome-chrome",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-02",
+  "links": 113,
+  "nota": "Extensões de Chrome curadas.",
+  "area": "extensoes-navegador"
+ },
+ {
+  "repo": "stefanbuck/awesome-browser-extensions-for-github",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-08-18",
+  "links": 69,
+  "nota": "Extensões que melhoram o GitHub.",
+  "area": "extensoes-navegador"
+ },
+ {
+  "repo": "xhacker/awesome-github-extensions",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-03",
+  "links": 24,
+  "nota": "Outra seleção de extensões para GitHub.",
+  "area": "extensoes-navegador"
+ },
+ {
+  "repo": "fregante/Awesome-WebExtensions",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-17",
+  "links": 50,
+  "nota": "Recursos para desenvolver extensões (APIs, ferramentas, boilerplates).",
+  "area": "extensoes-navegador"
+ },
+ {
+  "repo": "bvolpato/awesome-userscripts",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-12",
+  "links": 15,
+  "nota": "Gerenciadores e repositórios de userscripts.",
+  "area": "extensoes-navegador"
+ },
+ {
+  "repo": "public-apis/public-apis",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 2020,
+  "nota": "Referência da área: APIs gratuitas por categoria.",
+  "area": "apis-publicas"
+ },
+ {
+  "repo": "marcelscruz/public-apis",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 1808,
+  "nota": "Fork mantido e ampliado da public-apis; muita sobreposição, deduplicar.",
+  "area": "apis-publicas"
+ },
+ {
+  "repo": "public-api-lists/public-api-lists",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-14",
+  "links": 851,
+  "nota": "Outra coleção de APIs públicas por categoria.",
+  "area": "apis-publicas"
+ },
+ {
+  "repo": "n0shake/Public-APIs",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-05-03",
+  "links": 617,
+  "nota": "APIs públicas por categoria, complementa as anteriores.",
+  "area": "apis-publicas"
+ },
+ {
+  "repo": "neutraltone/awesome-stock-resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-02-11",
+  "links": 325,
+  "nota": "Bancos de fotos, vídeos e ilustrações gratuitos.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "brabadu/awesome-fonts",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-26",
+  "links": 173,
+  "nota": "Fontes gratuitas e ferramentas de tipografia.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "notlmn/awesome-icons",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-27",
+  "links": 82,
+  "nota": "Pacotes de ícones gratuitos.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "Siddharth11/Colorful",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2025-03-14",
+  "links": 109,
+  "nota": "Ferramentas e recursos de cores e paletas.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "mrpeker/awesome-illustrations",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-03-14",
+  "links": 47,
+  "nota": "Bancos de ilustrações gratuitas.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "bradtraversy/design-resources-for-developers",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-05-24",
+  "links": 1108,
+  "nota": "Grande coleção de recursos de design: imagens, ícones, fontes, cores, mockups, templates.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "sarah-haddad/design-resources",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-06-26",
+  "links": 176,
+  "nota": "Recursos de design gratuitos por categoria.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "gustavoquinalha/ui-awesome-list",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-10-30",
+  "links": 203,
+  "nota": "Mantida por brasileiro: recursos de UI, ícones, ilustrações e cores.",
+  "area": "recursos-gratuitos"
+ },
+ {
+  "repo": "kairichard/awesome-nocode-lowcode",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 294,
+  "nota": "Plataformas no-code e low-code por categoria.",
+  "area": "automacao"
+ },
+ {
+  "repo": "ElijT/awesome-no-code-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-06-14",
+  "links": 115,
+  "nota": "Ferramentas no-code para sites, apps, automação e dados.",
+  "area": "automacao"
+ },
+ {
+  "repo": "restyler/awesome-n8n",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-01-20",
+  "links": 208,
+  "nota": "Nós da comunidade, templates e recursos do n8n.",
+  "area": "automacao"
+ },
+ {
+  "repo": "meirwah/awesome-workflow-engines",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Apache-2.0",
+  "ultimo_commit": "2026-09-21",
+  "links": 318,
+  "nota": "Motores de workflow e orquestração de código aberto.",
+  "area": "automacao"
+ },
+ {
+  "repo": "zenitysec/awesome-low-code",
+  "arquivos": [
+   "readme.md"
+  ],
+  "licenca": "CC-BY-SA-4.0",
+  "ultimo_commit": "2026-04-05",
+  "links": 94,
+  "nota": "Plataformas low-code e recursos de segurança/governança.",
+  "area": "automacao"
+ },
+ {
+  "repo": "frenck/awesome-home-assistant",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 452,
+  "nota": "Integrações, automações e recursos de Home Assistant.",
+  "area": "automacao"
+ },
+ {
+  "repo": "zwang4/awesome-machine-learning-in-compilers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-08-26",
+  "links": 306,
+  "nota": "Artigos, ferramentas e benchmarks de aprendizado de máquina aplicado a compiladores e otimização de código.",
+  "area": "fundamentos-computacao",
+  "ia": true
+ },
+ {
+  "repo": "Thinklab-SJTU/awesome-ml4co",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-07-19",
+  "links": 933,
+  "nota": "Pesquisa de aprendizado de máquina para otimização combinatória e algoritmos (grafos, roteamento, SAT).",
+  "area": "fundamentos-computacao",
+  "ia": true
+ },
+ {
+  "repo": "zhaoyu-li/DL4TP",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-05-28",
+  "links": 292,
+  "nota": "Artigos e recursos de deep learning para prova automática de teoremas e matemática formal.",
+  "area": "fundamentos-computacao",
+  "ia": true
+ },
+ {
+  "repo": "huybery/Awesome-Code-LLM",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-12-10",
+  "links": 232,
+  "nota": "Artigos, modelos e benchmarks de LLMs para geração e entendimento de código.",
+  "area": "linguagens",
+  "ia": true
+ },
+ {
+  "repo": "PatrickJS/awesome-cursorrules",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-05-30",
+  "links": 222,
+  "nota": "Arquivos de regras para assistentes de código organizados por linguagem e framework.",
+  "area": "linguagens",
+  "ia": true
+ },
+ {
+  "repo": "filipecalegario/awesome-vibe-coding",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-15",
+  "links": 133,
+  "nota": "Ferramentas, guias e referências de vibe coding: construtores de apps e interfaces por prompt.",
+  "area": "front-end",
+  "ia": true
+ },
+ {
+  "repo": "wong2/awesome-mcp-servers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-13",
+  "links": 660,
+  "nota": "Lista enxuta de servidores MCP (bancos, APIs, nuvem, ferramentas de dev) para integrar back-ends a agentes.",
+  "area": "back-end",
+  "ia": true
+ },
+ {
+  "repo": "likedan/Awesome-CoreML-Models",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-06-16",
+  "links": 143,
+  "nota": "Modelos prontos em formato Core ML para uso on-device em apps iOS.",
+  "area": "mobile",
+  "ia": true
+ },
+ {
+  "repo": "Yuan-ManX/ai-game-devtools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-21",
+  "links": 1167,
+  "nota": "Ferramentas de IA para desenvolvimento de jogos: código, imagem, 3D, animação, áudio, NPCs e engines.",
+  "area": "games",
+  "ia": true
+ },
+ {
+  "repo": "datamllab/awesome-game-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-06-26",
+  "links": 108,
+  "nota": "Pesquisa de IA para jogos: agentes multiagente, aprendizado por reforço e ambientes.",
+  "area": "games",
+  "ia": true
+ },
+ {
+  "repo": "Jun-jie-Huang/awesome-LLM-AIOps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-08-29",
+  "links": 405,
+  "nota": "Artigos e ferramentas de LLMs aplicados a AIOps: análise de logs, causa raiz, incidentes e agentes de operação.",
+  "area": "devops-cloud",
+  "ia": true
+ },
+ {
+  "repo": "OpsPAI/awesome-AIOps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-02-12",
+  "links": 152,
+  "nota": "Lista do ARISE Lab (CUHK) sobre AIOps: detecção de anomalias, logs, traces e gestão de incidentes.",
+  "area": "devops-cloud",
+  "ia": true
+ },
+ {
+  "repo": "tensorchord/Awesome-LLMOps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 918,
+  "nota": "Ferramentas para colocar e operar LLMs em produção: serving, observabilidade, gateways e orquestração.",
+  "area": "devops-cloud",
+  "ia": true
+ },
+ {
+  "repo": "eosphoros-ai/Awesome-Text2SQL",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-01-26",
+  "links": 485,
+  "nota": "Tutoriais, artigos, datasets e ferramentas de text-to-SQL e LLMs para bancos de dados.",
+  "area": "bancos-de-dados",
+  "ia": true
+ },
+ {
+  "repo": "HKUSTDial/NL2SQL_Handbook",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-31",
+  "links": 270,
+  "nota": "Manual e levantamento da pesquisa em NL2SQL com LLMs, mantido pelo grupo HKUST DIAL.",
+  "area": "bancos-de-dados",
+  "ia": true
+ },
+ {
+  "repo": "TsinghuaDatabaseGroup/AIDB",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-12-26",
+  "links": 646,
+  "nota": "Artigos de IA para bancos de dados (AI4DB): tuning, otimização de consultas, índices e diagnóstico.",
+  "area": "bancos-de-dados",
+  "ia": true
+ },
+ {
+  "repo": "LLM-Testing/LLM4SoftwareTesting",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2024-01-10",
+  "links": 124,
+  "nota": "Artigos sobre LLMs em testes de software: geração de testes unitários, oráculos, fuzzing e reparo.",
+  "area": "qa-testes",
+  "ia": true
+ },
+ {
+  "repo": "gigwegbe/tinyml-papers-and-projects",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-12-08",
+  "links": 379,
+  "nota": "Artigos e projetos de TinyML: ML em microcontroladores, compressão de modelos e aplicações.",
+  "area": "embarcados-iot",
+  "ia": true
+ },
+ {
+  "repo": "umitkacar/awesome-tinyml",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-11-09",
+  "links": 234,
+  "nota": "Frameworks, ferramentas, hardware e cursos de TinyML e IA embarcada.",
+  "area": "embarcados-iot",
+  "ia": true
+ },
+ {
+  "repo": "steven2358/awesome-blockchain-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-02-06",
+  "links": 54,
+  "nota": "Projetos e artigos na interseção de blockchain e IA: agentes, mercados de dados e computação descentralizada.",
+  "area": "blockchain-web3",
+  "ia": true
+ },
+ {
+  "repo": "jamesmurdza/awesome-ai-devtools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-06-29",
+  "links": 284,
+  "nota": "Ferramentas de desenvolvimento com IA: IDEs, extensões, agentes de terminal, revisão de PR e testes.",
+  "area": "ferramentas-dev",
+  "ia": true
+ },
+ {
+  "repo": "hesreallyhim/awesome-claude-code",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-NC-ND-4.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 414,
+  "nota": "Skills, hooks, comandos, plugins e fluxos de trabalho para o Claude Code.",
+  "area": "ferramentas-dev",
+  "ia": true
+ },
+ {
+  "repo": "eosphoros-ai/Awesome-Text2SQL",
+  "arquivos": [
+   "README.md",
+   "Text2API.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-01-26",
+  "links": 505,
+  "nota": "Curadoria de text-to-SQL com LLMs (perguntas em linguagem natural viram consultas): artigos, benchmarks, modelos e ferramentas.",
+  "area": "analise-de-dados",
+  "ia": true
+ },
+ {
+  "repo": "dangkhoasdc/awesome-vector-database",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-26",
+  "links": 357,
+  "nota": "Bancos vetoriais, bibliotecas de busca por similaridade e benchmarks: a infraestrutura de dados de RAG e busca semântica.",
+  "area": "engenharia-de-dados",
+  "ia": true
+ },
+ {
+  "repo": "EthicalML/awesome-production-machine-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 1065,
+  "nota": "Ferramentas de código aberto para levar ML e LLMs à produção: deploy, monitoramento, avaliação, feature stores e privacidade.",
+  "area": "ciencia-de-dados-ml",
+  "ia": true
+ },
+ {
+  "repo": "tensorchord/Awesome-LLMOps",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-10-02",
+  "links": 918,
+  "nota": "LLMOps: treinamento, serving, avaliação, observabilidade e frameworks para aplicações com LLMs.",
+  "area": "ciencia-de-dados-ml",
+  "ia": true
+ },
+ {
+  "repo": "lmmlzn/Awesome-LLMs-Datasets",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Apache-2.0",
+  "ultimo_commit": "2026-03-11",
+  "links": 1574,
+  "nota": "Mapa amplo de datasets para LLMs: pré-treino, instruções, preferências, avaliação e RAG, organizados por categoria.",
+  "area": "datasets",
+  "ia": true
+ },
+ {
+  "repo": "Data-Centric-AI-Community/awesome-data-centric-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-29",
+  "links": 56,
+  "nota": "Ferramentas de IA centrada em dados: profiling, qualidade, rotulagem, dados sintéticos e privacidade.",
+  "area": "datasets",
+  "ia": true
+ },
+ {
+  "repo": "ottosulin/awesome-ai-security",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 280,
+  "nota": "Segurança de IA e IA para segurança: ataques a modelos, red teaming, defesas, ferramentas ofensivas e frameworks.",
+  "area": "ciberseguranca",
+  "ia": true
+ },
+ {
+  "repo": "ElNiak/awesome-ai-cybersecurity",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-08",
+  "links": 169,
+  "nota": "IA aplicada à cibersegurança (detecção, pentest, análise de malware) e proteção de sistemas de IA.",
+  "area": "ciberseguranca",
+  "ia": true
+ },
+ {
+  "repo": "ThuCCSLab/Awesome-LM-SSP",
+  "arquivos": [
+   "collection/paper/privacy/*.md"
+  ],
+  "licenca": "Apache-2.0",
+  "ultimo_commit": "2026-09-02",
+  "links": 1720,
+  "nota": "Artigos sobre privacidade em modelos de linguagem: inferência de pertencimento, extração de dados, unlearning, marca d'água e computação privada (repositório também cobre segurança).",
+  "area": "privacidade",
+  "ia": true
+ },
+ {
+  "repo": "AlonzoLeeeooo/awesome-text-to-image-studies",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-28",
+  "links": 785,
+  "nota": "Produtos comerciais, modelos, toolkits e artigos de geração e edição de imagem por texto (incluindo geração de texto dentro da imagem); muito atualizada, viés de pesquisa.",
+  "area": "design-grafico",
+  "ia": true
+ },
+ {
+  "repo": "AlonzoLeeeooo/awesome-video-generation",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 683,
+  "nota": "Produtos e artigos de geração de vídeo (texto, imagem e áudio para vídeo), com seção específica de edição de vídeo por IA; atualizada continuamente, viés de pesquisa.",
+  "area": "edicao-de-video",
+  "ia": true
+ },
+ {
+  "repo": "jianzhnie/awesome-text-to-video",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Apache-2.0",
+  "ultimo_commit": "2026-09-17",
+  "links": 264,
+  "nota": "Plataformas comerciais de texto para vídeo com guia de escolha, modelos open source e artigos; mais prática que as listas puramente acadêmicas.",
+  "area": "filmmaking",
+  "ia": true
+ },
+ {
+  "repo": "hitcslj/Awesome-AIGC-3D",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-05-04",
+  "links": 184,
+  "nota": "Survey e lista de geração de assets 3D (objetos, personagens, rigging, cenas) com seção de empresas e produtos; viés de pesquisa.",
+  "area": "motion-3d",
+  "ia": true
+ },
+ {
+  "repo": "yingpengma/Awesome-Story-Generation",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-28",
+  "links": 721,
+  "nota": "Pesquisa sobre geração de histórias com LLMs: narrativa longa, avaliação e cocriação humano-IA; útil para ficção assistida, viés acadêmico.",
+  "area": "escrita",
+  "ia": true
+ },
+ {
+  "repo": "jmedia65/awesome-ai-marketing",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-12-27",
+  "links": 97,
+  "nota": "Ferramentas de IA para marketing por função (conteúdo, SEO, social, e-mail, anúncios, CRO, automação), com bibliotecas de prompts e conselhos para avaliar ferramentas antes de comprar.",
+  "area": "marketing-digital",
+  "ia": true
+ },
+ {
+  "repo": "station-10/awesome-marketing-machine-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2024-05-01",
+  "links": 141,
+  "nota": "Machine learning aplicado a mídia: atribuição, marketing mix models, inferência causal, geoexperimentos e CLV; útil para medir campanhas com dados.",
+  "area": "trafego-pago",
+  "ia": true
+ },
+ {
+  "repo": "best-of-ai/awesome-ai-seo",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-27",
+  "links": 46,
+  "nota": "Ferramentas de IA para pesquisa de palavras-chave, conteúdo, SEO técnico e rastreamento de ranking, além de projetos open source e guias de prompts.",
+  "area": "seo",
+  "ia": true
+ },
+ {
+  "repo": "ong/awesome-ai-gtm",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem licença declarada",
+  "ultimo_commit": "2026-02-18",
+  "links": 63,
+  "nota": "Ferramentas de go-to-market em que agentes de IA executam o trabalho: SDRs de IA, copilotos de vendas, inteligência de conversas, enriquecimento de leads e previsão de receita, com seção open source.",
+  "area": "vendas",
+  "ia": true
+ },
+ {
+  "repo": "georgezouq/awesome-ai-in-finance",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-08",
+  "links": 288,
+  "nota": "Estratégias, LLMs financeiros, agentes, bibliotecas e dados para uso de IA em mercados e finanças quantitativas.",
+  "area": "financas",
+  "ia": true
+ },
+ {
+  "repo": "firmai/financial-machine-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem licença declarada",
+  "ultimo_commit": "2025-01-03",
+  "links": 265,
+  "nota": "Repositórios práticos de machine learning financeiro (trading, risco, portfólio, NLP de mercado) organizados por tema.",
+  "area": "financas",
+  "ia": true
+ },
+ {
+  "repo": "firmai/business-machine-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-10-04",
+  "links": 141,
+  "nota": "Aplicações de ML por departamento; a seção Accounting reúne ferramentas, análise textual, parsing de dados e cursos para contabilidade e auditoria.",
+  "area": "contabilidade",
+  "ia": true
+ },
+ {
+  "repo": "firmai/business-machine-learning",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-10-04",
+  "links": 141,
+  "nota": "A seção Employee reúne projetos de ML para gestão, desempenho, turnover e análise de conversas de colaboradores.",
+  "area": "rh-pessoas",
+  "ia": true
+ },
+ {
+  "repo": "Jeryi-Sun/LLM-and-Law",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT (badge no README; sem arquivo LICENSE)",
+  "ultimo_commit": "2026-09-18",
+  "links": 507,
+  "nota": "Artigos e recursos sobre LLMs no direito, atualizado diariamente: aplicações, raciocínio jurídico, agentes, problemas, dados, modelos jurídicos e avaliação.",
+  "area": "juridico",
+  "ia": true
+ },
+ {
+  "repo": "maastrichtlawtech/awesome-legal-nlp",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-10-14",
+  "links": 185,
+  "nota": "Pesquisa, datasets, modelos e ferramentas de NLP jurídico por tarefa (recuperação, sumarização, classificação, QA).",
+  "area": "juridico",
+  "ia": true
+ },
+ {
+  "repo": "CSHaitao/Awesome-LegalAI-Resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2023-07-15",
+  "links": 84,
+  "nota": "Datasets, modelos jurídicos e benchmarks de IA jurídica; sem atualização desde 2023, útil como base histórica.",
+  "area": "juridico",
+  "ia": true
+ },
+ {
+  "repo": "zhaoyu-li/DL4TP",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-05-28",
+  "links": 292,
+  "nota": "Lista de artigos, benchmarks e ferramentas de aprendizado profundo para prova de teoremas e matemática formal (Lean, Isabelle, Coq).",
+  "area": "matematica",
+  "ia": true
+ },
+ {
+  "repo": "iml-wg/HEPML-LivingReview",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-10",
+  "links": 5378,
+  "nota": "Revisão viva e mantida pela comunidade de aprendizado de máquina em física de partículas (HEP), organizada por técnica e aplicação.",
+  "area": "fisica-astronomia",
+  "ia": true
+ },
+ {
+  "repo": "AspirinCode/papers-for-molecular-design-using-DL",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "GPL-3.0",
+  "ultimo_commit": "2026-09-26",
+  "links": 2138,
+  "nota": "Lista extensa e atualizada de artigos e códigos de aprendizado profundo para design molecular, geração de moléculas e descoberta de fármacos.",
+  "area": "quimica",
+  "ia": true
+ },
+ {
+  "repo": "kjappelbaum/awesome-chemistry-datasets",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-09-01",
+  "links": 125,
+  "nota": "Conjuntos de dados de química prontos para treinar e avaliar modelos de aprendizado de máquina.",
+  "area": "quimica",
+  "ia": true
+ },
+ {
+  "repo": "OmicsML/awesome-foundation-model-single-cell-papers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-26",
+  "links": 373,
+  "nota": "Artigos e códigos de modelos fundacionais para dados de célula única e multiômica, atualizados com frequência.",
+  "area": "biologia",
+  "ia": true
+ },
+ {
+  "repo": "hussius/deeplearning-biology",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-12",
+  "links": 195,
+  "nota": "Lista clássica de aplicações de aprendizado profundo em biologia, genômica e química biológica.",
+  "area": "biologia",
+  "ia": true
+ },
+ {
+  "repo": "HICAI-ZJU/Scientific-LLM-Survey",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2025-09-07",
+  "links": 656,
+  "nota": "Levantamento de LLMs científicos para proteínas, moléculas, genômica e linguagem biológica.",
+  "area": "biologia",
+  "ia": true
+ },
+ {
+  "repo": "AI-in-Health/MedLLMsPracticalGuide",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-11",
+  "links": 379,
+  "nota": "Guia prático e lista de LLMs médicos, conjuntos de dados, avaliações e aplicações clínicas.",
+  "area": "saude",
+  "ia": true
+ },
+ {
+  "repo": "fepegar/awesome-medical-imaging",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-03-17",
+  "links": 41,
+  "nota": "Ferramentas e bibliotecas de aprendizado profundo para imagens médicas.",
+  "area": "saude",
+  "ia": true
+ },
+ {
+  "repo": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-24",
+  "links": 301,
+  "nota": "Artigos sobre LLMs nas ciências sociais com foco especial em psicologia, psicometria e valores.",
+  "area": "psicologia",
+  "ia": true
+ },
+ {
+  "repo": "hanlulong/awesome-ai-for-economists",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-19",
+  "links": 444,
+  "nota": "Lista dedicada a IA para economistas: servidores MCP de dados econômicos, inferência causal, previsão, revisão de literatura e cursos.",
+  "area": "economia",
+  "ia": true
+ },
+ {
+  "repo": "rguo12/awesome-causality-algorithms",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-01-22",
+  "links": 253,
+  "nota": "Algoritmos e bibliotecas de inferência causal com aprendizado de máquina, úteis para econometria aplicada.",
+  "area": "economia",
+  "ia": true
+ },
+ {
+  "repo": "AI4LAM/awesome-ai4lam",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2024-06-17",
+  "links": 189,
+  "nota": "Recursos de IA para arquivos, bibliotecas e museus: transcrição, visão computacional, NLP e LLMs aplicados a acervos; atualização mais lenta.",
+  "area": "humanidades",
+  "ia": true
+ },
+ {
+  "repo": "GeminiLight/awesome-ai-llm4education",
+  "arquivos": [
+   "README.md",
+   "LLM4EDU.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-08-11",
+  "links": 549,
+  "nota": "Catálogo de pesquisas e ferramentas de LLMs na educação: tutores, preparação de material, avaliação e modelagem do aluno.",
+  "area": "educacao",
+  "ia": true
+ },
+ {
+  "repo": "ai-boost/awesome-ai-for-science",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-02",
+  "links": 720,
+  "nota": "Ferramentas de IA para todo o ciclo de pesquisa: literatura, análise de dados, escrita, agentes de pesquisa e aplicações por área.",
+  "area": "pesquisa-academica",
+  "ia": true
+ },
+ {
+  "repo": "DavidZWZ/Awesome-Deep-Research",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-22",
+  "links": 492,
+  "nota": "Sistemas, artigos e benchmarks de agentes de deep research para busca e síntese de informação.",
+  "area": "pesquisa-academica",
+  "ia": true
+ },
+ {
+  "repo": "HKUST-KnowComp/Awesome-LLM-Scientific-Discovery",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-03",
+  "links": 413,
+  "nota": "Artigos sobre LLMs na descoberta científica: geração de hipóteses, experimentos e escrita.",
+  "area": "pesquisa-academica",
+  "ia": true
+ },
+ {
+  "repo": "openags/Awesome-AI-Scientist-Papers",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-30",
+  "links": 165,
+  "nota": "Artigos e projetos sobre cientistas de IA e automação da pesquisa, atualizado com frequência.",
+  "area": "pesquisa-academica",
+  "ia": true
+ },
+ {
+  "repo": "mahseema/awesome-ai-tools",
+  "arquivos": [
+   "README.md",
+   "IMAGE.md",
+   "marketing.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2025-12-31",
+  "links": 530,
+  "nota": "Lista curada de ferramentas de IA por categoria (texto, imagem, vídeo, áudio, produtividade); 483 links no README, 14 em IMAGE.md e 33 em marketing.md.",
+  "area": "ferramentas-online",
+  "ia": true
+ },
+ {
+  "repo": "vince-lam/awesome-local-llms",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-10-01",
+  "links": 88,
+  "nota": "Catálogo de ferramentas para rodar LLMs localmente (runtimes, interfaces, agentes, busca vetorial), com estatísticas atualizadas diariamente.",
+  "area": "self-hosted",
+  "ia": true
+ },
+ {
+  "repo": "stevelaskaridis/awesome-mobile-llm",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "Apache-2.0",
+  "ultimo_commit": "2026-09-04",
+  "links": 542,
+  "nota": "Lista de modelos, frameworks e pesquisas sobre LLMs rodando no celular e em dispositivos de borda; mais técnica, voltada a quem desenvolve.",
+  "area": "apps-celular",
+  "ia": true
+ },
+ {
+  "repo": "punkpeye/awesome-mcp-servers",
+  "arquivos": [
+   "README.md",
+   "README-pt_BR.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-26",
+  "links": 9724,
+  "nota": "Maior lista de servidores MCP por categoria para conectar agentes a apps e dados; tem versão em português (358 links).",
+  "area": "automacao",
+  "ia": true
+ },
+ {
+  "repo": "e2b-dev/awesome-ai-agents",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-NC-SA-4.0",
+  "ultimo_commit": "2026-08-21",
+  "links": 1166,
+  "nota": "Lista de agentes autônomos de IA, abertos e comerciais, com descrição de casos de uso.",
+  "area": "automacao",
+  "ia": true
+ },
+ {
+  "repo": "enescingoz/awesome-n8n-templates",
+  "arquivos": [
+   "README.md",
+   "README-pt.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "ultimo_commit": "2026-09-12",
+  "links": 27,
+  "nota": "Coleção de workflows n8n prontos (arquivos JSON por pasta: Gmail, WhatsApp, Telegram, RAG, LLMs); o README tem 27 links externos e cerca de 300 links relativos para os templates, incluindo links de afiliado do n8n.",
+  "area": "automacao",
+  "ia": true
+ }
+]

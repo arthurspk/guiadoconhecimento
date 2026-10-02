@@ -1,0 +1,102 @@
+{
+  "setores": [
+    {"slug": "tecnologia", "nome": "Tecnologia e Desenvolvimento", "emoji": "💻", "descricao": "Programação, web, mobile, jogos, infraestrutura, testes e o ofício de construir software.",
+     "areas": [
+      {"slug": "fundamentos-computacao", "nome": "Fundamentos da Computação", "emoji": "🧮", "descricao": "Algoritmos, estruturas de dados, sistemas operacionais, compiladores e teoria."},
+      {"slug": "linguagens", "nome": "Linguagens de Programação", "emoji": "🔤", "descricao": "Python, JavaScript, Java, Go, Rust, C#, PHP, Kotlin, Swift e dezenas de outras."},
+      {"slug": "front-end", "nome": "Front-end", "emoji": "🎨", "descricao": "HTML, CSS, JavaScript, frameworks, acessibilidade e performance web."},
+      {"slug": "back-end", "nome": "Back-end", "emoji": "⚙️", "descricao": "APIs, frameworks de servidor, autenticação, filas e microsserviços."},
+      {"slug": "mobile", "nome": "Mobile", "emoji": "📱", "descricao": "Android, iOS, Flutter, React Native e publicação nas lojas."},
+      {"slug": "games", "nome": "Desenvolvimento de Jogos", "emoji": "🎮", "descricao": "Engines, gráficos, game design, assets e programação de jogos."},
+      {"slug": "devops-cloud", "nome": "DevOps e Cloud", "emoji": "☁️", "descricao": "CI/CD, containers, Kubernetes, IaC, AWS, Azure, GCP e SRE."},
+      {"slug": "bancos-de-dados", "nome": "Bancos de Dados", "emoji": "🗄️", "descricao": "SQL, NoSQL, modelagem, otimização e administração."},
+      {"slug": "qa-testes", "nome": "QA e Testes", "emoji": "✅", "descricao": "Testes automatizados, manuais, performance, mobile e qualidade de software."},
+      {"slug": "arquitetura-software", "nome": "Arquitetura e Engenharia de Software", "emoji": "🏛️", "descricao": "Design de sistemas, padrões, clean code, DDD e escalabilidade."},
+      {"slug": "sistemas-linux", "nome": "Linux, Sistemas e Terminal", "emoji": "🐧", "descricao": "Linux, shell, administração de sistemas e linha de comando."},
+      {"slug": "redes", "nome": "Redes e Telecom", "emoji": "🌐", "descricao": "Protocolos, infraestrutura de rede, SDN e telecomunicações."},
+      {"slug": "embarcados-iot", "nome": "Embarcados, IoT e Hardware", "emoji": "🔌", "descricao": "Arduino, Raspberry Pi, eletrônica, robótica e firmware."},
+      {"slug": "blockchain-web3", "nome": "Blockchain e Web3", "emoji": "⛓️", "descricao": "Contratos inteligentes, Ethereum, criptografia aplicada e sistemas descentralizados."},
+      {"slug": "ferramentas-dev", "nome": "Ferramentas para Desenvolvedores", "emoji": "🛠️", "descricao": "Editores, Git, terminais, produtividade e utilitários de desenvolvimento."},
+      {"slug": "open-source", "nome": "Open Source", "emoji": "🌱", "descricao": "Como contribuir, encontrar projetos e manter software livre."}
+     ]},
+    {"slug": "dados-ia", "nome": "Dados e Inteligência Artificial", "emoji": "🤖", "descricao": "Análise, engenharia e ciência de dados, machine learning e IA generativa.",
+     "areas": [
+      {"slug": "analise-de-dados", "nome": "Análise de Dados e BI", "emoji": "📊", "descricao": "Excel, SQL analítico, dashboards, visualização e Business Intelligence."},
+      {"slug": "engenharia-de-dados", "nome": "Engenharia de Dados", "emoji": "🔀", "descricao": "Pipelines, ETL, data lakes, streaming e orquestração."},
+      {"slug": "ciencia-de-dados-ml", "nome": "Ciência de Dados e Machine Learning", "emoji": "🧠", "descricao": "Estatística, ML clássico, deep learning, visão computacional e NLP."},
+      {"slug": "ia-generativa", "nome": "IA Generativa e LLMs", "emoji": "✨", "descricao": "LLMs, agentes, prompts, RAG, MCP e ferramentas de IA."},
+      {"slug": "datasets", "nome": "Datasets e Dados Abertos", "emoji": "🗃️", "descricao": "Bases públicas, dados abertos governamentais e datasets para estudo."}
+     ]},
+    {"slug": "seguranca", "nome": "Segurança e Privacidade", "emoji": "🔒", "descricao": "Cibersegurança ofensiva e defensiva, OSINT, privacidade e conformidade.",
+     "areas": [
+      {"slug": "ciberseguranca", "nome": "Cibersegurança", "emoji": "🛡️", "descricao": "Pentest, blue team, CTF, malware, forense e bug bounty."},
+      {"slug": "osint", "nome": "OSINT e Investigação", "emoji": "🔎", "descricao": "Inteligência de fontes abertas e técnicas de investigação."},
+      {"slug": "privacidade", "nome": "Privacidade e Proteção de Dados", "emoji": "🕶️", "descricao": "Privacidade digital, LGPD/GDPR e ferramentas de proteção."}
+     ]},
+    {"slug": "criacao", "nome": "Design e Criação", "emoji": "🎬", "descricao": "Design, vídeo, cinema, fotografia, animação, áudio e escrita.",
+     "areas": [
+      {"slug": "design-ui-ux", "nome": "Design UI/UX", "emoji": "🖌️", "descricao": "Design de interfaces, UX research, design systems e prototipação."},
+      {"slug": "design-grafico", "nome": "Design Gráfico e Ilustração", "emoji": "🖍️", "descricao": "Tipografia, cores, identidade visual, ilustração e recursos gráficos."},
+      {"slug": "edicao-de-video", "nome": "Edição de Vídeo", "emoji": "🎞️", "descricao": "Softwares de edição, color grading, legendas, codecs e fluxo de pós-produção."},
+      {"slug": "filmmaking", "nome": "Filmmaking e Cinema", "emoji": "🎥", "descricao": "Roteiro, direção, fotografia de cinema, produção e distribuição."},
+      {"slug": "fotografia", "nome": "Fotografia", "emoji": "📷", "descricao": "Técnica, edição, equipamentos e bancos de imagens."},
+      {"slug": "motion-3d", "nome": "Motion Design, 3D e Animação", "emoji": "🧊", "descricao": "Blender, motion graphics, animação 2D/3D e efeitos visuais."},
+      {"slug": "audio-musica", "nome": "Áudio, Música e Podcast", "emoji": "🎧", "descricao": "Produção musical, DAWs, plugins, mixagem e podcasts."},
+      {"slug": "escrita", "nome": "Escrita e Redação", "emoji": "✍️", "descricao": "Redação, copywriting, escrita técnica, revisão e publicação."}
+     ]},
+    {"slug": "marketing-vendas", "nome": "Marketing e Vendas", "emoji": "📈", "descricao": "Marketing digital, tráfego pago, SEO, redes sociais, vendas e e-commerce.",
+     "areas": [
+      {"slug": "marketing-digital", "nome": "Marketing Digital", "emoji": "📣", "descricao": "Estratégia, funis, e-mail marketing, automação e growth."},
+      {"slug": "trafego-pago", "nome": "Tráfego Pago", "emoji": "🎯", "descricao": "Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads, mensuração e criativos."},
+      {"slug": "seo", "nome": "SEO", "emoji": "🔍", "descricao": "SEO técnico, conteúdo, link building e ferramentas de análise."},
+      {"slug": "social-media", "nome": "Social Media e Conteúdo", "emoji": "📲", "descricao": "Redes sociais, criação de conteúdo, creators e agendamento."},
+      {"slug": "vendas", "nome": "Vendas e CRM", "emoji": "🤝", "descricao": "Prospecção, negociação, CRM e operações de vendas."},
+      {"slug": "e-commerce", "nome": "E-commerce", "emoji": "🛒", "descricao": "Lojas virtuais, plataformas, pagamentos, logística e marketplaces."}
+     ]},
+    {"slug": "negocios", "nome": "Negócios e Gestão", "emoji": "💼", "descricao": "Empreendedorismo, produto, projetos, finanças, pessoas e jurídico.",
+     "areas": [
+      {"slug": "empreendedorismo", "nome": "Empreendedorismo e Startups", "emoji": "🚀", "descricao": "Abrir e escalar negócios, captação, modelos de negócio e SaaS."},
+      {"slug": "produto", "nome": "Gestão de Produto", "emoji": "📦", "descricao": "Discovery, roadmap, métricas e práticas de product management."},
+      {"slug": "gestao-de-projetos", "nome": "Gestão de Projetos e Agilidade", "emoji": "🗂️", "descricao": "Scrum, Kanban, PMBOK, ferramentas e liderança de times."},
+      {"slug": "financas", "nome": "Finanças e Investimentos", "emoji": "💰", "descricao": "Finanças pessoais, investimentos, mercado financeiro e finanças corporativas."},
+      {"slug": "contabilidade", "nome": "Contabilidade e Fiscal", "emoji": "🧾", "descricao": "Contabilidade, impostos, MEI e rotinas fiscais."},
+      {"slug": "rh-pessoas", "nome": "RH e Gestão de Pessoas", "emoji": "👥", "descricao": "Recrutamento, cultura, onboarding, remuneração e liderança."},
+      {"slug": "juridico", "nome": "Jurídico e Direito", "emoji": "⚖️", "descricao": "Legislação, direito digital, contratos e lawtech."},
+      {"slug": "atendimento-suporte", "nome": "Atendimento e Customer Success", "emoji": "🛟", "descricao": "Suporte, sucesso do cliente, help desk e base de conhecimento."}
+     ]},
+    {"slug": "ciencia-educacao", "nome": "Ciência, Saúde e Educação", "emoji": "🔬", "descricao": "Ciências exatas e biológicas, saúde, humanidades, idiomas e ensino.",
+     "areas": [
+      {"slug": "matematica", "nome": "Matemática e Estatística", "emoji": "➗", "descricao": "Do básico ao avançado, estatística, cálculo e álgebra linear."},
+      {"slug": "fisica-astronomia", "nome": "Física e Astronomia", "emoji": "🔭", "descricao": "Física, astronomia, astrofísica e ciência espacial."},
+      {"slug": "quimica", "nome": "Química", "emoji": "⚗️", "descricao": "Química geral, computacional e ferramentas de laboratório."},
+      {"slug": "biologia", "nome": "Biologia e Bioinformática", "emoji": "🧬", "descricao": "Biologia, genética, bioinformática e ciências da vida."},
+      {"slug": "saude", "nome": "Medicina e Saúde", "emoji": "🩺", "descricao": "Medicina, saúde pública, saúde digital e bem-estar."},
+      {"slug": "psicologia", "nome": "Psicologia e Neurociência", "emoji": "🧠", "descricao": "Psicologia, neurociência, comportamento e saúde mental."},
+      {"slug": "economia", "nome": "Economia", "emoji": "📉", "descricao": "Economia, econometria e políticas públicas."},
+      {"slug": "humanidades", "nome": "Humanidades", "emoji": "🏛️", "descricao": "História, filosofia, sociologia, geografia e artes."},
+      {"slug": "idiomas", "nome": "Idiomas", "emoji": "🗣️", "descricao": "Inglês, espanhol e outros idiomas: cursos, apps e prática."},
+      {"slug": "educacao", "nome": "Educação e Ensino", "emoji": "🎓", "descricao": "Plataformas, cursos gratuitos, MOOCs e recursos para professores."},
+      {"slug": "pesquisa-academica", "nome": "Pesquisa Acadêmica", "emoji": "📚", "descricao": "Artigos, bases científicas, LaTeX, gestão de referências e ciência aberta."}
+     ]},
+    {"slug": "carreira", "nome": "Carreira e Produtividade", "emoji": "🧭", "descricao": "Vagas, trabalho remoto, freelas, produtividade, comunidades e acessibilidade.",
+     "areas": [
+      {"slug": "carreira-vagas", "nome": "Carreira e Vagas", "emoji": "💼", "descricao": "Vagas, currículo, entrevistas, roadmaps de carreira e salários."},
+      {"slug": "trabalho-remoto-freela", "nome": "Trabalho Remoto e Freelancer", "emoji": "🏝️", "descricao": "Vagas remotas, plataformas de freela, nômades digitais e gestão do próprio trabalho."},
+      {"slug": "produtividade", "nome": "Produtividade e Organização", "emoji": "⏱️", "descricao": "Métodos, apps de notas, tarefas, foco e segundo cérebro."},
+      {"slug": "comunidades", "nome": "Comunidades, Eventos e Conteúdo", "emoji": "👋", "descricao": "Comunidades, eventos, newsletters, podcasts e canais."},
+      {"slug": "acessibilidade", "nome": "Acessibilidade", "emoji": "♿", "descricao": "Acessibilidade digital, tecnologias assistivas e inclusão."}
+     ]},
+    {"slug": "ferramentas", "nome": "Ferramentas e Utilitários", "emoji": "🧰", "descricao": "Ferramentas online, apps por sistema, self-hosting, APIs e recursos gratuitos.",
+     "areas": [
+      {"slug": "ferramentas-online", "nome": "Ferramentas Online", "emoji": "🌍", "descricao": "Conversores, geradores, editores e utilitários no navegador."},
+      {"slug": "ferramentas-ia", "nome": "Ferramentas de IA", "emoji": "🪄", "descricao": "Apps de IA para texto, imagem, vídeo, áudio e produtividade."},
+      {"slug": "self-hosted", "nome": "Self-hosted", "emoji": "🏠", "descricao": "Software para hospedar você mesmo: nuvem própria, mídia, automação."},
+      {"slug": "apps-sistemas", "nome": "Apps para macOS, Windows e Linux", "emoji": "🖥️", "descricao": "Os melhores aplicativos para cada sistema operacional."},
+      {"slug": "apps-celular", "nome": "Apps para Android e iOS", "emoji": "📲", "descricao": "Aplicativos úteis e de código aberto para celular."},
+      {"slug": "extensoes-navegador", "nome": "Extensões de Navegador", "emoji": "🧩", "descricao": "Extensões para Chrome, Firefox e outros navegadores."},
+      {"slug": "apis-publicas", "nome": "APIs Públicas", "emoji": "🔗", "descricao": "APIs gratuitas para projetos, estudos e protótipos."},
+      {"slug": "recursos-gratuitos", "nome": "Recursos Gratuitos", "emoji": "🎁", "descricao": "Bancos de imagens, ícones, fontes, paletas, mockups e templates."},
+      {"slug": "automacao", "nome": "Automação e No-code", "emoji": "⚡", "descricao": "Automação de fluxos, no-code, low-code e integrações."}
+     ]}
+  ]
+}

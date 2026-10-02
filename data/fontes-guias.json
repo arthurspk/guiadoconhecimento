@@ -1,0 +1,898 @@
+[
+ {
+  "repo": "arthurspk/guiadevbrasil",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "area": "_mapa",
+  "mapa": [
+   [
+    "^Sites e cursos para aprender Inteligência Artificial$",
+    "ciencia-de-dados-ml"
+   ],
+   [
+    "^Sites e cursos para aprender Styled Components$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Linha de comando$",
+    "sistemas-linux"
+   ],
+   [
+    "^Sites e cursos para aprender Machine Learning$",
+    "ciencia-de-dados-ml"
+   ],
+   [
+    "^Sites e cursos para aprender Tailwind CSS$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender React Native$",
+    "mobile"
+   ],
+   [
+    "^Sites e cursos para aprender Postgree SQL$",
+    "bancos-de-dados"
+   ],
+   [
+    "^Sites e cursos para aprender Google Cloud$",
+    "devops-cloud"
+   ],
+   [
+    "^Sites e cursos para aprender Git e Github$",
+    "ferramentas-dev"
+   ],
+   [
+    "^Sites e cursos para aprender Data Science$",
+    "ciencia-de-dados-ml"
+   ],
+   [
+    "^Sites e cursos para aprender JavaScript$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender SQL Server$",
+    "bancos-de-dados"
+   ],
+   [
+    "^Sites e cursos para aprender PowerShell$",
+    "sistemas-linux"
+   ],
+   [
+    "^Sites e cursos para aprender Bootstrap$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Cassandra$",
+    "bancos-de-dados"
+   ],
+   [
+    "^Sites e cursos para aprender Kubernets$",
+    "devops-cloud"
+   ],
+   [
+    "^Sites e cursos para aprender Wordpress$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Assembly$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Next\\.js$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Nuxt\\.js$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Node\\.js$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender ASP\\.net$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender ArangoDB$",
+    "bancos-de-dados"
+   ],
+   [
+    "^Sites e cursos para aprender Angular$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Flutter$",
+    "mobile"
+   ],
+   [
+    "^Sites e cursos para aprender Xamarin$",
+    "mobile"
+   ],
+   [
+    "^Sites e cursos para aprender Laravel$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender GraphQL$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender Camunda$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender MongoDB$",
+    "bancos-de-dados"
+   ],
+   [
+    "^Sites e cursos para aprender Jenkins$",
+    "devops-cloud"
+   ],
+   [
+    "^Sites e cursos para aprender Magento$",
+    "e-commerce"
+   ],
+   [
+    "^Sites e cursos para aprender Python$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Kotlin$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Elixir$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Delphi$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Matlab$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Svelte$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender jQuery$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Gatsby$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Django$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender Spring$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender Docker$",
+    "devops-cloud"
+   ],
+   [
+    "^Sites e cursos para aprender Pandas$",
+    "ciencia-de-dados-ml"
+   ],
+   [
+    "^Sites e cursos para aprender C\\+\\+$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Swift$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Scala$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Julia$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender React$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Ionic$",
+    "mobile"
+   ],
+   [
+    "^Sites e cursos para aprender Flask$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender MySQL$",
+    "bancos-de-dados"
+   ],
+   [
+    "^Sites e cursos para aprender Azure$",
+    "devops-cloud"
+   ],
+   [
+    "^Sites e cursos para aprender Linux$",
+    "sistemas-linux"
+   ],
+   [
+    "^Sites e cursos para aprender NumPy$",
+    "ciencia-de-dados-ml"
+   ],
+   [
+    "^Sites e cursos para aprender Java$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Ruby$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Perl$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Rust$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender HTML$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Less$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Sass$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Gulp$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Nest$",
+    "back-end"
+   ],
+   [
+    "^Sites e cursos para aprender Jira$",
+    "gestao-de-projetos"
+   ],
+   [
+    "^Sites e cursos para aprender PHP$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Lua$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender CSS$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender Vue$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender XML$",
+    "front-end"
+   ],
+   [
+    "^Sites e cursos para aprender AWS$",
+    "devops-cloud"
+   ],
+   [
+    "^Sites e cursos para aprender C#$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender Go$",
+    "linguagens"
+   ],
+   [
+    "^Sites e cursos para aprender C$",
+    "linguagens"
+   ],
+   [
+    "tradução",
+    "ferramentas-online"
+   ],
+   [
+    "estudar programação",
+    "educacao"
+   ],
+   [
+    "desenvolvedor front-end|treinar CSS|Geradores de CSS|Templates HTML|Bibliotecas JavaScript|Design Front-end|treinar projetos front-end|Web Developer Roadmap",
+    "front-end"
+   ],
+   [
+    "programar jogando|Apps para praticar programação",
+    "educacao"
+   ],
+   [
+    "vagas remotas",
+    "trabalho-remoto-freela"
+   ],
+   [
+    "Ferramentas de desenvolvimento|IDEs|9 Ferramentas|Ferramentas para desenvolvedores WEB|Guia de Estilo",
+    "ferramentas-dev"
+   ],
+   [
+    "Gerenciamento de projetos",
+    "gestao-de-projetos"
+   ],
+   [
+    "Linguagens de programação",
+    "linguagens"
+   ],
+   [
+    "Desafios|Ideias para projeto|treinar projetos back-end",
+    "back-end"
+   ],
+   [
+    "projetos open source",
+    "open-source"
+   ],
+   [
+    "distros linux",
+    "sistemas-linux"
+   ],
+   [
+    "UI/UX|inspirar",
+    "design-ui-ux"
+   ],
+   [
+    "hospedar",
+    "devops-cloud"
+   ],
+   [
+    "Banco de imagens|fontes|paletas de cores|ilustrações|icones",
+    "recursos-gratuitos"
+   ],
+   [
+    "network",
+    "carreira-vagas"
+   ],
+   [
+    "youtube|Blogs e Podcasts",
+    "comunidades"
+   ],
+   [
+    "Pentest",
+    "ciberseguranca"
+   ],
+   [
+    "Business",
+    "empreendedorismo"
+   ],
+   [
+    "Extensões",
+    "extensoes-navegador"
+   ],
+   [
+    "livros",
+    "fundamentos-computacao"
+   ],
+   [
+    "treinar projetos mobile",
+    "mobile"
+   ]
+  ],
+  "nota": "Guia original em português; descrições em pt-BR.",
+  "links": 2571,
+  "ultimo_commit": ""
+ },
+ {
+  "repo": "arthurspk/guiadofrontend",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "area": "front-end",
+  "nota": "Roadmap de front-end em português.",
+  "links": 368,
+  "ultimo_commit": ""
+ },
+ {
+  "repo": "arthurspk/guiadobackend",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "area": "back-end",
+  "nota": "Roadmap de back-end em português.",
+  "links": 182,
+  "ultimo_commit": ""
+ },
+ {
+  "repo": "arthurspk/guiadeferramentas",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "area": "ferramentas-dev",
+  "nota": "Ferramentas e extensões, em português.",
+  "links": 194,
+  "ultimo_commit": ""
+ },
+ {
+  "repo": "mahseema/awesome-ai-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "area": "_mapa",
+  "ia": true,
+  "mapa": [
+   [
+    "\\b3D\\b|AIGC-3D|Animation|Avatars?",
+    "motion-3d"
+   ],
+   [
+    "Video|Vídeo",
+    "edicao-de-video"
+   ],
+   [
+    "Music|Audio|Sound|Speech|Voice|Text[- ]to[- ]speech|TTS|STT",
+    "audio-musica"
+   ],
+   [
+    "SEO",
+    "seo"
+   ],
+   [
+    "Marketing",
+    "marketing-digital"
+   ],
+   [
+    "UI Design|UI/UX",
+    "design-ui-ux"
+   ],
+   [
+    "Graphic design|Image (Creation|Synthesis|libraries|Segmentation)|Stable Diffusion|Text-to-image|Artists",
+    "design-grafico"
+   ],
+   [
+    "Writing|text generators?|Text-related|Story",
+    "escrita"
+   ],
+   [
+    "Code|Coding|Developer tools|Compilers",
+    "ferramentas-dev"
+   ],
+   [
+    "Academia|Academic|Research|Papers|Search engines",
+    "pesquisa-academica"
+   ],
+   [
+    "Customer Support|Chatbots|Phone Calls",
+    "atendimento-suporte"
+   ],
+   [
+    "Financ|Quant",
+    "financas"
+   ],
+   [
+    "Productivity|Meeting|Office",
+    "produtividade"
+   ],
+   [
+    "Translation",
+    "idiomas"
+   ],
+   [
+    "Learning resources|Courses|Educational|Interactive Learning",
+    "educacao"
+   ],
+   [
+    "OCR|to Markdown",
+    "ferramentas-online"
+   ],
+   [
+    "Security|Attacks on LLMs",
+    "ciberseguranca"
+   ],
+   [
+    "Autonomous|Agent|MCP|Model Context",
+    "automacao"
+   ],
+   [
+    "Robot|Embodied",
+    "embarcados-iot"
+   ],
+   [
+    "Ethics|Critical Views",
+    "privacidade"
+   ]
+  ],
+  "nota": "Lista geral de ferramentas de IA; as categorias foram distribuídas pelas áreas.",
+  "links": 483,
+  "ultimo_commit": "2025-12-31"
+ },
+ {
+  "repo": "ikaijua/Awesome-AITools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC-BY-4.0",
+  "area": "_mapa",
+  "ia": true,
+  "mapa": [
+   [
+    "\\b3D\\b|AIGC-3D|Animation|Avatars?",
+    "motion-3d"
+   ],
+   [
+    "Video|Vídeo",
+    "edicao-de-video"
+   ],
+   [
+    "Music|Audio|Sound|Speech|Voice|Text[- ]to[- ]speech|TTS|STT",
+    "audio-musica"
+   ],
+   [
+    "SEO",
+    "seo"
+   ],
+   [
+    "Marketing",
+    "marketing-digital"
+   ],
+   [
+    "UI Design|UI/UX",
+    "design-ui-ux"
+   ],
+   [
+    "Graphic design|Image (Creation|Synthesis|libraries|Segmentation)|Stable Diffusion|Text-to-image|Artists",
+    "design-grafico"
+   ],
+   [
+    "Writing|text generators?|Text-related|Story",
+    "escrita"
+   ],
+   [
+    "Code|Coding|Developer tools|Compilers",
+    "ferramentas-dev"
+   ],
+   [
+    "Academia|Academic|Research|Papers|Search engines",
+    "pesquisa-academica"
+   ],
+   [
+    "Customer Support|Chatbots|Phone Calls",
+    "atendimento-suporte"
+   ],
+   [
+    "Financ|Quant",
+    "financas"
+   ],
+   [
+    "Productivity|Meeting|Office",
+    "produtividade"
+   ],
+   [
+    "Translation",
+    "idiomas"
+   ],
+   [
+    "Learning resources|Courses|Educational|Interactive Learning",
+    "educacao"
+   ],
+   [
+    "OCR|to Markdown",
+    "ferramentas-online"
+   ],
+   [
+    "Security|Attacks on LLMs",
+    "ciberseguranca"
+   ],
+   [
+    "Autonomous|Agent|MCP|Model Context",
+    "automacao"
+   ],
+   [
+    "Robot|Embodied",
+    "embarcados-iot"
+   ],
+   [
+    "Ethics|Critical Views",
+    "privacidade"
+   ]
+  ],
+  "nota": "Lista geral de ferramentas de IA; as categorias foram distribuídas pelas áreas.",
+  "links": 465,
+  "ultimo_commit": "2026-10-02"
+ },
+ {
+  "repo": "steven2358/awesome-generative-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "area": "_mapa",
+  "ia": true,
+  "mapa": [
+   [
+    "\\b3D\\b|AIGC-3D|Animation|Avatars?",
+    "motion-3d"
+   ],
+   [
+    "Video|Vídeo",
+    "edicao-de-video"
+   ],
+   [
+    "Music|Audio|Sound|Speech|Voice|Text[- ]to[- ]speech|TTS|STT",
+    "audio-musica"
+   ],
+   [
+    "SEO",
+    "seo"
+   ],
+   [
+    "Marketing",
+    "marketing-digital"
+   ],
+   [
+    "UI Design|UI/UX",
+    "design-ui-ux"
+   ],
+   [
+    "Graphic design|Image (Creation|Synthesis|libraries|Segmentation)|Stable Diffusion|Text-to-image|Artists",
+    "design-grafico"
+   ],
+   [
+    "Writing|text generators?|Text-related|Story",
+    "escrita"
+   ],
+   [
+    "Code|Coding|Developer tools|Compilers",
+    "ferramentas-dev"
+   ],
+   [
+    "Academia|Academic|Research|Papers|Search engines",
+    "pesquisa-academica"
+   ],
+   [
+    "Customer Support|Chatbots|Phone Calls",
+    "atendimento-suporte"
+   ],
+   [
+    "Financ|Quant",
+    "financas"
+   ],
+   [
+    "Productivity|Meeting|Office",
+    "produtividade"
+   ],
+   [
+    "Translation",
+    "idiomas"
+   ],
+   [
+    "Learning resources|Courses|Educational|Interactive Learning",
+    "educacao"
+   ],
+   [
+    "OCR|to Markdown",
+    "ferramentas-online"
+   ],
+   [
+    "Security|Attacks on LLMs",
+    "ciberseguranca"
+   ],
+   [
+    "Autonomous|Agent|MCP|Model Context",
+    "automacao"
+   ],
+   [
+    "Robot|Embodied",
+    "embarcados-iot"
+   ],
+   [
+    "Ethics|Critical Views",
+    "privacidade"
+   ]
+  ],
+  "nota": "Lista geral de ferramentas de IA; as categorias foram distribuídas pelas áreas.",
+  "links": 410,
+  "ultimo_commit": "2026-09-24"
+ },
+ {
+  "repo": "filipecalegario/awesome-generative-ai",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "area": "_mapa",
+  "ia": true,
+  "mapa": [
+   [
+    "\\b3D\\b|AIGC-3D|Animation|Avatars?",
+    "motion-3d"
+   ],
+   [
+    "Video|Vídeo",
+    "edicao-de-video"
+   ],
+   [
+    "Music|Audio|Sound|Speech|Voice|Text[- ]to[- ]speech|TTS|STT",
+    "audio-musica"
+   ],
+   [
+    "SEO",
+    "seo"
+   ],
+   [
+    "Marketing",
+    "marketing-digital"
+   ],
+   [
+    "UI Design|UI/UX",
+    "design-ui-ux"
+   ],
+   [
+    "Graphic design|Image (Creation|Synthesis|libraries|Segmentation)|Stable Diffusion|Text-to-image|Artists",
+    "design-grafico"
+   ],
+   [
+    "Writing|text generators?|Text-related|Story",
+    "escrita"
+   ],
+   [
+    "Code|Coding|Developer tools|Compilers",
+    "ferramentas-dev"
+   ],
+   [
+    "Academia|Academic|Research|Papers|Search engines",
+    "pesquisa-academica"
+   ],
+   [
+    "Customer Support|Chatbots|Phone Calls",
+    "atendimento-suporte"
+   ],
+   [
+    "Financ|Quant",
+    "financas"
+   ],
+   [
+    "Productivity|Meeting|Office",
+    "produtividade"
+   ],
+   [
+    "Translation",
+    "idiomas"
+   ],
+   [
+    "Learning resources|Courses|Educational|Interactive Learning",
+    "educacao"
+   ],
+   [
+    "OCR|to Markdown",
+    "ferramentas-online"
+   ],
+   [
+    "Security|Attacks on LLMs",
+    "ciberseguranca"
+   ],
+   [
+    "Autonomous|Agent|MCP|Model Context",
+    "automacao"
+   ],
+   [
+    "Robot|Embodied",
+    "embarcados-iot"
+   ],
+   [
+    "Ethics|Critical Views",
+    "privacidade"
+   ]
+  ],
+  "nota": "Lista geral de ferramentas de IA; as categorias foram distribuídas pelas áreas.",
+  "links": 1206,
+  "ultimo_commit": "2025-12-18"
+ },
+ {
+  "repo": "eudk/awesome-ai-tools",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "area": "_mapa",
+  "ia": true,
+  "mapa": [
+   [
+    "\\b3D\\b|AIGC-3D|Animation|Avatars?",
+    "motion-3d"
+   ],
+   [
+    "Video|Vídeo",
+    "edicao-de-video"
+   ],
+   [
+    "Music|Audio|Sound|Speech|Voice|Text[- ]to[- ]speech|TTS|STT",
+    "audio-musica"
+   ],
+   [
+    "SEO",
+    "seo"
+   ],
+   [
+    "Marketing",
+    "marketing-digital"
+   ],
+   [
+    "UI Design|UI/UX",
+    "design-ui-ux"
+   ],
+   [
+    "Graphic design|Image (Creation|Synthesis|libraries|Segmentation)|Stable Diffusion|Text-to-image|Artists",
+    "design-grafico"
+   ],
+   [
+    "Writing|text generators?|Text-related|Story",
+    "escrita"
+   ],
+   [
+    "Code|Coding|Developer tools|Compilers",
+    "ferramentas-dev"
+   ],
+   [
+    "Academia|Academic|Research|Papers|Search engines",
+    "pesquisa-academica"
+   ],
+   [
+    "Customer Support|Chatbots|Phone Calls",
+    "atendimento-suporte"
+   ],
+   [
+    "Financ|Quant",
+    "financas"
+   ],
+   [
+    "Productivity|Meeting|Office",
+    "produtividade"
+   ],
+   [
+    "Translation",
+    "idiomas"
+   ],
+   [
+    "Learning resources|Courses|Educational|Interactive Learning",
+    "educacao"
+   ],
+   [
+    "OCR|to Markdown",
+    "ferramentas-online"
+   ],
+   [
+    "Security|Attacks on LLMs",
+    "ciberseguranca"
+   ],
+   [
+    "Autonomous|Agent|MCP|Model Context",
+    "automacao"
+   ],
+   [
+    "Robot|Embodied",
+    "embarcados-iot"
+   ],
+   [
+    "Ethics|Critical Views",
+    "privacidade"
+   ]
+  ],
+  "nota": "Lista geral de ferramentas de IA; as categorias foram distribuídas pelas áreas.",
+  "links": 848,
+  "ultimo_commit": "2026-06-07"
+ }
+]
