@@ -1,0 +1,274 @@
+{
+ "_nota": "Consultas da busca do GitHub usadas por scripts/coletar_repos_ia.py. Cada trilha tem temas; cada tema tem emoji, nome, descricao e consultas (palavras combinadas com E).",
+ "geral": {"emoji": "🧰", "nome": "IA e automação de uso geral", "descricao": "Agentes, automações e utilitários de IA que servem a qualquer profissão; completam a lista quando faltam repositórios específicos do ofício.",
+  "consultas": ["ai automation workflow", "ai agents framework", "llm productivity", "ai assistant open source", "workflow automation llm", "mcp server", "ai agent tools", "chatgpt automation", "claude skills", "browser automation ai", "rag chatbot documents", "prompt library", "ai tools awesome", "local llm app", "no-code ai"]},
+ "trilhas": {
+  "desenvolvedor-front-end": [
+   ["🧩", "Geração de interfaces e componentes", "Ferramentas que transformam prompt, imagem ou design em código de interface.", ["ui generation llm", "screenshot to code", "design to code ai", "generative ui", "react ai components", "tailwind ai", "figma to code ai"]],
+   ["💬", "Kits e SDKs de IA para a web", "Bibliotecas para colocar chat, streaming e agentes dentro de aplicações web.", ["ai sdk react", "chat ui llm", "nextjs ai chatbot", "vue ai chat", "svelte ai", "webllm browser", "copilot ui react", "ai chatbot template nextjs"]],
+   ["🤖", "Assistentes de código no editor", "Agentes e extensões que escrevem, revisam e refatoram código front-end.", ["ai coding assistant vscode", "cursor rules", "claude code frontend", "ai code review", "copilot extension", "ai coding agent"]],
+   ["♿", "Acessibilidade, testes e performance com IA", "Automação de testes de interface, acessibilidade e otimização apoiada por modelos.", ["accessibility ai", "ai e2e testing web", "playwright ai", "visual regression ai", "ai web performance"]],
+   ["🌐", "IA no navegador", "Modelos e inferência rodando direto no browser com WebGPU e WebAssembly.", ["transformers.js", "webgpu llm", "onnx web inference", "browser ai extension", "tensorflow.js demo"]]
+  ],
+  "desenvolvedor-back-end": [
+   ["🧠", "Frameworks de agentes e orquestração", "Bases para construir agentes, cadeias e fluxos de LLM no servidor.", ["llm framework", "agent framework python", "llm orchestration", "ai agent typescript", "langchain", "llm java spring", "golang llm", "rust llm"]],
+   ["🔌", "Servidores MCP e ferramentas para agentes", "Servidores do Model Context Protocol e conectores para APIs e bancos.", ["mcp server database", "mcp server api", "model context protocol", "mcp tools", "openapi mcp"]],
+   ["🚪", "Gateways, proxies e APIs de LLM", "Camadas de roteamento, cache, limites e observabilidade para chamadas de modelo.", ["llm gateway", "llm proxy", "openai compatible api", "llm router", "llm observability", "llm cache"]],
+   ["🗄️", "RAG, busca vetorial e memória", "Recuperação de contexto, bancos vetoriais e memória para aplicações com IA.", ["rag framework", "vector database", "semantic search embeddings", "agent memory", "text to sql llm", "knowledge graph llm"]],
+   ["🤖", "Agentes de código para back-end", "Agentes que geram, revisam e migram código, testes e documentação de APIs.", ["ai coding agent", "ai code review", "ai test generation", "api documentation ai", "ai code generation backend"]]
+  ],
+  "desenvolvedor-mobile": [
+   ["📱", "LLMs e modelos no dispositivo", "Inferência local em Android e iOS, com modelos compactos e aceleração de hardware.", ["on-device llm", "android llm", "ios llm", "mobile llm inference", "coreml", "tensorflow lite android", "mlkit", "llama.cpp android", "mlx swift"]],
+   ["💬", "Apps e SDKs de chat com IA", "Aplicativos, clientes e kits para colocar assistentes em apps móveis.", ["flutter ai", "react native ai", "swiftui chatgpt", "android chatgpt", "kotlin llm", "flutter chatgpt", "ios ai app", "expo ai"]],
+   ["🤖", "Agentes que operam o celular", "Automação de interface móvel guiada por modelos, para testes e tarefas.", ["mobile agent", "android agent llm", "phone agent ai", "appium ai", "mobile ui automation llm"]],
+   ["🧪", "Geração de código e testes mobile", "Assistentes que escrevem telas, lógica e testes para apps.", ["ai mobile app generator", "flutter code generation ai", "swift ai coding", "android ai coding", "app builder ai"]],
+   ["🎙️", "Voz, visão e câmera com IA", "Reconhecimento de fala, visão computacional e recursos de câmera para apps.", ["speech recognition mobile", "mobile computer vision", "whisper ios", "whisper android", "mediapipe"]]
+  ],
+  "desenvolvedor-de-jogos": [
+   ["🎮", "IA em motores de jogo", "Integrações de LLMs e agentes com Unity, Unreal e Godot.", ["unity llm", "unreal engine ai", "godot llm", "unity ai", "godot ai", "unity mcp", "unreal mcp", "godot mcp"]],
+   ["🧙", "NPCs, diálogo e narrativa generativa", "Personagens com diálogo dinâmico, mestres de jogo e histórias geradas.", ["npc llm", "ai npc", "ai dungeon", "text adventure llm", "ai game master", "interactive fiction ai", "roleplay llm"]],
+   ["🎨", "Geração de assets", "Sprites, texturas, modelos 3D, animações e áudio gerados por IA.", ["game assets ai", "sprite generation", "texture generation ai", "text to 3d", "pixel art ai", "ai animation generation", "procedural generation ai"]],
+   ["🕹️", "Agentes que jogam e aprendizado por reforço", "Ambientes e agentes de aprendizado por reforço para jogos.", ["reinforcement learning game", "game playing agent", "ml-agents", "gym environment game", "llm plays game", "minecraft agent"]],
+   ["🛠️", "Ferramentas de desenvolvimento de jogos com IA", "Geradores de jogos, assistentes de código e utilitários de produção.", ["ai game generator", "game development ai", "ai game engine", "roblox ai", "game dev llm"]]
+  ],
+  "devops-sre": [
+   ["☸️", "Kubernetes e infraestrutura com IA", "Assistentes que diagnosticam clusters, geram manifestos e operam infraestrutura.", ["kubernetes ai", "k8s llm", "kubectl ai", "terraform ai", "infrastructure as code ai", "kubernetes mcp", "aws ai agent", "cloud ai assistant"]],
+   ["🚨", "AIOps, incidentes e observabilidade", "Análise de logs, causa raiz e resposta a incidentes apoiadas por modelos.", ["aiops", "incident response ai", "log analysis llm", "root cause analysis ai", "observability ai", "sre agent", "anomaly detection monitoring"]],
+   ["🚀", "MLOps e serviço de modelos", "Implantação, serviço, escalonamento e monitoramento de modelos e LLMs.", ["mlops", "llm serving", "model serving", "llmops", "inference server", "gpu kubernetes", "model deployment"]],
+   ["🔁", "CI/CD e automação com agentes", "Agentes e ações que revisam, corrigem e automatizam pipelines.", ["github actions ai", "ci cd ai", "ai pull request review", "devops ai agent", "ai shell assistant", "terminal ai", "ai commit message"]],
+   ["🛡️", "Segurança e custo de nuvem com IA", "Auditoria de configuração, política e otimização de custo assistidas.", ["cloud security ai", "finops ai", "iac security llm", "devsecops ai"]]
+  ],
+  "qa": [
+   ["🧪", "Geração de testes com IA", "Ferramentas que escrevem testes unitários, de integração e casos de teste.", ["ai test generation", "unit test generation llm", "test case generation ai", "ai testing", "llm unit tests", "testgen"]],
+   ["🖱️", "Automação de interface guiada por IA", "Agentes que navegam, clicam e validam aplicações web e móveis.", ["ai e2e testing", "playwright ai", "selenium ai", "browser automation llm", "ai test automation", "playwright mcp", "web agent testing", "appium ai"]],
+   ["📏", "Avaliação e testes de LLMs", "Frameworks para avaliar, comparar e testar aplicações de IA.", ["llm evaluation", "llm testing", "prompt testing", "llm eval framework", "rag evaluation", "ai red teaming", "llm benchmark"]],
+   ["🐞", "Bugs, fuzzing e análise de código", "Detecção de defeitos, fuzzing e revisão automática apoiadas por modelos.", ["ai fuzzing", "bug detection llm", "ai code review", "automated program repair", "static analysis llm", "ai debugging"]],
+   ["📊", "API, carga e qualidade de dados", "Testes de API, desempenho e validação de dados com apoio de IA.", ["api testing ai", "load testing ai", "data quality ai", "test data generation", "synthetic data generation"]]
+  ],
+  "analista-de-dados": [
+   ["💬", "Converse com os seus dados", "Pergunte em linguagem natural e receba consultas, tabelas e gráficos.", ["text to sql", "chat with data", "natural language sql", "talk to database llm", "nl2sql", "chat with csv", "pandas ai"]],
+   ["📊", "BI e dashboards com IA", "Plataformas de BI, painéis e visualização com assistentes embutidos.", ["ai dashboard", "business intelligence ai", "ai data visualization", "generative bi", "chart generation llm", "ai analytics"]],
+   ["🧮", "Planilhas e Excel com IA", "Fórmulas, limpeza e análise de planilhas com modelos de linguagem.", ["excel ai", "spreadsheet ai", "google sheets ai", "excel gpt", "spreadsheet llm"]],
+   ["🤖", "Agentes de análise de dados", "Agentes que exploram dados, escrevem código e produzem relatórios.", ["data analysis agent", "data analyst ai", "ai data science agent", "code interpreter", "automated eda", "jupyter ai", "notebook ai"]],
+   ["🧹", "Preparação, previsão e AutoML", "Limpeza de dados, séries temporais e modelagem automatizada.", ["automl", "time series forecasting", "data cleaning ai", "auto machine learning", "forecasting deep learning"]]
+  ],
+  "engenheiro-de-dados": [
+   ["🔀", "Pipelines e ETL com IA", "Orquestração, ingestão e transformação de dados com apoio de modelos.", ["etl ai", "data pipeline llm", "data engineering ai", "ai data pipeline", "llm data extraction", "document parsing llm", "unstructured data llm"]],
+   ["🗄️", "Bancos vetoriais e busca", "Armazenamento e consulta de embeddings em escala.", ["vector database", "vector search", "embedding database", "ann search", "pgvector", "hybrid search"]],
+   ["🧾", "SQL, dbt e catálogos com IA", "Geração de SQL, documentação de modelos e descoberta de dados.", ["text to sql", "dbt ai", "data catalog ai", "sql generation llm", "database mcp", "data lineage ai"]],
+   ["🏗️", "Infraestrutura de dados para IA", "Feature stores, lakehouses e plataformas que alimentam modelos.", ["feature store", "data lakehouse ai", "ml data platform", "rag pipeline", "data versioning ml", "streaming ml"]],
+   ["✅", "Qualidade e dados sintéticos", "Validação, observabilidade e geração de dados sintéticos.", ["data quality ai", "synthetic data", "data observability", "data validation ml", "data labeling"]]
+  ],
+  "cientista-de-dados": [
+   ["🧠", "Frameworks e bibliotecas de ML", "As bases de aprendizado de máquina e aprendizado profundo.", ["machine learning framework", "deep learning library", "pytorch", "gradient boosting", "scikit-learn", "jax"]],
+   ["🎯", "Treino e ajuste fino", "Ajuste fino de LLMs, treinamento distribuído e otimização.", ["llm fine-tuning", "lora fine tuning", "model training framework", "distributed training", "hyperparameter optimization", "quantization llm"]],
+   ["🤖", "AutoML e agentes de ciência de dados", "Modelagem automatizada e agentes que conduzem experimentos.", ["automl", "data science agent", "ai scientist", "kaggle agent", "automated machine learning"]],
+   ["🧪", "MLOps, experimentos e avaliação", "Rastreamento de experimentos, versionamento e avaliação de modelos.", ["experiment tracking", "mlops", "model evaluation", "llm evaluation", "model monitoring", "ml pipeline"]],
+   ["🔍", "Interpretabilidade e ML aplicado", "Explicabilidade, séries temporais, visão, linguagem e recomendação.", ["explainable ai", "interpretability", "time series deep learning", "recommender system", "computer vision library", "nlp library"]]
+  ],
+  "engenheiro-de-ia": [
+   ["🤖", "Frameworks de agentes", "Construção de agentes autônomos e sistemas multiagente.", ["ai agent framework", "multi-agent", "autonomous agent", "agentic workflow", "agent orchestration", "agent sdk"]],
+   ["📚", "RAG e recuperação", "Recuperação de contexto, indexação, reordenação e grafos de conhecimento.", ["rag", "retrieval augmented generation", "graphrag", "reranker", "document parsing rag", "embeddings"]],
+   ["🖥️", "Inferência local e serviço", "Execução de modelos localmente e servidores de inferência.", ["llm inference", "local llm", "llama.cpp", "gguf", "vllm", "ollama"]],
+   ["🔌", "MCP, ferramentas e skills", "Servidores MCP, skills e ferramentas para ampliar agentes.", ["mcp server", "model context protocol", "claude skills", "agent tools", "function calling", "claude code plugin"]],
+   ["🎯", "Prompts, avaliação e segurança", "Engenharia de prompt, avaliação, guardrails e observabilidade.", ["prompt engineering", "llm evaluation", "guardrails llm", "llm observability", "structured output llm", "prompt optimization"]],
+   ["🎛️", "Ajuste fino e modelos abertos", "Treino, quantização e modelos de linguagem, imagem e voz.", ["fine-tuning llm", "open source llm", "diffusion model", "text to speech", "multimodal llm", "vision language model"]]
+  ],
+  "seguranca": [
+   ["🗡️", "Pentest e red team com IA", "Agentes e assistentes para testes de intrusão em escopo autorizado.", ["pentest ai", "pentest llm", "ai penetration testing", "offensive security ai", "ctf llm", "bug bounty ai", "hacking agent"]],
+   ["🛡️", "Segurança de LLMs e agentes", "Ataques, defesas, guardrails e avaliação de segurança de modelos.", ["llm security", "prompt injection", "ai red teaming", "llm guardrails", "adversarial machine learning", "mcp security", "ai security"]],
+   ["🔎", "Detecção, SOC e resposta", "Triagem de alertas, caça a ameaças e resposta a incidentes com IA.", ["soc ai", "threat detection machine learning", "siem ai", "threat hunting llm", "security copilot", "incident response ai", "malware detection deep learning"]],
+   ["🐛", "Análise de código e vulnerabilidades", "Descoberta de falhas, fuzzing e revisão de segurança assistidas.", ["vulnerability detection llm", "ai fuzzing", "sast ai", "secure code review ai", "reverse engineering llm", "ghidra ai", "malware analysis llm"]],
+   ["🕵️", "OSINT e inteligência de ameaças", "Coleta e análise de fontes abertas e de inteligência com modelos.", ["osint ai", "threat intelligence llm", "phishing detection", "deepfake detection", "cybersecurity llm"]]
+  ],
+  "designer-ui-ux": [
+   ["🧩", "Do design ao código", "Conversão de telas, imagens e protótipos em código de interface.", ["figma to code", "design to code ai", "screenshot to code", "ui generation llm", "wireframe ai", "figma ai plugin", "figma mcp"]],
+   ["🎨", "Geração de interfaces e design systems", "Geradores de telas, temas, paletas e componentes.", ["generative ui", "ai ui design", "design system ai", "color palette ai", "ui design generator", "tailwind ui ai", "landing page generator ai"]],
+   ["🔬", "Pesquisa de UX com IA", "Síntese de entrevistas, testes de usabilidade e análise de feedback.", ["ux research ai", "user research llm", "user feedback analysis ai", "usability testing ai", "persona generator ai", "synthetic users"]],
+   ["🖼️", "Ícones, ilustrações e imagens", "Geração de ícones, ilustrações, SVG e imagens para produto.", ["icon generation ai", "svg generation llm", "ai illustration", "text to image ui", "logo generator ai", "image generation webui"]],
+   ["♿", "Acessibilidade e prototipação", "Verificação de acessibilidade e protótipos interativos com IA.", ["accessibility ai", "prototype ai", "ai design tool", "design agent", "canvas ai"]]
+  ],
+  "designer-grafico": [
+   ["🖼️", "Geração de imagens", "Interfaces e fluxos para modelos de difusão e geração de imagem.", ["stable diffusion", "comfyui", "image generation ai", "text to image", "flux image", "diffusion webui", "sdxl"]],
+   ["✂️", "Edição, recorte e restauração", "Remoção de fundo, ampliação, retoque e restauração com IA.", ["background removal", "image upscaling", "inpainting", "image restoration", "super resolution", "image matting", "ai photo editor"]],
+   ["🔤", "Logos, vetores e tipografia", "Vetorização, geração de logos, SVG e fontes com modelos.", ["logo generator ai", "svg generation ai", "vectorization image", "font generation", "ai typography", "image to svg"]],
+   ["🎨", "Estilo, cores e controle", "Transferência de estilo, paletas e controle fino da geração.", ["style transfer", "controlnet", "lora stable diffusion", "color palette ai", "image colorization", "ip-adapter"]],
+   ["📐", "Layout, pôsteres e peças", "Composição automática de layouts, banners e materiais gráficos.", ["poster generation ai", "layout generation", "ai design generator", "banner generator ai", "presentation generator ai", "canva ai"]]
+  ],
+  "editor-de-video": [
+   ["✂️", "Edição automática e cortes", "Cortes automáticos, remoção de silêncio e geração de clipes curtos.", ["ai video editing", "auto video editor", "video clipping ai", "shorts generator ai", "silence removal video", "video highlights ai", "auto cut video"]],
+   ["💬", "Legendas, transcrição e dublagem", "Transcrição, legendas automáticas, tradução e dublagem com IA.", ["subtitle generator", "whisper subtitles", "video translation ai", "ai dubbing", "auto captions", "video transcription", "subtitle translation llm"]],
+   ["🎬", "Geração de vídeo", "Modelos e fluxos de texto e imagem para vídeo.", ["text to video", "video generation", "image to video", "video diffusion", "ai video generator", "comfyui video"]],
+   ["🪄", "Restauração e efeitos", "Ampliação, interpolação de quadros, remoção de fundo e rotoscopia.", ["video upscaling", "frame interpolation", "video super resolution", "video matting", "video inpainting", "video background removal", "video denoising"]],
+   ["🔌", "Plugins e automação de editores", "Integrações de IA com DaVinci Resolve, Premiere, FFmpeg e afins.", ["davinci resolve ai", "premiere pro ai", "ffmpeg ai", "video editing mcp", "after effects ai", "capcut automation", "video editing agent"]]
+  ],
+  "filmmaker": [
+   ["📝", "Roteiro e pré-produção", "Escrita de roteiro, decupagem e planejamento com apoio de modelos.", ["screenwriting ai", "screenplay llm", "script writing ai", "story generation llm", "storyboard ai", "shot list ai"]],
+   ["🎬", "Geração de vídeo e cenas", "Modelos de texto para vídeo, consistência de personagem e cenas.", ["text to video", "video generation model", "ai film", "ai short film", "video diffusion", "character consistency video", "ai movie generator"]],
+   ["🎥", "Câmera, movimento e VFX", "Captura de movimento, estimativa de profundidade, tracking e efeitos.", ["motion capture ai", "depth estimation", "camera tracking", "nerf", "gaussian splatting", "vfx ai", "rotoscoping ai", "video matting"]],
+   ["🗣️", "Voz, dublagem e som", "Clonagem de voz, dublagem, sincronia labial e desenho de som.", ["voice cloning", "lip sync", "ai dubbing", "text to speech", "sound effects generation", "video to audio"]],
+   ["🎞️", "Pós-produção e restauração", "Ampliação, colorização, restauração e edição assistida.", ["video upscaling", "video colorization", "film restoration", "ai video editing", "color grading ai", "frame interpolation"]]
+  ],
+  "fotografo": [
+   ["✨", "Ampliação e restauração", "Ampliação, redução de ruído e restauração de fotos antigas.", ["image upscaling", "photo restoration", "image denoising", "super resolution", "face restoration", "old photo restoration"]],
+   ["🖌️", "Retoque e edição", "Retoque de retrato, remoção de objetos e edição guiada por texto.", ["ai photo editor", "inpainting", "object removal image", "portrait retouching", "image editing diffusion", "photo enhancement ai"]],
+   ["🗂️", "Organização e busca de fotos", "Bibliotecas de fotos com reconhecimento de rostos, busca e seleção.", ["photo management ai", "photo organizer face recognition", "image search clip", "photo culling ai", "self-hosted photos", "image tagging ai", "duplicate photo finder"]],
+   ["🎨", "Cor, estilo e RAW", "Colorização, correção de cor, estilos e processamento de RAW com IA.", ["image colorization", "color grading ai", "raw image processing deep learning", "style transfer", "hdr deep learning", "lightroom ai"]],
+   ["✂️", "Recorte, fundo e composição", "Remoção de fundo, segmentação e composição de imagens.", ["background removal", "image matting", "image segmentation", "segment anything", "ai headshot", "product photography ai"]]
+  ],
+  "motion-3d": [
+   ["🧊", "Geração 3D", "Texto e imagem para modelos 3D, texturas e cenas.", ["text to 3d", "image to 3d", "3d generation", "3d reconstruction", "gaussian splatting", "nerf", "texture generation"]],
+   ["🟠", "Blender com IA", "Add-ons, agentes e automação do Blender com modelos.", ["blender ai", "blender mcp", "blender addon ai", "blender stable diffusion", "blender llm", "blender python automation"]],
+   ["🏃", "Animação e captura de movimento", "Geração de movimento, rigging, captura e animação de personagens.", ["motion capture", "motion generation", "character animation ai", "pose estimation", "text to motion", "auto rigging", "facial animation"]],
+   ["🎞️", "Motion graphics e vídeo generativo", "Animações, vídeo generativo e automação de After Effects.", ["motion graphics ai", "after effects ai", "animation generation", "video generation", "animatediff", "remotion", "manim"]],
+   ["🖥️", "Render, materiais e engines", "Render neural, materiais e integrações com Unreal, Houdini e afins.", ["neural rendering", "material generation", "unreal engine ai", "houdini ai", "comfyui 3d", "avatar generation"]]
+  ],
+  "produtor-musical": [
+   ["🎼", "Geração de música", "Modelos e ferramentas de composição e geração musical.", ["music generation", "text to music", "ai music", "midi generation", "song generation", "musicgen"]],
+   ["🎚️", "Separação, mixagem e masterização", "Separação de faixas, mixagem, masterização e plugins com IA.", ["source separation", "stem separation", "ai mastering", "audio plugin ai", "vst ai", "neural audio effects", "audio mixing ai"]],
+   ["🗣️", "Voz, canto e clonagem", "Síntese de voz, conversão de voz e voz cantada.", ["voice cloning", "text to speech", "singing voice synthesis", "voice conversion", "rvc voice", "tts open source"]],
+   ["🎙️", "Podcast e transcrição", "Transcrição, limpeza de áudio, edição e geração de podcasts.", ["podcast ai", "whisper transcription", "speech enhancement", "audio denoising", "podcast generator", "speaker diarization", "noise suppression"]],
+   ["🔊", "Efeitos sonoros e análise de áudio", "Geração de efeitos, classificação e análise de áudio.", ["sound effects generation", "text to audio", "audio classification", "music information retrieval", "audio generation", "beat detection"]]
+  ],
+  "redator": [
+   ["✍️", "Assistentes de escrita", "Editores e assistentes para escrever, revisar e reescrever textos.", ["ai writing assistant", "writing tool llm", "ai text editor", "grammar correction", "ai proofreading", "rewrite text ai", "ai writer"]],
+   ["📰", "Blog, SEO e conteúdo", "Geração de artigos, conteúdo otimizado e pautas.", ["ai blog writer", "seo content ai", "content generation ai", "article generator llm", "ai content writer", "newsletter ai"]],
+   ["📖", "Ficção, livros e roteiros", "Escrita criativa, romances, mundos e roteiros com IA.", ["novel writing ai", "story generation", "creative writing llm", "ai book writer", "screenwriting ai", "interactive fiction ai"]],
+   ["📣", "Copywriting e marketing", "Textos de venda, e-mails, anúncios e redes sociais.", ["copywriting ai", "ai email writer", "marketing copy ai", "prompt copywriting", "ad copy generator"]],
+   ["🌍", "Tradução, resumo e pesquisa", "Tradução, sumarização, humanização e apoio à pesquisa.", ["translation llm", "text summarization", "ai translator", "paraphrase", "ai detection text", "notes ai obsidian", "research assistant llm"]]
+  ],
+  "gestor-de-trafego": [
+   ["🎯", "Google Ads e Meta Ads com IA", "Automação, scripts e agentes para contas de mídia paga.", ["google ads ai", "facebook ads ai", "meta ads ai", "google ads mcp", "meta ads mcp", "ads automation", "google ads scripts", "tiktok ads api"]],
+   ["🖼️", "Criativos e anúncios gerados", "Geração de imagens, vídeos e textos de anúncio.", ["ad creative ai", "ad copy generator", "ai ad generator", "ugc video ai", "product video ai", "banner generator ai"]],
+   ["📈", "Atribuição, MMM e otimização de lances", "Modelagem de mix de mídia, atribuição e otimização de orçamento.", ["marketing mix modeling", "attribution modeling", "bid optimization", "budget optimization ads", "uplift modeling", "ctr prediction", "conversion prediction"]],
+   ["📊", "Relatórios e análise de campanhas", "Painéis, relatórios e análise de desempenho com apoio de modelos.", ["marketing analytics ai", "ads reporting", "google analytics mcp", "ga4 ai", "campaign analysis llm", "marketing dashboard"]],
+   ["🔎", "Landing pages, palavras-chave e público", "Pesquisa de palavras-chave, páginas de destino e segmentação.", ["keyword research ai", "landing page generator ai", "audience segmentation machine learning", "ab testing", "ppc ai"]]
+  ],
+  "profissional-de-marketing": [
+   ["📣", "Automação de marketing com IA", "Agentes e fluxos para campanhas, e-mail e CRM.", ["marketing automation ai", "marketing ai agent", "email marketing ai", "ai marketing", "marketing llm", "marketing skills claude", "growth automation"]],
+   ["📝", "Conteúdo e SEO", "Geração de conteúdo, otimização para busca e pautas.", ["seo ai", "content marketing ai", "ai seo tool", "seo llm", "ai blog generator", "keyword research ai", "geo llm optimization"]],
+   ["📊", "Analytics, atribuição e clientes", "Análise de dados de marketing, segmentação e previsão.", ["marketing analytics", "marketing mix modeling", "customer segmentation", "churn prediction", "customer lifetime value", "recommendation system"]],
+   ["🎨", "Criativos e marca", "Imagens, vídeos, apresentações e materiais de marca gerados.", ["ad creative ai", "brand ai", "ai image generator marketing", "presentation generator ai", "landing page generator ai", "product photo ai"]],
+   ["🔍", "Pesquisa de mercado e concorrência", "Coleta, monitoramento e análise de mercado com IA.", ["market research ai", "competitor analysis ai", "sentiment analysis", "social listening", "web scraping llm", "lead generation ai"]]
+  ],
+  "social-media": [
+   ["📲", "Criação e agendamento de posts", "Geração, agendamento e publicação automatizada em redes sociais.", ["social media ai", "social media automation", "post scheduler ai", "twitter bot ai", "linkedin post generator", "instagram automation", "social media agent"]],
+   ["🎬", "Vídeos curtos e reels", "Geração automática de shorts, reels e vídeos para redes.", ["shorts generator", "tiktok video generator", "youtube shorts automation", "faceless video ai", "reels generator", "video clipping ai", "money printer"]],
+   ["🖼️", "Imagens, thumbnails e carrosséis", "Criação de imagens, miniaturas, memes e carrosséis.", ["thumbnail generator ai", "carousel generator", "meme generator ai", "ai image generator", "ai avatar", "social media image generator"]],
+   ["💬", "Legendas, hashtags e comentários", "Textos de legenda, hashtags e respostas automatizadas.", ["caption generator", "hashtag generator", "comment bot ai", "ai reply", "youtube transcript summary", "content repurposing ai"]],
+   ["📈", "Análise e tendências", "Monitoramento de tendências, sentimento e desempenho.", ["social media analytics", "sentiment analysis twitter", "trend analysis ai", "influencer analytics", "youtube analytics ai", "social listening"]]
+  ],
+  "vendedor": [
+   ["🤝", "Prospecção e geração de leads", "Busca de leads, enriquecimento e abordagem automatizada.", ["lead generation ai", "sales prospecting ai", "cold email ai", "lead scoring", "linkedin automation", "outreach automation", "lead enrichment", "sdr ai"]],
+   ["📇", "CRM com IA", "CRMs abertos e integrações de IA com HubSpot, Salesforce e afins.", ["crm ai", "open source crm", "salesforce ai", "hubspot ai", "crm mcp", "crm llm", "sales crm"]],
+   ["🤖", "Agentes e assistentes de vendas", "Agentes que qualificam, respondem e conduzem conversas de venda.", ["sales agent ai", "ai sales assistant", "sales gpt", "sales chatbot", "whatsapp ai bot", "voice agent sales", "ai sdr"]],
+   ["📞", "Reuniões, ligações e propostas", "Transcrição de reuniões, análise de chamadas e geração de propostas.", ["meeting transcription ai", "call analysis ai", "meeting notes ai", "proposal generator ai", "sales call transcription", "meeting assistant"]],
+   ["📈", "Previsão e análise de vendas", "Previsão de vendas, churn e precificação com modelos.", ["sales forecasting", "churn prediction", "sales analytics", "price optimization", "customer segmentation"]]
+  ],
+  "e-commerce": [
+   ["🛒", "Lojas e plataformas com IA", "Integrações de IA com Shopify, WooCommerce e plataformas abertas.", ["shopify ai", "ecommerce ai", "woocommerce ai", "shopify mcp", "ecommerce llm", "ecommerce chatbot", "open source ecommerce", "magento ai"]],
+   ["🧭", "Recomendação e busca", "Sistemas de recomendação, busca semântica e personalização.", ["recommendation system", "product recommendation", "ecommerce search", "semantic search product", "personalization machine learning", "visual search"]],
+   ["🖼️", "Fotos e descrições de produto", "Geração de descrições, fotos de produto e provador virtual.", ["product description generator", "product photo ai", "virtual try-on", "product image generation", "background removal product"]],
+   ["💲", "Preço, estoque e demanda", "Precificação dinâmica, previsão de demanda e monitoramento de preços.", ["dynamic pricing", "demand forecasting", "price tracker", "inventory forecasting", "price scraper", "amazon scraper"]],
+   ["💬", "Atendimento e automação da operação", "Chatbots, WhatsApp e automações de pedidos e marketplaces.", ["ecommerce customer service ai", "whatsapp chatbot ai", "order automation", "marketplace automation", "dropshipping automation", "amazon seller ai"]]
+  ],
+  "empreendedor": [
+   ["🚀", "SaaS e produtos de IA prontos para lançar", "Boilerplates e modelos para lançar um produto com IA.", ["saas boilerplate ai", "ai saas starter", "ai startup template", "saas starter kit", "ai app template", "micro saas"]],
+   ["🤖", "Agentes e automação do negócio", "Automação de processos, agentes e fluxos sem código.", ["business automation ai", "workflow automation", "ai agent business", "no-code ai", "n8n workflows", "ai employee", "rpa ai"]],
+   ["💡", "Ideias, validação e plano", "Validação de ideia, pesquisa de mercado e plano de negócio.", ["startup idea ai", "business plan ai", "market research ai", "startup validation", "pitch deck ai", "competitor analysis ai"]],
+   ["📈", "Vendas, marketing e clientes", "Aquisição, CRM, atendimento e marketing com IA.", ["lead generation ai", "crm ai", "customer support ai", "marketing automation ai", "landing page generator ai"]],
+   ["💰", "Finanças e operação", "Faturamento, contabilidade, documentos e análise financeira.", ["invoice ai", "bookkeeping ai", "financial analysis llm", "document extraction ai", "contract analysis ai", "expense tracker ai"]]
+  ],
+  "product-manager": [
+   ["📦", "Assistentes para produto", "Skills, agentes e prompts para o trabalho de gestão de produto.", ["product management ai", "product manager llm", "pm skills claude", "prd generator", "product requirements ai", "user story generator", "product manager prompts"]],
+   ["🗣️", "Feedback e pesquisa com usuários", "Análise de feedback, entrevistas e pesquisas com modelos.", ["user feedback analysis", "feedback ai", "user research ai", "survey analysis llm", "customer feedback llm", "review analysis"]],
+   ["📊", "Analytics e experimentação", "Análise de produto, testes A/B e feature flags.", ["product analytics", "ab testing", "feature flags", "experimentation platform", "analytics ai", "session replay"]],
+   ["🗺️", "Roadmap, especificações e protótipos", "Geração de especificações, roadmaps e protótipos.", ["roadmap ai", "spec driven development", "prototype generator ai", "app builder ai", "wireframe ai", "requirements llm"]],
+   ["🎫", "Issues, tarefas e documentação", "Integrações de IA com Jira, Linear, Notion e documentação.", ["jira ai", "linear mcp", "notion ai", "issue triage ai", "documentation ai", "meeting notes ai"]]
+  ],
+  "gerente-de-projetos": [
+   ["🗂️", "Gestão de projetos com IA", "Planejamento, acompanhamento e ferramentas de projeto com assistentes.", ["project management ai", "task management ai", "project planning llm", "open source project management", "kanban ai", "ai project manager"]],
+   ["🎫", "Jira, Linear, Trello e afins", "Conectores e automações para ferramentas de gestão.", ["jira ai", "jira mcp", "linear mcp", "trello ai", "asana ai", "clickup ai", "notion mcp"]],
+   ["📝", "Reuniões e atas", "Transcrição, resumo e acompanhamento de reuniões.", ["meeting notes ai", "meeting transcription", "meeting summary ai", "meeting assistant", "standup bot"]],
+   ["🤖", "Agentes de planejamento e tarefas", "Agentes que decompõem trabalho, priorizam e executam tarefas.", ["task planning agent", "ai task manager", "todo ai", "agent task orchestration", "spec driven development", "ai scrum"]],
+   ["📈", "Estimativas, relatórios e fluxos", "Estimativa, relatórios de status e automação de fluxos.", ["workflow automation ai", "report generation ai", "time tracking ai", "gantt", "software estimation machine learning", "okr"]]
+  ],
+  "financas": [
+   ["📈", "Mercado e investimentos", "Análise de ativos, negociação algorítmica e agentes de investimento.", ["trading ai", "stock prediction", "ai hedge fund", "quantitative trading", "financial llm", "trading agent llm", "portfolio optimization", "stock analysis ai"]],
+   ["🧾", "Contabilidade, notas e documentos", "Extração de dados de notas, recibos e automação contábil.", ["invoice extraction", "accounting ai", "bookkeeping ai", "receipt ocr", "open source accounting", "invoice ocr llm", "tax ai"]],
+   ["📊", "Análise financeira e relatórios", "Leitura de balanços, relatórios e pesquisa financeira com modelos.", ["financial analysis llm", "financial statements ai", "finance agent", "finance rag", "financial research ai", "sec filings llm", "finance mcp"]],
+   ["💳", "Finanças pessoais e orçamento", "Controle de gastos, orçamento e categorização automática.", ["personal finance ai", "budget ai", "expense tracker ai", "personal finance app", "transaction categorization"]],
+   ["🛡️", "Risco, crédito e fraude", "Modelos de risco, crédito, fraude e criptoativos.", ["fraud detection", "credit scoring", "risk modeling machine learning", "anti money laundering", "crypto trading bot ai", "financial forecasting"]]
+  ],
+  "rh": [
+   ["📄", "Currículos e triagem", "Análise, pontuação e criação de currículos com IA.", ["resume parser", "resume ai", "resume screening", "ats resume", "resume builder ai", "cv parser", "resume matching"]],
+   ["🔎", "Recrutamento e entrevistas", "Busca de candidatos, entrevistas e avaliação automatizadas.", ["recruiting ai", "ai interview", "hiring ai", "candidate sourcing", "interview assistant ai", "job matching", "recruitment llm", "ai interviewer"]],
+   ["💼", "Vagas e candidatura", "Automação de busca de vagas e de candidaturas.", ["job search ai", "job application automation", "job scraper", "linkedin job bot", "cover letter generator", "auto apply jobs"]],
+   ["👥", "Gestão de pessoas e analytics", "Sistemas de RH, análise de pessoas e previsão de rotatividade.", ["hr analytics", "employee attrition", "open source hrms", "people analytics", "hr ai", "employee engagement", "hr chatbot"]],
+   ["🎓", "Onboarding, treinamento e conhecimento", "Bases de conhecimento, treinamento e assistentes internos.", ["onboarding ai", "employee training ai", "knowledge base ai", "internal chatbot llm", "learning management ai", "skills assessment ai"]]
+  ],
+  "advogado": [
+   ["⚖️", "LLMs e assistentes jurídicos", "Modelos, agentes e assistentes para trabalho jurídico.", ["legal ai", "legal llm", "law llm", "legal assistant ai", "lawyer ai", "legal agent", "legal gpt", "legal skills claude"]],
+   ["📑", "Contratos e documentos", "Revisão, extração e geração de contratos e peças.", ["contract analysis", "contract review ai", "legal document ai", "contract nlp", "legal document generation", "clause extraction", "legal document analysis"]],
+   ["🔎", "Pesquisa de jurisprudência e legislação", "Busca, RAG e bases de leis e decisões.", ["legal research ai", "case law", "legal rag", "legal search", "court data", "legislation data", "legal nlp", "jurisprudencia"]],
+   ["🇧🇷", "Direito brasileiro e dados públicos", "Ferramentas e dados de tribunais, diários e leis do Brasil.", ["direito brasileiro", "juridico", "tribunal scraper", "diario oficial", "lgpd", "processos judiciais", "legal portuguese nlp"]],
+   ["🛡️", "Privacidade, conformidade e e-discovery", "Conformidade, anonimização e análise de grandes volumes.", ["compliance ai", "gdpr tool", "pii anonymization", "ediscovery", "privacy policy analysis", "regulatory compliance llm", "document redaction"]]
+  ],
+  "atendimento": [
+   ["💬", "Chatbots e agentes de atendimento", "Plataformas e agentes para atender clientes com IA.", ["customer support ai", "customer service chatbot", "support agent llm", "chatbot platform", "conversational ai platform", "ai helpdesk", "customer service ai agent"]],
+   ["📱", "WhatsApp, voz e canais", "Bots de WhatsApp, telefone e outros canais de contato.", ["whatsapp chatbot ai", "whatsapp bot llm", "voice agent", "ai phone agent", "telegram bot ai", "call center ai", "voice assistant llm"]],
+   ["🎫", "Helpdesk e tickets", "Sistemas de chamados abertos e triagem automática.", ["open source helpdesk", "ticket classification", "zendesk ai", "ticketing system ai", "live chat open source", "intercom alternative", "chatwoot"]],
+   ["📚", "Base de conhecimento e RAG", "Respostas com base em documentos e FAQ da empresa.", ["knowledge base chatbot", "rag chatbot", "faq chatbot", "chat with docs", "documentation chatbot", "knowledge base ai"]],
+   ["📈", "Sentimento e sucesso do cliente", "Análise de sentimento, churn e qualidade do atendimento.", ["sentiment analysis customer", "churn prediction", "customer feedback analysis", "call analysis ai", "nps analysis", "customer success ai"]]
+  ],
+  "professor": [
+   ["🎓", "Tutores e ensino com IA", "Tutores inteligentes e plataformas de ensino com modelos.", ["ai tutor", "education ai", "education llm", "teaching assistant ai", "ai teacher", "intelligent tutoring system", "edtech ai"]],
+   ["📝", "Provas, questões e correção", "Geração de questões, quizzes e correção automática.", ["quiz generator ai", "question generation", "automated grading", "exam generator ai", "essay scoring", "flashcards ai", "worksheet generator"]],
+   ["📚", "Planos de aula e materiais", "Criação de planos de aula, slides e materiais didáticos.", ["lesson plan ai", "course generator ai", "presentation generator ai", "slides ai", "educational content generation", "curriculum ai"]],
+   ["🎥", "Vídeo-aulas e explicações", "Geração de vídeos educativos, animações e resumos.", ["educational video ai", "manim", "lecture summarization", "youtube summarizer", "explainer video ai", "lecture transcription"]],
+   ["🏫", "Plataformas e sala de aula", "Ambientes de aprendizagem e ferramentas para a sala de aula.", ["moodle ai", "lms ai", "classroom ai", "learning platform llm", "student assessment ai", "plagiarism detection"]]
+  ],
+  "estudante": [
+   ["🧠", "Estudo e revisão com IA", "Flashcards, resumos e planos de estudo gerados.", ["study ai", "flashcards ai", "anki ai", "study assistant llm", "ai tutor", "notes ai", "quiz generator ai"]],
+   ["📄", "Leitura de PDFs e artigos", "Converse com documentos, resuma livros e artigos.", ["chat with pdf", "pdf ai", "paper summarization", "document qa llm", "notebooklm alternative", "book summary ai"]],
+   ["✍️", "Escrita, redação e idiomas", "Apoio à escrita, correção e aprendizado de idiomas.", ["essay writing ai", "language learning ai", "grammar correction", "ai language tutor", "translation llm", "english learning ai"]],
+   ["➗", "Matemática, ciências e programação", "Resolução passo a passo e aprendizado de exatas e código.", ["math solver ai", "math llm", "learn to code ai", "coding tutor ai", "physics ai", "homework ai", "leetcode ai"]],
+   ["🗒️", "Anotações e segundo cérebro", "Notas, transcrição de aulas e organização do conhecimento.", ["obsidian ai", "note taking ai", "lecture transcription", "second brain ai", "knowledge management llm", "youtube summarizer"]]
+  ],
+  "pesquisador": [
+   ["🔬", "Agentes de pesquisa", "Agentes que buscam, leem e sintetizam literatura.", ["deep research", "research agent", "ai scientist", "research assistant llm", "ai researcher", "literature review ai", "auto research"]],
+   ["📄", "Artigos, PDFs e citações", "Leitura, extração, resumo e gestão de referências.", ["paper summarization", "arxiv", "scientific paper llm", "pdf parsing", "citation", "zotero ai", "paper qa"]],
+   ["✍️", "Escrita científica", "Redação de artigos, LaTeX e revisão com apoio de modelos.", ["academic writing ai", "latex ai", "paper writing llm", "scientific writing", "peer review ai", "paper to code"]],
+   ["🧬", "IA para ciência", "Modelos aplicados a biologia, química, física e materiais.", ["ai for science", "protein structure prediction", "drug discovery", "molecular machine learning", "scientific machine learning", "bioinformatics deep learning", "materials science machine learning"]],
+   ["📊", "Dados, estatística e reprodutibilidade", "Análise, experimentos e fluxos reprodutíveis.", ["data analysis agent", "experiment tracking", "reproducible research", "statistics llm", "jupyter ai", "scientific workflow"]]
+  ],
+  "saude": [
+   ["🩺", "LLMs e assistentes clínicos", "Modelos médicos, apoio à decisão e assistentes clínicos.", ["medical llm", "medical ai", "clinical llm", "healthcare ai", "medical chatbot", "clinical decision support", "medical agent", "health llm"]],
+   ["🩻", "Imagens médicas", "Segmentação, diagnóstico e análise de exames de imagem.", ["medical imaging", "medical image segmentation", "radiology ai", "pathology deep learning", "chest x-ray", "mri deep learning", "medical image analysis"]],
+   ["📋", "Prontuário e documentação clínica", "Transcrição de consultas, prontuário e dados em FHIR.", ["medical transcription", "clinical notes", "ehr ai", "fhir", "medical scribe", "clinical nlp", "medical record"]],
+   ["🧬", "Fármacos, genômica e pesquisa", "Descoberta de fármacos, genômica e biomedicina.", ["drug discovery", "genomics deep learning", "biomedical nlp", "protein", "bioinformatics ai", "biomedical llm"]],
+   ["💚", "Saúde mental, bem-estar e dados", "Apoio em saúde mental, vestíveis e conjuntos de dados.", ["mental health ai", "health data", "wearable health machine learning", "nutrition ai", "fitness ai", "medical dataset", "ecg deep learning"]]
+  ],
+  "maker": [
+   ["🤖", "Robótica com IA", "Controle de robôs, aprendizado por imitação e modelos visão-linguagem-ação.", ["robotics ai", "robot learning", "ros llm", "embodied ai", "robot arm ai", "vision language action", "humanoid robot", "ros2 ai"]],
+   ["🔌", "TinyML e IA embarcada", "Modelos em microcontroladores e placas como ESP32 e Arduino.", ["tinyml", "esp32 ai", "arduino ai", "edge ai", "microcontroller machine learning", "esp32 chatgpt", "embedded ml", "tensorflow lite micro"]],
+   ["🍓", "Raspberry Pi, Jetson e visão", "Visão computacional e inferência em computadores de placa única.", ["raspberry pi ai", "jetson", "object detection edge", "raspberry pi llm", "yolo", "computer vision embedded", "edge inference"]],
+   ["🗣️", "Assistentes de voz e casa inteligente", "Assistentes locais, automação residencial e voz.", ["voice assistant", "home assistant ai", "smart home llm", "esp32 voice assistant", "wake word", "home automation ai", "local voice assistant"]],
+   ["🛠️", "Eletrônica, impressão 3D e firmware", "Projeto de circuitos, CAD, impressão 3D e firmware com IA.", ["pcb ai", "kicad ai", "3d printing ai", "cad llm", "firmware llm", "circuit design ai", "drone ai", "openscad ai"]]
+  ],
+  "freelancer": [
+   ["🧾", "Propostas, contratos e faturas", "Geração de propostas, contratos e cobrança.", ["proposal generator ai", "invoice generator", "invoice ai", "contract generator ai", "freelance tools", "time tracking invoicing"]],
+   ["💼", "Busca de trabalho e clientes", "Automação de busca de vagas, projetos e prospecção.", ["job search ai", "upwork ai", "freelance job scraper", "lead generation ai", "remote jobs", "job application automation", "linkedin automation"]],
+   ["📁", "Portfólio, currículo e presença", "Criação de portfólio, currículo e site pessoal com IA.", ["portfolio generator", "resume builder ai", "portfolio template", "personal website ai", "cover letter generator", "linkedin post generator"]],
+   ["⏱️", "Produtividade e automação pessoal", "Agenda, e-mail, tarefas e automação do dia a dia.", ["productivity ai", "email ai assistant", "calendar ai", "personal assistant ai", "task automation ai", "time tracking ai", "meeting notes ai"]],
+   ["🛠️", "Entrega mais rápida com agentes", "Agentes e construtores que aceleram a entrega do serviço.", ["ai app builder", "ai coding agent", "website generator ai", "ai agency", "no-code ai", "content generation ai"]]
+  ],
+  "usuario": [
+   ["💬", "Assistentes e chats para o dia a dia", "Aplicativos de chat, clientes de modelos e assistentes pessoais.", ["chatgpt desktop", "ai chat app", "llm client", "personal assistant ai", "chatgpt ui", "local ai chat", "ai desktop app"]],
+   ["🖥️", "IA local e privada", "Rodar modelos no próprio computador, sem enviar dados.", ["local llm", "offline ai", "self-hosted ai", "private gpt", "ollama ui", "run llm locally"]],
+   ["📄", "Documentos, PDFs e e-mail", "Resumir, traduzir e conversar com documentos e mensagens.", ["chat with pdf", "document ai", "email ai", "ocr ai", "translation ai", "summarizer ai", "pdf tools ai"]],
+   ["🌐", "Navegador, busca e extensões", "Extensões e agentes que navegam, buscam e resumem a web.", ["browser extension ai", "ai search engine", "chrome extension chatgpt", "browser agent", "youtube summarizer", "web clipper ai"]],
+   ["🗒️", "Notas, arquivos e organização", "Notas, fotos, arquivos e rotinas organizados com IA.", ["note taking ai", "file organizer ai", "photo organizer ai", "obsidian ai", "bookmark manager ai", "voice notes ai", "second brain ai"]]
+  ]
+ }
+}

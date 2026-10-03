@@ -1,0 +1,195 @@
+{
+ "trilhas": {
+  "desenvolvedor-front-end": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "desenvolvedor-back-end": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "desenvolvedor-mobile": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "desenvolvedor-de-jogos": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "devops-sre": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "qa": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "analista-de-dados": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "engenheiro-de-dados": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "cientista-de-dados": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "engenheiro-de-ia": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "seguranca": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "designer-ui-ux": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "designer-grafico": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "editor-de-video": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "filmmaker": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "fotografo": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "motion-3d": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "produtor-musical": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "redator": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "gestor-de-trafego": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "profissional-de-marketing": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "social-media": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "vendedor": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "e-commerce": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "empreendedor": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "product-manager": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "gerente-de-projetos": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "financas": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "rh": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "advogado": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "atendimento": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "professor": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "estudante": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "pesquisador": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "saude": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "maker": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "freelancer": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  },
+  "usuario": {
+   "total": 1000,
+   "do_oficio": 1000,
+   "gerais": 0
+  }
+ },
+ "coletado_em": "2026-10-02"
+}
