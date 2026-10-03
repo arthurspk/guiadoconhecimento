@@ -21,408 +21,408 @@
 > サーバー上でエージェント、チェーン、LLMのフローを構築するための基盤。
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - ファイルやオフィス文書をMarkdownに変換するための Pythonツール。 <sub>⭐ 188.0k · Python</sub>
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. <sub>⭐ 182.1k · Go</sub>
-- [huggingface/transformers](https://github.com/huggingface/transformers) - Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <sub>⭐ 166.9k · Python</sub>
+- [ollama/ollama](https://github.com/ollama/ollama) - Kimi、GLM、MiniMax、DeepSeek、gpt-oss、Qwen、Gemmaなどのモデルで稼働中。 <sub>⭐ 182.1k · Go</sub>
+- [huggingface/transformers](https://github.com/huggingface/transformers) - トランス:テキスト、ビジョン、オーディオ、およびマルチモーダルモデルの最新の機械学習モデルのためのモデル定義フレームワーク、推論とトレーニングの両方。 <sub>⭐ 166.9k · Python</sub>
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - エージェントエンジニアリングプラットフォーム。 <sub>⭐ 147.4k · Python</sub>
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework <sub>⭐ 109.5k · Python</sub>
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of… <sub>⭐ 83.3k · Python</sub>
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies <sub>⭐ 82.2k · Rust</sub>
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. <sub>⭐ 74.3k · Python</sub>
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence… <sub>⭐ 73.7k · TypeScript</sub>
-- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming <sub>⭐ 70.7k · Python</sub>
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. <sub>⭐ 62.7k · Python</sub>
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents:マルチエージェントLM金融取引フレームワーク <sub>⭐ 109.5k · Python</sub>
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - オープンソースの長期にわたるスーパーエージェントハーネスは、研究、コード、および作成します。サンドボックス、思い出、ツール、スキル、サブアナウンスとメッセージゲートウェイの助けを借りて、さまざまなレベルの処理を行います... <sub>⭐ 83.3k · Python</sub>
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - 一般的なdevコマンドでLMトークン消費量を60-90%削減するCLIのプロキシ。単一のRustバイナリ、ゼロ依存関係 <sub>⭐ 82.2k · Rust</sub>
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮し、LLMに到達する前に。 コーディングエージェントのトークン数が20%、JSON用の60-95%少ないトークンは、同じ回答です。 ライブラリ、プロキシ、MCPサーバー。 <sub>⭐ 74.3k · Python</sub>
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 元のエージェントハーネス。インテリジェントなマルチプレイヤーのスワアーをデプロイし、自律的なワークフローを調整し、会話型AIシステムを構築します。適応型のメモリ、自己学習インテリジェンスを備えています... <sub>⭐ 73.7k · TypeScript</sub>
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - マルチエージェントフレームワーク: ファーストAIソフトウェア会社、自然言語プログラミングに向けて <sub>⭐ 70.7k · Python</sub>
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - それを学びます。それを構築します。他の人のためにそれを出荷してください。 <sub>⭐ 62.7k · Python</sub>
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - ストリーム処理、リアルタイム分析、LMLパイプラインおよびRAG用のPython ETLフレームワーク。 <sub>⭐ 62.2k · Python</sub>
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging (Bedrock, Azure, OpenAI… <sub>⭐ 60.1k · Python</sub>
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. <sub>⭐ 55.8k · TypeScript</sub>
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - 最速で、AIゲートウェイをリテストします。Python SDKのRustコアです。OpenAI(またはネイティブ)フォーマットでのコール100 + LLM APIはコストトラッキング、ガードレール、ロードバランシング、およびロギング(Bedrock、Azure、OpenAI... <sub>⭐ 60.1k · Python</sub>
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - HTMLを書きます。 レンダリングビデオ。 エージェントのために構築されています。 <sub>⭐ 55.8k · TypeScript</sub>
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndexはAIのための文書処理のプラットホームです <sub>⭐ 52.4k · Python</sub>
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps <sub>⭐ 48.7k · Python</sub>
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search <sub>⭐ 46.3k · Go</sub>
-- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching… <sub>⭐ 45.2k · TypeScript</sub>
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents. <sub>⭐ 42.6k · Python</sub>
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. <sub>⭐ 41.3k · Python</sub>
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from… <sub>⭐ 41.0k · JavaScript</sub>
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust <sub>⭐ 40.5k · Rust</sub>
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs <sub>⭐ 40.4k · C++</sub>
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Python の Ultra-lightweight、オープンソース、セルフホスト型パーソナル AI エージェントフレームワーク WebUI、ツール、メモリ、MCP、マルチエージェントワークフロー、自動化、チャットアプリ <sub>⭐ 48.7k · Python</sub>
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvusは、スケーラブルなベクトルANN検索用に構築された高性能でクラウドネイティブのベクターデータベースです。 <sub>⭐ 46.3k · Go</sub>
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - ChatGPTクローンの強化:特徴のエージェント、MCP、スキル、DeepSeek、Anthropic、AWS、OpenAI、応答API、Azure、Grq、o1、GPT-5、ミストラル、OpenRouter、Vertex AI、ジェミニ、アーティファクト、AIモデル切り替え... <sub>⭐ 45.2k · TypeScript</sub>
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 弾力性のある代理店を造って下さい。 <sub>⭐ 42.6k · Python</sub>
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - たくさんのIMプラットフォーム、LLM、プラグイン、AI機能を統合するAIエージェントアシスタント&開発フレームワークは、あなたのOpenclawの代替手段になることができます。 <sub>⭐ 41.3k · Python</sub>
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ツールジェットAIのオープンソース基盤 - 内部ツール、ダッシュボード、ビジネスアプリケーション、ワークフローおよびAIエージェントのためのエンタープライズアプリ生成プラットフォーム。視覚的に構築し、プロンプトからまたは... <sub>⭐ 41.0k · JavaScript</sub>
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHumanは最も速く、最も安く、最も有効なオープンソースの代理店の馬具です。Rustで書かれている <sub>⭐ 40.5k · Rust</sub>
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - 1ビットLLMの公式推論フレームワーク <sub>⭐ 40.4k · C++</sub>
 - [PostHog/posthog](https://github.com/PostHog/posthog) - PostHogは、自己主導型製品を構築するための主要なプラットフォームです。 当社の開発者ツール - AI の保守性、分析、セッション再生、フラグ、実験、エラー追跡、ログなど - すべてをキャプチャします... <sub>⭐ 40.1k · Python</sub>
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore… <sub>⭐ 39.6k · Python</sub>
-- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 / Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and… <sub>⭐ 38.7k · Python</sub>
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol <sub>⭐ 37.7k · TypeScript</sub>
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models. <sub>⭐ 36.7k · Python</sub>
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents <sub>⭐ 35.5k · TypeScript</sub>
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. <sub>⭐ 35.3k · TypeScript</sub>
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. <sub>⭐ 34.1k · TypeScript</sub>
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works… <sub>⭐ 33.7k · Python</sub>
-- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course. <sub>⭐ 33.1k · MDX</sub>
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - アプリケーションにGenAIを統合するためのOpiniated RAGは、RAGではなく製品に焦点を当てます。 既存の製品をカスタム化して簡単に統合! LLM: GPT4、Grq、Llama。 すべてのVectorstore... <sub>⭐ 39.6k · Python</sub>
+- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat(原LangChain-ChatGLM)の基幹Langchain-ChatGLM、Qwen 等 Llama 等。 RAG エージェント用 / Langchain-Chatchat (以前はlangchain-ChatGLM), ローカルナレッジベースLLM (チャットGLMなど), Qwen ... <sub>⭐ 38.7k · Python</sub>
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - エージェントとジェネレーションUIのフロントエンドスタック。 React、Angular、Mobile、Slackなど。 AG-UIプロトコルメーカー <sub>⭐ 37.7k · TypeScript</sub>
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLangは、大規模な言語モデルとマルチモーダルモデル向けの高性能なサービングフレームワークです。 <sub>⭐ 36.7k · Python</sub>
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - AI コーディングエージェントを使用して、任意のウェブサイトを 1 つのコマンドでクローンする <sub>⭐ 35.5k · TypeScript</sub>
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - オープンソースエージェントの有効活用と保守性: 1つのオープンプラットフォームでLMLアプリケーションをトレース、評価、改善します。 <sub>⭐ 35.3k · TypeScript</sub>
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - IDEでワイヤーで縛られるが付いている横のコーディングの代理店。Stencil Labsによって造られる。 <sub>⭐ 34.1k · TypeScript</sub>
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817はAIエージェントのためのサイバーセキュリティスキルを構成しましたが、6つのフレームワークにマッピング:MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentkills.io 標準·... <sub>⭐ 33.7k · Python</sub>
+- [huggingface/agents-course](https://github.com/huggingface/agents-course) - このリポジトリには、ハッギングフェイスエージェントコースが含まれています。 <sub>⭐ 33.1k · MDX</sub>
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNozは、チームとAIエージェントのオープンソースであるOpenTelemetry-nativeオブザベーシビリティプラットフォームです。 APMや分散トレース、ログなどの機能を備えた1つのツールでログ、メトリクス、トレースを取得します。 <sub>⭐ 32.3k · TypeScript</sub>
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. <sub>⭐ 31.8k · Go</sub>
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily… <sub>⭐ 31.4k · Rust</sub>
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. <sub>⭐ 30.4k · TypeScript</sub>
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness. <sub>⭐ 29.9k · Python</sub>
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows <sub>⭐ 29.8k · Python</sub>
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration… <sub>⭐ 29.8k · TypeScript</sub>
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. <sub>⭐ 29.8k · TypeScript</sub>
-- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. <sub>⭐ 29.7k · Jupyter Notebook</sub>
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks <sub>⭐ 29.6k · Go</sub>
-- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time. <sub>⭐ 29.4k · TypeScript</sub>
-- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language. <sub>⭐ 29.3k · TypeScript</sub>
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents. <sub>⭐ 28.5k · TypeScript</sub>
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal. <sub>⭐ 28.3k · TypeScript</sub>
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while… <sub>⭐ 28.2k · Python</sub>
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed… <sub>⭐ 27.6k · TypeScript</sub>
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - オープンソースLLMナレッジプラットフォーム:生文書をクエリ可能なRAG、自律的な推論エージェントに変えて、Wikiの自己維持。 <sub>⭐ 31.8k · Go</sub>
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - プライバシー第一に、4倍高速パラケット/ウィスパーライブトランスクリプション、スピーカーダイアライゼーション、およびラスト上に構築されたオラマサバライゼーションを備えたAI会議アシスタント。 ローカル処理の100%。 いいえクラウドは必要ありません。 <sub>⭐ 31.4k · Rust</sub>
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composioは1000以上のツールキット、ツール検索、コンテキスト管理、認証、サンドボックス化されたワークベンチを出力し、アクションに意図するAIエージェントを構築するのに役立ちます。 <sub>⭐ 30.4k · TypeScript</sub>
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - 電池込みのエージェントハーネス。 <sub>⭐ 29.9k · Python</sub>
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - マルチエージェントワークフローのための軽量で強力なフレームワーク <sub>⭐ 29.8k · Python</sub>
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPTは、LMS上に構築されたナレッジベースプラットフォームで、データ処理やRAG検索、ビジュアルAIワークフローのオーケストレーションなどの包括的な機能を提供しています。 <sub>⭐ 29.8k · TypeScript</sub>
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim は、AI エージェントとワークフローの構築・展開・監視を行う共同作業スペースです。100,000以上のビルダーが使用しています。 <sub>⭐ 29.8k · TypeScript</sub>
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - このリポジトリには、Retrieval-Augmented Generation(RAG)システム用のさまざまな高度な技術が紹介されています。各技術は詳細なノートブックチュートリアルを持っています。 <sub>⭐ 29.7k · Jupyter Notebook</sub>
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Gitleaksで秘密を見つける <sub>⭐ 29.6k · Go</sub>
+- [nrwl/nx](https://github.com/nrwl/nx) - 開発者とAIエージェントの両方を増幅する Monorepoプラットフォーム。Nxは、あなたのビルドを最適化し、CIをスケールアップし、失敗したPRを自動的に修正します。半分の時間に出荷してください。 <sub>⭐ 29.4k · TypeScript</sub>
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript のページ内のGUIエージェント。自然言語で Web インターフェイスを制御します。 <sub>⭐ 29.3k · TypeScript</sub>
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastraは、AI搭載アプリケーションやエージェント向けの最新のTypeScriptフレームワークです。 <sub>⭐ 28.5k · TypeScript</sub>
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 端末に住んでいるオープンソースのAIコーディングエージェント。 <sub>⭐ 28.3k · TypeScript</sub>
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - オープンソースのAIエンジニアリングプラットフォームは、エージェント、LM、およびMLモデル向けに設計されています。 MLflowでは、すべてのサイズのチームがデバッグ、評価、モニター、最適化を行いながら生産品質のAIアプリケーションを最適化することができます。 <sub>⭐ 28.2k · Python</sub>
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory は、AI エージェントのチームレベルのメモリハブです。会話やドキュメントを4つの再利用可能なメモリアセット(チャット・メモリー、スキル、LM-Wiki、コードグラフ)に切り替えるだけです。 <sub>⭐ 27.6k · TypeScript</sub>
 - [vercel/ai](https://github.com/vercel/ai) - TypeScript用のAI Toolkit。 Next.jsのクリエイターから、AI SDKはAIを活用したアプリケーションやエージェントの構築のための無料のオープンソースライブラリです <sub>⭐ 27.1k · TypeScript</sub>
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers… <sub>⭐ 26.8k · TypeScript</sub>
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing… <sub>⭐ 26.6k · Python</sub>
-- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? <sub>⭐ 26.5k · TypeScript</sub>
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. <sub>⭐ 24.6k · TypeScript</sub>
-- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems. <sub>⭐ 24.4k · Jupyter Notebook</sub>
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference <sub>⭐ 22.6k · TypeScript</sub>
-- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. <sub>⭐ 22.4k · TypeScript</sub>
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. <sub>⭐ 22.3k · Python</sub>
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. <sub>⭐ 21.7k · TypeScript</sub>
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust <sub>⭐ 20.3k · Rust</sub>
-- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations <sub>⭐ 19.6k · Python</sub>
-- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. <sub>⭐ 19.5k · Python</sub>
-- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. <sub>⭐ 18.9k · TypeScript</sub>
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework <sub>⭐ 18.6k · Python</sub>
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model… <sub>⭐ 18.6k · Jupyter Notebook</sub>
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform <sub>⭐ 18.2k · TypeScript</sub>
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System <sub>⭐ 18.2k · Rust</sub>
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration <sub>⭐ 18.0k · TypeScript</sub>
-- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all… <sub>⭐ 18.0k · Python</sub>
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform <sub>⭐ 17.8k · Jupyter Notebook</sub>
-- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <sub>⭐ 17.7k · Python</sub>
-- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori… <sub>⭐ 17.1k · Python</sub>
-- [cft0808/edict](https://github.com/cft0808/edict) - 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails <sub>⭐ 17.0k · Python</sub>
-- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with… <sub>⭐ 16.9k · Python</sub>
-- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced… <sub>⭐ 16.2k · Python</sub>
-- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor <sub>⭐ 15.9k · TypeScript</sub>
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. <sub>⭐ 15.7k · Go</sub>
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models <sub>⭐ 15.7k · Python</sub>
-- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to… <sub>⭐ 15.5k · HTML</sub>
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - デザイナー向け開発者ツール • オープンソースのAIファーストデザインツール • 視覚的に構築、スタイルを編集し、あなたのコードをAIで編集する•世界最高、最上位のエージェントが推奨#1デベロッパーツール... <sub>⭐ 26.8k · TypeScript</sub>
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - オープンソースのAIオーケストレーションフレームワークで、コンテクストエンジニアリング、製造準備済みLLMアプリケーションを構築できます。モジュール式パイプラインとエージェントワークフローを設計し、検索、ルーティングなどの機能を拡張します。 <sub>⭐ 26.6k · Python</sub>
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - 実際に生産の顧客の手を置くために十分によいLM動力を与えられたソフトウェアを作成するために私達が使用できる原則は何ですか。 <sub>⭐ 26.5k · TypeScript</sub>
+- [pascalorg/editor](https://github.com/pascalorg/editor) - ローカルCLI、MCPツール、およびヒトとAIエージェントの実用的なワークフローを備えたオープンソース3Dアーキテクチャエディタ。 <sub>⭐ 24.6k · TypeScript</sub>
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 基本的な会話ボットから複雑なマルチエージェントシステムまで、AIエージェントの技術を生成するための50以上のチュートリアルと実装。 <sub>⭐ 24.4k · Jupyter Notebook</sub>
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Hermes、LangChain Deep Agents などのエージェントを実行し、NVIDIA OpenShell 内で管理されたインフェレンスでより安全にOpenClaw を実行します <sub>⭐ 22.6k · TypeScript</sub>
+- [winfunc/opcode](https://github.com/winfunc/opcode) - Claudeコード用の強力なGUIアプリとツールキット - カスタムエージェントを作成し、インタラクティブなClaudeコードセッションを管理し、安全なバックグラウンドエージェントを実行します。 <sub>⭐ 22.4k · TypeScript</sub>
+- [comet-ml/opik](https://github.com/comet-ml/opik) - LLM アプリケーション、RAG システム、および包括的なトレース、自動評価、および生産準備のダッシュボードを使用して、エージェントワークフローをデバッグ、評価、監視します。 <sub>⭐ 22.3k · Python</sub>
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - AIエージェント開発プラットフォームで、オールインワンのビジュアルツールが搭載され、エージェント作成を簡素化し、デバッグやデプロイメントもこれまではなく。AIエージェントの作成方法を分析します。 <sub>⭐ 21.7k · TypeScript</sub>
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - 錆で書かれた高性能のコーディングエージェントハーネス <sub>⭐ 20.3k · Rust</sub>
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - ヘリエンシング用LLMインフェレンス/ファインチューン最適化のための柔軟なフレームワーク <sub>⭐ 19.6k · Python</sub>
+- [openai/evals](https://github.com/openai/evals) - Evals は LLM と LLM システムを評価するためのフレームワークであり、ベンチマークのオープンソースレジストリです。 <sub>⭐ 19.5k · Python</sub>
+- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - AIエージェントで任意のウイルスビデオをクローンします。スクリプトだけでなく、ワークフロー全体: 顔を交換し、単語、B-ロールは、1つのコマンドで100のバリアントを出荷し、100Mビューを取得します。 <sub>⭐ 18.9k · TypeScript</sub>
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - LLM評価フレームワーク <sub>⭐ 18.6k · Python</sub>
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Llama Cookbookへようこそ! これはLlamaで構築するためのガイドです: Inference、Fine-Tuning、RAGを始めて取得します。 また、Llamaモデルを使用して問題を解決する方法を紹介します... <sub>⭐ 18.6k · Jupyter Notebook</sub>
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - エージェントエンジニアリングプラットフォーム <sub>⭐ 18.2k · TypeScript</sub>
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - オープンソースエージェントのオペレーティングシステム <sub>⭐ 18.2k · Rust</sub>
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - 記憶とコラボレーションによるAIコワーカー <sub>⭐ 18.0k · TypeScript</sub>
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - C++コアと50 + Python拡張ノードを備えた高性能AIパイプラインエンジン。 13以上のモデルプロバイダー、8+ベクトルデータベース、およびエージェントオーケストレーションでLLMワークフローをビルド、デバッグ、スケール化します。 <sub>⭐ 18.0k · Python</sub>
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Google Cloud で生成する AI 用のコードとノートブック、Gemini Enterprise Agent Platform を使って <sub>⭐ 17.8k · Jupyter Notebook</sub>
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - SuperAGI - 開発初のオープンソース自動認証AIエージェントフレームワーク。開発者が、素早くかつ確実に有用な自律的なエージェントを構築・管理・実行できるようにします。 <sub>⭐ 17.7k · Python</sub>
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memoriは、エージェントネイティブメモリインフラです。 代理店の実行と会話を構造化し、生産システムのための永続的な状態に変えるLM-アグノスティックレイヤー。 企業のために構築されたMemori... <sub>⭐ 17.1k · Python</sub>
+- [cft0808/edict](https://github.com/cft0808/edict) - 三省六部編・OpenClawマルチエージェントのオーケストレーションシステム — リアルタイムダッシュボード、モデル構成、フル監査コースを備えた9つの専門AIエージェント <sub>⭐ 17.0k · Python</sub>
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS(Auto-Research-In-Sleep) — オートノムースML研究のための軽量のMarkdown専用スキル:クロスモデルレビューループ、アイデア発見、実験自動化。フレームワークなし、ロックインなし... <sub>⭐ 16.9k · Python</sub>
+- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - エージェントAIの保守性、監視および評価フレームワークのためのPython SDK。 エージェント、LLM、ツールのトレース、デバッグマルチアジスティックシステム、セルフホストダッシュボードや高度な機能などが含まれます... <sub>⭐ 16.2k · Python</sub>
+- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP サーバーは、Cursor のような AI コーディングエージェントに Figma レイアウト情報を提供する <sub>⭐ 15.9k · TypeScript</sub>
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - オープンソースのAIコーディングエージェント。大規模なプロジェクトと現実世界タスクのために設計されている。 <sub>⭐ 15.7k · Go</sub>
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - 大規模な言語モデルを搭載した自動貫通テストエージェントのフレームワーク <sub>⭐ 15.7k · Python</sub>
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - 文書を構造化したデータを簡単に変換します。非構造化は、複雑なドキュメントをクリーンに変えるためのオープンソースETLソリューションです。言語モデルのための構造化されたフォーマット。当社のウェブサイトを訪問する <sub>⭐ 15.5k · HTML</sub>
 - [botpress/botpress](https://github.com/botpress/botpress) - GPT/LLM Agents のビルドとデプロイを行うオープンソースハブ <sub>⭐ 14.9k · TypeScript</sub>
-- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat… <sub>⭐ 14.8k · TypeScript</sub>
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models <sub>⭐ 14.8k · Python</sub>
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT… <sub>⭐ 14.8k · Python</sub>
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. <sub>⭐ 14.1k · Python</sub>
-- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. <sub>⭐ 13.9k · Python</sub>
-- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go. <sub>⭐ 13.2k · Go</sub>
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing… <sub>⭐ 13.2k · Java</sub>
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API. <sub>⭐ 13.1k · TypeScript</sub>
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - (MLsys2026 Best Paper): https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal… <sub>⭐ 13.0k · Python</sub>
+- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - クロードコード/エージェントのためのローカルファーストクロスプラットフォームデスクトップワークスペース:マルチエージェント、Gitのワークツリー、コードディフューズ、スキルマーケットプレイス、マルチモデル、コンピュータ使用、タスクウェアデスクトップペット、WeChatで... <sub>⭐ 14.8k · TypeScript</sub>
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - 中小企業のRAGパイプラインを構築するための統合フレームワーク、専門モデル <sub>⭐ 14.8k · Python</sub>
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM は、ユーザーが使いやすい Python API で大きな言語モデル (LLM) を定義し、NVIDIA GPU 上での推論を効率的に実行するための最先端の最適化をサポートしています。 TensorRT... <sub>⭐ 14.8k · Python</sub>
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - オープンソース、エンタープライズグレードのエージェントのための現実的なツールで安全な環境。 <sub>⭐ 14.1k · Python</sub>
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - Pythonと.NETのサポートでAIエージェントやマルチエージェントワークフローの構築、オーケストレーション、デプロイを行うためのフレームワークです。 <sub>⭐ 13.9k · Python</sub>
+- [cloudwego/eino](https://github.com/cloudwego/eino) - 究極のLLM/AIアプリケーション開発フレームワークをGoで実現。 <sub>⭐ 13.2k · Go</sub>
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j は、JVM 上で LLM を搭載したアプリケーションを構築するための慣用的でオープンソースの Java ライブラリです。一般的な LLM プロバイダーやベクターストアで統一された API を提供し、実装を行います。 <sub>⭐ 13.2k · Java</sub>
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - 統合されたガードレールを備えた高速AIゲートウェイ。 1つの高速&フレンドリーなAPIで1,600 + LLM、50 + AIガードレールへのルート。 <sub>⭐ 13.1k · TypeScript</sub>
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - (MLsys2026ベストペーパー): https://arxiv.org/abs/2506.08276。 LEANNですべてにRAG。 あなたの個人的な上の高速、正確、および100%プライベートRAGアプリケーションを実行している間97%のストレージ節約をお楽しみください... <sub>⭐ 13.0k · Python</sub>
 - [neuml/txtai](https://github.com/neuml/txtai) - セマンティック検索、LMLのオーケストレーションと言語モデルワークフローのためのオールインワンAIフレームワーク <sub>⭐ 13.0k · Python</sub>
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes <sub>⭐ 12.5k · Python</sub>
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation… <sub>⭐ 12.0k · Python</sub>
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models <sub>⭐ 11.8k · Python</sub>
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation <sub>⭐ 11.7k · Python</sub>
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - 対話型AIを数分で構築 <sub>⭐ 12.5k · Python</sub>
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENGは、次世代のエンタープライズAIアプリケーション向けのオープンLLMデボスプラットフォームです。 強力で包括的な機能は次のとおりです。 GenAIワークフロー、RAG、エージェント、ユニファイドモデル管理、評価... <sub>⭐ 12.0k · Python</sub>
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - カスタムLLM、ニューラルネットワークなどのAIモデルの構築のための低コードフレームワーク <sub>⭐ 11.8k · Python</sub>
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AIの観察性及び評価 <sub>⭐ 11.7k · Python</sub>
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - 長い地平線代理店の星のためのIncrementalエンジンはそれを好みます! <sub>⭐ 11.6k · Rust</sub>
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent… <sub>⭐ 11.5k · TypeScript</sub>
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit… <sub>⭐ 11.4k · TypeScript</sub>
-- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web. <sub>⭐ 11.3k · TypeScript</sub>
-- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents! <sub>⭐ 11.2k · Python</sub>
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - オープンソースのエージェントワークスペース企業は、自分で作ることができます。 あなたが既に実行しているシステムを接続してください - 100 +統合、MCP、チャットツール、アプリ、ブラウザ、ローカルファイル - 共有メモリ付き。 すべてのエージェント... <sub>⭐ 11.5k · TypeScript</sub>
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - 実用的なパターン、始動機&CLIは、AIコーディングエージェントとループエンジニアリングのためのツールです。 プロンプトとオーケスト剤(Addy OsmaniとBoris Chernyによってインスピレーションを受けている)の設計システム。 ループオーディオが含まれています... <sub>⭐ 11.4k · TypeScript</sub>
+- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio は、デスクトップとウェブ上で利用可能なマルチエージェントチャット、コーディング、ビジュアルワークフロー用のローカルファースト AI ワークスペースです。 <sub>⭐ 11.3k · TypeScript</sub>
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - ポケットフロー:100ラインLMフレームワーク。エージェントがエージェントをビルドしましょう! <sub>⭐ 11.2k · Python</sub>
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - オープンソースのTypeScript AIエージェントフレームワークで構築されたAIエージェントエンジニアリングプラットフォーム <sub>⭐ 10.7k · TypeScript</sub>
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. <sub>⭐ 10.5k · Rust</sub>
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and… <sub>⭐ 10.4k · Python</sub>
-- [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) - Astrid is a portable, capability-secure operating system for composable software. <sub>⭐ 10.3k · Rust</sub>
-- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI <sub>⭐ 10.0k · TypeScript</sub>
-- [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" <sub>⭐ 9.8k · Python</sub>
-- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go <sub>⭐ 9.7k · Go</sub>
-- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - Awesome list of tools and projects with the awesome LangChain framework <sub>⭐ 9.6k</sub>
-- [coaidev/coai](https://github.com/coaidev/coai) - Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing… <sub>⭐ 9.3k · TypeScript</sub>
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with… <sub>⭐ 9.1k · Python</sub>
-- [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge… <sub>⭐ 9.1k · Python</sub>
-- [iflytek/astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. <sub>⭐ 8.9k · Java</sub>
-- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. <sub>⭐ 8.8k · C</sub>
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - Build modular and scalable LLM Applications in Rust <sub>⭐ 8.8k · Rust</sub>
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. <sub>⭐ 8.6k · Python</sub>
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. <sub>⭐ 8.6k · Python</sub>
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index. <sub>⭐ 8.2k · Python</sub>
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - An orchestration engine for background tasks, AI agents, and durable workflows <sub>⭐ 8.0k · Go</sub>
-- [deeplethe/utopia](https://github.com/deeplethe/utopia) - World's first open-source enterprise world model. <sub>⭐ 8.0k · Rust</sub>
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. <sub>⭐ 8.0k · Jupyter Notebook</sub>
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs. <sub>⭐ 7.9k · Jupyter Notebook</sub>
-- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations <sub>⭐ 7.8k · Python</sub>
-- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference <sub>⭐ 7.7k · Rust</sub>
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. <sub>⭐ 7.7k · Rust</sub>
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. <sub>⭐ 7.6k · Go</sub>
-- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers… <sub>⭐ 7.5k · Go</sub>
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai <sub>⭐ 7.2k · Python</sub>
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic. <sub>⭐ 7.1k · Rust</sub>
-- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps <sub>⭐ 7.0k · TypeScript</sub>
-- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs <sub>⭐ 6.9k · TypeScript</sub>
-- [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT) <sub>⭐ 6.9k · JavaScript</sub>
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Shell Assistant、Chat-REPL、RAG、AI Tools&Agents を特徴とするオールインワンLLM CLIツール。OpenAI、Claude、Gemini、Ollama、Grqなどへのアクセスも便利です。 <sub>⭐ 10.5k · Rust</sub>
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - オムニジェントはオープンソースのAIエージェントフレームワークとメタハーネスです:オーケスト・クロードコード、コーデックス、カーソーラ、Pi、カスタムエージェント — リライティングなしでハーネスを交換し、ポリシーやサンドボックスを強化します。 <sub>⭐ 10.4k · Python</sub>
+- [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) - Astridは、ポータブルで機能的に安全なオペレーティングシステムです。 <sub>⭐ 10.3k · Rust</sub>
+- [thesysdev/openui](https://github.com/thesysdev/openui) - Generative UIのオープンスタンダード <sub>⭐ 10.0k · TypeScript</sub>
+- [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - 「AutoAgent: 完全自動化およびゼロコードLMエージェントフレームワーク」 <sub>⭐ 9.8k · Python</sub>
+- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go は、LLM ベースのプログラムをGoで書く最も簡単な方法です。 <sub>⭐ 9.7k · Go</sub>
+- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 素晴らしいLangChainフレームワークでツールやプロジェクトを多数紹介 <sub>⭐ 9.6k</sub>
+- [coaidev/coai](https://github.com/coaidev/coai) - 次 GenマルチテナントAIワンストップソリューション。 ビルトイン管理&課金システム。 200 +モデルと35 +プロバイダーのためのエンタープライズグレード統一LLMゲートウェイサポート、W /優先ベースルーティングをロード... <sub>⭐ 9.3k · TypeScript</sub>
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI — 24 時間 365 日 AI の労働力を高めます。ボイラープレートを書いて、タスクを調査、計画、コードおよび実行する自動改善剤を出荷し始めて下さい。 5 つのラインで展開されるコードは、... <sub>⭐ 9.1k · Python</sub>
+- [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAGは、OpenSPGエンジンとLLMに基づいて論理的なフォームガイド付き推論および検索フレームワークです。 これは、専門ドメインの知識のための論理的推論と実際のQ&Aソリューションを構築するために使用されています... <sub>⭐ 9.1k · Python</sub>
+- [iflytek/astron-agent](https://github.com/iflytek/astron-agent) - 次世代のスーパーエージェントを構築するためのエンタープライズグレード、商業用フレンドリーなエージェントワークフロープラットフォーム。 <sub>⭐ 8.9k · Java</sub>
+- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - 単一の CPU で 1 つの CPU に実行する 2.78-trillion-parameter Kimi K3。 8.24 GB の RAM。ポータブル C99: いいえ BLAS、フレームワークなし GPU。 <sub>⭐ 8.8k · C</sub>
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - RustでモジュラーおよびスケーラブルなLMアプリケーションを構築 <sub>⭐ 8.8k · Rust</sub>
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - エージェントのハーネスを構築し、エンドツーエンドで制御します。 Python & TypeScript - 任意のモデル、任意のクラウドでのAIエージェントの生産のためのオープンソースSDK。 <sub>⭐ 8.6k · Python</sub>
+- [THUDM/slime](https://github.com/THUDM/slime) - Slimeは、RLスケーリングのためのLMのポストトレンディングフレームワークです。 <sub>⭐ 8.6k · Python</sub>
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - LLM 用のセマンティックキャッシュ。LangChain と llama_index で完全に統合されます。 <sub>⭐ 8.2k · Python</sub>
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - バックグラウンドタスク、AIエージェント、および耐久性のあるワークフローのためのオーケストレーションエンジン <sub>⭐ 8.0k · Go</sub>
+- [deeplethe/utopia](https://github.com/deeplethe/utopia) - 世界初となるオープンソースのエンタープライズワールドモデル。 <sub>⭐ 8.0k · Rust</sub>
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - オープンソースのMLとLMobservabilityフレームワークです。あらゆるAIを搭載したシステムやデータパイプラインの評価、テスト、監視を行います。表からGen AIへ。100以上のメトリック。 <sub>⭐ 8.0k · Jupyter Notebook</sub>
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 は、基本的な概念から LLM を活用するための高度な戦略への基礎的なコンセプトから実践的な Jupyter Notebook のチュートリアルで工学的手法を促します。 <sub>⭐ 7.9k · Jupyter Notebook</sub>
+- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - 複数のAIエージェントの管理と複雑な会話の処理のための柔軟で強力なフレームワーク <sub>⭐ 7.8k · Python</sub>
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - 速い、適用範囲が広いLMの干渉 <sub>⭐ 7.7k · Rust</sub>
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースをソースツリー、プロンプトのテンプレート、トークンカウントで単一のLLMプロンプトに変換するためのCLIツール。 <sub>⭐ 7.7k · Rust</sub>
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - ダイナミックで弾力性のあるAIオーケストレーション。データ、モデルの調整と、AIワークフローの構築に繋がる。 <sub>⭐ 7.6k · Go</sub>
+- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - Gentle-AIは、既に使用しているAIコーディングエージェントを構成します。 クラウドコード、カーソル、OpenCode、Codex、Piなど。 永続的なメモリ、有機駆動開発、硬化スキル、MCPサーバーを選択してください... <sub>⭐ 7.5k · Go</sub>
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - エンタープライズ・グレードのマルチエージェント・オーケストレーションフレームワーク。 ウェブサイト //swarms.ai <sub>⭐ 7.2k · Python</sub>
+- [katanemo/plano](https://github.com/katanemo/plano) - PlanoはAIネイティブプロキシサーバーと、エージェントアプリ用のデータプレーンです。スマートLLMルーティング、オブザーブビリティ、エージェントのオーケストレーション、ガードレールなど、エージェントのコアロジックに重点を置いています。 <sub>⭐ 7.1k · Rust</sub>
+- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - エージェントアプリの構築のためのフレームワーク <sub>⭐ 7.0k · TypeScript</sub>
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - LLM を使用して任意の web ページを構造化データに変換します。 <sub>⭐ 6.9k · TypeScript</sub>
+- [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - LLM ベースのマルチエージェントフレームワーク Web Search Engine (Perplexity.ai Pro や SearchGPT のような) <sub>⭐ 6.9k · JavaScript</sub>
 - [antvis/Infographic](https://github.com/antvis/Infographic) - インフォグラフィックの生成とレンダリングフレームワーク、AIで生活する言葉を持参! <sub>⭐ 6.9k · TypeScript</sub>
-- [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps. <sub>⭐ 6.9k · Python</sub>
+- [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent:スマートフォンアプリを操作するためのLLMベースのマルチモーダルエージェントフレームワークである、スマートフォンユーザーとしてのマルチモーダルエージェント。 <sub>⭐ 6.9k · Python</sub>
 - [infobyte/faraday](https://github.com/infobyte/faraday) - オープンソースとAIを搭載したサイバーセキュリティツールで、攻撃的なセキュリティ、脆弱性管理、自動侵入防止を実現します。世界中で使用されているラテンアメリカのハッカーによって構築されています。 <sub>⭐ 6.8k · Python</sub>
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security <sub>⭐ 6.6k · Go</sub>
-- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google <sub>⭐ 6.5k · TypeScript</sub>
-- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents <sub>⭐ 6.4k · Python</sub>
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents. <sub>⭐ 6.3k · Rust</sub>
-- [KunAgent/Kun](https://github.com/KunAgent/Kun) - Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. <sub>⭐ 6.3k · TypeScript</sub>
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes. <sub>⭐ 6.3k · TypeScript</sub>
-- [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins <sub>⭐ 6.3k · TypeScript</sub>
-- [Helicone/helicone](https://github.com/Helicone/helicone) - Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 <sub>⭐ 6.2k · TypeScript</sub>
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. <sub>⭐ 6.1k · C++</sub>
-- [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex <sub>⭐ 6.1k · TypeScript</sub>
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - セキュリティのための近代的なオーケストレーションエンジン <sub>⭐ 6.6k · Go</sub>
+- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - JavaScript、Go、Dart、およびPythonでエージェントアプリをビルドするためのオープンソースフレームワーク。Googleによる制作と使用 <sub>⭐ 6.5k · TypeScript</sub>
+- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - AI Web エージェントを開発するための大規模なアクションモデルフレームワーク <sub>⭐ 6.4k · Python</sub>
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - ソースコードのコピー/ペーストディテクタ。220以上の言語、Rustエンジン、SARIF / HTML /バッジレポーター、GitHub Action、AIエージェント向けMCPサーバー <sub>⭐ 6.3k · Rust</sub>
+- [KunAgent/Kun](https://github.com/KunAgent/Kun) - ローカルファーストのAIエージェントワークスペースでコーディング、ライティング、設計、研究、自動化を実現。デスクトップGUIとTUIの1つのランタイム。 <sub>⭐ 6.3k · TypeScript</sub>
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - AIエージェントのためのセルフホスト制御平面:タスクをディスパッチし、実行を確認したり、支出を追跡したり、OpenClaw、Claudeコード、Codexなどのランタイムを実行します。 <sub>⭐ 6.3k · TypeScript</sub>
+- [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - ローカルファーストのAIコーディングエージェントデスクトップ:電子 + Rustホストコア+ piエージェントハーネス+ユーザーインストール可能なプラグイン <sub>⭐ 6.3k · TypeScript</sub>
+- [Helicone/helicone](https://github.com/Helicone/helicone) - オープンソースLLMの保守性プラットフォーム。監視、評価、実験のためのコードの1行。YC W23 <sub>⭐ 6.2k · TypeScript</sub>
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - モバイル、ウェアラブル、スマートホーム、ロボット向けの定量化、カーネル、ランタイムおよびインフェレンスエンジン。 <sub>⭐ 6.1k · C++</sub>
+- [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Claudeコードとコーデックスのゼロコンフィグコードフロー <sub>⭐ 6.1k · TypeScript</sub>
 - [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - データ中心、自己進化する自動言語エージェントのためのオープンソースフレームワーク <sub>⭐ 6.0k · Python</sub>
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. <sub>⭐ 5.9k · TypeScript</sub>
-- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment ( YC W26). Run multiple coding agents in parallel. Use any provider. <sub>⭐ 5.9k · TypeScript</sub>
-- [ModelEngine-Group/nexent](https://github.com/ModelEngine-Group/nexent) - Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints… <sub>⭐ 5.9k · Python</sub>
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and… <sub>⭐ 5.9k · Python</sub>
-- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters <sub>⭐ 5.8k · Jupyter Notebook</sub>
-- [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster <sub>⭐ 5.8k · TypeScript</sub>
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation… <sub>⭐ 5.8k · Go</sub>
-- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - Enterprise-grade AI agent framework with multi-provider LLM management, secure knowledge bases and high-precision RAG, visual workflow orchestration, and multi-agent coordination. <sub>⭐ 5.7k · Java</sub>
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines <sub>⭐ 5.7k · Python</sub>
-- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. <sub>⭐ 5.7k · TypeScript</sub>
-- [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org <sub>⭐ 5.7k · Go</sub>
-- [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team <sub>⭐ 5.6k · Python</sub>
-- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality <sub>⭐ 5.6k · Python</sub>
-- [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse） <sub>⭐ 5.5k · Python</sub>
-- [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Edit Banana: A framework for converting statistical formats into editable. <sub>⭐ 5.5k · Python</sub>
-- [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) - Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL <sub>⭐ 5.5k · Python</sub>
-- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js). <sub>⭐ 5.5k · Python</sub>
-- [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama <sub>⭐ 5.4k · Python</sub>
-- [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development. <sub>⭐ 5.4k · Python</sub>
-- [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. <sub>⭐ 5.4k · Rust</sub>
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - オープンソースのauthゲートウェイは、SDK、CLIP、MCP、HTTP、OpenAPIを通じてAIエージェントに1500以上のSaaSプロバイダーを接続します。 <sub>⭐ 5.9k · TypeScript</sub>
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdashはオープンソースのエージェント開発環境(YC W26)です。複数のコーディングエージェントを並行して実行します。任意のプロバイダを使用してください。 <sub>⭐ 5.9k · TypeScript</sub>
+- [ModelEngine-Group/nexent](https://github.com/ModelEngine-Group/nexent) - Nexentは、ハーネスエンジニアリングの原則を使用して自動生成生産グレードのAIエージェントのためのゼロコードプラットフォームです。統合されたツール、スキル、メモリ、および内蔵制約によるオーケストレーション... <sub>⭐ 5.9k · Python</sub>
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - AIエージェントの監視、LMコストトラッキング、ベンチマーキングなどのPython SDK。CrewAI、Agno、OpenAI Agent SDK、Langchain、Autogen、AG2などを含むほとんどのLPMとエージェントフレームワークを統合します。 <sub>⭐ 5.9k · Python</sub>
+- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - 故障耐性、非常にスケーラブルなGPUのオーケストレーション、および10億のトレーニングモデル用に設計された機械学習フレームワークは、パラメータを試着するために <sub>⭐ 5.8k · Jupyter Notebook</sub>
+- [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - エージェントのワークフローのためのビジュアル・プレイグラウンド:エージェント10倍以上の高速化 <sub>⭐ 5.8k · TypeScript</sub>
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェントの最適化プラットフォーム:Cozeloopは、開発、デバッグおよび評価からフルサイクル管理機能を提供することで、AIエージェントの開発における課題を解決します。 <sub>⭐ 5.8k · Go</sub>
+- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - エンタープライズグレードのAIエージェントフレームワークで、マルチプロファイダーLLM管理、セキュアな知識ベースと高精度RAG、ビジュアルワークフローオーケストレーション、マルチエージェント協調。 <sub>⭐ 5.7k · Java</sub>
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - ビルコンプレックスと革新的なRAGパイプラインのための低コードMCPフレームワーク <sub>⭐ 5.7k · Python</sub>
+- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) は、すべてのレコードを完全に保持する高性能エージェントのワークスペースです。 <sub>⭐ 5.7k · TypeScript</sub>
+- [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - LLM、RAGおよびエージェント・ループを搭載した次世代のパーソナルAIアシスタント。コンピューター使用、ブラウザの使用とコーディングエージェントをサポートし、デモ //demo.openagentai.org <sub>⭐ 5.7k · Go</sub>
+- [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - レッドチームのための自動ハッキングエージェント <sub>⭐ 5.6k · Python</sub>
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - LLMルータのサービングと評価のためのフレームワーク - 品質を妥協することなくLLMコストを保存 <sub>⭐ 5.6k · Python</sub>
+- [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContextは、あなたの積極的なコンテキスト・アウェアAIパートナー(Context-Engineering+ChatGPTパルス)です。 <sub>⭐ 5.5k · Python</sub>
+- [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Banana: 統計的なフォーマットを編集できるに変換するフレームワーク。 <sub>⭐ 5.5k · Python</sub>
+- [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) - Search-R1: 効率的な、スケーラブルなRLトレーニングフレームワークで、VELLを介した検索エンジンが収集・検索する <sub>⭐ 5.5k · Python</sub>
+- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - 8つのスペシャリストエージェント(FastAPI + Next.js)がバックアップする単一の共同進行役のAIを搭載したバーチャルエグゼクティブチーム。 <sub>⭐ 5.5k · Python</sub>
+- [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + ドッカー + Neo4j + オラマ <sub>⭐ 5.4k · Python</sub>
+- [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI) - AIネイティブアプリケーション開発のためのオープンソースプラットフォーム。 <sub>⭐ 5.4k · Python</sub>
+- [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - DeepSeek R1のCoT推論トレースをAnthropic Claudeモデルと統合する高性能LLMインフェレンスAPIおよびチャットUI。 <sub>⭐ 5.4k · Rust</sub>
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - スーパーデューパー:カスタムAIアプリケーションとエージェントを構築するためのエンドツーエンドフレームワーク。 <sub>⭐ 5.3k · Python</sub>
-- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs <sub>⭐ 5.3k · Jupyter Notebook</sub>
-- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio <sub>⭐ 5.2k · Python</sub>
-- [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL <sub>⭐ 5.2k · Python</sub>
-- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for… <sub>⭐ 5.2k · Python</sub>
-- [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) - AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation <sub>⭐ 5.2k · JavaScript</sub>
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets <sub>⭐ 5.1k · Python</sub>
-- [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) - An Agentic Framework for Reflective PowerPoint Generation <sub>⭐ 5.1k · Python</sub>
-- [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language <sub>⭐ 5.0k · TypeScript</sub>
-- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built… <sub>⭐ 4.9k · TypeScript</sub>
-- [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models <sub>⭐ 4.6k · Python</sub>
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even… <sub>⭐ 4.6k · Kotlin</sub>
-- [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task… <sub>⭐ 4.6k · Jupyter Notebook</sub>
-- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. <sub>⭐ 4.5k · Rust</sub>
-- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping… <sub>⭐ 4.5k · Python</sub>
+- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - LLMを用いた非構造化データからNeo4jグラフ構築 <sub>⭐ 5.3k · Jupyter Notebook</sub>
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - フレームワークと非コードのGUIで、LLMを微調整します。ドキュメント: https://docs.h2o.ai/h2o-llmstudio <sub>⭐ 5.2k · Python</sub>
+- [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1:veRLに基づく効率的でスケーラブルなマルチモーダリティのRLトレーニングフレームワーク <sub>⭐ 5.2k · Python</sub>
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - 量子化、蒸留、剪定、神経アーキテクチャ検索、分光解読などのSOTAモデル最適化技術の統一されたライブラリ。 それは、深い学習モデルを圧縮します... <sub>⭐ 5.2k · Python</sub>
+- [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) - AgentVerse は、さまざまなアプリケーションにおける複数の LLM ベースのエージェントの展開を容易にするように設計されています。これは主に 2 つのフレームワークを提供します: タスク解決とシミュレーション <sub>⭐ 5.2k · JavaScript</sub>
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argillaは、AIエンジニアやドメインエキスパートが高品質なデータセットを制作するコラボレーションツールです。 <sub>⭐ 5.1k · Python</sub>
+- [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) - 反射PowerPointの生成のためのAgenticフレームワーク <sub>⭐ 5.1k · Python</sub>
+- [microsoft/poml](https://github.com/microsoft/poml) - プロンプトのオーケストレーションマークアップ言語 <sub>⭐ 5.0k · TypeScript</sub>
+- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - 承認ベースの実行による計画ファースト開発ワークフローのためのAIエージェントフレームワーク。自動テスト、コードレビュー、検証機能を備えたマルチ言語サポート(TypeScript、Python、Go、Rust)... <sub>⭐ 4.9k · TypeScript</sub>
+- [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - オープンソースモデルで配信するシンプルかつ強力なエージェントフレームワーク <sub>⭐ 4.6k · Python</sub>
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koogは、すべてのプラットフォームで予測可能な障害耐性とエンタープライズ対応のAIエージェントの構築のためのJVM(JavaおよびKotlin)フレームワークです。バックエンドサービスからAndroid、iOS、JVMまで、あらゆるプラットフォーム間でのAIエージェントを構成できます。 <sub>⭐ 4.6k · Kotlin</sub>
+- [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 産学位の人工知能アーキテクチャ (反射、LATS、GraphRAG、MemGPT、Voyager、BrowserAgent、...) — マルチプロペラLM サポートと 17 タスクを備えた Python ライブラリおよび実行可能なテキストブック。 <sub>⭐ 4.6k · Jupyter Notebook</sub>
+- [macro-inc/macro](https://github.com/macro-inc/macro) - マクロは、電子メール、チャット、ドキュメント、タスク、エージェント、コール、CRMなどのチームのための統一されたワークスペースです。共有AIメモリと一緒に@-linked。 <sub>⭐ 4.5k · Rust</sub>
+- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistantは、リスク管理、AppSec、コンプライアンス&監査、TPRM、BIA、プライバシーおよびレポートのワンストップショップGRCプラットフォームです。 200以上のグローバルフレームワークをサポートし、自動制御マッピング機能を備えています。 <sub>⭐ 4.5k · Python</sub>
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - Ruby ネイティブの AI フレームワーク。Ruby や Rails で、一貫性のある API を 1 つの API を通じてチャット、エージェント、ツール、画像、音声およびビデオを実行します。 <sub>⭐ 4.4k · Ruby</sub>
-- [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. <sub>⭐ 4.4k · TypeScript</sub>
-- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps… <sub>⭐ 4.3k · TypeScript</sub>
-- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you <sub>⭐ 4.3k · TypeScript</sub>
-- [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. <sub>⭐ 4.3k · Python</sub>
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One… <sub>⭐ 4.2k · Go</sub>
+- [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - オープンソースのAIセールスOS — ネイティブAIエージェント+WhatsApp(WAHA)でセルフホストされたCRM。チャットで販売するあらゆるビジネスのためのKomo、Octadesk&Intercomに代わりを開きます。 MCP-ready、マルチテナント、LGPD。 <sub>⭐ 4.4k · TypeScript</sub>
+- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — コーディングエージェントのためのスキル。 クロード&コーデックス・エージェントSDK上に構築された剪定と並行して求められている。異なる認知フレーム、スコア、プルーントラップの下で平行な汎用的な思考をファンクションアウト... <sub>⭐ 4.3k · TypeScript</sub>
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - あなたのために(実際には有用)コードを書くAIエージェント <sub>⭐ 4.3k · TypeScript</sub>
+- [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLMは、軽量設計、スケーラビリティの容易な、および高速な性能のために注目されるPythonベースのLLM(Large Language Model)推論とサービングフレームワークです。 <sub>⭐ 4.3k · Python</sub>
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - 主要な作業がオーケストレーションされていないチームのためのセルフホスト可能なワークフローのオーケストレーター。スクリプト、SSHコマンド、コンテナなどに対する決定的なYAML;業務ロジックとは異なるワークフローを維持します。 1つは... <sub>⭐ 4.2k · Go</sub>
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: LLM アプリケーションをビルド&自動最適化するためのライブラリ。 <sub>⭐ 4.2k · Python</sub>
-- [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes. <sub>⭐ 4.2k · Jupyter Notebook</sub>
-- [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent is built using Node.js and TypeScript , designed for seamless job execution. It's lightweight, efficient, and still evolving, exciting new features coming soon! <sub>⭐ 4.2k · HTML</sub>
-- [bragai/bRAG-langchain](https://github.com/bragai/bRAG-langchain) - Everything you need to know to build your own RAG application <sub>⭐ 4.2k · Jupyter Notebook</sub>
-- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent <sub>⭐ 4.1k · TypeScript</sub>
-- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - (NeurIPS'24) HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs +… <sub>⭐ 4.0k · Python</sub>
-- [lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow) - Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. <sub>⭐ 4.0k · Python</sub>
-- [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) - Easiest and laziest way for building multi-agent LLMs applications. <sub>⭐ 3.9k · Python</sub>
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence. <sub>⭐ 3.9k · Rust</sub>
-- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter <sub>⭐ 3.8k · Python</sub>
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over… <sub>⭐ 3.8k · Java</sub>
-- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. <sub>⭐ 3.7k · TypeScript</sub>
-- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models. <sub>⭐ 3.7k · Jupyter Notebook</sub>
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents <sub>⭐ 3.7k · TypeScript</sub>
-- [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety. <sub>⭐ 3.6k · Go</sub>
-- [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) - Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. <sub>⭐ 3.6k · Python</sub>
-- [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). <sub>⭐ 3.6k · TypeScript</sub>
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE. <sub>⭐ 3.5k · Python</sub>
-- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. <sub>⭐ 3.5k · Python</sub>
-- [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool… <sub>⭐ 3.5k · Python</sub>
-- [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast. <sub>⭐ 3.5k · Python</sub>
-- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript. <sub>⭐ 3.4k · Python</sub>
-- [Sumanth077/ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit) - A curated list of 100+ libraries and frameworks for AI engineers building with LLMs <sub>⭐ 3.4k</sub>
-- [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents <sub>⭐ 3.4k · Python</sub>
-- [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - (CVPR2024 Highlight)(VideoChatGPT) ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. <sub>⭐ 3.4k · Python</sub>
-- [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) - FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. <sub>⭐ 3.3k · Python</sub>
-- [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs. <sub>⭐ 3.3k · TypeScript</sub>
-- [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents. <sub>⭐ 3.3k</sub>
-- [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology. <sub>⭐ 3.3k · TypeScript</sub>
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24. <sub>⭐ 3.3k · TypeScript</sub>
-- [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) - LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and… <sub>⭐ 3.3k · Python</sub>
-- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more. <sub>⭐ 3.3k · TypeScript</sub>
-- [bradygaster/squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project <sub>⭐ 3.2k · TypeScript</sub>
-- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs. <sub>⭐ 3.2k · TypeScript</sub>
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. <sub>⭐ 3.2k · Python</sub>
-- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features… <sub>⭐ 3.2k · Python</sub>
-- [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing… <sub>⭐ 3.2k · Python</sub>
-- [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust <sub>⭐ 3.2k · Rust</sub>
-- [TanStack/ai](https://github.com/TanStack/ai) - Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid. <sub>⭐ 3.2k · TypeScript</sub>
-- [keon/browser-control](https://github.com/keon/browser-control) - A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents. <sub>⭐ 3.1k · Rust</sub>
-- [jjyaoao/HelloAgents](https://github.com/jjyaoao/HelloAgents) - A agent framework based on the tutorial hello-agents <sub>⭐ 3.1k · Python</sub>
-- [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. <sub>⭐ 3.1k · Python</sub>
-- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to… <sub>⭐ 3.1k · C++</sub>
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents. <sub>⭐ 3.1k · Rust</sub>
-- [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice <sub>⭐ 3.1k · Python</sub>
-- [radixark/miles](https://github.com/radixark/miles) - Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. <sub>⭐ 3.0k · Python</sub>
-- [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. <sub>⭐ 3.0k · Python</sub>
+- [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - LangGraphで構築されたモジュラー・アダシカルRAG — 数分で、リトリバル拡張型ジェネレーション・エージェントを学びます。 <sub>⭐ 4.2k · Jupyter Notebook</sub>
+- [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agentは、シームレスなジョブ実行のために設計されたNode.jsとTypeScriptを使用して構築されています。 軽量で効率的でありながらも進化し続けています。 <sub>⭐ 4.2k · HTML</sub>
+- [bragai/bRAG-langchain](https://github.com/bragai/bRAG-langchain) - 自分のRAGアプリケーションを構築するために必要なすべてのもの <sub>⭐ 4.2k · Jupyter Notebook</sub>
+- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - オープンソース、ビジョンファーストブラウザエージェント <sub>⭐ 4.1k · TypeScript</sub>
+- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - (NeurIPS'24) HippoRAGは、LMが外部文書を継続的に統合できるようにする人間の長期記憶に触発された新しいRAGフレームワークです。 RAG +ナレッジグラフ+ ... <sub>⭐ 4.0k · Python</sub>
+- [lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow) - AI エージェントの実行時間をカスケーディングします。コスト、レイテンシー、品質、およびポリシー決定をエージェントループ内で最適化します。 <sub>⭐ 4.0k · Python</sub>
+- [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) - 複数の試薬LMsのアプリケーションを構築する最も簡単で最も簡単な方法。 <sub>⭐ 3.9k · Python</sub>
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — AIシステム用のコンテクストゲートウェイ。AIがどのように見えるかを制御します。コンテキスト選択、サポートされたコントロール、および証拠のためのオープンソースエンジン。 <sub>⭐ 3.9k · Rust</sub>
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコード通訳のオープンソース実装 <sub>⭐ 3.8k · Python</sub>
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - JVMのポータブルAIエージェントランタイム。 1つの@Agentクラスは、春のAI、LangChain4j、Anthropic、または9以上のSPIの背後にあります。 トークンストリーミング、ツールコール、人間の承認、およびガバナンス... <sub>⭐ 3.8k · Java</sub>
+- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - 複雑なコードベースのための1つと唯一のエージェントハーネス。プロジェクトメモリ、計画、実行、およびCodex内での検証完了。 <sub>⭐ 3.7k · TypeScript</sub>
+- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - 科学的方法、プロセス、アルゴリズム、システムのコレクションでストーリーとモデルを構築します。 <sub>⭐ 3.7k · Jupyter Notebook</sub>
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - 世界初のAIエージェント向けバーチャルターミナル <sub>⭐ 3.7k · TypeScript</sub>
+- [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw -GoClawは、マルチテナント分離、5層のセキュリティとネイティブな並列性を備えたGoでOpenClawを再構築しています。 安全を犠牲にすることなくAIエージェントチームをスケールで展開します。 <sub>⭐ 3.6k · Go</sub>
+- [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) - AIエージェントとRAGの既製構造されたチャンクを抽出、解析および出力します。 <sub>⭐ 3.6k · Python</sub>
+- [deta/surf](https://github.com/deta/surf) - パーソナルAIノートブック。ファイルとウェブページを整理し、それらからメモを作成します。オープンソース、ローカル&オープンデータ、モデルの選択(ローカルを含む)を開きます。 <sub>⭐ 3.6k · TypeScript</sub>
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - インテリジェントなスキルルーティングとAIエージェントのワークフローオーケストレーション — +21.12 pp報酬、DeepSeekV4Flash-VEでPeartsBenchに29.6%トークン。 <sub>⭐ 3.5k · Python</sub>
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) - 効率的な大型モデル(LLM、VLM、AIGC)の評価と性能のベンチマーキングのための合理化およびカスタマイズ可能なフレームワーク。 <sub>⭐ 3.5k · Python</sub>
+- [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline は、自然言語の相互作用、LM 搭載計画および精密なツールを介して手動編集を意図的に主導する指示に変換する AI ビデオ編集エージェントです。 <sub>⭐ 3.5k · Python</sub>
+- [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towheeは、ニューラルデータ処理パイプラインをシンプルかつ高速にするために専念するフレームワークです。 <sub>⭐ 3.5k · Python</sub>
+- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Python と Typescript の両方で、プロダクション・レディの AI エージェントを構築します。 <sub>⭐ 3.4k · Python</sub>
+- [Sumanth077/ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit) - LLM を用いた AI エンジニア構築のための 100 以上のライブラリとフレームワークのキュレーションリスト <sub>⭐ 3.4k</sub>
+- [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent:インテリジェントなエージェントの構築と展開のための新しいオープンソースフレームワーク <sub>⭐ 3.4k · Python</sub>
+- [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - (CVPR2024 Highlight)(VideoChatGPT) 映像理解でチャットGPT! また、miniGPT4やStableLM、MOSSなどの多くのサポートLMも対応しています。 <sub>⭐ 3.4k · Python</sub>
+- [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) - FuXi は、端末に住んでいる高速で、セルフ・コンテネーションされた AI コーディングエージェントです。コードを編集し、コマンドを実行したり、ツールを駆動したり、LMM プロバイダー間でコストアウェアのルーティングを実現します。 <sub>⭐ 3.3k · Python</sub>
+- [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - レジリエントな言語エージェントをグラフとして構築するフレームワーク。 <sub>⭐ 3.3k · TypeScript</sub>
+- [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - コンテキストエンジニアリングに関する包括的な調査:迅速な工学から生産グレードのAIシステムまで。LDMやAIエージェント用の数百枚の紙、フレームワークおよび実装ガイド。 <sub>⭐ 3.3k</sub>
+- [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UIは、RAG(Retrieval-Augmented generation)技術に基づくインテリジェントな対話システムです。 <sub>⭐ 3.3k · TypeScript</sub>
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - ラマイナー - オープンソースの保守性プラットフォームは、AIエージェントのために構築されています。 YC S24. <sub>⭐ 3.3k · TypeScript</sub>
+- [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) - LLM-as-a-Verifierは、追加のトレーニングを必要としないで、任意のエージェントに細かいフィードバックを提供する汎用フレームワークです。 これは、コーディング、ロボティクス、および... <sub>⭐ 3.3k · Python</sub>
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - オープンソース、開発者初のLLMOpsプラットフォームは、迅速な設計、バージョン管理、即時配信、コラボレーション、トラブルシューティング、保守性などを合理化できるように設計されています。 <sub>⭐ 3.3k · TypeScript</sub>
+- [bradygaster/squad](https://github.com/bradygaster/squad) - Squad:あらゆるプロジェクトのためのAIの代理店のチーム <sub>⭐ 3.2k · TypeScript</sub>
+- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - ミュージック・ジェネレーションのAIをsuno.aiと呼び、GPTsなどのエージェントに簡単に統合できます。 <sub>⭐ 3.2k · TypeScript</sub>
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - 人工知能エージェントは、人間と同じように、実際のAndroidとiOSアプリを使用できます。 <sub>⭐ 3.2k · Python</sub>
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXTは、多様なAIプロバイダ間での指示管理と複雑なタスク実行をシームレスに制御するダイナミックなAIエージェントオートメーションプラットフォームです。 適応的なメモリ、スマート機能を組み合わせた... <sub>⭐ 3.2k · Python</sub>
+- [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT(iGPT)は、AIモデルを簡単に紹介できるオープンソースのデモプラットフォームです。 DragGAN、ChatGPT、ImageBind、GPT-4、SAM、インタラクティブな画像編集などのマルチモーダルチャットをサポートしています... <sub>⭐ 3.2k · Python</sub>
+- [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - トランスベースのLLM。 Rustで完全に書かれた <sub>⭐ 3.2k · Rust</sub>
+- [TanStack/ai](https://github.com/TanStack/ai) - OpenAI、Anthropic、Gemini、React、Vue、Svelte、Solid を横断するストリーミングチャット、ツールコール、エージェント、およびマルチモーダルアプリ用のType-safe、provider-agnostic TypeScript AI SDK。 <sub>⭐ 3.2k · TypeScript</sub>
+- [keon/browser-control](https://github.com/keon/browser-control) - Chrome DevToolsプロトコル上の実際のブラウザを駆動する、小さな高速なRust CLI — コーディングエージェントのために構築されています。 <sub>⭐ 3.1k · Rust</sub>
+- [jjyaoao/HelloAgents](https://github.com/jjyaoao/HelloAgents) - チュートリアルhello-agentsに基づくエージェントフレームワーク <sub>⭐ 3.1k · Python</sub>
+- [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgentは、ブラックボックスのセキュリティテストのためのAIエージェントフレームワークです。バグ賞金、レッドチーム、およびペネトレーションのテストワークフローをサポートしています。 <sub>⭐ 3.1k · Python</sub>
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - AI-Native Search データベース。 エージェントのストレージに最適で、ベクター、テキスト、構造化、および半構造化されたデータを単一のエンジンに統一します。 このオールインワンデータベースは、エージェントをよりスマートにしやすくなります... <sub>⭐ 3.1k · C++</sub>
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - リアルタイムの分析ノードを運用データベースに追加します。 Spice は、ポータブルで加速された SQL クエリー、検索、および Rust における LLM インフェレンスエンジンです。 <sub>⭐ 3.1k · Rust</sub>
+- [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AIエージェントマイクロサービス <sub>⭐ 3.1k · Python</sub>
+- [radixark/miles](https://github.com/radixark/miles) - MilesはLMとVLMのポストトレンディングのためのエンタープライズ・フェース強化学習フレームワークで、スリムなコエバーをフォークしました。 <sub>⭐ 3.0k · Python</sub>
+- [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind は、量的ファイナンスのためのオープンソースのエージェントネイティブな知識抽出とレトリバルフレームワークです。 <sub>⭐ 3.0k · Python</sub>
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - AIアプリ用のマルチフレームワークストリーミングMarkdownレンダラー:Vue/Nuxt、React/Next.js、Svelte、Angular、Mermaid、KaTeX、stream-diffsコードブロック、安全なHTML、および低ジッタ更新。 <sub>⭐ 3.0k · Vue</sub>
-- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context <sub>⭐ 3.0k · Rust</sub>
-- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. <sub>⭐ 3.0k · Python</sub>
-- [confident-ai/deepteam](https://github.com/confident-ai/deepteam) - DeepTeam is a framework to red team LLMs and AI agents. <sub>⭐ 3.0k · Python</sub>
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents <sub>⭐ 3.0k</sub>
-- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework based on CV models & mLLM. <sub>⭐ 3.0k · C++</sub>
-- [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript <sub>⭐ 3.0k · TypeScript</sub>
-- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent… <sub>⭐ 2.9k · Python</sub>
-- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - (ACL 2024) An Easy-to-use Knowledge Editing Framework for LLMs. <sub>⭐ 2.9k · Jupyter Notebook</sub>
-- [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk… <sub>⭐ 2.9k · TypeScript</sub>
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on… <sub>⭐ 2.9k · Rust</sub>
-- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI <sub>⭐ 2.9k · Rust</sub>
-- [mll-lab-nu/RAGEN](https://github.com/mll-lab-nu/RAGEN) - Agent RL framework for LLM agents: multi-turn reinforcement learning with StarPO and reasoning-collapse diagnostics <sub>⭐ 2.8k · Python</sub>
-- [opensolon/solon](https://github.com/opensolon/solon) - Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90%… <sub>⭐ 2.8k · Java</sub>
-- [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa) - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API <sub>⭐ 2.7k · Rust</sub>
-- [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for… <sub>⭐ 2.7k · TypeScript</sub>
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) - A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent… <sub>⭐ 2.7k · Python</sub>
-- [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) - Repo for AI Agents The Definitive Guide <sub>⭐ 2.7k · Jupyter Notebook</sub>
-- [openlake-project/openlake](https://github.com/openlake-project/openlake) - OpenLake is a high performance storage engine for efficient LLM inference and GPU Training <sub>⭐ 2.7k · Rust</sub>
-- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. <sub>⭐ 2.6k · TypeScript</sub>
-- [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation. <sub>⭐ 2.6k · Jupyter Notebook</sub>
-- [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices <sub>⭐ 2.6k · Go</sub>
-- [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation… <sub>⭐ 2.6k · Python</sub>
-- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. <sub>⭐ 2.6k · Python</sub>
-- [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems. <sub>⭐ 2.6k · Jupyter Notebook</sub>
-- [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template <sub>⭐ 2.5k · TypeScript</sub>
-- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption <sub>⭐ 2.5k · Rust</sub>
-- [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram <sub>⭐ 2.5k · Python</sub>
-- [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc.… <sub>⭐ 2.5k · Python</sub>
-- [FullAgent/fulling](https://github.com/FullAgent/fulling) - Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra. <sub>⭐ 2.4k · TypeScript</sub>
-- [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript <sub>⭐ 2.4k · TypeScript</sub>
-- [hitsz-ids/synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - SDG is a specialized framework designed to generate high-quality structured tabular data. <sub>⭐ 2.4k · Python</sub>
-- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs. <sub>⭐ 2.4k · Rust</sub>
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run… <sub>⭐ 2.4k · C++</sub>
-- [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. <sub>⭐ 2.4k · Python</sub>
-- [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite… <sub>⭐ 2.4k · Python</sub>
-- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server. <sub>⭐ 2.4k · Rust</sub>
-- [UnicomAI/wanwu](https://github.com/UnicomAI/wanwu) - China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and… <sub>⭐ 2.4k · Go</sub>
-- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - Self-Modifying Framework from the Future World's First AMS <sub>⭐ 2.3k · Python</sub>
-- [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. <sub>⭐ 2.3k · Python</sub>
-- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications <sub>⭐ 2.3k · Python</sub>
-- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data <sub>⭐ 2.3k · Python</sub>
-- [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1… <sub>⭐ 2.3k · Python</sub>
-- [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents <sub>⭐ 2.3k · Python</sub>
-- [Pinvou/pinvou-agent](https://github.com/Pinvou/pinvou-agent) - Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables. <sub>⭐ 2.3k · Rust</sub>
-- [GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist) - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. <sub>⭐ 2.3k · Python</sub>
-- [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit. <sub>⭐ 2.3k · TypeScript</sub>
-- [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows <sub>⭐ 2.2k · Python</sub>
-- [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust <sub>⭐ 2.2k · Rust</sub>
-- [oxwhirl/pymarl](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework <sub>⭐ 2.2k · Python</sub>
-- [Stack-Cairn/LiveAgent](https://github.com/Stack-Cairn/LiveAgent) - A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded! <sub>⭐ 2.2k · TypeScript</sub>
-- [777genius/agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands.… <sub>⭐ 2.2k · TypeScript</sub>
-- [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! <sub>⭐ 2.2k · TypeScript</sub>
-- [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - A secure low code deception runtime framework, leveraging AI for System Virtualization. <sub>⭐ 2.2k · Go</sub>
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. <sub>⭐ 2.2k · Rust</sub>
-- [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development <sub>⭐ 2.2k · TypeScript</sub>
-- [alfredfrancis/ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence. <sub>⭐ 2.2k · TypeScript</sub>
-- [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications <sub>⭐ 2.1k · Python</sub>
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI. <sub>⭐ 2.1k · PHP</sub>
-- [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic. <sub>⭐ 2.1k · TypeScript</sub>
-- [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs <sub>⭐ 2.1k · Rust</sub>
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production <sub>⭐ 2.1k · Python</sub>
-- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts. <sub>⭐ 2.0k · TypeScript</sub>
-- [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) - An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps. <sub>⭐ 2.0k · JavaScript</sub>
-- [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem. <sub>⭐ 2.0k</sub>
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - npmパッケージのソースコードをフェッチし、AIコーディングエージェントがより深いコンテキストを与える <sub>⭐ 3.0k · Rust</sub>
+- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - 効率性、柔軟性および可用性に焦点を合わせる大きい言語モデルのための高性能の推論フレームワーク。 <sub>⭐ 3.0k · Python</sub>
+- [confident-ai/deepteam](https://github.com/confident-ai/deepteam) - ディープチームは、LLMとAIのレッドチームを軸としたフレームワークです。 <sub>⭐ 3.0k · Python</sub>
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - カスタムLLMエージェントを構築するためのコードなしプラットフォーム <sub>⭐ 3.0k</sub>
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - CVモデルとmLLMに基づいたクロスプラットフォームのビデオ構造(ビデオ解析)フレームワーク。 <sub>⭐ 3.0k · C++</sub>
+- [ax-llm/ax](https://github.com/ax-llm/ax) - かなり「公式」DSPyフレームワークのTypescript <sub>⭐ 3.0k · TypeScript</sub>
+- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - 言語モデル(HELM)のホリスティック評価は、Stanfordで財団法人モデル研究センター(CRFM)によって作られたオープンソースのPythonフレームワークです。 <sub>⭐ 2.9k · Python</sub>
+- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - (ACL 2024) LLMの使いやすい知識編集フレームワーク。 <sub>⭐ 2.9k · Jupyter Notebook</sub>
+- [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - 1000以上の市場を横断して自律的に運営するオープンソースAI取引エージェント - ポリマーケット、カルシ、バイナンス、Hyperliquid、Solana DEXs、5 EVMチェーン。 エッジのスキャン、即座に実行し、リスク管理... <sub>⭐ 2.9k · TypeScript</sub>
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - Rustの安全な永続的パーソナルエージェントサーバー。 1つのバイナリ、サンドボックス実行、マルチプロペラLLM、ボイス、メモリ、テレグラム、WhatsApp、Discord、チーム、およびMCPツール。 設計で安全にし、オンを実行します... <sub>⭐ 2.9k · Rust</sub>
+- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - 美しいgit diffビューア、AIでコミットを生成し、CLIからすべての変更の要約を取得します。 <sub>⭐ 2.9k · Rust</sub>
+- [mll-lab-nu/RAGEN](https://github.com/mll-lab-nu/RAGEN) - LLM エージェントの RL フレームワーク: StarPO と推論コールラプス診断によるマルチターン強化学習 <sub>⭐ 2.8k · Python</sub>
+- [opensolon/solon](https://github.com/opensolon/solon) - 完全なシナリオのためのJavaエンタープライズアプリケーション開発フレームワーク:修復、効率的、オープン、エコロジー! 700%の高同時性50%メモリ節約スタートアップは10倍高速です。 パッキング90% ... <sub>⭐ 2.8k · Java</sub>
+- [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa) - メドゥーサ:複数のデコードヘッドでLM生成を加速するためのシンプルなフレームワーク <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - オールインワンプラットフォームで、検索、推奨事項、RAG、およびAPI経由で提供される分析 <sub>⭐ 2.7k · Rust</sub>
+- [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - オープンソースの代替手段 - 会議、インタビュー、そして誰が知らずにシームレスに動作する超高速でプライバシーファーストなAIアシスタント。 タリと構築... <sub>⭐ 2.7k · TypeScript</sub>
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) - LangGraphの統合でAIエージェントアプリケーションを構築するための生産準備が整ったFastAPIテンプレートです。 このテンプレートは、スケーラブルで安全かつ保守可能なAIエージェントの構築のための堅牢な基盤を提供します... <sub>⭐ 2.7k · Python</sub>
+- [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) - AIエージェント向けレポ 決定ガイド <sub>⭐ 2.7k · Jupyter Notebook</sub>
+- [openlake-project/openlake](https://github.com/openlake-project/openlake) - OpenLake は、LM の効率的な侵入と GPU トレーニングのための高性能ストレージ エンジンです。 <sub>⭐ 2.7k · Rust</sub>
+- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic AgentはローカルファーストのAIエージェントです。 llama.cppを使用して、自分のマシンでオープン級モデルを実行します。 <sub>⭐ 2.6k · TypeScript</sub>
+- [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) - 詳細なロードマップ、プロジェクト、ユースケース、インタビューの準備およびコーディング準備を含むAIの包括的なリソース。 <sub>⭐ 2.6k · Jupyter Notebook</sub>
+- [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) - APIやmicroservicesなどのAIエージェントの構築、実行およびスケール化 <sub>⭐ 2.6k · Go</sub>
+- [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - Cradleフレームワークは、General Computer Control(GCC)で最初の試みです。Cradleは、強力な推論能力、自己改善、およびスキルのキュレーションを可能にすることによって、あらゆるコンピュータタスクをエースするエージェントをサポートしています... <sub>⭐ 2.6k · Python</sub>
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - AIエージェントとワークフローのモジュール型Pythonフレームワークで、チェーン・オブ・ザ・ワースメントやツール、メモリが搭載されています。 <sub>⭐ 2.6k · Python</sub>
+- [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation(RAG)システム用のさまざまな高度な技術が含まれています。 <sub>⭐ 2.6k · Jupyter Notebook</sub>
+- [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.jsスターターテンプレート <sub>⭐ 2.5k · TypeScript</sub>
+- [mohsen1/yek](https://github.com/mohsen1/yek) - LLM 消費のためのリポジトリまたはディレクトリにテキストベースのファイルをシリアライズするための高速な Rust ベースのツール <sub>⭐ 2.5k · Rust</sub>
+- [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - RasaGPTは、RasaとLangchainの上に構築された最初のヘッドレスLMチャットボットプラットフォームです。 ビルドw / Rasa、FastAPI、L Langchain、LlamaIndex、SQLModel、pgvector、ngrok、テレグラム <sub>⭐ 2.5k · Python</sub>
+- [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai スタイルの API は、LLMs を chatgpt! LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 など... <sub>⭐ 2.5k · Python</sub>
+- [FullAgent/fulling](https://github.com/FullAgent/fulling) - Fulling は、AI 搭載のフルスタックエンジニアエージェントです。Next.js, Claude, shadcn/ui,PostgreSQL で構築されています。kubernetes を infra として使用してください。 <sub>⭐ 2.4k · TypeScript</sub>
+- [vercel/workflow](https://github.com/vercel/workflow) - ワークフローSDK:TypeScriptで耐久性、信頼性、および保守可能なアプリとAIエージェントを構築 <sub>⭐ 2.4k · TypeScript</sub>
+- [hitsz-ids/synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - SDG は、高品質の構造化されたタキュラーデータを生成する特殊なフレームワークです。 <sub>⭐ 2.4k · Python</sub>
+- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - LLM でコミットメッセージの作者のための git prepare-commit-msg hook. <sub>⭐ 2.4k · Rust</sub>
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - AI文脈のripgrep:ゼロ依存性C++23 CLI + MCPサーバー コーディングエージェント。リポジトリを読んだりすることなく、自分が何をしたいのかを見つけ、意味するものをビルドしてみる — ラジウス、テスト・ツー・ラン... <sub>⭐ 2.4k · C++</sub>
+- [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - AgentUniverse は LLM マルチエージェントフレームワークです。これにより、開発者がマルチエージェントアプリケーションを簡単に構築できます。 <sub>⭐ 2.4k · Python</sub>
+- [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - ComfyUIのLLM Agent Frameworkには、MCP sever、Omost、GPT-sovits、ChatTTS、GOT-OCR2.0、およびFLUXプロンプトノードが含まれており、Feishu、discordにアクセスし、同様のopenai / aisuiteですべてのラムに適応します。 <sub>⭐ 2.4k · Python</sub>
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - LLM 用の高速でローカルファーストな Web コンテンツ抽出。Scrape、craw、構造化されたデータを抽出します。すべての Rust. CLI、REST API、MCP サーバーから。 <sub>⭐ 2.4k · Rust</sub>
+- [UnicomAI/wanwu](https://github.com/UnicomAI/wanwu) - 中国UnicomのYuanjing Wanwu Agent Platformは、エンタープライズグレードでマルチテナント型のAIエージェント開発プラットフォームです。 ユーザーはインテリジェントなエージェント、ワークフロー、およびドラッグなどのアプリケーションを構築するのに役立ちます... <sub>⭐ 2.4k · Go</sub>
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - 未来世界初となるAMSの自己修正フレームワーク <sub>⭐ 2.3k · Python</sub>
+- [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - LLMでテキストデータセットをラベル化し、きれいにし、濃縮します。 <sub>⭐ 2.3k · Python</sub>
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - Instill Coreは、汎用性の高いAIファーストアプリケーションの構築のあらゆる側面を合理化するために設計されたデータ、モデルおよびパイプラインオーケストレーション用のフルスタック型のAIインフラストラクチャツールです。 <sub>⭐ 2.3k · Python</sub>
+- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - LLM Agent、ワークフロー、アプリケーションをデータでビルドするためのマルチエージェントフレームワーク <sub>⭐ 2.3k · Python</sub>
+- [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent) - LangGraphとTavilyが開発した、マルチエージェントフレームワークを使用して企業に深い勤勉性を発揮する有力な会社リサーチツール。 GoogleのGemini 2.5 FlashとOpenAIのGPT-5.1を活用しています... <sub>⭐ 2.3k · Python</sub>
+- [InternLM/lagent](https://github.com/InternLM/lagent) - LLM ベースのエージェントの構築のための軽量なフレームワーク <sub>⭐ 2.3k · Python</sub>
+- [Pinvou/pinvou-agent](https://github.com/Pinvou/pinvou-agent) - ツール、ファイル、知識、ワークフロー、および実際の成果物のためのオープンソースのデスクトップAIエージェント。 <sub>⭐ 2.3k · Rust</sub>
+- [GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist) - メカニカルプロトコルの執行によるポータブルAIエージェントオーケストレーション。186エージェント、ゼロランタイム依存関係。 <sub>⭐ 2.3k · Python</sub>
+- [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - 未踏の文脈。それ自体を管理する記憶。人生のための1つのセッション。コーディングエージェント、CortexKitの一部のためのhippocampus。 <sub>⭐ 2.3k · TypeScript</sub>
+- [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - セルフホスト型LLMツール・コールとマルチステップのエージェントワークフローのためのPythonフレームワーク <sub>⭐ 2.2k · Python</sub>
+- [floneum/kalosm](https://github.com/floneum/kalosm) - Rustの即時、制御可能なローカル事前訓練されたAIモデル <sub>⭐ 2.2k · Rust</sub>
+- [oxwhirl/pymarl](https://github.com/oxwhirl/pymarl) - Pythonマルチエージェント強化学習フレームワーク <sub>⭐ 2.2k · Python</sub>
+- [Stack-Cairn/LiveAgent](https://github.com/Stack-Cairn/LiveAgent) - Webuiアクセスをサポートするフル機能のAIエージェントデスクトップクライアントで、クリエイティブにカスタマイズして拡張することができます! <sub>⭐ 2.2k · TypeScript</sub>
+- [777genius/agent-teams-ai](https://github.com/777genius/agent-teams-ai) - ボス、エージェントはチームです。タスクを自分で処理し、お互いにメッセージを伝え、互いにレビューします。カンバンボードを見たり、ハイレベルなコマンドを与えてくれます。... <sub>⭐ 2.2k · TypeScript</sub>
+- [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - TinyFish Web エージェントで構築されたサンプルアプリやレシピのコレクション。学習とビルドのためのオープンソースの例! <sub>⭐ 2.2k · TypeScript</sub>
+- [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - セキュアなコード認識ランタイムフレームワークで、システム仮想化のためのAIを活用しています。 <sub>⭐ 2.2k · Go</sub>
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - スケーラブルで低レイテンシー、ハイブリッド対応のベクター検索。ベクターサーチを革命化し、データベースではなく。 <sub>⭐ 2.2k · Rust</sub>
+- [samchon/nestia](https://github.com/samchon/nestia) - NestJSヘルパー+AIチャットボット開発 <sub>⭐ 2.2k · TypeScript</sub>
+- [alfredfrancis/ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語の理解と人工知能を備えたPythonチャットボットフレームワーク。 <sub>⭐ 2.2k · TypeScript</sub>
+- [YiVal/YiVal](https://github.com/YiVal/YiVal) - GenAIアプリケーションの自動プロンプトエンジニアリングアシスタント <sub>⭐ 2.1k · Python</sub>
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - PHP エコシステムの Agentic Framework は、既定の AI 駆動アプリケーションを構築します。コンポーネント (LLMs, Tools, ベクター DBs, Memory) をデータや UI とやり取りするエージェントに接続します。 <sub>⭐ 2.1k · PHP</sub>
+- [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - SkybridgeはMCP AppsとChatGPTアプリ用のフルスタック型スクリプトフレームワークです。 タイプセーフ。 リアクトパワード。 Platform-agnostic。 <sub>⭐ 2.1k · TypeScript</sub>
+- [microsoft/aici](https://github.com/microsoft/aici) - AICI:プログラムとしてのプロンプト <sub>⭐ 2.1k · Rust</sub>
+- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - 代理店のworfklowsを生産にデプロイする <sub>⭐ 2.1k · Python</sub>
+- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLMは、学習教材をクイズやフラッシュカード、メモ、ポッドキャストなどのインタラクティブなリソースに変えるNotebookLM&教育プラットフォームのコミュニティ駆動版です。 <sub>⭐ 2.0k · TypeScript</sub>
+- [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) - LangChain + LangGraphエコシステムのインデックス:LLM&マルチエージェントアプリ用のコンセプト、プロジェクト、ツール、テンプレート、ガイド。 <sub>⭐ 2.0k · JavaScript</sub>
+- [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - RAG(Retrieval-Augmented generation)フレームワーク、プロジェクト、リソースのコミュニティ主導コレクション。進化するRAGエコシステムに貢献し、探索します。 <sub>⭐ 2.0k</sub>
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - RubyでLM-poweredアプリケーションを構築 <sub>⭐ 2.0k · Ruby</sub>
-- [openakita/openakita](https://github.com/openakita/openakita) - An open-source AI assistant framework with skills and agent architecture <sub>⭐ 2.0k · Python</sub>
-- [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - Agentic chat experience in your terminal. Build applications using natural language. <sub>⭐ 2.0k · Rust</sub>
-- [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans… <sub>⭐ 1.9k</sub>
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) - Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box. <sub>⭐ 1.9k · Python</sub>
-- [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly. <sub>⭐ 1.9k</sub>
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local! <sub>⭐ 1.9k · JavaScript</sub>
-- [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create agentic apps in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place. <sub>⭐ 1.9k · Python</sub>
-- [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows… <sub>⭐ 1.9k · Python</sub>
-- [photon-hq/spectrum-ts](https://github.com/photon-hq/spectrum-ts) - Bring agents to any interfaces <sub>⭐ 1.9k · TypeScript</sub>
-- [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS… <sub>⭐ 1.9k · Swift</sub>
-- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration <sub>⭐ 1.9k · C</sub>
-- [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. <sub>⭐ 1.9k · TypeScript</sub>
-- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. <sub>⭐ 1.8k · Go</sub>
-- [peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) - Practical course about Large Language Models. <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models <sub>⭐ 1.8k · Rust</sub>
-- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. <sub>⭐ 1.8k · Python</sub>
-- [Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust. <sub>⭐ 1.8k · JavaScript</sub>
-- [delibae/claude-prism](https://github.com/delibae/claude-prism) - An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally. <sub>⭐ 1.8k · TypeScript</sub>
-- [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) - Claude Code for Financial Market <sub>⭐ 1.8k · Python</sub>
-- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access… <sub>⭐ 1.8k · Shell</sub>
-- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. <sub>⭐ 1.8k · Rust</sub>
-- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - Framework retired. Prompts and document generators moved to AgentDock/prompt-library, the book to AgentDock/ai-agents-book. See the pinned issue. <sub>⭐ 1.8k · MDX</sub>
-- [parthsarthi03/raptor](https://github.com/parthsarthi03/raptor) - The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval <sub>⭐ 1.8k · Python</sub>
-- [mex-memory/mex](https://github.com/mex-memory/mex) - Team memory for engineers and their AI agents. Lives in your repo. Shared through Git. <sub>⭐ 1.7k · TypeScript</sub>
-- [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop <sub>⭐ 1.7k · Python</sub>
-- [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins. <sub>⭐ 1.7k · Rust</sub>
-- [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - connect any ai agents to solana protocols <sub>⭐ 1.7k · TypeScript</sub>
-- [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain <sub>⭐ 1.7k · PHP</sub>
-- [emarco177/langchain-course](https://github.com/emarco177/langchain-course) - A project-based course repository for developing AI agents using LangChain v1+ and LangGraph: search agents, RAG systems, reflection agents, and code interpreters. <sub>⭐ 1.7k</sub>
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance <sub>⭐ 1.7k · Rust</sub>
-- [patoles/agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work. <sub>⭐ 1.7k · TypeScript</sub>
-- [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine. <sub>⭐ 1.7k · Go</sub>
-- [AgentEra/Agently](https://github.com/AgentEra/Agently) - (GenAI Application Development Framework) Build GenAI application quick and easy Easy to interact with GenAI agent in code using structure data and chained-calls syntax Use Event-Driven Flow… <sub>⭐ 1.7k · Python</sub>
-- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - playwright for windows computer use <sub>⭐ 1.6k · Rust</sub>
-- [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease. <sub>⭐ 1.6k · Python</sub>
-- [zhnt/loushang](https://github.com/zhnt/loushang) - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance, traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen… <sub>⭐ 1.6k · Python</sub>
-- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with - Multimodal database, orchestration, and serving in one file <sub>⭐ 1.6k · Python</sub>
-- [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks. <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude reads its own source code — 17-chapter architectural deep-dive into Claude Code v2.1.88. EN/ZH bilingual. <sub>⭐ 1.6k</sub>
-- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes. <sub>⭐ 1.6k · TypeScript</sub>
-- [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - llm-chain is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks <sub>⭐ 1.6k · Rust</sub>
-- [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows. <sub>⭐ 1.6k · Python</sub>
-- [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents frameworks. <sub>⭐ 1.6k · Python</sub>
-- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework. <sub>⭐ 1.6k · Python</sub>
-- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - The batteries included agent harness. <sub>⭐ 1.6k · TypeScript</sub>
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows. <sub>⭐ 1.6k · TypeScript</sub>
-- [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - Open-Source Generative UI Framework <sub>⭐ 1.6k · TypeScript</sub>
-- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. <sub>⭐ 1.5k · Python</sub>
-- [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows. <sub>⭐ 1.5k · Python</sub>
-- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and… <sub>⭐ 1.5k · Python</sub>
-- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing <sub>⭐ 1.5k · TypeScript</sub>
-- [VersusControl/devops-ai-guidelines](https://github.com/VersusControl/devops-ai-guidelines) - First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines <sub>⭐ 1.5k · Python</sub>
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework <sub>⭐ 1.5k · Python</sub>
-- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models <sub>⭐ 1.5k · Jupyter Notebook</sub>
-- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs <sub>⭐ 1.5k · TypeScript</sub>
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud <sub>⭐ 1.5k · TypeScript</sub>
-- [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up your work. <sub>⭐ 1.5k · TypeScript</sub>
-- [ghostwright/phantom](https://github.com/ghostwright/phantom) - An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK. <sub>⭐ 1.5k · TypeScript</sub>
-- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C. <sub>⭐ 1.5k · Rust</sub>
-- [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies <sub>⭐ 1.5k · TypeScript</sub>
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic. <sub>⭐ 1.5k · Go</sub>
-- [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents. <sub>⭐ 1.5k · Python</sub>
-- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software <sub>⭐ 1.5k · TypeScript</sub>
-- [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows. <sub>⭐ 1.4k · TypeScript</sub>
-- [benman1/generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build production-ready LLM applications and advanced agents using Python, LangChain, and LangGraph. This is the companion repository for the book on generative AI with LangChain. <sub>⭐ 1.4k · Jupyter Notebook</sub>
-- [google/adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.4k · TypeScript</sub>
-- [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy. <sub>⭐ 1.4k · Shell</sub>
-- [browserwing/browserwing](https://github.com/browserwing/browserwing) - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let… <sub>⭐ 1.4k · Go</sub>
-- [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) - NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security operations. <sub>⭐ 1.4k · Rust</sub>
+- [openakita/openakita](https://github.com/openakita/openakita) - スキルとエージェントのアーキテクチャを備えたオープンソースAIアシスタントフレームワーク <sub>⭐ 2.0k · Python</sub>
+- [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - 端末でのエージェントチャット体験。自然言語を使ってアプリケーションを構築します。 <sub>⭐ 2.0k · Rust</sub>
+- [skalesapp/skales](https://github.com/skalesapp/skales) - macOS、Windows、Linux、AndroidおよびiOS用のパーソナルAIエージェント。 目標を設定し、単独で動作します:コーディング(スケールコード)、デスクトップ+ブラウザの自動化、自動スケジュールされたタスク。 エージェントと人間のチーム... <sub>⭐ 1.9k</sub>
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) - 完全なスタックAIアプリジェネレータ — FastAPI + Next.js with AIエージェント、RAG、ストリーミング、auth、および20+の統合を箱から実行します。 <sub>⭐ 1.9k · Python</sub>
+- [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 2026年にAIエージェント、フレームワークおよびツールの最も包括的なリスト。 300以上のリソース、20 +カテゴリ•毎月更新しました。 <sub>⭐ 1.9k</sub>
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - テキスト・ツー・スピーチ、RAG、LMS。ローカル! <sub>⭐ 1.9k · JavaScript</sub>
+- [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - プロンプトで2秒でエージェントアプリを作成します。 LLM Agent - ツール、プロンプト、フレームワーク、モデルをすべて1か所に作成する必要があります。 <sub>⭐ 1.9k · Python</sub>
+- [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian は、AI 搭載の浸透テスト自動化です。 Google Gemini と LangChain を活用してインテリジェントでステップバイステップの貫通試験ワークフローをオーケストする CLI ツール... <sub>⭐ 1.9k · Python</sub>
+- [photon-hq/spectrum-ts](https://github.com/photon-hq/spectrum-ts) - エージェントを任意のインターフェイスに持ち込む <sub>⭐ 1.9k · TypeScript</sub>
+- [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - iOS / MacOS用のコアMLモデル動物園 — PyTorchモデルは、コンバージョンスクリプトとSwiftUIサンプルアプリでそれぞれ既製の.mlpackageに変換しました。 兄弟レポスはAppleのCore AIフレームワーク(iOS/macOS... <sub>⭐ 1.9k · Swift</sub>
+- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - T2/T3/T5AI/ESP32 の次世代 AI+IoT フレームワーク - Fast IoT および AI Agent ハードウェア統合 <sub>⭐ 1.9k · C</sub>
+- [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - Next.js、Tailwind CSS、TypeScriptで構築されたAIエージェントのモダンなチャットインターフェイスです。 <sub>⭐ 1.9k · TypeScript</sub>
+- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - グラフワークフロー、ツール、メモリ、A2A、AG-UI、MCP、評価、および保守性を備えた製造代理店システムの構築のためのGoフレームワーク。 <sub>⭐ 1.8k · Go</sub>
+- [peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) - 大規模言語モデルの実践コース。 <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [trymirai/uzu](https://github.com/trymirai/uzu) - AIモデル向け高性能推論エンジン <sub>⭐ 1.8k · Rust</sub>
+- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN:AI主導のマルチエージェントリサーチアシスタントが仮説生成、データ分析、レポート作成を自動化。 <sub>⭐ 1.8k · Python</sub>
+- [Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern) - 古典的シリタバーン、今はタウリ/ラストに書き直されました。 <sub>⭐ 1.8k · JavaScript</sub>
+- [delibae/claude-prism](https://github.com/delibae/claude-prism) - Claude によるオフライン初の科学ライティングワークスペース。 LaTeX + Python + 100+ の科学的スキルは、ローカルで実行されます。 <sub>⭐ 1.8k · TypeScript</sub>
+- [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) - 金融市場向けクロードコード <sub>⭐ 1.8k · Python</sub>
+- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactoryは、あらゆるデータソースへのAPIアクセスを管理し、エンタープライズアプリケーションとオンプレミスLMを接続してロールベースのアクセスを提供するセキュアでセルフホスト型の企業データアクセスプラットフォームです。 <sub>⭐ 1.8k · Shell</sub>
+- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - 迅速かつ効率的な非構造化データ抽出。 多くの言語の結合とRustで書かれています。 <sub>⭐ 1.8k · Rust</sub>
+- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - 幅広い言語モデルの理解と実践をするための包括的なガイド。LangChain for GenAIアプリケーションを使用して、ハンズオン例で実装します。 <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - フレームワークが退職しました。プロンプトとドキュメントジェネレーターは、AgentDock/prompt-libraryに移行し、AgentDock/ai-agents-bookへの書籍を移動しました。 ピン留めされた問題を参照してください。 <sub>⭐ 1.8k · MDX</sub>
+- [parthsarthi03/raptor](https://github.com/parthsarthi03/raptor) - RAPTORの公式実装:ツリー組織再帰的処理 <sub>⭐ 1.8k · Python</sub>
+- [mex-memory/mex](https://github.com/mex-memory/mex) - エンジニアとAIエージェントのチームのメモリ。リポジトリに住んでいます。Gitを通して共有されます。 <sub>⭐ 1.7k · TypeScript</sub>
+- [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - デスクトップでChromeを制御するAutoGPTエージェント <sub>⭐ 1.7k · Python</sub>
+- [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - プラグインを使って複雑なタスクを完了する機能でLMsを提供するプログラム。 <sub>⭐ 1.7k · Rust</sub>
+- [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - 任意の ai エージェントを solana プロトコルに接続します。 <sub>⭐ 1.7k · TypeScript</sub>
+- [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - OpenAI GPT 4を使用した包括的なPHPのジェネレーションAIフレームワーク。 Langchainによって考案 <sub>⭐ 1.7k · PHP</sub>
+- [emarco177/langchain-course](https://github.com/emarco177/langchain-course) - LangChain v1+とLangGraph:検索エージェント、RAGシステム、リフレクションエージェント、コード通訳者を使用してAIエージェントを開発するためのプロジェクトベースのコースリポジトリ。 <sub>⭐ 1.7k</sub>
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Rustで書かれた軽量のコーディングエージェント、メモリフットプリントとパフォーマンスに最適 <sub>⭐ 1.7k · Rust</sub>
+- [patoles/agent-flow](https://github.com/patoles/agent-flow) - クロード・コード・エージェントのオーケストレーションをリアルタイムに可視化 — エージェントが考える、ブランチ、そしてその作業に合わせて調整します。 <sub>⭐ 1.7k · TypeScript</sub>
+- [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - E2B スタックの背後にあるランタイム:クラウド、エンタープライズ、および独自のマシン。 <sub>⭐ 1.7k · Go</sub>
+- [AgentEra/Agently](https://github.com/AgentEra/Agently) - (GenAI Application Development Framework) GenAIアプリケーションを素早く簡単に構築し、構造データとチェーンコールのシンタックスを使用してコード内のGeneiエージェントとのやり取りが簡単になります。イベント駆動フローを使用する... <sub>⭐ 1.7k · Python</sub>
+- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - 窓コンピュータの使用のためのplaywright <sub>⭐ 1.6k · Rust</sub>
+- [fetchai/uAgents](https://github.com/fetchai/uAgents) - 分散型エージェントを簡単に作成するための高速かつ軽量なフレームワーク。 <sub>⭐ 1.6k · Python</sub>
+- [zhnt/loushang](https://github.com/zhnt/loushang) - pythonによるワークフローのコーディングのためのAIネイティブエージェントハーネス:マルチモデルLLMオーケストレーション、ステートフルセッション、ツールガバナンス、トレーサブルデリバリー、GPT、Claude、DeepSeek、Qwen向けのプロバイダールーティング... <sub>⭐ 1.6k · Python</sub>
+- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - バックエンドエージェントは、複数のデータベース、オーケストレーション、および1つのファイルで機能します。 <sub>⭐ 1.6k · Python</sub>
+- [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - このリポジトリは、複雑な質問に対する高度なRetrieval-Augmentedジェネレーション(RAG)ソリューションを提供します。これにより、タスクを処理するために洗練されたグラフベースのアルゴリズムを使用します。 <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - クロードは、独自のソースコードを読んで — 17 章のアーキテクチャ深夜 Claude コード v2.1.88. EN/ZH バイリンガル。 <sub>⭐ 1.6k</sub>
+- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - エージェント、タスク、知識、および研究のための無限のキャンバスワークスペース。 クロードコード、コーデックス、ターミナル、タスク、メモ用の無限のキャンバス。 <sub>⭐ 1.6k · TypeScript</sub>
+- [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - llm-chainは、テキストを要し、複雑なタスクを完了できるように大規模な言語モデルでチェーンを構築するための強力な錆つきです <sub>⭐ 1.6k · Rust</sub>
+- [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker は LLM 用のドキュメント・インテリジェンスライブラリで、柔軟かつ強力な文書ワークフローのための ORM スタイルのインタラクションを提供します。 <sub>⭐ 1.6k · Python</sub>
+- [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - 素晴らしいLMエージェントフレームワークのキュレーションリスト。 <sub>⭐ 1.6k · Python</sub>
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - MLXフレームワークを使用してApple Silicon Mac用のオールインワンLLMチャットUI。 <sub>⭐ 1.6k · Python</sub>
+- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - 電池は代理店の馬具を含んでいました。 <sub>⭐ 1.6k · TypeScript</sub>
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - AIエージェントのn8nスーパーパワーを付与します。フルスキーマ、7,700以上のテンプレート、Gitのような同期とTypeScriptワークフローで537ノードです。 <sub>⭐ 1.6k · TypeScript</sub>
+- [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - オープンソースの生成UIフレームワーク <sub>⭐ 1.6k · TypeScript</sub>
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - エージェントOS:専門家のエージェントをハブに保ち、タスクごとに一時的なオーケストレーターを回転させます。ローカルファーストはあらゆるモデルで動作します。 <sub>⭐ 1.5k · Python</sub>
+- [video-db/Director](https://github.com/video-db/Director) - 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。 <sub>⭐ 1.5k · Python</sub>
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - パーソナルAI Sovereignty。 統合されたツール、個人知識グラフ、音声、ビジョン、シェル、ブラウザの自動化、スケジュールされたタスク、健康追跡とローカルファーストAIアシスタント... <sub>⭐ 1.5k · Python</sub>
+- [vanloctech/youwee](https://github.com/vanloctech/youwee) - YouTube、TikTok、Instagram、および1800以上のサイト(yt-dlp GUI)用の美しいクロスプラットフォームダウンローダー <sub>⭐ 1.5k · TypeScript</sub>
+- [VersusControl/devops-ai-guidelines](https://github.com/VersusControl/devops-ai-guidelines) - DevOpsのための初のAIジャーニー - 包括的な学習パス、実用的なヒント、および企業ガイドライン <sub>⭐ 1.5k · Python</sub>
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM の反フレームワーク <sub>⭐ 1.5k · Python</sub>
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - このリポジトリには、Amazon Bedrock Serviceを使用して開始する顧客のための例が含まれています。 これにより、利用可能なすべてのファンダメンタルモデルの例が記載されています。 <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - RAG LLM は、ローカルの LLMs によって供給されるウェブを閲覧するための共同パイロットです。 <sub>⭐ 1.5k · TypeScript</sub>
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI搭載のマークダウンエディタ - LLM をドキュメントで活用する - 100%ローカルまたはクラウド <sub>⭐ 1.5k · TypeScript</sub>
+- [dust-tt/dust](https://github.com/dust-tt/dust) - カスタムAIエージェントプラットフォームで作業をスピードアップ。 <sub>⭐ 1.5k · TypeScript</sub>
+- [ghostwright/phantom](https://github.com/ghostwright/phantom) - 独自のコンピュータを備えたAI共同作業者。自己進化、永続的なメモリ、MCPサーバー、セキュアなクレデンシャルコレクション、EメールID。 クロードエージェントSDK上に構築されました。 <sub>⭐ 1.5k · TypeScript</sub>
+- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvusは、単一のデータベースクエリでRAGパイプライン全体を統一する検索SDKです。 Python、JavaScript、RustおよびCのバインディングを持つPostgresの上に構築されています。 <sub>⭐ 1.5k · Rust</sub>
+- [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - ゼロの依存関係を持つmacOS用のタイプセーフでエレガントなiMessage SDK <sub>⭐ 1.5k · TypeScript</sub>
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - インフラを考えずに制作アプリを実行します。サーバーや当社で、完全にエージェントです。 <sub>⭐ 1.5k · Go</sub>
+- [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - AIエージェントとやり取りするための一般的なインターフェイス。プロトコルは技術スタックアグノスティックです - 任意のフレームワークを使用して、構築剤を使用できます。 <sub>⭐ 1.5k · Python</sub>
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - オープンソースの保守性ツールで、AIエージェントがソフトウェアを自己回復させる <sub>⭐ 1.5k · TypeScript</sub>
+- [inkeep/agents](https://github.com/inkeep/agents) - AIエージェントをNo-Code Visual BuilderまたはTypeScript SDKでフル2ウェイ同期で作成します。AIアシスタントとマルチエージェントのAIワークフローを出荷する。 <sub>⭐ 1.4k · TypeScript</sub>
+- [benman1/generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、LangChain、LangGraph を使用したプロダクション・レディ LLM アプリケーションと高度なエージェントを構築します。これは LangChain でジェネレーション AI に関する書籍のコンパニオンリポジトリです。 <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [google/adk-js](https://github.com/google/adk-js) - 高度なAIエージェントの構築、評価、展開のためのオープンソース、コードファーストタイプスクリプトツールキット。 <sub>⭐ 1.4k · TypeScript</sub>
+- [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - クラウドコード用のSamurai-inspiredマルチエージェントシステム。tmuxによる並列AIタスクをshogun→karo → ashigaru階層で編成します。 <sub>⭐ 1.4k · Shell</sub>
+- [browserwing/browserwing](https://github.com/browserwing/browserwing) - BrowserWing は、ブラウザのアクションを MCP コマンドや Claude Skill に変換し、AI エージェントがブラウザーを効率的かつ確実に制御できるようにします。 遅いトークン重い LLM インタラクションによならないようにしましょう... <sub>⭐ 1.4k · Go</sub>
+- [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) - NeuroSploitは、攻撃的なセキュリティ操作のさまざまな側面を自動化し、拡張するために設計された高度なAI搭載貫通テストフレームワークです。 <sub>⭐ 1.4k · Rust</sub>
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - E2Bの利用例 <sub>⭐ 1.4k · TypeScript</sub>
-- [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! <sub>⭐ 1.4k · Go</sub>
-- [GradientHQ/parallax](https://github.com/GradientHQ/parallax) - Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere <sub>⭐ 1.4k · Python</sub>
-- [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - The IDE built for AI coding agents. <sub>⭐ 1.4k · TypeScript</sub>
-- [nlkitai/nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more React, Next.js, and plain JavaScript <sub>⭐ 1.4k · TypeScript</sub>
-- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - The agent framework where every run is durable, replayable, and resumable by default. <sub>⭐ 1.4k · Rust</sub>
-- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - LangChain for Rust, the easiest way to write LLM-based programs in Rust <sub>⭐ 1.3k · Rust</sub>
-- [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI. <sub>⭐ 1.3k · Go</sub>
-- [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent… <sub>⭐ 1.3k · Python</sub>
-- [PrunaAI/pruna](https://github.com/PrunaAI/pruna) - Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead. <sub>⭐ 1.3k · Python</sub>
-- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps <sub>⭐ 1.3k · TypeScript</sub>
-- [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents… <sub>⭐ 1.3k · TypeScript</sub>
-- [codefuse-ai/codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot) - An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc. <sub>⭐ 1.3k · Python</sub>
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit. <sub>⭐ 1.3k · Python</sub>
-- [bug0inc/qa-agent](https://github.com/bug0inc/qa-agent) - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification. <sub>⭐ 1.3k · TypeScript</sub>
-- [hexabot-ai/Hexabot](https://github.com/hexabot-ai/Hexabot) - Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime. <sub>⭐ 1.3k · TypeScript</sub>
-- [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - A browser-based desktop where AI Agent operates every app through natural language. <sub>⭐ 1.3k · TypeScript</sub>
-- [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and… <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident… <sub>⭐ 1.2k · Python</sub>
-- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability <sub>⭐ 1.2k · Python</sub>
-- [aegra/aegra](https://github.com/aegra/aegra) - Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure. <sub>⭐ 1.2k · Python</sub>
-- [bowang-lab/MedRAX](https://github.com/bowang-lab/MedRAX) - MedRAX: Medical Reasoning Agent for Chest X-ray - ICML 2025 <sub>⭐ 1.2k · Python</sub>
-- [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams. <sub>⭐ 1.2k · Rust</sub>
-- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs… <sub>⭐ 1.2k · TypeScript</sub>
-- [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI… <sub>⭐ 1.2k · Go</sub>
-- [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) - LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle hooks, multi-agent collaboration, and workflows. <sub>⭐ 1.2k · Python</sub>
-- [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents <sub>⭐ 1.2k</sub>
-- [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) - Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps. <sub>⭐ 1.2k · Go</sub>
-- [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - A Self-adaptation Framework that adapts LLMs for unseen tasks in real-time! <sub>⭐ 1.2k · Python</sub>
-- [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) - A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [jieyefriic/rp-engine](https://github.com/jieyefriic/rp-engine) - YAML-native agent workflow execution engine, written in Rust <sub>⭐ 1.2k · Rust</sub>
-- [EvolvingLMMs-Lab/LLaVA-OneVision-2](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) - Fully Open Framework for Democratized Multimodal Training <sub>⭐ 1.2k · Python</sub>
-- [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) - Salesforce Enterprise Deep Research <sub>⭐ 1.2k · Python</sub>
-- [ZHangZHengEric/Sage](https://github.com/ZHangZHengEric/Sage) - Multi-Agent System Framework For Complex Tasks <sub>⭐ 1.2k · Python</sub>
+- [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.goは純粋なGolangのllama.cppのようなものです! <sub>⭐ 1.4k · Go</sub>
+- [GradientHQ/parallax](https://github.com/GradientHQ/parallax) - Parallaxは、どこにいても独自のAIクラスターを構築できる分散型フレームワークです。 <sub>⭐ 1.4k · Python</sub>
+- [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - AI コーディングエージェント用に構築されたIDE。 <sub>⭐ 1.4k · TypeScript</sub>
+- [nlkitai/nlux](https://github.com/nlkitai/nlux) - 強力な会話AI JavaScriptライブラリ — LLMのUI、LangChain / HuggingFace / Vercel AIをサポートし、React、Next.js、およびplain JavaScript <sub>⭐ 1.4k · TypeScript</sub>
+- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - すべての実行が耐久性、再生可能であり、デフォルトで再開できるエージェントフレームワーク。 <sub>⭐ 1.4k · Rust</sub>
+- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - Rust の LangChain、Rust で LLM ベースのプログラムを書く最も簡単な方法 <sub>⭐ 1.3k · Rust</sub>
+- [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAIサービスプロキシ。Open ConvertAI公式APIリクエストをAzure OpenAI APIリクエストにサポートします。 GPT-4、Embeddings、Langchainをサポートしています。 OpenAIからAzure OpenAIへのアダプタ。 <sub>⭐ 1.3k · Go</sub>
+- [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSociety 2は、社会科学の研究と実験設計のために設計された現代的でLM-nativeエージェントシミュレーションプラットフォームです。 それはインテリジェントな作成および管理のための柔軟なフレームワークを提供します... <sub>⭐ 1.3k · Python</sub>
+- [PrunaAI/pruna](https://github.com/PrunaAI/pruna) - Prunaは、開発者のために構築されたモデル最適化フレームワークです。これにより、最小限のオーバーヘッドでより高速かつ効率的なモデルを配信できます。 <sub>⭐ 1.3k · Python</sub>
+- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - モバイルAIアプリをクロスプラットフォームで構築するためのフルスタックフレームワーク <sub>⭐ 1.3k · TypeScript</sub>
+- [SmythOS/sre](https://github.com/SmythOS/sre) - SmythOS Runtime Environment(SRE)は、エージェントAI用のオープンソース、クラウドネイティブランタイムです。 セキュアでモジュール式で生産準備が整っており、開発者がインテリジェントなエージェントを構築し、実行して管理することができます。 <sub>⭐ 1.3k · TypeScript</sub>
+- [codefuse-ai/codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot) - DevOps Toolkits、Code&Doc Repo RAGなどと連携し、マルチエージェントフレームワークによって機能するソフトウェア開発ライフサイクル全体にサービスを提供するインテリジェントなアシスタント。 <sub>⭐ 1.3k · Python</sub>
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: AIチャットのTelegramボットは、GPT-5、DALL・E、Grq、Gemini 2.5 Pro/FlashおよびZeabur、Fly.ioとReplitでPythonを使用したClaude4.1 APIによるWeb検索が可能です。 <sub>⭐ 1.3k · Python</sub>
+- [bug0inc/qa-agent](https://github.com/bug0inc/qa-agent) - インテリジェントキャッシング、オートヒーリング、マルチモデル検証によるAIブラウザ回帰テスト用のオープンソースのPlaywrightライブラリ。 <sub>⭐ 1.3k · TypeScript</sub>
+- [hexabot-ai/Hexabot](https://github.com/hexabot-ai/Hexabot) - Hexabot v3 は、ワークフロー、アクション、エージェント、会話チャネルを 1 つのランタイムで組み合わせる AI ワークフローの自動化プラットフォームです。 <sub>⭐ 1.3k · TypeScript</sub>
+- [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - AIエージェントが自然言語ですべてのアプリを操作するブラウザベースのデスクトップ。 <sub>⭐ 1.3k · TypeScript</sub>
+- [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt は、カスタムデータを含むチャットGPTなどの大ランゲージモデル(LLM)に関するチュートリアルをエンジニアリングします。 データの読み込みとインデックス作成に関するJuppyterノートブック、プロンプトテンプレート、CSVエージェントの作成、および... <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - 攻撃ジェンは、大規模な言語モデルと包括的なMITRE ATT&CKフレームワークのパワーを活用するサイバーセキュリティインシデント対応テストツールです。 このツールは、調整された事件を生成します... <sub>⭐ 1.2k · Python</sub>
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - AIの観察性のためのOpenTelemetryの器械使用 <sub>⭐ 1.2k · Python</sub>
+- [aegra/aegra](https://github.com/aegra/aegra) - LangGraph Platform(現LangSmith deployments)のオープンソース代替 - FastAPIとPostgreSQLでセルフホスト型AIエージェントバックエンド。 ゼロベンダーロックイン、あなたの代理店インフラストラクチャを完全に制御します。 <sub>⭐ 1.2k · Python</sub>
+- [bowang-lab/MedRAX](https://github.com/bowang-lab/MedRAX) - MedRAX:チェストX線のための医学のReasoning代理店- ICML 2025 <sub>⭐ 1.2k · Python</sub>
+- [thClaws/thClaws](https://github.com/thClaws/thClaws) - ネイティブ Rust — GUI、CLI、Headless、Webapp のオープンソースAIエージェントハーネスを1つのバイナリから利用します。マルチプロピダー、MCP、スキル、プラグイン、エージェントチーム。 <sub>⭐ 1.2k · Rust</sub>
+- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace は、LLM アプリケーション向けのオープン・テレメトリーベースのエンドツーエンドの保守ツールで、一般的な LLM、LLM フレームワーク、VectorDB 用のリアルタイムトレース、評価およびメトリックを提供しています。 <sub>⭐ 1.2k · TypeScript</sub>
+- [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - APIキーごとにコストやレート制限を監視し、インポーズするのに役立つエンタープライズレベルのAPIゲートウェイ。 ユーザー、アプリケーション、または環境ごとの細かいアクセス制御とモニタリングを入手してください。 OpenAIをサポート... <sub>⭐ 1.2k · Go</sub>
+- [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) - LightAgent:OpenAI対応のツール、メモリ、ガードレール、トレース、ライフサイクルホック、マルチエージェントコラボレーション、ワークフローなどの軽量なPythonフレームワーク。 <sub>⭐ 1.2k · Python</sub>
+- [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - SDK、フレームワーク、ライブラリ、および自動人工知能エージェントの作成、監視、デバッグ、デプロイのためのツールのデータベース <sub>⭐ 1.2k</sub>
+- [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) - クロードコードのエージェント開発ハーネス — SPEC-driven Plan/run/sync, TRUST 5品質ゲート, model+effortルーティング, Claude×GLMマルチLLMコストコントロール. シングルゴーバイナリ, 16 言語, 0 deps. <sub>⭐ 1.2k · Go</sub>
+- [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - LLMをリアルタイムで解明するセルフアダプテーションフレームワーク! <sub>⭐ 1.2k · Python</sub>
+- [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) - 推奨モデル、使いやすい、簡単に使用できるPytorchフレームワークです。 <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [jieyefriic/rp-engine](https://github.com/jieyefriic/rp-engine) - YAML-native エージェントワークフローの実行エンジン、Rust で書かれている <sub>⭐ 1.2k · Rust</sub>
+- [EvolvingLMMs-Lab/LLaVA-OneVision-2](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) - 民主化マルチモーダルトレーニングのための完全オープンフレームワーク <sub>⭐ 1.2k · Python</sub>
+- [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) - Salesforceエンタープライズディープリサーチ <sub>⭐ 1.2k · Python</sub>
+- [ZHangZHengEric/Sage](https://github.com/ZHangZHengEric/Sage) - 複合タスクのためのマルチエージェントシステムフレームワーク <sub>⭐ 1.2k · Python</sub>
 
 ## 🔌 MCPサーバーとエージェント用ツール
 
@@ -431,615 +431,615 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - 1つの共同作業スペースで豊富なAIモデルとツールのサポートを備えた、Agenticワークフロー、RAGパイプラインを構築します。クラウド、VPC、または自己ホスト上に展開するので、チームはプロトタイプから生産まで移動します... <sub>⭐ 157.7k · TypeScript</sub>
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - ユーザーフレンドリーなAIインターフェイス(Ollama、OpenAI APIをサポート) <sub>⭐ 153.8k · Python</sub>
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - モデル コンテキストプロトコル サーバー <sub>⭐ 91.0k · TypeScript</sub>
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows <sub>⭐ 76.4k · Python</sub>
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server. <sub>⭐ 57.6k · Python</sub>
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible… <sub>⭐ 47.2k · Python</sub>
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo… <sub>⭐ 31.9k · Python</sub>
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like… <sub>⭐ 28.7k · TypeScript</sub>
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. <sub>⭐ 25.0k · TypeScript</sub>
-- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients <sub>⭐ 24.5k · Python</sub>
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed… <sub>⭐ 17.4k · Jupyter Notebook</sub>
-- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. <sub>⭐ 16.6k · Go</sub>
-- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. <sub>⭐ 14.7k · C#</sub>
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients <sub>⭐ 13.5k · TypeScript</sub>
-- [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. <sub>⭐ 13.3k · Python</sub>
-- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. <sub>⭐ 13.2k · TypeScript</sub>
-- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation… <sub>⭐ 12.5k · TypeScript</sub>
-- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug… <sub>⭐ 12.3k · Python</sub>
-- [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. <sub>⭐ 12.1k · TypeScript</sub>
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! <sub>⭐ 12.0k · Python</sub>
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers <sub>⭐ 11.0k · TypeScript</sub>
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol) <sub>⭐ 10.8k · Go</sub>
-- [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and… <sub>⭐ 9.4k · TypeScript</sub>
-- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol <sub>⭐ 9.4k · TypeScript</sub>
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages.… <sub>⭐ 9.4k · Rust</sub>
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. <sub>⭐ 9.1k · Go</sub>
-- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns <sub>⭐ 8.6k · Python</sub>
-- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) <sub>⭐ 8.6k · TypeScript</sub>
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server.… <sub>⭐ 8.0k · TypeScript</sub>
-- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows <sub>⭐ 7.6k · Python</sub>
-- [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs. <sub>⭐ 7.3k · TypeScript</sub>
-- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. <sub>⭐ 7.3k · Go</sub>
-- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. <sub>⭐ 7.0k · Go</sub>
-- [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. <sub>⭐ 6.5k · TypeScript</sub>
-- [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps. <sub>⭐ 6.3k · C#</sub>
-- [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state. <sub>⭐ 6.2k · TypeScript</sub>
-- [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) - Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills. <sub>⭐ 6.2k · Python</sub>
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone… <sub>⭐ 6.1k · TypeScript</sub>
-- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to… <sub>⭐ 6.1k · Rust</sub>
-- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) <sub>⭐ 6.0k · Python</sub>
-- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. <sub>⭐ 5.9k · JavaScript</sub>
-- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. <sub>⭐ 5.9k · TypeScript</sub>
-- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI: MCP integration platforms that let AI agents use tools reliably at any scale <sub>⭐ 5.8k · Python</sub>
-- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. <sub>⭐ 5.8k</sub>
-- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More <sub>⭐ 5.7k · TypeScript</sub>
-- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers . <sub>⭐ 5.4k · TypeScript</sub>
-- [aipoch/open-science](https://github.com/aipoch/open-science) - The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and… <sub>⭐ 5.4k · TypeScript</sub>
-- [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. <sub>⭐ 5.3k · Python</sub>
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. <sub>⭐ 5.2k · Python</sub>
-- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. <sub>⭐ 5.2k · Go</sub>
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL… <sub>⭐ 5.1k · TypeScript</sub>
-- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more… <sub>⭐ 5.0k · Java</sub>
-- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps. <sub>⭐ 4.9k · Python</sub>
-- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux. <sub>⭐ 4.9k · TypeScript</sub>
-- [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server. <sub>⭐ 4.7k · JavaScript</sub>
-- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. <sub>⭐ 4.7k · Python</sub>
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL REST, low-code, simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new, MCP server <sub>⭐ 4.6k · Go</sub>
-- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool… <sub>⭐ 4.6k · Python</sub>
-- [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft. <sub>⭐ 4.6k · C#</sub>
-- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin <sub>⭐ 4.5k · Python</sub>
-- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server <sub>⭐ 4.4k · Python</sub>
-- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single… <sub>⭐ 4.4k · C#</sub>
-- [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers <sub>⭐ 4.3k</sub>
-- [53AI/53AIHub](https://github.com/53AI/53AIHub) - 53AI Hub is an open-source AI portal and knowledge base for managing enterprise knowledge, AI agents, prompts, and AI tools, seamlessly integrating with Coze, Dify, FastGPT, RAGFlow. 一个AI知识库与Agent门户 <sub>⭐ 4.3k · Go</sub>
-- [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension… <sub>⭐ 4.3k · TypeScript</sub>
-- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. <sub>⭐ 4.2k · Python</sub>
-- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation <sub>⭐ 4.2k · Python</sub>
-- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker… <sub>⭐ 4.1k · Java</sub>
-- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. <sub>⭐ 4.0k · TypeScript</sub>
-- [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn <sub>⭐ 4.0k · Python</sub>
-- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL… <sub>⭐ 4.0k · Dart</sub>
-- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol <sub>⭐ 4.0k · Rust</sub>
-- [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration <sub>⭐ 3.7k · C#</sub>
-- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI <sub>⭐ 3.7k · Java</sub>
-- [opensumi/core](https://github.com/opensumi/core) - A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server. <sub>⭐ 3.7k · TypeScript</sub>
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite. <sub>⭐ 3.6k · TypeScript</sub>
-- [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) - Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + GA4 + Search Console in one hosted remote MCP for Claude, ChatGPT, Cursor & n8n: 250+ tools, OAuth login, no API keys, approval-gated writes… <sub>⭐ 3.4k</sub>
-- [ascending-llc/jarvis-registry](https://github.com/ascending-llc/jarvis-registry) - Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability. <sub>⭐ 3.3k · Python</sub>
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool <sub>⭐ 3.3k · Python</sub>
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Laravel Herd, with runtimes, databases, web servers, local sites, HTTPS, AI coding… <sub>⭐ 3.3k · TypeScript</sub>
-- [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore. <sub>⭐ 3.2k · Python</sub>
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Claude AIワークフローをカスタマイズするための素晴らしいClaudeスキル、リソース、およびツールのキュレーションリスト <sub>⭐ 76.4k · Python</sub>
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - RAG、スキル、ツール、MCP、テキスト・トゥ・SQLなどのローカルモデルでプライベートAIアプリケーション用のAPIレイヤーが完成しました。OpenAI対応のサーバーと連携します。 <sub>⭐ 57.6k · Python</sub>
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - オープンソースのパーソナルAIアシスタント&エージェントハーネス。タスクを計画し、ツールとスキルを実行し、メモリや知識で自己進化します。マルチエージェント、マルチモデル、マルチチャネル。軽量で拡張可能... <sub>⭐ 47.2k · Python</sub>
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - MCPとCLIのローカルファーストコードインテリジェンスグラフ。 コードベースの永続的なマップを構築し、AIコーディングツールは重要な点だけを読んでおり、レビューや大規模なリポジトリに対するベンチマークされたコンテキスト削減で... <sub>⭐ 31.9k · Python</sub>
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - Repomixは、リポジトリ全体を単一のAIフレンドリーなファイルにパックする強力なツールです。 コードベースを大きな言語モデル(LLM)または他のAIツールにフィードする必要がある場合に最適です... <sub>⭐ 28.7k · TypeScript</sub>
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - AIコーディングエージェントのコンテキストウィンドウ最適化。サンドボックスツール出力(98%削減)、パーシスセッションメモリをパースし、MCP +ホックを介して17プラットフォーム間でルーティングを強化します。 <sub>⭐ 25.0k · TypeScript</sub>
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - モデルコンテクストプロトコルサーバーとクライアントの公式Python SDK <sub>⭐ 24.5k · Python</sub>
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - このオープンソースのカリキュラムは、.NET, Java, TypeScript, JavaScript, Rust and Python でモデルコンテキストプロトコル(MCP)の基礎を実際の言語から紹介します。 <sub>⭐ 17.4k · Jupyter Notebook</sub>
+- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - データベースのMCP Toolboxは、データベース用のオープンソースMCPサーバーです。 <sub>⭐ 16.6k · Go</sub>
+- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP は、AI アシスタントとUnity Editor 間でブリッジとして機能します。LLM ツールがアセットの管理、シーンの制御、スクリプト編集、およびユニティ内でタスクを自動化することを可能にします。 <sub>⭐ 14.7k · C#</sub>
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - モデルコンテキストプロトコルサーバーとクライアント用の公式TypeScript SDK <sub>⭐ 13.5k · TypeScript</sub>
+- [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - すべてのAIエージェントのためのポータブルメモリレイヤー:ローカルファースト、Markdown-native、ユーザー所有、およびアプリやツール、ワークフローを横断する自己進化。 <sub>⭐ 13.3k · Python</sub>
+- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Codex のネイティブモデルとして ChatGPT Web (Pro を含む) を使用します。コンテキスト、ツール、ストリーミング、画像はコードクスコッタを使用せずに使用できます。 <sub>⭐ 13.2k · TypeScript</sub>
+- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server は、クローデなどのAIアシスタントにChromeブラウザの機能を公開する Chrome拡張ベースのモデルコンテキストプロトコル(MCP)サーバーです。これにより、複雑なブラウザーの自動化を実現できます。 <sub>⭐ 12.5k · TypeScript</sub>
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents は、AI エージェント (Claude, GPT, Copilotなど) 自動で 150 + のサイバーセキュリティツールを実行し、自動ペテストや脆弱性発見、バグを自動実行します。 <sub>⭐ 12.3k · Python</sub>
+- [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - オープンソースのコンポーネント、ブロック、AIエージェントがワークフローを高速化できるように設計しました。レジストリとMCPを使用して、お気に入りのツールにシームレスにインポートします。 <sub>⭐ 12.1k · TypeScript</sub>
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - FastAPI エンドポイントをモデルコンテキストプロトコル (MCP) ツールとして公開します。Auth! <sub>⭐ 12.0k · Python</sub>
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - MCP サーバー用のビジュアルテストツール <sub>⭐ 11.0k · TypeScript</sub>
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - オープンソースAPIとREST、GraphQL、TCP、gRPC、MCP(モデルコンテキストプロトコル)をサポートするAIゲートウェイ <sub>⭐ 10.8k · Go</sub>
+- [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - Apify MCP サーバーを使用すると、AI エージェントがソーシャルメディア、検索エンジン、マップ、eコマースサイトなどのデータを抽出したり、既製のスクレーパーやクローラーを使用して他のウェブサイトを何千ものユーザーが作成できます。 <sub>⭐ 9.4k · TypeScript</sub>
+- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - モデルコンテキストプロトコルの仕様とドキュメント <sub>⭐ 9.4k · TypeScript</sub>
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Rustのコアを持つPolyglotドキュメントインテリジェンス:テキスト、メタデータ、画像、テーブル、および構造化されたデータを106フォーマットから140ファイルエクステンション全体で抽出し、371言語用のコードインテリジェンス。... <sub>⭐ 9.4k · Rust</sub>
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - モデルコンテクストプロトコル(MCP)の実装を進み、LMアプリケーションと外部のデータソースとツール間のシームレスな統合を可能にします。 <sub>⭐ 9.1k · Go</sub>
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - モデルコンテキストプロトコルと簡単なワークフローパターンを使用して効果的なエージェントを構築 <sub>⭐ 8.6k · Python</sub>
+- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - モバイルオートメーションとスクレイピングのためのモデルコンテキストプロトコルサーバー(iOS、Android、エミュレータ、シミュレータおよび実際のデバイス) <sub>⭐ 8.6k · TypeScript</sub>
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - AWSサーバーレス(Lambda、DynamoDB、S3)のオープンソース、セルフホスト型CMSプラットフォーム。マルチテナント、ライフサイクルホック、グラフQL API、およびMCPサーバによるAI支援開発を備えたTypeScriptフレームワーク... <sub>⭐ 8.0k · TypeScript</sub>
+- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Windowsでコンピュータ使用のためのMCPサーバー <sub>⭐ 7.6k · Python</sub>
+- [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Cursor および MCP 互換の IDE から直接ブラウザーログを監視します。 <sub>⭐ 7.3k · TypeScript</sub>
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - モデルコンテキストプロトコル(MCP)サーバー用のコミュニティ駆動レジストリサービス。 <sub>⭐ 7.3k · Go</sub>
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - AI のコーディングエージェントのための永続的なメモリシステム。SQLite + FTS5、MCP サーバー、HTTP API、CLI、TUI で Agent-agnostic Go バイナリーを実行します。 <sub>⭐ 7.0k · Go</sub>
+- [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - iOSとmacOSプロジェクトでエージェントの使用のためのツールを提供するモデルコンテキストプロトコル(MCP)サーバーおよびCLI。 <sub>⭐ 6.5k · TypeScript</sub>
+- [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - 画面上のAIアシスタントをデスクトップに認識します。現在のアプリのコンテキスト、複数のLMS、MCPツールを使用して、アプリケーション全体で機能するのに役立ちます。 <sub>⭐ 6.3k · C#</sub>
+- [epiral/bb-browser](https://github.com/epiral/bb-browser) - お使いのブラウザは、APIです。ログイン状態でChromeを制御するためにAIエージェント用のCLI + MCPサーバーです。 <sub>⭐ 6.2k · TypeScript</sub>
+- [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) - コマンドラインインターフェース(CLI)、モデルコンテキストプロトコル(MCP)サーバー、AIエージェントのスキルを介したGemini Notebookへのプログラマティックアクセス。 <sub>⭐ 6.2k · Python</sub>
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source、デスクトップレベルのAIエージェントは、データ分析、スライド、ドキュメント、ビデオ&ウェブリサーチを実践しています。OpenClawで構築されているため、実際のデスクトップ上のツールを実行し、電話からコマンドを取ることができます... <sub>⭐ 6.1k · TypeScript</sub>
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - 世界初のオープンソースAIネイティブベクターデザインツールと、同時並列エージェントチームを特徴とする初のオープンソース。 デザイン・アコード。ライブキャンバス上で直接UIにプロンプトを入れます。 現代の選択肢は... <sub>⭐ 6.1k · Rust</sub>
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - アトラスシアンツール(Confluence, Jira)のMCPサーバー <sub>⭐ 6.0k · Python</sub>
+- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - Godotゲームエンジンとの対面のためのMCPサーバー。エディタを起動し、プロジェクトを実行したり、デバッグ出力をキャプチャするためのツールを提供します。 <sub>⭐ 5.9k · JavaScript</sub>
+- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - それぞれが自分のコンピュータを取得するAIの共同作業者:ブラウザ、ファイルおよびツール、それが起こる前に決定し、後に記録されたすべてのアクション。 AG-UIエージェントを持参してください。 <sub>⭐ 5.9k · TypeScript</sub>
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:AIエージェントがあらゆる規模で確実にツールを使用することを可能にするMCP統合プラットフォーム <sub>⭐ 5.8k · Python</sub>
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - 便利なスキル、プラグイン、メモリプロバイダ、ツール、表面、およびノーズ研究のオープンソースヘルメスエージェントのためのガイドの独立したディレクトリ。 <sub>⭐ 5.8k</sub>
+- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwrightモデルコンテキストプロトコルサーバー - Claudeデスクトップ、Cline、Cursor IDEなどのブラウザーとAPIを自動化するためのツール <sub>⭐ 5.7k · TypeScript</sub>
+- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ireは、クロスプラットフォームのデスクトップAIアシスタントであるMCPクライアントです。主要なサービスプロバイダと互換性があり、モデルコンテクストプロトコルサーバーを介してローカルナレッジベースおよびツールをサポートしています。 <sub>⭐ 5.4k · TypeScript</sub>
+- [aipoch/open-science](https://github.com/aipoch/open-science) - オープンソースのAIリサーチは、科学的研究とエージェントワークフローのためのワークベンチです。ローカルファースト、モデルアグノスティックデスクトップアプリで拡張可能なスキル、MCPツールやコネクタ、Python/R実行および... <sub>⭐ 5.4k · TypeScript</sub>
+- [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) - アウト・オブ・ザ・ボックスの自動化ツールを備えたエージェント・レディ RPAスイート。個人や企業向けに構築されています。 <sub>⭐ 5.3k · Python</sub>
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP:モデルコンテキストプロトコルを介して、あなたのZooteroの研究ライブラリとClaudeや他のAIアシスタントを接続して、論文を議論し、要約を取得したり、引用を分析します。 <sub>⭐ 5.2k · Python</sub>
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - モデルコンテキストプロトコルサーバーとクライアントの公式Go SDK。 Googleとのコラボレーションで維持されています。 <sub>⭐ 5.2k · Go</sub>
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - SQL Server、DuckDB、ClickHouseおよびRedisを含む3つの組み込みのデータベースドライバと16個の出荷プラグインを備えたオープンソースデスクトップSQLワークスペース。 Claude、Cursor、Devin、SQL用のMCPサーバー内蔵... <sub>⭐ 5.1k · TypeScript</sub>
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServerは、APIをモックし、ライブトラフィックの検査と変更を行い、失敗を注入するためのテスト用のHTTP(S)モックサーバーおよびプロキシです。 HTTP / 1.1、HTTP/2、gRPC、WebSockets、TCPなどをサポートしています。 <sub>⭐ 5.0k · Java</sub>
+- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.devは、600以上のツールを直接関数呼び出しまたは統一されたMCPサーバーを介して任意のエージェントIDEやカスタムAIエージェントに取り込むオープンソースのツール・コールプラットフォームです。 VibeOpsの出生場所。 <sub>⭐ 4.9k · Python</sub>
+- [callstack/agent-device](https://github.com/callstack/agent-device) - iOS、Android、HarmonyOS、TV、Web、macOS、Linux用のCLI、MCPサーバー、およびタイプされたNode.js API。 <sub>⭐ 4.9k · TypeScript</sub>
+- [u14app/deep-research](https://github.com/u14app/deep-research) - ディープリサーチでは、LMS(Large Language Models)を利用しています。 SSE APIとMCPサーバーをサポートします。 <sub>⭐ 4.7k · JavaScript</sub>
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - AIエージェントのハーネスエンジニアリングのための素晴らしいリスト:ツール、パターン、楕円形、メモリ、MCP、パーミッション、保守性、およびオーケストレーション。 <sub>⭐ 4.7k · Python</sub>
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL REST、低コード、開発の簡素化と加速、即時、リアルタイム、任意のPostgresアプリケーションで高性能、既存または新しいMCPサーバー <sub>⭐ 4.6k · Go</sub>
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - MCP、A2A、REST/gRPC API の前面にあるAI Gateway、レジストリおよびプロキシは、一元化された発見、ガードレールと管理で統一されたエンドポイントを公開します。エージェント&ツールを最適化... <sub>⭐ 4.6k · Python</sub>
+- [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - モデルコンテクストプロトコルサーバーとクライアント向けの公式C# SDK。Microsoftとのコラボレーションでメンテナンス <sub>⭐ 4.6k · C#</sub>
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Obsidian rest API コミュニティプラグインを介して Obsidian と相互作用する MCP サーバー <sub>⭐ 4.5k · Python</sub>
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - シンプルでセキュアなMCP-to-OpenAPIプロキシサーバー <sub>⭐ 4.4k · Python</sub>
+- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AIスキル、MCPツール、およびCLI for Unity Engine。 フルAIは開発し、テストループを行います。 クイックセットアップのためにcliを使用してください。 効率的なトークン使用量、高度なツール。 C#メソッドは単一の方法でツールに変えることができます... <sub>⭐ 4.4k · C#</sub>
+- [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - モデルコンテキストプロトコル(MCP)サーバーのキュレーションリスト <sub>⭐ 4.3k</sub>
+- [53AI/53AIHub](https://github.com/53AI/53AIHub) - 53AI Hubは、オープンソースのAIポータルであり、企業知識、AIエージェント、プロンプト、およびAIツールを管理するためのナレッジベースで、Coze、Dify、FastGPT、RAGFlowとシームレスに統合されています。 一个人知 Agent <sub>⭐ 4.3k · Go</sub>
+- [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - リアルタイムのWebダッシュボードとVSCode拡張機能を備えた、AI-assistedソフトウェア開発のための構造化されたスペック主導型の開発ワークフローツールを提供するモデルコンテキストプロトコル(MCP)サーバー。 <sub>⭐ 4.3k · TypeScript</sub>
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - MCP サーバーとCLI ツールで、ローカル コードをグラフ データベースにインデックス化し、AI アシスタントのコンテキストを提供します。 <sub>⭐ 4.2k · Python</sub>
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excelファイル操作用のモデルコンテキストプロトコルサーバ <sub>⭐ 4.2k · Python</sub>
+- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200 + MCP ツール for AI 搭載リバースエンジニアリング。GUI プラグイン + ヘッドレス サーバー、レイジー ツールのロード、慣行の執行、バッチ操作、Ghidra Server インテグレーション、Docker... <sub>⭐ 4.1k · Java</sub>
+- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - AI エージェントのインテグレーション層が不足している。OpenAPI/MCP/GraphQL/カスタム js は安全な環境で機能する。 <sub>⭐ 4.0k · TypeScript</sub>
+- [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for エージェントツール. ここでコミュニティに参加: https://discord.gg/6mQYFFMAn <sub>⭐ 4.0k · Python</sub>
+- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - Linux用のWindowsサブシステムのためのGUI — およびMac上のネイティブLinux / MacOSのVM。 CLIフラグなしでディストリビューターをインストール、バックアップ、移動、構成します。 ツール付きのAIアシスタント、エージェント用MCPサーバー、リモートWSL ... <sub>⭐ 4.0k · Dart</sub>
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - モデルコンテキストプロトコルの公式 Rust SDK <sub>⭐ 4.0k · Rust</sub>
+- [microsoft/mcp](https://github.com/microsoft/mcp) - マイクロソフトの公式MCP(モデルコンテキストプロトコル)サーバーの実装をAI搭載データアクセスとツール統合用にカタログ化 <sub>⭐ 3.7k · C#</sub>
+- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - モデルコンテクストプロトコルサーバーとクライアント向けの公式 Java SDK。 Spring AI とのコラボレーションを維持 <sub>⭐ 3.7k · Java</sub>
+- [opensumi/core](https://github.com/opensumi/core) - フレームワークは、AIネイティブIDE製品を迅速に構築するのに役立ちます。MCPクライアントは、MCPサーバーを介してモデルコンテキストプロトコル(MCP)ツールをサポートしています。 <sub>⭐ 3.7k · TypeScript</sub>
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - トークンは、Postgres、MySQL、SQL Server、Oracle、MariaDB、SQLite用のデータベースMCPサーバーを意識しています。 <sub>⭐ 3.6k · TypeScript</sub>
+- [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) - Google Ads MCP サーバー + Meta Ads MCP (Facebook 広告 MCP) + GA4 + Claude、ChatGPT、Cursor & n8n: 250+ ツール、OAuth ログイン、API キーなし、承認取得済みの書き込み... <sub>⭐ 3.4k</sub>
+- [ascending-llc/jarvis-registry](https://github.com/ascending-llc/jarvis-registry) - 人工知能のコピロットや自動代理店を企業ツールに接続します。シングル、セキュアなMCP/Agentゲートウェイで組み込みアイデンティティ、アクセス制御、および完全な保守性を実現します。 <sub>⭐ 3.3k · Python</sub>
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Gmail、Googleカレンダー、Docs、スプレッドシート、Slide、チャット、フォーム、タスク、検索&ドライブをAIで制御 - 包括的なGoogleワークスペースMCPサーバーとCLIツール <sub>⭐ 3.3k · Python</sub>
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Windows、macOS&Linux用のネイティブローカル開発環境。 XAMPP、MAMP、Laragon、Laravel Herdのモダンな代替手段で、ランタイム、データベース、Webサーバー、ローカルサイト、HTTPS、AIコーディング... <sub>⭐ 3.3k · TypeScript</sub>
+- [av/harbor](https://github.com/av/harbor) - AI スタックの構成を停止します。それを使い始めます。 1 つのコマンドは、何百ものサービスで完全なプレワイヤル LLM スタックを探索できます。 <sub>⭐ 3.2k · Python</sub>
 - [cortex-docs/cortex](https://github.com/cortex-docs/cortex) - Cortex - OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC、Markdown からインタラクティブな API のドキュメント、タイプされた SDK、MCP サーバーを生成します。 <sub>⭐ 3.2k · TypeScript</sub>
-- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable Diffusion, tool calling, and local-network servers.… <sub>⭐ 3.2k · TypeScript</sub>
-- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown <sub>⭐ 3.0k · TypeScript</sub>
-- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. <sub>⭐ 3.0k · TypeScript</sub>
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault. <sub>⭐ 3.0k · TypeScript</sub>
-- [samugit83/redamon](https://github.com/samugit83/redamon) - Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what… <sub>⭐ 2.9k · Python</sub>
-- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS. <sub>⭐ 2.8k · Python</sub>
-- [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) - Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun. <sub>⭐ 2.8k · GDScript</sub>
-- [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker <sub>⭐ 2.7k · TypeScript</sub>
-- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. <sub>⭐ 2.7k · JavaScript</sub>
-- [crbnos/carbon](https://github.com/crbnos/carbon) - Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgres schema, with a REST API and MCP server. Self-host or use Carbon… <sub>⭐ 2.7k · TypeScript</sub>
-- [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server <sub>⭐ 2.6k · Python</sub>
-- [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications. <sub>⭐ 2.6k · Go</sub>
-- [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design. <sub>⭐ 2.5k · Python</sub>
-- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform <sub>⭐ 2.5k · TypeScript</sub>
-- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together. <sub>⭐ 2.5k · TypeScript</sub>
-- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen <sub>⭐ 2.4k · Python</sub>
-- [beenuar/AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT… <sub>⭐ 2.4k · Python</sub>
-- [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API. <sub>⭐ 2.3k · Python</sub>
-- [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no… <sub>⭐ 2.2k · TypeScript</sub>
-- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers. <sub>⭐ 2.2k · Go</sub>
-- [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP is an AI chat client implementing the Model Context Protocol (MCP). <sub>⭐ 2.2k · Dart</sub>
-- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration. <sub>⭐ 2.2k · TypeScript</sub>
-- [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg… <sub>⭐ 2.2k · Zig</sub>
-- [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency… <sub>⭐ 2.1k · JavaScript</sub>
-- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift <sub>⭐ 2.1k · Go</sub>
-- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries. <sub>⭐ 2.1k · JavaScript</sub>
-- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP). <sub>⭐ 2.1k · C++</sub>
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems. <sub>⭐ 2.1k · TypeScript</sub>
-- [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - All-in-One malware analysis tool. <sub>⭐ 2.1k · YARA</sub>
-- [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. <sub>⭐ 2.1k · Python</sub>
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech… <sub>⭐ 2.0k · Python</sub>
-- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. <sub>⭐ 1.9k · TypeScript</sub>
-- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) - Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs <sub>⭐ 1.9k · C#</sub>
-- [isair/jarvis](https://github.com/isair/jarvis) - A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything… <sub>⭐ 1.9k · Python</sub>
-- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. <sub>⭐ 1.9k · Python</sub>
-- [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Multi-engine MCP server, CLI, and local daemon for agent web search and content retrieval — skill-guided workflows, no API keys. <sub>⭐ 1.8k · TypeScript</sub>
-- [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate… <sub>⭐ 1.8k · Go</sub>
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a spec such as OpenAPI. <sub>⭐ 1.8k · TypeScript</sub>
-- [Mcp-Brasil/mcp-brasil](https://github.com/Mcp-Brasil/mcp-brasil) - MCP Server para 70 APIs públicas brasileiras <sub>⭐ 1.8k · Python</sub>
-- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. <sub>⭐ 1.8k · PHP</sub>
-- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools <sub>⭐ 1.8k · TypeScript</sub>
-- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP. <sub>⭐ 1.8k · Go</sub>
-- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents <sub>⭐ 1.8k · Swift</sub>
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament <sub>⭐ 1.7k · PHP</sub>
-- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings. <sub>⭐ 1.7k · Python</sub>
+- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - オフラインAIのスイス軍用ナイフ。電話やMacで画像をチャット、表示、話す、および生成する - GGUF LLM、ビジョン、ウィスパー対テキスト、安定した拡散、ツールコール、ローカルネットワークサーバー。... <sub>⭐ 3.2k · TypeScript</sub>
+- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - ほぼ何でも変換するためのモデルコンテキストプロトコルサーバーがMarkdownに <sub>⭐ 3.0k · TypeScript</sub>
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silexは、動的データで静的なサイトを視覚的に作成するためのオンラインツールです。インターネットの自由/解放精神を使って、一緒に。 <sub>⭐ 3.0k · TypeScript</sub>
+- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - セキュアなREST APIとモデルコンテキストプロトコル(MCP)サーバーで、ボルトの保管を行います。 <sub>⭐ 3.0k · TypeScript</sub>
+- [samugit83/redamon](https://github.com/samugit83/redamon) - オープンソース、自己ホスト型AI貫通テストフレームワーク:あなたの攻撃面をグラフにマップし、自律的に人間の承認ゲートを持つKaliサンドボックスからそれを悪用し、何を修正するPRを開きます... <sub>⭐ 2.9k · Python</sub>
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Googleミート、Microsoft Teams & Zoom 用のオープンソースミーティングのトランスクリプション API。自動ジョイントボット、リアルタイムWebSocketトランスクリプト、AIエージェント向けMCPサーバー。セルフホストまたはホスト付きSaaSの使用。 <sub>⭐ 2.8k · Python</sub>
+- [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) - Godotエンジン用のMCPサーバーとAIツールの生産グレード。 インストールするスナップ。 完全に無料で楽しいです。 <sub>⭐ 2.8k · GDScript</sub>
+- [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCPアグリゲーター、オーケスト、ミドルウェア、1つのドッカーのゲートウェイ <sub>⭐ 2.7k · TypeScript</sub>
+- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - パブリックWebアクセスのためのオールインワンソリューションを提供する強力なモデルコンテキストプロトコル(MCP)サーバー。 <sub>⭐ 2.7k · JavaScript</sub>
+- [crbnos/carbon](https://github.com/crbnos/carbon) - ERP、MES、QMS のオープンソース製造。クッキング、MRP、在庫、ショップフロア、品質およびロット/シリアルトレース機能が 1 つのポストグレススキーマで、REST API と MCP サーバーを使っています。セルフホストまたはカーボンを使用して... <sub>⭐ 2.7k · TypeScript</sub>
+- [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) サーバー <sub>⭐ 2.6k · Python</sub>
+- [go-nunu/nunu](https://github.com/go-nunu/nunu) - Goアプリケーションを構築するCLIツール。 <sub>⭐ 2.6k · Go</sub>
+- [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP は、Claude のような大きな言語モデル (LLM) が直接プリント回路基板の設計のために KiCAD と相互作用できるようにするモデルコンテキストプロトコル(MCP)の実装です。 <sub>⭐ 2.5k · Python</sub>
+- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - Perplexity API プラットフォームの公式 MCP サーバー実装 <sub>⭐ 2.5k · TypeScript</sub>
+- [docmd-io/docmd](https://github.com/docmd-io/docmd) - 人間と機械のためのドキュメントコンパイラ。ウェブサイト、検索、AIのコンテキスト、およびナレッジフォーマットに1つのマークダウンソースを一緒に作成します。 <sub>⭐ 2.5k · TypeScript</sub>
+- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - MCP、OpenAPI、またはGraphQLサーバーをCLIに変える - 実行時、ゼロコーデックスで <sub>⭐ 2.4k · Python</sub>
+- [beenuar/AiSOC](https://github.com/beenuar/AiSOC) - オープンソースのAIセキュリティオペレーションセンター:アラートフュージョン、LM-agentトライエージ、MITRE ATT&CK調査、およびすべてのエージェントステップのための再生可能な決定レジャー。 セルフホスト可能で、APIキーなしで実行し... <sub>⭐ 2.4k · Python</sub>
+- [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) - 金融データセット株式市場APIとやり取りするためのMCPサーバー。 <sub>⭐ 2.3k · Python</sub>
+- [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - 既存のMCP ServerとAPIを即座にゼロコードの変更でMCPサーバーに変換する軽量ゲートウェイサービスです。 Dockerのデプロイメントと管理UIが特徴で、必要な機能はありません。 <sub>⭐ 2.2k · TypeScript</sub>
+- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHiveは、モデルコンテキストプロトコル(MCP)サーバーの実行と管理のためのエンタープライズグレードのプラットフォームです。 <sub>⭐ 2.2k · Go</sub>
+- [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP は、モデルコンテキストプロトコル(MCP)を実装するAIチャットクライアントです。 <sub>⭐ 2.2k · Dart</sub>
+- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - WindowsとmacOS用のオープンソースのAIエージェントデスクトップアプリ。 Claudeコード、MCPツール、スキルをワンクリックでインストールします。サンドボックス分離、マルチモデルのサポート、Feishu/Slack統合機能付きです。 <sub>⭐ 2.2k · TypeScript</sub>
+- [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) - x64dbg-MCP Server は、HTTP 上でデバッガのフル機能を公開する x64dbg 用のネイティブ MCP (Model Context Protocol) プラグインです。 MCP 互換 AI アシスタントを接続し、 x64dbg を制御することができます。 <sub>⭐ 2.2k · Zig</sub>
+- [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - エビのタスクマネージャは、AIエージェントのために構築された作業ツールです, チェーン・オブ・オーダーを強調します。, リフレクション, そしてスタイルの一貫性. これは、依存性で構造化されたdevの仕事に自然言語を変換... <sub>⭐ 2.1k · JavaScript</sub>
+- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - KubernetesとOpenShift用のモデルコンテキストプロトコル(MCP)サーバー <sub>⭐ 2.1k · Go</sub>
+- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - MySQLデータベースへの読み取り専用アクセスを提供するモデルコンテキストプロトコルサーバー。このサーバでは、LMSがデータベーススキーマを検査し、読み込み専用のクエリを実行できます。 <sub>⭐ 2.1k · JavaScript</sub>
+- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Cursor、Windsurf、Claude DesktopなどのAIアシスタントクライアントを有効にして、モデルコンテキストプロトコル(MCP)を使用して自然言語で Unreal Engineを制御することができます。 <sub>⭐ 2.1k · C++</sub>
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) は、自然言語の統合とツールを構築します。長い尾および企業システムのための生産グレードのツールを入手してください。 <sub>⭐ 2.1k · TypeScript</sub>
+- [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - オールインワンマルウェア分析ツール。 <sub>⭐ 2.1k · YARA</sub>
+- [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) - あらゆるゲームでポイント・クラウデ。Claudeコードがあなたが所有するほぼすべてのPCのゲームを修飾させるスキル、ツールおよびfal MCP:recon、リバースエンジニアリング、ファル生成されたアート/3D/audio、ゲーム内テスト、ショーケースのビデオ。 <sub>⭐ 2.1k · Python</sub>
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-6、GPT-5、Gemini、Claude、Grok、Ollama、DeepSeek、PerplexityなどのデスクトップAIアシスタント - チャット、エージェント、ツール、MCP、プラグイン、RAG、ビジョン、音声、画像およびビデオ生成、スピーチ... <sub>⭐ 2.0k · Python</sub>
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - 公式マイクロソフトはMCPサーバーとCLIツールを学習 - リアルタイムで信頼できるMicrosoftのdocs&コードサンプルを持つLMやAIエージェントに電力を供給します。 <sub>⭐ 1.9k · TypeScript</sub>
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) - モデル コンテキストプロトコル (MCP) Unityエディタに接続するためのプラグイン — Cursor、Claudeコード、Codex、WindsurfなどのIDE用に設計 <sub>⭐ 1.9k · C#</sub>
+- [isair/jarvis](https://github.com/isair/jarvis) - コンピュータ(オフラインで動作する)に住んでいる100%プライベートなAI音声アシスタント。Jarvisが部屋の3人目であるかどうかを自然に話し、会話応答を取得します。それはすべてを覚えています... <sub>⭐ 1.9k · Python</sub>
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP サーバーと Claude プラグインは、Postgres のスキルやドキュメントを使用できます。AI コーディングツールがPostgreSQL コードをより良く生成するのに役立ちます。 <sub>⭐ 1.9k · Python</sub>
+- [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - エージェントのWeb検索とコンテンツ検索のためのマルチエンジンMCPサーバー、CLIおよびローカルデーモン — スキルガイドワークフロー、APIキーなし。 <sub>⭐ 1.8k · TypeScript</sub>
+- [zzet/gortex](https://github.com/zzet/gortex) - AIエージェントとIDEの高性能なコード・インテリッスエンジンは、CLI、MCP Server、API経由でアクセスできるグラフに基づいて257言語、マルチリポジトリをサポートしています。 AIコーディングエージェントがチームメイト... <sub>⭐ 1.8k · Go</sub>
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - API のスペックをタイプセーフなコードに変えます。OpenAPI などの仕様から TypeScript タイプ、API クライアント、ホック、バリデータおよびモックを生成することができます。 <sub>⭐ 1.8k · TypeScript</sub>
+- [Mcp-Brasil/mcp-brasil](https://github.com/Mcp-Brasil/mcp-brasil) - ブラジルのパブリックAPI70用MCPサーバー <sub>⭐ 1.8k · Python</sub>
+- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - MCP アダプターは、Abilities API を Model Context Protocol に橋渡しし、MCP クライアントが WordPress プラグインやテーマ、コアの能力をプログラム的に発見および呼び出すことを可能にします。 <sub>⭐ 1.8k · PHP</sub>
+- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - 基づいたDocs MCPサーバー:Context7、NiaおよびRef.Toolsへのオープンソースの代替 <sub>⭐ 1.8k · TypeScript</sub>
+- [julien040/anyquery](https://github.com/julien040/anyquery) - 60以上のツール(GitHub、Notion、Airtableなど)用の1つのSQLインターフェイス。 MCPを介して任意のLMに接続します。 <sub>⭐ 1.8k · Go</sub>
+- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - ネイティブのmacOS App Store MCPでツールを接続します。 iOSアプリをApp StoreにAIエージェントと入力 <sub>⭐ 1.8k · Swift</sub>
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - ネイティブAIエージェントのサポートによるオープンソースCRM。37 MCPツール、REST API、セルフホスト。Laravel&Filamentで構築 <sub>⭐ 1.7k · PHP</sub>
+- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP サーバは、Telethon が MCP クライアントのチャットを読み込み、グループを管理するため、メッセージ、メディア、連絡先、設定を送信/変更します。 <sub>⭐ 1.7k · Python</sub>
 - [aklivity/zilla](https://github.com/aklivity/zilla) - イベント主導のアプリケーションとAIエージェントのための軽量でマルチプロトコルゲートウェイ。 Kafka、MQTT、API および MCP を 1 つの高性能エンジンを介して共有ルーティング、セキュリティ... <sub>⭐ 1.7k · Java</sub>
-- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or local models. For authorized security research only. <sub>⭐ 1.7k · Python</sub>
-- [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) - A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access <sub>⭐ 1.7k · TypeScript</sub>
-- [DataTalksClub/ai-dev-tools-zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - A free, hands-on course on using AI developer tools to build, test, deploy, extend, and audit software without losing engineering discipline. The 2026 cohort starts August 31. <sub>⭐ 1.7k · Python</sub>
-- [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API <sub>⭐ 1.6k · TypeScript</sub>
-- [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP). <sub>⭐ 1.6k · JavaScript</sub>
-- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - Korea Investment & Securities Open API Github <sub>⭐ 1.6k · Python</sub>
-- [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport. <sub>⭐ 1.6k · Go</sub>
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. <sub>⭐ 1.6k · PHP</sub>
-- [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more. <sub>⭐ 1.6k · Python</sub>
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support. <sub>⭐ 1.6k · Python</sub>
-- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics. <sub>⭐ 1.6k · Go</sub>
-- [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg) - Model Context Protocol for WinDbg. <sub>⭐ 1.6k · Python</sub>
-- [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. <sub>⭐ 1.6k · Python</sub>
-- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs. <sub>⭐ 1.6k · Python</sub>
-- [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. <sub>⭐ 1.6k · TypeScript</sub>
-- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation <sub>⭐ 1.5k · Python</sub>
-- [RTGS2017/NagaAgent](https://github.com/RTGS2017/NagaAgent) - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration. <sub>⭐ 1.5k · Python</sub>
-- [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more <sub>⭐ 1.5k · Kotlin</sub>
-- [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. <sub>⭐ 1.5k · Go</sub>
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores. <sub>⭐ 1.5k · C#</sub>
-- [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing. <sub>⭐ 1.5k · Python</sub>
-- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients. <sub>⭐ 1.5k · Swift</sub>
-- [nduckmink/arkon](https://github.com/nduckmink/arkon) - Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol… <sub>⭐ 1.5k · Python</sub>
-- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows. <sub>⭐ 1.5k · TypeScript</sub>
-- [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server <sub>⭐ 1.5k · TypeScript</sub>
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains <sub>⭐ 1.5k · Kotlin</sub>
-- [yc-duan/fastctx](https://github.com/yc-duan/fastctx) - Fast, context-efficient repository tools for AI agents (MCP) <sub>⭐ 1.4k · Rust</sub>
-- [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, tamper-evident SHA-256 chain with RFC 3161 anchoring, 20 MCP tools. <sub>⭐ 1.4k · Python</sub>
-- [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases <sub>⭐ 1.4k · Python</sub>
-- [taielab/awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) - A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contribute, and enhance your hacking toolkit! <sub>⭐ 1.4k</sub>
-- [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API. <sub>⭐ 1.4k · TypeScript</sub>
-- [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) - MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants <sub>⭐ 1.4k · TypeScript</sub>
-- [Dataojitori/nocturne_memory](https://github.com/Dataojitori/nocturne_memory) - A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model… <sub>⭐ 1.4k · Python</sub>
-- [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own. <sub>⭐ 1.4k · TypeScript</sub>
-- [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS. <sub>⭐ 1.4k · TypeScript</sub>
-- [strands-agents/tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities. <sub>⭐ 1.3k · Python</sub>
-- [rinadelph/Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Agent-MCP is a framework for creating multi-agent systems that enables coordinated, efficient AI collaboration through the Model Context Protocol (MCP). The system is designed for developers building… <sub>⭐ 1.3k · TypeScript</sub>
-- [higress-group/himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages… <sub>⭐ 1.3k · Java</sub>
-- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - Model Context Protocol (MCP) Server for Jupyter. <sub>⭐ 1.3k · Python</sub>
-- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on… <sub>⭐ 1.3k · Java</sub>
-- [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is… <sub>⭐ 1.3k · Python</sub>
-- [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project… <sub>⭐ 1.3k · JavaScript</sub>
-- [affaan-m/agentshield](https://github.com/affaan-m/agentshield) - AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. <sub>⭐ 1.2k · TypeScript</sub>
-- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io <sub>⭐ 1.2k · Go</sub>
-- [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources) - A repository of servers and clients from the Model Context Protocol tutorials <sub>⭐ 1.2k · TypeScript</sub>
+- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - インタラクティブなREPL、MCPサーバー、およびCLI 20ツールを備えたAI搭載OSINTエージェント。 Claude、GPT-4、またはローカルモデルで動作します。認定されたセキュリティ調査のみのため。 <sub>⭐ 1.7k · Python</sub>
+- [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) - 安全なObsidianボルトアクセスのための軽量モデルコンテキストプロトコル(MCP)サーバー <sub>⭐ 1.7k · TypeScript</sub>
+- [DataTalksClub/ai-dev-tools-zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - エンジニアリングの規律を失うことなく、AI開発者ツールを使用して無料で実践的なコースを作成、テスト、デプロイ、拡張、および監査ソフトウェア。 2026コホートは8月31日から始まります。 <sub>⭐ 1.7k · Python</sub>
+- [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - n8n API とやり取りするためのツールやリソースを提供する MCP サーバー <sub>⭐ 1.6k · TypeScript</sub>
+- [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - モデルコンテキストプロトコル(MCP)に基づいて12306のチケット検索サーバーです。 <sub>⭐ 1.6k · JavaScript</sub>
+- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - 韓国投資&証券オープンAPI Github <sub>⭐ 1.6k · Python</sub>
+- [f/mcptools](https://github.com/f/mcptools) - MCP (Model Context Protocol) サーバーと stdio および HTTP トランスポートの両方を使用してやり取りするためのコマンドラインインターフェイスです。 <sub>⭐ 1.6k · Go</sub>
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - モデルコンテクストプロトコルサーバーとクライアント向けの公式のPHP SDKです。 <sub>⭐ 1.6k · PHP</sub>
+- [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Claude 27 のセキュリティインテリジェンスツールを 21 API 全体で提供しているプロダクショングレード MCP サーバー — CVE ルックアップ、EPSS スコーリング、CISA KEV、MITRE ATT&CK、Shodan、VrusTotal など。 <sub>⭐ 1.6k · Python</sub>
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - 高性能なOpenAIとApple Silicon用のAnthropic互換LLMインフェレンスサーバー。ネイティブMLX、連続バッチ、マルチモーダルモデル、MCPツールコール、Claudeコードサポート <sub>⭐ 1.6k · Python</sub>
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server は、MCP 対応のクライアントが get 定義、参照、名前変更および診断などの管理ツールにアクセスします。 <sub>⭐ 1.6k · Go</sub>
+- [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg) - WinDbg のモデルコンテキストプロトコル。 <sub>⭐ 1.6k · Python</sub>
+- [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - 公式 data.gouv.fr モデルコンテキストプロトコル (MCP) は、AIチャットボットがフランス語のナショナルオープンデータプラットフォームからのデータセットを検索し、探索および分析できるようにするサーバーです。 <sub>⭐ 1.6k · Python</sub>
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - 強力なテキストと音声、画像生成およびビデオ生成 API との相互作用を可能にする公式ミニマックスモデルコンテキストプロトコル(MCP)サーバー。 <sub>⭐ 1.6k · Python</sub>
+- [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - プラグインアンドプレイライブラリは、エージェントがMCPとUTCPツールをコード実行で呼び出すことを可能にします。 <sub>⭐ 1.6k · TypeScript</sub>
+- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - 公式のQdrantモデルコンテキストプロトコル(MCP)サーバ実装 <sub>⭐ 1.5k · Python</sub>
+- [RTGS2017/NagaAgent](https://github.com/RTGS2017/NagaAgent) - インテリジェントなインタラクション、マルチエージェントのコラボレーションとシームレスなツール統合を可能にするように設計された、パーソナルアシスタント用のシンプルで強力なエージェントフレームワーク。 <sub>⭐ 1.5k · Python</sub>
+- [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - ビルトインMCPツーリング、AI支援分析、プライバシーコントロール、パッシブおよびアクティブスキャンなどを追加したBurp Suite拡張 <sub>⭐ 1.5k · Kotlin</sub>
+- [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - モデルルーティング、マルチモーダルチャット、ファイル、ツール、課金、アイデンティティ、および操作のためのエンタープライズAIワークスペース。 <sub>⭐ 1.5k · Go</sub>
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API ビルダーは、最新の REST, GraphQL エンドポイントと MCP ツールを Azure データベースやオンプレミスストアに提供します。 <sub>⭐ 1.5k · C#</sub>
+- [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - DuckDuckGoによるWeb検索機能を提供するモデルコンテキストプロトコル(MCP)サーバーは、コンテンツの取得と解析のための追加機能を備えています。 <sub>⭐ 1.5k · Python</sub>
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - モデルコンテキストプロトコルサーバーとクライアント向けの公式Swift SDK。 <sub>⭐ 1.5k · Swift</sub>
+- [nduckmink/arkon](https://github.com/nduckmink/arkon) - Arkon:エンタープライズAIナレッジハブ&MCPサーバー。 RAGのコンテキスト、アクセスポリシー、およびAIスキルを管理するチームのためのセルフホスト型の知識ベース。 モデルコンテクストプロトコルを介してClaudeや他のLMを接続します... <sub>⭐ 1.5k · Python</sub>
+- [limecloud/lime](https://github.com/limecloud/lime) - コーディング、ファイル、ターミナル、ツール、研究、コンテンツ、マルチモーダルワーク、および複数のエージェントワークフローのためのフルスタックAIエージェント。 <sub>⭐ 1.5k · TypeScript</sub>
+- [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io モデル コンテキストプロトコル (MCP) サーバー <sub>⭐ 1.5k · TypeScript</sub>
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - モデルコンテクストプロトコルサーバーとクライアントの公式Kotlin SDK。JetBrainsとのコラボレーションで維持 <sub>⭐ 1.5k · Kotlin</sub>
+- [yc-duan/fastctx](https://github.com/yc-duan/fastctx) - AIエージェント(MCP)用の高速でコンテキスト効率の高いリポジトリツール <sub>⭐ 1.4k · Rust</sub>
+- [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - AI の取引代理店のための決定的な監査の道+永続記憶。 Outcome-weighted recall、RFC 3161 のアンカー、20 MCP 用具が付いているタンパー明白な SHA-256 鎖。 <sub>⭐ 1.4k · Python</sub>
+- [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - MySQLデータベースとの安全なやり取りを可能にするモデルコンテキストプロトコル(MCP)サーバー <sub>⭐ 1.4k · Python</sub>
+- [taielab/awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) - 複数のドメイン間でトップレベルのペネトレーションテストツールと生産性ユーティリティのキュレーションコレクション。ハッキングツールキットを探索、貢献し、強化するために私たちに参加してください! <sub>⭐ 1.4k</sub>
+- [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - モデルコンテキストプロトコル(MCP)とREST APIを使用して、TikTok、Instagramリール、YouTubeショートカット用のショートビデオを作成します。 <sub>⭐ 1.4k · TypeScript</sub>
+- [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) - Apple Developerドキュメンテーション用のMCPサーバー - iOS / MacOS / SwiftUI / UIKitドキュメント、WWDCビデオ、Claude、Curesor&AIアシスタントでSwift/Objective-C APIとコード例を検索 <sub>⭐ 1.4k · TypeScript</sub>
+- [Dataojitori/nocturne_memory](https://github.com/Dataojitori/nocturne_memory) - MCP エージェントの軽量でロールバック可能、視覚的な長期メモリ サーバー。Vector RAG とアンネシアによならしましょう。AI を永続的にエンパワーし、あらゆるモデル間でグラフのような構造化されたメモリーを... <sub>⭐ 1.4k · Python</sub>
+- [sourcey/sourcey](https://github.com/sourcey/sourcey) - OpenAPI、MCP、Doxygen、およびMarkdownガイドからの精密文書。 静的なHTMLを所有しています。 <sub>⭐ 1.4k · TypeScript</sub>
+- [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - カレンダー同期ツールとユニバーサルカレンダーMCPサーバー。 Google、Outlook、Office 365、iCloud、CalDAVまたはICS上のカレンダーを集計、同期および制御します。 <sub>⭐ 1.4k · TypeScript</sub>
+- [strands-agents/tools](https://github.com/strands-agents/tools) - エージェントの強力な機能を与えるツールのセット。 <sub>⭐ 1.3k · Python</sub>
+- [rinadelph/Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Agent-MCP は、モデルコンテキストプロトコル (MCP) による協調的で効率的な AI コラボレーションを可能にするマルチエージェントシステムを作成するフレームワークです。このシステムは、開発者が構築する設計をしています。 <sub>⭐ 1.3k · TypeScript</sub>
+- [higress-group/himarket](https://github.com/higress-group/himarket) - HiMarketは、エンタープライズレベルの「AI機能市場と開発者エコシステムハブ」です。従来のAPIの単なる集計ではなく、パッケージを包括するプラットフォームではありません。 <sub>⭐ 1.3k · Java</sub>
+- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - Jupyter 用のモデルコンテキストプロトコル(MCP)サーバー。 <sub>⭐ 1.3k · Python</sub>
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — 物理世界をAIに接続します。物理的なAIのためのオープンソースの産業IoTランタイム: 36プロトコルドライバ、エッジツークラウドデータ配信、MCPツールゲートウェイなど、AIエージェントが機能する... <sub>⭐ 1.3k · Java</sub>
+- [2akouwu/reverify](https://github.com/2akouwu/reverify) - 物事を上げるからあなたのAIを停止する - それは提案します, 決定的なツールを決定します, すべての主張は、証拠と地上の真実に対してチェック. グラウンド化された事実や状況がリセット生き残ります. リバースエンジニアリングは... <sub>⭐ 1.3k · Python</sub>
+- [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - AIエージェントとアシスタントのための個人コンテキストストア - 既存のコーディングエージェント CLI (Codex/Claude/OpenCode) を組み込みのスキル/ツールとデスクトップGUIを使用して、プロジェクトをキャプチャ、検索および再利用します。 <sub>⭐ 1.3k · JavaScript</sub>
+- [affaan-m/agentshield](https://github.com/affaan-m/agentshield) - AIエージェントのセキュリティスキャナー。エージェント構成、MCPサーバー、ツール権限で脆弱性を検出します。 CLI、GitHub Action、ECCプラグイン、および GitHub App統合として利用できます。 <sub>⭐ 1.2k · TypeScript</sub>
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - いくつかの行でモデルコンテキストプロトコルサーバーを記述します。 https://mcpgolang.com でドキュメントを作成します。 https://metoro.io <sub>⭐ 1.2k · Go</sub>
+- [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources) - モデルコンテキストプロトコルチュートリアルからサーバーとクライアントのリポジトリ <sub>⭐ 1.2k · TypeScript</sub>
 
 ## 🚪 LLMのゲートウェイ、プロキシ、API
 
 > モデル呼び出しのためのルーティング、キャッシュ、制限、オブザーバビリティの層。
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. <sub>⭐ 109.1k · Go</sub>
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok… <sub>⭐ 53.9k · Go</sub>
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for… <sub>⭐ 49.2k · Go</sub>
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private. <sub>⭐ 47.7k · Python</sub>
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted… <sub>⭐ 30.2k · TypeScript</sub>
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and… <sub>⭐ 26.0k · TypeScript</sub>
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard… <sub>⭐ 23.0k · Dockerfile</sub>
-- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar <sub>⭐ 22.5k · Python</sub>
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative… <sub>⭐ 22.2k · TypeScript</sub>
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. <sub>⭐ 21.5k · Jupyter Notebook</sub>
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ <sub>⭐ 17.1k · Go</sub>
-- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code <sub>⭐ 16.8k · TypeScript</sub>
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN… <sub>⭐ 14.7k · Python</sub>
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA… <sub>⭐ 14.5k · Go</sub>
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. <sub>⭐ 12.6k · Python</sub>
-- [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai <sub>⭐ 12.1k · TypeScript</sub>
-- [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer <sub>⭐ 11.9k · Python</sub>
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. <sub>⭐ 11.1k · Python</sub>
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites.… <sub>⭐ 9.6k · Python</sub>
-- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API (API Keys) <sub>⭐ 9.0k · JavaScript</sub>
-- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok… <sub>⭐ 8.8k · JavaScript</sub>
-- [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. <sub>⭐ 8.5k · Go</sub>
-- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider <sub>⭐ 7.6k · TypeScript</sub>
-- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry <sub>⭐ 7.5k · Python</sub>
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system. <sub>⭐ 7.4k · Java</sub>
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it. <sub>⭐ 7.0k · TypeScript</sub>
-- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - (EMNLP'23, ACL'24) To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. <sub>⭐ 6.7k · Python</sub>
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402. <sub>⭐ 6.6k · TypeScript</sub>
-- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for… <sub>⭐ 6.5k · TypeScript</sub>
-- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. <sub>⭐ 6.5k · Swift</sub>
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - A programmable Mixture-of-Models router for heterogeneous LLM inference <sub>⭐ 6.0k · Go</sub>
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents. <sub>⭐ 6.0k · JavaScript</sub>
-- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. <sub>⭐ 5.9k · Rust</sub>
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI <sub>⭐ 5.5k · Python</sub>
-- [looplj/axonhub](https://github.com/looplj/axonhub) - Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. <sub>⭐ 5.3k · Go</sub>
-- [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) - Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. <sub>⭐ 5.2k · TypeScript</sub>
-- [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing <sub>⭐ 4.9k · TypeScript</sub>
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. <sub>⭐ 4.7k · TypeScript</sub>
-- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems. <sub>⭐ 4.5k · Python</sub>
-- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs <sub>⭐ 4.3k · Python</sub>
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling <sub>⭐ 4.3k · Go</sub>
-- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code! <sub>⭐ 4.1k · TypeScript</sub>
-- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source. <sub>⭐ 4.0k · TypeScript</sub>
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project <sub>⭐ 3.5k · Python</sub>
-- [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file. <sub>⭐ 3.4k · Python</sub>
-- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one… <sub>⭐ 3.3k · Rust</sub>
-- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and… <sub>⭐ 3.3k · Rust</sub>
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer. <sub>⭐ 3.3k · Python</sub>
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - いくつかのトークンがトリックを行うときに多くのトークンを使用する理由. バイラルスキル + 洞窟のように話して、トークンの65%をカットするコーディングエージェントのためのプロキシ. <sub>⭐ 109.1k · Go</sub>
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - アンチグラビティをラップ, ChatGPTコーデックス, クロードコード, グルークビルド, Muse コード, Davin as OpenAI/Gemini/Claude/Codex互換 API サービス, あなたは無料のジオミニシリーズを楽しむことを可能にします, GPT シリーズ, Grok... <sub>⭐ 53.9k · Go</sub>
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - 集計と配布のための統一されたAIモデルハブ。 これは、OpenAI互換のClaude互換、またはGemini互換フォーマットにさまざまなLLMを横断的に変換するサポートです。... <sub>⭐ 49.2k · Go</sub>
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - ローカルLLM用のオープンソースデスクトップアプリ。テキスト、ビジョン、ツール呼び出し、OpenAI/Anthropic-compatible API。100%プライベート <sub>⭐ 47.7k · Python</sub>
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 1 ヶ月あたりの 7.4 億トークン。 34 無料の LLM プロバイダー。 635 の無料モデルエンドポイント。1 /v1 エンドポイントの背後にあるすべてのカスタム OpenAI 互換エンドポイント。スマートルーティング、自動フェイルオーバ、暗号化... <sub>⭐ 30.2k · TypeScript</sub>
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee - Node.js用のWebスクレイピングとブラウザの自動化ライブラリは、信頼できるクローラーを構築します。 JavaScriptとTypeScriptで。 AI、LM、RAG、またはGPTsのためのデータを抽出します。 HTML、PDF、JPG、PNGをダウンロードし、... <sub>⭐ 26.0k · TypeScript</sub>
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - セルフホスティングガイド。ローカルホスティング(オンサイト&プライベートWebサーバー)に関するすべてを学び、自分自身や組織によってソフトウェアアプリケーションを管理することができます。クラウド、LM、WireGuardなどを含む... <sub>⭐ 23.0k · Dockerfile</sub>
+- [jundot/omlx](https://github.com/jundot/omlx) - macOSメニューバーから管理されたApple Siliconの連続バッチ&SSDキャッシュを備えたLMインフェレンスサーバー <sub>⭐ 22.5k · Python</sub>
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - ログ、メトリック、トレース、RUM(web、アンドロイド、ios)、セッションの再生、パイプライン、SLOおよびLLMの観察性のためのオープンソースの保守性のプラットフォーム。洗練されたシンプルで非常に実行可能な代替... <sub>⭐ 22.2k · TypeScript</sub>
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - エンドツーエンド、生産グレードのGenAIエージェントを構築するためのコードファーストチュートリアル。 プロトタイプからエンタープライズ展開まで。 <sub>⭐ 21.5k · Jupyter Notebook</sub>
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Kubernetesのマルチクラウド、データセンター、エッジ管理に適したコンテナプラットフォーム <sub>⭐ 17.1k · Go</sub>
+- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - OpenAI Codex & Claudeコード用のユニバーサルプロバイダープロキシ — 任意のLLM(Claude、Gemini、Grek、DeepSeek、Ollama...)をCodex CLI、App、SDK、およびClaudeコードで使用 <sub>⭐ 16.8k · TypeScript</sub>
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV(顕著なRwaKuv)は、GPTトランス(並列可能)のように直接訓練することができる素晴らしいLLM性能を備えたRNNです。 我々はRWKV-7「Goose」にあります。 そのため、それは最高のRTNを組み合わせたものです... <sub>⭐ 14.7k · Python</sub>
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - OpenClaw、MCP、OAuth、OIDC、SAML、CAS、LDAP、SCIM、WebAuthn、TOTP、MFAなどのウェブUIに対応したオープンソースのエージェントファースト・アイデンティティとアクセス管理(IAM)/LLM MCP&エージェントゲートウェイおよびauthサーバー。 <sub>⭐ 14.5k · Go</sub>
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - DeepSeekやLlamaなどのオープンソースLMを実行し、クラウド上でOpenAI互換APIエンドポイントとして実行します。 <sub>⭐ 12.6k · Python</sub>
+- [jina-ai/reader](https://github.com/jina-ai/reader) - URLをLLMフレンドリー入力に簡単にプレフィックス https://r.jina.ai に変換 <sub>⭐ 12.1k · TypeScript</sub>
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache:最速のKVキャッシュレイヤーでLMをスーパーチャージャー <sub>⭐ 11.9k · Python</sub>
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - ASR、スピーカーのダイアライゼーション、翻訳、OpenAI/Deepgram互換 API をストリーミングするリアルタイムでローカルな音声テキスト。 <sub>⭐ 11.1k · Python</sub>
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee - Python用のWebスクレイピングとブラウザの自動化ライブラリは、信頼できるクローラーを構築します。 AI、LM、RAG、またはGPTsのためのデータを抽出します。 HTML、PDF、JPG、PNGなどのウェブサイトからファイルをダウンロードしてください。... <sub>⭐ 9.6k · Python</sub>
+- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - 永久無料LM API(APIキー)の一覧 <sub>⭐ 9.0k · JavaScript</sub>
+- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Antigravity、Codex、Grok、Kiro、OpenAI、Claude、およびカスタムプロバイダ用のセルフホスト型マルチプロトコルAI APIプロキシ。 OpenAI互換API、Claude API、Geminiプロトコル変換、GPT、Grkをサポート... <sub>⭐ 8.8k · JavaScript</sub>
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) - 適応荷重バランサ、クラスタモード、ガードレール、1000以上のモデル対応と5k RPSで100μsのオーバーヘッドに対応。 <sub>⭐ 8.5k · Go</sub>
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - エージェントとハーネスを任意のプロバイダーに接続 <sub>⭐ 7.6k · TypeScript</sub>
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - OpenTelemetryに基づくGenAIまたはLMアプリケーション用のオープンソースの保守性 <sub>⭐ 7.5k · Python</sub>
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - AI搭載次世代オープンソースのリアルタイム観測システム。 <sub>⭐ 7.4k · Java</sub>
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 耐久性のある承認と検証可能な実行レコードを備えたセルフホスト型のTypeScriptエージェントランタイム。それを所有し、それを承認して監査します。 <sub>⭐ 7.0k · TypeScript</sub>
+- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - (EMNLP'23、ACL'24) LLMの推論をスピードアップし、LLMのキー情報の知覚を高めるために、最小限の性能損失で最大20倍の圧縮を達成するプロンプトとKV-Cacheを圧縮します。 <sub>⭐ 6.7k · Python</sub>
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - エージェントネイティブLLMルータは、オートノマイズのエージェントです。 1つのウォレットから1つずつ前のモデルをそれぞれに、<1msローカルルーティング、ベース&ソルナでのUSDC支払いx402で行います。 <sub>⭐ 6.6k · TypeScript</sub>
+- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV管理とスタートアップツール、フルオートメーション、わずか8MB。 そしてOpenAI APIとの互換性のあるインターフェイスを提供します。 RWKVは完全にオープンソースであり、利用可能な大規模な言語モデルです... <sub>⭐ 6.5k · TypeScript</sub>
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Mac上で既に無料のAI。 CLIツール、OpenAI互換サーバー、およびインタラクティブチャット — Apple Intelligence経由でのすべてのオンデバイス。 APIキー、クラウドなし、ダウンロードはありません。 <sub>⭐ 6.5k · Swift</sub>
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - プログラマブルなMixture-of-Modelsルータ(ヘテロ系LLM推論) <sub>⭐ 6.0k · Go</sub>
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - OpenAI API、Ollama、Deepseek-r1、AzureおよびOpenAI API互換サービスを使用してPaintless-ngx用の自動化されたドキュメントアナライザは、文書を自動的に分析し、タグ付けします。 <sub>⭐ 6.0k · JavaScript</sub>
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - Pure-Rust WebGPU 推論エンジン — OpenAI-API 互換、GGUF ネイティブが GPU で実行します。 Python はありません。llama.cpp. 単一バイナリ。 <sub>⭐ 5.9k · Rust</sub>
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Kokoro-82M のテキスト・ツー・スピーナ w/multiplatform CPU、AMD、NVIDIA GPU PyTorch 用の Dockerized OpenAI 互換ラッパー。マルチスピーカー、クローン調整、キャプションタイムスタンプ、SSML、オプションの readalong Web UI <sub>⭐ 5.5k · Python</sub>
+- [looplj/axonhub](https://github.com/looplj/axonhub) - オープンソースのAIゲートウェイ — 100 + LLMを呼び出すためにSDKを使用する。 内蔵フェイルオーバー、ロードバランシング、コストコントロールとエンドツーエンドトレース。 <sub>⭐ 5.3k · Go</sub>
+- [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) - AIエージェントハーネスの保守性と執行性。ポリシー施行により、すべての実行時間とランタイムの信頼性をキャプチャします。 <sub>⭐ 5.2k · TypeScript</sub>
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) - LLM評価とAIエージェントテストのプラットフォーム <sub>⭐ 4.9k · TypeScript</sub>
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - AIエージェントのオープンソースの保守性。 エージェントが失敗した場所を見つけて、コーディング担当者をディスパッチして修正し、実際のトレースに対する修正を確認します。 <sub>⭐ 4.7k · TypeScript</sub>
+- [pydantic/logfire](https://github.com/pydantic/logfire) - LLMおよび代理店システムを製造するためのAIの保守性プラットフォーム。 <sub>⭐ 4.5k · Python</sub>
+- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - LLM 用推論プロキシの最適化 <sub>⭐ 4.3k · Python</sub>
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPFの観察性-分散トレースおよびプロファイリング <sub>⭐ 4.3k · Go</sub>
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換サーバーに切り替えます。 Claudeコードで使用可能です! <sub>⭐ 4.1k · TypeScript</sub>
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - Claudeコードの欠落した DevTools — セッションログ、ツールコール、トークン使用量、サブエージェント、およびコンテキストウィンドウをビジュアルUIで検査します。 無料、オープンソースです。 <sub>⭐ 4.0k · TypeScript</sub>
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SREエージェント - CNCFサンドボックスプロジェクト <sub>⭐ 3.5k · Python</sub>
+- [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) - Google GeminiのWebをOpenAI互換APIに変換します。 ゼロオース、クロスプラットフォーム、単一ファイル。 <sub>⭐ 3.4k · Python</sub>
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - ChatGPT、Codex CLI、およびClaude Codeアカウントを管理し、1つの場所でクォータを追跡します。 優先順位と自動フェイルオーバーでマルチモデルのスマートなルーティングを使用します。 AIツールをインストールして、ローカルLMを1つに展開してください。 <sub>⭐ 3.3k · Rust</sub>
+- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard は、LLM アプリケーションがモデルとプロバイダ間でトラフィックをルート化し、ネイティブ OpenAI および Anthropic API の互換性を維持しながら、柔軟なモデル選択、ベンチマーク、そして... <sub>⭐ 3.3k · Rust</sub>
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Claudeコード、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi/Kimi Code、Pi、HermesからCoding Agent APIのトラフィックをローカルトレースビューアに傍受し検査します。 <sub>⭐ 3.3k · Python</sub>
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! GPT-5 & Realtime WebRTC対応 <sub>⭐ 3.2k · Ruby</sub>
-- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude… <sub>⭐ 3.1k · JavaScript</sub>
-- [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing <sub>⭐ 3.0k · Python</sub>
-- [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <sub>⭐ 2.3k · Python</sub>
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway <sub>⭐ 2.2k · Go</sub>
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0. <sub>⭐ 2.1k · Python</sub>
-- [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0. <sub>⭐ 2.1k · TypeScript</sub>
-- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps. <sub>⭐ 2.0k · Python</sub>
-- [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor) - 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed. <sub>⭐ 2.0k · Python</sub>
-- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs. <sub>⭐ 1.9k · Haskell</sub>
-- [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - OpenAI-compatible proxy for ChatGPT Codex Responses API <sub>⭐ 1.8k · TypeScript</sub>
-- [0xSero/turboquant](https://github.com/0xSero/turboquant) - TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration <sub>⭐ 1.8k · Python</sub>
-- [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) - A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具） <sub>⭐ 1.7k · JavaScript</sub>
-- [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) - Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advanced routing choose hosted OrcaRouter <sub>⭐ 1.7k · Python</sub>
-- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. <sub>⭐ 1.7k · Zig</sub>
-- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. <sub>⭐ 1.7k · TypeScript</sub>
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs… <sub>⭐ 1.7k · TypeScript</sub>
-- [hhhuang/CAG](https://github.com/hhhuang/CAG) - Cache-Augmented Generation: A Simple, Efficient Alternative to RAG <sub>⭐ 1.6k · Python</sub>
-- [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - OpenAI & Ollama compatible API powered by Codex <sub>⭐ 1.6k · Python</sub>
-- [uccl-project/uccl](https://github.com/uccl-project/uccl) - UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven) <sub>⭐ 1.5k · C++</sub>
-- [ovg-project/kvcached](https://github.com/ovg-project/kvcached) - Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond <sub>⭐ 1.5k · Python</sub>
-- [TokenRhythm/NeoHorse](https://github.com/TokenRhythm/NeoHorse) - NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness. <sub>⭐ 1.5k · Python</sub>
-- [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale… <sub>⭐ 1.5k · Python</sub>
-- [DrJonaC/Pensieve](https://github.com/DrJonaC/Pensieve) - Observe how memory shapes an answer. Pensieve is an interactive system for visualizing, interpreting, and managing how Large Language Models (LLMs) “remember” a user. It bridges the gap between… <sub>⭐ 1.4k · TypeScript</sub>
-- [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) - Unified KV Cache Compression Methods for Auto-Regressive Models <sub>⭐ 1.4k · Python</sub>
-- [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability… <sub>⭐ 1.3k · Rust</sub>
-- [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy <sub>⭐ 1.3k · Rust</sub>
-- [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing. <sub>⭐ 1.2k · Python</sub>
-- [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress) - LLM KV cache compression made easy <sub>⭐ 1.2k · Python</sub>
-- [Zefan-Cai/R-KV](https://github.com/Zefan-Cai/R-KV) - (Neurips 2025) R-KV: Redundancy-aware KV Cache Compression for Reasoning Models <sub>⭐ 1.2k · Python</sub>
+- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Windsurf / Devin Desktopの100以上のAIモデル(Claude、GPT、Gemini、DeepSeek、Kimi、GLM、SWE)をOpenAI-、Anthropic-& Gemini互換APIに切り替えます。 ゼロ依存性セルフホスト型リバースプロキシ for Claude ... <sub>⭐ 3.1k · JavaScript</sub>
+- [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter:LMルーティング用のオープンソースライブラリ <sub>⭐ 3.0k · Python</sub>
+- [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer) 用のプロキシ API ゲートウェイ。任意のクライアントで無料の Claude モデルを使用します。 <sub>⭐ 2.3k · Python</sub>
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Envoy Gateway上に構築されたAIサービスへの統合アクセスを管理 <sub>⭐ 2.2k · Go</sub>
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - LLMおよびAIの代理店の適用を評価し、観察し、改善するためのオープンソース、エンドツーエンドプラットフォーム。 トラバース・エバー・シミュレーション・データセット・ゲートウェイ・ガードレール。 セルフホスト可能。 Apache 2.0. <sub>⭐ 2.1k · Python</sub>
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Pi、OpenCodeなどのコーディングクライアントでClaudeとAntigravityを使用します。 ローカルAPIブリッジ、使用ダッシュボード、Macアプリ。 1.74.0で利用可能な防眩プレビュー。 <sub>⭐ 2.1k · TypeScript</sub>
+- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - 400+ LLM のトークン価格見積りが簡単。 TokenOps. <sub>⭐ 2.0k · Python</sub>
+- [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor) - LLMトークンの圧縮のための14ステージフュージョンパイプライン — リバーシブルな圧縮、AST-awareコード解析、インテリジェントコンテンツルーティング。 ゼロLLM推論コスト。 MITライセンス。 <sub>⭐ 2.0k · Python</sub>
+- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope では、ログやトレース、メトリックをインジェストして探索できます。これらは S3 互換の Bucket に保存します。LMs 経由で自然言語で問い合わせます。 <sub>⭐ 1.9k · Haskell</sub>
+- [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - OpenAI対応プロキシ(チャットGPTコーデックス対応) API <sub>⭐ 1.8k · TypeScript</sub>
+- [0xSero/turboquant](https://github.com/0xSero/turboquant) - TurboQuant:Tritonカーネル+VLLM統合によるLLMインフェレンス(3ビットキー、2ビット値)の近似KVキャッシュ定量化 <sub>⭐ 1.8k · Python</sub>
+- [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) - Google AI Studio ビルドを OpenAI、Gemini、Anthropic 互換 APIs として公開するラッパー。(一件) Google AI Studio のビルドで埋め立てる組曲/OpenAI / Gemini / Anthropic 格付け API の ツール <sub>⭐ 1.7k · JavaScript</sub>
+- [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) - 管理された安全網が付いている自己ホスト型LLMのルーター。OpenAI互換性がある。BOK。単一ワークスペース。流れます。より高度のルーティングはオルカロイターをホストしました <sub>⭐ 1.7k · Python</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Apple Silicon 用のネイティブ LLM インフェレンス サーバー。OpenAI + Anthropic API は対応していません。 Python はありません。 Zig バックエンド、Swift フロントエンドの MacOS アプリをチャット、音楽、音声、ビデオ生成で使用できます。 <sub>⭐ 1.7k · Zig</sub>
+- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - 複数のプロバイダー間でLMLリクエストをルート、管理、分析し、統一されたAPIインターフェイスで行います。 <sub>⭐ 1.7k · TypeScript</sub>
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analyticsインフラストラクチャ。 ClickHouse、Kafka、Node.js上に構築された単一のプロダクション対応のDockerイメージでイベントを追跡できます。 製品分析ダッシュボード、LM RAGsを簡単に作成できます。 <sub>⭐ 1.7k · TypeScript</sub>
+- [hhhuang/CAG](https://github.com/hhhuang/CAG) - キャッシュ・アグメンテッドジェネレーション:AGへのシンプルで効率的な代替 <sub>⭐ 1.6k · Python</sub>
+- [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - OpenAI & Ollama 互換 API が Codex に搭載 <sub>⭐ 1.6k · Python</sub>
+- [uccl-project/uccl](https://github.com/uccl-project/uccl) - UCCLは、GPUの効率的な通信ライブラリです。, コレクティブをカバーします。, P2P (例えば, KVキャッシュ転送, RL重量転送), そしてEP(例: GPU主導) <sub>⭐ 1.5k · C++</sub>
+- [ovg-project/kvcached](https://github.com/ovg-project/kvcached) - ダイナミックなGPU共有とそれを超えて仮想化された弾性KVキャッシュ <sub>⭐ 1.5k · Python</sub>
+- [TokenRhythm/NeoHorse](https://github.com/TokenRhythm/NeoHorse) - NeoHorse-1: ルーティングハーネスでエージェントのポストトレインによる再帰的自己改善に向けて。 <sub>⭐ 1.5k · Python</sub>
+- [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - 強力なチャットボックス TTS モデルをセルフホストします。 このサーバーは、ユーザーフレンドリーなWeb UI、柔軟なAPIエンドポイント(OpenAI対応を含む)、事前定義されたボイス、音声クローニング、および大規模なオーディオブックスケールを提供しています... <sub>⭐ 1.5k · Python</sub>
+- [DrJonaC/Pensieve](https://github.com/DrJonaC/Pensieve) - メモリがどのように反応するかを観察します。 Pensieveは、ユーザーが「記憶」をどのように理解し、解釈し、管理するためのインタラクティブなシステムです。 これは、ユーザー間のギャップを埋めます... <sub>⭐ 1.4k · TypeScript</sub>
+- [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) - 自動回帰モデルのための統一されたKVキャッシュ圧縮方法 <sub>⭐ 1.4k · Python</sub>
+- [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty は、AI アプリケーション用の LLM プロンプトの作成、管理、デバッグおよび評価が容易になります。 Prompty は、LLM プロンプトのアセットクラスとフォーマットで、保守性を高めるように設計されています... <sub>⭐ 1.3k · Rust</sub>
+- [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - 高性能LLM逆プロキシ <sub>⭐ 1.3k · Rust</sub>
+- [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) - Windows CopilotをOpenAI互換APIにリバースエンジニアリングしました。 APIキーや課金なしでシンプルなRESTインターフェイスでGPT-4とGPT-5モデルにアクセスします。 <sub>⭐ 1.2k · Python</sub>
+- [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress) - LLM KVのキャッシュ圧縮は容易になりました <sub>⭐ 1.2k · Python</sub>
+- [Zefan-Cai/R-KV](https://github.com/Zefan-Cai/R-KV) - (Neurips 2025) R-KV:Reasoningモデルのための冗長性アウェアのKVキャッシュ圧縮 <sub>⭐ 1.2k · Python</sub>
 
 ## 🗄️ RAG、ベクトル検索、メモリ
 
 > コンテキストの検索、ベクトルデータベース、AIアプリケーション向けのメモリ。
 
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. <sub>⭐ 271.2k · JavaScript</sub>
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing… <sub>⭐ 123.3k · Python</sub>
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - エージェントは、パフォーマンス最適化システムを利用します。Claudeコード、Codex、Opencode、 Cursorなどの開発のためのスキル、インスティネーション、メモリ、セキュリティ、および研究優先的な開発をしています。 <sub>⭐ 271.2k · JavaScript</sub>
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - コードベースを、ドキュメント、SQLスキーマ、コンフィグ、PDFファイルでクエリ可能なナレッジグラフに変えます。 Claude Code、Cursor、Codex、Gemini CLIのスキルを記述します:ローカル決定的なAST解析... <sub>⭐ 123.3k · Python</sub>
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - AIエージェントのメモリ層 - 人工知能エージェントやアプリ用のメモリーインフラをドロップインします。そのコンテキストは、主張しています。 生産のために構築されています。 <sub>⭐ 66.5k · Python</sub>
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns <sub>⭐ 44.7k · Python</sub>
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No… <sub>⭐ 40.6k · Go</sub>
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. <sub>⭐ 39.1k · Python</sub>
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io <sub>⭐ 34.9k · Rust</sub>
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free <sub>⭐ 31.3k · Python</sub>
-- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs… <sub>⭐ 30.9k · TypeScript</sub>
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks <sub>⭐ 29.1k · TypeScript</sub>
-- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent <sub>⭐ 27.6k · Go</sub>
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. <sub>⭐ 25.0k</sub>
-- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework" <sub>⭐ 23.5k · Python</sub>
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system <sub>⭐ 19.5k · TypeScript</sub>
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data… <sub>⭐ 17.8k · Python</sub>
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. <sub>⭐ 17.1k · Python</sub>
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a… <sub>⭐ 16.9k · Go</sub>
-- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. <sub>⭐ 16.6k · Rust</sub>
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database <sub>⭐ 16.1k · C++</sub>
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents. <sub>⭐ 16.0k · Java</sub>
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking… <sub>⭐ 15.3k · Python</sub>
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents <sub>⭐ 14.5k · Python</sub>
-- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human <sub>⭐ 12.5k · Python</sub>
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. <sub>⭐ 11.7k · TypeScript</sub>
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: 学習するエージェント・メモリ <sub>⭐ 44.7k · Python</sub>
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDBは、予測不可能に成長する有能なワークロードのために構築されています。 ACID保証と取引、分析、およびベクトル検索のためのネイティブサポート。 データサイロはありません。 騒々しい隣人はありません。 いいえ... <sub>⭐ 40.6k · Go</sub>
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - AIエージェントの自己進化したコンテキストデータベース。エージェントメモリ、ナレッジRAGおよびスキルを統一します。 <sub>⭐ 39.1k · Python</sub>
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - 次世代のAIのための高性能、大規模ベクトルデータベースとベクターサーチエンジン。またクラウド https://cloud.qdrant.io <sub>⭐ 34.9k · Rust</sub>
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cogneeはエージェント用のオープンソースのAIメモリプラットフォームです。AIエージェントが永続的な長期記憶を小さなモデルで無料で提供できます <sub>⭐ 31.3k · Python</sub>
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - OpenClaw は、セキュリティのためにコンテナで実行する軽量な代替手段です。WhatsApp、Telegram、Slack、Discord、Gmailなどのメッセージングアプリに接続し、メモリ、スケジュールされたジョブを持ち、... <sub>⭐ 30.9k · TypeScript</sub>
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 リアルワールドベンチマークに基づくAIコーディングエージェントの永続的な記憶 <sub>⭐ 29.1k · TypeScript</sub>
+- [gastownhall/beads](https://github.com/gastownhall/beads) - ビーズ - あなたのコーディングエージェントのメモリアップグレード <sub>⭐ 27.6k · Go</sub>
+- [letta-ai/letta](https://github.com/letta-ai/letta) - ステートフルなエージェントのためのプラットフォーム:学習できる高度なメモリを備えたAIと、時間をかけて自己改善することができます。 <sub>⭐ 25.0k</sub>
+- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - 「RAG-Anything:オールインワンRAGフレームワーク」 <sub>⭐ 23.5k · Python</sub>
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - オープンソースのエージェントシステム <sub>⭐ 19.5k · TypeScript</sub>
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI(Generative BI)は、AIエージェントのオープンソースであるオープンソースです。テキストからSQLを管理し、20以上のデータで信頼できるダッシュボード、チャート、およびSQLに自然言語の質問を切り替えるオープンコンテクストレイヤーを通して、テキストからSQLまで管理しました。 <sub>⭐ 17.8k · Python</sub>
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Qwen>=3.0で構築されたエージェントフレームワークとアプリケーションは、関数呼び出し、MCP、コード通訳、RAG、Chrome拡張機能などを備えています。 <sub>⭐ 17.1k · Python</sub>
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviateは、オブジェクトとベクトルの両方を格納するオープンソースのベクターデータベースです。これにより、Vista の検索と構造化されたフィルタリングの組み合わせが可能になり、障害やスケーラビリティ... <sub>⭐ 16.9k · Go</sub>
+- [memvid/memvid](https://github.com/memvid/memvid) - AIエージェントのメモリレイヤー。複雑なRAGパイプラインをサーバーレス、単一ファイルメモリー層に置き換えます。 エージェントの即時検索と長期記憶を与えます。 <sub>⭐ 16.6k · Rust</sub>
+- [alibaba/zvec](https://github.com/alibaba/zvec) - 軽量、超高速、インプロセスベクターデータベース <sub>⭐ 16.1k · C++</sub>
+- [apache/doris](https://github.com/apache/doris) - Apache Doris は、AI エージェントのリアルタイム分析とハイブリッド検索データベースです。 <sub>⭐ 16.0k · Java</sub>
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Obsidian + Claudeコード用の自己組織型AI第2脳。 ソースとClaudeの読み込み、リンクをドロップし、独自のMarkdownの1つの接続されたナレッジグラフにファイルします。 AIノートテイク... <sub>⭐ 15.3k · Python</sub>
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - エージェント間でのパーソナルメモリ <sub>⭐ 14.5k · Python</sub>
+- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - エージェントS:人間のようなコンピュータを使用するオープンな有力フレームワーク <sub>⭐ 12.5k · Python</sub>
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - LLM&AIエージェント向けセルフ進化型メモリOS:超分散メモリー、ハイブリッドリトリーバル、クロスタスクスキル再利用、35.24%のトークン節約とDeepSeekハーネスサポート。 <sub>⭐ 11.7k · TypeScript</sub>
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBaseは、AI時代の分散型データベースです。オープンソース、マルチモデル、最も要求の厳しいワークロードのための1つのエンジンです。 <sub>⭐ 10.3k · C++</sub>
-- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai <sub>⭐ 10.1k · Python</sub>
+- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - https://arxiv.org/abs/2606.28344。 ウェブ解析の終了。 拡張可能なピクセルネイティブ検索の始まり。 リンク //pixelrag.ai <sub>⭐ 10.1k · Python</sub>
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - DeeplakeはエージェントのAIデータランタイムです。サーバーレスなpostgresをマルチモーダルのデータレークで提供し、スケーラブルな検索とトレーニングを可能にします。 <sub>⭐ 9.2k · C++</sub>
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors <sub>⭐ 8.8k · Rust</sub>
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions <sub>⭐ 8.3k · TypeScript</sub>
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. <sub>⭐ 8.0k · Swift</sub>
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents <sub>⭐ 7.4k · Python</sub>
-- [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density <sub>⭐ 7.1k · Python</sub>
-- [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. <sub>⭐ 6.7k · JavaScript</sub>
-- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy. <sub>⭐ 6.7k · TypeScript</sub>
-- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG). <sub>⭐ 6.6k · Rust</sub>
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. <sub>⭐ 6.1k · Rust</sub>
-- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. <sub>⭐ 5.8k · C</sub>
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key. <sub>⭐ 5.5k · JavaScript</sub>
-- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs <sub>⭐ 5.2k · Python</sub>
-- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI. <sub>⭐ 4.9k · TypeScript</sub>
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) - Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns. <sub>⭐ 4.8k · JavaScript</sub>
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text. <sub>⭐ 4.7k · C++</sub>
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid… <sub>⭐ 4.7k · Python</sub>
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++. <sub>⭐ 4.6k · C++</sub>
-- [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust. <sub>⭐ 4.5k · Rust</sub>
-- [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL. <sub>⭐ 4.5k · Python</sub>
-- [modelscope/ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks <sub>⭐ 4.4k · Python</sub>
-- [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and… <sub>⭐ 4.4k · Jupyter Notebook</sub>
-- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram <sub>⭐ 4.3k · C++</sub>
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! <sub>⭐ 4.1k · Rust</sub>
-- [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) - Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. <sub>⭐ 4.0k · Python</sub>
-- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - (ICML'26) SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal <sub>⭐ 3.8k · Python</sub>
-- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer <sub>⭐ 3.7k · JavaScript</sub>
-- [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. <sub>⭐ 3.5k · Python</sub>
-- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki / Memory System for Agents <sub>⭐ 3.5k · Python</sub>
-- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt <sub>⭐ 3.5k · TypeScript</sub>
-- [Mirix-AI/MIRIX](https://github.com/Mirix-AI/MIRIX) - Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently. By capturing real-time visual data and consolidating it into structured… <sub>⭐ 3.5k · Python</sub>
-- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend. <sub>⭐ 3.4k · JavaScript</sub>
-- [ANative-Lab/EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) - EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents <sub>⭐ 3.4k · Python</sub>
-- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis &… <sub>⭐ 3.3k · TypeScript</sub>
-- [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator <sub>⭐ 3.1k · Python</sub>
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent the coding intelligence, a long-term memory system and model optimized workflow packages <sub>⭐ 3.1k · Python</sub>
-- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB). <sub>⭐ 3.1k · Python</sub>
-- [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems. <sub>⭐ 3.1k · Python</sub>
-- [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases <sub>⭐ 3.0k · Jupyter Notebook</sub>
-- [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops <sub>⭐ 2.9k · Jupyter Notebook</sub>
-- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills. <sub>⭐ 2.9k · JavaScript</sub>
-- [compozy/compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated… <sub>⭐ 2.8k · Go</sub>
-- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. <sub>⭐ 2.7k · Python</sub>
-- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync. <sub>⭐ 2.7k · TypeScript</sub>
-- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents <sub>⭐ 2.7k · Jupyter Notebook</sub>
-- [felinics/Memoh](https://github.com/felinics/Memoh) - The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so… <sub>⭐ 2.6k · Go</sub>
-- [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - Make your agents learn from experience. Now available as a hosted solution at kayba.ai <sub>⭐ 2.6k · Python</sub>
-- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for… <sub>⭐ 2.6k · Rust</sub>
-- [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations <sub>⭐ 2.5k · C++</sub>
-- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) - A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social… <sub>⭐ 2.5k · GDScript</sub>
-- [Shichun-Liu/Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey" <sub>⭐ 2.4k</sub>
-- [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - Build an email assistant with human-in-the-loop and memory <sub>⭐ 2.3k · Jupyter Notebook</sub>
-- [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love! <sub>⭐ 2.3k · Python</sub>
-- [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem) - Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a… <sub>⭐ 2.3k · Python</sub>
-- [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge… <sub>⭐ 2.3k · Python</sub>
-- [relation-graph/relation-graph](https://github.com/relation-graph/relation-graph) - relation-graph is an relationship graph component for React/Vue/Svelte relationship data visualization/edit. Through its slot-based customization model, users can fully customize graph elements with… <sub>⭐ 2.3k · JavaScript</sub>
-- [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) - Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. <sub>⭐ 2.3k · Python</sub>
-- [zjukg/KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) - (Paper List) Papers integrating knowledge graphs (KGs) and large language models (LLMs) <sub>⭐ 2.2k</sub>
-- [rcortx/kiwiq](https://github.com/rcortx/kiwiq) - Production-grade multi-agent orchestration platform - JSON-defined agents, multi-tier memory, and built-in observability. Battle-tested on 200+ enterprise AI agents. Now fully open-sourced (prod at… <sub>⭐ 2.2k · Python</sub>
-- [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more. <sub>⭐ 2.1k · TypeScript</sub>
-- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications. <sub>⭐ 2.0k · Go</sub>
-- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance in Text-to-SQL <sub>⭐ 2.0k · Python</sub>
-- [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) - A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex… <sub>⭐ 2.0k · TypeScript</sub>
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation. <sub>⭐ 2.0k · Python</sub>
-- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local) <sub>⭐ 1.9k · C</sub>
-- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows. <sub>⭐ 1.9k · Python</sub>
-- [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line <sub>⭐ 1.9k · Rust</sub>
-- [u14app/neo-chat](https://github.com/u14app/neo-chat) - A local-first AI chat workspace for models, agents, skills, plugins, search, RAG, voice, memory, and artifacts. <sub>⭐ 1.9k · TypeScript</sub>
-- [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory <sub>⭐ 1.8k · Python</sub>
-- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems. <sub>⭐ 1.8k</sub>
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - エージェントのコーディングのための長期記憶のためのソリューション CLIs そして、異なるエージェントベンダー間のハンドオフを容易にする <sub>⭐ 8.8k · Rust</sub>
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - 世界中の点、ボットおよび音楽のオープンソース代替手段として、ノートパソコンやサンドボックスなどのエージェントのようなクラスドコード/コーデックスのオフィスを実行し、既存のサブスクリプションを使用する <sub>⭐ 8.3k · TypeScript</sub>
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - 独自のAI。 AIエージェントのネイティブmacOSハーネス - すべてのモデル、永続的なメモリ、自律的実行、暗号アイデンティティ。Swiftで構築されています。完全にオフラインです。オープンソース。 <sub>⭐ 8.0k · Swift</sub>
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - ステートフルなエージェントの構築のためのメモリライブラリ <sub>⭐ 7.4k · Python</sub>
+- [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla) - OpenSquilla — 同じ予算、高知性密度のトークン効率の高いAIエージェント <sub>⭐ 7.1k · Python</sub>
+- [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - チャット、ターミナル、メモリ、スキル、検査員のWebワークスペース。 <sub>⭐ 6.7k · JavaScript</sub>
+- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - 記憶、個性、自律性を兼ね備えた個人AIエージェント。 <sub>⭐ 6.7k · TypeScript</sub>
+- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - 超高速グラフデータベースは、そのスペーサーの従属行列グラフ表現のためにグラフビルを使用する。 私たちの目標は、LM(GraphRAG)に最適なナレッジグラフを提供することです。 <sub>⭐ 6.6k · Rust</sub>
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDBは、オブジェクトストレージ上にRustで構築されたネイティブベクターとフルテキスト検索を備えたOLTPグラフデータベースです。 <sub>⭐ 6.1k · Rust</sub>
+- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw:$ 5チップのパーソナルエージェント。 OS(Linux)で。 Node.jsはありません。 Mac miniでは、Raspberry Piはありません。 VPSはありません。 ハードウェアエージェントOS。 <sub>⭐ 5.8k · C</sub>
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 書き込み中に関連したメモと抜粋を見つけます。リンクビルディングコピローは、グラフ+リストビューで関連するコンテンツを表示します。ローカル埋め込みモデルは、セマニティック検索に役立ちます。ゼロセットアップ。APIキーはありません。 <sub>⭐ 5.5k · JavaScript</sub>
+- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - モノレポの究極のRAG。AIとナレッジグラフの力で複数の言語コードベースをクエリ、理解、編集 <sub>⭐ 5.2k · Python</sub>
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - AI コーディングエージェントの永続的なメモリを与える自己組織化オブシディアン・ボルト。 クロード コード、コーデックス CLI、ジェミニ・クリ。 <sub>⭐ 4.9k · TypeScript</sub>
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) - 自分で構築することでAIエージェントを解明します。ローカルLLM、ブラックボックスなし、関数呼び出しの実際の理解、メモリ、ReActパターン。 <sub>⭐ 4.8k · JavaScript</sub>
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - LLMアプリケーション用に構築されたAIネイティブデータベースは、密なベクトル、スペールベクター、テンソル(マルチベクタ)およびフルテキストの非常に高速ハイブリッド検索を提供します。 <sub>⭐ 4.7k · C++</sub>
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - クロードコードと6他のCLIエージェントの持続的なメモリは、Obsidian vaultでプレーンマークダウンとして保存されます。プロジェクトの再説明を停止し、決定やすべてのセッションを人々. 45 コマンド: ハイブリッド... <sub>⭐ 4.7k · Python</sub>
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - グラフラグ、AIメモリ、有能な人工知能、リアルタイムのグラフ解析のための高性能オープンソース・インメモリー・データベース。C++で構築されたCypher互換 <sub>⭐ 4.6k · C++</sub>
+- [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVectorは、高性能、リアルタイムの決定とエージェントメモリ、自己学習アイ、ベクトルGNN DBをRustで構築しました。 <sub>⭐ 4.5k · Rust</sub>
+- [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Gemini Embedding 2 または Qwen3-VL を使用してビデオの Semantic 検索. <sub>⭐ 4.5k · Python</sub>
+- [modelscope/ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent:複雑なタスクのエージェント実行を促す軽量なフレームワーク <sub>⭐ 4.4k · Python</sub>
+- [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Dapr Agentic Cloud Ascent (DACA) 設計パターンとエージェントネイティブクラウド技術を使用して、Agentic AI を学びます。 OpenAI エージェント SDK、メモリ、MCP、A2A、ナレッジグラフ、Dapr、ランカーデスクトップ、および... <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - C++、C、Python、JavaScript、Rust、Java、Objective-C、Swift、C#、GoLangおよびWolframのVector & Arbitraryオブジェクト×用の高速オープンソース検索&クラスタリングエンジンx <sub>⭐ 4.3k · C++</sub>
+- [cozodb/cozo](https://github.com/cozodb/cozo) - データログをクエリに使用するトランザクション、リレーショナル・グラフ・ベクターデータベース。AIのヒポカンパス! <sub>⭐ 4.1k · Rust</sub>
+- [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) - ハイパーグラフはより強力です。非構造化されたテキストをLMSで構造化した知識に変換します。1つのコマンドを使って、グラフやハイパーグラフ、およびスパティオの一時的な抽出物。 <sub>⭐ 4.0k · Python</sub>
+- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - (ICML'26) SimpleMem:LLMエージェントの効率的な生涯メモリ — テキストとマルチモーダル <sub>⭐ 3.8k · Python</sub>
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - 記憶層としてのエージェントスキル <sub>⭐ 3.7k · JavaScript</sub>
+- [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: エージェントのメモリ管理キット - 私を覚え、私を再定義します。 <sub>⭐ 3.5k · Python</sub>
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - AIエージェントのフレームワークは、Obsidian wiki / Memory System for Agentsを通じてデジタル脳を構築し維持します。 <sub>⭐ 3.5k · Python</sub>
+- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - 記憶、アイデンティティ、そして学習し、適応する能力を持つ人々のような状態のエージェント <sub>⭐ 3.5k · TypeScript</sub>
+- [Mirix-AI/MIRIX](https://github.com/Mirix-AI/MIRIX) - Mirixは、画面上のアクティビティを追跡し、ユーザーの質問にインテリジェントに回答するために設計されたマルチエージェントのパーソナルアシスタントです。 リアルタイムのビジュアルデータをキャプチャして構造化するように統合することで... <sub>⭐ 3.5k · Python</sub>
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: OP Stack(OpenAI + Pinecone Vector Database)を使用してチャットGPTの長期メモリを付与します。シンプルなReact フロントエンドを使って独自のカスタムナレッジベースファイルをアップロードする (PDF、txt、epubなど)。 <sub>⭐ 3.4k · JavaScript</sub>
+- [ANative-Lab/EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) - EvoAgentX:AIエージェントの自己進化したエコシステムの構築 <sub>⭐ 3.4k · Python</sub>
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - エンタープライズグレード(40m + LOC)のコードベースインテリジェンス、ゼロセットアップ、ローカル&プライベートプラグイン/スキル/拡張またはMCP:ハイブリッドセマンティック検索、ポリグロット依存グラフ、シンボルレベルのインパクト分析と... <sub>⭐ 3.3k · TypeScript</sub>
+- [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI の動力を与えられた知識のグラフの発電機 <sub>⭐ 3.1k · Python</sub>
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - Hermes Agent のコーディングインテリジェンス、長期メモリシステムとモデル最適化されたワークフローパッケージ用のプラグインは 1 つすべて <sub>⭐ 3.1k · Python</sub>
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - LLM(OpenAI、LLaMA)とベクターデータベース(Chroma、Weaviate、LanceDBなど)の対応で、迅速なテストおよび実験のためのオープンソースツール。 <sub>⭐ 3.1k · Python</sub>
+- [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) - AIエージェント向けユニバーサルメモリレイヤー。拡張性、拡張性、および相互運用可能なメモリストレージを提供し、次世代オートノームシステム向けにAIエージェントの状態管理を合理化します。 <sub>⭐ 3.1k · Python</sub>
+- [pinecone-io/examples](https://github.com/pinecone-io/examples) - ピネコネクターデータベースでハンズオンを取得するためのJuppyter Notebook <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - マルチエージェントシステム、メモリ、計画、推論ループ <sub>⭐ 2.9k · Jupyter Notebook</sub>
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - クロード・コードは、50以上のセッションを組み合わせる自己補正メモリから学習します。コンテクストエンジニアリング、並列ワークツリー、エージェントチーム、および17の戦闘テスト済みスキル。 <sub>⭐ 2.9k · JavaScript</sub>
+- [compozy/compozy](https://github.com/compozy/compozy) - AIエージェントのオペレーティングシステムです。 既に使用しているエージェント CLIs (Claude Code,Codex, Gemini CLI, Cursor) に接続し、チームを構成します: 作業を分割したり、タスクを互いに分けたり、自動化を実行したりすることができます。 <sub>⭐ 2.8k · Go</sub>
+- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - すべてのAIエージェント(Claude Code、Codex、DSHなど)の永続的で統一されたメモリレイヤーは、MarkdownとMilvusによってバックアップされます。 <sub>⭐ 2.7k · Python</sub>
+- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 人工知能を搭載したクロスプラットフォームの電子ブックリーダー、RAGチャット、ローカルベクターストア、ノート、TTS、WebDAV同期。 <sub>⭐ 2.7k · TypeScript</sub>
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - 自動エージェント用のオープンソースメモリレイヤー <sub>⭐ 2.7k · Jupyter Notebook</sub>
+- [felinics/Memoh](https://github.com/felinics/Memoh) - オープンソースのマルチエージェントプラットフォーム。すべてのエージェントは、独自のコンピュータ、デスクトップ、ネットワーク、および長期的なメモリを取得します。あなたはあなた自身のキーを持って来るか、Claudeコード、Codexなどのコーディングエージェントをホストすることができます... <sub>⭐ 2.6k · Go</sub>
+- [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - エージェントが経験から学べます。kayba.aiでホストされているソリューションとして利用可能になりました <sub>⭐ 2.6k · Python</sub>
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJは、AIがデータを検索するための新しい方法です。 その自動インデックス機能は、 grepとsedのトークン廃棄物なしであなたのデータを知るためにエージェントをアクティブにします。 1つのコマンドはコード、ドキュメント、ログ、PDFをインデックス化します... <sub>⭐ 2.6k · Rust</sub>
+- [dblalock/bolt](https://github.com/dblalock/bolt) - 10x は行列およびベクトル操作を高速化します <sub>⭐ 2.5k · C++</sub>
+- [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse) - Godot 4で構築された神秘的なサンドボックスゲームは、マルチエージェントのAIソーシャルシミュレーションシステムです。 この仮想世界では、人工知能キャラクターは独立した思考と記憶を持ち、自律的な社会を実現することができます。 <sub>⭐ 2.5k · GDScript</sub>
+- [Shichun-Liu/Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - 「AIエージェント時代の記憶:調査」の論文リスト <sub>⭐ 2.4k</sub>
+- [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - 人間とループとメモリでメールアシスタントを作成 <sub>⭐ 2.3k · Jupyter Notebook</sub>
+- [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - AIエージェントが愛する記憶! <sub>⭐ 2.3k · Python</sub>
+- [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem) - 普遍的な記憶を提供するように設計された次世代のボイスエージェントのためのインフラストラクチャ。 それは、左脳と右脳に分けられ、情報や感情をそれぞれ保存しますが、同時に... <sub>⭐ 2.3k · Python</sub>
+- [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) - 1つの脳、多くのハーネス。 Claudeコード、Cursor、Windsurf、OpenCode、OpenClaw、Hermes、またはDIY Pythonに差し込むポータブル.agent/フォルダ(メモリ+スキル+プロトコル) - そしてその知識を維持... <sub>⭐ 2.3k · Python</sub>
+- [relation-graph/relation-graph](https://github.com/relation-graph/relation-graph) - 関係グラフは、React/Vue/Svelteの関係データの視覚化/編集のための関係のグラフコンポーネントです。そのスロットベースのカスタマイズモデルを通して、ユーザーは完全にグラフ要素をカスタマイズできます... <sub>⭐ 2.3k · JavaScript</sub>
+- [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) - AIエージェントの長期メモリランタイム — 真実、ローカルランク検索、独立したスリープ時間管理レイヤーのソースとしてマークダウンをプレーンします。 クロードコードとコーデックスは1つのストアを共有しています。 APIキーはありません。 <sub>⭐ 2.3k · Python</sub>
+- [zjukg/KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) - (ペーパーリスト) 知識グラフ(KGs)と大きな言語モデル(LLM)を統合した紙 <sub>⭐ 2.2k</sub>
+- [rcortx/kiwiq](https://github.com/rcortx/kiwiq) - 生産グレードのマルチエージェントオーケストレーションプラットフォーム - JSON 定義されたエージェント、多層メモリ、および組み込みの保守性。 200 + 企業 AI 代理店でバトルテスト済み。 今すぐ完全にオープンソース (プロダクツ) <sub>⭐ 2.2k · Python</sub>
+- [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - オープンソースのRAGプラットフォーム:組み込みシテーション、深層調査、22以上のファイル形式、パーティション、MCPサーバーなど。 <sub>⭐ 2.1k · TypeScript</sub>
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Git-for-Dataと組み込みのベクター検索を備えたAIネイティブHTAPデータベース。インテリジェントなエージェントやアプリケーション用のデータおよびメモリ・バックボーンとして機能します。 <sub>⭐ 2.0k · Go</sub>
+- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - DB-GPTのモデル、データセット、および微調整技術を含むリポジトリ。テキスト・ツー・SQLでモデル性能を強化する目的で <sub>⭐ 2.0k · Python</sub>
+- [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) - すべてのAIエージェントとローカルメモリハブは、すべてのAIが共有され、完全に制御されたメモリおよび永続的なコンテキストを提供します。すべてのAIは同じことを記憶します。 今すぐClaudeコード、Codexをサポートしています... <sub>⭐ 2.0k · TypeScript</sub>
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - AIエージェントパイプライン(LangGraph、CrewAI、AutoGen)およびClaude用のオープンソースの永続的なメモリ。 REST API +ナレッジグラフ+自律統合。 <sub>⭐ 2.0k · Python</sub>
+- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - 人工知能エージェントのセマンティック検索&コールグラフ(100%ローカル) <sub>⭐ 1.9k · C</sub>
+- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agentは、実際に所有するローカル初のAIエージェントハーネスです。ループ、メモリ、evalなど、成長しているコードはすべて合法的に保持します。 <sub>⭐ 1.9k · Python</sub>
+- [run-llama/semtools](https://github.com/run-llama/semtools) - コマンドライン用のツールを解析するSemantic検索とドキュメント <sub>⭐ 1.9k · Rust</sub>
+- [u14app/neo-chat](https://github.com/u14app/neo-chat) - モデル、エージェント、スキル、プラグイン、検索、RAG、音声、メモリ、アーティファクトのローカルファーストAIチャットワークスペース。 <sub>⭐ 1.9k · TypeScript</sub>
+- [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UIの意識モニター - 永続記憶を持つAIエージェント <sub>⭐ 1.8k · Python</sub>
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - 2026年にリリースされたAIエージェントリサーチペーパーのキュレーションコレクション、エージェントエンジニアリング、メモリ、評価、ワークフロー、自動システム。 <sub>⭐ 1.8k</sub>
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - マークダウンの知識グラフ — あなたのエディタ、CLI + MCP メモリのための LSP をあなたの AI エージェント <sub>⭐ 1.7k · Rust</sub>
-- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents. <sub>⭐ 1.7k · Go</sub>
-- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database <sub>⭐ 1.7k · TypeScript</sub>
-- [dingodb/dingo](https://github.com/dingodb/dingo) - A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and… <sub>⭐ 1.7k · Java</sub>
-- [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) - Permanent memory for AI agents. A 426-token prompt, a script, plug and play. <sub>⭐ 1.7k · Python</sub>
-- [Lynpoint/CyberVerse](https://github.com/Lynpoint/CyberVerse) - Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video. <sub>⭐ 1.7k · Python</sub>
-- [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) - The control plane for AI coding agents. <sub>⭐ 1.6k · TypeScript</sub>
-- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx is an executable context layer for data and analytics agents Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company <sub>⭐ 1.6k · TypeScript</sub>
-- [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - (EMNLP 2025 Oral) MemoryOS is designed to provide a memory operating system for personalized AI agents. <sub>⭐ 1.6k · Python</sub>
-- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ built in Rust — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities. <sub>⭐ 1.5k · Rust</sub>
-- [import-ai/omnibox](https://github.com/import-ai/omnibox) - Anywhere, anything to memory, memory to anything. <sub>⭐ 1.5k · Python</sub>
-- [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more. <sub>⭐ 1.5k · Python</sub>
-- [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap. <sub>⭐ 1.4k · Python</sub>
-- [morettt/my-neuro](https://github.com/morettt/my-neuro) - This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition… <sub>⭐ 1.4k · JavaScript</sub>
-- [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time. <sub>⭐ 1.4k · TypeScript</sub>
-- [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider. <sub>⭐ 1.4k · Python</sub>
-- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL / A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based… <sub>⭐ 1.4k</sub>
-- [raroque/boop-agent](https://github.com/raroque/boop-agent) - iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations. <sub>⭐ 1.4k · TypeScript</sub>
-- [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) - Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees. <sub>⭐ 1.4k · TypeScript</sub>
-- [shuyu-labs/AntSK](https://github.com/shuyu-labs/AntSK) - An AI knowledge base/agent built with .Net 9, AntBlazor, Semantic Kernel, and Kernel Memory, supporting local offline AI large models. It can run offline without an internet connection. Supports… <sub>⭐ 1.3k · CSS</sub>
-- [AutoTrustAI/PaperGuru-Benchmark](https://github.com/AutoTrustAI/PaperGuru-Benchmark) - Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB <sub>⭐ 1.3k · TeX</sub>
-- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine <sub>⭐ 1.3k · Python</sub>
-- [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into… <sub>⭐ 1.3k · Python</sub>
-- [endee-io/endee](https://github.com/endee-io/endee) - Endee.io – A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering significant performance gains through optimized indexing and execution. Also available… <sub>⭐ 1.3k · C++</sub>
-- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. <sub>⭐ 1.3k · Python</sub>
-- [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) - An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversation recall), a proactive scheduler, personal IM channels, and a workspace-scoped… <sub>⭐ 1.3k · TypeScript</sub>
-- [CommandCodeAI/BaseAI](https://github.com/CommandCodeAI/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command. <sub>⭐ 1.3k · TypeScript</sub>
-- [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - (NeurIPS '25) Knowledge Graph Generation from Any Text <sub>⭐ 1.3k · Python</sub>
-- [gomate-community/TrustRAG](https://github.com/gomate-community/TrustRAG) - TrustRAG：The RAG Framework within Reliable input,Trusted output <sub>⭐ 1.3k · Python</sub>
-- [openairymax/agentrt](https://github.com/openairymax/agentrt) - Airymax AgentRT Transcend context limits. Achieve near-infinite memory. <sub>⭐ 1.3k · C</sub>
-- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation <sub>⭐ 1.2k · Python</sub>
+- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - AIエージェントのクロスハーネス、自己即興メモリレイヤー。 <sub>⭐ 1.7k · Go</sub>
+- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - ローカルベクターデータベースを使用して、コーディングエージェントの永続的なメモリを与えるOpenCodeプラグイン <sub>⭐ 1.7k · TypeScript</sub>
+- [dingodb/dingo](https://github.com/dingodb/dingo) - 構造化および非構造化されたデータに関する統一されたSQL(MySQL-Compatible)を使用して、upsertとベクタークエリをサポートするマルチモーダル・ベクター・データベース。 高通貨の要件を満たしながら... <sub>⭐ 1.7k · Java</sub>
+- [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) - AIエージェントの永久メモリ。 426トークンプロンプト、スクリプト、プラグアンドプレイ。 <sub>⭐ 1.7k · Python</sub>
+- [Lynpoint/CyberVerse](https://github.com/Lynpoint/CyberVerse) - セルフホスティング、リアルタイムのデジタルヒューマンエージェントプラットフォーム。WebRTC、ペルソナメモリ、ツール、RAG、およびオプションのデジタル・ヒューマン・ビデオで音声ファーストのAIエージェントを構築します。 <sub>⭐ 1.7k · Python</sub>
+- [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) - AIコーディングエージェントの制御面。 <sub>⭐ 1.6k · TypeScript</sub>
+- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx は、データと分析エージェントの実行可能なコンテキストレイヤーです。Claude Code,Codex,または他のAIエージェントが分析データベースを正確かつ完全な文脈で正確にクエリできるようにします <sub>⭐ 1.6k · TypeScript</sub>
+- [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - (EMNLP 2025 経口) MemoryOSは、パーソナライズされたAIエージェントのメモリオペレーティングシステムを提供するように設計されています。 <sub>⭐ 1.6k · Python</sub>
+- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Rustで構築されたApache RocketMQは、より高速・安全・高メモリ効率性を実現しました。AIエージェントやMCP、AI-SRE機能により、AI時代の高性能なメッセージングを実現します。 <sub>⭐ 1.5k · Rust</sub>
+- [import-ai/omnibox](https://github.com/import-ai/omnibox) - どんなところでも、記憶に何か、何でも記憶する。 <sub>⭐ 1.5k · Python</sub>
+- [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - NLP、マルチモーダルLLM、エージェント、ML、ナレッジグラフなどの研究開発のためのPythonライブラリ。 <sub>⭐ 1.5k · Python</sub>
+- [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - LLM Agents を使用した超高速ローカルベクターデータベースです。SAFE を $135M キャップで受け付けています。 <sub>⭐ 1.4k · Python</sub>
+- [morettt/my-neuro](https://github.com/morettt/my-neuro) - このプロジェクトでは、わずか1秒で応答するカスタマイズ可能な文字と音声の会話を使用して独自のAIデスクトップコンパニオンを作成できます。 機能には、長期的なメモリ、視覚認識が含まれます... <sub>⭐ 1.4k · JavaScript</sub>
+- [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - セットアップが簡単なAIアシスタントで、24 / 7の作業を行い、好みを把握し、時間をかけてより良くなります。 <sub>⭐ 1.4k · TypeScript</sub>
+- [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - ハーメスエージェントの7層メモリオペレーティングシステム — Qdrant、構造化された事実、ファブリックリコール、自動キュレーションされたwiki、および外科的コンテキストインジェクションによる持続的な記憶。ローカルで任意のLMMプロバイダを実行します。 <sub>⭐ 1.4k · Python</sub>
+- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) 次世代データベースインターフェース:LLMベースのテキストからSQLの調査 / 大規模な言語モデルベースでリソース(surveys、論文、ベンチマーク、およびオープンソースプロジェクト)のキュレーションリスト <sub>⭐ 1.4k</sub>
+- [raroque/boop-agent](https://github.com/raroque/boop-agent) - iMessage 個人エージェント: Claude Agent SDK (Claude Code) またはCodex app-server runtime(Codex/ChatGPT)、メモリ、サブエージェント、自動化、統合を選択します。 <sub>⭐ 1.4k · TypeScript</sub>
+- [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) - 人のためのオープンソースルーム+クロスベンダーAIエージェント。すべてのエージェントは、独自の名前、メモリ、スキル、ワークステーションを取得します。任意のランタイム、あなたの赤外線 - 試薬手数料なし。 <sub>⭐ 1.4k · TypeScript</sub>
+- [shuyu-labs/AntSK](https://github.com/shuyu-labs/AntSK) - .Net 9、AntBlazor、Semanticカーネル、およびKernel Memoryが組み込まれたAIナレッジベース/エージェントは、ローカルオフラインのAI大型モデルをサポートしました。インターネットに接続せずにオフラインで実行できます。サポート... <sub>⭐ 1.3k · CSS</sub>
+- [AutoTrustAI/PaperGuru-Benchmark](https://github.com/AutoTrustAI/PaperGuru-Benchmark) - 長期間にわたるLMエージェントのライフサイクル・アウェア・メモリ — 66.05%、SurvestBench 94.66%、FSE/ICML / TOSEM / AEI / ICoGBで10件のピアレビュー受諾 <sub>⭐ 1.3k · TeX</sub>
+- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - ローカルファースト・セマンティックコードの検索エンジン <sub>⭐ 1.3k · Python</sub>
+- [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Claude Code は、コードベースで進化するメモリです。Hooks は自動的にセッションをキャプチャし、Claude Agent SDK は主要な決定とレッスンを抽出します。LMM コンパイラはすべてのものを整理しています... <sub>⭐ 1.3k · Python</sub>
+- [endee-io/endee](https://github.com/endee-io/endee) - Endee.io – 高性能なベクターデータベースで、単一のノード上で最大1Bベクターを処理するように設計されており、最適化されたインデックスと実行を通じて重要なパフォーマンスゲインを実現します。 また、利用可能な... <sub>⭐ 1.3k · C++</sub>
+- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - 睡眠中、ディープラーニングの実験を24時間365日実行する自律型AIエージェント。ゼロコストモニタリング、リーダー・ワーカーアーキテクチャ、定数メモリー。 <sub>⭐ 1.3k · Python</sub>
+- [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) - オープンソースの3層記憶を持つ個人学習エージェント(リーダープロファイル/wikiナレッジベース/クロスコンバーセーションリコール)、プロアクティブなスケジューラ、パーソナルIMチャンネル、ワークスペーススコープ... <sub>⭐ 1.3k · TypeScript</sub>
+- [CommandCodeAI/BaseAI](https://github.com/CommandCodeAI/BaseAI) - BaseAI — Web AIフレームワーク。 サーバレス自律型人工知能エージェントをメモリで構築する最も簡単な方法。 ローカルファースト、有能なパイプ、ツール、およびメモリーの構築を開始します。 1つのコマンドでサーバーレスを展開します。 <sub>⭐ 1.3k · TypeScript</sub>
+- [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - (NeurIPS '25) すべてのテキストから知識グラフ生成 <sub>⭐ 1.3k · Python</sub>
+- [gomate-community/TrustRAG](https://github.com/gomate-community/TrustRAG) - TrustRAG:信頼できる入力内のRAGフレームワーク、錆ついた出力 <sub>⭐ 1.3k · Python</sub>
+- [openairymax/agentrt](https://github.com/openairymax/agentrt) - Airymax AgentRT は、コンテキストの制限を変換します。ほぼ無限のメモリを実現します。 <sub>⭐ 1.3k · C</sub>
+- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - グラフゲン:知識主導の合成データ生成によるLMSのための監督された罰金チューニングを強化 <sub>⭐ 1.2k · Python</sub>
 
 ## 🤖 バックエンド向けコードエージェント
 
 > APIのコード、テスト、ドキュメントを生成、レビュー、移行するエージェント。
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works. <sub>⭐ 294.4k · Shell</sub>
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. <sub>⭐ 151.7k · JavaScript</sub>
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI… <sub>⭐ 144.0k</sub>
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI <sub>⭐ 111.8k · TypeScript</sub>
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. <sub>⭐ 100.5k · JavaScript</sub>
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with… <sub>⭐ 95.2k · TypeScript</sub>
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop <sub>⭐ 92.0k · JavaScript</sub>
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job… <sub>⭐ 73.3k · JavaScript</sub>
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect <sub>⭐ 67.0k · HTML</sub>
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video… <sub>⭐ 62.4k · Python</sub>
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM <sub>⭐ 54.9k · Rust</sub>
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. <sub>⭐ 52.4k · JavaScript</sub>
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering… <sub>⭐ 47.4k · Python</sub>
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on <sub>⭐ 42.0k · Rust</sub>
-- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent <sub>⭐ 36.1k · TypeScript</sub>
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent / Customize your assistants / Team them up｜Star if you like it! <sub>⭐ 33.3k · TypeScript</sub>
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent <sub>⭐ 29.9k · Python</sub>
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all <sub>⭐ 28.5k · Go</sub>
+- [obra/superpowers](https://github.com/obra/superpowers) - 機能するエージェントスキルフレームワークとソフトウェア開発方法論。 <sub>⭐ 294.4k · Shell</sub>
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - あなたのAIエージェントは、部屋の中で最も古い開発者のように考えます。 最良のコードは、あなたが書いたことがないコードです。 <sub>⭐ 151.7k · JavaScript</sub>
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude code, Cluely, コードBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI... <sub>⭐ 144.0k</sub>
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AIエージェントツールキット:統合LLM API、エージェントループ、TUI、コーディングエージェント CLI <sub>⭐ 111.8k · TypeScript</sub>
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - AI のコーディング代理店のための生産等級工学の技術。 <sub>⭐ 100.5k · JavaScript</sub>
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - 各エージェントのセッション全体で一貫したコンテキスト - セッション中にエージェントが行うすべてのものをキャプチャし、AIと圧縮し、関連するコンテキストを将来のセッションに戻します。... <sub>⭐ 95.2k · TypeScript</sub>
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - テイスト・スキル - AIに良い味を与えます。人工知能が退屈、ジェネリックスロップを生成するのを阻止します <sub>⭐ 92.0k · JavaScript</sub>
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - オープンソースのAIジョブ検索エージェントと求人ファインダー: スキャンジョブボード、各ジョブ1-5をCVにスコアして適用する前に、ATSフレンドリーな履歴書やカバーレターを調整し、インタビューの準備や仕事の面接準備を行います。 <sub>⭐ 73.3k · JavaScript</sub>
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - vibe コーディングから エージェント工学 - 練習は、完全な句を作ります <sub>⭐ 67.0k · HTML</sub>
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - 世界初のオープンソース、有能なビデオ制作システム。 12つの生産パイプライン、100 +ツール、700 +エージェントのスキルと製造知識ファイル。 AIコーディングアシスタントをフルビデオに変える... <sub>⭐ 62.4k · Python</sub>
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - コード提案を超えて行くオープンソース、拡張可能なAIエージェント - 任意のLMでインストール、実行、編集およびテスト <sub>⭐ 54.9k · Rust</sub>
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - クロードコードとAIエージェントのマーケティングスキル。 CRO、コピーライティング、SEO、分析、および成長エンジニアリング。 <sub>⭐ 52.4k · JavaScript</sub>
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - AIエージェントをAIサイエンティストに変えます。 科学のための#1 Agent Skillsライブラリは、世界中で250,000以上の科学者によって使用されます。 177の既定のスキルと100 +の科学データベースがカバーしています... <sub>⭐ 47.4k · Python</sub>
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - コーディングエージェントのランタイムは、 <sub>⭐ 42.0k · Rust</sub>
+- [continuedev/continue](https://github.com/continuedev/continue) - オープンソースのコーディングエージェント <sub>⭐ 36.1k · TypeScript</sub>
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - OpenClaw、Hermes、Claude Code、Codex、OpenCode、20 + より多くのCL CLIエージェントの24 / Coworkアプリをオープンソースで開く/アシスタントをカスタマイズする/チームを立ち上げる/好きならスター! <sub>⭐ 33.3k · TypeScript</sub>
+- [oraios/serena](https://github.com/oraios/serena) - コーディングのための強力なMCPツールキット, セマンティック検索と編集機能を提供します - あなたのエージェントのIDE <sub>⭐ 29.9k · Python</sub>
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - グラマラス・エージェントのコーディングをすべてのものに <sub>⭐ 28.5k · Go</sub>
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - オープンソースの Ghostty ベースの MacOS ターミナルで、AI コーディングエージェント用の縦タブと通知が開きます。マルチタスク、組織、プログラマビリティのために構築されています。 <sub>⭐ 27.6k · Swift</sub>
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. <sub>⭐ 27.5k · TypeScript</sub>
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. <sub>⭐ 27.4k · Python</sub>
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot… <sub>⭐ 27.3k · Shell</sub>
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. <sub>⭐ 25.7k · Shell</sub>
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. <sub>⭐ 23.3k · TypeScript</sub>
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 21.7k · Python</sub>
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. (NeurIPS 2024) <sub>⭐ 20.5k · Python</sub>
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding 101｜The first course for AI-native product builders. <sub>⭐ 19.6k · JavaScript</sub>
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents… <sub>⭐ 19.6k · Python</sub>
-- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills… <sub>⭐ 19.1k · Python</sub>
-- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. <sub>⭐ 18.4k · TypeScript</sub>
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local… <sub>⭐ 18.2k · Python</sub>
-- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero… <sub>⭐ 16.8k · JavaScript</sub>
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. <sub>⭐ 15.9k</sub>
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant… <sub>⭐ 15.7k · Go</sub>
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve <sub>⭐ 13.6k · TypeScript</sub>
-- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower.… <sub>⭐ 13.2k · TeX</sub>
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. <sub>⭐ 13.0k · TypeScript</sub>
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD Shift FinOps Left! <sub>⭐ 12.5k · Go</sub>
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. <sub>⭐ 11.6k · TypeScript</sub>
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn <sub>⭐ 11.3k · TypeScript</sub>
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent <sub>⭐ 10.8k · Python</sub>
-- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills <sub>⭐ 10.8k · TypeScript</sub>
-- [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - The agentic HTML editor — your local AI agent writes the HTML, you ship it. 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) Sandboxed preview ·… <sub>⭐ 9.0k · HTML</sub>
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 8.8k · Go</sub>
-- [pacifio/atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place <sub>⭐ 8.7k · Rust</sub>
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. <sub>⭐ 8.6k · Go</sub>
-- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a genoffice CLI and agent skill so Claude Code, Codex and Cursor can create and… <sub>⭐ 8.4k · TypeScript</sub>
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc. <sub>⭐ 7.8k · TypeScript</sub>
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent <sub>⭐ 7.6k · TypeScript</sub>
-- [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible. <sub>⭐ 7.3k · TypeScript</sub>
-- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. <sub>⭐ 7.1k · Shell</sub>
-- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically. <sub>⭐ 7.0k · JavaScript</sub>
-- [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. <sub>⭐ 7.0k · TypeScript</sub>
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - AI Coding, Vim Style <sub>⭐ 6.9k · Lua</sub>
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and… <sub>⭐ 6.8k · TypeScript</sub>
-- [MengTo/Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents <sub>⭐ 6.6k · HTML</sub>
-- [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to. <sub>⭐ 6.3k · JavaScript</sub>
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. <sub>⭐ 6.3k · Python</sub>
-- [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new… <sub>⭐ 6.2k · TypeScript</sub>
-- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative. <sub>⭐ 6.1k · Python</sub>
-- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. <sub>⭐ 6.0k · Python</sub>
-- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support <sub>⭐ 6.0k · TypeScript</sub>
-- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the… <sub>⭐ 6.0k · HTML</sub>
-- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode. <sub>⭐ 5.9k · Go</sub>
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! <sub>⭐ 5.7k · Python</sub>
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Track token usage across AI coding agents from your terminal. Global leaderboard with trillions of tokens tracked. <sub>⭐ 5.6k · Rust</sub>
-- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C# <sub>⭐ 5.5k · C#</sub>
-- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. <sub>⭐ 5.4k · TypeScript</sub>
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. <sub>⭐ 5.4k · Rust</sub>
-- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo. <sub>⭐ 5.2k · Go</sub>
-- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today. <sub>⭐ 5.1k · Shell</sub>
-- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents <sub>⭐ 5.0k · TypeScript</sub>
-- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 4.9k</sub>
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. <sub>⭐ 4.8k · JavaScript</sub>
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kiloは、オールインワンのエージェントエンジニアリングプラットフォームです。最も人気のオープンソースコーディングエージェントでビルド、出荷、そしてより速くイテレレートします。 <sub>⭐ 27.5k · TypeScript</sub>
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - ローカルマヌスAI。APIなし、月額$200の請求書はありません。Webを閲覧し、電力の唯一のコストのためのコードを調べるという自律的なエージェントをお楽しみください。 <sub>⭐ 27.4k · Python</sub>
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - AIコーディングエージェントと長期実行タスクのための永続的なファイルベースの計画。 クラッシュ防止マークダウンプラン、セッションの回復後の/clearおよびコンテクスト回転に対するパーターン再注入... <sub>⭐ 27.3k · Shell</sub>
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - クロードコードをフルゲーム dev studio — 49 AI エージェント、72 ワークフロースキル、そして実際のスタジオ階層を映す完全な調整システムに変える。 <sub>⭐ 25.7k · Shell</sub>
+- [conwnet/github1s](https://github.com/conwnet/github1s) - VSコードでGitHubのコードを読み込むには1秒。 <sub>⭐ 23.3k · TypeScript</sub>
+- [google/adk-python](https://github.com/google/adk-python) - 高度なAIエージェントの構築、評価、展開のためのオープンソース、コードファーストのPythonツールキット。 <sub>⭐ 21.7k · Python</sub>
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agentはGitHubの問題を取り、選択したLMを使用して自動的に修正しようとします。 また、攻撃的なサイバーセキュリティや競争コーディングの課題に使用できます。 (NeurIPS 2024) <sub>⭐ 20.5k · Python</sub>
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe コーディング101/AIネイティブプロダクトビルダー初のコース。 <sub>⭐ 19.6k · JavaScript</sub>
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Google Gemini Notebook の非公式な Python API およびエージェントスキル。Web UI の機能を含む、NotebookLM の機能への完全なプログラム的なアクセスは、Python、CLI、AI のエージェントによる機能を公開しない... <sub>⭐ 19.6k · Python</sub>
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - AIエージェントのスキルのためのセキュリティスキャナ。 脆弱性、悪意のあるパターン、セキュリティリスク、迅速な注射、データエクスカレーション、およびClaudeコード、コーデックス、MCPスキルにおけるサプライチェーンリスクを検知します。 <sub>⭐ 19.1k · Python</sub>
+- [labring/sealos](https://github.com/labring/sealos) - GitHubやAIコーディングエージェントから実際のプロジェクトを展開し、AIを活用した運用を継続します。 <sub>⭐ 18.4k · TypeScript</sub>
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - ClaudeコードのユニバーサルSEOスキル。 26サブスキル+ 19 テクニカルSEO、E-E-A-T、スキーマ、GEO/AEO、エージェント読み取りイン(Lighthouse Agent Browsing、WebMCP、llms.txt)、バックリンク、ローカル... <sub>⭐ 18.2k · Python</sub>
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - ブラウザの自動化を実行するためのAIエージェントのための最速のブラウザー, あなたのAIエージェントとあなたのログインしたブラウザの状態を共有するために構築されました, コードックスやクロードコードのような, あなたは邪魔することなく、. ゼロコスト, 0... <sub>⭐ 16.8k · JavaScript</sub>
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - GSAPの公式AIスキル。これらのスキルは、AIコーディングエージェントに最も効果的な練習や共通アニメーションパターン、プラグインの使用など、GSAP(GreenSock Animation Platform)を正しく使う方法を教えています。 <sub>⭐ 15.9k</sub>
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - ローカルのAIコーディングエージェント(クロードコード、カーソル、ジェミニ CLI、コーデックス)をメッセージングプラットフォーム(フェシュ/ラーク、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work)に橋渡しします。 あなたのAI開発者アシスタントとチャット... <sub>⭐ 15.7k · Go</sub>
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo コード: モデルとエージェントの共同展開場所 <sub>⭐ 13.6k · TypeScript</sub>
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - あらゆるAIモデルのための人工知能の研究とエンジニアリング技術の包括的なオープンソースのライブラリ。スキルとあなたのクラスドコード/コーデックス/ジェミニエージェントは、フル馬力を持つAI研究代理店になります。... <sub>⭐ 13.2k · TeX</sub>
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - エージェントのコーディングのためのオールインワン、オープンソースバックエンドプラットフォーム。InsForgeは、完全なスタックアプリをエンドツーエンドに出荷するために、あなたのコーディングエージェントデータベース、auth、ストレージ、コンピューティング、ホスティング、およびAIゲートウェイを提供します。 <sub>⭐ 13.0k · TypeScript</sub>
+- [infracost/infracost](https://github.com/infracost/infracost) - エンジニア、AIコーディングエージェント、CI/CDシフトFinOpsのクラウドコストインテリジェンスを左に! <sub>⭐ 12.5k · Go</sub>
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - 複雑なコードベースでハードな問題を解決するためにAIのコーディングエージェントを取得する最良の方法. <sub>⭐ 11.6k · TypeScript</sub>
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - 無料のローカルツールは、モデル、プロジェクト、およびタスクによって、37のツールとエージェント(クロードコード、カーソル、コーデックス、ジェミニなど)を渡るAIコーディングトークンの使用量とコストを追跡します。 npxコードバーン <sub>⭐ 11.3k · TypeScript</sub>
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - オープンソースの非同期コーディングエージェント <sub>⭐ 10.8k · Python</sub>
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) - AIコーディングエージェントのためのユニバーサルスキルローダー - npm i -g openskills <sub>⭐ 10.8k · TypeScript</sub>
+- [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - エージェントのHTMLエディタ — あなたのローカルAIエージェントは、HTMLを書きます, あなたはそれを出荷します. 75スキル× 9面(雑誌・デッキ・ポスター・XHS /ツイート・プロトタイプ・データレポート・ハイパーフレーム)サンドボックスプレビュー·... <sub>⭐ 9.0k · HTML</sub>
+- [google/adk-go](https://github.com/google/adk-go) - 高度なAIエージェントの構築、評価、展開のためのオープンソース、コードファーストのGoツールキット。 <sub>⭐ 8.8k · Go</sub>
+- [pacifio/atlas](https://github.com/pacifio/atlas) - エージェントのソース制御。複数のコーディングエージェントを使用して、変更を追跡し、1つの場所でそれらをクエリします <sub>⭐ 8.7k · Rust</sub>
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Claudeコード、Codex、OpenCode、Ampなどの複数のAI端末エージェントを管理します。 <sub>⭐ 8.6k · Go</sub>
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - 無料のオープンソースのAI Officeスイート:Docs、スプレッドシート、スライド、PDF、MarkdownおよびHTMLエディタを内蔵したAIエージェントと組み合わせることで、genoffice CLIとエージェントが機能し、Claudeコード、Codex、Cursorは作成して作成することができます。 <sub>⭐ 8.4k · TypeScript</sub>
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Obsidian - OpenCode、Codex、Claudeコードなどでエージェントを実行します。 <sub>⭐ 7.8k · TypeScript</sub>
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - エージェントのUI要素をコピーする <sub>⭐ 7.6k · TypeScript</sub>
+- [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.aiのコーディング エージェントハーネス。強力でインテリジェントな拡張性。 <sub>⭐ 7.3k · TypeScript</sub>
+- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - クロードコード、コワーク、コーデックス、AIエージェントの戦闘テスト方法に基づいて構築された製品管理スキルフレームワーク。 <sub>⭐ 7.1k · Shell</sub>
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma:AIエージェント(Cursor、Claude Code、Codex)と Figma 間の MCP インテグレーションにより、Agentic AI が図鑑にコミュニケーションをとりながらデザインを読み、プログラム的に変更することができます。 <sub>⭐ 7.0k · JavaScript</sub>
+- [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - プロフェッショナルなAIコーディングエージェントのための安全で検証済みのスキルレジストリ。 Antigravity、Claude Code、Curesor、Copilotなどを絶対的な自信で拡張します。 <sub>⭐ 7.0k · TypeScript</sub>
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - AIのコーディング、Vim様式 <sub>⭐ 6.9k · Lua</sub>
+- [purocean/yn](https://github.com/purocean/yn) - バージョン管理、AI Copilot、ドキュメントアノテーション、マインドマップ、文書の暗号化、実行可能なコードスニペット、チャート埋め込み、HTMLアプリレット、プラグイン、および... <sub>⭐ 6.8k · TypeScript</sub>
+- [MengTo/Skills](https://github.com/MengTo/Skills) - コードックス、クロード、カーサーターなどのAIコーディングエージェントを用いたデザイナーやビルダーのためのエージェントスキル <sub>⭐ 6.6k · HTML</sub>
+- [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - クロードコード、コーデックス、カーサーターなどのAIコーディングエージェントを監視するピクセルデスクトップペットなので、必要なくありません。 <sub>⭐ 6.3k · JavaScript</sub>
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - Claudeを用いたAIを活用したセキュリティレビューGitHubアクションは、セキュリティ脆弱性のコード変更を分析します。 <sub>⭐ 6.3k · Python</sub>
+- [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - トップAIツールのためのシステムプロンプトの収集. AIエージェントビルダーと迅速なエンジニアに最適です。 コンピューティング: ChatGPT、Claude、Perplexity、Manus、Claudeコード、可愛らしい、v0、Grok、同じ新しい... <sub>⭐ 6.2k · TypeScript</sub>
+- [baserow/baserow](https://github.com/baserow/baserow) - データベース、自動化、アプリ、エージェントをAIで構築するコードなし。クラウド上で利用可能なオープンソースプラットフォームとセルフホスト。GDPR、HIPAA、SOC 2に準拠しています。 最高のAirtable代替手段。 <sub>⭐ 6.1k · Python</sub>
+- [google/agents-cli](https://github.com/google/agents-cli) - コーディングアシスタントをGoogle Cloud上でAIエージェントの作成、評価、デプロイでエキスパートに変えるCLIとスキル。 <sub>⭐ 6.0k · Python</sub>
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - VSコードのオープンソース・カーサールのようなAIコーディングエージェント - 代理チャット、マルチプロペラLLM(OpenAI, Ollama, llama.cpp)、セマンティック検索、MCPサポート <sub>⭐ 6.0k · TypeScript</sub>
+- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - AI主導ソフトウェア開発のためのマルチエージェントシステム。 自然言語の要件を作業ソフトウェアに変換するために、DevOpsツールでLMを組み合わせます。 すべての開発言語をサポートし、拡張する... <sub>⭐ 6.0k · HTML</sub>
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - 独自のコーディングエージェントを作成する方法を教えるワークショップ。 Rooコード、Cline、Amp、カーサー、WindsurfまたはOpenCodeと同様に。 <sub>⭐ 5.9k · Go</sub>
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover:自動テスト生成とコードカバレッジの強化のためのAI搭載ツール! <sub>⭐ 5.7k · Python</sub>
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 端末からAIコーディングエージェント全体でトークンの使用状況を追跡します。トラッキングされたトークンの兆しを持つグローバルリーダーボードです。 <sub>⭐ 5.6k · Rust</sub>
+- [dotnet/skills](https://github.com/dotnet/skills) - .NETとC#でAIコーディングエージェントを支援するスキルのリポジトリ <sub>⭐ 5.5k · C#</sub>
+- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - ローカルファースト検索、フェッチ、クロール&MCPに関する研究 - AIコーディングエージェントのgo-toウェブ。 APIキーなし、クラウドなし、$ /クエリなし。 パブリックベータ。 <sub>⭐ 5.4k · TypeScript</sub>
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - 50以上のコーディングツールでAIエージェントのスキルを管理、同期および整理するための軽量デスクトップアプリ — クロードコード、コーデックス、カーサー、コピロット、ジェミニ CLIなど。 <sub>⭐ 5.4k · Rust</sub>
+- [entireio/cli](https://github.com/entireio/cli) - CLI は、Git ワークフローに目を向けて、AI エージェントのセッションをキャプチャします。セッションはコミットとともにインデックス化され、コードがあなたのリポジトリで書かれているかの検索可能なレコードを作成します。 <sub>⭐ 5.2k · Go</sub>
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon 音声通知 (+ more!) Claude コード、Codex、IDEs、および任意の AI エージェントの。端末をベビーシッター停止します。 今すぐピーオンを雇用してください。 <sub>⭐ 5.1k · Shell</sub>
+- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Drivenライフサイクル(AI-DLC) 適応型ワークフローステアリングルール <sub>⭐ 5.0k · TypeScript</sub>
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - Claudeコード、CodexなどのAIツールのSwiftUIエージェントスキル。 <sub>⭐ 4.9k</sub>
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - コンテンツを監査し、AIの書き込みパターンを削除するためにコンテンツを書き換えるスキル。 Claudeコード、OpenClaw、Codex、Hermesなどのお気に入りのエージェントで使用してください。 <sub>⭐ 4.8k · JavaScript</sub>
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - クロードコードガイド - セットアップ、コマンド、ワークフロー、エージェント、スキル&ヒント-n-tricksからパワーユーザーまで! <sub>⭐ 4.6k · Python</sub>
-- [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees.… <sub>⭐ 4.6k · HTML</sub>
-- [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. <sub>⭐ 4.4k · TypeScript</sub>
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code. <sub>⭐ 4.3k · JavaScript</sub>
-- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus… <sub>⭐ 4.2k · JavaScript</sub>
-- [CommandCodeAI/command-code](https://github.com/CommandCodeAI/command-code) - Command Code AI — the best coding agent for open models. <sub>⭐ 4.1k</sub>
-- [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! <sub>⭐ 4.0k · JavaScript</sub>
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse , validation, version control and collaboration in hardware; starting with electronics <sub>⭐ 4.0k · Python</sub>
-- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. <sub>⭐ 3.9k · TypeScript</sub>
-- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development <sub>⭐ 3.9k · JavaScript</sub>
-- [gadievron/raptor](https://github.com/gadievron/raptor) - Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we… <sub>⭐ 3.9k · Python</sub>
-- [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task… <sub>⭐ 3.9k · Rust</sub>
-- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. <sub>⭐ 3.8k · Rust</sub>
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go <sub>⭐ 3.8k · Go</sub>
-- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP… <sub>⭐ 3.8k · Python</sub>
-- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features. <sub>⭐ 3.8k · Python</sub>
-- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time. <sub>⭐ 3.7k · Rust</sub>
-- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure. <sub>⭐ 3.7k · TypeScript</sub>
-- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). <sub>⭐ 3.6k · Python</sub>
-- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents <sub>⭐ 3.5k · Python</sub>
-- [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. <sub>⭐ 3.5k · Python</sub>
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API <sub>⭐ 3.5k · TypeScript</sub>
-- [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of! <sub>⭐ 3.5k · Python</sub>
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - A collection of Golang agentic skills that works <sub>⭐ 3.4k · Go</sub>
-- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and… <sub>⭐ 3.4k · JavaScript</sub>
-- [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust. <sub>⭐ 3.3k · Rust</sub>
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and Codex skills. <sub>⭐ 3.3k · Python</sub>
-- [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code <sub>⭐ 3.2k · Go</sub>
-- [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. <sub>⭐ 3.1k · Rust</sub>
-- [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings. <sub>⭐ 3.1k · TypeScript</sub>
-- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by… <sub>⭐ 3.1k · Python</sub>
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language. <sub>⭐ 3.0k · JavaScript</sub>
-- [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps <sub>⭐ 3.0k · TypeScript</sub>
-- [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents <sub>⭐ 2.9k · TypeScript</sub>
-- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction… <sub>⭐ 2.9k · Python</sub>
-- [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books. <sub>⭐ 2.9k</sub>
-- [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) - Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. <sub>⭐ 2.9k · TypeScript</sub>
-- [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. <sub>⭐ 2.8k · Rust</sub>
-- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) - Claude Code skill: four-phase plan hardening (recon, interrogate, Codex adversarial review, cross-model build & inspection) — two AI models harden your plan before a line of code exists, then swap… <sub>⭐ 2.7k · Python</sub>
-- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. <sub>⭐ 2.7k · Rust</sub>
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification <sub>⭐ 2.6k</sub>
-- [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with… <sub>⭐ 2.5k</sub>
-- [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional… <sub>⭐ 2.5k · Python</sub>
-- [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. <sub>⭐ 2.5k · TypeScript</sub>
-- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. <sub>⭐ 2.5k · TypeScript</sub>
-- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync. <sub>⭐ 2.5k · TypeScript</sub>
-- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions <sub>⭐ 2.5k · Swift</sub>
-- [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI. <sub>⭐ 2.4k · TypeScript</sub>
-- [LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M) - KunLun-M — Open-source static code analysis for PHP, Nodejs/JavaScript, Python, Golang, Java and C/C++, with AST-based semantic scanning and one-click AI Agent integration (OpenClaw, Codex, Claude… <sub>⭐ 2.4k · Python</sub>
-- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production… <sub>⭐ 2.4k · Vue</sub>
-- [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console. <sub>⭐ 2.4k · Go</sub>
-- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM Council — a Claude Code skill that runs your decisions through 5 AI advisors with peer review <sub>⭐ 2.3k</sub>
-- [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents. <sub>⭐ 2.3k · Shell</sub>
-- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog… <sub>⭐ 2.3k · Python</sub>
-- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections… <sub>⭐ 2.3k · Shell</sub>
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. <sub>⭐ 2.3k · Go</sub>
-- [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants <sub>⭐ 2.3k · Python</sub>
-- [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. <sub>⭐ 2.2k · Python</sub>
-- [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices <sub>⭐ 2.2k · C</sub>
-- [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices <sub>⭐ 2.2k · JavaScript</sub>
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code. <sub>⭐ 2.2k · JavaScript</sub>
-- [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite <sub>⭐ 2.2k · Python</sub>
-- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) - Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local… <sub>⭐ 2.1k · JavaScript</sub>
-- [crshdn/mission-control](https://github.com/crshdn/mission-control) - The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted… <sub>⭐ 2.1k · TypeScript</sub>
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code. <sub>⭐ 2.1k · JavaScript</sub>
-- [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) - A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems <sub>⭐ 2.1k</sub>
-- [appeeky/aso-skills](https://github.com/appeeky/aso-skills) - AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI… <sub>⭐ 2.1k · MDX</sub>
-- [Octane0411/open-vibe-island](https://github.com/Octane0411/open-vibe-island) - Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump back instantly. <sub>⭐ 2.0k · Swift</sub>
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. <sub>⭐ 2.0k · Nix</sub>
-- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. <sub>⭐ 2.0k · JavaScript</sub>
-- [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents <sub>⭐ 2.0k · Python</sub>
-- [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - Zoo Code gives you a whole dev team of AI agents in your code editor. <sub>⭐ 1.9k · TypeScript</sub>
-- [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering <sub>⭐ 1.9k · Python</sub>
-- [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. <sub>⭐ 1.9k · Swift</sub>
-- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition. <sub>⭐ 1.9k · TypeScript</sub>
-- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. <sub>⭐ 1.9k · TypeScript</sub>
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. <sub>⭐ 1.9k · TypeScript</sub>
-- [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and… <sub>⭐ 1.9k · C#</sub>
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews <sub>⭐ 1.9k</sub>
-- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. <sub>⭐ 1.9k · TypeScript</sub>
-- [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code <sub>⭐ 1.8k · Rust</sub>
-- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents. <sub>⭐ 1.8k · HTML</sub>
-- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway <sub>⭐ 1.8k · TypeScript</sub>
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. <sub>⭐ 1.8k · Python</sub>
-- [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents <sub>⭐ 1.8k · Python</sub>
-- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to… <sub>⭐ 1.8k · Python</sub>
-- [px0-ai/px0](https://github.com/px0-ai/px0) - px0 is an IDE built for reviewing AI-generated code, optimized for speed. It turns your browser into a zero-latency console with native Git and GitHub integrations, instant search across massive… <sub>⭐ 1.7k · Go</sub>
-- [google/adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.7k · Java</sub>
-- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative. <sub>⭐ 1.7k · TypeScript</sub>
-- [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”. <sub>⭐ 1.7k · Rust</sub>
-- [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel. <sub>⭐ 1.7k · TypeScript</sub>
-- [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) - Collection of specialized AI subagents for Claude Code for personal use (full-stack development). <sub>⭐ 1.7k</sub>
-- [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules. <sub>⭐ 1.7k · Go</sub>
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration. <sub>⭐ 1.7k</sub>
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants. <sub>⭐ 1.7k · Shell</sub>
-- [sandeco/reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents <sub>⭐ 1.7k · JavaScript</sub>
-- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Curated skills, sub-agents, and config templates that supercharge Claude Code — research, image gen, GitHub automation & more. <sub>⭐ 1.7k · Python</sub>
-- [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) - Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure <sub>⭐ 1.7k · Shell</sub>
-- [spec-kitty/spec-kitty](https://github.com/spec-kitty/spec-kitty) - Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering… <sub>⭐ 1.7k · Python</sub>
-- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features… <sub>⭐ 1.6k · Python</sub>
-- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation… <sub>⭐ 1.6k · Python</sub>
-- [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code. <sub>⭐ 1.6k · Go</sub>
-- [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp. <sub>⭐ 1.6k · TypeScript</sub>
-- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent <sub>⭐ 1.6k · TypeScript</sub>
-- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more. <sub>⭐ 1.6k · TypeScript</sub>
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity… <sub>⭐ 1.6k · TypeScript</sub>
-- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent: Your intelligent companion for seamless AI engineering and research. Integrate with arxiv and paper with code to provide better code/research plans OpenAI, Anthropic, Gemini, Ollama, etc… <sub>⭐ 1.6k · Python</sub>
-- [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more <sub>⭐ 1.5k · TypeScript</sub>
-- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework. <sub>⭐ 1.5k · Shell</sub>
-- [bcurts/agentchattr](https://github.com/bcurts/agentchattr) - Free, local chat where AI coding agents can tag each other, talk, and coordinate with you. <sub>⭐ 1.5k · Python</sub>
-- [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.5k · Shell</sub>
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook. <sub>⭐ 1.5k · Go</sub>
-- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix <sub>⭐ 1.5k · HTML</sub>
-- [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents <sub>⭐ 1.5k · TypeScript</sub>
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit <sub>⭐ 1.5k · Go</sub>
-- [Paritok-official/paritok-4b-v1](https://github.com/Paritok-official/paritok-4b-v1) - Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our… <sub>⭐ 1.5k · Python</sub>
-- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) - Open source, self-hosted AI code review. Bring your own LLM. <sub>⭐ 1.4k · TypeScript</sub>
-- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - Skills that guide AI coding agents to help you build product-specific AI evals. <sub>⭐ 1.4k</sub>
-- [ammaarreshi/gemma-chat](https://github.com/ammaarreshi/gemma-chat) - Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama <sub>⭐ 1.4k · TypeScript</sub>
-- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands <sub>⭐ 1.4k · Python</sub>
-- [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) - AI-powered sales team for Claude Code. Research prospects, qualify leads (BANT + MEDDIC), find decision makers, generate outreach sequences, prepare for meetings, write proposals, and produce PDF… <sub>⭐ 1.4k · Python</sub>
-- [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and… <sub>⭐ 1.4k · TypeScript</sub>
-- [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries. <sub>⭐ 1.4k · Zig</sub>
-- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions <sub>⭐ 1.4k · Python</sub>
-- [ntegrals/10x](https://github.com/ntegrals/10x) - 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted. <sub>⭐ 1.4k · TypeScript</sub>
-- [wrtnlabs/autobe](https://github.com/wrtnlabs/autobe) - AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code <sub>⭐ 1.4k · TypeScript</sub>
-- [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - A user-friendly, multi-platform GUI for managing and running CrewAI agents and tasks. Supports Conda and virtual environments, no coding needed. <sub>⭐ 1.4k · Python</sub>
-- [pinchbench/skill](https://github.com/pinchbench/skill) - PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with by the humans at https://kilo.ai <sub>⭐ 1.4k · Python</sub>
-- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more. <sub>⭐ 1.4k</sub>
-- [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by… <sub>⭐ 1.4k · Python</sub>
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio… <sub>⭐ 1.4k · JavaScript</sub>
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later. Comes with AI agent skill to write, edit and format the code. <sub>⭐ 1.4k · C</sub>
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI… <sub>⭐ 1.3k · Rust</sub>
-- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Mechanical verification for AI coding agents — skills pack or full harness (stop-hook gates, artifact checks, independent judges). <sub>⭐ 1.3k · TypeScript</sub>
-- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source… <sub>⭐ 1.3k · Python</sub>
-- [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Empryo's engine, v2 (soulforge) and issue tracker!! Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com <sub>⭐ 1.3k · TypeScript</sub>
-- [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) - Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks. <sub>⭐ 1.3k · Python</sub>
-- [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI)… <sub>⭐ 1.3k · Python</sub>
-- [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. <sub>⭐ 1.3k · TypeScript</sub>
-- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills)… <sub>⭐ 1.3k · Python</sub>
-- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code dashboard with usage stats, error analysis, and sharable feature <sub>⭐ 1.3k · Python</sub>
-- [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) - Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs <sub>⭐ 1.3k</sub>
-- [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop… <sub>⭐ 1.2k · Python</sub>
-- [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) - Reddit research skills for Claude Code and AI agents <sub>⭐ 1.2k · Python</sub>
-- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify. <sub>⭐ 1.2k · JavaScript</sub>
+- [nexu-io/html-video](https://github.com/nexu-io/html-video) - プログラマティックなビデオコーディングエージェント — HTMLをノートパソコンで動画に変換します。HTML、CSS、データをプラグイン可能なレンダリングエンジン、21のテンプレート、AIサウンドトラックを使って実際のMP4sに変えます。Apache-2.0は、パーレンダー料金なしです。 <sub>⭐ 4.6k · HTML</sub>
+- [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - 制限 - AIエージェント、AIコードレビュー、AI完了を含む企業、品質初の厳格なAIコーダ。 <sub>⭐ 4.4k · TypeScript</sub>
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - 一般的なAI生成UIデザイン、テキスト、コードをフィルタリングするAIコーディングエージェントのルール。 <sub>⭐ 4.3k · JavaScript</sub>
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Claude Designをエージェントスキルとしてローカルで実行 — カーソル、Claudeコードなど。洗練されたUIモックアップ、プロトタイプ、デッキ&ワイヤーフレームを自在なHTMLとして作成し、claude.ai /デザインなしで。 Opusとベスト... <sub>⭐ 4.2k · JavaScript</sub>
+- [CommandCodeAI/command-code](https://github.com/CommandCodeAI/command-code) - コマンドコードAI — オープンモデルの最高のコーディングエージェント。 <sub>⭐ 4.1k</sub>
+- [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - AIエージェントによる完全自動化されたYouTubeチャンネル管理。24時間365日動画を作成、最適化、公開します。無料のGemini APIまたはOpenAIで動作します。コーディングは必要ありません! <sub>⭐ 4.0k · JavaScript</sub>
+- [atopile/atopile](https://github.com/atopile/atopile) - コードで回路基板の設計!ソフトウェアのような設計再使用、検証、バージョン管理およびハードウェアのコラボレーションを入手してください。 <sub>⭐ 4.0k · Python</sub>
+- [yetone/cumora](https://github.com/yetone/cumora) - エージェントチームが集う場所。AIエージェントが一流チームメイトであるクロスプラットフォームのチームのチャット、クラウドやウィールダウン(クロードコード/コーデックス)の脳。 <sub>⭐ 3.9k · TypeScript</sub>
+- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - クロードコードツールキット - エージェント、コマンド、スキル、ルール、および生産性向上AI支援開発のためのホック <sub>⭐ 3.9k · JavaScript</sub>
+- [gadievron/raptor](https://github.com/gadievron/raptor) - Raptor は、Claude コードを汎用人工知能の攻撃/防御セキュリティエージェントに変えます。 Claude.md を使用してルール、サブエージェント、およびスキルを作成して、セキュリティツールの使用状況を監視します。 <sub>⭐ 3.9k · Python</sub>
+- [golutra/golutra](https://github.com/golutra/golutra) - 自動化、ワークフロー、および開発者向けツール用のマルチエージェントAIオーケストレーションプラットフォーム。GolutraはCodex、Claudeコード、OpenClawを並列実行と統一されたエージェントシステムに変えます... <sub>⭐ 3.9k · Rust</sub>
+- [xintaofei/codeg](https://github.com/xintaofei/codeg) - 連携型マルチエージェントのAIコーディングワークスペース:Claude Code、Codex、OpenCode、Pi、Grok Buildなどデスクトップアプリ、セルフホストサーバー、またはDockerからの集計セッション。 <sub>⭐ 3.8k · Rust</sub>
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - AI のコーディングエージェントが現代のGoを書くのに役立ちます <sub>⭐ 3.8k · Go</sub>
+- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - ClaudeコードまたはCodexを最もインテリジェントなDeep Research Agentに変換します。 Webリサーチを永続的で検索可能なwikiに変換し、それ自体で構築します。 ホストされたAPI + MCP ... <sub>⭐ 3.8k · Python</sub>
+- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - AIコーディングエージェント(Antigravity、Claude Code)用のプラグインでSpec-Driven Developmentを指定し、計画を立ててソフトウェア機能を実装できます。 <sub>⭐ 3.8k · Python</sub>
+- [graykode/abtop](https://github.com/graykode/abtop) - htop と同様に、AI コーディングエージェント。Claude コードとコーデックス CLI セッションを監視します。トークン、コンテキストウィンドウ、レート制限、およびリアルタイムでポート。 <sub>⭐ 3.7k · Rust</sub>
+- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - VSコード用のオープンソースのAIコーディングアシスタント。 コード補完、チャット、編集、レビューをローカルまたはホストモデルで行います。 モデル、インフラストラクチャ。 <sub>⭐ 3.7k · TypeScript</sub>
+- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - エキスパートのSwiftUIベストプラクティスをAIコーディングツール(エージェントスキルオープンフォーマット)に導きます。 <sub>⭐ 3.6k · Python</sub>
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - 拡張可能なマルチエージェント CLI ワークスペース、コーデックス、クロード、ジェミニ、キミ、キューエン、カーサー、コピロット、Pi、OpenCode、その他のAIコーディングエージェント <sub>⭐ 3.5k · Python</sub>
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA製品向けのエージェントスキル — Claude Code、Codexなどのコーディングエージェントにインストールして、物理AI、ロボティクス、シミュレーション、CUDA、RAGワークフローを終わらせます。 <sub>⭐ 3.5k · Python</sub>
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Grok API 用のオープンソースのコーディングエージェント <sub>⭐ 3.5k · TypeScript</sub>
+- [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - 続いてAIエージェントマスタークラスのビデオ! YouTubeで作成して使用しているすべてのコードは、こちらで利用し、トップに構築することも可能です。 <sub>⭐ 3.5k · Python</sub>
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - ゴランのエージェントスキルを身につけるコレクション <sub>⭐ 3.4k · Go</sub>
+- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - AI コーディングエージェントのオピニオンスキルは、Markdownで直接素晴らしい図と視覚化を作成するために。 これらのスキルは、ダイアグラム生成、データ可視化、および... <sub>⭐ 3.4k · JavaScript</sub>
+- [sentrux/sentrux](https://github.com/sentrux/sentrux) - AIエージェントがフィードバックループを閉じるのに役立つリアルタイムアーキテクチャセンサーで、コードの品質の再帰的改善を実現します。 純粋な錆。 <sub>⭐ 3.3k · Rust</sub>
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - ChatGPT、OpenAI API、Codex に関連するオープンソースのGitHubリポジトリのキュレーションリスト。 Claudeコードとコーデックススキルを使用して検索できます。 <sub>⭐ 3.3k · Python</sub>
+- [dosco/graphjin](https://github.com/dosco/graphjin) - AI エージェントの 1 つの管理されたグラフ — GraphQL + MCP データベース、ファイル、API、コード <sub>⭐ 3.2k · Go</sub>
+- [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - コードを明快に変えます。 正確なテクニカルドキュメントとAI対応のコンテキストを数分で生成し、人的チームやインテリジェントなエージェントのために完璧に構造化します。 <sub>⭐ 3.1k · Rust</sub>
+- [athasdev/athas](https://github.com/athasdev/athas) - Gitサポート、AIエージェント、vimキーバインドを備えたTauri(Rust and React)と組み込まれた軽量でクロスプラットフォームのコードエディタです。 <sub>⭐ 3.1k · TypeScript</sub>
+- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - ソーシャルメディアリサーチのためのAIエージェントのスキル。 投稿、コメントマイニング、競合涙、TikTok、Instagram、YouTube、Reddit、X、LinkedInなどの広告ライブラリやトレンドを網羅しています。 <sub>⭐ 3.1k · Python</sub>
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - AIが生成できるアプリをビルドし、人間はレビューでき、チームを維持できます。コードと自然言語間で動作する設定です。 <sub>⭐ 3.0k · JavaScript</sub>
+- [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - AnthropicのAIコーディングエージェントのアーキテクチャ、パターンおよび内部 - ソースマップからリバースエンジニアリング <sub>⭐ 3.0k · TypeScript</sub>
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) - ルーラー — すべてのコーディングエージェントに同じルールを適用します <sub>⭐ 2.9k · TypeScript</sub>
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - Claudeコード、Codex、Grokビルド、およびAntigravityのネイティブプラグインを備えた、エージェントスキル互換代理店(C)のためのDe-AIライティングスキル。 フィクションのための物語的なアーキテクチャ修復... <sub>⭐ 2.9k · Python</sub>
+- [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md ルール/AIコーディングエージェントのスキル: Codex, Cursor & Claude コード。クリーンコード、Refactoring、DDD、Clean Architecture、DDIAプログラミングブックに触発される。 <sub>⭐ 2.9k</sub>
+- [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) - Bridge Claudeコード/コーデックスをIMプラットフォームへ — Telegram、Discord、Feishu/LarkからAIコーディングエージェントとチャット。 <sub>⭐ 2.9k · TypeScript</sub>
+- [zeronsh/zeron](https://github.com/zeronsh/zeron) - クロードコード、コーデックス、カーソル、デビンなどのコーディングエージェントのネイティブコントロールプレーン。 <sub>⭐ 2.8k · Rust</sub>
+- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) - クロードコードのスキル:4相計画硬化(再コン、インターロゲート、Codex広告主レビュー、クロスモデルビルド&検査) - 2つのAIモデルは、コードが存在する前にあなたの計画を固着させ、その後スワップ... <sub>⭐ 2.7k · Python</sub>
+- [Helvesec/rmux](https://github.com/Helvesec/rmux) - ユニバーサル・ラストのマルチプレクサをタイプしたSDKで、CLIまたはTUIアプリをコードからドライブします。 Linux、macOS、Windows上でネイティブです。 <sub>⭐ 2.7k · Rust</sub>
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - エージェントのAIコーディングアシスタントがどのように機能するかに関する研究。迅速なパターン、エージェントのコーディネート、セキュリティ分類の再構築 <sub>⭐ 2.6k</sub>
+- [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - 履歴書の最適化、ジョブアプリケーションおよびキャリア開発に焦点を当てたAIエージェントスキルのコレクション。 Claudeコードを望む求職者、キャリアチェンジャー、専門家のために構築された... <sub>⭐ 2.5k</sub>
+- [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - AI コーディングエージェントのスキルを集約。開発、文書化、プランニング、プロフェッショナルな能力を拡張する手順とスクリプトがパッケージ化されています。 <sub>⭐ 2.5k · Python</sub>
+- [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - コードマシンは、AI コーディングエージェントを繰り返し可能な長時間実行するワークフローにオーケストさせるオープンソースツールです。 <sub>⭐ 2.5k · TypeScript</sub>
+- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - 企業ではなく、コミュニティの集合体によって構築されたターミナル用のオープンコーディングエージェント。独自のモデルを持って、あなたのコードをマシンに保持し、誰にも何もoweしません。 <sub>⭐ 2.5k · TypeScript</sub>
+- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCPサーバーとClaudeコードのスキルは、EXPAIDraw — プログラマティック・キャンバス・ツールキットでリアルタイムのキャンバスを組み合わせてAIエージェントを介して図を作成、編集、およびエクスポートします。 <sub>⭐ 2.5k · TypeScript</sub>
+- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - MacBookのノッチでリアルタイムAIコーディングエージェントステータスパネル — ライブ状態、承認、30以上のAIコーディングツールに対応し、iPhoneとApple Watchの仲間 <sub>⭐ 2.5k · Swift</sub>
+- [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Claudeコード、Codex、Gemini CLIなどのエージェントクライアントプロトコル(ACP)を介してAIエージェントをObsidianに持ち込む。 <sub>⭐ 2.4k · TypeScript</sub>
+- [LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M) - KunLun-M — PHP、Nodejs/JavaScript、Python、Golang、Java および C/C++ 用のオープンソースの静的コード解析、ASTベースのセマンティックスキャニングとワンクリックAIエージェント統合(OpenClaw、Codex、Claude... <sub>⭐ 2.4k · Python</sub>
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - アーキテクチャファーストシステム設計: 26バイリンガルチュートリアル、25のアーキテクチャテンプレート、および6つのエンドツーエンドケースは、分散システム、AIネイティブシステム、RAG、コーディングエージェント、生産をカバーしています... <sub>⭐ 2.4k · Vue</sub>
+- [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - AIエージェントのワークフォースプラットフォーム。100台のAIコーディングエージェントを自分のマシンで実行し、スケジュールや分離を行い、1つのコンソールからすべてをスタイリングします。 <sub>⭐ 2.4k · Go</sub>
+- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM 評議会 — 5 つのAI アドバイザーによる決定を下す クロード コードのスキル <sub>⭐ 2.3k</sub>
+- [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai エージェントスキル — ビジネス、マーケティング、UX&コーディングフレームワーク ベストセラーブックから。 50 のスキル + 12 クロードコード、コーデックス、カーサールなどのエージェントのためのガイド付きの旅。 <sub>⭐ 2.3k · Shell</sub>
+- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claudeコードブログスキルスイート:30サブスキル、5エージェント、5-gate v1.9.0 ブログデリバリー契約、GoogleランキングとAI引用のためのデュアル最適化。 AIマーケティングハブ/クラスドブログでアクティブ開発... <sub>⭐ 2.3k · Python</sub>
+- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Claudeコードをあなたの攻撃的なセキュリティ研究アシスタントに変えてください。 認定された浸透テスト計画のエンゲージメントのための専門化されたAIサブエージェントは、再コンを分析し、調査悪用を検証し、検出を構築します... <sub>⭐ 2.3k · Shell</sub>
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - Claudeコード、OpenClaw、Hemes、カスタムエージェント+ハーネスなどのAIエージェント用のHTTP認証プロキシとボルト。 <sub>⭐ 2.3k · Go</sub>
+- [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - AIエージェントとAIコーディングアシスタントのためのWebクロールおよびRAG機能 <sub>⭐ 2.3k · Python</sub>
+- [google/mantis](https://github.com/google/mantis) - AI コーディングエージェント用のモジュール式、スタックアグノスティックツールキットを自動で見つけ、再現し、パッチの脆弱性。 <sub>⭐ 2.2k · Python</sub>
+- [espressif/esp-claw](https://github.com/espressif/esp-claw) - IoTデバイス向けAIエージェントフレームワーク「チャットコーディング」のEPS-Claw <sub>⭐ 2.2k · C</sub>
+- [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - エキスパートレベルの WordPress AIコーディングアシスタントの知識 - ブロック、テーマ、プラグイン、ベストプラクティス <sub>⭐ 2.2k · JavaScript</sub>
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - エージェントがコード内のセキュリティの問題を見つけて検証するためのオープンソース、セルフホスト型のAI脆弱性調査ツール。 <sub>⭐ 2.2k · JavaScript</sub>
+- [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - AI コーディングエージェントの非同期連携レイヤー:アイデンティティ、受信トレイ、検索可能なスレッド、およびアドバイザリーファイルが FastMCP + Git + SQLite をリース <sub>⭐ 2.2k · Python</sub>
+- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) - Orkasはオープンソース、ローカルファーストのAIデスクトップアプリです。 司令官LLMはスペシャリストサブエージェントを指示し、インストール済みのCLIを実行します - クロードコード、コーデックス、OpenCode、OpenClaw、ヘルメス — ローカルとして... <sub>⭐ 2.1k · JavaScript</sub>
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) - 世界初の自動製品エンジン(APE):AIエージェントは、市場を調査し、特長を生成し、PRとしてコードを出荷します。 Convoyモード、クラッシュ回復、コストトラッキング、80 + APIエンドポイント。 セルフホスト... <sub>⭐ 2.1k · TypeScript</sub>
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - アイエージェント、Web-Links、ノート、コードのRhizomaticマインドマッピング <sub>⭐ 2.1k · JavaScript</sub>
+- [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) - 今日のAIエージェントシステムと将来のAIエージェントシステムを設計するためのClaudeコードの系統的分析および議論 <sub>⭐ 2.1k</sub>
+- [appeeky/aso-skills](https://github.com/appeeky/aso-skills) - アプリストアの最適化(ASO)とアプリマーケティングのためのAIエージェントスキル。インディー開発者、アプリマーケター、およびClaudeコード、または任意のエージェントスキル互換性のあるAIを望む成長チームのために構築されています... <sub>⭐ 2.1k · MDX</sub>
+- [Octane0411/open-vibe-island](https://github.com/Octane0411/open-vibe-island) - AI コーディングエージェントのネイティブな macOS コントロール センター — セッションを監視し、アクションを承認して即座にジャンプします。 <sub>⭐ 2.0k · Swift</sub>
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - AI コーディングエージェントと開発ツールの Nix パッケージ。毎日自動更新されます。 <sub>⭐ 2.0k · Nix</sub>
+- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - 小さなLLM用に最適化されたAIコーディングエージェント。4Bアクティブモデルの87%ベンチマーク。 <sub>⭐ 2.0k · JavaScript</sub>
+- [nottelabs/notte](https://github.com/nottelabs/notte) - クラウドブラウザのインフラストラクチャとWebオートメーションプラットフォームで、AIやコーディングエージェントを <sub>⭐ 2.0k · Python</sub>
+- [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - ズームコードは、あなたのコードエディタでAIエージェントの全体の開発者チームを提供します。 <sub>⭐ 1.9k · TypeScript</sub>
+- [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - フィールドエンジニアリングが提供するコーディングエージェントのデータブリックツールキット <sub>⭐ 1.9k · Python</sub>
+- [Shpigford/chops](https://github.com/Shpigford/chops) - AIエージェントのスキルは、ついに編成されました。 クローデコード、カーソル、コーデックス、ウィンドサーフィン、アンプを横断してスキルを閲覧、編集し、管理するためのmacOSアプリです。 <sub>⭐ 1.9k · Swift</sub>
+- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - AI コーディングエージェント用のノードベースのターミナルマネージャー — tmux-backed 端末と、無限のパン/ズームキャンバス上のドラッグ可能なノードとして並行するエージェントセッション。 macOS、Linux、およびブラウザ Server Edition. <sub>⭐ 1.9k · TypeScript</sub>
+- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - AIエージェントの Era 用のコードエディタ。複数の Claude コードとコーデックス をマシン上でプロジェクト全体で実行します。 <sub>⭐ 1.9k · TypeScript</sub>
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - デスクトップ用のオールインワンローカルAIスタジオ:チャット、イメージ、ビデオ生成と1つの無料のオープンソースアプリでコーディングエージェント。 WindowsおよびLinux。 Docker、ターミナルなし、クラウドは必要ありません。 <sub>⭐ 1.9k · TypeScript</sub>
+- [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA)AIはメーターを持っていないはずです。無制限のトークン。 永遠に。 あなたのマシン。 あなたのエージェント。 どこからでもそれを使用してください。 ローカルLMを搭載したターミナルネイティブコーディングエージェント - 100%オープンソース、フリーフォーエバー、および... <sub>⭐ 1.9k · C#</sub>
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - インスタントAIコードレビュー <sub>⭐ 1.9k</sub>
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - クロードコード、ジェミニ、コーデックス、または任意のコーディングエージェントを実行します。 清潔で独立したサンドボックスには、機密データの赤字と防腐性が焼き込まれています。 <sub>⭐ 1.9k · TypeScript</sub>
+- [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - 高性能なAIコーディングエージェントは、Rustで書かれたCLIをゼロの安全でないコード <sub>⭐ 1.8k · Rust</sub>
+- [standardagents/dmux](https://github.com/standardagents/dmux) - git ワークツリーとコーディングエージェントの dev エージェント マルチプレクサー。 <sub>⭐ 1.8k · HTML</sub>
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Vercel SandboxとAI GatewayのマルチエージェントAIコーディングプラットフォーム <sub>⭐ 1.8k · TypeScript</sub>
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Claudeコードに触発された最小限のAIコーディングエージェント(〜1,000行)。任意のLMで動作します。 符号化剤のためのNanoGPTを考える。 元々ナノコーダ。 <sub>⭐ 1.8k · Python</sub>
+- [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - AIエージェントのワークフローをカスタマイズするための素晴らしいLLMとAIエージェントスキル、リソースおよびツールのキュレーションリスト - Claudeコード、コーデックス、Gemini CLI、カスタムAIエージェントと連携 <sub>⭐ 1.8k · Python</sub>
+- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - ClaudeコードのAI法的アシスタントスキル。 契約レビュー、リスク分析、NDA生成、コンプライアンス監査、交渉戦略、およびPDFレポート — 14スキル、5つの並列エージェント。 あなたがしたい場合は... <sub>⭐ 1.8k · Python</sub>
+- [px0-ai/px0](https://github.com/px0-ai/px0) - px0は、AIが生成したコードをレビューするために構築されたIDEで、速度のために最適化されています。これにより、ブラウザはネイティブGitとGitHubの統合を備えたゼロレイテンシーコンソールに変わります。 <sub>⭐ 1.7k · Go</sub>
+- [google/adk-java](https://github.com/google/adk-java) - 高度なAIエージェントの構築、評価、および展開のためのオープンソース、コードファーストJavaツールキット。 <sub>⭐ 1.7k · Java</sub>
+- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - 手作りのクロードコードスキルは、エージェントの結果の品質を向上させることに重点を置いています。 OpenCode、Cursor、Antigravity、Gemini CLIなどと互換性があります。 CodeRabbitオープンソースの代替手段が含まれています。 <sub>⭐ 1.7k · TypeScript</sub>
+- [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - エージェントスキルを1か所で管理し、複数のAIコーディングツールのグローバルスキルディレクトリにそれらを同期するクロスプラットフォームデスクトップアプリ — 「一度インストールしてどこでも同期」。 <sub>⭐ 1.7k · Rust</sub>
+- [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - Vercel のオープンソース、セルフホスト型の AI コードレビューボット。 <sub>⭐ 1.7k · TypeScript</sub>
+- [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) - Claude Code for Personal use (フルスタック開発) の専門AIサブエージェントを収集。 <sub>⭐ 1.7k</sub>
+- [Twigpine/zero](https://github.com/Twigpine/zero) - あなたのモデル、あなたの機械、あなたの規則に答えるコーディングの代理店。 <sub>⭐ 1.7k · Go</sub>
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - エキスパートのSwift ConcurrencyガイダンスをAIコーディングツール(エージェントスキルオープンフォーマット):安全な通貨、パフォーマンス最適化、およびSwift 6マイグレーション。 <sub>⭐ 1.7k</sub>
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - AI コーディングアシスタントのエージェント最適化された React Native スキルを収集します。 <sub>⭐ 1.7k · Shell</sub>
+- [sandeco/reversa](https://github.com/sandeco/reversa) - 従来のシステムをAIコーディングエージェントの実行可能な仕様に変換 <sub>⭐ 1.7k · JavaScript</sub>
+- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - キュレーションされたスキル、サブエージェント、およびClaudeコードをスーパーチャージするコンフィグテンプレート - 研究、画像のgen、GitHubオートメーションなど。 <sub>⭐ 1.7k · Python</sub>
+- [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) - 新規のUbuntu VPSを30分で完全マルチエージェントAI開発環境に追い込みます: コーディングエージェント、セッション管理、安全ツール、および協調インフラ <sub>⭐ 1.7k · Shell</sub>
+- [spec-kitty/spec-kitty](https://github.com/spec-kitty/spec-kitty) - 組織統治によるSpec-Driven Development。 SpecsはAIエージェントに何を構築するかを伝えます。憲章では、どのようにしてビルドするのかを管理します。 Gitネイティブミッション、強制ワークフロー、および一貫したエンジニアリング... <sub>⭐ 1.7k · Python</sub>
+- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - 長時間水平コンピュータ使用ハーネス。タスクの状態を維持し、複雑なワークフローで信頼性の高い進捗を保ちながら、デスクトップアプリとCLI間でAIエージェントを実行します。 特徴... <sub>⭐ 1.6k · Python</sub>
+- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - トピック → 4K は、コーディングエージェント用のビデオをナレーションしました。 v5.3.0:ローカル TTS (最新無料 + azure, 外部エンジンなし)、マニフェストベースのアセットエンジン、リモーションコンポジション、費用対効果の高い AI 生成... <sub>⭐ 1.6k · Python</sub>
+- [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - MATLAB®は、MathWorks®の公式MATLAB MCP ServerでAIアプリケーションを使用して実行します。このMATLABサーバーでは、Claude Code®やVisual Studio®コードなどの幅広いコーディングエージェントをサポートしています。 <sub>⭐ 1.6k · Go</sub>
+- [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Sandboxes で Coding Agent を実行します。 HTTP 上での Them を制御します。 Claude Code、Codex、OpenCode、Amp をサポートします。 <sub>⭐ 1.6k · TypeScript</sub>
+- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Pi のコーディング代理店のためのトークン効率の高い MCP のアダプター <sub>⭐ 1.6k · TypeScript</sub>
+- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - デフォルトモデルとしてPepper AIとOpenCodeの不正なCHIpotleコンプートフォークを実行するAIコーディングエージェント。コミュニティプロジェクトは、ホームデポ、ロース、ターゲット、スターバックスなどからプロバイダーを追加します。 <sub>⭐ 1.6k · TypeScript</sub>
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - AI コーディングエージェントの事前実行ガード。 これは、破壊的な Git とファイルシステムコマンドをブロックし、ツールコールが実行される前に、機密ファイルをアクセスするための一般的な試み。 Amp コードをサポート, Antigravity... <sub>⭐ 1.6k · TypeScript</sub>
+- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent:シームレスなAIエンジニアリングと研究のためのあなたのインテリジェントな仲間。 より良いコード/リサーチ計画OpenAI、Anthropic、Gemini、Ollamaなどを提供するために、アルクシブと紙を統合... <sub>⭐ 1.6k · Python</sub>
+- [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - ポータブルなスキルを持つAIコーディングエージェントを過給。 クロードコード、カーソル、コーデックス、コピロット&40の周りにスキルをインストール、翻訳、共有 <sub>⭐ 1.5k · TypeScript</sub>
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - CLI AI コーディングエージェントのクロスベンダーメッセージング — Claude コード、Codex、Gemini & Copilot は 1 つのチームで互いに話します。 Bash + SQLite、デーモンなしフレームワークはありません。 <sub>⭐ 1.5k · Shell</sub>
+- [bcurts/agentchattr](https://github.com/bcurts/agentchattr) - AI コーディングエージェントがお互いにタグ付けしたり、話し合いたり調整したりできる無料のローカルチャットです。 <sub>⭐ 1.5k · Python</sub>
+- [google/adk-docs](https://github.com/google/adk-docs) - 高度なAIエージェントの構築、評価、展開のためのオープンソース、コードファーストツールキット。 <sub>⭐ 1.5k · Shell</sub>
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - git commit メッセージを書くか、ChatGPT AI (gpt-4.1, gpt-4o モデル) を使用してコードレビューを簡潔にし、自動的に git prepare-commit-msg hook をインストールします。 <sub>⭐ 1.5k · Go</sub>
+- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - 12の古典的な工学本で基づいたAIコードレビュー — 書籍引用、重度のラベルとリスク診断、およびフルスイープオートフィックスを含む6つの分析モード <sub>⭐ 1.5k · HTML</sub>
+- [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - AIコーディングエージェント向けユーティリティCLI <sub>⭐ 1.5k · TypeScript</sub>
+- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Git Commitで実行する無料、マイクロAIコードのレビュー <sub>⭐ 1.5k · Go</sub>
+- [Paritok-official/paritok-4b-v1](https://github.com/Paritok-official/paritok-4b-v1) - AI コーディングエージェントの非破壊的な圧縮ゲートウェイ。トークン請求書を 1 から 85% に長くても飽和したセッションでカットし、同じコンテキストウィンドウで ~3× 以上回転します。 <sub>⭐ 1.5k · Python</sub>
+- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) - オープンソース、自発的なAIコードレビュー。独自のLMLを持参してください。 <sub>⭐ 1.4k · TypeScript</sub>
+- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - AI コーディングのエージェントをガイドし、製品固有のAI evals の構築を支援します。 <sub>⭐ 1.4k</sub>
+- [ammaarreshi/gemma-chat](https://github.com/ammaarreshi/gemma-chat) - ローカルAIチャット+Apple Silicon用のコーディングエージェント、MLX / Ollamaをサポート <sub>⭐ 1.4k · TypeScript</sub>
+- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - エージェント、スキル、ホック、コマンドを備えたユニバーサル・クロードコードワークフロープラグイン <sub>⭐ 1.4k · Python</sub>
+- [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) - ClaudeコードのAI搭載セールスチーム。 調査見込み客、定評のあるリード(BANT + MEDDIC)、意思決定者を見つけ出し、アウトリーチシーケンスを生成し、会議の準備や提案書の作成、PDF作成などを行います。 <sub>⭐ 1.4k · Python</sub>
+- [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - CEOデスクからAIエージェントのエンパイアをコマンド — CLI、OAuth、API接続エージェント(クロードコード、コーデックスクリ、ジェミニクリ、OpenCode)をオーケストするローカル初のAIエージェントオフィスシミュレータ。 <sub>⭐ 1.4k · TypeScript</sub>
+- [justrach/codedb](https://github.com/justrach/codedb) - AIエージェント用のZigコードインテリジェンスサーバーとMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み込み、編集、デプス、スナップショット、リモートGitHubリポジトリのクエリ。 <sub>⭐ 1.4k · Zig</sub>
+- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - AI コーディングのためのマルチエージェントのオーケストレーション - クロードコード、キロ、コーデックスなど、分離されたtmuxセッションで調整 <sub>⭐ 1.4k · Python</sub>
+- [ntegrals/10x](https://github.com/ntegrals/10x) - 10x - 最大20倍のAIコーディングをマルチステップスーパーパワーで高速化。スマートモデルルーティング、BOK、完全セルフホストを備えたオープンソースエージェント。 <sub>⭐ 1.4k · TypeScript</sub>
+- [wrtnlabs/autobe](https://github.com/wrtnlabs/autobe) - TSバックエンドサーバーのAI Vibe Coding Agent、コンパイラスキルで強化された100%作業コードを生成する <sub>⭐ 1.4k · TypeScript</sub>
+- [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - CrewAIエージェントとタスクの管理および実行のためのユーザーフレンドリーでマルチプラットフォームGUI。コンダや仮想環境をサポートし、コーディングは必要ありません。 <sub>⭐ 1.4k · Python</sub>
+- [pinchbench/skill](https://github.com/pinchbench/skill) - PinchBenchは、LLMモデルをOpenClawコーディングエージェントとして評価するためのベンチマークシステムです。 https://kilo.aiで人間によって作られた <sub>⭐ 1.4k · Python</sub>
+- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - LennyのPodcastからClaudeコードとAIエージェントのための86製品管理スキル。 採用、ユーザー調査、戦略、出荷など。 <sub>⭐ 1.4k</sub>
+- [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - OpenClawのより美しく使いやすい代替手段です。 これは、より良いWeb UI、組み込みIMサポート、サンドボックス化されたランタイムとチャネルベースのチームコラボレーションを備えています。 フードの下では、それは... <sub>⭐ 1.4k · Python</sub>
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - あなたのAIのゲームデベロッパーハブ。 AI搭載ゲーム開発ツールの究極のリソースハブ。 最先端のLM、ワールドモデル、エージェント、コード、画像、テクスチャ、シェーダー、3Dモデル、アニメーション、ビデオ、オーディオ... <sub>⭐ 1.4k · JavaScript</sub>
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - 標準的なC99以降に推奨されるCコードスタイルとコーディングルール。AIエージェントのスキルを伴って、コードを書き出し、編集し、フォーマットします。 <sub>⭐ 1.4k · C</sub>
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - 独自のサーバーやクラウド上に展開するオープンソースのETL/ELT。DuckDBに構築:非コード/ローコードビジュアルパイプラインまたはSQL、385コンポーネント、dbt、CDC、データ品質、リバースETL、リネン、AI用のMCP... <sub>⭐ 1.3k · Rust</sub>
+- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - AIコーディングエージェントの機械的検証 — スキルパックまたはフルハーネス(ストップホックゲート、アーティファクトチェック、独立した判断)。 <sub>⭐ 1.3k · TypeScript</sub>
+- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad エレクトロニクスの設計のための AI のコーディングの代理店の技術。 Claude コードおよび OpenAI Codex と働かせて下さい。回路図を分析し、PCB のレイアウト、EMC の事前承諾、SPICE のシミュレーションはデータ用紙をダウンロードしましたり、源... <sub>⭐ 1.3k · Python</sub>
+- [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Empryoのエンジン、v2(soulforge)と問題トラッカー!! Empryoはシンボルを編集するグラフパワードAIコーディングエージェントです。文字列:AST手術、フルLSP、ライブコードゲノム。 https://empryo.comで入手してください <sub>⭐ 1.3k · TypeScript</sub>
+- [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) - AI コーディングエージェントのアーキテクチャ-aware:ベースライン優先、エビデンス検証済み、ドリフトチェック済み、および長いタスク間で安全。 <sub>⭐ 1.3k · Python</sub>
+- [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - ターミナルネイティブのAIコーディングエージェントとそれらをオーケストラにするハーネスのキュレーションディレクトリ。 オープンソースツール(Pi、OpenCode、Aider、Goose)、プラットフォームエージェント(クロードコード、コーデックス、Gemini CLI)をカバー... <sub>⭐ 1.3k · Python</sub>
+- [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - AI のセットアップを 1 つのコマンドで連続的に同期します。コードベーステーラーは、エージェントのスキル、MCP と Claude コード、カーソル、および Codex 用のファイルを設定します。 <sub>⭐ 1.3k · TypeScript</sub>
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - AI のコーディングエージェントのための74のゲーム開発スキル — Godot、Unity、Unreal、Phaser、PixiJS、3.js、Bevy、pygame、LVEÖ、Roblox。ポータブルSKILL.mdスキルエージェント(Claude Skillsとして起動されたフォーマット)... <sub>⭐ 1.3k · Python</sub>
+- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - 利用状況の統計、エラー分析、およびシャープな機能を備えたClaudeコードダッシュボード <sub>⭐ 1.3k · Python</sub>
+- [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) - コード、テストおよび文書でAI生成された障害モードをキャッチするエージェント、品質ゲートのコーディングのためのガードスキル <sub>⭐ 1.3k</sub>
+- [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) - 35 AIスキル、10エージェント、および人々CRMを備えた自己進化する2番目の脳。クローズドループハーネス:作業者が自分の宿題を決して等級別にしないVモデル検証ライフサイクル。 プラス対抗アンチスロップ... <sub>⭐ 1.2k · Python</sub>
+- [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) - クロードコードとAIエージェントのRedditリサーチスキル <sub>⭐ 1.2k · Python</sub>
+- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - 研究論文の事前審査AIレビューストレステスト。 クロードコードスキル:レビュー、評論、見直し、検証します。 <sub>⭐ 1.2k · JavaScript</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#️-バックエンド開発者のai) · [← 職種別のAIリポジトリ](./README.md)

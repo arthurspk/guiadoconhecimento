@@ -20,127 +20,127 @@
 
 > 由模型辅助的数据编排、摄取和转换。
 
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. Docker-friendly. Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs… <sub>⭐ 58.9k · Jupyter Notebook</sub>
-- [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. <sub>⭐ 47.8k · Python</sub>
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows <sub>⭐ 47.0k · Python</sub>
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while… <sub>⭐ 28.2k · Python</sub>
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. <sub>⭐ 22.2k · Python</sub>
-- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. <sub>⭐ 19.4k · Python</sub>
-- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to… <sub>⭐ 15.5k · HTML</sub>
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to run 云模板用于RAG,AI管道,以及企业搜索的实时数据. Docker 方便。 总是与Sharepoint, Google Drive, S3, Kafka, PostgreSQL 同步, 实时数据 APIs... <sub>⭐ 58.9k · Jupyter Notebook</sub>
+- [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2027软件工程,数据科学,AI, quant,产品管理,以及硬件实习帖子. Summer Daily by Simplify and Pitt CSC更新. <sub>⭐ 47.8k · Python</sub>
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - 一个程序编写、调度和监测工作流程的平台 <sub>⭐ 47.0k · Python</sub>
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - 用于代理,LLMs,和ML模型的开源AI工程平台. MLflow使各种大小的团队能够调试,评价,监控,并优化生产质量AI应用,同时. <sub>⭐ 28.2k · Python</sub>
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - ELT管道和AI代理的开源数据移动——从API,数据库和文件到仓库,湖泊,以及AI应用程序. 无论是自办还是Cloud. <sub>⭐ 22.2k · Python</sub>
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - 将数据与AI算法在短时间内转化为生产准备的网络应用. <sub>⭐ 19.4k · Python</sub>
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - 将文档转换成结构化的数据。 无结构化的 ETL 解决方案是将复杂的文档转换成语言模型的干净、结构化格式的开源ETL 。 请访问我们的网站... <sub>⭐ 15.5k · HTML</sub>
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - 如果你喜欢的话,长视线特工星的增量引擎! <sub>⭐ 11.6k · Rust</sub>
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - Build, run, and manage data pipelines for integrating and transforming data. <sub>⭐ 8.8k · Python</sub>
-- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - (SIGMOD'27) Easy Data Preparation with latest LLMs-based Operators and Pipelines. <sub>⭐ 8.2k · Python</sub>
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. <sub>⭐ 8.0k · Jupyter Notebook</sub>
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows <sub>⭐ 7.3k · Python</sub>
-- [clearml/clearml](https://github.com/clearml/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution <sub>⭐ 6.9k · Python</sub>
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale <sub>⭐ 5.8k · Rust</sub>
-- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs <sub>⭐ 5.3k · Jupyter Notebook</sub>
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM <sub>⭐ 5.2k · Python</sub>
-- [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast. <sub>⭐ 3.5k · Python</sub>
-- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. <sub>⭐ 3.4k · Python</sub>
-- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured… <sub>⭐ 3.2k · Python</sub>
-- [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance. <sub>⭐ 3.0k · Python</sub>
-- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc. <sub>⭐ 2.4k · Jupyter Notebook</sub>
-- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server. <sub>⭐ 2.4k · Rust</sub>
-- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications <sub>⭐ 2.3k · Python</sub>
-- [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) - The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from a business problem through data, AI, engineering, and… <sub>⭐ 2.2k</sub>
-- [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise <sub>⭐ 1.9k · Scala</sub>
-- [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) - The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data. <sub>⭐ 1.8k · Python</sub>
-- [byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang) - Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI. <sub>⭐ 1.8k · Scala</sub>
-- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. <sub>⭐ 1.8k · Rust</sub>
-- [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction <sub>⭐ 1.7k · Python</sub>
-- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc. <sub>⭐ 1.6k</sub>
-- [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR. <sub>⭐ 1.6k · Python</sub>
-- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - The open document intelligence platform for builders and hackers - DMS for the agentic world <sub>⭐ 1.5k · Python</sub>
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI… <sub>⭐ 1.3k · Rust</sub>
-- [magpie-align/magpie](https://github.com/magpie-align/magpie) - (ICLR 2025) Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing. Your efficient and high-quality synthetic data generation pipeline! <sub>⭐ 887 · Python</sub>
-- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale. <sub>⭐ 869 · Python</sub>
-- [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo) - Tool for data extraction and interacting with Lean programmatically. <sub>⭐ 841 · Python</sub>
-- [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered. <sub>⭐ 819 · TypeScript</sub>
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises. <sub>⭐ 733 · Go</sub>
-- [FluxVLA/FluxVLA](https://github.com/FluxVLA/FluxVLA) - An all-in-one VLA engineering platform for embodied AI — from data to real-robot deployment. <sub>⭐ 721 · Python</sub>
-- [dgarnitz/vectorflow](https://github.com/dgarnitz/vectorflow) - VectorFlow is a high volume vector embedding pipeline that ingests raw data, transforms it into vectors and writes it to a vector DB of your choice. <sub>⭐ 703 · Python</sub>
-- [helicalinsight/open-data-pipeline](https://github.com/helicalinsight/open-data-pipeline) - Open Data Pipeline is an AI powered data migration and data transformation tool <sub>⭐ 656 · Python</sub>
-- [qiantongtech/qData](https://github.com/qiantongtech/qData) - qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&A. <sub>⭐ 615 · PLpgSQL</sub>
-- [aryn-ai/sycamore](https://github.com/aryn-ai/sycamore) - Sycamore is an LLM-powered search and analytics platform for unstructured data. <sub>⭐ 608 · Python</sub>
-- [run-llama/ParseBench](https://github.com/run-llama/ParseBench) - ParseBench - A Document Parsing Benchmark for AI Agents <sub>⭐ 593 · Python</sub>
-- [vlm-run/vlmrun-hub](https://github.com/vlm-run/vlmrun-hub) - A hub for various industry-specific schemas to be used with VLMs. <sub>⭐ 557 · Python</sub>
-- [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - Workflow for AI Agents enables automated conversion of CAD files (such as .rvt, .ifc, .dwg) using command-line converters on a local Windows machine <sub>⭐ 506 · Jupyter Notebook</sub>
-- [eddyzzl/marvis-risk-agent](https://github.com/eddyzzl/marvis-risk-agent) - MARVIS-Agent: all-purpose credit risk agent for model development, validation, data processing, feature engineering, and strategy workflows. <sub>⭐ 477 · Python</sub>
-- [evelyyyyynnnnn/5.0-Ai-Engineering-Toolkit](https://github.com/evelyyyyynnnnn/5.0-Ai-Engineering-Toolkit) - Engineering toolkit for building scalable AI systems, including model training pipelines, LLM optimization utilities, and data engineering tools. <sub>⭐ 475 · Python</sub>
-- [clearml/clearml-server](https://github.com/clearml/clearml-server) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution <sub>⭐ 470 · Python</sub>
-- [astronomer/agents](https://github.com/astronomer/agents) - AI agent tooling for data engineering workflows. <sub>⭐ 448 · Python</sub>
-- [DataWithBaraa/databricks_bootcamp_2026](https://github.com/DataWithBaraa/databricks_bootcamp_2026) - End-to-end Data Lakehouse project built on Databricks, following the Medallion Architecture (Bronze, Silver, Gold). Covers real-world data engineering and analytics workflows using Spark, PySpark… <sub>⭐ 442 · Jupyter Notebook</sub>
-- [airyhq/airy](https://github.com/airyhq/airy) - Open Source App Framework to build streaming apps with real-time data - Build real-time data pipelines and make real-time data universally accessible - Join historical and real-time data in the… <sub>⭐ 402 · Java</sub>
-- [reductstore/reductstore](https://github.com/reductstore/reductstore) - High-performance, time-indexed object storage for robotics and industrial IoT <sub>⭐ 373 · Rust</sub>
-- [upgini/upgini](https://github.com/upgini/upgini) - Data search & enrichment library for Machine Learning → Easily find and add relevant features to your ML & AI pipeline from hundreds of public and premium external data sources, including open &… <sub>⭐ 358 · Python</sub>
-- [MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) - A curated collection of AI, data engineering, and DevOps projects featuring real-world applications, advanced techniques, and tutorials—ideal for learners and practitioners exploring data science and… <sub>⭐ 352 · Jupyter Notebook</sub>
-- [ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE) - MOOSE (Multi-organ objective segmentation) a data-centric AI solution that generates multilabel organ segmentations to facilitate systemic TB whole-person research.The pipeline is based on nn-UNet… <sub>⭐ 346 · Python</sub>
-- [cosdata/cosdata](https://github.com/cosdata/cosdata) - Cosdata: A cutting-edge AI data platform for next-gen search pipelines. Features semantic search, hybrid capabilities, real-time scalability, and ML integration. Designed for immutability and version… <sub>⭐ 338 · Rust</sub>
-- [stanford-oval/suql](https://github.com/stanford-oval/suql) - SUQL: Conversational Search over Structured and Unstructured Data with LLMs <sub>⭐ 308 · Python</sub>
-- [JohnMwendwa/free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) - A curated collection of free, high-quality resources for learning about AI, including ML, deep learning, generative AI, natural language processing, data science, prompt engineering & AI ethics. It… <sub>⭐ 307</sub>
-- [xuwei95/ezdata](https://github.com/xuwei95/ezdata) - AI-native data platform: 60+ connectors, dlt-based ETL, DAG scheduling, per-source RAG knowledge bases, and sandboxed AI agents that query, chart, and analyze your data. <sub>⭐ 293 · Python</sub>
-- [OndCo/Ond-ESG-Intelligence-Platform](https://github.com/OndCo/Ond-ESG-Intelligence-Platform) - Ond ESG Intelligence Platform is a cloud-native solution that ingests ESG data, processes it with Azure Data Factory & Databricks, and applies AI/ML models on Azure ML for predictive insights. Power… <sub>⭐ 283 · Python</sub>
-- [datagallery-lab/enterprise_agent_platform](https://github.com/datagallery-lab/enterprise_agent_platform) - The first book dedicated to enterprise Agent platform engineering, from data intelligence foundations to production-ready AI-native business systems. <sub>⭐ 270 · Python</sub>
-- [katanaml/llm-mistral-invoice-cpu](https://github.com/katanaml/llm-mistral-invoice-cpu) - Data extraction with LLM on CPU <sub>⭐ 269 · Python</sub>
-- [anishathalye/semlib](https://github.com/anishathalye/semlib) - Build data processing and data analysis pipelines that leverage the power of LLMs <sub>⭐ 262 · Python</sub>
-- [cchenax/streamforge-ai](https://github.com/cchenax/streamforge-ai) - Open-source real-time AI data pipeline for CDC ingestion, feature generation, and storage-aware prefetching <sub>⭐ 262 · Python</sub>
-- [EBWi11/AgentSmith-HUB](https://github.com/EBWi11/AgentSmith-HUB) - Enterprise Security Data Pipeline Platform (SDPP) — Real-Time Threat Detection + Deeply Integrated LLM Agents <sub>⭐ 255 · Go</sub>
-- [CambioML/uniflow](https://github.com/CambioML/uniflow) - LLM-based text extraction from unstructured data like PDFs, Words and HTMLs. Transform and cluster the text into your desired format. Less information loss, more interpretation, and faster R&D! <sub>⭐ 238 · Python</sub>
-- [ogbinar/DataEngineeringPilipinas](https://github.com/ogbinar/DataEngineeringPilipinas) - Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in… <sub>⭐ 237 · HTML</sub>
-- [DerwenAI/strwythura](https://github.com/DerwenAI/strwythura) - Strwythura: construct an entity-resolved knowledge graph from structured data sources and unstructured content sources, implementing an ontology pipeline, plus context engineering for optimizing AI… <sub>⭐ 232 · Python</sub>
-- [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal for large enterprises with recurring data… <sub>⭐ 227 · Python</sub>
-- [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) - 166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations, engineering, product, data, customer success, procurement &… <sub>⭐ 227 · Python</sub>
-- [xlang-ai/CUA-Gym](https://github.com/xlang-ai/CUA-Gym) - Scalable pipeline for synthesizing verifiable RLVR training data for computer-use agents <sub>⭐ 205 · Python</sub>
-- [velocitybolt/open-extract](https://github.com/velocitybolt/open-extract) - Structured Data Extractor for AI Agents. Search your documents or the web for specific data and get it back in JSON or Markdown in a single tool call. <sub>⭐ 189 · Python</sub>
-- [syda-ai/syda](https://github.com/syda-ai/syda) - AI-powered synthetic data generation — structured tables, unstructured documents, multi-provider LLM support, referential integrity, and code-gen mode for millions of rows <sub>⭐ 178 · Python</sub>
-- [jacob-bd/openclaw-newsroom](https://github.com/jacob-bd/openclaw-newsroom) - Automated AI news scanning pipeline for OpenClaw — 5 data sources, quality scoring, Gemini Flash editorial curation. ~$5/month. <sub>⭐ 176 · Python</sub>
-- [parkervg/blendsql](https://github.com/parkervg/blendsql) - Query language for blending SQL and local language models across structured + unstructured data, with type constraints. <sub>⭐ 169 · Python</sub>
-- [Chando0185/Multiverse_of_100-_data_science_project_series](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series) - Welcome to the Multiverse of Data Science — a comprehensive, ever-expanding collection of over 100 real-world projects covering the entire data science pipeline! <sub>⭐ 160 · Jupyter Notebook</sub>
-- [vajol/python-data-engineering-resources](https://github.com/vajol/python-data-engineering-resources) - A handpicked collection of resources for Python developers in data engineering, machine learning, and AI. Inside, you'll discover a neatly arranged selection of frameworks, libraries, and tools… <sub>⭐ 152</sub>
-- [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) - AI-powered analysis engine for Argentine government open data. Multi-agent pipeline (LangGraph) with 10 data connectors, NL2SQL, semantic caching, and real-time streaming. Built with FastAPI… <sub>⭐ 150 · Python</sub>
-- [OpenRaiser/ProDa](https://github.com/OpenRaiser/ProDa) - Data Engineering from Raw Corpora <sub>⭐ 150 · TypeScript</sub>
-- [Azure/multimodal-ai-llm-processing-accelerator](https://github.com/Azure/multimodal-ai-llm-processing-accelerator) - Build multimodal data processing pipelines with Azure AI Services + LLMs <sub>⭐ 144 · Jupyter Notebook</sub>
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 建立、运行和管理数据管道,以便整合和转换数据。 <sub>⭐ 8.8k · Python</sub>
+- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - (SIGMOD'27) 与最新的基于LLMs的运算器和管道进行简易数据准备. <sub>⭐ 8.2k · Python</sub>
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - 显然,这是一个开源的ML和LLM可观察性框架。评估、测试和监测任何AI-动力系统或数据管道。从表格数据到Gen AI. 100+ 度量衡。 <sub>⭐ 8.0k · Jupyter Notebook</sub>
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven 提取非结构数据——为API部署和ETL管道工作流程所建 <sub>⭐ 7.3k · Python</sub>
+- [clearml/clearml](https://github.com/clearml/clearml) - ClearML - 自动 Magical CI/CD 以精简您的AI工作量。 实验管理、数据管理、管道、管弦乐、排程和服务在一个 MLOPs/ LLMOps 解决方案中 <sub>⭐ 6.9k · Python</sub>
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - AI和多式联运工作量的高性能数据引擎. 处理任何规模的图像,音频,视频和结构化数据. <sub>⭐ 5.8k · Rust</sub>
+- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j 利用 LLMs 从非结构化数据图构造 <sub>⭐ 5.3k · Jupyter Notebook</sub>
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - 结构化数据提取、指令调用和具有ML、LLM和Vision LLM的代理工作流程 <sub>⭐ 5.2k · Python</sub>
+- [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee是一个致力于使神经数据处理管道简单快捷的框架. <sub>⭐ 3.5k · Python</sub>
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel是供需要快速,可靠和可伸缩的管道的工程师根据经核实的研究论文进行合成数据和AI反馈的框架. <sub>⭐ 3.4k · Python</sub>
+- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - 文档 (PDF, Word, PPTX...) 使用现代 OCRs + Ollama 支持的状态提取和解析 API。 匿名化文档。 删除 PII。 将任意文档或图片转换为结构化... <sub>⭐ 3.2k · Python</sub>
+- [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind是一个开源代理-本土知识提取和检索框架,用于定量融资. <sub>⭐ 3.0k · Python</sub>
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - 处理所有无结构的数据,如反向图像搜索,音频搜索,分子搜索,视频分析,问答系统,NLP等. <sub>⭐ 2.4k · Jupyter Notebook</sub>
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - 快速,本地首个网络内容提取 LLMs. Scrape, craw, 提取结构化数据——全部来自Rust. CLI, REST API,和 MCP服务器. <sub>⭐ 2.4k · Rust</sub>
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - Instill Core是用于数据、模型和管道管线的全存储AI基础设施工具,旨在简化建立多功能AI-First应用程序的各个方面。 <sub>⭐ 2.3k · Python</sub>
+- [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) - AI简编,前称ML简编,对机器学习(ML)和深层学习的资源和解释进行整理,从一个通过数据,AI,工程,以及. <sub>⭐ 2.2k</sub>
+- [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – 一个企业的可伸缩,统一的数据和AI工程平台. <sub>⭐ 1.9k · Scala</sub>
+- [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) - 数据工程的未来——现代数据堆栈的CLI SQL客户端,使AI-内在环境工程成为数据. <sub>⭐ 1.8k · Python</sub>
+- [byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang) - Byzer(前MLSQL):一种用于数据管道,分析器和AI的低码开源编程语言. <sub>⭐ 1.8k · Scala</sub>
+- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - 快速高效的无结构数据提取。 用 Rust 编写, 并附有许多语言的绑定值 。 <sub>⭐ 1.8k · Rust</sub>
+- [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - 用于培训后和结构化数据提取的合成数据 <sub>⭐ 1.7k · Python</sub>
+- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - 数据科学,数据工程,机器学习,深度学习,计算机科学,编程,软件工程等180+YouTube频道综合列表. <sub>⭐ 1.6k</sub>
+- [NanoNets/docstrange](https://github.com/NanoNets/docstrange) - 从任何文档,图像,pdf,单词doc,ppt或URL中提取并转换数据为多种格式(Markdown,JSON,CSV,HTML),具有智能结构的数据提取和高级OCR. <sub>⭐ 1.6k · Python</sub>
+- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - 建设者和黑客的开放文档智能平台 - 代理世界的DMS <sub>⭐ 1.5k · Python</sub>
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - 开源ETL/ELT 您在自己的服务器或云上部署. DuckDB上建的:无码/低码视觉管道或SQL,385组件,dbt,CDC,数据质量,逆向ETL,线程,MCP用于AI... <sub>⭐ 1.3k · Rust</sub>
+- [magpie-align/magpie](https://github.com/magpie-align/magpie) - (ICLR 2025) 将数据合成从剪切中校正, 通过“ 无结果的连接 LLMs ” 。 您高效和高质量的合成数据生成管道 ! <sub>⭐ 887 · Python</sub>
+- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI是管理大规模矢量嵌入物的创建和同步的最佳级框架. <sub>⭐ 869 · Python</sub>
+- [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo) - 数据提取和与精益求精程序互动的工具。 <sub>⭐ 841 · Python</sub>
+- [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - 开源代理数据工程 用于dbt,SQL,和云仓库. 100+工具,10个仓库,AI动力. <sub>⭐ 819 · TypeScript</sub>
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - 开源,端对端的计算机视觉平台. 标签,构建,列车,调谐,部署和自动化在一个统一平台中运行,在任何云层和地层上运行. <sub>⭐ 733 · Go</sub>
+- [FluxVLA/FluxVLA](https://github.com/FluxVLA/FluxVLA) - 一个全能的VLA工程平台,用于体现AI——从数据到真机器人部署. <sub>⭐ 721 · Python</sub>
+- [dgarnitz/vectorflow](https://github.com/dgarnitz/vectorflow) - 矢量流是一种高容量的矢量嵌入管道,它吸收了原始数据,将其转化为矢量,并写给你选择的矢量DB. <sub>⭐ 703 · Python</sub>
+- [helicalinsight/open-data-pipeline](https://github.com/helicalinsight/open-data-pipeline) - Open Data Pipeline 是AI 的动力数据迁移和数据转换工具 <sub>⭐ 656 · Python</sub>
+- [qiantongtech/qData](https://github.com/qiantongtech/qData) - qData是一个开源数据治理与数据开发平台,集ETL,数据开发,元数据管理,数据质量,数据资产,API服务,以及AI动力数据QQA于一体. <sub>⭐ 615 · PLpgSQL</sub>
+- [aryn-ai/sycamore](https://github.com/aryn-ai/sycamore) - Sycamore是一个LLM动力搜索和分析平台,用于无结构化的数据. <sub>⭐ 608 · Python</sub>
+- [run-llama/ParseBench](https://github.com/run-llama/ParseBench) - Parse Bench - AI 代理文件解析基准 <sub>⭐ 593 · Python</sub>
+- [vlm-run/vlmrun-hub](https://github.com/vlm-run/vlmrun-hub) - 用于各种工业特定计划与VLM的枢纽. <sub>⭐ 557 · Python</sub>
+- [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agents的工作流程可以自动转换 CAD 文件(如.rvt,.ifc,.dwg),使用本地Windows机上的命令行转换器. <sub>⭐ 506 · Jupyter Notebook</sub>
+- [eddyzzl/marvis-risk-agent](https://github.com/eddyzzl/marvis-risk-agent) - MARVIS-Agent:用于模型开发,验证,数据处理,特征工程,和战略工作流程的全用途信用风险代理. <sub>⭐ 477 · Python</sub>
+- [evelyyyyynnnnn/5.0-Ai-Engineering-Toolkit](https://github.com/evelyyyyynnnnn/5.0-Ai-Engineering-Toolkit) - 用于建设可扩展AI系统的工程工具包,包括模型培训管道,LLM优化公用事业,以及数据工程工具. <sub>⭐ 475 · Python</sub>
+- [clearml/clearml-server](https://github.com/clearml/clearml-server) - ClearML - 自动 Magical CI/CD 以精简您的AI工作量。 实验管理、数据管理、管道、管弦乐、排程和服务在一个 MLOPs/ LLMOps 解决方案中 <sub>⭐ 470 · Python</sub>
+- [astronomer/agents](https://github.com/astronomer/agents) - AI代理工具用于数据工程工作流程. <sub>⭐ 448 · Python</sub>
+- [DataWithBaraa/databricks_bootcamp_2026](https://github.com/DataWithBaraa/databricks_bootcamp_2026) - 端到端数据湖屋项目以Databricks为基础,遵循奖章建筑(铜,银,金). 覆盖现实世界的数据工程和运用Spark,PySpark的解析工作流程. . <sub>⭐ 442 · Jupyter Notebook</sub>
+- [airyhq/airy](https://github.com/airyhq/airy) - 开放源代码App框架构建流体应用与实时数据 - 构建实时数据管道,使实时数据普遍可访问 - 将历史数据和实时数据并入. <sub>⭐ 402 · Java</sub>
+- [reductstore/reductstore](https://github.com/reductstore/reductstore) - 用于机器人和工业IOT的高性能、时间索引对象存储 <sub>⭐ 373 · Rust</sub>
+- [upgini/upgini](https://github.com/upgini/upgini) - 机器学习的数据搜索和浓缩库 – 轻松地找到并加入来自数百个公共和溢价外部数据来源的相关功能,包括开放 &. <sub>⭐ 358 · Python</sub>
+- [MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) - 收集了AI、数据工程和DevOps项目,这些项目以现实世界的应用、先进技术和辅导为主,对探索数据科学的学习者和从业者具有理想意义,并且. <sub>⭐ 352 · Jupyter Notebook</sub>
+- [ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE) - MOOSE(多器官客观分解)一种以数据为中心的AI溶液,生成多标签器官分解,促进系统性的TB全人研究. 管道基于n-UNet. <sub>⭐ 346 · Python</sub>
+- [cosdata/cosdata](https://github.com/cosdata/cosdata) - Cosdata:一个用于下源搜索管道的前沿AI数据平台. Features语义学搜索,混合能力,实时可缩放性,以及ML集成. 设计用于不流和版本. . <sub>⭐ 338 · Rust</sub>
+- [stanford-oval/suql](https://github.com/stanford-oval/suql) - SUQL: 与 LLMs 对话搜索结构化和无结构化数据 <sub>⭐ 308 · Python</sub>
+- [JohnMwendwa/free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) - 精密收集免费,高质量的人工智能学习资源,包括ML,深层学习,基因化人工智能,自然语言处理,数据科学,即时工程和人工智能伦理. . <sub>⭐ 307</sub>
+- [xuwei95/ezdata](https://github.com/xuwei95/ezdata) - AI-内生数据平台:60+连接器,dlt基ETL,DAG调度,每源RAG知识库,以及沙盒化的AI代理,查询,图表,分析你的数据. <sub>⭐ 293 · Python</sub>
+- [OndCo/Ond-ESG-Intelligence-Platform](https://github.com/OndCo/Ond-ESG-Intelligence-Platform) - Ond ESG智能平台是一个云内溶液,它能吸收ESG数据,与Azure Data Factory & Databricks处理,并在Azure ML上应用AI/ML模型进行预测性透视. Power... <sub>⭐ 283 · Python</sub>
+- [datagallery-lab/enterprise_agent_platform](https://github.com/datagallery-lab/enterprise_agent_platform) - 首本专著"企业代理平台工程",从数据智能基础到制作准备的AI本土业务系统. <sub>⭐ 270 · Python</sub>
+- [katanaml/llm-mistral-invoice-cpu](https://github.com/katanaml/llm-mistral-invoice-cpu) - 在 CPU 上提取 LLM 数据 <sub>⭐ 269 · Python</sub>
+- [anishathalye/semlib](https://github.com/anishathalye/semlib) - 建立利用有限责任公司力量的数据处理和数据分析管道 <sub>⭐ 262 · Python</sub>
+- [cchenax/streamforge-ai](https://github.com/cchenax/streamforge-ai) - 用于CDC摄入,特性生成和存储-意识预置的开源实时AI数据管道 <sub>⭐ 262 · Python</sub>
+- [EBWi11/AgentSmith-HUB](https://github.com/EBWi11/AgentSmith-HUB) - 企业安全数据管道平台(SDPP)——实时威胁探测+深度集成LLM代理. <sub>⭐ 255 · Go</sub>
+- [CambioML/uniflow](https://github.com/CambioML/uniflow) - 基于 LLM 的文本从 PDF 、 Words 和 HTML 等非结构化的数据中提取。 将文本转换成您想要的格式并分组。 减少信息丢失, 增加解释, 更快地进行研发 ! <sub>⭐ 238 · Python</sub>
+- [ogbinar/DataEngineeringPilipinas](https://github.com/ogbinar/DataEngineeringPilipinas) - 数据工程(Data Engineering Pilipinas)是一个面向数据工程师,数据分析师,数据科学家,开发者,AI/ML工程师,以及封闭和开源数据工具和方法/技术的用户的社区. <sub>⭐ 237 · HTML</sub>
+- [DerwenAI/strwythura](https://github.com/DerwenAI/strwythura) - Strwythura:从结构化的数据源和无结构化的内容源构建一个实体解析的知识图,实施一个肿瘤管线,加上优化AI的上下文工程. . <sub>⭐ 232 · Python</sub>
+- [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - 使用浏览器 Use 和 LLMs 自动网络刮蜘蛛生成。 简化基于 Playwright 的蜘蛛的创建, 并尽量减少手动编码 。 理想是拥有重复数据的大型企业... <sub>⭐ 227 · Python</sub>
+- [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills) - 166个生产准备的克劳德AI技能由公司角色组织——行政领导,财务,人力资源,营销,销售,法律,业务,工程,产品,数据,客户成功,采购 &. <sub>⭐ 227 · Python</sub>
+- [xlang-ai/CUA-Gym](https://github.com/xlang-ai/CUA-Gym) - 用于计算机使用剂的可核查的RLVR培训数据合成的可扩展管道 <sub>⭐ 205 · Python</sub>
+- [velocitybolt/open-extract](https://github.com/velocitybolt/open-extract) - 为 AI Agents 结构化数据提取器。 搜索您的文档或网络以获取特定数据, 并将其重放到 JSON 或 Markdown 中 。 <sub>⭐ 189 · Python</sub>
+- [syda-ai/syda](https://github.com/syda-ai/syda) - AI动力合成数据生成——结构化表格,非结构化文档,多提供者LLM支持,特惠完整性,以及数百万行的代码-gen模式. <sub>⭐ 178 · Python</sub>
+- [jacob-bd/openclaw-newsroom](https://github.com/jacob-bd/openclaw-newsroom) - OpenClaw的自动AI新闻扫描管道——5个数据来源,质量评分,双子座闪电编辑校正. ~$5个月. <sub>⭐ 176 · Python</sub>
+- [parkervg/blendsql](https://github.com/parkervg/blendsql) - 查询语言用于将SQL和本地语言模型混合到结构化的+非结构化的数据,并带有类型限制. <sub>⭐ 169 · Python</sub>
+- [Chando0185/Multiverse_of_100-_data_science_project_series](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series) - 欢迎光临数据科学的多面性——全面,不断扩展的100多个真实世界项目集成,覆盖整个数据科学管道! <sub>⭐ 160 · Jupyter Notebook</sub>
+- [vajol/python-data-engineering-resources](https://github.com/vajol/python-data-engineering-resources) - 一个Python开发者在数据工程,机器学习和AI方面的人工采集资源集合. Inside,你会发现一个精细排列的框架选择,库,和工具... <sub>⭐ 152</sub>
+- [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) - 阿根廷政府开放数据的AI动力分析引擎. 多剂管道(LangGraph) 拥有10个数据连接器,NL2SQL,语义缓存,以及实时流线. 建于FastAPI... <sub>⭐ 150 · Python</sub>
+- [OpenRaiser/ProDa](https://github.com/OpenRaiser/ProDa) - 来自 Raw Corpora 的数据工程 <sub>⭐ 150 · TypeScript</sub>
+- [Azure/multimodal-ai-llm-processing-accelerator](https://github.com/Azure/multimodal-ai-llm-processing-accelerator) - 与 Azure AI Services + LLMs 一起构建多模式数据处理管道 <sub>⭐ 144 · Jupyter Notebook</sub>
 - [wislertt/leetcode-py](https://github.com/wislertt/leetcode-py) - Python LeetCode 练习环境具有自动生成问题,数据结构可视化,以及综合测试等功能. 包括所有 Grind 75,部分盲文, Neetcode 和 Algomaster... <sub>⭐ 142 · Python</sub>
-- [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) - A scalable, production-ready data pipeline for real-time streaming & batch processing, integrating Kafka, Spark, Airflow, AWS, Kubernetes, and MLflow. Supports end-to-end data ingestion… <sub>⭐ 141 · Python</sub>
-- [MoritzLaurer/GPT-google-sheets](https://github.com/MoritzLaurer/GPT-google-sheets) - Code and documentation for running generative LLMs like ChatGPT or GPT4 in google sheets without any coding knowledge. Transform unstructured text to structured data. <sub>⭐ 135 · JavaScript</sub>
-- [zilliztech/vts](https://github.com/zilliztech/vts) - VTS is a tool designed for the transformation and transportation of vectors and unstructured data. <sub>⭐ 135 · Java</sub>
-- [fanfanyuyang/bid-agent-vscode](https://github.com/fanfanyuyang/bid-agent-vscode) - Intelligent Parsing Agent for Electrical Tender Documents – A seven-step workflow + document processing ledger, enabling multi-format uploads, automatic equipment parameter extraction, evidence… <sub>⭐ 134 · Python</sub>
-- [NadavIs56/Skin_Disease_AI](https://github.com/NadavIs56/Skin_Disease_AI) - A Python-based computer vision and AI system for skin disease recognition and diagnosis. Led end-to-end project pipeline, including data gathering, preprocessing, and training models. Utilized Keras… <sub>⭐ 132 · PureBasic</sub>
-- [u485349-coder/OpenFoundry](https://github.com/u485349-coder/OpenFoundry) - The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Self-hosted. Built with Rust +… <sub>⭐ 125</sub>
-- [Chrisinho8/DACH-data-job-market](https://github.com/Chrisinho8/DACH-data-job-market) - Daily tracker of the AI/Data job market in Germany, Austria and Switzerland. 3,000+ live postings processed through a Databricks + Delta Lake pipeline, with links to the original listings. Free and… <sub>⭐ 124 · Python</sub>
-- [viktoriasemaan/data-engineering](https://github.com/viktoriasemaan/data-engineering) - Advanced Data & AI Engineering Portfolio: Real-world projects and production-ready patterns to level up your AI skills—from building clean data pipelines to deploying RAG systems, AI agents, and… <sub>⭐ 122 · Jupyter Notebook</sub>
-- [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill) - AI-Native document parser: PDF, Office & images → clean Markdown with LaTeX, tables & OCR. Zero-dependency CLI & skill for Claude Code, Cursor & AI agents. <sub>⭐ 121 · Python</sub>
-- [TirendazAcademy/Awesome-Data-Science-Resources](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources) - Resources about data science, machine learning, deep learning, data engineering, and SQL. <sub>⭐ 121</sub>
-- [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) - PowerBI AI Pipeline: 101% Target Achieved 2026 – Automated ETL & Insights <sub>⭐ 116 · HTML</sub>
-- [Atrayee-dev/secure-ai-agent-boundary](https://github.com/Atrayee-dev/secure-ai-agent-boundary) - Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models <sub>⭐ 115 · HTML</sub>
-- [docwire/docwire](https://github.com/docwire/docwire) - DocWire SDK: local-first C++20 data-processing infrastructure for deterministic, auditable, on-premise workflows. Supports 100+ formats, OCR, local AI, and opt-in cloud AI pipelines <sub>⭐ 114 · C++</sub>
-- [katanaml/llm-ollama-llamaindex-invoice-cpu](https://github.com/katanaml/llm-ollama-llamaindex-invoice-cpu) - Data extraction with LLM on CPU <sub>⭐ 113 · Python</sub>
-- [Hephyrius/Binance-Ai-Bot-Starter](https://github.com/Hephyrius/Binance-Ai-Bot-Starter) - Boilerplate/Starter code for trading on binance using Machine Learning. Provides a basic pipeline for data gathering, feature creation, training, testing and deployment of ML augmented bots. <sub>⭐ 111 · Python</sub>
-- [louisYen/Gen4Gen](https://github.com/louisYen/Gen4Gen) - Official implementation of "Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition" <sub>⭐ 110 · Python</sub>
-- [mercoa-finance/llm-document-ocr](https://github.com/mercoa-finance/llm-document-ocr) - LLM Based OCR and Document Parsing for Node.js <sub>⭐ 110 · TypeScript</sub>
-- [ContextData/VectorETL](https://github.com/ContextData/VectorETL) - Build super simple end-to-end data & ETL pipelines for your vector databases and Generative AI applications <sub>⭐ 109 · Python</sub>
-- [villagecomputing/superpipe](https://github.com/villagecomputing/superpipe) - Superpipe - optimized LLM pipelines for structured data <sub>⭐ 108 · Python</sub>
-- [ddgope/Data-Pipelines-with-Airflow](https://github.com/ddgope/Data-Pipelines-with-Airflow) - This project helps me to understand the core concepts of Apache Airflow. I have created custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on… <sub>⭐ 104 · Python</sub>
-- [Sudhanshu1304/table-transformer](https://github.com/Sudhanshu1304/table-transformer) - Table Extraction Tool: A powerful open-source solution combining OCR and computer vision for extracting structured tabular data from images. Ideal for LLM preprocessing, data analysis, and automation. <sub>⭐ 103 · Python</sub>
-- [buildersoftio/cortex](https://github.com/buildersoftio/cortex) - Cortex / Data Framework—a cutting-edge SDK that simplifies real-time data processing with intuitive operators, robust state management, and seamless telemetry for efficient, scalable pipelines. <sub>⭐ 102 · C#</sub>
-- [marieai/marie-ai](https://github.com/marieai/marie-ai) - Complex data extraction and orchestration framework designed for processing unstructured documents. It integrates AI-powered document pipelines (GenAI, LLM, VLLM) into your applications, supporting… <sub>⭐ 96 · Python</sub>
-- [ESIPFed/Geoweaver](https://github.com/ESIPFed/Geoweaver) - boost data pipeline's tangibility, enhance research productivity, reduce work anxiety <sub>⭐ 95 · JavaScript</sub>
-- [ChinmayKaitade/N8N-AI-Agents-Masterclass](https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass) - Learn n8n workflow automation with AI Agents / Step-by-step guide to build no-code workflows, automate tasks, and create intelligent pipelines / Integrate OpenAI, Hugging Face, LLMs, and external… <sub>⭐ 94 · HTML</sub>
-- [ServiceNow/SyGra](https://github.com/ServiceNow/SyGra) - SyGra - Graph-oriented Synthetic data generation Pipeline <sub>⭐ 93 · Python</sub>
-- [joemccann/x-bookmarks-pipeline](https://github.com/joemccann/x-bookmarks-pipeline) - A multi-LLM Python pipeline that fetches your X (Twitter) bookmarks, classifies them by category, extracts structured data from chart images, plans trading strategies or indicators for finance… <sub>⭐ 92 · Rust</sub>
-- [Ruggero1912/AIDE-unipi](https://github.com/Ruggero1912/AIDE-unipi) - Students' material for the course in Artificial Intelligence and Data Engineering at University of Pisa. <sub>⭐ 90 · HTML</sub>
-- [LomaxWang/DataTurbo](https://github.com/LomaxWang/DataTurbo) - High-performance LLM data processing pipeline framework <sub>⭐ 89 · Python</sub>
-- [peng-gao-lab/ctinexus](https://github.com/peng-gao-lab/ctinexus) - CTINexus is a framework that leverages optimized in-context learning of LLMs to enable data-efficient extraction of cyber threat intelligence and the construction of high-quality cybersecurity… <sub>⭐ 89 · Python</sub>
-- [arthurpanhku/DocSentinel](https://github.com/arthurpanhku/DocSentinel) - MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format parsing, RAG knowledge base,Risks, compliance gaps, remediations. <sub>⭐ 88 · Python</sub>
-- [katanaml/llm-ollama-invoice-cpu](https://github.com/katanaml/llm-ollama-invoice-cpu) - Data extraction with LLM on CPU <sub>⭐ 87 · Python</sub>
-- [Xyntopia/pydoxtools](https://github.com/Xyntopia/pydoxtools) - Effortlessly extract information from unstructured data with this library, utilizing advanced AI techniques. Compose AI in customizable pipelines and diverse sources for your projects. <sub>⭐ 87 · Python</sub>
-- [parsee-ai/parsee-core](https://github.com/parsee-ai/parsee-core) - Retrieval of fully structured data made easy. Use LLMs or custom models. Specialized on PDFs and HTML files. Extensive support of tabular data extraction and multimodal queries. <sub>⭐ 84 · Python</sub>
-- [Yu-Group/veridical-flow](https://github.com/Yu-Group/veridical-flow) - Making it easier to build stable, trustworthy data-science pipelines based on the PCS framework. <sub>⭐ 75 · Jupyter Notebook</sub>
-- [T-Sunm/rag-ops](https://github.com/T-Sunm/rag-ops) - This project applies the core knowledge from the LLMOps module, including the design and implementation of the API Layer, Inference Layer, Observability Layer, Cache Layer, Guardrails Layer, Routing… <sub>⭐ 73 · Python</sub>
-- [moshafieeha/UT-ECE-Student-Resources](https://github.com/moshafieeha/UT-ECE-Student-Resources) - A curated list of valuable resources from our studies at the University of Tehran (UT), School of Electrical and Computer Engineering (ECE) <sub>⭐ 72</sub>
-- [arjuncode/12daysofdemos](https://github.com/arjuncode/12daysofdemos) - Learn Databricks through 12 progressive hands-on exercises from data pipelines to AI agents <sub>⭐ 70 · Jupyter Notebook</sub>
-- [lzjever/routilux](https://github.com/lzjever/routilux) - Routines-based, event-driven workflow orchestration for Python—compose complex data/AI pipelines and run concurrent workflows across distributed systems with durable state and robust error handling. <sub>⭐ 69 · Python</sub>
+- [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) - 一个可扩展的,生产准备的数据管道,用于实时流化和批量处理,整合了卡夫卡,火花,气流,AWS,Kubernetes,以及ML流量.支持端到端的数据摄入. . <sub>⭐ 141 · Python</sub>
+- [MoritzLaurer/GPT-google-sheets](https://github.com/MoritzLaurer/GPT-google-sheets) - 在Google 工作表中运行 GhatGPT 或 GPT4 等基因LLMs 的代码和文档,没有编码知识。 将非结构文本转换为结构化数据 。 <sub>⭐ 135 · JavaScript</sub>
+- [zilliztech/vts](https://github.com/zilliztech/vts) - VTS是用于矢量和无结构数据转换和运输的工具. <sub>⭐ 135 · Java</sub>
+- [fanfanyuyang/bid-agent-vscode](https://github.com/fanfanyuyang/bid-agent-vscode) - 电气招标文件智能解析代理 – 一个七步工作流程+文件处理分类账,允许多格式上传,自动设备参数提取,证据. . <sub>⭐ 134 · Python</sub>
+- [NadavIs56/Skin_Disease_AI](https://github.com/NadavIs56/Skin_Disease_AI) - 基于Python的计算机视觉和AI系统用于皮肤疾病识别和诊断. 引导端到端项目管道,包括数据收集,预处理和培训模型. 使用Keras... <sub>⭐ 132 · PureBasic</sub>
+- [u485349-coder/OpenFoundry](https://github.com/u485349-coder/OpenFoundry) - 开源的 Palantir Foundary 选项。 连接任何数据源, 构建本体化, 创建管道, 与仪表板可视化, 并作出 AI 驱动的决定。 自控。 由 Rust + 构建 。 <sub>⭐ 125</sub>
+- [Chrisinho8/DACH-data-job-market](https://github.com/Chrisinho8/DACH-data-job-market) - 德国、奥地利和瑞士的AI/Data就业市场每日追踪器。通过Databricks + Delta Lake 管道处理的3 000+现场帖子,链接到原始上市。免费和... <sub>⭐ 124 · Python</sub>
+- [viktoriasemaan/data-engineering](https://github.com/viktoriasemaan/data-engineering) - 高级数据与AI工程组合:真实世界项目和生产准备模式,提升你的AI技能——从建设干净的数据管道到部署RAG系统,AI代理,以及. <sub>⭐ 122 · Jupyter Notebook</sub>
+- [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill) - AI-Native文档解析器:PDF,Office & images → 使用 LaTeX,表和OCR进行清空Markdown. 0-dependency CLI & 技能为克劳德代码,cursor & AI代理. <sub>⭐ 121 · Python</sub>
+- [TirendazAcademy/Awesome-Data-Science-Resources](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources) - 资源涉及数据科学,机器学习,深层学习,数据工程,以及SQL. <sub>⭐ 121</sub>
+- [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) - PowerBI AI管道:101% 目标实现 2026 — Automatic ETL & Insights <sub>⭐ 116 · HTML</sub>
+- [Atrayee-dev/secure-ai-agent-boundary](https://github.com/Atrayee-dev/secure-ai-agent-boundary) - 安全AI工程框架 2026:边疆模型数据边界安全 <sub>⭐ 115 · HTML</sub>
+- [docwire/docwire](https://github.com/docwire/docwire) - DocWire SDK:本地首台C++20数据处理基础设施,用于确定性,可审计性,关于精准的工作流程. 支持100+格式,OCR,本地AI,以及选入的云AI管道 <sub>⭐ 114 · C++</sub>
+- [katanaml/llm-ollama-llamaindex-invoice-cpu](https://github.com/katanaml/llm-ollama-llamaindex-invoice-cpu) - 在 CPU 上提取 LLM 数据 <sub>⭐ 113 · Python</sub>
+- [Hephyrius/Binance-Ai-Bot-Starter](https://github.com/Hephyrius/Binance-Ai-Bot-Starter) - 用于使用机器学习进行二进制交易的Boilerplate/Starter代码,为数据收集、特性创建、培训、测试和部署ML扩增的bot提供了基本管道。 <sub>⭐ 111 · Python</sub>
+- [louisYen/Gen4Gen](https://github.com/louisYen/Gen4Gen) - 官方实施"Gen4Gen:基因多概念构成的基因数据管道". <sub>⭐ 110 · Python</sub>
+- [mercoa-finance/llm-document-ocr](https://github.com/mercoa-finance/llm-document-ocr) - 基于 LLM 的 OCR 文档解析 <sub>⭐ 110 · TypeScript</sub>
+- [ContextData/VectorETL](https://github.com/ContextData/VectorETL) - 为您的矢量数据库和Generative AI应用程序建立超简单的端到端数据 & ETL 管道 <sub>⭐ 109 · Python</sub>
+- [villagecomputing/superpipe](https://github.com/villagecomputing/superpipe) - 超管 - 结构化数据的优化LLM管道 <sub>⭐ 108 · Python</sub>
+- [ddgope/Data-Pipelines-with-Airflow](https://github.com/ddgope/Data-Pipelines-with-Airflow) - 这个项目帮助我理解Apache Airflow的核心概念。我已经创建了自定义操作器来完成诸如数据中继,数据仓库填充,以及运行检查... <sub>⭐ 104 · Python</sub>
+- [Sudhanshu1304/table-transformer](https://github.com/Sudhanshu1304/table-transformer) - 表提取工具:一个强大的开源解决方案,结合OCR和计算机的视野,从图像中提取结构化的表格数据。理想是LLM预处理、数据分析和自动化。 <sub>⭐ 103 · Python</sub>
+- [buildersoftio/cortex](https://github.com/buildersoftio/cortex) - Cortex / Data Framework——一种最先进的SDK,它简化了与直观操作员的实时数据处理,稳健的状态管理,以及高效,可伸缩的管道的无缝遥测. <sub>⭐ 102 · C#</sub>
+- [marieai/marie-ai](https://github.com/marieai/marie-ai) - 为处理非结构化文档而设计的复杂数据提取和管弦框架,它将AI动力文件管道(GenAI,LLM,VLLM)集成到您的应用程序中,支持. <sub>⭐ 96 · Python</sub>
+- [ESIPFed/Geoweaver](https://github.com/ESIPFed/Geoweaver) - 提高数据管道的可视性,提高研究生产率,减少工作焦虑 <sub>⭐ 95 · JavaScript</sub>
+- [ChinmayKaitade/N8N-AI-Agents-Masterclass](https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass) - 学习n8n工作流程自动化与AI Agents / Step-by-step - 指南,以构建无码工作流程,自动化任务,并创建智能管道 /整合OpenAI,Hugging Face,LLMS,以及外部. <sub>⭐ 94 · HTML</sub>
+- [ServiceNow/SyGra](https://github.com/ServiceNow/SyGra) - SyGra - 面向图形的合成数据生成管道 <sub>⭐ 93 · Python</sub>
+- [joemccann/x-bookmarks-pipeline](https://github.com/joemccann/x-bookmarks-pipeline) - 一个多LLM Python 管道,它获取您的 X (Twitter) 书签,将它们按类别分类,从图表图像中提取结构化的数据,计划交易策略或融资指标. <sub>⭐ 92 · Rust</sub>
+- [Ruggero1912/AIDE-unipi](https://github.com/Ruggero1912/AIDE-unipi) - 比萨大学人工智能与数据工程课程的学生材料. <sub>⭐ 90 · HTML</sub>
+- [LomaxWang/DataTurbo](https://github.com/LomaxWang/DataTurbo) - 高性能LLM数据处理管道框架 <sub>⭐ 89 · Python</sub>
+- [peng-gao-lab/ctinexus](https://github.com/peng-gao-lab/ctinexus) - CTINexus是一个利用LLMs优化内文本学习的框架,能够以数据高效的方式提取网络威胁情报,构建高质量的网络安全. . <sub>⭐ 89 · Python</sub>
+- [arthurpanhku/DocSentinel](https://github.com/arthurpanhku/DocSentinel) - AI网络安全代理的MCP服务器:自动评估文件,问卷和报告. 多格式解析,RAG知识库,Risks,合规漏洞,补救. <sub>⭐ 88 · Python</sub>
+- [katanaml/llm-ollama-invoice-cpu](https://github.com/katanaml/llm-ollama-invoice-cpu) - 在 CPU 上提取 LLM 数据 <sub>⭐ 87 · Python</sub>
+- [Xyntopia/pydoxtools](https://github.com/Xyntopia/pydoxtools) - 使用高级的AI技术,用这个库不费力地从无结构的数据中提取信息。将AI编成自定义的管道和您项目的各种来源。 <sub>⭐ 87 · Python</sub>
+- [parsee-ai/parsee-core](https://github.com/parsee-ai/parsee-core) - 获取结构完整的数据非常容易。 使用 LLMS 或自定义模型。 专门处理 PDF 和 HTML 文件。 广泛支持表格数据提取和多模式查询 。 <sub>⭐ 84 · Python</sub>
+- [Yu-Group/veridical-flow](https://github.com/Yu-Group/veridical-flow) - 使基于PCS框架建立稳定,可信赖的数据科学管道更加容易. <sub>⭐ 75 · Jupyter Notebook</sub>
+- [T-Sunm/rag-ops](https://github.com/T-Sunm/rag-ops) - 这个项目应用了LLMOps模块的核心知识,包括设计和实施API层,推论层,可观察层,缓存层,守护层,运行层. . <sub>⭐ 73 · Python</sub>
+- [moshafieeha/UT-ECE-Student-Resources](https://github.com/moshafieeha/UT-ECE-Student-Resources) - 我们从德黑兰大学电气和计算机工程学院(欧洲经委会)的学习中得到的宝贵资源一览表 <sub>⭐ 72</sub>
+- [arjuncode/12daysofdemos](https://github.com/arjuncode/12daysofdemos) - 通过从数据管道到人工智能代理的12次进步实践练习学习Databricks <sub>⭐ 70 · Jupyter Notebook</sub>
+- [lzjever/routilux](https://github.com/lzjever/routilux) - Python基于例行程序、事件驱动的工作流程协调——由复杂的数据/AI管道组成,并在分布式系统之间运行并行的工作流程,具有持久的状态和强有力的错误处理。 <sub>⭐ 69 · Python</sub>
 
 ## 🗄️ 向量数据库与检索
 
@@ -149,536 +149,536 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - Postgres开发平台. Supabase为您提供了专用的Postgres数据库,用于构建您的网络,移动和AI应用程序. <sub>⭐ 111.0k · TypeScript</sub>
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - 一个闪电快搜索引擎API将AI动力混合搜索带入您的站点和应用. <sub>⭐ 59.5k · Rust</sub>
 - [metabase/metabase](https://github.com/metabase/metabase) - 方便使用的开源商业情报和嵌入式分析工具,让每个人都能使用数据 <sub>⭐ 49.5k · Clojure</sub>
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search <sub>⭐ 46.3k · Go</sub>
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No… <sub>⭐ 40.6k · Go</sub>
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore… <sub>⭐ 39.6k · Python</sub>
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io <sub>⭐ 34.9k · Rust</sub>
-- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all… <sub>⭐ 18.0k · Python</sub>
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a… <sub>⭐ 16.9k · Go</sub>
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database <sub>⭐ 16.1k · C++</sub>
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents. <sub>⭐ 16.0k · Java</sub>
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing… <sub>⭐ 13.2k · Java</sub>
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. <sub>⭐ 13.0k · TypeScript</sub>
-- [oramasearch/orama](https://github.com/oramasearch/orama) - A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. <sub>⭐ 10.6k · TypeScript</sub>
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus是一个高性能的云内向量数据库,用于可扩展向量ANN搜索 <sub>⭐ 46.3k · Go</sub>
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB 是为无法预测地增长的代理工作量而建造的, 它有ACID 的保证和本地对交易、分析以及矢量搜索的支持。 没有数据仓, 没有吵闹的邻居。 不... <sub>⭐ 40.6k · Go</sub>
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - 将 GenAI 集成到您的应用程序中的 Opiniated RAG 关注您的产品而不是 RAG。 方便的整合现有产品, 并自定义! 任意 LLM: GPT4, Groq, Llama. Any Vedorstore... <sub>⭐ 39.6k · Python</sub>
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - 下一代AI的高性能,大规模矢量数据库和矢量搜索引擎. 也可在云端https://cloud.qdrant.io中找到. <sub>⭐ 34.9k · Rust</sub>
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - 具有C++核心和50+ Python-extensible节点的高性能AI管道引擎. 构建,调试,以及比例化LLM工作流程,拥有13+模型提供者,8+矢量数据库,以及代理管弦乐,全部... <sub>⭐ 18.0k · Python</sub>
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate是一个开源的矢量数据库,既存储对象又存储矢量,允许将矢量搜索与结构化过滤结合到一个... <sub>⭐ 16.9k · Go</sub>
+- [alibaba/zvec](https://github.com/alibaba/zvec) - 一个轻量级、闪电快的、过程内矢量数据库 <sub>⭐ 16.1k · C++</sub>
+- [apache/doris](https://github.com/apache/doris) - Apache Doris是AI代理的实时分析与混合搜索数据库. <sub>⭐ 16.0k · Java</sub>
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j是用于在JVM上构建LLM动力应用程序的平庸,开源的Java库,它提供了一个针对流行的LLM提供者和矢量存储器的统一API,并且使执行. <sub>⭐ 13.2k · Java</sub>
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - 用于代理编码的全内,开源后端平台. InsForge 提供了您的编码代理数据库,认证,存储,计算,托管,以及AI网关,以将全斯塔克应用程序端到端. <sub>⭐ 13.0k · TypeScript</sub>
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 在您的浏览器,服务器或边缘网络中有一个完整的搜索引擎和RAG管道,支持在不到2kb时进行全文,矢量,以及混合搜索. <sub>⭐ 10.6k · TypeScript</sub>
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase是AI时代的统一的分布式数据库——开源,多型,一个引擎,为您最需要的工作量. <sub>⭐ 10.3k · C++</sub>
-- [deeplethe/utopia](https://github.com/deeplethe/utopia) - World's first open-source enterprise world model. <sub>⭐ 8.0k · Rust</sub>
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform <sub>⭐ 7.1k · Java</sub>
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. <sub>⭐ 6.1k · Rust</sub>
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text. <sub>⭐ 4.7k · C++</sub>
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid… <sub>⭐ 4.7k · Python</sub>
-- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram <sub>⭐ 4.3k · C++</sub>
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! <sub>⭐ 4.1k · Rust</sub>
-- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts <sub>⭐ 4.1k · JavaScript</sub>
-- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend. <sub>⭐ 3.4k · JavaScript</sub>
-- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis &… <sub>⭐ 3.3k · TypeScript</sub>
-- [lakesoul-io/LakeSoul](https://github.com/lakesoul-io/LakeSoul) - LakeSoul is an end-to-end, realtime cloud-native Lakehouse framework for fast data ingestion, concurrent updates, incremental analytics, multimodal data processing and vector search — powering… <sub>⭐ 3.3k · Rust</sub>
-- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to… <sub>⭐ 3.1k · C++</sub>
-- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB). <sub>⭐ 3.1k · Python</sub>
-- [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases <sub>⭐ 3.0k · Jupyter Notebook</sub>
-- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync. <sub>⭐ 2.7k · TypeScript</sub>
-- [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations <sub>⭐ 2.5k · C++</sub>
-- [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram <sub>⭐ 2.5k · Python</sub>
-- [shenweichen/DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search. <sub>⭐ 2.4k · Python</sub>
-- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications <sub>⭐ 2.3k · Python</sub>
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. <sub>⭐ 2.2k · Rust</sub>
-- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications. <sub>⭐ 2.0k · Go</sub>
-- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. <sub>⭐ 1.9k · Rust</sub>
-- [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. <sub>⭐ 1.8k · Rust</sub>
-- [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine <sub>⭐ 1.8k · Java</sub>
-- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans! <sub>⭐ 1.7k · Rust</sub>
-- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database <sub>⭐ 1.7k · TypeScript</sub>
-- [dingodb/dingo](https://github.com/dingodb/dingo) - A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and… <sub>⭐ 1.7k · Java</sub>
-- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) - Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation. <sub>⭐ 1.6k · JavaScript</sub>
-- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers <sub>⭐ 1.6k</sub>
-- [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator <sub>⭐ 1.5k · TypeScript</sub>
-- [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap. <sub>⭐ 1.4k · Python</sub>
-- [endee-io/endee](https://github.com/endee-io/endee) - Endee.io – A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering significant performance gains through optimized indexing and execution. Also available… <sub>⭐ 1.3k · C++</sub>
-- [superlinear-ai/raglite](https://github.com/superlinear-ai/raglite) - RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with DuckDB or PostgreSQL <sub>⭐ 1.2k · Python</sub>
-- [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports… <sub>⭐ 1.2k · Java</sub>
-- [elastic/elastic-labs](https://github.com/elastic/elastic-labs) - Notebooks & Example Apps for Search, Observability, and Security with Elasticsearch <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [neural-maze/realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course) - Build realtime AI voice agents using FastRTC for low-latency streaming, Superlinked for vector search, Twilio for live phone calls, and Runpod for scalable GPU deployment. <sub>⭐ 1.1k · Python</sub>
-- [juanjuandog/FinSight-AI](https://github.com/juanjuandog/FinSight-AI) - AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation. <sub>⭐ 1.1k · Java</sub>
-- [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. <sub>⭐ 1.1k · Go</sub>
-- [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB) - A @ClickHouse fork that supports high-performance vector search and full-text search. <sub>⭐ 1.0k · C++</sub>
-- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs <sub>⭐ 978 · Jupyter Notebook</sub>
-- [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies. <sub>⭐ 955 · TypeScript</sub>
-- [gannonh/chatgpt-pgvector](https://github.com/gannonh/chatgpt-pgvector) - ChatGTP (gpt3.5-turbo) starter app <sub>⭐ 937 · TypeScript</sub>
-- [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points. <sub>⭐ 917 · Python</sub>
-- [LibreChat-AI/rag-api](https://github.com/LibreChat-AI/rag-api) - ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector <sub>⭐ 910 · Python</sub>
-- [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search. <sub>⭐ 909 · Jupyter Notebook</sub>
-- [lanterndata/lantern](https://github.com/lanterndata/lantern) - PostgreSQL vector database extension for building AI applications <sub>⭐ 895 · Rust</sub>
-- [orneryd/NornicDB](https://github.com/orneryd/NornicDB) - Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no… <sub>⭐ 894 · Go</sub>
-- [Deodat-Lawson/LaunchStack](https://github.com/Deodat-Lawson/LaunchStack) - AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based… <sub>⭐ 890 · TypeScript</sub>
-- [epsilla-cloud/vectordb](https://github.com/epsilla-cloud/vectordb) - A high performance Vector Database leveraging parallel graph computing <sub>⭐ 875 · C++</sub>
-- [NVIDIA/cuvs](https://github.com/NVIDIA/cuvs) - cuVS - a library for vector search and clustering on the GPU <sub>⭐ 859 · Cuda</sub>
-- [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us! <sub>⭐ 849 · TypeScript</sub>
-- [ruoccofabrizio/azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves… <sub>⭐ 849 · Python</sub>
-- [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - Full-text and semantic search on any Postgres <sub>⭐ 832 · Rust</sub>
-- [kagisearch/vectordb](https://github.com/kagisearch/vectordb) - A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search. <sub>⭐ 796 · Python</sub>
-- [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (<10ms) search without vector databases. Built for browser, edge, on-device, and cloud. <sub>⭐ 786 · Python</sub>
-- [trilogy-libraries/trilogy](https://github.com/trilogy-libraries/trilogy) - Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. <sub>⭐ 784 · C</sub>
-- [0hq/tinyvector](https://github.com/0hq/tinyvector) - A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!) <sub>⭐ 771 · Python</sub>
-- [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) - Rust-powered code intelligence CLI for AI coding agents. Builds call graphs and hybrid semantic search indexes (Dense + Sparse + RRF + Reranker) across 7 languages. Ships as native MCP tools for… <sub>⭐ 769 · Rust</sub>
-- [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI <sub>⭐ 761 · TypeScript</sub>
-- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API. <sub>⭐ 752 · Rust</sub>
-- [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with… <sub>⭐ 744 · Go</sub>
-- [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) - Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps <sub>⭐ 725 · Zig</sub>
-- [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown. <sub>⭐ 686</sub>
-- [jina-ai/vectordb](https://github.com/jina-ai/vectordb) - A Python vector database you just need - no more, no less. <sub>⭐ 653 · Python</sub>
-- [perone/euclidesdb](https://github.com/perone/euclidesdb) - A multi-model machine learning feature embedding database <sub>⭐ 640 · C++</sub>
-- [OtterMind/Nubase](https://github.com/OtterMind/Nubase) - Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one… <sub>⭐ 625 · Java</sub>
-- [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceDB, with Docling parsing and an MCP server <sub>⭐ 617 · Python</sub>
-- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks &… <sub>⭐ 606 · Python</sub>
-- [MazzaWill/neo4j-python-pandas-py2neo-v3](https://github.com/MazzaWill/neo4j-python-pandas-py2neo-v3) - Excel-to-Neo4j knowledge graph examples: legacy py2neo v3 plus modern Neo4j GraphRAG/vector search. <sub>⭐ 580 · Python</sub>
-- [kreeben/resin](https://github.com/kreeben/resin) - Language model search engine built on a vector database and an anything key/value store. <sub>⭐ 577 · C#</sub>
-- [redis-developer/ArXivChatGuru](https://github.com/redis-developer/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache. <sub>⭐ 561 · Python</sub>
-- [kelindar/search](https://github.com/kelindar/search) - Go library for embedded vector search and semantic embeddings using llama.cpp <sub>⭐ 560 · Go</sub>
-- [lightonai/next-plaid](https://github.com/lightonai/next-plaid) - NextPlaid, ColGREP: Multi-vector search, from database to coding agents. <sub>⭐ 554 · Rust</sub>
-- [caura-ai/caura](https://github.com/caura-ai/caura) - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval.… <sub>⭐ 543 · Python</sub>
-- [estebanpdl/osintgpt](https://github.com/estebanpdl/osintgpt) - An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing <sub>⭐ 529 · Python</sub>
-- [LeDat98/NexusRAG](https://github.com/LeDat98/NexusRAG) - Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming… <sub>⭐ 529 · Python</sub>
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps <sub>⭐ 522 · TypeScript</sub>
-- [supabase-community/chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - Production-ready MVP for securely chatting with your documents using pgvector <sub>⭐ 516 · TypeScript</sub>
-- [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server. <sub>⭐ 506 · Python</sub>
-- [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Atomikos TransactionsEssentials — the open-source JTA/XA transaction manager for Java: distributed transactions across databases and message brokers, with automatic crash recovery. Embeddable, no… <sub>⭐ 486 · Java</sub>
-- [taylorsatula/mira](https://github.com/taylorsatula/mira) - This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I… <sub>⭐ 479 · Python</sub>
-- [upstash/wikipedia-semantic-search](https://github.com/upstash/wikipedia-semantic-search) - Semantic Search on Wikipedia with Upstash Vector <sub>⭐ 470 · TypeScript</sub>
-- [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) - Official Python SDK for the Pinecone vector database <sub>⭐ 453 · Python</sub>
-- [BenyRonald77/uajy-academic-rag-chatbot](https://github.com/BenyRonald77/uajy-academic-rag-chatbot) - Production-grade RAG chatbot for Universitas Atma Jaya Yogyakarta academic handbook with Streamlit, FAISS vector search, and Google Gemini 2.5 Flash. <sub>⭐ 450 · Python</sub>
-- [LightningRAG/LightningRAG](https://github.com/LightningRAG/LightningRAG) - LightningRAG is a full-stack Vue + Gin starter with a decoupled frontend and backend, plus built-in, extensible RAG (retrieval-augmented generation): knowledge bases, vector search, and integrations… <sub>⭐ 450 · Go</sub>
-- [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust. <sub>⭐ 438 · Rust</sub>
-- [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID transactions. YTDB supports both embedded… <sub>⭐ 437 · Java</sub>
-- [atomicstrata/atomicmemory](https://github.com/atomicstrata/atomicmemory) - Portable semantic memory for AI agents: core engine, TypeScript SDK, framework adapters, MCP server, CLI, and host plugins. <sub>⭐ 436 · TypeScript</sub>
-- [redis/redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library. The AI-native Python client for Redis. <sub>⭐ 431 · Python</sub>
-- [neuml/annotateai](https://github.com/neuml/annotateai) - Automatically annotate papers using LLMs <sub>⭐ 426 · Python</sub>
-- [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Scientific Agent Skills using vector search <sub>⭐ 407 · Python</sub>
-- [arun1729/cog](https://github.com/arun1729/cog) - Embedded Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser. <sub>⭐ 398 · Python</sub>
-- [ElectricCodeGuy/SupabaseAuthWithSSR](https://github.com/ElectricCodeGuy/SupabaseAuthWithSSR) - Supabase Auth + AI Stack for Next.js 16 with SSR and React Server Components (RSC), Welcome to a production-ready template combining Supabase SSR authentication with AI capabilities: document chat… <sub>⭐ 397 · TypeScript</sub>
-- [alexklibisz/elastiknn](https://github.com/alexklibisz/elastiknn) - Elasticsearch plugin for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms. <sub>⭐ 395 · Scala</sub>
-- [microsoft/ANCE](https://github.com/microsoft/ANCE) - A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks <sub>⭐ 389 · Python</sub>
-- [EulerSearch/embedding_studio](https://github.com/EulerSearch/embedding_studio) - Embedding Studio is a framework which allows you transform your Vector Database into a feature-rich Search Engine. <sub>⭐ 382 · Python</sub>
-- [Aquila-Network/aquila](https://github.com/Aquila-Network/aquila) - An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search. <sub>⭐ 379 · HTML</sub>
-- [morphismtech/squeal](https://github.com/morphismtech/squeal) - Squeal, a deep embedding of SQL in Haskell <sub>⭐ 377 · Haskell</sub>
-- [trvon/yams](https://github.com/trvon/yams) - Persistent memory for LLMs and apps. Content-addressed storage with dedupe, compression, full-text and vector search. <sub>⭐ 373 · C++</sub>
-- [dangkhoasdc/awesome-vector-database](https://github.com/dangkhoasdc/awesome-vector-database) - A curated list of awesome works related to high dimensional structure/vector search & database <sub>⭐ 362</sub>
-- [smaramwbc/statewave](https://github.com/smaramwbc/statewave) - Open-source memory runtime for AI agents — reproducible, provenance-tagged context bundles instead of query-time retrieval. Apache-2.0, self-hosted on Postgres + pgvector, Python + TypeScript SDKs. <sub>⭐ 361 · Python</sub>
-- [halofyai/halofy](https://github.com/halofyai/halofy) - Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure. <sub>⭐ 335 · TypeScript</sub>
-- [scrypster/muninndb](https://github.com/scrypster/muninndb) - The cognitive database. A new class of data storage. Not a vector store, not a graph DB, not a RAG wrapper. Ebbinghaus decay, Hebbian learning, and Bayesian confidence are engine-native primitives.… <sub>⭐ 332 · Go</sub>
-- [weaviate/weaviate-examples](https://github.com/weaviate/weaviate-examples) - Weaviate vector database – examples <sub>⭐ 331 · HTML</sub>
-- [braincrew-lab/langconnect-client](https://github.com/braincrew-lab/langconnect-client) - A Modern GUI Interface for Vector Database Management(Supports MCP integration) <sub>⭐ 326 · TypeScript</sub>
-- [edoliberty/vector-search-class-notes](https://github.com/edoliberty/vector-search-class-notes) - Class notes for the course "Long Term Memory in AI - Vector Search and Databases" COS 597A @ Princeton Fall 2023 <sub>⭐ 324 · TeX</sub>
-- [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders <sub>⭐ 324 · Swift</sub>
-- [rush-db/rushdb](https://github.com/rush-db/rushdb) - RushDB is a graph + vector database and memory layer for AI agents. Push any JSON, get typed, searchable, relationship-aware records back — no schema, no migrations. Built on Neo4j. <sub>⭐ 324 · TypeScript</sub>
-- [vector-ai/vectorai](https://github.com/vector-ai/vectorai) - Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors. <sub>⭐ 324 · Python</sub>
-- [rokbenko/ai-playground](https://github.com/rokbenko/ai-playground) - Code from tutorials presented on the "Code AI with Rok" YouTube channel <sub>⭐ 321 · Python</sub>
-- [iternal-technologies-partners/blockify-agentic-data-optimization](https://github.com/iternal-technologies-partners/blockify-agentic-data-optimization) - Blockify: Agentic data optimization for enterprise RAG and agentic search. Blockify replaces naive chunking with deduplicated IdeaBlocks — ≈78X accuracy aggregate improvement, 2.29X vector search… <sub>⭐ 316 · Python</sub>
-- [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) - Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. <sub>⭐ 313 · Python</sub>
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama. <sub>⭐ 312 · Python</sub>
-- [buffdb/buffdb](https://github.com/buffdb/buffdb) - Embedded storage built for AI model management over gRPC. Smart machines don't need to read JSON, they only need protocol buffers. The world's first MODMS (Machine-Oriented Database Management… <sub>⭐ 305 · Rust</sub>
-- [mathomhaus/guild](https://github.com/mathomhaus/guild) - Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search. <sub>⭐ 302 · Go</sub>
-- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - Classification - Machine Learning This is ‘Classification’ tutorial which is a part of the Machine Learning course offered by Simplilearn. We will learn Classification algorithms, types of… <sub>⭐ 300 · Python</sub>
-- [babycommando/entity-db](https://github.com/babycommando/entity-db) - EntityDB is an in-browser vector database wrapping indexedDB and Transformers.js over WebAssembly <sub>⭐ 297 · JavaScript</sub>
-- [supabase/vecs](https://github.com/supabase/vecs) - Postgres/pgvector Python Client <sub>⭐ 292 · Python</sub>
-- [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) - Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external servers, zero API keys. <sub>⭐ 290 · Python</sub>
-- [orneryd/Mimir](https://github.com/orneryd/Mimir) - Mimir - Fully open and customizable memory bank with semantic vector search capabilities for locally indexed files (Code Intelligence) and stored memories that are shared across sessions and chat… <sub>⭐ 287 · Go</sub>
-- [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses. <sub>⭐ 286 · TypeScript</sub>
-- [lux-db/lux](https://github.com/lux-db/lux) - A Redis-compatable key-value store. Up to 10x faster. Native vector support. <sub>⭐ 286 · Rust</sub>
-- [FoxyOfJungle/TurboGML](https://github.com/FoxyOfJungle/TurboGML) - The largest collection of useful general GML functions (AI, Linear Algebra - Vectors, Arrays, Structs, Strings, File Search, Conversions etc) <sub>⭐ 284 · Game Maker Language</sub>
-- [flanker/chromadb-admin](https://github.com/flanker/chromadb-admin) - Admin UI for Chroma embedding database built with Next.js <sub>⭐ 283 · TypeScript</sub>
-- [fzliu/radient](https://github.com/fzliu/radient) - Radient turns many data types (not just text) into vectors for similarity search, RAG, regression analysis, and more. <sub>⭐ 281 · Python</sub>
-- [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - The official TypeScript/Node client for the Pinecone vector database <sub>⭐ 280 · TypeScript</sub>
-- [daveebbelaar/pgvectorscale-rag-solution](https://github.com/daveebbelaar/pgvectorscale-rag-solution) - An implementation of pgvectorscale to a build powerful RAG solutions. <sub>⭐ 276 · Python</sub>
-- [AI-Northstar-Tech/vector-io](https://github.com/AI-Northstar-Tech/vector-io) - Comprehensive Vector Data Tooling. The universal interface for all vector database, datasets and RAG platforms. Easily export, import, backup, re-embed (using any model) or access your vector data… <sub>⭐ 271 · Jupyter Notebook</sub>
-- [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - Serverless, distributed vector database as an API <sub>⭐ 271 · TypeScript</sub>
-- [esteininger/vector-search](https://github.com/esteininger/vector-search) - The definitive guide to using Vector Search to solve your semantic search production workload needs. <sub>⭐ 269 · Jupyter Notebook</sub>
-- [sachitrafa/YourMemory](https://github.com/sachitrafa/YourMemory) - Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo. <sub>⭐ 269 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [FissionAI/FloTorch](https://github.com/FissionAI/FloTorch) - FloTorch is an open-source tool for optimizing Generative AI workloads on AWS. It automates RAG proof-of-concept development with features like hyperparameter tuning, vector database optimization… <sub>⭐ 265 · Python</sub>
-- [vectordbz/vectordbz](https://github.com/vectordbz/vectordbz) - A modern desktop application for exploring, managing, and analyzing vector databases <sub>⭐ 263 · TypeScript</sub>
-- [not-pizza/victor](https://github.com/not-pizza/victor) - Web-optimized vector database (written in Rust). <sub>⭐ 262 · Rust</sub>
-- [oramasearch/oramacore](https://github.com/oramasearch/oramacore) - OramaCore is the complete runtime you need for your projects, answer engines, copilots, and search. It includes a fully-fledged full-text search engine, vector database, LLM interface, and many more… <sub>⭐ 262 · Rust</sub>
-- [Hairetsu/Notate](https://github.com/Hairetsu/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI… <sub>⭐ 259 · TypeScript</sub>
-- [Protocol-Lattice/go-agent](https://github.com/Protocol-Lattice/go-agent) - An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for production. <sub>⭐ 258 · Go</sub>
-- [zilliztech/akcio](https://github.com/zilliztech/akcio) - Akcio is a demonstration project for Retrieval Augmented Generation (RAG). It leverages the power of LLM to generate responses and uses vector databases to fetch relevant documents to enhance the… <sub>⭐ 258 · Python</sub>
-- [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go… <sub>⭐ 253 · Python</sub>
-- [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) - Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios. <sub>⭐ 253 · Python</sub>
-- [smalltong02/keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality. <sub>⭐ 252 · Python</sub>
-- [hypergraphdb/hypergraphdb](https://github.com/hypergraphdb/hypergraphdb) - HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and… <sub>⭐ 251 · Java</sub>
-- [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows… <sub>⭐ 248 · TypeScript</sub>
-- [nubskr/satoriDB](https://github.com/nubskr/satoriDB) - High performance embedded vector database <sub>⭐ 246 · Rust</sub>
-- [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB <sub>⭐ 243 · HTML</sub>
-- [scarletkc/vexor](https://github.com/scarletkc/vexor) - A semantic search engine for files and code. <sub>⭐ 242 · Python</sub>
-- [NitorCreations/nflow](https://github.com/NitorCreations/nflow) - Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API. <sub>⭐ 239 · Java</sub>
-- [Maneek21/Deft](https://github.com/Maneek21/Deft) - Self-hostable AGPL workspace where humans and AI agents share chat, tasks, knowledge, approvals, and MCP context. <sub>⭐ 234 · TypeScript</sub>
-- [jina-ai/annlite](https://github.com/jina-ai/annlite) - A fast embedded library for approximate nearest neighbor search <sub>⭐ 233 · Python</sub>
-- [GraphLite-AI/GraphLite](https://github.com/GraphLite-AI/GraphLite) - An Embeddable Graph Database with ISO Graph Query Language Support. <sub>⭐ 232 · Rust</sub>
-- [antarys-ai/python](https://github.com/antarys-ai/python) - Python client for Antarys vector database, optimized for large-scale vector operations with built-in caching, parallel processing, and dimension validation. <sub>⭐ 231 · Python</sub>
-- [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and… <sub>⭐ 229 · TypeScript</sub>
+- [deeplethe/utopia](https://github.com/deeplethe/utopia) - 世界首个开源企业世界模式. <sub>⭐ 8.0k · Rust</sub>
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI搜索平台 <sub>⭐ 7.1k · Java</sub>
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB是一个OLTP图数据库,内含原生矢量和在Rust上构建的关于对象存储的全文搜索. <sub>⭐ 6.1k · Rust</sub>
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - 为LLM应用而建立的AI-内生数据库,提供了对密集矢量、稀疏矢量、百分数(多向量)和全文的惊人快速混合搜索。 <sub>⭐ 4.7k · C++</sub>
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Claude Code 和其他6名CLI 代理的持续记忆, 存储在您的 Obsidian 金库中 。 停止重新解释您的项目、 决定和人员每次会话 。 45 命令: 混合... <sub>⭐ 4.7k · Python</sub>
+- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - C++,C,Python,JavaScript,Rust,Java,Object-C,Swift,C#,Golang和Wolfram中的矢量和任意对象快速开源搜索与集群引擎×. <sub>⭐ 4.3k · C++</sub>
+- [cozodb/cozo](https://github.com/cozodb/cozo) - 一个交易,关系-图 - 函数数据库,使用Datalog进行查询。 河马为AI! <sub>⭐ 4.1k · Rust</sub>
+- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - 开源报告平台,用于从APIs,SQL和NoSQL数据库构建和共享直播仪表板,并配有强大的AI助手,调度,可嵌入的图表. <sub>⭐ 4.1k · JavaScript</sub>
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT:使用OP Stack(OpenAI + Pinecone矢量数据库)给ChatGPT长期内存,使用简单的React前端上传自定义的知识库文件(PDF,txt,epub等). <sub>⭐ 3.4k · JavaScript</sub>
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - 企业级(40m+LOC)代码基智能,零设置,本地和私人插件/技能/扩展或MCP:混合语义搜索,多块块依赖图,符号级影响分析 &. <sub>⭐ 3.3k · TypeScript</sub>
+- [lakesoul-io/LakeSoul](https://github.com/lakesoul-io/LakeSoul) - 苏尔湖是一个端到端,实时云母湖屋框架,用于快速数据摄入,同步更新,增量分析,多式联运数据处理和矢量搜索——动力化. <sub>⭐ 3.3k · Rust</sub>
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - AI- Native 搜索数据库。 对于代理存储,它最好将矢量,文本,结构化和半结构化的数据统一成一个单一的引擎。这个全集的数据库让代理机更聪明,更容易... <sub>⭐ 3.1k · C++</sub>
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - 用于快速测试和实验的开源工具,同时支持LLMs(如OpenAI,LLaMA)和矢量数据库(如Chroma,Weaviate,LanceDB). <sub>⭐ 3.1k · Python</sub>
+- [pinecone-io/examples](https://github.com/pinecone-io/examples) - 帮助您操作 Pinecone 矢量数据库的 Jupyter Notebooks <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI动力跨平台电子书阅读器,具有语义搜索,RAG聊天,本地矢量商店,笔记,TTS,以及WebDAV同步功能. <sub>⭐ 2.7k · TypeScript</sub>
+- [dblalock/bolt](https://github.com/dblalock/bolt) - 10x更快的矩阵和矢量操作 <sub>⭐ 2.5k · C++</sub>
+- [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - RasaGPT是第一个无头LLM聊天台平台,建在Rasa和Langchain的顶部. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, 电报 <sub>⭐ 2.5k · Python</sub>
+- [shenweichen/DeepMatch](https://github.com/shenweichen/DeepMatch) - 用于推荐和广告的深层匹配模型库。它很容易训练模型,并导出可用于ANN搜索的表示矢量。 <sub>⭐ 2.4k · Python</sub>
+- [vearch/vearch](https://github.com/vearch/vearch) - 分布式向量搜索 AI- 本地应用程序 <sub>⭐ 2.3k · Python</sub>
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 在 Postgres 中可扩展,低纬度和混合驱动的矢量搜索。革命化矢量搜索,而不是数据库。 <sub>⭐ 2.2k · Rust</sub>
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP数据库带有Git-for-Data和内置矢量搜索,作为智能代理和应用的数据和内存主干线. <sub>⭐ 2.0k · Go</sub>
+- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - 求求Storm:向量和Lexical搜索 - 在进程中的库和多租借服务器,位于Rust. <sub>⭐ 1.9k · Rust</sub>
+- [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - 在 Postgres 中可缩放,快捷,且易磁盘的矢量搜索,为 pgvecto.rs 的继任者. <sub>⭐ 1.8k · Rust</sub>
+- [datastax/jvector](https://github.com/datastax/jvector) - JVector: 最先进的嵌入式矢量搜索引擎 <sub>⭐ 1.8k · Java</sub>
+- [BeaconBay/ck](https://github.com/BeaconBay/ck) - 本地第一语义和混合BM25 grep /搜索工具供AI和人类使用! <sub>⭐ 1.7k · Rust</sub>
+- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode 插件, 使用本地矢量数据库提供持续内存的编码代理 <sub>⭐ 1.7k · TypeScript</sub>
+- [dingodb/dingo](https://github.com/dingodb/dingo) - 一个多模式矢量数据库,利用统一的SQL(MySQL-兼容)在结构化和非结构化数据上支持向量查询和向量查询,同时满足高通量和. <sub>⭐ 1.7k · Java</sub>
+- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) - 从零开始创建来解密RAG。 本地 LLMS, 没有黑框 - 真正理解嵌入、 向量搜索、 检索和上下文生成 。 <sub>⭐ 1.6k · JavaScript</sub>
+- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - 收集与矢量搜索有关的图书馆、服务和研究文件 <sub>⭐ 1.6k</sub>
+- [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - 混合AI搜索引擎和AI页面生成器 <sub>⭐ 1.5k · TypeScript</sub>
+- [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - 用于 LLM 代理的超快速本地矢量数据库。 现在接受 SAFEs , 上限为 135M 。 <sub>⭐ 1.4k · Python</sub>
+- [endee-io/endee](https://github.com/endee-io/endee) - Endee.io – 一个高性能矢量数据库,旨在在一个单一节点上处理最多1B矢量,通过优化索引和执行实现显著的性能增益. also opened... <sub>⭐ 1.3k · C++</sub>
+- [superlinear-ai/raglite](https://github.com/superlinear-ai/raglite) - RAGLite是用于 Retrival-Augmented Generation (RAG) 的 Python 工具包,带有 DuckDB 或 PostgreSQL <sub>⭐ 1.2k · Python</sub>
+- [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB多模式数据库,一个支持SQL,Cypher,Gremlin,HTTP/JSON,MongoDB和Redis的DBMS. ArcadeDB是东方DB的概念叉,是第一个多模式DBMS. ArcadeDB支持... <sub>⭐ 1.2k · Java</sub>
+- [elastic/elastic-labs](https://github.com/elastic/elastic-labs) - 搜索、可观察性及带有弹性搜索的安全的笔记本和示例应用程序 <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [neural-maze/realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course) - 构建实时AI语音代理,使用FastRTC进行低纬度流线,超链接用于矢量搜索,Twilio用于直播电话,Runpod用于可伸缩的GPU部署. <sub>⭐ 1.1k · Python</sub>
+- [juanjuandog/FinSight-AI](https://github.com/juanjuandog/FinSight-AI) - AI 股权研究代理,具有弹性工作流程,循证RAG,版本报告,自动化质量评价. <sub>⭐ 1.1k · Java</sub>
+- [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Go 的嵌入式矢量数据库,包含类似 Chroma 的接口和零第三方依赖性。 内存具有可选的持久性 。 <sub>⭐ 1.1k · Go</sub>
+- [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB) - 支持高性能矢量搜索和全文搜索的@ClickHouse叉. <sub>⭐ 1.0k · C++</sub>
+- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 使用矢量搜索和LLMS的多模式AI、RAG和代理的资源、实例和教程 <sub>⭐ 978 · Jupyter Notebook</sub>
+- [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - 将您的 AI 应用程序所谈的所有内容锁定到 LLM APIS, MCP, A2A, AG- UI, 矢量 DB, 搜索。 一个软件包, 一个端口, 零依赖性 。 <sub>⭐ 955 · TypeScript</sub>
+- [gannonh/chatgpt-pgvector](https://github.com/gannonh/chatgpt-pgvector) - ChatGTP( gpt3.5- turbo) 启动应用程序 <sub>⭐ 937 · TypeScript</sub>
+- [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb可以爬行网页,阅读PDF,DOCX,TXT,并提取主要内容,然后根据内容回答你的问题,或者总结关键点. <sub>⭐ 917 · Python</sub>
+- [LibreChat-AI/rag-api](https://github.com/LibreChat-AI/rag-api) - 基于ID的RAG FastAPI:与Langchain和PostgreSQL/pgvector的集成 <sub>⭐ 910 · Python</sub>
+- [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - Azure AI Search中用于矢量搜索能力的代码样本存储器. <sub>⭐ 909 · Jupyter Notebook</sub>
+- [lanterndata/lantern](https://github.com/lanterndata/lantern) - PostgreSQL 用于构建AI应用程序的矢量数据库扩展 <sub>⭐ 895 · Rust</sub>
+- [orneryd/NornicDB](https://github.com/orneryd/NornicDB) - Nornicdb 是一个分布式低纬度,Graph+Vector,Temperal MVCC 具有所有子 ms HNSW 搜索,图转录,以及写作功能. 使用 Neo4j Bolt/Cypher和qdrant的gRPC 表示您可以以没有... <sub>⭐ 894 · Go</sub>
+- [Deodat-Lawson/LaunchStack](https://github.com/Deodat-Lawson/LaunchStack) - AI 驱动的 StartUp Accelerator 引擎与 Next.js, LangChain, PostgreSQL + pgvector 一起建造。 上传、 整理和聊天文档。 包括预测性缺失文档检测, 基于角色的... <sub>⭐ 890 · TypeScript</sub>
+- [epsilla-cloud/vectordb](https://github.com/epsilla-cloud/vectordb) - 高性能矢量数据库,利用并行图计算 <sub>⭐ 875 · C++</sub>
+- [NVIDIA/cuvs](https://github.com/NVIDIA/cuvs) - cuVS - GPU 上的矢量搜索和集群库 <sub>⭐ 859 · Cuda</sub>
+- [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick是新型AI构建者的尖端工具箱,让我们一起做Magick! <sub>⭐ 849 · TypeScript</sub>
+- [ruoccofabrizio/azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - 一个简单的OpenAI启用文档搜索的网络应用程序。 此回波使用 Azure OpenAI 服务从文档中创建嵌入向量。 对于回答用户的问题, 它会检索... <sub>⭐ 849 · Python</sub>
+- [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - 任何邮递邮件的全文和语义搜索 <sub>⭐ 832 · Rust</sub>
+- [kagisearch/vectordb](https://github.com/kagisearch/vectordb) - 用于存储和检索文本的最小 Python 包,使用块化、嵌入和向量搜索。 <sub>⭐ 796 · Python</sub>
+- [usemoss/moss](https://github.com/usemoss/moss) - 用于生产AI系统的检索层. Lightning-fast (<10ms) 搜索时没有向量数据库。为浏览器、边缘、设备和云构建了 。 <sub>⭐ 786 · Python</sub>
+- [trilogy-libraries/trilogy](https://github.com/trilogy-libraries/trilogy) - 三部曲(Trilogy)是MySQL兼容数据库服务器的客户端库,其设计目的是性能,灵活性和嵌入方便. <sub>⭐ 784 · C</sub>
+- [0hq/tinyvector](https://github.com/0hq/tinyvector) - 一个与SQLite和Pytorch相邻的小型嵌入数据库。 (正在开发中 !) <sub>⭐ 771 · Python</sub>
+- [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) - 用于AI编码代理的 Rust-power 代码智能CLI. 构建调用图和混合语义搜索索引(Dense + Sparse + RRF + Reranker),使用7种语言. 船舶作为本地MCP工具用于. <sub>⭐ 769 · Rust</sub>
+- [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 将文本文件嵌入向量,将其存储在 Pinecone 上,并允许使用 GBT3 和 Langchain 在 Next.js UI 中进行语义搜索 <sub>⭐ 761 · TypeScript</sub>
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - 嵌入式关系数据库和原生的Rust数据 API. <sub>⭐ 752 · Rust</sub>
+- [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) - Got-native 持久内存用于AI编码代理. 应用 Google OKF v0.2 的子300μs inmemory BM25搜索,嵌入 MCP服务器,以及渐进披露. Swatch sorth bloat 以 80% 与... <sub>⭐ 744 · Go</sub>
+- [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) - 嵌入式单文件知识图数据库,包含向量搜索和AI/RAG应用程序全文搜索 <sub>⭐ 725 · Zig</sub>
+- [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - 给您的AI一个真实的,持续的内存。 开源系统加模板将 Obsidian 金库变成您的AI的工作内存。 没有矢量数据库, 只需标记 。 <sub>⭐ 686</sub>
+- [jina-ai/vectordb](https://github.com/jina-ai/vectordb) - 一个Python矢量数据库,你只需要 - 不再,也不要少。 <sub>⭐ 653 · Python</sub>
+- [perone/euclidesdb](https://github.com/perone/euclidesdb) - 多模式的机器学习功能嵌入数据库 <sub>⭐ 640 · C++</sub>
+- [OtterMind/Nubase](https://github.com/OtterMind/Nubase) - 将AI-write代码转换成真实的应用程序. Nubase是一个开源,AI-native后端平台,用于AI编码,代理应用程序,以及现代产品团队:内存,数据库,存储,和Auth in one... <sub>⭐ 625 · Java</sub>
+- [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - 本地和自主控文件搜索的代理RAG:嵌入式LanceDB上的混合检索、重新排序和多模式RAG,配有Docling剖析和一个MCP服务器 <sub>⭐ 617 · Python</sub>
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - 使用全本地的 Graph RAG 引擎在您的 Markdown 笔记中询问问题。 为 Obsidian 保险库所建, 与 Markdown 文件的任意文件夹一起工作。 从 wikilinks 中提取实体- 关系三进制(...) 。 <sub>⭐ 606 · Python</sub>
+- [MazzaWill/neo4j-python-pandas-py2neo-v3](https://github.com/MazzaWill/neo4j-python-pandas-py2neo-v3) - Excel-to-Neo4j 知识图例:遗产 py2neo v3+现代 Neo4j GraphRAG/vector搜索. <sub>⭐ 580 · Python</sub>
+- [kreeben/resin](https://github.com/kreeben/resin) - 语言模型搜索引擎建立在矢量数据库和任何键/值商店上. <sub>⭐ 577 · C#</sub>
+- [redis-developer/ArXivChatGuru](https://github.com/redis-developer/ArXivChatGuru) - 使用 ArXiv ChatGuru 与研究论文交谈。 此应用程序使用 LangChain, OpenAI, Streamlit, 和 Redis 作为矢量数据库/ 语义缓存 。 <sub>⭐ 561 · Python</sub>
+- [kelindar/search](https://github.com/kelindar/search) - 使用 lama.cpp 进行嵌入式矢量搜索和语义嵌入的库 <sub>⭐ 560 · Go</sub>
+- [lightonai/next-plaid](https://github.com/lightonai/next-plaid) - NextPlaid,ColGREP:多向量搜索,从数据库到编码代理. <sub>⭐ 554 · Rust</sub>
+- [caura-ai/caura](https://github.com/caura-ai/caura) - Caura(原名MemClaw)——管理AI代理机队的共享内存. 多代理,多租借,MCP-内在,信任级,关键点政策,审计线索,知识图,自我改进检索. . <sub>⭐ 543 · Python</sub>
+- [estebanpdl/osintgpt](https://github.com/estebanpdl/osintgpt) - 一个开源智能分析工具(OSINT),利用GPT驱动嵌入和矢量搜索引擎来高效数据处理 <sub>⭐ 529 · Python</sub>
+- [LeDat98/NexusRAG](https://github.com/LeDat98/NexusRAG) - 混合RAG系统结合了向量搜索,知识图(LightRAG),以及交叉编码器重新排序——与Docling文档解析,视觉智能(图像/表标题),代理流化. <sub>⭐ 529 · Python</sub>
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - 用于构建 LLM 动力应用程序的死化 API <sub>⭐ 522 · TypeScript</sub>
+- [supabase-community/chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - 使用 pgvector 安全地与您的文件聊天的制作准备 MVP <sub>⭐ 516 · TypeScript</sub>
+- [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - 一个RAG应用程序,用于在数据库表格中询问有关行的问题。 可以在Azure Control Apps上使用 PostgreSQL 灵活服务器 。 <sub>⭐ 506 · Python</sub>
+- [atomikos/transactions-essentials](https://github.com/atomikos/transactions-essentials) - Atomikos Attomikos Assciences – Java的开源JTA/XA交易管理器:在数据库和信件经纪人之间分布交易,自动恢复崩溃. Enbedable, no... <sub>⭐ 486 · Java</sub>
+- [taylorsatula/mira](https://github.com/taylorsatula/mira) - 这是 MIRA OS 的公开发布。 discrete memorys debate by growth lose, 工具自动配置在投放到工具/文件夹时, 系统从模块化的三角形中迅速编曲 。 I... <sub>⭐ 479 · Python</sub>
+- [upstash/wikipedia-semantic-search](https://github.com/upstash/wikipedia-semantic-search) - 用 Upstash 矢量搜索维基百科语义 <sub>⭐ 470 · TypeScript</sub>
+- [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) - Pinecone 矢量数据库的官方 Python SDK <sub>⭐ 453 · Python</sub>
+- [BenyRonald77/uajy-academic-rag-chatbot](https://github.com/BenyRonald77/uajy-academic-rag-chatbot) - 制作级RAG聊天机器人,为Universitas Atma Jaya Yogyakarta 学术手册,包括Streamlit、FAISS矢量搜索和Google双子座2.5 Flash。 <sub>⭐ 450 · Python</sub>
+- [LightningRAG/LightningRAG](https://github.com/LightningRAG/LightningRAG) - 闪电RAG是一个全Stack Vue + Gin启动器,其前端和后端脱钩,外加内置的,可扩展的RAG(retrival-augmented generation):知识基础,矢量搜索,以及集成. . <sub>⭐ 450 · Go</sub>
+- [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - 一个在纯Rust中嵌入的微小数据库. <sub>⭐ 438 · Rust</sub>
+- [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDB是一个通用面向对象的图形数据库,存储格式为本土,可以处理图表关系. YouTrackDB支持Gremlin查询和ACID交易. YTDB支持两种嵌入式. . <sub>⭐ 437 · Java</sub>
+- [atomicstrata/atomicmemory](https://github.com/atomicstrata/atomicmemory) - AI代理的便携式语义内存:核心引擎,TypeScript SDK,框架适配器,MCP服务器,CLI,以及主机插件. <sub>⭐ 436 · TypeScript</sub>
+- [redis/redis-vl-python](https://github.com/redis/redis-vl-python) - Redis矢量库. Redis的人工智能Python客户端. <sub>⭐ 431 · Python</sub>
+- [neuml/annotateai](https://github.com/neuml/annotateai) - 使用 LLMS 自动注释文件 <sub>⭐ 426 · Python</sub>
+- [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - 使用矢量搜索搜索搜索和检索科学代理技能的 MCP 服务器 <sub>⭐ 407 · Python</sub>
+- [arun1729/cog](https://github.com/arun1729/cog) - Python 的嵌入式图形数据库。 它生活在您的 Python 进程内。 快速设置, 没有服务器。 运行在笔记本、 应用程序甚至浏览器中 。 <sub>⭐ 398 · Python</sub>
+- [ElectricCodeGuy/SupabaseAuthWithSSR](https://github.com/ElectricCodeGuy/SupabaseAuthWithSSR) - Supabase Auth + AI Stack for Next.js 16 with SSR and React Server Parties (RSC),欢迎使用一个将Supabase SSR认证与AI能力相结合的制作准备模板:文档聊天... <sub>⭐ 397 · TypeScript</sub>
+- [alexklibisz/elastiknn](https://github.com/alexklibisz/elastiknn) - 用于最近邻居搜索的弹性搜索插件。 存储向量并使用精确和近似算法运行相似性搜索 。 <sub>⭐ 395 · Scala</sub>
+- [microsoft/ANCE](https://github.com/microsoft/ANCE) - 利用ANN搜索实现Trec DL2019和OpenQA基准的SOTA检索 <sub>⭐ 389 · Python</sub>
+- [EulerSearch/embedding_studio](https://github.com/EulerSearch/embedding_studio) - 嵌入工作室是一个框架,它允许您将您的矢量数据库转换成一个功能丰富的搜索引擎. <sub>⭐ 382 · Python</sub>
+- [Aquila-Network/aquila](https://github.com/Aquila-Network/aquila) - 一个容易使用神经搜索引擎。 将潜在矢量与 JSON 元数据一起索引, 并进行高效的 k- NN 搜索 。 <sub>⭐ 379 · HTML</sub>
+- [morphismtech/squeal](https://github.com/morphismtech/squeal) - 尖叫,哈斯凯尔SQL的深层嵌入 <sub>⭐ 377 · Haskell</sub>
+- [trvon/yams](https://github.com/trvon/yams) - LLMs 和apps 的持续内存。 内容地址为存储, 包含 dedupe、 压缩、 全文和向量搜索 。 <sub>⭐ 373 · C++</sub>
+- [dangkhoasdc/awesome-vector-database](https://github.com/dangkhoasdc/awesome-vector-database) - 与高维结构/车辆搜索和数据库相关的优秀作品目录 <sub>⭐ 362</sub>
+- [smaramwbc/statewave](https://github.com/smaramwbc/statewave) - AI代理的开源内存运行时间——可复制,来源标记的上下文捆绑而不是查询时检索. Apache-2.0,自办于Postgres + pgvector, Python + TypeScript SDKs上. <sub>⭐ 361 · Python</sub>
+- [halofyai/halofy](https://github.com/halofyai/halofy) - Halofy是整个组织AI代理的开放访问和治理层。身份、政策、来源、审计和签名的消除。 <sub>⭐ 335 · TypeScript</sub>
+- [scrypster/muninndb](https://github.com/scrypster/muninndb) - 认知数据库。 数据存储的新类别。 不是向量存储, 不是图 DB, 不是RAG 包装器。 Ebbishaus 衰减、 Hebbian 学习和 Bayesian 信心是引擎- 原生的 。 <sub>⭐ 332 · Go</sub>
+- [weaviate/weaviate-examples](https://github.com/weaviate/weaviate-examples) - 编织矢量数据库 - 实例 <sub>⭐ 331 · HTML</sub>
+- [braincrew-lab/langconnect-client](https://github.com/braincrew-lab/langconnect-client) - 矢量数据库管理的现代图形用户界面(支持MCP集成) <sub>⭐ 326 · TypeScript</sub>
+- [edoliberty/vector-search-class-notes](https://github.com/edoliberty/vector-search-class-notes) - "AI中的长期记忆——矢量搜索与数据库"课程的班次说明 COS 597A @普林斯顿瀑布2023 <sub>⭐ 324 · TeX</sub>
+- [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - 使用 MLTensor 和 MLX 嵌入器进行安装的基于 Swift 的向量数据库 <sub>⭐ 324 · Swift</sub>
+- [rush-db/rushdb](https://github.com/rush-db/rushdb) - RushDB是AI代理的图 + 矢量数据库和内存层. Push any JSON, get typed, searchable, release-aware records——没有计划,没有迁移,在Neo4j上构建. <sub>⭐ 324 · TypeScript</sub>
+- [vector-ai/vectorai](https://github.com/vector-ai/vectorai) - 矢量AI — 一个构建基于矢量的应用程序的平台. Encode,查询和分析使用矢量的数据. <sub>⭐ 324 · Python</sub>
+- [rokbenko/ai-playground](https://github.com/rokbenko/ai-playground) - 在"Code AI with Rok" YouTube频道上介绍的教程代码 <sub>⭐ 321 · Python</sub>
+- [iternal-technologies-partners/blockify-agentic-data-optimization](https://github.com/iternal-technologies-partners/blockify-agentic-data-optimization) - 封装:企业RAG和代理搜索的代理数据优化. 封装替换天真的块,代之以复制的IdeaBlocks——XQ78X精度聚合改进,2.29X矢量搜索...... <sub>⭐ 316 · Python</sub>
+- [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) - 开源AI房地产搜索与RAG,矢量搜索,多供应商LLMs,FastAPI,Next.js,ChromaDB,以及现场演示. <sub>⭐ 313 · Python</sub>
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - 家庭助理的AI代理——与你家交谈,用普通语言创建自动化设备,用脸部识别分析相机,并获得主动异常警报. Cloud LLMs或通过Ollama完全本地化. <sub>⭐ 312 · Python</sub>
+- [buffdb/buffdb](https://github.com/buffdb/buffdb) - 为GRPC上的AI模型管理而构建的嵌入存储器. Smart 机器不需要读 JSON,它们只需要协议缓冲器. World第一个MODMS(Machine-Oriented Database Management... <sub>⭐ 305 · Rust</sub>
+- [mathomhaus/guild](https://github.com/mathomhaus/guild) - 共享上下文,内存和任务协调跨AI编码代理. Single Go binary, 本地SQLite, 混合关键词和语义搜索. <sub>⭐ 302 · Go</sub>
+- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - 分类 - 机器学习 这是Simplilearn提供的机器学习课程的一部分 " 分类 " 的教程。我们将学习分类算法、类型和. <sub>⭐ 300 · Python</sub>
+- [babycommando/entity-db](https://github.com/babycommando/entity-db) - 实体DB是一个内浏览器矢量数据库,将索引DB和变形器包裹在WebAssembly <sub>⭐ 297 · JavaScript</sub>
+- [supabase/vecs](https://github.com/supabase/vecs) - Postgres/ pgvector Python 客户端 <sub>⭐ 292 · Python</sub>
+- [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) - Claude Code的本地RAG MCP服务器——混合搜索(semantic + BM25),交叉编码器重排,13个MCP工具,20个格式解析器. 0外部服务器,0 API密钥. <sub>⭐ 290 · Python</sub>
+- [orneryd/Mimir](https://github.com/orneryd/Mimir) - Mimir - 具有本地索引文件(Code Intelligence)语义矢量搜索能力的全开自定义存储库,并存储了在会话和聊天间共享的存储器. . <sub>⭐ 287 · Go</sub>
+- [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - DiscovAI-Search: AI工具和自定义数据的AI动力搜索引擎. 使用Next.js, OpenAI, Supabase 等构建. 特性基于矢量的搜索, Redis 缓存, 以及 LLM 驱动的响应. <sub>⭐ 286 · TypeScript</sub>
+- [lux-db/lux](https://github.com/lux-db/lux) - 一个可重复比对的密钥值商店。 最多可快到10x。 原生矢量支持 。 <sub>⭐ 286 · Rust</sub>
+- [FoxyOfJungle/TurboGML](https://github.com/FoxyOfJungle/TurboGML) - 最大的实用通用 GML 函数集(AI, Linear 代数 - 矢量, 阵列, Structs, Strings, 文件搜索, 转换等) <sub>⭐ 284 · Game Maker Language</sub>
+- [flanker/chromadb-admin](https://github.com/flanker/chromadb-admin) - 使用 Next.js 创建的 Chroma 嵌入数据库的管理 UI <sub>⭐ 283 · TypeScript</sub>
+- [fzliu/radient](https://github.com/fzliu/radient) - 辐射度将许多数据类型(而不仅仅是文本)转化为矢量,用于相似性搜索,RAG,回归分析,等等. <sub>⭐ 281 · Python</sub>
+- [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - Pinecone 向量数据库的官方 TypeScript/节点客户端 <sub>⭐ 280 · TypeScript</sub>
+- [daveebbelaar/pgvectorscale-rag-solution](https://github.com/daveebbelaar/pgvectorscale-rag-solution) - 实施pgvectorscale以构建强大的RAG解决方案. <sub>⭐ 276 · Python</sub>
+- [AI-Northstar-Tech/vector-io](https://github.com/AI-Northstar-Tech/vector-io) - 综合矢量数据工具。 所有矢量数据库、数据集和RAG平台的通用界面。 方便导出、导入、备份、重嵌( 使用任何模型) 或访问您的矢量数据... <sub>⭐ 271 · Jupyter Notebook</sub>
+- [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 无服务器, 分布式矢量数据库作为 API <sub>⭐ 271 · TypeScript</sub>
+- [esteininger/vector-search](https://github.com/esteininger/vector-search) - 使用矢量搜索器解决你语义搜索制作工作量需求的最终指南. <sub>⭐ 269 · Jupyter Notebook</sub>
+- [sachitrafa/YourMemory](https://github.com/sachitrafa/YourMemory) - 代理AI内存与 Ebinghaus 忘却曲线衰变. +16pp 优于 LoCoMo 上的 Mem0 。 <sub>⭐ 269 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [FissionAI/FloTorch](https://github.com/FissionAI/FloTorch) - FloTorch是优化AWS上的Generative AI工作量的开源工具,它以超参数调制,矢量数据库优化等功能,自动实现RAG概念证明开发. . <sub>⭐ 265 · Python</sub>
+- [vectordbz/vectordbz](https://github.com/vectordbz/vectordbz) - 用于探索、管理和分析矢量数据库的现代桌面应用程序 <sub>⭐ 263 · TypeScript</sub>
+- [not-pizza/victor](https://github.com/not-pizza/victor) - 网络优化矢量数据库(写于Rust). <sub>⭐ 262 · Rust</sub>
+- [oramasearch/oramacore](https://github.com/oramasearch/oramacore) - OramaCore 是您项目、答题引擎、副驾驶和搜索所需的完整运行时间。它包括一个完整的全文搜索引擎、矢量数据库、LLM接口,以及更多的... <sub>⭐ 262 · Rust</sub>
+- [Hairetsu/Notate](https://github.com/Hairetsu/Notate) - Notate是一个桌面聊天应用程序,将AI对话带到下一个关卡. 它把聊天的简单性与文件分析,矢量搜索,以及多模型AI等高级功能结合在一起. . <sub>⭐ 259 · TypeScript</sub>
+- [Protocol-Lattice/go-agent](https://github.com/Protocol-Lattice/go-agent) - Go的代理框架带有图感记忆,UTCP-内在工具,以及多代理管弦乐. Build for production. <sub>⭐ 258 · Go</sub>
+- [zilliztech/akcio](https://github.com/zilliztech/akcio) - Akcio是检索增强生成(RAG)的演示项目,它利用LLM的力量生成响应,并利用矢量数据库获取相关文档来增强. <sub>⭐ 258 · Python</sub>
+- [qdrant/skills](https://github.com/qdrant/skills) - Qdrant 矢量搜索的代理技能: 缩放,性能优化,搜索质量,监控,部署,模型迁移,版本升级,以及跨越Python,TypeScript,Rust,Go的SDK使用. <sub>⭐ 253 · Python</sub>
+- [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) - 带有纯矢量搜索的图RAG,在多跳推理情景中实现SOTA性能. <sub>⭐ 253 · Python</sub>
+- [smalltong02/keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 网络 UI 项目 为了学习大语言模型, 该项目包括聊天、量化、微调、 即时工程模板和多式联运等功能。 <sub>⭐ 252 · Python</sub>
+- [hypergraphdb/hypergraphdb](https://github.com/hypergraphdb/hypergraphdb) - HyperGraphDB是一个通用,可扩展,可移植,分布,嵌入,开源的数据存储机制,是专门为人工智能和. <sub>⭐ 251 · Java</sub>
+- [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - 矢量存储器是一个向量数据库,它允许在浏览器本地存储的文本文档上进行语义相似性搜索,它使用OpenAI嵌入器将文档转换成向量并允许. <sub>⭐ 248 · TypeScript</sub>
+- [nubskr/satoriDB](https://github.com/nubskr/satoriDB) - 高性能嵌入向量数据库 <sub>⭐ 246 · Rust</sub>
+- [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - AI Agents - 55K+工作项目,27K+资源,30个区域开放多语种建设成本数据库. Semantic search through Qdrant 矢量 DB <sub>⭐ 243 · HTML</sub>
+- [scarletkc/vexor](https://github.com/scarletkc/vexor) - 用于文件和代码的语义搜索引擎. <sub>⭐ 242 · Python</sub>
+- [NitorCreations/nflow](https://github.com/NitorCreations/nflow) - 基于JVM的嵌入式工作流程引擎具有高可用性,可容错度,并支持多个数据库. 额外的库用于可视化和REST API. <sub>⭐ 239 · Java</sub>
+- [Maneek21/Deft](https://github.com/Maneek21/Deft) - 自我托管的AGPL工作空间,人类和AI代理共享聊天,任务,知识,批准,以及MCP背景. <sub>⭐ 234 · TypeScript</sub>
+- [jina-ai/annlite](https://github.com/jina-ai/annlite) - 一个快速嵌入的库, 用于近似近邻搜索 <sub>⭐ 233 · Python</sub>
+- [GraphLite-AI/GraphLite](https://github.com/GraphLite-AI/GraphLite) - 带有ISO Graph查询语言支持的嵌入式图形数据库. <sub>⭐ 232 · Rust</sub>
+- [antarys-ai/python](https://github.com/antarys-ai/python) - 用于Antarys矢量数据库的Python客户端,通过内置缓存,并行处理,以及维度验证等大规模矢量操作优化. <sub>⭐ 231 · Python</sub>
+- [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - 一个客户端矢量搜索库可以嵌入,存储,搜索和缓存向量. 工作在浏览器和节点上,它的表现超过了OpenAI的文本嵌入-ada-002,并且比Pinecone和... <sub>⭐ 229 · TypeScript</sub>
 - [krohling/bondai](https://github.com/krohling/bondai) - BondAI是开发AI Agent Systems的开源工具. BondAI处理包括内存/文本管理,错误处理,向量/语义搜索在内的执行复杂性,并包括. <sub>⭐ 226 · Python</sub>
-- [Dripfarm/SVDB](https://github.com/Dripfarm/SVDB) - Swift Vector Database. On-device, local vector database for building the next-generation of user experiences <sub>⭐ 224 · Swift</sub>
-- [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Python library for building with LLMs. One interface across 11 providers (OpenAI, Anthropic, Gemini, DeepSeek, Ollama and more), automatic failover, Pydantic-validated structured output, embeddings… <sub>⭐ 224 · Python</sub>
-- [andreiramani/pgvector_pgsql_windows](https://github.com/andreiramani/pgvector_pgsql_windows) - pgvector for PostgreSQL Windows (native compiled in Microsoft Windows environment) <sub>⭐ 218</sub>
-- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity… <sub>⭐ 218 · Jupyter Notebook</sub>
-- [cohere-ai/BinaryVectorDB](https://github.com/cohere-ai/BinaryVectorDB) - Efficient vector database for hundred millions of embeddings. <sub>⭐ 216 · Python</sub>
-- [boluo2077/deep-rag](https://github.com/boluo2077/deep-rag) - Deep RAG: Advanced Retrieval-Augmented Generation system that goes beyond vector search. Enables AI to perform multi-hop reasoning, negation queries, numerical comparisons & global aggregation on… <sub>⭐ 214 · Python</sub>
-- [EduardTalianu/erag](https://github.com/EduardTalianu/erag) - an AI interaction tool with RAG hybrid search, conversation context, web content processing and structured data analysis with LLM / GPT <sub>⭐ 213 · Python</sub>
-- [mixedbread-ai/baguetter](https://github.com/mixedbread-ai/baguetter) - Baguetter is a flexible, efficient, and hackable search engine library implemented in Python. It's designed for quickly benchmarking, implementing, and testing new search methods. Baguetter supports… <sub>⭐ 213 · Python</sub>
-- [petabridge/memorizer](https://github.com/petabridge/memorizer) - Vector-search powered agent memory MCP server <sub>⭐ 213 · C#</sub>
-- [wmaslonek/guardian-db](https://github.com/wmaslonek/guardian-db) - GuardianDB: High-performance, local-first decentralized database that stores and processes data, built on Rust and Iroh <sub>⭐ 213 · Rust</sub>
-- [johunsang/semble_rs](https://github.com/johunsang/semble_rs) - Fast, AI-agent-native code search in Rust — hybrid BM25 + semantic, Tree-sitter AST chunking, dependency & impact analysis. Drop-in replacement for grep/cat/read/ls in Claude Code, Codex, Cursor… <sub>⭐ 212 · Rust</sub>
-- [yoloshii/ClawMem](https://github.com/yoloshii/ClawMem) - On-device memory layer for AI agents. Claude Code, OpenClaw and Hermes. Hooks + MCP server + hybrid RAG search. <sub>⭐ 212 · TypeScript</sub>
-- [AlayaDB-AI/AlayaLite](https://github.com/AlayaDB-AI/AlayaLite) - AlayaLite – A Fast, Flexible Vector Database for Everyone. <sub>⭐ 209 · C++</sub>
-- [gusye1234/nano-vectordb](https://github.com/gusye1234/nano-vectordb) - A simple, easy-to-hack Vector Database <sub>⭐ 209 · Python</sub>
-- [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) - The Go client for Chroma vector database <sub>⭐ 208 · Go</sub>
-- [kevin-hs-sohn/hipocampus](https://github.com/kevin-hs-sohn/hipocampus) - Drop-in memory harness for AI agents — 3-tier memory, compaction tree, hybrid search. One command to set up. Works with Claude Code and OpenClaw. <sub>⭐ 208 · JavaScript</sub>
-- [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations. <sub>⭐ 204 · Python</sub>
-- [monkesearch/monkeSearch](https://github.com/monkesearch/monkeSearch) - fully local, temporally aware natural language file search on your pc! even without a GPU. find relevant files using natural language in less than 1 second. <sub>⭐ 203 · Python</sub>
-- [yakhyo/face-reidentification](https://github.com/yakhyo/face-reidentification) - Real-time face re-identification and face search with SCRFD detection, ArcFace embeddings and FAISS vector search on ONNX Runtime. <sub>⭐ 202 · Python</sub>
-- [NodeDB-Lab/nodedb](https://github.com/NodeDB-Lab/nodedb) - The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible. <sub>⭐ 201 · Rust</sub>
-- [edwin-hao-ai/Awareness-Local](https://github.com/edwin-hao-ai/Awareness-Local) - Local-first AI agent memory — one command, works offline, no account needed. Give your Claude Code, Cursor, Windsurf, OpenClaw agent persistent memory. Markdown storage, hybrid search (FTS5 +… <sub>⭐ 199 · JavaScript</sub>
-- [however-yir/knowledgeops-agent](https://github.com/however-yir/knowledgeops-agent) - Production-oriented Spring AI platform prototype for RAG, tool calling, async ingestion, JWT/RBAC, and observability. <sub>⭐ 197 · Java</sub>
-- [supabase/headless-vector-search](https://github.com/supabase/headless-vector-search) - Supabase Toolkit to perform vector similarity search on your knowledge base embeddings. <sub>⭐ 197 · TypeScript</sub>
-- [RobThePCGuy/Claude-Patent-Creator](https://github.com/RobThePCGuy/Claude-Patent-Creator) - USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior art search… <sub>⭐ 195 · Python</sub>
-- [theaiautomators/claude-code-agentic-rag-masterclass](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) - Build an agentic RAG app from scratch by collaborating with Claude Code. 8-module course covering hybrid search, reranking, text-to-SQL, subagents, and more. React + FastAPI + Supabase. <sub>⭐ 191</sub>
-- [Azure/Build-Modern-AI-Apps](https://github.com/Azure/Build-Modern-AI-Apps) - Microsoft Official Build Modern AI Apps reference solutions and content. Demonstrate how to build Copilot applications that incorporate Hero Azure Services including Azure OpenAI Service, Azure… <sub>⭐ 190</sub>
-- [Azure/Vector-Search-AI-Assistant](https://github.com/Azure/Vector-Search-AI-Assistant) - Microsoft Official Build Modern AI Apps reference solutions and content. Demonstrate how to build Copilot applications that incorporate Hero Azure Services including Azure OpenAI Service, Azure… <sub>⭐ 190 · C#</sub>
-- [stevereiner/flexible-graphrag](https://github.com/stevereiner/flexible-graphrag) - Python, LlamaIndex, LangChain, 15 Property Graph, 4 RDF , 10 Vector, OpenSearch, Elasticsearch, Alfresco, Nuxeo DBs. 14 data sources (10 auto-sync), KG auto-building, Ontologies, LLMs, Docling… <sub>⭐ 188 · Python</sub>
-- [shubham0204/OnDevice-Face-Recognition-Android](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) - On-device customizable face recognition in Android with FaceNet and an embedded vector database <sub>⭐ 186 · Kotlin</sub>
-- [anis-marrouchi/chatpdf-gpt](https://github.com/anis-marrouchi/chatpdf-gpt) - ChatPDF-GPT is an innovative chat interface application powered by LangChain and OpenAI, allowing users to upload and chat with PDF documents, stored in Pinecone vector database and Supabase storage. <sub>⭐ 183 · TypeScript</sub>
-- [mileszim/awesome-vector-database](https://github.com/mileszim/awesome-vector-database) - Awesome List of Vector DB resources <sub>⭐ 181</sub>
-- [ruvnet/FACT](https://github.com/ruvnet/FACT) - FACT – Fast Augmented Context Tools: FACT is a lean retrieval pattern that skips vector search. We cache every static token inside Claude Sonnet‑4 and fetch live facts only through authenticated… <sub>⭐ 181 · Python</sub>
-- [YoKONCy/TriviumDB](https://github.com/YoKONCy/TriviumDB) - A lightweight embedded database engine that natively fuses vector search, graph, and document-oriented metadata within a single storage kernel — ready to use the moment data is written. <sub>⭐ 181 · Rust</sub>
-- [hkulekci/qdrant-php](https://github.com/hkulekci/qdrant-php) - Qdrant is a vector similarity engine & vector database. It deploys as an API service providing search for the nearest high-dimensional vectors. With Qdrant, embeddings or neural network encoders can… <sub>⭐ 179 · PHP</sub>
-- [KxSystems/kdbai-samples](https://github.com/KxSystems/kdbai-samples) - Developer samples for the KDB.AI vector database <sub>⭐ 179 · Jupyter Notebook</sub>
-- [sqliteai/sqlite-ai](https://github.com/sqliteai/sqlite-ai) - AI-native extension for SQLite that brings on-device inference, embedding generation, and model interaction directly into your database. <sub>⭐ 178 · C</sub>
-- [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface. <sub>⭐ 176 · TypeScript</sub>
-- [awa-ai/awadb](https://github.com/awa-ai/awadb) - AI Native database for embedding vectors <sub>⭐ 175 · C++</sub>
-- [samyama-ai/samyama-graph](https://github.com/samyama-ai/samyama-graph) - Rust graph-vector database: OpenCypher (99.9% of evaluated TCK scenarios pass), vector search, graph algorithms, RESP + HTTP. LDBC SNB Interactive and BI complete; 1B edges on one machine. <sub>⭐ 174 · Rust</sub>
-- [Sibyl-Labs/Sibyl-Memory](https://github.com/Sibyl-Labs/Sibyl-Memory) - Durable, file-based long-term memory for AI agents. Five-package plugin family: SDK, CLI, MCP server, Hermes adapter, and a LangGraph BaseStore. No vector database, no embeddings. <sub>⭐ 173 · Python</sub>
-- [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio… <sub>⭐ 172 · Python</sub>
-- [devwhodevs/engraph](https://github.com/devwhodevs/engraph) - Local knowledge graph for AI agents. Hybrid search + MCP server for Obsidian vaults. <sub>⭐ 171 · Rust</sub>
-- [corail-research/SeaPearl.jl](https://github.com/corail-research/SeaPearl.jl) - Julia hybrid constraint programming solver enhanced by a reinforcement learning driven search. <sub>⭐ 170 · Julia</sub>
-- [andylow92/file-system-brain-mcp](https://github.com/andylow92/file-system-brain-mcp) - Self-improving, AI-native markdown vault you hand to an AI agent. GitHub-style file tree + Notion editing, exposed to Claude/Cursor via a built-in MCP server (24 tools): semantic & hybrid search… <sub>⭐ 167 · TypeScript</sub>
-- [DmitryKey/bert-solr-search](https://github.com/DmitryKey/bert-solr-search) - Search with BERT vectors in Solr, Elasticsearch, OpenSearch and GSI APU <sub>⭐ 167 · Jupyter Notebook</sub>
-- [poloclub/mememo](https://github.com/poloclub/mememo) - A JavaScript library that brings vector search and RAG to your browser! <sub>⭐ 167 · TypeScript</sub>
-- [likeslines-maker/VectorRAG.Net](https://github.com/likeslines-maker/VectorRAG.Net) - VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented Generation). Core search is based on Random Hyperplane LSH candidate… <sub>⭐ 165 · C#</sub>
-- [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past. <sub>⭐ 165 · TypeScript</sub>
-- [FaustoNisida/Chatbot-Long-Short-Term-Memory](https://github.com/FaustoNisida/Chatbot-Long-Short-Term-Memory) - GPT-3 Chatbot with Long and Short Term Memory and advanced logic built in javascript with openai API - short and long memory, KYC, embeddings, openai, database, flexible, gpt-3.5-turbo, react <sub>⭐ 163 · JavaScript</sub>
-- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag) - Streamlit app demonstrating using LangChain and retrieval augmented generation with a vectorstore and hybrid search <sub>⭐ 162 · Python</sub>
-- [dnotitia/akb](https://github.com/dnotitia/akb) - AKB — Agent Knowledgebase. Organizational memory for AI agents: vault-scoped docs / tables / files unified by URI graph, served over MCP. <sub>⭐ 161 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [build-on-aws/llm-rag-vectordb-python](https://github.com/build-on-aws/llm-rag-vectordb-python) - Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with… <sub>⭐ 158 · Jupyter Notebook</sub>
-- [haoyiyin/basjoo](https://github.com/haoyiyin/basjoo) - Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector. <sub>⭐ 158 · Python</sub>
-- [YARlabs/hyperspace-db](https://github.com/YARlabs/hyperspace-db) - (H) HyperspaceDB is a high-performance, vector database. It features 1-bit quantization, async replication, and native support for hierarchical datasets (Lorentz, Poincaré ball & Hybrid models). <sub>⭐ 157 · Rust</sub>
-- [yanhua1010/zero-to-ai-fullstack](https://github.com/yanhua1010/zero-to-ai-fullstack) - A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js <sub>⭐ 156 · Python</sub>
-- [redis-developer/redis-arXiv-search](https://github.com/redis-developer/redis-arXiv-search) - Vector search demo with the arXiv paper dataset, RedisVL, HuggingFace, OpenAI, Cohere, FastAPI, React, and Redis. <sub>⭐ 154 · Python</sub>
-- [mharrvic/semantic-search-openai-pinecone](https://github.com/mharrvic/semantic-search-openai-pinecone) - Semantic search with openai's embeddings stored to pineconedb (vector database) <sub>⭐ 152 · TypeScript</sub>
-- [patricktrainer/duckdb-embedding-search](https://github.com/patricktrainer/duckdb-embedding-search) - Fast similarity search using DuckDB <sub>⭐ 152 · Python</sub>
-- [RustyRAG/RustyRAG](https://github.com/RustyRAG/RustyRAG) - Production-grade RAG API built in Rust. Hybrid search with HNSW dense vectors and BM25 sparse matching, cross-encoder reranking, layout-aware document extraction via Docling, and 94.5% accuracy on… <sub>⭐ 152 · Rust</sub>
-- [kstathou/vector_engine](https://github.com/kstathou/vector_engine) - Build a semantic search engine with Transformers and Faiss <sub>⭐ 151 · Jupyter Notebook</sub>
-- [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) - MCP server that lets Claude Code and other AI agents read and search large PDFs, one file or a whole folder: agentic RAG with hybrid semantic + keyword search, selective page reads, tables, images… <sub>⭐ 147 · Python</sub>
-- [CortexLM/vgrep](https://github.com/CortexLM/vgrep) - ( ) vgrep: a privacy-first, fully local semantic search engine that uses vector embeddings to understand meaning, not just keywords. It runs entirely on your machine, indexes your data locally, and… <sub>⭐ 146 · Rust</sub>
-- [predictable-labs/ryugraph](https://github.com/predictable-labs/ryugraph) - Ryu, a fork of Kuzu, is an Embedded Property Graph Database built for speed with vector search and full-text search built in. Implements Cypher. <sub>⭐ 146 · C++</sub>
-- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C++ module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters… <sub>⭐ 145 · C++</sub>
-- [Build5Nines/SharpVector](https://github.com/Build5Nines/SharpVector) - Lightweight, In-memory, Semantic Search, Text Vector Database to embed in any .NET Application <sub>⭐ 144 · C#</sub>
-- [guenthermi/postgres-word2vec](https://github.com/guenthermi/postgres-word2vec) - utils to use word embedding models like word2vec vectors in a PostgreSQL database <sub>⭐ 144 · C</sub>
-- [lancedb/yoloexplorer](https://github.com/lancedb/yoloexplorer) - YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds <sub>⭐ 144 · Python</sub>
-- [marcominerva/SqlDatabaseVectorSearch](https://github.com/marcominerva/SqlDatabaseVectorSearch) - A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native VECTOR type in Azure SQL Database and Azure OpenAI. <sub>⭐ 144 · C#</sub>
-- [changlin31/BossNAS](https://github.com/changlin31/BossNAS) - (ICCV 2021) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search <sub>⭐ 143 · Python</sub>
-- [wuxuyun0606-collab/lmc-5](https://github.com/wuxuyun0606-collab/lmc-5) - Living Memory Coordinate-5: five-axis memory architecture for long-running LLM agents. Minimal SQLite + production PostgreSQL/pgvector reference impls, multi-channel recall pipeline, LLM-proposed… <sub>⭐ 139 · Python</sub>
-- [madarco/ragrabbit](https://github.com/madarco/ragrabbit) - Open Source, Self-Hosted, AI Search and LLM.txt for your website <sub>⭐ 136 · TypeScript</sub>
-- [S1LV4/th0th](https://github.com/S1LV4/th0th) - Ancient knowledge keeper for modern code. Semantic search with 98% token reduction for AI assistants. Features: hybrid search, context compression, persistent memory. <sub>⭐ 136 · TypeScript</sub>
-- [bandr-ai/vektori](https://github.com/bandr-ai/vektori) - Memory that remembers the story not just the facts. File System Memory and Three layer sentence graph for AI agents -> Facts, Episodes, raw Sentences. One DB. Zero config. <sub>⭐ 135 · Python</sub>
-- [Marktechpost/Token-Saver](https://github.com/Marktechpost/Token-Saver) - A local Claude Desktop extension to query large PDFs with 92–98% fewer tokens. Performs local hybrid search, cites exact page numbers, and keeps your documents private on your machine <sub>⭐ 135 · Python</sub>
-- [Kkkirito-123/Mutil-Rag-Agent](https://github.com/Kkkirito-123/Mutil-Rag-Agent) - An improved multi-agent AIOps and RAG platform for OnCall troubleshooting, featuring LangGraph-based diagnosis workflows, Milvus vector search, MCP tool integration, Prometheus alert knowledge from… <sub>⭐ 133 · Python</sub>
-- [Sandermage/sndr_core_engine](https://github.com/Sandermage/sndr_core_engine) - SNDR Core Engine (Genesis) — vLLM runtime patch-overlay for Qwen3.6 + Gemma4 on consumer NVIDIA (Ampere sm_86, 2× A5000/3090). Qwen3.6-35B-A3B FP8 ~240 tok/s, 27B-int4 hybrid GDN+Mamba, Gemma4… <sub>⭐ 133 · Python</sub>
-- [coleam00/cole-medin-knowledge-base](https://github.com/coleam00/cole-medin-knowledge-base) - An OKF (Open Knowledge Format) knowledge base + Karpathy-style LLM wiki synthesized from Cole Medin's entire long-form YouTube catalog. Drop it next to any project for agent-ready, cited reference.… <sub>⭐ 132 · JavaScript</sub>
-- [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) - LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowledge and AI persistence and retrieval <sub>⭐ 131 · C#</sub>
-- [timescale/vector-cookbook](https://github.com/timescale/vector-cookbook) - Timescale Vector Cookbook. A collection of recipes to build applications with LLMs using PostgreSQL and Timescale Vector. <sub>⭐ 129 · Jupyter Notebook</sub>
-- [google-research/perch-hoplite](https://github.com/google-research/perch-hoplite) - Tooling for agile modeling on large machine perception embedding databases. <sub>⭐ 128 · Python</sub>
-- [Happy-Chen-CH/Educational_RAG_System](https://github.com/Happy-Chen-CH/Educational_RAG_System) - End-to-end educational RAG system: dual-engine retrieval (BM25 + BGE-M3 hybrid vector search), adaptive query strategies (HyDE/sub-query/backtracking), BERT intent classification, BGE-Reranker… <sub>⭐ 127 · Python</sub>
-- [hoangsonww/MERN-Stack-Ecommerce-App](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App) - Welcome to Fusion Electronics - a sample full-stack, lightweight, and modern online e-commerce application, built with the MERN (MongoDB, Express, React, Node.js) stack! Also features a product… <sub>⭐ 126 · JavaScript</sub>
-- [kalaspuff/ai-assisted-task-executor](https://github.com/kalaspuff/ai-assisted-task-executor) - A Task-Driven Autonomous Agent System as an AI-powered solution that leverages LLMs, vector search, and the LangChain framework to efficiently complete, generate, and prioritize tasks using a wide… <sub>⭐ 126</sub>
-- [notadev-iamaura/OneRAG](https://github.com/notadev-iamaura/OneRAG) - Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB), 5 LLMs (Gemini, OpenAI, Claude, Ollama, OpenRouter).… <sub>⭐ 126 · Python</sub>
-- [jasonmayes/VectorSearch.js](https://github.com/jasonmayes/VectorSearch.js) - Client side vector search using EmbeddingGemma with Web AI (LiteRT.js, TensorFlow.js, and Transformers.js) <sub>⭐ 124 · JavaScript</sub>
-- [sqliteai/sqlite-memory](https://github.com/sqliteai/sqlite-memory) - Markdown based AI agent memory with semantic search, hybrid retrieval, and offline-first sync between agents. <sub>⭐ 123 · C</sub>
-- [aju22/DocumentGPT](https://github.com/aju22/DocumentGPT) - DocumentGPT is a web application that allows you to chat over your research document using OpenAI's chat API and perform semantic search using vector databases. This tool provides a seamless… <sub>⭐ 122 · Python</sub>
-- [anrgct/autodev-codebase](https://github.com/anrgct/autodev-codebase) - A vector embedding-based code semantic search tool with MCP server and multi-model integration. Can be used as a pure CLI tool. Supports Ollama for fully local embedding and reranking, enabling… <sub>⭐ 122 · TypeScript</sub>
-- [opensearch-project/neural-search](https://github.com/opensearch-project/neural-search) - Neural search transforms text into vectors and facilitates vector search both at ingestion time and at search time. <sub>⭐ 121 · Java</sub>
-- [849879772/recruitops-agent](https://github.com/849879772/recruitops-agent) - Local-first recruitment intelligence and application operations agent <sub>⭐ 120 · Python</sub>
-- [guestrin-lab/ACORN](https://github.com/guestrin-lab/ACORN) - state-of-the-art search over vector embeddings and structured data (SIGMOD '24) <sub>⭐ 119 · C++</sub>
-- [SpillwaveSolutions/agent-brain](https://github.com/SpillwaveSolutions/agent-brain) - Local-first RAG memory for AI agents: hybrid + GraphRAG search, MCP server with OAuth 2.1, plugin for Claude Code / OpenCode / Codex. <sub>⭐ 119 · Python</sub>
-- [HiAi-gg/docsmint](https://github.com/HiAi-gg/docsmint) - Open-source knowledge base for people and AI agents. Rich-text editing, hybrid search, GraphRAG, and MCP. Self-host with Docker or use DocsMint Cloud. <sub>⭐ 117 · TypeScript</sub>
-- [matchyc/vector-search-papers](https://github.com/matchyc/vector-search-papers) - Awesome papers and technical blogs on vector DB (database), semantic-based vector search or approximate nearest neighbor search (ANN Search, ANNS). Vector search is the key component of large-scale… <sub>⭐ 117</sub>
-- [namidb/namidb](https://github.com/namidb/namidb) - Graph database native to the cloud. Embedded, multi-tenant, built on object storage. <sub>⭐ 117 · Rust</sub>
-- [VeraTools/vera](https://github.com/VeraTools/vera) - Local code search combining BM25, vector similarity, and cross-encoder reranking. Parses 60+ languages with tree-sitter, runs entirely offline, and returns structured results with file paths, line… <sub>⭐ 116 · Rust</sub>
-- [coleam00/MongoDB-RAG-Agent](https://github.com/coleam00/MongoDB-RAG-Agent) - Hybrid RAG AI Agent built with MongoDB, Pydantic AI, and Docling - combines semantic and text search with reciprocal rank fusion. <sub>⭐ 115 · Python</sub>
-- [gmickel/gno](https://github.com/gmickel/gno) - Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP support for AI clients. <sub>⭐ 115 · TypeScript</sub>
-- [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain, OpenAI and FastAPI <sub>⭐ 115 · Python</sub>
-- [ogham-mcp/ogham-mcp](https://github.com/ogham-mcp/ogham-mcp) - Shared memory MCP server — persistent, searchable, cross-client Claude, Opencode <sub>⭐ 115 · Python</sub>
-- [Azure-Samples/snippy](https://github.com/Azure-Samples/snippy) - Build AI-powered MCP Tools with Azure Functions, Durable Agents & Cosmos vector search. Features orchestrated multi-agent workflows using OpenAI. <sub>⭐ 114 · Python</sub>
-- [WANGLEVY9/VidForge](https://github.com/WANGLEVY9/VidForge) - Open-source AI pipeline for short-form commerce videos: multimodal analysis, RAG scripts, multi-agent orchestration, FFmpeg composition, and cost tracing. <sub>⭐ 114 · TypeScript</sub>
-- [vercel-labs/vectr](https://github.com/vercel-labs/vectr) - A free, open-source template for building natural language image search on the AI Cloud. <sub>⭐ 113 · TypeScript</sub>
-- [ryanmeowy/anchr-app](https://github.com/ryanmeowy/anchr-app) - Open-source API for a self-hostable, evidence-first document knowledge workspace with hybrid search, grounded answers, citations, and agent-assisted deep reading. <sub>⭐ 112 · Java</sub>
-- [ShenSeanChen/launch-rag](https://github.com/ShenSeanChen/launch-rag) - You Can Learn RAG AI Agent Design & Launch In 35 Min / Supabase Vector Database, Google Cloud GCP <sub>⭐ 110 · Python</sub>
-- [Abonia1/Context-Based-LLMChatbot](https://github.com/Abonia1/Context-Based-LLMChatbot) - Use vector search or embedding technique to feed addtional knowledge base to LLM like GPT-3, BLOOMZ <sub>⭐ 109 · Jupyter Notebook</sub>
-- [flamehaven01/Flamehaven-Filesearch](https://github.com/flamehaven01/Flamehaven-Filesearch) - Self-hosted RAG search engine — 34 formats, BM25+hybrid search, multi-LLM (Gemini/OpenAI/Claude/Ollama), FastAPI + Docker, production-ready in 3 min <sub>⭐ 109 · Python</sub>
-- [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - Full in-browser Semantic Search with Huggingface Transformers.js and ElectricSQL's PGlite! <sub>⭐ 109 · JavaScript</sub>
-- [Aavache/LLMWebCrawler](https://github.com/Aavache/LLMWebCrawler) - A Web Crawler based on LLMs implemented with Ray and Huggingface. The embeddings are saved into a vector database for fast clustering and retrieval. Use it for your RAG. <sub>⭐ 107 · Python</sub>
-- [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) - Hybrid search for Obsidian vaults via plugin, CLI, and MCP server <sub>⭐ 107 · TypeScript</sub>
-- [haru/redmine_ai_helper](https://github.com/haru/redmine_ai_helper) - A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector search. <sub>⭐ 106 · Ruby</sub>
-- [curiosity-ai/hnsw-sharp](https://github.com/curiosity-ai/hnsw-sharp) - C# library for approximate nearest neighbors search using Hierarchical Navigable Small World graphs <sub>⭐ 105 · C#</sub>
-- [microsoft/dstoolkit-text2sql-and-imageprocessing](https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing) - This repo accelerates development of RAG applications with rich data sources including SQL Warehouses and documents analysed with Azure Document Intelligence <sub>⭐ 105 · Python</sub>
-- [0xDebabrata/citrus](https://github.com/0xDebabrata/citrus) - (distributed) vector database <sub>⭐ 104 · Python</sub>
-- [zunor/paro](https://github.com/zunor/paro) - An AI-native multi-model database unifying SQL, vector, full-text, graph, and sandboxed Python — for transactional, analytical, and agent workloads. <sub>⭐ 104 · Rust</sub>
-- [libenxier-beep/codex-memories](https://github.com/libenxier-beep/codex-memories) - Local-first persistent memory for OpenAI Codex: governed recall, progressive disclosure, no hosted vector database. <sub>⭐ 103 · Python</sub>
-- [aws-samples/rag-with-amazon-bedrock-and-pgvector](https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector) - Opinionated sample on how to build/deploy a RAG web app on AWS powered by Amazon Bedrock and PGVector (on Amazon RDS) <sub>⭐ 102 · Python</sub>
-- [microsoft/MSVBASE](https://github.com/microsoft/MSVBASE) - MSVBASE is a system that efficiently supports complex queries of both approximate similarity search and relational operators. It integrates high-dimensional vector indices into PostgreSQL, a… <sub>⭐ 102 · C++</sub>
-- [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) - World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerated <sub>⭐ 101 · Python</sub>
-- [bigint/rag.computer](https://github.com/bigint/rag.computer) - Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API <sub>⭐ 100 · Python</sub>
-- [bryan31/RogueMap](https://github.com/bryan31/RogueMap) - High-performance embedded off-heap storage engine for Java, built on memory-mapped files. Map/List/Set/Queue beyond the JVM heap, plus an AI memory layer with hybrid vector + BM25 search. <sub>⭐ 100 · Java</sub>
-- [lizzy-0323/oasisdb](https://github.com/lizzy-0323/oasisdb) - OasisDB: A minimal and lightweight vector database <sub>⭐ 99 · Go</sub>
-- [firstbatchxyz/hollowdb-vector](https://github.com/firstbatchxyz/hollowdb-vector) - A decentralized vector database for building vector search applications <sub>⭐ 98 · TypeScript</sub>
-- [matte1782/edgevec](https://github.com/matte1782/edgevec) - High-performance vector search for Browser, Node, and Edge <sub>⭐ 98 · Rust</sub>
-- [optave/ops-codegraph-tool](https://github.com/optave/ops-codegraph-tool) - Code intelligence CLI — function-level dependency graph across 34 languages, 34-tool MCP server for AI agents, complexity metrics, architecture boundary enforcement, CI quality gates, git diff impact… <sub>⭐ 97 · TypeScript</sub>
-- [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for: AI Gateway (LiteLLM) LLM Serving (vLLM, SGLang, Ollama)… <sub>⭐ 96 · JavaScript</sub>
-- [nubo-db/dynoxide](https://github.com/nubo-db/dynoxide) - A DynamoDB emulator in Rust, backed by SQLite. Starts in milliseconds as a single static binary, and is verified against real AWS by a public conformance suite. Runs as an HTTP server, an MCP server… <sub>⭐ 95 · Rust</sub>
-- [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - Batch convert video to text using openai's whisper or the local coreML via whisper.cpp on your MacBook <sub>⭐ 94 · Go</sub>
-- [ly1836/spring-ai-rag-demo](https://github.com/ly1836/spring-ai-rag-demo) - 基于 Spring AI 2.0 的生产级 ERP 智能助手｜Production-ready ERP AI assistant with RAG, Tool Calling, chat memory, dynamic SQL tools, multi-tenancy and ECharts. <sub>⭐ 94 · Java</sub>
-- [AstraBert/ingest-anything](https://github.com/AstraBert/ingest-anything) - From data to vector database effortlessly <sub>⭐ 93 · Python</sub>
-- [dukesun99/Corpus2Skill](https://github.com/dukesun99/Corpus2Skill) - Official Findings of EMNLP 2026 implementation of Corpus2Skill: compile a document corpus into a navigable skill hierarchy that LLM agents explore at query time, with document lookup instead of a… <sub>⭐ 92 · Python</sub>
-- [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) - Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops. <sub>⭐ 92 · TypeScript</sub>
-- [VQLite/VQLite](https://github.com/VQLite/VQLite) - VQLite - Simple and Lightweight Vector Search Engine based on Google ScaNN <sub>⭐ 92 · Go</sub>
-- [YidaHu/chat-knows](https://github.com/YidaHu/chat-knows) - Chat-Knows is an intelligent question-answering service implemented based on a local knowledge base. It utilizes techniques such as document vectorization and vector search to provide answers to… <sub>⭐ 92 · Python</sub>
-- [AperturePlus/augmented-codebase-indexer](https://github.com/AperturePlus/augmented-codebase-indexer) - Semantic level code search/indexer with tree-sitter parsing, Qdrant vector store, and Typer/FastAPI interfaces. Supports calling via MCP. <sub>⭐ 91 · Python</sub>
-- [bbruceyuan/DeepMatch-Torch](https://github.com/bbruceyuan/DeepMatch-Torch) - 「PyTorch」A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search. <sub>⭐ 91 · Python</sub>
-- [intuit/infigraph](https://github.com/intuit/infigraph) - AST-powered code intelligence engine. Graph database + hybrid semantic search for 62 languages. Zero LLM dependency. Runs locally. <sub>⭐ 91 · Rust</sub>
-- [Poetrynan/ZettleAgent](https://github.com/Poetrynan/ZettleAgent) - AI-Powered Zettelkasten Desktop Agent — local-first second brain with hybrid search, AI agents, knowledge graph, and intelligent canvas. Fully offline out-of-the-box. <sub>⭐ 91 · TypeScript</sub>
-- [Hrishikesh332/Twelve-Labs-Content-Recommendation](https://github.com/Hrishikesh332/Twelve-Labs-Content-Recommendation) - Content Recommendation is an open source platform that makes use of vector similarity search to provide highly relevant content recommendations. <sub>⭐ 90 · TypeScript</sub>
-- [ibm-self-serve-assets/Blended-RAG](https://github.com/ibm-self-serve-assets/Blended-RAG) - Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers <sub>⭐ 89 · Jupyter Notebook</sub>
-- [weaviate/weaviate-io](https://github.com/weaviate/weaviate-io) - Website for the Weaviate vector database <sub>⭐ 89 · MDX</sub>
-- [ahmedEid1/lumen](https://github.com/ahmedEid1/lumen) - Lumen — learner-owned AI education platform. Tell the AI what you want to learn: it builds you a private course in ~a minute, tutors you with course-scoped RAG + citations, and lets you share, clone… <sub>⭐ 88 · Python</sub>
-- [spences10/mcp-memory-libsql](https://github.com/spences10/mcp-memory-libsql) - High-performance persistent memory system for Model Context Protocol (MCP) powered by libSQL. Features vector search, semantic knowledge storage, and efficient relationship management - perfect for… <sub>⭐ 88 · TypeScript</sub>
-- [DiceTechJobs/VectorsInSearch](https://github.com/DiceTechJobs/VectorsInSearch) - Dice.com repo to accompany the dice.com 'Vectors in Search' talk by Simon Hughes, from the Activate 2018 search conference, and the 'Searching with Vectors' talk from Haystack 2019 (US). Builds upon… <sub>⭐ 87 · Python</sub>
-- [flupkede/codesearch](https://github.com/flupkede/codesearch) - Multi-repo semantic code search MCP server in Rust — hybrid vector + BM25 retrieval, tree-sitter AST chunking, fully offline. For OpenCode, Claude Code, Cursor, and any MCP client. <sub>⭐ 87 · Rust</sub>
-- [nsarathy/Coffy](https://github.com/nsarathy/Coffy) - Open source lightweight embedded database engine for Python that supports NoSQL, SQL, and Graph data models. <sub>⭐ 87 · Python</sub>
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) - Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI. <sub>⭐ 87 · Python</sub>
-- [dof-studio/NathUI](https://github.com/dof-studio/NathUI) - Nath UI is a front-end and back-end hybrid large language model interaction framework that can support the above functions driven by user commands for large language models that do not support… <sub>⭐ 86 · Python</sub>
-- [pkavumba/django-vectordb](https://github.com/pkavumba/django-vectordb) - A fast and scalable app that adds vector search capabilities to your Django applications. It offers low latency, fast search results, native Django integration, and automatic syncing between your… <sub>⭐ 86 · Python</sub>
-- [Dicklesworthstone/frankensearch](https://github.com/Dicklesworthstone/frankensearch) - Two-tier hybrid search for Rust: sub-millisecond initial results via potion-128M, quality-refined rankings in 150ms via MiniLM-L6-v2. Combines lexical (Tantivy BM25) and semantic (vector cosine)… <sub>⭐ 85 · Rust</sub>
-- [sqliteai/sqlite-rag](https://github.com/sqliteai/sqlite-rag) - A hybrid search engine built on SQLite with SQLite AI and SQLite Vector extensions <sub>⭐ 85 · Python</sub>
-- [std-microblock/telegram-database](https://github.com/std-microblock/telegram-database) - A simple and fast chat records searching bot for Telegram. Supports OCR and sematic vector search. <sub>⭐ 85 · C++</sub>
-- [sanonone/kektordb](https://github.com/sanonone/kektordb) - AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports memory decay, contradiction detection, and MCP integration. <sub>⭐ 84 · Go</sub>
-- [NJUxlj/Travel-Agent-based-on-Qwen2-RLHF](https://github.com/NJUxlj/Travel-Agent-based-on-Qwen2-RLHF) - A travel agent based on Qwen2.5, fine-tuned by SFT + DPO/PPO/GRPO using traveling question-answer dataset, a mindmap can be output using the response. A RAG system is build upon the tuned qwen2… <sub>⭐ 83 · Python</sub>
-- [YanpengQi7/ai-reliability-copilot](https://github.com/YanpengQi7/ai-reliability-copilot) - Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ships with a 5-scenario regression suite + LLM-as-judge eval pipeline. <sub>⭐ 83 · TypeScript</sub>
-- [felipehummel/TinySearchEngine](https://github.com/felipehummel/TinySearchEngine) - Vector space model implemented in a few lines <sub>⭐ 81 · Scala</sub>
-- [vectorlitedb/vectorlitedb](https://github.com/vectorlitedb/vectorlitedb) - The SQLite for vector embeddings — A simple, embedded vector database that stores everything in a single file. <sub>⭐ 81 · Python</sub>
-- [D-Star-AI/minDB](https://github.com/D-Star-AI/minDB) - Extremely memory-efficient vector database <sub>⭐ 79 · Python</sub>
-- [Qizhan7/imprint-memory](https://github.com/Qizhan7/imprint-memory) - Persistent memory system for Claude Code — hybrid search (FTS5 + vector), message bus, task queue. Works as MCP server (stdio + HTTP). <sub>⭐ 79 · Python</sub>
-- [surrealdb/kaig](https://github.com/surrealdb/kaig) - Hi! My name is Kai G. I'm a knowledge AI, skilled in vector search, and graph RAG. My DB of choice is SurrealDB. <sub>⭐ 79 · Svelte</sub>
-- [mburaksayici/RAG-Boilerplate](https://github.com/mburaksayici/RAG-Boilerplate) - RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery… <sub>⭐ 78 · Python</sub>
-- [menloparklab/langchain-cohere-qdrant-retrieval](https://github.com/menloparklab/langchain-cohere-qdrant-retrieval) - This is a template retrieval repo to create a Flask api server using LangChain with Cohere embeddings and Qdrant Vector Database <sub>⭐ 78 · Python</sub>
-- [Azure/BuildYourOwnCopilot](https://github.com/Azure/BuildYourOwnCopilot) - Reference solution for how to build your own production-ready Copilot in Azure on .NET 8 using: Azure Cosmos DB and its vector database capabilities, containerized and running on AKS or ACA using… <sub>⭐ 76 · C#</sub>
-- [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory) - Universal semantic indexer providing persistent memory for Claude Code through knowledge graphs, Tree-sitter parsing, and Qdrant vector search <sub>⭐ 75 · Python</sub>
-- [Rman410/hybrid-search](https://github.com/Rman410/hybrid-search) - Python script that runs a hybrid search with a generative component (powered by Ollama). <sub>⭐ 75 · Python</sub>
-- [ThomasVitale/modular-rag](https://github.com/ThomasVitale/modular-rag) - Samples showing architectural patterns for Modular RAG using Spring AI and Ollama. <sub>⭐ 75 · Java</sub>
-- [chikitang/A](https://github.com/chikitang/A) - !DOCTYPE html> Your Repositories "all" Skip to content --> In this user All GitHub ↵ Jump to ↵ No suggested jump to results In this user All GitHub ↵ Jump to ↵ Search All GitHub ↵ Jump to ↵ In this… <sub>⭐ 74</sub>
-- [Shadylukin/Neumann](https://github.com/Shadylukin/Neumann) - A Rust runtime that unifies relational tables, graph relationships, and vector embeddings in a single tensor-based storage layer with distributed consensus and semantic search <sub>⭐ 74 · Rust</sub>
-- [vector-index-bench/vibe](https://github.com/vector-index-bench/vibe) - Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods, or vector indexes, using modern embedding datasets. <sub>⭐ 74 · Python</sub>
-- [afiodorov/hn-search](https://github.com/afiodorov/hn-search) - Vector search over Hacker News comments and RAG pipeline with a simple web ui <sub>⭐ 73 · Python</sub>
-- [aws-samples/aurora-postgresql-pgvector](https://github.com/aws-samples/aurora-postgresql-pgvector) - Agentic AI Use Cases with pgvector, Aurora PostgreSQL and Amazon Bedrock <sub>⭐ 73 · Python</sub>
-- [DeveloperMindset-com/faiss-mobile](https://github.com/DeveloperMindset-com/faiss-mobile) - FAISS library compiled for iOS, macOS, tvOS, watchOS <sub>⭐ 73 · CMake</sub>
-- [Hrishikesh332/Twelve-Labs-Fashion-chat-assistant](https://github.com/Hrishikesh332/Twelve-Labs-Fashion-chat-assistant) - The Fashion AI Assistant is a recommendation system that combines vector search capabilities with multimodal AI to provide intelligent fashion recommendations. <sub>⭐ 73 · Python</sub>
-- [una-dinosauria/local-search-quantization](https://github.com/una-dinosauria/local-search-quantization) - State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16. <sub>⭐ 73 · Julia</sub>
-- [matzalazar/rhizome](https://github.com/matzalazar/rhizome) - Local-first semantic backlinks for Obsidian and Logseq — embeds your notes with a multilingual sentence transformer and writes ## Related Notes sections as wikilinks, with no cloud API or database… <sub>⭐ 71 · Python</sub>
-- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole, Mackworth & Goebel 1998, p. 1. Russell & Norvig 2003, p. 55. Definition of AI as the study of intelligent agents: Poole, Mackworth & Goebel (1998), which provides the version that is used in… <sub>⭐ 70</sub>
-- [oracle/vecdb-python-sdk](https://github.com/oracle/vecdb-python-sdk) - Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database <sub>⭐ 70 · Python</sub>
-- [Azure-Samples/rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks) - Jupyter notebooks that demonstrate vector search, hybrid search, image search, RAG, and evaluation, all with Azure AI Search. <sub>⭐ 69 · Jupyter Notebook</sub>
+- [Dripfarm/SVDB](https://github.com/Dripfarm/SVDB) - Swift矢量数据库. On-device, 用于构建下一代用户体验的本地矢量数据库 <sub>⭐ 224 · Swift</sub>
+- [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - 用于与 LLMs 构建的 Python 库。 1个界面跨越了11个提供者( OpenAI, Anthropic, 双子星, DeepSeek, Ollama 等), 自动失效, Pydantic 验证结构输出, 嵌入式... <sub>⭐ 224 · Python</sub>
+- [andreiramani/pgvector_pgsql_windows](https://github.com/andreiramani/pgvector_pgsql_windows) - PostgreSQL Windows 的 pgvector( 在 Microsoft Windows 环境中编译) <sub>⭐ 218</sub>
+- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - 建议系统 这是一个关于使用机器学习和深层学习技术来构建建议System理论的研讨会: ML & DL 配制, President vs. Ranking, Simililary... <sub>⭐ 218 · Jupyter Notebook</sub>
+- [cohere-ai/BinaryVectorDB](https://github.com/cohere-ai/BinaryVectorDB) - 高效的矢量数据库,供数亿种嵌入. <sub>⭐ 216 · Python</sub>
+- [boluo2077/deep-rag](https://github.com/boluo2077/deep-rag) - 深RAG:高级检索增强生成系统,它超越了向量搜索。允许AI执行多跳推理,否定查询,数字比较和全局聚合. <sub>⭐ 214 · Python</sub>
+- [EduardTalianu/erag](https://github.com/EduardTalianu/erag) - 一个与RAG 混合搜索、对话背景、网络内容处理和结构化数据分析的 AI 交互工具与 LLM / GPT <sub>⭐ 213 · Python</sub>
+- [mixedbread-ai/baguetter](https://github.com/mixedbread-ai/baguetter) - Baguetter 是 Python 中执行的灵活,高效,可黑客化的搜索引擎库。它的设计旨在快速设定基准,实施,并测试新的搜索方法. Baguetter 支持... <sub>⭐ 213 · Python</sub>
+- [petabridge/memorizer](https://github.com/petabridge/memorizer) - 矢量搜索源代理内存 MCP 服务器 <sub>⭐ 213 · C#</sub>
+- [wmaslonek/guardian-db](https://github.com/wmaslonek/guardian-db) - GuardianDB:在Rust和Iroh上建立的高性能、本地第一分散数据库,储存和处理数据 <sub>⭐ 213 · Rust</sub>
+- [johunsang/semble_rs](https://github.com/johunsang/semble_rs) - 快速, 人工智能- 内在代码搜索在 Rust 中—— 混合 BM25 + 语义学, 树保姆 AST 块化, 依赖性和撞击性分析. drop- in 取代 Claude Code, Codex, cursor... <sub>⭐ 212 · Rust</sub>
+- [yoloshii/ClawMem](https://github.com/yoloshii/ClawMem) - 用于AI代理的On-device内存层. Claude Code, OpenClaw and Hermes. Hooks + MCP服务器 + 混合RAG搜索. <sub>⭐ 212 · TypeScript</sub>
+- [AlayaDB-AI/AlayaLite](https://github.com/AlayaDB-AI/AlayaLite) - AlayaLite – A Fast,灵活矢量数据库面向每个人. <sub>⭐ 209 · C++</sub>
+- [gusye1234/nano-vectordb](https://github.com/gusye1234/nano-vectordb) - 一个简单易打的矢量数据库 <sub>⭐ 209 · Python</sub>
+- [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) - Chroma 矢量数据库的 Go客户端 <sub>⭐ 208 · Go</sub>
+- [kevin-hs-sohn/hipocampus](https://github.com/kevin-hs-sohn/hipocampus) - AI代理机的滴入内存控制器——3级内存,紧凑树,混合搜索,一个命令要设置,与克劳德代码和OpenClaw合作. <sub>⭐ 208 · JavaScript</sub>
+- [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) - 人工智能代理的人类类记忆——语义,史诗和程序性. 经验驱动的程序从失败中吸取教训. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw 集成. <sub>⭐ 204 · Python</sub>
+- [monkesearch/monkeSearch](https://github.com/monkesearch/monkeSearch) - 在您的 pc 上完全本地化, 时间上可知的自然语言文件搜索 ! 即使没有 GPU 。 在不到 1 秒内找到使用自然语言的相关文件 。 <sub>⭐ 203 · Python</sub>
+- [yakhyo/face-reidentification](https://github.com/yakhyo/face-reidentification) - 实时面部重新识别和面部搜索,在ONNX运行时使用SCRFD检测,ArcFace嵌入和FAISS向量搜索. <sub>⭐ 202 · Python</sub>
+- [NodeDB-Lab/nodedb](https://github.com/NodeDB-Lab/nodedb) - AI代理的内存 & 存储引擎. 多型号,边缘至云, PostgreSQL 兼容性. <sub>⭐ 201 · Rust</sub>
+- [edwin-hao-ai/Awareness-Local](https://github.com/edwin-hao-ai/Awareness-Local) - 本地首个AI代理内存——一个命令,工作离线,不需要账户. Give your Claude Code, cursor, Windsurf, OpenClaw代理持续内存. Markdown story, mixed search(FTS5 +...) <sub>⭐ 199 · JavaScript</sub>
+- [however-yir/knowledgeops-agent](https://github.com/however-yir/knowledgeops-agent) - 面向生产的Spring AI平台原型用于RAG,工具调用,合成摄入,JWT/RBAC,以及可观察性. <sub>⭐ 197 · Java</sub>
+- [supabase/headless-vector-search](https://github.com/supabase/headless-vector-search) - Supabase工具箱,用于在您的知识库嵌入中进行矢量相似性搜索. <sub>⭐ 197 · TypeScript</sub>
+- [RobThePCGuy/Claude-Patent-Creator](https://github.com/RobThePCGuy/Claude-Patent-Creator) - 使用 MCP 服务器+ Claude 代码插件的 USPTO 专利创建系统. Hybrid RAG 搜索于 MPEP/USC/CFR, BigQuery 访问 76M+ 专利,自动化 35 USC 112 合规检查, 之前的艺术搜索... <sub>⭐ 195 · Python</sub>
+- [theaiautomators/claude-code-agentic-rag-masterclass](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) - 与 Claude Code 合作从头开始构建代理RAG app. 8模块课程,涵盖混合搜索,重新排位,文本对SQL,子代理等等. React + FastAPI + Supabase. <sub>⭐ 191</sub>
+- [Azure/Build-Modern-AI-Apps](https://github.com/Azure/Build-Modern-AI-Apps) - Microsoft Official Build Modern AI Apps的参考解决方案和内容. 演示如何构建包含Hero Azure Services包括Azure OpenAI Service, Azure在内的Copilot应用程序. . <sub>⭐ 190</sub>
+- [Azure/Vector-Search-AI-Assistant](https://github.com/Azure/Vector-Search-AI-Assistant) - Microsoft Official Build Modern AI Apps的参考解决方案和内容. 演示如何构建包含Hero Azure Services包括Azure OpenAI Service, Azure在内的Copilot应用程序. . <sub>⭐ 190 · C#</sub>
+- [stevereiner/flexible-graphrag](https://github.com/stevereiner/flexible-graphrag) - Python, LlamaIndex, LangChain, 15 Property Graph, 4 RDF, 10 Vector, OpenSearch, Elasticsearch, Alfresco, Nuxeo DBs. 14个数据源(10个自动同步), KG 自动构建, Ontologyes, LLMs, Docling... <sub>⭐ 188 · Python</sub>
+- [shubham0204/OnDevice-Face-Recognition-Android](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) - 在 FaceNet 和嵌入式矢量数据库的 Android 中可自定义的面部识别 <sub>⭐ 186 · Kotlin</sub>
+- [anis-marrouchi/chatpdf-gpt](https://github.com/anis-marrouchi/chatpdf-gpt) - ChatPDF-GPT是由LangChain和OpenAI提供动力的创新聊天界面应用程序,允许用户上传和与PDF文档聊天,存储在Pinecone矢量数据库和Supabase存储中. <sub>⭐ 183 · TypeScript</sub>
+- [mileszim/awesome-vector-database](https://github.com/mileszim/awesome-vector-database) - 真棒矢量 DB 资源列表 <sub>⭐ 181</sub>
+- [ruvnet/FACT](https://github.com/ruvnet/FACT) - FACT — Fast Advisioned Control 工具: FACT是一种跳过矢量搜索的精益检索模式。 我们缓存了克劳德·索内特*4内部的所有静态符号,并且只能通过认证获取现场事实... <sub>⭐ 181 · Python</sub>
+- [YoKONCy/TriviumDB](https://github.com/YoKONCy/TriviumDB) - 一个轻量级的嵌入式数据库引擎,在单个存储内核内自发地将矢量搜索,图表,和面向文档的元数据连接起来——随时可以使用数据写入瞬间. <sub>⭐ 181 · Rust</sub>
+- [hkulekci/qdrant-php](https://github.com/hkulekci/qdrant-php) - Qdrant 是矢量相似性引擎和矢量数据库。 它作为API服务进行部署,为最近的高维矢量提供搜索。 有了 Qdrant, 嵌入或神经网络编码器可以... <sub>⭐ 179 · PHP</sub>
+- [KxSystems/kdbai-samples](https://github.com/KxSystems/kdbai-samples) - KDB.AI 矢量数据库的开发者样本 <sub>⭐ 179 · Jupyter Notebook</sub>
+- [sqliteai/sqlite-ai](https://github.com/sqliteai/sqlite-ai) - SQLite 的 AI- 内在扩展, 它直接将设备推导、 嵌入生成和模型交互输入到您的数据库中 。 <sub>⭐ 178 · C</sub>
+- [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - 视觉和语义矢量与Redis Stack,FastAPI,PyTorch和Huggingface相似. <sub>⭐ 176 · TypeScript</sub>
+- [awa-ai/awadb](https://github.com/awa-ai/awadb) - 嵌入向量的 AI 原始数据库 <sub>⭐ 175 · C++</sub>
+- [samyama-ai/samyama-graph](https://github.com/samyama-ai/samyama-graph) - Rust 图向量数据库:OpenCypher(99.9%的评价TCK情景通过),矢量搜索,图算法,RESP + HTTP. LDBC SNB Interactive和BI完成;1台机上1B边缘. <sub>⭐ 174 · Rust</sub>
+- [Sibyl-Labs/Sibyl-Memory](https://github.com/Sibyl-Labs/Sibyl-Memory) - 持久,基于文件的AI代理长期内存. 五包插件家族:SDK,CLI,MCP服务器,Hermes适配器,以及一个LangGraph BaseStore。没有矢量数据库,没有嵌入. <sub>⭐ 173 · Python</sub>
+- [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - 使用OpenAI的GPT-3.5涡轮模型,DeepLake用于矢量数据库,Whisper API用于语音转录的问答聊天机器人. 聊天机器人还使用11个实验室生成音频... <sub>⭐ 172 · Python</sub>
+- [devwhodevs/engraph](https://github.com/devwhodevs/engraph) - 人工智能代理的本地知识图. Hybrid search + Obsidian 金库的MCP服务器. <sub>⭐ 171 · Rust</sub>
+- [corail-research/SeaPearl.jl](https://github.com/corail-research/SeaPearl.jl) - Julia 混合约束编程解析器通过强化学习驱动搜索而得到加强. <sub>⭐ 170 · Julia</sub>
+- [andylow92/file-system-brain-mcp](https://github.com/andylow92/file-system-brain-mcp) - 自我改进,AI-native markdown 保险库 您交给一个AI代理. GitHub风格的文件树+Notion编辑器,通过内置的MCP服务器(24个工具)暴露给克劳德/Cursor:语义和混合搜索... <sub>⭐ 167 · TypeScript</sub>
+- [DmitryKey/bert-solr-search](https://github.com/DmitryKey/bert-solr-search) - 在Solr、Elasticsearch、OpenSearch和GSI APU中与 BERT 向量搜索 <sub>⭐ 167 · Jupyter Notebook</sub>
+- [poloclub/mememo](https://github.com/poloclub/mememo) - 一个 JavaScript 库,它将矢量搜索和RAG 带入您的浏览器! <sub>⭐ 167 · TypeScript</sub>
+- [likeslines-maker/VectorRAG.Net](https://github.com/likeslines-maker/VectorRAG.Net) - VectorRAG.Net是用于语义搜索和RAG(检索-增强生成)的.NET-内置高性能矢量数据库库,核心搜索基于Random Hyperplane LSH候选... <sub>⭐ 165 · C#</sub>
+- [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - 提交你的想法,并获得一份YCombinator过去投资过的类似想法的清单. <sub>⭐ 165 · TypeScript</sub>
+- [FaustoNisida/Chatbot-Long-Short-Term-Memory](https://github.com/FaustoNisida/Chatbot-Long-Short-Term-Memory) - GPT-3 带有长短内存和高级逻辑的聊天机器人,用javascript中构建,有openai API - 短长内存,KYC,嵌入式,openai,数据库,灵活式,gpt-3.5-turbo,反应 <sub>⭐ 163 · JavaScript</sub>
+- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag) - 使用 LangChain 演示的简化应用程序, 并用矢量存储器和混合搜索方式增强生成功能 <sub>⭐ 162 · Python</sub>
+- [dnotitia/akb](https://github.com/dnotitia/akb) - AKB — Agent Knowledge Base. AI代理的组织内存:由URI图统一,服务于MCP的保险库扫描docs/表/文件. <sub>⭐ 161 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C战略要闻 2019年9月 本报是为2019年9月W3C咨询委员会会议编写的(W3C成员链接),参见所附的W3C概况介绍——2019年9月. <sub>⭐ 160</sub>
+- [build-on-aws/llm-rag-vectordb-python](https://github.com/build-on-aws/llm-rag-vectordb-python) - 探索样本应用和教程,用Python演示亚马逊贝德洛克的威力。学习将贝德洛克与数据库整合,使用RAG技术,用. <sub>⭐ 158 · Jupyter Notebook</sub>
+- [haoyiyin/basjoo](https://github.com/haoyiyin/basjoo) - 开源AI客户支持平台 — RAG知识库,多提供者LLM代理,可嵌入式聊天部件. FastAPI + Next.js + pgvector. <sub>⭐ 158 · Python</sub>
+- [YARlabs/hyperspace-db](https://github.com/YARlabs/hyperspace-db) - (H)HyperspaceDB是一个高性能,矢量的数据库,它具有1-位的量化,async复制,以及原生支持等级数据集(Lorentz, Poincaré ball & Hybrid models)的特点. <sub>⭐ 157 · Rust</sub>
+- [yanhua1010/zero-to-ai-fullstack](https://github.com/yanhua1010/zero-to-ai-fullstack) - 一个Java后端工程师在公众场合学习AI全速装订——Python ^ FastAPI → RAG → pgvector ~ Next.js <sub>⭐ 156 · Python</sub>
+- [redis-developer/redis-arXiv-search](https://github.com/redis-developer/redis-arXiv-search) - 矢量搜索演示 与arXiv纸质数据集,RedisVL,HuggingFace,OpenAI,Cohere,FastAPI,React,和Redis. <sub>⭐ 154 · Python</sub>
+- [mharrvic/semantic-search-openai-pinecone](https://github.com/mharrvic/semantic-search-openai-pinecone) - 语义学搜索,使用Openai的嵌入物存储到松科内德b(病毒数据库) <sub>⭐ 152 · TypeScript</sub>
+- [patricktrainer/duckdb-embedding-search](https://github.com/patricktrainer/duckdb-embedding-search) - 使用 DuckDB 快速相似性搜索 <sub>⭐ 152 · Python</sub>
+- [RustyRAG/RustyRAG](https://github.com/RustyRAG/RustyRAG) - 生产级RAG API建于 Rust. HNSW 稠密向量和 BM25 稀疏匹配的混合搜索,跨编码器重新排位,布局感知文件通过Docling提取,94.5%精度在... <sub>⭐ 152 · Rust</sub>
+- [kstathou/vector_engine](https://github.com/kstathou/vector_engine) - 构建带有变形器和 Faiss 的语义搜索引擎 <sub>⭐ 151 · Jupyter Notebook</sub>
+- [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) - MCP服务器让Claude Code和其他AI代理阅读和搜索大型PDF,一个文件或整个文件夹: 具有混合语义+关键词搜索的代理RAG,选择性页面读取,表格,图像. <sub>⭐ 147 · Python</sub>
+- [CortexLM/vgrep](https://github.com/CortexLM/vgrep) - () vgrep:一个隐私第一,完全本地语义搜索引擎,它使用矢量嵌入来理解意义,而不仅仅是关键词. 它运行在您的机器上,在本地索引您的数据,并且... <sub>⭐ 146 · Rust</sub>
+- [predictable-labs/ryugraph](https://github.com/predictable-labs/ryugraph) - 龙(Ryu),是库祖的叉子,是一个嵌入式属性图数据库,以速度构建,并使用所建的矢量搜索和全文搜索。执行 Cypher 。 <sub>⭐ 146 · C++</sub>
+- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search是一个C++模块,可以扩展valkey的矢量搜索和二级索引能力. 它使用户能够使用带有过滤器的复杂查询来索引和查询储存在Valkey的数据... <sub>⭐ 145 · C++</sub>
+- [Build5Nines/SharpVector](https://github.com/Build5Nines/SharpVector) - 轻量级、内存、语义搜索、文本矢量数据库以嵌入任何.NET应用程序 <sub>⭐ 144 · C#</sub>
+- [guenthermi/postgres-word2vec](https://github.com/guenthermi/postgres-word2vec) - 在 PostgreSQL 数据库中使用像 word2vec 向量这样的词嵌入模型的功能 <sub>⭐ 144 · C</sub>
+- [lancedb/yoloexplorer](https://github.com/lancedb/yoloexplorer) - YOLO Explorer: 使用 SQL 、 矢量语义搜索和秒内更多在您的 YOLO / CV 数据集上标注 <sub>⭐ 144 · Python</sub>
+- [marcominerva/SqlDatabaseVectorSearch](https://github.com/marcominerva/SqlDatabaseVectorSearch) - 一个Blazor Web App和最小API,用于在Azure SQL数据库和Azure OpenAI中使用原生VECTOR类型进行RAG(检索增强生成)和矢量搜索. <sub>⭐ 144 · C#</sub>
+- [changlin31/BossNAS](https://github.com/changlin31/BossNAS) - (ICCV 2021) BossNAS:探索混合有线电视新闻网的变频器,采用块形自控神经结构搜索 <sub>⭐ 143 · Python</sub>
+- [wuxuyun0606-collab/lmc-5](https://github.com/wuxuyun0606-collab/lmc-5) - 生活记忆坐标-5:长跑LLM代理的五轴内存架构. Minimal SQLite + 生产 PostgreSQL/pgvector 参考辅料,多通道召回管道,LLM-提议. . <sub>⭐ 139 · Python</sub>
+- [madarco/ragrabbit](https://github.com/madarco/ragrabbit) - 打开您网站的源码、 自控、 AI 搜索和 LLM.txt <sub>⭐ 136 · TypeScript</sub>
+- [S1LV4/th0th](https://github.com/S1LV4/th0th) - 现代代码的古老知识保存者. Sematic search, 98% acident republic for AI assisters. 特性:混合搜索,上下文压缩,持续内存. <sub>⭐ 136 · TypeScript</sub>
+- [bandr-ai/vektori](https://github.com/bandr-ai/vektori) - 回忆故事的记忆不仅仅是事实. 文件系统记忆和AI代理的三层句子图 - > Facts, Episodes, 原始句子. One DB. Zero config. <sub>⭐ 135 · Python</sub>
+- [Marktechpost/Token-Saver](https://github.com/Marktechpost/Token-Saver) - 一个本地 Claude 桌面扩展以查询大型 PDF , 代号减少 92- 98%。 执行本地混合搜索, 引用准确的页码, 并在您的机器上保留您的文档 。 <sub>⭐ 135 · Python</sub>
+- [Kkkirito-123/Mutil-Rag-Agent](https://github.com/Kkkirito-123/Mutil-Rag-Agent) - 改进了OnCall故障排除的多代理AIOps和RAG平台,其特点是基于LangGraph的诊断工作流程,Milvus矢量搜索,MCP工具集成,Prometheus警报知识来自. <sub>⭐ 133 · Python</sub>
+- [Sandermage/sndr_core_engine](https://github.com/Sandermage/sndr_core_engine) - SNDR核心引擎(Genensis) – vLLM运行时补丁覆盖 Qwen3.6 + Gemma4在消费NVIDIA上(Ampere sm_86,2× A5000/3090). Qune3.6-35B-A3B FP8~240tok/s,27B-int4混合GDN+Mamba,Gemma4... <sub>⭐ 133 · Python</sub>
+- [coleam00/cole-medin-knowledge-base](https://github.com/coleam00/cole-medin-knowledge-base) - 一个OKF(开放知识格式)知识库 + Karopathy- style LLM wiki 合成自 Cole Medin 的整个长格式 YouTube 目录。 在任何工程旁边放下, 用于代理准备, 引用参考... <sub>⭐ 132 · JavaScript</sub>
+- [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) - LiteGraph是一个多模式的AI数据平台——一个具有关系、矢量和MCP支持的属性图,用于动力知识以及AI的坚持和检索 <sub>⭐ 131 · C#</sub>
+- [timescale/vector-cookbook](https://github.com/timescale/vector-cookbook) - 时间尺度矢量烹饪本(Timescale Vector Cookbook),是使用 PostgreSQL 和时间尺度矢量构建应用程序的食谱集. <sub>⭐ 129 · Jupyter Notebook</sub>
+- [google-research/perch-hoplite](https://github.com/google-research/perch-hoplite) - 用于在大型机器感知嵌入数据库上敏捷的建模工具. <sub>⭐ 128 · Python</sub>
+- [Happy-Chen-CH/Educational_RAG_System](https://github.com/Happy-Chen-CH/Educational_RAG_System) - 端到端教育RAG系统:双引擎检索(BM25 + BGE-M3混合向量搜索),适应性查询策略(HyDE/sub-query/后跟踪),BERT意图分类,BGE-Ranker. <sub>⭐ 127 · Python</sub>
+- [hoangsonww/MERN-Stack-Ecommerce-App](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App) - 欢迎来到Fusion Electronics - 一个样板全装,轻量级,现代的在线电子商务应用,由MERN(MongoDB,Express,React,Node.js)堆栈建造! 还有一个产品特色...... <sub>⭐ 126 · JavaScript</sub>
+- [kalaspuff/ai-assisted-task-executor](https://github.com/kalaspuff/ai-assisted-task-executor) - 一个任务驱动自动代理系统作为AI的动力解决方案,它利用LLMs,矢量搜索,以及LangChain框架,高效地完成,生成,并使用宽度的任务排序. <sub>⭐ 126</sub>
+- [notadev-iamaura/OneRAG](https://github.com/notadev-iamaura/OneRAG) - 生产准备的RAG框架(Python/FastAPI). 1行配置互换:6个矢量DB(Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB),5个LLM(Gemini, OpenAI, Claude, Ollama, OpenRouter). <sub>⭐ 126 · Python</sub>
+- [jasonmayes/VectorSearch.js](https://github.com/jasonmayes/VectorSearch.js) - 客户端向量搜索使用 EmbeddingGemma 与 Web AI (LiteRT.js, TensorFlow.js, and Transformers.js) <sub>⭐ 124 · JavaScript</sub>
+- [sqliteai/sqlite-memory](https://github.com/sqliteai/sqlite-memory) - 基于Markdown的AI代理内存有语义搜索,混合检索,以及代理之间离线首同步. <sub>⭐ 123 · C</sub>
+- [aju22/DocumentGPT](https://github.com/aju22/DocumentGPT) - DocumentGPT是一个网络应用程序,允许您在研究文档上使用 OpenAI 的聊天 API 进行聊天,并使用矢量数据库进行语义搜索。这个工具提供了一个无缝... <sub>⭐ 122 · Python</sub>
+- [anrgct/autodev-codebase](https://github.com/anrgct/autodev-codebase) - 一个基于向量嵌入的代码语义搜索工具,有 MCP 服务器和多模型集成。可以用作纯 CLI 工具。支持 Ollama 完全本地嵌入和重新排序,允许... <sub>⭐ 122 · TypeScript</sub>
+- [opensearch-project/neural-search](https://github.com/opensearch-project/neural-search) - 神经搜索将文本转换成矢量,方便在摄入时间和搜索时间进行矢量搜索. <sub>⭐ 121 · Java</sub>
+- [849879772/recruitops-agent](https://github.com/849879772/recruitops-agent) - 当地第一征聘情报和应用业务代理 <sub>⭐ 120 · Python</sub>
+- [guestrin-lab/ACORN](https://github.com/guestrin-lab/ACORN) - 对矢量嵌入和结构数据进行最新搜索(SIGMOD '24) <sub>⭐ 119 · C++</sub>
+- [SpillwaveSolutions/agent-brain](https://github.com/SpillwaveSolutions/agent-brain) - AI代理的本地首个RAG内存:混合式+GraphRAG搜索,带有OAuth 2.1的MCP服务器,Claude Code / OpenCode / Codex的插件. <sub>⭐ 119 · Python</sub>
+- [HiAi-gg/docsmint](https://github.com/HiAi-gg/docsmint) - 面向人和AI代理的开源知识库. rich-text编辑,混合搜索,GraphRAG,以及MCP. Self-host with Docker或使用DocsMint Cloud. <sub>⭐ 117 · TypeScript</sub>
+- [matchyc/vector-search-papers](https://github.com/matchyc/vector-search-papers) - 关于矢量DB(数据库),语义为基础的矢量搜索或近似近邻搜索(ANN Search, ANNS)的出色论文和技术博客. 矢量搜索是大规模. <sub>⭐ 117</sub>
+- [namidb/namidb](https://github.com/namidb/namidb) - 图形数据库原生于云中。嵌入式,多租户,建在对象存储上。 <sub>⭐ 117 · Rust</sub>
+- [VeraTools/vera](https://github.com/VeraTools/vera) - 本地代码搜索结合了BM25,矢量相似性,以及跨编码器重排. Pars 60+语言与树保姆,全线运行,返回结构化结果与文件路径,行... <sub>⭐ 116 · Rust</sub>
+- [coleam00/MongoDB-RAG-Agent](https://github.com/coleam00/MongoDB-RAG-Agent) - 混合RAG AI Agent与MongoDB,Pydantic AI,和Docling-结合语义和文本搜索与对等的等级聚变而建立. <sub>⭐ 115 · Python</sub>
+- [gmickel/gno](https://github.com/gmickel/gno) - 本地AI动力文档的搜索和编辑,同时提供第一流的混合检索,LLM答案,WebUI,REST API和MCP支持AI客户端. <sub>⭐ 115 · TypeScript</sub>
+- [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - 由Atlas Embedding数据库、Langchain、OpenAI和FastAPI提供动力的语义搜索应用程序的教学和模板 <sub>⭐ 115 · Python</sub>
+- [ogham-mcp/ogham-mcp](https://github.com/ogham-mcp/ogham-mcp) - 共享内存 MCP 服务器 — 持久, 可搜索, 跨客户端 Claude, Opencode <sub>⭐ 115 · Python</sub>
+- [Azure-Samples/snippy](https://github.com/Azure-Samples/snippy) - 构建具有 Azure 函数、 持久代理和宇宙矢量搜索的 AI 动力的 MCP 工具。 特性使用 OpenAI 来协调多代理工作流程 。 <sub>⭐ 114 · Python</sub>
+- [WANGLEVY9/VidForge](https://github.com/WANGLEVY9/VidForge) - 短式商业视频的开源AI管道:多式联运分析,RAG脚本,多代理管弦乐,FFmpeg组成,以及成本追踪. <sub>⭐ 114 · TypeScript</sub>
+- [vercel-labs/vectr](https://github.com/vercel-labs/vectr) - AI云上用于构建自然语言图像搜索的自由开放源码模板. <sub>⭐ 113 · TypeScript</sub>
+- [ryanmeowy/anchr-app](https://github.com/ryanmeowy/anchr-app) - 开放源代码API,用于自宿,证据第一文档的知识工作空间,并配有混合搜索,基于答案,引用,以及代理辅助的深度阅读. <sub>⭐ 112 · Java</sub>
+- [ShenSeanChen/launch-rag](https://github.com/ShenSeanChen/launch-rag) - 在35 Min/Supabase矢量数据库中,Google Cloud GCP <sub>⭐ 110 · Python</sub>
+- [Abonia1/Context-Based-LLMChatbot](https://github.com/Abonia1/Context-Based-LLMChatbot) - 使用矢量搜索或嵌入技术将附加知识库像GPT-3, BLOOMZ 一样输入 LLM <sub>⭐ 109 · Jupyter Notebook</sub>
+- [flamehaven01/Flamehaven-Filesearch](https://github.com/flamehaven01/Flamehaven-Filesearch) - 自办RAG搜索引擎——34种格式,BM25+hybrid搜索,多LLM(Gemini/OpenAI/Claude/Olama),FastAPI+Docker,3分钟内制作准备. <sub>⭐ 109 · Python</sub>
+- [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - 全面浏览器语义搜索与Huggingface变形器.js和ElectricSQL的PGlite! <sub>⭐ 109 · JavaScript</sub>
+- [Aavache/LLMWebCrawler](https://github.com/Aavache/LLMWebCrawler) - 基于 LLMs 和 Ray 和 Huggingface 一起执行的 Web Crawler。 嵌入器被保存到矢量数据库中, 用于快速集群和检索。 请用它来获取 RAG 。 <sub>⭐ 107 · Python</sub>
+- [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) - 通过插件、 CLI 和 MCP 服务器搜索 Obsidian 金库 <sub>⭐ 107 · TypeScript</sub>
+- [haru/redmine_ai_helper](https://github.com/haru/redmine_ai_helper) - 一个添加AI代理,MCP Server,智能完成,以及矢量搜索的Redmine插件. <sub>⭐ 106 · Ruby</sub>
+- [curiosity-ai/hnsw-sharp](https://github.com/curiosity-ai/hnsw-sharp) - C# 库,用于使用等级导航小世界图搜索近似邻居 <sub>⭐ 105 · C#</sub>
+- [microsoft/dstoolkit-text2sql-and-imageprocessing](https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing) - 这种再投放加快了RAG应用程序的开发,其数据来源丰富,包括SQL仓库和与Azure文件情报分析的文件 <sub>⭐ 105 · Python</sub>
+- [0xDebabrata/citrus](https://github.com/0xDebabrata/citrus) - (分布)矢量数据库 <sub>⭐ 104 · Python</sub>
+- [zunor/paro](https://github.com/zunor/paro) - 一个AI-本土多模型数据库,将SQL,矢量,全文,图表和沙盒式Python统一起来——用于交易、分析和代理工作量。 <sub>⭐ 104 · Rust</sub>
+- [libenxier-beep/codex-memories](https://github.com/libenxier-beep/codex-memories) - OpenAI Codex 本地首个持续内存: 管理召回, 渐进披露, 没有主机矢量数据库. <sub>⭐ 103 · Python</sub>
+- [aws-samples/rag-with-amazon-bedrock-and-pgvector](https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector) - 关于如何在亚马逊Bedrock和PGVector(在亚马逊RDS上)提供动力的AWS上建立/部署一个RAG网络应用的意见样本 <sub>⭐ 102 · Python</sub>
+- [microsoft/MSVBASE](https://github.com/microsoft/MSVBASE) - MSVBASE是一个系统,高效支持近似性搜索和关系操作器的复杂查询. 它将高维向量指数整合到PostgreSQL中,a... <sub>⭐ 102 · C++</sub>
+- [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) - 世界最快和最紧凑的嵌入式矢量数据库:精确的默认,多模式,本地第一,以及GPU加速 <sub>⭐ 101 · Python</sub>
+- [bigint/rag.computer](https://github.com/bigint/rag.computer) - 自宿的RAG平台 - 文档摄入、嵌入和矢量搜索在简单的REST API之后 <sub>⭐ 100 · Python</sub>
+- [bryan31/RogueMap](https://github.com/bryan31/RogueMap) - Java的高性能嵌入式离重存储引擎,基于内存映射文件构建. Map/List/Set/Quue 超越JVM堆积,外加一个带有混合向量+BM25搜索的AI内存层. <sub>⭐ 100 · Java</sub>
+- [lizzy-0323/oasisdb](https://github.com/lizzy-0323/oasisdb) - 绿洲数据库:一个最小和轻量级的矢量数据库 <sub>⭐ 99 · Go</sub>
+- [firstbatchxyz/hollowdb-vector](https://github.com/firstbatchxyz/hollowdb-vector) - 用于构建矢量搜索应用程序的分散向量数据库 <sub>⭐ 98 · TypeScript</sub>
+- [matte1782/edgevec](https://github.com/matte1782/edgevec) - 浏览器、节点和边缘的高性能矢量搜索 <sub>⭐ 98 · Rust</sub>
+- [optave/ops-codegraph-tool](https://github.com/optave/ops-codegraph-tool) - 代码智能CLI——跨越34种语言的函数级依赖图,用于AI代理的34个工具MCP服务器,复杂度量衡,架构边界执行,CI质量门,git diff impact... <sub>⭐ 97 · TypeScript</sub>
+- [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - 用于在亚马逊 EKS 上部署生产准备的 Generative AI 基础设施的综合工具包。 包括: AI Gateway( LiteLLM) LLM Service(vLLM, SGLang, Ollama) 的预配置组件. . <sub>⭐ 96 · JavaScript</sub>
+- [nubo-db/dynoxide](https://github.com/nubo-db/dynoxide) - 一个位于 Rust 的 DynamoDB 仿真器, 由 SQLite 支持。 以毫秒的速度启动为单一的静态二进制, 并由一个公共兼容套件对照真实的 AWS 进行校验 。 运行为 HTTP 服务器, MCP 服务器... <sub>⭐ 95 · Rust</sub>
+- [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - 批量使用Openai的低语或本地核心ML通过微声.cpp在您的MacBook上转换视频为文本 <sub>⭐ 94 · Go</sub>
+- [ly1836/spring-ai-rag-demo](https://github.com/ly1836/spring-ai-rag-demo) - Spring AI 2.0 ERP ************************** ***************** ************************… <sub>⭐ 94 · Java</sub>
+- [AstraBert/ingest-anything](https://github.com/AstraBert/ingest-anything) - 从数据到矢量数据库无功用 <sub>⭐ 93 · Python</sub>
+- [dukesun99/Corpus2Skill](https://github.com/dukesun99/Corpus2Skill) - Corpus2Skill的EMNLP 2026执行的官方调查结果:将文档集编成一个可导航技能等级,LLM代理商在查询时探索,并使用文档查看而不是一个. <sub>⭐ 92 · Python</sub>
+- [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) - 用于 LLM 驱动软件开发的持久视觉缓存. Caches 截图使用感知散列,矢量搜索,以及AX树来防止令牌上浮和视觉幻觉循环. <sub>⭐ 92 · TypeScript</sub>
+- [VQLite/VQLite](https://github.com/VQLite/VQLite) - VQLite - 基于 Google ScANN 的简单和轻量级矢量搜索引擎 <sub>⭐ 92 · Go</sub>
+- [YidaHu/chat-knows](https://github.com/YidaHu/chat-knows) - Chat-Knows是一种基于本地知识基础实施的智能问答服务,它利用文件矢量化和矢量搜索等技术为. <sub>⭐ 92 · Python</sub>
+- [AperturePlus/augmented-codebase-indexer](https://github.com/AperturePlus/augmented-codebase-indexer) - 语义级别代码搜索/索引器,包含树保姆解析,Qdrant矢量存储和Typer/FastAPI接口. 支持通过MCP调用. <sub>⭐ 91 · Python</sub>
+- [bbruceyuan/DeepMatch-Torch](https://github.com/bbruceyuan/DeepMatch-Torch) - “ PyTorch ” 一个用于推荐和广告的深度匹配模型库。 它很容易训练模型并导出可用于ANN搜索的表示向量 。 <sub>⭐ 91 · Python</sub>
+- [intuit/infigraph](https://github.com/intuit/infigraph) - AST 驱动代码智能引擎. Graph数据库+混合语义搜索62种语言. 0LLM依赖性,本地运行. <sub>⭐ 91 · Rust</sub>
+- [Poetrynan/ZettleAgent](https://github.com/Poetrynan/ZettleAgent) - AI-Powered Zettelkasten桌面代理——本地第一第二脑,拥有混合搜索,AI代理,知识图,以及智能画布. Full offline out-off-tocol. <sub>⭐ 91 · TypeScript</sub>
+- [Hrishikesh332/Twelve-Labs-Content-Recommendation](https://github.com/Hrishikesh332/Twelve-Labs-Content-Recommendation) - 内容建议是一个开放源代码平台,利用矢量相似性搜索提供高度相关的内容建议. <sub>⭐ 90 · TypeScript</sub>
+- [ibm-self-serve-assets/Blended-RAG](https://github.com/ibm-self-serve-assets/Blended-RAG) - Bleded RAG: 改进 RAG( Retriever- Augmented Generation) 语义搜索和基于混合查询的精确度 <sub>⭐ 89 · Jupyter Notebook</sub>
+- [weaviate/weaviate-io](https://github.com/weaviate/weaviate-io) - Weaviate 矢量数据库网站 <sub>⭐ 89 · MDX</sub>
+- [ahmedEid1/lumen](https://github.com/ahmedEid1/lumen) - Lumen——学习者拥有的AI教育平台. 告诉AI你想学什么:它在~1分钟内为您建造了私人课程,用课程范围RAG+引用来指导您,让你分享,克隆...... <sub>⭐ 88 · Python</sub>
+- [spences10/mcp-memory-libsql](https://github.com/spences10/mcp-memory-libsql) - 由libSQL提供动力的模型背景协议(MCP)高性能持续内存系统. 特性矢量搜索,语义知识存储,以及高效的关系管理 - 完美适合. <sub>⭐ 88 · TypeScript</sub>
+- [DiceTechJobs/VectorsInSearch](https://github.com/DiceTechJobs/VectorsInSearch) - dice.com repo 配合 Dice.com "搜索中的视频"演讲,由西蒙·休斯(英语:Simon Hughes)演唱,来自2018年动画搜索会,以及海斯塔克2019(英语:Haystack (Us))的"与矢量的搜索"谈话. Builds on... <sub>⭐ 87 · Python</sub>
+- [flupkede/codesearch](https://github.com/flupkede/codesearch) - 多repo语义代码搜索 Rust 中的 MCP 服务器——混合矢量+ BM25检索,树保姆 AST 块化,完全脱机. 对于 OpenCode, Claude Code, Cursor 和任何 MCP 客户端. <sub>⭐ 87 · Rust</sub>
+- [nsarathy/Coffy](https://github.com/nsarathy/Coffy) - 用于Python的开源轻量级嵌入式数据库引擎,支持NoSQL,SQL和Graph数据模型. <sub>⭐ 87 · Python</sub>
+- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) - AI聊天机的模板与文档管理使用 Retrieval-Augmented Generation,并带有矢量搜索和FastAPI. <sub>⭐ 87 · Python</sub>
+- [dof-studio/NathUI](https://github.com/dof-studio/NathUI) - Nath UI是一个前端和后端混合大语言模型交互框架,可以支持用户命令驱动的以上功能,用于不支持的大语言模型. . <sub>⭐ 86 · Python</sub>
+- [pkavumba/django-vectordb](https://github.com/pkavumba/django-vectordb) - 一个快速且可扩展的应用程序,将矢量搜索能力添加到您的 Django 应用程序中。它提供了低空、快速搜索结果、本地 Django 集成,以及您之间的自动同步... <sub>⭐ 86 · Python</sub>
+- [Dicklesworthstone/frankensearch](https://github.com/Dicklesworthstone/frankensearch) - 双层杂交搜索 Rust:次米秒初始结果通过poton-128M,质量精细排序在150ms通过miniLM-L6-v2. 结合词典(Tantivy BM25)和语义学(vector cosine). <sub>⭐ 85 · Rust</sub>
+- [sqliteai/sqlite-rag](https://github.com/sqliteai/sqlite-rag) - SQLite上建有 SQLite AI 和 SQLite矢量扩展的混合搜索引擎 <sub>⭐ 85 · Python</sub>
+- [std-microblock/telegram-database](https://github.com/std-microblock/telegram-database) - 一个简单快速的聊天记录搜索Telegram的bot。 支持 OCR 和 sematic 矢量 搜索 。 <sub>⭐ 85 · C++</sub>
+- [sanonone/kektordb](https://github.com/sanonone/kektordb) - AI内存系统结合了矢量搜索和时间知识图. 构建了代理的认知引擎,支持内存衰变,矛盾检测,以及MCP集成. <sub>⭐ 84 · Go</sub>
+- [NJUxlj/Travel-Agent-based-on-Qwen2-RLHF](https://github.com/NJUxlj/Travel-Agent-based-on-Qwen2-RLHF) - 一个基于Qwen2.5的旅行代理商,由SFT + DPO/PPO/GRPO利用旅行问答数据集进行微调,一个心智图可以使用响应输出. RAG系统是在调制的qwen2的基础上建立起来的...... <sub>⭐ 83 · Python</sub>
+- [YanpengQi7/ai-reliability-copilot](https://github.com/YanpengQi7/ai-reliability-copilot) - 将生产事件转化为结构化的9节LLM反应(严重性、根源、减轻影响、尸检),拥有5-情景回归套件+LLM-as-judge eval管道的船舶。 <sub>⭐ 83 · TypeScript</sub>
+- [felipehummel/TinySearchEngine](https://github.com/felipehummel/TinySearchEngine) - 在几行中执行矢量空间模型 <sub>⭐ 81 · Scala</sub>
+- [vectorlitedb/vectorlitedb](https://github.com/vectorlitedb/vectorlitedb) - 用于向量嵌入的SQLite——一个简单的,嵌入式的向量数据库,将一切存储在一个文件中. <sub>⭐ 81 · Python</sub>
+- [D-Star-AI/minDB](https://github.com/D-Star-AI/minDB) - 极其内存高效的矢量数据库 <sub>⭐ 79 · Python</sub>
+- [Qizhan7/imprint-memory](https://github.com/Qizhan7/imprint-memory) - Claude Code的持久内存系统——混合搜索(FTS5 + 矢量),消息总线,任务队列. Works as MCP server (stdio + HTTP). <sub>⭐ 79 · Python</sub>
+- [surrealdb/kaig](https://github.com/surrealdb/kaig) - 我叫Kai G 我是知识AI 精通矢量搜索和图解RAG <sub>⭐ 79 · Svelte</sub>
+- [mburaksayici/RAG-Boilerplate](https://github.com/mburaksayici/RAG-Boilerplate) - RAG锅炉板带有语义/偏振块,混合搜索(BM25 + 稠密),LLM重排,查询增强剂,CrewAI管弦乐,Qdrant矢量搜索,Redis/Mongo会话,Celery... <sub>⭐ 78 · Python</sub>
+- [menloparklab/langchain-cohere-qdrant-retrieval](https://github.com/menloparklab/langchain-cohere-qdrant-retrieval) - 这是一个模板检索 repo , 可以使用 LangChain 创建 Flask api 服务器, 并带有 Cohere 嵌入和 Qdrant 矢量数据库 <sub>⭐ 78 · Python</sub>
+- [Azure/BuildYourOwnCopilot](https://github.com/Azure/BuildYourOwnCopilot) - 如何在.NET 8上构建自己生产准备的副驾驶的参考解决方案,使用: Azure Cosmos DB及其向量数据库能力,在AKS或ACA上装箱运行... <sub>⭐ 76 · C#</sub>
+- [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory) - 通用语义索引器,通过知识图表、树保姆解析和Qdrant 矢量搜索为 Claude Code 提供持续内存 <sub>⭐ 75 · Python</sub>
+- [Rman410/hybrid-search](https://github.com/Rman410/hybrid-search) - Python脚本运行带有基因组件的混合搜索(由Ollama驱动). <sub>⭐ 75 · Python</sub>
+- [ThomasVitale/modular-rag](https://github.com/ThomasVitale/modular-rag) - 使用Spring AI和Ollama展示模块RAG建筑模式的样本. <sub>⭐ 75 · Java</sub>
+- [chikitang/A](https://github.com/chikitang/A) - ! DOCTYPE html > 您的存储器“ 所有” 跳到内容 - > 在这个用户中 All GitHub QQ 跳到QQ 没有建议跳到结果 。 。 。 <sub>⭐ 74</sub>
+- [Shadylukin/Neumann](https://github.com/Shadylukin/Neumann) - 统一关系表、图关系和向量的 Rust 运行时间,在单一的 lastor 存储层中嵌入分布式共识和语义搜索 <sub>⭐ 74 · Rust</sub>
+- [vector-index-bench/vibe](https://github.com/vector-index-bench/vibe) - 嵌入物矢量指数基准(VIBE)是近似近邻搜索方法,或矢量指数的可扩展基准,使用现代嵌入数据集. <sub>⭐ 74 · Python</sub>
+- [afiodorov/hn-search](https://github.com/afiodorov/hn-search) - 矢量搜索 Hacker News 评论和 RAG 管道,并使用简单的网络 ui <sub>⭐ 73 · Python</sub>
+- [aws-samples/aurora-postgresql-pgvector](https://github.com/aws-samples/aurora-postgresql-pgvector) - 代理 AI 使用 Pgvector、 Aurora PostgreSQL 和 Amazon Bedrock 的案例 <sub>⭐ 73 · Python</sub>
+- [DeveloperMindset-com/faiss-mobile](https://github.com/DeveloperMindset-com/faiss-mobile) - FAISS 库为 iOS, macOS, tvOS, watchOS 编译 <sub>⭐ 73 · CMake</sub>
+- [Hrishikesh332/Twelve-Labs-Fashion-chat-assistant](https://github.com/Hrishikesh332/Twelve-Labs-Fashion-chat-assistant) - 时尚AI助理是一个推荐系统,将矢量搜索能力与多式联运AI相结合,提供智能时尚建议. <sub>⭐ 73 · Python</sub>
+- [una-dinosauria/local-search-quantization](https://github.com/una-dinosauria/local-search-quantization) - 截至2016年10月的大规模ANN搜索最新方法,在ECCV 16上介绍. <sub>⭐ 73 · Julia</sub>
+- [matzalazar/rhizome](https://github.com/matzalazar/rhizome) - Obsidian和Logseq的本地第一语义回路——将您的笔记嵌入多语种句式变压器,并将##相关注释部分写成wikilink,没有云API或数据库...... <sub>⭐ 71 · Python</sub>
+- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole,Mackworth & Goebel 1998,第1. Russell & Norvig 2003,第55页. AI的定义是作为智能剂的研究: Poole,Mackworth & Goebel(1998),提供了用于... <sub>⭐ 70</sub>
+- [oracle/vecdb-python-sdk](https://github.com/oracle/vecdb-python-sdk) - Python SDK 用于向量搜索,语义搜索,RAG,嵌入,以及甲骨文AI数据库中的AI代理 <sub>⭐ 70 · Python</sub>
+- [Azure-Samples/rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks) - 显示矢量搜索,杂交搜索,图像搜索,RAG,以及评价的Jupyter笔记本,都与Azure AI Search一起. <sub>⭐ 69 · Jupyter Notebook</sub>
 
 ## 🧾 借助 AI 的 SQL、dbt 与数据目录
 
 > SQL 生成、模型文档和数据发现。
 
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams. <sub>⭐ 80.8k · Go</sub>
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server. <sub>⭐ 57.6k · Python</sub>
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. <sub>⭐ 39.8k · JavaScript</sub>
-- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your… <sub>⭐ 28.3k · Java</sub>
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data… <sub>⭐ 17.8k · Python</sub>
-- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. <sub>⭐ 16.6k · Go</sub>
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) &… <sub>⭐ 5.6k · Rust</sub>
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL… <sub>⭐ 5.1k · TypeScript</sub>
-- [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. <sub>⭐ 4.7k · TypeScript</sub>
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL REST, low-code, simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new, MCP server <sub>⭐ 4.6k · Go</sub>
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One… <sub>⭐ 4.2k · Go</sub>
-- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. <sub>⭐ 4.2k · Python</sub>
-- [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration <sub>⭐ 3.7k · C#</sub>
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite. <sub>⭐ 3.6k · TypeScript</sub>
-- [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI <sub>⭐ 3.5k · Java</sub>
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Laravel Herd, with runtimes, databases, web servers, local sites, HTTPS, AI coding… <sub>⭐ 3.3k · TypeScript</sub>
-- [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code <sub>⭐ 3.2k · Go</sub>
+- [netdata/netdata](https://github.com/netdata/netdata) - AI动力全堆可观察性最快的路径,甚至对精干的团队来说也是如此. <sub>⭐ 80.8k · Go</sub>
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - 完成本地模型上的私人AI应用程序的API层:RAG,技能,工具,MCP,文本到sql等. Works with any OpenAI-兼容推论服务器. <sub>⭐ 57.6k · Python</sub>
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - 自由,简单,直观的在线数据库图编辑器和SQL生成器. <sub>⭐ 39.8k · JavaScript</sub>
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB是开发者,DBA,分析师和数据团队的自由跨平台,本地第一数据库客户端和SQL工作空间. 连接到40+数据库,管理数据,编辑和运行SQL,并使用你的... <sub>⭐ 28.3k · Java</sub>
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI(Generative BI)用于AI代理,一种开源,通过一个开放的上下文层来规范文本到SQL,将自然语言问题转化为可信赖的仪表板,图表,以及跨越20+数据的SQL. <sub>⭐ 17.8k · Python</sub>
+- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - 数据库的MCP工具箱是数据库的开源MCP服务器. <sub>⭐ 16.6k · Go</sub>
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - 一个开放的,子毫秒的,单执行的火炉基地替代品,有型号安全的API,内置的WebAssembly运行时间,实时订阅,认证,MCP和admin UI基于Rust,SQLite(PG)&. <sub>⭐ 5.6k · Rust</sub>
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - 开源桌面 SQL 工作空间,有3个内置数据库驱动程序以及16个已运出插件,包括SQL服务器,DuckDB,ClickHouse和Redis. Claude, Cursor and Devin, SQL. <sub>⭐ 5.1k · TypeScript</sub>
+- [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — 用于你思考的基础设施层。 一个数据库、一个AI网关、一个聊天频道 — 任何AI插件。没有中间软件,也没有SaaS。 <sub>⭐ 4.7k · TypeScript</sub>
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL REST,低码,简化和加速开发,即时,实时,高性能对任何Postgres应用程序,现有或新的MCP服务器 <sub>⭐ 4.6k · Go</sub>
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - 主要工作不是管弦乐的团队可自行接收工作流程协管员。 声明 YAML 覆盖您的脚本、 SSH 命令、 容器等; 将工作流程与业务逻辑区分开来。 1... <sub>⭐ 4.2k · Go</sub>
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - 一个MCP服务器加上一个CLI工具,将本地代码索引成一个图表数据库,为AI助手提供上下文. <sub>⭐ 4.2k · Python</sub>
+- [microsoft/mcp](https://github.com/microsoft/mcp) - 官方微软MCP(模式上下文协议)服务器实施目录,用于AI动力数据访问和工具集成 <sub>⭐ 3.7k · C#</sub>
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - 为 Postgres, MySQL, SQL 服务器, Oracle, MariaDB, SQLite 创建了自觉数据库 MCP 服务器. <sub>⭐ 3.6k · TypeScript</sub>
+- [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - 数据与AI的开放、多模式目录 <sub>⭐ 3.5k · Java</sub>
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Windows, macOS & Linux 本地本地开发环境. XAMPP, MAMP, Laragon和Laravel Herd 的现代替代方案, 包含运行时间, 数据库, 网络服务器, 本地网站, HTTPS, AI编码... <sub>⭐ 3.3k · TypeScript</sub>
+- [dosco/graphjin](https://github.com/dosco/graphjin) - AI 代理的规范图表 — GraphQL + MCP 覆盖您的数据库、文件、 API 和代码 <sub>⭐ 3.2k · Go</sub>
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - (Legacy)数据与AI Notebook模板目录由工具组织,遵循IMO(输入,模型,输出)框架,方便使用和发现. <sub>⭐ 3.0k · Jupyter Notebook</sub>
-- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries. <sub>⭐ 2.1k · JavaScript</sub>
-- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance in Text-to-SQL <sub>⭐ 2.0k · Python</sub>
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data. <sub>⭐ 1.9k · Python</sub>
-- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP. <sub>⭐ 1.8k · Go</sub>
-- [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat. <sub>⭐ 1.7k · TypeScript</sub>
-- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx is an executable context layer for data and analytics agents Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company <sub>⭐ 1.6k · TypeScript</sub>
-- [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. <sub>⭐ 1.6k · Python</sub>
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores. <sub>⭐ 1.5k · C#</sub>
-- [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases <sub>⭐ 1.4k · Python</sub>
-- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL / A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based… <sub>⭐ 1.4k</sub>
-- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. <sub>⭐ 1.1k · TypeScript</sub>
-- [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP. <sub>⭐ 1.1k · TypeScript</sub>
-- [taoyds/spider](https://github.com/taoyds/spider) - scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge <sub>⭐ 1.1k · Python</sub>
-- [bird-bench/BIRD-Interact](https://github.com/bird-bench/BIRD-Interact) - (ICLR 2026 Oral) BIRD-INTERACT: Re-imagines Text-to-SQL evaluation via lens of dynamic interactions. <sub>⭐ 1.0k · Python</sub>
-- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Neo4j Labs Model Context Protocol servers <sub>⭐ 985 · Python</sub>
-- [xlang-ai/Spider2](https://github.com/xlang-ai/Spider2) - (ICLR 2025 Oral) Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows <sub>⭐ 874 · HTML</sub>
-- [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - A series of top performing Text to SQL LLMs <sub>⭐ 860 · Jupyter Notebook</sub>
-- [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) - A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code… <sub>⭐ 765 · Go</sub>
-- [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps… <sub>⭐ 751 · TypeScript</sub>
-- [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. <sub>⭐ 729 · Python</sub>
-- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases <sub>⭐ 649 · TypeScript</sub>
-- [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently <sub>⭐ 629 · Python</sub>
-- [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) - A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma <sub>⭐ 598 · Python</sub>
-- [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB is a lightweight desktop app built with Tauri + Rust, powered by Apache DataFusion. Query local CSV, TSV, Text, NdJson, Excel, Parquet files and MySQL databases directly with SQL — no external… <sub>⭐ 589 · TypeScript</sub>
-- [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user) - This extension makes vscode seamlessly work with dbt™: Auto-complete, preview, column lineage, AI docs generation, health checks, cost estimation etc <sub>⭐ 586 · JavaScript</sub>
-- [kaarthik108/snowChat](https://github.com/kaarthik108/snowChat) - Chat snowflake - Text to SQL <sub>⭐ 552 · Python</sub>
-- [centralmind/gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents. <sub>⭐ 549 · Go</sub>
-- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language. <sub>⭐ 541 · Go</sub>
-- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - This dbt package captures metadata, artifacts, and test results so you can detect anomalies, monitor data quality, and build metadata tables. It powers Elementary OSS and feeds the wider context… <sub>⭐ 526 · Python</sub>
-- [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) - MCP SSH Server: 37 tools for remote SSH management / Claude Code & OpenAI Codex / DevOps automation, backups, database operations, health monitoring <sub>⭐ 496 · JavaScript</sub>
-- [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance. <sub>⭐ 476 · Python</sub>
-- [laminlabs/lamindb](https://github.com/laminlabs/lamindb) - Open-source data management for multimodal AI. Query, trace, and govern with a lineage-native, format-agnostic lakehouse for agents and teams. Supports biological formats and registries - by the… <sub>⭐ 467 · Python</sub>
+- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - 一个提供只读访问 MySQL 数据库的模型上下文协议服务器。此服务器允许 LLMs 检查数据库计划并执行只读查询 。 <sub>⭐ 2.1k · JavaScript</sub>
+- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - 一个包含 DB- GPT 模型、数据集和微调技术的存储器,目的是提高文本到SQL 中的模型性能 <sub>⭐ 2.0k · Python</sub>
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - 用于 Schemas、 BLOBs 和预测的 AI Datastore。 使用您的应用程序或整合内置的人类监督、 数据工作流程和 UI 目录, 从您的 AI Data 中获取最大值 。 <sub>⭐ 1.9k · Python</sub>
+- [julien040/anyquery](https://github.com/julien040/anyquery) - 一个用于60+工具(如GitHub,Notion, Airtable)的SQL接口. 通过MCP将任何LLM插入到任何LLM中. <sub>⭐ 1.8k · Go</sub>
+- [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - 一个最小的,快速的数据库客户端桌面应用程序。 是为想要快速浏览其数据而不使用bloat的开发者所建的 。 <sub>⭐ 1.7k · TypeScript</sub>
+- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx是数据和分析代理商可执行的上下文层,允许Claude Code, Codex, 或其他AI代理商准确查询分析数据库, 并结合你公司的全部背景 <sub>⭐ 1.6k · TypeScript</sub>
+- [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - 这是一本不断更新的手册,供读者方便地跟踪文献中最新的文本到SQL技术,并为研究人员和从业人员提供实用指导. <sub>⭐ 1.6k · Python</sub>
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API 构建器为您的 Azure 数据库和 prim 存储提供了现代 REST, GraphQL 端点和 MCP 工具. <sub>⭐ 1.5k · C#</sub>
+- [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - 一个能够安全地与 MySQL 数据库互动的模型上下文协议服务器 <sub>⭐ 1.4k · Python</sub>
+- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) 下Generation数据库接口:对基于LLM的文本到SQL / 关于基于大语言模型的资源(调查,论文,基准,和开源项目)目录的调查. . <sub>⭐ 1.4k</sub>
+- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - 一个模型背景协议服务器,连接MongoDB数据库和MongoDB Atlas Clusters. <sub>⭐ 1.1k · TypeScript</sub>
+- [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - CloudBase上的AI编码代理的后端——数据库,认证,通过插件,技能与MCP的功能. <sub>⭐ 1.1k · TypeScript</sub>
+- [taoyds/spider](https://github.com/taoyds/spider) - 蜘蛛的脚本和基线:耶鲁语复杂和跨域语义解析及文本对SQL的挑战 <sub>⭐ 1.1k · Python</sub>
+- [bird-bench/BIRD-Interact](https://github.com/bird-bench/BIRD-Interact) - (ICLR 2026 Opper) BIRD-INTERACT:通过动态相互作用的透镜重新映射到SQL的评价. <sub>⭐ 1.0k · Python</sub>
+- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Neo4j 实验室模拟上下文协议服务器 <sub>⭐ 985 · Python</sub>
+- [xlang-ai/Spider2](https://github.com/xlang-ai/Spider2) - (ICLR 2025 Opper) Spider 2.0:评价现实世界企业文字到SQL工作流的语言模型 <sub>⭐ 874 · HTML</sub>
+- [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - SQL LLM 一系列顶级表演文本 <sub>⭐ 860 · Jupyter Notebook</sub>
+- [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) - 一个持久, Git 版本的您整个代码库和数据库的图, 它可以在触摸任何东西之前读取编码代理符. local- first MCP服务器 + CLI in Go: 受规范的代码寄存器索引... <sub>⭐ 765 · Go</sub>
+- [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - 脚手架 生产准备全装的应用程序在 TypeScript, Rust, Python, Go, 和 Java 中都有视觉构建器和 CLI。 选择您的前端、 后端、 数据库、 认证、 AI、 支付以及 DevOps... <sub>⭐ 751 · TypeScript</sub>
+- [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - 整理了Agent Swills用于dbt工作,帮助AI代理更有效地理解和执行dbt工作流程. <sub>⭐ 729 · Python</sub>
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - 用于与 Neon 管理 API 和数据库交互的 MCP 服务器 <sub>⭐ 649 · TypeScript</sub>
+- [redis/mcp-redis](https://github.com/redis/mcp-redis) - 官方Redis MCP Server是一个自然语言界面,为代理应用程序设计,用于在Redis中高效管理和搜索数据. <sub>⭐ 629 · Python</sub>
+- [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) - 提供Chroma数据库能力的《示范背景协议》服务器执行 <sub>⭐ 598 · Python</sub>
+- [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB是使用Tauri + Rust所建的轻量级桌面应用程序,由Apache DataFusion提供动力. 查询本地CSV,TSV,Text,NdJson,Excel,Parquet文件以及直接与SQL一起使用的MySQL数据库——没有外部... <sub>⭐ 589 · TypeScript</sub>
+- [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user) - 此扩展让 vscode 与 dbtTM 实现无缝工作: 自动完成, 预览, 列线条, AI Docs 生成, 健康检查, 成本估算等 <sub>⭐ 586 · JavaScript</sub>
+- [kaarthik108/snowChat](https://github.com/kaarthik108/snowChat) - 聊天雪花 - 文本到 SQL <sub>⭐ 552 · Python</sub>
+- [centralmind/gateway](https://github.com/centralmind/gateway) - 您数据库的通用MCP- Server 优化了用于 LLMS 和 AI- Agents 的。 <sub>⭐ 549 · Go</sub>
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - 一个 MCP 服务器,用于查询任何 Postgres 自然语言数据库 。 <sub>⭐ 541 · Go</sub>
+- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - 这个 dbt 软件包可以捕捉元数据,文物,测试结果,这样你就可以发现异常,监测数据质量,并构建元数据表. 它赋予初级开放源码软件以权力,并为更广泛的上下文提供素材... <sub>⭐ 526 · Python</sub>
+- [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) - MCP SSH 服务器:用于远程SSH管理/Claude Code & OpenAI Codex / DevOps自动化,备份,数据库操作,健康监测的37个工具. <sub>⭐ 496 · JavaScript</sub>
+- [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL是一个新颖的框架,它利用可缩放的计算来显著改善Text对SQL的性能. <sub>⭐ 476 · Python</sub>
+- [laminlabs/lamindb](https://github.com/laminlabs/lamindb) - 用于多模式AI的开源数据管理. 查询,追踪,并用一个家族-亲族,格式-不可知的代理和团队湖库进行治理. 支持生物格式和注册 - by the... <sub>⭐ 467 · Python</sub>
 - [premAI-io/premsql](https://github.com/premAI-io/premsql) - 端到端的本地第一文本对 SQL 管道 <sub>⭐ 462 · Python</sub>
-- [RUCKBReasoning/OmniSQL](https://github.com/RUCKBReasoning/OmniSQL) - (VLDB' 25) Synthesizing High-quality Text-to-SQL Data at Scale. SynSQL-2.5M is the first million-scale cross-domain text-to-SQL dataset. <sub>⭐ 455 · Python</sub>
-- [Mindinventory/MindSQL](https://github.com/Mindinventory/MindSQL) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables… <sub>⭐ 447 · Python</sub>
-- [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases. <sub>⭐ 431 · Go</sub>
-- [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - 24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace <sub>⭐ 429 · Python</sub>
-- [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) - A MCP (model context protocol) server that gives the LLM access to and knowledge about relational databases like SQLite, Postgresql, MySQL & MariaDB, Oracle, and MS-SQL. <sub>⭐ 419 · Python</sub>
-- [RichardHan/mssql_mcp_server](https://github.com/RichardHan/mssql_mcp_server) - A Model Context Protocol (MCP) server for Microsoft SQL Server that enables secure database interactions through a controlled interface. Allows AI assistants to safely list tables, read data, and… <sub>⭐ 394 · Python</sub>
-- [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) - MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases <sub>⭐ 386 · TypeScript</sub>
-- [dbcodeio/public](https://github.com/dbcodeio/public) - The database IDE for VS Code, Cursor, and Windsurf. 80+ databases: Postgres, MySQL, SQL Server, MongoDB, Snowflake, and more. AI queries, ER diagrams, SQL notebooks. <sub>⭐ 352</sub>
-- [wbbeyourself/MAC-SQL](https://github.com/wbbeyourself/MAC-SQL) - MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL <sub>⭐ 352 · Python</sub>
-- [GoogleCloudPlatform/cymbal-air-toolbox-demo](https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo) - Demo of a customer service agent (Cymbal Air) using LangGraph, Tools, and RAG to interact with Google Cloud Databases via MCP Toolbox. <sub>⭐ 349 · Python</sub>
-- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number… <sub>⭐ 330 · Python</sub>
+- [RUCKBReasoning/OmniSQL](https://github.com/RUCKBReasoning/OmniSQL) - (VLDB' 25) 以规模合成高质量文本对SQL数据. SynSQL-2.5M是首个百万比例跨域文本对SQL数据集. <sub>⭐ 455 · Python</sub>
+- [Mindinventory/MindSQL](https://github.com/Mindinventory/MindSQL) - MindSQL: 一个 Python Text to-SQL RAG 库简化了数据库交互。 它与 PostgreSQL, MySQL, SQLite, S雪花和大Query 的无缝集成。 由 TPT-4 和 Llama 2 提供动力, 可以... <sub>⭐ 447 · Python</sub>
+- [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) - 一个强大的多数据库服务器,执行"模式背景协议(MCP)",为AI助手提供结构化的数据库访问. <sub>⭐ 431 · Go</sub>
+- [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - Claude Code, cursor, Codex & Gemini CLI 的24个跨平台代理技能——数据库,消息,研究,TTS,DevOps和Google工作空间 <sub>⭐ 429 · Python</sub>
+- [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) - 一个MCP(模式上下文协议)服务器,它让LLM访问和了解SQLite,Postgresql,MySQL & MariaDB,Oracle,以及MS-SQL等关系数据库. <sub>⭐ 419 · Python</sub>
+- [RichardHan/mssql_mcp_server](https://github.com/RichardHan/mssql_mcp_server) - 一个用于Microsoft SQL 服务器的模型背景协议(MCP)服务器,它通过一个受控的界面可以安全地进行数据库交互。允许AI助手安全地列表表格,读取数据以及. <sub>⭐ 394 · Python</sub>
+- [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) - MCP数据库服务器是一个新的MCP服务器,它帮助连接到Sqlite,SqlServer和Posgresql数据库. <sub>⭐ 386 · TypeScript</sub>
+- [dbcodeio/public](https://github.com/dbcodeio/public) - VS代码, cursor, and Windsurf. 80+数据库:Postgres, MySQL, SQL Server, MongoDB, Snowflake 等. AI查询,ER图表,SQL笔记本. <sub>⭐ 352</sub>
+- [wbbeyourself/MAC-SQL](https://github.com/wbbeyourself/MAC-SQL) - MAC-SQL: 文本对SQL的多代理合作框架 <sub>⭐ 352 · Python</sub>
+- [GoogleCloudPlatform/cymbal-air-toolbox-demo](https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo) - 一个客户服务代理(英语:Cymbal Air)的Demo使用LangGraph,Tolves,和RAG通过MCP Toolbox与Google云数据库互动. <sub>⭐ 349 · Python</sub>
+- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - 一个MCP服务器,通过模式背景协议(MCP)安全地与您的iMessage数据库接口,允许LLMs查询和分析iMessage对话.它包括了坚固的电话号码... <sub>⭐ 330 · Python</sub>
 - [taoyds/test-suite-sql-eval](https://github.com/taoyds/test-suite-sql-eval) - 文本对 SQL 的语义评价 <sub>⭐ 323 · Python</sub>
-- [busabase/busabase](https://github.com/busabase/busabase) - Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable. <sub>⭐ 307 · TypeScript</sub>
-- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in. <sub>⭐ 296 · Go</sub>
-- [DAWNCR0W/affine-mcp-server](https://github.com/DAWNCR0W/affine-mcp-server) - Model Context Protocol server for AFFiNE. Connect AI assistants to AFFiNE workspaces, documents, databases, and collaboration APIs over stdio or HTTP. <sub>⭐ 291 · JavaScript</sub>
-- [arunpshankar/LLM-Text-to-SQL-Architectures](https://github.com/arunpshankar/LLM-Text-to-SQL-Architectures) - A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to-SQL generation. <sub>⭐ 262 · Jupyter Notebook</sub>
-- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get… <sub>⭐ 254</sub>
-- [NumbersStationAI/NSQL](https://github.com/NumbersStationAI/NSQL) - Numbers Station Text to SQL model code. <sub>⭐ 254 · Python</sub>
-- [modelscope/MCPBench](https://github.com/modelscope/MCPBench) - The evaluation benchmark on MCP servers <sub>⭐ 251 · Python</sub>
-- [themotionmachine/OmniFocus-MCP](https://github.com/themotionmachine/OmniFocus-MCP) - Let LLMs interface with your tasks and projects through the Model Context Protocol. Add, organize, and query your OmniFocus database with natural language commands. <sub>⭐ 244 · TypeScript</sub>
-- [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) - A Model Context Protocol (MCP) server that enables natural language queries to databases <sub>⭐ 239 · Python</sub>
-- [eosho/langchain_data_agent](https://github.com/eosho/langchain_data_agent) - NL2SQL - Ask questions in plain English, get SQL queries and results. Powered by LangGraph. <sub>⭐ 237 · Python</sub>
-- [claimed-framework/mlx_deprecated](https://github.com/claimed-framework/mlx_deprecated) - Machine Learning eXchange (MLX). Data and AI Assets Catalog and Execution Engine <sub>⭐ 220 · Python</sub>
-- [IBM/unitxt](https://github.com/IBM/unitxt) - Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking <sub>⭐ 216 · Python</sub>
-- [Serg-Norseman/GEDKeeper](https://github.com/Serg-Norseman/GEDKeeper) - GEDKeeper - program for work with personal genealogical database <sub>⭐ 214 · C#</sub>
-- [furey/mongodb-lens](https://github.com/furey/mongodb-lens) - MongoDB Lens: Full Featured MCP Server for MongoDB Databases <sub>⭐ 208 · JavaScript</sub>
-- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) - MCP server providing access to the comprehensive OpenNutrition food database with 300,000+ food items, nutritional data, and barcode lookups <sub>⭐ 207 · TypeScript</sub>
-- [taolusi/chisp](https://github.com/taolusi/chisp) - scripts and baselines for CSpider: Chinese semantic parsing and text-to-SQL challenge <sub>⭐ 206 · Python</sub>
-- [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases <sub>⭐ 203 · Go</sub>
-- [ShuaiLyu0110/SQL-o1](https://github.com/ShuaiLyu0110/SQL-o1) - SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL <sub>⭐ 197 · Python</sub>
-- [guotong1988/NL2SQL-RULE](https://github.com/guotong1988/NL2SQL-RULE) - Content Enhanced BERT-based Text-to-SQL Generation https://arxiv.org/abs/1910.07179 <sub>⭐ 195 · Python</sub>
-- [googleapis/mcp-toolbox-sdk-python](https://github.com/googleapis/mcp-toolbox-sdk-python) - Python SDK for interacting with the MCP Toolbox for Databases. <sub>⭐ 192 · Python</sub>
-- [StarRocks/mcp-server-starrocks](https://github.com/StarRocks/mcp-server-starrocks) - StarRocks MCP (Model Context Protocol) Server <sub>⭐ 192 · Python</sub>
-- [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR... <sub>⭐ 188 · TypeScript</sub>
-- [pragunbhutani/dbt-llm-agent](https://github.com/pragunbhutani/dbt-llm-agent) - LLM based AI Agent to automate Data Analysis for dbt projects with remote MCP server <sub>⭐ 180 · Python</sub>
-- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) - A Model Context Protocol (MCP) server implementation for DuckDB, providing database interaction capabilities <sub>⭐ 179 · Python</sub>
-- [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, Apache-2.0, ships as library / MCP server / HTTP cluster. <sub>⭐ 175 · Rust</sub>
-- [awkoy/notion-mcp-server](https://github.com/awkoy/notion-mcp-server) - Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files. <sub>⭐ 173 · TypeScript</sub>
-- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database <sub>⭐ 172 · Python</sub>
+- [busabase/busabase](https://github.com/busabase/busabase) - AI代理的开源数据库和工作空间——结构化数据,耐久知识,可重复使用的技能,可运行的应用程序,以及人对写这件事的回顾. 本地第一和自我托管. <sub>⭐ 307 · TypeScript</sub>
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 告诉你在服务器上有什么变化,只是值得一提的。单进二进制,没有数据库,没有运行在它所看的机器上。MCP服务器建在其中。 <sub>⭐ 296 · Go</sub>
+- [DAWNCR0W/affine-mcp-server](https://github.com/DAWNCR0W/affine-mcp-server) - AFFINE的模型上下文协议服务器. 连接AI助手到AFFINE的工作空间,文档,数据库,以及协作API在stdio或HTTP之上. <sub>⭐ 291 · JavaScript</sub>
+- [arunpshankar/LLM-Text-to-SQL-Architectures](https://github.com/arunpshankar/LLM-Text-to-SQL-Architectures) - 利用大语言模型(LLMS)高效的文本到SQL生成的建筑图案集. <sub>⭐ 262 · Jupyter Notebook</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - 列表, 任何人都可以用任何编程语言解决的实用项目( 请参见解决方案) 。 这些项目被分为多个类别, 每个类别都有自己的文件夹 。 要获取... <sub>⭐ 254</sub>
+- [NumbersStationAI/NSQL](https://github.com/NumbersStationAI/NSQL) - 数字车站文字到SQL型号代码. <sub>⭐ 254 · Python</sub>
+- [modelscope/MCPBench](https://github.com/modelscope/MCPBench) - MCP服务器的评价基准 <sub>⭐ 251 · Python</sub>
+- [themotionmachine/OmniFocus-MCP](https://github.com/themotionmachine/OmniFocus-MCP) - 通过“模式上下文协议”让 LLMS 与您的任务和工程接口。 添加、 组织并使用自然语言命令查询您的 OmniFocus 数据库。 <sub>⭐ 244 · TypeScript</sub>
+- [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) - 用于数据库的自然语言查询的 模式上下文协议服务器 <sub>⭐ 239 · Python</sub>
+- [eosho/langchain_data_agent](https://github.com/eosho/langchain_data_agent) - NL2SQL - 使用简单英语提问,获得SQL查询和结果. Powered by LangGraph. <sub>⭐ 237 · Python</sub>
+- [claimed-framework/mlx_deprecated](https://github.com/claimed-framework/mlx_deprecated) - 机器学习eXchange(MLX). Data and AI 资产目录和执行引擎 <sub>⭐ 220 · Python</sub>
+- [IBM/unitxt](https://github.com/IBM/unitxt) - Unitxt是用于企业级AI性能评价的Python库,为端到端AI基准提供世界上最大的工具和数据目录. <sub>⭐ 216 · Python</sub>
+- [Serg-Norseman/GEDKeeper](https://github.com/Serg-Norseman/GEDKeeper) - GEDkeeper - 个人基因数据库工作程序 <sub>⭐ 214 · C#</sub>
+- [furey/mongodb-lens](https://github.com/furey/mongodb-lens) - MongoDB Lens: 用于MongoDB数据库的完整功能MCP服务器 <sub>⭐ 208 · JavaScript</sub>
+- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) - MCP 服务器,提供30万多个食品、营养数据以及条码检查的综合开放Nutrition食品数据库 <sub>⭐ 207 · TypeScript</sub>
+- [taolusi/chisp](https://github.com/taolusi/chisp) - CSpider的脚本和基线:中文语义解析与文本对 SQL 的挑战 <sub>⭐ 206 · Python</sub>
+- [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - SQL 数据库的终端 UI <sub>⭐ 203 · Go</sub>
+- [ShuaiLyu0110/SQL-o1](https://github.com/ShuaiLyu0110/SQL-o1) - SQL-o1: 文本对SQL的自酬Heuristic动态搜索方法 <sub>⭐ 197 · Python</sub>
+- [guotong1988/NL2SQL-RULE](https://github.com/guotong1988/NL2SQL-RULE) - 内容增强基于BERT的文本对SQL生成 https://arxiv.org/abs/1910.07179 <sub>⭐ 195 · Python</sub>
+- [googleapis/mcp-toolbox-sdk-python](https://github.com/googleapis/mcp-toolbox-sdk-python) - Python SDK用于与数据库的MCP工具箱交互. <sub>⭐ 192 · Python</sub>
+- [StarRocks/mcp-server-starrocks](https://github.com/StarRocks/mcp-server-starrocks) - StarRocks MCP (模式背景协议) 服务器 <sub>⭐ 192 · Python</sub>
+- [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - MCPSDK.dev(ToolsDK.ai)的出色的MCP服务器和软件包注册和数据库,带有结构化的JSON配置. 支持OAuth2.1, DCR... <sub>⭐ 188 · TypeScript</sub>
+- [pragunbhutani/dbt-llm-agent](https://github.com/pragunbhutani/dbt-llm-agent) - 基于 LLM 的 AI 代理, 用远程 MCP 服务器实现 dbt 项目数据自动分析 <sub>⭐ 180 · Python</sub>
+- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) - DuckDB 模式背景协议服务器执行,提供数据库交互能力 <sub>⭐ 179 · Python</sub>
+- [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) - AI代理的认知内存数据库——整合重复,检测矛盾,通过时间衰变淡去沉积记忆. Rust, Apache-2.0,ship as Library / MCP服务器 / HTTP集群. <sub>⭐ 175 · Rust</sub>
+- [awkoy/notion-mcp-server](https://github.com/awkoy/notion-mcp-server) - Claude, cursor, ChatGPT & Claude桌面的Notion MCP服务器. 通过Model Control协议将AI代理连接到Notion——页面,数据库,块,评论,文件. <sub>⭐ 173 · TypeScript</sub>
+- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 搜索和查询PubMed医疗文件/研究数据库的MCP服务器 <sub>⭐ 172 · Python</sub>
 - [argon-lab/argon](https://github.com/argon-lab/argon) - Git for MongoDB — 分支、 时间旅行和取消您的数据。 为 AI 代理所建 。 <sub>⭐ 172 · Go</sub>
-- [termide/termide](https://github.com/termide/termide) - All-in-one terminal workspace for desktops and servers: editor with LSP, file manager with SFTP/FTP, terminal, git, database viewer and a coding agent in one zero-config static Rust binary. <sub>⭐ 170 · Rust</sub>
-- [bigbigwatermalon/C3SQL](https://github.com/bigbigwatermalon/C3SQL) - The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT <sub>⭐ 168 · Python</sub>
-- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) - A Model Context Protocol server for MySQL database operations <sub>⭐ 168 · JavaScript</sub>
-- [HKUSTDial/Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL) - (ICML'25) Official repository for the paper "Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search" <sub>⭐ 164 · Python</sub>
-- [liam-machine/erd-studio](https://github.com/liam-machine/erd-studio) - Visual ERD designer for dbt — design your data warehouse on a canvas, in your repo, where your AI assistant can read it. Free and open source. <sub>⭐ 163 · TypeScript</sub>
-- [eiondb/eion](https://github.com/eiondb/eion) - Shared Memory Storage for Multi-Agent Systems <sub>⭐ 161 · Go</sub>
-- [call518/MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops) - Give AI assistants full PostgreSQL DBA superpowers — 30+ tools for performance analysis, bloat detection, lock/deadlock monitoring, autovacuum & schema inspection. No extensions required. PG 12-18. <sub>⭐ 160 · Python</sub>
-- [Laqcce-cao/RSL-SQL](https://github.com/Laqcce-cao/RSL-SQL) - RSL-SQL: Robust Schema Linking in Text-to-SQL Generation <sub>⭐ 160 · Python</sub>
-- [XGenerationLab/XiYanSQL-QwenCoder](https://github.com/XGenerationLab/XiYanSQL-QwenCoder) - XiYanSQL models for Text-to-SQL. <sub>⭐ 160</sub>
-- [Text2SqlAgent/text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - Agentic text-to-SQL SDK: hand the LLM one execute_sql tool and let it explore the schema, test queries, and self-correct — no RAG, no semantic layer. 20/20 on an 80-table Spider run. Built-in tracing… <sub>⭐ 159 · Python</sub>
-- [Guepard-Corp/gfs](https://github.com/Guepard-Corp/gfs) - Git For database Systems <sub>⭐ 158 · Rust</sub>
-- [silver-flight-group/kakaocli](https://github.com/silver-flight-group/kakaocli) - KakaoTalk CLI for AI agents - read and send messages via database + UI automation <sub>⭐ 157 · Swift</sub>
-- [JetBrains/databao-agent](https://github.com/JetBrains/databao-agent) - Databao agent is an open-source agent that enables you to chat with your data and receive answers in text, interactive charts, and tables. <sub>⭐ 155 · Python</sub>
-- [nrvim/garmin-givemydata](https://github.com/nrvim/garmin-givemydata) - It's YOUR data. Take it back. Get your Garmin Connect data into a local SQLite database and AI ready (MCP server) <sub>⭐ 155 · Python</sub>
-- [X-LANCE/text2sql-lgesql](https://github.com/X-LANCE/text2sql-lgesql) - (ACL 2021) This is the project containing source codes and pre-trained models about ACL2021 Long Paper LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations". <sub>⭐ 154 · Python</sub>
-- [ademakdogan/ChatSQL](https://github.com/ademakdogan/ChatSQL) - Convert the given plain text to MySQL query by ChatGPT <sub>⭐ 148 · Python</sub>
-- [iolufemi/Express-REST-API-and-MCP-Server-Framework](https://github.com/iolufemi/Express-REST-API-and-MCP-Server-Framework) - Express REST API and MCP Server Framework is a comprehensive development framework for building RESTful APIs and MCP servers with Express.js. It provides a complete template for creating… <sub>⭐ 147 · TypeScript</sub>
-- [Snowflake-Labs/ReFoRCE](https://github.com/Snowflake-Labs/ReFoRCE) - A Text-to-SQL Agent with Self-Refinement, Format Restriction, and Column Exploration <sub>⭐ 142 · Python</sub>
-- [benbogin/spider-schema-gnn](https://github.com/benbogin/spider-schema-gnn) - Author implementation of the paper "Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing" <sub>⭐ 141 · Python</sub>
-- [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics. <sub>⭐ 140 · Python</sub>
-- [TonybotNi/ZotLink](https://github.com/TonybotNi/ZotLink) - Production‑ready MCP server for Zotero to save open preprints (arXiv, CVF, bio/med/chemRxiv) with rich metadata and smart PDF attachments — with upcoming support for publisher databases (Nature… <sub>⭐ 138 · Python</sub>
-- [taoyds/syntaxSQL](https://github.com/taoyds/syntaxSQL) - SyntaxSQLNet: Syntax Tree Networks for Complex and Cross Domain Text-to-SQL Task <sub>⭐ 137 · Python</sub>
-- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - Text-to-SQL Generation for Question Answering on Electronic Medical Records <sub>⭐ 137 · Python</sub>
-- [ttzt/catalog_of_requirements_for_ai_products](https://github.com/ttzt/catalog_of_requirements_for_ai_products) - The purpose of the catalog is to help data science teams to collect all the requirements to consider while building a ML model and productionizing it. <sub>⭐ 136</sub>
-- [Astoriel/dbt-doctor](https://github.com/Astoriel/dbt-doctor) - AI-driven quality & governance MCP Server for dbt projects. Audit coverage, profile data, detect schema drift, and auto-generate documentation — all through natural language with your AI assistant. <sub>⭐ 134 · Python</sub>
-- [konosp/dbt-airflow-docker-compose](https://github.com/konosp/dbt-airflow-docker-compose) - Execution of DBT models using Apache Airflow through Docker Compose <sub>⭐ 134 · Python</sub>
-- [danielmeppiel/oracle-mcp-server](https://github.com/danielmeppiel/oracle-mcp-server) - MCP Server for working with large Oracle databases <sub>⭐ 133 · Python</sub>
-- [Snowboard-Software/awesome-ai-analytics](https://github.com/Snowboard-Software/awesome-ai-analytics) - A list of AI analytics tools (assistants, chat with data, text-to-sql, benchmarks, etc.) <sub>⭐ 132</sub>
-- [saidsurucu/yoktez-mcp](https://github.com/saidsurucu/yoktez-mcp) - MCP Server for Turkish Thesis Database <sub>⭐ 130 · Python</sub>
-- [radimsem/remindb](https://github.com/radimsem/remindb) - An agentic memory database that cuts session tokens by 82–99%. One portable SQLite file — your agent's memory, anywhere. <sub>⭐ 128 · Go</sub>
-- [jparkerweb/mcp-sqlite](https://github.com/jparkerweb/mcp-sqlite) - Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities <sub>⭐ 127 · JavaScript</sub>
-- [zorost/alchemylake-databricks](https://github.com/zorost/alchemylake-databricks) - Governed, provenance-sealed creative rendering for Databricks — a Streamlit App + Unity Catalog ai_render() function that turns any governed source (Sample Lakehouse, UC, Genie, or BYO data) into… <sub>⭐ 121 · Python</sub>
-- [timescale/tiger-cli](https://github.com/timescale/tiger-cli) - Tiger CLI is the command-line interface for Tiger Cloud. It includes an MCP server for helping coding agents write production-level Postgres code. <sub>⭐ 119 · Go</sub>
-- [ZIZKA-AI-SL/ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) - Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel debugging to support EU AI Act Article 12 record-keeping. Drift detection, MCP… <sub>⭐ 119 · Python</sub>
-- [eric-tramel/moraine](https://github.com/eric-tramel/moraine) - Unified realtime agent trace database & search MCP <sub>⭐ 117 · Rust</sub>
-- [glee4810/EHRSQL](https://github.com/glee4810/EHRSQL) - (NeurIPS'22) EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records <sub>⭐ 116 · Python</sub>
-- [XGenerationLab/XiYan-DBDescGen](https://github.com/XGenerationLab/XiYan-DBDescGen) - A method and corresponding code for automatic description generation for Text-to-SQL <sub>⭐ 115 · Python</sub>
-- [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents. <sub>⭐ 114 · Go</sub>
-- [malloydata/publisher](https://github.com/malloydata/publisher) - Publisher is the open-source analytics engine for Malloy. It lets you define data models once — and use them everywhere. <sub>⭐ 114 · TypeScript</sub>
-- [taoyds/typesql](https://github.com/taoyds/typesql) - TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation <sub>⭐ 113 · Python</sub>
-- [zhaohb/deskmate](https://github.com/zhaohb/deskmate) - Local-first PC activity recorder for Windows. Captures screenshots, accessibility text, UI events, clipboard activity, and optional audio transcription into a local SQLite database — then exposes… <sub>⭐ 113 · Python</sub>
-- [patsnap/mcp](https://github.com/patsnap/mcp) - MCP server for 200M+ patents, scientific literature, chemistry and pharma records. Search prior art and R&D intelligence powered by PatSnap's proprietary databases via Claude, Cursor and… <sub>⭐ 112</sub>
-- [jacopotagliabue/foundation-models-for-dbt-entity-matching](https://github.com/jacopotagliabue/foundation-models-for-dbt-entity-matching) - Playground for using large language models into the Modern Data Stack for entity matching <sub>⭐ 111 · Python</sub>
-- [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) - An MCP server that provides safe, read-only access to SQLite databases through Model Context Protocol (MCP). This server is built with the FastMCP framework, which enables LLMs to explore and query… <sub>⭐ 108 · Python</sub>
-- [oceanbase/awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp) - MCP Server for OceanBase database and its tools <sub>⭐ 108 · Python</sub>
-- [hirupert/sede](https://github.com/hirupert/sede) - Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data <sub>⭐ 107 · Jupyter Notebook</sub>
-- [THU-BPM/chatgpt-sql](https://github.com/THU-BPM/chatgpt-sql) - The prediction results of ChatGPT on various datasets of Text-to-SQL. <sub>⭐ 106 · Python</sub>
-- [swati1024/torrents](https://github.com/swati1024/torrents) - Skip to content Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets. @giansalex giansalex/torrent-courses-download-list.md forked from M-Younus/torrent courses… <sub>⭐ 103</sub>
-- [ApocData/ApocData-skill](https://github.com/ApocData/ApocData-skill) - ApocData · AI-native financial database for China A-share market. Drop-in Skill / MCP for Claude,ChatGPT, Qwen, Kimi, DeepSeek agents. <sub>⭐ 102 · Shell</sub>
-- [masumedb/masume](https://github.com/masumedb/masume) - Terminal database client with AI chat and an MCP server <sub>⭐ 101 · Go</sub>
-- [sqlsure/sqlsure](https://github.com/sqlsure/sqlsure) - Semantic inspector for SQL — catches fan-out double-counting, additivity violations, wrong join keys, and policy breaches before the query runs. Found real bugs in the BIRD/Spider text-to-SQL… <sub>⭐ 99 · Python</sub>
-- [raeudigerRaeffi/turbular](https://github.com/raeudigerRaeffi/turbular) - A MCP server allowing LLM agents to easily connect and retrieve data from any database <sub>⭐ 98 · Python</sub>
-- [pinkpixel-dev/mem0-mcp](https://github.com/pinkpixel-dev/mem0-mcp) - A memory system using mem0 for AI applications. Enables long-term memory for AI agents as a drop-in MCP server. <sub>⭐ 97 · TypeScript</sub>
-- [skanga/DBchat](https://github.com/skanga/DBchat) - A powerful MCP server that lets you have natural language conversations with your database. Ask it to do complex analysis, generate beautiful visualizations, or build custom interactive dashboards… <sub>⭐ 96 · HTML</sub>
-- [killop/codedb-mcp](https://github.com/killop/codedb-mcp) - fast code database mcp 20000x faster against rg <sub>⭐ 95 · Rust</sub>
-- [mloda-ai/mloda](https://github.com/mloda-ai/mloda) - mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. <sub>⭐ 94 · Python</sub>
-- [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp) - A server that helps people access and query data in databases using the Legion Query Runner with Model Context Protocol (MCP) in Python. <sub>⭐ 94 · Python</sub>
-- [antiv/mate](https://github.com/antiv/mate) - Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC. <sub>⭐ 92 · Python</sub>
-- [klonnet23/helloy-word](https://github.com/klonnet23/helloy-word) - { "releases": { "2.0.4": ( "(Fixed) Refresh for Enterprise repositories did not handle API error querying branches - #7713", "(Fixed) Missing \"Discard all changes\" context menu in Changes header… <sub>⭐ 92</sub>
-- [HKUSTDial/DeepEye-SQL](https://github.com/HKUSTDial/DeepEye-SQL) - (SIGMOD'26) Official repository for the paper "DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL Framework" <sub>⭐ 90 · Python</sub>
-- [Augmented-Nature/ChEMBL-MCP-Server](https://github.com/Augmented-Nature/ChEMBL-MCP-Server) - A comprehensive Model Context Protocol (MCP) server providing advanced access to the ChEMBL chemical database. <sub>⭐ 89 · JavaScript</sub>
-- [donghao1393/mcp-dbutils](https://github.com/donghao1393/mcp-dbutils) - 数读 是一件可以让你的大模型安全连接到数据库的MCP工具。/ DButils is an all-in-one MCP service that enables your AI to do data analysis by harnessing versatile types of database (sqlite, mysql, postgres, and more) within a… <sub>⭐ 89 · Python</sub>
-- [awslabs/unified-text2sql-benchmark](https://github.com/awslabs/unified-text2sql-benchmark) - UNITE: A Unified Benchmark for Text-to-SQL Evaluation <sub>⭐ 88 · Python</sub>
-- [SkyChenSky/DBPilot](https://github.com/SkyChenSky/DBPilot) - Self-hosted database performance diagnostics for SQL Server, MySQL & PostgreSQL: trends, AAS insight, Top SQL, plan-change tracking, blocking & deadlock analysis. Single-process deploy, built-in MCP… <sub>⭐ 88 · C#</sub>
-- [unitycatalog/unitycatalog-rs](https://github.com/unitycatalog/unitycatalog-rs) - Open, Multi-modal Catalog for Data & AI, written in Rust <sub>⭐ 88 · Rust</sub>
-- [nerdit-ai/nerdit](https://github.com/nerdit-ai/nerdit) - Self-hosted PaaS for one machine: apps, local AI models and databases, operable by coding agents over MCP. <sub>⭐ 86 · Python</sub>
-- [FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT. <sub>⭐ 84 · Python</sub>
-- [hyperterse/hyperterse](https://github.com/hyperterse/hyperterse) - The agentic server framework. <sub>⭐ 84 · Go</sub>
-- [Satissss/LinkAlign](https://github.com/Satissss/LinkAlign) - (EMNLP 2025 Main) LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL <sub>⭐ 84 · Python</sub>
-- [clarilayer/clarilayer](https://github.com/clarilayer/clarilayer) - Memory for your AI work across projects and sessions. Save decisions, rules and lessons with source and applicability. Connect over MCP. <sub>⭐ 82 · TypeScript</sub>
-- [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) - An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to… <sub>⭐ 81 · Python</sub>
-- [ContextualAI/bird-sql](https://github.com/ContextualAI/bird-sql) - ContextualAI's text-to-SQL pipeline for BIRD benchmark <sub>⭐ 80 · Python</sub>
-- [taoyds/sparc](https://github.com/taoyds/sparc) - scripts and baselines for SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge <sub>⭐ 80 · Python</sub>
-- [rafiattrach/m3](https://github.com/rafiattrach/m3) - Query MIMIC-IV medical data using natural language through Model Context Protocol (MCP). Transform healthcare research with AI-powered database interactions - supports both local MIMIC-IV SQLite demo… <sub>⭐ 79 · Python</sub>
-- [328336690/wechat-decrypt](https://github.com/328336690/wechat-decrypt) - 微信4.0数据库解密工具 / WeChat 4.0 Database Decryptor — memory-based key extraction, real-time message monitoring, MCP Server for Claude AI <sub>⭐ 78 · Python</sub>
-- [RominaElenaMendezEscobar/text-to-sql](https://github.com/RominaElenaMendezEscobar/text-to-sql) - Text-to-sql with vanna-ai and streamlit <sub>⭐ 78 · Jupyter Notebook</sub>
-- [wham/github-brain](https://github.com/wham/github-brain) - An experimental GitHub MCP server with local database. <sub>⭐ 78 · Go</sub>
-- [googleapis/mcp-toolbox-sdk-js](https://github.com/googleapis/mcp-toolbox-sdk-js) - Javascript SDK for interacting with the MCP Toolbox for Databases. <sub>⭐ 77 · TypeScript</sub>
-- [wenb1n-dev/SmartDB_MCP](https://github.com/wenb1n-dev/SmartDB_MCP) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB,DM8,Oracle,not only provides basic database connection such as OAuth 2.0 authentication , health checks, SQL… <sub>⭐ 77 · Python</sub>
-- [rosettadb/dbt-studio](https://github.com/rosettadb/dbt-studio) - Local-first desktop IDE for dbt, with AI assistance and one-click project/model generation. <sub>⭐ 75 · TypeScript</sub>
-- [ukkit/memcord](https://github.com/ukkit/memcord) - Self-hosted, privacy-first MCP server for long-term AI memory — save, search & summarize Claude/ChatGPT chat history locally. No cloud, no database. <sub>⭐ 74 · Python</sub>
-- [hluaguo/metabase-mcp](https://github.com/hluaguo/metabase-mcp) - Metabase MCP server provides integration with the Metabase API, enabling LLM with MCP capabilites to directly interact with your analytics data, this server acts as a bridge between your analytics… <sub>⭐ 73 · Python</sub>
-- [mgorabbani/askdb](https://github.com/mgorabbani/askdb) - Give AI agents safe access to your database. <sub>⭐ 73 · TypeScript</sub>
-- [Ranork/remnus-app](https://github.com/Ranork/remnus-app) - MCP Native Workspace (Databases, pages, kanbans, calendars etc.) <sub>⭐ 73 · TypeScript</sub>
-- [dpflucas/mysql-mcp-server](https://github.com/dpflucas/mysql-mcp-server) - An MCP server provides read-only access to MySQL databases. <sub>⭐ 72 · TypeScript</sub>
-- [wzy416/AutoLink](https://github.com/wzy416/AutoLink) - (AAAI 2026 main) AutoLink: Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale <sub>⭐ 72 · Python</sub>
-- [benbogin/spider-schema-gnn-global](https://github.com/benbogin/spider-schema-gnn-global) - Author implementation of Global Reasoning over Database Structures for Text-to-SQL Parsing <sub>⭐ 70 · Python</sub>
-- [brunnurs/valuenet](https://github.com/brunnurs/valuenet) - ValueNet: A Neural Text-to-SQL Architecture Incorporating Values <sub>⭐ 69 · Python</sub>
-- [PuroDelphi/mcpFirebird](https://github.com/PuroDelphi/mcpFirebird) - Implementation of Anthropic's MCP protocol for Firebird databases. <sub>⭐ 69 · TypeScript</sub>
+- [termide/termide](https://github.com/termide/termide) - 用于桌面和服务器的全内终端工作空间:与LSP一起编辑,与SFTP/FTP一起的文件管理器,终端,git,数据库查看器和一个零配置静态Rust二进制中的编码代理. <sub>⭐ 170 · Rust</sub>
+- [bigbigwatermalon/C3SQL](https://github.com/bigbigwatermalon/C3SQL) - C3纸的代码:零射向带ChatGPT的SQL <sub>⭐ 168 · Python</sub>
+- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) - MySQL 数据库操作的示范背景协议服务器 <sub>⭐ 168 · JavaScript</sub>
+- [HKUSTDial/Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL) - (ICML'25) 论文"阿尔法-SQL:使用蒙特卡洛树搜索的零热文本对SQL"的官方寄存器 <sub>⭐ 164 · Python</sub>
+- [liam-machine/erd-studio](https://github.com/liam-machine/erd-studio) - dbt的视觉ERD设计师——在你的Repo中设计你的数据仓库,你的AI助手可以读到它. Free and open source. <sub>⭐ 163 · TypeScript</sub>
+- [eiondb/eion](https://github.com/eiondb/eion) - 多代理系统共享存储 <sub>⭐ 161 · Go</sub>
+- [call518/MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops) - 给予AI助手完整的PostgreSQL DBA超能力——30+工具用于性能分析,bloat检测,锁/死锁监测,自动真空和计划检查. PG 12-18. <sub>⭐ 160 · Python</sub>
+- [Laqcce-cao/RSL-SQL](https://github.com/Laqcce-cao/RSL-SQL) - RSL- SQL: 文本到 SQL 生成中的 Robust Schema 链接 <sub>⭐ 160 · Python</sub>
+- [XGenerationLab/XiYanSQL-QwenCoder](https://github.com/XGenerationLab/XiYanSQL-QwenCoder) - 用于文本对SQL的XiYanSQL模型. <sub>⭐ 160</sub>
+- [Text2SqlAgent/text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - 代理文本到SQL SDK: 手持 LLM 1 执行_ sql 工具, 让它探索方案, 测试查询, 以及自我修正—— 没有RAG, 没有语义层. 20/20 在一个80表的蜘蛛运行上。 内建追踪... <sub>⭐ 159 · Python</sub>
+- [Guepard-Corp/gfs](https://github.com/Guepard-Corp/gfs) - Git 数据库系统 <sub>⭐ 158 · Rust</sub>
+- [silver-flight-group/kakaocli](https://github.com/silver-flight-group/kakaocli) - KakaoTalk CLI 用于AI代理 - 通过数据库+UI自动化读取和发送消息 <sub>⭐ 157 · Swift</sub>
+- [JetBrains/databao-agent](https://github.com/JetBrains/databao-agent) - Databao 代理是一个开源代理,可以让您与您的数据聊天,并接收文本,交互式图表和表格中的答案. <sub>⭐ 155 · Python</sub>
+- [nrvim/garmin-givemydata](https://github.com/nrvim/garmin-givemydata) - 这是您的数据。 收回它。 把你的 Garmin 连接数据输入本地 SQLite 数据库和 AI 准备( MCP 服务器) <sub>⭐ 155 · Python</sub>
+- [X-LANCE/text2sql-lgesql](https://github.com/X-LANCE/text2sql-lgesql) - (ACL 2021)这是包含源代码和预先训练的模型的项目,涉及ACL2021长纸 LGESQL:线图增强文本到SQL模型,具有混合的本地和非本地关系". <sub>⭐ 154 · Python</sub>
+- [ademakdogan/ChatSQL](https://github.com/ademakdogan/ChatSQL) - 将给定的纯文本转换成 MySQL 查询, 由 ChatGPT 提供 <sub>⭐ 148 · Python</sub>
+- [iolufemi/Express-REST-API-and-MCP-Server-Framework](https://github.com/iolufemi/Express-REST-API-and-MCP-Server-Framework) - Express REST API和MCP Server Framework是用Express.js构建RESTful API和MCP服务器的综合开发框架,为创建.提供了完整的模板. <sub>⭐ 147 · TypeScript</sub>
+- [Snowflake-Labs/ReFoRCE](https://github.com/Snowflake-Labs/ReFoRCE) - 带有自定义、格式限制和列探索的文本到 SQL 代理 <sub>⭐ 142 · Python</sub>
+- [benbogin/spider-schema-gnn](https://github.com/benbogin/spider-schema-gnn) - 作者执行"用图神经网络代表舍马结构用于文本到SQL解析"论文. <sub>⭐ 141 · Python</sub>
+- [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) - 一个模式背景协议(MCP)服务器,提供访问您的 TeslaMate 数据库的功能,允许AI助手查询 Tesla 车辆数据和分析. <sub>⭐ 140 · Python</sub>
+- [TonybotNi/ZotLink](https://github.com/TonybotNi/ZotLink) - Producation 准备的Zotero MCP服务器,用于保存开放的预印(arXiv,CVF,生物/介质/chemRxiv),并带有丰富的元数据以及智能的PDF附件——即将支持出版商数据库(Nature. <sub>⭐ 138 · Python</sub>
+- [taoyds/syntaxSQL](https://github.com/taoyds/syntaxSQL) - 语法SQLNet:复杂和跨域文本到SQL任务的语法树网 <sub>⭐ 137 · Python</sub>
+- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - 电子医疗记录问答文本对SQL生成 <sub>⭐ 137 · Python</sub>
+- [ttzt/catalog_of_requirements_for_ai_products](https://github.com/ttzt/catalog_of_requirements_for_ai_products) - 该目录的目的是帮助数据科学团队收集所有需要考虑的要求,同时建立并制作ML模型. <sub>⭐ 136</sub>
+- [Astoriel/dbt-doctor](https://github.com/Astoriel/dbt-doctor) - AI驱动质量与治理 MCP Server用于dbt项目. 审计范围,剖面数据,检测计划漂移,以及自动生成文件——都与你的AI助手通过自然语言进行. <sub>⭐ 134 · Python</sub>
+- [konosp/dbt-airflow-docker-compose](https://github.com/konosp/dbt-airflow-docker-compose) - 通过 Docker 编译使用 Apache 气流执行 DBT 模型 <sub>⭐ 134 · Python</sub>
+- [danielmeppiel/oracle-mcp-server](https://github.com/danielmeppiel/oracle-mcp-server) - 用于与 Oracle 大数据库合作的 MCP 服务器 <sub>⭐ 133 · Python</sub>
+- [Snowboard-Software/awesome-ai-analytics](https://github.com/Snowboard-Software/awesome-ai-analytics) - AI分析工具列表(助手,与数据聊天,文本对sql,基准等). <sub>⭐ 132</sub>
+- [saidsurucu/yoktez-mcp](https://github.com/saidsurucu/yoktez-mcp) - 土耳其论文数据库的 MCP 服务器 <sub>⭐ 130 · Python</sub>
+- [radimsem/remindb](https://github.com/radimsem/remindb) - 一个代理内存数据库将会话符号切换为 82–99 % 。 一个可移植的 SQLite 文件 — 您代理的内存, 任何地方 。 <sub>⭐ 128 · Go</sub>
+- [jparkerweb/mcp-sqlite](https://github.com/jparkerweb/mcp-sqlite) - 提供 SQLite 数据库互动能力的 模式上下文协议服务器 <sub>⭐ 127 · JavaScript</sub>
+- [zorost/alchemylake-databricks](https://github.com/zorost/alchemylake-databricks) - 为 Databricks 管理,来源封存的创意渲染——一个流式 App + Unity Catalog ai_render () 函数,将任何受管源(Sample Lakehouse, UC, Genie,或BYO数据)变成. <sub>⭐ 121 · Python</sub>
+- [timescale/tiger-cli](https://github.com/timescale/tiger-cli) - Tiger CLI是Tiger Cloud的指令线接口,它包括一个MCP服务器,用于帮助编码代理员写入生产级Postgres代码. <sub>⭐ 119 · Go</sub>
+- [ZIZKA-AI-SL/ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) - AI代理的审计线索数据库. Tamper-deference, 检查和总账后的决定日志带有会话重播和时间旅行调试,以支持欧盟AI法案第12条的记录保存. Drift detection, MCP... <sub>⭐ 119 · Python</sub>
+- [eric-tramel/moraine](https://github.com/eric-tramel/moraine) - 统一实时代理跟踪数据库并搜索MCP <sub>⭐ 117 · Rust</sub>
+- [glee4810/EHRSQL](https://github.com/glee4810/EHRSQL) - (NeurIPS'22) EHRSQL:电子健康记录实用文本对SQL基准 <sub>⭐ 116 · Python</sub>
+- [XGenerationLab/XiYan-DBDescGen](https://github.com/XGenerationLab/XiYan-DBDescGen) - Text 到 SQL 自动描述生成的方法和相应的代码 <sub>⭐ 115 · Python</sub>
+- [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet是一个开源的单二进制服务器,将任何SQL数据库变成一个安全,有管理性的REST API,具有基于角色的访问控制以及应用程序和AI代理的本地MCP支持. <sub>⭐ 114 · Go</sub>
+- [malloydata/publisher](https://github.com/malloydata/publisher) - 发布器是Malloy的开源分析引擎。它允许您定义一次数据模型,并到处使用它们。 <sub>⭐ 114 · TypeScript</sub>
+- [taoyds/typesql](https://github.com/taoyds/typesql) - TypeSQL:基于知识的Type-Aware 神经文字到SQL生成 <sub>⭐ 113 · Python</sub>
+- [zhaohb/deskmate](https://github.com/zhaohb/deskmate) - Windows本地首个PC活动记录器. 抓取截图,可访问文本,UI事件,剪贴板活动,以及可选音频抄录到本地的SQLite数据库中——然后曝光... <sub>⭐ 113 · Python</sub>
+- [patsnap/mcp](https://github.com/patsnap/mcp) - 用于200M+专利,科学文献,化学和药剂记录的MCP服务器. Search preferal Arts and R&D Intelligence 由 PatSnap 的专有数据库通过 Claude, Cursor 和... <sub>⭐ 112</sub>
+- [jacopotagliabue/foundation-models-for-dbt-entity-matching](https://github.com/jacopotagliabue/foundation-models-for-dbt-entity-matching) - 将大型语言模型用于实体匹配的现代数据堆栈游戏场 <sub>⭐ 111 · Python</sub>
+- [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) - 一个通过模式背景协议(MCP)提供安全,只读访问SQLite数据库的MCP服务器,这个服务器是用FastMCP框架构建的,它使LLMs能够探索和查询. . <sub>⭐ 108 · Python</sub>
+- [oceanbase/awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp) - OceanBase数据库的MCP服务器及其工具 <sub>⭐ 108 · Python</sub>
+- [hirupert/sede](https://github.com/hirupert/sede) - 荒野中的文本对SQL:基于堆积交换数据的自然生成数据集 <sub>⭐ 107 · Jupyter Notebook</sub>
+- [THU-BPM/chatgpt-sql](https://github.com/THU-BPM/chatgpt-sql) - ChatGPT在Text-to-SQL的各种数据集上的预测结果. <sub>⭐ 106 · Python</sub>
+- [swati1024/torrents](https://github.com/swati1024/torrents) - 跳转到内容搜索... 所有 gists 回 GitHub Sign 在即时签名共享代码、 注释和片断 。 @ gianasalex/ torrent- course- download- list. md forked from M - Younus/torrent 课程... <sub>⭐ 103</sub>
+- [ApocData/ApocData-skill](https://github.com/ApocData/ApocData-skill) - ApocData – 中国A股市场AI-本土金融数据库. Drop-in Skill / MCP for Claude,ChatGPT, Quen, Kimi, DeepSeek 代理. <sub>⭐ 102 · Shell</sub>
+- [masumedb/masume](https://github.com/masumedb/masume) - 有 AI 聊天和一个 MCP 服务器的终端数据库客户端 <sub>⭐ 101 · Go</sub>
+- [sqlsure/sqlsure](https://github.com/sqlsure/sqlsure) - SQL 语义检查员——在查询运行前捕获扇形出错的重复计数,附加性违反,错误的加入密钥,以及策略违反. 在 BIRD/Spider text-SQL中发现了真正的错误... <sub>⭐ 99 · Python</sub>
+- [raeudigerRaeffi/turbular](https://github.com/raeudigerRaeffi/turbular) - 一个 MCP 服务器,允许 LLM 代理方便地连接和检索任何数据库中的数据 <sub>⭐ 98 · Python</sub>
+- [pinkpixel-dev/mem0-mcp](https://github.com/pinkpixel-dev/mem0-mcp) - 一个使用mem0用于AI应用程序的内存系统. 允许AI代理作为滴入MCP服务器的长期内存. <sub>⭐ 97 · TypeScript</sub>
+- [skanga/DBchat](https://github.com/skanga/DBchat) - 一个强大的 MCP 服务器, 可以让您与您的数据库进行自然语言对话 。 请它进行复杂的分析, 生成美丽的可视化, 或者构建自定义的交互式仪表板... <sub>⭐ 96 · HTML</sub>
+- [killop/codedb-mcp](https://github.com/killop/codedb-mcp) - 快速代码数据库 mcp 20000x 较 rg 更快 <sub>⭐ 95 · Rust</sub>
+- [mloda-ai/mloda](https://github.com/mloda-ai/mloda) - mloda.ai - 打开基于AI和ML插件的数据访问,可追踪,框架不可知。 <sub>⭐ 94 · Python</sub>
+- [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp) - 使用 Python 中模式背景协议(MCP)的 Legion Query Runner 来帮助人们访问数据库中的数据并查询数据的服务器. <sub>⭐ 94 · Python</sub>
+- [antiv/mate](https://github.com/antiv/mate) - 生产准备的多剂管弦乐引擎基于Google ADK. 数据库驱动的代理配置,50+LLM提供商,MCP协议,持续内存,网络仪表板,RBAC. <sub>⭐ 92 · Python</sub>
+- [klonnet23/helloy-word](https://github.com/klonnet23/helloy-word) - {"释放":{ "2.0.4":(为企业寄存器刷新未处理 API 错误查询分支 -# 7713),"(fixed) 缺少\" Discard all changes\" 修改头中的上下文菜单... <sub>⭐ 92</sub>
+- [HKUSTDial/DeepEye-SQL](https://github.com/HKUSTDial/DeepEye-SQL) - (SIGMOD'26) 论文"DeepEye-SQL:一个软件引擎-启发的文本对SQL框架"的官方寄存器 <sub>⭐ 90 · Python</sub>
+- [Augmented-Nature/ChEMBL-MCP-Server](https://github.com/Augmented-Nature/ChEMBL-MCP-Server) - 一个全面的模型背景协议服务器,提供高级访问CHEMBL化学数据库的功能. <sub>⭐ 89 · JavaScript</sub>
+- [donghao1393/mcp-dbutils](https://github.com/donghao1393/mcp-dbutils) - QQMCP /Dbutils是一个全能的MCP服务,它通过利用多功能类型的数据库(sqlite, mysql, postgres,以及更多)在... <sub>⭐ 89 · Python</sub>
+- [awslabs/unified-text2sql-benchmark](https://github.com/awslabs/unified-text2sql-benchmark) - UNITE:文本对SQL评价的统一基准 <sub>⭐ 88 · Python</sub>
+- [SkyChenSky/DBPilot](https://github.com/SkyChenSky/DBPilot) - 自动托管 SQL 服务器, MySQL & PostgreSQL 的数据库性能诊断:趋势, AAS 洞察力, Top SQL , 计划更改跟踪, 屏蔽和僵局分析. 单进程部署,内置 MCP... <sub>⭐ 88 · C#</sub>
+- [unitycatalog/unitycatalog-rs](https://github.com/unitycatalog/unitycatalog-rs) - 以 Rust 书写的数据和AI 的多模式目录打开 <sub>⭐ 88 · Rust</sub>
+- [nerdit-ai/nerdit](https://github.com/nerdit-ai/nerdit) - 自办的 PaaS 用于一台机器:应用程序,本地AI模型和数据库,在MCP上由编码代理操作. <sub>⭐ 86 · Python</sub>
+- [FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Django ER 图, N+1 检测, 计划漂移和迁移风险林伏 — 在 VS 代码中, 一个 CLI 和一个 MCP 服务器. Static analysis: no database, no django. setup (). Free & MIT. <sub>⭐ 84 · Python</sub>
+- [hyperterse/hyperterse](https://github.com/hyperterse/hyperterse) - 代理服务器框架. <sub>⭐ 84 · Go</sub>
+- [Satissss/LinkAlign](https://github.com/Satissss/LinkAlign) - (EMNLP 2025 Main) LinkAlign:可缩放的Schema 链接,用于真实世界的大型多数据库文本对SQL <sub>⭐ 84 · Python</sub>
+- [clarilayer/clarilayer](https://github.com/clarilayer/clarilayer) - 对您的 AI 工作进行跨项目和会话的内存。 保存决定、 规则和教训, 并带有源码和可应用性。 连接到 MCP 上 。 <sub>⭐ 82 · TypeScript</sub>
+- [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) - 一个MCP服务器,通过模式上下文协议(MCP)为您的iMessage数据库提供安全访问. 这个服务器是使用FastMCP框架和imessagedb库构建的,使LLMs能够... <sub>⭐ 81 · Python</sub>
+- [ContextualAI/bird-sql](https://github.com/ContextualAI/bird-sql) - 用于BIRD基准的文字至SQL管道 <sub>⭐ 80 · Python</sub>
+- [taoyds/sparc](https://github.com/taoyds/sparc) - SParC的脚本和基线: 耶鲁语与销售力语义解析及背景挑战中的文本对SQL <sub>⭐ 80 · Python</sub>
+- [rafiattrach/m3](https://github.com/rafiattrach/m3) - 通过模式背景协议(MCP)查询使用自然语言的MIMIC-IV医疗数据. 具有AI动力数据库交互功能的转型保健研究 - 支持两个本地MIMIC-IV SQLite演示... <sub>⭐ 79 · Python</sub>
+- [328336690/wechat-decrypt](https://github.com/328336690/wechat-decrypt) - QQ4.0 /WeChat 4.0 数据库解密器——基于内存的密钥提取,实时消息监控,MCP服务器为克劳德AI服务. <sub>⭐ 78 · Python</sub>
+- [RominaElenaMendezEscobar/text-to-sql](https://github.com/RominaElenaMendezEscobar/text-to-sql) - 以梵纳艾语和流体字进行文本对正弦 <sub>⭐ 78 · Jupyter Notebook</sub>
+- [wham/github-brain](https://github.com/wham/github-brain) - 一个具有本地数据库的实验性GitHub MCP服务器. <sub>⭐ 78 · Go</sub>
+- [googleapis/mcp-toolbox-sdk-js](https://github.com/googleapis/mcp-toolbox-sdk-js) - Javascript SDK用于与数据库的MCP工具箱交互. <sub>⭐ 77 · TypeScript</sub>
+- [wenb1n-dev/SmartDB_MCP](https://github.com/wenb1n-dev/SmartDB_MCP) - 通用数据库MCP服务器连接 MySQL, PostgreSQL, SQL 服务器 MariaDB, DM8, Oracle 不仅提供了OAuth 2.0认证,健康检查,SQL等基础数据库连接. . <sub>⭐ 77 · Python</sub>
+- [rosettadb/dbt-studio](https://github.com/rosettadb/dbt-studio) - dbt 本地首个桌面 IDE,由 AI 协助和一击项目/模型生成. <sub>⭐ 75 · TypeScript</sub>
+- [ukkit/memcord](https://github.com/ukkit/memcord) - 自我托管, 私密第一 MCP 服务器用于长期AI内存—— 保存, 搜索和总结 Claude/ChatGPT 本地聊天历史。 没有云, 没有数据库 。 <sub>⭐ 74 · Python</sub>
+- [hluaguo/metabase-mcp](https://github.com/hluaguo/metabase-mcp) - Metabase MCP服务器提供与Metabase API的集成,使LLM与MCP capabilits能够直接与您的分析数据交互,这个服务器充当您分析之间的桥梁. . <sub>⭐ 73 · Python</sub>
+- [mgorabbani/askdb](https://github.com/mgorabbani/askdb) - 让人工智能特工安全进入你的数据库 <sub>⭐ 73 · TypeScript</sub>
+- [Ranork/remnus-app](https://github.com/Ranork/remnus-app) - MCP 本地工作空间(数据库、页面、kanbans、日历等) <sub>⭐ 73 · TypeScript</sub>
+- [dpflucas/mysql-mcp-server](https://github.com/dpflucas/mysql-mcp-server) - 一个MCP服务器提供只读访问MySQL数据库. <sub>⭐ 72 · TypeScript</sub>
+- [wzy416/AutoLink](https://github.com/wzy416/AutoLink) - (AAAI 2026主机) AutoLink:在文本到SQL中以可缩放的Schema 进行自主探索和扩展 <sub>⭐ 72 · Python</sub>
+- [benbogin/spider-schema-gnn-global](https://github.com/benbogin/spider-schema-gnn-global) - 作者执行“文本到SQL分析全球数据库结构理由” <sub>⭐ 70 · Python</sub>
+- [brunnurs/valuenet](https://github.com/brunnurs/valuenet) - 价值网:包含价值的神经文字到SQL结构 <sub>⭐ 69 · Python</sub>
+- [PuroDelphi/mcpFirebird](https://github.com/PuroDelphi/mcpFirebird) - 实施Anthropic的火鸟数据库MCP协议. <sub>⭐ 69 · TypeScript</sub>
 
 ## 🏗️ 面向 AI 的数据基础设施
 
@@ -686,360 +686,360 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - 构建代理工作流程,RAG管道,在一个协作工作空间上拥有丰富的AI模型和工具支持. 部署在云,VPC上,或自发托管,因此团队从原型转向生产而不... <sub>⭐ 157.7k · TypeScript</sub>
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL框架用于流处理,实时分析,LLM管道,以及RAG. <sub>⭐ 62.2k · Python</sub>
-- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. <sub>⭐ 37.1k · C++</sub>
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing… <sub>⭐ 26.6k · Python</sub>
-- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. <sub>⭐ 16.6k · Rust</sub>
-- [treeverse/dvc](https://github.com/treeverse/dvc) - Data Versioning and ML Experiments <sub>⭐ 15.9k · Python</sub>
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models <sub>⭐ 14.8k · Python</sub>
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified architecture on your S3. <sub>⭐ 9.5k · Rust</sub>
-- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML <sub>⭐ 7.3k · Python</sub>
-- [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and… <sub>⭐ 7.1k · Rust</sub>
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines <sub>⭐ 5.7k · Python</sub>
-- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently. <sub>⭐ 5.1k · TypeScript</sub>
-- [feyninc/chonkie](https://github.com/feyninc/chonkie) - CHONK docs with Chonkie — The lightweight ingestion library for fast, efficient and robust RAG pipelines <sub>⭐ 4.8k · Python</sub>
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. <sub>⭐ 4.6k · JavaScript</sub>
-- [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research. <sub>⭐ 4.0k · Python</sub>
-- [spotify/scio](https://github.com/spotify/scio) - A Scala API for Apache Beam and Google Cloud Dataflow. <sub>⭐ 2.6k · Scala</sub>
-- [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance <sub>⭐ 2.5k · Python</sub>
-- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. <sub>⭐ 2.0k · Go</sub>
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation. <sub>⭐ 2.0k · Python</sub>
-- [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates… <sub>⭐ 1.7k · Python</sub>
-- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C. <sub>⭐ 1.5k · Rust</sub>
-- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust <sub>⭐ 1.3k · Rust</sub>
-- [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store <sub>⭐ 1.3k · Java</sub>
-- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate… <sub>⭐ 1.1k · Python</sub>
-- [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - Awesome Data Catalogs and Observability Platforms. <sub>⭐ 1.1k</sub>
-- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications. <sub>⭐ 1.1k · Scala</sub>
-- [darrencxl0301/StageRAG](https://github.com/darrencxl0301/StageRAG) - A blueprint for building production-ready RAG systems that minimize hallucination, featuring switchable 3-step (Speed) and 4-step (Precision) pipelines. <sub>⭐ 1.0k · Python</sub>
-- [mrdbourke/simple-local-rag](https://github.com/mrdbourke/simple-local-rag) - Build a RAG (Retrieval Augmented Generation) pipeline from scratch and have it all run locally. <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [PrithivirajDamodaran/FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) - Lite & Super-fast re-ranking for your search & retrieval pipelines. Supports SoTA Listwise and Pairwise reranking based on LLMs and cross-encoders and more. Created by Prithivi Da, open for PRs &… <sub>⭐ 1.0k · Python</sub>
-- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) - LightlyStudio - The Unified Data Platform for Multimodal ML <sub>⭐ 892 · Python</sub>
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS <sub>⭐ 859 · Shell</sub>
-- [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch <sub>⭐ 857 · Python</sub>
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes <sub>⭐ 837 · Python</sub>
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust <sub>⭐ 788 · Rust</sub>
-- [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) - This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline. <sub>⭐ 780 · Python</sub>
-- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project. <sub>⭐ 740 · Shell</sub>
-- [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3)… <sub>⭐ 689 · TypeScript</sub>
-- [victor369basu/Real-time-stock-market-prediction](https://github.com/victor369basu/Real-time-stock-market-prediction) - In this repository, I have developed the entire server-side principal architecture for real-time stock market prediction with Machine Learning. I have used Tensorflow.js for constructing ml model… <sub>⭐ 646 · JavaScript</sub>
-- [PromtEngineer/localGPT-Vision](https://github.com/PromtEngineer/localGPT-Vision) - Chat with your documents using Vision Language Models. This repo implements an End to End RAG pipeline with both local and proprietary VLMs <sub>⭐ 637 · Python</sub>
-- [linkedin/venice](https://github.com/linkedin/venice) - Venice, Derived Data Platform for Planet-Scale Workloads. <sub>⭐ 613 · Java</sub>
-- [tonykipkemboi/ollama_pdf_rag](https://github.com/tonykipkemboi/ollama_pdf_rag) - A full-stack demo showcasing a local RAG (Retrieval Augmented Generation) pipeline to chat with your PDFs. <sub>⭐ 545 · TypeScript</sub>
-- [meta-pytorch/torchft](https://github.com/meta-pytorch/torchft) - Fault tolerance for PyTorch (HSDP, LocalSGD, DiLoCo, Streaming DiLoCo) <sub>⭐ 543 · Python</sub>
-- [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) - A step by step implementation of a complex RAG pipeline to solve real world situations <sub>⭐ 514 · Jupyter Notebook</sub>
-- [aparsoft/yolo-streamlit-detection-tracking](https://github.com/aparsoft/yolo-streamlit-detection-tracking) - Object detection and tracking algorithm implemented for Real-Time video streams and static images. <sub>⭐ 429 · Python</sub>
-- [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) - Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a library, a daemon, or a real-time pipeline. <sub>⭐ 416 · Go</sub>
-- [ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS) - (UNMAINTAINED) Automated machine learning- just give it a data file! Check out the production-ready version of this project at ClimbsRocks/auto_ml <sub>⭐ 400 · Python</sub>
-- [superagent-ai/super-rag](https://github.com/superagent-ai/super-rag) - Super performant RAG pipelines for AI apps. Summarization, Retrieve/Rerank and Code Interpreters in one simple API. <sub>⭐ 391 · Python</sub>
-- [AnkitNayak-dev/EpsteinFiles-RAG](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler). <sub>⭐ 389 · Python</sub>
-- [Socialpranker/deepdive](https://github.com/Socialpranker/deepdive) - Deepdive skill for Claude Code — 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger triangulation with dissent protection, relevance × authority evidence filter… <sub>⭐ 372 · Python</sub>
-- [REBEL-ROOT/omni-browser](https://github.com/REBEL-ROOT/omni-browser) - Omni Browser is a secure, open-source Android browser by RebelRoot. Built on Mozilla GeckoView, it features native WebExtension support, aggressive media stream interception, a private encrypted… <sub>⭐ 367 · Kotlin</sub>
-- [alibaba/feathub](https://github.com/alibaba/feathub) - FeatHub - A stream-batch unified feature store for real-time machine learning <sub>⭐ 351 · Python</sub>
-- [georgeguimaraes/arcana](https://github.com/georgeguimaraes/arcana) - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard <sub>⭐ 340 · Elixir</sub>
-- [pablogdcr/react-native-data-detector](https://github.com/pablogdcr/react-native-data-detector) - Cross-platform text data detection for React Native. Uses NSDataDetector on iOS and ML Kit Entity Extraction on Android to detect phone numbers, URLs, emails, dates, and addresses. <sub>⭐ 297 · TypeScript</sub>
-- [Emissary-Tech/legit-rag](https://github.com/Emissary-Tech/legit-rag) - A real production-worthy RAG Pipeline. <sub>⭐ 282 · Python</sub>
-- [harvard-lil/warc-gpt](https://github.com/harvard-lil/warc-gpt) - WARC + AI - Experimental Retrieval Augmented Generation Pipeline for Web Archive Collections. <sub>⭐ 281 · Python</sub>
-- [Lyra-stellAI/BYO-LLM-WIKI](https://github.com/Lyra-stellAI/BYO-LLM-WIKI) - Build your own LLM-native WIKI (knowledge library). Search, extract, summarize, Q&A with contextual RAG, layered knowledge graph, and reinforced memory. Importantly use selected context to… <sub>⭐ 280 · Python</sub>
-- [fpytloun/mnemory](https://github.com/fpytloun/mnemory) - A self-hosted, secure, feature-rich memory system for AI agents and assistants. Provides intelligent fact extraction and deduplication, with an artifact store for detailed content. <sub>⭐ 279 · Python</sub>
-- [rushio-consulting/flutter_camera_ml_vision](https://github.com/rushio-consulting/flutter_camera_ml_vision) - A flutter widget that show the camera stream and allow ML vision recognition on it, it allow you to detect barcodes, labels, text, faces... <sub>⭐ 267 · Dart</sub>
-- [scub-france/docling-Studio](https://github.com/scub-france/docling-Studio) - Visual document analysis studio powered by Docling — configure the extraction pipeline, inspect text, tables and bounding boxes in the browser, then chunk, embed and index into OpenSearch and Neo4j. <sub>⭐ 263 · Python</sub>
-- [misbahsy/RAGTune](https://github.com/misbahsy/RAGTune) - Tuning and Evaluation of RAG pipeline. (Automated optimization to be added soon) <sub>⭐ 262 · Python</sub>
-- [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline <sub>⭐ 259 · Rust</sub>
-- [myylogic/cevahir-ai](https://github.com/myylogic/cevahir-ai) - Full-stack open-source AI engine for building language models — tokenizer training, transformer architecture, cognitive reasoning and chat pipeline. <sub>⭐ 246 · Python</sub>
-- [FareedKhan-dev/autonomous-agentic-rag](https://github.com/FareedKhan-dev/autonomous-agentic-rag) - Self improving agentic rag pipeline <sub>⭐ 228 · Jupyter Notebook</sub>
-- [NVIDIA-Merlin/HierarchicalKV](https://github.com/NVIDIA-Merlin/HierarchicalKV) - HierarchicalKV is a part of NVIDIA Merlin and provides hierarchical key-value storage to meet RecSys requirements. The key capability of HierarchicalKV is to store key-value feature-embeddings on… <sub>⭐ 208 · Cuda</sub>
-- [ertis-research/kafka-ml](https://github.com/ertis-research/kafka-ml) - Kafka-ML: connecting the data stream with ML/AI frameworks (now TensorFlow and PyTorch!) <sub>⭐ 206 · Python</sub>
-- [shubham0204/OnDevice-RAG-Android](https://github.com/shubham0204/OnDevice-RAG-Android) - A custom RAG pipeline for multi-document QA from PDF/DOCX documents, in Android <sub>⭐ 201 · Kotlin</sub>
-- [harumiWeb/exstruct](https://github.com/harumiWeb/exstruct) - Conversion from Excel to structured JSON (tables, shapes, charts) for LLM/RAG pipelines, and autonomous Excel reading/writing by AI agents via CLI and MCP integration. <sub>⭐ 200 · Python</sub>
-- [Emmimal/context-engine](https://github.com/Emmimal/context-engine) - A pure-Python context management layer for LLM systems — retrieval, re-ranking, memory decay, and token-budget enforcement in one pipeline. <sub>⭐ 197 · Python</sub>
-- [GoogleCloudPlatform/df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection) - Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP <sub>⭐ 191 · Java</sub>
-- [Hungreeee/Resume-Screening-RAG-Pipeline](https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline) - An LLM Chatbot that dynamically retrieves and processes resumes using RAG to perform resume screening. <sub>⭐ 191 · Jupyter Notebook</sub>
-- [GiovanniPasq/chunky](https://github.com/GiovanniPasq/chunky) - Open-source toolkit for reliable RAG pipelines: convert PDFs to Markdown, clean documents, inspect chunks, compare chunking strategies, and enrich metadata for LLM applications. <sub>⭐ 183 · Python</sub>
-- [freeman-lab/spark-ml-streaming](https://github.com/freeman-lab/spark-ml-streaming) - Visualize streaming machine learning in Spark <sub>⭐ 176 · Python</sub>
-- [AymenKallala/RAG_Maestro](https://github.com/AymenKallala/RAG_Maestro) - Building a chatbot powered with a RAG pipeline to read,summarize and quote the most relevant papers related to the user query. <sub>⭐ 165 · Python</sub>
-- [FareedKhan-dev/scalable-rag-pipeline](https://github.com/FareedKhan-dev/scalable-rag-pipeline) - A scalable RAG platform combining LangGraph agents, hybrid retrieval (Vector+Graph), and Ray orchestration on Kubernetes. <sub>⭐ 165 · Python</sub>
-- [volga-project/volga](https://github.com/volga-project/volga) - Unified real-time data engine <sub>⭐ 161 · Rust</sub>
-- [AKSarav/pdfstract](https://github.com/AKSarav/pdfstract) - PDFStract - Extract, Chunking and Embedding Layer in Your RAG Pipeline - Available as CLI - WEBUI - API <sub>⭐ 155 · Python</sub>
-- [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset <sub>⭐ 150</sub>
-- [aantron/markup.ml](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers <sub>⭐ 149 · OCaml</sub>
-- [krishagarwal314/CodeJury](https://github.com/krishagarwal314/CodeJury) - Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run tests, and gate pull requests with deterministic QA and ensemble code review. <sub>⭐ 146 · Python</sub>
-- [Paulescu/bytewax-hopsworks-example](https://github.com/Paulescu/bytewax-hopsworks-example) - Compute and store real-time features for crypto trading using Bytwax (stream processing) and Hopsworks (Feature Store) <sub>⭐ 146 · Python</sub>
-- [FareedKhan-dev/best-llm-finder-pipeline](https://github.com/FareedKhan-dev/best-llm-finder-pipeline) - Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM <sub>⭐ 143 · Jupyter Notebook</sub>
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - 跨平台,可定制的ML解决方案用于直播和流媒体. <sub>⭐ 37.1k · C++</sub>
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - 用于构建上下文设计,生产准备的LLM应用程序的开源AI编组框架. 设计模块化管道和代理工作流程,对检索,路由有明确的控制. <sub>⭐ 26.6k · Python</sub>
+- [memvid/memvid](https://github.com/memvid/memvid) - AI Agents 的内存层。 将复杂的 RAG 管道替换为无服务器的单文件内存层。 给您的代理即时检索和长期内存 。 <sub>⭐ 16.6k · Rust</sub>
+- [treeverse/dvc](https://github.com/treeverse/dvc) - 数据版本和ML实验 <sub>⭐ 15.9k · Python</sub>
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - 以小型、专门型号建设企业RAG管道的统一框架 <sub>⭐ 14.8k · Python</sub>
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 数据代理准备仓库:一个用于分析,搜索,AI,Python Sandbox. ——从零开始重建,在你的S3上统一建筑. <sub>⭐ 9.5k · Rust</sub>
+- [feast-dev/feast](https://github.com/feast-dev/feast) - AI/ML 的开源特性存储 <sub>⭐ 7.3k · Python</sub>
+- [lance-format/lance](https://github.com/lance-format/lance) - 为多模式AI打开湖屋格式。 从 Parquet 转换为两行代码, 用于100x更快的随机访问、 矢量指数和数据版本。 兼容熊猫、 DuckDB、 极地、 Pyarrow 和... <sub>⭐ 7.1k · Rust</sub>
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - 建造复杂和创新的RAG管道的低标准MCP框架 <sub>⭐ 5.7k · Python</sub>
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG:现在你的经纪人可以在计算机中找到任何东西。如果你经常使用它,就会变得更聪明。 <sub>⭐ 5.1k · TypeScript</sub>
+- [feyninc/chonkie](https://github.com/feyninc/chonkie) - 与Chonkie一起的CHONK文件——用于快速、高效和强力RAG管道的轻量级摄入库 <sub>⭐ 4.8k · Python</sub>
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - 泡泡卡是家用助理的一种最小化和可定制的卡片收藏,以现代弹出器和100多个社区制作单元的集成模块存储器为特色. <sub>⭐ 4.6k · JavaScript</sub>
+- [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - 在任何RAG管道中,容易使用并训练最先进的晚间交互检索方法(ColBERT)。 <sub>⭐ 4.0k · Python</sub>
+- [spotify/scio](https://github.com/spotify/scio) - 用于Apache Beam和Google云数据流的Scala API. <sub>⭐ 2.6k · Scala</sub>
+- [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) - 惠香杜:利用LLM技术协助克服小组聊天设想 <sub>⭐ 2.5k · Python</sub>
+- [featureform/featureform](https://github.com/featureform/featureform) - 虚拟特性存储器。 将您现有的数据基础设施转换为特性存储器 。 <sub>⭐ 2.0k · Go</sub>
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - AI代理管道(LangGraph,CrewAI,AutoGen)和Claude的开源持久内存. REST API + 知识图 + 自主整合. <sub>⭐ 2.0k · Python</sub>
+- [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun是一个开源的MLOPS平台,用于快速构建和管理整个生命周期连续的ML应用. MLRun集成于您的开发以及CI/CD环境和自动化. . <sub>⭐ 1.7k · Python</sub>
+- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus是一款搜索SDK,在单一数据库查询中统一了整个RAG管道. Postgres上方建有Python,JavaScript,Rust和C的捆绑. <sub>⭐ 1.5k · Rust</sub>
+- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - 高性能、模块化、记忆安全和生产准备推论、摄入和索引制作 <sub>⭐ 1.3k · Rust</sub>
+- [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - 带有特性存储器的数据强化AI平台 <sub>⭐ 1.3k · Java</sub>
+- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - AI.链条细胞进入强大管道的协作电子表格,用提示和模型进行实验,并实时评价LLM响应. 一起无缝地构建和移动... <sub>⭐ 1.1k · Python</sub>
+- [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 优秀数据目录和可观测性平台. <sub>⭐ 1.1k</sub>
+- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon是服务于AI/ML应用程序的数据平台. <sub>⭐ 1.1k · Scala</sub>
+- [darrencxl0301/StageRAG](https://github.com/darrencxl0301/StageRAG) - 用于建造生产准备的RAG系统以尽量减少幻觉的蓝图,其特点是可切换的3步(Speed)和4步(精密)管道. <sub>⭐ 1.0k · Python</sub>
+- [mrdbourke/simple-local-rag](https://github.com/mrdbourke/simple-local-rag) - 从零开始建造一个RAG(检索增强生成)管道,并全部在当地运行。 <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [PrithivirajDamodaran/FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) - Lite & Super- fast 为您的搜索和检索管道重新排序。 支持 SOTA Listwise 和 Pairwise 以 LLMs 和跨编码器等为基础重新排序。 由 Prithivi Da 创建, 为 PRs &... <sub>⭐ 1.0k · Python</sub>
+- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) - LightlyStudio - 多式联运统一数据平台 <sub>⭐ 892 · Python</sub>
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS是一个在亚马逊 EKS 上建立、部署和扩展数据平台的工具 <sub>⭐ 859 · Shell</sub>
+- [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - 从零开始建造LLM动力先进RAG管道 <sub>⭐ 857 · Python</sub>
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - 在几分钟内就地或远程部署任何AI型号、剂、数据库、RAG和管道 <sub>⭐ 837 · Python</sub>
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Rust 中快速、流化的索引、查询和代理 LLM 应用程序 <sub>⭐ 788 · Rust</sub>
+- [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) - NVIDIA RAG蓝图是基础检索增强型(RAG)管道的参考解决方案。 <sub>⭐ 780 · Python</sub>
+- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI examples是GenAI 实例的集合,例如ChatQnA,Copilot,它说明了企业AI(OPEA)开放平台(OPEA)项目的管道能力. <sub>⭐ 740 · Shell</sub>
+- [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud就像拥有自己的GPT构建器,并配有一堆额外的好东西. GUI的特性 1 RAG 管道可以本土嵌入260+数据源 2 创建对话应用程序(类似 GPT) 3... <sub>⭐ 689 · TypeScript</sub>
+- [victor369basu/Real-time-stock-market-prediction](https://github.com/victor369basu/Real-time-stock-market-prediction) - 在这个寄存器中,我开发了整个服务器侧主架构,用于与机器学习公司进行实时股票市场预测.我使用Tensorflow.js来构建ml模型...... <sub>⭐ 646 · JavaScript</sub>
+- [PromtEngineer/localGPT-Vision](https://github.com/PromtEngineer/localGPT-Vision) - 使用 Visual Language 模型与您的文档聊天。 此重播会执行一个结束到结束 RAG 管道, 并同时使用本地和专有 VLM <sub>⭐ 637 · Python</sub>
+- [linkedin/venice](https://github.com/linkedin/venice) - 威尼斯,行星级载荷的衍生数据平台. <sub>⭐ 613 · Java</sub>
+- [tonykipkemboi/ollama_pdf_rag](https://github.com/tonykipkemboi/ollama_pdf_rag) - 一个全速的演示显示一个本地的RAG( Retrival Advanceed Generation)管道, 用于与您的PDF聊天. <sub>⭐ 545 · TypeScript</sub>
+- [meta-pytorch/torchft](https://github.com/meta-pytorch/torchft) - PyTorch 的过失容忍度( HSDP, localSGD, DiLoCo, 流动 DiLoCo) <sub>⭐ 543 · Python</sub>
+- [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) - 逐步实施一个复杂的RAG管道,以解决现实世界的情况 <sub>⭐ 514 · Jupyter Notebook</sub>
+- [aparsoft/yolo-streamlit-detection-tracking](https://github.com/aparsoft/yolo-streamlit-detection-tracking) - 为实时视频流和静态图像执行对象检测和跟踪算法. <sub>⭐ 429 · Python</sub>
+- [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) - 制作级Go SDK用于建造具有长期内存,知识检索,和语音的AI代理——可运行为库,守护进程,或实时管道. <sub>⭐ 416 · Go</sub>
+- [ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS) - 自动机器学习 - 给它一个数据文件! 请检查在 ClimpsRocks/auto_ml 上这个项目的制作准备版本 <sub>⭐ 400 · Python</sub>
+- [superagent-ai/super-rag](https://github.com/superagent-ai/super-rag) - AI应用程序的超级性能RAG管道. 简写, Retriev/Rerank和代码解释器在一个简单的API中. <sub>⭐ 391 · Python</sub>
+- [AnkitNayak-dev/EpsteinFiles-RAG](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) - 一个RAG管道执行基于Hugging Face(泰勒)的'Epstein File 20K'数据集. <sub>⭐ 389 · Python</sub>
+- [Socialpranker/deepdive](https://github.com/Socialpranker/deepdive) - Claude Code的深层技能——12阶段研究管道:计划审查门,平行的子代理搜索,权利要求引导的有异议保护的三角化,相关性×权威证据过滤器...... <sub>⭐ 372 · Python</sub>
+- [REBEL-ROOT/omni-browser](https://github.com/REBEL-ROOT/omni-browser) - Omni浏览器是RebelRoot公司的一个安全开放的Android浏览器。它建在Mozilla GeckoView上,具有本土WebExtension支持,激进的媒体流截取,私人加密... <sub>⭐ 367 · Kotlin</sub>
+- [alibaba/feathub](https://github.com/alibaba/feathub) - FeatHub - 一个用于实时机器学习的流式密钥统一特性商店 <sub>⭐ 351 · Python</sub>
+- [georgeguimaraes/arcana](https://github.com/georgeguimaraes/arcana) - Elixir/Phoenix可嵌入RAG图书馆,配有干线管和仪表板 <sub>⭐ 340 · Elixir</sub>
+- [pablogdcr/react-native-data-detector](https://github.com/pablogdcr/react-native-data-detector) - 跨平台文本数据检测用于 React Industrial. 使用iOS上的NSData检测器和Android上的ML Kit实体提取器来检测电话号码,URL,电子邮件,日期和地址. <sub>⭐ 297 · TypeScript</sub>
+- [Emissary-Tech/legit-rag](https://github.com/Emissary-Tech/legit-rag) - 一个真正生产价值的RAG管道. <sub>⭐ 282 · Python</sub>
+- [harvard-lil/warc-gpt](https://github.com/harvard-lil/warc-gpt) - WARC + AI - 用于网络档案收藏的实验检索增强生成管道. <sub>⭐ 281 · Python</sub>
+- [Lyra-stellAI/BYO-LLM-WIKI](https://github.com/Lyra-stellAI/BYO-LLM-WIKI) - 构建自己的 LLM- 内在 WIKI (知识库) 。 搜索、 提取、 总结、 QQA 与上下文的 RAG、 分层的知识图以及强化的内存。 重要的是使用选定的上下文来... <sub>⭐ 280 · Python</sub>
+- [fpytloun/mnemory](https://github.com/fpytloun/mnemory) - 人工智能代理和助手自备的,安全,内容丰富的内存系统,提供智能的事实提取和调试,并设有文物库,详细内容. <sub>⭐ 279 · Python</sub>
+- [rushio-consulting/flutter_camera_ml_vision](https://github.com/rushio-consulting/flutter_camera_ml_vision) - 显示相机流并允许ML视觉识别的闪烁部件, 它允许您检测条码,标签,文本,面孔... <sub>⭐ 267 · Dart</sub>
+- [scub-france/docling-Studio](https://github.com/scub-france/docling-Studio) - 由Docling提供动力的视觉文件分析工作室——配置提取管道,检查浏览器中的文本,表格和边框,然后块块,嵌入并索引到OpenSearch和Neo4j中. <sub>⭐ 263 · Python</sub>
+- [misbahsy/RAGTune](https://github.com/misbahsy/RAGTune) - RAG输油管的编导和评价。 (将很快增加自动化优化) <sub>⭐ 262 · Python</sub>
+- [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - 类似垃圾管道 <sub>⭐ 259 · Rust</sub>
+- [myylogic/cevahir-ai](https://github.com/myylogic/cevahir-ai) - 用于构建语言模型的全存储开源AI引擎——标致器培训,变压器架构,认知推理和聊天管道. <sub>⭐ 246 · Python</sub>
+- [FareedKhan-dev/autonomous-agentic-rag](https://github.com/FareedKhan-dev/autonomous-agentic-rag) - 自我改进的干线管道 <sub>⭐ 228 · Jupyter Notebook</sub>
+- [NVIDIA-Merlin/HierarchicalKV](https://github.com/NVIDIA-Merlin/HierarchicalKV) - 等级KV是NVIDIA Merlin的一部分,提供等级密钥值存储以满足RecSys的要求. 等级KV的关键能力是存储在... <sub>⭐ 208 · Cuda</sub>
+- [ertis-research/kafka-ml](https://github.com/ertis-research/kafka-ml) - Kafka-ML:将数据流与ML/AI框架连接起来(现在的TensorFlow和PyTorch!). <sub>⭐ 206 · Python</sub>
+- [shubham0204/OnDevice-RAG-Android](https://github.com/shubham0204/OnDevice-RAG-Android) - Android中用于PDF/DOCX文档的多文档QA的自定义RAG管道 <sub>⭐ 201 · Kotlin</sub>
+- [harumiWeb/exstruct](https://github.com/harumiWeb/exstruct) - 从Excel转换为结构化的JSON(LLM/RAG管道的表格,形状,图表),以及AI代理通过CLI和MCP集成实现的自主Excel读写. <sub>⭐ 200 · Python</sub>
+- [Emmimal/context-engine](https://github.com/Emmimal/context-engine) - 一个纯Python上下文管理层用于LLM系统——检索,重新排位,内存衰减,以及一个管道中的符号预算执行. <sub>⭐ 197 · Python</sub>
+- [GoogleCloudPlatform/df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection) - 使用 Pub/ Sub、 Dataflow、 BQML 和 Cloud DLP 流出异常检测解决方案 <sub>⭐ 191 · Java</sub>
+- [Hungreeee/Resume-Screening-RAG-Pipeline](https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline) - 一个LLM聊天台,能动态地检索和处理恢复使用RAG进行恢复筛选. <sub>⭐ 191 · Jupyter Notebook</sub>
+- [GiovanniPasq/chunky](https://github.com/GiovanniPasq/chunky) - 用于可靠RAG管道的开源工具包:将PDF转换为Markdown,清洁文档,检查块,比较块策略,丰富LLM应用的元数据. <sub>⭐ 183 · Python</sub>
+- [freeman-lab/spark-ml-streaming](https://github.com/freeman-lab/spark-ml-streaming) - 可视化流线机在 Spark 中学习 <sub>⭐ 176 · Python</sub>
+- [AymenKallala/RAG_Maestro](https://github.com/AymenKallala/RAG_Maestro) - 搭建一个聊天机,用RAG管道提供动力,可以读取,概括和引用与用户查询相关的最相关的论文. <sub>⭐ 165 · Python</sub>
+- [FareedKhan-dev/scalable-rag-pipeline](https://github.com/FareedKhan-dev/scalable-rag-pipeline) - 一个可伸缩的RAG平台,结合了LangGraph代理,混合检索(Vector+Graph),以及Kubernetes上的Ray管弦乐. <sub>⭐ 165 · Python</sub>
+- [volga-project/volga](https://github.com/volga-project/volga) - 统一实时数据引擎 <sub>⭐ 161 · Rust</sub>
+- [AKSarav/pdfstract](https://github.com/AKSarav/pdfstract) - PDFStract - 提取、 弹簧和嵌入层在您的RAG管道中 - 作为 CLI - WEBUI - API 可用 <sub>⭐ 155 · Python</sub>
+- [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - 已清理的诺丁汉数据集版本 <sub>⭐ 150</sub>
+- [aantron/markup.ml](https://github.com/aantron/markup.ml) - 恢复错误的流媒体 HTML5 和 XML 解析器 <sub>⭐ 149 · OCaml</sub>
+- [krishagarwal314/CodeJury](https://github.com/krishagarwal314/CodeJury) - 终端一号,知识基础多代理软件输送管道:范围要求,实施变更,运行测试,以及带有确定QA和综艺码审查的闸机拉动请求. <sub>⭐ 146 · Python</sub>
+- [Paulescu/bytewax-hopsworks-example](https://github.com/Paulescu/bytewax-hopsworks-example) - 使用 Bytwax (流处理) 和 Hopsworks (Feature Store) 计算和存储加密交易的实时特性 <sub>⭐ 146 · Python</sub>
+- [FareedKhan-dev/best-llm-finder-pipeline](https://github.com/FareedKhan-dev/best-llm-finder-pipeline) - 代理RAG,多代理系统,和Vision Reasoning 是三条管道 寻找完美的LLM <sub>⭐ 143 · Jupyter Notebook</sub>
 - [beava-dev/beava](https://github.com/beava-dev/beava) - 实时决策功能不流于以下. 将直播事件转化为产品反射——没有卡夫卡,没有Flink,没有特色商店. <sub>⭐ 138 · Rust</sub>
-- [matt-k-wong/mlx-flash](https://github.com/matt-k-wong/mlx-flash) - Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon. <sub>⭐ 137 · Python</sub>
-- [Paulescu/build-and-deploy-real-time-feature-pipeline](https://github.com/Paulescu/build-and-deploy-real-time-feature-pipeline) - Develop and deploy a real-time feature pipeline in Python, using Bytewax and Hopsworks Feature Store. <sub>⭐ 137 · Python</sub>
-- [YuhangWuAI/tablerag](https://github.com/YuhangWuAI/tablerag) - made RAG pipeline better in table data <sub>⭐ 132 · Python</sub>
-- [agutinbaigo28/financial-agent-api](https://github.com/agutinbaigo28/financial-agent-api) - financial agent api with multi-agent framework for scalable AI systems focusing on financial intelligence, RAG pipelines, observability, and secure governance. ACP Openclaw, Gemini CLI, Opencode <sub>⭐ 128 · TypeScript</sub>
-- [FareedKhan-dev/deep-thinking-rag](https://github.com/FareedKhan-dev/deep-thinking-rag) - A Deep Thinking RAG Pipeline to Solve Complex Queries <sub>⭐ 128 · Jupyter Notebook</sub>
-- [SRINATH-GITHU/ragkitpy](https://github.com/SRINATH-GITHU/ragkitpy) - A lightweight RAG pipeline toolkit powered by HuggingFace <sub>⭐ 125 · Python</sub>
-- [anam-org/metaxy](https://github.com/anam-org/metaxy) - Pluggable metadata management framework for versioned incremental multimodal data/ML pipelines. <sub>⭐ 124 · Python</sub>
-- [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) - Collection of Claude Skills for DSPy framework - program language models, optimize prompts, and build RAG pipelines systematically <sub>⭐ 124 · Python</sub>
-- [ibm-self-serve-assets/SuperKnowa](https://github.com/ibm-self-serve-assets/SuperKnowa) - Build Enterprise RAG (Retriver Augmented Generation) Pipelines to tackle various Generative AI use cases with LLM's by simply plugging componants like Lego pieces. <sub>⭐ 118 · Jupyter Notebook</sub>
-- [hanyeol/model-compose](https://github.com/hanyeol/model-compose) - Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Compose 100+ components for models, agents, speech, vision, and live broadcast. Run… <sub>⭐ 117 · Python</sub>
-- [Kain-90/RAG-Play](https://github.com/Kain-90/RAG-Play) - An interactive visualization tool for understanding Retrieval-Augmented Generation (RAG) pipelines. <sub>⭐ 114 · TypeScript</sub>
-- [AdyTech99/volo](https://github.com/AdyTech99/volo) - An F/OSS solution combining AI with Wikipedia knowledge via a RAG pipeline <sub>⭐ 110 · Python</sub>
-- [anakin87/mistral-haystack](https://github.com/anakin87/mistral-haystack) - Mistral + Haystack: build RAG pipelines that rock <sub>⭐ 107 · Jupyter Notebook</sub>
-- [deepsense-ai/edge-slm](https://github.com/deepsense-ai/edge-slm) - This project is a native implementation of a RAG pipeline for Small Language Models tested on Android devices. The main goal was to fit the whole RAG pipeline into a resource constrained device - ie.… <sub>⭐ 106 · C++</sub>
-- [formlio/forml](https://github.com/formlio/forml) - ForML - A development framework and MLOps platform for the lifecycle management of data science projects <sub>⭐ 106 · Python</sub>
-- [daly2211/autoretrieval](https://github.com/daly2211/autoretrieval) - AI agent autonomously optimizing RAG retrieval pipelines against your own documents <sub>⭐ 105 · Python</sub>
-- [agentii-ai/DocMeld](https://github.com/agentii-ai/DocMeld) - Lightweight Doc-to-agent-ready knowledge pipeline. Three-stage Bronze→Silver→Gold architecture extracts structured elements, page content, and AI-enriched metadata from research papers and books.… <sub>⭐ 102 · Python</sub>
-- [ion-elgreco/rivers](https://github.com/ion-elgreco/rivers) - Rivers is an orchestration platform for data and ML pipelines, written in Rust for native performance with a Python-first development experience. <sub>⭐ 102 · Rust</sub>
-- [led829155-droid/RecSys-MLops](https://github.com/led829155-droid/RecSys-MLops) - Production-style end-to-end e-commerce recommendation platform with data engineering, MLOps, serving, governance, and observability on Kubernetes. <sub>⭐ 99 · Python</sub>
-- [Addepto/contextcheck](https://github.com/Addepto/contextcheck) - MIT-licensed Framework for LLMs, RAGs, Chatbots testing. Configurable via YAML and integrable into CI pipelines for automated testing. <sub>⭐ 97 · Python</sub>
-- [FareedKhan-dev/temporal-ai-agent-pipeline](https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline) - Optimizing Dynamic Knowledge Base Using AI Agent <sub>⭐ 97 · Jupyter Notebook</sub>
-- [holdenk/spark-structured-streaming-ml](https://github.com/holdenk/spark-structured-streaming-ml) - Structured Streaming Machine Learning example with Spark 2.0 <sub>⭐ 96 · Scala</sub>
-- [josephleblanc/ploke](https://github.com/josephleblanc/ploke) - A Terminal User Interface for AI collaboration on code, using a Retrieval-Augmented Generation (RAG) pipeline designed specifically for Rust code generation and refactoring. <sub>⭐ 95 · Rust</sub>
-- [featurestorebook/mlfs-book](https://github.com/featurestorebook/mlfs-book) - O'Reilly book - Building Machine Learning Systems with a feature store: batch, real-time, and LLMs <sub>⭐ 94 · Jupyter Notebook</sub>
-- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go (and Rust). <sub>⭐ 93 · Go</sub>
-- [jomariya23156/sales-forecast-mlops-at-scale](https://github.com/jomariya23156/sales-forecast-mlops-at-scale) - Full-stack Highly Scalable Cloud-native Machine Learning system for demand forecasting with realtime data streaming, inference, retraining loop, and more <sub>⭐ 91 · Jupyter Notebook</sub>
-- [AI-ANK/RAGArch](https://github.com/AI-ANK/RAGArch) - RAGArch is a Streamlit-based application that empowers users to experiment with various components and parameters of Retrieval-Augmented Generation (RAG) pipelines. Utilizing the power of Llamaindex… <sub>⭐ 88 · Python</sub>
-- [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference) - A project to demonstrate an approach to designing cross-language and distributed pipeline in deep learning/machine learning domain, using WebRTC and Redis Streams. <sub>⭐ 86 · Go</sub>
-- [speedyk-005/chunklet-py](https://github.com/speedyk-005/chunklet-py) - One library to split them all: Sentence, Code, Docs. Chunk smarter, not harder; built for LLMs, RAG pipelines, and beyond. <sub>⭐ 86 · Python</sub>
-- [hoangsonww/Agentic-AI-Pipeline](https://github.com/hoangsonww/Agentic-AI-Pipeline) - A production‑ready research outreach AI agent that plans, discovers, reasons, uses tools, auto‑builds cited briefings, and drafts tailored emails with tool‑chaining, memory, tests, and turnkey… <sub>⭐ 85 · Python</sub>
-- [Vivek-736/Repo-Mind](https://github.com/Vivek-736/Repo-Mind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures… <sub>⭐ 85 · TypeScript</sub>
-- [jaityron/new-pac-wiki](https://github.com/jaityron/new-pac-wiki) - Home · Alvin9999/new-pac Wiki Skip to content Alvin9999 / new-pac --> In this repository All GitHub ↵ Jump to ↵ No suggested jump to results In this repository All GitHub ↵ Jump to ↵ In this… <sub>⭐ 84</sub>
-- [Aryan-Pardeshi/DeepResearch_AI](https://github.com/Aryan-Pardeshi/DeepResearch_AI) - AI research workspace with two modes — DeepSearch turns a query into a cited web report in ~2 min; Research Mode runs a 25-agent pipeline that writes a full academic paper (PRISMA diagram, verified… <sub>⭐ 83 · Python</sub>
-- [TilmanLudewigtHaufe/GraphAugmented-Legal-RAG](https://github.com/TilmanLudewigtHaufe/GraphAugmented-Legal-RAG) - Create a knowledge graph out of unstructed legal text - use said knowledge graph in a graph augmented retrieval augmented generation pipeline <sub>⭐ 82 · Python</sub>
-- [aporia-ai/inferencedb](https://github.com/aporia-ai/inferencedb) - Stream inferences of real-time ML models in production to any data lake (Experimental) <sub>⭐ 81 · Python</sub>
-- [hoorangyee/LRAGE](https://github.com/hoorangyee/LRAGE) - A framework for evaluating RAG pipelines, specifically adapted for the legal domain. <sub>⭐ 81 · Python</sub>
-- [apify/actor-rag-web-browser](https://github.com/apify/actor-rag-web-browser) - RAG Web Browser is an Apify Actor to feed your LLM applications and RAG pipelines with up-to-date text content scraped from the web. <sub>⭐ 80 · TypeScript</sub>
-- [PangHu1020/scholar-rag](https://github.com/PangHu1020/scholar-rag) - A beginner-friendly and extensible Agentic RAG project that demonstrates the full pipeline of document parsing, retrieval, reranking, workflow orchestration, tool calling, and answer generation… <sub>⭐ 80 · Python</sub>
-- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - What is C#? C# is pronounced "C-Sharp". It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the language is close… <sub>⭐ 80</sub>
-- [pixegami/simple-rag-pipeline](https://github.com/pixegami/simple-rag-pipeline) - A simple RAG pipeline that you can use as a starting point for learning about RAG (retrieval augmented generation). <sub>⭐ 77 · Python</sub>
-- [uio-bmi/immuneML](https://github.com/uio-bmi/immuneML) - immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data. <sub>⭐ 76 · Python</sub>
-- [jaschadub/VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) - Research framework that quantifies how steganographic obfuscation of embeddings defeats off-the-shelf statistical detection in RAG pipelines, paired with the VectorPin cryptographic-provenance defense <sub>⭐ 74 · Python</sub>
-- [pipixin321/Awesome-Video-MLLMs](https://github.com/pipixin321/Awesome-Video-MLLMs) - Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding <sub>⭐ 74</sub>
-- [crux-ecosystem/mol-lang](https://github.com/crux-ecosystem/mol-lang) - MOL — The cognitive programming language with auto-tracing pipelines. Built for AI/RAG by CruxLabx. <sub>⭐ 73 · Python</sub>
-- [X0U8/Gixplay](https://github.com/X0U8/Gixplay) - Gixplay — A beautiful, ad-free Web & Android Native music player featuring Background Playback (available on googleplay store), Live Discord RPC, AI Recommendations & Auto-Categorization, Synced… <sub>⭐ 72</sub>
-- [Vaquill-AI/open-us-law](https://github.com/Vaquill-AI/open-us-law) - Open, structured corpus of US primary law: 2M+ sections of state statutory codes, the US Code, and state constitutions, plus the ingestion pipeline that builds it. Data on Hugging Face (CC BY 4.0)… <sub>⭐ 70 · Python</sub>
+- [matt-k-wong/mlx-flash](https://github.com/matt-k-wong/mlx-flash) - MLX的闪光重量流:运行比苹果硅上的内存更大的大规模模型. <sub>⭐ 137 · Python</sub>
+- [Paulescu/build-and-deploy-real-time-feature-pipeline](https://github.com/Paulescu/build-and-deploy-real-time-feature-pipeline) - 在Python开发并部署一个实时特性管道,使用Bytewax和Hopsworks Feature Store. <sub>⭐ 137 · Python</sub>
+- [YuhangWuAI/tablerag](https://github.com/YuhangWuAI/tablerag) - 使表格数据中的RAG管道更好 <sub>⭐ 132 · Python</sub>
+- [agutinbaigo28/financial-agent-api](https://github.com/agutinbaigo28/financial-agent-api) - 金融代理人具有可扩展AI系统的多代理框架,侧重于金融情报、RAG管道、可观察性和安全治理。 <sub>⭐ 128 · TypeScript</sub>
+- [FareedKhan-dev/deep-thinking-rag](https://github.com/FareedKhan-dev/deep-thinking-rag) - 解决复杂问题深思熟虑的RAG管道 <sub>⭐ 128 · Jupyter Notebook</sub>
+- [SRINATH-GITHU/ragkitpy](https://github.com/SRINATH-GITHU/ragkitpy) - 一个轻量级的RAG管道工具箱 由HuggingFace供电 <sub>⭐ 125 · Python</sub>
+- [anam-org/metaxy](https://github.com/anam-org/metaxy) - 用于版本增量多式联运数据/ML管道的可插件元数据管理框架。 <sub>⭐ 124 · Python</sub>
+- [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) - 收集 Claude 技能用于 DSPy 框架 - 程序语言模型,优化提示,并系统构建 RAG 管道 <sub>⭐ 124 · Python</sub>
+- [ibm-self-serve-assets/SuperKnowa](https://github.com/ibm-self-serve-assets/SuperKnowa) - Build Entertainment RAG(Retriver Agamented Generative Center)管道通过简单的插入像乐高棋子这样的配体来解决各种Generative AI使用LM的病例. <sub>⭐ 118 · Jupyter Notebook</sub>
+- [hanyeol/model-compose](https://github.com/hanyeol/model-compose) - 在一个 YAML 文件内声明 AI 管道。 磁盘、 音频块和视频帧在孤立组件之间流动。 为模型、 代理、 语音、 视觉和直播编译 100+ 组件。 运行... <sub>⭐ 117 · Python</sub>
+- [Kain-90/RAG-Play](https://github.com/Kain-90/RAG-Play) - 用于理解检索-增强生成(RAG)管道的交互式可视化工具. <sub>⭐ 114 · TypeScript</sub>
+- [AdyTech99/volo](https://github.com/AdyTech99/volo) - 通过RAG管道将AI与维基百科知识相结合的F/OSS解决方案 <sub>⭐ 110 · Python</sub>
+- [anakin87/mistral-haystack](https://github.com/anakin87/mistral-haystack) - 米斯特拉尔+海斯塔克:建造摇晃的RAG管道 <sub>⭐ 107 · Jupyter Notebook</sub>
+- [deepsense-ai/edge-slm](https://github.com/deepsense-ai/edge-slm) - 该项目是Android设备上测试的小语言模型RAG管道的本土实施,主要目标是将整个RAG管道装入资源受限的设备-e. <sub>⭐ 106 · C++</sub>
+- [formlio/forml](https://github.com/formlio/forml) - ForML - 数据科学项目生命周期管理的发展框架和MLOPS平台 <sub>⭐ 106 · Python</sub>
+- [daly2211/autoretrieval](https://github.com/daly2211/autoretrieval) - AI 代理自动优化针对您自己的文档的RAG检索管道 <sub>⭐ 105 · Python</sub>
+- [agentii-ai/DocMeld](https://github.com/agentii-ai/DocMeld) - 轻量级 Doc- agent- ready 知识管道. 三阶段青铜 _银 _金刚架构从研究论文和书籍中提取结构元素,页面内容,以及AI-浓缩元数据. <sub>⭐ 102 · Python</sub>
+- [ion-elgreco/rivers](https://github.com/ion-elgreco/rivers) - 里弗斯(Rivers)是一个用于数据和ML管道的管弦乐平台,用Rust写成,为具有Python-First开发经验的本土性能. <sub>⭐ 102 · Rust</sub>
+- [led829155-droid/RecSys-MLops](https://github.com/led829155-droid/RecSys-MLops) - 生产风格的端对端电子商务推荐平台有数据工程,MLOPS,服务,治理,库伯涅茨的可观察性. <sub>⭐ 99 · Python</sub>
+- [Addepto/contextcheck](https://github.com/Addepto/contextcheck) - 麻省理工学院为LLMS,RAGs,Chatbots测试颁发许可证的框架. Configure通过YAML并整合到CI管道中进行自动化测试. <sub>⭐ 97 · Python</sub>
+- [FareedKhan-dev/temporal-ai-agent-pipeline](https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline) - 利用AI代理优化动态知识库 <sub>⭐ 97 · Jupyter Notebook</sub>
+- [holdenk/spark-structured-streaming-ml](https://github.com/holdenk/spark-structured-streaming-ml) - 结构化 Streaming 机器学习实例, 包含 Spark 2. 0 <sub>⭐ 96 · Scala</sub>
+- [josephleblanc/ploke](https://github.com/josephleblanc/ploke) - 用于代码上的AI合作的终端用户界面,使用一个专门为Rust代码生成和重构设计的检索增强生成(RAG)管道. <sub>⭐ 95 · Rust</sub>
+- [featurestorebook/mlfs-book](https://github.com/featurestorebook/mlfs-book) - O'Reilly book - 搭建有特色商店的机器学习系统:批量、实时和LLMS <sub>⭐ 94 · Jupyter Notebook</sub>
+- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - 轻量级和快质店由Go(和Rust)提供动力. <sub>⭐ 93 · Go</sub>
+- [jomariya23156/sales-forecast-mlops-at-scale](https://github.com/jomariya23156/sales-forecast-mlops-at-scale) - 使用实时数据流、推论、再培训循环以及更多系统进行需求预测的全层高可扩展云内机器学习系统 <sub>⭐ 91 · Jupyter Notebook</sub>
+- [AI-ANK/RAGArch](https://github.com/AI-ANK/RAGArch) - RAGarch是一个基于Streamlit的应用程序,它赋予用户对 Retrival-Augmented Generation(RAG)管道的各种组件和参数进行实验的权力. 利用Llamaindex的功率... <sub>⭐ 88 · Python</sub>
+- [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference) - 利用WebRTC和Redis Streams项目,展示在深层学习/机器学习领域设计跨语言和分布式管道的方法。 <sub>⭐ 86 · Go</sub>
+- [speedyk-005/chunklet-py](https://github.com/speedyk-005/chunklet-py) - 一个图书馆可以把它们都拆分: 句子、代码、文件。 Chunk 更聪明,而不是更难; 为 LLMS 、 RAG 管道和更多。 <sub>⭐ 86 · Python</sub>
+- [hoangsonww/Agentic-AI-Pipeline](https://github.com/hoangsonww/Agentic-AI-Pipeline) - 制作者已经准备好研究推广的AI代理 <sub>⭐ 85 · Python</sub>
+- [Vivek-736/Repo-Mind](https://github.com/Vivek-736/Repo-Mind) - RepoMind 是用于现代代码库的AI动力文档生成器,帮助开发者更快地理解任何GitHub寄存器. 它分析工程架构,文件夹结构... <sub>⭐ 85 · TypeScript</sub>
+- [jaityron/new-pac-wiki](https://github.com/jaityron/new-pac-wiki) - 主机 ^ Alvin9999/ new-pac 维基跳转到内容 Alvin9999 / new-pac - > 在本寄存器中, All GitHub → Jump to → 没有推荐的跳转到结果在此寄存器中 All GitHub → Jump to → 在此... <sub>⭐ 84</sub>
+- [Aryan-Pardeshi/DeepResearch_AI](https://github.com/Aryan-Pardeshi/DeepResearch_AI) - AI 研究工作空间有两种模式——DeepSearch将查询转换为引用的网络报告,时间为~2分钟;Research Mode 运行一个25个代理管道,负责撰写完整的学术论文(PRISMA图,校验. <sub>⭐ 83 · Python</sub>
+- [TilmanLudewigtHaufe/GraphAugmented-Legal-RAG](https://github.com/TilmanLudewigtHaufe/GraphAugmented-Legal-RAG) - 用未构建的法律文本创建一个知识图 - 在图表中使用所描述的知识图 增加检索 增加生成管道 <sub>⭐ 82 · Python</sub>
+- [aporia-ai/inferencedb](https://github.com/aporia-ai/inferencedb) - 生产中实时ML模型对任何数据湖的流推论(经验) <sub>⭐ 81 · Python</sub>
+- [hoorangyee/LRAGE](https://github.com/hoorangyee/LRAGE) - 评估RAG管道的框架,特别适合法律领域。 <sub>⭐ 81 · Python</sub>
+- [apify/actor-rag-web-browser](https://github.com/apify/actor-rag-web-browser) - RAG Web浏览器是一个辅助操作器,用于为您的 LLM 应用程序和RAG 管道提供从网络中刮去的最新文本内容. <sub>⭐ 80 · TypeScript</sub>
+- [PangHu1020/scholar-rag](https://github.com/PangHu1020/scholar-rag) - 一个方便初学者和可扩展的 Agentic RAG 项目,它展示了文件解析,检索,重新排位,工作流程的编组,工具调用,以及答题生成的全部管道. . <sub>⭐ 80 · Python</sub>
+- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - C#是什么?C#是发音"C-Sharp",是一种由微软创建的面向对象的编程语言,运行在.NET框架上.C#有来自C家族的根基,语言接近...... <sub>⭐ 80</sub>
+- [pixegami/simple-rag-pipeline](https://github.com/pixegami/simple-rag-pipeline) - 一个简单的RAG管道,可以用作学习RAG(检索增强生成)的起点. <sub>⭐ 77 · Python</sub>
+- [uio-bmi/immuneML](https://github.com/uio-bmi/immuneML) - 免疫ML是一个对适应性免疫受体全程数据进行机器学习分析的平台. <sub>⭐ 76 · Python</sub>
+- [jaschadub/VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) - 将嵌入物的素谱模糊性量化的研究框架在RAG输油管中如何挫败现成的统计检测,与矢量Pin加密-验证防御配合 <sub>⭐ 74 · Python</sub>
+- [pipixin321/Awesome-Video-MLLMs](https://github.com/pipixin321/Awesome-Video-MLLMs) - 超强MLLM/Benchmarks,用于短/长/硬视频理解 <sub>⭐ 74</sub>
+- [crux-ecosystem/mol-lang](https://github.com/crux-ecosystem/mol-lang) - MOL — 带有自动跟踪管道的认知编程语言. CruxLabx为AI/RAG所建. <sub>⭐ 73 · Python</sub>
+- [X0U8/Gixplay](https://github.com/X0U8/Gixplay) - Gixplay——一个美丽,无广告的Web & Android原生音乐播放器,主要播放背景回放(可在googleplay商店获得),Live Discord RPC,AI Agreements & Auto-Categorization,Synced... <sub>⭐ 72</sub>
+- [Vaquill-AI/open-us-law](https://github.com/Vaquill-AI/open-us-law) - 美国初级法律的开放式、结构化的汇编:州法典、美国法典和州宪法中的2M+部分,加上建造该法典的摄入管道。 <sub>⭐ 70 · Python</sub>
 
 ## ✅ 质量与合成数据
 
 > 校验、可观测性和合成数据生成。
 
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. <sub>⭐ 77.0k · TypeScript</sub>
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format <sub>⭐ 28.4k · TypeScript</sub>
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python. <sub>⭐ 24.0k · Python</sub>
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. <sub>⭐ 22.7k · Rust</sub>
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <sub>⭐ 11.7k · Python</sub>
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with… <sub>⭐ 10.6k · Python</sub>
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic. <sub>⭐ 7.1k · Rust</sub>
-- [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision <sub>⭐ 6.0k · Python</sub>
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. <sub>⭐ 5.2k · Python</sub>
-- [HumanSignal/awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) - A curated list of awesome data labeling tools <sub>⭐ 4.4k</sub>
-- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and… <sub>⭐ 4.1k · Python</sub>
-- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent <sub>⭐ 3.8k · Go</sub>
-- [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition <sub>⭐ 3.7k · Python</sub>
-- [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data <sub>⭐ 3.6k · Python</sub>
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!! <sub>⭐ 3.5k · Python</sub>
-- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of… <sub>⭐ 3.4k</sub>
-- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems… <sub>⭐ 2.5k · Rust</sub>
-- [hitsz-ids/synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - SDG is a specialized framework designed to generate high-quality structured tabular data. <sub>⭐ 2.4k · Python</sub>
-- [NVIDIA-NeMo/DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data. <sub>⭐ 2.3k · Python</sub>
-- [opendatalab/DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) - DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception <sub>⭐ 2.3k · Python</sub>
-- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app. <sub>⭐ 2.1k · JavaScript</sub>
-- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing… <sub>⭐ 1.9k · Python</sub>
-- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. <sub>⭐ 1.9k · TypeScript</sub>
-- [simonlin1212/global-stock-data](https://github.com/simonlin1212/global-stock-data) - US stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-wide… <sub>⭐ 1.7k</sub>
-- [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) - Synthetic data generators for tabular and time-series data <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [meta-llama/synthetic-data-kit](https://github.com/meta-llama/synthetic-data-kit) - Tool for generating high quality Synthetic datasets <sub>⭐ 1.6k · Python</sub>
-- [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework <sub>⭐ 1.6k · Python</sub>
-- [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - Conditional GAN for generating synthetic tabular data. <sub>⭐ 1.6k · Python</sub>
-- [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - A reading list on LLM based Synthetic Data Generation <sub>⭐ 1.6k</sub>
-- [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact. <sub>⭐ 1.5k · Python</sub>
-- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM. <sub>⭐ 1.3k · TypeScript</sub>
-- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation <sub>⭐ 1.2k · Python</sub>
-- [datadreamer-dev/DataDreamer](https://github.com/datadreamer-dev/DataDreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models. <sub>⭐ 1.1k · Python</sub>
-- [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) - A curated collection of free, high quality AI tools , APIs , datasets , and learning resources covering machine learning , deep learning , generative AI , NLP , and data science . Designed to help… <sub>⭐ 911</sub>
-- [thu-vu92/local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data. <sub>⭐ 877 · Jupyter Notebook</sub>
-- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Explore and understand your training and validation data. <sub>⭐ 854 · Python</sub>
-- [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT. <sub>⭐ 828 · Python</sub>
-- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - Verbalized Sampling, a training-free prompting strategy to mitigate mode collapse in LLMs by requesting responses with probabilities. Achieves 2-3x diversity improvement while maintaining quality.… <sub>⭐ 813 · Python</sub>
-- [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic Data SDK <sub>⭐ 802 · Python</sub>
+- [grafana/grafana](https://github.com/grafana/grafana) - 开放且可堆叠的可观察性和数据可视化平台. 可视化来自普罗米修斯,洛基,弹性搜索,InfluxDB,Postgres等多个来源的度量衡,日志和痕迹等等. <sub>⭐ 77.0k · TypeScript</sub>
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - 标签工作室是一个多类型数据标签和注释工具,具有标准化输出格式 <sub>⭐ 28.4k · TypeScript</sub>
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - 县管线(Prefect)是一个用于在Python建设具有弹性的数据管道的工作流程管线框架. <sub>⭐ 24.0k · Python</sub>
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - 高性能可观察数据管道. <sub>⭐ 22.7k · Rust</sub>
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab的开源库是数据质量和机器学习的标准数据中心AI包,带有杂乱,现实世界的数据和标签. <sub>⭐ 11.7k · Python</sub>
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling:一个轻量级,高效,统一的跨平台桌面应用程序,用于注释文本,图像,视频,和多模式数据,将多功能内置工具与. <sub>⭐ 10.6k · Python</sub>
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano是用于代理应用程序的AI-native代理服务器和数据平面. Smart LLM 路由,可观察性,代理管弦,以及守护器,所以你继续专注于你的代理核心逻辑. <sub>⭐ 7.1k · Rust</sub>
+- [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - 在监督不力的情况下迅速生成培训数据的系统 <sub>⭐ 6.0k · Python</sub>
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - 构建、评价和优化AI系统。包括evals、RAG、代理、微调、合成数据生成、数据集管理、MCP等。 <sub>⭐ 5.2k · Python</sub>
+- [HumanSignal/awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) - 令人惊叹的数据标签工具目录 <sub>⭐ 4.4k</sub>
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - 深度检查: 持续验证 ML 模型和数据的测试. Deepchecks 是针对您所有AI & ML 验证需要的全方位开源解决方案,能够彻底测试您的数据和. <sub>⭐ 4.1k · Python</sub>
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - 数据犬代理主仓库 <sub>⭐ 3.8k · Go</sub>
+- [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - 用于文本识别的合成数据生成器 <sub>⭐ 3.7k · Python</sub>
+- [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - 表格数据合成数据生成 <sub>⭐ 3.6k · Python</sub>
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - 由YOLO支持的无力AI辅助数据标签,分段 Anything(SAM+SAM2/2.1+SAM3), MobileSAM! <sub>⭐ 3.5k · Python</sub>
+- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA疫苗已成为克服当前流行病和许多其他公共卫生和医疗挑战所带来的挑战的一个关键工具。 <sub>⭐ 3.4k</sub>
+- [google-research/kubric](https://github.com/google-research/kubric) - 用于创建半现实合成多对象视频的数据生成管道,其中包含丰富的说明,如实例分解口罩,深度图,以及光学流. <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - 解析器是一个开源的,统一的基础设施可观察性平台,在数据湖架构上建于Rust。它跟踪日志、度量衡、痕迹以及跨应用程序、代理和系统的事件... <sub>⭐ 2.5k · Rust</sub>
+- [hitsz-ids/synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - SDG是一个专门框架,旨在生成高质量的结构化表格数据. <sub>⭐ 2.4k · Python</sub>
+- [NVIDIA-NeMo/DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - NeMo数据设计师:从零开始或从种子数据生成高质量的合成数据. <sub>⭐ 2.3k · Python</sub>
+- [opendatalab/DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) - DocLayout-YOLO:通过多元合成数据和全局到局部适应感增强文档布局分析 <sub>⭐ 2.3k · Python</sub>
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - 在一个简单的网络界面或桌面应用程序中,合作并标签任何类型的数据、图像、文本或文档。 <sub>⭐ 2.1k · JavaScript</sub>
+- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup是一个强大,自由的工具,旨在从图像和视频数据集中迅速产生有价值的洞察力,它有助于提高图像和标签的质量,同时显著降低. <sub>⭐ 1.9k · Python</sub>
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 运行克劳德代码,双子座,Codex——或任何编码代理——在一个干净,孤立的沙盒中,有敏感的数据编辑和可观察性烤入. <sub>⭐ 1.9k · TypeScript</sub>
+- [simonlin1212/global-stock-data](https://github.com/simonlin1212/global-stock-data) - 美国股票市场数据用于AI编码助理——0-auth,官方来源. CBOE选项 满希腊人+0DTE流量,FINRA全市短量,SEC EDGAR备案流,以及全市自由... <sub>⭐ 1.7k</sub>
+- [Data-Centric-AI-Community/fg-data-synthetic](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) - 表格和时间序列数据合成数据生成器 <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [meta-llama/synthetic-data-kit](https://github.com/meta-llama/synthetic-data-kit) - 生成高质量合成数据集的工具 <sub>⭐ 1.6k · Python</sub>
+- [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala:自主Data(标签)代理框架 <sub>⭐ 1.6k · Python</sub>
+- [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - 生成合成表型数据的有条件GAN. <sub>⭐ 1.6k · Python</sub>
+- [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - 基于 LLM 的合成数据生成读取列表 <sub>⭐ 1.6k</sub>
+- [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - 数据科学家对自然语言数据进行规模化,评估和维护的开源选择. 将培训数据像软件文物一样对待. <sub>⭐ 1.5k · Python</sub>
+- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1是用于多式联运数据培训的全元数据标签和注释平台,并支持3D LiDAR点云,图像,以及LLM. <sub>⭐ 1.3k · TypeScript</sub>
+- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - 图Gen: 增强对具有知识驱动合成数据生成功能的 LLMs 的监督精细调试 <sub>⭐ 1.2k · Python</sub>
+- [datadreamer-dev/DataDreamer](https://github.com/datadreamer-dev/DataDreamer) - DataDreamer: Point. 生成合成数据, 列车和对齐模型 。 <sub>⭐ 1.1k · Python</sub>
+- [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) - 由免费、高品质的AI工具、API、数据集和学习资源组成,涵盖机器学习、深层学习、基因AI、NLP和数据科学。 <sub>⭐ 911</sub>
+- [thu-vu92/local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - 在这个项目中,我探索了如何使用本地的LLMs来标记数据和支持分析。 具体而言,我用Llama2模型来自动分类我的银行交易数据。 <sub>⭐ 877 · Jupyter Notebook</sub>
+- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - 探索和理解您的培训和验证数据。 <sub>⭐ 854 · Python</sub>
+- [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - 一个轻量级库,用于为您生成不带GPT的数据的合成指令调制数据集。 <sub>⭐ 828 · Python</sub>
+- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - 虚拟采样(Verbalized Sampling),是一种无培训的激励策略,通过请求概率反应来缓解LLMs模式崩溃.在保持质量的同时实现2-3x多样性的改善. <sub>⭐ 813 · Python</sub>
+- [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - 合成数据 SDK <sub>⭐ 802 · Python</sub>
 - [MigoXLab/dingo](https://github.com/MigoXLab/dingo) - Dingo:一个综合AI数据,模型和应用质量评价工具 <sub>⭐ 757 · Python</sub>
-- [zenml-io/awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation) - Open Source Data Annotation & Labeling Tools <sub>⭐ 730</sub>
-- [databufflabs/databuff](https://github.com/databufflabs/databuff) - DataBuff is an AI-native APM built on Opentelemetry，with multi-agent troubleshooting out of the box. <sub>⭐ 691 · Java</sub>
-- [vanderschaarlab/synthcity](https://github.com/vanderschaarlab/synthcity) - A library for generating and evaluating synthetic tabular data for privacy, fairness and data augmentation. <sub>⭐ 687 · Python</sub>
-- [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry <sub>⭐ 683 · Go</sub>
-- [syncora-ai/syncora-benchmarks](https://github.com/syncora-ai/syncora-benchmarks) - A lightweight, plug‑and‑play benchmark kit for synthetic data. Compare Syncora against other generators (e.g., Gretel, MostlyAI) by dropping in CSVs, then auto‑compute fidelity and similarity… <sub>⭐ 674 · Jupyter Notebook</sub>
-- [probabl-ai/skore](https://github.com/probabl-ai/skore) - Track your Data Science. Skore's open-source Python library accelerates ML model development with automated evaluation reports, smart methodological guidance, and comprehensive cross-validation… <sub>⭐ 670 · Python</sub>
-- [syncora-ai/synthetic-personality-dataset](https://github.com/syncora-ai/synthetic-personality-dataset) - Synthetic dataset and notebooks for introvert vs. extrovert personality modeling (privacy-safe, ML-ready). <sub>⭐ 667 · Jupyter Notebook</sub>
-- [syncora-ai/Synthetic-AI-Developer-Productivity-Dataset](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset) - High-fidelity synthetic dataset capturing AI developer productivity metrics — including focus hours, task completion rates, and burnout indicators. Privacy-safe, ideal for ML and workflow analytics. <sub>⭐ 658 · Jupyter Notebook</sub>
-- [cvhciKIT/sloth](https://github.com/cvhciKIT/sloth) - Sloth is a tool for labeling image and video data for computer vision research. <sub>⭐ 610 · Python</sub>
-- [pracdata/awesome-open-source-data-engineering](https://github.com/pracdata/awesome-open-source-data-engineering) - A curated list of open source tools used in analytics platforms and data engineering ecosystem <sub>⭐ 605</sub>
-- [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) - BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability. <sub>⭐ 604 · Go</sub>
-- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured… <sub>⭐ 561 · Python</sub>
-- [nv-tlabs/Cosmos-Drive-Dreams](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) - Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models <sub>⭐ 544 · Jupyter Notebook</sub>
-- [menyifang/En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data", CVPR 2024; 3D Avatar Generation and Animation <sub>⭐ 543 · Python</sub>
-- [Cartucho/vision_blender](https://github.com/Cartucho/vision_blender) - A Blender addon for generating synthetic ground truth data for Computer Vision applications <sub>⭐ 529 · Python</sub>
-- [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data <sub>⭐ 527 · Jupyter Notebook</sub>
-- [VikParuchuri/textbook_quality](https://github.com/VikParuchuri/textbook_quality) - Generate textbook-quality synthetic LLM pretraining data <sub>⭐ 507 · Python</sub>
-- [pengr/LLM-Synthetic-Data](https://github.com/pengr/LLM-Synthetic-Data) - A live reading list for LLM data synthesis (Updated to July, 2025). <sub>⭐ 494</sub>
-- [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords) - Chat with your data - with memory, rules, and observability built in. Deploy in 2 minutes <sub>⭐ 458 · Python</sub>
-- [F2Wang/ObjectDatasetTools](https://github.com/F2Wang/ObjectDatasetTools) - Tools to create pixel-wise object masks, bounding box labels (2D and 3D) and 3D object model (PLY triangle mesh) for object sequences filmed with an RGB-D camera. This project prepares training and… <sub>⭐ 450 · Python</sub>
-- [wenbowen123/iros20-6d-pose-tracking](https://github.com/wenbowen123/iros20-6d-pose-tracking) - (IROS 2020) se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains <sub>⭐ 424 · Python</sub>
-- [PKU-EPIC/GraspVLA](https://github.com/PKU-EPIC/GraspVLA) - (CoRL25) GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data <sub>⭐ 419 · Python</sub>
-- [alibaba/UnifiedModel](https://github.com/alibaba/UnifiedModel) - The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry, services, and business objects in one… <sub>⭐ 411 · Go</sub>
-- [IBM/AMLSim](https://github.com/IBM/AMLSim) - The AMLSim project is intended to provide a multi-agent based simulator that generates synthetic banking transaction data together with a set of known money laundering patterns - mainly for the… <sub>⭐ 399 · Python</sub>
-- [vinbigdata-medical/vindr-lab](https://github.com/vinbigdata-medical/vindr-lab) - A Data Platform for Medical AI that enables building high-quality datasets and algorithms with lean process and advanced annotation features. <sub>⭐ 377</sub>
-- [milaan9/Clustering-Datasets](https://github.com/milaan9/Clustering-Datasets) - This repository contains the collection of UCI (real-life) datasets and Synthetic (artificial) datasets (with cluster labels and MATLAB files) ready to use with clustering algorithms. <sub>⭐ 359</sub>
-- [0ssamaak0/DLTA-AI](https://github.com/0ssamaak0/DLTA-AI) - Data Labeling, Tracking and Annotation with AI <sub>⭐ 357 · Python</sub>
-- [Project-AgML/AgML](https://github.com/Project-AgML/AgML) - AgML is a centralized framework for agricultural machine learning. AgML provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and… <sub>⭐ 346 · Python</sub>
-- [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - awesome synthetic (text) datasets <sub>⭐ 342 · Jupyter Notebook</sub>
-- [TianzhongSong/awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText) - A curated list of awesome synthetic data for text location and recognition <sub>⭐ 337</sub>
-- [syncora-ai/uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation) - Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving… <sub>⭐ 331</sub>
-- [Unity-Technologies/PeopleSansPeople](https://github.com/Unity-Technologies/PeopleSansPeople) - Unity's privacy-preserving human-centric synthetic data generator <sub>⭐ 330 · C#</sub>
-- [phurwicz/hover](https://github.com/phurwicz/hover) - Label data at scale. Fun and precision included. <sub>⭐ 329 · Python</sub>
-- [Sompote/DINOV3-YOLOV12](https://github.com/Sompote/DINOV3-YOLOV12) - Use DINOv3’s powerful, self-supervised visual features + YOLOv12’s blazing-fast detection, all in one repo. Whether you have only a few hundred labeled images or a medium-sized dataset… <sub>⭐ 324 · Python</sub>
-- [ZumoLabs/zpy](https://github.com/ZumoLabs/zpy) - Synthetic data for computer vision. An open source toolkit using Blender and Python. <sub>⭐ 322 · Python</sub>
-- [sdv-dev/SDGym](https://github.com/sdv-dev/SDGym) - Benchmarking synthetic data generation methods. <sub>⭐ 311 · Python</sub>
-- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - Code used to generate synthetic scenes and bounding box annotations for object detection. This was used to generate data used in the Cut, Paste and Learn paper <sub>⭐ 300 · Python</sub>
-- [sdv-dev/TGAN](https://github.com/sdv-dev/TGAN) - Generative adversarial training for generating synthetic tabular data. <sub>⭐ 298 · Python</sub>
-- [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) - SDK for robotics teams to verify the quality of their data used for AI model training. <sub>⭐ 283 · Python</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) - Track 20,710+ AI benchmark, eval, dataset, and data-quality records from 37 public sources, with linked evidence and daily updates. <sub>⭐ 272 · Python</sub>
-- [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable. <sub>⭐ 271 · TypeScript</sub>
-- [wang-tf/Chinese_OCR_synthetic_data](https://github.com/wang-tf/Chinese_OCR_synthetic_data) - The progress was used to generate synthetic dataset for Chinese OCR. <sub>⭐ 271 · Python</sub>
-- [roatienza/straug](https://github.com/roatienza/straug) - Image transformations designed for Scene Text Recognition (STR) data augmentation. Published at ICCV 2021 Workshop on Interactive Labeling and Data Augmentation for Vision. <sub>⭐ 269 · Python</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [statice/awesome-synthetic-data](https://github.com/statice/awesome-synthetic-data) - A curated list of awesome synthetic data tools (open source and commercial). <sub>⭐ 266</sub>
-- [davidmartinrius/speech-dataset-generator](https://github.com/davidmartinrius/speech-dataset-generator) - Create labeled datasets, enhance audio quality, identify speakers, support diverse dataset types. Advanced audio processing. <sub>⭐ 263 · Python</sub>
-- [Toloka/crowd-kit](https://github.com/Toloka/crowd-kit) - Control the quality of your labeled data with the Python tools you already know. <sub>⭐ 254 · Python</sub>
-- [getml/getml-community](https://github.com/getml/getml-community) - Fast, high-quality forecasts on relational and multivariate time-series data powered by new feature learning algorithms and automated ML. <sub>⭐ 244 · C++</sub>
-- [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) - A suite of auto-regressive and Seq2Seq (sequence-to-sequence) transformer models for tabular and relational synthetic data generation. <sub>⭐ 244 · Jupyter Notebook</sub>
-- [inspectIT/inspectit-ocelot](https://github.com/inspectIT/inspectit-ocelot) - inspectIT Ocelot - Java agent for collecting application performance, tracing and behavior data <sub>⭐ 223 · Java</sub>
-- [migtissera/Sensei](https://github.com/migtissera/Sensei) - Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI <sub>⭐ 221 · Python</sub>
-- [RetroCirce/Zero_Shot_Audio_Source_Separation](https://github.com/RetroCirce/Zero_Shot_Audio_Source_Separation) - The official code repo for "Zero-shot Audio Source Separation through Query-based Learning from Weakly-labeled Data", in AAAI 2022 <sub>⭐ 212 · Python</sub>
-- [superagentxai/superagentx](https://github.com/superagentxai/superagentx) - Move from idea to production in hours with policy-driven autonomous AI agents. Unified Control Plane: Centralised tools, MCPs, models, data, and policies with consistent observability and governance. <sub>⭐ 203 · Python</sub>
-- [Aastha2104/Parkinson-Disease-Prediction](https://github.com/Aastha2104/Parkinson-Disease-Prediction) - Introduction Parkinson’s Disease is the second most prevalent neurodegenerative disorder after Alzheimer’s, affecting more than 10 million people worldwide. Parkinson’s is characterized primarily by… <sub>⭐ 197 · Python</sub>
-- [dqops/dqo](https://github.com/dqops/dqo) - Data Quality and Observability platform for the whole data lifecycle, from profiling new data sources to full automation with Data Observability. Configure data quality checks from the UI or in YAML… <sub>⭐ 194 · Java</sub>
-- [stephenleo/llm-structured-output-benchmarks](https://github.com/stephenleo/llm-structured-output-benchmarks) - Benchmark various LLM Structured Output frameworks: Instructor, Mirascope, Langchain, LlamaIndex, Fructose, Marvin, Outlines, etc on tasks like multi-label classification, named entity recognition… <sub>⭐ 191 · Python</sub>
-- [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques. <sub>⭐ 190 · Python</sub>
-- [CVMI-Lab/SyntheticData](https://github.com/CVMI-Lab/SyntheticData) - Is synthetic data from generative models ready for image recognition? <sub>⭐ 187 · Python</sub>
-- [blobcity/autoai](https://github.com/blobcity/autoai) - Python based framework for Automatic AI for Regression and Classification over numerical data. Performs model search, hyper-parameter tuning, and high-quality Jupyter Notebook code generation. <sub>⭐ 186 · Python</sub>
-- [fhightower/ioc-finder](https://github.com/fhightower/ioc-finder) - Simple, effective, and modular package for parsing observables (indicators of compromise (IOCs), network data, and other, security related information) from text. It uses grammars rather than regexes… <sub>⭐ 184 · Python</sub>
-- [hfawaz/aaltd18](https://github.com/hfawaz/aaltd18) - Data augmentation using synthetic data for time series classification with deep residual networks <sub>⭐ 183 · Python</sub>
-- [ankurhanda/sunrgbd-meta-data](https://github.com/ankurhanda/sunrgbd-meta-data) - train test labels for sunrgbd <sub>⭐ 181 · Matlab</sub>
-- [Geocene/trainset](https://github.com/Geocene/trainset) - A lightweight web application for brushing labels onto time series data; useful for building training sets. <sub>⭐ 181 · JavaScript</sub>
-- [opendatalab/LOKI](https://github.com/opendatalab/LOKI) - (ICLR 2025 Spotlight) The official implementation of the paper “LOKI：A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models” <sub>⭐ 180 · Python</sub>
-- [hastic-zzz/hastic-grafana-app](https://github.com/hastic-zzz/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana <sub>⭐ 179 · TypeScript</sub>
-- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - Context Encoding for Semantic Segmentation MegaDepth: Learning Single-View Depth Prediction from Internet Photos LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation… <sub>⭐ 179</sub>
-- [brightmart/multi-label_classification](https://github.com/brightmart/multi-label_classification) - transform multi-label classification as sentence pair task, with more training data and information <sub>⭐ 178 · Python</sub>
-- [himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning) - # AD-Prediction Convolutional Neural Networks for Alzheimer's Disease Prediction Using Brain MRI Image ## Abstract Alzheimers disease (AD) is characterized by severe memory loss and cognitive… <sub>⭐ 177 · Python</sub>
-- [Vicomtech/hate-speech-dataset](https://github.com/Vicomtech/hate-speech-dataset) - Hate speech dataset from Stormfront forum manually labelled at sentence level. <sub>⭐ 177</sub>
-- [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - Code for "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data" <sub>⭐ 174 · Python</sub>
-- [allenai/pixmo-docs](https://github.com/allenai/pixmo-docs) - ACL 2025: Synthetic data generation pipelines for text-rich images. <sub>⭐ 170 · Python</sub>
-- [evolvent-ai/RSIBench-Data](https://github.com/evolvent-ai/RSIBench-Data) - Synthetic data generation, post-training, and E2B benchmark evaluation infrastructure. <sub>⭐ 168 · Shell</sub>
-- [hiyouga/Dual-Contrastive-Learning](https://github.com/hiyouga/Dual-Contrastive-Learning) - Code for our paper "Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation" <sub>⭐ 168 · Python</sub>
-- [sisinflab/adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey) - The goal of this survey is two-fold: (i) to present recent advances on adversarial machine learning (AML) for the security of RS (i.e., attacking and defense recommendation models), (ii) to show… <sub>⭐ 166</sub>
-- [Red-Hat-AI-Innovation-Team/sdg_hub](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub) - Synthetic Data Generation Toolkit for LLMs <sub>⭐ 164 · Python</sub>
-- [iosifache/DikeDataset](https://github.com/iosifache/DikeDataset) - Dataset with labeled benign and malicious files <sub>⭐ 163 · TeX</sub>
-- [gjy3035/GCC-SFCN](https://github.com/gjy3035/GCC-SFCN) - This is the official code of spatial FCN in the paper Learning from Synthetic Data for Crowd Counting in the Wild (CVPR2019). <sub>⭐ 162 · Python</sub>
-- [google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction](https://github.com/google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction) - This dataset contains synthetic training data for grammatical error correction. The corpus is generated by corrupting clean sentences from C4 using a tagged corruption model. The approach and the… <sub>⭐ 162 · Python</sub>
-- [alibaba/Trescope](https://github.com/alibaba/Trescope) - Trescope is a comprehensive 3D machine learning development tool devoted to improve developing experience and speed in 3D field, which helps researchers and developers to label, debug, visualize… <sub>⭐ 156 · JavaScript</sub>
-- [nupurkmr9/syncd](https://github.com/nupurkmr9/syncd) - SynCD: Generating Multi-Image Synthetic Data for Text-to-Image Customization (ICCV 2025) <sub>⭐ 156 · Python</sub>
-- [cics-nd/pde-surrogate](https://github.com/cics-nd/pde-surrogate) - Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data <sub>⭐ 155 · Python</sub>
-- [mahmoodm2/tableGAN](https://github.com/mahmoodm2/tableGAN) - tableGAN is a synthetic data generation technique (Data Synthesis based on Generative Adversarial Networks paper) based on Generative Adversarial Network architecture (DCGAN). <sub>⭐ 155 · Python</sub>
-- [mwxely/AIGS](https://github.com/mwxely/AIGS) - AI-Generated Images as Data Source: The Dawn of Synthetic Era <sub>⭐ 154 · TeX</sub>
-- [BhabhaAI/dataformer](https://github.com/BhabhaAI/dataformer) - Solving data for LLMs - Create quality synthetic datasets! <sub>⭐ 152 · Python</sub>
-- [jasonmanesis/Ship-Detection-on-Remote-Sensing-Synthetic-Aperture-Radar-Data](https://github.com/jasonmanesis/Ship-Detection-on-Remote-Sensing-Synthetic-Aperture-Radar-Data) - Maritime vessel detection from remote sensing SAR data, based on the architectures of the Faster-RCNN and YOLOv5 networks. <sub>⭐ 149 · Jupyter Notebook</sub>
-- [Britefury/django-labeller](https://github.com/Britefury/django-labeller) - An image labelling tool for creating segmentation data sets, for Django and Flask. <sub>⭐ 148 · Jupyter Notebook</sub>
-- [Trustworthy-ML-Lab/Label-free-CBM](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) - (ICLR 23) A new framework to transform any neural networks into an interpretable concept-bottleneck-model (CBM) without needing labeled concept data <sub>⭐ 147 · Jupyter Notebook</sub>
-- [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods. <sub>⭐ 147 · Python</sub>
-- [atapour/monocularDepth-Inference](https://github.com/atapour/monocularDepth-Inference) - Inference pipeline for the CVPR paper entitled "Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer"… <sub>⭐ 145 · Python</sub>
-- [zhangzhengde0225/FINet](https://github.com/zhangzhengde0225/FINet) - Foggy Insulator Network, Dataset and Code. Improved object detection network, synthetic fog, data augmentation, channel attention mechanism. Insulator & defect detection <sub>⭐ 143 · Python</sub>
-- [NatLabRockies/sup3r](https://github.com/NatLabRockies/sup3r) - The Super-Resolution for Renewable Resource Data (sup3r) software uses generative adversarial networks to create synthetic high-resolution wind and solar spatiotemporal data from coarse… <sub>⭐ 140 · Python</sub>
-- [autodistill/autodistill-grounded-sam-2](https://github.com/autodistill/autodistill-grounded-sam-2) - Use Segment Anything 2, grounded with Florence-2, to auto-label data for use in training vision models. <sub>⭐ 139 · Python</sub>
-- [DocCreator/DocCreator](https://github.com/DocCreator/DocCreator) - DIAR software for synthetic document image and groundtruth generation, with various degradation models for data augmentation <sub>⭐ 138 · C++</sub>
-- [khawar-islam/diffuseMix](https://github.com/khawar-islam/diffuseMix) - Official PyTorch implementation of DiffuseMix : Label-Preserving Data Augmentation with Diffusion Models (CVPR'2024) <sub>⭐ 137 · Python</sub>
-- [declare-lab/RelationPrompt](https://github.com/declare-lab/RelationPrompt) - This repository implements our ACL Findings 2022 research paper RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction. The goal of Zero-Shot Relation… <sub>⭐ 134 · Python</sub>
-- [tomastrajan/ngx-model](https://github.com/tomastrajan/ngx-model) - Angular Model. Simple state management with minimalistic API, one way data flow, multiple model support and immutable data exposed as RxJS Observable. <sub>⭐ 134 · TypeScript</sub>
-- [sede-open/synthoseis](https://github.com/sede-open/synthoseis) - Generating seismic data and associated labels to train deep learning networks. <sub>⭐ 132 · Python</sub>
-- [stefan-jansen/synthetic-data-for-finance](https://github.com/stefan-jansen/synthetic-data-for-finance) - Material for QuantUniversity talk on Sythetic Data Generation for Finance. <sub>⭐ 131 · Jupyter Notebook</sub>
-- [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - Dataset Diffusion: Diffusion-based Synthetic Data Generation for Pixel-Level Semantic Segmentation (NeurIPS2023) <sub>⭐ 131 · Jupyter Notebook</sub>
-- [NJUNLP/TOWE](https://github.com/NJUNLP/TOWE) - Code and data for "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling" (NAACL2019) <sub>⭐ 130 · Python</sub>
-- [johnmartinsson/bird-species-classification](https://github.com/johnmartinsson/bird-species-classification) - Using convolutional neural networks to build and train a bird species classifier on bird song data with corresponding species labels. <sub>⭐ 129 · Python</sub>
-- [Tele-AI/Fluxon](https://github.com/Tele-AI/Fluxon) - An AI-native distributed data plane built in Rust that supports high performance RPC, KV Cache, Message Queue, and File & Object Acceleration <sub>⭐ 128 · Rust</sub>
-- [pyannote/pyannote-core](https://github.com/pyannote/pyannote-core) - Advanced data structures for handling temporal segments with attached labels. <sub>⭐ 126 · Jupyter Notebook</sub>
-- [Akajiaku11/Air-Quality-Prediction-Model](https://github.com/Akajiaku11/Air-Quality-Prediction-Model) - This Python-based project leverages machine learning to predict air quality levels using synthetic pollutant data, simulating real-world air quality monitoring for various pollutants. <sub>⭐ 125 · Python</sub>
-- [midrender/pluto](https://github.com/midrender/pluto) - Synthetic Data for LLM Fine-Tuning <sub>⭐ 125 · Python</sub>
-- [sdv-dev/DeepEcho](https://github.com/sdv-dev/DeepEcho) - Synthetic Data Generation for mixed-type, multivariate time series. <sub>⭐ 125 · Python</sub>
-- [cloudposse/terraform-datadog-platform](https://github.com/cloudposse/terraform-datadog-platform) - Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML… <sub>⭐ 124 · HCL</sub>
-- [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generative AI. <sub>⭐ 124 · Python</sub>
-- [MiguelARD/DoorDetect-Dataset](https://github.com/MiguelARD/DoorDetect-Dataset) - Labelled image dataset for door and handle detection. <sub>⭐ 123</sub>
-- [ParakweetLabs/EmailIntentDataSet](https://github.com/ParakweetLabs/EmailIntentDataSet) - Some labeled training and test data for email intent machine learning (based on sentence-level speech acts) <sub>⭐ 120 · Java</sub>
-- [openlabelsinitiative/OLI](https://github.com/openlabelsinitiative/OLI) - A standardized framework and data model for address labeling. <sub>⭐ 119 · Jupyter Notebook</sub>
-- [NVIDIA-AI-IOT/synthetic_data_generation_training_workflow](https://github.com/NVIDIA-AI-IOT/synthetic_data_generation_training_workflow) - Workflow for generating synthetic data and training CV models. <sub>⭐ 118 · Jupyter Notebook</sub>
-- [microsoft/DPSDA](https://github.com/microsoft/DPSDA) - Private Evolution: Generating DP Synthetic Data without Model Training (ICML 2026, ICLR 2024, ICML 2024 Spotlight) <sub>⭐ 117 · Python</sub>
-- [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) - Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic… <sub>⭐ 116 · Python</sub>
-- [Dynamics-of-Neural-Systems-Lab/MARBLE](https://github.com/Dynamics-of-Neural-Systems-Lab/MARBLE) - Package for the data-driven representation of non-linear dynamics over manifolds based on a statistical distribution of local phase portrait features. Includes specific example on dynamical systems… <sub>⭐ 115 · Python</sub>
-- [anna-geller/dataflow-ops](https://github.com/anna-geller/dataflow-ops) - Project demonstrating how to automate Prefect 2.0 deployments to AWS ECS Fargate <sub>⭐ 114 · Python</sub>
-- [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) - A Model Context Protocol (MCP) server for Langfuse, enabling AI agents to query Langfuse trace data for enhanced debugging and observability <sub>⭐ 113 · Python</sub>
-- [decile-team/spear](https://github.com/decile-team/spear) - SPEAR: Programmatically label and build training data quickly. <sub>⭐ 113 · Jupyter Notebook</sub>
-- [swamiviv/LSD-seg](https://github.com/swamiviv/LSD-seg) - Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation <sub>⭐ 113 · Python</sub>
-- [dnguyen800/air-visual-card](https://github.com/dnguyen800/air-visual-card) - A Lovelace card showing air quality data from airvisual.com. Requires the AirVisual component. <sub>⭐ 112</sub>
-- [HazyResearch/reef](https://github.com/HazyResearch/reef) - Automatically labeling training data <sub>⭐ 108 · Jupyter Notebook</sub>
-- [evidentlyai/ml_observability_course](https://github.com/evidentlyai/ml_observability_course) - Free Open-source ML observability course for data scientists and ML engineers. Learn how to monitor and debug your ML models in production. <sub>⭐ 106 · Jupyter Notebook</sub>
-- [PRBonn/auto-mos](https://github.com/PRBonn/auto-mos) - Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation <sub>⭐ 104 · Python</sub>
-- [czyt1988/data-workbench](https://github.com/czyt1988/data-workbench) - AI Agent-driven data analysis workbench built on C++17/Qt: directed-graph workflow engine, embedded Python (pandas/numpy), interactive publication-quality charts, C++ & Python plugins. Renders 100M+… <sub>⭐ 102 · C++</sub>
-- [mainlp/awesome-human-label-variation](https://github.com/mainlp/awesome-human-label-variation) - A curated list of awesome datasets with human label variation (un-aggregated labels) in Natural Language Processing and Computer Vision, accompanying The 'Problem' of Human Label Variation: On Ground… <sub>⭐ 102</sub>
-- [rmarquet21/streamlit-annotation-tools](https://github.com/rmarquet21/streamlit-annotation-tools) - Streamlit Annotation Tools is a Streamlit component that gives you access to various annotation tools (labeling, highlighting, etc.) for text data. <sub>⭐ 101 · TypeScript</sub>
-- [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques. <sub>⭐ 100 · Python</sub>
-- [VincentGranville/Main](https://github.com/VincentGranville/Main) - Main folder. Material related to my books on synthetic data and generative AI. Also contains documents blending components from several folders, or covering topics spanning across multiple folders.. <sub>⭐ 99 · Python</sub>
-- [wsyCUHK/WSYCUHK_FDIA](https://github.com/wsyCUHK/WSYCUHK_FDIA) - Locational Detection of False Data Injection Attack in Smart Grid: a Multi-label Classification Approach <sub>⭐ 99 · Python</sub>
-- [shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing](https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing) - This project presents a comparative machine learning framework for heart attack risk prediction using Python. It includes data preprocessing, feature engineering, SMOTE for class balancing, cross… <sub>⭐ 97 · Jupyter Notebook</sub>
-- [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - agent skills for autonomous data labeling, winner at openai codex hackathon 2026 <sub>⭐ 96 · Python</sub>
-- [ligengen/EgoGen](https://github.com/ligengen/EgoGen) - (CVPR 2024) Official code for EgoGen: An Egocentric Synthetic Data Generator <sub>⭐ 94 · Python</sub>
-- [monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit) - Official Monte Carlo toolkit for AI coding agents. Skills and plugins that bring data and agent observability — monitoring, triaging, troubleshooting, health checks — into Claude Code, Cursor, and… <sub>⭐ 94 · Python</sub>
-- [SunzeY/Bootstrap3D](https://github.com/SunzeY/Bootstrap3D) - (ICCV-2025) Official implementation of Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data <sub>⭐ 94 · Python</sub>
-- [abbyy/barcode_detection_benchmark](https://github.com/abbyy/barcode_detection_benchmark) - Code for paper "New Benchmarks for Barcode Detection using both Synthetic and Real Data" https://link.springer.com/chapter/10.1007%2F978-3-030-57058-3_34 <sub>⭐ 93 · Python</sub>
-- [CAMMA-public/cholect50](https://github.com/CAMMA-public/cholect50) - A repository for surgical action triplet dataset. Data are videos of laparoscopic cholecystectomy that have been annotated with labels for every surgical fine-grained activity. <sub>⭐ 92 · Python</sub>
-- [rg2/DeepFluoroLabeling-IPCAI2020](https://github.com/rg2/DeepFluoroLabeling-IPCAI2020) - Code and data for the "annotation" component of the IPCAI 2020 paper: "Automatic Annotation of Hip Anatomy in Fluoroscopy for Robust and Efficient 2D/3D Registration."… <sub>⭐ 91 · Python</sub>
-- [abeltavares/batch-data-pipeline](https://github.com/abeltavares/batch-data-pipeline) - Batch data pipeline with Airflow, DuckDB, Delta Lake, Trino, MinIO, and Metabase. Full observability and data quality. <sub>⭐ 89 · Python</sub>
-- [grant-m-s/AstronomicAL](https://github.com/grant-m-s/AstronomicAL) - An interactive, plugin-based platform for exploring, labelling, integrating, and modelling scientific data <sub>⭐ 88 · Python</sub>
-- [human-3d/Human3D](https://github.com/human-3d/Human3D) - We propose the first multi-human body-part segmentation model, called Human3D , that directly operates on 3D scenes. In an extensive analysis, we validate the benefits of training on synthetic data… <sub>⭐ 88 · Python</sub>
-- [LWHYC/PASTA](https://github.com/LWHYC/PASTA) - Pan-Tumor Radiology Foundation Model Utilizing Synthetic Training Data for Advanced Oncological Insights <sub>⭐ 87 · Python</sub>
-- [trojai/trojai](https://github.com/trojai/trojai) - A repository to quickly generate synthetic data and associated trojaned deep learning models <sub>⭐ 85 · Python</sub>
-- [yc4ny/SVAD](https://github.com/yc4ny/SVAD) - (CVPR Workshop 2025) Code for SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation <sub>⭐ 85 · Python</sub>
-- [lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets](https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets) - This is the GC10-DET datasets of the upcoming paper " Deep Metallic Surface Defect Detection: the New Benchmark and Detection Network" The images of 10 common Metallic Surface defects were collected… <sub>⭐ 84</sub>
-- [tirthajyoti/Synthetic-data-gen](https://github.com/tirthajyoti/Synthetic-data-gen) - Various methods for generating synthetic data for data science and ML <sub>⭐ 84 · Jupyter Notebook</sub>
-- [Oqura-ai/local-datagen-cli](https://github.com/Oqura-ai/local-datagen-cli) - synthetic dataset generation workflow using local file resources for finetuning llms. <sub>⭐ 83 · Python</sub>
-- [Acelogic/Earnings-Volatility-Calculator](https://github.com/Acelogic/Earnings-Volatility-Calculator) - A Python-based tool that analyzes options data around earnings events, calculates volatility metrics (like IV30/RV30, ATR, and Yang-Zhang volatility), and provides Recommended, Consider, or Avoid… <sub>⭐ 82 · Python</sub>
-- [UMEssen/SALT](https://github.com/UMEssen/SALT) - Softmax for Arbitrary Label Trees (SALT) is a framework for training segmentation networks using conditional probabilities to model hierarchical relationships in the data. <sub>⭐ 82 · Python</sub>
-- [GMvandeVen/class-incremental-learning](https://github.com/GMvandeVen/class-incremental-learning) - PyTorch implementation of a VAE-based generative classifier, as well as other class-incremental learning methods that do not store data (DGR, BI-R, EWC, SI, CWR, CWR+, AR1, the "labels trick", SLDA). <sub>⭐ 81 · Python</sub>
-- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability. DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling, new dataset… <sub>⭐ 79 · Python</sub>
-- [Diffusion-Dynamics/watermark-segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation) - Open-source watermark segmentation by DiffusionDynamics.ai and clear.photo. Harness deep learning plus synthetic data augmentation in PyTorch to detect logos/text precisely. This minimal code… <sub>⭐ 79 · Jupyter Notebook</sub>
-- [AKASH2907/bird_species_classification](https://github.com/AKASH2907/bird_species_classification) - Supervised Classification of bird species in high resolution images, especially for, Himalayan birds, having diverse species with fairly low amount of labelled data (ICVGIPW'18) <sub>⭐ 78 · Python</sub>
-- [IntelligentDDS/Nezha](https://github.com/IntelligentDDS/Nezha) - The implementation of multimodal observability data root cause analysis approach Nezha in FSE 2023 <sub>⭐ 78 · Python</sub>
-- [mostly-ai/mostlyai-engine](https://github.com/mostly-ai/mostlyai-engine) - Synthetic Data Engine <sub>⭐ 78 · Python</sub>
-- [yoheinakajima/autofinetune](https://github.com/yoheinakajima/autofinetune) - auto fine tune of models with synthetic data <sub>⭐ 78 · Python</sub>
-- [RajdeepBiswas/AI_Enabled_Image_Bucketization](https://github.com/RajdeepBiswas/AI_Enabled_Image_Bucketization) - Bucketize an image based on exhaust data and AI generated data. industry-solutions azure azure machine learning services computer-vision big data big data analytics machine learning image recognition… <sub>⭐ 77 · Python</sub>
-- [sarulab-speech/jsut-label](https://github.com/sarulab-speech/jsut-label) - context labels and pronunciation data for JSUT corpus <sub>⭐ 77</sub>
-- [stanford-star/plurel](https://github.com/stanford-star/plurel) - A synthetic tabular and relational data generation framework <sub>⭐ 77 · Python</sub>
-- [anirudhshenoy/pseudo_labeling_small_datasets](https://github.com/anirudhshenoy/pseudo_labeling_small_datasets) - Pseudo Labeling for Neural Networks and Logistic Regression/SVMs ( Based on "Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks") <sub>⭐ 76 · Jupyter Notebook</sub>
-- [bermufine/dcmp](https://github.com/bermufine/dcmp) - {"categories":({"name":"Movies","videos":({"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) »… <sub>⭐ 76</sub>
-- [hjeffreywang/Stock_feature_engineering](https://github.com/hjeffreywang/Stock_feature_engineering) - Created a continuous, homogeneous, and structured 10 GB dataset from self obtained collections of unstructured intraday financial data. Generated features from indicators, statistics, and recent… <sub>⭐ 76 · Jupyter Notebook</sub>
-- [nikk-nikaznan/SSVEP-Neural-Generative-Models](https://github.com/nikk-nikaznan/SSVEP-Neural-Generative-Models) - Code to accompany our International Joint Conference on Neural Networks (IJCNN) paper entitled - Simulating Brain Signals: Creating Synthetic EEG Data via Neural-Based Generative Models for Improved… <sub>⭐ 75 · Python</sub>
-- [Danau5tin/tbench-agentic-data-pipeline](https://github.com/Danau5tin/tbench-agentic-data-pipeline) - Multi-agent synthetic data generation pipeline capable of generating and validating long horizon terminal/coding tasks for RL training <sub>⭐ 74 · Python</sub>
-- [AI4Bharat/Shoonya](https://github.com/AI4Bharat/Shoonya) - Shoonya - Platform to Annotate and label data at scale. <sub>⭐ 72</sub>
-- [Jorwnpay/NK-Sonar-Image-Dataset](https://github.com/Jorwnpay/NK-Sonar-Image-Dataset) - A newly created forward looking sonar image recognition benchmark, named NanKai Sonar Image Dataset (NKSID). This dataset contains 2617 images from 8 categories, with labels showing a natural long… <sub>⭐ 72</sub>
-- [soyjavi/hamsa](https://github.com/soyjavi/hamsa) - A dead simple, data-binding & observable model. <sub>⭐ 72 · CoffeeScript</sub>
-- [unrealgt/unrealgt](https://github.com/unrealgt/unrealgt) - A framework for synthetic test data generation for computer vision with the Unreal Engine. <sub>⭐ 72 · C++</sub>
-- [NextBrain-ai/nbsynthetic](https://github.com/NextBrain-ai/nbsynthetic) - nbsynthetic is simple and robust tabular synthetic data generation library for small and medium size datasets <sub>⭐ 71 · Jupyter Notebook</sub>
-- [WenjieDu/PyGrinder](https://github.com/WenjieDu/PyGrinder) - PyGrinder: a Python toolkit for grinding data beans into the incomplete for real-world data simulation by introducing missing values with different missingness patterns, including MCAR (complete at… <sub>⭐ 71 · Python</sub>
-- [YesianRohn/UnionST](https://github.com/YesianRohn/UnionST) - (CVPR 2026) Official data synthesis code of the paper "What’s Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution". <sub>⭐ 71 · Python</sub>
-- [AlturosDestinations/Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) - A collaborative tool for labeling image data for yolo <sub>⭐ 70 · C#</sub>
-- [BenChaliah/TimeSeriesGAN](https://github.com/BenChaliah/TimeSeriesGAN) - GANs for Time series analysis (Synthetic data generation, anomaly detection and interpolation), Hypertuning using Optuna, MLFlow and Databricks <sub>⭐ 70 · Jupyter Notebook</sub>
-- [dmey/synthia](https://github.com/dmey/synthia) - Multidimensional synthetic data generation with Copula and fPCA models in Python <sub>⭐ 70 · Python</sub>
-- [lcysyzxdxc/AGIQA-3k-Database](https://github.com/lcysyzxdxc/AGIQA-3k-Database) - (IEEE TCSVT2023) A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment <sub>⭐ 70</sub>
-- [ahstat/episodic-memory-benchmark](https://github.com/ahstat/episodic-memory-benchmark) - Synthetic data generation and benchmark implementation for "Episodic Memories Generation and Evaluation Benchmark for Large Language Models" (ICLR 2025) <sub>⭐ 69 · Jupyter Notebook</sub>
-- [Dogiye12/Oil-Spill-Detection-using-SAR-Data-Deep-Learning](https://github.com/Dogiye12/Oil-Spill-Detection-using-SAR-Data-Deep-Learning) - This project demonstrates oil spill detection in synthetic SAR imagery using deep learning. It generates synthetic datasets with speckle noise and spill regions, trains a lightweight U-Net model for… <sub>⭐ 69 · Python</sub>
-- [HowieHwong/DataGen](https://github.com/HowieHwong/DataGen) - (ICLR'25) DataGen: Unified Synthetic Dataset Generation via Large Language Models <sub>⭐ 69 · Python</sub>
-- [Okes2024/Air-Quality-Index-Prediction-Using-ML-and-IoT-Sensor-Data](https://github.com/Okes2024/Air-Quality-Index-Prediction-Using-ML-and-IoT-Sensor-Data) - This project simulates IoT sensor data to predict Air Quality Index (AQI) using machine learning. It generates synthetic datasets, computes AQI, trains multiple models, and provides evaluation… <sub>⭐ 69 · Python</sub>
-- [pchukwuemeka424/A-Hybrid-AI-Model-Integrating-LSTM-XGBoost-for-Interpretable-Prediction-Clustering-of-Water-Quality](https://github.com/pchukwuemeka424/A-Hybrid-AI-Model-Integrating-LSTM-XGBoost-for-Interpretable-Prediction-Clustering-of-Water-Quality) - A Hybrid AI Model Integrating LSTM, XGBoost, and K-Means for Interpretable Prediction and Clustering of Water Quality in Data-Scarce Regions <sub>⭐ 69 · Python</sub>
-- [rasinmuhammed/misata](https://github.com/rasinmuhammed/misata) - Synthetic data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server. In simple terms, a powerful… <sub>⭐ 69 · Python</sub>
-- [slrbl/human-in-the-loop-machine-learning-tool-tornado](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado) - Tornado is an open source Human-in-the-loop machine learning tool. It helps you label your dataset on the fly while training your model through a simple web user interface. It supports all data… <sub>⭐ 69 · Ruby</sub>
+- [zenml-io/awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation) - 开源数据注释和标签工具 <sub>⭐ 730</sub>
+- [databufflabs/databuff](https://github.com/databufflabs/databuff) - DataBuff是人工智能本地APM在Opentelemetterming的基础上构建的,多代理故障排除出盒子. <sub>⭐ 691 · Java</sub>
+- [vanderschaarlab/synthcity](https://github.com/vanderschaarlab/synthcity) - 用于生成和评价关于隐私、公平和数据扩充的合成表格数据的图书馆。 <sub>⭐ 687 · Python</sub>
+- [orb-community/orb](https://github.com/orb-community/orb) - Orb是一个动态网络可观察性平台,具有代理机队管弦和数据管道,带有OpenTeleometry <sub>⭐ 683 · Go</sub>
+- [syncora-ai/syncora-benchmarks](https://github.com/syncora-ai/syncora-benchmarks) - 用于合成数据的轻量级,插件和游戏基准套件。 通过在 CSVs 中投放,然后自动计算忠诚性和相似性,将同步器与其他生成器(例如 Gretel, MostlyAI) 相比较... <sub>⭐ 674 · Jupyter Notebook</sub>
+- [probabl-ai/skore](https://github.com/probabl-ai/skore) - 跟踪您的数据科学. Skore的开源 Python 库通过自动评价报告,智能方法指导,以及全面的交叉验证,加快了ML模型的开发. . <sub>⭐ 670 · Python</sub>
+- [syncora-ai/synthetic-personality-dataset](https://github.com/syncora-ai/synthetic-personality-dataset) - 用于内向反转与外向人格模型的合成数据集和笔记本(privace-safety,ML-ready). <sub>⭐ 667 · Jupyter Notebook</sub>
+- [syncora-ai/Synthetic-AI-Developer-Productivity-Dataset](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset) - 高真实度合成数据集捕获AI开发者生产率度量表——包括焦点时数,任务完成率和燃烧指标. 隐私安全,ML和工作流程分析的理想. <sub>⭐ 658 · Jupyter Notebook</sub>
+- [cvhciKIT/sloth](https://github.com/cvhciKIT/sloth) - Sloth是用于计算机视觉研究的图像和视频数据的标签工具. <sub>⭐ 610 · Python</sub>
+- [pracdata/awesome-open-source-data-engineering](https://github.com/pracdata/awesome-open-source-data-engineering) - 分析平台和数据工程生态系统中使用的开源工具目录 <sub>⭐ 605</sub>
+- [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) - BKN Foundry是OpenBKN的Ontology后端基础,它将肿瘤驱动的商业语义转化为运行时服务:数据,逻辑,行动,安全治理,以及可观察性. <sub>⭐ 604 · Go</sub>
+- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame是一个开源的多模式AI系统,旨在将UI设计模型翻译为高质量的React代码,它利用视觉语言的建模,自动化的数据合成,以及结构化. . <sub>⭐ 561 · Python</sub>
+- [nv-tlabs/Cosmos-Drive-Dreams](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) - Cosmos-Drive-Dreams:可扩展合成驱动数据与世界基金会模型 <sub>⭐ 544 · Jupyter Notebook</sub>
+- [menyifang/En3D](https://github.com/menyifang/En3D) - 官方实施"En3D:从2D合成数据中雕塑3D人类的强化基因模型",CVPR 2024;3D Avatar Center and Animation <sub>⭐ 543 · Python</sub>
+- [Cartucho/vision_blender](https://github.com/Cartucho/vision_blender) - Blender 用于为计算机视野应用生成合成地面真伪数据的附加数据 <sub>⭐ 529 · Python</sub>
+- [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - 使用合成数据嵌入RAG的精细图解 <sub>⭐ 527 · Jupyter Notebook</sub>
+- [VikParuchuri/textbook_quality](https://github.com/VikParuchuri/textbook_quality) - 生成教科书质量的合成LLM预训数据 <sub>⭐ 507 · Python</sub>
+- [pengr/LLM-Synthetic-Data](https://github.com/pengr/LLM-Synthetic-Data) - LLM数据合成的实时读取列表(更新至2025年7月). <sub>⭐ 494</sub>
+- [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords) - 与您的数据聊天 , 用内存、 规则和可观察性 。 在 2 分钟内部署 。 <sub>⭐ 458 · Python</sub>
+- [F2Wang/ObjectDatasetTools](https://github.com/F2Wang/ObjectDatasetTools) - 用于创建像素类对象口罩、框标签(2D和3D)和3D对象模型(PLY三角网格)的工具,这些工具是用RGB-D相机拍摄的对象序列。这个项目准备培训和. <sub>⭐ 450 · Python</sub>
+- [wenbowen123/iros20-6d-pose-tracking](https://github.com/wenbowen123/iros20-6d-pose-tracking) - (IROS 2020) se(3)-TrackNet:数据驱动6D Pose 通过校正合成域中的图像残存跟踪 <sub>⭐ 424 · Python</sub>
+- [PKU-EPIC/GraspVLA](https://github.com/PKU-EPIC/GraspVLA) - (CoRL25) GraspVLA:一个Grasping基金会模型 预训于亿级合成行动数据 <sub>⭐ 419 · Python</sub>
+- [alibaba/UnifiedModel](https://github.com/alibaba/UnifiedModel) - 语义层使企业数据为AI代理所理解——模式实体和关系一次,通过SPL/MCP/REST查询,将遥测,服务和商务对象连接在一个. <sub>⭐ 411 · Go</sub>
+- [IBM/AMLSim](https://github.com/IBM/AMLSim) - AMLSim项目旨在提供一个基于多代理的模拟器,生成合成银行交易数据以及一套已知的洗钱模式——主要用于. <sub>⭐ 399 · Python</sub>
+- [vinbigdata-medical/vindr-lab](https://github.com/vinbigdata-medical/vindr-lab) - 医疗AI数据平台,能够构建具有精益过程和高级注释功能的高质量数据集和算法. <sub>⭐ 377</sub>
+- [milaan9/Clustering-Datasets](https://github.com/milaan9/Clustering-Datasets) - 这个寄存器包含了UCI(真实生命)数据集和合成(人工)数据集的收集(带有集群标签和MATLAB文件),可以与集群算法一起使用. <sub>⭐ 359</sub>
+- [0ssamaak0/DLTA-AI](https://github.com/0ssamaak0/DLTA-AI) - 与AI进行数据标签、跟踪和注释 <sub>⭐ 357 · Python</sub>
+- [Project-AgML/AgML](https://github.com/Project-AgML/AgML) - AgML是农业机器学习的集中框架. AgML为常见的农业深层学习任务提供公共农业数据集的获取,具有标准基准和. <sub>⭐ 346 · Python</sub>
+- [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - 令人惊叹的合成(文本)数据集 <sub>⭐ 342 · Jupyter Notebook</sub>
+- [TianzhongSong/awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText) - 用于文本位置和识别的出色合成数据目录 <sub>⭐ 337</sub>
+- [syncora-ai/uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation) - 合成数据生成演示使用英国的零售交易数据集。 对零售、电子商务、金融和供应链部门中想要创建隐私保护的专业人士而言,理想是... <sub>⭐ 331</sub>
+- [Unity-Technologies/PeopleSansPeople](https://github.com/Unity-Technologies/PeopleSansPeople) - Unity 的隐私保存以人为中心的合成数据生成器 <sub>⭐ 330 · C#</sub>
+- [phurwicz/hover](https://github.com/phurwicz/hover) - 标注数据规模,包括趣味和精度. <sub>⭐ 329 · Python</sub>
+- [Sompote/DINOV3-YOLOV12](https://github.com/Sompote/DINOV3-YOLOV12) - 使用 DINOv3 强大的、自我监督的视觉特性 + YOLOv12 的闪亮快速检测, 全部在一次回波中。 无论您是否有几百个标签的图像还是一个中等大小的数据集... <sub>⭐ 324 · Python</sub>
+- [ZumoLabs/zpy](https://github.com/ZumoLabs/zpy) - 计算机视觉合成数据,一个使用Blender和Python的开源工具包. <sub>⭐ 322 · Python</sub>
+- [sdv-dev/SDGym](https://github.com/sdv-dev/SDGym) - 制定合成数据生成方法的基准。 <sub>⭐ 311 · Python</sub>
+- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - 代码用于生成合成场景和用于对象检测的边框说明。此代码被用于生成剪切、粘贴和学习纸张中使用的数据 <sub>⭐ 300 · Python</sub>
+- [sdv-dev/TGAN](https://github.com/sdv-dev/TGAN) - 生成合成表格数据的基因对抗训练。 <sub>⭐ 298 · Python</sub>
+- [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) - SDK为机器人团队验证其用于AI模型训练的数据质量. <sub>⭐ 283 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) - 第20,710+AI基准,eval,数据集,以及37个公共来源的数据质量记录,并附有链接的证据和每日更新. <sub>⭐ 272 · Python</sub>
+- [angular-extensions/model](https://github.com/angular-extensions/model) - 角模型 - 简便状态管理,最小化API,单向数据流,多模式支持和不可移动的数据暴露于RxJS Observable. <sub>⭐ 271 · TypeScript</sub>
+- [wang-tf/Chinese_OCR_synthetic_data](https://github.com/wang-tf/Chinese_OCR_synthetic_data) - 该进展被用于为中国OCR生成合成数据集. <sub>⭐ 271 · Python</sub>
+- [roatienza/straug](https://github.com/roatienza/straug) - 为场景文本识别(STR)数据增强而设计的图像转换,发表于ICCV 2021 Workoperation on Interactive Labeling and Data Uside. <sub>⭐ 269 · Python</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [statice/awesome-synthetic-data](https://github.com/statice/awesome-synthetic-data) - 令人惊叹的合成数据工具目录(开源和商业)。 <sub>⭐ 266</sub>
+- [davidmartinrius/speech-dataset-generator](https://github.com/davidmartinrius/speech-dataset-generator) - 创建标签数据集,提高音频质量,识别扬声器,支持多种数据集类型. 高级音频处理. <sub>⭐ 263 · Python</sub>
+- [Toloka/crowd-kit](https://github.com/Toloka/crowd-kit) - 用您已经知道的 Python 工具控制您标签数据的质量 。 <sub>⭐ 254 · Python</sub>
+- [getml/getml-community](https://github.com/getml/getml-community) - 由新功能学习算法和自动化的ML驱动,对关系和多变量时间序列数据进行快速,高质量的预测. <sub>⭐ 244 · C++</sub>
+- [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) - 一套自动递归式和Seq2Seq(序列对序列)变压器模型,用于表式和关系式合成数据生成. <sub>⭐ 244 · Jupyter Notebook</sub>
+- [inspectIT/inspectit-ocelot](https://github.com/inspectIT/inspectit-ocelot) - 检查IT Ocelot - Java代理用于收集应用程序性能,追踪和行为数据 <sub>⭐ 223 · Java</sub>
+- [migtissera/Sensei](https://github.com/migtissera/Sensei) - 使用 OpenAI、 MistralaAI 或 AnthropicAI 生成合成数据 <sub>⭐ 221 · Python</sub>
+- [RetroCirce/Zero_Shot_Audio_Source_Separation](https://github.com/RetroCirce/Zero_Shot_Audio_Source_Separation) - 官方代码Repo用于"零射声源通过基于查询的从弱标签数据中学习",载于AAAI 2022 <sub>⭐ 212 · Python</sub>
+- [superagentxai/superagentx](https://github.com/superagentxai/superagentx) - 以政策驱动的自主AI代理商在数小时内从思想转向生产. United Control Plane:集中化工具,MCP,模型,数据,以及具有一致可观察性和治理性的政策. <sub>⭐ 203 · Python</sub>
+- [Aastha2104/Parkinson-Disease-Prediction](https://github.com/Aastha2104/Parkinson-Disease-Prediction) - 帕金森病是继阿尔茨海默氏病之后第二流行的神经退化性疾病,影响到全球1000多万人。 帕金森病的主要特点是 <sub>⭐ 197 · Python</sub>
+- [dqops/dqo](https://github.com/dqops/dqo) - 整个数据生命周期的数据质量和可观测性平台,从剖析新数据源到与数据可观测性实现完全自动化. 配置来自UI或YAML的数据质量检查... <sub>⭐ 194 · Java</sub>
+- [stephenleo/llm-structured-output-benchmarks](https://github.com/stephenleo/llm-structured-output-benchmarks) - 基准各种LLM结构化输出框架: 教官,米拉scope,朗链,LlamaIndex,Fructose,Marvin,大纲等关于多标签分类等任务,命名实体识别. . <sub>⭐ 191 · Python</sub>
+- [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - 利用数据聚变和区域生长技术对城市点云进行自动分类和标签的存储器。 <sub>⭐ 190 · Python</sub>
+- [CVMI-Lab/SyntheticData](https://github.com/CVMI-Lab/SyntheticData) - 基因模型的合成数据是否准备好进行图像识别? <sub>⭐ 187 · Python</sub>
+- [blobcity/autoai](https://github.com/blobcity/autoai) - Python 基于返回和分类自动AI的架构超过数值数据。执行模型搜索、超参数调制和高质量的Jupyter Notebook代码生成。 <sub>⭐ 186 · Python</sub>
+- [fhightower/ioc-finder](https://github.com/fhightower/ioc-finder) - 简单、有效、模块化的软件包,用于从文本中解析可观测到的(妥协指数(IOCs),网络数据和其他安全相关信息),它使用语法而不是regexes... <sub>⭐ 184 · Python</sub>
+- [hfawaz/aaltd18](https://github.com/hfawaz/aaltd18) - 利用合成数据进行带有深残留网络的时间序列分类 <sub>⭐ 183 · Python</sub>
+- [ankurhanda/sunrgbd-meta-data](https://github.com/ankurhanda/sunrgbd-meta-data) - sunrgbd 的列车测试标签 <sub>⭐ 181 · Matlab</sub>
+- [Geocene/trainset](https://github.com/Geocene/trainset) - 用于刷标签到时间序列数据的轻量级网络应用程序;可用于构建培训集。 <sub>⭐ 181 · JavaScript</sub>
+- [opendatalab/LOKI](https://github.com/opendatalab/LOKI) - (ICLR 2025 Spotlight) “使用大型多式联运模型的综合合成数据探测基准”文件的正式实施 <sub>⭐ 180 · Python</sub>
+- [hastic-zzz/hastic-grafana-app](https://github.com/hastic-zzz/hastic-grafana-app) - Grafana 用于标签图案和异常的数据管理服务器繁忙 <sub>⭐ 179 · TypeScript</sub>
+- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - 语义分解大深度的背景编码:从互联网图片LiteFlowNet学习单维深度预测:一个光学流估计的轻量级进化神经网络. . <sub>⭐ 179</sub>
+- [brightmart/multi-label_classification](https://github.com/brightmart/multi-label_classification) - 将多标签分类转换为句子配对任务,提供更多培训数据和信息 <sub>⭐ 178 · Python</sub>
+- [himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning) - # AD-Presidental Curpressional Neural Networks for Alzheim's Disease President of Brain MRI Image □抽象阿尔茨海默症的特征是严重的记忆丧失和认知...... <sub>⭐ 177 · Python</sub>
+- [Vicomtech/hate-speech-dataset](https://github.com/Vicomtech/hate-speech-dataset) - 来自 Stormfront 论坛的仇恨言论数据集 手动标注在句子级别上. <sub>⭐ 177</sub>
+- [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - "GROOVE2GROUVE: 由合成数据监管的独热音乐风格传输"的代码 <sub>⭐ 174 · Python</sub>
+- [allenai/pixmo-docs](https://github.com/allenai/pixmo-docs) - ACL 2025:用于文本丰富的图像的合成数据生成管道. <sub>⭐ 170 · Python</sub>
+- [evolvent-ai/RSIBench-Data](https://github.com/evolvent-ai/RSIBench-Data) - 合成数据生成、培训后和E2B基准评价基础设施。 <sub>⭐ 168 · Shell</sub>
+- [hiyouga/Dual-Contrastive-Learning](https://github.com/hiyouga/Dual-Contrastive-Learning) - 我们的论文“双重对比学习:通过标签-智能数据增强对文本进行分类”的代码 <sub>⭐ 168 · Python</sub>
+- [sisinflab/adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey) - 本次调查的目标有两重:(一)介绍对抗性机器学习(AML)方面的最新进展,以保障RS的安全(即攻击和防御推荐模型),(二)显示. <sub>⭐ 166</sub>
+- [Red-Hat-AI-Innovation-Team/sdg_hub](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub) - LLMs 合成数据生成工具箱 <sub>⭐ 164 · Python</sub>
+- [iosifache/DikeDataset](https://github.com/iosifache/DikeDataset) - 带有标签的无害和恶意文件的数据集 <sub>⭐ 163 · TeX</sub>
+- [gjy3035/GCC-SFCN](https://github.com/gjy3035/GCC-SFCN) - 这是论文"从合成数据中学习野生鸦群计数"(CVPR2019)中空间FCN的官方代码. <sub>⭐ 162 · Python</sub>
+- [google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction](https://github.com/google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction) - 此数据集包含用于语法错误校正的合成培训数据。 程序是使用标记的腐败模式从 C4 中腐蚀干净句子生成的。 该方法和... <sub>⭐ 162 · Python</sub>
+- [alibaba/Trescope](https://github.com/alibaba/Trescope) - Trescope是一个全面的3D机器学习开发工具,专门用于改进3D领域的发展经验和速度,它帮助研究人员和开发者贴上标签,调试,可视化. <sub>⭐ 156 · JavaScript</sub>
+- [nupurkmr9/syncd](https://github.com/nupurkmr9/syncd) - SynCD:生成文字对图像自定义的多图像合成数据(ICCV 2025) <sub>⭐ 156 · Python</sub>
+- [cics-nd/pde-surrogate](https://github.com/cics-nd/pde-surrogate) - 物理学对高维代建模和不确定性量化的深层学习没有标签数据 <sub>⭐ 155 · Python</sub>
+- [mahmoodm2/tableGAN](https://github.com/mahmoodm2/tableGAN) - TableGAN是一种基于Generative Adversarial Network架构(DCGAN)的合成数据生成技术(基于Generative Adversarial Networks纸张的数据合成). <sub>⭐ 155 · Python</sub>
+- [mwxely/AIGS](https://github.com/mwxely/AIGS) - AI-Generated Images as data 资料来源:合成时代的黎明 <sub>⭐ 154 · TeX</sub>
+- [BhabhaAI/dataformer](https://github.com/BhabhaAI/dataformer) - 为LLMS解析数据 - 创建优质合成数据集! <sub>⭐ 152 · Python</sub>
+- [jasonmanesis/Ship-Detection-on-Remote-Sensing-Synthetic-Aperture-Radar-Data](https://github.com/jasonmanesis/Ship-Detection-on-Remote-Sensing-Synthetic-Aperture-Radar-Data) - 利用遥感合成孔径雷达数据探测海上船只,其基础是S更快-RCNN和YOLOv5网络的结构。 <sub>⭐ 149 · Jupyter Notebook</sub>
+- [Britefury/django-labeller](https://github.com/Britefury/django-labeller) - 用于创建分块数据集的图像标签工具,用于Django和Flask. <sub>⭐ 148 · Jupyter Notebook</sub>
+- [Trustworthy-ML-Lab/Label-free-CBM](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) - (ICLR 23) 一个将任何神经网络转换为可解释的概念-瓶颈-模型(CBM)而不需要标签的概念数据的新框架 <sub>⭐ 147 · Jupyter Notebook</sub>
+- [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - 这是一个为刺激3D车道检测方法的开发和评价而构建的合成数据集. <sub>⭐ 147 · Python</sub>
+- [atapour/monocularDepth-Inference](https://github.com/atapour/monocularDepth-Inference) - CVPR文件的推论管道,题为"真实-时间单曲深度估计使用合成数据与域适应通过图像样式传输". <sub>⭐ 145 · Python</sub>
+- [zhangzhengde0225/FINet](https://github.com/zhangzhengde0225/FINet) - Foggy Insolator Network, Dataset and Code. 改进对象检测网络,合成雾,数据增强,通道关注机制. Insolator & Defect survey <sub>⭐ 143 · Python</sub>
+- [NatLabRockies/sup3r](https://github.com/NatLabRockies/sup3r) - 可再生能源数据超分辨率(sup3r)软件使用基因对抗网络,从粗细的. . . . <sub>⭐ 140 · Python</sub>
+- [autodistill/autodistill-grounded-sam-2](https://github.com/autodistill/autodistill-grounded-sam-2) - 使用与佛罗伦萨二号连接的Spec Anything 2,用于自动标记数据,用于培训视觉模型. <sub>⭐ 139 · Python</sub>
+- [DocCreator/DocCreator](https://github.com/DocCreator/DocCreator) - 用于合成文件图像和地面真实生成的DIAR软件,以及各种降解模型用于数据增强 <sub>⭐ 138 · C++</sub>
+- [khawar-islam/diffuseMix](https://github.com/khawar-islam/diffuseMix) - DiffuseMix官方PyTorch执行:Label-Preading Data Updatement with Difusion Models (CVPR'2024) 互联网档案馆的存檔,存档日期2013-09-22. <sub>⭐ 137 · Python</sub>
+- [declare-lab/RelationPrompt](https://github.com/declare-lab/RelationPrompt) - 这个寄存器执行我们的ACL Research 2022研究论文 RelationPrompt: 利用提示生成零热关系 Triplet Intractionon的合成数据. Zero-Shot relation的目标... <sub>⭐ 134 · Python</sub>
+- [tomastrajan/ngx-model](https://github.com/tomastrajan/ngx-model) - Angular Model. 简单状态管理,最小化的API,一种方式的数据流,多种模型支持和不可变的数据暴露在RxJS可观察状态下. <sub>⭐ 134 · TypeScript</sub>
+- [sede-open/synthoseis](https://github.com/sede-open/synthoseis) - 生成地震数据和相关标签,以训练深层学习网络. <sub>⭐ 132 · Python</sub>
+- [stefan-jansen/synthetic-data-for-finance](https://github.com/stefan-jansen/synthetic-data-for-finance) - Quant大学关于 " 金融的协同数据生成 " 的演讲材料。 <sub>⭐ 131 · Jupyter Notebook</sub>
+- [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - 数据集传播:基于传播的像素-语义分解合成数据生成(NeurIPS2023) <sub>⭐ 131 · Jupyter Notebook</sub>
+- [NJUNLP/TOWE](https://github.com/NJUNLP/TOWE) - "目标导向的意见词提取与目标注入的神经序列标签"(NAACL2019)的代码和数据. <sub>⭐ 130 · Python</sub>
+- [johnmartinsson/bird-species-classification](https://github.com/johnmartinsson/bird-species-classification) - 利用进化神经网络在鸟歌数据上构建和训练鸟类分类器,并配有相应的物种标签. <sub>⭐ 129 · Python</sub>
+- [Tele-AI/Fluxon](https://github.com/Tele-AI/Fluxon) - 在 Rust 中构建的 AI- 本地分布式数据平面, 它支持高性能的 RPC, KV 缓存, 信件队列, 以及文件与对象加速 <sub>⭐ 128 · Rust</sub>
+- [pyannote/pyannote-core](https://github.com/pyannote/pyannote-core) - 用于处理带有标签的时段的高级数据结构。 <sub>⭐ 126 · Jupyter Notebook</sub>
+- [Akajiaku11/Air-Quality-Prediction-Model](https://github.com/Akajiaku11/Air-Quality-Prediction-Model) - 这个基于Python的项目利用机器的学习,利用合成污染物数据预测空气质量水平,模拟真实世界对各种污染物的空气质量监测. <sub>⭐ 125 · Python</sub>
+- [midrender/pluto](https://github.com/midrender/pluto) - LLM 精细图解的合成数据 <sub>⭐ 125 · Python</sub>
+- [sdv-dev/DeepEcho](https://github.com/sdv-dev/DeepEcho) - 混合型,多变时序的合成数据生成. <sub>⭐ 125 · Python</sub>
+- [cloudposse/terraform-datadog-platform](https://github.com/cloudposse/terraform-datadog-platform) - 配置和提供Datadog监视器的Terraform模块,自定义RBAC角色与权限,Datadog合成测试,Datadog儿童组织,以及来自YAML的其他Datadog资源... <sub>⭐ 124 · HCL</sub>
+- [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - 与我所著的"直觉机器学习"相关的材料,其中一些材料也在我所著的新书"合成数据"和"基因AI"中登场. <sub>⭐ 124 · Python</sub>
+- [MiguelARD/DoorDetect-Dataset](https://github.com/MiguelARD/DoorDetect-Dataset) - 用于门和手柄检测的绑定图像数据集. <sub>⭐ 123</sub>
+- [ParakweetLabs/EmailIntentDataSet](https://github.com/ParakweetLabs/EmailIntentDataSet) - 一些贴标签的关于电子邮件意向机学习的培训和测试数据(基于句子级语音行为) <sub>⭐ 120 · Java</sub>
+- [openlabelsinitiative/OLI](https://github.com/openlabelsinitiative/OLI) - 地址标签标准化框架和数据模型。 <sub>⭐ 119 · Jupyter Notebook</sub>
+- [NVIDIA-AI-IOT/synthetic_data_generation_training_workflow](https://github.com/NVIDIA-AI-IOT/synthetic_data_generation_training_workflow) - 生成合成数据和培训CV模型的工作流程。 <sub>⭐ 118 · Jupyter Notebook</sub>
+- [microsoft/DPSDA](https://github.com/microsoft/DPSDA) - 私人进化:在没有模型训练的情况下生成DP合成数据(ICML 2026,ICLR 2024,ICML 2024 Spotlight) <sub>⭐ 117 · Python</sub>
+- [rapiddweller/datamimic](https://github.com/rapiddweller/datamimic) - 用于CI/CD与分析的模型驱动合成测试数据——定型,隐私保存,以及域-意识. 包括Python APIs,XML管道,以及MCP/IDE集成以协调现实...... <sub>⭐ 116 · Python</sub>
+- [Dynamics-of-Neural-Systems-Lab/MARBLE](https://github.com/Dynamics-of-Neural-Systems-Lab/MARBLE) - 基于局部相位肖像特征的统计分布的非线性动态的多面化数据驱动表达软件包。 包括动态系统的具体实例... <sub>⭐ 115 · Python</sub>
+- [anna-geller/dataflow-ops](https://github.com/anna-geller/dataflow-ops) - 演示如何将 Prefect 2.0 部署自动化到 AWS ECS Fargate 的项目 <sub>⭐ 114 · Python</sub>
+- [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) - 用于 Langfuse (Langfuse) 的模型背景协议(MCP)服务器,使 AI 代理可以查询 Langfuse 痕量数据,以加强调试和可观察性 <sub>⭐ 113 · Python</sub>
+- [decile-team/spear](https://github.com/decile-team/spear) - SPEAR:程序上给培训数据贴上标签并快速构建. <sub>⭐ 113 · Jupyter Notebook</sub>
+- [swamiviv/LSD-seg](https://github.com/swamiviv/LSD-seg) - 从合成数据学习:处理语义分裂的域移 <sub>⭐ 113 · Python</sub>
+- [dnguyen800/air-visual-card](https://github.com/dnguyen800/air-visual-card) - 一张Lovelace卡,显示来自airvisual.com的空气质量数据. 需要AirVisual组件. <sub>⭐ 112</sub>
+- [HazyResearch/reef](https://github.com/HazyResearch/reef) - 自动标记培训数据 <sub>⭐ 108 · Jupyter Notebook</sub>
+- [evidentlyai/ml_observability_course](https://github.com/evidentlyai/ml_observability_course) - 为数据科学家和ML工程师提供免费的开源ML可观察性课程,学习如何在生产中监控和调试您的ML模型. <sub>⭐ 106 · Jupyter Notebook</sub>
+- [PRBonn/auto-mos](https://github.com/PRBonn/auto-mos) - 自动标签生成基于在线的 LiDAR 移动对象分区的培训数据 <sub>⭐ 104 · Python</sub>
+- [czyt1988/data-workbench](https://github.com/czyt1988/data-workbench) - AI Agent驱动的数据分析工作台基于C++17/Qt:定向图工作流程引擎,嵌入式Python(pandas/numpy),交互式出版质量图表,C++ & Python插件. Renders 100M+... <sub>⭐ 102 · C++</sub>
+- [mainlp/awesome-human-label-variation](https://github.com/mainlp/awesome-human-label-variation) - 在自然语言处理和计算机视野中,一个带有人类标签变异(未加汇总的标签)的令人惊叹的数据集的目录,附载了人类标签变异的‘问题':在地上...... <sub>⭐ 102</sub>
+- [rmarquet21/streamlit-annotation-tools](https://github.com/rmarquet21/streamlit-annotation-tools) - 简写注释工具是一个简写组件,可以让您获取文本数据的各种注释工具(标签、突出显示等)。 <sub>⭐ 101 · TypeScript</sub>
+- [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - 一个库,利用条件性基因变异网络(GANs)结合差异隐私技术生成合成表型或RDF数据. <sub>⭐ 100 · Python</sub>
+- [VincentGranville/Main](https://github.com/VincentGranville/Main) - 主文件夹:与我关于合成数据和基因识别的书籍有关的材料,还包含从多个文件夹混合组件的文件,或涵盖跨越多个文件夹的专题。 <sub>⭐ 99 · Python</sub>
+- [wsyCUHK/WSYCUHK_FDIA](https://github.com/wsyCUHK/WSYCUHK_FDIA) - 智能网格中虚假数据注射攻击的位置检测:多标签分类方法 <sub>⭐ 99 · Python</sub>
+- [shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing](https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing) - 这个项目提出了使用Python进行心脏病风险预测的比较机器学习框架,包括数据预处理,特征工程,SMOTE用于班级平衡,交叉. <sub>⭐ 97 · Jupyter Notebook</sub>
+- [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - 自动数据标签的代理技能,在Openai Codex hackathon 2026上获胜 <sub>⭐ 96 · Python</sub>
+- [ligengen/EgoGen](https://github.com/ligengen/EgoGen) - (CVPR 2024) EgoGen的官方代码: 一个Egocentral合成数据生成器 <sub>⭐ 94 · Python</sub>
+- [monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit) - 用于AI编码代理的官方Monte Carlo工具包,将数据和代理可观察性——监测,分解,故障排除,健康检查——引入Claude Code, Cursor,和. <sub>⭐ 94 · Python</sub>
+- [SunzeY/Bootstrap3D](https://github.com/SunzeY/Bootstrap3D) - (ICCV-2025) 官方实施Bootstrap3D:用合成数据改进多视图传播模型 <sub>⭐ 94 · Python</sub>
+- [abbyy/barcode_detection_benchmark](https://github.com/abbyy/barcode_detection_benchmark) - 论文"使用合成数据与真实数据进行条码检测的新基准"的代码 https://link.springer.com/chapter/10.1007% 2F978-3-030-57058-3_34 <sub>⭐ 93 · Python</sub>
+- [CAMMA-public/cholect50](https://github.com/CAMMA-public/cholect50) - 外科手术动作三胞胎数据集的存储器。数据是每一次外科手术的细纹活动都贴有标签的膝盖切除术的视频。 <sub>⭐ 92 · Python</sub>
+- [rg2/DeepFluoroLabeling-IPCAI2020](https://github.com/rg2/DeepFluoroLabeling-IPCAI2020) - IPCAI 2020论文"注释"部分的代码和数据:"Hip解剖学在氟化物学中的自动注释,用于强力和高效2D/3D注册. <sub>⭐ 91 · Python</sub>
+- [abeltavares/batch-data-pipeline](https://github.com/abeltavares/batch-data-pipeline) - 与Airflow, DuckDB, Delta Lake, Trino, MinIO,和Metabase的批量数据管道,完全可观测性和数据质量. <sub>⭐ 89 · Python</sub>
+- [grant-m-s/AstronomicAL](https://github.com/grant-m-s/AstronomicAL) - 一个基于插件的交互式平台,用于探索、标签、整合和模拟科学数据 <sub>⭐ 88 · Python</sub>
+- [human-3d/Human3D](https://github.com/human-3d/Human3D) - 我们提出第一个多人身体部位分化模型,叫做Human3D,直接在3D场景上运行. 在广泛的分析中,我们验证了合成数据培训的好处...... <sub>⭐ 88 · Python</sub>
+- [LWHYC/PASTA](https://github.com/LWHYC/PASTA) - 泛图莫放射学基金会模型利用合成培训数据进行高级肿瘤观察 <sub>⭐ 87 · Python</sub>
+- [trojai/trojai](https://github.com/trojai/trojai) - 快速生成合成数据和相关三角深层学习模型的存储器 <sub>⭐ 85 · Python</sub>
+- [yc4ny/SVAD](https://github.com/yc4ny/SVAD) - (CVPR Working 2025) SVAD的代码:从单一图像到3D Avatar通过合成数据生成,并带有视频传播和数据增强功能 <sub>⭐ 85 · Python</sub>
+- [lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets](https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets) - 这是即将发表的论文"深金属表面缺陷检测:新基准和检测网络"的GC10-DET数据集,收集了10个常见金属表面缺陷的图像. . <sub>⭐ 84</sub>
+- [tirthajyoti/Synthetic-data-gen](https://github.com/tirthajyoti/Synthetic-data-gen) - 为数据科学和ML生成合成数据的各种方法 <sub>⭐ 84 · Jupyter Notebook</sub>
+- [Oqura-ai/local-datagen-cli](https://github.com/Oqura-ai/local-datagen-cli) - 利用本地文件资源进行合成数据集生成工作流程,以微调llms. <sub>⭐ 83 · Python</sub>
+- [Acelogic/Earnings-Volatility-Calculator](https://github.com/Acelogic/Earnings-Volatility-Calculator) - 一个基于Python的工具,它分析围绕收入事件的各种选项数据,计算波动度量(如IV30/RV30,ATR,和阳-张波动),并提供推荐,考虑,或避免. <sub>⭐ 82 · Python</sub>
+- [UMEssen/SALT](https://github.com/UMEssen/SALT) - 任意标签树的软max(SALT)是培训分块网络的一个框架,利用有条件的概率在数据中建模等级关系. <sub>⭐ 82 · Python</sub>
+- [GMvandeVen/class-incremental-learning](https://github.com/GMvandeVen/class-incremental-learning) - PyTorch执行基于VAE的基因分类器,以及其他不存储数据的类递增学习方法(DGR,BI-R,EWC,SI,CWR,CWR+,AR1,"标签诡计",SLDA). <sub>⭐ 81 · Python</sub>
+- [DataKitchen/dataops-testgen](https://github.com/DataKitchen/dataops-testgen) - DataOps 数据质量测试Gen是DataKitchen开放源数据可观测性的一部分. DataOps TestGen通过数据剖析,新数据集提供简单快速的数据质量测试生成和执行. . <sub>⭐ 79 · Python</sub>
+- [Diffusion-Dynamics/watermark-segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation) - 由 DifunusionDynamics.ai 和 clear.photo 进行开源水印分解. 利用 PyTorch 的深层学习加合成数据增量来精确检测标志/文本。 这个最小的代码... <sub>⭐ 79 · Jupyter Notebook</sub>
+- [AKASH2907/bird_species_classification](https://github.com/AKASH2907/bird_species_classification) - 高分辨率图像中鸟类物种的监管分类,特别是喜马拉雅鸟类的分类,这些鸟类种类具有相当低的标签数据(ICVGIPW'18) <sub>⭐ 78 · Python</sub>
+- [IntelligentDDS/Nezha](https://github.com/IntelligentDDS/Nezha) - 在FSE 2023中实施多式联运可观测数据根因分析方法 <sub>⭐ 78 · Python</sub>
+- [mostly-ai/mostlyai-engine](https://github.com/mostly-ai/mostlyai-engine) - 合成数据引擎 <sub>⭐ 78 · Python</sub>
+- [yoheinakajima/autofinetune](https://github.com/yoheinakajima/autofinetune) - 带有合成数据的模型自动微调 <sub>⭐ 78 · Python</sub>
+- [RajdeepBiswas/AI_Enabled_Image_Bucketization](https://github.com/RajdeepBiswas/AI_Enabled_Image_Bucketization) - 基于排气数据和AI生成的数据的图像Bucketize. Industrial-solution azure azure machine学习服务 计算机视觉大数据 大数据分析机学习图像识别... <sub>⭐ 77 · Python</sub>
+- [sarulab-speech/jsut-label](https://github.com/sarulab-speech/jsut-label) - 上下文标签和JSUTabum的读音数据 <sub>⭐ 77</sub>
+- [stanford-star/plurel](https://github.com/stanford-star/plurel) - 综合表格和关系数据生成框架 <sub>⭐ 77 · Python</sub>
+- [anirudhshenoy/pseudo_labeling_small_datasets](https://github.com/anirudhshenoy/pseudo_labeling_small_datasets) - Pseudo标签用于神经网络和逻辑回归/SVM(基于"Pseudo-Label:深神经网络的简单高效半监督学习方法"). <sub>⭐ 76 · Jupyter Notebook</sub>
+- [bermufine/dcmp](https://github.com/bermufine/dcmp) - {"类别":({"名称":"电影",videos):({"描述":"1945年刚果全国广播电视台(La Radio-Télévisione est creée en 1945. Elle prend le nom de'Office zaïrois de radiodifusation and de televisão (OZRT))...... <sub>⭐ 76</sub>
+- [hjeffreywang/Stock_feature_engineering](https://github.com/hjeffreywang/Stock_feature_engineering) - 创建了连续的,同质的,结构化的10GB数据集,来自自发收集的日内非结构化财务数据。从指标,统计和最近. <sub>⭐ 76 · Jupyter Notebook</sub>
+- [nikk-nikaznan/SSVEP-Neural-Generative-Models](https://github.com/nikk-nikaznan/SSVEP-Neural-Generative-Models) - 我们国际神经网络联席会议题为《模拟脑信号:通过基于神经的基因模型建立合成电磁学数据》的文件所附的守则。 <sub>⭐ 75 · Python</sub>
+- [Danau5tin/tbench-agentic-data-pipeline](https://github.com/Danau5tin/tbench-agentic-data-pipeline) - 多剂合成数据生成管道,能够生成和验证用于RL培训的长视野终端/编码任务 <sub>⭐ 74 · Python</sub>
+- [AI4Bharat/Shoonya](https://github.com/AI4Bharat/Shoonya) - Shoonya - 规模化地对数据进行注释和标签的平台. <sub>⭐ 72</sub>
+- [Jorwnpay/NK-Sonar-Image-Dataset](https://github.com/Jorwnpay/NK-Sonar-Image-Dataset) - 新创建的前瞻性声纳图像识别基准,命名为NanKai Sonar图像数据集(NKSID). 此数据集包含来自8类的2617个图像,标签显示自然长...... <sub>⭐ 72</sub>
+- [soyjavi/hamsa](https://github.com/soyjavi/hamsa) - 一个已死的简单、数据约束和可观察模型。 <sub>⭐ 72 · CoffeeScript</sub>
+- [unrealgt/unrealgt](https://github.com/unrealgt/unrealgt) - 一个与不真实引擎一起进行计算机视觉合成测试数据生成的框架. <sub>⭐ 72 · C++</sub>
+- [NextBrain-ai/nbsynthetic](https://github.com/NextBrain-ai/nbsynthetic) - nbsynthetic是用于中小型数据集的简单而强健的表格式合成数据生成库 <sub>⭐ 71 · Jupyter Notebook</sub>
+- [WenjieDu/PyGrinder](https://github.com/WenjieDu/PyGrinder) - PyGrinder:一个Python工具箱,用于将数据豆磨成不完整的数据,用于现实世界的数据模拟,方法是引入缺失值,具有不同的缺失模式,包括MCAR(完成于. <sub>⭐ 71 · Python</sub>
+- [YesianRohn/UnionST](https://github.com/YesianRohn/UnionST) - (CVPR 2026) 论文官方数据合成代码"合成数据对场景文本识别有什么问题? 具有多元模拟和自我演化的强合成引擎". <sub>⭐ 71 · Python</sub>
+- [AlturosDestinations/Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) - 一个为 Yolo 标签图像数据的合作工具 <sub>⭐ 70 · C#</sub>
+- [BenChaliah/TimeSeriesGAN](https://github.com/BenChaliah/TimeSeriesGAN) - 用于时间序列分析的GANs(合成数据生成、异常检测和插值),使用Optuna、MLFlow和Databricks的超调 <sub>⭐ 70 · Jupyter Notebook</sub>
+- [dmey/synthia](https://github.com/dmey/synthia) - Python 中带有 Copula 和 fPCA 模型的多层面合成数据生成 <sub>⭐ 70 · Python</sub>
+- [lcysyzxdxc/AGIQA-3k-Database](https://github.com/lcysyzxdxc/AGIQA-3k-Database) - (IEE TCSVT2023) AI生成图像质量评估的精细主观感知与对齐数据库 <sub>⭐ 70</sub>
+- [ahstat/episodic-memory-benchmark](https://github.com/ahstat/episodic-memory-benchmark) - "大语言模型的理论记忆生成与评价基准"(ICLR 2025)的合成数据生成与基准实施. <sub>⭐ 69 · Jupyter Notebook</sub>
+- [Dogiye12/Oil-Spill-Detection-using-SAR-Data-Deep-Learning](https://github.com/Dogiye12/Oil-Spill-Detection-using-SAR-Data-Deep-Learning) - 该项目利用深层学习,在合成合成合成孔径雷达图像中演示漏油探测,它生成带有光谱噪声和溢出区域的合成数据集,为.培训一种轻量级U-Net模型. <sub>⭐ 69 · Python</sub>
+- [HowieHwong/DataGen](https://github.com/HowieHwong/DataGen) - (ICLR'25) DataGen:通过大语言模型生成统一合成数据集 <sub>⭐ 69 · Python</sub>
+- [Okes2024/Air-Quality-Index-Prediction-Using-ML-and-IoT-Sensor-Data](https://github.com/Okes2024/Air-Quality-Index-Prediction-Using-ML-and-IoT-Sensor-Data) - 该项目模拟IOT传感器数据,利用机器学习来预测空气质量指数(AQI),它生成合成数据集,计算AQI,训练多个模型,并提供评价. <sub>⭐ 69 · Python</sub>
+- [pchukwuemeka424/A-Hybrid-AI-Model-Integrating-LSTM-XGBoost-for-Interpretable-Prediction-Clustering-of-Water-Quality](https://github.com/pchukwuemeka424/A-Hybrid-AI-Model-Integrating-LSTM-XGBoost-for-Interpretable-Prediction-Clustering-of-Water-Quality) - 混合AI模型 集成LSTM、XGBoost和K-Means于一体,用于数据稀缺区域水质的可解释预测和分组 <sub>⭐ 69 · Python</sub>
+- [rasinmuhammed/misata](https://github.com/rasinmuhammed/misata) - 切入您所申报数字的合成数据。 多表, 有经过验证的外键完整性、 确定性、 数据路径中没有模型 。 Python + MCP 服务器。 简言之, 一个强大的... <sub>⭐ 69 · Python</sub>
+- [slrbl/human-in-the-loop-machine-learning-tool-tornado](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado) - "旋风"是一个开源的Human-in-toop机器学习工具,它帮助您在通过简单的网络用户界面培训您的模型的同时在苍蝇上标注了您的数据集。它支持所有的数据... <sub>⭐ 69 · Ruby</sub>
 
 ---
 [⬆️ 返回顶部](#-数据工程师-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

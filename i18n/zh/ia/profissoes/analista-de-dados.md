@@ -20,1026 +20,1026 @@
 
 > 用自然语言提问，获得查询、表格和图表。
 
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server. <sub>⭐ 57.6k · Python</sub>
-- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your… <sub>⭐ 28.3k · Java</sub>
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. <sub>⭐ 23.8k · Python</sub>
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. <sub>⭐ 22.2k · Python</sub>
-- [huggingface/datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools <sub>⭐ 22.0k · Python</sub>
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data… <sub>⭐ 17.8k · Python</sub>
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent… <sub>⭐ 11.5k · TypeScript</sub>
-- [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course <sub>⭐ 10.7k · Python</sub>
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view… <sub>⭐ 9.8k · Python</sub>
-- [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and… <sub>⭐ 7.1k · Rust</sub>
-- [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) - Time series forecasting with PyTorch <sub>⭐ 5.0k · Python</sub>
-- [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. <sub>⭐ 4.3k · TypeScript</sub>
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide… <sub>⭐ 4.3k · Python</sub>
-- [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries <sub>⭐ 4.0k · Jupyter Notebook</sub>
-- [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more. <sub>⭐ 3.8k</sub>
-- [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs <sub>⭐ 3.6k · Python</sub>
-- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to… <sub>⭐ 3.1k · C++</sub>
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python <sub>⭐ 3.0k · Python</sub>
-- [mito-ds/mito](https://github.com/mito-ds/mito) - Jupyter extensions that help you write code faster: Context aware AI Chat, Autocomplete, and Spreadsheet <sub>⭐ 2.7k · Jupyter Notebook</sub>
-- [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content <sub>⭐ 2.3k · Python</sub>
-- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance in Text-to-SQL <sub>⭐ 2.0k · Python</sub>
-- [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmaps, Interview Prep. For beginners and experts. <sub>⭐ 2.0k</sub>
-- [getnao/nao](https://github.com/getnao/nao) - nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone <sub>⭐ 1.7k · TypeScript</sub>
-- [commaai/panda](https://github.com/commaai/panda) - firmware powering the comma.ai panda <sub>⭐ 1.7k · C</sub>
-- [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. <sub>⭐ 1.6k · Python</sub>
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite... <sub>⭐ 1.6k · TypeScript</sub>
-- [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data. <sub>⭐ 1.5k · TypeScript</sub>
-- [SciSharp/NumSharp](https://github.com/SciSharp/NumSharp) - High Performance Computation for N-D Tensors in .NET, similar API to NumPy. <sub>⭐ 1.5k · C#</sub>
-- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL / A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based… <sub>⭐ 1.4k</sub>
-- [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and… <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most… <sub>⭐ 1.2k · Python</sub>
-- [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data <sub>⭐ 1.1k · JavaScript</sub>
-- [taoyds/spider](https://github.com/taoyds/spider) - scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge <sub>⭐ 1.1k · Python</sub>
-- [bird-bench/BIRD-Interact](https://github.com/bird-bench/BIRD-Interact) - (ICLR 2026 Oral) BIRD-INTERACT: Re-imagines Text-to-SQL evaluation via lens of dynamic interactions. <sub>⭐ 1.0k · Python</sub>
-- [xlang-ai/Spider2](https://github.com/xlang-ai/Spider2) - (ICLR 2025 Oral) Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows <sub>⭐ 874 · HTML</sub>
-- [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - A series of top performing Text to SQL LLMs <sub>⭐ 860 · Jupyter Notebook</sub>
-- [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter. <sub>⭐ 816 · Dart</sub>
-- [yvann-ba/Robby-chatbot](https://github.com/yvann-ba/Robby-chatbot) - AI chatbot for chat with CSV, PDF, TXT files and YTB videos / using Langchain / OpenAI / Streamlit <sub>⭐ 814 · Python</sub>
-- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - An LLM-driven data analyst that works in a persistent Python kernel. Web app, Docker-isolated execution, your own model keys. Full support for open weights models via provider or local. <sub>⭐ 792 · Python</sub>
-- [HKUSTDial/awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents) - Continuously updated paper list on advancements in Data Agents. Companion repo to our paper "A Survey of Data Agents: Emerging Paradigm or Overstated Hype?" <sub>⭐ 765 · Python</sub>
-- [cohnen/mcp-google-ads](https://github.com/cohnen/mcp-google-ads) - An MCP tool that connects Google Ads with Claude AI/Cursor and others, allowing you to analyze your advertising data through natural language conversations. This integration gives you access to… <sub>⭐ 708 · Python</sub>
-- [zhongyu09/openchatbi](https://github.com/zhongyu09/openchatbi) - OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph… <sub>⭐ 658 · Python</sub>
-- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write… <sub>⭐ 649 · Svelte</sub>
-- [BeachWang/DAIL-SQL](https://github.com/BeachWang/DAIL-SQL) - A efficient and effective few-shot NL2SQL method on GPT-4. <sub>⭐ 643 · Python</sub>
-- [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization. <sub>⭐ 622 · TypeScript</sub>
-- [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB is a lightweight desktop app built with Tauri + Rust, powered by Apache DataFusion. Query local CSV, TSV, Text, NdJson, Excel, Parquet files and MySQL databases directly with SQL — no external… <sub>⭐ 589 · TypeScript</sub>
-- [kaarthik108/snowChat](https://github.com/kaarthik108/snowChat) - Chat snowflake - Text to SQL <sub>⭐ 552 · Python</sub>
-- [polyaxon/traceml](https://github.com/polyaxon/traceml) - Engine for AI/ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon. <sub>⭐ 534 · Python</sub>
-- [GoogleCloudPlatform/genai-for-marketing](https://github.com/GoogleCloudPlatform/genai-for-marketing) - Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including… <sub>⭐ 517 · Jupyter Notebook</sub>
-- [zqhZY/_rasa_chatbot](https://github.com/zqhZY/_rasa_chatbot) - A Chinese task oriented chatbot in IVR(Interactive Voice Response) domain, implement by rasa. This is a demo with toy dataset, more data should be added for performance. <sub>⭐ 493 · Python</sub>
-- [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance. <sub>⭐ 476 · Python</sub>
-- [varunkashyapks/Books](https://github.com/varunkashyapks/Books) - Books related to AI/ML/DL/GENAI <sub>⭐ 468</sub>
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - 完成本地模型上的私人AI应用程序的API层:RAG,技能,工具,MCP,文本到sql等. Works with any OpenAI-兼容推论服务器. <sub>⭐ 57.6k · Python</sub>
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB是开发者,DBA,分析师和数据团队的自由跨平台,本地第一数据库客户端和SQL工作空间. 连接到40+数据库,管理数据,编辑和运行SQL,并使用你的... <sub>⭐ 28.3k · Java</sub>
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 与您的数据库或数据湖(SQL, CSV, parquet)聊天。 PandasAI 使用 LLMs 和 RAG 进行数据分析对话 。 <sub>⭐ 23.8k · Python</sub>
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - 使用 GPT 模型与本地设备上的文档聊天。 没有数据会留下您的设备, 并且100%是私有的 。 <sub>⭐ 22.2k · Python</sub>
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 使用快速、方便和有效的数据操作工具的AI模型的现成使用数据集的最大枢纽 <sub>⭐ 22.0k · Python</sub>
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI(Generative BI)用于AI代理,一种开源,通过一个开放的上下文层来规范文本到SQL,将自然语言问题转化为可信赖的仪表板,图表,以及跨越20+数据的SQL. <sub>⭐ 17.8k · Python</sub>
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - 开源代理工作空间企业可以自己制作。 连接您已经运行的系统—— 100+集成, MCP,聊天工具, 应用程序,浏览器, 本地文件—— 共享内存。 任何代理... <sub>⭐ 11.5k · TypeScript</sub>
+- [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - 打开机器学习课程 <sub>⭐ 10.7k · Python</sub>
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - 代理技能,将自然语言,代码,Terraform/K8s,SQL,OpenAPI,AsyncAPI,Protobuf和GraphQL源变成可编辑,测试的draw.io架构图:增量同步,多视图... <sub>⭐ 9.8k · Python</sub>
+- [lance-format/lance](https://github.com/lance-format/lance) - 为多模式AI打开湖屋格式。 从 Parquet 转换为两行代码, 用于100x更快的随机访问、 矢量指数和数据版本。 兼容熊猫、 DuckDB、 极地、 Pyarrow 和... <sub>⭐ 7.1k · Rust</sub>
+- [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) - 使用 PyTorch 进行时间序列预测 <sub>⭐ 5.0k · Python</sub>
+- [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Transfer 是使用人工智能将自然语言查询转换为SQL代码的工具,这个项目是100%的自由和开放源代码. <sub>⭐ 4.3k · TypeScript</sub>
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald是一个基于Python的交互式数据应用程序的WASM包机:捆绑完整的复杂数据工作流程,特别是可视化,输入单文件,可完全在浏览器中运行,使用Pyodide... <sub>⭐ 4.3k · Python</sub>
+- [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - 将自然语言问题转换为 SQL 查询的 SoTA LLM <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - 大语言模型,Text2SQL,Text2DSL,Text2API,Text2Vis等的校准教程和资源. <sub>⭐ 3.8k</sub>
+- [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - 与您的 SQL 数据库交互, 使用 LLMs 的自然语言到 SQL <sub>⭐ 3.6k · Python</sub>
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - AI- Native 搜索数据库。 对于代理存储,它最好将矢量,文本,结构化和半结构化的数据统一成一个单一的引擎。这个全集的数据库让代理机更聪明,更容易... <sub>⭐ 3.1k · C++</sub>
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Python 的热重装和剖析 <sub>⭐ 3.0k · Python</sub>
+- [mito-ds/mito](https://github.com/mito-ds/mito) - 帮助您更快地写入代码的 Jupyter 扩展: 上下文意识到 AI Chat, 自动完成和电子表格 <sub>⭐ 2.7k · Jupyter Notebook</sub>
+- [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - 理解数据内容的AI码写助理 <sub>⭐ 2.3k · Python</sub>
+- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - 一个包含 DB- GPT 模型、数据集和微调技术的存储器,目的是提高文本到SQL 中的模型性能 <sub>⭐ 2.0k · Python</sub>
+- [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - 500+ 数据分析与数据科学的编译资源:Python,SQL,统计学,ML,AI,可视化,Cheetsheets,路线图,访谈准备,供初学者和专家使用. <sub>⭐ 2.0k</sub>
+- [getnao/nao](https://github.com/getnao/nao) - nao是开源分析代理。 (1) 创建 nao- core cli 上下文, (2) 为每个人部署 nao 聊天界面 <sub>⭐ 1.7k · TypeScript</sub>
+- [commaai/panda](https://github.com/commaai/panda) - 给熊猫逗号提供动力的固件 <sub>⭐ 1.7k · C</sub>
+- [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook) - 这是一本不断更新的手册,供读者方便地跟踪文献中最新的文本到SQL技术,并为研究人员和从业人员提供实用指导. <sub>⭐ 1.6k · Python</sub>
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - 与您的数据聊天 - CSV, Postgres, MySQL, Snowflake, SQLite上的AI数据分析和可视化... <sub>⭐ 1.6k · TypeScript</sub>
+- [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - 轻量级, 自托管, 开源聊天服务器, 有语音、 视频、 文本和屏幕共享功能。 为希望隐私、 简单、 完全控制数据的小群体所建 。 <sub>⭐ 1.5k · TypeScript</sub>
+- [SciSharp/NumSharp](https://github.com/SciSharp/NumSharp) - 在.NET中N-D Tensors的高性能计算,类似于NumPy的API. <sub>⭐ 1.5k · C#</sub>
+- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) 下Generation数据库接口:对基于LLM的文本到SQL / 关于基于大语言模型的资源(调查,论文,基准,和开源项目)目录的调查. . <sub>⭐ 1.4k</sub>
+- [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Express Engineering 教程在大语言模型上,例如带有自定义数据的ChatGPT(LLMS). Jupyter 笔记本在加载和索引数据上,创建了即时模板,CSV代理,以及... <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - Azure运行的RAG图案的解决方案加速器,使用Azure AI搜索检索和Azure OpenAI大语言模型为ChatGPT风格和QQA体验提供动力。这包括大多数... <sub>⭐ 1.2k · Python</sub>
+- [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI- powered Jupyter Notebook. 使用AI生成和编辑代码单元格,自动修正错误,并与您的数据聊天 <sub>⭐ 1.1k · JavaScript</sub>
+- [taoyds/spider](https://github.com/taoyds/spider) - 蜘蛛的脚本和基线:耶鲁语复杂和跨域语义解析及文本对SQL的挑战 <sub>⭐ 1.1k · Python</sub>
+- [bird-bench/BIRD-Interact](https://github.com/bird-bench/BIRD-Interact) - (ICLR 2026 Opper) BIRD-INTERACT:通过动态相互作用的透镜重新映射到SQL的评价. <sub>⭐ 1.0k · Python</sub>
+- [xlang-ai/Spider2](https://github.com/xlang-ai/Spider2) - (ICLR 2025 Opper) Spider 2.0:评价现实世界企业文字到SQL工作流的语言模型 <sub>⭐ 874 · HTML</sub>
+- [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - SQL LLM 一系列顶级表演文本 <sub>⭐ 860 · Jupyter Notebook</sub>
+- [sjjian/openhare](https://github.com/sjjian/openhare) - AI 驱动桌面 SQL 客户端。 跨平台。 用 Flutter 构建 。 <sub>⭐ 816 · Dart</sub>
+- [yvann-ba/Robby-chatbot](https://github.com/yvann-ba/Robby-chatbot) - AI聊天机与 CSV, PDF, TXT 文件及 YTB 视频进行聊天 / 使用 Langchain / OpenAI / Streamlit <sub>⭐ 814 · Python</sub>
+- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - 一个LLM驱动的数据分析师,在持续的 Python 内核中工作. Web app, Docker-isolated execution, 您自己的模型密钥。 通过提供者或本地端对开放权重模型的全力支持 。 <sub>⭐ 792 · Python</sub>
+- [HKUSTDial/awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents) - 不断更新关于数据代理器进步的论文列表 伴奏重回我们的文件"数据代理器调查:新兴范式或过度描述假说?" <sub>⭐ 765 · Python</sub>
+- [cohnen/mcp-google-ads](https://github.com/cohnen/mcp-google-ads) - 一个将Google Ads与Claude AI/Cursor等人连接起来的MCP工具,允许您通过自然语言对话来分析您的广告数据。这个集成使您可以访问... <sub>⭐ 708 · Python</sub>
+- [zhongyu09/openchatbi](https://github.com/zhongyu09/openchatbi) - OpenChatBI是一款由大型语言模型提供动力的智能聊天BI工具,旨在帮助用户通过自然语言对话查询,分析,并可视化数据. 它使用LangGraph... <sub>⭐ 658 · Python</sub>
+- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1管理器是Cloudflare D1的网络UI和API,是一个没有服务器的SQL数据库,它提供了管理数据库,表格和记录的网络界面,以及帮助您写入的AI助手. . <sub>⭐ 649 · Svelte</sub>
+- [BeachWang/DAIL-SQL](https://github.com/BeachWang/DAIL-SQL) - 在GPT-4上采用高效有效的几发NL2SQL方法. <sub>⭐ 643 · Python</sub>
+- [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - 从表格数据集制作带有Chat Interface的上下文数据可视化. AI数据可视化. <sub>⭐ 622 · TypeScript</sub>
+- [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB是使用Tauri + Rust所建的轻量级桌面应用程序,由Apache DataFusion提供动力. 查询本地CSV,TSV,Text,NdJson,Excel,Parquet文件以及直接与SQL一起使用的MySQL数据库——没有外部... <sub>⭐ 589 · TypeScript</sub>
+- [kaarthik108/snowChat](https://github.com/kaarthik108/snowChat) - 聊天雪花 - 文本到 SQL <sub>⭐ 552 · Python</sub>
+- [polyaxon/traceml](https://github.com/polyaxon/traceml) - AI/ML/数据跟踪、可视化、可解释性、漂移探测和Polyaxon仪表板的引擎。 <sub>⭐ 534 · Python</sub>
+- [GoogleCloudPlatform/genai-for-marketing](https://github.com/GoogleCloudPlatform/genai-for-marketing) - 通过应用程序前端,后端,以及详细的,分步骤的指导来显示Google Cloud的基因AI用于营销情景的功能,用于设置和使用基因AI工具,包括. <sub>⭐ 517 · Jupyter Notebook</sub>
+- [zqhZY/_rasa_chatbot](https://github.com/zqhZY/_rasa_chatbot) - 一个中国任务导向的 IVR( 互动语音响应) 域中的聊天器, 由 rasa 执行。 这是一个带有玩具数据集的演示, 应当添加更多数据来进行性能操作 。 <sub>⭐ 493 · Python</sub>
+- [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL是一个新颖的框架,它利用可缩放的计算来显著改善Text对SQL的性能. <sub>⭐ 476 · Python</sub>
+- [varunkashyapks/Books](https://github.com/varunkashyapks/Books) - 与AI/ML/DL/GENAI有关的书籍 <sub>⭐ 468</sub>
 - [premAI-io/premsql](https://github.com/premAI-io/premsql) - 端到端的本地第一文本对 SQL 管道 <sub>⭐ 462 · Python</sub>
-- [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords) - Chat with your data - with memory, rules, and observability built in. Deploy in 2 minutes <sub>⭐ 458 · Python</sub>
-- [RUCKBReasoning/OmniSQL](https://github.com/RUCKBReasoning/OmniSQL) - (VLDB' 25) Synthesizing High-quality Text-to-SQL Data at Scale. SynSQL-2.5M is the first million-scale cross-domain text-to-SQL dataset. <sub>⭐ 455 · Python</sub>
-- [Mindinventory/MindSQL](https://github.com/Mindinventory/MindSQL) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables… <sub>⭐ 447 · Python</sub>
-- [xiaojunxu/SQLNet](https://github.com/xiaojunxu/SQLNet) - Neural Network for generating structured queries from natural language. <sub>⭐ 432 · Python</sub>
-- [josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL… <sub>⭐ 398 · HTML</sub>
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL <sub>⭐ 380 · Python</sub>
-- [microsoft/winrtc](https://github.com/microsoft/winrtc) - The WinRTC project hosts everything needed to build apps with interoperable real time communications for modern Windows. It brings the power of WebRTC to modern Windows apps written in C#, C++ and… <sub>⭐ 361 · C++</sub>
-- [Data-Centric-AI-Community/awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) - Open-Source Software, Tutorials, and Research on Data-Centric AI <sub>⭐ 357 · Jupyter Notebook</sub>
-- [wbbeyourself/MAC-SQL](https://github.com/wbbeyourself/MAC-SQL) - MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL <sub>⭐ 352 · Python</sub>
-- [vercel-labs/natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) - Natural language to SQL template built with Next.js and the AI SDK <sub>⭐ 326 · TypeScript</sub>
-- [gexijin/RTutor](https://github.com/gexijin/RTutor) - Chat with your data via AI. https://RTutor.ai <sub>⭐ 323 · HTML</sub>
+- [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords) - 与您的数据聊天 , 用内存、 规则和可观察性 。 在 2 分钟内部署 。 <sub>⭐ 458 · Python</sub>
+- [RUCKBReasoning/OmniSQL](https://github.com/RUCKBReasoning/OmniSQL) - (VLDB' 25) 以规模合成高质量文本对SQL数据. SynSQL-2.5M是首个百万比例跨域文本对SQL数据集. <sub>⭐ 455 · Python</sub>
+- [Mindinventory/MindSQL](https://github.com/Mindinventory/MindSQL) - MindSQL: 一个 Python Text to-SQL RAG 库简化了数据库交互。 它与 PostgreSQL, MySQL, SQLite, S雪花和大Query 的无缝集成。 由 TPT-4 和 Llama 2 提供动力, 可以... <sub>⭐ 447 · Python</sub>
+- [xiaojunxu/SQLNet](https://github.com/xiaojunxu/SQLNet) - 从自然语言生成结构化查询的神经网络. <sub>⭐ 432 · Python</sub>
+- [josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters) - 用于创建字符和与之聊天的简单小网络界面。 它基本上是一个单一的 HTML 文件 - 没有服务器。 使用链接共享字符( 特征数据存储在 URL...) 。 <sub>⭐ 398 · HTML</sub>
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - Python 和 SQL 的高性能可缩放数据处理 <sub>⭐ 380 · Python</sub>
+- [microsoft/winrtc](https://github.com/microsoft/winrtc) - WinRTC项目主机为现代Windows构建具有互操作性实时通信的应用软件所需的一切,它将WebRTC的力量带给以C#,C++和. <sub>⭐ 361 · C++</sub>
+- [Data-Centric-AI-Community/awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) - 开源软件、教学和数据-儿科AI研究 <sub>⭐ 357 · Jupyter Notebook</sub>
+- [wbbeyourself/MAC-SQL](https://github.com/wbbeyourself/MAC-SQL) - MAC-SQL: 文本对SQL的多代理合作框架 <sub>⭐ 352 · Python</sub>
+- [vercel-labs/natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) - SQL 模板的自然语言与 Next.js 和 AI SDK 一同构建 <sub>⭐ 326 · TypeScript</sub>
+- [gexijin/RTutor](https://github.com/gexijin/RTutor) - 通过 https://RTutor.ai 与您的数据聊天 <sub>⭐ 323 · HTML</sub>
 - [taoyds/test-suite-sql-eval](https://github.com/taoyds/test-suite-sql-eval) - 文本对 SQL 的语义评价 <sub>⭐ 323 · Python</sub>
-- [abhijithneilabraham/tableQA](https://github.com/abhijithneilabraham/tableQA) - AI Tool for querying natural language on tabular data. <sub>⭐ 320 · Python</sub>
-- [holoviz/lumen](https://github.com/holoviz/lumen) - Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports. <sub>⭐ 314 · Python</sub>
-- [OpenDCAI/DataMind](https://github.com/OpenDCAI/DataMind) - All-in-one intelligent assistant powered by LlamaIndex — RAG, GraphRAG, NL2SQL, Skills & Memory with multimodal support. <sub>⭐ 310 · Python</sub>
-- [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private. <sub>⭐ 305 · TypeScript</sub>
-- [cool-japan/scirs](https://github.com/cool-japan/scirs) - SciRS2 - Scientific Computing and AI in Rust., providing SciPy-compatible APIs while leveraging Rust's performance, safety, and concurrency features. Unlike traditional scientific libraries <sub>⭐ 296 · Rust</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [gagarinyury/claude-config-editor](https://github.com/gagarinyury/claude-config-editor) - Claude Config Editor is a lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json). Analyze project sizes, bulk delete chat histories, export data… <sub>⭐ 263 · HTML</sub>
-- [arunpshankar/LLM-Text-to-SQL-Architectures](https://github.com/arunpshankar/LLM-Text-to-SQL-Architectures) - A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to-SQL generation. <sub>⭐ 262 · Jupyter Notebook</sub>
-- [Lin-jun-xiang/docGPT-langchain](https://github.com/Lin-jun-xiang/docGPT-langchain) - Free GPT-3.5 chat with your docs (PDF, WORD, CSV, TXT) <sub>⭐ 261 · Python</sub>
-- [Hairetsu/Notate](https://github.com/Hairetsu/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI… <sub>⭐ 259 · TypeScript</sub>
-- [hexinfo/dat](https://github.com/hexinfo/dat) - Asking yours data in a natural language way through pre-modeling (data models and semantic models). <sub>⭐ 259 · Java</sub>
-- [markredito/selfstudy-roadmap-ml-ai](https://github.com/markredito/selfstudy-roadmap-ml-ai) - A beginner's roadmap to self studying Machine Learning and Artificial Intelligence <sub>⭐ 257</sub>
-- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get… <sub>⭐ 254</sub>
-- [NumbersStationAI/NSQL](https://github.com/NumbersStationAI/NSQL) - Numbers Station Text to SQL model code. <sub>⭐ 254 · Python</sub>
-- [benodiwal/pg_ai_query](https://github.com/benodiwal/pg_ai_query) - postgresql extension that converts natural language to sql <sub>⭐ 247 · C++</sub>
-- [salesforce/TabularSemanticParsing](https://github.com/salesforce/TabularSemanticParsing) - Translating natural language questions to structured query language (SQL) <sub>⭐ 238 · Jupyter Notebook</sub>
-- [eosho/langchain_data_agent](https://github.com/eosho/langchain_data_agent) - NL2SQL - Ask questions in plain English, get SQL queries and results. Powered by LangGraph. <sub>⭐ 237 · Python</sub>
-- [GoogleCloudPlatform/Open_Data_QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA) - The Open Data QnA python library enables you to chat with your databases by leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by… <sub>⭐ 233 · Dart</sub>
-- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity… <sub>⭐ 218 · Jupyter Notebook</sub>
-- [boxed-dev/cognidb](https://github.com/boxed-dev/cognidb) - CogniDB is a Python-powered Natural Language to SQL interface that enables users to query databases like MySQL, PostgreSQL, MongoDB, and AWS RDS using plain English. It parses questions, understands… <sub>⭐ 215 · Python</sub>
-- [alexeygrigorev/llm-rag-workshop](https://github.com/alexeygrigorev/llm-rag-workshop) - Chat with your own data - LLM+RAG workshop <sub>⭐ 213 · Jupyter Notebook</sub>
-- [shurutech/mql](https://github.com/shurutech/mql) - MQL tool is designed to generate SQL queries directly from natural language inputs. <sub>⭐ 213 · Python</sub>
-- [carolinefrasca/llamaindex-chat-with-streamlit-docs](https://github.com/carolinefrasca/llamaindex-chat-with-streamlit-docs) - Build a chatbot powered by LlamaIndex that augments GPT 3.5 with the contents of the Streamlit docs (or your own data). <sub>⭐ 206 · Python</sub>
-- [taolusi/chisp](https://github.com/taolusi/chisp) - scripts and baselines for CSpider: Chinese semantic parsing and text-to-SQL challenge <sub>⭐ 206 · Python</sub>
-- [zhangchenchen/query_gpt](https://github.com/zhangchenchen/query_gpt) - Query GPT: Transform Natural Language into Any SQL <sub>⭐ 203 · JavaScript</sub>
-- [AhmadHassan-BTed/Noria](https://github.com/AhmadHassan-BTed/Noria) - An agentic extractor for messaging platforms. Noria receives messages & URLs via chat; scrapes web data to evaluate the content against custom scoring matrices (e.g., jobs, scholarships); and sends a… <sub>⭐ 201 · JavaScript</sub>
-- [sadanandpai/ai-learning-kit](https://github.com/sadanandpai/ai-learning-kit) - A curated collection of AI learning materials <sub>⭐ 198</sub>
-- [ShuaiLyu0110/SQL-o1](https://github.com/ShuaiLyu0110/SQL-o1) - SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL <sub>⭐ 197 · Python</sub>
-- [guotong1988/NL2SQL-RULE](https://github.com/guotong1988/NL2SQL-RULE) - Content Enhanced BERT-based Text-to-SQL Generation https://arxiv.org/abs/1910.07179 <sub>⭐ 195 · Python</sub>
-- [ksm26/LangChain-Chat-with-Your-Data](https://github.com/ksm26/LangChain-Chat-with-Your-Data) - Explore LangChain and build powerful chatbots that interact with your own data. Gain insights into document loading, splitting, retrieval, question answering, and more. <sub>⭐ 194 · Jupyter Notebook</sub>
-- [TirendazAcademy/PandasAI-Tutorials](https://github.com/TirendazAcademy/PandasAI-Tutorials) - Tutorials for PandasAI <sub>⭐ 193 · Jupyter Notebook</sub>
-- [theaiautomators/claude-code-agentic-rag-masterclass](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) - Build an agentic RAG app from scratch by collaborating with Claude Code. 8-module course covering hybrid search, reranking, text-to-SQL, subagents, and more. React + FastAPI + Supabase. <sub>⭐ 191</sub>
-- [mayooear/private-chatbot-mpt30b-langchain](https://github.com/mayooear/private-chatbot-mpt30b-langchain) - Chat with your data privately using MPT-30b <sub>⭐ 183 · Python</sub>
-- [myscale/ChatData](https://github.com/myscale/ChatData) - ChatData brings RAG to real applications with FREE knowledge bases. Now enjoy your chat with 6 million wikipedia pages and 2 million arxiv papers. <sub>⭐ 178 · Python</sub>
-- [carlosfab/sigmoidal_ai](https://github.com/carlosfab/sigmoidal_ai) - Tutoriais de Python, Data Science, Machine Learning e Deep Learning - Sigmoidal <sub>⭐ 176 · Jupyter Notebook</sub>
-- [saccofrancesco/deepshot](https://github.com/saccofrancesco/deepshot) - AI-powered NBA game outcome predictor that uses advanced team stats and trend-based features to forecast winners and track model performance <sub>⭐ 171 · Jupyter Notebook</sub>
-- [karolzak/support-tickets-classification](https://github.com/karolzak/support-tickets-classification) - This case study shows how to create a model for text analysis and classification and deploy it as a web service in Azure cloud in order to automatically classify support tickets. This project is a… <sub>⭐ 169 · Python</sub>
-- [bigbigwatermalon/C3SQL](https://github.com/bigbigwatermalon/C3SQL) - The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT <sub>⭐ 168 · Python</sub>
-- [deepsense-ai/db-ally](https://github.com/deepsense-ai/db-ally) - Efficient, consistent and secure library for querying structured data with natural language <sub>⭐ 168 · Python</sub>
-- [HKUSTDial/Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL) - (ICML'25) Official repository for the paper "Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search" <sub>⭐ 164 · Python</sub>
-- [kulltc/chatgpt-sql](https://github.com/kulltc/chatgpt-sql) - Allows you to query an SQL database using natural language. <sub>⭐ 162 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [Laqcce-cao/RSL-SQL](https://github.com/Laqcce-cao/RSL-SQL) - RSL-SQL: Robust Schema Linking in Text-to-SQL Generation <sub>⭐ 160 · Python</sub>
-- [XGenerationLab/XiYanSQL-QwenCoder](https://github.com/XGenerationLab/XiYanSQL-QwenCoder) - XiYanSQL models for Text-to-SQL. <sub>⭐ 160</sub>
-- [Text2SqlAgent/text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - Agentic text-to-SQL SDK: hand the LLM one execute_sql tool and let it explore the schema, test queries, and self-correct — no RAG, no semantic layer. 20/20 on an 80-table Spider run. Built-in tracing… <sub>⭐ 159 · Python</sub>
-- [ahmedbesbes/media-agent](https://github.com/ahmedbesbes/media-agent) - Scrape data from social media and chat with it using Langchain <sub>⭐ 157 · Python</sub>
-- [Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA](https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA) - Revolutionize your spreadsheet game with OpenAI's ChatGPT in Microsoft Excel using my custom VBA code. Automate tedious tasks and add a new level of intelligence to your data analysis. The code is… <sub>⭐ 157 · VBA</sub>
-- [JetBrains/databao-agent](https://github.com/JetBrains/databao-agent) - Databao agent is an open-source agent that enables you to chat with your data and receive answers in text, interactive charts, and tables. <sub>⭐ 155 · Python</sub>
-- [sudarshan-koirala/langchain-openai-chainlit](https://github.com/sudarshan-koirala/langchain-openai-chainlit) - Chat with your documents (pdf, csv, text) using Openai model, LangChain and Chainlit <sub>⭐ 154 · Python</sub>
-- [X-LANCE/text2sql-lgesql](https://github.com/X-LANCE/text2sql-lgesql) - (ACL 2021) This is the project containing source codes and pre-trained models about ACL2021 Long Paper LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations". <sub>⭐ 154 · Python</sub>
-- [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) - AI-powered analysis engine for Argentine government open data. Multi-agent pipeline (LangGraph) with 10 data connectors, NL2SQL, semantic caching, and real-time streaming. Built with FastAPI… <sub>⭐ 150 · Python</sub>
-- [DataArcTech/SQL-R1](https://github.com/DataArcTech/SQL-R1) - (NeurIPS'25) Official Repository for the Paper "SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning" <sub>⭐ 149 · Python</sub>
-- [ademakdogan/ChatSQL](https://github.com/ademakdogan/ChatSQL) - Convert the given plain text to MySQL query by ChatGPT <sub>⭐ 148 · Python</sub>
-- [vladkol/crm-data-agent](https://github.com/vladkol/crm-data-agent) - CRM Data Q&A Agent - Advanced RAG with NL2SQL over Salesforce Data <sub>⭐ 146 · Python</sub>
-- [Appointat/LeAgent](https://github.com/Appointat/LeAgent) - A Chatbot of Data Science Expert- Chat with Document(s) using ChatGPT API and Text Embedding <sub>⭐ 145 · Python</sub>
-- [Snowflake-Labs/ReFoRCE](https://github.com/Snowflake-Labs/ReFoRCE) - A Text-to-SQL Agent with Self-Refinement, Format Restriction, and Column Exploration <sub>⭐ 142 · Python</sub>
-- [benbogin/spider-schema-gnn](https://github.com/benbogin/spider-schema-gnn) - Author implementation of the paper "Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing" <sub>⭐ 141 · Python</sub>
+- [abhijithneilabraham/tableQA](https://github.com/abhijithneilabraham/tableQA) - AI 用于查询表数据上的自然语言的工具. <sub>⭐ 320 · Python</sub>
+- [holoviz/lumen](https://github.com/holoviz/lumen) - 显示您的数据。代理框架将自然语言转换为 SQL、图表、仪表板和报告 。 <sub>⭐ 314 · Python</sub>
+- [OpenDCAI/DataMind](https://github.com/OpenDCAI/DataMind) - 全能智能助理由LlamaIndex提供动力——RAG,GraphRAG,NL2SQL,技能与内存,多模式支持. <sub>⭐ 310 · Python</sub>
+- [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - 使用本地运行的 LLMS 进行网页或聊天的 Chrome 扩展。 请将您所有的数据和对话都保密 。 <sub>⭐ 305 · TypeScript</sub>
+- [cool-japan/scirs](https://github.com/cool-japan/scirs) - SciRS2 - 科学计算和Rust的AI,提供SciPy兼容的API,同时利用Rust的性能,安全性,以及货币特征. 不同于传统科学库. <sub>⭐ 296 · Rust</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [gagarinyury/claude-config-editor](https://github.com/gagarinyury/claude-config-editor) - Claude Config 编辑器是一个轻量级的网络工具,它帮助您清理和优化您的 Claude Code/Desktop 配置文件(.claude.json). 分析工程大小,批量删除聊天历史,导出数据... <sub>⭐ 263 · HTML</sub>
+- [arunpshankar/LLM-Text-to-SQL-Architectures](https://github.com/arunpshankar/LLM-Text-to-SQL-Architectures) - 利用大语言模型(LLMS)高效的文本到SQL生成的建筑图案集. <sub>⭐ 262 · Jupyter Notebook</sub>
+- [Lin-jun-xiang/docGPT-langchain](https://github.com/Lin-jun-xiang/docGPT-langchain) - 与您的文件聊天( PDF, WORD, CSV, TXT) 免费的 GPT- 3. 5 <sub>⭐ 261 · Python</sub>
+- [Hairetsu/Notate](https://github.com/Hairetsu/Notate) - Notate是一个桌面聊天应用程序,将AI对话带到下一个关卡. 它把聊天的简单性与文件分析,矢量搜索,以及多模型AI等高级功能结合在一起. . <sub>⭐ 259 · TypeScript</sub>
+- [hexinfo/dat](https://github.com/hexinfo/dat) - 通过预建模型(数据模型和语义模型)以自然语言询问您的数据. <sub>⭐ 259 · Java</sub>
+- [markredito/selfstudy-roadmap-ml-ai](https://github.com/markredito/selfstudy-roadmap-ml-ai) - 初学者的自学路线图 机器学习和人工智能 <sub>⭐ 257</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - 列表, 任何人都可以用任何编程语言解决的实用项目( 请参见解决方案) 。 这些项目被分为多个类别, 每个类别都有自己的文件夹 。 要获取... <sub>⭐ 254</sub>
+- [NumbersStationAI/NSQL](https://github.com/NumbersStationAI/NSQL) - 数字车站文字到SQL型号代码. <sub>⭐ 254 · Python</sub>
+- [benodiwal/pg_ai_query](https://github.com/benodiwal/pg_ai_query) - 将自然语言转换为 sql 的 postgresql 扩展 <sub>⭐ 247 · C++</sub>
+- [salesforce/TabularSemanticParsing](https://github.com/salesforce/TabularSemanticParsing) - 将自然语言问题翻译为结构化查询语言(SQL) <sub>⭐ 238 · Jupyter Notebook</sub>
+- [eosho/langchain_data_agent](https://github.com/eosho/langchain_data_agent) - NL2SQL - 使用简单英语提问,获得SQL查询和结果. Powered by LangGraph. <sub>⭐ 237 · Python</sub>
+- [GoogleCloudPlatform/Open_Data_QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA) - Open Data QnA python 库通过在 Google Cloud 上利用 LLM Agents 使您能够与您的数据库聊天。 Open Data QnA 启用了对话方法,通过... <sub>⭐ 233 · Dart</sub>
+- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - 建议系统 这是一个关于使用机器学习和深层学习技术来构建建议System理论的研讨会: ML & DL 配制, President vs. Ranking, Simililary... <sub>⭐ 218 · Jupyter Notebook</sub>
+- [boxed-dev/cognidb](https://github.com/boxed-dev/cognidb) - CognitDB是一个Python-powered Natural Language to SQL 接口,可以让用户查询诸如MySQL,PostgreSQL,MongoDB,以及AWS RDS等使用普通英语的数据库. 它剖析问题,理解... <sub>⭐ 215 · Python</sub>
+- [alexeygrigorev/llm-rag-workshop](https://github.com/alexeygrigorev/llm-rag-workshop) - 与您自己的数据聊天 - LLM+RAG 工作坊 <sub>⭐ 213 · Jupyter Notebook</sub>
+- [shurutech/mql](https://github.com/shurutech/mql) - MQL工具旨在直接通过自然语言输入生成SQL查询. <sub>⭐ 213 · Python</sub>
+- [carolinefrasca/llamaindex-chat-with-streamlit-docs](https://github.com/carolinefrasca/llamaindex-chat-with-streamlit-docs) - 构建一个由LlamaIndex提供动力的聊天机,以 Streamlit docs(或你自己的数据)的内容来增强GPT 3.5. <sub>⭐ 206 · Python</sub>
+- [taolusi/chisp](https://github.com/taolusi/chisp) - CSpider的脚本和基线:中文语义解析与文本对 SQL 的挑战 <sub>⭐ 206 · Python</sub>
+- [zhangchenchen/query_gpt](https://github.com/zhangchenchen/query_gpt) - 查询 GPT: 将自然语言转换为任意 SQL <sub>⭐ 203 · JavaScript</sub>
+- [AhmadHassan-BTed/Noria](https://github.com/AhmadHassan-BTed/Noria) - 消息平台的代理提取器。 Noria通过聊天接收信件和URL;刮掉网络数据,以根据自定义评分矩阵(如工作、奖学金)评价内容;并发送一个... <sub>⭐ 201 · JavaScript</sub>
+- [sadanandpai/ai-learning-kit](https://github.com/sadanandpai/ai-learning-kit) - AI学习材料的整理汇编 <sub>⭐ 198</sub>
+- [ShuaiLyu0110/SQL-o1](https://github.com/ShuaiLyu0110/SQL-o1) - SQL-o1: 文本对SQL的自酬Heuristic动态搜索方法 <sub>⭐ 197 · Python</sub>
+- [guotong1988/NL2SQL-RULE](https://github.com/guotong1988/NL2SQL-RULE) - 内容增强基于BERT的文本对SQL生成 https://arxiv.org/abs/1910.07179 <sub>⭐ 195 · Python</sub>
+- [ksm26/LangChain-Chat-with-Your-Data](https://github.com/ksm26/LangChain-Chat-with-Your-Data) - 探索 LangChain 并构建与您自己的数据交互的强大的聊天器。 获取对文档加载、 拆分、 检索、 答题等内容的洞察力 。 <sub>⭐ 194 · Jupyter Notebook</sub>
+- [TirendazAcademy/PandasAI-Tutorials](https://github.com/TirendazAcademy/PandasAI-Tutorials) - 熊猫社的教学 <sub>⭐ 193 · Jupyter Notebook</sub>
+- [theaiautomators/claude-code-agentic-rag-masterclass](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) - 与 Claude Code 合作从头开始构建代理RAG app. 8模块课程,涵盖混合搜索,重新排位,文本对SQL,子代理等等. React + FastAPI + Supabase. <sub>⭐ 191</sub>
+- [mayooear/private-chatbot-mpt30b-langchain](https://github.com/mayooear/private-chatbot-mpt30b-langchain) - 使用 MPT- 30b 私下聊天 <sub>⭐ 183 · Python</sub>
+- [myscale/ChatData](https://github.com/myscale/ChatData) - ChatData将RAG带入了FREE知识库中的真实应用. 现在享受您与600万维基百科页面和200万arxiv论文的聊天. <sub>⭐ 178 · Python</sub>
+- [carlosfab/sigmoidal_ai](https://github.com/carlosfab/sigmoidal_ai) - Python, 数据科学, 机器学习和深层学习教程 - Sigmoidal <sub>⭐ 176 · Jupyter Notebook</sub>
+- [saccofrancesco/deepshot](https://github.com/saccofrancesco/deepshot) - AI动力NBA游戏结果预测器,使用高级团队统计和趋势特征预测胜者并跟踪模型性能. <sub>⭐ 171 · Jupyter Notebook</sub>
+- [karolzak/support-tickets-classification](https://github.com/karolzak/support-tickets-classification) - 本案例研究展示了如何创建文本分析和分类模型,并将其作为网络服务在Azure云中部署,以便自动对支持门票进行分类. 该项目是一个... <sub>⭐ 169 · Python</sub>
+- [bigbigwatermalon/C3SQL](https://github.com/bigbigwatermalon/C3SQL) - C3纸的代码:零射向带ChatGPT的SQL <sub>⭐ 168 · Python</sub>
+- [deepsense-ai/db-ally](https://github.com/deepsense-ai/db-ally) - 用自然语言查询结构化数据的高效、一致和安全的图书馆 <sub>⭐ 168 · Python</sub>
+- [HKUSTDial/Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL) - (ICML'25) 论文"阿尔法-SQL:使用蒙特卡洛树搜索的零热文本对SQL"的官方寄存器 <sub>⭐ 164 · Python</sub>
+- [kulltc/chatgpt-sql](https://github.com/kulltc/chatgpt-sql) - 允许您使用自然语言查询 SQL 数据库。 <sub>⭐ 162 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C战略要闻 2019年9月 本报是为2019年9月W3C咨询委员会会议编写的(W3C成员链接),参见所附的W3C概况介绍——2019年9月. <sub>⭐ 160</sub>
+- [Laqcce-cao/RSL-SQL](https://github.com/Laqcce-cao/RSL-SQL) - RSL- SQL: 文本到 SQL 生成中的 Robust Schema 链接 <sub>⭐ 160 · Python</sub>
+- [XGenerationLab/XiYanSQL-QwenCoder](https://github.com/XGenerationLab/XiYanSQL-QwenCoder) - 用于文本对SQL的XiYanSQL模型. <sub>⭐ 160</sub>
+- [Text2SqlAgent/text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - 代理文本到SQL SDK: 手持 LLM 1 执行_ sql 工具, 让它探索方案, 测试查询, 以及自我修正—— 没有RAG, 没有语义层. 20/20 在一个80表的蜘蛛运行上。 内建追踪... <sub>⭐ 159 · Python</sub>
+- [ahmedbesbes/media-agent](https://github.com/ahmedbesbes/media-agent) - 使用 Langchain 搜索社交媒体的数据并与之聊天 <sub>⭐ 157 · Python</sub>
+- [Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA](https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA) - 使用我自定义的 VBA 代码在 Microsoft Excel 中将 OpenAI 的 ChatGPT 电子表格游戏革命化。 自动修改繁琐的任务,并在您的数据分析中添加一个新的智能级别。 该代码是... <sub>⭐ 157 · VBA</sub>
+- [JetBrains/databao-agent](https://github.com/JetBrains/databao-agent) - Databao 代理是一个开源代理,可以让您与您的数据聊天,并接收文本,交互式图表和表格中的答案. <sub>⭐ 155 · Python</sub>
+- [sudarshan-koirala/langchain-openai-chainlit](https://github.com/sudarshan-koirala/langchain-openai-chainlit) - 使用 Openai 模式、 LangChain 和 Chainlit 与您的文档( pdf, csv, text) 聊天 <sub>⭐ 154 · Python</sub>
+- [X-LANCE/text2sql-lgesql](https://github.com/X-LANCE/text2sql-lgesql) - (ACL 2021)这是包含源代码和预先训练的模型的项目,涉及ACL2021长纸 LGESQL:线图增强文本到SQL模型,具有混合的本地和非本地关系". <sub>⭐ 154 · Python</sub>
+- [colossus-lab/openarg_backend](https://github.com/colossus-lab/openarg_backend) - 阿根廷政府开放数据的AI动力分析引擎. 多剂管道(LangGraph) 拥有10个数据连接器,NL2SQL,语义缓存,以及实时流线. 建于FastAPI... <sub>⭐ 150 · Python</sub>
+- [DataArcTech/SQL-R1](https://github.com/DataArcTech/SQL-R1) - (NeurIPS'25) "SQL-R1:通过强化学习培训自然语言到SQL的理性模式"论文官方存储库. <sub>⭐ 149 · Python</sub>
+- [ademakdogan/ChatSQL](https://github.com/ademakdogan/ChatSQL) - 将给定的纯文本转换成 MySQL 查询, 由 ChatGPT 提供 <sub>⭐ 148 · Python</sub>
+- [vladkol/crm-data-agent](https://github.com/vladkol/crm-data-agent) - CRM Data QQA Agent - 高级RAG 与 NL2SQL 超越销售力数据 <sub>⭐ 146 · Python</sub>
+- [Appointat/LeAgent](https://github.com/Appointat/LeAgent) - 使用 ChatGPT API 和文本嵌入来与文档进行数据科学专家聊天 <sub>⭐ 145 · Python</sub>
+- [Snowflake-Labs/ReFoRCE](https://github.com/Snowflake-Labs/ReFoRCE) - 带有自定义、格式限制和列探索的文本到 SQL 代理 <sub>⭐ 142 · Python</sub>
+- [benbogin/spider-schema-gnn](https://github.com/benbogin/spider-schema-gnn) - 作者执行"用图神经网络代表舍马结构用于文本到SQL解析"论文. <sub>⭐ 141 · Python</sub>
 - [HKUSTDial/NL2SQL360](https://github.com/HKUSTDial/NL2SQL360) - (VLDB'24) “自然语言到SQL的黎明:我们是否完全准备好了?” 论文的官方存放处。 <sub>⭐ 141 · Python</sub>
-- [taoyds/syntaxSQL](https://github.com/taoyds/syntaxSQL) - SyntaxSQLNet: Syntax Tree Networks for Complex and Cross Domain Text-to-SQL Task <sub>⭐ 137 · Python</sub>
-- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - Text-to-SQL Generation for Question Answering on Electronic Medical Records <sub>⭐ 137 · Python</sub>
-- [austintackaberry/stocks](https://github.com/austintackaberry/stocks) - machine learning web app game where the user competes against the AI in picking stocks <sub>⭐ 134 · JavaScript</sub>
-- [janishar/data-analytics-project-template](https://github.com/janishar/data-analytics-project-template) - A python project starter template for data-analytics and data-science. <sub>⭐ 132 · Jupyter Notebook</sub>
-- [Snowboard-Software/awesome-ai-analytics](https://github.com/Snowboard-Software/awesome-ai-analytics) - A list of AI analytics tools (assistants, chat with data, text-to-sql, benchmarks, etc.) <sub>⭐ 132</sub>
-- [shreyasharma04/HealthChatbot](https://github.com/shreyasharma04/HealthChatbot) - HealthCare ChatBot Major -1 (4th year - 7th semester) Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician. ChatBot can be described as software that… <sub>⭐ 130 · Python</sub>
-- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language. <sub>⭐ 128 · TypeScript</sub>
-- [plasma-umass/sqlwrite](https://github.com/plasma-umass/sqlwrite) - SQLwrite: AI in your DBMS! Automatically converts natural language queries to SQL. <sub>⭐ 124 · C</sub>
+- [taoyds/syntaxSQL](https://github.com/taoyds/syntaxSQL) - 语法SQLNet:复杂和跨域文本到SQL任务的语法树网 <sub>⭐ 137 · Python</sub>
+- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - 电子医疗记录问答文本对SQL生成 <sub>⭐ 137 · Python</sub>
+- [austintackaberry/stocks](https://github.com/austintackaberry/stocks) - 机器学习网络应用游戏,用户在选择股票时与AI竞争 <sub>⭐ 134 · JavaScript</sub>
+- [janishar/data-analytics-project-template](https://github.com/janishar/data-analytics-project-template) - 用于数据分析与数据科学的python项目启动器模板. <sub>⭐ 132 · Jupyter Notebook</sub>
+- [Snowboard-Software/awesome-ai-analytics](https://github.com/Snowboard-Software/awesome-ai-analytics) - AI分析工具列表(助手,与数据聊天,文本对sql,基准等). <sub>⭐ 132</sub>
+- [shreyasharma04/HealthChatbot](https://github.com/shreyasharma04/HealthChatbot) - 健康护理ChatBot Major -1(4年-7学期) 健康护理Chat-Bot是一个健康护理领域Chatbot,用来模拟一位普通物理学家的预测. ChatBot可以被描述为软件... <sub>⭐ 130 · Python</sub>
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - 用 AI 与您的数据库聊天。 一个实验性应用, 测试 LLMS 使用自然语言查询 SQL 数据库的能力 。 <sub>⭐ 128 · TypeScript</sub>
+- [plasma-umass/sqlwrite](https://github.com/plasma-umass/sqlwrite) - SQLwrite:您 DBMS 中的AI! 自动将自然语言查询转换为SQL. <sub>⭐ 124 · C</sub>
 
 ## 📊 借助 AI 的 BI 与仪表盘
 
 > 内置助手的 BI 平台、看板和可视化。
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface <sub>⭐ 87.7k · TypeScript</sub>
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. <sub>⭐ 52.4k · JavaScript</sub>
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system <sub>⭐ 50.2k · C++</sub>
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from… <sub>⭐ 41.0k · JavaScript</sub>
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No… <sub>⭐ 40.6k · Go</sub>
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - 实时全球情报仪表板. AI驱动的新闻汇总,地缘政治监测,以及统一情景意识界面的基础设施跟踪 <sub>⭐ 87.7k · TypeScript</sub>
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Claude Code和AI代理商的营销技能,CRO,抄写,SEO,分析,以及生长工程. <sub>⭐ 52.4k · JavaScript</sub>
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse 是一个实时分析数据库管理系统 <sub>⭐ 50.2k · C++</sub>
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet AI的开源基础 - 用于内部工具,仪表板,业务应用程序,工作流程和AI代理的企业应用生成平台. 构建视觉,从一个即时,或从. <sub>⭐ 41.0k · JavaScript</sub>
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB 是为无法预测地增长的代理工作量而建造的, 它有ACID 的保证和本地对交易、分析以及矢量搜索的支持。 没有数据仓, 没有吵闹的邻居。 不... <sub>⭐ 40.6k · Go</sub>
 - [PostHog/posthog](https://github.com/PostHog/posthog) - PostHog是构建自驾产品的主要平台。 我们的开发者工具 — — AI可观察性、分析性、会话重播、旗帜、实验、错误跟踪、日志,以及更多 — — 捕捉所有... <sub>⭐ 40.1k · Python</sub>
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required. <sub>⭐ 24.4k · Python</sub>
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets <sub>⭐ 21.0k · Go</sub>
+- [plotly/dash](https://github.com/plotly/dash) - Python 的数据 Apps & Dashboards。 没有 JavaScript 需要 。 <sub>⭐ 24.4k · Python</sub>
+- [qax-os/excelize](https://github.com/qax-os/excelize) - 去语言库读写 Microsoft ExcelTM (XLAM / XLSM / XLSX / XLTM / XLTX) 电子表格 <sub>⭐ 21.0k · Go</sub>
 - [cube-js/cube](https://github.com/cube-js/cube) - Cube Core是AI,BI和嵌入式分析的开源语义层 <sub>⭐ 20.9k · Rust</sub>
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data. <sub>⭐ 17.5k · Python</sub>
-- [cft0808/edict](https://github.com/cft0808/edict) - 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails <sub>⭐ 17.0k · Python</sub>
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling… <sub>⭐ 16.9k · Python</sub>
-- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced… <sub>⭐ 16.2k · Python</sub>
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents. <sub>⭐ 16.0k · Java</sub>
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development <sub>⭐ 12.2k · HTML</sub>
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard. <sub>⭐ 12.1k · Go</sub>
-- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web. <sub>⭐ 11.3k · TypeScript</sub>
-- [fossasia/visdom](https://github.com/fossasia/visdom) - Tool for real-time visualization, monitoring and collaborative analysis of AI/ML experiments and live data. Supports Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev <sub>⭐ 10.3k · Python</sub>
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 数据形式器是一种交互式AI动力数据分析系统,它使得数据易于连接,探索和可视化. <sub>⭐ 17.5k · Python</sub>
+- [cft0808/edict](https://github.com/cft0808/edict) - OpenClaw多代理管弦乐系统——9名具有实时仪表板、模型配置和全面审计线索的AI专业特工 <sub>⭐ 17.0k · Python</sub>
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - 计算机视野注释工具(CVAT)是构建视觉AI高质量视觉数据集的主要平台,它提供开源,云,企业产品以及标签. <sub>⭐ 16.9k · Python</sub>
+- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK 用于代理AI的可观察性,监测和评价框架. 包括代理,wmm和工具追踪等特性,调试多代理系统,自我托管的仪表板和高级... <sub>⭐ 16.2k · Python</sub>
+- [apache/doris](https://github.com/apache/doris) - Apache Doris是AI代理的实时分析与混合搜索数据库. <sub>⭐ 16.0k · Java</sub>
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - 用于 AI- Asssisted 开发的 Free Bootstrap Admin & Dashboard 模板构建 <sub>⭐ 12.2k · HTML</sub>
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Kubernetes的eBPF动力网络可观察性. Indexs L4/L7 流量包含完整的K8s上下文,解密没有键的TLS. AI代理通过MCP查询,人类通过仪表板查询. <sub>⭐ 12.1k · Go</sub>
+- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio是本地首款AI工作空间,用于多代理聊天,编码和视觉工作流程,可在桌面和网络上找到. <sub>⭐ 11.3k · TypeScript</sub>
+- [fossasia/visdom](https://github.com/fossasia/visdom) - 用于AI/ML实验和活数据实时可视化,监测和协作分析的工具. 支持 Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev <sub>⭐ 10.3k · Python</sub>
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase是AI时代的统一的分布式数据库——开源,多型,一个引擎,为您最需要的工作量. <sub>⭐ 10.3k · C++</sub>
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node <sub>⭐ 10.2k · JavaScript</sub>
-- [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI-friendly enterprise front-end best practices <sub>⭐ 9.8k · TypeScript</sub>
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified architecture on your S3. <sub>⭐ 9.5k · Rust</sub>
-- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings <sub>⭐ 8.7k · Python</sub>
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: 用于构建网络的团队的Go-to用户代理工具。 检测浏览器、 OS、 设备、 Bots、 Apps、 AI Crawlers 等。 在浏览器或节点中运行 <sub>⭐ 10.2k · JavaScript</sub>
+- [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI友好型企业前端最佳做法 <sub>⭐ 9.8k · TypeScript</sub>
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 数据代理准备仓库:一个用于分析,搜索,AI,Python Sandbox. ——从零开始重建,在你的S3上统一建筑. <sub>⭐ 9.5k · Rust</sub>
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - 实时Claude代码使用情况监测器,并附有预测和警告 <sub>⭐ 8.7k · Python</sub>
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - 优化AI模式性表演的库集 <sub>⭐ 8.3k · Python</sub>
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and… <sub>⭐ 7.9k · Go</sub>
-- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. <sub>⭐ 7.1k · Python</sub>
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed. <sub>⭐ 7.1k · TypeScript</sub>
-- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development <sub>⭐ 6.9k · C++</sub>
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures. <sub>⭐ 6.8k · Go</sub>
-- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS. <sub>⭐ 6.1k · HTML</sub>
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot是一个开源的可观察性和APM工具,带有AI动力的Root Cause Analysis,它结合了度量衡,日志,痕迹,连续剖面,以及基于SLO的提醒,并配有预先定义的仪表板和. <sub>⭐ 7.9k · Go</sub>
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - 人工智能和人类的密码基情报:密码健康分数,自动生成的docs,git分析,死码检测,以及通过MCP的建筑决定. <sub>⭐ 7.1k · Python</sub>
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - 自由,开源,AI友好的管理员仪表板模板与Next.js 16,Shadcn/ui,Tailwind CSS,以及TypeScript一起构建. Production-ready tables, formates, auth, and billing. MIT 许可. <sub>⭐ 7.1k · TypeScript</sub>
+- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK 用于苹果应用开发 <sub>⭐ 6.9k · C++</sub>
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - 实时监控仪表板用于Proxmox VE,PBS,Docker,Kubernetes,TrueNAS和vSphere. 自我托管,有智能警报和AI巡逻,可捕捉无声故障. <sub>⭐ 6.8k · Go</sub>
+- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI是一款自由开放的源代码集,由Tailwind CSS建造的自定义,生产准备的UI组件. <sub>⭐ 6.1k · HTML</sub>
 - [Countly/countly-server](https://github.com/Countly/countly-server) - 计数是一个隐私第一,AI动力的分析和接触平台,用于理解和优化客户跨越数字应用程序的旅程,从桌面和移动到IOT并连接. <sub>⭐ 5.9k · JavaScript</sub>
-- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - Free React Admin & Dashboard Template Built for AI-Assisted Development <sub>⭐ 5.0k · JavaScript</sub>
-- [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing <sub>⭐ 4.9k · TypeScript</sub>
-- [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping. <sub>⭐ 4.8k · TypeScript</sub>
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++. <sub>⭐ 4.6k · C++</sub>
-- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis. <sub>⭐ 4.4k · TypeScript</sub>
-- [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension… <sub>⭐ 4.3k · TypeScript</sub>
-- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - (ECCV 2024) codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior <sub>⭐ 4.1k · Python</sub>
-- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts <sub>⭐ 4.1k · JavaScript</sub>
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit <sub>⭐ 3.8k · Rust</sub>
-- [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online. <sub>⭐ 3.8k · TypeScript</sub>
-- [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health. <sub>⭐ 3.7k · Go</sub>
+- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - 为 AI- Assisted 开发创建的免费 React Admin & Dashboard 模板 <sub>⭐ 5.0k · JavaScript</sub>
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) - LLM评价和AI代理测试平台 <sub>⭐ 4.9k · TypeScript</sub>
+- [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS代码扩展用于监控Google Antigravity AI配额. Features Webview仪表板,QuickPick模式和配额分组. <sub>⭐ 4.8k · TypeScript</sub>
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - 用于GraphRAG,AI内存,代理AI的高性能开源内图数据库以及实时图表分析. Cypher-兼容,建于C++. <sub>⭐ 4.6k · C++</sub>
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 一种可视化mcp & 技能包含使用@antvis的25+可视化图表,用于图表生成和数据分析. <sub>⭐ 4.4k · TypeScript</sub>
+- [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - 一个模式背景协议(MCP)服务器,为AI辅助软件开发提供结构化的光谱驱动开发工作流程工具,其特色是实时网络仪表板和VSCode扩展. . <sub>⭐ 4.3k · TypeScript</sub>
+- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - (ECCV 2024) DiffBIR 代码: 向盲目图像修复和基因扩散前 <sub>⭐ 4.1k · Python</sub>
+- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - 开源报告平台,用于从APIs,SQL和NoSQL数据库构建和共享直播仪表板,并配有强大的AI助手,调度,可嵌入的图表. <sub>⭐ 4.1k · JavaScript</sub>
+- [dathere/qsv](https://github.com/dathere/qsv) - 快速破解数据识别工具箱 <sub>⭐ 3.8k · Rust</sub>
+- [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY是一家企业组成构建和分析平台,用户可以在网上创建问卷,考试,民调,问答,分析数据. <sub>⭐ 3.8k · TypeScript</sub>
+- [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - 自办的CPA/CLIProxyAPI管理面板和AI网关可观察性仪表板,用于请求、使用、成本、配额、故障和账户健康。 <sub>⭐ 3.7k · Go</sub>
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) - Python 机器学习和数据科学调试、监测和可视化 <sub>⭐ 3.5k · Jupyter Notebook</sub>
-- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Free Vue Admin & Dashboard Template Built for AI-Assisted Development <sub>⭐ 3.4k · Vue</sub>
-- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and… <sub>⭐ 3.4k · JavaScript</sub>
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24. <sub>⭐ 3.3k · TypeScript</sub>
-- [lakesoul-io/LakeSoul](https://github.com/lakesoul-io/LakeSoul) - LakeSoul is an end-to-end, realtime cloud-native Lakehouse framework for fast data ingestion, concurrent updates, incremental analytics, multimodal data processing and vector search — powering… <sub>⭐ 3.3k · Rust</sub>
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation <sub>⭐ 3.1k · Python</sub>
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents. <sub>⭐ 3.1k · Rust</sub>
-- [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents. <sub>⭐ 2.9k · Go</sub>
-- [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance. <sub>⭐ 2.9k · Python</sub>
-- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics (ISSRE'23) <sub>⭐ 2.9k</sub>
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API <sub>⭐ 2.7k · Rust</sub>
-- [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development <sub>⭐ 2.7k · TypeScript</sub>
-- [oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models. <sub>⭐ 2.5k · Python</sub>
-- [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard <sub>⭐ 2.4k · HTML</sub>
-- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. <sub>⭐ 2.4k · Go</sub>
-- [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for… <sub>⭐ 2.3k · Python</sub>
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB <sub>⭐ 2.1k · Go</sub>
-- [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts. <sub>⭐ 1.9k · JavaScript</sub>
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents. <sub>⭐ 1.9k · TypeScript</sub>
-- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated… <sub>⭐ 1.9k · Python</sub>
-- [GMvandeVen/continual-learning](https://github.com/GMvandeVen/continual-learning) - PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios. <sub>⭐ 1.9k · Jupyter Notebook</sub>
-- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and… <sub>⭐ 1.8k · TypeScript</sub>
-- [byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang) - Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI. <sub>⭐ 1.8k · Scala</sub>
-- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day. <sub>⭐ 1.8k · Rust</sub>
-- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP. <sub>⭐ 1.8k · Go</sub>
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel… <sub>⭐ 1.7k · TypeScript</sub>
-- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) - Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package. <sub>⭐ 1.7k · Dart</sub>
-- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. <sub>⭐ 1.7k · TypeScript</sub>
-- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx is an executable context layer for data and analytics agents Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company <sub>⭐ 1.6k · TypeScript</sub>
-- [antvis/AVA](https://github.com/antvis/AVA) - AI-native Visual Analytics framework build for agents. <sub>⭐ 1.6k · TypeScript</sub>
-- [Gsync/jobsync](https://github.com/Gsync/jobsync) - Job application tracker and AI-powered job search assistant. Helps job seekers manage their search journey with AI resume review, job matching, task logging, and application analytics, all while… <sub>⭐ 1.4k · TypeScript</sub>
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio… <sub>⭐ 1.4k · JavaScript</sub>
-- [spiculedata/saiku](https://github.com/spiculedata/saiku) - Open-source semantic layer: one cube for Excel (MDX/XMLA), dashboards, and AI agents (MCP). Mondrian + Apache Calcite. <sub>⭐ 1.3k · Java</sub>
-- [Claw-AI-Lab/Claw-AI-Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab) - One dashboard. An entire research team. <sub>⭐ 1.3k · Python</sub>
-- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code dashboard with usage stats, error analysis, and sharable feature <sub>⭐ 1.3k · Python</sub>
-- [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Production-grade C++ edge AI engine for video analytics and on-device VLM across Sophon, Rockchip RKNN, and x86, with visual orchestration, real-time OSD, events, and reproducible benchmarks. <sub>⭐ 1.2k · C</sub>
-- [ALwrity/ALwrity](https://github.com/ALwrity/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP <sub>⭐ 1.2k · Python</sub>
-- [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy) - Open-source product analytics for startups: track visitors, events, funnels, and goals without cookies, and ask Databunny, the built-in AI analyst. Uptime, feature flags, and short links in the same… <sub>⭐ 1.2k · TypeScript</sub>
-- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for 30+ generative ai <sub>⭐ 1.2k · Python</sub>
-- [rashakil-ds/Roadmap-Docs](https://github.com/rashakil-ds/Roadmap-Docs) - Best Data Science, Data Analytics, AI, and SDE roadmaps. This repository is continually updated based on the top job postings on LinkedIn and Indeed in the data science and AI domain. <sub>⭐ 1.1k</sub>
-- [helicalinsight/helicalinsight](https://github.com/helicalinsight/helicalinsight) - Free, open source BI platform with AI conversational analytics (BYO-LLM), pixel-perfect paginated reports, interactive dashboards, SSO, embedding, multi-tenancy & row-level security. Every feature… <sub>⭐ 1.1k · JavaScript</sub>
-- [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all… <sub>⭐ 1.1k · Python</sub>
-- [data-goblin/power-bi-agentic-development](https://github.com/data-goblin/power-bi-agentic-development) - Power BI AI skills and Power BI agents for Claude Code and GitHub Copilot: a plugin marketplace of Power BI skills, subagents, and hooks for semantic models, DAX, TMDL, reports, and AI dashboards.… <sub>⭐ 957 · C#</sub>
-- [Bennettxai/FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO) - An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live… <sub>⭐ 924 · TypeScript</sub>
-- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product… <sub>⭐ 920 · Python</sub>
-- [deepakpadhi986/AI-Resume-Analyzer](https://github.com/deepakpadhi986/AI-Resume-Analyzer) - Ai Resume Analyzer is a tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. And lastly show… <sub>⭐ 916 · Python</sub>
-- [yorkeccak/finance](https://github.com/yorkeccak/finance) - The world's most powerful open-source financial AI assistant - Access institutional-grade financial data, run complex analyses, and create stunning visualizations, all through natural conversation. <sub>⭐ 901 · TypeScript</sub>
-- [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind… <sub>⭐ 900 · JavaScript</sub>
-- [microsoft/bioemu](https://github.com/microsoft/bioemu) - Inference code for scalable emulation of protein equilibrium ensembles with generative deep learning <sub>⭐ 884 · Python</sub>
-- [awizemann/scarf](https://github.com/awizemann/scarf) - Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more. <sub>⭐ 879 · Swift</sub>
-- [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) - An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - grounded in brand context, human approval, and verifiable outputs. <sub>⭐ 843 · Python</sub>
-- [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs, debug prompts, and monitor context window usage across your AI development sessions. <sub>⭐ 814 · Python</sub>
-- [gotempsh/temps](https://github.com/gotempsh/temps) - AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session… <sub>⭐ 811 · Rust</sub>
-- [iblai/os](https://github.com/iblai/os) - Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time chat, voice, document training, analytics, user management, SSO authentication… <sub>⭐ 801 · TypeScript</sub>
-- [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move… <sub>⭐ 799 · TypeScript</sub>
-- [Canner/vulcan-sql](https://github.com/Canner/vulcan-sql) - Data API Framework for AI Agents and Data Apps <sub>⭐ 793 · TypeScript</sub>
-- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - TraceRoot - open source self improving layer for ai agents YC S25 <sub>⭐ 790 · TypeScript</sub>
-- [datagallery-ai/dataagent](https://github.com/datagallery-ai/dataagent) - DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics. <sub>⭐ 779 · TypeScript</sub>
-- [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards <sub>⭐ 767 · TypeScript</sub>
-- [aarora4/Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - A curated list of Prediction Market Tools - AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!! <sub>⭐ 760</sub>
-- [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3… <sub>⭐ 749 · Go</sub>
-- [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) - A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides. <sub>⭐ 737</sub>
-- [n2ns/antigravity-panel](https://github.com/n2ns/antigravity-panel) - Community toolkit for Google Antigravity IDE. Quota dashboard (Gemini/Claude/GPT), usage trends + runway prediction, cache manager (Brain Tasks & Code), auto-accept mode, AI commit generator. 13… <sub>⭐ 718 · TypeScript</sub>
-- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D. <sub>⭐ 716 · JavaScript</sub>
-- [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) - 77 open-source marketing skills for Claude Code, Codex, and other AI coding agents. SEO, content, email, ads, analytics, and growth. <sub>⭐ 705 · JavaScript</sub>
-- [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) - Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser and more. <sub>⭐ 702 · HTML</sub>
-- [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard to manage all your AI subscriptions — track quotas, costs, accounts, Claude Code proxy, and Codex proxy in one place. <sub>⭐ 693 · Swift</sub>
+- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - 为 AI-Assised 开发创建的自由 Vue Admin & Dashboard 模板 <sub>⭐ 3.4k · Vue</sub>
+- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - AI 编码代理在Markdown中直接创建惊人的图表和可视化的观察技能。这些技能将代理能力延伸至图表生成、数据可视化和. <sub>⭐ 3.4k · JavaScript</sub>
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - 开源可观察性平台 专为AI代理设计. YC S24. <sub>⭐ 3.3k · TypeScript</sub>
+- [lakesoul-io/LakeSoul](https://github.com/lakesoul-io/LakeSoul) - 苏尔湖是一个端到端,实时云母湖屋框架,用于快速数据摄入,同步更新,增量分析,多式联运数据处理和矢量搜索——动力化. <sub>⭐ 3.3k · Rust</sub>
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes更好的Prometheus警报 -- -- 智能组合、AI浓缩和自动补救 <sub>⭐ 3.1k · Python</sub>
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - 在您的操作数据库中添加实时分析节点. Spice是一个可移植的,加速的SQL查询,搜索,以及Rust中用于基于数据的AI应用程序和代理的LLM-引用引擎. <sub>⭐ 3.1k · Rust</sub>
+- [rilldata/rill](https://github.com/rilldata/rill) - 人类和特工们最快的商业情报工具. <sub>⭐ 2.9k · Go</sub>
+- [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL 报告 Just Works。 快速、 简单和无混淆。 在 AI 的协助下, 用一个令人愉快的 SQL 编辑器写和分享询问 。 <sub>⭐ 2.9k · Python</sub>
+- [logpai/loghub](https://github.com/logpai/loghub) - AI驱动的日志分析(ISSRE'23)系统日志数据集大集 <sub>⭐ 2.9k</sub>
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - 通过API提供的搜索、建议、RAG和分析全方位平台 <sub>⭐ 2.7k · Rust</sub>
+- [nteract/semiotic](https://github.com/nteract/semiotic) - 反应数据可视化库,用于流线、网络和AI辅助开发 <sub>⭐ 2.7k · TypeScript</sub>
+- [oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard) - 快速构建可解释的AI仪表板,显示所谓"黑盒"机器学习模型的内在功能. <sub>⭐ 2.5k · Python</sub>
+- [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed——由AI驱动的新闻摘要,其中包含从Twitter/RSS的种子和网络仪表板中获取的结构化摘要 <sub>⭐ 2.4k · HTML</sub>
+- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API和DevOps. 实时收集和汇总数百万次使用事件,并允许基于使用量的计费. <sub>⭐ 2.4k · Go</sub>
+- [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, 行业范围规格化努力,以规范我们如何在分析器,AI和BI平台上交换语义元数据,为.提供供应商中立的单一真理来源. <sub>⭐ 2.3k · Python</sub>
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - 存档电子邮件和聊天的一生。 离线搜索、 分析、 AI 查询您完整的信件历史 。 由 SQLite 和 DuckDB 提供 <sub>⭐ 2.1k · Go</sub>
+- [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) - 本地首款 AI 符号使用和成本跟踪器, 包括 Claude Code、 Codex、 Cursor、 Gemini & DeepSeek Harness 的31个编码工具。 从未读过提示 。 <sub>⭐ 1.9k · JavaScript</sub>
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multiple Cluser 管理实时,自控,单二进制, AI 驱动。 在您的浏览器中管理, 监视和调试 K8s 集群, 没有云, 没有代理 。 <sub>⭐ 1.9k · TypeScript</sub>
+- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - NVIDIA AI 用于视频搜索和汇总的蓝图(VSS)是一个GPU加速的参考架构,用于构建视频分析代理,具有实时可验证的提醒,视觉QQA,以及自动化. . <sub>⭐ 1.9k · Python</sub>
+- [GMvandeVen/continual-learning](https://github.com/GMvandeVen/continual-learning) - PyTorch在三种不同的情景中实施各种持续学习方法(XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier). <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - 负责任的AI Toolbox是一套提供模型和数据探索与评估用户界面和库的工具,能够更好地理解AI系统. 这些接口和. <sub>⭐ 1.8k · TypeScript</sub>
+- [byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang) - Byzer(前MLSQL):一种用于数据管道,分析器和AI的低码开源编程语言. <sub>⭐ 1.8k · Scala</sub>
+- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - 自动跟踪您使用的应用程序, 您访问过哪些网站, 以及您每天在每个应用程序中花费多少时间 。 <sub>⭐ 1.8k · Rust</sub>
+- [julien040/anyquery](https://github.com/julien040/anyquery) - 一个用于60+工具(如GitHub,Notion, Airtable)的SQL接口. 通过MCP将任何LLM插入到任何LLM中. <sub>⭐ 1.8k · Go</sub>
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - 强大的分析解决方案。 在30秒内设置。 将您的所有数据显示在一个简单的、 AI 驱动的仪表板上。 完全可以自控和 GDPR 兼容 。 替代 Google 分析, MixPanel... <sub>⭐ 1.7k · TypeScript</sub>
+- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) - 在Android上运行 OpenClaw AI Gateway——独立Flustter应用,并配备内置终端,网络仪表板和单塔普设置. 也可作为Termux CLI软件包使用. <sub>⭐ 1.7k · Dart</sub>
+- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - 路由,管理,分析 您的LLM 请求跨多个供应商,并有一个统一的 API 接口. <sub>⭐ 1.7k · TypeScript</sub>
+- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx是数据和分析代理商可执行的上下文层,允许Claude Code, Codex, 或其他AI代理商准确查询分析数据库, 并结合你公司的全部背景 <sub>⭐ 1.6k · TypeScript</sub>
+- [antvis/AVA](https://github.com/antvis/AVA) - AI-内在视觉分析框架为代理构建. <sub>⭐ 1.6k · TypeScript</sub>
+- [Gsync/jobsync](https://github.com/Gsync/jobsync) - 工作应用程序跟踪器和AI驱动的求职助理。帮助求职者通过AI恢复审查、工作匹配、任务记录和应用程序分析来管理他们的搜索旅程,同时... <sub>⭐ 1.4k · TypeScript</sub>
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - 您的 AI Game Dev Hub. AI 游戏开发工具的最终资源枢纽。 发现尖端 LLMS, 世界模型, 代理, 代码, 图像, 纹理, 沙德, 3D模型, 动画, 视频, 音频... <sub>⭐ 1.4k · JavaScript</sub>
+- [spiculedata/saiku](https://github.com/spiculedata/saiku) - 开源语义层:一个立方体用于Excel(MDX/XMLA),仪表板和AI代理(MCP). Mondrian + Apache Calcite. <sub>⭐ 1.3k · Java</sub>
+- [Claw-AI-Lab/Claw-AI-Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab) - 一个仪表板 一个完整的研究团队 <sub>⭐ 1.3k · Python</sub>
+- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code 仪表板,有使用统计、错误分析和可防腐功能 <sub>⭐ 1.3k · Python</sub>
+- [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - 生产级C++边缘AI引擎用于视频分析以及横跨Sophon,Rockchip RKNN和x86的在线Device VLM,具有视觉管弦,实时OSD,事件,以及可复制的基准. <sub>⭐ 1.2k · C</sub>
+- [ALwrity/ALwrity](https://github.com/ALwrity/ALwrity) - ALLRITY - 第一数字营销平台. AI内容策略与规划,多式联运内容生成,出版,分析,AI SEO,连接和管理社会账户. Marketing OS - WIP <sub>⭐ 1.2k · Python</sub>
+- [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy) - 开源产品对创业者的分析:追踪访客,事件,漏斗,以及没有饼干的目标,并询问内置的AI分析师Databunny. Uptime,功能旗和短链接在同一处...... <sub>⭐ 1.2k · TypeScript</sub>
+- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - 30+基因辅助设备的自办网络设备 <sub>⭐ 1.2k · Python</sub>
+- [rashakil-ds/Roadmap-Docs](https://github.com/rashakil-ds/Roadmap-Docs) - Best Data Science, Data Analytics, AI, 和 SDE 路线图。 这个寄存器基于 LinkedIn 上以及事实上的数据科学和 AI 域的顶级职位发布而不断更新 。 <sub>⭐ 1.1k</sub>
+- [helicalinsight/helicalinsight](https://github.com/helicalinsight/helicalinsight) - 自由,开源的BI平台,有AI对话分析(BYO-LLM),像素完美贴图报告,交互式仪表板,SSO,嵌入,多租位和行级安全. 每个特性... <sub>⭐ 1.1k · JavaScript</sub>
+- [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - AI代理商的电子商务技能——产品研究,营销自动化,供应链优化,以及亚马逊,肖菲奇,埃特西,蒂克托克商店等地的在线销售商的商业分析. <sub>⭐ 1.1k · Python</sub>
+- [data-goblin/power-bi-agentic-development](https://github.com/data-goblin/power-bi-agentic-development) - Power BI AI技巧和Power BI代理Claude Code和GitHub Copilot: Power BI技巧的插件市场,子代理,以及语义模型的钩子,DAX,TMDL,报告,和AI仪表板. . <sub>⭐ 957 · C#</sub>
+- [Bennettxai/FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO) - 开源,单机运营商业务指挥中心:作为AI辅助部门(comms,funel, social,finance,agents,以及一个知识图)从一个直播中经营一人运营的公司. . <sub>⭐ 924 · TypeScript</sub>
+- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python工具包,MCP服务器,以及可复制,可审计的点击流和事件日志分析的代理技能. 帮助AI代理商,数据科学家和分析师建立,验证,并交叉检查产品... <sub>⭐ 920 · Python</sub>
+- [deepakpadhi986/AI-Resume-Analyzer](https://github.com/deepakpadhi986/AI-Resume-Analyzer) - Ai Resume 分析器是一个工具,它使用自然语言处理来剖析从一个恢复中获取的信息,并找到关键词,根据关键词将其分组到扇区。最后显示... <sub>⭐ 916 · Python</sub>
+- [yorkeccak/finance](https://github.com/yorkeccak/finance) - 世界最强大的开源金融AI助手——获取机构级金融数据,进行复杂的分析,并创造惊人的可视化,全部通过自然对话. <sub>⭐ 901 · TypeScript</sub>
+- [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) - Hermes AI代理堆栈的自办网络仪表板。 提供基于浏览器的终端、 文件探索器、会话概览、 cron 管理、 系统度量器和代理状态面板—— 全部在后面... <sub>⭐ 900 · JavaScript</sub>
+- [microsoft/bioemu](https://github.com/microsoft/bioemu) - 基因深处学习的蛋白质平衡共聚物可伸缩模拟的推论代码 <sub>⭐ 884 · Python</sub>
+- [awizemann/scarf](https://github.com/awizemann/scarf) - Hermes AI代理的原生macOS和iOS App——多窗口,多服务器(local + 远程于SSH). 聊天,仪表板,会话,内存,cron,MCP等. <sub>⭐ 879 · Swift</sub>
+- [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) - 一个开放源码的AI营销操作系统,用于战略、SEO、AEO/GEO、付费媒体、内容、客户关系管理和分析----基于品牌背景、人类认可和可核实的产出。 <sub>⭐ 843 · Python</sub>
+- [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - 截取 LLM API 流量,并在实时终端仪表板中可视化符号使用。跟踪成本、调试提示以及监视上下文窗口在您的 AI 开发会话中的使用。 <sub>⭐ 814 · Python</sub>
+- [gotempsh/temps](https://github.com/gotempsh/temps) - AI-内置开放源代码替代Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI操作 具有Claude Code, Codex & OpenCode的滴滴技能——部署,分析,会话...... <sub>⭐ 811 · Rust</sub>
+- [iblai/os](https://github.com/iblai/os) - 使组织能够创建和部署自定义的AI代理,支持多个LLM提供者,实时聊天,语音,文档培训,分析,用户管理,SSO认证. <sub>⭐ 801 · TypeScript</sub>
+- [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - 具有技能系统的 AI 代理 Orchestrator - 赋予 AI 代理超能力:内存搜索,代码图表查询,代理对代理消息. 管理 Claude, Codex 或任何来自一个仪表板的 AI 代理. Move... <sub>⭐ 799 · TypeScript</sub>
+- [Canner/vulcan-sql](https://github.com/Canner/vulcan-sql) - AI 代理和数据 Apps 的数据 API框架 <sub>⭐ 793 · TypeScript</sub>
+- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - TraceRoot - 开源自改进层用于AI代理 YC S25 <sub>⭐ 790 · TypeScript</sub>
+- [datagallery-ai/dataagent](https://github.com/datagallery-ai/dataagent) - DataFoundry是数据分析的开源AI工作台,将数据源,知识,工具和代理运行时间统一到一个受支配的工作空间中,用于交互式分析. <sub>⭐ 779 · TypeScript</sub>
+- [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI 数据集生成器 - 为演示、学习和仪表板创建现实的数据集 <sub>⭐ 767 · TypeScript</sub>
+- [aarora4/Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - 预知市场工具的目录 - AI Agents, Analytics, APIs, Dashboards, Copy Trading, 警告,跟踪和更多! <sub>⭐ 760</sub>
+- [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API 配额横跨合成,Z.ai,Anthropic(Claude Code),Codex,GitHub Copilot & Antigravity实时. 轻量级背景守护进程(<50MB RAM),SQLite存储,材料设计3... <sub>⭐ 749 · Go</sub>
+- [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) - 最佳OpenClaw资源目录:官方项目,技能,插件,仪表板,部署工具,内存系统,以及指南. <sub>⭐ 737</sub>
+- [n2ns/antigravity-panel](https://github.com/n2ns/antigravity-panel) - Google Antigravity IDE. 定额仪表板(Gemini/Claude/GPT)的社区工具包,使用趋势+跑道预测,缓存管理器(Brainet Tasks & Code),自动接受模式,AI承诺生成器. 13... <sub>⭐ 718 · TypeScript</sub>
+- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Agenttrail Map 显示项目结构和活动; Agenttrail Kitchen 将任务和角色贡献在 3D 中可视化. <sub>⭐ 716 · JavaScript</sub>
+- [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) - 77个开源营销技能为Claude Code,Codex,以及其他AI编码代理. SIO,内容,电子邮件,广告,分析,以及成长. <sub>⭐ 705 · JavaScript</sub>
+- [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) - OpenClaw AI代理的安全实时监控仪表板. Auth,TOTP MFA,成本跟踪,直播feed,内存浏览器等. <sub>⭐ 702 · HTML</sub>
+- [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - 一个仪表板来管理你所有的AI订阅——追踪配额,成本,账户,克劳德代码代理,以及Codex代理在一个地方. <sub>⭐ 693 · Swift</sub>
 - [Buoy-gg/buoy](https://github.com/Buoy-gg/buoy) - 生活在您的 React Industrial app 中的 Devtools。 并回复您的代理 。 25+工具 • 桌面仪表板 — MCP 服务器用于 AI 代理 <sub>⭐ 692</sub>
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage.… <sub>⭐ 679 · Go</sub>
-- [syncora-ai/Synthetic-AI-Developer-Productivity-Dataset](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset) - High-fidelity synthetic dataset capturing AI developer productivity metrics — including focus hours, task completion rates, and burnout indicators. Privacy-safe, ideal for ML and workflow analytics. <sub>⭐ 658 · Jupyter Notebook</sub>
-- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - A staged code-review workflow and local dashboard built with TypeSafe Jev. <sub>⭐ 656 · TypeScript</sub>
-- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 120-tool MCP server for real-time global intelligence: markets, SEC filings, conflict, military, cyber, climate, news, and 30+ domains. AI situation briefs that cite their sources, user-defined… <sub>⭐ 655 · Python</sub>
-- [horizon-ui/shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate <sub>⭐ 651 · TypeScript</sub>
-- [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - The fully open-source DuckDB workbench that runs in your browser. SQL editor, notebooks, charts, AI assistant. No install, no signup, no backend — your data never leaves the tab. <sub>⭐ 627 · TypeScript</sub>
-- [aryn-ai/sycamore](https://github.com/aryn-ai/sycamore) - Sycamore is an LLM-powered search and analytics platform for unstructured data. <sub>⭐ 608 · Python</sub>
-- [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO) - PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data. Built with Python and modern Qt. <sub>⭐ 607 · Python</sub>
-- [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Open source web interface for Slurm HPC & AI clusters <sub>⭐ 604 · Python</sub>
-- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - AI-Native Next.js admin dashboard template and UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more. <sub>⭐ 582 · TypeScript</sub>
-- [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code <sub>⭐ 579 · JavaScript</sub>
-- [GitHpriyanshu23/Smart-Plant-Doctor](https://github.com/GitHpriyanshu23/Smart-Plant-Doctor) - Smart Plant Doctor is an AI + IoT plant health platform that streams realtime ESP32 sensor data to a Streamlit dashboard and uses a MobileNetV2-based model for plant disease detection with treatment… <sub>⭐ 579 · Python</sub>
-- [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more <sub>⭐ 562 · TypeScript</sub>
-- [nirholas/XActions](https://github.com/nirholas/XActions) - The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time… <sub>⭐ 561 · HTML</sub>
-- [agentlabs-dev/agentlabs](https://github.com/agentlabs-dev/agentlabs) - Universal AI Agent Frontend. Build your backend we handle the rest. <sub>⭐ 558 · TypeScript</sub>
-- [evolution-foundation/evo-nexus](https://github.com/evolution-foundation/evo-nexus) - The open source operating system for AI-powered businesses <sub>⭐ 544 · Python</sub>
-- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language. <sub>⭐ 541 · Go</sub>
-- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - This dbt package captures metadata, artifacts, and test results so you can detect anomalies, monitor data quality, and build metadata tables. It powers Elementary OSS and feeds the wider context… <sub>⭐ 526 · Python</sub>
-- [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio… <sub>⭐ 514 · Python</sub>
-- [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped… <sub>⭐ 514 · Rust</sub>
-- [opengeos/GeoAgent](https://github.com/opengeos/GeoAgent) - A multimodal AI agent for geospatial data analysis and interactive visualization <sub>⭐ 501 · Python</sub>
-- [ryantsai/KKTerm](https://github.com/ryantsai/KKTerm) - Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant. <sub>⭐ 500 · TypeScript</sub>
-- [RyjoxTechnologies/Octopoda-OS](https://github.com/RyjoxTechnologies/Octopoda-OS) - The open-source memory and observability layer for AI agents — persistent memory, loop detection, hash-chained audit trails, and a live dashboard, automatic on pip install. <sub>⭐ 487 · Python</sub>
-- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - System of Record for Kubernetes cost accounting: per-namespace CPU, memory and GPU usage, with the 30% non-allocatable overhead made visible. Connects to AI assistants via MCP (Claude, Gemini… <sub>⭐ 485 · Python</sub>
-- [danilobatson/ai-trading-agent-gemini](https://github.com/danilobatson/ai-trading-agent-gemini) - AI Trading Agent that transforms social media sentiment into actionable trading signals using LunarCrush analytics and Google Gemini AI. Features real-time progress tracking, background job… <sub>⭐ 460 · TypeScript</sub>
-- [guidewire-oss/fern-platform](https://github.com/guidewire-oss/fern-platform) - Unified test intelligence platform with multi-format ingestion, real-time analytics, and AI-powered insights via LLM integration <sub>⭐ 459 · Go</sub>
-- [secondsky/sap-skills](https://github.com/secondsky/sap-skills) - Production-ready plugins for SAP development with AI coding assistants — BTP, CAP, Fiori, ABAP, HANA, Analytics Cloud, Datasphere, and more <sub>⭐ 458 · JavaScript</sub>
-- [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) - A beautiful, zero-dependency command center for OpenClaw AI agents <sub>⭐ 456 · Go</sub>
-- [DataWithBaraa/databricks_bootcamp_2026](https://github.com/DataWithBaraa/databricks_bootcamp_2026) - End-to-end Data Lakehouse project built on Databricks, following the Medallion Architecture (Bronze, Silver, Gold). Covers real-world data engineering and analytics workflows using Spark, PySpark… <sub>⭐ 442 · Jupyter Notebook</sub>
-- [AOT-Technologies/forms-flow-ai](https://github.com/AOT-Technologies/forms-flow-ai) - formsflow.ai is an open source forms-workflow-analytics solution framework. <sub>⭐ 417 · JavaScript</sub>
-- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - Find slow database queries, get AI-powered optimization tips, and browse them in a built-in dashboard — for Laravel. <sub>⭐ 413 · PHP</sub>
-- [AgriciDaniel/claude-youtube](https://github.com/AgriciDaniel/claude-youtube) - Claude Code skill for YouTube creators — channel audits, video SEO, retention scripts, thumbnails, content strategy, Shorts optimization, analytics, monetization, and more. <sub>⭐ 411 · Python</sub>
-- [waynesutton/opensync](https://github.com/waynesutton/opensync) - Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets. <sub>⭐ 411 · TypeScript</sub>
-- [HamedMP/CursorLens](https://github.com/HamedMP/CursorLens) - An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. <sub>⭐ 403 · TypeScript</sub>
-- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent… <sub>⭐ 397 · Python</sub>
-- [LuxAlgo/trade-journal](https://github.com/LuxAlgo/trade-journal) - The open-source trade journal. Broker sync, P&L calendar, deep analytics, and AI reflection. Self-hosted, MIT, free. <sub>⭐ 396 · TypeScript</sub>
-- [MaySudo/Misceo](https://github.com/MaySudo/Misceo) - Local Anthropic-compatible AI gateway with cheap-first routing, quality gates, safe model handoffs, and an embedded cost dashboard. <sub>⭐ 375</sub>
-- [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry) - Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude Code, Antigravity CLI, Codex & more. 100% local. <sub>⭐ 374 · Python</sub>
-- [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) - Open-source framework to drive a real phone with AI agents: Android over ADB, iPhone over WebDriverAgent, 62 MCP tools, Python skills, a Vue dashboard, and swappable local or cloud LLMs <sub>⭐ 373 · Python</sub>
-- [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React… <sub>⭐ 368 · Python</sub>
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted. <sub>⭐ 365 · TypeScript</sub>
-- [parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart) - Full-stack MERN fitness e-commerce platform with complete Admin dashboard, Razorpay payments, workout tracker, exercise library, AI chatbot, BMI and calorie calculators, nearby gym finder and… <sub>⭐ 361 · JavaScript</sub>
-- [nshiab/simple-data-analysis](https://github.com/nshiab/simple-data-analysis) - Fast DuckDB-powered TypeScript library for tabular, geospatial, vector, AI, Google Sheets, and data visualization workflows on Deno, Node.js, and Bun. <sub>⭐ 356 · TypeScript</sub>
-- [PlotSenseAICommunity/PlotSense](https://github.com/PlotSenseAICommunity/PlotSense) - PlotSense is an AI-powered assistant that helps data professionals and analysts make smarter, faster, and more explainable data visualizations. Whether you're exploring a new dataset or building… <sub>⭐ 356 · Python</sub>
-- [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) - One dashboard for all your local AI coding agents. Switch providers, manage sessions, and orchestrate tasks across Codex, Claude Code, Gemini CLI, CodeBuddy Code, Pi, OpenCode, KiloCode, and… <sub>⭐ 353 · JavaScript</sub>
-- [minusxai/minusx-metabase](https://github.com/minusxai/minusx-metabase) - MinusX is an AI Data Analyst that you can add to your Metabase. It helps you ask business questions to your dashboards and dig deeper through followups. <sub>⭐ 351 · TypeScript</sub>
-- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone. <sub>⭐ 331 · TypeScript</sub>
-- [BugTraceAI/BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) - Autonomous AI-powered security scanning platform — CLI scanner, web dashboard, and one-command Docker deployment <sub>⭐ 329</sub>
-- [FrankChen021/datastoria](https://github.com/FrankChen021/datastoria) - AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization. <sub>⭐ 327 · TypeScript</sub>
-- [dfinke/awesome-copilot-chatmodes](https://github.com/dfinke/awesome-copilot-chatmodes) - Custom chatMode.md personas for GitHub Copilot — specialize your VS Code with AI assistants for testing, security, clean‑code refactoring, dashboards, prompt design, and more. Just drop in and select… <sub>⭐ 319</sub>
-- [foxglove/foxglove-sdk](https://github.com/foxglove/foxglove-sdk) - Log and visualize multimodal data for robotics and physical AI <sub>⭐ 311 · Rust</sub>
-- [sopaco/cortex-mem](https://github.com/sopaco/cortex-mem) - The production-ready cognitive foundation for autonomous systems such as Embodied-AI and OpenClaw. For memory management, from extraction and search to automated optimization, with SKILL, CLI, API… <sub>⭐ 311 · Rust</sub>
-- [luwei0917/DynamicBind](https://github.com/luwei0917/DynamicBind) - repo for DynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model <sub>⭐ 309 · Jupyter Notebook</sub>
-- [gnurio/tufte-vdqi-plugin](https://github.com/gnurio/tufte-vdqi-plugin) - Give your AI agents the skill of visualizing data the way Edward Tufte intended. <sub>⭐ 308 · Python</sub>
-- [tryolabs/soccer-video-analytics](https://github.com/tryolabs/soccer-video-analytics) - Demo on how to compute soccer ball possession automatically using AI. <sub>⭐ 308 · Python</sub>
-- [proxy-intell/facebook-ads-library-mcp](https://github.com/proxy-intell/facebook-ads-library-mcp) - MCP Server for Facebook ADs Library - Get instant answers from FB's ad library <sub>⭐ 307 · Python</sub>
-- [databand-ai/airflow-dashboards](https://github.com/databand-ai/airflow-dashboards) - Grafana dashboards and StatsD exporter config for Airflow monitoring <sub>⭐ 299</sub>
-- [AbuZar-Ansarii/Clawbot](https://github.com/AbuZar-Ansarii/Clawbot) - OpenClaw Android Setup Guide Transform any old Android device into a 24/7 AI agent running locally. This guide provides step-by-step instructions for installing and running OpenClaw on Android using… <sub>⭐ 298</sub>
-- [lis186/ccxray](https://github.com/lis186/ccxray) - X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code <sub>⭐ 296 · JavaScript</sub>
-- [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp) - Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. <sub>⭐ 296 · TypeScript</sub>
-- [codemie-ai/codemie-code](https://github.com/codemie-ai/codemie-code) - AI Run CodeMie CLI with analytics capabilities <sub>⭐ 291 · TypeScript</sub>
-- [OndCo/Ond-ESG-Intelligence-Platform](https://github.com/OndCo/Ond-ESG-Intelligence-Platform) - Ond ESG Intelligence Platform is a cloud-native solution that ingests ESG data, processes it with Azure Data Factory & Databricks, and applies AI/ML models on Azure ML for predictive insights. Power… <sub>⭐ 283 · Python</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [danishashko/geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility intelligence dashboard. Track your brand across 6 AI models. <sub>⭐ 278 · TypeScript</sub>
-- [reneverland/CBIT-AiExam-plus](https://github.com/reneverland/CBIT-AiExam-plus) - A general‑purpose AI‑powered examination platform for schools, training providers, enterprises, and online programs. It delivers multi‑disciplinary item generation, adaptive difficulty, semantic… <sub>⭐ 277 · Python</sub>
-- [kLOsk/adloop](https://github.com/kLOsk/adloop) - The AI command center for Google Ads, Analytics and Search Console. <sub>⭐ 275 · Python</sub>
-- [Joao-M-Silva/padel_analytics](https://github.com/Joao-M-Silva/padel_analytics) - AI-powered padel analytics <sub>⭐ 274 · Python</sub>
-- [datagallery-lab/enterprise_agent_platform](https://github.com/datagallery-lab/enterprise_agent_platform) - The first book dedicated to enterprise Agent platform engineering, from data intelligence foundations to production-ready AI-native business systems. <sub>⭐ 270 · Python</sub>
-- [ProjectNeura/LEADS](https://github.com/ProjectNeura/LEADS) - Enable your racing car with powerful, data-driven instrumentation, control, and analysis systems, all wrapped up in a gorgeous look. <sub>⭐ 270 · Python</sub>
-- [vakovalskii/codbash](https://github.com/vakovalskii/codbash) - Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions. <sub>⭐ 270 · JavaScript</sub>
-- [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) - Generate visual charts using ECharts with AI MCP dynamically, used for chart generation and data analysis. <sub>⭐ 269 · TypeScript</sub>
-- [NVIDIA/DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across… <sub>⭐ 266 · C++</sub>
-- [Cy-S3c/BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra) - AI-powered MCP server for Burp Suite Professional — 149 tools across proxy, scanner, inline fuzzer, race conditions, guided injection, JWT/IDOR attacks, recon & OOB, with a real-time dashboard and… <sub>⭐ 265 · Kotlin</sub>
-- [agnosticeng/agx](https://github.com/agnosticeng/agx) - AI Powered Analytics <sub>⭐ 263 · Svelte</sub>
-- [empower-ai/dsensei](https://github.com/empower-ai/dsensei) - AI-powered key driver analysis tool that pinpoints root cause behind metrics fluctuation in one minute. <sub>⭐ 262 · TypeScript</sub>
-- [maxanatsko/mcp-engine-public](https://github.com/maxanatsko/mcp-engine-public) - The SemanticOps MCP (formerly MCP Engine) is a Power BI tool that lets AI assistants like Claude interact with your Power BI models programmatically: read your model structure, run DAX queries… <sub>⭐ 257</sub>
-- [Hunterdii/Smart-AI-Resume-Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer) - Smart Resume AI is a powerful tool designed to revolutionize your job application process. With features like professional template building, ATS-friendly analysis, and AI-driven optimization, it… <sub>⭐ 256 · C</sub>
-- [lotsoftick/openclaw_client](https://github.com/lotsoftick/openclaw_client) - OpenClaw web client <sub>⭐ 255 · TypeScript</sub>
-- [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED displays. <sub>⭐ 254 · TypeScript</sub>
-- [firebolt-db/firebolt-core](https://github.com/firebolt-db/firebolt-core) - Firebolt Core is a free, self-hosted edition of Firebolt's distributed query engine (https://www.firebolt.io/); it provides high-performance data warehousing capabilities that can be deployed… <sub>⭐ 253 · Shell</sub>
-- [jontsai/openclaw-command-center](https://github.com/jontsai/openclaw-command-center) - AI assistant command and control dashboard — Spawn more Overlords! <sub>⭐ 245 · JavaScript</sub>
-- [AlexTam930/crossPlatformAi](https://github.com/AlexTam930/crossPlatformAi) - An extensible cross-industry data fusion AI platform based on user profile modeling. Built with Python and Flask, featuring multi-source data integration, custom fusion rules, and advanced non-linear… <sub>⭐ 243 · HTML</sub>
-- [BioinfoMachineLearning/bio-diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - A geometry-complete diffusion generative model (GCDM) for 3D molecule generation and optimization. (Nature CommsChem) <sub>⭐ 242 · Python</sub>
-- [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp) - Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side… <sub>⭐ 242 · Python</sub>
-- [NovaCode37/Prism-platform](https://github.com/NovaCode37/Prism-platform) - Self-hosted OSINT platform. Point it at a domain, IP, email, phone or username and 26 modules run in parallel: WHOIS, DNS, threat intel, breaches, username search. One dashboard, an exposure score… <sub>⭐ 238 · Python</sub>
-- [Hack23/cia](https://github.com/Hack23/cia) - Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary… <sub>⭐ 236 · Java</sub>
-- [AngusKit/AngusKit](https://github.com/AngusKit/AngusKit) - Private, self-hosted AI-native software engineering suite — unified identity (GM) plus AI agents, code collaboration, artifact management, testing, security, and product analytics. <sub>⭐ 234</sub>
-- [adrianhajdin/travel-agency-dashboard](https://github.com/adrianhajdin/travel-agency-dashboard) - Build a dynamic travel dashboard with React, React Router v7, Syncfusion, Appwrite, and Gemini AI! Master authentication, create interactive charts, and integrate Gemini AI for outstanding features. <sub>⭐ 228 · TypeScript</sub>
-- [ahmedyahia01/Nara-AI-Dashboard](https://github.com/ahmedyahia01/Nara-AI-Dashboard) - A comprehensive AI dashboard featuring PDF analysis, presentation generation, and smart chat, powered by the NaraRouter API. <sub>⭐ 218 · TypeScript</sub>
-- [jkmaina/LangGraphProjects](https://github.com/jkmaina/LangGraphProjects) - This is the official companion repository for the book The Complete LangGraph Blueprint: Build 50+ AI Agents for Business Success. The repository provides source code, practical examples, and… <sub>⭐ 217 · Python</sub>
-- [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more. <sub>⭐ 216 · Svelte</sub>
-- [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) - Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too. <sub>⭐ 213 · Python</sub>
-- [KoNananachan/Neuberg](https://github.com/KoNananachan/Neuberg) - Real-time trading news terminal with AI analysis, prediction markets, and multi-asset trading. Bloomberg-style dashboard. <sub>⭐ 208 · TypeScript</sub>
-- [jortilles/EDA](https://github.com/jortilles/EDA) - Edalitics is an open-source business intelligence platform that lets you build interactive dashboards, analyze data from multiple sources, and connect AI assistants to your business data in minutes. <sub>⭐ 207 · TypeScript</sub>
-- [totalhack/zillion](https://github.com/totalhack/zillion) - Make sense of it all. Semantic data modeling and analytics with a sprinkle of AI. https://totalhack.github.io/zillion <sub>⭐ 207 · Python</sub>
-- [nlethetech/nepse-quant-terminal](https://github.com/nlethetech/nepse-quant-terminal) - Terminal-based NEPSE quant trading dashboard with paper trading, backtesting, analytics, and AI agent support. <sub>⭐ 204 · Python</sub>
-- [wickedapp/openclaw-office](https://github.com/wickedapp/openclaw-office) - Virtual AI Office Dashboard for OpenClaw — visualize your multi-agent workflows in real-time <sub>⭐ 203 · JavaScript</sub>
-- [YuriCrystal/ai-avatar-bot](https://github.com/YuriCrystal/ai-avatar-bot) - Live2D／VRM voice AI avatar with lip sync, knowledge base, operations dashboard, support and analytics｜可一行嵌入網站 <sub>⭐ 203 · JavaScript</sub>
-- [SENATOROVAI/Data-Science-For-Beginners-from-scratch-course](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course) - Data science for beginners involves learning to extract insights from data using statistics, programming (Python/R), and visualization. Key steps include data collection, cleaning, analysis… <sub>⭐ 202 · Python</sub>
-- [youssefvdel/qwengate](https://github.com/youssefvdel/qwengate) - Drop-in OpenAI-compatible API gateway for Qwen AI models. Use your Qwen account (chat.qwen.ai) as a free AI API provider in any OpenAI-compatible client — Cursor, Continue.dev, Claude Code, VS Code… <sub>⭐ 201 · TypeScript</sub>
-- [PetervanLunteren/AddaxAI](https://github.com/PetervanLunteren/AddaxAI) - AI-assisted camera trap analysis: detection, species recognition, verification, dashboards and exports. Free, open source, for Windows, macOS and Linux. <sub>⭐ 200 · Python</sub>
-- [David-Lzy/AI_Usage_Dashboard](https://github.com/David-Lzy/AI_Usage_Dashboard) - A Chrome extension for checking AI coding tool quota, setup blockers, and sync health from one toolbar popup, side panel, or full-page dashboard. <sub>⭐ 199 · TypeScript</sub>
-- [edwin-hao-ai/Awareness-Local](https://github.com/edwin-hao-ai/Awareness-Local) - Local-first AI agent memory — one command, works offline, no account needed. Give your Claude Code, Cursor, Windsurf, OpenClaw agent persistent memory. Markdown storage, hybrid search (FTS5 +… <sub>⭐ 199 · JavaScript</sub>
-- [microsoft/Planetary-Explorer](https://github.com/microsoft/Planetary-Explorer) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language. <sub>⭐ 199 · Python</sub>
-- [pyrate-llama/hermes-ui](https://github.com/pyrate-llama/hermes-ui) - The command center for Hermes Agent — chat, steer, browse files, manage skills, and monitor everything from a single glassmorphic HTML app. <sub>⭐ 199 · HTML</sub>
-- [edwinkys/phantasm](https://github.com/edwinkys/phantasm) - Toolkits to create a human-in-the-loop approval layer to monitor and guide AI agents workflow in real-time. <sub>⭐ 196 · Svelte</sub>
-- [ganapativs/microcharts](https://github.com/ganapativs/microcharts) - Word-sized charts for React, made for LLMs and humans — 106 chart types, zero runtime dependencies, accessible by default, RSC-safe. <sub>⭐ 196 · TypeScript</sub>
-- [hefy2027/cf-manager](https://github.com/hefy2027/cf-manager) - An all-in-one multi-account dashboard for Cloudflare. Manage Workers, DNS, KV/D1/R2 storage, AI inference & browser rendering visually, with an OpenAI-compatible API for external integration. <sub>⭐ 196 · TypeScript</sub>
-- [Cesarjoquin/Marketing-Skills](https://github.com/Cesarjoquin/Marketing-Skills) - AI agent Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, ai agent, and growth engineering, ai agent <sub>⭐ 195 · TypeScript</sub>
-- [cporter202/stock-market-signal-automation](https://github.com/cporter202/stock-market-signal-automation) - Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples. <sub>⭐ 193</sub>
-- [togethercomputer/open-data-scientist](https://github.com/togethercomputer/open-data-scientist) - Open AI data scientist agent that automates complex data analysis tasks using the ReAct framework. Execute Python code locally or in the cloud, upload datasets, and generate detailed analytical… <sub>⭐ 190 · Python</sub>
-- [brightics/studio](https://github.com/brightics/studio) - Component based analytics studio on the web browser <sub>⭐ 189 · JavaScript</sub>
-- [stoneforge-ai/stoneforge](https://github.com/stoneforge-ai/stoneforge) - A web dashboard and runtime for orchestrating AI coding agents <sub>⭐ 189 · TypeScript</sub>
-- [ykdojo/safeclaw](https://github.com/ykdojo/safeclaw) - The easiest way to run multiple Claude Code sessions, each in its own container, with a dashboard to manage them all. Quick setup with battle-tested sensible defaults and skills. <sub>⭐ 184 · HTML</sub>
-- [braedonsaunders/homerun](https://github.com/braedonsaunders/homerun) - Open-source prediction market trading platform for Polymarket & Kalshi. Write full Python strategies & data sources, backtest them, then paper or live trade. 25+ built-in strategies, copy trading, AI… <sub>⭐ 183 · Python</sub>
-- [Markfans/cryptoquant-ai](https://github.com/Markfans/cryptoquant-ai) - CryptoQuant AI is an advanced, open-source quantitative trading platform designed to bridge the gap between algorithmic market execution and artificial intelligence. Built entirely on a modern… <sub>⭐ 183 · TypeScript</sub>
-- [Juliusolsson05/pharos-ai](https://github.com/Juliusolsson05/pharos-ai) - Open-source OSINT intelligence dashboard tracking the Iran conflict in real time — live DeckGL/MapLibre conflict map, 30 bias-labeled feeds, actor dossiers, and daily briefs. Live at conflicts.app. <sub>⭐ 182 · TypeScript</sub>
-- [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - Self-hosted photo intelligence, enrichment, curation, and automation for your Immich library. Pictaria Server helps you explore and understand your collection, optionally enrich it with AI, review… <sub>⭐ 182 · JavaScript</sub>
-- [byaxb/RDataAnalytics](https://github.com/byaxb/RDataAnalytics) - Data Analytics with R, instructed by Xinbo Ai, at Beijing University of Posts and Telecommunications <sub>⭐ 180 · R</sub>
-- [NousResearch/pokemon-agent](https://github.com/NousResearch/pokemon-agent) - AI-powered Pokemon gameplay agent with headless emulation, REST API, and live dashboard. Works with any LLM. <sub>⭐ 180 · Python</sub>
-- [brainless/dwata](https://github.com/brainless/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon! <sub>⭐ 178 · Rust</sub>
-- [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Azure Analytics and AI Engagement <sub>⭐ 178 · Jupyter Notebook</sub>
-- [aws-samples/generative-bi-using-rag](https://github.com/aws-samples/generative-bi-using-rag) - A solution guidance for Generative BI using Amazon Bedrock, Amazon OpenSearch with RAG <sub>⭐ 177 · Python</sub>
-- [SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) - react + next.js dashboard for R2R: The most advanced AI retrieval system. Containerized, Retrieval-Augmented Generation (RAG) with a RESTful API. <sub>⭐ 176 · TypeScript</sub>
-- [AvenalJ/AntigravityMobile](https://github.com/AvenalJ/AntigravityMobile) - A feature-rich mobile dashboard for Antigravity IDE that lets you stream live AI conversations, monitor model quotas, and browse or edit workspace files from any device on your local network.… <sub>⭐ 175 · JavaScript</sub>
-- [clawfleet/ClawFleet](https://github.com/clawfleet/ClawFleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes — use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard. <sub>⭐ 173 · Go</sub>
-- [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) - Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffic tracking, and an analytics dashboard to track agent actions. <sub>⭐ 172 · Python</sub>
-- [Algolisted-Org/AlgoListed](https://github.com/Algolisted-Org/AlgoListed) - Algolisted is an AI-powered platform dedicated to assisting computer science students in preparing for placements and internships. Our services include tracking and analytics across various platforms… <sub>⭐ 168 · JavaScript</sub>
-- [neplexlabs/commandkit](https://github.com/neplexlabs/commandkit) - The discord.js meta-framework with features such as AI-powered command handler, analytics, feature flags, and more <sub>⭐ 165 · TypeScript</sub>
-- [besoeasy/yantr](https://github.com/besoeasy/yantr) - A self-hosted homelab app store for rootless Podman — runs alongside your OS, not instead of it. <sub>⭐ 164 · Vue</sub>
-- [madrzak/vidclaw](https://github.com/madrzak/vidclaw) - The OpenClaw Dashboard <sub>⭐ 164 · TypeScript</sub>
-- [vybenetwork/x402-client](https://github.com/vybenetwork/x402-client) - Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming for Vybe's Solana analytics API. Built for AI agents. <sub>⭐ 164 · TypeScript</sub>
-- [jupyter-naas/abi](https://github.com/jupyter-naas/abi) - Open AI Operating System <sub>⭐ 163 · Python</sub>
-- [flo7up/relataly-public-python-tutorials](https://github.com/flo7up/relataly-public-python-tutorials) - Popular collection of practical Python notebooks for machine learning, deep learning, time series, generative AI, and analytics. <sub>⭐ 162 · Jupyter Notebook</sub>
-- [Orbifold/knwler](https://github.com/Orbifold/knwler) - Knwler is a lightweight Python tool that extracts structured knowledge graphs from documents using AI. Feed it a PDF or text file and receive a richly connected network of entities, relationships… <sub>⭐ 162 · Python</sub>
-- [rustykuntz/clideck](https://github.com/rustykuntz/clideck) - A dashboard for running and coordinating multiple AI CLI agents at once. <sub>⭐ 161 · JavaScript</sub>
-- [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - Self-hosted short link and live QR platform with ownership, review, branded QR codes, analytics, and an auditable path to AI-assisted operations. <sub>⭐ 159 · Go</sub>
-- [sstraus/tuicommander](https://github.com/sstraus/tuicommander) - The IDE that understands AI agents. Run parallel agents on isolated branches with full observability. Diffs, PRs, CI, usage dashboards — one workspace, zero context loss. <sub>⭐ 159 · Rust</sub>
-- [tysonnbt/Antigravity-Deck](https://github.com/tysonnbt/Antigravity-Deck) - Remote control for Antigravity — manage AI conversations, workspaces, and agents from any device. One command to set up, one URL to access. <sub>⭐ 158 · JavaScript</sub>
-- [FlutterFlareLine/FlareLine](https://github.com/FlutterFlareLine/FlareLine) - flutter admin dashboard for web <sub>⭐ 157 · Dart</sub>
-- [trubrics/trubrics-python](https://github.com/trubrics/trubrics-python) - Product analytics for AI Assistants <sub>⭐ 156 · Python</sub>
-- [hugodemenez/deltalytix](https://github.com/hugodemenez/deltalytix) - Trading journal with AI agents and dashboard with statistics <sub>⭐ 155 · TypeScript</sub>
-- [MsLolita/Nodepay_plus](https://github.com/MsLolita/Nodepay_plus) - Mining and Register for https://app.nodepay.ai/dashboard <sub>⭐ 154 · Python</sub>
-- [shinglokto/openclaw-claude-bridge](https://github.com/shinglokto/openclaw-claude-bridge) - HTTP bridge powering OpenClaw's AI agents via Claude Code CLI — manages persistent sessions, auto-resume, extended thinking, and provides a real-time React dashboard with per-agent cost tracking.… <sub>⭐ 153 · JavaScript</sub>
-- [CognonicLabs/awesome-AI-kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) - Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision, Data Science, Data Analytics and Cognitive Computing that are baked in the oven to be Native on Kubernetes and Docker… <sub>⭐ 147</sub>
-- [Thanas-R/Virdis](https://github.com/Thanas-R/Virdis) - Satellite-powered agricultural and land analytics platform that combines Sentinel-2 satellite imagery, Google Earth Engine processing, real-time weather data, soil science databases, and AI-driven… <sub>⭐ 147 · TypeScript</sub>
-- [ahpxex/open-dashboard](https://github.com/ahpxex/open-dashboard) - A skill catalogue of 36 copy-ready admin UI shapes an AI agent installs and composes into a real back-office. Built on TanStack Start, Drizzle + better-auth, shadcn + Tailwind v4. <sub>⭐ 146 · TypeScript</sub>
-- [Hainrixz/maia-skill](https://github.com/Hainrixz/maia-skill) - Claude Code skill: 5 AI agents analyze crypto, stocks, forex & commodities in parallel, adapt to your risk profile, and render an interactive bilingual (EN/ES) dashboard. Hybrid keyless market data.… <sub>⭐ 145 · TypeScript</sub>
-- [elkimek/get-based](https://github.com/elkimek/get-based) - Private, local-first health intelligence for labs, 51 curated SNPs, wearables, light exposure, Biology Scores, optional AI, encrypted sync, sharing, and Agent Access. <sub>⭐ 144 · JavaScript</sub>
-- [jtrackingai/analytics-tracking-automation](https://github.com/jtrackingai/analytics-tracking-automation) - AI-powered GA4 + GTM event tracking — automates site analysis, event schema, GTM sync, preview verification, and publishing. Works with Cursor, Codex, and any AI agent. <sub>⭐ 141 · TypeScript</sub>
-- [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics. <sub>⭐ 140 · Python</sub>
-- [FulAppiOS/Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) - Real-time gamified dashboard for monitoring Claude Code and Codex AI agents in a medieval fantasy setting <sub>⭐ 140 · TypeScript</sub>
-- [hyungkwonko/chart-llm](https://github.com/hyungkwonko/chart-llm) - Vega-Lite Chart Dataset and NL Generation Framework using LLMs <sub>⭐ 140 · Python</sub>
-- [adham90/ruby_llm-agents](https://github.com/adham90/ruby_llm-agents) - A Rails agent framework for RubyLLM — define AI agents with prompts, schemas, caching, logging, cost tracking, and a built-in dashboard for monitoring LLM usage in production. <sub>⭐ 139 · Ruby</sub>
-- [itzzritik/OrderWorder](https://github.com/itzzritik/OrderWorder) - OrderWorder - Revolutionize your restaurant with a sleek, contactless full-stack app powered by AI. From QR code menus and smart chatbot recommendations to seamless ordering, real-time kitchen… <sub>⭐ 138 · Python</sub>
-- [sundios/SEO-Dashboard](https://github.com/sundios/SEO-Dashboard) - A full-featured Google Search Console analytics dashboard built with Next.js and a Flask backend. Provides traffic analysis, keyword insights, URL inspection, sitemap management, and AI-powered… <sub>⭐ 138 · TypeScript</sub>
-- [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) - ShopIQ is an AI-powered retail intelligence platform built for analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using… <sub>⭐ 137 · TypeScript</sub>
-- [juliantanx/aiusage](https://github.com/juliantanx/aiusage) - Open-source AI usage tracker — tokens, cost, and sessions across Claude Code, Codex, Hermes, Qoder, and more <sub>⭐ 136 · TypeScript</sub>
-- [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) - fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme <sub>⭐ 135 · TypeScript</sub>
-- [ellie886/Datalume](https://github.com/ellie886/Datalume) - LLM-powered AI Data Analysis Agent with tool calling and reusable analytical skills. <sub>⭐ 134 · Python</sub>
-- [aws-samples/amazon-transcribe-live-call-analytics](https://github.com/aws-samples/amazon-transcribe-live-call-analytics) - Amazon Transcribe Live Call Analytics (LCA) Sample Solution <sub>⭐ 133 · JavaScript</sub>
-- [lablup/backend.ai-webui](https://github.com/lablup/backend.ai-webui) - Backend.AI Web UI for web / desktop app (Windows/Linux/macOS). Backend.AI Web UI provides a convenient environment for users, while allowing various commands to be executed without CLI. It also… <sub>⭐ 133 · TypeScript</sub>
-- [codeking-ai/cligate](https://github.com/codeking-ai/cligate) - Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, tools, channels, tasks,model routing, accounts, keys, logs, dashboard. <sub>⭐ 132 · JavaScript</sub>
-- [manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) - Real-time Kubernetes dashboard for SREs — live cluster state, drain wizard, YAML editor, just-in-time exec access, cost analysis, and AI diagnosis in a single binary <sub>⭐ 131 · TypeScript</sub>
-- [qrak/LLM_trader](https://github.com/qrak/LLM_trader) - LLM-powered Crypto Trading Framework with Vision AI chart analysis, real-time Neural Engine, and a live monitoring dashboard at semanticsignal.qrak.org. Features memory-augmented reasoning and… <sub>⭐ 131 · Python</sub>
-- [KORAYTEACHER/fintech-forge](https://github.com/KORAYTEACHER/fintech-forge) - fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance-focused <sub>⭐ 130 · TypeScript</sub>
-- [ajayarunachalam/msda](https://github.com/ajayarunachalam/msda) - Library for multi-dimensional, multi-sensor, uni/multivariate time series data analysis, unsupervised feature selection, unsupervised deep anomaly detection, and prototype of explainable AI for… <sub>⭐ 129 · Jupyter Notebook</sub>
-- [KevPH2026/muse-catch](https://github.com/KevPH2026/muse-catch) - AI Inspiration Capture — Browser Extension + Telegram Bot + Web Dashboard <sub>⭐ 128 · HTML</sub>
-- [niklasfrick/spark-dashboard](https://github.com/niklasfrick/spark-dashboard) - Real-time hardware and LLM inference monitoring — GPU, CPU, memory, and vLLM metrics streamed to a dashboard. <sub>⭐ 128 · TypeScript</sub>
-- [sidequery/sidemantic](https://github.com/sidequery/sidemantic) - The universal metrics layer. Compatible with 15+ formats: Cube, MetricFlow, LookML, Omni, BSL, LDM, Cortex, Malloy, OSI, SML, TML, Hex, Rill, Superset <sub>⭐ 128 · Python</sub>
-- [notivn/AIEV](https://github.com/notivn/AIEV) - Automatic AI video editing. Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly) to turn raw footage into a finished MP4 - transcript, kinetic typography, karaoke… <sub>⭐ 126 · TypeScript</sub>
-- [u485349-coder/OpenFoundry](https://github.com/u485349-coder/OpenFoundry) - The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Self-hosted. Built with Rust +… <sub>⭐ 125</sub>
-- [Chrisinho8/DACH-data-job-market](https://github.com/Chrisinho8/DACH-data-job-market) - Daily tracker of the AI/Data job market in Germany, Austria and Switzerland. 3,000+ live postings processed through a Databricks + Delta Lake pipeline, with links to the original listings. Free and… <sub>⭐ 124 · Python</sub>
-- [FuZoe/PD-Hunter](https://github.com/FuZoe/PD-Hunter) - AI-powered bounty intelligence dashboard for Github repositories. <sub>⭐ 123 · Go</sub>
-- [viktoriasemaan/data-engineering](https://github.com/viktoriasemaan/data-engineering) - Advanced Data & AI Engineering Portfolio: Real-world projects and production-ready patterns to level up your AI skills—from building clean data pipelines to deploying RAG systems, AI agents, and… <sub>⭐ 122 · Jupyter Notebook</sub>
-- [dcb/homeassistant-claude-kit](https://github.com/dcb/homeassistant-claude-kit) - AI-guided Home Assistant setup — automation templates, mobile-first React dashboard, and Claude Code skills for configuration management <sub>⭐ 121 · TypeScript</sub>
-- [mittalananya2006/Obsidian-Workflow-Atelier](https://github.com/mittalananya2006/Obsidian-Workflow-Atelier) - Obsidian Dev Dashboard 2026: Build a Centralized AI Workflow Hub <sub>⭐ 121 · HTML</sub>
-- [nixfred/infomarchy](https://github.com/nixfred/infomarchy) - Omarchy plugin: your wallpaper becomes a live, clickable information desk with every running AI agent (Claude Code, Codex, Grok, Ollama), 7-day heatmap, rate limits, recent prompts, machine stats.… <sub>⭐ 121 · TypeScript</sub>
-- [Smile-QWQ/SubTracker](https://github.com/Smile-QWQ/SubTracker) - A modern self-hosted subscription manager with flexible reminder rules, budgeting and analytics, AI-assisted capture and summaries, backup and migration, and multi-currency support. <sub>⭐ 121 · TypeScript</sub>
-- [spleck/claw-dashboard](https://github.com/spleck/claw-dashboard) - A beautiful, real-time terminal dashboard for monitoring OpenClaw instances — inspired by modern system monitors like btop, htop, and mactop. <sub>⭐ 121 · JavaScript</sub>
-- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat is an analytics platform for MCP server owners . <sub>⭐ 120 · TypeScript</sub>
-- [soth-ai/mcp-reticle](https://github.com/soth-ai/mcp-reticle) - Reticle intercepts, visualizes, and profiles JSON-RPC traffic between your LLM and MCP servers in real-time, with zero latency overhead. Stop debugging blind. Start seeing everything. <sub>⭐ 120 · Rust</sub>
-- [decisionbox-io/decisionbox-platform](https://github.com/decisionbox-io/decisionbox-platform) - DecisionBox connects to your data warehouse, runs autonomous AI agents that write and execute SQL, and surfaces validated insights and actionable recommendations — without you asking a single… <sub>⭐ 119 · Go</sub>
-- [androidZzT/cc-statistics](https://github.com/androidZzT/cc-statistics) - AI Coding stats dashboard — track costs, tokens, and efficiency across Claude Code / Gemini CLI / Codex / Cursor <sub>⭐ 117 · Swift</sub>
-- [mudrii/hermesd](https://github.com/mudrii/hermesd) - TUI monitoring dashboard for Hermes AI agent <sub>⭐ 117 · Python</sub>
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - 打开 SQL 本地时间序列数据库,用于您需要保存的遥测. 34M+记录/秒摄入, 8M+行/秒查询。 InfluxDB Line 协议和 Telegraf 兼容性。 在您的存储上打开 Parquet... <sub>⭐ 679 · Go</sub>
+- [syncora-ai/Synthetic-AI-Developer-Productivity-Dataset](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset) - 高真实度合成数据集捕获AI开发者生产率度量表——包括焦点时数,任务完成率和燃烧指标. 隐私安全,ML和工作流程分析的理想. <sub>⭐ 658 · Jupyter Notebook</sub>
+- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - 与TypeSafe Jev一起建造的舞台版代码审查工作流程和当地仪表板. <sub>⭐ 656 · TypeScript</sub>
+- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 120个工具用于实时全球智能的MCP服务器:市场,SEC备案,冲突,军事,网络,气候,新闻,以及30+域. AI situation situation liquired example of their source, user conferred... <sub>⭐ 655 · Python</sub>
+- [horizon-ui/shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate 自由开源的 ChatGPT UI 管理板模板 - Horizon AI Boilerplate <sub>⭐ 651 · TypeScript</sub>
+- [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - 在您的浏览器中运行的全开源 DuckDB 工作台。 SQL 编辑器、 笔记本、 图表、 AI 助手。 没有安装、 没有注册、 没有后端 。 您的数据永远不会离开标签 。 <sub>⭐ 627 · TypeScript</sub>
+- [aryn-ai/sycamore](https://github.com/aryn-ai/sycamore) - Sycamore是一个LLM动力搜索和分析平台,用于无结构化的数据. <sub>⭐ 608 · Python</sub>
+- [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO) - PANO:高级OSINT调查平台,结合图可视化,时间轴分析,以及AI协助发现数据中隐藏的连接. 搭建了Python和现代Qt. <sub>⭐ 607 · Python</sub>
+- [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Slurm HPC 和 AI 集群的开源网络界面 <sub>⭐ 604 · Python</sub>
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - AI-Native Next.js admin仪表板模板和UI组件,这些组件都带有预建的元素,组件,页面,高质量的设计,集成,等等. <sub>⭐ 582 · TypeScript</sub>
+- [f/agentlytics](https://github.com/f/agentlytics) - AI编码代理的综合分析仪表板——光标,风流,克劳德代码,VS代码协同驾驶,Zed,抗重力,OpenCode,指令码 <sub>⭐ 579 · JavaScript</sub>
+- [GitHpriyanshu23/Smart-Plant-Doctor](https://github.com/GitHpriyanshu23/Smart-Plant-Doctor) - Smart Plant Doctor是一个AI + IoT植物健康平台,它将实时的ESP32传感器数据流到一个Streamlit仪表板上,并使用基于MobileNetV2的模型进行植物疾病检测并进行治疗. . <sub>⭐ 579 · Python</sub>
+- [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) - 多代理AI开发的意向驱动工作流程管弦——适应性生命周期引擎,自我强化知识图,以及Claude Code,双子座,Codex & more的视觉仪表板 <sub>⭐ 562 · TypeScript</sub>
+- [nirholas/XActions](https://github.com/nirholas/XActions) - 完整 X/ Twitter 自动化工具箱 — Scrapers, AI代理( Claude/ GPT)的MCP服务器, CLI, 浏览器脚本。 没有 API 收费, 开源 。 不跟随不跟踪的人。 实时监视... <sub>⭐ 561 · HTML</sub>
+- [agentlabs-dev/agentlabs](https://github.com/agentlabs-dev/agentlabs) - 通用人工智能特工前端 建立你的后端 我们处理其余的 <sub>⭐ 558 · TypeScript</sub>
+- [evolution-foundation/evo-nexus](https://github.com/evolution-foundation/evo-nexus) - AI动力企业的开源操作系统 <sub>⭐ 544 · Python</sub>
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - 一个 MCP 服务器,用于查询任何 Postgres 自然语言数据库 。 <sub>⭐ 541 · Go</sub>
+- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - 这个 dbt 软件包可以捕捉元数据,文物,测试结果,这样你就可以发现异常,监测数据质量,并构建元数据表. 它赋予初级开放源码软件以权力,并为更广泛的上下文提供素材... <sub>⭐ 526 · Python</sub>
+- [apocas/restai](https://github.com/apocas/restai) - RESTEI是AIaS(AI作为服务)开源平台,支持许多由Ollama/vLLM/etc提供的公共和地方LLM的呼声. 精密嵌入使用,调音,分析等. Built-in image/audio... <sub>⭐ 514 · Python</sub>
+- [mixpeek/amux](https://github.com/mixpeek/amux) - AI编码代理的开源控制平面. 运行AI工程团队:平行的克劳德代码,Codex,以及双子座工人,拥有共享的棋盘,原子任务,时间表,环路,原产地标...... <sub>⭐ 514 · Rust</sub>
+- [opengeos/GeoAgent](https://github.com/opengeos/GeoAgent) - 用于地理空间数据分析和互动可视化的多模式人工智能代理 <sub>⭐ 501 · Python</sub>
+- [ryantsai/KKTerm](https://github.com/ryantsai/KKTerm) - 用于感应编码器和系统管理员的超级工具——终端,SSH,SFTP,RDP/VNC,仪表板,安装帮助器,以及内置的AI助手. <sub>⭐ 500 · TypeScript</sub>
+- [RyjoxTechnologies/Octopoda-OS](https://github.com/RyjoxTechnologies/Octopoda-OS) - AI代理的开源内存和可观察性层——持续内存,循环检测,散列链式审计跟踪,以及一个活盘,在pip安装上自动安装. <sub>⭐ 487 · Python</sub>
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - Kubernetes成本核算记录系统:每个名称空间CPU,内存和GPU的使用,30%不可分配的间接费用可见. 通过MCP连接到AI助手(Claude,双子座...) <sub>⭐ 485 · Python</sub>
+- [danilobatson/ai-trading-agent-gemini](https://github.com/danilobatson/ai-trading-agent-gemini) - AI Trading Agent将社交媒体情绪转化为可操作的交易信号,使用LunarCrush解析器和Google双子座AI. Features实时进度跟踪,背景工作... <sub>⭐ 460 · TypeScript</sub>
+- [guidewire-oss/fern-platform](https://github.com/guidewire-oss/fern-platform) - 统一测试智能平台,采用多格式摄取,实时分析,通过LLM集成实现AI动力的洞察. <sub>⭐ 459 · Go</sub>
+- [secondsky/sap-skills](https://github.com/secondsky/sap-skills) - 为SAP开发准备的插件,配有 AI 编码助理——BTP、CAP、Fiori、ABAP、HANA、分析云、数据层等 <sub>⭐ 458 · JavaScript</sub>
+- [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) - OpenClaw AI代理商的美丽零依赖性指挥中心 <sub>⭐ 456 · Go</sub>
+- [DataWithBaraa/databricks_bootcamp_2026](https://github.com/DataWithBaraa/databricks_bootcamp_2026) - 端到端数据湖屋项目以Databricks为基础,遵循奖章建筑(铜,银,金). 覆盖现实世界的数据工程和运用Spark,PySpark的解析工作流程. . <sub>⭐ 442 · Jupyter Notebook</sub>
+- [AOT-Technologies/forms-flow-ai](https://github.com/AOT-Technologies/forms-flow-ai) - formflow.ai是一个开源形式-工作流程-分析解决方案框架. <sub>⭐ 417 · JavaScript</sub>
+- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - 寻找缓慢的数据库查询,获得AI动力优化提示,并在内置的仪表板中浏览这些提示——为Laravel. <sub>⭐ 413 · PHP</sub>
+- [AgriciDaniel/claude-youtube](https://github.com/AgriciDaniel/claude-youtube) - Claude Code为YouTube创作者提供的技能——频道审核,视频SIO,保留脚本,缩略图,内容策略,Shorts优化,分析,货币化等等. <sub>⭐ 411 · Python</sub>
+- [waynesutton/opensync](https://github.com/waynesutton/opensync) - Cloud-synced 仪表板用于OpenCode和Claude Code. Track sessions, 与语义检索搜索, 导出 eval 数据集. <sub>⭐ 411 · TypeScript</sub>
+- [HamedMP/CursorLens](https://github.com/HamedMP/CursorLens) - Cursor.sh IDE. Log AI代码生成,跟踪使用,以及控制AI模型(包括本地模型)的开源仪表板. 本地运行或使用即将到来的托管版本. <sub>⭐ 403 · TypeScript</sub>
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - AI 代理自动托管运行时间控制平面。 执行前, 监视或 HITL 批准或 Block road 工具调用: 密泄、 即时注射、 供应链等本地仪表板 。 代理... <sub>⭐ 397 · Python</sub>
+- [LuxAlgo/trade-journal](https://github.com/LuxAlgo/trade-journal) - 开源贸易期刊. 经纪同步,P&L日历,深度分析,以及AI反射. 自主办,麻省理工学院免费. <sub>⭐ 396 · TypeScript</sub>
+- [MaySudo/Misceo](https://github.com/MaySudo/Misceo) - 本地Anthropic兼容的AI网关有廉价第一路由,质量门,安全模型交接,以及嵌入式成本仪表板. <sub>⭐ 375</sub>
+- [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry) - Token遥测仪表板用于AI自动和编码代理——追踪符,会话,工具调用和推理跨越赫尔梅斯代理,克劳德代码,Antigravity CLI,Codex & 100%以上本地. <sub>⭐ 374 · Python</sub>
+- [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) - 开源框架,以AI代理驱动真实的手机:Android通过ADB,iPhone通过WebDriverAgent,62 MCP工具,Python技能,Vue仪表板,以及可互换的本地或云端LLMS <sub>⭐ 373 · Python</sub>
+- [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Claude Code的多代理团队操作系统. 108 MCP工具,40+代理模板,10个生命周期钩,7个管道工作流程. 持久团队,结构化会议,任务墙,实时反应... <sub>⭐ 368 · Python</sub>
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Hermes Agent的Web UI & 仪表板——聊天,内存,技能,终端,审批,多代理管弦乐. Self-academy. <sub>⭐ 365 · TypeScript</sub>
+- [parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart) - 完整的存储 MERN健身电子商务平台,拥有完整的Admin仪表板,Razorpay支付,健身跟踪器,锻炼库,AI聊天机,BMI和卡路里计算器,附近的健身房发现器和. <sub>⭐ 361 · JavaScript</sub>
+- [nshiab/simple-data-analysis](https://github.com/nshiab/simple-data-analysis) - Fast DuckDB 动力 TypeScript库用于表格,地理空间,矢量,AI,Google Sheets,以及Deno,Node.js和Bun上的数据可视化工作流程. <sub>⭐ 356 · TypeScript</sub>
+- [PlotSenseAICommunity/PlotSense](https://github.com/PlotSenseAICommunity/PlotSense) - PlotSense是一个AI动力的助手,帮助数据专业人士和分析人员使数据可视化更加聪明,更快,更能解释. 无论你正在探索一个新的数据集还是建设... <sub>⭐ 356 · Python</sub>
+- [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) - 切换服务商、管理会话、并协调各项任务,跨越Codex、Claude Code、双子座CLI、CodeBuddy Code、Pi、OpenCode、KiloCode和... <sub>⭐ 353 · JavaScript</sub>
+- [minusxai/minusx-metabase](https://github.com/minusxai/minusx-metabase) - MinusX 是一个AI数据分析器,您可以添加到您的Metabase中。它帮助您向您的仪表板询问商业问题,并通过后续程序进行更深入的挖掘。 <sub>⭐ 351 · TypeScript</sub>
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 每个人工智能编码代理 在一个屏幕上 每一个供应商都用活的、象征性的和工具的电话 以及任何危险的东西,直到你说离开。从你的办公桌或你的手机上。 <sub>⭐ 331 · TypeScript</sub>
+- [BugTraceAI/BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) - 自动AI驱动安全扫描平台——CLI扫描仪,网络仪表板,以及一个指令的Docker部署 <sub>⭐ 329</sub>
+- [FrankChen021/datastoria](https://github.com/FrankChen021/datastoria) - AI-本土的点击之家控制台用于您的集群诊断和查询生成,优化和数据可视化. <sub>⭐ 327 · TypeScript</sub>
+- [dfinke/awesome-copilot-chatmodes](https://github.com/dfinke/awesome-copilot-chatmodes) - GitHub Copilot 的自定义聊天模式(ChandeMode.md)人物——将您的 VS 代码与 AI 助手专用于测试,安全,清空编码重构,仪表板,即时设计等等. <sub>⭐ 319</sub>
+- [foxglove/foxglove-sdk](https://github.com/foxglove/foxglove-sdk) - 记录和可视化机器人和物理AI的多式联运数据 <sub>⭐ 311 · Rust</sub>
+- [sopaco/cortex-mem](https://github.com/sopaco/cortex-mem) - Emform-AI和OpenClaw等自主系统的生产准备认知基础. 关于内存管理,从提取和搜索到自动化优化,与SKILL,CLI,API... <sub>⭐ 311 · Rust</sub>
+- [luwei0917/DynamicBind](https://github.com/luwei0917/DynamicBind) - 动态宾客的复传:预示性立方体特异蛋白质-立方体结构,具有深等子基因模型. <sub>⭐ 309 · Jupyter Notebook</sub>
+- [gnurio/tufte-vdqi-plugin](https://github.com/gnurio/tufte-vdqi-plugin) - 让你的人工智能特工们能像爱德华·塔夫特所希望的那样 将数据直观化 <sub>⭐ 308 · Python</sub>
+- [tryolabs/soccer-video-analytics](https://github.com/tryolabs/soccer-video-analytics) - 如何使用AI自动计算足球拥有量的演示. <sub>⭐ 308 · Python</sub>
+- [proxy-intell/facebook-ads-library-mcp](https://github.com/proxy-intell/facebook-ads-library-mcp) - Facebook ADs 库的 MCP 服务器 - 从 FB 的广告库获取即时答案 <sub>⭐ 307 · Python</sub>
+- [databand-ai/airflow-dashboards](https://github.com/databand-ai/airflow-dashboards) - Grafana仪表板和StatsD出口商用于气流监测的配置 <sub>⭐ 299</sub>
+- [AbuZar-Ansarii/Clawbot](https://github.com/AbuZar-Ansarii/Clawbot) - OpenClaw Android Setup Guide 将任何旧的Android设备转换成全天候的 AI 代理在本地运行。此指南为在Android上安装和运行OpenClaw提供了一步步指令... <sub>⭐ 298</sub>
+- [lis186/ccxray](https://github.com/lis186/ccxray) - AI代理会话的X光视觉——一个透明的HTTP代理和克劳德代码的仪表板 <sub>⭐ 296 · JavaScript</sub>
+- [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp) - 搜索分析数据作为基础设施——用于Google搜索控制台,Bing Webmaster Tools,Google Adsense和GA4的MCP服务器,设计对象为AI代理和自动化. <sub>⭐ 296 · TypeScript</sub>
+- [codemie-ai/codemie-code](https://github.com/codemie-ai/codemie-code) - 具有分析能力的AI 运行代码Mie CLI <sub>⭐ 291 · TypeScript</sub>
+- [OndCo/Ond-ESG-Intelligence-Platform](https://github.com/OndCo/Ond-ESG-Intelligence-Platform) - Ond ESG智能平台是一个云内溶液,它能吸收ESG数据,与Azure Data Factory & Databricks处理,并在Azure ML上应用AI/ML模型进行预测性透视. Power... <sub>⭐ 283 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [danishashko/geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) - 开源,本地首款AI能见度智能仪表板 追踪你的品牌穿越6个AI型号. <sub>⭐ 278 · TypeScript</sub>
+- [reneverland/CBIT-AiExam-plus](https://github.com/reneverland/CBIT-AiExam-plus) - 一个通用的AI 功能考试平台,用于学校,培训提供者,企业和在线方案. 它提供多学科物品生成,适应性困难,语义... <sub>⭐ 277 · Python</sub>
+- [kLOsk/adloop](https://github.com/kLOsk/adloop) - Google Ads的AI指令中心,分析与搜索控制台. <sub>⭐ 275 · Python</sub>
+- [Joao-M-Silva/padel_analytics](https://github.com/Joao-M-Silva/padel_analytics) - AI 动力的垫板分析 <sub>⭐ 274 · Python</sub>
+- [datagallery-lab/enterprise_agent_platform](https://github.com/datagallery-lab/enterprise_agent_platform) - 首本专著"企业代理平台工程",从数据智能基础到制作准备的AI本土业务系统. <sub>⭐ 270 · Python</sub>
+- [ProjectNeura/LEADS](https://github.com/ProjectNeura/LEADS) - 启动你的赛车,配备强大的,数据驱动的仪表,控制,分析系统,都包裹在华丽的外观中. <sub>⭐ 270 · Python</sub>
+- [vakovalskii/codbash](https://github.com/vakovalskii/codbash) - Claude Code & Codex 会话的 Termius 风格浏览器仪表板。 查看、搜索、恢复、标记和管理您的所有 AI 编码会话 。 <sub>⭐ 270 · JavaScript</sub>
+- [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) - 使用 AI MCP 动态生成可视化图表,用于图表生成和数据分析. <sub>⭐ 269 · TypeScript</sub>
+- [NVIDIA/DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo:DeepStream SDK和用于建造GPU 加速,实时视频和多传感器解析管道的参考应用 GStreamer,TensorRT,以及视觉AI模型横跨. <sub>⭐ 266 · C++</sub>
+- [Cy-S3c/BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra) - Burp Suite专业的AI动力MCP服务器——149个工具跨越代理,扫描仪,内线模糊器,赛车条件,导引注射,JWT/IDOR攻击,侦察和OOB,并带有实时仪表板和. <sub>⭐ 265 · Kotlin</sub>
+- [agnosticeng/agx](https://github.com/agnosticeng/agx) - AI 动力分析 <sub>⭐ 263 · Svelte</sub>
+- [empower-ai/dsensei](https://github.com/empower-ai/dsensei) - AI驱动关键驱动数据分析工具,在一分钟内确定指标波动背后的根本原因。 <sub>⭐ 262 · TypeScript</sub>
+- [maxanatsko/mcp-engine-public](https://github.com/maxanatsko/mcp-engine-public) - 语义Ops MCP(原为MCP引擎)是一个Power BI工具,让克劳德等AI助手在程序上与你的Power BI模型交互:读取您的模型结构,运行DAX查询. . <sub>⭐ 257</sub>
+- [Hunterdii/Smart-AI-Resume-Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer) - Smart Resume AI是一个强大的工具,旨在使您的工作申请流程发生革命化.具有专业模板构建,ATS友好分析和AI驱动优化等功能,它. <sub>⭐ 256 · C</sub>
+- [lotsoftick/openclaw_client](https://github.com/lotsoftick/openclaw_client) - OpenClaw 网络客户端 <sub>⭐ 255 · TypeScript</sub>
+- [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - 本地仪表板和人工智能编码代理的物理控制——本土3D水族馆,Stream Deck,Apple/Androidapps,e-ink,ESP32和LED显示. <sub>⭐ 254 · TypeScript</sub>
+- [firebolt-db/firebolt-core](https://github.com/firebolt-db/firebolt-core) - Firebolt Core是Firebolt的分布式查询引擎(https://www.firebolt.io/)的免费自办版;它提供了高性能数据存储能力,可以部署. . <sub>⭐ 253 · Shell</sub>
+- [jontsai/openclaw-command-center](https://github.com/jontsai/openclaw-command-center) - AI助理指挥与控制仪表板——再喷出更多霸主!. <sub>⭐ 245 · JavaScript</sub>
+- [AlexTam930/crossPlatformAi](https://github.com/AlexTam930/crossPlatformAi) - 基于用户配置模型的可扩展跨行业数据聚变AI平台. 搭建了Python和Flask,其特点是多源数据集成,自定义聚变规则以及先进的非线性. . <sub>⭐ 243 · HTML</sub>
+- [BioinfoMachineLearning/bio-diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - 用于三维分子生成和优化的几何-完全扩散基因模型(GCDM). (Nature CommesChem) <sub>⭐ 242 · Python</sub>
+- [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp) - Google 分析 4 数据给 AI 代理,代理工作流程,以及 MCP 客户端. 给予代理分析准备访问网站流量,用户行为,以及具有计划发现,服务器侧面的性能数据. . <sub>⭐ 242 · Python</sub>
+- [NovaCode37/Prism-platform](https://github.com/NovaCode37/Prism-platform) - 自办的OSINT平台。 将其指向域名、 IP、 电子邮件、 电话或用户名以及平行运行的26个模块: WHOIS、 DNS、 威胁情报、 违规、 用户名搜索。 一个仪表板, 曝光分数... <sub>⭐ 238 · Python</sub>
+- [Hack23/cia](https://github.com/Hack23/cia) - 公民情报局. 开源情报平台利用AI和数据可视化分析瑞典的政治活动. 追踪政治家,政府机构,以及议会... <sub>⭐ 236 · Java</sub>
+- [AngusKit/AngusKit](https://github.com/AngusKit/AngusKit) - 私人,自办的AI-native软件工程套件——统一身份(GM)+AI代理,代码协作,文物管理,测试,安全,产品分析. <sub>⭐ 234</sub>
+- [adrianhajdin/travel-agency-dashboard](https://github.com/adrianhajdin/travel-agency-dashboard) - 搭建动态旅行仪表板,配有React,React Router v7,Synclusion,Appwrite,和双子座AI! Master认证,创建交互图表,并集成双子座AI,用于突出功能. <sub>⭐ 228 · TypeScript</sub>
+- [ahmedyahia01/Nara-AI-Dashboard](https://github.com/ahmedyahia01/Nara-AI-Dashboard) - 一个全面的AI仪表板,由NaraRouter API提供动力,其特点是PDF分析,演示生成和智能聊天. <sub>⭐ 218 · TypeScript</sub>
+- [jkmaina/LangGraphProjects](https://github.com/jkmaina/LangGraphProjects) - 这是《LangGraph蓝图:为商业成功构建50+ AI代理》一书的官方伴行寄存器。该寄存器提供了源代码、实例和... <sub>⭐ 217 · Python</sub>
+- [engageintellect/spatz](https://github.com/engageintellect/spatz) - 用于构建全层Svelte应用程序的有评论的模板,其速度异常之快。包括认证、数据库、管理面板、用户仪表板、主题、图标等。 <sub>⭐ 216 · Svelte</sub>
+- [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) - 一个容器中的插件和游戏家乐仪表板——GPU,本地-AI VRAM,Docker,系统化,主机健康. 内建只读的 MCP 服务器,以便AI 代理也可以探索. <sub>⭐ 213 · Python</sub>
+- [KoNananachan/Neuberg](https://github.com/KoNananachan/Neuberg) - 具有AI分析,预测市场,以及多资产交易的实时交易新闻终端. Bloomberg-style Templace. <sub>⭐ 208 · TypeScript</sub>
+- [jortilles/EDA](https://github.com/jortilles/EDA) - Edalitics是一个开源的商业智能平台,可以让你构建交互式仪表板,分析来自多个来源的数据,并在几分钟内将AI助手与你的商业数据连接起来. <sub>⭐ 207 · TypeScript</sub>
+- [totalhack/zillion](https://github.com/totalhack/zillion) - 说明所有问题。用人工智能进行语义数据模型和分析。 https://totrophack.github.io/zillion <sub>⭐ 207 · Python</sub>
+- [nlethetech/nepse-quant-terminal](https://github.com/nlethetech/nepse-quant-terminal) - 基于终端的NEPSE quant 交易仪表板,带有纸质交易,反测试,分析,以及AI代理支持. <sub>⭐ 204 · Python</sub>
+- [wickedapp/openclaw-office](https://github.com/wickedapp/openclaw-office) - OpenClaw 虚拟 AI Office Dashboard — 实时可视化您的多代理工作流程 <sub>⭐ 203 · JavaScript</sub>
+- [YuriCrystal/ai-avatar-bot](https://github.com/YuriCrystal/ai-avatar-bot) - Live2D/VRM 语音 AI avatar 配有唇语同步,知识库,操作仪表板,支持和分析* <sub>⭐ 203 · JavaScript</sub>
+- [SENATOROVAI/Data-Science-For-Beginners-from-scratch-course](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course) - 初学者的数据科学涉及学习利用统计,编程(Python/R)和可视化从数据中提取见解. 关键步骤包括数据收集,清理,分析. <sub>⭐ 202 · Python</sub>
+- [youssefvdel/qwengate](https://github.com/youssefvdel/qwengate) - 在 OpenAI 兼容的客户端中, 允许 Qwen AI 模式的 API 网关。 请使用您的 Qwen 账户( chat. qwen.ai) 作为免费 AI API 提供者 , 任何 OpenAI 兼容的客户端 — cursor, step. dev, Claude Code, VS Code... <sub>⭐ 201 · TypeScript</sub>
+- [PetervanLunteren/AddaxAI](https://github.com/PetervanLunteren/AddaxAI) - AI辅助相机陷阱分析:检测,物种识别,验证,仪表板和导出. Free,open source, for Windows,macOS and Linux. <sub>⭐ 200 · Python</sub>
+- [David-Lzy/AI_Usage_Dashboard](https://github.com/David-Lzy/AI_Usage_Dashboard) - 用于检查AI编码工具配额,设置阻塞器,以及从一个工具栏弹出,侧面板或全页仪表板同步健康功能的Chrome扩展. <sub>⭐ 199 · TypeScript</sub>
+- [edwin-hao-ai/Awareness-Local](https://github.com/edwin-hao-ai/Awareness-Local) - 本地首个AI代理内存——一个命令,工作离线,不需要账户. Give your Claude Code, cursor, Windsurf, OpenClaw代理持续内存. Markdown story, mixed search(FTS5 +...) <sub>⭐ 199 · JavaScript</sub>
+- [microsoft/Planetary-Explorer](https://github.com/microsoft/Planetary-Explorer) - 一个AI为地球空间提供动力的应用程序,它允许您使用自然语言探索和可视化地球科学数据. <sub>⭐ 199 · Python</sub>
+- [pyrate-llama/hermes-ui](https://github.com/pyrate-llama/hermes-ui) - Hermes Agent的指令中心——聊天,引导,浏览文件,管理技能,并从一个单一的玻璃形态HTML应用中监控一切. <sub>⭐ 199 · HTML</sub>
+- [edwinkys/phantasm](https://github.com/edwinkys/phantasm) - 工具箱 创建人入室审批层 实时监控和引导AI代理工作流程. <sub>⭐ 196 · Svelte</sub>
+- [ganapativs/microcharts](https://github.com/ganapativs/microcharts) - React的单词大小图表,为LLMs和人类制作——106个图表类型,零运行时间依赖性,默认可访问,RSC安全. <sub>⭐ 196 · TypeScript</sub>
+- [hefy2027/cf-manager](https://github.com/hefy2027/cf-manager) - Cloudflare的全局多账号仪表板. Management Workers, DNS, KV/D1/R2存储,AI推论和浏览器渲染视觉,外置集成的OpenAI兼容API. <sub>⭐ 196 · TypeScript</sub>
+- [Cesarjoquin/Marketing-Skills](https://github.com/Cesarjoquin/Marketing-Skills) - AI代理Claude Code和AI代理的营销技能. CRO,抄写,SIO,分析,AI代理,以及生长工程,AI代理 <sub>⭐ 195 · TypeScript</sub>
+- [cporter202/stock-market-signal-automation](https://github.com/cporter202/stock-market-signal-automation) - 建立你自己的数据驱动市场边缘,并配有摇摆贸易信号网标、仪表板、警报、AI代理和自动化实例。 <sub>⭐ 193</sub>
+- [togethercomputer/open-data-scientist](https://github.com/togethercomputer/open-data-scientist) - 打开使用ReAct框架自动进行复杂数据分析任务的AI数据科学家代理. 执行本地或云中的Python代码,上传数据集,生成详细的分析... <sub>⭐ 190 · Python</sub>
+- [brightics/studio](https://github.com/brightics/studio) - 基于网页浏览器的组件分析工作室 <sub>⭐ 189 · JavaScript</sub>
+- [stoneforge-ai/stoneforge](https://github.com/stoneforge-ai/stoneforge) - 一个网络仪表板和运行时间 用于协调AI编码代理 <sub>⭐ 189 · TypeScript</sub>
+- [ykdojo/safeclaw](https://github.com/ykdojo/safeclaw) - 运行多个 Claude 代码会话的最简单方式, 每个会话都装在自己的容器里, 并配有一个仪表板来管理它们。 快速设置 , 用战斗测试的合理默认和技能 。 <sub>⭐ 184 · HTML</sub>
+- [braedonsaunders/homerun](https://github.com/braedonsaunders/homerun) - Polymarket & Kalshi的开源预测市场交易平台. 写入完整的 Python 策略和数据源,进行回检,然后进行纸质或直播交易. 25+内置策略,复制交易,AI... <sub>⭐ 183 · Python</sub>
+- [Markfans/cryptoquant-ai](https://github.com/Markfans/cryptoquant-ai) - CryptoQuant AI是一个高级,开源的量化交易平台,旨在弥合算法市场执行和人工智能之间的差距. 完全建立在现代的...... <sub>⭐ 183 · TypeScript</sub>
+- [Juliusolsson05/pharos-ai](https://github.com/Juliusolsson05/pharos-ai) - 开放源代码OSINT智能仪表板实时追踪伊朗冲突——现场DeckGL/MapLibre冲突地图,30个带有偏见标签的素材,演员档案以及每日简报. Live at country.app. <sub>⭐ 182 · TypeScript</sub>
+- [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - 自我托管的Immich图书馆照片智能、丰富、整理和自动化。 Pictaria Server 帮助您探索和理解您的收藏, 可选地用 AI 来丰富其内容, 审查... <sub>⭐ 182 · JavaScript</sub>
+- [byaxb/RDataAnalytics](https://github.com/byaxb/RDataAnalytics) - 北京邮电大学新博爱执导的R型数据分析 <sub>⭐ 180 · R</sub>
+- [NousResearch/pokemon-agent](https://github.com/NousResearch/pokemon-agent) - AI- 动力Pokemon游戏游戏代理, 带有无头仿真, REST API, 和活盘。 用任何 LLM 工作 。 <sub>⭐ 180 · Python</sub>
+- [brainless/dwata](https://github.com/brainless/dwata) - AI允许从电子邮件、日历、联系人、文件、Slack、数据库、网络、快速、私人和本地的见解。 即将启动 ! <sub>⭐ 178 · Rust</sub>
+- [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Azure 分析和AI参与 <sub>⭐ 178 · Jupyter Notebook</sub>
+- [aws-samples/generative-bi-using-rag](https://github.com/aws-samples/generative-bi-using-rag) - 使用 Amazon Bedrock, Amazon OpenSearch 和 RAG 的 Generative BI 解决方案指南 <sub>⭐ 177 · Python</sub>
+- [SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) - 反应+下一个.js仪表板用于R2R:最先进的AI检索系统. Contractorized, Retrival-Augmented Generation (RAG) with a RESTful API. <sub>⭐ 176 · TypeScript</sub>
+- [AvenalJ/AntigravityMobile](https://github.com/AvenalJ/AntigravityMobile) - 一个功能丰富的Antigravity IDE移动仪表板,可以让您通过直播AI对话,监控模型配额,浏览或编辑您本地网络上任何设备的工作空间文件. . <sub>⭐ 175 · JavaScript</sub>
+- [clawfleet/ClawFleet](https://github.com/clawfleet/ClawFleet) - 10分钟后在您的机器上部署AI代理机队(OpenClaw,Hermes)——使用您的 ChatGPT 订阅,不使用云账单. 开源机队管理器带有浏览器仪表板. <sub>⭐ 173 · Go</sub>
+- [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) - 用于在孤立的容器中运行AI编码剂的统一CLI,包括内置的本地度量衡采集,HTTP流量跟踪,以及用于跟踪代理动作的分析仪表板. <sub>⭐ 172 · Python</sub>
+- [Algolisted-Org/AlgoListed](https://github.com/Algolisted-Org/AlgoListed) - Algoload是一个AI的动力平台,专门帮助计算机科学学生为安置和实习做准备. 我们的服务包括跨各种平台的跟踪和分析. . <sub>⭐ 168 · JavaScript</sub>
+- [neplexlabs/commandkit](https://github.com/neplexlabs/commandkit) - district.js 元框架的特性有: AI-动力命令处理器,分析器,特征旗帜,以及更多 <sub>⭐ 165 · TypeScript</sub>
+- [besoeasy/yantr](https://github.com/besoeasy/yantr) - 一个为无根波德曼自办的家居软件商店——与你的OS同时运行,而不是代替它. <sub>⭐ 164 · Vue</sub>
+- [madrzak/vidclaw](https://github.com/madrzak/vidclaw) - OpenClaw 盘 <sub>⭐ 164 · TypeScript</sub>
+- [vybenetwork/x402-client](https://github.com/vybenetwork/x402-client) - Vybe x402 API 的客户端 SDK. Pay-per- call USDC over HTTP 和 预付信用 WebSocket 流媒体为Vybe 的 Solana analytics API. 为 AI 代理所建. <sub>⭐ 164 · TypeScript</sub>
+- [jupyter-naas/abi](https://github.com/jupyter-naas/abi) - 打开 AI 操作系统 <sub>⭐ 163 · Python</sub>
+- [flo7up/relataly-public-python-tutorials](https://github.com/flo7up/relataly-public-python-tutorials) - 流行收集实用的Python笔记本,用于机器学习,深层学习,时间序列,基因AI,以及分析. <sub>⭐ 162 · Jupyter Notebook</sub>
+- [Orbifold/knwler](https://github.com/Orbifold/knwler) - Knwler是一个轻量级的Python工具,使用AI从文档中提取结构化的知识图. Feed it a PDF 或 text file 并接收一个内容丰富的实体,关系网络. <sub>⭐ 162 · Python</sub>
+- [rustykuntz/clideck](https://github.com/rustykuntz/clideck) - 一个同时运行和协调多个AI CLI代理的仪表板. <sub>⭐ 161 · JavaScript</sub>
+- [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - 自办短链接和现场QR平台,拥有所有权,审查,品牌化的QR代码,分析,以及AI辅助操作的可审计路径. <sub>⭐ 159 · Go</sub>
+- [sstraus/tuicommander](https://github.com/sstraus/tuicommander) - 理解AI代理的IDE. 在孤立的分支上运行平行代理,完全可观察性. Diffs, PR, CI, 使用仪表板——一个工作空间,零上下文损失. <sub>⭐ 159 · Rust</sub>
+- [tysonnbt/Antigravity-Deck](https://github.com/tysonnbt/Antigravity-Deck) - Antigravity的远程控制 — 管理AI对话,工作空间,以及任何设备的代理。 一个命令要设置, 一个URL可以访问 。 <sub>⭐ 158 · JavaScript</sub>
+- [FlutterFlareLine/FlareLine](https://github.com/FlutterFlareLine/FlareLine) - Flattle 网络管理仪表板 <sub>⭐ 157 · Dart</sub>
+- [trubrics/trubrics-python](https://github.com/trubrics/trubrics-python) - 人工智能助理的产品分析 <sub>⭐ 156 · Python</sub>
+- [hugodemenez/deltalytix](https://github.com/hugodemenez/deltalytix) - 与人工智能代理商进行交易,并有统计仪表板 <sub>⭐ 155 · TypeScript</sub>
+- [MsLolita/Nodepay_plus](https://github.com/MsLolita/Nodepay_plus) - https://app.nodepay.ai/dashboard的采矿和登记 <sub>⭐ 154 · Python</sub>
+- [shinglokto/openclaw-claude-bridge](https://github.com/shinglokto/openclaw-claude-bridge) - HTTP桥通过Claude Code CLI为OpenClaw的AI代理提供动力——管理持续会话,自动重置,扩展思维,并提供实时反应仪表板,每代理成本跟踪. . <sub>⭐ 153 · JavaScript</sub>
+- [CognonicLabs/awesome-AI-kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) - 在烤箱中烘烤的 AI、深层学习、机器学习、计算机视野、数据科学、数据分析学和认知计算法的优秀工具和自由 <sub>⭐ 147</sub>
+- [Thanas-R/Virdis](https://github.com/Thanas-R/Virdis) - 卫星动力农业和土地分析平台结合了Sentinel-2卫星图像,Google地球引擎处理,实时天气数据,土壤科学数据库,AI驱动. <sub>⭐ 147 · TypeScript</sub>
+- [ahpxex/open-dashboard](https://github.com/ahpxex/open-dashboard) - 36个可复制的管理员UI的技巧目录将AI代理器塑造为安装并编程为真正的后台. 建于TanStack Start, Drizzle + 更好的Auth, Shadcn + Tailwind v4上. <sub>⭐ 146 · TypeScript</sub>
+- [Hainrixz/maia-skill](https://github.com/Hainrixz/maia-skill) - Claude Code技巧: 5 AI代理对密码,股票,福克斯和商品进行并行分析,适应你的风险简介,并制作交互式双语(EN/ES)仪表板. Hybrid keyless market data... <sub>⭐ 145 · TypeScript</sub>
+- [elkimek/get-based](https://github.com/elkimek/get-based) - 实验室的私人,本地第一健康智能,51个编导的SNP,可穿戴,轻度曝光,生物学分数,可选AI,加密同步,共享,以及Agent Access. <sub>⭐ 144 · JavaScript</sub>
+- [jtrackingai/analytics-tracking-automation](https://github.com/jtrackingai/analytics-tracking-automation) - AI-powerdower GA4 + GTM事件跟踪 — 自动化站点分析,事件计划,GTM同步,预览验证,以及发布. Works with Cursor, Codex, and any AI agent. <sub>⭐ 141 · TypeScript</sub>
+- [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) - 一个模式背景协议(MCP)服务器,提供访问您的 TeslaMate 数据库的功能,允许AI助手查询 Tesla 车辆数据和分析. <sub>⭐ 140 · Python</sub>
+- [FulAppiOS/Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) - 实时游戏仪表板,用于在中世纪的幻想环境中监控克劳德密码和Codex AI代理 <sub>⭐ 140 · TypeScript</sub>
+- [hyungkwonko/chart-llm](https://github.com/hyungkwonko/chart-llm) - 使用 LLMS 的 Vega- Lite 图数据集和 NL 生成框架 <sub>⭐ 140 · Python</sub>
+- [adham90/ruby_llm-agents](https://github.com/adham90/ruby_llm-agents) - RubyLLM的铁路代理框架——定义AI代理,其中包含提示,计程,缓存,伐木,成本跟踪,以及用于监测生产中LLM使用情况的内置仪表板. <sub>⭐ 139 · Ruby</sub>
+- [itzzritik/OrderWorder](https://github.com/itzzritik/OrderWorder) - 订单 - 以一个由AI提供动力的无接触的全层应用软件来改造你的餐厅。从QR代码菜单和智能聊天组推荐到无缝订购,实时厨房... <sub>⭐ 138 · Python</sub>
+- [sundios/SEO-Dashboard](https://github.com/sundios/SEO-Dashboard) - 与 Next.js 和 Flask 后端一起建造的全功能Google搜索控制台分析仪表板,提供流量分析,关键词透析,URL检查,站点映像管理,以及AI动力... <sub>⭐ 138 · TypeScript</sub>
+- [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) - ShopIQ是一个AI动力的零售智能平台,用于分析购物数据预测趋势,发现shopper行为模式,分部客户,并利用. <sub>⭐ 137 · TypeScript</sub>
+- [juliantanx/aiusage](https://github.com/juliantanx/aiusage) - 开源AI使用跟踪器——代号、成本和会话,跨越克劳德代码、法典、赫尔墨斯、Quder等 <sub>⭐ 136 · TypeScript</sub>
+- [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) - 跟踪收入和支出、利用AI力量分析、管理预算和财政目标的个人财务管理的Fintech仪表板,享有黑暗的主题 <sub>⭐ 135 · TypeScript</sub>
+- [ellie886/Datalume](https://github.com/ellie886/Datalume) - LLM动力的AI数据分析代理,具有调用和可重复使用的分析技能. <sub>⭐ 134 · Python</sub>
+- [aws-samples/amazon-transcribe-live-call-analytics](https://github.com/aws-samples/amazon-transcribe-live-call-analytics) - Amazon Translatis Live call Analytics (LCA) 样本解决方案 <sub>⭐ 133 · JavaScript</sub>
+- [lablup/backend.ai-webui](https://github.com/lablup/backend.ai-webui) - 后端.AI Web UI for web / desktopapp (Windows/Linux/macOS). 后端.AI Web UI为用户提供了一个方便的环境,同时允许各种命令在没有CLI的情况下执行. 也... <sub>⭐ 133 · TypeScript</sub>
+- [codeking-ai/cligate](https://github.com/codeking-ai/cligate) - 私人AI助手,AI代理,以及Claude Code,Codex CLI,双子座CLI & OpenClaw的统一模型代理. Swills, MCP,工具,频道,任务,模版路由,账户,密钥,日志,仪表板. <sub>⭐ 132 · JavaScript</sub>
+- [manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) - SREs的实时Kubernetes仪表板 — 实时集群状态,排水向导,YAML编辑器,即时执行访问,成本分析,以及一个二进制的AI诊断 <sub>⭐ 131 · TypeScript</sub>
+- [qrak/LLM_trader](https://github.com/qrak/LLM_trader) - LLM动力的Crypto交易框架带有Vision AI图表分析,实时神经引擎,以及一个活监测仪表板在semanticsignal.qrak.org. Features memory-augmented explain and... <sub>⭐ 131 · Python</sub>
+- [KORAYTEACHER/fintech-forge](https://github.com/KORAYTEACHER/fintech-forge) - Fintech 打造AI驱动的金融工具和见解,以确保认证和仪表板,使开发者、分析师和学生能够建立和扩大以金融为重点的融资 <sub>⭐ 130 · TypeScript</sub>
+- [ajayarunachalam/msda](https://github.com/ajayarunachalam/msda) - 多维,多传感器,单/多变量时间序列数据分析的库,无监督的特征选择,无监督的深异常检测,以及解释性AI的原型用于. <sub>⭐ 129 · Jupyter Notebook</sub>
+- [KevPH2026/muse-catch](https://github.com/KevPH2026/muse-catch) - AI Inspirit capture - 浏览器扩展+Telegram Bot + Web Dashboard 程序程序 互联网档案馆的存檔,存档日期2013-09-02. <sub>⭐ 128 · HTML</sub>
+- [niklasfrick/spark-dashboard](https://github.com/niklasfrick/spark-dashboard) - 实时硬件和LLM推论监测——GPU,CPU,内存,以及vLLM的度量衡流到一个仪表板. <sub>⭐ 128 · TypeScript</sub>
+- [sidequery/sidemantic](https://github.com/sidequery/sidemantic) - 通用度量衡层。 可兼容 15+ 格式: 立方体、 MetricFlow、 LookML、 Omni、 BSL、 LDM、 Cortex、 Malloy、 OSI、 SML、 TML、 Hex、 Rill、 Superset <sub>⭐ 128 · Python</sub>
+- [notivn/AIEV](https://github.com/notivn/AIEV) - 自动AI视频编辑. Claude指导HyperFrames(HTML + GSAP运动图形)和Remotion(时间线组装)将原始镜头转换成完成的MP4 - 记录片,动式打字,卡拉OK... <sub>⭐ 126 · TypeScript</sub>
+- [u485349-coder/OpenFoundry](https://github.com/u485349-coder/OpenFoundry) - 开源的 Palantir Foundary 选项。 连接任何数据源, 构建本体化, 创建管道, 与仪表板可视化, 并作出 AI 驱动的决定。 自控。 由 Rust + 构建 。 <sub>⭐ 125</sub>
+- [Chrisinho8/DACH-data-job-market](https://github.com/Chrisinho8/DACH-data-job-market) - 德国、奥地利和瑞士的AI/Data就业市场每日追踪器。通过Databricks + Delta Lake 管道处理的3 000+现场帖子,链接到原始上市。免费和... <sub>⭐ 124 · Python</sub>
+- [FuZoe/PD-Hunter](https://github.com/FuZoe/PD-Hunter) - Github仓库的AI - 动力赏金情报仪表板 <sub>⭐ 123 · Go</sub>
+- [viktoriasemaan/data-engineering](https://github.com/viktoriasemaan/data-engineering) - 高级数据与AI工程组合:真实世界项目和生产准备模式,提升你的AI技能——从建设干净的数据管道到部署RAG系统,AI代理,以及. <sub>⭐ 122 · Jupyter Notebook</sub>
+- [dcb/homeassistant-claude-kit](https://github.com/dcb/homeassistant-claude-kit) - AI-导引的家用助理设置——自动化模板,移动第一反应仪表板,以及Claude代码配置管理技能. <sub>⭐ 121 · TypeScript</sub>
+- [mittalananya2006/Obsidian-Workflow-Atelier](https://github.com/mittalananya2006/Obsidian-Workflow-Atelier) - Obsidian Dev Dashboard 2026: 建造一个集中化的AI工作流程枢纽 <sub>⭐ 121 · HTML</sub>
+- [nixfred/infomarchy](https://github.com/nixfred/infomarchy) - Omarchy 插件: 您的壁纸变成一个实时,可点击的信息台, 每个运行的AI代理( Claude Code, Codex, Grok, Ollama), 7天热映射, 速率限制, 最近的提示, 机器统计... <sub>⭐ 121 · TypeScript</sub>
+- [Smile-QWQ/SubTracker](https://github.com/Smile-QWQ/SubTracker) - 现代自办订阅管理器,具有灵活的提醒规则、预算编制和分析、人工智能协助的获取和摘要、备份和迁移以及多种货币支持。 <sub>⭐ 121 · TypeScript</sub>
+- [spleck/claw-dashboard](https://github.com/spleck/claw-dashboard) - 一个美丽的实时终端仪表板,用于监测OpenClaw事件——灵感来自btop,htop,和mactop等现代系统显示器. <sub>⭐ 121 · JavaScript</sub>
+- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat是MCP服务器所有者的分析平台. <sub>⭐ 120 · TypeScript</sub>
+- [soth-ai/mcp-reticle](https://github.com/soth-ai/mcp-reticle) - Reticle 截取、可视化和剖析您的 LLM 服务器和 MCP 服务器之间的 JSON- RPC 流量。 请停止盲目调试, 开始看到所有信息 。 <sub>⭐ 120 · Rust</sub>
+- [decisionbox-io/decisionbox-platform](https://github.com/decisionbox-io/decisionbox-platform) - "决定Box"连接到你的数据仓库,运行自动的AI代理来写和执行SQL,表面验证了见解和可操作的建议——没有你要求一个单...... <sub>⭐ 119 · Go</sub>
+- [androidZzT/cc-statistics](https://github.com/androidZzT/cc-statistics) - AI 编码统计仪表板——Claude Code/双子座CLI/Codex/cursor的跟踪成本、信条和效率 <sub>⭐ 117 · Swift</sub>
+- [mudrii/hermesd](https://github.com/mudrii/hermesd) - TUI 监控仪表板,用于赫尔墨斯AI代理 <sub>⭐ 117 · Python</sub>
 
 ## 🧮 借助 AI 的电子表格与 Excel
 
 > 用语言模型处理公式、清洗和分析电子表格。
 
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation… <sub>⭐ 31.5k · C#</sub>
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. <sub>⭐ 31.2k · Rust</sub>
-- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. <sub>⭐ 22.3k · TypeScript</sub>
-- [teableio/teable](https://github.com/teableio/teable) - AI Spreadsheet for Business <sub>⭐ 21.9k · TypeScript</sub>
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local… <sub>⭐ 18.2k · Python</sub>
-- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a genoffice CLI and agent skill so Claude Code, Codex and Cursor can create and… <sub>⭐ 8.4k · TypeScript</sub>
-- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative. <sub>⭐ 6.1k · Python</sub>
-- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation <sub>⭐ 4.2k · Python</sub>
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool <sub>⭐ 3.3k · Python</sub>
-- [mayneyao/eidos](https://github.com/mayneyao/eidos) - A single-file relational spreadsheet for you and your agent. <sub>⭐ 3.2k · TypeScript</sub>
-- [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace) - An open-source Office workspace where people and AI agents create, collaborate, and review together. <sub>⭐ 2.2k · TypeScript</sub>
-- [weijunext/smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - Generate the Excel formulas you need in seconds using ChatGPT. <sub>⭐ 1.7k · TypeScript</sub>
-- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate… <sub>⭐ 1.1k · Python</sub>
-- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex is the first Al-Native VibeOfficing platform for documents, slides, and spreadsheets <sub>⭐ 1.1k · Go</sub>
-- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that… <sub>⭐ 1.0k · Rust</sub>
-- [getcellm/cellm](https://github.com/getcellm/cellm) - Use LLMs in Excel formulas <sub>⭐ 953 · C#</sub>
-- [henryalps/OpenManus](https://github.com/henryalps/OpenManus) - OpenManus is an open-source initiative to replicate the capabilities of the Manus AI agent, a state-of-the-art general-purpose AI developed by Monica, which excels in autonomously executing complex… <sub>⭐ 944 · Python</sub>
-- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, charts, and 326 operations. <sub>⭐ 800 · C#</sub>
-- [criptogus/HermesOffice](https://github.com/criptogus/HermesOffice) - Free, open-source AI Office suite (Word, Excel, PowerPoint, PDF, Markdown) — macOS build, one-click install <sub>⭐ 598 · TypeScript</sub>
-- [microsoft/Resource2Skill](https://github.com/microsoft/Resource2Skill) - A general framework for distilling human-created multimodal resources into reusable, executable skills that AI agents can browse, compose, and run, validated across diverse domains including web… <sub>⭐ 527 · Python</sub>
-- [cisco-open/network-sketcher](https://github.com/cisco-open/network-sketcher) - Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams and Excel-based configuration data. <sub>⭐ 400 · Python</sub>
-- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets) <sub>⭐ 397 · Python</sub>
-- [useagenthq/useagent](https://github.com/useagenthq/useagent) - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code… <sub>⭐ 370 · TypeScript</sub>
-- [harishdeivanayagam/rowfill](https://github.com/harishdeivanayagam/rowfill) - Open-source spreadsheets platform for deep research and document processing <sub>⭐ 366 · TypeScript</sub>
-- [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) - Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat summons the right GUI — wiki, spreadsheet, chart, form… <sub>⭐ 356 · TypeScript</sub>
-- [WellApp-ai/Well](https://github.com/WellApp-ai/Well) - No more Sundays on Finance. We build the infrastructure that retrieves, processes, and routes your financial and business data to your FinOps stack, so founders can ship, not spreadsheet. <sub>⭐ 345 · TypeScript</sub>
-- [SylvianAI/sv-excel-agent](https://github.com/SylvianAI/sv-excel-agent) - An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate Excel spreadsheets. <sub>⭐ 305 · Python</sub>
-- [logisky/LogiSheets](https://github.com/logisky/LogiSheets) - LogiSheets is an AI-friendly spreadsheet application that is compatible with Excel and a good place where human and AI work together. <sub>⭐ 279 · Rust</sub>
-- [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) - BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves… <sub>⭐ 269 · Python</sub>
-- [it235/office-ai-agent](https://github.com/it235/office-ai-agent) - Office AI Native Plugin，Support Excel/Word/PPT/WPS（Office AI intelligent agent plugin based on Visual Studio+VSTO+VB.net (compatible with WPS).） <sub>⭐ 257 · Visual Basic .NET</sub>
-- [EPFLiGHT/mmore](https://github.com/EPFLiGHT/mmore) - Ever needed to take 8000 PDFs, 2000 videos, and 500 spreadsheets and feed them to an LLM as a knowledge base? Well, mmore is here to help you! mmore is a scalable multimodal pipeline for processing… <sub>⭐ 250 · Python</sub>
-- [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music. These skills can be used by any skills-compatible agent, including… <sub>⭐ 203 · Python</sub>
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required. <sub>⭐ 202 · TypeScript</sub>
-- [harumiWeb/exstruct](https://github.com/harumiWeb/exstruct) - Conversion from Excel to structured JSON (tables, shapes, charts) for LLM/RAG pipelines, and autonomous Excel reading/writing by AI agents via CLI and MCP integration. <sub>⭐ 200 · Python</sub>
-- [areuther/ai-accelerators](https://github.com/areuther/ai-accelerators) - CSV spreadsheets and other material for AI accelerator survey papers <sub>⭐ 195</sub>
-- [kakobuyspreadsheet2026/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026](https://github.com/kakobuyspreadsheet2026/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026) - Kakobuy Spreadsheet features 3,000+ trending products from Weidian, Taobao, and 1688, with affordable new arrivals added daily. Explore the latest finds from the past 7 days, plus shoes and clothing… <sub>⭐ 195 · HTML</sub>
-- [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo) - Monorepo with AI goodies / LLM Chat / Hono + OpenAPI & RPC, Nuxt, Convex, SST Ion, WorkOS AuthKit, Tanstack Query, Shadcn, UnoCSS, Spreadsheet I18n, Lingo.dev, grammY Telegram Bot <sub>⭐ 191 · Vue</sub>
-- [imon333/Job-apply-AI-agent](https://github.com/imon333/Job-apply-AI-agent) - GitHub Project: AI Job Application Automation This project automates job searching, CV creation, and applications using Python, n8n, Selenium, and OpenAI. It scrapes LinkedIn, Indeed, StepStone… <sub>⭐ 190 · Python</sub>
-- [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts <sub>⭐ 190 · JavaScript</sub>
-- [Azure/gpt-rag-ingestion](https://github.com/Azure/gpt-rag-ingestion) - The GPT-RAG Data Ingestion service automates processing of diverse documents—PDFs, images, spreadsheets, transcripts, and SharePoint—readying them for Azure AI Search. It applies smart chunking… <sub>⭐ 188 · Python</sub>
-- [think41/extrasuite](https://github.com/think41/extrasuite) - Token-efficient pull/edit/push workflow for AI agents editing Google Workspace files (Sheets, Docs, Slides, Forms) <sub>⭐ 166 · Python</sub>
-- [Taguado/AI-by-Hand-exercises-Tom-Yeh](https://github.com/Taguado/AI-by-Hand-exercises-Tom-Yeh) - Excel exercises done following posts from Professor Tom Yeh (IG: @ProfTomYeh) <sub>⭐ 141</sub>
-- [CognitiveAISystems/MAPF-GPT](https://github.com/CognitiveAISystems/MAPF-GPT) - (AAAI-2025) This repository contains MAPF-GPT, a deep learning-based model for solving MAPF problems. Trained with imitation learning on trajectories produced by LaCAM, it generates actions under… <sub>⭐ 135 · C++</sub>
-- [varun-singhh/Vysper](https://github.com/varun-singhh/Vysper) - Open Source Cluely: An AI-powered desktop tool that helps you excel in technical and professional interviews by providing intelligent, real-time assistance while remaining completely invisible to… <sub>⭐ 135 · JavaScript</sub>
-- [ComPDFKit/compdfkit-conversion-sdk-android](https://github.com/ComPDFKit/compdfkit-conversion-sdk-android) - High-performance PDF conversion library for Android mobile apps. Convert PDF to Word, Excel, PPT, HTML, CSV, images, text, RTF, searchable PDF, JSON, Markdown, and OFD on Android devices while… <sub>⭐ 125 · HTML</sub>
-- [OfficeMCP/OfficeMCP](https://github.com/OfficeMCP/OfficeMCP) - The MCP server for AI like to automate Microsoft office applications like Word, Excel, Outlook, PowerPoint, Access, OneNote, Publisher, Visio, Project and also WPS . <sub>⭐ 119 · Python</sub>
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI是人工智能代理阅读,编辑和自动化Word,Excel,以及PowerPoint文件的第一套也是最好的Office套件专用设备. 免费,开源,单二进制,没有Office安装... <sub>⭐ 31.5k · C#</sub>
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin 等的一款命令行工具. 动态构建自Google发现服务(Google Discovery),包括AI代理技能. <sub>⭐ 31.2k · Rust</sub>
+- [dream-num/univer](https://github.com/dream-num/univer) - 办公室对AI代理的利用——电子表格、文档、幻灯片、帆布、关系表和PDF在一次运行中。 <sub>⭐ 22.3k · TypeScript</sub>
+- [teableio/teable](https://github.com/teableio/teable) - AI 商业电子表格 <sub>⭐ 21.9k · TypeScript</sub>
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Claude Code的通用SEO技能. 26个子技能+19个子代理,涵盖技术SEO,E-E-A-T,schema,GEO/AEO,代理读取器(Lighthouse Agent Browsing,WebMCP,llms.txt),回路,本地... <sub>⭐ 18.2k · Python</sub>
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - 自由,开源的AI Office套件: Docs, Sheets,幻灯片,PDF,Markdown和HTML编辑器,内置AI代理,外加genoffice CLI和代理技能,这样Claude Code,Codex和Cursor就可以创建和. <sub>⭐ 8.4k · TypeScript</sub>
+- [baserow/baserow](https://github.com/baserow/baserow) - 构建数据库,自动化,应用和代理 AI——没有代码. 开源平台在云和自托管上可用. GDPR,HIPAA,SOC 2符合. Best Airtable alternative. <sub>⭐ 6.1k · Python</sub>
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel 文件操作的模拟上下文协议服务器 <sub>⭐ 4.2k · Python</sub>
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 控制 Gmail, Google 日历, Docs, 工作表, 幻灯片, 聊天, 形式, 任务, 搜索和驱动 与 AI - 全面的 Google 工作空间 MCP 服务器和 CLI 工具 <sub>⭐ 3.3k · Python</sub>
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - 用于您和您的代理的单文件关系电子表格 。 <sub>⭐ 3.2k · TypeScript</sub>
+- [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace) - 一个开放源代码办公室的工作空间,人们和AI代理商在那里共同创建,合作,并审查. <sub>⭐ 2.2k · TypeScript</sub>
+- [weijunext/smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - 使用 ChatGPT 生成您需要的 Excel 公式。 <sub>⭐ 1.7k · TypeScript</sub>
+- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - AI.链条细胞进入强大管道的协作电子表格,用提示和模型进行实验,并实时评价LLM响应. 一起无缝地构建和移动... <sub>⭐ 1.1k · Python</sub>
+- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex 是首个用于文档、幻灯片和电子表格的 Al-Native VibeOfficing 平台 <sub>⭐ 1.1k · Go</sub>
+- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - 任何文件 — 清除 AI 代理的 Markdown : PDF, Word, PowerPoint, Excel, EPUB, HTML 和网页, 图像( OCR), 音频和视频( 元数据, 字幕, 记录稿) 。 一个快速 Rust MCP 服务器和 CLI 的... <sub>⭐ 1.0k · Rust</sub>
+- [getcellm/cellm](https://github.com/getcellm/cellm) - 在 Excel 公式中使用 LLMS <sub>⭐ 953 · C#</sub>
+- [henryalps/OpenManus](https://github.com/henryalps/OpenManus) - OpenManus是复制Manus AI代理能力的一个开源倡议,这是莫妮卡开发的一款最新通用AI,在自主执行复合体方面表现优异. . <sub>⭐ 944 · Python</sub>
+- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - 通过MCP Server或CLI,自动化真微软Excel——Power Query,DAX,VBA,PivotTables,图表,和326操作. <sub>⭐ 800 · C#</sub>
+- [criptogus/HermesOffice](https://github.com/criptogus/HermesOffice) - 免费开放源代码 AI Office 套件(Word, Excel, PowerPoint, PDF, Markdown) — macOS 构建, 一击安装 <sub>⭐ 598 · TypeScript</sub>
+- [microsoft/Resource2Skill](https://github.com/microsoft/Resource2Skill) - 一个将人类创造的多模式资源提炼成可重复使用,可执行技能的一般框架,AI代理可以浏览,编译和运行,在包括网络在内的不同领域进行验证. <sub>⭐ 527 · Python</sub>
+- [cisco-open/network-sketcher](https://github.com/cisco-open/network-sketcher) - Network Sketcher是一个AI-ready网络设计工具,带有本地MCP,Online,以及离线版,用于创建网络设计,并导出PowerPoint图和基于Excel的配置数据. <sub>⭐ 400 · Python</sub>
+- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - 自动与AI代理商和Langgraph进行主干研究、资格认证和外联,创建个性化信息,并与您的客户关系管理系统(HubSpot、AirTable、Google Sheets)连接 <sub>⭐ 397 · Python</sub>
+- [useagenthq/useagent](https://github.com/useagenthq/useagent) - 您团队的开源 AI 同事: 拥有自己的云端计算机,您的工具和上下文的代理, 交回已完成的工作网站, 甲板, 电子表格, 报告, PRs. runs Claude Code... <sub>⭐ 370 · TypeScript</sub>
+- [harishdeivanayagam/rowfill](https://github.com/harishdeivanayagam/rowfill) - 用于深入研究和文件处理的开源电子表格平台 <sub>⭐ 366 · TypeScript</sub>
+- [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) - 在自己的电脑上安装自己的AI助手。 本地第一和麻省理工学院: 记忆、数据和应用作为普通文件留在工作空间中。 聊天传呼正确的图形用户界面 — 维基、 电子表格、 图表、 形式... <sub>⭐ 356 · TypeScript</sub>
+- [WellApp-ai/Well](https://github.com/WellApp-ai/Well) - 金融周日。我们建造基础设施,以检索、处理和引导您的财务和商业数据到您的FinOps堆栈,因此创始人可以发货,而不是电子表格。 <sub>⭐ 345 · TypeScript</sub>
+- [SylvianAI/sv-excel-agent](https://github.com/SylvianAI/sv-excel-agent) - 使用 MCP 工具让 LLMS 读取、编辑和自动化 Excel 电子表格的 Excel AI 代理 。 <sub>⭐ 305 · Python</sub>
+- [logisky/LogiSheets](https://github.com/logisky/LogiSheets) - LogiSheets是一个方便AI的电子表格应用程序,与Excel兼容,也是人类和AI合作的好地方. <sub>⭐ 279 · Rust</sub>
+- [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) - BrandDocs是一套代理技能,可以学习你现有的Word,PowerPoint和Excel模板,并从中生成新的品牌文档. 不同于通用AI文档生成器,它保存了... <sub>⭐ 269 · Python</sub>
+- [it235/office-ai-agent](https://github.com/it235/office-ai-agent) - Office AI 本地插件,支持Excel/Word/PPT/WPS(Office AI智能代理插件基于Visual Studio+VSTO+VB.net(与WPS兼容)). <sub>⭐ 257 · Visual Basic .NET</sub>
+- [EPFLiGHT/mmore](https://github.com/EPFLiGHT/mmore) - 曾经需要拿8000个PDF,2000个视频,500个电子表格,并把它们作为知识库输入LLM中?嗯,mmore在这里帮助你!mmore是一个可伸缩的多模式管道,用于处理...... <sub>⭐ 250 · Python</sub>
+- [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - AI办公室套房的Skywork Agent Switchs,包括AI PPT,AI Document,AI Excel,AI Image,AI Search/DeepResearch和AI Music. 这些技能可以被任何符合技能的代理使用,包括. <sub>⭐ 203 · Python</sub>
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - 您仍在电子表格中跟踪工作吗? 连接您的 Gmail 信箱, 并自动看到您在仪表板中的工作搜索, 不需要复制打印 。 <sub>⭐ 202 · TypeScript</sub>
+- [harumiWeb/exstruct](https://github.com/harumiWeb/exstruct) - 从Excel转换为结构化的JSON(LLM/RAG管道的表格,形状,图表),以及AI代理通过CLI和MCP集成实现的自主Excel读写. <sub>⭐ 200 · Python</sub>
+- [areuther/ai-accelerators](https://github.com/areuther/ai-accelerators) - CSV电子表格和AI加速器调查论文的其他材料 <sub>⭐ 195</sub>
+- [kakobuyspreadsheet2026/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026](https://github.com/kakobuyspreadsheet2026/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026) - Kakobuy电子表格有3,000+来自魏地安、桃宝和1688年,每天增加负担得起的新来者。探索过去7天的最新发现,加上鞋子和衣服。 <sub>⭐ 195 · HTML</sub>
+- [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo) - 单曲有AI goodies / LLM Chat / Hono + OpenAPI & RPC, Nuxt, Convex, SST Ion, WorkOS AuthKit, Tanstack Query, Shadcn, UnoCSS, 电子表 I18n, Lingo.dev, grammY Telegram Bot <sub>⭐ 191 · Vue</sub>
+- [imon333/Job-apply-AI-agent](https://github.com/imon333/Job-apply-AI-agent) - GitHub 项目: AI 工作应用程序自动化 此项目将求职、 CV 创建以及使用 Python, n8n, Selenium 和 OpenAI 的应用程序自动化。 它刮切 LinkedIn, 的确, StepStone... <sub>⭐ 190 · Python</sub>
+- [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - 通过 Google Apps 脚本连接到 Google 工作表 <sub>⭐ 190 · JavaScript</sub>
+- [Azure/gpt-rag-ingestion](https://github.com/Azure/gpt-rag-ingestion) - GPT-RAG 数据摄入服务自动处理各种文档—— PDF、图像、电子表格、记录誊本和SharePoint—— 准备用于Azure AI搜索。 它应用了智能块... <sub>⭐ 188 · Python</sub>
+- [think41/extrasuite](https://github.com/think41/extrasuite) - 用于编辑 Google 工作空间文件( Sheets, Docs, 幻灯片, 表格) 的 AI 代理服务器的托肯高效拉动/编辑/推动工作流程 <sub>⭐ 166 · Python</sub>
+- [Taguado/AI-by-Hand-exercises-Tom-Yeh](https://github.com/Taguado/AI-by-Hand-exercises-Tom-Yeh) - Excel练习从Tom Yeh教授(GIG:@ProfTomYeh)开始。 <sub>⭐ 141</sub>
+- [CognitiveAISystems/MAPF-GPT](https://github.com/CognitiveAISystems/MAPF-GPT) - (AAAI-2025)这个寄存器包含MAPF-GPT,这是一个解决MAPF问题的深层学习模型. 训练了LaCAM制作的轨迹仿真学习,它产生在... <sub>⭐ 135 · C++</sub>
+- [varun-singhh/Vysper](https://github.com/varun-singhh/Vysper) - OpenSource Cluely:一个AI驱动的桌面工具,它通过提供智能,实时的协助,帮助你在技术和专业访谈中表现优异,同时保持完全隐蔽. <sub>⭐ 135 · JavaScript</sub>
+- [ComPDFKit/compdfkit-conversion-sdk-android](https://github.com/ComPDFKit/compdfkit-conversion-sdk-android) - Android 移动应用程序的高性能 PDF转换库。在Android设备上将 PDF 转换为 Word, Excel, PPT, HTML, CSV, 图像, 文本, RTF, 可搜索的 PDF, JSON, Markdown, 以及 OFD , 同时... <sub>⭐ 125 · HTML</sub>
+- [OfficeMCP/OfficeMCP](https://github.com/OfficeMCP/OfficeMCP) - AI的MCP服务器喜欢自动化微软的办公应用程序,如Word,Excel,Outlook,PowerPoint,Access,OneNote,Publisher,Visio,Project和WPS. <sub>⭐ 119 · Python</sub>
 
 ## 🤖 数据分析智能体
 
 > 探索数据、编写代码并生成报告的智能体。
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. <sub>⭐ 78.8k · MDX</sub>
-- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents. <sub>⭐ 73.8k · Python</sub>
-- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching… <sub>⭐ 45.2k · TypeScript</sub>
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more! <sub>⭐ 29.7k · HTML</sub>
-- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. <sub>⭐ 29.7k · Jupyter Notebook</sub>
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. <sub>⭐ 23.0k · Python</sub>
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents… <sub>⭐ 19.6k · Python</sub>
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform <sub>⭐ 17.8k · Jupyter Notebook</sub>
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. <sub>⭐ 17.1k · Python</sub>
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform <sub>⭐ 15.9k</sub>
-- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . <sub>⭐ 11.1k · TypeScript</sub>
-- [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course <sub>⭐ 11.0k · Jupyter Notebook</sub>
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere <sub>⭐ 9.7k · HTML</sub>
-- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth <sub>⭐ 7.9k · Python</sub>
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs. <sub>⭐ 7.9k · Jupyter Notebook</sub>
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and… <sub>⭐ 6.8k · TypeScript</sub>
-- [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) - Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills. <sub>⭐ 6.2k · Python</sub>
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone… <sub>⭐ 6.1k · TypeScript</sub>
-- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high… <sub>⭐ 5.8k · Python</sub>
-- [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster. <sub>⭐ 5.4k · Python</sub>
-- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 <sub>⭐ 5.1k · Jupyter Notebook</sub>
-- [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform. <sub>⭐ 4.7k · TypeScript</sub>
-- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P <sub>⭐ 4.7k</sub>
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - An open source extension that connects AI agents to computational notebooks in JupyterLab. <sub>⭐ 4.4k · Python</sub>
-- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act conformity evidence, model validation, predictive maintenance, document… <sub>⭐ 4.0k · Python</sub>
-- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter <sub>⭐ 3.8k · Python</sub>
-- [fastai/course22](https://github.com/fastai/course22) - The fast.ai course notebooks <sub>⭐ 3.7k · Jupyter Notebook</sub>
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane <sub>⭐ 3.7k · MDX</sub>
-- [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). <sub>⭐ 3.6k · TypeScript</sub>
-- [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter <sub>⭐ 3.5k · Python</sub>
-- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook <sub>⭐ 3.4k · TypeScript</sub>
-- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - Machine Learning Notebooks <sub>⭐ 3.4k · Jupyter Notebook</sub>
-- [opengeos/geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data <sub>⭐ 3.4k · Python</sub>
-- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of… <sub>⭐ 3.4k</sub>
-- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023 <sub>⭐ 3.2k · Jupyter Notebook</sub>
-- [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 指南、论文、课程、笔记本和资源,用于快速工程、背景工程、RAG和AI Agents。 <sub>⭐ 78.8k · MDX</sub>
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - 为分析师, quants 和 AI 代理商开放数据平台. <sub>⭐ 73.8k · Python</sub>
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - 增强型ChatGPT克隆:特质代理,MCP,技能,DeepSeek,Anthropic,AWS,OpenAI,Resignation API,Azure,Groq,o1,GPT-5,米斯特拉尔,OpenRouter,Vertex AI,双子座,Artifacts,AI模型切换... <sub>⭐ 45.2k · TypeScript</sub>
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - 一站式存储器 基因AI研究更新,访谈资源,笔记本和更多! <sub>⭐ 29.7k · HTML</sub>
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - 该寄存器展示了各种高级技术,用于检索增强生成(RAG)系统。每种技术都有一个详细的笔记本教程。 <sub>⭐ 29.7k · Jupyter Notebook</sub>
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Python的被动笔记本——运行可复制的实验,用SQL查询,执行为脚本,部署为应用程序,并用 git. Stored 做纯Python 的版本,全部使用现代的AI-native编辑器. <sub>⭐ 23.0k · Python</sub>
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - 非官方的 Python API 和 Google 双米尼 Notebook 的代理技能。 通过 Python , CLI 和 AI 代理... <sub>⭐ 19.6k · Python</sub>
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Google Cloud上的Generative AI样本代码和笔记本,配有双子企业代理平台 <sub>⭐ 17.8k · Jupyter Notebook</sub>
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - 代理框架和应用程序基于Quen 3.0,主要包括函数调用,MCP,代码解释器,RAG,Chrome扩展等. <sub>⭐ 17.1k · Python</sub>
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - 云原人工智能平台 <sub>⭐ 15.9k</sub>
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - 一个开放源代码,自托管的个人AI注释工具优先处理隐私,使用TypeScript 建造. <sub>⭐ 11.1k · TypeScript</sub>
+- [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - 用于快速.ai计算线性代数课程的 Jupyter 笔记本免费在线教科书 <sub>⭐ 11.0k · Jupyter Notebook</sub>
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 描述您的网站、 AI 构建它, 您拥有它 Markdown 。 将像 Lego 这样的 Tailwind 块组合在一起 — 登陆页、 博客、 组合、 文件等 。 没有 AI sloop 。 您可以随意部署到任何地方 。 <sub>⭐ 9.7k · HTML</sub>
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - 快速稳定扩散 + DreamBooth <sub>⭐ 7.9k · Python</sub>
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22种具有实用的Jupyter Notebook教程的快速工程技术,从基本概念到利用LLMs的先进战略. <sub>⭐ 7.9k · Jupyter Notebook</sub>
+- [purocean/yn](https://github.com/purocean/yn) - 一个高度可扩展的Markdown编辑器,其特点是版本控制,AI Copilot,文档说明,心灵地图,文档加密,可执行代码片段,图表嵌入,HTML小程序,插件,以及. <sub>⭐ 6.8k · TypeScript</sub>
+- [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) - 程序访问双子座Notebook - 通过命令行界面(CLI),模式背景协议(MCP)服务器,以及AI代理技能. <sub>⭐ 6.2k · Python</sub>
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - 开源的桌面级AI代理,可以完成真正的工作——数据分析,幻灯片,文件,视频和网络研究. 建在OpenClaw上;运行工具在您真正的桌面上,并从您的手机中获取命令... <sub>⭐ 6.1k · TypeScript</sub>
+- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - AidLearning是一个强大的AIOT开发平台,AidLearing构建了一个支持GUI的linuxenv,在Android上的深层学习和视觉 IDE. 现在Aid支持CPU+GPU+NPU的高推论. . <sub>⭐ 5.8k · Python</sub>
+- [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一个AI驱动的数据科学团队的代理,帮助您更快地完成共同的数据科学任务10X. <sub>⭐ 5.4k · Python</sub>
+- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 学术组合可以促进引用。 AI 生成页面, 您拥有 Markdown 。 BibTeX 自动导入、 Jupyter 、 LaTeX 、 幻灯片、 视觉块编辑器 —— 永远可以免费主机 。 @ @ info, AI , Markdown ^ <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [Kanaries/Rath](https://github.com/Kanaries/Rath) - 下一代自动数据探索分析与可视化平台. <sub>⭐ 4.7k · TypeScript</sub>
+- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - 一个最强的NotebookLM幻灯片的全集, 提示来自真正创意的地下。 您为 AI Powerpoint 提供的资源 : P <sub>⭐ 4.7k</sub>
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - 一个开源扩展,将AI代理连接到JupyterLab的计算笔记本. <sub>⭐ 4.4k · Python</sub>
+- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Communitys:免费的,手动的AI课程,在任何地方运行(Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act符合性证据,模型验证,预测维护,文档... <sub>⭐ 4.0k · Python</sub>
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPT 代码解释器的开源执行 <sub>⭐ 3.8k · Python</sub>
+- [fastai/course22](https://github.com/fastai/course22) - 快速的.ai课程笔记本 <sub>⭐ 3.7k · Jupyter Notebook</sub>
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra/AI Orchestration/AI控制计划 <sub>⭐ 3.7k · MDX</sub>
+- [deta/surf](https://github.com/deta/surf) - 个人 AI Notebooks. 组织文件和网页并从中生成注释. 开源,本地和开放数据,开放式模型选择(包括本地). <sub>⭐ 3.6k · TypeScript</sub>
+- [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAI 的 ChatGPT 代码解释器的开源执行 <sub>⭐ 3.5k · Python</sub>
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - 类型脚本笔记本 <sub>⭐ 3.4k · TypeScript</sub>
+- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - 机器学习笔记本 <sub>⭐ 3.4k · Jupyter Notebook</sub>
+- [opengeos/geoai](https://github.com/opengeos/geoai) - GeoAI:地理空间数据人工智能 <sub>⭐ 3.4k · Python</sub>
+- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA疫苗已成为克服当前流行病和许多其他公共卫生和医疗挑战所带来的挑战的一个关键工具。 <sub>⭐ 3.4k</sub>
+- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - 阿姆斯特丹大学深层学习课程教学的Jupyter笔记本教程库(MSc AI),2023年秋季 <sub>⭐ 3.2k · Jupyter Notebook</sub>
+- [pinecone-io/examples](https://github.com/pinecone-io/examples) - 帮助您操作 Pinecone 矢量数据库的 Jupyter Notebooks <sub>⭐ 3.0k · Jupyter Notebook</sub>
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - (Legacy)数据与AI Notebook模板目录由工具组织,遵循IMO(输入,模型,输出)框架,方便使用和发现. <sub>⭐ 3.0k · Jupyter Notebook</sub>
-- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote… <sub>⭐ 3.0k · TypeScript</sub>
-- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses… <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [microsoft/pai](https://github.com/microsoft/pai) - Resource scheduling and cluster management for AI <sub>⭐ 2.7k · JavaScript</sub>
-- [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) - Notebooks, code samples and reference for machine learning and generative ai on Google Cloud for the Advanced Solutions Lab (ASL) bootcamps. <sub>⭐ 2.6k · Jupyter Notebook</sub>
-- [zai-org/CodeGeeX4](https://github.com/zai-org/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more. <sub>⭐ 2.6k · Python</sub>
-- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor. <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app <sub>⭐ 2.4k · Python</sub>
-- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. <sub>⭐ 2.0k · Python</sub>
-- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. <sub>⭐ 1.8k · Python</sub>
-- [robbertliu/deeplearning.ai-andrewNG](https://github.com/robbertliu/deeplearning.ai-andrewNG) - deeplearning.ai , By Andrew Ng, All slide and notebook + data + solutions and video link <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [OpenCodeInterpreter/OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It… <sub>⭐ 1.8k · Python</sub>
-- [emarco177/langchain-course](https://github.com/emarco177/langchain-course) - A project-based course repository for developing AI agents using LangChain v1+ and LangGraph: search agents, RAG systems, reflection agents, and code interpreters. <sub>⭐ 1.7k</sub>
-- [ikatsov/tensor-house](https://github.com/ikatsov/tensor-house) - A collection of reference Jupyter notebooks and demo AI/ML applications for enterprise use cases: marketing, pricing, supply chain, smart manufacturing, and more. <sub>⭐ 1.5k · Jupyter Notebook</sub>
-- [Ramakm/ai-hands-on](https://github.com/Ramakm/ai-hands-on) - A group of notebooks and other files which can help you learn AI from scratch. <sub>⭐ 1.5k · Jupyter Notebook</sub>
-- [geohot/ai-notebooks](https://github.com/geohot/ai-notebooks) - Some ipython notebooks implementing AI algorithms <sub>⭐ 1.4k · Jupyter Notebook</sub>
-- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - Model Context Protocol (MCP) Server for Jupyter. <sub>⭐ 1.3k · Python</sub>
-- [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for… <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [togethercomputer/together-cookbook](https://github.com/togethercomputer/together-cookbook) - A collection of notebooks/recipes showcasing usecases of open-source models with Together AI. <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits <sub>⭐ 1.2k · C++</sub>
-- [elastic/elastic-labs](https://github.com/elastic/elastic-labs) - Notebooks & Example Apps for Search, Observability, and Security with Elasticsearch <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [vndee/llm-sandbox](https://github.com/vndee/llm-sandbox) - Lightweight and portable LLM sandbox runtime (code interpreter) Python library. <sub>⭐ 1.1k · Python</sub>
-- [SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) - Awesome things you can do with ChatGPT + Code Interpreter combo <sub>⭐ 1.0k</sub>
-- [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) - A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug… <sub>⭐ 930 · Python</sub>
-- [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment <sub>⭐ 930</sub>
-- [GoogleCloudPlatform/applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples) - This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI. <sub>⭐ 852 · Jupyter Notebook</sub>
-- [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks <sub>⭐ 826 · Python</sub>
-- [xuwenhao/geektime-ai-course](https://github.com/xuwenhao/geektime-ai-course) - Jupyter Notebooks for Geektime AI Course <sub>⭐ 822 · Jupyter Notebook</sub>
-- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. <sub>⭐ 792 · Jupyter Notebook</sub>
-- [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) - Collection of Jupyter notebooks is designed to provide you with a comprehensive guide to various AI tools and technologies <sub>⭐ 785 · Jupyter Notebook</sub>
-- [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning and other fields of AI <sub>⭐ 754 · Jupyter Notebook</sub>
-- [FireBird-Technologies/Auto-Analyst](https://github.com/FireBird-Technologies/Auto-Analyst) - Open-source AI-powered data science platform. <sub>⭐ 707 · TypeScript</sub>
-- [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry <sub>⭐ 683 · Go</sub>
-- [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from… <sub>⭐ 678 · Jupyter Notebook</sub>
-- [SeungyounShin/Llama2-Code-Interpreter](https://github.com/SeungyounShin/Llama2-Code-Interpreter) - Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet <sub>⭐ 678 · Python</sub>
-- [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) - A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persistent memory, and professional-grade analysis. Built for… <sub>⭐ 643 · Python</sub>
-- [towardsai/ragbook-notebooks](https://github.com/towardsai/ragbook-notebooks) - Repository for the "Building LLMs for Production" book by Towards AI. <sub>⭐ 558 · Jupyter Notebook</sub>
-- [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - A collection of example notebooks using Haystack <sub>⭐ 548 · Jupyter Notebook</sub>
-- [boxuancui/DataExplorer](https://github.com/boxuancui/DataExplorer) - Automate Data Exploration and Treatment <sub>⭐ 544 · R</sub>
-- [TeamAIQ/Colab-notebooks](https://github.com/TeamAIQ/Colab-notebooks) - Collection of Free Google Colab and Kaggle notebooks for AI tools. <sub>⭐ 507 · Jupyter Notebook</sub>
-- [NisaarAgharia/Advanced_RAG](https://github.com/NisaarAgharia/Advanced_RAG) - Advanced Retrieval-Augmented Generation (RAG) through practical notebooks, using the power of the Langchain, OpenAI GPTs ,META LLAMA3 ,Agents. <sub>⭐ 498 · Jupyter Notebook</sub>
-- [Wilson-ZheLin/Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - An AI agent powered by LLMs that streamlines the entire process of data analysis. <sub>⭐ 490 · Python</sub>
-- [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) - A general, evolvable, and distributed agent framework & harness for data science. <sub>⭐ 488 · Python</sub>
-- [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations <sub>⭐ 460 · Jupyter Notebook</sub>
-- [silvanmelchior/IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - An AI code interpreter for sensitive data, powered by GPT-4 or Code Llama / Llama 2. <sub>⭐ 438 · Python</sub>
-- [tlkh/ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping <sub>⭐ 435 · JavaScript</sub>
-- [Din829/DbRheo-CLI](https://github.com/Din829/DbRheo-CLI) - A database operations and data analysis AI agent <sub>⭐ 431 · Python</sub>
-- [Deep-unlearning/smol-audio](https://github.com/Deep-unlearning/smol-audio) - Practical, Colab-friendly notebooks for fine-tuning and running audio AI models <sub>⭐ 425 · Jupyter Notebook</sub>
-- [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - A collection of notebooks, cookbooks, and recipes showcasing fun and effective ways to use CrewAI's agentic workflow implementations and tools. <sub>⭐ 422 · Jupyter Notebook</sub>
-- [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - Drop agents inside running marimo notebook sessions <sub>⭐ 421 · Shell</sub>
-- [NotASithLord/peerd](https://github.com/NotASithLord/peerd) - The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux… <sub>⭐ 417 · JavaScript</sub>
-- [indentlabs/notebook](https://github.com/indentlabs/notebook) - Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them. <sub>⭐ 410 · HTML</sub>
-- [apt-oss/libro](https://github.com/apt-oss/libro) - A Notebook with Flexible Customization and Easy Integration. <sub>⭐ 404 · Jupyter Notebook</sub>
-- [computing-intelligence/AI_courses_jupyters_and_slides](https://github.com/computing-intelligence/AI_courses_jupyters_and_slides) - Jupyter notebooks and slides for the AI / NLP / text-mining courses (2018–2021) <sub>⭐ 402 · Jupyter Notebook</sub>
-- [ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering) - Jupyter code notebooks of "ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI. <sub>⭐ 402 · Jupyter Notebook</sub>
-- [yhilpisch/aiif](https://github.com/yhilpisch/aiif) - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch. <sub>⭐ 402 · Jupyter Notebook</sub>
-- [NVIDIA/cuda-q-academic](https://github.com/NVIDIA/cuda-q-academic) - This repo contains CUDA-Q Academic materials, including self-paced Jupyter notebook modules for building and optimizing hybrid quantum-classical algorithms using CUDA-Q. <sub>⭐ 398 · Jupyter Notebook</sub>
-- [superagent-ai/super-rag](https://github.com/superagent-ai/super-rag) - Super performant RAG pipelines for AI apps. Summarization, Retrieve/Rerank and Code Interpreters in one simple API. <sub>⭐ 391 · Python</sub>
-- [microsoft/iq-series](https://github.com/microsoft/iq-series) - The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, Work IQ, and Fabric IQ. The series includes video… <sub>⭐ 381 · Jupyter Notebook</sub>
-- [TakatoHonda/sui-lang](https://github.com/TakatoHonda/sui-lang) - 粋 (Sui) - A programming language optimized for LLM code generation <sub>⭐ 371 · Python</sub>
-- [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - NotebookMLX - An Open Source version of NotebookLM (Ported NotebookLlama) <sub>⭐ 356 · Jupyter Notebook</sub>
-- [dbcodeio/public](https://github.com/dbcodeio/public) - The database IDE for VS Code, Cursor, and Windsurf. 80+ databases: Postgres, MySQL, SQL Server, MongoDB, Snowflake, and more. AI queries, ER diagrams, SQL notebooks. <sub>⭐ 352</sub>
-- [plmbr/notebook-intelligence](https://github.com/plmbr/notebook-intelligence) - A JupyterLab extension supporting Claude Code, Copilot, Ollama, and OpenAI-compatible LLMs, with MCP, skills, plugins, and notebook agents. <sub>⭐ 347 · Python</sub>
-- [rochus-keller/Smalltalk](https://github.com/rochus-keller/Smalltalk) - Parser, code model, interpreter and navigable browser for the original Xerox Smalltalk-80 v2 sources and virtual image file <sub>⭐ 319 · C++</sub>
-- [dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024](https://github.com/dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024) - This repository will contain all the presentations, content, hands-on notebooks for a full day Generative AI workshop on Training, Fine-tuning Large Language Models for the DataHack Summit 2024… <sub>⭐ 317 · Jupyter Notebook</sub>
-- [microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure <sub>⭐ 316 · Jupyter Notebook</sub>
-- [zorost/AI-Engineering-Lab](https://github.com/zorost/AI-Engineering-Lab) - A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous… <sub>⭐ 313 · Jupyter Notebook</sub>
-- [MrGreyfun/Local-Code-Interpreter](https://github.com/MrGreyfun/Local-Code-Interpreter) - A local implementation of OpenAI's ChatGPT Code Interpreter. <sub>⭐ 307 · Python</sub>
-- [ai-analyst-lab/ai-analyst](https://github.com/ai-analyst-lab/ai-analyst) - AI Product Analyst — Claude Code-powered data analysis toolkit <sub>⭐ 304 · Python</sub>
-- [Oft3r/agentic-trading-desk](https://github.com/Oft3r/agentic-trading-desk) - AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum ·… <sub>⭐ 304 · Python</sub>
-- [mrm8488/shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks) - A Repo to store the Google Colaboratory Notebooks that I have created and shared <sub>⭐ 284 · Jupyter Notebook</sub>
-- [dbpunk-labs/octogen](https://github.com/dbpunk-labs/octogen) - Octogen is an Open-Source Code Interpreter Agent Framework <sub>⭐ 282 · Python</sub>
-- [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference. <sub>⭐ 276 · Jupyter Notebook</sub>
-- [FireBird-Technologies/Auto-Analyst-Streamlit](https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit) - AI data scientist <sub>⭐ 275 · Python</sub>
-- [Kotlin/Kotlin-AI-Examples](https://github.com/Kotlin/Kotlin-AI-Examples) - A collection of Kotlin-based examples featuring AI frameworks such as Spring AI, LangChain4j, and more — complete with Kotlin notebooks for hands-on learning. <sub>⭐ 270 · Jupyter Notebook</sub>
-- [iamgreggarcia/codesherpa](https://github.com/iamgreggarcia/codesherpa) - A code interpreter and ChatGPT plugin. <sub>⭐ 255 · TypeScript</sub>
-- [ESIPFed/Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers. Contributions most welcome. <sub>⭐ 251</sub>
-- [index-labs/evalgpt](https://github.com/index-labs/evalgpt) - EvalGPT is an code interpreter framework that utilizes large language models to automate the process of code-writing and execution, delivering precise results for user-defined tasks. <sub>⭐ 249 · Go</sub>
-- [quantbelt/jupyter-quant](https://github.com/quantbelt/jupyter-quant) - A dockerized Jupyter quant research environment. <sub>⭐ 247 · Shell</sub>
-- [ogbinar/DataEngineeringPilipinas](https://github.com/ogbinar/DataEngineeringPilipinas) - Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in… <sub>⭐ 237 · HTML</sub>
-- [ocademy-ai/machine-learning](https://github.com/ocademy-ai/machine-learning) - Learn AI together, for free. AI learning and teaching resources for everyone. <sub>⭐ 231 · Jupyter Notebook</sub>
-- [Anaconda-Labs/building-intelligent-apps-with-anaconda](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) - 10-part module to build AI-native apps. From data analysis to multi-agent model harness. For curious learners and serious AI builders. <sub>⭐ 227 · Jupyter Notebook</sub>
-- [walkinglabs/modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook) - A hands-on course on modern LLM architectures, training, and inference, with step-by-step PyTorch implementations and runnable notebooks. <sub>⭐ 224 · Jupyter Notebook</sub>
-- [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI <sub>⭐ 219 · Jupyter Notebook</sub>
-- [HPInc/AI-Blueprints](https://github.com/HPInc/AI-Blueprints) - This repository hosts a growing collection of AI blueprint projects that run end-to-end using Jupyter notebooks, MLflow deployments, and Streamlit web apps. All projects are built using HP AI Studio… <sub>⭐ 216 · Jupyter Notebook</sub>
-- [towardsai/agent-course-notebooks](https://github.com/towardsai/agent-course-notebooks) - This is a repository for the course "Agentic AI Engineering" by Towards AI. <sub>⭐ 214 · Jupyter Notebook</sub>
-- [GitiHubi/deepAI](https://github.com/GitiHubi/deepAI) - Detection of Accounting Anomalies using Deep Autoencoder Neural Networks - A lab we prepared for NVIDIA's GPU Technology Conference 2018 that will walk you through the detection of accounting… <sub>⭐ 210 · Jupyter Notebook</sub>
-- [InfiAgent/InfiAgent](https://github.com/InfiAgent/InfiAgent) - InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks (ICML 2024) <sub>⭐ 207 · Python</sub>
-- [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) - Connect DSH to your database for conversational data analysis and actionable business insights. <sub>⭐ 201 · JavaScript</sub>
-- [milaan9/92_Python_Games](https://github.com/milaan9/92_Python_Games) - This repository contains Python games that I've worked on. You'll learn how to create python games with AI. I try to focus on creating board games without GUI in Jupyter-notebook. <sub>⭐ 198 · Jupyter Notebook</sub>
-- [blobcity/autoai](https://github.com/blobcity/autoai) - Python based framework for Automatic AI for Regression and Classification over numerical data. Performs model search, hyper-parameter tuning, and high-quality Jupyter Notebook code generation. <sub>⭐ 186 · Python</sub>
-- [gsurma/image_classifier](https://github.com/gsurma/image_classifier) - CNN image classifier implemented in Keras Notebook . <sub>⭐ 185 · Jupyter Notebook</sub>
-- [PsorTheDoctor/artificial-intelligence](https://github.com/PsorTheDoctor/artificial-intelligence) - AI projects in python, mostly Jupyter notebooks. <sub>⭐ 183 · Jupyter Notebook</sub>
-- [shaunthecomputerscientist/EDA-GPT](https://github.com/shaunthecomputerscientist/EDA-GPT) - Automated Data Analysis leveraging llms <sub>⭐ 182 · HTML</sub>
-- [mileszim/awesome-vector-database](https://github.com/mileszim/awesome-vector-database) - Awesome List of Vector DB resources <sub>⭐ 181</sub>
-- [dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025](https://github.com/dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025) - This repository will contain all the presentations, content, hands-on python notebooks for a full day Agentic AI workshop on Building Simple and Complex Agents, Deploying and Monitoring AI Agents… <sub>⭐ 180 · Jupyter Notebook</sub>
-- [pragunbhutani/dbt-llm-agent](https://github.com/pragunbhutani/dbt-llm-agent) - LLM based AI Agent to automate Data Analysis for dbt projects with remote MCP server <sub>⭐ 180 · Python</sub>
-- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - Context Encoding for Semantic Segmentation MegaDepth: Learning Single-View Depth Prediction from Internet Photos LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation… <sub>⭐ 179</sub>
-- [IBM/watsonx-ai-samples](https://github.com/IBM/watsonx-ai-samples) - IBM watsonx.ai sample models, notebooks and apps. <sub>⭐ 176 · HTML</sub>
-- [gaasher/Agent-Loop-Skills](https://github.com/gaasher/Agent-Loop-Skills) - Loop until it's better — drop-in agentic loops (autoresearch, scientific writing, data analysis, code/SQL/prompt optimization, red-teaming) as open-standard Agent Skills. Verification-gated; native… <sub>⭐ 173 · Python</sub>
-- [kochgroup/intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - A collection of Jupyter Notebooks that are designed to teach life science students about deep learning. <sub>⭐ 168 · Jupyter Notebook</sub>
-- [dadiaomengmeimei/claude-code-sourcemap-learning-notebook](https://github.com/dadiaomengmeimei/claude-code-sourcemap-learning-notebook) - Reverse-engineering Claude Code's 512K+ lines of TypeScript — architecture, design decisions, and 11 transferable patterns for building AI Agents <sub>⭐ 166</sub>
-- [dcavar/python-tutorial-notebooks](https://github.com/dcavar/python-tutorial-notebooks) - Python tutorials as Jupyter Notebooks for NLP, ML, AI <sub>⭐ 166 · Jupyter Notebook</sub>
-- [leezhuuuuu/Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - Committed to being the best code interpreter in the world. <sub>⭐ 166 · Python</sub>
-- [johnmaeda/SK-Recipes](https://github.com/johnmaeda/SK-Recipes) - A collection of C# notebooks to get you started with Semantic Kernel quickly. <sub>⭐ 165 · Jupyter Notebook</sub>
-- [datalayer/jupyter-ai-agents](https://github.com/datalayer/jupyter-ai-agents) - AI Agents with MCP tools and Skills for JupyterLab — Chat with your Notebook and execute code. <sub>⭐ 163 · Jupyter Notebook</sub>
-- [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win) - Build AI-powered security tools. 50+ hands-on labs covering ML, LLMs, RAG, threat detection, DFIR, and red teaming. Includes Colab notebooks, Docker environment, and CTF challenges. <sub>⭐ 163 · Python</sub>
-- [jbeno/cursor-notebook-mcp](https://github.com/jbeno/cursor-notebook-mcp) - Model Context Protocol (MCP) server designed to allow AI agents within Cursor to interact with Jupyter Notebook (.ipynb) files <sub>⭐ 161 · Python</sub>
-- [medwatt/gmid](https://github.com/medwatt/gmid) - gm/Id design toolkit: lookup tables, design charts, and automated multicorner sizing of analog circuits <sub>⭐ 160 · Python</sub>
-- [CausalAIBook/MetricsMLNotebooks](https://github.com/CausalAIBook/MetricsMLNotebooks) - Notebooks for Applied Causal Inference Powered by ML and AI <sub>⭐ 157 · Jupyter Notebook</sub>
-- [shukur-alom/leaf-diseases-detect](https://github.com/shukur-alom/leaf-diseases-detect) - AI leaf disease detection system with FastAPI + Streamlit using Llama Vision (Groq) for all diseases, severity and treatment recommendations <sub>⭐ 153 · Python</sub>
-- [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything. <sub>⭐ 152 · TypeScript</sub>
-- [HugoBlox/hugo-theme-data-science-blog](https://github.com/HugoBlox/hugo-theme-data-science-blog) - Publish Jupyter notebooks as blog posts — not screenshots. AI generates pages, you own as Markdown. LaTeX, syntax highlighting, Mermaid diagrams. Free forever. 数据科学博客，Jupyter 直接发布 <sub>⭐ 149 · Jupyter Notebook</sub>
-- [zjunlp/DataMind](https://github.com/zjunlp/DataMind) - (ICLR/AAAI/KDD/EMNLP2026) Open-Source LLM-Based Data Analysis Agents <sub>⭐ 147 · Python</sub>
-- [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) - Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together. <sub>⭐ 146 · TypeScript</sub>
-- [ListenNotes/notebooklm-detector](https://github.com/ListenNotes/notebooklm-detector) - Detect whether or not an audio file was generated by NotebookLM <sub>⭐ 145 · Python</sub>
-- [omarsar/pytorch_notebooks](https://github.com/omarsar/pytorch_notebooks) - A collection of PyTorch notebooks for learning and practicing deep learning <sub>⭐ 142 · Jupyter Notebook</sub>
-- [roebius/deeplearning_keras2](https://github.com/roebius/deeplearning_keras2) - Modification of fast.ai deep learning course notebooks for usage with Keras 2 and Python 3. <sub>⭐ 141 · Jupyter Notebook</sub>
-- [olonok69/LLM_Notebooks](https://github.com/olonok69/LLM_Notebooks) - Notebooks and Code about Generative Ai, LLMs, MLOPS, NLP , CV and Graph databases <sub>⭐ 140 · Jupyter Notebook</sub>
-- [SudoKrondor/EliteIntel](https://github.com/SudoKrondor/EliteIntel) - LLM side-kick and data analyst for Elite Dangerous <sub>⭐ 140 · Java</sub>
-- [avikumart/LLM-GenAI-Transformers-Notebooks](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks) - An repository containing all the LLM notebooks with tutorial and projects <sub>⭐ 138 · Jupyter Notebook</sub>
-- [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) - MCP server for KiCad EDA - Analyze schematics & PCBs, trace pin-level connections, automate design editing. Works with any MCP-compatible AI tool <sub>⭐ 137 · Python</sub>
-- [LibreChat-AI/code-interpreter](https://github.com/LibreChat-AI/code-interpreter) - Sandboxed code execution API for AI agents: powers LibreChat's Code Interpreter <sub>⭐ 134 · TypeScript</sub>
-- [probabl-ai/skills](https://github.com/probabl-ai/skills) - Tabular Data Science Skills for guardrailing AI Agents <sub>⭐ 133 · Python</sub>
-- [aws-samples/aws-research-workshops](https://github.com/aws-samples/aws-research-workshops) - This repo provides a managed SageMaker jupyter notebook with a number of notebooks for hands on workshops in data lakes, AI/ML, Batch, IoT, and Genomics. <sub>⭐ 130 · Jupyter Notebook</sub>
-- [Agentic-Analyst/stock-analyst](https://github.com/Agentic-Analyst/stock-analyst) - VYNN AI Agent Backend is a standalone agent execution system for financial analysis. It orchestrates LLM-based agents to scrape historical financial data, build valuation models, analyze real-time… <sub>⭐ 128 · Python</sub>
-- [monuminu/AOAI_Samples](https://github.com/monuminu/AOAI_Samples) - End-to-end Azure AI samples — notebooks and snippets for Azure OpenAI, Azure ML and AI Search <sub>⭐ 124 · Jupyter Notebook</sub>
-- [pappasam/nvim-repl](https://github.com/pappasam/nvim-repl) - Better REPLs in nvim 0.11+, supporting aider (AI), ipython, utop, and more! <sub>⭐ 124 · Vim Script</sub>
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is a compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, references and class hierarchy first; then it reads, explains, runs, edits and… <sub>⭐ 121 · Python</sub>
-- [ashishpatel26/AIAgentWorkshop](https://github.com/ashishpatel26/AIAgentWorkshop) - AI Agent Work shop include Agent from Corepython, using CrewAI and Using SmolAgent <sub>⭐ 117 · Jupyter Notebook</sub>
-- [shaoanlu/deeplearning.ai-Convolutional-Neural-Networks](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks) - Completed assignment jupyter notebook of Foundations of Convolutional Neural Networks, deeplearning.ai coursera course <sub>⭐ 117 · Jupyter Notebook</sub>
+- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote 是使用AI-First设计,sleek UI,新块,以及本土数据集成等功能来取代Jupyter的即时置换. 在您最喜欢的IDE中本地使用Python,R和SQL,然后缩放为Deepnote... <sub>⭐ 3.0k · TypeScript</sub>
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX,稳定扩散,SDXL,SD3,LORA,Fine Tuning,DreamBooth,Training,Autom1111,Forge WebUI,SwarmUI,DeepFake,TTS,动画,文本到视频,教程,指南,讲座,课程... <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [microsoft/pai](https://github.com/microsoft/pai) - AI的资源时间安排和集群管理 <sub>⭐ 2.7k · JavaScript</sub>
+- [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) - 在Google Cloud上为高级解决方案实验室(ASL)的靴营提供机器学习和基因化AI的笔记本,代码样本和参考文献. <sub>⭐ 2.6k · Jupyter Notebook</sub>
+- [zai-org/CodeGeeX4](https://github.com/zai-org/CodeGeeX4) - CodeGeeX4-ALL-9B,是所有AI软件开发情景的多功能模型,包括代码完成,代码解释器,网络搜索,函数调用,寄存层QQA等更多. <sub>⭐ 2.6k · Python</sub>
+- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch——Google,Meta,Anthropic的65个ML/AI采访问题,真实访谈中出现的问题. Jupyter笔记本,一个自动升级器,以及一个MCP AI导师. <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK 用于运行 AI 生成的代码/代码 解释您的 AI app <sub>⭐ 2.4k · Python</sub>
+- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - 成百上千的医学研究代理技能,包括协议设计,数据分析,证据洞察力,以及学术写作. <sub>⭐ 2.0k · Python</sub>
+- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN:AI驱动的多代理研究助手,自动化假说生成,数据分析,以及报告编写. <sub>⭐ 1.8k · Python</sub>
+- [robbertliu/deeplearning.ai-andrewNG](https://github.com/robbertliu/deeplearning.ai-andrewNG) - 由Andrew Ng所著, 所有幻灯片和笔记本+数据+解决方案及视频链接 <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [OpenCodeInterpreter/OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - OpenCode Interpreter是一套开源代码生成系统,旨在弥合大语言模型与GPT-4代码解释器等精密专有系统之间的差距. It... <sub>⭐ 1.8k · Python</sub>
+- [emarco177/langchain-course](https://github.com/emarco177/langchain-course) - 一个基于项目的课程库,用于开发使用LangChain v1+和LangGraph的AI代理:搜索代理,RAG系统,反射代理,以及代码解释器. <sub>⭐ 1.7k</sub>
+- [ikatsov/tensor-house](https://github.com/ikatsov/tensor-house) - 企业使用案例的参考Jupyter笔记本和演示AI/ML应用程序集:营销,定价,供应链,智能制造等. <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [Ramakm/ai-hands-on](https://github.com/Ramakm/ai-hands-on) - 一组笔记本和其他文件可以帮助你从头开始学习AI. <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [geohot/ai-notebooks](https://github.com/geohot/ai-notebooks) - 一些执行AI算法的ipython笔记本 <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - 用于Jupyter的模型上下文协议(MCP)服务器. <sub>⭐ 1.3k · Python</sub>
+- [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - 用于培训AI的后端测试1000分交易算法,其自动定价数据来自: IEX,Tradier和FinViz. Dataset及交易性能自动发布到S3 for... <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [togethercomputer/together-cookbook](https://github.com/togethercomputer/together-cookbook) - 一本笔记本/复制品集,用College AI展示了开源模型的使用情况。 <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Intel_ oneAPI 工具包样本 <sub>⭐ 1.2k · C++</sub>
+- [elastic/elastic-labs](https://github.com/elastic/elastic-labs) - 搜索、可观察性及带有弹性搜索的安全的笔记本和示例应用程序 <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [vndee/llm-sandbox](https://github.com/vndee/llm-sandbox) - 轻量级和便携式LLM沙盒运行时间(代码解释器) Python 库. <sub>⭐ 1.1k · Python</sub>
+- [SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) - ChatGPT + 代码解释器组合中可以做的很棒的事情 <sub>⭐ 1.0k</sub>
+- [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) - 拥有182种可安装的AI代理技能的精密多语图书馆,用于端到端的学术研究——拓宽文献发现,科学写作,赠款开发,生物信息学,药物. . <sub>⭐ 930 · Python</sub>
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) - Claude代码解释器环境中/mnt/技能的内容 <sub>⭐ 930</sub>
+- [GoogleCloudPlatform/applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples) - 这个寄存器在Google Cloud Vertex AI上编译了代码样本和笔记本,演示如何使用Generative AI. <sub>⭐ 852 · Jupyter Notebook</sub>
+- [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter: Jupyter Notebook 中的 ChatGPT 代码解释器 <sub>⭐ 826 · Python</sub>
+- [xuwenhao/geektime-ai-course](https://github.com/xuwenhao/geektime-ai-course) - Geektime AI课程的Jupyter笔记本 <sub>⭐ 822 · Jupyter Notebook</sub>
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - 说明书,代码样本,样本应用,以及其它资源,可以演示如何使用,开发和管理机器学习以及使用Google Cloud Vertex AI的基因化AI工作流程. <sub>⭐ 792 · Jupyter Notebook</sub>
+- [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) - 收集Jupyter笔记本是为了向您提供各种人工智能工具和技术的综合指南。 <sub>⭐ 785 · Jupyter Notebook</sub>
+- [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - 创造这种回波背后的动机是感受对数学的恐惧,并做你想做的事 在机器学习,深层学习和AI的其他领域 <sub>⭐ 754 · Jupyter Notebook</sub>
+- [FireBird-Technologies/Auto-Analyst](https://github.com/FireBird-Technologies/Auto-Analyst) - 开源AI动力数据科学平台. <sub>⭐ 707 · TypeScript</sub>
+- [orb-community/orb](https://github.com/orb-community/orb) - Orb是一个动态网络可观察性平台,具有代理机队管弦和数据管道,带有OpenTeleometry <sub>⭐ 683 · Go</sub>
+- [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - 人工操作,无框架的Colab笔记本,用于AI Engineer / FDE前方部署工程师(FDE)技能集——模型API,结构化输出,工具调用,RAG,evals-as-the-spine,代理商(从. <sub>⭐ 678 · Jupyter Notebook</sub>
+- [SeungyounShin/Llama2-Code-Interpreter](https://github.com/SeungyounShin/Llama2-Code-Interpreter) - 让 Llama2 使用代码执行, 调试, 保存代码, 重用, 访问 Internet <sub>⭐ 678 · Python</sub>
+- [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) - 一个基于LangGraph的精密代理,通过Polygon.io的实时数据实现财务选项分析自动化,智能缓存,持续内存,以及专业级分析. <sub>⭐ 643 · Python</sub>
+- [towardsai/ragbook-notebooks](https://github.com/towardsai/ragbook-notebooks) - "为生产而建设LLMs"一书的存檔,作者:Footes AI. <sub>⭐ 558 · Jupyter Notebook</sub>
+- [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 使用 Haystack 的示例笔记本集 <sub>⭐ 548 · Jupyter Notebook</sub>
+- [boxuancui/DataExplorer](https://github.com/boxuancui/DataExplorer) - 自动数据勘探和处理 <sub>⭐ 544 · R</sub>
+- [TeamAIQ/Colab-notebooks](https://github.com/TeamAIQ/Colab-notebooks) - 为AI工具收集免费Google Colab和Kaggle笔记本. <sub>⭐ 507 · Jupyter Notebook</sub>
+- [NisaarAgharia/Advanced_RAG](https://github.com/NisaarAgharia/Advanced_RAG) - 高级检索-增强生成(RAG)通过实用笔记本,利用Langchain,OpenAI GPTs,META LLAMA3的功率,Agents. <sub>⭐ 498 · Jupyter Notebook</sub>
+- [Wilson-ZheLin/Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - 由LLMs授权的AI代理,简化了数据分析的整个过程. <sub>⭐ 490 · Python</sub>
+- [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) - 用于数据科学的通用、可变和分布式代理框架和利用。 <sub>⭐ 488 · Python</sub>
+- [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - 研究基因AI在市场营销、标准职业道德和公共关系中的应用的自动化和实验汇编 <sub>⭐ 460 · Jupyter Notebook</sub>
+- [silvanmelchior/IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - 敏感数据的AI代码解释器,由GPT-4或Code Llama / Llama 2提供动力. <sub>⭐ 438 · Python</sub>
+- [tlkh/ai-lab](https://github.com/tlkh/ai-lab) - 用于快速原型化的全能AI容器 <sub>⭐ 435 · JavaScript</sub>
+- [Din829/DbRheo-CLI](https://github.com/Din829/DbRheo-CLI) - 数据库操作和数据分析 AI 代理 <sub>⭐ 431 · Python</sub>
+- [Deep-unlearning/smol-audio](https://github.com/Deep-unlearning/smol-audio) - 实用的、方便Colab的笔记本,用于微调和运行音频AI模型 <sub>⭐ 425 · Jupyter Notebook</sub>
+- [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - 收集的笔记本,烹饪本和食谱展示了使用CrewAI的代理工作流程执行和工具的有趣而有效的方法. <sub>⭐ 422 · Jupyter Notebook</sub>
+- [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - 将代理员丢进正在运行的 Marimo 笔记本会话中 <sub>⭐ 421 · Shell</sub>
+- [NotASithLord/peerd](https://github.com/NotASithLord/peerd) - 浏览器的首个 AI 代理 控制器 。 一个浏览器扩展, 它运行一个您已经工作的全代理循环 : 它驱动您的标签, 旋转到沙盒上的计算( JS 笔记本, WASM Linux...) 。 <sub>⭐ 417 · JavaScript</sub>
+- [indentlabs/notebook](https://github.com/indentlabs/notebook) - Notebook.ai是作家、游戏设计师和角色扮演者创造宏伟宇宙(以及其中的一切)的一套工具。 <sub>⭐ 410 · HTML</sub>
+- [apt-oss/libro](https://github.com/apt-oss/libro) - 具有弹性定制和易集成功能的笔记本. <sub>⭐ 404 · Jupyter Notebook</sub>
+- [computing-intelligence/AI_courses_jupyters_and_slides](https://github.com/computing-intelligence/AI_courses_jupyters_and_slides) - AI/NLP/文本挖掘课程的Jupyter笔记本和幻灯片(2018-2021) <sub>⭐ 402 · Jupyter Notebook</sub>
+- [ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering) - Deplearning.AI和OpenAI的"ChatGPT Express Engineering for Developers"的Jupyter代码笔记本. <sub>⭐ 402 · Jupyter Notebook</sub>
+- [yhilpisch/aiif](https://github.com/yhilpisch/aiif) - Jupyter Notebooks and code for the book in Artificial Intelligence (O'Reilly) 由伊夫斯·希尔皮施(英语:Yves Hilpisch)著,为"金融中的人工智能(英语:Artificial Intelligence in Finance (O'Reilly))"一书提供代码. <sub>⭐ 402 · Jupyter Notebook</sub>
+- [NVIDIA/cuda-q-academic](https://github.com/NVIDIA/cuda-q-academic) - 这种回波包含CUDA-Q学术材料,包括自定节奏的Jupyter笔记本模块,用于使用CUDA-Q构建和优化混合量子经典算法. <sub>⭐ 398 · Jupyter Notebook</sub>
+- [superagent-ai/super-rag](https://github.com/superagent-ai/super-rag) - AI应用程序的超级性能RAG管道. 简写, Retriev/Rerank和代码解释器在一个简单的API中. <sub>⭐ 391 · Python</sub>
+- [microsoft/iq-series](https://github.com/microsoft/iq-series) - IQ系列是微软IQ的亲身体验:微软为企业统一智能层,跨越Foundry IQ,Work IQ和Fabric IQ. 该系列包括视频. . <sub>⭐ 381 · Jupyter Notebook</sub>
+- [TakatoHonda/sui-lang](https://github.com/TakatoHonda/sui-lang) - QQ (Sui) - 为 LLM 代码生成优化的编程语言 <sub>⭐ 371 · Python</sub>
+- [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - NotebookMLX - NotebookLM(移植的NotebookLlama)的开源版本 <sub>⭐ 356 · Jupyter Notebook</sub>
+- [dbcodeio/public](https://github.com/dbcodeio/public) - VS代码, cursor, and Windsurf. 80+数据库:Postgres, MySQL, SQL Server, MongoDB, Snowflake 等. AI查询,ER图表,SQL笔记本. <sub>⭐ 352</sub>
+- [plmbr/notebook-intelligence](https://github.com/plmbr/notebook-intelligence) - 一个JupyterLab扩展支持Claude Code,Copilot,Ollama,和OpenAI兼容的LLMs,具有MCP,技能,插件和笔记本代理. <sub>⭐ 347 · Python</sub>
+- [rochus-keller/Smalltalk](https://github.com/rochus-keller/Smalltalk) - 原始 Xerox Smalltalk-80 v2 源和虚拟图像文件的解析器、代码模型、解释器和可导航浏览器 <sub>⭐ 319 · C++</sub>
+- [dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024](https://github.com/dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024) - 这个寄存器将包含所有演示,内容,手提笔记本,用于全天的Generative AI研讨会,为DataHack峰会2024培训,精细调整大语言模型. . <sub>⭐ 317 · Jupyter Notebook</sub>
+- [microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets) - Azure的人工智能地球数据集的笔记本和文件 <sub>⭐ 316 · Jupyter Notebook</sub>
+- [zorost/AI-Engineering-Lab](https://github.com/zorost/AI-Engineering-Lab) - 免费的,自定节奏的24周AI工程课程:Python,机器学习,LLMS,RAG,微调,代理和MCP,Azure and Vertex和Bedrock,以及Databricks. 43本可操作笔记本,1本连续... <sub>⭐ 313 · Jupyter Notebook</sub>
+- [MrGreyfun/Local-Code-Interpreter](https://github.com/MrGreyfun/Local-Code-Interpreter) - 本地实施OpenAI的ChatGPT代码解释器. <sub>⭐ 307 · Python</sub>
+- [ai-analyst-lab/ai-analyst](https://github.com/ai-analyst-lab/ai-analyst) - AI 产品分析员-克劳德编码动力数据分析工具包 <sub>⭐ 304 · Python</sub>
+- [Oft3r/agentic-trading-desk](https://github.com/Oft3r/agentic-trading-desk) - 通过Robinhood MCP对股票和ETF进行短期技术分析的AI辅助交易台. Deterministic Python引擎在三柱框架(Trend – Momentum →...)上对每项资产评分. <sub>⭐ 304 · Python</sub>
+- [mrm8488/shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks) - 存储我创建和共享的 Google Colaboratory Notebook 的回购 <sub>⭐ 284 · Jupyter Notebook</sub>
+- [dbpunk-labs/octogen](https://github.com/dbpunk-labs/octogen) - Octogen 是一个开源代码解释代理框架 <sub>⭐ 282 · Python</sub>
+- [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - 包含与奥赖利2017年NYC AI大会上给出的"深度强化学习教程"相关的Jupyter笔记本. <sub>⭐ 276 · Jupyter Notebook</sub>
+- [FireBird-Technologies/Auto-Analyst-Streamlit](https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit) - AI 数据科学家 <sub>⭐ 275 · Python</sub>
+- [Kotlin/Kotlin-AI-Examples](https://github.com/Kotlin/Kotlin-AI-Examples) - 以"春天AI","LangChain4j"等AI框架为特色的以科特林为主的例子集,以及更多——完整地用科特林笔记本进行实践学习. <sub>⭐ 270 · Jupyter Notebook</sub>
+- [iamgreggarcia/codesherpa](https://github.com/iamgreggarcia/codesherpa) - 一个代码解释器和ChatGPT插件. <sub>⭐ 255 · TypeScript</sub>
+- [ESIPFed/Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - 地球科学的人工智能(AI)教程,笔记本,软件,数据集,课程,图书,视频讲座和论文目录,贡献最受欢迎. <sub>⭐ 251</sub>
+- [index-labs/evalgpt](https://github.com/index-labs/evalgpt) - EvalGPT是一个代码解释框架,它利用大型语言模型实现代码写入和执行过程的自动化,为用户定义的任务提供精确的结果. <sub>⭐ 249 · Go</sub>
+- [quantbelt/jupyter-quant](https://github.com/quantbelt/jupyter-quant) - 一个被打乱的朱皮特四重体研究环境. <sub>⭐ 247 · Shell</sub>
+- [ogbinar/DataEngineeringPilipinas](https://github.com/ogbinar/DataEngineeringPilipinas) - 数据工程(Data Engineering Pilipinas)是一个面向数据工程师,数据分析师,数据科学家,开发者,AI/ML工程师,以及封闭和开源数据工具和方法/技术的用户的社区. <sub>⭐ 237 · HTML</sub>
+- [ocademy-ai/machine-learning](https://github.com/ocademy-ai/machine-learning) - 免费学习人工智能,为每个人提供人工智能的学习和教学资源。 <sub>⭐ 231 · Jupyter Notebook</sub>
+- [Anaconda-Labs/building-intelligent-apps-with-anaconda](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) - 用于构建AI-native应用程序的10个组件模块。从数据分析到多代理模型的牵引,为好奇学习者和认真的AI构建者提供. <sub>⭐ 227 · Jupyter Notebook</sub>
+- [walkinglabs/modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook) - 现代LLM架构的实践课程,培训,和推论,有一步步的PyTorch执行和可操作笔记本. <sub>⭐ 224 · Jupyter Notebook</sub>
+- [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - 音乐视频制作与基因AI的端到端自动化的笔记本和工具 <sub>⭐ 219 · Jupyter Notebook</sub>
+- [HPInc/AI-Blueprints](https://github.com/HPInc/AI-Blueprints) - 这个寄存器主机正在不断收集使用Jupyter笔记本,MLflow部署和Stremplit网络应用运行端到端的AI蓝图项目。所有项目都是使用HP AI Studio来构建的. . <sub>⭐ 216 · Jupyter Notebook</sub>
+- [towardsai/agent-course-notebooks](https://github.com/towardsai/agent-course-notebooks) - 这是面向AI的"Agenic AI Engineering"课程的寄存器. <sub>⭐ 214 · Jupyter Notebook</sub>
+- [GitiHubi/deepAI](https://github.com/GitiHubi/deepAI) - 使用深自动编码神经网络检测会计异常——我们为NVIDIA的GPU技术会议2018准备的实验室,将引导你通过检测会计. . <sub>⭐ 210 · Jupyter Notebook</sub>
+- [InfiAgent/InfiAgent](https://github.com/InfiAgent/InfiAgent) - InfiAgent-DA Bench:数据分析任务评估代理(ICML 2024) <sub>⭐ 207 · Python</sub>
+- [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) - 连接 DSH 到您的数据库中进行对话数据分析和可操作的商业洞察. <sub>⭐ 201 · JavaScript</sub>
+- [milaan9/92_Python_Games](https://github.com/milaan9/92_Python_Games) - 这个寄存器包含我所研究的 Python 游戏。 您可以学习如何用 AI 创建 python 游戏。 我在 Jupyter-notebook 中试图专注于创建没有 GUI 的棋盘游戏 。 <sub>⭐ 198 · Jupyter Notebook</sub>
+- [blobcity/autoai](https://github.com/blobcity/autoai) - Python 基于返回和分类自动AI的架构超过数值数据。执行模型搜索、超参数调制和高质量的Jupyter Notebook代码生成。 <sub>⭐ 186 · Python</sub>
+- [gsurma/image_classifier](https://github.com/gsurma/image_classifier) - Keras Notebook 中执行的CNN图像分类器 。 <sub>⭐ 185 · Jupyter Notebook</sub>
+- [PsorTheDoctor/artificial-intelligence](https://github.com/PsorTheDoctor/artificial-intelligence) - AI项目在蟒蛇,多为朱皮特笔记本. <sub>⭐ 183 · Jupyter Notebook</sub>
+- [shaunthecomputerscientist/EDA-GPT](https://github.com/shaunthecomputerscientist/EDA-GPT) - 利用能力进行自动数据分析 <sub>⭐ 182 · HTML</sub>
+- [mileszim/awesome-vector-database](https://github.com/mileszim/awesome-vector-database) - 真棒矢量 DB 资源列表 <sub>⭐ 181</sub>
+- [dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025](https://github.com/dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025) - 这个寄存器将包含所有演示,内容,操作的蟒蛇笔记本,为全天的关于构建简单而复杂的特工,部署与监控AI特工的代理AI工作坊. . <sub>⭐ 180 · Jupyter Notebook</sub>
+- [pragunbhutani/dbt-llm-agent](https://github.com/pragunbhutani/dbt-llm-agent) - 基于 LLM 的 AI 代理, 用远程 MCP 服务器实现 dbt 项目数据自动分析 <sub>⭐ 180 · Python</sub>
+- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - 语义分解大深度的背景编码:从互联网图片LiteFlowNet学习单维深度预测:一个光学流估计的轻量级进化神经网络. . <sub>⭐ 179</sub>
+- [IBM/watsonx-ai-samples](https://github.com/IBM/watsonx-ai-samples) - IBM watsonx.ai 样本模型,笔记本和应用程序. <sub>⭐ 176 · HTML</sub>
+- [gaasher/Agent-Loop-Skills](https://github.com/gaasher/Agent-Loop-Skills) - 循环直到更好——滴滴代理循环(自动研究,科学写作,数据分析,代码/SQL/即时优化,红调)作为开放标准代理技能. 校验-加成; 土生土长... <sub>⭐ 173 · Python</sub>
+- [kochgroup/intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - 尤皮特笔记集,旨在向生活科学学生传授深层学习知识. <sub>⭐ 168 · Jupyter Notebook</sub>
+- [dadiaomengmeimei/claude-code-sourcemap-learning-notebook](https://github.com/dadiaomengmeimei/claude-code-sourcemap-learning-notebook) - 逆向工程 Claude Code的512K+线 TypeScript——建筑,设计决定,以及11种可转让的建筑AI Agents模式 <sub>⭐ 166</sub>
+- [dcavar/python-tutorial-notebooks](https://github.com/dcavar/python-tutorial-notebooks) - Python 教程作为 NLP, ML, AI 的 Jupyter 注解本 <sub>⭐ 166 · Jupyter Notebook</sub>
+- [leezhuuuuu/Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - 致力于成为世界上最优秀的密码翻译家. <sub>⭐ 166 · Python</sub>
+- [johnmaeda/SK-Recipes](https://github.com/johnmaeda/SK-Recipes) - C#笔记本的集合 让你尽快开始 与语义科内尔(Semantic Kernel). <sub>⭐ 165 · Jupyter Notebook</sub>
+- [datalayer/jupyter-ai-agents](https://github.com/datalayer/jupyter-ai-agents) - AI 具有 MCP 工具和技能的代理 JupyterLab — 与您的Notebook聊天并执行代码. <sub>⭐ 163 · Jupyter Notebook</sub>
+- [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win) - 构建AI驱动的安全工具. 50+操作实验室,涵盖ML,LLMS,RAG,威胁检测,DFIR,以及红色团队化. 包括Colab笔记本,Docker环境,以及CTF挑战. <sub>⭐ 163 · Python</sub>
+- [jbeno/cursor-notebook-mcp](https://github.com/jbeno/cursor-notebook-mcp) - 模式上下文协议(MCP)服务器,旨在允许Cursor内部的AI代理与Jupyter Notebook (.ipynb) 文件交互 <sub>⭐ 161 · Python</sub>
+- [medwatt/gmid](https://github.com/medwatt/gmid) - gm/Id设计工具包:查询表、设计图表和模拟电路的自动多极器尺寸 <sub>⭐ 160 · Python</sub>
+- [CausalAIBook/MetricsMLNotebooks](https://github.com/CausalAIBook/MetricsMLNotebooks) - 由ML和AI提供动力的应用原因推论笔记本 <sub>⭐ 157 · Jupyter Notebook</sub>
+- [shukur-alom/leaf-diseases-detect](https://github.com/shukur-alom/leaf-diseases-detect) - AI叶病检测系统,FastAPI + 使用Llama Vision(Groq)对所有疾病进行流化,严重程度和治疗建议 <sub>⭐ 153 · Python</sub>
+- [mtwn105/decipher-research-agent](https://github.com/mtwn105/decipher-research-agent) - 将话题,链接,文件转换成AI生成的研究笔记本——总结,探索,问什么. <sub>⭐ 152 · TypeScript</sub>
+- [HugoBlox/hugo-theme-data-science-blog](https://github.com/HugoBlox/hugo-theme-data-science-blog) - 发布 Jupyter 笔记本作为博客文章,而不是截图。 AI 生成页面, 您拥有 Markdown 。 LaTeX, 语法突出显示, 美人鱼图。 永远免费 。 @ @ @ @ jupyter <sub>⭐ 149 · Jupyter Notebook</sub>
+- [zjunlp/DataMind](https://github.com/zjunlp/DataMind) - (ICLR/AAAI/KDD/EMNLP2026)开放源代码LLM数据分析代理商 <sub>⭐ 147 · Python</sub>
+- [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) - 你最好的Ai分离的大脑! 一个可变的,本地第一的人工智能工作室 在那里,代理,知识和日常的工作聚集在一起。 <sub>⭐ 146 · TypeScript</sub>
+- [ListenNotes/notebooklm-detector](https://github.com/ListenNotes/notebooklm-detector) - 检测 NotebookLM 是否生成音频文件 <sub>⭐ 145 · Python</sub>
+- [omarsar/pytorch_notebooks](https://github.com/omarsar/pytorch_notebooks) - PyTorch 用于学习和练习深层学习的笔记本集 <sub>⭐ 142 · Jupyter Notebook</sub>
+- [roebius/deeplearning_keras2](https://github.com/roebius/deeplearning_keras2) - 与Keras 2和Python 3. 一起修改用于学习的速成.ai深层课程笔记本。 <sub>⭐ 141 · Jupyter Notebook</sub>
+- [olonok69/LLM_Notebooks](https://github.com/olonok69/LLM_Notebooks) - 关于Generative Ai、LLMS、MLOPS、NLP、CV和Graph数据库的笔记本和代码 <sub>⭐ 140 · Jupyter Notebook</sub>
+- [SudoKrondor/EliteIntel](https://github.com/SudoKrondor/EliteIntel) - 精英危险LLM侧脚和数据分析器 <sub>⭐ 140 · Java</sub>
+- [avikumart/LLM-GenAI-Transformers-Notebooks](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks) - 包含所有 LLM 笔记本的仓库, 包括教程和工程 <sub>⭐ 138 · Jupyter Notebook</sub>
+- [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server) - KiCad EDA 的 MCP 服务器 - 分析图谱和多氯联苯, 痕量针级连接, 自动化设计编辑。 用任何 MCP 兼容的 AI 工具工作 <sub>⭐ 137 · Python</sub>
+- [LibreChat-AI/code-interpreter](https://github.com/LibreChat-AI/code-interpreter) - Sandboxed代码执行 API for AI 代理: 权力 LibreChat的代码解释器 <sub>⭐ 134 · TypeScript</sub>
+- [probabl-ai/skills](https://github.com/probabl-ai/skills) - 用于守护AI代理的表型数据科学技能 <sub>⭐ 133 · Python</sub>
+- [aws-samples/aws-research-workshops](https://github.com/aws-samples/aws-research-workshops) - 这个Repo提供了管理好的SageMaker jupyter笔记本,上面有数个笔记本,用于在数据湖,AI/ML,Batch,IoT,和基因组学中操作车间. <sub>⭐ 130 · Jupyter Notebook</sub>
+- [Agentic-Analyst/stock-analyst](https://github.com/Agentic-Analyst/stock-analyst) - VYNN AI Agent Backend是一个独立的代理执行系统,用于财务分析,它协调基于LLM的代理来刮去历史财务数据,建立估值模型,实时分析. . <sub>⭐ 128 · Python</sub>
+- [monuminu/AOAI_Samples](https://github.com/monuminu/AOAI_Samples) - 端到端的Azure AI样本——用于Azure OpenAI,Azure ML和AI搜索的笔记本和片段 <sub>⭐ 124 · Jupyter Notebook</sub>
+- [pappasam/nvim-repl](https://github.com/pappasam/nvim-repl) - 更好的RAPLs在nvim 011+,支持辅助器(AI),ipython,utop,以及更多! <sub>⭐ 124 · Vim Script</sub>
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi是一个编译器备份的编码代理,它将您的代码库编译成一个解析的,可查询的调用,数据流,引用和类层次图;然后读取,解释,运行,编辑和. <sub>⭐ 121 · Python</sub>
+- [ashishpatel26/AIAgentWorkshop](https://github.com/ashishpatel26/AIAgentWorkshop) - AI代理Work商店包括来自Corepython的代理,使用CrewAI和SmolAgent <sub>⭐ 117 · Jupyter Notebook</sub>
+- [shaoanlu/deeplearning.ai-Convolutional-Neural-Networks](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks) - 完成了革命神经网络基金会的Jupyter笔记本,深层学习.ai课程 <sub>⭐ 117 · Jupyter Notebook</sub>
 
 ## 🧹 数据准备、预测与 AutoML
 
 > 数据清洗、时间序列和自动化建模。
 
-- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. <sub>⭐ 34.1k · Python</sub>
-- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly. <sub>⭐ 23.8k</sub>
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. <sub>⭐ 20.4k · Python</sub>
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure. <sub>⭐ 14.9k · Jupyter Notebook</sub>
-- [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code <sub>⭐ 10.8k · Python</sub>
-- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <sub>⭐ 10.1k · Jupyter Notebook</sub>
-- [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series <sub>⭐ 10.1k · Python</sub>
-- [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. <sub>⭐ 9.9k · Python</sub>
-- [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series. <sub>⭐ 9.5k · Python</sub>
-- [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning <sub>⭐ 9.3k · Python</sub>
-- [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn <sub>⭐ 8.1k · Python</sub>
-- [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering <sub>⭐ 7.7k · Python</sub>
-- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net)… <sub>⭐ 7.5k · Jupyter Notebook</sub>
-- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and… <sub>⭐ 6.5k · Python</sub>
-- [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Python Pytorch fastai / State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai <sub>⭐ 6.1k · Jupyter Notebook</sub>
-- [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Time Series Forecasting <sub>⭐ 6.0k · Python</sub>
+- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM(Time Series Foundation Model)是谷歌研究公司为时间序列预测开发的预训时间序列基础模型. <sub>⭐ 34.1k · Python</sub>
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - Python 图书馆的排名列表,每周更新. <sub>⭐ 23.8k</sub>
+- [facebook/prophet](https://github.com/facebook/prophet) - 用于对具有多个季节性且有线性或非线性增长的时间序列数据进行高质量预测的工具. <sub>⭐ 20.4k · Python</sub>
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - 由模型组织起来的艺术先进深层学习脚本——在企业级基础设施上便于以可复制的精度和性能进行培训和部署. <sub>⭐ 14.9k · Jupyter Notebook</sub>
+- [autogluon/autogluon](https://github.com/autogluon/autogluon) - 快速和精确的 ML 在 3 行代码中 <sub>⭐ 10.8k · Python</sub>
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - 一个Python自动化机器学习工具,利用基因编程优化机器学习管道. <sub>⭐ 10.1k · Jupyter Notebook</sub>
+- [sktime/sktime](https://github.com/sktime/sktime) - 具有时间序列的机器学习统一框架 <sub>⭐ 10.1k · Python</sub>
+- [pycaret/pycaret](https://github.com/pycaret/pycaret) - 开源,用于Python的低码自动ML平台. PyCaret 4.0:sclearn-native引擎+React控制平面. <sub>⭐ 9.9k · Python</sub>
+- [unit8co/darts](https://github.com/unit8co/darts) - 用于实时序列上方便用户预测和异常检测的蟒蛇库. <sub>⭐ 9.5k · Python</sub>
+- [keras-team/autokeras](https://github.com/keras-team/autokeras) - 用于深层学习的自动ML 库 <sub>⭐ 9.3k · Python</sub>
+- [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - 使用 scikit- Learn 的自动机器学习 <sub>⭐ 8.1k · Python</sub>
+- [alteryx/featuretools](https://github.com/alteryx/featuretools) - 用于自动特性工程的开源 Python 库 <sub>⭐ 7.7k · Python</sub>
+- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O是一个开源,分布,快速和可扩展的机器学习平台:深层学习,渐变助推(GBM)&XGBoost,随机森林,通用线性模型(GLM with Elastic Net)...... <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats,一个分析时间序列数据的工具包,一个轻量级,易于使用,可概括,可扩展的框架来进行时间序列分析,从了解关键统计数据和. <sub>⭐ 6.5k · Python</sub>
+- [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - 时间序列 深学习机 学习 Python Pytorch fastai / 时代序列和顺序 学习库 / fastai <sub>⭐ 6.1k · Jupyter Notebook</sub>
+- [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: 时间序列预测预选模型 <sub>⭐ 6.0k · Python</sub>
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML: 从管道到代理的一款AI平台. https://zenml.io. <sub>⭐ 5.6k · Python</sub>
-- [awslabs/gluonts](https://github.com/awslabs/gluonts) - Probabilistic time series modeling in Python <sub>⭐ 5.2k · Python</sub>
-- [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models. <sub>⭐ 4.9k · Python</sub>
-- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP. <sub>⭐ 4.4k · Jupyter Notebook</sub>
-- [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects <sub>⭐ 4.2k</sub>
-- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's… <sub>⭐ 4.0k · Jupyter Notebook</sub>
-- [quark0/darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks <sub>⭐ 4.0k · Python</sub>
-- [astroautomata/PySR](https://github.com/astroautomata/PySR) - Symbolic Learning in Python and Julia <sub>⭐ 3.8k · Python</sub>
-- [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning <sub>⭐ 3.4k · Python</sub>
-- [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation <sub>⭐ 3.3k · Python</sub>
-- [ddz16/TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the… <sub>⭐ 3.2k</sub>
-- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code <sub>⭐ 3.1k · Python</sub>
-- [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) - A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series. <sub>⭐ 3.0k</sub>
-- [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - A Hyperparameter Tuning Library for Keras <sub>⭐ 2.9k · Python</sub>
-- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications. <sub>⭐ 2.9k · Python</sub>
-- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [yuqinie98/PatchTST](https://github.com/yuqinie98/PatchTST) - An offical implementation of PatchTST: "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers." (ICLR 2023) https://arxiv.org/abs/2211.14730 <sub>⭐ 2.7k · Python</sub>
-- [KimMeen/Time-LLM](https://github.com/KimMeen/Time-LLM) - (ICLR 2024) Official implementation of " Time-LLM: Time Series Forecasting by Reprogramming Large Language Models" <sub>⭐ 2.7k · Python</sub>
-- [automl/Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch <sub>⭐ 2.5k · Python</sub>
-- [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - (AAAI-23 Oral) Official implementation of the paper "Are Transformers Effective for Time Series Forecasting?" <sub>⭐ 2.5k · Python</sub>
-- [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM… <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine <sub>⭐ 2.4k · Scala</sub>
-- [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms. <sub>⭐ 2.4k · Python</sub>
-- [D-X-Y/Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) - Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis) <sub>⭐ 2.3k · Python</sub>
-- [AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast) - Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting). <sub>⭐ 2.3k · Python</sub>
-- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning <sub>⭐ 2.3k · Scala</sub>
-- [thuml/iTransformer](https://github.com/thuml/iTransformer) - Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting" (ICLR 2024 Spotlight) <sub>⭐ 2.2k · Python</sub>
-- [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS) - A Python toolkit/library for reality-centric machine/deep learning & data mining on partially-observed time series, with 50+ SOTA neural network models for scientific analysis tasks (imputation… <sub>⭐ 2.1k · Python</sub>
-- [kwuking/TimeMixer](https://github.com/kwuking/TimeMixer) - (ICLR 2024) Official implementation of "TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting" <sub>⭐ 2.0k · Python</sub>
-- [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all) - (ICLR 2020) Once for All: Train One Network and Specialize it for Efficient Deployment <sub>⭐ 2.0k · Python</sub>
-- [GoogleCloudPlatform/java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com <sub>⭐ 1.9k · Java</sub>
-- [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request. <sub>⭐ 1.9k · Python</sub>
-- [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it. <sub>⭐ 1.9k · Python</sub>
-- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. <sub>⭐ 1.9k · TypeScript</sub>
-- [microsoft/Cream](https://github.com/microsoft/Cream) - This is a collection of our NAS and Vision Transformer work. <sub>⭐ 1.8k · Python</sub>
-- [GestaltCogTeam/BasicTS](https://github.com/GestaltCogTeam/BasicTS) - A Fair and Scalable Time Series Forecasting Benchmark and Toolkit. <sub>⭐ 1.8k · Python</sub>
-- [KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost](https://github.com/KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost) - A comprehensive time-series benchmark evaluating state-of-the-art deep learning architectures (PatchTST, TFT, N-HiTS) against traditional gradient boosting (CatBoost) for accurate 24-hour load… <sub>⭐ 1.8k · Python</sub>
-- [decisionintelligence/TFB](https://github.com/decisionintelligence/TFB) - (PVLDB 2024 Best Paper Nomination) TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods <sub>⭐ 1.7k · Shell</sub>
-- [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function. <sub>⭐ 1.7k · Python</sub>
-- [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes <sub>⭐ 1.7k · Python</sub>
-- [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System <sub>⭐ 1.7k · Python</sub>
-- [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - (UNMAINTAINED) Automated machine learning for analytics & production <sub>⭐ 1.7k · Python</sub>
-- [qingsongedu/awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) - A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals. <sub>⭐ 1.6k</sub>
-- [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - Unified Training of Universal Time Series Forecasting Transformers <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch. <sub>⭐ 1.6k · Python</sub>
-- [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama) - Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting <sub>⭐ 1.6k · Python</sub>
-- [D-X-Y/AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch. <sub>⭐ 1.6k · Python</sub>
-- [tobegit3hub/advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - An agentic Machine Learning Engineer <sub>⭐ 1.6k · Python</sub>
-- [skforecast/skforecast](https://github.com/skforecast/skforecast) - Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models <sub>⭐ 1.5k · Python</sub>
-- [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. <sub>⭐ 1.5k · Python</sub>
-- [sb-ai-lab/LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - Fast and customizable framework for automatic ML model creation (AutoML) <sub>⭐ 1.5k · Python</sub>
-- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models. <sub>⭐ 1.5k · Rust</sub>
-- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for time series machine learning and deep learning <sub>⭐ 1.5k · Python</sub>
-- [mit-han-lab/proxylessnas](https://github.com/mit-han-lab/proxylessnas) - (ICLR 2019) ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware <sub>⭐ 1.4k · C++</sub>
-- [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS) - Automated Time Series Forecasting <sub>⭐ 1.4k · Python</sub>
-- [MedMNIST/MedMNIST](https://github.com/MedMNIST/MedMNIST) - (pip install medmnist) 18x Standardized Datasets for 2D and 3D Biomedical Image Classification <sub>⭐ 1.4k · Python</sub>
-- [zalandoresearch/pytorch-ts](https://github.com/zalandoresearch/pytorch-ts) - PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend <sub>⭐ 1.4k · Python</sub>
-- [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear) <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [open-edge-platform/geti](https://github.com/open-edge-platform/geti) - Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported). <sub>⭐ 1.3k · Python</sub>
-- [Nixtla/mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning for time series forecasting. <sub>⭐ 1.3k · Python</sub>
-- [rsvp/fecon235](https://github.com/rsvp/fecon235) - Notebooks for financial economics. Keywords: Jupyter notebook pandas Federal Reserve FRED Ferbus GDP CPI PCE inflation unemployment wage income debt Case-Shiller housing asset portfolio equities SPX… <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [automl/SMAC3](https://github.com/automl/SMAC3) - SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization <sub>⭐ 1.3k · Python</sub>
-- [qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) - A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data. <sub>⭐ 1.2k</sub>
-- [DeepWisdom/AutoDL](https://github.com/DeepWisdom/AutoDL) - Automated Deep Learning without ANY human intervention. 1'st Solution for AutoDL challenge@NeurIPS. <sub>⭐ 1.2k · Python</sub>
-- [functime-org/functime](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data. <sub>⭐ 1.2k · Python</sub>
-- [robjhyndman/forecast](https://github.com/robjhyndman/forecast) - Forecasting Functions for Time Series and Linear Models <sub>⭐ 1.2k · R</sub>
-- [THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs. <sub>⭐ 1.1k · Python</sub>
-- [serengil/tensorflow-101](https://github.com/serengil/tensorflow-101) - TensorFlow 101: Introduction to Deep Learning <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [curiousily/Deep-Learning-For-Hackers](https://github.com/curiousily/Deep-Learning-For-Hackers) - Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tuning, Data preprocessing, Bias-variance tradeoff, Anomaly Detection… <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [google-research/morph-net](https://github.com/google-research/morph-net) - Fast & Simple Resource-Constrained Learning of Deep Network Structure <sub>⭐ 1.0k · Python</sub>
-- [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. Facebook AI Hackathon winner #1 Trending on MadeWithML.com #4 Trending JavaScript Project on GitHub #15 Trending (All Languages)… <sub>⭐ 976 · JavaScript</sub>
-- [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x faster training through evolutionary hyperparameter optimization. <sub>⭐ 955 · Python</sub>
-- [joeddav/devol](https://github.com/joeddav/devol) - Early POC of genetic neural architecture search <sub>⭐ 953 · Python</sub>
-- [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources <sub>⭐ 944</sub>
-- [philipperemy/n-beats](https://github.com/philipperemy/n-beats) - Keras/Pytorch implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. <sub>⭐ 905 · Python</sub>
-- [LongxingTan/Time-series-prediction](https://github.com/LongxingTan/Time-series-prediction) - tfts: Time Series Deep Learning Models in TensorFlow <sub>⭐ 890 · Python</sub>
-- [ScrapingBee/ai-web-scraper](https://github.com/ScrapingBee/ai-web-scraper) - Effortlessly extract data with our AI scraper API. Simplify data extraction, get clean JSON outputs and adapt to page changes. Try it free today! <sub>⭐ 888</sub>
-- [valeman/Transformers_And_LLM_Are_What_You_Dont_Need](https://github.com/valeman/Transformers_And_LLM_Are_What_You_Dont_Need) - The best repository showing why transformers might not be the answer for time series forecasting and showcasing the best SOTA non transformer models. <sub>⭐ 863</sub>
-- [guan-yuan/Awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/Awesome-AutoML-and-Lightweight-Models) - A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.)… <sub>⭐ 855</sub>
-- [moment-timeseries-foundation-model/moment](https://github.com/moment-timeseries-foundation-model/moment) - MOMENT: A Family of Open Time-series Foundation Models, ICML'24 <sub>⭐ 851 · TypeScript</sub>
-- [alteryx/evalml](https://github.com/alteryx/evalml) - EvalML is an AutoML library written in python. <sub>⭐ 850 · Python</sub>
-- [huawei-noah/vega](https://github.com/huawei-noah/vega) - AutoML tools chain <sub>⭐ 848 · Python</sub>
-- [zillow/luminaire](https://github.com/zillow/luminaire) - Luminaire is a python package that provides ML driven solutions for monitoring time series data. <sub>⭐ 811 · Python</sub>
-- [astroautomata/SymbolicRegression.jl](https://github.com/astroautomata/SymbolicRegression.jl) - Distributed High-Performance Symbolic Regression in Julia <sub>⭐ 806 · Julia</sub>
-- [DaoSword/Time-Series-Forecasting-and-Deep-Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) - Resources about time series forecasting and deep learning. <sub>⭐ 805 · Python</sub>
-- [Optim-Agent/optim-agent](https://github.com/Optim-Agent/optim-agent) - LLM agents as your hyperparameter optimizer. <sub>⭐ 800 · Python</sub>
-- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines <sub>⭐ 799 · Jupyter Notebook</sub>
-- [Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN](https://github.com/Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN) - Time series forecasting for individual household power prediction: ARIMA, xgboost, RNN <sub>⭐ 781 · Python</sub>
-- [AutoViML/Auto_TS](https://github.com/AutoViML/Auto_TS) - Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Created by Ram Seshadri. Collaborators welcome. <sub>⭐ 764 · Jupyter Notebook</sub>
-- [jeongyoonlee/Kaggler](https://github.com/jeongyoonlee/Kaggler) - Code for Kaggle Data Science Competitions <sub>⭐ 753 · Python</sub>
-- [shunyaoshih/TPA-LSTM](https://github.com/shunyaoshih/TPA-LSTM) - Temporal Pattern Attention for Multivariate Time Series Forecasting <sub>⭐ 733 · Python</sub>
-- [google/pyglove](https://github.com/google/pyglove) - Manipulating Python Programs <sub>⭐ 722 · Python</sub>
-- [JulesBelveze/time-series-autoencoder](https://github.com/JulesBelveze/time-series-autoencoder) - PyTorch Dual-Attention LSTM-Autoencoder For Multivariate Time Series <sub>⭐ 714 · Python</sub>
-- [tanjeffreyz/auto-maple](https://github.com/tanjeffreyz/auto-maple) - Artificial intelligence for MapleStory that uses machine learning and computer vision to navigate challenging in-game environments <sub>⭐ 714 · Python</sub>
-- [aimclub/FEDOT](https://github.com/aimclub/FEDOT) - Automated modeling and machine learning framework FEDOT <sub>⭐ 711 · Python</sub>
-- [Thinklab-SJTU/Crossformer](https://github.com/Thinklab-SJTU/Crossformer) - Official implementation of our ICLR 2023 paper "Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting" <sub>⭐ 706 · Python</sub>
-- [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python <sub>⭐ 697 · Jupyter Notebook</sub>
-- [ankane/eps](https://github.com/ankane/eps) - Machine learning for Ruby <sub>⭐ 693 · Ruby</sub>
-- [JordiCorbilla/stock-prediction-deep-neural-learning](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning) - Predicting stock prices using a TensorFlow LSTM (long short-term memory) neural network for times series forecasting <sub>⭐ 689 · Python</sub>
-- [cure-lab/SCINet](https://github.com/cure-lab/SCINet) - The GitHub repository for the paper: “Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction“. (NeurIPS 2022) <sub>⭐ 670 · Python</sub>
-- [D-X-Y/NAS-Bench-201](https://github.com/D-X-Y/NAS-Bench-201) - NAS-Bench-201 API and Instruction <sub>⭐ 648 · Python</sub>
-- [mims-harvard/UniTS](https://github.com/mims-harvard/UniTS) - A unified multi-task time series model. <sub>⭐ 647 · Python</sub>
-- [business-science/timetk](https://github.com/business-science/timetk) - Time series analysis in the tidyverse <sub>⭐ 644 · R</sub>
-- [automl/HpBandSter](https://github.com/automl/HpBandSter) - a distributed Hyperband implementation on Steroids <sub>⭐ 632 · Python</sub>
-- [Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) - Implementation/Tutorial of using Automated Machine Learning (AutoML) methods for static/batch and online/continual learning <sub>⭐ 630 · Jupyter Notebook</sub>
-- [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) - TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect anomalies using multiple foundation models through a single… <sub>⭐ 619 · Python</sub>
-- [microsoft/StemGNN](https://github.com/microsoft/StemGNN) - Spectral Temporal Graph Neural Network (StemGNN in short) for Multivariate Time-series Forecasting <sub>⭐ 617 · Python</sub>
-- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML library - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter… <sub>⭐ 612 · Python</sub>
-- [JEddy92/TimeSeries_Seq2Seq](https://github.com/JEddy92/TimeSeries_Seq2Seq) - This repo aims to be a useful collection of notebooks/code for understanding and implementing seq2seq neural networks for time series forecasting. Networks are constructed with keras/tensorflow. <sub>⭐ 611 · Jupyter Notebook</sub>
-- [mlpotter/Transformer_Time_Series](https://github.com/mlpotter/Transformer_Time_Series) - Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting (NeurIPS 2019) <sub>⭐ 602 · Jupyter Notebook</sub>
-- [automl/NASLib](https://github.com/automl/NASLib) - NASLib is a Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers. <sub>⭐ 595 · Python</sub>
-- [tidyverts/fable](https://github.com/tidyverts/fable) - Tidy time series forecasting <sub>⭐ 590 · R</sub>
-- [business-science/modeltime](https://github.com/business-science/modeltime) - Modeltime unlocks time series forecast models and machine learning in one framework <sub>⭐ 584 · R</sub>
-- [thuml/Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers) - Code release for "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting" (NeurIPS 2022), https://arxiv.org/abs/2205.14415 <sub>⭐ 567 · Python</sub>
-- [PacktPublishing/Modern-Time-Series-Forecasting-with-Python](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python) - Modern Time Series Forecasting with Python, published by Packt <sub>⭐ 563 · Jupyter Notebook</sub>
-- [4paradigm/AutoX](https://github.com/4paradigm/AutoX) - AutoX is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data. <sub>⭐ 550 · Jupyter Notebook</sub>
-- [AutoViML/Auto_ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Multiple ML Models with a Single Line of Code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request. <sub>⭐ 548 · Python</sub>
-- [cod3licious/autofeat](https://github.com/cod3licious/autofeat) - Linear Prediction Model with Automated Feature Engineering and Selection Capabilities <sub>⭐ 546 · Python</sub>
-- [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS) - Awesome Easy-to-Use Deep Time Series Modeling based on PaddlePaddle, including comprehensive functionality modules like TSDataset, Analysis, Transform, Models, AutoTS, and Ensemble, etc., supporting… <sub>⭐ 545 · Python</sub>
-- [lucidrains/iTransformer](https://github.com/lucidrains/iTransformer) - Unofficial implementation of iTransformer - SOTA Time Series Forecasting using Attention networks, out of Tsinghua / Ant group <sub>⭐ 540 · Python</sub>
-- [M-Nauta/TCDF](https://github.com/M-Nauta/TCDF) - Temporal Causal Discovery Framework (PyTorch): discovering causal relationships between time series <sub>⭐ 539 · Jupyter Notebook</sub>
-- [HDI-Project/ATM](https://github.com/HDI-Project/ATM) - Auto Tune Models - A multi-tenant, multi-data system for automated machine learning (model selection and tuning). <sub>⭐ 528 · Python</sub>
-- [firmai/atspy](https://github.com/firmai/atspy) - AtsPy: Automated Time Series Models in Python (by @firmai) <sub>⭐ 520 · Python</sub>
-- [thuml/TimeXer](https://github.com/thuml/TimeXer) - Official implementation for "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables" (NeurIPS 2024) <sub>⭐ 520 · Python</sub>
-- [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning. <sub>⭐ 514 · Python</sub>
-- [mindsdb/lightwood](https://github.com/mindsdb/lightwood) - Lightwood is Legos for Machine Learning. <sub>⭐ 511 · Python</sub>
-- [arcelien/pba](https://github.com/arcelien/pba) - Efficient Learning of Augmentation Policy Schedules <sub>⭐ 509 · Jupyter Notebook</sub>
-- [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research. <sub>⭐ 486 · Python</sub>
-- [JAIJANYANI/Automated-Resume-Screening-System](https://github.com/JAIJANYANI/Automated-Resume-Screening-System) - Automated Resume Screening System using Machine Learning (With Dataset) <sub>⭐ 482 · CSS</sub>
-- [openml/automlbenchmark](https://github.com/openml/automlbenchmark) - OpenML AutoML Benchmarking Framework <sub>⭐ 469 · Python</sub>
-- [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning <sub>⭐ 466 · Python</sub>
-- [antoinecarme/pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules. <sub>⭐ 460 · Python</sub>
-- [PriorLabs/tabpfn-time-series](https://github.com/PriorLabs/tabpfn-time-series) - Zero-shot Time Series Forecasting with TabPFN (work accepted at NeurIPS 2024 TRL and TSALM workshops) <sub>⭐ 460 · Python</sub>
-- [deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-](https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-) - Project analyzes Amazon Stock data using Python. Feature Extraction is performed and ARIMA and Fourier series models are made. LSTM is used with multiple features to predict stock prices and then… <sub>⭐ 458 · Jupyter Notebook</sub>
-- [Nixtla/tsfeatures](https://github.com/Nixtla/tsfeatures) - Calculates various features from time series data. Python implementation of the R package tsfeatures. <sub>⭐ 453 · Python</sub>
-- [alibaba/lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search) - This is a collection of our zero-cost NAS and efficient vision applications. <sub>⭐ 452 · Python</sub>
-- [mit-han-lab/amc](https://github.com/mit-han-lab/amc) - (ECCV 2018) AMC: AutoML for Model Compression and Acceleration on Mobile Devices <sub>⭐ 449 · Python</sub>
-- [sapientml/sapientml](https://github.com/sapientml/sapientml) - Generative AutoML for Tabular Data <sub>⭐ 447 · Python</sub>
-- [ts-kim/RevIN](https://github.com/ts-kim/RevIN) - RevIN: Reversible Instance Normalization For Accurate Time-series Forecasting Against Distribution Shift <sub>⭐ 440 · Python</sub>
-- [ankane/prophet-ruby](https://github.com/ankane/prophet-ruby) - Time series forecasting for Ruby <sub>⭐ 437 · Ruby</sub>
-- [FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing](https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing) - Implement Reservoir Computing models for time series classification, clustering, forecasting, and much more! <sub>⭐ 431 · Python</sub>
-- [RamiKrispin/TSstudio](https://github.com/RamiKrispin/TSstudio) - Tools for time series analysis and forecasting <sub>⭐ 428 · R</sub>
-- [GestaltCogTeam/STEP](https://github.com/GestaltCogTeam/STEP) - Code for our SIGKDD'22 paper Pre-training-Enhanced Spatial-Temporal Graph Neural Network For Multivariate Time Series Forecasting. <sub>⭐ 427 · Python</sub>
-- [zhangxu0307/time_series_forecasting_pytorch](https://github.com/zhangxu0307/time_series_forecasting_pytorch) - time series forecasting using pytorch，including ANN,RNN,LSTM,GRU and TSR-RNN，experimental code <sub>⭐ 418 · Python</sub>
-- [carefree0910/carefree-learn](https://github.com/carefree0910/carefree-learn) - Deep Learning PyTorch <sub>⭐ 407 · Python</sub>
-- [mit-han-lab/haq](https://github.com/mit-han-lab/haq) - (CVPR 2019, Oral) HAQ: Hardware-Aware Automated Quantization with Mixed Precision <sub>⭐ 407 · Python</sub>
-- [jackguagua/awesome-nas-papers](https://github.com/jackguagua/awesome-nas-papers) - Awesome Neural Architecture Search Papers <sub>⭐ 404</sub>
-- [ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS) - (UNMAINTAINED) Automated machine learning- just give it a data file! Check out the production-ready version of this project at ClimbsRocks/auto_ml <sub>⭐ 400 · Python</sub>
-- [vincent-leguen/DILATE](https://github.com/vincent-leguen/DILATE) - Code for our NeurIPS 2019 paper "Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models" <sub>⭐ 400 · Python</sub>
-- [wzhwzhwzh0921/S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba) - Code for "Is Mamba Effective for Time Series Forecasting?" <sub>⭐ 397 · Python</sub>
-- [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV. <sub>⭐ 390 · Python</sub>
-- [Pythondeveloper6/Awesome-MLOPS](https://github.com/Pythondeveloper6/Awesome-MLOPS) - All the available resources to master MLOPS from scratch <sub>⭐ 383</sub>
-- [IBM/AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) - A package that makes it trivial to create and evaluate machine learning pipeline architectures. <sub>⭐ 371 · Julia</sub>
-- [nityansuman/warren](https://github.com/nityansuman/warren) - Web app to predict closing stock prices in real time using Facebook's Prophet time series algorithm with a multi-variate, single-step time series forecasting strategy. <sub>⭐ 363 · Jupyter Notebook</sub>
-- [DataCanvasIO/HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - A full pipeline AutoML tool for tabular data <sub>⭐ 360 · Python</sub>
-- [upgini/upgini](https://github.com/upgini/upgini) - Data search & enrichment library for Machine Learning → Easily find and add relevant features to your ML & AI pipeline from hundreds of public and premium external data sources, including open &… <sub>⭐ 358 · Python</sub>
-- [MachineLP/CodeFun](https://github.com/MachineLP/CodeFun) - DataStructure(SwordOffer、LeetCode)、Deep Learning(Tensorflow、Keras、Pytorch)、Machine Learning(sklearn、spark)、AutoML、AutoDL、ModelDeploying、SQL <sub>⭐ 353 · Jupyter Notebook</sub>
-- [IBM/lale](https://github.com/IBM/lale) - Library for Semi-Automated Data Science <sub>⭐ 350 · Python</sub>
-- [William-Liwei/EnergyPatchTST](https://github.com/William-Liwei/EnergyPatchTST) - This is an official implementation of "EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting". <sub>⭐ 347 · Python</sub>
-- [datamllab/autovideo](https://github.com/datamllab/autovideo) - AutoVideo: An Automated Video Action Recognition System <sub>⭐ 342 · Python</sub>
-- [jaungiers/Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series) - Using multidimensional LSTM neural networks to create a forecast for Bitcoin price <sub>⭐ 341 · Jupyter Notebook</sub>
-- [AI4HealthUOL/SSSD](https://github.com/AI4HealthUOL/SSSD) - Repository for the paper: 'Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models' <sub>⭐ 335 · Python</sub>
-- [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - Introduction to time series preprocessing and forecasting in Python using AR, MA, ARMA, ARIMA, SARIMA and Prophet model with forecast evaluation. <sub>⭐ 334 · Jupyter Notebook</sub>
-- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - A machine learning library for Rust. <sub>⭐ 334 · Rust</sub>
-- [EMI-Group/evorl](https://github.com/EMI-Group/evorl) - EvoRL is a fully GPU-accelerated framework for Evolutionary Reinforcement Learning, implemented with JAX. It supports Reinforcement Learning (RL), Evolutionary Computation (EC), Evolution-guided… <sub>⭐ 334 · Python</sub>
-- [jinglescode/time-series-forecasting-pytorch](https://github.com/jinglescode/time-series-forecasting-pytorch) - Acquiring data from Alpha Vantage and predicting stock prices with PyTorch's LSTM <sub>⭐ 331 · Jupyter Notebook</sub>
-- [accel-brain/accel-brain-code](https://github.com/accel-brain/accel-brain-code) - The purpose of this repository is to make prototypes as case study in the context of proof of concept(PoC) and research and development(R&D) that I have written in my website. The main research… <sub>⭐ 328 · Python</sub>
-- [Coder-World04/Time-Series-Analysis-and-Forecasting](https://github.com/Coder-World04/Time-Series-Analysis-and-Forecasting) - This repository contains everything you need to become proficient in Time Series Analysis and Forecasting <sub>⭐ 323</sub>
-- [chenxi116/PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch) - PyTorch implementation of PNASNet-5 on ImageNet <sub>⭐ 321 · Python</sub>
-- [kgmonkhin/ESRNN-GPU](https://github.com/kgmonkhin/ESRNN-GPU) - PyTorch GPU implementation of the ES-RNN model for time series forecasting <sub>⭐ 317 · Python</sub>
-- [naszilla/naszilla](https://github.com/naszilla/naszilla) - Naszilla is a Python library for neural architecture search (NAS) <sub>⭐ 316 · Python</sub>
-- [Alibaba-NLP/ACE](https://github.com/Alibaba-NLP/ACE) - (ACL-IJCNLP 2021) Automated Concatenation of Embeddings for Structured Prediction <sub>⭐ 313 · Python</sub>
-- [TongjiFinLab/awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) - Awesome time series forecasting papers and codes <sub>⭐ 312</sub>
-- [tianyic/only_train_once_personal_footprint](https://github.com/tianyic/only_train_once_personal_footprint) - OTOv1-v3, NeurIPS, ICLR, TMLR, DNN Training, Compression, Structured Pruning, Erasing Operators, CNN, Diffusion, LLM <sub>⭐ 311 · Python</sub>
-- [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning <sub>⭐ 310 · Python</sub>
-- [GestaltCogTeam/STID](https://github.com/GestaltCogTeam/STID) - Code for our CIKM'22 paper Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting. <sub>⭐ 310 · Python</sub>
-- [autogluon/autogluon-assistant](https://github.com/autogluon/autogluon-assistant) - Multi-Agent System Powered by LLMs for End-to-end Multimodal ML Automation <sub>⭐ 307 · Python</sub>
-- [gradsflow/gradsflow-automl](https://github.com/gradsflow/gradsflow-automl) - An open-source AutoML Library based on PyTorch <sub>⭐ 306 · Python</sub>
-- [William-Liwei/SWIFT](https://github.com/William-Liwei/SWIFT) - This is an official implementation of "SWIFT: State-space Wavelet Integrated Forecasting Technology for Enhanced Time Series Prediction". <sub>⭐ 302 · Python</sub>
-- [decisionintelligence/DUET](https://github.com/decisionintelligence/DUET) - (KDD 2025 Most Influential Paper) DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting <sub>⭐ 295 · Shell</sub>
-- [duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network](https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network) - Stanford Project: Artificial Intelligence is changing virtually every aspect of our lives. Today’s algorithms accomplish tasks that until recently only expert humans could perform. As it relates to… <sub>⭐ 295 · Jupyter Notebook</sub>
-- [iterative/terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin for machine learning workloads: spot instance recovery & auto-termination / AWS, GCP, Azure, Kubernetes <sub>⭐ 295 · Go</sub>
-- [vita-epfl/trajnetplusplusbaselines](https://github.com/vita-epfl/trajnetplusplusbaselines) - (ITS'21) Human Trajectory Forecasting in Crowds: A Deep Learning Perspective <sub>⭐ 295 · Python</sub>
-- [LAMPSPUC/StateSpaceModels.jl](https://github.com/LAMPSPUC/StateSpaceModels.jl) - StateSpaceModels.jl is a Julia package for time-series analysis using state-space models. <sub>⭐ 292 · Julia</sub>
-- [DataCanvasIO/HyperTS](https://github.com/DataCanvasIO/HyperTS) - A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit. <sub>⭐ 291 · Python</sub>
-- [PacktPublishing/Time-Series-Analysis-with-Python-Cookbook](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook) - Time Series Analysis with Python Cookbook, published by Packt <sub>⭐ 288 · Jupyter Notebook</sub>
-- [awslabs/adatune](https://github.com/awslabs/adatune) - Gradient based Hyperparameter Tuning library in PyTorch <sub>⭐ 287 · Python</sub>
-- [Secilia-Cxy/SOFTS](https://github.com/Secilia-Cxy/SOFTS) - Official implement for "SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion"(NeurIPS'24) in PyTorch. <sub>⭐ 287 · Python</sub>
-- [Keytoyze/VisionTS](https://github.com/Keytoyze/VisionTS) - Code for our paper "VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters". <sub>⭐ 286 · Python</sub>
-- [GenseeAI/cognify](https://github.com/GenseeAI/cognify) - Multi-Faceted AI Agent and Workflow Autotuning. Automatically optimizes LangChain, LangGraph, DSPy programs for better quality, lower execution latency, and lower execution cost. Also has a simple… <sub>⭐ 280 · Python</sub>
-- [PYFTS/pyFTS](https://github.com/PYFTS/pyFTS) - An open source library for Fuzzy Time Series in Python <sub>⭐ 278 · Python</sub>
-- [lss-1138/SparseTSF](https://github.com/lss-1138/SparseTSF) - (TPAMI 2026 & ICML 2024 Oral) Official repository of the SparseTSF paper: "SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters". This work is developed by the Lab of Professor… <sub>⭐ 275 · Python</sub>
-- [microsoft/finnts](https://github.com/microsoft/finnts) - Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and parallelization on the cloud to produce accurate forecasts… <sub>⭐ 274 · R</sub>
-- [thuml/AutoTimes](https://github.com/thuml/AutoTimes) - Official implementation for "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models" <sub>⭐ 271 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [emadeldeen24/TSLANet](https://github.com/emadeldeen24/TSLANet) - (ICML 2024) A novel, efficient lightweight approach combining convolutional operations with adaptive spectral analysis as a foundation model for different time series tasks <sub>⭐ 267 · Python</sub>
-- [DataCanvasIO/Hypernets](https://github.com/DataCanvasIO/Hypernets) - A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains. <sub>⭐ 266 · Python</sub>
-- [amazon-science/unconditional-time-series-diffusion](https://github.com/amazon-science/unconditional-time-series-diffusion) - Official PyTorch implementation of TSDiff models presented in the NeurIPS 2023 paper "Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting" <sub>⭐ 260 · Python</sub>
-- [bighuang624/DSANet](https://github.com/bighuang624/DSANet) - Code for the CIKM 2019 paper "DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting". <sub>⭐ 260 · Python</sub>
-- [KasperGroesLudvigsen/influenza_transformer](https://github.com/KasperGroesLudvigsen/influenza_transformer) - PyTorch implementation of Transformer model used in "Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case" <sub>⭐ 260 · Python</sub>
-- [mldsveda/PyScrappy](https://github.com/mldsveda/PyScrappy) - Adaptive Python web scraping toolkit + MCP server for AI agents. Self-healing selectors that survive site changes, TLS-fingerprint stealth to bypass anti-bot filters, CSS/XPath parsing, and 24… <sub>⭐ 260 · Python</sub>
-- [Nixtla/transfer-learning-time-series](https://github.com/Nixtla/transfer-learning-time-series) - Transfer Learning for Time Series Forecasting <sub>⭐ 259 · Jupyter Notebook</sub>
-- [GoogleCloudPlatform/automlops](https://github.com/GoogleCloudPlatform/automlops) - Build MLOps Pipelines in Minutes <sub>⭐ 257 · Python</sub>
-- [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - Automation framework for machine learning, forecasting, model evaluation, and interpretation. <sub>⭐ 251 · R</sub>
-- [aikunyi/FourierGNN](https://github.com/aikunyi/FourierGNN) - Official implementation of the paper "FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective" <sub>⭐ 250 · Python</sub>
-- [barisozmen/deepaugment](https://github.com/barisozmen/deepaugment) - Discover augmentation strategies tailored for your dataset <sub>⭐ 250 · Python</sub>
-- [EpistasisLab/tpot2](https://github.com/EpistasisLab/tpot2) - DEPRECATED. The work in this repository was merged into the main TPOT project as version 1.0. Please visit the active repository here: https://github.com/EpistasisLab/tpot/tree/main A Python… <sub>⭐ 250 · Jupyter Notebook</sub>
-- [haofanwang/Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision) - Awesome Resources for Advanced Computer Vision Topics <sub>⭐ 249</sub>
-- [plumprc/MTS-Mixers](https://github.com/plumprc/MTS-Mixers) - MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing <sub>⭐ 249 · Python</sub>
-- [rakshitha123/TSForecasting](https://github.com/rakshitha123/TSForecasting) - This repository contains the implementations related to the experiments of a set of publicly available datasets that are used in the time series forecasting research space. <sub>⭐ 245 · R</sub>
-- [getml/getml-community](https://github.com/getml/getml-community) - Fast, high-quality forecasts on relational and multivariate time-series data powered by new feature learning algorithms and automated ML. <sub>⭐ 244 · C++</sub>
-- [ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python) - Time Series Analysis and Forecasting in Python <sub>⭐ 242 · Jupyter Notebook</sub>
-- [py-why/causaltune](https://github.com/py-why/causaltune) - AutoML for causal inference. <sub>⭐ 242 · Jupyter Notebook</sub>
-- [thuml/Koopa](https://github.com/thuml/Koopa) - Code release for "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors" (NeurIPS 2023), https://arxiv.org/abs/2305.18803 <sub>⭐ 242 · Python</sub>
-- [WenjieDu/TSDB](https://github.com/WenjieDu/TSDB) - a Python toolbox loads 173 public time series datasets for machine/deep learning with a single line of code. Datasets from multiple domains including healthcare, financial, power, traffic, weather… <sub>⭐ 242 · Python</sub>
-- [ACAT-SCUT/CycleNet](https://github.com/ACAT-SCUT/CycleNet) - (NeurIPS 2024 Spotlight) Official repository of the CycleNet paper: "CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns". This work is developed by the Lab of Professor… <sub>⭐ 240 · Jupyter Notebook</sub>
-- [laresbernardo/lares](https://github.com/laresbernardo/lares) - Analytics & Machine Learning R Sidekick <sub>⭐ 240 · R</sub>
-- [Alex-Lekov/AutoML_Alex](https://github.com/Alex-Lekov/AutoML_Alex) - State-of-the art Automated Machine Learning python library for Tabular Data <sub>⭐ 238 · Python</sub>
-- [EpistasisLab/Aliro](https://github.com/EpistasisLab/Aliro) - Aliro: AI-Driven Data Science <sub>⭐ 238 · JavaScript</sub>
-- [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud. <sub>⭐ 237 · Jupyter Notebook</sub>
-- [XiongxiaoXu/SST](https://github.com/XiongxiaoXu/SST) - The code of CIKM'25 paper: "SST: Multi-Scale Hybrid Mamba-Transformer Experts for Time Series Forecasting" <sub>⭐ 235 · Python</sub>
-- [jackyue1994/OLinear](https://github.com/jackyue1994/OLinear) - Multivariate time series forecasting <sub>⭐ 233 · Jupyter Notebook</sub>
-- [qianlima-lab/time-series-ptms](https://github.com/qianlima-lab/time-series-ptms) - This is an official implementation code for paper "A Survey on Time-Series Pre-Trained Models" (TKDE-24). <sub>⭐ 230 · Python</sub>
-- [aikunyi/FilterNet](https://github.com/aikunyi/FilterNet) - Official implementation of the paper "FilterNet: Harnessing Frequency Filters for Time Series Forecasting" <sub>⭐ 226 · Python</sub>
-- [carlomazzaferro/scikit-hts](https://github.com/carlomazzaferro/scikit-hts) - Hierarchical Time Series Forecasting with a familiar API <sub>⭐ 225 · Python</sub>
-- [crawles/automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask <sub>⭐ 225 · Jupyter Notebook</sub>
-- [YoZhibo/MSGNet](https://github.com/YoZhibo/MSGNet) - MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting (AAAI2024) <sub>⭐ 224 · Python</sub>
-- [Hank0626/TimeBridge](https://github.com/Hank0626/TimeBridge) - Official implementation of "TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting" (ICML 2025) <sub>⭐ 223 · Python</sub>
-- [Atik-Ahamed/TimeMachine](https://github.com/Atik-Ahamed/TimeMachine) - TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting <sub>⭐ 221 · Python</sub>
-- [HuaizhengZhang/Active-Learning-as-a-Service](https://github.com/HuaizhengZhang/Active-Learning-as-a-Service) - A scalable & efficient active learning/data selection system for everyone. <sub>⭐ 221 · Python</sub>
-- [gia-uh/autogoal](https://github.com/gia-uh/autogoal) - A Python framework for program synthesis with a focus on Automated Machine Learning. <sub>⭐ 215 · Python</sub>
-- [JinleiZhangBJTU/ResNet-LSTM-GCN](https://github.com/JinleiZhangBJTU/ResNet-LSTM-GCN) - Code for Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit <sub>⭐ 215 · Python</sub>
-- [PacktPublishing/Modern-Time-Series-Forecasting-with-Python-2E](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python-2E) - Modern Time Series Forecasting with Python 2E, Published by Packt <sub>⭐ 213 · Jupyter Notebook</sub>
-- [microsoft/ProbTS](https://github.com/microsoft/ProbTS) - ProbTS is a benchmarking toolkit for time series forecasting. <sub>⭐ 211 · Python</sub>
-- [Zeying-Gong/PatchMixer](https://github.com/Zeying-Gong/PatchMixer) - About Code release for "PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting" <sub>⭐ 211 · Python</sub>
-- [signaflo/java-timeseries](https://github.com/signaflo/java-timeseries) - Time series analysis in Java <sub>⭐ 209 · Java</sub>
-- [YGZWQZD/LAMDA-SSL](https://github.com/YGZWQZD/LAMDA-SSL) - 30 Semi-Supervised Learning Algorithms <sub>⭐ 208 · Python</sub>
-- [trainindata/feature-engineering-for-time-series-forecasting](https://github.com/trainindata/feature-engineering-for-time-series-forecasting) - Code repository for the online course "Feature Engineering for Time Series Forecasting". <sub>⭐ 207 · Jupyter Notebook</sub>
-- [VITA-Group/AutoSpeech](https://github.com/VITA-Group/AutoSpeech) - (InterSpeech 2020) "AutoSpeech: Neural Architecture Search for Speaker Recognition" by Shaojin Ding*, Tianlong Chen*, Xinyu Gong, Weiwei Zha, Zhangyang Wang <sub>⭐ 207 · Python</sub>
-- [albumentations-team/autoalbument](https://github.com/albumentations-team/autoalbument) - AutoML for image augmentation. AutoAlbument uses the Faster AutoAugment algorithm to find optimal augmentation policies. Documentation - https://albumentations.ai/docs/autoalbument <sub>⭐ 205 · Python</sub>
-- [noahho/CAAFE](https://github.com/noahho/CAAFE) - Semi-automatic feature engineering process using Language Models and your dataset descriptions. Based on the paper "LLMs for Semi-Automated Data Science: Introducing CAAFE for Context-Aware Automated… <sub>⭐ 202 · Python</sub>
-- [elena-roff/time-series-prophet](https://github.com/elena-roff/time-series-prophet) - Time Series Analysis & Forecasting of Rossmann Sales with Python. EDA, TSA and seasonal decomposition, Forecasting with Prophet and XGboost modeling for regression. <sub>⭐ 201 · Jupyter Notebook</sub>
-- [ditschuk/pytorch-tsmixer](https://github.com/ditschuk/pytorch-tsmixer) - A pip-installable PyTorch implementation of TSMixer, providing an easy-to-use and efficient solution for time-series forecasting. <sub>⭐ 200 · Python</sub>
-- [aikunyi/FreTS](https://github.com/aikunyi/FreTS) - Official implementation of the paper "Frequency-domain MLPs are More Effective Learners in Time Series Forecasting" <sub>⭐ 199 · Python</sub>
-- [LGE-ARC-AdvancedAI/auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - An automatic ML model optimization tool. <sub>⭐ 198 · Python</sub>
-- [tblume1992/ThymeBoost](https://github.com/tblume1992/ThymeBoost) - Forecasting with Gradient Boosted Time Series Decomposition <sub>⭐ 198 · Python</sub>
-- [romilbert/samformer](https://github.com/romilbert/samformer) - Official implementation of SAMformer, a transformer leveraging Sharpness-Aware Minimization and Channel-Wise Attention for Time Series Forecasting. <sub>⭐ 191 · Python</sub>
-- [muslehal/xLSTMTime](https://github.com/muslehal/xLSTMTime) - xLSTMTime for time series forecasting <sub>⭐ 188 · Python</sub>
-- [lightforever/mlcomp](https://github.com/lightforever/mlcomp) - Distributed DAG (Directed acyclic graph) framework for machine learning with UI <sub>⭐ 187 · Python</sub>
-- [vanderschaarlab/autoprognosis](https://github.com/vanderschaarlab/autoprognosis) - A system for automating the design of predictive modeling pipelines tailored for clinical prognosis. <sub>⭐ 186 · Python</sub>
-- [daydreamer-amelia/From_News_to_Forecast](https://github.com/daydreamer-amelia/From_News_to_Forecast) - This repository is for the paper entitled: From News to Forecast: Integrating Event Analysis in LLM-based Time Series Forecasting with Reflection (NeurIPS 2024) <sub>⭐ 185 · Python</sub>
-- [albertogaspar/dts](https://github.com/albertogaspar/dts) - A Keras library for multi-step time-series forecasting. <sub>⭐ 184 · Python</sub>
-- [chaoshangcs/GTS](https://github.com/chaoshangcs/GTS) - Discrete Graph Structure Learning for Forecasting Multiple Time Series, ICLR 2021. <sub>⭐ 178 · Python</sub>
-- [lukas-blecher/AutoMask](https://github.com/lukas-blecher/AutoMask) - Automatic Rotoscoping/Masking tool powered with Machine Learning for Blender (WIP) <sub>⭐ 178 · Python</sub>
-- [rafiqhasan/auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow) - Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - https://www.linkedin.com/in/sam04 <sub>⭐ 178 · Python</sub>
-- [mljar/automl-app](https://github.com/mljar/automl-app) - AutoML Web App - build Machine Learning pipeline in automatic way with Graphical User Interface (GUI). You can run app locally! <sub>⭐ 177 · Jupyter Notebook</sub>
-- [xiaomi-automl/FairDARTS](https://github.com/xiaomi-automl/FairDARTS) - Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search <sub>⭐ 177 · Python</sub>
-- [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems <sub>⭐ 176 · Python</sub>
-- [GoogleCloudPlatform/tensorflow-lifetime-value](https://github.com/GoogleCloudPlatform/tensorflow-lifetime-value) - Predict customer lifetime value using AutoML Tables, or ML Engine with a TensorFlow neural network and the Lifetimes Python library. <sub>⭐ 175 · Jupyter Notebook</sub>
-- [IvanBongiorni/GAN-RNN_Timeseries-imputation](https://github.com/IvanBongiorni/GAN-RNN_Timeseries-imputation) - Recurrent GAN for imputation of time series data. Implemented in TensorFlow 2 on Wikipedia Web Traffic Forecast dataset from Kaggle. <sub>⭐ 173 · Jupyter Notebook</sub>
-- [jinglescode/time-series-forecasting-tensorflowjs](https://github.com/jinglescode/time-series-forecasting-tensorflowjs) - Pull stock prices from online API and perform predictions using Long Short Term Memory (LSTM) with TensorFlow.js framework <sub>⭐ 173 · HTML</sub>
-- [jackievaleri/BioAutoMATED](https://github.com/jackievaleri/BioAutoMATED) - Automated machine learning for analyzing, interpreting, and designing biological sequences <sub>⭐ 172 · Jupyter Notebook</sub>
-- [ChenxiLiu-HNU/TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA) - (AAAI 2025) Official implementation of "TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment" <sub>⭐ 170 · Python</sub>
-- [DeepAuto-AI/automl-agent](https://github.com/DeepAuto-AI/automl-agent) - (ICML-25) AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML <sub>⭐ 170 · Python</sub>
-- [kakaobrain/autoclint](https://github.com/kakaobrain/autoclint) - A specially designed light version of Fast AutoAugment <sub>⭐ 169 · Python</sub>
-- [RamiKrispin/atsaf](https://github.com/RamiKrispin/atsaf) - Applied Time Series Analysis and Forecasting <sub>⭐ 169 · R</sub>
-- [DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals. <sub>⭐ 168</sub>
-- [hengzhe-zhang/EvolutionaryForest](https://github.com/hengzhe-zhang/EvolutionaryForest) - An open source python library for automated feature engineering based on Genetic Programming <sub>⭐ 168 · Python</sub>
-- [manuhup/LSTM-XGBoost-Hybrid-Forecasting](https://github.com/manuhup/LSTM-XGBoost-Hybrid-Forecasting) - LSTM-XGBoost Time Series Forecasting <sub>⭐ 168 · Jupyter Notebook</sub>
-- [mit-han-lab/amc-models](https://github.com/mit-han-lab/amc-models) - (ECCV 2018) AMC: AutoML for Model Compression and Acceleration on Mobile Devices <sub>⭐ 168 · Python</sub>
-- [Hank0626/CALF](https://github.com/Hank0626/CALF) - Official implementation of "CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning" (AAAI 2025) <sub>⭐ 166 · Python</sub>
-- [fnnx-ai/falcon](https://github.com/fnnx-ai/falcon) - A lightweight AutoML library. <sub>⭐ 165 · Python</sub>
-- [tvdboom/ATOM](https://github.com/tvdboom/ATOM) - Automated Tool for Optimized Modelling <sub>⭐ 165 · HTML</sub>
-- [bukosabino/btctrading](https://github.com/bukosabino/btctrading) - Time Series Forecast with Bitcoin value, to detect upward/down trends with Machine Learning Algorithms <sub>⭐ 163 · Jupyter Notebook</sub>
-- [cerlymarco/tspiral](https://github.com/cerlymarco/tspiral) - A python package for time series forecasting with scikit-learn estimators. <sub>⭐ 163 · Jupyter Notebook</sub>
-- [lightaime/sgas](https://github.com/lightaime/sgas) - SGAS: Sequential Greedy Architecture Search (CVPR'2020) https://www.deepgcns.org/auto/sgas <sub>⭐ 162 · Python</sub>
-- [LeronQ/STGCN-Pytorch](https://github.com/LeronQ/STGCN-Pytorch) - Paper:Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting . Implementation of spatio-temporal graph convolutional network with PyTorch <sub>⭐ 159 · Python</sub>
-- [nfrumkin/forecast-prometheus](https://github.com/nfrumkin/forecast-prometheus) - A collection of analysis, and machine learning techniques for time series forecasting w/ Prometheus metrics <sub>⭐ 156 · Jupyter Notebook</sub>
-- [business-science/sweep](https://github.com/business-science/sweep) - Extending broom for time series forecasting <sub>⭐ 154 · R</sub>
-- [GuoKent/Hybrid_time_series_forecasting_model](https://github.com/GuoKent/Hybrid_time_series_forecasting_model) - An Informer-LSTM model for State-of-Charge Estimation of Lithium-Ion Batteries <sub>⭐ 154 · Python</sub>
-- [jim-schwoebel/allie](https://github.com/jim-schwoebel/allie) - An automated machine learning framework for audio, text, image, video, or .CSV files (50+ featurizers and 15+ model trainers). Python 3.6 required. <sub>⭐ 153 · Python</sub>
-- [PatchTST/PatchTST](https://github.com/PatchTST/PatchTST) - An offical implementation of PatchTST: "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers." <sub>⭐ 153 · Python</sub>
-- [PlaytikaOSS/tft-torch](https://github.com/PlaytikaOSS/tft-torch) - A Python library that implements ״Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting״ <sub>⭐ 153 · Python</sub>
-- [Zero-coder/FECAM](https://github.com/Zero-coder/FECAM) - About Code release for "FECAM: Frequency Enhanced Channel Attention Mechanism for Time Series Forecasting" ⌚ <sub>⭐ 153 · Jupyter Notebook</sub>
-- [ritikdhame/Electricity_Demand_and_Price_forecasting](https://github.com/ritikdhame/Electricity_Demand_and_Price_forecasting) - Building Time series forecasting models, including the XGboost Regressor, GRU (Gated Recurrent Unit), LSTM (Long Short-Term Memory), CNN (Convolutional Neural Network), CNN-LSTM, and LSTM-Attention.… <sub>⭐ 152 · Jupyter Notebook</sub>
-- [heidelbergcement/hcrystalball](https://github.com/heidelbergcement/hcrystalball) - A library that unifies the API for most commonly used libraries and modeling techniques for time-series forecasting in the Python ecosystem. <sub>⭐ 149 · Python</sub>
-- [antoyang/NAS-Benchmark](https://github.com/antoyang/NAS-Benchmark) - (ICLR 2020) NAS evaluation is frustratingly hard <sub>⭐ 148 · Python</sub>
-- [thuml/Timer-XL](https://github.com/thuml/Timer-XL) - About model release for "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting" <sub>⭐ 148 · Jupyter Notebook</sub>
-- [aj-cloete/pssa](https://github.com/aj-cloete/pssa) - Singular Spectrum Analysis for time series forecasting in Python <sub>⭐ 147 · Jupyter Notebook</sub>
-- [EthanChenYZ/Time-Series-Forecast](https://github.com/EthanChenYZ/Time-Series-Forecast) - Codes for time series forecast <sub>⭐ 147 · Jupyter Notebook</sub>
-- [MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells](https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells) - Machine learning approach of automatic identification and counting of blood cells (RBC, WBC, and Platelet) with KNN and IOU based verification. <sub>⭐ 146 · Python</sub>
-- [CollinRooney12/htsprophet](https://github.com/CollinRooney12/htsprophet) - Hierarchical Time Series Forecasting using Prophet <sub>⭐ 145 · Python</sub>
-- [ealcobaca/pymfe](https://github.com/ealcobaca/pymfe) - Python Meta-Feature Extractor package. <sub>⭐ 145 · Python</sub>
-- [Geo-Joy/Deep-Learning-for-Time-Series-Forecasting](https://github.com/Geo-Joy/Deep-Learning-for-Time-Series-Forecasting) - This repository is designed to teach you, step-by-step, how to develop deep learning methods for time series forecasting with concrete and executable examples in Python. <sub>⭐ 145</sub>
-- [YHYHYHYHYHY/ATFNet](https://github.com/YHYHYHYHYHY/ATFNet) - Official implement of ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting <sub>⭐ 145 · Shell</sub>
-- [DC-research/TEMPO](https://github.com/DC-research/TEMPO) - The official code for "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting (ICLR 2024)". TEMPO is one of the very first open source Time Series Foundation Models for… <sub>⭐ 144 · Python</sub>
-- [changlin31/BossNAS](https://github.com/changlin31/BossNAS) - (ICCV 2021) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search <sub>⭐ 143 · Python</sub>
-- [euclidjda/deep-quant](https://github.com/euclidjda/deep-quant) - Deep learning for forecasting company fundamental data <sub>⭐ 141 · Python</sub>
-- [georgeguimaraes/soothsayer](https://github.com/georgeguimaraes/soothsayer) - Elixir library for time series forecasting, inspired by Facebook's Prophet and NeuralProphet <sub>⭐ 141 · Elixir</sub>
-- [lss-1138/SegRNN](https://github.com/lss-1138/SegRNN) - (IEEE IoT-J 2026) The official repository of the SegRNN paper: "Segment Recurrent Neural Network for Long-Term Time Series Forecasting." This work is developed by the Lab of Professor Weiwei Lin… <sub>⭐ 141 · Python</sub>
-- [usail-hkust/t-PatchGNN](https://github.com/usail-hkust/t-PatchGNN) - Official implementation for ICML24 paper "Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach" <sub>⭐ 141 · Python</sub>
-- [AbdullahO/mSSA](https://github.com/AbdullahO/mSSA) - Multivariate Singular Spectrum Analysis (mSSA): Forecasting and Imputation algorithm for multivariate time series <sub>⭐ 140 · Jupyter Notebook</sub>
-- [CityMind-Lab/ICML25-TimeVLM](https://github.com/CityMind-Lab/ICML25-TimeVLM) - (ICML 2025) Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting <sub>⭐ 140 · Python</sub>
-- [ForestsKing/GLAFF](https://github.com/ForestsKing/GLAFF) - PyTorch implementation of "Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective" (NeurIPS 2024) <sub>⭐ 140 · Python</sub>
-- [ServiceNow/TACTiS](https://github.com/ServiceNow/TACTiS) - TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series, from ServiceNow Research <sub>⭐ 140 · Python</sub>
-- [TROUBADOUR000/AMD](https://github.com/TROUBADOUR000/AMD) - PyTorch Implementation of "Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting" (AAAI 2025) <sub>⭐ 140 · Python</sub>
-- [ellisp/forecastxgb-r-package](https://github.com/ellisp/forecastxgb-r-package) - An R package for time series models and forecasts with xgboost compatible with {forecast} S3 classes <sub>⭐ 139 · HTML</sub>
-- [pedrolarben/TimeSeriesForecasting-DeepLearning](https://github.com/pedrolarben/TimeSeriesForecasting-DeepLearning) - An experiemtal review on deep learning architectures for time series forecasting <sub>⭐ 139 · Python</sub>
-- [abaranovskis-redsamurai/automation-repo](https://github.com/abaranovskis-redsamurai/automation-repo) - Machine learning and process automation <sub>⭐ 138 · Jupyter Notebook</sub>
-- [hihihihiwsf/AST](https://github.com/hihihihiwsf/AST) - Adversarial Sparse Transformer for Time Series Forecasting <sub>⭐ 138 · Python</sub>
-- [kennedyCzar/STOCK-RETURN-PREDICTION-USING-KNN-SVM-GUASSIAN-PROCESS-ADABOOST-TREE-REGRESSION-AND-QDA](https://github.com/kennedyCzar/STOCK-RETURN-PREDICTION-USING-KNN-SVM-GUASSIAN-PROCESS-ADABOOST-TREE-REGRESSION-AND-QDA) - Forecast stock prices using machine learning approach. A time series analysis. Employ the Use of Predictive Modeling in Machine Learning to Forecast Stock Return. Approach Used by Hedge Funds to… <sub>⭐ 137 · Jupyter Notebook</sub>
-- [satyam9090/Automatic-Indian-Sign-Language-Translator-ISL](https://github.com/satyam9090/Automatic-Indian-Sign-Language-Translator-ISL) - I created an application which takes in live speech or audio recording as input, converts it into text and displays the relevant Indian Sign Language images or GIFs, using Natural Language Processing… <sub>⭐ 136 · Python</sub>
-- [ustc-time-series/SAN](https://github.com/ustc-time-series/SAN) - Pytorch implementation of NIPS'23 paper: Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective <sub>⭐ 136 · Python</sub>
-- [vanderschaarlab/clairvoyance](https://github.com/vanderschaarlab/clairvoyance) - Clairvoyance: a Unified, End-to-End AutoML Pipeline for Medical Time Series <sub>⭐ 135 · Jupyter Notebook</sub>
-- [milenavuletic/Fin-GAN](https://github.com/milenavuletic/Fin-GAN) - Code to accompany the paper "Fin-GAN: Forecasting and Classifying Financial Time Series via Generative Adversarial Networks" <sub>⭐ 134 · Python</sub>
-- [dreamers-laboratory/timeseries-atlas](https://github.com/dreamers-laboratory/timeseries-atlas) - A map of modern time-series forecasting architectures, each with a short README and runnable code. <sub>⭐ 133 · Python</sub>
-- [hyliush/deep-time-series](https://github.com/hyliush/deep-time-series) - Deep learning PyTorch library for time series forecasting <sub>⭐ 133 · Python</sub>
-- [irfanICMLL/Auto_painter](https://github.com/irfanICMLL/Auto_painter) - Recently, realistic image generation using deep neural networks has become a hot topic in machine learning and computer vision. Such an image can be generated at pixel level by learning from a large… <sub>⭐ 133 · Python</sub>
-- [nredell/forecastML](https://github.com/nredell/forecastML) - An R package with Python support for multi-step-ahead forecasting with machine learning and deep learning algorithms <sub>⭐ 133 · R</sub>
-- [ThyrixYang/awesome-artificial-intelligence-research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) - A curated list of Artificial Intelligence (AI) Research, tracks the cutting edge trending of AI research, including recommender systems, computer vision, machine learning, etc. <sub>⭐ 133</sub>
-- [TongjiFinLab/FinTSB](https://github.com/TongjiFinLab/FinTSB) - PyTorch Implementation of "FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting" (FCS & ICAIF 2025 Workshop Best Paper) <sub>⭐ 133 · Python</sub>
-- [NVIDIA/clara-train-examples](https://github.com/NVIDIA/clara-train-examples) - Example notebooks demonstrating how to use Clara Train to build Medical Imaging Deep Learning models <sub>⭐ 132 · HTML</sub>
-- [passalis/dain](https://github.com/passalis/dain) - Deep Adaptive Input Normalization for Time Series Forecasting <sub>⭐ 132 · Python</sub>
-- [Masterleia/TSF_LSTF_Compare](https://github.com/Masterleia/TSF_LSTF_Compare) - Time series forecasting especially in LSTF compare，include Informer, Autoformer, Reformer, Pyraformer, FEDformer, Transformer, MTGNN, LSTNet, Graph WaveNet <sub>⭐ 131 · Python</sub>
-- [vanderschaarlab/temporai](https://github.com/vanderschaarlab/temporai) - TemporAI: ML-centric Toolkit for Medical Time Series <sub>⭐ 130 · Python</sub>
-- [lancopku/text-autoaugment](https://github.com/lancopku/text-autoaugment) - (EMNLP 2021) Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification <sub>⭐ 129 · Python</sub>
-- [Nixtla/datasetsforecast](https://github.com/Nixtla/datasetsforecast) - Datasets for time series forecasting <sub>⭐ 129 · Python</sub>
-- [EDF-Lab/ts-icl](https://github.com/EDF-Lab/ts-icl) - TS-ICL: a Time-Indexed Foundation Model for Time Series Forecasting & Imputation via In-Context Learning <sub>⭐ 127 · Python</sub>
-- [WenjieDu/BrewPOTS](https://github.com/WenjieDu/BrewPOTS) - The tutorials for PyPOTS, guide you to model partially-observed time series datasets. <sub>⭐ 127 · Jupyter Notebook</sub>
-- [WilliamLwj/PyXAB](https://github.com/WilliamLwj/PyXAB) - PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms <sub>⭐ 127 · Python</sub>
-- [yfzhang114/OneNet](https://github.com/yfzhang114/OneNet) - This is an official PyTorch implementation of the NeurIPS 2023 paper 《OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling》 <sub>⭐ 127 · Python</sub>
-- [hughxx/tsf-new-paper-taste](https://github.com/hughxx/tsf-new-paper-taste) - A code implementation of new papers in the time series forecasting field. <sub>⭐ 124 · Python</sub>
-- [MLBazaar/Cardea](https://github.com/MLBazaar/Cardea) - An open source automl library for using machine learning in healthcare. <sub>⭐ 124 · Python</sub>
-- [stitsyuk/xPatch](https://github.com/stitsyuk/xPatch) - (AAAI 2025) Official implementation of "xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition" <sub>⭐ 123 · Python</sub>
-- [TROUBADOUR000/TimeFilter](https://github.com/TROUBADOUR000/TimeFilter) - PyTorch Implementation of "TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting" (ICML 2025) <sub>⭐ 123 · Python</sub>
-- [ACAT-SCUT/TQNet](https://github.com/ACAT-SCUT/TQNet) - (ICML 2025) Official repository of the TQNet paper: "Temporal Query Network for Efficient Multivariate Time Series Forecasting". This work is developed by the Lab of Professor Weiwei Lin… <sub>⭐ 121 · Python</sub>
-- [lavinei/pybats](https://github.com/lavinei/pybats) - Bayesian time series forecasting and decision analysis <sub>⭐ 121 · Jupyter Notebook</sub>
-- [ajayarunachalam/Deep_XF](https://github.com/ajayarunachalam/Deep_XF) - Package towards building Explainable Forecasting and Nowcasting Models with State-of-the-art Deep Neural Networks and Dynamic Factor Model on Time Series data sets with single line of code. Also… <sub>⭐ 119 · Jupyter Notebook</sub>
-- [AutoViML/deep_autoviml](https://github.com/AutoViML/deep_autoviml) - Build tensorflow keras model pipelines in a single line of code. Now with mlflow tracking. Created by Ram Seshadri. Collaborators welcome. Permission granted upon request. <sub>⭐ 119 · Python</sub>
-- [cmusatyalab/OpenTPOD](https://github.com/cmusatyalab/OpenTPOD) - Open Toolkit for Painless Object Detection <sub>⭐ 119 · CSS</sub>
-- [smilehanCN/EasyTSF](https://github.com/smilehanCN/EasyTSF) - Experiment ASsistance for Your Time-Series Forecasting, EasyTSF <sub>⭐ 119 · Python</sub>
-- [zhangxu0307/time-series-forecasting-keras](https://github.com/zhangxu0307/time-series-forecasting-keras) - time series forecasting using keras, inlcuding LSTM,RNN,MLP,GRU,SVR and multi-lag training and forecasting method, ICONIP2017 paper. <sub>⭐ 119 · Python</sub>
-- [daxin007/ARMD](https://github.com/daxin007/ARMD) - (AAAI 2025) Official Implementation of "Auto-Regressive Moving Diffusion Models for Time Series Forecasting" <sub>⭐ 118 · Python</sub>
-- [amirstar/Deep-Forecast](https://github.com/amirstar/Deep-Forecast) - The code of the paper 'Deep Forecast : Deep Learning-based Spatio-Temporal Forecasting", ICML Time Series Workshop 2017. <sub>⭐ 117 · Python</sub>
+- [awslabs/gluonts](https://github.com/awslabs/gluonts) - Python 概率时间序列模型 <sub>⭐ 5.2k · Python</sub>
+- [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - 用统计学和计量经济学模型进行闪电快速预报. <sub>⭐ 4.9k · Python</sub>
+- [microsoft/FLAML](https://github.com/microsoft/FLAML) - 用于自动ML和调制的快速库。 加入我们的Discord: https://discord.gg/Cppx2vSPVP 。 <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - 自动机器学习论文、文章、教程、幻灯片和项目目录 <sub>⭐ 4.2k</sub>
+- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-2.1:为预报和异常探测而制作预装时间序列基础模型. Generative Pretective for time序列的变压器在100B以上的数据点上训练,这是... <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [quark0/darts](https://github.com/quark0/darts) - 可区分的架构搜索流派和反复出现的网络 <sub>⭐ 4.0k · Python</sub>
+- [astroautomata/PySR](https://github.com/astroautomata/PySR) - Python 和 Julia 的符号学习 <sub>⭐ 3.8k · Python</sub>
+- [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - 懒惰预测有助于构建许多没有太多代码的基本模型,并有助于理解哪些模型在没有任何参数调试的情况下效果更好. <sub>⭐ 3.4k · Python</sub>
+- [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - 带有特性工程、超参数图、解释和自动文档的 Tabular 数据上的 Python 软件包 <sub>⭐ 3.3k · Python</sub>
+- [ddz16/TSFpaper](https://github.com/ddz16/TSFpaper) - 这个寄存器包含一个阅读时间序列预测/预测(TSF)和斯派提奥-时态预测/预测(STF)的论文列表,这些论文主要按照. <sub>⭐ 3.2k</sub>
+- [nidhaloff/igel](https://github.com/nidhaloff/igel) - 一个令人愉快的机器学习工具,它允许您在不写代码的情况下训练、测试和使用模型 <sub>⭐ 3.1k · Python</sub>
+- [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) - 时间序列中变压器专业整理的出色资源(纸张,代码,数据等)列表. <sub>⭐ 3.0k</sub>
+- [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - Keras 的超参数调图库 <sub>⭐ 2.9k · Python</sub>
+- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) - 用于开发更小更快的AI应用程序的自动模型压缩(AutoMC)框架. <sub>⭐ 2.9k · Python</sub>
+- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - 利用深层学习进行时间序列预测的论文、代码和实验清单 <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [yuqinie98/PatchTST](https://github.com/yuqinie98/PatchTST) - PatchTST的一个非常规执行:"一个时间系列值64字:用变形器进行长期预测"(ICLR 2023) https://arxiv.org/abs/2211.14730 <sub>⭐ 2.7k · Python</sub>
+- [KimMeen/Time-LLM](https://github.com/KimMeen/Time-LLM) - (ICLR 2024) 官方实施"时间-LLM:通过重编大语言模型预测时间系列". <sub>⭐ 2.7k · Python</sub>
+- [automl/Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - PyTorch 的自动架构搜索和超参数优化 <sub>⭐ 2.5k · Python</sub>
+- [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - (AAAI-23 口述) 官方实施论文"变形金刚对时间系列预测有效吗? <sub>⭐ 2.5k · Python</sub>
+- [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook 关于用 PyTorch 解决机器学习和深层学习现实世界问题的教程。主题:用 Detectron 2 进行面部检测,用 LSTM 进行时间序列异常检测... <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [metarank/metarank](https://github.com/metarank/metarank) - 一个低码的机器学习个人化排名服务,用于文章,上市,搜索结果,促进用户参与的建议. 一个友好的学习到Rank引擎 <sub>⭐ 2.4k · Scala</sub>
+- [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - 大尺度推荐算法的框架. <sub>⭐ 2.4k · Python</sub>
+- [D-X-Y/Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) - 自动化深层学习:神经架构搜索不是结束(AutoDL资源目录和深入分析). <sub>⭐ 2.3k · Python</sub>
+- [AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast) - 深度学习 PyTorch 库用于时间序列的预测,分类,和异常探测(原用于洪水预报). <sub>⭐ 2.3k · Python</sub>
+- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI(发音为trăns-m g r -f )是一个用于在Apache Spark上构建模块化,可重复使用,强键的机器学习工作流程的自动ML库,手调最小 <sub>⭐ 2.3k · Scala</sub>
+- [thuml/iTransformer](https://github.com/thuml/iTransformer) - "iTransformer:倒置变形器对时间系列预测有效"(ICLR 2024 Spotlight)的官方执行. <sub>⭐ 2.2k · Python</sub>
+- [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS) - 一个Python工具包/文献,用于部分观察时间序列上的以现实为中心的机器/深度学习和数据挖掘,拥有50+SOTA神经网络模型,用于科学分析任务(imputation. <sub>⭐ 2.1k · Python</sub>
+- [kwuking/TimeMixer](https://github.com/kwuking/TimeMixer) - (ICLR 2024) 正式实施"时代混音器:可分解的多尺度混音为时间系列预测". <sub>⭐ 2.0k · Python</sub>
+- [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all) - (ICLR 2020) " 一劳永逸:一号列车网络"并专门化高效部署. <sub>⭐ 2.0k · Python</sub>
+- [GoogleCloudPlatform/java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java 和 Kotlin 代码样本在云上使用.google.com <sub>⭐ 1.9k · Java</sub>
+- [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - 自动可视化任何数据集, 任意大小的代码。 由 Ram Seshadri 创建。 合作者欢迎。 请求时允许 。 <sub>⭐ 1.9k · Python</sub>
+- [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - 提供输入 CSV 和一个目标字段来预测,生成一个模型+代码来运行. <sub>⭐ 1.9k · Python</sub>
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 运行克劳德代码,双子座,Codex——或任何编码代理——在一个干净,孤立的沙盒中,有敏感的数据编辑和可观察性烤入. <sub>⭐ 1.9k · TypeScript</sub>
+- [microsoft/Cream](https://github.com/microsoft/Cream) - 这部作品集了我们的NAS和Vision Transformer的作品. <sub>⭐ 1.8k · Python</sub>
+- [GestaltCogTeam/BasicTS](https://github.com/GestaltCogTeam/BasicTS) - 公平、可扩展的时间系列预测基准和工具包。 <sub>⭐ 1.8k · Python</sub>
+- [KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost](https://github.com/KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost) - 综合时间序列基准,针对传统的梯度提升(CatBoost)来评价最先进的深层学习架构(PatchTST,TFT,N-HitS),以准确的24小时负载. . <sub>⭐ 1.8k · Python</sub>
+- [decisionintelligence/TFB](https://github.com/decisionintelligence/TFB) - (PVLDB 2024年最佳论文提名) TFB:实现时间序列预测方法的全面和公平基准化. <sub>⭐ 1.7k · Shell</sub>
+- [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - 一个统计库,旨在填补Python时间序列分析能力的空白,包括相当于R's auto.arima函数. <sub>⭐ 1.7k · Python</sub>
+- [kubeflow/katib](https://github.com/kubeflow/katib) - 关于Kubernetes的自动机器学习 <sub>⭐ 1.7k · Python</sub>
+- [datamllab/tods](https://github.com/datamllab/tods) - TODS: 自动时间序列外部探测系统 <sub>⭐ 1.7k · Python</sub>
+- [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - (不包含)用于分析与生产的自动机器学习 <sub>⭐ 1.7k · Python</sub>
+- [qingsongedu/awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) - 在大赦国际高层会议和期刊上发表论文、讲座和《时代系列AI调查》的专业清单。 <sub>⭐ 1.6k</sub>
+- [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - 统一培训世界时系列预测变换器 <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - PyTorch 正式实施“快速自动增强” 。 <sub>⭐ 1.6k · Python</sub>
+- [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama) - Lag-Llama:建立概率时间系列预测基础模型 <sub>⭐ 1.6k · Python</sub>
+- [D-X-Y/AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - 在PyTorch中实施自动化深层学习算法. <sub>⭐ 1.6k · Python</sub>
+- [tobegit3hub/advisor](https://github.com/tobegit3hub/advisor) - Google Vizier超参数调试的开源执行 <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - 代理机器学习工程师 <sub>⭐ 1.6k · Python</sub>
+- [skforecast/skforecast](https://github.com/skforecast/skforecast) - Python 库,用于使用 scikit-learn 兼容模型、统计方法和基础模型进行时间序列预测 <sub>⭐ 1.5k · Python</sub>
+- [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox是一个强大的自动机器学习python库. <sub>⭐ 1.5k · Python</sub>
+- [sb-ai-lab/LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - 自动创建 ML 模型( AutoML) 的快速定制框架 <sub>⭐ 1.5k · Python</sub>
+- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox使得训练,部署,以及监控机器学习模型变得容易. <sub>⭐ 1.5k · Rust</sub>
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - 用于时间序列机器学习和深层学习的工具包 <sub>⭐ 1.5k · Python</sub>
+- [mit-han-lab/proxylessnas](https://github.com/mit-han-lab/proxylessnas) - (ICLR 2019) 代理无线NAS:针对目标任务和硬件的直接神经架构搜索 <sub>⭐ 1.4k · C++</sub>
+- [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS) - 自动时间系列预测 <sub>⭐ 1.4k · Python</sub>
+- [MedMNIST/MedMNIST](https://github.com/MedMNIST/MedMNIST) - (pip安装 medmnist) 18x 2D和3D生物医学影像分类标准数据集 <sub>⭐ 1.4k · Python</sub>
+- [zalandoresearch/pytorch-ts](https://github.com/zalandoresearch/pytorch-ts) - 基于 GluonTS 后端的 PyTorch 概率时序预测框架 <sub>⭐ 1.4k · Python</sub>
+- [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - 实施机器学习和深层学习模式的超参数优化/调整方法(容易和清晰) <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [open-edge-platform/geti](https://github.com/open-edge-platform/geti) - 构建,训练,优化,并在当地运行计算机视觉模型,从原始图像到生命推论. Open source,优化了英特尔XPU(CPU-只支持和CUDA也支持). <sub>⭐ 1.3k · Python</sub>
+- [Nixtla/mlforecast](https://github.com/Nixtla/mlforecast) - 可缩放机学用于时间序列预测. <sub>⭐ 1.3k · Python</sub>
+- [rsvp/fecon235](https://github.com/rsvp/fecon235) - 金融经济学笔记 关键词:Jupyter笔记本熊猫 联邦储备FRED Ferbus GDP CPI PCE 通货膨胀 失业工资收入债务 Case-Shiller 住房资产组合股票 SPX... <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [automl/SMAC3](https://github.com/automl/SMAC3) - SMAC3:超参数优化的Versatile Bayesian优化软件包 <sub>⭐ 1.3k · Python</sub>
+- [qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) - 关于大(语言)模型和基础模型(LLM,LM,FM)的专业列表用于时间系列,Spatiotemporal,以及事件数据. <sub>⭐ 1.2k</sub>
+- [DeepWisdom/AutoDL](https://github.com/DeepWisdom/AutoDL) - 无人干预的自动化深层学习。 1'st Solution for AutoDL trial@NeurIPS. <sub>⭐ 1.2k · Python</sub>
+- [functime-org/functime](https://github.com/functime-org/functime) - 时间序列机器在规模上学习。 与极地一起搭建, 在面板数据上进行尴尬的平行功能提取和预测 。 <sub>⭐ 1.2k · Python</sub>
+- [robjhyndman/forecast](https://github.com/robjhyndman/forecast) - 预测时间序列和线性模型的函数 <sub>⭐ 1.2k · R</sub>
+- [THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL) - 一个用于机器学习图表的自动ML框架和工具包. <sub>⭐ 1.1k · Python</sub>
+- [serengil/tensorflow-101](https://github.com/serengil/tensorflow-101) - TensorFlow 101:深层学习介绍 <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [curiousily/Deep-Learning-For-Hackers](https://github.com/curiousily/Deep-Learning-For-Hackers) - Python的TensorFlow 2和Keras的机器学习教程(包括Jupyter笔记本)——(LSTM,Hyperameter调制,数据预处理,比亚斯变量权衡,异常检测...... <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [google-research/morph-net](https://github.com/google-research/morph-net) - 快速和简单资源约束的深网络结构学习 <sub>⭐ 1.0k · Python</sub>
+- [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto让机器学习是一种直觉的自然语言体验. Facebook AI Hackathon赢家#1 Trending on MadeWithML.com #4 Trending JavaScript Project on GitHub #15 Trending (All Languages)... <sub>⭐ 976 · JavaScript</sub>
+- [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - 与 RLOPS 简化强化学习. 最新流速的 RL 算法和工具,通过进化超参数优化进行10x更快的训练. <sub>⭐ 955 · Python</sub>
+- [joeddav/devol](https://github.com/joeddav/devol) - 遗传神经结构早期的POC搜索 <sub>⭐ 953 · Python</sub>
+- [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - 校验与自动ML相关的研究、工具、项目和其他资源清单 <sub>⭐ 944</sub>
+- [philipperemy/n-beats](https://github.com/philipperemy/n-beats) - Keras/Pytorch 执行 N-BEATS:用于可解释时间序列预测的神经基扩展分析. <sub>⭐ 905 · Python</sub>
+- [LongxingTan/Time-series-prediction](https://github.com/LongxingTan/Time-series-prediction) - tfts: TensorFlow 中的时间系列深层学习模式 <sub>⭐ 890 · Python</sub>
+- [ScrapingBee/ai-web-scraper](https://github.com/ScrapingBee/ai-web-scraper) - 用我们的AI刮子API不费力地提取数据。 简化数据提取, 获得干净的 JSON 输出并适应页面更改 。 今天尝试免费! <sub>⭐ 888</sub>
+- [valeman/Transformers_And_LLM_Are_What_You_Dont_Need](https://github.com/valeman/Transformers_And_LLM_Are_What_You_Dont_Need) - 显示变压器为何不能成为时间序列预测的答案并显示最好的SOTA非变压器模型的最佳寄存器. <sub>⭐ 863</sub>
+- [guan-yuan/Awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/Awesome-AutoML-and-Lightweight-Models) - 高品质(最新)自动ML作品和轻量级模型列表包括1. 神经架构搜索,2. 轻量级结构,3. 模型压缩,量化和加速,4.... <sub>⭐ 855</sub>
+- [moment-timeseries-foundation-model/moment](https://github.com/moment-timeseries-foundation-model/moment) - 时刻:开放时间系列基础模型的家族,ICML'24 <sub>⭐ 851 · TypeScript</sub>
+- [alteryx/evalml](https://github.com/alteryx/evalml) - EvalML是一个用蟒蛇书写的AutoML库. <sub>⭐ 850 · Python</sub>
+- [huawei-noah/vega](https://github.com/huawei-noah/vega) - 自动ML 工具链 <sub>⭐ 848 · Python</sub>
+- [zillow/luminaire](https://github.com/zillow/luminaire) - Luminaire是一个python软件包,为监测时间序列数据提供ML驱动的解决方案. <sub>⭐ 811 · Python</sub>
+- [astroautomata/SymbolicRegression.jl](https://github.com/astroautomata/SymbolicRegression.jl) - 朱莉娅的分布式高性能符号回归 <sub>⭐ 806 · Julia</sub>
+- [DaoSword/Time-Series-Forecasting-and-Deep-Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) - 关于时间序列预测和深入学习的资源。 <sub>⭐ 805 · Python</sub>
+- [Optim-Agent/optim-agent](https://github.com/Optim-Agent/optim-agent) - LLM代理作为你的超参数优化器. <sub>⭐ 800 · Python</sub>
+- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - 带有最后期限的AI工程师的电源工具 <sub>⭐ 799 · Jupyter Notebook</sub>
+- [Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN](https://github.com/Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN) - 个别家庭动力预测的时间序列预测:ARIMA、xgboost、RNN <sub>⭐ 781 · Python</sub>
+- [AutoViML/Auto_TS](https://github.com/AutoViML/Auto_TS) - 在时间序列数据集上自动构建 ARIMA, SARIMAX, VAR, FB 先知和 XGBooost Models, 并使用单行代码。 由 Ram Seshadri 创建, 合作者欢迎 。 <sub>⭐ 764 · Jupyter Notebook</sub>
+- [jeongyoonlee/Kaggler](https://github.com/jeongyoonlee/Kaggler) - Kaggle 数据科学竞赛代码 <sub>⭐ 753 · Python</sub>
+- [shunyaoshih/TPA-LSTM](https://github.com/shunyaoshih/TPA-LSTM) - 多变时间序列的时态注意度预测 <sub>⭐ 733 · Python</sub>
+- [google/pyglove](https://github.com/google/pyglove) - 操纵 Python 程序 <sub>⭐ 722 · Python</sub>
+- [JulesBelveze/time-series-autoencoder](https://github.com/JulesBelveze/time-series-autoencoder) - PyTorch 多变量时序双加成LSTM-Autoencoder <sub>⭐ 714 · Python</sub>
+- [tanjeffreyz/auto-maple](https://github.com/tanjeffreyz/auto-maple) - 利用机器学习和计算机视觉导航挑战性游戏环境的枫树智能 <sub>⭐ 714 · Python</sub>
+- [aimclub/FEDOT](https://github.com/aimclub/FEDOT) - FEDOT 自动化模型和机器学习框架 <sub>⭐ 711 · Python</sub>
+- [Thinklab-SJTU/Crossformer](https://github.com/Thinklab-SJTU/Crossformer) - 官方执行我们的ICLR2023论文"十字架:变形器利用跨变异依赖性进行多变时间系列预测". <sub>⭐ 706 · Python</sub>
+- [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - 用 Python 进行时间序列预测的用例焦点教程 <sub>⭐ 697 · Jupyter Notebook</sub>
+- [ankane/eps](https://github.com/ankane/eps) - Ruby的机器学习 <sub>⭐ 693 · Ruby</sub>
+- [JordiCorbilla/stock-prediction-deep-neural-learning](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning) - 使用 TensorFlow LSTM(长期短期内存) 神经网络预测股票价格,用于时间序列预测 <sub>⭐ 689 · Python</sub>
+- [cure-lab/SCINet](https://github.com/cure-lab/SCINet) - 论文的GitHub寄存器:“时代系列是一个特别序列:用样本演化和相互作用进行预测”(NeurIPS 2022)。 <sub>⭐ 670 · Python</sub>
+- [D-X-Y/NAS-Bench-201](https://github.com/D-X-Y/NAS-Bench-201) - NAS-Bench-201 API和指令 <sub>⭐ 648 · Python</sub>
+- [mims-harvard/UniTS](https://github.com/mims-harvard/UniTS) - 统一的多任务时间序列模型. <sub>⭐ 647 · Python</sub>
+- [business-science/timetk](https://github.com/business-science/timetk) - 整理部分的时间序列分析 <sub>⭐ 644 · R</sub>
+- [automl/HpBandSter](https://github.com/automl/HpBandSter) - 关于类固醇的分布式超波段执行 <sub>⭐ 632 · Python</sub>
+- [Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) - 采用自动机器学习方法进行静态/批量和在线/持续学习/课程 <sub>⭐ 630 · Jupyter Notebook</sub>
+- [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) - TimeCopilot: GenAI 预测代理。 它基于 LLMs 和 Time 系列基础模型, 它允许您进行预测, 交叉验证, 并使用多个基础模型通过单个... <sub>⭐ 619 · Python</sub>
+- [microsoft/StemGNN](https://github.com/microsoft/StemGNN) - 多变时序预测的光谱时间图神经网络(简而言之,StemGNN) <sub>⭐ 617 · Python</sub>
+- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - 世界上最干净的自动ML库 - 做超参数调试 右侧的管道抽象来写入清洁的深层学习生产管道。让你的管道步骤有超参数... <sub>⭐ 612 · Python</sub>
+- [JEddy92/TimeSeries_Seq2Seq](https://github.com/JEddy92/TimeSeries_Seq2Seq) - 这种回波旨在为了解和实施以下2seq神经网络提供时间序列预测的实用笔记本/代码集合。网络是用keras/ tensorflow构建的。 <sub>⭐ 611 · Jupyter Notebook</sub>
+- [mlpotter/Transformer_Time_Series](https://github.com/mlpotter/Transformer_Time_Series) - 在时间序列预测上增强变形器的本地性并打破其内存Botleneck(NeurIPS 2019). <sub>⭐ 602 · Jupyter Notebook</sub>
+- [automl/NASLib](https://github.com/automl/NASLib) - NASLib是一个神经结构搜索(NAS)库,通过向几个最先进的NAS搜索空间和优化器提供接口,为社区促进NAS研究. <sub>⭐ 595 · Python</sub>
+- [tidyverts/fable](https://github.com/tidyverts/fable) - Tidy 时间序列预测 <sub>⭐ 590 · R</sub>
+- [business-science/modeltime](https://github.com/business-science/modeltime) - 模型时间在一个框架内解锁时间序列预测模型和机器学习 <sub>⭐ 584 · R</sub>
+- [thuml/Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers) - "非固定变换器:探索时间序列预测中的站点性"(NeurIPS 2022)的代码发布,https://arxiv.org/abs/2205.14415 <sub>⭐ 567 · Python</sub>
+- [PacktPublishing/Modern-Time-Series-Forecasting-with-Python](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python) - 现代时间系列预测与Python, Packt出版 <sub>⭐ 563 · Jupyter Notebook</sub>
+- [4paradigm/AutoX](https://github.com/4paradigm/AutoX) - AutoX是一种高效的自动ml工具,主要针对的是带有表格数据的数据挖掘任务. <sub>⭐ 550 · Jupyter Notebook</sub>
+- [AutoViML/Auto_ViML](https://github.com/AutoViML/Auto_ViML) - 自动构建多条 ML 模型, 并带有单行代码。 由 Ram Seshadri 创建。 合作者欢迎, 请求后允许 。 <sub>⭐ 548 · Python</sub>
+- [cod3licious/autofeat](https://github.com/cod3licious/autofeat) - 具有自动特性工程和选择能力的线性预测模型 <sub>⭐ 546 · Python</sub>
+- [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS) - 以PaddlePaddle为基础的出色的易用深时系列建模,包括TSDataset,Analysis, Transform,Models,AutotS等综合功能模块,支持. <sub>⭐ 545 · Python</sub>
+- [lucidrains/iTransformer](https://github.com/lucidrains/iTransformer) - iTransform-SOTA时间系列使用关注网络预测的非官方实施,出清华/蚁群. <sub>⭐ 540 · Python</sub>
+- [M-Nauta/TCDF](https://github.com/M-Nauta/TCDF) - 时空因果发现框架(PyTorch):发现时间序列之间的因果关系 <sub>⭐ 539 · Jupyter Notebook</sub>
+- [HDI-Project/ATM](https://github.com/HDI-Project/ATM) - Auto Tune Models - 一个用于自动机器学习的多租户,多数据系统(模型选择和调制). <sub>⭐ 528 · Python</sub>
+- [firmai/atspy](https://github.com/firmai/atspy) - AtsPy: Python 的自动时间系列模型(由@firdai编写) <sub>⭐ 520 · Python</sub>
+- [thuml/TimeXer](https://github.com/thuml/TimeXer) - "TimeXer:为时间系列预测用外源变量增强变换器"(NeurIPS 2024)的官方执行. <sub>⭐ 520 · Python</sub>
+- [alteryx/compose](https://github.com/alteryx/compose) - 一个用于自动预测工程的机器学习工具。它允许您方便地构建预测问题,并生成可监督学习的标签。 <sub>⭐ 514 · Python</sub>
+- [mindsdb/lightwood](https://github.com/mindsdb/lightwood) - 灯木是机器学习用的乐高. <sub>⭐ 511 · Python</sub>
+- [arcelien/pba](https://github.com/arcelien/pba) - 高效学习增强政策时间表 <sub>⭐ 509 · Jupyter Notebook</sub>
+- [microsoft/archai](https://github.com/microsoft/archai) - 通过快速,可复制和模块化的研究,加快你的神经结构搜索(NAS). <sub>⭐ 486 · Python</sub>
+- [JAIJANYANI/Automated-Resume-Screening-System](https://github.com/JAIJANYANI/Automated-Resume-Screening-System) - 使用机器学习(带有数据集)的自动恢复筛选系统 <sub>⭐ 482 · CSS</sub>
+- [openml/automlbenchmark](https://github.com/openml/automlbenchmark) - OpenML 自动ML 基准框架 <sub>⭐ 469 · Python</sub>
+- [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync) - 自动同步字幕, 使用机器学习音频 <sub>⭐ 466 · Python</sub>
+- [antoinecarme/pyaf](https://github.com/antoinecarme/pyaf) - PYAF是一个用于自动时间序列预测的开源Python库,建在流行pydata模块之上. <sub>⭐ 460 · Python</sub>
+- [PriorLabs/tabpfn-time-series](https://github.com/PriorLabs/tabpfn-time-series) - 与TabPFN一起进行零射线时间系列预测(在NeurIPS 2024 TRL和TSALM讲习班上接受工作) <sub>⭐ 460 · Python</sub>
+- [deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-](https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-) - 项目使用Python分析亚马逊股票数据. Featural Instructionon进行并制作ARIMA和Fourier系列模型. LSTM有多种特性用于预测股票价格,然后... <sub>⭐ 458 · Jupyter Notebook</sub>
+- [Nixtla/tsfeatures](https://github.com/Nixtla/tsfeatures) - 从时间序列数据计算各种特性。 Python 执行 R 包 tsfeatures 。 <sub>⭐ 453 · Python</sub>
+- [alibaba/lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search) - 这是我们零成本NAS和高效视觉应用的集合. <sub>⭐ 452 · Python</sub>
+- [mit-han-lab/amc](https://github.com/mit-han-lab/amc) - (ECCV 2018) AMC:移动设备上用于模型压缩和加速的自动ML <sub>⭐ 449 · Python</sub>
+- [sapientml/sapientml](https://github.com/sapientml/sapientml) - 用于 Tabular 数据的 Generative AutomL <sub>⭐ 447 · Python</sub>
+- [ts-kim/RevIN](https://github.com/ts-kim/RevIN) - RevIN: 逆向实例规范化, 用于准确的时序预测 逆向分配 <sub>⭐ 440 · Python</sub>
+- [ankane/prophet-ruby](https://github.com/ankane/prophet-ruby) - Ruby的时间序列预测 <sub>⭐ 437 · Ruby</sub>
+- [FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing](https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing) - 实施储量计算模型,用于时间序列分类,集群,预测,以及更多! <sub>⭐ 431 · Python</sub>
+- [RamiKrispin/TSstudio](https://github.com/RamiKrispin/TSstudio) - 时间序列分析和预测工具 <sub>⭐ 428 · R</sub>
+- [GestaltCogTeam/STEP](https://github.com/GestaltCogTeam/STEP) - 我们SIGKDD'22的论文代码 预训增强空间-时空图神经网络 多变时间系列预测. <sub>⭐ 427 · Python</sub>
+- [zhangxu0307/time_series_forecasting_pytorch](https://github.com/zhangxu0307/time_series_forecasting_pytorch) - 使用 pytorch 的时序预测,包括 ANN, RNN, LSTM, GRU和 TSR- RNN, 实验代码 <sub>⭐ 418 · Python</sub>
+- [carefree0910/carefree-learn](https://github.com/carefree0910/carefree-learn) - 深层学习 PyTorch <sub>⭐ 407 · Python</sub>
+- [mit-han-lab/haq](https://github.com/mit-han-lab/haq) - (CVPR 2019,口述) HAQ:硬件-软件自动量化与混合精度 <sub>⭐ 407 · Python</sub>
+- [jackguagua/awesome-nas-papers](https://github.com/jackguagua/awesome-nas-papers) - 出色的神经结构搜索文件 <sub>⭐ 404</sub>
+- [ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS) - 自动机器学习 - 给它一个数据文件! 请检查在 ClimpsRocks/auto_ml 上这个项目的制作准备版本 <sub>⭐ 400 · Python</sub>
+- [vincent-leguen/DILATE](https://github.com/vincent-leguen/DILATE) - 我国NeurIPS2019论文"训练深时系列预报模型的形状和时间扭曲损失"的代码. <sub>⭐ 400 · Python</sub>
+- [wzhwzhwzh0921/S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba) - "Mamba对时间系列预测有效吗?"的代码. <sub>⭐ 397 · Python</sub>
+- [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - 使用演化算法对scikit-learn进行超参数优化和特性选择. GridSearchCV和RandomizedSearchCV的现代替代品. <sub>⭐ 390 · Python</sub>
+- [Pythondeveloper6/Awesome-MLOPS](https://github.com/Pythondeveloper6/Awesome-MLOPS) - 从零开始掌握MLOPS的所有现有资源 <sub>⭐ 383</sub>
+- [IBM/AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) - 制作和评价机器学习管道架构的软件包是微不足道的。 <sub>⭐ 371 · Julia</sub>
+- [nityansuman/warren](https://github.com/nityansuman/warren) - Web应用使用Facebook的先知时间序列算法实时预测关闭股票价格,并采用多变,单步的时间序列预测策略. <sub>⭐ 363 · Jupyter Notebook</sub>
+- [DataCanvasIO/HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - 用于表格数据的完整管道自动ML工具 <sub>⭐ 360 · Python</sub>
+- [upgini/upgini](https://github.com/upgini/upgini) - 机器学习的数据搜索和浓缩库 – 轻松地找到并加入来自数百个公共和溢价外部数据来源的相关功能,包括开放 &. <sub>⭐ 358 · Python</sub>
+- [MachineLP/CodeFun](https://github.com/MachineLP/CodeFun) - DataStructure (SwordOffer, LeetCode), 深层学习(Tensorflow, Keras, Pytorch), Machine Learning(sklearn, spark), AutoML, AutoDL, ModelDeploding - SQL ) 互联网档案馆的存檔,存档日期2014-03-02. <sub>⭐ 353 · Jupyter Notebook</sub>
+- [IBM/lale](https://github.com/IBM/lale) - 半自动数据科学图书馆 <sub>⭐ 350 · Python</sub>
+- [William-Liwei/EnergyPatchTST](https://github.com/William-Liwei/EnergyPatchTST) - 这是"能源PatchTST:具有不确定估计的多尺度时间序列变换器用于能源预测"的正式实施. <sub>⭐ 347 · Python</sub>
+- [datamllab/autovideo](https://github.com/datamllab/autovideo) - 自动视频:自动视频动作识别系统 <sub>⭐ 342 · Python</sub>
+- [jaungiers/Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series) - 使用多维LSTM神经网络对比特币价格进行预测 <sub>⭐ 341 · Jupyter Notebook</sub>
+- [AI4HealthUOL/SSSD](https://github.com/AI4HealthUOL/SSSD) - 论文的仓库:“基于扩散的时间系列与结构化国家空间模型的模拟和预测” <sub>⭐ 335 · Python</sub>
+- [advaitsave/Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python) - 使用AR,MA,ARMA,ARRIMA,SARIMA和预告评价的先知模型,在Python进行时间序列预处理和预测的介绍. <sub>⭐ 334 · Jupyter Notebook</sub>
+- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - 一个机器学习图书馆,供Rust使用. <sub>⭐ 334 · Rust</sub>
+- [EMI-Group/evorl](https://github.com/EMI-Group/evorl) - EvoRL是一个完全由GPU加速的进化强化学习框架,与JAX一起执行. 它支持进化强化学习(RL),进化计算(EC),进化导... <sub>⭐ 334 · Python</sub>
+- [jinglescode/time-series-forecasting-pytorch](https://github.com/jinglescode/time-series-forecasting-pytorch) - 获取Alpha Vantage的数据,并用PyTorch的LSTM预测股票价格 <sub>⭐ 331 · Jupyter Notebook</sub>
+- [accel-brain/accel-brain-code](https://github.com/accel-brain/accel-brain-code) - 这个寄存器的目的是在我网站所写的概念(PoC)和研发(R&D)的证明范围内,将原型作为案例研究. 主要的研究. . <sub>⭐ 328 · Python</sub>
+- [Coder-World04/Time-Series-Analysis-and-Forecasting](https://github.com/Coder-World04/Time-Series-Analysis-and-Forecasting) - 此寄存器包含您需要精通的时间序列分析和预测的所有内容 <sub>⭐ 323</sub>
+- [chenxi116/PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch) - PyTorch在图像网络上执行PNASNet-5 <sub>⭐ 321 · Python</sub>
+- [kgmonkhin/ESRNN-GPU](https://github.com/kgmonkhin/ESRNN-GPU) - PyTorch GPU 用于时间序列预测的ES-RN模型的实施 <sub>⭐ 317 · Python</sub>
+- [naszilla/naszilla](https://github.com/naszilla/naszilla) - Naszilla是一个用于神经架构搜索(NAS)的Python库. <sub>⭐ 316 · Python</sub>
+- [Alibaba-NLP/ACE](https://github.com/Alibaba-NLP/ACE) - (ACL-IJCNLP 2021)结构化预测嵌入的自动化聚合 <sub>⭐ 313 · Python</sub>
+- [TongjiFinLab/awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) - 精彩的时间序列预测论文和代码 <sub>⭐ 312</sub>
+- [tianyic/only_train_once_personal_footprint](https://github.com/tianyic/only_train_once_personal_footprint) - OTOv1-v3, NeurIPS, ICLR, TMLR, DNN 训练, 压缩,结构化普鲁宁, 擦除操作员, CNN, 传播, LLM <sub>⭐ 311 · Python</sub>
+- [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: 机器学习中大规模平行超参数优化的 Python 软件包 <sub>⭐ 310 · Python</sub>
+- [GestaltCogTeam/STID](https://github.com/GestaltCogTeam/STID) - CIKM'22的论文“空间-时空身份:多变时间系列预测简单而有效的基线”的代码。 <sub>⭐ 310 · Python</sub>
+- [autogluon/autogluon-assistant](https://github.com/autogluon/autogluon-assistant) - 由LLMs为终端至终端提供动力的多代理系统 <sub>⭐ 307 · Python</sub>
+- [gradsflow/gradsflow-automl](https://github.com/gradsflow/gradsflow-automl) - 基于 PyTorch 的开源自动ML 库 <sub>⭐ 306 · Python</sub>
+- [William-Liwei/SWIFT](https://github.com/William-Liwei/SWIFT) - 这是"SWIFT:国家-空间波幅综合预报技术用于增强时间序列预测"的正式实施. <sub>⭐ 302 · Python</sub>
+- [decisionintelligence/DUET](https://github.com/decisionintelligence/DUET) - (KDD 2025 Most Infrientive Paper) DUET:双聚增强多变时间序列预测 <sub>⭐ 295 · Shell</sub>
+- [duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network](https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network) - 斯坦福计划:人工智能几乎正在改变我们生活的方方面面。 今天的算法完成了直到最近只有人类专家才能完成的任务。因为它涉及到. <sub>⭐ 295 · Jupyter Notebook</sub>
+- [iterative/terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - 用于机器学习工作量的Terraform插件:点实例恢复和自动终止 / AWS, GCP, Azure, Kubernetes <sub>⭐ 295 · Go</sub>
+- [vita-epfl/trajnetplusplusbaselines](https://github.com/vita-epfl/trajnetplusplusbaselines) - (ITS'21) 人群中的人类轨迹预测:深奥的学习视角 <sub>⭐ 295 · Python</sub>
+- [LAMPSPUC/StateSpaceModels.jl](https://github.com/LAMPSPUC/StateSpaceModels.jl) - StateSpaceModels.jl是茱莉亚的一套使用状态空间模型进行时间序列分析的软件包. <sub>⭐ 292 · Julia</sub>
+- [DataCanvasIO/HyperTS](https://github.com/DataCanvasIO/HyperTS) - 全管道自动时间系列(AutotS)分析工具包。 <sub>⭐ 291 · Python</sub>
+- [PacktPublishing/Time-Series-Analysis-with-Python-Cookbook](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook) - Packt 出版的 Python Cookbook 时间系列分析 <sub>⭐ 288 · Jupyter Notebook</sub>
+- [awslabs/adatune](https://github.com/awslabs/adatune) - PyTorch 中基于渐变的超参数图解库 <sub>⭐ 287 · Python</sub>
+- [Secilia-Cxy/SOFTS](https://github.com/Secilia-Cxy/SOFTS) - 在PyTorch为"SOFTS:高效多变量时间序列预测与系列-Core Fusion"(NeurIPS'24)正式执行. <sub>⭐ 287 · Python</sub>
+- [Keytoyze/VisionTS](https://github.com/Keytoyze/VisionTS) - 我们的论文"VisionTS:Visual Masked Autoencodes Are Free-Lunch Zero-Shot时间系列预报器"的代码. <sub>⭐ 286 · Python</sub>
+- [GenseeAI/cognify](https://github.com/GenseeAI/cognify) - 多面体的AI代理和工作流程自动调试。 自动优化 LangChain, LangGraph, DSPy 程序, 使其质量更好, 执行间隔更短, 执行成本也更低。 另外还有一个简单的... <sub>⭐ 280 · Python</sub>
+- [PYFTS/pyFTS](https://github.com/PYFTS/pyFTS) - Python 模糊时间系列的开源库 <sub>⭐ 278 · Python</sub>
+- [lss-1138/SparseTSF](https://github.com/lss-1138/SparseTSF) - (TPAMI 2026 & ICML 2024 Opper) SparseTSF论文的官方寄存处:"SparseTSF:以1k参数模拟长期时间序列预测",此作品由教授实验室开发. . <sub>⭐ 275 · Python</sub>
+- [microsoft/finnts](https://github.com/microsoft/finnts) - 微软财务时序预报框架(FinnTS)是利用最前沿时序预报和云上平行化的预报包,以产生准确的预报. . <sub>⭐ 274 · R</sub>
+- [thuml/AutoTimes](https://github.com/thuml/AutoTimes) - "自动时空:通过大语言模型自动递减时间系列预报器"正式实施. <sub>⭐ 271 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [emadeldeen24/TSLANet](https://github.com/emadeldeen24/TSLANet) - (ICML 2024)一种新型的,高效的轻量级方法,结合了演化操作和适应光谱分析作为不同时序任务的基础模型. <sub>⭐ 267 · Python</sub>
+- [DataCanvasIO/Hypernets](https://github.com/DataCanvasIO/Hypernets) - 一个通用自动机器学习框架,以简化特定领域的端到端自动ML工具包的开发. <sub>⭐ 266 · Python</sub>
+- [amazon-science/unconditional-time-series-diffusion](https://github.com/amazon-science/unconditional-time-series-diffusion) - NeurIPS 2023论文"预测,精准,合成:概率时间序列预测的自我引导扩散模型"中介绍的TSDiff模型的正式PyTorch实施. <sub>⭐ 260 · Python</sub>
+- [bighuang624/DSANet](https://github.com/bighuang624/DSANet) - CIKM 2019论文"DSANet:多变时间系列预测的双重自留网络"的代码. <sub>⭐ 260 · Python</sub>
+- [KasperGroesLudvigsen/influenza_transformer](https://github.com/KasperGroesLudvigsen/influenza_transformer) - PyTorch 应用"时间序列预测的深变形器模型:流感流行情况"中使用的变形器模型 <sub>⭐ 260 · Python</sub>
+- [mldsveda/PyScrappy](https://github.com/mldsveda/PyScrappy) - 适应 Python 网页刮切工具包 + MCP 服务器,用于AI 代理。自愈选择器在网站变化中幸存下来,TLS-指印隐形绕过反机器人过滤器,CSS/XPath 剖析,以及24... <sub>⭐ 260 · Python</sub>
+- [Nixtla/transfer-learning-time-series](https://github.com/Nixtla/transfer-learning-time-series) - 时间序列的转移学习预测 <sub>⭐ 259 · Jupyter Notebook</sub>
+- [GoogleCloudPlatform/automlops](https://github.com/GoogleCloudPlatform/automlops) - 在分钟内构建 MLOPS 管道 <sub>⭐ 257 · Python</sub>
+- [AdrianAntico/AutoQuant](https://github.com/AdrianAntico/AutoQuant) - 自动化框架用于机器学习,预测,模型评价,以及解释. <sub>⭐ 251 · R</sub>
+- [aikunyi/FourierGNN](https://github.com/aikunyi/FourierGNN) - 官方实施论文"四轮GN:从纯粹的图形视角重新思考多变的时间系列预测". <sub>⭐ 250 · Python</sub>
+- [barisozmen/deepaugment](https://github.com/barisozmen/deepaugment) - 为您的数据集定制的发现增强策略 <sub>⭐ 250 · Python</sub>
+- [EpistasisLab/tpot2](https://github.com/EpistasisLab/tpot2) - DEPRECATED. 此寄存器的工作被合并为主要TPOT项目, 作为1.0版本. 请在此访问活动寄存器: https://github.com/EpistasisLab/tpot/tree/main A Python... <sub>⭐ 250 · Jupyter Notebook</sub>
+- [haofanwang/Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision) - 高级计算机远景专题的出色资源 <sub>⭐ 249</sub>
+- [plumprc/MTS-Mixers](https://github.com/plumprc/MTS-Mixers) - MTS-混音器:通过因数化时序和通道混音进行多变时间序列预测 <sub>⭐ 249 · Python</sub>
+- [rakshitha123/TSForecasting](https://github.com/rakshitha123/TSForecasting) - 该寄存器包含与一组公开可用的数据集实验相关的执行,这些数据集用于时间序列预测研究空间. <sub>⭐ 245 · R</sub>
+- [getml/getml-community](https://github.com/getml/getml-community) - 由新功能学习算法和自动化的ML驱动,对关系和多变量时间序列数据进行快速,高质量的预测. <sub>⭐ 244 · C++</sub>
+- [ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python) - Python 中的时间序列分析和预测 <sub>⭐ 242 · Jupyter Notebook</sub>
+- [py-why/causaltune](https://github.com/py-why/causaltune) - 用于因果推论的自动ML. <sub>⭐ 242 · Jupyter Notebook</sub>
+- [thuml/Koopa](https://github.com/thuml/Koopa) - "Koopa:学习非固定时间系列动态与Koopman预测器"(NeurIPS 2023)的代码发布,https://arxiv.org/abs/2305.18803 <sub>⭐ 242 · Python</sub>
+- [WenjieDu/TSDB](https://github.com/WenjieDu/TSDB) - a Python 工具箱装入173个用于机器/深层学习的公共时间序列数据集,其代码为单行. Datas集来自多个领域,包括医疗保健,金融,电力,交通,天气... <sub>⭐ 242 · Python</sub>
+- [ACAT-SCUT/CycleNet](https://github.com/ACAT-SCUT/CycleNet) - (NeurIPS 2024 Spotlight) CycleNet论文的官方寄存器:"CycleNet:通过模拟周期模式增强时间序列预测",此作品由教授实验室开发. . <sub>⭐ 240 · Jupyter Notebook</sub>
+- [laresbernardo/lares](https://github.com/laresbernardo/lares) - 分析机器学习 R Sidekick( M) <sub>⭐ 240 · R</sub>
+- [Alex-Lekov/AutoML_Alex](https://github.com/Alex-Lekov/AutoML_Alex) - 用于 Tabular 数据的先进自动机器学习 Python 库 <sub>⭐ 238 · Python</sub>
+- [EpistasisLab/Aliro](https://github.com/EpistasisLab/Aliro) - 阿利罗:AI-Driven数据科学 <sub>⭐ 238 · JavaScript</sub>
+- [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - 简化云上管线的界定和执行,规模化和布置. <sub>⭐ 237 · Jupyter Notebook</sub>
+- [XiongxiaoXu/SST](https://github.com/XiongxiaoXu/SST) - CIKM'25纸的代码:"SST:多比例混合曼巴-变身专家时间系列预测". <sub>⭐ 235 · Python</sub>
+- [jackyue1994/OLinear](https://github.com/jackyue1994/OLinear) - 多变时间序列预测 <sub>⭐ 233 · Jupyter Notebook</sub>
+- [qianlima-lab/time-series-ptms](https://github.com/qianlima-lab/time-series-ptms) - 这是一篇论文"时间序列调查预培训模型"(TKDE-24)的官方执行代码. <sub>⭐ 230 · Python</sub>
+- [aikunyi/FilterNet](https://github.com/aikunyi/FilterNet) - 官方实施"FilterNet:利用频率滤波器进行时序预报"论文. <sub>⭐ 226 · Python</sub>
+- [carlomazzaferro/scikit-hts](https://github.com/carlomazzaferro/scikit-hts) - 以熟悉的 API 预测等级时间序列 <sub>⭐ 225 · Python</sub>
+- [crawles/automl_service](https://github.com/crawles/automl_service) - 将自动ML作为使用弗拉斯克语的服务 <sub>⭐ 225 · Jupyter Notebook</sub>
+- [YoZhibo/MSGNet](https://github.com/YoZhibo/MSGNet) - MSGNet:多变时间系列预测的学习多尺度跨系列关联(AAAI2024) <sub>⭐ 224 · Python</sub>
+- [Hank0626/TimeBridge](https://github.com/Hank0626/TimeBridge) - 正式实施"时间桥:长期时间序列预测的非稳定性事项"(ICML 2025). <sub>⭐ 223 · Python</sub>
+- [Atik-Ahamed/TimeMachine](https://github.com/Atik-Ahamed/TimeMachine) - TimeMachine: 时间系列值4Mambas 用于长期预测 <sub>⭐ 221 · Python</sub>
+- [HuaizhengZhang/Active-Learning-as-a-Service](https://github.com/HuaizhengZhang/Active-Learning-as-a-Service) - 面向每个人的可扩展和高效的主动学习/数据选择系统. <sub>⭐ 221 · Python</sub>
+- [gia-uh/autogoal](https://github.com/gia-uh/autogoal) - 一个用于程序合成的Python框架,重点是自动机器学习. <sub>⭐ 215 · Python</sub>
+- [JinleiZhangBJTU/ResNet-LSTM-GCN](https://github.com/JinleiZhangBJTU/ResNet-LSTM-GCN) - 城市铁路过境短期客流预报深造建筑规范. <sub>⭐ 215 · Python</sub>
+- [PacktPublishing/Modern-Time-Series-Forecasting-with-Python-2E](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python-2E) - 现代时间系列预告与 Python 2E, Packt 出版 <sub>⭐ 213 · Jupyter Notebook</sub>
+- [microsoft/ProbTS](https://github.com/microsoft/ProbTS) - ProbTS是用于时间序列预测的基准工具包. <sub>⭐ 211 · Python</sub>
+- [Zeying-Gong/PatchMixer](https://github.com/Zeying-Gong/PatchMixer) - 关于"PatchMixer:一个用于长期时间系列预测的补丁-混音架构"的代码发布. <sub>⭐ 211 · Python</sub>
+- [signaflo/java-timeseries](https://github.com/signaflo/java-timeseries) - Java 时间序列分析 <sub>⭐ 209 · Java</sub>
+- [YGZWQZD/LAMDA-SSL](https://github.com/YGZWQZD/LAMDA-SSL) - 30 半监督学习算法 <sub>⭐ 208 · Python</sub>
+- [trainindata/feature-engineering-for-time-series-forecasting](https://github.com/trainindata/feature-engineering-for-time-series-forecasting) - 在线课程"时空系列预报的精华工程"代码存储器. <sub>⭐ 207 · Jupyter Notebook</sub>
+- [VITA-Group/AutoSpeech](https://github.com/VITA-Group/AutoSpeech) - (InterSpeech 2020) "AutoSpeech:神经建筑搜索议长表彰",由邵金鼎*,天龙陈*,新余龚,魏维章,张阳汪主演. <sub>⭐ 207 · Python</sub>
+- [albumentations-team/autoalbument](https://github.com/albumentations-team/autoalbument) - 图像增强的自动ML. AutoAlbument 使用快捷自动增强算法来找到最佳的增强策略. Document - https://albumentations.ai/docs/autoalbument <sub>⭐ 205 · Python</sub>
+- [noahho/CAAFE](https://github.com/noahho/CAAFE) - 使用语言模型和您数据集描述的半自动特性工程过程。 基于“LLMs for semi-Automatic Data Science: Introduction CAAFE for Celforce-Aware Automatic...”的论文。 <sub>⭐ 202 · Python</sub>
+- [elena-roff/time-series-prophet](https://github.com/elena-roff/time-series-prophet) - Time Series Analysis & preference of Rossmann Sales with Python. EDA,TSA和季节分解,与先知和XGboost模拟回归的预测. <sub>⭐ 201 · Jupyter Notebook</sub>
+- [ditschuk/pytorch-tsmixer](https://github.com/ditschuk/pytorch-tsmixer) - 一种Pip-Installable PyTorch执行的TMMixer,为时间序列预测提供了方便使用和有效的解决方案. <sub>⭐ 200 · Python</sub>
+- [aikunyi/FreTS](https://github.com/aikunyi/FreTS) - 官方实施论文"Frequentency-domain MLPs是时代系列预测中更有效的学习者". <sub>⭐ 199 · Python</sub>
+- [LGE-ARC-AdvancedAI/auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer) - 一个自动的ML模型优化工具. <sub>⭐ 198 · Python</sub>
+- [tblume1992/ThymeBoost](https://github.com/tblume1992/ThymeBoost) - 以渐变助推时间序列解析预告 <sub>⭐ 198 · Python</sub>
+- [romilbert/samformer](https://github.com/romilbert/samformer) - SAMformer正式实施,一个利用Sharpness-Award最小化的变压器和用于时间序列预测的Cannel-Wise注意力. <sub>⭐ 191 · Python</sub>
+- [muslehal/xLSTMTime](https://github.com/muslehal/xLSTMTime) - xLSTM 时序预测时间 <sub>⭐ 188 · Python</sub>
+- [lightforever/mlcomp](https://github.com/lightforever/mlcomp) - 分布式 DAG( 定向循环图) 用于UI 机器学习的框架 <sub>⭐ 187 · Python</sub>
+- [vanderschaarlab/autoprognosis](https://github.com/vanderschaarlab/autoprognosis) - 用于临床预测的预测模型管道设计自动化的系统. <sub>⭐ 186 · Python</sub>
+- [daydreamer-amelia/From_News_to_Forecast](https://github.com/daydreamer-amelia/From_News_to_Forecast) - 该存放处用于题为《从新闻到预测:将事件分析纳入基于LLM的时间序列预测与反射》的论文(NeurIPS 2024) <sub>⭐ 185 · Python</sub>
+- [albertogaspar/dts](https://github.com/albertogaspar/dts) - 一个用于多步时间序列预测的Keras库. <sub>⭐ 184 · Python</sub>
+- [chaoshangcs/GTS](https://github.com/chaoshangcs/GTS) - Discrete Graph Structure Learning for Expression multi time Series,ICLR 2021. 互联网档案馆的存檔,存档日期2013-09-02. <sub>⭐ 178 · Python</sub>
+- [lukas-blecher/AutoMask](https://github.com/lukas-blecher/AutoMask) - 自动 Rotoscroping/Masking 工具,为Blender(WIP)的机器学习提供动力 <sub>⭐ 178 · Python</sub>
+- [rafiqhasan/auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow) - 仅用3行代码构建低码自动化 Tensorflow 可解释模型。 由 Hasan Rafiq 创建的库 - https://www.linkin.com/in/sam04 <sub>⭐ 178 · Python</sub>
+- [mljar/automl-app](https://github.com/mljar/automl-app) - AutoML Web App - 用图形用户界面(GUI)自动构建机器学习管道。 您可以在本地运行应用程序 ! <sub>⭐ 177 · Jupyter Notebook</sub>
+- [xiaomi-automl/FairDARTS](https://github.com/xiaomi-automl/FairDARTS) - Fair DARTS: 消除不同建筑搜索中的不公平优势 <sub>⭐ 177 · Python</sub>
+- [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - 用于开发自动ML系统的简单、可扩展库 <sub>⭐ 176 · Python</sub>
+- [GoogleCloudPlatform/tensorflow-lifetime-value](https://github.com/GoogleCloudPlatform/tensorflow-lifetime-value) - 使用自动ML表格预测客户寿命值,或带有TensorFlow神经网络和Lifetimes Python库的ML引擎. <sub>⭐ 175 · Jupyter Notebook</sub>
+- [IvanBongiorni/GAN-RNN_Timeseries-imputation](https://github.com/IvanBongiorni/GAN-RNN_Timeseries-imputation) - 用于估算时序数据的经常性GAN. ensorFlow 2中执行于维基百科的网络交通预报数据集来自Kaggle. <sub>⭐ 173 · Jupyter Notebook</sub>
+- [jinglescode/time-series-forecasting-tensorflowjs](https://github.com/jinglescode/time-series-forecasting-tensorflowjs) - 利用TensorFlow.js框架进行长期短期内存预测 <sub>⭐ 173 · HTML</sub>
+- [jackievaleri/BioAutoMATED](https://github.com/jackievaleri/BioAutoMATED) - 用于分析、解释和设计生物序列的自动机器学习 <sub>⭐ 172 · Jupyter Notebook</sub>
+- [ChenxiLiu-HNU/TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA) - (AAAI 2025) 官方实施"TimeCMA:走向LLM-Empower 多变时间系列通过跨模式对齐预测". <sub>⭐ 170 · Python</sub>
+- [DeepAuto-AI/automl-agent](https://github.com/DeepAuto-AI/automl-agent) - (ICML-25) 自动ML-代理:全管道自动ML的多代理 LLM框架 <sub>⭐ 170 · Python</sub>
+- [kakaobrain/autoclint](https://github.com/kakaobrain/autoclint) - 专门设计的光版快速自动增强 <sub>⭐ 169 · Python</sub>
+- [RamiKrispin/atsaf](https://github.com/RamiKrispin/atsaf) - 应用时间序列分析和预测 <sub>⭐ 169 · R</sub>
+- [DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - 在大赦国际高层会议和期刊上发表论文、讲座和《时代系列AI调查》的专业清单。 <sub>⭐ 168</sub>
+- [hengzhe-zhang/EvolutionaryForest](https://github.com/hengzhe-zhang/EvolutionaryForest) - 基于基因编程的自动化特性工程开源 Python 库 <sub>⭐ 168 · Python</sub>
+- [manuhup/LSTM-XGBoost-Hybrid-Forecasting](https://github.com/manuhup/LSTM-XGBoost-Hybrid-Forecasting) - LSTM- XGBoost 时间序列预测 <sub>⭐ 168 · Jupyter Notebook</sub>
+- [mit-han-lab/amc-models](https://github.com/mit-han-lab/amc-models) - (ECCV 2018) AMC:移动设备上用于模型压缩和加速的自动ML <sub>⭐ 168 · Python</sub>
+- [Hank0626/CALF](https://github.com/Hank0626/CALF) - 正式实施"CALF:通过跨模式精细调图预测时间系列对准LLMS"(AAAI 2025). <sub>⭐ 166 · Python</sub>
+- [fnnx-ai/falcon](https://github.com/fnnx-ai/falcon) - 轻量级自动ML库. <sub>⭐ 165 · Python</sub>
+- [tvdboom/ATOM](https://github.com/tvdboom/ATOM) - 优化模型的自动化工具 <sub>⭐ 165 · HTML</sub>
+- [bukosabino/btctrading](https://github.com/bukosabino/btctrading) - 带有比特币值的时序预测,用机器学习算法检测上下趋势 <sub>⭐ 163 · Jupyter Notebook</sub>
+- [cerlymarco/tspiral](https://github.com/cerlymarco/tspiral) - 一个用于时间序列预测的python套件,带有scikit-learn估计器. <sub>⭐ 163 · Jupyter Notebook</sub>
+- [lightaime/sgas](https://github.com/lightaime/sgas) - SGAS:顺序贪婪建筑搜索(CVPR'2020) https://www.deepgcns.org/auto/sgas <sub>⭐ 162 · Python</sub>
+- [LeronQ/STGCN-Pytorch](https://github.com/LeronQ/STGCN-Pytorch) - 论文:spatio-Temperal Graph 革命网络:交通预测的深层学习框架. Spatio-Temperal Graph 革命网络与PyTorch的建立 <sub>⭐ 159 · Python</sub>
+- [nfrumkin/forecast-prometheus](https://github.com/nfrumkin/forecast-prometheus) - 用于时间序列预测w/Prometheus计量的分析和机器学习技术汇编 <sub>⭐ 156 · Jupyter Notebook</sub>
+- [business-science/sweep](https://github.com/business-science/sweep) - 延长时间序列预测的扫帚 <sub>⭐ 154 · R</sub>
+- [GuoKent/Hybrid_time_series_forecasting_model](https://github.com/GuoKent/Hybrid_time_series_forecasting_model) - 用于评估锂-离子电池的国家负责人的前LSTM模型 <sub>⭐ 154 · Python</sub>
+- [jim-schwoebel/allie](https://github.com/jim-schwoebel/allie) - 用于音频,文本,图像,视频或.CSV文件的自动机器学习框架(50+显示器和15+模型导师). Python 3.6需要. <sub>⭐ 153 · Python</sub>
+- [PatchTST/PatchTST](https://github.com/PatchTST/PatchTST) - PatchTST的一个非常规执行:"一个时代系列值64字:用变形器进行长期预测". <sub>⭐ 153 · Python</sub>
+- [PlaytikaOSS/tft-torch](https://github.com/PlaytikaOSS/tft-torch) - 用于可解释的多视距时间系列预测的 Python 库 <sub>⭐ 153 · Python</sub>
+- [Zero-coder/FECAM](https://github.com/Zero-coder/FECAM) - 关于"FECAM:频率增强通道注意机制用于时间系列预报"的代码发布 QQ <sub>⭐ 153 · Jupyter Notebook</sub>
+- [ritikdhame/Electricity_Demand_and_Price_forecasting](https://github.com/ritikdhame/Electricity_Demand_and_Price_forecasting) - 建设时间系列预测模型,包括XGboost回流器,GRU(Ged Evenual Unit),LSTM(长期短期记忆),CNN(革命神经网络),CNN-LSTM,以及LSTM-Attenty....... <sub>⭐ 152 · Jupyter Notebook</sub>
+- [heidelbergcement/hcrystalball](https://github.com/heidelbergcement/hcrystalball) - 一个将API统一用于最常用的库库和Python生态系统中时间序列预测的建模技术的库. <sub>⭐ 149 · Python</sub>
+- [antoyang/NAS-Benchmark](https://github.com/antoyang/NAS-Benchmark) - (ICLR 2020) NAS评价令人沮丧的艰难 <sub>⭐ 148 · Python</sub>
+- [thuml/Timer-XL](https://github.com/thuml/Timer-XL) - 关于"Timer-XL:用于统一时间系列预测的长文本变换器"模型发布. <sub>⭐ 148 · Jupyter Notebook</sub>
+- [aj-cloete/pssa](https://github.com/aj-cloete/pssa) - Python 时间序列预测的 Singular Spectrum 分析 <sub>⭐ 147 · Jupyter Notebook</sub>
+- [EthanChenYZ/Time-Series-Forecast](https://github.com/EthanChenYZ/Time-Series-Forecast) - 时间序列预测代码 <sub>⭐ 147 · Jupyter Notebook</sub>
+- [MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells](https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells) - 自动识别和计数血细胞(RBC、WBC和Platetlet)的机器学习方法,并有KNN和IOU的核查。 <sub>⭐ 146 · Python</sub>
+- [CollinRooney12/htsprophet](https://github.com/CollinRooney12/htsprophet) - 使用先知进行分级时间序列预测 <sub>⭐ 145 · Python</sub>
+- [ealcobaca/pymfe](https://github.com/ealcobaca/pymfe) - Python Meta- Feature 提取器软件包. <sub>⭐ 145 · Python</sub>
+- [Geo-Joy/Deep-Learning-for-Time-Series-Forecasting](https://github.com/Geo-Joy/Deep-Learning-for-Time-Series-Forecasting) - 这个寄存器旨在教你,一步步的,如何用Python中的具体和可执行的例子来开发时间序列预测的深层学习方法. <sub>⭐ 145</sub>
+- [YHYHYHYHYHY/ATFNet](https://github.com/YHYHYHYHYHY/ATFNet) - ATFNet正式实施:适应性时间-频率集成网络 长期时间系列预测 <sub>⭐ 145 · Shell</sub>
+- [DC-research/TEMPO](https://github.com/DC-research/TEMPO) - "TEMPO:即时Generative Pre-trained Transformer for Time Series prevention (ICLR 2024)"的官方代码. TEMPO是最早的开源时间系列基础模型之一,用于. <sub>⭐ 144 · Python</sub>
+- [changlin31/BossNAS](https://github.com/changlin31/BossNAS) - (ICCV 2021) BossNAS:探索混合有线电视新闻网的变频器,采用块形自控神经结构搜索 <sub>⭐ 143 · Python</sub>
+- [euclidjda/deep-quant](https://github.com/euclidjda/deep-quant) - 深入学习预测公司基本数据 <sub>⭐ 141 · Python</sub>
+- [georgeguimaraes/soothsayer](https://github.com/georgeguimaraes/soothsayer) - Elixir 用于时间序列预测的图书馆,灵感来自Facebook的先知和神经预言 <sub>⭐ 141 · Elixir</sub>
+- [lss-1138/SegRNN](https://github.com/lss-1138/SegRNN) - (IEE IoT-J 2026) SegRN文件的官方寄存处:"长期时间序列预测的分组经常性神经网络",本作由林伟伟威教授的实验室开发. ...... <sub>⭐ 141 · Python</sub>
+- [usail-hkust/t-PatchGNN](https://github.com/usail-hkust/t-PatchGNN) - 正式实施ICML24论文"不规则多变时间系列预测:可变补丁图神经网络方法". <sub>⭐ 141 · Python</sub>
+- [AbdullahO/mSSA](https://github.com/AbdullahO/mSSA) - 多变量 Singular Spectrum analysis (mSSA):多变量时间序列的预测和偏振算法 <sub>⭐ 140 · Jupyter Notebook</sub>
+- [CityMind-Lab/ICML25-TimeVLM](https://github.com/CityMind-Lab/ICML25-TimeVLM) - (ICML 2025) Time-VLM:探索多模式视野-语言模型 扩增时间系列预测 <sub>⭐ 140 · Python</sub>
+- [ForestsKing/GLAFF](https://github.com/ForestsKing/GLAFF) - PyTorch执行"重新思考时间戳的威力,用于强力时序预测:全球-局部融合视角"(NeurIPS 2024). <sub>⭐ 140 · Python</sub>
+- [ServiceNow/TACTiS](https://github.com/ServiceNow/TACTiS) - TACTIS-2:来自ServiceNow Research的多变时间序列的更好,更快,更简单的注意式 Copulass <sub>⭐ 140 · Python</sub>
+- [TROUBADOUR000/AMD](https://github.com/TROUBADOUR000/AMD) - PyTorch"时间序列预测多尺度分解框架"(AAAI 2025)的实施. <sub>⭐ 140 · Python</sub>
+- [ellisp/forecastxgb-r-package](https://github.com/ellisp/forecastxgb-r-package) - 一个时间序列模型和预测的 R 软件包,其中xgboost 兼容 {forecast} S3 类 <sub>⭐ 139 · HTML</sub>
+- [pedrolarben/TimeSeriesForecasting-DeepLearning](https://github.com/pedrolarben/TimeSeriesForecasting-DeepLearning) - 关于时间序列预测的深层学习结构的体会回顾 <sub>⭐ 139 · Python</sub>
+- [abaranovskis-redsamurai/automation-repo](https://github.com/abaranovskis-redsamurai/automation-repo) - 机器学习和工艺自动化 <sub>⭐ 138 · Jupyter Notebook</sub>
+- [hihihihiwsf/AST](https://github.com/hihihihiwsf/AST) - 时间序列预测的逆变形器 <sub>⭐ 138 · Python</sub>
+- [kennedyCzar/STOCK-RETURN-PREDICTION-USING-KNN-SVM-GUASSIAN-PROCESS-ADABOOST-TREE-REGRESSION-AND-QDA](https://github.com/kennedyCzar/STOCK-RETURN-PREDICTION-USING-KNN-SVM-GUASSIAN-PROCESS-ADABOOST-TREE-REGRESSION-AND-QDA) - 使用机器学习方法预测股票价格,时间序列分析,在机器学习中使用预测模型预测股票回归,Hedge Funds使用的方法是. <sub>⭐ 137 · Jupyter Notebook</sub>
+- [satyam9090/Automatic-Indian-Sign-Language-Translator-ISL](https://github.com/satyam9090/Automatic-Indian-Sign-Language-Translator-ISL) - 我创建了一个应用程序,将现场语音或音频录音作为输入,将其转换成文本并显示相关的印度手语图像或GIF,使用自然语言处理. . <sub>⭐ 136 · Python</sub>
+- [ustc-time-series/SAN](https://github.com/ustc-time-series/SAN) - Pytorch 实施 NIPS'23文件:非固定时间序列的适应性正常化预测:一个临时切片视角 <sub>⭐ 136 · Python</sub>
+- [vanderschaarlab/clairvoyance](https://github.com/vanderschaarlab/clairvoyance) - Clairvoyance:用于医疗时间系列的统一、端到端的自动ML管道 <sub>⭐ 135 · Jupyter Notebook</sub>
+- [milenavuletic/Fin-GAN](https://github.com/milenavuletic/Fin-GAN) - 论文"Fin-GAN:通过基因辅助网络预测和分类金融时间系列"的配套代码. <sub>⭐ 134 · Python</sub>
+- [dreamers-laboratory/timeseries-atlas](https://github.com/dreamers-laboratory/timeseries-atlas) - 现代时序预测架构的地图,每幅图都有简短的README和可运行代码. <sub>⭐ 133 · Python</sub>
+- [hyliush/deep-time-series](https://github.com/hyliush/deep-time-series) - 深层学习 PyTorch 库用于时间序列预测 <sub>⭐ 133 · Python</sub>
+- [irfanICMLL/Auto_painter](https://github.com/irfanICMLL/Auto_painter) - 最近,利用深层神经网络进行现实的图像生成成为机器学习和计算机视觉中的热门话题. 这种图像可以通过从大... <sub>⭐ 133 · Python</sub>
+- [nredell/forecastML](https://github.com/nredell/forecastML) - Python 支持的 R 软件包,用于机器学习和深层学习算法的多步前预报 <sub>⭐ 133 · R</sub>
+- [ThyrixYang/awesome-artificial-intelligence-research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) - 由人工智能(AI)研究(英语:Artificial Intelligence (Research))编译的列表,跟踪AI研究的前沿趋势,包括推荐系统,计算机视觉,机器学习等. <sub>⭐ 133</sub>
+- [TongjiFinLab/FinTSB](https://github.com/TongjiFinLab/FinTSB) - PyTorch 执行“FinTSB:财务时间系列预测的全面和实用基准”(FCS & ICAIF 2025讲习班最佳文件) <sub>⭐ 133 · Python</sub>
+- [NVIDIA/clara-train-examples](https://github.com/NVIDIA/clara-train-examples) - 演示如何使用克拉拉列车构建医学成像深层学习模型的示例笔记本 <sub>⭐ 132 · HTML</sub>
+- [passalis/dain](https://github.com/passalis/dain) - 深度适应性输入 时间序列的常态化预测 <sub>⭐ 132 · Python</sub>
+- [Masterleia/TSF_LSTF_Compare](https://github.com/Masterleia/TSF_LSTF_Compare) - 时间序列预测,特别是在LSTF中进行比较,包括Informer,Autoformer,Reformer,Pyraformer,FEDformer,变形器,MTGN,LSTNet,Graph WaveNet <sub>⭐ 131 · Python</sub>
+- [vanderschaarlab/temporai](https://github.com/vanderschaarlab/temporai) - TemporAI:以ML为中心的医疗时间系列工具包 <sub>⭐ 130 · Python</sub>
+- [lancopku/text-autoaugment](https://github.com/lancopku/text-autoaugment) - (EMNLP 2021) 文本自动化:文本分类的学习组成增强政策 <sub>⭐ 129 · Python</sub>
+- [Nixtla/datasetsforecast](https://github.com/Nixtla/datasetsforecast) - 用于时间序列预测的数据集 <sub>⭐ 129 · Python</sub>
+- [EDF-Lab/ts-icl](https://github.com/EDF-Lab/ts-icl) - TS-ICL:通过内语学习进行时间序列预测和截图的时效基础模型 <sub>⭐ 127 · Python</sub>
+- [WenjieDu/BrewPOTS](https://github.com/WenjieDu/BrewPOTS) - PyPOTS 的教程,引导您建立部分可观察时间序列数据集的模型. <sub>⭐ 127 · Jupyter Notebook</sub>
+- [WilliamLwj/PyXAB](https://github.com/WilliamLwj/PyXAB) - PyXAB - 一个用于 X 武装匪徒和在线黑盒优化的 Python 库 <sub>⭐ 127 · Python</sub>
+- [yfzhang114/OneNet](https://github.com/yfzhang114/OneNet) - 这是NeurIPS 2023论文“OneNet:增强时间系列预测模型在概念漂移下的应用”的正式PyTorch执行 <sub>⭐ 127 · Python</sub>
+- [hughxx/tsf-new-paper-taste](https://github.com/hughxx/tsf-new-paper-taste) - 时间序列预测领域新论文的代码执行. <sub>⭐ 124 · Python</sub>
+- [MLBazaar/Cardea](https://github.com/MLBazaar/Cardea) - 一个开放源代码自动程序库,用于在保健领域使用机器学习. <sub>⭐ 124 · Python</sub>
+- [stitsyuk/xPatch](https://github.com/stitsyuk/xPatch) - (AAAI 2025) 官方实施"xPatch:双层时间系列预测与标本季-趋势分解". <sub>⭐ 123 · Python</sub>
+- [TROUBADOUR000/TimeFilter](https://github.com/TROUBADOUR000/TimeFilter) - PyTorch 执行"时空测试:补丁-特定空间-时空图形 Filtation for Time 系列预测"(ICML 2025). <sub>⭐ 123 · Python</sub>
+- [ACAT-SCUT/TQNet](https://github.com/ACAT-SCUT/TQNet) - (ICML 2025) TQNet论文官方寄存器:"高效多变时间系列预测的临时查询网络",本作由林伟伟教授实验室开发. . <sub>⭐ 121 · Python</sub>
+- [lavinei/pybats](https://github.com/lavinei/pybats) - 贝叶斯时间序列预测和决策分析 <sub>⭐ 121 · Jupyter Notebook</sub>
+- [ajayarunachalam/Deep_XF](https://github.com/ajayarunachalam/Deep_XF) - 以最先进的深神经网络和动态因子模型在时间序列数据集上建立具有单一代码线的可解释预测和即时播报模型软件包。 <sub>⭐ 119 · Jupyter Notebook</sub>
+- [AutoViML/deep_autoviml](https://github.com/AutoViML/deep_autoviml) - 在单一的代码线中构建 lamorflow keras 模型管道。 现在使用 mlflow 跟踪 。 由 Ram Seshadri 创建。 合作者欢迎。 请求后允许 。 <sub>⭐ 119 · Python</sub>
+- [cmusatyalab/OpenTPOD](https://github.com/cmusatyalab/OpenTPOD) - 打开无痛对象检测工具箱 <sub>⭐ 119 · CSS</sub>
+- [smilehanCN/EasyTSF](https://github.com/smilehanCN/EasyTSF) - 时间线预测实验Assistance, EasyTSF <sub>⭐ 119 · Python</sub>
+- [zhangxu0307/time-series-forecasting-keras](https://github.com/zhangxu0307/time-series-forecasting-keras) - 时间序列预测使用keras, inlcuding LSTM,RNN,MLP,GRU,SVR和多lag的培训和预测方法,ICONIP2017纸. <sub>⭐ 119 · Python</sub>
+- [daxin007/ARMD](https://github.com/daxin007/ARMD) - (AAAI 2025) 官方实施"时间系列预测自动递减移动扩散模式". <sub>⭐ 118 · Python</sub>
+- [amirstar/Deep-Forecast](https://github.com/amirstar/Deep-Forecast) - 论文的代码"深度预测:深学习-基于spatio-时空预测",ICML时间系列讲习班2017. <sub>⭐ 117 · Python</sub>
 
 ---
 [⬆️ 返回顶部](#-数据分析师与-bi-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

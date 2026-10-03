@@ -20,1026 +20,1026 @@
 
 > 拡大、ノイズ除去、古い写真の修復。
 
-- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. <sub>⭐ 37.7k · Python</sub>
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. <sub>⭐ 21.9k · C++</sub>
-- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - (NeurIPS 2022) Towards Robust Blind Face Restoration with Codebook Lookup Transformer <sub>⭐ 18.2k · Python</sub>
-- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options <sub>⭐ 14.8k · Kotlin</sub>
-- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool <sub>⭐ 7.3k · TypeScript</sub>
-- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and… <sub>⭐ 6.1k · Python</sub>
-- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai. <sub>⭐ 5.7k · Python</sub>
-- [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository) <sub>⭐ 5.6k · Python</sub>
-- [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face… <sub>⭐ 4.8k</sub>
-- [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unofficial implementation of Image Super-Resolution via Iterative Refinement by Pytorch <sub>⭐ 3.9k · Python</sub>
-- [cszn/KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR <sub>⭐ 3.5k · Python</sub>
-- [tensorlayer/SRGAN](https://github.com/tensorlayer/SRGAN) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network <sub>⭐ 3.5k · Python</sub>
-- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise. <sub>⭐ 3.1k · C++</sub>
-- [IceClear/StableSR](https://github.com/IceClear/StableSR) - (IJCV2024) Exploiting Diffusion Prior for Real-World Image Super-Resolution <sub>⭐ 2.7k · Python</sub>
-- [swz30/Restormer](https://github.com/swz30/Restormer) - (CVPR 2022--Oral) Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring. <sub>⭐ 2.6k · Python</sub>
-- [wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) - Collection of popular and reproducible image denoising works. <sub>⭐ 2.5k</sub>
-- [amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) - Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal) <sub>⭐ 2.1k</sub>
-- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - (CVPR 2026) Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny… <sub>⭐ 1.9k · Python</sub>
-- [XPixelGroup/HAT](https://github.com/XPixelGroup/HAT) - CVPR2023 - Activating More Pixels in Image Super-Resolution Transformer TPAMI - HAT: Hybrid Attention Transformer for Image Restoration <sub>⭐ 1.6k · Python</sub>
-- [NJU-PCALab/STAR](https://github.com/NJU-PCALab/STAR) - (ICCV 2025) STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution <sub>⭐ 1.5k · Python</sub>
-- [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - (CVPR 2024) Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution <sub>⭐ 1.5k · Python</sub>
-- [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR) - Arbitrary-steps Image Super-resolution via Diffusion Inversion (CVPR 2025) <sub>⭐ 1.5k · Python</sub>
-- [zsyOAOA/ResShift](https://github.com/zsyOAOA/ResShift) - ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS@2023 Spotlight, TPAMI@2024) <sub>⭐ 1.4k · Python</sub>
-- [swz30/MPRNet](https://github.com/swz30/MPRNet) - (CVPR 2021) Multi-Stage Progressive Image Restoration. SOTA results for Image deblurring, deraining, and denoising. <sub>⭐ 1.4k · Python</sub>
-- [cszn/BSRGAN](https://github.com/cszn/BSRGAN) - Designing a Practical Degradation Model for Deep Blind Image Super-Resolution (ICCV, 2021) (PyTorch) - We released the training code! <sub>⭐ 1.4k · Python</sub>
-- [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - (ICLR 2023 Oral) Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model <sub>⭐ 1.4k · Python</sub>
-- [W2GenAI-Lab/LucidFlux](https://github.com/W2GenAI-Lab/LucidFlux) - LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer, ICLR 2026 <sub>⭐ 1.3k · Python</sub>
-- [kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res) - Audio super resolution using neural networks <sub>⭐ 1.3k · Python</sub>
-- [leftthomas/SRGAN](https://github.com/leftthomas/SRGAN) - A PyTorch implementation of SRGAN based on CVPR 2017 paper "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" <sub>⭐ 1.3k · Python</sub>
-- [okooo5km/HiPixel](https://github.com/okooo5km/HiPixel) - HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models. <sub>⭐ 1.2k · Swift</sub>
-- [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer) - DLSS 5 Neural Rendering for Images & Video with Frame Generation, RTX Video Super Resolution, HDR, and Live Playback <sub>⭐ 1.2k · Python</sub>
-- [yu4u/noise2noise](https://github.com/yu4u/noise2noise) - An unofficial and partial Keras implementation of "Noise2Noise: Learning Image Restoration without Clean Data" <sub>⭐ 1.1k · Python</sub>
-- [caoscott/SReC](https://github.com/caoscott/SReC) - PyTorch Implementation of "Lossless Image Compression through Super-Resolution" <sub>⭐ 1.0k · Python</sub>
-- [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details. <sub>⭐ 1.0k · Python</sub>
-- [yangxy/PASD](https://github.com/yangxy/PASD) - (ECCV2024) Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization <sub>⭐ 1.0k · Python</sub>
-- [cszn/USRNet](https://github.com/cszn/USRNet) - Deep Unfolding Network for Image Super-Resolution (CVPR, 2020) (PyTorch) <sub>⭐ 920 · Python</sub>
-- [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License. <sub>⭐ 900 · TypeScript</sub>
-- [prs-eth/thera](https://github.com/prs-eth/thera) - (TMLR 2025) Thera: Aliasing-Free Arbitrary-Scale Super-Resolution with Neural Heat Fields <sub>⭐ 868 · Python</sub>
-- [brade31919/SRGAN-tensorflow](https://github.com/brade31919/SRGAN-tensorflow) - Tensorflow implementation of the SRGAN algorithm for single image super-resolution <sub>⭐ 857 · Python</sub>
-- [dipy/dipy](https://github.com/dipy/dipy) - DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of… <sub>⭐ 847 · Python</sub>
-- [taco-group/4KAgent](https://github.com/taco-group/4KAgent) - (NeurIPS 2025) 4KAgent: Agentic Any Image to 4K Super-Resolution. An intelligent computer vision agent that can magically restore any image to perfect-4K! <sub>⭐ 831 · Python</sub>
-- [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning <sub>⭐ 822 · Python</sub>
-- [Kizzuwatnaa/DLSS5-Autopilot](https://github.com/Kizzuwatnaa/DLSS5-Autopilot) - Puts DLSS 5 neural rendering into games that never shipped it, and brings the game's own DLSS up to date - super resolution, ray reconstruction, frame generation. Scans your library, picks one of… <sub>⭐ 820 · Python</sub>
-- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app <sub>⭐ 813 · JavaScript</sub>
-- [researchmm/TTSR](https://github.com/researchmm/TTSR) - (CVPR'20) TTSR: Learning Texture Transformer Network for Image Super-Resolution <sub>⭐ 794 · Python</sub>
-- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4K in mpv with lightweight super-resolution models <sub>⭐ 754 · C#</sub>
-- [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - (ICLR 2025) Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration <sub>⭐ 753 · Python</sub>
-- [soapisnotfat/super-resolution](https://github.com/soapisnotfat/super-resolution) - collection of super-resolution models & algorithms <sub>⭐ 753 · Python</sub>
-- [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - (ECCV 2024) InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR <sub>⭐ 746 · Jupyter Notebook</sub>
-- [taco-group/SparkVSR](https://github.com/taco-group/SparkVSR) - (ECCV 2026) SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation <sub>⭐ 741 · Python</sub>
-- [swz30/MIRNet](https://github.com/swz30/MIRNet) - (ECCV 2020) Learning Enriched Features for Real Image Restoration and Enhancement. SOTA results for image denoising, super-resolution, and image enhancement. <sub>⭐ 725 · Python</sub>
-- [Algolzw/image-restoration-sde](https://github.com/Algolzw/image-restoration-sde) - Image Restoration with Mean-Reverting Stochastic Differential Equations, ICML 2023. Winning solution of the NTIRE 2023 Image Shadow Removal Challenge. <sub>⭐ 724 · Python</sub>
-- [jiny2001/dcscn-super-resolution](https://github.com/jiny2001/dcscn-super-resolution) - A tensorflow implementation of "Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network", a deep learning based Single-Image Super-Resolution (SISR) model. <sub>⭐ 713 · Python</sub>
-- [sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network / a PyTorch Tutorial to Super-Resolution <sub>⭐ 708 · Python</sub>
-- [mv-lab/swin2sr](https://github.com/mv-lab/swin2sr) - (ECCV) Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration. Advances in Image Manipulation (AIM) workshop ECCV 2022. Try it out! over 3.3M runs… <sub>⭐ 695 · Python</sub>
-- [cswry/OSEDiff](https://github.com/cswry/OSEDiff) - (NeurlPS2024) One-Step Effective Diffusion Network for Real-World Image Super-Resolution <sub>⭐ 682 · Python</sub>
-- [xiaomi-automl/FALSR](https://github.com/xiaomi-automl/FALSR) - Fast, Accurate and Lightweight Super-Resolution models <sub>⭐ 681 · Python</sub>
-- [cswry/SeeSR](https://github.com/cswry/SeeSR) - (CVPR2024) SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution <sub>⭐ 658 · Python</sub>
-- [kepengxu/PGTFormer](https://github.com/kepengxu/PGTFormer) - (IJCAI'24) Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer <sub>⭐ 631 · Python</sub>
-- [tegg89/SRCNN-Tensorflow](https://github.com/tegg89/SRCNN-Tensorflow) - Image Super-Resolution Using Deep Convolutional Networks in Tensorflow https://arxiv.org/abs/1501.00092v3 <sub>⭐ 614 · Python</sub>
-- [csslc/CCSR](https://github.com/csslc/CCSR) - (TIP2026) Official codes of CCSRv2 and CCSRv1: Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution <sub>⭐ 610 · Python</sub>
-- [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction… <sub>⭐ 605 · Jupyter Notebook</sub>
-- [JiahuiYu/wdsr_ntire2018](https://github.com/JiahuiYu/wdsr_ntire2018) - Code of our winning entry to NTIRE super-resolution challenge, CVPR 2018 <sub>⭐ 599 · Python</sub>
-- [wyf0912/SinSR](https://github.com/wyf0912/SinSR) - (CVPR 2024) SinSR: Diffusion-Based Image Super-Resolution in a Single Step <sub>⭐ 585 · Python</sub>
-- [leftthomas/ESPCN](https://github.com/leftthomas/ESPCN) - A PyTorch implementation of ESPCN based on CVPR 2016 paper "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network" <sub>⭐ 575 · Python</sub>
-- [cszn/FFDNet](https://github.com/cszn/FFDNet) - FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising (TIP, 2018) <sub>⭐ 565 · MATLAB</sub>
-- [zhengchen1999/DAT](https://github.com/zhengchen1999/DAT) - (ICCV'23) Dual Aggregation Transformer for Image Super-Resolution <sub>⭐ 546 · Python</sub>
-- [fal-ai/aura-sr](https://github.com/fal-ai/aura-sr) - AuraSR: GAN-based Super-Resolution for real-world <sub>⭐ 525 · Python</sub>
-- [twtygqyy/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet) - pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network arXiv:1609.04802 <sub>⭐ 511 · Python</sub>
-- [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) - One-paper-one-short-contribution-summary of all latest image/burst/video Denoising papers with code & citation published in top conference and journal. <sub>⭐ 504</sub>
-- [ankanbhunia/PIDM](https://github.com/ankanbhunia/PIDM) - Person Image Synthesis via Denoising Diffusion Model (CVPR 2023) <sub>⭐ 502 · Jupyter Notebook</sub>
-- [yuanzhi-zhu/DiffPIR](https://github.com/yuanzhi-zhu/DiffPIR) - "Denoising Diffusion Models for Plug-and-Play Image Restoration", Yuanzhi Zhu, Kai Zhang, Jingyun Liang, Jiezhang Cao, Bihan Wen, Radu Timofte, Luc Van Gool. <sub>⭐ 500 · Python</sub>
-- [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and video upscaling program. <sub>⭐ 498 · Shell</sub>
-- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis <sub>⭐ 495 · Jupyter Notebook</sub>
-- [csjcai/RealSR](https://github.com/csjcai/RealSR) - Toward Real-World Single Image Super-Resolution: A New Benchmark and A New Model (ICCV 2019) <sub>⭐ 488 · MATLAB</sub>
-- [Lornatang/SRGAN-PyTorch](https://github.com/Lornatang/SRGAN-PyTorch) - A simple and complete implementation of super-resolution paper. <sub>⭐ 483 · Python</sub>
-- [fudan-generative-vision/DicFace](https://github.com/fudan-generative-vision/DicFace) - (ICCV2025 Highlight) DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration <sub>⭐ 464 · Python</sub>
-- [Maclory/SPSR](https://github.com/Maclory/SPSR) - Pytorch implementation of Structure-Preserving Super Resolution with Gradient Guidance (CVPR 2020 & TPAMI 2021) <sub>⭐ 454 · Python</sub>
-- [ZZUTK/SRNTT](https://github.com/ZZUTK/SRNTT) - Image Super-Resolution by Neural Texture Transfer <sub>⭐ 443 · Python</sub>
-- [FudanVI/FudanOCR](https://github.com/FudanVI/FudanOCR) - A toolbox of scene text super-resolution and recognition <sub>⭐ 439 · Python</sub>
-- [cszn/SRMD](https://github.com/cszn/SRMD) - Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab) <sub>⭐ 431 · MATLAB</sub>
-- [JustinhoCHN/SRGAN_Wasserstein](https://github.com/JustinhoCHN/SRGAN_Wasserstein) - Apply Waseerstein GAN into SRGAN, a deep learning super resolution model <sub>⭐ 421 · Python</sub>
-- [tumuyan/SourceBook-Dataset](https://github.com/tumuyan/SourceBook-Dataset) - image datasets & model for text/book super-resolution <sub>⭐ 416 · Python</sub>
-- [zzxvictor/License-super-resolution](https://github.com/zzxvictor/License-super-resolution) - A License Plate Image Reconstruction Project in Tensorflow2 <sub>⭐ 416 · Jupyter Notebook</sub>
-- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super… <sub>⭐ 412 · C++</sub>
-- [smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR) - FlashVSR：Towards Real-Time Diffusion-Based Streaming Video Super-Resolution，you can use it in comfyUI <sub>⭐ 397 · Python</sub>
-- [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - (ICCV 2023) Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution; runner-up method for the model complexity track in NTIRE2023 Efficient SR challenge <sub>⭐ 396 · Python</sub>
-- [manumathewthomas/ImageDenoisingGAN](https://github.com/manumathewthomas/ImageDenoisingGAN) - Image Denoising with Generative Adversarial Network <sub>⭐ 390 · Python</sub>
-- [amanchadha/iSeeBetter](https://github.com/amanchadha/iSeeBetter) - iSeeBetter: Spatio-Temporal Video Super Resolution using Recurrent-Generative Back-Projection Networks / Python3 / PyTorch / GANs / CNNs / ResNets / RNNs / Published in Springer Journal of… <sub>⭐ 383 · C++</sub>
-- [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - Summarize the paper and code in AI(Semantic Segmentation, Medical Segmentation,REID,Super-Resolution,Registration,CVPR,ECCV,ICCV,AAAI,MICCAI) <sub>⭐ 377</sub>
-- [TencentARC/AnimeSR](https://github.com/TencentARC/AnimeSR) - Codes for "AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos" <sub>⭐ 372 · Python</sub>
-- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models. <sub>⭐ 368</sub>
-- [wzhouxiff/RestoreFormer](https://github.com/wzhouxiff/RestoreFormer) - (CVPR 2022) RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs <sub>⭐ 364 · Python</sub>
-- [cidautai/DarkIR](https://github.com/cidautai/DarkIR) - CVPR 2025 DarkIR: Robust Low-Light Image Restoration - State of the art low light deblurring. NTIRE 2025 Best Method. (Official PyTorch Implementation) <sub>⭐ 363 · Python</sub>
-- [styler00dollar/VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker) - Using VapourSynth with super resolution and interpolation models and speeding them up with TensorRT. <sub>⭐ 361 · Python</sub>
-- [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - (CVPR 2025) Official code repository for "Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach" <sub>⭐ 358 · Python</sub>
-- [yjsunnn/DLoRAL](https://github.com/yjsunnn/DLoRAL) - (NeurIPS'25) One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution <sub>⭐ 357 · Python</sub>
-- [jmiller656/EDSR-Tensorflow](https://github.com/jmiller656/EDSR-Tensorflow) - Tensorflow implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution <sub>⭐ 339 · Python</sub>
-- [neosr-project/neosr](https://github.com/neosr-project/neosr) - neosr is an open-source framework for training super-resolution models. <sub>⭐ 324 · Python</sub>
-- [jamichss/Stream-DiffVSR](https://github.com/jamichss/Stream-DiffVSR) - The official repository of paper "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion" <sub>⭐ 317 · Python</sub>
-- [chaiNNer-org/spandrel](https://github.com/chaiNNer-org/spandrel) - Spandrel gives your project support for various PyTorch architectures meant for AI Super-Resolution, restoration, and inpainting. Based on the model support implemented in chaiNNer. <sub>⭐ 314 · Python</sub>
-- [sczhou/IGNN](https://github.com/sczhou/IGNN) - (NeurIPS 2020) Cross-Scale Internal Graph Neural Network for Image Super-Resolution <sub>⭐ 314 · Python</sub>
-- [0x09/resdet](https://github.com/0x09/resdet) - Detect source resolution of upscaled images and videos <sub>⭐ 313 · C</sub>
-- [victorca25/traiNNer](https://github.com/victorca25/traiNNer) - traiNNer: Deep learning framework for image and video super-resolution, restoration and image-to-image translation, for training and testing. <sub>⭐ 310 · Python</sub>
-- [Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) - (CVPR 2022) VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution <sub>⭐ 302 · Python</sub>
-- [cswry/VOSR](https://github.com/cswry/VOSR) - (CVPR2026) VOSR: A Vision-Only Generative Model for Image Super-Resolution <sub>⭐ 296 · Python</sub>
-- [Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration) - Pytorch implementation of Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation (CVPR 2020) <sub>⭐ 295 · Python</sub>
-- [jkwang28/OSDFace](https://github.com/jkwang28/OSDFace) - Official Repo for CVPR 2025 paper "OSDFace: One-Step Diffusion Model for Face Restoration" <sub>⭐ 294 · Python</sub>
-- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution (PyTorch) <sub>⭐ 292 · Python</sub>
-- [ServiceNow/HighRes-net](https://github.com/ServiceNow/HighRes-net) - Pytorch implementation of HighRes-net, a neural network for multi-frame super-resolution, trained and tested on the European Space Agency’s Kelvin competition. This is a ServiceNow Research project… <sub>⭐ 288 · Jupyter Notebook</sub>
-- [buriburisuri/SRGAN](https://github.com/buriburisuri/SRGAN) - A tensorflow implemenation of Christian et al's SRGAN(super-resolution generative adversarial network) <sub>⭐ 283 · Python</sub>
-- [alohaleonardo/Super_Resolution_with_CNNs_and_GANs](https://github.com/alohaleonardo/Super_Resolution_with_CNNs_and_GANs) - Image Super-Resolution Using SRCNN, DRRN, SRGAN, CGAN in Pytorch <sub>⭐ 282 · Jupyter Notebook</sub>
-- [Zhaozixiang1228/MMIF-DDFM](https://github.com/Zhaozixiang1228/MMIF-DDFM) - (ICCV 2023 Oral) Official implementation for "DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion." <sub>⭐ 282 · Python</sub>
-- [titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks) - An implementation of SRGAN model in Keras <sub>⭐ 281 · Python</sub>
-- [yjn870/FSRCNN-pytorch](https://github.com/yjn870/FSRCNN-pytorch) - PyTorch implementation of Accelerating the Super-Resolution Convolutional Neural Network (ECCV 2016) <sub>⭐ 281 · Python</sub>
-- [XPixelGroup/RankSRGAN](https://github.com/XPixelGroup/RankSRGAN) - ICCV 2019 (oral) RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution. PyTorch implementation <sub>⭐ 277 · Python</sub>
-- [deepak112/Keras-SRGAN](https://github.com/deepak112/Keras-SRGAN) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network implemented in Keras <sub>⭐ 275 · Python</sub>
-- [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - (CVPR 2025) FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement. <sub>⭐ 273 · Python</sub>
-- [Adam-duan/DiT4SR](https://github.com/Adam-duan/DiT4SR) - (ICCV 2025) This is the official PyTorch codes for the paper: "DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution" <sub>⭐ 272 · Python</sub>
-- [lanha/DSen2](https://github.com/lanha/DSen2) - Super-Resolution of Sentinel-2 Images: Learning a Globally Applicable Deep Neural Network <sub>⭐ 272 · Jupyter Notebook</sub>
-- [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten… <sub>⭐ 272</sub>
-- [csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet) - Learning Generative Structure Prior for Blind Text Image Super-resolution (CVPR 2023) <sub>⭐ 269 · Python</sub>
-- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 Neural Rendering (NGX feature 18) as ComfyUI nodes. Enhance image batches and video files with the real neural renderer, with optional upscaling. <sub>⭐ 266 · Python</sub>
-- [ylchen333/ComfyUI-VOSR2](https://github.com/ylchen333/ComfyUI-VOSR2) - ComfyUI wrapper for VOSR 2.0, a image super resolution model <sub>⭐ 266 · Python</sub>
-- [FanChiMao/SUNet](https://github.com/FanChiMao/SUNet) - SUNet: Swin Transformer with UNet for Image Denoising <sub>⭐ 265 · Python</sub>
-- [yuvraj108c/ComfyUI_InvSR](https://github.com/yuvraj108c/ComfyUI_InvSR) - ComfyUI wrapper for InvSR (Arbitrary-steps Image Super-resolution via Diffusion Inversion) <sub>⭐ 262 · Python</sub>
-- [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Suite for Windows with Real-ESRGAN, RealESRNet, RealESRAnime, BSRGAN , IRCNN, GFPGAN & RIFE. Upscaling, face restoration, frame interpolation, denoising, batch processing & GPU acceleration in one… <sub>⭐ 251 · Python</sub>
-- [yuvraj108c/ComfyUI-Upscaler-Tensorrt](https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt) - 2-4x faster ComfyUI Image Upscaling using Tensorrt <sub>⭐ 250 · Python</sub>
-- [skycrapers/TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - A PyTorch Reimplementation of TecoGAN: Temporally Coherent GAN for Video Super-Resolution <sub>⭐ 246 · Python</sub>
-- [slp-rl/aero](https://github.com/slp-rl/aero) - This repo contains the official PyTorch implementation of "Audio Super Resolution in the Spectral Domain" (ICASSP 2023) <sub>⭐ 246 · Python</sub>
-- [megvii-research/DCLS-SR](https://github.com/megvii-research/DCLS-SR) - Official PyTorch implementation of the paper "Deep Constrained Least Squares for Blind Image Super-Resolution", CVPR 2022. <sub>⭐ 244 · Python</sub>
-- [xindongzhang/ELAN](https://github.com/xindongzhang/ELAN) - (ECCV2022) Efficient Long-Range Attention Network for Image Super-resolution <sub>⭐ 241 · Python</sub>
-- [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - (CVPR 2025) Official implementation of the paper "TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution". <sub>⭐ 239 · Python</sub>
-- [SYSU-SAIL/SMSR](https://github.com/SYSU-SAIL/SMSR) - (CVPR 2021) Exploring Sparsity in Image Super-Resolution for Efficient Inference <sub>⭐ 239 · Python</sub>
-- [GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images) - Official implement of Paper：A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sening images <sub>⭐ 234 · Python</sub>
-- [BaratiLab/Diffusion-based-Fluid-Super-resolution](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution) - PyTorch implementation of the diffusion-based method for CFD data super-resolution proposed in the paper "A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction". <sub>⭐ 232 · Python</sub>
-- [Araxeus/PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - AI Super - Resolution <sub>⭐ 230 · Java</sub>
-- [skymanbp/autoshade](https://github.com/skymanbp/autoshade) - AI-assisted RAW photo developer: GPT vision advisor proposes an EditRecipe, a deterministic Rust engine renders it — Lightroom-compatible XMP sidecars, 24 RAW formats + baked images, measured (not… <sub>⭐ 230 · Rust</sub>
-- [hellloxiaotian/LESRCNN](https://github.com/hellloxiaotian/LESRCNN) - Lightweight Image Super-Resolution with Enhanced CNN (Knowledge-Based Systems,2020) <sub>⭐ 224 · Python</sub>
-- [yjsunnn/Awesome-video-super-resolution-diffusion](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion) - A curated list of resources for video super-resolution using diffusion models. <sub>⭐ 224</sub>
-- [researchmm/TTVSR](https://github.com/researchmm/TTVSR) - (CVPR'22 Oral) TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution <sub>⭐ 222 · Python</sub>
-- [zhengchen1999/DOVE](https://github.com/zhengchen1999/DOVE) - (NeurIPS'25) DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution <sub>⭐ 222 · Python</sub>
-- [tbepler/topaz](https://github.com/tbepler/topaz) - Pipeline for particle picking in cryo-electron microscopy images using convolutional neural networks trained from positive and unlabeled examples. Also featuring micrograph and tomogram denoising… <sub>⭐ 218 · Jupyter Notebook</sub>
-- [minyuanye/SIUN](https://github.com/minyuanye/SIUN) - Sharp Image Deblurring <sub>⭐ 212 · Python</sub>
-- [msmsajjadi/FRVSR](https://github.com/msmsajjadi/FRVSR) - Frame-Recurrent Video Super-Resolution (official repository) <sub>⭐ 212</sub>
-- [Coloquinte/torchSR](https://github.com/Coloquinte/torchSR) - Super Resolution datasets and models in Pytorch <sub>⭐ 211 · Python</sub>
-- [Fried-Rice-Lab/FriedRiceLab](https://github.com/Fried-Rice-Lab/FriedRiceLab) - Official repository of the Fried Rice Lab, including code resources of the following our works: ESWT (arXiv), etc. This repository also implements many useful features and out-of-the-box image… <sub>⭐ 211 · Python</sub>
-- [CVL-UESTC/Adaptive-Token-Dictionary](https://github.com/CVL-UESTC/Adaptive-Token-Dictionary) - (CVPR 2024 & TPAMI) Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary, ATD: Improved Transformer with Adaptive Token Dictionary for Image… <sub>⭐ 206 · Python</sub>
-- [jacobgil/pytorch-zssr](https://github.com/jacobgil/pytorch-zssr) - PyTorch implementation of 1712.06087 "Zero-Shot" Super-Resolution using Deep Internal Learning <sub>⭐ 203 · Python</sub>
-- [leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton) - Torch Implementation of "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" <sub>⭐ 201 · Lua</sub>
-- [XY-boy/EDiffSR](https://github.com/XY-boy/EDiffSR) - (IEEE TGRS 2024) EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution <sub>⭐ 201 · Python</sub>
-- [Algolzw/BSRT](https://github.com/Algolzw/BSRT) - Pytorch code for "BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment", CVPRW, 1st place in NTIRE 2022 BurstSR Challenge (real-world track). <sub>⭐ 200 · Python</sub>
-- [YuzheZhang-1999/DiffTSR](https://github.com/YuzheZhang-1999/DiffTSR) - (CVPR2024) Diffusion-based Blind Text Image Super-Resolution (Official) <sub>⭐ 200 · Python</sub>
-- [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - (CVPR2026) ODTSR: This repo is the official implementation of "One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution" <sub>⭐ 199 · Python</sub>
-- [rlaphoenix/VSGAN](https://github.com/rlaphoenix/VSGAN) - PyTorch-based Super-Resolution and Restoration Image Processing Module for VapourSynth <sub>⭐ 197 · Python</sub>
-- [eugenesiow/super-image](https://github.com/eugenesiow/super-image) - Image super resolution models for PyTorch. <sub>⭐ 195 · Python</sub>
-- [2y7c3/Super-Resolution-Neural-Operator](https://github.com/2y7c3/Super-Resolution-Neural-Operator) - Super-Resolution Neural Operator, in CVPR 2023 <sub>⭐ 192 · Python</sub>
-- [jsh-me/simple-android-editor](https://github.com/jsh-me/simple-android-editor) - Android video and photo editor using Deep Learning ( FFMPEG / ExoPlayer2 / Super Resolution / Video and Image Inpainting ) <sub>⭐ 192 · Kotlin</sub>
-- [hellloxiaotian/BRDNet](https://github.com/hellloxiaotian/BRDNet) - Image denoising using deep CNN with batch renormalization(Neural Networks,2020) <sub>⭐ 190 · Python</sub>
-- [MiniAiLive/FaceLivenessDetection-Android](https://github.com/MiniAiLive/FaceLivenessDetection-Android) - 3D Passive Face Liveness Detection! Supports Face Detection, Face Matching, Face Analysis, Face Sentiment, Face Alignment, Face Identification && Face Verification && Face Representation; Face… <sub>⭐ 190 · Kotlin</sub>
-- [Specy/Scapix](https://github.com/Specy/Scapix) - An image upscaling and denoiser app <sub>⭐ 190 · TypeScript</sub>
-- [jlygit/AI-video-enhance](https://github.com/jlygit/AI-video-enhance) - This repository collects the state-of-the-art algorithms for video/image enhancement using deep learning (AI) in recent years, including super resolution, compression artifact reduction, deblocking… <sub>⭐ 189</sub>
-- [CVL-UESTC/PFT-SR](https://github.com/CVL-UESTC/PFT-SR) - CVPR2025-Progressive Focused Transformer for Single Image Super-Resolution <sub>⭐ 186 · Python</sub>
-- [Deno2026/comfyui-deno-custom-nodes](https://github.com/Deno2026/comfyui-deno-custom-nodes) - ComfyUI custom nodes for RTX Video Super Resolution, NVIDIA VFX/nvvfx, LTX 2.3, Bernini Prompt Guide, Wan2.2 reference video edit, image/video compare, video preview, loaders, resize, and visual… <sub>⭐ 184 · Python</sub>
-- [saeed-anwar/DRLN](https://github.com/saeed-anwar/DRLN) - Densely Residual Laplacian Super-resolution, IEEE Pattern Analysis and Machine Intelligence (TPAMI), 2020 <sub>⭐ 184 · Python</sub>
-- [TheFutureGadgetsLab/WaifuXL](https://github.com/TheFutureGadgetsLab/WaifuXL) - State of the art image upscaling, directly in your browser. <sub>⭐ 183 · TypeScript</sub>
-- [vztu/maxim-pytorch](https://github.com/vztu/maxim-pytorch) - (CVPR 2022 Oral) PyTorch re-implementation for "MAXIM: Multi-Axis MLP for Image Processing", with *training code*. Official Jax repo: https://github.com/google-research/maxim <sub>⭐ 183 · Python</sub>
-- [z-bingo/kernel-prediction-networks-PyTorch](https://github.com/z-bingo/kernel-prediction-networks-PyTorch) - Reimplement of 'Burst Denoising with Kernel Prediction Networks' and 'Multi-Kernel Prediction Networks for Denoising of Image Burst' by using PyTorch <sub>⭐ 181 · Python</sub>
-- [claudiom4sir/StableVSR](https://github.com/claudiom4sir/StableVSR) - (ECCV 2024) Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models <sub>⭐ 180 · Python</sub>
-- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - Context Encoding for Semantic Segmentation MegaDepth: Learning Single-View Depth Prediction from Internet Photos LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation… <sub>⭐ 179</sub>
-- [royerlab/aydin](https://github.com/royerlab/aydin) - Aydin — User-friendly, Fast, Self-Supervised Image Denoising for All. <sub>⭐ 178 · Python</sub>
-- [zhengchen1999/RGT](https://github.com/zhengchen1999/RGT) - (ICLR'24) Recursive Generalization Transformer for Image Super-Resolution <sub>⭐ 176 · Python</sub>
-- [researchmm/FTVSR](https://github.com/researchmm/FTVSR) - (ECCV'22) FTVSR: Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution <sub>⭐ 175 · Python</sub>
-- [imatge-upc/3D-GAN-superresolution](https://github.com/imatge-upc/3D-GAN-superresolution) - 3D super-resolution using Generative Adversarial Networks <sub>⭐ 173 · Python</sub>
-- [hzwer/WACV2024-SAFA](https://github.com/hzwer/WACV2024-SAFA) - WACV2024 - Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution <sub>⭐ 171 · Python</sub>
-- [msmsajjadi/EnhanceNet-Code](https://github.com/msmsajjadi/EnhanceNet-Code) - EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis (official repository) <sub>⭐ 171 · Python</sub>
-- [ngchc/CameraSR](https://github.com/ngchc/CameraSR) - Camera Lens Super-Resolution in CVPR 2019 <sub>⭐ 171 · Python</sub>
-- [caojiezhang/DATSR](https://github.com/caojiezhang/DATSR) - PyTorch implementation of "Reference-based Image Super-Resolution with Deformable Attention Transformer (ECCV2022)" <sub>⭐ 168 · Python</sub>
-- [CVL-UESTC/MIA-VSR](https://github.com/CVL-UESTC/MIA-VSR) - CVPR 2024-Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention <sub>⭐ 168 · Python</sub>
-- [net2cn/Real-ESRGAN_GUI](https://github.com/net2cn/Real-ESRGAN_GUI) - Real-ESRGAN-based super resolution model inference GUI written in C#. <sub>⭐ 168 · C#</sub>
-- [IanYeung/MGLD-VSR](https://github.com/IanYeung/MGLD-VSR) - Code for ECCV 2024 Paper "Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution" <sub>⭐ 166 · Python</sub>
-- [yinxiL/video-super-resolution](https://github.com/yinxiL/video-super-resolution) - a collection of classic tensorflow & pytorch cnn models' implementation <sub>⭐ 166 · Python</sub>
-- [pq-yang/PGDiff](https://github.com/pq-yang/PGDiff) - (NeurIPS 2023) PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance <sub>⭐ 165 · Python</sub>
-- [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution <sub>⭐ 164 · Python</sub>
-- [XiangZ-0/HiT-SR](https://github.com/XiangZ-0/HiT-SR) - (ECCV 2024 - Oral) HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution <sub>⭐ 164 · Python</sub>
-- [ceshine/fast-neural-style](https://github.com/ceshine/fast-neural-style) - Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution <sub>⭐ 163 · Jupyter Notebook</sub>
-- [hanyoseob/pytorch-noise2void](https://github.com/hanyoseob/pytorch-noise2void) - Noise2Void - Learning Denoising from Single Noisy Images <sub>⭐ 157 · Python</sub>
-- [haoheliu/ssr_eval](https://github.com/haoheliu/ssr_eval) - Evaluation and Benchmarking of Speech Super-resolution Methods <sub>⭐ 157 · Python</sub>
-- [idearibosome/srzoo](https://github.com/idearibosome/srzoo) - SRZoo: An integrated repository for super-resolution using deep learning <sub>⭐ 157 · Python</sub>
-- [xuanandsix/GFPGAN-onnxruntime-demo](https://github.com/xuanandsix/GFPGAN-onnxruntime-demo) - This is the onnxruntime inference code for GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior (CVPR 2021). Official code: https://github.com/TencentARC/GFPGAN <sub>⭐ 157 · Python</sub>
-- [eduardzamfir/seemoredetails](https://github.com/eduardzamfir/seemoredetails) - (ICML 2024) See More Details: Efficient Image Super-Resolution by Experts Mining <sub>⭐ 153 · Python</sub>
-- [PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load](https://github.com/PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load) - Demonstration for the Qwen-Image-Edit-2511 model with lazy-loaded LoRA adapters for advanced single- and multi-image editing. Supports 7+ specialized LoRAs including photo-to-anime, multi-angle… <sub>⭐ 153 · Python</sub>
-- [CAREamics/careamics](https://github.com/CAREamics/careamics) - Deep-learning library for image restoration. <sub>⭐ 152 · Python</sub>
-- [takuyaa/waifu2x-js](https://github.com/takuyaa/waifu2x-js) - Image super-resolution using deep convolutional neural network (CNN) <sub>⭐ 152 · JavaScript</sub>
-- [Tengfei-Wang/DCSR](https://github.com/Tengfei-Wang/DCSR) - (ICCV 2021 (Oral Presentation)) Dual-Camera Super-Resolution with Aligned Attention Modules (RefSR) <sub>⭐ 151 · Python</sub>
-- [Alexkral/AviSynthAiUpscale](https://github.com/Alexkral/AviSynthAiUpscale) - An AviSynth+ implementation of some Super-Resolution Convolutional Neural Networks. <sub>⭐ 148 · GLSL</sub>
-- [SSinyu/WGAN-VGG](https://github.com/SSinyu/WGAN-VGG) - Pytorch Implementation of Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss <sub>⭐ 148 · Python</sub>
-- [ESAOpenSR/opensr-model](https://github.com/ESAOpenSR/opensr-model) - Implementation of Latent Diffusion Super-Resolution model for RGB-NIR Sen2 imagery. <sub>⭐ 147 · Python</sub>
-- [Junshk/CinCGAN-pytorch](https://github.com/Junshk/CinCGAN-pytorch) - Unofficial Implementation of "Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks" in CVPR 2018. <sub>⭐ 146 · Python</sub>
-- [XPixelGroup/RethinkVSRAlignment](https://github.com/XPixelGroup/RethinkVSRAlignment) - (NIPS 2022) Rethinking Alignment in Video Super-Resolution Transformers <sub>⭐ 146 · Python</sub>
-- [XY-boy/TTST](https://github.com/XY-boy/TTST) - (IEEE TIP 2024) TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution <sub>⭐ 146 · Python</sub>
-- [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention" <sub>⭐ 145 · Python</sub>
-- [Nenotriple/gimp_upscale](https://github.com/Nenotriple/gimp_upscale) - Upscale images directly within GIMP (2.10 & 3.0) using the RealESRGAN AI upscaler powered by ncnn and Vulkan for fast, high-quality enhancement of photos, art, and anime. <sub>⭐ 144 · Python</sub>
-- [addyosmani/enhance](https://github.com/addyosmani/enhance) - Enhance and upscale your images using AI - right in your browser <sub>⭐ 142 · TypeScript</sub>
-- [lychengrex/Image-Denoising-with-Deep-CNNs](https://github.com/lychengrex/Image-Denoising-with-Deep-CNNs) - Use deep Convolutional Neural Networks (CNNs) with PyTorch, including investigating DnCNN and U-net architectures <sub>⭐ 141 · Jupyter Notebook</sub>
-- [cabooster/DeepCAD-RT](https://github.com/cabooster/DeepCAD-RT) - DeepCAD-RT: Real-time denoising of fluorescence time-lapse imaging using deep self-supervised learning <sub>⭐ 130 · Jupyter Notebook</sub>
-- [zhangyi-3/IDR](https://github.com/zhangyi-3/IDR) - Self-Supervised Image Denoising via Iterative Data Refinement (CVPR2022) <sub>⭐ 130 · Python</sub>
-- [g4m3r0/ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low-res images effortlessly with our simple Flask web app powered by AI image upscaling. <sub>⭐ 129 · HTML</sub>
-- [philz1337x/clarity-lowres-upscaler](https://github.com/philz1337x/clarity-lowres-upscaler) - Low resolution upscaling fix for Clarity AI - Upscale and enhance your images with AI <sub>⭐ 126 · Python</sub>
-- [AliMorty/Markov-Random-Field-Project](https://github.com/AliMorty/Markov-Random-Field-Project) - This project has two parts. In part one, we use markov random field to denoise an image. In Part two, we use similar model for image segmentation. <sub>⭐ 124 · Jupyter Notebook</sub>
-- [hellloxiaotian/ADNet](https://github.com/hellloxiaotian/ADNet) - Attention-guided CNN for image denoising(Neural Networks,2020) <sub>⭐ 120 · Python</sub>
-- [HyelinNAM/ContrastiveDenoisingScore](https://github.com/HyelinNAM/ContrastiveDenoisingScore) - (CVPR2024) Official PyTorch implementation of "Contrastive Denoising Score(CDS) for Text-guided Latent Diffusion Image Editing" <sub>⭐ 120 · Python</sub>
-- [chenxx89/BFRffusion](https://github.com/chenxx89/BFRffusion) - Official codes of Towards Real-World Blind Face Restoration with Generative Diffusion Prior <sub>⭐ 119 · Python</sub>
-- [fallenshock/SinDDM](https://github.com/fallenshock/SinDDM) - Official pytorch implementation of the paper: "SinDDM: A Single Image Denoising Diffusion Model" <sub>⭐ 119 · Python</sub>
-- [MushroomFleet/DJZ-Workflows](https://github.com/MushroomFleet/DJZ-Workflows) - 1000+ ComfyUI workflows for AI image & video generation — Flux, SDXL, Hunyuan, CogVideo, upscaling, ControlNet & more <sub>⭐ 118 · Python</sub>
-- [Zj-BinXia/BBCU](https://github.com/Zj-BinXia/BBCU) - This project is the official implementation of 'Basic Binary Convolution Unit for Binarized Image Restoration Network', ICLR2023 <sub>⭐ 117 · Python</sub>
-- [NICALab/SUPPORT](https://github.com/NICALab/SUPPORT) - Accurate denoising of voltage imaging data through statistically unbiased prediction, Nature Methods. <sub>⭐ 110 · Python</sub>
-- [MIC-DKFZ/MITK-Diffusion](https://github.com/MIC-DKFZ/MITK-Diffusion) - MITK Diffusion - Official part of the Medical Imaging Interaction Toolkit <sub>⭐ 107 · C++</sub>
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGANは、現実世界の顔の修復のための実践的なアルゴリズムを開発することを目指しています。 <sub>⭐ 37.7k · Python</sub>
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - 機械学習ベースのビデオ超解像度とフレーム補間フレームワーク。 エステル。 谷II、2018をハックします。 <sub>⭐ 21.9k · C++</sub>
+- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - (NeurIPS 2022) コードブックのルックアップトランスで堅牢なブラインドの表面修復に向けて <sub>⭐ 18.2k · Python</sub>
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - Image Toolboxは、高度な画像操作のための強力なアプリです。 作物のような基本的なツールからフィルタ、OCR、および幅広い画像処理オプションまで、さまざまな機能を提供しています <sub>⭐ 14.8k · Kotlin</sub>
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - クロスプラットフォームイメージ超解像ツール <sub>⭐ 7.3k · TypeScript</sub>
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - チェーンイメージ処理のタスクを簡単かつカスタマイズ可能なものにすることを目的とした、ノードベースの画像処理GUI。AIアップスケーリングアプリケーションとして生まれたChaiNNerは、非常に柔軟に成長しました... <sub>⭐ 6.1k · Python</sub>
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIRは、野生の画像回復のための実用的なアルゴリズムの開発を目指しています。 私たちの新しいオンラインデモもsuppixel.aiでリリースされています。 <sub>⭐ 5.7k · Python</sub>
+- [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR:Swinの変圧器(公式のリポジトリ)を使用してイメージ復元 <sub>⭐ 5.6k · Python</sub>
+- [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - 顔の検出に関する論文; 顔のアライメント; 顔認識 &&フェイス識別 &&顔認証 &&顔の表現; 顔の回復; 顔追跡; 顔のスーパー解像度 &amp; 顔の監視 <sub>⭐ 4.8k</sub>
+- [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Pytorchによる反復的精製による画像の超解像の非公式実装 <sub>⭐ 3.9k · Python</sub>
+- [cszn/KAIR](https://github.com/cszn/KAIR) - 画像修復ツールボックス(PyTorch)。 DPIR、USRNet、DnCNN、FFDNet、SRMD、DPSR、BSRGAN、SwinIRのトレーニングとテストコード <sub>⭐ 3.5k · Python</sub>
+- [tensorlayer/SRGAN](https://github.com/tensorlayer/SRGAN) - ジェネレーション・アドバーサリカルネットワークを用いたフォト・リアリスティック・シングルイメージの超解像 <sub>⭐ 3.5k · Python</sub>
+- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - 逆アルファブレンドによるGemini画像透かし修復。ネイティブC++ GUI / CLI、バッチ処理、オプションのGPU消毒。 <sub>⭐ 3.1k · C++</sub>
+- [IceClear/StableSR](https://github.com/IceClear/StableSR) - (IJCV2024) リアルワールドイメージ超解像の先物拡散を促進 <sub>⭐ 2.7k · Python</sub>
+- [swz30/Restormer](https://github.com/swz30/Restormer) - (CVPR 2022-Oral) 復元剤:高分解能画像修復のための効率的なトランス。SOTAは、動きの解明、イメージの排出、減衰(Gaussian/real data)、および非焦点破壊のために。 <sub>⭐ 2.6k · Python</sub>
+- [wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) - 人気と再現性のある画像の逸品コレクション。 <sub>⭐ 2.5k</sub>
+- [amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) - メディカルイメージングにおける拡散モデル(医療画像分析ジャーナルに掲載) <sub>⭐ 2.1k</sub>
+- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - (CVPR 2026) リアルタイムの拡散ベースのストリーミングビデオスーパー解像度 - VSRを局所に制約されたスパルズレの注意と小さなメッセージをストリーミングするための効率的な1ステップ拡散フレームワーク... <sub>⭐ 1.9k · Python</sub>
+- [XPixelGroup/HAT](https://github.com/XPixelGroup/HAT) - CVPR2023 - 画像スーパー解像度トランスTPAMIでより多くのピクセルをアクティブに- HAT:画像修復のためのハイブリッド保持変圧器 <sub>⭐ 1.6k · Python</sub>
+- [NJU-PCALab/STAR](https://github.com/NJU-PCALab/STAR) - (ICCV 2025)スター:現実世界ビデオ超解像度のためのテキスト対モデルのビデオと空間的一時的な拡張 <sub>⭐ 1.5k · Python</sub>
+- [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - (CVPR 2024) アップスケール-A-Video:現実世界のビデオ超解像のための一時的な一貫した拡散モデル <sub>⭐ 1.5k · Python</sub>
+- [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR) - Diffusion Inversion(CVPR 2025)による画像の超解像 <sub>⭐ 1.5k · Python</sub>
+- [zsyOAOA/ResShift](https://github.com/zsyOAOA/ResShift) - ResShift: 残留シフトによる画像の超解像のための効率的な拡散モデル(NeurIPS@2023スポットライト、TPAMI@2024) <sub>⭐ 1.4k · Python</sub>
+- [swz30/MPRNet](https://github.com/swz30/MPRNet) - (CVPR 2021)マルチステージプログレッシブ画像修復。SOTAはイメージの解像、排水および消毒のために結果をもたらします。 <sub>⭐ 1.4k · Python</sub>
+- [cszn/BSRGAN](https://github.com/cszn/BSRGAN) - ディープブラインドイメージ超解像(ICCV、2021)の実用的分解モデルの設計 - トレーニングコードを公開しました! <sub>⭐ 1.4k · Python</sub>
+- [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - (ICLR 2023オーラル) ゼロショット画像の復元 脱ノワーズ拡散Null-Spaceモデルを用いた <sub>⭐ 1.4k · Python</sub>
+- [W2GenAI-Lab/LucidFlux](https://github.com/W2GenAI-Lab/LucidFlux) - LucidFlux: 大規模な拡散トランス、ICLR 2026 によるキャプションフリーのフォト現実的な画像修復 <sub>⭐ 1.3k · Python</sub>
+- [kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res) - ニューラルネットワークを用いた音声超解像度 <sub>⭐ 1.3k · Python</sub>
+- [leftthomas/SRGAN](https://github.com/leftthomas/SRGAN) - CVPR 2017紙「現実的単一画像超解像」に基づくSRGANのPyTorch実装 <sub>⭐ 1.3k · Python</sub>
+- [okooo5km/HiPixel](https://github.com/okooo5km/HiPixel) - HiPixel は、SwiftUI で構築されたAI搭載画像の超解像度用のネイティブな macOS アプリケーションであり、Upscayl の強力な AI モデルを活用しています。 <sub>⭐ 1.2k · Swift</sub>
+- [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer) - DLSS 5 フレームの生成、RTXのビデオ極度の決断、HDRおよび生きているプレーバックが付いているイメージ及びビデオのための神経レンダリング <sub>⭐ 1.2k · Python</sub>
+- [yu4u/noise2noise](https://github.com/yu4u/noise2noise) - 「Noise2Noise:クリーンデータのない学習画像修復」の非公式で部分的なKeras実装 <sub>⭐ 1.1k · Python</sub>
+- [caoscott/SReC](https://github.com/caoscott/SReC) - 「超解像によるロスレス画像圧縮」のPyTorch実装 <sub>⭐ 1.0k · Python</sub>
+- [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - 写真の実態を生成しながら、4の要因によって画像をスケールアップします。 <sub>⭐ 1.0k · Python</sub>
+- [yangxy/PASD](https://github.com/yangxy/PASD) - (ECCV2024) リアルなイメージの超解像および個人化された殺菌のためのピクセル アウェア安定した拡散 <sub>⭐ 1.0k · Python</sub>
+- [cszn/USRNet](https://github.com/cszn/USRNet) - ディープ・アンフォールディング・ネットワーク(CVPR, 2020) (PyTorch) <sub>⭐ 920 · Python</sub>
+- [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - JavascriptとAIで画像を強化します。解像度、リタッチ、デノワーズなどを高めます。オープンソース、ブラウザ&ノードが互換性のあるMITライセンスです。 <sub>⭐ 900 · TypeScript</sub>
+- [prs-eth/thera](https://github.com/prs-eth/thera) - (TMLR 2025) テラ:ニューラルヒートフィールドによる、非日常的なアービトラリースケール超解像 <sub>⭐ 868 · Python</sub>
+- [brade31919/SRGAN-tensorflow](https://github.com/brade31919/SRGAN-tensorflow) - SRGANアルゴリズムの1つのイメージ超解像のためのTensorflow実装 <sub>⭐ 857 · Python</sub>
+- [dipy/dipy](https://github.com/dipy/dipy) - DIPYは、Pythonのパラゴン3D / 4D +医療イメージングライブラリです。 空間正規化、信号処理、機械学習、統計分析および可視化のための一般的な方法が含まれています... <sub>⭐ 847 · Python</sub>
+- [taco-group/4KAgent](https://github.com/taco-group/4KAgent) - (NeurIPS 2025) 4KAgent: 任意の画像から4Kスーパー解像度. 魔法のように完璧な-4Kに任意の画像を復元することができますインテリジェントなコンピュータビジョンエージェント! <sub>⭐ 831 · Python</sub>
+- [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse:深層学習を用いたイメージング問題の解決のためのPyTorchライブラリ <sub>⭐ 822 · Python</sub>
+- [Kizzuwatnaa/DLSS5-Autopilot](https://github.com/Kizzuwatnaa/DLSS5-Autopilot) - DLSS 5のニューラルレンダリングを、出荷しないゲームに置き、ゲームの独自のDLSSを最新のものに - スーパーリゾリューション、レイ再構築、フレーム生成。 あなたのライブラリをスキャンし、いずれかを選択します... <sub>⭐ 820 · Python</sub>
+- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - NVIDIAのTensorRT&TencentのNCNN推論を使用してビデオフレーム補間とスーパーリゾリューション、美しく作成し、1つのアプリにパッケージ化 <sub>⭐ 813 · JavaScript</sub>
+- [researchmm/TTSR](https://github.com/researchmm/TTSR) - (CVPR'20) TTSR:画像の超解像のためのテクスチャトランスネットワークを学習 <sub>⭐ 794 · Python</sub>
+- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - リアルタイムのアニメは、小型超解像度モデルで4Kに拡張 <sub>⭐ 754 · C#</sub>
+- [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - (ICLR 2025) ポスターの公式実装-Mean Rectified Flow:最小MSE Photo-Realistic Image復元に向けて <sub>⭐ 753 · Python</sub>
+- [soapisnotfat/super-resolution](https://github.com/soapisnotfat/super-resolution) - 超解像モデルとアルゴリズムのコレクション <sub>⭐ 753 · Python</sub>
+- [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - (ECCV 2024) InstructIR:人間指示に従う良質のイメージの回復 https://huggingface.co/spaces/marcosv/InstructIR <sub>⭐ 746 · Jupyter Notebook</sub>
+- [taco-group/SparkVSR](https://github.com/taco-group/SparkVSR) - (ECCV 2026) SparkVSR:Sparse Keyframe Propagationによるインタラクティブビデオスーパー解像度 <sub>⭐ 741 · Python</sub>
+- [swz30/MIRNet](https://github.com/swz30/MIRNet) - (ECCV 2020) リアルイメージの修復と強化のための豊富な機能を学びます。 SOTAは、画像の消毒、超解像、および画像の強化のために結果をもたらします。 <sub>⭐ 725 · Python</sub>
+- [Algolzw/image-restoration-sde](https://github.com/Algolzw/image-restoration-sde) - 平均反転の確率差動式、ICML 2023による画像修復。 NTIRE 2023 イメージ影除去チャレンジの勝利ソリューション。 <sub>⭐ 724 · Python</sub>
+- [jiny2001/dcscn-super-resolution](https://github.com/jiny2001/dcscn-super-resolution) - ディープ・コネクションとネットワークのネットワークによる「高速かつ正確な画像超決議」の実施、深層学習ベースのシングルイメージ超解像(SISR)モデル。 <sub>⭐ 713 · Python</sub>
+- [sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) - 遺伝子管理ネットワークを用いた画像再現実的な単一イメージの超解像/PyTorch チュートリアルをスーパーリゾリューションへ <sub>⭐ 708 · Python</sub>
+- [mv-lab/swin2sr](https://github.com/mv-lab/swin2sr) - (ECCV) Swin2SR:圧縮されたイメージのためのSwinV2の変圧器極度の決断および復元。 イメージの操作(AIM)の研修会EPCV 2022で進歩して下さい。 それを試して下さい!3.3Mに走って下さい... <sub>⭐ 695 · Python</sub>
+- [cswry/OSEDiff](https://github.com/cswry/OSEDiff) - (NeurlPS2024)現実世界画像超解像のためのワンステップ効果的な拡散ネットワーク <sub>⭐ 682 · Python</sub>
+- [xiaomi-automl/FALSR](https://github.com/xiaomi-automl/FALSR) - 迅速で正確かつ軽量な超解像モデル <sub>⭐ 681 · Python</sub>
+- [cswry/SeeSR](https://github.com/cswry/SeeSR) - (CVPR2024) 参照SR: Semantics-Aware現実世界イメージ超解像に向けて <sub>⭐ 658 · Python</sub>
+- [kepengxu/PGTFormer](https://github.com/kepengxu/PGTFormer) - (IJCAI'24) 同調を超えて:Parsing-Guided Temporal-Coherentトランスによる盲目のビデオ顔の修復 <sub>⭐ 631 · Python</sub>
+- [tegg89/SRCNN-Tensorflow](https://github.com/tegg89/SRCNN-Tensorflow) - 画像 ディープ・コンボリューショナル ネットワークを用いた超解像 https://arxiv.org/abs/1501.00092v3 <sub>⭐ 614 · Python</sub>
+- [csslc/CCSR](https://github.com/csslc/CCSR) - (TIP2026) CCSRv2とCCSRv1の公式コード:コンテンツ一貫性のある超解像のための拡散モデルの安定性および効率の改善 <sub>⭐ 610 · Python</sub>
+- [mv-lab/AISP](https://github.com/mv-lab/AISP) - AIイメージ信号処理と計算写真。NTIRE(CVPR)およびAIM(ICCV/ECCV)チャレンジの公式ライブラリ。 ISP、RAW修復 - 再構築... <sub>⭐ 605 · Jupyter Notebook</sub>
+- [JiahuiYu/wdsr_ntire2018](https://github.com/JiahuiYu/wdsr_ntire2018) - NTIREの超解像チャレンジへの応募コード、CVPR 2018 <sub>⭐ 599 · Python</sub>
+- [wyf0912/SinSR](https://github.com/wyf0912/SinSR) - (CVPR 2024) SinSR: 拡散ベースのイメージの単一ステップで超解像 <sub>⭐ 585 · Python</sub>
+- [leftthomas/ESPCN](https://github.com/leftthomas/ESPCN) - CVPR 2016紙「リアルタイムシングルイメージと効率的なサブピクセル構造ニューラルネットワークを用いたビデオ超解像」に基づくESPCNのPyTorch実装 <sub>⭐ 575 · Python</sub>
+- [cszn/FFDNet](https://github.com/cszn/FFDNet) - FFDNet:CNNベースの画像消毒(TIP、2018)の高速かつ柔軟なソリューションに向けて <sub>⭐ 565 · MATLAB</sub>
+- [zhengchen1999/DAT](https://github.com/zhengchen1999/DAT) - (ICCV'23) デュアルアグリゲーショントランス(イメージスーパー解像度) <sub>⭐ 546 · Python</sub>
+- [fal-ai/aura-sr](https://github.com/fal-ai/aura-sr) - AuraSR:現実世界のためのガンベースの超解像 <sub>⭐ 525 · Python</sub>
+- [twtygqyy/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet) - フォト・リアルなシングルイメージの超解像のためのpytorch実装 ジェネラルネットワークarXiv:1609.04802 <sub>⭐ 511 · Python</sub>
+- [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) - 最新画像/バースト/ビデオ・デノワーズ紙のワンペーパーワンショートコントリビューション - トップ会議およびジャーナルに掲載された引用。 <sub>⭐ 504</sub>
+- [ankanbhunia/PIDM](https://github.com/ankanbhunia/PIDM) - Denoising Diffusion Model (CVPR 2023) による人画像合成 <sub>⭐ 502 · Jupyter Notebook</sub>
+- [yuanzhi-zhu/DiffPIR](https://github.com/yuanzhi-zhu/DiffPIR) - 「プラグアンドプレイイメージ修復のための審美的な拡散モデル」、ユアンツィヒ・チューン、カイ・ザング、ジンギュン・リアン、ジエスタン・キャオ、ビハン・ウェン、ラドゥ・ティモフテ、ルク・ヴァン・ゴオール。 <sub>⭐ 500 · Python</sub>
+- [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - さまざまなコンパイルされたオープンソースのAIイメージ/ビデオアップスケーリング製品の統合により、CLIフレンドリーな画像と動画アップスケーリングプログラムを実行できます。 <sub>⭐ 498 · Shell</sub>
+- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - 医学の拡散: このリポジトリは私達のペーパー医学の拡散にコードを含んでいます: 3D 医療画像合成のためのDiffusion Probabilisticモデルを解凍して下さい <sub>⭐ 495 · Jupyter Notebook</sub>
+- [csjcai/RealSR](https://github.com/csjcai/RealSR) - リアルワールドシングルイメージ超解像に向けて:新しいベンチマークと新モデル(ICCV 2019) <sub>⭐ 488 · MATLAB</sub>
+- [Lornatang/SRGAN-PyTorch](https://github.com/Lornatang/SRGAN-PyTorch) - 超解像紙のシンプルで完全な実装。 <sub>⭐ 483 · Python</sub>
+- [fudan-generative-vision/DicFace](https://github.com/fudan-generative-vision/DicFace) - (ICCV2025 Highlight) DicFace: Dirichlet-Constrained Variational Codebook テンポラリーコヒーレントビデオフェイス修復のための学習 <sub>⭐ 464 · Python</sub>
+- [Maclory/SPSR](https://github.com/Maclory/SPSR) - グラデーションガイダンス(CVPR 2020 & TPAMI 2021)による構造保存の超決議の実施 <sub>⭐ 454 · Python</sub>
+- [ZZUTK/SRNTT](https://github.com/ZZUTK/SRNTT) - 神経質転写による画像の超解像 <sub>⭐ 443 · Python</sub>
+- [FudanVI/FudanOCR](https://github.com/FudanVI/FudanOCR) - シーンテキスト超解像と認識のツールボックス <sub>⭐ 439 · Python</sub>
+- [cszn/SRMD](https://github.com/cszn/SRMD) - 複数の劣化(CVPR、2018年)のための単一の並列超解像ネットワークを学習 (Matlab) <sub>⭐ 431 · MATLAB</sub>
+- [JustinhoCHN/SRGAN_Wasserstein](https://github.com/JustinhoCHN/SRGAN_Wasserstein) - Waseerstein GANをSRGANに応用し、ディープラーニングの超解像度モデル <sub>⭐ 421 · Python</sub>
+- [tumuyan/SourceBook-Dataset](https://github.com/tumuyan/SourceBook-Dataset) - テキスト/書籍の超解像のための画像データセット及びモデル <sub>⭐ 416 · Python</sub>
+- [zzxvictor/License-super-resolution](https://github.com/zzxvictor/License-super-resolution) - テンソルフロー2のナンバープレートイメージ再建プロジェクト <sub>⭐ 416 · Jupyter Notebook</sub>
+- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - PS5 GTA6をDLSS 5で120FPSに持って来ます。 高度なWindowsのビデオプレーヤーとビデオ、画像、およびカードソースのリアルタイムプレビューを備えたキャプチャ機能拡張ツール。 AI搭載スーパー... <sub>⭐ 412 · C++</sub>
+- [smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR) - FlashVSR:リアルタイム拡散ベースのストリーミングビデオスーパー解像度へ、comfyUIで使用できます。 <sub>⭐ 397 · Python</sub>
+- [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - (ICCV 2023) 効率的な画像の超解像のための空間的適応機能変調;NTIRE2023効率SRチャレンジにおけるモデル複雑性トラックのランナーアップ方法 <sub>⭐ 396 · Python</sub>
+- [manumathewthomas/ImageDenoisingGAN](https://github.com/manumathewthomas/ImageDenoisingGAN) - 画像は、ジェネレーション・アドバーサリアル・ネットワークで消毒する <sub>⭐ 390 · Python</sub>
+- [amanchadha/iSeeBetter](https://github.com/amanchadha/iSeeBetter) - iSeeBetter:Recurrent-Generative Back-Projection Networks / Python3 / PyTorch / GANs / CNNs / ResNet / RNNs / Springer Journal で公開されたSpatio-Temporal Video Super Resolution with Recurrent-Generative… <sub>⭐ 383 · C++</sub>
+- [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - AI(Semantic Segmentation、医療セグメンテーション、REID、Super-Resolution、Registration、CVPR、ECCV、ICCV、AAAI、MICCAI)の紙とコードをまとめました。 <sub>⭐ 377</sub>
+- [TencentARC/AnimeSR](https://github.com/TencentARC/AnimeSR) - "AnimeSR: Animation 動画のリアルワールド超解像モデルを学習" のためのコード <sub>⭐ 372 · Python</sub>
+- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - 画像とビデオのアップスケーリングリソースを収集するレポジトリだけでなく、独自の超解像度モデル。 <sub>⭐ 368</sub>
+- [wzhouxiff/RestoreFormer](https://github.com/wzhouxiff/RestoreFormer) - (CVPR 2022) RestoreFormer:未分解のキーバリューペアから高品質盲目の顔修復 <sub>⭐ 364 · Python</sub>
+- [cidautai/DarkIR](https://github.com/cidautai/DarkIR) - CVPR 2025 DarkIR: 控えめな低光画像修復 - アートの低い光を破壊する状態。 NTIRE 2025 最高の方法。 (公式PyTorch実装) <sub>⭐ 363 · Python</sub>
+- [styler00dollar/VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker) - VapourSynth を使用して、超解像度と補間モデルを組み合わせて、TensorRT で高速化します。 <sub>⭐ 361 · Python</sub>
+- [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - (CVPR 2025) 「ピクセルレベルとセマンティックレベルの調整可能な超解像:デュアルLoRAアプローチ」の公式コードリポジトリ <sub>⭐ 358 · Python</sub>
+- [yjsunnn/DLoRAL](https://github.com/yjsunnn/DLoRAL) - (NeurIPS'25) 細部のための1ステップ拡散-Richおよび緩和された一貫したビデオ超解像 <sub>⭐ 357 · Python</sub>
+- [jmiller656/EDSR-Tensorflow](https://github.com/jmiller656/EDSR-Tensorflow) - 単一のイメージの超解像のための高められた深い残余ネットワークのTensorflowの実装 <sub>⭐ 339 · Python</sub>
+- [neosr-project/neosr](https://github.com/neosr-project/neosr) - neosrは、超解像モデルのトレーニングのためのオープンソースフレームワークです。 <sub>⭐ 324 · Python</sub>
+- [jamichss/Stream-DiffVSR](https://github.com/jamichss/Stream-DiffVSR) - 紙「Stream-DiffVSR:低周波ストリーミング可能なビデオスーパー解像度」の公式リポジトリ <sub>⭐ 317 · Python</sub>
+- [chaiNNer-org/spandrel](https://github.com/chaiNNer-org/spandrel) - SpandrelはAI Super-Resolution、Recovery、Inpaintingの3つのPyTorchアーキテクチャをプロジェクトサポートします。ChaiNNerで実装されたモデルのサポートに基づいています。 <sub>⭐ 314 · Python</sub>
+- [sczhou/IGNN](https://github.com/sczhou/IGNN) - (NeurIPS 2020) クロススケール内部グラフニューラルネットワーク(イメージスーパー解像度用) <sub>⭐ 314 · Python</sub>
+- [0x09/resdet](https://github.com/0x09/resdet) - スケールアップした画像や動画のソース解像度を検知 <sub>⭐ 313 · C</sub>
+- [victorca25/traiNNer](https://github.com/victorca25/traiNNer) - traiNNer:画像とビデオの超解像、復元およびイメージツー・イメージ翻訳のためのディープラーニングフレームワーク, トレーニングやテストのために. <sub>⭐ 310 · Python</sub>
+- [Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) - (CVPR 2022) VideoINR:連続宇宙時間超解像のためのビデオ暗示論の学習 <sub>⭐ 302 · Python</sub>
+- [cswry/VOSR](https://github.com/cswry/VOSR) - (CVPR2026) VOSR:画像の超解像のためのビジョンのみ生成モデル <sub>⭐ 296 · Python</sub>
+- [Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration) - 集中回復とランドマーク推定(CVPR 2020)間の反復的なコラボレーションによるディープフェイス超解像の実装 <sub>⭐ 295 · Python</sub>
+- [jkwang28/OSDFace](https://github.com/jkwang28/OSDFace) - CVPR 2025紙「OSDFace:顔の修復のためのワンステップ拡散モデル」の公式レポ <sub>⭐ 294 · Python</sub>
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) リアルワールドイメージ超解像(PyTorch)用対価拡散圧縮 <sub>⭐ 292 · Python</sub>
+- [ServiceNow/HighRes-net](https://github.com/ServiceNow/HighRes-net) - HighRes-netのPytorch実装、マルチフレーム超解像のためのニューラルネットワーク、欧州宇宙庁のケルビン大会で訓練およびテスト。 これはServiceNow Researchプロジェクトです... <sub>⭐ 288 · Jupyter Notebook</sub>
+- [buriburisuri/SRGAN](https://github.com/buriburisuri/SRGAN) - クリスチャン・エ・アルのSRGAN(超解像総合的ネットワーク)のテンソルフロー矯正 <sub>⭐ 283 · Python</sub>
+- [alohaleonardo/Super_Resolution_with_CNNs_and_GANs](https://github.com/alohaleonardo/Super_Resolution_with_CNNs_and_GANs) - SRCNN、DRRN、SRGAN、CGANを用いた画像の超解像 <sub>⭐ 282 · Jupyter Notebook</sub>
+- [Zhaozixiang1228/MMIF-DDFM](https://github.com/Zhaozixiang1228/MMIF-DDFM) - (ICCV 2023 経口) 「DDFM:多次元画像融合モデルの解凍」のための公式実装 <sub>⭐ 282 · Python</sub>
+- [titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks) - KerasのSRGANモデルの実装 <sub>⭐ 281 · Python</sub>
+- [yjn870/FSRCNN-pytorch](https://github.com/yjn870/FSRCNN-pytorch) - 超解像構造ニューラルネットワーク(ECCV 2016)の加速化に向けたPyTorch実装 <sub>⭐ 281 · Python</sub>
+- [XPixelGroup/RankSRGAN](https://github.com/XPixelGroup/RankSRGAN) - ICCV 2019(経口)ランクSRGAN:イメージの超解像のためのランカとジェネレーション広告ネットワーク。 PyTorch実装 <sub>⭐ 277 · Python</sub>
+- [deepak112/Keras-SRGAN](https://github.com/deepak112/Keras-SRGAN) - Kerasに実装されたジェネレーション・アドバーサリアルネットワークを用いた、フォト・リアルティスティック・シングルイメージの超解像 <sub>⭐ 275 · Python</sub>
+- [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - (CVPR 2025) 古典映画の若返り、旧写真復活、ソーシャルメディア修復、画像の強化とAIGC強化のためのFaithDiff。 <sub>⭐ 273 · Python</sub>
+- [Adam-duan/DiT4SR](https://github.com/Adam-duan/DiT4SR) - (ICCV 2025) これは、紙の公式PyTorchコードです: "DiT4SR:現実世界画像超解像のための拡散トランスを改ざん" <sub>⭐ 272 · Python</sub>
+- [lanha/DSen2](https://github.com/lanha/DSen2) - Sentinel-2 イメージの超解像:グローバルに適用可能なディープニューラルネットワークを学習 <sub>⭐ 272 · Jupyter Notebook</sub>
+- [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - テキスト画像生成タスク、例えばビジュアルテキスト生成、フォント生成、テキスト削除、テキストイメージの超解像度、テキスト編集、手書きなどのための最近の拡散モデルの紙コレクション... <sub>⭐ 272</sub>
+- [csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet) - 盲目テキストイメージの超解像(CVPR 2023)のための前の遺伝子構造を学ぶ <sub>⭐ 269 · Python</sub>
+- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 Neural Rendering (NGX 機能 18) は、ComfyUI ノードとして動作します。 イメージのバッチとビデオファイルを実際のニューラル・レンダラーで強化し、オプションのアップスケーリングを実現します。 <sub>⭐ 266 · Python</sub>
+- [ylchen333/ComfyUI-VOSR2](https://github.com/ylchen333/ComfyUI-VOSR2) - VOSR 2.0用のComfyUIラッパー、画像の超解像度モデル <sub>⭐ 266 · Python</sub>
+- [FanChiMao/SUNet](https://github.com/FanChiMao/SUNet) - SUNet:UNetとイメージの消毒のためのSwin変圧器 <sub>⭐ 265 · Python</sub>
+- [yuvraj108c/ComfyUI_InvSR](https://github.com/yuvraj108c/ComfyUI_InvSR) - InvSR用ComfyUIラッパー(Diffusion Inversionによるアービトラリー・ステップ・イメージの超解像) <sub>⭐ 262 · Python</sub>
+- [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Real-ESRGAN、RealESRNet、RealESRAnime、BSRGAN、IRCNN、GFPGAN及びRIFEが付いているWindowsのためのスイート。 増量、表面回復、フレームの補間、消毒、バッチ処理およびGPU加速を1つで... <sub>⭐ 251 · Python</sub>
+- [yuvraj108c/ComfyUI-Upscaler-Tensorrt](https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt) - 2-4倍高速ComfyUI Image UpscalingでTensorrt <sub>⭐ 250 · Python</sub>
+- [skycrapers/TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - TecoGANのPyTorch Reimplementation:ビデオ超解像のためのTemporally Coherent GAN <sub>⭐ 246 · Python</sub>
+- [slp-rl/aero](https://github.com/slp-rl/aero) - このリポジトリには、「スペクトルドメインにおけるオーディオスーパー解像度」(ICASSP 2023)の公式PyTorch実装が含まれています <sub>⭐ 246 · Python</sub>
+- [megvii-research/DCLS-SR](https://github.com/megvii-research/DCLS-SR) - 紙の公式PyTorch実装「Disep Constrained Least Squares for Blind Image Super-Resolution」、CVPR 2022。 <sub>⭐ 244 · Python</sub>
+- [xindongzhang/ELAN](https://github.com/xindongzhang/ELAN) - (ECCV2022) 効率的なロングランジェ イメージの超解像のためのネットワーク <sub>⭐ 241 · Python</sub>
+- [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - (CVPR 2025) 紙「TSD-SR:現実世界画像超解像のためのターゲットスコア蒸留によるワンステップ拡散」の公式実装。 <sub>⭐ 239 · Python</sub>
+- [SYSU-SAIL/SMSR](https://github.com/SYSU-SAIL/SMSR) - (CVPR 2021) 効率的なインフェレンスのための画像の超解像でスパシティを探索する <sub>⭐ 239 · Python</sub>
+- [GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images) - 論文の公式実装:高分解能双方向リモートセーニング画像の変更検出のための深く監視されたイメージ融合ネットワーク <sub>⭐ 234 · Python</sub>
+- [BaratiLab/Diffusion-based-Fluid-Super-resolution](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution) - CFDデータ超解像のための拡散方式のPyTorch実装は、論文「ハイファイフローフィールド再構築のための物理情報統合モデル」で提案しました。 <sub>⭐ 232 · Python</sub>
+- [Araxeus/PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - AIスーパー - 解像度 <sub>⭐ 230 · Java</sub>
+- [skymanbp/autoshade](https://github.com/skymanbp/autoshade) - AI は、RAW 写真開発者: GPT Vision Advisor が、Dertministic Rust エンジンをレンダリングする EditRecipe を提案します。Lightroom 互換 XMP サイドカー、24 RAW 形式 + 焼きたて画像, 測定 (ただし... <sub>⭐ 230 · Rust</sub>
+- [hellloxiaotian/LESRCNN](https://github.com/hellloxiaotian/LESRCNN) - CNN(ナレッジベースシステム、2020)を強化した軽量画像超解像 <sub>⭐ 224 · Python</sub>
+- [yjsunnn/Awesome-video-super-resolution-diffusion](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion) - 拡散モデルを用いたビデオ超解像のためのリソースのキュレーションリスト。 <sub>⭐ 224</sub>
+- [researchmm/TTVSR](https://github.com/researchmm/TTVSR) - (CVPR'22 オーラル) TTVSR:ビデオ超解像のための学習軌跡-アウェアトランス <sub>⭐ 222 · Python</sub>
+- [zhengchen1999/DOVE](https://github.com/zhengchen1999/DOVE) - (NeurIPS'25) DOVE:現実世界のビデオ超解像のための有効な1ステップ拡散モデル <sub>⭐ 222 · Python</sub>
+- [tbepler/topaz](https://github.com/tbepler/topaz) - 偏光電子顕微鏡画像の粒子ピックアップのためのパイプラインは、前方および非標識例から訓練された複雑なネットワークを使用して画像をコピーします。また、マイクログラフとトーモグラムの消毒を特徴とする... <sub>⭐ 218 · Jupyter Notebook</sub>
+- [minyuanye/SIUN](https://github.com/minyuanye/SIUN) - 鋭いイメージのDeblurring <sub>⭐ 212 · Python</sub>
+- [msmsajjadi/FRVSR](https://github.com/msmsajjadi/FRVSR) - フレーム・リカレントのビデオ超解像(公式リポジトリ) <sub>⭐ 212</sub>
+- [Coloquinte/torchSR](https://github.com/Coloquinte/torchSR) - Pytorchの超解像度データセットとモデル <sub>⭐ 211 · Python</sub>
+- [Fried-Rice-Lab/FriedRiceLab](https://github.com/Fried-Rice-Lab/FriedRiceLab) - フライド・ライスラボの公式リポジトリ(以下、当社)は、当社の作品のコードリソースを含みます。ESWT(arXiv)などです。 このリポジトリには、多くの便利な機能とアウトオブザボックスイメージも実装されています... <sub>⭐ 211 · Python</sub>
+- [CVL-UESTC/Adaptive-Token-Dictionary](https://github.com/CVL-UESTC/Adaptive-Token-Dictionary) - (CVPR 2024 & TPAMI) ローカルウィンドウの限界を越える: アダプティブトークン辞書、ATDを備えた高度な超解像変換器: 画像のための適応トークン辞書でトランスを改善しました... <sub>⭐ 206 · Python</sub>
+- [jacobgil/pytorch-zssr](https://github.com/jacobgil/pytorch-zssr) - PyTorch 実装 1712.06087 「ゼロショット」 超解像による深層内部学習 <sub>⭐ 203 · Python</sub>
+- [leehomyc/Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton) - 「創造的単一画像超解像」のトーチ実装 <sub>⭐ 201 · Lua</sub>
+- [XY-boy/EDiffSR](https://github.com/XY-boy/EDiffSR) - (IEEE TGRS 2024) エディフSR:リモートセンシング画像の超解像度のための効率的な拡散確率モデル <sub>⭐ 201 · Python</sub>
+- [Algolzw/BSRT](https://github.com/Algolzw/BSRT) - 「BSRT:Swinトランスとフローガイド対応の変容性アライメント」CVPRW、NTIRE 2022バーストSRチャレンジ(リアルワールドトラック)で1位にランクアップ。 <sub>⭐ 200 · Python</sub>
+- [YuzheZhang-1999/DiffTSR](https://github.com/YuzheZhang-1999/DiffTSR) - (CVPR2024) 拡散ベースのブラインドテキスト画像スーパー解像度(公式) <sub>⭐ 200 · Python</sub>
+- [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - (CVPR2026) ODTSR: このリポジトリは、「制御可能な現実世界画像超解像のためのワンステップ拡散トランス」の公式実装です <sub>⭐ 199 · Python</sub>
+- [rlaphoenix/VSGAN](https://github.com/rlaphoenix/VSGAN) - VapourSynth の PyTorch ベースの超解像および復元 イメージ処理モジュール <sub>⭐ 197 · Python</sub>
+- [eugenesiow/super-image](https://github.com/eugenesiow/super-image) - PyTorch の画像スーパー解像度モデル。 <sub>⭐ 195 · Python</sub>
+- [2y7c3/Super-Resolution-Neural-Operator](https://github.com/2y7c3/Super-Resolution-Neural-Operator) - 超解像度ニューラルオペレーター、CVPR 2023 <sub>⭐ 192 · Python</sub>
+- [jsh-me/simple-android-editor](https://github.com/jsh-me/simple-android-editor) - ディープラーニング(FFMPEG / ExoPlayer2 / Super Resolution / Video and Image Inpainting)を使用したAndroidのビデオとフォトエディタ <sub>⭐ 192 · Kotlin</sub>
+- [hellloxiaotian/BRDNet](https://github.com/hellloxiaotian/BRDNet) - バッチ再正規化(ニューラルネットワーク、2020)でディープCNNを用いた画像の解凍 <sub>⭐ 190 · Python</sub>
+- [MiniAiLive/FaceLivenessDetection-Android](https://github.com/MiniAiLive/FaceLivenessDetection-Android) - 3Dパッシブフェイスライフネス検出!顔の検出、顔の一致、顔の分析、顔のセニメント、顔の識別と&顔認証&顔の表現をサポート... <sub>⭐ 190 · Kotlin</sub>
+- [Specy/Scapix](https://github.com/Specy/Scapix) - 画像のアップスケーリングとデノワアプリ <sub>⭐ 190 · TypeScript</sub>
+- [jlygit/AI-video-enhance](https://github.com/jlygit/AI-video-enhance) - このリポジトリは、超解像度、圧縮アーティファクト削減、デブロッキングなど、近年のディープラーニング(AI)を使用してビデオ/画像強化のための最新のアルゴリズムを収集します。 <sub>⭐ 189</sub>
+- [CVL-UESTC/PFT-SR](https://github.com/CVL-UESTC/PFT-SR) - CVPR2025 - 単一のイメージの超解像のための進歩的な焦点を付けられた変圧器 <sub>⭐ 186 · Python</sub>
+- [Deno2026/comfyui-deno-custom-nodes](https://github.com/Deno2026/comfyui-deno-custom-nodes) - NVIDIA VFX/nvfx、LTX 2.3、Bernini Promptガイド、Wan2.2リファレンスビデオ編集、画像/ビデオ比較、ビデオプレビュー、ローダー、サイズ変更、およびビジュアル... <sub>⭐ 184 · Python</sub>
+- [saeed-anwar/DRLN](https://github.com/saeed-anwar/DRLN) - 密かに残留ラプリアの超解像、IEEEパターン解析と機械インテリジェンス(TPAMI)、2020 <sub>⭐ 184 · Python</sub>
+- [TheFutureGadgetsLab/WaifuXL](https://github.com/TheFutureGadgetsLab/WaifuXL) - お使いのブラウザで直接、アートイメージのアップスケーリング状態。 <sub>⭐ 183 · TypeScript</sub>
+- [vztu/maxim-pytorch](https://github.com/vztu/maxim-pytorch) - (CVPR 2022 経口) PyTorchは、*training code*で「MAXIM: Multi-Axis MLP for Image Processing」のリimplementationを再実装します。 公式Jaxリポジトリ: https://github.com/google-research/maxim <sub>⭐ 183 · Python</sub>
+- [z-bingo/kernel-prediction-networks-PyTorch](https://github.com/z-bingo/kernel-prediction-networks-PyTorch) - カーネル予測ネットワークとPyTorchを使用して「Burst Denoising」および「Multi-Kernel Prediction Networks for Image Burst」の改良 <sub>⭐ 181 · Python</sub>
+- [claudiom4sir/StableVSR](https://github.com/claudiom4sir/StableVSR) - (ECCV 2024) Diffusionモデルを用いた熱間一貫したディテール合成によるビデオ超解像における受容性品質の向上 <sub>⭐ 180 · Python</sub>
+- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - Semanticセグメンテーションメガデプスのためのコンテキストエンコーディング:インターネットフォトLiteFlowNetからシングルビューの深さ予測を学習:光フロー推定のための軽量コンボショナルニューラルネットワーク... <sub>⭐ 179</sub>
+- [royerlab/aydin](https://github.com/royerlab/aydin) - Aydin — ユーザフレンドリーで高速な、自己監視された画像の消毒。 <sub>⭐ 178 · Python</sub>
+- [zhengchen1999/RGT](https://github.com/zhengchen1999/RGT) - (ICLR'24) イメージの超解像のための再帰的な一般化の変圧器 <sub>⭐ 176 · Python</sub>
+- [researchmm/FTVSR](https://github.com/researchmm/FTVSR) - (ECCV'22) FTVSR:Compressed Video Super-ResolutionのSpatiotemporal周波数変換器を学ぶ <sub>⭐ 175 · Python</sub>
+- [imatge-upc/3D-GAN-superresolution](https://github.com/imatge-upc/3D-GAN-superresolution) - ジェネレーション・アドバーサリアネットワークを用いた3D超解像 <sub>⭐ 173 · Python</sub>
+- [hzwer/WACV2024-SAFA](https://github.com/hzwer/WACV2024-SAFA) - WACV2024 - 効率的な空間時間ビデオ超解像度のためのスケール適応機能集計 <sub>⭐ 171 · Python</sub>
+- [msmsajjadi/EnhanceNet-Code](https://github.com/msmsajjadi/EnhanceNet-Code) - AddeNet:自動テクスチャ合成(公式リポジトリ)による単一の画像の超解像 <sub>⭐ 171 · Python</sub>
+- [ngchc/CameraSR](https://github.com/ngchc/CameraSR) - カメラレンズCVPR 2019の超解像 <sub>⭐ 171 · Python</sub>
+- [caojiezhang/DATSR](https://github.com/caojiezhang/DATSR) - 変形型保持トランス(ECCV2022)による、PyTorchの実装 <sub>⭐ 168 · Python</sub>
+- [CVL-UESTC/MIA-VSR](https://github.com/CVL-UESTC/MIA-VSR) - CVPR 2024-Video 超解像トランスとマスクされたInter&Intra-Frameアテンション <sub>⭐ 168 · Python</sub>
+- [net2cn/Real-ESRGAN_GUI](https://github.com/net2cn/Real-ESRGAN_GUI) - C#で書かれたReal-ESRGANベースの超解像度モデル推論GUI。 <sub>⭐ 168 · C#</sub>
+- [IanYeung/MGLD-VSR](https://github.com/IanYeung/MGLD-VSR) - ECCV 2024紙用コード「モーションガイド型ラテンドフュージョン for Temporally Consistent Real World Video Super-resolution」 <sub>⭐ 166 · Python</sub>
+- [yinxiL/video-super-resolution](https://github.com/yinxiL/video-super-resolution) - 古典的な tensorflow & pytorch cnn モデルの実装コレクション <sub>⭐ 166 · Python</sub>
+- [pq-yang/PGDiff](https://github.com/pq-yang/PGDiff) - (NeurIPS 2023) PGDiff: 部分的な指導による多目的な顔の回復のための指導の拡散モデル <sub>⭐ 165 · Python</sub>
+- [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - 強化されたSRGAN. チャンピオンPIRMチャレンジの知覚超解像 <sub>⭐ 164 · Python</sub>
+- [XiangZ-0/HiT-SR](https://github.com/XiangZ-0/HiT-SR) - (ECCV 2024 - オーラル)HiT-SR:効率的な画像の超解像のための階層トランス <sub>⭐ 164 · Python</sub>
+- [ceshine/fast-neural-style](https://github.com/ceshine/fast-neural-style) - リアルタイムスタイルの転送と超解像のためのパーセプチュアルロスのピトーチ実装 <sub>⭐ 163 · Jupyter Notebook</sub>
+- [hanyoseob/pytorch-noise2void](https://github.com/hanyoseob/pytorch-noise2void) - Noise2Void - 単一のノイズイメージから脱ノする学習 <sub>⭐ 157 · Python</sub>
+- [haoheliu/ssr_eval](https://github.com/haoheliu/ssr_eval) - スピーチの超解像方法の評価とベンチマーク <sub>⭐ 157 · Python</sub>
+- [idearibosome/srzoo](https://github.com/idearibosome/srzoo) - SRZoo:ディープラーニングを用いた超解像のための統合リポジトリ <sub>⭐ 157 · Python</sub>
+- [xuanandsix/GFPGAN-onnxruntime-demo](https://github.com/xuanandsix/GFPGAN-onnxruntime-demo) - これは、GFP-GANのためのオンクスランタイム推論コードです: 遺伝子的顔の優先順位(CVPR 2021)で現実世界盲目の修復に向けて。 公式コード: https://github.com/TencentARC/GFPGAN <sub>⭐ 157 · Python</sub>
+- [eduardzamfir/seemoredetails](https://github.com/eduardzamfir/seemoredetails) - (ICML 2024) 詳細を見る: エキスパートマイニングによる効率的な画像の超解像 <sub>⭐ 153 · Python</sub>
+- [PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load](https://github.com/PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load) - Qwen-Image-Edit-2511モデルのデモは、高度なシングルとマルチ画像編集用のLazy-loaded LoRAアダプターです。 7 +専用のLoRAをサポートし、フォト・ツー・アニメ、多角形を含む... <sub>⭐ 153 · Python</sub>
+- [CAREamics/careamics](https://github.com/CAREamics/careamics) - 画像復元のためのディープラーニングライブラリ。 <sub>⭐ 152 · Python</sub>
+- [takuyaa/waifu2x-js](https://github.com/takuyaa/waifu2x-js) - ディープコンボニューラルネットワーク(CNN)を用いた画像の超解像 <sub>⭐ 152 · JavaScript</sub>
+- [Tengfei-Wang/DCSR](https://github.com/Tengfei-Wang/DCSR) - (ICCV 2021(経口プレゼンテーション)) デュアルカメラの超解像とアライメントアテンションモジュール(RefSR) <sub>⭐ 151 · Python</sub>
+- [Alexkral/AviSynthAiUpscale](https://github.com/Alexkral/AviSynthAiUpscale) - AviSynth+ は、超解像構造ニューラルネットワークの実装です。 <sub>⭐ 148 · GLSL</sub>
+- [SSinyu/WGAN-VGG](https://github.com/SSinyu/WGAN-VGG) - 低線量CT画像のPytorch実装は、Wasserstein距離とパーセプチュアル損失で生成的なアドバーサリアネットワークを使用して廃止します <sub>⭐ 148 · Python</sub>
+- [ESAOpenSR/opensr-model](https://github.com/ESAOpenSR/opensr-model) - RGB-NIR Sen2イメージ用ラテント拡散超解像モデルの実装 <sub>⭐ 147 · Python</sub>
+- [Junshk/CinCGAN-pytorch](https://github.com/Junshk/CinCGAN-pytorch) - CVPR 2018で「サイクル・イン・サイクル・ジェネレーション・アドバーサリアル・ネットワーク」を用いた非公式な実装。 <sub>⭐ 146 · Python</sub>
+- [XPixelGroup/RethinkVSRAlignment](https://github.com/XPixelGroup/RethinkVSRAlignment) - (NIPS 2022) ビデオ超解像変圧器のアライメントを再考する <sub>⭐ 146 · Python</sub>
+- [XY-boy/TTST](https://github.com/XY-boy/TTST) - (IEEE TIP 2024) TTST:リモートセンシングイメージの超解像のためのトップkトークン選択トランス <sub>⭐ 146 · Python</sub>
+- [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - 「InstantRestore: Shared-Image Attention」によるシングルステップパーソナライズされた顔の修復のための公式実装 <sub>⭐ 145 · Python</sub>
+- [Nenotriple/gimp_upscale](https://github.com/Nenotriple/gimp_upscale) - GIMP(2.10&3.0)内で直接画像をスケールアップし、リアルESRGAN AIのアップスケーラーを使用して、高速で高品質の写真や芸術、アニメの強化を実現します。 <sub>⭐ 144 · Python</sub>
+- [addyosmani/enhance](https://github.com/addyosmani/enhance) - お使いのブラウザでAIを使用して画像を拡張し、拡大します <sub>⭐ 142 · TypeScript</sub>
+- [lychengrex/Image-Denoising-with-Deep-CNNs](https://github.com/lychengrex/Image-Denoising-with-Deep-CNNs) - PyTorch と深く関連したニューラルネットワーク (CNN) を使用して、DnCNN や U-net アーキテクチャを調査 <sub>⭐ 141 · Jupyter Notebook</sub>
+- [cabooster/DeepCAD-RT](https://github.com/cabooster/DeepCAD-RT) - DeepCAD-RT: ディープな自己監視学習を用いた蛍光タイムラプス画像のリアルタイム消毒 <sub>⭐ 130 · Jupyter Notebook</sub>
+- [zhangyi-3/IDR](https://github.com/zhangyi-3/IDR) - 反復的なデータ定義(CVPR2022)による自己監視されたイメージの消毒 <sub>⭐ 130 · Python</sub>
+- [g4m3r0/ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - AI画像のアップスケーリング機能を搭載したシンプルなフラスコウェブアプリで、低解像度の画像を楽に高めます。 <sub>⭐ 129 · HTML</sub>
+- [philz1337x/clarity-lowres-upscaler](https://github.com/philz1337x/clarity-lowres-upscaler) - Clarity AI の低解像度アップスケール化による修正 - AI で画像を拡大し、拡大する <sub>⭐ 126 · Python</sub>
+- [AliMorty/Markov-Random-Field-Project](https://github.com/AliMorty/Markov-Random-Field-Project) - このプロジェクトには2つの部分があります。その一部では、Markovランダムフィールドを使って画像を解凍します。パート2では画像のセグメンテーションに類似したモデルを使用します。 <sub>⭐ 124 · Jupyter Notebook</sub>
+- [hellloxiaotian/ADNet](https://github.com/hellloxiaotian/ADNet) - 注意ガイド付きCNNによる画像消毒(Neural Networks,2020) <sub>⭐ 120 · Python</sub>
+- [HyelinNAM/ContrastiveDenoisingScore](https://github.com/HyelinNAM/ContrastiveDenoisingScore) - (CVPR2024) テキストガイド型ラテンド拡散画像編集用「対照的解凍スコア(CDS)」の公式PyTorch実装 <sub>⭐ 120 · Python</sub>
+- [chenxx89/BFRffusion](https://github.com/chenxx89/BFRffusion) - ジェネレーション・ディフュージョンの事前による現実世界盲目の顔修復に向けての公式コード <sub>⭐ 119 · Python</sub>
+- [fallenshock/SinDDM](https://github.com/fallenshock/SinDDM) - 紙の公式ピトルチ実装:「SinDDM:単一画像消毒型モデル」 <sub>⭐ 119 · Python</sub>
+- [MushroomFleet/DJZ-Workflows](https://github.com/MushroomFleet/DJZ-Workflows) - 1000以上のAI画像とビデオ生成のためのComfyUIワークフロー — Flux、SDXL、Hunyuan、CogVideo、アップスケーリング、ControlNetなど <sub>⭐ 118 · Python</sub>
+- [Zj-BinXia/BBCU](https://github.com/Zj-BinXia/BBCU) - このプロジェクトは、Binarized Image Restoration Networkの「基本バイナリコンボリューションユニット」、ICLR2023の公式実装です <sub>⭐ 117 · Python</sub>
+- [NICALab/SUPPORT](https://github.com/NICALab/SUPPORT) - 統計的に偏見のない予測、自然法による電圧画像データの正確な消毒。 <sub>⭐ 110 · Python</sub>
+- [MIC-DKFZ/MITK-Diffusion](https://github.com/MIC-DKFZ/MITK-Diffusion) - MITK Diffusion - 医療画像相互作用ツールキットの公式部分 <sub>⭐ 107 · C++</sub>
 
 ## 🖌️ レタッチと編集
 
 > ポートレートのレタッチ、オブジェクト除去、テキストで指示する編集。
 
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The… <sub>⭐ 28.3k · TypeScript</sub>
-- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. <sub>⭐ 10.7k · Python</sub>
-- [advimman/lama](https://github.com/advimman/lama) - LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 <sub>⭐ 10.3k · Jupyter Notebook</sub>
-- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models. <sub>⭐ 7.7k · Jupyter Notebook</sub>
-- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic : Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image… <sub>⭐ 7.5k · Jupyter Notebook</sub>
-- [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - (ICCV 2023) ProPainter: Improving Propagation and Transformer for Video Inpainting <sub>⭐ 7.0k · Python</sub>
-- [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image <sub>⭐ 5.2k · Python</sub>
-- [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model. <sub>⭐ 4.8k · Python</sub>
-- [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas <sub>⭐ 3.9k · Python</sub>
-- [xororz/local-dream](https://github.com/xororz/local-dream) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference. <sub>⭐ 3.6k · Kotlin</sub>
-- [JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral <sub>⭐ 3.5k · Python</sub>
-- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc). <sub>⭐ 3.0k · Python</sub>
-- [ai-forever/Kandinsky-2](https://github.com/ai-forever/Kandinsky-2) - Kandinsky 2 — multilingual text2image latent diffusion model <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV 2019 https://arxiv.org/abs/1901.00212 <sub>⭐ 2.6k · Python</sub>
-- [andreas128/RePaint](https://github.com/andreas128/RePaint) - Official PyTorch Code and Models of "RePaint: Inpainting using Denoising Diffusion Probabilistic Models", CVPR 2022 <sub>⭐ 2.3k · Python</sub>
-- [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas <sub>⭐ 2.2k</sub>
-- [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG) - A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2… <sub>⭐ 2.2k · Python</sub>
-- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - (NeurIPS 2025) Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence~ MoE ckpt released! Only 4GB VRAM is enough to run! <sub>⭐ 2.1k · Python</sub>
-- [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI. <sub>⭐ 2.0k · Python</sub>
-- [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board. <sub>⭐ 1.9k · Jupyter Notebook</sub>
-- [TencentARC/BrushNet](https://github.com/TencentARC/BrushNet) - (ECCV 2024) The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion" <sub>⭐ 1.7k · Python</sub>
-- [Hedlen/awesome-segment-anything](https://github.com/Hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything. <sub>⭐ 1.7k</sub>
-- [scraed/LanPaint](https://github.com/scraed/LanPaint) - High quality training free inpaint for every stable diffusion model. Supports ComfyUI <sub>⭐ 1.4k · Python</sub>
-- [bloc97/CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) - Unofficial implementation of "Prompt-to-Prompt Image Editing with Cross Attention Control" with Stable Diffusion <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [Uminosachi/sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything. <sub>⭐ 1.3k · Python</sub>
-- [leehomyc/Faster-High-Res-Neural-Inpainting](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) - High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis <sub>⭐ 1.3k · Lua</sub>
-- [marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal) - Fully convolutional deep neural network to remove transparent overlays from images <sub>⭐ 1.3k · Python</sub>
-- [ahrm/UnstableFusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more! <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [Fantasy-Studio/Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - Paint by Example: Exemplar-based Image Editing with Diffusion Models <sub>⭐ 1.3k · Python</sub>
-- [Acly/comfyui-inpaint-nodes](https://github.com/Acly/comfyui-inpaint-nodes) - Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas. <sub>⭐ 1.2k · Python</sub>
-- [fenglinglwb/MAT](https://github.com/fenglinglwb/MAT) - MAT: Mask-Aware Transformer for Large Hole Image Inpainting <sub>⭐ 983 · Python</sub>
-- [pathak22/context-encoder](https://github.com/pathak22/context-encoder) - (CVPR 2016) Unsupervised Feature Learning by Image Inpainting using GANs <sub>⭐ 907 · Lua</sub>
-- [MathiasGruber/PConv-Keras](https://github.com/MathiasGruber/PConv-Keras) - Unofficial implementation of "Image Inpainting for Irregular Holes Using Partial Convolutions". Try at: www.fixmyphoto.ai <sub>⭐ 903 · Jupyter Notebook</sub>
-- [glucauze/sd-webui-faceswaplab](https://github.com/glucauze/sd-webui-faceswaplab) - Extended faceswap extension for StableDiffusion web-ui with multiple faceswaps, inpainting, checkpoints, .... <sub>⭐ 820 · Python</sub>
-- [wenquanlu/HandRefiner](https://github.com/wenquanlu/HandRefiner) - (ACM MM 2024) Offical Code for "HandRefiner: Refining Malformed Hands in Generated Images by Diffusion-based Conditional Inpainting" <sub>⭐ 807 · Python</sub>
-- [fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Run the official Stable Diffusion releases in a Docker container with txt2img, img2img, depth2img, pix2pix, upscale4x, and inpaint. <sub>⭐ 743 · Python</sub>
-- [SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) - Diffusion Model-Based Image Editing: A Survey (TPAMI 2025) <sub>⭐ 714</sub>
-- [Picsart-AI-Research/MI-GAN](https://github.com/Picsart-AI-Research/MI-GAN) - (ICCV 2023) MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices <sub>⭐ 696 · Python</sub>
-- [lixiaowen-xw/DiffuEraser](https://github.com/lixiaowen-xw/DiffuEraser) - DiffuEraser is a diffusion model for video inpainting, which performs great content completeness and temporal consistency while maintaining acceptable efficiency. <sub>⭐ 695 · Python</sub>
-- [lyndonzheng/Pluralistic-Inpainting](https://github.com/lyndonzheng/Pluralistic-Inpainting) - (CVPR 2019): Pluralistic Image Completion <sub>⭐ 690 · Python</sub>
-- [bahjat-kawar/ddrm](https://github.com/bahjat-kawar/ddrm) - (NeurIPS 2022) Denoising Diffusion Restoration Models -- Official Code Repository <sub>⭐ 673 · Python</sub>
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Flash Diffusion — accelerating conditional diffusion models (AAAI 2025 Oral) <sub>⭐ 667 · Python</sub>
-- [Zj-BinXia/DiffIR](https://github.com/Zj-BinXia/DiffIR) - This project is the official implementation of 'Diffir: Efficient diffusion model for image restoration', ICCV2023 <sub>⭐ 614 · Jupyter Notebook</sub>
-- [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x. <sub>⭐ 597 · Jupyter Notebook</sub>
-- [TemryL/ComfyUI-IDM-VTON](https://github.com/TemryL/ComfyUI-IDM-VTON) - ComfyUI adaptation of IDM-VTON for virtual try-on. <sub>⭐ 594 · Python</sub>
-- [TencentARC/BrushEdit](https://github.com/TencentARC/BrushEdit) - (TPAMI) The official implementation of paper "BrushEdit: All-In-One Image Inpainting and Editing" <sub>⭐ 590 · Python</sub>
-- [yeungchenwa/OCR-SAM](https://github.com/yeungchenwa/OCR-SAM) - (Open-Source Project) Combining MMOCR with Segment Anything & Stable Diffusion. Automatically detect, recognize and segment text instances, with serval downstream tasks, e.g., Text Removal and Text… <sub>⭐ 590 · Python</sub>
-- [omriav/blended-diffusion](https://github.com/omriav/blended-diffusion) - Official implementation for "Blended Diffusion for Text-driven Editing of Natural Images" (CVPR 2022) <sub>⭐ 588 · Jupyter Notebook</sub>
-- [ali-vilab/Infusion](https://github.com/ali-vilab/Infusion) - Official implementation for paper: InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior <sub>⭐ 560 · Python</sub>
-- [researchmm/STTN](https://github.com/researchmm/STTN) - (ECCV'2020) STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting <sub>⭐ 558 · Jupyter Notebook</sub>
-- [ThereforeGames/txt2mask](https://github.com/ThereforeGames/txt2mask) - Automatically create masks for Stable Diffusion inpainting using natural language. <sub>⭐ 524 · Python</sub>
-- [ximinng/PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender) - SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing. <sub>⭐ 495 · Python</sub>
-- [daa233/generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch) - A PyTorch reimplementation for paper Generative Image Inpainting with Contextual Attention (https://arxiv.org/abs/1801.07892) <sub>⭐ 487 · Python</sub>
-- [avalonstrel/GatedConvolution_pytorch](https://github.com/avalonstrel/GatedConvolution_pytorch) - A modified reimplemented in pytorch of inpainting model in Free-Form Image Inpainting with Gated Convolution (http://jiahuiyu.com/deepfill2/) <sub>⭐ 452 · Python</sub>
-- [aimagelab/multimodal-garment-designer](https://github.com/aimagelab/multimodal-garment-designer) - (ICCV 2023) This is the official repository for the paper "Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing" <sub>⭐ 445 · Python</sub>
-- [shepnerd/inpainting_gmcnn](https://github.com/shepnerd/inpainting_gmcnn) - Image Inpainting via Generative Multi-column Convolutional Neural Networks, NeurIPS2018 <sub>⭐ 435 · Python</sub>
-- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with AI models using Replicate's API <sub>⭐ 427 · JavaScript</sub>
-- [yanokusnir-ai/one-node-flux-2-klein](https://github.com/yanokusnir-ai/one-node-flux-2-klein) - ComfyUI custom node for Flux 2 Klein: image generation, image editing, inpainting, outpainting, faceswap and more. All in a single self-contained UI widget. <sub>⭐ 411 · JavaScript</sub>
-- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - (ICCV 2025) Official pytorch implementation of "FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors" <sub>⭐ 406 · Python</sub>
-- [AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies) - A collection of awesome image inpainting studies. <sub>⭐ 397 · TeX</sub>
-- [DQiaole/ZITS_inpainting](https://github.com/DQiaole/ZITS_inpainting) - (CVPR 2022) Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding <sub>⭐ 396 · Python</sub>
-- [abyildirim/inst-inpaint](https://github.com/abyildirim/inst-inpaint) - A novel inpainting framework that can remove objects from images based on the instructions given as text prompts. <sub>⭐ 384 · Python</sub>
-- [zavolokas/Inpainting](https://github.com/zavolokas/Inpainting) - Want to remove something(someone) from a photo as it never was there? This is .NET implementation of content-aware fill. It smartly fills in unwanted or missing areas of photographs. <sub>⭐ 380 · C#</sub>
-- [KumapowerLIU/Rethinking-Inpainting-MEDFE](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) - Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations. ECCV 2020 Oral <sub>⭐ 373 · Python</sub>
-- [design-edit/DesignEdit](https://github.com/design-edit/DesignEdit) - (AAAI2025) DesignEdit: Unify Spatial-Aware Image Editing via Training-free Inpainting with a Multi-Layered Latent Diffusion Framework <sub>⭐ 368 · Python</sub>
-- [Picsart-AI-Research/HD-Painter](https://github.com/Picsart-AI-Research/HD-Painter) - (ICLR 2025) HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models <sub>⭐ 368 · Python</sub>
-- [amrrs/stable-diffusion-prompt-inpainting](https://github.com/amrrs/stable-diffusion-prompt-inpainting) - This project helps you do prompt-based inpainting without having to paint the mask - using Stable Diffusion and Clipseg <sub>⭐ 363 · Jupyter Notebook</sub>
-- [groundboxerrespect/Dlls5-auto](https://github.com/groundboxerrespect/Dlls5-auto) - Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style… <sub>⭐ 357 · Python</sub>
-- [baaivision/vid2vid-zero](https://github.com/baaivision/vid2vid-zero) - Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models <sub>⭐ 356 · Python</sub>
-- [hitachinsk/FGT](https://github.com/hitachinsk/FGT) - (ECCV 2022) Flow-Guided Transformer for Video Inpainting <sub>⭐ 352 · Jupyter Notebook</sub>
-- [Azornes/Comfyui-LayerForge](https://github.com/Azornes/Comfyui-LayerForge) - ComfyUI's Photoshop-like layered canvas editor to your ComfyUI workflow. This node is perfect for complex compositing, inpainting, and outpainting, featuring multi-layer support, masking, blend… <sub>⭐ 348 · JavaScript</sub>
-- [meangrinch/MangaTranslator](https://github.com/meangrinch/MangaTranslator) - Manga translation app powered by AI <sub>⭐ 334 · Python</sub>
-- [portu-sim/sd-webui-bmab](https://github.com/portu-sim/sd-webui-bmab) - Auto masking and inpainting for person, face, hand. Resizing image using detection model. <sub>⭐ 332 · Python</sub>
-- [zibojia/COCOCO](https://github.com/zibojia/COCOCO) - Video-Inpaint-Anything: This is the inference code for our paper CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility. <sub>⭐ 325 · Python</sub>
-- [suyukun666/UFO](https://github.com/suyukun666/UFO) - Official PyTorch implementation of the “A Unified Transformer Framework for Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection”. (TMM2023) <sub>⭐ 303 · Python</sub>
-- [jaidevshriram/realmdreamer](https://github.com/jaidevshriram/realmdreamer) - Code for RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion (3DV 2025) <sub>⭐ 302 · Python</sub>
-- [PKU-YuanGroup/Edit-R1](https://github.com/PKU-YuanGroup/Edit-R1) - Edit-R1: Reinforce Image Editing with Diffusion Negative-Aware Finetuning and MLLM Implicit Feedback <sub>⭐ 299 · Python</sub>
-- [witcherofresearch/Forgedit](https://github.com/witcherofresearch/Forgedit) - The first paper discovered and applied Diffusion UNet's Disentanglement on structure and appearance on Image Editing <sub>⭐ 284 · Python</sub>
-- [parlance-zz/g-diffuser-bot](https://github.com/parlance-zz/g-diffuser-bot) - Discord bot and Interface for Stable Diffusion <sub>⭐ 282 · Python</sub>
-- [smthemex/ComfyUI_DiffuEraser](https://github.com/smthemex/ComfyUI_DiffuEraser) - DiffuEraser is a diffusion model for video Inpainting, you can use it in ComfyUI <sub>⭐ 280 · Python</sub>
-- [KumapowerLIU/CSA-inpainting](https://github.com/KumapowerLIU/CSA-inpainting) - Coherent Semantic Attention for image inpainting(ICCV 2019) <sub>⭐ 279 · Python</sub>
-- [Uminosachi/inpaint-anything](https://github.com/Uminosachi/inpaint-anything) - Inpaint Anything performs stable diffusion inpainting on a browser UI using masks from Segment Anything. <sub>⭐ 274 · Python</sub>
-- [Tengfei-Wang/Implicit-Internal-Video-Inpainting](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) - (ICCV 2021): IIVI: Internal Video Inpainting by Implicit Long-range Propagation <sub>⭐ 259 · Python</sub>
-- [taabata/LCM_Inpaint_Outpaint_Comfy](https://github.com/taabata/LCM_Inpaint_Outpaint_Comfy) - ComfyUI custom nodes for inpainting/outpainting using the new latent consistency model (LCM) <sub>⭐ 257 · Python</sub>
-- [zengxianyu/sketchedit](https://github.com/zengxianyu/sketchedit) - SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches, CVPR2022 <sub>⭐ 255 · Python</sub>
-- [Ling-APE/ComfyUI-All-in-One-FluxDev-Workflow](https://github.com/Ling-APE/ComfyUI-All-in-One-FluxDev-Workflow) - An All-in-One FluxDev workflow in ComfyUI that combines various techniques for generating images with the FluxDev model, including img-to-img and text-to-img. This workflow can use LoRAs… <sub>⭐ 249</sub>
-- [runwayml/guided-inpainting](https://github.com/runwayml/guided-inpainting) - Towards Unified Keyframe Propagation Models <sub>⭐ 243 · Python</sub>
-- [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - A tab for sd-webui for replacing objects in pictures or videos using detection prompt <sub>⭐ 241 · Python</sub>
-- [zengxianyu/crfill](https://github.com/zengxianyu/crfill) - CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction. ICCV 2021 <sub>⭐ 241 · Python</sub>
-- [OpenGVLab/Diffree](https://github.com/OpenGVLab/Diffree) - Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model <sub>⭐ 240 · Python</sub>
-- [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub) - Try X-Dub to sync any character in a video with any audio you like / Official repository for "From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping" <sub>⭐ 235 · Python</sub>
-- [alen-smajic/Stable-Diffusion-Latent-Space-Explorer](https://github.com/alen-smajic/Stable-Diffusion-Latent-Space-Explorer) - Codebase for performing various experiments with Stable Diffusion, supported by the diffusers library. <sub>⭐ 228 · Python</sub>
-- [JiauZhang/DragDiffusion](https://github.com/JiauZhang/DragDiffusion) - Implementation of DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing <sub>⭐ 223 · Python</sub>
-- [nipponjo/deepfillv2-pytorch](https://github.com/nipponjo/deepfillv2-pytorch) - A PyTorch reimplementation of the paper Free-Form Image Inpainting with Gated Convolution (DeepFill v2) (https://arxiv.org/abs/1806.03589) <sub>⭐ 220 · Python</sub>
-- [ashawkey/InTeX](https://github.com/ashawkey/InTeX) - Interactive Text-to-Texture Synthesis via Unified Depth-aware Inpainting. <sub>⭐ 219 · Python</sub>
-- [hughplay/DFNet](https://github.com/hughplay/DFNet) - Deep Fusion Network for Image Completion - ACMMM 2019 <sub>⭐ 218 · Python</sub>
-- [MeiGen-AI/PosterOmni](https://github.com/MeiGen-AI/PosterOmni) - (CVPR2026) PosterOmni: One model for poster creation—unifying local edits and global design for generalized multi-task image/poster-to-poster generation. <sub>⭐ 217 · Python</sub>
-- [sujaykhandekar/Automated-objects-removal-inpainter](https://github.com/sujaykhandekar/Automated-objects-removal-inpainter) - Automated object remover Inpainter is a project that combines Semantic segmentation and EdgeConnect architectures with minor changes in order to remove specified object/s from list of 20 objects from… <sub>⭐ 216 · Python</sub>
-- [Mooshieblob1/MooshieUI](https://github.com/Mooshieblob1/MooshieUI) - A front-end UI for ComfyUI made for beginner level users. <sub>⭐ 204 · TypeScript</sub>
-- [liuqk3/PUT](https://github.com/liuqk3/PUT) - Paper 'Transformer based Pluralistic Image Completion with Reduced Information Loss' in TPAMI 2024 and 'Reduce Information Loss in Transformers for Pluralistic Image Inpainting' in CVPR2022 <sub>⭐ 202 · Python</sub>
-- [NevSNev/FloED-main](https://github.com/NevSNev/FloED-main) - Coherent Video Inpainting Using Optical Flow-Guided Efficient Diffusion <sub>⭐ 199 · Python</sub>
-- [PlagueKind/ComfyUI-PlagueKind-Nodes](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) - ComfyUI custom nodes providing unified image and mask resizing with support for multiple scaling modes, aspect-ratio preservation, center crop alignment, and stable tensor-based mask transformations… <sub>⭐ 199 · Python</sub>
-- [vegidio/open-photo-ai](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. <sub>⭐ 197 · Rust</sub>
-- [camenduru/grounded-segment-anything-colab](https://github.com/camenduru/grounded-segment-anything-colab) - Grounding DINO with Segment Anything & Stable Diffusion colab <sub>⭐ 191 · Jupyter Notebook</sub>
-- [zhang-zx/SINE](https://github.com/zhang-zx/SINE) - This respository contains the code for the CVPR 2023 paper SINE: SINgle Image Editing with Text-to-Image Diffusion Models. <sub>⭐ 189 · Python</sub>
-- [USTC-JialunPeng/Diverse-Structure-Inpainting](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) - CVPR 2021: "Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE" <sub>⭐ 188 · Python</sub>
-- [zhang-zx/AVID](https://github.com/zhang-zx/AVID) - This respository contains the code for the CVPR 2024 paper AVID: Any-Length Video Inpainting with Diffusion Model. <sub>⭐ 177</sub>
-- [moodoki/semantic_image_inpainting](https://github.com/moodoki/semantic_image_inpainting) - Semantic Image Inpainting <sub>⭐ 172 · Python</sub>
-- [javirk/Person_remover](https://github.com/javirk/Person_remover) - People removal in images using Pix2Pix and YOLO. <sub>⭐ 161 · Jupyter Notebook</sub>
-- [TIGER-AI-Lab/EditReward](https://github.com/TIGER-AI-Lab/EditReward) - EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing (ICLR 2026) <sub>⭐ 160 · Python</sub>
-- [NVIDIA/diffusion-audio-restoration](https://github.com/NVIDIA/diffusion-audio-restoration) - Audio-to-Audio Schrodinger Bridges is a diffusion-based audio restoration model for bandwidth extension and inpainting. <sub>⭐ 157 · Python</sub>
-- [koi953215/NaRCan](https://github.com/koi953215/NaRCan) - (NeurIPS 2024) NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing <sub>⭐ 153 · Python</sub>
-- [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting <sub>⭐ 151 · Python</sub>
-- [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation <sub>⭐ 146 · TypeScript</sub>
-- [alexanderswerdlow/unidisc](https://github.com/alexanderswerdlow/unidisc) - UniDisc: A discrete diffusion model for joint multimodal generation, enabling controllable and efficient text-image synthesis, editing, and inpainting. <sub>⭐ 144 · Python</sub>
-- [eliahuhorwitz/Conffusion](https://github.com/eliahuhorwitz/Conffusion) - Official Implementation for the "Conffusion: Confidence Intervals for Diffusion Models" paper. <sub>⭐ 143 · Python</sub>
-- [juniorxsound/ThreadedDepthCleaner](https://github.com/juniorxsound/ThreadedDepthCleaner) - Threaded depth-map cleaning and inpainting using OpenCV <sub>⭐ 143 · C++</sub>
-- [Ground-A-Video/Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video) - Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models (ICLR 2024) <sub>⭐ 140 · Python</sub>
-- [htyjers/StrDiffusion](https://github.com/htyjers/StrDiffusion) - (CVPR 2024) Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting <sub>⭐ 128 · Python</sub>
-- [jordenyt/stable_diffusion_sketch](https://github.com/jordenyt/stable_diffusion_sketch) - Stable Diffusion Sketch, an Android client app that connect to your own ComfyUI or A1111-sd-webui <sub>⭐ 128 · Java</sub>
-- [ysy31415/unipaint](https://github.com/ysy31415/unipaint) - Code Implementation of "Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model" <sub>⭐ 128 · Jupyter Notebook</sub>
-- [ruiliu-ai/FuseFormer](https://github.com/ruiliu-ai/FuseFormer) - official Pytorch implementation of ICCV 2021 paper FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting. <sub>⭐ 122 · Python</sub>
-- [YujiaHu1109/IEAP](https://github.com/YujiaHu1109/IEAP) - (NeurIPS 2025) IEAP: Image Editing As Programs with Diffusion Models <sub>⭐ 121 · Python</sub>
-- [giannisdaras/ilo](https://github.com/giannisdaras/ilo) - (ICML 2021) Official implementation: Intermediate Layer Optimization for Inverse Problems using Deep Generative Models <sub>⭐ 120 · Python</sub>
-- [Kuberwastaken/sweeta](https://github.com/Kuberwastaken/sweeta) - Remove Watermarks from SORA 2 Video Generations with LaMA inpainting. (RESEARCH AND EDUCATIONAL USE ONLY) <sub>⭐ 120 · Python</sub>
-- [avalonstrel/GatedConvolution](https://github.com/avalonstrel/GatedConvolution) - An reimplement version of inpainting model in Free-Form Image Inpainting with Gated Convolution <sub>⭐ 116 · Python</sub>
-- [yuqwu/Replace-Anything](https://github.com/yuqwu/Replace-Anything) - A simple web application that lets you replace any part of an image with an image generated based on your description. <sub>⭐ 115 · Python</sub>
-- [JeffersonQin/YuzuMarker](https://github.com/JeffersonQin/YuzuMarker) - (WIP) Manga Translation Tool <sub>⭐ 114 · C#</sub>
-- [ML-GSAI/SDE-Drag](https://github.com/ML-GSAI/SDE-Drag) - Official PyTorch implementation for ICLR2024 paper "The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing" <sub>⭐ 113 · Python</sub>
-- [FuelMagistrateLead/photoshop-ai-smart-enhance](https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance) - AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning… <sub>⭐ 112 · HTML</sub>
-- [Correr-Zhou/HiFi-Inpaint](https://github.com/Correr-Zhou/HiFi-Inpaint) - (CVPR 2026) Offical implementation of the paper "HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images". <sub>⭐ 111 · Python</sub>
-- [wangkai930418/DPL](https://github.com/wangkai930418/DPL) - (NeurIPS 2023) Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing <sub>⭐ 111 · Python</sub>
-- [AmericanPresidentJimmyCarter/yasd-discord-bot](https://github.com/AmericanPresidentJimmyCarter/yasd-discord-bot) - Yet Another Stable Diffusion Discord Bot <sub>⭐ 110 · Python</sub>
-- [caojiezhang/DeqIR](https://github.com/caojiezhang/DeqIR) - PyTorch implementation of "Deep Equilibrium Diffusion Restoration with Parallel Sampling (CVPR 2024)" <sub>⭐ 110 · Python</sub>
-- [YoungGod/sturcture-inpainting](https://github.com/YoungGod/sturcture-inpainting) - Source code of AAAI 2020 paper 'Learning to Incorporate Structure Knowledge for Image Inpainting' <sub>⭐ 110 · Python</sub>
-- [segments-ai/latent-diffusion-segmentation](https://github.com/segments-ai/latent-diffusion-segmentation) - A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting (ECCV 2024) <sub>⭐ 109 · Python</sub>
-- [Tengfei-Wang/external-internal-inpainting](https://github.com/Tengfei-Wang/external-internal-inpainting) - (CVPR 2021) EII: Image Inpainting with External-Internal Learning and Monochromic Bottleneck <sub>⭐ 109 · Python</sub>
-- [dangeng/motion_guidance](https://github.com/dangeng/motion_guidance) - Code for ICLR 2024 paper "Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators" <sub>⭐ 108 · Python</sub>
-- [TareHimself/comic-localizer](https://github.com/TareHimself/comic-localizer) - A comic localizer built with python <sub>⭐ 108 · Python</sub>
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invokeは、最新のAI主導技術を使用してビジュアルメディアを生成および作成する専門家、アーティスト、熱狂的な能力を備えた安定した拡散モデルのための主要なクリエイティブエンジンです。... <sub>⭐ 28.3k · TypeScript</sub>
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - クリタのAIで画像を生成するための合理化されたインターフェイス。インペイントとアウトペイントオプションテキストプロンプト、微調整は必要ありません。 <sub>⭐ 10.7k · Python</sub>
+- [advimman/lama](https://github.com/advimman/lama) - LaMa イメージのInpainting、Fourier Convolutions、WACV 2022 と塗る決断強い大きいマスク <sub>⭐ 10.3k · Jupyter Notebook</sub>
+- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - セグメントのあらゆるものをペイントし、モデルを塗る。 <sub>⭐ 7.7k · Jupyter Notebook</sub>
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLabマルチモーダルアドバンスト、ジェネレーション、インテリジェントなクリエーションツールボックス。 魔法のロックを解除:Generative-AI(AIGC)、使いやすいAPI、恐ろしいモデル動物園、拡散モデル、テキストツーイメージのための... <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - (ICCV 2023) ProPainter:ビデオインペーティング用の伝搬とトランスの改良 <sub>⭐ 7.0k · Python</sub>
+- [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - 地上の真理画像から消えるイメージからの透かしをinstinctively取除く機械学習イメージのintpainting仕事 <sub>⭐ 5.2k · Python</sub>
+- [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - 検出モデルで自動検知、マスキング、塗装を行います。 <sub>⭐ 4.8k · Python</sub>
+- [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - 無限のキャンバスに安定した拡散によるアウトペイント <sub>⭐ 3.9k · Python</sub>
+- [xororz/local-dream](https://github.com/xororz/local-dream) - Snapdragon NPUの加速とAndroidデバイス上の安定した拡散を実行します。 また、CPU / GPU推論をサポートしています。 <sub>⭐ 3.6k · Kotlin</sub>
+- [JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 は、コンテキストアテンションとゲーテッドコンボリューション、CVPR 2018、ICCV 2019オーラル <sub>⭐ 3.5k · Python</sub>
+- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AIコミックとマンガの翻訳者アプリ/ブラウザ拡張機能で、自動的に漫画やマンガ、マンワ、BDs、fumettiなどの言語やフォーマット(イメージ、PDF、EPUB、CBR、CBZなど)を翻訳できます。 <sub>⭐ 3.0k · Python</sub>
+- [ai-forever/Kandinsky-2](https://github.com/ai-forever/Kandinsky-2) - Kandinsky 2 — 多言語テキスト2画像の潜在的拡散モデル <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect:エッジ予測を用いた構造ガイド画像インペリアル, ICCV 2019 https://arxiv.org/abs/1901.00212 <sub>⭐ 2.6k · Python</sub>
+- [andreas128/RePaint](https://github.com/andreas128/RePaint) - オフィシャルPyTorchコードとモデルの「RePaint: Denoising Diffusion Probabilistic Model」、CVPR 2022 <sub>⭐ 2.3k · Python</sub>
+- [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - 潜水艦モデルの紙が、そのサブエリアによって分類される <sub>⭐ 2.2k</sub>
+- [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG) - ComfyUIカスタムノードは、RMBG-2.0、INSPYRENET、BEN、BEN2などの複数のモデルを活用した高度な画像の背景除去とオブジェクト、顔、服およびファッションセグメンテーションのために設計しました。 <sub>⭐ 2.2k · Python</sub>
+- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - (NeurIPS 2025) 画像編集は、単一のLoRAの価値があります! 0.1% 素晴らしい画像編集のためのトレーニングデータ! ID永続でGPT-4oを監視します~ MoEのクプットがリリースされました! 4GB VRAMのみを実行するのに十分です! <sub>⭐ 2.1k · Python</sub>
+- [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - 「AI-Powered Watermark Remover」は、Florence-2とLaMA:SoraやRunwayなどのAI生成コンテンツを含む画像や動画から透かしを取り除きます。モダンなPyWebview GUIを備えています。 <sub>⭐ 2.0k · Python</sub>
+- [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AIの魔法は無限引き板を満たします。 <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [TencentARC/BrushNet](https://github.com/TencentARC/BrushNet) - (ECCV 2024) 紙「BrushNet:プラグアンドプレイイメージインペリアルモデルと分解されたデュアルブランチ拡散」の公式実装 <sub>⭐ 1.7k · Python</sub>
+- [Hedlen/awesome-segment-anything](https://github.com/Hedlen/awesome-segment-anything) - 紙・プロジェクト/その他をセグメント関連で追跡し、収集します。 <sub>⭐ 1.7k</sub>
+- [scraed/LanPaint](https://github.com/scraed/LanPaint) - すべての安定した拡散モデルのための良質の訓練の自由なInpaint。ComfyUIを支えて下さい <sub>⭐ 1.4k · Python</sub>
+- [bloc97/CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) - 安定した拡散による「プロット・ツー・プロンプト画像編集」の非公式実装 <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [Uminosachi/sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint あらゆる拡張機能により、Segments のマスクを使ってブラウザー UI 上で安定した拡散インペレーションを実行します。 <sub>⭐ 1.3k · Python</sub>
+- [leehomyc/Faster-High-Res-Neural-Inpainting](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) - マルチスケールニューラルパッチ合成を用いた高解像度画像インペリアル <sub>⭐ 1.3k · Lua</sub>
+- [marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal) - 完全に複雑な深いニューラルネットワークにより、画像から透明のオーバーレイを除去 <sub>⭐ 1.3k · Python</sub>
+- [ahrm/UnstableFusion](https://github.com/ahrm/UnstableFusion) - ペイント、img2imgなどの安定した拡散デスクトップフロントエンド! <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [Fantasy-Studio/Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - 例によるペイント:DiffusionモデルでExemplarベースの画像編集 <sub>⭐ 1.3k · Python</sub>
+- [Acly/comfyui-inpaint-nodes](https://github.com/Acly/comfyui-inpaint-nodes) - ComfyUIでより良いインペリアルのためのノード:SDXL、LaMa、MAT、および事前に充填する塗装&アウトペイント領域用のさまざまな他のツールのフォラスインペレーションモデル。 <sub>⭐ 1.2k · Python</sub>
+- [fenglinglwb/MAT](https://github.com/fenglinglwb/MAT) - MAT: 大きい穴のイメージの塗ることのためのマスク-Aware変圧器 <sub>⭐ 983 · Python</sub>
+- [pathak22/context-encoder](https://github.com/pathak22/context-encoder) - (CVPR 2016) ガンスを用いた画像の塗装による未指示機能学習 <sub>⭐ 907 · Lua</sub>
+- [MathiasGruber/PConv-Keras](https://github.com/MathiasGruber/PConv-Keras) - 「部分的な回帰を用いた不規則な穴のためのイメージインペレーション」の非公式実装。 で試してみてください: www.fixmyphoto.ai <sub>⭐ 903 · Jupyter Notebook</sub>
+- [glucauze/sd-webui-faceswaplab](https://github.com/glucauze/sd-webui-faceswaplab) - StableDiffusion web-ui 用の拡張フェイススワップエクステンション、複数のフェースワープ、塗装、チェックポイント、... <sub>⭐ 820 · Python</sub>
+- [wenquanlu/HandRefiner](https://github.com/wenquanlu/HandRefiner) - (ACM MM 2024) 「ハンドリファインダー:拡散に基づく条件付き塗装による生成された画像のマルフォームド・ハンドを精製する」ための非公式コード <sub>⭐ 807 · Python</sub>
+- [fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Dockerコンテナの公式Stable Diffusionリリースを txt2img、img2img、depth2img、pix2pix、upscale4x、Inpaintで実行します。 <sub>⭐ 743 · Python</sub>
+- [SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) - 拡散モデルベースの画像編集:調査(TPAMI 2025) <sub>⭐ 714</sub>
+- [Picsart-AI-Research/MI-GAN](https://github.com/Picsart-AI-Research/MI-GAN) - (ICCV 2023) MI-GAN:モバイルデバイス上の画像のインペリアルのためのシンプルなベースライン <sub>⭐ 696 · Python</sub>
+- [lixiaowen-xw/DiffuEraser](https://github.com/lixiaowen-xw/DiffuEraser) - DiffuEraserは、ビデオインペーティング用の拡散モデルで、優れたコンテンツの完全性と一時的な一貫性を発揮し、許容効率を維持します。 <sub>⭐ 695 · Python</sub>
+- [lyndonzheng/Pluralistic-Inpainting](https://github.com/lyndonzheng/Pluralistic-Inpainting) - (CVPR 2019): 多角的画像補完 <sub>⭐ 690 · Python</sub>
+- [bahjat-kawar/ddrm](https://github.com/bahjat-kawar/ddrm) - (NeurIPS 2022) 審美的な拡散修復モデル -- 公式コードリポジトリ <sub>⭐ 673 · Python</sub>
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Flash Diffusion — 条件付き拡散モデル(AAAI 2025経口)を加速 <sub>⭐ 667 · Python</sub>
+- [Zj-BinXia/DiffIR](https://github.com/Zj-BinXia/DiffIR) - ICCV2023は「ディフィール:画像復元のための効率的な拡散モデル」の公式実装です。 <sub>⭐ 614 · Jupyter Notebook</sub>
+- [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - 軽量の安定した拡散v 2.1 Web UI:txt2img、img2img、depth2img、inpaintおよびupscale4x。 <sub>⭐ 597 · Jupyter Notebook</sub>
+- [TemryL/ComfyUI-IDM-VTON](https://github.com/TemryL/ComfyUI-IDM-VTON) - 仮想試着のためのIDM-VTONのComfyUIの適応。 <sub>⭐ 594 · Python</sub>
+- [TencentARC/BrushEdit](https://github.com/TencentARC/BrushEdit) - (TPAMI) 紙の公式実装「BrushEdit:オールインワン画像の塗装と編集」 <sub>⭐ 590 · Python</sub>
+- [yeungchenwa/OCR-SAM](https://github.com/yeungchenwa/OCR-SAM) - (オープンソースプロジェクト) MMOCRとセグメントのすべてと安定した拡散を組み合わせる。 自動的に検出し、認識し、セグメントテキストインスタンスは、サービスダウンストリームタスクで、例えば、テキスト削除やテキスト... <sub>⭐ 590 · Python</sub>
+- [omriav/blended-diffusion](https://github.com/omriav/blended-diffusion) - 「自然画像のテキスト主導編集のためのブレンド拡散」(CVPR 2022) <sub>⭐ 588 · Jupyter Notebook</sub>
+- [ali-vilab/Infusion](https://github.com/ali-vilab/Infusion) - 紙の公式実装: InFusion: Diffusion Priorから学習深さ完了による3Dガウスを塗る <sub>⭐ 560 · Python</sub>
+- [researchmm/STTN](https://github.com/researchmm/STTN) - (ECCV'2020) STTN:ビデオインペーティングのための共同空間的一時的な変化を学習 <sub>⭐ 558 · Jupyter Notebook</sub>
+- [ThereforeGames/txt2mask](https://github.com/ThereforeGames/txt2mask) - 自然言語を用いた安定した拡散塗装用マスクを自動的に作成します。 <sub>⭐ 524 · Python</sub>
+- [ximinng/PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender) - SVG の異なるレンダリング:ニューラルネットワークを使用してベクトルグラフィックを生成します。サポート:テキストからSVG、画像にSVG、SVG 編集。 <sub>⭐ 495 · Python</sub>
+- [daa233/generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch) - PyTorch 紙の生成画像のコンテクチュアル・アテンション(https://arxiv.org/abs/1801.07892)で印刷するための再実装 <sub>⭐ 487 · Python</sub>
+- [avalonstrel/GatedConvolution_pytorch](https://github.com/avalonstrel/GatedConvolution_pytorch) - フリーフォームイメージ塗装のピトルチで修正された再実装(http://jiahuiyu.com/deepfill2/) <sub>⭐ 452 · Python</sub>
+- [aimagelab/multimodal-garment-designer](https://github.com/aimagelab/multimodal-garment-designer) - (ICCV 2023) これは、紙のための公式リポジトリです “マルチモーダルガーメントデザイナー: ファッションイメージ編集のためのヒト・セネトリラテントの拡散モデル” <sub>⭐ 445 · Python</sub>
+- [shepnerd/inpainting_gmcnn](https://github.com/shepnerd/inpainting_gmcnn) - 遺伝子の多列構造ニューラルネットワーク、NeurIPS2018による画像インペリアル <sub>⭐ 435 · Python</sub>
+- [replicate/inpainter](https://github.com/replicate/inpainter) - Replicate's API を使用して AI モデルにインペレーションするための Next.js で構築された Web GUI <sub>⭐ 427 · JavaScript</sub>
+- [yanokusnir-ai/one-node-flux-2-klein](https://github.com/yanokusnir-ai/one-node-flux-2-klein) - ComfyUIカスタムノード(Flux 2 Klein):イメージ生成、画像編集、塗装、アウトペインティング、フェースワープなど。 1つの自己完結したUIウィジェットすべて。 <sub>⭐ 411 · JavaScript</sub>
+- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - (ICCV 2025) 「FramePainter:ビデオ拡散優先でインタラクティブな画像編集」の公式ピトルチ実装 <sub>⭐ 406 · Python</sub>
+- [AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies) - 素晴らしいイメージのインペリアルな研究のコレクション。 <sub>⭐ 397 · TeX</sub>
+- [DQiaole/ZITS_inpainting](https://github.com/DQiaole/ZITS_inpainting) - (CVPR 2022) 隠蔽変圧器の構造はマスキングのポジカル・エンコーディングとイメージのInpainting高めました <sub>⭐ 396 · Python</sub>
+- [abyildirim/inst-inpaint](https://github.com/abyildirim/inst-inpaint) - テキストプロンプトとして与えられた指示に基づいて、画像からオブジェクトを削除できる新しいインペレーションフレームワーク。 <sub>⭐ 384 · Python</sub>
+- [zavolokas/Inpainting](https://github.com/zavolokas/Inpainting) - 写真から何か(一部)を削除したいですか? これは、コンテンツアウェアの充填の.NET実装です。 それは賢く不要なまたは写真の不足している領域に記入します。 <sub>⭐ 380 · C#</sub>
+- [KumapowerLIU/Rethinking-Inpainting-MEDFE](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) - 機能の同等化を用いる相互エンコーダーのデコーダーによってイメージInpainting Rethinking。 ECCV 2020口頭 <sub>⭐ 373 · Python</sub>
+- [design-edit/DesignEdit](https://github.com/design-edit/DesignEdit) - (AAAI2025) DesignEdit: 多層ラテント拡散フレームワークを用いたトレーニングフリーインペーティングによる空間アウェア画像の編集を統一 <sub>⭐ 368 · Python</sub>
+- [Picsart-AI-Research/HD-Painter](https://github.com/Picsart-AI-Research/HD-Painter) - (ICLR 2025) HD-Painter: 拡散モデルを用いた高解像とプロンプの忠実なテキストガイド画像処理 <sub>⭐ 368 · Python</sub>
+- [amrrs/stable-diffusion-prompt-inpainting](https://github.com/amrrs/stable-diffusion-prompt-inpainting) - このプロジェクトでは、マスクをペイントすることなくプロンプトベースのインペレーションを実行するのに役立ちます - 安定した拡散とClipseg <sub>⭐ 363 · Jupyter Notebook</sub>
+- [groundboxerrespect/Dlls5-auto](https://github.com/groundboxerrespect/Dlls5-auto) - DLSS5に触発された自己ホスト型ニューラルレンダリング&AI画像拡張サービス。 写真、スクリーンショットまたはゲームキャプチャをフォトリアルシネマティックレンダーにします - 花咲く、映画的なトーンマッピング、6スタイル... <sub>⭐ 357 · Python</sub>
+- [baaivision/vid2vid-zero](https://github.com/baaivision/vid2vid-zero) - ゼロショットビデオ編集は、オフザ・シェルフ画像拡散モデルを使用して <sub>⭐ 356 · Python</sub>
+- [hitachinsk/FGT](https://github.com/hitachinsk/FGT) - (ECCV 2022) ビデオ塗装のためのフローガイドトランス <sub>⭐ 352 · Jupyter Notebook</sub>
+- [Azornes/Comfyui-LayerForge](https://github.com/Azornes/Comfyui-LayerForge) - ComfyUIのPhotoshopのようなレイヤードキャンバスエディタをComfyUIワークフローに。 このノードは、マルチレイヤのサポート、マスク、ブレンドなどの多層的なコンポジショニング、インペレーションに最適です。 <sub>⭐ 348 · JavaScript</sub>
+- [meangrinch/MangaTranslator](https://github.com/meangrinch/MangaTranslator) - AIを活用したマンガ翻訳アプリ <sub>⭐ 334 · Python</sub>
+- [portu-sim/sd-webui-bmab](https://github.com/portu-sim/sd-webui-bmab) - 人、顔、手のための自動覆いそして塗ること。検出モデルを使用してイメージを和らげて下さい。 <sub>⭐ 332 · Python</sub>
+- [zibojia/COCOCO](https://github.com/zibojia/COCOCO) - Video-Inpaint-Anything: これは、私たちの紙のCoCoCoCoCoのための推論コードです:より良い一貫性、制御性および互換性のためにテキストガイドビデオインペレーションを改善します。 <sub>⭐ 325 · Python</sub>
+- [suyukun666/UFO](https://github.com/suyukun666/UFO) - 「共同セグメント化のための統一トランスフレームワーク、コサリテン検出とビデオサーエントオブジェクト検出」の公式PyTorch実装。 (TMM2023) <sub>⭐ 303 · Python</sub>
+- [jaidevshriram/realmdreamer](https://github.com/jaidevshriram/realmdreamer) - RealmDreamerのコード: ペイントとデプス拡散によるテキスト駆動3Dシーン生成 (3DV 2025) <sub>⭐ 302 · Python</sub>
+- [PKU-YuanGroup/Edit-R1](https://github.com/PKU-YuanGroup/Edit-R1) - Edit-R1: Diffusion Negative-Aware FinetuningとMLLM Implicitのフィードバックで画像編集を強化する <sub>⭐ 299 · Python</sub>
+- [witcherofresearch/Forgedit](https://github.com/witcherofresearch/Forgedit) - 最初の論文が発見され、画像の編集に関する構造と外観上の拡散UNetの変容を適用しました <sub>⭐ 284 · Python</sub>
+- [parlance-zz/g-diffuser-bot](https://github.com/parlance-zz/g-diffuser-bot) - 安定した拡散のための分解のボットそしてインターフェイス <sub>⭐ 282 · Python</sub>
+- [smthemex/ComfyUI_DiffuEraser](https://github.com/smthemex/ComfyUI_DiffuEraser) - DiffuEraser はビデオ Inpainting のための拡散モデルです、ComfyUI でそれを使うことができます <sub>⭐ 280 · Python</sub>
+- [KumapowerLIU/CSA-inpainting](https://github.com/KumapowerLIU/CSA-inpainting) - 画像インペリアルのためのコヒーレントセマンティックアテンション(ICCV 2019) <sub>⭐ 279 · Python</sub>
+- [Uminosachi/inpaint-anything](https://github.com/Uminosachi/inpaint-anything) - Inpaint は、Segments からマスクを使用してブラウザ UI 上で安定した拡散インペレーションを実行します。 <sub>⭐ 274 · Python</sub>
+- [Tengfei-Wang/Implicit-Internal-Video-Inpainting](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) - (ICCV 2021):IIVI:インペリシットの長期伝搬による内部ビデオ塗装 <sub>⭐ 259 · Python</sub>
+- [taabata/LCM_Inpaint_Outpaint_Comfy](https://github.com/taabata/LCM_Inpaint_Outpaint_Comfy) - ComfyUI カスタム ノードは、新しいレイトント一貫性モデル(LCM)を使用して塗装/出力のための <sub>⭐ 257 · Python</sub>
+- [zengxianyu/sketchedit](https://github.com/zengxianyu/sketchedit) - SketchEdit:部分的なスケッチ、CVPR2022 が付いているマスクなしのローカル イメージの操作 <sub>⭐ 255 · Python</sub>
+- [Ling-APE/ComfyUI-All-in-One-FluxDev-Workflow](https://github.com/Ling-APE/ComfyUI-All-in-One-FluxDev-Workflow) - ComfyUIのオールインワンFluxDevワークフローは、img-to-imgとテキスト・トゥ・イムを含むFluxDevモデルで画像を生成するためのさまざまな技術を組み合わせたものです。 このワークフローでは、LoRAsを使用することができます... <sub>⭐ 249</sub>
+- [runwayml/guided-inpainting](https://github.com/runwayml/guided-inpainting) - 統一されたキーフレームの伝搬モデルに向けて <sub>⭐ 243 · Python</sub>
+- [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - 検出プロンプトを使用して画像やビデオにオブジェクトを交換するためのsd-webuiタブ <sub>⭐ 241 · Python</sub>
+- [zengxianyu/crfill](https://github.com/zengxianyu/crfill) - CR-Fill: 補助コンテキスト再構築による生成イメージインペレーション。ICCV 2021 <sub>⭐ 241 · Python</sub>
+- [OpenGVLab/Diffree](https://github.com/OpenGVLab/Diffree) - Diffree: 拡散モデルと塗るテキストガイド付き形状の自由オブジェクト <sub>⭐ 240 · Python</sub>
+- [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub) - X-Dubを試して、好きなオーディオ/「Inpaintingから編集」の公式リポジトリでビデオ内の任意の文字を同期してください。 Generative Bootstrappingを介してRomant Mask-Free Visual Dubbingをロック解除する」 <sub>⭐ 235 · Python</sub>
+- [alen-smajic/Stable-Diffusion-Latent-Space-Explorer](https://github.com/alen-smajic/Stable-Diffusion-Latent-Space-Explorer) - diffusersライブラリでサポートされているStable Diffusionを使用してさまざまな実験を実行するためのコードベース。 <sub>⭐ 228 · Python</sub>
+- [JiauZhang/DragDiffusion](https://github.com/JiauZhang/DragDiffusion) - DragDiffusionの実装:インタラクティブポイントベースの画像編集のためのハーネス化拡散モデル <sub>⭐ 223 · Python</sub>
+- [nipponjo/deepfillv2-pytorch](https://github.com/nipponjo/deepfillv2-pytorch) - 紙のフリーフォームイメージ塗装(Gated Convolution) (https://arxiv.org/abs/1806.03589) <sub>⭐ 220 · Python</sub>
+- [ashawkey/InTeX](https://github.com/ashawkey/InTeX) - 統一された深さ-awareのInpaintingによるインタラクティブなテキスト・ツー・テクスチャ合成。 <sub>⭐ 219 · Python</sub>
+- [hughplay/DFNet](https://github.com/hughplay/DFNet) - ディープフュージョンネットワークによる画像補完 - ACMMM 2019 <sub>⭐ 218 · Python</sub>
+- [MeiGen-AI/PosterOmni](https://github.com/MeiGen-AI/PosterOmni) - (CVPR2026) ポスターOmni:局所編集と一般化マルチタスクイメージ/郵便利用者の生成のためのグローバルデザインを統一するポスター作成用の1つのモデル。 <sub>⭐ 217 · Python</sub>
+- [sujaykhandekar/Automated-objects-removal-inpainter](https://github.com/sujaykhandekar/Automated-objects-removal-inpainter) - 自動化されたオブジェクト除去剤Inpainterは、セマンティックセグメンテーションとEdgeConnectアーキテクチャを組み合わせるプロジェクトで、20のオブジェクトのリストから指定されたオブジェクト/秒を削除するためのマイナーな変更があります。... <sub>⭐ 216 · Python</sub>
+- [Mooshieblob1/MooshieUI](https://github.com/Mooshieblob1/MooshieUI) - 初心者レベルのユーザー向けに作られたComfyUIのフロントエンドUI。 <sub>⭐ 204 · TypeScript</sub>
+- [liuqk3/PUT](https://github.com/liuqk3/PUT) - TPAMI2024の「トランスフォーマーベースの多角的画像補完」とCVPR2022でPluralistic Image Inpaintingのための変圧器における情報損失を削減 <sub>⭐ 202 · Python</sub>
+- [NevSNev/FloED-main](https://github.com/NevSNev/FloED-main) - 光学フローガイド付き効率的な拡散によるコヒーレントビデオ塗装 <sub>⭐ 199 · Python</sub>
+- [PlagueKind/ComfyUI-PlagueKind-Nodes](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) - ComfyUIカスタムノードは、複数のスケーリングモード、アスペクトレイティオの保存、センタークロップアライメント、および安定したテンソルベースのマスク変換のサポートで統一されたイメージとマスク再サイズを提供... <sub>⭐ 199 · Python</sub>
+- [vegidio/open-photo-ai](https://github.com/vegidio/open-photo-ai) - 一般的なフォトAIエディタにオープンソースの代替手段。 <sub>⭐ 197 · Rust</sub>
+- [camenduru/grounded-segment-anything-colab](https://github.com/camenduru/grounded-segment-anything-colab) - DINOをセグメント別&安定した拡散コラブで囲む <sub>⭐ 191 · Jupyter Notebook</sub>
+- [zhang-zx/SINE](https://github.com/zhang-zx/SINE) - このリポジトリには、CVPR 2023論文のコードが含まれています。SINgle Image Editing with Text-to-Image Diffusionパフォーマー。 <sub>⭐ 189 · Python</sub>
+- [USTC-JialunPeng/Diverse-Structure-Inpainting](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) - CVPR 2021:「階層VQ-VAEで画像の塗り絵のための多様な構造を生成」 <sub>⭐ 188 · Python</sub>
+- [zhang-zx/AVID](https://github.com/zhang-zx/AVID) - このリポジトリには、CVPR 2024紙のAVID用のコードが含まれています。Diffusionモデルで任意の長さのビデオインペレーション。 <sub>⭐ 177</sub>
+- [moodoki/semantic_image_inpainting](https://github.com/moodoki/semantic_image_inpainting) - セマンティックなイメージのInpainting <sub>⭐ 172 · Python</sub>
+- [javirk/Person_remover](https://github.com/javirk/Person_remover) - Pix2PixとYOLOを使って画像の削除をします。 <sub>⭐ 161 · Jupyter Notebook</sub>
+- [TIGER-AI-Lab/EditReward](https://github.com/TIGER-AI-Lab/EditReward) - EditReward: 指示指導的画像編集のための人間を連想させる報酬モデル(ICLR 2026) <sub>⭐ 160 · Python</sub>
+- [NVIDIA/diffusion-audio-restoration](https://github.com/NVIDIA/diffusion-audio-restoration) - オーディオ・ツー・アウディオ・シュロッガー橋は、帯域幅の拡張と塗装のための拡散ベースのオーディオ修復モデルです。 <sub>⭐ 157 · Python</sub>
+- [koi953215/NaRCan](https://github.com/koi953215/NaRCan) - (NeurIPS 2024) NaRCan:ビデオ編集前の拡散の統合を用いる自然な精製された Canonicalイメージ <sub>⭐ 153 · Python</sub>
+- [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: ジェネレーションランドマークガイドフェイスインペリアル <sub>⭐ 151 · Python</sub>
+- [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - インタラクティブな音楽制作のためのWebインターフェイスのコレクション <sub>⭐ 146 · TypeScript</sub>
+- [alexanderswerdlow/unidisc](https://github.com/alexanderswerdlow/unidisc) - UniDisc: 共同多項生成のための分離された拡散モデル、制御可能で効率的なテキスト画像合成、編集およびインペレーションを可能にします。 <sub>⭐ 144 · Python</sub>
+- [eliahuhorwitz/Conffusion](https://github.com/eliahuhorwitz/Conffusion) - 「融合:拡散モデルの機密インターバル」紙の公式実装。 <sub>⭐ 143 · Python</sub>
+- [juniorxsound/ThreadedDepthCleaner](https://github.com/juniorxsound/ThreadedDepthCleaner) - OpenCV を用いた深度マップのクリーニングと塗装 <sub>⭐ 143 · C++</sub>
+- [Ground-A-Video/Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video) - Ground-A-Video: ゼロショット・グラウンド・ビデオ編集 (ICLR 2024) <sub>⭐ 140 · Python</sub>
+- [htyjers/StrDiffusion](https://github.com/htyjers/StrDiffusion) - (CVPR 2024) 構造マター: イメージの塗ることのための拡散モデルで皮をむくSemantic Discrepancy <sub>⭐ 128 · Python</sub>
+- [jordenyt/stable_diffusion_sketch](https://github.com/jordenyt/stable_diffusion_sketch) - 独自のComfyUIまたはA1111-sd-webuiに接続するAndroidクライアントアプリであるStable Diffusion Sketch <sub>⭐ 128 · Java</sub>
+- [ysy31415/unipaint](https://github.com/ysy31415/unipaint) - 「Uni-paint: プリトレインド拡散モデルを用いたマルチモーダル画像塗装のための統一フレームワーク」のコード実装 <sub>⭐ 128 · Jupyter Notebook</sub>
+- [ruiliu-ai/FuseFormer](https://github.com/ruiliu-ai/FuseFormer) - ICCV 2021紙FuseFormerの公式Pytorch実装:ビデオインペレーション用のトランスフォーメーションにおけるファイングリル情報の使用。 <sub>⭐ 122 · Python</sub>
+- [YujiaHu1109/IEAP](https://github.com/YujiaHu1109/IEAP) - (NeurIPS 2025) IEAP: Diffusion モデルのプログラムとして画像編集 <sub>⭐ 121 · Python</sub>
+- [giannisdaras/ilo](https://github.com/giannisdaras/ilo) - (ICML 2021)公式実装:ディープジェネレーションモデルを用いたインバースデーレイヤーの最適化 <sub>⭐ 120 · Python</sub>
+- [Kuberwastaken/sweeta](https://github.com/Kuberwastaken/sweeta) - SORA 2ビデオ生成からLaMAインペリアルで透かしを取り除きます。 (検索と教育のみ) <sub>⭐ 120 · Python</sub>
+- [avalonstrel/GatedConvolution](https://github.com/avalonstrel/GatedConvolution) - フリーフォーム画像のインペレーションとGated Convolutionでモデルをペイントする刷新版 <sub>⭐ 116 · Python</sub>
+- [yuqwu/Replace-Anything](https://github.com/yuqwu/Replace-Anything) - 説明に基づいて生成された画像とイメージの任意の部分を置き換えることができるシンプルなWebアプリケーション。 <sub>⭐ 115 · Python</sub>
+- [JeffersonQin/YuzuMarker](https://github.com/JeffersonQin/YuzuMarker) - (WIP) マンガ翻訳ツール <sub>⭐ 114 · C#</sub>
+- [ML-GSAI/SDE-Drag](https://github.com/ML-GSAI/SDE-Drag) - ICLR2024 紙用公式PyTorch実装「ランダムネスの祝福:SDEは、一般的な拡散ベースの画像編集でODEを打ちます」 <sub>⭐ 113 · Python</sub>
+- [FuelMagistrateLead/photoshop-ai-smart-enhance](https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance) - Adobe Photoshop CC 2024+のAI搭載画像拡張機能。インテリジェントな露出補正、適応カラー調整、コントラスト最適化、ノイズ低減を実現します。機械学習... <sub>⭐ 112 · HTML</sub>
+- [Correr-Zhou/HiFi-Inpaint](https://github.com/Correr-Zhou/HiFi-Inpaint) - (CVPR 2026) 紙「HiFi-Inpaint:高忠実度参照ベースインペリアル化による人的画像の生成」 <sub>⭐ 111 · Python</sub>
+- [wangkai930418/DPL](https://github.com/wangkai930418/DPL) - (NeurIPS 2023) 動的プロンプト学習:テキストベースの画像編集のためのクロスアテンションの漏洩に対処する <sub>⭐ 111 · Python</sub>
+- [AmericanPresidentJimmyCarter/yasd-discord-bot](https://github.com/AmericanPresidentJimmyCarter/yasd-discord-bot) - しかし、別の安定した拡散Discordボット <sub>⭐ 110 · Python</sub>
+- [caojiezhang/DeqIR](https://github.com/caojiezhang/DeqIR) - PyTorch の実装 "ディープ・エクイリブリウム拡散修復と並列サンプリング (CVPR 2024)" <sub>⭐ 110 · Python</sub>
+- [YoungGod/sturcture-inpainting](https://github.com/YoungGod/sturcture-inpainting) - AAAI 2020紙のソースコード「イメージインペッシングのための構造知識を組み込む」 <sub>⭐ 110 · Python</sub>
+- [segments-ai/latent-diffusion-segmentation](https://github.com/segments-ai/latent-diffusion-segmentation) - パノプティックセグメンテーションとマスクインペーティング(ECCV 2024)のためのシンプルなラテント拡散アプローチ <sub>⭐ 109 · Python</sub>
+- [Tengfei-Wang/external-internal-inpainting](https://github.com/Tengfei-Wang/external-internal-inpainting) - (CVPR 2021) EII:外部学習とモノクロボトルネックでイメージインペレーション <sub>⭐ 109 · Python</sub>
+- [dangeng/motion_guidance](https://github.com/dangeng/motion_guidance) - ICLR 2024紙のコード "モーションガイダンス:拡散ベースの画像編集と異なる動作刺激" <sub>⭐ 108 · Python</sub>
+- [TareHimself/comic-localizer](https://github.com/TareHimself/comic-localizer) - pythonで構築されたコミックローカリゼーション <sub>⭐ 108 · Python</sub>
 
 ## 🗂️ 写真の整理と検索
 
 > 顔認識、検索、セレクト機能を備えた写真ライブラリ。
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App <sub>⭐ 40.3k · Go</sub>
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search <sub>⭐ 29.4k · TypeScript</sub>
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. <sub>⭐ 8.1k · Python</sub>
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. <sub>⭐ 4.1k · TypeScript</sub>
-- [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object… <sub>⭐ 2.0k · Python</sub>
-- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map. <sub>⭐ 1.9k · Vue</sub>
-- [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery <sub>⭐ 1.2k · JavaScript</sub>
-- [haltakov/natural-language-image-search](https://github.com/haltakov/natural-language-image-search) - Search photos on Unsplash using natural language <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [chevereto/chevereto](https://github.com/chevereto/chevereto) - The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own Flickr / Imgur media sharing platform with complete control over your content… <sub>⭐ 996 · PHP</sub>
-- [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs. <sub>⭐ 922 · TypeScript</sub>
-- [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - duplicate photo finder for Immich - find and remove similar images <sub>⭐ 663 · Python</sub>
-- [OvidijusParsiunas/myvision](https://github.com/OvidijusParsiunas/myvision) - Computer vision based ML training data generation tool <sub>⭐ 609 · JavaScript</sub>
-- [slavabarkov/tidy](https://github.com/slavabarkov/tidy) - Offline semantic Text-to-Image and Image-to-Image search on Android powered by quantized state-of-the-art vision-language pretrained CLIP model and ONNX Runtime inference engine <sub>⭐ 608 · Kotlin</sub>
-- [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and… <sub>⭐ 574 · HTML</sub>
-- [PunithVT/ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) - AI Avatar / digital human platform — upload a photo, clone a voice, talk to any face in real time with lip-sync video. Open-source, self-hosted. Claude · Whisper · Chatterbox · MuseTalk. <sub>⭐ 511 · Python</sub>
-- [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. <sub>⭐ 492 · JavaScript</sub>
-- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud. <sub>⭐ 484 · TypeScript</sub>
-- [johanmodin/clifs](https://github.com/johanmodin/clifs) - Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine learning model CLIP <sub>⭐ 484 · JavaScript</sub>
-- [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata <sub>⭐ 397 · Python</sub>
-- [LuqP2/Image-MetaHub](https://github.com/LuqP2/Image-MetaHub) - Local-first AI image organizer and generative media library manager for ComfyUI, A1111, InvokeAI & more. Search huge output folders by prompt, model, LoRA, metadata or visual similarity. <sub>⭐ 324 · TypeScript</sub>
-- [miguelangel-nubla/immich-upload-optimizer](https://github.com/miguelangel-nubla/immich-upload-optimizer) - Automatically optimize files uploaded to Immich in order to save storage space <sub>⭐ 305 · Go</sub>
-- [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model. <sub>⭐ 267 · Python</sub>
-- [ncoevoet/facet](https://github.com/ncoevoet/facet) - Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud, no subscriptions. <sub>⭐ 253 · Python</sub>
-- [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - AI powered image tagger backed by DeepDetect <sub>⭐ 251 · Go</sub>
-- [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - Search photos on Unsplash based on OpenAI's CLIP model, support search with joint image+text queries and attention visualization. <sub>⭐ 223 · Jupyter Notebook</sub>
-- [hv0905/NekoImageGallery](https://github.com/hv0905/NekoImageGallery) - An AI-powered natural language & reverse Image Search Engine powered by CLIP & qdrant. <sub>⭐ 197 · Python</sub>
-- [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - Self-hosted photo intelligence, enrichment, curation, and automation for your Immich library. Pictaria Server helps you explore and understand your collection, optionally enrich it with AI, review… <sub>⭐ 182 · JavaScript</sub>
-- [galatolofederico/clip-glass](https://github.com/galatolofederico/clip-glass) - Repository for "Generating images from caption and vice versa via CLIP-Guided Generative Latent Space Search" <sub>⭐ 179 · Python</sub>
-- [DIVISIO-AI/stag](https://github.com/DIVISIO-AI/stag) - An AI based automatic image tagger <sub>⭐ 156 · Python</sub>
-- [txemi/immich-autotag](https://github.com/txemi/immich-autotag) - Rule engine to batch-organize an Immich photo & video library: auto-create albums, assign tags, fix dates — from a config file. <sub>⭐ 146 · Python</sub>
-- [shonenkov/CLIP-ODS](https://github.com/shonenkov/CLIP-ODS) - CLIP Object Detection, search object on image using natural language #Zeroshot #Unsupervised #CLIP #ODS <sub>⭐ 138 · Python</sub>
-- [DRSY/MoTIS](https://github.com/DRSY/MoTIS) - (NAACL 2022)Mobile Text-to-Image search powered by multimodal semantic representation models(e.g., OpenAI's CLIP) <sub>⭐ 127 · Swift</sub>
-- [ChrisChen667788/pixcull](https://github.com/ChrisChen667788/pixcull) - Local-first AI photo culling for professional photographers — 6-axis rubric, XMP/IPTC export, Lightroom & Capture One ready. <sub>⭐ 119 · Python</sub>
-- [SpaceinvaderOne/a-eye](https://github.com/SpaceinvaderOne/a-eye) - Self-hosted AI photo intelligence tool. Uses local vision models via Ollama to describe, tag, rename, and search your photos. No cloud needed. <sub>⭐ 107 · Python</sub>
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AIパワードフォトアプリ <sub>⭐ 40.3k · Go</sub>
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - AIベースの自動タグ付けと全文検索で、自発的なブックマークエバースアプリ(リンク、メモ、画像) <sub>⭐ 29.4k · TypeScript</sub>
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - セルフホスト型のオープンソースフォトマネジメントサービス。 <sub>⭐ 8.1k · Python</sub>
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - アドバンテージCMは、ポッドキャスト、ブログ、写真、ビデオ、ドキュメント、およびキュレーションされたURLのためにクラウドフレアでホストされています。 <sub>⭐ 4.1k · TypeScript</sub>
+- [hooram/ownphotos](https://github.com/hooram/ownphotos) - セルフホストの代替Googleフォト <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [photonixapp/photonix](https://github.com/photonixapp/photonix) - モダンでウェブベースのフォト管理サーバー。ホームサーバ上で実行し、任意のデバイス上のコレクションから適切な写真を見つけます。スマートフィルタリングはオブジェクトによって可能になります... <sub>⭐ 2.0k · Python</sub>
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - オンライン写真管理とアルバム、Live/Motion Photos、EXIF解析、地理位置認識をサポートし、マップを探索するセルフホストの個人的なギャラリーアプリケーション。 <sub>⭐ 1.9k · Vue</sub>
+- [xemle/home-gallery](https://github.com/xemle/home-gallery) - セルフホストのオープンソース・ウェブギャラリーでは、モバイルフレンドリーでタグ付けとAIを活用した画像発見をフィーチャーした写真や動画を表示 <sub>⭐ 1.2k · JavaScript</sub>
+- [haltakov/natural-language-image-search](https://github.com/haltakov/natural-language-image-search) - 自然言語で不しぶきの写真を検索 <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [chevereto/chevereto](https://github.com/chevereto/chevereto) - 成熟した、戦闘テスト済みでハイエンドのOGセルフホスト型イメージと2007年以来信頼されるビデオホスティングソリューション。 あなたのコンテンツの完全な制御を備えた独自のFlickr / Imgurメディア共有プラットフォームを構築... <sub>⭐ 996 · PHP</sub>
+- [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - ローカルファースト、オープンソースのAIアシスタント。タスク、メモ、ドキュメント、写真、ブックマークを統一します。 APIを介してプライベートでセルフホストされ、拡張可能です。 <sub>⭐ 922 · TypeScript</sub>
+- [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - Immich 用の重複写真ファインダー - 同様の画像を見つけて削除する <sub>⭐ 663 · Python</sub>
+- [OvidijusParsiunas/myvision](https://github.com/OvidijusParsiunas/myvision) - コンピュータビジョンベースのMLトレーニングデータ生成ツール <sub>⭐ 609 · JavaScript</sub>
+- [slavabarkov/tidy](https://github.com/slavabarkov/tidy) - オフラインのセマンティックテキスト・ツー・イメージと、クオンテッド・ステート・オブ・ザ・アート・ビジョン言語によるAndroidでの画像から画像を撮影するCLIPモデルおよびONNXランタイム・インフェレンス・エンジン <sub>⭐ 608 · Kotlin</sub>
+- [viticci/remctl](https://github.com/viticci/remctl) - Apple Reminders CLI は、電力ユーザーとAIエージェントの対応をしています。RemCTL では、セクション、サブタスク、タグ、豊富なリンク、食料品リスト、テンプレート、スマートリストなどの最新のリマインダー機能をすべてサポートします。 <sub>⭐ 574 · HTML</sub>
+- [PunithVT/ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) - AI Avatar/デジタルヒューマンプラットフォーム — 写真をアップロードし、音声をクローン化して、リップシンクビデオでリアルタイムにあらゆる面に話します。 オープンソース、セルフホスト。 クロード・ウィスパー・チャターボックス・ミューズトーク。 <sub>⭐ 511 · Python</sub>
+- [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - GPT-4o のイメージ生成。パフォーマンスとプライバシーのために構築された、強力な自己ホスト型AIフォトスタイライザーです。 <sub>⭐ 492 · JavaScript</sub>
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - セルフホストホームディスプレイ — パートフォトフレーム、パートファミリーボード、パートホームアシスタントダッシュボード。ドラッグ&ドロップ、ライブシンク、イミッチ壁紙。クラウドはありません。 <sub>⭐ 484 · TypeScript</sub>
+- [johanmodin/clifs](https://github.com/johanmodin/clifs) - 対照的な言語イメージのフォレンジック検索は、OpenAIの機械学習モデルCLIPを使用してビデオから無料のテキスト検索を可能にします <sub>⭐ 484 · JavaScript</sub>
+- [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - 画像のインデックスを作成し、ローカルLMをクエリし、タグをイメージメタデータに追加します。 <sub>⭐ 397 · Python</sub>
+- [LuqP2/Image-MetaHub](https://github.com/LuqP2/Image-MetaHub) - ComfyUI、A111111、InvokeAIなどのローカルファーストAIイメージオーガナイザーとジェネレーションメディアライブラリマネージャー。 プロンプト、モデル、LoRA、メタデータまたは視覚的な類似性で巨大な出力フォルダを検索します。 <sub>⭐ 324 · TypeScript</sub>
+- [miguelangel-nubla/immich-upload-optimizer](https://github.com/miguelangel-nubla/immich-upload-optimizer) - Immichにアップロードされたファイルを自動的に最適化し、ストレージスペースを保存します。 <sub>⭐ 305 · Go</sub>
+- [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - テキストや画像のクエリで画像を検索し、Open AIのプリトレインドCLIPモデルを使用します。 <sub>⭐ 267 · Python</sub>
+- [ncoevoet/facet](https://github.com/ncoevoet/facet) - ローカルAI写真のスコアリング、彫刻、ギャラリー — 顔認識と意味のある検索でライブラリをスコア、整理し、探索します。クラウドなし、サブスクリプションはありません。 <sub>⭐ 253 · Python</sub>
+- [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - DeepDetectがバックアップしたAI搭載画像タグガー <sub>⭐ 251 · Go</sub>
+- [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - OpenAIのClipPモデルに基づいて、Unsplashで写真を検索し、共同画像+テキストクエリと注意視覚化による検索をサポートします。 <sub>⭐ 223 · Jupyter Notebook</sub>
+- [hv0905/NekoImageGallery](https://github.com/hv0905/NekoImageGallery) - CLIPとqdrantのAI搭載自然言語&逆画像検索エンジン。 <sub>⭐ 197 · Python</sub>
+- [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - Immichライブラリのセルフホスト型フォトインテリジェンス、エンリッチメント、キュレーション、および自動化。 Pictaria Serverは、コレクションを探索し理解するのに役立ちます。また、AIでそれを強化したり、レビューしたりすることができます。 <sub>⭐ 182 · JavaScript</sub>
+- [galatolofederico/clip-glass](https://github.com/galatolofederico/clip-glass) - 「CLIP-Guided Generative Latent Space Search」によるキャプションやその逆から画像を生成するためのリポジトリ <sub>⭐ 179 · Python</sub>
+- [DIVISIO-AI/stag](https://github.com/DIVISIO-AI/stag) - AIベースの自動画像タグガー <sub>⭐ 156 · Python</sub>
+- [txemi/immich-autotag](https://github.com/txemi/immich-autotag) - ルールエンジンは、Immichフォト&ビデオライブラリを一括整理する:自動作成アルバム、タグの割り当て、日付の修正 - 設定ファイルから。 <sub>⭐ 146 · Python</sub>
+- [shonenkov/CLIP-ODS](https://github.com/shonenkov/CLIP-ODS) - CLIP オブジェクト検出、自然言語 #Zeroshot #Unsupervised #CLIP #ODS を使用して画像の検索オブジェクト <sub>⭐ 138 · Python</sub>
+- [DRSY/MoTIS](https://github.com/DRSY/MoTIS) - (NAACL 2022)マルチモーダルセマンティック表現モデル(例:OpenAIのCLIP)によるモバイルテキスト・ツー・イメージ検索 <sub>⭐ 127 · Swift</sub>
+- [ChrisChen667788/pixcull](https://github.com/ChrisChen667788/pixcull) - プロのフォトグラファーのためのローカルファーストAI写真の彫刻 — 6軸 rubric、XMP / IPTC輸出、Lightroom&Capture One準備完了。 <sub>⭐ 119 · Python</sub>
+- [SpaceinvaderOne/a-eye](https://github.com/SpaceinvaderOne/a-eye) - セルフホスト型のAIフォトインテリジェンスツール。ローカルビジョンモデルをOllamaで使用して、写真の説明、タグ付け、名前変更、検索を行います。クラウドは必要ありません。 <sub>⭐ 107 · Python</sub>
 
 ## 🎨 色、スタイル、RAW
 
 > AIによるカラー化、色補正、スタイル、RAW現像。
 
-- [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more. <sub>⭐ 12.9k · Lua</sub>
-- [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform <sub>⭐ 11.2k · Python</sub>
-- [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer <sub>⭐ 11.0k · Python</sub>
-- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on. <sub>⭐ 8.0k · Python</sub>
-- [jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style) - Feedforward style transfer <sub>⭐ 4.4k · Lua</sub>
-- [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - Deep neural networks for voice conversion (voice style transfer) in Tensorflow <sub>⭐ 3.9k · Python</sub>
-- [pavelgonchar/colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images <sub>⭐ 3.5k · Python</sub>
-- [richzhang/colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <sub>⭐ 3.5k · Python</sub>
-- [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks. <sub>⭐ 2.7k · Python</sub>
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction, image upsacling with Adversarial Networks and more image… <sub>⭐ 2.3k · Go</sub>
-- [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras 2.0+ <sub>⭐ 2.3k · Jupyter Notebook</sub>
-- [satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. <sub>⭐ 2.1k · Lua</sub>
-- [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC) - PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 图像翻译，条件GAN，AI绘画 <sub>⭐ 2.1k · Python</sub>
-- [ycjing/Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers) - Neural Style Transfer: A Review <sub>⭐ 1.6k</sub>
-- [xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization <sub>⭐ 1.6k · Lua</sub>
-- [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - An implementation of "A Neural Algorithm of Artistic Style" by L. Gatys, A. Ecker, and M. Bethge. http://arxiv.org/abs/1508.06576. <sub>⭐ 1.5k · Python</sub>
-- [piddnad/DDColor](https://github.com/piddnad/DDColor) - (ICCV 2023) DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders <sub>⭐ 1.5k · Python</sub>
-- [jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash) - Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image. <sub>⭐ 1.5k · Dart</sub>
-- [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library <sub>⭐ 1.4k · TypeScript</sub>
-- [reiinakano/arbitrary-image-stylization-tfjs](https://github.com/reiinakano/arbitrary-image-stylization-tfjs) - Arbitrary style transfer using TensorFlow.js <sub>⭐ 1.2k · JavaScript</sub>
-- [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - A collection of Deep Learning based Image Colorization and Video Colorization papers. <sub>⭐ 1.2k</sub>
-- [auspicious3000/autovc](https://github.com/auspicious3000/autovc) - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss <sub>⭐ 1.1k · Python</sub>
-- [emilwallner/Coloring-greyscale-images](https://github.com/emilwallner/Coloring-greyscale-images) - Coloring black and white images with deep learning. <sub>⭐ 1.1k · Python</sub>
-- [zhanghang1989/PyTorch-Multi-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Multi-Style-Transfer) - Neural Style and MSG-Net <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [FORTH-ModelBasedTracker/MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET) - A real-time method that estimates the 3D human pose directly in the popular Bio Vision Hierarchy (BVH) format, given estimations of the 2D body joints originating from monocular color images. Our… <sub>⭐ 954 · C++</sub>
-- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer <sub>⭐ 894 · Jupyter Notebook</sub>
-- [ProGamerGov/neural-style-pt](https://github.com/ProGamerGov/neural-style-pt) - PyTorch implementation of neural style transfer algorithm <sub>⭐ 856 · Python</sub>
-- [Fediory/HVI-CIDNet](https://github.com/Fediory/HVI-CIDNet) - (CVPR2025 && NTIRE2025) HVI: A New Color Space for Low-light Image Enhancement (Official Implementation) <sub>⭐ 853 · Python</sub>
-- [lmb-freiburg/hand3d](https://github.com/lmb-freiburg/hand3d) - Network estimating 3D Handpose from single color images <sub>⭐ 813 · Python</sub>
-- [kaonashi-tyc/Rewrite](https://github.com/kaonashi-tyc/Rewrite) - Neural Style Transfer For Chinese Characters <sub>⭐ 778 · Python</sub>
-- [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images <sub>⭐ 771 · Python</sub>
-- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - automatic color-grading and image data augmentation <sub>⭐ 668 · Python</sub>
-- [zaidalyafeai/ml-projects](https://github.com/zaidalyafeai/ml-projects) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ... <sub>⭐ 664 · JavaScript</sub>
-- [andrewdcampbell/OpenCV-Document-Scanner](https://github.com/andrewdcampbell/OpenCV-Document-Scanner) - An interactive document scanner built in Python using OpenCV featuring automatic corner detection, image sharpening, and color thresholding. <sub>⭐ 643 · Python</sub>
-- [fspecii/HeartMuLa-Studio](https://github.com/fspecii/HeartMuLa-Studio) - Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer <sub>⭐ 640 · TypeScript</sub>
-- [zyxElsa/InST](https://github.com/zyxElsa/InST) - Official implementation of the paper “Inversion-Based Style Transfer with Diffusion Models” (CVPR 2023) <sub>⭐ 588 · Jupyter Notebook</sub>
-- [PrithivirajDamodaran/Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - A Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles like formal/casual, active/passive, and many more. Created by Prithiviraj… <sub>⭐ 496 · Python</sub>
-- [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization" <sub>⭐ 492 · Python</sub>
-- [crowsonkb/style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch) - Neural style transfer in PyTorch. <sub>⭐ 491 · Python</sub>
-- [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - (CVPR 2024 Highlight) Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer <sub>⭐ 483 · Python</sub>
-- [gordicaleksa/pytorch-neural-style-transfer](https://github.com/gordicaleksa/pytorch-neural-style-transfer) - Reconstruction of the original paper on neural style transfer (Gatys et al.). I've additionally included reconstruction scripts which allow you to reconstruct only the content or the style of the… <sub>⭐ 454 · Python</sub>
-- [lmb-freiburg/freihand](https://github.com/lmb-freiburg/freihand) - A dataset for estimation of hand pose and shape from single color images. <sub>⭐ 450 · Python</sub>
-- [diyiiyiii/StyTR-2](https://github.com/diyiiyiii/StyTR-2) - StyTr2 : Image Style Transfer with Transformers <sub>⭐ 445 · Python</sub>
-- [leongatys/PytorchNeuralStyleTransfer](https://github.com/leongatys/PytorchNeuralStyleTransfer) - Implementation of Neural Style Transfer in Pytorch <sub>⭐ 433 · Jupyter Notebook</sub>
-- [AaronZ345/StyleSinger](https://github.com/AaronZ345/StyleSinger) - PyTorch Implementation of StyleSinger(AAAI 2024): Style Transfer for Out-of-Domain Singing Voice Synthesis <sub>⭐ 420 · Python</sub>
-- [vinthony/awesome-deep-hdr](https://github.com/vinthony/awesome-deep-hdr) - A collection of deep learning based methods for HDR image synthesis <sub>⭐ 419</sub>
-- [baldassarreFe/deep-koalarization](https://github.com/baldassarreFe/deep-koalarization) - Keras/Tensorflow implementation of our paper Grayscale Image Colorization using deep CNN and Inception-ResNet-v2 (https://arxiv.org/abs/1712.03400) <sub>⭐ 414 · Python</sub>
-- [kingbootoshi/nano-banana-2-skill](https://github.com/kingbootoshi/nano-banana-2-skill) - AI image generation CLI powered by Gemini 3 Pro. Green screen transparency, reference images, style transfer. Also a Claude Code plugin. <sub>⭐ 414 · TypeScript</sub>
-- [adobe-research/DeepAFx-ST](https://github.com/adobe-research/DeepAFx-ST) - DeepAFx-ST - Style transfer of audio effects with differentiable signal processing. Please see https://csteinmetz1.github.io/DeepAFx-ST <sub>⭐ 413 · Python</sub>
-- [mazzzystar/randomCNN-voice-transfer](https://github.com/mazzzystar/randomCNN-voice-transfer) - Audio style transfer with shallow random parameters CNN. <sub>⭐ 406 · Python</sub>
-- [Adi-iitd/AI-Art](https://github.com/Adi-iitd/AI-Art) - PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream! <sub>⭐ 393 · Python</sub>
-- [AaronZ345/TCSinger](https://github.com/AaronZ345/TCSinger) - PyTorch Implementation of TCSinger(EMNLP 2024): Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control <sub>⭐ 387 · Python</sub>
-- [KinglittleQ/GST-Tacotron](https://github.com/KinglittleQ/GST-Tacotron) - A PyTorch implementation of Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis <sub>⭐ 375 · Python</sub>
-- [elleryqueenhomels/fast_neural_style_transfer](https://github.com/elleryqueenhomels/fast_neural_style_transfer) - Generative Neural Methods Based On Model Iteration <sub>⭐ 373 · Python</sub>
-- [sunshineatnoon/PytorchWCT](https://github.com/sunshineatnoon/PytorchWCT) - This is the Pytorch implementation of Universal Style Transfer via Feature Transforms. <sub>⭐ 369 · Python</sub>
-- [eriklindernoren/Fast-Neural-Style-Transfer](https://github.com/eriklindernoren/Fast-Neural-Style-Transfer) - Fast Neural Style Transfer in Pytorch <sub>⭐ 364 · Python</sub>
-- [syang1993/gst-tacotron](https://github.com/syang1993/gst-tacotron) - A tensorflow implementation of the "Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis" <sub>⭐ 364 · Python</sub>
-- [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - Fast Neural Style Transfer implementation in PyTorch <sub>⭐ 360 · Python</sub>
-- [ZHKKKe/NeuralPreset](https://github.com/ZHKKKe/NeuralPreset) - AI-Generated Presets for Faithful 4K Color Style Transfer in Real Time (CVPR 2023) <sub>⭐ 355 · Python</sub>
-- [hnarayanan/artistic-style-transfer](https://github.com/hnarayanan/artistic-style-transfer) - Convolutional neural networks for artistic style transfer. <sub>⭐ 353 · Jupyter Notebook</sub>
-- [ahmetozlu/color_recognition](https://github.com/ahmetozlu/color_recognition) - Color recognition & classification & detection on webcam stream / on video / on single image using K-Nearest Neighbors (KNN) is trained with color histogram features by OpenCV. <sub>⭐ 345 · Python</sub>
-- [Rongjiehuang/GenerSpeech](https://github.com/Rongjiehuang/GenerSpeech) - PyTorch Implementation of GenerSpeech (NeurIPS'22): a text-to-speech model towards zero-shot style transfer of OOD custom voice. <sub>⭐ 333 · Python</sub>
-- [cameronfabbri/Colorful-Image-Colorization](https://github.com/cameronfabbri/Colorful-Image-Colorization) - A deep learning approach to colorizing images <sub>⭐ 321 · Python</sub>
-- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - Classification - Machine Learning This is ‘Classification’ tutorial which is a part of the Machine Learning course offered by Simplilearn. We will learn Classification algorithms, types of… <sub>⭐ 300 · Python</sub>
-- [hwalsuklee/tensorflow-style-transfer](https://github.com/hwalsuklee/tensorflow-style-transfer) - A simple, concise tensorflow implementation of style transfer (neural style) <sub>⭐ 293 · Python</sub>
-- [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021). <sub>⭐ 293 · Jupyter Notebook</sub>
-- [microsoft/OnnxRuntime-UnrealEngine](https://github.com/microsoft/OnnxRuntime-UnrealEngine) - Apply a Style Transfer Neural Network in real time with Unreal Engine 5 leveraging ONNX Runtime. <sub>⭐ 291 · C++</sub>
-- [auspicious3000/AutoPST](https://github.com/auspicious3000/AutoPST) - Global Rhythm Style Transfer Without Text Transcriptions <sub>⭐ 286 · Python</sub>
-- [luofuli/DualRL](https://github.com/luofuli/DualRL) - A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer (IJCAI 2019) <sub>⭐ 284 · Python</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [gsurma/style_transfer](https://github.com/gsurma/style_transfer) - CNN image style transfer . <sub>⭐ 279 · Jupyter Notebook</sub>
-- [sumuzhao/CycleGAN-Music-Style-Transfer](https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer) - Symbolic Music Genre Transfer with CycleGAN <sub>⭐ 278 · Python</sub>
-- [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch <sub>⭐ 274 · Python</sub>
-- [ImagingLab/Colorizing-with-GANs](https://github.com/ImagingLab/Colorizing-with-GANs) - Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv.org/abs/1803.05400 <sub>⭐ 269 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [sunniesuhyoung/DST](https://github.com/sunniesuhyoung/DST) - Deformable Style Transfer (ECCV 2020) <sub>⭐ 265 · Jupyter Notebook</sub>
-- [wd1511/Awesome-Diffusion-for-Image-Translation](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation) - A collection of papers on Diffusion for Image-to-Image Translation and Style Transfer <sub>⭐ 265 · Python</sub>
-- [JiaxiongQ/DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR) - Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image (CVPR 2019) <sub>⭐ 260 · Python</sub>
-- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get… <sub>⭐ 254</sub>
-- [Huage001/AdaAttN](https://github.com/Huage001/AdaAttN) - Officially unofficial PyTorch re-implementation of paper: AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer, ICCV 2021. <sub>⭐ 248 · Python</sub>
-- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration… <sub>⭐ 246 · Python</sub>
-- [Tele-AI/TeleStyle](https://github.com/Tele-AI/TeleStyle) - state-of-the-art content-preserving style transfer <sub>⭐ 243 · JavaScript</sub>
-- [hwalsuklee/tensorflow-fast-style-transfer](https://github.com/hwalsuklee/tensorflow-fast-style-transfer) - A simple, concise tensorflow implementation of fast style transfer <sub>⭐ 242 · Python</sub>
-- [nkxx188/ComfyUI-Krea2-StyleTransfer](https://github.com/nkxx188/ComfyUI-Krea2-StyleTransfer) - Training-free Krea2 style reference nodes for ComfyUI, with LoRA-like single-image transfer, experimental two-reference blending, low content leakage, and preserved image quality. <sub>⭐ 233 · Python</sub>
-- [eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - Discover, download, compile & launch different image processing & style transfer CoreML models on iOS. <sub>⭐ 231 · C++</sub>
-- [marcoppasini/MelGAN-VC](https://github.com/marcoppasini/MelGAN-VC) - MelGAN-VC: Voice Conversion and Audio Style Transfer on arbitrarily long samples using Spectrograms <sub>⭐ 228 · Jupyter Notebook</sub>
-- [nianticlabs/footprints](https://github.com/nianticlabs/footprints) - (CVPR 2020) Estimation of the visible and hidden traversable space from a single color image <sub>⭐ 222 · Python</sub>
-- [Kunhao-Liu/StyleGaussian](https://github.com/Kunhao-Liu/StyleGaussian) - (SIGGRAPH Asia 2024) StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting <sub>⭐ 216 · Python</sub>
-- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because… <sub>⭐ 213 · Python</sub>
-- [imfing/sketch-to-art](https://github.com/imfing/sketch-to-art) - Create artwork from your casual sketch with GAN and style transfer <sub>⭐ 210 · Python</sub>
-- [Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models](https://github.com/Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models) - A curated list of recent style transfer methods with diffusion models <sub>⭐ 204</sub>
-- [ZhexinLiang/Control-Color](https://github.com/ZhexinLiang/Control-Color) - Control Color: Multimodal Diffusion-based Interactive Image Colorization <sub>⭐ 197 · Python</sub>
-- [YatingMusic/MuseMorphose](https://github.com/YatingMusic/MuseMorphose) - PyTorch implementation of MuseMorphose (published at IEEE/ACM TASLP), a Transformer-based model for music style transfer. <sub>⭐ 195 · Python</sub>
-- [ProGamerGov/Neural-Tools](https://github.com/ProGamerGov/Neural-Tools) - Tools made for usage alongside artistic style transfer projects <sub>⭐ 190 · Python</sub>
-- [exsstas/StyleTransfer-in-TD](https://github.com/exsstas/StyleTransfer-in-TD) - TensorFlow implementation of Neural Style Transfer in TouchDesigner <sub>⭐ 189</sub>
-- [MingSun-Tse/Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation) - (CVPR'20) Collaborative Distillation for Ultra-Resolution Universal Style Transfer (PyTorch) <sub>⭐ 189 · Python</sub>
-- [Cuimao777/eterna-image2image-skill](https://github.com/Cuimao777/eterna-image2image-skill) - Experimental bilingual Codex skill for ETERNA-inspired image2image cinematic color and composition. <sub>⭐ 185</sub>
-- [czczup/URST](https://github.com/czczup/URST) - (AAAI 2022) Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization <sub>⭐ 185 · Python</sub>
-- [saikatbsk/Vincent-AI-Artist](https://github.com/saikatbsk/Vincent-AI-Artist) - Style transfer using deep convolutional neural nets <sub>⭐ 184 · Python</sub>
-- [junrushao/fast-neural-style.tf](https://github.com/junrushao/fast-neural-style.tf) - Feed-forward neural network for real-time artistic style transfer <sub>⭐ 182 · Python</sub>
-- [leongatys/NeuralImageSynthesis](https://github.com/leongatys/NeuralImageSynthesis) - Code to reproduce the results from the paper "Controlling Perceptual Factors in Neural Style Transfer" (https://arxiv.org/abs/1611.07865). <sub>⭐ 182 · Jupyter Notebook</sub>
-- [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects (ICCV 2019) (Python & Matlab). <sub>⭐ 179 · MATLAB</sub>
-- [PySimpleGUI/PySimpleGUI-Photo-Colorizer](https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer) - Transform black and white images (or your webcam) into beautifully colored images using Deep Learning. Uses OpenCV and Numpy to Colorize your photo or webcam video. GUI provided by PySimpleGUI. <sub>⭐ 179 · Python</sub>
-- [himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning) - # AD-Prediction Convolutional Neural Networks for Alzheimer's Disease Prediction Using Brain MRI Image ## Abstract Alzheimers disease (AD) is characterized by severe memory loss and cognitive… <sub>⭐ 177 · Python</sub>
-- [onpix/LCDPNet](https://github.com/onpix/LCDPNet) - Official PyTorch code and dataset of the paper "Local Color Distributions Prior for Image Enhancement" (ECCV2022) <sub>⭐ 175 · Python</sub>
-- [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - Code for "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data" <sub>⭐ 174 · Python</sub>
-- [regiellis/ComfyUI-EasyColorCorrector](https://github.com/regiellis/ComfyUI-EasyColorCorrector) - Yet another professional-grade AI-powered color correction and enhancement for ComfyUI <sub>⭐ 174 · Python</sub>
-- [Westlake-AGI-Lab/StyleStudio](https://github.com/Westlake-AGI-Lab/StyleStudio) - (CVPR 2025) Official implementation of StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements <sub>⭐ 172 · Python</sub>
-- [Armour/Automatic-Image-Colorization](https://github.com/Armour/Automatic-Image-Colorization) - Automatic Image Colorization using TensorFlow based on Residual Encoder Network <sub>⭐ 171 · Python</sub>
-- [kskin/WaterGAN](https://github.com/kskin/WaterGAN) - Source code for "WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images" <sub>⭐ 171 · Python</sub>
-- [moein-shariatnia/Deep-Learning](https://github.com/moein-shariatnia/Deep-Learning) - In-depth tutorials on deep learning. The first one is about image colorization using GANs (Generative Adversarial Nets). <sub>⭐ 171 · Jupyter Notebook</sub>
-- [pkuanjie/ArtFlow](https://github.com/pkuanjie/ArtFlow) - Official PyTorch implementation of "ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows" <sub>⭐ 171 · Python</sub>
-- [jinhan/tacotron2-vae](https://github.com/jinhan/tacotron2-vae) - Implementation of "Learning Latent Representations for Style Control and Transfer in End-to-end Speech Synthesis" <sub>⭐ 170 · Jupyter Notebook</sub>
-- [ghwatson/faststyle](https://github.com/ghwatson/faststyle) - Tensorflow implementation of fast neural style transfer. <sub>⭐ 169 · Python</sub>
-- [terryky/android_tflite](https://github.com/terryky/android_tflite) - GPU Accelerated TensorFlow Lite applications on Android NDK. Higher accuracy face detection, Age and gender estimation, Human pose estimation, Artistic style transfer <sub>⭐ 169 · C++</sub>
-- [CompVis/brushstroke-parameterized-style-transfer](https://github.com/CompVis/brushstroke-parameterized-style-transfer) - TensorFlow implementation of our CVPR 2021 Paper "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes". <sub>⭐ 168 · Python</sub>
-- [westgarthb/style-transfer-video-processor](https://github.com/westgarthb/style-transfer-video-processor) - This code extends the neural style transfer image processing technique to video by generating smooth transitions between several reference style images <sub>⭐ 168 · Python</sub>
-- [Kunhao-Liu/StyleRF](https://github.com/Kunhao-Liu/StyleRF) - (CVPR 2023) StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields <sub>⭐ 162 · Python</sub>
-- [zeruniverse/neural-colorization](https://github.com/zeruniverse/neural-colorization) - (Pytorch Implementation) GAN for image colorization <sub>⭐ 162 · Python</sub>
-- [cindyxinyiwang/deep-latent-sequence-model](https://github.com/cindyxinyiwang/deep-latent-sequence-model) - Pytorch implementation of "A Probabilistic Formulation of Unsupervised Text Style Transfer" by He. et. al. at ICLR 2020 <sub>⭐ 161 · Python</sub>
-- [instantX-research/InstantStyle-Plus](https://github.com/instantX-research/InstantStyle-Plus) - InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation <sub>⭐ 157 · Python</sub>
-- [rupeshs/neuralsongstyle](https://github.com/rupeshs/neuralsongstyle) - Audio style transfer AI <sub>⭐ 155 · Python</sub>
-- [StacyYang/MSG-Net](https://github.com/StacyYang/MSG-Net) - Multi-style Generative Network for Real-time Transfer <sub>⭐ 155 · Lua</sub>
-- [StacyYang/MXNet-Gluon-Style-Transfer](https://github.com/StacyYang/MXNet-Gluon-Style-Transfer) - Neural Style and MSG-Net <sub>⭐ 152 · Python</sub>
-- [aihao2000/stable-diffusion-reference-only](https://github.com/aihao2000/stable-diffusion-reference-only) - (Arxiv 2023) img2img version of stable diffusion. Line Art Automatic Coloring. Anime Character Remix. Style Transfer. <sub>⭐ 151 · Python</sub>
-- [Sohojoe/ActiveRagdollStyleTransfer](https://github.com/Sohojoe/ActiveRagdollStyleTransfer) - Research into locomotion style transfer with Active Ragdolls (using MarathonEnvs +ml_agents) <sub>⭐ 147 · C#</sub>
-- [Mararsh/MyBox](https://github.com/Mararsh/MyBox) - Easy tools of document, image, file, network, data, color, and media. <sub>⭐ 146 · Java</sub>
-- [atapour/monocularDepth-Inference](https://github.com/atapour/monocularDepth-Inference) - Inference pipeline for the CVPR paper entitled "Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer"… <sub>⭐ 145 · Python</sub>
-- [hiroharu-kato/style_transfer_3d](https://github.com/hiroharu-kato/style_transfer_3d) - Code of 2D-to-3D style transfer in the paper "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada. <sub>⭐ 144 · Python</sub>
-- [Chenzhaowei13/Light-Condition-Style-Transfer](https://github.com/Chenzhaowei13/Light-Condition-Style-Transfer) - Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer (IV 2020) <sub>⭐ 140 · Python</sub>
-- [pkmital/time-domain-neural-audio-style-transfer](https://github.com/pkmital/time-domain-neural-audio-style-transfer) - NIPS2017 "Time Domain Neural Audio Style Transfer" code repository <sub>⭐ 138 · Python</sub>
-- [BigStationW/ComfyUi-Untwisting-RoPE](https://github.com/BigStationW/ComfyUi-Untwisting-RoPE) - Training-free style transfer for DiT models. <sub>⭐ 135 · Python</sub>
-- [huangeddie/style-transfer-quality](https://github.com/huangeddie/style-transfer-quality) - Performs style transfer by using a neural network to discriminate between the style image features and the generated image features. Results yield higher quality transfers than contemporary methods. <sub>⭐ 135 · Python</sub>
-- [FreeStyleFreeLunch/FreeStyle](https://github.com/FreeStyleFreeLunch/FreeStyle) - FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models <sub>⭐ 132 · Python</sub>
-- [gordicaleksa/pytorch-neural-style-transfer-johnson](https://github.com/gordicaleksa/pytorch-neural-style-transfer-johnson) - Reconstruction of the fast neural style transfer (Johnson et al.). Some portions of the paper have been improved by the follow-up work like the instance normalization, etc. Checkout… <sub>⭐ 129 · Python</sub>
-- [shenfalong/styletransfer](https://github.com/shenfalong/styletransfer) - Real-time neural style transfer via meta networks <sub>⭐ 125 · Makefile</sub>
-- [ktaebum/AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint) - Automatic Colorization of Anime Sketch Image <sub>⭐ 121 · Python</sub>
-- [mcychan/nQuantCpp](https://github.com/mcychan/nQuantCpp) - nQuantCpp includes top 6 color quantization algorithms for visual c++ producing high quality optimized images. <sub>⭐ 120 · C++</sub>
-- [lukemelas/Automatic-Image-Colorization](https://github.com/lukemelas/Automatic-Image-Colorization) - Automatic image colorization with a deep convolutional neural network <sub>⭐ 119 · Python</sub>
-- [byungsook/neural-flow-style](https://github.com/byungsook/neural-flow-style) - Neural Style Transfer for Fluids <sub>⭐ 118 · Python</sub>
-- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - (CVPR2024) Official Implementation of Paper "Color Shift Estimation-and-Correction for Image Enhancement" <sub>⭐ 118 · Python</sub>
-- [ankitdhall/imageSegmentation](https://github.com/ankitdhall/imageSegmentation) - Image Segmentation using Texture and Color features in C++ <sub>⭐ 117 · C++</sub>
-- [alexiscreuzot/NSTDemo](https://github.com/alexiscreuzot/NSTDemo) - A minimal example of Neural Style Transfer on iOS using CoreML <sub>⭐ 116 · Swift</sub>
-- [AayushG159/Plant-Leaf-Identification](https://github.com/AayushG159/Plant-Leaf-Identification) - Identification of plants through plant leaves on the basis of their shape, color and texture features using digital image processing techniques <sub>⭐ 115 · Jupyter Notebook</sub>
-- [mstorath/Pottslab](https://github.com/mstorath/Pottslab) - Unsupervised multilabel image segmentation (color/gray/multichannel) based on the Potts model (aka piecewise constant Mumford-Shah model) <sub>⭐ 115 · Python</sub>
-- [s-du/ScribbleArchitect](https://github.com/s-du/ScribbleArchitect) - Transform your simple scribbles into architectural designs using style transfer with Stable Diffusion, LCM, IP Adapters and ControlNet. Scribble Architect combines creativity with generative AI… <sub>⭐ 114 · Python</sub>
-- [tensorlayer/adaptive-style-transfer](https://github.com/tensorlayer/adaptive-style-transfer) - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization <sub>⭐ 114 · Python</sub>
-- [rkhamilton/vqgan-clip-generator](https://github.com/rkhamilton/vqgan-clip-generator) - Implements VQGAN+CLIP for image and video generation, and style transfers, based on text and image prompts. Emphasis on ease-of-use, documentation, and smooth video creation. <sub>⭐ 113 · Jupyter Notebook</sub>
-- [Tele-AI/TeleStyleV2](https://github.com/Tele-AI/TeleStyleV2) - open source style transfer model on par with nano banana pro, supporting Qwen-Image-Edit 2509, 2511, SenseNovaU1 <sub>⭐ 113 · Python</sub>
-- [city96/ComfyUI_ColorMod](https://github.com/city96/ComfyUI_ColorMod) - Color/contrast editing, tonemapping, 16 bit and HDR image support. <sub>⭐ 111 · Python</sub>
-- [neuralchen/awesome_style_transfer](https://github.com/neuralchen/awesome_style_transfer) - The style transfer paper collection in International CV conference <sub>⭐ 111</sub>
-- [albarji/neural-style-docker](https://github.com/albarji/neural-style-docker) - A dockerized version of neural style transfer algorithms <sub>⭐ 110 · Python</sub>
-- [nihui/ncnn-android-styletransfer](https://github.com/nihui/ncnn-android-styletransfer) - The style transfer android example <sub>⭐ 110 · C</sub>
-- [shellysheynin/Deep-Learning-Book](https://github.com/shellysheynin/Deep-Learning-Book) - Deep Learning book the covers the principles of deep learning, motivation, explanations, state of the art papers for the various tasks and architectures: CNNs, object detection, semantic… <sub>⭐ 110</sub>
-- [Spenhouet/automated-deep-photo-style-transfer](https://github.com/Spenhouet/automated-deep-photo-style-transfer) - TensorFlow implementation for the paper "Automated Deep Photo Style Transfer" <sub>⭐ 110 · Python</sub>
-- [zeruniverse/fast-artistic-videos](https://github.com/zeruniverse/fast-artistic-videos) - (Torch implementation) Fast artistic style transfer for videos, based on feedforward neural network <sub>⭐ 110 · C++</sub>
-- [Kibeom-Hong/Domain-Aware-Style-Transfer](https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer) - Official Implementation of Domain-Aware Universal Style Transfer <sub>⭐ 109 · Python</sub>
-- [minhmanho/deep_preset](https://github.com/minhmanho/deep_preset) - (WACV'21) Deep Preset: Blending and Retouching Photos with Color Style Transfer <sub>⭐ 109 · Python</sub>
-- [CherylHuang/Faces2Anime](https://github.com/CherylHuang/Faces2Anime) - Faces2Anime: Cartoon Style Transfer in Faces using Generative Adversarial Networks. Masters Thesis 2021 @ NTUST. <sub>⭐ 108 · Jupyter Notebook</sub>
-- [kb22/Color-Identification-using-Machine-Learning](https://github.com/kb22/Color-Identification-using-Machine-Learning) - This project explores colors in various images and then enables the user to query the images based on a given color. <sub>⭐ 108 · Jupyter Notebook</sub>
-- [nick8592/text-guided-image-colorization](https://github.com/nick8592/text-guided-image-colorization) - This repository provides an interactive image colorization tool that leverages Stable Diffusion (SDXL) and BLIP for user-controlled color generation. With a retrained model using the ControlNet… <sub>⭐ 108 · Python</sub>
-- [EnragedAntelope/comfyui-relight](https://github.com/EnragedAntelope/comfyui-relight) - Relight images in ComfyUI without re-generating them: up to 3 positionable light sources, colored light, color correction or both, presets, rim lighting, and mask-aware occlusion with a cast shadow.… <sub>⭐ 107 · Python</sub>
+- [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - 絵画から写真を生成できるソフトウェア、馬をゼブラに変える、スタイル転送を実行するなど。 <sub>⭐ 12.9k · Lua</sub>
+- [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - スタイル転送、ディープラーニング、機能変換 <sub>⭐ 11.2k · Python</sub>
+- [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - テンソルフローCNN高速スタイル転送 <sub>⭐ 11.0k · Python</sub>
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddlePaddle GANライブラリ、ファーストオーダーモーション転送、Wav2Lip、写真修理、画像編集、Photo2cartoon、イメージスタイル転送、GPENなどの多くの興味深いアプリケーションを含む。 <sub>⭐ 8.0k · Python</sub>
+- [jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style) - フィードフォワードスタイル転送 <sub>⭐ 4.4k · Lua</sub>
+- [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - テンソルフローの音声変換(ボイススタイル転送)のための深いニューラルネットワーク <sub>⭐ 3.9k · Python</sub>
+- [pavelgonchar/colornet](https://github.com/pavelgonchar/colornet) - グレースケール画像を彩るニューラルネットワーク <sub>⭐ 3.5k · Python</sub>
+- [richzhang/colorization](https://github.com/richzhang/colorization) - ディープニューラルネットワークを用いた自動色化。ECCVでは、2016年8月より「カラーフルイメージの彩度」が生まれます。 <sub>⭐ 3.5k · Python</sub>
+- [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - 数回のクリックで黒と白の画像を着色するためのディープラーニングソフトウェア。 <sub>⭐ 2.7k · Python</sub>
+- [Achno/gowall](https://github.com/Achno/gowall) - 壁紙のカラースキーム/パレット、VLMの伝統的&ハイブリッド、画像圧縮、色のパレット抽出、広告ネットワークとより多くのイメージアップを画像に変換するツール... <sub>⭐ 2.3k · Go</sub>
+- [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Kerasは、Keras 2.0+でNeural Style Transferの実践を語る(http://arxiv.org/abs/1508.06576) <sub>⭐ 2.3k · Jupyter Notebook</sub>
+- [satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - 紙のコード「色をつけよう!:グローバルとローカルイメージ優先学習の共同エンドツーエンドラーニングで、同時分類による自動画像カラー化を実現します。」 <sub>⭐ 2.1k · Lua</sub>
+- [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC) - PI-REC:エッジとカラードメインのプログレッシブ画像再構築ネットワーク。 映像制作翻訳、GAN,AI映像 <sub>⭐ 2.1k · Python</sub>
+- [ycjing/Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers) - 神経スタイル転送:レビュー <sub>⭐ 1.6k</sub>
+- [xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - 適応的インスタンス正規化によるリアルタイムでの任意のスタイル転送 <sub>⭐ 1.6k · Lua</sub>
+- [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - L. Gatys、A. Ecker、M. Bethgeによる「ニューラル・アルゴリズムの芸術的スタイル」の実施。 http://arxiv.org/abs/1508.06576 <sub>⭐ 1.5k · Python</sub>
+- [piddnad/DDColor](https://github.com/piddnad/DDColor) - (ICCV 2023) DDColor:デュアルデコーダによる写真再現実的な画像のカラー化に向けて <sub>⭐ 1.5k · Python</sub>
+- [jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash) - AndroidとiOSでスプラッシュ画面を追加するためのネイティブコードを自動的に生成します。 特定のプラットフォーム、背景色、スプラッシュ画像をカスタマイズできます。 <sub>⭐ 1.5k · Dart</sub>
+- [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - in-browser Fast Neural Style Transfer のデモを Deeplearn.jsライブラリで行います。 <sub>⭐ 1.4k · TypeScript</sub>
+- [reiinakano/arbitrary-image-stylization-tfjs](https://github.com/reiinakano/arbitrary-image-stylization-tfjs) - TensorFlow.js を使用した任意のスタイル転送 <sub>⭐ 1.2k · JavaScript</sub>
+- [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - ディープラーニングベースの画像の着色とビデオカラー化紙のコレクション。 <sub>⭐ 1.2k</sub>
+- [auspicious3000/autovc](https://github.com/auspicious3000/autovc) - AutoVC:Autoencoderの損失だけが付いているゼロ ショットの声様式の移動 <sub>⭐ 1.1k · Python</sub>
+- [emilwallner/Coloring-greyscale-images](https://github.com/emilwallner/Coloring-greyscale-images) - 深層学習で黒と白のイメージを彩ります。 <sub>⭐ 1.1k · Python</sub>
+- [zhanghang1989/PyTorch-Multi-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Multi-Style-Transfer) - 神経スタイルとMSG-Net <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [FORTH-ModelBasedTracker/MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET) - 一般的なバイオビジョン階層(BVH)の形式で直接3Dヒトポーズを推定するリアルタイム方式で、単眼色画像から発信した2次元ボディジョイントの推定値が示されます。 当社の... <sub>⭐ 954 · C++</sub>
+- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - フロートロンは、音声のバリエーションとスタイル転送をコントロールし、テキストからスピーチ合成までの自動回帰の流れベースのジェネレーションネットワークです。 <sub>⭐ 894 · Jupyter Notebook</sub>
+- [ProGamerGov/neural-style-pt](https://github.com/ProGamerGov/neural-style-pt) - 神経スタイル転送アルゴリズムのPyTorch実装 <sub>⭐ 856 · Python</sub>
+- [Fediory/HVI-CIDNet](https://github.com/Fediory/HVI-CIDNet) - (CVPR2025 &&NT2025) HVI:低照度画像強化のための新しいカラースペース(公式実装) <sub>⭐ 853 · Python</sub>
+- [lmb-freiburg/hand3d](https://github.com/lmb-freiburg/hand3d) - 単色画像から3D手ポーズを推定するネットワーク <sub>⭐ 813 · Python</sub>
+- [kaonashi-tyc/Rewrite](https://github.com/kaonashi-tyc/Rewrite) - 中国の特性のための神経様式の移動 <sub>⭐ 778 · Python</sub>
+- [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - 黒と白のイメージを彩る拡散モデル <sub>⭐ 771 · Python</sub>
+- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - 自動色付けと画像データ集計 <sub>⭐ 668 · Python</sub>
+- [zaidalyafeai/ml-projects](https://github.com/zaidalyafeai/ml-projects) - TensorFlow.jsを使用してWebフレンドリーなMLモデルの実装。 pix2pix、顔セグメンテーション、高速スタイル転送など... <sub>⭐ 664 · JavaScript</sub>
+- [andrewdcampbell/OpenCV-Document-Scanner](https://github.com/andrewdcampbell/OpenCV-Document-Scanner) - OpenCV を用いたインタラクティブなドキュメントスキャナで、自動角検出や画像のシャープニング、色相補正機能を搭載しています。 <sub>⭐ 643 · Python</sub>
+- [fspecii/HeartMuLa-Studio](https://github.com/fspecii/HeartMuLa-Studio) - ハート・ムーラ/ハートリブの音楽制作スタジオ「AIを活用した音楽表現」を、音声スタイル転送で実現 <sub>⭐ 640 · TypeScript</sub>
+- [zyxElsa/InST](https://github.com/zyxElsa/InST) - 紙「Diffusionモデルによる反転型スタイル転送」の公式実装(CVPR 2023) <sub>⭐ 588 · Jupyter Notebook</sub>
+- [PrithivirajDamodaran/Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - 自然言語のテキストを正式/カジュアル、アクティブ/パッシブなどの細かい言語スタイル間でスムーズに転送するための神経言語スタイルの移行フレームワーク。 Prithivirajによって作成... <sub>⭐ 496 · Python</sub>
+- [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - AdaINレイヤーを使用したアービトラリースタイルの高速ニューラルスタイル転送 - Huang et alに基づいて。 「適応性インスタンスノーマライゼーションでリアルタイムでの任意のスタイル転送」 <sub>⭐ 492 · Python</sub>
+- [crowsonkb/style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch) - PyTorch のニューラルスタイル転送。 <sub>⭐ 491 · Python</sub>
+- [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - (CVPR 2024 Highlight) Diffusionのスタイル注入:スタイルの転送のための大規模な拡散モデルを適応させるためのトレーニングフリーアプローチ <sub>⭐ 483 · Python</sub>
+- [gordicaleksa/pytorch-neural-style-transfer](https://github.com/gordicaleksa/pytorch-neural-style-transfer) - ニューラルスタイルの転送(Gatys et al.)上の元のペーパーの再構築。 私は、コンテンツやスタイルだけを再構成することを可能にする再建スクリプトを追加しました... <sub>⭐ 454 · Python</sub>
+- [lmb-freiburg/freihand](https://github.com/lmb-freiburg/freihand) - 単色画像から手ポーズや形状の推定のためのデータセット。 <sub>⭐ 450 · Python</sub>
+- [diyiiyiii/StyTR-2](https://github.com/diyiiyiii/StyTR-2) - StyTr2:変圧器が付いているイメージ様式の移動 <sub>⭐ 445 · Python</sub>
+- [leongatys/PytorchNeuralStyleTransfer](https://github.com/leongatys/PytorchNeuralStyleTransfer) - ピトルチにおけるニューラルスタイルの移転の実装 <sub>⭐ 433 · Jupyter Notebook</sub>
+- [AaronZ345/StyleSinger](https://github.com/AaronZ345/StyleSinger) - スタイルシンガー(AAAI 2024)のPyTorch実装:アウトオブドメイン歌声合成のためのスタイルの転送 <sub>⭐ 420 · Python</sub>
+- [vinthony/awesome-deep-hdr](https://github.com/vinthony/awesome-deep-hdr) - HDR画像合成のためのディープラーニングベースの方法のコレクション <sub>⭐ 419</sub>
+- [baldassarreFe/deep-koalarization](https://github.com/baldassarreFe/deep-koalarization) - 深層CNNとInception-ResNet-v2を用いた紙グレースケール画像のカラー化(https://arxiv.org/abs/1712.03400)のKeras/Tensorflow実装 <sub>⭐ 414 · Python</sub>
+- [kingbootoshi/nano-banana-2-skill](https://github.com/kingbootoshi/nano-banana-2-skill) - AIイメージ生成 クリエイティビがGemini 3 Pro. グリーン画面の透明度、参照画像、スタイル転送機能。 また、クロードコードプラグイン。 <sub>⭐ 414 · TypeScript</sub>
+- [adobe-research/DeepAFx-ST](https://github.com/adobe-research/DeepAFx-ST) - DeepAFx-ST - 異なる信号処理でオーディオ効果のスタイル転送。 https://csteinmetz1.github.io/DeepAFx-STを参照してください <sub>⭐ 413 · Python</sub>
+- [mazzzystar/randomCNN-voice-transfer](https://github.com/mazzzystar/randomCNN-voice-transfer) - 浅瀬ランダムパラメータCNNによる音声スタイルの転送。 <sub>⭐ 406 · Python</sub>
+- [Adi-iitd/AI-Art](https://github.com/Adi-iitd/AI-Art) - ネラルスタイルの転送、Pix2Pix、CycleGAN、Deep DreamのPyTorch(およびPyTorch Lightning)実装! <sub>⭐ 393 · Python</sub>
+- [AaronZ345/TCSinger](https://github.com/AaronZ345/TCSinger) - TCSinger(EMNLP 2024)のPyTorch実装:スタイル転送とマルチレベルスタイルのコントロールによるゼロショットシンセシス <sub>⭐ 387 · Python</sub>
+- [KinglittleQ/GST-Tacotron](https://github.com/KinglittleQ/GST-Tacotron) - スタイルトークンのPyTorch実装:エンドツーエンドスピーチシンセシスにおける未指示様式モデリング、制御および転送 <sub>⭐ 375 · Python</sub>
+- [elleryqueenhomels/fast_neural_style_transfer](https://github.com/elleryqueenhomels/fast_neural_style_transfer) - モデル反復に基づく生成ニューラルメソッド <sub>⭐ 373 · Python</sub>
+- [sunshineatnoon/PytorchWCT](https://github.com/sunshineatnoon/PytorchWCT) - これは、機能トランスフォーメーションを介してユニバーサルスタイルの転送のPytorch実装です。 <sub>⭐ 369 · Python</sub>
+- [eriklindernoren/Fast-Neural-Style-Transfer](https://github.com/eriklindernoren/Fast-Neural-Style-Transfer) - ピトルチの速い神経様式の移動 <sub>⭐ 364 · Python</sub>
+- [syang1993/gst-tacotron](https://github.com/syang1993/gst-tacotron) - 「スタイルトークン」のテンソルフロー実装: エンドツーエンドスピーチ合成における未監督スタイルのモデリング、制御および転送 <sub>⭐ 364 · Python</sub>
+- [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - PyTorch における高速ニューラルスタイルの転送実装 <sub>⭐ 360 · Python</sub>
+- [ZHKKKe/NeuralPreset](https://github.com/ZHKKKe/NeuralPreset) - リアルタイムで忠実な4Kカラースタイル転送のためのAI生成プリセット(CVPR 2023) <sub>⭐ 355 · Python</sub>
+- [hnarayanan/artistic-style-transfer](https://github.com/hnarayanan/artistic-style-transfer) - 芸術的なスタイル転送のための複雑なニューラルネットワーク。 <sub>⭐ 353 · Jupyter Notebook</sub>
+- [ahmetozlu/color_recognition](https://github.com/ahmetozlu/color_recognition) - カラー認識と分類&ウェブカムストリーム/ビデオ上の検出/K-Nearest Neighbors(KNN)を使用して単一の画像でOpenCVによってカラーヒストグラム機能が訓練されています。 <sub>⭐ 345 · Python</sub>
+- [Rongjiehuang/GenerSpeech](https://github.com/Rongjiehuang/GenerSpeech) - GenerSpeech (NeurIPS'22): OODカスタムボイスのゼロショットスタイル転送に向けたテキストツースピーチモデル。 <sub>⭐ 333 · Python</sub>
+- [cameronfabbri/Colorful-Image-Colorization](https://github.com/cameronfabbri/Colorful-Image-Colorization) - 深層学習アプローチで画像の彩り <sub>⭐ 321 · Python</sub>
+- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - 分類 - 機械学習 これは、Simplilearnによって提供される機械学習コースの一部である「分類」チュートリアルです。 私たちは、分類アルゴリズム、タイプを学びます... <sub>⭐ 300 · Python</sub>
+- [hwalsuklee/tensorflow-style-transfer](https://github.com/hwalsuklee/tensorflow-style-transfer) - スタイル転送(ニューラルスタイル)のシンプルで簡潔なテンソルフロー実装 <sub>⭐ 293 · Python</sub>
+- [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - 論文のヒストガN:カラーヒストグラム(CVPR 2021)によるガン生成と実画像の制御色。 <sub>⭐ 293 · Jupyter Notebook</sub>
+- [microsoft/OnnxRuntime-UnrealEngine](https://github.com/microsoft/OnnxRuntime-UnrealEngine) - ONNXランタイムを活用し、Unreal Engine 5でスタイル転送ニューラルネットワークをリアルタイムに適用します。 <sub>⭐ 291 · C++</sub>
+- [auspicious3000/AutoPST](https://github.com/auspicious3000/AutoPST) - テキストの記述のない全体的なリズム様式の移動 <sub>⭐ 286 · Python</sub>
+- [luofuli/DualRL](https://github.com/luofuli/DualRL) - 無人テキストスタイルの転送のためのデュアル強化学習フレームワーク(IJCAI 2019) <sub>⭐ 284 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - TensorflowでNeural Networks(SSD)を使う。Tensorflow(オブジェクト検出API)を使用して手探知機を訓練するために使用されるこのリポジトリのドキュメント手順とスクリプト。任意のDNNベースのタスクと同様に、最も高価な... <sub>⭐ 282 · Python</sub>
+- [gsurma/style_transfer](https://github.com/gsurma/style_transfer) - CNNイメージスタイル転送。 <sub>⭐ 279 · Jupyter Notebook</sub>
+- [sumuzhao/CycleGAN-Music-Style-Transfer](https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer) - シンボリック・ミュージックジェナーレがCycleGANと転送 <sub>⭐ 278 · Python</sub>
+- [pystiche/pystiche](https://github.com/pystiche/pystiche) - PyTorch で構築されたニューラルスタイル転送(NST)のフレームワーク <sub>⭐ 274 · Python</sub>
+- [ImagingLab/Colorizing-with-GANs](https://github.com/ImagingLab/Colorizing-with-GANs) - ジェネレーション・アドバーサリアネットワークによるグレースケール画像のカラー化。 https://arxiv.org/abs/1803.05400 <sub>⭐ 269 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - コンテンツのgithub / docsコードの問題80プルリクエスト35ディスカッションアクションプロジェクト2セキュリティインサイトマージブランチ'main'を1862に追加-Travis-CI-migrationテーブルにスキップ... <sub>⭐ 268</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MITディープラーニング入門(6.S191)インストラクター:アレクサンダー・アミニとAva Soleimanyコース情報概要前提条件スケジュール講義ラボ、最終プロジェクト、卒業、および賞ソフトウェア... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [sunniesuhyoung/DST](https://github.com/sunniesuhyoung/DST) - 変形可能なスタイル転送(ECCV 2020) <sub>⭐ 265 · Jupyter Notebook</sub>
+- [wd1511/Awesome-Diffusion-for-Image-Translation](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation) - 画像・ツー・イメージの翻訳とスタイル転送のための拡散に関する論文集 <sub>⭐ 265 · Python</sub>
+- [JiaxiongQ/DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR) - Sparse LiDARデータと単色画像(CVPR 2019)の屋外シーンのための深い表面通常ガイドされた深さ予測 <sub>⭐ 260 · Python</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - 誰でもプログラミング言語で解決できる実用的なプロジェクトのリスト(ソリューションを見る)。 これらのプロジェクトは複数のカテゴリに分けられ、各カテゴリーには独自のフォルダーがあります。 取得するには... <sub>⭐ 254</sub>
+- [Huage001/AdaAttN](https://github.com/Huage001/AdaAttN) - 紙の公式非公式PyTorch再導入:AdaAttN:仲裁ニューラルスタイルの転送におけるRevisit Attentionメカニズム、ICCV 2021。 <sub>⭐ 248 · Python</sub>
+- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - LynnReal-Omniは、テキスト・ツー・ビデオ、画像・ツー・ビデオ、人間と手ポーズのガイド付き生成、構造制御、オムニ環境世代、スタイル転送、ビデオ編集、劣化した動画復元... <sub>⭐ 246 · Python</sub>
+- [Tele-AI/TeleStyle](https://github.com/Tele-AI/TeleStyle) - 最新鋭のコンテンツ保存スタイル転送 <sub>⭐ 243 · JavaScript</sub>
+- [hwalsuklee/tensorflow-fast-style-transfer](https://github.com/hwalsuklee/tensorflow-fast-style-transfer) - シンプルで簡潔なスタイルの転送の tensorflow 実装 <sub>⭐ 242 · Python</sub>
+- [nkxx188/ComfyUI-Krea2-StyleTransfer](https://github.com/nkxx188/ComfyUI-Krea2-StyleTransfer) - ComfyUI用のトレーニングフリーのKrea2スタイルのリファレンスノード、LoRA-likeシングルイメージ転送、実験的な2環境ブレンド、低コンテンツ漏れ、および保存された画像品質。 <sub>⭐ 233 · Python</sub>
+- [eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - iOSで異なる画像処理とスタイルの転送コアMLモデルを発見、ダウンロード、コンパイル&起動します。 <sub>⭐ 231 · C++</sub>
+- [marcoppasini/MelGAN-VC](https://github.com/marcoppasini/MelGAN-VC) - MelGAN-VC: 音声変換とオーディオスタイル転送(Spectrograms)を用いた任意の長いサンプル <sub>⭐ 228 · Jupyter Notebook</sub>
+- [nianticlabs/footprints](https://github.com/nianticlabs/footprints) - (CVPR 2020) 単色画像から見える、隠れたトラバーサブル空間の推定 <sub>⭐ 222 · Python</sub>
+- [Kunhao-Liu/StyleGaussian](https://github.com/Kunhao-Liu/StyleGaussian) - (SIGGRAPH Asia 2024) StyleGaussian: Gaussian Splattingによる即時3Dスタイル転送 <sub>⭐ 216 · Python</sub>
+- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - 航空のすべての既知の法律によると、蜂が飛ぶことができる方法はありません。その羽は地面から脂肪を少し体外に得るためにあまりにも小さいです。ミツバチ、もちろん、とにかく飛びます。だから... <sub>⭐ 213 · Python</sub>
+- [imfing/sketch-to-art](https://github.com/imfing/sketch-to-art) - GANとスタイル転送でカジュアルなスケッチからアートワークを作成 <sub>⭐ 210 · Python</sub>
+- [Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models](https://github.com/Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models) - 最近のスタイルの転送方法のキュレーションリスト(拡散モデル) <sub>⭐ 204</sub>
+- [ZhexinLiang/Control-Color](https://github.com/ZhexinLiang/Control-Color) - 制御色: 多モジュール式拡散ベースの相互イメージの着色 <sub>⭐ 197 · Python</sub>
+- [YatingMusic/MuseMorphose](https://github.com/YatingMusic/MuseMorphose) - MuseMorphoseのPyTorch実装(IEEE/ACM TASLPで公開)、音楽スタイル転送用のトランスベースのモデル。 <sub>⭐ 195 · Python</sub>
+- [ProGamerGov/Neural-Tools](https://github.com/ProGamerGov/Neural-Tools) - 芸術的なスタイル転送プロジェクトと一緒に使用するために作られたツール <sub>⭐ 190 · Python</sub>
+- [exsstas/StyleTransfer-in-TD](https://github.com/exsstas/StyleTransfer-in-TD) - ネラルスタイルの転送のTensorFlow実装 <sub>⭐ 189</sub>
+- [MingSun-Tse/Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation) - (CVPR'20)超解像ユニバーサルスタイル転送(PyTorch)の協創的蒸留 <sub>⭐ 189 · Python</sub>
+- [Cuimao777/eterna-image2image-skill](https://github.com/Cuimao777/eterna-image2image-skill) - ETERNA-inspired image2image シネマティックカラーとコンポジションの実験バイリンガルコーデックススキル。 <sub>⭐ 185</sub>
+- [czczup/URST](https://github.com/czczup/URST) - (AAAI 2022) サムネイルインスタンスのノーマライズによる超解像ニューラルスタイル転送に向けて <sub>⭐ 185 · Python</sub>
+- [saikatbsk/Vincent-AI-Artist](https://github.com/saikatbsk/Vincent-AI-Artist) - 深層構造ニューラルネットを用いたスタイル転送 <sub>⭐ 184 · Python</sub>
+- [junrushao/fast-neural-style.tf](https://github.com/junrushao/fast-neural-style.tf) - リアルタイムの芸術的なスタイル転送のためのフィードフォワードニューラルネットワーク <sub>⭐ 182 · Python</sub>
+- [leongatys/NeuralImageSynthesis](https://github.com/leongatys/NeuralImageSynthesis) - 「ニューラルスタイル転送における受容性の要因を制御する」紙から結果を再現するためのコード(https://arxiv.org/abs/1611.07865)。 <sub>⭐ 182 · Jupyter Notebook</sub>
+- [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WBカラーアグメンターは、異なるWB効果(ICCV 2019)をエミュレートすることにより、画像分類と画像のセマンティックセグメンテーション方法の精度を向上させます。 <sub>⭐ 179 · MATLAB</sub>
+- [PySimpleGUI/PySimpleGUI-Photo-Colorizer](https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer) - ディープラーニングを使って、黒と白の画像(またはウェブカム)を美しく色付けされた画像を変換します。OpenCVとNumpyを使用して写真やWebカメラのビデオをカスタマイズできます。 PySimpleGUIが提供するGUIです。 <sub>⭐ 179 · Python</sub>
+- [himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning) - # アルツハイマー病予測のためのAD-予知神経ネットワーク 脳MRI画像を使用して#Abstractアルツハイマー病(AD)は、重度の記憶喪失と認知症によって特徴付けられます... <sub>⭐ 177 · Python</sub>
+- [onpix/LCDPNet](https://github.com/onpix/LCDPNet) - 紙の公式PyTorchコードとデータセット「画像強化前のローカルカラー分布」 (ECCV2022) <sub>⭐ 175 · Python</sub>
+- [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - 「Groove2Groove:合成データからの監督によるワンショット音楽スタイル転送」のコード <sub>⭐ 174 · Python</sub>
+- [regiellis/ComfyUI-EasyColorCorrector](https://github.com/regiellis/ComfyUI-EasyColorCorrector) - しかし、ComfyUIのための別の専門等級のAI動力を与えられた色の訂正そして強化 <sub>⭐ 174 · Python</sub>
+- [Westlake-AGI-Lab/StyleStudio](https://github.com/Westlake-AGI-Lab/StyleStudio) - (CVPR 2025) スタイルスタジオの公式実装:スタイル要素の選択制御によるテキスト駆動式転送 <sub>⭐ 172 · Python</sub>
+- [Armour/Automatic-Image-Colorization](https://github.com/Armour/Automatic-Image-Colorization) - 残留エンコーダネットワークに基づくTensorFlowを用いた自動画像のカラー化 <sub>⭐ 171 · Python</sub>
+- [kskin/WaterGAN](https://github.com/kskin/WaterGAN) - 「WaterGAN: モノラル水中画像のリアルタイムカラー補正を有効にする監視されていない生成ネットワーク」のソースコード <sub>⭐ 171 · Python</sub>
+- [moein-shariatnia/Deep-Learning](https://github.com/moein-shariatnia/Deep-Learning) - 深層学習に関する詳細なチュートリアル。最初の1つは、GANs(Generative Adversarial Nets)を用いた画像のカラー化についてです。 <sub>⭐ 171 · Jupyter Notebook</sub>
+- [pkuanjie/ArtFlow](https://github.com/pkuanjie/ArtFlow) - 「ArtFlow: Reversible Neural Flow によるUnbiased Image Style Transfer」の公式PyTorch実装 <sub>⭐ 171 · Python</sub>
+- [jinhan/tacotron2-vae](https://github.com/jinhan/tacotron2-vae) - 「スタイルコントロールとエンドツーエンドスピーチシンセシスの転送のための永続的なライテント表現を学習」の実施 <sub>⭐ 170 · Jupyter Notebook</sub>
+- [ghwatson/faststyle](https://github.com/ghwatson/faststyle) - 速いニューラル様式の移動のTensorflowの実施。 <sub>⭐ 169 · Python</sub>
+- [terryky/android_tflite](https://github.com/terryky/android_tflite) - GPUは、Android NDKでTensorFlow Liteアプリケーションを加速しました。高精度な顔の検出、年齢および性別推定、ヒトポーズ見積もり、アーティスティックスタイル転送 <sub>⭐ 169 · C++</sub>
+- [CompVis/brushstroke-parameterized-style-transfer](https://github.com/CompVis/brushstroke-parameterized-style-transfer) - 弊社CVPR 2021用紙「Rethinking Style Transfer:Pixelからパラメーター付きブラシストロークまで」のTensorFlow実装。 <sub>⭐ 168 · Python</sub>
+- [westgarthb/style-transfer-video-processor](https://github.com/westgarthb/style-transfer-video-processor) - このコードは、ニューラルスタイルの転送イメージ処理技術をビデオに拡張し、いくつかの参照スタイル画像間のスムーズな移行を生成します。 <sub>⭐ 168 · Python</sub>
+- [Kunhao-Liu/StyleRF](https://github.com/Kunhao-Liu/StyleRF) - (CVPR 2023) スタイルRF:ニューラル・ラディアンスフィールドのゼロショット3Dスタイルの転送 <sub>⭐ 162 · Python</sub>
+- [zeruniverse/neural-colorization](https://github.com/zeruniverse/neural-colorization) - (ピトルチ実装)イメージカラー化のためのガン <sub>⭐ 162 · Python</sub>
+- [cindyxinyiwang/deep-latent-sequence-model](https://github.com/cindyxinyiwang/deep-latent-sequence-model) - 「Unsupervised Text Style Transferの確率的処方」のPytorch実装。ICLR 2020 <sub>⭐ 161 · Python</sub>
+- [instantX-research/InstantStyle-Plus](https://github.com/instantX-research/InstantStyle-Plus) - InstantStyle-Plus: テキストから画像生成までのコンテンツ保存によるスタイル転送 <sub>⭐ 157 · Python</sub>
+- [rupeshs/neuralsongstyle](https://github.com/rupeshs/neuralsongstyle) - 音声スタイル転送AI <sub>⭐ 155 · Python</sub>
+- [StacyYang/MSG-Net](https://github.com/StacyYang/MSG-Net) - リアルタイム転送のためのマルチスタイルのジェネレーションネットワーク <sub>⭐ 155 · Lua</sub>
+- [StacyYang/MXNet-Gluon-Style-Transfer](https://github.com/StacyYang/MXNet-Gluon-Style-Transfer) - 神経スタイルとMSG-Net <sub>⭐ 152 · Python</sub>
+- [aihao2000/stable-diffusion-reference-only](https://github.com/aihao2000/stable-diffusion-reference-only) - (Arxiv 2023) 安定した拡散のimg2imgバージョン。 ラインアート自動着色。 アニメキャラクターリミックス。 スタイル転送. <sub>⭐ 151 · Python</sub>
+- [Sohojoe/ActiveRagdollStyleTransfer](https://github.com/Sohojoe/ActiveRagdollStyleTransfer) - アクティブ・ラグドールズによるロコモーションスタイルの転送に関する研究(マラソンエンヴス+ml_agentsを使用して) <sub>⭐ 147 · C#</sub>
+- [Mararsh/MyBox](https://github.com/Mararsh/MyBox) - 文書、画像、ファイル、ネットワーク、データ、色、メディアの簡単なツール。 <sub>⭐ 146 · Java</sub>
+- [atapour/monocularDepth-Inference](https://github.com/atapour/monocularDepth-Inference) - 「画像スタイル転送によるドメイン適応と合成データを用いたリアルタイムのモノラル深さ推定」CVPR用紙のための推論パイプライン... <sub>⭐ 145 · Python</sub>
+- [hiroharu-kato/style_transfer_3d](https://github.com/hiroharu-kato/style_transfer_3d) - H. Kato、Y. Ushiku、T. Haradaによる紙「ニューラル3Dメッシュレンダリング」における2D-to-3Dスタイル転送のコード。 <sub>⭐ 144 · Python</sub>
+- [Chenzhaowei13/Light-Condition-Style-Transfer](https://github.com/Chenzhaowei13/Light-Condition-Style-Transfer) - 効率的なデータ強化による低照度条件の車線検出:ライトコンディションスタイル転送(IV 2020) <sub>⭐ 140 · Python</sub>
+- [pkmital/time-domain-neural-audio-style-transfer](https://github.com/pkmital/time-domain-neural-audio-style-transfer) - NIPS2017「Time Domain Neural Audio Style Transfer」コードリポジトリ <sub>⭐ 138 · Python</sub>
+- [BigStationW/ComfyUi-Untwisting-RoPE](https://github.com/BigStationW/ComfyUi-Untwisting-RoPE) - DiTモデルのトレーニングフリースタイル転送。 <sub>⭐ 135 · Python</sub>
+- [huangeddie/style-transfer-quality](https://github.com/huangeddie/style-transfer-quality) - スタイルイメージの機能と生成された画像機能の区別するために、ニューラルネットワークを使用してスタイルの転送を実行します。結果は現代的な方法よりも高品質の転送を収受する。 <sub>⭐ 135 · Python</sub>
+- [FreeStyleFreeLunch/FreeStyle](https://github.com/FreeStyleFreeLunch/FreeStyle) - FreeStyle: Diffusionモデルを使用したテキストガイド付きスタイル転送の無料ランチ <sub>⭐ 132 · Python</sub>
+- [gordicaleksa/pytorch-neural-style-transfer-johnson](https://github.com/gordicaleksa/pytorch-neural-style-transfer-johnson) - 高速ニューラルスタイルの転送(ジョンソンら。)の復元。 紙の一部は、インスタンス正規化などのフォローアップ作業によって改善されています。 チェックアウト... <sub>⭐ 129 · Python</sub>
+- [shenfalong/styletransfer](https://github.com/shenfalong/styletransfer) - メタネットワークによるリアルタイムニューラルスタイル転送 <sub>⭐ 125 · Makefile</sub>
+- [ktaebum/AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint) - アニメスケッチ画像の自動着色 <sub>⭐ 121 · Python</sub>
+- [mcychan/nQuantCpp](https://github.com/mcychan/nQuantCpp) - nQuantCppは、高品質最適化された画像を生成するビジュアルc++用のトップ6色定量アルゴリズムが含まれています。 <sub>⭐ 120 · C++</sub>
+- [lukemelas/Automatic-Image-Colorization](https://github.com/lukemelas/Automatic-Image-Colorization) - 深層構造ニューラルネットワークによる自動画像色化 <sub>⭐ 119 · Python</sub>
+- [byungsook/neural-flow-style](https://github.com/byungsook/neural-flow-style) - 流体の神経様式の移動 <sub>⭐ 118 · Python</sub>
+- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - (CVPR2024) 紙「カラーシフト推定と画像強化のための回収」の公式実装 <sub>⭐ 118 · Python</sub>
+- [ankitdhall/imageSegmentation](https://github.com/ankitdhall/imageSegmentation) - C++でテクスチャとカラー機能を使用した画像のセグメンテーション <sub>⭐ 117 · C++</sub>
+- [alexiscreuzot/NSTDemo](https://github.com/alexiscreuzot/NSTDemo) - CoreMLを使用してiOS上でNeural Style Transferのミニマルな例 <sub>⭐ 116 · Swift</sub>
+- [AayushG159/Plant-Leaf-Identification](https://github.com/AayushG159/Plant-Leaf-Identification) - デジタル画像処理技術を用いた形状、色彩、テクスチャーのベースで植物葉による植物識別 <sub>⭐ 115 · Jupyter Notebook</sub>
+- [mstorath/Pottslab](https://github.com/mstorath/Pottslab) - Pottsモデルに基づくマルチラベル画像のセグメンテーション(色/灰色/多重チャンネル)を監視しました。 (片道定数Mumford-Shahモデル) <sub>⭐ 115 · Python</sub>
+- [s-du/ScribbleArchitect](https://github.com/s-du/ScribbleArchitect) - シンプルなスクリブルを建築設計に変える。スタイルトランスファーと安定した拡散、LCM、IPアダプタおよびControlNetのスタイル転送。 Scribbleアーキテクトは、ジェネレーションAIで創造性を兼ね備えています... <sub>⭐ 114 · Python</sub>
+- [tensorlayer/adaptive-style-transfer](https://github.com/tensorlayer/adaptive-style-transfer) - 適応的インスタンス正規化によるリアルタイムでの任意のスタイル転送 <sub>⭐ 114 · Python</sub>
+- [rkhamilton/vqgan-clip-generator](https://github.com/rkhamilton/vqgan-clip-generator) - テキストや画像のプロンプトに基づいて、VQGAN+CLIP をイメージとビデオ生成、スタイル転送を実現します。使いやすい、ドキュメント、およびスムーズな動画作成に役立ちます。 <sub>⭐ 113 · Jupyter Notebook</sub>
+- [Tele-AI/TeleStyleV2](https://github.com/Tele-AI/TeleStyleV2) - ナノバナナのプロと並行してオープンソーススタイルのトランスファーモデル、Qwen-Image-Edit 2509、2511、SenseNovaU1をサポート <sub>⭐ 113 · Python</sub>
+- [city96/ComfyUI_ColorMod](https://github.com/city96/ComfyUI_ColorMod) - カラー/コントラスト編集、トーンマッピング、16ビットおよびHDR画像サポート。 <sub>⭐ 111 · Python</sub>
+- [neuralchen/awesome_style_transfer](https://github.com/neuralchen/awesome_style_transfer) - 国際CV会議におけるスタイル移転紙コレクション <sub>⭐ 111</sub>
+- [albarji/neural-style-docker](https://github.com/albarji/neural-style-docker) - ニューラルスタイルの転送アルゴリズムのドッカー化バージョン <sub>⭐ 110 · Python</sub>
+- [nihui/ncnn-android-styletransfer](https://github.com/nihui/ncnn-android-styletransfer) - スタイル転送アンドロイド例 <sub>⭐ 110 · C</sub>
+- [shellysheynin/Deep-Learning-Book](https://github.com/shellysheynin/Deep-Learning-Book) - ディープラーニングブックは、さまざまなタスクやアーキテクチャのためのアートペーパーの深い学習、モチベーション、説明、状態の原則をカバーしています。 CNNs、オブジェクト検出、意味... <sub>⭐ 110</sub>
+- [Spenhouet/automated-deep-photo-style-transfer](https://github.com/Spenhouet/automated-deep-photo-style-transfer) - 紙「Automated Deep Photo Style Transfer」のTensorFlow実装 <sub>⭐ 110 · Python</sub>
+- [zeruniverse/fast-artistic-videos](https://github.com/zeruniverse/fast-artistic-videos) - (トーチ実装)フィードフォワードニューラルネットワークに基づくビデオのファストアートスタイル転送 <sub>⭐ 110 · C++</sub>
+- [Kibeom-Hong/Domain-Aware-Style-Transfer](https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer) - ドメインアウェアユニバーサルスタイル転送の公式実装 <sub>⭐ 109 · Python</sub>
+- [minhmanho/deep_preset](https://github.com/minhmanho/deep_preset) - (WACV'21) ディーププリセット:カラースタイルの転送で写真をブレンドして復元する <sub>⭐ 109 · Python</sub>
+- [CherylHuang/Faces2Anime](https://github.com/CherylHuang/Faces2Anime) - Faces2Anime: ジェネレーション・アドバーサリアネットワークを使用して顔の漫画スタイルの転送。 Masters Thesis 2021 @ NTUST. <sub>⭐ 108 · Jupyter Notebook</sub>
+- [kb22/Color-Identification-using-Machine-Learning](https://github.com/kb22/Color-Identification-using-Machine-Learning) - このプロジェクトでは、さまざまな画像の色を調べて、ユーザーが特定の色に基づいて画像をクエリできるようにします。 <sub>⭐ 108 · Jupyter Notebook</sub>
+- [nick8592/text-guided-image-colorization](https://github.com/nick8592/text-guided-image-colorization) - このリポジトリは、ユーザー制御色の生成に安定した拡散(SDXL)とBLIPを活用するインタラクティブな画像のカラー化ツールを提供します。 ControlNetを使用して再訓練されたモデルで... <sub>⭐ 108 · Python</sub>
+- [EnragedAntelope/comfyui-relight](https://github.com/EnragedAntelope/comfyui-relight) - 再生成せずにComfyUIの画像をリライト:最大3つの位置決め可能な光源、色補正または両方、プリセット、リム照明、およびキャストシャドウとマスクアウェアオクルージョン。... <sub>⭐ 107 · Python</sub>
 
 ## ✂️ 切り抜き、背景、合成
 
 > 背景除去、セグメンテーション、画像の合成。
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking <sub>⭐ 62.2k · Python</sub>
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. <sub>⭐ 55.0k · Jupyter Notebook</sub>
-- [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc. <sub>⭐ 26.4k · Python</sub>
-- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the… <sub>⭐ 19.9k · Jupyter Notebook</sub>
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything <sub>⭐ 17.7k · Jupyter Notebook</sub>
-- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Advanced AI Explainability for computer vision. Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more. <sub>⭐ 13.0k · Python</sub>
-- [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show… <sub>⭐ 11.9k · Python</sub>
-- [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images <sub>⭐ 11.7k · Python</sub>
-- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image… <sub>⭐ 9.4k · Python</sub>
-- [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything <sub>⭐ 8.4k · Python</sub>
-- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. <sub>⭐ 7.3k · TypeScript</sub>
-- [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory" <sub>⭐ 7.1k · Python</sub>
-- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. <sub>⭐ 7.0k · Python</sub>
-- [zhixuhao/unet](https://github.com/zhixuhao/unet) - unet for image segmentation <sub>⭐ 4.9k · Jupyter Notebook</sub>
-- [bowang-lab/MedSAM](https://github.com/bowang-lab/MedSAM) - Segment Anything in Medical Images <sub>⭐ 4.4k · Jupyter Notebook</sub>
-- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (NeurIPS 2023) <sub>⭐ 4.3k · Jupyter Notebook</sub>
-- [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - (CAAI AIR'24) Bilateral Reference for High-Resolution Dichotomous Image Segmentation <sub>⭐ 4.2k · Python</sub>
-- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM) <sub>⭐ 4.2k · Python</sub>
-- [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation <sub>⭐ 4.0k · Python</sub>
-- [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation <sub>⭐ 3.7k · Python</sub>
-- [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to… <sub>⭐ 3.6k · Python</sub>
-- [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI <sub>⭐ 3.5k · Python</sub>
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!! <sub>⭐ 3.5k · Python</sub>
-- [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM) <sub>⭐ 3.4k · Python</sub>
-- [Beckschen/TransUNet](https://github.com/Beckschen/TransUNet) - This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation. <sub>⭐ 3.2k · Python</sub>
-- [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for… <sub>⭐ 3.1k · Jupyter Notebook</sub>
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLO27、YOLO26、YOLO11、YOLOv8 — オブジェクト検出、インスタンスセグメンテーション、セマンティックセグメンテーション、画像分類、ポーズ推定、オブジェクトトラッキング <sub>⭐ 62.2k · Python</sub>
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - リポジトリは、SegmentAnything Model(SAM)で実行中の推論コードを提供し、訓練されたモデルのチェックポイントをダウンロードするためのリンクやモデルを使用する方法を示すノートブックなどを提供しています。 <sub>⭐ 55.0k · Jupyter Notebook</sub>
+- [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - 分類や異物検出などを含む画像処理の深い学習 <sub>⭐ 26.4k · Python</sub>
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - リポジトリは、Meta Segment Any Model 2 (SAM 2)の実行中の推論コードを提供し、訓練されたモデルチェックポイントをダウンロードするためのリンク、および例のノートブックなど... <sub>⭐ 19.9k · Jupyter Notebook</sub>
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - グラウンドSAM:セグメント別と安定した拡散による地上DINOをマーリングし、何かを認識する - 自動検出、セグメント化および生成 <sub>⭐ 17.7k · Jupyter Notebook</sub>
+- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - コンピュータビジョンのための高度なAIの説明。 CNN、ビジョントランス、分類、オブジェクト検出、セグメンテーション、画像の類似性などのサポート。 <sub>⭐ 13.0k · Python</sub>
+- [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - リポジトリは、Meta Segment Any Model 3 (SAM 3)と実行中の推論と微調整のためのコードを提供し、訓練されたモデルのチェックポイントをダウンロードするためのリンク、および例を示すノートブック... <sub>⭐ 11.9k · Python</sub>
+- [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - U-NetのPyTorch実装により、高画質な画像で立体的なセグメンテーションが可能 <sub>⭐ 11.7k · Python</sub>
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - 使いやすい画像のセグメンテーションライブラリは、Semanticセグメンテーション、インタラクティブセグメンテーション、パノプティックセグメンテーション、イメージで実用的なタスクの広い範囲をサポートし、素晴らしい事前訓練されたモデル動物園と。 <sub>⭐ 9.4k · Python</sub>
+- [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - 速い区分の何でも <sub>⭐ 8.4k · Python</sub>
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - ブラウザ環境に直接画像から背景を削除し、費用やプライバシーの心配もありません。インタラクティブなデモをご覧ください。 <sub>⭐ 7.3k · TypeScript</sub>
+- [yangchris11/samurai](https://github.com/yangchris11/samurai) - 「SAMURAI: ゼロショットのビジュアルトラッキングモデルをモーションアウェア・メモリで適応させる」の公式リポジトリ <sub>⭐ 7.1k · Python</sub>
+- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything は、セグメント別、XMem、E2FGVI に基づいて、ビデオオブジェクトの追跡とセグメンテーションのための柔軟でインタラクティブなツールです。 <sub>⭐ 7.0k · Python</sub>
+- [zhixuhao/unet](https://github.com/zhixuhao/unet) - 画像のセグメンテーションを未然に <sub>⭐ 4.9k · Jupyter Notebook</sub>
+- [bowang-lab/MedSAM](https://github.com/bowang-lab/MedSAM) - 医療画像のすべてをセグメント化 <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - 高品質で何かをセグメント化(NeurIPS 2023) <sub>⭐ 4.3k · Jupyter Notebook</sub>
+- [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - (CAAI AIR'24) 高分解能画像のセグメンテーションのための二国間参照 <sub>⭐ 4.2k · Python</sub>
+- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - セグメント別モデル(SAM)で地理空間データを分割するためのPythonパッケージ <sub>⭐ 4.2k · Python</sub>
+- [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - 医療画像のセグメンテーションのための損失機能の収集 <sub>⭐ 4.0k · Python</sub>
+- [DLR-RM/BlenderProc](https://github.com/DLR-RM/BlenderProc) - 写真理論的訓練画像生成のための手続き型ブレンダーパイプライン <sub>⭐ 3.7k · Python</sub>
+- [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - リポジトリは、Meta Segment Any Audio Model(SAM-Audio)と実行中の推論のためのコードを提供し、訓練されたモデルチェックポイントをダウンロードするためのリンク、および例のノートブックなど... <sub>⭐ 3.6k · Python</sub>
+- [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - 安定した拡散WebUIのためのあらゆるものを区分して下さい <sub>⭐ 3.5k · Python</sub>
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - YOLOのAIサポートによる、Effortless AI-assistedデータラベル作成、SAM+SAM2/2.1+SAM3、MobileSAM!! <sub>⭐ 3.5k · Python</sub>
+- [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - セグメント・アニース、ControlNet、StableDiffusion等(ACM MM)による画像の編集 <sub>⭐ 3.4k · Python</sub>
+- [Beckschen/TransUNet](https://github.com/Beckschen/TransUNet) - このリポジトリには、TransUNetの公式プロジェクトが書かれています。トランスント:トランスフォーマーは、医療画像のセグメンテーションのための強力なエンコーダーを作ります。 <sub>⭐ 3.2k · Python</sub>
+- [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - ビデオ内のオブジェクトを追跡し、分割する専用のオープンソースプロジェクト。 またはインタラクティブに。 主なアルゴリズムは、SEMのあらゆるモデル(SAM)を含みます... <sub>⭐ 3.1k · Jupyter Notebook</sub>
 - [LeeJunHyun/Image_Segmentation](https://github.com/LeeJunHyun/Image_Segmentation) - U-Net、R2U-Net、Attention U-Net、およびアテンション R2U-Net の実装 <sub>⭐ 3.1k · Python</sub>
-- [wasserth/TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images <sub>⭐ 3.0k · Python</sub>
-- [divamgupta/image-segmentation-keras](https://github.com/divamgupta/image-segmentation-keras) - Implementation of Segnet, FCN, UNet , PSPNet and other models in Keras. <sub>⭐ 3.0k · Python</sub>
-- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - (ECCV 2024) Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity" <sub>⭐ 2.9k · Python</sub>
-- [HiLab-git/SSL4MIS](https://github.com/HiLab-git/SSL4MIS) - Semi Supervised Learning for Medical Image Segmentation, a collection of literature reviews and code implementations. <sub>⭐ 2.7k · Python</sub>
-- [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing. <sub>⭐ 2.6k · C++</sub>
-- [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - SAM with text prompt <sub>⭐ 2.6k · Python</sub>
-- [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation <sub>⭐ 2.6k · Jupyter Notebook</sub>
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard. <sub>⭐ 2.5k · TypeScript</sub>
-- [HuCaoFighting/Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet) - (ECCVW 2022) The codes for the work "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation" <sub>⭐ 2.4k · Python</sub>
-- [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - Awesome GAN for Medical Imaging <sub>⭐ 2.4k</sub>
-- [fudan-zvg/Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B). <sub>⭐ 2.3k · Python</sub>
-- [jsbroks/coco-annotator](https://github.com/jsbroks/coco-annotator) - Web-based image segmentation tool for object detection, localization, and keypoints <sub>⭐ 2.3k · Vue</sub>
-- [bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets) - Implementation of different kinds of Unet Models for Image Segmentation - Unet , RCNN-Unet, Attention Unet, RCNN-Attention Unet, Nested Unet <sub>⭐ 2.3k · Python</sub>
-- [ellisdg/3DUnetCNN](https://github.com/ellisdg/3DUnetCNN) - Pytorch 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation <sub>⭐ 2.2k · Python</sub>
-- [ozan-oktay/Attention-Gated-Networks](https://github.com/ozan-oktay/Attention-Gated-Networks) - Use of Attention Gates in a Convolutional Neural Network / Medical Image Classification and Segmentation <sub>⭐ 2.1k · Python</sub>
-- [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds <sub>⭐ 2.0k · JavaScript</sub>
-- [black0017/MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch) - A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation <sub>⭐ 1.9k · Python</sub>
-- [jakeret/tf_unet](https://github.com/jakeret/tf_unet) - Generic U-Net Tensorflow implementation for image segmentation <sub>⭐ 1.9k · Python</sub>
-- [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.… <sub>⭐ 1.8k · Python</sub>
-- [SHI-Labs/OneFormer](https://github.com/SHI-Labs/OneFormer) - (CVPR 2023) OneFormer: One Transformer to Rule Universal Image Segmentation <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [JunMa11/SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg) - SOTA medical image segmentation methods based on various challenges <sub>⭐ 1.7k</sub>
-- [ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds <sub>⭐ 1.7k · Python</sub>
-- [InsightSoftwareConsortium/ITK](https://github.com/InsightSoftwareConsortium/ITK) - Insight Toolkit (ITK) -- Official Repository. ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more… <sub>⭐ 1.7k · C++</sub>
-- [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D. <sub>⭐ 1.6k · Python</sub>
-- [tianrun-chen/SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) - Adapting Meta AI's Segment Anything to Downstream Tasks with Adapters and Prompts <sub>⭐ 1.6k · Python</sub>
-- [ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop) - Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021) <sub>⭐ 1.4k · Python</sub>
-- [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - (ICCV'23 Workshop) SAM3D: Segment Anything in 3D Scenes <sub>⭐ 1.4k · Python</sub>
-- [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highlight paper: Matching Anything by Segmenting Anything <sub>⭐ 1.4k · Python</sub>
-- [ImprintLab/MedSegDiff](https://github.com/ImprintLab/MedSegDiff) - Using Diffusion Models to Segment/Reconstruct Organs from Medical Images (AAAI Most influential Paper) <sub>⭐ 1.4k · Python</sub>
-- [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on… <sub>⭐ 1.4k · Python</sub>
-- [timojl/clipseg](https://github.com/timojl/clipseg) - This repository contains the code of the CVPR 2022 paper "Image Segmentation Using Text and Image Prompts". <sub>⭐ 1.3k · Python</sub>
-- [torrvision/crfasrnn](https://github.com/torrvision/crfasrnn) - This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks.… <sub>⭐ 1.3k · MATLAB</sub>
-- [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - A batched offline inference oriented version of segment-anything <sub>⭐ 1.3k · Python</sub>
-- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg) <sub>⭐ 1.3k · Python</sub>
-- [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) - This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM). <sub>⭐ 1.2k</sub>
-- [kijai/ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2) - ComfyUI nodes to use segment-anything-2 <sub>⭐ 1.2k · Python</sub>
-- [MIC-DKFZ/batchgenerators](https://github.com/MIC-DKFZ/batchgenerators) - A framework for data augmentation for 2D and 3D image classification and segmentation <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer. <sub>⭐ 1.1k · TypeScript</sub>
-- [YichiZhang98/SAM4MIS](https://github.com/YichiZhang98/SAM4MIS) - Segment Anything Model for Medical Image Segmentation: Open-Source Project Summary <sub>⭐ 1.1k</sub>
-- [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective (CVPR 2024) and RepViT-SAM: Towards Real-Time Segmenting Anything <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [storyicon/comfyui_segment_anything](https://github.com/storyicon/comfyui_segment_anything) - Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything. <sub>⭐ 1.1k · Python</sub>
-- [WangLibo1995/GeoSeg](https://github.com/WangLibo1995/GeoSeg) - UNetFormer: A UNet-like transformer for efficient semantic segmentation of remote sensing urban scene imagery, ISPRS. Also, including other vision transformers and CNNs for satellite, aerial image… <sub>⭐ 1.1k · Python</sub>
-- [megvii-research/PETR](https://github.com/megvii-research/PETR) - (ECCV2022) PETR: Position Embedding Transformation for Multi-View 3D Object Detection & (ICCV2023) PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images <sub>⭐ 1.1k · Python</sub>
-- [anuragxel/salt](https://github.com/anuragxel/salt) - Segment Anything Labelling Tool <sub>⭐ 1.0k · Python</sub>
-- [qqlu/Entity](https://github.com/qqlu/Entity) - EntitySeg Toolbox: Towards Open-World and High-Quality Image Segmentation <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [Xiaoqi-Zhao-DLUT/MSNet-M2SNet](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet) - (MIR 2026 (M2SNet) & MICCAI 2022 GOALS Challenge & MICCAI 2021 (MSNet)) Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation <sub>⭐ 1.0k · Python</sub>
-- [qubvel/ttach](https://github.com/qubvel/ttach) - Image Test Time Augmentation with PyTorch! <sub>⭐ 1.0k · Python</sub>
-- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023 & IJCV 2025) <sub>⭐ 1.0k · Python</sub>
-- [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba) - U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation <sub>⭐ 1.0k · Python</sub>
-- [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js <sub>⭐ 1.0k · TypeScript</sub>
-- [foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting) - Deep Image Matting <sub>⭐ 991 · Python</sub>
-- [kadirnar/segment-anything-video](https://github.com/kadirnar/segment-anything-video) - MetaSeg: Packaged version of the Segment Anything repository <sub>⭐ 983 · Python</sub>
-- [uni-medical/SAM-Med3D](https://github.com/uni-medical/SAM-Med3D) - SAM-Med3D: An Efficient General-purpose Promptable Segmentation Model for 3D Volumetric Medical Image <sub>⭐ 964 · Python</sub>
-- [NVlabs/ODISE](https://github.com/NVlabs/ODISE) - Official PyTorch implementation of ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models (CVPR 2023 Highlight) <sub>⭐ 943 · Python</sub>
-- [JizhiziLi/GFM](https://github.com/JizhiziLi/GFM) - (IJCV 2022) Bridging Composite and Real: Towards End-to-end Deep Image Matting <sub>⭐ 942 · Python</sub>
-- [ImprintLab/Medical-SAM2](https://github.com/ImprintLab/Medical-SAM2) - Medical SAM 2: Segment 3D Medical Images Via Segment Anything Model 2 <sub>⭐ 934 · Python</sub>
-- [moemen95/Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template) - A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning. <sub>⭐ 922 · Python</sub>
-- [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT <sub>⭐ 919 · Python</sub>
-- [Project-MONAI/MONAILabel](https://github.com/Project-MONAI/MONAILabel) - MONAI Label is an intelligent open source image labeling and learning tool. <sub>⭐ 893 · Python</sub>
-- [xu-ji/IIC](https://github.com/xu-ji/IIC) - Invariant Information Clustering for Unsupervised Image Classification and Segmentation <sub>⭐ 890 · Python</sub>
-- [ANTsX/ANTsPy](https://github.com/ANTsX/ANTsPy) - A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more. <sub>⭐ 889 · Python</sub>
-- [usuyama/pytorch-unet](https://github.com/usuyama/pytorch-unet) - Simple PyTorch implementations of U-Net/FullyConvNet (FCN) for image segmentation <sub>⭐ 886 · Jupyter Notebook</sub>
-- [Slicer/SlicerGitSVNArchive](https://github.com/Slicer/SlicerGitSVNArchive) - OBSOLETE / Multi-platform, free open source software for visualization and image computing. <sub>⭐ 868 · C++</sub>
-- [ziqi-jin/finetune-anything](https://github.com/ziqi-jin/finetune-anything) - Fine-tune SAM (Segment Anything Model) for computer vision tasks such as semantic segmentation, matting, detection ... in specific scenarios <sub>⭐ 868 · Python</sub>
-- [JCruan519/VM-UNet](https://github.com/JCruan519/VM-UNet) - (ACM TOMM) This is the official code repository for "VM-UNet: Vision Mamba UNet for Medical Image Segmentation". <sub>⭐ 863 · Python</sub>
-- [jeya-maria-jose/Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer) - Official Pytorch Code for "Medical Transformer: Gated Axial-Attention for Medical Image Segmentation" - MICCAI 2021 <sub>⭐ 861 · Python</sub>
-- [MarkMoHR/Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) - A collection of papers about Referring Image Segmentation. <sub>⭐ 830</sub>
-- [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet) - YoloDotNet - A C# .NET 8.0 project for Classification, Object Detection, OBB Detection, Segmentation and Pose Estimation in both images and live video streams. <sub>⭐ 825 · C#</sub>
-- [showlab/Image2Paragraph](https://github.com/showlab/Image2Paragraph) - (Image 2 Text Para) Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet. <sub>⭐ 821 · Python</sub>
-- [invesalius/invesalius3](https://github.com/invesalius/invesalius3) - 3D medical imaging reconstruction software <sub>⭐ 803 · Python</sub>
-- [MrGiovanni/ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis) - (MICCAI 2019 Young Scientist Award) (MedIA Best Paper Award) Models Genesis: self-supervised pre-training for 3D medical images. Learns transferable representations from unlabeled CT and MRI volumes… <sub>⭐ 794 · Jupyter Notebook</sub>
-- [ika-rwth-aachen/Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras. <sub>⭐ 793 · Python</sub>
-- [fyu/dilation](https://github.com/fyu/dilation) - Dilated Convolution for Semantic Image Segmentation <sub>⭐ 784 · Python</sub>
-- [AngeLouCN/Min_Max_Similarity](https://github.com/AngeLouCN/Min_Max_Similarity) - A contrastive learning based semi-supervised segmentation network for medical image segmentation <sub>⭐ 759 · Python</sub>
-- [mattmacy/vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) - A PyTorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation <sub>⭐ 759 · Python</sub>
-- [warmspringwinds/pytorch-segmentation-detection](https://github.com/warmspringwinds/pytorch-segmentation-detection) - Image Segmentation and Object Detection in Pytorch <sub>⭐ 757 · Jupyter Notebook</sub>
-- [vqdang/hover_net](https://github.com/vqdang/hover_net) - Simultaneous Nuclear Instance Segmentation and Classification in H&E Histology Images. <sub>⭐ 749 · Python</sub>
-- [computational-cell-analytics/micro-sam](https://github.com/computational-cell-analytics/micro-sam) - Segment Anything for Microscopy <sub>⭐ 731 · Jupyter Notebook</sub>
-- [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - (CVPR2024) Code for "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation". <sub>⭐ 730 · Python</sub>
-- [bowang-lab/MedSAM2](https://github.com/bowang-lab/MedSAM2) - MedSAM2: Segment Anything in 3D Medical Images and Videos <sub>⭐ 726 · Python</sub>
-- [ansleliu/LightNet](https://github.com/ansleliu/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset) <sub>⭐ 725 · Python</sub>
-- [SHI-Labs/Matting-Anything](https://github.com/SHI-Labs/Matting-Anything) - Matting Anything Model (MAM), an efficient and versatile framework for estimating the alpha matte of any instance in an image with flexible and interactive visual or linguistic user prompt guidance. <sub>⭐ 721 · Python</sub>
-- [Fafa-DL/Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) - Image augmentation for object detection, segmentation and classification <sub>⭐ 699 · Python</sub>
-- [tfzhou/ContrastiveSeg](https://github.com/tfzhou/ContrastiveSeg) - ICCV2021 (Oral) - Exploring Cross-Image Pixel Contrast for Semantic Segmentation <sub>⭐ 694 · Python</sub>
-- [pmneila/morphsnakes](https://github.com/pmneila/morphsnakes) - Morphological snakes for image segmentation and tracking <sub>⭐ 649 · Python</sub>
-- [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map. <sub>⭐ 645 · Jupyter Notebook</sub>
-- [laiyingxin2/DADF](https://github.com/laiyingxin2/DADF) - Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization <sub>⭐ 633 · Python</sub>
-- [Joker316701882/Deep-Image-Matting](https://github.com/Joker316701882/Deep-Image-Matting) - This is tensorflow implementation for paper "Deep Image Matting" <sub>⭐ 624 · Python</sub>
-- [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation" <sub>⭐ 611 · Python</sub>
-- [hszhao/ICNet](https://github.com/hszhao/ICNet) - ICNet for Real-Time Semantic Segmentation on High-Resolution Images, ECCV2018 <sub>⭐ 610 · MATLAB</sub>
-- [jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships](https://github.com/jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships) - This repository provides a comprehensive list of radar and optical satellite datasets curated for ship detection, classification, semantic segmentation, and instance segmentation tasks. These… <sub>⭐ 607</sub>
-- [Gy920/segment-anything-2-real-time](https://github.com/Gy920/segment-anything-2-real-time) - Run Segment Anything Model 2 on a live video stream <sub>⭐ 600 · Jupyter Notebook</sub>
-- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - (Image and Vision Computing (Vol.147 Jul. '24)) Interactive Natural Image Matting with Segment Anything Models <sub>⭐ 593 · Python</sub>
-- [JJGO/UniverSeg](https://github.com/JJGO/UniverSeg) - UniverSeg: Universal Medical Image Segmentation <sub>⭐ 590 · Python</sub>
-- [aim-uofa/Matcher](https://github.com/aim-uofa/Matcher) - (ICLR'24 & IJCV‘25) Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching <sub>⭐ 580 · Python</sub>
-- [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba) - SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation <sub>⭐ 577 · Python</sub>
-- [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes <sub>⭐ 575 · Python</sub>
-- [PozzettiAndrea/ComfyUI-SAM3](https://github.com/PozzettiAndrea/ComfyUI-SAM3) - ComfyUI wrapper for segment anything 3 <sub>⭐ 575 · Python</sub>
-- [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric. <sub>⭐ 572 · Python</sub>
-- [jeya-maria-jose/UNeXt-pytorch](https://github.com/jeya-maria-jose/UNeXt-pytorch) - Official Pytorch Code base for "UNeXt: MLP-based Rapid Medical Image Segmentation Network", MICCAI 2022 <sub>⭐ 571 · Python</sub>
-- [albumentations-team/AlbumentationsX](https://github.com/albumentations-team/AlbumentationsX) - Image augmentation for computer vision. AGPL-3.0-only or commercial licensing. <sub>⭐ 566 · Python</sub>
-- [JIA-Lab-research/3D-Box-Segment-Anything](https://github.com/JIA-Lab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt. <sub>⭐ 565 · Jupyter Notebook</sub>
-- [hustvl/ViTMatte](https://github.com/hustvl/ViTMatte) - (Information Fusion (Vol.103, Mar. '24)) Boosting Image Matting with Pretrained Plain Vision Transformers <sub>⭐ 560 · Python</sub>
-- [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - (AAAI 2025) Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model" <sub>⭐ 560 · Python</sub>
-- [CUHK-AIM-Group/U-KAN](https://github.com/CUHK-AIM-Group/U-KAN) - (AAAI' 25) U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation <sub>⭐ 559 · Python</sub>
-- [zsylvester/segmenteverygrain](https://github.com/zsylvester/segmenteverygrain) - A SAM-based model for instance segmentation of images of grains <sub>⭐ 555 · Jupyter Notebook</sub>
-- [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel is an offline image annotation tool for object detection and segmentation. <sub>⭐ 552 · Jupyter Notebook</sub>
-- [warmspringwinds/tf-image-segmentation](https://github.com/warmspringwinds/tf-image-segmentation) - Image Segmentation framework based on Tensorflow and TF-Slim library <sub>⭐ 545 · Python</sub>
-- [kevin-ssy/FishNet](https://github.com/kevin-ssy/FishNet) - Implementation code of the paper: FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction, NeurIPS 2018 <sub>⭐ 543 · Python</sub>
-- [Amshaker/unetr_plus_plus](https://github.com/Amshaker/unetr_plus_plus) - (IEEE TMI-2024) UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation <sub>⭐ 536 · Python</sub>
-- [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt) - (MICCAI 2023) MedNeXt is a fully ConvNeXt architecture for 3D medical image segmentation. <sub>⭐ 534 · Python</sub>
-- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: Localize and Segment Anything Model for 3D Medical Images <sub>⭐ 523 · Python</sub>
-- [WZH0120/SAM2-UNet](https://github.com/WZH0120/SAM2-UNet) - (VINT 2026) SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation <sub>⭐ 523 · Python</sub>
-- [hustvl/EVF-SAM](https://github.com/hustvl/EVF-SAM) - Official code of "EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model" <sub>⭐ 509 · Python</sub>
-- [frank-xwang/UnSAM](https://github.com/frank-xwang/UnSAM) - (NeurIPS 2024) Code release for "Segment Anything without Supervision" <sub>⭐ 504 · Jupyter Notebook</sub>
-- [nibtehaz/MultiResUNet](https://github.com/nibtehaz/MultiResUNet) - MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation <sub>⭐ 502 · Jupyter Notebook</sub>
-- [ZwwWayne/K-Net](https://github.com/ZwwWayne/K-Net) - (NeurIPS2021) Code Release of K-Net: Towards Unified Image Segmentation <sub>⭐ 484 · Python</sub>
-- [dongwu92/AutoPortraitMatting](https://github.com/dongwu92/AutoPortraitMatting) - Tensorflow implementation of Automatic Portrait Matting on paper "Automatic Portrait Segmentation for Image Stylization" <sub>⭐ 477 · Python</sub>
-- [cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) - (ECCV'20) Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation (code&data-processing pipeline) <sub>⭐ 469 · Python</sub>
-- [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library <sub>⭐ 469 · Jupyter Notebook</sub>
-- [sinAshish/Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention) - (JBHI) Code for our paper "Multi-scale Guided Attention for Medical Image Segmentation" <sub>⭐ 463 · Python</sub>
-- [pyushkevich/itksnap](https://github.com/pyushkevich/itksnap) - ITK-SNAP medical image segmentation tool <sub>⭐ 457 · C++</sub>
-- [ethanhe42/u-net](https://github.com/ethanhe42/u-net) - U-Net: Convolutional Networks for Biomedical Image Segmentation <sub>⭐ 452 · Python</sub>
-- [Rubics-Xuan/TransBTS](https://github.com/Rubics-Xuan/TransBTS) - This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021. 2) TransBTSV2: Towards… <sub>⭐ 452 · Python</sub>
-- [asanakoy/kaggle_carvana_segmentation](https://github.com/asanakoy/kaggle_carvana_segmentation) - Code for the 1st place model in Carvana Image Masking Challenge <sub>⭐ 451 · Python</sub>
-- [aliaksandr960/segment-anything-eo](https://github.com/aliaksandr960/segment-anything-eo) - Earth observation tools for Meta AI Segment Anything <sub>⭐ 449 · Jupyter Notebook</sub>
-- [MrBlankness/LightM-UNet](https://github.com/MrBlankness/LightM-UNet) - Pytorch implementation of "LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation" <sub>⭐ 448 · Python</sub>
-- [MarcoForte/closed-form-matting](https://github.com/MarcoForte/closed-form-matting) - Python implementation of A. Levin D. Lischinski and Y. Weiss. A Closed Form Solution to Natural Image Matting. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), June 2006, New York <sub>⭐ 444 · Python</sub>
-- [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything) - Combining Segment Anything (SAM) with Grounded DINO for zero-shot object detection and CLIPSeg for zero-shot segmentation <sub>⭐ 438 · Jupyter Notebook</sub>
-- [xrli-U/MuSc](https://github.com/xrli-U/MuSc) - (ICLR2024) This is an official PyTorch implementation for "MuSc : Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images". <sub>⭐ 438 · Python</sub>
-- [wchstrife/Awesome-Image-Matting](https://github.com/wchstrife/Awesome-Image-Matting) - A curated list of deep learning image matting papers and codes <sub>⭐ 436</sub>
-- [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - (ICLR 2024 oral; top 1.2%) Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes) <sub>⭐ 433 · Python</sub>
-- [vietanhdev/samexporter](https://github.com/vietanhdev/samexporter) - Export and run SAM, MobileSAM, EfficientSAM, SAM 2/2.1, and SAM 3 as ONNX for portable image segmentation <sub>⭐ 429 · Python</sub>
-- [coolzhao/Geo-SAM](https://github.com/coolzhao/Geo-SAM) - A QGIS plugin tool using Segment Anything Model (SAM) to accelerate segmenting or delineating landforms in geospatial raster images. <sub>⭐ 428 · Python</sub>
-- [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning. <sub>⭐ 426 · JavaScript</sub>
-- [frankkramer-lab/MIScnn](https://github.com/frankkramer-lab/MIScnn) - A framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning <sub>⭐ 423 · Python</sub>
-- [naver-ai/ZIM](https://github.com/naver-ai/ZIM) - (ICCV 2025, Highlight) ZIM: Zero-Shot Image Matting for Anything <sub>⭐ 422 · Python</sub>
-- [Saiyan-World/grounded-segment-any-parts](https://github.com/Saiyan-World/grounded-segment-any-parts) - Grounded Segment Anything: From Objects to Parts <sub>⭐ 419 · Jupyter Notebook</sub>
-- [MenghaoGuo/AutoDeeplab](https://github.com/MenghaoGuo/AutoDeeplab) - Pytorch Implementation the paper Auto-DeepLab Hierarchical Neural Architecture Search for Semantic Image Segmentation <sub>⭐ 411 · Python</sub>
-- [iwatake2222/self-driving-ish_computer_vision_system](https://github.com/iwatake2222/self-driving-ish_computer_vision_system) - This project generates images you've probably seen in autonomous driving demo. Object Detection, Lane Detection, Road Segmentation, Depth Estimation using TensorRT <sub>⭐ 410 · C++</sub>
-- [JizhiziLi/AIM](https://github.com/JizhiziLi/AIM) - (IJCAI'21) Deep Automatic Natural Image Matting <sub>⭐ 409 · Python</sub>
-- [xamyzhao/brainstorm](https://github.com/xamyzhao/brainstorm) - Implementation of "Data augmentation using learned transforms for one-shot medical image segmentation" <sub>⭐ 405 · Python</sub>
-- [hellochick/ICNet-tensorflow](https://github.com/hellochick/ICNet-tensorflow) - TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images". <sub>⭐ 403 · Jupyter Notebook</sub>
-- [arnab39/FewShot_GAN-Unet3D](https://github.com/arnab39/FewShot_GAN-Unet3D) - Tensorflow implementation of our paper: Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning <sub>⭐ 400 · Python</sub>
-- [ihmily/image-matting](https://github.com/ihmily/image-matting) - a simple online image matting api based on cv_unet_image-matting and cv_unet_universal-matting model <sub>⭐ 398 · Python</sub>
-- [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally. <sub>⭐ 398 · TypeScript</sub>
-- [lujiazho/SegDrawer](https://github.com/lujiazho/SegDrawer) - Simple static web-based mask drawer, supporting semantic segmentation and video segmentation with interactive Segment Anything Model 2 (SAM2). <sub>⭐ 397 · Python</sub>
-- [zsef123/PointRend-PyTorch](https://github.com/zsef123/PointRend-PyTorch) - A PyTorch implementation of PointRend: Image Segmentation as Rendering <sub>⭐ 396 · Jupyter Notebook</sub>
-- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - (AAAI2026) X-SAM: From Segment Anything to Any Segmentation <sub>⭐ 394 · Python</sub>
-- [HUANGLIZI/LViT](https://github.com/HUANGLIZI/LViT) - (IEEE Transactions on Medical Imaging/TMI 2023) This repo is the official implementation of "LViT: Language meets Vision Transformer in Medical Image Segmentation" <sub>⭐ 392 · Python</sub>
-- [jiwoon-ahn/psa](https://github.com/jiwoon-ahn/psa) - Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation, CVPR 2018 <sub>⭐ 391 · Python</sub>
-- [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM) - Experiment on combining CLIP with SAM to do open-vocabulary image segmentation. <sub>⭐ 390 · Jupyter Notebook</sub>
-- [BAAI-DCAI/SegVol](https://github.com/BAAI-DCAI/SegVol) - The official code for "SegVol: Universal and Interactive Volumetric Medical Image Segmentation". <sub>⭐ 389 · Python</sub>
-- [jeya-maria-jose/KiU-Net-pytorch](https://github.com/jeya-maria-jose/KiU-Net-pytorch) - Official Pytorch Code of KiU-Net for Image/3D Segmentation - MICCAI 2020 (Oral), IEEE TMI <sub>⭐ 389 · Python</sub>
-- [haochenheheda/segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator) - We developed a python UI based on labelme and segment-anything for pixel-level annotation. It support multiple masks generation by SAM(box/point prompt), efficient polygon modification and category… <sub>⭐ 387 · Python</sub>
-- [visinf/1-stage-wseg](https://github.com/visinf/1-stage-wseg) - Single-Stage Semantic Segmentation from Image Labels (CVPR 2020) <sub>⭐ 385 · Python</sub>
-- [ViTAE-Transformer/SAMRS](https://github.com/ViTAE-Transformer/SAMRS) - The official repo for (NeurIPS'23) "SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model" <sub>⭐ 384 · Python</sub>
-- [Vooban/Smoothly-Blend-Image-Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye. <sub>⭐ 381 · Python</sub>
-- [ymy-k/Hi-SAM](https://github.com/ymy-k/Hi-SAM) - (IEEE TPAMI) Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation <sub>⭐ 378 · Python</sub>
-- [lannguyen0910/food-recognition](https://github.com/lannguyen0910/food-recognition) - Food analysis baseline with Theseus. Integrate object detection, image classification and multi-class semantic segmentation <sub>⭐ 375 · Python</sub>
-- [shreyaspadhy/UNet-Zoo](https://github.com/shreyaspadhy/UNet-Zoo) - A collection of UNet and hybrid architectures in PyTorch for 2D and 3D Biomedical Image segmentation <sub>⭐ 375 · Python</sub>
-- [jsbroks/imantics](https://github.com/jsbroks/imantics) - Reactive python package for managing, creating and visualizing different deep-learning image annotation formats <sub>⭐ 374 · Python</sub>
-- [PABannier/sam3.cpp](https://github.com/PABannier/sam3.cpp) - Fast state-of-the-art image and video segmentation in portable C/C++ <sub>⭐ 374 · C++</sub>
-- [uni-medical/STU-Net](https://github.com/uni-medical/STU-Net) - The largest pre-trained medical image segmentation model (1.4B parameters) based on the largest public dataset (>100k annotations), up until April 2023. <sub>⭐ 373 · Python</sub>
-- [HMS-Core/hms-ml-demo](https://github.com/HMS-Core/hms-ml-demo) - HMS ML Demo provides an example of integrating Huawei ML Kit service into applications. This example demonstrates how to integrate services provided by ML Kit, such as face detection, text… <sub>⭐ 372 · Java</sub>
-- [s-gupta/rcnn-depth](https://github.com/s-gupta/rcnn-depth) - Learning Rich Features from RGB-D Images for Object Detection and Segmentation <sub>⭐ 371 · MATLAB</sub>
-- [Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) - A collection of project, papers, and source code for Meta AI's Segment Anything Model (SAM) and related studies. <sub>⭐ 371</sub>
-- [NITR098/Awesome-U-Net](https://github.com/NITR098/Awesome-U-Net) - Official repo for Medical Image Segmentation Review: The Success of U-Net <sub>⭐ 370 · Jupyter Notebook</sub>
-- [robustsam/RobustSAM](https://github.com/robustsam/RobustSAM) - RobustSAM: Segment Anything Robustly on Degraded Images (CVPR 2024 Highlight) <sub>⭐ 369 · Python</sub>
-- [VITA-Group/GLNet](https://github.com/VITA-Group/GLNet) - (CVPR 2019, Oral) "Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images" by Wuyang Chen*, Ziyu Jiang*, Zhangyang Wang, Kexin Cui, and Xiaoning Qian <sub>⭐ 368 · Python</sub>
-- [yifangao112/Camyla](https://github.com/yifangao112/Camyla) - Scaling Autonomous Research in Medical Image Segmentation <sub>⭐ 367 · Python</sub>
-- [luwill/Deep-Learning-Image-Segmentation](https://github.com/luwill/Deep-Learning-Image-Segmentation) - Deep Learning Image Segmentation: Theory and Practice <sub>⭐ 366 · C++</sub>
-- [czg1225/SlimSAM](https://github.com/czg1225/SlimSAM) - (NeurIPS 2024) SlimSAM: 0.1% Data Makes Segment Anything Slim <sub>⭐ 363 · Python</sub>
-- [ZiyuGuo99/SAM2Point](https://github.com/ZiyuGuo99/SAM2Point) - The Most Faithful Implementation of Segment Anything (SAM) in 3D <sub>⭐ 363 · Python</sub>
-- [kaixin96/PANet](https://github.com/kaixin96/PANet) - Code for our ICCV 2019 paper PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment <sub>⭐ 359 · Python</sub>
-- [DengPingFan/Inf-Net](https://github.com/DengPingFan/Inf-Net) - Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images, IEEE TMI 2020. <sub>⭐ 355 · Python</sub>
-- [SLDGroup/EMCAD](https://github.com/SLDGroup/EMCAD) - Official repository of CVPR 2024 paper "EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation" <sub>⭐ 354 · Python</sub>
-- [Curt-Park/segment-anything-with-clip](https://github.com/Curt-Park/segment-anything-with-clip) - Segment Anything combined with CLIP <sub>⭐ 353 · Python</sub>
-- [Slava/label-tool](https://github.com/Slava/label-tool) - Web application for image labeling and segmentation <sub>⭐ 352 · JavaScript</sub>
-- [KKKSQJ/DeepLearning](https://github.com/KKKSQJ/DeepLearning) - A deep learning code base, mainly for paper replication, in the areas of image recognition, object detection, image segmentation, self-supervision, etc. Each project can be run independently, and… <sub>⭐ 351 · Python</sub>
-- [reachsumit/deep-unet-for-satellite-image-segmentation](https://github.com/reachsumit/deep-unet-for-satellite-image-segmentation) - Satellite Imagery Feature Detection with SpaceNet dataset using deep UNet <sub>⭐ 351 · Python</sub>
-- [SimVascular/SimVascular](https://github.com/SimVascular/SimVascular) - A comprehensive opensource software package providing a complete pipeline from medical image data segmentation to patient specific blood flow simulation and analysis. <sub>⭐ 351 · C++</sub>
-- [JerryX1110/awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions) - Segment-anything related awesome extensions/projects/repos. <sub>⭐ 348</sub>
-- [ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE) - MOOSE (Multi-organ objective segmentation) a data-centric AI solution that generates multilabel organ segmentations to facilitate systemic TB whole-person research.The pipeline is based on nn-UNet… <sub>⭐ 346 · Python</sub>
-- [junqiangchen/PytorchDeepLearing](https://github.com/junqiangchen/PytorchDeepLearing) - Meidcal Image Segmentation Pytorch Version <sub>⭐ 344 · Python</sub>
-- [yhygao/CBIM-Medical-Image-Segmentation](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) - A PyTorch framework for medical image segmentation <sub>⭐ 344 · Python</sub>
-- [karimz1/imgcompress](https://github.com/karimz1/imgcompress) - Imgcompress is a self-hosted image processing toolbox that handles compression, format conversion, and AI background removal in a single web interface. It supports over 70 input formats (including… <sub>⭐ 342 · TypeScript</sub>
-- [sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow](https://github.com/sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow) - Use Convolutional Recurrent Neural Network to recognize the Handwritten line text image without pre segmentation into words or characters. Use CTC loss Function to train. <sub>⭐ 342 · Python</sub>
-- [karolzak/keras-unet](https://github.com/karolzak/keras-unet) - Helper package with multiple U-Net implementations in Keras as well as useful utility tools helpful when working with image semantic segmentation tasks. This library and underlying tools come from… <sub>⭐ 341 · Python</sub>
-- [Lydorn/Polygonization-by-Frame-Field-Learning](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) - This repository contains the code for our fast polygonal building extraction from overhead images pipeline. <sub>⭐ 341 · Python</sub>
-- [HiLab-git/DTC](https://github.com/HiLab-git/DTC) - Semi-supervised Medical Image Segmentation through Dual-task Consistency <sub>⭐ 338 · Python</sub>
-- [JialeCao001/SipMask](https://github.com/JialeCao001/SipMask) - SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation (ECCV2020) <sub>⭐ 337 · Jupyter Notebook</sub>
-- [YtongXie/CoTr](https://github.com/YtongXie/CoTr) - (MICCAI2021) CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation <sub>⭐ 334 · Python</sub>
-- [Mycenae/PaperWeekly](https://github.com/Mycenae/PaperWeekly) - Papers for CNN, object detection, keypoint detection, semantic segmentation, medical image processing, SLAM, etc. <sub>⭐ 333</sub>
-- [Visceral-Project/EvaluateSegmentation](https://github.com/Visceral-Project/EvaluateSegmentation) - A program to evaluate the quality of image segmentations. <sub>⭐ 332 · C++</sub>
-- [HusseinYoussef/Arabic-OCR](https://github.com/HusseinYoussef/Arabic-OCR) - OCR system for Arabic language that converts images of typed text to machine-encoded text. <sub>⭐ 331 · Python</sub>
-- [Joey-S-Liu/MedSAM3](https://github.com/Joey-S-Liu/MedSAM3) - MedSAM3: Delving into Segment Anything with Medical Concepts <sub>⭐ 329 · Python</sub>
-- [nv-nguyen/cnos](https://github.com/nv-nguyen/cnos) - (ICCV 2023 R6D) PyTorch implementation of CNOS: A Strong Baseline for CAD-based Novel Object Segmentation based on Segmenting Anything and DINOv2 <sub>⭐ 326 · Python</sub>
-- [yifangao112/DinoUNet](https://github.com/yifangao112/DinoUNet) - Official repository for Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation. (DINOv3) <sub>⭐ 324 · Python</sub>
-- [Beckschen/3D-TransUNet](https://github.com/Beckschen/3D-TransUNet) - This is the official repository for the paper "3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers" <sub>⭐ 321 · Python</sub>
-- [manideep2510/eye-in-the-sky](https://github.com/manideep2510/eye-in-the-sky) - Satellite Image Classification using semantic segmentation methods in deep learning <sub>⭐ 320 · Python</sub>
-- [JuliaWolleb/Diffusion-based-Segmentation](https://github.com/JuliaWolleb/Diffusion-based-Segmentation) - This is the official Pytorch implementation of the paper "Diffusion Models for Implicit Image Segmentation Ensembles". <sub>⭐ 318 · Python</sub>
-- [RapidAI/LabelConvert](https://github.com/RapidAI/LabelConvert) - A tool for object detection and image segmentation dataset format conversion. <sub>⭐ 318 · Python</sub>
-- [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) - This is an implementation of zero-shot instance segmentation using Segment Anything. <sub>⭐ 317 · Python</sub>
-- [HLearning/unet_keras](https://github.com/HLearning/unet_keras) - unet_keras use image Semantic segmentation <sub>⭐ 315 · Python</sub>
-- [Aryan-Chharia/Computer-Vision-Projects](https://github.com/Aryan-Chharia/Computer-Vision-Projects) - Check out my Computer Vision Repository for projects showcasing advanced image processing techniques like object detection, image stitching, and segmentation using Python and OpenCV. Whether you're a… <sub>⭐ 314 · Jupyter Notebook</sub>
-- [zhaoziheng/SAT](https://github.com/zhaoziheng/SAT) - (npj Digital Medicine) The official repository for "Large-Vocabulary Segmentation for Medical Images with Text Prompts" <sub>⭐ 308 · Python</sub>
-- [bowang-lab/MedSAMSlicer](https://github.com/bowang-lab/MedSAMSlicer) - 3D Slicer Plugin for Segment anything in medical images <sub>⭐ 304 · Python</sub>
-- [carrenD/Medical-Cross-Modality-Domain-Adaptation](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation) - (IJCAI'18) Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss (code&data) <sub>⭐ 304 · Python</sub>
-- [chaozhong2010/HRSID](https://github.com/chaozhong2010/HRSID) - HRSID: high resolution sar images dataset for ship detection, semantic segmentation, and instance segmentation tasks. <sub>⭐ 304</sub>
-- [michaelowenliu/awesome-image-matting](https://github.com/michaelowenliu/awesome-image-matting) - A collection of AWESOME things about image matting. <sub>⭐ 302</sub>
-- [AngeLouCN/DC-UNet](https://github.com/AngeLouCN/DC-UNet) - We proposed a novel U-Net-based model -- DC-UNet to do medical image segmentation. <sub>⭐ 300 · Python</sub>
-- [nicolov/segmentation_keras](https://github.com/nicolov/segmentation_keras) - DilatedNet in Keras for image segmentation <sub>⭐ 300 · Python</sub>
-- [ammar-n-abbas/FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2) - FoundationPoseROS2 is a ROS2-integrated system for 6D object pose estimation and tracking, based on the FoundationPose architecture. It uses RealSense2 with the Segment Anything Model 2 (SAM2)… <sub>⭐ 298 · Python</sub>
-- [Project-MONAI/VISTA](https://github.com/Project-MONAI/VISTA) - MONAI Versatile Imaging Segmentation and Annotation <sub>⭐ 298 · Python</sub>
-- [huochaitiantang/pytorch-deep-image-matting](https://github.com/huochaitiantang/pytorch-deep-image-matting) - Pytorch implementation of deep image matting <sub>⭐ 297 · Python</sub>
-- [htcr/sam_road](https://github.com/htcr/sam_road) - Segment Anything Model for large-scale, vectorized road network extraction from aerial imagery. CVPRW 2024 <sub>⭐ 296 · Python</sub>
-- [raadon96/MVTec-Anomaly-Detection](https://github.com/raadon96/MVTec-Anomaly-Detection) - This project proposes an end-to-end framework for semi-supervised Anomaly Detection and Segmentation in images based on Deep Learning. <sub>⭐ 296 · Python</sub>
-- [stefanknegt/Probabilistic-Unet-Pytorch](https://github.com/stefanknegt/Probabilistic-Unet-Pytorch) - A Probabilistic U-Net for segmentation of ambiguous images implemented in PyTorch <sub>⭐ 296 · Python</sub>
-- [berkeley-hipie/HIPIE](https://github.com/berkeley-hipie/HIPIE) - (NeurIPS2023) Code release for "Hierarchical Open-vocabulary Universal Image Segmentation" <sub>⭐ 293 · Jupyter Notebook</sub>
-- [script-Yang/segdino](https://github.com/script-Yang/segdino) - SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3 <sub>⭐ 293 · Python</sub>
-- [google-deepmind/multi_object_datasets](https://github.com/google-deepmind/multi_object_datasets) - Multi-object image datasets with ground-truth segmentation masks and generative factors. <sub>⭐ 289 · Python</sub>
-- [ibaiGorordo/ONNX-SAM2-Segment-Anything](https://github.com/ibaiGorordo/ONNX-SAM2-Segment-Anything) - Python scripts for the Segment Anythin 2 (SAM2) model in ONNX <sub>⭐ 289 · Python</sub>
-- [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF) - Segment-anything interactively in NeRF. <sub>⭐ 287 · Python</sub>
-- [martinkersner/py-img-seg-eval](https://github.com/martinkersner/py-img-seg-eval) - Evaluation metrics for image segmentation inspired by paper Fully Convolutional Networks for Semantic Segmentation <sub>⭐ 285 · Python</sub>
-- [likyoo/SegEarth-OV](https://github.com/likyoo/SegEarth-OV) - (CVPR 2025 Oral) SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images <sub>⭐ 283 · Python</sub>
-- [TobyPDE/FRRN](https://github.com/TobyPDE/FRRN) - Full Resolution Residual Networks for Semantic Image Segmentation <sub>⭐ 282 · Python</sub>
-- [yolain/ComfyUI-Easy-Sam3](https://github.com/yolain/ComfyUI-Easy-Sam3) - A ComfyUI custom node package for SAM3 (Segment Anything Model 3), providing powerful image and video segmentation capabilities with text prompts. <sub>⭐ 281 · Python</sub>
-- [marc-gorriz/CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) - Active Deep Learning for Medical Imaging Segmentation <sub>⭐ 280 · Python</sub>
-- [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) - CGNet: A Light-weight Context Guided Network for Semantic Segmentation (IEEE Transactions on Image Processing 2020) <sub>⭐ 279 · Python</sub>
-- [Ezaldeen99/BackgroundRemoval](https://github.com/Ezaldeen99/BackgroundRemoval) - Background Removal written with swift using u2net model <sub>⭐ 278 · Swift</sub>
-- [githubharald/WordDetector](https://github.com/githubharald/WordDetector) - Detect handwritten words (classic image processing based method). <sub>⭐ 276 · Python</sub>
-- [embedeep/Free-TPU](https://github.com/embedeep/Free-TPU) - Free TPU for FPGA with compiler supporting Pytorch/Caffe/Darknet/NCNN. An AI processor for using Xilinx FPGA to solve image classification, detection, and segmentation problem. <sub>⭐ 275 · Shell</sub>
-- [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more. <sub>⭐ 274</sub>
-- [xushilin1/RMP-SAM](https://github.com/xushilin1/RMP-SAM) - (ICLR 2025 oral) RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything <sub>⭐ 274 · Python</sub>
-- [MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) - Free-Text Promptable Universal 3D Medical Image Segmentation <sub>⭐ 273 · Python</sub>
-- [Kingfish404/segment-anything-webui](https://github.com/Kingfish404/segment-anything-webui) - Yet another SAM webui + CLIP <sub>⭐ 272 · TypeScript</sub>
-- [durandtibo/wildcat.pytorch](https://github.com/durandtibo/wildcat.pytorch) - PyTorch implementation of "WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation", CVPR 2017 <sub>⭐ 269 · Python</sub>
-- [Perceive-Anything/PAM](https://github.com/Perceive-Anything/PAM) - Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos <sub>⭐ 269 · Jupyter Notebook</sub>
-- [xmindflow/deformableLKA](https://github.com/xmindflow/deformableLKA) - (WACV 2024) Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation <sub>⭐ 269 · Python</sub>
-- [arahusky/Tensorflow-Segmentation](https://github.com/arahusky/Tensorflow-Segmentation) - Semantic image segmentation in Tensorflow <sub>⭐ 268 · Jupyter Notebook</sub>
-- [blakeliu/awesome-cell-detection-segmentation](https://github.com/blakeliu/awesome-cell-detection-segmentation) - nucleus/cell and histopathology image classification,detection,segmentation <sub>⭐ 265</sub>
-- [neverbiasu/ComfyUI-SAM2](https://github.com/neverbiasu/ComfyUI-SAM2) - A ComfyUI extension for Segment-Anything 2 <sub>⭐ 265 · Python</sub>
-- [uni-medical/IMIS-Bench](https://github.com/uni-medical/IMIS-Bench) - Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline <sub>⭐ 265 · Jupyter Notebook</sub>
-- [Yonv1943/Unsupervised-Segmentation](https://github.com/Yonv1943/Unsupervised-Segmentation) - A high performance impermentation of Unsupervised Image Segmentation by Backpropagation - Asako Kanezaki <sub>⭐ 265 · Python</sub>
-- [liuquande/FedDG-ELCFS](https://github.com/liuquande/FedDG-ELCFS) - (CVPR'21) FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space <sub>⭐ 263 · Python</sub>
-- [mitmul/ssai-cnn](https://github.com/mitmul/ssai-cnn) - Semantic Segmentation for Aerial / Satellite Images with Convolutional Neural Networks including an unofficial implementation of Volodymyr Mnih's methods <sub>⭐ 262 · Python</sub>
-- [nadeemlab/DeepLIIF](https://github.com/nadeemlab/DeepLIIF) - Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) (Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Histopathology'23, MICCAI'24, MICCAI'26) <sub>⭐ 262 · Python</sub>
-- [uncbiag/SimpleClick](https://github.com/uncbiag/SimpleClick) - SimpleClick: Interactive Image Segmentation with Simple Vision Transformers (ICCV 2023) <sub>⭐ 260 · Python</sub>
-- [AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - Aerial Imagery dataset for fire detection: classification and segmentation (Unmanned Aerial Vehicle (UAV)) <sub>⭐ 258 · Python</sub>
-- [DebeshJha/ResUNetPlusPlus](https://github.com/DebeshJha/ResUNetPlusPlus) - Official code for ResUNetplusplus for medical image segmentation (TensorFlow & Pytorch implementation) <sub>⭐ 256 · Python</sub>
-- [1e12Leon/RemoteSAM](https://github.com/1e12Leon/RemoteSAM) - (ACM MM 25) Official repo of "RemoteSAM: Towards Segment Anything for Earth Observation" <sub>⭐ 251 · Python</sub>
-- [MIC-DKFZ/napari-sam](https://github.com/MIC-DKFZ/napari-sam) - Segment anything with our Napari integration of Meta AI's Segment Anything Model (SAM)! <sub>⭐ 250 · Python</sub>
-- [akolesnikoff/SEC](https://github.com/akolesnikoff/SEC) - Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation <sub>⭐ 247 · Jupyter Notebook</sub>
-- [HiLab-git/WSL4MIS](https://github.com/HiLab-git/WSL4MIS) - Scribbles or Points-based weakly-supervised learning for medical image segmentation, a strong baseline, and tutorial for research and application. <sub>⭐ 246 · Python</sub>
-- [instanseg/instanseg](https://github.com/instanseg/instanseg) - InstanSeg is a pytorch-based cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images. <sub>⭐ 245 · Python</sub>
-- [DebeshJha/2020-CBMS-DoubleU-Net](https://github.com/DebeshJha/2020-CBMS-DoubleU-Net) - Official implementation of DoubleU-Net for Semantic Image Segmentation in TensorFlow & Pytorch (Nominated for Best Paper Award (IEEE CBMS)) <sub>⭐ 241 · Python</sub>
-- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - (ICCV 2023) A curated list of resources on implicit neural representations in Medical Imaging <sub>⭐ 241</sub>
-- [earth-insights/SegEarth-OV-3](https://github.com/earth-insights/SegEarth-OV-3) - SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images <sub>⭐ 240 · Python</sub>
-- [AngeLouCN/SAM-2_Surgical_Video](https://github.com/AngeLouCN/SAM-2_Surgical_Video) - Segment Anything 2 for Surgical Video Segmentation <sub>⭐ 239 · Jupyter Notebook</sub>
-- [CN-ADLab/SAM4D](https://github.com/CN-ADLab/SAM4D) - (ICCV 2025) SAM4D: Segment Anything in Camera and LiDAR Streams <sub>⭐ 238 · Jupyter Notebook</sub>
-- [drprojects/DeepViewAgg](https://github.com/drprojects/DeepViewAgg) - (CVPR'22 Best Paper Finalist) Official PyTorch implementation of the method presented in "Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation" <sub>⭐ 237 · Python</sub>
-- [huangmozhilv/u2net_torch](https://github.com/huangmozhilv/u2net_torch) - MICCAI2019:3D U$^2$-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation <sub>⭐ 237 · Python</sub>
-- [mc-lan/Awesome-MLLM-Segmentation](https://github.com/mc-lan/Awesome-MLLM-Segmentation) - A curated list of publications on image and video segmentation leveraging Multimodal Large Language Models (MLLMs), highlighting state-of-the-art methods, innovative applications, and key… <sub>⭐ 237</sub>
-- [biasvariancelabs/aitlas](https://github.com/biasvariancelabs/aitlas) - AiTLAS implements state-of-the-art AI methods for exploratory and predictive analysis of satellite images. <sub>⭐ 235 · Python</sub>
-- [ricklisz/MedDINOv3](https://github.com/ricklisz/MedDINOv3) - MedDINOv3: How to adapt vision foundation models for medical image segmentation? <sub>⭐ 235 · Python</sub>
-- [ChengBinJin/V-GAN-tensorflow](https://github.com/ChengBinJin/V-GAN-tensorflow) - A tensorflow implementation of "Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks" <sub>⭐ 232 · Python</sub>
-- [ViTAE-Transformer/ViTAE-Transformer-Matting](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting) - A comprehensive list (AIM@IJCAI'21, P3M@MM'21, GFM@IJCV'22, RIM@CVPR'23, P3MNet@IJCV'23) of our research works related to image matting, including papers, codes, datasets, demos, and citations. Note… <sub>⭐ 232 · TeX</sub>
-- [xk-huang/segment-caption-anything](https://github.com/xk-huang/segment-caption-anything) - (CVPR'24) The repository provides code for running inference and training for "Segment and Caption Anything" (SCA) , links for downloading the trained model checkpoints, and example notebooks /… <sub>⭐ 232 · Python</sub>
-- [u2seg/U2Seg](https://github.com/u2seg/U2Seg) - (CVPR 2024) Code release for "Unsupervised Universal Image Segmentation" <sub>⭐ 231 · Python</sub>
-- [MaybeShewill-CV/bisenetv2-tensorflow](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow) - Unofficial tensorflow implementation of real-time scene image segmentation model "BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation" <sub>⭐ 230 · Python</sub>
-- [zrporz/AutoSeg-SAM2](https://github.com/zrporz/AutoSeg-SAM2) - This is an automatic full segmentation tool based on Segment-Anything-2 and Segment-Anything-1. Our tool performs automatic full segmentation of the video, enabling the tracking of each object and… <sub>⭐ 230 · Python</sub>
-- [AIM-Research-Lab/Medical-SAM3](https://github.com/AIM-Research-Lab/Medical-SAM3) - Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation <sub>⭐ 229 · Python</sub>
-- [DYZhang09/SAM3D](https://github.com/DYZhang09/SAM3D) - (SCIS) SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model <sub>⭐ 229 · Python</sub>
-- [askerlee/segtran](https://github.com/askerlee/segtran) - Medical Image Segmentation using Squeeze-and-Expansion Transformers <sub>⭐ 228 · Python</sub>
-- [dibrale/samist](https://github.com/dibrale/samist) - Segment Anything Model (SAM) Image Segmentation Tool - SAMIST. Python GUI for image segmentation using SAM by Meta AI. <sub>⭐ 227 · Python</sub>
-- [AngeLouCN/CFPNet-Medicine](https://github.com/AngeLouCN/CFPNet-Medicine) - CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation <sub>⭐ 226 · Python</sub>
-- [VSainteuf/utae-paps](https://github.com/VSainteuf/utae-paps) - PyTorch implementation of U-TAE and PaPs for satellite image time series panoptic segmentation. <sub>⭐ 226 · Jupyter Notebook</sub>
-- [DeepMed-Lab-ECNU/BCP](https://github.com/DeepMed-Lab-ECNU/BCP) - Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation (CVPR 2023) <sub>⭐ 224 · Python</sub>
-- [mazurowski-lab/segmentation-guided-diffusion](https://github.com/mazurowski-lab/segmentation-guided-diffusion) - (MICCAI 2024) Easy diffusion models (optionally with segmentation guidance) for medical images and beyond. <sub>⭐ 224 · Python</sub>
-- [halleewong/ScribblePrompt](https://github.com/halleewong/ScribblePrompt) - (ECCV 2024) ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image <sub>⭐ 222 · Jupyter Notebook</sub>
+- [wasserth/TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - CTとMR画像の重要な解剖構造物100基を堅牢な分別化するためのツール <sub>⭐ 3.0k · Python</sub>
+- [divamgupta/image-segmentation-keras](https://github.com/divamgupta/image-segmentation-keras) - KerasのSegnet、FCN、UNet、PSPNetおよび他のモデルの実装。 <sub>⭐ 3.0k · Python</sub>
+- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - (ECCV 2024) 紙「Semantic-SAM:任意の粒度で何かをセグメント化し、認識」の公式実装 <sub>⭐ 2.9k · Python</sub>
+- [HiLab-git/SSL4MIS](https://github.com/HiLab-git/SSL4MIS) - 医療画像のセグメンテーション、文献レビューとコード実装のコレクションのためのセミ・スーパーバイスド・ラーニング。 <sub>⭐ 2.7k · Python</sub>
+- [Slicer/Slicer](https://github.com/Slicer/Slicer) - 複数のプラットフォーム、視覚化およびイメージの計算のための自由なオープンソース ソフトウェア。 <sub>⭐ 2.6k · C++</sub>
+- [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - テキストプロンプトでSAM <sub>⭐ 2.6k · Python</sub>
+- [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - 新しいプロジェクトを高精度にディカムトムースな画像のセグメンテーションで再現 <sub>⭐ 2.6k · Jupyter Notebook</sub>
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - 効率的なSAM:効果的なセグメントのための過度にマスクされた画像の事前トレイン <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy は、メタのセグメンテーションをイメージから抽出し、クリップボードにコピーする際に使用する Chrome 拡張機能です。 <sub>⭐ 2.5k · TypeScript</sub>
+- [HuCaoFighting/Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet) - (ECCVW 2022) 作業用コード「Swin-Unet:医療画像のセグメンテーションのための純正トランス」 <sub>⭐ 2.4k · Python</sub>
+- [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - 医療用画像のための素晴らしいガン <sub>⭐ 2.4k</sub>
+- [fudan-zvg/Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - セグメント別データセット(SA-1B)の初期セマンティックラベリングとして機能する自動高密度カテゴリアノテーションエンジン。 <sub>⭐ 2.3k · Python</sub>
+- [jsbroks/coco-annotator](https://github.com/jsbroks/coco-annotator) - オブジェクトの検出、ローカリゼーションおよびキーポイントのためのWebベースの画像セグメンテーションツール <sub>⭐ 2.3k · Vue</sub>
+- [bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets) - 画像のセグメンテーションのためのさまざまな種類のUnetモデルの実装 - Unet、RCNN-Unet、アテンションUnet、RCNN-Attention Unet、ネストされたUnet <sub>⭐ 2.3k · Python</sub>
+- [ellisdg/3DUnetCNN](https://github.com/ellisdg/3DUnetCNN) - 医療画像のセグメンテーション用に設計されたPytorch 3D U-Netコンボリューションニューラルネットワーク(CNN) <sub>⭐ 2.2k · Python</sub>
+- [ozan-oktay/Attention-Gated-Networks](https://github.com/ozan-oktay/Attention-Gated-Networks) - 条件付きニューラルネットワーク/医療画像の分類およびセグメンテーションにおける注意ゲートの使用 <sub>⭐ 2.1k · Python</sub>
+- [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - ビットマップ画像とポイントクラウド用のWebラベリングツール <sub>⭐ 2.0k · JavaScript</sub>
+- [black0017/MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch) - マルチモーダル2D/3D医療画像のセグメンテーションのためのピトーチベースのディープラーニングフレームワーク <sub>⭐ 1.9k · Python</sub>
+- [jakeret/tf_unet](https://github.com/jakeret/tf_unet) - 画像のセグメンテーションのための汎用U-Net Tensorflow実装 <sub>⭐ 1.9k · Python</sub>
+- [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anythingは、画像のセグメンテーション、視覚キャプション、ChatGPTを組み合わせる汎用性の高いツールです。ユーザー設定のための多様な制御でカスタマイズされたキャプションを生成することができます。... <sub>⭐ 1.8k · Python</sub>
+- [SHI-Labs/OneFormer](https://github.com/SHI-Labs/OneFormer) - (CVPR 2023) OneFormer: 普遍的なイメージの区分への1つの変圧器 <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [JunMa11/SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg) - 様々な課題に基づくSOTA医療画像のセグメンテーション手法 <sub>⭐ 1.7k</sub>
+- [ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - 10秒で1ショットの任意のモデル(SAM)をパーソナライズ <sub>⭐ 1.7k · Python</sub>
+- [InsightSoftwareConsortium/ITK](https://github.com/InsightSoftwareConsortium/ITK) - Insight Toolkit(ITK) - 公式リポジトリ。 ITKは、処理、セグメンテーション、および2、3つ以上の科学画像の登録のための実証済みの空間指向アーキテクチャに基づいて構築されています... <sub>⭐ 1.7k · C++</sub>
+- [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - セグメントアニース+ 3D. 3Dに何かを持ち上げてみましょう。 <sub>⭐ 1.6k · Python</sub>
+- [tianrun-chen/SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) - メタAIのセグメントをアダプターとプロンプトで下流タスクに適応させる <sub>⭐ 1.6k · Python</sub>
+- [ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop) - Barbershop: セグメントマスク(SIGGRAPH Asia 2021)を用いたガンベースの画像合成 <sub>⭐ 1.4k · Python</sub>
+- [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - (ICCV'23 Workshop) SAM3D: 3Dシーンで何かをセグメント化 <sub>⭐ 1.4k · Python</sub>
+- [siyuanliii/masa](https://github.com/siyuanliii/masa) - CVPR24ハイライトペーパーの公式実装: 何かをセグメント別にマッチングする <sub>⭐ 1.4k · Python</sub>
+- [ImprintLab/MedSegDiff](https://github.com/ImprintLab/MedSegDiff) - Diffusionモデルを使用して、医療画像(AAAIほとんどの影響力紙)からOrgansをセグメント化/再構築する <sub>⭐ 1.4k · Python</sub>
+- [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - 医療検出ツールキットには、マスクR-CNN、網膜ネット、網膜U-Netなどの一般的なオブジェクトディテクタの2D + 3D実装とトレーニングおよび推論フレームワークが搭載されています。 <sub>⭐ 1.4k · Python</sub>
+- [timojl/clipseg](https://github.com/timojl/clipseg) - このリポジトリには、CVPR 2022紙のコード「テキストと画像プロンプトを使用してイメージセグメンテーション」が含まれています。 <sub>⭐ 1.3k · Python</sub>
+- [torrvision/crfasrnn](https://github.com/torrvision/crfasrnn) - このリポジトリには、ICCV 2015 紙で説明する意味のある画像のセグメンテーション方法のためのソースコードが含まれています。 並列ランダムフィールドは、Recurrent Neural Networks.... <sub>⭐ 1.3k · MATLAB</sub>
+- [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - セグメント・アニーシングのバッチ化されたオフライン推論指向バージョン <sub>⭐ 1.3k · Python</sub>
+- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - ローカルおよびクラウドの背景除去のためのPython SDK(pip install withoutbg) <sub>⭐ 1.3k · Python</sub>
+- [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) - 本リポジトリは、メタAIのセグメント別モデル(SAM)に関する初の総合調査です。 <sub>⭐ 1.2k</sub>
+- [kijai/ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2) - ComfyUI ノードは、セグメントアニース2を使用する <sub>⭐ 1.2k · Python</sub>
+- [MIC-DKFZ/batchgenerators](https://github.com/MIC-DKFZ/batchgenerators) - 2Dと3Dの画像分類およびセグメント化のためのデータ集計フレームワーク <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - コーナーストーンは、Webベースの医療画像アプリケーションを作成するために使用できるJavaScriptライブラリのセットです。 これは、OHIFビューアなどの放射線学アプリケーションを構築するためのフレームワークを提供します。 <sub>⭐ 1.1k · TypeScript</sub>
+- [YichiZhang98/SAM4MIS](https://github.com/YichiZhang98/SAM4MIS) - メディカルイメージのセグメンテーションのためのあらゆるモデルを区分して下さい:オープンソース プロジェクトの概要 <sub>⭐ 1.1k</sub>
+- [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: ViTの視点(CVPR 2024)およびRepViT-SAMからの移動式CNを再訪すること: 何でもを区分する実時間に向けること <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [storyicon/comfyui_segment_anything](https://github.com/storyicon/comfyui_segment_anything) - GroundingDino と SAM に基づいて、任意の要素をイメージでセグメント化するためにセマンティック文字列を使用します。sd-webui-segment-anything のコンフィウイバージョンです。 <sub>⭐ 1.1k · Python</sub>
+- [WangLibo1995/GeoSeg](https://github.com/WangLibo1995/GeoSeg) - UNetFormer:リモートセンシング都市シーンイメージの効率的なセマンティックセグメンテーションのためのUNetのようなトランス。また、衛星用の他のビジョントランスやCNNなど、空中画像... <sub>⭐ 1.1k · Python</sub>
+- [megvii-research/PETR](https://github.com/megvii-research/PETR) - (ECCV2022) PETR:マルチビュー3Dオブジェクト検出と(ICCV2023) PETRv2のポジションエンベディング変換:マルチカメラ画像から3D認識のための統一フレームワーク <sub>⭐ 1.1k · Python</sub>
+- [anuragxel/salt](https://github.com/anuragxel/salt) - ラベル作成ツールのすべてをセグメント化 <sub>⭐ 1.0k · Python</sub>
+- [qqlu/Entity](https://github.com/qqlu/Entity) - EntitySeg ツールボックス: オープンワールドと高品質画像のセグメンテーションに向けて <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [Xiaoqi-Zhao-DLUT/MSNet-M2SNet](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet) - (MIR 2026(M2SNet) & MICCAI 2022 GOALSチャレンジ&MCAI 2021(MSNet)) 医療画像のセグメンテーションのためのマルチスケール・サブトラクションネットワーク <sub>⭐ 1.0k · Python</sub>
+- [qubvel/ttach](https://github.com/qubvel/ttach) - PyTorchで画像テスト時間拡張! <sub>⭐ 1.0k · Python</sub>
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - ネフス(NeurIPS 2023 & IJCV 2025)で3Dに何かをセグメント化 <sub>⭐ 1.0k · Python</sub>
+- [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba) - U-Mamba:生物医学的イメージの区分のための長期依存性を高めて下さい <sub>⭐ 1.0k · Python</sub>
+- [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - 無料の画像の背景除去 - プライベート、クライアント側およびトランスによって供給される.js <sub>⭐ 1.0k · TypeScript</sub>
+- [foamliu/Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting) - ディープ・イメージのマット <sub>⭐ 991 · Python</sub>
+- [kadirnar/segment-anything-video](https://github.com/kadirnar/segment-anything-video) - MetaSeg: セグメントのすべてのリポジトリのパッケージバージョン <sub>⭐ 983 · Python</sub>
+- [uni-medical/SAM-Med3D](https://github.com/uni-medical/SAM-Med3D) - SAM-Med3D: 3D 容積測定の医学イメージのための有効な汎用的な分裂モデル <sub>⭐ 964 · Python</sub>
+- [NVlabs/ODISE](https://github.com/NVlabs/ODISE) - ODISEの公式PyTorch実装:テキスト・ツー・イメージ拡散モデル(CVPR 2023 Highlight)によるオープン・ボキャブラリー・パノプティックセグメンテーション <sub>⭐ 943 · Python</sub>
+- [JizhiziLi/GFM](https://github.com/JizhiziLi/GFM) - (IJCV 2022) 合成とリアルのブリッジング: エンドツーエンドのディープイメージ・マッシングに向けて <sub>⭐ 942 · Python</sub>
+- [ImprintLab/Medical-SAM2](https://github.com/ImprintLab/Medical-SAM2) - 医学SAM 2:区分のあらゆるモデル2による3D医学イメージを区分して下さい <sub>⭐ 934 · Python</sub>
+- [moemen95/Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template) - PyTorchプロジェクト向けのスケーラブルなテンプレート。画像のセグメンテーション、オブジェクト分類、ガンズと補強学習の例です。 <sub>⭐ 922 · Python</sub>
+- [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - NVIDIA TensorRT でリアルタイムを実行できる、蒸留セグメントのあらゆる(SAM)モデル <sub>⭐ 919 · Python</sub>
+- [Project-MONAI/MONAILabel](https://github.com/Project-MONAI/MONAILabel) - MONAI Labelはインテリジェントなオープンソースイメージラベル作成と学習ツールです。 <sub>⭐ 893 · Python</sub>
+- [xu-ji/IIC](https://github.com/xu-ji/IIC) - 監視されていない画像の分類とセグメンテーションのための不変な情報クラスタリング <sub>⭐ 890 · Python</sub>
+- [ANTsX/ANTsPy](https://github.com/ANTsX/ANTsPy) - Pythonで登録、セグメンテーションなどのアルゴリズムを使用して高速な医療画像解析ライブラリ。 <sub>⭐ 889 · Python</sub>
+- [usuyama/pytorch-unet](https://github.com/usuyama/pytorch-unet) - 画像のセグメンテーションのためのU-Net/FullyConvNet (FCN) のシンプルなPyTorch実装 <sub>⭐ 886 · Jupyter Notebook</sub>
+- [Slicer/SlicerGitSVNArchive](https://github.com/Slicer/SlicerGitSVNArchive) - OBSOLETE/マルチプラットフォーム、視覚化および画像処理のための無料のオープンソースソフトウェア。 <sub>⭐ 868 · C++</sub>
+- [ziqi-jin/finetune-anything](https://github.com/ziqi-jin/finetune-anything) - 特定のシナリオで、セマンティックセグメンテーション、マット、検出などのコンピュータビジョンタスクのためのファインチューンSAM(セグメント別モデル)... <sub>⭐ 868 · Python</sub>
+- [JCruan519/VM-UNet](https://github.com/JCruan519/VM-UNet) - (ACM TOMM) 「VM-UNet:Vision Mamba UNet for Medical Image Segmentation」の公式コードリポジトリです。 <sub>⭐ 863 · Python</sub>
+- [jeya-maria-jose/Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer) - 「医療用変圧器:医学的画像のセグメンテーションのためのGated Axial-注意」の公式ピトルチコード - MICCAI 2021 <sub>⭐ 861 · Python</sub>
+- [MarkMoHR/Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) - 参照イメージの区分についてのペーパーのコレクション。 <sub>⭐ 830</sub>
+- [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet) - YoloDotNet - C# .NET 8.0 プロジェクトを分類、オブジェクト検出、OBB 検出、セグメント化とポーズの推定のための画像およびライブビデオストリーム。 <sub>⭐ 825 · C#</sub>
+- [showlab/Image2Paragraph](https://github.com/showlab/Image2Paragraph) - (画像2テキストパラ)チャットでイメージをユニークなパラグラフに変換します。, BLIP2, OFA, GRIT, すべてのセグメント, ControlNet. <sub>⭐ 821 · Python</sub>
+- [invesalius/invesalius3](https://github.com/invesalius/invesalius3) - 3D医療画像再構築ソフトウェア <sub>⭐ 803 · Python</sub>
+- [MrGiovanni/ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis) - (MICCAI 2019ヤングサイエンティスト賞)(メディアベストペーパーアワード)モデル創世記:自己監修3D医療画像の事前トレーニング。 ラベルのないCTとMRIボリュームから譲渡可能な表現を学びます... <sub>⭐ 794 · Jupyter Notebook</sub>
+- [ika-rwth-aachen/Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow は、複数の車両マウントカメラのイメージを提示した鳥の目線(BEV)画像のセグメント化に成功しました。 <sub>⭐ 793 · Python</sub>
+- [fyu/dilation](https://github.com/fyu/dilation) - セマンティック・イメージの区分のための汚された変化 <sub>⭐ 784 · Python</sub>
+- [AngeLouCN/Min_Max_Similarity](https://github.com/AngeLouCN/Min_Max_Similarity) - 医療画像のセグメンテーションのための対照的な学習ベースの半指示されたセグメンテーションネットワーク <sub>⭐ 759 · Python</sub>
+- [mattmacy/vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) - V-NetのPyTorch実装: 容積測定医療画像のセグメンテーションのための完全な構造ニューラルネットワーク <sub>⭐ 759 · Python</sub>
+- [warmspringwinds/pytorch-segmentation-detection](https://github.com/warmspringwinds/pytorch-segmentation-detection) - Pytorchの画像セグメンテーションとオブジェクト検出 <sub>⭐ 757 · Jupyter Notebook</sub>
+- [vqdang/hover_net](https://github.com/vqdang/hover_net) - H&E ヒストロジー画像における同時核物質の区分と分類。 <sub>⭐ 749 · Python</sub>
+- [computational-cell-analytics/micro-sam](https://github.com/computational-cell-analytics/micro-sam) - 顕微鏡コピーのすべてをセグメント化 <sub>⭐ 731 · Jupyter Notebook</sub>
+- [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - (CVPR2024) 「SAM-6D: セグメント別モデルがゼロショット6Dオブジェクトポーズ推定を満たします。」 <sub>⭐ 730 · Python</sub>
+- [bowang-lab/MedSAM2](https://github.com/bowang-lab/MedSAM2) - MedSAM2: 3D医学のイメージおよびビデオで何かを区分して下さい <sub>⭐ 726 · Python</sub>
+- [ansleliu/LightNet](https://github.com/ansleliu/LightNet) - LightNet:Semantic Imageのセグメント化のための軽量ネットワーク(都市景観とMapillary Vistas Dataset) <sub>⭐ 725 · Python</sub>
+- [SHI-Labs/Matting-Anything](https://github.com/SHI-Labs/Matting-Anything) - あらゆるインスタンスのアルファマットを柔軟かつインタラクティブなビジュアルまたは言語的なプロンプトで推定するための効率的で汎用性の高いフレームワークであるモデル(MAM)にマットを付けること。 <sub>⭐ 721 · Python</sub>
+- [Fafa-DL/Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) - オブジェクト検出、セグメント化および分類のための画像拡張 <sub>⭐ 699 · Python</sub>
+- [tfzhou/ContrastiveSeg](https://github.com/tfzhou/ContrastiveSeg) - ICCV2021(経口) - Semanticセグメンテーションのためのクロスイメージピクセルコントラストの探索 <sub>⭐ 694 · Python</sub>
+- [pmneila/morphsnakes](https://github.com/pmneila/morphsnakes) - 画像のセグメンテーションと追跡のための形態学的ヘビ <sub>⭐ 649 · Python</sub>
+- [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - 安定した拡散によるペイント・アットワードの実装:eDiff-Iからテキストを標的としたセグメンテーションマップからイメージを生成する方法。 <sub>⭐ 645 · Jupyter Notebook</sub>
+- [laiyingxin2/DADF](https://github.com/laiyingxin2/DADF) - あらゆるDeepfakesを検出して下さい:区分の何でもは表面の偽造の検出およびローカリゼーションに会います <sub>⭐ 633 · Python</sub>
+- [Joker316701882/Deep-Image-Matting](https://github.com/Joker316701882/Deep-Image-Matting) - 紙「ディープイメージマット」のテンソルフロー実装です。 <sub>⭐ 624 · Python</sub>
+- [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - 技術的なレポートの実装:「医療画像のセグメンテーションのためのカスタマイズされたセグメント何でもモデル」 <sub>⭐ 611 · Python</sub>
+- [hszhao/ICNet](https://github.com/hszhao/ICNet) - 高画質画像、ECCV2018におけるリアルタイムのセマンティックセグメント化のためのICNet <sub>⭐ 610 · MATLAB</sub>
+- [jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships](https://github.com/jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships) - このリポジトリは、船舶の検出、分類、セマンティックセグメンテーション、インスタンスセグメンテーションタスクにキュレーションされたレーダーおよび光学衛星データセットの包括的なリストを提供します。 これらの... <sub>⭐ 607</sub>
+- [Gy920/segment-anything-2-real-time](https://github.com/Gy920/segment-anything-2-real-time) - ライブビデオストリームで任意のモデル2を実行します <sub>⭐ 600 · Jupyter Notebook</sub>
+- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - (画像とビジョンコンピューティング(Vol.147 Jul. '24)) インタラクティブな自然画像をセグメント別モデルに置き換える <sub>⭐ 593 · Python</sub>
+- [JJGO/UniverSeg](https://github.com/JJGO/UniverSeg) - UniverSeg: 普遍的な医学のイメージの区分 <sub>⭐ 590 · Python</sub>
+- [aim-uofa/Matcher](https://github.com/aim-uofa/Matcher) - (ICLR'24&IJCV‘25) マッチング:オールパルス機能のマッチングによるワンショットで何かをセグメント化 <sub>⭐ 580 · Python</sub>
+- [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba) - SegMamba: 3D医学のイメージの区分のための長期シーケンシャル モデリング マンバ <sub>⭐ 577 · Python</sub>
+- [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - セグメントの次世代を刺激するあらゆるモデル:SAMとSAM 2を総合的に評価し、異なるシーンでコンテクスト・デペンデント・コンセプトに向かいます。 <sub>⭐ 575 · Python</sub>
+- [PozzettiAndrea/ComfyUI-SAM3](https://github.com/PozzettiAndrea/ComfyUI-SAM3) - セグメント用のComfyUI wrapper 3 <sub>⭐ 575 · Python</sub>
+- [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - 微細なセグメント - ライトニング生地でモデルをアニース. <sub>⭐ 572 · Python</sub>
+- [jeya-maria-jose/UNeXt-pytorch](https://github.com/jeya-maria-jose/UNeXt-pytorch) - 「UNeXt:MLPベースの急速な医学的画像の区分ネットワーク」のための公式Pytorchコード基盤、MCAI 2022 <sub>⭐ 571 · Python</sub>
+- [albumentations-team/AlbumentationsX](https://github.com/albumentations-team/AlbumentationsX) - コンピュータビジョンのイメージ拡張。AGPL-3.0専用または商用ライセンス <sub>⭐ 566 · Python</sub>
+- [JIA-Lab-research/3D-Box-Segment-Anything](https://github.com/JIA-Lab-research/3D-Box-Segment-Anything) - VoxelNeXt と組み合わせて、3D の認識にセグメントを拡張します。 <sub>⭐ 565 · Jupyter Notebook</sub>
+- [hustvl/ViTMatte](https://github.com/hustvl/ViTMatte) - (情報融合(Vol.103, Mar. '24)) プリトレンデッド・プレイン・ビジョン・トランスによる画像のマスキング <sub>⭐ 560 · Python</sub>
+- [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - (AAAI 2025) 「TinySAM:効率的なセグメントのための封筒をプッシュする」の公式PyTorch実装 <sub>⭐ 560 · Python</sub>
+- [CUHK-AIM-Group/U-KAN](https://github.com/CUHK-AIM-Group/U-KAN) - (AAAI'25) 医学画像の区分および生成のための強いバックボーンを作って下さい <sub>⭐ 559 · Python</sub>
+- [zsylvester/segmenteverygrain](https://github.com/zsylvester/segmenteverygrain) - 穀物のイメージをセグメント化するSAMベースのモデル <sub>⭐ 555 · Jupyter Notebook</sub>
+- [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel はオブジェクト検出とセグメンテーション用のオフラインイメージアノテーションツールです。 <sub>⭐ 552 · Jupyter Notebook</sub>
+- [warmspringwinds/tf-image-segmentation](https://github.com/warmspringwinds/tf-image-segmentation) - TensorflowとTF-Slimライブラリに基づく画像のセグメンテーションフレームワーク <sub>⭐ 545 · Python</sub>
+- [kevin-ssy/FishNet](https://github.com/kevin-ssy/FishNet) - 紙の実装コード:FishNet:画像、地域、ピクセルレベルの予測のための汎用性バックボーン、NeurIPS 2018 <sub>⭐ 543 · Python</sub>
+- [Amshaker/unetr_plus_plus](https://github.com/Amshaker/unetr_plus_plus) - (IEEE TMI-2024) UNETR ++:効率的で正確な3D医療画像のセグメンテーションに着手 <sub>⭐ 536 · Python</sub>
+- [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt) - (MICCAI 2023) MedNeXtは、3D医療画像のセグメンテーションのための完全なConvNeXtアーキテクチャです。 <sub>⭐ 534 · Python</sub>
+- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: 3D 医学のイメージのためのあらゆるモデルをローカライズし、区分して下さい <sub>⭐ 523 · Python</sub>
+- [WZH0120/SAM2-UNet](https://github.com/WZH0120/SAM2-UNet) - (VINT 2026) SAM2-UNet: セグメント別 2 自然と医療画像のセグメンテーションのための強力なエンコーダを作る <sub>⭐ 523 · Python</sub>
+- [hustvl/EVF-SAM](https://github.com/hustvl/EVF-SAM) - 「EVF-SAM」の公式コード:テキスト・プロットされた区分のための早期ビジョン言語融合モデル <sub>⭐ 509 · Python</sub>
+- [frank-xwang/UnSAM](https://github.com/frank-xwang/UnSAM) - (NeurIPS 2024) 「スーパービジョンなしのセグメント何でも」コードリリース <sub>⭐ 504 · Jupyter Notebook</sub>
+- [nibtehaz/MultiResUNet](https://github.com/nibtehaz/MultiResUNet) - MultiResUNet : 多品種のバイオメディカル画像セグメンテーションのためのU-Netアーキテクチャを再考 <sub>⭐ 502 · Jupyter Notebook</sub>
+- [ZwwWayne/K-Net](https://github.com/ZwwWayne/K-Net) - (NeurIPS2021) K-Netのコードリリース: 統一された画像のセグメンテーションに向けて <sub>⭐ 484 · Python</sub>
+- [dongwu92/AutoPortraitMatting](https://github.com/dongwu92/AutoPortraitMatting) - 紙自動肖像画マットのTensorflow実装「画像安定化のためのオートポートレートセグメンテーション」 <sub>⭐ 477 · Python</sub>
+- [cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) - (ECCV'20) スーパーピクセルによる自己監理: Annotation なしのトレーニング・フュード・ショット・メディカル・イメージのセグメンテーション(code&data-processingパイプライン) <sub>⭐ 469 · Python</sub>
+- [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU認証画像処理ライブラリ <sub>⭐ 469 · Jupyter Notebook</sub>
+- [sinAshish/Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention) - (JBHI) 当社の紙「医療画像の区分に関する多角的な注意」コード <sub>⭐ 463 · Python</sub>
+- [pyushkevich/itksnap](https://github.com/pyushkevich/itksnap) - ITK-SNAP 医療画像のセグメンテーションツール <sub>⭐ 457 · C++</sub>
+- [ethanhe42/u-net](https://github.com/ethanhe42/u-net) - U-Net: 生物医学的画像の区分のための複雑なネットワーク <sub>⭐ 452 · Python</sub>
+- [Rubics-Xuan/TransBTS](https://github.com/Rubics-Xuan/TransBTS) - このリポジトリは、MICCAI2021によって受け入れられるトランス(https://arxiv.org/abs/2103.04430)を使用して、マルチモーダル脳腫瘍セグメンテーションのための公式コードを提供します。 2)TransBTSV2:前方... <sub>⭐ 452 · Python</sub>
+- [asanakoy/kaggle_carvana_segmentation](https://github.com/asanakoy/kaggle_carvana_segmentation) - Carvana Image Masking Challengeの1位モデルコード <sub>⭐ 451 · Python</sub>
+- [aliaksandr960/segment-anything-eo](https://github.com/aliaksandr960/segment-anything-eo) - メタAIセグメントの地球観測ツール <sub>⭐ 449 · Jupyter Notebook</sub>
+- [MrBlankness/LightM-UNet](https://github.com/MrBlankness/LightM-UNet) - 「LightM-UNet:医療画像のセグメンテーションのための軽量UNetでのMambaアシスト」のPytorch実装 <sub>⭐ 448 · Python</sub>
+- [MarcoForte/closed-form-matting](https://github.com/MarcoForte/closed-form-matting) - A. Levin D. LischinskiとY. WeissのPython実装。 クローズドフォームソリューション to Natural Image Matting。 IEEE Conf. on Computer Vision and Pattern Recognition(CVPR)、2006年6月、ニューヨーク <sub>⭐ 444 · Python</sub>
+- [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything) - ゼロショットのオブジェクト検出とCLIPSegをゼロショットセグメンテーション用にGrounded DINOでSAM(セグメント別)を組み合わせる <sub>⭐ 438 · Jupyter Notebook</sub>
+- [xrli-U/MuSc](https://github.com/xrli-U/MuSc) - (ICLR2024) 「MuSc:ゼロショット産業異常分類と非標識画像の相互スコアリングによるセグメンテーション」のための公式PyTorch実装です。 <sub>⭐ 438 · Python</sub>
+- [wchstrife/Awesome-Image-Matting](https://github.com/wchstrife/Awesome-Image-Matting) - 深層学習画像のマット紙とコードのキュレーションリスト <sub>⭐ 436</sub>
+- [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - (ICLR 2024オーラル;トップ1.2%) 医療画像分析のための事前訓練された3Dモデル(9,262 CTのボリューム+ 25アノテーションクラス) <sub>⭐ 433 · Python</sub>
+- [vietanhdev/samexporter](https://github.com/vietanhdev/samexporter) - SAM、MobileSAM、効率的なSAM、SAM 2/2.1、SAM 3をポータブル画像セグメントに出力・実行 <sub>⭐ 429 · Python</sub>
+- [coolzhao/Geo-SAM](https://github.com/coolzhao/Geo-SAM) - セグメント別モデル(SAM)を使用したQGISプラグインツールで、地理空間ラスター画像の分割または削除を加速できます。 <sub>⭐ 428 · Python</sub>
+- [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels) - HLSの医療画像、文書、zipファイルの簡単な大規模処理を容易にします。 OHIFビューア、2つのセグメンテーションモデルとインタラクティブな学習。 <sub>⭐ 426 · JavaScript</sub>
+- [frankkramer-lab/MIScnn](https://github.com/frankkramer-lab/MIScnn) - 神経ネットワークとディープラーニングによる医療画像のセグメンテーションのためのフレームワーク <sub>⭐ 423 · Python</sub>
+- [naver-ai/ZIM](https://github.com/naver-ai/ZIM) - (ICCV 2025, Highlight) ZIM:ゼロショット画像は何でも <sub>⭐ 422 · Python</sub>
+- [Saiyan-World/grounded-segment-any-parts](https://github.com/Saiyan-World/grounded-segment-any-parts) - 接地セグメント別:オブジェクトから部品まで <sub>⭐ 419 · Jupyter Notebook</sub>
+- [MenghaoGuo/AutoDeeplab](https://github.com/MenghaoGuo/AutoDeeplab) - 紙自動ディープラボ階層神経構造のセマンティック画像の区分検索の実施 <sub>⭐ 411 · Python</sub>
+- [iwatake2222/self-driving-ish_computer_vision_system](https://github.com/iwatake2222/self-driving-ish_computer_vision_system) - このプロジェクトは、自動運転デモで見たことがあるイメージを生成します。 オブジェクト検出、車線検知、ロードセグメンテーション、TensorRTを用いた深さ推定 <sub>⭐ 410 · C++</sub>
+- [JizhiziLi/AIM](https://github.com/JizhiziLi/AIM) - (IJCAI'21) ディープオートマチックナチュラルイメージマット <sub>⭐ 409 · Python</sub>
+- [xamyzhao/brainstorm](https://github.com/xamyzhao/brainstorm) - 「1ショットの医療画像セグメンテーションのための変換を用いたデータ集計」の実施 <sub>⭐ 405 · Python</sub>
+- [hellochick/ICNet-tensorflow](https://github.com/hellochick/ICNet-tensorflow) - 高解像度画像に関するリアルタイムのセマンティックセグメント化のための「ICNet for Real-Time Semantic Segmentation」のTensorFlowベースの実装。 <sub>⭐ 403 · Jupyter Notebook</sub>
+- [arnab39/FewShot_GAN-Unet3D](https://github.com/arnab39/FewShot_GAN-Unet3D) - 私たちの論文のTensorflow実装: 遺伝子管理学習を用いたFew-shot 3Dマルチモーダルメディカルイメージセグメンテーション <sub>⭐ 400 · Python</sub>
+- [ihmily/image-matting](https://github.com/ihmily/image-matting) - cv_unet_image-matting と cv_unet_universal-matting モデルに基づくシンプルなオンライン画像のマットapi <sub>⭐ 398 · Python</sub>
+- [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBGは、オープンソースのAIモデルを使用したマルチプラットフォーム画像背景除去ツールで、ローカルに画像を処理することでユーザーのプライバシーを確保します。 <sub>⭐ 398 · TypeScript</sub>
+- [lujiazho/SegDrawer](https://github.com/lujiazho/SegDrawer) - シンプルな静的ウェブベースのマスクの引き出し、対物セグメントとビデオセグメンテーションをサポートしているモデル2(SAM2)。 <sub>⭐ 397 · Python</sub>
+- [zsef123/PointRend-PyTorch](https://github.com/zsef123/PointRend-PyTorch) - PointRend の PyTorch 実装:レンダリングとしてのイメージセグメンテーション <sub>⭐ 396 · Jupyter Notebook</sub>
+- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - (AAAI2026) X-SAM:セグメントから任意のセグメンテーションまで <sub>⭐ 394 · Python</sub>
+- [HUANGLIZI/LViT](https://github.com/HUANGLIZI/LViT) - (医療画像/TMI 2023)に関するIEEE取引は、「LViT:言語が医学的イメージの分節におけるビジョントランスを満たしている」という公式実装です。 <sub>⭐ 392 · Python</sub>
+- [jiwoon-ahn/psa](https://github.com/jiwoon-ahn/psa) - ピクセルレベルのセマンティック・アフィニティを Weakly Supervised Semantic Segmentation、CVPR 2018 のためのイメージレベル監督と学習して下さい <sub>⭐ 391 · Python</sub>
+- [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM) - CLIP と SAM を組み合わせて実験を行い、オープンボキャブラリー画像のセグメンテーションを行います。 <sub>⭐ 390 · Jupyter Notebook</sub>
+- [BAAI-DCAI/SegVol](https://github.com/BAAI-DCAI/SegVol) - 「SegVol: Universal and Interactive Volumetric Medical Image Segmentation」の公式コードです。 <sub>⭐ 389 · Python</sub>
+- [jeya-maria-jose/KiU-Net-pytorch](https://github.com/jeya-maria-jose/KiU-Net-pytorch) - 画像/ 3DのセグメンテーションのためのKiU-Netの公式Pytorchコード - MICCAI 2020(オーラル)、IEEE TMI <sub>⭐ 389 · Python</sub>
+- [haochenheheda/segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator) - ピクセルレベルのアノテーションのために、ラベルメとセグメントアニースに基づいてpython UIを開発しました。 SAM(box/pointプロンプト)による複数のマスク生成をサポートし、効率的なポリゴンの修正やカテゴリ... <sub>⭐ 387 · Python</sub>
+- [visinf/1-stage-wseg](https://github.com/visinf/1-stage-wseg) - 画像ラベル(CVPR 2020)の単段セマンティックセグメンテーション <sub>⭐ 385 · Python</sub>
+- [ViTAE-Transformer/SAMRS](https://github.com/ViTAE-Transformer/SAMRS) - 正式リポ(NeurIPS'23) "SAMRS:セグメント別モデルによるスケーリングアップリモートセンシングセグメンテーションデータセット" <sub>⭐ 384 · Python</sub>
+- [Vooban/Smoothly-Blend-Image-Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - 予測されたパッチを円滑にブレンドするU-Netは、人間の目で喜ばなければならない。 <sub>⭐ 381 · Python</sub>
+- [ymy-k/Hi-SAM](https://github.com/ymy-k/Hi-SAM) - (IEEE TPAMI) Hi-SAM:階層テキストセグメンテーションのためのあらゆるモデルをマーリン <sub>⭐ 378 · Python</sub>
+- [lannguyen0910/food-recognition](https://github.com/lannguyen0910/food-recognition) - 食品分析のベースライン。オブジェクト検出、画像分類と多種性セグメンテーションを統合 <sub>⭐ 375 · Python</sub>
+- [shreyaspadhy/UNet-Zoo](https://github.com/shreyaspadhy/UNet-Zoo) - 2Dと3Dバイオメディカル画像のセグメンテーションのためのPyTorchにおけるUNetおよびハイブリッドアーキテクチャのコレクション <sub>⭐ 375 · Python</sub>
+- [jsbroks/imantics](https://github.com/jsbroks/imantics) - 異なる深層学習画像の注釈フォーマットの管理、作成および視覚化のための反応的なpythonパッケージ <sub>⭐ 374 · Python</sub>
+- [PABannier/sam3.cpp](https://github.com/PABannier/sam3.cpp) - ポータブルC / C++で最先端の画像とビデオセグメンテーションが高速 <sub>⭐ 374 · C++</sub>
+- [uni-medical/STU-Net](https://github.com/uni-medical/STU-Net) - 最大の公開データセット(100kアノテーション)に基づく最大規模の事前訓練された医療画像セグメンテーションモデル(1.4Bパラメータ)は、最大4月2023日までです。 <sub>⭐ 373 · Python</sub>
+- [HMS-Core/hms-ml-demo](https://github.com/HMS-Core/hms-ml-demo) - HMS MLデモは、Huawei社のMLキットサービスをアプリケーションに統合する例を提供します。 この例では、顔の検出、テキストなどのMLキットが提供するサービスを統合する方法を示しています... <sub>⭐ 372 · Java</sub>
+- [s-gupta/rcnn-depth](https://github.com/s-gupta/rcnn-depth) - RGB-D画像からオブジェクト検出とセグメンテーションの豊富な機能を学ぶ <sub>⭐ 371 · MATLAB</sub>
+- [Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) - メタAIのセグメント別モデル(SAM)と関連研究のためのプロジェクト、紙およびソースコードのコレクション。 <sub>⭐ 371</sub>
+- [NITR098/Awesome-U-Net](https://github.com/NITR098/Awesome-U-Net) - 医療画像のセグメンテーションレビューのための公式レポ:U-Netの成功 <sub>⭐ 370 · Jupyter Notebook</sub>
+- [robustsam/RobustSAM](https://github.com/robustsam/RobustSAM) - RobustSAM:劣化した画像(CVPR 2024 Highlight)で何かを強固にセグメント化 <sub>⭐ 369 · Python</sub>
+- [VITA-Group/GLNet](https://github.com/VITA-Group/GLNet) - (CVPR 2019、経口)「超高分解能画像の記憶効率性セグメント化のための協業グローバルローカルネットワーク」呉陽市*、Ziyu江*、張陽湾王、ケキシン水、およびQianをXiaoning <sub>⭐ 368 · Python</sub>
+- [yifangao112/Camyla](https://github.com/yifangao112/Camyla) - 医療画像のセグメンテーションにおける自動研究のスケーリング <sub>⭐ 367 · Python</sub>
+- [luwill/Deep-Learning-Image-Segmentation](https://github.com/luwill/Deep-Learning-Image-Segmentation) - ディープラーニング・イメージのセグメンテーション:理論と実践 <sub>⭐ 366 · C++</sub>
+- [czg1225/SlimSAM](https://github.com/czg1225/SlimSAM) - (NeurIPS 2024) SlimSAM: 0.1% データは、セグメントをスリムにする <sub>⭐ 363 · Python</sub>
+- [ZiyuGuo99/SAM2Point](https://github.com/ZiyuGuo99/SAM2Point) - 3Dにおけるセグメントのほとんど忠実な実装(SAM) <sub>⭐ 363 · Python</sub>
+- [kaixin96/PANet](https://github.com/kaixin96/PANet) - ICCV 2019紙PANetのコード:プロトタイプアライメントによるFew-Shot画像セマンティックセグメンテーション <sub>⭐ 359 · Python</sub>
+- [DengPingFan/Inf-Net](https://github.com/DengPingFan/Inf-Net) - Inf-Net:CTイメージ、IEEE TMI 2020から自動COVID-19肺感染症のセグメンテーション <sub>⭐ 355 · Python</sub>
+- [SLDGroup/EMCAD](https://github.com/SLDGroup/EMCAD) - CVPR 2024紙「EMCAD:医療画像のセグメンテーションのための効率的なマルチスケールコンボレーションデコード」の公式リポジトリ <sub>⭐ 354 · Python</sub>
+- [Curt-Park/segment-anything-with-clip](https://github.com/Curt-Park/segment-anything-with-clip) - CLIP と組み合わせるすべてのセグメント <sub>⭐ 353 · Python</sub>
+- [Slava/label-tool](https://github.com/Slava/label-tool) - 画像のラベル作成とセグメンテーションのためのWebアプリケーション <sub>⭐ 352 · JavaScript</sub>
+- [KKKSQJ/DeepLearning](https://github.com/KKKSQJ/DeepLearning) - 主に紙のレプリケーション、画像認識、オブジェクト検出、イメージセグメンテーション、自己監理などのための深い学習コードベース。各プロジェクトは独立して実行することができます... <sub>⭐ 351 · Python</sub>
+- [reachsumit/deep-unet-for-satellite-image-segmentation](https://github.com/reachsumit/deep-unet-for-satellite-image-segmentation) - ディープUNetを用いたSpaceNetデータセットによる衛星画像機能検出 <sub>⭐ 351 · Python</sub>
+- [SimVascular/SimVascular](https://github.com/SimVascular/SimVascular) - 医療画像データセグメンテーションから患者固有の血流シミュレーションと分析までの完全なパイプラインを提供する包括的なオープンソースソフトウェアパッケージ。 <sub>⭐ 351 · C++</sub>
+- [JerryX1110/awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions) - セグメント・アニーティング関連の素晴らしい拡張/プロジェクト/リポジトリ。 <sub>⭐ 348</sub>
+- [ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE) - MOOSE(マルチオーガナ・スペグメンテーション)は、複数のラベル臓器のセグメンテーションを生成し、全身TB全体の研究を容易にするデータ中心型のAIソリューションです。 パイプラインは、nn-UNetに基づいています... <sub>⭐ 346 · Python</sub>
+- [junqiangchen/PytorchDeepLearing](https://github.com/junqiangchen/PytorchDeepLearing) - Meidcal イメージの区分 ピトルチ版 <sub>⭐ 344 · Python</sub>
+- [yhygao/CBIM-Medical-Image-Segmentation](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) - 医療画像のセグメンテーションのためのPyTorchフレームワーク <sub>⭐ 344 · Python</sub>
+- [karimz1/imgcompress](https://github.com/karimz1/imgcompress) - Imgcompressは、単一のWebインターフェイスで圧縮、フォーマット変換、AIの背景除去を処理するセルフホスト画像処理ツールボックスです。 70以上の入力形式をサポートしています(... <sub>⭐ 342 · TypeScript</sub>
+- [sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow](https://github.com/sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow) - 条件付きリカレントニューラルネットワークを使用して、単語や文字に事前にセグメンテーションせずにハンドクリッテン行のテキストイメージを認識します。 CTCロス機能を使って訓練してください。 <sub>⭐ 342 · Python</sub>
+- [karolzak/keras-unet](https://github.com/karolzak/keras-unet) - Kerasの複数のU-Net実装と便利なユーティリティツールを備えたヘルパーパッケージは、画像管理タスクを扱うときに役立ちます。 このライブラリと基礎的なツールが付属しています... <sub>⭐ 341 · Python</sub>
+- [Lydorn/Polygonization-by-Frame-Field-Learning](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) - このリポジトリには、オーバーヘッド画像パイプラインから高速ポリゴンビル抽出用のコードが含まれています。 <sub>⭐ 341 · Python</sub>
+- [HiLab-git/DTC](https://github.com/HiLab-git/DTC) - 二重タスクの一貫性による半指示された医学的イメージの区分 <sub>⭐ 338 · Python</sub>
+- [JialeCao001/SipMask](https://github.com/JialeCao001/SipMask) - SipMask:高速画像とビデオインスタンスのセグメンテーションのための空間情報保存(ECCV2020) <sub>⭐ 337 · Jupyter Notebook</sub>
+- [YtongXie/CoTr](https://github.com/YtongXie/CoTr) - (MICCAI2021) CoTr:3D医学のイメージの区分のための効率的にCNNおよび変圧器を結合して下さい <sub>⭐ 334 · Python</sub>
+- [Mycenae/PaperWeekly](https://github.com/Mycenae/PaperWeekly) - CNN、物体検出、キーポイント検知、セマンティックセグメンテーション、医療画像処理、SLAMなど <sub>⭐ 333</sub>
+- [Visceral-Project/EvaluateSegmentation](https://github.com/Visceral-Project/EvaluateSegmentation) - 画像のセグメンテーションの質を評価するプログラム。 <sub>⭐ 332 · C++</sub>
+- [HusseinYoussef/Arabic-OCR](https://github.com/HusseinYoussef/Arabic-OCR) - テキストの画像を機械でエンコードされたテキストに変換するアラビア語のための OCR システム。 <sub>⭐ 331 · Python</sub>
+- [Joey-S-Liu/MedSAM3](https://github.com/Joey-S-Liu/MedSAM3) - MedSAM3:医学の概念とあらゆる区分にdelving <sub>⭐ 329 · Python</sub>
+- [nv-nguyen/cnos](https://github.com/nv-nguyen/cnos) - (ICCV 2023 R6D) CNOSのPyTorch実装:CADベースのNovelオブジェクトセグメント化とDINOv2に基づく強力なベースライン <sub>⭐ 326 · Python</sub>
+- [yifangao112/DinoUNet](https://github.com/yifangao112/DinoUNet) - Dino U-Netの公式リポジトリ: 医学画像セグメンテーションのためのファンデーションからの高い機能を搭載する促進。 (DINOv3) <sub>⭐ 324 · Python</sub>
+- [Beckschen/3D-TransUNet](https://github.com/Beckschen/3D-TransUNet) - これは、紙「3Dトランネット:ビジョントランスを介した医療画像のセグメンテーションを強化する」ための公式リポジトリです。 <sub>⭐ 321 · Python</sub>
+- [manideep2510/eye-in-the-sky](https://github.com/manideep2510/eye-in-the-sky) - 深層学習におけるセマンティックセグメンテーションを用いた衛星画像分類 <sub>⭐ 320 · Python</sub>
+- [JuliaWolleb/Diffusion-based-Segmentation](https://github.com/JuliaWolleb/Diffusion-based-Segmentation) - これは、紙の公式Pytorch実装です。 "暗黙イメージセグメンテーションアンサンブルのための拡散モデル". <sub>⭐ 318 · Python</sub>
+- [RapidAI/LabelConvert](https://github.com/RapidAI/LabelConvert) - オブジェクト検出と画像のセグメンテーションデータセットフォーマット変換のためのツール。 <sub>⭐ 318 · Python</sub>
+- [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) - これは、Segment の何も使用してゼロショットインスタンスのセグメンテーションの実装です。 <sub>⭐ 317 · Python</sub>
+- [HLearning/unet_keras](https://github.com/HLearning/unet_keras) - unet_keras はイメージのセマンティックセグメンテーションを使用します <sub>⭐ 315 · Python</sub>
+- [Aryan-Chharia/Computer-Vision-Projects](https://github.com/Aryan-Chharia/Computer-Vision-Projects) - PythonとOpenCVを使用して、オブジェクトの検出、画像のステッチ、およびセグメンテーションなどの高度な画像処理技術を示すプロジェクトのための私のコンピュータビジョンリポジトリをチェックしてください。 あなたかどうか... <sub>⭐ 314 · Jupyter Notebook</sub>
+- [zhaoziheng/SAT](https://github.com/zhaoziheng/SAT) - (npj デジタル薬) 「テキストプロンプトで医療画像の大規模分節」のための公式リポジトリ <sub>⭐ 308 · Python</sub>
+- [bowang-lab/MedSAMSlicer](https://github.com/bowang-lab/MedSAMSlicer) - 3D Slicer のプラグインは、医療画像で何かをセグメント化します <sub>⭐ 304 · Python</sub>
+- [carrenD/Medical-Cross-Modality-Domain-Adaptation](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation) - (IJCAI'18) アドバーサリアロス(コード&データ)による、コンブネットの非監視型横断ドメイン適応 <sub>⭐ 304 · Python</sub>
+- [chaozhong2010/HRSID](https://github.com/chaozhong2010/HRSID) - HRSID: 船舶の検出、セマンティックセグメンテーション、インスタンスセグメンテーションタスクのための高解像度のサール画像データセット。 <sub>⭐ 304</sub>
+- [michaelowenliu/awesome-image-matting](https://github.com/michaelowenliu/awesome-image-matting) - 画像のマットに関するAWESOMEのモノを集めました。 <sub>⭐ 302</sub>
+- [AngeLouCN/DC-UNet](https://github.com/AngeLouCN/DC-UNet) - 新規のU-Netベースのモデルを提案しました。医療画像のセグメンテーションを行うDC-UNetです。 <sub>⭐ 300 · Python</sub>
+- [nicolov/segmentation_keras](https://github.com/nicolov/segmentation_keras) - 画像のセグメンテーションのためのKerasでDilatedNet <sub>⭐ 300 · Python</sub>
+- [ammar-n-abbas/FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2) - FoundationPoseROS2 は、FoundationPose アーキテクチャに基づく 6D オブジェクトポーズ推定と追跡のための ros2 統合システムです。 これは、RealSense2 をセグメント別モデル 2 (SAM2) で使用します。 <sub>⭐ 298 · Python</sub>
+- [Project-MONAI/VISTA](https://github.com/Project-MONAI/VISTA) - モノイ汎用画像のセグメンテーションとアノテーション <sub>⭐ 298 · Python</sub>
+- [huochaitiantang/pytorch-deep-image-matting](https://github.com/huochaitiantang/pytorch-deep-image-matting) - 深層画像マットのPytorch実装 <sub>⭐ 297 · Python</sub>
+- [htcr/sam_road](https://github.com/htcr/sam_road) - 空中イメージから大規模でベクター化された道路ネットワーク抽出のためのモデルを区分します。 CVPRW 2024 <sub>⭐ 296 · Python</sub>
+- [raadon96/MVTec-Anomaly-Detection](https://github.com/raadon96/MVTec-Anomaly-Detection) - このプロジェクトでは、Deep Learningをベースにした画像の半指示異常検出とセグメンテーションのためのエンドツーエンドフレームワークを提案しています。 <sub>⭐ 296 · Python</sub>
+- [stefanknegt/Probabilistic-Unet-Pytorch](https://github.com/stefanknegt/Probabilistic-Unet-Pytorch) - PyTorch で実装された巨大な画像の分別のための Probabilistic U-Net <sub>⭐ 296 · Python</sub>
+- [berkeley-hipie/HIPIE](https://github.com/berkeley-hipie/HIPIE) - (NeurIPS2023) 「階層オープン語彙ユニバーサルイメージセグメンテーション」のコードリリース <sub>⭐ 293 · Jupyter Notebook</sub>
+- [script-Yang/segdino](https://github.com/script-Yang/segdino) - SegDINO:DINO-V3との医学および自然なイメージの区分のための有効な設計 <sub>⭐ 293 · Python</sub>
+- [google-deepmind/multi_object_datasets](https://github.com/google-deepmind/multi_object_datasets) - 地上の分節マスクと遺伝子因子を持つ複数の画像データセット。 <sub>⭐ 289 · Python</sub>
+- [ibaiGorordo/ONNX-SAM2-Segment-Anything](https://github.com/ibaiGorordo/ONNX-SAM2-Segment-Anything) - OnNX のセグメンス Anythin 2 (SAM2) モデル用の Python スクリプト <sub>⭐ 289 · Python</sub>
+- [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF) - NeRF でインタラクティブなセグメントアニース。 <sub>⭐ 287 · Python</sub>
+- [martinkersner/py-img-seg-eval](https://github.com/martinkersner/py-img-seg-eval) - 紙の多角的なセグメンテーションに触発された画像のセグメンテーションの評価メトリック <sub>⭐ 285 · Python</sub>
+- [likyoo/SegEarth-OV](https://github.com/likyoo/SegEarth-OV) - (CVPR 2025 経口) SegEarth-OV:リモートセンシングイメージのためのトレーニングフリーのオープンボキャブラリーセグメンテーションに向けて <sub>⭐ 283 · Python</sub>
+- [TobyPDE/FRRN](https://github.com/TobyPDE/FRRN) - Semanticイメージの区分のための完全な決断の残りのネットワーク <sub>⭐ 282 · Python</sub>
+- [yolain/ComfyUI-Easy-Sam3](https://github.com/yolain/ComfyUI-Easy-Sam3) - SAM3(セグメント別モデル3)用のComfyUIカスタムノードパッケージで、強力な画像とビデオセグメンテーション機能をテキストプロンプトで提供します。 <sub>⭐ 281 · Python</sub>
+- [marc-gorriz/CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) - 医学のイメージ投射の区分のための活動的な深い学習 <sub>⭐ 280 · Python</sub>
+- [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) - CGNet: セマンティック・セグメンテーションのための軽量コンテクストガイドネットワーク(IEEE取引の画像処理2020) <sub>⭐ 279 · Python</sub>
+- [Ezaldeen99/BackgroundRemoval](https://github.com/Ezaldeen99/BackgroundRemoval) - u2netモデルを使用した高速な背景除去 <sub>⭐ 278 · Swift</sub>
+- [githubharald/WordDetector](https://github.com/githubharald/WordDetector) - 手書きの単語(分類画像処理方法)を検知します。 <sub>⭐ 276 · Python</sub>
+- [embedeep/Free-TPU](https://github.com/embedeep/Free-TPU) - Pytorch/Caffe/Darknet/NCNN をサポートするコンパイラ付きFPGA用の無料TPU。Xilinx FPGAを使用して画像の分類、検出およびセグメンテーションの問題を解決するためのAIプロセッサ。 <sub>⭐ 275 · Shell</sub>
+- [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000以上のキュレーションされたAI画像プロンプト(OpenAIイメージツール、製品写真、肖像画、キャラクターデザインなど) <sub>⭐ 274</sub>
+- [xushilin1/RMP-SAM](https://github.com/xushilin1/RMP-SAM) - (ICLR 2025オーラル) RMP-SAM:リアルタイムマルチプルポーズセグメントへ <sub>⭐ 274 · Python</sub>
+- [MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) - 自由テキストの敏速な普遍的な3D医学のイメージの区分 <sub>⭐ 273 · Python</sub>
+- [Kingfish404/segment-anything-webui](https://github.com/Kingfish404/segment-anything-webui) - しかし、別のSAM webui + CLIP <sub>⭐ 272 · TypeScript</sub>
+- [durandtibo/wildcat.pytorch](https://github.com/durandtibo/wildcat.pytorch) - 「WILDCAT: Weakly」のPyTorch実装が、画像分類、ポイントウェイトローカリゼーションとセグメンテーションのためのディープコンブネットの学習を監督しました。 <sub>⭐ 269 · Python</sub>
+- [Perceive-Anything/PAM](https://github.com/Perceive-Anything/PAM) - 何でも知って下さい:イメージおよびビデオの認識、明白な、キャプションおよび区分 <sub>⭐ 269 · Jupyter Notebook</sub>
+- [xmindflow/deformableLKA](https://github.com/xmindflow/deformableLKA) - (WACV 2024) 自己注意を超えて:医療画像のセグメンテーションのための変形性大型カーネル保持 <sub>⭐ 269 · Python</sub>
+- [arahusky/Tensorflow-Segmentation](https://github.com/arahusky/Tensorflow-Segmentation) - TensorflowのSemanticイメージセグメンテーション <sub>⭐ 268 · Jupyter Notebook</sub>
+- [blakeliu/awesome-cell-detection-segmentation](https://github.com/blakeliu/awesome-cell-detection-segmentation) - 核/細胞および病理学のイメージ分類、検出、セグメント化 <sub>⭐ 265</sub>
+- [neverbiasu/ComfyUI-SAM2](https://github.com/neverbiasu/ComfyUI-SAM2) - セグメントアニース2のためのComfyUI拡張 <sub>⭐ 265 · Python</sub>
+- [uni-medical/IMIS-Bench](https://github.com/uni-medical/IMIS-Bench) - インタラクティブな医療画像のセグメンテーション:ベンチマークデータセットとベースライン <sub>⭐ 265 · Jupyter Notebook</sub>
+- [Yonv1943/Unsupervised-Segmentation](https://github.com/Yonv1943/Unsupervised-Segmentation) - バックプロパゲーションによる未監視画像のセグメンテーションの高い性能向上 - 金崎麻子 <sub>⭐ 265 · Python</sub>
+- [liuquande/FedDG-ELCFS](https://github.com/liuquande/FedDG-ELCFS) - (CVPR'21) FedDG: 継続的周波数空間でのEpisodic学習による医療画像のセグメンテーションに関するフェデレーションドメインの一般化 <sub>⭐ 263 · Python</sub>
+- [mitmul/ssai-cnn](https://github.com/mitmul/ssai-cnn) - Volodymyr Mnihのメソッドを非公式に実装するなど、空中/衛星画像のためのSemanticセグメンテーション <sub>⭐ 262 · Python</sub>
+- [nadeemlab/DeepLIIF](https://github.com/nadeemlab/DeepLIIF) - IHC画像定量化(https://deepliif.org)のための深い学習推論マルチプレックスImmunoFluorescence (Nature Machine Intelligence'22、CVPR'22、MICCAI'23、Histtopathology'23、MICCAI'24、MICCAI'26) <sub>⭐ 262 · Python</sub>
+- [uncbiag/SimpleClick](https://github.com/uncbiag/SimpleClick) - SimpleClick: シンプルなビジョントランス(ICCV 2023)によるインタラクティブな画像のセグメンテーション <sub>⭐ 260 · Python</sub>
+- [AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - 火災検出のための空中画像データセット:分類と分岐(無人航空機(UAV)) <sub>⭐ 258 · Python</sub>
+- [DebeshJha/ResUNetPlusPlus](https://github.com/DebeshJha/ResUNetPlusPlus) - ResUNetplusの医療画像セグメンテーションのための公式コード(TensorFlow&Pytorch実装) <sub>⭐ 256 · Python</sub>
+- [1e12Leon/RemoteSAM](https://github.com/1e12Leon/RemoteSAM) - (ACM MM 25) 「RemoteSAM:地球観測のためのあらゆるセグメントに向けて」の公式リポジトリ <sub>⭐ 251 · Python</sub>
+- [MIC-DKFZ/napari-sam](https://github.com/MIC-DKFZ/napari-sam) - メタAIのセグメンテーションモデル(SAM)をナパリに統合! <sub>⭐ 250 · Python</sub>
+- [akolesnikoff/SEC](https://github.com/akolesnikoff/SEC) - 種子、拡大、制約:弱固有画像のセグメンテーションのための3原則 <sub>⭐ 247 · Jupyter Notebook</sub>
+- [HiLab-git/WSL4MIS](https://github.com/HiLab-git/WSL4MIS) - 医学画像のセグメンテーション、強力なベースライン、および研究とアプリケーションのためのチュートリアルのためのスクリブルやポイントベースの弱体的学習。 <sub>⭐ 246 · Python</sub>
+- [instanseg/instanseg](https://github.com/instanseg/instanseg) - InstanSeg は蛍光および明るいフィールドの顕微鏡検査イメージのためのpytorch ベースの細胞そして核分裂パイプラインです。 <sub>⭐ 245 · Python</sub>
+- [DebeshJha/2020-CBMS-DoubleU-Net](https://github.com/DebeshJha/2020-CBMS-DoubleU-Net) - TensorFlow & PytorchのSemantic ImageセグメンテーションのためのDoubleU-Netの公式実装(ベストペーパーアワードノミネート) <sub>⭐ 241 · Python</sub>
+- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - (ICCV 2023) 医療画像における暗黙の神経表現に関するリソースのキュレーションリスト <sub>⭐ 241</sub>
+- [earth-insights/SegEarth-OV-3](https://github.com/earth-insights/SegEarth-OV-3) - SegEarth-OV3:SAM 3をリモートセンシング画像で開く語彙のセマンティックセグメンテーションを探る <sub>⭐ 240 · Python</sub>
+- [AngeLouCN/SAM-2_Surgical_Video](https://github.com/AngeLouCN/SAM-2_Surgical_Video) - 手術ビデオのセグメンテーションのための何でも2を区分して下さい <sub>⭐ 239 · Jupyter Notebook</sub>
+- [CN-ADLab/SAM4D](https://github.com/CN-ADLab/SAM4D) - (ICCV 2025) SAM4D:カメラとLiDARストリームの任意のセグメント <sub>⭐ 238 · Jupyter Notebook</sub>
+- [drprojects/DeepViewAgg](https://github.com/drprojects/DeepViewAgg) - (CVPR'22ベストペーパーファイナリスト)「Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation」で提示されたメソッドの公式PyTorch実装 <sub>⭐ 237 · Python</sub>
+- [huangmozhilv/u2net_torch](https://github.com/huangmozhilv/u2net_torch) - MICCAI2019:3D U $ ^ 2$-Net:マルチドメイン医療画像のセグメンテーションのための3DユニバーサルUネット <sub>⭐ 237 · Python</sub>
+- [mc-lan/Awesome-MLLM-Segmentation](https://github.com/mc-lan/Awesome-MLLM-Segmentation) - マルチモーダル大ランゲージモデル(MLLM)を活用した画像やビデオのセグメンテーションに関する出版物のキュレーションリスト、最先端のメソッド、革新的なアプリケーション、およびキー... <sub>⭐ 237</sub>
+- [biasvariancelabs/aitlas](https://github.com/biasvariancelabs/aitlas) - AiTLASは、衛星画像の探索的および予測分析のための最先端のAIメソッドを実装しています。 <sub>⭐ 235 · Python</sub>
+- [ricklisz/MedDINOv3](https://github.com/ricklisz/MedDINOv3) - MedDINOv3:医学のイメージの区分のための視野の基礎モデルを合わせる方法か。 <sub>⭐ 235 · Python</sub>
+- [ChengBinJin/V-GAN-tensorflow](https://github.com/ChengBinJin/V-GAN-tensorflow) - 「創始的広告ネットワークによるFundoscopic ImagesのRetinal Vesselセグメンテーション」の実施について <sub>⭐ 232 · Python</sub>
+- [ViTAE-Transformer/ViTAE-Transformer-Matting](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting) - 紙、コード、データセット、デモ、引用など、画像のマットに関連する研究作品の包括的なリスト(AIM@IJCAI'21、P3M@MM'21、GFM@IJCV'22、RIM@CVPR'23、P3MNet@IJCV'23)。 注... <sub>⭐ 232 · TeX</sub>
+- [xk-huang/segment-caption-anything](https://github.com/xk-huang/segment-caption-anything) - (CVPR'24) リポジトリは、「セグメントとキャプションの何でも」(SCA)、訓練されたモデルチェックポイントのダウンロードのためのリンク、および例ノートブック/... <sub>⭐ 232 · Python</sub>
+- [u2seg/U2Seg](https://github.com/u2seg/U2Seg) - (CVPR 2024) 「Unsupervised Universal Image Segmentation」のコードリリース <sub>⭐ 231 · Python</sub>
+- [MaybeShewill-CV/bisenetv2-tensorflow](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow) - リアルタイムシーン画像セグメンテーションモデル「BiSeNet V2: リアルタイムのセマンティックセグメンテーションをガイドしたネットワーク」 <sub>⭐ 230 · Python</sub>
+- [zrporz/AutoSeg-SAM2](https://github.com/zrporz/AutoSeg-SAM2) - これは、セグメント - アニース-2とセグメンス - Anything-1に基づいて自動フルセグメンテーションツールです。 私たちのツールは、ビデオの自動フルセグメンテーションを実行し、各オブジェクトの追跡を有効にします... <sub>⭐ 230 · Python</sub>
+- [AIM-Research-Lab/Medical-SAM3](https://github.com/AIM-Research-Lab/Medical-SAM3) - 医学SAM3:普遍的なプロンプト主導の医学のイメージの区分のための基礎モデル <sub>⭐ 229 · Python</sub>
+- [DYZhang09/SAM3D](https://github.com/DYZhang09/SAM3D) - (SCIS) SAM3D:ゼロショット 3D オブジェクト検出をセグメント別モデル <sub>⭐ 229 · Python</sub>
+- [askerlee/segtran](https://github.com/askerlee/segtran) - スクイーズと拡張トランスを用いた医療画像のセグメンテーション <sub>⭐ 228 · Python</sub>
+- [dibrale/samist](https://github.com/dibrale/samist) - メタAIによるSAMを用いた画像のセグメンテーションのためのモデル(SAM)イメージセグメント化ツール - SAMIST. Python GUI <sub>⭐ 227 · Python</sub>
+- [AngeLouCN/CFPNet-Medicine](https://github.com/AngeLouCN/CFPNet-Medicine) - CFPNet-M:マルチモーダルバイオメディカル画像リアルタイムセグメンテーションのためのライトウェイトエンコーダベースのネットワーク <sub>⭐ 226 · Python</sub>
+- [VSainteuf/utae-paps](https://github.com/VSainteuf/utae-paps) - U-TAEとPaPsの衛星画像時間シリーズパノプティックセグメンテーションのためのPyTorch実装。 <sub>⭐ 226 · Jupyter Notebook</sub>
+- [DeepMed-Lab-ECNU/BCP](https://github.com/DeepMed-Lab-ECNU/BCP) - 半指示された医学のイメージの区分のための二方向コピーペースト(CVPR 2023) <sub>⭐ 224 · Python</sub>
+- [mazurowski-lab/segmentation-guided-diffusion](https://github.com/mazurowski-lab/segmentation-guided-diffusion) - (MICCAI 2024) 医学画像およびそれ以上のための容易な拡散モデル(任意に区分の指導と)。 <sub>⭐ 224 · Python</sub>
+- [halleewong/ScribblePrompt](https://github.com/halleewong/ScribblePrompt) - (ECCV 2024) ScribblePrompt:あらゆる医学のイメージのための速く、適用範囲が広い相互区分 <sub>⭐ 222 · Jupyter Notebook</sub>
 - [Akascape/Rembg-Fuse](https://github.com/Akascape/Rembg-Fuse) - DaVinci Resolve Fusionの自動背景除去のための無料のオープンソースAIプラグイン。 <sub>⭐ 220 · Python</sub>
-- [davyneven/fastSceneUnderstanding](https://github.com/davyneven/fastSceneUnderstanding) - segmentation, instance segmentation and single image depth <sub>⭐ 220 · Lua</sub>
-- [gibbonCode/GIBBON](https://github.com/gibbonCode/GIBBON) - The Geometry and Image-Based Bioengineering add-On for MATLAB <sub>⭐ 220 · MATLAB</sub>
-- [OSUPCVLab/SegFormer3D](https://github.com/OSUPCVLab/SegFormer3D) - Official Implementation of SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation (CVPR 2024) <sub>⭐ 220 · Python</sub>
-- [seung-lab/kimimaro](https://github.com/seung-lab/kimimaro) - Skeletonize densely labeled 3D image segmentations with TEASAR. (Medial Axis Transform) <sub>⭐ 217 · C++</sub>
-- [winycg/CIRKD](https://github.com/winycg/CIRKD) - Official implementations of CIRKD: Cross-Image Relational Knowledge Distillation for Semantic Segmentation and implementations on Cityscapes, ADE20K, COCO-Stuff., Pascal VOC and CamVid. <sub>⭐ 217 · Python</sub>
-- [Yanfeng-Zhou/XNet](https://github.com/Yanfeng-Zhou/XNet) - (ICCV2023) XNet: Wavelet-Based Low and High Frequency Merging Networks for Semi- and Supervised Semantic Segmentation of Biomedical Images <sub>⭐ 217 · Python</sub>
-- [ZFTurbo/ZF_UNET_224_Pretrained_Model](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model) - Modification of convolutional neural net "UNET" for image segmentation in Keras framework <sub>⭐ 217 · Python</sub>
-- [aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models) - Accepted in CVPR 2023 <sub>⭐ 215 · Python</sub>
-- [Rayicer/TransFuse](https://github.com/Rayicer/TransFuse) - This repo holds the code of TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation <sub>⭐ 215 · Python</sub>
-- [med-air/3DSAM-adapter](https://github.com/med-air/3DSAM-adapter) - Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation <sub>⭐ 213 · Python</sub>
-- [royerlab/napari-segment-anything](https://github.com/royerlab/napari-segment-anything) - Segment Anything Model (SAM) native Qt UI <sub>⭐ 212 · Python</sub>
-- [chrise96/image-to-coco-json-converter](https://github.com/chrise96/image-to-coco-json-converter) - Convert segmentation RGB mask images to COCO JSON format <sub>⭐ 210 · Jupyter Notebook</sub>
-- [PengtaoJiang/Segment-Anything-CLIP](https://github.com/PengtaoJiang/Segment-Anything-CLIP) - Connecting segment-anything's output masks with the CLIP model; Awesome-Segment-Anything-Works <sub>⭐ 210 · Jupyter Notebook</sub>
-- [JizhiziLi/RIM](https://github.com/JizhiziLi/RIM) - (CVPR 2023) Referring Image Matting <sub>⭐ 209</sub>
-- [preddy5/segnet](https://github.com/preddy5/segnet) - A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation <sub>⭐ 205 · Jupyter Notebook</sub>
-- [zhengyang-wang/3D-Unet--Tensorflow](https://github.com/zhengyang-wang/3D-Unet--Tensorflow) - 3D Unet for Isointense Infant Brain Image Segmentation <sub>⭐ 204 · Python</sub>
-- [mdhmz1/Auto-Annotate](https://github.com/mdhmz1/Auto-Annotate) - Auto-Annotate - Automatically annotate your entire image directory by a single command. As simple as saying - "Annotate all the street sign (label) in the autonomous car dataset (directory)" and BAM!… <sub>⭐ 202 · Python</sub>
-- [shreyas-bk/u2netdemo](https://github.com/shreyas-bk/u2netdemo) - Demonstration using Google Colab to show how U-2-NET can be used for Background Removal, Changing Backgrounds, Bounding Box Creation, Salient Feature Highlighting and Salient Object Cropping. <sub>⭐ 202 · Jupyter Notebook</sub>
-- [JianqiangWan/Super-BPD](https://github.com/JianqiangWan/Super-BPD) - Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation (CVPR 2020) <sub>⭐ 201 · Python</sub>
-- [JizhiziLi/matting-survey](https://github.com/JizhiziLi/matting-survey) - Deep Image Matting: A Comprehensive Survey <sub>⭐ 201</sub>
-- [leimao/DeepLab-V3](https://github.com/leimao/DeepLab-V3) - Google DeepLab V3 for Image Semantic Segmentation <sub>⭐ 200 · Python</sub>
-- [tamasino52/UNETR](https://github.com/tamasino52/UNETR) - Unofficial code base for UNETR: Transformers for 3D Medical Image Segmentation <sub>⭐ 200 · Python</sub>
-- [yhygao/UTNet](https://github.com/yhygao/UTNet) - Official implementation of UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation <sub>⭐ 200 · Python</sub>
-- [dengxl0520/MemSAM](https://github.com/dengxl0520/MemSAM) - (CVPR 2024 Oral) MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation. <sub>⭐ 199 · Python</sub>
-- [ge-xing/Diff-UNet](https://github.com/ge-xing/Diff-UNet) - Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation. (using diffusion for 3D medical image segmentation) <sub>⭐ 199 · Python</sub>
-- [llmir/FedICRA](https://github.com/llmir/FedICRA) - The official implementation of the paper "Unifying and Personalizing Weakly-supervised Federated Medical Image Segmentation via Adaptive Representation and Aggregation". <sub>⭐ 199 · Python</sub>
-- [VisionXLab/sam-mmrotate](https://github.com/VisionXLab/sam-mmrotate) - SAM (Segment Anything Model) for generating rotated bounding boxes with MMRotate, which is a comparison method of H2RBox-v2. <sub>⭐ 199 · Python</sub>
-- [xwmaxwma/rssegmentation](https://github.com/xwmaxwma/rssegmentation) - (TGRS2025, ISPRS2025, TGRS2026) semantic segmentation of remote sensing images <sub>⭐ 199 · Python</sub>
-- [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet) - Official Code for *Mixed Transformer UNet for Medical Image Segmentation* <sub>⭐ 198 · Python</sub>
-- [nv-dvl/segment-anything-lidar](https://github.com/nv-dvl/segment-anything-lidar) - (ECCV 2024) Better Call SAL: Towards Learning to Segment Anything in Lidar <sub>⭐ 197</sub>
-- [perslev/MultiPlanarUNet](https://github.com/perslev/MultiPlanarUNet) - Multi-Planar UNet for autonomous segmentation of 3D medical images <sub>⭐ 197 · Python</sub>
-- [martinkersner/train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN) - Train CRF-RNN for Semantic Image Segmentation <sub>⭐ 196 · Python</sub>
-- [hallvaaw/awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions. <sub>⭐ 195</sub>
-- [wangjunchi/LLMSeg](https://github.com/wangjunchi/LLMSeg) - LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning <sub>⭐ 195 · Python</sub>
-- [qianyu-dlut/MVANet](https://github.com/qianyu-dlut/MVANet) - Multi-view Aggregation Network for Dichotomous Image Segmentation (CVPR24, Highlight) <sub>⭐ 194 · Python</sub>
-- [weijiawu/DiffuMask](https://github.com/weijiawu/DiffuMask) - (ICCV2023) DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models <sub>⭐ 193 · Python</sub>
-- [SUN-1024/DA-TransUnet](https://github.com/SUN-1024/DA-TransUnet) - DA-TransUNet: Combining Dual Attention of Position and Channel with Transformer U-net for Medical Image Segmentation <sub>⭐ 192 · Python</sub>
-- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - This repository allows you to anonymize sensitive information in images/videos. The solution is fully compatible with the DL-based training/inference solutions that we already published/will publish… <sub>⭐ 191 · Python</sub>
-- [CoinCheung/DeepLab-v3-plus-cityscapes](https://github.com/CoinCheung/DeepLab-v3-plus-cityscapes) - mIOU=80.02 on cityscapes. My implementation of deeplabv3+ (also know as 'Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation' based on the dataset of cityscapes). <sub>⭐ 191 · Python</sub>
-- [LUSSeg/ImageNet-S](https://github.com/LUSSeg/ImageNet-S) - (TPAMI2022) The ImageNet-S benchmark/method for large-scale unsupervised/semi-supervised semantic segmentation. <sub>⭐ 191 · Python</sub>
-- [kleinzcy/SASSnet](https://github.com/kleinzcy/SASSnet) - Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images <sub>⭐ 190 · Python</sub>
-- [ArtyZe/yolo_segmentation](https://github.com/ArtyZe/yolo_segmentation) - image (semantic segmentation) instance segmentation by darknet or yolo <sub>⭐ 188 · Objective-C</sub>
-- [HuXiaoling/TopoLoss](https://github.com/HuXiaoling/TopoLoss) - Code for the NeurIPS 2019 paper: Topology-Preserving Deep Image Segmentation <sub>⭐ 185 · C++</sub>
-- [jhj0517/stable-diffusion-webui-Layer-Divider](https://github.com/jhj0517/stable-diffusion-webui-Layer-Divider) - Layer-Divider, an extension for stable-diffusion-webui using the segment-anything model (SAM) <sub>⭐ 185 · Python</sub>
-- [PathologyDataScience/BCSS](https://github.com/PathologyDataScience/BCSS) - Use this to download all elements of the BCSS dataset described in: Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images.… <sub>⭐ 185 · Python</sub>
-- [StefanDenn3r/Unsupervised_Anomaly_Detection_Brain_MRI](https://github.com/StefanDenn3r/Unsupervised_Anomaly_Detection_Brain_MRI) - Autoencoders for Unsupervised Anomaly Segmentation in Brain MR Images: A Comparative Study <sub>⭐ 185 · Python</sub>
-- [cuilunan/Unet-of-remote-sensing-image](https://github.com/cuilunan/Unet-of-remote-sensing-image) - The semantic segmentation of remote sensing images <sub>⭐ 184 · Python</sub>
-- [HiLab-git/WORD](https://github.com/HiLab-git/WORD) - (MedIA2022)WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image <sub>⭐ 184 · Python</sub>
-- [krishnabits001/domain_specific_cl](https://github.com/krishnabits001/domain_specific_cl) - Code for NeurIPS 2020 article "Contrastive learning of global and local features for medical image segmentation with limited annotations" <sub>⭐ 184 · Python</sub>
-- [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - Segment Anything 2, 100% in the browser (with WebGPU!) <sub>⭐ 184 · TypeScript</sub>
-- [ylqi/Count-Anything](https://github.com/ylqi/Count-Anything) - This method uses Segment Anything and CLIP to ground and count any object that matches a custom text prompt, without requiring any point or box annotation. <sub>⭐ 183 · Python</sub>
-- [zhaozhen2333/iFLYTEK2021](https://github.com/zhaozhen2333/iFLYTEK2021) - The Winning Solution to the Cultivated land Extraction From High-Resolution Remote Sensing Image Challenge (1 / 486) <sub>⭐ 183 · Python</sub>
-- [Hkshoonya/nvidia-broadcast-linux](https://github.com/Hkshoonya/nvidia-broadcast-linux) - Open-source, unofficial NVIDIA Broadcast alternative for Linux and macOS: AI background effects, auto framing, noise removal, recording, and local meeting transcription. <sub>⭐ 181 · Python</sub>
-- [MaybeShewill-CV/segment-anything-u-specify](https://github.com/MaybeShewill-CV/segment-anything-u-specify) - using clip and sam to segment any instance you specify with text prompt of any instance names <sub>⭐ 181 · Python</sub>
-- [ryouchinsa/sam-cpp-macos](https://github.com/ryouchinsa/sam-cpp-macos) - Segment Anything Model 2 CPP Wrapper for macOS and Ubuntu GPU <sub>⭐ 181 · Jupyter Notebook</sub>
-- [wri/sentinel-tree-cover](https://github.com/wri/sentinel-tree-cover) - Image segmentations of trees outside forest <sub>⭐ 180 · Jupyter Notebook</sub>
-- [gyguo/awesome-weakly-supervised-semantic-segmentation](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation) - Awesome weakly-supervised image semantic segmentation, instance segmentation, 2016-2026 <sub>⭐ 179</sub>
-- [yyfyan/read-paper-list](https://github.com/yyfyan/read-paper-list) - Image segmentation-Object detection-Light-weight network <sub>⭐ 179</sub>
-- [zonasw/unet-nested-multiple-classification](https://github.com/zonasw/unet-nested-multiple-classification) - This repository contains code for a multiple classification image segmentation model based on UNet and UNet++ <sub>⭐ 179 · Python</sub>
-- [mc-lan/Text4Seg](https://github.com/mc-lan/Text4Seg) - (ICLR2025) Text4Seg: Reimagining Image Segmentation as Text Generation <sub>⭐ 177 · Python</sub>
-- [HiLab-git/CA-Net](https://github.com/HiLab-git/CA-Net) - Code for Comprehensive Attention Convolutional Neural Networks for Explainable Medical Image Segmentation. <sub>⭐ 176 · Python</sub>
-- [uncbiag/easyreg](https://github.com/uncbiag/easyreg) - an image registration/augmentation/segmentation package <sub>⭐ 176 · Python</sub>
-- [zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow](https://github.com/zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow) - An (re-)implementation of DeepLab v2 (ResNet-101) in TensorFlow for semantic image segmentation on the PASCAL VOC 2012 dataset. <sub>⭐ 176 · Python</sub>
-- [imlab-uiip/lung-segmentation-2d](https://github.com/imlab-uiip/lung-segmentation-2d) - Lung fields segmentation on CXR images using convolutional neural networks. <sub>⭐ 175 · Python</sub>
-- [lelechen63/MRI-tumor-segmentation-Brats](https://github.com/lelechen63/MRI-tumor-segmentation-Brats) - MRI medical image segmentation <sub>⭐ 175 · Python</sub>
-- [mazurowski-lab/segment-anything-medical-evaluation](https://github.com/mazurowski-lab/segment-anything-medical-evaluation) - Code for "Segment Anything Model for Medical Image Analysis: an Experimental Study" in Medical Image Analysis <sub>⭐ 175 · Python</sub>
-- [vlfeat/matconvnet-fcn](https://github.com/vlfeat/matconvnet-fcn) - A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation <sub>⭐ 175 · Matlab</sub>
-- [wangx1996/LIDAR-Segmentation-Based-on-Range-Image](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image) - This is a lidar segmentation method based on range image. <sub>⭐ 175 · C++</sub>
-- [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024) <sub>⭐ 174 · Jupyter Notebook</sub>
-- [shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection](https://github.com/shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection) - The main objective of this project is to identify overspeed vehicles, using Deep Learning and Machine Learning Algorithms. After acquisition of series of images from the video, trucks are detected… <sub>⭐ 174 · Python</sub>
-- [dhkim0225/keras-image-segmentation](https://github.com/dhkim0225/keras-image-segmentation) - Image segmentation with keras. FCN, Unet, DeepLab V3 plus, Mask RCNN ... etc. <sub>⭐ 173 · Python</sub>
-- [egeorcun/lucida](https://github.com/egeorcun/lucida) - Background removal that keeps what matters: glass, camouflage, text, glow and line art. BiRefNet fine-tune, MIT. <sub>⭐ 173 · Python</sub>
-- [Mengqi-Lei/ConDSeg](https://github.com/Mengqi-Lei/ConDSeg) - Implementation of the AAAI-2025 paper "ConDSeg: A General Medical Image Segmentation Framework via Contrast-Driven Feature Enhancement". <sub>⭐ 173 · Python</sub>
-- [meokz/looking-to-listen](https://github.com/meokz/looking-to-listen) - Deep neural network (DNN) for noise reduction, removal of background music, and speech separation <sub>⭐ 173 · Python</sub>
-- [mohammaduzair9/Basic-Image-Processing](https://github.com/mohammaduzair9/Basic-Image-Processing) - Implementation of Basic Digital Image Processing Tasks in Python / OpenCV <sub>⭐ 173 · Python</sub>
-- [flybirdxx/ComfyUI-SDMatte](https://github.com/flybirdxx/ComfyUI-SDMatte) - SDMatte is an interactive image matting method based on stable diffusion, which supports three types of visual prompts (points, boxes, and masks) for accurately extracting target objects from natural… <sub>⭐ 172 · Python</sub>
-- [ELEKTRONN/elektronn3](https://github.com/ELEKTRONN/elektronn3) - A PyTorch-based library for working with 3D and 2D convolutional neural networks, with focus on semantic segmentation of volumetric biomedical image data <sub>⭐ 171 · Python</sub>
-- [shalabh147/Brain-Tumor-Segmentation-and-Survival-Prediction-using-Deep-Neural-Networks](https://github.com/shalabh147/Brain-Tumor-Segmentation-and-Survival-Prediction-using-Deep-Neural-Networks) - Use of state of the art Convolutional neural network architectures including 3D UNet, 3D VNet and 2D UNets for Brain Tumor Segmentation and using segmented image features for Survival Prediction of… <sub>⭐ 171 · Jupyter Notebook</sub>
-- [yuhoo0302/Segment-Anything-Model-for-Medical-Images](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images) - Codes and models for Medical Image Analysis (MIA) 2023 paper. Segment Anything Model for Medical Images?. <sub>⭐ 171 · Python</sub>
-- [cvlab-stonybrook/SelfMedMAE](https://github.com/cvlab-stonybrook/SelfMedMAE) - Code for ISBI 2023 paper "Self Pre-training with Masked Autoencoders for Medical Image Classification and Segmentation" <sub>⭐ 169 · Python</sub>
-- [ESA-PhiLab/iris](https://github.com/ESA-PhiLab/iris) - Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery. <sub>⭐ 169 · JavaScript</sub>
+- [davyneven/fastSceneUnderstanding](https://github.com/davyneven/fastSceneUnderstanding) - セグメント化、インスタンスのセグメンテーションと単一のイメージ深さ <sub>⭐ 220 · Lua</sub>
+- [gibbonCode/GIBBON](https://github.com/gibbonCode/GIBBON) - MATLABのGeometryとImage-Based Bioengineeringアドオン <sub>⭐ 220 · MATLAB</sub>
+- [OSUPCVLab/SegFormer3D](https://github.com/OSUPCVLab/SegFormer3D) - SegFormer3Dの公式実装: 3D医療画像セグメンテーションのための効率的なトランス(CVPR 2024) <sub>⭐ 220 · Python</sub>
+- [seung-lab/kimimaro](https://github.com/seung-lab/kimimaro) - TEASARと密接にラベル付けされた3D画像のセグメンテーションをSkeletonize。 (メディアル軸変換) <sub>⭐ 217 · C++</sub>
+- [winycg/CIRKD](https://github.com/winycg/CIRKD) - CIRKDの公式実装:都市スケープ、ADE20K、COCO-Stuff.、Pascal VOCおよびCamVidに関するセマンティック・セグメンテーションと実装のためのクロスイメージ・レコラル・ナレッジ蒸留。 <sub>⭐ 217 · Python</sub>
+- [Yanfeng-Zhou/XNet](https://github.com/Yanfeng-Zhou/XNet) - (ICCV2023) XNet:バイオメディカル画像の半・超判別セマンティックセグメント化のためのWavelet-Based LowおよびHigh周波数マージネットワーク <sub>⭐ 217 · Python</sub>
+- [ZFTurbo/ZF_UNET_224_Pretrained_Model](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model) - Kerasフレームワークにおける画像のセグメンテーションのための複雑なニューラルネット「UNET」の変更 <sub>⭐ 217 · Python</sub>
+- [aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models) - CVPR 2023 で受け入れられる <sub>⭐ 215 · Python</sub>
+- [Rayicer/TransFuse](https://github.com/Rayicer/TransFuse) - このリポジトリは、TransFuseのコードを保持しています。医療画像のセグメンテーションのためのトランスとCNNを融合 <sub>⭐ 215 · Python</sub>
+- [med-air/3DSAM-adapter](https://github.com/med-air/3DSAM-adapter) - 2Dから3DまでのSAMのホリスティックな適応 <sub>⭐ 213 · Python</sub>
+- [royerlab/napari-segment-anything](https://github.com/royerlab/napari-segment-anything) - 任意のモデル(SAM)ネイティブQt UIをセグメント化 <sub>⭐ 212 · Python</sub>
+- [chrise96/image-to-coco-json-converter](https://github.com/chrise96/image-to-coco-json-converter) - セグメントRGBマスク画像をCOCO JSON形式に変換する <sub>⭐ 210 · Jupyter Notebook</sub>
+- [PengtaoJiang/Segment-Anything-CLIP](https://github.com/PengtaoJiang/Segment-Anything-CLIP) - セグメント・アニースの出力マスクをCLIPモデルと接続する。Awesome-Segment-Anything-Works <sub>⭐ 210 · Jupyter Notebook</sub>
+- [JizhiziLi/RIM](https://github.com/JizhiziLi/RIM) - (CVPR 2023) 参照イメージのマット <sub>⭐ 209</sub>
+- [preddy5/segnet](https://github.com/preddy5/segnet) - イメージの区分のための深いconvolutionalエンコーダー デコーダ アーキテクチャ <sub>⭐ 205 · Jupyter Notebook</sub>
+- [zhengyang-wang/3D-Unet--Tensorflow](https://github.com/zhengyang-wang/3D-Unet--Tensorflow) - 3Dインセンスファント脳画像のセグメンテーションのためのUnet <sub>⭐ 204 · Python</sub>
+- [mdhmz1/Auto-Annotate](https://github.com/mdhmz1/Auto-Annotate) - オートアノテート - 1つのコマンドで画像ディレクトリ全体を自動に注釈付けします。 「自律的な車のデータセット(ディレクトリ)の全ての通り標識(ラベル)を割り当てる」とBAM!... <sub>⭐ 202 · Python</sub>
+- [shreyas-bk/u2netdemo](https://github.com/shreyas-bk/u2netdemo) - 背景除去、バックグラウンド変更、境界ボックス作成、サリーン機能のハイライトとサーエントオブジェクトクロッピングにU-2-NETが使用できる方法を示すためにGoogle Colabを使用して実証。 <sub>⭐ 202 · Jupyter Notebook</sub>
+- [JianqiangWan/Super-BPD](https://github.com/JianqiangWan/Super-BPD) - 超BPD:超高速画像の分岐(CVPR 2020)のためのスーパー境界対ピクセル方向 <sub>⭐ 201 · Python</sub>
+- [JizhiziLi/matting-survey](https://github.com/JizhiziLi/matting-survey) - 深層画像の強調:包括的な調査 <sub>⭐ 201</sub>
+- [leimao/DeepLab-V3](https://github.com/leimao/DeepLab-V3) - GoogleのDeepLab V3イメージのセマンティックセグメンテーション <sub>⭐ 200 · Python</sub>
+- [tamasino52/UNETR](https://github.com/tamasino52/UNETR) - UNETRの非公式コードベース:3D医療画像セグメンテーション用トランス <sub>⭐ 200 · Python</sub>
+- [yhygao/UTNet](https://github.com/yhygao/UTNet) - UTNetの公式実装:医療画像セグメンテーションのためのハイブリッドトランスアーキテクチャ <sub>⭐ 200 · Python</sub>
+- [dengxl0520/MemSAM](https://github.com/dengxl0520/MemSAM) - (CVPR 2024 オーラル) MemSAM:エコーカルディオグラフィビデオのセグメンテーションのためのあらゆるモデルを分類する。 <sub>⭐ 199 · Python</sub>
+- [ge-xing/Diff-UNet](https://github.com/ge-xing/Diff-UNet) - Diff-UNet: 数値分割のための拡散埋め込まれたネットワーク。(3D医療画像のセグメンテーションのために拡散を使用して) <sub>⭐ 199 · Python</sub>
+- [llmir/FedICRA](https://github.com/llmir/FedICRA) - 論文の公式実装「適応的表現と集計による弱固有監視された医療画像のセグメンテーションを統一し、パーソナライズする」。 <sub>⭐ 199 · Python</sub>
+- [VisionXLab/sam-mmrotate](https://github.com/VisionXLab/sam-mmrotate) - MMRotateで回転境界ボックスを生成するためのSAM(セグメント別モデル)は、H2RBox-v2の比較方法です。 <sub>⭐ 199 · Python</sub>
+- [xwmaxwma/rssegmentation](https://github.com/xwmaxwma/rssegmentation) - (TGRS2025、ISPRS2025、リモートセンシング画像のTGRS2026)セマンティックセグメンテーション <sub>⭐ 199 · Python</sub>
+- [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet) - *Mixed変圧器UNet for Medical Imageセグメンテーション*の公式コード <sub>⭐ 198 · Python</sub>
+- [nv-dvl/segment-anything-lidar](https://github.com/nv-dvl/segment-anything-lidar) - (ECCV 2024) より良いコールSAL:ライダーで何かをセグメント化するために学習 <sub>⭐ 197</sub>
+- [perslev/MultiPlanarUNet](https://github.com/perslev/MultiPlanarUNet) - 3D医療画像の自動分別のためのマルチプラナーUNet <sub>⭐ 197 · Python</sub>
+- [martinkersner/train-CRF-RNN](https://github.com/martinkersner/train-CRF-RNN) - セマンティック・イメージの区分のための列車CRF-RNN <sub>⭐ 196 · Python</sub>
+- [hallvaaw/awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - 生物学的質問に関連する画像分析のためのソフトウェア、ツール、パイプライン、プラグインなどのキュレーションリスト。 <sub>⭐ 195</sub>
+- [wangjunchi/LLMSeg](https://github.com/wangjunchi/LLMSeg) - LLM-Seg: 映像の区分および大きい言語モデル・リーソンをブリッジングする <sub>⭐ 195 · Python</sub>
+- [qianyu-dlut/MVANet](https://github.com/qianyu-dlut/MVANet) - マルチビューアグリゲーションネットワーク(CVPR24、ハイライト) <sub>⭐ 194 · Python</sub>
+- [weijiawu/DiffuMask](https://github.com/weijiawu/DiffuMask) - (ICCV2023) DiffuMask:Diffusionモデルを用いたセマンティック・セグメンテーションのためのピクセルレベルのアノテーションによる画像の合成 <sub>⭐ 193 · Python</sub>
+- [SUN-1024/DA-TransUnet](https://github.com/SUN-1024/DA-TransUnet) - DA-TransUNet: 医療画像のセグメンテーションのためのトランスUネットと位置およびチャネルの二重保持を結合して下さい <sub>⭐ 192 · Python</sub>
+- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - このリポジトリは、画像/ビデオの機密情報を匿名化することができます。 ソリューションは、既に公開/公開するDLベースのトレーニング/インフェレンスソリューションと完全に互換性があります... <sub>⭐ 191 · Python</sub>
+- [CoinCheung/DeepLab-v3-plus-cityscapes](https://github.com/CoinCheung/DeepLab-v3-plus-cityscapes) - mIOU=80.02 市街地に。 Deeplabv3+ の実装(また、都市景観のデータセットに基づいて「Semantic Image セグメンテーションのための多孔質な分離可能コンボとエンコーダーデコーダ」として知っている)。 <sub>⭐ 191 · Python</sub>
+- [LUSSeg/ImageNet-S](https://github.com/LUSSeg/ImageNet-S) - (TPAMI2022) ImageNet-Sのベンチマーク/メソッドは、大規模な監視されていない/半指示されたセマンティックセグメンテーションのためのものです。 <sub>⭐ 191 · Python</sub>
+- [kleinzcy/SASSnet](https://github.com/kleinzcy/SASSnet) - 形状アウェア半指示された3Dの医学イメージのための分離 <sub>⭐ 190 · Python</sub>
+- [ArtyZe/yolo_segmentation](https://github.com/ArtyZe/yolo_segmentation) - イメージ(セマンティック・セグメンテーション) インスタンスをダークネットまたはイオロによるセグメンテーション <sub>⭐ 188 · Objective-C</sub>
+- [HuXiaoling/TopoLoss](https://github.com/HuXiaoling/TopoLoss) - NeurIPS 2019紙のコード: 地質保存深度画像のセグメンテーション <sub>⭐ 185 · C++</sub>
+- [jhj0517/stable-diffusion-webui-Layer-Divider](https://github.com/jhj0517/stable-diffusion-webui-Layer-Divider) - セグメント・アニースモデル(SAM)を用いた安定拡散型webuiの拡張用レイヤーディバイダー <sub>⭐ 185 · Python</sub>
+- [PathologyDataScience/BCSS](https://github.com/PathologyDataScience/BCSS) - 以下に示すBCSSデータセットのすべての要素をダウンロードするためにこれを使用します: Amgad M、Elfandy H、...、Gutman DA、Cooper LAD。 構造化されたクラウドソーシングにより、組織的な画像の関連セグメント化が可能になります。 ... <sub>⭐ 185 · Python</sub>
+- [StefanDenn3r/Unsupervised_Anomaly_Detection_Brain_MRI](https://github.com/StefanDenn3r/Unsupervised_Anomaly_Detection_Brain_MRI) - 脳のMR画像における異常なセグメンテーションを監視するオートエンコーダ:比較研究 <sub>⭐ 185 · Python</sub>
+- [cuilunan/Unet-of-remote-sensing-image](https://github.com/cuilunan/Unet-of-remote-sensing-image) - リモートセンシング画像のセマンティックセグメンテーション <sub>⭐ 184 · Python</sub>
+- [HiLab-git/WORD](https://github.com/HiLab-git/WORD) - (MedIA2022)WORD:CTイメージから腹部組織の分別のための大規模データセット、ベンチマークおよび臨床適当な研究 <sub>⭐ 184 · Python</sub>
+- [krishnabits001/domain_specific_cl](https://github.com/krishnabits001/domain_specific_cl) - NeurIPS 2020の記事「限られた注釈で医療画像のセグメンテーションのためのグローバルおよびローカル機能の対照的な学習」 <sub>⭐ 184 · Python</sub>
+- [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - ブラウザの2、100%をセグメント化(WebGPUで!) <sub>⭐ 184 · TypeScript</sub>
+- [ylqi/Count-Anything](https://github.com/ylqi/Count-Anything) - この方法は、任意のポイントやボックスのアノテーションを要求することなく、カスタムテキストプロンプトに一致するオブジェクトを分割し、カウントするために、Seges と CLIP を使用します。 <sub>⭐ 183 · Python</sub>
+- [zhaozhen2333/iFLYTEK2021](https://github.com/zhaozhen2333/iFLYTEK2021) - 高解像リモートセンシング画像チャレンジから栽培された土地抽出へのウィンニングソリューション (1 / 486) <sub>⭐ 183 · Python</sub>
+- [Hkshoonya/nvidia-broadcast-linux](https://github.com/Hkshoonya/nvidia-broadcast-linux) - オープンソース、非公式のNVIDIAブロードキャストは、LinuxとmacOSの代替手段です。AIの背景効果、オートフラミング、ノイズ除去、録音、およびローカルミーティングトランスクリプション。 <sub>⭐ 181 · Python</sub>
+- [MaybeShewill-CV/segment-anything-u-specify](https://github.com/MaybeShewill-CV/segment-anything-u-specify) - Clip と sam を使用して、任意のインスタンスの名前のテキストプロンプトで指定するインスタンスをセグメント化します。 <sub>⭐ 181 · Python</sub>
+- [ryouchinsa/sam-cpp-macos](https://github.com/ryouchinsa/sam-cpp-macos) - macOSとUbuntu GPU用のモデル2 CPP Wrapperをセグメント化 <sub>⭐ 181 · Jupyter Notebook</sub>
+- [wri/sentinel-tree-cover](https://github.com/wri/sentinel-tree-cover) - 森の外に広がる木々のイメージ <sub>⭐ 180 · Jupyter Notebook</sub>
+- [gyguo/awesome-weakly-supervised-semantic-segmentation](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation) - 微弱監視画像のセマンティックセグメント化、インスタンスセグメンテーション、2016-2026 <sub>⭐ 179</sub>
+- [yyfyan/read-paper-list](https://github.com/yyfyan/read-paper-list) - 画像セグメンテーションオブジェクト検出ライト級ネットワーク <sub>⭐ 179</sub>
+- [zonasw/unet-nested-multiple-classification](https://github.com/zonasw/unet-nested-multiple-classification) - このリポジトリには、UNetとUNet++に基づいて複数の分類画像のセグメンテーションモデル用のコードが含まれています。 <sub>⭐ 179 · Python</sub>
+- [mc-lan/Text4Seg](https://github.com/mc-lan/Text4Seg) - (ICLR2025)Text4Seg:テキスト生成としての画像のセグメンテーションを想像する <sub>⭐ 177 · Python</sub>
+- [HiLab-git/CA-Net](https://github.com/HiLab-git/CA-Net) - 説明可能な医療画像のセグメンテーションのための包括的な注意深い神経ネットワークのためのコード。 <sub>⭐ 176 · Python</sub>
+- [uncbiag/easyreg](https://github.com/uncbiag/easyreg) - 画像登録・認証・セグメンテーションパッケージ <sub>⭐ 176 · Python</sub>
+- [zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow](https://github.com/zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow) - PASCAL VOC 2012 データセットのセマンティックなイメージセグメント化のためのTensorFlowでDeepLab v2 (ResNet-101)の(再)導入。 <sub>⭐ 176 · Python</sub>
+- [imlab-uiip/lung-segmentation-2d](https://github.com/imlab-uiip/lung-segmentation-2d) - CXR のイメージに、複雑なニューラルネットワークを使っている領域をセグメント化。 <sub>⭐ 175 · Python</sub>
+- [lelechen63/MRI-tumor-segmentation-Brats](https://github.com/lelechen63/MRI-tumor-segmentation-Brats) - MRIの医学画像の区分 <sub>⭐ 175 · Python</sub>
+- [mazurowski-lab/segment-anything-medical-evaluation](https://github.com/mazurowski-lab/segment-anything-medical-evaluation) - 医療画像解析における「医療イメージ分析のための課題モデル:実験的研究」のコード <sub>⭐ 175 · Python</sub>
+- [vlfeat/matconvnet-fcn](https://github.com/vlfeat/matconvnet-fcn) - 映像のセグメント化のための完全通信ネットワークのMatConvNetベースの実装 <sub>⭐ 175 · Matlab</sub>
+- [wangx1996/LIDAR-Segmentation-Based-on-Range-Image](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image) - 範囲イメージに基づく、ライダーセグメンテーション方式です。 <sub>⭐ 175 · C++</sub>
+- [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Revisitのコードリリース:画像セグメント検索による視覚的位置認識(ECCV 2024) <sub>⭐ 174 · Jupyter Notebook</sub>
+- [shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection](https://github.com/shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection) - このプロジェクトの主な目的は、ディープラーニングと機械学習アルゴリズムを使用して、超過速度車を識別することです。 ビデオから一連の画像の獲得後、トラックが検出されます... <sub>⭐ 174 · Python</sub>
+- [dhkim0225/keras-image-segmentation](https://github.com/dhkim0225/keras-image-segmentation) - keras. FCN、Unet、DeepLab V3プラス、マスクRCNN ...などによる画像のセグメンテーション <sub>⭐ 173 · Python</sub>
+- [egeorcun/lucida](https://github.com/egeorcun/lucida) - ガラス、カモフラージュ、テキスト、光とラインアートの重要な背景除去。 BiRefNetファインチューン、MIT. <sub>⭐ 173 · Python</sub>
+- [Mengqi-Lei/ConDSeg](https://github.com/Mengqi-Lei/ConDSeg) - AAAI-2025紙「ConDSeg:コントラスト駆動機能強化による一般医療画像のセグメンテーションフレームワーク」の実施。 <sub>⭐ 173 · Python</sub>
+- [meokz/looking-to-listen](https://github.com/meokz/looking-to-listen) - 騒音低減、背景音楽の除去、音声分離のためのディープニューラルネットワーク(DNN) <sub>⭐ 173 · Python</sub>
+- [mohammaduzair9/Basic-Image-Processing](https://github.com/mohammaduzair9/Basic-Image-Processing) - Python/OpenCVにおける基本的なデジタル画像処理タスクの実装 <sub>⭐ 173 · Python</sub>
+- [flybirdxx/ComfyUI-SDMatte](https://github.com/flybirdxx/ComfyUI-SDMatte) - SDMatteは、自然からターゲットオブジェクトを正確に抽出するための3つのタイプの視覚プロンプト(ポイント、ボックス、マスク)をサポートする安定した拡散に基づいてインタラクティブな画像マット方法です。 <sub>⭐ 172 · Python</sub>
+- [ELEKTRONN/elektronn3](https://github.com/ELEKTRONN/elektronn3) - 3Dと2Dのコンボチュアルニューラルネットワークと連携するためのPyTorchベースのライブラリは、体積分的画像データのセグメンテーションに焦点を当てています <sub>⭐ 171 · Python</sub>
+- [shalabh147/Brain-Tumor-Segmentation-and-Survival-Prediction-using-Deep-Neural-Networks](https://github.com/shalabh147/Brain-Tumor-Segmentation-and-Survival-Prediction-using-Deep-Neural-Networks) - 3D UNet、3D VNet、Brain Tumorセグメンテーションのための2D UNetsを含むアートコンボチュアルニューラルネットワークアーキテクチャの状態の使用とSurvival Predictionのセグメント化された画像機能を使用して... <sub>⭐ 171 · Jupyter Notebook</sub>
+- [yuhoo0302/Segment-Anything-Model-for-Medical-Images](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images) - 医療画像分析(MIA)2023用紙のコードとモデル。医療イメージのための任意のモデルをセグメント化? <sub>⭐ 171 · Python</sub>
+- [cvlab-stonybrook/SelfMedMAE](https://github.com/cvlab-stonybrook/SelfMedMAE) - ISBI 2023紙「医療画像の分類とセグメンテーションのためのマスクされたAutoencoderで自己事前訓練」コード <sub>⭐ 169 · Python</sub>
+- [ESA-PhiLab/iris](https://github.com/ESA-PhiLab/iris) - 多スペクトルおよび地空間イメージの手動セグメンテーションのための半自動ツール。 <sub>⭐ 169 · JavaScript</sub>
 - [SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset) - このデータセットには、ランドサット8の画像と手動で抽出されたピクセルレベルの地上の真実がクラウド検出に含まれています。 <sub>⭐ 169 · MATLAB</sub>
-- [martinkersner/train-DeepLab](https://github.com/martinkersner/train-DeepLab) - Train DeepLab for Semantic Image Segmentation <sub>⭐ 168 · Python</sub>
-- [GuoleiSun/CountSeg](https://github.com/GuoleiSun/CountSeg) - Official code for "Object counting and instance segmentation with image-level supervision", in CVPR 2019 and TPAMI 2020 <sub>⭐ 167 · Python</sub>
-- [SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) - The aim of this study is automatic semantic segmentation in one-shot panoramic x-ray image by using deep learning method with U-Net Model and binary image analysis in order to provide diagnostic… <sub>⭐ 167 · Jupyter Notebook</sub>
-- [ByungKwanLee/Full-Segment-Anything](https://github.com/ByungKwanLee/Full-Segment-Anything) - This is Pytorch Implementation Code for adding new features in code of Segment-Anything. Here, the features support batch-input on the full-grid prompt (automatic mask generation) with… <sub>⭐ 166 · Python</sub>
-- [JinyuanLiu-CV/SegMiF](https://github.com/JinyuanLiu-CV/SegMiF) - ICCV2023 / Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation <sub>⭐ 166 · Python</sub>
-- [Ltamann/ComfyUI-TBG-SAM3](https://github.com/Ltamann/ComfyUI-TBG-SAM3) - ComfyUI-TBG-SAM3 A plug-and-play ComfyUI extension providing production-ready nodes for Meta’s SAM3 (Segment Anything Model 3) for text- or point-based segmentation, exhaustive mask generation, and… <sub>⭐ 166 · Python</sub>
-- [NathanZabriskie/GraphCut](https://github.com/NathanZabriskie/GraphCut) - Graph cut image segmentation with custom GUI. <sub>⭐ 166 · Python</sub>
-- [feyninc/nobg](https://github.com/feyninc/nobg) - a library for background removal models <sub>⭐ 165 · Python</sub>
-- [TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2) - Object Detection and Image Segmentation with Detectron2 <sub>⭐ 165 · Jupyter Notebook</sub>
-- [cwfid/dataset](https://github.com/cwfid/dataset) - Crop/Weed Field Image Dataset <sub>⭐ 164</sub>
-- [gorkemcanates/Dual-Cross-Attention](https://github.com/gorkemcanates/Dual-Cross-Attention) - Official Pytorch implementation of Dual Cross-Attention for Medical Image Segmentation <sub>⭐ 163 · Python</sub>
-- [GuoleiSun/MCIS_wsss](https://github.com/GuoleiSun/MCIS_wsss) - Code for ECCV 2020 paper (oral): Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation <sub>⭐ 163 · C++</sub>
-- [ieee820/BraTS2018-tumor-segmentation](https://github.com/ieee820/BraTS2018-tumor-segmentation) - We provide DeepMedic and 3D UNet in pytorch for brain tumore segmentation. We also integrate location information with DeepMedic and 3D UNet by adding additional brain parcellation with original MR… <sub>⭐ 162 · Python</sub>
-- [Lsan2401/RMSIN](https://github.com/Lsan2401/RMSIN) - Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation <sub>⭐ 161 · Python</sub>
-- [robot-learning-freiburg/ros_sam](https://github.com/robot-learning-freiburg/ros_sam) - ROS wrapper for Meta's Segment-Anything model <sub>⭐ 160 · CMake</sub>
-- [suyogduttjain/pixelobjectness](https://github.com/suyogduttjain/pixelobjectness) - Generic Foreground Segmentation in Images <sub>⭐ 160 · Python</sub>
-- [BingfengYan/VISAM](https://github.com/BingfengYan/VISAM) - Combining "segment-anything" with MOT, it create the era of "MOTS" <sub>⭐ 158 · Python</sub>
-- [Zyun-Y/DconnNet](https://github.com/Zyun-Y/DconnNet) - Codes for CVPR2023 paper "Directional Connectivity-based Segmentation of Medical Images" <sub>⭐ 158 · Python</sub>
-- [GuoleiSun/Awesome-SAM2](https://github.com/GuoleiSun/Awesome-SAM2) - This repo aims to include materials (papers, codes, slides) about SAM2 (segment anything in images and videos). We are continuously improving the project. Welcome to PR the works (papers, repos) that… <sub>⭐ 156</sub>
-- [kondratevakate/mri-deep-learning-tools](https://github.com/kondratevakate/mri-deep-learning-tools) - Resurces for MRI images processing and deep learning in 3D <sub>⭐ 156</sub>
-- [Kohulan/DECIMER-Image-Segmentation](https://github.com/Kohulan/DECIMER-Image-Segmentation) - Chemical structure detection and segmentation tool for Journal articles. <sub>⭐ 155 · Jupyter Notebook</sub>
-- [XuHu0529/SAGS](https://github.com/XuHu0529/SAGS) - The official implementation of SAGS (Segment Anything in 3D Gaussians) <sub>⭐ 155 · Jupyter Notebook</sub>
-- [CDOTAD/AlphaGAN-Matting](https://github.com/CDOTAD/AlphaGAN-Matting) - This project is an unofficial implementation of AlphaGAN: Generative adversarial networks for natural image matting published at the BMVC 2018 <sub>⭐ 154 · Python</sub>
-- [MiscellaneousStuff/meta-sam-demo](https://github.com/MiscellaneousStuff/meta-sam-demo) - Meta's Segment Anything Model (SAM) Demo Site <sub>⭐ 153 · HTML</sub>
-- [MathieuNlp/Sam_LoRA](https://github.com/MathieuNlp/Sam_LoRA) - Segment Your Ring (SYR) - Segment Anything model adapted with LoRA to segment rings. <sub>⭐ 148 · Python</sub>
-- [PrzemekSkw/imagemagick-webui](https://github.com/PrzemekSkw/imagemagick-webui) - Modern web GUI for ImageMagick with AI-powered background removal, batch processing, and real-time preview. Built with Next.js, FastAPI, and Docker. <sub>⭐ 144 · TypeScript</sub>
-- [hustvl/LENS](https://github.com/hustvl/LENS) - (AAAI 2026 Oral) LENS: Learning to Segment Anything with Unified Reinforced Reasoning <sub>⭐ 143 · Python</sub>
-- [GhayasAhmad/auto-background-remover](https://github.com/GhayasAhmad/auto-background-remover) - Android Background Remover is a blazing-fast, offline AI image background removal library for Android. Perfect for e-commerce, social, and photo editing apps. Remove backgrounds from Bitmaps with… <sub>⭐ 140 · Kotlin</sub>
-- [autodistill/autodistill-grounded-sam-2](https://github.com/autodistill/autodistill-grounded-sam-2) - Use Segment Anything 2, grounded with Florence-2, to auto-label data for use in training vision models. <sub>⭐ 139 · Python</sub>
-- [FudanCVL/SAM2Matting](https://github.com/FudanCVL/SAM2Matting) - (ECCV 2026) SAM2Matting: Generalized Image and Video Matting <sub>⭐ 139 · Python</sub>
-- [weihao1115/cat-sam](https://github.com/weihao1115/cat-sam) - (ECCV 2024 Oral) The official implementation of "CAT-SAM: Conditional Tuning for Few-Shot Adaptation of Segment Anything Model". <sub>⭐ 138 · Python</sub>
-- [bhpfelix/segment-anything-finetuner](https://github.com/bhpfelix/segment-anything-finetuner) - Simple Finetuning Starter Code for Segment Anything <sub>⭐ 137 · Python</sub>
-- [ksugar/qupath-extension-sam](https://github.com/ksugar/qupath-extension-sam) - QuPath extension for Segment Anything Model (SAM) <sub>⭐ 137 · Java</sub>
-- [LiamLian0727/USIS10K](https://github.com/LiamLian0727/USIS10K) - (ICML 2024) Official repository of the paper: "Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset" <sub>⭐ 135 · Python</sub>
-- [yifangao112/DeSAM](https://github.com/yifangao112/DeSAM) - (MICCAI 2024) The official repository for DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation. <sub>⭐ 134 · Python</sub>
-- [hqqxyy/Context-Aware-Matting](https://github.com/hqqxyy/Context-Aware-Matting) - The project is the inference implementation of our ICCV2019 paper "Context-aware Image Matting for Simultaneous Foreground and Alpha Estimation" <sub>⭐ 132 · Python</sub>
-- [dk-liang/Awesome-Segment-Anything](https://github.com/dk-liang/Awesome-Segment-Anything) - Collect some resource about Segment Anything (SAM), including the latest papers and demo <sub>⭐ 131</sub>
-- [safouaneelg/FusionVision](https://github.com/safouaneelg/FusionVision) - Official implementation of the paper " FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything " <sub>⭐ 131 · Jupyter Notebook</sub>
-- [czg1225/Awesome-Efficient-Segment-Anything](https://github.com/czg1225/Awesome-Efficient-Segment-Anything) - One summary of efficient segment anything models <sub>⭐ 127</sub>
-- [UllrAI/HeadShots.fun](https://github.com/UllrAI/HeadShots.fun) - AI headshot SaaS built with Next.js, Replicate, and Stripe. <sub>⭐ 127 · TypeScript</sub>
-- [vignywang/SAMFeat](https://github.com/vignywang/SAMFeat) - The official implementation of “Segment Anything Model is a Good Teacher for Local Feature Learning”. <sub>⭐ 125 · Python</sub>
-- [FeiGeChuanShu/segment-anything-ncnn](https://github.com/FeiGeChuanShu/segment-anything-ncnn) - an example of segment-anything infer by ncnn <sub>⭐ 123 · C++</sub>
-- [arcadelab/FastSAM3D](https://github.com/arcadelab/FastSAM3D) - Code for "FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images" <sub>⭐ 118 · Python</sub>
-- [weihao1115/mm-sam](https://github.com/weihao1115/mm-sam) - The official implementation of "Segment Anything with Multiple Modalities". <sub>⭐ 118 · Python</sub>
-- [facebookresearch/UnSAMFlow](https://github.com/facebookresearch/UnSAMFlow) - Source code for CVPR 2024 paper UnSAMFlow Unsupervised Optical Flow Guided by Segment Anything Model. <sub>⭐ 116 · Python</sub>
-- [ksugar/samapi](https://github.com/ksugar/samapi) - Segment Anything Model API <sub>⭐ 116 · Python</sub>
-- [branislavhesko/segment-anything-ui](https://github.com/branislavhesko/segment-anything-ui) - Segment anything UI for annotations <sub>⭐ 114 · Python</sub>
-- [cvlab-stonybrook/SID](https://github.com/cvlab-stonybrook/SID) - Official implementation for ICCV19 "Shadow Removal via Shadow Image Decomposition" <sub>⭐ 111 · Jupyter Notebook</sub>
-- [linyq2117/SAMRefiner](https://github.com/linyq2117/SAMRefiner) - (ICLR 2025) SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement <sub>⭐ 109 · Jupyter Notebook</sub>
-- [MrSyee/SAM-remove-background](https://github.com/MrSyee/SAM-remove-background) - Extract objection and remove background application using Segment Anything Model(SAM). <sub>⭐ 109 · Python</sub>
-- [achalddave/segment-any-moving](https://github.com/achalddave/segment-any-moving) - Code for "Towards Segmenting Anything That Moves" <sub>⭐ 108 · Python</sub>
-- [FaceOnLive/Realtime-Background-Changer-SDK-Android](https://github.com/FaceOnLive/Realtime-Background-Changer-SDK-Android) - Realtime, Accurate Background Changer, Portrait Segmentation, Portrait Matting, Background Removal for Android <sub>⭐ 107 · Kotlin</sub>
-- [BooHwang/segment_anything_tensorrt](https://github.com/BooHwang/segment_anything_tensorrt) - Accelerate segment anything model inference using Tensorrt 8.6.1.6 <sub>⭐ 106 · Python</sub>
+- [martinkersner/train-DeepLab](https://github.com/martinkersner/train-DeepLab) - Semanticイメージの区分のための列車DeepLab <sub>⭐ 168 · Python</sub>
+- [GuoleiSun/CountSeg](https://github.com/GuoleiSun/CountSeg) - 「画像レベルの監督によるオブジェクトカウントとインスタンスのセグメンテーション」、CVPR 2019およびTPAMI 2020 <sub>⭐ 167 · Python</sub>
+- [SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) - この研究の目的は、ディープラーニング方式とU-Netモデルを用いた1ショットパノラマX線画像の自動セマンティックセグメンテーションで診断を行うためのバイナリイメージ解析です。 <sub>⭐ 167 · Jupyter Notebook</sub>
+- [ByungKwanLee/Full-Segment-Anything](https://github.com/ByungKwanLee/Full-Segment-Anything) - これは、Segment-Anythingのコードに新機能を追加するためのPytorch実装コードです。 ここでは、フルグリッドプロンプト(自動マスク生成)上のバッチ入力をサポートしている機能... <sub>⭐ 166 · Python</sub>
+- [JinyuanLiu-CV/SegMiF](https://github.com/JinyuanLiu-CV/SegMiF) - ICCV2023 / マルチ・インターアクティブ機能学習とフルタイム画像の融合とセグメンテーションのためのマルチモーダリティベンチマーク <sub>⭐ 166 · Python</sub>
+- [Ltamann/ComfyUI-TBG-SAM3](https://github.com/Ltamann/ComfyUI-TBG-SAM3) - ComfyUI-TBG-SAM3 プラグインアンドプレイComfyUI拡張機能により、メタのSAM3(セグメント別モデル3)にテキストやポイントベースのセグメンテーション、排気マスク生成、および... <sub>⭐ 166 · Python</sub>
+- [NathanZabriskie/GraphCut](https://github.com/NathanZabriskie/GraphCut) - グラフはカスタムGUIで画像の分割をカットします。 <sub>⭐ 166 · Python</sub>
+- [feyninc/nobg](https://github.com/feyninc/nobg) - 背景除去モデルのライブラリ <sub>⭐ 165 · Python</sub>
+- [TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2) - Objectの検出とDetectron2による画像のセグメンテーション <sub>⭐ 165 · Jupyter Notebook</sub>
+- [cwfid/dataset](https://github.com/cwfid/dataset) - 作物/雑草のフィールド イメージのデータセット <sub>⭐ 164</sub>
+- [gorkemcanates/Dual-Cross-Attention](https://github.com/gorkemcanates/Dual-Cross-Attention) - 医療画像のセグメンテーションのためのデュアルクロスアテンションの公式Pytorch実装 <sub>⭐ 163 · Python</sub>
+- [GuoleiSun/MCIS_wsss](https://github.com/GuoleiSun/MCIS_wsss) - ECCV 2020用紙のコード(経口): 浸水率監視セマンティックセグメントのためのクロスイメージの分析を採掘 <sub>⭐ 163 · C++</sub>
+- [ieee820/BraTS2018-tumor-segmentation](https://github.com/ieee820/BraTS2018-tumor-segmentation) - 脳腫瘍分裂のためのピトーチにDeepMedicと3D UNetを提供します。 また、元のMRで追加の脳相殺を加えることにより、位置情報と3DのUNetを統合します... <sub>⭐ 162 · Python</sub>
+- [Lsan2401/RMSIN](https://github.com/Lsan2401/RMSIN) - リモートセンシングイメージのセグメンテーションを参照するための回転マルチスケールインタラクションネットワーク <sub>⭐ 161 · Python</sub>
+- [robot-learning-freiburg/ros_sam](https://github.com/robot-learning-freiburg/ros_sam) - メタのセグメンテーションモデルのためのROSラッパー <sub>⭐ 160 · CMake</sub>
+- [suyogduttjain/pixelobjectness](https://github.com/suyogduttjain/pixelobjectness) - イメージの一般的なフォアグラウンドセグメンテーション <sub>⭐ 160 · Python</sub>
+- [BingfengYan/VISAM](https://github.com/BingfengYan/VISAM) - MOTと「セグメント・アニース」を組み合わせ、MOTSの時代を創り出す <sub>⭐ 158 · Python</sub>
+- [Zyun-Y/DconnNet](https://github.com/Zyun-Y/DconnNet) - CVPR2023紙「医療画像の直接的接続性に基づくセグメンテーション」コード <sub>⭐ 158 · Python</sub>
+- [GuoleiSun/Awesome-SAM2](https://github.com/GuoleiSun/Awesome-SAM2) - このリポジトリは、SAM2に関する資料(紙・コード・スライド)を含むことを目的としています。私たちはプロジェクトを継続的に改善しています。 ようこそPR the works (papers, repos) それ... <sub>⭐ 156</sub>
+- [kondratevakate/mri-deep-learning-tools](https://github.com/kondratevakate/mri-deep-learning-tools) - 3DでMRI画像処理と深層学習を補う <sub>⭐ 156</sub>
+- [Kohulan/DECIMER-Image-Segmentation](https://github.com/Kohulan/DECIMER-Image-Segmentation) - ジャーナル記事のための化学構造の検出そして区分用具。 <sub>⭐ 155 · Jupyter Notebook</sub>
+- [XuHu0529/SAGS](https://github.com/XuHu0529/SAGS) - SAGSの公式実装(3Dガウス) <sub>⭐ 155 · Jupyter Notebook</sub>
+- [CDOTAD/AlphaGAN-Matting](https://github.com/CDOTAD/AlphaGAN-Matting) - このプロジェクトは、BMVC 2018で公開された自然な画像のマットのためのAlphaGANの非公式な実装です。 <sub>⭐ 154 · Python</sub>
+- [MiscellaneousStuff/meta-sam-demo](https://github.com/MiscellaneousStuff/meta-sam-demo) - メタのセグメント別モデル(SAM)デモサイト <sub>⭐ 153 · HTML</sub>
+- [MathieuNlp/Sam_LoRA](https://github.com/MathieuNlp/Sam_LoRA) - リング(SYR)をセグメント化 - LoRAとセグメントリングに合わせた全てのモデルを分割します。 <sub>⭐ 148 · Python</sub>
+- [PrzemekSkw/imagemagick-webui](https://github.com/PrzemekSkw/imagemagick-webui) - ImageMagick用のモダンWeb GUIは、AI搭載の背景除去、バッチ処理、リアルタイムプレビュー機能を備えています。Next.js、FastAPI、Dockerで構築されています。 <sub>⭐ 144 · TypeScript</sub>
+- [hustvl/LENS](https://github.com/hustvl/LENS) - (AAAI 2026 経口) LENS:統一された強化された共鳴で何かをセグメント化するために学習 <sub>⭐ 143 · Python</sub>
+- [GhayasAhmad/auto-background-remover](https://github.com/GhayasAhmad/auto-background-remover) - Androidの背景リムーバーは、Android用の超高速でオフラインのAI画像背景削除ライブラリです。 eコマース、ソーシャル、写真編集アプリに最適です。 Bitmapsからバックグラウンドを削除... <sub>⭐ 140 · Kotlin</sub>
+- [autodistill/autodistill-grounded-sam-2](https://github.com/autodistill/autodistill-grounded-sam-2) - セグメント別2、フィレンツェ-2に基づいて、トレーニングビジョンモデルで使用するための自動ラベルデータを使用します。 <sub>⭐ 139 · Python</sub>
+- [FudanCVL/SAM2Matting](https://github.com/FudanCVL/SAM2Matting) - (ECCV 2026) SAM2Matting: 総合画像とビデオのマッティング <sub>⭐ 139 · Python</sub>
+- [weihao1115/cat-sam](https://github.com/weihao1115/cat-sam) - (ECCV 2024 オーラル) 「CAT-SAM:Few-Shot Adaptation for Segment Any Model」の公式実装。 <sub>⭐ 138 · Python</sub>
+- [bhpfelix/segment-anything-finetuner](https://github.com/bhpfelix/segment-anything-finetuner) - セグメントの簡単な調整スターターコード <sub>⭐ 137 · Python</sub>
+- [ksugar/qupath-extension-sam](https://github.com/ksugar/qupath-extension-sam) - セグメント別モデル(SAM)のQuPath拡張 <sub>⭐ 137 · Java</sub>
+- [LiamLian0727/USIS10K](https://github.com/LiamLian0727/USIS10K) - (ICML 2024) 紙の公式リポジトリ:「水中に着きます。あらゆるモデルガイド付き水中サージェントインスタンスセグメンテーションと大規模なデータセット」 <sub>⭐ 135 · Python</sub>
+- [yifangao112/DeSAM](https://github.com/yifangao112/DeSAM) - (MICCAI 2024) DeSAM の公式リポジトリ:一般化医療画像のセグメンテーションのためのデカップリングされたセグメントモデル。 <sub>⭐ 134 · Python</sub>
+- [hqqxyy/Context-Aware-Matting](https://github.com/hqqxyy/Context-Aware-Matting) - このプロジェクトは、ICCV2019紙「Context-aware Image Matting for Simultaneous ForegroundとAlpha Estimation」の推論です。 <sub>⭐ 132 · Python</sub>
+- [dk-liang/Awesome-Segment-Anything](https://github.com/dk-liang/Awesome-Segment-Anything) - 最新の論文やデモなど、SAM(セグメント)に関するリソースを収集 <sub>⭐ 131</sub>
+- [safouaneelg/FusionVision](https://github.com/safouaneelg/FusionVision) - 「 FusionVision: YOLO」と高速セグメントを用いたRGB-Dカメラによる3Dオブジェクト再構築およびセグメンテーションの包括的なアプローチ <sub>⭐ 131 · Jupyter Notebook</sub>
+- [czg1225/Awesome-Efficient-Segment-Anything](https://github.com/czg1225/Awesome-Efficient-Segment-Anything) - 効率的なセグメントの1つの概要 <sub>⭐ 127</sub>
+- [UllrAI/HeadShots.fun](https://github.com/UllrAI/HeadShots.fun) - Next.js、Replicates、Stripeで構築されたAIヘッドショット SaaS。 <sub>⭐ 127 · TypeScript</sub>
+- [vignywang/SAMFeat](https://github.com/vignywang/SAMFeat) - 「Segment Any Model」の公式実装は、ローカル機能学習のためのGood Teacherです。 <sub>⭐ 125 · Python</sub>
+- [FeiGeChuanShu/segment-anything-ncnn](https://github.com/FeiGeChuanShu/segment-anything-ncnn) - ncnnによるセグメント・アニース・インファーの例 <sub>⭐ 123 · C++</sub>
+- [arcadelab/FastSAM3D](https://github.com/arcadelab/FastSAM3D) - 「FastSAM3D: 3D の容積測定画像のための有効な区分何でもモデル」のためのコード <sub>⭐ 118 · Python</sub>
+- [weihao1115/mm-sam](https://github.com/weihao1115/mm-sam) - 「複数のモダリティで何かをセグメント化」の公式実装。 <sub>⭐ 118 · Python</sub>
+- [facebookresearch/UnSAMFlow](https://github.com/facebookresearch/UnSAMFlow) - CVPR 2024紙UnSAMFlow非監視光学フローのためのソースコードは、任意のモデルをセグメント別にガイドします。 <sub>⭐ 116 · Python</sub>
+- [ksugar/samapi](https://github.com/ksugar/samapi) - あらゆるモデル API をセグメント化 <sub>⭐ 116 · Python</sub>
+- [branislavhesko/segment-anything-ui](https://github.com/branislavhesko/segment-anything-ui) - 注釈用のUIをセグメント化 <sub>⭐ 114 · Python</sub>
+- [cvlab-stonybrook/SID](https://github.com/cvlab-stonybrook/SID) - ICCV19「影画像分解によるシャドウ除去」の公式実装 <sub>⭐ 111 · Jupyter Notebook</sub>
+- [linyq2117/SAMRefiner](https://github.com/linyq2117/SAMRefiner) - (ICLR 2025) SAMRefiner: ユニバーサルマスクの精製のためのあらゆるモデルを分類する <sub>⭐ 109 · Jupyter Notebook</sub>
+- [MrSyee/SAM-remove-background](https://github.com/MrSyee/SAM-remove-background) - オブジェクトを抽出し、セグメント別モデル(SAM)を使用して背景アプリケーションを削除します。 <sub>⭐ 109 · Python</sub>
+- [achalddave/segment-any-moving](https://github.com/achalddave/segment-any-moving) - 「動くもののセグメント化に向けて」コード <sub>⭐ 108 · Python</sub>
+- [FaceOnLive/Realtime-Background-Changer-SDK-Android](https://github.com/FaceOnLive/Realtime-Background-Changer-SDK-Android) - リアルタイム、正確な背景チェンジャー、肖像画セグメンテーション、ポートレートマット、Android用のバックグラウンド除去 <sub>⭐ 107 · Kotlin</sub>
+- [BooHwang/segment_anything_tensorrt](https://github.com/BooHwang/segment_anything_tensorrt) - セグメントを加速するTensorrt 8.6.1.6を用いたモデルの推論 <sub>⭐ 106 · Python</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#-フォトグラファーのai) · [← 職種別のAIリポジトリ](./README.md)

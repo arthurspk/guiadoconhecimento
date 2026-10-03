@@ -20,192 +20,192 @@
 
 > クラスターを診断し、マニフェストを生成し、インフラを運用するアシスタント。
 
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams. <sub>⭐ 80.8k · Go</sub>
-- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching… <sub>⭐ 45.2k · TypeScript</sub>
-- [Kong/kong](https://github.com/Kong/kong) - The API and AI Gateway <sub>⭐ 44.2k · Lua</sub>
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from… <sub>⭐ 41.0k · JavaScript</sub>
-- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. <sub>⭐ 35.4k · TypeScript</sub>
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. <sub>⭐ 33.4k · Java</sub>
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes… <sub>⭐ 31.7k · Python</sub>
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily… <sub>⭐ 31.4k · Rust</sub>
+- [netdata/netdata](https://github.com/netdata/netdata) - リーンチームでも、AI搭載フルスタックの保守性最速な経路です。 <sub>⭐ 80.8k · Go</sub>
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - ChatGPTクローンの強化:特徴のエージェント、MCP、スキル、DeepSeek、Anthropic、AWS、OpenAI、応答API、Azure、Grq、o1、GPT-5、ミストラル、OpenRouter、Vertex AI、ジェミニ、アーティファクト、AIモデル切り替え... <sub>⭐ 45.2k · TypeScript</sub>
+- [Kong/kong](https://github.com/Kong/kong) - APIとAIゲートウェイ <sub>⭐ 44.2k · Lua</sub>
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ツールジェットAIのオープンソース基盤 - 内部ツール、ダッシュボード、ビジネスアプリケーション、ワークフローおよびAIエージェントのためのエンタープライズアプリ生成プラットフォーム。視覚的に構築し、プロンプトからまたは... <sub>⭐ 41.0k · JavaScript</sub>
+- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - パーソナルAIアシスタント;簡単にインストール、自分のマシンやクラウド上に展開できます。複数のチャットアプリを容易に拡張できる機能でサポートします。 <sub>⭐ 35.4k · TypeScript</sub>
+- [alibaba/nacos](https://github.com/alibaba/nacos) - AIクラウドネイティブアプリケーションの構築のための、使いやすいダイナミックサービス発見、構成およびサービス管理プラットフォーム。 <sub>⭐ 33.4k · Java</sub>
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServerは、AIを搭載したオープンソースのPrivileged Access Management(PAM)プラットフォームで、DevOpsとITチームはSSH、RDP、Kubernetesを安全にアクセスするための統一されたワークスペースを提供します。 <sub>⭐ 31.7k · Python</sub>
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - プライバシー第一に、4倍高速パラケット/ウィスパーライブトランスクリプション、スピーカーダイアライゼーション、およびラスト上に構築されたオラマサバライゼーションを備えたAI会議アシスタント。 ローカル処理の100%。 いいえクラウドは必要ありません。 <sub>⭐ 31.4k · Rust</sub>
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - 推奨システムに関するベストプラクティス <sub>⭐ 21.9k · Python</sub>
-- [jina-ai/serve](https://github.com/jina-ai/serve) - Build multimodal AI applications with cloud-native stack <sub>⭐ 21.9k · Python</sub>
-- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. <sub>⭐ 18.4k · TypeScript</sub>
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway <sub>⭐ 17.2k · Lua</sub>
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ <sub>⭐ 17.1k · Go</sub>
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent <sub>⭐ 15.9k · Python</sub>
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform <sub>⭐ 15.9k</sub>
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. <sub>⭐ 15.6k · Python</sub>
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD Shift FinOps Left! <sub>⭐ 12.5k · Go</sub>
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. <sub>⭐ 12.3k · Ruby</sub>
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard. <sub>⭐ 12.1k · Go</sub>
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs… <sub>⭐ 11.3k · Go</sub>
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol) <sub>⭐ 10.8k · Go</sub>
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems <sub>⭐ 10.3k · Python</sub>
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone <sub>⭐ 8.2k · Go</sub>
-- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations <sub>⭐ 7.8k · Python</sub>
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. <sub>⭐ 7.6k · Go</sub>
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant <sub>⭐ 7.6k · Go</sub>
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures. <sub>⭐ 6.8k · Go</sub>
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0. <sub>⭐ 6.4k · Java</sub>
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond is an open-source container platform that requires no Kubernetes expertise. Its core capabilities are 100% open source. It abstracts away infrastructure complexity and provides a unified way… <sub>⭐ 6.3k · Go</sub>
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes <sub>⭐ 6.1k · Go</sub>
-- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. <sub>⭐ 6.0k · Python</sub>
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) <sub>⭐ 6.0k · Go</sub>
-- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway <sub>⭐ 5.7k · Go</sub>
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic. <sub>⭐ 5.4k · Rust</sub>
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers <sub>⭐ 5.1k · Rust</sub>
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes <sub>⭐ 4.7k · Python</sub>
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents. <sub>⭐ 4.6k · Go</sub>
-- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool… <sub>⭐ 4.6k · Python</sub>
-- [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) - Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services <sub>⭐ 4.4k · Jupyter Notebook</sub>
-- [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and… <sub>⭐ 4.4k · Jupyter Notebook</sub>
-- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL). <sub>⭐ 4.1k · Go</sub>
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab… <sub>⭐ 4.1k · Go</sub>
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. <sub>⭐ 3.8k · Go</sub>
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane <sub>⭐ 3.7k · MDX</sub>
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and… <sub>⭐ 3.6k · Go</sub>
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation <sub>⭐ 3.1k · Python</sub>
-- [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and… <sub>⭐ 3.0k · Rust</sub>
-- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS <sub>⭐ 2.8k · Python</sub>
-- [microsoft/pai](https://github.com/microsoft/pai) - Resource scheduling and cluster management for AI <sub>⭐ 2.7k · JavaScript</sub>
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and… <sub>⭐ 2.7k · Python</sub>
-- [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices <sub>⭐ 2.6k · Go</sub>
-- [FullAgent/fulling](https://github.com/FullAgent/fulling) - Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra. <sub>⭐ 2.4k · TypeScript</sub>
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns <sub>⭐ 2.4k</sub>
-- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters. <sub>⭐ 2.3k · Python</sub>
-- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and LLM Fine-Tuning on Kubernetes <sub>⭐ 2.2k · Go</sub>
-- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers. <sub>⭐ 2.2k · Go</sub>
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway <sub>⭐ 2.2k · Go</sub>
-- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift <sub>⭐ 2.1k · Go</sub>
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code. <sub>⭐ 2.0k · Go</sub>
-- [fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF) <sub>⭐ 2.0k · Go</sub>
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents. <sub>⭐ 1.9k · TypeScript</sub>
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications <sub>⭐ 1.9k · Go</sub>
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data. <sub>⭐ 1.9k · Python</sub>
-- [valqore/valqore](https://github.com/valqore/valqore) - Safety-first guardrails for AI-driven cloud and Kubernetes operations <sub>⭐ 1.9k · Python</sub>
-- [Yuan-lab-LLM/ClawManager](https://github.com/Yuan-lab-LLM/ClawManager) - A Kubernetes-native control plane for AI agent instance management, with governed AI access, runtime orchestration, and reusable resources across multiple agent runtimes. <sub>⭐ 1.9k · Go</sub>
-- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) - A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc. <sub>⭐ 1.8k · Go</sub>
-- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience) <sub>⭐ 1.7k · Python</sub>
-- [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes <sub>⭐ 1.7k · Python</sub>
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - The Open Testing Platform for AI-Driven Engineering Teams <sub>⭐ 1.7k · Go</sub>
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons. <sub>⭐ 1.6k · Python</sub>
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes <sub>⭐ 1.6k · Go</sub>
-- [Augani/dory](https://github.com/Augani/dory) - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. <sub>⭐ 1.6k · Swift</sub>
-- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands <sub>⭐ 1.6k · TypeScript</sub>
-- [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale <sub>⭐ 1.5k · Go</sub>
-- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and… <sub>⭐ 1.5k · Python</sub>
-- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact. <sub>⭐ 1.4k · Go</sub>
-- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Packer, Ansible, Kubernetes, Helm, and containers the same way on your laptop, in CI… <sub>⭐ 1.4k · Go</sub>
-- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI <sub>⭐ 1.4k · Python</sub>
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI… <sub>⭐ 1.3k · Rust</sub>
-- [piomin/claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - Claude Code template for Spring Boot and other staff (included in the tags) <sub>⭐ 1.3k</sub>
-- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .NET, Software Architecture, Cloud-Native, Data and AI. <sub>⭐ 1.3k · C#</sub>
-- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. <sub>⭐ 1.3k · Go</sub>
-- [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for… <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra. <sub>⭐ 1.2k · Python</sub>
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - Kubectl plugin to create manifests with LLMs <sub>⭐ 1.2k · Go</sub>
-- [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills) - Agent-ready DevOps, security, infrastructure, and compliance knowledge base with 80+ skills across Kubernetes, Terraform, AWS/Azure/GCP, AI platform operations, container hardening, SOC2/ISO27001… <sub>⭐ 1.1k · Shell</sub>
-- [ongridio/ongrid](https://github.com/ongridio/ongrid) - An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. <sub>⭐ 1.1k · Go</sub>
-- [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI agent swarms. <sub>⭐ 1.1k · TypeScript</sub>
-- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - Run and operate MariaDB in a cloud native way <sub>⭐ 1.0k · Go</sub>
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator <sub>⭐ 1.0k · Go</sub>
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy… <sub>⭐ 990 · Python</sub>
-- [cdxiaodong/cain-agent](https://github.com/cdxiaodong/cain-agent) - Real-world AI penetration testing engineer for authorized assessments — built-in cloud module covering AWS/Azure/GCP + Aliyun/Tencent/Huawei clouds. Built on Claude Agent SDK <sub>⭐ 961 · Python</sub>
-- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes. <sub>⭐ 960 · Python</sub>
-- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding… <sub>⭐ 955 · Python</sub>
-- [openvinotoolkit/model_server](https://github.com/openvinotoolkit/model_server) - A scalable inference server for models optimized with OpenVINO™ <sub>⭐ 940 · C++</sub>
-- [aws/nova-act](https://github.com/aws/nova-act) - Amazon Nova Act is an AWS service for building and deploying highly reliable AI agents that automate UI-based workflows at scale. <sub>⭐ 916 · Python</sub>
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) - Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS. <sub>⭐ 909 · Python</sub>
-- [agentscope-ai/agentscope-runtime](https://github.com/agentscope-ai/agentscope-runtime) - A production-ready runtime framework for agent apps with secure tool sandboxing, Agent-as-a-Service APIs, scalable deployment, full-stack observability, and broad framework compatibility. <sub>⭐ 876 · Python</sub>
-- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. <sub>⭐ 858 · C#</sub>
-- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications. <sub>⭐ 842 · Go</sub>
-- [bridgecrewio/AirIAM](https://github.com/bridgecrewio/AirIAM) - Least privilege AWS IAM Terraformer <sub>⭐ 828 · Python</sub>
-- [helixml/helix](https://github.com/helixml/helix) - Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack <sub>⭐ 814 · Go</sub>
-- [ITSpecialist111/ai_automation_suggester](https://github.com/ITSpecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI… <sub>⭐ 793 · Python</sub>
-- [panaverse/learn-generative-ai](https://github.com/panaverse/learn-generative-ai) - Learn Cloud Applied Generative AI Engineering (GenEng) using OpenAI, Gemini, Streamlit, Containers, Serverless, Postgres, LangChain, Pinecone, and Next.js <sub>⭐ 789 · Python</sub>
-- [VersusControl/versus-incident](https://github.com/VersusControl/versus-incident) - Versus Incident is the self-hosted AI SRE agent. It learns what your system normally look like and escalates only what is new or unexpected issues — routing to your chat channels and on-call platform. <sub>⭐ 782 · Go</sub>
-- [William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless) - AI SRE AgenticOps for Kubernetes and cloud infrastructure. <sub>⭐ 776 · Python</sub>
-- [aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure. <sub>⭐ 775 · Python</sub>
-- [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Open-source Infrastructure As Code that starts from what already runs. formae discovers your estate, versions drift and hands back current code. A Terraform and Pulumi alternative built on Pkl, with… <sub>⭐ 774 · Go</sub>
-- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy… <sub>⭐ 769 · Python</sub>
-- [Kymo-MCP/mcpcan](https://github.com/Kymo-MCP/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token… <sub>⭐ 728 · Go</sub>
-- [devtoolsd/awesome-devtools](https://github.com/devtoolsd/awesome-devtools) - A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities. <sub>⭐ 682</sub>
-- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) - Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console. <sub>⭐ 679 · TypeScript</sub>
-- [BorisPolonsky/dify-helm](https://github.com/BorisPolonsky/dify-helm) - Deploy langgenious/dify, an LLM based app on kubernetes with helm chart. <sub>⭐ 676 · Go Template</sub>
-- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018. <sub>⭐ 673 · HTML</sub>
-- [ys-ll/uniterm](https://github.com/ys-ll/uniterm) - A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands. <sub>⭐ 641 · Go</sub>
-- [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) - kubectl for AI Agents <sub>⭐ 634 · Go</sub>
-- [datawranglerai/self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Self-host n8n on Google Cloud without the subscription fees or server headaches - because your automation workflows shouldn't cost more than your coffee budget <sub>⭐ 619 · HCL</sub>
-- [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. <sub>⭐ 613 · Python</sub>
-- [4paradigm/k8s-vgpu-scheduler](https://github.com/4paradigm/k8s-vgpu-scheduler) - OpenAIOS vGPU device plugin for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory, in order to allow applications to access larger memory space than its physical… <sub>⭐ 597 · Go</sub>
-- [awslabs/fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore. <sub>⭐ 592 · Python</sub>
-- [decionis/agent-safe-pipeline](https://github.com/decionis/agent-safe-pipeline) - An execution-authority gateway for AI agents and APIs. It intercepts consequential HTTP actions, asks Decionis whether they are authorized, and forwards exactly the authorized request once on a… <sub>⭐ 589 · TypeScript</sub>
-- [argoproj-labs/mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) - An implementation of Model Context Protocol (MCP) server for Argo CD. <sub>⭐ 579 · TypeScript</sub>
-- [bex-co/bex](https://github.com/bex-co/bex) - The open-source Render alternative — AI-native. Git push → build → deploy on your own infrastructure; agents are first-class users. <sub>⭐ 566 · Go</sub>
-- [raids-lab/crater](https://github.com/raids-lab/crater) - Crater is a cloud-native AI training & inference platform. <sub>⭐ 566 · Go</sub>
-- [liaotxcn/Weave](https://github.com/liaotxcn/Weave) - A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents. <sub>⭐ 564 · Go</sub>
-- [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns. <sub>⭐ 544 · TypeScript</sub>
-- [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc... <sub>⭐ 544 · Jupyter Notebook</sub>
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - Fine-tune, build, and deploy open-source LLMs easily! <sub>⭐ 539 · Go</sub>
-- [micytao/vllm-playground](https://github.com/micytao/vllm-playground) - A modern web interface for managing and interacting with vLLM servers (www.github.com/vllm-project/vllm). Supports both GPU and CPU modes, with special optimizations for macOS Apple Silicon and… <sub>⭐ 539 · JavaScript</sub>
-- [RunLLM/aqueduct](https://github.com/RunLLM/aqueduct) - Aqueduct is no longer being maintained. Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure. <sub>⭐ 518 · Go</sub>
-- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time. <sub>⭐ 516 · Go</sub>
-- [ome-projects/ome](https://github.com/ome-projects/ome) - Open Model Engine (OME) — Kubernetes operator for LLM serving, GPU scheduling, and model lifecycle management. Works with SGLang, vLLM, TensorRT-LLM, and Triton <sub>⭐ 514 · Go</sub>
-- [cubeplexai/cubeplex](https://github.com/cubeplexai/cubeplex) - CubePlex is a cloud-native platform for managed agents in team workspaces — skills, shared memory, MCP tools, persistent sandboxes, governed access, and self-hosted deploy on Docker Compose or… <sub>⭐ 508 · Python</sub>
-- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects. <sub>⭐ 507</sub>
-- [bytedance/vArmor](https://github.com/bytedance/vArmor) - vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and NetworkProxy technologies to enforce access control from system calls to application protocols — protecting… <sub>⭐ 505 · Go</sub>
-- [xiaods/k8e](https://github.com/xiaods/k8e) - k8e.sh - OpenSource Agentic AI Sandbox Matrix <sub>⭐ 499 · Go</sub>
-- [aws-samples/well-architected-iac-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer) - Sample Generative AI tool for evaluating Infrastructure as Code and architecture diagrams against AWS Well-Architected best practices. <sub>⭐ 498 · TypeScript</sub>
-- [humanlayer/agentcontrolplane](https://github.com/humanlayer/agentcontrolplane) - ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous… <sub>⭐ 495 · Go</sub>
-- [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) - Universal AI Agent using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more. <sub>⭐ 485 · TypeScript</sub>
-- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - System of Record for Kubernetes cost accounting: per-namespace CPU, memory and GPU usage, with the 30% non-allocatable overhead made visible. Connects to AI assistants via MCP (Claude, Gemini… <sub>⭐ 485 · Python</sub>
-- [awslabs/awsome-distributed-ai](https://github.com/awslabs/awsome-distributed-ai) - Best practices, reference architectures, and examples for distributed AI training and inference on AWS. <sub>⭐ 483 · Shell</sub>
-- [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s) - Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'. <sub>⭐ 482 · Shell</sub>
-- [volcano-sh/kthena](https://github.com/volcano-sh/kthena) - Lightweight, Modular, Kubernetes-native AI serving platform for scalable model serving. <sub>⭐ 473 · Go</sub>
-- [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers <sub>⭐ 472 · Go</sub>
-- [clearml/clearml-server](https://github.com/clearml/clearml-server) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution <sub>⭐ 470 · Python</sub>
-- [1duo/awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures) - Infrastructures™ for Machine Learning Training/Inference in Production. <sub>⭐ 460</sub>
-- [secondsky/sap-skills](https://github.com/secondsky/sap-skills) - Production-ready plugins for SAP development with AI coding assistants — BTP, CAP, Fiori, ABAP, HANA, Analytics Cloud, Datasphere, and more <sub>⭐ 458 · JavaScript</sub>
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love with Speakeasy. Polished and type-safe SDKs. Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native. <sub>⭐ 451 · JavaScript</sub>
-- [LukasNiessen/kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill) - Kubernetes Skill for Claude Code and Codex. LLMs hallucinate a lot with K8s - KubeShark fixes this. It eliminates hallucinations and grounds your Kubernetes, Helm etc official best practices. <sub>⭐ 438</sub>
-- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes <sub>⭐ 432 · Go</sub>
-- [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) - Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog… <sub>⭐ 431 · Python</sub>
-- [LangStream/langstream](https://github.com/LangStream/langstream) - LangStream. Event-Driven Developer Platform for Building and Running LLM AI Apps. Powered by Kubernetes and Kafka. <sub>⭐ 427 · Java</sub>
-- [mckinsey/agents-at-scale-ark](https://github.com/mckinsey/agents-at-scale-ark) - Provider-agnostic operations for agentic resources. ARK codifies patterns and practices developed across dozens of agentic application projects. <sub>⭐ 427 · TypeScript</sub>
-- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond. <sub>⭐ 422 · TypeScript</sub>
-- [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member <sub>⭐ 408 · Python</sub>
-- [airyhq/airy](https://github.com/airyhq/airy) - Open Source App Framework to build streaming apps with real-time data - Build real-time data pipelines and make real-time data universally accessible - Join historical and real-time data in the… <sub>⭐ 402 · Java</sub>
-- [stubbi/openclaw-operator](https://github.com/stubbi/openclaw-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. <sub>⭐ 400 · Go</sub>
-- [nudgebee/nudgebee](https://github.com/nudgebee/nudgebee) - Unified CloudOps platform with AI-SRE, AI-FinOps, AI-K8sOps, and the Agentic Automation Builder without fragmented tools, context switching, or model lock-in. <sub>⭐ 398 · Go</sub>
-- [bentoml/BentoDiffusion](https://github.com/bentoml/BentoDiffusion) - BentoDiffusion: A collection of diffusion models served with BentoML <sub>⭐ 389 · Python</sub>
-- [convertigo/convertigo](https://github.com/convertigo/convertigo) - Convertigo is an Ai powered open source Enterprise Low Code platform including a No Code Application builder for full-stack mobile and web application development <sub>⭐ 387 · Java</sub>
-- [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - A modern Kubernetes GUI management desktop app for macOS & Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. <sub>⭐ 386 · TypeScript</sub>
-- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes <sub>⭐ 383 · Go</sub>
-- [bgdnvk/clanker](https://github.com/bgdnvk/clanker) - autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc <sub>⭐ 377 · Go</sub>
-- [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing… <sub>⭐ 372 · Rust</sub>
-- [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - llm-d Router: The intelligent entry point for inference requests <sub>⭐ 369 · Go</sub>
-- [matrixhub-ai/matrixhub](https://github.com/matrixhub-ai/matrixhub) - An Open-source, self-hosted AI model hub with Hugging Face compatibility, accelerating vLLM/SGLang performance. <sub>⭐ 357 · Go</sub>
-- [MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) - A curated collection of AI, data engineering, and DevOps projects featuring real-world applications, advanced techniques, and tutorials—ideal for learners and practitioners exploring data science and… <sub>⭐ 352 · Jupyter Notebook</sub>
-- [giuseppe-trisciuoglio/developer-kit](https://github.com/giuseppe-trisciuoglio/developer-kit) - Modular plugin marketplace for Claude Code and agentic CLIs, with validated, spec-driven skills, agents, commands, and workflows for Java, TypeScript, Python, PHP, AWS, and AI. <sub>⭐ 351 · Python</sub>
-- [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal <sub>⭐ 340 · Python</sub>
-- [vfarcic/dot-ai](https://github.com/vfarcic/dot-ai) - Intelligent dual-mode agent for deploying applications to ANY Kubernetes cluster through dynamic discovery and plain English governance <sub>⭐ 336 · TypeScript</sub>
-- [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents. <sub>⭐ 335 · Go</sub>
-- [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents <sub>⭐ 313 · JavaScript</sub>
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) - ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it… <sub>⭐ 313 · Python</sub>
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama. <sub>⭐ 312 · Python</sub>
-- [cncf/k8s-ai-conformance](https://github.com/cncf/k8s-ai-conformance) - Kubernetes AI Conformance <sub>⭐ 310 · Go</sub>
-- [kmeanskaran/stock-agent-ops](https://github.com/kmeanskaran/stock-agent-ops) - Designing end-to-end weekly stock report generation using LSTM and Agentic AI. Deploying on AWS with MLOps practices. <sub>⭐ 305 · Python</sub>
-- [apache/camel-quarkus](https://github.com/apache/camel-quarkus) - Apache Camel Quarkus <sub>⭐ 302 · Java</sub>
-- [sgl-project/rbg](https://github.com/sgl-project/rbg) - A workload for deploying LLM inference services on Kubernetes <sub>⭐ 301 · Go</sub>
-- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI <sub>⭐ 296 · Go</sub>
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments <sub>⭐ 295 · C</sub>
-- [kaapana/kaapana](https://github.com/kaapana/kaapana) - Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with… <sub>⭐ 276 · Python</sub>
-- [aws-samples/sample-well-architected-skills-and-steering](https://github.com/aws-samples/sample-well-architected-skills-and-steering) - Reusable skills and steering that teach AI coding agents how to apply the AWS Well-Architected Framework. One set of playbooks, 14 supported tools. <sub>⭐ 272 · Python</sub>
-- [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) - Visual node-edge graph GUI editor for LangGraph and run with local LLM or online API <sub>⭐ 271 · TypeScript</sub>
-- [aws-samples/sample-agentic-frameworks-on-aws](https://github.com/aws-samples/sample-agentic-frameworks-on-aws) - Build Agentic AI solutions on AWS, using latest OSS Agentic Frameworks. <sub>⭐ 266 · Jupyter Notebook</sub>
-- [DeNA/dify-google-cloud-terraform](https://github.com/DeNA/dify-google-cloud-terraform) - Terraform configuration for deploying Dify on Google Cloud with scalability, high availability, and production-level readiness. <sub>⭐ 261 · HCL</sub>
-- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement <sub>⭐ 259 · Python</sub>
+- [jina-ai/serve](https://github.com/jina-ai/serve) - クラウドネイティブスタックでマルチモーダルAIアプリケーションを構築 <sub>⭐ 21.9k · Python</sub>
+- [labring/sealos](https://github.com/labring/sealos) - GitHubやAIコーディングエージェントから実際のプロジェクトを展開し、AIを活用した運用を継続します。 <sub>⭐ 18.4k · TypeScript</sub>
+- [apache/apisix](https://github.com/apache/apisix) - クラウドネイティブAPIゲートウェイとAIゲートウェイ <sub>⭐ 17.2k · Lua</sub>
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Kubernetesのマルチクラウド、データセンター、エッジ管理に適したコンテナプラットフォーム <sub>⭐ 17.1k · Go</sub>
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - noVNC対応、ビデオ録画、mcpサーバーおよびAI-agentによるドッカーソリューションのAndroid <sub>⭐ 15.9k · Python</sub>
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - クラウドネイティブAIプラットフォーム <sub>⭐ 15.9k</sub>
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - AIエージェントのセキュアで高速、拡張可能なサンドボックスランタイム。 <sub>⭐ 15.6k · Python</sub>
+- [infracost/infracost](https://github.com/infracost/infracost) - エンジニア、AIコーディングエージェント、CI/CDシフトFinOpsのクラウドコストインテリジェンスを左に! <sub>⭐ 12.5k · Go</sub>
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - オープンソースはAWSに代わる。弾性計算、ブロックストレージ(非複製)、ファイアウォールおよびロードバランサー、マネージド・ポストグレス、K8s、AIの推論、IAMサービス。 <sub>⭐ 12.3k · Ruby</sub>
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Kubernetes の eBPF 搭載ネットワークの保守性。完全な K8s コンテキストで L4/L7 トラフィックをインデックス化し、鍵なしで TLS を復号化します。ダッシュボード経由で MCP や人間による AI エージェントがクエリできます。 <sub>⭐ 12.1k · Go</sub>
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster はテナントクラスターを作成します。管理された Kubernetes として配達される完全に隔離された環境、または Slurm, Ray, Run:ai および推論クラスタの基礎として渡されます。それぞれ独自の API サーバー、CRDs... <sub>⭐ 11.3k · Go</sub>
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - オープンソースAPIとREST、GraphQL、TCP、gRPC、MCP(モデルコンテキストプロトコル)をサポートするAIゲートウェイ <sub>⭐ 10.8k · Go</sub>
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - AI/MLシステムの構築、管理および展開 <sub>⭐ 10.3k · Python</sub>
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Kubernetesをみんなに超能力を与える <sub>⭐ 8.2k · Go</sub>
+- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - 複数のAIエージェントの管理と複雑な会話の処理のための柔軟で強力なフレームワーク <sub>⭐ 7.8k · Python</sub>
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - ダイナミックで弾力性のあるAIオーケストレーション。データ、モデルの調整と、AIワークフローの構築に繋がる。 <sub>⭐ 7.6k · Go</sub>
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AIがKubernetesのアシスタントを動力とする <sub>⭐ 7.6k · Go</sub>
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Proxmox VE、PBS、Docker、Kubernetes、TrueNASおよびvSphere用のリアルタイム監視ダッシュボード。スマートアラートとサイレント障害をキャッチするAIパトロールでセルフホスト。 <sub>⭐ 6.8k · Go</sub>
+- [apache/camel](https://github.com/apache/camel) - Apache Camel は、350以上のコネクタを備えたオープンソースの統合フレームワークです。Java、YAML、XML でルートを書くことができます。 Spring Boot、Quarkus、またはスタンドアローンで実行します。Apache License 2.0. <sub>⭐ 6.4k · Java</sub>
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - RainbondはKubernetesの専門知識を必要としないオープンソースコンテナプラットフォームです。 そのコア機能は100%オープンソースです。 インフラストラクチャの複雑さを抽象化し、統一された方法を提供します... <sub>⭐ 6.3k · Go</sub>
+- [kserve/kserve](https://github.com/kserve/kserve) - 拡張可能なマルチフレームワーク展開のための標準化された分散型生成および予測AI推論プラットフォーム <sub>⭐ 6.1k · Go</sub>
+- [google/agents-cli](https://github.com/google/agents-cli) - コーディングアシスタントをGoogle Cloud上でAIエージェントの作成、評価、デプロイでエキスパートに変えるCLIとスキル。 <sub>⭐ 6.0k · Python</sub>
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - クラウドネイティブバッチシステム(CNCF下プロジェクト) <sub>⭐ 6.0k · Go</sub>
+- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - クラウドネイティブAPIゲートウェイとAIゲートウェイ <sub>⭐ 5.7k · Go</sub>
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - KubernetesクラスターのPodだったかのように、マシンやAIエージェントの環境で任意のプロセスを実行します。実際のエンブ・ヴァルス、DNS、ネットワーク、トラフィック。 <sub>⭐ 5.4k · Rust</sub>
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - 次世代AIエージェントとMCPサーバーの代理プロキシ <sub>⭐ 5.1k · Rust</sub>
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Kubernetesの近代的なアクセラレータで芸術推論性能を発揮 <sub>⭐ 4.7k · Python</sub>
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbosは、あらゆるアイデンティティを承認し、アプリケーション、ゲートウェイ、ワークロードおよびAIエージェント全体ですべてのアクションを管理するためのオープンコア認証管理プラットフォームです。 <sub>⭐ 4.6k · Go</sub>
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - MCP、A2A、REST/gRPC API の前面にあるAI Gateway、レジストリおよびプロキシは、一元化された発見、ガードレールと管理で統一されたエンドポイントを公開します。エージェント&ツールを最適化... <sub>⭐ 4.6k · Python</sub>
+- [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) - Oracle AI データベースと OCI サービスを用いたアプリケーション、エージェント、システムの構築のための技術リソース <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Dapr Agentic Cloud Ascent (DACA) 設計パターンとエージェントネイティブクラウド技術を使用して、Agentic AI を学びます。 OpenAI エージェント SDK、メモリ、MCP、A2A、ナレッジグラフ、Dapr、ランカーデスクトップ、および... <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - エージェント・サンドボックスは、AIエージェントのランタイムや強化学習(RL)などのユースケースに理想的な、独立したステートフルでシングルトンワークロードを簡単に管理できます。 <sub>⭐ 4.1k · Go</sub>
+- [octelium/octelium](https://github.com/octelium/octelium) - リモートアクセスVPN、ZTNAプラットフォーム、API/AI/MCPゲートウェイ、PaaS、ngrok-alternativeおよびhomelabとして動作できる次世代FOSS自己ホスト型ユニファイドゼロ信託セキュアアクセスプラットフォーム。 <sub>⭐ 4.1k · Go</sub>
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - 人工知能インフラストラクチャ・アコードジェネレーター。 <sub>⭐ 3.8k · Go</sub>
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AIインフラ/AIオーケストレーション/AIコントロールプラン <sub>⭐ 3.7k · MDX</sub>
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - オープンソースのKubernetes UIは、AIエージェント用のMCPサーバーを内蔵しています。何が壊れているのか、なぜ変更されたかを参照してください。問題、トポロジー、イベントタイムライン、Helm、GitOps、ライブサービストラフィック、および... <sub>⭐ 3.6k · Go</sub>
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetesのより良いPrometheusアラート - スマートグループ化、AIの強化、自動修正 <sub>⭐ 3.1k · Python</sub>
+- [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLIは、高速でメモリセーフなコマンドラインツールです。単一のコマンドを使用して任意のウェブサイトから情報を取得します。 Twitter / X、Reddit、YouTube、HackerNews、Bilibili、Zhihu、Xiaaohongshu、および... <sub>⭐ 3.0k · Rust</sub>
+- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - 公式、AWS 対応の MCP サーバー、スキル、プラグインにより AI エージェントが AWS 上で構築できるように <sub>⭐ 2.8k · Python</sub>
+- [microsoft/pai](https://github.com/microsoft/pai) - AI向けリソーススケジューリングとクラスター管理 <sub>⭐ 2.7k · JavaScript</sub>
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AIは、忘れた曲を明らかにし、あなたの音楽ライブラリに隠された接続を発見し、Navidrome、Jellyfin、LMS、Lyrion、Embyおよび... <sub>⭐ 2.7k · Python</sub>
+- [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) - APIやmicroservicesなどのAIエージェントの構築、実行およびスケール化 <sub>⭐ 2.6k · Go</sub>
+- [FullAgent/fulling](https://github.com/FullAgent/fulling) - Fulling は、AI 搭載のフルスタックエンジニアエージェントです。Next.js, Claude, shadcn/ui,PostgreSQL で構築されています。kubernetes を infra として使用してください。 <sub>⭐ 2.4k · TypeScript</sub>
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - テラフォーム&AIエージェント向けOpenTofuスキル - テスト、モジュール、CI/CD、生産パターン <sub>⭐ 2.4k</sub>
+- [dstackai/dstack](https://github.com/dstackai/dstack) - 均質なAIコンピューティングのための統一されたオーケストレーションレイヤー。GPUクラウド、Kubernetes、VM、またはベアメタルクラスターのコンピュートと実行方法を標準化します。 <sub>⭐ 2.3k · Python</sub>
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - 分散型AIモデルトレーニングとLMファインチューニング <sub>⭐ 2.2k · Go</sub>
+- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHiveは、モデルコンテキストプロトコル(MCP)サーバーの実行と管理のためのエンタープライズグレードのプラットフォームです。 <sub>⭐ 2.2k · Go</sub>
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Envoy Gateway上に構築されたAIサービスへの統合アクセスを管理 <sub>⭐ 2.2k · Go</sub>
+- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - KubernetesとOpenShift用のモデルコンテキストプロトコル(MCP)サーバー <sub>⭐ 2.1k · Go</sub>
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitricは、コードからインフラを備えたクラウドアプリケーション用の多言語フレームワークです。 <sub>⭐ 2.0k · Go</sub>
+- [fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid) - BigData/AIアプリケーション向けの流体、弾性データ抽象化および加速をクラウドで実現。(CNCFに基づくプロジェクト) <sub>⭐ 2.0k · Go</sub>
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - マルチクラスター管理リアルタイム、セルフホスト、シングルバイナリ、AI搭載のKubernetesダッシュボード。お使いのブラウザでK8sクラスタの管理、監視およびデバッグ、クラウドなし、エージェントなし。 <sub>⭐ 1.9k · TypeScript</sub>
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore:AIアプリケーション向けの拡張可能なストレージ <sub>⭐ 1.9k · Go</sub>
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - スキーマ、BLOB、および予測用のAIデータストア。アプリで使用したり、組み込みのヒューマンスーパービジョン、データワークフロー、UIカタログを統合して、AIデータを最も価値のあるものにします。 <sub>⭐ 1.9k · Python</sub>
+- [valqore/valqore](https://github.com/valqore/valqore) - AI主導のクラウドとKubernetes操作のための安全第一ガードレール <sub>⭐ 1.9k · Python</sub>
+- [Yuan-lab-LLM/ClawManager](https://github.com/Yuan-lab-LLM/ClawManager) - AIエージェントインスタンス管理のためのKubernetes-native制御平面、管理されたAIアクセス、ランタイムオーケストレーション、および複数のエージェントの実行時間にわたる再利用可能なリソース。 <sub>⭐ 1.9k · Go</sub>
+- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) - QoSベースのスケジューリングシステムは、マイクロサービス、Webサービス、ビッグデータジョブ、AIジョブなどのワークロードに最適なレイアウトとステータスを提供します。 <sub>⭐ 1.8k · Go</sub>
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AIインフラエンジニア ラーニングトラック - 生産MLインフラストラクチャカリキュラム(2-4年の経験) <sub>⭐ 1.7k · Python</sub>
+- [kubeflow/katib](https://github.com/kubeflow/katib) - Kubernetesで自動機械学習 <sub>⭐ 1.7k · Python</sub>
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - AI-Driven エンジニアリングチーム向けオープンテストプラットフォーム <sub>⭐ 1.7k · Go</sub>
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - クラウドアーキテクチャの図は、AIプロンプトまたはJSONからMCPサーバーを介してテラフォームにダイアグラムし、CLIやCI/CD経由で描画するTerraformへ。 公式AWS、Azure、GCPアイコンを使用して。 <sub>⭐ 1.6k · Python</sub>
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreoはKubernetesの社内開発プラットフォームです。 <sub>⭐ 1.6k · Go</sub>
+- [Augani/dory](https://github.com/Augani/dory) - Doryは、Apple Silicon: Docker、Compose、Kubernetes、仮想マシン、およびポリシーベースのエージェントサンドボックスの完全なローカル開発システムです。 <sub>⭐ 1.6k · Swift</sub>
+- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - kubernetes管理コマンドのMCPサーバー <sub>⭐ 1.6k · TypeScript</sub>
+- [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) - カイスケジューラーは、AIのワークロード用のオープンソースKubernetesネイティブスケジューラです。 <sub>⭐ 1.5k · Go</sub>
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - パーソナルAI Sovereignty。 統合されたツール、個人知識グラフ、音声、ビジョン、シェル、ブラウザの自動化、スケジュールされたタスク、健康追跡とローカルファーストAIアシスタント... <sub>⭐ 1.5k · Python</sub>
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - オープンソースのDevOpsツールは、AI/MLモデルをパッケージ化およびバージョンアップするためのCNCFから、データセット、コード、構成を OCIアーティファクトに作成します。 <sub>⭐ 1.4k · Go</sub>
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmosはインフラのオープンソースランタイムです。テラフォーム、OpenTofu、Packer、Ansible、Kubernetes、Helm をビルドし、Circle でノートパソコンと同じ方法でコンテナを出荷します。 <sub>⭐ 1.4k · Go</sub>
+- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - あなたのCLのためのLMS <sub>⭐ 1.4k · Python</sub>
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - 独自のサーバーやクラウド上に展開するオープンソースのETL/ELT。DuckDBに構築:非コード/ローコードビジュアルパイプラインまたはSQL、385コンポーネント、dbt、CDC、データ品質、リバースETL、リネン、AI用のMCP... <sub>⭐ 1.3k · Rust</sub>
+- [piomin/claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - 春のブーツや他のスタッフのためのクロードコードテンプレート(タグに含まれている) <sub>⭐ 1.3k</sub>
+- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - .NET、ソフトウェアアーキテクチャ、クラウドネイティブ、データおよびAIの素晴らしいヒントやコツ、リソース、ビデオと記事のキュレーションリスト。 <sub>⭐ 1.3k · C#</sub>
+- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - KubernetesのAI Inference Operator。 生産でMLモデルを提供する最も簡単な方法。 VLM、LLM、埋め込み、およびスピーチ・ツー・テキストをサポートしています。 <sub>⭐ 1.3k · Go</sub>
+- [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - IEX、Tradier、FinVizの自動化された価格データを使用してAIを訓練するための数分の取引アルゴリズムの1000s。 データセットとトレーディングパフォーマンスが自動的にS3に公開されました... <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [run-house/kubetorch](https://github.com/run-house/kubetorch) - PythonでKubbernetesのAIワークロードを配布し、MLインフレ用のPyTorchのような実行します。 <sub>⭐ 1.2k · Python</sub>
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - KubectlプラグインはLMsでマニフェストを作成する <sub>⭐ 1.2k · Go</sub>
+- [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills) - Kubernetes、Terraform、AWS/Azure/GCP、AIプラットフォームの運用、コンテナ硬化、SOC2/ISO27001 における80以上のスキルを持つエージェント・レディ DevOps、セキュリティ、インフラおよびコンプライアンスに関する知識ベース... <sub>⭐ 1.1k · Shell</sub>
+- [ongridio/ongrid](https://github.com/ongridio/ongrid) - インフラストラクチャを理解し、根本的な原因を見つけ、それを修正するOps AIエージェントは、Slack、Telegram、Lark、DingTalkから右。 <sub>⭐ 1.1k · Go</sub>
+- [jonwiggins/optio](https://github.com/jonwiggins/optio) - AIエージェントのワークフローオーケストレーションがスバルします。 <sub>⭐ 1.1k · TypeScript</sub>
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - MariaDBをクラウドネイティブで実行し、操作する <sub>⭐ 1.0k · Go</sub>
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AIツールチェーン オペレータ <sub>⭐ 1.0k · Go</sub>
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - オープンソースの自動浸透テスト。 ウェブ、API、クラウド、アクティブディレクトリ、Kubernetes、CI/CD、AI/LLM(OWASP LLM Top 10)の50人のスペシャリストエージェント。 プライバシーを背負ったローカルLLMで実行します... <sub>⭐ 990 · Python</sub>
+- [cdxiaodong/cain-agent](https://github.com/cdxiaodong/cain-agent) - AWS/Azure/GCP + Aliyun/Tencent/Huaweiクラウドをカバーする、認証された評価のための現実世界AIの浸透のテスト エンジニア。 クロード・エージェントSDKで造られる <sub>⭐ 961 · Python</sub>
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - CNCFの風景に公開:KubernetesのためのMCPサーバー。 <sub>⭐ 960 · Python</sub>
+- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - エンタープライズ対応のMCPゲートウェイ&レジストリは、AI開発ツールをセキュアなOAuth認証と動的ツールの検出、および自動人工知能エージェントとAIコーディングの両方のための統一されたアクセスで一元化します。 <sub>⭐ 955 · Python</sub>
+- [openvinotoolkit/model_server](https://github.com/openvinotoolkit/model_server) - OpenVINOTM で最適化されたモデルの拡張可能なインフェレンスサーバー <sub>⭐ 940 · C++</sub>
+- [aws/nova-act](https://github.com/aws/nova-act) - Amazon Nova Actは、UIベースのワークフローをスケールで自動化する信頼性の高いAIエージェントの構築と展開のためのAWSサービスです。 <sub>⭐ 916 · Python</sub>
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) - AWS のエージェントプラグインは、AI コーディングエージェントを AWS 上で構築・展開し、運用するスキルで対応します。 <sub>⭐ 909 · Python</sub>
+- [agentscope-ai/agentscope-runtime](https://github.com/agentscope-ai/agentscope-runtime) - セキュアなツールサンドボックス、Agent-as-a-Service API、スケーラブルなデプロイメント、フルスタックの保守性、および幅広いフレームワーク互換性を備えたエージェントアプリ向けのプロダクション対応ランタイムフレームワーク。 <sub>⭐ 876 · Python</sub>
+- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway は、MCP サーバーのリバースプロキシと管理レイヤーで、Kubernetes 環境における MCP サーバーの拡張性、セッションアウェアの状態ルーティングおよびライフサイクル管理を実現します。 <sub>⭐ 858 · C#</sub>
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - バックエンドアプリケーション用のシンプルでモジュラー、およびobservable Goフレームワーク。 <sub>⭐ 842 · Go</sub>
+- [bridgecrewio/AirIAM](https://github.com/bridgecrewio/AirIAM) - イースト特権AWS IAMテラフォーマー <sub>⭐ 828 · Python</sub>
+- [helixml/helix](https://github.com/helixml/helix) - スペックコーディングによるプライベートエージェントフリート。各エージェントは、独自のGPU認証デスクトップを取得します。フルプライベートAIスタックでClaude、Codex、Geminiを実行し、モデルを開きます <sub>⭐ 814 · Go</sub>
+- [ITSpecialist111/ai_automation_suggester](https://github.com/ITSpecialist111/ai_automation_suggester) - このカスタムホームアシスタントの統合は、組織を自動的にスキャンし、新しいデバイスを検出し、AI(クラウドとローカルAPI)を使用して、カスタマイズされた自動化を提案します。 複数のAIをサポートしています... <sub>⭐ 793 · Python</sub>
+- [panaverse/learn-generative-ai](https://github.com/panaverse/learn-generative-ai) - OpenAI、Gemini、Streamlit、Containers、Serverless、Postgres、LangChain、Pinecon、Next.js を使用したクラウド応用生成人工知能工学(GenEng)を学ぶ <sub>⭐ 789 · Python</sub>
+- [VersusControl/versus-incident](https://github.com/VersusControl/versus-incident) - Versus Incidentは、自己ホスト型のAI SREエージェントです。システムが正常に新しい問題や予期しない問題だけを探し出し、チャットチャネルとオンコールプラットフォームにルーティングしているかを学びます。 <sub>⭐ 782 · Go</sub>
+- [William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless) - Kubernetesとクラウドインフラ用のAI SRE AgenticOps。 <sub>⭐ 776 · Python</sub>
+- [aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) - あらゆるAIエージェントを生産準備するアプリケーションに変えるためのPython SDK。AWS管理インフラを備えた実行時間、メモリ、認証、およびツール用のフレームワークアグノスティックプリミティブ。 <sub>⭐ 775 · Python</sub>
+- [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Open-sourceインフラストラクチャ 既に実行されているものから始まるコードとして。 前にあなたの不動産、バージョンのドリフトと手戻り現在のコードを発見します。 Pkl上に構築されたテラフォームおよびプームの代替品は、... <sub>⭐ 774 · Go</sub>
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawlはカスタマイズ可能で、軽量でクラウドネイティブなWebデセプションサーバーとアンチクローラーです。これにより、偽のWebアプリケーションを現実的にランダムに生成したデコーディを使用して脆弱性を低張らせることができます。 <sub>⭐ 769 · Python</sub>
+- [Kymo-MCP/mcpcan](https://github.com/Kymo-MCP/mcpcan) - MCPCAN は、MCP サービス向けの集中管理プラットフォームです。コンテナのデプロイメント方法を使用して各 MCP サービスを展開します。このプラットフォームでは、コンテナ監視と MCP サービストークンをサポートしています... <sub>⭐ 728 · Go</sub>
+- [devtoolsd/awesome-devtools](https://github.com/devtoolsd/awesome-devtools) - クラウドプラットフォームやIDEからAIを活用したコーディングアシスタント、生産性ユーティリティまで、素晴らしい開発者向けツールとサービスのキュレーションリストです。 <sub>⭐ 682</sub>
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) - ローカルファースト、セルフホスト型のAIエージェントのランタイムとMCPブリッジ(サンドボックスセッション、メモリ、資格情報、監査/再生、およびローカルコンソール)。 <sub>⭐ 679 · TypeScript</sub>
+- [BorisPolonsky/dify-helm](https://github.com/BorisPolonsky/dify-helm) - kubernetesのLMベースのアプリであるlanggenious/difyをlmチャートで展開します。 <sub>⭐ 676 · Go Template</sub>
+- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - 2018年より収集した素晴らしい参考文献のキュレーションリスト。 <sub>⭐ 673 · HTML</sub>
+- [ys-ll/uniterm](https://github.com/ys-ll/uniterm) - SSH、RDP、SFTP、データベース、Kubernetesなどの30以上のプロトコルを備えた軽量オールインワンターミナル。マルチターンシェルコマンドを計画し実行する組み込みの自律AIエージェントを使って。 <sub>⭐ 641 · Go</sub>
+- [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) - AIエージェントのkubectl <sub>⭐ 634 · Go</sub>
+- [datawranglerai/self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr) - サブスクリプション手数料やサーバーの頭痛なしでGoogle Cloudでセルフホストn8n - あなたの自動化ワークフローは、コーヒー予算よりもコストがかかるべきではないため <sub>⭐ 619 · HCL</sub>
+- [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - AIエージェント、ローカルまたはクラウド上のサンドボックスコード実行。 大規模に並行して拡張が容易です。 SWE-agentのパワーリングなど <sub>⭐ 613 · Python</sub>
+- [4paradigm/k8s-vgpu-scheduler](https://github.com/4paradigm/k8s-vgpu-scheduler) - Kubernetes用のOpenAIOS vGPUデバイスプラグインは、アプリケーションがより大きなメモリ容量にアクセスできるようにするために、OpenAIOSプロジェクトからGPUデバイスのメモリを仮想化し、その物理的な... <sub>⭐ 597 · Go</sub>
+- [awslabs/fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - AmazonのBedrock AgentCoreでの使用例の生産準備が整ったデプロイメントのための柔軟なFullstackソリューションテンプレート。 <sub>⭐ 592 · Python</sub>
+- [decionis/agent-safe-pipeline](https://github.com/decionis/agent-safe-pipeline) - AI エージェントと API の実行権限ゲートウェイです。 これは、結果的な HTTP アクションを回避し、許可されているかどうかを Decionis に尋ねて、承認されたリクエストを一度だけ転送します。 <sub>⭐ 589 · TypeScript</sub>
+- [argoproj-labs/mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) - Argo CD用のモデルコンテキストプロトコル(MCP)サーバの実装 <sub>⭐ 579 · TypeScript</sub>
+- [bex-co/bex](https://github.com/bex-co/bex) - オープンソースのレンダリング代替 — AI-native。 Git push → build → deploy を独自のインフラストラクチャで実行します。エージェントは一流のユーザーです。 <sub>⭐ 566 · Go</sub>
+- [raids-lab/crater](https://github.com/raids-lab/crater) - CraterはクラウドネイティブAIのトレーニングと推論プラットフォームです。 <sub>⭐ 566 · Go</sub>
+- [liaotxcn/Weave](https://github.com/liaotxcn/Weave) - LLM、AIチャット、RAG、エージェントなどのAI機能のパフォーマンスや簡単なスケーラビリティ、ディープな統合を備えた高効率でセキュアかつ安定したアプリケーション開発プラットフォームです。 <sub>⭐ 564 · Go</sub>
+- [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWSのジェネレーションAI CDKコンストラクトは、一般的な遺伝子型人工知能パターン向けのAWS CDKのサンプル実装です。 <sub>⭐ 544 · TypeScript</sub>
+- [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (中国語のみ)DevOps&CloudNative、Linux、組み込み、Homelab、音楽、ブロックチェーン、AIなど <sub>⭐ 544 · Jupyter Notebook</sub>
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - オープンソースのLMを手軽に導入、構築・展開! <sub>⭐ 539 · Go</sub>
+- [micytao/vllm-playground](https://github.com/micytao/vllm-playground) - vLLMサーバー(www.github.com/vllm-project/vllm)と管理し、やり取りするためのモダンなWebインターフェイス。 macOS Apple Siliconの特別最適化を備えたGPUおよびCPUモードの両方をサポート... <sub>⭐ 539 · JavaScript</sub>
+- [RunLLM/aqueduct](https://github.com/RunLLM/aqueduct) - Aqueduct は維持されなくなりました。Aqueduct では、LM と ML のワークロードを任意のクラウドインフラストラクチャで実行できます。 <sub>⭐ 518 · Go</sub>
+- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) - AudioMuse-AI Navidrome プラグインは、リアルタイムで同様の曲をキューする音速解析を使用して音楽の発見を強化します。 <sub>⭐ 516 · Go</sub>
+- [ome-projects/ome](https://github.com/ome-projects/ome) - Open Model Engine(OME) — Kbernetes は LLM のサービング、GPU スケジューリングおよびモデルライフサイクル管理を行ないます。 SGLang、VLLM、TensorRT-LLM、Triton と連携 <sub>⭐ 514 · Go</sub>
+- [cubeplexai/cubeplex](https://github.com/cubeplexai/cubeplex) - CubePlex は、チームワークスペースのマネージドエージェント向けのクラウドネイティブプラットフォームです。スキル、共有メモリ、MCP ツール、永続的なサンドボックス、管理されたアクセス、および Docker Compose または自動ホスト型デプロイメントなど... <sub>⭐ 508 · Python</sub>
+- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - テラフォーム、AWS、DevOps、AI(Tada!)プロジェクトについて詳しく紹介します。 <sub>⭐ 507</sub>
+- [bytedance/vArmor](https://github.com/bytedance/vArmor) - vArmor は、AppArmor/BPF/Seccomp および NetworkProxy テクノロジーを活用してシステムコールからアプリケーションプロトコルへのアクセス制御を強化するクラウドネイティブコンテナー硬化システムです。 <sub>⭐ 505 · Go</sub>
+- [xiaods/k8e](https://github.com/xiaods/k8e) - k8e.sh - オープンソースのAIサンドボックスマトリックス <sub>⭐ 499 · Go</sub>
+- [aws-samples/well-architected-iac-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer) - AWS Well-Architectedのベストプラクティスに対するコードとアーキテクチャ図としてインフラストラクチャを評価するためのGenerative AIツールのサンプル。 <sub>⭐ 498 · TypeScript</sub>
+- [humanlayer/agentcontrolplane](https://github.com/humanlayer/agentcontrolplane) - ACP は、エージェントコントロールのプレーンです。シンプルさ、明快さと制御のために最適化された分散型エージェントスケジューラです。それは、監督なしで実行されるアウターループ代理店のために設計され、非同期化を行います... <sub>⭐ 495 · Go</sub>
+- [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) - AmazonのBetrockを使用してユニバーサルAIエージェントは、ファイルの作成/編集をカスタマイズし、コマンドを実行したり、Webを検索したり、ナレッジベースを使用し、マルチエージェントやジェネレーション画像などを使用します。 <sub>⭐ 485 · TypeScript</sub>
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - Kubernetesのコスト会計のためのレコードのシステム:名前空間CPU、メモリとGPUの使用量、30%非アポカブルオーバーヘッドが見える。 MCP(Claude、Gemini... <sub>⭐ 485 · Python</sub>
+- [awslabs/awsome-distributed-ai](https://github.com/awslabs/awsome-distributed-ai) - AWS上での分散AIトレーニングと推論のためのベストプラクティス、リファレンスアーキテクチャ、および例。 <sub>⭐ 483 · Shell</sub>
+- [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s) - インタラクティブなAI主導のゲームは、Docker、Linux、ネットワーク&Kubernetesを学習します。 クロードコードまたはカーサーターで開くと、「プレイ」タイプです。 <sub>⭐ 482 · Shell</sub>
+- [volcano-sh/kthena](https://github.com/volcano-sh/kthena) - 軽量、モジュラー、KubernetesネイティブのAIはスケーラブルなモデルをサービングするためのプラットフォームを提供しています。 <sub>⭐ 473 · Go</sub>
+- [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI ツールと Kubernetes コント ローラー、MCP サーバーの構築・テストおよびデプロイ <sub>⭐ 472 · Go</sub>
+- [clearml/clearml-server](https://github.com/clearml/clearml-server) - ClearML - AI のワークロードを合理化するための自動磁気CI / CD。実験管理、データ管理、パイプライン、オーケストレーション、スケジューリング& 1 つの MLOps/LLMOps ソリューションでサービング <sub>⭐ 470 · Python</sub>
+- [1duo/awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures) - 機械学習トレーニング/生産の推論のためのインフラストラクチャTM。 <sub>⭐ 460</sub>
+- [secondsky/sap-skills](https://github.com/secondsky/sap-skills) - AIコーディングアシスタントによるSAP開発のためのプロダクション・レディプラグイン - BTP、CAP、Fiori、ABAP、HANA、Analytics Cloud、Datasphereなど <sub>⭐ 458 · JavaScript</sub>
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy で API をビルドします。洗練されたタイプセーフな SDK です。Terraform プロバイダー、MCP サーバー、CLI、Contract Tests for your API. OpenAPI はネイティブです。 <sub>⭐ 451 · JavaScript</sub>
+- [LukasNiessen/kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill) - クベルネス クラウド コードとコーデックスのためのスキル. LLMsは、K8sで多くを幻覚 - KubeShark これを修正します。. それは幻惑を排除し、Kubernetesの地面, Helmなど公式ベストプラクティス. <sub>⭐ 438</sub>
+- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Kubernetesで最適化された検証済みおよび再現可能なGPU認証型AIランタイムのツーリング <sub>⭐ 432 · Go</sub>
+- [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) - オーロラ — オープンソースのAIを搭載したエージェントインシデント管理とSREのためのルート原因分析。 LangGraphエージェントはAWS、Azure、GCP、Kubernetesを横断しています。 PagerDuty、Datadogとの統合... <sub>⭐ 431 · Python</sub>
+- [LangStream/langstream](https://github.com/LangStream/langstream) - LangStream. ビルドと実行のためのイベント主導の開発者プラットフォーム LLM AI アプリ. Kubernetes および Kafka を搭載しました。. <sub>⭐ 427 · Java</sub>
+- [mckinsey/agents-at-scale-ark](https://github.com/mckinsey/agents-at-scale-ark) - エージェントのリソースのためのプロバイダアグノスティック操作。アークは、数千もの有能なアプリケーションプロジェクトで開発されたパターンと慣行をコダイズします。 <sub>⭐ 427 · TypeScript</sub>
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPEは、プラットフォームエンジニアリングとそれを超えるAIエージェントやエージェントのワークフローの構築、管理、運用のためのオープンソースAIプラットフォームです。 <sub>⭐ 422 · TypeScript</sub>
+- [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - 工学系AIチームメンバー <sub>⭐ 408 · Python</sub>
+- [airyhq/airy](https://github.com/airyhq/airy) - リアルタイムのデータパイプラインを構築し、リアルタイムデータをユニバーサルに利用できるようにするオープンソースのAppフレームワーク - 歴史と実時間データに参加して... <sub>⭐ 402 · Java</sub>
+- [stubbi/openclaw-operator](https://github.com/stubbi/openclaw-operator) - Kubernetes は、OpenClaw AI エージェントのインスタンスを生産レベルのセキュリティ、保守性およびライフサイクル管理でデプロイ・管理するためのオペレータです。 <sub>⭐ 400 · Go</sub>
+- [nudgebee/nudgebee](https://github.com/nudgebee/nudgebee) - AI-SRE、AI-FinOps、AI-K8sOps、および分散型ツールのないAgentic Automation BuilderによるUnified CloudOpsプラットフォーム、コンテキスト切り替え、またはモデルロックイン。 <sub>⭐ 398 · Go</sub>
+- [bentoml/BentoDiffusion](https://github.com/bentoml/BentoDiffusion) - BentoDiffusion:BentoMLで提供される拡散モデルのコレクション <sub>⭐ 389 · Python</sub>
+- [convertigo/convertigo](https://github.com/convertigo/convertigo) - Convertigoは、フルスタックモバイルおよびWebアプリケーション開発のためのコードアプリケーションビルダーなしを含むAiのオープンソースエンタープライズローコードプラットフォームです。 <sub>⭐ 387 · Java</sub>
+- [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - macOS & Windows用のモダンなKubernetes GUI管理デスクトップアプリ。マルチクラスターサポート、リアルタイム監視、AIアシスタント、端末アクセスなど <sub>⭐ 386 · TypeScript</sub>
+- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - Kubernetesに接続するMCPサーバー <sub>⭐ 383 · Go</sub>
+- [bgdnvk/clanker](https://github.com/bgdnvk/clanker) - AWS、GCP、Cloudflareなどのクラウド環境向けの自動システムエンジニアリングクライエージェント <sub>⭐ 377 · Go</sub>
+- [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - テラフォームモデルコンテキストプロトコル(MCP)ツール - AIアシスタントがTerraform環境を管理および操作できるようにする実験的なCLIツール。 Terraform構成を読むサポート、分析... <sub>⭐ 372 · Rust</sub>
+- [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - llm-dのルーター:推論要求のための理性的な記入項目ポイント <sub>⭐ 369 · Go</sub>
+- [matrixhub-ai/matrixhub](https://github.com/matrixhub-ai/matrixhub) - オープンソースのセルフホスト型のAIモデルハブで、ハッギング・フェイス・コンパティビリティーが搭載され、vLLM/SGLangの性能を加速します。 <sub>⭐ 357 · Go</sub>
+- [MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) - 人工知能、データ工学、DevOpsプロジェクトをキュレーションしたコレクションは、実際のアプリケーション、高度な技術、およびチュートリアルを備えています。学習者や実務家がデータを科学と探すのに適しています。 <sub>⭐ 352 · Jupyter Notebook</sub>
+- [giuseppe-trisciuoglio/developer-kit](https://github.com/giuseppe-trisciuoglio/developer-kit) - Claudeコードとエージェントの CLI 用のモジュラープラグインマーケットプレース、検証済みでスペック駆動されたスキル、エージェント、コマンド、Java、TypeScript、Python、PHP、AWS、AI 向けのワークフロー。 <sub>⭐ 351 · Python</sub>
+- [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - AI のランディングゾーンは、bicep,terraform and Portal の形で安全で弾力性のあるスケーラブルなリファレンスアーキテクチャと参照実装です。 <sub>⭐ 340 · Python</sub>
+- [vfarcic/dot-ai](https://github.com/vfarcic/dot-ai) - 動的発見と明白な英語ガバナンスによる、ANY Kubernetes クラスターにアプリケーションをデプロイするためのインテリジェントなデュアルモードエージェント <sub>⭐ 336 · TypeScript</sub>
+- [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - 自律的なAIコーディングエージェントのオーケストレーションのためのKubernetesネイティブフレームワーク。 <sub>⭐ 335 · Go</sub>
+- [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - AIエージェント用のオープンソース仮想デスクトップ <sub>⭐ 313 · JavaScript</sub>
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) - ResearchClawは、研究のために構築された個人AIアシスタントです。 セットアップが速く、ローカルやクラウドで簡単に実行でき、既に使用しているチャットアプリと統合する準備が整いました。 拡張可能なスキルを使って、それは... <sub>⭐ 313 · Python</sub>
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - ホームアシスタントのためのAIエージェント — 自宅に話したり、明白な言語で自動化を作成したり、カメラを顔認識で分析したり、積極的な異常アラートを入手したりできます。 Ollamaを介してクラウドLMまたは完全にローカル。 <sub>⭐ 312 · Python</sub>
+- [cncf/k8s-ai-conformance](https://github.com/cncf/k8s-ai-conformance) - Kubernetes AI 適合性 <sub>⭐ 310 · Go</sub>
+- [kmeanskaran/stock-agent-ops](https://github.com/kmeanskaran/stock-agent-ops) - LSTMとAgentic AIを用いたエンドツーエンドの週次ストックレポート生成の設計。MLOpsプラクティスでAWS上で展開します。 <sub>⭐ 305 · Python</sub>
+- [apache/camel-quarkus](https://github.com/apache/camel-quarkus) - Apache Camel Quarkus, カリス <sub>⭐ 302 · Java</sub>
+- [sgl-project/rbg](https://github.com/sgl-project/rbg) - Kubernetes に LLM インフェレンス サービスを展開するためのワークロード <sub>⭐ 301 · Go</sub>
+- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - オープンソースエージェントのランタイム — SSH-native isolation、eBPF egress ポリシー、Kubernetes + LXCバックエンド、GPUパススルー、MCPネイティブ CLI <sub>⭐ 296 · Go</sub>
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - AIエージェントが環境を走るクラウドネイティブゼロの信頼セキュリティ <sub>⭐ 295 · C</sub>
+- [kaapana/kaapana](https://github.com/kaapana/kaapana) - Kaapanaは、医療データ分析の分野におけるアートプラットフォームプロビジョニングの状態のためのオープンソースツールキットです。アプリケーションはAIベースのワークフローとフェデレーションされた学習シナリオで構成されています... <sub>⭐ 276 · Python</sub>
+- [aws-samples/sample-well-architected-skills-and-steering](https://github.com/aws-samples/sample-well-architected-skills-and-steering) - AWS Well-アーキテクトフレームワークを適用する方法AIコーディングエージェントを教える再使用可能なスキルとステアリング。 1セットの Playbook、14サポートツール。 <sub>⭐ 272 · Python</sub>
+- [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) - LangGraph用のビジュアルノードエッジグラフGUIエディタとローカルLMまたはオンラインAPIで実行 <sub>⭐ 271 · TypeScript</sub>
+- [aws-samples/sample-agentic-frameworks-on-aws](https://github.com/aws-samples/sample-agentic-frameworks-on-aws) - 最新のOSS Agentic Frameworkを使用して、AWS上でのAIソリューションを構築します。 <sub>⭐ 266 · Jupyter Notebook</sub>
+- [DeNA/dify-google-cloud-terraform](https://github.com/DeNA/dify-google-cloud-terraform) - 拡張性、高可用性、および生産レベルの信頼性でGoogleクラウド上でDifyを展開するためのテラフォーム構成。 <sub>⭐ 261 · HCL</sub>
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - オープンソースのテラフォームエンタープライズ交換 <sub>⭐ 259 · Python</sub>
 
 ## 🚨 AIOps、インシデント、オブザーバビリティ
 
@@ -213,833 +213,833 @@
 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - PostHogは、自己主導型製品を構築するための主要なプラットフォームです。 当社の開発者ツール - AI の保守性、分析、セッション再生、フラグ、実験、エラー追跡、ログなど - すべてをキャプチャします... <sub>⭐ 40.1k · Python</sub>
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNozは、チームとAIエージェントのオープンソースであるOpenTelemetry-nativeオブザベーシビリティプラットフォームです。 APMや分散トレース、ログなどの機能を備えた1つのツールでログ、メトリクス、トレースを取得します。 <sub>⭐ 32.3k · TypeScript</sub>
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security… <sub>⭐ 29.6k · Jupyter Notebook</sub>
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while… <sub>⭐ 28.2k · Python</sub>
-- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced… <sub>⭐ 16.2k · Python</sub>
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents. <sub>⭐ 16.0k · Java</sub>
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform <sub>⭐ 12.4k · Python</sub>
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation… <sub>⭐ 12.0k · Python</sub>
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation <sub>⭐ 11.7k · Python</sub>
-- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. <sub>⭐ 11.3k · Python</sub>
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn <sub>⭐ 11.3k · TypeScript</sub>
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - このリポジトリは、オマール・サントス(@santosomar)によって維持され、エシカルハッキング、バグバウンティ、デジタルフォレンジックおよびインシデントレスポンス(DFIR)、AIセキュリティに関する何千ものリソースが含まれています。 <sub>⭐ 29.6k · Jupyter Notebook</sub>
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - オープンソースのAIエンジニアリングプラットフォームは、エージェント、LM、およびMLモデル向けに設計されています。 MLflowでは、すべてのサイズのチームがデバッグ、評価、モニター、最適化を行いながら生産品質のAIアプリケーションを最適化することができます。 <sub>⭐ 28.2k · Python</sub>
+- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - エージェントAIの保守性、監視および評価フレームワークのためのPython SDK。 エージェント、LLM、ツールのトレース、デバッグマルチアジスティックシステム、セルフホストダッシュボードや高度な機能などが含まれます... <sub>⭐ 16.2k · Python</sub>
+- [apache/doris](https://github.com/apache/doris) - Apache Doris は、AI エージェントのリアルタイム分析とハイブリッド検索データベースです。 <sub>⭐ 16.0k · Java</sub>
+- [keephq/keep](https://github.com/keephq/keep) - オープンソースの AIOps とアラート管理プラットフォーム <sub>⭐ 12.4k · Python</sub>
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENGは、次世代のエンタープライズAIアプリケーション向けのオープンLLMデボスプラットフォームです。 強力で包括的な機能は次のとおりです。 GenAIワークフロー、RAG、エージェント、ユニファイドモデル管理、評価... <sub>⭐ 12.0k · Python</sub>
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AIの観察性及び評価 <sub>⭐ 11.7k · Python</sub>
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - 独自のAI SREエージェントをビルドします。オープンソースのツールキットは、人工知能時代のものです。 <sub>⭐ 11.3k · Python</sub>
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - 無料のローカルツールは、モデル、プロジェクト、およびタスクによって、37のツールとエージェント(クロードコード、カーソル、コーデックス、ジェミニなど)を渡るAIコーディングトークンの使用量とコストを追跡します。 npxコードバーン <sub>⭐ 11.3k · TypeScript</sub>
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - オープンソースのTypeScript AIエージェントフレームワークで構築されたAIエージェントエンジニアリングプラットフォーム <sub>⭐ 10.7k · TypeScript</sub>
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. <sub>⭐ 8.0k · Jupyter Notebook</sub>
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and… <sub>⭐ 7.9k · Go</sub>
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system. <sub>⭐ 7.4k · Java</sub>
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic. <sub>⭐ 7.1k · Rust</sub>
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. <sub>⭐ 6.6k · Python</sub>
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation… <sub>⭐ 5.8k · Go</sub>
-- [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) - Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. <sub>⭐ 5.2k · TypeScript</sub>
-- [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing <sub>⭐ 4.9k · TypeScript</sub>
-- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models <sub>⭐ 4.8k · Go</sub>
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. <sub>⭐ 4.7k · TypeScript</sub>
-- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. <sub>⭐ 4.7k · Python</sub>
-- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems. <sub>⭐ 4.5k · Python</sub>
-- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source. <sub>⭐ 4.0k · TypeScript</sub>
-- [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health. <sub>⭐ 3.7k · Go</sub>
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project <sub>⭐ 3.5k · Python</sub>
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24. <sub>⭐ 3.3k · TypeScript</sub>
-- [ascending-llc/jarvis-registry](https://github.com/ascending-llc/jarvis-registry) - Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability. <sub>⭐ 3.3k · Python</sub>
-- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more. <sub>⭐ 3.3k · TypeScript</sub>
-- [openocta/openocta](https://github.com/openocta/openocta) - OpenOcta is an open-source AIOps Agent installed on Windows & macOS. <sub>⭐ 3.2k · TypeScript</sub>
-- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents. <sub>⭐ 3.1k · TypeScript</sub>
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL. <sub>⭐ 2.8k · TypeScript</sub>
-- [DevOpsHiveHQ/dynamic-devops-roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap) - A FREE pragmatic DevOps learning to kickstart your DevOps career and knowledge in the Cloud Native era following the Agile MVP style in the AI era! (2026 plans for DevOps, Cloud, Platform, SRE, SWE) <sub>⭐ 2.5k · TypeScript</sub>
-- [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript <sub>⭐ 2.4k · TypeScript</sub>
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform… <sub>⭐ 2.4k · Python</sub>
-- [rcortx/kiwiq](https://github.com/rcortx/kiwiq) - Production-grade multi-agent orchestration platform - JSON-defined agents, multi-tier memory, and built-in observability. Battle-tested on 200+ enterprise AI agents. Now fully open-sourced (prod at… <sub>⭐ 2.2k · Python</sub>
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0. <sub>⭐ 2.1k · Python</sub>
-- [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts. <sub>⭐ 1.9k · JavaScript</sub>
-- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. <sub>⭐ 1.9k · TypeScript</sub>
-- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. <sub>⭐ 1.8k · Go</sub>
-- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents. <sub>⭐ 1.7k · Go</sub>
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - オープンソースのMLとLMobservabilityフレームワークです。あらゆるAIを搭載したシステムやデータパイプラインの評価、テスト、監視を行います。表からGen AIへ。100以上のメトリック。 <sub>⭐ 8.0k · Jupyter Notebook</sub>
+- [coroot/coroot](https://github.com/coroot/coroot) - Corootはオープンソースの保守性とAI搭載ルート原因分析を備えたAPMツールです。 これは、メトリック、ログ、トレース、継続的なプロファイリングと事前定義されたダッシュボードとSLOベースのアラートを組み合わせたものです... <sub>⭐ 7.9k · Go</sub>
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - AI搭載次世代オープンソースのリアルタイム観測システム。 <sub>⭐ 7.4k · Java</sub>
+- [katanemo/plano](https://github.com/katanemo/plano) - PlanoはAIネイティブプロキシサーバーと、エージェントアプリ用のデータプレーンです。スマートLLMルーティング、オブザーブビリティ、エージェントのオーケストレーション、ガードレールなど、エージェントのコアロジックに重点を置いています。 <sub>⭐ 7.1k · Rust</sub>
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - 数か月ではなく、AIエージェントをGoogle Cloudに発送します。CI/CDの組み込みや評価、および保守性を備えた制作準備済みテンプレートです。 <sub>⭐ 6.6k · Python</sub>
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェントの最適化プラットフォーム:Cozeloopは、開発、デバッグおよび評価からフルサイクル管理機能を提供することで、AIエージェントの開発における課題を解決します。 <sub>⭐ 5.8k · Go</sub>
+- [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) - AIエージェントハーネスの保守性と執行性。ポリシー施行により、すべての実行時間とランタイムの信頼性をキャプチャします。 <sub>⭐ 5.2k · TypeScript</sub>
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) - LLM評価とAIエージェントテストのプラットフォーム <sub>⭐ 4.9k · TypeScript</sub>
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - 生産機械学習モデルをパッケージ化、デプロイ、監視および管理するためのMLOpsフレームワーク <sub>⭐ 4.8k · Go</sub>
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - AIエージェントのオープンソースの保守性。 エージェントが失敗した場所を見つけて、コーディング担当者をディスパッチして修正し、実際のトレースに対する修正を確認します。 <sub>⭐ 4.7k · TypeScript</sub>
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - AIエージェントのハーネスエンジニアリングのための素晴らしいリスト:ツール、パターン、楕円形、メモリ、MCP、パーミッション、保守性、およびオーケストレーション。 <sub>⭐ 4.7k · Python</sub>
+- [pydantic/logfire](https://github.com/pydantic/logfire) - LLMおよび代理店システムを製造するためのAIの保守性プラットフォーム。 <sub>⭐ 4.5k · Python</sub>
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - Claudeコードの欠落した DevTools — セッションログ、ツールコール、トークン使用量、サブエージェント、およびコンテキストウィンドウをビジュアルUIで検査します。 無料、オープンソースです。 <sub>⭐ 4.0k · TypeScript</sub>
+- [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - リクエスト、使用量、コスト、見積り、障害、アカウントの健康のためのセルフホスト型CPA / CLIProxyAPI管理パネルとAIゲートウェイの保守性ダッシュボード。 <sub>⭐ 3.7k · Go</sub>
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SREエージェント - CNCFサンドボックスプロジェクト <sub>⭐ 3.5k · Python</sub>
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - ラマイナー - オープンソースの保守性プラットフォームは、AIエージェントのために構築されています。 YC S24. <sub>⭐ 3.3k · TypeScript</sub>
+- [ascending-llc/jarvis-registry](https://github.com/ascending-llc/jarvis-registry) - 人工知能のコピロットや自動代理店を企業ツールに接続します。シングル、セキュアなMCP/Agentゲートウェイで組み込みアイデンティティ、アクセス制御、および完全な保守性を実現します。 <sub>⭐ 3.3k · Python</sub>
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - オープンソース、開発者初のLLMOpsプラットフォームは、迅速な設計、バージョン管理、即時配信、コラボレーション、トラブルシューティング、保守性などを合理化できるように設計されています。 <sub>⭐ 3.3k · TypeScript</sub>
+- [openocta/openocta](https://github.com/openocta/openocta) - OpenOcta は、Windows & macOS にインストールされているオープンソース AIOps Agent です。 <sub>⭐ 3.2k · TypeScript</sub>
+- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - クラウドとインフラ管理のためのオープンソースAIターミナルで、自然言語やインテリジェントなエージェントを使用してサービスを展開、トラブルシューティング、自動化することができます。 <sub>⭐ 3.1k · TypeScript</sub>
+- [openlit/openlit](https://github.com/openlit/openlit) - OpenLITはオープンソースのエージェントハーネスエンジニアリングプラットフォームです。追跡、評価、監視、およびOTEL上のAIエージェントのモデルに関するすべての改善を行います。 <sub>⭐ 2.8k · TypeScript</sub>
+- [DevOpsHiveHQ/dynamic-devops-roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap) - AI時代のアジャイルMVPスタイルを追ったクラウドネイティブ時代におけるDevOpsのキャリアと知識をキックスタートさせる無料のバグデモDevOps学習! (2026 DevOps、クラウド、プラットフォーム、SRE、SWE) <sub>⭐ 2.5k · TypeScript</sub>
+- [vercel/workflow](https://github.com/vercel/workflow) - ワークフローSDK:TypeScriptで耐久性、信頼性、および保守可能なアプリとAIエージェントを構築 <sub>⭐ 2.4k · TypeScript</sub>
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrainはオープンソースの統合プラットフォームで、Generative AIアプリケーションを評価して改善します。20以上の事前構成チェック(言語、コード、埋め込みユースケース)をグレードに提供しています。 <sub>⭐ 2.4k · Python</sub>
+- [rcortx/kiwiq](https://github.com/rcortx/kiwiq) - 生産グレードのマルチエージェントオーケストレーションプラットフォーム - JSON 定義されたエージェント、多層メモリ、および組み込みの保守性。 200 + 企業 AI 代理店でバトルテスト済み。 今すぐ完全にオープンソース (プロダクツ) <sub>⭐ 2.2k · Python</sub>
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - LLMおよびAIの代理店の適用を評価し、観察し、改善するためのオープンソース、エンドツーエンドプラットフォーム。 トラバース・エバー・シミュレーション・データセット・ゲートウェイ・ガードレール。 セルフホスト可能。 Apache 2.0. <sub>⭐ 2.1k · Python</sub>
+- [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) - ローカルファーストのAIトークンの使用とコストトラッカー(Claude Code、Codex、 Cursor、Gemini、DeepSeek Harnessなどを含む31種類のコーディングツール)。 プロンプトは読みません。 <sub>⭐ 1.9k · JavaScript</sub>
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - クロードコード、ジェミニ、コーデックス、または任意のコーディングエージェントを実行します。 清潔で独立したサンドボックスには、機密データの赤字と防腐性が焼き込まれています。 <sub>⭐ 1.9k · TypeScript</sub>
+- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - グラフワークフロー、ツール、メモリ、A2A、AG-UI、MCP、評価、および保守性を備えた製造代理店システムの構築のためのGoフレームワーク。 <sub>⭐ 1.8k · Go</sub>
+- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - AIエージェントのクロスハーネス、自己即興メモリレイヤー。 <sub>⭐ 1.7k · Go</sub>
 - [aklivity/zilla](https://github.com/aklivity/zilla) - イベント主導のアプリケーションとAIエージェントのための軽量でマルチプロトコルゲートウェイ。 Kafka、MQTT、API および MCP を 1 つの高性能エンジンを介して共有ルーティング、セキュリティ... <sub>⭐ 1.7k · Java</sub>
-- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. <sub>⭐ 1.7k · TypeScript</sub>
-- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. <sub>⭐ 1.6k · Python</sub>
-- [chenryn/aiops-handbook](https://github.com/chenryn/aiops-handbook) - Collection of slides, repositories, papers about AIOps <sub>⭐ 1.6k</sub>
-- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ built in Rust — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities. <sub>⭐ 1.5k · Rust</sub>
-- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software <sub>⭐ 1.5k · TypeScript</sub>
-- [logpai/loglizer](https://github.com/logpai/loglizer) - A machine learning toolkit for log-based anomaly detection (ISSRE'16) <sub>⭐ 1.4k · Jupyter Notebook</sub>
-- [DrJonaC/Pensieve](https://github.com/DrJonaC/Pensieve) - Observe how memory shapes an answer. Pensieve is an interactive system for visualizing, interpreting, and managing how Large Language Models (LLMs) “remember” a user. It bridges the gap between… <sub>⭐ 1.4k · TypeScript</sub>
-- [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents… <sub>⭐ 1.3k · TypeScript</sub>
-- [codefuse-ai/codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot) - An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc. <sub>⭐ 1.3k · Python</sub>
-- [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability… <sub>⭐ 1.3k · Rust</sub>
-- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability <sub>⭐ 1.2k · Python</sub>
-- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs… <sub>⭐ 1.2k · TypeScript</sub>
-- [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) - AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative… <sub>⭐ 1.2k · Go</sub>
-- [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios. <sub>⭐ 1.2k · C#</sub>
-- [elastic/elastic-labs](https://github.com/elastic/elastic-labs) - Notebooks & Example Apps for Search, Observability, and Security with Elasticsearch <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [ccfos/huatuo](https://github.com/ccfos/huatuo) - eBPF-based Linux kernel observability <sub>⭐ 1.1k · Go</sub>
-- [DataDog/pup](https://github.com/DataDog/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products. <sub>⭐ 1.0k · Rust</sub>
-- [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents. <sub>⭐ 1.0k · Python</sub>
-- [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection. <sub>⭐ 973 · Python</sub>
-- [qinshihu/itops-agent-platform](https://github.com/qinshihu/itops-agent-platform) - China's 1st enterprise multi-agent IT ops platform. LLM-powered auto-remediation for Zabbix/Prometheus. Docker deploy. <sub>⭐ 939 · TypeScript</sub>
-- [logpai/Drain3](https://github.com/logpai/Drain3) - A robust streaming log template miner based on the Drain algorithm <sub>⭐ 890 · Python</sub>
-- [santifer/cv-santiago](https://github.com/santifer/cv-santiago) - Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my experience. <sub>⭐ 850 · HTML</sub>
-- [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents <sub>⭐ 840 · Python</sub>
-- [logpai/awesome-log-analysis](https://github.com/logpai/awesome-log-analysis) - A list of awesome research on log analysis, anomaly detection, fault localization, and AIOps <sub>⭐ 805</sub>
-- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - TraceRoot - open source self improving layer for ai agents YC S25 <sub>⭐ 790 · TypeScript</sub>
-- [LockedinLabs-AI/agent-console](https://github.com/LockedinLabs-AI/agent-console) - Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub.… <sub>⭐ 789 · JavaScript</sub>
-- [dapr/dapr-agents](https://github.com/dapr/dapr-agents) - Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry. <sub>⭐ 753 · Python</sub>
-- [rapidaai/voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state… <sub>⭐ 738 · Go</sub>
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises. <sub>⭐ 733 · Go</sub>
-- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents <sub>⭐ 718 · C</sub>
-- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D. <sub>⭐ 716 · JavaScript</sub>
-- [myccarl/ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) - End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating… <sub>⭐ 699 · Python</sub>
-- [databufflabs/databuff](https://github.com/databufflabs/databuff) - DataBuff is an AI-native APM built on Opentelemetry，with multi-agent troubleshooting out of the box. <sub>⭐ 691 · Java</sub>
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage.… <sub>⭐ 679 · Go</sub>
-- [Jun-jie-Huang/awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) - A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps). <sub>⭐ 670</sub>
-- [codefuse-ai/codefuse-devops-eval](https://github.com/codefuse-ai/codefuse-devops-eval) - Industrial-first evaluation benchmark for LLMs in the DevOps/AIOps domain. <sub>⭐ 654 · Python</sub>
-- [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced. <sub>⭐ 637 · Rust</sub>
-- [baidu/NoahV](https://github.com/baidu/NoahV) - An efficient front-end application framework based on vue.js <sub>⭐ 628 · JavaScript</sub>
-- [Abilityai/trinity](https://github.com/Abilityai/trinity) - Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0. <sub>⭐ 606 · Python</sub>
-- [secureagentics/Adrian](https://github.com/secureagentics/Adrian) - Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts. <sub>⭐ 578 · Python</sub>
-- [Tommy-yw/RunbookHermes](https://github.com/Tommy-yw/RunbookHermes) - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning. <sub>⭐ 546 · Python</sub>
-- [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and… <sub>⭐ 528 · TypeScript</sub>
-- [jfrog/boost](https://github.com/jfrog/boost) - Save tokens. Maximize context, Safely <sub>⭐ 519 · Shell</sub>
-- [RyjoxTechnologies/Octopoda-OS](https://github.com/RyjoxTechnologies/Octopoda-OS) - The open-source memory and observability layer for AI agents — persistent memory, loop detection, hash-chained audit trails, and a live dashboard, automatic on pip install. <sub>⭐ 487 · Python</sub>
-- [Raiders0786/web3-security-resources](https://github.com/Raiders0786/web3-security-resources) - Curated Web3 security learning hub for smart contract auditors and protocol teams: roadmaps, audit tools, public reports, fuzzing, formal verification, AI-assisted workflows, offchain security… <sub>⭐ 470 · Python</sub>
-- [laminlabs/lamindb](https://github.com/laminlabs/lamindb) - Open-source data management for multimodal AI. Query, trace, and govern with a lineage-native, format-agnostic lakehouse for agents and teams. Supports biological formats and registries - by the… <sub>⭐ 467 · Python</sub>
-- [d0ng1ee/logdeep](https://github.com/d0ng1ee/logdeep) - log anomaly detection toolkit including DeepLog <sub>⭐ 462 · Python</sub>
-- [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords) - Chat with your data - with memory, rules, and observability built in. Deploy in 2 minutes <sub>⭐ 458 · Python</sub>
-- [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) - See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons. <sub>⭐ 423 · Python</sub>
-- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - Find slow database queries, get AI-powered optimization tips, and browse them in a built-in dashboard — for Laravel. <sub>⭐ 413 · PHP</sub>
-- [alibaba/UnifiedModel](https://github.com/alibaba/UnifiedModel) - The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry, services, and business objects in one… <sub>⭐ 411 · Go</sub>
-- [digma-ai/digma](https://github.com/digma-ai/digma) - Digma helps you fix performance issues in your code by automatically profiling the code execution. Using APMs to identify code bottlenecks, query problems and scalability issues takes time and effort… <sub>⭐ 408 · Shell</sub>
-- [jixinpu/aiopstools](https://github.com/jixinpu/aiopstools) - The fundamental package for AIops with python. <sub>⭐ 401 · Python</sub>
-- [foglamp-labs/foglamp](https://github.com/foglamp-labs/foglamp) - The missing observability layer for the Vercel AI SDK. <sub>⭐ 400 · TypeScript</sub>
-- [mezmo/aura](https://github.com/mezmo/aura) - AURA is a production-tested SRE agent platform you can deploy in minutes. AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on… <sub>⭐ 400 · Rust</sub>
-- [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - React components for visualizing traces from AI agents <sub>⭐ 393 · TypeScript</sub>
-- [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry) - Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude Code, Antigravity CLI, Codex & more. 100% local. <sub>⭐ 374 · Python</sub>
-- [AIGNE-io/aigne-framework](https://github.com/AIGNE-io/aigne-framework) - The functional, composable, and typescript-first AI Agent framework for real-world LLM Apps. <sub>⭐ 369 · TypeScript</sub>
-- [a2wio/lucas](https://github.com/a2wio/lucas) - A2W's SRE agent for Kubernetes <sub>⭐ 360 · HTML</sub>
-- [HoloInsight/holoinsight](https://github.com/HoloInsight/holoinsight) - HoloInsight is a cloud-native observability platform with a special focus on real-time log analysis and AI integration. <sub>⭐ 352 · Java</sub>
-- [AgnetLabs/Laddr](https://github.com/AgnetLabs/Laddr) - Laddr is a python framework for building multi-agent systems where agents communicate, delegate tasks, and execute work in parallel. Think of it as a microservices architecture for AI agents — with… <sub>⭐ 341 · Python</sub>
-- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone. <sub>⭐ 331 · TypeScript</sub>
-- [myinvestpilot/ai-architecture](https://github.com/myinvestpilot/ai-architecture) - Design notes for MyInvestPilot — an agent-friendly investment workflow system built with strategy primitives, DAG engines, validation loops, and observable decision infrastructure. <sub>⭐ 329</sub>
-- [OpsPAI/awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) - A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps). <sub>⭐ 329</sub>
-- [Brain0-ai/brain0](https://github.com/Brain0-ai/brain0) - The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for… <sub>⭐ 321 · Rust</sub>
-- [Prompthon-IO/agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook) - A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend… <sub>⭐ 315 · MDX</sub>
-- [Ajay150313/agentsre](https://github.com/Ajay150313/agentsre) - SRE reliability instrumentation for agentic AI — DQR, TIE, HER, AQD <sub>⭐ 310 · Python</sub>
-- [SREGym/SREGym](https://github.com/SREGym/SREGym) - Can AI agents resolve production incidents? <sub>⭐ 309 · Python</sub>
-- [FankChen/tracecrate](https://github.com/FankChen/tracecrate) - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys. <sub>⭐ 300 · TypeScript</sub>
-- [chmonitor/chmonitor](https://github.com/chmonitor/chmonitor) - Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. <sub>⭐ 298 · TypeScript</sub>
-- [aqstack/sentinel](https://github.com/aqstack/sentinel) - Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes <sub>⭐ 285 · Go</sub>
-- [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet) - GAIA, with the full name Generic AIOps Atlas, is an overall dataset for analyzing operation problems such as anomaly detection, log analysis, fault localization, etc. <sub>⭐ 282</sub>
-- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants <sub>⭐ 277 · Go</sub>
-- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team. <sub>⭐ 272 · TypeScript</sub>
-- [empower-ai/dsensei](https://github.com/empower-ai/dsensei) - AI-powered key driver analysis tool that pinpoints root cause behind metrics fluctuation in one minute. <sub>⭐ 262 · TypeScript</sub>
-- [fuzzylabs/sre-agent](https://github.com/fuzzylabs/sre-agent) - A Site Reliability Engineer AI agent that can monitor application and infrastructure logs, diagnose issues, and report on diagnostics. <sub>⭐ 262 · Python</sub>
-- [graphsignal/graphsignal](https://github.com/graphsignal/graphsignal) - GPU Profiler for AI agents <sub>⭐ 257 · Python</sub>
+- [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - 複数のプロバイダー間でLMLリクエストをルート、管理、分析し、統一されたAPIインターフェイスで行います。 <sub>⭐ 1.7k · TypeScript</sub>
+- [uber/ADR](https://github.com/uber/ADR) - ADRは、保守性、セキュリティベンチマーキング、および脅威検出を通じて企業AIエージェントを保護します。 Uber にデプロイしました。 <sub>⭐ 1.6k · Python</sub>
+- [chenryn/aiops-handbook](https://github.com/chenryn/aiops-handbook) - AIOpsに関するスライド、リポジトリ、紙のコレクション <sub>⭐ 1.6k</sub>
+- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Rustで構築されたApache RocketMQは、より高速・安全・高メモリ効率性を実現しました。AIエージェントやMCP、AI-SRE機能により、AI時代の高性能なメッセージングを実現します。 <sub>⭐ 1.5k · Rust</sub>
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - オープンソースの保守性ツールで、AIエージェントがソフトウェアを自己回復させる <sub>⭐ 1.5k · TypeScript</sub>
+- [logpai/loglizer](https://github.com/logpai/loglizer) - ログベースの異常検知のための機械学習ツールキット(ISSRE'16) <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [DrJonaC/Pensieve](https://github.com/DrJonaC/Pensieve) - メモリがどのように反応するかを観察します。 Pensieveは、ユーザーが「記憶」をどのように理解し、解釈し、管理するためのインタラクティブなシステムです。 これは、ユーザー間のギャップを埋めます... <sub>⭐ 1.4k · TypeScript</sub>
+- [SmythOS/sre](https://github.com/SmythOS/sre) - SmythOS Runtime Environment(SRE)は、エージェントAI用のオープンソース、クラウドネイティブランタイムです。 セキュアでモジュール式で生産準備が整っており、開発者がインテリジェントなエージェントを構築し、実行して管理することができます。 <sub>⭐ 1.3k · TypeScript</sub>
+- [codefuse-ai/codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot) - DevOps Toolkits、Code&Doc Repo RAGなどと連携し、マルチエージェントフレームワークによって機能するソフトウェア開発ライフサイクル全体にサービスを提供するインテリジェントなアシスタント。 <sub>⭐ 1.3k · Python</sub>
+- [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty は、AI アプリケーション用の LLM プロンプトの作成、管理、デバッグおよび評価が容易になります。 Prompty は、LLM プロンプトのアセットクラスとフォーマットで、保守性を高めるように設計されています... <sub>⭐ 1.3k · Rust</sub>
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - AIの観察性のためのOpenTelemetryの器械使用 <sub>⭐ 1.2k · Python</sub>
+- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace は、LLM アプリケーション向けのオープン・テレメトリーベースのエンドツーエンドの保守ツールで、一般的な LLM、LLM フレームワーク、VectorDB 用のリアルタイムトレース、評価およびメトリックを提供しています。 <sub>⭐ 1.2k · TypeScript</sub>
+- [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) - AIゲートウェイ/AI制御機/Goで書かれたAIプロキシ。 OpenAI互換の統合とOpenAI、Anthropic、Gemini、Grq、XAI、Ollama、VLLMなどのアンソロピー互換性のあるAPI。 A LiteLLM代替... <sub>⭐ 1.2k · Go</sub>
+- [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - C#、JavaScript、TypeScript、Python、Go、コンテナ、データベース、クラウド、AI、および観測性シナリオでAspireの統合を実証するサンプルアプリを参照します。 <sub>⭐ 1.2k · C#</sub>
+- [elastic/elastic-labs](https://github.com/elastic/elastic-labs) - ノートブックと Elasticsearch による検索、観察性およびセキュリティのための例アプリ <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [ccfos/huatuo](https://github.com/ccfos/huatuo) - eBPFベースのLinuxカーネルの保守性 <sub>⭐ 1.1k · Go</sub>
+- [DataDog/pup](https://github.com/DataDog/pup) - AI エージェントに Pup — CLI コンパニオンを 200+ コマンドで 33 + Datadog 製品を渡します。 <sub>⭐ 1.0k · Rust</sub>
+- [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - AIOpsエージェントの設計、開発および評価を可能にする包括的なフレームワーク。 <sub>⭐ 1.0k · Python</sub>
+- [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk — - アプリケーションシステムリスクインテリジェントマネージャーは、7 * 24時間包括的な保護を提供します。 <sub>⭐ 973 · Python</sub>
+- [qinshihu/itops-agent-platform](https://github.com/qinshihu/itops-agent-platform) - 中国初のエンタープライズマルチエージェントIT対応プラットフォーム。LLMを搭載したZabbbix/Prometheusの自動修正。Dockerデプロイ。 <sub>⭐ 939 · TypeScript</sub>
+- [logpai/Drain3](https://github.com/logpai/Drain3) - Drainアルゴリズムに基づく堅牢なストリーミングログテンプレートマイナー <sub>⭐ 890 · Python</sub>
+- [santifer/cv-santiago](https://github.com/santifer/cv-santiago) - インタラクティブなCVとAIチャットの統合。React 19、TypeScript、Claude APIで構築されています。 私の経験について私のAIアバターにチャットしてください。 <sub>⭐ 850 · HTML</sub>
+- [golf-mcp/golf](https://github.com/golf-mcp/golf) - 生産準備の MCP サーバーフレームワーク • ビルド、デプロイおよびスケール安全な AI エージェントインフラストラクチャー • Auth や Observability、デバッガー、テレメトリー & ランタイムが含まれています。 • 実際の MCPs がAI Agent を出力する実行 <sub>⭐ 840 · Python</sub>
+- [logpai/awesome-log-analysis](https://github.com/logpai/awesome-log-analysis) - ログ分析、異常検知、障害局化、AIOpsに関する素晴らしい研究のリスト <sub>⭐ 805</sub>
+- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - TraceRoot - オープンソースの自己がエイエージェントYC S25のためのレイヤーを改善する <sub>⭐ 790 · TypeScript</sub>
+- [LockedinLabs-AI/agent-console](https://github.com/LockedinLabs-AI/agent-console) - AI コーディングエージェントのローカルファースト・オブザベーシビリティ。すべてのクロードコードとコーデックスセッションのトークン、キャッシュ、モデル、コスト、このマシン上で、セルフホストされたチームハブを介して接続するあらゆる機械。... <sub>⭐ 789 · JavaScript</sub>
+- [dapr/dapr-agents](https://github.com/dapr/dapr-agents) - ワークフローのオーケストレーション、セキュリティ、ステートフルネス、テレメトリーを組み込んだ、自律的かつ弾力のあるAIエージェントを構築します。 <sub>⭐ 753 · Python</sub>
+- [rapidaai/voice-ai](https://github.com/rapidaai/voice-ai) - Rapidaは、音声ストリーミング、STT、TTS、VAD、マルチチャネル統合、エージェントの状態でリアルタイムの会話ボイスエージェントを構築するためのオープンソース、エンドツーエンドの声AIオーケストレーションプラットフォームです。 <sub>⭐ 738 · Go</sub>
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - オープンソース、エンドツーエンドのコンピュータービジョンプラットフォーム。任意のクラウドとオンプレミスで実行される統一されたプラットフォームにラベル、ビルド、トレーニング、トーン、デプロイおよび自動化します。 <sub>⭐ 733 · Go</sub>
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - AIエージェント向け軽量システムレベルの保守性 <sub>⭐ 718 · C</sub>
+- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - AI コーディングエージェントのローカルな保守性。Agenttrail Mapはプロジェクト構造と活動を示しています。Agenttrail Kitchenは3Dでタスクや役割の貢献を視覚化します。 <sub>⭐ 716 · JavaScript</sub>
+- [myccarl/ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) - エンドツーエンドのAIショートビデオ製造パイプライン。 FastAPIオーケストレーション+マルチモデルフェイルオーバー、回路ブレーカ、メーター化、フルスタックオブザーバビリティを備えたスプリングブーツゲートウェイ。 AI品質のゲーティング... <sub>⭐ 699 · Python</sub>
+- [databufflabs/databuff](https://github.com/databufflabs/databuff) - DataBuff は Opentelemetry 上に構築された AI-native APM で、複数のエージェントのトラブルシューティングがボックスから外れます。 <sub>⭐ 691 · Java</sub>
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - テレメトリのSQLネイティブタイムシリーズデータベースが開きます。 34M +レコード/秒の摂取、8M +行/秒クエリ。 InfluxDBラインプロトコルとTelegraf互換。 あなたのストレージ上の寄託を開きます。... <sub>⭐ 679 · Go</sub>
+- [Jun-jie-Huang/awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) - 大規模な言語モデル(LLM)とITオペレーションの人工知能に関する素晴らしい学術的研究および産業材料のリスト (AIOps). <sub>⭐ 670</sub>
+- [codefuse-ai/codefuse-devops-eval](https://github.com/codefuse-ai/codefuse-devops-eval) - DevOps/AIOps ドメインにおける LLM の業界初の評価ベンチマーク。 <sub>⭐ 654 · Python</sub>
+- [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - 市場で最も速く、最も軽い、そして最も簡単なAIゲートウェイ。完全にオープンソース。 <sub>⭐ 637 · Rust</sub>
+- [baidu/NoahV](https://github.com/baidu/NoahV) - vue.jsに基づく効率的なフロントエンドアプリケーションフレームワーク <sub>⭐ 628 · JavaScript</sub>
+- [Abilityai/trinity](https://github.com/Abilityai/trinity) - Claudeコード、Codex、Geminiエージェントをサポートするセルフホスト型AIエージェントプラットフォーム。 Apache 2.0. <sub>⭐ 606 · Python</sub>
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian) - オープンソースのランタイムAIエージェントセキュリティツール - AIエージェントを監視し、制御します。悪意のあるツールの使用、プロンプト注射、およびポリシーがリアルタイムで漂流して、エージェントは機能する前に。 <sub>⭐ 578 · Python</sub>
+- [Tommy-yw/RunbookHermes](https://github.com/Tommy-yw/RunbookHermes) - エビデンス主導のインシデント対応、承認取得修復およびランブック学習のためのエルメスネイティブAIOpsエージェント。 <sub>⭐ 546 · Python</sub>
+- [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge は、生産準備システムの構築と運用方法を示すオープンソースのリファレンスです。AI-assisted 開発、品質ゲート、CI/CD、インフラ、保守性、マイグレーションなど... <sub>⭐ 528 · TypeScript</sub>
+- [jfrog/boost](https://github.com/jfrog/boost) - トークンを保存します。コンテキストを最大化し、安全に <sub>⭐ 519 · Shell</sub>
+- [RyjoxTechnologies/Octopoda-OS](https://github.com/RyjoxTechnologies/Octopoda-OS) - AIエージェントのオープンソースメモリと保守性レイヤー — 永続的な記憶、ループ検出、ハッシュチェーンされた監査証跡、ライブダッシュボード、ピップインストールの自動。 <sub>⭐ 487 · Python</sub>
+- [Raiders0786/web3-security-resources](https://github.com/Raiders0786/web3-security-resources) - スマートな契約の監査人およびプロトコルチームのためのキュレーションされたWeb3セキュリティ学習ハブ:ロードマップ、監査ツール、公開レポート、ファズイング、正式検証、AI支援ワークフロー、オフチェーンセキュリティ... <sub>⭐ 470 · Python</sub>
+- [laminlabs/lamindb](https://github.com/laminlabs/lamindb) - マルチモーダルAIのためのオープンソースのデータ管理。 クエリ、トレース、およびエージェントとチームのためのリネン類型アグノスティック湖ハウスに準拠しています。 生物学的なフォーマットや規制をサポート - によって... <sub>⭐ 467 · Python</sub>
+- [d0ng1ee/logdeep](https://github.com/d0ng1ee/logdeep) - DeepLogを含むログ異常検知ツールキット <sub>⭐ 462 · Python</sub>
+- [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords) - データをチャット - メモリ、ルール、および保存性が内蔵されています。 2分で展開 <sub>⭐ 458 · Python</sub>
+- [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) - エージェントが考えるようにしましょう。ゼロコンフィグの保守性と30人のAIエージェントランタイムのためのガバナンス: クロードコード、OpenAIコーデックス、ヘルメス、OpenClaw&26など。ライブトークンコスト、セッション、ツールコール、クロン。 <sub>⭐ 423 · Python</sub>
+- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - 遅いデータベースのクエリを見つけ、AI による最適化のヒントを受け取り、Laravel 用の組み込みダッシュボードで閲覧します。 <sub>⭐ 413 · PHP</sub>
+- [alibaba/UnifiedModel](https://github.com/alibaba/UnifiedModel) - エンタープライズデータをAIエージェントに理解できるセマンティックレイヤー — モデルの実体とリレーションを一度作成し、SPL/MCP/RESTでクエリを行い、テレメトリーやサービス、ビジネスオブジェクトを1つに接続します。 <sub>⭐ 411 · Go</sub>
+- [digma-ai/digma](https://github.com/digma-ai/digma) - Digma は、コードの実行を自動的にプロファイリングすることで、コード内のパフォーマンスの問題を修正するのに役立ちます。 APMs を使用して、コードボトルネックを特定し、クエリの問題とスケーラビリティの問題が時間と労力を要します... <sub>⭐ 408 · Shell</sub>
+- [jixinpu/aiopstools](https://github.com/jixinpu/aiopstools) - pythonでAIopsの基本的なパッケージ。 <sub>⭐ 401 · Python</sub>
+- [foglamp-labs/foglamp](https://github.com/foglamp-labs/foglamp) - Vercel AI SDK の不在な防護層。 <sub>⭐ 400 · TypeScript</sub>
+- [mezmo/aura](https://github.com/mezmo/aura) - AURAは、数分で展開できるSREエージェントプラットフォームです。 AURAはガードレール、API、状態管理、ストリーミング、およびAIを安全に操作するために必要な故障処理の取り扱いを行っています。 <sub>⭐ 400 · Rust</sub>
+- [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - AIエージェントからトレースを視覚化するための React コンポーネント <sub>⭐ 393 · TypeScript</sub>
+- [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry) - トークンテレメトリーダッシュボードは、AIの自動およびコーディングエージェントのロックを追跡し、セッション、ツールコールとヘルメスエージェント、クロードコード、アンチグラビティCL、コーデックスなど全体で推論します。 100%ローカル。 <sub>⭐ 374 · Python</sub>
+- [AIGNE-io/aigne-framework](https://github.com/AIGNE-io/aigne-framework) - 実際のLLMアプリ用の機能、互換性、およびタイプスクリプトファーストのAIエージェントフレームワーク。 <sub>⭐ 369 · TypeScript</sub>
+- [a2wio/lucas](https://github.com/a2wio/lucas) - A2WのKubernetes用SREエージェント <sub>⭐ 360 · HTML</sub>
+- [HoloInsight/holoinsight](https://github.com/HoloInsight/holoinsight) - HoloInsightは、リアルタイムのログ解析とAI統合に焦点を合わせたクラウドネイティブ・オブザベーシビリティプラットフォームです。 <sub>⭐ 352 · Java</sub>
+- [AgnetLabs/Laddr](https://github.com/AgnetLabs/Laddr) - Laddrは、エージェントがタスクを伝達し、委任し、並行して作業を実行するマルチエージェントシステムを構築するためのPythonフレームワークです。 AIエージェント用のマイクロサービスアーキテクチャとして考える - と... <sub>⭐ 341 · Python</sub>
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - マシン上のすべてのAIコーディングエージェント、ワン画面で - すべてのプロバイダ間でライブコスト、トークン、ツールコール、そしてあなたが行くまで何か危険な保持。 あなたの机やあなたの携帯電話から。 <sub>⭐ 331 · TypeScript</sub>
+- [myinvestpilot/ai-architecture](https://github.com/myinvestpilot/ai-architecture) - MyInvestPilot は、ストラテジー・プリミティブ、DAG エンジン、バリデーション・ループ、および保守可能な決定インフラを備えたエージェントフレンドリーな投資ワークフローシステムの設計ノートです。 <sub>⭐ 329</sub>
+- [OpsPAI/awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) - 人工知能に関する学術的研究と産業材料の専門リスト(AIOps)。 <sub>⭐ 329</sub>
+- [Brain0-ai/brain0](https://github.com/Brain0-ai/brain0) - AI-writtenコードのブラックボックス。 エージェントにすべてのコミットをリンクするパッシブ決定グラフは、その背後にあるプロンプト:漂流検出、DLP監査がどのようなエージェントを読み、証拠主導リスク、MCPメモリを読み取ります... <sub>⭐ 321 · Rust</sub>
+- [Prompthon-IO/agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook) - 実用的なAIエージェントハンドブックカバー剤システム、有能なワークフロー、LangGraph、MCP/A2A、コンテクストエンジニアリング、エージェントメモリ、評価、保守性およびマルチエージェントアーキテクチャ。 現在のトレンド... <sub>⭐ 315 · MDX</sub>
+- [Ajay150313/agentsre](https://github.com/Ajay150313/agentsre) - エージェントAIのSRE信頼性計測 — DQR、TIE、HER、AQD <sub>⭐ 310 · Python</sub>
+- [SREGym/SREGym](https://github.com/SREGym/SREGym) - AIエージェントは、生産インシデントを解決できますか? <sub>⭐ 309 · Python</sub>
+- [FankChen/tracecrate](https://github.com/FankChen/tracecrate) - ローカルファーストのAIエージェントがワークベンチをトレースします。 クロードコード、コーデックスおよびOTLPログを検査し、ランを比較し、プライバシー意識レポートをエクスポートします。 バックエンドやAPIキーはありません。 <sub>⭐ 300 · TypeScript</sub>
+- [chmonitor/chmonitor](https://github.com/chmonitor/chmonitor) - ClickHouse のオープン・ソース・オペレーション・アドバイザー — リアルタイム監視と AI 主導のインデックス/パーティション/マテリアル化-ビュー推奨事項。 <sub>⭐ 298 · TypeScript</sub>
+- [aqstack/sentinel](https://github.com/aqstack/sentinel) - Kubernetesのための予測失敗の検出および隔離的なオーケストレーションを備えたセルフヒーリングエッジコンピューティングエージェント <sub>⭐ 285 · Go</sub>
+- [CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet) - GAIAは、フルネームのGeneric AIOps Atlasで、異常検知やログ解析、欠陥ローカリゼーションなどの操作上の問題を分析するための全体的なデータセットです。 <sub>⭐ 282</sub>
+- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - AI コーディングアシスタントのための局所的な保守性を統一 <sub>⭐ 277 · Go</sub>
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — AI エージェントのタイムトラベル。レコード、リプレイ、フォーク、任意のエージェントがどのモデルで実行されているかをデバッグします。OrcaRouter.ai チームによって構築されています。 <sub>⭐ 272 · TypeScript</sub>
+- [empower-ai/dsensei](https://github.com/empower-ai/dsensei) - 根本的な原因を1分後にピンポイントするAI搭載のキードライバー解析ツール。 <sub>⭐ 262 · TypeScript</sub>
+- [fuzzylabs/sre-agent](https://github.com/fuzzylabs/sre-agent) - アプリケーションやインフラログを監視したり、問題を診断したり、診断に関する報告ができるサイト信頼性エンジニアAIエージェント。 <sub>⭐ 262 · Python</sub>
+- [graphsignal/graphsignal](https://github.com/graphsignal/graphsignal) - AIエージェント向けGPUプロファイラー <sub>⭐ 257 · Python</sub>
 
 ## 🚀 MLOpsとモデルサービング
 
 > モデルとLLMのデプロイ、サービング、スケーリング、モニタリング。
 
 - [langgenius/dify](https://github.com/langgenius/dify) - 1つの共同作業スペースで豊富なAIモデルとツールのサポートを備えた、Agenticワークフロー、RAGパイプラインを構築します。クラウド、VPC、または自己ホスト上に展開するので、チームはプロトタイプから生産まで移動します... <sub>⭐ 157.7k · TypeScript</sub>
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs <sub>⭐ 93.1k · Python</sub>
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging (Bedrock, Azure, OpenAI… <sub>⭐ 60.1k · Python</sub>
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. Docker-friendly. Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs… <sub>⭐ 58.9k · Jupyter Notebook</sub>
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server. <sub>⭐ 57.6k · Python</sub>
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications. <sub>⭐ 49.7k · Jupyter Notebook</sub>
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows <sub>⭐ 47.0k · Python</sub>
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. <sub>⭐ 44.0k · Python</sub>
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. <sub>⭐ 39.6k · Python</sub>
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models. <sub>⭐ 36.7k · Python</sub>
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. <sub>⭐ 35.3k · TypeScript</sub>
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io <sub>⭐ 34.9k · Rust</sub>
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. <sub>⭐ 30.4k · TypeScript</sub>
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format <sub>⭐ 28.4k · TypeScript</sub>
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line… <sub>⭐ 25.7k · TypeScript</sub>
-- [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. <sub>⭐ 23.8k · Python</sub>
-- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar <sub>⭐ 22.5k · Python</sub>
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. <sub>⭐ 22.3k · Python</sub>
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. <sub>⭐ 21.5k · Jupyter Notebook</sub>
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - LLMの高スループットおよびメモリ効率の高い推論とサービングエンジン <sub>⭐ 93.1k · Python</sub>
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - 最速で、AIゲートウェイをリテストします。Python SDKのRustコアです。OpenAI(またはネイティブ)フォーマットでのコール100 + LLM APIはコストトラッキング、ガードレール、ロードバランシング、およびロギング(Bedrock、Azure、OpenAI... <sub>⭐ 60.1k · Python</sub>
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - RAG、AIパイプライン、およびライブデータで企業検索用の既読のクラウドテンプレート。 Dockerフレンドリー。 常にSharepoint、Google Drive、S3、Kafka、PostgreSQL、リアルタイムのデータAPIと同期して... <sub>⭐ 58.9k · Jupyter Notebook</sub>
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - RAG、スキル、ツール、MCP、テキスト・トゥ・SQLなどのローカルモデルでプライベートAIアプリケーション用のAPIレイヤーが完成しました。OpenAI対応のサーバーと連携します。 <sub>⭐ 57.6k · Python</sub>
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - 製造グレードのMLアプリケーションの開発、展開および反復方法を学びます。 <sub>⭐ 49.7k · Jupyter Notebook</sub>
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - ワークフローをプログラム的に作成、スケジュール、監視するプラットフォーム <sub>⭐ 47.0k · Python</sub>
+- [ray-project/ray](https://github.com/ray-project/ray) - レイはAIコンピュートエンジンです。Rayは、コア分散ランタイムとMLワークロードを加速するための一連のAIライブラリで構成されています。 <sub>⭐ 44.0k · Python</sub>
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - 大規模な言語モデルのトレーニング、サービング、評価のためのオープンプラットフォーム。 VicunaとChatbot Arenaのリポを解放します。 <sub>⭐ 39.6k · Python</sub>
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLangは、大規模な言語モデルとマルチモーダルモデル向けの高性能なサービングフレームワークです。 <sub>⭐ 36.7k · Python</sub>
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - オープンソースエージェントの有効活用と保守性: 1つのオープンプラットフォームでLMLアプリケーションをトレース、評価、改善します。 <sub>⭐ 35.3k · TypeScript</sub>
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - 次世代のAIのための高性能、大規模ベクトルデータベースとベクターサーチエンジン。またクラウド https://cloud.qdrant.io <sub>⭐ 34.9k · Rust</sub>
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composioは1000以上のツールキット、ツール検索、コンテキスト管理、認証、サンドボックス化されたワークベンチを出力し、アクションに意図するAIエージェントを構築するのに役立ちます。 <sub>⭐ 30.4k · TypeScript</sub>
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studioは、標準化された出力フォーマットを備えたマルチタイプのデータラベル作成とアノテーションツールです。 <sub>⭐ 28.4k · TypeScript</sub>
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - プロンプト、エージェント、および RAG をテストします。AI 用の赤いチーム/ペントスト/脆弱性スキャン。 GPT、Claude、Gemini、DeepSeek のパフォーマンスを比較します。コマンドラインで簡単な宣言構成... <sub>⭐ 25.7k · TypeScript</sub>
+- [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - マルチリンガルの大規模な音声生成モデル、推論、トレーニングと展開フルスタック能力を提供します。 <sub>⭐ 23.8k · Python</sub>
+- [jundot/omlx](https://github.com/jundot/omlx) - macOSメニューバーから管理されたApple Siliconの連続バッチ&SSDキャッシュを備えたLMインフェレンスサーバー <sub>⭐ 22.5k · Python</sub>
+- [comet-ml/opik](https://github.com/comet-ml/opik) - LLM アプリケーション、RAG システム、および包括的なトレース、自動評価、および生産準備のダッシュボードを使用して、エージェントワークフローをデバッグ、評価、監視します。 <sub>⭐ 22.3k · Python</sub>
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - エンドツーエンド、生産グレードのGenAIエージェントを構築するためのコードファーストチュートリアル。 プロトタイプからエンタープライズ展開まで。 <sub>⭐ 21.5k · Jupyter Notebook</sub>
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - オープンソースライブラリのキュレーションリストで、機械学習をデプロイ、監視、バージョン管理し、スケールアップします。 <sub>⭐ 21.0k</sub>
-- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. <sub>⭐ 19.4k · Python</sub>
-- [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models. <sub>⭐ 19.1k · TypeScript</sub>
-- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book <sub>⭐ 19.1k · Python</sub>
-- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents. <sub>⭐ 18.6k · Python</sub>
-- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all… <sub>⭐ 18.0k · Python</sub>
-- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <sub>⭐ 17.7k · Python</sub>
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes <sub>⭐ 17.0k · Go</sub>
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a… <sub>⭐ 16.9k · Go</sub>
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets. <sub>⭐ 16.2k · Python</sub>
-- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations <sub>⭐ 15.9k · Python</sub>
-- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club. Register here to get notified about the next cohort <sub>⭐ 15.4k · Jupyter Notebook</sub>
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure. <sub>⭐ 14.9k · Jupyter Notebook</sub>
-- [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math… <sub>⭐ 14.3k · Java</sub>
-- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps <sub>⭐ 14.2k</sub>
-- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. <sub>⭐ 14.1k · Python</sub>
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API. <sub>⭐ 13.1k · TypeScript</sub>
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. <sub>⭐ 12.6k · Python</sub>
-- [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data. <sub>⭐ 11.9k · Python</sub>
-- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. <sub>⭐ 11.3k · Python</sub>
-- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution. <sub>⭐ 11.0k · Python</sub>
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable… <sub>⭐ 11.0k · Python</sub>
-- [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using Amazon SageMaker. <sub>⭐ 11.0k · Jupyter Notebook</sub>
-- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems", which is dmls-book <sub>⭐ 10.7k · HTML</sub>
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster. <sub>⭐ 10.7k · Python</sub>
-- [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. <sub>⭐ 9.9k · Python</sub>
-- [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed Large Language Model Serving for Local Deployment <sub>⭐ 9.8k · C++</sub>
-- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified… <sub>⭐ 9.6k · Python</sub>
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - データとAIのアルゴリズムを制作準備するWebアプリケーションに時間をかけません。 <sub>⭐ 19.4k · Python</sub>
+- [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - WebGLはMLモデルのトレーニングと展開のためのJavaScriptライブラリを加速しました。 <sub>⭐ 19.1k · TypeScript</sub>
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - 機械学習工学 書籍を開く <sub>⭐ 19.1k · Python</sub>
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AIエージェントを明るくするための絶対トレーナー。 <sub>⭐ 18.6k · Python</sub>
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - C++コアと50 + Python拡張ノードを備えた高性能AIパイプラインエンジン。 13以上のモデルプロバイダー、8+ベクトルデータベース、およびエージェントオーケストレーションでLLMワークフローをビルド、デバッグ、スケール化します。 <sub>⭐ 18.0k · Python</sub>
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - SuperAGI - 開発初のオープンソース自動認証AIエージェントフレームワーク。開発者が、素早くかつ確実に有用な自律的なエージェントを構築・管理・実行できるようにします。 <sub>⭐ 17.7k · Python</sub>
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Kubernetesのワークフローエンジン <sub>⭐ 17.0k · Go</sub>
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviateは、オブジェクトとベクトルの両方を格納するオープンソースのベクターデータベースです。これにより、Vista の検索と構造化されたフィルタリングの組み合わせが可能になり、障害やスケーラビリティ... <sub>⭐ 16.9k · Go</sub>
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - データ資産の開発、生産および観察のためのオーケストレーションプラットフォーム。 <sub>⭐ 16.2k · Python</sub>
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - LLM アプリケーションの評価をスーパーチャージ <sub>⭐ 15.9k · Python</sub>
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - DataTalks.Clubから無料のMLOpsコース。 ここから登録して、次のコホートについて通知します <sub>⭐ 15.4k · Jupyter Notebook</sub>
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - モデルが組織する最先端のディープラーニングスクリプト - エンタープライズグレードのインフラストラクチャで再現可能な精度とパフォーマンスを訓練し、展開するのは簡単です。 <sub>⭐ 14.9k · Jupyter Notebook</sub>
+- [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - JVMを使用してディープラーニングモデルを展開し、トレーニングするためのツールのスイート。ハイライトには、keras、tensorflow、onnx/pytorch 用のモデルインポート、モジュール式および小さな c++ ライブラリが搭載されています。 <sub>⭐ 14.3k · Java</sub>
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - MLOps の参照のリストをキュレーション <sub>⭐ 14.2k</sub>
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken は、デスクトップにデータセンタスケールのモデルを提供できます。ローカルで大規模なモデルを実行し、高速かつ効率的に実行します。 <sub>⭐ 14.1k · Python</sub>
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - 統合されたガードレールを備えた高速AIゲートウェイ。 1つの高速&フレンドリーなAPIで1,600 + LLM、50 + AIガードレールへのルート。 <sub>⭐ 13.1k · TypeScript</sub>
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - DeepSeekやLlamaなどのオープンソースLMを実行し、クラウド上でOpenAI互換APIエンドポイントとして実行します。 <sub>⭐ 12.6k · Python</sub>
+- [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - 常にあなたのデータから期待するものを知っています。 <sub>⭐ 11.9k · Python</sub>
+- [wandb/wandb](https://github.com/wandb/wandb) - AI開発プラットフォーム。ウェイト&ビアーズを使用して、モデルを実験から生産まで訓練および微調整します。 <sub>⭐ 11.3k · Python</sub>
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - Triton Inference Server は、最適化されたクラウドとエッジのインフェレンスソリューションを提供します。 <sub>⭐ 11.0k · Python</sub>
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedroは、生産準備が整ったデータサイエンスのためのツールボックスです。 ソフトウェアエンジニアリングのベストプラクティスを使用して、再現性のあるメンテナンス可能なデータ工学およびデータサイエンスパイプラインを作成するのに役立ちます... <sub>⭐ 11.0k · Python</sub>
+- [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Amazon SageMakerを使用して機械学習モデルの構築、訓練、およびデプロイ方法を示すJuppyterのノートブックの例。 <sub>⭐ 11.0k · Jupyter Notebook</sub>
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - 機械学習システムの設計に関する小冊子。 dmls-bookである「機械学習システムを設計する」本のためのレポではなく <sub>⭐ 10.7k · HTML</sub>
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - AIコンピュートプラットフォームは、フロンティアチームを対象としています。SkyPilotはAIが1つのAIスーパーコンピュータに計算されるため、フロントエイチームはカスタムインテリジェンスをより迅速に構築します。 <sub>⭐ 10.7k · Python</sub>
+- [pycaret/pycaret](https://github.com/pycaret/pycaret) - Python用のオープンソース、ローコードオートMLプラットフォーム。 PyCaret 4.0: sklearn-native Engine + React controlplane. <sub>⭐ 9.9k · Python</sub>
+- [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - ローカル展開のための高速大きい言語モデルのサービング <sub>⭐ 9.8k · C++</sub>
+- [xorbitsai/inference](https://github.com/xorbitsai/inference) - コードの単一行を変更することにより、任意のLMのためのスワップGPT. Xinferenceを使用すると、クラウド上のオープンソース、スピーチ、およびマルチモーダルモデルを実行することができます, オンプレム, またはあなたのラップトップ - すべて1つの統一を介して... <sub>⭐ 9.6k · Python</sub>
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - DeeplakeはエージェントのAIデータランタイムです。サーバーレスなpostgresをマルチモーダルのデータレークで提供し、スケーラブルな検索とトレーニングを可能にします。 <sub>⭐ 9.2k · C++</sub>
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! <sub>⭐ 8.9k · Python</sub>
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - Build modular and scalable LLM Applications in Rust <sub>⭐ 8.8k · Rust</sub>
-- [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. <sub>⭐ 8.5k · Go</sub>
-- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs. <sub>⭐ 8.1k · Python</sub>
-- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. <sub>⭐ 8.0k · Python</sub>
-- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry <sub>⭐ 7.5k · Python</sub>
-- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML <sub>⭐ 7.3k · Python</sub>
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming… <sub>⭐ 7.1k · TypeScript</sub>
-- [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and… <sub>⭐ 7.1k · Rust</sub>
-- [clearml/clearml](https://github.com/clearml/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution <sub>⭐ 6.9k · Python</sub>
-- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. <sub>⭐ 6.7k · C++</sub>
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. <sub>⭐ 6.6k · C++</sub>
-- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving <sub>⭐ 6.5k · Cuda</sub>
-- [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI) <sub>⭐ 6.5k · Python</sub>
-- [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models <sub>⭐ 6.4k · C++</sub>
-- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools <sub>⭐ 6.3k</sub>
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — An easy-to-use & supercharged open-source experiment tracker. <sub>⭐ 6.3k · Python</sub>
-- [Helicone/helicone](https://github.com/Helicone/helicone) - Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 <sub>⭐ 6.2k · TypeScript</sub>
-- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers <sub>⭐ 6.0k · Shell</sub>
-- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - Open-Source Evaluation & Testing library for LLM Agents <sub>⭐ 5.9k · Python</sub>
-- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters <sub>⭐ 5.8k · Jupyter Notebook</sub>
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk <sub>⭐ 5.8k · C++</sub>
-- [gpustack/gpustack](https://github.com/gpustack/gpustack) - A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. <sub>⭐ 5.8k · Python</sub>
-- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - (ICLR'24 spotlight) An open platform for training, serving, and evaluating large language model for tool learning. <sub>⭐ 5.8k · Python</sub>
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - AIアプリやモデルを扱うための最も簡単な方法 - モデル推論API、ジョブキュー、LLMアプリケーション、マルチモデルパイプラインなどを作成! <sub>⭐ 8.9k · Python</sub>
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - RustでモジュラーおよびスケーラブルなLMアプリケーションを構築 <sub>⭐ 8.8k · Rust</sub>
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) - 適応荷重バランサ、クラスタモード、ガードレール、1000以上のモデル対応と5k RPSで100μsのオーバーヘッドに対応。 <sub>⭐ 8.5k · Go</sub>
+- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy は、LLM の圧縮・デプロイおよびサービングのためのツールキットです。 <sub>⭐ 8.1k · Python</sub>
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - 1つのYAMLからファインチューンLLM。レイヤーストリーミングは、4 GBラップトップGPUで8Bモデルを訓練します。 <sub>⭐ 8.0k · Python</sub>
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - OpenTelemetryに基づくGenAIまたはLMアプリケーション用のオープンソースの保守性 <sub>⭐ 7.5k · Python</sub>
+- [feast-dev/feast](https://github.com/feast-dev/feast) - AI/MLのオープンソース機能ストア <sub>⭐ 7.3k · Python</sub>
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 最先端のモデルを搭載したAIスイートで、高度なAI/AGI機能を提供します。 AIパーソナ、 AGI関数、世界クラスのビームマルチモデルチャット、テキスト・ツー・イメージ、音声、応答ストリーミングが含まれています... <sub>⭐ 7.1k · TypeScript</sub>
+- [lance-format/lance](https://github.com/lance-format/lance) - Multimodal AI 用の Lakehouse Format を開きます。 Parquet から 100x より高速なランダムアクセス、ベクターインデックス、およびデータバージョンの 2 つの行で変換します。 Pandas、DuckDB、Polars、Pyarrow と互換性があります。 <sub>⭐ 7.1k · Rust</sub>
+- [clearml/clearml](https://github.com/clearml/clearml) - ClearML - AI のワークロードを合理化するための自動磁気CI / CD。実験管理、データ管理、パイプライン、オーケストレーション、スケジューリング& 1 つの MLOps/LLMOps ソリューションでサービング <sub>⭐ 6.9k · Python</sub>
+- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - ムーンケーキは、Moonshot AIが提供するLLMサービスであるKimiのサービングプラットフォームです。 <sub>⭐ 6.7k · C++</sub>
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM は、Google の生産準備が整っています。, 高機能, オープンソースの推論フレームワークで、エッジデバイス上で大規模な言語モデルを展開します。. <sub>⭐ 6.6k · C++</sub>
+- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer:LLMサービング用カーネルライブラリ <sub>⭐ 6.5k · Cuda</sub>
+- [SkalskiP/courses](https://github.com/SkalskiP/courses) - このリポジトリは、人工知能(AI)に関するさまざまなコースとリソースへのリンクの収集です。 <sub>⭐ 6.5k · Python</sub>
+- [tensorflow/serving](https://github.com/tensorflow/serving) - 機械学習モデルのための柔軟で高性能なサービングシステム <sub>⭐ 6.4k · C++</sub>
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - 人工知能トップツールのキュレーションリスト <sub>⭐ 6.3k</sub>
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — 使いやすく、スーパーチャージされたオープンソースの実験トラッカーです。 <sub>⭐ 6.3k · Python</sub>
+- [Helicone/helicone](https://github.com/Helicone/helicone) - オープンソースLLMの保守性プラットフォーム。監視、評価、実験のためのコードの1行。YC W23 <sub>⭐ 6.2k · TypeScript</sub>
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - 開発者のための最高のLLMOpsツールの素晴らしい&キュレーションリスト <sub>⭐ 6.0k · Shell</sub>
+- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - LLMエージェントのオープンソースの評価とテストライブラリ <sub>⭐ 5.9k · Python</sub>
+- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - 故障耐性、非常にスケーラブルなGPUのオーケストレーション、および10億のトレーニングモデル用に設計された機械学習フレームワークは、パラメータを試着するために <sub>⭐ 5.8k · Jupyter Notebook</sub>
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonadeは、ユーザーが自分のGPUとNPUから最適化されたLMsを提供していることによってローカルAIアプリを発見し、実行するのに役立ちます。 私たちのdiscordに参加してください: https://discord.gg/5xXzkMu8Zk <sub>⭐ 5.8k · C++</sub>
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) - 高性能AIモデルのGPUクラスターマネージャー(vLLM、SGLang)とオンデマンドSSHアクセス可能なGPUインスタンス。 <sub>⭐ 5.8k · Python</sub>
+- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - (ICLR'24スポットライト) ツール学習のための大規模な言語モデルのトレーニング、サービングおよび評価のためのオープンプラットフォーム。 <sub>⭐ 5.8k · Python</sub>
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML : パイプラインからエージェントまでのAIプラットフォーム。 https://zenml.io. <sub>⭐ 5.6k · Python</sub>
-- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality <sub>⭐ 5.6k · Python</sub>
-- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation. <sub>⭐ 5.4k · Python</sub>
-- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices <sub>⭐ 5.4k · Python</sub>
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - LLMルータのサービングと評価のためのフレームワーク - 品質を妥協することなくLLMコストを保存 <sub>⭐ 5.6k · Python</sub>
+- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra。 ML実験のための非常にユーザーフレンドリーなテンプレート。 <sub>⭐ 5.4k · Python</sub>
+- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - LLMの実践ガイド:基本から、LLMOpsベストプラクティスを使用して高度なLLMとRAGアプリをAWSにデプロイする <sub>⭐ 5.4k · Python</sub>
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - スーパーデューパー:カスタムAIアプリケーションとエージェントを構築するためのエンドツーエンドフレームワーク。 <sub>⭐ 5.3k · Python</sub>
-- [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - A curated list of awesome MLOps tools <sub>⭐ 5.3k · Python</sub>
-- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. <sub>⭐ 5.2k · Python</sub>
-- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for… <sub>⭐ 5.2k · Python</sub>
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets <sub>⭐ 5.1k · Python</sub>
-- [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications. <sub>⭐ 5.0k</sub>
-- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated. <sub>⭐ 4.8k · Python</sub>
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen <sub>⭐ 4.7k · Python</sub>
-- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its… <sub>⭐ 4.7k · C++</sub>
-- [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production. <sub>⭐ 4.4k</sub>
-- [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. <sub>⭐ 4.3k · Python</sub>
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling <sub>⭐ 4.3k · Go</sub>
-- [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift /… <sub>⭐ 4.2k · Python</sub>
-- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow <sub>⭐ 4.2k · Go</sub>
-- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs <sub>⭐ 4.1k · TypeScript</sub>
-- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) - FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on… <sub>⭐ 4.1k · Python</sub>
-- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and… <sub>⭐ 4.1k · Python</sub>
-- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act conformity evidence, model validation, predictive maintenance, document… <sub>⭐ 4.0k · Python</sub>
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling. <sub>⭐ 3.9k · Python</sub>
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents.… <sub>⭐ 3.9k · Python</sub>
-- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator <sub>⭐ 3.8k · Java</sub>
-- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <sub>⭐ 3.8k · Python</sub>
-- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle <sub>⭐ 3.7k · Python</sub>
-- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer <sub>⭐ 3.7k · JavaScript</sub>
-- [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t… <sub>⭐ 3.7k · Python</sub>
-- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models. <sub>⭐ 3.7k · Jupyter Notebook</sub>
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents <sub>⭐ 3.6k · Python</sub>
+- [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - 素晴らしいMLOpsツールのキュレーションリスト <sub>⭐ 5.3k · Python</sub>
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - 現代のLMサービングシステムの複雑性を解明するために設計されたSGLangのコンパクトな実装。 <sub>⭐ 5.2k · Python</sub>
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - 量子化、蒸留、剪定、神経アーキテクチャ検索、分光解読などのSOTAモデル最適化技術の統一されたライブラリ。 それは、深い学習モデルを圧縮します... <sub>⭐ 5.2k · Python</sub>
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argillaは、AIエンジニアやドメインエキスパートが高品質なデータセットを制作するコラボレーションツールです。 <sub>⭐ 5.1k · Python</sub>
+- [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - LLMアプリケーションの構築、モデルのトレーニング、サービング、微調整をカバーし、大言語モデルリソースのキュレーションリスト。 <sub>⭐ 5.0k</sub>
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - 本当にオープンソースのAIプロジェクト、モデル、ツール、インフラに関するベストリストをキュレーション。毎日更新しました。 <sub>⭐ 4.8k · Python</sub>
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - システムエンジニアのためのApple SiliconでLLMインフェレンスシステムを学ぶ:小さなvLLM + Qwenを構築 <sub>⭐ 4.7k · Python</sub>
+- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN:Tencent Youtu LabとGuangyingLabによって開発され、モバイル、デスクトップおよびサーバー用の均一なディープラーニング・インフェレンスフレームワーク。 TNNはいくつかの優れた機能で区別されています。 <sub>⭐ 4.7k · C++</sub>
+- [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - このリポジトリでは、制作中のディープラーニングベースのモデルの展開に関する便利なメモやリファレンスをいくつか共有します。 <sub>⭐ 4.4k</sub>
+- [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLMは、軽量設計、スケーラビリティの容易な、および高速な性能のために注目されるPythonベースのLLM(Large Language Model)推論とサービングフレームワークです。 <sub>⭐ 4.3k · Python</sub>
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPFの観察性-分散トレースおよびプロファイリング <sub>⭐ 4.3k · Go</sub>
+- [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - SwanLab - オープンソース、モダンなデザインのAIトレーニングトラッキングと可視化ツール。サポートクラウド/セルフホストの使用。 PyTorch /トランス/バー/ LLaMA Factory / ms-swift /... <sub>⭐ 4.2k · Python</sub>
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - クベフローの機械学習パイプライン <sub>⭐ 4.2k · Go</sub>
+- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - Javascript AIは、画像/テキストモデル、ベクトルストア、auth、デプロイメントコンフィグなど週末のプロジェクトにスタックを開始 <sub>⭐ 4.1k · TypeScript</sub>
+- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) - FEDML - 大規模な分散訓練、モデルサービング、フェデレーション学習のための統合およびスケーラブルなMLライブラリ。 FEDML Launch、クロスクラウドスケジューラー、さらにはAIジョブを実行することができます... <sub>⭐ 4.1k · Python</sub>
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: ML モデルとデータの継続的な検証のテスト。Deepchecksは、AI & mlのあらゆる検証ニーズに対応する包括的なオープンソースソリューションで、データを徹底的にテストすることができます。 <sub>⭐ 4.1k · Python</sub>
+- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Commons: どこでも実行する無料のハンズオンAIコース(Colab、Kaggle、Binder、Codespace、Jupter)。 EU AI法適合証拠、モデル検証、予測メンテナンス、ドキュメント... <sub>⭐ 4.0k · Python</sub>
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - ロジック、バッチ処理、スケーリングを完全に制御できるカスタムAIインフェレンスサーバーの構築のための最小限のPythonフレームワーク。 <sub>⭐ 3.9k · Python</sub>
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX はオープンソース (Apache 2.0) OpenAI と Anthropic 互換 LLM インフェレンス サーバー、MLX 上に構築された Apple Silicon 用の Mac アプリで、コーディングエージェントの信頼できるツールに焦点を合わせています。 <sub>⭐ 3.9k · Python</sub>
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro:Netflixのワークフローオーケスト <sub>⭐ 3.8k · Java</sub>
+- [predibase/lorax](https://github.com/predibase/lorax) - 微調整されたLMの1000秒にスケールするマルチLoRAインフェレンスサーバー <sub>⭐ 3.8k · Python</sub>
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - PaddlePaddle に基づく LLM および VLM 用の高性能な Inference とデプロイメントツールキット <sub>⭐ 3.7k · Python</sub>
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - 記憶層としてのエージェントスキル <sub>⭐ 3.7k · JavaScript</sub>
+- [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - GR00T全体制御(WBC)へようこそ! これは、先進のヒューマノイドコントローラの開発と展開のための統一プラットフォームです。 これには:NVIDIA Isaac-Gr00t、Gr00tで使用されている分解されたWBCモデルが含まれています... <sub>⭐ 3.7k · Python</sub>
+- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - 科学的方法、プロセス、アルゴリズム、システムのコレクションでストーリーとモデルを構築します。 <sub>⭐ 3.7k · Jupyter Notebook</sub>
+- [truera/trulens](https://github.com/truera/trulens) - LLM実験およびAIエージェントの評価と追跡 <sub>⭐ 3.6k · Python</sub>
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 機械学習とデータサイエンスに特化したオールインワンWebベースのIDE。 <sub>⭐ 3.5k · Jupyter Notebook</sub>
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications. <sub>⭐ 3.4k · Jupyter Notebook</sub>
-- [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#. <sub>⭐ 3.4k · C#</sub>
-- [superlinked/sie](https://github.com/superlinked/sie) - Open-source inference server and production cluster for all the models your agent needs. <sub>⭐ 3.4k · Python</sub>
-- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one… <sub>⭐ 3.3k · Rust</sub>
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - 製造グレードのMLアプリケーションの設計、開発、展開および反復方法を学びます。 <sub>⭐ 3.4k · Jupyter Notebook</sub>
+- [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET GoogleのTensorFlow用の標準バインディングは、C#とF#で機械学習モデルを開発、訓練およびデプロイするためのものです。 <sub>⭐ 3.4k · C#</sub>
+- [superlinked/sie](https://github.com/superlinked/sie) - エージェントが必要とするすべてのモデルのためのオープンソースのインフェレンスサーバーと生産クラスター。 <sub>⭐ 3.4k · Python</sub>
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - ChatGPT、Codex CLI、およびClaude Codeアカウントを管理し、1つの場所でクォータを追跡します。 優先順位と自動フェイルオーバーでマルチモデルのスマートなルーティングを使用します。 AIツールをインストールして、ローカルLMを1つに展開してください。 <sub>⭐ 3.3k · Rust</sub>
 - [determined-ai/determined](https://github.com/determined-ai/determined) - 決定は、分散訓練、ハイパーパラメータ調整、実験追跡およびリソース管理を簡素化するオープンソース機械学習プラットフォームです。 PyTorchとTensorFlowで動作します。 <sub>⭐ 3.2k · Go</sub>
-- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features… <sub>⭐ 3.2k · Python</sub>
-- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework <sub>⭐ 3.1k · Python</sub>
-- [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed inference for mobile, desktop and server. <sub>⭐ 3.1k · Rust</sub>
-- [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques. <sub>⭐ 3.1k · Jupyter Notebook</sub>
-- [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) - OpenTalking: An industrial-grade open-source AI digital human framework that supports real-time conversation, private deployment, and pluggable models. <sub>⭐ 3.1k · Python</sub>
-- [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors). <sub>⭐ 3.1k · C++</sub>
-- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of… <sub>⭐ 3.1k · Python</sub>
-- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs. <sub>⭐ 3.0k · TypeScript</sub>
-- [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali <sub>⭐ 2.9k · Python</sub>
-- [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Huawei Ascend <sub>⭐ 2.9k · Python</sub>
-- [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM speculative inference server for heterogeneous hardware & consumer GPUs <sub>⭐ 2.9k · C++</sub>
-- [whylabs/whylogs](https://github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. Provides visibility into data quality & model performance over time. Supports privacy-preserving data collection… <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models <sub>⭐ 2.8k · TypeScript</sub>
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure <sub>⭐ 2.8k · Python</sub>
-- [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - Build a machine learning model from a prompt <sub>⭐ 2.6k · Python</sub>
-- [coqui-ai/STT](https://github.com/coqui-ai/STT) - STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. <sub>⭐ 2.6k · C++</sub>
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXTは、多様なAIプロバイダ間での指示管理と複雑なタスク実行をシームレスに制御するダイナミックなAIエージェントオートメーションプラットフォームです。 適応的なメモリ、スマート機能を組み合わせた... <sub>⭐ 3.2k · Python</sub>
+- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLabモデル展開フレームワーク <sub>⭐ 3.1k · Python</sub>
+- [evilsocket/cake](https://github.com/evilsocket/cake) - モバイル、デスクトップおよびサーバーの分散インフェレンス。 <sub>⭐ 3.1k · Rust</sub>
+- [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - LLM、エージェント、RAG、微調整、LLMOpsおよびAIシステム技術であなたのセカンド・ブレインの人工知能アシスタントを構築することを学びます。 <sub>⭐ 3.1k · Jupyter Notebook</sub>
+- [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) - OpenTalking: リアルタイムの会話、プライベートな展開、プラグイン可能なモデルをサポートする産業用オープンソースAIデジタルヒューマンフレームワーク。 <sub>⭐ 3.1k · Python</sub>
+- [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - MLモデルの展開を低電力リソース・コンストレイントされた組み込みターゲット(マイクロコントローラやデジタル信号プロセッサを含む)に可能にするインフラ。 <sub>⭐ 3.1k · C++</sub>
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLamaは、AIモデルのローカルサービングを任意のソースから簡素化し、生産における推論のための使用を促進するオープンソース開発者ツールです。すべての知識豊かな言語を通じて... <sub>⭐ 3.1k · Python</sub>
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - LLMへの戦闘テストプロンプトのためのオープンソースのビジュアルプログラミング環境。 <sub>⭐ 3.0k · TypeScript</sub>
+- [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - インフィニティは、テキスト埋め込むための高スループットで低レイテンシーなサービングエンジンです。モデルをリランキングし、クリップ、拍手とコパリ <sub>⭐ 2.9k · Python</sub>
+- [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - コミュニティは、Huawei社AscendのvLLM用のハードウェアプラグインを維持しました <sub>⭐ 2.9k · Python</sub>
+- [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM の異質なハードウェアおよび消費者 GPU のための分光性推論サーバー <sub>⭐ 2.9k · C++</sub>
+- [whylabs/whylogs](https://github.com/whylabs/whylogs) - 機械学習モデルとデータパイプライン用のオープンソースのデータロギングライブラリ。データの可視性を、時間をかけてデータ品質とモデルのパフォーマンスに提供します。プライバシー保護されたデータ収集をサポートします... <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - 高価なプロンプトを安価な微調整モデルに変える <sub>⭐ 2.8k · TypeScript</sub>
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - 構造化されていないデータのためのコンテキストレイヤー: S3、GCS、Azure上のタイプされたバージョンのデータセット <sub>⭐ 2.8k · Python</sub>
+- [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - 機械学習モデルをプロンプトから構築する <sub>⭐ 2.6k · Python</sub>
+- [coqui-ai/STT](https://github.com/coqui-ai/STT) - STT - スピーチ・ツー・テキストのためのディープラーニングツールキット。STTモデルのトレーニングとデプロイはそれほど簡単ではありませんでした。 <sub>⭐ 2.6k · C++</sub>
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton は、データサイエンティストやエンジニアが、テスト可能なモジュール式で自動ドキュメント化したデータフローを定義するのを助けます。これは、行列/トレースとメタデータをエンコードします。 Python どこでも実行し、スケールアップできます。 <sub>⭐ 2.6k · Jupyter Notebook</sub>
-- [apache/burr](https://github.com/apache/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure. <sub>⭐ 2.6k · Python</sub>
-- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. <sub>⭐ 2.5k · Python</sub>
-- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project) <sub>⭐ 2.5k</sub>
-- [rednote-machine-learning/RedKnot](https://github.com/rednote-machine-learning/RedKnot) - Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention <sub>⭐ 2.5k · Python</sub>
-- [google/XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web <sub>⭐ 2.5k · C</sub>
-- [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) - A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and… <sub>⭐ 2.5k</sub>
-- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines. <sub>⭐ 2.4k · C++</sub>
-- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and systems. <sub>⭐ 2.4k · Rust</sub>
-- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - Self-Modifying Framework from the Future World's First AMS <sub>⭐ 2.3k · Python</sub>
-- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B… <sub>⭐ 2.3k · Python</sub>
-- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data <sub>⭐ 2.3k · Python</sub>
-- [666DZY666/micronet](https://github.com/666DZY666/micronet) - micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient… <sub>⭐ 2.3k · Python</sub>
-- [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - A library for training and deploying machine learning models on Amazon SageMaker <sub>⭐ 2.3k · Python</sub>
-- [tensorchord/envd](https://github.com/tensorchord/envd) - Reproducible development environment for humans and agents <sub>⭐ 2.2k · Go</sub>
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python <sub>⭐ 2.2k · Python</sub>
-- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM… <sub>⭐ 2.1k · C++</sub>
-- [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs <sub>⭐ 2.1k · Rust</sub>
-- [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions <sub>⭐ 2.0k · Python</sub>
-- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. <sub>⭐ 2.0k · Go</sub>
-- [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise <sub>⭐ 1.9k · Scala</sub>
-- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows. <sub>⭐ 1.9k · Python</sub>
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production. <sub>⭐ 1.9k · Jupyter Notebook</sub>
-- [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs. <sub>⭐ 1.8k · Rust</sub>
-- [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference. <sub>⭐ 1.7k · C++</sub>
-- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. <sub>⭐ 1.7k · Zig</sub>
-- [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates… <sub>⭐ 1.7k · Python</sub>
-- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models <sub>⭐ 1.7k · Python</sub>
-- [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple… <sub>⭐ 1.7k · Rust</sub>
-- [AgentEra/Agently](https://github.com/AgentEra/Agently) - (GenAI Application Development Framework) Build GenAI application quick and easy Easy to interact with GenAI agent in code using structure data and chained-calls syntax Use Event-Driven Flow… <sub>⭐ 1.7k · Python</sub>
-- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation <sub>⭐ 1.6k · TeX</sub>
-- [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - Real-time NVIDIA GPU dashboard <sub>⭐ 1.6k · JavaScript</sub>
-- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with - Multimodal database, orchestration, and serving in one file <sub>⭐ 1.6k · Python</sub>
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support. <sub>⭐ 1.6k · Python</sub>
-- [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) - A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning. <sub>⭐ 1.6k · Python</sub>
-- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent: Your intelligent companion for seamless AI engineering and research. Integrate with arxiv and paper with code to provide better code/research plans OpenAI, Anthropic, Gemini, Ollama, etc… <sub>⭐ 1.6k · Python</sub>
-- [langwatch/better-agents](https://github.com/langwatch/better-agents) - Standards for building agents, better <sub>⭐ 1.6k · TypeScript</sub>
-- [QwenAudio/Fun-ASR](https://github.com/QwenAudio/Fun-ASR) - Fun-ASR speech recognition models, with native Hugging Face Transformers support for Fun-ASR-Nano and separate FunASR, vLLM and llama.cpp deployment paths. <sub>⭐ 1.6k · C</sub>
-- [iam-veeramalla/mlops-zero-to-hero](https://github.com/iam-veeramalla/mlops-zero-to-hero) - Notes for my MLOps Zero to Hero Udemy course. <sub>⭐ 1.5k</sub>
-- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models. <sub>⭐ 1.5k · Rust</sub>
-- [MLReef/mlreef](https://github.com/MLReef/mlreef) - The collaboration workspace for Machine Learning <sub>⭐ 1.5k · Kotlin</sub>
-- [fmind/mlops-python-package](https://github.com/fmind/mlops-python-package) - A comprehensive Python package template to kickstart and standardize your MLOps initiatives and data pipelines. <sub>⭐ 1.4k · Jupyter Notebook</sub>
-- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) - Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0. <sub>⭐ 1.4k · Python</sub>
-- [GradientHQ/parallax](https://github.com/GradientHQ/parallax) - Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere <sub>⭐ 1.4k · Python</sub>
-- [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. <sub>⭐ 1.4k · Python</sub>
-- [ebhy/budgetml](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code. <sub>⭐ 1.3k · Python</sub>
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP). <sub>⭐ 1.3k · Go</sub>
-- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust <sub>⭐ 1.3k · Rust</sub>
-- [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store <sub>⭐ 1.3k · Java</sub>
-- [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models. <sub>⭐ 1.3k · Python</sub>
-- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. <sub>⭐ 1.3k · Python</sub>
-- [soeaver/caffe-model](https://github.com/soeaver/caffe-model) - Caffe models (including classification, detection and segmentation) and deploy files for famouse networks <sub>⭐ 1.3k · Python</sub>
-- [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) - Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples. <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [plurai-ai/intellagent](https://github.com/plurai-ai/intellagent) - A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions <sub>⭐ 1.3k · Python</sub>
-- [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents <sub>⭐ 1.2k</sub>
-- [qualcomm/ai-hub-models](https://github.com/qualcomm/ai-hub-models) - Qualcomm® AI Hub Models is our collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices. <sub>⭐ 1.2k · Python</sub>
-- [yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web… <sub>⭐ 1.2k · C</sub>
-- [imfing/keras-flask-deploy-webapp](https://github.com/imfing/keras-flask-deploy-webapp) - Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes. <sub>⭐ 1.2k · JavaScript</sub>
-- [sgl-project/SpecForge](https://github.com/sgl-project/SpecForge) - Train speculative decoding models effortlessly and port them smoothly to SGLang serving. <sub>⭐ 1.2k · Python</sub>
-- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series <sub>⭐ 1.2k · Python</sub>
-- [Ricky-7-Yan/intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system) - AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human review, and remediation delivery. <sub>⭐ 1.2k · Python</sub>
-- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub <sub>⭐ 1.1k · Python</sub>
-- [datadreamer-dev/DataDreamer](https://github.com/datadreamer-dev/DataDreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models. <sub>⭐ 1.1k · Python</sub>
-- [prometheus-eval/prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus and GPT4 <sub>⭐ 1.1k · Python</sub>
-- [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) - Dynamiq is an orchestration framework for agentic AI and LLM applications <sub>⭐ 1.1k · Python</sub>
-- [mryab/efficient-dl-systems](https://github.com/mryab/efficient-dl-systems) - Efficient Deep Learning Systems course materials <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [OpenCSGs/csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces. <sub>⭐ 1.0k · Go</sub>
-- [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development platform <sub>⭐ 1.0k · Python</sub>
-- [paiml/practical-mlops-book](https://github.com/paiml/practical-mlops-book) - (Book-2021) Practical MLOps O'Reilly Book <sub>⭐ 987 · Jupyter Notebook</sub>
-- [codeproject/CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI. <sub>⭐ 984 · C#</sub>
-- [efeslab/Nanoflow](https://github.com/efeslab/Nanoflow) - A throughput-oriented high-performance serving framework for LLMs <sub>⭐ 975 · Jupyter Notebook</sub>
-- [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) - Virtuoso is a high-performance and scalable Multi-Model RDBMS, Data Integration Middleware, Linked Data Deployment, and HTTP Application Server Platform <sub>⭐ 975 · C</sub>
-- [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - A collection of resources to learn about MLOPs. <sub>⭐ 973</sub>
-- [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) - A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking. <sub>⭐ 966 · HTML</sub>
-- [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x faster training through evolutionary hyperparameter optimization. <sub>⭐ 955 · Python</sub>
-- [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive) - PytorchAutoDrive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, RESA, LSTR, LaneATT, BézierLaneNet...) based on PyTorch with fast training, visualization… <sub>⭐ 953 · Python</sub>
-- [msoedov/langcorn](https://github.com/msoedov/langcorn) - Serving LangChain LLM apps and agents automagically with FastApi. LLMops <sub>⭐ 940 · Python</sub>
-- [onlyphantom/llm-python](https://github.com/onlyphantom/llm-python) - Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone <sub>⭐ 931 · Jupyter Notebook</sub>
-- [proinsight-io/crewmeld](https://github.com/proinsight-io/crewmeld) - CrewMeld — Enterprise AI Digital Workforce Platform. Manage AI employees like real team members. Visual SOP orchestration, 13 LLM providers (including China-native models), 8+ messaging… <sub>⭐ 924 · TypeScript</sub>
-- [getmetal/motorhead](https://github.com/getmetal/motorhead) - Motorhead is a memory and information retrieval server for LLMs. <sub>⭐ 917 · Rust</sub>
-- [kaiwaehner/kafka-streams-machine-learning-examples](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples) - This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leveraging Apache Kafka and its Streams API. Models are built with… <sub>⭐ 913 · Java</sub>
-- [mosecorg/mosec](https://github.com/mosecorg/mosec) - A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine <sub>⭐ 902 · Python</sub>
-- [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more <sub>⭐ 901 · Python</sub>
-- [callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package) - Kickstart your LLMOps initiative with a flexible, robust, and productive Python package. <sub>⭐ 896 · Python</sub>
-- [trainindata/deploying-machine-learning-models](https://github.com/trainindata/deploying-machine-learning-models) - Code for the online course "Deployment of Machine Learning Models" <sub>⭐ 896 · Jupyter Notebook</sub>
-- [lanterndata/lantern](https://github.com/lanterndata/lantern) - PostgreSQL vector database extension for building AI applications <sub>⭐ 895 · Rust</sub>
-- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) - LightlyStudio - The Unified Data Platform for Multimodal ML <sub>⭐ 892 · Python</sub>
-- [Paulescu/hands-on-train-and-deploy-ml](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train and Deploy an ML REST API to predict crypto prices, in 10 steps <sub>⭐ 890 · Python</sub>
-- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale. <sub>⭐ 869 · Python</sub>
-- [triton-inference-server/tutorials](https://github.com/triton-inference-server/tutorials) - This repository contains tutorials and examples for Triton Inference Server <sub>⭐ 867 · Python</sub>
-- [mit-han-lab/omniserve](https://github.com/mit-han-lab/omniserve) - (MLSys'25) QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; (MLSys'25) LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention <sub>⭐ 862 · C++</sub>
-- [LLMServe/DistServe](https://github.com/LLMServe/DistServe) - Disaggregated serving system for Large Language Models (LLMs). <sub>⭐ 839 · Jupyter Notebook</sub>
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes <sub>⭐ 837 · Python</sub>
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stable-diffusion.cpp directly integrated into your Go applications. Kronk provides a… <sub>⭐ 830 · Go</sub>
-- [zszazi/Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - List of Deep Learning Cloud Providers <sub>⭐ 828</sub>
-- [ruvnet/agentic-flow](https://github.com/ruvnet/agentic-flow) - Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted… <sub>⭐ 816 · TypeScript</sub>
-- [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster. <sub>⭐ 815 · Shell</sub>
-- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) - What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. <sub>⭐ 808 · Python</sub>
-- [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) - Exercises and supplementary material for the machine learning operations course at DTU. <sub>⭐ 806 · Python</sub>
-- [iblai/os](https://github.com/iblai/os) - Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time chat, voice, document training, analytics, user management, SSO authentication… <sub>⭐ 801 · TypeScript</sub>
-- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. <sub>⭐ 792 · Jupyter Notebook</sub>
-- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust <sub>⭐ 788 · Rust</sub>
-- [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment <sub>⭐ 788 · Python</sub>
-- [SharpAI/SwiftLM](https://github.com/SharpAI/SwiftLM) - Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app. <sub>⭐ 777 · Swift</sub>
-- [zerollzeng/tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt) - Deploy your model with TensorRT quickly. <sub>⭐ 763 · C++</sub>
-- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex… <sub>⭐ 762 · Python</sub>
-- [tobegit3hub/simple_tensorflow_serving](https://github.com/tobegit3hub/simple_tensorflow_serving) - Generic and easy-to-use serving service for machine learning models <sub>⭐ 756 · JavaScript</sub>
-- [ModelTC/LightCompress](https://github.com/ModelTC/LightCompress) - (EMNLP 2024 & AAAI 2026) A powerful toolkit for compressing large models including LLMs, VLMs, and video generative models. <sub>⭐ 750 · Python</sub>
-- [madroidmaq/mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling… <sub>⭐ 746 · Python</sub>
-- [parca-dev/parca-agent](https://github.com/parca-dev/parca-agent) - eBPF based always-on CPU/GPU profiler auto-discovering targets in Kubernetes and systemd, zero code changes or restarts needed! <sub>⭐ 746 · Go</sub>
-- [MLOps-Courses/mlops-coding-course](https://github.com/MLOps-Courses/mlops-coding-course) - Learn how to create, develop, and maintain a state-of-the-art MLOps code base <sub>⭐ 740</sub>
-- [zenml-io/awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation) - Open Source Data Annotation & Labeling Tools <sub>⭐ 730</sub>
-- [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server. <sub>⭐ 729 · Rust</sub>
-- [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG <sub>⭐ 722 · Python</sub>
-- [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box. <sub>⭐ 720 · Go Template</sub>
-- [statmike/vertex-ai-mlops](https://github.com/statmike/vertex-ai-mlops) - Google Cloud Platform Vertex AI end-to-end workflows for machine learning operations <sub>⭐ 719 · Jupyter Notebook</sub>
-- [braincrew-lab/langgraph-mcp-agents](https://github.com/braincrew-lab/langgraph-mcp-agents) - LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing… <sub>⭐ 716 · Python</sub>
-- [ServerlessLLM/ServerlessLLM](https://github.com/ServerlessLLM/ServerlessLLM) - Serverless LLM Serving for Everyone. <sub>⭐ 715 · Python</sub>
-- [Meesho/BharatMLStack](https://github.com/Meesho/BharatMLStack) - BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale <sub>⭐ 714 · Go</sub>
-- [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) - A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and… <sub>⭐ 713 · TeX</sub>
-- [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - Simple, Explicit and Transparent LLM Apps <sub>⭐ 708 · Python</sub>
-- [arthurhenrique/cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests <sub>⭐ 707 · Python</sub>
-- [devopsinsiders/azure-aws-gcp-devsecops-mlops-batch-18](https://github.com/devopsinsiders/azure-aws-gcp-devsecops-mlops-batch-18) - Welcome to the official repository for Batch18! Here, you'll find a organized collection of class notes, assignments, and code snippets generated during our sessions. <sub>⭐ 707 · HCL</sub>
-- [farukalamai/advanced-machine-learning-engineer-roadmap-2024](https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024) - A Full Stack ML (Machine Learning) Roadmap involves learning the necessary skills and technologies to become proficient in all aspects of machine learning, including data collection and… <sub>⭐ 703</sub>
+- [apache/burr](https://github.com/apache/burr) - 決定(チャットボット、エージェント、シミュレーションなど)を行うアプリケーションを構築します。モニター、トレース、パーシスト、独自のインフラストラクチャで実行できます。 <sub>⭐ 2.6k · Python</sub>
+- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - EasyLMは、JX/FlaxでLLMを事前トレーニング、調整、評価およびサービングするためのワンストップソリューションです。 <sub>⭐ 2.5k · Python</sub>
+- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - Argo(CNCF)に関連した素晴らしいプロジェクトとリソースのキュレーションリスト <sub>⭐ 2.5k</sub>
+- [rednote-machine-learning/RedKnot](https://github.com/rednote-machine-learning/RedKnot) - ヘッド・アウェアのKV再使用およびSegPagedAttentionと役立つ有効な長文LM LLM <sub>⭐ 2.5k · Python</sub>
+- [google/XNNPACK](https://github.com/google/XNNPACK) - モバイル、サーバー、Web 向けの高効率な浮動小数点ニューラルネットワークインフェレンス演算子 <sub>⭐ 2.5k · C</sub>
+- [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) - モデルの量子化のための紙、ベンチマーク、アンケート、およびツールのキュレーションコレクション、低ビットネットワーク、LLM、マルチモーダルと遺伝子モデル、ベクトルおよび格子定量化をカバーし、... <sub>⭐ 2.5k</sub>
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINEは、リモートマシンにGPUをCPU専用機に接続できるようにIPブリッジ上にGPUです。 <sub>⭐ 2.4k · C++</sub>
+- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - Bionic は、エンタープライズ向けのエージェント型AIです。オンプレミスを実行し、機密データとシステムで安全に動作させることができます。 <sub>⭐ 2.4k · Rust</sub>
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - 未来世界初となるAMSの自己修正フレームワーク <sub>⭐ 2.3k · Python</sub>
+- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - RTX 3090/4090/5090 CUDA gpusでLMSを提供するコミュニティのレシピ。 マルチエンジン(vLLM、llama.cpp、ik_llama)とモデルアゴノスティック。 現在、Qwen3.6-27B Qwen3.6 35B Gemma 4 26B gemma 4 31B... <sub>⭐ 2.3k · Python</sub>
+- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - LLM Agent、ワークフロー、アプリケーションをデータでビルドするためのマルチエージェントフレームワーク <sub>⭐ 2.3k · Python</sub>
+- [666DZY666/micronet](https://github.com/666DZY666/micronet) - micronet、モデルの圧縮とリブを展開します。 圧縮:1、定量化:量子化-aware-training(QAT)、ハイビット(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficiency... <sub>⭐ 2.3k · Python</sub>
+- [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - Amazon SageMakerで機械学習モデルのトレーニングとデプロイのためのライブラリ <sub>⭐ 2.3k · Python</sub>
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 人やエージェントのための再開発環境 <sub>⭐ 2.2k · Go</sub>
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: pythonのポストdeploymentデータサイエンス <sub>⭐ 2.2k · Python</sub>
+- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - C++で書かれているONNXファイル用の軽量推論ライブラリ。 RPI Zero 2(または298MBのRAM)でも、デスクトップやサーバー上でMistral 7Bを実行できます。 ARM、x86、WASM... <sub>⭐ 2.1k · C++</sub>
+- [microsoft/aici](https://github.com/microsoft/aici) - AICI:プログラムとしてのプロンプト <sub>⭐ 2.1k · Rust</sub>
+- [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - 自然言語の指示から展開可能なモデルを生成する <sub>⭐ 2.0k · Python</sub>
+- [featureform/featureform](https://github.com/featureform/featureform) - 仮想機能ストア。既存のデータインフラストラクチャを機能ストアに変えます。 <sub>⭐ 2.0k · Go</sub>
+- [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr - 企業のためのスケーラブルで統一されたデータとAIエンジニアリングプラットフォーム <sub>⭐ 1.9k · Scala</sub>
+- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agentは、実際に所有するローカル初のAIエージェントハーネスです。ループ、メモリ、evalなど、成長しているコードはすべて合法的に保持します。 <sub>⭐ 1.9k · Python</sub>
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - 生産のためのRAGベースのLMアプリケーションを構築する包括的なガイド。 <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Postgres のスケーラブルで高速かつディスクフレンドリーなベクトル検索、pgvecto.rs のサクセスター。 <sub>⭐ 1.8k · Rust</sub>
+- [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDBは、トレーニングと推論のための機能プラットフォームコンピューティングの一貫性のある機能を提供しているオープンソース機械学習データベースです。 <sub>⭐ 1.7k · C++</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Apple Silicon 用のネイティブ LLM インフェレンス サーバー。OpenAI + Anthropic API は対応していません。 Python はありません。 Zig バックエンド、Swift フロントエンドの MacOS アプリをチャット、音楽、音声、ビデオ生成で使用できます。 <sub>⭐ 1.7k · Zig</sub>
+- [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRunはオープンソースのMLOpsプラットフォームで、ライフサイクル全体にわたって継続的なMLアプリケーションの構築と管理を迅速化できます。 MLRunはあなたの開発およびCI / CD環境に統合し、自動化します... <sub>⭐ 1.7k · Python</sub>
+- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Huggingの顔トランスモデルのための効率的でスケーラブルでエンタープライズグレードのCPU / GPU推論サーバー <sub>⭐ 1.7k · Python</sub>
+- [intentee/paddler](https://github.com/intentee/paddler) - オープンソースLLM/VLMロードバランサーと、LLM(およびVLM)をスケールでセルフホスティングするためのプラットフォームを提供するDOM-d、Docker Model Runnerなどのプロジェクトに代替するだけでなく、可動部品や簡単な操作が少ない... <sub>⭐ 1.7k · Rust</sub>
+- [AgentEra/Agently](https://github.com/AgentEra/Agently) - (GenAI Application Development Framework) GenAIアプリケーションを素早く簡単に構築し、構造データとチェーンコールのシンタックスを使用してコード内のGeneiエージェントとのやり取りが簡単になります。イベント駆動フローを使用する... <sub>⭐ 1.7k · Python</sub>
+- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - オープンソースイノベーションの現在の高速化された混乱における明快さ <sub>⭐ 1.6k · TeX</sub>
+- [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - リアルタイムのNVIDIA GPUダッシュボード <sub>⭐ 1.6k · JavaScript</sub>
+- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - バックエンドエージェントは、複数のデータベース、オーケストレーション、および1つのファイルで機能します。 <sub>⭐ 1.6k · Python</sub>
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - 高性能なOpenAIとApple Silicon用のAnthropic互換LLMインフェレンスサーバー。ネイティブMLX、連続バッチ、マルチモーダルモデル、MCPツールコール、Claudeコードサポート <sub>⭐ 1.6k · Python</sub>
+- [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) - KerasとTensorFlowのデプロイメント用にMLモデルを最適化するためのツールキット。量子化や剪定を含みます。 <sub>⭐ 1.6k · Python</sub>
+- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent:シームレスなAIエンジニアリングと研究のためのあなたのインテリジェントな仲間。 より良いコード/リサーチ計画OpenAI、Anthropic、Gemini、Ollamaなどを提供するために、アルクシブと紙を統合... <sub>⭐ 1.6k · Python</sub>
+- [langwatch/better-agents](https://github.com/langwatch/better-agents) - 建材の規格、より良い <sub>⭐ 1.6k · TypeScript</sub>
+- [QwenAudio/Fun-ASR](https://github.com/QwenAudio/Fun-ASR) - Fun-ASR 音声認識モデル、ネイティブの Hugging Face トランスが Fun-ASR-Nano をサポートし、FunASR、vLLM および llama.cpp デプロイメントパスを分離します。 <sub>⭐ 1.6k · C</sub>
+- [iam-veeramalla/mlops-zero-to-hero](https://github.com/iam-veeramalla/mlops-zero-to-hero) - MLOps ZeroをヒーローUdemyコースに申し込む <sub>⭐ 1.5k</sub>
+- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox は、機械学習モデルのトレーニングやデプロイ、監視が容易になります。 <sub>⭐ 1.5k · Rust</sub>
+- [MLReef/mlreef](https://github.com/MLReef/mlreef) - 機械学習のためのコラボレーションワークスペース <sub>⭐ 1.5k · Kotlin</sub>
+- [fmind/mlops-python-package](https://github.com/fmind/mlops-python-package) - MLOpsのイニシアチブとデータパイプラインをキックスタートし、標準化する包括的なPythonパッケージテンプレート。 <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) - AIエージェント向けTrace-native CI/CD — 生産障害は、PRをブロックする回帰テストになります。 自動検出、クラスター、ヘルメティックケースに凍結し、CIで再生して$0にします。 <sub>⭐ 1.4k · Python</sub>
+- [GradientHQ/parallax](https://github.com/GradientHQ/parallax) - Parallaxは、どこにいても独自のAIクラスターを構築できる分散型フレームワークです。 <sub>⭐ 1.4k · Python</sub>
+- [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibabaの高性能LLMインフェレンスエンジンで多様な用途に対応 <sub>⭐ 1.4k · Python</sub>
+- [ebhy/budgetml](https://github.com/ebhy/budgetml) - MLインフェレンスサービスを10行未満の予算で展開します。 <sub>⭐ 1.3k · Python</sub>
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - 内部デベロッパープラットフォーム(IDP)用の定着型インテント駆動プラットフォームオーケター。 <sub>⭐ 1.3k · Go</sub>
+- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - 高性能、モジュラー、メモリの金庫および生産準備が整ったインフェレンス、突出および索引はRustで造られる <sub>⭐ 1.3k · Rust</sub>
+- [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - 機能ストアを備えたデータ集中型AIプラットフォーム <sub>⭐ 1.3k · Java</sub>
+- [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omniは、オーディオモデル(TTS、ASR)および統一されたマルチモーダルモデル向けの高性能なサービングフレームワークです。 <sub>⭐ 1.3k · Python</sub>
+- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - 睡眠中、ディープラーニングの実験を24時間365日実行する自律型AIエージェント。ゼロコストモニタリング、リーダー・ワーカーアーキテクチャ、定数メモリー。 <sub>⭐ 1.3k · Python</sub>
+- [soeaver/caffe-model](https://github.com/soeaver/caffe-model) - カフェモデル(分類、検出およびセグメンテーションを含む)と有名なネットワーク用のファイルを展開する <sub>⭐ 1.3k · Python</sub>
+- [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) - ディープラーニングモデルの構築、トレーニング、デプロイ、スケール管理、維持。MLインフラストラクチャとMLOpsを実践的な例で把握します。 <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [plurai-ai/intellagent](https://github.com/plurai-ai/intellagent) - シミュレートされた現実的な合成相互作用を使用して、エージェントの包括的な診断と最適化のためのフレームワーク <sub>⭐ 1.3k · Python</sub>
+- [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - SDK、フレームワーク、ライブラリ、および自動人工知能エージェントの作成、監視、デバッグ、デプロイのためのツールのデータベース <sub>⭐ 1.2k</sub>
+- [qualcomm/ai-hub-models](https://github.com/qualcomm/ai-hub-models) - Qualcomm® AI Hub Modelは、パフォーマンス(レイテンシー、メモリなど)に最適化された最先端の機械学習モデルのコレクションであり、Qualcomm®デバイスに導入する準備が整っています。 <sub>⭐ 1.2k · Python</sub>
+- [yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - タイムスタンプデータなしでトレーニングをサポートし、タイムスタンプデータを学習したり、スピーチデータのなくてもトレーニングをサポートするWhisperの音声認識モデルを微調整します。 推論とサポートWeb ... <sub>⭐ 1.2k · C</sub>
+- [imfing/keras-flask-deploy-webapp](https://github.com/imfing/keras-flask-deploy-webapp) - プリティー&シンプルな画像の分類アプリテンプレート。独自の訓練されたモデルまたは事前学習したモデル(VGG、ResNet、Densenet)を10分でフラスコを使用してWebアプリケーションに展開します。 <sub>⭐ 1.2k · JavaScript</sub>
+- [sgl-project/SpecForge](https://github.com/sgl-project/SpecForge) - 電車の分裂モデルを楽にしませ、SGLangサービングにスムーズにそれらを移植します。 <sub>⭐ 1.2k · Python</sub>
+- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - 時系列のデータ湖の仕事を作る <sub>⭐ 1.2k · Python</sub>
+- [Ricky-7-Yan/intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system) - CreditPilot: 監査可能なエンタープライズ AI エージェントは、エビデンス・グラウンド・ワークフロー、管理ツール、評価ハーネス、人間のレビュー、および是正配信を実現します。 <sub>⭐ 1.2k · Python</sub>
+- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - データ工学と機械学習ナレッジハブ <sub>⭐ 1.1k · Python</sub>
+- [datadreamer-dev/DataDreamer](https://github.com/datadreamer-dev/DataDreamer) - DataDreamer: プロンプト。合成データを生成します。 列車とアライメントモデル。 <sub>⭐ 1.1k · Python</sub>
+- [prometheus-eval/prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - PrometheusとGPT4でLMの応答を評価します <sub>⭐ 1.1k · Python</sub>
+- [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) - Dynamiq は、人工知能と LLM アプリケーション向けのオーケストレーションフレームワークです。 <sub>⭐ 1.1k · Python</sub>
+- [mryab/efficient-dl-systems](https://github.com/mryab/efficient-dl-systems) - 効率的なディープラーニングシステムコース材料 <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [OpenCSGs/csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server は CSGHub のバックエンド サーバーで、ユーザがデータセットやモードを管理し、モデル・インフェレンス、Finetune、Application Spaces を実行するのに役立ちます。 <sub>⭐ 1.0k · Go</sub>
+- [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - オープンソースのMLパイプライン開発プラットフォーム <sub>⭐ 1.0k · Python</sub>
+- [paiml/practical-mlops-book](https://github.com/paiml/practical-mlops-book) - (Book-2021) 実用的MLOps O'Reilly Book <sub>⭐ 987 · Jupyter Notebook</sub>
+- [codeproject/CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server は、ソフトウェア開発者がアプリを AI の力で拡張するためにインクルードし、配布できるセルフサービスです。 <sub>⭐ 984 · C#</sub>
+- [efeslab/Nanoflow](https://github.com/efeslab/Nanoflow) - LLM向けスループット指向の高性能サービングフレームワーク <sub>⭐ 975 · Jupyter Notebook</sub>
+- [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) - Virtuosoは、高性能でスケーラブルなマルチモデルのRDBMS、データ統合ミドルウェア、リンクされたデータの展開、およびHTTPアプリケーションサーバープラットフォームです <sub>⭐ 975 · C</sub>
+- [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - MLOPについて学ぶためのリソースのコレクション。 <sub>⭐ 973</sub>
+- [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) - LLMの推論サービングと最適化のための10週間、30分の1日ロードマップ。 vLLM、SGLang、量子化、分光解読、ベンチマーク。 <sub>⭐ 966 · HTML</sub>
+- [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - RLOpsで強化学習を合理化。最先端のRLアルゴリズムとツール、進化したハイパーパラメータの最適化による10倍以上のトレーニング <sub>⭐ 955 · Python</sub>
+- [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive) - PytorchAutoDrive: セグメントモデル(ERFNet、ENet、DeepLab、FCN...)と車線検出モデル(SCNN、RESA、LSTR、LaneATT、BézierLaneNet ...)はPyTorchに基づいて高速なトレーニング、視覚化... <sub>⭐ 953 · Python</sub>
+- [msoedov/langcorn](https://github.com/msoedov/langcorn) - LangChain LLMアプリとエージェントをFastApiで自動生成します。LLMops <sub>⭐ 940 · Python</sub>
+- [onlyphantom/llm-python](https://github.com/onlyphantom/llm-python) - 大きい言語モデル(LLM)のチュートリアル及びサンプルスクリプト、ft。ランチェイン、openai、llamaindex、gpt、chromadb及びpipecone <sub>⭐ 931 · Jupyter Notebook</sub>
+- [proinsight-io/crewmeld](https://github.com/proinsight-io/crewmeld) - CrewMeld — エンタープライズAIデジタル・ワークフォースプラットフォーム。人工知能の従業員をチームメンバーのように管理します。ビジュアルSOPオーケストレーション、13 LLMプロバイダー(中国ネイティブモデルを含む)、8 +メッセージング... <sub>⭐ 924 · TypeScript</sub>
+- [getmetal/motorhead](https://github.com/getmetal/motorhead) - MotorheadはLMのメモリおよび情報検索サーバーです。 <sub>⭐ 917 · Rust</sub>
+- [kaiwaehner/kafka-streams-machine-learning-examples](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples) - このプロジェクトでは、Apache Kafka と Streams API を活用したミッションクリティカルでスケーラブルな生産環境に、分析モデルをデプロイする方法を示す例があります。 モデルは、... <sub>⭐ 913 · Java</sub>
+- [mosecorg/mosec](https://github.com/mosecorg/mosec) - 高性能なMLモデルはフレームワークをサービングし、動的バッチ処理およびCPU/GPUのパイプラインを提供しま十分にあなたの計算機械を利用します <sub>⭐ 902 · Python</sub>
+- [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - 複数のフレームワークのサポート、マルチモデルのサービングなど、機械学習モデルのための推論サーバー <sub>⭐ 901 · Python</sub>
+- [callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package) - Kickstart LLMOps のイニシアチブを柔軟で堅牢かつ生産的な Python パッケージで起動します。 <sub>⭐ 896 · Python</sub>
+- [trainindata/deploying-machine-learning-models](https://github.com/trainindata/deploying-machine-learning-models) - オンラインコース「機械学習モデルの採用」のためのコード <sub>⭐ 896 · Jupyter Notebook</sub>
+- [lanterndata/lantern](https://github.com/lanterndata/lantern) - PostgreSQLのデータベース拡張機能でAIアプリケーションの構築 <sub>⭐ 895 · Rust</sub>
+- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) - LightlyStudio - マルチモーダルML用の統合データプラットフォーム <sub>⭐ 892 · Python</sub>
+- [Paulescu/hands-on-train-and-deploy-ml](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - ML REST APIを訓練して展開し、10ステップで、仮想通貨価格の予測 <sub>⭐ 890 · Python</sub>
+- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AIは、大規模にベクトル埋め込みの作成と同期を管理するための最高のクラスフレームワークです。 <sub>⭐ 869 · Python</sub>
+- [triton-inference-server/tutorials](https://github.com/triton-inference-server/tutorials) - このリポジトリには、Triton Inference Serverのチュートリアルと例が含まれています。 <sub>⭐ 867 · Python</sub>
+- [mit-han-lab/omniserve](https://github.com/mit-han-lab/omniserve) - (MLSys'25) QServe:W4A8KV4定量化と効率的なLMサービングのためのシステム共同設計;(MLSys'25) LServe:統一されたスパースの注意を添える有効な長続LLM <sub>⭐ 862 · C++</sub>
+- [LLMServe/DistServe](https://github.com/LLMServe/DistServe) - 大規模ランゲージモデル(LLM)の対応を解除。 <sub>⭐ 839 · Jupyter Notebook</sub>
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - ローカルまたはリモートで任意のAIモデル、エージェント、データベース、RAGおよびパイプラインを数分に展開 <sub>⭐ 837 · Python</sub>
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - あなた自身の知能で行く! ハードウェアのためにGoを使用して、llama.cpp、Wysper.cpp、および安定したdiffusion.cppを直接あなたのGoアプリケーションに統合しました。 Kronkは、あなたのGoアプリケーションに統合されています... <sub>⭐ 830 · Go</sub>
+- [zszazi/Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - ディープラーニングクラウドプロバイダーの一覧 <sub>⭐ 828</sub>
+- [ruvnet/agentic-flow](https://github.com/ruvnet/agentic-flow) - Claude Code/Agent SDK の代替低コスト AI モデルを簡単に切り替えます。Claude エージェントとコマンドを使用して快適なもののために、作成して完全にホストされているものを取り出しましょう... <sub>⭐ 816 · TypeScript</sub>
+- [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - このガイドは、仲間の研究者やホビリストが簡単に自分のKubernetes GPUクラスターで深いleaningトレーニングを自動化し加速するために役立つはずです。 <sub>⭐ 815 · Shell</sub>
+- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) - OpenAI Deep Research と Dify が 1 つのプラットフォームだったらどうしたら?OpenAgent — 急速に構築された垂直の AI エージェントのためのアーキテクチャを活用し、深い推論ループ、ビジュアルワークフロー、RAG、および A2A 委任。 <sub>⭐ 808 · Python</sub>
+- [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) - DTUの機械学習操作コースのためのエクササイズと補足材料。 <sub>⭐ 806 · Python</sub>
+- [iblai/os](https://github.com/iblai/os) - 組織が複数のLMプロバイダー、リアルタイムチャット、音声、ドキュメントのトレーニング、分析、ユーザー管理、SSO認証のサポートでカスタマイズ可能なAIエージェントを作成およびデプロイすることを可能にします。 <sub>⭐ 801 · TypeScript</sub>
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - メモ帳、コードサンプル、サンプルアプリなどは、Google Cloud Vertex AIを用いた機械学習と遺伝子のAIワークフローの使用・開発・管理方法を実証するリソースです。 <sub>⭐ 792 · Jupyter Notebook</sub>
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Rustの高速、ストリーミングインデックス作成、クエリ、およびエージェントLLMアプリケーション <sub>⭐ 788 · Rust</sub>
+- [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers:デプロイメントのための効率的なモデル並列化ツールキット <sub>⭐ 788 · Python</sub>
+- [SharpAI/SwiftLM](https://github.com/SharpAI/SwiftLM) - Apple Silicon用のネイティブMLX Swift LLMインフェレンスサーバー。OpenAI対応API、100B+ MoEモデルのSSDストリーミング、TurboQuant KVキャッシュ圧縮、MACOS + iOS iPhoneアプリ。 <sub>⭐ 777 · Swift</sub>
+- [zerollzeng/tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt) - すぐにTensorRTでモデルをデプロイします。 <sub>⭐ 763 · C++</sub>
+- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) - コーディングエージェントが何をしたか、コストを削減するのかを参照してください。各タスクは作業手順に分割します。ツールの使い方、ファイルの変更、テスト実行、時間とトークンの使用。 Claudeコード、Codex用のローカルファーストダッシュボード... <sub>⭐ 762 · Python</sub>
+- [tobegit3hub/simple_tensorflow_serving](https://github.com/tobegit3hub/simple_tensorflow_serving) - 機械学習モデルのための汎用かつ使いやすいサービングサービス <sub>⭐ 756 · JavaScript</sub>
+- [ModelTC/LightCompress](https://github.com/ModelTC/LightCompress) - (EMNLP 2024 & AAAAI 2026) LLM、VLM、ビデオのジェネレーションモデルを含む大型モデルを圧縮するための強力なツールキット。 <sub>⭐ 750 · Python</sub>
+- [madroidmaq/mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server は、Apple社のMLXフレームワークを搭載したローカルのインフェレンスサーバーで、特に Apple Silicon(Mシリーズ)チップ向けに設計されています。 OpenAI対応APIエンドポイントを実装し... <sub>⭐ 746 · Python</sub>
+- [parca-dev/parca-agent](https://github.com/parca-dev/parca-agent) - eBPFはKubernetesとシステム化された、ゼロコードの変更や再起動で常にCPU / GPUプロファイラ自動ディスカバリーターゲットをベースとしています。 <sub>⭐ 746 · Go</sub>
+- [MLOps-Courses/mlops-coding-course](https://github.com/MLOps-Courses/mlops-coding-course) - 最先端のMLOpsコードベースの作成、開発および維持方法を学びます <sub>⭐ 740</sub>
+- [zenml-io/awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation) - オープンソースデータアノテーションとラベリングツール <sub>⭐ 730</sub>
+- [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - OpenAI対応のAPIサーバーを含むローカルLMを推論し、提供するEfficentプラットフォーム。 <sub>⭐ 729 · Rust</sub>
+- [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, RAGのAI検索データベース <sub>⭐ 722 · Python</sub>
+- [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - このリポジトリは、箱から生産のベストプラクティスに従うDatabricks上の新しいMLプロジェクトを開始するためのカスタマイズ可能なスタックを提供します。 <sub>⭐ 720 · Go Template</sub>
+- [statmike/vertex-ai-mlops](https://github.com/statmike/vertex-ai-mlops) - Google Cloud Platform Vertex AI は、機械学習の操作のためのワークフローをエンドツーエンドで終わらせます <sub>⭐ 719 · Jupyter Notebook</sub>
+- [braincrew-lab/langgraph-mcp-agents](https://github.com/braincrew-lab/langgraph-mcp-agents) - LangGraph は、モデルコンテキストプロトコル (MCP) インテグレーションで ReAct エージェントに権限を付与しました。ストリームリットの Web インターフェイスにより、動的に構成、デプロイ、およびアクセス可能な AI エージェントと対話することができます... <sub>⭐ 716 · Python</sub>
+- [ServerlessLLM/ServerlessLLM](https://github.com/ServerlessLLM/ServerlessLLM) - サーバーレスLMは、あらゆる人にサービスを提供しています。 <sub>⭐ 715 · Python</sub>
+- [Meesho/BharatMLStack](https://github.com/Meesho/BharatMLStack) - BharatMLStackは、Meeshoで構築されたオープンソースのエンドツーエンド機械学習インフラストラクチャスタックであり、BharatスケールでのリアルタイムおよびバッチMLワークロードをサポート <sub>⭐ 714 · Go</sub>
+- [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) - AR DiffusionによるAwesome Video Worldモデルのキュレーションリスト:Algorithms、アプリケーション、インフラストラクチャをカバーし、研究者や請願者のための包括的なリソースとして活用しました。 <sub>⭐ 713 · TeX</sub>
+- [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - シンプルで、迅速で透明なLLMアプリ <sub>⭐ 708 · Python</sub>
+- [arthurhenrique/cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - FastAPIプロジェクト用のCookiecutterテンプレート:機械学習、UV、GithubアクションとPytests <sub>⭐ 707 · Python</sub>
+- [devopsinsiders/azure-aws-gcp-devsecops-mlops-batch-18](https://github.com/devopsinsiders/azure-aws-gcp-devsecops-mlops-batch-18) - Batch18の公式リポジトリへようこそ! ここでは、セッション中に生成されたクラスのノートや割り当て、コードスニペットの整理コレクションを見つけます。 <sub>⭐ 707 · HCL</sub>
+- [farukalamai/advanced-machine-learning-engineer-roadmap-2024](https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024) - 完全なスタックML(機械学習)ロードマップは、データ収集や... <sub>⭐ 703</sub>
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) - KerasのDecision Forestモデルの訓練、サービングおよび解釈のための最新式のアルゴリズムのコレクション。 <sub>⭐ 694 · Python</sub>
-- [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust) - Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents… <sub>⭐ 690 · Rust</sub>
-- [kossisoroyce/timber](https://github.com/kossisoroyce/timber) - Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster… <sub>⭐ 689 · Python</sub>
-- [nebuly-ai/nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster through real-time dynamic partitioning and elastic quotas - Effortless optimization at its finest! <sub>⭐ 686 · Go</sub>
-- [featurestoreorg/serverless-ml-course](https://github.com/featurestoreorg/serverless-ml-course) - Serverless Machine Learning Course for building AI-enabled Prediction Services from models and features <sub>⭐ 685 · Jupyter Notebook</sub>
-- [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from… <sub>⭐ 678 · Jupyter Notebook</sub>
-- [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - (验证码识别-部署) This project is based on CNN+BLSTM+CTC to realize verificationtion. This projeccode identificat is only for deployment models. <sub>⭐ 677 · Python</sub>
-- [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch) <sub>⭐ 671 · Python</sub>
-- [Azure/mlops-v2](https://github.com/Azure/mlops-v2) - Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform. <sub>⭐ 655 · Shell</sub>
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations: community-driven projects to learn how to run AI, ML, and other emerging workloads more efficiently and cost-effectively… <sub>⭐ 651 · Python</sub>
-- [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) - Open-source course on architecting, building and deploying a real-time personalized recommender for H&M fashion articles. <sub>⭐ 647 · Jupyter Notebook</sub>
-- [Ryota-Kawamura/Generative-AI-with-LLMs](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs) - In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications. <sub>⭐ 647 · Jupyter Notebook</sub>
-- [GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) - End to End Generative AI Industry Projects on LLM Models with Deployment_Awesome LLM Projects <sub>⭐ 636</sub>
-- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application. <sub>⭐ 633 · Python</sub>
-- [NimblePros/eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 10.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. <sub>⭐ 631 · C#</sub>
-- [smazzanti/mrmr](https://github.com/smazzanti/mrmr) - mRMR (minimum-Redundancy-Maximum-Relevance) for automatic feature selection at scale. <sub>⭐ 631 · Python</sub>
-- [mrdbourke/cs329s-ml-deployment-tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial) - Code and files to go along with CS329s machine learning model deployment tutorial. <sub>⭐ 624 · Jupyter Notebook</sub>
-- [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) - Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey on Vision–Language–Action Models for Autonomous Driving”. <sub>⭐ 622</sub>
-- [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) - Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI. <sub>⭐ 612 · JavaScript</sub>
-- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML library - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter… <sub>⭐ 612 · Python</sub>
-- [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yolo model qat and deploy with deepstream&tensorrt <sub>⭐ 610 · Python</sub>
-- [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs. <sub>⭐ 608 · TypeScript</sub>
-- [pracdata/awesome-open-source-data-engineering](https://github.com/pracdata/awesome-open-source-data-engineering) - A curated list of open source tools used in analytics platforms and data engineering ecosystem <sub>⭐ 605</sub>
-- [Paulescu/kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers) - Just enough Kubernetes for you to fly <sub>⭐ 579 · Makefile</sub>
-- [zengxiao-he/tessera](https://github.com/zengxiao-he/tessera) - From teacher to tiles — a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX… <sub>⭐ 565 · Python</sub>
-- [llumnix-project/llumnix-ray](https://github.com/llumnix-project/llumnix-ray) - Efficient and easy multi-instance LLM serving <sub>⭐ 561 · Python</sub>
-- [PacificAI/langtest](https://github.com/PacificAI/langtest) - Deliver safe & effective language models <sub>⭐ 561 · Python</sub>
-- [jacopotagliabue/MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022) - Slides, scripts and materials for the Machine Learning in Finance Course at NYU Tandon, 2022 <sub>⭐ 558 · Jupyter Notebook</sub>
-- [factorie/factorie](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs… <sub>⭐ 550 · Scala</sub>
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) - One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools. <sub>⭐ 550 · Python</sub>
-- [techiescamp/mlops-for-devops](https://github.com/techiescamp/mlops-for-devops) - MLOps for DevOps Engineers - A hands-on, project-based guide to Machine Learning Operations <sub>⭐ 543 · Python</sub>
-- [underneathall/pinferencia](https://github.com/underneathall/pinferencia) - Python + Inference - Model Deployment library in Python. Simplest model inference server ever. <sub>⭐ 543 · Python</sub>
+- [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust) - Rust Agent Development Kit(ADK-Rust):モデル、ツール、メモリ、リアルタイムボイスなどのモジュラーコンポーネントを備えたRustでAIエージェントをビルドします。 ADK-Rustは、AIエージェントを開発するための柔軟なフレームワークです... <sub>⭐ 690 · Rust</sub>
+- [kossisoroyce/timber](https://github.com/kossisoroyce/timber) - 古典的なMLモデルのためのオラマ。 AOTコンパイラは、XGBoost、LightGBM、scikit-learn、CatBoost&ONNXモデルはネイティブC99推論コードに変わります。 1つのコマンドをロードし、1つのコマンドを実行します。 336x高速... <sub>⭐ 689 · Python</sub>
+- [nebuly-ai/nos](https://github.com/nebuly-ai/nos) - リアルタイムの動的パーティショニングと弾力的なコパスによるKubernetesクラスターでGPUリソースを自動的に活用するモジュール - その最高の快適最適化! <sub>⭐ 686 · Go</sub>
+- [featurestoreorg/serverless-ml-course](https://github.com/featurestoreorg/serverless-ml-course) - モデルや機能からAI対応の予測サービスを構築するためのサーバーレス機械学習コース <sub>⭐ 685 · Jupyter Notebook</sub>
+- [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - Hands-on、AI エンジニア/フォワード・デプロイド・エンジニア(FDE)スキルセット用のフレームワークフリーの Colab ノートブック — モデル API、構造化された出力、ツールコール、RAG、evals-as-the-spine、エージェント (loop from... <sub>⭐ 678 · Jupyter Notebook</sub>
+- [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - ( -部)このプロジェクトは、CNN+BLSTM+CTCをベースに検証を実現しています。このprojeccodeのidentificatはデプロイモデルのみです。 <sub>⭐ 677 · Python</sub>
+- [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoostは、さまざまなプラットフォーム(i.e. Elasticsearch)で検索結果の関連性を向上させるためにトランスモデルを展開するためのスケーラブルなSearch-api-boostingプラットフォームです。 <sub>⭐ 671 · Python</sub>
+- [Azure/mlops-v2](https://github.com/Azure/mlops-v2) - Azure MLOps (v2) ソリューションアクセラレータ。Azureプラットフォームで機械学習モデルをデプロイするエンタープライズ対応テンプレート。 <sub>⭐ 655 · Shell</sub>
+- [mlcommons/ck](https://github.com/mlcommons/ck) - 集合的知識(CK)、集団マインド(CM/CMX)およびMLPerf自動化:コミュニティ主導のプロジェクトはAIやMLなどの新興ワークロードをより効率的に実行し、費用対効果の高い作業を効率よく学習する方法を学びます。 <sub>⭐ 651 · Python</sub>
+- [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) - H&Mのファッション記事をリアルタイムにパーソナライズされた推奨ツールの設計、構築および展開に関するオープンソースコース。 <sub>⭐ 647 · Jupyter Notebook</sub>
+- [Ryota-Kawamura/Generative-AI-with-LLMs](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs) - 大規模な言語モデル(LLM)で人工知能を生成し、ジェネレーションAIがどのように機能するかの基本を学びます。そして実際のアプリケーションに展開する方法をご紹介します。 <sub>⭐ 647 · Jupyter Notebook</sub>
+- [GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) - LLMモデルで展開するAI産業プロジェクトを終わらせます_素晴らしいLLMプロジェクト <sub>⭐ 636</sub>
+- [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - 公式のRoboflow Pythonパッケージ。データセット、モデル、および展開を管理します。 ロボフローにはコンピュータビジョンアプリケーションを構築するために必要なすべてのものがあります。 <sub>⭐ 633 · Python</sub>
+- [NimblePros/eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - ASP.NETコア10.0参照アプリケーションのサンプル、Microsoftが機能し、モノリシックなデプロイメントモデルでドメイン指向のアプリケーションアーキテクチャを実証します。 <sub>⭐ 631 · C#</sub>
+- [smazzanti/mrmr](https://github.com/smazzanti/mrmr) - mRMR(最小限の冗長 - 最大定格)で、スケールでの自動機能選択が可能です。 <sub>⭐ 631 · Python</sub>
+- [mrdbourke/cs329s-ml-deployment-tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial) - CS329s機械学習モデルの展開チュートリアルと一緒に行くコードとファイル。 <sub>⭐ 624 · Jupyter Notebook</sub>
+- [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) - ビジョン–言語-自動運転(VLA4AD)リソースのアクションモデル、コンパニオンレポジトリとしてサーベイトペーパー「Visionに関する調査～言語行動モデルの自動運転」に役立てます。 <sub>⭐ 622</sub>
+- [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) - Claude Code CLI を使用して、効率的なコードインタラクションを HTTP プロキシとして機能する CLI ツールである Lynkr でワークフローを合理化します。 <sub>⭐ 612 · JavaScript</sub>
+- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - 世界の最もクリーンなAutoMLライブラリ - パイプラインの抽象化と、きれいなディープラーニングの生産パイプラインを書くためのハイパーパラメータ調整を行います。 あなたのパイプライン手順は、高価パラメータを持っています... <sub>⭐ 612 · Python</sub>
+- [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yoloモデルqatとdeepstream&tensorrtで展開 <sub>⭐ 610 · Python</sub>
+- [adaline/gateway](https://github.com/adaline/gateway) - 200以上のLMを呼び出しるため、シンプルで統一された強力なインターフェイスを提供する唯一のローカルプロダクショングレードのスーパーSDK。 <sub>⭐ 608 · TypeScript</sub>
+- [pracdata/awesome-open-source-data-engineering](https://github.com/pracdata/awesome-open-source-data-engineering) - 分析プラットフォームおよびデータエンジニアリングエコシステムで使用されるオープンソースツールのキュレーションリスト <sub>⭐ 605</sub>
+- [Paulescu/kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers) - あなたが飛ぶために十分なKubernetesだけ <sub>⭐ 579 · Makefile</sub>
+- [zengxiao-he/tessera](https://github.com/zengxiao-he/tessera) - 教師からタイルまで — LLM のスクラッチ蒸留とサービングエンジン: カスタム Triton/CUDA カーネル、FSDP の蒸留、ページ付き-KV 連続バッチ処理、スペクティブデコード、Rust ゲートウェイ、JAX... <sub>⭐ 565 · Python</sub>
+- [llumnix-project/llumnix-ray](https://github.com/llumnix-project/llumnix-ray) - 効率的で簡単なマルチインスタンスLMサービス <sub>⭐ 561 · Python</sub>
+- [PacificAI/langtest](https://github.com/PacificAI/langtest) - 安全で効果的な言語モデルを提供 <sub>⭐ 561 · Python</sub>
+- [jacopotagliabue/MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022) - NYU Tandonの金融コースで機械学習のためのスライド、スクリプトおよび材料、2022 <sub>⭐ 558 · Jupyter Notebook</sub>
+- [factorie/factorie](https://github.com/factorie/factorie) - FACTORIEは、Scalaのソフトウェアライブラリとして実装された、展開可能な確率的モデリングのためのツールキットです。 リレーショナルファクターグラフを作成するための簡潔な言語でユーザーを提供します... <sub>⭐ 550 · Scala</sub>
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) - 60以上のスケルトン、チュートリアル、エコシステムガイド、評価ツールを備えたLMエージェントの構築、デプロイおよび理解のためのワンストップハンドブック。 <sub>⭐ 550 · Python</sub>
+- [techiescamp/mlops-for-devops](https://github.com/techiescamp/mlops-for-devops) - DevOpsエンジニア向けMLOps - 実践的、機械学習オペレーションのプロジェクトベースのガイド <sub>⭐ 543 · Python</sub>
+- [underneathall/pinferencia](https://github.com/underneathall/pinferencia) - Python + Inference - Python のモデル展開ライブラリ。最もシンプルなモデルは、サーバーを継承します。 <sub>⭐ 543 · Python</sub>
 - [terrytangyuan/distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - ユアン・タンによるマニング出版の機械学習パターン https://bit.ly/2RKv8Zo <sub>⭐ 540 · Python</sub>
-- [polyaxon/traceml](https://github.com/polyaxon/traceml) - Engine for AI/ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon. <sub>⭐ 534 · Python</sub>
-- [superlinked/VectorHub](https://github.com/superlinked/VectorHub) - Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR, extraction, and document processing. <sub>⭐ 531 · Jupyter Notebook</sub>
-- [the-full-stack/fsdl-text-recognizer-2022-labs](https://github.com/the-full-stack/fsdl-text-recognizer-2022-labs) - Complete deep learning project developed in Full Stack Deep Learning, 2022 edition. Generated automatically from https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022 <sub>⭐ 531 · Jupyter Notebook</sub>
-- [skops-dev/skops](https://github.com/skops-dev/skops) - skops is a Python library helping you share your scikit-learn based models and put them in production <sub>⭐ 529 · Python</sub>
-- [triton-inference-server/model_analyzer](https://github.com/triton-inference-server/model_analyzer) - Triton Model Analyzer is a CLI tool to help with better understanding of the compute and memory requirements of the Triton Inference Server models. <sub>⭐ 529 · Python</sub>
-- [microsoft/sarathi-serve](https://github.com/microsoft/sarathi-serve) - A low-latency & high-throughput serving engine for LLMs <sub>⭐ 528 · Python</sub>
-- [CerebriumAI/examples](https://github.com/CerebriumAI/examples) - Examples for Cerebrium Serverless GPUs <sub>⭐ 526 · Python</sub>
-- [microsoft/vattention](https://github.com/microsoft/vattention) - Dynamic Memory Management for Serving LLMs without PagedAttention <sub>⭐ 524 · C</sub>
-- [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Data-Driven Evaluation for LLM-Powered Applications <sub>⭐ 518 · Python</sub>
-- [neurocult/agency](https://github.com/neurocult/agency) - Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach. <sub>⭐ 515 · Go</sub>
-- [camenduru/TostUI](https://github.com/camenduru/TostUI) - This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the deployment of these AI tools by… <sub>⭐ 511 · TypeScript</sub>
-- [ing-bank/popmon](https://github.com/ing-bank/popmon) - Monitor the stability of a Pandas or Spark dataframe ︎ <sub>⭐ 511 · Python</sub>
-- [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS <sub>⭐ 511 · Python</sub>
-- [NVIDIA/flashdreams](https://github.com/NVIDIA/flashdreams) - high-performance inference and serving library for interactive autoregressive video and world models <sub>⭐ 510 · Python</sub>
-- [NightMean/OlliteRT](https://github.com/NightMean/OlliteRT) - Turn your Android phone into an OpenAI-compatible LLM inference server - Fully local, private and Open Source <sub>⭐ 506 · Kotlin</sub>
-- [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI <sub>⭐ 505 · Python</sub>
-- [Chen-zexi/vllm-cli](https://github.com/Chen-zexi/vllm-cli) - A command-line interface tool for serving LLM using vLLM. <sub>⭐ 504 · Python</sub>
-- [mozilla-ai/otari](https://github.com/mozilla-ai/otari) - Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. <sub>⭐ 502 · Python</sub>
-- [amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization](https://github.com/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization) - Programming assignments and quizzes from all courses within the Machine Learning Engineering for Production (MLOps) specialization offered by deeplearning.ai <sub>⭐ 501 · Jupyter Notebook</sub>
-- [deadbits/vigil-llm](https://github.com/deadbits/vigil-llm) - Vigil Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs <sub>⭐ 498 · Python</sub>
-- [leptonai/gpud](https://github.com/leptonai/gpud) - GPUd automates monitoring, diagnostics, and issue identification for GPUs <sub>⭐ 495 · Go</sub>
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems <sub>⭐ 490 · Python</sub>
-- [fuzzylabs/awesome-open-mlops](https://github.com/fuzzylabs/awesome-open-mlops) - The Fuzzy Labs guide to the universe of open source MLOps <sub>⭐ 483</sub>
-- [DashAISoftware/dashAI](https://github.com/DashAISoftware/dashAI) - dashAI: an interactive platform for training, evaluating and deploying AI models <sub>⭐ 479 · Python</sub>
-- [udacity/sagemaker-deployment](https://github.com/udacity/sagemaker-deployment) - Code and associated files for the deploying ML models within AWS SageMaker <sub>⭐ 479 · Jupyter Notebook</sub>
-- [paulpierre/markdown-crawler](https://github.com/paulpierre/markdown-crawler) - A multithreaded web crawler that recursively crawls a website and creates a markdown file for each page, designed for LLM RAG <sub>⭐ 474 · Python</sub>
-- [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) - A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps… <sub>⭐ 473 · Astro</sub>
-- [loglabs/mltrace](https://github.com/loglabs/mltrace) - Coarse-grained lineage and tracing for machine learning pipelines. <sub>⭐ 469 · Python</sub>
-- [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The Runpod worker template for serving our large language model endpoints. Powered by vLLM. <sub>⭐ 468 · Python</sub>
-- [databrickslabs/dbx](https://github.com/databrickslabs/dbx) - Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management. <sub>⭐ 465 · Python</sub>
-- [deployKF/deployKF](https://github.com/deployKF/deployKF) - deployKF builds machine learning platforms on Kubernetes. We combine the best of Kubeflow, Airflow†, and MLflow† into a complete platform. <sub>⭐ 464 · Shell</sub>
-- [AI-Hypercomputer/JetStream](https://github.com/AI-Hypercomputer/JetStream) - JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome). <sub>⭐ 463 · Python</sub>
-- [viveknaskar/everything-ai-ml](https://github.com/viveknaskar/everything-ai-ml) - A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more. <sub>⭐ 462 · TypeScript</sub>
-- [qualcomm/ai-hub-apps](https://github.com/qualcomm/ai-hub-apps) - The Qualcomm® AI Hub apps are a collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices. <sub>⭐ 461 · Python</sub>
-- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - Keras based framework for neuro-symbolic LM systems <sub>⭐ 461 · Python</sub>
-- [NLPOptimize/flash-tokenizer](https://github.com/NLPOptimize/flash-tokenizer) - EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING <sub>⭐ 458 · C++</sub>
-- [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream <sub>⭐ 456 · C++</sub>
-- [Writesonic/GPTRouter](https://github.com/Writesonic/GPTRouter) - Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability. <sub>⭐ 454 · TypeScript</sub>
-- [SonySemiconductorSolutions/mct-model-optimization](https://github.com/SonySemiconductorSolutions/mct-model-optimization) - Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers… <sub>⭐ 453 · Python</sub>
-- [polyaxon/haupt](https://github.com/polyaxon/haupt) - Lineage metadata API, artifacts streams, sandbox, API, and spaces for Polyaxon <sub>⭐ 451 · Python</sub>
-- [aporia-ai/mlplatform-workshop](https://github.com/aporia-ai/mlplatform-workshop) - Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more <sub>⭐ 443 · TypeScript</sub>
-- [fmind/cookiecutter-mlops-package](https://github.com/fmind/cookiecutter-mlops-package) - Start building and deploying Python packages and Docker images for MLOps tasks. <sub>⭐ 442 · Python</sub>
-- [Kenza-AI/sagify](https://github.com/Kenza-AI/sagify) - LLMs and Machine Learning done easily <sub>⭐ 442 · Python</sub>
-- [tensorflow/tflite-support](https://github.com/tensorflow/tflite-support) - TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices. <sub>⭐ 441 · C++</sub>
-- [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID transactions. YTDB supports both embedded… <sub>⭐ 437 · Java</sub>
-- [Nexus-Router/nexus](https://github.com/Nexus-Router/nexus) - Govern & Secure your AI <sub>⭐ 436 · Rust</sub>
-- [noahgift/Python-MLOps-Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook) - This is an example of a Containerized Flask Application that can deploy to many target environments including: AWS, GCP and Azure. <sub>⭐ 435 · Jupyter Notebook</sub>
-- [modelence/modelence](https://github.com/modelence/modelence) - Modelence is a production cloud on autopilot, where you can deploy and run your backend, databases and scheduled jobs, monitored and operated by agents. <sub>⭐ 431 · TypeScript</sub>
-- [cloudshipai/station](https://github.com/cloudshipai/station) - Station is our open-source runtime that lets teams deploy agents on their own infrastructure with full control. <sub>⭐ 430 · Go</sub>
-- [ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022) - This repository offers a goldmine of materials for students of computer vision, natural language processing, and machine learning operations. <sub>⭐ 422 · Jupyter Notebook</sub>
-- [Bismuth-Consultancy-BV/MLOPs](https://github.com/Bismuth-Consultancy-BV/MLOPs) - Machine Learning Toolset for Houdini <sub>⭐ 422 · Python</sub>
-- [casys-kaist/LLMServingSim](https://github.com/casys-kaist/LLMServingSim) - LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure <sub>⭐ 414 · Python</sub>
-- [jjiantong/Awesome-KV-Cache-Optimization](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) - (ACL 2026) Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization <sub>⭐ 412 · Python</sub>
-- [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry <sub>⭐ 412 · TypeScript</sub>
-- [kennethleungty/MLOps-Specialization-Notes](https://github.com/kennethleungty/MLOps-Specialization-Notes) - Notes for Machine Learning Engineering for Production (MLOps) Specialization course by DeepLearning.AI & Andrew Ng <sub>⭐ 411</sub>
-- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for Azure OpenAI, LLMs (+RAG, Agents). Monthly Updates. <sub>⭐ 410 · Python</sub>
-- [myelintek/primehub](https://github.com/myelintek/primehub) - open-source MLOps platform <sub>⭐ 410 · Shell</sub>
-- [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) - Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back. <sub>⭐ 409 · TypeScript</sub>
-- [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) - A simple TUI for serving local LLM models. Pick a model, pick a backend, serve it <sub>⭐ 405 · Rust</sub>
-- [george0st/qgate-model](https://github.com/george0st/qgate-model) - ML/AI meta-model, used in MLRun/Iguazio/Nuclio, see qgate-sln <sub>⭐ 405 · Python</sub>
-- [microsoft/ActiveDirectoryTierModel](https://github.com/microsoft/ActiveDirectoryTierModel) - Deployment of an Active Directory Tier Model structure to support Tier 0, Tier 1, and Tier 2 objects. <sub>⭐ 404 · PowerShell</sub>
-- [operatorai/modelstore](https://github.com/operatorai/modelstore) - modelstore is a Python library that allows you to version, export, and save a machine learning model to your filesystem or a cloud storage provider. <sub>⭐ 403 · Python</sub>
-- [WarrenWen666/AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - A Survey of AI startups <sub>⭐ 399</sub>
-- [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) - The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent from what they find. <sub>⭐ 396 · Python</sub>
-- [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) - NVSentinel detects and remediates GPU faults on Kubernetes nodes <sub>⭐ 393 · Go</sub>
-- [xmba15/onnx_runtime_cpp](https://github.com/xmba15/onnx_runtime_cpp) - small c++ library to quickly deploy models using onnxruntime <sub>⭐ 393 · C++</sub>
-- [mlop-ai/mlop](https://github.com/mlop-ai/mlop) - Next Generation Experimental Tracking for Machine Learning Operations <sub>⭐ 392 · Python</sub>
-- [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV. <sub>⭐ 390 · Python</sub>
-- [TensorOpsAI/LLMstudio](https://github.com/TensorOpsAI/LLMstudio) - Framework to bring LLM applications to production <sub>⭐ 389 · Python</sub>
-- [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs <sub>⭐ 385 · Rust</sub>
-- [Pythondeveloper6/Awesome-MLOPS](https://github.com/Pythondeveloper6/Awesome-MLOPS) - All the available resources to master MLOPS from scratch <sub>⭐ 383</sub>
-- [zmedelis/bosquet](https://github.com/zmedelis/bosquet) - Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications. <sub>⭐ 380 · Clojure</sub>
-- [mlacademyai/Machine-Learning-Roadmap](https://github.com/mlacademyai/Machine-Learning-Roadmap) - Machine Learning Roadmap for 2025. Step-by-step guide to become a Data Scientist. Covers the best free learning resources from Python basics to Deep Learning and MLOps. <sub>⭐ 378</sub>
-- [Paulescu/image-classification-with-local-vlms](https://github.com/Paulescu/image-classification-with-local-vlms) - Learn to build and deploy local Visual Language Models for Edge AI <sub>⭐ 377 · Jupyter Notebook</sub>
-- [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel. <sub>⭐ 377 · Python</sub>
-- [microsoft/genaiops-promptflow-template](https://github.com/microsoft/genaiops-promptflow-template) - GenAIOps with Prompt Flow is a "GenAIOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle… <sub>⭐ 368 · Python</sub>
-- [EfficientMoE/MoE-Infinity](https://github.com/EfficientMoE/MoE-Infinity) - PyTorch library for cost-effective, fast and easy serving of MoE models. <sub>⭐ 367 · Python</sub>
-- [udacity/ML_SageMaker_Studies](https://github.com/udacity/ML_SageMaker_Studies) - Case studies, examples, and exercises for learning to deploy ML models using AWS SageMaker. <sub>⭐ 367 · Jupyter Notebook</sub>
-- [interestingLSY/swiftLLM](https://github.com/interestingLSY/swiftLLM) - A tiny yet powerful LLM inference system tailored for researching purpose. vLLM-equivalent performance with only 2k lines of code (2% of vLLM). <sub>⭐ 358 · Python</sub>
-- [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - A comprehensive set of LLM benchmark scores and provider prices. (deprecated, read more in README) <sub>⭐ 356 · JavaScript</sub>
-- [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) - Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and structured output. Supports vLLM, SGLang, and llama.cpp. <sub>⭐ 356 · Python</sub>
-- [xandie985/data-scientist-roadmap2024](https://github.com/xandie985/data-scientist-roadmap2024) - Here lies the resources and topics necessary for the role of Data Scientist and Machine Learning <sub>⭐ 355 · Jupyter Notebook</sub>
-- [alibaba/feathub](https://github.com/alibaba/feathub) - FeatHub - A stream-batch unified feature store for real-time machine learning <sub>⭐ 351 · Python</sub>
-- [Unity-Technologies/Robotics-Object-Pose-Estimation](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation) - A complete end-to-end demonstration in which we collect training data in Unity and use that data to train a deep neural network to predict the pose of a cube. This model is then deployed in a… <sub>⭐ 351 · Python</sub>
-- [FocoosAI/focoos](https://github.com/FocoosAI/focoos) - Lightning-fast computer vision models. Fine-tune SOTA models with just a few lines of code. Ready for cloud and edge deployment. <sub>⭐ 350 · Python</sub>
-- [openfoundry-ai/model_manager](https://github.com/openfoundry-ai/model_manager) - Model Manager is a Python package that simplifies the process of deploying an open source AI model to your own cloud. <sub>⭐ 349 · Python</sub>
-- [efeslab/Atom](https://github.com/efeslab/Atom) - (MLSys'24) Atom: Low-bit Quantization for Efficient and Accurate LLM Serving <sub>⭐ 348 · Cuda</sub>
-- [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model routing using your logic or ours <sub>⭐ 347 · Python</sub>
-- [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint.… <sub>⭐ 345 · Swift</sub>
-- [antoinebrl/awesome-ml-blogs](https://github.com/antoinebrl/awesome-ml-blogs) - Curated list of technical blogs on machine learning · AI/ML/DL/CV/NLP/MLOps <sub>⭐ 343</sub>
-- [m3dev/gokart](https://github.com/m3dev/gokart) - Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline. <sub>⭐ 342 · Python</sub>
-- [microsoft/vscode-tools-for-ai](https://github.com/microsoft/vscode-tools-for-ai) - Azure Machine Learning for Visual Studio Code, previously called Visual Studio Code Tools for AI, is an extension to easily build, train, and deploy machine learning models to the cloud or the edge… <sub>⭐ 339 · Python</sub>
-- [SartHak-0-Sach/Harkirat-Singh-course_code_and_notes](https://github.com/SartHak-0-Sach/Harkirat-Singh-course_code_and_notes) - A comprehensive resource hub for mastering web development, covering everything from fundamental concepts to advanced topics and project-based learning. This also includes my notes on various other… <sub>⭐ 337 · HTML</sub>
-- [aws-samples/mlops-amazon-sagemaker](https://github.com/aws-samples/mlops-amazon-sagemaker) - Workshop content for applying DevOps practices to Machine Learning workloads using Amazon SageMaker <sub>⭐ 335 · Jupyter Notebook</sub>
-- [Hale423/CenterPoint](https://github.com/Hale423/CenterPoint) - TensorRT deployment for CenterPoint Lidar Detection Model. <sub>⭐ 332 · C++</sub>
-- [sgl-project/genai-bench](https://github.com/sgl-project/genai-bench) - Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluation of large language model (LLM) serving systems. <sub>⭐ 332 · Python</sub>
-- [brycewang-stanford/StatsPAI](https://github.com/brycewang-stanford/StatsPAI) - StatsPAI is the first Agent-native Python library for causal inference and applied econometrics — unified API, broad cross-method coverage, structured result objects, machine-readable schemas… <sub>⭐ 329 · Python</sub>
-- [lhenault/simpleAI](https://github.com/lhenault/simpleAI) - An easy way to host your own AI API and expose alternative models, while being compatible with "open" AI clients. <sub>⭐ 327 · Python</sub>
-- [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications. <sub>⭐ 327 · Python</sub>
-- [aerlabsAI/ai-inference-resources](https://github.com/aerlabsAI/ai-inference-resources) - Curated collection of AI inference engineering resources — LLM serving, GPU kernels, quantization, distributed inference, and production deployment. Compiled from the AER Labs community. <sub>⭐ 326</sub>
-- [mlops-guide/mlops-guide.github.io](https://github.com/mlops-guide/mlops-guide.github.io) - MLOps end-to-end guide and tutorial website, using IBM Watson, DVC, CML, Terraform, Github Actions and more. <sub>⭐ 326 · JavaScript</sub>
-- [EdjeElectronics/Train-and-Deploy-YOLO-Models](https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models) - Tutorials and examples showing how to train and deploy Ultralytics YOLO models <sub>⭐ 324 · Jupyter Notebook</sub>
-- [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration. <sub>⭐ 323 · Rust</sub>
-- [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible. <sub>⭐ 320 · Python</sub>
-- [deep-diver/llamaduo](https://github.com/deep-diver/llamaduo) - (ACL'25) Official Code for LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs <sub>⭐ 318 · Python</sub>
-- [MinhNguyenDS/AI-pdf-books](https://github.com/MinhNguyenDS/AI-pdf-books) - The AI/Data book repository for AI Engineers, ML Engineers, LLMOps, MLOps, and Data Scientists <sub>⭐ 318</sub>
-- [craftgen/craftgen](https://github.com/craftgen/craftgen) - Integrating AI into every workflow with our open-source, no-code platform, powered by the actor model for dynamic, graph-based solutions. <sub>⭐ 317 · TypeScript</sub>
-- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open Managed Agents — an open-source alternative to Claude Managed Agents and OpenAI Agents API. Deploy with Node.js or Docker, run on Cloudflare, or use hosted OpenMA. Choose your models, harnesses… <sub>⭐ 314 · TypeScript</sub>
-- [allwefantasy/byzer-llm](https://github.com/allwefantasy/byzer-llm) - Easy, fast, and cheap pretrain,finetune, serving for everyone <sub>⭐ 313 · Python</sub>
-- [clearml/clearml-agent](https://github.com/clearml/clearml-agent) - ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution <sub>⭐ 313 · Python</sub>
-- [zorost/AI-Engineering-Lab](https://github.com/zorost/AI-Engineering-Lab) - A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous… <sub>⭐ 313 · Jupyter Notebook</sub>
-- [ayush714/mlops-roadmap](https://github.com/ayush714/mlops-roadmap) - Roadmap for MLOps <sub>⭐ 305</sub>
-- [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK for running evaluations on LLM generated responses <sub>⭐ 303 · Python</sub>
-- [geo-data/cesium-terrain-server](https://github.com/geo-data/cesium-terrain-server) - A basic server for serving up filesystem based tilesets representing Cesium.js terrain models <sub>⭐ 303 · Go</sub>
-- [raminmohammadi/MLOps](https://github.com/raminmohammadi/MLOps) - Machine Learning In Production (MLOps) <sub>⭐ 303 · Jupyter Notebook</sub>
-- [iSoumyaDey/Awesome-Web-Hosting-2026](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026) - The Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free. <sub>⭐ 302</sub>
-- [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) - A personal research and development (R&D) lab that facilitates the sharing of knowledge. <sub>⭐ 299 · Python</sub>
-- [runtm-ai/runtm](https://github.com/runtm-ai/runtm) - Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and other agents code and deploy software. <sub>⭐ 299 · Python</sub>
-- [vortico/flama](https://github.com/vortico/flama) - The production framework for Predictive and Generative AI. Serve any model as an API in one line, with OpenAI/Anthropic/Ollama-compatible endpoints, a built-in chat UI, and native MCP. <sub>⭐ 299 · Python</sub>
-- [zenml-io/kitaru](https://github.com/zenml-io/kitaru) - Agent traces you can run, not just read. <sub>⭐ 299 · Python</sub>
-- [george0st/qgate-sln-mlrun](https://github.com/george0st/qgate-sln-mlrun) - MLRun/Iguazio/Nuclio quality gate solution. The solution checks a quality of MLRun implementation/delivery. <sub>⭐ 298 · Python</sub>
-- [rlops/rlix](https://github.com/rlops/rlix) - Run more RL experiments. Wait less for GPUs. <sub>⭐ 297 · Python</sub>
-- [InfuseAI/crane](https://github.com/InfuseAI/crane) - Crane is a easy-to-use and beautiful desktop application helps you build manage your container images. <sub>⭐ 295 · TypeScript</sub>
-- [iterative/terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin for machine learning workloads: spot instance recovery & auto-termination / AWS, GCP, Azure, Kubernetes <sub>⭐ 295 · Go</sub>
-- [ensemble-core/NdLinear](https://github.com/ensemble-core/NdLinear) - NdLinear by Ensemble is a drop-in PyTorch module that shrinks your models with no accuracy loss. It powers the Ensemble Platform—upload any model and get back a smaller, faster version, ready to… <sub>⭐ 294 · Python</sub>
-- [ohmeow/blurr](https://github.com/ohmeow/blurr) - A library that integrates huggingface transformers with the world of fastai, giving fastai devs everything they need to train, evaluate, and deploy transformer specific models. <sub>⭐ 294 · Jupyter Notebook</sub>
-- [HPMLL/BurstGPT](https://github.com/HPMLL/BurstGPT) - A ChatGPT(GPT-3.5) & GPT-4 Workload Trace to Optimize LLM Serving Systems <sub>⭐ 293 · Python</sub>
-- [llSourcell/how_to_deploy_a_keras_model_to_production](https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production) - This is the code for the "How to Deploy a Keras Model to Production" by Siraj Raval on Youtube <sub>⭐ 291 · Python</sub>
-- [global-fde/awesome-fde-resources](https://github.com/global-fde/awesome-fde-resources) - A curated collection of resources, tools, practices, case studies, and opportunities for Forward Deployed Engineers. <sub>⭐ 287 · Python</sub>
-- [orneryd/Mimir](https://github.com/orneryd/Mimir) - Mimir - Fully open and customizable memory bank with semantic vector search capabilities for locally indexed files (Code Intelligence) and stored memories that are shared across sessions and chat… <sub>⭐ 287 · Go</sub>
-- [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts, with sections on operations and security, as well as development. <sub>⭐ 285 · Jupyter Notebook</sub>
-- [Media-Smart/volksdep](https://github.com/Media-Smart/volksdep) - volksdep is an open-source toolbox for deploying and accelerating PyTorch, ONNX and TensorFlow models with TensorRT. <sub>⭐ 285 · Python</sub>
-- [tensorchord/openmodelz](https://github.com/tensorchord/openmodelz) - Autoscale LLM (vLLM, SGLang, LMDeploy) inferences on Kubernetes (and others) <sub>⭐ 284 · Go</sub>
-- [ai-dynamo/aitune](https://github.com/ai-dynamo/aitune) - NVIDIA AITune is an inference toolkit designed for tuning and deploying Deep Learning models with a focus on NVIDIA GPUs. <sub>⭐ 282 · Python</sub>
-- [beehive-lab/jitllm](https://github.com/beehive-lab/jitllm) - Java Inference Tornado toolkit: High performance LLM inference & serving for the JVM on GPUs <sub>⭐ 282 · Java</sub>
-- [isarsoft/yolov4-triton-tensorrt](https://github.com/isarsoft/yolov4-triton-tensorrt) - This repository deploys YOLOv4 as an optimized TensorRT engine to Triton Inference Server <sub>⭐ 282 · C++</sub>
-- [qiantongtech/qKnow](https://github.com/qiantongtech/qKnow) - qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge graphs, RAG, and bot building, encapsulating industry AI into standardized modules… <sub>⭐ 282 · Java</sub>
-- [Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples) - The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform. <sub>⭐ 277 · C++</sub>
-- [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - In this project, I have utilized survival analysis models to see how the likelihood of the customer churn changes over time and to calculate customer LTV. I have also implemented the Random Forest… <sub>⭐ 275 · Jupyter Notebook</sub>
-- [llSourcell/How-to-Deploy-a-Tensorflow-Model-in-Production](https://github.com/llSourcell/How-to-Deploy-a-Tensorflow-Model-in-Production) - This is the code for the "How to Deploy a Tensorflow Model in Production" by Siraj Raval on YouTube <sub>⭐ 274 · Python</sub>
-- [ai-dynamo/grove](https://github.com/ai-dynamo/grove) - Kubernetes enhancements for Network Topology Aware Gang Scheduling & Autoscaling <sub>⭐ 273 · Go</sub>
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) - A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems. <sub>⭐ 273 · Python</sub>
-- [guojin-yan/YoloDeployCsharp](https://github.com/guojin-yan/YoloDeployCsharp) - Deploying Yolov8-det, Yolov8-pose, Yolov8-cls, and Yolov8-seg models based on C # programming language. <sub>⭐ 272 · C#</sub>
-- [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) - Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost controls. Go-native Fastest & Scalable AI Gateway LiteLLM & Kong AI Gateway… <sub>⭐ 270 · Go</sub>
-- [physhik/ecg-mit-bih](https://github.com/physhik/ecg-mit-bih) - ECG classification using MIT-BIH data, a deep CNN learning implementation of Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network… <sub>⭐ 270 · Python</sub>
-- [automorphic-ai/aegis](https://github.com/automorphic-ai/aegis) - Self-hardening firewall for large language models <sub>⭐ 269 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [NVIDIA/DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across… <sub>⭐ 266 · C++</sub>
-- [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering <sub>⭐ 264 · Java</sub>
-- [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools. <sub>⭐ 264 · Python</sub>
-- [IFCA-Advanced-Computing/frouros](https://github.com/IFCA-Advanced-Computing/frouros) - Frouros: an open-source Python library for drift detection in machine learning systems. <sub>⭐ 261 · Python</sub>
-- [GoogleCloudPlatform/automlops](https://github.com/GoogleCloudPlatform/automlops) - Build MLOps Pipelines in Minutes <sub>⭐ 257 · Python</sub>
+- [polyaxon/traceml](https://github.com/polyaxon/traceml) - AI/ML/データ追跡、可視化、説明性、ドリフト検知、Polyaxon 用のダッシュボードのエンジン <sub>⭐ 534 · Python</sub>
+- [superlinked/VectorHub](https://github.com/superlinked/VectorHub) - 以前のレポを廃止。スーパーリンクは、埋め込むための自己ホスト型推論エンジンであるSIEを開発し、再興、OCR、抽出および文書処理を行います。 <sub>⭐ 531 · Jupyter Notebook</sub>
+- [the-full-stack/fsdl-text-recognizer-2022-labs](https://github.com/the-full-stack/fsdl-text-recognizer-2022-labs) - フルスタックディープラーニング、2022版で開発された完全な深層学習プロジェクト。 https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022から自動生成 <sub>⭐ 531 · Jupyter Notebook</sub>
+- [skops-dev/skops](https://github.com/skops-dev/skops) - skopsは、Scikit-learnベースのモデルを共有し、それらを生産に入れるのに役立つPythonライブラリです。 <sub>⭐ 529 · Python</sub>
+- [triton-inference-server/model_analyzer](https://github.com/triton-inference-server/model_analyzer) - Triton Model Analyzerは、Triton Inference Serverモデルの計算とメモリ要件をよりよく理解するのに役立ちます。 <sub>⭐ 529 · Python</sub>
+- [microsoft/sarathi-serve](https://github.com/microsoft/sarathi-serve) - LLM用低レイテンシー&高スループットサービングエンジン <sub>⭐ 528 · Python</sub>
+- [CerebriumAI/examples](https://github.com/CerebriumAI/examples) - Cerebrium Serverless GPUの事例 <sub>⭐ 526 · Python</sub>
+- [microsoft/vattention](https://github.com/microsoft/vattention) - PagedAttention なしで LLM をサービングするための動的メモリ管理 <sub>⭐ 524 · C</sub>
+- [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - LLM-Poweredアプリケーション向けデータ駆動評価 <sub>⭐ 518 · Python</sub>
+- [neurocult/agency](https://github.com/neurocult/agency) - 開発者が、大規模ランゲージモデル(LLM)やその他遺伝子型AIの潜在能力をクリーンで効果的かつGo-idiomaticアプローチで探索できるように設計したライブラリ。 <sub>⭐ 515 · Go</sub>
+- [camenduru/TostUI](https://github.com/camenduru/TostUI) - このプロジェクトは、Docker ベースの Web ユーザーインターフェイスのコレクションで、さまざまな最新鋭の AI モデルをローカルに簡単に実行できます。これらのAI ツールの展開を簡素化します。 <sub>⭐ 511 · TypeScript</sub>
+- [ing-bank/popmon](https://github.com/ing-bank/popmon) - パンダやスパークデータフレームの安定性を監視 <sub>⭐ 511 · Python</sub>
+- [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - WebRTC、REST、WS を横断する ASR/STT、TTS、LM をサポートするオープンソース、ローカルおよびセルフホストの高度に最適化された言語推論サーバー <sub>⭐ 511 · Python</sub>
+- [NVIDIA/flashdreams](https://github.com/NVIDIA/flashdreams) - インタラクティブなオートレグレッシブビデオと世界モデルのための高性能推論およびサービングライブラリ <sub>⭐ 510 · Python</sub>
+- [NightMean/OlliteRT](https://github.com/NightMean/OlliteRT) - Android 携帯電話を OpenAI 互換 LLM インフェレンス サーバーに変える - ローカル、プライベートおよびオープンソース <sub>⭐ 506 · Kotlin</sub>
+- [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - ストリームリットとFastAPIを使用してPyTorchモデルを提供するシンプルなWebアプリ例 <sub>⭐ 505 · Python</sub>
+- [Chen-zexi/vllm-cli](https://github.com/Chen-zexi/vllm-cli) - vLLM を使用して LLM をサービングするためのコマンドラインインターフェイスツールです。 <sub>⭐ 504 · Python</sub>
+- [mozilla-ai/otari](https://github.com/mozilla-ai/otari) - オープンソース、OpenAI対応のLMゲートウェイ。40以上のプロバイダーに1つのエンドポイントがあり、バーチャルキー、予算、使用状況トラッキング機能を備えています。 <sub>⭐ 502 · Python</sub>
+- [amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization](https://github.com/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization) - プログラミングの課題と、マシンラーニングエンジニアリング(MLOps)の専門分野におけるすべてのコースからのクイズが深まる学習.aiによって提供される <sub>⭐ 501 · Jupyter Notebook</sub>
+- [deadbits/vigil-llm](https://github.com/deadbits/vigil-llm) - Vigil は、迅速な注射や脱獄、その他の潜在的なリスクの高い大きな言語モデル (LLM) 入力を検出します。 <sub>⭐ 498 · Python</sub>
+- [leptonai/gpud](https://github.com/leptonai/gpud) - GPUdは監視、診断およびGPUのための問題の同一証明を自動化します <sub>⭐ 495 · Go</sub>
+- [operand/agency](https://github.com/operand/agency) - エージェントシステムの構築のための高速かつ最小限のフレームワーク <sub>⭐ 490 · Python</sub>
+- [fuzzylabs/awesome-open-mlops](https://github.com/fuzzylabs/awesome-open-mlops) - Fuzzy Labs はオープンソースの宇宙をガイドします。 <sub>⭐ 483</sub>
+- [DashAISoftware/dashAI](https://github.com/DashAISoftware/dashAI) - dashAI: AIモデルのトレーニング、評価および展開のためのインタラクティブなプラットフォーム <sub>⭐ 479 · Python</sub>
+- [udacity/sagemaker-deployment](https://github.com/udacity/sagemaker-deployment) - AWS SageMaker内のMLモデルの展開に関するコードと関連ファイル <sub>⭐ 479 · Jupyter Notebook</sub>
+- [paulpierre/markdown-crawler](https://github.com/paulpierre/markdown-crawler) - ウェブサイトを再帰的にクロールし、LM RAGのために設計された各ページのマークダウンファイルを作成するマルチスレッドWebクローラー <sub>⭐ 474 · Python</sub>
+- [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) - 機械学習とAIシステムを保護するためのMLSecOpsツールおよびリソースのキュレーションリスト - 副業ML防衛、LMLセキュリティ、AI赤チーム編成、モデルスキャン、サプライチェーン保護、MLOps... <sub>⭐ 473 · Astro</sub>
+- [loglabs/mltrace](https://github.com/loglabs/mltrace) - 機械学習パイプラインのための粗挽きライン数およびトレース。 <sub>⭐ 469 · Python</sub>
+- [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - ランポッドワーカーのテンプレートは、大きな言語モデルのエンドポイントを提供します。 vLLM によって機能します。 <sub>⭐ 468 · Python</sub>
+- [databrickslabs/dbx](https://github.com/databrickslabs/dbx) - Databricks CLI eXtensions - akadbxは、開発と高度なDatabricksワークフロー管理のためのCLIツールです。 <sub>⭐ 465 · Python</sub>
+- [deployKF/deployKF](https://github.com/deployKF/deployKF) - deployKFはKubernetesで機械学習プラットフォームを構築しています。Kubeflow、Airflow、MLflow†のベストを完全なプラットフォームにまとめています。 <sub>⭐ 464 · Shell</sub>
+- [AI-Hypercomputer/JetStream](https://github.com/AI-Hypercomputer/JetStream) - JetStream は、LMA デバイスの LLM インフェレンス用のスループットとメモリの最適化エンジンで、TPU(および将来の GPU)から始まります。 <sub>⭐ 463 · Python</sub>
+- [viveknaskar/everything-ai-ml](https://github.com/viveknaskar/everything-ai-ml) - 人工知能、機械学習、AI、LLM、RAG、微調整、MLOpsなどの学習リソースの収集。 <sub>⭐ 462 · TypeScript</sub>
+- [qualcomm/ai-hub-apps](https://github.com/qualcomm/ai-hub-apps) - Qualcomm® AI Hubアプリは、パフォーマンス(レイテンシー、メモリなど)に最適化された最先端の機械学習モデルのコレクションであり、Qualcomm®デバイスにデプロイする準備が整っています。 <sub>⭐ 461 · Python</sub>
+- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - Kerasはニューロン・シンボリックLMシステムのためのフレームワークを基づかせていました <sub>⭐ 461 · Python</sub>
+- [NLPOptimize/flash-tokenizer](https://github.com/NLPOptimize/flash-tokenizer) - LLMインフルエンサーのための有効な、選択されたTOKENIZERエンジン <sub>⭐ 458 · C++</sub>
+- [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - DeepStream で訓練されたモデルをデプロイする方法を示すアプリのサンプル <sub>⭐ 456 · C++</sub>
+- [Writesonic/GPTRouter](https://github.com/Writesonic/GPTRouter) - 複数のLLM(OpenAI、Anthropic、Azure)および画像モデル(Dall-E、SDXL)を滑らかに管理し、応答の速度を高め、非ストップ信頼性を確保します。 <sub>⭐ 454 · TypeScript</sub>
+- [SonySemiconductorSolutions/mct-model-optimization](https://github.com/SonySemiconductorSolutions/mct-model-optimization) - モデルコンプレッションツールキット(MCT)は、効率的で制約のあるハードウェアの下でニューラルネットワークモデルの最適化のためのオープンソースプロジェクトです。 このプロジェクトでは、研究者や開発者、エンジニアがいます... <sub>⭐ 453 · Python</sub>
+- [polyaxon/haupt](https://github.com/polyaxon/haupt) - 線状メタデータ API、アーティファクトストリーム、サンドボックス、API、およびPolyaxonのスペース <sub>⭐ 451 · Python</sub>
+- [aporia-ai/mlplatform-workshop](https://github.com/aporia-ai/mlplatform-workshop) - プルミ、FastAPI、DVC、MLFlowなどに基づく基本的なMLプラットフォームのサンプルコード <sub>⭐ 443 · TypeScript</sub>
+- [fmind/cookiecutter-mlops-package](https://github.com/fmind/cookiecutter-mlops-package) - MLOps タスク用の Python パッケージと Docker イメージのビルドおよびデプロイを開始します。 <sub>⭐ 442 · Python</sub>
+- [Kenza-AI/sagify](https://github.com/Kenza-AI/sagify) - LLMと機械学習が簡単に完了 <sub>⭐ 442 · Python</sub>
+- [tensorflow/tflite-support](https://github.com/tensorflow/tflite-support) - TFLiteサポートは、ユーザーがMLを開発し、モバイル/ ioTデバイスにTFLiteモデルをデプロイするのに役立つツールキットです。 <sub>⭐ 441 · C++</sub>
+- [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDBは、グラフのリレーションを処理するためにネイティブなストレージフォーマットを備えた汎用オブジェクト指向のグラフデータベースです。 YouTrackDBは、グレムリンクエリとACIDトランザクションをサポートしています。 YTDBは、両方の組み込みをサポート... <sub>⭐ 437 · Java</sub>
+- [Nexus-Router/nexus](https://github.com/Nexus-Router/nexus) - AIを管理・保護する <sub>⭐ 436 · Rust</sub>
+- [noahgift/Python-MLOps-Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook) - これは、AWS、GCP、Azureなどの多くのターゲット環境に展開できるコンテナ化されたフラスコアプリケーションの例です。 <sub>⭐ 435 · Jupyter Notebook</sub>
+- [modelence/modelence](https://github.com/modelence/modelence) - Modelence は autopilot のプロダクションクラウドです。バックエンド、データベース、スケジュールされたジョブをデプロイして実行し、エージェントによって監視および操作できます。 <sub>⭐ 431 · TypeScript</sub>
+- [cloudshipai/station](https://github.com/cloudshipai/station) - ステーションは、チームを完全に制御して自分のインフラにエージェントを配置するオープンソースのランタイムです。 <sub>⭐ 430 · Go</sub>
+- [ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022) - このリポジトリは、コンピュータビジョン、自然言語処理、機械学習操作の学生のための材料の金峰を提供します。 <sub>⭐ 422 · Jupyter Notebook</sub>
+- [Bismuth-Consultancy-BV/MLOPs](https://github.com/Bismuth-Consultancy-BV/MLOPs) - Houdiniのための機械学習ツールセット <sub>⭐ 422 · Python</sub>
+- [casys-kaist/LLMServingSim](https://github.com/casys-kaist/LLMServingSim) - LLMServingSim 2.0:ヘテロジェンシーと解散LLMサービングインフラストラクチャのための統一されたシミュレータ <sub>⭐ 414 · Python</sub>
+- [jjiantong/Awesome-KV-Cache-Optimization](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) - (ACL 2026) 効率的な大型言語モデルのサービングに向けて: システム-Aware KVキャッシュ最適化に関する調査 <sub>⭐ 412 · Python</sub>
+- [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - OpenLLMetryの姉妹プロジェクトが、Typescriptで。OpenTelemetryに基づくLLMアプリケーション用のオープンソースの保守性 <sub>⭐ 412 · TypeScript</sub>
+- [kennethleungty/MLOps-Specialization-Notes](https://github.com/kennethleungty/MLOps-Specialization-Notes) - DeepLearning.AI&Andrew Ngによる機械学習工学(MLOps)専門化コースのノート <sub>⭐ 411</sub>
+- [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - Azure OpenAI、LLM(+RAG、エージェント)のリソースを収集。 月次更新 <sub>⭐ 410 · Python</sub>
+- [myelintek/primehub](https://github.com/myelintek/primehub) - オープンソースのMLOpsプラットフォーム <sub>⭐ 410 · Shell</sub>
+- [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) - それらを子化することなく、コーディングエージェントを実行します。ジョブを集中し、境界線を付けて、チェックしてゴールすることができます。 最後に、あなたのエージェントは一晩中スモークし、戻ってあなたの時間を得る。 <sub>⭐ 409 · TypeScript</sub>
+- [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) - ローカルLLMモデルをサービングするためのシンプルなTUI。 モデルを選んで、バックエンドを選ぶと、それを提供します <sub>⭐ 405 · Rust</sub>
+- [george0st/qgate-model](https://github.com/george0st/qgate-model) - ML/AIのメタモデル、MLRun/Iguazio/Nuclioで使用される、qgate-slnを参照してください <sub>⭐ 405 · Python</sub>
+- [microsoft/ActiveDirectoryTierModel](https://github.com/microsoft/ActiveDirectoryTierModel) - Tier 0、Tier 1、およびTier 2オブジェクトをサポートするActive Directory Tier Model構造の展開。 <sub>⭐ 404 · PowerShell</sub>
+- [operatorai/modelstore](https://github.com/operatorai/modelstore) - modelstore は、ファイルシステムやクラウドストレージプロバイダに機械学習モデルをバージョン、エクスポート、保存できる Python ライブラリです。 <sub>⭐ 403 · Python</sub>
+- [WarrenWen666/AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - AIスタートアップの調査 <sub>⭐ 399</sub>
+- [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) - AIチームのためのコラボレーションレイヤー:ドメインエキスパートがエージェントの動作を注釈付け、レビューし、エンジニアは彼らが見つけたものからエージェントを改善します。 <sub>⭐ 396 · Python</sub>
+- [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) - NVSentinel は Kubernetes ノードで GPU の障害を検出し、是正します <sub>⭐ 393 · Go</sub>
+- [xmba15/onnx_runtime_cpp](https://github.com/xmba15/onnx_runtime_cpp) - 小規模な c++ ライブラリで、onnxruntime を使用してモデルを素早くデプロイする <sub>⭐ 393 · C++</sub>
+- [mlop-ai/mlop](https://github.com/mlop-ai/mlop) - 次世代機械学習オペレーションの実験的追跡 <sub>⭐ 392 · Python</sub>
+- [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameter の最適化と拡張アルゴリズムを使用して、scikit-learn のための機能選択。GridSearchCV および RandomizedSearchCV への近代的な代替。 <sub>⭐ 390 · Python</sub>
+- [TensorOpsAI/LLMstudio](https://github.com/TensorOpsAI/LLMstudio) - LLM アプリケーションを生産に持って来るフレームワーク <sub>⭐ 389 · Python</sub>
+- [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - Rust for MLOPsでソリューションを構築するための進捗状況 <sub>⭐ 385 · Rust</sub>
+- [Pythondeveloper6/Awesome-MLOPS](https://github.com/Pythondeveloper6/Awesome-MLOPS) - MLOPSをゼロからマスターするすべての利用可能なリソース <sub>⭐ 383</sub>
+- [zmedelis/bosquet](https://github.com/zmedelis/bosquet) - LLMアプリケーションの構築:AIアプリケーションのビルダーのための迅速な和らげと組成、エージェント、LLMメモリおよび他の機器。 <sub>⭐ 380 · Clojure</sub>
+- [mlacademyai/Machine-Learning-Roadmap](https://github.com/mlacademyai/Machine-Learning-Roadmap) - 2025年の機械学習ロードマップ。 データサイエンティストになるステップバイステップガイド。 Pythonの基本からディープラーニング、MLOpsまで最高の無料の学習リソースをカバーしています。 <sub>⭐ 378</sub>
+- [Paulescu/image-classification-with-local-vlms](https://github.com/Paulescu/image-classification-with-local-vlms) - Edge AI 用のローカル Visual Language モデルの構築とデプロイを学ぶ <sub>⭐ 377 · Jupyter Notebook</sub>
+- [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - このプロジェクトは、Gumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでよく設計されたHTMLページを生成し、生成されたページをVercelにデプロイするPythonスクリプトです。 <sub>⭐ 377 · Python</sub>
+- [microsoft/genaiops-promptflow-template](https://github.com/microsoft/genaiops-promptflow-template) - Prompt FlowでGenAIOpsは、Prompt Flowを使用してLM-infusedアプリをビルドするのに役立つ「GenAIOpsテンプレートとガイダンス」です。 これは、集中コードホスティング、ライフサイクルを含むさまざまな機能を提供しています... <sub>⭐ 368 · Python</sub>
+- [EfficientMoE/MoE-Infinity](https://github.com/EfficientMoE/MoE-Infinity) - MoEモデルの費用対効果が大きい、速くそして容易なサービングのためのPyTorchライブラリ。 <sub>⭐ 367 · Python</sub>
+- [udacity/ML_SageMaker_Studies](https://github.com/udacity/ML_SageMaker_Studies) - AWS SageMakerを使用してMLモデルをデプロイするためのケーススタディ、例、および演習。 <sub>⭐ 367 · Jupyter Notebook</sub>
+- [interestingLSY/swiftLLM](https://github.com/interestingLSY/swiftLLM) - 目的を研究するための小型で強力なLLM推論システムです。 vLLM相当のパフォーマンスは、コードの2k行のみ(vLLMの2%)。 <sub>⭐ 358 · Python</sub>
+- [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - LLM ベンチマークのスコアとプロバイダー価格を総合的にセット。(詳細、README で詳しく読む) <sub>⭐ 356 · JavaScript</sub>
+- [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) - LLM がスタックする品質ベンチマークを呼び出す。80以上の決定シナリオで、マルチターンオーケストレーションや安全境界をテストし、出力を構成します。vLLM、SGLang、およびllama.cpp をサポートします。 <sub>⭐ 356 · Python</sub>
+- [xandie985/data-scientist-roadmap2024](https://github.com/xandie985/data-scientist-roadmap2024) - ここでは、データサイエンティストと機械学習の役割に必要なリソースやトピックがあります <sub>⭐ 355 · Jupyter Notebook</sub>
+- [alibaba/feathub](https://github.com/alibaba/feathub) - FeatHub - リアルタイム機械学習のためのストリームバッチ統一機能ストア <sub>⭐ 351 · Python</sub>
+- [Unity-Technologies/Robotics-Object-Pose-Estimation](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation) - トレーニングデータをUnityで収集し、そのデータをディープニューラルネットワークを訓練してキューブのポーズを予測するために使用する完全なエンドツーエンドデモンストレーション。 このモデルはその後に展開されます... <sub>⭐ 351 · Python</sub>
+- [FocoosAI/focoos](https://github.com/FocoosAI/focoos) - 超高速コンピュータビジョンモデル。コードのほんの数行でSOTAモデルを微調整します。クラウドとエッジ展開のための準備ができました。 <sub>⭐ 350 · Python</sub>
+- [openfoundry-ai/model_manager](https://github.com/openfoundry-ai/model_manager) - Model Managerは、オープンソースのAIモデルを独自のクラウドにデプロイするプロセスを簡素化するPythonパッケージです。 <sub>⭐ 349 · Python</sub>
+- [efeslab/Atom](https://github.com/efeslab/Atom) - (MLSys'24) Atom: 効率的で正確なLLMサービングのための低ビット定量化 <sub>⭐ 348 · Cuda</sub>
+- [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Claudeコード用のMODを作成:任意のリクエストを探し、応答を変更します。 /model "with-your-custom-model"、ロジックまたは Oursを使用してインテリジェントなモデルルーティング <sub>⭐ 347 · Python</sub>
+- [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' コマンド cli: macOS サーバーとシングルプロンプトモードで、Apple の Foundation および MLX モデルを 1 つの集計された OpenAI 互換 API エンドポイントを介して Mac 上で実行する他の API を公開します。... <sub>⭐ 345 · Swift</sub>
+- [antoinebrl/awesome-ml-blogs](https://github.com/antoinebrl/awesome-ml-blogs) - 機械学習・AI/ML/DL/CV/NLP/MLOpsに関する技術的なブログのキュレーションリスト <sub>⭐ 343</sub>
+- [m3dev/gokart](https://github.com/m3dev/gokart) - Gokartは、再現性、タスクの依存性、良いコードの制約を解決し、機械学習パイプラインのための使いやすさを実現します。 <sub>⭐ 342 · Python</sub>
+- [microsoft/vscode-tools-for-ai](https://github.com/microsoft/vscode-tools-for-ai) - Azure Machine Learning for Visual Studio Code は、以前から「Visual Studio Code Tools for AI」と呼ばれるもので、機械学習モデルをクラウドやエッジに簡単に構築・訓練・デプロイする拡張機能です。 <sub>⭐ 339 · Python</sub>
+- [SartHak-0-Sach/Harkirat-Singh-course_code_and_notes](https://github.com/SartHak-0-Sach/Harkirat-Singh-course_code_and_notes) - 基本的な概念から高度なトピックやプロジェクトベースの学習に至るまで、Web開発をマスターするための包括的なリソースハブ。 これはまた、さまざまな他の... <sub>⭐ 337 · HTML</sub>
+- [aws-samples/mlops-amazon-sagemaker](https://github.com/aws-samples/mlops-amazon-sagemaker) - Amazon SageMakerを使用して機械学習のワークロードに DevOps プラクティスを適用するためのワークショップコンテンツ <sub>⭐ 335 · Jupyter Notebook</sub>
+- [Hale423/CenterPoint](https://github.com/Hale423/CenterPoint) - センターポイントライダー検出モデルのTensorRT展開 <sub>⭐ 332 · C++</sub>
+- [sgl-project/genai-bench](https://github.com/sgl-project/genai-bench) - Genai-benchは、大規模な言語モデル(LLM)のサービングシステムの包括的なトークンレベルのパフォーマンス評価のために設計された強力なベンチマークツールです。 <sub>⭐ 332 · Python</sub>
+- [brycewang-stanford/StatsPAI](https://github.com/brycewang-stanford/StatsPAI) - StatsPAIは、最初のAgent-native Pythonライブラリで、原因の推論と適用されたエコノメトリクス - 統一されたAPI、広範なクロスメソッドカバレッジ、構造化された結果オブジェクト、機械読みやすいスキーマ... <sub>⭐ 329 · Python</sub>
+- [lhenault/simpleAI](https://github.com/lhenault/simpleAI) - 独自のAI APIをホストし、代替モデルを公開する簡単な方法は、「オープン」のAIクライアントと互換性があります。 <sub>⭐ 327 · Python</sub>
+- [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - メトリックは、検索対象の拡張生成(RAG)アプリケーションの応答の質を評価する。 <sub>⭐ 327 · Python</sub>
+- [aerlabsAI/ai-inference-resources](https://github.com/aerlabsAI/ai-inference-resources) - AIの推論エンジニアリングリソースの収集 — LLM は、GPU カーネル、量子化、分散インフェレンス、および生産展開をサーベイトします。 AER Labs コミュニティからコンパイルされます。 <sub>⭐ 326</sub>
+- [mlops-guide/mlops-guide.github.io](https://github.com/mlops-guide/mlops-guide.github.io) - MLOpsエンドツーエンドガイドとチュートリアルウェブサイト、IBM Watson、DVC、CML、Terraform、Github Actionsなどを使用して。 <sub>⭐ 326 · JavaScript</sub>
+- [EdjeElectronics/Train-and-Deploy-YOLO-Models](https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models) - チュートリアルと例では、ウルトラリシスYOLOモデルの訓練および展開方法を示します。 <sub>⭐ 324 · Jupyter Notebook</sub>
+- [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal:ローカルLLMの推論、LoRA/QLoRA微調整、サービング、量化およびMLX/Metal加速のための高性能Appleのケイ素フレームワーク。 <sub>⭐ 323 · Rust</sub>
+- [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Flyteタスクとワークフローを開発するための拡張可能なPython SDK。 開始して学習し、高度に拡張可能にするシンプルです。 <sub>⭐ 320 · Python</sub>
+- [deep-diver/llamaduo](https://github.com/deep-diver/llamaduo) - (ACL'25) LlamaDuoの公式コード: サービスLMから小規模なローカルLMへのシームレスな移行のためのLLMOpsパイプライン <sub>⭐ 318 · Python</sub>
+- [MinhNguyenDS/AI-pdf-books](https://github.com/MinhNguyenDS/AI-pdf-books) - AIエンジニア、MLエンジニア、LLMOps、MLOps、データサイエンティスト向けAI/Data bookリポジトリ <sub>⭐ 318</sub>
+- [craftgen/craftgen](https://github.com/craftgen/craftgen) - AIをオープンソース、ノーコードプラットフォームであらゆるワークフローに統合し、ダイナミックなグラフベースのソリューションのアクターモデルによって機能します。 <sub>⭐ 317 · TypeScript</sub>
+- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - マネージド・エージェントを開く — Claude Managed Agents と OpenAI Agents API のオープンソース代替手段。Node.js または Docker で展開し、Cloudflare 上で実行するか、OpenMA をホストしているかを選択します。モデルを選択したら、... <sub>⭐ 314 · TypeScript</sub>
+- [allwefantasy/byzer-llm](https://github.com/allwefantasy/byzer-llm) - 簡単、高速、そして安いプレトレイン、微調整、すべての人のためにサービング <sub>⭐ 313 · Python</sub>
+- [clearml/clearml-agent](https://github.com/clearml/clearml-agent) - ClearML Agent - MLOps/LLMOps を簡単に作成しました。MLOps/LLMOpsスケジューラ&オーケストレーションソリューション <sub>⭐ 313 · Python</sub>
+- [zorost/AI-Engineering-Lab](https://github.com/zorost/AI-Engineering-Lab) - Python、機械学習、LMS、RAG、微調整、エージェントとMCP、AzureおよびVertexおよびBedrock、Databricks。 43実行可能なノートブック、1つの連続... <sub>⭐ 313 · Jupyter Notebook</sub>
+- [ayush714/mlops-roadmap](https://github.com/ayush714/mlops-roadmap) - MLOpsのロードマップ <sub>⭐ 305</sub>
+- [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - LLM の生成された応答に関する評価を実行するための Python SDK <sub>⭐ 303 · Python</sub>
+- [geo-data/cesium-terrain-server](https://github.com/geo-data/cesium-terrain-server) - Cesium.js 地形モデルを表すファイルシステムベースのタイルセットを提供する基本サーバ <sub>⭐ 303 · Go</sub>
+- [raminmohammadi/MLOps](https://github.com/raminmohammadi/MLOps) - 生産(MLOps)で機械学習 <sub>⭐ 303 · Jupyter Notebook</sub>
+- [iSoumyaDey/Awesome-Web-Hosting-2026](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026) - 無料のクラウドホスティングへの究極のガイド。100以上の無料ティアと有料プラットフォームを比較:Vercel、Netlify、Heroku、AWS、VPS。 Node.js、Python、Docker、データベース(SQL/NoSQL)、およびAIモデルを無料で配布します。 <sub>⭐ 302</sub>
+- [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) - 知識の共有を容易にする個人的研究開発(R&D)ラボ。 <sub>⭐ 299 · Python</sub>
+- [runtm-ai/runtm](https://github.com/runtm-ai/runtm) - エージェントのビルドとデプロイを行うオープンソースのサンドボックス。Claude Code、Cursorなどのエージェントコードやソフトウェアを展開する独立した環境をスピンアップします。 <sub>⭐ 299 · Python</sub>
+- [vortico/flama](https://github.com/vortico/flama) - 予測とジェネレーションAIの制作フレームワーク。OpenAI/Anthropic/Ollama-compatibleエンドポイント、組み込みチャットUI、ネイティブMCPなど、1行でAPIとして任意のモデルをサーブします。 <sub>⭐ 299 · Python</sub>
+- [zenml-io/kitaru](https://github.com/zenml-io/kitaru) - エージェントは、単に読み込まれるだけでなく、実行できるトレースを追跡します。 <sub>⭐ 299 · Python</sub>
+- [george0st/qgate-sln-mlrun](https://github.com/george0st/qgate-sln-mlrun) - MLRun/Iguazio/Nuclio品質ゲートソリューション。このソリューションは、MLRunの実装/配送の品質をチェックします。 <sub>⭐ 298 · Python</sub>
+- [rlops/rlix](https://github.com/rlops/rlix) - RL実験をもっと実行します。GPUの待ち時間を減らします。 <sub>⭐ 297 · Python</sub>
+- [InfuseAI/crane](https://github.com/InfuseAI/crane) - クレーンは使いやすく美しいデスクトップアプリケーションで、コンテナのイメージを管理できます。 <sub>⭐ 295 · TypeScript</sub>
+- [iterative/terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - マシン学習ワークロード用のテラフォームプラグイン:スポットインスタンスの回復と自動終了/AWS、GCP、Azure、Kubernetes <sub>⭐ 295 · Go</sub>
+- [ensemble-core/NdLinear](https://github.com/ensemble-core/NdLinear) - Ensemble による NdLinear は、モデルを精度の損失なしで縮小する PyTorch モジュールです。エンサンブル・プラットフォームに電力を供給し、あらゆるモデルを積み込み、より小型で高速なバージョンを取得できます。 <sub>⭐ 294 · Python</sub>
+- [ohmeow/blurr](https://github.com/ohmeow/blurr) - ユージグファスのトランスをスピーディーに統合するライブラリです。これにより、トランス固有のモデルの訓練、評価、デプロイに必要なすべてを迅速に開発できます。 <sub>⭐ 294 · Jupyter Notebook</sub>
+- [HPMLL/BurstGPT](https://github.com/HPMLL/BurstGPT) - ChatGPT(GPT-3.5)&GPT-4 ワークロードトレースでLMサービングシステムを最適化 <sub>⭐ 293 · Python</sub>
+- [llSourcell/how_to_deploy_a_keras_model_to_production](https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production) - これは、YouTubeでSiraj Ravalによって「Keras Model to Production」を展開する方法のためのコードです。 <sub>⭐ 291 · Python</sub>
+- [global-fde/awesome-fde-resources](https://github.com/global-fde/awesome-fde-resources) - リソース、ツール、慣行、ケーススタディ、およびフォワード・デプロイメント・エンジニアの機会を収集したコレクション。 <sub>⭐ 287 · Python</sub>
+- [orneryd/Mimir](https://github.com/orneryd/Mimir) - Mimir - ローカルインデックスファイル(コードインテリジェンス)とセッションやチャットで共有されている記憶を保存し、セマンティックなベクトル検索機能を備えた完全オープンでカスタマイズ可能なメモリバンク。 <sub>⭐ 287 · Go</sub>
+- [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - LLMとジェネレーションAIのコンセプトを学び、運用・セキュリティに関するセクションや開発を実践する人を対象としたレッスンセットです。 <sub>⭐ 285 · Jupyter Notebook</sub>
+- [Media-Smart/volksdep](https://github.com/Media-Smart/volksdep) - Volksdep は、PyTorch, ONNX および TensorFlow モデルの展開と加速のためのオープンソースツールボックスです。 <sub>⭐ 285 · Python</sub>
+- [tensorchord/openmodelz](https://github.com/tensorchord/openmodelz) - Kubernetes(その他)のオートスケールLM (vLLM、SGLang、LMDeploy) 推論 <sub>⭐ 284 · Go</sub>
+- [ai-dynamo/aitune](https://github.com/ai-dynamo/aitune) - NVIDIA AITuneは、Deep Learningモデルのチューニングとデプロイメント用に設計されたインフェレンスツールキットで、NVIDIA GPUに焦点を当てています。 <sub>⭐ 282 · Python</sub>
+- [beehive-lab/jitllm](https://github.com/beehive-lab/jitllm) - Java Inference Tornadoツールキット:GPUでJVMの高性能LMインフェレンス&サービング <sub>⭐ 282 · Java</sub>
+- [isarsoft/yolov4-triton-tensorrt](https://github.com/isarsoft/yolov4-triton-tensorrt) - このリポジトリは、最適化されたTensorRTエンジンとしてYOLOv4をTriton Inference Serverにデプロイします <sub>⭐ 282 · C++</sub>
+- [qiantongtech/qKnow](https://github.com/qiantongtech/qKnow) - qKnowは、エンタープライズナレッジインテリジェンスと業界AIのためのオープンソースのエージェントプラットフォームです。 これは、知識グラフ、RAGおよびボットビルディングを提供し、業界の人工知能を標準化されたモジュールにカプセル化します... <sub>⭐ 282 · Java</sub>
+- [Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples) - Seeed Studio によるジェット機の例リポジトリは、NVIDIA Jetson プラットフォーム上でビジョン AI と生成AI モデルを実行するためのシームレスなワンラインのコマンド展開を提供しています。 <sub>⭐ 277 · C++</sub>
+- [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - このプロジェクトでは、サバイバル分析モデルを利用し、顧客を時間をかけて変化させ、顧客のLTVを計算する方法を見てきました。 私はまた、ランダムフォレスト... <sub>⭐ 275 · Jupyter Notebook</sub>
+- [llSourcell/How-to-Deploy-a-Tensorflow-Model-in-Production](https://github.com/llSourcell/How-to-Deploy-a-Tensorflow-Model-in-Production) - これは、YouTubeでSiraj Ravalによって「制作中のTensorflow Modelをデプロイする方法」のコードです。 <sub>⭐ 274 · Python</sub>
+- [ai-dynamo/grove](https://github.com/ai-dynamo/grove) - ネットワークトポロジアウェアギャングスケジューリングとオートスケールリングのためのKubernetesの強化 <sub>⭐ 273 · Go</sub>
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) - 戦績のツール、フレームワーク、およびスケーラブルな生産グレードのRetrieval-Augmented世代(RAG)システムを構築するベストプラクティスのキュレーションリスト。 <sub>⭐ 273 · Python</sub>
+- [guojin-yan/YoloDeployCsharp](https://github.com/guojin-yan/YoloDeployCsharp) - Yolov8-det、Yolov8-pose、Yolov8-cls、およびC#プログラミング言語に基づいてYolov8-segモデルを展開します。 <sub>⭐ 272 · C#</sub>
+- [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) - Caching、Guardrails、A/Bテスト&コストコントロールを備えた30以上のLLM(OpenAI、Anthropic、Bedrock、Azureなど)用の統一されたAIゲートウェイ。 Go-native Fastest & Scalable AI Gateway LiteLLMとKong AI Gateway... <sub>⭐ 270 · Go</sub>
+- [physhik/ecg-mit-bih](https://github.com/physhik/ecg-mit-bih) - MIT-BIHデータを用いたECG分類、心臓学レベルの不整脈検出と深層ニューラルネットワークを活用した血管電図の分類に関する深いCNN学習の実施... <sub>⭐ 270 · Python</sub>
+- [automorphic-ai/aegis](https://github.com/automorphic-ai/aegis) - 大規模言語モデルのセルフハードングファイアウォール <sub>⭐ 269 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - コンテンツのgithub / docsコードの問題80プルリクエスト35ディスカッションアクションプロジェクト2セキュリティインサイトマージブランチ'main'を1862に追加-Travis-CI-migrationテーブルにスキップ... <sub>⭐ 268</sub>
+- [NVIDIA/DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo:DeepStream SDKとGPUの加速、リアルタイムのビデオおよびマルチセンサー分析パイプラインをGStreamer、TensorRT、およびビジョンAIモデルで構築するためのリファレンスアプリ... <sub>⭐ 266 · C++</sub>
+- [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - データエンジニアリングのロードマップ <sub>⭐ 264 · Java</sub>
+- [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) - 最高のLLMOpsツールの素晴らしい&キュレーションリスト。 <sub>⭐ 264 · Python</sub>
+- [IFCA-Advanced-Computing/frouros](https://github.com/IFCA-Advanced-Computing/frouros) - Frouros:機械学習システムにおけるドリフト検出のためのオープンソースのPythonライブラリ。 <sub>⭐ 261 · Python</sub>
+- [GoogleCloudPlatform/automlops](https://github.com/GoogleCloudPlatform/automlops) - MLOpsのパイプラインを数分で構築 <sub>⭐ 257 · Python</sub>
 
 ## 🔁 CI/CDとエージェントによる自動化
 
 > パイプラインをレビュー、修正、自動化するエージェントとアクション。
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. <sub>⭐ 107.2k · TypeScript</sub>
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job… <sub>⭐ 73.3k · JavaScript</sub>
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal <sub>⭐ 49.3k · Python</sub>
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on <sub>⭐ 42.0k · Rust</sub>
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal. <sub>⭐ 28.3k · TypeScript</sub>
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - ジェミニのパワーを直接端末に持ち込むオープンソースAIエージェントです。 <sub>⭐ 107.2k · TypeScript</sub>
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - オープンソースのAIジョブ検索エージェントと求人ファインダー: スキャンジョブボード、各ジョブ1-5をCVにスコアして適用する前に、ATSフレンドリーな履歴書やカバーレターを調整し、インタビューの準備や仕事の面接準備を行います。 <sub>⭐ 73.3k · JavaScript</sub>
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aiderは端末でAIペアプログラミングです。 <sub>⭐ 49.3k · Python</sub>
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - コーディングエージェントのランタイムは、 <sub>⭐ 42.0k · Rust</sub>
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 端末に住んでいるオープンソースのAIコーディングエージェント。 <sub>⭐ 28.3k · TypeScript</sub>
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - オープンソースの Ghostty ベースの MacOS ターミナルで、AI コーディングエージェント用の縦タブと通知が開きます。マルチタスク、組織、プログラマビリティのために構築されています。 <sub>⭐ 27.6k · Swift</sub>
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG chatbots, email automation, social… <sub>⭐ 25.7k</sub>
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ 無料の n8n 自動化テンプレート — Gmail、Telegram、Slack、Discord、WhatsApp、Google Drive、Notion、OpenAIなどの既製のワークフローを使用できます。 AIエージェント、RAGチャットボット、メールの自動化、ソーシャル... <sub>⭐ 25.7k</sub>
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - オープンソース、AI統合型クロスプラットフォーム端末でシームレスなワークフローを実現 <sub>⭐ 22.4k · Go</sub>
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust <sub>⭐ 20.3k · Rust</sub>
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. <sub>⭐ 15.7k · Go</sub>
-- [electerm/electerm](https://github.com/electerm/electerm) - Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) <sub>⭐ 15.2k · JavaScript</sub>
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. <sub>⭐ 13.0k · Go</sub>
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. <sub>⭐ 10.5k · Rust</sub>
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities <sub>⭐ 9.9k · TypeScript</sub>
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace <sub>⭐ 9.3k · TypeScript</sub>
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI <sub>⭐ 9.1k · TypeScript</sub>
-- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings <sub>⭐ 8.7k · Python</sub>
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. <sub>⭐ 8.6k · Go</sub>
-- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is… <sub>⭐ 7.6k · TypeScript</sub>
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too <sub>⭐ 7.5k · JavaScript</sub>
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and… <sub>⭐ 6.8k · TypeScript</sub>
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents. <sub>⭐ 6.3k · Rust</sub>
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. <sub>⭐ 6.3k · Python</sub>
-- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI… <sub>⭐ 6.2k · JavaScript</sub>
-- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, out-of-the-box macOS terminal built for AI coding. <sub>⭐ 6.1k · Rust</sub>
-- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the… <sub>⭐ 6.0k · HTML</sub>
-- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment ( YC W26). Run multiple coding agents in parallel. Use any provider. <sub>⭐ 5.9k · TypeScript</sub>
-- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high… <sub>⭐ 5.8k · Python</sub>
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Track token usage across AI coding agents from your terminal. Global leaderboard with trillions of tokens tracked. <sub>⭐ 5.6k · Rust</sub>
-- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today. <sub>⭐ 5.1k · Shell</sub>
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI / Discord: https://bit.ly/kagentdiscord <sub>⭐ 3.9k · Go</sub>
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim OpenCode in the flow that you already know. <sub>⭐ 3.9k · Lua</sub>
-- [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) - Official TestSprite CLI — AI-powered automated testing from your terminal <sub>⭐ 3.9k · TypeScript</sub>
-- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. <sub>⭐ 3.8k · Rust</sub>
-- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time. <sub>⭐ 3.7k · Rust</sub>
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents <sub>⭐ 3.7k · TypeScript</sub>
-- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents <sub>⭐ 3.5k · Python</sub>
-- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal. <sub>⭐ 3.5k · Python</sub>
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - 錆で書かれた高性能のコーディングエージェントハーネス <sub>⭐ 20.3k · Rust</sub>
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - オープンソースのAIコーディングエージェント。大規模なプロジェクトと現実世界タスクのために設計されている。 <sub>⭐ 15.7k · Go</sub>
+- [electerm/electerm](https://github.com/electerm/electerm) - 無料でオープンソースのターミナル/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spiceクライアント(Linux、Mac、Windows、Android、HarmonyOS、iOS) <sub>⭐ 15.2k · JavaScript</sub>
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - 米国株式、商品、外国為替および暗号のAI取引端末アシスタント。 <sub>⭐ 13.0k · Go</sub>
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Shell Assistant、Chat-REPL、RAG、AI Tools&Agents を特徴とするオールインワンLLM CLIツール。OpenAI、Claude、Gemini、Ollama、Grqなどへのアクセスも便利です。 <sub>⭐ 10.5k · Rust</sub>
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - これは、端末制御、ファイルシステム検索およびdiffファイルの編集機能を提供するClaude用のMCPサーバーです。 <sub>⭐ 9.9k · TypeScript</sub>
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - 軽量(7MB) 第1ターミナル初のAIネイティブ開発ワークスペース <sub>⭐ 9.3k · TypeScript</sub>
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - AIであなたのgitコミットメッセージを書いているCLI <sub>⭐ 9.1k · TypeScript</sub>
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - リアルタイムのClaudeコードの使用状況モニターと予測および警告 <sub>⭐ 8.7k · Python</sub>
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Claudeコード、Codex、OpenCode、Ampなどの複数のAI端末エージェントを管理します。 <sub>⭐ 8.6k · Go</sub>
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawXは、OpenClaw AIエージェント用のグラフィカルインターフェイスを提供するデスクトップアプリです。 これは、端末を使用せずに、CLIベースのAIオーケストレーションをデスクトップエクスペリエンスに変えます。 中国のウェブサイトは... <sub>⭐ 7.6k · TypeScript</sub>
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - 1秒でLLMでコミットメッセージを生成 — Claude、GPT、その他すべてのプロバイダーと連携し、ローカルオラマモデルもサポート <sub>⭐ 7.5k · JavaScript</sub>
+- [purocean/yn](https://github.com/purocean/yn) - バージョン管理、AI Copilot、ドキュメントアノテーション、マインドマップ、文書の暗号化、実行可能なコードスニペット、チャート埋め込み、HTMLアプリレット、プラグイン、および... <sub>⭐ 6.8k · TypeScript</sub>
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - ソースコードのコピー/ペーストディテクタ。220以上の言語、Rustエンジン、SARIF / HTML /バッジレポーター、GitHub Action、AIエージェント向けMCPサーバー <sub>⭐ 6.3k · Rust</sub>
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - Claudeを用いたAIを活用したセキュリティレビューGitHubアクションは、セキュリティ脆弱性のコード変更を分析します。 <sub>⭐ 6.3k · Python</sub>
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - リアルタイムでAIキャラクター/コンパニオン(すべてのコードベース!)を作成、カスタマイズし、話します。 LLM OpenAIを使用して、どこでも人工知能と自然なシームレスな会話を持っています... <sub>⭐ 6.2k · JavaScript</sub>
+- [tw93/Kaku](https://github.com/tw93/Kaku) - AI コーディング用に構築された高速でアウト・オブ・ザ・ボックスの macOS 端末。 <sub>⭐ 6.1k · Rust</sub>
+- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - AI主導ソフトウェア開発のためのマルチエージェントシステム。 自然言語の要件を作業ソフトウェアに変換するために、DevOpsツールでLMを組み合わせます。 すべての開発言語をサポートし、拡張する... <sub>⭐ 6.0k · HTML</sub>
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdashはオープンソースのエージェント開発環境(YC W26)です。複数のコーディングエージェントを並行して実行します。任意のプロバイダを使用してください。 <sub>⭐ 5.9k · TypeScript</sub>
+- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - AidLearningは強力なAIOT開発プラットフォームです。AidLearningは、GUIをサポートし、ディープラーニングとビジュアルIDEをAndroid上でサポートするLinuxのエンブを構築しています...Now AidはCPU + GPU + NPUをサポートしています。 <sub>⭐ 5.8k · Python</sub>
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 端末からAIコーディングエージェント全体でトークンの使用状況を追跡します。トラッキングされたトークンの兆しを持つグローバルリーダーボードです。 <sub>⭐ 5.6k · Rust</sub>
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon 音声通知 (+ more!) Claude コード、Codex、IDEs、および任意の AI エージェントの。端末をベビーシッター停止します。 今すぐピーオンを雇用してください。 <sub>⭐ 5.1k · Shell</sub>
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - クラウドネイティブエージェントAI/Discord: https://bit.ly/kagentdiscord <sub>⭐ 3.9k · Go</sub>
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - あなたが既に知っている流れのNeovim OpenCode。 <sub>⭐ 3.9k · Lua</sub>
+- [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) - 公式のTestSprite CLI — 端末からAIが自動テストを出力 <sub>⭐ 3.9k · TypeScript</sub>
+- [xintaofei/codeg](https://github.com/xintaofei/codeg) - 連携型マルチエージェントのAIコーディングワークスペース:Claude Code、Codex、OpenCode、Pi、Grok Buildなどデスクトップアプリ、セルフホストサーバー、またはDockerからの集計セッション。 <sub>⭐ 3.8k · Rust</sub>
+- [graykode/abtop](https://github.com/graykode/abtop) - htop と同様に、AI コーディングエージェント。Claude コードとコーデックス CLI セッションを監視します。トークン、コンテキストウィンドウ、レート制限、およびリアルタイムでポート。 <sub>⭐ 3.7k · Rust</sub>
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - 世界初のAIエージェント向けバーチャルターミナル <sub>⭐ 3.7k · TypeScript</sub>
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - 拡張可能なマルチエージェント CLI ワークスペース、コーデックス、クロード、ジェミニ、キミ、キューエン、カーサー、コピロット、Pi、OpenCode、その他のAIコーディングエージェント <sub>⭐ 3.5k · Python</sub>
+- [batrachianai/toad](https://github.com/batrachianai/toad) - 端末でAIを統一したインターフェースです。 <sub>⭐ 3.5k · Python</sub>
 - [qawolf/cli](https://github.com/qawolf/cli) - どこからでもQAのWolf —端末、CI、AIエージェント。 <sub>⭐ 3.5k · TypeScript</sub>
-- [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) - FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. <sub>⭐ 3.3k · Python</sub>
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free <sub>⭐ 3.3k · Go</sub>
-- [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl <sub>⭐ 3.3k · Python</sub>
-- [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents. <sub>⭐ 3.0k · TypeScript</sub>
-- [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) - Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com. <sub>⭐ 2.8k · Python</sub>
-- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool <sub>⭐ 2.8k · Go</sub>
-- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute. <sub>⭐ 2.7k · Rust</sub>
-- [Kuddev/pebrel](https://github.com/Kuddev/pebrel) - AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows. <sub>⭐ 2.7k · Rust</sub>
-- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. <sub>⭐ 2.7k · Rust</sub>
-- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. <sub>⭐ 2.5k · TypeScript</sub>
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more. <sub>⭐ 2.5k · Python</sub>
-- [semanser/codel](https://github.com/semanser/codel) - Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. <sub>⭐ 2.5k · TypeScript</sub>
-- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim <sub>⭐ 2.1k · Lua</sub>
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. <sub>⭐ 2.1k · TypeScript</sub>
-- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line. <sub>⭐ 2.0k · C++</sub>
-- [bergside/typeui](https://github.com/bergside/typeui) - Build better UI with AI <sub>⭐ 2.0k · TypeScript</sub>
-- [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - Agentic chat experience in your terminal. Build applications using natural language. <sub>⭐ 2.0k · Rust</sub>
-- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant <sub>⭐ 2.0k · Go</sub>
-- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition. <sub>⭐ 1.9k · TypeScript</sub>
-- [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans… <sub>⭐ 1.9k</sub>
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. <sub>⭐ 1.9k · TypeScript</sub>
-- [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and… <sub>⭐ 1.9k · C#</sub>
-- [feigeCode/navop](https://github.com/feigeCode/navop) - A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI. <sub>⭐ 1.7k · Rust</sub>
-- [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar) - 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources. <sub>⭐ 1.7k · Python</sub>
-- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) - Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package. <sub>⭐ 1.7k · Dart</sub>
-- [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules. <sub>⭐ 1.7k · Go</sub>
-- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or local models. For authorized security research only. <sub>⭐ 1.7k · Python</sub>
-- [feremabraz/bloomberg-terminal](https://github.com/feremabraz/bloomberg-terminal) - Bloomberg-like terminal with AI. It uses Redis with AlphaVantage data and local simulations to avoid hitting the API too much. <sub>⭐ 1.6k · TypeScript</sub>
-- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription. <sub>⭐ 1.6k · Rust</sub>
-- [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development. <sub>⭐ 1.6k · Elixir</sub>
-- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes. <sub>⭐ 1.6k · TypeScript</sub>
-- [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation. <sub>⭐ 1.6k · Python</sub>
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook. <sub>⭐ 1.5k · Go</sub>
-- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser. <sub>⭐ 1.5k · JavaScript</sub>
-- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows. <sub>⭐ 1.5k · TypeScript</sub>
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic. <sub>⭐ 1.5k · Go</sub>
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT <sub>⭐ 1.4k · TypeScript</sub>
-- [PentesterFlow/agent](https://github.com/PentesterFlow/agent) - Agentic offensive-security in your terminal <sub>⭐ 1.4k · TypeScript</sub>
-- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests. <sub>⭐ 1.3k · Go</sub>
-- [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Empryo's engine, v2 (soulforge) and issue tracker!! Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com <sub>⭐ 1.3k · TypeScript</sub>
-- [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI)… <sub>⭐ 1.3k · Python</sub>
-- [affaan-m/agentshield](https://github.com/affaan-m/agentshield) - AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. <sub>⭐ 1.2k · TypeScript</sub>
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal <sub>⭐ 1.2k · TypeScript</sub>
-- [uvwt/agentdock](https://github.com/uvwt/agentdock) - Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration. <sub>⭐ 1.2k · Go</sub>
-- [massgen/MassGen](https://github.com/massgen/MassGen) - MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. / Join… <sub>⭐ 1.1k · Python</sub>
-- [mind-protocol/terminal-velocity](https://github.com/mind-protocol/terminal-velocity) - A novel created autonomously by a team of 10 AI agents <sub>⭐ 1.1k · Python</sub>
-- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. <sub>⭐ 1.1k · TypeScript</sub>
-- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on… <sub>⭐ 1.1k · Python</sub>
-- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving… <sub>⭐ 1.0k · TypeScript</sub>
-- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal <sub>⭐ 1.0k · TypeScript</sub>
-- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for the Longbridge trading platform with real-time market data, portfolio, and trading... <sub>⭐ 1.0k · Rust</sub>
-- [yurijmikhalevich/rclip](https://github.com/yurijmikhalevich/rclip) - grep for images – local, offline image search for the terminal <sub>⭐ 1.0k · Python</sub>
+- [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) - FuXi は、端末に住んでいる高速で、セルフ・コンテネーションされた AI コーディングエージェントです。コードを編集し、コマンドを実行したり、ツールを駆動したり、LMM プロバイダー間でコストアウェアのルーティングを実現します。 <sub>⭐ 3.3k · Python</sub>
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ターミナル内のAIチャットボットを無料で利用できます。 <sub>⭐ 3.3k · Go</sub>
+- [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - あなたがカールできるコンピュータ <sub>⭐ 3.3k · Python</sub>
+- [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - コラーゲンは、エージェントで作る場所です。 <sub>⭐ 3.0k · TypeScript</sub>
+- [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) - ハーネスフリーの砲弾層、検証済みのアダプター、およびccpiパッケージマネージャを備えたモデルアグノスティックエージェントスキルプラットフォーム。 Tonofskills.comをご覧ください。 <sub>⭐ 2.8k · Python</sub>
+- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! ゴーベースTUIログ解析ツール <sub>⭐ 2.8k · Go</sub>
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - 開発者やAIエージェントのターミナルセキュリティ。同点URL、パイプ・ツー・シェル、ANSIインジェクション、難読化ペイロード、データ・エクスフィレーション、悪意のあるAIスキル/コンフィグを介した上で実行します。 <sub>⭐ 2.7k · Rust</sub>
+- [Kuddev/pebrel](https://github.com/Kuddev/pebrel) - SSH、持続的なセッション、分割されたペイン、およびファーストクラスのAI CLIワークフローでWindows用のAI-native、GPU加速ターミナルエミュレータ。 <sub>⭐ 2.7k · Rust</sub>
+- [Helvesec/rmux](https://github.com/Helvesec/rmux) - ユニバーサル・ラストのマルチプレクサをタイプしたSDKで、CLIまたはTUIアプリをコードからドライブします。 Linux、macOS、Windows上でネイティブです。 <sub>⭐ 2.7k · Rust</sub>
+- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - 企業ではなく、コミュニティの集合体によって構築されたターミナル用のオープンコーディングエージェント。独自のモデルを持って、あなたのコードをマシンに保持し、誰にも何もoweしません。 <sub>⭐ 2.5k · TypeScript</sub>
+- [darrenburns/elia](https://github.com/darrenburns/elia) - 大規模な言語モデルと相互作用するためのスキャッピー、キーボード中心のターミナルユーザーインターフェイス。チャットGPT、クラウデ、Llama 3、Phi 3、ミストラル、ジェマなど。 <sub>⭐ 2.5k · Python</sub>
+- [semanser/codel](https://github.com/semanser/codel) - 端末、ブラウザ、エディタで複雑なタスクやプロジェクトを実行できる全自動人工知能エージェント。 <sub>⭐ 2.5k · TypeScript</sub>
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - クロードコードAIアシスタントとNeovimのシームレスな統合 <sub>⭐ 2.1k · Lua</sub>
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - GitHubアクションがGemini CLIを呼び出します。 <sub>⭐ 2.1k · TypeScript</sub>
+- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - コマンドラインでネイティブエージェントの統合を備えたWindowsターミナルのフォーク。 <sub>⭐ 2.0k · C++</sub>
+- [bergside/typeui](https://github.com/bergside/typeui) - AIでより良いUIを構築 <sub>⭐ 2.0k · TypeScript</sub>
+- [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - 端末でのエージェントチャット体験。自然言語を使ってアプリケーションを構築します。 <sub>⭐ 2.0k · Rust</sub>
+- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AIパワード、非侵入ターミナルアシスタント <sub>⭐ 2.0k · Go</sub>
+- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - AI コーディングエージェント用のノードベースのターミナルマネージャー — tmux-backed 端末と、無限のパン/ズームキャンバス上のドラッグ可能なノードとして並行するエージェントセッション。 macOS、Linux、およびブラウザ Server Edition. <sub>⭐ 1.9k · TypeScript</sub>
+- [skalesapp/skales](https://github.com/skalesapp/skales) - macOS、Windows、Linux、AndroidおよびiOS用のパーソナルAIエージェント。 目標を設定し、単独で動作します:コーディング(スケールコード)、デスクトップ+ブラウザの自動化、自動スケジュールされたタスク。 エージェントと人間のチーム... <sub>⭐ 1.9k</sub>
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - デスクトップ用のオールインワンローカルAIスタジオ:チャット、イメージ、ビデオ生成と1つの無料のオープンソースアプリでコーディングエージェント。 WindowsおよびLinux。 Docker、ターミナルなし、クラウドは必要ありません。 <sub>⭐ 1.9k · TypeScript</sub>
+- [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA)AIはメーターを持っていないはずです。無制限のトークン。 永遠に。 あなたのマシン。 あなたのエージェント。 どこからでもそれを使用してください。 ローカルLMを搭載したターミナルネイティブコーディングエージェント - 100%オープンソース、フリーフォーエバー、および... <sub>⭐ 1.9k · C#</sub>
+- [feigeCode/navop](https://github.com/feigeCode/navop) - データベース、SSH、SFTP、ターミナル、リモートデスクトップ、監視およびAIのためのネイティブでオールインワンのワークスペース。 <sub>⭐ 1.7k · Rust</sub>
+- [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar) - GitHub Actions、ライブウェブUI、Scout Skill for AIソースを使用した24時間AI/techニュースレーダー。 <sub>⭐ 1.7k · Python</sub>
+- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) - AndroidでOpenClaw AI Gatewayを実行 — 内蔵端末、Webダッシュボード、ワンタップ設定を備えたスタンドアローンFlutterアプリ。 また、Termux CLIパッケージとしてご利用いただけます。 <sub>⭐ 1.7k · Dart</sub>
+- [Twigpine/zero](https://github.com/Twigpine/zero) - あなたのモデル、あなたの機械、あなたの規則に答えるコーディングの代理店。 <sub>⭐ 1.7k · Go</sub>
+- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - インタラクティブなREPL、MCPサーバー、およびCLI 20ツールを備えたAI搭載OSINTエージェント。 Claude、GPT-4、またはローカルモデルで動作します。認定されたセキュリティ調査のみのため。 <sub>⭐ 1.7k · Python</sub>
+- [feremabraz/bloomberg-terminal](https://github.com/feremabraz/bloomberg-terminal) - ブルームバーグのような端末をAIで使用。AlphaVantageデータとローカルシミュレーションを使って、APIのヒットを回避します。 <sub>⭐ 1.6k · TypeScript</sub>
+- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - ローカルシェルとリモートマシン用のAIネイティブワークスペース。ゼロWebview、ゼロOpenSSL、ゼロテレメトリー、アプリのサブスクリプションなし <sub>⭐ 1.6k · Rust</sub>
+- [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - AI主導開発のためのオールインワン配信プラットフォーム。 <sub>⭐ 1.6k · Elixir</sub>
+- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - エージェント、タスク、知識、および研究のための無限のキャンバスワークスペース。 クロードコード、コーデックス、ターミナル、タスク、メモ用の無限のキャンバス。 <sub>⭐ 1.6k · TypeScript</sub>
+- [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - エンタープライズワークフローの自動化のためのAIフレームワーク。 <sub>⭐ 1.6k · Python</sub>
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - git commit メッセージを書くか、ChatGPT AI (gpt-4.1, gpt-4o モデル) を使用してコードレビューを簡潔にし、自動的に git prepare-commit-msg hook をインストールします。 <sub>⭐ 1.5k · Go</sub>
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI エージェントは、SVG やターミナルの ASCII — 15 テーマ、6 ダイアグラムタイプ、バッチ CLI、ブラウザなしで美しいマーメイド図を生成し、レンダリングするスキルです。 <sub>⭐ 1.5k · JavaScript</sub>
+- [limecloud/lime](https://github.com/limecloud/lime) - コーディング、ファイル、ターミナル、ツール、研究、コンテンツ、マルチモーダルワーク、および複数のエージェントワークフローのためのフルスタックAIエージェント。 <sub>⭐ 1.5k · TypeScript</sub>
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - インフラを考えずに制作アプリを実行します。サーバーや当社で、完全にエージェントです。 <sub>⭐ 1.5k · Go</sub>
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - Ollama または GPT を使用した AI パワード git commit メッセージのリライター <sub>⭐ 1.4k · TypeScript</sub>
+- [PentesterFlow/agent](https://github.com/PentesterFlow/agent) - 端末における有能な攻撃性セキュリティ <sub>⭐ 1.4k · TypeScript</sub>
+- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - お気に入りのAI IDEまたはターミナルエージェントにローカルファーストエクステンションをインストールします。履歴をLoreで再利用可能なスキルに処理します。会話をクラウドに同期させます。ファイルの問題やリクエスト。 <sub>⭐ 1.3k · Go</sub>
+- [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Empryoのエンジン、v2(soulforge)と問題トラッカー!! Empryoはシンボルを編集するグラフパワードAIコーディングエージェントです。文字列:AST手術、フルLSP、ライブコードゲノム。 https://empryo.comで入手してください <sub>⭐ 1.3k · TypeScript</sub>
+- [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - ターミナルネイティブのAIコーディングエージェントとそれらをオーケストラにするハーネスのキュレーションディレクトリ。 オープンソースツール(Pi、OpenCode、Aider、Goose)、プラットフォームエージェント(クロードコード、コーデックス、Gemini CLI)をカバー... <sub>⭐ 1.3k · Python</sub>
+- [affaan-m/agentshield](https://github.com/affaan-m/agentshield) - AIエージェントのセキュリティスキャナー。エージェント構成、MCPサーバー、ツール権限で脆弱性を検出します。 CLI、GitHub Action、ECCプラグイン、および GitHub App統合として利用できます。 <sub>⭐ 1.2k · TypeScript</sub>
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - 端末からChatGPTコマンドをCLIに応答する <sub>⭐ 1.2k · TypeScript</sub>
+- [uvwt/agentdock](https://github.com/uvwt/agentdock) - ローカルマシン、サーバー、コンテナをマルチデバイスオーケストレーションで操作するためにAIエージェント用のセキュアなMCPランタイム。 <sub>⭐ 1.2k · Go</sub>
+- [massgen/MassGen](https://github.com/massgen/MassGen) - MassGenは、ターミナルで実行するオープンソースのマルチエージェントスケーリングシステムです。自動的にフロントイヤーモデルとエージェントを編成してコラボレーションし、理由や高品質の結果を生成します。 / 参加... <sub>⭐ 1.1k · Python</sub>
+- [mind-protocol/terminal-velocity](https://github.com/mind-protocol/terminal-velocity) - 10人のAIエージェントのチームによって自動生成された新技術 <sub>⭐ 1.1k · Python</sub>
+- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - 10ソースから毎日のAIエコシステムが消化されます(GitHub、ArXiv、HN、HangingFace、製品ハント、Dev.to、Lobste.rs)。 GitHubアクションを介してバイリンガルZH / ENレポート。 <sub>⭐ 1.1k · TypeScript</sub>
+- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - オープンソース、セルフホストのClaudeコード - 端末AIアシスタントとそれを支えるPythonフレームワーク。ツール呼び出し、サンドボックス実行、マルチエージェントチーム、スキル、チェックポイント、無制限のコンテキスト - オン... <sub>⭐ 1.1k · Python</sub>
+- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AIコードレビュアー: GitHubワークフローをAI搭載のコードレビューで強化!OpenAIのGPT-4 APIを使用して、プルリクエストに対するインテリジェントなフィードバックと提案を入手し、コードの品質を改善して保存... <sub>⭐ 1.0k · TypeScript</sub>
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - 端末でチャットGPTのようにGPTを取得 <sub>⭐ 1.0k · TypeScript</sub>
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - リアルタイムの市場データ、ポートフォリオおよび取引でロングブリッジ取引プラットフォーム用のAIネイティブCLI... <sub>⭐ 1.0k · Rust</sub>
+- [yurijmikhalevich/rclip](https://github.com/yurijmikhalevich/rclip) - 画像を grep - ローカル、オフラインの画像はターミナルを検索します <sub>⭐ 1.0k · Python</sub>
 - [MacPaw/cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli) - Xcode、Docker、Homebrew、および開発者のキャッシュをクリーンにし、プロジェクトとAIアーティファクトを削除し、ストレージを分析し、ターミナルからディスクスペースを再宣言します。 <sub>⭐ 1.0k</sub>
-- [susiai/susi_shell](https://github.com/susiai/susi_shell) - This suite of tools enables users to interact with AI services directly from their terminal. <sub>⭐ 1.0k · Python</sub>
-- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. <sub>⭐ 993 · Go</sub>
-- [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) - The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI… <sub>⭐ 969 · Rust</sub>
-- [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent <sub>⭐ 958 · Lua</sub>
-- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands <sub>⭐ 934 · Rust</sub>
-- [usewhale/Whale](https://github.com/usewhale/Whale) - Whale — blazingly fast, terminal-first AI coding agent for DeepSeek. ~98% prompt cache hit rate, 1M context, MCP tools, dynamic workflows. <sub>⭐ 930 · Go</sub>
-- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents. <sub>⭐ 927 · TypeScript</sub>
-- [Rishurajgautam24/free-claude-code](https://github.com/Rishurajgautam24/free-claude-code) - Use Claude Code for free in the terminal, VSCode extension, or via Discord <sub>⭐ 916</sub>
-- [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind… <sub>⭐ 900 · JavaScript</sub>
-- [jrswab/axe](https://github.com/jrswab/axe) - A lightweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. <sub>⭐ 895 · Go</sub>
-- [awizemann/scarf](https://github.com/awizemann/scarf) - Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more. <sub>⭐ 879 · Swift</sub>
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source Rust terminal coding agent. <sub>⭐ 862 · Rust</sub>
-- [theNetworkChuck/ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal) - Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows <sub>⭐ 855</sub>
-- [taracodlabs/aiden](https://github.com/taracodlabs/aiden) - Aiden — an autonomous AI agent and work engine built solo. It can operate your browser, terminal, files, apps, APIs, skills and tools, remember context, recover from failures, automate workflows, and… <sub>⭐ 845 · TypeScript</sub>
-- [peakoss/anti-slop](https://github.com/peakoss/anti-slop) - A GitHub action that detects and automatically closes low-quality and AI slop PRs. <sub>⭐ 835 · TypeScript</sub>
-- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands. <sub>⭐ 834 · TypeScript</sub>
-- [mco-org/squad](https://github.com/mco-org/squad) - Multi-AI agent terminal collaboration tool <sub>⭐ 821 · Rust</sub>
-- [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal <sub>⭐ 819 · TypeScript</sub>
-- [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs, debug prompts, and monitor context window usage across your AI development sessions. <sub>⭐ 814 · Python</sub>
-- [hosenur/portal](https://github.com/hosenur/portal) - Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces. <sub>⭐ 811 · TypeScript</sub>
-- [risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole) - Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal… <sub>⭐ 810 · Kotlin</sub>
-- [coder/boo](https://github.com/coder/boo) - A GNU screen style terminal multiplexer built on libghostty. <sub>⭐ 792 · Zig</sub>
-- [dark-hxx/CLI-Manager](https://github.com/dark-hxx/CLI-Manager) - A multi-project AI CLI workspace for local terminals, SSH hosts, and mobile-assisted workflows <sub>⭐ 791 · Rust</sub>
-- [Ark0N/Codeman](https://github.com/Ark0N/Codeman) - Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live <sub>⭐ 783 · TypeScript</sub>
-- [aeonfun/aeon](https://github.com/aeonfun/aeon) - The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever. <sub>⭐ 759 · Shell</sub>
-- [manparvesh/yoda](https://github.com/manparvesh/yoda) - Wise and powerful personal assistant, available in your nearest terminal <sub>⭐ 749 · Python</sub>
-- [guywaldman/magic-cli](https://github.com/guywaldman/magic-cli) - Command line utility to make you a magician in the terminal <sub>⭐ 744 · Rust</sub>
-- [erickochen/purple](https://github.com/erickochen/purple) - Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 18 cloud providers, monitors live SSH tunnels and manages Docker and… <sub>⭐ 720 · Rust</sub>
-- [xichan96/dinotty](https://github.com/xichan96/dinotty) - Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted. <sub>⭐ 713 · TypeScript</sub>
-- [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) - Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser and more. <sub>⭐ 702 · HTML</sub>
-- [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal. <sub>⭐ 702 · TypeScript</sub>
-- [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard <sub>⭐ 701 · Rust</sub>
-- [cruzyjapan/Gemini-CLI-UI](https://github.com/cruzyjapan/Gemini-CLI-UI) - A responsive web-based UI that provides an intuitive interface for Google's Gemini CLI, enabling AI-assisted coding from any device. Features include interactive chat, integrated terminal, file… <sub>⭐ 686 · JavaScript</sub>
-- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains <sub>⭐ 668 · Python</sub>
-- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch and fix the code-quality issues AI coding agents leave behind - dead code, unsafe casts, swallowed errors, duplication, security risks, and more. 50+ deterministic rules across 10 language… <sub>⭐ 662 · TypeScript</sub>
-- [iAmCorey/kooky](https://github.com/iAmCorey/kooky) - A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click… <sub>⭐ 654 · Swift</sub>
-- [waynesutton/markdown-site](https://github.com/waynesutton/markdown-site) - An open-source publishing framework built for AI agents and developers to ship websites, docs, or blogs. Write markdown, sync from the terminal. Your content is instantly available to browsers, LLMs… <sub>⭐ 629 · TypeScript</sub>
-- [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands <sub>⭐ 628 · Rust</sub>
-- [kju4q/ai-weekend-builds](https://github.com/kju4q/ai-weekend-builds) - AI projects to build in a weekend. For developers: requires Python or Node.js, an Anthropic API key, and comfort with the terminal. Starter code and READMEs for each project. <sub>⭐ 625 · Python</sub>
-- [ovh/shai](https://github.com/ovh/shai) - shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3 <sub>⭐ 625 · Rust</sub>
-- [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness <sub>⭐ 624 · Rust</sub>
-- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a… <sub>⭐ 621 · JavaScript</sub>
-- [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - AI agents that guide you from idea to working code, with you in control at every step. <sub>⭐ 616 · Python</sub>
-- [1ay1/agentty](https://github.com/1ay1/agentty) - AI pair programming in your terminal — one static binary, sub-ms startup, any model <sub>⭐ 615 · C++</sub>
-- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT <sub>⭐ 607 · JavaScript</sub>
-- [dob323/session-kit](https://github.com/dob323/session-kit) - Close the terminal windows, not the AI coding sessions. One number takes you back in. Every Claude Code and Codex session in one menu: named, numbered, colour-coded. Open, close, and jump to… <sub>⭐ 602 · Python</sub>
-- [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - Help your AI agent finish the job: solve the right problem, keep changes focused, and show what was verified. For Claude Code and Codex. <sub>⭐ 566 · Shell</sub>
+- [susiai/susi_shell](https://github.com/susiai/susi_shell) - このツールのスイートは、ユーザーが端末から直接AIサービスとやり取りすることを可能にします。 <sub>⭐ 1.0k · Python</sub>
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - AI コーディングエージェントのターミナルセッションマネージャー。 クロード、ジェミニ、OpenCode、コーデックスなどの1つのTUI。 <sub>⭐ 993 · Go</sub>
+- [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) - ターミナルに住んでいるオールインワンAIエージェント。ランディング、モバイルアプリの構築、バックエンド管理、ファイルの管理、ディープリサーチ、スケジュールタスクやイベントの計画を立てます。自己改善、セルフヒーリング、完全自律的です。 TUI... <sub>⭐ 969 · Rust</sub>
+- [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - ターミナルベースのAIコーディングエージェント用のneovim フロントエンド <sub>⭐ 958 · Lua</sub>
+- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Ai のコーディング代理店および人間のターミナル命令のための安全ガードレール <sub>⭐ 934 · Rust</sub>
+- [usewhale/Whale](https://github.com/usewhale/Whale) - Whale — DeepSeek 用のターミナルファーストの AI コーディングエージェントを超高速で高速化します。~98% のプロンプトキャッシュヒット率、1M コンテキスト、MCP ツール、動的ワークフロー。 <sub>⭐ 930 · Go</sub>
+- [phasehq/console](https://github.com/phasehq/console) - チームやAIエージェントの秘密管理 <sub>⭐ 927 · TypeScript</sub>
+- [Rishurajgautam24/free-claude-code](https://github.com/Rishurajgautam24/free-claude-code) - ターミナル、VSCodeの拡張機能、またはDiscordで無料でClaudeコードを使用する <sub>⭐ 916</sub>
+- [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) - Hermes AI エージェントのスタックのためのセルフホスト型の Web ダッシュボード。ブラウザベースのターミナル、ファイルエクスプローラー、セッション概要、cron 管理、システムメトリック、およびエージェントステータスパネルを提供 - すべての背後にある... <sub>⭐ 900 · JavaScript</sub>
+- [jrswab/axe](https://github.com/jrswab/axe) - 単一目的のAIエージェントを実行するための軽量なcli。TOMLに焦点を絞ったエージェントを定義し、どこからでもトリガーします。パイプ、git hooks、cron、またはターミナル。 <sub>⭐ 895 · Go</sub>
+- [awizemann/scarf](https://github.com/awizemann/scarf) - Hermes AIエージェントのネイティブmacOSとiOSアプリ — マルチウィンドウ、マルチサーバー(ローカル+リモートオーバーSSH)。チャット、ダッシュボード、セッション、メモリ、cron、MCPなど <sub>⭐ 879 · Swift</sub>
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VTコードはオープンソースのRustターミナルコーディングエージェントです。 <sub>⭐ 862 · Rust</sub>
+- [theNetworkChuck/ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal) - ターミナルのビデオのNetworkChuck'AIのための完全な仲間ガイド - Gemini CLI、Claudeコード、Codex、およびopencodeワークフロー <sub>⭐ 855</sub>
+- [taracodlabs/aiden](https://github.com/taracodlabs/aiden) - Aiden — 自律的なAIエージェントとエンジンが単独で構築されました。ブラウザ、端末、ファイル、アプリ、API、スキルやツールを操作し、コンテキストを覚え、障害から回復し、ワークフローを自動化します... <sub>⭐ 845 · TypeScript</sub>
+- [peakoss/anti-slop](https://github.com/peakoss/anti-slop) - 低品質とAIのスループットPRを自動で検知し、自動的にクローズするGitHubアクション。 <sub>⭐ 835 · TypeScript</sub>
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - 軽量なオーケストレーションハーネスがAIエージェント向けに構築されています。あなたのプロジェクトがどこに立つかについて、非フィルタリングされた真実です。 <sub>⭐ 834 · TypeScript</sub>
+- [mco-org/squad](https://github.com/mco-org/squad) - マルチAIエージェント端末連携ツール <sub>⭐ 821 · Rust</sub>
+- [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - 端末から何かを生成 <sub>⭐ 819 · TypeScript</sub>
+- [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - LLM API のトラフィックを回避し、リアルタイムターミナルダッシュボードでトークンの使用状況を視覚化します。コストを追跡したり、プロンプトをデバッグしたり、AI開発セッション全体でのコンテキストウィンドウ使用量を監視できます。 <sub>⭐ 814 · Python</sub>
+- [hosenur/portal](https://github.com/hosenur/portal) - モバイル初のバッテリーは、sst/opencode用のWeb uiが含まれています。 Gitの統合、ブラウザ端末、隔離されたワークスペース。 <sub>⭐ 811 · TypeScript</sub>
+- [risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole) - オープンソース、AIエージェント用のマルチプラットフォームハーネス - ネイティブでマルチスレッドのオペレータコンソール(JVMではなくエレクトロン)がClaudeコード、Codex、GeminiまたはOpenCodeを実際のブラウザ、ターミナルで実行する... <sub>⭐ 810 · Kotlin</sub>
+- [coder/boo](https://github.com/coder/boo) - libghostty上に構築されたGNU画面スタイルの端末マルチプレクサ。 <sub>⭐ 792 · Zig</sub>
+- [dark-hxx/CLI-Manager](https://github.com/dark-hxx/CLI-Manager) - ローカル端末、SSHホスト、モバイル支援ワークフロー向けのマルチプロジェクトAI CLIワークスペース <sub>⭐ 791 · Rust</sub>
+- [Ark0N/Codeman](https://github.com/Ark0N/Codeman) - AIコーディングエージェントのセルフホストミッション制御:Claudeコード、OpenCode、Pi、Codex、Antigravity&Gemini CLI 24/7を実行し、あらゆるデバイスから、すべてのサブアナウンスライブを見ます <sub>⭐ 783 · TypeScript</sub>
+- [aeonfun/aeon](https://github.com/aeonfun/aeon) - 最も自律的なAIエージェントフレームワーク: GitHubアクション、自己治癒スキルに無人で実行し、Claudeコード、Grok、Codexなどを実行します。承認ループはありません。一度設定して永遠に忘れてください。 <sub>⭐ 759 · Shell</sub>
+- [manparvesh/yoda](https://github.com/manparvesh/yoda) - 最寄りのターミナルで利用できる賢い、強力な個人アシスタント <sub>⭐ 749 · Python</sub>
+- [guywaldman/magic-cli](https://github.com/guywaldman/magic-cli) - コマンドラインユーティリティで、端末の魔術師を作る <sub>⭐ 744 · Rust</sub>
+- [erickochen/purple](https://github.com/erickochen/purple) - macOSとLinux用のRustで、オープンソースターミナルSSHマネージャーおよびSSHコンフィグエディタが18クラウドプロバイダとの同期に~/.ssh /コンフィグを維持し、ライブSSHトンネルを監視してDockerを管理する... <sub>⭐ 720 · Rust</sub>
+- [xichan96/dinotty](https://github.com/xichan96/dinotty) - AI のコーディングエージェント用のマルチデバイスターミナルサーバー。 Server-side VTE、セッション永続性、ファイルブラウザ、Webプレビュー、プラグインシステム。セルフホスト。 <sub>⭐ 713 · TypeScript</sub>
+- [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) - OpenClaw AI エージェントのセキュアでリアルタイム監視ダッシュボード。Auth、TOTP MFA、コストトラッキング、ライブフィード、メモリブラウザなど <sub>⭐ 702 · HTML</sub>
+- [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - オープンソースのマルチプロファイダーAIは、CLI開発ツールを支援しました。端末でコードしたいLLMをご使用ください。 <sub>⭐ 702 · TypeScript</sub>
+- [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - 端末、ブラウザ、マウスおよびキーボードを使用してAIでコンピュータを制御するデスクトップアプリ <sub>⭐ 701 · Rust</sub>
+- [cruzyjapan/Gemini-CLI-UI](https://github.com/cruzyjapan/Gemini-CLI-UI) - GoogleのGemini CLIのための直感的なインターフェイスを提供するレスポンシブなWebベースのUIは、あらゆるデバイスからAIによるコーディングを可能にします。 機能には、インタラクティブチャット、統合ターミナル、ファイルが含まれます... <sub>⭐ 686 · JavaScript</sub>
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - ターミナル・ベンチサイエンス:科学領域を横断する研究ワークフローに関するAIエージェントの評価 <sub>⭐ 668 · Python</sub>
+- [scanaislop/aislop](https://github.com/scanaislop/aislop) - コード品質の問題のキャッチと修正 AI コーディングエージェントが後ろに残します - デッドコード、安全でないキャスト、嚥下エラー、重複排除、セキュリティリスクなど。 10 言語で 50 + 決定的なルール... <sub>⭐ 662 · TypeScript</sub>
+- [iAmCorey/kooky](https://github.com/iAmCorey/kooky) - AI コーディング体験のための最小限の近代的なターミナル — Sidebar ワークスペース; 水平/垂直分割パン; 1 クリックエージェント起動; パーエージェントアクティビティー読み取りアウト。ワンクリックで作業空間状態をライブ... <sub>⭐ 654 · Swift</sub>
+- [waynesutton/markdown-site](https://github.com/waynesutton/markdown-site) - AIエージェントや開発者がWebサイト、ドキュメント、ブログを出荷するためのオープンソースの公開フレームワーク。 マークダウンを書くと端末から同期します。 あなたのコンテンツは即座にブラウザ、LLMs... <sub>⭐ 629 · TypeScript</sub>
+- [iagooar/qqqa](https://github.com/iagooar/qqqa) - あなたのシェルのための高速でステートレスなLM:qqの回答; qaはコマンドを実行します <sub>⭐ 628 · Rust</sub>
+- [kju4q/ai-weekend-builds](https://github.com/kju4q/ai-weekend-builds) - 週末にAIプロジェクトを構築します。開発者は、Anthropic APIキーであるPythonまたはNode.jsを要求し、端末との快適性が必要です。各プロジェクトのスターターコードとREADMEsです。 <sub>⭐ 625 · Python</sub>
+- [ovh/shai](https://github.com/ovh/shai) - shaiはコーディングエージェント、端末に住んでいるペアプログラミングのバディです。 素晴らしさで書かれた<3 <sub>⭐ 625 · Rust</sub>
+- [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - ビルトインAIハーネスを備えたネイティブターミナルエミュレータ <sub>⭐ 624 · Rust</sub>
+- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - オープンソースの2D IDEは、ネイティブCLIS、ターミナル、gits、ビーズの問題および複数のプロジェクトやマシン間でファイルを管理するためのものです。 localhost ORホストを介して1台の機械でセルフホスティング... <sub>⭐ 621 · JavaScript</sub>
+- [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - アイデアから作業コードまで、あらゆるステップで制御できるAIエージェント。 <sub>⭐ 616 · Python</sub>
+- [1ay1/agentty](https://github.com/1ay1/agentty) - 端末でのAIペアプログラミング — 1つの静的バイナリ、サブMSスタートアップ、任意のモデル <sub>⭐ 615 · C++</sub>
+- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - あなたのPull/MergeリクエストをChatGPTでレビューする <sub>⭐ 607 · JavaScript</sub>
+- [dob323/session-kit](https://github.com/dob323/session-kit) - 端末ウィンドウを閉じる, AIのコーディングセッションではなく. 1つの番号は、あなたに戻ってきます. すべてのクロードコードとコーデックスセッション1メニューで: 名前付き, 番号付け, カラー コード. オープン, クローズ, そしてジャンプ... <sub>⭐ 602 · Python</sub>
+- [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - AIエージェントが仕事を終わらせるのを助けます:正しい問題を解決し、変化を集中させ、検証されたものを見せてください。 クロードコードとコーデックスの場合。 <sub>⭐ 566 · Shell</sub>
 - [devopness/devopness](https://github.com/devopness/devopness) - Devopness:クラウド上でAI DevOps。アプリ、インフラ、CI/CDをデプロイします。任意のクラウドと任意のスタック、1つのMCP。決定API、見解し、完全に構成可能。人工知能チャットのクラウド資格はありません。無料プラン。 <sub>⭐ 564 · TypeScript</sub>
-- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI. <sub>⭐ 558 · Go</sub>
-- [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and… <sub>⭐ 550</sub>
-- [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - Deterministic UI audits for shadcn apps, built for your terminal, your CI, and your AI agent. <sub>⭐ 548 · TypeScript</sub>
-- [Nanako0129/coralline](https://github.com/Nanako0129/coralline) - Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it <sub>⭐ 546 · PowerShell</sub>
-- [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi <sub>⭐ 536 · Rust</sub>
-- [open-gitagent/clawless](https://github.com/open-gitagent/clawless) - ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers <sub>⭐ 535 · TypeScript</sub>
-- [marcusbuffett/command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal. <sub>⭐ 532 · Python</sub>
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI <sub>⭐ 529 · TypeScript</sub>
-- [my-claude-utils/clsh](https://github.com/my-claude-utils/clsh) - Access your terminal and your AI agent from any device — phone, tablet, desktop. <sub>⭐ 525 · TypeScript</sub>
-- [pulseaiclub/phi](https://github.com/pulseaiclub/phi) - a coding agent, rpc plugin, sub-agents, hashline edits, and mcp <sub>⭐ 523 · Go</sub>
-- [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces. <sub>⭐ 517 · Python</sub>
-- [actions/ai-inference](https://github.com/actions/ai-inference) - An action for calling AI models with GitHub Models <sub>⭐ 516 · TypeScript</sub>
-- [tony1223/better-agent-terminal](https://github.com/tony1223/better-agent-terminal) - Multi-workspace terminal aggregator with Claude Code AI integration <sub>⭐ 513 · TypeScript</sub>
-- [rssh-org/rssh](https://github.com/rssh-org/rssh) - An SSH tool dedicated to addressing all pain points · (macOS/Windows/Linux/Android/iOS) <sub>⭐ 510 · Rust</sub>
-- [cordum-io/cordum](https://github.com/cordum-io/cordum) - The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence. <sub>⭐ 509 · Go</sub>
-- [greenfield-inc/Pane](https://github.com/greenfield-inc/Pane) - Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in… <sub>⭐ 502 · TypeScript</sub>
-- [ryantsai/KKTerm](https://github.com/ryantsai/KKTerm) - Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant. <sub>⭐ 500 · TypeScript</sub>
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers <sub>⭐ 493 · Python</sub>
-- [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) - Terminal pixel-art office for AI coding agents <sub>⭐ 485 · Rust</sub>
-- [0sec-labs/0](https://github.com/0sec-labs/0) - Full-stack AI security OS for your browser, terminal, and agents. Find, verify, and fix vulnerabilities. Prioritized by business impact instead of just CVSS scores. <sub>⭐ 483 · TypeScript</sub>
-- [ibigio/shell-ai](https://github.com/ibigio/shell-ai) - A delightfully minimal, yet remarkably powerful AI Shell Assistant. <sub>⭐ 473 · Go</sub>
-- [linghungegeg/Linghun](https://github.com/linghungegeg/Linghun) - AGI-oriented, hallucination-resistant AI coding runtime grounded in evidence, tools, memory, agents, and verification. <sub>⭐ 468 · TypeScript</sub>
-- [abcwyc/pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop) - Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. <sub>⭐ 466 · TypeScript</sub>
-- [JetBrains/junie](https://github.com/JetBrains/junie) - An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose <sub>⭐ 466 · Shell</sub>
-- [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge <sub>⭐ 465 · Go</sub>
-- [bmadone/senior-software-engineer](https://github.com/bmadone/senior-software-engineer) - Collection of articles, books, and recommendations for senior-level interviews and assessments <sub>⭐ 453</sub>
-- [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui <sub>⭐ 449 · Rust</sub>
-- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it. <sub>⭐ 447 · Go</sub>
-- [turing-machines/mentals-ai](https://github.com/turing-machines/mentals-ai) - No code AI agents <sub>⭐ 445 · C++</sub>
-- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) <sub>⭐ 440 · Rust</sub>
-- [xuzhougeng/wispterm](https://github.com/xuzhougeng/wispterm) - A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt <sub>⭐ 434 · Zig</sub>
-- [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - 24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace <sub>⭐ 429 · Python</sub>
-- [TheLynxHub/LynxHub](https://github.com/TheLynxHub/LynxHub) - Cross-platform, extensible terminal/browser for AI management <sub>⭐ 426 · TypeScript</sub>
-- [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer + git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages <sub>⭐ 424 · Rust</sub>
-- [ZeroDayEvil/ai-security-tool](https://github.com/ZeroDayEvil/ai-security-tool) - Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security… <sub>⭐ 409 · HTML</sub>
-- [amirlehmam/wmux](https://github.com/amirlehmam/wmux) - The original Windows terminal multiplexer for AI agents. <sub>⭐ 406 · TypeScript</sub>
-- [Ashutosh0x/rust-finance](https://github.com/Ashutosh0x/rust-finance) - A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust. <sub>⭐ 405 · Rust</sub>
-- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed… <sub>⭐ 405 · Shell</sub>
-- [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI. <sub>⭐ 396 · JavaScript</sub>
-- [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup. <sub>⭐ 396 · Java</sub>
-- [hardisgroupcom/sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis) - French-army-knife Toolbox for Salesforce. Orchestrates base commands and assist users with interactive wizards to make much more than native Salesforce CLI + Allows you to define a complete CI/CD… <sub>⭐ 395 · TypeScript</sub>
-- [graykode/commit-autosuggestions](https://github.com/graykode/commit-autosuggestions) - A tool that AI automatically recommends commit messages. <sub>⭐ 386 · Python</sub>
-- [therealarthur/myrlin-workbook](https://github.com/therealarthur/myrlin-workbook) - Open-source workspace manager for AI coding CLIs: Claude Code and ChatGPT Codex in one browser app. Discovers every session on disk, embedded terminals, phone-ready, cost tracking, kanban, docs.… <sub>⭐ 386 · JavaScript</sub>
-- [OpenSource03/harnss](https://github.com/OpenSource03/harnss) - Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP… <sub>⭐ 381 · TypeScript</sub>
-- [affaan-m/claude-swarm](https://github.com/affaan-m/claude-swarm) - Multi-agent orchestration for Claude Code — decompose tasks, coordinate agents, visualize everything in a rich terminal UI <sub>⭐ 380 · Python</sub>
-- [emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder) - Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal <sub>⭐ 378</sub>
-- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith is a self-modifiable general purpose Lisp AI agent <sub>⭐ 378 · Common Lisp</sub>
-- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal. <sub>⭐ 375 · Go</sub>
-- [tddworks/asc-cli](https://github.com/tddworks/asc-cli) - App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support… <sub>⭐ 374 · Swift</sub>
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted. <sub>⭐ 365 · TypeScript</sub>
-- [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install. <sub>⭐ 361 · Python</sub>
-- [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal. <sub>⭐ 359 · Go</sub>
-- [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) - An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every… <sub>⭐ 358 · TypeScript</sub>
-- [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) - Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek &… <sub>⭐ 357 · TypeScript</sub>
-- [djcopley/ShellOracle](https://github.com/djcopley/ShellOracle) - A terminal utility for intelligent shell command generation <sub>⭐ 353 · Python</sub>
-- [warp-context/rightStage](https://github.com/warp-context/rightStage) - Sync AI context across every terminal window. 3 seconds to know what to work on next. <sub>⭐ 343 · Shell</sub>
-- [rengwu/chartr](https://github.com/rengwu/chartr) - An organizable, terminal-first agentic workspace with plugins <sub>⭐ 342 · Rust</sub>
-- [samueltuoyo15/Dokugen](https://github.com/samueltuoyo15/Dokugen) - AI-powered README generator and conventional commit engine for your terminal. <sub>⭐ 338 · TypeScript</sub>
-- [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar) - Let AI agents investigate and operate infrastructure through declared actions, bounded by policy and host-side checks. Approvals when required, with an audit trail. By Protectorate. <sub>⭐ 337 · Elixir</sub>
-- [boringcomputers/nehemiah](https://github.com/boringcomputers/nehemiah) - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them. <sub>⭐ 335 · TypeScript</sub>
-- [hermes-hq/hermes-ide](https://github.com/hermes-hq/hermes-ide) - AI-native terminal emulator & IDE. Built with Tauri, React, and Rust. <sub>⭐ 330 · TypeScript</sub>
-- [blob42/Instrukt](https://github.com/blob42/Instrukt) - Integrated AI environment in the terminal. Build, test and instruct agents. <sub>⭐ 329 · Python</sub>
-- [isuzu-shiranui/UnityMCP](https://github.com/isuzu-shiranui/UnityMCP) - Drive the Unity Editor from an AI agent or the terminal. The Editor serves MCP itself over HTTP, so there is no second process to run, and the isuzu-unity-cli command needs no Node or .NET runtime. <sub>⭐ 329 · C#</sub>
-- [kris-hansen/comanda](https://github.com/kris-hansen/comanda) - The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens. <sub>⭐ 328 · Go</sub>
-- [gwendall/superclaude](https://github.com/gwendall/superclaude) - Give Claude AI superpowers for GitHub workflows. Transform "fix stuff" commits into professional messages, generate intelligent changelogs, and get AI code reviews - all with one command. <sub>⭐ 326 · Shell</sub>
-- [Adityaraj0421/naksha-studio](https://github.com/Adityaraj0421/naksha-studio) - A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 62 commands, 15,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal. <sub>⭐ 320 · HTML</sub>
-- [instructa/browser-echo](https://github.com/instructa/browser-echo) - Stream browser logs to terminal, zero setup, perfect for Ai Agents <sub>⭐ 320 · TypeScript</sub>
-- [thomwebb/gac](https://github.com/thomwebb/gac) - Intelligent LLM-powered git commit message generator that understands your code! Supports multiple languages! <sub>⭐ 317 · Python</sub>
-- [pensarai/apex](https://github.com/pensarai/apex) - AI-powered offensive security testing using autonomous agents, directly in your terminal. <sub>⭐ 315 · TypeScript</sub>
-- [termly-dev/termly-cli](https://github.com/termly-dev/termly-cli) - Mobile companion for Claude Code, Gemini CLI & OpenCode. Encrypted, remote <sub>⭐ 313 · JavaScript</sub>
-- [dave1010/clipea](https://github.com/dave1010/clipea) - Like Clippy but for the CLI. A blazing fast AI helper for your command line <sub>⭐ 310 · Python</sub>
-- [vivy-company/aizen](https://github.com/vivy-company/aizen) - Bring order to your projects, environments, and day-to-day work. <sub>⭐ 306 · Swift</sub>
-- [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open source voice-to-text for the terminal. Record from a hotkey, transcribe with any provider, pipe to AI or shell commands. <sub>⭐ 304 · Rust</sub>
-- [h0x91b/dev-3.0](https://github.com/h0x91b/dev-3.0) - Mission control for the One Person Studio — run a fleet of AI coding agents in parallel without losing your mind. Kanban + git worktrees + tmux for Claude Code, Codex, Gemini CLI, OpenCode and any… <sub>⭐ 303 · TypeScript</sub>
-- [sebattfg/ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free: Turn ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio agent. Browser extension + local bridge. Read/edit scripts, run Luau, generate assets, all from… <sub>⭐ 297 · JavaScript</sub>
-- [kbanc85/claudia](https://github.com/kbanc85/claudia) - Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code. <sub>⭐ 294 · Python</sub>
-- [travisvn/gptree](https://github.com/travisvn/gptree) - A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure. <sub>⭐ 291 · Python</sub>
-- [augmentcode/auggie](https://github.com/augmentcode/auggie) - An AI agent that brings Augment Code's power to the terminal. <sub>⭐ 283 · Shell</sub>
-- [OndCo/Ond-ESG-Intelligence-Platform](https://github.com/OndCo/Ond-ESG-Intelligence-Platform) - Ond ESG Intelligence Platform is a cloud-native solution that ingests ESG data, processes it with Azure Data Factory & Databricks, and applies AI/ML models on Azure ML for predictive insights. Power… <sub>⭐ 283 · Python</sub>
-- [SonarSource/sonarqube-cli](https://github.com/SonarSource/sonarqube-cli) - Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from your terminal. <sub>⭐ 283 · TypeScript</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [haseeb-heaven/open-agent](https://github.com/haseeb-heaven/open-agent) - Open-source AI agent that brings the power of open models directly into your terminal. <sub>⭐ 279 · TypeScript</sub>
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI <sub>⭐ 276 · Rust</sub>
-- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. <sub>⭐ 274 · TypeScript</sub>
-- [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) - TerminalGPT - Terminal-based ChatGPT personal assistant app. Provides optimized, tailored answers for your machine's terminal. <sub>⭐ 273 · Python</sub>
-- [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - All-in-one ChatGPT CLI - Build custom AI tools like GitHub Actions. Features AI commit, natural language commands, translation, and gitmoji. Create powerful CLI tools in seconds, bridging natural… <sub>⭐ 270 · TypeScript</sub>
-- [pamirtuna/gamestudio-subagents](https://github.com/pamirtuna/gamestudio-subagents) - AI-Powered Game Development Team in Your Terminal <sub>⭐ 268 · Python</sub>
-- [awattar/claude-code-best-practices](https://github.com/awattar/claude-code-best-practices) - Best practices and examples for using Claude Code - Anthropic’s terminal-native AI - for writing, editing, and refactoring code with deep project awareness, prompt design, and safe automation. <sub>⭐ 262</sub>
-- [NikolayS/rpg](https://github.com/NikolayS/rpg) - rpg — modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant <sub>⭐ 262 · Rust</sub>
-- [harvard-cns/orla](https://github.com/harvard-cns/orla) - An open-source high performance execution engine for agentic workflows <sub>⭐ 258 · Go</sub>
+- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - すべてのAIコーディングエージェントの最速な開発者ワークフロー。ライブステータス、クイックプロンプト、ワークツリー、および1つのtmux TUIからのdiffレビュー。 <sub>⭐ 558 · Go</sub>
+- [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI(Command Line Interface)は、Bito AIチャット機能にコマンドラインインターフェイスを提供します。 時間が経つにつれて、CLIは複雑なオートメーションと新しいコマンドオプションを追加して、より詳細な機能を拡張します。 <sub>⭐ 550</sub>
+- [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - 端末、CI、AIエージェント向けに構築されたShadcnアプリの決定的なUI監査。 <sub>⭐ 548 · TypeScript</sub>
+- [Nanako0129/coralline](https://github.com/Nanako0129/coralline) - Powerlevel10k-inspired ステータスライン for Claude Code — 1つのプロンプトとAIのインタビューを貼り付け、インストールします。 <sub>⭐ 546 · PowerShell</sub>
+- [aannoo/hcom](https://github.com/aannoo/hcom) - 端末間でAIエージェントのメッセージ、時計、スポーンをしましょう。 クロードコード、コーデックス、アンチグラビティCL、カーサークCLI、OpenCode、キロ、Pi、キンギ <sub>⭐ 536 · Rust</sub>
+- [open-gitagent/clawless](https://github.com/open-gitagent/clawless) - ClawLess — WebContainers による Claw AI Agent のサーバーレスブラウザベースのランタイム <sub>⭐ 535 · TypeScript</sub>
+- [marcusbuffett/command-line-chess](https://github.com/marcusbuffett/command-line-chess) - 端末のAIに対してチェスを再生するPythonプログラム。 <sub>⭐ 532 · Python</sub>
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) - Ollama、ChatGPT、Gemini、Claude、MistralなどのAIでGitやJujutsuのコミットメッセージを生成するReactive CLI <sub>⭐ 529 · TypeScript</sub>
+- [my-claude-utils/clsh](https://github.com/my-claude-utils/clsh) - 電話、タブレット、デスクトップなどあらゆるデバイスから端末とAIエージェントにアクセスできます。 <sub>⭐ 525 · TypeScript</sub>
+- [pulseaiclub/phi](https://github.com/pulseaiclub/phi) - コーディングエージェント、rpcプラグイン、サブエージェント、ハッシュライン編集、mcp <sub>⭐ 523 · Go</sub>
+- [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - AIエージェントとLMs が標準インターフェースで Prometheus メトリクスを照会・解析できるようにするモデルコンテキストプロトコル(MCP)サーバーです。 <sub>⭐ 517 · Python</sub>
+- [actions/ai-inference](https://github.com/actions/ai-inference) - GitHub モデルでAIモデルを呼び出すアクション <sub>⭐ 516 · TypeScript</sub>
+- [tony1223/better-agent-terminal](https://github.com/tony1223/better-agent-terminal) - ClaudeコードAI統合によるマルチワークスペースターミナルアグリゲーター <sub>⭐ 513 · TypeScript</sub>
+- [rssh-org/rssh](https://github.com/rssh-org/rssh) - すべての痛みのポイントに対処するためのSSHツール · (macOS / Windows / Linux / Android / iOS) <sub>⭐ 510 · Rust</sub>
+- [cordum-io/cordum](https://github.com/cordum-io/cordum) - AIエージェントのアクションファイアウォール。リスクのあるツールコール、シェルコマンド、ワークフロー、および生産変更前のポリシーと人的承認を強化し、監査可能なエビデンスで実施します。 <sub>⭐ 509 · Go</sub>
+- [greenfield-inc/Pane](https://github.com/greenfield-inc/Pane) - ターミナル・ファースト、オープンソースのAIエージェントマネージャー(エージェント・アグノスティック)、任意のOS(mac、ウィンドウズ、Linux)。複数のコーディングエージェントを実行するためのオープンソース開発環境... <sub>⭐ 502 · TypeScript</sub>
+- [ryantsai/KKTerm](https://github.com/ryantsai/KKTerm) - 端末、SSH、SFTP、RDP/VNC、ダッシュボード、インストールヘルパー、組み込みのAIアシスタント。 <sub>⭐ 500 · TypeScript</sub>
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - Ollama と他の LLM プロバイダーの TUI <sub>⭐ 493 · Python</sub>
+- [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) - AIコーディングエージェント向けターミナルピクセルアートオフィス <sub>⭐ 485 · Rust</sub>
+- [0sec-labs/0](https://github.com/0sec-labs/0) - お使いのブラウザ、端末、およびエージェントのフルスタックAIセキュリティOS。脆弱性を見つけて検証し、修正します。CVSSスコアではなくビジネスへの影響を優先しました。 <sub>⭐ 483 · TypeScript</sub>
+- [ibigio/shell-ai](https://github.com/ibigio/shell-ai) - 非常に少ない、まだ注目すべき強力なAIシェルアシスタント。 <sub>⭐ 473 · Go</sub>
+- [linghungegeg/Linghun](https://github.com/linghungegeg/Linghun) - 証拠、ツール、メモリ、エージェントおよび検証に基づいたAGI指向の幻覚耐性AIコーディングランタイム。 <sub>⭐ 468 · TypeScript</sub>
+- [abcwyc/pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop) - Pi — デスクトップにClaudeコード体験をもたらすクロスプラットフォームのAIコーディングエージェント。環境設定なし、端末コマンドはありません。ダウンロードしてすぐにコーディングを開始してください。 <sub>⭐ 466 · TypeScript</sub>
+- [JetBrains/junie](https://github.com/JetBrains/junie) - ターミナル、IDE、CI/CDパイプラインからコードを出荷するJetBrainsによるAIコーディングエージェント - あなたが選択したLMのいずれかによって供給 <sub>⭐ 466 · Shell</sub>
+- [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - チームの部族の知識を自動的に捕獲し、表面します <sub>⭐ 465 · Go</sub>
+- [bmadone/senior-software-engineer](https://github.com/bmadone/senior-software-engineer) - シニアレベルのインタビューや評価のための記事、書籍、推奨事項の収集 <sub>⭐ 453</sub>
+- [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - ネラルネットワークは、ラタトゥイとRustで構築されたターミナルでヘビを再生することを学びます <sub>⭐ 449 · Rust</sub>
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps は、AI コーディングエージェントの規準を解明します。仕事の形をし、グラフとして追跡して、それを記述しなかったコンテキストによって判断された各変更を取得します。 <sub>⭐ 447 · Go</sub>
+- [turing-machines/mentals-ai](https://github.com/turing-machines/mentals-ai) - コードなし AIエージェント <sub>⭐ 445 · C++</sub>
+- [neiii/bridle](https://github.com/neiii/bridle) - TUI/CLI は、エージェントハーネス(Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)の管理者を構成します。 <sub>⭐ 440 · Rust</sub>
+- [xuzhougeng/wispterm](https://github.com/xuzhougeng/wispterm) - libghostty-vt によるリモート開発とAIエージェントのワークフローのためのクロスプラットフォームターミナルワークスペース <sub>⭐ 434 · Zig</sub>
+- [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - クラウドコード、カーソル、コーデックス&ジェミニ CLIの24クロスプラットフォームエージェントスキル — データベース、メッセージング、リサーチ、TTS、DevOps、Googleワークスペース <sub>⭐ 429 · Python</sub>
+- [TheLynxHub/LynxHub](https://github.com/TheLynxHub/LynxHub) - AI管理のためのクロスプラットフォーム、拡張可能な端末/ブラウザ <sub>⭐ 426 · TypeScript</sub>
+- [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS コード スタイルのサイドバーヘルダー: ファイルエクスプローラ + 1つのペインのgitソース制御 — シンタックスハイライトプレビュー、VSコード スタイル ディフューザー、GitLens スタイルのドローダ、AIコミットメッセージ <sub>⭐ 424 · Rust</sub>
+- [ZeroDayEvil/ai-security-tool](https://github.com/ZeroDayEvil/ai-security-tool) - オープンソースのAI搭載セキュリティターミナルと脆弱性スキャナー(CVE、SBOM)を無料で利用できます。 SSH、SFTP、RDP、VNC、シリアル、および12+自動セキュリティ用オートノマイズAIエージェント(DeepSeek、OpenAI)をサポートしています... <sub>⭐ 409 · HTML</sub>
+- [amirlehmam/wmux](https://github.com/amirlehmam/wmux) - 元のWindows端末はAIエージェントのマルチプレクサです。 <sub>⭐ 406 · TypeScript</sub>
+- [Ashutosh0x/rust-finance](https://github.com/Ashutosh0x/rust-finance) - 高性能、超低レイテンシの取引ターミナルとRustで完全に構築されたAI注入デーモン。 <sub>⭐ 405 · Rust</sub>
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Codingは簡単です。 DevOpsは難しいです。 OpenCodeとGitトークン効率の高いAIエージェントの自動化により、アプリ、ビジネス、および個人的開発を実現します。 オプトインされたツール、サービス、CLI&APIスタックでスピードを上げます... <sub>⭐ 405 · Shell</sub>
+- [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - マスターOpenCode、オープンソースのAIコーディングエージェント — セットアップ、エージェント、スキル、プラグイン、MCP、ゼン&ヘッドレスCI。 <sub>⭐ 396 · JavaScript</sub>
+- [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Android携帯電話でAIエージェントを実行 — 端末、CLIなし、ガイド付きセットアップ。 <sub>⭐ 396 · Java</sub>
+- [hardisgroupcom/sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis) - セールスフォースのためのフレンチアーム式ナイフツールボックス。ベースコマンドを編成し、インタラクティブウィザードを使用してユーザーを支援してネイティブSalesforce CLI + 完全なCI / CDを定義することができます... <sub>⭐ 395 · TypeScript</sub>
+- [graykode/commit-autosuggestions](https://github.com/graykode/commit-autosuggestions) - AIがコミットメッセージを自動的に推奨するツール。 <sub>⭐ 386 · Python</sub>
+- [therealarthur/myrlin-workbook](https://github.com/therealarthur/myrlin-workbook) - AI コーディングのためのオープンソースのワークスペースマネージャー CLIs: Claude コードと ChatGPT Codex 1 つのブラウザー アプリで。ディスク、埋め込み端末、電話対応、コストトラッキング、カンバン、ドキュメントのすべてのセッションを発見します。... <sub>⭐ 386 · JavaScript</sub>
+- [OpenSource03/harnss](https://github.com/OpenSource03/harnss) - オープンソース、デスクトップクライアント/UIビルドでClaudeコード、CodexなどのエージェントがAgent Client Protocolを受け付けています。 豊富なツールビジュアライゼーション、MCP... <sub>⭐ 381 · TypeScript</sub>
+- [affaan-m/claude-swarm](https://github.com/affaan-m/claude-swarm) - クロードコードのマルチエージェントオーケストレーション — タスクを分解し、エージェントを調整し、リッチターミナルUIですべてを視覚化 <sub>⭐ 380 · Python</sub>
+- [emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder) - スタートアップファウンダー向けのClaudeコードスキル — 製品概要、競合分析、価格設定戦略、デッキピッチ、およびGTMプラン <sub>⭐ 378</sub>
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) - Autolith は自己修飾された一般目的の Lisp AI の代理店です <sub>⭐ 378 · Common Lisp</sub>
+- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - 端末のAIコーディングエージェント <sub>⭐ 375 · Go</sub>
+- [tddworks/asc-cli](https://github.com/tddworks/asc-cli) - App Store は、端末とエージェントから接続します。App Store Connect で iOS および MacOS アプリを管理するためのSwift CLIです。バージョンを投稿し、スクリーンショットの管理やビルドの追跡など、AI エージェントがサポートしている全機能を備えています。 <sub>⭐ 374 · Swift</sub>
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - チャット、メモリ、スキル、ターミナル、承認、マルチエージェントのオーケストレーション - Web UI&ダッシュボード <sub>⭐ 365 · TypeScript</sub>
+- [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - OpenAIのWhisperのほぼライブ実装、サウンドデバイスを使用して。既存のWhisperインストールが必要です。 <sub>⭐ 361 · Python</sub>
+- [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - MCP 用の Wireshark。AI クライアントと MCP サーバー間でのあらゆる実際のツールコールを示す透明なプロキシで、端末に住んでいます。 <sub>⭐ 359 · Go</sub>
+- [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) - コードを読み取り、ファイルを編集し、コマンドを実行し、バグによる理由でコードを読み込むAIコーディングエージェントは、ターミナルREPL、フルスクリーンTUI、およびブラウザ UI全体にわたって、すべての端末にあなたの手を保つ一方で... <sub>⭐ 358 · TypeScript</sub>
+- [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) - ターミナル用のオープンソースのAIコーディングエージェント。スマートモデルルーティングによるクロードコードグレード精度 — 各タスクに適したAIモデルを使用して、コスト10倍を削減します。 Claude、GPT、Gemini、DeepSeekをサポート... <sub>⭐ 357 · TypeScript</sub>
+- [djcopley/ShellOracle](https://github.com/djcopley/ShellOracle) - インテリジェントシェルコマンド生成のためのターミナルユーティリティ <sub>⭐ 353 · Python</sub>
+- [warp-context/rightStage](https://github.com/warp-context/rightStage) - 端末ウィンドウ全体でAIのコンテキストを同期させます。次に何を動作するかを知るために3秒です。 <sub>⭐ 343 · Shell</sub>
+- [rengwu/chartr](https://github.com/rengwu/chartr) - プラグインとターミナルファーストのエージェントワークスペース <sub>⭐ 342 · Rust</sub>
+- [samueltuoyo15/Dokugen](https://github.com/samueltuoyo15/Dokugen) - 端末のAI搭載READMEジェネレータと従来型コミットエンジン。 <sub>⭐ 338 · TypeScript</sub>
+- [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar) - AIエージェントは、ポリシーとホストサイドチェックに拘束された宣言された行動によってインフラを調査および運用しましょう。必要に応じて承認が監査証跡で行われます。 <sub>⭐ 337 · Elixir</sub>
+- [boringcomputers/nehemiah](https://github.com/boringcomputers/nehemiah) - オンデマンドのLinuxコンピュータは、ブラウザ、端末、コーディングエージェント、およびそれらを駆動するAIで人工知能 — 実際のFirecracker microVMに渡すことができます。 <sub>⭐ 335 · TypeScript</sub>
+- [hermes-hq/hermes-ide](https://github.com/hermes-hq/hermes-ide) - AIネイティブ端末エミュレータ & IDE. タウリで構築, リアクション, Rust. <sub>⭐ 330 · TypeScript</sub>
+- [blob42/Instrukt](https://github.com/blob42/Instrukt) - ターミナル内の統合型AI環境。エージェントの構築、テストおよび指示 <sub>⭐ 329 · Python</sub>
+- [isuzu-shiranui/UnityMCP](https://github.com/isuzu-shiranui/UnityMCP) - UnityエディタをAIエージェントまたは端末から動かします。EditorはHTTP上でMCP自体が機能しているため、実行する2番目のプロセスはありませんし、isuzu-unity-cliコマンドはNodeや.NETのランタイムは必要ありません。 <sub>⭐ 329 · C#</sub>
+- [kris-hansen/comanda](https://github.com/kris-hansen/comanda) - AIエージェントのワークフローのためのCLI-native Orchestrator。 Claude Code、Codex、Gemini CLI、Kimiコードを宣言YAMLから実行します。 端末は実際の作業が行われる場所です。 <sub>⭐ 328 · Go</sub>
+- [gwendall/superclaude](https://github.com/gwendall/superclaude) - GitHubワークフロー用のClaude AIのスーパーパワーを与えます。 "修正"をプロメッセージに変換し、インテリジェントな変更ログを作成したり、AIコードのレビューを取得できます。 <sub>⭐ 326 · Shell</sub>
+- [Adityaraj0421/naksha-studio](https://github.com/Adityaraj0421/naksha-studio) - クロードコード、カーソル、ウインドサーフィン、ジェミニ CLI、コピロットの仮想設計チーム - 26 役割、62 コマンド、専門家の設計知識の 15,000 + ライン。あなたの代理店のデザインは、ターミナル内にあります。 <sub>⭐ 320 · HTML</sub>
+- [instructa/browser-echo](https://github.com/instructa/browser-echo) - ブラウザのログをターミナル、ゼロセットアップにストリームし、アイエージェントに最適 <sub>⭐ 320 · TypeScript</sub>
+- [thomwebb/gac](https://github.com/thomwebb/gac) - インテリジェントなLLMを搭載したgit commitメッセージジェネレータで、コードを理解しています。複数の言語に対応できます! <sub>⭐ 317 · Python</sub>
+- [pensarai/apex](https://github.com/pensarai/apex) - オートノムースエージェントを使用したAIによる攻撃性セキュリティテスト、端末の直接。 <sub>⭐ 315 · TypeScript</sub>
+- [termly-dev/termly-cli](https://github.com/termly-dev/termly-cli) - クロードコード、Gemini CLI&OpenCode用のモバイルコンパニオン。 暗号化、リモート <sub>⭐ 313 · JavaScript</sub>
+- [dave1010/clipea](https://github.com/dave1010/clipea) - Clippyと同様、CLIの場合。コマンドライン用の高速AIヘルパーをブレイズする <sub>⭐ 310 · Python</sub>
+- [vivy-company/aizen](https://github.com/vivy-company/aizen) - プロジェクトや環境、日々の業務を受注。 <sub>⭐ 306 · Swift</sub>
+- [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - ターミナル用のオープンソースボイスツーテキスト。ホットキーから録音し、任意のプロバイダでトランジックしたり、AIまたはシェルコマンドにパイプを配管します。 <sub>⭐ 304 · Rust</sub>
+- [h0x91b/dev-3.0](https://github.com/h0x91b/dev-3.0) - One Person Studioのミッションコントロール — 自分の心を失うことなく、AIコーディングエージェントを並行して実行します。 Kanban + git worktrees + Claude Code、Codex、Gemini CLI、OpenCode、および任意の... <sub>⭐ 303 · TypeScript</sub>
+- [sebattfg/ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free: ChatGPT、DeepSeek、Gemini、Kimi、GLM、Qwen、闘技場またはMeta AIをRoblox Studioエージェントに変えます。ブラウザ拡張+ローカルブリッジ. Read/editスクリプト, Luauを実行し、アセットを生成します... <sub>⭐ 297 · JavaScript</sub>
+- [kbanc85/claudia](https://github.com/kbanc85/claudia) - ターミナルベースのAIスタッフのチーフ。関係を記憶し、コミットメントを追跡し、戦略的に考えるのに役立ちます。 クロードコードで実行します。 <sub>⭐ 294 · Python</sub>
+- [travisvn/gptree](https://github.com/travisvn/gptree) - プロジェクトファイルを単一のテキストファイル(またはクリップボードのテキスト)にディレクトリツリー構造と組み合わせることで、プロジェクトをコーディングするためのLM文脈を提供するCLIツール。 <sub>⭐ 291 · Python</sub>
+- [augmentcode/auggie](https://github.com/augmentcode/auggie) - 拡張コードのパワーをターミナルに持ち込むAIエージェント。 <sub>⭐ 283 · Shell</sub>
+- [OndCo/Ond-ESG-Intelligence-Platform](https://github.com/OndCo/Ond-ESG-Intelligence-Platform) - オンドESGインテリジェンスプラットフォームは、ESGデータを摂取し、Azure Data FactoryとDatabricksで処理するクラウドネイティブソリューションであり、予測的な洞察を得るために Azure ML上のAI/MLモデルを適用します。 パワー... <sub>⭐ 283 · Python</sub>
+- [SonarSource/sonarqube-cli](https://github.com/SonarSource/sonarqube-cli) - SonarQubeとAIエージェントの統合のためのコマンドラインインターフェイス。 秘密をスキャンし、端末からコードの品質やセキュリティに関する迅速なフィードバックを得る。 <sub>⭐ 283 · TypeScript</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - TensorflowでNeural Networks(SSD)を使う。Tensorflow(オブジェクト検出API)を使用して手探知機を訓練するために使用されるこのリポジトリのドキュメント手順とスクリプト。任意のDNNベースのタスクと同様に、最も高価な... <sub>⭐ 282 · Python</sub>
+- [haseeb-heaven/open-agent](https://github.com/haseeb-heaven/open-agent) - オープンソースのAIエージェントは、モデルを直接端末に持ち込むことができます。 <sub>⭐ 279 · TypeScript</sub>
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 一般的な端末で、管理・記録・テストを行うチューイアプリ/クライム - 端末をAIに完全にアクセス可能にする <sub>⭐ 276 · Rust</sub>
+- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - 無料のオープンソースのエレクトロンGUIで、Piとoh-my-piコーディングエージェントが利用できます。チャット、編集ファイル、ターミナルを実行し、1つのウィンドウに差分を調べます。Linux、macOS、Windows。 <sub>⭐ 274 · TypeScript</sub>
+- [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) - TerminalGPT - ターミナルベースのChatGPTパーソナルアシスタントアプリ。マシンの端末に適した、カスタマイズされた回答を提供します。 <sub>⭐ 273 · Python</sub>
+- [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - オールインワンチャットGPT CLI - GitHub ActionsなどのカスタムAIツールを構築します。 AIのコミット、自然言語コマンド、翻訳、およびgitmojiの機能。 数秒で強力なCLIツールを作成し、自然な操作をブリッジする... <sub>⭐ 270 · TypeScript</sub>
+- [pamirtuna/gamestudio-subagents](https://github.com/pamirtuna/gamestudio-subagents) - ターミナルでAIを活用したゲーム開発チーム <sub>⭐ 268 · Python</sub>
+- [awattar/claude-code-best-practices](https://github.com/awattar/claude-code-best-practices) - Claudeコード - AnthropicのターミナルネイティブAIを使用して最高のプラクティスと例 - 深いプロジェクト意識、プロンプトデザイン、および安全なオートメーションでコードを記述、編集、再ファクタリング。 <sub>⭐ 262</sub>
+- [NikolayS/rpg](https://github.com/NikolayS/rpg) - rpg — Rustで書かれている現代のPostgresターミナル。 psql互換、組み込みのDBA診断とAIアシスタント <sub>⭐ 262 · Rust</sub>
+- [harvard-cns/orla](https://github.com/harvard-cns/orla) - エージェントのワークフローのためのオープンソースの高いパフォーマンス実行エンジン <sub>⭐ 258 · Go</sub>
 
 ## 🛡️ AIによるクラウドのセキュリティとコスト
 
 > 設定の監査、ポリシー、コスト最適化の支援。
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. <sub>⭐ 48.5k · TypeScript</sub>
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works… <sub>⭐ 33.7k · Python</sub>
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured, cross-platform and AI-friendly. <sub>⭐ 9.7k · Python</sub>
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannonは、WebアプリケーションとAPI用のAIペニテです。 ソースコードを分析し、攻撃ベクトルを特定し、実際の悪用を実行して生産に到達する前に脆弱性を証明します。 <sub>⭐ 48.5k · TypeScript</sub>
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817はAIエージェントのためのサイバーセキュリティスキルを構成しましたが、6つのフレームワークにマッピング:MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentkills.io 標準·... <sub>⭐ 33.7k · Python</sub>
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python 搭載のシェル。フル機能、クロスプラットフォーム、AI対応。 <sub>⭐ 9.7k · Python</sub>
 - [infobyte/faraday](https://github.com/infobyte/faraday) - オープンソースとAIを搭載したサイバーセキュリティツールで、攻撃的なセキュリティ、脆弱性管理、自動侵入防止を実現します。世界中で使用されているラテンアメリカのハッカーによって構築されています。 <sub>⭐ 6.8k · Python</sub>
-- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. <sub>⭐ 2.4k · Go</sub>
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud. <sub>⭐ 2.4k · TypeScript</sub>
-- [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. <sub>⭐ 2.2k · Python</sub>
-- [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) - Open-source AI pentester that proves every finding. Machine oracles re-run each exploit; verified bugs ship a proof capsule you can replay yourself. <sub>⭐ 1.7k · Python</sub>
-- [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) - HackGPT Enterprise is a production-ready, cloud-native AI-powered penetration testing platform designed for enterprise security teams. It combines advanced AI, machine learning, microservices… <sub>⭐ 1.3k · Python</sub>
-- [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform, with the AI you trust. <sub>⭐ 1.1k · TypeScript</sub>
-- [pikpikcu/airecon](https://github.com/pikpikcu/airecon) - AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security… <sub>⭐ 1.1k · Python</sub>
+- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - AI、API および DevOps の計測と課金。リアルタイムで何千もの利用イベントを収集し集計して使用方法に基づく請求を有効にします。 <sub>⭐ 2.4k · Go</sub>
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - AIエージェント用のmicro-VM — ノートパソコンに埋め込むのに十分な光を当て、有力なクラウドを電力供給するのに十分です。 <sub>⭐ 2.4k · TypeScript</sub>
+- [google/mantis](https://github.com/google/mantis) - AI コーディングエージェント用のモジュール式、スタックアグノスティックツールキットを自動で見つけ、再現し、パッチの脆弱性。 <sub>⭐ 2.2k · Python</sub>
+- [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) - すべての発見を証明するオープンソースのAIペネテスター。 マシンオラクルは、各悪用を再実行します。 検証されたバグは、あなたが自分自身を再生することができます証拠カプセルを出荷します。 <sub>⭐ 1.7k · Python</sub>
+- [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) - HackGPT Enterpriseは、エンタープライズセキュリティチーム向けに設計された生産準備が整ったクラウドネイティブのAI搭載ペネトレーションテストプラットフォームです。高度なAI、機械学習、マイクロサービスを組み合わせたものです。 <sub>⭐ 1.3k · Python</sub>
+- [openops-cloud/openops](https://github.com/openops-cloud/openops) - 電池込み、コードなしのFinOps自動化プラットフォーム、信頼できるAI。 <sub>⭐ 1.1k · TypeScript</sub>
+- [pikpikcu/airecon](https://github.com/pikpikcu/airecon) - AIReconは、Kali Linux Docker SandboxとTextual TUIでセルフホスト型の大きな言語モデル(Ollama)を組み合わせた自律的なサイバーセキュリティエージェントです。 セキュリティを自動化するように設計されています... <sub>⭐ 1.1k · Python</sub>
 - [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar) - LLM エージェントのワークフローのためのセキュリティスキャナー <sub>⭐ 1.1k · Python</sub>
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With… <sub>⭐ 997 · JavaScript</sub>
-- [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world… <sub>⭐ 957 · HTML</sub>
-- [tianchong-zerotemp/dianxing](https://github.com/tianchong-zerotemp/dianxing) - DianXing - AI-Driven End-to-End Code Security Auditing <sub>⭐ 871</sub>
-- [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - The independent security agent for AI-written software. Finds issues, investigates whether they are real, and shows you the evidence. Deterministic core, no API key needed, JSON and SARIF output. <sub>⭐ 849 · JavaScript</sub>
-- [duriantaco/skylos](https://github.com/duriantaco/skylos) - Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to… <sub>⭐ 841 · Python</sub>
-- [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered. <sub>⭐ 819 · TypeScript</sub>
-- [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon) - 腾讯云智能渗透黑客松 Official repository of Tencent Cloud Intelligent Penetration Hackathon. Showcasing top open-source projects of LLM-based autonomous penetration agents, including multi-agent collaboration… <sub>⭐ 818 · Python</sub>
-- [FrancescoStabile/numasec](https://github.com/FrancescoStabile/numasec) - The AI Agent for Cyber Security. <sub>⭐ 803 · TypeScript</sub>
-- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) - Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime. <sub>⭐ 711 · Python</sub>
-- [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) - A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise… <sub>⭐ 639</sub>
-- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites <sub>⭐ 584 · Go</sub>
-- [safedep/pmg](https://github.com/safedep/pmg) - PMG protects developers, AI agents from malicious open source packages using proxy, sandbox and SafeDep's threat intelligence feed. <sub>⭐ 538 · Go</sub>
-- [OWASP/DockSec](https://github.com/OWASP/DockSec) - AI-powered Docker security scanner that explains vulnerabilities in plain English. An OWASP Lab Project. <sub>⭐ 494 · Python</sub>
-- [kulkarnirohit123/cra-agent](https://github.com/kulkarnirohit123/cra-agent) - Autonomous agentic AI for CRA (Cyber Resilience Act) compliance: scans repos, triages findings, opens Jira tickets, and auto-fixes vulnerabilities via PR. <sub>⭐ 455 · Python</sub>
-- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent… <sub>⭐ 397 · Python</sub>
-- [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system. <sub>⭐ 368 · Python</sub>
-- [Floe-Labs/floe-guard](https://github.com/Floe-Labs/floe-guard) - AI Initiative Ledger — local spend meter and budget gate for AI tasks. Meters every vendor leg (LLM, speech, telephony, search, tools), hard-stops before the ceiling. MIT, no account. <sub>⭐ 357 · Python</sub>
-- [WellApp-ai/Well](https://github.com/WellApp-ai/Well) - No more Sundays on Finance. We build the infrastructure that retrieves, processes, and routes your financial and business data to your FinOps stack, so founders can ship, not spreadsheet. <sub>⭐ 345 · TypeScript</sub>
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap は、インフォセックスチームと MSSP のコラボレーションファーストセキュリティオペレーションプラットフォームです。エンドツーエンドのエンゲージメント管理を可能にし、再構成から実行およびレポートまでを実現します。 <sub>⭐ 997 · JavaScript</sub>
+- [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - Web App、API、AI 統合アプリのセキュリティテストとセキュアなコードレビューを実践するために設計された意図的に脆弱な銀行アプリケーション。現実世界で見られる一般的な脆弱性の特徴... <sub>⭐ 957 · HTML</sub>
+- [tianchong-zerotemp/dianxing](https://github.com/tianchong-zerotemp/dianxing) - DianXing - AI-Drivenエンドツーエンドコードセキュリティ監査 <sub>⭐ 871</sub>
+- [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - AI-writtenソフトウェア用の独立したセキュリティエージェント。問題を見つけ、彼らが現実であるかを調べて、証拠を示す。決定的なコア、必要なAPIキーなし、JSONおよびSARIF出力。 <sub>⭐ 849 · JavaScript</sub>
+- [duriantaco/skylos](https://github.com/duriantaco/skylos) - デッドコード、セキュリティバグ、秘密、品質回帰、マージ前のAIコードの間違いを見つけるオープンソースローカルファーストPRスキャナを開きます。 初めての方へ... <sub>⭐ 841 · Python</sub>
+- [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) - dbt、SQL、クラウド倉庫向けのオープンソースのエージェントデータエンジニアリングハーネス。100以上のツール、10個の倉庫、AI搭載 <sub>⭐ 819 · TypeScript</sub>
+- [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon) - 知能急流客透過黒松の公式リポジトリ(Tencent Cloud Intelligent Penetration Hackathon)。マルチエージェントコラボレーションを含むLMLLMベースの自動浸透剤のトップオープンソースプロジェクトを紹介する... <sub>⭐ 818 · Python</sub>
+- [FrancescoStabile/numasec](https://github.com/FrancescoStabile/numasec) - サイバーセキュリティのAIエージェント <sub>⭐ 803 · TypeScript</sub>
+- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) - AIエージェント用のオープンソースのアンチウィルス:危険なツール、秘密のアクセス、プロンプト注入、悪意のあるパッケージ、MCPサーバー、プラグイン、および実行時にスキルをブロックします。 <sub>⭐ 711 · Python</sub>
+- [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) - 実際のトラフィック、部分的な障害、セキュリティレビューを生き残る必要があるエンジニアの設計システムのためのソースグラウンドコースとアーキテクチャの参照、および要件の変更、企業に広がる... <sub>⭐ 639</sub>
+- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy モジュールは、AIやクラウドサービスから発信するリクエストをブロックまたは操作し、Webサイト上でトレーニングしようとします。 <sub>⭐ 584 · Go</sub>
+- [safedep/pmg](https://github.com/safedep/pmg) - PMGは、プロキシ、サンドボックス、SafeDepの脅威インテリジェンスフィードを使用して、開発者、AIエージェントを悪意のあるオープンソースパッケージから保護します。 <sub>⭐ 538 · Go</sub>
+- [OWASP/DockSec](https://github.com/OWASP/DockSec) - 明白な英語の脆弱性を説明するAI搭載ドッカーセキュリティスキャナ。 OWASP Labプロジェクト。 <sub>⭐ 494 · Python</sub>
+- [kulkarnirohit123/cra-agent](https://github.com/kulkarnirohit123/cra-agent) - CRA(Cyber Resilience Act)対応の自律型AI:スキャンレポス、トリアージド検索、JiraチケットをオープンしPRによる脆弱性の自動修正 <sub>⭐ 455 · Python</sub>
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - AIエージェントのセルフホストランタイムコントロールプレーン。 ローカルダッシュボードでシークレットリーク、プロンプトインジェクション、サプライチェーンなどを実行する前に、保存またはHITL承認またはブロックローグツール呼び出しを監視します。 エージェント... <sub>⭐ 397 · Python</sub>
+- [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - 脆弱なLM CTFの一連の課題でAIセキュリティを学びます。サインアップ、クラウド手数料なし、システム上のすべてのローカルを実行しません。 <sub>⭐ 368 · Python</sub>
+- [Floe-Labs/floe-guard](https://github.com/Floe-Labs/floe-guard) - AIイニシアチブLedger - ローカルはAIタスクのメーターと予算ゲートを費やします。 すべてのベンダーレッグ(LLM、スピーチ、テレフォニー、検索、ツール)、天井の前にハードストップをメーターで計ります。 MIT、アカウントなし。 <sub>⭐ 357 · Python</sub>
+- [WellApp-ai/Well](https://github.com/WellApp-ai/Well) - 財務に関する日曜日はもうありません。FinOpsスタックに財務データとビジネスデータを検索、処理、およびルートするインフラを構築しているため、ファウンダーはスプレッドシートではなく出荷できます。 <sub>⭐ 345 · TypeScript</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#️-devopssreクラウドのai) · [← 職種別のAIリポジトリ](./README.md)

@@ -20,1026 +20,1026 @@
 
 > 检索、阅读并综合文献的智能体。
 
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. <sub>⭐ 271.3k · JavaScript</sub>
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically <sub>⭐ 97.1k · Python</sub>
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of… <sub>⭐ 83.3k · Python</sub>
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary <sub>⭐ 63.4k · Python</sub>
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms… <sub>⭐ 49.1k · Python</sub>
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering… <sub>⭐ 47.4k · Python</sub>
-- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production <sub>⭐ 46.1k · Python</sub>
-- [google-research/google-research](https://github.com/google-research/google-research) - Google Research <sub>⭐ 38.9k · Jupyter Notebook</sub>
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI… <sub>⭐ 37.6k · Python</sub>
-- [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing <sub>⭐ 34.5k</sub>
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - 代理机利用性能优化系统. 技能,本能,内存,安全,以及Claude Code, Codex, Opencode, Cursor 等的研究-第一开发. <sub>⭐ 271.3k · JavaScript</sub>
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - 自动运行单GPU纳米聊天培训研究的AI代理 <sub>⭐ 97.1k · Python</sub>
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - 一个开源的长视超天线控制器,可以研究、编码和创建。在沙盒、记忆、工具、技能、潜剂和信息网关的帮助下,它处理不同水平的. <sub>⭐ 83.3k · Python</sub>
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI代理技能,研究任何主题 跨越Reddit,X,YouTube,HN,Polymarket,和网络 - 然后合成一个基于基础的总结 <sub>⭐ 63.4k · Python</sub>
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib是一个面向AI的Quant投资平台,旨在使用AI技术增强Quant研究的能力,从探索想法到实施制作. Qlib支持多种ML模型模式. . <sub>⭐ 49.1k · Python</sub>
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - 将任何AI代理变成AI科学家. #1 Agent Swill Library for Science,被全球25万+科学家使用. 177个可随时使用的认证技能加上100+科学数据库覆盖... <sub>⭐ 47.4k · Python</sub>
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 在研究和生产方面经过战斗测试的 " 文字对语言 " 深层学习工具包 <sub>⭐ 46.1k · Python</sub>
+- [google-research/google-research](https://github.com/google-research/google-research) - 谷歌研究( Google Research) (英语). <sub>⭐ 38.9k · Jupyter Notebook</sub>
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - 您的人工智能第二脑, 可以自我接受。 从网络或文档中获取答案 。 构建自定义代理, 调度自动化, 做深入的研究 。 将任何在线或本地的 LLM 转换为您个人的、 自主的 人工智能... <sub>⭐ 37.6k · Python</sub>
+- [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - 提高你的人工智能研究写作能力,不再用乏味的抛光 <sub>⭐ 34.5k</sub>
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch 深层学习研究人员导师课程 <sub>⭐ 32.5k · Python</sub>
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers <sub>⭐ 29.9k · Python</sub>
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more! <sub>⭐ 29.7k · HTML</sub>
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security… <sub>⭐ 29.6k · Jupyter Notebook</sub>
-- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research <sub>⭐ 27.6k · TypeScript</sub>
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents —… <sub>⭐ 27.3k · Python</sub>
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent <sub>⭐ 20.0k · Python</sub>
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models. The goal of this repo is to provide the… <sub>⭐ 19.7k · TypeScript</sub>
-- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) <sub>⭐ 18.5k · Python</sub>
-- [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research <sub>⭐ 18.5k · C++</sub>
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 使用任何LLM提供者对任何数据进行深入研究的自主代理 <sub>⭐ 29.9k · Python</sub>
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - 一站式存储器 基因AI研究更新,访谈资源,笔记本和更多! <sub>⭐ 29.7k · HTML</sub>
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - 这个寄存器由Omar Santosor(@santosomar)维护,包括数千种与伦理黑客入侵,bug bounty,数字法证和事件应对(DFIR),AI安全相关的资源. . <sub>⭐ 29.6k · Jupyter Notebook</sub>
+- [virattt/dexter](https://github.com/virattt/dexter) - 金融研究的自主代理 <sub>⭐ 27.6k · TypeScript</sub>
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code技能与代理技能 & 插件(30+代理,70+自定义命令,380+技能,可定制的参考,脚本)用于Claude Code,Codex,双子座CLI,cursor,以及8个额外的编码代理——. <sub>⭐ 27.3k · Python</sub>
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - 汤义深研究,引领开源深度研究代理 <sub>⭐ 20.0k · Python</sub>
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - 一个AI动力的研究助理,通过结合搜索引擎,网络刮伤和大型语言模型,对任何主题进行迭代的,深入的研究. 这个repo的目标是提供... <sub>⭐ 19.7k · TypeScript</sub>
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - 为从事大语言模型、多式联运和语音AI(自动语音识别和文字对语法)工作的研究人员和开发者构建的可扩展基因的AI框架 <sub>⭐ 18.5k · Python</sub>
+- [microsoft/AirSim](https://github.com/microsoft/AirSim) - 使用不真实引擎/ Unity 构建的自主车辆的开源模拟器,来自Microsoft AI & Research <sub>⭐ 18.5k · C++</sub>
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - 用于代理,助手和企业搜索的私人AI平台. Build-in Agent Builder, Deep Research, Document analysis, 多模式支持,以及代理的API连接. <sub>⭐ 18.3k · Python</sub>
-- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with… <sub>⭐ 16.9k · Python</sub>
-- [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers <sub>⭐ 14.9k · Jupyter Notebook</sub>
-- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature. <sub>⭐ 14.9k · Python</sub>
-- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are… <sub>⭐ 14.8k · Python</sub>
-- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery <sub>⭐ 14.6k · Jupyter Notebook</sub>
-- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. <sub>⭐ 14.6k · Python</sub>
-- [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research. <sub>⭐ 14.5k · C++</sub>
-- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower.… <sub>⭐ 13.2k · TeX</sub>
-- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch… <sub>⭐ 12.4k · Python</sub>
-- [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents <sub>⭐ 12.3k</sub>
-- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug… <sub>⭐ 12.3k · Python</sub>
-- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents <sub>⭐ 11.6k · Python</sub>
-- [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. <sub>⭐ 10.9k · Jupyter Notebook</sub>
-- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) <sub>⭐ 10.5k · Python</sub>
-- [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent. <sub>⭐ 9.9k · TypeScript</sub>
-- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant <sub>⭐ 9.4k · Python</sub>
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &… <sub>⭐ 9.1k · Python</sub>
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with… <sub>⭐ 9.1k · Python</sub>
-- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively. <sub>⭐ 8.4k · Python</sub>
-- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. <sub>⭐ 8.3k · Python</sub>
-- [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. <sub>⭐ 7.7k</sub>
-- [google-deepmind/lab](https://github.com/google-deepmind/lab) - A customisable 3D platform for agent-based AI research <sub>⭐ 7.4k · C</sub>
-- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search <sub>⭐ 7.3k · Python</sub>
-- [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit. <sub>⭐ 7.2k · TypeScript</sub>
-- [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - PaperBanana: Automating Academic Illustration For AI Scientists <sub>⭐ 7.1k · Python</sub>
-- [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit <sub>⭐ 6.4k · C++</sub>
-- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Turn your coding agents into research agents <sub>⭐ 6.4k · Rust</sub>
-- [KunAgent/Kun](https://github.com/KunAgent/Kun) - Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. <sub>⭐ 6.3k · TypeScript</sub>
-- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl <sub>⭐ 6.3k · TypeScript</sub>
-- [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks <sub>⭐ 6.3k</sub>
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone… <sub>⭐ 6.1k · TypeScript</sub>
-- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas <sub>⭐ 5.9k · Python</sub>
-- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. <sub>⭐ 5.8k</sub>
-- [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026 <sub>⭐ 5.8k · HTML</sub>
-- [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - (NeurIPS2025) "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat <sub>⭐ 5.8k · Python</sub>
-- [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) <sub>⭐ 5.6k · Python</sub>
-- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. <sub>⭐ 5.4k · TypeScript</sub>
-- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced… <sub>⭐ 5.4k · C++</sub>
-- [aipoch/open-science](https://github.com/aipoch/open-science) - The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and… <sub>⭐ 5.4k · TypeScript</sub>
-- [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) <sub>⭐ 5.2k · TypeScript</sub>
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. <sub>⭐ 5.2k · Python</sub>
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters. <sub>⭐ 5.2k · Python</sub>
-- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research <sub>⭐ 5.2k · Python</sub>
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+… <sub>⭐ 5.2k · Python</sub>
-- [EvoScientist/EvoScientist](https://github.com/EvoScientist/EvoScientist) - Harness Vibe Research with Self-evolving AI Scientists <sub>⭐ 5.0k · Python</sub>
-- [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research <sub>⭐ 4.9k · Python</sub>
-- [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced… <sub>⭐ 4.9k</sub>
-- [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server. <sub>⭐ 4.7k · JavaScript</sub>
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid… <sub>⭐ 4.7k · Python</sub>
-- [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI. <sub>⭐ 4.5k · Shell</sub>
-- [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes) - Summaries and notes on Deep Learning research papers <sub>⭐ 4.4k</sub>
-- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship. <sub>⭐ 4.1k · Shell</sub>
-- [google-deepmind/acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents <sub>⭐ 4.1k · Python</sub>
-- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and… <sub>⭐ 4.1k · Python</sub>
-- [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - Serenity-inspired Agent Skill for supply-chain bottleneck stock research <sub>⭐ 4.0k · Python</sub>
-- [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) - The open-source AI workbench for scientific research <sub>⭐ 3.9k · TypeScript</sub>
-- [gadievron/raptor](https://github.com/gadievron/raptor) - Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we… <sub>⭐ 3.9k · Python</sub>
-- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research. <sub>⭐ 3.8k · C++</sub>
-- [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth.… <sub>⭐ 3.8k · JavaScript</sub>
-- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP… <sub>⭐ 3.8k · Python</sub>
-- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents. <sub>⭐ 3.6k · Python</sub>
-- [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude… <sub>⭐ 3.6k · Python</sub>
-- [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research. <sub>⭐ 3.6k · Python</sub>
-- [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) - A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. <sub>⭐ 3.6k</sub>
-- [enactic/openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments. <sub>⭐ 3.6k · MDX</sub>
-- [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to… <sub>⭐ 3.6k · Python</sub>
-- [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) - (TMLR) A curated list of language modeling researches for code (and other software engineering activities), plus related datasets. <sub>⭐ 3.4k</sub>
-- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. <sub>⭐ 3.4k · Python</sub>
-- [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D <sub>⭐ 3.4k · Python</sub>
-- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of… <sub>⭐ 3.4k</sub>
-- [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future. <sub>⭐ 3.3k · TypeScript</sub>
-- [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) - SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses <sub>⭐ 3.3k · TypeScript</sub>
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional. <sub>⭐ 3.2k · Python</sub>
-- [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - Organized Resources for Deep Learning Researchers and Developers <sub>⭐ 3.2k · Python</sub>
-- [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - An open-source research agent system for your Zotero library. <sub>⭐ 3.2k · TypeScript</sub>
-- [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the… <sub>⭐ 3.2k · Python</sub>
-- [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments. <sub>⭐ 3.1k · Python</sub>
-- [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http… <sub>⭐ 3.1k · Shell</sub>
-- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by… <sub>⭐ 3.1k · Python</sub>
-- [OpenNSWM-Lab/FAROS](https://github.com/OpenNSWM-Lab/FAROS) - A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review. <sub>⭐ 3.0k · Python</sub>
-- [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) - Deep Learning and deep reinforcement learning research papers and some codes <sub>⭐ 3.0k</sub>
-- [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from… <sub>⭐ 3.0k · Python</sub>
-- [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) - J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. <sub>⭐ 3.0k · Python</sub>
-- [microsoft/ResearchStudio](https://github.com/microsoft/ResearchStudio) - ResearchStudio: Our AI co-author, from research problem to final publication. <sub>⭐ 3.0k · Python</sub>
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS(Auto-Research-In-Sleep)——自主ML研究的轻量级Markdown-只限技能:跨模型审查循环,想法发现,以及实验自动化. 无框架,无锁定——与. <sub>⭐ 16.9k · Python</sub>
+- [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - 深层学习研究人员自然语言处理教程 <sub>⭐ 14.9k · Jupyter Notebook</sub>
+- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - 克劳德神话建筑的理论重建,是利用现有的研究文献从最初的原则中建造的. <sub>⭐ 14.9k · Python</sub>
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - 研发对于提高工业生产力至关重要,特别是在AI时代,研发的核心方面主要集中于数据和模型。 <sub>⭐ 14.8k · Python</sub>
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - AI科学家:走向完全自动化的不限名额科学发现 <sub>⭐ 14.6k · Jupyter Notebook</sub>
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - 完全自主和自演化研究从想法到纸张。 聊天思想, 获取纸张 。 <sub>⭐ 14.6k · Python</sub>
+- [carla-simulator/carla](https://github.com/carla-simulator/carla) - 自主驱动研究的开源模拟器. <sub>⭐ 14.5k · C++</sub>
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - 任何AI模型的AI研究和工程技能的综合开源库,将技能和你的claude代码/codex/gemini代理器包成全马力的AI研究代理. . <sub>⭐ 13.2k · TeX</sub>
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - 开源AI 贸易OS,代理交易,以及气温交易,与Jev System One集成. 研究,构建Python策略,反测试,以及跨越密码,股票和forex的纸/活贸易. 启动... <sub>⭐ 12.4k · Python</sub>
+- [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - 关于编码代理的研究 <sub>⭐ 12.3k</sub>
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents是一款高级的MCP服务器,它让AI代理(Claude,GPT,Copilot等)自主运行150+网络安全工具,用于自动笔试,弱点发现,bug. <sub>⭐ 12.3k · Python</sub>
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 与土著代理人的自动图形界面互动 <sub>⭐ 11.6k · Python</sub>
+- [google/dopamine](https://github.com/google/dopamine) - 多巴胺是快速原型强化学习算法的研究框架. <sub>⭐ 10.9k · Jupyter Notebook</sub>
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - 高质量单文件实施深强化学习算法,具有研究友好性(PPO,DQN,C51,DDPG,TD3,SAC,PPG). <sub>⭐ 10.5k · Python</sub>
+- [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) - 开源AI研究代理商. <sub>⭐ 9.9k · TypeScript</sub>
+- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - 完全本地网络研究和报告撰写助理 <sub>⭐ 9.4k · Python</sub>
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% 在SimpleQA上(例如3090上的Quen3.6-27B). 支持所有本地和云 LLMs(llama.cpp, Ollama, Google,...). 10+搜索引擎 - arXiv, PubMed, 您的私人文件. Everything Local &... <sub>⭐ 9.1k · Python</sub>
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI – 24/7 AI Workforce. 停止写锅炉板,开始运输自主自我改进的代理商,这些代理商研究,计划,代码和执行任务. <sub>⭐ 9.1k · Python</sub>
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker是从事复杂研究和预测任务的深层研究代理商,我们的最新模型MiroThinker-1.7在浏览comp和浏览Comp Zh上分别实现了74.0和75.3。 <sub>⭐ 8.4k · Python</sub>
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - 以 Python 写成, 可选择的 open source 深层 研究 。 <sub>⭐ 8.3k · Python</sub>
+- [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - 为本科生或任何想深入AI领域打下坚实基础的人提供详细和量身定制的指南. <sub>⭐ 7.7k</sub>
+- [google-deepmind/lab](https://github.com/google-deepmind/lab) - 基于代理的 AI 研究可定制的 3D 平台 <sub>⭐ 7.4k · C</sub>
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - AI科学家-v2:通过代理树搜索进行讲习班级自动科学发现 <sub>⭐ 7.3k · Python</sub>
+- [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - 一个人工智能交易代理商,负责股票、密码、商品、福克斯和宏观 —— 从研究到职位进入、持续管理到退出。 <sub>⭐ 7.2k · TypeScript</sub>
+- [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - Paper Banana:AI科学家学术说明自动化 <sub>⭐ 7.1k · Python</sub>
+- [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI 研究自动语音识别工具箱 <sub>⭐ 6.4k · C++</sub>
+- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 把你的编码代理变成研究代理 <sub>⭐ 6.4k · Rust</sub>
+- [KunAgent/Kun](https://github.com/KunAgent/Kun) - 本地第一AI代理工作空间用于编码,写作,设计,研究和自动化——桌面图形用户界面和TUI的一次性运行. <sub>⭐ 6.3k · TypeScript</sub>
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - 开源深层研究克隆。 AI Agent, 说明使用 Firecrawl 提取大量网络数据的原因 。 <sub>⭐ 6.3k · TypeScript</sub>
+- [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash课程帮助忙碌的建设者在两周内赶上AI研究的公共前沿. <sub>⭐ 6.3k</sub>
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - 开源的桌面级AI代理,可以完成真正的工作——数据分析,幻灯片,文件,视频和网络研究. 建在OpenClaw上;运行工具在您真正的桌面上,并从您的手机中获取命令... <sub>⭐ 6.1k · TypeScript</sub>
+- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - 代理实验室是一个端到端的自主研究工作流程,旨在协助你作为人类研究者实施你的研究理念. <sub>⭐ 5.9k · Python</sub>
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - 独立目录 实用技能,插件,内存提供者,工具,表面,以及Nous Research开源的Hermes Agent的指南. <sub>⭐ 5.8k</sub>
+- [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) - 2026年AI工程面试任务,带回家挑战,招聘做法的研究. <sub>⭐ 5.8k · HTML</sub>
+- [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - (NeurIPS2025) "AI-Researcher:自主科学创新"——一个制作准备版本 //novix.science/chat <sub>⭐ 5.8k · Python</sub>
+- [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - Facebook AI Research(FAIR)的愿景和语言多式联运研究模块框架 <sub>⭐ 5.6k · Python</sub>
+- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - 您的 AI 编码代理器的上网- 本地首个搜索、 获取、 爬行和研究。 没有 API 键, 没有云, $0/ query. public beta 。 <sub>⭐ 5.4k · TypeScript</sub>
+- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - 开发波士顿动力学风格的四脚机器人的开源四面体机器人宠物框架,适合STEM,编码与机器人教育,IoT机器人应用,AI-增强. <sub>⭐ 5.4k · C++</sub>
+- [aipoch/open-science](https://github.com/aipoch/open-science) - 用于科学研究和代理工作流程的开源AI研究工作台. 本地第一,具有可扩展技能的模型不可知桌面应用程序,MCP工具和连接器,Python/R执行以及. <sub>⭐ 5.4k · TypeScript</sub>
+- [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - 继续搜索,阅读网页,推理,直到找到答案(或超过符号预算) <sub>⭐ 5.2k · TypeScript</sub>
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP:通过模型背景协议将你的Zotero研究库与克劳德和其他AI助手连接起来,讨论论文,获得摘要,分析引用,等等. <sub>⭐ 5.2k · Python</sub>
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - 开放源代码研究环境,供AI研究人员无缝地从本地硬件到GPU集群来训练,评价,以及规模模型. <sub>⭐ 5.2k · Python</sub>
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - 用于加速3D深层学习研究的 PyTorch 库 <sub>⭐ 5.2k · Python</sub>
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - (2-in-1) 邮件和用户名 OSINT 套件,主要显示本地的 MCP 支持从单个电子邮件/用户名中提取深层数据。分析 2720+ 积极维护扫描向量(210+ 电子邮件 / 2510+...) <sub>⭐ 5.2k · Python</sub>
+- [EvoScientist/EvoScientist](https://github.com/EvoScientist/EvoScientist) - Harness Vibe 与自演的AI科学家的研究 <sub>⭐ 5.0k · Python</sub>
+- [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - 机器学习和代理AI 资源、实践和研究 <sub>⭐ 4.9k · Python</sub>
+- [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - 我相信,你,本书主要针对的研究生和求职者,阅读本书将受益匪浅;然而,我希望,即使是最有经验的... <sub>⭐ 4.9k</sub>
+- [u14app/deep-research](https://github.com/u14app/deep-research) - 使用任意 LLMS( Large Language Models) 进行深层研究. 支持SSE API和 MCP 服务器. <sub>⭐ 4.7k · JavaScript</sub>
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Claude Code 和其他6名CLI 代理的持续记忆, 存储在您的 Obsidian 金库中 。 停止重新解释您的项目、 决定和人员每次会话 。 45 命令: 混合... <sub>⭐ 4.7k · Python</sub>
+- [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 为网络安全专业人员、研究人员和bug赏金猎人全面收集OSINT工具,专题:信息收集、反向搜索、红色团队、信任和安全,AI。 <sub>⭐ 4.5k · Shell</sub>
+- [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes) - 深入学习研究论文摘要和说明 <sub>⭐ 4.4k</sub>
+- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - 运行多个 AI 模型来对抗相同的研究、 设计或编码任务。 在您出发前, 表面分歧 。 <sub>⭐ 4.1k · Shell</sub>
+- [google-deepmind/acme](https://github.com/google-deepmind/acme) - 强化学习部分和代理人图书馆 <sub>⭐ 4.1k · Python</sub>
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - 深度检查: 持续验证 ML 模型和数据的测试. Deepchecks 是针对您所有AI & ML 验证需要的全方位开源解决方案,能够彻底测试您的数据和. <sub>⭐ 4.1k · Python</sub>
+- [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) - 用于供应链瓶颈库存研究的 " 安全激励 " 特工技能 <sub>⭐ 4.0k · Python</sub>
+- [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) - 科学研究的开源AI工作台 <sub>⭐ 3.9k · TypeScript</sub>
+- [gadievron/raptor](https://github.com/gadievron/raptor) - 猛禽将Claude Code变成通用的AI攻击/防御安全特工,通过使用Claude.md和创建规则,子代理和技能,以及协调安全工具的使用,我们...... <sub>⭐ 3.9k · Python</sub>
+- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - 一个灵活,高性能的3D模拟器,用于Embody AI研究. <sub>⭐ 3.8k · C++</sub>
+- [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - AI代理的反懒散技巧. Core:深层树法,它将任务N层深分,使每片叶子都得到整个任务的全时预算,所以努力与深度相乘. . <sub>⭐ 3.8k · JavaScript</sub>
+- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - 将 Claude Code 或 Codex 转换为最智能的深层研究代理。 收集、 搜索和将网络研究合成一个持续、 可搜索的维基, 它建立在自身之上。 主机 API + MCP... <sub>⭐ 3.8k · Python</sub>
+- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent是一种多代理AI系统,它自动将研究论文转化为交互式AI代理. <sub>⭐ 3.6k · Python</sub>
+- [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) - 个人知识库可以建立和维持自己。 投放来源—— Claude(或Codex/Gemini)读取,提取知识,并维持一个持久的相互联系的wiki。 与Claude合作... <sub>⭐ 3.6k · Python</sub>
+- [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - 一个深层学习图书馆,用于视频理解研究. <sub>⭐ 3.6k · Python</sub>
+- [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) - 以 " AI " 为代表的先进研究清单,侧重于视觉语言行动模式、视觉语言导航和相关多模式学习方法。 <sub>⭐ 3.6k</sub>
+- [enactic/openarm](https://github.com/enactic/openarm) - 在接触丰富的环境中进行物理AI研究和部署的全源人造臂. <sub>⭐ 3.6k · MDX</sub>
+- [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - 深度研究代理是一种分级的多代理系统,不仅为深度研究任务设计,也为通用任务解决设计. 框架利用顶级规划代理. <sub>⭐ 3.6k · Python</sub>
+- [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) - (TMLR)一个为代码(和其他软件工程活动)进行语言模型研究的解析列表,加上相关的数据集. <sub>⭐ 3.4k</sub>
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel是供需要快速,可靠和可伸缩的管道的工程师根据经核实的研究论文进行合成数据和AI反馈的框架. <sub>⭐ 3.4k · Python</sub>
+- [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - 加快深入学习研发. <sub>⭐ 3.4k · Python</sub>
+- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA疫苗已成为克服当前流行病和许多其他公共卫生和医疗挑战所带来的挑战的一个关键工具。 <sub>⭐ 3.4k</sub>
+- [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) - 现在,强大的AI推动边疆, 更强大的我们共享的未来。 <sub>⭐ 3.3k · TypeScript</sub>
+- [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) - SoL-Pi: 扩展高效代理工具自动研究循环 <sub>⭐ 3.3k · TypeScript</sub>
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - 本地的 MCP 服务器用于代理文献工作。 原始- LaTeX 部分读取 arXiv 元数据中的 BibTeX 和主题手表。 文件留在磁盘中。 搜索是可选的 。 <sub>⭐ 3.2k · Python</sub>
+- [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - 为深层学习研究人员和开发者组织资源 <sub>⭐ 3.2k · Python</sub>
+- [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - 您的 Zotero 图书馆的开源研究代理系统 。 <sub>⭐ 3.2k · TypeScript</sub>
+- [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) - AI友好的PPT构建器技能:17个手绘的中国PPTX模板+无损文本只编辑工具(基于python-pptx). 选择模板,写编辑.json,用... <sub>⭐ 3.2k · Python</sub>
+- [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - 一个模块化的高级别图书馆,用于培训各种任务和环境的人工智能代理。 <sub>⭐ 3.1k · Python</sub>
+- [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - Claude的免费SEO MCP服务器+开源的SEO和GEO技能:关键词研究,排位跟踪,审计,回路链接,你真正的GSC/GA4/ads数据上的AI能见度. Claude mcp 添加ryze-transport http... <sub>⭐ 3.1k · Shell</sub>
+- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI 代理技能用于社交媒体研究. Outlier 帖子,评论挖掘,竞争者撕裂,广告库和趋势横跨TikTok,Instagram,YouTube,Reddit,X,LinkedIn & more. Powered by... <sub>⭐ 3.1k · Python</sub>
+- [OpenNSWM-Lab/FAROS](https://github.com/OpenNSWM-Lab/FAROS) - 由蓝图驱动的自动研究运行时间,用于协调AI的研究工作流程,从思想生成和实验到纸质写作和同行评审. <sub>⭐ 3.0k · Python</sub>
+- [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) - 深入学习和深入强化学习研究论文及一些守则. <sub>⭐ 3.0k</sub>
+- [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - 一个python程序将运行在Ollama上的LLM转换成自动研究员,该程序将用单一的查询确定要调查的重点领域,进行网络搜索并从. <sub>⭐ 3.0k · Python</sub>
+- [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) - J-Space Condition Suite — 一个模型-不可知推论-时间控制套件,用于深推理,长视野工作,验证,和回收. 基于Anthropic的J-space全球工作空间研究. <sub>⭐ 3.0k · Python</sub>
+- [microsoft/ResearchStudio](https://github.com/microsoft/ResearchStudio) - ResearchStudio:我们的AI合著,从研究问题到最终出版. <sub>⭐ 3.0k · Python</sub>
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - 与音乐应用的深度学习有关的文章列表 <sub>⭐ 3.0k · TeX</sub>
-- [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) - AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project. <sub>⭐ 2.9k · Python</sub>
-- [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) - Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery. <sub>⭐ 2.8k · Markdown</sub>
-- [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) - Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides. <sub>⭐ 2.8k · Python</sub>
-- [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering <sub>⭐ 2.7k</sub>
-- [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch. <sub>⭐ 2.6k</sub>
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification <sub>⭐ 2.6k</sub>
-- [Farama-Foundation/Arcade-Learning-Environment](https://github.com/Farama-Foundation/Arcade-Learning-Environment) - A simple framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games <sub>⭐ 2.5k · C++</sub>
-- [DeepInsight-AI/DeepBI](https://github.com/DeepInsight-AI/DeepBI) - LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI. <sub>⭐ 2.4k · Python</sub>
-- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections… <sub>⭐ 2.3k · Shell</sub>
-- [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1… <sub>⭐ 2.3k · Python</sub>
-- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control <sub>⭐ 2.3k · Python</sub>
-- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens. <sub>⭐ 2.3k</sub>
-- [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) - STEP-GUI: The top GUI agent solution in the galaxy. Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities. <sub>⭐ 2.3k · Python</sub>
-- [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready. <sub>⭐ 2.2k · TypeScript</sub>
-- [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and… <sub>⭐ 2.2k · HTML</sub>
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code. <sub>⭐ 2.2k · JavaScript</sub>
-- [crshdn/mission-control](https://github.com/crshdn/mission-control) - The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted… <sub>⭐ 2.1k · TypeScript</sub>
-- [appeeky/aso-skills](https://github.com/appeeky/aso-skills) - AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI… <sub>⭐ 2.1k · MDX</sub>
-- [fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon) - This is originally a collection of papers on neural network accelerators. Now it's more like my selection of research on deep learning and computer architecture. <sub>⭐ 2.1k</sub>
-- [eloialonso/diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model. NeurIPS 2024 Spotlight. <sub>⭐ 2.1k · Python</sub>
-- [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more. <sub>⭐ 2.1k · TypeScript</sub>
-- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. <sub>⭐ 2.1k · Python</sub>
-- [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research <sub>⭐ 2.0k · TypeScript</sub>
-- [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai <sub>⭐ 2.0k</sub>
-- [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research <sub>⭐ 2.0k · Python</sub>
-- [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - FREE AI Resources - Courses, Jobs, Blogs, AI Research, and many more - for everyone! <sub>⭐ 2.0k</sub>
-- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. <sub>⭐ 2.0k · Python</sub>
-- [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) - This is a curated list of "Embodied AI or robot with Large Language Models" research. Watch this repository for the latest updates! <sub>⭐ 1.9k</sub>
-- [dzyim/ilya-sutskever-recommended-reading](https://github.com/dzyim/ilya-sutskever-recommended-reading) - It is said that, Ilya Sutskever gave John Carmack this reading list of ~ 30 research papers on deep learning. <sub>⭐ 1.9k</sub>
-- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required. <sub>⭐ 1.9k · Python</sub>
-- [GauravBh1010tt/DeepLearn](https://github.com/GauravBh1010tt/DeepLearn) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn. <sub>⭐ 1.8k · Python</sub>
-- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems. <sub>⭐ 1.8k</sub>
-- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. <sub>⭐ 1.8k · Python</sub>
-- [microsoft/CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments. <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [trycua/acu](https://github.com/trycua/acu) - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools. <sub>⭐ 1.8k</sub>
-- [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle <sub>⭐ 1.8k · Python</sub>
-- [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - "Your Fully-Automated Personal AI Assistant" <sub>⭐ 1.7k · Python</sub>
-- [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion) - WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for… <sub>⭐ 1.7k · Python</sub>
-- [StanfordVL/BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx <sub>⭐ 1.7k · Python</sub>
-- [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models <sub>⭐ 1.7k · JavaScript</sub>
-- [ai4s-research/open-science](https://github.com/ai4s-research/open-science) - Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills. <sub>⭐ 1.7k · TypeScript</sub>
-- [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Democratizing AI scientists with ToolUniverse <sub>⭐ 1.7k · Python</sub>
-- [skyllwt/AutoSci](https://github.com/skyllwt/AutoSci) - Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code <sub>⭐ 1.7k · Python</sub>
-- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or local models. For authorized security research only. <sub>⭐ 1.7k · Python</sub>
-- [bytedance/pasa](https://github.com/bytedance/pasa) - PaSa -- an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant… <sub>⭐ 1.7k · Python</sub>
-- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Curated skills, sub-agents, and config templates that supercharge Claude Code — research, image gen, GitHub automation & more. <sub>⭐ 1.7k · Python</sub>
-- [wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - A collection of research materials on explainable AI/ML <sub>⭐ 1.7k · Markdown</sub>
-- [InterDigitalInc/CompressAI](https://github.com/InterDigitalInc/CompressAI) - A PyTorch library and evaluation platform for end-to-end compression research <sub>⭐ 1.6k · Python</sub>
-- [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need) - The basic distribution probability Tutorial for Deep Learning Researchers <sub>⭐ 1.6k · Python</sub>
-- [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Firmware security research platform combining binary analysis, taint tracing, and emulation across IoT, edge AI, mobile devices, and robotics. <sub>⭐ 1.6k · Rust</sub>
-- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes. <sub>⭐ 1.6k · TypeScript</sub>
-- [edbeeching/godot_rl_agents](https://github.com/edbeeching/godot_rl_agents) - An Open Source package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents <sub>⭐ 1.6k · Python</sub>
-- [business-science/awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist) - A curated list of 100+ resources for building and deploying generative AI specifically focusing on helping you become a Generative AI Data Scientist with LLMs <sub>⭐ 1.6k</sub>
-- [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs. <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven… <sub>⭐ 1.6k · Python</sub>
-- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent: Your intelligent companion for seamless AI engineering and research. Integrate with arxiv and paper with code to provide better code/research plans OpenAI, Anthropic, Gemini, Ollama, etc… <sub>⭐ 1.6k · Python</sub>
-- [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy) - Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and viral trend research <sub>⭐ 1.6k · Python</sub>
-- [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) - Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment. <sub>⭐ 1.6k · Shell</sub>
-- [WecoAI/aideml](https://github.com/WecoAI/aideml) - AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench. <sub>⭐ 1.6k · Python</sub>
-- [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more. <sub>⭐ 1.5k · Python</sub>
-- [murtaza-nasir/maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks. <sub>⭐ 1.5k · Python</sub>
-- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows. <sub>⭐ 1.5k · TypeScript</sub>
-- [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker) - (NeurIPS 2025) WebThinker: Empowering Large Reasoning Models with Deep Research Capability <sub>⭐ 1.5k · Python</sub>
-- [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2 <sub>⭐ 1.4k · Python</sub>
-- [Agent-RL/ReCall](https://github.com/Agent-RL/ReCall) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning & ReCall: Learning to Reason with Tool Call for LLMs via Reinforcement Learning <sub>⭐ 1.4k · Python</sub>
-- [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) - The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and… <sub>⭐ 1.4k · Python</sub>
-- [apple-aiml-research/ml-aim](https://github.com/apple-aiml-research/ml-aim) - This repository provides the code and model checkpoints for AIMv1 and AIMv2 research projects. <sub>⭐ 1.4k · Python</sub>
-- [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - The Tavily Python SDK allows for easy interaction with the Tavily API, offering the full range of our search, extract, crawl, map, and research functionalities directly from your Python programs.… <sub>⭐ 1.4k · Python</sub>
-- [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) - AI-powered sales team for Claude Code. Research prospects, qualify leads (BANT + MEDDIC), find decision makers, generate outreach sequences, prepare for meetings, write proposals, and produce PDF… <sub>⭐ 1.4k · Python</sub>
-- [tmgthb/Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) - Autonomous Agents (LLMs) research papers. Updated Daily. <sub>⭐ 1.4k</sub>
-- [nvk/llm-wiki](https://github.com/nvk/llm-wiki) - LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation. <sub>⭐ 1.4k · Python</sub>
-- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more. <sub>⭐ 1.4k</sub>
-- [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) - Minimal and annotated implementations of key ideas from modern deep learning research. <sub>⭐ 1.4k · Python</sub>
-- [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) - + NanoResearch: The Autonomous AI Research Assistant <sub>⭐ 1.3k · Python</sub>
-- [brayonpi/hexstellar](https://github.com/brayonpi/hexstellar) - Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable… <sub>⭐ 1.3k · Python</sub>
-- [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent… <sub>⭐ 1.3k · Python</sub>
-- [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) - OpenYao public skills collection: reusable AI assets for decision-making, business analysis, tutorials, research evidence gathering, and document generation. <sub>⭐ 1.3k · HTML</sub>
-- [Claw-AI-Lab/Claw-AI-Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab) - One dashboard. An entire research team. <sub>⭐ 1.3k · Python</sub>
-- [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - A simulation platform for versatile Embodied AI research and developments. <sub>⭐ 1.3k · Python</sub>
-- [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) - An AI co-scientist running on your desktop. Claude Science but better. <sub>⭐ 1.3k · TypeScript</sub>
-- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. <sub>⭐ 1.3k · Python</sub>
-- [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) - OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis <sub>⭐ 1.3k · Python</sub>
-- [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) - X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. <sub>⭐ 1.2k · TypeScript</sub>
-- [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) - A repository to curate and summarise research papers related to fashion and e-commerce <sub>⭐ 1.2k</sub>
-- [firecrawl/web-agent](https://github.com/firecrawl/web-agent) - Open-source web data agent optimized for structured web research <sub>⭐ 1.2k · TypeScript</sub>
-- [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) - Reddit research skills for Claude Code and AI agents <sub>⭐ 1.2k · Python</sub>
-- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify. <sub>⭐ 1.2k · JavaScript</sub>
-- [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) - Salesforce Enterprise Deep Research <sub>⭐ 1.2k · Python</sub>
-- [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code generation to help researchers accelerate their workflow. <sub>⭐ 1.2k · Python</sub>
-- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) - Open-source AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg and Rizin — automated PE/APK/binary analysis, CTF and malware research, with 100+ MCP tools and a… <sub>⭐ 1.2k · Python</sub>
-- [aitorzip/DeepGTAV](https://github.com/aitorzip/DeepGTAV) - A plugin for GTAV that transforms it into a vision-based self-driving car research environment. <sub>⭐ 1.2k · C++</sub>
-- [polyuiislab/infiAgent](https://github.com/polyuiislab/infiAgent) - Build your own Cowork, AI Scientist and other SoTA Agents just by editing config files. Support anthropic skills. An infinite-horizon agent framework designed for long-running, complex tasks. <sub>⭐ 1.2k · Python</sub>
-- [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) - Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code. <sub>⭐ 1.2k · Ruby</sub>
-- [yandex-research/rtdl](https://github.com/yandex-research/rtdl) - Research on Tabular Deep Learning: Papers & Packages <sub>⭐ 1.2k · Python</sub>
-- [NVIDIA-NeMo/labs-molt](https://github.com/NVIDIA-NeMo/labs-molt) - A scalable, agentic-first, and HuggingFace-native RL framework for research (9k lines). <sub>⭐ 1.2k · Python</sub>
-- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Enterprise-grade deep research skill for Claude Code with 8-phase pipeline, source credibility scoring, and automated validation. Outperforms OpenAI, Gemini, and Claude Desktop in quality and… <sub>⭐ 1.2k · Python</sub>
-- [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) - A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. <sub>⭐ 1.1k · JavaScript</sub>
-- [917Dhj/DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) - DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research notes. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. <sub>⭐ 1.1k · Python</sub>
-- [vamplabAI/sgr-agent-core](https://github.com/vamplabAI/sgr-agent-core) - Schema-Guided Reasoning (SGR) has agentic system design created by neuraldeep community <sub>⭐ 1.1k · Python</sub>
-- [RUC-NLPIR/Arbor](https://github.com/RUC-NLPIR/Arbor) - A generalist autonomous research agent — runs experiments, researches, and iteratively optimizes, autonomously. <sub>⭐ 1.1k · Python</sub>
-- [neurreps/awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond <sub>⭐ 1.1k</sub>
-- [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) - Pokee Deep Research Model Open Source Repo <sub>⭐ 1.1k · Python</sub>
-- [microsoft/Biodiversity](https://github.com/microsoft/Biodiversity) - Microsoft AI for Good Lab — Biodiversity research hub. Open-source AI models, edge devices, and tools for biodiversity monitoring and conservation. Your source for MegaDetector, SPARROW… <sub>⭐ 1.1k · Python</sub>
-- [mskayyali/nodepad](https://github.com/mskayyali/nodepad) - A spatial research tool that explores using AI to augment thinking, not replace it. <sub>⭐ 1.1k · TypeScript</sub>
-- [ntasfi/PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - PyGame Learning Environment (PLE) -- Reinforcement Learning Environment in Python. <sub>⭐ 1.1k · Python</sub>
-- [juanjuandog/FinSight-AI](https://github.com/juanjuandog/FinSight-AI) - AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation. <sub>⭐ 1.1k · Java</sub>
-- [shyamsaktawat/OpenAlpha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve) - OpenAlpha_Evolve is an open-source Python framework inspired by the groundbreaking research on autonomous coding agents like DeepMind's AlphaEvolve. <sub>⭐ 1.1k · Python</sub>
-- [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) - LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists) <sub>⭐ 1.1k</sub>
-- [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all… <sub>⭐ 1.1k · Python</sub>
-- [xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science) - Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models. <sub>⭐ 998 · Rust</sub>
-- [iDoka/awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id) - Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts. <sub>⭐ 990</sub>
-- [kyky2347/ALTA](https://github.com/kyky2347/ALTA) - Autonomous LLM Trading Asterism — a research-only multi-agent trading platform with evidence-first research, an auditable console, Shadow simulation and explicitly authorized broker execution. <sub>⭐ 983 · Python</sub>
-- [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) - GenAI powered multi-agentic medical diagnostics and healthcare research assistance chatbot. Designed for healthcare professionals, researchers and patients. <sub>⭐ 981 · Python</sub>
-- [NeuroAIHub/BrainPilot](https://github.com/NeuroAIHub/BrainPilot) - BrainPilot: Automating Brain Discovery with Agentic Research <sub>⭐ 976 · TypeScript</sub>
-- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents. <sub>⭐ 974 · TypeScript</sub>
-- [DmitryRyumin/ICCV-2023-25-Papers](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) - ICCV 2023-2025 Papers: Discover cutting-edge research from ICCV 2023-25, the leading computer vision conference. Stay updated on the latest in computer vision and deep learning, with code included.… <sub>⭐ 972 · Python</sub>
-- [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) - The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI… <sub>⭐ 969 · Rust</sub>
-- [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) - The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). <sub>⭐ 968 · Python</sub>
-- [cebeuq/Synthid-Bypass](https://github.com/cebeuq/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro <sub>⭐ 961 · Python</sub>
-- [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation. <sub>⭐ 960 · Python</sub>
-- [StanfordVL/GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents <sub>⭐ 948 · C</sub>
-- [bgauryy/octocode](https://github.com/bgauryy/octocode) - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI <sub>⭐ 945 · TypeScript</sub>
-- [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources <sub>⭐ 944</sub>
-- [instadeepai/Mava](https://github.com/instadeepai/Mava) - A research-friendly codebase for fast experimentation of multi-agent reinforcement learning in JAX <sub>⭐ 937 · Python</sub>
-- [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases. <sub>⭐ 933 · Python</sub>
-- [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) - A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug… <sub>⭐ 930 · Python</sub>
-- [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) - Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. Watch the whole… <sub>⭐ 923 · TypeScript</sub>
-- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product… <sub>⭐ 920 · Python</sub>
-- [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories ! <sub>⭐ 919 · Python</sub>
-- [Aethena-Lab/Z3r0](https://github.com/Aethena-Lab/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines. <sub>⭐ 915 · Python</sub>
-- [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) - A curated collection of free, high quality AI tools , APIs , datasets , and learning resources covering machine learning , deep learning , generative AI , NLP , and data science . Designed to help… <sub>⭐ 911</sub>
-- [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) - A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. <sub>⭐ 907 · TypeScript</sub>
-- [Thinklab-SJTU/ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) - A research protocol for deep graph matching. <sub>⭐ 883 · Python</sub>
-- [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) - Curated resources, research, and tools for securing AI systems <sub>⭐ 877</sub>
-- [fdarkaou/open-deep-research](https://github.com/fdarkaou/open-deep-research) - An open-source alternative to OpenAI and Gemini's deep research. <sub>⭐ 875 · TypeScript</sub>
-- [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) - (ACL 2026 KnowFM) Awesome Agentic Deep Research Resources <sub>⭐ 868</sub>
-- [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution. <sub>⭐ 865</sub>
-- [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) - A general memory system for agents, powered by deep-research <sub>⭐ 863 · Python</sub>
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex… <sub>⭐ 854 · HTML</sub>
-- [luwill/research-skills](https://github.com/luwill/research-skills) - Some commonly used research experiences and processes are encapsulated into Agent skills. <sub>⭐ 854 · Python</sub>
-- [coreyhaines31/makerskills](https://github.com/coreyhaines31/makerskills) - AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor. <sub>⭐ 839</sub>
-- [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench) - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents <sub>⭐ 837 · Python</sub>
-- [heurist-network/heurist-agent-framework](https://github.com/heurist-network/heurist-agent-framework) - A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service. <sub>⭐ 829 · Python</sub>
-- [Technion-Kishony-lab/data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) - data-to-paper: Backward-traceable AI-driven scientific research <sub>⭐ 827 · Python</sub>
-- [haofanwang/Lora-for-Diffusers](https://github.com/haofanwang/Lora-for-Diffusers) - The most easy-to-understand tutorial for using LoRA (Low-Rank Adaptation) within diffusers framework for AI Generation Researchers <sub>⭐ 822 · Python</sub>
-- [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) - Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines… <sub>⭐ 820 · Python</sub>
-- [jasmcaus/caer](https://github.com/jasmcaus/caer) - High-performance Vision library in Python. Scale your research, not boilerplate. <sub>⭐ 818 · Python</sub>
-- [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster. <sub>⭐ 815 · Shell</sub>
-- [risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole) - Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal… <sub>⭐ 810 · Kotlin</sub>
-- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) - What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. <sub>⭐ 808 · Python</sub>
-- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online… <sub>⭐ 802 · Python</sub>
-- [GAIR-NLP/DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher) - Scaling Deep Research via Reinforcement Learning in Real-world Environments. <sub>⭐ 801 · Python</sub>
-- [DeepXiv/deepxiv_sdk](https://github.com/DeepXiv/deepxiv_sdk) - Talk to research papers like talking to authors - Python package with AI agent for arXiv papers <sub>⭐ 800 · Python</sub>
-- [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS) <sub>⭐ 799 · Jupyter Notebook</sub>
-- [MultiAgentLearning/playground](https://github.com/MultiAgentLearning/playground) - PlayGround: AI Research into Multi-Agent Learning. <sub>⭐ 796 · Python</sub>
-- [qx-labs/agents-deep-research](https://github.com/qx-labs/agents-deep-research) - An implementation of iterative deep research using the OpenAI Agents SDK <sub>⭐ 792 · Python</sub>
-- [facebookresearch/CodeGen](https://github.com/facebookresearch/CodeGen) - Reference implementation of code generation projects from Facebook AI Research. General toolkit to apply machine learning to code, from dataset creation to model training and evaluation. Comes with… <sub>⭐ 776 · Python</sub>
-- [shuxiachai/academic-commercialization-agent](https://github.com/shuxiachai/academic-commercialization-agent) - Turn papers and research topics into source-linked commercialization assessment drafts. Python, FastAPI and CrewAI; auditable scoring, checkpoint recovery and durable request receipts. <sub>⭐ 771 · Python</sub>
-- [csarron/awesome-emdl](https://github.com/csarron/awesome-emdl) - Embedded and mobile deep learning research resources <sub>⭐ 769</sub>
-- [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research <sub>⭐ 753 · Python</sub>
-- [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development. <sub>⭐ 740 · Python</sub>
-- [natoshikamoto/KamotoAgent](https://github.com/natoshikamoto/KamotoAgent) - KAMOTO — Open-source autonomous market agent for researching, analyzing, and executing strategies across equities, crypto, and onchain markets. MEATLOAF 0x49f139bc399bf865aeb51e787f1826b0edf52f04 <sub>⭐ 739 · JavaScript</sub>
-- [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - A virtual lab of LLM agents for science research <sub>⭐ 737 · Jupyter Notebook</sub>
-- [416rehman/DeepZero](https://github.com/416rehman/DeepZero) - Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively… <sub>⭐ 734 · Python</sub>
-- [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) - Free AI agent skills for Amazon sellers— keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills… <sub>⭐ 728 · Python</sub>
-- [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) - 13 curated Agent Skills for research, product decisions, decks, publishing, audits, and more — portable across skills-compatible agents. <sub>⭐ 725 · Python</sub>
-- [SergioFierens/ai4r](https://github.com/SergioFierens/ai4r) - Artificial Intelligence for Ruby - A Ruby playground for AI researchers <sub>⭐ 722 · Ruby</sub>
-- [andrehuang/research-companion](https://github.com/andrehuang/research-companion) - Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them. <sub>⭐ 718</sub>
-- [peteanderson80/Matterport3DSimulator](https://github.com/peteanderson80/Matterport3DSimulator) - AI Research Platform for Reinforcement Learning from Real Panoramic Images. <sub>⭐ 716 · C++</sub>
-- [SeanJ1ang/design-judge-skills](https://github.com/SeanJ1ang/design-judge-skills) - Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness. <sub>⭐ 714 · Python</sub>
-- [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) - Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research <sub>⭐ 713 · Python</sub>
-- [https-deeplearning-ai/agentic-ai-public](https://github.com/https-deeplearning-ai/agentic-ai-public) - Research Agent service for the Agentic Workflow course <sub>⭐ 711 · Python</sub>
-- [tomhartke/knowledge-graph-from-GPT](https://github.com/tomhartke/knowledge-graph-from-GPT) - Using GPT to organize and access information, and generate questions. Long term goal is to make an agent-like research assistant. <sub>⭐ 692 · Jupyter Notebook</sub>
-- [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, build landing pages, deploy — full flywheel with social intelligence. Works with… <sub>⭐ 689 · HTML</sub>
-- [ARA-Labs/Agent-Native-Research-Artifact](https://github.com/ARA-Labs/Agent-Native-Research-Artifact) - Research Artifact Protocol for Rigorous and Trustworthy AI Scientists <sub>⭐ 688 · Python</sub>
-- [dCaples/AutoDidact](https://github.com/dCaples/AutoDidact) - Autonomously train research-agent LLMs on custom data using reinforcement learning and self-verification. <sub>⭐ 688 · Jupyter Notebook</sub>
-- [firecrawl/open-researcher](https://github.com/firecrawl/open-researcher) - Visual AI research assistant that displays real-time thinking, provides split-view analysis, and automatic citations using Claude and Firecrawl <sub>⭐ 688 · TypeScript</sub>
-- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) - An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills - benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity… <sub>⭐ 672 · Python</sub>
-- [Jun-jie-Huang/awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) - A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps). <sub>⭐ 670</sub>
-- [aaryansamanta/ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) - High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and… <sub>⭐ 669 · HTML</sub>
-- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) - ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security… <sub>⭐ 669 · Python</sub>
-- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains <sub>⭐ 669 · Python</sub>
-- [junfanz1/Awesome-AI-Review](https://github.com/junfanz1/Awesome-AI-Review) - Awesome AI industry & research review <sub>⭐ 659</sub>
-- [theNetworkChuck/dark-web-scraping-guide](https://github.com/theNetworkChuck/dark-web-scraping-guide) - Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research. <sub>⭐ 657</sub>
-- [hanlulong/awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) - A curated list of AI tools, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team. <sub>⭐ 654</sub>
-- [langtalks/swe-agent](https://github.com/langtalks/swe-agent) - AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent… <sub>⭐ 642 · Python</sub>
-- [Light0305/Light-skills](https://github.com/Light0305/Light-skills) - An AI workflow skill pack for research, competitions, and innovation projects. <sub>⭐ 636 · Python</sub>
-- [docsagent/docsagent](https://github.com/docsagent/docsagent) - DocsAgent — give your AI agents instant, private access to your personal knowledge base (Zotero, Obsidian, Apple Notes supported now, local docs on the road). Native C++ search core: BM25 + passage… <sub>⭐ 625 · TypeScript</sub>
-- [csinva/csinva.github.io](https://github.com/csinva/csinva.github.io) - Slides, paper notes, class notes, blog posts, and research on ML , statistics , and AI . <sub>⭐ 622 · HTML</sub>
-- [ServiceNow/N-BEATS](https://github.com/ServiceNow/N-BEATS) - N-BEATS is a neural-network based model for univariate timeseries forecasting. N-BEATS is a ServiceNow Research project that was started at Element AI. <sub>⭐ 614 · Python</sub>
-- [Coder-World04/ML-AI-Research-Papers---Solved](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved) - This repository contains everything you need to become proficient in ML/AI Research and Research Papers <sub>⭐ 613</sub>
-- [Denario-AI/Denario](https://github.com/Denario-AI/Denario) - Modular Multi-Agent System for Scientific Research Assistance <sub>⭐ 608 · TeX</sub>
-- [PKU-YuanGroup/OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S) - Open-source AI agent for scientific research. Analyze data in Python/R with Claude, GPT, Gemini, and more. <sub>⭐ 607 · Python</sub>
-- [spear-sim/spear](https://github.com/spear-sim/spear) - SPEAR: A Simulator for Photorealistic Embodied AI Research <sub>⭐ 606 · C++</sub>
-- [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research. <sub>⭐ 596 · Python</sub>
-- [jimmc414/Kosmos](https://github.com/jimmc414/Kosmos) - Kosmos: An AI Scientist for Autonomous Discovery - An implementation and adaptation to be driven by Claude Code or API - Based on the Kosmos AI Paper - https://arxiv.org/abs/2511.02824 <sub>⭐ 592 · Python</sub>
-- [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) - DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. <sub>⭐ 591 · JavaScript</sub>
-- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent. <sub>⭐ 581</sub>
-- [fuxiaoai/tidings-rss](https://github.com/fuxiaoai/tidings-rss) - Curated, live-verified OPML collections for AI, news, research, blogs, videos, podcasts, and engineering. <sub>⭐ 577 · Python</sub>
-- [ZimoLiao/scholaraio](https://github.com/ZimoLiao/scholaraio) - Scholar All-In-One: A research infrastructure for AI agents <sub>⭐ 575 · Python</sub>
-- [stepfun-ai/StepDeepResearch](https://github.com/stepfun-ai/StepDeepResearch) - Step-DeepResearch <sub>⭐ 573 · Python</sub>
-- [allenai/tango](https://github.com/allenai/tango) - Organize your experiments into discrete steps that can be cached and reused throughout the lifetime of your research project. <sub>⭐ 572 · Python</sub>
-- [evelyyyyynnnnn/4.0-Decision-Intelligence-Framework](https://github.com/evelyyyyynnnnn/4.0-Decision-Intelligence-Framework) - A research-oriented framework for building optimization-driven decision intelligence systems, integrating causal inference, risk modeling, and AI pipelines for large-scale socio-technical systems <sub>⭐ 564 · Python</sub>
-- [facebookresearch/meta-agents-research-environments](https://github.com/facebookresearch/meta-agents-research-environments) - Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments… <sub>⭐ 561 · Python</sub>
-- [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it! <sub>⭐ 561</sub>
-- [redis-developer/ArXivChatGuru](https://github.com/redis-developer/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache. <sub>⭐ 561 · Python</sub>
-- [oliver-kriska/claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix) - Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic… <sub>⭐ 559 · Python</sub>
-- [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research <sub>⭐ 554 · Python</sub>
-- [Romanescu11/hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) - A meta-skill plugin for Nous Research's Hermes AI agent that watches your workflows and automatically turns them into reusable skills. Every time you work with Hermes and solve something — setting up… <sub>⭐ 552 · Python</sub>
-- [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode… <sub>⭐ 551 · TypeScript</sub>
-- [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - Learn how to research images and the tools, techniques & tradecraft required. <sub>⭐ 551</sub>
-- [sooftware/attentions](https://github.com/sooftware/attentions) - PyTorch implementation of some attentions for Deep Learning Researchers. <sub>⭐ 548 · Python</sub>
-- [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker <sub>⭐ 545 · Python</sub>
-- [ImKKingshuk/LockKnife](https://github.com/ImKKingshuk/LockKnife) - LockKnife: The Ultimate Android Security Research Tool. A unified TUI workspace and headless CLI for deep Android security research, built for researchers and hackers. Powered by Python orchestration… <sub>⭐ 542 · Python</sub>
-- [steveclarke/real-world-rails](https://github.com/steveclarke/real-world-rails) - 200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns. <sub>⭐ 542 · Shell</sub>
-- [CopilotKit/open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas) - The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research <sub>⭐ 539 · TypeScript</sub>
-- [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) - A Survey on AI Auto-Research <sub>⭐ 539 · HTML</sub>
-- [davidbau/rewriting](https://github.com/davidbau/rewriting) - Rewriting a Deep Generative Model, ECCV 2020 (oral). Interactive tool to directly edit the rules of a GAN to synthesize scenes with objects added, removed, or altered. Change StyleGANv2 to make… <sub>⭐ 535 · Python</sub>
-- [Anas-Khan93/ai-agency-agents](https://github.com/Anas-Khan93/ai-agency-agents) - Open Agency is an open-source AI workforce featuring specialized agents for development, growth, research, strategy, and creativity. Each agent is designed to deliver practical results through… <sub>⭐ 533</sub>
-- [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources. <sub>⭐ 532</sub>
-- [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro) - Deep Research Agent CognitiveKernel-Pro from Tencent AI Lab. Paper: https://arxiv.org/pdf/2508.00414 <sub>⭐ 532 · Python</sub>
-- [Curated-Awesome-Lists/awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) - Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers! <sub>⭐ 531</sub>
-- [Westlake-AGI-Lab/Auto-Slides](https://github.com/Westlake-AGI-Lab/Auto-Slides) - (ICME 2026) Official implementation of Auto-Slides: An Interactive Multi-Agent System for Creating and Customizing Research Presentations <sub>⭐ 530 · Python</sub>
-- [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI) - CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and… <sub>⭐ 529 · Jupyter Notebook</sub>
-- [AQ-MedAI/MedResearcher-R1](https://github.com/AQ-MedAI/MedResearcher-R1) - MedResearcher-R1 is a deep research agent for medical scenarios, built on a knowledge-informed trajectory synthesis framework. <sub>⭐ 522 · Python</sub>
-- [airalcorn2/Deep-Semantic-Similarity-Model](https://github.com/airalcorn2/Deep-Semantic-Similarity-Model) - My Keras implementation of the Deep Semantic Similarity Model (DSSM)/Convolutional Latent Semantic Model (CLSM) described here: http://research.microsoft.com/pubs/226585/cikm2014_cdssm_final.pdf. <sub>⭐ 521 · Python</sub>
-- [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code. <sub>⭐ 521 · JavaScript</sub>
-- [adshao/flounder](https://github.com/adshao/flounder) - Autonomous white-hat security auditor for AI-driven code review, bug bounty research, exploit construction, and execution-grounded verification. <sub>⭐ 516 · TypeScript</sub>
-- [amplifying-ai/awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) - A curated guide to Generative Engine Optimization (GEO) resources: guides, tools & research to boost visibility in AI-powered search engines. <sub>⭐ 516</sub>
-- [ailev/FPF](https://github.com/ailev/FPF) - First Principles Framework (FPF): AI-native pattern languages for systems engineering, research and management. Shared human-AI reasoning for architecture decisions, evidence, trade-offs and method… <sub>⭐ 512</sub>
-- [DAMO-NLP-SG/CoI-Agent](https://github.com/DAMO-NLP-SG/CoI-Agent) - Official code for paper: Chain of Ideas: Revolutionizing Research via Novel Idea Development with LLM Agents <sub>⭐ 511 · Python</sub>
-- [harshaneel/humanize](https://github.com/harshaneel/humanize) - Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature. <sub>⭐ 511 · HTML</sub>
-- [iusztinpaul/designing-real-world-ai-agents-workshop](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) - Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video <sub>⭐ 511 · Python</sub>
-- [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) - II-Researcher: a new open-source framework designed to aid building search / research agents <sub>⭐ 504 · Python</sub>
-- [qodo-ai/open-aware](https://github.com/qodo-ai/open-aware) - Aware - Deep Code Research Agent for Complex Codebase & Knowledge that “Act As Your Agentic Principal Engineer” <sub>⭐ 504</sub>
-- [yogsoth-ai/de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) - A 267-skill research graph in pure markdown — 51 research operations built from 216 single-purpose steps, composed in any order with explicit backtracking. One npx install, no runtime, no MCP… <sub>⭐ 503</sub>
-- [expectedparrot/edsl](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs. <sub>⭐ 502 · Python</sub>
-- [firecrawl/firesearch](https://github.com/firecrawl/firesearch) - AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph <sub>⭐ 498 · TypeScript</sub>
-- [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) - Open Paper is a workbench for managing your research library. Read, annotate, and understand your papers all in one place. Use an AI assistant to conduct your literature review. <sub>⭐ 491 · Python</sub>
-- [claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback) - A collection of Claude Code skills for academic research review. These tools were developed by Claes Bäckman. <sub>⭐ 488 · JavaScript</sub>
-- [ml-stat-Sustech/TorchCP](https://github.com/ml-stat-Sustech/TorchCP) - A Python toolbox for conformal prediction research on deep learning models, using PyTorch. <sub>⭐ 479 · Python</sub>
-- [cyanheads/atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server) - A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex… <sub>⭐ 478 · TypeScript</sub>
-- [hkcanan/katmer-code](https://github.com/hkcanan/katmer-code) - Multi-provider AI sidebar for Obsidian — Claude, Gemini, Codex, Antigravity. Per-tab routing, same-tab consult, inline diff, CLAUDE.md auto-mirror, academic research skills. <sub>⭐ 474 · TypeScript</sub>
-- [chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving](https://github.com/chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving) - Personal notes about scientific and research works on "Decision-Making for Autonomous Driving" <sub>⭐ 471</sub>
-- [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) - An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination. <sub>⭐ 470 · Python</sub>
-- [NVlabs/UniversalDeepResearch](https://github.com/NVlabs/UniversalDeepResearch) - Code to accompany the Universal Deep Research paper (https://arxiv.org/abs/2509.00244) <sub>⭐ 469 · Python</sub>
-- [ant-research/Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection) - A curated collection of the latest research and resources on AI-Generated Image and Video Detection. <sub>⭐ 461</sub>
-- [JayZeeDesign/research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers <sub>⭐ 459 · Python</sub>
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - AI/ML Research <sub>⭐ 457 · Jupyter Notebook</sub>
-- [DmitryRyumin/CVPR-2023-24-Papers](https://github.com/DmitryRyumin/CVPR-2023-24-Papers) - CVPR 2023-2024 Papers: Dive into advanced research presented at the leading computer vision conference. Keep up to date with the latest developments in computer vision and deep learning. Code… <sub>⭐ 453 · Python</sub>
-- [cnfjlhj/ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) - Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills. <sub>⭐ 452 · Python</sub>
-- [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications… <sub>⭐ 452 · C++</sub>
-- [rollingSirius/equity-research-skill](https://github.com/rollingSirius/equity-research-skill) - Possibly the deepest AI equity-research skill: nine-chapter single-stock deep dives and earnings deep-dives, with scripted DCF/EPV/EVA and reproducible valuation. Covers US, HK and A-shares. Docs in… <sub>⭐ 450 · Python</sub>
-- [google-deepmind/lab2d](https://github.com/google-deepmind/lab2d) - A customisable 2D platform for agent-based AI research <sub>⭐ 444 · C++</sub>
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM. <sub>⭐ 440 · Go</sub>
-- [DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak) - DeepSqueak v3: Using Machine Vision to Accelerate Bioacoustics Research <sub>⭐ 433 · MATLAB</sub>
-- [Nutlope/open-deep-research](https://github.com/Nutlope/open-deep-research) - The Open Deep Research app – generate reports with OSS LLMs <sub>⭐ 433 · TypeScript</sub>
-- [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO <sub>⭐ 431 · Python</sub>
-- [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - 24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace <sub>⭐ 429 · Python</sub>
-- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion) - End-to-end humanities writing assistant — an Agent Skill (open SKILL.md format). 11 modes from Socratic research-question sharpening through AI-use disclosure. Bilingual (EN/中文), discipline-aware… <sub>⭐ 427 · Python</sub>
-- [opennars/opennars](https://github.com/opennars/opennars) - OpenNARS for Research 3.0+ <sub>⭐ 425 · Java</sub>
-- [HarshJ23/Deeper-Seeker](https://github.com/HarshJ23/Deeper-Seeker) - Deeper Seeker is an simpler OSS version of OpenAI's latest Deep Research feature in ChatGPT.It is an agentic research tool to reason , create multi step tasks , synthesize data from multiple online… <sub>⭐ 422 · Python</sub>
-- [microsoft/DeepVideoDiscovery](https://github.com/microsoft/DeepVideoDiscovery) - **Deep Video Discovery (DVD)** is a deep-research style question answering agent designed for understanding extra-long videos. <sub>⭐ 422 · Python</sub>
-- [EdanToledo/Stoix](https://github.com/EdanToledo/Stoix) - A research-friendly codebase for fast experimentation of single-agent reinforcement learning in JAX • End-to-End JAX RL <sub>⭐ 421 · Python</sub>
-- [nuglifeleoji/Factor-Research](https://github.com/nuglifeleoji/Factor-Research) - Advanced Quantitative Factor Research: ML-powered stock return prediction with 72% performance improvement. Features comprehensive alpha factor library, systematic feature selection, and deep… <sub>⭐ 421 · Jupyter Notebook</sub>
-- [yandex-research/rtdl-num-embeddings](https://github.com/yandex-research/rtdl-num-embeddings) - (NeurIPS 2022) On Embeddings for Numerical Features in Tabular Deep Learning <sub>⭐ 420 · Python</sub>
-- [bybren-llc/safe-agentic-workflow](https://github.com/bybren-llc/safe-agentic-workflow) - SAW — SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows Built on SAFe methodology (Scaled Agile Framework), adapted for AI agent teams (Now With AI-DLC!) Works for any team with… <sub>⭐ 419 · Shell</sub>
-- [uber-research/differentiable-plasticity](https://github.com/uber-research/differentiable-plasticity) - Implementations of the algorithms described in Differentiable plasticity: training plastic networks with gradient descent, a research paper from Uber AI Labs. <sub>⭐ 415 · Python</sub>
-- [fcakyon/phd-skills](https://github.com/fcakyon/phd-skills) - PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more. <sub>⭐ 413 · Shell</sub>
-- [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHT is an autonomous AI that can do medical research! <sub>⭐ 413 · Python</sub>
-- [TheDesignFounder/DreamLayer-Eval](https://github.com/TheDesignFounder/DreamLayer-Eval) - DreamLayer Eval: open-source benchmarking for image and video diffusion models. Automate prompts, seeds, and metrics for reproducible results. A research project from DreamLayer AI (dreamlayer.io). <sub>⭐ 413 · Python</sub>
-- [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph <sub>⭐ 412 · TypeScript</sub>
-- [Will-hxw/drawio-diagram-builder](https://github.com/Will-hxw/drawio-diagram-builder) - Portable agent skill for research-style editable draw.io diagrams and screenshot-driven refinement <sub>⭐ 412 · Python</sub>
-- [Runchuan-BU/BioClaw](https://github.com/Runchuan-BU/BioClaw) - AI-Powered Bioinformatics Research Assistant. Built on OpenClaw. <sub>⭐ 410 · TypeScript</sub>
-- [AgriciDaniel/youtubepro](https://github.com/AgriciDaniel/youtubepro) - Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation. <sub>⭐ 409 · TypeScript</sub>
-- [brainqub3/jar3d_meta_expert](https://github.com/brainqub3/jar3d_meta_expert) - Versatile agents for long running, research intensive tasks. <sub>⭐ 408 · Python</sub>
-- [KitionAI/kition](https://github.com/KitionAI/kition) - Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. <sub>⭐ 403 · TypeScript</sub>
-- [femto/minion-agent](https://github.com/femto/minion-agent) - A simple agent framework that's capable of browser use + mcp + auto instrument + plan + deep research + more <sub>⭐ 398 · Python</sub>
-- [LG-AI-EXAONE/EXAONE-Deep](https://github.com/LG-AI-EXAONE/EXAONE-Deep) - Official repository for EXAONE Deep built by LG AI Research <sub>⭐ 398</sub>
-- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets) <sub>⭐ 397 · Python</sub>
-- [SpectrAI-Initiative/InnoClaw](https://github.com/SpectrAI-Initiative/InnoClaw) - An AI research Agent for scientific innovation. <sub>⭐ 396 · TypeScript</sub>
-- [OctagonAI/kalshi-trading-bot-cli](https://github.com/OctagonAI/kalshi-trading-bot-cli) - AI-native CLI for trading Kalshi prediction markets. Runs deep fundamental research, generates independent probability estimates, computes edge vs. live order books, and executes trades with Kelly… <sub>⭐ 394 · TypeScript</sub>
-- [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) - Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments. <sub>⭐ 393 · TypeScript</sub>
-- [ebagdasa/backdoors101](https://github.com/ebagdasa/backdoors101) - Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. <sub>⭐ 386 · Python</sub>
-- [XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) - Awesome graph anomaly detection techniques built based on deep learning frameworks. Collections of commonly used datasets, papers as well as implementations are listed in this github repository. We… <sub>⭐ 386</sub>
-- [allenai/allenact](https://github.com/allenai/allenact) - An open source framework for research in Embodied-AI from AI2. <sub>⭐ 384 · Python</sub>
-- [lobehub/awesome-rsi](https://github.com/lobehub/awesome-rsi) - A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety. <sub>⭐ 383</sub>
-- [anshaneja5/mldl.study](https://github.com/anshaneja5/mldl.study) - ML & DL roadmap with curated resources like videos, articles, research-papers, competitions, projects etc. <sub>⭐ 379 · JavaScript</sub>
-- [lukalabs/replika-research](https://github.com/lukalabs/replika-research) - Replika.ai Research Papers, Posters, Slides & Datasets <sub>⭐ 378 · Jupyter Notebook</sub>
-- [ServiceNow/picard](https://github.com/ServiceNow/picard) - PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI. <sub>⭐ 377 · Haskell</sub>
-- [damonwan1/AutoScholarLoop](https://github.com/damonwan1/AutoScholarLoop) - A multi-agent AUTO Research loop for idea discovery, experiment execution, evidence-grounded paper writing, quality audit, and live Web observation from AI group, CNIC, CAS. <sub>⭐ 375 · Python</sub>
-- [vukrosic/become-elite-ai-researcher](https://github.com/vukrosic/become-elite-ai-researcher) - Full course on becoming AI researcher from scratch <sub>⭐ 373 · Jupyter Notebook</sub>
-- [Socialpranker/deepdive](https://github.com/Socialpranker/deepdive) - Deepdive skill for Claude Code — 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger triangulation with dissent protection, relevance × authority evidence filter… <sub>⭐ 372 · Python</sub>
-- [assafelovic/gptr-mcp](https://github.com/assafelovic/gptr-mcp) - MCP server for enabling LLM applications to perform deep research via the MCP protocol <sub>⭐ 371 · Python</sub>
-- [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) - Skills for Claude Code — deep-research: systematic academic literature review <sub>⭐ 371 · Python</sub>
-- [liuruoze/mini-AlphaStar](https://github.com/liuruoze/mini-AlphaStar) - (JAIR'2022) A mini-scale reproduction code of the AlphaStar program. Note: the original AlphaStar is the AI proposed by DeepMind to play StarCraft II. JAIR = Journal of Artificial Intelligence… <sub>⭐ 371 · Python</sub>
-- [buriburisuri/sugartensor](https://github.com/buriburisuri/sugartensor) - A slim tensorflow wrapper that provides syntactic sugar for tensor variables. This library will be helpful for practical deep learning researchers not beginners. <sub>⭐ 368 · Python</sub>
-- [harishdeivanayagam/rowfill](https://github.com/harishdeivanayagam/rowfill) - Open-source spreadsheets platform for deep research and document processing <sub>⭐ 366 · TypeScript</sub>
-- [texttron/BrowseComp-Plus](https://github.com/texttron/BrowseComp-Plus) - BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent (ACL 2026 Main) <sub>⭐ 366 · Python</sub>
-- [yandex-research/rtdl-revisiting-models](https://github.com/yandex-research/rtdl-revisiting-models) - (NeurIPS 2021) Revisiting Deep Learning Models for Tabular Data <sub>⭐ 365 · Python</sub>
-- [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) - A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh <sub>⭐ 359 · TypeScript</sub>
-- [get-zeked/perplexity-super-skills](https://github.com/get-zeked/perplexity-super-skills) - Complete collection of 12 Perplexity Computer Super-Skills merging Perplexity + Claude Code capabilities across AI agents, dev, marketing, sales, finance, legal, PM, ops, research, content, security… <sub>⭐ 359</sub>
-- [linus-sch/Mind-Map-Wizard](https://github.com/linus-sch/Mind-Map-Wizard) - Simple AI mind mapping for research, right in your browser <sub>⭐ 359 · JavaScript</sub>
-- [Data-Centric-AI-Community/awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) - Open-Source Software, Tutorials, and Research on Data-Centric AI <sub>⭐ 357 · Jupyter Notebook</sub>
-- [medtorch/awesome-healthcare-ai](https://github.com/medtorch/awesome-healthcare-ai) - A curated list of awesome open source healthcare tools, algorithms, datasets and research papers. <sub>⭐ 356</sub>
-- [Elvin-Yiming-Du/Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) - This repository introduce a comprehensive paper list, datasets, methods and tools for memory research. <sub>⭐ 353</sub>
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) - Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more. <sub>⭐ 347 · Python</sub>
-- [ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE) - MOOSE (Multi-organ objective segmentation) a data-centric AI solution that generates multilabel organ segmentations to facilitate systemic TB whole-person research.The pipeline is based on nn-UNet… <sub>⭐ 346 · Python</sub>
-- [Confusezius/Revisiting_Deep_Metric_Learning_PyTorch](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch) - (ICML 2020) This repo contains code for our paper "Revisiting Training Strategies and Generalization Performance in Deep Metric Learning" (https://arxiv.org/abs/2002.08473) to facilitate consistent… <sub>⭐ 344 · Python</sub>
-- [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers) - Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers. <sub>⭐ 344 · Shell</sub>
-- [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) - Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DeepSeek Harness—quick summaries, deep study materials, code demos, and a local web viewer. <sub>⭐ 342 · Vue</sub>
-- [athola/claude-night-market](https://github.com/athola/claude-night-market) - 23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and… <sub>⭐ 342 · Python</sub>
-- [ATH-MaaS/Marco-DeepResearch](https://github.com/ATH-MaaS/Marco-DeepResearch) - Marco Search Agent for Realistic and Challenging Agentic Search <sub>⭐ 339 · Python</sub>
-- [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) - An advanced AI-powered deep research application that synthesizes information from numerous sources to generate comprehensive, well-documented reports on complex topics. <sub>⭐ 339 · Python</sub>
-- [nicholas-leonard/dp](https://github.com/nicholas-leonard/dp) - A deep learning library for streamlining research and development using the Torch7 distribution. <sub>⭐ 339 · Lua</sub>
-- [google-research/era](https://github.com/google-research/era) - Code associated with the paper An AI system to help scientists write expert-level empirical software <sub>⭐ 338 · Jupyter Notebook</sub>
-- [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) - Portfolio of capstone projects from AI & Technology, Data Science, AI Internship, Machine Learning and AI Humanities Honors. CNN pneumonia detection on chest X-rays (>90% accuracy), healthcare EDA… <sub>⭐ 333 · Jupyter Notebook</sub>
-- [yandex-research/tabular-dl-tabr](https://github.com/yandex-research/tabular-dl-tabr) - The implementation of "TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning" <sub>⭐ 333 · Python</sub>
+- [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) - AI/ML研究代理从想法到纸质证据. EvoMap开源项目. <sub>⭐ 2.9k · Python</sub>
+- [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) - 设计师技能集:代理技能,指令,以及设计插件——从研究到系统,UI,交互,交付. <sub>⭐ 2.8k · Markdown</sub>
+- [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) - 将纸张/文本/专题转换成可编辑的研究数字、技术路线图和演示幻灯片。 <sub>⭐ 2.8k · Python</sub>
+- [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - 向AI Engineering过渡的研究论文和博客 <sub>⭐ 2.7k</sub>
+- [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) - 由Karopathy的自动研究所启发的自主改进循环,研究代理,以及自动研究风格系统等编译列表. <sub>⭐ 2.6k</sub>
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - 研究代理AI编码助理的工作方式. 重新构建即时模式,代理协调和安全分类. <sub>⭐ 2.6k</sub>
+- [Farama-Foundation/Arcade-Learning-Environment](https://github.com/Farama-Foundation/Arcade-Learning-Environment) - 一个简单的框架,允许研究人员和爱好者为Atari 2600游戏开发AI代理 <sub>⭐ 2.5k · C++</sub>
+- [DeepInsight-AI/DeepBI](https://github.com/DeepInsight-AI/DeepBI) - 基于LLM的数据科学家,AI本土数据应用. AI驱动的无限思维重新定义了BI. <sub>⭐ 2.4k · Python</sub>
+- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - 把Claude代码变成你的进攻性安全研究助理 专门使用AI的潜伏剂 <sub>⭐ 2.3k · Shell</sub>
+- [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent) - 由LangGraph和Tavily提供动力的代理公司研究工具,利用多代理框架对公司进行深度调查,它利用了Google的双子座2.5闪光灯和OpenAI的GPT-5.1...... <sub>⭐ 2.3k · Python</sub>
+- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Claude Code/Open Code/Codex结构化的深层研究技能,并配备人与人之间的控制 <sub>⭐ 2.3k · Python</sub>
+- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - 建筑师,而不仅仅是研究员。代理技能将顶尖的应用模式转化为本土质量的移动屏幕。 <sub>⭐ 2.3k</sub>
+- [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) - Step-GUI:银河系中GUI顶级代理解决方案,由StepFun-GELab团队开发,由StepFun的前沿研究能力提供动力. <sub>⭐ 2.3k · Python</sub>
+- [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - AI 将任何问题变成一个引用的报告的深度研究代理:计划搜索,读取真实的资料来源,验证证据. 自办,多供应商,Docker-ready. <sub>⭐ 2.2k · TypeScript</sub>
+- [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - 这个MATLAB和Simulink挑战项目枢纽包含一个研究与设计项目构想的清单,这些项目将帮助你获得实际经验和对技术趋势的洞察以及. <sub>⭐ 2.2k · HTML</sub>
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - 开源自办的AI脆弱性研究工具,该工具协调特工在代码中查找和验证安全问题. <sub>⭐ 2.2k · JavaScript</sub>
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) - 世界首个自主产品引擎(APE):AI代理研究你的市场,生成特性,以及作为PR的船舶代码. Convoy模式, crash recovery, cost tracking, 80+ API endpoints. Self-conducted... <sub>⭐ 2.1k · TypeScript</sub>
+- [appeeky/aso-skills](https://github.com/appeeky/aso-skills) - App Store优化(ASO)和app营销的AI代理技能. 为Indie开发商,应用营销商,以及希望Cursor,Claude Code,或任何代理技能兼容的AI所建. . <sub>⭐ 2.1k · MDX</sub>
+- [fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon) - 这原本是神经网络加速器的论文集,现在更像是我对深层学习和计算机结构的研究选择。 <sub>⭐ 2.1k</sub>
+- [eloialonso/diamond](https://github.com/eloialonso/diamond) - DIAMOND(Difumation as a Model Of eNvironment Dreams)是接受过扩散世界模型训练的强化学习代理. NeurIPS 2024 Spotlight. <sub>⭐ 2.1k · Python</sub>
+- [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - 开源RAG平台:内置引文,深度研究,22+文件格式,分区,MCP服务器等. <sub>⭐ 2.1k · TypeScript</sub>
+- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC是一款超级FAST Android解编译器的前端,为代理商/Mobile Researchers设计. <sub>⭐ 2.1k · Python</sub>
+- [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - 投资研究的金融代理商 <sub>⭐ 2.0k · TypeScript</sub>
+- [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - FedML - 研究与制作联邦综合学习图书馆 //fedml.ai <sub>⭐ 2.0k</sub>
+- [divelab/DIG](https://github.com/divelab/DIG) - 用于图深学习研究的图书馆 <sub>⭐ 2.0k · Python</sub>
+- [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - FREE AI Resources - 课程,工作,博客,AI Research, 以及更多更多的 - 为每个人! <sub>⭐ 2.0k</sub>
+- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - 成百上千的医学研究代理技能,包括协议设计,数据分析,证据洞察力,以及学术写作. <sub>⭐ 2.0k · Python</sub>
+- [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) - 这是"有大语言模型的精巧AI或机器人"研究的目录,请看这个寄存器是否有最新更新! <sub>⭐ 1.9k</sub>
+- [dzyim/ilya-sutskever-recommended-reading](https://github.com/dzyim/ilya-sutskever-recommended-reading) - 据说,伊利亚·苏茨克韦尔给了约翰·卡马克这份关于深层学习的~30篇研究论文的阅读清单. <sub>⭐ 1.9k</sub>
+- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Karopathy自动研究的苹果硅(MLX)端口——Mac上的自主AI研究环路,不需要PyTorch. <sub>⭐ 1.9k · Python</sub>
+- [GauravBh1010tt/DeepLearn](https://github.com/GauravBh1010tt/DeepLearn) - 利用Keras,Tensorflow和Scikit Learning在Python实施深层学习+NLP+CV的研究论文. <sub>⭐ 1.8k · Python</sub>
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - 2026年发行的AI代理研究论文集,涵盖代理工程,内存,评价,工作流程和自主系统. <sub>⭐ 1.8k</sub>
+- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN:AI驱动的多代理研究助手,自动化假说生成,数据分析,以及报告编写. <sub>⭐ 1.8k · Python</sub>
+- [microsoft/CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - 一个实验和研究平台,用于调查在抽象模拟网络环境中自动代理的相互作用. <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [trycua/acu](https://github.com/trycua/acu) - 一个关于计算机使用AI代理的资源目录,包括研究论文、项目、框架和工具。 <sub>⭐ 1.8k</sub>
+- [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - 与 PaddlePaddle 合作进行新颖的深层学习研究 <sub>⭐ 1.8k · Python</sub>
+- [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - "你的全自动个人人工智能助理" <sub>⭐ 1.7k · Python</sub>
+- [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion) - WiFi-3D-Fusion是一个开源研究项目,利用WiFi CSI信号和深度学习来估计3D人类的姿势,用计算机视觉技术使无线感知与... <sub>⭐ 1.7k · Python</sub>
+- [StanfordVL/BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: 加速健美AI研究的平台. 加入我们的Discord支持 //discord.gg/bccR5vGFEx <sub>⭐ 1.7k · Python</sub>
+- [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria是你的AI研究助理 由GBT大语言模型提供动力 <sub>⭐ 1.7k · JavaScript</sub>
+- [ai4s-research/open-science](https://github.com/ai4s-research/open-science) - Open Science Desktop——本地第一,模型-不可知的AI研究工作台用于macOS,Windows & Linux. Open-source Claude Science桌面替代品基于Tauri + MCP + 代理技能构建. <sub>⭐ 1.7k · TypeScript</sub>
+- [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - 用工具Universion使AI科学家民主化 <sub>⭐ 1.7k · Python</sub>
+- [skyllwt/AutoSci](https://github.com/skyllwt/AutoSci) - Karopathy的LLM-Wiki视觉,完全实现——维基百科全生命周期AI研究平台 由克劳德代码提供动力 <sub>⭐ 1.7k · Python</sub>
+- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI- power OSINT 代理器, 具有交互式REPL, MCP服务器和 CLI. 20 个工具。 与 Claude, GPT-4 或本地模型一起工作。 只用于授权的安全研究 。 <sub>⭐ 1.7k · Python</sub>
+- [bytedance/pasa](https://github.com/bytedance/pasa) - PaSa - 一个由大型语言模型驱动的高级纸质搜索代理. 它可以自主地做出一系列决定,包括引用搜索工具,阅读论文,以及选择相关的... <sub>⭐ 1.7k · Python</sub>
+- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - 解析技能,子代理,以及超充克洛德代码的配置模板——研究,图像基因,GitHub自动化 & 更多. <sub>⭐ 1.7k · Python</sub>
+- [wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - 关于可解释的AI/ML的研究材料汇编 <sub>⭐ 1.7k · Markdown</sub>
+- [InterDigitalInc/CompressAI](https://github.com/InterDigitalInc/CompressAI) - 一个用于端到端压缩研究的 PyTorch 库和评价平台 <sub>⭐ 1.6k · Python</sub>
+- [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need) - 深层学习研究人员的基本分布概率 <sub>⭐ 1.6k · Python</sub>
+- [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - 固件安全研究平台结合了二进制分析,陶铸追踪,以及跨IOT,边缘AI,移动设备,和机器人的仿真. <sub>⭐ 1.6k · Rust</sub>
+- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - 您为代理、任务、知识和研究提供了无限的画布空间。 一个为 Claude 代码、 Codex 、 终端、 任务和笔记提供的无限画布 。 <sub>⭐ 1.6k · TypeScript</sub>
+- [edbeeching/godot_rl_agents](https://github.com/edbeeching/godot_rl_agents) - 一个开放源代码包,允许电子游戏创建者,AI研究人员和爱好者有机会为他们的非玩家字符或代理学习复杂的行为. <sub>⭐ 1.6k · Python</sub>
+- [business-science/awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist) - 100+资源列表 用于构建和部署基因AI 特别侧重于帮助您成为具有LLMS的基因AI数据科学家 <sub>⭐ 1.6k</sub>
+- [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - 用于自动化LLM模糊的强大工具,旨在帮助开发者和安全研究人员在其LLM API中识别和缓解潜在的越狱行为. <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) - AI安全及AI辅助网络安全的公共来源,研究和商业工具目录——自动,代理安全,AI/ML供应链,笔试代理,AI SAST,LLM驱动. <sub>⭐ 1.6k · Python</sub>
+- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent:你的智能伴奏,用于无缝AI工程和研究. 结合arxiv和纸张与代码,提供更好的代码/研究计划OpenAI,Anthropic,双子座,Ollama等. <sub>⭐ 1.6k · Python</sub>
+- [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy) - Buddy: 用于跨平台内容搜索、创建分析和病毒趋势研究的 设计代理技能 <sub>⭐ 1.6k · Python</sub>
+- [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) - Cookiy AI Skill for AI 代理(Claude, Codex, cursor, OpenClaw)——端对端用户研究:AI访谈,合成用户,量子调查,参与者招聘. <sub>⭐ 1.6k · Shell</sub>
+- [WecoAI/aideml](https://github.com/WecoAI/aideml) - AIDE:机器学习工程的LLM代理 - 研究Weco发展而来. Referenced in OpenAI MLE-bench. <sub>⭐ 1.6k · Python</sub>
+- [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - 用于NLP、多式联运LLMs、代理、ML、知识图等研发的Python图书馆。 <sub>⭐ 1.5k · Python</sub>
+- [murtaza-nasir/maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO是一种AI动力的研究应用,旨在精简复杂的研究任务. <sub>⭐ 1.5k · Python</sub>
+- [limecloud/lime](https://github.com/limecloud/lime) - 用于编码,文件,终端,工具,研究,内容,多式联运工作,以及多代理工作流程的全存储AI代理. <sub>⭐ 1.5k · TypeScript</sub>
+- [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker) - (NeurIPS 2025) WebThinker:赋予具有深度研究能力的大型理性模型力量 <sub>⭐ 1.5k · Python</sub>
+- [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - 正在规模进行的研究培训变压器语言模型,包括:BERT & GPT-2 <sub>⭐ 1.4k · Python</sub>
+- [Agent-RL/ReCall](https://github.com/Agent-RL/ReCall) - ReSearch:通过增强学习和再呼吁来学习寻找LLMS的理由:通过工具调用LLMS的方法学习理性 <sub>⭐ 1.4k · Python</sub>
+- [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) - 社区最全面,不断更新的用于软件脆弱性检测的大语言模型研究索引——跨函数级,寄存层,代理级的论文,以及. <sub>⭐ 1.4k · Python</sub>
+- [apple-aiml-research/ml-aim](https://github.com/apple-aiml-research/ml-aim) - 该寄存器为AIMv1和AIMv2研究项目提供代码和模式检查站. <sub>⭐ 1.4k · Python</sub>
+- [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - Tavily Python SDK 允许与 Tavily API 进行轻松的交互, 直接从您的 Python 程序提供我们的全部搜索、提取、爬行、映射和研究功能... <sub>⭐ 1.4k · Python</sub>
+- [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) - Claude Code的AI动力销售团队. 研究前景,合格线索(BANT + MEDDIC),寻找决策者,生成外联序列,准备会议,写提案,并制作PDF... <sub>⭐ 1.4k · Python</sub>
+- [tmgthb/Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) - 自主代理(LLM)研究论文. 更新日报. <sub>⭐ 1.4k</sub>
+- [nvk/llm-wiki](https://github.com/nvk/llm-wiki) - LLM编译的知识库用于任何AI代理. 平行的多代理研究,论文驱动的调查,源摄入,维基汇编,查询,以及文物生成. <sub>⭐ 1.4k · Python</sub>
+- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86种产品管理技能来自Lenny的Podcast为Claude Code和AI代理商. 雇佣,用户研究,策略,航运等等. <sub>⭐ 1.4k</sub>
+- [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) - 尽量减少和附加说明地执行现代深层学习研究的关键思想。 <sub>⭐ 1.4k · Python</sub>
+- [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) - + 纳米研究:自主AI研究助理 <sub>⭐ 1.3k · Python</sub>
+- [brayonpi/hexstellar](https://github.com/brayonpi/hexstellar) - 将任何AI代理变成一个计算研究者. HexStellar Cortex提供软件加速优化,量子计算,科学计算,决策智能,以及可核查的... <sub>⭐ 1.3k · Python</sub>
+- [tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety) - AgentSocity 2是一个为社会科学研究和实验设计设计的现代LLM-内在剂模拟平台,它提供了创建和管理智能的灵活框架. . <sub>⭐ 1.3k · Python</sub>
+- [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) - OpenYao公共技能收集:可重复使用的AI资产,用于决策,业务分析,辅导,研究证据收集,和文件生成. <sub>⭐ 1.3k · HTML</sub>
+- [Claw-AI-Lab/Claw-AI-Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab) - 一个仪表板 一个完整的研究团队 <sub>⭐ 1.3k · Python</sub>
+- [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - 多功能体能人工智能研发模拟平台. <sub>⭐ 1.3k · Python</sub>
+- [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) - 一个AI联合科学家运行在您的桌面上。 Claude Science 但更好。 <sub>⭐ 1.3k · TypeScript</sub>
+- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - 一个自主的AI代理,在睡眠时24/7地运行你的深层学习实验. 0成本监控,Lead-Worker架构,恒大内存. <sub>⭐ 1.3k · Python</sub>
+- [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) - OpenResearcher:用于长距深层研究轨迹合成的全开管道 <sub>⭐ 1.3k · Python</sub>
+- [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) - X/Twitter为克劳德代码和OpenClaw的研究技能. Agentic search, 线程跟随,深潜,源头简报. <sub>⭐ 1.2k · TypeScript</sub>
+- [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) - 收集和总结与时尚和电子商务有关的研究论文的存放处 <sub>⭐ 1.2k</sub>
+- [firecrawl/web-agent](https://github.com/firecrawl/web-agent) - 优化了用于结构化网络研究的开源网络数据代理 <sub>⭐ 1.2k · TypeScript</sub>
+- [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) - Reddit为Claude Code和AI代理商提供的研究技能 <sub>⭐ 1.2k · Python</sub>
+- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - 预呈AI审查研究论文的压力测试. Claude Code技能:审查,判决,修订,核实. <sub>⭐ 1.2k · JavaScript</sub>
+- [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) - 销售力量企业深层研究 <sub>⭐ 1.2k · Python</sub>
+- [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - 整理的自动化研究工具集,涵盖文献搜索,阅纸,实验管理和代码生成,帮助研究人员加快工作流程. <sub>⭐ 1.2k · Python</sub>
+- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) - 开源AI逆向工程代理平台和用于Ghidra,Frida,x64dbg和Rizin的MCP服务器——自动化PE/APK/二进制分析,CTF和恶意软件研究,拥有100+MCP工具以及一个. <sub>⭐ 1.2k · Python</sub>
+- [aitorzip/DeepGTAV](https://github.com/aitorzip/DeepGTAV) - GTAV的插件,将它转变为基于视觉的自驾车研究环境. <sub>⭐ 1.2k · C++</sub>
+- [polyuiislab/infiAgent](https://github.com/polyuiislab/infiAgent) - 仅通过编辑配置文件来构建自己的合作者、AI科学家和其他SOTA代理。支持人类技能。一个为长期复杂任务设计的无限范围代理框架。 <sub>⭐ 1.2k · Python</sub>
+- [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) - 结构化的提示,金库模板,以及用于AI辅助的家族学研究的存档指南. Built for Claude Code. <sub>⭐ 1.2k · Ruby</sub>
+- [yandex-research/rtdl](https://github.com/yandex-research/rtdl) - 关于表层深层学习的研究:论文和成套材料 <sub>⭐ 1.2k · Python</sub>
+- [NVIDIA-NeMo/labs-molt](https://github.com/NVIDIA-NeMo/labs-molt) - 一个可伸缩的,代理式的第一,以及HuggingFace-native RL的研究框架(9k行). <sub>⭐ 1.2k · Python</sub>
+- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Claude Code的企业级深层研究技能,有8个阶段的管道,源可信度评分和自动验证. OpenAI,双子座和Claude桌面在质量和... <sub>⭐ 1.2k · Python</sub>
+- [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) - 一个超级AI实验室,由大量的AI医生担任助理. Best IDE for Research 通过AI Power. <sub>⭐ 1.1k · JavaScript</sub>
+- [917Dhj/DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) - DeepPaperNote是深读单纸并生成高质量Obsidian风格研究笔记的代理技能,与克劳德代码,Codex,Cursor,Copilot,双子座CLI等合作. <sub>⭐ 1.1k · Python</sub>
+- [vamplabAI/sgr-agent-core](https://github.com/vamplabAI/sgr-agent-core) - Schema-Guided Reasoning(SGR)有神经深层社区创建的代理系统设计 <sub>⭐ 1.1k · Python</sub>
+- [RUC-NLPIR/Arbor](https://github.com/RUC-NLPIR/Arbor) - 通论自主研究代理人——经营实验,研究,和迭代优化,自主. <sub>⭐ 1.1k · Python</sub>
+- [neurreps/awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - 与大脑,深层网络及外层表现几何相关的资源集和研究 <sub>⭐ 1.1k</sub>
+- [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) - Pokee 深层研究模型开放源代码Repo <sub>⭐ 1.1k · Python</sub>
+- [microsoft/Biodiversity](https://github.com/microsoft/Biodiversity) - Microsoft AI for Good Lab — 生物多样性研究中心. 开源AI模型,边缘装置,以及生物多样性监测和保护工具. 您的巨型探测器的源头, SPARROW... <sub>⭐ 1.1k · Python</sub>
+- [mskayyali/nodepad](https://github.com/mskayyali/nodepad) - 一个空间研究工具,探索利用AI来增强思维,而不是取代它. <sub>⭐ 1.1k · TypeScript</sub>
+- [ntasfi/PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - PyGame学习环境(PLE)——Python的强化学习环境. <sub>⭐ 1.1k · Python</sub>
+- [juanjuandog/FinSight-AI](https://github.com/juanjuandog/FinSight-AI) - AI 股权研究代理,具有弹性工作流程,循证RAG,版本报告,自动化质量评价. <sub>⭐ 1.1k · Java</sub>
+- [shyamsaktawat/OpenAlpha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve) - OpenAlpha_Evolve是一个开源的Python框架,灵感来源于DeepMind's AlphaEvolve等自主编码剂的开创性研究. <sub>⭐ 1.1k · Python</sub>
+- [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) - LabClaw – LabOS 操作层(斯坦福-普林斯顿 AI 联合科学家) <sub>⭐ 1.1k</sub>
+- [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - AI代理商的电子商务技能——产品研究,营销自动化,供应链优化,以及亚马逊,肖菲奇,埃特西,蒂克托克商店等地的在线销售商的商业分析. <sub>⭐ 1.1k · Python</sub>
+- [xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science) - 开源,本地首台桌面AI研究工作台,用于Python/R,MCP生物信息学工具,SSH/WSL/GPU运行时间,以及OpenAI/Anthropic模型的科学计算. <sub>⭐ 998 · Rust</sub>
+- [iDoka/awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id) - 在一个地方收集各种汽车品牌/型号的CAN标识及其有效载荷。可能对网络安全研究人员、反向工程师和汽车电子设备公司有用。 <sub>⭐ 990</sub>
+- [kyky2347/ALTA](https://github.com/kyky2347/ALTA) - 自主LLM贸易定型——一个只研究的多代理交易平台,有证据第一研究,可审计控制台,影子模拟和明确授权的经纪人执行. <sub>⭐ 983 · Python</sub>
+- [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) - GenAI为多剂医疗诊断和保健研究援助聊天机提供动力,设计对象是保健专业人员、研究人员和病人。 <sub>⭐ 981 · Python</sub>
+- [NeuroAIHub/BrainPilot](https://github.com/NeuroAIHub/BrainPilot) - BrainPilot: 与代理研究自动化大脑发现 <sub>⭐ 976 · TypeScript</sub>
+- [dzhng/skills](https://github.com/dzhng/skills) - 软件工厂的可重复使用的AI代理技能:探索想法,写谱,执行,审查和运行自主研究. Works with Claude Code, Codex,以及其他技能兼容的代理. <sub>⭐ 974 · TypeScript</sub>
+- [DmitryRyumin/ICCV-2023-25-Papers](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) - CCV 2023-2025 Papers:从主要计算机视野会议CCV 2023-25中发现前沿研究. 保持更新计算机视野和深度学习的最新信息,包含代码. <sub>⭐ 972 · Python</sub>
+- [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) - 住在您终端的全能AI代理。 构建登陆、 移动应用程序、 后端、 管理文件、 深入研究、 调度任务和事件。 自升、 自愈、 完全自主。 TUI... <sub>⭐ 969 · Rust</sub>
+- [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) - 第一位开源代理AI物理学家,由物理超智能PBC(PSI)制作. <sub>⭐ 968 · Python</sub>
+- [cebeuq/Synthid-Bypass](https://github.com/cebeuq/Synthid-Bypass) - Ai安全研究显示,谷歌在纳米香蕉Pro的合成上有一个工作绕行 <sub>⭐ 961 · Python</sub>
+- [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - 音频AI研究的枢纽:跨越音频LLMs的论文,开放模型,基准和数据集,语音识别,TTS,音乐和音频生成. <sub>⭐ 960 · Python</sub>
+- [StanfordVL/GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson 环境: 对健康代理人的真人世界观念 <sub>⭐ 948 · C</sub>
+- [bgauryy/octocode](https://github.com/bgauryy/octocode) - AI 代理的代码研究平台; 在您的代码和所有 GitHub 中找到、理解和证明上下文, 在一小部分的符号中。 一个工具集, MCP 或 CLI <sub>⭐ 945 · TypeScript</sub>
+- [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - 校验与自动ML相关的研究、工具、项目和其他资源清单 <sub>⭐ 944</sub>
+- [instadeepai/Mava](https://github.com/instadeepai/Mava) - 用于在JAX中快速实验多剂强化学习的研究友好代码库 <sub>⭐ 937 · Python</sub>
+- [baal-org/baal](https://github.com/baal-org/baal) - 贝叶斯积极学习图书馆,用于研究和工业用具. <sub>⭐ 933 · Python</sub>
+- [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) - 拥有182种可安装的AI代理技能的精密多语图书馆,用于端到端的学术研究——拓宽文献发现,科学写作,赠款开发,生物信息学,药物. . <sub>⭐ 930 · Python</sub>
+- [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) - 开源AI幻灯片工作室在Codex内部:图像内置甲板,每张幻灯片都有一个完整的视觉画布. 10+高品质的幻灯片在~4–5分钟内——快速模式使每个页面并行. 观察整个... <sub>⭐ 923 · TypeScript</sub>
+- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python工具包,MCP服务器,以及可复制,可审计的点击流和事件日志分析的代理技能. 帮助AI代理商,数据科学家和分析师建立,验证,并交叉检查产品... <sub>⭐ 920 · Python</sub>
+- [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - 深层研究特工帮你找到最好的GitHub仓库! <sub>⭐ 919 · Python</sub>
+- [Aethena-Lab/Z3r0](https://github.com/Aethena-Lab/Z3r0) - AI-内置红色团队工作台,用于授权的渗透测试和脆弱性研究,配备专家代理、沙箱工具、证据记录和可重播的时间表。 <sub>⭐ 915 · Python</sub>
+- [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) - 由免费、高品质的AI工具、API、数据集和学习资源组成,涵盖机器学习、深层学习、基因AI、NLP和数据科学。 <sub>⭐ 911</sub>
+- [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) - 科学家自演的AI研究同事. 285技能,零幻觉,持续记忆. <sub>⭐ 907 · TypeScript</sub>
+- [Thinklab-SJTU/ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) - 深图匹配的研究协议. <sub>⭐ 883 · Python</sub>
+- [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) - 用于保障人工智能系统的资源、研究和工具 <sub>⭐ 877</sub>
+- [fdarkaou/open-deep-research](https://github.com/fdarkaou/open-deep-research) - 开源替代OpenAI和双子座的深度研究. <sub>⭐ 875 · TypeScript</sub>
+- [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) - (ACL 2026 KnowFM) 出色的代理深层研究资源 <sub>⭐ 868</sub>
+- [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - LLM驱动的贸易代理商、MCP服务器以及市场研究、战略和执行的代理技能的解析清单。 <sub>⭐ 865</sub>
+- [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) - 由深层研究驱动的代理器一般内存系统 <sub>⭐ 863 · Python</sub>
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 372 AI技能,76名专家代理,867 Stdlib Python工具为每个团队提供:工程,PM,营销,C级,合规,业务操作和研究. 安装在克劳德代码,cursor,Codex上...... <sub>⭐ 854 · HTML</sub>
+- [luwill/research-skills](https://github.com/luwill/research-skills) - 一些常用的研究经验和过程被封装在Agent技能中. <sub>⭐ 854 · Python</sub>
+- [coreyhaines31/makerskills](https://github.com/coreyhaines31/makerskills) - 人工智能为个人操作员的手艺提供代理技能——决定,研究,二脑,内容旋转,情景模型制作,以及更多作者的元技能. Works with Claude Code, Codex, Cursor. <sub>⭐ 839</sub>
+- [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench) - 深层研究小组:深层研究代理人的综合基准 <sub>⭐ 837 · Python</sub>
+- [heurist-network/heurist-agent-framework](https://github.com/heurist-network/heurist-agent-framework) - 一个灵活的多界面的AI代理框架,用于构建具有推理,工具使用,内存,深入研究,块链交互,MCP,以及代理-a-service的代理. <sub>⭐ 829 · Python</sub>
+- [Technion-Kishony-lab/data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) - 数据对纸:可追溯的AI驱动科学研究 <sub>⭐ 827 · Python</sub>
+- [haofanwang/Lora-for-Diffusers](https://github.com/haofanwang/Lora-for-Diffusers) - AI世代研究人员在扩散器框架内使用LORA(Low-Rank 适应)的最容易理解的辅导 <sub>⭐ 822 · Python</sub>
+- [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) - Open_WebUI工具是一个模块化工具包,旨在扩展和丰富您的OpenWebUI实例,将其变成一个强大的AI工作站. 拥有超过15个专业工具的套件,功能管道... <sub>⭐ 820 · Python</sub>
+- [jasmcaus/caer](https://github.com/jasmcaus/caer) - Python的高性能视野库 缩放你的研究,而不是锅炉板 <sub>⭐ 818 · Python</sub>
+- [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - 这份指南应帮助研究人员和爱好者用他们自己的Kubernetes GPU集群,轻松地使那里自动化并加速进行深度倾斜训练。 <sub>⭐ 815 · Shell</sub>
+- [risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole) - 开源,多平台的AI代理机的操纵装置——一个本土的,多线程的操作员控制台(JVM,不是Electron),可以使用真实的浏览器,终端运行克劳德码,Codex,双子座或OpenCode. <sub>⭐ 810 · Kotlin</sub>
+- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) - 如果OpenAI Deep Research and Dify是一个平台呢? OpenAgent — 利用架构快速构建垂直的AI代理,拥有深层推理循环,视觉工作流程,RAG,以及A2A代表团. <sub>⭐ 808 · Python</sub>
+- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym:移动GUI代理研究的可验证和高度平行模拟平台 ^ → 浏览器托管的Android模拟器 → 可验证评价 → 可扩展在线... <sub>⭐ 802 · Python</sub>
+- [GAIR-NLP/DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher) - 通过在现实世界环境中的强化学习扩大深层研究。 <sub>⭐ 801 · Python</sub>
+- [DeepXiv/deepxiv_sdk](https://github.com/DeepXiv/deepxiv_sdk) - 与作者交谈等研究论文交谈 - Python 套件, 为 arXiv 论文提供 AI 代理 <sub>⭐ 800 · Python</sub>
+- [divelab/AIRS](https://github.com/divelab/AIRS) - 科学人工情报研究(AIRS) <sub>⭐ 799 · Jupyter Notebook</sub>
+- [MultiAgentLearning/playground](https://github.com/MultiAgentLearning/playground) - PlayGround:AI研究多代理学习. <sub>⭐ 796 · Python</sub>
+- [qx-labs/agents-deep-research](https://github.com/qx-labs/agents-deep-research) - 利用OpenAI Agents SDK进行迭代深度研究 <sub>⭐ 792 · Python</sub>
+- [facebookresearch/CodeGen](https://github.com/facebookresearch/CodeGen) - 参考来自Facebook AI Research的代码生成项目的实施. 应用机器学习到代码的通用工具包,从数据集创建到模型培训和评价. comes with... <sub>⭐ 776 · Python</sub>
+- [shuxiachai/academic-commercialization-agent](https://github.com/shuxiachai/academic-commercialization-agent) - 将论文和研究课题转化为与源相关的商业化评估草案. Python, FastAPI和CrewAI;可审计评分,检查站恢复和耐用申请收据. <sub>⭐ 771 · Python</sub>
+- [csarron/awesome-emdl](https://github.com/csarron/awesome-emdl) - 嵌入式和移动式深层学习研究资源 <sub>⭐ 769</sub>
+- [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem:计算化学和药物设计研究的深层学习工具包 <sub>⭐ 753 · Python</sub>
+- [primeqa/primeqa](https://github.com/primeqa/primeqa) - 最先进的多语种问答研究与开发的主库. <sub>⭐ 740 · Python</sub>
+- [natoshikamoto/KamotoAgent](https://github.com/natoshikamoto/KamotoAgent) - KAMOTO——开放源码自主市场代理商,负责研究、分析和执行跨股票、密码和链路市场的战略。 <sub>⭐ 739 · JavaScript</sub>
+- [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - 用于科学研究的LLM代理虚拟实验室 <sub>⭐ 737 · Jupyter Notebook</sub>
+- [416rehman/DeepZero](https://github.com/416rehman/DeepZero) - 睡眠时寻找零天。 DeepZero是一个自动的脆弱性研究框架,它从本土角度分析、分解和分析数千个可开发的IOCTL的Windows内核驱动程序... <sub>⭐ 734 · Python</sub>
+- [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) - 亚马逊卖家的免费AI代理技能——关键词研究,竞争者分析,列出审计 & 更多. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex 以及任何支持技能的代理... <sub>⭐ 728 · Python</sub>
+- [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) - 13种具有研究、产品决定、甲板、出版、审计和更多——跨技能匹配的可携带性代理技术。 <sub>⭐ 725 · Python</sub>
+- [SergioFierens/ai4r](https://github.com/SergioFierens/ai4r) - Ruby的人工智能 - AI研究人员的Ruby游乐场 <sub>⭐ 722 · Ruby</sub>
+- [andrehuang/research-companion](https://github.com/andrehuang/research-companion) - Claude Code 的战略研究思维代理人 — — 思想评估、项目分类和结构化集思广益。帮助你决定写哪些论文,而不只是如何写。 <sub>⭐ 718</sub>
+- [peteanderson80/Matterport3DSimulator](https://github.com/peteanderson80/Matterport3DSimulator) - AI 从真实全景图像中学习强化研究平台. <sub>⭐ 716 · C++</sub>
+- [SeanJ1ang/design-judge-skills](https://github.com/SeanJ1ang/design-judge-skills) - 由证据驱动的代理技能,用于设计奖项研究、评价、奖项比对、录入写作和提交准备。 <sub>⭐ 714 · Python</sub>
+- [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) - DR Tulu官方仓库:用不断演变的Rubrics进行强化学习以进行深层研究 <sub>⭐ 713 · Python</sub>
+- [https-deeplearning-ai/agentic-ai-public](https://github.com/https-deeplearning-ai/agentic-ai-public) - 代理工作流程课程研究代理服务 <sub>⭐ 711 · Python</sub>
+- [tomhartke/knowledge-graph-from-GPT](https://github.com/tomhartke/knowledge-graph-from-GPT) - 使用GPT来组织并获取信息,并生成问题. 长期目标是让一个像代理的研究助理. <sub>⭐ 692 · Jupyter Notebook</sub>
+- [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 50 AI代理技能用于子公司营销. 研究趋势内容,撰写数据支持帖子,生成信息图,建立登陆页,部署——全飞轮与社会智能. <sub>⭐ 689 · HTML</sub>
+- [ARA-Labs/Agent-Native-Research-Artifact](https://github.com/ARA-Labs/Agent-Native-Research-Artifact) - 严格和值得信赖的AI科学家的人工活体研究议定书 <sub>⭐ 688 · Python</sub>
+- [dCaples/AutoDidact](https://github.com/dCaples/AutoDidact) - 利用强化学习和自我核查,自主地对研究代理LLMS进行自定义数据培训. <sub>⭐ 688 · Jupyter Notebook</sub>
+- [firecrawl/open-researcher](https://github.com/firecrawl/open-researcher) - 视觉AI研究助理,可以显示实时思维,提供分景分析,并使用Claude和Firecrawl自动引用 <sub>⭐ 688 · TypeScript</sub>
+- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) - 一个基于谷歌的纸管乐团纸张通过技能执行的自动化AI研究纸质编剧——使用任意编码代理(Claude Code, Cursor, Antigravity...)的基准+自动编译器. <sub>⭐ 672 · Python</sub>
+- [Jun-jie-Huang/awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) - 关于大语言模型(LLM)和人工智能用于IT操作(AIOps)的出色学术研究和工业材料列表. <sub>⭐ 670</sub>
+- [aaryansamanta/ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) - 高中研究组合:2份同行评审出版物(IEEE, IJHSR)+3个活跃项目,涵盖量子启发的ML,计算生物学,生物医学成像,野火RL,以及. <sub>⭐ 669 · HTML</sub>
+- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) - ScienceClaw是一名个人研究助理,由LangChain DeepAgents和AIO Sandbox基础设施建造,采用OpenClaw以外的全新的建筑,它提供了更强大的安全性. . <sub>⭐ 669 · Python</sub>
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - 终端-Bench-Science:评价跨科学领域研究工作流程的AI代理商 <sub>⭐ 669 · Python</sub>
+- [junfanz1/Awesome-AI-Review](https://github.com/junfanz1/Awesome-AI-Review) - 杰出的AI产业和研究评论 <sub>⭐ 659</sub>
+- [theNetworkChuck/dark-web-scraping-guide](https://github.com/theNetworkChuck/dark-web-scraping-guide) - 网络查克第480集-罗宾AI暗网搜索工具综合指南 教育安全研究的安装,使用,安全指南和故障排除. <sub>⭐ 657</sub>
+- [hanlulong/awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) - 由OpenEcon团队维护的AI工具、图书馆和用于经济学研究、教学和政策分析的资源目录。 <sub>⭐ 654</sub>
+- [langtalks/swe-agent](https://github.com/langtalks/swe-agent) - AI动力软件工程多代理系统与研究人员和开发者代理,通过智能规划和执行实现代码执行自动化. 由LangGraph多代理构建. . <sub>⭐ 642 · Python</sub>
+- [Light0305/Light-skills](https://github.com/Light0305/Light-skills) - 用于研究、竞赛和创新项目的AI工作流程技能包。 <sub>⭐ 636 · Python</sub>
+- [docsagent/docsagent](https://github.com/docsagent/docsagent) - DocsAgent – 让你的AI代理即时,私人访问你的个人知识库(Zotero, Obsidian,苹果笔记现在支持,路面上本地的docs). 原生C++搜索核心:BM25+通过... <sub>⭐ 625 · TypeScript</sub>
+- [csinva/csinva.github.io](https://github.com/csinva/csinva.github.io) - 影片、纸条、课前笔记、博客文章 <sub>⭐ 622 · HTML</sub>
+- [ServiceNow/N-BEATS](https://github.com/ServiceNow/N-BEATS) - N-BEATS是无线时间序列预测的神经网络模型. N-BEATS是一个服务现在研究项目,在Element AI启动. <sub>⭐ 614 · Python</sub>
+- [Coder-World04/ML-AI-Research-Papers---Solved](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved) - 这个寄存器包含您需要精通的 ML/AI 研究论文 <sub>⭐ 613</sub>
+- [Denario-AI/Denario](https://github.com/Denario-AI/Denario) - 科学研究援助模块多代理系统 <sub>⭐ 608 · TeX</sub>
+- [PKU-YuanGroup/OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S) - 用于科学研究的开源AI代理. Python/R中与克劳德,GPT,双子座等进行数据分析. <sub>⭐ 607 · Python</sub>
+- [spear-sim/spear](https://github.com/spear-sim/spear) - SPEAR: 光现实主义健美AI研究模拟器 <sub>⭐ 606 · C++</sub>
+- [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - 强化学习和机器人研究高菲德尔模拟器. <sub>⭐ 596 · Python</sub>
+- [jimmc414/Kosmos](https://github.com/jimmc414/Kosmos) - Kosmos: AI自主发现科学家 - 由克劳德代码或API驱动的实施和适应 - 基于Kosmos AI文件 - https://arxiv.org/abs/2511.02824 <sub>⭐ 592 · Python</sub>
+- [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) - DeepSeek Harness桌面 App:一个本地的AI桌面工作空间,用于DSH会话,项目,文件,网络研究,插件,以及Office文物. <sub>⭐ 591 · JavaScript</sub>
+- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent技能和插件:350+工具,内存提供者,以及Nous Research代理的指南. <sub>⭐ 581</sub>
+- [fuxiaoai/tidings-rss](https://github.com/fuxiaoai/tidings-rss) - 为AI,新闻,研究,博客,视频,播客,和工程等服务,进行校验,现场验证的OPML收藏. <sub>⭐ 577 · Python</sub>
+- [ZimoLiao/scholaraio](https://github.com/ZimoLiao/scholaraio) - 全能学者:AI代理的研究基础设施. <sub>⭐ 575 · Python</sub>
+- [stepfun-ai/StepDeepResearch](https://github.com/stepfun-ai/StepDeepResearch) - 步进- 深度研究 <sub>⭐ 573 · Python</sub>
+- [allenai/tango](https://github.com/allenai/tango) - 将实验组织成离散步骤,在研究项目的整个生命周期中可以缓存和再利用. <sub>⭐ 572 · Python</sub>
+- [evelyyyyynnnnn/4.0-Decision-Intelligence-Framework](https://github.com/evelyyyyynnnnn/4.0-Decision-Intelligence-Framework) - 构建优化驱动决策智能体系,整合因果推论,风险建模,大型社会技术体系AI管道的研究导向框架. <sub>⭐ 564 · Python</sub>
+- [facebookresearch/meta-agents-research-environments](https://github.com/facebookresearch/meta-agents-research-environments) - Meta Agents Research Environments是一个综合性平台,旨在在动态,现实的情景中评价AI代理. 这个平台与静态基准不同,引入了不断发展的环境. <sub>⭐ 561 · Python</sub>
+- [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - 一个开放的,经整理的用于科学研究的特工技能集——克隆它,使用它,扩展它! <sub>⭐ 561</sub>
+- [redis-developer/ArXivChatGuru](https://github.com/redis-developer/ArXivChatGuru) - 使用 ArXiv ChatGuru 与研究论文交谈。 此应用程序使用 LangChain, OpenAI, Streamlit, 和 Redis 作为矢量数据库/ 语义缓存 。 <sub>⭐ 561 · Python</sub>
+- [oliver-kriska/claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix) - Elixir/Phoenix/LiveView的Claude代码插件——26名专家代理,铁法执法,以及潮波MCP集成. Plan etcents with 并行研究代理,使用自动执行...... <sub>⭐ 559 · Python</sub>
+- [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - 开源Claude代码技术,代理,以及用于AI动力渗透测试,bug赏金猎杀和安全研究的Slash命令 <sub>⭐ 554 · Python</sub>
+- [Romanescu11/hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) - 用于Nous Research的Hermes AI代理器的元技能插件,该插件可以监视您的工作流程并自动将其转化为可重复使用的技能. 每次你与Hermes合作并解决一些问题——设置... <sub>⭐ 552 · Python</sub>
+- [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code – style 动态工作流程为 Pi : 具有真实模型路由的代码-mode子代理, 日记恢复, git-worktree 孤立,成本核算, 交互式/工作流 TUI, 一种/超码... <sub>⭐ 551 · TypeScript</sub>
+- [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - 学习如何研究所需图像和工具、技术和贸易手段。 <sub>⭐ 551</sub>
+- [sooftware/attentions](https://github.com/sooftware/attentions) - PyTorch为深层学习研究者实施了一些关注. <sub>⭐ 548 · Python</sub>
+- [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - 扑克的多代理人深度强化学习框架 <sub>⭐ 545 · Python</sub>
+- [ImKKingshuk/LockKnife](https://github.com/ImKKingshuk/LockKnife) - LockKnife: Ultimate Android 安全研究工具. 为研究人员和黑客建造的用于深层Android安全研究的统一TUI工作空间和无头CLI,由Python编曲提供动力...... <sub>⭐ 542 · Python</sub>
+- [steveclarke/real-world-rails](https://github.com/steveclarke/real-world-rails) - 200+ 生产开源 Rails app & engines in one repo. 以 AI 代理搜索真实的代码库,以研究建筑模式. <sub>⭐ 542 · Shell</sub>
+- [CopilotKit/open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas) - 开源多代理聊天界面,允许您在一个动态对话中管理多个代理,并添加MCP服务器进行深层研究 <sub>⭐ 539 · TypeScript</sub>
+- [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) - 关于AI自动研究的调查 <sub>⭐ 539 · HTML</sub>
+- [davidbau/rewriting](https://github.com/davidbau/rewriting) - 重写深源模型, ECCV 2020 (Oral). 交互式工具, 可以直接编辑 GAN 的规则, 用添加、 删除或更改的对象合成场景。 更改样式GANv2 来制作... <sub>⭐ 535 · Python</sub>
+- [Anas-Khan93/ai-agency-agents](https://github.com/Anas-Khan93/ai-agency-agents) - Open Agency是一个开放源代码AI的劳动力队伍,其特色是发展,增长,研究,策略和创造力等方面的专业代理。 每个代理都通过. <sub>⭐ 533</sub>
+- [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - 关于健康AI和相关研究/产业驱动资源的优秀论文目录. <sub>⭐ 532</sub>
+- [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro) - 深层研究代理CongnitiveKernel-Pro from Tencent AI Lab. 文件 //arxiv.org/pdf/2508.00414 <sub>⭐ 532 · Python</sub>
+- [Curated-Awesome-Lists/awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) - 探索综合收集资源,教程,论文,工具,以及精细调整大语言模型(LLMS)的最佳做法,为ML从业者和研究人员提供完美!. <sub>⭐ 531</sub>
+- [Westlake-AGI-Lab/Auto-Slides](https://github.com/Westlake-AGI-Lab/Auto-Slides) - (ICME 2026) 官方实施自动滑翔:创建和定制研究演示文稿的互动多代理系统. <sub>⭐ 530 · Python</sub>
+- [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI) - ComexcialAI是一个模块化,开发者友好的研究助手框架。它使您能够使用LLMS,网络搜索,Reddit,YouTube和. <sub>⭐ 529 · Jupyter Notebook</sub>
+- [AQ-MedAI/MedResearcher-R1](https://github.com/AQ-MedAI/MedResearcher-R1) - MedResearcher-R1是医疗情景的深层研究剂,基于知识知情的轨迹合成框架. <sub>⭐ 522 · Python</sub>
+- [airalcorn2/Deep-Semantic-Similarity-Model](https://github.com/airalcorn2/Deep-Semantic-Similarity-Model) - 我的Keras执行深语义相似模式(DSSM)/革命性Latent语义模式(CLSM)在此描述 //research.microsoft.com/pubs/226585/cikm2014_cdssm_final.pdf. <sub>⭐ 521 · Python</sub>
+- [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 环境工程研究——不只是另一种代理集,而是利用研究和环境工程作为集体运作. Hub-and-spoke 协调通过Claude Code. <sub>⭐ 521 · JavaScript</sub>
+- [adshao/flounder](https://github.com/adshao/flounder) - 自动白帽子安全审计员负责AI驱动的代码审查,bug赏金研究,开发建设,以及执行依据的核查. <sub>⭐ 516 · TypeScript</sub>
+- [amplifying-ai/awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) - 基因引擎优化(GEO)资源全程指南:用于提升AI动力搜索引擎能见度的指南,工具和研究. <sub>⭐ 516</sub>
+- [ailev/FPF](https://github.com/ailev/FPF) - 第一原则框架(FPF):用于系统工程,研究和管理的AI-内在模式语言. 共同的人类-AI推理用于架构决策,证据,权衡和方法. <sub>⭐ 512</sub>
+- [DAMO-NLP-SG/CoI-Agent](https://github.com/DAMO-NLP-SG/CoI-Agent) - 纸质官方代码: 思想链:通过LLM代理开发小说进行革命性研究 <sub>⭐ 511 · Python</sub>
+- [harshaneel/humanize](https://github.com/harshaneel/humanize) - 最佳静态AI文字人文化者,两种研究基础的LLM-不可知性技能,使AI写作有声音的人文和可重塑性. 九杠杆,50+同行评审来源,2024-2026年检测文献. <sub>⭐ 511 · HTML</sub>
+- [iusztinpaul/designing-real-world-ai-agents-workshop](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) - 手动工作坊:从零开始构建多代理AI系统——深层研究代理+写入工作流作为MCP服务器服务. 包括代码,幻灯片和视频 <sub>⭐ 511 · Python</sub>
+- [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) - 二-研究人员:旨在协助建筑搜索/研究代理的新开放源码框架 <sub>⭐ 504 · Python</sub>
+- [qodo-ai/open-aware](https://github.com/qodo-ai/open-aware) - 意识到“担任你的代理首席工程师”的“复杂密码库和知识的深层密码研究代理人” <sub>⭐ 504</sub>
+- [yogsoth-ai/de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) - 267技能研究图以纯马克降级——由216个单目的步骤建造的51个研究操作,按任何顺序组成,并有明确的回溯跟踪. 1npx安装,无运行时间,无MCP... <sub>⭐ 503</sub>
+- [expectedparrot/edsl](https://github.com/expectedparrot/edsl) - 设计,进行和分析AI动力调查和实验的结果,用大量AI代理商和LLMs模拟社会科学和市场研究. <sub>⭐ 502 · Python</sub>
+- [firecrawl/firesearch](https://github.com/firecrawl/firesearch) - AI动力的深层研究工具,可以分解复杂的询问,验证答案,并使用Firecrawl和LangGraph提供引用的综合结果. <sub>⭐ 498 · TypeScript</sub>
+- [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) - Open Paper 是管理您研究库的工作平台。 读取、 注释和理解您的论文, 请使用 AI 助手来进行您的文献审查 。 <sub>⭐ 491 · Python</sub>
+- [claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback) - Claes Bäckman开发了这些工具。 <sub>⭐ 488 · JavaScript</sub>
+- [ml-stat-Sustech/TorchCP](https://github.com/ml-stat-Sustech/TorchCP) - 一个Python工具箱,用于深层学习模型的一致预测研究,使用PyTorch. <sub>⭐ 479 · Python</sub>
+- [cyanheads/atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server) - 一个用于ATLAS的模型背景协议(MCP)服务器,一个用于LLM代理的Neo4j动力任务管理系统 - 执行三级架构(项目,任务,知识)来管理复杂. . <sub>⭐ 478 · TypeScript</sub>
+- [hkcanan/katmer-code](https://github.com/hkcanan/katmer-code) - 多提供者 AI 侧杠 Obsidian——克劳德,双子座,Codex,Antigravity. Per-tab的路由,同塔布咨询,内置diff,CLAUDE.md自动密镜,学术研究技能. <sub>⭐ 474 · TypeScript</sub>
+- [chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving](https://github.com/chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving) - 关于"自主驾驶决策"的科研著作的个人说明. <sub>⭐ 471</sub>
+- [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) - 自主的AI科学家:在文学,实验,自学和写作上拥有多代理循环,有定心的卫士,防止赏罚和幻觉. <sub>⭐ 470 · Python</sub>
+- [NVlabs/UniversalDeepResearch](https://github.com/NVlabs/UniversalDeepResearch) - 环球深度研究文件的附带守则(https://arxiv.org/abs/2509.00244) <sub>⭐ 469 · Python</sub>
+- [ant-research/Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection) - 关于AI-Generated图像和视频检测的最新研究和资料的精选集。 <sub>⭐ 461</sub>
+- [JayZeeDesign/research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autgen + GPT - 构建群集AI研究器 <sub>⭐ 459 · Python</sub>
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - AI/ML 研究 <sub>⭐ 457 · Jupyter Notebook</sub>
+- [DmitryRyumin/CVPR-2023-24-Papers](https://github.com/DmitryRyumin/CVPR-2023-24-Papers) - CVPR 2023-2024 论文: 挖掘到在主要计算机视觉会议上介绍的高级研究. 跟上计算机视觉和深层学习的最新发展. code... <sub>⭐ 453 · Python</sub>
+- [cnfjlhj/ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) - 实用的AI合作游戏本,用于研究,写作,阅读和编码:文章,提示,代理规则,以及可重复使用的技能. <sub>⭐ 452 · Python</sub>
+- [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - 一个基于ESP32的开源四重奏机器人宠物框架,用于开发波士顿动力学风格的四脚机器人,适合STEM,编码和机器人教育,IOT机器人应用. . <sub>⭐ 452 · C++</sub>
+- [rollingSirius/equity-research-skill](https://github.com/rollingSirius/equity-research-skill) - 可能最深的AI股权研究技能:九章单股深潜和收益深潜,有脚本DCF/EPV/EVA以及可复制的估价. 涵盖美国,香港和A股. Docs in... <sub>⭐ 450 · Python</sub>
+- [google-deepmind/lab2d](https://github.com/google-deepmind/lab2d) - 基于代理的 AI 研究的自定义 2D 平台 <sub>⭐ 444 · C++</sub>
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - 高级性能AI代理用于长视任务和当地模型. 建于实证研究之上. 200k+ 工作符号在64k上下文窗口内. 运行一个完整的dev团队在5GB VRAM中. <sub>⭐ 440 · Go</sub>
+- [DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak) - DeepSqueak v3:利用机器视野加速生物声学研究. <sub>⭐ 433 · MATLAB</sub>
+- [Nutlope/open-deep-research](https://github.com/Nutlope/open-deep-research) - 开放深层研究应用程序 — 用 OSS LLM 生成报告 <sub>⭐ 433 · TypeScript</sub>
+- [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) - 审计、诊断、研究、规划、实施、试验和核实横跨谷歌、Bing和AI搜索表面的SIO网站。 <sub>⭐ 431 · Python</sub>
+- [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - Claude Code, cursor, Codex & Gemini CLI 的24个跨平台代理技能——数据库,消息,研究,TTS,DevOps和Google工作空间 <sub>⭐ 429 · Python</sub>
+- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion) - 端对端人文写作助理——Agent Skill(开放的SKILL.md格式). Socratic研究的11种模式通过AI-use披露来磨亮问题. Bilanguage (EN/Q), disciple-aware... <sub>⭐ 427 · Python</sub>
+- [opennars/opennars](https://github.com/opennars/opennars) - 用于研究的 OpenNARS 3.0+ <sub>⭐ 425 · Java</sub>
+- [HarshJ23/Deeper-Seeker](https://github.com/HarshJ23/Deeper-Seeker) - Deeper Seeker是OpenAI最新"Deep Research"功能在ChatGPT中更简单的OSS版本. 这是一个代理研究工具,用于理性,创建多步任务,合成来自多个在线的数据...... <sub>⭐ 422 · Python</sub>
+- [microsoft/DeepVideoDiscovery](https://github.com/microsoft/DeepVideoDiscovery) - **深视发现(DVD)**是一个深研究风格问答代理,旨在理解超长视频. <sub>⭐ 422 · Python</sub>
+- [EdanToledo/Stoix](https://github.com/EdanToledo/Stoix) - 在JAX中快速实验单剂强化学习的一个便于研究的代码库 – 端到端 JAX RL <sub>⭐ 421 · Python</sub>
+- [nuglifeleoji/Factor-Research](https://github.com/nuglifeleoji/Factor-Research) - 高级定量因素研究:ML动力存量返回预测,性能提升72%. 功能集全α因子库,系统特性选择,深...... <sub>⭐ 421 · Jupyter Notebook</sub>
+- [yandex-research/rtdl-num-embeddings](https://github.com/yandex-research/rtdl-num-embeddings) - (NeurIPS 2022) 关于在表层深层学习中嵌入数字特征 <sub>⭐ 420 · Python</sub>
+- [bybren-llc/safe-agentic-workflow](https://github.com/bybren-llc/safe-agentic-workflow) - SWAW - SAFe Agentic Workingflow AI Agent Harness 为多代理团队工作流程而构建的基于SAFe方法(Scaled Agile框架),为AI代理团队(现在与AI-DLC!)改编,适用于任何团队的作品有. <sub>⭐ 419 · Shell</sub>
+- [uber-research/differentiable-plasticity](https://github.com/uber-research/differentiable-plasticity) - 不同可塑性所描述的算法的应用:训练具有梯度下降的塑料网络,来自Uber AI Labs的研究论文. <sub>⭐ 415 · Python</sub>
+- [fcakyon/phd-skills](https://github.com/fcakyon/phd-skills) - Claude Code的博士研究技能:纸张复制、实验设计、纸张审查、结果比较等等。 <sub>⭐ 413 · Shell</sub>
+- [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHT是一个自主的AI,可以做医学研究! <sub>⭐ 413 · Python</sub>
+- [TheDesignFounder/DreamLayer-Eval](https://github.com/TheDesignFounder/DreamLayer-Eval) - DreamLayer Eval:图像和视频传播模型的开源基准. Automate 提示,种子,以及可复制结果的衡量标准. DreamLayer AI(梦想者.io)的研究项目. <sub>⭐ 413 · Python</sub>
+- [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - 一个开源的,AI代理-内在研究画布应用程序,它以HITL(人类在循环中)的能力进行实时搜索,由CopilotKit,Tavily和LangGraph提供动力 <sub>⭐ 412 · TypeScript</sub>
+- [Will-hxw/drawio-diagram-builder](https://github.com/Will-hxw/drawio-diagram-builder) - 手提代理技能,用于研究风格的可编辑图.io图和截图驱动的精细化 <sub>⭐ 412 · Python</sub>
+- [Runchuan-BU/BioClaw](https://github.com/Runchuan-BU/BioClaw) - AI-Powered Bio信息学研究助理. OpenClaw上建. <sub>⭐ 410 · TypeScript</sub>
+- [AgriciDaniel/youtubepro](https://github.com/AgriciDaniel/youtubepro) - 本地首个YouTube研究,基于AI的洞察力,剧本写作,以及缩略图创作. <sub>⭐ 409 · TypeScript</sub>
+- [brainqub3/jar3d_meta_expert](https://github.com/brainqub3/jar3d_meta_expert) - 从事长期运行,研究密集型任务的佛萨特效. <sub>⭐ 408 · Python</sub>
+- [KitionAI/kition](https://github.com/KitionAI/kition) - KTION将Markdown,DataTable,WhiteBoard,一个工具使用AI代理,浏览器研究,和视觉工作流程带入一个桌面工作空间. <sub>⭐ 403 · TypeScript</sub>
+- [femto/minion-agent](https://github.com/femto/minion-agent) - 一个简单的代理框架,能够使用浏览器 + mcp + 自动仪器 + 计划 + 深度研究 + 更多 <sub>⭐ 398 · Python</sub>
+- [LG-AI-EXAONE/EXAONE-Deep](https://github.com/LG-AI-EXAONE/EXAONE-Deep) - LG AI Research 所建EXAONE Deep的官方存储库 <sub>⭐ 398</sub>
+- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - 自动与AI代理商和Langgraph进行主干研究、资格认证和外联,创建个性化信息,并与您的客户关系管理系统(HubSpot、AirTable、Google Sheets)连接 <sub>⭐ 397 · Python</sub>
+- [SpectrAI-Initiative/InnoClaw](https://github.com/SpectrAI-Initiative/InnoClaw) - AI科学创新研究代理商. <sub>⭐ 396 · TypeScript</sub>
+- [OctagonAI/kalshi-trading-bot-cli](https://github.com/OctagonAI/kalshi-trading-bot-cli) - 用于交易Kalshi预测市场的AI-native CLI. 进行深层基础研究,生成独立的概率估计,计算边缘对直播订单书,执行与Kelly的交易... <sub>⭐ 394 · TypeScript</sub>
+- [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) - 人工智能代理的直播数据——搜索,研究,市场,密码,X/Twitter. 通过x402微额支付支付逐笔支付. <sub>⭐ 393 · TypeScript</sub>
+- [ebagdasa/backdoors101](https://github.com/ebagdasa/backdoors101) - 深层学习和联邦学习的后门框架。一个轻量级工具,用于开展你对后门的研究。 <sub>⭐ 386 · Python</sub>
+- [XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) - 以深层学习框架为基础的出色的图异常检测技术。收集的常用数据集、文件以及执行都列于此 github 存储库中。我们... <sub>⭐ 386</sub>
+- [allenai/allenact](https://github.com/allenai/allenact) - AI2提供的Embody-AI研究开放源码框架. <sub>⭐ 384 · Python</sub>
+- [lobehub/awesome-rsi](https://github.com/lobehub/awesome-rsi) - 一种由设计完成的研究图 递归自我改进:模型、代理、绳索、内含的系统、自动AI研发、基准和安全。 <sub>⭐ 383</sub>
+- [anshaneja5/mldl.study](https://github.com/anshaneja5/mldl.study) - ML & DL 路线图,包含视频,文章,研究论文,竞赛,项目等被整理的资源. <sub>⭐ 379 · JavaScript</sub>
+- [lukalabs/replika-research](https://github.com/lukalabs/replika-research) - Replika.ai 研究论文、海报、幻灯片和数据集 <sub>⭐ 378 · Jupyter Notebook</sub>
+- [ServiceNow/picard](https://github.com/ServiceNow/picard) - PICARD - 用于从语言模型中逐步解析限制自动递减的PICARD是一个服务现在研究项目,在Element AI开始. <sub>⭐ 377 · Haskell</sub>
+- [damonwan1/AutoScholarLoop](https://github.com/damonwan1/AutoScholarLoop) - 一个多代理的AUTO研究环路,用于思想发现,实验执行,循证写纸,质量审计,以及AI小组,CNIC,CAS的现场网络观测. <sub>⭐ 375 · Python</sub>
+- [vukrosic/become-elite-ai-researcher](https://github.com/vukrosic/become-elite-ai-researcher) - 从头开始成为人工智能研究员的全部课程 <sub>⭐ 373 · Jupyter Notebook</sub>
+- [Socialpranker/deepdive](https://github.com/Socialpranker/deepdive) - Claude Code的深层技能——12阶段研究管道:计划审查门,平行的子代理搜索,权利要求引导的有异议保护的三角化,相关性×权威证据过滤器...... <sub>⭐ 372 · Python</sub>
+- [assafelovic/gptr-mcp](https://github.com/assafelovic/gptr-mcp) - MCP 服务器,用于通过 MCP 协议使 LLM 应用程序能够进行深层研究 <sub>⭐ 371 · Python</sub>
+- [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) - Claude Code的技能——深入研究:系统的学术文献审查 <sub>⭐ 371 · Python</sub>
+- [liuruoze/mini-AlphaStar](https://github.com/liuruoze/mini-AlphaStar) - (JAIR'2022) 阿尔法星计划的一个小型复制码. 注:原阿尔法星是DeepMind提议播放StarCraft II的AI. JAIR=人工智能杂志...... <sub>⭐ 371 · Python</sub>
+- [buriburisuri/sugartensor](https://github.com/buriburisuri/sugartensor) - 一个为拉氏变量提供合成糖的微缩的拉氏流包。这个库将有助于实际的深层学习研究者而不是初学者。 <sub>⭐ 368 · Python</sub>
+- [harishdeivanayagam/rowfill](https://github.com/harishdeivanayagam/rowfill) - 用于深入研究和文件处理的开源电子表格平台 <sub>⭐ 366 · TypeScript</sub>
+- [texttron/BrowseComp-Plus](https://github.com/texttron/BrowseComp-Plus) - 浏览Comp-Plus:深度研究代理商更公平和透明的评价基准(ACL 2026 Main) <sub>⭐ 366 · Python</sub>
+- [yandex-research/rtdl-revisiting-models](https://github.com/yandex-research/rtdl-revisiting-models) - (NeurIPS 2021) 重新审视表征数据的深层学习模式 <sub>⭐ 365 · Python</sub>
+- [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) - 包含插件、技能、 MCP 服务器、补丁/ profile 层、 管弦乐器 & UIs for DeepSeek Harness (DSH). visualization - PPT - coding - 代理 – Lops(自动研究) 等内容的目录。 # dsh <sub>⭐ 359 · TypeScript</sub>
+- [get-zeked/perplexity-super-skills](https://github.com/get-zeked/perplexity-super-skills) - 完整收集了12个Perplexity Computer Super-Skills将Perplexity + Claude代码能力整合到AI代理,dev,营销,销售,金融,法律,PM,业务,研究,内容,安全... <sub>⭐ 359</sub>
+- [linus-sch/Mind-Map-Wizard](https://github.com/linus-sch/Mind-Map-Wizard) - 用于研究的简单 AI 思维映射, 就在您的浏览器中 <sub>⭐ 359 · JavaScript</sub>
+- [Data-Centric-AI-Community/awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) - 开源软件、教学和数据-儿科AI研究 <sub>⭐ 357 · Jupyter Notebook</sub>
+- [medtorch/awesome-healthcare-ai](https://github.com/medtorch/awesome-healthcare-ai) - 一份精心整理的列表,列出了令人赞叹的开放源码保健工具,算法,数据集和研究论文. <sub>⭐ 356</sub>
+- [Elvin-Yiming-Du/Survey_Memory_in_AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI) - 该寄存器引入了全面的纸质列表,数据集,方法以及内存研究工具. <sub>⭐ 353</sub>
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) - 由Google的代理开发工具(ADK)所建的AI代理商的破译集:模板、最佳做法和可供研究、商业、自动化、教育等使用的生产范例。 <sub>⭐ 347 · Python</sub>
+- [ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE) - MOOSE(多器官客观分解)一种以数据为中心的AI溶液,生成多标签器官分解,促进系统性的TB全人研究. 管道基于n-UNet. <sub>⭐ 346 · Python</sub>
+- [Confusezius/Revisiting_Deep_Metric_Learning_PyTorch](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch) - (ICML 2020)本回函包含我们论文"在深层 metric学习中重温培训策略和概括性表现"(https://arxiv.org/abs/2002.08473)的代码,以便于一致...... <sub>⭐ 344 · Python</sub>
+- [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers) - 人工智能研究代理商的可编译计算-科学方法技能——在TDD上进行预先注册. A Science-domain restruction of Superpowers. <sub>⭐ 344 · Shell</sub>
+- [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) - Claude Code、Codex、OpenCode和DeepSeek Harness的跨代理研究论文工具包-快速摘要、深入研究材料、代码演示以及一个本地网络浏览器。 <sub>⭐ 342 · Vue</sub>
+- [athola/claude-night-market](https://github.com/athola/claude-night-market) - 23 Claude代码插件:TDD执行钩,git/PR工作流程,光谱驱动开发,代码审查,项目生命周期,固定-错误,维护自动化,上下文优化,研究,以及. <sub>⭐ 342 · Python</sub>
+- [ATH-MaaS/Marco-DeepResearch](https://github.com/ATH-MaaS/Marco-DeepResearch) - Marco 现实主义和挑战主义代理搜索 <sub>⭐ 339 · Python</sub>
+- [KuekHaoYang/KResearch](https://github.com/KuekHaoYang/KResearch) - 由AI驱动的高级深入研究应用,综合了来自众多来源的信息,以产生关于复杂专题的全面、有详细记录的报告。 <sub>⭐ 339 · Python</sub>
+- [nicholas-leonard/dp](https://github.com/nicholas-leonard/dp) - 利用火炬7号分布来精简研发的深层学习图书馆. <sub>⭐ 339 · Lua</sub>
+- [google-research/era](https://github.com/google-research/era) - 帮助科学家撰写专家级经验软件的AI系统 <sub>⭐ 338 · Jupyter Notebook</sub>
+- [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) - 来自AI & Technology,Data Sciences,AI Internship,机器学习和AI Humanities荣誉的封顶石项目组合. CNN肺炎在胸部X光(>90%精度)检测,保健EDA... <sub>⭐ 333 · Jupyter Notebook</sub>
+- [yandex-research/tabular-dl-tabr](https://github.com/yandex-research/tabular-dl-tabr) - 实施"TabR:解锁检索-强化表型深层学习的力量". <sub>⭐ 333 · Python</sub>
 - [EricSteinberger/Deep-CFR](https://github.com/EricSteinberger/Deep-CFR) - Scalable Implementation of Deep CFR and Single Deep CFR <sub>⭐ 332 · Python</sub>
-- [OpsPAI/awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) - A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps). <sub>⭐ 329</sub>
-- [accel-brain/accel-brain-code](https://github.com/accel-brain/accel-brain-code) - The purpose of this repository is to make prototypes as case study in the context of proof of concept(PoC) and research and development(R&D) that I have written in my website. The main research… <sub>⭐ 328 · Python</sub>
-- [akwin1234/damru](https://github.com/akwin1234/damru) - Undetected Playwright for Android. Real Android device in Docker (Redroid), driven via CDP with OS-level stealth. While every other antidetect browser runs desktop Chromium, DAMRU is Android-native… <sub>⭐ 327 · Python</sub>
-- [orgexyz/BlockAGI](https://github.com/orgexyz/BlockAGI) - Your Self-Hosted, Hackable Research Agent Inspired by AutoGPT <sub>⭐ 325 · Python</sub>
-- [media-sec-lab/Audio-Deepfake-Detection](https://github.com/media-sec-lab/Audio-Deepfake-Detection) - Research progress on speech deepfake detection: Relevant datasets aggregated from the review literature and publicly available codes <sub>⭐ 324</sub>
-- [aaryansamanta/aaryansamanta.github.io](https://github.com/aaryansamanta/aaryansamanta.github.io) - Aaryan Samanta: machine learning for biology and medicine. First-author papers, mentored research, USACO Platinum, and AI Ethos, Inc. <sub>⭐ 323 · HTML</sub>
-- [AdamPlatin123/Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) - Deep Research workflow on Dify: cascaded multi-source search → outline → cited long-form report. Credited in Awesome-Dify-Workflow. <sub>⭐ 323</sub>
-- [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) - Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot.… <sub>⭐ 323 · Python</sub>
-- [mangopy/Deep-Research-Survey](https://github.com/mangopy/Deep-Research-Survey) - A Systematic Survey of Deep Research <sub>⭐ 322</sub>
-- [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) - This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive… <sub>⭐ 322</sub>
-- [kennyzir/7deer_skills](https://github.com/kennyzir/7deer_skills) - Composable, auditable Agent Skills for building Roblox game sites—from opportunity and keyword research to content, SEO, updates, and backlinks. <sub>⭐ 321 · Python</sub>
-- [MinhNguyenDS/AI-pdf-books](https://github.com/MinhNguyenDS/AI-pdf-books) - The AI/Data book repository for AI Engineers, ML Engineers, LLMOps, MLOps, and Data Scientists <sub>⭐ 318</sub>
-- [opendilab/awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design) - A collection of research papers for AI-based protein design <sub>⭐ 318</sub>
-- [lajosdeme/mole](https://github.com/lajosdeme/mole) - A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data. <sub>⭐ 314 · Go</sub>
-- [ResearAI/Awesome-AI-Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) - This is a survey of research on AI scientists, AI researchers, AI engineers, and a series of AI-driven research studies <sub>⭐ 314</sub>
-- [Eurekaleo/awesome-ai-for-games](https://github.com/Eurekaleo/awesome-ai-for-games) - A curated, searchable collection of research on AI and foundation models across the game lifecycle. <sub>⭐ 313 · TeX</sub>
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) - ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it… <sub>⭐ 313 · Python</sub>
-- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB. <sub>⭐ 312 · Python</sub>
-- [ersilia-os/ersilia](https://github.com/ersilia-os/ersilia) - The Ersilia Model Hub, an open-source repository and CLI of AI/ML models for infectious and neglected disease research. <sub>⭐ 309 · Python</sub>
-- [lbx154/Argus](https://github.com/lbx154/Argus) - A self-evolving multi-agent system for autonomous research, operating 24/7 to explore, learn, and improve. <sub>⭐ 309 · Python</sub>
-- [Oqura-ai/deepdoc](https://github.com/Oqura-ai/deepdoc) - Deep research tool for local knowledge base. <sub>⭐ 308 · Python</sub>
-- [CYC2002tommy/Deep-Research-Agent](https://github.com/CYC2002tommy/Deep-Research-Agent) - An autonomous AI agent pipeline for rigorous academic research, featuring strict DOI verification, multi-agent Scopus/OpenAlex/Semantic Scholar retrieval, and APA 7th .docx generation <sub>⭐ 307 · JavaScript</sub>
-- [Rimagination/good-question](https://github.com/Rimagination/good-question) - A portable agent skill for sharpening research questions. <sub>⭐ 305 · PowerShell</sub>
-- [ain-soph/trojanzoo](https://github.com/ain-soph/trojanzoo) - TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. <sub>⭐ 304 · Python</sub>
-- [khoj-ai/pipali](https://github.com/khoj-ai/pipali) - Research, create, automate. Work so fast it feels like play. Get an ai co-worker on your machine. It can read-write files, code safely in sandbox, use your browser. Customize it with skills.… <sub>⭐ 303 · TypeScript</sub>
-- [kristjankorjus/applied-deep-learning-resources](https://github.com/kristjankorjus/applied-deep-learning-resources) - A collection of research articles, blog posts, slides and code snippets about deep learning in applied settings. <sub>⭐ 299</sub>
-- [wentorai/research-plugins](https://github.com/wentorai/research-plugins) - 350+ academic research skills, MCP configs, and plugins for Research-Claw and AI agents <sub>⭐ 299 · TypeScript</sub>
-- [xuanxuan0/TiEtwAgent](https://github.com/xuanxuan0/TiEtwAgent) - PoC memory injection detection agent based on ETW, for offensive and defensive research purposes <sub>⭐ 299 · C</sub>
-- [DaInfernalCoder/perplexity-mcp](https://github.com/DaInfernalCoder/perplexity-mcp) - A Model Context Protocol (MCP) server for research and documentation assistance using Perplexity AI. Won 1st @ Cline Hackathon <sub>⭐ 298 · JavaScript</sub>
-- [rahulvigneswaran/Intrusion-Detection-Systems](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems) - This is the repo of the research paper, "Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security". <sub>⭐ 298 · Python</sub>
-- [abhijitbendale/OSDN](https://github.com/abhijitbendale/OSDN) - Code and data for the research paper "Towards Open Set Deep Networks" A Bendale, T Boult, CVPR 2016 <sub>⭐ 297 · Python</sub>
-- [WenyuChiou/ai-research-skills](https://github.com/WenyuChiou/ai-research-skills) - Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw… <sub>⭐ 297 · Python</sub>
-- [dabit3/fabricate](https://github.com/dabit3/fabricate) - An experimental research tool for fabricating GitHub personas with AI-generated repositories <sub>⭐ 294 · Python</sub>
-- [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) - Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only) <sub>⭐ 293 · Python</sub>
-- [opendatalab/MinerU-HTML](https://github.com/opendatalab/MinerU-HTML) - MinerU-HTML: An SLM-powered HTML main content extractor that outputs clean HTML bodies. Perfect for Deep Research Agents, RAG applications, and training data generation. <sub>⭐ 293 · Python</sub>
-- [nanoAgentTeam/research-claw](https://github.com/nanoAgentTeam/research-claw) - A self-hosted AI assistant for academic research — manages your papers, searches literature, tracks deadlines, and answers you on the channels you already use. <sub>⭐ 292 · Python</sub>
-- [FuturixAI-and-Quantum-Works/Prism-Legal-OS](https://github.com/FuturixAI-and-Quantum-Works/Prism-Legal-OS) - Open-source legal AI for contract analysis, legal research, and litigation <sub>⭐ 291 · TypeScript</sub>
-- [puppyone-ai/DeepWideResearch](https://github.com/puppyone-ai/DeepWideResearch) - Agentic RAG for any scenario. Customize sources, depth, and width <sub>⭐ 291 · TypeScript</sub>
-- [Hsankesara/DeepResearch](https://github.com/Hsankesara/DeepResearch) - This repository is the collection of research papers in Deep learning, computer vision and NLP. <sub>⭐ 290 · Python</sub>
-- [IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform](https://github.com/IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform) - FinsROV is a low-cost, open-source Underwater robot platform designed for underwater task and research in robotics and AI. <sub>⭐ 290 · C</sub>
-- [cporter202/agentic-ai-starters](https://github.com/cporter202/agentic-ai-starters) - A practical collection of plug-and-play starter blueprints for building autonomous AI apps with real APIs. Discover ready-to-build agent workflows, API stacks, architecture patterns, prompts, and… <sub>⭐ 288</sub>
-- [ServiceNow/HighRes-net](https://github.com/ServiceNow/HighRes-net) - Pytorch implementation of HighRes-net, a neural network for multi-frame super-resolution, trained and tested on the European Space Agency’s Kelvin competition. This is a ServiceNow Research project… <sub>⭐ 288 · Jupyter Notebook</sub>
-- [mcanini/SysML-reading-list](https://github.com/mcanini/SysML-reading-list) - Systems for ML/AI & ML/AI for Systems paper reading list: A curated reading list of computer science research for work at the intersection of machine learning and systems. PR are welcome. <sub>⭐ 287</sub>
-- [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP. <sub>⭐ 287 · Python</sub>
-- [HKUDS/DeepInnovator](https://github.com/HKUDS/DeepInnovator) - "DeepInnovator: AI Research Assistant - Idea Spark & Scientific Discovery" <sub>⭐ 286 · Python</sub>
-- [huashiyiqike/LSTM-MATLAB](https://github.com/huashiyiqike/LSTM-MATLAB) - LSTM-MATLAB is Long Short-term Memory (LSTM) in MATLAB, which is meant to be succinct, illustrative and for research purpose only. It is accompanied with a paper for reference: Revisit Long… <sub>⭐ 283 · MATLAB</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [Simreal-AI/Simreal-MLBench](https://github.com/Simreal-AI/Simreal-MLBench) - (Public preview) Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation. <sub>⭐ 282 · Python</sub>
-- [EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework) - Circuit Framework — multi-agent LLM trading research system <sub>⭐ 281 · Python</sub>
-- [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) - Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code <sub>⭐ 281 · Python</sub>
-- [MillionIntegrals/vel](https://github.com/MillionIntegrals/vel) - Velocity in deep-learning research <sub>⭐ 280 · Python</sub>
-- [ALAGENT-HKU/x2strategy](https://github.com/ALAGENT-HKU/x2strategy) - Extract structured strategy specifications from quantitative finance research papers — Agent Skill for GitHub Copilot & Claude Code <sub>⭐ 277 · Python</sub>
-- [FireBird-Technologies/Auto-Analyst-Streamlit](https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit) - AI data scientist <sub>⭐ 275 · Python</sub>
-- [RUC-NLPIR/FinSight](https://github.com/RUC-NLPIR/FinSight) - (ACL 2026 Main, SAC Highlight) FinSight: Towards Real-World Financial Deep Research. One ticker, one click, one publication-ready report. <sub>⭐ 274 · Jupyter Notebook</sub>
-- [byteseek/Mira](https://github.com/byteseek/Mira) - Agent-native investment research workspace for evidence-tracked, refreshable investment theses across equities, earnings, macro, and portfolio review. <sub>⭐ 273 · Python</sub>
-- [facebookresearch/sweet_rl](https://github.com/facebookresearch/sweet_rl) - Benchmark and research code for the paper SWEET-RL Training Multi-Turn LLM Agents onCollaborative Reasoning Tasks <sub>⭐ 272 · Python</sub>
-- [Ivaylo-Popov/Theano-Lights](https://github.com/Ivaylo-Popov/Theano-Lights) - Deep learning research framework based on Theano <sub>⭐ 269 · Python</sub>
-- [fivetaku/insane-research](https://github.com/fivetaku/insane-research) - Multi-agent deep research for Claude Code — 7-phase pipeline with source triangulation and quality ratings <sub>⭐ 268 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench) - ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery <sub>⭐ 266 · Jupyter Notebook</sub>
-- [krzysztofdudek/ResearcherSkill](https://github.com/krzysztofdudek/ResearcherSkill) - One file. Your AI coding agent becomes a scientist. 30+ experiments while you sleep. <sub>⭐ 265 · Python</sub>
-- [Engineer1999/Double-Deep-Q-Learning-for-Resource-Allocation](https://github.com/Engineer1999/Double-Deep-Q-Learning-for-Resource-Allocation) - Reproduce results of the research article "Deep Reinforcement Learning Based Resource Allocation for V2V Communications" <sub>⭐ 264 · Python</sub>
-- [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - A 1D analogue of the MNIST dataset for measuring spatial biases and answering Science of Deep Learning questions. <sub>⭐ 262 · Jupyter Notebook</sub>
-- [zubair-trabzada/ai-trading-claude](https://github.com/zubair-trabzada/ai-trading-claude) - AI trading research engine for Claude Code. Analyze stocks (technical, fundamental, sentiment, risk, thesis), options strategies, sector rotation, portfolio analysis, and PDF reports. 16 skills, 5… <sub>⭐ 262 · Python</sub>
-- [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms. <sub>⭐ 260 · Go</sub>
-- [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) - Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT. <sub>⭐ 258 · Python</sub>
-- [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog is a multi-agent AI assistant that turns a single prompt into a 10,000-word technical article. It combines deep research, smart illustrations, Mermaid diagrams, code integration, and… <sub>⭐ 257 · Python</sub>
-- [geometric-intelligence/topobench](https://github.com/geometric-intelligence/topobench) - TopoBench is a Python library designed to standardize benchmarking and accelerate research in Topological Deep Learning <sub>⭐ 257 · Python</sub>
-- [johnolafenwa/TorchFusion](https://github.com/johnolafenwa/TorchFusion) - A modern deep learning framework built to accelerate research and development of AI systems <sub>⭐ 257 · Python</sub>
-- [langchain-ai/data-enrichment](https://github.com/langchain-ai/data-enrichment) - LangGraph Studio template for creating an agent that does web research to genearte or enrich structured data. <sub>⭐ 257 · Jupyter Notebook</sub>
-- [NVIDIA/earth2mip](https://github.com/NVIDIA/earth2mip) - Earth-2 Model Intercomparison Project (MIP) is a python framework that enables climate researchers and scientists to inter-compare AI models for weather and climate. <sub>⭐ 257 · Python</sub>
-- [ed-donner/tech2ai](https://github.com/ed-donner/tech2ai) - Code to accompany my course from Software Engineer to AI Data Scientist <sub>⭐ 256 · Jupyter Notebook</sub>
-- [H4D3ZS/vscodium-rust](https://github.com/H4D3ZS/vscodium-rust) - AI-native IDE with agentic workflows, iPhone emulation on Windows/Linux, PyTorch ML Studio, and ROCm-optimized local AI. Built for security researchers and cross-platform developers. <sub>⭐ 256 · Rust</sub>
-- [mixelpixx/Nimrod](https://github.com/mixelpixx/Nimrod) - Web research for Claude over MCP: quality-scored Google search, clean extraction, deep research. Hosted connector for claude.ai/Desktop/Code + Nimrod Desktop toolkit (skills, agent, hooks). <sub>⭐ 256</sub>
-- [OSU-NLP-Group/QUEST](https://github.com/OSU-NLP-Group/QUEST) - (NeurIPS'26) "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks" <sub>⭐ 256 · Python</sub>
-- [bernatsampera/event-deep-research](https://github.com/bernatsampera/event-deep-research) - AI Agent that researches the lives of historical figures and extracts events into structured JSON timelines using LangGraph multi-agent orchestration. <sub>⭐ 255 · Python</sub>
-- [iyytdeed/Automatic-Modulation-Classification](https://github.com/iyytdeed/Automatic-Modulation-Classification) - Some Code for Master Thesis - Research on Deep Learning Based Modulation Recognition Technologies <sub>⭐ 254 · Python</sub>
-- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get… <sub>⭐ 254</sub>
+- [OpsPAI/awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) - 关于人工智能用于IT操作(AIOPS)的令人惊叹的学术研究和工业材料目录. <sub>⭐ 329</sub>
+- [accel-brain/accel-brain-code](https://github.com/accel-brain/accel-brain-code) - 这个寄存器的目的是在我网站所写的概念(PoC)和研发(R&D)的证明范围内,将原型作为案例研究. 主要的研究. . <sub>⭐ 328 · Python</sub>
+- [akwin1234/damru](https://github.com/akwin1234/damru) - Android 的未检测 Playwright. Real Android设备在Docker(Redroid)中,以OS级隐形驱动通过CDP. 虽然其他每个反检测浏览器运行桌面 Chromium,但DAMRU是Android-native... <sub>⭐ 327 · Python</sub>
+- [orgexyz/BlockAGI](https://github.com/orgexyz/BlockAGI) - 自动GPT所启发的自制可装研究代理 <sub>⭐ 325 · Python</sub>
+- [media-sec-lab/Audio-Deepfake-Detection](https://github.com/media-sec-lab/Audio-Deepfake-Detection) - 语音深假检测研究进展:从审查文献和公开的代码中汇总的相关数据集. <sub>⭐ 324</sub>
+- [aaryansamanta/aaryansamanta.github.io](https://github.com/aaryansamanta/aaryansamanta.github.io) - Aaryan Samanta:为生物学和医学学习机器。 <sub>⭐ 323 · HTML</sub>
+- [AdamPlatin123/Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) - 关于Dify的深层研究工作流程:级联多来源搜索 – 大纲 → 引用长式报告,贷记于Super-Dify-Workflow中. <sub>⭐ 323</sub>
+- [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) - 医学研究的代理技能——文献搜索,报告指南和引用检查,统计,出版数字,提交. Works with Claude Code, Codex, Cursor & GitHub Copilot... <sub>⭐ 323 · Python</sub>
+- [mangopy/Deep-Research-Survey](https://github.com/mangopy/Deep-Research-Survey) - 系统调查深入研究 <sub>⭐ 322</sub>
+- [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) - 本文对开放源代码项目,学术论文,能力基准,以及AI渗透测试中的商业解决方案(国际与中国),LLM红色组合,自主攻势等进行了解析. . <sub>⭐ 322</sub>
+- [kennyzir/7deer_skills](https://github.com/kennyzir/7deer_skills) - 建立Roblox游戏网站的可编译、可审计代理技能——从机会和关键词研究到内容、SIO、更新和回路。 <sub>⭐ 321 · Python</sub>
+- [MinhNguyenDS/AI-pdf-books](https://github.com/MinhNguyenDS/AI-pdf-books) - 为AI工程师、ML工程师、LLMOps、MLOPS和数据科学家开设的AI/Data书库 <sub>⭐ 318</sub>
+- [opendilab/awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design) - AI类蛋白质设计研究论文集 <sub>⭐ 318</sub>
+- [lajosdeme/mole](https://github.com/lajosdeme/mole) - 一个深层研究代理 预算强制, 核实引文, 和隐私边界 对于本地数据。 <sub>⭐ 314 · Go</sub>
+- [ResearAI/Awesome-AI-Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) - 这是对AI科学家,AI研究人员,AI工程师的研究调查,以及一系列AI驱动的研究研究. <sub>⭐ 314</sub>
+- [Eurekaleo/awesome-ai-for-games](https://github.com/Eurekaleo/awesome-ai-for-games) - 一个可整理,可搜索的关于AI和基础模型的研究集,贯穿整个游戏生命周期. <sub>⭐ 313 · TeX</sub>
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) - ResearchClaw是一位为研究而建的个人AI助手:快速设置,方便本地或云中运行,并准备与您已经使用的聊天应用程序集成. 凭借可扩展的技能,它... <sub>⭐ 313 · Python</sub>
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - 一个完全私人的,当地运营的Ai A助理/Chatbot/Sub-Agent Framework,具有现实的长期内存和思想形成,使用开源LLM. Qdrant用于矢量DB. <sub>⭐ 312 · Python</sub>
+- [ersilia-os/ersilia](https://github.com/ersilia-os/ersilia) - Ersilia模型枢纽,是用于传染病和被忽视疾病研究的AI/ML模型的开源存储器和CLI. <sub>⭐ 309 · Python</sub>
+- [lbx154/Argus](https://github.com/lbx154/Argus) - 自主研究的自演多剂系统,全天候运行,探索,学习,改进. <sub>⭐ 309 · Python</sub>
+- [Oqura-ai/deepdoc](https://github.com/Oqura-ai/deepdoc) - 地方知识库的深层研究工具. <sub>⭐ 308 · Python</sub>
+- [CYC2002tommy/Deep-Research-Agent](https://github.com/CYC2002tommy/Deep-Research-Agent) - 用于严格学术研究的自主AI代理管道,其特点是严格的DOI验证,多代理Scopus/OpenAlex/Semantic Scholar retrievation,以及APA第7代.docx生成. <sub>⭐ 307 · JavaScript</sub>
+- [Rimagination/good-question](https://github.com/Rimagination/good-question) - 一种可携带的代理技术,用来磨炼研究问题. <sub>⭐ 305 · PowerShell</sub>
+- [ain-soph/trojanzoo](https://github.com/ain-soph/trojanzoo) - TrojanZoo提供了一个通用的pytorch平台,在深层学习中进行图像分类的安全研究(特别是后门攻击/防御). <sub>⭐ 304 · Python</sub>
+- [khoj-ai/pipali](https://github.com/khoj-ai/pipali) - 研究、 创建、 自动化。 工作速度太快, 感觉就像玩耍。 让同事在您的机器上工作。 它可以读写文件, 在沙盒里安全地编码, 使用浏览器。 用技能自定义它 。 <sub>⭐ 303 · TypeScript</sub>
+- [kristjankorjus/applied-deep-learning-resources](https://github.com/kristjankorjus/applied-deep-learning-resources) - 收集研究文章、博客文章、幻灯片和代码片断 <sub>⭐ 299</sub>
+- [wentorai/research-plugins](https://github.com/wentorai/research-plugins) - 350+学术研究技能,MCP配置,以及研究-Claw和AI代理的插件 <sub>⭐ 299 · TypeScript</sub>
+- [xuanxuan0/TiEtwAgent](https://github.com/xuanxuan0/TiEtwAgent) - 基于ETW的PoC内存注射检测剂,用于进攻性和防御性研究目的 <sub>⭐ 299 · C</sub>
+- [DaInfernalCoder/perplexity-mcp](https://github.com/DaInfernalCoder/perplexity-mcp) - 使用 Perplexity AI. Won 1st @ Cline Hackathon 的用于研究和文献协助的示范背景协议服务器 <sub>⭐ 298 · JavaScript</sub>
+- [rahulvigneswaran/Intrusion-Detection-Systems](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems) - 这是研究论文"评价网络侵入网络探测系统在网络安全中的浅和深神经网络"的重播. <sub>⭐ 298 · Python</sub>
+- [abhijitbendale/OSDN](https://github.com/abhijitbendale/OSDN) - 研究论文"走向开放设置深层网络"的代码和数据 A Bendale, T Boult, CVPR 2016 <sub>⭐ 297 · Python</sub>
+- [WenyuChiou/ai-research-skills](https://github.com/WenyuChiou/ai-research-skills) - 研究工作流程的通用SKILL.md目录:文献审查,研究设计,项目内存,手稿编写,以及克劳德代码,Codex,双子座,Cursor,OpenClaw的交叉代理授权. . <sub>⭐ 297 · Python</sub>
+- [dabit3/fabricate](https://github.com/dabit3/fabricate) - 用人工智能生成的寄存器编织GitHub personas的实验研究工具 <sub>⭐ 294 · Python</sub>
+- [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) - 协议研究客户端:x.ai 注册_SSO → Grok Build OAuth → CLIProxyAPI 认证输出(仅授权使用) <sub>⭐ 293 · Python</sub>
+- [opendatalab/MinerU-HTML](https://github.com/opendatalab/MinerU-HTML) - MinerU-HTML: 一个SLM动力的HTML主要内容提取器,输出清洁HTML体. Perfect for Deep Research Agents,RAG应用程序以及培训数据生成. <sub>⭐ 293 · Python</sub>
+- [nanoAgentTeam/research-claw](https://github.com/nanoAgentTeam/research-claw) - 一个自办的学术研究AI助理——管理你的论文,搜索文献,追踪最后期限,并在你已经使用的频道上回答你. <sub>⭐ 292 · Python</sub>
+- [FuturixAI-and-Quantum-Works/Prism-Legal-OS](https://github.com/FuturixAI-and-Quantum-Works/Prism-Legal-OS) - 合同分析、法律研究和诉讼的开源法AI <sub>⭐ 291 · TypeScript</sub>
+- [puppyone-ai/DeepWideResearch](https://github.com/puppyone-ai/DeepWideResearch) - 任意情景的代理RAG。自定义源、深度和宽度 <sub>⭐ 291 · TypeScript</sub>
+- [Hsankesara/DeepResearch](https://github.com/Hsankesara/DeepResearch) - 这个寄存器是"深层学习","计算机视觉"和NLP的研究论文的集合. <sub>⭐ 290 · Python</sub>
+- [IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform](https://github.com/IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform) - FinsROV是一个低成本,开源的水下机器人平台,用于水下任务和机器人与AI的研究. <sub>⭐ 290 · C</sub>
+- [cporter202/agentic-ai-starters](https://github.com/cporter202/agentic-ai-starters) - 实用的插件和游戏启动蓝图集,用于使用真实的API构建自主的AI应用程序. 发现即时建设代理工作流程,API堆栈,架构模式,提示,以及... <sub>⭐ 288</sub>
+- [ServiceNow/HighRes-net](https://github.com/ServiceNow/HighRes-net) - Pytorch 执行高Res-net,一个多帧超分辨率的神经网络,在欧洲航天局的开尔文竞赛中经过培训和测试。这是一个ServiceNow 研究项目... <sub>⭐ 288 · Jupyter Notebook</sub>
+- [mcanini/SysML-reading-list](https://github.com/mcanini/SysML-reading-list) - ML/AI & ML/AI系统用于系统纸张读取列表的系统:计算机科学研究在机器学习和系统交叉处工作的精密读取列表. PR受到欢迎. <sub>⭐ 287</sub>
+- [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - AI代理的研究第一设计技能. 150K+真实的应用屏幕和流经Refecto MCP. <sub>⭐ 287 · Python</sub>
+- [HKUDS/DeepInnovator](https://github.com/HKUDS/DeepInnovator) - "深创新者:AI研究助理——思想火花与科学发现". <sub>⭐ 286 · Python</sub>
+- [huashiyiqike/LSTM-MATLAB](https://github.com/huashiyiqike/LSTM-MATLAB) - LSTM-MATLAB是MATLAB中的长短记忆(LSTM),本意是简洁的,说明性的,仅用于研究目的,同时附有论文供参考:Revisit Long... <sub>⭐ 283 · MATLAB</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [Simreal-AI/Simreal-MLBench](https://github.com/Simreal-AI/Simreal-MLBench) - (公开预览) 外部评分的代理ML研究基准:60项任务,真实的竞争基础真相. 开放协议,运行评价. <sub>⭐ 282 · Python</sub>
+- [EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework) - 电路框架——多代理LLM交易研究系统. <sub>⭐ 281 · Python</sub>
+- [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) - 完全自主的AI 研究系统与自我进化,土建于克劳德代码上 <sub>⭐ 281 · Python</sub>
+- [MillionIntegrals/vel](https://github.com/MillionIntegrals/vel) - 深入学习研究的速度 <sub>⭐ 280 · Python</sub>
+- [ALAGENT-HKU/x2strategy](https://github.com/ALAGENT-HKU/x2strategy) - 从定量财务研究论文中摘录结构化战略规格——GitHub Copilot & Claude Code的代理技能 <sub>⭐ 277 · Python</sub>
+- [FireBird-Technologies/Auto-Analyst-Streamlit](https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit) - AI 数据科学家 <sub>⭐ 275 · Python</sub>
+- [RUC-NLPIR/FinSight](https://github.com/RUC-NLPIR/FinSight) - (ACL 2026 Main, SAC Highlight) FinSight:走向真实世界金融深度研究. 1个滴答键,1点击键,1个已发布备案报告. <sub>⭐ 274 · Jupyter Notebook</sub>
+- [byteseek/Mira](https://github.com/byteseek/Mira) - 代理本土投资研究工作空间,用于有证据跟踪的、可更新的投资论文,涉及股票、收益、宏观和证券组合审查。 <sub>⭐ 273 · Python</sub>
+- [facebookresearch/sweet_rl](https://github.com/facebookresearch/sweet_rl) - SWEET-RL文件的基准和研究代码 <sub>⭐ 272 · Python</sub>
+- [Ivaylo-Popov/Theano-Lights](https://github.com/Ivaylo-Popov/Theano-Lights) - 基于Theano的深层学习研究框架 <sub>⭐ 269 · Python</sub>
+- [fivetaku/insane-research](https://github.com/fivetaku/insane-research) - Claude Code的多代理深度研究——7个阶段的管道,其源头三角化和质量评级 <sub>⭐ 268 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench) - ResearchClaw Bench:评价AI代理从再发现到新发现的自动化研究 <sub>⭐ 266 · Jupyter Notebook</sub>
+- [krzysztofdudek/ResearcherSkill](https://github.com/krzysztofdudek/ResearcherSkill) - 一个文件,你的人工智能编码代理成为科学家 30+实验,你睡觉时。 <sub>⭐ 265 · Python</sub>
+- [Engineer1999/Double-Deep-Q-Learning-for-Resource-Allocation](https://github.com/Engineer1999/Double-Deep-Q-Learning-for-Resource-Allocation) - 转载"深度强化学习基础资源配置用于V2V通信"研究成果. <sub>⭐ 264 · Python</sub>
+- [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - 用于测量空间偏差和回答深层学习问题科学的MNIST数据集的1D模拟. <sub>⭐ 262 · Jupyter Notebook</sub>
+- [zubair-trabzada/ai-trading-claude](https://github.com/zubair-trabzada/ai-trading-claude) - Claude Code的AI交易研究引擎. 分析库存(技术,基础,情绪,风险,论文),选项战略,部门轮换,组合分析和PDF报告. 16个技能,5... <sub>⭐ 262 · Python</sub>
+- [smhanov/laconic](https://github.com/smhanov/laconic) - 用于Go的代理研究管弦乐器,优化后可以使用免费搜索和低成本的有限上下文窗口wllms. <sub>⭐ 260 · Go</sub>
+- [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) - 13 Claude的13种技能,运行一个Instagram账户: Reels从26个得分的钩子配方,病毒研究技能,字幕linter,以及人文化者. Free, MIT. <sub>⭐ 258 · Python</sub>
+- [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个多代理AI助手,将单个提示转换成一万字的技术文章,它结合了深层研究,智能插图,美人鱼图,代码集成,以及. <sub>⭐ 257 · Python</sub>
+- [geometric-intelligence/topobench](https://github.com/geometric-intelligence/topobench) - Topo Bench是一个Python图书馆,旨在标准化基准和加快地形学深层学习的研究 <sub>⭐ 257 · Python</sub>
+- [johnolafenwa/TorchFusion](https://github.com/johnolafenwa/TorchFusion) - 为加速AI系统的研发而建立的现代深层学习框架 <sub>⭐ 257 · Python</sub>
+- [langchain-ai/data-enrichment](https://github.com/langchain-ai/data-enrichment) - LangGraph Studio模板用于创建一个代理,进行网络研究以基因艺术或丰富结构化数据. <sub>⭐ 257 · Jupyter Notebook</sub>
+- [NVIDIA/earth2mip](https://github.com/NVIDIA/earth2mip) - Earth-2模型间比较项目(MIP)是一个蟒蛇框架,它使气候研究人员和科学家能够相互比较天气和气候的AI模型. <sub>⭐ 257 · Python</sub>
+- [ed-donner/tech2ai](https://github.com/ed-donner/tech2ai) - 我从软件工程师到人工智能数据科学家的课程的代码 <sub>⭐ 256 · Jupyter Notebook</sub>
+- [H4D3ZS/vscodium-rust](https://github.com/H4D3ZS/vscodium-rust) - 具有代理工作流程的AI-native IDE,iPhone模拟Windows/Linux,PyTorch ML Studio,以及ROCm-优化本地AI. 为安全研究者和跨平台开发者所建. <sub>⭐ 256 · Rust</sub>
+- [mixelpixx/Nimrod](https://github.com/mixelpixx/Nimrod) - Claude在MCP上的网络研究:质量分数的Google搜索,清洁提取,深度研究. Claude.ai/Desktop/Code + Nimrod桌面工具包(技能,代理,钩子)的主机连接器. <sub>⭐ 256</sub>
+- [OSU-NLP-Group/QUEST](https://github.com/OSU-NLP-Group/QUEST) - (NeurIPS'26) "请示:培训具有全面合成任务的前沿深层研究代理". <sub>⭐ 256 · Python</sub>
+- [bernatsampera/event-deep-research](https://github.com/bernatsampera/event-deep-research) - AI代理,研究历史人物的生活,并用LangGraph多代理管弦乐将事件提取到结构化的JSON时间表中. <sub>⭐ 255 · Python</sub>
+- [iyytdeed/Automatic-Modulation-Classification](https://github.com/iyytdeed/Automatic-Modulation-Classification) - 主论文的一些代码 - 深学习基模块识别技术的研究 <sub>⭐ 254 · Python</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - 列表, 任何人都可以用任何编程语言解决的实用项目( 请参见解决方案) 。 这些项目被分为多个类别, 每个类别都有自己的文件夹 。 要获取... <sub>⭐ 254</sub>
 
 ## 📄 论文、PDF 与引用
 
 > 阅读、提取、摘要和文献管理。
 
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing… <sub>⭐ 123.3k · Python</sub>
-- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. <sub>⭐ 31.6k · Python</sub>
-- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. <sub>⭐ 29.4k · Java</sub>
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf <sub>⭐ 25.4k · Python</sub>
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - (MLsys2026 Best Paper): https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal… <sub>⭐ 13.0k · Python</sub>
-- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser <sub>⭐ 12.8k · Rust</sub>
-- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai <sub>⭐ 10.1k · Python</sub>
-- [Future-House/paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations <sub>⭐ 9.3k · Python</sub>
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - 将任何编码库, 及其文件 SQL 计划、 配置和 PDF 转换为可查询的知识图。 用于 Claude Code、 Cursor、 Codex 和双子座 CLI: 本地定型 AST 解析的 / graphy 技能... <sub>⭐ 123.3k · Python</sub>
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - 由LLM驱动的知识研究系统,该系统研究一个专题,并产生附有引文的全长报告。 <sub>⭐ 31.6k · Python</sub>
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF 解析器,用于 AI- ready 数据. Automate PDF 访问权限. Open-source. <sub>⭐ 29.4k · Java</sub>
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS,一个连接LLMS与ML社区之间的系统. Paper: https://arxiv.org/pdf/2303.17580.pdf. <sub>⭐ 25.4k · Python</sub>
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - (MLsys2026 Best Paper) //arxiv.org/abs/2506.08276. 与LEANN一起的每件事物的RAG. 享受97%的存储储蓄,同时运行一个快速,准确的和100%的私人RAG应用程序在您个人身上...... <sub>⭐ 13.0k · Python</sub>
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - 一个快速、有帮助和开源的文档解析器 <sub>⭐ 12.8k · Rust</sub>
+- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - https://arxiv.org/abs/2606.28344. 网页解析的结束,可缩放像素-内在搜索的开始,链接 //pixelrag.ai <sub>⭐ 10.1k · Python</sub>
+- [Future-House/paper-qa](https://github.com/Future-House/paper-qa) - 以引用方式回答科学文件问题的高度精确RAG <sub>⭐ 9.3k · Python</sub>
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - “海豚:通过异质地锚定推进记录图像解析”,ACL,2025。 <sub>⭐ 9.1k · Python</sub>
-- [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion <sub>⭐ 7.7k · Jupyter Notebook</sub>
-- [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) - File Parser optimised for LLM Ingestion with no loss Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. <sub>⭐ 7.4k · Python</sub>
-- [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary. <sub>⭐ 6.0k · Python</sub>
-- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 <sub>⭐ 5.1k · Jupyter Notebook</sub>
-- [JabRef/jabref](https://github.com/JabRef/jabref) - Desktop app for managing BibTeX and BibLaTeX (.bib) libraries <sub>⭐ 4.8k · Java</sub>
-- [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2609.17488 <sub>⭐ 4.4k · Python</sub>
-- [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - OmniGen: Unified Image Generation. https://arxiv.org/pdf/2409.11340 <sub>⭐ 4.3k · Jupyter Notebook</sub>
-- [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud <sub>⭐ 4.3k · TypeScript</sub>
-- [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes) - repository to research & share the machine learning articles <sub>⭐ 3.9k</sub>
-- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - (EMNLP 2021) SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/abs/2104.08821 <sub>⭐ 3.7k · Python</sub>
-- [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF <sub>⭐ 3.6k · Python</sub>
-- [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903) <sub>⭐ 3.6k · Python</sub>
-- [HRNet/HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919 <sub>⭐ 3.3k · Python</sub>
-- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused… <sub>⭐ 3.2k · Jupyter Notebook</sub>
-- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured… <sub>⭐ 3.2k · Python</sub>
-- [diegoantognini/pyGAT](https://github.com/diegoantognini/pyGAT) - Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903) <sub>⭐ 3.1k · Python</sub>
-- [DeepGraphLearning/LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - A comprehensive collection of recent papers on graph deep learning <sub>⭐ 3.1k</sub>
-- [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) - Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages. <sub>⭐ 3.0k · JavaScript</sub>
-- [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf <sub>⭐ 3.0k · Python</sub>
-- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction… <sub>⭐ 2.9k · Python</sub>
-- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) - MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc. <sub>⭐ 2.7k · Python</sub>
-- [yuqinie98/PatchTST](https://github.com/yuqinie98/PatchTST) - An offical implementation of PatchTST: "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers." (ICLR 2023) https://arxiv.org/abs/2211.14730 <sub>⭐ 2.7k · Python</sub>
-- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.7, Claude Fable 5, Claude Opus 5, DeepSeek V4, Grok, OpenRouter, Kimi k3, GLM 5.3, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.8 <sub>⭐ 2.7k · JavaScript</sub>
-- [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV 2019 https://arxiv.org/abs/1901.00212 <sub>⭐ 2.6k · Python</sub>
-- [wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) - Collection of popular and reproducible image denoising works. <sub>⭐ 2.5k</sub>
-- [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting" (NeurIPS 2021), https://arxiv.org/abs/2106.13008 <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [landing-ai/ade-cli](https://github.com/landing-ai/ade-cli) - The official CLI for Agentic Document Extraction (ADE) by LandingAI — parse documents and extract schema-shaped data from your terminal <sub>⭐ 2.4k · Python</sub>
-- [deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face) - YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931) ECCV Workshops 2022) <sub>⭐ 2.4k · Python</sub>
-- [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting. <sub>⭐ 2.4k · Python</sub>
-- [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation. <sub>⭐ 2.4k · Python</sub>
-- [fxia22/pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch) - pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593 <sub>⭐ 2.4k · Python</sub>
-- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog… <sub>⭐ 2.3k · Python</sub>
-- [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras 2.0+ <sub>⭐ 2.3k · Jupyter Notebook</sub>
-- [magicleap/SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork) - PyTorch pre-trained model for real-time interest point detection, description, and sparse tracking (https://arxiv.org/abs/1712.07629) <sub>⭐ 2.2k · Python</sub>
-- [yb2460/harness-anything](https://github.com/yb2460/harness-anything) - Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX <sub>⭐ 2.2k · Python</sub>
-- [asappresearch/sru](https://github.com/asappresearch/sru) - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755) <sub>⭐ 2.1k · Python</sub>
-- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695 <sub>⭐ 2.1k · Python</sub>
-- [jd-opensource/OxyGent](https://github.com/jd-opensource/OxyGent) - (ACL 2026) OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction https://arxiv.org/abs/2604.25602 <sub>⭐ 2.1k · Python</sub>
-- [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request, arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard for easier LLM ingestion <sub>⭐ 2.0k · Python</sub>
-- [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440) <sub>⭐ 2.0k · Python</sub>
-- [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206) <sub>⭐ 2.0k · Python</sub>
-- [meta-recsys/generative-recommenders](https://github.com/meta-recsys/generative-recommenders) - Repository hosting code for "Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations" (https://arxiv.org/abs/2402.17152). <sub>⭐ 2.0k · Python</sub>
-- [LingyiChen-AI/JadeAI](https://github.com/LingyiChen-AI/JadeAI) - AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment. <sub>⭐ 2.0k · TypeScript</sub>
-- [SaiAkhil066/CORTEX-AI-SUPER-RAG](https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG) - CORTEX RAG is an enterprise retrieval and knowledge assistant that helps teams find accurate answers from company data with citations, permission-aware retrieval, and fast deployment <sub>⭐ 2.0k · Python</sub>
-- [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity) - Open Source Perplexity like AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl <sub>⭐ 2.0k · TypeScript</sub>
-- [ZhengyaoJiang/PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"(https://arxiv.org/pdf/1706.10059.pdf). <sub>⭐ 1.9k · Python</sub>
-- [delibae/claude-prism](https://github.com/delibae/claude-prism) - An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally. <sub>⭐ 1.8k · TypeScript</sub>
-- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts. <sub>⭐ 1.7k · Python</sub>
-- [bytedance/Sa2VA](https://github.com/bytedance/Sa2VA) - Official Repo For Pixel-LLM Codebase: Sa2VA (T-PAMI-26), SAMTok (CVPR-26), VRT (Arxiv-25), SaSaSa2VA (1-st solution for LSVOS) <sub>⭐ 1.7k · Python</sub>
-- [microsoft/SoM](https://github.com/microsoft/SoM) - (arXiv 2023) Set-of-Mark Prompting for GPT-4V and LMMs <sub>⭐ 1.6k · Python</sub>
-- [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - An implementation of "A Neural Algorithm of Artistic Style" by L. Gatys, A. Ecker, and M. Bethge. http://arxiv.org/abs/1508.06576. <sub>⭐ 1.5k · Python</sub>
-- [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation <sub>⭐ 1.5k · Python</sub>
-- [nlpyang/BertSum](https://github.com/nlpyang/BertSum) - Code for paper Fine-tune BERT for Extractive Summarization <sub>⭐ 1.5k · Python</sub>
-- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix <sub>⭐ 1.5k · HTML</sub>
-- [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - Automatically Update CV Papers Daily using Github Actions <sub>⭐ 1.5k · Python</sub>
-- [dome272/Diffusion-Models-pytorch](https://github.com/dome272/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf) <sub>⭐ 1.5k · Python</sub>
-- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for… <sub>⭐ 1.3k · TypeScript</sub>
-- [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023 <sub>⭐ 1.3k · Python</sub>
-- [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for… <sub>⭐ 1.3k · Python</sub>
-- [gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) - Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents. <sub>⭐ 1.3k · Markdown</sub>
-- [wisupai/e2m](https://github.com/wisupai/e2m) - E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M… <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing <sub>⭐ 1.3k · Ruby</sub>
-- [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641 + Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM… <sub>⭐ 1.3k · Python</sub>
-- [KMnP/vpt](https://github.com/KMnP/vpt) - Visual Prompt Tuning (ECCV 2022) https://arxiv.org/abs/2203.12119 <sub>⭐ 1.2k · Python</sub>
-- [ScholarXIV/OpenScholarXIV](https://github.com/ScholarXIV/OpenScholarXIV) - OpenScholarXIV is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository. <sub>⭐ 1.2k · Dart</sub>
-- [lightaime/deep_gcns_torch](https://github.com/lightaime/deep_gcns_torch) - Pytorch Repo for DeepGCNs (ICCV'2019 Oral, TPAMI'2021), DeeperGCN (arXiv'2020) and GNN1000(ICML'2021): https://www.deepgcns.org <sub>⭐ 1.2k · Python</sub>
-- [SHI-Labs/Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) - Neighborhood Attention Transformer, arxiv 2022 / CVPR 2023. Dilated Neighborhood Attention Transformer, arxiv 2022 <sub>⭐ 1.2k · Python</sub>
-- [princeton-nlp/MeZO](https://github.com/princeton-nlp/MeZO) - (NeurIPS 2023) MeZO: Fine-Tuning Language Models with Just Forward Passes. https://arxiv.org/abs/2305.17333 <sub>⭐ 1.2k · Python</sub>
-- [shyamsn97/mario-gpt](https://github.com/shyamsn97/mario-gpt) - (Neurips 2023) Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981 <sub>⭐ 1.2k · Python</sub>
-- [HRNet/HRNet-Facial-Landmark-Detection](https://github.com/HRNet/HRNet-Facial-Landmark-Detection) - This is an official implementation of facial landmark detection for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919 <sub>⭐ 1.1k · Python</sub>
-- [TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding) - awesome grounding: A curated list of research papers in visual grounding <sub>⭐ 1.1k</sub>
-- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. <sub>⭐ 1.1k · TypeScript</sub>
-- [Gabberflast/academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) - A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation… <sub>⭐ 1.1k</sub>
-- [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" (ICCV 2021) https://arxiv.org/abs/2104.02699 <sub>⭐ 1.0k · Python</sub>
-- [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle) - Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" (CVPR 2022) https://arxiv.org/abs/2111.15666 <sub>⭐ 1.0k · Python</sub>
-- [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171 <sub>⭐ 992 · Python</sub>
-- [jungwoo-ha/WeeklyArxivTalk](https://github.com/jungwoo-ha/WeeklyArxivTalk) - (Zoom & Facebook Live) Weekly AI Arxiv 시즌2 <sub>⭐ 963</sub>
-- [eric-yyjau/pytorch-superpoint](https://github.com/eric-yyjau/pytorch-superpoint) - Superpoint Implemented in PyTorch: https://arxiv.org/abs/1712.07629 <sub>⭐ 934 · Jupyter Notebook</sub>
-- [danielroich/PTI](https://github.com/danielroich/PTI) - Official Implementation for "Pivotal Tuning for Latent-based editing of Real Images" (ACM TOG 2022) https://arxiv.org/abs/2106.05744 <sub>⭐ 929 · Jupyter Notebook</sub>
-- [megvii-research/mdistiller](https://github.com/megvii-research/mdistiller) - The official implementation of (CVPR2022) Decoupled Knowledge Distillation https://arxiv.org/abs/2203.08679 and (ICCV2023) DOT: A Distillation-Oriented Trainer… <sub>⭐ 898 · Python</sub>
-- [switchablenorms/DeepFashion_Try_On](https://github.com/switchablenorms/DeepFashion_Try_On) - Official code for "Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content"，CVPR‘20 https://arxiv.org/abs/2003.05863 <sub>⭐ 885 · Python</sub>
-- [AndreyGuzhov/AudioCLIP](https://github.com/AndreyGuzhov/AudioCLIP) - Source code for models described in the paper "AudioCLIP: Extending CLIP to Image, Text and Audio" (https://arxiv.org/abs/2106.13043) <sub>⭐ 874 · Python</sub>
-- [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779 <sub>⭐ 870 · HTML</sub>
-- [irom-princeton/dppo](https://github.com/irom-princeton/dppo) - Official implementation of Diffusion Policy Policy Optimization, arxiv 2024 <sub>⭐ 856 · Python</sub>
-- [Chengsong-Huang/R-Zero](https://github.com/Chengsong-Huang/R-Zero) - (ICLR2026) codes for R-Zero: Self-Evolving Reasoning LLM from Zero Data (https://www.arxiv.org/pdf/2508.05004) <sub>⭐ 853 · Python</sub>
-- [princeton-nlp/PURE](https://github.com/princeton-nlp/PURE) - (NAACL 2021) A Frustratingly Easy Approach for Entity and Relation Extraction https://arxiv.org/abs/2010.12812 <sub>⭐ 815 · Python</sub>
-- [davidadamojr/TextRank](https://github.com/davidadamojr/TextRank) - Python implementation of TextRank algorithm for automatic keyword extraction and summarization using Levenshtein distance as relation between text units. This project is based on the paper "TextRank… <sub>⭐ 798 · Python</sub>
-- [vacancy/PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling) - Precise RoI Pooling with coordinate gradient support, proposed in the paper "Acquisition of Localization Confidence for Accurate Object Detection" (https://arxiv.org/abs/1807.11590). <sub>⭐ 781 · C++</sub>
-- [Ahren09/UniSD](https://github.com/Ahren09/UniSD) - Official implementation for "Towards a Unified Self-Distillation Framework for Large Language Models" (https://arxiv.org/abs/2605.06597). <sub>⭐ 780 · Python</sub>
-- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose" (Arxiv 2020) and "Predicting Personalized Head Movement From Short Video and Speech Signal" (TMM 2022) <sub>⭐ 770 · Python</sub>
-- [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) - Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs. <sub>⭐ 763</sub>
-- [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs https://arxiv.org/abs/2112.07804 <sub>⭐ 761 · Python</sub>
-- [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models, arxiv 2023 / CVPR 2024 <sub>⭐ 759 · Python</sub>
-- [kozistr/Awesome-GANs](https://github.com/kozistr/Awesome-GANs) - Awesome Generative Adversarial Networks with tensorflow <sub>⭐ 758 · Python</sub>
-- [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v2 <sub>⭐ 747 · Jupyter Notebook</sub>
-- [louaaron/Score-Entropy-Discrete-Diffusion](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) - (ICML 2024 Best Paper) Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (https://arxiv.org/abs/2310.16834) <sub>⭐ 746 · Python</sub>
-- [ispras/dedoc](https://github.com/ispras/dedoc) - Dedoc is a library (service) for automate documents parsing and bringing to a uniform format. It automatically extracts content, logical structure, tables, and meta information from textual… <sub>⭐ 734 · Python</sub>
-- [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model" (SIGGRAPH 2021) https://arxiv.org/abs/2102.02754 <sub>⭐ 728 · Python</sub>
-- [princeton-nlp/LM-BFF](https://github.com/princeton-nlp/LM-BFF) - (ACL 2021) LM-BFF: Better Few-shot Fine-tuning of Language Models https://arxiv.org/abs/2012.15723 <sub>⭐ 727 · Python</sub>
-- [ayaka-notes/ayakaleaf-pro](https://github.com/ayaka-notes/ayakaleaf-pro) - The ultimate open-source Overleaf extension and alternative: a free, self-hosted, drop-in replacement for Overleaf Community Edition with nearly all Pro feature—SSO, AI Assistant, Git/GitHub sync… <sub>⭐ 726 · JavaScript</sub>
-- [TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT) - An LLM Based Diagnosis System (https://arxiv.org/pdf/2312.01454.pdf) <sub>⭐ 713 · Python</sub>
-- [caspianmoon/memoripy](https://github.com/caspianmoon/memoripy) - Evidence-first local memory for AI agents with temporal versions, admission policies, citations, explainable recall, MCP, and audit tooling. <sub>⭐ 695 · Python</sub>
-- [yaojingang/geo-citation-lab](https://github.com/yaojingang/geo-citation-lab) - GEO experiment data reports and a curated GEO/AEO/AI search paper library. <sub>⭐ 690 · HTML</sub>
-- [atcbosselut/comet-commonsense](https://github.com/atcbosselut/comet-commonsense) - Code for ACL 2019 Paper: "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction" https://arxiv.org/abs/1906.05317 <sub>⭐ 688 · Python</sub>
-- [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" (AIM ECCVW 2022) https://arxiv.org/abs/2201.13433 <sub>⭐ 686 · Python</sub>
-- [ximinng/LLM4SVG](https://github.com/ximinng/LLM4SVG) - (CVPR 2025) Official implementation for "Empowering LLMs to Understand and Generate Complex Vector Graphics" https://arxiv.org/abs/2412.11102 <sub>⭐ 671 · Python</sub>
-- [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) - Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours) <sub>⭐ 670 · Python</sub>
-- [PetarV-/DGI](https://github.com/PetarV-/DGI) - Deep Graph Infomax (https://arxiv.org/abs/1809.10341) <sub>⭐ 668 · Python</sub>
-- [hello-diana/MASCOT](https://github.com/hello-diana/MASCOT) - EMNLP 2026 Main Conference Paper: MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems (https://arxiv.org/abs/2601.14230) <sub>⭐ 667 · Python</sub>
-- [yya518/FinBERT](https://github.com/yya518/FinBERT) - A Pretrained BERT Model for Financial Communications. https://arxiv.org/abs/2006.08097 <sub>⭐ 663 · Jupyter Notebook</sub>
-- [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN <sub>⭐ 655 · Python</sub>
-- [guoqiangqi/PFLD](https://github.com/guoqiangqi/PFLD) - Implementation of PFLD A Practical Facial Landmark Detector , reference to https://arxiv.org/pdf/1902.10859.pdf <sub>⭐ 649 · Python</sub>
-- [maum-ai/faceshifter](https://github.com/maum-ai/faceshifter) - Unofficial PyTorch Implementation for FaceShifter (https://arxiv.org/abs/1912.13457) <sub>⭐ 648 · Python</sub>
-- [kieranjwood/trading-momentum-transformer](https://github.com/kieranjwood/trading-momentum-transformer) - This code accompanies the the paper Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (https://arxiv.org/pdf/2112.08534.pdf). <sub>⭐ 639 · Python</sub>
-- [abgulati/LARS](https://github.com/abgulati/LARS) - An application for running LLMs locally on your device, with your documents, facilitating detailed citations in generated responses. <sub>⭐ 634 · Python</sub>
-- [gersteinlab/LocAgent](https://github.com/gersteinlab/LocAgent) - (ACL 2025) Graph-guided agentic framework for code localization https://arxiv.org/abs/2503.09089 <sub>⭐ 630 · Python</sub>
-- [ChenRocks/fast_abs_rl](https://github.com/ChenRocks/fast_abs_rl) - Code for ACL 2018 paper: "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting. Chen and Bansal" <sub>⭐ 624 · Python</sub>
-- [jiawei-ren/dreamgaussian4d](https://github.com/jiawei-ren/dreamgaussian4d) - (arXiv 2023) DreamGaussian4D: Generative 4D Gaussian Splatting <sub>⭐ 619 · Python</sub>
-- [jianruntech/geo-score](https://github.com/jianruntech/geo-score) - Can AI engines cite your site, and do they? Free 0–100 readiness score on an open GEO rubric, plus citation tracking via the OpenAI, Perplexity, Gemini and Claude APIs with your own keys. Zero… <sub>⭐ 618 · Python</sub>
-- [tegg89/SRCNN-Tensorflow](https://github.com/tegg89/SRCNN-Tensorflow) - Image Super-Resolution Using Deep Convolutional Networks in Tensorflow https://arxiv.org/abs/1501.00092v3 <sub>⭐ 614 · Python</sub>
-- [bowenc0221/panoptic-deeplab](https://github.com/bowenc0221/panoptic-deeplab) - This is Pytorch re-implementation of our CVPR 2020 paper "Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation" (https://arxiv.org/abs/1911.10194) <sub>⭐ 612 · Python</sub>
-- [pemami4911/neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch) - PyTorch implementation of Neural Combinatorial Optimization with Reinforcement Learning https://arxiv.org/abs/1611.09940 <sub>⭐ 611 · Python</sub>
-- [PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D) - 3D-aware GANs based on NeRF (arXiv). <sub>⭐ 608 · Python</sub>
-- [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - (ACL 2021) Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too https://arxiv.org/abs/2012.12624 <sub>⭐ 606 · Python</sub>
-- [Lyken17/pytorch-memonger](https://github.com/Lyken17/pytorch-memonger) - Sublinear memory optimization for deep learning. https://arxiv.org/abs/1604.06174 <sub>⭐ 603 · Python</sub>
-- [Grzego/handwriting-generation](https://github.com/Grzego/handwriting-generation) - Implementation of handwriting generation with use of recurrent neural networks in tensorflow. Based on Alex Graves paper (https://arxiv.org/abs/1308.0850). <sub>⭐ 597 · Python</sub>
-- [allenai/specter](https://github.com/allenai/specter) - SPECTER: Document-level Representation Learning using Citation-informed Transformers <sub>⭐ 593 · Python</sub>
-- [timbmg/Sentence-VAE](https://github.com/timbmg/Sentence-VAE) - PyTorch Re-Implementation of "Generating Sentences from a Continuous Space" by Bowman et al 2015 https://arxiv.org/abs/1511.06349 <sub>⭐ 593 · Python</sub>
-- [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance… <sub>⭐ 591 · Python</sub>
-- [FabianFuchsML/se3-transformer-public](https://github.com/FabianFuchsML/se3-transformer-public) - code for the SE3 Transformers paper: https://arxiv.org/abs/2006.10503 <sub>⭐ 584 · Python</sub>
-- [gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks) - This is a Torch implementation of "Deep Residual Learning for Image Recognition",Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun the winners of the 2015 ILSVRC and COCO challenges. <sub>⭐ 582 · Jupyter Notebook</sub>
-- [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link… <sub>⭐ 579 · JavaScript</sub>
-- [ActiveVisionLab/nerfmm](https://github.com/ActiveVisionLab/nerfmm) - (Arxiv 2021) NeRF--: Neural Radiance Fields Without Known Camera Parameters <sub>⭐ 574 · Python</sub>
-- [thuml/Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers) - Code release for "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting" (NeurIPS 2022), https://arxiv.org/abs/2205.14415 <sub>⭐ 567 · Python</sub>
-- [facebookresearch/atlas](https://github.com/facebookresearch/atlas) - Code repository for supporting the paper "Atlas Few-shot Learning with Retrieval Augmented Language Models",(https//arxiv.org/abs/2208.03299) <sub>⭐ 565 · Python</sub>
-- [WindyLab/LLM-RL-Papers](https://github.com/WindyLab/LLM-RL-Papers) - Monitoring recent cross-research on LLM & RL on arXiv for control. If there are good papers, PRs are welcome. <sub>⭐ 561</sub>
-- [dome272/VQGAN-pytorch](https://github.com/dome272/VQGAN-pytorch) - Pytorch implementation of VQGAN (Taming Transformers for High-Resolution Image Synthesis) (https://arxiv.org/pdf/2012.09841.pdf) <sub>⭐ 553 · Python</sub>
-- [harshankur/officeParser](https://github.com/harshankur/officeParser) - A robust, strictly-typed Node.js and Browser library for parsing office files into a rich Abstract Syntax Tree (AST) and generating high-fidelity output in multiple formats. Parses: docx · pptx ·… <sub>⭐ 553 · Rich Text Format</sub>
-- [tatsu-lab/gpt_paper_assistant](https://github.com/tatsu-lab/gpt_paper_assistant) - GPT4 based personalized ArXiv paper assistant bot <sub>⭐ 551 · Python</sub>
-- [mveres01/pytorch-drl4vrp](https://github.com/mveres01/pytorch-drl4vrp) - Implementation of: Nazari, Mohammadreza, et al. "Deep Reinforcement Learning for Solving the Vehicle Routing Problem." arXiv preprint arXiv:1802.04240 (2018). <sub>⭐ 536 · Python</sub>
-- [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT <sub>⭐ 530 · TypeScript</sub>
-- [LeDat98/NexusRAG](https://github.com/LeDat98/NexusRAG) - Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming… <sub>⭐ 529 · Python</sub>
-- [yukangcao/Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) - A curated list of awesome papers for reconstructing 4D spatial intelligence from video. (arXiv 2507.21045) <sub>⭐ 528</sub>
-- [princeton-nlp/ALCE](https://github.com/princeton-nlp/ALCE) - (EMNLP 2023) Enabling Large Language Models to Generate Text with Citations. Paper: https://arxiv.org/abs/2305.14627 <sub>⭐ 527 · Python</sub>
-- [js05212/BayesianDeepLearning-Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - Bayesian Deep Learning: A Survey <sub>⭐ 522</sub>
-- [THUDM/LongCite](https://github.com/THUDM/LongCite) - LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA <sub>⭐ 522 · Python</sub>
-- [cookjohn/gs-skills](https://github.com/cookjohn/gs-skills) - Google Scholar skills for Claude Code — search, citation tracking, full-text access, and Zotero export via Chrome DevTools MCP <sub>⭐ 520 · Python</sub>
-- [ExtractPDF4J/ExtractPDF4J](https://github.com/ExtractPDF4J/ExtractPDF4J) - Java PDF table extraction & OCR library. Extract structured tables from text-based and scanned PDFs using stream, lattice (OpenCV-style grid detection), and hybrid parsing. <sub>⭐ 520 · Java</sub>
-- [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) - Update arXiv papers about Spiking Neural Networks daily. <sub>⭐ 518 · Python</sub>
-- [WenjieDu/SAITS](https://github.com/WenjieDu/SAITS) - The official PyTorch implementation of the paper "SAITS: Self-Attention-based Imputation for Time Series". A fast and state-of-the-art (SOTA) deep-learning neural network model for efficient… <sub>⭐ 514 · Python</sub>
-- [JindongGu/Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) - This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. <sub>⭐ 513</sub>
-- [twtygqyy/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet) - pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network arXiv:1609.04802 <sub>⭐ 511 · Python</sub>
-- [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) - One-paper-one-short-contribution-summary of all latest image/burst/video Denoising papers with code & citation published in top conference and journal. <sub>⭐ 504</sub>
-- [rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch) - Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch <sub>⭐ 503 · Python</sub>
-- [NiuTrans/LaTeXTrans](https://github.com/NiuTrans/LaTeXTrans) - A tool for translating the content of LaTeX documents into various other natural languages (e.g., translating an arXiv paper from English to Chinese). <sub>⭐ 500 · TeX</sub>
-- [danielegrattarola/keras-gat](https://github.com/danielegrattarola/keras-gat) - Keras implementation of the graph attention networks (GAT) by Veličković et al. (2017; https://arxiv.org/abs/1710.10903) <sub>⭐ 492 · Python</sub>
-- [daa233/generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch) - A PyTorch reimplementation for paper Generative Image Inpainting with Contextual Attention (https://arxiv.org/abs/1801.07892) <sub>⭐ 487 · Python</sub>
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX. <sub>⭐ 486 · Python</sub>
-- [iamarunbrahma/vision-parse](https://github.com/iamarunbrahma/vision-parse) - Parse PDFs into markdown using Vision LLMs <sub>⭐ 484 · Python</sub>
-- [ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing) - A comprehensive list (SAMRS@NeurIPS'23, RVSA@TGRS'22, RSP@TGRS'22) of our research works related to remote sensing, including papers, codes, and citations. Note: The repo for (TGRS'22) "An Empirical… <sub>⭐ 484 · TeX</sub>
-- [bytedance/ByteTransformer](https://github.com/bytedance/ByteTransformer) - optimized BERT transformer inference on NVIDIA GPU. https://arxiv.org/abs/2210.03052 <sub>⭐ 481 · C++</sub>
-- [dome272/MaskGIT-pytorch](https://github.com/dome272/MaskGIT-pytorch) - Pytorch implementation of MaskGIT: Masked Generative Image Transformer (https://arxiv.org/pdf/2202.04200.pdf) <sub>⭐ 474 · Python</sub>
-- [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder) - (arxiv'26) GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation <sub>⭐ 474 · Python</sub>
-- [AutoLLM/ArxivDigest](https://github.com/AutoLLM/ArxivDigest) - ArXiv Digest and Personalized Recommendations using Large Language Models <sub>⭐ 468 · Python</sub>
-- [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - (ECCV2022) "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression", https://arxiv.org/abs/2207.10564 <sub>⭐ 465 · HTML</sub>
-- [tensorgi/TPA](https://github.com/tensorgi/TPA) - (NeurIPS 2025 Spotlight) TPA: Tensor ProducT ATTenTion Transformer (https://arxiv.org/abs/2501.06425) <sub>⭐ 463 · Python</sub>
-- [zyushun/Adam-mini](https://github.com/zyushun/Adam-mini) - Code for Adam-mini: Use Fewer Learning Rates To Gain More https://arxiv.org/abs/2406.16793 <sub>⭐ 460 · Python</sub>
-- [shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines) - Attempt at implementing system described in "Neural Turing Machines." by Graves, Alex, Greg Wayne, and Ivo Danihelka. (http://arxiv.org/abs/1410.5401) <sub>⭐ 459 · Jupyter Notebook</sub>
-- [THUDM/CogQA](https://github.com/THUDM/CogQA) - Source code and dataset for ACL 2019 paper "Cognitive Graph for Multi-Hop Reading Comprehension at Scale" <sub>⭐ 457 · Python</sub>
-- [alexisfox7/PRO-LONG](https://github.com/alexisfox7/PRO-LONG) - Programmatic memory for long-horizon LLM agents: the harness appends everything to one log, and the agent searches it with code. 97.4% on ARC-AGI-3 (arXiv:2607.20064) <sub>⭐ 456 · Python</sub>
-- [ximinng/SVGDreamer](https://github.com/ximinng/SVGDreamer) - (CVPR 2024) Official implementation for "SVGDreamer: Text Guided SVG Generation with Diffusion Model" https://arxiv.org/abs/2312.16476 <sub>⭐ 453 · Python</sub>
-- [nelson1425/EfficientAD](https://github.com/nelson1425/EfficientAD) - Unofficial implementation of EfficientAD https://arxiv.org/abs/2303.14535 <sub>⭐ 452 · Python</sub>
-- [Rubics-Xuan/TransBTS](https://github.com/Rubics-Xuan/TransBTS) - This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021. 2) TransBTSV2: Towards… <sub>⭐ 452 · Python</sub>
-- [ximinng/SVGDreamerV2](https://github.com/ximinng/SVGDreamerV2) - (T-PAMI 2025) Official implementation for "SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation" https://arxiv.org/abs/2411.17832 <sub>⭐ 452</sub>
-- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX… <sub>⭐ 449 · TeX</sub>
-- [titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search) - Basic implementation of Neural Architecture Search with Reinforcement Learning. <sub>⭐ 446 · Python</sub>
-- [landskape-ai/triplet-attention](https://github.com/landskape-ai/triplet-attention) - Official PyTorch Implementation for "Rotate to Attend: Convolutional Triplet Attention Module." (WACV 2021) <sub>⭐ 443 · Jupyter Notebook</sub>
-- [chi2liu/ABC-GRPO](https://github.com/chi2liu/ABC-GRPO) - Code For All-Quadrant Bounded Clipping GRPO. arxiv.org/pdf/2601.03895 <sub>⭐ 442 · Python</sub>
-- [UditAkhourii/neuroarxiv](https://github.com/UditAkhourii/neuroarxiv) - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture. <sub>⭐ 433 · TypeScript</sub>
-- [Koukyosyumei/AIJack](https://github.com/Koukyosyumei/AIJack) - Security and Privacy Risk Simulator for Machine Learning (arXiv:2312.17667) <sub>⭐ 429 · C++</sub>
-- [X-Omni-Team/X-Omni](https://github.com/X-Omni-Team/X-Omni) - Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058). <sub>⭐ 428 · Python</sub>
-- [nicholaslocascio/deep-regex](https://github.com/nicholaslocascio/deep-regex) - Code for the paper Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge (EMNLP 2016). http://arxiv.org/abs/1608.03000 <sub>⭐ 427 · Python</sub>
-- [TencentARC/WorldCrafter](https://github.com/TencentARC/WorldCrafter) - (Arxiv 2026) WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory <sub>⭐ 424 · Python</sub>
-- [roomylee/nlp-papers-with-arxiv](https://github.com/roomylee/nlp-papers-with-arxiv) - Statistics and accepted paper list of NLP conferences with arXiv link <sub>⭐ 423 · Jupyter Notebook</sub>
-- [thuml/Transolver](https://github.com/thuml/Transolver) - About code release of "Transolver: A Fast Transformer Solver for PDEs on General Geometries", ICML 2024 Spotlight. https://arxiv.org/abs/2402.02366 <sub>⭐ 416 · Python</sub>
-- [logangraham/arXausality](https://github.com/logangraham/arXausality) - A every-so-often-updated collection of every causality + machine learning paper submitted to arXiv in the recent past. <sub>⭐ 415 · Python</sub>
-- [baldassarreFe/deep-koalarization](https://github.com/baldassarreFe/deep-koalarization) - Keras/Tensorflow implementation of our paper Grayscale Image Colorization using deep CNN and Inception-ResNet-v2 (https://arxiv.org/abs/1712.03400) <sub>⭐ 414 · Python</sub>
-- [shekkizh/WassersteinGAN.tensorflow](https://github.com/shekkizh/WassersteinGAN.tensorflow) - Tensorflow implementation of Wasserstein GAN - arxiv: https://arxiv.org/abs/1701.07875 <sub>⭐ 412 · Python</sub>
-- [Srameo/LED](https://github.com/Srameo/LED) - (ICCV 2023) Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising && (Arxiv 2023) Make Explicit Calibration Implicit: Calibrate Denoiser Instead of the Noise Model &&… <sub>⭐ 411 · Python</sub>
-- [muupan/async-rl](https://github.com/muupan/async-rl) - Replicating "Asynchronous Methods for Deep Reinforcement Learning" (http://arxiv.org/abs/1602.01783) <sub>⭐ 408 · Python</sub>
-- [Atten4Vis/ConditionalDETR](https://github.com/Atten4Vis/ConditionalDETR) - This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152) <sub>⭐ 406 · Python</sub>
-- [CroitoruAlin/Diffusion-Models-in-Vision-A-Survey](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey) - This repository categorizes the papers about diffusion models applied in computer vision according to their target task. The classifcation is based on our survey: https://arxiv.org/abs/2209.04747v1 <sub>⭐ 405</sub>
-- [mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch implementation of CoordConv introduced in 'An intriguing failing of convolutional neural networks and the CoordConv solution' paper. (https://arxiv.org/pdf/1807.03247.pdf) <sub>⭐ 403 · Python</sub>
-- [freshllms/freshqa](https://github.com/freshllms/freshqa) - Data and code for FreshLLMs (https://arxiv.org/abs/2310.03214) <sub>⭐ 402 · Jupyter Notebook</sub>
-- [usnistgov/jarvis](https://github.com/usnistgov/jarvis) - About JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ… <sub>⭐ 402 · Python</sub>
-- [ilovepose/fast-human-pose-estimation.pytorch](https://github.com/ilovepose/fast-human-pose-estimation.pytorch) - Official pytorch Code for CVPR2019 paper "Fast Human Pose Estimation" https://arxiv.org/abs/1811.05419 <sub>⭐ 399 · Cuda</sub>
-- [ML4ITS/mtad-gat-pytorch](https://github.com/ML4ITS/mtad-gat-pytorch) - PyTorch implementation of MTAD-GAT (Multivariate Time-Series Anomaly Detection via Graph Attention Networks) by Zhao et. al (2020, https://arxiv.org/abs/2009.02040). <sub>⭐ 398 · Python</sub>
-- [cokeshao/Awesome-Multimodal-Token-Compression](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) - (TMLR 2026) Survey: https://arxiv.org/pdf/2507.20198 <sub>⭐ 397</sub>
-- [jiawei-ren/BalancedMSE](https://github.com/jiawei-ren/BalancedMSE) - (CVPR 2022 Oral) Balanced MSE for Imbalanced Visual Regression https://arxiv.org/abs/2203.16427 <sub>⭐ 397 · Python</sub>
-- [OpenBMB/InfiniteBench](https://github.com/OpenBMB/InfiniteBench) - Codes for the paper "∞Bench: Extending Long Context Evaluation Beyond 100K Tokens": https://arxiv.org/abs/2402.13718 <sub>⭐ 393 · Python</sub>
-- [jasonwu0731/trade-dst](https://github.com/jasonwu0731/trade-dst) - Source code for transferable dialogue state generator (TRADE, Wu et al., 2019). https://arxiv.org/abs/1905.08743 <sub>⭐ 392 · Python</sub>
-- [armancohan/long-summarization](https://github.com/armancohan/long-summarization) - Resources for the NAACL 2018 paper "A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents" <sub>⭐ 390 · Python</sub>
-- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Official implementation of arxiv paper "4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions" <sub>⭐ 385 · Python</sub>
-- [maum-ai/hififace](https://github.com/maum-ai/hififace) - Unofficial PyTorch Implementation for HifiFace (https://arxiv.org/abs/2106.09965) <sub>⭐ 383 · Python</sub>
-- [taesiri/ArXivQA](https://github.com/taesiri/ArXivQA) - WIP - Automated Question Answering for ArXiv Papers with Large Language Models (https://arxiv.taesiri.xyz/) <sub>⭐ 381 · Python</sub>
-- [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - Summarize the paper and code in AI(Semantic Segmentation, Medical Segmentation,REID,Super-Resolution,Registration,CVPR,ECCV,ICCV,AAAI,MICCAI) <sub>⭐ 377</sub>
-- [IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization](https://github.com/IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization) - Keras implementation of the paper "3D MRI brain tumor segmentation using autoencoder regularization" by Myronenko A. (https://arxiv.org/abs/1810.11654). <sub>⭐ 376 · Jupyter Notebook</sub>
-- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - Official implementation of MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation (https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
-- [gersteinlab/MedAgents](https://github.com/gersteinlab/MedAgents) - (ACL 2024 Findings) MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning https://arxiv.org/abs/2311.10537 <sub>⭐ 370 · Python</sub>
-- [tts-tutorial/survey](https://github.com/tts-tutorial/survey) - A Survey on Neural Speech Synthesis https://arxiv.org/pdf/2106.15561.pdf <sub>⭐ 370</sub>
-- [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) - A fast, helpful, and open-source document parser for PHP <sub>⭐ 363 · PHP</sub>
-- [yifanzhang-pro/deep-delta-learning](https://github.com/yifanzhang-pro/deep-delta-learning) - Official Project Page for Deep Delta Learning (https://arxiv.org/abs/2601.00417) <sub>⭐ 363 · Python</sub>
-- [longxiang-ai/awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) - This repository tracks the latest advancements in 3D Gaussian Splatting from Arxiv, with daily automated updates. Stay up-to-date with cutting-edge research in this exciting field! <sub>⭐ 358 · Python</sub>
-- [CRIPAC-DIG/GRACE](https://github.com/CRIPAC-DIG/GRACE) - (GRL+ @ ICML 2020) PyTorch implementation for "Deep Graph Contrastive Representation Learning" (https://arxiv.org/abs/2006.04131v2) <sub>⭐ 357 · Python</sub>
-- [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM) - (Survey) Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897) <sub>⭐ 355 · Python</sub>
-- [SHI-Labs/Smooth-Diffusion](https://github.com/SHI-Labs/Smooth-Diffusion) - Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models arXiv 2023 / CVPR 2024 <sub>⭐ 355 · Python</sub>
-- [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of a PDF managing SaaS. <sub>⭐ 353 · PHP</sub>
-- [HUST-SLOW/MuSc-V2](https://github.com/HUST-SLOW/MuSc-V2) - (TPAMI2026) MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples. Paper is avaliable at… <sub>⭐ 351 · Python</sub>
-- [truskovskiyk/nima.pytorch](https://github.com/truskovskiyk/nima.pytorch) - NIMA: Neural IMage Assessment <sub>⭐ 351 · Python</sub>
-- [itijyou/ademxapp](https://github.com/itijyou/ademxapp) - Code for https://arxiv.org/abs/1611.10080 <sub>⭐ 344 · Python</sub>
-- [UKPLab/gpl](https://github.com/UKPLab/gpl) - Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation… <sub>⭐ 341 · Python</sub>
-- [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208). <sub>⭐ 338 · Python</sub>
-- [thuml/Flowformer](https://github.com/thuml/Flowformer) - About Code release for "Flowformer: Linearizing Transformers with Conservation Flows" (ICML 2022), https://arxiv.org/pdf/2202.06258.pdf <sub>⭐ 335 · Python</sub>
-- [benstaf/FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) - Code for the paper "FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents" arXiv:2502.07393 <sub>⭐ 333 · Jupyter Notebook</sub>
-- [qianlim/CAPE](https://github.com/qianlim/CAPE) - Official implementation of CVPR2020 paper "Learning to Dress 3D People in Generative Clothing" https://arxiv.org/abs/1907.13615 <sub>⭐ 332 · Python</sub>
-- [usnistgov/alignn](https://github.com/usnistgov/alignn) - Atomistic Line Graph Neural Network https://scholar.google.com/citations?user=9Q-tNnwAAAAJ https://www.youtube.com/@dr_k_choudhary <sub>⭐ 332 · Python</sub>
-- [DeepGraphLearning/GearNet](https://github.com/DeepGraphLearning/GearNet) - GearNet and Geometric Pretraining Methods for Protein Structure Representation Learning, ICLR'2023 (https://arxiv.org/abs/2203.06125) <sub>⭐ 331 · Python</sub>
-- [iduta/pyconv](https://github.com/iduta/pyconv) - Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition (https://arxiv.org/pdf/2006.11538.pdf) <sub>⭐ 330 · Python</sub>
-- [YerevaNN/Dynamic-memory-networks-in-Theano](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano) - Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285 <sub>⭐ 330 · Python</sub>
-- [facebookresearch/LLM-QAT](https://github.com/facebookresearch/LLM-QAT) - Code repo for the paper "LLM-QAT Data-Free Quantization Aware Training for Large Language Models" <sub>⭐ 327 · Python</sub>
-- [meta-prompting/meta-prompting](https://github.com/meta-prompting/meta-prompting) - Official implementation of Meta Prompting for AI Systems (https://arxiv.org/abs/2311.11482) <sub>⭐ 325 · Python</sub>
-- [jayelm/gisting](https://github.com/jayelm/gisting) - Learning to Compress Prompts with Gist Tokens - https://arxiv.org/abs/2304.08467 <sub>⭐ 323 · Python</sub>
-- [rohithreddy024/Text-Summarizer-Pytorch](https://github.com/rohithreddy024/Text-Summarizer-Pytorch) - Pytorch implementation of "A Deep Reinforced Model for Abstractive Summarization" paper and pointer generator network <sub>⭐ 321 · Python</sub>
-- [manojpamk/pytorch_xvectors](https://github.com/manojpamk/pytorch_xvectors) - Deep speaker embeddings in PyTorch, including x-vectors. Code used in this work: https://arxiv.org/abs/2007.16196 <sub>⭐ 320 · Python</sub>
-- [bansky-cl/diffusion-nlp-paper-arxiv](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) - Auto get diffusion nlp papers in Axriv. More papers Information can be found in another repository "Diffusion-LM-Papers". <sub>⭐ 316 · Python</sub>
-- [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench) - ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code (https://arxiv.org/abs/2311.09835) <sub>⭐ 316 · Python</sub>
-- [yrcong/RelTR](https://github.com/yrcong/RelTR) - RelTR: Relation Transformer for Scene Graph Generation: https://arxiv.org/abs/2201.11460v2 <sub>⭐ 314 · Python</sub>
-- [summarizepaper/summarizepaper](https://github.com/summarizepaper/summarizepaper) - An AI-powered arXiv paper summarization website with a virtual assistant for answering questions. <sub>⭐ 311 · Python</sub>
-- [WangQrkkk/PaperQuay](https://github.com/WangQrkkk/PaperQuay) - A desktop-first literature manager for PDF reading, translation, paper overviews, and AI agent workflows. <sub>⭐ 308 · TypeScript</sub>
-- [IllDepence/unarXive](https://github.com/IllDepence/unarXive) - A data set based on all arXiv publications, pre-processed for NLP, including structured full-text and citation network <sub>⭐ 302 · Python</sub>
-- [Alibaba-NLP/CHRONOS](https://github.com/Alibaba-NLP/CHRONOS) - Repo for NAACL 2025 Paper "Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization" <sub>⭐ 297 · Python</sub>
-- [csebuetnlp/xl-sum](https://github.com/csebuetnlp/xl-sum) - This repository contains the code, data, and models of the paper titled "XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages" published in Findings of the Association for… <sub>⭐ 279 · Python</sub>
-- [deep-symbolic-mathematics/LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR) - (ICLR 2025 Oral) This is the official repo for the paper "LLM-SR" on Scientific Equation Discovery and Symbolic Regression with Large Language Models <sub>⭐ 275 · Python</sub>
-- [hxu296/nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLP-powered, GPT-3 enabled Resume Parser from PDF to JSON. <sub>⭐ 275 · Python</sub>
-- [chatclimate-ai/ParseStudio](https://github.com/chatclimate-ai/ParseStudio) - python package to parse pdfs with different parsers <sub>⭐ 270 · Python</sub>
-- [lazyFrogLOL/llmdocparser](https://github.com/lazyFrogLOL/llmdocparser) - A package for parsing PDFs and analyzing their content using LLMs. <sub>⭐ 267 · Python</sub>
-- [jlegewie/beaver-zotero](https://github.com/jlegewie/beaver-zotero) - AI research assistant that lives in Zotero <sub>⭐ 262 · TypeScript</sub>
-- [dialog-tools/reddit-research-mcp](https://github.com/dialog-tools/reddit-research-mcp) - Turn Reddit's chaos into structured insights with full citations. MCP server for competitive analysis, customer discovery, and market research. Zero-setup hosted solution with semantic search across… <sub>⭐ 253 · Python</sub>
-- [TIGER-AI-Lab/ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations (COLM 2025) <sub>⭐ 253 · Python</sub>
-- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1) Name :- ActionBarSearchView Description :- Action bar search view. (2) Name :- Adsfree Description :- Admob integration. (3) Name :- AndroidDayDreamDemo Description :- Day dream demo. (4) Name… <sub>⭐ 252 · Java</sub>
+- [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Dreambooth(https://arxiv.org/abs/2208.12242) 与稳定传播方案一起实施 <sub>⭐ 7.7k · Jupyter Notebook</sub>
+- [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) - 文件解析器优化了LLM摄入,没有丢失的解析PDFs,Docx,PPTx,其格式对LLMS是理想的. <sub>⭐ 7.4k · Python</sub>
+- [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - 根据你的Zotero解放组织 推荐你感兴趣的新Arxiv文件 <sub>⭐ 6.0k · Python</sub>
+- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 学术组合可以促进引用。 AI 生成页面, 您拥有 Markdown 。 BibTeX 自动导入、 Jupyter 、 LaTeX 、 幻灯片、 视觉块编辑器 —— 永远可以免费主机 。 @ @ info, AI , Markdown ^ <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [JabRef/jabref](https://github.com/JabRef/jabref) - 用于管理 BibTeX 和 BibLaTeX (.bib) 库的桌面应用程序 <sub>⭐ 4.8k · Java</sub>
+- [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: 通用情报的解开结构-数据模型能力 https://arxiv.org/abs/2609.1748 <sub>⭐ 4.4k · Python</sub>
+- [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - OmniGen:统一图像生成. https://arxiv.org/pdf/2409.11340 <sub>⭐ 4.3k · Jupyter Notebook</sub>
+- [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - 知识代理与云层管理 <sub>⭐ 4.3k · TypeScript</sub>
+- [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes) - 用于研究和分享机器学习文章的仓库 <sub>⭐ 3.9k</sub>
+- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - (EMNLP 2021) SimCSE: 简单矛盾学习 嵌入式判决 https://arxiv.org/abs/2104.040.8821 <sub>⭐ 3.7k · Python</sub>
+- [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - 使用 GPT 解析 PDF <sub>⭐ 3.6k · Python</sub>
+- [PetarV-/GAT](https://github.com/PetarV-/GAT) - 图表关注网络(https://arxiv.org/abs/1710.1003) <sub>⭐ 3.6k · Python</sub>
+- [HRNet/HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - OCR方法被重译为分解变形器 //arxiv.org/abs/1909.11065. 这是对HRNet语义分解的正式实施. https://arxiv.org/abs/1908.07919 <sub>⭐ 3.3k · Python</sub>
+- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - 通过文本转换(https://arxiv.org/abs/2208.12242)执行Dreambooth,用于稳定扩散(https://arxiv.org/abs/21122.10752). Tweaks focus... <sub>⭐ 3.2k · Jupyter Notebook</sub>
+- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - 文档 (PDF, Word, PPTX...) 使用现代 OCRs + Ollama 支持的状态提取和解析 API。 匿名化文档。 删除 PII。 将任意文档或图片转换为结构化... <sub>⭐ 3.2k · Python</sub>
+- [diegoantognini/pyGAT](https://github.com/diegoantognini/pyGAT) - Veličković等人(2017年,https://arxiv.org/abs/1710.10103)实施的图表关注网络模型 <sub>⭐ 3.1k · Python</sub>
+- [DeepGraphLearning/LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - 综合收集最近关于图深学习的论文 <sub>⭐ 3.1k</sub>
+- [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) - 每日自动爬行arXiv文件,并使用AI进行总结. 使用GitHub Pages进行图解. <sub>⭐ 3.0k · JavaScript</sub>
+- [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch实施TabNet文件 //arxiv.org/pdf/1908.07442.pdf <sub>⭐ 3.0k · Python</sub>
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - 任何代理技能兼容代理(77+通过技能CLI)的De-AI写作技巧,有Claude Code,Codex,Grok Build,以及Antigravity的本地插件. Narterative-architecture修补虚构... <sub>⭐ 2.9k · Python</sub>
+- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) - MCP,CLI,技能搜索和下载来自arXiv,PubMed,BioRxiv等多个来源的学术论文. <sub>⭐ 2.7k · Python</sub>
+- [yuqinie98/PatchTST](https://github.com/yuqinie98/PatchTST) - PatchTST的一个非常规执行:"一个时间系列值64字:用变形器进行长期预测"(ICLR 2023) https://arxiv.org/abs/2211.14730 <sub>⭐ 2.7k · Python</sub>
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - 一个强大的Zotero AI和MCP插件,配有ChatGPT,双子座3.7,克劳德Fable5,克劳德Opus5,DeepSeek V4,格罗克,OpenRouter,Kimi k3,GLM 5.3,硅叶,GPT-oss,Gemma 4,Quen 3.8 <sub>⭐ 2.7k · JavaScript</sub>
+- [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect:结构导图 使用Edge President,ICCV 2019 https://arxiv.org/abs/1901.00212 <sub>⭐ 2.6k · Python</sub>
+- [wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) - 收藏大众和可复制的图像装饰作品. <sub>⭐ 2.5k</sub>
+- [thuml/Autoformer](https://github.com/thuml/Autoformer) - 关于"Autoformer:以自动校正变形器进行长期系列预测"(NeurIPS 2021)的代码发布,https://arxiv.org/abs/2106.1308 <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [landing-ai/ade-cli](https://github.com/landing-ai/ade-cli) - LandingAI 的代理文件提取(ADE)的官方CLI——从您的终端中解析文档并提取图案形状的数据 <sub>⭐ 2.4k · Python</sub>
+- [deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face) - YOLO5Face:为什么重新发明面部探测器(https://arxiv.org/abs/2105.12931) ECCV讲习班2022 <sub>⭐ 2.4k · Python</sub>
+- [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Claude Code、Cursor和Codex的代理技能兼容LLM维基。从原始来源、引用和内衬中构建一个Karopathy风格的知识库。 <sub>⭐ 2.4k · Python</sub>
+- [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Google Research的 PaperBanana 用于自动化学术人物、图表和研究视觉的开源执行和扩展,扩展到幻灯片生成等新领域。 <sub>⭐ 2.4k · Python</sub>
+- [fxia22/pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch) - pytorch执行"PointNet:深思熟虑3D分类和分解的点集" https://arxiv.org/abs/1612.00593 <sub>⭐ 2.4k · Python</sub>
+- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code博客技能套件:30个子技能,5个代理,5门v1.9.0博客交付合同,为Google排名和AI引文双优. 积极开发AI-Marketing-Hub/claude-blog... <sub>⭐ 2.3k · Python</sub>
+- [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras执行神经风格转移 来自论文"艺术风格的神经算术"(http://arxiv.org/abs/1508.06576),载于Keras 2.0+ <sub>⭐ 2.3k · Jupyter Notebook</sub>
+- [magicleap/SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork) - PyTorch 实时兴趣点检测、描述和稀疏跟踪预训模型(https://arxiv.org/abs/1712.07629) <sub>⭐ 2.2k · Python</sub>
+- [yb2460/harness-anything](https://github.com/yb2460/harness-anything) - Harness Anything - AI代理控制中心:WPS,MS Office,Zotero,Photoshop,47个CLI命令,27个学术技能,SVG-to-PPTX <sub>⭐ 2.2k · Python</sub>
+- [asappresearch/sru](https://github.com/asappresearch/sru) - 培训与CNN一样快的RNNs(https://arxiv.org/abs/1709.02755) <sub>⭐ 2.1k · Python</sub>
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - 人造-体格:用零Shot Sim2 Real 转录人造机器人的强化学习 https://arxiv.org/abs/2404.05695 <sub>⭐ 2.1k · Python</sub>
+- [jd-opensource/OxyGent](https://github.com/jd-opensource/OxyGent) - (ACL 2026) OxyGent:通过Oxy抽象法使多代理系统模块化,可观测和可演化 https://arxiv.org/abs/2604.25602 <sub>⭐ 2.1k · Python</sub>
+- [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - 指定一个 github 或 本地 repo, github 拖动请求、 arXiv 或 Sci- Hub 纸张、 Youtube 记录或文档 URL 在网络上并刮入文本文件和剪贴板, 以方便 LLM 摄入 <sub>⭐ 2.0k · Python</sub>
+- [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - 密码猜测深层学习方法(https://arxiv.org/abs/1709.00440) <sub>⭐ 2.0k · Python</sub>
+- [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - 执行文件 -- -- " 只有你学会一个代表:多重任务的统一网络 " (https://arxiv.org/abs/2105.04206) <sub>⭐ 2.0k · Python</sub>
+- [meta-recsys/generative-recommenders](https://github.com/meta-recsys/generative-recommenders) - 存储器主机代码为"动作比单词大声:三重力-帕雷默定序传导器用于基因建议"(https://arxiv.org/abs/2402.17152). <sub>⭐ 2.0k · Python</sub>
+- [LingyiChen-AI/JadeAI](https://github.com/LingyiChen-AI/JadeAI) - AI-Powered Smart Resume Builder — 50+专业模板,PDF/图像解析,AI优化,JD匹配分析,多格式导出. Open source & free,一击Docker部署. <sub>⭐ 2.0k · TypeScript</sub>
+- [SaiAkhil066/CORTEX-AI-SUPER-RAG](https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG) - CORTEX RAG是一名企业检索和知识助理,通过引用、许可检索和快速部署帮助团队从公司数据中找到准确的答案 <sub>⭐ 2.0k · Python</sub>
+- [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity) - 开放源代码的迷惑性,如AI搜索引擎,有实时引用,流回响应,以及Firecrawl提供直播数据 <sub>⭐ 2.0k · TypeScript</sub>
+- [ZhengyaoJiang/PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - PG组合:政策渐变组合,"金融组合管理难题的深度强化学习框架"的源代码(https://arxiv.org/pdf/1706.10059.pdf). <sub>⭐ 1.9k · Python</sub>
+- [delibae/claude-prism](https://github.com/delibae/claude-prism) - 一个离线的第一科学写作工作空间,由克劳德提供动力. LaTeX + Python + 100+ 科学技能全部在本地运行. <sub>⭐ 1.8k · TypeScript</sub>
+- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-saniity lite:标签 arxiv 相关论文在优美的UI中获得类似论文的建议,使用 SVMs over tfidf 特性向量基于纸质摘要. <sub>⭐ 1.7k · Python</sub>
+- [bytedance/Sa2VA](https://github.com/bytedance/Sa2VA) - Pixel-LLM 代码库的官方Repo:Sa2VA(T-PAMI-26),SAMTok(CVPR-26),VRT(Arxiv-25),SaSaSaSA2VA(LSVOS的第1个解决方案) <sub>⭐ 1.7k · Python</sub>
+- [microsoft/SoM](https://github.com/microsoft/SoM) - (arXiv 2023) GPT-4V和LMMs 的自动启动 <sub>⭐ 1.6k · Python</sub>
+- [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - 由L. Gatys, A. Ecker,和M. Bethge共同创作的"艺术风格的神经算术"的一集执行. http://arxiv.org/abs/1508.06576. <sub>⭐ 1.5k · Python</sub>
+- [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - 将任何Arxiv文件转化为工作执行的代理技能 <sub>⭐ 1.5k · Python</sub>
+- [nlpyang/BertSum](https://github.com/nlpyang/BertSum) - 采掘摘要精细分类编码 <sub>⭐ 1.5k · Python</sub>
+- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI代码评论基于12本经典工程书籍——带有书引用,重度标签的衰变风险诊断,以及包括全速自动修复在内的6种分析模式. <sub>⭐ 1.5k · HTML</sub>
+- [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - 使用 Github 动作自动更新 CV 文件 <sub>⭐ 1.5k · Python</sub>
+- [dome272/Diffusion-Models-pytorch](https://github.com/dome272/Diffusion-Models-pytorch) - Pytorch 执行传播模式(https://arxiv.org/pdf/2006.11239.pdf) <sub>⭐ 1.5k · Python</sub>
+- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - 将您的学术参考管理器与 Obsidian 编辑器融合在一起的 Obsidian 插件。 从 Obsidian 内部搜索您的参考文献, 并自动创建和参考文献注释... <sub>⭐ 1.3k · TypeScript</sub>
+- [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Difusion:文本、图像和变异均以单一扩散模式进行,arXiv 2022/ICCV 2023 <sub>⭐ 1.3k · Python</sub>
+- [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - 通过Additive Quantization https://arxiv.org/pdf/2401.06118.pdf和PV-Tuning:超越直径估计的大型语言模型的极端压缩的官方 Pytorch存储器. <sub>⭐ 1.3k · Python</sub>
+- [gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) - 155+视觉语言模型(VLM/MLLM)架构的解析视觉目录:论文,图表,培训食谱,数据集,以及多式联运AI代理的发布时间表. <sub>⭐ 1.3k · Markdown</sub>
+- [wisupai/e2m](https://github.com/wisupai/e2m) - E2M 将各种文件类型( doc, docx, epub, html, htm, url, pdf, ppt, ppt, pptx, mp3, m4a) 转换为Markdown 。 它很容易安装, 有专用的剖析器和转换器, 支持自定义配置 。 E2M... <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - 快速引用参考解析 <sub>⭐ 1.3k · Ruby</sub>
+- [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NERF-SLAM: 实时的Dense单体 SLAM 与神经辐射场. https://arxiv.org/abs/2210.13641 + Sigma-Fusion: Probabilistic Voluary Fusion for Dense Monucal SLAM... <sub>⭐ 1.3k · Python</sub>
+- [KMnP/vpt](https://github.com/KMnP/vpt) - 视觉快速图音(ECCV 2022) https://arxiv.org/abs/2203.12119 <sub>⭐ 1.2k · Python</sub>
+- [ScholarXIV/OpenScholarXIV](https://github.com/ScholarXIV/OpenScholarXIV) - OpenScholarXIV是一个开源,审美,最小和AI的动力应用软件,用户可以搜索,阅读,书签,分享,下载和观看arXiv寄存器的学术论文摘要. <sub>⭐ 1.2k · Dart</sub>
+- [lightaime/deep_gcns_torch](https://github.com/lightaime/deep_gcns_torch) - Pytorch Repo for DeepGCNs (ICCV'2019 Orver, TPAMI'2021), DeeperGCN (arXiv'2020)和GNN1000(ICML'2021) //www.deepgcns.org <sub>⭐ 1.2k · Python</sub>
+- [SHI-Labs/Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) - 邻里关注变形器,arxiv 2022 / CVPR 2023. 分化邻里关注变形器,arxiv 2022 <sub>⭐ 1.2k · Python</sub>
+- [princeton-nlp/MeZO](https://github.com/princeton-nlp/MeZO) - (NeurIPS 2023) MeZO:精致的有Just Forward Passs语言模型. https://arxiv.org/abs/2305.17333 互联网档案馆的存檔,存档日期2013-09-20. <sub>⭐ 1.2k · Python</sub>
+- [shyamsn97/mario-gpt](https://github.com/shyamsn97/mario-gpt) - (Neurips 2023) 以GPT2. 生成马里奥级,用于论文"马里奥GPT:通过大语言模型实现的开放式文本2级生成"的代码 https://arxiv.org/abs/2302.05981 <sub>⭐ 1.2k · Python</sub>
+- [HRNet/HRNet-Facial-Landmark-Detection](https://github.com/HRNet/HRNet-Facial-Landmark-Detection) - 这是针对我们TPAMI的论文"深高分辨率表现学习以获得视觉识别"的正式实施面部标志检测. https://arxiv.org/abs/1908.07919 <sub>⭐ 1.1k · Python</sub>
+- [TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding) - 精彩的地面:视觉地面研究论文目录 <sub>⭐ 1.1k</sub>
+- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - 每日AI生态系统摘要来自10个来源(GitHub,ArXiv,HN,HuggingFace,Product Hunt,Dev.to,Lobste.rs),双语ZH/EN通过GitHub Actions报告. <sub>⭐ 1.1k · TypeScript</sub>
+- [Gabberflast/academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) - 克劳德·斯奇特(Claude Skill) 创作学术演讲(会议演讲,研讨会幻灯片,论文辩护,赠与简报). 执行动作标题,结构化论证,展示纪律,引用...... <sub>⭐ 1.1k</sub>
+- [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - "ReStyle:通过Literative Finement(ICCV 2021)的残余基式GAN编码器"的官方执行 https://arxiv.org/abs/2104.04.02699 <sub>⭐ 1.0k · Python</sub>
+- [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle) - "HyperStyle: StyleGAN 与超网络反转用于真实图像编辑"(CVPR 2022)的官方执行 https://arxiv.org/abs/2111.15666 <sub>⭐ 1.0k · Python</sub>
+- [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - 关于为大型语言模型拟订有效查询和提示的原则性指导基准,我们的文件 //arxiv.org/abs/2312.16171 <sub>⭐ 992 · Python</sub>
+- [jungwoo-ha/WeeklyArxivTalk](https://github.com/jungwoo-ha/WeeklyArxivTalk) - (Zoom & Facebook Live) 周刊 AI Arxiv XX2 <sub>⭐ 963</sub>
+- [eric-yyjau/pytorch-superpoint](https://github.com/eric-yyjau/pytorch-superpoint) - 在PyTorch执行的超级点 //arxiv.org/abs/1712.07629 <sub>⭐ 934 · Jupyter Notebook</sub>
+- [danielroich/PTI](https://github.com/danielroich/PTI) - 官方实施"基于Latent的编辑真实图像的关键修饰"(ACM TOG 2022) https://arxiv.org/abs/2106.05744 <sub>⭐ 929 · Jupyter Notebook</sub>
+- [megvii-research/mdistiller](https://github.com/megvii-research/mdistiller) - 官方实施(CVPR2022)解耦知识消化器 https://arxiv.org/abs/2203.08679和(ICCV2023) DOT:一个消化器-定向训练员...... <sub>⭐ 898 · Python</sub>
+- [switchablenorms/DeepFashion_Try_On](https://github.com/switchablenorms/DeepFashion_Try_On) - 官方代码"通过适应性生成XQP保存图像内容走向照片-真实主义虚拟尝试",CVPR'20 https://arxiv.org/abs/2003.05863 <sub>⭐ 885 · Python</sub>
+- [AndreyGuzhov/AudioCLIP](https://github.com/AndreyGuzhov/AudioCLIP) - "AudioCLIP:将CLIP扩展至图像,文本和音频"(https://arxiv.org/abs/2106.13043)论文中描述的模型的源代码. <sub>⭐ 874 · Python</sub>
+- [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - 可切换规范化代码,来自"通过可切换规范化实现的可切换学习与诺玛化",https://arxiv.org/abs/1806.10779 <sub>⭐ 870 · HTML</sub>
+- [irom-princeton/dppo](https://github.com/irom-princeton/dppo) - 官方实施分散政策优化,arxiv 2024. <sub>⭐ 856 · Python</sub>
+- [Chengsong-Huang/R-Zero](https://github.com/Chengsong-Huang/R-Zero) - (ICLR2026) R-Zero的代码:自演解说 LLM 来自零数据(https://www.arxiv.org/pdf/2508.0500004) <sub>⭐ 853 · Python</sub>
+- [princeton-nlp/PURE](https://github.com/princeton-nlp/PURE) - (NAACL 2021) 实体和关系采掘令人沮丧的简单方法 https://arxiv.org/abs/2010/12812 <sub>⭐ 815 · Python</sub>
+- [davidadamojr/TextRank](https://github.com/davidadamojr/TextRank) - Python 执行 TextRank 算法,用于自动关键字提取和归纳,使用 Levenshtein 距离作为文本单位之间的关系。本项目基于“ TextRank...” 文件。 <sub>⭐ 798 · Python</sub>
+- [vacancy/PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling) - 精准 RoI 集合与坐标梯度支持,在"获取本地化信心以准确检测对象"(https://arxiv.org/abs/1807.11590)的论文中提出. <sub>⭐ 781 · C++</sub>
+- [Ahren09/UniSD](https://github.com/Ahren09/UniSD) - 正式实施"大语言模式统一自我分散框架"(https://arxiv.org/abs/2605.06597)。 <sub>⭐ 780 · Python</sub>
+- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - 代码为"Audio驱动的说话脸视频生成与基于学习的个性化头皮"(Arxiv 2020)和"预测个人化头部运动来自短视频和语音信号"(TMM 2022). <sub>⭐ 770 · Python</sub>
+- [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) - 关于多式联运和大型语言模型的纸张清单,只用于记录我在每日arxiv上为个人需要阅读的论文. <sub>⭐ 763</sub>
+- [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - 处理基因学习 Trlemma 与 Denoising Difusion GANs https://arxiv.org/abs/21122.07804 <sub>⭐ 761 · Python</sub>
+- [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - 即时自由传播:从文本到图像传播模型中取出"文本",arxiv 2023 / CVPR 2024 <sub>⭐ 759 · Python</sub>
+- [kozistr/Awesome-GANs](https://github.com/kozistr/Awesome-GANs) - 超强的流线网络 <sub>⭐ 758 · Python</sub>
+- [dome272/Paella](https://github.com/dome272/Paella) - 正式实施帕埃拉 https://arxiv.org/abs/2211.07292v2 互联网档案馆的存檔,存档日期2013-12-22. <sub>⭐ 747 · Jupyter Notebook</sub>
+- [louaaron/Score-Entropy-Discrete-Diffusion](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) - (ICML 2024 Best Paper) 通过估计数据分布比率进行分散扩散模型(https://arxiv.org/abs/2310.16834) <sub>⭐ 746 · Python</sub>
+- [ispras/dedoc](https://github.com/ispras/dedoc) - Dedoc 是一个用于自动解析文档并带入统一格式的库(服务),它会自动从文本中提取内容,逻辑结构,表格,以及元信息. <sub>⭐ 734 · Python</sub>
+- [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - 官方实施"只有一种风格:使用基于风格的回归模型进行年龄转变"(SIGGRAPH 2021) https://arxiv.org/abs/2102.02754 <sub>⭐ 728 · Python</sub>
+- [princeton-nlp/LM-BFF](https://github.com/princeton-nlp/LM-BFF) - (ACL 2021) LM-BFF:更好的少镜头精细调语言模型 https://arxiv.org/abs/2012/15723 <sub>⭐ 727 · Python</sub>
+- [ayaka-notes/ayakaleaf-pro](https://github.com/ayaka-notes/ayakaleaf-pro) - 最终开放源代码Overleaf扩展和替代:一个免费的,自我托管的,滴入式的替换Overleaf社区版,几乎全部具有Pro功能——SSO,AI助手,Git/GitHub同步...... <sub>⭐ 726 · JavaScript</sub>
+- [TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT) - 基于LLM的诊断系统(https://arxiv.org/pdf/2232.01454.pdf) <sub>⭐ 713 · Python</sub>
+- [caspianmoon/memoripy](https://github.com/caspianmoon/memoripy) - 人工智能特工的证据第一地方记忆,包括时间版本、录取政策、引用、可解释的召回、MCP和审计工具。 <sub>⭐ 695 · Python</sub>
+- [yaojingang/geo-citation-lab](https://github.com/yaojingang/geo-citation-lab) - 地球观测组织实验数据报告和一个由GEO/AEO/AI检索文件库整理。 <sub>⭐ 690 · HTML</sub>
+- [atcbosselut/comet-commonsense](https://github.com/atcbosselut/comet-commonsense) - ACL 2019文件代码:"COMET:用于自动知识图建设的常识变换器" https://arxiv.org/abs/1906.05317 <sub>⭐ 688 · Python</sub>
+- [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - 官方实施"第三时间是魅力吗?图像和视频编辑用StyleGAN3"(AIM ECCVW 2022) https://arxiv.org/abs/2201.13433 <sub>⭐ 686 · Python</sub>
+- [ximinng/LLM4SVG](https://github.com/ximinng/LLM4SVG) - (CVPR 2025) 官方实施"增强LLMs理解和生成复杂矢量图形的能力" https://arxiv.org/abs/2412.11102 <sub>⭐ 671 · Python</sub>
+- [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) - 使用 Github 动作自动更新文本对语音( TTS) 文件日报( 每12小时更新一次) <sub>⭐ 670 · Python</sub>
+- [PetarV-/DGI](https://github.com/PetarV-/DGI) - 深图信息(https://arxiv.org/abs/1809.10341) <sub>⭐ 668 · Python</sub>
+- [hello-diana/MASCOT](https://github.com/hello-diana/MASCOT) - EMNLP 2026 主会议文件:MASCOT:走向多代理社会协作系统(https://arxiv.org/abs/2601.14230) <sub>⭐ 667 · Python</sub>
+- [yya518/FinBERT](https://github.com/yya518/FinBERT) - 金融通信预先培训的BERT模型。 https://arxiv.org/abs/2006.08097 <sub>⭐ 663 · Jupyter Notebook</sub>
+- [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs (General Aversarial Networks) - GAN的汇总列表 <sub>⭐ 655 · Python</sub>
+- [guoqiangqi/PFLD](https://github.com/guoqiangqi/PFLD) - PFLD A 实用地标探测器的实施,参见https://arxiv.org/pdf/1902.10859.pdf. <sub>⭐ 649 · Python</sub>
+- [maum-ai/faceshifter](https://github.com/maum-ai/faceshifter) - FaceShifter非官方的PyTorch执行(https://arxiv.org/abs/1912.13457) <sub>⭐ 648 · Python</sub>
+- [kieranjwood/trading-momentum-transformer](https://github.com/kieranjwood/trading-momentum-transformer) - 本代码与论文"与瞬态变形器的交易:一个智能和可解释的建筑"(https://arxiv.org/pdf/21120.8534.pdf)相伴随. <sub>⭐ 639 · Python</sub>
+- [abgulati/LARS](https://github.com/abgulati/LARS) - 一个在您的设备上本地运行 LLMS 的应用程序, 以及您的文档, 方便在生成的响应中详细引用 。 <sub>⭐ 634 · Python</sub>
+- [gersteinlab/LocAgent](https://github.com/gersteinlab/LocAgent) - (ACL 2025) 代码本地化的图导代理框架 https://arxiv.org/abs/2503.09089 <sub>⭐ 630 · Python</sub>
+- [ChenRocks/fast_abs_rl](https://github.com/ChenRocks/fast_abs_rl) - ACL 2018论文代码:"快速抽象总结与强化选句重写. 陈和班萨尔" <sub>⭐ 624 · Python</sub>
+- [jiawei-ren/dreamgaussian4d](https://github.com/jiawei-ren/dreamgaussian4d) - (arXiv 2023) DreamGausian4D:基因化的4D高斯白板游戏 <sub>⭐ 619 · Python</sub>
+- [jianruntech/geo-score](https://github.com/jianruntech/geo-score) - AI引擎能否引用您的网站,以及它们呢? 在开放的GEO主题上免费0–100准备分数,加上通过OpenAI,Perplexity,双子座和克劳德API的引用跟踪,并配有自己的钥匙. 0... <sub>⭐ 618 · Python</sub>
+- [tegg89/SRCNN-Tensorflow](https://github.com/tegg89/SRCNN-Tensorflow) - 图片超级解析使用 Tensorflow 的深层革命网络 https://arxiv.org/abs/1501.00092v3 <sub>⭐ 614 · Python</sub>
+- [bowenc0221/panoptic-deeplab](https://github.com/bowenc0221/panoptic-deeplab) - 这是 Pytorch 重置我们的 CVPR 2020 文件“Panoptic-DeepLab:一个简单、强大和快速的自下而上的泛光分块基线”(https://arxiv.org/abs/1911.10194) <sub>⭐ 612 · Python</sub>
+- [pemami4911/neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch) - PyTorch实施神经结合优化与强化学习 https://arxiv.org/abs/16111.09940 <sub>⭐ 611 · Python</sub>
+- [PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D) - 基于NERF(arXiv)的3D-意识GANs. <sub>⭐ 608 · Python</sub>
+- [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - (ACL 2021) 规模化的语句学习语境表现;EMNLP'2021:词源检索 学人通过检索, Too https://arxiv.org/abs/2012.12624 <sub>⭐ 606 · Python</sub>
+- [Lyken17/pytorch-memonger](https://github.com/Lyken17/pytorch-memonger) - 深层学习的子线内存优化. https://arxiv.org/abs/1604.06174 <sub>⭐ 603 · Python</sub>
+- [Grzego/handwriting-generation](https://github.com/Grzego/handwriting-generation) - 使用反复出现的神经网络在Lamorflow中进行笔迹生成,基于Alex Graves的论文(https://arxiv.org/abs/1308.0850)。 <sub>⭐ 597 · Python</sub>
+- [allenai/specter](https://github.com/allenai/specter) - SPECTER: 使用引用信息化变换器进行文件级代表学习 <sub>⭐ 593 · Python</sub>
+- [timbmg/Sentence-VAE](https://github.com/timbmg/Sentence-VAE) - PyTorch Re-执行"从持续空间中释放判决",由Bowman等人2015年 https://arxiv.org/abs/1511.06349 <sub>⭐ 593 · Python</sub>
+- [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) - Jev的1207公共资源,TypeSafe AI's System One决定模型,按决定模式索引. source reference,日期链接检查和预定的呼叫现场文本检查;运行时间和性能... <sub>⭐ 591 · Python</sub>
+- [FabianFuchsML/se3-transformer-public](https://github.com/FabianFuchsML/se3-transformer-public) - SE3变形器的代码 //arxiv.org/abs/2006/10503 <sub>⭐ 584 · Python</sub>
+- [gcr/torch-residual-networks](https://github.com/gcr/torch-residual-networks) - 这是火炬执行"深沉残存学习以识别图像",凯明贺,张祥宇,谢庆任, 晨等2015年ILSVRC和COCO挑战的获奖者. <sub>⭐ 582 · Jupyter Notebook</sub>
+- [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - 您的浏览器参考管理器:自动纸张检测( Arxiv, OpenReview & more), 出版地点匹配和代码寄存器发现! 同时增强ArXiv: BibTex 引用, Markdown 链接... <sub>⭐ 579 · JavaScript</sub>
+- [ActiveVisionLab/nerfmm](https://github.com/ActiveVisionLab/nerfmm) - (Arxiv 2021) NERF-:无已知相机参数的神经辐射场 <sub>⭐ 574 · Python</sub>
+- [thuml/Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers) - "非固定变换器:探索时间序列预测中的站点性"(NeurIPS 2022)的代码发布,https://arxiv.org/abs/2205.14415 <sub>⭐ 567 · Python</sub>
+- [facebookresearch/atlas](https://github.com/facebookresearch/atlas) - 用于支持“用检索增强语言模型进行少许镜头学习”论文(https//arxiv.org/abs/2208.03299)的代码存储器 <sub>⭐ 565 · Python</sub>
+- [WindyLab/LLM-RL-Papers](https://github.com/WindyLab/LLM-RL-Papers) - 监控最近对 arXiv 的 LLM & RL 进行交叉研究以进行控制。 如果有好的文件, 欢迎使用 PR 。 <sub>⭐ 561</sub>
+- [dome272/VQGAN-pytorch](https://github.com/dome272/VQGAN-pytorch) - Pytorch 执行 VQGAN(高分辨率图像合成的变压器)(https://arxiv.org/pdf/2012.09841.pdf) <sub>⭐ 553 · Python</sub>
+- [harshankur/officeParser](https://github.com/harshankur/officeParser) - 一个强健的,严格类型的Node.js和浏览器库,用于将办公室文件解析成丰富的抽象语法树(AST),并以多种格式生成高真实度输出. Parses: docx – pptx →... <sub>⭐ 553 · Rich Text Format</sub>
+- [tatsu-lab/gpt_paper_assistant](https://github.com/tatsu-lab/gpt_paper_assistant) - GPT4 基于个性化的 ArXiv 纸张助理机器人 <sub>⭐ 551 · Python</sub>
+- [mveres01/pytorch-drl4vrp](https://github.com/mveres01/pytorch-drl4vrp) - 实施:Nazari,Mohammadreza等"深入强化学习解决车辆运行问题". arXiv预印arXiv:1802.04240 (2018). <sub>⭐ 536 · Python</sub>
+- [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) - 使用 ChatGPT 与任何 ArXiv 文件交谈 <sub>⭐ 530 · TypeScript</sub>
+- [LeDat98/NexusRAG](https://github.com/LeDat98/NexusRAG) - 混合RAG系统结合了向量搜索,知识图(LightRAG),以及交叉编码器重新排序——与Docling文档解析,视觉智能(图像/表标题),代理流化. <sub>⭐ 529 · Python</sub>
+- [yukangcao/Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) - 由视频重建4D空间智能的优酷论文目录(arXiv 2507.21045). <sub>⭐ 528</sub>
+- [princeton-nlp/ALCE](https://github.com/princeton-nlp/ALCE) - (EMNLP 2023) 使大语言模型能够以引用方式生成文本。 <sub>⭐ 527 · Python</sub>
+- [js05212/BayesianDeepLearning-Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - 贝叶斯深层学习:调查 <sub>⭐ 522</sub>
+- [THUDM/LongCite](https://github.com/THUDM/LongCite) - LongCite: 使 LLMs 在长文QA中生成精细的引用 <sub>⭐ 522 · Python</sub>
+- [cookjohn/gs-skills](https://github.com/cookjohn/gs-skills) - Google 学者技能 Claude Code——搜索,引用跟踪,全文访问,通过Chrome DevTools MCP输出Zotero <sub>⭐ 520 · Python</sub>
+- [ExtractPDF4J/ExtractPDF4J](https://github.com/ExtractPDF4J/ExtractPDF4J) - Java PDF 表格提取 & OCR 库。 使用流、 网格检测( OpenCV 风格) 和混合解析从基于文本和扫描的 PDF 中提取结构化表格 。 <sub>⭐ 520 · Java</sub>
+- [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) - 更新arXiv日报关于斯皮金神经网络的论文. <sub>⭐ 518 · Python</sub>
+- [WenjieDu/SAITS](https://github.com/WenjieDu/SAITS) - PyTorch官方实施论文"SATS:基于自我的对时空系列的印象". 快速最新(SOTA)深度学习神经网络模式高效...... <sub>⭐ 514 · Python</sub>
+- [JindongGu/Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) - 这份检索表列出了我们的调查文件《远景-语言基础模型的快速工程系统调查》中概述的有关文件。 <sub>⭐ 513</sub>
+- [twtygqyy/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet) - pytorch 用于使用 Generative adversarial Network arXiv:1609.04802 的 Photo-Realistic Single Image Super-resolution 的 pytorch 执行 <sub>⭐ 511 · Python</sub>
+- [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) - 一纸一纸的简短贡献——所有最新图像/破解/录像Denoising论文摘要,并在最高会议和期刊上发表有代码和引用的论文。 <sub>⭐ 504</sub>
+- [rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch) - 非官方实施 Alitas-Free Generative Aversarial Networks. (https://arxiv.org/abs/2106.12423) PyTorch 互联网档案馆的存檔,存档日期2014-09-22. <sub>⭐ 503 · Python</sub>
+- [NiuTrans/LaTeXTrans](https://github.com/NiuTrans/LaTeXTrans) - 一个将LaTeX文件的内容翻译成各种其他自然语言(例如,将arXiv文件从英文翻译为中文)的工具. <sub>⭐ 500 · TeX</sub>
+- [danielegrattarola/keras-gat](https://github.com/danielegrattarola/keras-gat) - Keras实施图注网络(GAT),由Veličković等人编写(2017年;https://arxiv.org/abs/1710.1010903). <sub>⭐ 492 · Python</sub>
+- [daa233/generative-inpainting-pytorch](https://github.com/daa233/generative-inpainting-pytorch) - PyTorch 重置纸张 Generative Image Inpainting 并注意背景(https://arxiv.org/abs/1801.07892) <sub>⭐ 487 · Python</sub>
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - 用开源的 Python 引擎编写研究论文和文献审查草稿,该引擎对照学术数据库检查引用的DOIs. Export PDF, Word, 或 LaTeX. <sub>⭐ 486 · Python</sub>
+- [iamarunbrahma/vision-parse](https://github.com/iamarunbrahma/vision-parse) - 使用 Vision LLMS 将 PDF 解析为降标 <sub>⭐ 484 · Python</sub>
+- [ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing) - 综合清单(SAMRS@NeurIPS'23,RVSA@TGRS'22,RSP@TGRS'22),我们有关遥感的研究成果,包括论文,代码和引文. 注:为(TGRS'22)"经验主义...... <sub>⭐ 484 · TeX</sub>
+- [bytedance/ByteTransformer](https://github.com/bytedance/ByteTransformer) - NVIDIA GPU优化BERT变压器推论. https://arxiv.org/abs/221.03052 <sub>⭐ 481 · C++</sub>
+- [dome272/MaskGIT-pytorch](https://github.com/dome272/MaskGIT-pytorch) - Pytorch 执行 MaskGIT: Masked Generative Image Transformer (https://arxiv.org/pdf/2202.04200.pdf) 互联网档案馆的存檔,存档日期2013-12-20. <sub>⭐ 474 · Python</sub>
+- [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder) - (arxiv'26) GAE:为3D-恒定世界一代学习几何-内在后方空间 <sub>⭐ 474 · Python</sub>
+- [AutoLLM/ArxivDigest](https://github.com/AutoLLM/ArxivDigest) - ArXiv 使用大语言模型的文摘和个性化建议 <sub>⭐ 468 · Python</sub>
+- [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - (ECCV2022)"无监督的夜影像增强:当层分解遇到光效应抑制时",https://arxiv.org/abs/2207.10564 <sub>⭐ 465 · HTML</sub>
+- [tensorgi/TPA](https://github.com/tensorgi/TPA) - (NeurIPS 2025 Spotlight) TPA: Tensor ProductT ATTenTion 变形器(https://arxiv.org/abs/2501.06425) 互联网档案馆的存檔,存档日期2011-03-05. <sub>⭐ 463 · Python</sub>
+- [zyushun/Adam-mini](https://github.com/zyushun/Adam-mini) - Adam-mini的代码:使用更少的学习率来获得更多 https://arxiv.org/abs/2406.16793 <sub>⭐ 460 · Python</sub>
+- [shawntan/neural-turing-machines](https://github.com/shawntan/neural-turing-machines) - 试图实施"神经图灵机"中描述的系统,由格雷夫斯,亚历克斯,格雷格·韦恩和伊沃·达尼赫尔卡(http://arxiv.org/abs/1410.5401)共同完成. <sub>⭐ 459 · Jupyter Notebook</sub>
+- [THUDM/CogQA](https://github.com/THUDM/CogQA) - ACL2019论文"规模多读理解认知图"的源代码和数据集. <sub>⭐ 457 · Python</sub>
+- [alexisfox7/PRO-LONG](https://github.com/alexisfox7/PRO-LONG) - 长视距LLM代理的程序内存: 牵引器将所有东西都附加在一个日志上,代理用代码搜索. 97.4%在ARC-AGI-3(arXiv:2607.20064)上 <sub>⭐ 456 · Python</sub>
+- [ximinng/SVGDreamer](https://github.com/ximinng/SVGDreamer) - (CVPR 2024) "SVGDreamer:文本引导的SVG 以扩散模式生成"的官方实施 https://arxiv.org/abs/2312.16476 <sub>⭐ 453 · Python</sub>
+- [nelson1425/EfficientAD](https://github.com/nelson1425/EfficientAD) - e. 非正式地实施 " 高效发展 " https://arxiv.org/abs/2303.14535 <sub>⭐ 452 · Python</sub>
+- [Rubics-Xuan/TransBTS](https://github.com/Rubics-Xuan/TransBTS) - 这份Repo提供了以下内容的官方代码:1) TransBTS:多模式脑肿瘤分解使用变形器(https://arxiv.org/abs/2103.0430),被MICCAI2021.2接受: TransBTSV2:朝...... <sub>⭐ 452 · Python</sub>
+- [ximinng/SVGDreamerV2](https://github.com/ximinng/SVGDreamerV2) - (T-PAMI 2025) "SVGDreamer++:在文本引导的SVG生成中推进可编辑性和多样性"的官方实施 https://arxiv.org/abs/2411.17832. <sub>⭐ 452</sub>
+- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - 一种非常定制的用于ARXIV准备的ML/AI审查文件的代理套件(以及超出范围),它通过一个有门的LaTeX工作流程驱动像Codex CLI和Claude Code这样的代理AI,并经过验证的BibTeX... <sub>⭐ 449 · TeX</sub>
+- [titu1994/neural-architecture-search](https://github.com/titu1994/neural-architecture-search) - 基本实施神经结构搜索与强化学习. <sub>⭐ 446 · Python</sub>
+- [landskape-ai/triplet-attention](https://github.com/landskape-ai/triplet-attention) - 官方PyTorch执行"旋转到登场:革命三重奏关注模块"(WACV2021). <sub>⭐ 443 · Jupyter Notebook</sub>
+- [chi2liu/ABC-GRPO](https://github.com/chi2liu/ABC-GRPO) - 全方位板边框剪切 GRPO. arxiv.org/pdf/2601.03895 密码 <sub>⭐ 442 · Python</sub>
+- [UditAkhourii/neuroarxiv](https://github.com/UditAkhourii/neuroarxiv) - 一种从scratch编码中杀死的技能——克劳德在设计新架构之前先检查真正的arXiv前身的艺术. <sub>⭐ 433 · TypeScript</sub>
+- [Koukyosyumei/AIJack](https://github.com/Koukyosyumei/AIJack) - 机器学习安全和隐私风险模拟器(arXiv:2312.17667) <sub>⭐ 429 · C++</sub>
+- [X-Omni-Team/X-Omni](https://github.com/X-Omni-Team/X-Omni) - 我们的文件X-Omni的官方推论代码和LongText-Bench基准(https://arxiv.org/pdf/2507.22058)。 <sub>⭐ 428 · Python</sub>
+- [nicholaslocascio/deep-regex](https://github.com/nicholaslocascio/deep-regex) - 论文"神经生成来自自然语言的常规表达方式与最小域知识(EMNLP 2016)"的代码. http://arxiv.org/abs/1608.03000 <sub>⭐ 427 · Python</sub>
+- [TencentARC/WorldCrafter](https://github.com/TencentARC/WorldCrafter) - (Arxiv 2026) WorldCrafter:具有隐含3D-意识记忆的一致视频世界模型 <sub>⭐ 424 · Python</sub>
+- [roomylee/nlp-papers-with-arxiv](https://github.com/roomylee/nlp-papers-with-arxiv) - 与arXiv链接的NLP会议统计和公认文件清单 <sub>⭐ 423 · Jupyter Notebook</sub>
+- [thuml/Transolver](https://github.com/thuml/Transolver) - 关于"Transolver: General Geometries上的PDEs快速变形器溶液"的代码发布,ICML 2024 Spotlight. https://arxiv.org/abs/2402.02366 <sub>⭐ 416 · Python</sub>
+- [logangraham/arXausality](https://github.com/logangraham/arXausality) - 近年提交给ArXiv的每份因果加机器学习论文 <sub>⭐ 415 · Python</sub>
+- [baldassarreFe/deep-koalarization](https://github.com/baldassarreFe/deep-koalarization) - Keras/Tensorflow 使用深层CNN和Inception-ResNet-v2(https://arxiv.org/abs/1712.03400)执行我们的论文《灰度图像色彩化》 <sub>⭐ 414 · Python</sub>
+- [shekkizh/WassersteinGAN.tensorflow](https://github.com/shekkizh/WassersteinGAN.tensorflow) - (原始内容存档于2018-09-21). Tensorflow Expression of Wasserstein GAN - arxiv: https://arxiv.org/abs/1701.07875 互联网档案馆的存檔,存档日期2013-03-05. <sub>⭐ 412 · Python</sub>
+- [Srameo/LED](https://github.com/Srameo/LED) - (ICCV 2023) 点亮双对齐中的每件黑暗:RAW Denoising的校准-自由管道(Arxiv 2023) 制造显性校准隐含:校准Denoiser代替噪声模型_. <sub>⭐ 411 · Python</sub>
+- [muupan/async-rl](https://github.com/muupan/async-rl) - 复制"深化强化学习同步方法"(http://arxiv.org/abs/1602.01783). <sub>⭐ 408 · Python</sub>
+- [Atten4Vis/ConditionalDETR](https://github.com/Atten4Vis/ConditionalDETR) - 该寄存器是ICCV 2021文件"快速训练汇合条件DETR"的正式执行(https://arxiv.org/abs/2108.06152). <sub>⭐ 406 · Python</sub>
+- [CroitoruAlin/Diffusion-Models-in-Vision-A-Survey](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey) - 该资料库根据目标任务,对关于计算机视觉应用的传播模型的论文进行分类。 <sub>⭐ 405</sub>
+- [mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch 执行 CoordConv在“一个令人惊奇的革命神经网络和 CoordConv 解决方案失败”论文中介绍。 (https://arxiv.org/pdf/1807.03247.pdf) <sub>⭐ 403 · Python</sub>
+- [freshllms/freshqa](https://github.com/freshllms/freshqa) - FreshLLMs的数据和代码(https://arxiv.org/abs/2310.03214) <sub>⭐ 402 · Jupyter Notebook</sub>
+- [usnistgov/jarvis](https://github.com/usnistgov/jarvis) - 关于JARVIS-Tools:数据驱动的原子材料设计的开源软件包. 出版物 //scholar.google.com/引用?user=3w6ej94AAAJ... <sub>⭐ 402 · Python</sub>
+- [ilovepose/fast-human-pose-estimation.pytorch](https://github.com/ilovepose/fast-human-pose-estimation.pytorch) - 官方pytorch代码为CVPR2019论文"快人马大便估计" https://arxiv.org/abs/18111.05419 <sub>⭐ 399 · Cuda</sub>
+- [ML4ITS/mtad-gat-pytorch](https://github.com/ML4ITS/mtad-gat-pytorch) - PyTorch公司实施了MTAD-GAT(通过图注网络进行多变的时间线异常检测),作者是赵等人(2020年,https://arxiv.org/abs/2009.02040)。 <sub>⭐ 398 · Python</sub>
+- [cokeshao/Awesome-Multimodal-Token-Compression](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) - (TMLR 2026)调查 //arxiv.org/pdf/2507.20198 <sub>⭐ 397</sub>
+- [jiawei-ren/BalancedMSE](https://github.com/jiawei-ren/BalancedMSE) - (CVPR 2022口述) 平衡的MSE用于平衡视觉回归 https://arxiv.org/abs/2203.16427 <sub>⭐ 397 · Python</sub>
+- [OpenBMB/InfiniteBench](https://github.com/OpenBMB/InfiniteBench) - 论文" 本奇:超越100K托肯斯扩展长背景评价"的代码 //arxiv.org/abs/2402.13718 <sub>⭐ 393 · Python</sub>
+- [jasonwu0731/trade-dst](https://github.com/jasonwu0731/trade-dst) - 可转让对话框状态生成器的源代码(TRADE,Wu等人,2019年). https://arxiv.org/abs/1905.08743 <sub>⭐ 392 · Python</sub>
+- [armancohan/long-summarization](https://github.com/armancohan/long-summarization) - NAACL 2018论文"长篇文献摘要摘要的论述-警觉关注模式"的资源. <sub>⭐ 390 · Python</sub>
+- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - 官方实施arxiv论文"4K-NERF:超高分辨率的高菲德尔神经辐射场". <sub>⭐ 385 · Python</sub>
+- [maum-ai/hififace](https://github.com/maum-ai/hififace) - 非正式的PyTorch HifiFace执行(https://arxiv.org/abs/2106.0965) <sub>⭐ 383 · Python</sub>
+- [taesiri/ArXivQA](https://github.com/taesiri/ArXivQA) - WIP - 用大语言模型自动回答ArXiv文件的问题(https://arxiv.taesiri.xyz/) <sub>⭐ 381 · Python</sub>
+- [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - 概述AI(语义分解、医疗分解、REID、超解析、注册、CVPR、ECCV、ICCV、AAAI、MICCAI)中的纸张和代码 <sub>⭐ 377</sub>
+- [IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization](https://github.com/IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization) - Keras)执行由Myronenko A.(https://arxiv.org/abs/1810.11654)撰写的论文"3D磁共振脑瘤分解使用自编码器规范化". <sub>⭐ 376 · Jupyter Notebook</sub>
+- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - 正式实施MCVD:为预测、生成和国际刑警组织而装订的有条件视频传播(https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
+- [gersteinlab/MedAgents](https://github.com/gersteinlab/MedAgents) - (ACL 2024 Research) MedAgents:作为零射医学理性合作者的大型语言模型 https://arxiv.org/abs/2311.10537 <sub>⭐ 370 · Python</sub>
+- [tts-tutorial/survey](https://github.com/tts-tutorial/survey) - 神经语音综合调查 https://arxiv.org/pdf/2106.15561.pdf. <sub>⭐ 370</sub>
+- [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) - PHP 快速、 有用和开源文档解析器 <sub>⭐ 363 · PHP</sub>
+- [yifanzhang-pro/deep-delta-learning](https://github.com/yifanzhang-pro/deep-delta-learning) - 深三角洲学习官方项目网页(https://arxiv.org/abs/2601.00417) <sub>⭐ 363 · Python</sub>
+- [longxiang-ai/awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) - 这个寄存器跟踪了来自Arxiv的3D Gaussian Splating的最新进展, 每日自动更新。 跟上这个激动人心的领域尖端研究! <sub>⭐ 358 · Python</sub>
+- [CRIPAC-DIG/GRACE](https://github.com/CRIPAC-DIG/GRACE) - (GRL+@ICML 2020) PyTorch执行"深图对比代表学习"(https://arxiv.org/abs/2006.04131v2). <sub>⭐ 357 · Python</sub>
+- [Lupin1998/Awesome-MIM](https://github.com/Lupin1998/Awesome-MIM) - (调查) 自我监督的代表身份学习模拟(https://arxiv.org/abs/2401.0897) <sub>⭐ 355 · Python</sub>
+- [SHI-Labs/Smooth-Diffusion](https://github.com/SHI-Labs/Smooth-Diffusion) - 平滑散射:在分散式模型arXiv 2023/CVPR 2024中手动平滑缓冲空间 <sub>⭐ 355 · Python</sub>
+- [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - 开源版本管理SaaS的PDF. <sub>⭐ 353 · PHP</sub>
+- [HUST-SLOW/MuSc-V2](https://github.com/HUST-SLOW/MuSc-V2) - (TPAMI2026) MuSc-V2:零湿度多式工业异常分类和分化,相互分解无标签样品。 <sub>⭐ 351 · Python</sub>
+- [truskovskiyk/nima.pytorch](https://github.com/truskovskiyk/nima.pytorch) - NIMA:神经影像评估. <sub>⭐ 351 · Python</sub>
+- [itijyou/ademxapp](https://github.com/itijyou/ademxapp) - https://arxiv.org/abs/1611.10080的编码 <sub>⭐ 344 · Python</sub>
+- [UKPLab/gpl](https://github.com/UKPLab/gpl) - 强力无监督域适应方法用于密集检索。 只需要无标签的元件, 并产生大规模改进 : "GPL: Generative Pseudo Labeling for Undered Domain Refected... <sub>⭐ 341 · Python</sub>
+- [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - 论文(https://arxiv.org/abs/2207.08208)中描述的SynDiff的官方PyTorch执行. <sub>⭐ 338 · Python</sub>
+- [thuml/Flowformer](https://github.com/thuml/Flowformer) - 关于"花前人:用保护流线化变形器"(ICML 2022)的代码发布,https://arxiv.org/pdf/2202.06258.pdf <sub>⭐ 335 · Python</sub>
+- [benstaf/FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) - 论文"FinRL-DeepSeek:LLM-Infused 风险感强化学习贸易代理"的代码 arXiv:2502.07393 <sub>⭐ 333 · Jupyter Notebook</sub>
+- [qianlim/CAPE](https://github.com/qianlim/CAPE) - 官方执行CVPR2020论文"学习穿普通服装的3D人"https://arxiv.org/abs/1907.13615 <sub>⭐ 332 · Python</sub>
+- [usnistgov/alignn](https://github.com/usnistgov/alignn) - 原子线图神经网络 https://scholar.google.com/ regions?user=9Q-tNnwAAY https://www.youtube.com/@dr_k_choudhary 互联网档案馆的存檔,存档日期2013-03-02. <sub>⭐ 332 · Python</sub>
+- [DeepGraphLearning/GearNet](https://github.com/DeepGraphLearning/GearNet) - GearNet和蛋白质结构代表性学习的几何预训方法,ICLR'2023(https://arxiv.org/abs/2203.06125) <sub>⭐ 331 · Python</sub>
+- [iduta/pyconv](https://github.com/iduta/pyconv) - 平潭革命:反思革命神经网络实现视觉识别(https://arxiv.org/pdf/2006.11538.pdf). <sub>⭐ 330 · Python</sub>
+- [YerevaNN/Dynamic-memory-networks-in-Theano](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano) - Kumar等人实施动态记忆网络 http://arxiv.org/abs/1506.07285 <sub>⭐ 330 · Python</sub>
+- [facebookresearch/LLM-QAT](https://github.com/facebookresearch/LLM-QAT) - 用于“LLM-QAT数据免费量化大语言模型知识培训”的文档代码重播 <sub>⭐ 327 · Python</sub>
+- [meta-prompting/meta-prompting](https://github.com/meta-prompting/meta-prompting) - 正式实施 " Meta Expressing for AI Systems " (https://arxiv.org/abs/2311.11482) <sub>⭐ 325 · Python</sub>
+- [jayelm/gisting](https://github.com/jayelm/gisting) - 学习用Gist Tokens压缩提示-https://arxiv.org/abs/2304.08467 <sub>⭐ 323 · Python</sub>
+- [rohithreddy024/Text-Summarizer-Pytorch](https://github.com/rohithreddy024/Text-Summarizer-Pytorch) - Pytorch 实施"一个深度强化的抽象总结模型"纸和指针生成器网络 <sub>⭐ 321 · Python</sub>
+- [manojpamk/pytorch_xvectors](https://github.com/manojpamk/pytorch_xvectors) - 深扬声器嵌入 PyTorch, 包括 x- vectors. 本作品使用的代码: https://arxiv.org/abs/ 2007.16196 <sub>⭐ 320 · Python</sub>
+- [bansky-cl/diffusion-nlp-paper-arxiv](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) - Axriv中自动获取扩散 nlp 纸。更多信息可在另一个寄存器“ Difmultion- LM- Papers” 中找到 。 <sub>⭐ 316 · Python</sub>
+- [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench) - ML-Bench:评价大型语言模型和机器学习任务代理人关于存储器-级码(https://arxiv.org/abs/2311.09835) <sub>⭐ 316 · Python</sub>
+- [yrcong/RelTR](https://github.com/yrcong/RelTR) - RelTR: 场景图形生成的对映变换器 //arxiv.org/abs/2201.11460v2 <sub>⭐ 314 · Python</sub>
+- [summarizepaper/summarizepaper](https://github.com/summarizepaper/summarizepaper) - 一个AI-power arXiv的论文总结网站,有一个回答问题的虚拟助手. <sub>⭐ 311 · Python</sub>
+- [WangQrkkk/PaperQuay](https://github.com/WangQrkkk/PaperQuay) - 用于PDF读取,翻译,纸质概览和AI代理工作流程的桌面第一文献管理器. <sub>⭐ 308 · TypeScript</sub>
+- [IllDepence/unarXive](https://github.com/IllDepence/unarXive) - 一套基于所有arXiv出版物的数据集,为NLP预处理,包括结构化的全文和引用网络 <sub>⭐ 302 · Python</sub>
+- [Alibaba-NLP/CHRONOS](https://github.com/Alibaba-NLP/CHRONOS) - NAACL 2025论文"揭开头条:为新闻检索和时间线总结而进行迭代自问"的回放. <sub>⭐ 297 · Python</sub>
+- [csebuetnlp/xl-sum](https://github.com/csebuetnlp/xl-sum) - 这个寄存器包含了在"研究协会关于......的结论"中发表的题为"XL-Sum:44种语言的大规模多语言摘要"的论文的代码,数据和模型. <sub>⭐ 279 · Python</sub>
+- [deep-symbolic-mathematics/LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR) - (ICLR 2025 Orlyn) 这是关于科学方程式发现和与大语言模型的符号回归的论文"LLM-SR"的官方回波 <sub>⭐ 275 · Python</sub>
+- [hxu296/nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLP动力,GPT-3启用了从PDF到JSON的ResumePlaser. <sub>⭐ 275 · Python</sub>
+- [chatclimate-ai/ParseStudio](https://github.com/chatclimate-ai/ParseStudio) - 用不同的解析器解析 pdf 的 python 包 <sub>⭐ 270 · Python</sub>
+- [lazyFrogLOL/llmdocparser](https://github.com/lazyFrogLOL/llmdocparser) - 用于解析PDF并使用LLMs分析其内容的软件包. <sub>⭐ 267 · Python</sub>
+- [jlegewie/beaver-zotero](https://github.com/jlegewie/beaver-zotero) - 住在Zotero的AI研究助理 <sub>⭐ 262 · TypeScript</sub>
+- [dialog-tools/reddit-research-mcp](https://github.com/dialog-tools/reddit-research-mcp) - 将Reddit的混乱转化为结构化的洞察力,并充分引用. MCP服务器用于竞争性分析,客户发现和市场研究. 0设置主机解答,语义搜索横跨... <sub>⭐ 253 · Python</sub>
+- [TIGER-AI-Lab/ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - 学者副驾驶:用准确的引用进行学术写作大语言模型培训(COLM 2025). <sub>⭐ 253 · Python</sub>
+- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1)名称:- Action BarSearchView 描述:- Actionbar 搜索视图. (2) 名称:- Adsfree Directory:-Admob 集成. (3) 名称:-Android DayDream Demo 描述:-日梦演示. (4) 名称... <sub>⭐ 252 · Java</sub>
 
 ## ✍️ 科研写作
 
 > 借助模型撰写论文、使用 LaTeX 和审校。
 
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job… <sub>⭐ 73.3k · JavaScript</sub>
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. <sub>⭐ 44.8k · Python</sub>
-- [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. <sub>⭐ 17.4k</sub>
-- [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date. If you do find a problem's SoTA result is out of date or… <sub>⭐ 8.9k</sub>
-- [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" <sub>⭐ 6.6k · Python</sub>
-- [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - A Canvas/SVG-based rich text editor <sub>⭐ 5.2k · TypeScript</sub>
-- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"" <sub>⭐ 4.0k · Python</sub>
-- [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model <sub>⭐ 3.6k · Python</sub>
-- [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code. <sub>⭐ 3.2k</sub>
-- [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code. <sub>⭐ 2.9k</sub>
-- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM Council — a Claude Code skill that runs your decisions through 5 AI advisors with peer review <sub>⭐ 2.3k</sub>
-- [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code <sub>⭐ 2.2k</sub>
-- [satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. <sub>⭐ 2.1k · Lua</sub>
-- [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. <sub>⭐ 1.8k</sub>
-- [msgi/nlp-journey](https://github.com/msgi/nlp-journey) - Documents, papers and codes related to Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine… <sub>⭐ 1.6k · Python</sub>
-- [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents" <sub>⭐ 1.6k · Python</sub>
-- [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - A collection of image to image papers with code (constantly updating) <sub>⭐ 1.1k</sub>
-- [budzianowski/multiwoz](https://github.com/budzianowski/multiwoz) - Source code for end-to-end dialogue model from the MultiWOZ paper (Budzianowski et al. 2018, EMNLP) <sub>⭐ 963 · Python</sub>
-- [zai-org/CogView2](https://github.com/zai-org/CogView2) - official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers" <sub>⭐ 950 · Python</sub>
-- [THUDM/P-tuning](https://github.com/THUDM/P-tuning) - A novel method to tune language models. Codes and datasets for paper GPT understands, too''. <sub>⭐ 939 · Python</sub>
-- [SkalskiP/top-cvpr-2025-papers](https://github.com/SkalskiP/top-cvpr-2025-papers) - About This repository is a curated collection of the most exciting and influential CVPR 2025 papers. (Paper + Code + Demo) <sub>⭐ 898 · Python</sub>
-- [devendrachaplot/Neural-SLAM](https://github.com/devendrachaplot/Neural-SLAM) - Pytorch code for ICLR-20 Paper "Learning to Explore using Active Neural SLAM" <sub>⭐ 852 · Python</sub>
-- [AntreasAntoniou/HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch. <sub>⭐ 826 · Python</sub>
-- [karpathy/lecun1989-repro](https://github.com/karpathy/lecun1989-repro) - Reproducing Yann LeCun 1989 paper "Backpropagation Applied to Handwritten Zip Code Recognition", to my knowledge the earliest real-world application of a neural net trained with backpropagation. <sub>⭐ 788 · Jupyter Notebook</sub>
-- [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) - Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on HappyCapy AI platform <sub>⭐ 775 · TeX</sub>
-- [irfanICMLL/structure_knowledge_distillation](https://github.com/irfanICMLL/structure_knowledge_distillation) - The official code for the paper 'Structured Knowledge Distillation for Semantic Segmentation'. (CVPR 2019 ORAL) and extension to other tasks. <sub>⭐ 739 · Python</sub>
-- [SkalskiP/top-cvpr-2024-papers](https://github.com/SkalskiP/top-cvpr-2024-papers) - This repository is a curated collection of the most exciting and influential CVPR 2024 papers. (Paper + Code + Demo) <sub>⭐ 736 · Python</sub>
-- [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity)… <sub>⭐ 724 · Python</sub>
-- [Rudrabha/Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis" <sub>⭐ 715 · Python</sub>
-- [thmoa/videoavatars](https://github.com/thmoa/videoavatars) - This repository contains code corresponding to the paper Video based reconstruction of 3D people models. <sub>⭐ 685 · Python</sub>
-- [DmitryRyumin/INTERSPEECH-2023-24-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers) - INTERSPEECH 2023-2024 Papers: A complete collection of influential and exciting research papers from the INTERSPEECH 2023-24 conference. Explore the latest advances in speech and language processing.… <sub>⭐ 684</sub>
-- [hit-computer/MTA-LSTM](https://github.com/hit-computer/MTA-LSTM) - The code and data of ijcai2018 paper <sub>⭐ 656 · Python</sub>
-- [SkalskiP/top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) - This repository is a curated collection of the most exciting and influential CVPR 2023 papers. (Paper + Code) <sub>⭐ 650 · Python</sub>
-- [microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer) - Research code for CVPR 2021 paper "End-to-End Human Pose and Mesh Reconstruction with Transformers" <sub>⭐ 647 · Python</sub>
-- [xuyige/BERT4doc-Classification](https://github.com/xuyige/BERT4doc-Classification) - Code and source for paper How to Fine-Tune BERT for Text Classification? <sub>⭐ 640 · Python</sub>
-- [hanlulong/econ-writing-skill](https://github.com/hanlulong/econ-writing-skill) - Agent Skill that transforms AI assistants into expert economics paper writers. Synthesizes 50+ guides by Cochrane, McCloskey, Shapiro, Head, Bellemare, Goldin, Kremer. Compatible with Claude Code and… <sub>⭐ 635 · Python</sub>
-- [QJHWC/PaperForge](https://github.com/QJHWC/PaperForge) - End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH… <sub>⭐ 631 · Python</sub>
-- [ganzhi-black/humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill) - AI skill for humanities thesis writing — from topic selection to publication. 8 academic databases, 21 review rules, anti-hallucination guardrails. 人文社科论文写作 AI Skill <sub>⭐ 617 · Python</sub>
-- [Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN) - This repository contains the codes for LipGAN. LipGAN was published as a part of the paper titled "Towards Automatic Face-to-Face Translation". <sub>⭐ 616 · Python</sub>
-- [YuChuang1205/PAL](https://github.com/YuChuang1205/PAL) - (Accepted by ICCV2025) Official code of the paper "From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision" <sub>⭐ 584 · Python</sub>
-- [jannerm/mbpo](https://github.com/jannerm/mbpo) - Code for the paper "When to Trust Your Model: Model-Based Policy Optimization" <sub>⭐ 562 · Python</sub>
-- [ZhaoZhibin/UDTL](https://github.com/ZhaoZhibin/UDTL) - Source codes for the paper "Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study" published in TIM <sub>⭐ 546 · Python</sub>
-- [spcl/QuaRot](https://github.com/spcl/QuaRot) - Code for Neurips24 paper: QuaRot, an end-to-end 4-bit inference of large language models. <sub>⭐ 534 · Python</sub>
-- [DmitryRyumin/ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) - ICASSP 2023-2024 Papers: A complete collection of influential and exciting research papers from the ICASSP 2023-24 conferences. Explore the latest advancements in acoustics, speech and signal… <sub>⭐ 525 · Python</sub>
-- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis <sub>⭐ 495 · Jupyter Notebook</sub>
-- [MobileLLM/AutoDroid](https://github.com/MobileLLM/AutoDroid) - Source code for the paper "Empowering LLM to use Smartphone for Intelligent Task Automation" <sub>⭐ 494 · Python</sub>
-- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-style paper audits. 5 skills for LaTeX, Typst & PDF.… <sub>⭐ 490 · Python</sub>
-- [Moonlit-Pages/AIGC-Detector-Rewriter-Skill](https://github.com/Moonlit-Pages/AIGC-Detector-Rewriter-Skill) - A conservative AIGC detector-informed thesis rewriting skill for English and Chinese academic writing. Supports Turnitin AI, CNKI AIGC, minimal-edit revision, protected academic elements… <sub>⭐ 489</sub>
-- [kohjingyu/fromage](https://github.com/kohjingyu/fromage) - Code and models for the ICML 2023 paper "Grounding Language Models to Images for Multimodal Inputs and Outputs". <sub>⭐ 482 · Jupyter Notebook</sub>
-- [antonior92/automatic-ecg-diagnosis](https://github.com/antonior92/automatic-ecg-diagnosis) - Scripts and modules for training and testing neural network for ECG automatic classification. Companion code to the paper "Automatic diagnosis of the 12-lead ECG using a deep neural network". <sub>⭐ 456 · Python</sub>
-- [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) - This is official repository of our paper "RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification". Codes include a two stage model to achieve drone detection and… <sub>⭐ 447 · Python</sub>
-- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code <sub>⭐ 443 · Shell</sub>
-- [DadaNanjesha/AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) - Transform AI-generated text into formal, human-like, and academic writing with ease, avoids AI detector! <sub>⭐ 433 · Python</sub>
-- [cfchen-duke/ProtoPNet](https://github.com/cfchen-duke/ProtoPNet) - This code package implements the prototypical part network (ProtoPNet) from the paper "This Looks Like That: Deep Learning for Interpretable Image Recognition" (to appear at NeurIPS 2019), by Chaofan… <sub>⭐ 423 · Python</sub>
-- [coder-duibai/Contrastive-Learning-Papers-Codes](https://github.com/coder-duibai/Contrastive-Learning-Papers-Codes) - A comprehensive list of Awesome Contrastive Learning Papers&Codes.Research include, but are not limited to: CV, NLP, Audio, Video, Multimodal, Graph, Language, etc. <sub>⭐ 407</sub>
-- [stephenturner/skill-deslop](https://github.com/stephenturner/skill-deslop) - De-AI-ify scientific writing <sub>⭐ 407</sub>
-- [Lei-Kun/End-to-end-DRL-for-FJSP](https://github.com/Lei-Kun/End-to-end-DRL-for-FJSP) - This is the official code of the publised paper 'A Multi-action Deep Reinforcement Learning Framework for Flexible Job-shop Scheduling Problem' <sub>⭐ 403 · Python</sub>
-- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform. <sub>⭐ 392 · Kotlin</sub>
-- [saccharomycetes/mllms_know](https://github.com/saccharomycetes/mllms_know) - (ICLR'25) Official code for the paper 'MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs' <sub>⭐ 389 · Python</sub>
-- [JohnGiorgi/DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR) - The corresponding code from our paper "DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations". Do not hesitate to open an issue if you run into any trouble! <sub>⭐ 376 · Python</sub>
-- [facebookresearch/HighResCanopyHeight](https://github.com/facebookresearch/HighResCanopyHeight) - This repository provides inference code to compute canopy height maps from aerial images, as described in the paper "Very high resolution canopy height maps from RGB imagery using self-supervised… <sub>⭐ 367 · Jupyter Notebook</sub>
-- [yangdongchao/Text-to-sound-Synthesis](https://github.com/yangdongchao/Text-to-sound-Synthesis) - The source code of our paper "Diffsound: discrete diffusion model for text-to-sound generation" <sub>⭐ 366 · Python</sub>
-- [OpenDCAI/OpenPrism](https://github.com/OpenDCAI/OpenPrism) - Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance <sub>⭐ 363 · TypeScript</sub>
-- [isteinbrecher/LaTeX2AI](https://github.com/isteinbrecher/LaTeX2AI) - LaTeX Plugin for Adobe Illustrator <sub>⭐ 353 · C++</sub>
-- [KKKSQJ/DeepLearning](https://github.com/KKKSQJ/DeepLearning) - A deep learning code base, mainly for paper replication, in the areas of image recognition, object detection, image segmentation, self-supervision, etc. Each project can be run independently, and… <sub>⭐ 351 · Python</sub>
-- [XanaduAI/quantum-neural-networks](https://github.com/XanaduAI/quantum-neural-networks) - This repository contains the source code used to produce the results presented in the paper "Continuous-variable quantum neural networks". Due to subsequent interface upgrades, these scripts will… <sub>⭐ 336 · Python</sub>
-- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) Official codes and datasets for ACM MM24 paper "Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models". <sub>⭐ 327 · Python</sub>
-- [lena-voita/the-story-of-heads](https://github.com/lena-voita/the-story-of-heads) - This is a repository with the code for the ACL 2019 paper "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned" and the ACL 2021 paper "Analyzing… <sub>⭐ 325 · Python</sub>
-- [slim1017/VaDE](https://github.com/slim1017/VaDE) - Python code for paper - Variational Deep Embedding : A Generative Approach to Clustering <sub>⭐ 314 · Python</sub>
-- [LMDHQ-0420/ResearchPilot-Skills](https://github.com/LMDHQ-0420/ResearchPilot-Skills) - Automated Academic Research Workflow Skill. From direction exploration, literature review, and idea development to experiment design, code implementation, and paper writing. <sub>⭐ 306 · Batchfile</sub>
-- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - Code used to generate synthetic scenes and bounding box annotations for object detection. This was used to generate data used in the Cut, Paste and Learn paper <sub>⭐ 300 · Python</sub>
-- [octree-labs/octree](https://github.com/octree-labs/octree) - Octree - Open Source AI LaTeX Editor <sub>⭐ 293 · TypeScript</sub>
-- [loeweX/Greedy_InfoMax](https://github.com/loeweX/Greedy_InfoMax) - Code for the paper: Putting An End to End-to-End: Gradient-Isolated Learning of Representations <sub>⭐ 291 · Python</sub>
-- [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push section-level edits back via Git. Compatible with Claude Desktop, Cursor… <sub>⭐ 291 · JavaScript</sub>
-- [wenhao728/awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) - Awesome diffusion Video-to-Video (V2V). A collection of paper on diffusion model-based video editing, aka. video-to-video (V2V) translation. And a video editing benchmark code. <sub>⭐ 291 · Python</sub>
-- [jacobjinkelly/easy-neural-ode](https://github.com/jacobjinkelly/easy-neural-ode) - Code for the paper "Learning Differential Equations that are Easy to Solve" <sub>⭐ 290 · Python</sub>
-- [lotchuazzz-crypto/papergraph-mcp](https://github.com/lotchuazzz-crypto/papergraph-mcp) - PaperGraph MCP turns math papers into evidence-grounded reading maps for AI agents: extract results, trace proof evidence, plan reading order, and review external dependencies without guessing. <sub>⭐ 282 · Python</sub>
-- [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - Code and Data artifact for NeurIPS 2023 paper - "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context". multispy is a lsp client library in Python intended to be used to… <sub>⭐ 280 · Python</sub>
-- [ARPeeketi/claude-resume-kit](https://github.com/ARPeeketi/claude-resume-kit) - Extract your papers once, generate tailored LaTeX resumes for every JD. Anti-fabrication controls, multi-perspective critique, AI fingerprint avoidance. <sub>⭐ 279 · TeX</sub>
-- [claws-lab/XLingEval](https://github.com/claws-lab/XLingEval) - Code and Resources for the paper, "Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries" <sub>⭐ 278 · Python</sub>
-- [baidut/BIMEF](https://github.com/baidut/BIMEF) - Code and data for the research paper "A Bio-Inspired Multi-Exposure Fusion Framework for Low-light Image Enhancement" (Submitted to IEEE Transactions on Cybernetics) <sub>⭐ 276 · MATLAB</sub>
-- [EvolvingLMMs-Lab/lmms-lab-writer](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer) - Agentic LaTeX Writer - Local-first editor for AI-assisted academic writing <sub>⭐ 275 · TypeScript</sub>
-- [Sleepychord/CogLTX](https://github.com/Sleepychord/CogLTX) - The source code of NeurIPS 2020 paper "CogLTX: Applying BERT to Long Texts" <sub>⭐ 273 · Python</sub>
-- [matsuikentaro1/humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) - A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally written. <sub>⭐ 271 · Python</sub>
-- [uber-research/learning-to-reweight-examples](https://github.com/uber-research/learning-to-reweight-examples) - Code for paper "Learning to Reweight Examples for Robust Deep Learning" <sub>⭐ 270 · Python</sub>
-- [DuncanZauss/Keypoint_Communities](https://github.com/DuncanZauss/Keypoint_Communities) - (ICCV '21) In this repository you find the code to our paper "Keypoint Communities". <sub>⭐ 266 · Python</sub>
-- [yunshenwuchuxun/latex-paper-skills](https://github.com/yunshenwuchuxun/latex-paper-skills) - A modular skill-based framework for writing, revising, and managing LaTeX academic papers with AI assistance. <sub>⭐ 264 · TeX</sub>
-- [opentikz/opentikz](https://github.com/opentikz/opentikz) - TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill <sub>⭐ 259 · TeX</sub>
-- [tzirakis/Multimodal-Emotion-Recognition](https://github.com/tzirakis/Multimodal-Emotion-Recognition) - This repository contains the code for the paper End-to-End Multimodal Emotion Recognition using Deep Neural Networks. <sub>⭐ 252 · Python</sub>
-- [microsoft/SwinBERT](https://github.com/microsoft/SwinBERT) - Research code for CVPR 2022 paper "SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning" <sub>⭐ 251 · Python</sub>
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - 开源AI求职代理和找工作者:扫描工作板,在申请前根据你的CV对每份工作打分1-5,裁剪一个方便ATS的简历和封面信,获得面试准备和一份工作. . <sub>⭐ 73.3k · JavaScript</sub>
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - 运行在您的机器上的求职。 AI 工作申请框架基于 Claude Code : 评价张贴, 裁剪 CV, 写封面信, 准备面试。 Fork it and owner it. <sub>⭐ 44.8k · Python</sub>
+- [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - ML Visuals 包含了数字和模板,您可以重新使用和自定义来改进您的科学写作. <sub>⭐ 17.4k</sub>
+- [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - 此寄存器为所有机器学习问题提供了最新( SOTA) 的结果。 我们尽力使该寄存器保持更新。 如果您确实发现一个问题的 SOTA 结果已经过时或... <sub>⭐ 8.9k</sub>
+- [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - “用统一的文本对文本变换器探索转移学习的限度”的纸张代码 <sub>⭐ 6.6k · Python</sub>
+- [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - 一个基于 Canvas/ SVG 的丰富文本编辑器 <sub>⭐ 5.2k · TypeScript</sub>
+- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - 论文官方执行:"带AlphaCodium的代码生成:从快速工程到流线工程". <sub>⭐ 4.0k · Python</sub>
+- [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - NExT-GPT:Any-to-Any Multimula Language Model 2024纸币的代码和模型 <sub>⭐ 3.6k · Python</sub>
+- [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - 在发布日期前,AI(2022年)最新突破的解析列表附有清晰的视频解释,链接到更深入的文章,以及代码. <sub>⭐ 3.2k</sub>
+- [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - 在发布日期前,AI(2021年)最新突破的曲解列表附有清晰的视频解释,链接到更深入的文章,以及代码. <sub>⭐ 2.9k</sub>
+- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM理事会——一个Claude Code技能,通过5名AI顾问进行同行评审来完成你的决定 <sub>⭐ 2.3k</sub>
+- [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - 在发布日期之前,AI最新突破的整理清单附有清晰的视频解释,链接到更深入的文章和代码. <sub>⭐ 2.2k</sub>
+- [satoshiiizuka/siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - “让有颜色! ” 的纸张代码: 全球和本地图像前身联合端到端学习,用于自动图像色彩化,同时进行分类。 <sub>⭐ 2.1k · Lua</sub>
+- [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - 从论文和赠款建议(NSF/NIH)中脱去AI写作,同时保留学术声音,并将诉求与证据挂钩。 克劳德·科德、科德克斯和莫菲明德的技巧。 <sub>⭐ 1.8k</sub>
+- [msgi/nlp-journey](https://github.com/msgi/nlp-journey) - 与自然语言处理相关的文件,论文和代码,包括主题模型,文字嵌入,命名实体识别,文本经典图案,文本生成,文本相似性,机器... <sub>⭐ 1.6k · Python</sub>
+- [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - 此寄存器包含 CascadeTabNet 文件“ CascadeTabNet: 结束从图像文档中检测和结构识别的方法” 的代码和执行细节 <sub>⭐ 1.6k · Python</sub>
+- [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 图像到有代码的图像文件集( 不断更新) <sub>⭐ 1.1k</sub>
+- [budzianowski/multiwoz](https://github.com/budzianowski/multiwoz) - 来自多WOZ文件的端对端对话模式的源代码(Budzianowski等人,2018年,EMNLP) <sub>⭐ 963 · Python</sub>
+- [zai-org/CogView2](https://github.com/zai-org/CogView2) - 官方代码 Repo for paper "CogView2:通过等级变换器更快更好的文本到图像生成" <sub>⭐ 950 · Python</sub>
+- [THUDM/P-tuning](https://github.com/THUDM/P-tuning) - 调谐语言模型的一种新颖方法。 纸张 GPT 的代码和数据集也能理解' 。 <sub>⭐ 939 · Python</sub>
+- [SkalskiP/top-cvpr-2025-papers](https://github.com/SkalskiP/top-cvpr-2025-papers) - 关于这个寄存器,是收藏了最激动人心和最具影响力的CVPR 2025论文. (Paper + Code + Demo). <sub>⭐ 898 · Python</sub>
+- [devendrachaplot/Neural-SLAM](https://github.com/devendrachaplot/Neural-SLAM) - ICLR-20纸的 Pytorch 代码 "学习用活性神经SLAM来探索" <sub>⭐ 852 · Python</sub>
+- [AntreasAntoniou/HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - 论文"如何训练你的MAML"的原始代码,以及Pytorch中原版"Model Agnostic Meta Learning"(MAML)的复制文件. <sub>⭐ 826 · Python</sub>
+- [karpathy/lecun1989-repro](https://github.com/karpathy/lecun1989-repro) - 转载Yann LeCun 1989年的论文"手写Zip码识别应用软件",据我所知,最早真实世界应用了经过反传播训练的神经网. <sub>⭐ 788 · Jupyter Notebook</sub>
+- [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) - Claude Code的通用LaTeX文档技能:27个模板,27个脚本,26个参考指南. Made with Claude Code on HappyCapy AI平台 <sub>⭐ 775 · TeX</sub>
+- [irfanICMLL/structure_knowledge_distillation](https://github.com/irfanICMLL/structure_knowledge_distillation) - 论文"语义分裂的固化知识分解"(CVPR 2019 ORAL)的官方代码,并扩展至其他任务. <sub>⭐ 739 · Python</sub>
+- [SkalskiP/top-cvpr-2024-papers](https://github.com/SkalskiP/top-cvpr-2024-papers) - 这个寄存器是收藏了最激动人心和最具影响力的CVPR 2024论文. (Paper + Code + Demo). <sub>⭐ 736 · Python</sub>
+- [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - 此寄存器包含论文"AtlasNet: A Papier-Mâché 方法学习3D Surface Generation"的源代码. 该网络能够合成网格(点云+连通性)... <sub>⭐ 724 · Python</sub>
+- [Rudrabha/Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - 这是包含我们2020年 CVPR 的代码的寄存器,题为“学习个人说话风格,准确的唇到语音合成” <sub>⭐ 715 · Python</sub>
+- [thmoa/videoavatars](https://github.com/thmoa/videoavatars) - 这个寄存器包含了与基于纸质视频的3D人模型重建对应的代码. <sub>⭐ 685 · Python</sub>
+- [DmitryRyumin/INTERSPEECH-2023-24-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers) - INTERSPECH 2023-2024 Papers: 2023–2024年INTERSPEECH大会上具有影响力和激动人心的研究论文的完整集. 探索语音和语言处理的最新进展. . <sub>⭐ 684</sub>
+- [hit-computer/MTA-LSTM](https://github.com/hit-computer/MTA-LSTM) - ijcai2018纸的代码和数据 <sub>⭐ 656 · Python</sub>
+- [SkalskiP/top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) - 这个寄存器是收藏了最激动人心,最具影响力的CVPR 2023论文. (Paper + Code) <sub>⭐ 650 · Python</sub>
+- [microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer) - CVPR 2021论文"用变形器进行人类的尾巴和网状重建"的研究代码. <sub>⭐ 647 · Python</sub>
+- [xuyige/BERT4doc-Classification](https://github.com/xuyige/BERT4doc-Classification) - 纸张的代码和来源 如何精细的BERT 对于文本分类? <sub>⭐ 640 · Python</sub>
+- [hanlulong/econ-writing-skill](https://github.com/hanlulong/econ-writing-skill) - 将AI助理转换为专家经济学论文作者的代理技能. 合成由Cochrane, McCloskey, Shapiro, Head, Bellemare, Goldin, Kremer 编写的50+指南. 兼容克劳德代码和... <sub>⭐ 635 · Python</sub>
+- [QJHWC/PaperForge](https://github.com/QJHWC/PaperForge) - 端到端的AI动力学术纸写作系统——从想法生成和文献搜索到实验执行,结果回填,以及LaTeX纸张编译. 支持多LLM路由,SSH... <sub>⭐ 631 · Python</sub>
+- [ganzhi-black/humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill) - 人文科学论文的AI技能——从专题选择到出版. 8个学术数据库,21个评论规则,防卤化护栏. XQAI Skill <sub>⭐ 617 · Python</sub>
+- [Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN) - 这个寄存器包含了LipGAN的代码. LipGAN作为题为"走向自动面对面翻译"的论文的一部分出版. <sub>⭐ 616 · Python</sub>
+- [YuChuang1205/PAL](https://github.com/YuChuang1205/PAL) - (ICCV2025接受) 论文"从易到难:红外线小目标检测与单一点监督的渐进式积极学习框架"官方代码 <sub>⭐ 584 · Python</sub>
+- [jannerm/mbpo](https://github.com/jannerm/mbpo) - "何时相信你的模型:基于模型的政策优化"论文的代码 <sub>⭐ 562 · Python</sub>
+- [ZhaoZhibin/UDTL](https://github.com/ZhaoZhibin/UDTL) - TIM中发表的论文"无监督的深层转移学习对智能断层诊断的应用:调查与比较研究"的源代码 <sub>⭐ 546 · Python</sub>
+- [spcl/QuaRot](https://github.com/spcl/QuaRot) - Neurips24纸的代码:QuaRot,大语言模型的端到端4位推论. <sub>⭐ 534 · Python</sub>
+- [DmitryRyumin/ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) - ICASSP 2023-2024文件:完整收集了ICASSP 2023-24会议中具有影响力和激动人心的研究论文. 探索声学,语音和信号的最新进展. ...... <sub>⭐ 525 · Python</sub>
+- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - 医疗传播:这个寄存器包含了我们论文的代码 医疗传播:3D医疗图像合成的消毒扩散概率模型 <sub>⭐ 495 · Jupyter Notebook</sub>
+- [MobileLLM/AutoDroid](https://github.com/MobileLLM/AutoDroid) - 用于“增强LLM能力,使智能任务自动化使用智能手机”的论文的源代码 <sub>⭐ 494 · Python</sub>
+- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) - 学术论文的AI动力写后工具包——格式验证,语法/风格抛光,de-AI编辑,参考检查,以及评论员风格的纸质审计. LaTeX,Typst & PDF的5个技能. . <sub>⭐ 490 · Python</sub>
+- [Moonlit-Pages/AIGC-Detector-Rewriter-Skill](https://github.com/Moonlit-Pages/AIGC-Detector-Rewriter-Skill) - 保守的AIGC探测器知情论文重写英语和中文学术著作技能,支持Turnitin AI,CNKI AIGC,最小版修订,保护学术元素. . <sub>⭐ 489</sub>
+- [kohjingyu/fromage](https://github.com/kohjingyu/fromage) - ICML 2023论文"将语言模型向图像的组合用于多式联运输入和产出"的代码和模型. <sub>⭐ 482 · Jupyter Notebook</sub>
+- [antonior92/automatic-ecg-diagnosis](https://github.com/antonior92/automatic-ecg-diagnosis) - 用于ECG自动分类的培训和测试神经网络的脚本和模块. Companion代码为论文"12铅ECG使用深神经网络的自动诊断". <sub>⭐ 456 · Python</sub>
+- [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) - 这是官方存放我们的论文"RFUAV:无人驾驶飞行器探测和识别的基准数据集". 代码包括一个实现无人机探测的两级模型以及. <sub>⭐ 447 · Python</sub>
+- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim 配置在 LaTeX 中被优化为写作,并配有 Avante, Lectic 和 Claude-Code 的 AI 集成 <sub>⭐ 443 · Shell</sub>
+- [DadaNanjesha/AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) - 将AI生成的文本易如反掌地转化为形式化,人性化,学术化写作,避免AI探测器! <sub>⭐ 433 · Python</sub>
+- [cfchen-duke/ProtoPNet](https://github.com/cfchen-duke/ProtoPNet) - 此代码包执行原型部分网络(ProtoPNet),来自论文"This Looks like that: Deep Learning for Explainable Image Conference"(将出现在NeurIPS 2019),作者Chaofan....... <sub>⭐ 423 · Python</sub>
+- [coder-duibai/Contrastive-Learning-Papers-Codes](https://github.com/coder-duibai/Contrastive-Learning-Papers-Codes) - 综合列表 Supercontrastic Learning Papers & Codes. Research包括但不限于: CV, NLP, Audio, Video, Multime, Graph, Language等. <sub>⭐ 407</sub>
+- [stephenturner/skill-deslop](https://github.com/stephenturner/skill-deslop) - 取消对科学著作的校正 <sub>⭐ 407</sub>
+- [Lei-Kun/End-to-end-DRL-for-FJSP](https://github.com/Lei-Kun/End-to-end-DRL-for-FJSP) - 这是“灵活就业商店日程安排问题多行动深度强化学习框架”文件的官方代码。 <sub>⭐ 403 · Python</sub>
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-动力Markdown 备注板用Compose多平台构建. <sub>⭐ 392 · Kotlin</sub>
+- [saccharomycetes/mllms_know](https://github.com/saccharomycetes/mllms_know) - (ICLR'25) 文档“ MLLMs 知向何处:无训练感知小视觉细节与多式联运 LLMS”的官方代码 <sub>⭐ 389 · Python</sub>
+- [JohnGiorgi/DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR) - 我们的论文"DECLUTR:为无监督的文字表现进行深度矛盾学习"中对应的代码,如果遇到任何麻烦,请毫不犹豫地打开一个问题! <sub>⭐ 376 · Python</sub>
+- [facebookresearch/HighResCanopyHeight](https://github.com/facebookresearch/HighResCanopyHeight) - 这个寄存器提供推论代码,从航空图像中计算树冠高度图,如论文"使用自我监督的RGB图像产生的甚高分辨率树冠高度图...... <sub>⭐ 367 · Jupyter Notebook</sub>
+- [yangdongchao/Text-to-sound-Synthesis](https://github.com/yangdongchao/Text-to-sound-Synthesis) - 我们的论文"Diffsound:用于文本到音频生成的离散扩散模型"的源代码 <sub>⭐ 366 · Python</sub>
+- [OpenDCAI/OpenPrism](https://github.com/OpenDCAI/OpenPrism) - 开源执行由OpenAI Prism启发的AI动力学术写作工作空间,主要内容包括LaTeX编辑,PDF预览和智能AI协助 <sub>⭐ 363 · TypeScript</sub>
+- [isteinbrecher/LaTeX2AI](https://github.com/isteinbrecher/LaTeX2AI) - Adobe Illustrator 的 LaTeX 插件 <sub>⭐ 353 · C++</sub>
+- [KKKSQJ/DeepLearning](https://github.com/KKKSQJ/DeepLearning) - 在图像识别,对象检测,图像分割,自导自演等领域,一个深层学习代码基础,主要用于纸张复制,每个项目都可以独立运行,并且. <sub>⭐ 351 · Python</sub>
+- [XanaduAI/quantum-neural-networks](https://github.com/XanaduAI/quantum-neural-networks) - 这个寄存器包含用于产生论文"持续-可变量子神经网络"中提出的结果的源代码. 由于随后的界面升级,这些脚本将... <sub>⭐ 336 · Python</sub>
+- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) ACM MM24纸"Hi3D:追求高分辨率图像到3D生成与视频扩散模型"的官方代码和数据集. <sub>⭐ 327 · Python</sub>
+- [lena-voita/the-story-of-heads](https://github.com/lena-voita/the-story-of-heads) - 这是一个存储器,其中包含ACL 2019年论文"分析多头自留:专门头部做重举,休息罐被刷"和ACL 2021年论文"分析...... <sub>⭐ 325 · Python</sub>
+- [slim1017/VaDE](https://github.com/slim1017/VaDE) - 纸张的 Python 代码 - 变异深层嵌入: 组合的基因方法 <sub>⭐ 314 · Python</sub>
+- [LMDHQ-0420/ResearchPilot-Skills](https://github.com/LMDHQ-0420/ResearchPilot-Skills) - 自动化学术研究工作流程技能 从方向探索,文献审查和思想开发到实验设计,代码执行,以及纸质写作. <sub>⭐ 306 · Batchfile</sub>
+- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - 代码用于生成合成场景和用于对象检测的边框说明。此代码被用于生成剪切、粘贴和学习纸张中使用的数据 <sub>⭐ 300 · Python</sub>
+- [octree-labs/octree](https://github.com/octree-labs/octree) - Octree - 开源 AI LaTeX 编辑器 <sub>⭐ 293 · TypeScript</sub>
+- [loeweX/Greedy_InfoMax](https://github.com/loeweX/Greedy_InfoMax) - 论文代码:将结束到结束: 代表式的渐进-孤立学习 <sub>⭐ 291 · Python</sub>
+- [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - 模式上下文协议(MCP)服务器,允许AI助手阅读Overleaf项目,解析LaTeX文档结构,并通过Git将节级编辑推回. Compatibility with Claude Desktop, Cursor... <sub>⭐ 291 · JavaScript</sub>
+- [wenhao728/awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) - 优异传播视频到视频(V2V). 有关传播模型视频编辑的论文集,aka. video到视频(V2V)译本和视频编辑基准代码. <sub>⭐ 291 · Python</sub>
+- [jacobjinkelly/easy-neural-ode](https://github.com/jacobjinkelly/easy-neural-ode) - 论文“ 学习易于解决的不同方程式” 的代码 <sub>⭐ 290 · Python</sub>
+- [lotchuazzz-crypto/papergraph-mcp](https://github.com/lotchuazzz-crypto/papergraph-mcp) - PaperGraph MCP将数学论文转化为AI代理的循证读取地图:提取结果,痕量证明证据,计划阅读顺序,在没有猜测的情况下审查外部依赖性. <sub>⭐ 282 · Python</sub>
+- [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - NeurIPS 2023纸的代码和数据文物——"监控-引导代码LMs的解码与存储背景的静态分析". 多spy是Python的一个ISp客户端库,意在用于. <sub>⭐ 280 · Python</sub>
+- [ARPeeketi/claude-resume-kit](https://github.com/ARPeeketi/claude-resume-kit) - 提取你的论文一次,生成定制的 LaTeX 简历,用于每个JD. 反制造控制,多视角批评,AI指纹避讳. <sub>⭐ 279 · TeX</sub>
+- [claws-lab/XLingEval](https://github.com/claws-lab/XLingEval) - 论文的代码与资源,"最好用英语提问:大语言模型的跨语言评价为保健查询". <sub>⭐ 278 · Python</sub>
+- [baidut/BIMEF](https://github.com/baidut/BIMEF) - 研究论文"低光影像增强的生物启发多曝光融合框架"的代码和数据(收录于IEEE交易网易). <sub>⭐ 276 · MATLAB</sub>
+- [EvolvingLMMs-Lab/lmms-lab-writer](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer) - 代理 LaTeX Writer - AI 辅助学术写作的本地第一编辑器 <sub>⭐ 275 · TypeScript</sub>
+- [Sleepychord/CogLTX](https://github.com/Sleepychord/CogLTX) - NeurIPS 2020纸的源代码"CogLTX:应用BERT对长文本" <sub>⭐ 273 · Python</sub>
+- [matsuikentaro1/humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) - 一种克劳德密码技能,它从学术医学论文中去除AI生成的写作痕迹,使其听起来更自然,更专业. <sub>⭐ 271 · Python</sub>
+- [uber-research/learning-to-reweight-examples](https://github.com/uber-research/learning-to-reweight-examples) - 纸张“学习以重新加权实例,促进强健的深层学习”的代码 <sub>⭐ 270 · Python</sub>
+- [DuncanZauss/Keypoint_Communities](https://github.com/DuncanZauss/Keypoint_Communities) - (ICCV '21) 您可以在这个寄存器中找到我们的文件“ 关键点社区” 的代码 。 <sub>⭐ 266 · Python</sub>
+- [yunshenwuchuxun/latex-paper-skills](https://github.com/yunshenwuchuxun/latex-paper-skills) - 在AI的协助下,为编写、修订和管理LaTeX学术论文而建立一个基于技能的模块化框架。 <sub>⭐ 264 · TeX</sub>
+- [opentikz/opentikz](https://github.com/opentikz/opentikz) - TikZ 用于纸质图表,不使用手写 TikZ — 可复制图标、可编辑模板和克劳德代码技能 <sub>⭐ 259 · TeX</sub>
+- [tzirakis/Multimodal-Emotion-Recognition](https://github.com/tzirakis/Multimodal-Emotion-Recognition) - 这个寄存器包含纸端到末端多模式情感识别的代码,使用深神经网络. <sub>⭐ 252 · Python</sub>
+- [microsoft/SwinBERT](https://github.com/microsoft/SwinBERT) - CVPR 2022论文"SwinBERT:带sparse注意力的端到端变形器用于视频字幕"的研究代码. <sub>⭐ 251 · Python</sub>
 
 ## 🧬 AI for Science
 
 > 应用于生物、化学、物理和材料领域的模型。
 
-- [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work. <sub>⭐ 10.1k · Python</sub>
-- [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) - All course materials for the Zero to Mastery Machine Learning and Data Science course. <sub>⭐ 7.1k · Jupyter Notebook</sub>
+- [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - 一个逻辑的,合理标准化的,但灵活的项目结构,用于从事和分享数据科学工作. <sub>⭐ 10.1k · Python</sub>
+- [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) - 零至掌握机学习和数据科学课程的所有教材. <sub>⭐ 7.1k · Jupyter Notebook</sub>
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - 药品发现、量子化学、材料科学和生物学的深入学习民主化 <sub>⭐ 7.0k · Python</sub>
-- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning <sub>⭐ 5.0k · Python</sub>
-- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning and physics-informed learning <sub>⭐ 4.4k · Python</sub>
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - 纸张2Code:机器学习中科学论文的自动代码生成 <sub>⭐ 5.0k · Python</sub>
+- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - 科学机器学习和物理知识学习图书馆 <sub>⭐ 4.4k · Python</sub>
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) - Python 机器学习和数据科学调试、监测和可视化 <sub>⭐ 3.5k · Jupyter Notebook</sub>
-- [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential… <sub>⭐ 3.2k · Julia</sub>
-- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. <sub>⭐ 2.5k</sub>
-- [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS) - A Python toolkit/library for reality-centric machine/deep learning & data mining on partially-observed time series, with 50+ SOTA neural network models for scientific analysis tasks (imputation… <sub>⭐ 2.1k · Python</sub>
-- [SciML/SciMLBook](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications (MIT 18.337J/6.338J) <sub>⭐ 2.0k · HTML</sub>
-- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond. <sub>⭐ 2.0k</sub>
-- [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmaps, Interview Prep. For beginners and experts. <sub>⭐ 2.0k</sub>
-- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and… <sub>⭐ 1.7k · Julia</sub>
-- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc. <sub>⭐ 1.6k</sub>
-- [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - A powerful and flexible machine learning platform for drug discovery <sub>⭐ 1.6k · Python</sub>
-- [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation <sub>⭐ 1.2k · Julia</sub>
-- [pdebench/PDEBench](https://github.com/pdebench/PDEBench) - PDEBench: An Extensive Benchmark for Scientific Machine Learning <sub>⭐ 1.2k · Python</sub>
-- [kexinhuang12345/DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A Deep Learning Toolkit for DTI, Drug Property, PPI, DDI, Protein Function Prediction (Bioinformatics) <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [bishwaghimire/ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps) - A complete, structured hub for learning Artificial Intelligence — covering AI, Machine Learning, Deep Learning, and Data Science with books, roadmaps, and curated resources from beginner to advanced. <sub>⭐ 1.1k</sub>
-- [youssefHosni/Awesome-AI-Data-GitHub-Repos](https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos) - A collection of the most important Github repos for ML, AI & Data science practitioners <sub>⭐ 1.0k</sub>
-- [greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera) - Mathematics for Machine Learning and Data Science Specialization - Coursera - deeplearning.ai - solutions and notes <sub>⭐ 990 · Jupyter Notebook</sub>
-- [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Pre-built implicit layer architectures with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods <sub>⭐ 929 · Julia</sub>
-- [googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform) - A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning. <sub>⭐ 908 · Python</sub>
-- [Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization) - Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization where you’ll learn the fundamental mathematics toolkit of… <sub>⭐ 886 · Jupyter Notebook</sub>
-- [NVIDIA-BioNeMo/bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) - BioNeMo Recipes: For building and adapting AI models in drug discovery at scale <sub>⭐ 861 · Python</sub>
-- [labarba/sciwrite](https://github.com/labarba/sciwrite) - Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's "Writing in the Sciences" methodology. <sub>⭐ 848</sub>
-- [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) - Fin-R1 is a large language model for complex financial reasoning developed and open-sourced with the joint efforts of the SUFE-AIFLM-Lab at the School of Statistics and Data Science, Shanghai… <sub>⭐ 821</sub>
-- [GarethManning/education-agent-skills](https://github.com/GarethManning/education-agent-skills) - 165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum, assessment and regeneration. Claude, Codex and Hermes. <sub>⭐ 820 · TypeScript</sub>
-- [SciSharp/Numpy.NET](https://github.com/SciSharp/Numpy.NET) - C#/F# bindings for NumPy - a fundamental library for scientific computing, machine learning and AI <sub>⭐ 759 · C#</sub>
+- [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - 用于微分方程和科学机器学习(ScIML)组件的高性能解析器的多语言套件. 普通微分方程(ODE),stochtical difficience... <sub>⭐ 3.2k · Julia</sub>
+- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200+详细闪卡,可用于审查机器学习,计算机视觉,和计算机科学中的主题. <sub>⭐ 2.5k</sub>
+- [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS) - 一个Python工具包/文献,用于部分观察时间序列上的以现实为中心的机器/深度学习和数据挖掘,拥有50+SOTA神经网络模型,用于科学分析任务(imputation. <sub>⭐ 2.1k · Python</sub>
+- [SciML/SciMLBook](https://github.com/SciML/SciMLBook) - 并行计算和科学机器学习:方法和应用(MIT 18.337J/6.38J) <sub>⭐ 2.0k · HTML</sub>
+- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - 一份精心整理的列表,列出了从物理和化学到生物学,材料,以及其它各方面的惊人的AI工具,图书馆,论文,数据集,以及加速科学发现的框架. <sub>⭐ 2.0k</sub>
+- [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - 500+ 数据分析与数据科学的编译资源:Python,SQL,统计学,ML,AI,可视化,Cheetsheets,路线图,访谈准备,供初学者和专家使用. <sub>⭐ 2.0k</sub>
+- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - 朱莉娅自动平行科学机器学习的acaus模型化框架(SciML),用于物理知情机器学习和. <sub>⭐ 1.7k · Julia</sub>
+- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - 数据科学,数据工程,机器学习,深度学习,计算机科学,编程,软件工程等180+YouTube频道综合列表. <sub>⭐ 1.6k</sub>
+- [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - 一个强大而灵活的药物发现机器学习平台 <sub>⭐ 1.6k · Python</sub>
+- [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - 物理-成形神经网络(PINN) 科学机器学习(SciML)的异位方程加速模拟(Partial)溶解器 <sub>⭐ 1.2k · Julia</sub>
+- [pdebench/PDEBench](https://github.com/pdebench/PDEBench) - PDE Bench:科学机器学习的广泛基准 <sub>⭐ 1.2k · Python</sub>
+- [kexinhuang12345/DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - 用于DTI、药物属性、PPI、DDI、蛋白质功能预测(生物信息学)的深层学习工具包 <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [bishwaghimire/ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps) - 一个完整的,结构化的学习人工智能中心——涵盖AI,机器学习,深层学习,以及数据科学,并配有书籍,路线图,以及从初学者到高级的整理资源. <sub>⭐ 1.1k</sub>
+- [youssefHosni/Awesome-AI-Data-GitHub-Repos](https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos) - 为ML,AI & Data Sciences从业者收集了最重要的 Github repos <sub>⭐ 1.0k</sub>
+- [greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera) - 机器学习数学和数据科学专业 - Coursera - 深层学习.ai - 解决方案和说明 <sub>⭐ 990 · Jupyter Notebook</sub>
+- [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - 预建含 O(1) 背推式, GPUs, 以及僵硬+ 非 stiff DE 解析器的内含层架构, 演示科学机器学习( SciML) 和物理知情的机器学习方法 <sub>⭐ 929 · Julia</sub>
+- [googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform) - 一个用于Vertex AI的Python SDK,一个完全管理,端对端的数据科学和机器学习平台. <sub>⭐ 908 · Python</sub>
+- [Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization) - 人工智能和机器学习工具箱。机器学习和数据科学的数学是一个方便初学者的专业,在那里,你会学习基本的数学工具箱。 <sub>⭐ 886 · Jupyter Notebook</sub>
+- [NVIDIA-BioNeMo/bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) - BioNeMo Recipes:用于在药物发现中建立和改造AI模型 <sub>⭐ 861 · Python</sub>
+- [labarba/sciwrite](https://github.com/labarba/sciwrite) - 特务Skill为AI协助的手稿写作评论,基于Kristin Sainani博士的"写在科学中"方法. <sub>⭐ 848</sub>
+- [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) - Fin-R1是在上海统计与数据科学学院SUFE-AIFLM-Lab的共同努力下,开发并开放的复杂财务推理的大型语言模型. . <sub>⭐ 821</sub>
+- [GarethManning/education-agent-skills](https://github.com/GarethManning/education-agent-skills) - 165 教师、学校领导和EdTech建设者基于证据的人工智能技能——教育学、学习科学、课程、评估和再生。 <sub>⭐ 820 · TypeScript</sub>
+- [SciSharp/Numpy.NET](https://github.com/SciSharp/Numpy.NET) - NumPy的C#/F#绑定——科学计算、机器学习和AI的基础库 <sub>⭐ 759 · C#</sub>
 - [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) - Colab Notebook 涵盖生物分子结构预测和设计的深层学习工具 <sub>⭐ 729 · Jupyter Notebook</sub>
-- [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning… <sub>⭐ 692 · Julia</sub>
-- [business-science/free-ai-tips](https://github.com/business-science/free-ai-tips) - Free AI-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized Python AI for Business tutorials every week. Sign up here <sub>⭐ 650 · Python</sub>
-- [SciML/diffeqpy](https://github.com/SciML/diffeqpy) - Solving differential equations in Python using DifferentialEquations.jl and the SciML Scientific Machine Learning organization <sub>⭐ 612 · Python</sub>
-- [HannesStark/EquiBind](https://github.com/HannesStark/EquiBind) - EquiBind: geometric deep learning for fast predictions of the 3D structure in which a small molecule binds to a protein <sub>⭐ 550 · Python</sub>
-- [SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl) - Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software. <sub>⭐ 530 · Julia</sub>
-- [uqfoundation/mystic](https://github.com/uqfoundation/mystic) - constrained nonlinear optimization for scientific machine learning, UQ, and AI <sub>⭐ 492 · Python</sub>
-- [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) - A general, evolvable, and distributed agent framework & harness for data science. <sub>⭐ 488 · Python</sub>
-- [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes <sub>⭐ 468 · Perl</sub>
-- [rdk/p2rank](https://github.com/rdk/p2rank) - P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. <sub>⭐ 464 · Groovy</sub>
-- [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning applications. <sub>⭐ 462</sub>
-- [liyu95/Deep_learning_examples](https://github.com/liyu95/Deep_learning_examples) - Examples of using deep learning in Bioinformatics <sub>⭐ 456 · Jupyter Notebook</sub>
-- [PaddlePaddle/PaddleScience](https://github.com/PaddlePaddle/PaddleScience) - PaddleScience is SDK and library for developing AI-driven scientific computing applications based on PaddlePaddle. <sub>⭐ 451 · Python</sub>
-- [SciML/DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) - Data driven modeling and automated discovery of dynamical systems for the SciML Scientific Machine Learning organization <sub>⭐ 431 · Julia</sub>
-- [dellacortelab/prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction <sub>⭐ 415 · Python</sub>
-- [SciML/SciMLSensitivity.jl](https://github.com/SciML/SciMLSensitivity.jl) - A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs… <sub>⭐ 397 · Julia</sub>
-- [OmicsML/dance](https://github.com/OmicsML/dance) - DANCE: a deep learning library and benchmark platform for single-cell analysis <sub>⭐ 388 · Python</sub>
-- [SciML/Surrogates.jl](https://github.com/SciML/Surrogates.jl) - Surrogate modeling and optimization for scientific machine learning (SciML) <sub>⭐ 384 · Julia</sub>
-- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - A Collection of Awesome Large Weather Models (LWMs) / AI for Earth (AI4Earth) / AI for Science (AI4Science) <sub>⭐ 377</sub>
-- [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) - 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon. <sub>⭐ 368 · Python</sub>
-- [DSPsleeporg/smiles-transformer](https://github.com/DSPsleeporg/smiles-transformer) - Original implementation of the paper "SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery" by Shion Honda et al. <sub>⭐ 357 · Jupyter Notebook</sub>
-- [MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) - A curated collection of AI, data engineering, and DevOps projects featuring real-world applications, advanced techniques, and tutorials—ideal for learners and practitioners exploring data science and… <sub>⭐ 352 · Jupyter Notebook</sub>
-- [SciML/SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) - Scientific machine learning (SciML) benchmarks, AI for science, and (differential) equation solvers. Covers Julia, Python (PyTorch, Jax), MATLAB, R <sub>⭐ 346 · Julia</sub>
-- [sha256feng/mldl-md-dynamics](https://github.com/sha256feng/mldl-md-dynamics) - A repository of update in molecular dynamics field by recent progress in machine learning and deep learning. <sub>⭐ 345</sub>
-- [zrqiao/NeuralPLexer](https://github.com/zrqiao/NeuralPLexer) - NeuralPLexer: State-specific protein-ligand complex structure prediction with a multi-scale deep generative model <sub>⭐ 336 · Jupyter Notebook</sub>
-- [SciML/DiffEqDocs.jl](https://github.com/SciML/DiffEqDocs.jl) - Documentation for the DiffEq differential equations and scientific machine learning (SciML) ecosystem <sub>⭐ 330 · Julia</sub>
-- [SciML/DiffEqGPU.jl](https://github.com/SciML/DiffEqGPU.jl) - GPU-acceleration routines for DifferentialEquations.jl and the broader SciML scientific machine learning ecosystem <sub>⭐ 328 · Julia</sub>
-- [mitmath/18S096SciML](https://github.com/mitmath/18S096SciML) - 18.S096 - Applications of Scientific Machine Learning <sub>⭐ 316 · HTML</sub>
-- [JohnMwendwa/free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) - A curated collection of free, high-quality resources for learning about AI, including ML, deep learning, generative AI, natural language processing, data science, prompt engineering & AI ethics. It… <sub>⭐ 307</sub>
-- [aangelopoulos/ppi_py](https://github.com/aangelopoulos/ppi_py) - A package for statistically rigorous scientific discovery using machine learning. Implements prediction-powered inference. <sub>⭐ 301 · Python</sub>
-- [oracle-samples/oci-data-science-ai-samples](https://github.com/oracle-samples/oci-data-science-ai-samples) - This repo contains a series of tutorials and code examples highlighting different features of the OCI Data Science and AI services, along with a release vehicle for experimental programs. <sub>⭐ 300 · Jupyter Notebook</sub>
-- [adaptyvbio/ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) - Versatile computational pipeline for processing protein structure data for deep learning applications. <sub>⭐ 283 · Python</sub>
-- [aditya1702/Machine-Learning-and-Data-Science](https://github.com/aditya1702/Machine-Learning-and-Data-Science) - This is a repository which contains all my work related Machine Learning, AI and Data Science. This includes my graduate projects, machine learning competition codes, algorithm implementations and… <sub>⭐ 279 · Jupyter Notebook</sub>
-- [UsmanNiazi/365datascience](https://github.com/UsmanNiazi/365datascience) - This Repo Contains all the exercise files for Data Science Course of 365 Datascience . The repo is split into the relevant folders & there is one exercise folder which contains all the files of that… <sub>⭐ 276 · Jupyter Notebook</sub>
-- [shahadot786/complete-full-stack-roadmap](https://github.com/shahadot786/complete-full-stack-roadmap) - The Ultimate Learning Hub: Master Frontend, Backend, Mobile, DevOps, Data Science, AI/ML, and everything in between. Your one-stop repository for becoming a complete tech professional. <sub>⭐ 275</sub>
-- [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) - This repository is included artificial intelligence, machine learning, data science, computer vision projects related to healthcare. <sub>⭐ 274 · Jupyter Notebook</sub>
-- [PatWalters/resources_2025](https://github.com/PatWalters/resources_2025) - Machine Learning in Drug Discovery Resources 2024 <sub>⭐ 270</sub>
-- [openhackathons-org/End-to-End-AI-for-Science](https://github.com/openhackathons-org/End-to-End-AI-for-Science) - This repository containts materials for End-to-End AI for Science <sub>⭐ 263 · Jupyter Notebook</sub>
-- [EdCo95/scientific-paper-summarisation](https://github.com/EdCo95/scientific-paper-summarisation) - Machine learning models to automatically summarise scientific papers <sub>⭐ 261 · Python</sub>
-- [BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu) - Deep learning infrastructure for genomics <sub>⭐ 258 · Jupyter Notebook</sub>
+- [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) - 高性能的普通微分方程(ODE)和微分-代数方程(DAE)解析器,包括神经普通微分方程(Neural ODE)和科学机器学习. <sub>⭐ 692 · Julia</sub>
+- [business-science/free-ai-tips](https://github.com/business-science/free-ai-tips) - 免费AI-Tips是商业科学提供的FREE通讯,每周都会有比特大小的Python AI用于商业辅导。请在这里注册 。 <sub>⭐ 650 · Python</sub>
+- [SciML/diffeqpy](https://github.com/SciML/diffeqpy) - 使用diffectial Equauthors.jl和SciML科学机器学习组织在Python中解析微分方程 <sub>⭐ 612 · Python</sub>
+- [HannesStark/EquiBind](https://github.com/HannesStark/EquiBind) - EquiBind:用于快速预测小分子与蛋白质结合的3D结构的几何深层学习 <sub>⭐ 550 · Python</sub>
+- [SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl) - 用于科学机器学习的化学反应网络和系统生物学接口(SciML). 高性能,GPU平行,以及开源软件中的O(1)解析器. <sub>⭐ 530 · Julia</sub>
+- [uqfoundation/mystic](https://github.com/uqfoundation/mystic) - 科学机器学习、UQ和AI的受限非线性优化 <sub>⭐ 492 · Python</sub>
+- [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) - 用于数据科学的通用、可变和分布式代理框架和利用。 <sub>⭐ 488 · Python</sub>
+- [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - BRAKER是全自动预测蛋白质编码基因结构的管道,与GeneMark-ES/ET/EP/ETP和AUGUSTUS在新eukaryotic基因组中. <sub>⭐ 468 · Perl</sub>
+- [rdk/p2rank](https://github.com/rdk/p2rank) - P2Rank:基于机器学习的蛋白质结构的蛋白质-立方体结合点预测. <sub>⭐ 464 · Groovy</sub>
+- [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - 一个数据库,数据集和书籍/手书的列表,在这里可以找到机器学习应用的材料属性. <sub>⭐ 462</sub>
+- [liyu95/Deep_learning_examples](https://github.com/liyu95/Deep_learning_examples) - 利用生物信息学的深入学习实例 <sub>⭐ 456 · Jupyter Notebook</sub>
+- [PaddlePaddle/PaddleScience](https://github.com/PaddlePaddle/PaddleScience) - PaddleScience是用于开发基于PaddlePaddle的AI驱动科学计算应用的SDK和库. <sub>⭐ 451 · Python</sub>
+- [SciML/DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) - 为SciML科学机器学习组织进行数据驱动模型和动态系统的自动发现 <sub>⭐ 431 · Julia</sub>
+- [dellacortelab/prospr](https://github.com/dellacortelab/prospr) - ProSPr:蛋白质结构预测 <sub>⭐ 415 · Python</sub>
+- [SciML/SciMLSensitivity.jl](https://github.com/SciML/SciMLSensitivity.jl) - DiffEq生态系统的一个组成部分,用于科学机器学习的敏感度分析(SciML). 优化-时分解,盘点-时分解,联合方法,以及更多ODE. <sub>⭐ 397 · Julia</sub>
+- [OmicsML/dance](https://github.com/OmicsML/dance) - DANGE:一个深层学习库和单细胞分析的基准平台. <sub>⭐ 388 · Python</sub>
+- [SciML/Surrogates.jl](https://github.com/SciML/Surrogates.jl) - 科学机器学习的代理模型和优化(SciML) <sub>⭐ 384 · Julia</sub>
+- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - A College of Aweather LWMs / AI for Earth (AI4Earth) / AI for Science (AI4Science) 互联网档案馆的存檔,存档日期2011-09-02.. <sub>⭐ 377</sub>
+- [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) - 197 Claude Code 和 AI 代理的生物信息学与生命科学技能——Bix Bench 92.0%精度. RNA-seq,单细胞,药物发现,蛋白质组学等. Powers OmicsHorizon. <sub>⭐ 368 · Python</sub>
+- [DSPsleeporg/smiles-transformer](https://github.com/DSPsleeporg/smiles-transformer) - "SMILES变形器:低数据药物发现的预训练分子指纹"论文的原著执行,由Shion Honda et al. <sub>⭐ 357 · Jupyter Notebook</sub>
+- [MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) - 收集了AI、数据工程和DevOps项目,这些项目以现实世界的应用、先进技术和辅导为主,对探索数据科学的学习者和从业者具有理想意义,并且. <sub>⭐ 352 · Jupyter Notebook</sub>
+- [SciML/SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) - 科学机器学习(SciML)基准,科学的AI,以及(区别的)方程式解析器. Covers Julia, Python (PyTorch, Jax), MATLAB, R <sub>⭐ 346 · Julia</sub>
+- [sha256feng/mldl-md-dynamics](https://github.com/sha256feng/mldl-md-dynamics) - 由机器学习和深层学习的近代进展所构成的分子动力学领域更新库. <sub>⭐ 345</sub>
+- [zrqiao/NeuralPLexer](https://github.com/zrqiao/NeuralPLexer) - 神经PLexer:国家特异性蛋白质-韧带复合结构预测,多尺度深层基因模型 <sub>⭐ 336 · Jupyter Notebook</sub>
+- [SciML/DiffEqDocs.jl](https://github.com/SciML/DiffEqDocs.jl) - DiffEq微分方程和科学机器学习生态系统文件 <sub>⭐ 330 · Julia</sub>
+- [SciML/DiffEqGPU.jl](https://github.com/SciML/DiffEqGPU.jl) - GPU-加速程序用于差异方程式.jl和更广泛的SciML科学机器学习生态系统 <sub>⭐ 328 · Julia</sub>
+- [mitmath/18S096SciML](https://github.com/mitmath/18S096SciML) - 18.S096 - 科学机器学习的应用 <sub>⭐ 316 · HTML</sub>
+- [JohnMwendwa/free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) - 精密收集免费,高质量的人工智能学习资源,包括ML,深层学习,基因化人工智能,自然语言处理,数据科学,即时工程和人工智能伦理. . <sub>⭐ 307</sub>
+- [aangelopoulos/ppi_py](https://github.com/aangelopoulos/ppi_py) - 利用机器学习进行统计严格的科学发现的软件包。执行预测力推论。 <sub>⭐ 301 · Python</sub>
+- [oracle-samples/oci-data-science-ai-samples](https://github.com/oracle-samples/oci-data-science-ai-samples) - 这个repo包含一系列的教程和代码实例,强调OCI数据科学和AI服务的不同特征,以及用于实验程序的释放载体. <sub>⭐ 300 · Jupyter Notebook</sub>
+- [adaptyvbio/ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) - 用于处理深层学习应用的蛋白质结构数据的Versatile计算管道. <sub>⭐ 283 · Python</sub>
+- [aditya1702/Machine-Learning-and-Data-Science](https://github.com/aditya1702/Machine-Learning-and-Data-Science) - 这是一个存储库,包含我所有与机器学习,AI和数据科学有关的工作,包括我的研究生项目,机器学习竞赛代码,算法执行和. <sub>⭐ 279 · Jupyter Notebook</sub>
+- [UsmanNiazi/365datascience](https://github.com/UsmanNiazi/365datascience) - 此 Repo 包含全部用于365 Datascience 的数据科学课程的练习文件。 该 repo 被分割到相关的文件夹中( 有一个练习文件夹包含其中的所有文件) 。 <sub>⭐ 276 · Jupyter Notebook</sub>
+- [shahadot786/complete-full-stack-roadmap](https://github.com/shahadot786/complete-full-stack-roadmap) - 终极学习中心: 主前端,后端,移动,DevOps,数据科学,AI/ML,以及中间的所有东西。 您的一站式寄存器将成为一个完整的技术专业。 <sub>⭐ 275</sub>
+- [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) - 这个存储库包括人工智能,机器学习,数据科学,与保健有关的计算机视觉项目. <sub>⭐ 274 · Jupyter Notebook</sub>
+- [PatWalters/resources_2025](https://github.com/PatWalters/resources_2025) - 药物发现资源中的机器学习 2024年 <sub>⭐ 270</sub>
+- [openhackathons-org/End-to-End-AI-for-Science](https://github.com/openhackathons-org/End-to-End-AI-for-Science) - 该寄存器包含科学端到端AI的材料 <sub>⭐ 263 · Jupyter Notebook</sub>
+- [EdCo95/scientific-paper-summarisation](https://github.com/EdCo95/scientific-paper-summarisation) - 自动总结科学论文的机器学习模型 <sub>⭐ 261 · Python</sub>
+- [BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu) - 基因组学的深层学习基础设施 <sub>⭐ 258 · Jupyter Notebook</sub>
 
 ## 📊 数据、统计与可复现性
 
 > 分析、实验和可复现的工作流。
 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - PostHog是构建自驾产品的主要平台。 我们的开发者工具 — — AI可观察性、分析性、会话重播、旗帜、实验、错误跟踪、日志,以及更多 — — 捕捉所有... <sub>⭐ 40.1k · Python</sub>
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required. <sub>⭐ 24.4k · Python</sub>
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform <sub>⭐ 15.9k</sub>
-- [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course <sub>⭐ 11.0k · Jupyter Notebook</sub>
-- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio… <sub>⭐ 10.3k · Python</sub>
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere <sub>⭐ 9.7k · HTML</sub>
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs. <sub>⭐ 7.9k · Jupyter Notebook</sub>
-- [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine <sub>⭐ 6.4k · Java</sub>
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — An easy-to-use & supercharged open-source experiment tracker. <sub>⭐ 6.3k · Python</sub>
-- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high… <sub>⭐ 5.8k · Python</sub>
-- [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools. <sub>⭐ 4.9k · Python</sub>
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - An open source extension that connects AI agents to computational notebooks in JupyterLab. <sub>⭐ 4.4k · Python</sub>
-- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act conformity evidence, model validation, predictive maintenance, document… <sub>⭐ 4.0k · Python</sub>
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane <sub>⭐ 3.7k · MDX</sub>
-- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models. <sub>⭐ 3.7k · Jupyter Notebook</sub>
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents <sub>⭐ 3.6k · Python</sub>
-- [opengeos/geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data <sub>⭐ 3.4k · Python</sub>
+- [plotly/dash](https://github.com/plotly/dash) - Python 的数据 Apps & Dashboards。 没有 JavaScript 需要 。 <sub>⭐ 24.4k · Python</sub>
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - 云原人工智能平台 <sub>⭐ 15.9k</sub>
+- [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - 用于快速.ai计算线性代数课程的 Jupyter 笔记本免费在线教科书 <sub>⭐ 11.0k · Jupyter Notebook</sub>
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion(/æm fa n/)是用于音频,音乐和语音生成的工具包,目的是支持可复制的研究,并帮助初级研究人员和工程师在音频领域开始. <sub>⭐ 10.3k · Python</sub>
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 描述您的网站、 AI 构建它, 您拥有它 Markdown 。 将像 Lego 这样的 Tailwind 块组合在一起 — 登陆页、 博客、 组合、 文件等 。 没有 AI sloop 。 您可以随意部署到任何地方 。 <sub>⭐ 9.7k · HTML</sub>
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22种具有实用的Jupyter Notebook教程的快速工程技术,从基本概念到利用LLMs的先进战略. <sub>⭐ 7.9k · Jupyter Notebook</sub>
+- [haifengl/smile](https://github.com/haifengl/smile) - 统计机器情报和学习引擎 <sub>⭐ 6.4k · Java</sub>
+- [aimhubio/aim](https://github.com/aimhubio/aim) - 目标——一种易于使用和超充电的开源实验跟踪器. <sub>⭐ 6.3k · Python</sub>
+- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - AidLearning是一个强大的AIOT开发平台,AidLearing构建了一个支持GUI的linuxenv,在Android上的深层学习和视觉 IDE. 现在Aid支持CPU+GPU+NPU的高推论. . <sub>⭐ 5.8k · Python</sub>
+- [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab通过提供可复制,可解释和易于使用的工具,帮助想要利用机器学习力量的组合经理和贸易商. <sub>⭐ 4.9k · Python</sub>
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - 一个开源扩展,将AI代理连接到JupyterLab的计算笔记本. <sub>⭐ 4.4k · Python</sub>
+- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Communitys:免费的,手动的AI课程,在任何地方运行(Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act符合性证据,模型验证,预测维护,文档... <sub>⭐ 4.0k · Python</sub>
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra/AI Orchestration/AI控制计划 <sub>⭐ 3.7k · MDX</sub>
+- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - 集科学方法,过程,算法,以及构建故事和模型的系统. <sub>⭐ 3.7k · Jupyter Notebook</sub>
+- [truera/trulens](https://github.com/truera/trulens) - 对LLM实验和AI代理的评估和跟踪 <sub>⭐ 3.6k · Python</sub>
+- [opengeos/geoai](https://github.com/opengeos/geoai) - GeoAI:地理空间数据人工智能 <sub>⭐ 3.4k · Python</sub>
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Deliding是一个开源的机器学习平台,它简化了分布式训练,超参数调制,实验跟踪,以及资源管理. Works with PyTorch and TensorFlow. <sub>⭐ 3.2k · Go</sub>
-- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023 <sub>⭐ 3.2k · Jupyter Notebook</sub>
-- [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) - GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools. <sub>⭐ 3.2k · Python</sub>
-- [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - 阿姆斯特丹大学深层学习课程教学的Jupyter笔记本教程库(MSc AI),2023年秋季 <sub>⭐ 3.2k · Jupyter Notebook</sub>
+- [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) - GDM 科学技能,以更好的地基定位和更高的符号效率来加快代理科学工作流程. 整合来自AlphaGenome, AFDB, UniProt 和 30+ 其他数据库和工具的见解. <sub>⭐ 3.2k · Python</sub>
+- [pinecone-io/examples](https://github.com/pinecone-io/examples) - 帮助您操作 Pinecone 矢量数据库的 Jupyter Notebooks <sub>⭐ 3.0k · Jupyter Notebook</sub>
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - (Legacy)数据与AI Notebook模板目录由工具组织,遵循IMO(输入,模型,输出)框架,方便使用和发现. <sub>⭐ 3.0k · Jupyter Notebook</sub>
-- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote… <sub>⭐ 3.0k · TypeScript</sub>
-- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent… <sub>⭐ 2.9k · Python</sub>
-- [microsoft/pai](https://github.com/microsoft/pai) - Resource scheduling and cluster management for AI <sub>⭐ 2.7k · JavaScript</sub>
-- [mito-ds/mito](https://github.com/mito-ds/mito) - Jupyter extensions that help you write code faster: Context aware AI Chat, Autocomplete, and Spreadsheet <sub>⭐ 2.7k · Jupyter Notebook</sub>
-- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor. <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app <sub>⭐ 2.4k · Python</sub>
-- [tsingyuai/scientify](https://github.com/tsingyuai/scientify) - Automatic and end-to-end scientific research workflow. Produces state-of-the-art level research results. <sub>⭐ 2.2k · TypeScript</sub>
-- [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation <sub>⭐ 2.2k · Python</sub>
-- [rlworkgroup/garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research. <sub>⭐ 2.1k · Python</sub>
-- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and… <sub>⭐ 1.8k · TypeScript</sub>
-- [ikatsov/tensor-house](https://github.com/ikatsov/tensor-house) - A collection of reference Jupyter notebooks and demo AI/ML applications for enterprise use cases: marketing, pricing, supply chain, smart manufacturing, and more. <sub>⭐ 1.5k · Jupyter Notebook</sub>
-- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - Model Context Protocol (MCP) Server for Jupyter. <sub>⭐ 1.3k · Python</sub>
-- [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and… <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for… <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits <sub>⭐ 1.2k · C++</sub>
-- [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) - The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready. <sub>⭐ 1.1k · MATLAB</sub>
-- [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data <sub>⭐ 1.1k · JavaScript</sub>
-- [NVIDIA/raft](https://github.com/NVIDIA/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing… <sub>⭐ 1.0k · Cuda</sub>
-- [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) - All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus. <sub>⭐ 1.0k</sub>
-- [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools <sub>⭐ 909 · Python</sub>
-- [facebookresearch/cwm](https://github.com/facebookresearch/cwm) - Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation. <sub>⭐ 908 · Python</sub>
-- [NVIDIA/cuvs](https://github.com/NVIDIA/cuvs) - cuVS - a library for vector search and clustering on the GPU <sub>⭐ 859 · Cuda</sub>
-- [uma-pi1/kge](https://github.com/uma-pi1/kge) - LibKGE - A knowledge graph embedding library for reproducible research <sub>⭐ 836 · Python</sub>
-- [xuwenhao/geektime-ai-course](https://github.com/xuwenhao/geektime-ai-course) - Jupyter Notebooks for Geektime AI Course <sub>⭐ 822 · Jupyter Notebook</sub>
-- [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) - Collection of Jupyter notebooks is designed to provide you with a comprehensive guide to various AI tools and technologies <sub>⭐ 785 · Jupyter Notebook</sub>
-- [datagallery-ai/dataagent](https://github.com/datagallery-ai/dataagent) - DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics. <sub>⭐ 779 · TypeScript</sub>
-- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments. <sub>⭐ 763 · JavaScript</sub>
-- [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry <sub>⭐ 683 · Go</sub>
-- [castorini/rank_llm](https://github.com/castorini/rank_llm) - RankLLM is a Python toolkit for reproducible information retrieval research using rerankers, with a focus on listwise reranking. <sub>⭐ 659 · Python</sub>
-- [zhongyu09/openchatbi](https://github.com/zhongyu09/openchatbi) - OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph… <sub>⭐ 658 · Python</sub>
-- [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) - A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persistent memory, and professional-grade analysis. Built for… <sub>⭐ 643 · Python</sub>
-- [kwotsin/mimicry](https://github.com/kwotsin/mimicry) - (CVPR 2020 Workshop) A PyTorch GAN library that reproduces research results for popular GANs. <sub>⭐ 608 · Python</sub>
-- [amakelov/mandala](https://github.com/amakelov/mandala) - A simple & elegant experiment tracking framework that integrates persistence logic & best practices directly into Python <sub>⭐ 541 · Jupyter Notebook</sub>
-- [opengeos/GeoAgent](https://github.com/opengeos/GeoAgent) - A multimodal AI agent for geospatial data analysis and interactive visualization <sub>⭐ 501 · Python</sub>
-- [Wilson-ZheLin/Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - An AI agent powered by LLMs that streamlines the entire process of data analysis. <sub>⭐ 490 · Python</sub>
-- [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research. <sub>⭐ 486 · Python</sub>
-- [qwwzdyj/AIA-Academic-Illustrator-](https://github.com/qwwzdyj/AIA-Academic-Illustrator-) - An AI agent that automates the creation of CVPR/NeurIPS standard academic diagrams. Implements a strict "Logic (Architect) -> Vision (Renderer)" workflow to transform paper abstracts into… <sub>⭐ 465 · JavaScript</sub>
-- [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) - Automating scientific workflows with AI <sub>⭐ 443 · Python</sub>
-- [tlkh/ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping <sub>⭐ 435 · JavaScript</sub>
-- [Din829/DbRheo-CLI](https://github.com/Din829/DbRheo-CLI) - A database operations and data analysis AI agent <sub>⭐ 431 · Python</sub>
-- [apt-oss/libro](https://github.com/apt-oss/libro) - A Notebook with Flexible Customization and Easy Integration. <sub>⭐ 404 · Jupyter Notebook</sub>
-- [computing-intelligence/AI_courses_jupyters_and_slides](https://github.com/computing-intelligence/AI_courses_jupyters_and_slides) - Jupyter notebooks and slides for the AI / NLP / text-mining courses (2018–2021) <sub>⭐ 402 · Jupyter Notebook</sub>
-- [ptnghia-j/ChordMiniApp](https://github.com/ptnghia-j/ChordMiniApp) - Music Analysis, Chord Recognition, Beat Tracking, Guitar Diagrams, Piano Visualizer, Lyrics Transcription Application, context-aware LLM inference for analysis from uploaded audio and YouTube video <sub>⭐ 402 · TypeScript</sub>
-- [ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering) - Jupyter code notebooks of "ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI. <sub>⭐ 402 · Jupyter Notebook</sub>
-- [yhilpisch/aiif](https://github.com/yhilpisch/aiif) - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch. <sub>⭐ 402 · Jupyter Notebook</sub>
-- [NVIDIA/cuda-q-academic](https://github.com/NVIDIA/cuda-q-academic) - This repo contains CUDA-Q Academic materials, including self-paced Jupyter notebook modules for building and optimizing hybrid quantum-classical algorithms using CUDA-Q. <sub>⭐ 398 · Jupyter Notebook</sub>
-- [microsoft/iq-series](https://github.com/microsoft/iq-series) - The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, Work IQ, and Fabric IQ. The series includes video… <sub>⭐ 381 · Jupyter Notebook</sub>
-- [voided-org/deepkit-ml](https://github.com/voided-org/deepkit-ml) - The collaborative real-time open-source machine learning devtool and training suite: Experiment execution, tracking, and debugging. With server and project management tools. <sub>⭐ 380 · TypeScript</sub>
-- [facebookresearch/recipes](https://github.com/facebookresearch/recipes) - Recipes are a standard, well supported set of blueprints for machine learning engineers to rapidly train models using the latest research techniques without significant engineering… <sub>⭐ 358 · Python</sub>
-- [xandie985/data-scientist-roadmap2024](https://github.com/xandie985/data-scientist-roadmap2024) - Here lies the resources and topics necessary for the role of Data Scientist and Machine Learning <sub>⭐ 355 · Jupyter Notebook</sub>
-- [minusxai/minusx-metabase](https://github.com/minusxai/minusx-metabase) - MinusX is an AI Data Analyst that you can add to your Metabase. It helps you ask business questions to your dashboards and dig deeper through followups. <sub>⭐ 351 · TypeScript</sub>
-- [brycewang-stanford/StatsPAI](https://github.com/brycewang-stanford/StatsPAI) - StatsPAI is the first Agent-native Python library for causal inference and applied econometrics — unified API, broad cross-method coverage, structured result objects, machine-readable schemas… <sub>⭐ 329 · Python</sub>
-- [Oft3r/agentic-trading-desk](https://github.com/Oft3r/agentic-trading-desk) - AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum ·… <sub>⭐ 304 · Python</sub>
-- [om-ai-lab/OmTrackVLA](https://github.com/om-ai-lab/OmTrackVLA) - Open & Reproducible Research for Tracking VLAs <sub>⭐ 280 · Python</sub>
-- [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference. <sub>⭐ 276 · Jupyter Notebook</sub>
-- [twitter-research/image-crop-analysis](https://github.com/twitter-research/image-crop-analysis) - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency <sub>⭐ 255 · Jupyter Notebook</sub>
+- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote 是使用AI-First设计,sleek UI,新块,以及本土数据集成等功能来取代Jupyter的即时置换. 在您最喜欢的IDE中本地使用Python,R和SQL,然后缩放为Deepnote... <sub>⭐ 3.0k · TypeScript</sub>
+- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - 语言模型整体评价(HELM)是斯坦福基础模型研究中心(CRFM)为整体,可复制,透明而创建的开源Python框架. . <sub>⭐ 2.9k · Python</sub>
+- [microsoft/pai](https://github.com/microsoft/pai) - AI的资源时间安排和集群管理 <sub>⭐ 2.7k · JavaScript</sub>
+- [mito-ds/mito](https://github.com/mito-ds/mito) - 帮助您更快地写入代码的 Jupyter 扩展: 上下文意识到 AI Chat, 自动完成和电子表格 <sub>⭐ 2.7k · Jupyter Notebook</sub>
+- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch——Google,Meta,Anthropic的65个ML/AI采访问题,真实访谈中出现的问题. Jupyter笔记本,一个自动升级器,以及一个MCP AI导师. <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK 用于运行 AI 生成的代码/代码 解释您的 AI app <sub>⭐ 2.4k · Python</sub>
+- [tsingyuai/scientify](https://github.com/tsingyuai/scientify) - 自动和端对端科研工作流程,产生最先进的水平研究成果. <sub>⭐ 2.2k · TypeScript</sub>
+- [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - 可复制的世界模型研究和评价平台 <sub>⭐ 2.2k · Python</sub>
+- [rlworkgroup/garage](https://github.com/rlworkgroup/garage) - 可复制的强化学习研究工具包. <sub>⭐ 2.1k · Python</sub>
+- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - 负责任的AI Toolbox是一套提供模型和数据探索与评估用户界面和库的工具,能够更好地理解AI系统. 这些接口和. <sub>⭐ 1.8k · TypeScript</sub>
+- [ikatsov/tensor-house](https://github.com/ikatsov/tensor-house) - 企业使用案例的参考Jupyter笔记本和演示AI/ML应用程序集:营销,定价,供应链,智能制造等. <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - 用于Jupyter的模型上下文协议(MCP)服务器. <sub>⭐ 1.3k · Python</sub>
+- [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Express Engineering 教程在大语言模型上,例如带有自定义数据的ChatGPT(LLMS). Jupyter 笔记本在加载和索引数据上,创建了即时模板,CSV代理,以及... <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - 用于培训AI的后端测试1000分交易算法,其自动定价数据来自: IEX,Tradier和FinViz. Dataset及交易性能自动发布到S3 for... <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Intel_ oneAPI 工具包样本 <sub>⭐ 1.2k · C++</sub>
+- [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) - MATLAB代理工具箱为AI代理带来了经过验证的MATLAB能力,使工程和科学工作流程代理做好了准备. <sub>⭐ 1.1k · MATLAB</sub>
+- [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI- powered Jupyter Notebook. 使用AI生成和编辑代码单元格,自动修正错误,并与您的数据聊天 <sub>⭐ 1.1k · JavaScript</sub>
+- [NVIDIA/raft](https://github.com/NVIDIA/raft) - RAFT包含了基础性广泛使用的算法和原始的机器学习和信息检索方法,这些算法是CUDA加速的,并构成更方便写作的构件. . <sub>⭐ 1.0k · Cuda</sub>
+- [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) - 所有斯坦福Cheetsheets:人工智能,变形器,LLMS,深层学习,机器学习,概率学,统计学,代数和计算学. <sub>⭐ 1.0k</sub>
+- [guildai/guildai](https://github.com/guildai/guildai) - 实验跟踪,ML开发工具 <sub>⭐ 909 · Python</sub>
+- [facebookresearch/cwm](https://github.com/facebookresearch/cwm) - 密码世界模型研究密码文物,包括推论工具、可复制性以及文献。 <sub>⭐ 908 · Python</sub>
+- [NVIDIA/cuvs](https://github.com/NVIDIA/cuvs) - cuVS - GPU 上的矢量搜索和集群库 <sub>⭐ 859 · Cuda</sub>
+- [uma-pi1/kge](https://github.com/uma-pi1/kge) - LibKGE - 一个用于可复制研究的知识图嵌入库 <sub>⭐ 836 · Python</sub>
+- [xuwenhao/geektime-ai-course](https://github.com/xuwenhao/geektime-ai-course) - Geektime AI课程的Jupyter笔记本 <sub>⭐ 822 · Jupyter Notebook</sub>
+- [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) - 收集Jupyter笔记本是为了向您提供各种人工智能工具和技术的综合指南。 <sub>⭐ 785 · Jupyter Notebook</sub>
+- [datagallery-ai/dataagent](https://github.com/datagallery-ai/dataagent) - DataFoundry是数据分析的开源AI工作台,将数据源,知识,工具和代理运行时间统一到一个受支配的工作空间中,用于交互式分析. <sub>⭐ 779 · TypeScript</sub>
+- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - 直观你的Kedro数据和机器学习管道 跟踪你的实验 <sub>⭐ 763 · JavaScript</sub>
+- [orb-community/orb](https://github.com/orb-community/orb) - Orb是一个动态网络可观察性平台,具有代理机队管弦和数据管道,带有OpenTeleometry <sub>⭐ 683 · Go</sub>
+- [castorini/rank_llm](https://github.com/castorini/rank_llm) - RankLLM是一个Python工具箱,用于使用重排器进行可复制的信息检索研究,其重点是列表重排. <sub>⭐ 659 · Python</sub>
+- [zhongyu09/openchatbi](https://github.com/zhongyu09/openchatbi) - OpenChatBI是一款由大型语言模型提供动力的智能聊天BI工具,旨在帮助用户通过自然语言对话查询,分析,并可视化数据. 它使用LangGraph... <sub>⭐ 658 · Python</sub>
+- [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) - 一个基于LangGraph的精密代理,通过Polygon.io的实时数据实现财务选项分析自动化,智能缓存,持续内存,以及专业级分析. <sub>⭐ 643 · Python</sub>
+- [kwotsin/mimicry](https://github.com/kwotsin/mimicry) - (CVPR 2020 Working) 一个PyTorch GAN图书馆,为流行的GAN复制研究成果. <sub>⭐ 608 · Python</sub>
+- [amakelov/mandala](https://github.com/amakelov/mandala) - 将持久性逻辑和最佳做法直接纳入 Python 的简单和优雅的实验跟踪框架 <sub>⭐ 541 · Jupyter Notebook</sub>
+- [opengeos/GeoAgent](https://github.com/opengeos/GeoAgent) - 用于地理空间数据分析和互动可视化的多模式人工智能代理 <sub>⭐ 501 · Python</sub>
+- [Wilson-ZheLin/Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - 由LLMs授权的AI代理,简化了数据分析的整个过程. <sub>⭐ 490 · Python</sub>
+- [microsoft/archai](https://github.com/microsoft/archai) - 通过快速,可复制和模块化的研究,加快你的神经结构搜索(NAS). <sub>⭐ 486 · Python</sub>
+- [qwwzdyj/AIA-Academic-Illustrator-](https://github.com/qwwzdyj/AIA-Academic-Illustrator-) - 一个自动创建 CVPR/ NeurIPS 标准学术图表的AI代理。执行严格的“Logic (Architect) - > Vision (Render)”工作流程,将纸质摘要转换为... <sub>⭐ 465 · JavaScript</sub>
+- [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) - 与 AI 实现科学工作流程自动化 <sub>⭐ 443 · Python</sub>
+- [tlkh/ai-lab](https://github.com/tlkh/ai-lab) - 用于快速原型化的全能AI容器 <sub>⭐ 435 · JavaScript</sub>
+- [Din829/DbRheo-CLI](https://github.com/Din829/DbRheo-CLI) - 数据库操作和数据分析 AI 代理 <sub>⭐ 431 · Python</sub>
+- [apt-oss/libro](https://github.com/apt-oss/libro) - 具有弹性定制和易集成功能的笔记本. <sub>⭐ 404 · Jupyter Notebook</sub>
+- [computing-intelligence/AI_courses_jupyters_and_slides](https://github.com/computing-intelligence/AI_courses_jupyters_and_slides) - AI/NLP/文本挖掘课程的Jupyter笔记本和幻灯片(2018-2021) <sub>⭐ 402 · Jupyter Notebook</sub>
+- [ptnghia-j/ChordMiniApp](https://github.com/ptnghia-j/ChordMiniApp) - 音乐分析、弦识别、Beat跟踪、吉他图谱、钢琴视觉器、Lyrics Transcription应用程序、上传音频和YouTube视频的分析背景感LLM推论 <sub>⭐ 402 · TypeScript</sub>
+- [ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering) - Deplearning.AI和OpenAI的"ChatGPT Express Engineering for Developers"的Jupyter代码笔记本. <sub>⭐ 402 · Jupyter Notebook</sub>
+- [yhilpisch/aiif](https://github.com/yhilpisch/aiif) - Jupyter Notebooks and code for the book in Artificial Intelligence (O'Reilly) 由伊夫斯·希尔皮施(英语:Yves Hilpisch)著,为"金融中的人工智能(英语:Artificial Intelligence in Finance (O'Reilly))"一书提供代码. <sub>⭐ 402 · Jupyter Notebook</sub>
+- [NVIDIA/cuda-q-academic](https://github.com/NVIDIA/cuda-q-academic) - 这种回波包含CUDA-Q学术材料,包括自定节奏的Jupyter笔记本模块,用于使用CUDA-Q构建和优化混合量子经典算法. <sub>⭐ 398 · Jupyter Notebook</sub>
+- [microsoft/iq-series](https://github.com/microsoft/iq-series) - IQ系列是微软IQ的亲身体验:微软为企业统一智能层,跨越Foundry IQ,Work IQ和Fabric IQ. 该系列包括视频. . <sub>⭐ 381 · Jupyter Notebook</sub>
+- [voided-org/deepkit-ml](https://github.com/voided-org/deepkit-ml) - 协作的实时开源机器学习devtool和训练套件:实验执行,跟踪,调试. 配有服务器和项目管理工具. <sub>⭐ 380 · TypeScript</sub>
+- [facebookresearch/recipes](https://github.com/facebookresearch/recipes) - 食谱是一套标准,得到良好支持的蓝图,供机器学习工程师使用最新的研究技术,在没有重大工程的情况下快速训练模型. . <sub>⭐ 358 · Python</sub>
+- [xandie985/data-scientist-roadmap2024](https://github.com/xandie985/data-scientist-roadmap2024) - 这里有数据科学家和机器学习所必须的资源和课题 <sub>⭐ 355 · Jupyter Notebook</sub>
+- [minusxai/minusx-metabase](https://github.com/minusxai/minusx-metabase) - MinusX 是一个AI数据分析器,您可以添加到您的Metabase中。它帮助您向您的仪表板询问商业问题,并通过后续程序进行更深入的挖掘。 <sub>⭐ 351 · TypeScript</sub>
+- [brycewang-stanford/StatsPAI](https://github.com/brycewang-stanford/StatsPAI) - StatsPAI是首个用于因果推论和应用计量经济学的代理本地Python库——统一API,宽跨方法覆盖,结构化结果对象,机器可读计划. . <sub>⭐ 329 · Python</sub>
+- [Oft3r/agentic-trading-desk](https://github.com/Oft3r/agentic-trading-desk) - 通过Robinhood MCP对股票和ETF进行短期技术分析的AI辅助交易台. Deterministic Python引擎在三柱框架(Trend – Momentum →...)上对每项资产评分. <sub>⭐ 304 · Python</sub>
+- [om-ai-lab/OmTrackVLA](https://github.com/om-ai-lab/OmTrackVLA) - 打开可复制的跟踪VLA的研究( R) <sub>⭐ 280 · Python</sub>
+- [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - 包含与奥赖利2017年NYC AI大会上给出的"深度强化学习教程"相关的Jupyter笔记本. <sub>⭐ 276 · Jupyter Notebook</sub>
+- [twitter-research/image-crop-analysis](https://github.com/twitter-research/image-crop-analysis) - 转载我们的分析文件的守则,题为:推特上的图像裁剪:公平度量、其局限性以及代表性、设计和机构的重要性 <sub>⭐ 255 · Jupyter Notebook</sub>
 
 ---
 [⬆️ 返回顶部](#-研究人员与科学家-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

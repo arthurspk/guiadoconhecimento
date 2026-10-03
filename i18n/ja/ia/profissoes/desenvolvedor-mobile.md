@@ -20,1026 +20,1026 @@
 
 > AndroidとiOSでのローカル推論。コンパクトなモデルとハードウェアアクセラレーションを使う。
 
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export. <sub>⭐ 58.1k · Python</sub>
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - オブジェクト検出、インスタンスのセグメンテーション、分類、トレーニングおよびエクスポート用のPyTorchにおけるUltralytics YOLOv5。 <sub>⭐ 58.1k · Python</sub>
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - 神経ネットワーク、ディープラーニング、機械学習モデルのビジュアライザー <sub>⭐ 33.5k · JavaScript</sub>
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative… <sub>⭐ 22.2k · TypeScript</sub>
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. <sub>⭐ 16.2k · C++</sub>
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5: SOTA on-device LLMs, small yet powerful. <sub>⭐ 11.3k · Jupyter Notebook</sub>
-- [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export. <sub>⭐ 10.6k · Python</sub>
-- [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally <sub>⭐ 10.3k · C++</sub>
-- [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent <sub>⭐ 9.6k · Python</sub>
-- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! <sub>⭐ 9.5k · Python</sub>
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports… <sub>⭐ 9.1k · C++</sub>
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. <sub>⭐ 8.0k · Swift</sub>
-- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers. <sub>⭐ 8.0k · Kotlin</sub>
-- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively <sub>⭐ 8.0k · Swift</sub>
-- [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+) <sub>⭐ 7.1k · Python</sub>
-- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. <sub>⭐ 6.5k · Swift</sub>
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. <sub>⭐ 6.1k · C++</sub>
-- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. <sub>⭐ 6.0k · Swift</sub>
-- [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK… <sub>⭐ 5.8k · Python</sub>
-- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your… <sub>⭐ 5.4k · Python</sub>
-- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation. <sub>⭐ 5.4k · Python</sub>
-- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its… <sub>⭐ 4.7k · C++</sub>
-- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8)… <sub>⭐ 4.6k · Python</sub>
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even… <sub>⭐ 4.6k · Kotlin</sub>
-- [googlesamples/mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS <sub>⭐ 4.3k · Kotlin</sub>
-- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool for threat hunting across VirusTotal, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, IPInfo, Shodan… <sub>⭐ 4.1k · Python</sub>
-- [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop. <sub>⭐ 4.1k · Dart</sub>
-- [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. <sub>⭐ 3.9k · TypeScript</sub>
-- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable Diffusion, tool calling, and local-network servers.… <sub>⭐ 3.2k · TypeScript</sub>
-- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. <sub>⭐ 2.9k · Swift</sub>
-- [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely. <sub>⭐ 2.7k · TypeScript</sub>
-- [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift <sub>⭐ 2.7k · Swift</sub>
-- [hollance/neural-engine](https://github.com/hollance/neural-engine) - Everything we actually know about the Apple Neural Engine (ANE) <sub>⭐ 2.5k</sub>
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents. <sub>⭐ 2.2k · Dart</sub>
-- [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other large language models on iOS and MacOS offline using GGML library. <sub>⭐ 2.1k · C</sub>
-- [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX <sub>⭐ 2.0k · C++</sub>
-- [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans… <sub>⭐ 1.9k</sub>
-- [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS… <sub>⭐ 1.9k · Swift</sub>
-- [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift. <sub>⭐ 1.8k · Swift</sub>
-- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. <sub>⭐ 1.7k · Zig</sub>
-- [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML. <sub>⭐ 1.7k · Swift</sub>
-- [OpenSparX/MasterAgent](https://github.com/OpenSparX/MasterAgent) - Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency. <sub>⭐ 1.6k · C++</sub>
-- [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi) - A tutorial showing how to train, convert, and run TensorFlow Lite object detection models on Android devices, the Raspberry Pi, and more! <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks. <sub>⭐ 1.5k · Python</sub>
-- [facebookresearch/MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024. <sub>⭐ 1.5k · Python</sub>
-- [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) - Native iPhone app for your Hermes agent <sub>⭐ 1.4k · Swift</sub>
-- [hollance/CoreMLHelpers](https://github.com/hollance/CoreMLHelpers) - Types and functions that make it a little easier to work with Core ML in Swift. <sub>⭐ 1.4k · Swift</sub>
-- [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility <sub>⭐ 1.4k · TypeScript</sub>
-- [margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources. <sub>⭐ 1.4k</sub>
-- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) +… <sub>⭐ 1.4k · TypeScript</sub>
-- [tucan9389/awesome-ml-demos-with-ios](https://github.com/tucan9389/awesome-ml-demos-with-ios) - The challenge projects for Inferencing machine learning models on iOS <sub>⭐ 1.3k · Python</sub>
-- [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose. <sub>⭐ 1.2k · Kotlin</sub>
-- [soniqo/speech-swift](https://github.com/soniqo/speech-swift) - AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by MLX and CoreML <sub>⭐ 1.2k · Swift</sub>
-- [rudrankriyam/Foundation-Models-Framework-Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) - A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework. <sub>⭐ 1.2k · Swift</sub>
-- [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - Official PyTorch implementation of "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM" <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK. <sub>⭐ 1.1k · TypeScript</sub>
-- [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant <sub>⭐ 1.1k · TypeScript</sub>
-- [microsoft/Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning) - Samples and Tools for Windows ML. <sub>⭐ 1.1k · C++</sub>
-- [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models. <sub>⭐ 1.1k · C++</sub>
-- [yashab-cyber/opendroid](https://github.com/yashab-cyber/opendroid) - Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. <sub>⭐ 1.1k · Kotlin</sub>
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - ログ、メトリック、トレース、RUM(web、アンドロイド、ios)、セッションの再生、パイプライン、SLOおよびLLMの観察性のためのオープンソースの保守性のプラットフォーム。洗練されたシンプルで非常に実行可能な代替... <sub>⭐ 22.2k · TypeScript</sub>
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: Alibabaがテストした超高速で軽量な推論エンジン、高性能のオンデバイスLMとエッジAIをパワーアップ。 <sub>⭐ 16.2k · C++</sub>
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5:SOTAのオンデバイスLM、小型で強力な。 <sub>⭐ 11.3k · Jupyter Notebook</sub>
+- [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3、YOLOv3-SPPおよびYOLOv3-tinyのPyTorch実装は、トレーニング、検証、インフェレンス、マルチフォーマットエクスポートによるリアルタイムオブジェクト検出を実現します。 <sub>⭐ 10.6k · Python</sub>
+- [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - ローカルでAIを実行するための準備ツールキット <sub>⭐ 10.3k · C++</sub>
+- [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - 自然言語のコマンドでモバイルデバイスを自動化 - LLM 非政府系モバイルエージェント <sub>⭐ 9.6k · Python</sub>
+- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - PyTorch、TensorFlow、TensorFlow.js、ONNX、CoreMLの強力なビデオマット! <sub>⭐ 9.5k · Python</sub>
+- [catboost/catboost](https://github.com/catboost/catboost) - デシジョンツリーのライブラリで高速、スケーラブルな高性能グラデーションブースティング、ランキング、分類、回帰などの機械学習タスクに使用されます。 Python、R、Java、C++のサポート... <sub>⭐ 9.1k · C++</sub>
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - 独自のAI。 AIエージェントのネイティブmacOSハーネス - すべてのモデル、永続的なメモリ、自律的実行、暗号アイデンティティ。Swiftで構築されています。完全にオフラインです。オープンソース。 <sub>⭐ 8.0k · Swift</sub>
+- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHubは、複数のLMMプロバイダをサポートするAndroidアプリです。 <sub>⭐ 8.0k · Kotlin</sub>
+- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - ネイティブでMac上で安定した拡散を実行 <sub>⭐ 8.0k · Swift</sub>
+- [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Core ML のモデルリスト(iOS 11以降) <sub>⭐ 7.1k · Python</sub>
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Mac上で既に無料のAI。 CLIツール、OpenAI互換サーバー、およびインタラクティブチャット — Apple Intelligence経由でのすべてのオンデバイス。 APIキー、クラウドなし、ダウンロードはありません。 <sub>⭐ 6.5k · Swift</sub>
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - モバイル、ウェアラブル、スマートホーム、ロボット向けの定量化、カーネル、ランタイムおよびインフェレンスエンジン。 <sub>⭐ 6.1k · C++</sub>
+- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - エンチャンテッドは、iOSとmacOSアプリで、Llama2、Mistral、またはVicunaなどのプライベートホスト型言語モデルとのチャットが可能です。 <sub>⭐ 6.0k · Swift</sub>
+- [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnnは、ユーザーが異なるディープラーニングフレームワーク間で相互運用を支援するツールのセットです。 例:モデル変換と視覚化。 Caffe、Keras、MXNet、Tensorflow、CNTK間のモデルを変換... <sub>⭐ 5.8k · Python</sub>
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - ローカルファーストヘルスケアAI:臨床NER&HIPAA PIIは、100%のオンデバイスを実行します。 2,200 +医療モデル、21言語、Apple MLX + Python、クラウドなし、患者データは残しません... <sub>⭐ 5.4k · Python</sub>
+- [apple/coremltools](https://github.com/apple/coremltools) - コアMLツールには、Core MLモデル変換、編集、検証のためのサポートツールが含まれています。 <sub>⭐ 5.4k · Python</sub>
+- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN:Tencent Youtu LabとGuangyingLabによって開発され、モバイル、デスクトップおよびサーバー用の均一なディープラーニング・インフェレンスフレームワーク。 TNNはいくつかの優れた機能で区別されています。 <sub>⭐ 4.7k · C++</sub>
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - さまざまなフレームワーク間で変換されたモデルを格納するためのリポジトリ。サポートされているフレームワークは、TensorFlow、PyTorch、ONNX、OpenVINO、TFJS、TFTRT、TensorFlowLite(Float32/16/INT8)... <sub>⭐ 4.6k · Python</sub>
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koogは、すべてのプラットフォームで予測可能な障害耐性とエンタープライズ対応のAIエージェントの構築のためのJVM(JavaおよびKotlin)フレームワークです。バックエンドサービスからAndroid、iOS、JVMまで、あらゆるプラットフォーム間でのAIエージェントを構成できます。 <sub>⭐ 4.6k · Kotlin</sub>
+- [googlesamples/mlkit](https://github.com/googlesamples/mlkit) - AndroidとiOSでGoogleのMLキットAPIを使用する方法を示すサンプルアプリのコレクション <sub>⭐ 4.3k · Kotlin</sub>
+- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverviewは、VrusTotal、ハイブリッド分析、URLHaus、Polyswarm、Malshare、Alien Vault、Malpedia、Malware Bazaar、ThreatFox、Triage、IPInfo、Shodanを横断する脅威の狩猟のための最初の応答ツールです。 <sub>⭐ 4.1k · Python</sub>
+- [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - フルッタLLMチャットクライアント。モバイル&デスクトップをサポートします。 <sub>⭐ 4.1k · Dart</sub>
+- [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverseは、ChatGPT、Claude、N8N、ImageGenを独自のホストされたLLM、キーおよびコンピューティングに置き換える、オープンソースのプライバシーに焦点を当てたエコシステムです。デスクトップ、IOS、Androidアプリで。 <sub>⭐ 3.9k · TypeScript</sub>
+- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - オフラインAIのスイス軍用ナイフ。電話やMacで画像をチャット、表示、話す、および生成する - GGUF LLM、ビジョン、ウィスパー対テキスト、安定した拡散、ツールコール、ローカルネットワークサーバー。... <sub>⭐ 3.2k · TypeScript</sub>
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - テキスト・ツー・スピーナ、スピーチ・トゥ・テキスト、音声アクティビティの検出、スピーカーのダイアライゼーションなど、アプリ内のフロンティアコアMLオーディオモデル。SwiftではSOTAオープンソースを採用しています。 <sub>⭐ 2.9k · Swift</sub>
+- [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - メイドは、ローカルのllama.cppモデルとAnathropic、DeepSeek、Ollama、MistralおよびOpenAIモデルとの対面のための自由でオープンソースアプリケーションです。 <sub>⭐ 2.7k · TypeScript</sub>
+- [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - MLX Swiftを使った例 <sub>⭐ 2.7k · Swift</sub>
+- [hollance/neural-engine](https://github.com/hollance/neural-engine) - Appleのニューラルエンジン(ANE)について実際に知っているすべて <sub>⭐ 2.5k</sub>
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - OpenAI対応、Ollama、HermesエージェントのネイティブiOSおよびAndroidクライアント。 <sub>⭐ 2.2k · Dart</sub>
+- [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - iOS や MacOS で GGML ライブラリを使用して、 llama やその他の大きな言語モデル。 <sub>⭐ 2.1k · C</sub>
+- [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - MLX 用の Swift API <sub>⭐ 2.0k · C++</sub>
+- [skalesapp/skales](https://github.com/skalesapp/skales) - macOS、Windows、Linux、AndroidおよびiOS用のパーソナルAIエージェント。 目標を設定し、単独で動作します:コーディング(スケールコード)、デスクトップ+ブラウザの自動化、自動スケジュールされたタスク。 エージェントと人間のチーム... <sub>⭐ 1.9k</sub>
+- [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - iOS / MacOS用のコアMLモデル動物園 — PyTorchモデルは、コンバージョンスクリプトとSwiftUIサンプルアプリでそれぞれ既製の.mlpackageに変換しました。 兄弟レポスはAppleのCore AIフレームワーク(iOS/macOS... <sub>⭐ 1.9k · Swift</sub>
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - MLXを搭載したネイティブのmacOS AIチャットアプリです。Apple Siliconで100%ローカルな推論、クラウドは必要ありません。 ShipSwiftで構築されています。 <sub>⭐ 1.8k · Swift</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Apple Silicon 用のネイティブ LLM インフェレンス サーバー。OpenAI + Anthropic API は対応していません。 Python はありません。 Zig バックエンド、Swift フロントエンドの MacOS アプリをチャット、音楽、音声、ビデオ生成で使用できます。 <sub>⭐ 1.7k · Zig</sub>
+- [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - オブジェクトを検出し、ARで上記3Dラベルを表示するためのシンプルなプロジェクト。これはCoreMLを使用するためにArKitプロジェクトの基本的なテンプレートとして機能します。 <sub>⭐ 1.7k · Swift</sub>
+- [OpenSparX/MasterAgent](https://github.com/OpenSparX/MasterAgent) - 100%のオンデバイスを実行しているAIエージェントを構築します。 Qualcomm NPUで潜在的100msレイテンシ。 ゼロクラウド依存性。 <sub>⭐ 1.6k · C++</sub>
+- [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi) - Androidデバイス、Raspberry PiなどでTensorFlow Liteオブジェクト検出モデルを訓練、変換、実行する方法を示すチュートリアルです。 <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) - Apple Core MLとNeural Engineのローカル・レイヤ型の決定。検証済みのポート、M3 Max、再現可能な速度およびエネルギーベンチマークに関する5msショートな決定。 <sub>⭐ 1.5k · Python</sub>
+- [facebookresearch/MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM は、オンデバイスユースケースのサブ・ビリオン・パラメータ言語モデルを最適化します。 ICML 2024. <sub>⭐ 1.5k · Python</sub>
+- [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) - お使いのHermesエージェントのためのネイティブiPhoneアプリ <sub>⭐ 1.4k · Swift</sub>
+- [hollance/CoreMLHelpers](https://github.com/hollance/CoreMLHelpers) - SwiftでCore MLを使うのが少し簡単になるタイプと機能。 <sub>⭐ 1.4k · Swift</sub>
+- [callstackincubator/ai](https://github.com/callstackincubator/ai) - Vercel AI SDK の互換性で React Native でのOn-device LLM実行 <sub>⭐ 1.4k · TypeScript</sub>
+- [margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Liteモデル、サンプル、チュートリアル、ツールおよび学習リソースの素晴らしいリスト。 <sub>⭐ 1.4k</sub>
+- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - リアルタイム双方向のセッションのための音声翻訳 — 話した言語を自動検出し、両方の指示、クラウドまたは完全にオフラインのオンデバイスを変換します。デスクトップ(Windows・macOS・Linux) +... <sub>⭐ 1.4k · TypeScript</sub>
+- [tucan9389/awesome-ml-demos-with-ios](https://github.com/tucan9389/awesome-ml-demos-with-ios) - iOSで機械学習モデルを推論するための課題プロジェクト <sub>⭐ 1.3k · Python</sub>
+- [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - 複数のLMから一度に回答をサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポートしています。Material3&Composeで設計しました。 <sub>⭐ 1.2k · Kotlin</sub>
+- [soniqo/speech-swift](https://github.com/soniqo/speech-swift) - アップルシリコン向けAIスピーチツールキット — ASR、TTS、音声ツースピーチ、VAD、およびMLXとCoreMLのダイアライゼーション <sub>⭐ 1.2k · Swift</sub>
+- [rudrankriyam/Foundation-Models-Framework-Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) - Appleのファンデーションモデルフレームワークでアプリをビルド、テスト、評価するための実用的なラボです。 <sub>⭐ 1.2k · Swift</sub>
+- [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - 「EdgeSAM」の公式PyTorch実装:SAMのオンデバイス展開のためのプロンプト・イン・ザ・ループ蒸留」 <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - マークダウンエディタ — そして、LLMへの橋. ローカルファースト, MIT, ~15 MB. バンドルされたMCPサーバーは、Claudeコード/Codex / Cursorが直接あなたのボルトを駆動することができます. 14 AIプロバイダBOK. <sub>⭐ 1.1k · TypeScript</sub>
+- [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - ネイティブマインド:あなたの完全プライベート、オープンソース、オンデバイスAIアシスタント <sub>⭐ 1.1k · TypeScript</sub>
+- [microsoft/Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning) - Windows MLのサンプルとツール。 <sub>⭐ 1.1k · C++</sub>
+- [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - 標準クラウドAPIとオンデバイス間のシームレスな移行をサポートする統一されたクロスプラットフォームのAIクライアント、カスタムおよび非検閲言語モデルのオフライン実行。 <sub>⭐ 1.1k · C++</sub>
+- [yashab-cyber/opendroid](https://github.com/yashab-cyber/opendroid) - オープンソースの Android Agent — ローカル/リモートLLMとアクセシビリティ駆動型の画面自動化により、制作準備が整ったセルフプランニングAIアシスタント。 <sub>⭐ 1.1k · Kotlin</sub>
 - [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - llama.cppのネイティブバインディング <sub>⭐ 1.0k · C</sub>
-- [PINTO0309/onnx2tf](https://github.com/PINTO0309/onnx2tf) - A tool for converting ONNX files to LiteRT/TFLite/TensorFlow, PyTorch native code (nn.Module), TorchScript (.pt), state_dict (.pt), Exported Program (.pt2), and Dynamo ONNX. It also supports direct… <sub>⭐ 998 · Python</sub>
-- [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. <sub>⭐ 971 · TypeScript</sub>
-- [mit-han-lab/TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) - TinyChatEngine: On-Device LLM Inference Library <sub>⭐ 967 · C++</sub>
-- [friuns2/codex-mobile](https://github.com/friuns2/codex-mobile) - Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android <sub>⭐ 948 · TypeScript</sub>
-- [hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) - Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API. <sub>⭐ 943 · Swift</sub>
-- [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - A curated collection of iOS, ML, AR resources sprinkled with some UI additions <sub>⭐ 911 · Swift</sub>
-- [dokun1/Lumina](https://github.com/dokun1/Lumina) - A camera designed in Swift for easily integrating CoreML models - as well as image streaming, QR/Barcode detection, and many other features <sub>⭐ 911 · Swift</sub>
-- [TheStageAI/TheWhisper](https://github.com/TheStageAI/TheWhisper) - Optimized Whisper models for streaming and on-device use <sub>⭐ 898 · Python</sub>
-- [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android <sub>⭐ 897 · Kotlin</sub>
-- [eastriverlee/LLM.swift](https://github.com/eastriverlee/LLM.swift) - LLM.swift is a simple and readable library that allows you to interact with large language models locally with ease for macOS, iOS, watchOS, tvOS, and visionOS. <sub>⭐ 879 · Swift</sub>
-- [Blarc/ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio. <sub>⭐ 859 · Kotlin</sub>
-- [Pangu-Immortal/MagicWX](https://github.com/Pangu-Immortal/MagicWX) - Android 17 local LLM prototype with Jetpack Compose and ONNX Runtime for offline AI inference experiments. <sub>⭐ 856 · Kotlin</sub>
-- [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models. <sub>⭐ 833 · Swift</sub>
-- [ml-explore/mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm) - LLMs and VLMs with MLX Swift <sub>⭐ 828 · Swift</sub>
-- [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - A curated list of machine learning resources, preferably CoreML <sub>⭐ 813</sub>
-- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift <sub>⭐ 803 · Swift</sub>
-- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online… <sub>⭐ 802 · Python</sub>
-- [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift) - A modular Swift SDK for audio processing with MLX on Apple Silicon <sub>⭐ 791 · Swift</sub>
-- [SharpAI/SwiftLM](https://github.com/SharpAI/SwiftLM) - Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app. <sub>⭐ 777 · Swift</sub>
-- [amitshekhariitbhu/Android-TensorFlow-Lite-Example](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example) - Android TensorFlow Lite Machine Learning Example <sub>⭐ 772 · Java</sub>
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build).… <sub>⭐ 767 · Python</sub>
-- [memex-lab/memex](https://github.com/memex-lab/memex) - Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice — AI agents organize them into timeline cards and insights. Your data stays on your device. Bring your own… <sub>⭐ 762 · Dart</sub>
-- [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework <sub>⭐ 752 · C++</sub>
-- [DoubangoTelecom/ultimateALPR-SDK](https://github.com/DoubangoTelecom/ultimateALPR-SDK) - World's fastest ANPR / ALPR implementation for CPUs, GPUs, VPUs and NPUs using deep learning (Tensorflow, Tensorflow lite, TensorRT, OpenVX, OpenVINO). Multi-Charset (Latin, Korean, Chinese) &… <sub>⭐ 745 · C++</sub>
-- [akirasosa/mobile-semantic-segmentation](https://github.com/akirasosa/mobile-semantic-segmentation) - Real-Time Semantic Segmentation in Mobile device <sub>⭐ 721 · Python</sub>
-- [instavm/clickclickclick](https://github.com/instavm/clickclickclick) - Autonomous Android and computer use using any LLM (local or remote) <sub>⭐ 714 · Python</sub>
-- [Zhou-Shilin/Aether](https://github.com/Zhou-Shilin/Aether) - Codex for Android, iOS & Mac. / Aether 扶摇 <sub>⭐ 713 · Kotlin</sub>
-- [hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML) - The MobileNet neural network using Apple's new CoreML framework <sub>⭐ 710 · Swift</sub>
-- [tucan9389/PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) - The example project of inferencing Pose Estimation using Core ML <sub>⭐ 702 · Swift</sub>
-- [huggingface/exporters](https://github.com/huggingface/exporters) - Export Hugging Face models to Core ML and TensorFlow Lite <sub>⭐ 697 · Python</sub>
-- [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android <sub>⭐ 692 · C++</sub>
-- [nuance-dev/Web](https://github.com/nuance-dev/Web) - A native macOS browser with Glance for quick lookups and optional local AI. <sub>⭐ 667 · Swift</sub>
-- [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites) <sub>⭐ 661 · Python</sub>
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel, latest release. The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift… <sub>⭐ 640 · Swift</sub>
-- [Helldez/BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge) - Run MoE models bigger than your RAM. Frontier-size MoE on a 12 GB phone, lossless, on stock llama.cpp <sub>⭐ 605 · C++</sub>
-- [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5) - Spark-x2.5 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models <sub>⭐ 605</sub>
-- [aldefy/compose-skill](https://github.com/aldefy/compose-skill) - Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code receipts. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot, Windsurf, and more. <sub>⭐ 594 · Kotlin</sub>
-- [imxieyi/waifu2x-ios](https://github.com/imxieyi/waifu2x-ios) - iOS Core ML implementation of waifu2x <sub>⭐ 594 · Swift</sub>
-- [Trans-N-ai/swama](https://github.com/Trans-N-ai/swama) - High-performance MLX-based LLM inference engine for macOS with native Swift implementation <sub>⭐ 592 · Swift</sub>
-- [SwiftBrain/awesome-CoreML-models](https://github.com/SwiftBrain/awesome-CoreML-models) - Collection of models for Core ML <sub>⭐ 588</sub>
-- [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) - Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer <sub>⭐ 569 · Swift</sub>
-- [Meliwat/awesome-ios-design-md](https://github.com/Meliwat/awesome-ios-design-md) - 200 production-grade DESIGN.md design systems for the world's best apps. Framework-neutral plus SwiftUI, Jetpack Compose, and Expo. Hand one to your AI agent, ship pixel-matched UI. <sub>⭐ 565</sub>
-- [ibrahimcetin/reins](https://github.com/ibrahimcetin/reins) - Ollama client for iOS, Android, macOS, Linux and Windows that simplifies experimenting with LLMs. <sub>⭐ 544 · Dart</sub>
-- [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications. <sub>⭐ 535 · Swift</sub>
-- [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os) - An on-device LLM understands your entire life, then proactively offers to get your work done through computer use. <sub>⭐ 526 · Swift</sub>
-- [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - Demo on adding virtual background to a live video stream in the browser <sub>⭐ 523 · TypeScript</sub>
-- [Gremble-io/Detto](https://github.com/Gremble-io/Detto) - On-device meeting capture, dictation, and vault-native knowledge layer for macOS. Nothing leaves your Mac. <sub>⭐ 520 · Swift</sub>
-- [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) - Ultralytics YOLO iOS app and Swift package for real-time Core ML inference across major computer vision tasks. <sub>⭐ 515 · Swift</sub>
-- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr <sub>⭐ 511 · C++</sub>
-- [zhongkaifu/TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native .NET LLM inference engine and agent runtime for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, iPhone App, and Ollama/OpenAI-compatible HTTP APIs for… <sub>⭐ 508 · C#</sub>
-- [NightMean/OlliteRT](https://github.com/NightMean/OlliteRT) - Turn your Android phone into an OpenAI-compatible LLM inference server - Fully local, private and Open Source <sub>⭐ 506 · Kotlin</sub>
-- [ultralytics/yolo-flutter-app](https://github.com/ultralytics/yolo-flutter-app) - Official Ultralytics YOLO Flutter plugin for real-time inference on Android and iOS across major vision tasks. <sub>⭐ 500 · Dart</sub>
-- [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app. <sub>⭐ 473 · TypeScript</sub>
-- [imxieyi/waifu2x-mac](https://github.com/imxieyi/waifu2x-mac) - Waifu2x-ios port to macOS, still in Core ML and Metal <sub>⭐ 470 · Swift</sub>
-- [xybrid-ai/xybrid](https://github.com/xybrid-ai/xybrid) - Cross-platform on-device AI toolkit <sub>⭐ 466 · Rust</sub>
-- [newo-ether/Agora](https://github.com/newo-ether/Agora) - Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control. <sub>⭐ 454 · Kotlin</sub>
-- [john-rocky/coreai-model-zoo](https://github.com/john-rocky/coreai-model-zoo) - Downloadable models and conversion recipes for Apple's Core AI on iPhone and Mac. Chat, vision, speech and generative models with per-model validation records, Swift examples through CoreAIKit, and a… <sub>⭐ 452 · Python</sub>
-- [kingreza/SeeFood](https://github.com/kingreza/SeeFood) - Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes <sub>⭐ 449 · Swift</sub>
-- [zeraix/zeraix](https://github.com/zeraix/zeraix) - Open-source local AI workspace — advancing on-device inference. <sub>⭐ 445 · TypeScript</sub>
-- [preternatural-explore/mlx-swift-chat](https://github.com/preternatural-explore/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework. <sub>⭐ 437 · Swift</sub>
-- [dineshsoudagar/local-llms-on-android](https://github.com/dineshsoudagar/local-llms-on-android) - Run local LLMs like Gemma, Qwen, and LLaMA on Android for offline, private, real-time chat and question answering with LiteRT and ONNX Runtime. <sub>⭐ 435 · Kotlin</sub>
-- [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) - Control your Android devices with AI using Model Context Protocol <sub>⭐ 434 · Python</sub>
-- [gyunggyung/AGI-Papers](https://github.com/gyunggyung/AGI-Papers) - A curated archive of breakthroughs in Agents, Architecture, Training, RAG, and On-Device AI. <sub>⭐ 420</sub>
-- [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and the agent alike. <sub>⭐ 419 · TypeScript</sub>
-- [carloslfu/slotstream](https://github.com/carloslfu/slotstream) - Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16… <sub>⭐ 411 · Swift</sub>
-- [stardomains3/oxproxion](https://github.com/stardomains3/oxproxion) - oxproxion is a versatile and user-centric Android chat application designed to interact with various Large Language Models (LLMs). It provides a seamless interface for managing conversations… <sub>⭐ 401 · Kotlin</sub>
-- [oriveo/oriveo](https://github.com/oriveo/oriveo) - Open-source, bring-your-own-key (BYOK) multi-model AI chat client for iOS, Android and the web. One LLM client for OpenAI, Anthropic, Google Gemini, OpenRouter, DeepSeek and ten more providers, plus… <sub>⭐ 391 · Swift</sub>
-- [mutonby/shortcast](https://github.com/mutonby/shortcast) - Native macOS app: drop a long video → auto-cut viral shorts, captioned for TikTok/Reels/YouTube, reframed to vertical, and scheduled. 100% on-device (Gemma 4 12B + WhisperKit + MLX). <sub>⭐ 389 · Swift</sub>
-- [azihsoyn/flutter_mlkit](https://github.com/azihsoyn/flutter_mlkit) - A Flutter plugin to use the Firebase ML Kit. <sub>⭐ 386 · Dart</sub>
-- [IvanCampos/Foundation-Models-Playgrounds](https://github.com/IvanCampos/Foundation-Models-Playgrounds) - Playground examples to demonstrate Foundation Models Framework <sub>⭐ 374 · Swift</sub>
-- [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) - Open-source framework to drive a real phone with AI agents: Android over ADB, iPhone over WebDriverAgent, 62 MCP tools, Python skills, a Vue dashboard, and swappable local or cloud LLMs <sub>⭐ 373 · Python</sub>
-- [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming <sub>⭐ 373 · Swift</sub>
-- [PowerBeef/Vocello](https://github.com/PowerBeef/Vocello) - Vocello: a local, private voice studio for Apple Silicon. Write a script, pick or describe a voice, and generate speech on-device, faster than realtime on an 8 GB M2 Mac mini. Native Swift + MLX, no… <sub>⭐ 372 · Swift</sub>
-- [mi12labs/SwiftAI](https://github.com/mi12labs/SwiftAI) - Build beautiful and reliable LLM apps on iOS and MacOS <sub>⭐ 365 · Swift</sub>
-- [Desert-Ant-Labs/desert-ant-core](https://github.com/Desert-Ant-Labs/desert-ant-core) - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly. <sub>⭐ 363 · Swift</sub>
-- [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6. <sub>⭐ 351 · Swift</sub>
-- [ahmetws/UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - Core ML demo app with Unsplash API <sub>⭐ 350 · Swift</sub>
-- [hanleyweng/Gesture-Recognition-101-CoreML-ARKit](https://github.com/hanleyweng/Gesture-Recognition-101-CoreML-ARKit) - Simple project to recognize hands in realtime. Serves as an Example for building your own object recognizer. <sub>⭐ 347 · Swift</sub>
-- [luicfrr/react-native-vision-camera-face-detector](https://github.com/luicfrr/react-native-vision-camera-face-detector) - Vision Camera Frame Processor Plugin to detect faces using MLKit Face Detector <sub>⭐ 347 · TypeScript</sub>
-- [shubham0204/FaceRecognition_With_FaceNet_Android](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) - Face Recognition using the FaceNet model and MLKit on Android. <sub>⭐ 347 · Kotlin</sub>
-- [AseemWangoo/flutter_programs](https://github.com/AseemWangoo/flutter_programs) - Experiments with Mobile <sub>⭐ 345 · Dart</sub>
-- [tucan9389/ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) - An example running Object Detection using Core ML (YOLOv8, YOLOv5, YOLOv3, MobileNetV2+SSDLite) <sub>⭐ 344 · Swift</sub>
-- [tucan9389/SemanticSegmentation-CoreML](https://github.com/tucan9389/SemanticSegmentation-CoreML) - The example project of inferencing Semantic Segementation using Core ML <sub>⭐ 341 · Swift</sub>
-- [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) - Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs <sub>⭐ 330 · Swift</sub>
-- [cocoa-ai/FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo) - iOS11 demo application for age and gender classification of facial images. <sub>⭐ 324 · Swift</sub>
-- [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders <sub>⭐ 324 · Swift</sub>
-- [Picovoice/picollm](https://github.com/Picovoice/picollm) - On-device LLM Inference Powered by X-Bit Quantization <sub>⭐ 318 · Python</sub>
-- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands. <sub>⭐ 315 · TypeScript</sub>
-- [melsman/mlkit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit <sub>⭐ 307 · Standard ML</sub>
-- [Meet-Miyani/compose-skill](https://github.com/Meet-Miyani/compose-skill) - Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor, Copilot, Gemini CLI and OpenCode write better Compose: MVI, Koin, Navigation… <sub>⭐ 300 · Shell</sub>
-- [Willjay90/AppleFaceDetection](https://github.com/Willjay90/AppleFaceDetection) - Face Detection with CoreML <sub>⭐ 299 · Swift</sub>
-- [saksham2001/PulseLoopiOS](https://github.com/saksham2001/PulseLoopiOS) - A privacy-first, subscription-free health tracker for affordable wearables. <sub>⭐ 298 · Swift</sub>
-- [pablogdcr/react-native-data-detector](https://github.com/pablogdcr/react-native-data-detector) - Cross-platform text data detection for React Native. Uses NSDataDetector on iOS and ML Kit Entity Extraction on Android to detect phone numbers, URLs, emails, dates, and addresses. <sub>⭐ 297 · TypeScript</sub>
-- [nerve-sparks/iris_android](https://github.com/nerve-sparks/iris_android) - IRIS is an android app for interfacing with GGUF / llama.cpp models locally. <sub>⭐ 294 · Kotlin</sub>
-- [mlalma/kokoro-ios](https://github.com/mlalma/kokoro-ios) - Kokoro TTS for iOS and macOSX <sub>⭐ 292 · Swift</sub>
-- [StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM) - Large Language Model (LLM) module for the Spezi Ecosystem <sub>⭐ 291 · Swift</sub>
-- [syaringan357/Android-MobileFaceNet-MTCNN-FaceAntiSpoofing](https://github.com/syaringan357/Android-MobileFaceNet-MTCNN-FaceAntiSpoofing) - Use tensorflow Lite on Android platform, integrated face detection (MTCNN), face anti spoofing (CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing) and face comparison (MobileFaceNet use… <sub>⭐ 284 · Java</sub>
-- [aarongrider/vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr) - VisionCamera Frame Processor Plugin to detect text in real time using MLKit Text Detector (OCR) <sub>⭐ 281 · Java</sub>
-- [Ezaldeen99/BackgroundRemoval](https://github.com/Ezaldeen99/BackgroundRemoval) - Background Removal written with swift using u2net model <sub>⭐ 278 · Swift</sub>
-- [TheTom/vllm-swift](https://github.com/TheTom/vllm-swift) - vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon <sub>⭐ 274 · Python</sub>
-- [Goekdeniz-Guelmez/MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) - A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source. <sub>⭐ 273 · Swift</sub>
-- [huggingface/coreml-examples](https://github.com/huggingface/coreml-examples) - Swift Core ML Examples <sub>⭐ 267 · Jupyter Notebook</sub>
-- [DakeQQ/Native-LLM-for-Android](https://github.com/DakeQQ/Native-LLM-for-Android) - Demonstration of running a native LLM on Android device. <sub>⭐ 265 · C++</sub>
-- [OPPO-Mente-Lab/X-OmniClaw](https://github.com/OPPO-Mente-Lab/X-OmniClaw) - An edge-native Multimodal Android Agent that integrates multimodal perception, memory and action <sub>⭐ 264 · Kotlin</sub>
-- [lambiengcode/compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API. <sub>⭐ 261 · Kotlin</sub>
-- [hollance/coreml-survival-guide](https://github.com/hollance/coreml-survival-guide) - Source code for the book Core ML Survival Guide <sub>⭐ 260 · Python</sub>
-- [ferrumclaudepilgrim/claude-code-android](https://github.com/ferrumclaudepilgrim/claude-code-android) - Run Claude Code natively on Android via Termux or AVF (Android Virtualization Framework) -- no desktop, no SSH, no root required. <sub>⭐ 259 · Shell</sub>
-- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS) <sub>⭐ 253 · Dart</sub>
-- [abdulmominsakib/localmind](https://github.com/abdulmominsakib/localmind) - A mobile application designed to provide a beautiful, fast, and privacy-respecting interface for on device LLM and local LLM servers and cloud providers <sub>⭐ 252 · Dart</sub>
-- [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network permissions, encrypted settings, biometric lock, tamper detection. + GPU… <sub>⭐ 248 · Kotlin</sub>
-- [robmsmt/KerasDeepSpeech](https://github.com/robmsmt/KerasDeepSpeech) - A Keras CTC implementation of Baidu's DeepSpeech for model experimentation <sub>⭐ 242 · Python</sub>
-- [ganeshnikhil/J.A.R.V.I.S.2.0](https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0) - open source assistant hybrid using small models (2b - 5b) and gemini , with image and agentic tool capabilities and integration of RAG with effiecient memory. android support using adb <sub>⭐ 241 · Python</sub>
-- [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai) - A SwiftUI-based Chat App for LLMs on iOS <sub>⭐ 238 · Swift</sub>
-- [atharvakale31/Real-Time_Face_Recognition_Android](https://github.com/atharvakale31/Real-Time_Face_Recognition_Android) - Real-Time Face Recognition App using Tensorflow Lite <sub>⭐ 235 · Java</sub>
-- [eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - Discover, download, compile & launch different image processing & style transfer CoreML models on iOS. <sub>⭐ 231 · C++</sub>
+- [PINTO0309/onnx2tf](https://github.com/PINTO0309/onnx2tf) - ONNXファイルをLite/TFLite/TensorFlow、PyTorchネイティブコード(nn.Module)、トーチスクリプト(.pt)、state_dict (.pt)、エクスポートされたプログラム(.pt2)、およびDynmo ONNXへの変換のためのツール。 また、直接サポート... <sub>⭐ 998 · Python</sub>
+- [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - ジェムマジェムは、WebGPUを介して完全にオンデバイスでGoogleのGemma 4モデルを実行します。 APIキーなし、クラウドなし、マシンを離れるデータはありません。 <sub>⭐ 971 · TypeScript</sub>
+- [mit-han-lab/TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) - TinyChatEngine: オンデバイス LLM インフェレンスライブラリ <sub>⭐ 967 · C++</sub>
+- [friuns2/codex-mobile](https://github.com/friuns2/codex-mobile) - どこでもCodex Mobileを実行します:Linux、Windows、またはAndroidでTermux <sub>⭐ 948 · TypeScript</sub>
+- [hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) - CoreMLを使用したiOS用Tiny YOLO、新しいMPSグラフAPIを利用しています。 <sub>⭐ 943 · Swift</sub>
+- [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - iOS、ML、AR リソースのキュレーションコレクションは、いくつかの UI 追加とスプリンク <sub>⭐ 911 · Swift</sub>
+- [dokun1/Lumina](https://github.com/dokun1/Lumina) - CoreMLモデルを容易に統合するためのSwiftで設計されたカメラ - だけでなく、画像のストリーミング、QR /バーコード検出、および他の多くの機能 <sub>⭐ 911 · Swift</sub>
+- [TheStageAI/TheWhisper](https://github.com/TheStageAI/TheWhisper) - ストリーミングとオンデバイスの使用のための最適化されたウィスパーモデル <sub>⭐ 898 · Python</sub>
+- [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - ローカルでGGUF SLM/LLMsを実行します, Androidでのオンデバイス <sub>⭐ 897 · Kotlin</sub>
+- [eastriverlee/LLM.swift](https://github.com/eastriverlee/LLM.swift) - LLM.swiftは、macOS、iOS、WatchOS、tvOS、VisionOSなどに対応し、ローカルで大きな言語モデルとやり取りできるシンプルで読みやすいライブラリです。 <sub>⭐ 879 · Swift</sub>
+- [Blarc/ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) - IntelliJ ベースのIDE/Android Studio 用の AI コミット。 <sub>⭐ 859 · Kotlin</sub>
+- [Pangu-Immortal/MagicWX](https://github.com/Pangu-Immortal/MagicWX) - アンドロイド17ローカルLMプロトタイプとJetpack Compose、オフラインAI推論実験のためのONNXランタイム。 <sub>⭐ 856 · Kotlin</sub>
+- [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - ChatMLXは、大規模言語モデルに基づくMacOS用のモダンでオープンソース、高性能なチャットアプリケーションです。 <sub>⭐ 833 · Swift</sub>
+- [ml-explore/mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm) - LLMとVLMをMLX Swift搭載 <sub>⭐ 828 · Swift</sub>
+- [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 機械学習リソースのキュレーションリスト、できればCoreML <sub>⭐ 813</sub>
+- [christopherkarani/Wax](https://github.com/christopherkarani/Wax) - すべてのエージェント、テキスト上のサブマイリ秒RAG、Apple Silicon上の写真とビデオのシングルファイルメモリレイヤーを共有しました。 いいえサーバー。 APIはありません。 1つのファイル。 純粋なスウィフト <sub>⭐ 803 · Swift</sub>
+- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym:モバイルGUIエージェントリサーチのための検証可能で高度に並列シミュレーションプラットフォーム · サーバアライプルーファリスタンス/ ブラウザホスト型Androidシミュレータ・検証可能な評価 · スケーラブルオンライン... <sub>⭐ 802 · Python</sub>
+- [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift) - Apple シリコンで MLX を使用した音声処理用のモジュラースイフト SDK <sub>⭐ 791 · Swift</sub>
+- [SharpAI/SwiftLM](https://github.com/SharpAI/SwiftLM) - Apple Silicon用のネイティブMLX Swift LLMインフェレンスサーバー。OpenAI対応API、100B+ MoEモデルのSSDストリーミング、TurboQuant KVキャッシュ圧縮、MACOS + iOS iPhoneアプリ。 <sub>⭐ 777 · Swift</sub>
+- [amitshekhariitbhu/Android-TensorFlow-Lite-Example](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example) - AndroidのTensorFlow Liteマシン学習例 <sub>⭐ 772 · Java</sub>
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui nano — 実際の会話で訓練された小さな文脈から読み込まれたテキスト・ツー・スピーナモデル。219Mアクティブパラメータ(305M合計)、Apache 2.0、音声クローニング、ストリーミング、CPU上で実行します(依存フリーCビルド)。... <sub>⭐ 767 · Python</sub>
+- [memex-lab/memex](https://github.com/memex-lab/memex) - iOSとAndroid用のオープンソース、ローカルファーストAIジャーナルアプリ。 テキスト、写真、音声をキャプチャする - AIエージェントは、タイムラインカードやインサイトに整理します。 あなたのデータはあなたのデバイスにとどまります。 あなた自身のデータを持参してください... <sub>⭐ 762 · Dart</sub>
+- [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - 軽量LLMモデル推論フレームワーク <sub>⭐ 752 · C++</sub>
+- [DoubangoTelecom/ultimateALPR-SDK](https://github.com/DoubangoTelecom/ultimateALPR-SDK) - ディープラーニング(Tensorflow、Tensorflowライト、TensorRT、OpenVX、OpenVINO)を使用してCPU、GPU、VPUおよびNPUのための世界最速のANPR / ALPR実装。 マルチチャイルドセット(ラテン、韓国、中国)&... <sub>⭐ 745 · C++</sub>
+- [akirasosa/mobile-semantic-segmentation](https://github.com/akirasosa/mobile-semantic-segmentation) - モバイルデバイスにおけるリアルタイムのセマンティックセグメンテーション <sub>⭐ 721 · Python</sub>
+- [instavm/clickclickclick](https://github.com/instavm/clickclickclick) - 任意のLM(ローカルまたはリモート)を使用して、自動Androidとコンピュータの使用 <sub>⭐ 714 · Python</sub>
+- [Zhou-Shilin/Aether](https://github.com/Zhou-Shilin/Aether) - アンドロイド、iOS、Mac用のCodex。 / Aether ビザ免除 <sub>⭐ 713 · Kotlin</sub>
+- [hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML) - MobileNetニューラルネットワークは、Appleの新しいCoreMLフレームワークを使用した <sub>⭐ 710 · Swift</sub>
+- [tucan9389/PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) - Core MLを用いたポーズ推定の継承事例 <sub>⭐ 702 · Swift</sub>
+- [huggingface/exporters](https://github.com/huggingface/exporters) - MLとTensorFlow Liteのコアにハッギングフェイスモデルをエクスポート <sub>⭐ 697 · Python</sub>
+- [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - OpenAI ウィスパーとテノールフローライトによるオフライン音声認識 <sub>⭐ 692 · C++</sub>
+- [nuance-dev/Web](https://github.com/nuance-dev/Web) - クイックルックアップとオプションのローカルAIのためのGlanceを備えたネイティブmacOSブラウザ。 <sub>⭐ 667 · Swift</sub>
+- [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - APKツール用MCPサーバー(AndroidリバースエンジニアリングMCPスイートの一部) <sub>⭐ 661 · Python</sub>
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - エージェント! MacOS 14.6以降、Apple SiliconとIntelの最新バージョンをサポートしています。 Mac用の最高のAIエージェント:アクセシビリティ、コード/ビルドをXcodeでドライブし、AppleScript、JXA、Swiftを自動化します... <sub>⭐ 640 · Swift</sub>
+- [Helldez/BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge) - MoEモデルをRAMよりも大きく実行します。 フロンティアサイズのMoEは12 GBの携帯電話、無損失、株式llama.cppで <sub>⭐ 605 · C++</sub>
+- [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5) - Spark-x2.5 はモデルシリーズを開きます。On-Device モデルの Agentic Capabilities の限界を押します <sub>⭐ 605</sub>
+- [aldefy/compose-skill](https://github.com/aldefy/compose-skill) - Jetpack Compose Agent Skill — 実際の androidx/androidx ソースコードのレシートで AI 搭載コーディングガイダンス。Claude コード、Codex CLI、Gemini CLI、Cursor、Copilot、Windsurf などで動作します。 <sub>⭐ 594 · Kotlin</sub>
+- [imxieyi/waifu2x-ios](https://github.com/imxieyi/waifu2x-ios) - ワイフ2xのiOSコアML実装 <sub>⭐ 594 · Swift</sub>
+- [Trans-N-ai/swama](https://github.com/Trans-N-ai/swama) - macOS用の高性能MLXベースのLMインフェレンスエンジンで、ネイティブのSwift実装 <sub>⭐ 592 · Swift</sub>
+- [SwiftBrain/awesome-CoreML-models](https://github.com/SwiftBrain/awesome-CoreML-models) - コアMLモデルのコレクション <sub>⭐ 588</sub>
+- [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) - ノードの創造的なコーディング/3D/水晶コンポーザーによって触発されるイメージの処理用具 <sub>⭐ 569 · Swift</sub>
+- [Meliwat/awesome-ios-design-md](https://github.com/Meliwat/awesome-ios-design-md) - 世界で最高のアプリのための200のプロダクショングレードのデザインシステム。フレームワーク・ニュートラルとSwiftUI、Jetpack Compose、およびExpo。あなたのAIエージェントに1つを手渡し、ピクセルマッチしたUIを出荷します。 <sub>⭐ 565</sub>
+- [ibrahimcetin/reins](https://github.com/ibrahimcetin/reins) - iOS、Android、macOS、Linux および Windows 用の Ollama クライアントで LLM による実験を簡素化します。 <sub>⭐ 544 · Dart</sub>
+- [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - 類似性SearchKitは、iOSおよびmacOSアプリケーション用のオンデバイステキスト埋め込みとセマンティック検索機能を提供するSwiftパッケージです。 <sub>⭐ 535 · Swift</sub>
+- [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os) - オンデバイスLLMは、あなたの人生全体を理解し、コンピュータの使用によって作業を遂行するために積極的に提供しています。 <sub>⭐ 526 · Swift</sub>
+- [Volcomix/virtual-background](https://github.com/Volcomix/virtual-background) - 仮想背景をブラウザにライブビデオストリームに追加するデモ <sub>⭐ 523 · TypeScript</sub>
+- [Gremble-io/Detto](https://github.com/Gremble-io/Detto) - macOSのオンデバイスミーティングキャプチャ、ディクテーション、およびvaultネイティブナレッジレイヤー。 Macは残らない。 <sub>⭐ 520 · Swift</sub>
+- [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) - 超高速iOSアプリと、主要なコンピュータビジョンタスクを横断するリアルタイムコアMLの推論のためのSwiftパッケージ。 <sub>⭐ 515 · Swift</sub>
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Node.jsとC++用の高速、オフラインのOCR。コアML / WebGPUハードウェアアクセラレーションを備えたPP-OCRv6 - 自信のあるスコアや座標で画像内のテキストを認識します。 npm: @arcships/light-ocr <sub>⭐ 511 · C++</sub>
+- [zhongkaifu/TensorSharp](https://github.com/zhongkaifu/TensorSharp) - GGUFモデルのネイティブ.NET LLMインフェレンスエンジンとエージェントランタイム。 TensorSharpは、コンソールアプリケーション、Webベースのチャットボットインターフェイス、iPhoneアプリ、Ollama/OpenAI互換HTTP APIを提供しています... <sub>⭐ 508 · C#</sub>
+- [NightMean/OlliteRT](https://github.com/NightMean/OlliteRT) - Android 携帯電話を OpenAI 互換 LLM インフェレンス サーバーに変える - ローカル、プライベートおよびオープンソース <sub>⭐ 506 · Kotlin</sub>
+- [ultralytics/yolo-flutter-app](https://github.com/ultralytics/yolo-flutter-app) - 公式のUltralytics YOLO Flutterプラグインは、主要なビジョンタスク全体でAndroidとiOS上でリアルタイムの影響を発揮します。 <sub>⭐ 500 · Dart</sub>
+- [coreply/coreply](https://github.com/coreply/coreply) - メッセージングアプリで入力しながら、あなたの文章を終了します。 <sub>⭐ 473 · TypeScript</sub>
+- [imxieyi/waifu2x-mac](https://github.com/imxieyi/waifu2x-mac) - Waifu2x-iosポートをmacOSに、コアMLとメタルではまだ <sub>⭐ 470 · Swift</sub>
+- [xybrid-ai/xybrid](https://github.com/xybrid-ai/xybrid) - クロスプラットフォーム オンデバイス AIツールキット <sub>⭐ 466 · Rust</sub>
+- [newo-ether/Agora](https://github.com/newo-ether/Agora) - アンドロイド BYOK LLMクライアントは、マルチプロペラアクセス、エージェントワークフロー、リモートデバイス制御を備えています。 <sub>⭐ 454 · Kotlin</sub>
+- [john-rocky/coreai-model-zoo](https://github.com/john-rocky/coreai-model-zoo) - iPhoneとMacでAppleのCore AI用のダウンロード可能なモデルと変換レシピ。 チャット、ビジョン、音声、および遺伝子型モデルは、モデルごとの検証レコード、コアAIKitによるSwift例、および... <sub>⭐ 452 · Python</sub>
+- [kingreza/SeeFood](https://github.com/kingreza/SeeFood) - HBOのシリコンバレーに触発:SeeFoodは、CoreMLを使用してさまざまな料理を検出するiOSアプリです <sub>⭐ 449 · Swift</sub>
+- [zeraix/zeraix](https://github.com/zeraix/zeraix) - オープンソースのローカルAIワークスペース — オンデバイス推論を促進します。 <sub>⭐ 445 · TypeScript</sub>
+- [preternatural-explore/mlx-swift-chat](https://github.com/preternatural-explore/mlx-swift-chat) - AppleのMLXフレームワークでローカルLMを実行するためのマルチプラットフォームSwiftUIフロントエンド。 <sub>⭐ 437 · Swift</sub>
+- [dineshsoudagar/local-llms-on-android](https://github.com/dineshsoudagar/local-llms-on-android) - オフライン、プライベート、リアルタイムチャット、LiteRTとONNXランタイムで応答する質問のためにAndroid上でGemma、Qwen、およびLLaMAなどのローカルLMを実行します。 <sub>⭐ 435 · Kotlin</sub>
+- [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) - モデルコンテキストプロトコルを使用して、AndroidデバイスをAIで制御 <sub>⭐ 434 · Python</sub>
+- [gyunggyung/AGI-Papers](https://github.com/gyunggyung/AGI-Papers) - エージェント、アーキテクチャ、トレーニング、RAG、およびオンデバイスAIにおける画期的なアーカイブ <sub>⭐ 420</sub>
+- [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - 自己進化するエージェントを持つ電子ブックリーダー:書籍を通した読書を覚え、プラグインは読者と代理店を同様に拡張します。 <sub>⭐ 419 · TypeScript</sub>
+- [carloslfu/slotstream](https://github.com/carloslfu/slotstream) - それを保持できないMac上で105 GB AIモデルを実行します。 Slotstreamは、SSDからQwen3.8-Flash-Next(専門家の125B混合物)をストリームし、メモリ内の忙しい専門家をキャッシュするので、16でMac上で動作します... <sub>⭐ 411 · Swift</sub>
+- [stardomains3/oxproxion](https://github.com/stardomains3/oxproxion) - oxproxionは、さまざまな大きな言語モデル(LLM)と相互作用するように設計された汎用的でユーザー中心のAndroidチャットアプリケーションです。 これは、会話を管理するためのシームレスなインターフェイスを提供します... <sub>⭐ 401 · Kotlin</sub>
+- [oriveo/oriveo](https://github.com/oriveo/oriveo) - iOS、AndroidおよびWeb用のオープンソース、持ち物所有キー(BYOK)マルチモデルAIチャットクライアント。 OpenAI、Anthropic、Google Gemini、OpenRouter、DeepSeekなどの1つのLLMクライアントは、さらに多くのプロバイダを... <sub>⭐ 391 · Swift</sub>
+- [mutonby/shortcast](https://github.com/mutonby/shortcast) - ネイティブmacOSアプリ:長いビデオ→オートカットバイラルショートパンツをドロップし、TikTok /リール/ YouTubeのためにキャプションされ、垂直にリフレームし、スケジュールされます。 100%オンデバイス(Gemma 4 12B + WhisperKit + MLX)。 <sub>⭐ 389 · Swift</sub>
+- [azihsoyn/flutter_mlkit](https://github.com/azihsoyn/flutter_mlkit) - Firebase MLキットを使用するFlutterプラグイン。 <sub>⭐ 386 · Dart</sub>
+- [IvanCampos/Foundation-Models-Playgrounds](https://github.com/IvanCampos/Foundation-Models-Playgrounds) - ファンデーションモデルフレームワークを実証する遊び場の例 <sub>⭐ 374 · Swift</sub>
+- [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) - オープンソースフレームワークは、AIエージェントと実際の携帯電話を駆動します。 ADB、WebDriverAgent、62 MCPツール、Pythonスキル、Vueダッシュボード、およびスワップ可能なローカルまたはクラウドLMs上のAndroid <sub>⭐ 373 · Python</sub>
+- [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - ストリーミングをサポートするiOSとmacOS用のパフォーマントマークダウンライブラリ <sub>⭐ 373 · Swift</sub>
+- [PowerBeef/Vocello](https://github.com/PowerBeef/Vocello) - Vocello:Apple Siliconのローカル、プライベートボイススタジオ。スクリプトを書くか、音声を引用するか、または記述し、8 GB M2 Mac miniでリアルタイムよりも高速に音声オンデバイスを作成します。 ネイティブSwift + MLX、いいえ... <sub>⭐ 372 · Swift</sub>
+- [mi12labs/SwiftAI](https://github.com/mi12labs/SwiftAI) - iOSとMacOSで美しく信頼性の高いLMアプリを構築 <sub>⭐ 365 · Swift</sub>
+- [Desert-Ant-Labs/desert-ant-core](https://github.com/Desert-Ant-Labs/desert-ant-core) - iOS、macOS、Android、Web用のオンデバイスAI SDK。コアML、LiteRT、およびWebAssemblyでフルオフラインで実行される小規模な集中型モデル。 <sub>⭐ 363 · Swift</sub>
+- [awizemann/harness](https://github.com/awizemann/harness) - iOSシミュレータ、macOSアプリ、Webアプリケーション向けのAI主導のユーザーテスト。 プレーン言語で目標を書く; LLMエージェントはUIを駆動し、摩擦を報告します。 MacOS 14 +、Swift 6。 <sub>⭐ 351 · Swift</sub>
+- [ahmetws/UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - Unsplash API を使用したコアMLデモアプリ <sub>⭐ 350 · Swift</sub>
+- [hanleyweng/Gesture-Recognition-101-CoreML-ARKit](https://github.com/hanleyweng/Gesture-Recognition-101-CoreML-ARKit) - リアルタイムで手を認識するシンプルなプロジェクト。自分のオブジェクト認識者をビルドするための例として評価します。 <sub>⭐ 347 · Swift</sub>
+- [luicfrr/react-native-vision-camera-face-detector](https://github.com/luicfrr/react-native-vision-camera-face-detector) - ビジョンカメラフレームプロセッサプラグインにより、MLKitフェイスディテクタを使用して顔を検知 <sub>⭐ 347 · TypeScript</sub>
+- [shubham0204/FaceRecognition_With_FaceNet_Android](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) - AndroidでFaceNetモデルとMLKitを使用して顔認識。 <sub>⭐ 347 · Kotlin</sub>
+- [AseemWangoo/flutter_programs](https://github.com/AseemWangoo/flutter_programs) - モバイルを用いた実験 <sub>⭐ 345 · Dart</sub>
+- [tucan9389/ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) - コアML(YOLOv8、YOLOv5、YOLOv3、MobileNetV2+SSDLite)を用いたオブジェクト検出例 <sub>⭐ 344 · Swift</sub>
+- [tucan9389/SemanticSegmentation-CoreML](https://github.com/tucan9389/SemanticSegmentation-CoreML) - Core MLを用いたセマンティック・セグメンテーションを継承するプロジェクト <sub>⭐ 341 · Swift</sub>
+- [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) - プロンプトでパーソナルMacアプリを即座に作成します。 オンデバイスとクラウドLMをサポート <sub>⭐ 330 · Swift</sub>
+- [cocoa-ai/FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo) - 顔画像の年齢と性別分類のためのiOS11デモアプリケーション。 <sub>⭐ 324 · Swift</sub>
+- [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - MLTensor と MLX Embedders を用いたデバイス RAG 用のSwiftベースのベクターデータベース <sub>⭐ 324 · Swift</sub>
+- [Picovoice/picollm](https://github.com/Picovoice/picollm) - オンデバイスLMインフェレンスXビット量子化 <sub>⭐ 318 · Python</sub>
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - LLM が自然言語コマンドで iOS シミュレータとやり取りすることを可能にするモデルコンテキストプロトコル (MCP) サーバー。 <sub>⭐ 315 · TypeScript</sub>
+- [melsman/mlkit](https://github.com/melsman/mlkit) - 標準MLコンパイラとツールキット <sub>⭐ 307 · Standard ML</sub>
+- [Meet-Miyani/compose-skill](https://github.com/Meet-Miyani/compose-skill) - Compose Skill(Compose Kit):Jetpack Compose&Compose Multiplatformのエージェントスキル。Claude Code、Codex、Curesor、Copilot、Gemini CLI、OpenCodeはより良いコンポーズを書く:MVI、Koin、ナビゲーション... <sub>⭐ 300 · Shell</sub>
+- [Willjay90/AppleFaceDetection](https://github.com/Willjay90/AppleFaceDetection) - CoreMLによる顔検出 <sub>⭐ 299 · Swift</sub>
+- [saksham2001/PulseLoopiOS](https://github.com/saksham2001/PulseLoopiOS) - 手頃な価格のウェアラブルのためのプライバシーファースト、サブスクリプションフリーの健康トラッカー。 <sub>⭐ 298 · Swift</sub>
+- [pablogdcr/react-native-data-detector](https://github.com/pablogdcr/react-native-data-detector) - React Native 用のクロスプラットフォームのテキストデータ検出。iOS および Android 上で NSDataDetector を使用して、電話番号、URL、メール、日付、アドレスを検知します。 <sub>⭐ 297 · TypeScript</sub>
+- [nerve-sparks/iris_android](https://github.com/nerve-sparks/iris_android) - IRISは、GGUF / llama.cppモデルとローカルで対面するためのアンドロイドアプリです。 <sub>⭐ 294 · Kotlin</sub>
+- [mlalma/kokoro-ios](https://github.com/mlalma/kokoro-ios) - iOSとmacOSX用のKikoro TTS <sub>⭐ 292 · Swift</sub>
+- [StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM) - Speziエコシステム用の大型ランゲージモデル(LLM)モジュール <sub>⭐ 291 · Swift</sub>
+- [syaringan357/Android-MobileFaceNet-MTCNN-FaceAntiSpoofing](https://github.com/syaringan357/Android-MobileFaceNet-MTCNN-FaceAntiSpoofing) - Androidプラットフォーム上の tensorflow Lite を使用して、顔の検出 (MTCNN), 顔のアンチスプーフィング (CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing) と顔の比較 (MobileFaceNet 使用... <sub>⭐ 284 · Java</sub>
+- [aarongrider/vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr) - VisionCameraフレームプロセッサプラグインは、MLKitテキスト検出器(OCR)を使用してリアルタイムでテキストを検出します。 <sub>⭐ 281 · Java</sub>
+- [Ezaldeen99/BackgroundRemoval](https://github.com/Ezaldeen99/BackgroundRemoval) - u2netモデルを使用した高速な背景除去 <sub>⭐ 278 · Swift</sub>
+- [TheTom/vllm-swift](https://github.com/TheTom/vllm-swift) - mlx-swiftによって動力を与えられるvLLMの金属のプラグイン — Appleのケイ素に高性能LLMの影響 <sub>⭐ 274 · Python</sub>
+- [Goekdeniz-Guelmez/MLX-LoRA-Studio](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) - アップルシリコンでLLMの微調整のためのネイティブMacアプリ - フルオンデバイス、完全にオープンソース。 <sub>⭐ 273 · Swift</sub>
+- [huggingface/coreml-examples](https://github.com/huggingface/coreml-examples) - SwiftコアML例 <sub>⭐ 267 · Jupyter Notebook</sub>
+- [DakeQQ/Native-LLM-for-Android](https://github.com/DakeQQ/Native-LLM-for-Android) - Androidデバイス上でネイティブLMを実行するための実証 <sub>⭐ 265 · C++</sub>
+- [OPPO-Mente-Lab/X-OmniClaw](https://github.com/OPPO-Mente-Lab/X-OmniClaw) - マルチモーダル認識、メモリおよびアクションを統合するエッジネイティブマルチモーダルAndroidエージェント <sub>⭐ 264 · Kotlin</sub>
+- [lambiengcode/compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用してChatGPT Kotlin - Androidチャットボットをコンパイルします。 ChatGPT APIからストリーム応答を許可します。 <sub>⭐ 261 · Kotlin</sub>
+- [hollance/coreml-survival-guide](https://github.com/hollance/coreml-survival-guide) - 本コアMLサバイバルガイドのソースコード <sub>⭐ 260 · Python</sub>
+- [ferrumclaudepilgrim/claude-code-android](https://github.com/ferrumclaudepilgrim/claude-code-android) - Claudeコードは、TermuxまたはAVF(Android Virtualization Framework)を介してネイティブに実行します。デスクトップなし、SSHなし、rootは必要ありません。 <sub>⭐ 259 · Shell</sub>
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChatは、デスクトップ(Win,Mac)およびモバイル(Android、iOS)で利用可能な複数の最先端のLM(ChatGPTとGemini)モデル用のアプリです。 <sub>⭐ 253 · Dart</sub>
+- [abdulmominsakib/localmind](https://github.com/abdulmominsakib/localmind) - デバイスLMおよびローカルLLMサーバーとクラウドプロバイダに美しく、高速でプライバシー尊重インターフェイスを提供するように設計されたモバイルアプリケーション <sub>⭐ 252 · Dart</sub>
+- [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Android用のプライベートオンデバイスAIチャット — ARMに最適化されたSIMDで、ローカルの任意のGGUFモデルを実行します。ゼロネットワーク許可、暗号化された設定、生体認証ロック、改ざん検知。 + GPU ... <sub>⭐ 248 · Kotlin</sub>
+- [robmsmt/KerasDeepSpeech](https://github.com/robmsmt/KerasDeepSpeech) - モデル実験のためのBaiduのDeepSpeechのKeras CTC実装 <sub>⭐ 242 · Python</sub>
+- [ganeshnikhil/J.A.R.V.I.S.2.0](https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0) - 小さなモデル(2b - 5b)とGeminiを使用してオープンソースのアシスタントハイブリッド、画像およびエージェントツール機能とRAGの統合を効率性メモリで。 adbを使用したアンドロイドサポート <sub>⭐ 241 · Python</sub>
+- [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai) - iOSでLM用のSwiftUIベースのチャットアプリ <sub>⭐ 238 · Swift</sub>
+- [atharvakale31/Real-Time_Face_Recognition_Android](https://github.com/atharvakale31/Real-Time_Face_Recognition_Android) - Tensorflow Liteを使用したリアルタイム顔認識アプリ <sub>⭐ 235 · Java</sub>
+- [eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - iOSで異なる画像処理とスタイルの転送コアMLモデルを発見、ダウンロード、コンパイル&起動します。 <sub>⭐ 231 · C++</sub>
 - [ileafsolutions/StyleArt](https://github.com/ileafsolutions/StyleArt) - スタイルアートライブラリは、COREMLを使用して、事前に訓練された機械学習モデルのセットを使用して画像を処理し、それらをArtスタイルに変換します。 <sub>⭐ 227 · Swift</sub>
-- [Dripfarm/SVDB](https://github.com/Dripfarm/SVDB) - Swift Vector Database. On-device, local vector database for building the next-generation of user experiences <sub>⭐ 224 · Swift</sub>
-- [jaromiru/diktafon](https://github.com/jaromiru/diktafon) - Diktafon is a private, open-source voice memo app that transcribes and summarizes your recordings entirely on your device — organized like cassette tapes. <sub>⭐ 223 · C++</sub>
-- [FluidInference/FluidUse](https://github.com/FluidInference/FluidUse) - Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API <sub>⭐ 221 · Swift</sub>
-- [zsajjad/react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) - Text Detector from image for react native using firebase MLKit on android and Tesseract on iOS <sub>⭐ 220 · Java</sub>
-- [tattn/LocalLLMClient](https://github.com/tattn/LocalLLMClient) - Swift package to run local LLMs on iOS, macOS, Linux <sub>⭐ 219 · Swift</sub>
-- [Verlintas/BetterAIChat](https://github.com/Verlintas/BetterAIChat) - Native Android AI agent: use your own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, device tools, Shizuku shell, screen analysis, web search, custom Skills, voice assistant <sub>⭐ 219 · Kotlin</sub>
-- [ayutaz/piper-plus](https://github.com/ayutaz/piper-plus) - Multilingual neural TTS (6 languages: JA/EN/ZH/ES/FR/PT, code supports SV) — C++, C#, Rust, Go, Python, npm (WASM). VITS + Prosody, streaming, CUDA/CoreML/DirectML. pip install piper-plus / npm… <sub>⭐ 217 · Python</sub>
-- [capawesome-team/capacitor-mlkit](https://github.com/capawesome-team/capacitor-mlkit) - ML Kit plugins for Capacitor. Supports Android and iOS. <sub>⭐ 216 · Java</sub>
-- [niki914/zafiro](https://github.com/niki914/zafiro) - Open-source BYOK AI agent for Android. Full phone control, native Shell & Python 3, with Skills and MCP support. Built with Material 3 Expressive. Works via Shizuku (root optional). Bring any… <sub>⭐ 214 · Kotlin</sub>
-- [StephenGrider/MLKits](https://github.com/StephenGrider/MLKits) - Starter projects for machine learning <sub>⭐ 212 · JavaScript</sub>
-- [surendramaran/YOLO](https://github.com/surendramaran/YOLO) - YOLOv8, YOLOv9, YOLOv10, YOLOv11 in Mobile Devices, run different machine learning model inside Android and iOS. <sub>⭐ 210 · Kotlin</sub>
+- [Dripfarm/SVDB](https://github.com/Dripfarm/SVDB) - スイフト・ベクターデータベース。オンデバイス、次世代のユーザーエクスペリエンスを構築するローカル・ベクター・データベース <sub>⭐ 224 · Swift</sub>
+- [jaromiru/diktafon](https://github.com/jaromiru/diktafon) - Diktafonは、カセットテープのように整理されたあなたのデバイス上で完全に記録を転記し、まとめるプライベートでオープンソースのボイスメモアプリです。 <sub>⭐ 223 · C++</sub>
+- [FluidInference/FluidUse](https://github.com/FluidInference/FluidUse) - ローカルコンピュータは、Appleのシリコンでの使用: アラヤとオンデバイス型の決定をタイプし、MacOSアクセシビリティAPIによって駆動されるCUA-S1-FORMSに充填を形成します <sub>⭐ 221 · Swift</sub>
+- [zsajjad/react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) - iOSでAndroidとTesseract上のFirebase MLKitを使用してネイティブに反応するためのイメージからテキスト検出器 <sub>⭐ 220 · Java</sub>
+- [tattn/LocalLLMClient](https://github.com/tattn/LocalLLMClient) - iOS、macOS、LinuxでローカルLMを実行するためのSwiftパッケージ <sub>⭐ 219 · Swift</sub>
+- [Verlintas/BetterAIChat](https://github.com/Verlintas/BetterAIChat) - ネイティブAndroid AIエージェント:独自のAPIキー(OpenAI/Anthropic/Gemini)、オープンコードスタイルのモード、デバイスツール、Shizukuシェル、画面分析、Web検索、カスタムスキル、ボイスアシスタント <sub>⭐ 219 · Kotlin</sub>
+- [ayutaz/piper-plus](https://github.com/ayutaz/piper-plus) - 多言語ニューラル TTS(6言語:JA/EN/ZH/ES/FR/PT、コードはSVをサポートしています) — C++、C#、Rust、Go、Python、npm(WASM)。 VITS +プロソディ、ストリーミング、CUDA / CoreML / DirectML。 ピップインストールpiper-plus / npm... <sub>⭐ 217 · Python</sub>
+- [capawesome-team/capacitor-mlkit](https://github.com/capawesome-team/capacitor-mlkit) - Capacitor用のMLキットプラグイン。 AndroidとiOSをサポートしています。 <sub>⭐ 216 · Java</sub>
+- [niki914/zafiro](https://github.com/niki914/zafiro) - オープンソースのBYOK AIエージェントをAndroid用。フル電話制御、ネイティブシェル&パイソン3、スキルとMCP対応。Material 3 Expressiveで構築されています。 Shizuku(rootオプション)を介して動作します。 <sub>⭐ 214 · Kotlin</sub>
+- [StephenGrider/MLKits](https://github.com/StephenGrider/MLKits) - 機械学習のためのスタータープロジェクト <sub>⭐ 212 · JavaScript</sub>
+- [surendramaran/YOLO](https://github.com/surendramaran/YOLO) - YOLOv8、YOLOv9、YOLOv10、YOLOv11をモバイルデバイスで実行し、AndroidとiOS内で異なる機械学習モデルを実行します。 <sub>⭐ 210 · Kotlin</sub>
 - [dzianisv/opencode-mobile](https://github.com/dzianisv/opencode-mobile) - OpenCode Mobile — OpenCode AI コーディングエージェント用のオープンソースの Android クライアント。Tailscale 上のホストサーバーに対して、電話からAI コーディングセッションを実行します。 F-Droidで利用できます。 <sub>⭐ 209 · TypeScript</sub>
-- [Eric-Terminal/ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio) - A native LLM client for iOS & Apple Watch. Run local GGUF models offline via llama.cpp, or connect to OpenAI/Claude/Gemini. Features local RAG, Model Context Protocol (MCP) tools, Siri Shortcuts, and… <sub>⭐ 207 · Swift</sub>
-- [ardamavi/Vocalization-Sign-Language-iOS](https://github.com/ardamavi/Vocalization-Sign-Language-iOS) - Vocalization sign language iOS App with deep learning using CoreML. <sub>⭐ 204 · Swift</sub>
-- [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter) - Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs). <sub>⭐ 204 · Python</sub>
-- [zhouwg/kantv](https://github.com/zhouwg/kantv) - workbench for learning and practicing on-device AI technologies under real-world scenarios on Android smartphones with online TV. powered by llama.cpp + whisper.cpp + FFmpeg + opencv-mobile <sub>⭐ 201 · Java</sub>
-- [ferranpons/Llamatik](https://github.com/ferranpons/Llamatik) - True on-device AI for Kotlin Multiplatform (Android, iOS, Desktop, JVM, WASM). LLM, Speech-to-Text and Image Generation — powered by llama.cpp, whisper.cpp and stable-diffusion.cpp. <sub>⭐ 200 · Kotlin</sub>
-- [john-rocky/CoreML-LLM](https://github.com/john-rocky/CoreML-LLM) - Run LLMs on Apple devices with CoreML, optimized for Apple Neural Engine + GPU <sub>⭐ 194 · Python</sub>
-- [pasrom/meeting-transcriber](https://github.com/pasrom/meeting-transcriber) - On-device meeting transcriber for macOS — auto-records Teams/Zoom/Webex, transcribes & separates speakers locally. No cloud. Open-source alternative to Otter/Granola/Fireflies. <sub>⭐ 193 · Swift</sub>
-- [mkbula/HideMyData](https://github.com/mkbula/HideMyData) - Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model <sub>⭐ 190 · Swift</sub>
-- [tianci-sh/XPTranslateText](https://github.com/tianci-sh/XPTranslateText) - xposed module translate text by MLKit / gemini2.0 / google api <sub>⭐ 190 · Java</sub>
-- [vincentfpgarcia/from-pytorch-to-coreml](https://github.com/vincentfpgarcia/from-pytorch-to-coreml) - A simple guide that explains the steps from training a simple PyTorch image classifier to converting the generated neural network into a CoreML model ready for production <sub>⭐ 189 · Python</sub>
-- [jigsawxyz/react-native-coreml-image](https://github.com/jigsawxyz/react-native-coreml-image) - ReactNative CoreML Live Image Recognition through Machine Learning <sub>⭐ 187 · Swift</sub>
-- [eddywm/KTFLITE](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite <sub>⭐ 183 · Kotlin</sub>
-- [shlgd/SuperDictate](https://github.com/shlgd/SuperDictate) - Fast, private, local dictation for Apple Silicon Macs. <sub>⭐ 183 · Swift</sub>
-- [aszc-dev/ComfyUI-CoreMLSuite](https://github.com/aszc-dev/ComfyUI-CoreMLSuite) - A set of custom nodes for ComfyUI that allow you to use Core ML models in your ComfyUI workflows. <sub>⭐ 182 · Python</sub>
-- [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) - iOS development ClaudeCode plugin for mindful token and context usage. Contains modular MCPs that group various Xcode/IDB tools based on your current workflow. <sub>⭐ 182 · TypeScript</sub>
-- [ultralytics/inference](https://github.com/ultralytics/inference) - High-performance Ultralytics YOLO inference in Rust with ONNX Runtime, GPU backends, CLI, and WebGPU/WASM. <sub>⭐ 182 · Rust</sub>
-- [venkatasg/DeTeXt](https://github.com/venkatasg/DeTeXt) - iOS app that detects LaTeX symbols from drawings. Built using PencilKit, SwiftUI, Combine and CoreML for iOS 14(or greater) and macOS 11(or greater). <sub>⭐ 180 · Swift</sub>
-- [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit <sub>⭐ 179 · TypeScript</sub>
-- [JackZeng0208/llama.cpp-android-tutorial](https://github.com/JackZeng0208/llama.cpp-android-tutorial) - llama.cpp tutorial on Android phone <sub>⭐ 174</sub>
-- [likedan/Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) - A Car Recognition Framework for CoreML <sub>⭐ 174 · Swift</sub>
-- [christopherkarani/Espresso](https://github.com/christopherkarani/Espresso) - Run transformers directly on Apple's Neural Engine in Swift bypass coreml entirely <sub>⭐ 172 · Swift</sub>
-- [jcao-ai/ShowAndTell](https://github.com/jcao-ai/ShowAndTell) - A Show And Tell implementation for iOS 11.0 based on CoreML <sub>⭐ 171 · Swift</sub>
-- [bitwize-ai/Logue](https://github.com/bitwize-ai/Logue) - A local-first workspace for documents, tasks and meetings on macOS — nested spaces, typed properties, relations and saved views, with transcription, Smart Minutes and an agent running entirely… <sub>⭐ 170 · Swift</sub>
-- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite <sub>⭐ 170 · Rust</sub>
-- [Meridius-Labs/apple-on-device-ai](https://github.com/Meridius-Labs/apple-on-device-ai) -  Apple foundation model bindings for NodeJS (supports Vercel AI SDK) <sub>⭐ 169 · TypeScript</sub>
-- [terryky/android_tflite](https://github.com/terryky/android_tflite) - GPU Accelerated TensorFlow Lite applications on Android NDK. Higher accuracy face detection, Age and gender estimation, Human pose estimation, Artistic style transfer <sub>⭐ 169 · C++</sub>
-- [kiyotakali/Miru](https://github.com/kiyotakali/Miru) - An open-source AI companion that actually remembers you — runs entirely on your own Mac or server. Desktop pet · long-term memory · proactive companionship · multi-device sync. <sub>⭐ 168 · Python</sub>
-- [npna/CoreMLPlayer](https://github.com/npna/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly <sub>⭐ 167 · Swift</sub>
-- [r4ghu/iOS-CoreML-Yolo](https://github.com/r4ghu/iOS-CoreML-Yolo) - Almost Real-time Object Detection using Apple's CoreML and YOLO v1 <sub>⭐ 167 · Jupyter Notebook</sub>
-- [buzsh/SwiftDiffusion](https://github.com/buzsh/SwiftDiffusion) - Stable Diffusion implementation using CoreML, PyTorch and SwiftUI <sub>⭐ 166 · Swift</sub>
-- [JacopoMangiavacchi/SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift <sub>⭐ 166 · Swift</sub>
-- [john-rocky/SemanticImage](https://github.com/john-rocky/SemanticImage) - A collection of easy-to-use image/video filter. <sub>⭐ 166 · Swift</sub>
-- [saurabhav88/EnviousWispr](https://github.com/saurabhav88/EnviousWispr) - Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS… <sub>⭐ 165 · Swift</sub>
-- [the-dagger/Pokidex](https://github.com/the-dagger/Pokidex) - Android app that identifies and detects Pokemons in the provided Image using Tensorflow Lite and Firebase MLKit <sub>⭐ 165 · Kotlin</sub>
-- [lee-b/kobold_assistant](https://github.com/lee-b/kobold_assistant) - Like ChatGPT's voice conversations with an AI, but entirely offline/private/trade-secret-friendly, using local AI models such as LLama 2 and Whisper <sub>⭐ 164 · Python</sub>
-- [akimach/GestureAI-CoreML-iOS](https://github.com/akimach/GestureAI-CoreML-iOS) - Hand-gesture recognition on iOS app using CoreML <sub>⭐ 162 · Swift</sub>
-- [ashvardanian/SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - Real-time on-device text-to-image and image-to-image Semantic Search with video stream camera capture using USearch & UForm AI Swift SDKs for Apple devices <sub>⭐ 162 · Swift</sub>
-- [FunnySaltyFish/Transtation-KMP](https://github.com/FunnySaltyFish/Transtation-KMP) - A translation app on Android/Desktop built by Kotlin Multiplatform + Compose Multiplatform, enjoy amazing experience with LLMs' support <sub>⭐ 162 · Kotlin</sub>
-- [cdiddy77/react-native-llm-mediapipe](https://github.com/cdiddy77/react-native-llm-mediapipe) - Run an LLM on iOS & Android devices using React Native <sub>⭐ 159 · TypeScript</sub>
-- [ShadowSafin/AndroLLM](https://github.com/ShadowSafin/AndroLLM) - Open-source Android AI using LiteRT-LM with hardware acceleration, cloud providers, memory, and voice. <sub>⭐ 156 · Kotlin</sub>
-- [jkrukowski/swift-embeddings](https://github.com/jkrukowski/swift-embeddings) - Run embedding models locally in Swift using MLTensor. <sub>⭐ 155 · Swift</sub>
-- [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models) - A Big Awesome List CoreML Models. <sub>⭐ 154</sub>
-- [devin-lai/onnx2coreml](https://github.com/devin-lai/onnx2coreml) - Convert ONNX models to Apple Core ML (.mlpackage / .mlmodel) with numerical-parity verification against ONNX Runtime. <sub>⭐ 153 · Python</sub>
-- [Somnibyte/MLKit](https://github.com/Somnibyte/MLKit) - A simple machine learning framework written in Swift <sub>⭐ 153 · Swift</sub>
-- [rayl15/OpenVision](https://github.com/rayl15/OpenVision) - Open-source iOS app connecting Meta Ray-Ban smart glasses to AI — 5 backends (on-device MLX models, Apple Intelligence, OpenAI, Gemini Live, OpenClaw), on-device neural voice, face recognition & live… <sub>⭐ 152 · Swift</sub>
-- [TheMurusTeam/PromptToImage](https://github.com/TheMurusTeam/PromptToImage) - Stable Diffusion app for macOS based on CoreML models <sub>⭐ 152 · Swift</sub>
-- [gonzaroman/acornix](https://github.com/gonzaroman/acornix) - Vibe coding on your mobile phone. A modular, self-evolving AI-powered system for Termux in your phone, designed to control the device and automate complex tasks, create apps in seconds. If you can… <sub>⭐ 150 · Python</sub>
-- [ZSeven-W/rish-app](https://github.com/ZSeven-W/rish-app) - Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH · Claude Code · Codex · GLM). <sub>⭐ 150 · Objective-C++</sub>
-- [d-date/google-mlkit-swiftpm](https://github.com/d-date/google-mlkit-swiftpm) - Google MLKit for iOS in Swift Package Manager <sub>⭐ 148 · PureBasic</sub>
-- [mrousavy/vision-camera-image-labeler](https://github.com/mrousavy/vision-camera-image-labeler) - VisionCamera Frame Processor Plugin to label images using MLKit Vision <sub>⭐ 148 · Kotlin</sub>
-- [adobe-research/convmelspec](https://github.com/adobe-research/convmelspec) - Convmelspec: Convertible Melspectrograms via 1D Convolutions <sub>⭐ 147 · Python</sub>
-- [alimertozdemir/EPassportNFCReader](https://github.com/alimertozdemir/EPassportNFCReader) - ID Card and E-Passport Reader NFC Android Application - Sample Project with MLKit <sub>⭐ 147 · Java</sub>
-- [cocoa-ai/CocoaAI](https://github.com/cocoa-ai/CocoaAI) - The Cocoa Artificial Intelligence Lab <sub>⭐ 147</sub>
-- [vonholst/SSDMobileNet_CoreML](https://github.com/vonholst/SSDMobileNet_CoreML) - Real-time object-detection using SSD on Mobilenet on iOS using CoreML, exported using tf-coreml <sub>⭐ 145 · Swift</sub>
-- [rokoss21/iosm-cli](https://github.com/rokoss21/iosm-cli) - AI Engineering Runtime for Professional Developers — terminal coding agent with IOSM methodology, MCP, checkpoints, orchestration, and extensions <sub>⭐ 144 · TypeScript</sub>
-- [hwchong/MNIST_DRAW](https://github.com/hwchong/MNIST_DRAW) - This is a sample project demonstrating the use of Keras (Tensorflow) for the training of a MNIST model for handwriting recognition using CoreML on iOS 11 for inference. <sub>⭐ 142 · Jupyter Notebook</sub>
-- [heypandax/pairlet](https://github.com/heypandax/pairlet) - Pairlet (formerly CC Pocket / cc-pocket) — Continue your local AI coding tasks from phone, tablet, or desktop. <sub>⭐ 139 · Kotlin</sub>
-- [LettuceAI/app](https://github.com/LettuceAI/app) - Privacy-first AI roleplay & BYOK (Bring Your Own Key) & roleplaying, companion and storytelling app with long-term memory, custom characters, and 20+ providers. Android, Windows, macOS, Linux.… <sub>⭐ 139 · TypeScript</sub>
-- [mallman/CoreMLaMa](https://github.com/mallman/CoreMLaMa) - LaMa for Core ML <sub>⭐ 138 · Python</sub>
-- [tucan9389/DepthPrediction-CoreML](https://github.com/tucan9389/DepthPrediction-CoreML) - The example of running Depth Prediction using Core ML <sub>⭐ 138 · Swift</sub>
-- [netguru/CarLens-iOS](https://github.com/netguru/CarLens-iOS) - CarLens - Recognize and Collect Cars <sub>⭐ 137 · Swift</sub>
-- [SuperMarcus/waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) - Super-resolution videos in macOS with Waifu2x. <sub>⭐ 136 · Swift</sub>
-- [Tomotsugu-dev/Hindsight](https://github.com/Tomotsugu-dev/Hindsight) - Local-first desktop activity tracker — see where your hours go, with on-device AI daily summaries and optional multi-device sync <sub>⭐ 135 · Rust</sub>
-- [avencera/speakrs](https://github.com/avencera/speakrs) - Speaker diarization in Rust. 312–912x realtime on Apple Silicon, 50–121x on CUDA. Matches pyannote accuracy. <sub>⭐ 134 · Rust</sub>
-- [Lausbert/Exermote](https://github.com/Lausbert/Exermote) - Using Machine Learning to predict the type of exercise from movement data <sub>⭐ 134 · Swift</sub>
-- [madeye/ad-skipper](https://github.com/madeye/ad-skipper) - Local VLM-based Android splash-ad skipper: accessibility service + three-tier detection (node match -> OCR -> llama.cpp GGUF VLM grounding) <sub>⭐ 131 · Kotlin</sub>
-- [omarmhaimdat/face_ai](https://github.com/omarmhaimdat/face_ai) - Face Recognition and Detection on iOS Using Native Swift Code, Core ML, and ARKit <sub>⭐ 131 · Swift</sub>
-- [RWKV-APP/RWKV_APP](https://github.com/RWKV-APP/RWKV_APP) - Cross-platform, local-first RWKV chat built with Flutter for Android, iOS, Windows, macOS, and Linux. <sub>⭐ 131 · Dart</sub>
-- [smpanaro/coreml-llm-cli](https://github.com/smpanaro/coreml-llm-cli) - CLI to demonstrate running a large language model (LLM) on Apple Neural Engine. <sub>⭐ 131 · Swift</sub>
-- [ctxr-dev/llm-wiki-memory](https://github.com/ctxr-dev/llm-wiki-memory) - Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-device embeddings and an MCP server. <sub>⭐ 130 · JavaScript</sub>
-- [SyntheticAutonomicMind/SAM](https://github.com/SyntheticAutonomicMind/SAM) - Synthetic Autonomic Mind - An AI assistant for everyone. <sub>⭐ 130 · Swift</sub>
-- [mechramc/Orion](https://github.com/mechramc/Orion) - Local AI runtime for training & running small LLMs directly on Apple Neural Engine (ANE). No CoreML. No Metal. Offline, on-device fine-tuning & inference on M-series silicon. <sub>⭐ 128 · Objective-C</sub>
-- [mingti-org/phyai](https://github.com/mingti-org/phyai) - PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-device deployment. <sub>⭐ 127 · Python</sub>
-- [edouardlp/Mask-RCNN-CoreML](https://github.com/edouardlp/Mask-RCNN-CoreML) - Mask-RCNN for Core ML <sub>⭐ 126 · Swift</sub>
-- [chenjd/Unity-ARFoundation-HandDetection](https://github.com/chenjd/Unity-ARFoundation-HandDetection) - Hand Detection and Tracking with Unity ARFoundation and CoreML. <sub>⭐ 122 · C#</sub>
-- [cometchat/cometchat-skills](https://github.com/cometchat/cometchat-skills) - Add CometChat chat & messaging and voice & video calls to any React, Next.js, React Native, Angular, Android, iOS, or Flutter project through your AI coding agent. Works with Claude Code, Cursor… <sub>⭐ 122 · JavaScript</sub>
-- [cocoa-ai/SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 demo application for sentiment polarity analysis. <sub>⭐ 121 · Swift</sub>
-- [Illuminated2020/DeepAgents-AutoGLM](https://github.com/Illuminated2020/DeepAgents-AutoGLM) - Integrate Open-AutoGLM's Android & iOS GUI automation into DeepAgents-CLI via LangChain Middleware, combining LLM orchestration with vision-guided GUI control. <sub>⭐ 121 · Python</sub>
-- [christopherkarani/Conduit](https://github.com/christopherkarani/Conduit) - Unified Swift SDK for LLM inference across local and cloud providers <sub>⭐ 120 · Swift</sub>
-- [felinics/Autofish](https://github.com/felinics/Autofish) - An AI Agent tool to automate Android devices reliably <sub>⭐ 118 · Rust</sub>
-- [alexiscreuzot/NSTDemo](https://github.com/alexiscreuzot/NSTDemo) - A minimal example of Neural Style Transfer on iOS using CoreML <sub>⭐ 116 · Swift</sub>
-- [appclawhq/AppClaw](https://github.com/appclawhq/AppClaw) - AI-powered mobile automation agent — describe what you want in plain English, AppClaw reads the screen, reasons, and acts. LLM-agnostic, open-source, zero telemetry. <sub>⭐ 116 · TypeScript</sub>
-- [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) - Swift SDK for running chat, vision and speech models on iPhone and Mac with Apple's Core AI. Model download and caching, FoundationModels integration, and runnable examples with documented OS, SDK… <sub>⭐ 116 · Swift</sub>
-- [margaretmz/Cartoonizer-with-TFLite](https://github.com/margaretmz/Cartoonizer-with-TFLite) - How to create a Cartoonizer Android app with TensorFlow Lite models. <sub>⭐ 116 · Jupyter Notebook</sub>
-- [Mintplex-Labs/anythingllm-mobile](https://github.com/Mintplex-Labs/anythingllm-mobile) - An AI Agent that lives in your pocket. Local-first and privacy focused. <sub>⭐ 116 · TypeScript</sub>
-- [off-grid-ai/OGAD](https://github.com/off-grid-ai/OGAD) - Your private, on-device personal AI assistant for macOS and Windows. Chat, create, search files, and connect tools with local models. Includes an OpenAI-compatible API. Opt-in Pro sees, remembers… <sub>⭐ 116 · TypeScript</sub>
-- [cainxx/image-segmenter-ios](https://github.com/cainxx/image-segmenter-ios) - Ios integrated deeplab model Implementation of the Semantic Segmentation <sub>⭐ 114 · Swift</sub>
-- [chmouel/liseur](https://github.com/chmouel/liseur) - Open-source EPUB reader and remote library client for Android, with a Kindle-inspired reading experience <sub>⭐ 113 · Kotlin</sub>
-- [EachSheep/ShortcutsBench](https://github.com/EachSheep/ShortcutsBench) - ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents <sub>⭐ 113 · Python</sub>
-- [rudrankriyam/Ichi](https://github.com/rudrankriyam/Ichi) - Experimenting with conversational AI in iOS, macOS and visionOS apps <sub>⭐ 113 · Swift</sub>
-- [rodgomesc/vision-camera-face-detector](https://github.com/rodgomesc/vision-camera-face-detector) - VisionCamera Frame Processor Plugin to detect faces using MLKit Vision Face Detector <sub>⭐ 112 · Java</sub>
-- [s1ddok/HED-CoreML](https://github.com/s1ddok/HED-CoreML) - Holistically-Nested Edge Detection (HED) using CoreML and Swift <sub>⭐ 112 · Swift</sub>
-- [junhwanjang/face_landmark_dnn](https://github.com/junhwanjang/face_landmark_dnn) - Face Landmark Detector based on Mobilenet V1 <sub>⭐ 110 · Python</sub>
-- [hitanshu-dhawan/FirebaseMLKit](https://github.com/hitanshu-dhawan/FirebaseMLKit) - ㅤ(ARTICLE) Firebase ML Kit 101 Series <sub>⭐ 109 · Kotlin</sub>
-- [omarmhaimdat/WhoAreYou](https://github.com/omarmhaimdat/WhoAreYou) - Face detection and recognition with CoreML and ARKit <sub>⭐ 109 · Swift</sub>
-- [atharvnaik1/ipaship-audit](https://github.com/atharvnaik1/ipaship-audit) - Let your AI Agent review your iOS/Android apps for appstore policy & security bugs with ipaShip's web app, cli, mcp or claude-skill with safety hooks layer any any llm agent you use - loopin fixes in… <sub>⭐ 108 · TypeScript</sub>
-- [VocaHQ/vocamac](https://github.com/VocaHQ/vocamac) - Open-source, offline voice-to-text for macOS. Hold a hotkey, speak, text appears. Private on-device dictation with multiple speech engines. <sub>⭐ 107 · Swift</sub>
-- [benttega/ovo-local-llm](https://github.com/benttega/ovo-local-llm) - A private Claude-Code-style coding agent for Apple Silicon — run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys. <sub>⭐ 106 · TypeScript</sub>
-- [ddh0/easy-llama](https://github.com/ddh0/easy-llama) - Python package wrapping llama.cpp for on-device LLM inference <sub>⭐ 106 · Python</sub>
-- [skytells-research/DeepInfant](https://github.com/skytells-research/DeepInfant) - DeepInfant® is a Neural network system designed to predict whether and why your baby is crying. <sub>⭐ 106 · Python</sub>
-- [cocoa-ai/FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo) - iOS11 demo application for flower classification. <sub>⭐ 105 · Swift</sub>
-- [garfiec/Librechat-Mobile](https://github.com/garfiec/Librechat-Mobile) - Native Android & iOS client for LibreChat, built with Kotlin Multiplatform and Compose Multiplatform <sub>⭐ 105 · Kotlin</sub>
-- [petershifi123-wq/solve-lite](https://github.com/petershifi123-wq/solve-lite) - CoreML-native local decision runtime for AI agents · 18 install profiles · 20-scenario protocol · offline · ~50.93 MB · by Soulite Magic <sub>⭐ 105 · Python</sub>
-- [flagdizero/jenny-android-ai-agent](https://github.com/flagdizero/jenny-android-ai-agent) - A local-first personal AI agent that lives on your Android phone. Permanent memory, scheduled autonomous work, self-written mini-apps, and an optional home-screen launcher. Your data stays on the… <sub>⭐ 104 · Python</sub>
-- [ggoggam/vitre](https://github.com/ggoggam/vitre) - WebView automation for Kotlin Multiplatform. Run page workflows in an embedded WebView on Android, iOS and desktop, from your app, a test, or an LLM agent over MCP or Koog. <sub>⭐ 104 · Kotlin</sub>
-- [schappim/coreml-cli](https://github.com/schappim/coreml-cli) - A native command-line interface for working with Apple Core ML models on macOS <sub>⭐ 103 · Swift</sub>
-- [Helldez/HearoPilot-App](https://github.com/Helldez/HearoPilot-App) - On-device AI meeting assistant — real-time transcription & LLM insights, 100% offline <sub>⭐ 102 · Kotlin</sub>
-- [LangLang03/LineCodePro](https://github.com/LangLang03/LineCodePro) - An AI coding workstation that fits in your pocket. <sub>⭐ 102 · C++</sub>
-- [taahamahdi/i18n-ai-translate](https://github.com/taahamahdi/i18n-ai-translate) - Auto-translate i18n locale files with AI. Translate i18next JSON, Gettext PO, Java .properties, iOS .strings, Rails YAML, and TS/JS catalogues using ChatGPT, Claude, Gemini, or local Ollama models.… <sub>⭐ 101 · TypeScript</sub>
-- [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader <sub>⭐ 100 · Swift</sub>
-- [henrypldev/react-native-nitro-mlx](https://github.com/henrypldev/react-native-nitro-mlx) - Run LLMs on device using Apple's MLX <sub>⭐ 100 · TypeScript</sub>
-- [hollance/coreml-training](https://github.com/hollance/coreml-training) - Source code for my blog post series "On-device training with Core ML" <sub>⭐ 100 · Jupyter Notebook</sub>
-- [IJ-Apps/Image-Classification-App-with-Custom-TensorFlow-Model](https://github.com/IJ-Apps/Image-Classification-App-with-Custom-TensorFlow-Model) - Learn how to code your own neural network in Python, then deploy it in an Image Classification App using TensorFlow Lite. <sub>⭐ 100 · Java</sub>
-- [fikrikarim/volocal](https://github.com/fikrikarim/volocal) - Fully local voice AI for iOS <sub>⭐ 99 · Swift</sub>
-- [Natxo09/Eris.](https://github.com/Natxo09/Eris.) - Eris is a private AI chat application that runs entirely on your device using Apple's MLX framework. Named after the dwarf planet that challenged our understanding of the solar system, Eris… <sub>⭐ 99 · Swift</sub>
-- [anhvt52/jetpack-compose-skills](https://github.com/anhvt52/jetpack-compose-skills) - Agent skill for modern Android development with Jetpack Compose — best practices for code generation and review <sub>⭐ 98</sub>
-- [appcoda/CoreMLDemo](https://github.com/appcoda/CoreMLDemo) - A simple demo for Core ML <sub>⭐ 98 · Swift</sub>
-- [hollance/Inception-CoreML](https://github.com/hollance/Inception-CoreML) - Running Inception-v3 on Core ML <sub>⭐ 98 · Swift</sub>
-- [memovai/mimimodel](https://github.com/memovai/mimimodel) - MimiModel: Agentic LLM on a $5 chip. 100% on-device. Private by design. <sub>⭐ 97 · C</sub>
-- [yoloyash/overtchat](https://github.com/yoloyash/overtchat) - A simpler self-hosted alternative to Open WebUI. Bring your own API keys or local models. Native Android and iOS clients. <sub>⭐ 97 · TypeScript</sub>
-- [cocoa-ai/ModelZoo](https://github.com/cocoa-ai/ModelZoo) - A central GitHub repository for sharing Core ML models <sub>⭐ 96</sub>
-- [fguzman82/CLIP-Finder2](https://github.com/fguzman82/CLIP-Finder2) - CLIP-Finder enables semantic offline searches of images from gallery photos using natural language descriptions or the camera. Built on Apple's MobileCLIP-S0 architecture, it ensures optimal… <sub>⭐ 96 · Swift</sub>
-- [owngoal-dev/WriteNow](https://github.com/owngoal-dev/WriteNow) - AI tool within your hands. <sub>⭐ 95</sub>
-- [qoli/eisonAI](https://github.com/qoli/eisonAI) - Local-first Safari Web Extension + native app for structure-first reading, with bundled WebLLM popup inference and token-aware long-document processing on Apple platforms. <sub>⭐ 95 · Swift</sub>
-- [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - Batch convert video to text using openai's whisper or the local coreML via whisper.cpp on your MacBook <sub>⭐ 94 · Go</sub>
-- [vidursatija/BlazePalm](https://github.com/vidursatija/BlazePalm) - PyTorch & CoreML implementation of MediaPipe Hands <sub>⭐ 94 · Jupyter Notebook</sub>
-- [iamwavecut/MLX-DLSS](https://github.com/iamwavecut/MLX-DLSS) - NVIDIA DLSS 5 neural rendering and DLSS frame generation on Apple Silicon (MLX/Metal, Core ML) and PyTorch; weights extracted from your own DLSS libraries <sub>⭐ 93 · Swift</sub>
-- [Yoonit-Labs/nativescript-yoonit-camera](https://github.com/Yoonit-Labs/nativescript-yoonit-camera) - The most advanced and modern NativeScript Camera module for Android and iOS with a lot of awesome features <sub>⭐ 93 · TypeScript</sub>
-- [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread) - Real-time YOLOv8n UAV detection on the RK3588S NPU / saturates the sensor at 46 FPS / ~140 MB RAM / fully hardware-accelerated (ISP+RGA+NPU) / on-device LLM scene summaries <sub>⭐ 91 · C++</sub>
-- [dailystudio/tensorflow-lite-examples-android](https://github.com/dailystudio/tensorflow-lite-examples-android) - Examples of Tensorflow Lite on Android <sub>⭐ 91 · Kotlin</sub>
-- [lucasnewman/f5-tts-swift](https://github.com/lucasnewman/f5-tts-swift) - Implementation of F5-TTS in Swift using MLX <sub>⭐ 91 · Swift</sub>
-- [vladiH/flutter_vision](https://github.com/vladiH/flutter_vision) - A Flutter plugin for managing both Yolov5 model and Tesseract v4, accessing with TensorFlow Lite 2.x. Support object detection, segmentation and OCR on both iOS and Android. <sub>⭐ 90 · C</sub>
-- [krishkumar/createml-playgrounds](https://github.com/krishkumar/createml-playgrounds) - Create ML playgrounds for building machine learning models. For developers and data scientists. <sub>⭐ 89 · Swift</sub>
-- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - On-device AI for Expo and React Native. Local LLM, speech-to-text, vision, and embeddings. No API keys, no cloud. <sub>⭐ 89 · TypeScript</sub>
-- [DonTizi/Swiftrag](https://github.com/DonTizi/Swiftrag) - Implement Retrieval Augmented Generation (RAG) in Swift for iOS and macOS apps with local LLMS. Enhance your Apple ecosystem applications with context-aware AI responses using native NLP and Ollama… <sub>⭐ 88 · Swift</sub>
-- [ghostwright/shadow](https://github.com/ghostwright/shadow) - Your computer was paying attention the whole time. 14-modality capture. Proactive intelligence. Computer-use training data. Native macOS. All on-device. Open source. <sub>⭐ 88 · Swift</sub>
-- [ramanujammv1988/edge-veda](https://github.com/ramanujammv1988/edge-veda) - On-device AI SDK for Flutter — LLM inference, vision, STT, TTS, image generation, embeddings, RAG, and function calling. Metal GPU on iOS/macOS. <sub>⭐ 88 · Dart</sub>
-- [umair13adil/tensorflow_lite_flutter](https://github.com/umair13adil/tensorflow_lite_flutter) - A flutter project for demonstarting usage of TensorFlow Lite model created with teachablemachine. <sub>⭐ 88 · Dart</sub>
-- [NeverSight/NeverC](https://github.com/NeverSight/NeverC) - The AI-friendly C23 compiler for security research, built on LLVM (WIP) <sub>⭐ 87 · C</sub>
-- [yuhche/Hair_Segmentation_Keras](https://github.com/yuhche/Hair_Segmentation_Keras) - Implement some hair segmentation network and a color similarity calculating method. <sub>⭐ 87 · Python</sub>
-- [happysingh23828/CameraX-FaceDetection-MlKit](https://github.com/happysingh23828/CameraX-FaceDetection-MlKit) - This is a sample app built to demonstrate the use of MLKit Face detection. Dedicated to all Android Developers with heart. <sub>⭐ 86 · Kotlin</sub>
-- [orailnoor/termux-llm](https://github.com/orailnoor/termux-llm) - Run uncensored AI models locally on your Android phone. One-script setup via Termux + llama.cpp. No root, no cloud, no internet needed. <sub>⭐ 86 · Shell</sub>
-- [r4ghu/iOS-CoreML-MNIST](https://github.com/r4ghu/iOS-CoreML-MNIST) - Real-time Number Recognition using Apple's CoreML 2.0 and MNIST <sub>⭐ 86 · Jupyter Notebook</sub>
-- [Vadbeg/nafnet-coreml](https://github.com/Vadbeg/nafnet-coreml) - NAFNet deblurring model inference using CoreML <sub>⭐ 86 · Python</sub>
-- [OpenBMB/MobileCPM](https://github.com/OpenBMB/MobileCPM) - A Toolkit for Running On-device Large Language Models (LLMs) in APP <sub>⭐ 85 · C++</sub>
-- [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs. <sub>⭐ 85 · Python</sub>
-- [existential-birds/beagle](https://github.com/existential-birds/beagle) - Agent Skills marketplace: framework-aware skills for code review, documentation, test-plan generation, AI-writing detection, architectural analysis, and git workflows — for Python, Go, Rust, Elixir… <sub>⭐ 83 · Shell</sub>
-- [monologg/transformers-android-demo](https://github.com/monologg/transformers-android-demo) - Transformers android examples (Tensorflow Lite & Pytorch Mobile) <sub>⭐ 83 · Java</sub>
-- [tanmayb123/OpenAI-Whisper-CoreML](https://github.com/tanmayb123/OpenAI-Whisper-CoreML) - OpenAI's Whisper ported to CoreML <sub>⭐ 83 · Swift</sub>
-- [iannuttall/natter](https://github.com/iannuttall/natter) - Fast, local-first dictation for macOS <sub>⭐ 82 · Swift</sub>
-- [mohaiminur/Textchat](https://github.com/mohaiminur/Textchat) - Android Chating Application project with Machine Learning ML-KIT <sub>⭐ 82 · Java</sub>
-- [scouzi1966/vesta-mac-dist](https://github.com/scouzi1966/vesta-mac-dist) - Vesta macOS Distribution - Official releases and downloads.Vesta AI Chat Assistant for macOS - Built with SwiftUI, Swift MLX and Apple Intelligence using Apple's on device model on MacOs Tahoe (MacOS… <sub>⭐ 82</sub>
-- [froggeric/gemini-watermark-and-synthid-remover](https://github.com/froggeric/gemini-watermark-and-synthid-remover) - Cross platform CLI tool for removing watermarks from images and videos generated by Google Gemini, Veo, and NotebookLM. <sub>⭐ 81 · C++</sub>
-- [shubham0204/Age-Gender_Estimation_TF-Android](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) - Age + Gender Estimation on Android with TensorFlow Lite <sub>⭐ 81 · Kotlin</sub>
-- [vbalagovic/flutter_scalable_ocr](https://github.com/vbalagovic/flutter_scalable_ocr) - Flutter scalable OCR package is a wrapper around google_mlkit_text_recognition where you can partialy select part of camera which text will be processed of. <sub>⭐ 81 · Dart</sub>
-- [gouthamvgk/facemesh_coreml_tf](https://github.com/gouthamvgk/facemesh_coreml_tf) - This repository contains the code for converting tflite model of Real-time Facial Surface Geometry from Monocular Video on Mobile GPUs and Blazeface to tensorflow and coreml. <sub>⭐ 79 · Python</sub>
-- [kellyvv/OpenReshot](https://github.com/kellyvv/OpenReshot) - A native iOS app for re-shooting regular photos from different angles. <sub>⭐ 79 · Swift</sub>
-- [inceptyon-labs/gargantua](https://github.com/inceptyon-labs/gargantua) - Native macOS system cleaner with YAML-driven safety rules, local AI explainability via MLX, and an MCP server for agent-controlled cleanup workflows. <sub>⭐ 78 · Swift</sub>
-- [leehack/llamadart](https://github.com/leehack/llamadart) - Cross-platform on-device LLM inference for Dart & Flutter: GGUF via llama.cpp and LiteRT-LM on Android, iOS, macOS, Windows, Linux and web. <sub>⭐ 78 · Dart</sub>
-- [nwhacks-loki/loki](https://github.com/nwhacks-loki/loki) - Proof-of-concept of emotion-targeted content delivery using machine learning and ARKit. <sub>⭐ 78 · Swift</sub>
-- [petrukha-ivan/mlx-swift-structured](https://github.com/petrukha-ivan/mlx-swift-structured) - Structured output generation in Swift <sub>⭐ 78 · Swift</sub>
-- [rusty4444/hermes-voice-ha-integration](https://github.com/rusty4444/hermes-voice-ha-integration) - Home Assistant voice stack integration for Hermes Agent — on-device voice control, wake word → STT → LLM → TTS → HA media_player. No cloud. No latency. No subscription. <sub>⭐ 78 · Python</sub>
-- [sawfwair/mere-run](https://github.com/sawfwair/mere-run) - Run local image, text, speech, vision, music, and video workflows, plus model management and a loopback OpenAI-compatible API server. The repo ships the core libraries and the mere.run executable. <sub>⭐ 78 · Swift</sub>
-- [royshil/note-taker](https://github.com/royshil/note-taker) - A lo-fi AI-first note taker running locally on-device <sub>⭐ 77 · Python</sub>
-- [drakulavich/kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - Give your tools a voice — speech to text and back, 25 languages, up to ~19× faster than Whisper. On your machine. <sub>⭐ 76 · TypeScript</sub>
-- [neuralize-ai/edgerunner](https://github.com/neuralize-ai/edgerunner) - Simplified AI runtime integration for mobile app development <sub>⭐ 76 · C++</sub>
-- [Rishit-dagli/ML-with-Android-11](https://github.com/Rishit-dagli/ML-with-Android-11) - A repository demonstrating all that's new in Android 11 for ML and how you could try it out for your own use-cases <sub>⭐ 76 · Java</sub>
-- [ultralytics/iSky](https://github.com/ultralytics/iSky) - Ultralytics iSky iOS app for real-time neural style transfer, transforming live iPhone and iPad camera video with five famous painting styles. <sub>⭐ 76 · Swift</sub>
-- [ApolloZhu/AR-Lipstick](https://github.com/ApolloZhu/AR-Lipstick) - ARKit/FirebaseMLVision based virtual lipstick. TRY IT <sub>⭐ 75 · Swift</sub>
-- [IJ-Apps/Image-Classification-App-with-Teachable-Machine](https://github.com/IJ-Apps/Image-Classification-App-with-Teachable-Machine) - Android app that uses a TensorFlow Lite model for image classification of common objects, trained through Google's Teachable Machine. <sub>⭐ 75 · Java</sub>
-- [liekzejaws/rushlight](https://github.com/liekzejaws/rushlight) - Rushlight — Offline survival computer. OsmAnd fork with local LLM, offline Wikipedia, P2P sharing, and morse code comms. <sub>⭐ 75 · Java</sub>
-- [magicnight/Mac-MLX](https://github.com/magicnight/Mac-MLX) - macMLX brings local LLM inference to Apple Silicon with a first-class native macOS experience. No cloud, no telemetry, no Electron — just your Mac running models at full speed. <sub>⭐ 75 · Swift</sub>
-- [PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino](https://github.com/PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino) - WHENet - ONNX, OpenVINO, TFLite, TensorRT, EdgeTPU, CoreML, TFJS, YOLOv4/YOLOv4-tiny-3L <sub>⭐ 75 · Python</sub>
-- [Greninja9257/LabLLM](https://github.com/Greninja9257/LabLLM) - A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data… <sub>⭐ 74 · Swift</sub>
-- [hollance/CoreML-Custom-Layers](https://github.com/hollance/CoreML-Custom-Layers) - Source code for the blog post "Custom Layers in Core ML" <sub>⭐ 74 · Swift</sub>
-- [r3dbars/transcripted](https://github.com/r3dbars/transcripted) - Record meetings and dictation on your Mac. Everything becomes plain Markdown files that Claude, Codex, or any AI can search. Free, open source, 100% local transcription. <sub>⭐ 74 · Swift</sub>
-- [RxNaison/Gemini-Pro](https://github.com/RxNaison/Gemini-Pro) - WebView Application Google AI Studio with Additional Functionality <sub>⭐ 74 · Kotlin</sub>
-- [HMS-MLKit/HUAWEI-HMS-MLKit-Sample](https://github.com/HMS-MLKit/HUAWEI-HMS-MLKit-Sample) - HUAWEI HMS meachine learning services demo apk download. <sub>⭐ 73 · Java</sub>
-- [dbsystel/yolov5-coreml-tools](https://github.com/dbsystel/yolov5-coreml-tools) - Scripts for exporting YOLOv5 models to CoreML and benchmarking it. <sub>⭐ 72 · Python</sub>
-- [lichuang/semquery](https://github.com/lichuang/semquery) - Local document Q&A in your terminal — powered by on-device LLMs. <sub>⭐ 72 · Rust</sub>
-- [sacmehta/ESPNetv2-COREML](https://github.com/sacmehta/ESPNetv2-COREML) - Semantic segmentation on iPhone using ESPNetv2 <sub>⭐ 72 · Swift</sub>
-- [Kashif-E/Mlkit-text-recognition-and-entity-extraction](https://github.com/Kashif-E/Mlkit-text-recognition-and-entity-extraction) - OCR app with entity extraction with mlkit and camerax <sub>⭐ 71 · Kotlin</sub>
-- [LifeValue/HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) - Open-source, patient-controlled health record app with on-device AI. Aggregates medical data from 52K+ providers via FHIR R4. Offline-first. Flutter. <sub>⭐ 71 · Dart</sub>
-- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or… <sub>⭐ 71 · Kotlin</sub>
-- [john-rocky/apple-silicon-llm-bench](https://github.com/john-rocky/apple-silicon-llm-bench) - Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI, MLX, llama.cpp, LiteRT-LM and Core ML on the same model and harness, every number with its quantization… <sub>⭐ 70 · Python</sub>
-- [srgtuszy/llama-cpp-swift](https://github.com/srgtuszy/llama-cpp-swift) - Swift bindings for llama-cpp library <sub>⭐ 70 · Swift</sub>
-- [tucan9389/FingertipEstimation-CoreML](https://github.com/tucan9389/FingertipEstimation-CoreML) - Detect fingertip by using machine learning for pose estimation <sub>⭐ 70 · Swift</sub>
-- [vladimir-chernykh/coreml-performance](https://github.com/vladimir-chernykh/coreml-performance) - Utility to test the performance of CoreML models. <sub>⭐ 70 · Swift</sub>
-- [mattmireles/kokoro-coreml](https://github.com/mattmireles/kokoro-coreml) - PyTorch → CoreML conversion pipeline for Kokoro TTS. Unlocks fast on-device text-to-speech on Apple Neural Engine. <sub>⭐ 69 · Python</sub>
-- [Aatricks/llmedge](https://github.com/Aatricks/llmedge) - Android native AI inference library, bringing text, image, video, STT, TTS inference <sub>⭐ 68 · Kotlin</sub>
-- [john-rocky/CoreML-YOLOv5](https://github.com/john-rocky/CoreML-YOLOv5) - A sample project how to use YOLOv5 in iOS <sub>⭐ 68 · Swift</sub>
-- [makeml-app/Live-Object-Recognition-CoreML](https://github.com/makeml-app/Live-Object-Recognition-CoreML) - This contains iOS template project that can be used to run your own CoreML Object Detection Model <sub>⭐ 68 · Swift</sub>
-- [john-rocky/Inpainting-CoreML](https://github.com/john-rocky/Inpainting-CoreML) - Remove unwanted objects from photos on iPhone — AOT-GAN inpainting converted to Core ML, with a runnable sample app. <sub>⭐ 67 · Swift</sub>
-- [MacPaw/macapptree](https://github.com/MacPaw/macapptree) - Repository for macos accessibility parser <sub>⭐ 67 · Python</sub>
+- [Eric-Terminal/ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio) - iOSとApple WatchのネイティブLLMクライアント。 ローカルGGUFモデルをオフラインで実行します。 llama.cpp、またはOpenAI / Claude/Geminiに接続します。 ローカルRAG、モデルコンテキストプロトコル(MCP)ツール、Siriショートカット、および... <sub>⭐ 207 · Swift</sub>
+- [ardamavi/Vocalization-Sign-Language-iOS](https://github.com/ardamavi/Vocalization-Sign-Language-iOS) - ボーカライゼーションのサイン言語 iOS アプリで、CoreML を使用したディープラーニング <sub>⭐ 204 · Swift</sub>
+- [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter) - Droid LLM Hunterは、大言語モデル(LLM)を使用してAndroidアプリケーションで脆弱性をスキャンするためのツールです。 <sub>⭐ 204 · Python</sub>
+- [zhouwg/kantv](https://github.com/zhouwg/kantv) - オンラインTVでAndroidスマートフォンの現実的なシナリオに基づく学習と実践のための仕事場. によって供給 llama.cpp + ウィスパー.cpp + FFmpeg + opencv-mobile <sub>⭐ 201 · Java</sub>
+- [ferranpons/Llamatik](https://github.com/ferranpons/Llamatik) - Kotlin Multiplatform (Android、iOS、デスクトップ、JVM、WASM) の真のオンデバイスAI。 LLM、スピーチ・ツー・テキストおよびイメージ生成 — llama.cpp、whisper.cpp、安定した拡散機能を備えています。 <sub>⭐ 200 · Kotlin</sub>
+- [john-rocky/CoreML-LLM](https://github.com/john-rocky/CoreML-LLM) - アップルネラルエンジン+GPU用に最適化されたCoreMLでLLMを実行 <sub>⭐ 194 · Python</sub>
+- [pasrom/meeting-transcriber](https://github.com/pasrom/meeting-transcriber) - macOSのオンデバイス会議トランスクレーバー — 自動レコードチーム/ズーム/Webex、トランジスト&ローカルでスピーカーを分離します。 クラウドなし。 Otter / Granola / Firefoxへのオープンソース代替。 <sub>⭐ 193 · Swift</sub>
+- [mkbula/HideMyData](https://github.com/mkbula/HideMyData) - デバイスビジョンOCRとOpenAIのプライバシーフィルタモデルでネイティブmacOS PII除去ソフトウェア <sub>⭐ 190 · Swift</sub>
+- [tianci-sh/XPTranslateText](https://github.com/tianci-sh/XPTranslateText) - xposed モジュールは MLKit/gemini2.0/google api によってテキストを翻訳します <sub>⭐ 190 · Java</sub>
+- [vincentfpgarcia/from-pytorch-to-coreml](https://github.com/vincentfpgarcia/from-pytorch-to-coreml) - 生成されたニューラルネットワークをCoreMLモデルに変える簡単なPyTorchイメージの分類器を訓練する手順を説明するシンプルなガイド <sub>⭐ 189 · Python</sub>
+- [jigsawxyz/react-native-coreml-image](https://github.com/jigsawxyz/react-native-coreml-image) - マシン学習によるReactNative CoreMLライブ画像認識 <sub>⭐ 187 · Swift</sub>
+- [eddywm/KTFLITE](https://github.com/eddywm/KTFLITE) - KotlinとTensorflow LiteのAndroid上でコンピュータビジョン <sub>⭐ 183 · Kotlin</sub>
+- [shlgd/SuperDictate](https://github.com/shlgd/SuperDictate) - AppleのシリコンMac用の高速でプライベートなローカル予測。 <sub>⭐ 183 · Swift</sub>
+- [aszc-dev/ComfyUI-CoreMLSuite](https://github.com/aszc-dev/ComfyUI-CoreMLSuite) - ComfyUI用のカスタムノードセットで、ComfyUIワークフローでCore MLモデルを使用できます。 <sub>⭐ 182 · Python</sub>
+- [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) - マインドフルなトークンとコンテキストの使用のためのiOS開発ClaudeCodeプラグイン。 現在のワークフローに基づいて、さまざまなXcode / IDBツールをグループ化するモジュラーMCPが含まれています。 <sub>⭐ 182 · TypeScript</sub>
+- [ultralytics/inference](https://github.com/ultralytics/inference) - ONNXランタイム、GPUバックエンド、CLI、WebGPU/WASM で Rust の高性能なUltralytics YOLOインフェレンス。 <sub>⭐ 182 · Rust</sub>
+- [venkatasg/DeTeXt](https://github.com/venkatasg/DeTeXt) - 描画からLaTeXシンボルを検出するiOSアプリ。 iOS 14(またはそれ以上の)とmacOS 11(またはそれ以上)のPentcilKit、SwiftUI、CombineおよびCoreMLを使用して構築されています。 <sub>⭐ 180 · Swift</sub>
+- [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - VisionCamera、Skia、MLKitを使ってリアルタイムでブールするアプリ <sub>⭐ 179 · TypeScript</sub>
+- [JackZeng0208/llama.cpp-android-tutorial](https://github.com/JackZeng0208/llama.cpp-android-tutorial) - Androidの携帯電話上のllama.cppチュートリアル <sub>⭐ 174</sub>
+- [likedan/Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) - CoreML の車認識フレームワーク <sub>⭐ 174 · Swift</sub>
+- [christopherkarani/Espresso](https://github.com/christopherkarani/Espresso) - 速いバイパスのcoremlでAppleのニューラルエンジンに直接変圧器を完全に動かして下さい <sub>⭐ 172 · Swift</sub>
+- [jcao-ai/ShowAndTell](https://github.com/jcao-ai/ShowAndTell) - CoreMLに基づくiOS 11.0の実装を表示し、指示する <sub>⭐ 171 · Swift</sub>
+- [bitwize-ai/Logue](https://github.com/bitwize-ai/Logue) - macOSのドキュメント、タスクおよびミーティングのためのローカルファーストなワークスペース — ネストされた空間、タイプされたプロパティ、リレーションと保存されたビュー、トランスクリプション、スマート・ミニッツ、そしてエージェントが完全に実行する... <sub>⭐ 170 · Swift</sub>
+- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - iPhoneとmacOSのAgenticボイスノート - ルースト、ディオクサス、ランスDB + RIG + SQLite <sub>⭐ 170 · Rust</sub>
+- [Meridius-Labs/apple-on-device-ai](https://github.com/Meridius-Labs/apple-on-device-ai) - NodeJS用のApple Foundationモデルバインディング(Vercel AI SDKをサポート) <sub>⭐ 169 · TypeScript</sub>
+- [terryky/android_tflite](https://github.com/terryky/android_tflite) - GPUは、Android NDKでTensorFlow Liteアプリケーションを加速しました。高精度な顔の検出、年齢および性別推定、ヒトポーズ見積もり、アーティスティックスタイル転送 <sub>⭐ 169 · C++</sub>
+- [kiyotakali/Miru](https://github.com/kiyotakali/Miru) - 実際に覚えているオープンソースのAIコンパニオン — 自分のMacやサーバー上で完全に実行します。デスクトップペット・長期記憶・積極的な仲間シップ・マルチデバイス同期。 <sub>⭐ 168 · Python</sub>
+- [npna/CoreMLPlayer](https://github.com/npna/CoreMLPlayer) - 複数の画像や動画を手軽に素早く簡単に試してみる <sub>⭐ 167 · Swift</sub>
+- [r4ghu/iOS-CoreML-Yolo](https://github.com/r4ghu/iOS-CoreML-Yolo) - AppleのCoreMLとYOLO v1を用いたほぼリアルタイムオブジェクト検出 <sub>⭐ 167 · Jupyter Notebook</sub>
+- [buzsh/SwiftDiffusion](https://github.com/buzsh/SwiftDiffusion) - CoreML、PyTorch、SwiftUIを用いた安定した拡散実装 <sub>⭐ 166 · Swift</sub>
+- [JacopoMangiavacchi/SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - SwiftでCoreMLモデルを作成およびエクスポートするためのSwiftライブラリ <sub>⭐ 166 · Swift</sub>
+- [john-rocky/SemanticImage](https://github.com/john-rocky/SemanticImage) - 使いやすい画像/ビデオフィルタのコレクション。 <sub>⭐ 166 · Swift</sub>
+- [saurabhav88/EnviousWispr](https://github.com/saurabhav88/EnviousWispr) - macOS用の無料、サブ秒のデバイスAIディクテーション。 Apple Silicon上のデュアルエンジン(ウィスパー+パラケット)。 Superwhisper、Apple Intelligence(macOS... <sub>⭐ 165 · Swift</sub>
+- [the-dagger/Pokidex](https://github.com/the-dagger/Pokidex) - テソルフローLiteとFirebase MLKitを使用して、提供された画像にポケモンを識別し検出するAndroidアプリ <sub>⭐ 165 · Kotlin</sub>
+- [lee-b/kobold_assistant](https://github.com/lee-b/kobold_assistant) - ChatGPTの音声会話をAIと似ていますが、完全にオフライン/プライベート/トレードシークレットフレンドリーで、LLama2やウィスパーなどのローカルAIモデルを使用 <sub>⭐ 164 · Python</sub>
+- [akimach/GestureAI-CoreML-iOS](https://github.com/akimach/GestureAI-CoreML-iOS) - CoreMLを使用したiOSアプリでのハンドジェスチャー認識 <sub>⭐ 162 · Swift</sub>
+- [ashvardanian/SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - リアルタイムのオンデバイステキストと画像ツーイメージセマンティック検索、USearch&UForm AIスイフトSDKを用いたビデオストリームカメラキャプチャ <sub>⭐ 162 · Swift</sub>
+- [FunnySaltyFish/Transtation-KMP](https://github.com/FunnySaltyFish/Transtation-KMP) - Kotlin Multiplatform + Compose Multiplatformによって構築されたAndroid/Desktopの翻訳アプリは、LMsのサポートで素晴らしい経験をお楽しみください <sub>⭐ 162 · Kotlin</sub>
+- [cdiddy77/react-native-llm-mediapipe](https://github.com/cdiddy77/react-native-llm-mediapipe) - React ネイティブを使用して iOS および Android デバイスで LLM を実行 <sub>⭐ 159 · TypeScript</sub>
+- [ShadowSafin/AndroLLM](https://github.com/ShadowSafin/AndroLLM) - ハードウェアアクセラレーション、クラウドプロバイダー、メモリ、音声でLiteRT-LMを使用したオープンソースのAndroid AI。 <sub>⭐ 156 · Kotlin</sub>
+- [jkrukowski/swift-embeddings](https://github.com/jkrukowski/swift-embeddings) - MLTensorを使用してSwiftでモデルをローカルに埋め込みます。 <sub>⭐ 155 · Swift</sub>
+- [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models) - ビッグ恐ろしいリストCoreMLモデル。 <sub>⭐ 154</sub>
+- [devin-lai/onnx2coreml](https://github.com/devin-lai/onnx2coreml) - ONNXモデルをApple Core ML(.mlpackage/.mlmodel)にONNXランタイムに対する数値並み検証に変換します。 <sub>⭐ 153 · Python</sub>
+- [Somnibyte/MLKit](https://github.com/Somnibyte/MLKit) - Swiftで書かれた簡単な機械学習フレームワーク <sub>⭐ 153 · Swift</sub>
+- [rayl15/OpenVision](https://github.com/rayl15/OpenVision) - Meta Ray-BanスマートメガネをAIに接続するオープンソースのiOSアプリ — 5つのバックエンド(オンデバイスMLXモデル、Apple Intelligence、OpenAI、Gemini Live、OpenClaw)、オンデバイスニューラルボイス、顔認識&ライブ... <sub>⭐ 152 · Swift</sub>
+- [TheMurusTeam/PromptToImage](https://github.com/TheMurusTeam/PromptToImage) - CoreMLモデルに基づくmacOS用の安定した拡散アプリ <sub>⭐ 152 · Swift</sub>
+- [gonzaroman/acornix](https://github.com/gonzaroman/acornix) - お使いの携帯電話上でのVibeコーディング. あなたの携帯電話のTermuxのためのモジュラー, 自己進化したAIを搭載したシステム, デバイスを制御し、複雑なタスクを自動化するように設計, 秒でアプリを作成します. あなたはすることができます... <sub>⭐ 150 · Python</sub>
+- [ZSeven-W/rish-app](https://github.com/ZSeven-W/rish-app) - あなたのポケットエージェント。iOSとAndroidのローカルファーストAIエージェント — 実際のワークスペース、承認によるツール実行、およびモデル(DSH・クロードコード・コーデックス・GLM)の選択。 <sub>⭐ 150 · Objective-C++</sub>
+- [d-date/google-mlkit-swiftpm](https://github.com/d-date/google-mlkit-swiftpm) - SwiftパッケージマネージャでiOS用のGoogle MLKit <sub>⭐ 148 · PureBasic</sub>
+- [mrousavy/vision-camera-image-labeler](https://github.com/mrousavy/vision-camera-image-labeler) - VisionCameraフレームプロセッサプラグインは、MLKit Visionを使用して画像をラベル付け <sub>⭐ 148 · Kotlin</sub>
+- [adobe-research/convmelspec](https://github.com/adobe-research/convmelspec) - Convmelspec: 1Dのconvolutionsによる変換可能なMeelspectrogram <sub>⭐ 147 · Python</sub>
+- [alimertozdemir/EPassportNFCReader](https://github.com/alimertozdemir/EPassportNFCReader) - IDカードとEパスポートリーダーNFC Androidアプリケーション - MLKitでのサンプルプロジェクト <sub>⭐ 147 · Java</sub>
+- [cocoa-ai/CocoaAI](https://github.com/cocoa-ai/CocoaAI) - Cocoa 人工知能ラボ <sub>⭐ 147</sub>
+- [vonholst/SSDMobileNet_CoreML](https://github.com/vonholst/SSDMobileNet_CoreML) - CoreMLを使用してiOS上でSSDを使用したリアルタイムのオブジェクト検出、tf-coremlを使ってエクスポート <sub>⭐ 145 · Swift</sub>
+- [rokoss21/iosm-cli](https://github.com/rokoss21/iosm-cli) - プロフェッショナル・デベロッパー向けAIエンジニアリングランタイム — IOSMの手法、MCP、チェックポイント、オーケストレーション、拡張機能を備えたターミナルコーディングエージェント <sub>⭐ 144 · TypeScript</sub>
+- [hwchong/MNIST_DRAW](https://github.com/hwchong/MNIST_DRAW) - これは、iOS 11でCoreMLを使用した手書き認識のためのMNISTモデルの訓練のためにKeras(Tensorflow)の使用を実証するサンプルプロジェクトです。 <sub>⭐ 142 · Jupyter Notebook</sub>
+- [heypandax/pairlet](https://github.com/heypandax/pairlet) - Pairlet(旧CC Pocket / cc-pocket) — 電話、タブレット、デスクトップからローカルAIコーディングのタスクを続けます。 <sub>⭐ 139 · Kotlin</sub>
+- [LettuceAI/app](https://github.com/LettuceAI/app) - プライバシーファーストのAIロールプレイ&BOK(独自のキーを表示)と役割演算、仲間やストーリーテリングアプリを長期メモリ、カスタム文字、20 +プロバイダーで提供します。 Android、Windows、macOS、Linux。... <sub>⭐ 139 · TypeScript</sub>
+- [mallman/CoreMLaMa](https://github.com/mallman/CoreMLaMa) - コアML用LaMa <sub>⭐ 138 · Python</sub>
+- [tucan9389/DepthPrediction-CoreML](https://github.com/tucan9389/DepthPrediction-CoreML) - コアMLを用いた深さ予測の実行例 <sub>⭐ 138 · Swift</sub>
+- [netguru/CarLens-iOS](https://github.com/netguru/CarLens-iOS) - CarLens - 車を認識し、収集する <sub>⭐ 137 · Swift</sub>
+- [SuperMarcus/waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) - macOSのSuper-resolution動画をWaifu2xで再生します。 <sub>⭐ 136 · Swift</sub>
+- [Tomotsugu-dev/Hindsight](https://github.com/Tomotsugu-dev/Hindsight) - ローカルファーストデスクトップアクティビティトラッカー — 時間がどこにあるのか、オンデバイスAIの日常的な要約とオプションのマルチデバイス同期 <sub>⭐ 135 · Rust</sub>
+- [avencera/speakrs](https://github.com/avencera/speakrs) - Rust. 312-912x のスピーカーダイアライゼーション(Apple Silicon)、50–121x (CUDA) <sub>⭐ 134 · Rust</sub>
+- [Lausbert/Exermote](https://github.com/Lausbert/Exermote) - 運動データからエクササイズの種類を予測するために機械学習を使用する <sub>⭐ 134 · Swift</sub>
+- [madeye/ad-skipper](https://github.com/madeye/ad-skipper) - ローカルVLMベースのAndroidスプラッシュアドスキッパー:アクセシビリティサービス+3層検出(ノードマッチ→OCR→llama.cpp GGUF VLM接地) <sub>⭐ 131 · Kotlin</sub>
+- [omarmhaimdat/face_ai](https://github.com/omarmhaimdat/face_ai) - ネイティブスイフトコード、コアMLおよびARKitを使用してiOS上の顔認識と検出 <sub>⭐ 131 · Swift</sub>
+- [RWKV-APP/RWKV_APP](https://github.com/RWKV-APP/RWKV_APP) - Android、iOS、Windows、macOS、Linux用のFlutterで構築されたクロスプラットフォーム、ローカルファーストRWKVチャット。 <sub>⭐ 131 · Dart</sub>
+- [smpanaro/coreml-llm-cli](https://github.com/smpanaro/coreml-llm-cli) - アップルニューラルエンジンで大きな言語モデル(LLM)を実行していることを実証するCLI。 <sub>⭐ 131 · Swift</sub>
+- [ctxr-dev/llm-wiki-memory](https://github.com/ctxr-dev/llm-wiki-memory) - ローカルで、AIコーディングエージェント用のgit-versionedメモリ。RAG、Dockerなし、外部サービスはありません。オンデバイス埋め込みとMCPサーバーを備えたローカルLM Wikiをキャプチャ、コンパイル、リコールします。 <sub>⭐ 130 · JavaScript</sub>
+- [SyntheticAutonomicMind/SAM](https://github.com/SyntheticAutonomicMind/SAM) - 総合的な自律神経学的マインド - 誰もがAIのアシスタント。 <sub>⭐ 130 · Swift</sub>
+- [mechramc/Orion](https://github.com/mechramc/Orion) - Apple Neural Engine (ANE) で直接小さな LLM を訓練し、実行するためのローカル AI ランタイム。CoreML なし。金属なし。M シリーズシリコンのオフライン、オンデバイス微調整およびインフェレンス。 <sub>⭐ 128 · Objective-C</sub>
+- [mingti-org/phyai](https://github.com/mingti-org/phyai) - PhyAIは、クラウドベースのサービングとオンデバイスの両方の展開をサポートする物理AIモデル(VLA、WAM)を実行するための高性能フレームワークです。 <sub>⭐ 127 · Python</sub>
+- [edouardlp/Mask-RCNN-CoreML](https://github.com/edouardlp/Mask-RCNN-CoreML) - コアML用マスク-RCNN <sub>⭐ 126 · Swift</sub>
+- [chenjd/Unity-ARFoundation-HandDetection](https://github.com/chenjd/Unity-ARFoundation-HandDetection) - Unity ARFoundationとCoreMLで手探知および追跡。 <sub>⭐ 122 · C#</sub>
+- [cometchat/cometchat-skills](https://github.com/cometchat/cometchat-skills) - チャット&メッセージングと音声 & ビデオは、React, Next.js, React Native, Angular, Android, iOS, Flutter プロジェクトをAIコーディングエージェント経由で追加します。 Claude Code, Cursor... <sub>⭐ 122 · JavaScript</sub>
+- [cocoa-ai/SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo) - 偏光解析のためのiOS11デモアプリケーション。 <sub>⭐ 121 · Swift</sub>
+- [Illuminated2020/DeepAgents-AutoGLM](https://github.com/Illuminated2020/DeepAgents-AutoGLM) - Open-AutoGLM の Android & iOS GUI 自動化を DeepAgents-CLI via LangChain Middleware に統合し、LLM のオーケストレーションとビジョンガイド付き GUI コントロールを組み合わせたものです。 <sub>⭐ 121 · Python</sub>
+- [christopherkarani/Conduit](https://github.com/christopherkarani/Conduit) - ローカルおよびクラウドプロバイダー間でLM Inference用のUnified SDK <sub>⭐ 120 · Swift</sub>
+- [felinics/Autofish](https://github.com/felinics/Autofish) - Androidデバイスを確実に自動化するためのAIエージェントツール <sub>⭐ 118 · Rust</sub>
+- [alexiscreuzot/NSTDemo](https://github.com/alexiscreuzot/NSTDemo) - CoreMLを使用してiOS上でNeural Style Transferのミニマルな例 <sub>⭐ 116 · Swift</sub>
+- [appclawhq/AppClaw](https://github.com/appclawhq/AppClaw) - AI 搭載のモバイル・オートメーションエージェント — プレーンな英語で望むものを記述し、AppClaw は画面や理由を読み取り、機能します。LM-agnostic、オープンソース、ゼロテレメトリー。 <sub>⭐ 116 · TypeScript</sub>
+- [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) - iPhoneとMacでAppleのCore AIを使用してチャット、ビジョン、およびスピーチモデルを実行するためのSwift SDK。 モデルのダウンロードとキャッシュ、FoundationModelsの統合、およびドキュメントされたOS、SDKとの実行可能な例... <sub>⭐ 116 · Swift</sub>
+- [margaretmz/Cartoonizer-with-TFLite](https://github.com/margaretmz/Cartoonizer-with-TFLite) - TensorFlow LiteモデルでTonizer Androidアプリを作成する方法。 <sub>⭐ 116 · Jupyter Notebook</sub>
+- [Mintplex-Labs/anythingllm-mobile](https://github.com/Mintplex-Labs/anythingllm-mobile) - ポケットに住んでいるAIエージェント。ローカルファーストとプライバシーを重視した。 <sub>⭐ 116 · TypeScript</sub>
+- [off-grid-ai/OGAD](https://github.com/off-grid-ai/OGAD) - macOSとWindows用のプライベートな、オンデバイスパーソナルAIアシスタント。チャット、作成、検索ファイル、およびローカルモデルのツールを接続します。 OpenAI互換APIが含まれています。 Opt-in Proは見栄え、思い出す... <sub>⭐ 116 · TypeScript</sub>
+- [cainxx/image-segmenter-ios](https://github.com/cainxx/image-segmenter-ios) - Ios は、セマンティック・セグメンテーションのディープラボ型実装を統合しました。 <sub>⭐ 114 · Swift</sub>
+- [chmouel/liseur](https://github.com/chmouel/liseur) - Android用のオープンソースEPUBリーダーとリモートライブラリクライアント、Kindle-inspired読書体験 <sub>⭐ 113 · Kotlin</sub>
+- [EachSheep/ShortcutsBench](https://github.com/EachSheep/ShortcutsBench) - ShortcutsBench: API ベースのエージェントの大規模現実世界ベンチマーク <sub>⭐ 113 · Python</sub>
+- [rudrankriyam/Ichi](https://github.com/rudrankriyam/Ichi) - iOS、macOS、VisionOSアプリで会話AIを実験 <sub>⭐ 113 · Swift</sub>
+- [rodgomesc/vision-camera-face-detector](https://github.com/rodgomesc/vision-camera-face-detector) - VisionCameraフレームプロセッサプラグインは、MLKit Vision顔検知器を使用して顔を検出します。 <sub>⭐ 112 · Java</sub>
+- [s1ddok/HED-CoreML](https://github.com/s1ddok/HED-CoreML) - CoreMLとSwiftを用いたHED(HED)を主成分とするエッジ検出 <sub>⭐ 112 · Swift</sub>
+- [junhwanjang/face_landmark_dnn](https://github.com/junhwanjang/face_landmark_dnn) - Mobilenet V1に基づく顔のランドマークディテクター <sub>⭐ 110 · Python</sub>
+- [hitanshu-dhawan/FirebaseMLKit](https://github.com/hitanshu-dhawan/FirebaseMLKit) - 花火大会(ARTICLE) MLキット101シリーズ <sub>⭐ 109 · Kotlin</sub>
+- [omarmhaimdat/WhoAreYou](https://github.com/omarmhaimdat/WhoAreYou) - CoreMLとARKitで顔の検出と認識 <sub>⭐ 109 · Swift</sub>
+- [atharvnaik1/ipaship-audit](https://github.com/atharvnaik1/ipaship-audit) - ipaShipのWebアプリ、cli、mcp、または使用している任意のllmエージェントをレイヤーにすることで、iOS / AndroidアプリをAppstoreポリシー&セキュリティバグで確認しましょう - ループインフィックス... <sub>⭐ 108 · TypeScript</sub>
+- [VocaHQ/vocamac](https://github.com/VocaHQ/vocamac) - オープンソース、MacOS用のオフラインボイスツーテキスト。ホットキーを保持し、話す、テキストが表示されます。複数のスピーチエンジンとプライベートのオンデバイス予測。 <sub>⭐ 107 · Swift</sub>
+- [benttega/ovo-local-llm](https://github.com/benttega/ovo-local-llm) - Apple SiliconのプライベートClaude-Codeスタイルのコーディングエージェント — チャット、コード、ローカルモデルワークフローをオンデバイスで実行します。 MLX-native、Ollama/OpenAI API対応、ゼロAPIキー。 <sub>⭐ 106 · TypeScript</sub>
+- [ddh0/easy-llama](https://github.com/ddh0/easy-llama) - Python パッケージ は、オンデバイス LLM インフェレンス用の llama.cpp をラップします。 <sub>⭐ 106 · Python</sub>
+- [skytells-research/DeepInfant](https://github.com/skytells-research/DeepInfant) - DeepInfant®は、あなたの赤ちゃんが泣いているかどうかを予測するために設計されたニューラルネットワークシステムです。 <sub>⭐ 106 · Python</sub>
+- [cocoa-ai/FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo) - iOS11は花の分類のためのデモ アプリケーションです。 <sub>⭐ 105 · Swift</sub>
+- [garfiec/Librechat-Mobile](https://github.com/garfiec/Librechat-Mobile) - Kotlin Multiplatform と Compose マルチプラットフォームで構築された LibreChat 用のネイティブ Android & iOS クライアント <sub>⭐ 105 · Kotlin</sub>
+- [petershifi123-wq/solve-lite](https://github.com/petershifi123-wq/solve-lite) - CoreML-native ローカル決定ランタイム for AIエージェント・18 プロファイル・20シナリオプロトコル・オフライン・～50.93 MB ・Soulite Magic <sub>⭐ 105 · Python</sub>
+- [flagdizero/jenny-android-ai-agent](https://github.com/flagdizero/jenny-android-ai-agent) - あなたのAndroid携帯電話に住んでいるローカルファーストの個人的なAIエージェント。 永久的なメモリ、スケジュールされた自律的な仕事、自家所有のミニアプリ、およびオプションのホーム画面ランチャー。 あなたのデータは... <sub>⭐ 104 · Python</sub>
+- [ggoggam/vitre](https://github.com/ggoggam/vitre) - Kotlin Multiplatform 用の WebView 自動化。MCP や Koog 上でアプリ、テスト、または LLM エージェントから Android, iOS およびデスクトップに埋め込まれた WebView でページワークフローを実行します。 <sub>⭐ 104 · Kotlin</sub>
+- [schappim/coreml-cli](https://github.com/schappim/coreml-cli) - macOSでApple Core MLモデルと連携するためのネイティブコマンドラインインターフェイス <sub>⭐ 103 · Swift</sub>
+- [Helldez/HearoPilot-App](https://github.com/Helldez/HearoPilot-App) - オンデバイスAIミーティングアシスタント — リアルタイムのトランスクリプションとLMに関するインサイト、100%オフライン <sub>⭐ 102 · Kotlin</sub>
+- [LangLang03/LineCodePro](https://github.com/LangLang03/LineCodePro) - ポケットに収まるAIコーディングワークステーション。 <sub>⭐ 102 · C++</sub>
+- [taahamahdi/i18n-ai-translate](https://github.com/taahamahdi/i18n-ai-translate) - i18n localeファイルをAIで自動翻訳します。i18next JSON、Gettext PO、Java .properties、iOS .strings、Rails YAML、およびTS/JSカタログをChatGPT、Claude、Gemini、またはローカルOllamaモデルを使用して変換します。... <sub>⭐ 101 · TypeScript</sub>
+- [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM搭載RSSリーダー <sub>⭐ 100 · Swift</sub>
+- [henrypldev/react-native-nitro-mlx](https://github.com/henrypldev/react-native-nitro-mlx) - Apple の MLX を使用してデバイスで LLM を実行します。 <sub>⭐ 100 · TypeScript</sub>
+- [hollance/coreml-training](https://github.com/hollance/coreml-training) - ブログ投稿シリーズ「Core MLによるOn-device Training」のソースコード <sub>⭐ 100 · Jupyter Notebook</sub>
+- [IJ-Apps/Image-Classification-App-with-Custom-TensorFlow-Model](https://github.com/IJ-Apps/Image-Classification-App-with-Custom-TensorFlow-Model) - Pythonで独自のニューラルネットワークをコードする方法を学び、TensorFlow Liteを使用してImage Classification Appにデプロイします。 <sub>⭐ 100 · Java</sub>
+- [fikrikarim/volocal](https://github.com/fikrikarim/volocal) - iOS用ローカルボイスAI <sub>⭐ 99 · Swift</sub>
+- [Natxo09/Eris.](https://github.com/Natxo09/Eris.) - Erisは、AppleのMLXフレームワークを使用してデバイス上で完全に実行されるプライベートAIチャットアプリケーションです。 太陽系、Erisの理解にチャレンジしたdwarf惑星の名前が付けられました... <sub>⭐ 99 · Swift</sub>
+- [anhvt52/jetpack-compose-skills](https://github.com/anhvt52/jetpack-compose-skills) - 現代のAndroid開発のためのエージェントスキル Jetpack Compose — コード生成とレビューのベストプラクティス <sub>⭐ 98</sub>
+- [appcoda/CoreMLDemo](https://github.com/appcoda/CoreMLDemo) - コアMLの簡単なデモ <sub>⭐ 98 · Swift</sub>
+- [hollance/Inception-CoreML](https://github.com/hollance/Inception-CoreML) - コアML上で実行インセプションv3 <sub>⭐ 98 · Swift</sub>
+- [memovai/mimimodel](https://github.com/memovai/mimimodel) - MimiModel:$ 5チップのエージェントLLM。100%オンデバイス。デザインでプライベート。 <sub>⭐ 97 · C</sub>
+- [yoloyash/overtchat](https://github.com/yoloyash/overtchat) - WebUIを開くためのシンプルでホストされている代替手段。独自のAPIキーやローカルモデルを持参してください。ネイティブAndroidとiOSクライアント。 <sub>⭐ 97 · TypeScript</sub>
+- [cocoa-ai/ModelZoo](https://github.com/cocoa-ai/ModelZoo) - Core MLモデルを共有するための一元的なGitHubリポジトリ <sub>⭐ 96</sub>
+- [fguzman82/CLIP-Finder2](https://github.com/fguzman82/CLIP-Finder2) - CLIP-Finderは、自然言語の説明やカメラを使用してギャラリーの写真から画像の皮下なオフライン検索を有効にします。 AppleのMobileCLIP-S0アーキテクチャ上に構築され、最適を保証します... <sub>⭐ 96 · Swift</sub>
+- [owngoal-dev/WriteNow](https://github.com/owngoal-dev/WriteNow) - 自分の手の中にAIツール。 <sub>⭐ 95</sub>
+- [qoli/eisonAI](https://github.com/qoli/eisonAI) - ローカルファーストSafari Web Extension +構造優先読み取り用のネイティブアプリ、バンドルされたWebLLMポップアップ推論とAppleプラットフォーム上のトークンアウェアの長期ドキュメント処理。 <sub>⭐ 95 · Swift</sub>
+- [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - バッチは、MacBookでWisper.cppを介してopenaiのホッパまたはローカルコアMLを使用してビデオをテキストに変換します <sub>⭐ 94 · Go</sub>
+- [vidursatija/BlazePalm](https://github.com/vidursatija/BlazePalm) - MediaPipeハンドのPyTorch&CoreML実装 <sub>⭐ 94 · Jupyter Notebook</sub>
+- [iamwavecut/MLX-DLSS](https://github.com/iamwavecut/MLX-DLSS) - NVIDIAのDLSS 5ニューラルレンダリングとApple Silicon(MLX/Metal、Core ML)およびPyTorchでDLSSフレーム生成。独自のDLSSライブラリから抽出された重量 <sub>⭐ 93 · Swift</sub>
+- [Yoonit-Labs/nativescript-yoonit-camera](https://github.com/Yoonit-Labs/nativescript-yoonit-camera) - アンドロイドとiOS用の最も先進的でモダンなNativeScriptカメラモジュールは、多くの素晴らしい機能を備えています。 <sub>⭐ 93 · TypeScript</sub>
+- [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread) - RK3588S NPUのリアルタイムYOLOv8n UAV検出/46 FPS / ～140 MB RAM / フルハードウェアアクセラレーテッド(ISP+RGA+NPU) / オンデバイスLMシーン要約 <sub>⭐ 91 · C++</sub>
+- [dailystudio/tensorflow-lite-examples-android](https://github.com/dailystudio/tensorflow-lite-examples-android) - AndroidでTensorflow Liteの例 <sub>⭐ 91 · Kotlin</sub>
+- [lucasnewman/f5-tts-swift](https://github.com/lucasnewman/f5-tts-swift) - MLXを用いたSwiftでF5-TTSの実装 <sub>⭐ 91 · Swift</sub>
+- [vladiH/flutter_vision](https://github.com/vladiH/flutter_vision) - Yolov5モデルとTesseract v4の両方を管理するためのFlutterプラグイン、TensorFlow Lite 2.xでアクセスします。 iOSとAndroidの両方でオブジェクトの検出、セグメンテーションおよびOCRをサポートしています。 <sub>⭐ 90 · C</sub>
+- [krishkumar/createml-playgrounds](https://github.com/krishkumar/createml-playgrounds) - マシン学習モデルを構築するためのML遊び場を作成します。開発者やデータサイエンティストのために。 <sub>⭐ 89 · Swift</sub>
+- [saidkaban/expo-ai-kit](https://github.com/saidkaban/expo-ai-kit) - エクスポとReact NativeのオンデバイスAI。ローカルLLM、音声からテキスト、ビジョン、および埋め込み。APIキーなし、クラウドなし。 <sub>⭐ 89 · TypeScript</sub>
+- [DonTizi/Swiftrag](https://github.com/DonTizi/Swiftrag) - iOSとmacOSアプリのSwiftでRetrieval Augmented Generation(RAG)をローカルLLMSに実装します。Appleエコシステムアプリケーションは、ネイティブNLPおよびOllamaを使用してコンテキスト・アウェアAIレスポンスで強化できます。 <sub>⭐ 88 · Swift</sub>
+- [ghostwright/shadow](https://github.com/ghostwright/shadow) - コンピュータは、時間全体に注意を払っていました。 14-modality Capture. Proactive Intelligence. Computer-use Training data. Native macOS. All on-device. Open Source. <sub>⭐ 88 · Swift</sub>
+- [ramanujammv1988/edge-veda](https://github.com/ramanujammv1988/edge-veda) - オンデバイスAI SDK for Flutter — LLMの推論、ビジョン、STT、TTS、画像生成、埋め込み、RAG、および関数呼び出し。 iOS / MacOSでGPUを金属します。 <sub>⭐ 88 · Dart</sub>
+- [umair13adil/tensorflow_lite_flutter](https://github.com/umair13adil/tensorflow_lite_flutter) - ティーチャーブルマシンで作られたTensorFlow Liteモデルのデモ用フラッタプロジェクト。 <sub>⭐ 88 · Dart</sub>
+- [NeverSight/NeverC](https://github.com/NeverSight/NeverC) - LLVM(WIP)上に構築されたセキュリティ研究用のAI対応C23コンパイラ <sub>⭐ 87 · C</sub>
+- [yuhche/Hair_Segmentation_Keras](https://github.com/yuhche/Hair_Segmentation_Keras) - ヘアセグメンテーションネットワークとカラーの類似性計算方法を実装。 <sub>⭐ 87 · Python</sub>
+- [happysingh23828/CameraX-FaceDetection-MlKit](https://github.com/happysingh23828/CameraX-FaceDetection-MlKit) - これは、MLKit顔検出の使用を実証するために構築されたサンプルアプリです。 心を持つすべてのAndroid開発者に専用します。 <sub>⭐ 86 · Kotlin</sub>
+- [orailnoor/termux-llm](https://github.com/orailnoor/termux-llm) - Android 携帯電話にローカルで非検閲の AI モデルを実行します。Termux + llama.cpp 経由で 1 つのスクリプトの設定。 root、クラウドなし、インターネットは必要ありません。 <sub>⭐ 86 · Shell</sub>
+- [r4ghu/iOS-CoreML-MNIST](https://github.com/r4ghu/iOS-CoreML-MNIST) - AppleのCoreML 2.0とMNISTを使用したリアルタイム番号認識 <sub>⭐ 86 · Jupyter Notebook</sub>
+- [Vadbeg/nafnet-coreml](https://github.com/Vadbeg/nafnet-coreml) - コアMLを用いたNAFNetデブルモデル推論 <sub>⭐ 86 · Python</sub>
+- [OpenBMB/MobileCPM](https://github.com/OpenBMB/MobileCPM) - ツールキットは、アプリのオンデバイス大言語モデル(LLM)を実行します <sub>⭐ 85 · C++</sub>
+- [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - Xcode iOS のワークスペース/プロジェクトをビルドし、LLM へのバックエラーを与えるための MCP ツール。 <sub>⭐ 85 · Python</sub>
+- [existential-birds/beagle](https://github.com/existential-birds/beagle) - エージェントスキルのマーケットプレイス:コードレビュー、ドキュメント、テストプラン生成、AIライティングの検出、アーキテクチャ分析、およびgitワークフローのためのフレームワーク・アウェアスキル - Python、Go、Rust、Eixir... <sub>⭐ 83 · Shell</sub>
+- [monologg/transformers-android-demo](https://github.com/monologg/transformers-android-demo) - トランスとアンドロイドの例 (Tensorflow Lite & Pytorch Mobile) <sub>⭐ 83 · Java</sub>
+- [tanmayb123/OpenAI-Whisper-CoreML](https://github.com/tanmayb123/OpenAI-Whisper-CoreML) - OpenAIのWhisperがCoreMLに移植 <sub>⭐ 83 · Swift</sub>
+- [iannuttall/natter](https://github.com/iannuttall/natter) - macOSの高速でローカルファーストな予測 <sub>⭐ 82 · Swift</sub>
+- [mohaiminur/Textchat](https://github.com/mohaiminur/Textchat) - 機械学習ML-KITによるAndroidチャットアプリケーションプロジェクト <sub>⭐ 82 · Java</sub>
+- [scouzi1966/vesta-mac-dist](https://github.com/scouzi1966/vesta-mac-dist) - Vesta macOSディストリビューション - 公式リリースとダウンロード。 MacOs Tahoe(MacOS)でAppleのオンデバイスモデルを使用したSwiftUI、Swift MLXおよびApple Intelligenceを搭載したMacOS用のVesta AIチャットアシスタント -... <sub>⭐ 82</sub>
+- [froggeric/gemini-watermark-and-synthid-remover](https://github.com/froggeric/gemini-watermark-and-synthid-remover) - Google Gemini、Veo、NotebookLMが生成した画像や動画から透かしを取り除くためのCLIツール。 <sub>⭐ 81 · C++</sub>
+- [shubham0204/Age-Gender_Estimation_TF-Android](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) - 年齢 + TensorFlow LiteでAndroidの性別推定 <sub>⭐ 81 · Kotlin</sub>
+- [vbalagovic/flutter_scalable_ocr](https://github.com/vbalagovic/flutter_scalable_ocr) - Flutter スケーラブルな OCR パッケージは、テキストが処理されるカメラの一部を部分的に選択できる google_mlkit_text_recognition の周りのラッパーです。 <sub>⭐ 81 · Dart</sub>
+- [gouthamvgk/facemesh_coreml_tf](https://github.com/gouthamvgk/facemesh_coreml_tf) - このリポジトリには、モバイルGPUとBlazefaceのMonocular VideoからTfliteモデルを10sorflowおよびcoremlに変換するコードが含まれています。 <sub>⭐ 79 · Python</sub>
+- [kellyvv/OpenReshot](https://github.com/kellyvv/OpenReshot) - 異なる角度から定期的な写真を再撮影するためのネイティブiOSアプリ。 <sub>⭐ 79 · Swift</sub>
+- [inceptyon-labs/gargantua](https://github.com/inceptyon-labs/gargantua) - ネイティブのmacOSシステムクリーナー(YAML主導の安全規則、MLXによるローカルAI説明責任、およびエージェント制御クリーンアップワークフロー用のMCPサーバー)。 <sub>⭐ 78 · Swift</sub>
+- [leehack/llamadart](https://github.com/leehack/llamadart) - Dart&FlutterのクロスプラットフォームオンデバイスLMインフェレンス: Android、iOS、macOS、Windows、LinuxおよびWeb上でllama.cppとLiteRT-LMを介してGGUF。 <sub>⭐ 78 · Dart</sub>
+- [nwhacks-loki/loki](https://github.com/nwhacks-loki/loki) - 機械学習とARKitを用いた感情をターゲットとしたコンテンツ配信の確実性 <sub>⭐ 78 · Swift</sub>
+- [petrukha-ivan/mlx-swift-structured](https://github.com/petrukha-ivan/mlx-swift-structured) - Swiftで構造化された出力生成 <sub>⭐ 78 · Swift</sub>
+- [rusty4444/hermes-voice-ha-integration](https://github.com/rusty4444/hermes-voice-ha-integration) - ホーム アシスタントボイススタックの統合ヘルメスエージェント — オンデバイスボイスコントロール、ウェイクワード → STT → LLM → TTS → HA media_player。クラウドなし。レイテンシーなし。サブスクリプションなし <sub>⭐ 78 · Python</sub>
+- [sawfwair/mere-run](https://github.com/sawfwair/mere-run) - ローカルイメージ、テキスト、スピーチ、ビジョン、音楽、ビデオワークフロー、プラスモデル管理とループバックOpenAI対応のAPIサーバーを実行します。リポジトリはコアライブラリを出荷し、単に実行可能になります。 <sub>⭐ 78 · Swift</sub>
+- [royshil/note-taker](https://github.com/royshil/note-taker) - ローカルのオンデザックを実行しているlo-fi AIファーストノートテイカー <sub>⭐ 77 · Python</sub>
+- [drakulavich/kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - ツールに音声をつけてください。テキストとバック、25の言語に対応し、Whisperよりも最大〜19×高速です。あなたのマシンで。 <sub>⭐ 76 · TypeScript</sub>
+- [neuralize-ai/edgerunner](https://github.com/neuralize-ai/edgerunner) - モバイルアプリ開発のための簡易AIランタイム統合 <sub>⭐ 76 · C++</sub>
+- [Rishit-dagli/ML-with-Android-11](https://github.com/Rishit-dagli/ML-with-Android-11) - Android 11 で新しいものをすべて ML にデモンストレーションし、独自のユースケースを試すことができるリポジトリ <sub>⭐ 76 · Java</sub>
+- [ultralytics/iSky](https://github.com/ultralytics/iSky) - リアルタイムのニューラルスタイルの転送のためのUltralytics iSky iOSアプリ、ライブiPhoneとiPadのカメラビデオを5つの有名な絵画スタイルで変換します。 <sub>⭐ 76 · Swift</sub>
+- [ApolloZhu/AR-Lipstick](https://github.com/ApolloZhu/AR-Lipstick) - ARKit/FirebaseMLVision ベースの仮想口紅。IT <sub>⭐ 75 · Swift</sub>
+- [IJ-Apps/Image-Classification-App-with-Teachable-Machine](https://github.com/IJ-Apps/Image-Classification-App-with-Teachable-Machine) - 一般的なオブジェクトの画像分類のためにTensorFlow Liteモデルを使用するAndroidアプリは、GoogleのTeachable Machineを介して訓練された。 <sub>⭐ 75 · Java</sub>
+- [liekzejaws/rushlight](https://github.com/liekzejaws/rushlight) - Rushlight — オフラインの生存コンピューター。ローカルLM、オフライン Wikipedia、P2P共有およびmorseコードコムとOsmAndフォーク。 <sub>⭐ 75 · Java</sub>
+- [magicnight/Mac-MLX](https://github.com/magicnight/Mac-MLX) - macMLXはローカルLLMをApple SiliconにファーストクラスのネイティブのMacOS経験を持ちます。 クラウド、テレメトリーなし、エレクトロンなし - Macがフルスピードでモデルを実行しているだけです。 <sub>⭐ 75 · Swift</sub>
+- [PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino](https://github.com/PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino) - WHENet - ONNX、OpenVINO、TFLite、TensorRT、EdgeTPU、CoreML、TFJS、YOLOv4/YOLOv4-tiny-3L <sub>⭐ 75 · Python</sub>
+- [Greninja9257/LabLLM](https://github.com/Greninja9257/LabLLM) - 小さな言語モデルを教えるためのネイティブなmacOSラボ — アーキテクチャを構築し、体重を訓練し、カスタムデータでApple Siliconにローカルで小さなLMが出現するのを見て... <sub>⭐ 74 · Swift</sub>
+- [hollance/CoreML-Custom-Layers](https://github.com/hollance/CoreML-Custom-Layers) - ブログ投稿のソースコード「コアML内のカスタムレイヤー」 <sub>⭐ 74 · Swift</sub>
+- [r3dbars/transcripted](https://github.com/r3dbars/transcripted) - Macで会議や予測を記録します。 すべてが、Claude、Codex、または任意のAIが検索できるMarkdownファイルになります。 無料、オープンソース、100%ローカルトランスクリプション。 <sub>⭐ 74 · Swift</sub>
+- [RxNaison/Gemini-Pro](https://github.com/RxNaison/Gemini-Pro) - WebViewアプリケーション Google AI Studio 機能追加 <sub>⭐ 74 · Kotlin</sub>
+- [HMS-MLKit/HUAWEI-HMS-MLKit-Sample](https://github.com/HMS-MLKit/HUAWEI-HMS-MLKit-Sample) - HUAWEI HMSのメカニン学習サービスデモAPKダウンロード. <sub>⭐ 73 · Java</sub>
+- [dbsystel/yolov5-coreml-tools](https://github.com/dbsystel/yolov5-coreml-tools) - YOLOv5モデルをCoreMLにエクスポートし、それをベンチマークするためのスクリプト。 <sub>⭐ 72 · Python</sub>
+- [lichuang/semquery](https://github.com/lichuang/semquery) - ローカル文書Q&Aは、端末のオンデバイスLLMによって供給されます。 <sub>⭐ 72 · Rust</sub>
+- [sacmehta/ESPNetv2-COREML](https://github.com/sacmehta/ESPNetv2-COREML) - ESPNetv2を使用してiPhoneのセマンティックセグメント <sub>⭐ 72 · Swift</sub>
+- [Kashif-E/Mlkit-text-recognition-and-entity-extraction](https://github.com/Kashif-E/Mlkit-text-recognition-and-entity-extraction) - mlkitとCameraxでエンティティティ抽出したOCRアプリ <sub>⭐ 71 · Kotlin</sub>
+- [LifeValue/HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) - オープンソース、患者管理の健常記録アプリをオンデバイスAIで提供しています。FHIR R4を介して52K+プロバイダーから医療データを収集します。オフライン優先。フラッタ。 <sub>⭐ 71 · Dart</sub>
+- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Kotlin MultiplatformアプリでAIのパワーを発見してください。 最新のオープンソーステキストとイメージモデルから選択して、創造性を高めることができます。 あなたに合ったモデルを選択し、ユニークなテキストを作成したり... <sub>⭐ 71 · Kotlin</sub>
+- [john-rocky/apple-silicon-llm-bench](https://github.com/john-rocky/apple-silicon-llm-bench) - アップルシリコン(iPhone 17 Pro、M4 Max):Apple Core AI、ML、llama.cpp、LiteRT-LMおよびコアMLは同じモデルとハーネスのあらゆる番号で再現可能なオンデバイスLMベンチマークです。 <sub>⭐ 70 · Python</sub>
+- [srgtuszy/llama-cpp-swift](https://github.com/srgtuszy/llama-cpp-swift) - llama-cppライブラリ用のSwiftバインディング <sub>⭐ 70 · Swift</sub>
+- [tucan9389/FingertipEstimation-CoreML](https://github.com/tucan9389/FingertipEstimation-CoreML) - ポーズ推定のための機械学習を使用して指先を検出する <sub>⭐ 70 · Swift</sub>
+- [vladimir-chernykh/coreml-performance](https://github.com/vladimir-chernykh/coreml-performance) - CoreMLモデルの性能をテストするユーティリティ。 <sub>⭐ 70 · Swift</sub>
+- [mattmireles/kokoro-coreml](https://github.com/mattmireles/kokoro-coreml) - PyTorch → ココロTTSのCoreML変換パイプライン。 Appleニューラルエンジン上の高速オンデザックテキストツーセプナをロック解除します。 <sub>⭐ 69 · Python</sub>
+- [Aatricks/llmedge](https://github.com/Aatricks/llmedge) - Android ネイティブ AI インフェレンスライブラリ、テキスト、イメージ、ビデオ、STT、TTS インフェレンスをもたらす <sub>⭐ 68 · Kotlin</sub>
+- [john-rocky/CoreML-YOLOv5](https://github.com/john-rocky/CoreML-YOLOv5) - iOSでYOLOv5を使用するサンプルプロジェクト <sub>⭐ 68 · Swift</sub>
+- [makeml-app/Live-Object-Recognition-CoreML](https://github.com/makeml-app/Live-Object-Recognition-CoreML) - これは、独自のCoreMLオブジェクト検出モデルを実行するために使用できるiOSテンプレートプロジェクトが含まれています <sub>⭐ 68 · Swift</sub>
+- [john-rocky/Inpainting-CoreML](https://github.com/john-rocky/Inpainting-CoreML) - iPhoneで不要なオブジェクトを削除 — AOT-GANインペレーションは、実行可能なサンプルアプリを使用してコアMLに変換しました。 <sub>⭐ 67 · Swift</sub>
+- [MacPaw/macapptree](https://github.com/MacPaw/macapptree) - macosアクセシビリティパーサのリポジトリ <sub>⭐ 67 · Python</sub>
 
 ## 💬 AIチャットアプリとSDK
 
 > モバイルアプリにアシスタントを組み込むためのアプリ、クライアント、キット。
 
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS… <sub>⭐ 88.8k · TypeScript</sub>
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ゼロコンフィグAIチャットアシスタント。APIキーは必要ありません — GPT-5、Claude 4、Gemini 2.5、DeepSeek&100+トップモデルとサインアップして即座にチャットできます。 Pay-as-you-goはもっと保存します。 Web、iOS、macOSで利用可能... <sub>⭐ 88.8k · TypeScript</sub>
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - プロジェクト、ウィキス、そしてAIとチームを共に持ちましょう。AppFlowyは、データの制御を失うことなく、より多くの成果を達成するAIコラボレーションワークスペースです。オープンソースのNotion代替手段が主導されています。 <sub>⭐ 77.1k · Dart</sub>
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - ウェブ、モバイルおよびAIアプリ用の完全なクラウドインフラストラクチャ。 Auth、データベース、ストレージ、機能、メッセージング、ホスティング、リアルタイムなど <sub>⭐ 57.5k · PHP</sub>
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNozは、チームとAIエージェントのオープンソースであるOpenTelemetry-nativeオブザベーシビリティプラットフォームです。 APMや分散トレース、ログなどの機能を備えた1つのツールでログ、メトリクス、トレースを取得します。 <sub>⭐ 32.3k · TypeScript</sub>
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do <sub>⭐ 13.6k · Python</sub>
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access!… <sub>⭐ 11.9k · Swift</sub>
-- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps <sub>⭐ 9.6k · Python</sub>
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - 画面を見ているAIは、会話を聴くと何をすべきかを伝えます <sub>⭐ 13.6k · Python</sub>
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - デバイスSTTとカスタム訓練されたAI拡張モデルを備えた最速かつ唯一のmacOSディクテーションアプリ。 Windowsの事前ビルドが利用可能!ローカルWisprフロー代替。 X排他的なモデルアクセスでDM私たち!... <sub>⭐ 11.9k · Swift</sub>
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - ゲームとアプリのUIオートメーションフレームワーク <sub>⭐ 9.6k · Python</sub>
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - 強力なAI機能を搭載し、さまざまな電子書籍フォーマットをサポートすることで、よりスマートで焦点を絞った読み取りを実現します。 <sub>⭐ 8.9k · Dart</sub>
-- [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI <sub>⭐ 7.1k · TypeScript</sub>
-- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps <sub>⭐ 7.0k · TypeScript</sub>
-- [mylxsw/aidea](https://github.com/mylxsw/aidea) - An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code. <sub>⭐ 6.9k · Dart</sub>
-- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development <sub>⭐ 6.9k · C++</sub>
-- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to… <sub>⭐ 6.1k · Rust</sub>
-- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux. <sub>⭐ 4.9k · TypeScript</sub>
-- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI <sub>⭐ 4.3k · Swift</sub>
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android… <sub>⭐ 4.2k · HTML</sub>
-- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL… <sub>⭐ 4.0k · Dart</sub>
-- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose. <sub>⭐ 3.9k · Kotlin</sub>
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. <sub>⭐ 3.2k · Python</sub>
-- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native <sub>⭐ 3.0k · TypeScript</sub>
-- [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually… <sub>⭐ 2.9k · Dart</sub>
-- [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history <sub>⭐ 2.8k · TypeScript</sub>
-- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous… <sub>⭐ 2.7k · Go</sub>
-- [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for… <sub>⭐ 2.7k · TypeScript</sub>
-- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync. <sub>⭐ 2.7k · TypeScript</sub>
+- [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - AIを用いたアプリストアスクリーンショット作成の終了 <sub>⭐ 7.1k · TypeScript</sub>
+- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - エージェントアプリの構築のためのフレームワーク <sub>⭐ 7.0k · TypeScript</sub>
+- [mylxsw/aidea](https://github.com/mylxsw/aidea) - 主流の大規模言語モデルとイメージ生成モデルを統合するAPP。フルオープンソースコードでFlutterを組み込んだ。 <sub>⭐ 6.9k · Dart</sub>
+- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Appleアプリ開発のためのFirebase SDK <sub>⭐ 6.9k · C++</sub>
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - 世界初のオープンソースAIネイティブベクターデザインツールと、同時並列エージェントチームを特徴とする初のオープンソース。 デザイン・アコード。ライブキャンバス上で直接UIにプロンプトを入れます。 現代の選択肢は... <sub>⭐ 6.1k · Rust</sub>
+- [callstack/agent-device](https://github.com/callstack/agent-device) - iOS、Android、HarmonyOS、TV、Web、macOS、Linux用のCLI、MCPサーバー、およびタイプされたNode.js API。 <sub>⭐ 4.9k · TypeScript</sub>
+- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - テックのインタビューをAIでつぶすためのMacアプリ <sub>⭐ 4.3k · Swift</sub>
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - 1つのコマンドでウェブサイトの完全な設計システムを抽出します。 DTCGトークン、semantic+primitive+composite、Claudeコード/カーソル/ウィンドサーフィン、マルチプラットフォームエミッタ用のMCPサーバー(iOS SwiftUI、Android... <sub>⭐ 4.2k · HTML</sub>
+- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - Linux用のWindowsサブシステムのためのGUI — およびMac上のネイティブLinux / MacOSのVM。 CLIフラグなしでディストリビューターをインストール、バックアップ、移動、構成します。 ツール付きのAIアシスタント、エージェント用MCPサーバー、リモートWSL ... <sub>⭐ 4.0k · Dart</sub>
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - ChatGPT Android は、OpenAIのチャット API を使用して、Compose 用の Streamチャット SDK でチャットボットアプリケーションをデモします。 <sub>⭐ 3.9k · Kotlin</sub>
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - 人工知能エージェントは、人間と同じように、実際のAndroidとiOSアプリを使用できます。 <sub>⭐ 3.2k · Python</sub>
+- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - LLMSがShadcnのuiの部品の構造、usageおよび取付けについての文脈を得ることを可能にするmcpサーバーは反応とcompaitable、svelte 5vue及びReact Nativeを <sub>⭐ 3.0k · TypeScript</sub>
+- [foss42/apidash](https://github.com/foss42/apidash) - API Dashは、Flutterを使用して構築された美しいAIを搭載したオープンソースのクロスプラットフォーム(Desktop & Mobile)APIクライアントで、HTTP&GraphQL APIリクエストを簡単に作成およびカスタマイズできます。 <sub>⭐ 2.9k · Dart</sub>
+- [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - ChatGPTの会話履歴をエクスポートし、共有 <sub>⭐ 2.8k · TypeScript</sub>
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - 人工知能エージェントの群れによる自動貫通テスト。ReAct推論で再構成、分類、悪用、および報告スペシャリストを編成し、バグ賞金、継続的サポート... <sub>⭐ 2.7k · Go</sub>
+- [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - オープンソースの代替手段 - 会議、インタビュー、そして誰が知らずにシームレスに動作する超高速でプライバシーファーストなAIアシスタント。 タリと構築... <sub>⭐ 2.7k · TypeScript</sub>
+- [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 人工知能を搭載したクロスプラットフォームの電子ブックリーダー、RAGチャット、ローカルベクターストア、ノート、TTS、WebDAV同期。 <sub>⭐ 2.7k · TypeScript</sub>
 - [expo/skills](https://github.com/expo/skills) - 博覧会プロジェクトと博覧会のアプリケーションサービスと連携するためのAIエージェント技術の集約 <sub>⭐ 2.7k · Shell</sub>
-- [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies. <sub>⭐ 2.6k · TypeScript</sub>
-- [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) - Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - Lobe Icons - AI/LLM ブランドのロゴを React & React Native アプリに持ち込む — 静的 SVG/PNG/WebP、依存関係なし。 <sub>⭐ 2.6k · TypeScript</sub>
+- [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) - 液体AIファンデーショナルモデル(LFM)とLEAP SDKを使用したエンドツーエンドのチュートリアルやアプリの例 <sub>⭐ 2.5k · Jupyter Notebook</sub>
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - 無料でオープンソースのチャットSDK。高速でリアルタイムなアプリとジェネレーション型のAIエージェントを高機能、カスタマイズ可能なクロスプラットフォームUIで構築します。 <sub>⭐ 2.4k · Dart</sub>
-- [v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) - V- Modal AI: Visual Video / Image Search - SDK Flutter <sub>⭐ 2.2k · Dart</sub>
-- [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features… <sub>⭐ 2.0k · C#</sub>
-- [Code-with-Beto/snapai](https://github.com/Code-with-Beto/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models. <sub>⭐ 1.9k · TypeScript</sub>
-- [alan-ai/alan-sdk-ios](https://github.com/alan-ai/alan-sdk-ios) - The Self-Coding System for Your App — Alan AI SDK for iOS <sub>⭐ 1.9k · Objective-C</sub>
-- [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities. <sub>⭐ 1.8k · Kotlin</sub>
-- [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - The Self-Coding System for Your App — Alan AI SDK for Flutter <sub>⭐ 1.8k · Ruby</sub>
-- [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch) - High-performance, privacy-first on-device AI inference library for React Native, powered by PyTorch's ExecuTorch runtime <sub>⭐ 1.8k · TypeScript</sub>
-- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents <sub>⭐ 1.8k · Swift</sub>
-- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) - Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package. <sub>⭐ 1.7k · Dart</sub>
-- [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - This is a wrapper library around the ChatGPT and OpenAI HTTP API <sub>⭐ 1.7k · Swift</sub>
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants. <sub>⭐ 1.7k · Shell</sub>
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML <sub>⭐ 1.6k · Go</sub>
-- [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more <sub>⭐ 1.5k · Kotlin</sub>
-- [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device. <sub>⭐ 1.5k · Rust</sub>
-- [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework. <sub>⭐ 1.5k · C#</sub>
-- [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) - MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants <sub>⭐ 1.4k · TypeScript</sub>
-- [truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) - AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission <sub>⭐ 1.4k</sub>
-- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps <sub>⭐ 1.3k · TypeScript</sub>
-- [techjarves/Uncensored-Local-AI-Multiplatform](https://github.com/techjarves/Uncensored-Local-AI-Multiplatform) - A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy. <sub>⭐ 1.3k · Dart</sub>
-- [ShiftHackZ/Stable-Diffusion-KMP](https://github.com/ShiftHackZ/Stable-Diffusion-KMP) - Stable Diffusion AI client app for Android and iOS <sub>⭐ 1.3k · Kotlin</sub>
+- [v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) - V- Modal AI: ビジュアルビデオ/画像検索 - SDK Flutter <sub>⭐ 2.2k · Dart</sub>
+- [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元帯域): Windows、macOS、およびAndroid用のプレミアAI統合ツール。 一度に尋ねると、10 + AIからチャットGPT、Gemini、Claude3、Copilot、Poe、perplexityなどの回答を得ることができます。 特徴... <sub>⭐ 2.0k · C#</sub>
+- [Code-with-Beto/snapai](https://github.com/Code-with-Beto/snapai) - 人工知能を搭載したアイコン生成 CLI for React Native & Expo 開発者。OpenAIの最新モデルを使用して、数秒で素晴らしいアプリのアイコンを生成します。 <sub>⭐ 1.9k · TypeScript</sub>
+- [alan-ai/alan-sdk-ios](https://github.com/alan-ai/alan-sdk-ios) - アプリのセルフコーディングシステム — iOS用Alan AI SDK <sub>⭐ 1.9k · Objective-C</sub>
+- [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API クライアントの Kotlin はマルチプラットフォームとコトリン機能を備えています。 <sub>⭐ 1.8k · Kotlin</sub>
+- [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - アプリのセルフコーディングシステム — アランAI SDK for Flutter <sub>⭐ 1.8k · Ruby</sub>
+- [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch) - PyTorch の ExecuTorch ランタイムを搭載した、React Native 用の高性能でプライバシーファーストなオンデバイス AI インフェレンスライブラリ <sub>⭐ 1.8k · TypeScript</sub>
+- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - ネイティブのmacOS App Store MCPでツールを接続します。 iOSアプリをApp StoreにAIエージェントと入力 <sub>⭐ 1.8k · Swift</sub>
+- [mithun50/openclaw-termux](https://github.com/mithun50/openclaw-termux) - AndroidでOpenClaw AI Gatewayを実行 — 内蔵端末、Webダッシュボード、ワンタップ設定を備えたスタンドアローンFlutterアプリ。 また、Termux CLIパッケージとしてご利用いただけます。 <sub>⭐ 1.7k · Dart</sub>
+- [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - これは、ChatGPTとOpenAI HTTP APIの周りのラッパーライブラリです。 <sub>⭐ 1.7k · Swift</sub>
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - AI コーディングアシスタントのエージェント最適化された React Native スキルを収集します。 <sub>⭐ 1.7k · Shell</sub>
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia smi バイナリまたは NVML を使用して prometheus のための Nvidia GPU の輸出業者 <sub>⭐ 1.6k · Go</sub>
+- [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - ビルトインMCPツーリング、AI支援分析、プライバシーコントロール、パッシブおよびアクティブスキャンなどを追加したBurp Suite拡張 <sub>⭐ 1.5k · Kotlin</sub>
+- [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) - NobodyWho は、LMSをローカルで効率的に実行できるインフェレンスエンジンです。 <sub>⭐ 1.5k · Rust</sub>
+- [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - MacOS、Windows、Linux、Android、iOSおよびブラウザ用のChatGPT C#クライアント。 Avalonia UIフレームワークを搭載した。 <sub>⭐ 1.5k · C#</sub>
+- [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) - Apple Developerドキュメンテーション用のMCPサーバー - iOS / MacOS / SwiftUI / UIKitドキュメント、WWDCビデオ、Claude、Curesor&AIアシスタントでSwift/Objective-C APIとコード例を検索 <sub>⭐ 1.4k · TypeScript</sub>
+- [truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) - iOS/macOSプロジェクトをスキャンするAIエージェントのスキルは、App Storeの拒否パターンを提出する前に <sub>⭐ 1.4k</sub>
+- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - モバイルAIアプリをクロスプラットフォームで構築するためのフルスタックフレームワーク <sub>⭐ 1.3k · TypeScript</sub>
+- [techjarves/Uncensored-Local-AI-Multiplatform](https://github.com/techjarves/Uncensored-Local-AI-Multiplatform) - Android、iOS、またはPC上で直接100%オフラインのオープンソースAIモデル(GGUF)を実行しているクロスプラットフォームFlutterアプリ。 クラウドなし、フィルタなし、トータルプライバシー。 <sub>⭐ 1.3k · Dart</sub>
+- [ShiftHackZ/Stable-Diffusion-KMP](https://github.com/ShiftHackZ/Stable-Diffusion-KMP) - AndroidとiOS用の安定した拡散AIクライアントアプリ <sub>⭐ 1.3k · Kotlin</sub>
 - [margelo/react-native-fast-tflite](https://github.com/margelo/react-native-fast-tflite) - GPUアクセラレーションでReact Native用の高性能TensorFlow Liteライブラリ <sub>⭐ 1.2k · TypeScript</sub>
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices —… <sub>⭐ 1.2k · Dart</sub>
-- [yoohoo360/open-pencil-cloud](https://github.com/yoohoo360/open-pencil-cloud) - AI-native design editor, open-source Figma alternative with Spring Boot and React. <sub>⭐ 1.1k · TypeScript</sub>
-- [codewithMUHILAN/Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library) - The AI-native CLI-first React component library. 160+ animated, accessible, production-ready components with MCP Server support for Cursor, Claude & GitHub Copilot. Copy-paste architecture — you own… <sub>⭐ 1.1k · TypeScript</sub>
-- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex is the first Al-Native VibeOfficing platform for documents, slides, and spreadsheets <sub>⭐ 1.1k · Go</sub>
-- [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps <sub>⭐ 991 · TypeScript</sub>
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider <sub>⭐ 931 · Swift</sub>
-- [proinsight-io/crewmeld](https://github.com/proinsight-io/crewmeld) - CrewMeld — Enterprise AI Digital Workforce Platform. Manage AI employees like real team members. Visual SOP orchestration, 13 LLM providers (including China-native models), 8+ messaging… <sub>⭐ 924 · TypeScript</sub>
-- [markrahq/markra](https://github.com/markrahq/markra) - A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local. <sub>⭐ 910 · TypeScript</sub>
-- [awizemann/scarf](https://github.com/awizemann/scarf) - Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more. <sub>⭐ 879 · Swift</sub>
-- [EvanBacon/expo-ai](https://github.com/EvanBacon/expo-ai) - AI chat app built with Expo Router <sub>⭐ 863 · TypeScript</sub>
-- [aws-samples/sample-mobile-ai-assistant](https://github.com/aws-samples/sample-mobile-ai-assistant) - A lightning-fast, cross-platform mobile AI Assistant App built with React Native. <sub>⭐ 858 · TypeScript</sub>
-- [brinesoftwares/Flutter-AI-Rubik-cube-Solver](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) - Flutter-Python rubiks cube solver. <sub>⭐ 854 · Dart</sub>
-- [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter. <sub>⭐ 816 · Dart</sub>
-- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers. <sub>⭐ 801 · Swift</sub>
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - 個人AIアシスタントのスタッフを持つプライベートログブック。 エージェントは、次の操作を録音して提案する情報を読み込みます。変更承認します。 自分のデバイス間で暗号化された同期を終了させる —... <sub>⭐ 1.2k · Dart</sub>
+- [yoohoo360/open-pencil-cloud](https://github.com/yoohoo360/open-pencil-cloud) - AIネイティブ設計エディタ、スプリングブーツとReactの代替オープンソースFigma。 <sub>⭐ 1.1k · TypeScript</sub>
+- [codewithMUHILAN/Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library) - AI ネイティブ CLI-first React コンポーネントライブラリ。 160+ アニメーション、アクセス可能、製造準備のコンポーネントと Cursor、Claude & GitHub Copilot のサポート。 Copy-paste アーキテクチャ — 所有する... <sub>⭐ 1.1k · TypeScript</sub>
+- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex は、ドキュメント、スライド、スプレッドシート用の初の Al-Native VibeOfficing プラットフォームです。 <sub>⭐ 1.1k · Go</sub>
+- [callstackincubator/cali](https://github.com/callstackincubator/cali) - React ネイティブアプリの構築のための AI エージェント <sub>⭐ 991 · TypeScript</sub>
+- [Renset/macai](https://github.com/Renset/macai) - ほぼすべてのAIプロバイダのためのオールインワンネイティブmacOS AIチャットアプリケーション <sub>⭐ 931 · Swift</sub>
+- [proinsight-io/crewmeld](https://github.com/proinsight-io/crewmeld) - CrewMeld — エンタープライズAIデジタル・ワークフォースプラットフォーム。人工知能の従業員をチームメンバーのように管理します。ビジュアルSOPオーケストレーション、13 LLMプロバイダー(中国ネイティブモデルを含む)、8 +メッセージング... <sub>⭐ 924 · TypeScript</sub>
+- [markrahq/markra](https://github.com/markrahq/markra) - WYSIWYG Markdownエディタは、ネイティブAIを使っています。 オープンソースが完全に開いているので、自由に使用できます。 あなたのデータはローカルにとどまります。 <sub>⭐ 910 · TypeScript</sub>
+- [awizemann/scarf](https://github.com/awizemann/scarf) - Hermes AIエージェントのネイティブmacOSとiOSアプリ — マルチウィンドウ、マルチサーバー(ローカル+リモートオーバーSSH)。チャット、ダッシュボード、セッション、メモリ、cron、MCPなど <sub>⭐ 879 · Swift</sub>
+- [EvanBacon/expo-ai](https://github.com/EvanBacon/expo-ai) - エクスポルータで構築されたAIチャットアプリ <sub>⭐ 863 · TypeScript</sub>
+- [aws-samples/sample-mobile-ai-assistant](https://github.com/aws-samples/sample-mobile-ai-assistant) - React Native で構築された超高速、クロスプラットフォームのモバイルAIアシスタントアプリです。 <sub>⭐ 858 · TypeScript</sub>
+- [brinesoftwares/Flutter-AI-Rubik-cube-Solver](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) - Flutter-Python rubiks キューブソルバー。 <sub>⭐ 854 · Dart</sub>
+- [sjjian/openhare](https://github.com/sjjian/openhare) - AI搭載のデスクトップSQLクライアント。クロスプラットフォーム。Flutterで構築されています。 <sub>⭐ 816 · Dart</sub>
+- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim — XcodeのiOSシミュレータ用の30以上のツール。RocketSim CLIによるテスト、デバッグ、ネットワーク監視、キャプチャ、アクセシビリティ、アプリアクション、AIエージェント自動化。80k+開発者が使用しました。 <sub>⭐ 801 · Swift</sub>
 - [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - 100以上の言語で音声をテキストに変換する100%プライベートなAIボイストランスクリプトアプリ。 Whisper AIを使用してAndroid&iOS用のCompose Multiplatform - クラウドのアップロードなし、すべての処理... <sub>⭐ 801 · C++</sub>
-- [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG. <sub>⭐ 705 · JavaScript</sub>
-- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application <sub>⭐ 696 · Swift</sub>
+- [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude.aiチャット用のワンクリックでプライバシーファーストの輸出業者 - 工芸品や添付ファイルを備えたクリーンなMarkdown、ObsidianとRAGの準備。 <sub>⭐ 705 · JavaScript</sub>
+- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - ChatGPT ネイティブ iOS、macOS、watchOS、tvOS SwiftUI アプリケーション <sub>⭐ 696 · Swift</sub>
 - [Buoy-gg/buoy](https://github.com/Buoy-gg/buoy) - React ネイティブアプリに住んでいる Devtools. そして、あなたのエージェントに答えます。 25 +ツール · デスクトップダッシュボード · MCP サーバー for AI エージェント <sub>⭐ 692</sub>
-- [davidmigloz/langchain_dart](https://github.com/davidmigloz/langchain_dart) - Build LLM-powered Dart/Flutter applications. <sub>⭐ 689 · Dart</sub>
-- [AnsahMohammad/shots-studio](https://github.com/AnsahMohammad/shots-studio) - An AI Powered Screenshot manager for Android <sub>⭐ 685 · Dart</sub>
-- [anasfik/openai](https://github.com/anasfik/openai) - The unofficial OpenAI SDK for Dart & Flutter. Full API coverage + OpenAI-compatible providers (Azure, DeepSeek, LM Studio, Ollama): Responses, Chat, Realtime, Videos, Batch, Fine-tuning. <sub>⭐ 666 · Dart</sub>
-- [Hash-Studios/Prism](https://github.com/Hash-Studios/Prism) - Prism is an open-source Flutter wallpapers and home screen setups app for Android and iOS, with community uploads, curated collections, and AI wallpaper generation. <sub>⭐ 664 · Dart</sub>
-- [takahirom/arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps. Get Started in 5 Minutes. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature… <sub>⭐ 649 · Kotlin</sub>
-- [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) - Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs <sub>⭐ 645 · Shell</sub>
-- [DeadWaveWave/demo2apk](https://github.com/DeadWaveWave/demo2apk) - Turn your Vibe Coding ideas into runnable Android Apps instantly <sub>⭐ 639 · TypeScript</sub>
-- [DenisovAV/flutter_edge_ai](https://github.com/DenisovAV/flutter_edge_ai) - The Flutter plugin allows running the Gemma AI model locally on a device from a Flutter application. <sub>⭐ 629 · JavaScript</sub>
-- [gridaco/assistant](https://github.com/gridaco/assistant) - Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design <sub>⭐ 618 · TypeScript</sub>
-- [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter. <sub>⭐ 588 · Dart</sub>
-- [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows. <sub>⭐ 580 · TypeScript</sub>
-- [alan-ai/alan-sdk-reactnative](https://github.com/alan-ai/alan-sdk-reactnative) - The Self-Coding System for Your App — Alan AI SDK for React Native <sub>⭐ 574 · Ruby</sub>
-- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) - A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages <sub>⭐ 569 · TypeScript</sub>
-- [Radiant303/SpringNote](https://github.com/Radiant303/SpringNote) - SpringNote is a note-taking tool for the lazy. Just jot things down, and AI tidies up the scattered pieces for you, making recording effortless. <sub>⭐ 550 · Dart</sub>
-- [l0ng-ai/papr](https://github.com/l0ng-ai/papr) - A fast, native RSS reader — plus an agent-facing CLI so your AI agent can read, search and triage your feeds from the shell. <sub>⭐ 536 · Rust</sub>
-- [wataru-maeda/react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Production-ready React Native boilerplate for iOS, Android, and Web with Expo SDK 54, React 19.1, Expo Router v6, Redux Toolkit, TypeScript, and AI-optimized development (Claude/Cursor). Features… <sub>⭐ 517 · TypeScript</sub>
-- [VelornLabs/velorn](https://github.com/VelornLabs/velorn) - AI-native video editing built around real creative timelines, generative workflows, and local agent control. <sub>⭐ 495 · JavaScript</sub>
-- [babarot/oksskolten](https://github.com/babarot/oksskolten) - The AI-native RSS reader <sub>⭐ 485 · TypeScript</sub>
-- [Hacker-Valley-Media/Interceptor](https://github.com/Hacker-Valley-Media/Interceptor) - Browser automation and computer use for AI agents. One CLI and MCP server for your signed-in browser, native macOS apps, and real iPhones. <sub>⭐ 481 · TypeScript</sub>
-- [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT) - ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux) <sub>⭐ 473 · Pascal</sub>
-- [leancodepl/marionette_mcp](https://github.com/leancodepl/marionette_mcp) - MCP server enabling AI agents to interact with Flutter apps at runtime - let them inspect widgets, simulate taps, enter text, scroll, and take screenshots. <sub>⭐ 472 · Dart</sub>
-- [woheller69/gptAssist](https://github.com/woheller69/gptAssist) - gptAssist is a simple WebView wrapper for ChatGPT <sub>⭐ 463 · Java</sub>
-- [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT. <sub>⭐ 446 · Kotlin</sub>
-- [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) - AEO Automation Framework for Claude Code One-click, beginner friendly automation for GitHub. Includes a dedicated fleet of AEO sub-agents handling planning, execution, reports, actionable items, and… <sub>⭐ 443 · Python</sub>
-- [Odevio/Odevio-CLI](https://github.com/Odevio/Odevio-CLI) - Build, sign and publish iOS apps from any OS - no Mac, no Xcode. Driven by your AI agent <sub>⭐ 423 · Python</sub>
-- [IvanCampos/visionOS-examples](https://github.com/IvanCampos/visionOS-examples) - visionOS examples ⸺ Spatial Computing Accelerators for Apple Vision Pro <sub>⭐ 406 · Swift</sub>
-- [microblink/blinkid-ios](https://github.com/microblink/blinkid-ios) - Everything you need to add AI-driven ID scanning into your native iOS app. <sub>⭐ 401 · Swift</sub>
-- [mobile-next/mobilewright](https://github.com/mobile-next/mobilewright) - Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API. <sub>⭐ 396 · TypeScript</sub>
-- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API. <sub>⭐ 390 · Dart</sub>
-- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP Toolkit for Flutter AI Agent Driven Development (MCP/CLI + custom client side tools) - via closed feedback loop (visual & semantic snapshot) and high client side customization adaptable for any… <sub>⭐ 383 · Dart</sub>
-- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all… <sub>⭐ 382 · Dart</sub>
-- [tddworks/asc-cli](https://github.com/tddworks/asc-cli) - App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support… <sub>⭐ 374 · Swift</sub>
-- [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React… <sub>⭐ 368 · Python</sub>
-- [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) - A Fork of Rikkahub with an overhauled UI and feature additions <sub>⭐ 367 · Kotlin</sub>
-- [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving. <sub>⭐ 366 · Python</sub>
-- [starling-build/starling](https://github.com/starling-build/starling) - Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps <sub>⭐ 362 · Swift</sub>
-- [redevrx/chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT <sub>⭐ 354 · Dart</sub>
-- [shanggqm/codexU](https://github.com/shanggqm/codexU) - macOS desktop widget for OpenAI Codex usage, quota tracking, token usage, and today task board <sub>⭐ 351 · Swift</sub>
-- [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev) - Curated catalog of React Native UI components, animations, and design inspiration. AI-assisted ingestion via OpenAI Codex. <sub>⭐ 350 · TypeScript</sub>
-- [Dimillian/FoundationChat](https://github.com/Dimillian/FoundationChat) - A chat app with iOS 26 Foundation Models <sub>⭐ 347 · Swift</sub>
-- [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - Export any Kindle book you own as text, PDF, EPUB, or as a custom, AI-narrated audiobook. <sub>⭐ 341 · TypeScript</sub>
-- [matthaigh27/ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - Android app for accessing ChatGPT <sub>⭐ 336 · Kotlin</sub>
-- [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key. <sub>⭐ 331 · Swift</sub>
-- [hermes-hq/hermes-ide](https://github.com/hermes-hq/hermes-ide) - AI-native terminal emulator & IDE. Built with Tauri, React, and Rust. <sub>⭐ 330 · TypeScript</sub>
-- [hhstore/blog](https://github.com/hhstore/blog) - My Tech Blog: about Mojo / Rust / Golang / Python / Kotlin / Flutter / VueJS / Blockchain etc. <sub>⭐ 330</sub>
-- [FrankChen021/datastoria](https://github.com/FrankChen021/datastoria) - AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization. <sub>⭐ 327 · TypeScript</sub>
-- [quickpose/quickpose-ios-sdk](https://github.com/quickpose/quickpose-ios-sdk) - Quickly add MediaPipe Pose Estimation and Detection to your iOS app. Enable powerful features in your app powered by the body or hand. <sub>⭐ 327 · Swift</sub>
-- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - Create and edit AI video tutorials with illustrated lessons, expressive presenters, distinct voices, and a native timeline. Windows desktop app with local models and cloud providers. <sub>⭐ 313 · Python</sub>
-- [droid-ash/finalrun-agent](https://github.com/droid-ash/finalrun-agent) - AI QA Agent for mobile apps <sub>⭐ 311 · TypeScript</sub>
-- [MustangYM/OSXChatGPT](https://github.com/MustangYM/OSXChatGPT) - Easy to use OpenAI ChatGPT on your mac ! <sub>⭐ 309 · Swift</sub>
-- [BrutalCoding/aub.ai](https://github.com/BrutalCoding/aub.ai) - AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app. <sub>⭐ 308 · Dart</sub>
-- [jamonholmgren/flame](https://github.com/jamonholmgren/flame) - Flame AI: CLI for Interactive AI-Powered React Native Upgrades <sub>⭐ 306 · TypeScript</sub>
-- [adri567/autogpt](https://github.com/adri567/autogpt) - Xcode Source Editor Extension with OpenAI's API <sub>⭐ 298</sub>
-- [Telosnex/fonnx](https://github.com/Telosnex/fonnx) - ONNX runtime for Flutter. <sub>⭐ 297 · Dart</sub>
-- [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) <sub>⭐ 294 · TypeScript</sub>
-- [c0sogi/LLMChat](https://github.com/c0sogi/LLMChat) - A full-stack Webui implementation of Large Language model, such as ChatGPT or LLaMA. <sub>⭐ 290 · Python</sub>
-- [mobile-next/mobilecli](https://github.com/mobile-next/mobilecli) - Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps <sub>⭐ 290 · Go</sub>
-- [software-mansion-labs/skills](https://github.com/software-mansion-labs/skills) - Software Mansion's set of skills for AI-assisted React Native development. <sub>⭐ 290 · Go</sub>
-- [zebangeth/ai-closet](https://github.com/zebangeth/ai-closet) - An AI-native app to digitize your wardrobe, get outfit inspirations, and try on looks virtually. Support both iOS and Android <sub>⭐ 290 · TypeScript</sub>
-- [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI, support iOS, iPadOS & MacOS <sub>⭐ 289 · Swift</sub>
+- [davidmigloz/langchain_dart](https://github.com/davidmigloz/langchain_dart) - LLM 搭載の Dart/Flutter アプリケーションをビルドします。 <sub>⭐ 689 · Dart</sub>
+- [AnsahMohammad/shots-studio](https://github.com/AnsahMohammad/shots-studio) - Android向けAI搭載スクリーンショットマネージャ <sub>⭐ 685 · Dart</sub>
+- [anasfik/openai](https://github.com/anasfik/openai) - OpenAI SDK for Dart & Flutter の非公式なOpenAI SDKです。フル APIカバレッジ+ OpenAI互換プロバイダ(Azure、DeepSeek、LM Studio、Ollama):応答、チャット、リアルタイム、ビデオ、バッチ、ファインチューニング <sub>⭐ 666 · Dart</sub>
+- [Hash-Studios/Prism](https://github.com/Hash-Studios/Prism) - PrismはオープンソースのFlutter壁紙とAndroidおよびiOS用のホーム画面セットアップアプリで、コミュニティアップロード、キュレーションコレクション、AIの壁紙生成機能を備えています。 <sub>⭐ 664 · Dart</sub>
+- [takahirom/arbigent](https://github.com/takahirom/arbigent) - Android、iOS、WebアプリのテストのためのAIエージェント。 5分で開始します。 Arbigentの直観的なUIと強力なコードインターフェイスは、すべての人にアクセス可能になりながら、そのシナリオの故障機能... <sub>⭐ 649 · Kotlin</sub>
+- [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) - クラウド、コーデックス、カーサー、その他のAIを搭載したIDEのFlutter AIスキルとルール <sub>⭐ 645 · Shell</sub>
+- [DeadWaveWave/demo2apk](https://github.com/DeadWaveWave/demo2apk) - Vibe CodingのアイデアをランナブルなAndroidアプリに即座にオンにする <sub>⭐ 639 · TypeScript</sub>
+- [DenisovAV/flutter_edge_ai](https://github.com/DenisovAV/flutter_edge_ai) - Flutter プラグインは、Fluter アプリケーションからデバイス上でローカルで Gemma AI モデルを実行できます。 <sub>⭐ 629 · JavaScript</sub>
+- [gridaco/assistant](https://github.com/gridaco/assistant) - 図間設計と開発パイプラインを次のレベルに持ち込む - コード、デザインコンテンツ管理、コンポーネントの管理、より高速な設計のためのツール <sub>⭐ 618 · TypeScript</sub>
+- [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - Flutter を搭載した新しい便利で強力な Android 電話アシスタント。 <sub>⭐ 588 · Dart</sub>
+- [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG エディター for React、AIストリーミング、ヒューマン編集、巨大なファイル、macOS、Web、およびエージェントワークフロー用に構築されています。 <sub>⭐ 580 · TypeScript</sub>
+- [alan-ai/alan-sdk-reactnative](https://github.com/alan-ai/alan-sdk-reactnative) - アプリのセルフコーディングシステム — アランAI SDK for React Native <sub>⭐ 574 · Ruby</sub>
+- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) - プログラミング言語のエージェントスキル標準とベストプラクティス、当社のAIエージェントがフレームワークやプログラムラグジュに関する最高の実践を追及するのに役立つフレームワーク <sub>⭐ 569 · TypeScript</sub>
+- [Radiant303/SpringNote](https://github.com/Radiant303/SpringNote) - SpringNote はレイジーのためのノートテイクなツールです。物事を追い払うだけで、AI があなたのために散らばった部分を縛り上げて記録を楽にします。 <sub>⭐ 550 · Dart</sub>
+- [l0ng-ai/papr](https://github.com/l0ng-ai/papr) - 速い、ネイティブのRSSリーダー — エージェント・フェーシング CLI で、AI エージェントはシェルからフィードを読み取り、検索し、試すことができます。 <sub>⭐ 536 · Rust</sub>
+- [wataru-maeda/react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - 生産準備が整った React ネイティブのボイラープレート iOS、Android、および Web for Expo SDK 54、React 19.1、Expo Router v6、Redux Toolkit、TypeScript、AI-optimized Development(Claude/Cursor)。 特徴... <sub>⭐ 517 · TypeScript</sub>
+- [VelornLabs/velorn](https://github.com/VelornLabs/velorn) - クリエイティブなタイムライン、ジェネレーションワークフロー、ローカルエージェント制御を中心に構築されたAIネイティブビデオ編集。 <sub>⭐ 495 · JavaScript</sub>
+- [babarot/oksskolten](https://github.com/babarot/oksskolten) - AIネイティブRSSリーダー <sub>⭐ 485 · TypeScript</sub>
+- [Hacker-Valley-Media/Interceptor](https://github.com/Hacker-Valley-Media/Interceptor) - ブラウザの自動化とAIエージェント用のコンピュータの使用。あなたの署名付きブラウザー、ネイティブmacOSアプリ、実際のiPhone用の1 CLIおよびMCPサーバー。 <sub>⭐ 481 · TypeScript</sub>
+- [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT) - ChatGPT ネイティブアプリケーション(Windows、Mac、Android、iOS、Linux) <sub>⭐ 473 · Pascal</sub>
+- [leancodepl/marionette_mcp](https://github.com/leancodepl/marionette_mcp) - MCP サーバーでは、AI エージェントが実行時に Flutter アプリとやり取りできるようにします。ウィジェットを調べたり、タップをシミュレートしたり、テキストを入力するか、スクリーンショットをスクロールして撮ったりできます。 <sub>⭐ 472 · Dart</sub>
+- [woheller69/gptAssist](https://github.com/woheller69/gptAssist) - gptAssistはChatGPT用のシンプルなWebViewラッパーです。 <sub>⭐ 463 · Java</sub>
+- [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - OpenAIチャットGPTに基づくパーソナルボイスアシスタント。 <sub>⭐ 446 · Kotlin</sub>
+- [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) - Claudeコードワンクリック、GitHub向けの初心者向け自動化のためのAEO Automation Framework。 AEOサブエージェントの専用フリートには、計画、実行、レポート、実用的なアイテム、および... <sub>⭐ 443 · Python</sub>
+- [Odevio/Odevio-CLI](https://github.com/Odevio/Odevio-CLI) - 任意のOSからiOSアプリをビルド、署名し、公開する - Macなし、Xcodeなし。あなたのAIエージェントによって駆動 <sub>⭐ 423 · Python</sub>
+- [IvanCampos/visionOS-examples](https://github.com/IvanCampos/visionOS-examples) - VisionOSの例 Spatial Computing Accelerators for Apple Vision Proのライセンス <sub>⭐ 406 · Swift</sub>
+- [microblink/blinkid-ios](https://github.com/microblink/blinkid-ios) - ネイティブiOSアプリにAI主導のIDスキャンを追加するために必要なすべてのもの。 <sub>⭐ 401 · Swift</sub>
+- [mobile-next/mobilewright](https://github.com/mobile-next/mobilewright) - Mobilewrightは、モバイルアプリのテストとオートメーションの開発者フレームワークです。iOS/Androidアプリを実際のデバイスやエミュレーター、単一のAPIでテストすることができます。 <sub>⭐ 396 · TypeScript</sub>
+- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - OpenAI API のサードパーティークライアント <sub>⭐ 390 · Dart</sub>
+- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - Flutter AI エージェント駆動開発 (MCP/CLI + カスタムクライアントサイドツール) - クローズドフィードバックループ(ビジュアル&セマンティックスナップショット)と、あらゆる用途に対応する高クライアント側カスタマイズによる MCP ツールキット。 <sub>⭐ 383 · Dart</sub>
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - 10プラットフォーム用のAI搭載E2Eテスト。 253 MCPツール。 ゼロコンフィグ。 Claude、Cursor、Windsurf、Copilotで動作します。 テストFlutter、React Native、iOS、Android、Web、Electron、Tauri、KMP、.NET MAUI - すべて... <sub>⭐ 382 · Dart</sub>
+- [tddworks/asc-cli](https://github.com/tddworks/asc-cli) - App Store は、端末とエージェントから接続します。App Store Connect で iOS および MacOS アプリを管理するためのSwift CLIです。バージョンを投稿し、スクリーンショットの管理やビルドの追跡など、AI エージェントがサポートしている全機能を備えています。 <sub>⭐ 374 · Swift</sub>
+- [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Claudeコード用のマルチエージェントチームオペレーティングシステム。 108 MCPツール、40 +エージェントテンプレート、10ライフサイクルホック、7パイプラインワークフロー。 永続的なチーム、構造化された会議、タスクウォール、リアルタイムReact... <sub>⭐ 368 · Python</sub>
+- [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) - オーバーホールされたUIと機能の追加を備えたリッカハブのフォーク <sub>⭐ 367 · Kotlin</sub>
+- [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - 任意の曲を再生可能なピアノ楽譜に変えます。 YouTubeリンクやオーディオのアップロードを貼り付け、PDFスコアを取得します。 オープンソースパイプライン:基本ピッチの転写、2手アレンジ、RL-trained彫刻。 <sub>⭐ 366 · Python</sub>
+- [starling-build/starling](https://github.com/starling-build/starling) - Starling — 新しいLinuxデスクトップ環境:Swiftシェル、独自のコンポジタ、Flutter-to-Swiftフレームワークポート、およびファーストパーティアプリ <sub>⭐ 362 · Swift</sub>
+- [redevrx/chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - フラッタチャットGPT <sub>⭐ 354 · Dart</sub>
+- [shanggqm/codexU](https://github.com/shanggqm/codexU) - OpenAI Codex の使い方、クォータトラッキング、トークン使用量および今日のタスクボード用の macOS デスクトップウィジェット <sub>⭐ 351 · Swift</sub>
+- [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev) - React ネイティブ UI コンポーネント、アニメーション、およびデザインインスピレーションのキュレーションされたカタログ。OpenAI Codex による AI-assisted インジェクション。 <sub>⭐ 350 · TypeScript</sub>
+- [Dimillian/FoundationChat](https://github.com/Dimillian/FoundationChat) - iOS 26 ファンデーションモデルのチャットアプリ <sub>⭐ 347 · Swift</sub>
+- [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - テキスト、PDF、EPUB、またはカスタムとして所有するKindleブックをエクスポートします。 <sub>⭐ 341 · TypeScript</sub>
+- [matthaigh27/ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - ChatGPTにアクセスするためのAndroidアプリ <sub>⭐ 336 · Kotlin</sub>
+- [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - 独自のOpenAI/Claude APIキーを使用する、 ai-assistantチャットアプリ。 <sub>⭐ 331 · Swift</sub>
+- [hermes-hq/hermes-ide](https://github.com/hermes-hq/hermes-ide) - AIネイティブ端末エミュレータ & IDE. タウリで構築, リアクション, Rust. <sub>⭐ 330 · TypeScript</sub>
+- [hhstore/blog](https://github.com/hhstore/blog) - 私の技術ブログ:Mojo / Rust / Golang / Python / Kotlin / Flutter / VueJS / Blockchainなどについて <sub>⭐ 330</sub>
+- [FrankChen021/datastoria](https://github.com/FrankChen021/datastoria) - あなたのクラスター診断とクエリ生成、最適化およびデータ可視化のためのAIネイティブClickHouseコンソール。 <sub>⭐ 327 · TypeScript</sub>
+- [quickpose/quickpose-ios-sdk](https://github.com/quickpose/quickpose-ios-sdk) - MediaPipe Pose Estimation と iOS アプリへの検出をすばやく追加できます。ボディまたはハンドで機能するアプリの強力な機能を有効化します。 <sub>⭐ 327 · Swift</sub>
+- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - 説明されたレッスン、表現的なプレゼンター、異なるボイス、ネイティブタイムラインでAIビデオチュートリアルを作成および編集します。ローカルモデルとクラウドプロバイダを備えたWindowsデスクトップアプリ。 <sub>⭐ 313 · Python</sub>
+- [droid-ash/finalrun-agent](https://github.com/droid-ash/finalrun-agent) - モバイルアプリ向けAI QAエージェント <sub>⭐ 311 · TypeScript</sub>
+- [MustangYM/OSXChatGPT](https://github.com/MustangYM/OSXChatGPT) - MacでOpenAIチャットGPTを使うのは簡単! <sub>⭐ 309 · Swift</sub>
+- [BrutalCoding/aub.ai](https://github.com/BrutalCoding/aub.ai) - AubAIは、オフラインのテキスト生成など、アプリ内で直接オンデバイスgen-AI機能を提供します。 <sub>⭐ 308 · Dart</sub>
+- [jamonholmgren/flame](https://github.com/jamonholmgren/flame) - 難燃AI:インタラクティブなAIパワードリアクトネイティブアップグレードのためのCLI <sub>⭐ 306 · TypeScript</sub>
+- [adri567/autogpt](https://github.com/adri567/autogpt) - OpenAIのAPIでXcodeソースエディタ拡張 <sub>⭐ 298</sub>
+- [Telosnex/fonnx](https://github.com/Telosnex/fonnx) - Flutter の ONNX ランタイム。 <sub>⭐ 297 · Dart</sub>
+- [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - Vercel AIパッケージをReact NativeとExpoユニバーサルネイティブアプリ(モバイル、ウェブ)で実行する <sub>⭐ 294 · TypeScript</sub>
+- [c0sogi/LLMChat](https://github.com/c0sogi/LLMChat) - ChatGPT や LLaMA などの大規模言語モデルのフルスタック Webui 実装。 <sub>⭐ 290 · Python</sub>
+- [mobile-next/mobilecli](https://github.com/mobile-next/mobilecli) - iOSおよびAndroidデバイス、シミュレータ、エミュレータ、アプリを管理するためのユニバーサルコマンドラインツール <sub>⭐ 290 · Go</sub>
+- [software-mansion-labs/skills](https://github.com/software-mansion-labs/skills) - ソフトウェアマンションのAI支援型React Native開発スキルセット <sub>⭐ 290 · Go</sub>
+- [zebangeth/ai-closet](https://github.com/zebangeth/ai-closet) - あなたのワードローブをデジタル化し、衣装のインスピレーションを得て、事実上ルックを試してみるAIネイティブアプリ。 iOSとAndroidの両方をサポート <sub>⭐ 290 · TypeScript</sub>
+- [Panl/AICat](https://github.com/Panl/AICat) - SwiftUIを使用してChatGPT用のマルチプラットフォームクライアント、iOS、iPadOSおよびMacOSをサポート <sub>⭐ 289 · Swift</sub>
 - [bex-co/beancount-io](https://github.com/bex-co/beancount-io) - 人間とAIのエージェントのための文脈を記述する、簡単な二重エントリー簿記。React Native + EXPOで構築されたiOS&Androidアプリを磨きました。 <sub>⭐ 288 · TypeScript</sub>
-- [239573049/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop) - ChatGpt Dekstop support Android，IOS，Mac，Linux，Win，Web <sub>⭐ 278 · C#</sub>
-- [openperf/openclaw-cloud](https://github.com/openperf/openclaw-cloud) - Give your AI Agent a cloud-native life. Deploy once, converse everywhere. <sub>⭐ 272 · TypeScript</sub>
-- [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model. <sub>⭐ 270 · C++</sub>
-- [hasaneyldrm/logpress-public](https://github.com/hasaneyldrm/logpress-public) - AI-powered workout tracker for iOS & Android — React Native app with AI fitness scoring, workout logging, gamification and an offline demo mode. Public, sanitized fork (no embedded secrets). <sub>⭐ 268 · TypeScript</sub>
-- [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type… <sub>⭐ 258 · TypeScript</sub>
-- [sayampy/deepdenoiser](https://github.com/sayampy/deepdenoiser) - An offline AI Audio Denoiser app built using DeepFilternet3 <sub>⭐ 258 · TypeScript</sub>
-- [farmassistX/farmassist](https://github.com/farmassistX/farmassist) - Farmassist is a smart farming app for IoT and AI-powered plant disease detection. It is built with Flutter and uses Firebase as its backend. <sub>⭐ 250 · Dart</sub>
-- [fkiene/llmtrim](https://github.com/fkiene/llmtrim) - Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens from prompts, history, tool output, and code before they're sent: -31% input /… <sub>⭐ 240 · Rust</sub>
-- [yatendra2001/AI_Buddy](https://github.com/yatendra2001/AI_Buddy) - Your personal free-to-use AI assistant, built with gemini & flutter. <sub>⭐ 232 · Dart</sub>
-- [PreternaturalAI/AI](https://github.com/PreternaturalAI/AI) - The definitive, open-source Swift framework for interfacing with generative AI. <sub>⭐ 230 · Swift</sub>
-- [theBGuy/GitDesktop](https://github.com/theBGuy/GitDesktop) - AI-native, keyboard-first Git desktop client combining GitHub Desktop's ease with advanced Git, PR, issue, discussion, Actions, and notification management; integrates GitLab, Bitbucket, Jira… <sub>⭐ 229 · TypeScript</sub>
-- [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - Export your ChatGPT, Claude, Copilot, Gemini and Grok chat, using Tampermonkey on chrome, firefox, and other supported browsers, with rich Markdown formatting, a Table of Contents (TOC), YAML… <sub>⭐ 224 · HTML</sub>
-- [Sunhaiy/Reflex](https://github.com/Sunhaiy/Reflex) - is a next-generation, modern, and lightweight SSH client engineered for absolute efficiency. Beyond standard terminal emulation, it acts as your ultimate developer workbench by integrating… <sub>⭐ 213 · TypeScript</sub>
-- [babakcode/flutter_gemini](https://github.com/babakcode/flutter_gemini) - Flutter Google Gemini SDK <sub>⭐ 210 · Dart</sub>
-- [JayCRL/MobileVC](https://github.com/JayCRL/MobileVC) - Turn your phone into the control center for an AI coding assistant CLI session (Claude or Codex) running on your computer. <sub>⭐ 209 · Go</sub>
-- [hyscaler/HyCanvas](https://github.com/hyscaler/HyCanvas) - Free, self-hostable, AI-native design software for creating graphics, social posts, and more, with no paywalls or watermarks. <sub>⭐ 206 · TypeScript</sub>
-- [innFactory/react-native-dialogflow](https://github.com/innFactory/react-native-dialogflow) - A React-Native Bridge for the Google Dialogflow (API.AI) SDK <sub>⭐ 205 · JavaScript</sub>
-- [Decron/Whitebox-Code-GPT](https://github.com/Decron/Whitebox-Code-GPT) - Repository of instructions for Programming-specific GPT models <sub>⭐ 204 · Dart</sub>
-- [calcitem/Sanmill](https://github.com/calcitem/Sanmill) - Sanmill is an open-source, UCI-like Mill/Morris/Merrills/Mühle/Malom (and its variants) program with CUI and Flutter GUI, sharing and freely distributing the code, tools and data needed to deliver… <sub>⭐ 202 · Dart</sub>
-- [31d4r/Raven](https://github.com/31d4r/Raven) - Document chat app for macOS / iOS. Upload files, ask questions. Everything runs locally on your Mac / iPhone. <sub>⭐ 197 · Swift</sub>
-- [AhmadHassan-BTed/GardenPulse](https://github.com/AhmadHassan-BTed/GardenPulse) - Method-agnostic smart garden companion built with React Native, Expo, and TypeScript. Adapts to soil, hydro, container, or indoor setups with location-aware intelligence, OpenWeather integration, and… <sub>⭐ 195 · TypeScript</sub>
-- [margelo/ai-chat-demo](https://github.com/margelo/ai-chat-demo) - A ChatGPT-style mobile chat app in React Native with context about Margelo <sub>⭐ 192 · TypeScript</sub>
-- [xebia-functional/xef](https://github.com/xebia-functional/xef) - Building applications with LLMs through composability, in Kotlin <sub>⭐ 192 · Kotlin</sub>
-- [microblink/blinkid-react-native](https://github.com/microblink/blinkid-react-native) - ID scanning for cross-platform apps built with ReactNative. <sub>⭐ 188 · TypeScript</sub>
-- [verseles/codewalk](https://github.com/verseles/codewalk) - A native (really fast!!) cross-platform client for OpenCode <sub>⭐ 188 · Dart</sub>
-- [PatilShreyas/ChaKt-KMP](https://github.com/PatilShreyas/ChaKt-KMP) - ChaKt - A multiplatform chat-prompt based app for Android, iOS, Desktop, Web. Powered by Google's Gemini API (with Generative AI Multiplatform SDK) <sub>⭐ 185 · Kotlin</sub>
-- [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) - Turn lecture slides into flashcards and export them to Anki. Uses GPT-5 by OpenAI. AnkiGPT already generated 3,430,876 flashcards. <sub>⭐ 184 · Dart</sub>
-- [f3rb123/beetle](https://github.com/f3rb123/beetle) - Modern offline-first Application Security Intelligence Platform for Android, iOS, Flutter and React Native with attack-chain analysis, explainable findings, source exploration, AI-assisted… <sub>⭐ 180 · Python</sub>
-- [Ge-limin/shad-expo-studio](https://github.com/Ge-limin/shad-expo-studio) - A visual-regression studio for Expo / React Native UI components: deterministic examples generate Storybook stories and Chromatic baselines, one component tree renders on iOS, Android, and Web. Not a… <sub>⭐ 177 · TypeScript</sub>
-- [Nabinji/Flutter-App-Design](https://github.com/Nabinji/Flutter-App-Design) - Flutter ui design tutorial source code. <sub>⭐ 176 · Dart</sub>
-- [JetBrains-Research/kotlinllm-plugin](https://github.com/JetBrains-Research/kotlinllm-plugin) - KotlinLLM is an IntelliJ IDEA plugin prototype for experimenting with LLM-driven Smart macros in Kotlin, enabling code generation, runtime updates, and hot-reloading. <sub>⭐ 175 · Kotlin</sub>
-- [margelo/react-native-skills](https://github.com/margelo/react-native-skills) - The best react-native Agent Skills. Forget 10x, this is 100x. <sub>⭐ 173</sub>
-- [CedarCopilot/cedar-OS](https://github.com/CedarCopilot/cedar-OS) - The open-source framework for building AI-native frontends <sub>⭐ 172 · TypeScript</sub>
-- [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo. <sub>⭐ 171 · TypeScript</sub>
-- [coskuncay/flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart <sub>⭐ 169 · Dart</sub>
-- [VeryGoodOpenSource/vgv-ai-flutter-plugin](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) - AI plugin to enhance and accelerate Flutter & Dart development, built by Very Good Ventures <sub>⭐ 166 · Shell</sub>
-- [bhoominn/nb_utils](https://github.com/bhoominn/nb_utils) - Collection of Widgets and helpful Methods that every developer needs. <sub>⭐ 159 · Dart</sub>
-- [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone <sub>⭐ 159 · HTML</sub>
-- [FlutterFlareLine/FlareLine](https://github.com/FlutterFlareLine/FlareLine) - flutter admin dashboard for web <sub>⭐ 157 · Dart</sub>
-- [worktool/chatgpt-android](https://github.com/worktool/chatgpt-android) - OpenAI ChatGPT for Android <sub>⭐ 154 · Java</sub>
-- [askie/grix](https://github.com/askie/grix) - Grix : Work with agents like talking to people. <sub>⭐ 153 · Go</sub>
-- [abdullahtarek/coffee_shop_customer_service_chatbot](https://github.com/abdullahtarek/coffee_shop_customer_service_chatbot) - An AI-powered chatbot for coffee shops, integrating LLMs, NLP, and a React Native app for enhanced customer service <sub>⭐ 152 · Jupyter Notebook</sub>
-- [adrianhajdin/react-native-lingua](https://github.com/adrianhajdin/react-native-lingua) - React Native Duolingo clone with a real-time AI voice teacher. Built with Expo, Stream Voice Agents, Clerk auth, and NativeWind for a complete, interactive mobile learning experience. <sub>⭐ 150 · TypeScript</sub>
-- [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - Making offline AI models accessible to all types of edge devices. <sub>⭐ 146 · Dart</sub>
-- [eclipse-lmos/arc](https://github.com/eclipse-lmos/arc) - The Arc project utilizes the power of Kotlin DSL and Kotlin Scripting to define a language optimized for building LLM-powered solutions. <sub>⭐ 145 · JavaScript</sub>
-- [dsm5e/aso-tracker](https://github.com/dsm5e/aso-tracker) - Self-hosted open-source App Store toolkit for indie iOS devs — keyword tracking, AI screenshot generation, PPO experiments, and UGC video pipeline. <sub>⭐ 144 · TypeScript</sub>
-- [touwaeriol/claude-code-plus](https://github.com/touwaeriol/claude-code-plus) - GUI Plugin for Claude Code / Codex CLI / Gemini CLI in JetBrains IDEs - Run AI coding assistants with a beautiful visual interface <sub>⭐ 143 · JavaScript</sub>
-- [Code-with-Beto/skills](https://github.com/Code-with-Beto/skills) - Agent Skills and plugins to help mobile devs ship better apps faster with AI assistance <sub>⭐ 140 · TypeScript</sub>
-- [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination <sub>⭐ 138 · Swift</sub>
-- [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare. <sub>⭐ 138 · Swift</sub>
-- [realZachi/shotluma](https://github.com/realZachi/shotluma) - Open-source, local-first AI App Store screenshot editor. <sub>⭐ 138 · TypeScript</sub>
-- [mbabicz/SwiftAI](https://github.com/mbabicz/SwiftAI) - iOS app that features a chat powered by ChatGPT and DALL·E 2 <sub>⭐ 137 · Swift</sub>
-- [MUKE-coder/grit](https://github.com/MUKE-coder/grit) - The Laravel + Filament experience for Go and React. One command scaffolds a production-ready monorepo (API, web, admin, mobile, desktop) with auth, 2FA, passkeys, jobs, mail, storage, AI and a… <sub>⭐ 137 · Go</sub>
-- [nateshmbhat/card-scanner-flutter](https://github.com/nateshmbhat/card-scanner-flutter) - A flutter package for Fast, Accurate and Secure Credit card & Debit card scanning <sub>⭐ 137 · Swift</sub>
-- [OpenAgentsInc/arcade](https://github.com/OpenAgentsInc/arcade) - Nostr & AI chat app <sub>⭐ 137 · TypeScript</sub>
-- [vinceglb/ComposeAI](https://github.com/vinceglb/ComposeAI) - An Android & iOS application ChatGPT like made with Compose Multiplatform <sub>⭐ 137 · Kotlin</sub>
-- [davidmokos/expo-gpt-live](https://github.com/davidmokos/expo-gpt-live) - Expo SDK 57 voice app with GPT-Live 1 and AI Elements Persona. <sub>⭐ 135 · TypeScript</sub>
-- [GetStream/stream-tutorial-projects](https://github.com/GetStream/stream-tutorial-projects) - This repo contains SwiftUI, Jetpack Compose, JS & React Native projects for some of the iOS, Android , and AI tutorial series in the Stream Developers YouTube channel… <sub>⭐ 134 · Swift</sub>
-- [sa4hnd/vibra-code](https://github.com/sa4hnd/vibra-code) - Open-Source AI App Builder for Mobile — Build apps with AI like vibecodeapp, rork, lovable & bolt.new but fully open source. Describe what you want → AI builds it → Preview on your phone. Built with… <sub>⭐ 133 · TypeScript</sub>
-- [AhmadHassan-BTed/Jantt](https://github.com/AhmadHassan-BTed/Jantt) - The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema. <sub>⭐ 132 · TypeScript</sub>
-- [GuqierMcl/NexusPilot](https://github.com/GuqierMcl/NexusPilot) - AI-native cross-platform database workbench for developers and data teams. <sub>⭐ 132 · TypeScript</sub>
-- [nandakishormpai/Plant_Disease_Detector](https://github.com/nandakishormpai/Plant_Disease_Detector) - AI powered plant disease detection and assistance platform currently available as an App and API. <sub>⭐ 131 · Dart</sub>
-- [SparkyWen/qcue](https://github.com/SparkyWen/qcue) - Your second brain - capture your mind <sub>⭐ 130 · Rust</sub>
-- [EvanBacon/app-that-builds-apps](https://github.com/EvanBacon/app-that-builds-apps) - An app and website that can build truly native apps and websites. Built with Expo Router and AI SDK <sub>⭐ 129 · TypeScript</sub>
-- [pdliuw/ai_barcode](https://github.com/pdliuw/ai_barcode) - Barcode generation,Barcode scanning,qrcode,qrcode generation,qrcode creator,flutter barcode,flutter qrcode,support android iOS web platform <sub>⭐ 129 · JavaScript</sub>
-- [Shashank02051997/AnywhereGPT-Android](https://github.com/Shashank02051997/AnywhereGPT-Android) - Anywhere GPT, the ultimate mobile app with seamless AI assistance at your fingertips! Say goodbye to screen-switching! <sub>⭐ 129 · Kotlin</sub>
-- [Onion99/KMP-MineStableDiffusion](https://github.com/Onion99/KMP-MineStableDiffusion) - Multiplatform AI image generation app powered by Stable Diffusion • Built with Kotlin Multiplatform & Compose • Supports SDXL, FLUX, SD3 & more • Native performance via C++/JNI • Android/iOS &… <sub>⭐ 127 · Kotlin</sub>
-- [senaiverse/reactnative-expo-ai-agent-system-workflow](https://github.com/senaiverse/reactnative-expo-ai-agent-system-workflow) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+ <sub>⭐ 127 · HTML</sub>
-- [SoFluffyOS/lumide](https://github.com/SoFluffyOS/lumide) - Desktop-first code editor built with Flutter, providing GPU-accelerated rendering and a smooth editing experience. <sub>⭐ 127</sub>
-- [kamranbekirovyz/skills](https://github.com/kamranbekirovyz/skills) - Agentic skills for building beautiful Flutter apps <sub>⭐ 126</sub>
-- [socketteer/Claude-Conversation-Exporter](https://github.com/socketteer/Claude-Conversation-Exporter) - A Chrome extension that allows you to export your Claude.ai conversations in various formats (JSON, Markdown, Plain Text) with support for bulk exports and conversation browsing. <sub>⭐ 126 · JavaScript</sub>
-- [Shahfarzane/opencode-mobile](https://github.com/Shahfarzane/opencode-mobile) - Native iOS app for OpenCode AI coding agent — built with Expo & React Native. Real-time streaming, QR pairing, Face ID, terminal access, and git ops from your phone. <sub>⭐ 125 · TypeScript</sub>
-- [pdparchitect/noodle](https://github.com/pdparchitect/noodle) - A workspace for your AI agents. <sub>⭐ 124 · Swift</sub>
-- [filimo/ReaderTranslator](https://github.com/filimo/ReaderTranslator) - PDF/WebPages Reader with embedded Google Translate and voice engine on SwiftUI, Combine, Catalyst, AppKit <sub>⭐ 123 · Swift</sub>
-- [imclab/Apple-Vision-PRO-AR-VR-XR-AI](https://github.com/imclab/Apple-Vision-PRO-AR-VR-XR-AI) - Apple Vision Pro - AR VR XR AI code & research - VisionOS, Unity, Unreal, SwiftUI, Reality Composer, iOS, ARkit, ChatGPT, OpenCV, ML <sub>⭐ 123 · Swift</sub>
-- [HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) - AI Chatbot, Image Generator & Language Translator App / OpenAI ChatGPT / AI Assistant / Dart 3 & Flutter 3.13 with Free OpenAI Trial <sub>⭐ 122 · Dart</sub>
-- [n0an/VivaDicta](https://github.com/n0an/VivaDicta) - iOS & watchOS speech-to-text app with AI voice keyboard, on-device RAG, and chat with your notes - powered by Apple Foundation Models, WhisperKit, NVIDIA Parakeet, and 20+ AI providers <sub>⭐ 122 · Swift</sub>
-- [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools <sub>⭐ 121 · Swift</sub>
-- [Brenonunesx/agent-pilot](https://github.com/Brenonunesx/agent-pilot) - AI Agent Toolkit 2026: Smart Device Control for iOS & Android <sub>⭐ 120 · HTML</sub>
-- [MeXenon/codex-session-export](https://github.com/MeXenon/codex-session-export) - Codex session conversation chat export markdown interactive terminal tool. <sub>⭐ 119 · Python</sub>
-- [tiwe0/GeoChat](https://github.com/tiwe0/GeoChat) - Local-first AI math visualization desktop app: draw, analyze, and explain geometry with GeoGebra, Tauri, React, Bun, and native tool calling. <sub>⭐ 117 · TypeScript</sub>
-- [bladeofgod/flutter-ai-harness](https://github.com/bladeofgod/flutter-ai-harness) - An AI-native engineering harness for production Flutter and hybrid mobile app repositories. <sub>⭐ 116 · Dart</sub>
-- [ahacker-1/cre-acquisition-orchestrator](https://github.com/ahacker-1/cre-acquisition-orchestrator) - The first comprehensive open-source AI-native framework for CRE acquisitions, turning diligence, underwriting, financing, legal, and closing into executable agent workflows. <sub>⭐ 115 · TypeScript</sub>
-- [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App) - Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms. <sub>⭐ 114 · Kotlin</sub>
-- [growerp/growerp](https://github.com/growerp/growerp) - GrowERP AI Flutter ERP for Web, Linux, MacOS, Windows, Android, IOS using Moqui.org in English, French, German, Spanish, Thai and Dutch <sub>⭐ 112 · Dart</sub>
-- [mhss1/AIStudyAssistant](https://github.com/mhss1/AIStudyAssistant) - AI chatbot, Lecture Summarizer, Essay Writer and Questions Generator. <sub>⭐ 112 · Kotlin</sub>
-- [Aryan-0001/Jarvis-AI](https://github.com/Aryan-0001/Jarvis-AI) - JARVIS AI APP FOR ANDROID AND WINDOWS (2K+ Downloads!) <sub>⭐ 110 · Dart</sub>
-- [callstackincubator/evals](https://github.com/callstackincubator/evals) - A benchmark suite for evaluating how coding models solve real React Native tasks. <sub>⭐ 110 · TypeScript</sub>
-- [Chamidilshan/ChatGPT-App](https://github.com/Chamidilshan/ChatGPT-App) - ChatGPT App is a conversational AI app built with flutter that you can use in mobile devices. You can type your questions or statements and get responses in real time using this app. <sub>⭐ 110 · Dart</sub>
-- [MADTeacher/mad-agents-skills](https://github.com/MADTeacher/mad-agents-skills) - Collection of agent skills for AI assistants working with Dart and Flutter projects <sub>⭐ 109 · Dart</sub>
-- [MeIotCOM/CodingPlanQuota](https://github.com/MeIotCOM/CodingPlanQuota) - Check AI coding-plan quotas (5h / weekly / monthly) on the go — Zhipu GLM, Kimi, MiniMax, ZenMux, OpenCode Go, Volcengine Ark, DeepSeek & custom relays. No backend; keys never leave your device.… <sub>⭐ 108 · TypeScript</sub>
-- [VeryGoodOpenSource/vgv-wingspan](https://github.com/VeryGoodOpenSource/vgv-wingspan) - AI-assisted workflows that follow Very Good Ventures best practices. It pairs perfectly with our Very Good AI Flutter Plugin. <sub>⭐ 107 · Shell</sub>
-- [livekit-examples/agent-starter-android](https://github.com/livekit-examples/agent-starter-android) - AI voice assistant starter app for iOS, macOS, and visionOS built with LiveKit <sub>⭐ 103 · Kotlin</sub>
-- [sourcelocation/ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar <sub>⭐ 99 · Swift</sub>
-- [conorluddy/xc-mcp](https://github.com/conorluddy/xc-mcp) - XCode CLI & Simulator MCP. Progressive disclosure of tool responses reduces context and token waste. Lets AI agents build, run and drive iOS apps — without drowning in Xcode's output. <sub>⭐ 97 · TypeScript</sub>
-- [Ucekay/react-native-image-playground](https://github.com/Ucekay/react-native-image-playground) - A React Native package to integrate Apple's Image Playground API, enabling AI-powered image generation for iOS 18.2+. <sub>⭐ 97 · Swift</sub>
-- [cometchat/docs-mcp](https://github.com/cometchat/docs-mcp) - CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent. <sub>⭐ 96 · TypeScript</sub>
-- [deskbtm/nitmgpt](https://github.com/deskbtm/nitmgpt) - nitmgpt (Notification-in-the-middle GPT). Filter ads or spam notifications via ChatGPT. <sub>⭐ 96 · Dart</sub>
-- [isaiahbjork/expo-kokoro-onnx](https://github.com/isaiahbjork/expo-kokoro-onnx) - Run Kokoro TTS locally on device using Expo & ONNX Runtime <sub>⭐ 96 · TypeScript</sub>
-- [livekit-examples/agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) - AI voice assistant starter app for iOS, macOS, and visionOS built with LiveKit <sub>⭐ 96 · Swift</sub>
-- [cawfree/react-native-openai-jsx](https://github.com/cawfree/react-native-openai-jsx) - Use OpenAI to generate functioning React Native components! <sub>⭐ 95 · TypeScript</sub>
-- [winter-bit-cry/YSClaude](https://github.com/winter-bit-cry/YSClaude) - YSClaude Expo/React Native Android AI assistant client <sub>⭐ 94 · TypeScript</sub>
-- [livekit-examples/agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) - AI voice assistant starter app for Flutter built with LiveKit <sub>⭐ 92 · Dart</sub>
-- [onlyGuo/chatgpt_desktop](https://github.com/onlyGuo/chatgpt_desktop) - ChatGPT desktop by flutter <sub>⭐ 92 · Dart</sub>
-- [samhjn/Palvia](https://github.com/samhjn/Palvia) - A native iOS AI Agent app — multiple customizable AI assistants, right on your phone <sub>⭐ 91 · Swift</sub>
-- [Shivam1337/MindCrafter](https://github.com/Shivam1337/MindCrafter) - AI & ML Based Mental Health Diagnosis & Consulting App. <sub>⭐ 91 · Dart</sub>
-- [F0x1d/Sense](https://github.com/F0x1d/Sense) - OpenAI client for Android with ChatGPT support <sub>⭐ 90 · Kotlin</sub>
-- [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - A unified, self-hosted platform for testing and debugging regular expressions. OpenRegex uses isolated polyglot micro-workers to guarantee 100% native engine consistency, featuring ReDoS protection… <sub>⭐ 90 · Python</sub>
-- [nohjunh/ChatGPTAndroid](https://github.com/nohjunh/ChatGPTAndroid) - OpenAI ChatGPT for Android <sub>⭐ 89 · Kotlin</sub>
-- [dcaayushd/AI-Chat-Bot-Flutter](https://github.com/dcaayushd/AI-Chat-Bot-Flutter) - This Flutter application provides a conversational interface with Gemini <sub>⭐ 87 · Dart</sub>
-- [hooshyar/flutter_gen_ai_chat_ui](https://github.com/hooshyar/flutter_gen_ai_chat_ui) - A modern, customizable chat UI package for Flutter applications, optimized for AI interactions. <sub>⭐ 87 · Dart</sub>
-- [Avadhkumar-geek/StudentAI](https://github.com/Avadhkumar-geek/StudentAI) - StudentAI is an prompt-less AI chatbot app that uses OpenAI's large language model to help students learn more effectively. StudentAI can answer questions, provide explanations, and even generate… <sub>⭐ 85 · Dart</sub>
-- [Cheiineeey/ios-app-where-it-breaks](https://github.com/Cheiineeey/ios-app-where-it-breaks) - Where iOS development actually breaks: Dynamic Island, CallKit, HealthKit, APNs, ReplayKit. Every wall hit on a real device — and most of them fail silently. Docs in Chinese, written to be handed to… <sub>⭐ 84 · Swift</sub>
-- [FirebaseExtended/compass-ai-travel-planning-sample-flutter](https://github.com/FirebaseExtended/compass-ai-travel-planning-sample-flutter) - This is a travel demo built in Flutter using Firebase Data Connect and Firebase Genkit to find ideal itineraries from a database of travel plans. <sub>⭐ 84 · Dart</sub>
-- [kirill-markin/flashcards-open-source-app](https://github.com/kirill-markin/flashcards-open-source-app) - AI-powered flashcards app built for serious daily study on iOS, Android, and the web. Use it to prepare for exams, learn vocabulary, memorize technical terms and facts, improve your material with AI… <sub>⭐ 83 · TypeScript</sub>
-- [zetagao/LimitHUD](https://github.com/zetagao/LimitHUD) - Floating macOS HUD for live Claude & Codex usage quotas — menu-bar toggle, threshold/recovery reminders, custom hotkey, dark/light. Reads Chrome cookies locally. <sub>⭐ 82 · Swift</sub>
-- [deveminsahin/starter_app](https://github.com/deveminsahin/starter_app) - AI-Ready Enterprise Flutter Starter with Clean Architecture, DDD, and 100% Test Coverage. <sub>⭐ 81 · Dart</sub>
-- [adifyr/shadow-code](https://github.com/adifyr/shadow-code) - A novel approach to coding with AI <sub>⭐ 80 · TypeScript</sub>
-- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - What is C#? C# is pronounced "C-Sharp". It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the language is close… <sub>⭐ 80</sub>
-- [ShunL12324/comfy-portal](https://github.com/ShunL12324/comfy-portal) - A native iOS & Android client for ComfyUI — run AI image generation workflows from your phone <sub>⭐ 80 · TypeScript</sub>
-- [conghaonet/hao_chatgpt](https://github.com/conghaonet/hao_chatgpt) - An unofficial ChatGPT application developed with Flutter. <sub>⭐ 79 · Dart</sub>
-- [hans00/react-native-transformers-example](https://github.com/hans00/react-native-transformers-example) - Example of transformers.js on React Native <sub>⭐ 77 · TypeScript</sub>
-- [eleev/tic-tac-toe](https://github.com/eleev/tic-tac-toe) - iOS game - classic Tic Tac Toe with AI and state machines (Swift + SpriteKit + GameplayKit). <sub>⭐ 76 · Swift</sub>
-- [AbdulAlim-01/Crazzy](https://github.com/AbdulAlim-01/Crazzy) - The free, open-source, offline desktop version of Crazzy. An AI tool that generates boilerplate Flutter code from simple text prompts. <sub>⭐ 75 · Dart</sub>
-- [air-controller/air-controller-mobile](https://github.com/air-controller/air-controller-mobile) - A new handy and powerful Android phone assistant， powered by Flutter. <sub>⭐ 75 · Kotlin</sub>
-- [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading… <sub>⭐ 75 · Dart</sub>
-- [DjordjePetrovic/react-native-camera-translator](https://github.com/DjordjePetrovic/react-native-camera-translator) - A Small weekend idea inspired by Google's "Giorgio Cam" AI Experiment, Using Google's Vision and Translate APIs <sub>⭐ 74 · JavaScript</sub>
-- [linux4life1/front-porch-AI](https://github.com/linux4life1/front-porch-AI) - Local-first AI character chat & roleplay for Windows/macOS/Linux — a living Realism Engine, built-in TTS & image generation, and The Stoop community character hub. Fully offline by default… <sub>⭐ 73 · Dart</sub>
-- [amirk3321/flutter_chatgpt](https://github.com/amirk3321/flutter_chatgpt) - Flutter ChatGpt Complete Functional App with Clean Architecture <sub>⭐ 72 · Dart</sub>
-- [xihadulislam/chat_gpt_flutter](https://github.com/xihadulislam/chat_gpt_flutter) - Chat GPT Flutter <sub>⭐ 72 · Dart</sub>
-- [ondrsh/mcp4k](https://github.com/ondrsh/mcp4k) - Compiler-driven MCP framework for Kotlin Multiplatform <sub>⭐ 70 · Kotlin</sub>
-- [pug-sh/pug](https://github.com/pug-sh/pug) - Open-source product analytics <sub>⭐ 70 · Go</sub>
-- [okwasniewski/react-native-logs-cli](https://github.com/okwasniewski/react-native-logs-cli) - Allow your AI Agent to access React Native Metro Logs with a CLI <sub>⭐ 69 · TypeScript</sub>
-- [PocketLLM/PocketLLM](https://github.com/PocketLLM/PocketLLM) - A powerful Flutter-based AI chat application that lets you run LLMs directly on your mobile device or connect to local model servers. Features offline model execution, Ollama/LLMStudio integration… <sub>⭐ 68 · Dart</sub>
-- [yyy-OPS/Universal-AI-Chat-Exporter-ChatGPT-Gemini-Grok-](https://github.com/yyy-OPS/Universal-AI-Chat-Exporter-ChatGPT-Gemini-Grok-) - Export ChatGPT / Gemini / Grok conversations to Markdown/JSON. Better TeX extraction, multiline math normalization, unified attachment/image fallback scan (all platforms), optional embedded images… <sub>⭐ 68 · JavaScript</sub>
+- [239573049/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop) - ChatGpt Dekstopは、Android、IOS、Mac、Linux、Win、Webをサポート <sub>⭐ 278 · C#</sub>
+- [openperf/openclaw-cloud](https://github.com/openperf/openclaw-cloud) - AIエージェントにクラウドネイティブな生活を送る。一度デプロイすると、どこにでも逆転します。 <sub>⭐ 272 · TypeScript</sub>
+- [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - FlutterフレームワークとOpenAIのGPT-3言語モデルを使用したチャットボットチャットアプリです。 <sub>⭐ 270 · C++</sub>
+- [hasaneyldrm/logpress-public](https://github.com/hasaneyldrm/logpress-public) - iOSとAndroid用のAI搭載ワークアウトトラッカー — AIフィットネススコアリング、ワークアウトロギング、ゲーム化、オフラインのデモモードを備えたReact Nativeアプリ。 パブリックでサニタイズされたフォーク(埋め込まれた秘密なし)。 <sub>⭐ 268 · TypeScript</sub>
+- [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - レンダリングの前にReactネイティブテキストの高さを予測します。 ネイティブTextKit / TextPaint測定+〜0.0002ms JSレイアウト。 FlashList、ストリーミングAIチャット、タイプライター、ピンチツーズーム、障害リフロー、ダイナミックタイプ... <sub>⭐ 258 · TypeScript</sub>
+- [sayampy/deepdenoiser](https://github.com/sayampy/deepdenoiser) - DeepFilternet3を使用したオフラインAIオーディオデノイザーアプリ <sub>⭐ 258 · TypeScript</sub>
+- [farmassistX/farmassist](https://github.com/farmassistX/farmassist) - ファーマシストは、IoTやAIを活用した植物病検出のためのスマート農業アプリです。Flutterで構築され、Firebaseをバックエンドとして使用しています。 <sub>⭐ 250 · Dart</sub>
+- [fkiene/llmtrim](https://github.com/fkiene/llmtrim) - LLM API リクエストを圧縮するローカルプロキシで、回答への変更はありません。 送信される前にトークンが発生したトリム:-31% 入力/... <sub>⭐ 240 · Rust</sub>
+- [yatendra2001/AI_Buddy](https://github.com/yatendra2001/AI_Buddy) - ジェムニーとフラッタで構築された、個人フリーツーユースのAIアシスタント。 <sub>⭐ 232 · Dart</sub>
+- [PreternaturalAI/AI](https://github.com/PreternaturalAI/AI) - ジェネレーションAIとの対面のための決定的、オープンソースのSwiftフレームワーク。 <sub>⭐ 230 · Swift</sub>
+- [theBGuy/GitDesktop](https://github.com/theBGuy/GitDesktop) - GitHub Desktopのイージーと高度なGit、PR、問題、ディスカッション、アクション、通知管理を組み合わせたキーボード・ファースト・ギットデスクトップクライアント。 GitLab、Bitbucket、Jiraを統合... <sub>⭐ 229 · TypeScript</sub>
+- [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - ChatGPT、Claude、Copilot、Gemini、Grokチャットをエクスポートし、Chrome、FirefoxなどのサポートされているブラウザでTampermonkeyを使用して、豊富なMarkdownフォーマット、コンテンツのテーブル(TOC)、YAML ... <sub>⭐ 224 · HTML</sub>
+- [Sunhaiy/Reflex](https://github.com/Sunhaiy/Reflex) - 絶対的な効率のために設計された次世代、近代的および軽量のSSHクライアントです。 標準ターミナルエミュレーションを超えて、それはあなたの究極の開発者の仕事台として機能します... <sub>⭐ 213 · TypeScript</sub>
+- [babakcode/flutter_gemini](https://github.com/babakcode/flutter_gemini) - フラッタGoogle Gemini SDK <sub>⭐ 210 · Dart</sub>
+- [JayCRL/MobileVC](https://github.com/JayCRL/MobileVC) - お使いの携帯電話をコントロールセンターに変えて、AIコーディングアシスタントCLIセッション(クロードまたはコーデックス)がコンピュータ上で実行されます。 <sub>⭐ 209 · Go</sub>
+- [hyscaler/HyCanvas](https://github.com/hyscaler/HyCanvas) - 無料で、自発的に、グラフィックスやソーシャル投稿を作成するためのAIネイティブ設計ソフトウェア、ペイウォールや透かしはありません。 <sub>⭐ 206 · TypeScript</sub>
+- [innFactory/react-native-dialogflow](https://github.com/innFactory/react-native-dialogflow) - Google Dialogflow(API.AI) SDKのReact-Native Bridge <sub>⭐ 205 · JavaScript</sub>
+- [Decron/Whitebox-Code-GPT](https://github.com/Decron/Whitebox-Code-GPT) - プログラミング固有のGPTモデルの指示のリポジトリ <sub>⭐ 204 · Dart</sub>
+- [calcitem/Sanmill](https://github.com/calcitem/Sanmill) - サンミルは、CUIとFlutter GUIでオープンソースのUCI-like Mill/Morris/Merrills/Mühle/Malom(およびその変種)プログラムであり、コード、ツール、データを自由に配信する必要があり... <sub>⭐ 202 · Dart</sub>
+- [31d4r/Raven](https://github.com/31d4r/Raven) - macOS / iOS用のドキュメントチャットアプリ。ファイルをアップロードし、質問をしてください。Mac / iPhoneですべてがローカルに実行されます。 <sub>⭐ 197 · Swift</sub>
+- [AhmadHassan-BTed/GardenPulse](https://github.com/AhmadHassan-BTed/GardenPulse) - React Native、Expo、TypeScriptで構築されたメソッドアグノスティックなスマートガーデンコンパニオン。 土壌、水溶性、コンテナ、または屋内でのセットアップに適応する位置情報認識インテリジェンス、OpenWeatherの統合と... <sub>⭐ 195 · TypeScript</sub>
+- [margelo/ai-chat-demo](https://github.com/margelo/ai-chat-demo) - Margeloに関するコンテキストでReact NativeのChatGPTスタイルのモバイルチャットアプリ <sub>⭐ 192 · TypeScript</sub>
+- [xebia-functional/xef](https://github.com/xebia-functional/xef) - コトリンの共生性を通じたLMSを用いたアプリケーションの構築 <sub>⭐ 192 · Kotlin</sub>
+- [microblink/blinkid-react-native](https://github.com/microblink/blinkid-react-native) - ReactNativeで構築されたクロスプラットフォームアプリ用のIDスキャン。 <sub>⭐ 188 · TypeScript</sub>
+- [verseles/codewalk](https://github.com/verseles/codewalk) - OpenCode のネイティブ(リアルタイムで高速!!)クロスプラットフォームクライアント <sub>⭐ 188 · Dart</sub>
+- [PatilShreyas/ChaKt-KMP](https://github.com/PatilShreyas/ChaKt-KMP) - ChaKt - アンドロイド、iOS、デスクトップ、Web用のマルチプラットフォームチャット・プロンプトベースのアプリ。 GoogleのGemini API(Generative AI Multiplatform SDK付き) <sub>⭐ 185 · Kotlin</sub>
+- [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) - 講義スライドをフラッシュカードにし、Ankiにエクスポートします。 OpenAIでGPT-5を使用します。 AnkiGPTは既に3,430,876のフラッシュカードを生成しました。 <sub>⭐ 184 · Dart</sub>
+- [f3rb123/beetle](https://github.com/f3rb123/beetle) - Android、iOS、Flutter、React Native 用のモダンオフライン優先アプリケーションセキュリティインテリジェンスプラットフォームで攻撃チェーン分析、説明可能な検索、ソース探査、AI-assisted... <sub>⭐ 180 · Python</sub>
+- [Ge-limin/shad-expo-studio](https://github.com/Ge-limin/shad-expo-studio) - Expo/React Native UI コンポーネントのビジュアルレグレッションスタジオ: 決定的な例は、ストーリーブックの物語とクロマティックベースラインを生成し、1つのコンポーネントツリーがiOS、Android、Web上でレンダリングされます。... <sub>⭐ 177 · TypeScript</sub>
+- [Nabinji/Flutter-App-Design](https://github.com/Nabinji/Flutter-App-Design) - Flutter ui デザインチュートリアルソースコード。 <sub>⭐ 176 · Dart</sub>
+- [JetBrains-Research/kotlinllm-plugin](https://github.com/JetBrains-Research/kotlinllm-plugin) - KotlinLLM は、Kotlin の LLM 駆動型スマートマクロで実験するための IntelliJ IDEA プラグインプロトタイプです。コード生成やランタイムの更新、ホットリロードを可能にします。 <sub>⭐ 175 · Kotlin</sub>
+- [margelo/react-native-skills](https://github.com/margelo/react-native-skills) - 最良の反応ネイティブエージェントのスキル。 10x を Forget、これは 100x です。 <sub>⭐ 173</sub>
+- [CedarCopilot/cedar-OS](https://github.com/CedarCopilot/cedar-OS) - AIネイティブフロントエンドの構築のためのオープンソースフレームワーク <sub>⭐ 172 · TypeScript</sub>
+- [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - ツールとテンプレートは、ジェネレーションUIアプリケーションを構築します。モバイルファースト、Expo用に最適化されています。 <sub>⭐ 171 · TypeScript</sub>
+- [coskuncay/flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Flutter/Dart から ChatGPT を使う <sub>⭐ 169 · Dart</sub>
+- [VeryGoodOpenSource/vgv-ai-flutter-plugin](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) - 非常によいベンチャーズによって造られるFlutter & Dartの開発を、高め、加速するAIのプラグイン <sub>⭐ 166 · Shell</sub>
+- [bhoominn/nb_utils](https://github.com/bhoominn/nb_utils) - すべての開発者が必要とするウィジェットと有用なメソッドのコレクション。 <sub>⭐ 159 · Dart</sub>
+- [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Android Phoneで無料のGPT3.5ノードとGoogle Geminiとの同時チャット <sub>⭐ 159 · HTML</sub>
+- [FlutterFlareLine/FlareLine](https://github.com/FlutterFlareLine/FlareLine) - ウェブ用のフラッタ管理ダッシュボード <sub>⭐ 157 · Dart</sub>
+- [worktool/chatgpt-android](https://github.com/worktool/chatgpt-android) - OpenAIチャットAndroid用GPT <sub>⭐ 154 · Java</sub>
+- [askie/grix](https://github.com/askie/grix) - Grix : 人と話すようなエージェントと連携 <sub>⭐ 153 · Go</sub>
+- [abdullahtarek/coffee_shop_customer_service_chatbot](https://github.com/abdullahtarek/coffee_shop_customer_service_chatbot) - コーヒーショップ向けAIを搭載したチャットボット、LMやNLPの統合、顧客サービス強化のためのReact Nativeアプリ <sub>⭐ 152 · Jupyter Notebook</sub>
+- [adrianhajdin/react-native-lingua](https://github.com/adrianhajdin/react-native-lingua) - リアルタイムのAIボイス教師とReact Native Duolingoクローン。Expo、Stream Voice Agents、Clark auth、NativeWindで構築されたインタラクティブなモバイル学習体験です。 <sub>⭐ 150 · TypeScript</sub>
+- [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - オフラインのAIモデルをすべてのタイプのエッジデバイスに簡単に作成できます。 <sub>⭐ 146 · Dart</sub>
+- [eclipse-lmos/arc](https://github.com/eclipse-lmos/arc) - Arc プロジェクトは、Kotlin DSL と Kotlin Scripting の力を利用して、LLM 搭載ソリューションの構築に最適化された言語を定義します。 <sub>⭐ 145 · JavaScript</sub>
+- [dsm5e/aso-tracker](https://github.com/dsm5e/aso-tracker) - インディーiOSの開発者のためのセルフホストオープンソースアプリストアツールキット — キーワードトラッキング、AIスクリーンショット生成、PPO実験、およびUCGビデオパイプライン。 <sub>⭐ 144 · TypeScript</sub>
+- [touwaeriol/claude-code-plus](https://github.com/touwaeriol/claude-code-plus) - Claudeコード/Codex CLI / Gemini CLI 用のGUIプラグイン JetBrains IDE - AI コーディングアシスタントを美しいビジュアルインターフェイスで実行する <sub>⭐ 143 · JavaScript</sub>
+- [Code-with-Beto/skills](https://github.com/Code-with-Beto/skills) - エージェントのスキルとプラグインは、モバイル開発者がAI支援でより迅速により良いアプリを出荷するのに役立ちます <sub>⭐ 140 · TypeScript</sub>
+- [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - SwiftUIで書かれたシンプルなPokedexアプリは、Swift Concurrency、MVVMアーキテクチャとpaginationを使ってPokeAPIを実装しています。 <sub>⭐ 138 · Swift</sub>
+- [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - Cloudflare によってブロックされることなくチャットGPTとやり取りするためのiOSアプリケーション。 <sub>⭐ 138 · Swift</sub>
+- [realZachi/shotluma](https://github.com/realZachi/shotluma) - オープンソース、ローカルファーストAIアプリストアスクリーンショットエディタ。 <sub>⭐ 138 · TypeScript</sub>
+- [mbabicz/SwiftAI](https://github.com/mbabicz/SwiftAI) - ChatGPTとDALL・E2を搭載したチャット機能のiOSアプリ <sub>⭐ 137 · Swift</sub>
+- [MUKE-coder/grit](https://github.com/MUKE-coder/grit) - GoとReactのLaravel +フィラメント体験。1つのコマンドは、auth、2FA、Passkeys、ジョブ、メール、ストレージ、AI、および... <sub>⭐ 137 · Go</sub>
+- [nateshmbhat/card-scanner-flutter](https://github.com/nateshmbhat/card-scanner-flutter) - 高速で正確かつ安全なクレジットカードとデビットカードスキャン用のフラッタパッケージ <sub>⭐ 137 · Swift</sub>
+- [OpenAgentsInc/arcade](https://github.com/OpenAgentsInc/arcade) - Nostr&AIチャットアプリ <sub>⭐ 137 · TypeScript</sub>
+- [vinceglb/ComposeAI](https://github.com/vinceglb/ComposeAI) - Compose Multiplatform で作られた Android & iOS アプリケーション ChatGPT <sub>⭐ 137 · Kotlin</sub>
+- [davidmokos/expo-gpt-live](https://github.com/davidmokos/expo-gpt-live) - GPT-Live 1とAI Elements PersonaでSDK 57ボイスアプリを公開。 <sub>⭐ 135 · TypeScript</sub>
+- [GetStream/stream-tutorial-projects](https://github.com/GetStream/stream-tutorial-projects) - このリポジトリには、iOS、Android、およびストリーム開発者のAIチュートリアルシリーズのいくつかのためのSwiftUI、Jetpack Compose、JS&Reactネイティブプロジェクトが含まれています。 <sub>⭐ 134 · Swift</sub>
+- [sa4hnd/vibra-code](https://github.com/sa4hnd/vibra-code) - モバイル用のオープンソースAIアプリビルダー — vibecodeapp、rork、lovable&bolt.newなどのAIでアプリケーションを構築しますが、完全にオープンソース。 あなたが望むものを説明してください → AIはそれを構築 → あなたの携帯電話上でプレビュー. 内蔵... <sub>⭐ 133 · TypeScript</sub>
+- [AhmadHassan-BTed/Jantt](https://github.com/AhmadHassan-BTed/Jantt) - AI ネイティブ JSON Gantt チャートエンジン。React、script-tag、CLI、トポロジカル DAG ソルバー、および正式な JSON スキーマを備えた依存性フリーのインタラクティブタイムライン。 <sub>⭐ 132 · TypeScript</sub>
+- [GuqierMcl/NexusPilot](https://github.com/GuqierMcl/NexusPilot) - 開発者やデータチームのためのAIネイティブクロスプラットフォームのデータベースワークベンチ。 <sub>⭐ 132 · TypeScript</sub>
+- [nandakishormpai/Plant_Disease_Detector](https://github.com/nandakishormpai/Plant_Disease_Detector) - 現在、AIは植物病の検出と補助プラットフォームをAppやAPIとして利用しています。 <sub>⭐ 131 · Dart</sub>
+- [SparkyWen/qcue](https://github.com/SparkyWen/qcue) - あなたの2番目の脳 - 心を引き出す <sub>⭐ 130 · Rust</sub>
+- [EvanBacon/app-that-builds-apps](https://github.com/EvanBacon/app-that-builds-apps) - ネイティブアプリやWebサイトを真に構築できるアプリケーションとウェブサイト。Expo RouterとAI SDKで構築 <sub>⭐ 129 · TypeScript</sub>
+- [pdliuw/ai_barcode](https://github.com/pdliuw/ai_barcode) - バーコードの生成、バーコードのスキャン、qrcode、qrcodeの生成、qrcodeの作成者、flutterのバーコード、flutterのqrcode、サポート人間の特徴をもつiOSのWebプラットフォーム <sub>⭐ 129 · JavaScript</sub>
+- [Shashank02051997/AnywhereGPT-Android](https://github.com/Shashank02051997/AnywhereGPT-Android) - GPT は、フィンガーチップでシームレスな AI 支援を備えた究極のモバイル アプリです!画面スイッチングによならしましょう! <sub>⭐ 129 · Kotlin</sub>
+- [Onion99/KMP-MineStableDiffusion](https://github.com/Onion99/KMP-MineStableDiffusion) - マルチプラットフォームのAI画像生成アプリは、安定した拡散によって機能します。 • Kotlinマルチプラフォームとコンポーズで構築•SDXL、FLUX、SD3をサポート•C++ / JNIによるネイティブパフォーマンス•Android / iOS&... <sub>⭐ 127 · Kotlin</sub>
+- [senaiverse/reactnative-expo-ai-agent-system-workflow](https://github.com/senaiverse/reactnative-expo-ai-agent-system-workflow) - React Native/Expo モバイルアプリ用の7つのプロダクションエージェントを備えたAIを搭載した開発ツールキット。アクセシビリティ、設計システム、セキュリティ、パフォーマンス、テストを自動化します。 Claudeコードv2.0.5+用に構築 <sub>⭐ 127 · HTML</sub>
+- [SoFluffyOS/lumide](https://github.com/SoFluffyOS/lumide) - Flutter で構築されたデスクトップ初のコードエディター、GPU 認証のレンダリングとスムーズな編集体験を提供します。 <sub>⭐ 127</sub>
+- [kamranbekirovyz/skills](https://github.com/kamranbekirovyz/skills) - 美しいFlutterアプリをビルドするためのエージェントスキル <sub>⭐ 126</sub>
+- [socketteer/Claude-Conversation-Exporter](https://github.com/socketteer/Claude-Conversation-Exporter) - Claude.aiの会話をさまざまなフォーマット(JSON、Markdown、Pearly Text)でエクスポートできるChrome拡張機能です。 <sub>⭐ 126 · JavaScript</sub>
+- [Shahfarzane/opencode-mobile](https://github.com/Shahfarzane/opencode-mobile) - OpenCode AI コーディングエージェント用のネイティブ iOS アプリ — Expo & React Native で構築されています。リアルタイムストリーミング、QR ペアリング、Face ID、端末アクセス、および電話からの git オプス。 <sub>⭐ 125 · TypeScript</sub>
+- [pdparchitect/noodle](https://github.com/pdparchitect/noodle) - AIエージェントのワークスペース。 <sub>⭐ 124 · Swift</sub>
+- [filimo/ReaderTranslator](https://github.com/filimo/ReaderTranslator) - PDF/WebPages リーダー、埋め込まれた Google の翻訳と音声エンジンをスイフトUI、コンバイン、触媒、AppKit <sub>⭐ 123 · Swift</sub>
+- [imclab/Apple-Vision-PRO-AR-VR-XR-AI](https://github.com/imclab/Apple-Vision-PRO-AR-VR-XR-AI) - Apple Vision Pro - AR VR XR AIコードと研究 - VisionOS、Unity、Unreal、SwiftUI、Reality Composer、iOS、ARkit、ChatGPT、OpenCV、ML <sub>⭐ 123 · Swift</sub>
+- [HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) - AIチャットボット、画像ジェネレーター&言語翻訳アプリ/OpenAIチャットGPT / AIアシスタント/Dart 3 & Flutter 3.13 無料のOpenAIトライアル <sub>⭐ 122 · Dart</sub>
+- [n0an/VivaDicta](https://github.com/n0an/VivaDicta) - iOSとwatchOSの音声からテキストアプリまで、AIボイスキーボード、デバイス上のRAG、およびノートとのチャット - アップル財団モデル、ウィスパーキット、NVIDIA Parakeet、および20 + AIプロバイダによって供給 <sub>⭐ 122 · Swift</sub>
+- [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - https://retrodiffusion.ai/app/devtools 用の iOS アプリ <sub>⭐ 121 · Swift</sub>
+- [Brenonunesx/agent-pilot](https://github.com/Brenonunesx/agent-pilot) - AIエージェントツールキット2026:iOSとAndroid用のスマートデバイスコントロール <sub>⭐ 120 · HTML</sub>
+- [MeXenon/codex-session-export](https://github.com/MeXenon/codex-session-export) - Codex セッションの会話チャットエクスポートマークダウンインタラクティブ端末ツール。 <sub>⭐ 119 · Python</sub>
+- [tiwe0/GeoChat](https://github.com/tiwe0/GeoChat) - ローカルファーストAI数学の視覚化デスクトップアプリ:GeoGebra、Tauri、React、Banとジオメトリを描画、分析し、解説します。 <sub>⭐ 117 · TypeScript</sub>
+- [bladeofgod/flutter-ai-harness](https://github.com/bladeofgod/flutter-ai-harness) - 量産用FlutterとハイブリッドモバイルアプリリポジトリのAIネイティブエンジニアリングハーネスです。 <sub>⭐ 116 · Dart</sub>
+- [ahacker-1/cre-acquisition-orchestrator](https://github.com/ahacker-1/cre-acquisition-orchestrator) - CRE取得、勤勉化、下書き、資金調達、法的、および実行可能なエージェントワークフローに閉じるための初の包括的なオープンソースAIネイティブフレームワーク。 <sub>⭐ 115 · TypeScript</sub>
+- [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App) - Gemini AI Kotlin Multiplatform プロジェクトは、Android、iOS、Windows、macOS、Linux、Web プラットフォームをターゲットに設計しました。 <sub>⭐ 114 · Kotlin</sub>
+- [growerp/growerp](https://github.com/growerp/growerp) - GrowERP AI Flutter ERP for Web, Linux, MacOS, Windows, Android, IOS 使用して Moqui.org 英語、フランス語、ドイツ語、スペイン語、タイ語、オランダ語 <sub>⭐ 112 · Dart</sub>
+- [mhss1/AIStudyAssistant](https://github.com/mhss1/AIStudyAssistant) - AIチャットボット、スマライザーの講義、エッセイライターと質問ジェネレーター。 <sub>⭐ 112 · Kotlin</sub>
+- [Aryan-0001/Jarvis-AI](https://github.com/Aryan-0001/Jarvis-AI) - アンドロイドおよびWINDOWS(2K+ダウンロード!)のためのJARVIS AI APP <sub>⭐ 110 · Dart</sub>
+- [callstackincubator/evals](https://github.com/callstackincubator/evals) - コーディングモデルが実際のReact Nativeタスクを解決する方法を評価するためのベンチマークスイートです。 <sub>⭐ 110 · TypeScript</sub>
+- [Chamidilshan/ChatGPT-App](https://github.com/Chamidilshan/ChatGPT-App) - ChatGPTアプリは、モバイルデバイスで使用できるフラッタを備えた会話型のAIアプリです。このアプリを使用して、質問やステートメントを入力してリアルタイムに応答を得ることができます。 <sub>⭐ 110 · Dart</sub>
+- [MADTeacher/mad-agents-skills](https://github.com/MADTeacher/mad-agents-skills) - DartとFlutterプロジェクトで働くAIアシスタントのためのエージェントスキルの収集 <sub>⭐ 109 · Dart</sub>
+- [MeIotCOM/CodingPlanQuota](https://github.com/MeIotCOM/CodingPlanQuota) - 行く上でAIコーディング計画のクォーター(5h /週1回/月)をチェックしてください。 Zhipu GLM、Kimi、MiniMax、ZenMux、OpenCode Go、Volcengine Ark、DeepSeek&カスタムリレー。 バックエンドなし、キーはデバイスを離れません。... <sub>⭐ 108 · TypeScript</sub>
+- [VeryGoodOpenSource/vgv-wingspan](https://github.com/VeryGoodOpenSource/vgv-wingspan) - 非常に良いベンチャーのベストプラクティスに従うAI-assistedワークフロー。 これは、私たちの非常に優れたAIフルッタプラグインと完全にペアリングします。 <sub>⭐ 107 · Shell</sub>
+- [livekit-examples/agent-starter-android](https://github.com/livekit-examples/agent-starter-android) - iOS、macOS、およびLiveKitで構築されたVisionOS用のAIボイスアシスタントスターターアプリ <sub>⭐ 103 · Kotlin</sub>
+- [sourcelocation/ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - macOSメニューバーからChatGPTとのやりとり <sub>⭐ 99 · Swift</sub>
+- [conorluddy/xc-mcp](https://github.com/conorluddy/xc-mcp) - XCode CLI & Simulator MCP. ツール応答のプログレッシブな開示は、コンテキストとトークン廃棄物を削減します。 AIエージェントがiOSアプリを構築し、実行してドライブしましょう。Xcodeの出力に溺れることなく。 <sub>⭐ 97 · TypeScript</sub>
+- [Ucekay/react-native-image-playground](https://github.com/Ucekay/react-native-image-playground) - アップルのイメージプレイグラウンドAPIを統合するReact Nativeパッケージで、iOS 18.2+用のAI搭載画像生成を有効にします。 <sub>⭐ 97 · Swift</sub>
+- [cometchat/docs-mcp](https://github.com/cometchat/docs-mcp) - CometChat のドキュメント検索 + 実装バンドル: AI コーディングエージェントを介してアプリにチャット、音声、ビデオ&モデレーションを追加します。 <sub>⭐ 96 · TypeScript</sub>
+- [deskbtm/nitmgpt](https://github.com/deskbtm/nitmgpt) - nitmgpt (通知イン・ザ・ミドルGPT)。 ChatGPTによる広告やスパムの通知をフィルタリングします。 <sub>⭐ 96 · Dart</sub>
+- [isaiahbjork/expo-kokoro-onnx](https://github.com/isaiahbjork/expo-kokoro-onnx) - デバイス上でKikoro TTSをExpo & ONNX Runtimeで実行する <sub>⭐ 96 · TypeScript</sub>
+- [livekit-examples/agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) - iOS、macOS、およびLiveKitで構築されたVisionOS用のAIボイスアシスタントスターターアプリ <sub>⭐ 96 · Swift</sub>
+- [cawfree/react-native-openai-jsx](https://github.com/cawfree/react-native-openai-jsx) - OpenAI を使って React Native コンポーネントの関数を生成します。 <sub>⭐ 95 · TypeScript</sub>
+- [winter-bit-cry/YSClaude](https://github.com/winter-bit-cry/YSClaude) - YSClaude Expo/React ネイティブ Android AIアシスタントクライアント <sub>⭐ 94 · TypeScript</sub>
+- [livekit-examples/agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) - LiveKitで構築されたFlutter用のAIボイスアシスタントスターターアプリ <sub>⭐ 92 · Dart</sub>
+- [onlyGuo/chatgpt_desktop](https://github.com/onlyGuo/chatgpt_desktop) - フラッタによるChatGPTデスクトップ <sub>⭐ 92 · Dart</sub>
+- [samhjn/Palvia](https://github.com/samhjn/Palvia) - ネイティブiOS AIエージェントアプリ — 複数のカスタマイズ可能なAIアシスタントが、お使いの携帯電話で右 <sub>⭐ 91 · Swift</sub>
+- [Shivam1337/MindCrafter](https://github.com/Shivam1337/MindCrafter) - AIとMLは、メンタルヘルス診断&コンサルティングアプリをベースとしています。 <sub>⭐ 91 · Dart</sub>
+- [F0x1d/Sense](https://github.com/F0x1d/Sense) - OpenAI クライアント向け Android with ChatGPT サポート <sub>⭐ 90 · Kotlin</sub>
+- [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - テストおよびデバッグの正規表現のための統一された、自己ホスト型プラットフォーム。 OpenRegex は、ReDoS 保護機能を備えた 100% ネイティブ エンジンの一貫性を保証するために隔離された多重式マイクロワーカーを使用します。 <sub>⭐ 90 · Python</sub>
+- [nohjunh/ChatGPTAndroid](https://github.com/nohjunh/ChatGPTAndroid) - OpenAIチャットAndroid用GPT <sub>⭐ 89 · Kotlin</sub>
+- [dcaayushd/AI-Chat-Bot-Flutter](https://github.com/dcaayushd/AI-Chat-Bot-Flutter) - このFlutterアプリケーションは、Geminiと会話インターフェイスを提供します <sub>⭐ 87 · Dart</sub>
+- [hooshyar/flutter_gen_ai_chat_ui](https://github.com/hooshyar/flutter_gen_ai_chat_ui) - 現代のカスタマイズ可能なチャット UI パッケージで、Flutter アプリケーションを最適化し、AI インタラクションに最適化します。 <sub>⭐ 87 · Dart</sub>
+- [Avadhkumar-geek/StudentAI](https://github.com/Avadhkumar-geek/StudentAI) - StudentAIは、OpenAIの大きな言語モデルを使用して学生がより効果的に学習するのに役立つプロンプトレスなAIチャットボットアプリです。 学生AIは質問に答えたり、説明を提供したり、さらには生成することができます... <sub>⭐ 85 · Dart</sub>
+- [Cheiineeey/ios-app-where-it-breaks](https://github.com/Cheiineeey/ios-app-where-it-breaks) - iOS開発が実際に壊れる場所:ダイナミックアイランド、コールキット、ヘルスキット、APNs、ReplayKit。 すべての壁は実際のデバイスに当たる - そしてそれらの大部分は静かに失敗します。 中国語のドキュメントは、手渡されるように書かれています... <sub>⭐ 84 · Swift</sub>
+- [FirebaseExtended/compass-ai-travel-planning-sample-flutter](https://github.com/FirebaseExtended/compass-ai-travel-planning-sample-flutter) - これは、Firebase Data ConnectとFirebase Genkitを使用してFlutterで構築された旅行のデモです。旅行計画のデータベースから理想的な旅程を見つけます。 <sub>⭐ 84 · Dart</sub>
+- [kirill-markin/flashcards-open-source-app](https://github.com/kirill-markin/flashcards-open-source-app) - iOS、Android、およびWeb上で深刻な毎日勉強のために構築されたAIを搭載したフラッシュカードアプリ。 それをテストの準備に使用し、語彙を学び、技術的な用語や事実を記憶し、AIであなたの材料を改善します... <sub>⭐ 83 · TypeScript</sub>
+- [zetagao/LimitHUD](https://github.com/zetagao/LimitHUD) - ライブクラウド&コーデックス使用コパスのための浮動小数点のmacOS HUD - メニューバートグル、しきい値/回復リマインダー、カスタムホットキー、ダーク/ライト。 ローカルでChromeクッキーを読みます。 <sub>⭐ 82 · Swift</sub>
+- [deveminsahin/starter_app](https://github.com/deveminsahin/starter_app) - クリーンアーキテクチャ、DDD、および100%テストカバレッジを備えたAI-Readyエンタープライズフラッタスターター。 <sub>⭐ 81 · Dart</sub>
+- [adifyr/shadow-code](https://github.com/adifyr/shadow-code) - AIとコーディングする新しいアプローチ <sub>⭐ 80 · TypeScript</sub>
+- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - C#とは?C#は「C-Sharp」を発音しています。 .NET Framework上で実行するMicrosoftが作成したオブジェクト指向プログラミング言語です。 C#はC家族からルーツを持ち、言語は閉じています... <sub>⭐ 80</sub>
+- [ShunL12324/comfy-portal](https://github.com/ShunL12324/comfy-portal) - ComfyUIのネイティブiOSとAndroidクライアント — お使いの携帯電話からAIイメージ生成ワークフローを実行します <sub>⭐ 80 · TypeScript</sub>
+- [conghaonet/hao_chatgpt](https://github.com/conghaonet/hao_chatgpt) - Flutter で開発された非公式チャットGPTアプリケーションです。 <sub>⭐ 79 · Dart</sub>
+- [hans00/react-native-transformers-example](https://github.com/hans00/react-native-transformers-example) - React Native のtransformers.js の例 <sub>⭐ 77 · TypeScript</sub>
+- [eleev/tic-tac-toe](https://github.com/eleev/tic-tac-toe) - iOSのゲーム - 古典的なTic Tac ToeとAIと状態のマシン(Swift + SpriteKit + GameplayKit)。 <sub>⭐ 76 · Swift</sub>
+- [AbdulAlim-01/Crazzy](https://github.com/AbdulAlim-01/Crazzy) - 無料のオープンソース、オフラインデスクトップ版のCrazzy。シンプルなテキストプロンプトからボイラープレートFlutterコードを生成するAIツールです。 <sub>⭐ 75 · Dart</sub>
+- [air-controller/air-controller-mobile](https://github.com/air-controller/air-controller-mobile) - Flutter を搭載した新しい便利で強力な Android 電話アシスタント。 <sub>⭐ 75 · Kotlin</sub>
+- [lxpio/omnigram](https://github.com/lxpio/omnigram) - オムニグラムは、Flutterベースのファイルリーダーとオーディオブックです。EPUBやPDFに対応し、TTSモデルやその他のAIチャット技術をサポートして読書を促進します... <sub>⭐ 75 · Dart</sub>
+- [DjordjePetrovic/react-native-camera-translator](https://github.com/DjordjePetrovic/react-native-camera-translator) - Googleの「Giorgio Cam」AI実験に触発された小さな週末のアイデア、GoogleのVisionとTranslate APIの使用 <sub>⭐ 74 · JavaScript</sub>
+- [linux4life1/front-porch-AI](https://github.com/linux4life1/front-porch-AI) - ローカルファーストのAIキャラクターチャット&ロールプレイ Windows / MacOS / Linux — リビングRealism Engine、内蔵TTSと画像生成、およびStoopコミュニティキャラハブ。 デフォルトで完全にオフライン... <sub>⭐ 73 · Dart</sub>
+- [amirk3321/flutter_chatgpt](https://github.com/amirk3321/flutter_chatgpt) - フルッタチャットクリーンなアーキテクチャで機能的なアプリを完成 <sub>⭐ 72 · Dart</sub>
+- [xihadulislam/chat_gpt_flutter](https://github.com/xihadulislam/chat_gpt_flutter) - チャット GPT Flutter <sub>⭐ 72 · Dart</sub>
+- [ondrsh/mcp4k](https://github.com/ondrsh/mcp4k) - Kotlin MultiplatformのMCPフレームワークをコンパイル <sub>⭐ 70 · Kotlin</sub>
+- [pug-sh/pug](https://github.com/pug-sh/pug) - オープンソース製品分析 <sub>⭐ 70 · Go</sub>
+- [okwasniewski/react-native-logs-cli](https://github.com/okwasniewski/react-native-logs-cli) - AI エージェントが React Native Metro Logs に CLI でアクセスできるようにします。 <sub>⭐ 69 · TypeScript</sub>
+- [PocketLLM/PocketLLM](https://github.com/PocketLLM/PocketLLM) - モバイルデバイス上でLMSを直接実行したり、ローカルモデルサーバーに接続できる強力なFlutterベースのAIチャットアプリケーション。オフラインモデルの実行、Ollama/LLMStudio統合... <sub>⭐ 68 · Dart</sub>
+- [yyy-OPS/Universal-AI-Chat-Exporter-ChatGPT-Gemini-Grok-](https://github.com/yyy-OPS/Universal-AI-Chat-Exporter-ChatGPT-Gemini-Grok-) - ChatGPT / Gemini / Grokの会話をMarkdown / JSONにエクスポートします。 より良いTeX抽出、マルチライン数学正規化、統一された添付ファイル/画像フォールバックスキャン(すべてのプラットフォーム)、オプション埋め込まれたイメージ... <sub>⭐ 68 · JavaScript</sub>
 
 ## 🤖 スマートフォンを操作するエージェント
 
 > テストやタスクのための、モデルが導くモバイルUIの自動化。
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. <sub>⭐ 83.8k · TypeScript</sub>
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol <sub>⭐ 37.7k · TypeScript</sub>
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone <sub>⭐ 26.3k · Python</sub>
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile <sub>⭐ 19.3k · TypeScript</sub>
-- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. <sub>⭐ 12.6k · Go</sub>
-- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment. <sub>⭐ 10.7k · PHP</sub>
-- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family <sub>⭐ 9.3k · Python</sub>
-- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) <sub>⭐ 8.6k · TypeScript</sub>
-- [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed… <sub>⭐ 8.5k · Python</sub>
-- [YaoApp/yao](https://github.com/YaoApp/yao) - All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted. <sub>⭐ 8.1k · Go</sub>
-- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number! <sub>⭐ 6.6k · Python</sub>
-- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js. <sub>⭐ 6.5k · TypeScript</sub>
-- [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. <sub>⭐ 6.5k · TypeScript</sub>
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone… <sub>⭐ 6.1k · TypeScript</sub>
-- [jenssegers/agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect <sub>⭐ 4.9k · PHP</sub>
-- [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - This is the mobile version of Cherry Studio. <sub>⭐ 4.0k · TypeScript</sub>
-- [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. <sub>⭐ 3.5k · PHP</sub>
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. <sub>⭐ 3.3k · Rust</sub>
-- [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone <sub>⭐ 3.1k · Python</sub>
-- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens. <sub>⭐ 2.3k</sub>
-- [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. <sub>⭐ 2.1k · Python</sub>
-- [IPADS-SAI/MobiAgent](https://github.com/IPADS-SAI/MobiAgent) - The Intelligent GUI Agent for Mobile Phones <sub>⭐ 1.9k · Python</sub>
-- [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst) - Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track… <sub>⭐ 1.8k · TypeScript</sub>
-- [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI) - OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI. <sub>⭐ 1.8k · TypeScript</sub>
-- [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done. <sub>⭐ 1.6k · TypeScript</sub>
-- [selwin/python-user-agents](https://github.com/selwin/python-user-agents) - A Python library that provides an easy way to identify devices like mobile phones, tablets and their capabilities by parsing (browser) user agent strings. <sub>⭐ 1.5k · Python</sub>
-- [utkusen/sast-skills](https://github.com/utkusen/sast-skills) - Collection of agent skills to find vulnerabilities inside your web/mobile apps. <sub>⭐ 1.3k</sub>
-- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional Mac Gateway inference. <sub>⭐ 1.3k · Swift</sub>
-- [ModalityDance/PalmClaw](https://github.com/ModalityDance/PalmClaw) - (EMNLP 2026 Demo) "PalmClaw: A Native On-Device Agent Framework for Mobile Phones" <sub>⭐ 1.2k · Kotlin</sub>
-- [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude… <sub>⭐ 1.1k · Go</sub>
-- [neural-maze/realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course) - Build realtime AI voice agents using FastRTC for low-latency streaming, Superlinked for vector search, Twilio for live phone calls, and Runpod for scalable GPU deployment. <sub>⭐ 1.1k · Python</sub>
-- [K9i-0/ccpocket](https://github.com/K9i-0/ccpocket) - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge <sub>⭐ 1.1k · Dart</sub>
-- [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent) - AI phone assistant / open-source <sub>⭐ 1.1k · Python</sub>
-- [PatterAI/Patter](https://github.com/PatterAI/Patter) - Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio, Telnyx, and… <sub>⭐ 1.1k · Python</sub>
-- [inclusionAI/UI-Venus](https://github.com/inclusionAI/UI-Venus) - UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input. <sub>⭐ 1.0k · HTML</sub>
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca は、並列エージェントのフリートと連携するためのADEです。独自のサブスクリプションで任意のコーディングエージェントを実行します。デスクトップ、モバイル、リモートランタイムで利用できます。 <sub>⭐ 83.8k · TypeScript</sub>
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - エージェントとジェネレーションUIのフロントエンドスタック。 React、Angular、Mobile、Slackなど。 AG-UIプロトコルメーカー <sub>⭐ 37.7k · TypeScript</sub>
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - オープンソースモデルとフレームワーク。AIの電話を誰もがロック解除 <sub>⭐ 26.3k · Python</sub>
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - デスクトップとモバイルから複数のコーディングエージェントを編成 <sub>⭐ 19.3k · TypeScript</sub>
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - 計画からマージまでのコーディングエージェントの実行と監督チーム。任意のハーネス(コード、コーデックス、+25など)。デスクトップ、Web、モバイル、およびクラウドエージェント。 <sub>⭐ 12.6k · Go</sub>
+- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detectは、モバイルデバイス(タブレットを含む)を検出するための軽量なPHPクラスです。 特定のHTTPヘッダと組み合わせたUser-Agent文字列を使用して、モバイル環境を検知します。 <sub>⭐ 10.7k · PHP</sub>
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - モバイルエージェント:強力なGUIエージェントファミリー <sub>⭐ 9.3k · Python</sub>
+- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - モバイルオートメーションとスクレイピングのためのモデルコンテキストプロトコルサーバー(iOS、Android、エミュレータ、シミュレータおよび実際のデバイス) <sub>⭐ 8.6k · TypeScript</sub>
+- [firerpa/lamda](https://github.com/firerpa/lamda) - アンドロイドフルスタックデバイスコントロールプラットフォーム:WebRTC / H.264リモートデスクトップ、UI / OCR /画像マッチング自動化、1クリックMITM、内蔵フリダ、プロキシ/ VPN / frp / P2Pネットワーク、MCP /エージェント、160 + API、設計... <sub>⭐ 8.5k · Python</sub>
+- [YaoApp/yao](https://github.com/YaoApp/yao) - すべてのエージェントとワークスペースを1か所に、所有するすべてのデバイスで。デスクトップ、モバイル、ブラウザ、またはAPIからアクセス可能なボード上のタスクを追跡します。 セルフホスト。 <sub>⭐ 8.1k · Go</sub>
+- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) - AIエージェントから電話を送る、API 呼び出しで。または、設定された電話番号からボットに直接電話をかけます! <sub>⭐ 6.6k · Python</sub>
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - 複数のモデルのAIエージェントデスクトップクライアント — AIプロバイダーを接続し、MCP&スキルを拡張して携帯電話から制御します。 Electron + Next.jsで構築されています。 <sub>⭐ 6.5k · TypeScript</sub>
+- [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - iOSとmacOSプロジェクトでエージェントの使用のためのツールを提供するモデルコンテキストプロトコル(MCP)サーバーおよびCLI。 <sub>⭐ 6.5k · TypeScript</sub>
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source、デスクトップレベルのAIエージェントは、データ分析、スライド、ドキュメント、ビデオ&ウェブリサーチを実践しています。OpenClawで構築されているため、実際のデスクトップ上のツールを実行し、電話からコマンドを取ることができます... <sub>⭐ 6.1k · TypeScript</sub>
+- [jenssegers/agent](https://github.com/jenssegers/agent) - Mobiledetect に基づく、Laravelのサポートを備えた PHPデスクトップ/モバイルユーザーエージェントパーサ <sub>⭐ 4.9k · PHP</sub>
+- [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - チェリースタジオのモバイル版です。 <sub>⭐ 4.0k · TypeScript</sub>
+- [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - ユニバーサルデバイス検出ライブラリは、任意のユーザーエージェントを解析し、ブラウザを検出します, オペレーティングシステム, 使用されるデバイス (デスクトップ, タブレット, モバイル, テレビ, 車, コンソールなど), ブランドとモデル. <sub>⭐ 3.5k · PHP</sub>
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - 複数のClaudeコード、OpenCodeエージェントをTUIまたはWebから管理し、モバイルで簡単にアクセスできます。 また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。 <sub>⭐ 3.3k · Rust</sub>
+- [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) - あなたのエージェントがあなたの携帯電話を制御してみましょう <sub>⭐ 3.1k · Python</sub>
+- [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) - ビルダーは、研究者だけでなく、トップグロスリングアプリのパターンをネイティブ品質のモバイル画面に変えるエージェントスキルです。 <sub>⭐ 2.3k</sub>
+- [MG1937/ASC](https://github.com/MG1937/ASC) - ASCは、エージェント/モバイル研究者向けに設計された超高速のAndroidデコンパイラフロントエンドです。 <sub>⭐ 2.1k · Python</sub>
+- [IPADS-SAI/MobiAgent](https://github.com/IPADS-SAI/MobiAgent) - 携帯電話用のインテリジェントなGUIエージェント <sub>⭐ 1.9k · Python</sub>
+- [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst) - Nimbalyst - Claudeコード、Codex、OpenCode用のオープンソースのビジュアルワークスペース。 複数のコーディングエージェントを並行して実行し、マークダウン、モックアップ、ダイアグラムで視覚的に作業を編集し、... <sub>⭐ 1.8k · TypeScript</sub>
+- [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI) - OpenGUIは、Android GUIのエージェントフレームワークで、GUIを通じて実際のモバイルアプリを閲覧・計画・運用できる電話用AIです。 <sub>⭐ 1.8k · TypeScript</sub>
+- [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - 古い電話を ai エージェントに変える - プレーン英語の目標を与えます。画面を読み、何をするかについて考えます。adb でタップしてタイプし、ジョブが完了するまで繰り返します。 <sub>⭐ 1.6k · TypeScript</sub>
+- [selwin/python-user-agents](https://github.com/selwin/python-user-agents) - 携帯電話、タブレットなどのデバイスをパース(ブラウザ)のユーザーエージェント文字列で識別する簡単な方法を提供する Pythonライブラリ。 <sub>⭐ 1.5k · Python</sub>
+- [utkusen/sast-skills](https://github.com/utkusen/sast-skills) - ウェブ/モバイルアプリ内の脆弱性を見つけるためのエージェントスキルの収集。 <sub>⭐ 1.3k</sub>
+- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw は、ローカルの AI エージェント ランタイムに電話をオンデバイスモデル、ネイティブモバイルスキル、LiveLand、およびオプション Mac Gateway インフェレンスで電源を入れます。 <sub>⭐ 1.3k · Swift</sub>
+- [ModalityDance/PalmClaw](https://github.com/ModalityDance/PalmClaw) - (EMNLP 2026 デモ) 「PalmClaw:携帯電話向けネイティブオンデバイスエージェントフレームワーク」 <sub>⭐ 1.2k · Kotlin</sub>
+- [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: 人工知能エージェントの人間内ループリアルタイム会話タスクマネージャ。セルフホスト!モバイル、Web、デスクトップを望む場所から自分のエージェントを制御することができます。独自のClaudeでうまく機能するように設計... <sub>⭐ 1.1k · Go</sub>
+- [neural-maze/realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course) - リアルタイムのAIボイスエージェントをFastRTCを使用して低レイテンシーストリーミング、ベクトル検索にスーパーリンクし、ライブ電話コール用のTwilio、スケーラブルなGPU展開のためのRunpod。 <sub>⭐ 1.1k · Python</sub>
+- [K9i-0/ccpocket](https://github.com/K9i-0/ccpocket) - CodexとClaudeのモバイルクライアント — WebSocketブリッジ経由で携帯電話からコーディングエージェントを制御 <sub>⭐ 1.1k · Dart</sub>
+- [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent) - AI電話アシスタント/オープンソース <sub>⭐ 1.1k · Python</sub>
+- [PatterAI/Patter](https://github.com/PatterAI/Patter) - オープンソースのボイスAI SDK。 Vapi/Retellは、スタックを所有したいビルダーのための代替手段です。 4行であなたのAIエージェントに電話番号を与えます - PythonとTypeScript、MITライセンス、Twilio、Telnyx、および... <sub>⭐ 1.1k · Python</sub>
+- [inclusionAI/UI-Venus](https://github.com/inclusionAI/UI-Venus) - UI-Venusは、スクリーンショットだけを使ってモバイルアプリやWebプラットフォーム、デスクトップオペレーティングシステム用の汎用基礎GUIエージェントです。 <sub>⭐ 1.0k · HTML</sub>
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - エージェントとエンジニアのためのAIによるエンドツーエンドのテスト <sub>⭐ 1.0k · TypeScript</sub>
-- [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone) - (ACL 2026) "OpenPhone: Mobile Agentic Foundation Models for AI Phone" <sub>⭐ 977 · Python</sub>
-- [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) - The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI… <sub>⭐ 969 · Rust</sub>
+- [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone) - (ACL 2026) 「OpenPhone: 携帯電話のためのモバイルエージェントファウンデーションモデル」 <sub>⭐ 977 · Python</sub>
+- [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs) - ターミナルに住んでいるオールインワンAIエージェント。ランディング、モバイルアプリの構築、バックエンド管理、ファイルの管理、ディープリサーチ、スケジュールタスクやイベントの計画を立てます。自己改善、セルフヒーリング、完全自律的です。 TUI... <sub>⭐ 969 · Rust</sub>
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - ソフトウェアチーム用のQAエージェントをオープンソースで自動改善します。 メモリを持つテストハーネス。 Webとモバイル向けの自然言語のテストを書きます。 Agent-qaは、すべての実行から学習し、UIの変更に適応します。 <sub>⭐ 894 · TypeScript</sub>
-- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management… <sub>⭐ 890 · TypeScript</sub>
-- [Authing/Authing](https://github.com/Authing/Authing) - Authing - IDaaS/IAM solution that can Auth to web, mobile and agent applications. <sub>⭐ 866</sub>
-- [ru-yee/Life-Agent-RU-YEE](https://github.com/ru-yee/Life-Agent-RU-YEE) - Life Agent RU YEE — An AI-powered life management agent that autonomously handles daily routines including meal planning, grocery shopping, schedule coordination, and household task automation via… <sub>⭐ 800 · Python</sub>
-- [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps. <sub>⭐ 795 · Swift</sub>
-- [selwin/django-user_agents](https://github.com/selwin/django-user_agents) - A django package that allows easy identification of visitor's browser, OS and device information, including whether the visitor uses a mobile phone, tablet or a touch capable device. <sub>⭐ 646 · Python</sub>
-- [sv-number/mcp-server](https://github.com/sv-number/mcp-server) - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can… <sub>⭐ 547 · JavaScript</sub>
-- [my-claude-utils/clsh](https://github.com/my-claude-utils/clsh) - Access your terminal and your AI agent from any device — phone, tablet, desktop. <sub>⭐ 525 · TypeScript</sub>
-- [jazzenchen/VibeAround](https://github.com/jazzenchen/VibeAround) - Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and… <sub>⭐ 524 · Rust</sub>
-- [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped… <sub>⭐ 514 · Rust</sub>
-- [greenfield-inc/Pane](https://github.com/greenfield-inc/Pane) - Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in… <sub>⭐ 502 · TypeScript</sub>
-- [etienne-martin/device-detector-js](https://github.com/etienne-martin/device-detector-js) - A precise user agent parser and device detector written in TypeScript <sub>⭐ 501 · TypeScript</sub>
-- [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) - A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw… <sub>⭐ 492 · Vue</sub>
-- [allgpt-co/QuickVoice](https://github.com/allgpt-co/QuickVoice) - Open-source, self-hostable platform for building and operating AI phone agents. <sub>⭐ 490 · TypeScript</sub>
-- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root… <sub>⭐ 486 · Kotlin</sub>
-- [tamimibrahim17/List-of-user-agents](https://github.com/tamimibrahim17/List-of-user-agents) - List of major web + mobile browser user agent strings. +1 Bonus script to scrape :) <sub>⭐ 462 · Python</sub>
-- [vicoa-ai/vicoa](https://github.com/vicoa-ai/vicoa) - Vicoa is the agentic IDE for running a team of coding agents from desktop, mobile, VPS. Open-source, self-hostable. <sub>⭐ 462 · Python</sub>
-- [Kevin-Liu-01/Claude-of-Tanks](https://github.com/Kevin-Liu-01/Claude-of-Tanks) - A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible… <sub>⭐ 447 · TypeScript</sub>
-- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI <sub>⭐ 437 · TypeScript</sub>
-- [totpero/DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. <sub>⭐ 410 · C#</sub>
-- [chadbyte/clay](https://github.com/chadbyte/clay) - A self-hosted workspace where people and coding agents work together across projects, sessions, and providers. <sub>⭐ 400 · JavaScript</sub>
-- [dcolinmorgan/herdr-remote](https://github.com/dcolinmorgan/herdr-remote) - Monitor and drive your herdr agents from menu bar, phone, or Telegram. Zero config locally. Free tunnel for remote. No Tailscale needed. <sub>⭐ 399 · Python</sub>
-- [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup. <sub>⭐ 396 · Java</sub>
-- [physiclaw/PhysiClaw](https://github.com/physiclaw/PhysiClaw) - The AI agent that physically operates a phone — the way you do. <sub>⭐ 384 · Python</sub>
-- [eggbrid2/mobileClaw](https://github.com/eggbrid2/mobileClaw) - Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihomo VPN workflows. <sub>⭐ 379 · Kotlin</sub>
-- [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - Always up-to-date list of the top 100 most common browser user-agents for HTTP clients. <sub>⭐ 378 · JavaScript</sub>
-- [h-mdm/hmdm-android](https://github.com/h-mdm/hmdm-android) - Mobile Device Management (MDM) System for Android (mobile agent - launcher). Used for silent app installation and sending the info to the server. See more info on the website! <sub>⭐ 357 · Java</sub>
-- [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Enterprise App Store and Google Play rejection compliance playbook: rejection maps, mistake taxonomy, 2026 enforcement and legal layer, a tested pre-submission guard, and an agent audit skill. <sub>⭐ 350 · Python</sub>
-- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent pane, remote PCs over SSH, web push alerts <sub>⭐ 338 · TypeScript</sub>
-- [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi,Grok, or Claude code sessions anywhere. 0-Intrusion mobile control bridge via Telegram/微信/飞书. No hooks, no… <sub>⭐ 338 · Rust</sub>
-- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone. <sub>⭐ 331 · TypeScript</sub>
-- [sepivip/SeekerClaw](https://github.com/sepivip/SeekerClaw) - Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent <sub>⭐ 316 · JavaScript</sub>
-- [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) - Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff viewer, pi-flows execution, and mobile-first remote control via mDNS or zrok… <sub>⭐ 310 · TypeScript</sub>
-- [ling-kong-ran/pisper](https://github.com/ling-kong-ran/pisper) - Multi-agent app for parallel sessions, tools, memory, workflows, desktop, terminal, and mobile. <sub>⭐ 303 · JavaScript</sub>
-- [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUITestAgent is the first automatic, natural language-driven GUI testing tool for mobile apps, capable of fully automating the entire process of GUI interaction and function verification. <sub>⭐ 300</sub>
-- [XiyaoWang0519/agent-call](https://github.com/XiyaoWang0519/agent-call) - Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. <sub>⭐ 295 · Python</sub>
-- [Tongyi-MAI/MobileWorld](https://github.com/Tongyi-MAI/MobileWorld) - Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments (ACL 2026) <sub>⭐ 287 · Python</sub>
-- [alexei-led/ccgram](https://github.com/alexei-led/ccgram) - Telegram ↔ tmux/herdr/agterm bridge for Claude Code, Codex CLI, and Pi Agent. Monitor output, respond to prompts, manage parallel sessions. Control AI coding agents from your phone. <sub>⭐ 276 · Python</sub>
-- [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays. <sub>⭐ 271 · Go</sub>
-- [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile. <sub>⭐ 266 · TypeScript</sub>
-- [grapeot/opencode_ios_client](https://github.com/grapeot/opencode_ios_client) - Native iOS client for OpenCode. AI coding agent on your phone <sub>⭐ 258 · Swift</sub>
-- [ReversecLabs/drozer-agent](https://github.com/ReversecLabs/drozer-agent) - The Android Agent for the Drozer Security Assessment Framework. <sub>⭐ 250 · Java</sub>
-- [OpenBMB/AppCopilot](https://github.com/OpenBMB/AppCopilot) - A General, Accurate, Long-Horizon, and Efficient Mobile Agent driven by Multimodal Foundation Models <sub>⭐ 247 · Python</sub>
-- [dreamwing/clawbridge](https://github.com/dreamwing/clawbridge) - ClawBridge is the OpenClaw Mobile Dashboard. Monitor agent's real-time thoughts, actions, track token costs, and manage tasks from anywhere using your pocket-sized Mission Control. <sub>⭐ 232 · JavaScript</sub>
-- [Hy4ri/hermes-mobile](https://github.com/Hy4ri/hermes-mobile) - Native Android app for Hermes Agent. Your agent, in your pocket. <sub>⭐ 232 · Kotlin</sub>
-- [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail) - Email, SMS & phone-call infrastructure for AI agents — send and receive real email and text messages, and place agent-driven outbound voice calls, all programmatically <sub>⭐ 230 · TypeScript</sub>
-- [MadeAgents/mobile-use](https://github.com/MadeAgents/mobile-use) - MobileUse: an open-source mobile GUI agent for Android phone automation, AndroidWorld/AndroidLab evaluation, hierarchical reflection, and proactive exploration. <sub>⭐ 227 · Python</sub>
-- [mobileAiDev/ai-app-bridge](https://github.com/mobileAiDev/ai-app-bridge) - AI App Bridge is a runtime bridge for AI agents to close the loop on mobile app iteration: inspect the running app, operate UI and WebView surfaces, collect structured runtime state, verify results… <sub>⭐ 227 · JavaScript</sub>
-- [Safphere/OMG-Agent](https://github.com/Safphere/OMG-Agent) - OMG-Agent: Open-sourced Mobile GUI Agent <sub>⭐ 227 · Python</sub>
-- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because… <sub>⭐ 213 · Python</sub>
-- [Big-Pony/pocketshell](https://github.com/Big-Pony/pocketshell) - Run terminal AI coding agents (Claude Code / Codex / opencode) from your phone. Resilient sessions with replay, end-to-end encrypted. <sub>⭐ 205 · TypeScript</sub>
-- [eraycc/AutoGLM-TERMUX](https://github.com/eraycc/AutoGLM-TERMUX) - Quickly deploy Open-AutoGLM agent on Android phone using Termux. Support AI voice recognition and enable automated operation of your phone without Root or PC! <sub>⭐ 202 · Shell</sub>
-- [fronalabs/frona](https://github.com/fronalabs/frona) - Frona is a personal AI assistant. You create autonomous agents, give them tools, and talk to them through a chat interface. Agents act on their own. They browse the web, run code, develop… <sub>⭐ 202 · Rust</sub>
-- [sv-number/skills](https://github.com/sv-number/skills) - Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable… <sub>⭐ 201 · Python</sub>
-- [len5ky/CursorRemote](https://github.com/len5ky/CursorRemote) - Remote control for your local Cursor AI agent — monitor sessions, approve steps, and send tasks from your phone or Telegram while Cursor runs on your machine. <sub>⭐ 196 · TypeScript</sub>
-- [rcarmo/vibes](https://github.com/rcarmo/vibes) - A simple mobile-focused chat app to talk to an agent via the ACP protocol <sub>⭐ 190 · Python</sub>
-- [emreturkmencom/antigravity-telegram-suite](https://github.com/emreturkmencom/antigravity-telegram-suite) - Antigravity Telegram bot — remote-control your AI agent via Telegram. Chat, switch models, orchestrate multi-agent workflows, and manage workspaces from your phone. <sub>⭐ 171 · JavaScript</sub>
-- [OpenGVLab/GUI-Odyssey](https://github.com/OpenGVLab/GUI-Odyssey) - (ICCV 2025) GUIOdyssey is a comprehensive dataset for training and evaluating cross-app navigation agents. GUIOdyssey consists of 8,834 episodes from 6 mobile devices, spanning 6 types of cross-app… <sub>⭐ 162 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [aialt/awesome-mobile-agents](https://github.com/aialt/awesome-mobile-agents) - Latest Papers and Datasets on Mobile and PC GUI Agent <sub>⭐ 158</sub>
-- [eugenepyvovarov/CodeAgentsMobile](https://github.com/eugenepyvovarov/CodeAgentsMobile) - Mobile agents backed by opencode <sub>⭐ 154 · Swift</sub>
-- [NativeScript/SimDeck](https://github.com/NativeScript/SimDeck) - SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI. <sub>⭐ 150 · Rust</sub>
-- [KyosukeIshizu1008/berryscode](https://github.com/KyosukeIshizu1008/berryscode) - Native IDE for the Bevy game engine, built in Bevy + Rust. Scene editor, ECS inspector, AI agent, mobile build, Godot project read-only viewer. <sub>⭐ 149 · Rust</sub>
-- [leox255/loopsy](https://github.com/leox255/loopsy) - Cross-machine AI agent communication, plus a mobile app to control any terminal on your machine. <sub>⭐ 139 · TypeScript</sub>
-- [WangHanfu/Multi-agent-Path-Finding-in-Warehouse](https://github.com/WangHanfu/Multi-agent-Path-Finding-in-Warehouse) - Robotic Order Fulfillment System Using Kiva-like mobile robots. Conflict-based Search multi-robot path planning. <sub>⭐ 137 · MATLAB</sub>
-- [ClawMobile/ClawMobile](https://github.com/ClawMobile/ClawMobile) - An agent-first mobile runtime built on OpenClaw: control apps, learn reusable skills, and connect phones. <sub>⭐ 136 · TypeScript</sub>
-- [Hesper-Labs/owly](https://github.com/Hesper-Labs/owly) - AI-powered customer support agent with WhatsApp, Email & Phone channels <sub>⭐ 131 · TypeScript</sub>
-- [sololabstr/uisight](https://github.com/sololabstr/uisight) - Your AI can already see the screen — it just can't measure it. Live mobile+desktop sessions, a measurement engine (contrast, touch targets, theme drift) reporting findings as text, and a panel you… <sub>⭐ 128 · JavaScript</sub>
-- [riffpad/riffpad](https://github.com/riffpad/riffpad) - Watch, approve and steer your coding agents from your phone. <sub>⭐ 127 · Go</sub>
-- [kirklandsig/AIReceptionist](https://github.com/kirklandsig/AIReceptionist) - Open-source, self-hosted AI phone receptionist powered by OpenAI Realtime API. High-fidelity speech-to-speech voice agent. Drop-in replacement for overpriced AI receptionist SaaS. <sub>⭐ 126 · Python</sub>
-- [AbuZar-Ansarii/Needle](https://github.com/AbuZar-Ansarii/Needle) - This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely. <sub>⭐ 124 · Python</sub>
-- [open-octo/octo-agent](https://github.com/open-octo/octo-agent) - Open-source, single-binary, self-hosted AI agent — your models and data stay on your machine. A coding agent on par with Claude Code and a personal assistant lighter than OpenClaw, across eight… <sub>⭐ 123 · Go</sub>
-- [Rigos0/superturtle](https://github.com/Rigos0/superturtle) - Coding agent on your phone <sub>⭐ 123 · TypeScript</sub>
-- [sshh12/llm_convo](https://github.com/sshh12/llm_convo) - Use ChatGPT over Twilio to create an AI phone agent (works for incoming or outgoing calls). <sub>⭐ 118 · Python</sub>
-- [francedot/Interface-Agent](https://github.com/francedot/Interface-Agent) - InterfaceAgent: a versatile framework designed to create system and interface agents capable of managing mobile and desktop applications and features. <sub>⭐ 115 · TypeScript</sub>
-- [talmetis-labs/aizen](https://github.com/talmetis-labs/aizen) - Aizen is an AI coding agent that lives on your PC or VPS. Control it from your phone while it autonomously fixes code, runs tests, and reports the results back to you. <sub>⭐ 115 · Rust</sub>
-- [AkimotoAyako/VisionTasker](https://github.com/AkimotoAyako/VisionTasker) - VisionTasker introduces a novel two-stage framework combining vision-based UI understanding and LLM task planning for mobile task automation in a step-by-step manner. <sub>⭐ 113 · Python</sub>
-- [seteliu/st-cute](https://github.com/seteliu/st-cute) - Coding Agent / ReAct Loop / Web UI / Mobile Supported <sub>⭐ 112 · Java</sub>
-- [bobbylkchao/ai-phone-agent](https://github.com/bobbylkchao/ai-phone-agent) - AI Phone Agent: A starter kit to build AI agents that answer real phone calls and talk to customers in real time. Amazon Connect, OpenAI SIP, and the OpenAI Realtime API. Dial +1 844-593-8442 to try… <sub>⭐ 110 · TypeScript</sub>
-- [Project-Group-BTP/Multi-UAV-Mobile-Edge-Computing-Hybrid-Optimization](https://github.com/Project-Group-BTP/Multi-UAV-Mobile-Edge-Computing-Hybrid-Optimization) - Multi-UAV Assisted Wireless Powered Mobile Edge Computing: A hybrid optimization approach of combining multi-agent RL techniques (including attention mechanisms) with collaborative and adaptive… <sub>⭐ 109 · Python</sub>
-- [TIERS/isaac-marl-mobile-manipulation](https://github.com/TIERS/isaac-marl-mobile-manipulation) - Multi-Agent Reinforcement Learning for Mobile Manipulation with NVIDIA Isaac Sim <sub>⭐ 109 · Python</sub>
-- [futuregene/future-os](https://github.com/futuregene/future-os) - One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core. <sub>⭐ 108 · Rust</sub>
-- [jimmyyhwu/spatial-intention-maps](https://github.com/jimmyyhwu/spatial-intention-maps) - Learning multi-agent robotic mobile manipulation with deep reinforcement learning <sub>⭐ 107 · Python</sub>
-- [primorLee/agent-workflow-platform](https://github.com/primorLee/agent-workflow-platform) - Open-source starter stack for Agent product developers: desktop client, control plane, workers, multi-agent workflows, admin, mobile, and operations. <sub>⭐ 107 · TypeScript</sub>
-- [fyzhang1/DualTAP](https://github.com/fyzhang1/DualTAP) - (ECCV 2026) Official Repository for "DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents" <sub>⭐ 106 · Python</sub>
-- [solanabr/ai-kit](https://github.com/solanabr/ai-kit) - Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more. <sub>⭐ 106 · Shell</sub>
-- [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) - Portable phone-call Agent Skills, apps, examples, adapters, and scheduler recipes for AI agents. <sub>⭐ 104 · TypeScript</sub>
-- [kaida-palooza/ccpoke](https://github.com/kaida-palooza/ccpoke) - Bridge between AI coding agents and your phone — notifications, 2-way chat, permissions <sub>⭐ 103 · TypeScript</sub>
-- [Tongyi-MAI/Qwen-Planner-Agent](https://github.com/Tongyi-MAI/Qwen-Planner-Agent) - Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents <sub>⭐ 103 · HTML</sub>
-- [shrijayan/itwillsync](https://github.com/shrijayan/itwillsync) - Sync any terminal-based AI coding agent to your phone. Claude Code, Aider, Codex. Local network, zero cloud. <sub>⭐ 100 · TypeScript</sub>
-- [amfe/amfe-env](https://github.com/amfe/amfe-env) - Parsing User-Agent on a mobile device, could detecting what os/browser/app. <sub>⭐ 99 · JavaScript</sub>
-- [kosumic/whip](https://github.com/kosumic/whip) - Whip is an agent-native SSH mobile client, designed specifically for the Herdr multiplexer from day one <sub>⭐ 99 · TypeScript</sub>
-- [maikotrindade/mobile-tester-agent](https://github.com/maikotrindade/mobile-tester-agent) - AI-powered test automation tool which allows developers to run mobile automated tests <sub>⭐ 98 · Kotlin</sub>
-- [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) - The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the evidence path behind every recall. No cloud, no glue code —… <sub>⭐ 97 · Rust</sub>
-- [amirghm/hermes-agent-mobile](https://github.com/amirghm/hermes-agent-mobile) - Hermes AI assistant for mobile. Install on Android or iOS with one command. <sub>⭐ 96 · Shell</sub>
-- [Btkkgo/OrdinConn](https://github.com/Btkkgo/OrdinConn) - Open-source model-agnostic runtime for AI agents to perceive, understand and operate computers and mobile environments. <sub>⭐ 94 · Rust</sub>
-- [Altman-conquer/agentrejoin](https://github.com/Altman-conquer/agentrejoin) - Resume Claude Code and Codex sessions from web or mobile, with end-to-end encryption and self-hosting. <sub>⭐ 93 · TypeScript</sub>
-- [kwai/MemGUI-Agent](https://github.com/kwai/MemGUI-Agent) - Official code for "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management" <sub>⭐ 92 · Python</sub>
-- [Shaked/gomobiledetect](https://github.com/Shaked/gomobiledetect) - Go Mobile Detect is a lightweight Go package imported from PHP for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile… <sub>⭐ 91 · Go</sub>
-- [inkbox-ai/inkbox](https://github.com/inkbox-ai/inkbox) - SDK, skills, and examples for Inkbox: give AI agents a persistent identity with email, phone number, and internet address <sub>⭐ 89 · TypeScript</sub>
-- [ionclaw-org/ionclaw](https://github.com/ionclaw-org/ionclaw) - A cross-platform AI agent orchestrator in C++ that turns any device — including your phone — into a self-contained, multi-agent automation platform <sub>⭐ 89 · C++</sub>
-- [SeerRay-Lab/Xiaomi-GUI-0](https://github.com/SeerRay-Lab/Xiaomi-GUI-0) - (Technical Report) An End-to-End Multimodal GUI Agent for Real Mobile Environments <sub>⭐ 87 · Python</sub>
-- [lbiceman/iceCoder](https://github.com/lbiceman/iceCoder) - Self-hosted AI coding agent with desktop & mobile UI, L1/L2 dual-mode supervision <sub>⭐ 83 · TypeScript</sub>
-- [geckse/n8n-desk](https://github.com/geckse/n8n-desk) - Bringing n8n to your Machine — a desktop & mobile companion app for n8n. Chat with agents, build workflows conversationally, work with local files. <sub>⭐ 82 · TypeScript</sub>
-- [hanlizora/MADRL-Based-Multi-Task-Partial-Computation-Offloading-in-MEC](https://github.com/hanlizora/MADRL-Based-Multi-Task-Partial-Computation-Offloading-in-MEC) - Open source code for paper: Multi-Agent Deep Reinforcement Learning Based Multi-Task Partial Computation Offloading in Mobile Edge Computing <sub>⭐ 82 · Python</sub>
-- [AcidGr/agent-mobile-use](https://github.com/AcidGr/agent-mobile-use) - Industrial-grade headless virtual display & background Mobile Use foundation for Android <sub>⭐ 81 · Java</sub>
-- [kwai/MobileForge](https://github.com/kwai/MobileForge) - Official code for "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization" <sub>⭐ 80 · Python</sub>
-- [coinse/droidagent](https://github.com/coinse/droidagent) - DroidAgent: Intent-Driven Mobile GUI Testing with Autonomous LLM Agents <sub>⭐ 78 · Jupyter Notebook</sub>
-- [ZJU-REAL/KnowU-Bench](https://github.com/ZJU-REAL/KnowU-Bench) - Official code for "KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation" <sub>⭐ 78 · Python</sub>
-- [goncharik/hermes-mobile](https://github.com/goncharik/hermes-mobile) - Mobile companion for Hermes Agent <sub>⭐ 73 · Swift</sub>
-- [TehreemArbab/JazzCashMCP](https://github.com/TehreemArbab/JazzCashMCP) - Open-source Model Context Protocol (MCP) server for JazzCash — Pakistan's largest mobile-money platform. Hosted Checkout, Mobile Wallet charges, inquiries, and refunds for AI agents. <sub>⭐ 72 · TypeScript</sub>
-- [appeeky/ua-skills](https://github.com/appeeky/ua-skills) - Agent skills for mobile app paid growth powered by real-time data with APPEEKY MCP. <sub>⭐ 71 · Shell</sub>
-- [littlebearapps/untether](https://github.com/littlebearapps/untether) - Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp). Stream progress, approve actions, and send tasks by voice from your phone. <sub>⭐ 71 · Python</sub>
-- [topcheer/ggcode](https://github.com/topcheer/ggcode) - Fresh Agentic CLI, Desktop, Mobile & More <sub>⭐ 70 · Go</sub>
-- [erickjtorres/app-use](https://github.com/erickjtorres/app-use) - Make apps accessible for AI agents <sub>⭐ 69 · Python</sub>
-- [ClicShopping/ClicShopping](https://github.com/ClicShopping/ClicShopping) - ClicShopping AI(tm) is OpenSource and powerfull Solution GEN AI e-commerce B2B / B2C / B2B-B2C agentic. The solution is based on a modern, responsive design that will allow you to have a great… <sub>⭐ 68 · PHP</sub>
-- [TokenHungryMash/personalized-travel-guide-skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) - Open-source AI Agent skill for generating personalized, mobile-friendly travel handbook webpages. <sub>⭐ 68 · Python</sub>
+- [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - OpenCode AI エージェント用のモバイルファースト Web インターフェイス。あらゆるデバイスから複数の OpenCode エージェントを管理、制御、およびコード - あなたの電話、タブレット、またはデスクトップ。 Git インテグレーション、ファイル管理機能を備えています... <sub>⭐ 890 · TypeScript</sub>
+- [Authing/Authing](https://github.com/Authing/Authing) - Authing - IDaaS/IAMソリューションで、AuthをWeb、モバイルおよびエージェントアプリケーションにすることができます。 <sub>⭐ 866</sub>
+- [ru-yee/Life-Agent-RU-YEE](https://github.com/ru-yee/Life-Agent-RU-YEE) - ライフエージェントRU YEE — 食事計画、食料品ショッピング、スケジュール調整、家庭のタスク自動化など日常的なルーチンを自律的に処理するAIを搭載した生活管理代理店... <sub>⭐ 800 · Python</sub>
+- [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - iPhoneアプリで物事を成し遂げるAIエージェント。 <sub>⭐ 795 · Swift</sub>
+- [selwin/django-user_agents](https://github.com/selwin/django-user_agents) - 訪問者が携帯電話、タブレットまたは接触可能な装置を使用するかどうかを含む訪問者のブラウザ、OSおよびデバイス情報を簡単に識別できるdjangoパッケージ。 <sub>⭐ 646 · Python</sub>
+- [sv-number/mcp-server](https://github.com/sv-number/mcp-server) - 携帯電話番号が必要なAIエージェントのMCPサーバー:200以上の国でプライベートナンバーを注文し、SMS認証コードを読み取ってください。 カテゴリ内の最も広い国のカバレッジは、あなたがすることができます... <sub>⭐ 547 · JavaScript</sub>
+- [my-claude-utils/clsh](https://github.com/my-claude-utils/clsh) - 電話、タブレット、デスクトップなどあらゆるデバイスから端末とAIエージェントにアクセスできます。 <sub>⭐ 525 · TypeScript</sub>
+- [jazzenchen/VibeAround](https://github.com/jazzenchen/VibeAround) - 周りのAIコーディングエージェントを保ちます。 Claudeコード、Codex CLI、Gemini CLI、Pi Agentなどは1つの場所から出ます。 側で、接続可能で、Web、モバイル、および... <sub>⭐ 524 · Rust</sub>
+- [mixpeek/amux](https://github.com/mixpeek/amux) - AI コーディングエージェントのためのオープンソースの制御面。AI エンジニアリングチームを実行します: パラレル クロード コード、コーデックス、および Gemini 労働者と共有ボード、原子タスク、スケジュール、ループ、原点スタンプ付き... <sub>⭐ 514 · Rust</sub>
+- [greenfield-inc/Pane](https://github.com/greenfield-inc/Pane) - ターミナル・ファースト、オープンソースのAIエージェントマネージャー(エージェント・アグノスティック)、任意のOS(mac、ウィンドウズ、Linux)。複数のコーディングエージェントを実行するためのオープンソース開発環境... <sub>⭐ 502 · TypeScript</sub>
+- [etienne-martin/device-detector-js](https://github.com/etienne-martin/device-detector-js) - TypeScript で書かれた正確なユーザーエージェントパーサとデバイスディテクタ <sub>⭐ 501 · TypeScript</sub>
+- [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) - デスクトップ、モバイルおよびウェブ上のAgent Client Protocol(ACP)用のモダンでクロスプラットフォームのクライアント — ACP互換AIエージェント (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw... <sub>⭐ 492 · Vue</sub>
+- [allgpt-co/QuickVoice](https://github.com/allgpt-co/QuickVoice) - オープンソース、AI電話のエージェントの構築と運用のためのセルフホスト可能なプラットフォーム。 <sub>⭐ 490 · TypeScript</sub>
+- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - AndroidのClaudeコード:Android用のAI搭載モバイルコーディングIDE — コーディングエージェントとのチャット、Linuxコマンドを実行し、ファイルを編集したり、差分を見直したり、電話から直接Webアプリをプレビューしたりします。 ルートはありません... <sub>⭐ 486 · Kotlin</sub>
+- [tamimibrahim17/List-of-user-agents](https://github.com/tamimibrahim17/List-of-user-agents) - 主要なWeb +モバイルブラウザのユーザーエージェント文字列のリスト。 +1ボーナススクリプトをスクレイピング:) <sub>⭐ 462 · Python</sub>
+- [vicoa-ai/vicoa](https://github.com/vicoa-ai/vicoa) - Vicoaはデスクトップ、モバイル、VPSからコーディングエージェントのチームを実行するための有能なIDEです。 オープンソース、セルフホスト可能です。 <sub>⭐ 462 · Python</sub>
+- [Kevin-Liu-01/Claude-of-Tanks](https://github.com/Kevin-Liu-01/Claude-of-Tanks) - タンクスタイルの世界, Vite-パワード, エンジンフリー純粋な3.js装甲戦闘シミュレータは、プレートレベルの鎧を解決します。, 弾道, モジュール, スポッティング, そして物理学, と 121 タンクおよび 20 破壊的... <sub>⭐ 447 · TypeScript</sub>
+- [pranshuchittora/simvyn](https://github.com/pranshuchittora/simvyn) - エージェントと人間のためのユニバーサルモバイルデツール - iOSのシミュレータ、Androidエミュレータ、および単一のダッシュボードやCLIから実際のデバイスを制御 <sub>⭐ 437 · TypeScript</sub>
+- [totpero/DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - ユニバーサルデバイス検出ライブラリは、任意のユーザーエージェントを解析し、ブラウザを検出します, オペレーティングシステム, 使用されるデバイス (デスクトップ, タブレット, モバイル, テレビ, 車, コンソールなど), ブランドとモデル. <sub>⭐ 410 · C#</sub>
+- [chadbyte/clay](https://github.com/chadbyte/clay) - 人やコーディングのエージェントがプロジェクト、セッション、プロバイダー間で協働するセルフホスト型ワークスペース。 <sub>⭐ 400 · JavaScript</sub>
+- [dcolinmorgan/herdr-remote](https://github.com/dcolinmorgan/herdr-remote) - メニューバー、電話、またはテレグラムからあなたのヘルダーエージェントを監視し、運転します。 ゼロコンフィグローカル。 リモートのための無料のトンネル。 テールスケールは必要ありません。 <sub>⭐ 399 · Python</sub>
+- [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Android携帯電話でAIエージェントを実行 — 端末、CLIなし、ガイド付きセットアップ。 <sub>⭐ 396 · Java</sub>
+- [physiclaw/PhysiClaw](https://github.com/physiclaw/PhysiClaw) - 物理的に電話を操作するAIエージェント — あなたが行う方法。 <sub>⭐ 384 · Python</sub>
+- [eggbrid2/mobileClaw](https://github.com/eggbrid2/mobileClaw) - Android AI エージェントのランタイムを開き、電話制御、アプリ自動化、VLM スクリーン読み取り、スキルルーティング、ミニ アプリ、Mihomo VPN ワークフロー。 <sub>⭐ 379 · Kotlin</sub>
+- [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - HTTP クライアントの最も一般的なブラウザー ユーザーエージェントが最大 100 件を常に最新のリストに表示します。 <sub>⭐ 378 · JavaScript</sub>
+- [h-mdm/hmdm-android](https://github.com/h-mdm/hmdm-android) - Android向けモバイルデバイス管理(MDM)システム (携帯エージェント - ランチャー)。サイレントアプリのインストールとサーバーに情報を送信するために使用される。 ウェブサイトの詳細情報を参照してください! <sub>⭐ 357 · Java</sub>
+- [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - エンタープライズアプリストアとGoogle Playの拒絶反応コンプライアンスブック:拒否マップ、誤差課税、2026施行および法的層、テスト済みの事前審査ガード、エージェント監査スキル。 <sub>⭐ 350 · Python</sub>
+- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - ヘルダーのためのブラウザと電話クライアント:SSH上のすべてのエージェントペイン、リモートPCのチャットおよびライブターミナル、Webプッシュアラート <sub>⭐ 338 · TypeScript</sub>
+- [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - ローカルAIエージェントのベビーシッターを停止します。通知、承認し、あなたのCodex、Pi、Grok、またはClaudeコードセッションをどこにでも再開してください。 Telegram/微信/ を介して0-侵入モバイル制御橋。 いいえホックなし... <sub>⭐ 338 · Rust</sub>
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - マシン上のすべてのAIコーディングエージェント、ワン画面で - すべてのプロバイダ間でライブコスト、トークン、ツールコール、そしてあなたが行くまで何か危険な保持。 あなたの机やあなたの携帯電話から。 <sub>⭐ 331 · TypeScript</sub>
+- [sepivip/SeekerClaw](https://github.com/sepivip/SeekerClaw) - Solana Seeker(または任意のAndroid携帯電話)を24 / 7パーソナルAIエージェントに変える <sub>⭐ 316 · JavaScript</sub>
+- [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) - リアルタイムのウェブダッシュボードで、API のコーディングエージェントセッションが行えます。マルチセッションビュー、ライブチャットミラーリング、統合ターミナル、差分ビューア、pi-flows実行、およびmDNSまたはzrokによるモバイルファーストリモートコントロール <sub>⭐ 310 · TypeScript</sub>
+- [ling-kong-ran/pisper](https://github.com/ling-kong-ran/pisper) - 並列セッション、ツール、メモリ、ワークフロー、デスクトップ、端末、モバイル向けのマルチエージェントアプリ。 <sub>⭐ 303 · JavaScript</sub>
+- [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUITestAgentは、GUIインタラクションと機能検証の全プロセスを完全に自動化できるモバイルアプリ用の最初の自動で自然言語主導のGUIテストツールです。 <sub>⭐ 300</sub>
+- [XiyaoWang0519/agent-call](https://github.com/XiyaoWang0519/agent-call) - OpenAIリアルタイムとTwilioで、安全かつステートフルなAIエージェントの電話コールを実現するオープンソースMCPサーバー。 <sub>⭐ 295 · Python</sub>
+- [Tongyi-MAI/MobileWorld](https://github.com/Tongyi-MAI/MobileWorld) - エージェント・ユーザー・インタラクティブおよびMCP-Augmented環境(ACL 2026)における自動モバイル・エージェントのベンチマーク <sub>⭐ 287 · Python</sub>
+- [alexei-led/ccgram](https://github.com/alexei-led/ccgram) - Telegram ↔ tmux/herdr/agterm Bridge for Claude Code、Codex CLI、Pi Agent。モニター出力、プロンプトへの応答、並列セッションの管理。お使いの携帯電話からAIコーディングエージェントを制御します。 <sub>⭐ 276 · Python</sub>
+- [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - お使いの携帯電話から遠隔でヘルダーエージェントを承認し、監視します。, プッシュ通知とAndroid / iOSスマートフォン用のモバイルWebアプリ, QRのセットアップ, マルチコンピュータリレー. <sub>⭐ 271 · Go</sub>
+- [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - 任意の画面のヘルダークライアント。ターミナルを制御し、コーディングエージェントを監視し、デスクトップやモバイルからファイルと差分を確認します。 <sub>⭐ 266 · TypeScript</sub>
+- [grapeot/opencode_ios_client](https://github.com/grapeot/opencode_ios_client) - OpenCode のネイティブ iOS クライアント。お使いの携帯電話で AI コーディングエージェント <sub>⭐ 258 · Swift</sub>
+- [ReversecLabs/drozer-agent](https://github.com/ReversecLabs/drozer-agent) - Drozerセキュリティ評価フレームワークのAndroidエージェント。 <sub>⭐ 250 · Java</sub>
+- [OpenBMB/AppCopilot](https://github.com/OpenBMB/AppCopilot) - マルチモーダルファンデーションモデルを駆動する総合的、正確でロングホライゾンおよび効率的なモバイルエージェント <sub>⭐ 247 · Python</sub>
+- [dreamwing/clawbridge](https://github.com/dreamwing/clawbridge) - ClawBridgeはOpenClaw Mobile Dashboardです。 モニターエージェントのリアルタイム思考、アクション、トラックトークンコスト、およびポケットサイズのミッションコントロールを使用してどこからでもタスクを管理します。 <sub>⭐ 232 · JavaScript</sub>
+- [Hy4ri/hermes-mobile](https://github.com/Hy4ri/hermes-mobile) - Hermes Agent 用のネイティブ Android アプリ。あなたのエージェント、あなたのポケットで。 <sub>⭐ 232 · Kotlin</sub>
+- [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail) - 電子メール、SMS&電話のインフラAIエージェント — 実際のメールとテキストメッセージを送信して受信し、エージェント主導のアウトバウンドボイスコールをすべてプログラム的に配置する <sub>⭐ 230 · TypeScript</sub>
+- [MadeAgents/mobile-use](https://github.com/MadeAgents/mobile-use) - MobileUse: Androidの携帯電話の自動化、AndroidWorld/AndroidLabの評価、階層的な反射、および積極的な探査のためのオープンソースモバイルGUIエージェント。 <sub>⭐ 227 · Python</sub>
+- [mobileAiDev/ai-app-bridge](https://github.com/mobileAiDev/ai-app-bridge) - AI App Bridge は、AI エージェントがモバイル アプリの反復を閉じるランタイムブリッジです。実行中のアプリをチェックし、UI と WebView の表面を操作し、構造化されたランタイム状態を収集し、結果を検証します。 <sub>⭐ 227 · JavaScript</sub>
+- [Safphere/OMG-Agent](https://github.com/Safphere/OMG-Agent) - OMG-Agent:オープンソースのモバイルGUIエージェント <sub>⭐ 227 · Python</sub>
+- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - 航空のすべての既知の法律によると、蜂が飛ぶことができる方法はありません。その羽は地面から脂肪を少し体外に得るためにあまりにも小さいです。ミツバチ、もちろん、とにかく飛びます。だから... <sub>⭐ 213 · Python</sub>
+- [Big-Pony/pocketshell](https://github.com/Big-Pony/pocketshell) - 端末のAIコーディングエージェント(Claude Code / Codex / opencode)をお使いの携帯電話から実行します。 リプレイ、エンドツーエンド暗号化による弾力性セッション。 <sub>⭐ 205 · TypeScript</sub>
+- [eraycc/AutoGLM-TERMUX](https://github.com/eraycc/AutoGLM-TERMUX) - Android端末でOpen-AutoGLMエージェントをTermuxを使って素早くデプロイします。AI音声認識をサポートし、RootやPCなしで携帯電話の自動操作を有効にしましょう! <sub>⭐ 202 · Shell</sub>
+- [fronalabs/frona](https://github.com/fronalabs/frona) - Fronaは、個人的なAIアシスタントです。 あなたは自律的なエージェントを作成し、それらをツールを与え、チャットインターフェイスを介してそれらに話します。 エージェントは自分自身で行動しています。 彼らはウェブをブラウズし、コードを実行し、開発... <sub>⭐ 202 · Rust</sub>
+- [sv-number/skills](https://github.com/sv-number/skills) - AIエージェントに電話番号をつけてください: API 上で 200+ の国でプライベート番号を注文し、SMS 認証コードを読み、番号を取り戻します。 カテゴリ内の最も広い国のカバレッジ、チェック可能... <sub>⭐ 201 · Python</sub>
+- [len5ky/CursorRemote](https://github.com/len5ky/CursorRemote) - ローカルカーサーターAIエージェントのリモートコントロール — セッションを監視し、ステップを承認し、携帯電話やTelegramからタスクを送信して、Cursorがマシン上で実行します。 <sub>⭐ 196 · TypeScript</sub>
+- [rcarmo/vibes](https://github.com/rcarmo/vibes) - ACPプロトコルを介してエージェントに相談するための簡単なモバイル重視のチャットアプリ <sub>⭐ 190 · Python</sub>
+- [emreturkmencom/antigravity-telegram-suite](https://github.com/emreturkmencom/antigravity-telegram-suite) - Antigravity Telegramボット — リモートでAIエージェントをTelegram経由で制御します。チャット、モデルの切り替え、マルチエージェントワークフローのオーケストレーション、および電話からワークスペースの管理 <sub>⭐ 171 · JavaScript</sub>
+- [OpenGVLab/GUI-Odyssey](https://github.com/OpenGVLab/GUI-Odyssey) - (ICCV 2025) GUIOdyseyは、クロスアプリのナビゲーションエージェントを訓練し評価するための包括的なデータセットです。 GUIOdysseyは6つのモバイルデバイスから8,834エピソードで構成されており、6種類のクロスアプリケーションに対抗しています... <sub>⭐ 162 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C戦略的ハイライト2019年9月 2019年度W3C諮問委員会会議(W3Cメンバーリンク)の準備ができました。 同行のW3C事実シートを参照してください - 9月2019.... <sub>⭐ 160</sub>
+- [aialt/awesome-mobile-agents](https://github.com/aialt/awesome-mobile-agents) - モバイルおよびPC GUIエージェントに関する最新の論文とデータセット <sub>⭐ 158</sub>
+- [eugenepyvovarov/CodeAgentsMobile](https://github.com/eugenepyvovarov/CodeAgentsMobile) - オープンコードでバックアップされたモバイルエージェント <sub>⭐ 154 · Swift</sub>
+- [NativeScript/SimDeck](https://github.com/NativeScript/SimDeck) - SimDeckは、エージェントを使用してモバイルアプリ開発を合理化するために構築された開発者ツールです。 お気に入りのIDE&CLIからiOSシミュレータとAndroidエミュレータを駆動します。 <sub>⭐ 150 · Rust</sub>
+- [KyosukeIshizu1008/berryscode](https://github.com/KyosukeIshizu1008/berryscode) - Bevy + Rustで構築されたBevyゲームエンジンのネイティブIDE。 シーンエディタ、ECSインスペクター、AIエージェント、モバイルビルド、Godotプロジェクト読み取り専用ビューア。 <sub>⭐ 149 · Rust</sub>
+- [leox255/loopsy](https://github.com/leox255/loopsy) - クロスマシンAIエージェント通信、モバイルアプリで端末を操作できます。 <sub>⭐ 139 · TypeScript</sub>
+- [WangHanfu/Multi-agent-Path-Finding-in-Warehouse](https://github.com/WangHanfu/Multi-agent-Path-Finding-in-Warehouse) - Kivaのようなモバイルロボットを用いたロボティックオーダーフルフィルメントシステム。コンフリクトベース検索マルチロボットパス計画。 <sub>⭐ 137 · MATLAB</sub>
+- [ClawMobile/ClawMobile](https://github.com/ClawMobile/ClawMobile) - OpenClawで構築されたエージェントファーストのモバイルランタイム:アプリを制御し、再利用可能なスキルを学び、電話を接続します。 <sub>⭐ 136 · TypeScript</sub>
+- [Hesper-Labs/owly](https://github.com/Hesper-Labs/owly) - WhatsApp、Eメールおよび電話チャネルによるAI搭載のカスタマーサポートエージェント <sub>⭐ 131 · TypeScript</sub>
+- [sololabstr/uisight](https://github.com/sololabstr/uisight) - AIは既に画面を見ることができ、それだけでは測定できません。ライブモバイル+デスクトップセッション、計測エンジン(コントラスト、タッチターゲット、テーマドリフト)のレポート結果がテキストとして表示され、パネルを操作できます。 <sub>⭐ 128 · JavaScript</sub>
+- [riffpad/riffpad](https://github.com/riffpad/riffpad) - お使いの携帯電話からあなたのコーディングエージェントを監視、承認し、ステア. <sub>⭐ 127 · Go</sub>
+- [kirklandsig/AIReceptionist](https://github.com/kirklandsig/AIReceptionist) - OpenAI Realtime API を搭載した、オープンソースのセルフホスト型の AI 電話受付。ハイファイなスピーチ・ツー・スピーナボイスエージェント。高価な AI 受信者 SaaS へのドロップイン交換 <sub>⭐ 126 · Python</sub>
+- [AbuZar-Ansarii/Needle](https://github.com/AbuZar-Ansarii/Needle) - この 14 MB の代理店 LLM (Cactus Needle 2) あなたの電話を完全に制御できます。 <sub>⭐ 124 · Python</sub>
+- [open-octo/octo-agent](https://github.com/open-octo/octo-agent) - オープンソース、単一バイナリ、セルフホスト型のAIエージェント — あなたのモデルとデータがあなたのマシンにとどまります。 ClaudeコードとOpenClawよりもパーソナルアシスタントライターのパー上のコーディングエージェントは、8つの全体で... <sub>⭐ 123 · Go</sub>
+- [Rigos0/superturtle](https://github.com/Rigos0/superturtle) - お使いの携帯電話でコディングエージェント <sub>⭐ 123 · TypeScript</sub>
+- [sshh12/llm_convo](https://github.com/sshh12/llm_convo) - ChatGPTをTwilioで使用して、AI電話エージェント(着信または発信)を作成できます。 <sub>⭐ 118 · Python</sub>
+- [francedot/Interface-Agent](https://github.com/francedot/Interface-Agent) - InterfaceAgent:モバイルおよびデスクトップアプリケーションや機能を管理することができるシステムとインターフェイスのエージェントを作成するために設計された多目的フレームワーク。 <sub>⭐ 115 · TypeScript</sub>
+- [talmetis-labs/aizen](https://github.com/talmetis-labs/aizen) - アイゼンは、あなたのPCやVPSに住んでいるAIコーディングエージェントです。コードを自動修正し、テストを実行して結果があなたに戻って報告しながら、お使いの携帯電話からそれを制御します。 <sub>⭐ 115 · Rust</sub>
+- [AkimotoAyako/VisionTasker](https://github.com/AkimotoAyako/VisionTasker) - VisionTaskerは、ビジョンベースのUIの理解とLLMタスクを組み合わせた2段階フレームワークを導入し、ステップバイステップでモバイルタスクの自動化のための計画を立てています。 <sub>⭐ 113 · Python</sub>
+- [seteliu/st-cute](https://github.com/seteliu/st-cute) - コーディングエージェント / ReAct Loop / Web UI / Mobile 対応 <sub>⭐ 112 · Java</sub>
+- [bobbylkchao/ai-phone-agent](https://github.com/bobbylkchao/ai-phone-agent) - 人工知能電話エージェント:リアルタイムで、実際の電話に応答し、顧客に話せるAIエージェントを構築するためのスターターキット。 Amazon Connect、OpenAI SIP、およびOpenAI Realtime API。 Dial +1 844-593-8442を試してみる... <sub>⭐ 110 · TypeScript</sub>
+- [Project-Group-BTP/Multi-UAV-Mobile-Edge-Computing-Hybrid-Optimization](https://github.com/Project-Group-BTP/Multi-UAV-Mobile-Edge-Computing-Hybrid-Optimization) - マルチUAVは、ワイヤレスパワードモバイルエッジコンピューティングを支援しました。 コラボレーションと適応性を備えたマルチエージェントRLテクニック(注意メカニズムを含む)を組み合わせたハイブリッド最適化アプローチです... <sub>⭐ 109 · Python</sub>
+- [TIERS/isaac-marl-mobile-manipulation](https://github.com/TIERS/isaac-marl-mobile-manipulation) - NVIDIA Isaac Simとモバイル操作のためのマルチエージェント強化学習 <sub>⭐ 109 · Python</sub>
+- [futuregene/future-os](https://github.com/futuregene/future-os) - 端末、デスクトップ、モバイル、チャットアプリなどあらゆるAIエージェントがご利用いただけます。 <sub>⭐ 108 · Rust</sub>
+- [jimmyyhwu/spatial-intention-maps](https://github.com/jimmyyhwu/spatial-intention-maps) - ディープな強化学習でマルチエージェントロボットのモバイル操作を学ぶ <sub>⭐ 107 · Python</sub>
+- [primorLee/agent-workflow-platform](https://github.com/primorLee/agent-workflow-platform) - エージェント製品開発者のためのオープンソーススタータースタック:デスクトップクライアント、コントロールプレーン、ワーカー、マルチエージェントワークフロー、管理者、モバイル、および操作。 <sub>⭐ 107 · TypeScript</sub>
+- [fyzhang1/DualTAP](https://github.com/fyzhang1/DualTAP) - (ECCV 2026) 「DualTAP:モバイルMLLMエージェントのデュアルタスク・アドバーサリ・プロテクター」の公式リポジトリ <sub>⭐ 106 · Python</sub>
+- [solanabr/ai-kit](https://github.com/solanabr/ai-kit) - Claudeコード/Codex / AIは、Solanaのエキスパートビルダーのために構成します。 CLAUDE.md、エージェント、コマンド、ホック、ルール、スキルとWeb、アンカー、Pinnochio、Unity、モバイル、セキュリティなどの設定。 <sub>⭐ 106 · Shell</sub>
+- [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) - 携帯用電話コールエージェントスキル、アプリ、例、アダプター、およびAIエージェントのスケジューラレシピ。 <sub>⭐ 104 · TypeScript</sub>
+- [kaida-palooza/ccpoke](https://github.com/kaida-palooza/ccpoke) - 通知、双方向のチャット、許可 - AI コーディングエージェントと電話間のブリッジ <sub>⭐ 103 · TypeScript</sub>
+- [Tongyi-MAI/Qwen-Planner-Agent](https://github.com/Tongyi-MAI/Qwen-Planner-Agent) - Qwen-Planner-Agent:世界規模のモバイルプランナーエージェント向けクローズドループAI-for-AIフレームワーク <sub>⭐ 103 · HTML</sub>
+- [shrijayan/itwillsync](https://github.com/shrijayan/itwillsync) - 端末ベースのAIコーディングエージェントを携帯電話に同期します。 Claude Code、Aider、Codex。ローカルネットワーク、ゼロクラウド。 <sub>⭐ 100 · TypeScript</sub>
+- [amfe/amfe-env](https://github.com/amfe/amfe-env) - モバイルデバイスでユーザーエージェントをパースし、os/browser/app の検出ができます。 <sub>⭐ 99 · JavaScript</sub>
+- [kosumic/whip](https://github.com/kosumic/whip) - Whip はエージェントネイティブ SSH モバイルクライアントで、ヘルダーのマルチプレクサを 1 日目から特別に設計された <sub>⭐ 99 · TypeScript</sub>
+- [maikotrindade/mobile-tester-agent](https://github.com/maikotrindade/mobile-tester-agent) - 開発者がモバイル自動テストを実行できるAI搭載のテスト自動化ツール <sub>⭐ 98 · Kotlin</sub>
+- [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) - 説明可能な、AIエージェントのためのローカルファーストメモリエンジン。 1〜9 MBバイナリはVelesQLの下のベクトル+グラフ+カラムをヒューズします; なぜ()はすべてのリコールの背後にある証拠パスを返します。クラウドなし、接着剤コードはありません... <sub>⭐ 97 · Rust</sub>
+- [amirghm/hermes-agent-mobile](https://github.com/amirghm/hermes-agent-mobile) - モバイル用のHermes AIアシスタント。 1つのコマンドでAndroidまたはiOSにインストールします。 <sub>⭐ 96 · Shell</sub>
+- [Btkkgo/OrdinConn](https://github.com/Btkkgo/OrdinConn) - AIエージェントのオープンソースモデルアグノスティックランタイムで、コンピュータやモバイル環境を知覚し、理解して運用します。 <sub>⭐ 94 · Rust</sub>
+- [Altman-conquer/agentrejoin](https://github.com/Altman-conquer/agentrejoin) - エンドツーエンドの暗号化とセルフホスティングを使用して、WebまたはモバイルからClaudeコードおよびCodexセッションを再開します。 <sub>⭐ 93 · TypeScript</sub>
+- [kwai/MemGUI-Agent](https://github.com/kwai/MemGUI-Agent) - "MemGUI-Agent: エンドツーエンドのロングホライゾンモバイルGUIエージェントとプロアクティブなコンテキスト管理" <sub>⭐ 92 · Python</sub>
+- [Shaked/gomobiledetect](https://github.com/Shaked/gomobiledetect) - モバイル検出は、モバイルデバイス(タブレットを含む)を検出するためにPHPからインポートされた軽量のGoパッケージです。 これは、特定のHTTPヘッダーと組み合わせたUser-Agent文字列を使用して、携帯電話を検知します... <sub>⭐ 91 · Go</sub>
+- [inkbox-ai/inkbox](https://github.com/inkbox-ai/inkbox) - SDK、スキル、およびインキボックスの事例:AIエージェントにEメールや電話番号、インターネットアドレスなどの永続的なアイデンティティを付与 <sub>⭐ 89 · TypeScript</sub>
+- [ionclaw-org/ionclaw](https://github.com/ionclaw-org/ionclaw) - C++のクロスプラットフォームAIエージェントオーケストレータで、携帯電話を含むあらゆるデバイスをセルフコンテナード・マルチエージェント自動化プラットフォームに変えます。 <sub>⭐ 89 · C++</sub>
+- [SeerRay-Lab/Xiaomi-GUI-0](https://github.com/SeerRay-Lab/Xiaomi-GUI-0) - (技術報告) エンドツーエンドのマルチモーダルGUIエージェントが、実際のモバイル環境で実現 <sub>⭐ 87 · Python</sub>
+- [lbiceman/iceCoder](https://github.com/lbiceman/iceCoder) - デスクトップ&モバイルUI、L1/L2デュアルモードの監督によるセルフホスト型AIコーディングエージェント <sub>⭐ 83 · TypeScript</sub>
+- [geckse/n8n-desk](https://github.com/geckse/n8n-desk) - n8nをマシンに持ち込む - デスクトップ&モバイルコンパニオンアプリ n8n8n。エージェントとチャットし、ワークフローを対話的に構築し、ローカルファイルと連携します。 <sub>⭐ 82 · TypeScript</sub>
+- [hanlizora/MADRL-Based-Multi-Task-Partial-Computation-Offloading-in-MEC](https://github.com/hanlizora/MADRL-Based-Multi-Task-Partial-Computation-Offloading-in-MEC) - ペーパーのためのオープンソース コード: マルチエージェントのディープ・レインフォースメント学習ベースのマルチタスクパーシャル・コンピューティング オフロード モバイルエッジ計算 <sub>⭐ 82 · Python</sub>
+- [AcidGr/agent-mobile-use](https://github.com/AcidGr/agent-mobile-use) - アンドロイドのための産業等級のヘッドレス仮想表示及び背景移動式使用基礎 <sub>⭐ 81 · Java</sub>
+- [kwai/MobileForge](https://github.com/kwai/MobileForge) - 「MobileForge: Hierarchical Feedback-Guided Policy Optimization」によるモバイルGUIエージェントのアノテーションフリー適応のための公式コード <sub>⭐ 80 · Python</sub>
+- [coinse/droidagent](https://github.com/coinse/droidagent) - DroidAgent:自動LMエージェントによるインテント駆動型モバイルGUIテスト <sub>⭐ 78 · Jupyter Notebook</sub>
+- [ZJU-REAL/KnowU-Bench](https://github.com/ZJU-REAL/KnowU-Bench) - 「KnowU-Bench:インタラクティブ、プロアクティブ、パーソナライズされたモバイルエージェント評価」の公式コード <sub>⭐ 78 · Python</sub>
+- [goncharik/hermes-mobile](https://github.com/goncharik/hermes-mobile) - エルメスエージェントのモバイルコンパニオン <sub>⭐ 73 · Swift</sub>
+- [TehreemArbab/JazzCashMCP](https://github.com/TehreemArbab/JazzCashMCP) - オープンソースのモデルコンテキストプロトコル(MCP)サーバーで、JazzCash — Pakistan最大のモバイルマネープラットフォーム。Checkoutをホストし、Mobile WalletはAIエージェントに課金、問い合わせ、返金を行います。 <sub>⭐ 72 · TypeScript</sub>
+- [appeeky/ua-skills](https://github.com/appeeky/ua-skills) - APPEEKY MCPでリアルタイムデータを活用したモバイルアプリの有料成長のためのエージェントスキル。 <sub>⭐ 71 · Shell</sub>
+- [littlebearapps/untether](https://github.com/littlebearapps/untether) - どこからでもコード — AI コーディングエージェント (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp) のテレグラムブリッジ。進行状況を合理化し、アクションを承認し、電話からの音声でタスクを送信します。 <sub>⭐ 71 · Python</sub>
+- [topcheer/ggcode](https://github.com/topcheer/ggcode) - フレッシュ・エージェントリック CLI、デスクトップ、モバイル&その他 <sub>⭐ 70 · Go</sub>
+- [erickjtorres/app-use](https://github.com/erickjtorres/app-use) - AIエージェントがアプリを利用できるようにする <sub>⭐ 69 · Python</sub>
+- [ClicShopping/ClicShopping](https://github.com/ClicShopping/ClicShopping) - ClicShopping AI(tm)は、オープンソースと強力なソリューションGEN AI eコマースB2B / B2C / B2B-B2Cのエージェントです。 解決策は、現代のレスポンシブデザインに基づいており、優れた機能を持つことができます。 <sub>⭐ 68 · PHP</sub>
+- [TokenHungryMash/personalized-travel-guide-skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) - パーソナライズされた、モバイルフレンドリーな旅行ハンドブックのWebページを生成するためのオープンソースAIエージェントスキル。 <sub>⭐ 68 · Python</sub>
 
 ## 🧪 モバイルのコードとテストの生成
 
 > アプリの画面、ロジック、テストを書くアシスタント。
 
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. <sub>⭐ 22.1k · Swift</sub>
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users v0 / Lovable / Replit / Bolt alternative Star if you like it! <sub>⭐ 21.6k · TypeScript</sub>
-- [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as… <sub>⭐ 10.9k · Python</sub>
-- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode <sub>⭐ 6.3k · Swift</sub>
-- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 4.9k</sub>
-- [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend <sub>⭐ 4.6k · TypeScript</sub>
-- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). <sub>⭐ 3.6k · Python</sub>
-- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions <sub>⭐ 2.5k · Swift</sub>
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run… <sub>⭐ 2.4k · C++</sub>
-- [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder. <sub>⭐ 2.0k · C#</sub>
-- [alan-ai/alan-sdk-android](https://github.com/alan-ai/alan-sdk-android) - The Self-Coding System for Your App — Alan AI SDK for Android <sub>⭐ 1.8k</sub>
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration. <sub>⭐ 1.7k</sub>
-- [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store. <sub>⭐ 1.2k · TypeScript</sub>
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT. <sub>⭐ 958 · Go</sub>
-- [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) - Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. <sub>⭐ 941 · Swift</sub>
-- [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps… <sub>⭐ 751 · TypeScript</sub>
-- [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3)… <sub>⭐ 689 · TypeScript</sub>
-- [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - A Modern Code Editor for Android <sub>⭐ 677 · Kotlin</sub>
-- [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI. It focuses on speed, a compact… <sub>⭐ 669 · Swift</sub>
-- [iAmCorey/kooky](https://github.com/iAmCorey/kooky) - A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click… <sub>⭐ 654 · Swift</sub>
-- [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source. <sub>⭐ 555 · TypeScript</sub>
-- [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill) - Swift Concurrency agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 550</sub>
-- [MioMioOS/MioIsland](https://github.com/MioMioOS/MioIsland) - macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch. <sub>⭐ 540 · Swift</sub>
-- [AThevon/TokenEater](https://github.com/AThevon/TokenEater) - Native macOS app to monitor AI usage limits and watch your coding sessions live <sub>⭐ 509 · Swift</sub>
-- [qunqin24/Pulse](https://github.com/qunqin24/Pulse) - Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding tools you have left — a free, open-source macOS monitor on the edge of your screen. <sub>⭐ 496 · Swift</sub>
-- [hhfa008/SwiftAI](https://github.com/hhfa008/SwiftAI) - SwiftAI, write Swift code smart. SwiftAI can generate Model class from JSON now. Codable and HandyJSON is supported. More features will be add. <sub>⭐ 493 · Swift</sub>
-- [spaceamoeba-t/tapq](https://github.com/spaceamoeba-t/tapq) - Multi-modal voice agent for your AI agents. Talk with Claude Code, Codex, and others by voice: answer their prompts, give instructions, ask what they did. Or just nod. <sub>⭐ 483 · Swift</sub>
-- [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder <sub>⭐ 464 · TypeScript</sub>
-- [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill) - Swift Testing agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 442</sub>
-- [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill) - SwiftData agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 426</sub>
-- [waynesutton/builder-skills](https://github.com/waynesutton/builder-skills) - Builder skills for Convex apps. Convex patterns plus a PRD, task.md, changelog, and files.md workflow for Claude Code, Codex, Cursor, and OpenCode. <sub>⭐ 405 · JavaScript</sub>
-- [Nanako0129/syrtis](https://github.com/Nanako0129/syrtis) - AI token usage & quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contribution graph. Tracks Claude Code, Codex, Cursor, OpenCode & 25+ agents locally. <sub>⭐ 397 · Swift</sub>
-- [AThevon/genjutsu](https://github.com/AThevon/genjutsu) - Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web (GSAP, Motion, Three.js, CSS), Android (Jetpack Compose) and Apple (SwiftUI).… <sub>⭐ 393 · Python</sub>
-- [ntd4996/agentpet](https://github.com/ntd4996/agentpet) - A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard. <sub>⭐ 372 · Swift</sub>
-- [aws-solutions/generative-ai-application-builder-on-aws](https://github.com/aws-solutions/generative-ai-application-builder-on-aws) - Generative AI Application Builder on AWS facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience… <sub>⭐ 356 · TypeScript</sub>
-- [perrystreetsoftware/Harmonize](https://github.com/perrystreetsoftware/Harmonize) - Harmonize is a modern linter for Swift that allows you to write architectural lint rules as unit tests. In the era of AI-generated code, it provides your team with deterministic guardrails to keep… <sub>⭐ 339 · Swift</sub>
-- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents. <sub>⭐ 332 · Python</sub>
-- [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) - Open-source app builder engine — intent to working app <sub>⭐ 305 · Python</sub>
-- [PatilShreyas/debroid](https://github.com/PatilShreyas/debroid) - Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps. <sub>⭐ 270 · Kotlin</sub>
-- [codinit-dev/codinit-dev](https://github.com/codinit-dev/codinit-dev) - Local-First Open Source web & mobile AI app builder — install on MacOS, Windows & Linux <sub>⭐ 268 · TypeScript</sub>
-- [michellzappa/headroom](https://github.com/michellzappa/headroom) - Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display. <sub>⭐ 265 · Python</sub>
-- [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64 <sub>⭐ 262 · Shell</sub>
-- [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED displays. <sub>⭐ 254 · TypeScript</sub>
-- [babyvibe/deplao-builder](https://github.com/babyvibe/deplao-builder) - App Desktop integration Zalo, Facebook & Telegram personal for Multi-Account management, CRM, Marketing, POS, ERP, Workflow and AI Assistant integration. Built on top of zca-js, fbchat-v2. <sub>⭐ 243 · TypeScript</sub>
-- [deltaqdev/zedra](https://github.com/deltaqdev/zedra) - Remote control for AI coding agents. Rust + GPUI + QUIC/UDP. Available on iOS/Android <sub>⭐ 233 · Rust</sub>
-- [Anaconda-Labs/building-intelligent-apps-with-anaconda](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) - 10-part module to build AI-native apps. From data analysis to multi-agent model harness. For curious learners and serious AI builders. <sub>⭐ 227 · Jupyter Notebook</sub>
-- [jatingargiitk/saas-builder](https://github.com/jatingargiitk/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents <sub>⭐ 223 · Python</sub>
-- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands. <sub>⭐ 216 · Swift</sub>
-- [husnainpk/SymDex](https://github.com/husnainpk/SymDex) - Repo-local codebase oracle for AI coding agents. Exact symbol search, semantic search, routes, and call graphs across 16 languages, from Python and Go to Dart and Swift. <sub>⭐ 208 · Python</sub>
-- [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms… <sub>⭐ 208</sub>
-- [rajbreno/PocketCode](https://github.com/rajbreno/PocketCode) - Run AI coding agents (OpenCode, Claude Code, Gemini CLI) on Android <sub>⭐ 192 · Shell</sub>
-- [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request. <sub>⭐ 175 · Swift</sub>
-- [eddmann/ClaudeMeter](https://github.com/eddmann/ClaudeMeter) - macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-specific limits with color-coded indicators and smart notifications. <sub>⭐ 172 · Swift</sub>
-- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - CodinIT.dev Demo / Open-source, AI app builder prototype Star to support the project! <sub>⭐ 171 · TypeScript</sub>
-- [HeyPuter/builder](https://github.com/HeyPuter/builder) - AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms. <sub>⭐ 169 · JavaScript</sub>
-- [FlineDev/ContextKit](https://github.com/FlineDev/ContextKit) - Claude Code context engineering & planning system for individual AI development workflows <sub>⭐ 167 · Shell</sub>
-- [st0012/cctop](https://github.com/st0012/cctop) - A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required. <sub>⭐ 153 · Swift</sub>
-- [falktravis/Prompt-Builder](https://github.com/falktravis/Prompt-Builder) - Modular Prompting IDE - A lightweight web app allowing developers to componentize their prompt library for better, faster prompts. <sub>⭐ 131 · TypeScript</sub>
-- [techjarves/open-claude-code-termux](https://github.com/techjarves/open-claude-code-termux) - An automated 1-click installer to run the open-source Claude Code leak natively on Android (Termux) and Windows using 100% free OpenRouter AI models. <sub>⭐ 129 · Shell</sub>
-- [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge is a lightweight, high-performance desktop code executor designed for developers, students, and programming enthusiasts—an AI-powered, feature-rich IDE. <sub>⭐ 126 · Vue</sub>
-- [mortenjust/trainer-mac](https://github.com/mortenjust/trainer-mac) - Trains a model, then generates a complete Xcode project that uses it - no code necessary <sub>⭐ 124 · Swift</sub>
-- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in. <sub>⭐ 115 · Swift</sub>
-- [alltuner/factoryfloor](https://github.com/alltuner/factoryfloor) - AI-powered macOS development workspace. Git worktrees, Claude Code sessions, and dev servers in a single native app. <sub>⭐ 114 · Swift</sub>
-- [Picovoice/pico-cookbook](https://github.com/Picovoice/pico-cookbook) - On-device AI recipes for building private, real-time applications with production-grade voice, language, and vision SDKs. Ready-to-use, open-source code examples. <sub>⭐ 114 · C</sub>
-- [yuga-hashimoto/and-code](https://github.com/yuga-hashimoto/and-code) - Native Android GUI for running AI coding agents locally on-device. No terminal or PC required. <sub>⭐ 111 · Kotlin</sub>
-- [heoblitz/Loupe](https://github.com/heoblitz/Loupe) - Swift CLI that helps AI coding agents inspect runtime UI in Apple platform apps. <sub>⭐ 104 · Swift</sub>
-- [Techopolis/awesome-ios-ai](https://github.com/Techopolis/awesome-ios-ai) - AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development. <sub>⭐ 103 · Shell</sub>
-- [AndyY-Q/launchkit-ai](https://github.com/AndyY-Q/launchkit-ai) - Open-source AI app builder for turning prompts into runnable web apps with sandboxed coding agents. <sub>⭐ 98 · TypeScript</sub>
-- [Amery2010/open-builder](https://github.com/Amery2010/open-builder) - Open Builder is an open-source AI-powered app generator. Build web applications through natural language conversations. <sub>⭐ 93 · TypeScript</sub>
-- [edwluo/vibe-island-updates](https://github.com/edwluo/vibe-island-updates) - Vibe Island releases & update feed — download the latest DMG of the macOS notch panel for 25 AI coding agents (Claude Code, Codex, Cursor & more). <sub>⭐ 93 · HTML</sub>
-- [bleeeet/TermiPet](https://github.com/bleeeet/TermiPet) - A macOS desktop pet assistant that runs alongside Claude Code and the terminal, supporting status cards, quick commands, AI usage tracking, and local-first pet chat. <sub>⭐ 84 · Swift</sub>
-- [SFARPak/AliFullStack](https://github.com/SFARPak/AliFullStack) - Free Local-first Full-Stack AI App Builder & Automation — Build, Test & Deploy with LLMs - Antigravity, Lovable, Bolt opensource Alternative Star if you like it! <sub>⭐ 82 · TypeScript</sub>
-- [bocato/swift-testing-agent-skill](https://github.com/bocato/swift-testing-agent-skill) - Agent Skill providing expert Swift Testing guidance for AI coding tools: covering test doubles, fixtures, async patterns, XCTest migration, and testing best practices. <sub>⭐ 80</sub>
-- [ayush016/android-lead-agent-skills](https://github.com/ayush016/android-lead-agent-skills) - AI coding skills and prompts for Android lead engineers, works with Claude, GitHub Copilot, Gemini, and Cursor. Covers Jetpack Compose, shared element transitions, beautiful UI, architecture… <sub>⭐ 78</sub>
-- [ignatovv/VibePad](https://github.com/ignatovv/VibePad) - Ship code from your couch. Control your AI coding assistant with a gamepad <sub>⭐ 70 · Swift</sub>
-- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - World's first no-code low-code app builder focuses on a data-first approach, allowing users to create applications from scratch. The code generator builds a drag-and-drop React application along with… <sub>⭐ 70 · C#</sub>
-- [TheQmaks/areclaw](https://github.com/TheQmaks/areclaw) - Android Reverse Engineering Command-Line Automation Workspace. AI-driven security analysis with Claude Code. <sub>⭐ 69 · JavaScript</sub>
-- [AbuZar-Ansarii/ClaudeCodeOnPhone](https://github.com/AbuZar-Ansarii/ClaudeCodeOnPhone) - A simple guide to run Claude Code in Termux on Android using OpenRouter free models for AI-assisted coding directly from your phone. <sub>⭐ 68</sub>
-- [totalumlabs/ai-app-builder-open](https://github.com/totalumlabs/ai-app-builder-open) - Open-source AI app builder — turn a prompt into a full-stack Next.js web app with built-in hosting, sandbox, database, auth, AI integration, github bidirectional, multitenant, custom domain & more.… <sub>⭐ 68 · TypeScript</sub>
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - OpenAI Codex および Claude コードの使用法の統計情報を表示し、ログインせずに表示します。 <sub>⭐ 22.1k · Swift</sub>
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - ローカル、オープンソースのAIアプリビルダーでパワーユーザーv0 / Lovable / Replit / Bolt代替スターが好きなら! <sub>⭐ 21.6k · TypeScript</sub>
+- [google/artemis](https://github.com/google/artemis) - ARTEMISは、自然言語の指示を信頼できるAndroidオートメーションに変えます。 エンドツーエンドワークフローを自動化し、ログをキャプチャし、AIコーディングアシスタントとシームレスに統合します。 <sub>⭐ 10.9k · Python</sub>
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - XcodeのAIコーディングアシスタント <sub>⭐ 6.3k · Swift</sub>
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - Claudeコード、CodexなどのAIツールのSwiftUIエージェントスキル。 <sub>⭐ 4.9k</sub>
+- [get-convex/chef](https://github.com/get-convex/chef) - バックエンドを知る唯一のAIアプリビルダー <sub>⭐ 4.6k · TypeScript</sub>
+- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - エキスパートのSwiftUIベストプラクティスをAIコーディングツール(エージェントスキルオープンフォーマット)に導きます。 <sub>⭐ 3.6k · Python</sub>
+- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - MacBookのノッチでリアルタイムAIコーディングエージェントステータスパネル — ライブ状態、承認、30以上のAIコーディングツールに対応し、iPhoneとApple Watchの仲間 <sub>⭐ 2.5k · Swift</sub>
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - AI文脈のripgrep:ゼロ依存性C++23 CLI + MCPサーバー コーディングエージェント。リポジトリを読んだりすることなく、自分が何をしたいのかを見つけ、意味するものをビルドしてみる — ラジウス、テスト・ツー・ラン... <sub>⭐ 2.4k · C++</sub>
+- [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - データバース、モデル主導のアプリ、キャンバスアプリケーション、パワーアプリコンポーネントフレームワーク、ポータル、AI Builder などの Power Apps のサンプルコード。 <sub>⭐ 2.0k · C#</sub>
+- [alan-ai/alan-sdk-android](https://github.com/alan-ai/alan-sdk-android) - アプリのセルフコーディングシステム — Android向けAlan AI SDK <sub>⭐ 1.8k</sub>
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - エキスパートのSwift ConcurrencyガイダンスをAIコーディングツール(エージェントスキルオープンフォーマット):安全な通貨、パフォーマンス最適化、およびSwift 6マイグレーション。 <sub>⭐ 1.7k</sub>
+- [AltanS/collie](https://github.com/AltanS/collie) - iPhoneとAndroid用のHerdrモバイルクライアント。 携帯電話からヘルダー、tmuxまたはzellijでClaudeコード、Pi、CodexおよびOpenCodeを駆動するセルフホストPWAです。 アラートを押すと、アプリストアはありません。 <sub>⭐ 1.2k · TypeScript</sub>
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - オープンソース、セルフホスト型のAIアプリビルダー — エージェントは、各々がプレビューURLに住んでいる独立したサンドボックスで実際のアプリをビルドします。 1つのコマンドで自己ホスト。MIT. <sub>⭐ 958 · Go</sub>
+- [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) - RepoPromptのコミュニティ版:MCP CLIでAIコーディングエージェント用のネイティブmacOSコンテキストエンジニアリングアプリ。 <sub>⭐ 941 · Swift</sub>
+- [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - TypeScript、Rust、Python、Go、Java のフルスタックアプリを視覚的なビルダーと CLI で足場します。フロントエンド、バックエンド、データベース、auth、AI、支払い、DevOps を選択します。 <sub>⭐ 751 · TypeScript</sub>
+- [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud は、独自の GPT ビルダーを束ねるのが好きです。GUI には 1 つの RAG パイプラインがあり、ネイティブに 260 + データソース 2) コンバーセーション アプリ (GPTs) 3) を作成できます。 <sub>⭐ 689 · TypeScript</sub>
+- [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android用のモダンコードエディタ <sub>⭐ 677 · Kotlin</sub>
+- [loocor/codmate](https://github.com/loocor/codmate) - CodMateは、CLI AIセッションの管理のためのmacOS SwiftUIアプリです。Codex、Claude Code、Gemini CLIによって生成された作業をブラウズ、検索、整理、再開、およびレビューします。 それは速度、コンパクトに焦点を合わせます... <sub>⭐ 669 · Swift</sub>
+- [iAmCorey/kooky](https://github.com/iAmCorey/kooky) - AI コーディング体験のための最小限の近代的なターミナル — Sidebar ワークスペース; 水平/垂直分割パン; 1 クリックエージェント起動; パーエージェントアクティビティー読み取りアウト。ワンクリックで作業空間状態をライブ... <sub>⭐ 654 · Swift</sub>
+- [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle:AIアプリビルダー。オープンソース。 <sub>⭐ 555 · TypeScript</sub>
+- [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill) - クロードコード、コーデックス、その他のAIツールのSwift Concurrencyエージェントスキル。 <sub>⭐ 550</sub>
+- [MioMioOS/MioIsland](https://github.com/MioMioOS/MioIsland) - macOS Dynamic Island for AIコーディングエージェント。モニター、承認、およびClaude Codeのセッションをノッチからジャンプします。 <sub>⭐ 540 · Swift</sub>
+- [AThevon/TokenEater](https://github.com/AThevon/TokenEater) - ネイティブmacOSアプリでAIの使用制限を監視し、コーディングセッションのライブを見る <sub>⭐ 509 · Swift</sub>
+- [qunqin24/Pulse](https://github.com/qunqin24/Pulse) - Claudeコード、Codex、Cursor、Copilotと70 +他のAIコーディングツールが残っているのは、画面のエッジに無料でオープンソースのmacOSモニターです。 <sub>⭐ 496 · Swift</sub>
+- [hhfa008/SwiftAI](https://github.com/hhfa008/SwiftAI) - SwiftAIは、Swiftのコードをスマートに書きます。SwiftAIはJSONからモデルクラスを生成することができます。CodableとHandyJSONがサポートされています。より多くの機能は追加されます。 <sub>⭐ 493 · Swift</sub>
+- [spaceamoeba-t/tapq](https://github.com/spaceamoeba-t/tapq) - あなたのAIエージェントのためのマルチモーダルボイスエージェント。 声でクロードコード、コーデックスなどと話してください:彼らのプロンプトに答えて、指示を与えてください、彼らは何をしたか尋ねます。 またはちょうどいいえ。 <sub>⭐ 483 · Swift</sub>
+- [quests-org/quests](https://github.com/quests-org/quests) - オープンソースアプリビルダー <sub>⭐ 464 · TypeScript</sub>
+- [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill) - クロードコード、コーデックスなどのAIツールのスイフトテストエージェントスキル。 <sub>⭐ 442</sub>
+- [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill) - Claudeコード、CodexなどのAIツールのSwiftDataエージェントスキル。 <sub>⭐ 426</sub>
+- [waynesutton/builder-skills](https://github.com/waynesutton/builder-skills) - Convexアプリ用のビルダースキル。 凸版パターンとPRD、task.md、changelog、およびfile.mdワークフローをClaudeコード、コーデックス、カーサー、OpenCodeで作成します。 <sub>⭐ 405 · JavaScript</sub>
+- [Nanako0129/syrtis](https://github.com/Nanako0129/syrtis) - macOSメニューバーのAIトークン使用量とクォータモニター — ネイティブスイフト、液体ガラス、3Dコントリビューショングラフ。 Claudeコード、コーデックス、カーソル、OpenCode&25+エージェントをローカルで追跡します。 <sub>⭐ 397 · Swift</sub>
+- [AThevon/genjutsu](https://github.com/AThevon/genjutsu) - Claudeコード、claude.aiおよびCoworkのための創造的なコーディングのスキル。 ウェブ(GSAP、モーション、3.js、CSS)、アンドロイド(Jetpack Compose)とApple (SwiftUI)を渡る動き、マイクロ相互作用および設計システム。... <sub>⭐ 393 · Python</sub>
+- [ntd4996/agentpet](https://github.com/ntd4996/agentpet) - リアルタイムであなたのAIコーディングエージェント(クロードコード、コーデックス、カーサー、ジェミニ...)を監視し、コードとして成長して、トークンをフィードしたり、それをレベルアップしたり、リーダーボードに登ったりします。 <sub>⭐ 372 · Swift</sub>
+- [aws-solutions/generative-ai-application-builder-on-aws](https://github.com/aws-solutions/generative-ai-application-builder-on-aws) - AWS上でのAIアプリケーションビルダーは、深い経験を必要としない遺伝子知能(AI)アプリケーションの開発、迅速な実験および展開を容易にします。... <sub>⭐ 356 · TypeScript</sub>
+- [perrystreetsoftware/Harmonize](https://github.com/perrystreetsoftware/Harmonize) - Harmonize は、アーキテクチャのlint ルールをユニットテストとして書き込むことを可能にするSwift用のモダンなlinterです。 AI 生成されたコードの時代では、それはあなたのチームに決定的なガードレールを与える... <sub>⭐ 339 · Swift</sub>
+- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Appleの公式エージェントスキルはXcode 27からエクスポート — SwiftUI、UIKitモジュナイゼーション、Swift Testing、Cバインドセーフティ、AIコーディングエージェント向けのセキュリティ強化。 <sub>⭐ 332 · Python</sub>
+- [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) - オープンソースアプリビルダーエンジン — アプリの動作を意図 <sub>⭐ 305 · Python</sub>
+- [PatilShreyas/debroid](https://github.com/PatilShreyas/debroid) - オートマチックで、AIコーディングエージェント用に設計されたヘッドレスのAndroidデバッガ。ランタイムメモリを調べてブレイクポイントを設定し、ライブアプリをデバッグします。 <sub>⭐ 270 · Kotlin</sub>
+- [codinit-dev/codinit-dev](https://github.com/codinit-dev/codinit-dev) - ローカルファーストオープンソースのWeb&モバイルAIアプリビルダー — MacOS、WindowsおよびLinuxにインストール <sub>⭐ 268 · TypeScript</sub>
+- [michellzappa/headroom](https://github.com/michellzappa/headroom) - ローカルファーストのAIコーディングクォータと船の状態、あなたのメニューバー、iPhone、時計、およびESP32デスクディスプレイ上の。 <sub>⭐ 265 · Python</sub>
+- [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) - Android/Termux 用の OpenCode AI コーディングアシスタント - aarch64 用クロスコンパイル Bun + WebKit/JSC <sub>⭐ 262 · Shell</sub>
+- [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - ローカルダッシュボードとAIコーディングエージェントの物理的な制御 — ネイティブ3D水族館、ストリームデッキ、Apple / Androidアプリ、E-ink、ESP32およびLEDディスプレイ。 <sub>⭐ 254 · TypeScript</sub>
+- [babyvibe/deplao-builder](https://github.com/babyvibe/deplao-builder) - アプリデスクトップ統合 Zalo, Facebook & Telegram 個人マルチアカウント管理のために, CRM, マーケティング, POS, ERP, ワークフローとAIアシスタントの統合. zca-jsの上に構築されました, fbchat-v2. <sub>⭐ 243 · TypeScript</sub>
+- [deltaqdev/zedra](https://github.com/deltaqdev/zedra) - AIコーディングエージェントのリモートコントロール。 Rust + GPUI + QUIC/UDP. iOS / Androidで利用可能 <sub>⭐ 233 · Rust</sub>
+- [Anaconda-Labs/building-intelligent-apps-with-anaconda](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) - 10 部モジュールで AI ネイティブアプリを構築。データ解析からマルチエージェントモデルハーネスまで、好奇心旺盛な学習者や深刻なAI ビルダーがいます。 <sub>⭐ 227 · Jupyter Notebook</sub>
+- [jatingargiitk/saas-builder](https://github.com/jatingargiitk/saas-builder) - オートノムースAIエージェントを用いたフルスタックアプリをビルドするAIネイティブSaaSフレームワーク <sub>⭐ 223 · Python</sub>
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - セッションをブラウズしたり、差分を探索したり、コマンドを再実行できるClaudeコードのネイティブmacOSコンパニオン。 <sub>⭐ 216 · Swift</sub>
+- [husnainpk/SymDex](https://github.com/husnainpk/SymDex) - AI コーディングエージェントの Repo-local コードベース Oracle. Exact シンボル検索, セマンティック検索, ルート, 16 言語でグラフを呼び出します。, Python から Dart and Swift へ. <sub>⭐ 208 · Python</sub>
+- [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - SwiftUIフロントエンドデザインスキル - AIのスロピネス、設計方向コンサルティング、ブランドアセットガイドライン、および5次元レビューに関する6つの鉄則。 すべてのAIエージェントプラットフォームをサポート... <sub>⭐ 208</sub>
+- [rajbreno/PocketCode](https://github.com/rajbreno/PocketCode) - Android上でAIコーディングエージェント(OpenCode、Claudeコード、Gemini CLI)を実行します <sub>⭐ 192 · Shell</sub>
+- [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - Claudeコード用のmacOSデスクトップウィジェット。Claudeが何をしているかを見て、音声で応答し、許可リクエストを見逃すことはありません。 <sub>⭐ 175 · Swift</sub>
+- [eddmann/ClaudeMeter](https://github.com/eddmann/ClaudeMeter) - リアルタイムでClaude.aiプランの使用状況を追跡するためのmacOSメニューバーアプリ。5時間のセッション、週7日、Sonnet固有の制限を色分け表示器とスマート通知で監視します。 <sub>⭐ 172 · Swift</sub>
+- [Gerome-Elassaad/CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - CodinIT.devデモ/オープンソース、AIアプリビルダープロトタイプスターがプロジェクトをサポート! <sub>⭐ 171 · TypeScript</sub>
+- [HeyPuter/builder](https://github.com/HeyPuter/builder) - サイトとアプリを作成するAIビルダー! Lovable、Replit、V0などのプラットフォームのオープンソース代替手段。 <sub>⭐ 169 · JavaScript</sub>
+- [FlineDev/ContextKit](https://github.com/FlineDev/ContextKit) - 個別AI開発ワークフローのためのClaudeコードコンテクストエンジニアリング&プランニングシステム <sub>⭐ 167 · Shell</sub>
+- [st0012/cctop](https://github.com/st0012/cctop) - キーボードファーストのメニューバーアプリで、AIコーディングセッションを監視してジャンプできます。最低限の設定が必要です。 <sub>⭐ 153 · Swift</sub>
+- [falktravis/Prompt-Builder](https://github.com/falktravis/Prompt-Builder) - モジュラー・プロファイティングIDE - 軽量なWebアプリで、開発者がプロンプトライブラリをコンポーネント化し、より高速なプロンプトを実現します。 <sub>⭐ 131 · TypeScript</sub>
+- [techjarves/open-claude-code-termux](https://github.com/techjarves/open-claude-code-termux) - 自動ワンクリックインストーラーで、オープンソースのClaudeコードリークをAndroid(Termux)とWindows上で100%無料OpenRouter AIモデルを使って実行できます。 <sub>⭐ 129 · Shell</sub>
+- [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge は、開発者や学生、プログラミング愛好家向けに設計された軽量で高性能なデスクトップ・コードのエクセプターです。AI に力を入れた機能が豊富なIDEです。 <sub>⭐ 126 · Vue</sub>
+- [mortenjust/trainer-mac](https://github.com/mortenjust/trainer-mac) - モデルをトレインし、それを使用する完全なXcodeプロジェクトを生成します - 必要なコードなし <sub>⭐ 124 · Swift</sub>
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Apple Silicon でコードを安全に実行するために、分離された MacOS または Linux VM をバックアップします。 <sub>⭐ 115 · Swift</sub>
+- [alltuner/factoryfloor](https://github.com/alltuner/factoryfloor) - AI搭載のmacOS開発ワークスペース。Gitワークツリー、Claudeコードセッション、および1つのネイティブアプリでデベロッパーサーバー。 <sub>⭐ 114 · Swift</sub>
+- [Picovoice/pico-cookbook](https://github.com/Picovoice/pico-cookbook) - オンデバイスAIは、制作レベルの音声、言語、およびビジョンSDKでプライベートなリアルタイムアプリケーションを構築するためのレシピです。 使いやすいオープンソースのコード例です。 <sub>⭐ 114 · C</sub>
+- [yuga-hashimoto/and-code](https://github.com/yuga-hashimoto/and-code) - ローカルのデバイス上でAIコーディングエージェントを実行するためのネイティブAndroid GUI。端末やPCは必要ありません。 <sub>⭐ 111 · Kotlin</sub>
+- [heoblitz/Loupe](https://github.com/heoblitz/Loupe) - Swift CLIは、AIコーディングエージェントがAppleプラットフォームアプリでランタイムUIを検査するのに役立ちます。 <sub>⭐ 104 · Swift</sub>
+- [Techopolis/awesome-ios-ai](https://github.com/Techopolis/awesome-ios-ai) - AIエージェントのスキル、エージェントチーム、MCPサーバー、およびAIコーディングアシスタントをSwiftやiOS開発でより良いものにするツール。 <sub>⭐ 103 · Shell</sub>
+- [AndyY-Q/launchkit-ai](https://github.com/AndyY-Q/launchkit-ai) - オープンソースのAIアプリビルダーで、サンドボックス化されたコーディングエージェントを使って実行可能なWebアプリケーションにプロンプトをオンにします。 <sub>⭐ 98 · TypeScript</sub>
+- [Amery2010/open-builder](https://github.com/Amery2010/open-builder) - Open BuilderはオープンソースのAIを搭載したアプリジェネレータです。自然言語会話を通じてWebアプリケーションを構築します。 <sub>⭐ 93 · TypeScript</sub>
+- [edwluo/vibe-island-updates](https://github.com/edwluo/vibe-island-updates) - Vibe Islandは、25AIコーディングエージェント用のmacOSノッチパネルの最新のDMGをダウンロード(Claudeコード、コーデックス、カーソルなど)。 <sub>⭐ 93 · HTML</sub>
+- [bleeeet/TermiPet](https://github.com/bleeeet/TermiPet) - Claudeコードとターミナル、サポートステータスカード、クイックコマンド、AI使用トラッキング、ローカルファーストペットチャットと一緒に動作するmacOSデスクトップペットアシスタント。 <sub>⭐ 84 · Swift</sub>
+- [SFARPak/AliFullStack](https://github.com/SFARPak/AliFullStack) - ローカルファーストのフルスタックAIアプリビルダーと自動化 — LLMでビルド、テスト&デプロイ - Antigravity、Lovable、ボルトオープンソースオルタナティブスターが好きなら! <sub>⭐ 82 · TypeScript</sub>
+- [bocato/swift-testing-agent-skill](https://github.com/bocato/swift-testing-agent-skill) - エージェントスキルは、AIコーディングツールのエキスパートSwiftテストガイダンスを提供します。テストダブル、フィクスチャ、非同期パターン、XCTestマイグレーションをカバーし、ベストプラクティスをテストします。 <sub>⭐ 80</sub>
+- [ayush016/android-lead-agent-skills](https://github.com/ayush016/android-lead-agent-skills) - アンドロイドリードエンジニアのためのAIコーディングスキルとプロンプト, クロードで動作します。, GitHub Copilot, ジェミニ, そして、カーサー. カバー Jetpack Compose, 共有要素トランジション, 美しいUI, アーキテクチャ... <sub>⭐ 78</sub>
+- [ignatovv/VibePad](https://github.com/ignatovv/VibePad) - あなたのソファからコードを出荷. ゲームパッドであなたのAIコーディングアシスタントを制御する <sub>⭐ 70 · Swift</sub>
+- [Neopric-Inc/NeoApps.AI-CodeGenerator](https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator) - 世界初のコードノンコードのアプリビルダーは、データ優先アプローチに焦点を当てています。これにより、ユーザーはゼロからアプリケーションを作成できます。 コードジェネレーターはドラッグアンドドロップReactアプリケーションを一緒に構築します... <sub>⭐ 70 · C#</sub>
+- [TheQmaks/areclaw](https://github.com/TheQmaks/areclaw) - Androidのリバースエンジニアリングコマンドライン自動化ワークスペース。ClaudeコードによるAI主導のセキュリティ分析。 <sub>⭐ 69 · JavaScript</sub>
+- [AbuZar-Ansarii/ClaudeCodeOnPhone](https://github.com/AbuZar-Ansarii/ClaudeCodeOnPhone) - AndroidでClaudeコードを実行する簡単なガイドでは、OpenRouterの無料のモデルを使用してAndroid上でお使いの携帯電話から直接コーディングをアシストします。 <sub>⭐ 68</sub>
+- [totalumlabs/ai-app-builder-open](https://github.com/totalumlabs/ai-app-builder-open) - Open-source AIアプリビルダー — 組み込みホスティング、サンドボックス、データベース、auth、AI統合、github双方向、マルチテナント、カスタムドメインなどのフルスタックNext.js Webアプリケーションにプロンプトをオンにします。... <sub>⭐ 68 · TypeScript</sub>
 
 ## 🎙️ AIによる音声、画像認識、カメラ
 
 > アプリ向けの音声認識、コンピュータビジョン、カメラ機能。
 
-- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media. <sub>⭐ 37.1k · C++</sub>
-- [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally <sub>⭐ 10.5k · Java</sub>
-- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon <sub>⭐ 6.4k · Swift</sub>
-- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models. <sub>⭐ 5.7k · TypeScript</sub>
-- [hyperoslo/Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside <sub>⭐ 3.7k · Swift</sub>
-- [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 - Controlling Streaming Platforms using Eye and Hand Detection <sub>⭐ 2.4k · JavaScript</sub>
-- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision <sub>⭐ 1.9k · Python</sub>
-- [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online <sub>⭐ 1.9k · JavaScript</sub>
-- [cvzone/cvzone](https://github.com/cvzone/cvzone) - This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries. <sub>⭐ 1.3k · Python</sub>
-- [yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web… <sub>⭐ 1.2k · C</sub>
-- [laurentkneip/opengv](https://github.com/laurentkneip/opengv) - OpenGV is a collection of computer vision methods for solving geometric vision problems. It is hosted and maintained by the Mobile Perception Lab of ShanghaiTech. <sub>⭐ 1.1k · C++</sub>
-- [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices. <sub>⭐ 1.1k · Swift</sub>
-- [jaredrhod/barehands](https://github.com/jaredrhod/barehands) - Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers. <sub>⭐ 1.0k · HTML</sub>
-- [jipraks/yt-short-clipper](https://github.com/jipraks/yt-short-clipper) - Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-tracking portrait reframe, and word-by-word captions. <sub>⭐ 1.0k · TypeScript</sub>
-- [asus4/tf-lite-unity-sample](https://github.com/asus4/tf-lite-unity-sample) - TensorFlow Lite Samples on Unity <sub>⭐ 962 · C#</sub>
-- [Viral-Doshi/Gesture-Controlled-Virtual-Mouse](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python. <sub>⭐ 872 · Python</sub>
-- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - The easiest way to transcribe audio in Swift <sub>⭐ 786 · Swift</sub>
-- [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) - Useful links of different content related to AI, Computer Vision, and Robotics. <sub>⭐ 786</sub>
-- [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation <sub>⭐ 747 · C++</sub>
-- [anilsathyan7/Portrait-Segmentation](https://github.com/anilsathyan7/Portrait-Segmentation) - Real-time portrait segmentation for mobile devices <sub>⭐ 666 · Jupyter Notebook</sub>
-- [tetherto/qvac](https://github.com/tetherto/qvac) - Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS… <sub>⭐ 661 · TypeScript</sub>
-- [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android Input Method Editor (IME) based on Whisper <sub>⭐ 642 · Java</sub>
-- [Danial-Kord/DigiHuman](https://github.com/Danial-Kord/DigiHuman) - Automatic 3D Character animation using Pose Estimation and Landmark Generation techniques <sub>⭐ 587 · C#</sub>
-- [sarim2000/pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker) - PennyWise automatically reads transaction SMS messages and transforms them into organized financial data with on-device AI assistance. No manual entry, no cloud processing, complete privacy. <sub>⭐ 566 · Kotlin</sub>
-- [mmmmmm44/VTuber-Python-Unity](https://github.com/mmmmmm44/VTuber-Python-Unity) - An Implementation of VTuber (Both 3D and Live2D) using Python and Unity. Providing face movement tracking, eye blinking detection, iris detection and tracking and mouth movement tracking using CPU… <sub>⭐ 557 · C#</sub>
-- [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters) - Add filters (background blur, etc) to your webcam on Linux. <sub>⭐ 552 · Python</sub>
-- [andypotato/fingerpose](https://github.com/andypotato/fingerpose) - TFJS based finger pose classifier for hand landmarks detected by the MediaPipe Handpose model <sub>⭐ 509 · JavaScript</sub>
-- [geaxgx/depthai_hand_tracker](https://github.com/geaxgx/depthai_hand_tracker) - Running Google Mediapipe Hand Tracking models on Luxonis DepthAI hardware (OAK-D-lite, OAK-D, OAK-1,...) <sub>⭐ 480 · Python</sub>
-- [woheller69/whisperIMEplus](https://github.com/woheller69/whisperIMEplus) - Android Input Method Editor (IME) based on RTranslators Whisper implementation <sub>⭐ 421 · Java</sub>
-- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library <sub>⭐ 395 · TypeScript</sub>
-- [kinivi/tello-gesture-control](https://github.com/kinivi/tello-gesture-control) - Control DJI Tello using hand gesture recognition on drones camera video-stream. Feel free to contribute! <sub>⭐ 343 · Python</sub>
-- [TesseraktZero/UnityHandTrackingWithMediapipe](https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe) - Realtime hand tracking and finger tracking in Unity using Mediapipe <sub>⭐ 322 · C#</sub>
-- [madelinegannon/example-mediapipe-udp](https://github.com/madelinegannon/example-mediapipe-udp) - Connecting openFrameworks to Google MediaPipe Machine Learning Framework over UDP <sub>⭐ 309 · C++</sub>
-- [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - A powerful AI keyboard for reliable speech transcription <sub>⭐ 295 · Kotlin</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [dronefreak/human-action-classification](https://github.com/dronefreak/human-action-classification) - Human action classification system with pose-based (MediaPipe) and video-based (3D CNN) models. Features 100+ architectures for real-time pose classification and temporal models pretrained on… <sub>⭐ 268 · Python</sub>
-- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - Create and control 3D shapes using hand gestures in real-time. Built with mediapipe computer vision and threejs <sub>⭐ 263 · JavaScript</sub>
-- [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs) - The Google mediapipe AI library. Write AI inference applications for image recognition, text classification, audio / video processing and more, in Rust and run them in the secure WasmEdge sandbox.… <sub>⭐ 248 · Rust</sub>
-- [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) - Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision <sub>⭐ 232 · JavaScript</sub>
-- [zmurez/MediaPipePyTorch](https://github.com/zmurez/MediaPipePyTorch) - Port of MediaPipe tflite models to PyTorch <sub>⭐ 231 · Python</sub>
-- [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application <sub>⭐ 224 · Python</sub>
-- [keijiro/SelfieBarracuda](https://github.com/keijiro/SelfieBarracuda) - MediaPipe Selfie segmentation model on Unity Barracuda <sub>⭐ 221 · C#</sub>
-- [mouredev/tggenerator](https://github.com/mouredev/tggenerator) - Generador de logotipos de eSports por IA (con fines académicos durante el evento Tenerife GG) <sub>⭐ 218 · Kotlin</sub>
-- [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - A openCV program that detects faces and displays Tiktok cats. <sub>⭐ 215 · Python</sub>
-- [creativeIKEP/BlazePoseBarracuda](https://github.com/creativeIKEP/BlazePoseBarracuda) - BlazePoseBarracuda is a human 2D/3D pose estimation neural network that runs the Mediapipe Pose (BlazePose) pipeline on the Unity Barracuda with GPU. <sub>⭐ 212 · C#</sub>
-- [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project. <sub>⭐ 205 · JavaScript</sub>
-- [DictionLabs/Diction](https://github.com/DictionLabs/Diction) - Open Source self-hosted alternative to WisprFlow - iOS voice AI keyboard <sub>⭐ 204 · Go</sub>
-- [JaeHeee/FlutterWithMediaPipe](https://github.com/JaeHeee/FlutterWithMediaPipe) - Flutter with MediaPipe ML models <sub>⭐ 200 · Dart</sub>
-- [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) - Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud. <sub>⭐ 200 · Python</sub>
-- [LingDong-/handpose-facemesh-demos](https://github.com/LingDong-/handpose-facemesh-demos) - 8 minimalistic templates for tfjs mediapipe handpose and facemesh <sub>⭐ 192 · JavaScript</sub>
-- [Nawaf-Rayhan585/YOLO_Projects](https://github.com/Nawaf-Rayhan585/YOLO_Projects) - 19 ready-to-run computer vision projects with YOLO, ByteTrack & MediaPipe — counting, safety, ANPR, heatmaps and more <sub>⭐ 192 · Python</sub>
-- [ritesh-kanwar/Cashiro](https://github.com/ritesh-kanwar/Cashiro) - Cashiro is a comprehensive financial tracking manager that Turn bank SMS and PDF Statements into a clean, searchable money timeline with on-device AI assistance. 100% private, no cloud processing. <sub>⭐ 191 · Kotlin</sub>
-- [shubham0204/OnDevice-Face-Recognition-Android](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) - On-device customizable face recognition in Android with FaceNet and an embedded vector database <sub>⭐ 186 · Kotlin</sub>
-- [collidingScopes/threejs-handtracking-101](https://github.com/collidingScopes/threejs-handtracking-101) - A threejs / WebGL / MediaPipe-powered interactive demo that allows you to control a 3D sphere using hand gestures. <sub>⭐ 181 · HTML</sub>
-- [Asadullah-Dal17/Eyes-Position-Estimator-Mediapipe](https://github.com/Asadullah-Dal17/Eyes-Position-Estimator-Mediapipe) - This is Eyes Tracking Project, here we will use computer vision techniques to extracting the eyes, Mediapipe python modules will provide the face landmarks <sub>⭐ 180 · Python</sub>
-- [ErickWendel/live-recognizing-multiple-gestures-tensorflowjs](https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs) - Examples from my video about recognizing multiple hand gestures with tensorflowjs and fingerpose <sub>⭐ 180 · JavaScript</sub>
-- [patlevin/face-detection-tflite](https://github.com/patlevin/face-detection-tflite) - Face and iris detection for Python based on MediaPipe <sub>⭐ 177 · Python</sub>
-- [creativeIKEP/HolisticMotionCapture](https://github.com/creativeIKEP/HolisticMotionCapture) - HolisticMotionCapture is an application and package that can capture the motion of a person with only a monocular color camera and move the VRM avatar's pose, face, and hands. <sub>⭐ 175 · C#</sub>
-- [everythingishacked/CheekyKeys](https://github.com/everythingishacked/CheekyKeys) - Use Python, OpenCV, and MediaPipe to control a keyboard with facial gestures <sub>⭐ 168 · Python</sub>
-- [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) - Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Built with mediapipe computer vision, threejs, tonejs <sub>⭐ 165 · JavaScript</sub>
-- [artbyjazi/autoclip](https://github.com/artbyjazi/autoclip) - Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key. <sub>⭐ 159 · Python</sub>
-- [e-candeloro/Driver-State-Detection](https://github.com/e-candeloro/Driver-State-Detection) - A real time, webcam based, driver attention state detection/monitoring system in Python3 using OpenCV and Mediapipe <sub>⭐ 155 · Python</sub>
-- [tryvinci/vinci-clips](https://github.com/tryvinci/vinci-clips) - Open source AI-powered video clipping platform that automatically transforms long-form videos into engaging short clips optimized for social media platforms. <sub>⭐ 153 · TypeScript</sub>
-- [jasonmayes/WebAIAgent](https://github.com/jasonmayes/WebAIAgent) - A Web AI Agent running entirely client side in browser, that's capable of controlling a fictional flights webpage, to get the job done by using Google's Gemma 2 (2B) model in JavaScript via WebGPU… <sub>⭐ 145 · JavaScript</sub>
-- [BIGBOSS-dedsec/OpenCV-Unity-To-Build-3DPerson](https://github.com/BIGBOSS-dedsec/OpenCV-Unity-To-Build-3DPerson) - Use OpenCV image capture with the powerful Mediapipe library to achieve human movement detection and recognition; The recognition results are synchronized to Unity in real time to realize the… <sub>⭐ 141 · C#</sub>
-- [j3soon/whisper-to-input](https://github.com/j3soon/whisper-to-input) - An Android keyboard that performs speech-to-text (STT/ASR) with OpenAI Whisper and input the recognized text; Supports English, Chinese, Japanese, etc. and even mixed languages. <sub>⭐ 140 · Kotlin</sub>
-- [NaufalRizqullah/opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping) - Ultimate AI Auto-Clipper — Transform long-form videos & podcasts into viral shorts! Features smart face-tracking, kinetic karaoke subtitles, contextual B-roll, AI voice-overs, and auto-uploaders… <sub>⭐ 140 · Python</sub>
-- [bandinopla/three-mediapipe-rig](https://github.com/bandinopla/three-mediapipe-rig) - A ThreeJs module to quickly setup a Media Pipe skeletal rig with minimal code. <sub>⭐ 138 · TypeScript</sub>
-- [thillai-c/AI-Fitness-trainer](https://github.com/thillai-c/AI-Fitness-trainer) - An AI model used to help with the workout session by keeping track of counts and movement. <sub>⭐ 130 · Python</sub>
-- [Furkan-Gulsen/Sport-With-AI](https://github.com/Furkan-Gulsen/Sport-With-AI) - The human body is detected with the help of the Mediapipe library. Then, using the mathematical methods applied, it is determined how much the exercise count is done. <sub>⭐ 129 · Jupyter Notebook</sub>
-- [keijiro/IrisBarracuda](https://github.com/keijiro/IrisBarracuda) - MediaPipe iris landmark model for Unity Barracuda <sub>⭐ 129 · C#</sub>
-- [NgoQuocBao1010/Exercise-Correction](https://github.com/NgoQuocBao1010/Exercise-Correction) - Make use of the power of Mediapipe’s pose detection, this project is built in order to analyze, detect and classifying the forms of fitness exercises. <sub>⭐ 128 · Jupyter Notebook</sub>
-- [keijiro/FaceLandmarkBarracuda](https://github.com/keijiro/FaceLandmarkBarracuda) - MediaPipe face landmark detection model for Unity Barracuda <sub>⭐ 125 · C#</sub>
-- [SCRN-VRC/3D-Face-Landmark-in-UnityCG-HLSL](https://github.com/SCRN-VRC/3D-Face-Landmark-in-UnityCG-HLSL) - 3D face landmark detection using MediaPipe's Facemesh and Iris tracking models <sub>⭐ 123 · C++</sub>
-- [ChrisChen667788/pixcull](https://github.com/ChrisChen667788/pixcull) - Local-first AI photo culling for professional photographers — 6-axis rubric, XMP/IPTC export, Lightroom & Capture One ready. <sub>⭐ 119 · Python</sub>
-- [jays0606/mediapipe-facelandmark-demo](https://github.com/jays0606/mediapipe-facelandmark-demo) - Mediapipe faceLandmarker demo project <sub>⭐ 119 · TypeScript</sub>
-- [LintangWisesa/MediaPipe-in-JavaScript](https://github.com/LintangWisesa/MediaPipe-in-JavaScript) - A simple demo of MediaPipe's ML solution in pure JavaScript <sub>⭐ 119 · HTML</sub>
-- [creativeIKEP/HolisticBarracuda](https://github.com/creativeIKEP/HolisticBarracuda) - HolisticBarracuda is the Unity Package that simultaneously estimates 33 pose, 21 per-hand, and 468 facial landmarks on the Unity Barracuda with GPU. <sub>⭐ 118 · C#</sub>
-- [marlenezw/face-and-body-detector-with-mediapipe](https://github.com/marlenezw/face-and-body-detector-with-mediapipe) - This code detects face and body landmarks using mediapipe. <sub>⭐ 118 · Jupyter Notebook</sub>
-- [alex-vt/WhisperInput](https://github.com/alex-vt/WhisperInput) - Offline voice input panel & keyboard with punctuation for Android. <sub>⭐ 115 · Java</sub>
-- [d4min/aircanvas](https://github.com/d4min/aircanvas) - AirCanvas is a computer vision project that lets you draw using hand gestures. Built with OpenCV and MediaPipe, it tracks your hand movements to simulate basic painting—like MS Paint, but without a… <sub>⭐ 115 · Python</sub>
-- [Morteza-Asadi-Shalmaiy/facial-recognition-pipeline](https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline) - Local, API-free multi-stage identity pipeline: face recognition → liveness detection → super-resolution fallback → person Re-ID, built for realistic CCTV-style conditions. <sub>⭐ 113 · Jupyter Notebook</sub>
-- [mowshon/age-and-gender](https://github.com/mowshon/age-and-gender) - Age and gender estimation from face images in Python. One pip install: no compiler, pretrained dlib models bundled and running on ONNX Runtime. Works with any face detector: OpenCV, MediaPipe… <sub>⭐ 109 · Python</sub>
-- [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - Android app for transcribing voice messages locally on-device, with no internet required. <sub>⭐ 109 · Kotlin</sub>
-- [sanderdesnaijer/map-gesture-controls](https://github.com/sanderdesnaijer/map-gesture-controls) - Control OpenLayers, Google Maps, and Leaflet with hand gestures via webcam. Uses MediaPipe for real time hand tracking to pan, zoom, and navigate maps hands free in the browser. No backend required. <sub>⭐ 103 · TypeScript</sub>
-- [epalosh/openfov](https://github.com/epalosh/openfov) - Open-source webcam head tracking for iRacing. Achieve VR-style POV with any standard webcam! <sub>⭐ 102 · Python</sub>
-- [pntt3011/mediapipe_face_iris_cpp](https://github.com/pntt3011/mediapipe_face_iris_cpp) - Real-time Face and Iris Landmarks Detection using C++ <sub>⭐ 102 · C++</sub>
-- [balaboom123/signdata-slt](https://github.com/balaboom123/signdata-slt) - Modular, config-driven pipeline for preprocessing Sign Language datasets with pose and video outputs using MediaPipe, MMPose, and YOLO.. <sub>⭐ 101 · Python</sub>
-- [ravigithub19/ai-virtual-mouse](https://github.com/ravigithub19/ai-virtual-mouse) - Developed an AI-based system to control the mouse cursor using Python and OpenCV with the real-time camera. Fingertip location is mapped to RGB images to control the mouse cursor. <sub>⭐ 101 · Python</sub>
-- [PINTO0309/hand-gesture-recognition-using-onnx](https://github.com/PINTO0309/hand-gesture-recognition-using-onnx) - This is a hand gesture recognition program that replaces the entire MediaPipe process with ONNX. Simultaneous detection of multiple palms and a simple tracker are additionally implemented. In… <sub>⭐ 95 · Jupyter Notebook</sub>
-- [MustafaLotfi/Paper-Piano](https://github.com/MustafaLotfi/Paper-Piano) - Using this program, you can play or control music by hand gesture. Also you can play a Paper Piano. <sub>⭐ 94 · Python</sub>
-- [dgovor/Sign-Language-Translator](https://github.com/dgovor/Sign-Language-Translator) - Neural Network that is able to translate any sign language into text. <sub>⭐ 93 · Python</sub>
-- [maceq687/FullBodyPoseEstimation](https://github.com/maceq687/FullBodyPoseEstimation) - Full body pose estimation to be used with HMD (Quest2) built in Unity <sub>⭐ 93 · C#</sub>
-- [bharath5673/3d_human_pose](https://github.com/bharath5673/3d_human_pose) - Real-time 3D human pose estimation from video streams using deep learning, with 3D skeleton visualization and analytics. <sub>⭐ 91 · Python</sub>
-- [google-ai-edge/mediapipe-samples-web](https://github.com/google-ai-edge/mediapipe-samples-web) - A collection of examples for the MediaPipe Task APIs that can run fully inside your browser. <sub>⭐ 86 · TypeScript</sub>
-- [heimoshuiyu/whisper-fastapi](https://github.com/heimoshuiyu/whisper-fastapi) - A very simple whisper Python FastAPI for OpenAI API, Android voice-typing (konele), Home Assistant (wyoming), and a voice-typing script on Linux and MacOS! <sub>⭐ 86 · Python</sub>
-- [ryanontheinside/ComfyUI_RealtimeNodes](https://github.com/ryanontheinside/ComfyUI_RealtimeNodes) - ComfyUI Nodes Capable of Real-Time <sub>⭐ 84 · Python</sub>
-- [Boubker10/SafeDriveVision](https://github.com/Boubker10/SafeDriveVision) - SafeDriveVision is a computer vision project aimed at enhancing road safety. This project leverages deep learning models to detect and alert in real-time the dangerous behaviors of drivers, such as… <sub>⭐ 83 · Jupyter Notebook</sub>
-- [bensonruan/Face-Mask](https://github.com/bensonruan/Face-Mask) - Real time webcam face detection, protect yourself from COVID19 with a virtual mask <sub>⭐ 82 · JavaScript</sub>
-- [breathingcyborg/mediapipe-face-effects](https://github.com/breathingcyborg/mediapipe-face-effects) - Realtime Face Effects in Browser using mediapipe and three js. <sub>⭐ 81 · JavaScript</sub>
-- [ahmetvural79/CameraRealtimeStyle](https://github.com/ahmetvural79/CameraRealtimeStyle) - Restyle your live webcam in real time — point your finger left/right to switch styles (MediaPipe hand tracking + fal-ai/flux-2/klein/realtime). <sub>⭐ 78 · JavaScript</sub>
-- [brilliantlabsAR/noa-for-ios](https://github.com/brilliantlabsAR/noa-for-ios) - You AI companion. ChatGPT and translation for Monocle AR <sub>⭐ 78 · Swift</sub>
-- [jiuqiant/mediapipe_face_detection_aar_example](https://github.com/jiuqiant/mediapipe_face_detection_aar_example) - MediaPipe face detection gpu demo with MediaPipe's Android archive library <sub>⭐ 78 · Java</sub>
-- [kafkasl/phone-whisper](https://github.com/kafkasl/phone-whisper) - Simple voice transcription for android phones with Whisper and local models <sub>⭐ 78 · Kotlin</sub>
-- [Mobile-Artificial-Intelligence/maise](https://github.com/Mobile-Artificial-Intelligence/maise) - Maise is an open-source android speech engine designed to provide a powerful and flexible platform for speech sythesis on the edge. <sub>⭐ 78 · Kotlin</sub>
-- [erfansn/AR-Touch](https://github.com/erfansn/AR-Touch) - Obtain the power of touchless interaction with display screens <sub>⭐ 77 · Kotlin</sub>
-- [lanthaon/sl-animation-blender](https://github.com/lanthaon/sl-animation-blender) - A project where motion capture data is created based on the AI solution MediaPipe Holistic and applied to a 3D character in Blender <sub>⭐ 77 · Python</sub>
-- [Pavankunchala/Work-Showcase](https://github.com/Pavankunchala/Work-Showcase) - Deep Learning and Computer Vision Applications using Streamlit <sub>⭐ 77 · Python</sub>
-- [shahriarshafin/face-hand-tracker](https://github.com/shahriarshafin/face-hand-tracker) - Web-based real time face and hand landmark detection using Mediapipe in a Next.js application <sub>⭐ 75 · JavaScript</sub>
-- [Yulv-git/Model-Inference-Deployment](https://github.com/Yulv-git/Model-Inference-Deployment) - A curated list of awesome inference deployment framework of artificial intelligence (AI) models. OpenVINO, TensorRT, MediaPipe, TensorFlow Lite, TensorFlow Serving, ONNX Runtime, LibTorch, NCNN, TNN… <sub>⭐ 75 · Python</sub>
-- [alireza787b/Python-Gaze-Face-Tracker](https://github.com/alireza787b/Python-Gaze-Face-Tracker) - Real-time eye, facial-landmark, head-pose, blink, and gaze tracking for aviation human factors and HCI <sub>⭐ 74 · Python</sub>
-- [rpdrewes/whisper-websocket-server](https://github.com/rpdrewes/whisper-websocket-server) - Self hosted high quality voice recognition for de-googled Android using whisper. Like Siri or OK Google. <sub>⭐ 74 · Python</sub>
-- [cedriclmenard/irislandmarks.pytorch](https://github.com/cedriclmenard/irislandmarks.pytorch) - PyTorch implementation of Google's Mediapipe Iris Landmark model. The original code uses TFLite and their mediapipe workflow, which wouldn't work well with my codebase. <sub>⭐ 71 · Jupyter Notebook</sub>
-- [Serkali-sudo/auto-subtitle-generator](https://github.com/Serkali-sudo/auto-subtitle-generator) - An Android app that automatically generates subtitles for videos locally using whisper or vosk <sub>⭐ 71 · C</sub>
-- [geaxgx/depthai_handface](https://github.com/geaxgx/depthai_handface) - Running Google Mediapipe Face Mesh and Hand Tracking models on Luxonis DepthAI devices <sub>⭐ 69 · Python</sub>
-- [kevinjosethomas/sign-language-processing](https://github.com/kevinjosethomas/sign-language-processing) - An ASL fingerspell recognition and semantic pose retrieval interface (arXiv, GitHub, YouTube) <sub>⭐ 69 · Python</sub>
-- [positive666/mediapipe_PoseEstimation_pytorch](https://github.com/positive666/mediapipe_PoseEstimation_pytorch) - based on mediapipe human Estimation project for pytorch, provide function(face_mesh,iris,pose,hand) <sub>⭐ 69 · Python</sub>
-- [shenasa-ai/head-pose-estimation](https://github.com/shenasa-ai/head-pose-estimation) - Head Pose Estimation using Mediapipe face mesh <sub>⭐ 69 · Python</sub>
-- [souravanand001/ai-assistant-android](https://github.com/souravanand001/ai-assistant-android) - An open-source Android AI voice assistant built with Kotlin, Jetpack Compose, and on-device ML (BERT + TFLite, MediaPipe, ML Kit). <sub>⭐ 69 · Kotlin</sub>
-- [23rd/Scrib](https://github.com/23rd/Scrib) - On-device voice transcription. Your audio never leaves your phone. <sub>⭐ 67 · Kotlin</sub>
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - クロスプラットフォーム、ライブおよびストリーミングメディア用のカスタマイズ可能なMLソリューション。 <sub>⭐ 37.1k · C++</sub>
+- [niedev/RTranslator](https://github.com/niedev/RTranslator) - ローカルで実行するAndroid用のオープンソースのリアルタイム翻訳アプリ <sub>⭐ 10.5k · Java</sub>
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - Apple シリコン向けオンデバイススピーチAI <sub>⭐ 6.4k · Swift</sub>
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - メディアパイプ/Tensorflow.js フェイス、アイズ、ポーズ、フィンガートラッキングモデルのBlendershapeとkinematics計算機。 <sub>⭐ 5.7k · TypeScript</sub>
+- [hyperoslo/Whisper](https://github.com/hyperoslo/Whisper) - Whisperは、表示メッセージとアプリ内通知のタスクをシンプルにするコンポーネントです。内部には3つの異なるビューがあります <sub>⭐ 3.7k · Swift</sub>
+- [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 - Eyeと手探知を用いたストリーミングプラットフォームの制御 <sub>⭐ 2.4k · JavaScript</sub>
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - コンピュータビジョンを介してタイプするジェスチャーを使用して全身のキーボード <sub>⭐ 1.9k · Python</sub>
+- [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator、AIベースのフルボディモーションキャプチャと拡張現実(XR)ソリューションは、システムアニメーターオンライン <sub>⭐ 1.9k · JavaScript</sub>
+- [cvzone/cvzone](https://github.com/cvzone/cvzone) - これは、画像処理とAI機能を簡単に実行できるコンピュータビジョンパッケージです。コアではOpenCVやMediapipeライブラリを使用します。 <sub>⭐ 1.3k · Python</sub>
+- [yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - タイムスタンプデータなしでトレーニングをサポートし、タイムスタンプデータを学習したり、スピーチデータのなくてもトレーニングをサポートするWhisperの音声認識モデルを微調整します。 推論とサポートWeb ... <sub>⭐ 1.2k · C</sub>
+- [laurentkneip/opengv](https://github.com/laurentkneip/opengv) - OpenGVは、幾何学的視野の問題を解決するためのコンピュータビジョンメソッドのコレクションです。上海Techのモバイル・パーセプションラボによってホストされ維持されます。 <sub>⭐ 1.1k · C++</sub>
+- [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - モバイルデバイス上でよりアクセスしやすい品質ボイストランスクリプションを行うオープンソースのiOSアプリ。 <sub>⭐ 1.1k · Swift</sub>
+- [jaredrhod/barehands](https://github.com/jaredrhod/barehands) - 画面上で物事をベアハンドで動かします。あなたのAIのためのウェブカム機能、手作業インターフェイスです。ヘッドセットはありません。コントローラーはありません。 <sub>⭐ 1.0k · HTML</sub>
+- [jipraks/yt-short-clipper](https://github.com/jipraks/yt-short-clipper) - 長時間YouTube動画を9:16のショートフォームクリップに変えるWindowsデスクトップアプリ — AIハイライト検出、顔追跡ポートレートリフレームと単語ごとのキャプション。 <sub>⭐ 1.0k · TypeScript</sub>
+- [asus4/tf-lite-unity-sample](https://github.com/asus4/tf-lite-unity-sample) - UnityでTensorFlow Liteのサンプル <sub>⭐ 962 · C#</sub>
+- [Viral-Doshi/Gesture-Controlled-Virtual-Mouse](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) - ハンドジェスチャーやボイスコマンドを使用して、コンピュータを仮想的に制御します。 MediaPipe、OpenCV Pythonを使用してください。 <sub>⭐ 872 · Python</sub>
+- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - Swiftでオーディオをトランジストする方法 <sub>⭐ 786 · Swift</sub>
+- [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) - AI、コンピュータビジョン、ロボティクスに関するさまざまなコンテンツの有用なリンク <sub>⭐ 786</sub>
+- [floe/backscrub](https://github.com/floe/backscrub) - ディープセマンティックセグメンテーションによる背景置換のためのバーチャルビデオデバイス <sub>⭐ 747 · C++</sub>
+- [anilsathyan7/Portrait-Segmentation](https://github.com/anilsathyan7/Portrait-Segmentation) - モバイルデバイス用のリアルタイムポートレートセグメンテーション <sub>⭐ 666 · Jupyter Notebook</sub>
+- [tetherto/qvac](https://github.com/tetherto/qvac) - オープンソースのローカルAI SDK - AIをクラウド、APIキーなしで実行します。 GGUF、RAG、画像、音楽、ビデオ生成、音声対テキスト、P2P推論などをサポートします。 クロスプラットフォーム:Linux、macOS... <sub>⭐ 661 · TypeScript</sub>
+- [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Androidの入力方法エディタ(IME)は、ウィスパーに基づいて <sub>⭐ 642 · Java</sub>
+- [Danial-Kord/DigiHuman](https://github.com/Danial-Kord/DigiHuman) - Pose Estimationとランドマーク生成技術を用いた自動3Dキャラクターアニメーション <sub>⭐ 587 · C#</sub>
+- [sarim2000/pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker) - PennyWise は、トランザクション SMS メッセージを自動的に読み出し、オンデバイス AI の支援で組織化された財務データに変換します。マニュアルエントリなし、クラウド処理無し、完全なプライバシー。 <sub>⭐ 566 · Kotlin</sub>
+- [mmmmmm44/VTuber-Python-Unity](https://github.com/mmmmmm44/VTuber-Python-Unity) - PythonとUnityを使用してVTuber(Both 3D and Live2D)の実装。顔の動きトラッキング、目の点滅検知、アイリス検出および追跡を提供し、CPUを使用したマウスの移動を追跡する... <sub>⭐ 557 · C#</sub>
+- [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters) - Linux で webカメラにフィルター (背景ブラーなど) を追加してください。 <sub>⭐ 552 · Python</sub>
+- [andypotato/fingerpose](https://github.com/andypotato/fingerpose) - MediaPipe Handposeモデルによって検出される手ランドマークのためのTFJSベースの指のポーズの分類器 <sub>⭐ 509 · JavaScript</sub>
+- [geaxgx/depthai_hand_tracker](https://github.com/geaxgx/depthai_hand_tracker) - Google MediapipeハンドトラッキングモデルをLuxonisのDepAIハードウェア(OAK-Dライト、OAK-D、OAK-1など)で実行する <sub>⭐ 480 · Python</sub>
+- [woheller69/whisperIMEplus](https://github.com/woheller69/whisperIMEplus) - RTranslators Whisper 実装に基づく Android 入力メソッドエディタ (IME) <sub>⭐ 421 · Java</sub>
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - お使いのGoogleフォトライブラリから重複した写真を探し、削除する非公式Chrome拡張 <sub>⭐ 395 · TypeScript</sub>
+- [kinivi/tello-gesture-control](https://github.com/kinivi/tello-gesture-control) - DJI Telloをドローンカメラビデオストリームに手ジェスチャー認識で制御。 無料で貢献! <sub>⭐ 343 · Python</sub>
+- [TesseraktZero/UnityHandTrackingWithMediapipe](https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe) - Mediapipeを使ってUnityでリアルタイムのハンドトラッキングとフィンガートラッキング <sub>⭐ 322 · C#</sub>
+- [madelinegannon/example-mediapipe-udp](https://github.com/madelinegannon/example-mediapipe-udp) - OpenFrameworks を Google MediaPipe Machine Learning Framework に接続します。 <sub>⭐ 309 · C++</sub>
+- [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - 信頼性の高い音声転写のための強力なAIキーボード <sub>⭐ 295 · Kotlin</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - TensorflowでNeural Networks(SSD)を使う。Tensorflow(オブジェクト検出API)を使用して手探知機を訓練するために使用されるこのリポジトリのドキュメント手順とスクリプト。任意のDNNベースのタスクと同様に、最も高価な... <sub>⭐ 282 · Python</sub>
+- [dronefreak/human-action-classification](https://github.com/dronefreak/human-action-classification) - ポーズベース(MediaPipe)とビデオベースの(3D CNN)モデルを備えたヒトアクション分類システム。100以上のアーキテクチャをリアルタイムにポーズ分類し、一時的なモデルが事前に訓練された... <sub>⭐ 268 · Python</sub>
+- [collidingScopes/shape-creator-tutorial](https://github.com/collidingScopes/shape-creator-tutorial) - リアルタイムでハンドジェスチャーを使用して3D形状を作成および制御します。メディアパイプコンピュータビジョンと3jsで構築 <sub>⭐ 263 · JavaScript</sub>
+- [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs) - Google Mediapipe AIライブラリ。 セキュアな WasmEdge サンドボックスで、画像認識、テキスト分類、音声/ビデオ処理などのAI推論アプリケーションを作成してください。... <sub>⭐ 248 · Rust</sub>
+- [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) - 3Dモデルをリアルタイムでハンドジェスチャーやボイスコマンドを使用して制御します。3js / mediapipeコンピュータビジョン <sub>⭐ 232 · JavaScript</sub>
+- [zmurez/MediaPipePyTorch](https://github.com/zmurez/MediaPipePyTorch) - PyTorchにMediaPipe tfliteモデルのポート <sub>⭐ 231 · Python</sub>
+- [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - ビジョンベースの描画アプリケーション <sub>⭐ 224 · Python</sub>
+- [keijiro/SelfieBarracuda](https://github.com/keijiro/SelfieBarracuda) - Unity BarracudaのMediaPipe Selfieセグメンテーションモデル <sub>⭐ 221 · C#</sub>
+- [mouredev/tggenerator](https://github.com/mouredev/tggenerator) - AIによるeSportsロゴジェネレーター(テネリフェのGGイベント中にアカデミーコン罰金) <sub>⭐ 218 · Kotlin</sub>
+- [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - 顔を検知し、チクトックの猫を表示するためのopenCVプログラム。 <sub>⭐ 215 · Python</sub>
+- [creativeIKEP/BlazePoseBarracuda](https://github.com/creativeIKEP/BlazePoseBarracuda) - BlazePoseBarracudaはGPUとUnity Barracuda上のMediapipe Pose(BlazePose)パイプラインを実行する人間の2D / 3Dポーズ推定ニューラルネットワークです。 <sub>⭐ 212 · C#</sub>
+- [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - HTML5、JS、CSS Cameraインターフェーステンプレート。次のコンピュータービジョンやAIプロジェクトで自由に使用できます。 <sub>⭐ 205 · JavaScript</sub>
+- [DictionLabs/Diction](https://github.com/DictionLabs/Diction) - WisprFlow - iOS 音声 AI キーボードのオープンソース自主ホスト代替 <sub>⭐ 204 · Go</sub>
+- [JaeHeee/FlutterWithMediaPipe](https://github.com/JaeHeee/FlutterWithMediaPipe) - MediaPipe MLモデルとFlutter <sub>⭐ 200 · Dart</sub>
+- [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) - Linux、macOS、Windows、Android、iOS用のオープンソースの音声テキストとボイスタイピングツールのリストをキュレーションしました。オフライン、ローカルおよびクラウド。 <sub>⭐ 200 · Python</sub>
+- [LingDong-/handpose-facemesh-demos](https://github.com/LingDong-/handpose-facemesh-demos) - 8 tfjs メディアパイプのハンドポーズとフェースのためのミニマルなテンプレート <sub>⭐ 192 · JavaScript</sub>
+- [Nawaf-Rayhan585/YOLO_Projects](https://github.com/Nawaf-Rayhan585/YOLO_Projects) - 19 YOLO、ByteTrack&MediaPipeで実行するコンピュータビジョンプロジェクト - カウント、安全、ANPR、ヒートマップなど <sub>⭐ 192 · Python</sub>
+- [ritesh-kanwar/Cashiro](https://github.com/ritesh-kanwar/Cashiro) - カシロは、銀行SMSとPDFステートメントをオンデバイスAI支援でクリーンかつ検索可能なお金のタイムラインに変える包括的な財務追跡マネージャです。 100%プライベート、クラウド処理はありません。 <sub>⭐ 191 · Kotlin</sub>
+- [shubham0204/OnDevice-Face-Recognition-Android](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) - FaceNetと埋め込みベクターデータベースでAndroidでのオンデバイスカスタマイズ可能な顔認識 <sub>⭐ 186 · Kotlin</sub>
+- [collidingScopes/threejs-handtracking-101](https://github.com/collidingScopes/threejs-handtracking-101) - 3js / WebGL / MediaPipe のインタラクティブなデモで、手ジェスチャーを使って3D球をコントロールできます。 <sub>⭐ 181 · HTML</sub>
+- [Asadullah-Dal17/Eyes-Position-Estimator-Mediapipe](https://github.com/Asadullah-Dal17/Eyes-Position-Estimator-Mediapipe) - これは、目の追跡プロジェクトです, ここでは、眼を抽出するためにコンピュータビジョン技術を使用します, メディアパイプのパイソンモジュールは顔のランドマークを提供します <sub>⭐ 180 · Python</sub>
+- [ErickWendel/live-recognizing-multiple-gestures-tensorflowjs](https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs) - tensorflowjs と fingerpose で複数の手のジェスチャーを認識する私のビデオの例 <sub>⭐ 180 · JavaScript</sub>
+- [patlevin/face-detection-tflite](https://github.com/patlevin/face-detection-tflite) - MediaPipeに基づくPythonの顔と虹彩検出 <sub>⭐ 177 · Python</sub>
+- [creativeIKEP/HolisticMotionCapture](https://github.com/creativeIKEP/HolisticMotionCapture) - HolisticMotionCaptureは、単眼カラーカメラのみで人の動きをキャプチャし、VRMアバターのポーズ、顔、手を動かすことができるアプリケーションとパッケージです。 <sub>⭐ 175 · C#</sub>
+- [everythingishacked/CheekyKeys](https://github.com/everythingishacked/CheekyKeys) - Python、OpenCV、MediaPipe を使用して、顔のジェスチャーでキーボードを制御する <sub>⭐ 168 · Python</sub>
+- [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) - ハンドコントロールのアルペジエーター、ドラムマシン、およびオーディオ反応視覚化装置。メディアパイプコンピュータビジョン、3js、Tonejsで構築 <sub>⭐ 165 · JavaScript</sub>
+- [artbyjazi/autoclip](https://github.com/artbyjazi/autoclip) - オープンソース、ローカルファーストAIビデオクリッパー。 長いビデオイン、キャプションバーンされたスピーカートラック9:16クリップアウト。 Whisper + Ollamaと完全にオフラインで、または独自のAPIキーを持ってください。 <sub>⭐ 159 · Python</sub>
+- [e-candeloro/Driver-State-Detection](https://github.com/e-candeloro/Driver-State-Detection) - OpenCV と Mediapipe を用いた Python3 におけるドライバーの注意状態検出/モニタリングシステム <sub>⭐ 155 · Python</sub>
+- [tryvinci/vinci-clips](https://github.com/tryvinci/vinci-clips) - オープンソースのAIを搭載したビデオクリッププラットフォームで、長時間のビデオを自動的に変換し、ソーシャルメディアプラットフォーム向けに最適化されたショートクリップを実現します。 <sub>⭐ 153 · TypeScript</sub>
+- [jasonmayes/WebAIAgent](https://github.com/jasonmayes/WebAIAgent) - ウェブAIエージェントは、ブラウザで完全にクライアント側を実行し、フィクションフライトのウェブページを制御することができます。これは、WebGPUを介してJavaScriptでGoogleのジェムマ2(2B)モデルを使用して作業を完了することができます... <sub>⭐ 145 · JavaScript</sub>
+- [BIGBOSS-dedsec/OpenCV-Unity-To-Build-3DPerson](https://github.com/BIGBOSS-dedsec/OpenCV-Unity-To-Build-3DPerson) - OpenCVイメージキャプチャは強力なMediapipeライブラリを使用して、人間の動きの検出と認識を達成します。 認識結果はUnityにリアルタイムで同期され、リアルタイムで実現できます。 <sub>⭐ 141 · C#</sub>
+- [j3soon/whisper-to-input](https://github.com/j3soon/whisper-to-input) - OpenAI Whisperで音声テキスト(STT/ASR)を実行し、認識されたテキストを入力するAndroidキーボード。英語、中国語、日本語などに対応し、さらには混合言語にも対応しています。 <sub>⭐ 140 · Kotlin</sub>
+- [NaufalRizqullah/opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping) - 究極のAIオートクリップパー — ロングフォームのビデオとポッドキャストをバイラルショートに変換! スマートフェイストラッキング、キネティックカラオケ字幕、コンテキストBロール、AIボイスオーバー、および自動アップローダー... <sub>⭐ 140 · Python</sub>
+- [bandinopla/three-mediapipe-rig](https://github.com/bandinopla/three-mediapipe-rig) - 最小限のコードでメディアパイプ骨格リグをすばやくセットアップする3Jsモジュール。 <sub>⭐ 138 · TypeScript</sub>
+- [thillai-c/AI-Fitness-trainer](https://github.com/thillai-c/AI-Fitness-trainer) - カウントや動きを追跡することで、ワークアウトセッションを支援するために使用されるAIモデル。 <sub>⭐ 130 · Python</sub>
+- [Furkan-Gulsen/Sport-With-AI](https://github.com/Furkan-Gulsen/Sport-With-AI) - 人体は、Mediapipeライブラリの助けを借りて検出されます。その後、適用される数学的な方法を使用して、運動回数がどれだけ行われるかを決定します。 <sub>⭐ 129 · Jupyter Notebook</sub>
+- [keijiro/IrisBarracuda](https://github.com/keijiro/IrisBarracuda) - Unity BarracudaのMediaPipe irisランドマークモデル <sub>⭐ 129 · C#</sub>
+- [NgoQuocBao1010/Exercise-Correction](https://github.com/NgoQuocBao1010/Exercise-Correction) - Mediapipeのポーズ検出力を活用し、フィットネス練習の形を分析・検知・分類するプロジェクトです。 <sub>⭐ 128 · Jupyter Notebook</sub>
+- [keijiro/FaceLandmarkBarracuda](https://github.com/keijiro/FaceLandmarkBarracuda) - Unity BarracudaのMediaPipe顔のランドマーク検出モデル <sub>⭐ 125 · C#</sub>
+- [SCRN-VRC/3D-Face-Landmark-in-UnityCG-HLSL](https://github.com/SCRN-VRC/3D-Face-Landmark-in-UnityCG-HLSL) - MediaPipeのFacemeshとIrisのトラッキングモデルを用いた3D顔のランドマーク検出 <sub>⭐ 123 · C++</sub>
+- [ChrisChen667788/pixcull](https://github.com/ChrisChen667788/pixcull) - プロのフォトグラファーのためのローカルファーストAI写真の彫刻 — 6軸 rubric、XMP / IPTC輸出、Lightroom&Capture One準備完了。 <sub>⭐ 119 · Python</sub>
+- [jays0606/mediapipe-facelandmark-demo](https://github.com/jays0606/mediapipe-facelandmark-demo) - Mediapipe faceLandmarkerデモプロジェクト <sub>⭐ 119 · TypeScript</sub>
+- [LintangWisesa/MediaPipe-in-JavaScript](https://github.com/LintangWisesa/MediaPipe-in-JavaScript) - 純粋なJavaScriptでMediaPipeのMLソリューションの簡単なデモ <sub>⭐ 119 · HTML</sub>
+- [creativeIKEP/HolisticBarracuda](https://github.com/creativeIKEP/HolisticBarracuda) - HolisticBarracudaは、Unity Barracudaで33ポーズ、1手当たり21、および468人の顔のランドマークを同時に推定するUnity Packageです。 <sub>⭐ 118 · C#</sub>
+- [marlenezw/face-and-body-detector-with-mediapipe](https://github.com/marlenezw/face-and-body-detector-with-mediapipe) - このコードは、メディアパイプを使って顔や身体のランドマークを検出します。 <sub>⭐ 118 · Jupyter Notebook</sub>
+- [alex-vt/WhisperInput](https://github.com/alex-vt/WhisperInput) - オフラインボイス入力パネルとAndroid用の句読付きキーボード。 <sub>⭐ 115 · Java</sub>
+- [d4min/aircanvas](https://github.com/d4min/aircanvas) - AirCanvasは、手ジェスチャーを使用して描画するコンピュータビジョンプロジェクトです。 OpenCVとMediaPipeで構築されたので、MSペイントのような基本的な絵画をシミュレートするためにあなたの手の動きを追跡しますが... <sub>⭐ 115 · Python</sub>
+- [Morteza-Asadi-Shalmaiy/facial-recognition-pipeline](https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline) - ローカル、APIなしの多段式アイデンティティパイプライン:顔認識→生体検出→超解像フォールバック→人Re-ID、現実的なCCTVスタイルの条件のために構築された。 <sub>⭐ 113 · Jupyter Notebook</sub>
+- [mowshon/age-and-gender](https://github.com/mowshon/age-and-gender) - Pythonの顔画像から年齢と性別推定。 1つのピップインストール:コンパイラなし、ONNXランタイムでバンドルして実行される事前訓練されたdlibモデル。 任意の顔検出器を使用:OpenCV、MediaPipe... <sub>⭐ 109 · Python</sub>
+- [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - 音声メッセージをローカルのオンデバイスで翻訳するためのAndroidアプリ、インターネットは必要ありません。 <sub>⭐ 109 · Kotlin</sub>
+- [sanderdesnaijer/map-gesture-controls](https://github.com/sanderdesnaijer/map-gesture-controls) - OpenLayers、Googleマップ、およびリーフレットをウェブカム経由で手ジェスチャーで制御します。 MediaPipeを使用して、パンに追跡したり、ズームしたり、ブラウザで無料の地図を移動したりできます。 バックエンドは必要ありません。 <sub>⭐ 103 · TypeScript</sub>
+- [epalosh/openfov](https://github.com/epalosh/openfov) - iRacing用のオープンソースのウェブカムヘッドトラッキング。任意の標準WebカメラでVRスタイルのPOVを達成! <sub>⭐ 102 · Python</sub>
+- [pntt3011/mediapipe_face_iris_cpp](https://github.com/pntt3011/mediapipe_face_iris_cpp) - C++を用いたリアルタイムフェイスとアイリスランドマーク検出 <sub>⭐ 102 · C++</sub>
+- [balaboom123/signdata-slt](https://github.com/balaboom123/signdata-slt) - MediaPipe、MMPose および YOLO を使用してポーズとビデオ出力で署名言語の事前処理のためのモジュラー、config-driven パイプライン。 <sub>⭐ 101 · Python</sub>
+- [ravigithub19/ai-virtual-mouse](https://github.com/ravigithub19/ai-virtual-mouse) - リアルタイムカメラでPythonとOpenCVを使ってマウスカーソルをコントロールするAIベースのシステムを開発。指先の位置はRGB画像にマッピングされ、マウスのカーソルを制御することができます。 <sub>⭐ 101 · Python</sub>
+- [PINTO0309/hand-gesture-recognition-using-onnx](https://github.com/PINTO0309/hand-gesture-recognition-using-onnx) - これは、OnNXでMediaPipeプロセス全体を置き換える手ジェスチャー認識プログラムです。 複数のパームの同時検出と簡単なトラッカーがさらに実装されています。... <sub>⭐ 95 · Jupyter Notebook</sub>
+- [MustafaLotfi/Paper-Piano](https://github.com/MustafaLotfi/Paper-Piano) - このプログラムを使用すると、手ジェスチャーで音楽を再生したり制御したりすることができます。また、ペーパーピアノを再生することもできます。 <sub>⭐ 94 · Python</sub>
+- [dgovor/Sign-Language-Translator](https://github.com/dgovor/Sign-Language-Translator) - 任意の署名言語をテキストに翻訳することができるニューラルネットワーク。 <sub>⭐ 93 · Python</sub>
+- [maceq687/FullBodyPoseEstimation](https://github.com/maceq687/FullBodyPoseEstimation) - ユニティで構築されたHMD(Quest2)で使われる全身のポーズ推定 <sub>⭐ 93 · C#</sub>
+- [bharath5673/3d_human_pose](https://github.com/bharath5673/3d_human_pose) - ディープラーニングを用いたビデオストリームからリアルタイム3Dヒューマンポーズ推定、3Dスケルトンの視覚化と分析。 <sub>⭐ 91 · Python</sub>
+- [google-ai-edge/mediapipe-samples-web](https://github.com/google-ai-edge/mediapipe-samples-web) - ブラウザ内で完全に実行できるMediaPipe Task APIの一例をまとめました。 <sub>⭐ 86 · TypeScript</sub>
+- [heimoshuiyu/whisper-fastapi](https://github.com/heimoshuiyu/whisper-fastapi) - OpenAI API、Android 音声入力 (konele)、ホームアシスタント(wyoming)、および Linux と MacOS のボイスタイピングスクリプトのための非常にシンプルなウィスパー Python FastAPI! <sub>⭐ 86 · Python</sub>
+- [ryanontheinside/ComfyUI_RealtimeNodes](https://github.com/ryanontheinside/ComfyUI_RealtimeNodes) - ComfyUI ノードがリアルタイムに対応 <sub>⭐ 84 · Python</sub>
+- [Boubker10/SafeDriveVision](https://github.com/Boubker10/SafeDriveVision) - SafeDriveVision は、道路の安全を高めるためのコンピュータビジョンプロジェクトです。このプロジェクトでは、ディープラーニングモデルを活用して、ドライバーの危険な行動をリアルタイムに検知し警告します。 <sub>⭐ 83 · Jupyter Notebook</sub>
+- [bensonruan/Face-Mask](https://github.com/bensonruan/Face-Mask) - リアルタイムのウェブカム顔検出、COVID19から仮想マスクを守ります <sub>⭐ 82 · JavaScript</sub>
+- [breathingcyborg/mediapipe-face-effects](https://github.com/breathingcyborg/mediapipe-face-effects) - メディアパイプと3つのjsを使用してブラウザでリアルタイムの顔効果。 <sub>⭐ 81 · JavaScript</sub>
+- [ahmetvural79/CameraRealtimeStyle](https://github.com/ahmetvural79/CameraRealtimeStyle) - リアルタイムでライブウェブカムを再構築 — 指左/右を指してスタイル(MediaPipe hand Tracking + fal-ai/flux-2/klein/realtime)を切り替えます。 <sub>⭐ 78 · JavaScript</sub>
+- [brilliantlabsAR/noa-for-ios](https://github.com/brilliantlabsAR/noa-for-ios) - あなたAI仲間。 Monocle ARのチャットGPTと翻訳 <sub>⭐ 78 · Swift</sub>
+- [jiuqiant/mediapipe_face_detection_aar_example](https://github.com/jiuqiant/mediapipe_face_detection_aar_example) - MediaPipeのAndroidアーカイブライブラリでMediaPipe顔検出gpuデモ <sub>⭐ 78 · Java</sub>
+- [kafkasl/phone-whisper](https://github.com/kafkasl/phone-whisper) - ウィスパーとローカルモデルのアンドロイド携帯電話のためのシンプルなボイストランスクリプション <sub>⭐ 78 · Kotlin</sub>
+- [Mobile-Artificial-Intelligence/maise](https://github.com/Mobile-Artificial-Intelligence/maise) - マイズは、エッジ上でのスピーチを強力かつ柔軟にするためのプラットフォームを提供するように設計されたオープンソースのアンドロイドスピーカーエンジンです。 <sub>⭐ 78 · Kotlin</sub>
+- [erfansn/AR-Touch](https://github.com/erfansn/AR-Touch) - ディスプレイ画面でタッチレスなインタラクションの力を得る <sub>⭐ 77 · Kotlin</sub>
+- [lanthaon/sl-animation-blender](https://github.com/lanthaon/sl-animation-blender) - モーションキャプチャデータをAIソリューションMediaPipe Holisticに基づいて作成し、Blenderの3D文字に応用したプロジェクト <sub>⭐ 77 · Python</sub>
+- [Pavankunchala/Work-Showcase](https://github.com/Pavankunchala/Work-Showcase) - Streamlitを用いたディープラーニングとコンピュータビジョンアプリケーション <sub>⭐ 77 · Python</sub>
+- [shahriarshafin/face-hand-tracker](https://github.com/shahriarshafin/face-hand-tracker) - Mediapipeを使ったWebベースのリアルタイムの顔と手マーク検出をNext.jsアプリケーションで使用 <sub>⭐ 75 · JavaScript</sub>
+- [Yulv-git/Model-Inference-Deployment](https://github.com/Yulv-git/Model-Inference-Deployment) - 人工知能(AI)モデルの素晴らしい推論展開フレームワークのキュレーションリスト。 OpenVINO、TensorRT、MediaPipe、TensorFlow Lite、TensorFlowサービング、ONNX Runtime、LibTorch、NCNN... <sub>⭐ 75 · Python</sub>
+- [alireza787b/Python-Gaze-Face-Tracker](https://github.com/alireza787b/Python-Gaze-Face-Tracker) - 航空人的要因およびHCIのための実時間目、顔面のランドマーク、ヘッドポーズ、点滅および視線追跡 <sub>⭐ 74 · Python</sub>
+- [rpdrewes/whisper-websocket-server](https://github.com/rpdrewes/whisper-websocket-server) - セルフは、ホスパーを使用してデグーグルのAndroidのための高品質の音声認識をホストしました。 シリやOK Googleのように。 <sub>⭐ 74 · Python</sub>
+- [cedriclmenard/irislandmarks.pytorch](https://github.com/cedriclmenard/irislandmarks.pytorch) - GoogleのMediapipe Iris LandmarkモデルのPyTorch実装。 元のコードは、TFLiteと自分のmediapipeワークフローを使用しています。これは私のコードベースでうまく機能しません。 <sub>⭐ 71 · Jupyter Notebook</sub>
+- [Serkali-sudo/auto-subtitle-generator](https://github.com/Serkali-sudo/auto-subtitle-generator) - Wisper または vosk を使用してローカルでビデオの字幕を自動的に生成する Android アプリ <sub>⭐ 71 · C</sub>
+- [geaxgx/depthai_handface](https://github.com/geaxgx/depthai_handface) - Google MediapipeフェイスメッシュとLuxonisのDepAIデバイス上のハンドトラッキングモデルを実行 <sub>⭐ 69 · Python</sub>
+- [kevinjosethomas/sign-language-processing](https://github.com/kevinjosethomas/sign-language-processing) - ASL指紋認識と意味のあるポーズ検索インターフェイス(arXiv、GitHub、YouTube) <sub>⭐ 69 · Python</sub>
+- [positive666/mediapipe_PoseEstimation_pytorch](https://github.com/positive666/mediapipe_PoseEstimation_pytorch) - pytorch の mediapipe Human Estimation プロジェクトに基づいて、関数(face_mesh,iris,pose,hand)を提供します。 <sub>⭐ 69 · Python</sub>
+- [shenasa-ai/head-pose-estimation](https://github.com/shenasa-ai/head-pose-estimation) - Mediapipeフェイスメッシュを使用したヘッドポーズ推定 <sub>⭐ 69 · Python</sub>
+- [souravanand001/ai-assistant-android](https://github.com/souravanand001/ai-assistant-android) - Kotlin、Jetpack Compose、およびオンデバイスML(BERT + TFLite、MediaPipe、ML Kit)で構築されたオープンソースのAndroid AI音声アシスタント。 <sub>⭐ 69 · Kotlin</sub>
+- [23rd/Scrib](https://github.com/23rd/Scrib) - オンデバイスボイストランスクリプション。音声は電話を離れません。 <sub>⭐ 67 · Kotlin</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#-モバイル開発者のai) · [← 職種別のAIリポジトリ](./README.md)

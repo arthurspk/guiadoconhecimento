@@ -20,1026 +20,1026 @@
 
 > テキストや画像から3Dモデル、テクスチャ、シーンを作る。
 
-- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" <sub>⭐ 24.1k · Python</sub>
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more <sub>⭐ 17.6k · Cuda</sub>
-- [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. <sub>⭐ 17.4k · Python</sub>
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction <sub>⭐ 17.2k · Python</sub>
-- [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models. <sub>⭐ 15.0k · Python</sub>
-- [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing <sub>⭐ 14.0k · C++</sub>
-- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight). <sub>⭐ 13.8k · Python</sub>
-- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs <sub>⭐ 12.0k · Python</sub>
-- [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields) <sub>⭐ 10.9k · Jupyter Notebook</sub>
-- [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human <sub>⭐ 9.7k · Python</sub>
-- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image… <sub>⭐ 9.4k · Python</sub>
-- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months. <sub>⭐ 8.9k · Python</sub>
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion. <sub>⭐ 8.9k · Python</sub>
-- [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU <sub>⭐ 7.9k · TypeScript</sub>
-- [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - TripoSR: Fast 3D Object Reconstruction from a Single Image <sub>⭐ 7.0k · Python</sub>
-- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers <sub>⭐ 6.8k · TeX</sub>
-- [open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection. <sub>⭐ 6.5k · Python</sub>
-- [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. <sub>⭐ 6.5k · Python</sub>
-- [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results. <sub>⭐ 6.1k · Python</sub>
-- [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation <sub>⭐ 5.4k · Python</sub>
-- [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry <sub>⭐ 4.7k · C++</sub>
-- [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models <sub>⭐ 4.5k · Python</sub>
-- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework <sub>⭐ 4.5k · C++</sub>
-- [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression" <sub>⭐ 4.5k · MATLAB</sub>
-- [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list) - A curated list of papers & resources linked to 3D reconstruction from images. <sub>⭐ 4.4k</sub>
-- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - (ICLR 2024 Oral) Generative Gaussian Splatting for Efficient 3D Content Creation <sub>⭐ 4.4k · Python</sub>
-- [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material <sub>⭐ 4.1k · Python</sub>
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - (CVPR 2024) 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering <sub>⭐ 4.0k · Jupyter Notebook</sub>
-- [MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.) <sub>⭐ 3.9k · Python</sub>
-- [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application. <sub>⭐ 3.8k · C++</sub>
-- [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction <sub>⭐ 3.8k · Python</sub>
-- [Anttwo/SuGaR](https://github.com/Anttwo/SuGaR) - (CVPR 2024) Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering <sub>⭐ 3.5k · C++</sub>
-- [Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation <sub>⭐ 3.5k · Python</sub>
-- [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - (CVPR 2025) MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors <sub>⭐ 3.2k · Python</sub>
-- [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023) <sub>⭐ 3.1k · Python</sub>
-- [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - (ICLR 2024) Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior <sub>⭐ 3.0k · Python</sub>
-- [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - Papers and Datasets about Point Cloud. <sub>⭐ 2.9k · Python</sub>
-- [MaximeVandegar/Papers-in-100-Lines-of-Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) - Implementation of papers in 100 lines of code. <sub>⭐ 2.9k · Python</sub>
-- [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [yerfor/GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code <sub>⭐ 2.7k · Python</sub>
-- [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D model generation, inspection, and presentation studio. <sub>⭐ 2.6k · JavaScript</sub>
-- [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D human motion or 3D character animation generation. <sub>⭐ 2.6k · Python</sub>
-- [yfeng95/DECA](https://github.com/yfeng95/DECA) - DECA: Detailed Expression Capture and Animation (SIGGRAPH 2021) <sub>⭐ 2.5k · Python</sub>
-- [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter) - (NeurIPS 2025) PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers <sub>⭐ 2.5k · Python</sub>
-- [microsoft/Deep3DFaceReconstruction](https://github.com/microsoft/Deep3DFaceReconstruction) - Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set (CVPRW 2019) <sub>⭐ 2.4k · Python</sub>
-- [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - (ICLR 2025) From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers" <sub>⭐ 2.3k · Python</sub>
-- [ashawkey/torch-ngp](https://github.com/ashawkey/torch-ngp) - A pytorch CUDA extension implementation of instant-ngp (sdf and nerf), with a GUI. <sub>⭐ 2.2k · Python</sub>
-- [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) <sub>⭐ 2.2k · Python</sub>
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - (CVPR'24 Highlight & Best Demo Award) Gaussian Splatting SLAM <sub>⭐ 2.2k · Python</sub>
-- [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites <sub>⭐ 2.1k</sub>
-- [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction <sub>⭐ 2.1k · Python</sub>
-- [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model. <sub>⭐ 2.1k · Python</sub>
-- [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python <sub>⭐ 2.0k · Python</sub>
-- [junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D) - (ICCV 2023) Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior <sub>⭐ 1.9k · Python</sub>
-- [Stability-AI/stable-fast-3d](https://github.com/Stability-AI/stable-fast-3d) - SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement <sub>⭐ 1.8k · Python</sub>
-- [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) - PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019. <sub>⭐ 1.8k · Python</sub>
-- [yerfor/GeneFacePlusPlus](https://github.com/yerfor/GeneFacePlusPlus) - GeneFace++: Generalized and Stable Real-Time 3D Talking Face Generation; Official Code <sub>⭐ 1.8k · Python</sub>
-- [nywang16/Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images. In ECCV2018. <sub>⭐ 1.8k · Python</sub>
-- [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion) - WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for… <sub>⭐ 1.7k · Python</sub>
-- [One-2-3-45/One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - (NeurIPS 2023) Official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization" <sub>⭐ 1.7k · Python</sub>
-- [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D. <sub>⭐ 1.6k · Python</sub>
-- [guochengqian/Magic123](https://github.com/guochengqian/Magic123) - (ICLR'24) Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction. <sub>⭐ 1.6k · Python</sub>
-- [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites <sub>⭐ 1.6k</sub>
-- [thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer) - ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation (NeurIPS 2023 Spotlight) <sub>⭐ 1.6k · Python</sub>
-- [AIGODLIKE/ComfyUI-BlenderAI-node](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) - Used for AI model generation, next-generation Blender rendering engine, texture enhancement&generation (based on ComfyUI) <sub>⭐ 1.6k · Python</sub>
-- [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - Images to 3D parallax videos <sub>⭐ 1.6k · Python</sub>
-- [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD). <sub>⭐ 1.5k · Python</sub>
-- [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - Automatically Update CV Papers Daily using Github Actions <sub>⭐ 1.5k · Python</sub>
-- [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - (CVPR'24 Best Student Paper) Mip-Splatting: Alias-free 3D Gaussian Splatting <sub>⭐ 1.5k · Python</sub>
-- [sxyu/pixel-nerf](https://github.com/sxyu/pixel-nerf) - PixelNeRF Official Repository <sub>⭐ 1.5k · Python</sub>
-- [buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor) - (CVPR 2024) GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting <sub>⭐ 1.5k · C++</sub>
-- [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc) - A General NeRF Acceleration Toolbox in PyTorch. <sub>⭐ 1.5k · Python</sub>
-- [andyzeng/tsdf-fusion-python](https://github.com/andyzeng/tsdf-fusion-python) - Python code to fuse multiple RGB-D images into a TSDF voxel volume. <sub>⭐ 1.4k · Python</sub>
-- [nv-tlabs/GEN3C](https://github.com/nv-tlabs/GEN3C) - (CVPR 2025 Highlight) GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control <sub>⭐ 1.4k · Jupyter Notebook</sub>
-- [nianticlabs/simplerecon](https://github.com/nianticlabs/simplerecon) - (ECCV 2022) SimpleRecon: 3D Reconstruction Without 3D Convolutions <sub>⭐ 1.4k · Python</sub>
-- [NVlabs/BundleSDF](https://github.com/NVlabs/BundleSDF) - (CVPR 2023) BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects <sub>⭐ 1.4k · Python</sub>
-- [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - Single/multi view image(s) to voxel reconstruction using a recurrent neural network <sub>⭐ 1.4k · Python</sub>
-- [jtydhr88/ComfyUI-qwenmultiangle](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) - A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation. <sub>⭐ 1.4k · JavaScript</sub>
-- [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA. <sub>⭐ 1.4k · C++</sub>
-- [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - WorldClaw: Agentic 3D Open-world Generation at Scale <sub>⭐ 1.3k</sub>
-- [sjtuytc/UnboundedNeRFPytorch](https://github.com/sjtuytc/UnboundedNeRFPytorch) - State-of-the-art, simple, fast unbounded / large-scale NeRFs. <sub>⭐ 1.3k · Python</sub>
-- [nv-tlabs/Difix3D](https://github.com/nv-tlabs/Difix3D) - (CVPR 2025 Oral & Best Paper Finalist) Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models <sub>⭐ 1.3k · Python</sub>
-- [kwea123/ngp_pl](https://github.com/kwea123/ngp_pl) - Instant-ngp in pytorch+cuda trained with pytorch-lightning (high quality with high speed, with only few lines of legible code) <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - (NeurIPS 2025) Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention <sub>⭐ 1.3k · Python</sub>
-- [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641 + Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM… <sub>⭐ 1.3k · Python</sub>
-- [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - (ECCV24&ICLR25) CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [Fictionarry/ER-NeRF](https://github.com/Fictionarry/ER-NeRF) - (ICCV'23) Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis <sub>⭐ 1.3k · Python</sub>
-- [cwchenwang/awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - A collection of papers on diffusion models for 3D generation. <sub>⭐ 1.3k</sub>
-- [3DTopia/OpenLRM](https://github.com/3DTopia/OpenLRM) - An open-source impl. of Large Reconstruction Models <sub>⭐ 1.2k · Python</sub>
-- [autonomousvision/giraffe](https://github.com/autonomousvision/giraffe) - This repository contains the code for the CVPR 2021 paper "GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields" <sub>⭐ 1.2k · Python</sub>
-- [dendenxu/fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - A geometry-shader-based, global CUDA sorted high-performance 3D Gaussian Splatting rasterizer. Can achieve a 5-10x speedup in rendering compared to the vanialla diff-gaussian-rasterization. <sub>⭐ 1.2k · Python</sub>
-- [Tencent-Hunyuan/HunyuanWorld-Mirror](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror) - (ICML 2026) WorldMirror: Fast and Universal 3D reconstruction model for versatile tasks <sub>⭐ 1.2k · Python</sub>
-- [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting <sub>⭐ 1.2k · Python</sub>
-- [nv-tlabs/LLaMA-Mesh](https://github.com/nv-tlabs/LLaMA-Mesh) - Unifying 3D Mesh Generation with Language Models <sub>⭐ 1.2k · Python</sub>
-- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - (ICLR24) Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control” <sub>⭐ 1.2k · Python</sub>
-- [Xharlie/pointnerf](https://github.com/Xharlie/pointnerf) - Point-NeRF: Point-based Neural Radiance Fields <sub>⭐ 1.2k · Python</sub>
-- [kzampog/cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data <sub>⭐ 1.1k · C++</sub>
-- [aim-uofa/AdelaiDepth](https://github.com/aim-uofa/AdelaiDepth) - This repo contains the projects: 'Virtual Normal', 'DiverseDepth', and '3D Scene Shape'. They aim to solve the monocular depth estimation, 3D scene reconstruction from single image problems. <sub>⭐ 1.1k · Python</sub>
-- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - (SIGGRAPH 2022 Journal Track) AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars <sub>⭐ 1.1k · Python</sub>
-- [THU-LYJ-Lab/T3Bench](https://github.com/THU-LYJ-Lab/T3Bench) - T3Bench: Benchmarking Current Progress in Text-to-3D Generation <sub>⭐ 1.1k · Python</sub>
-- [lukasHoel/text2room](https://github.com/lukasHoel/text2room) - Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models (ICCV2023). <sub>⭐ 1.1k · Python</sub>
-- [yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait) - Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis; ICLR 2024 Spotlight; Official code <sub>⭐ 1.1k · Python</sub>
-- [Stability-AI/stable-point-aware-3d](https://github.com/Stability-AI/stable-point-aware-3d) - SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images <sub>⭐ 1.1k · Python</sub>
-- [sunset1995/DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) - Direct voxel grid optimization for fast radiance field reconstruction. <sub>⭐ 1.1k · Python</sub>
-- [YudongGuo/AD-NeRF](https://github.com/YudongGuo/AD-NeRF) - This repository contains a PyTorch implementation of "AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis". <sub>⭐ 1.1k · Python</sub>
-- [3DTopia/3DTopia-XL](https://github.com/3DTopia/3DTopia-XL) - (CVPR 2025 Highlight) 3DTopia-XL: High-Quality 3D PBR Asset Generation via Primitive Diffusion <sub>⭐ 1.0k · Python</sub>
-- [yashbhalgat/HashNeRF-pytorch](https://github.com/yashbhalgat/HashNeRF-pytorch) - Pure PyTorch Implementation of NVIDIA paper on Instant Training of Neural Graphics primitives: https://nvlabs.github.io/instant-ngp <sub>⭐ 1.0k · Python</sub>
-- [tong-io/tongflow](https://github.com/tong-io/tongflow) - Modality-First GenAI Platform <sub>⭐ 1.0k · TypeScript</sub>
-- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023 & IJCV 2025) <sub>⭐ 1.0k · Python</sub>
-- [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - (ICCV 2025) From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization" <sub>⭐ 1.0k · Python</sub>
-- [natowi/3D-Reconstruction-with-Deep-Learning-Methods](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods) - List of projects for 3d reconstruction <sub>⭐ 1.0k</sub>
-- [ShuaixinHuang/image-multiple-angles-3d-camera](https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera) - Generate images from any camera viewpoint via 3D interactive control. Drag the camera in 3D space or use sliders to set azimuth/elevation/distance, then generate. Built with Three.js + Gradio… <sub>⭐ 1.0k · Python</sub>
-- [maximeraafat/BlenderNeRF](https://github.com/maximeraafat/BlenderNeRF) - Easy NeRF synthetic dataset creation within Blender <sub>⭐ 1.0k · Python</sub>
-- [ashawkey/nerf2mesh](https://github.com/ashawkey/nerf2mesh) - (ICCV2023) Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement <sub>⭐ 967 · Python</sub>
-- [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D) - (CVPR 2025) MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation <sub>⭐ 951 · Python</sub>
-- [Kai-46/nerfplusplus](https://github.com/Kai-46/nerfplusplus) - improves over nerf in 360 capture of unbounded scenes <sub>⭐ 940 · Python</sub>
-- [Totoro97/f2-nerf](https://github.com/Totoro97/f2-nerf) - Fast neural radiance field training with free camera trajectories <sub>⭐ 939 · C</sub>
-- [VAST-AI-Research/TriplaneGaussian](https://github.com/VAST-AI-Research/TriplaneGaussian) - TriplaneGaussian: A new hybrid representation for single-view 3D reconstruction. <sub>⭐ 927 · Python</sub>
-- [ashawkey/RAD-NeRF](https://github.com/ashawkey/RAD-NeRF) - Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition <sub>⭐ 925 · Python</sub>
-- [bluestyle97/awesome-3d-reconstruction-papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers) - A collection of 3D reconstruction papers in the deep learning era. <sub>⭐ 909</sub>
-- [IceCreamYou/THREE.Terrain](https://github.com/IceCreamYou/THREE.Terrain) - A procedural terrain generation engine for use with the Three.js 3D graphics library for the web. <sub>⭐ 908 · JavaScript</sub>
-- [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets <sub>⭐ 893 · Python</sub>
-- [soubhiksanyal/RingNet](https://github.com/soubhiksanyal/RingNet) - Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision <sub>⭐ 886 · Python</sub>
-- [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows <sub>⭐ 866 · Python</sub>
-- [caiyuanhao1998/Open-DiffusionGS](https://github.com/caiyuanhao1998/Open-DiffusionGS) - Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction (ICCV 2025) <sub>⭐ 865 · Python</sub>
-- [ventusff/neurecon](https://github.com/ventusff/neurecon) - Multi-view 3D reconstruction using neural rendering. Unofficial implementation of UNISURF, VolSDF, NeuS and more. <sub>⭐ 861 · Python</sub>
-- [radekd91/emoca](https://github.com/radekd91/emoca) - Official repository accompanying a CVPR 2022 paper EMOCA: Emotion Driven Monocular Face Capture And Animation. EMOCA takes a single image of a face as input and produces a 3D reconstruction. EMOCA… <sub>⭐ 858 · Python</sub>
-- [ayaanzhaque/instruct-nerf2nerf](https://github.com/ayaanzhaque/instruct-nerf2nerf) - Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions (ICCV 2023) <sub>⭐ 853 · Python</sub>
-- [gsgen3d/gsgen](https://github.com/gsgen3d/gsgen) - (CVPR 2024) Text-to-3D using Gaussian Splatting <sub>⭐ 845 · Python</sub>
-- [IGL-HKUST/DiffusionAsShader](https://github.com/IGL-HKUST/DiffusionAsShader) - (SIGGRAPH 2025) Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control <sub>⭐ 844 · Python</sub>
-- [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation <sub>⭐ 837 · Python</sub>
-- [hustvl/GaussianDreamer](https://github.com/hustvl/GaussianDreamer) - (CVPR 2024) GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models <sub>⭐ 833 · Python</sub>
-- [HKUST-SAIL/CraftsMan3D](https://github.com/HKUST-SAIL/CraftsMan3D) - CraftsMan: High-fidelity Mesh Generation with 3D Native Diffusion and Interactive Geometry Refiner <sub>⭐ 831 · Python</sub>
-- [taichi-dev/taichi-nerfs](https://github.com/taichi-dev/taichi-nerfs) - Implementations of NeRF variants based on Taichi + PyTorch <sub>⭐ 829 · Python</sub>
-- [EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer) - Official implementation of "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching" <sub>⭐ 828 · Python</sub>
-- [abdallahdib/NextFace](https://github.com/abdallahdib/NextFace) - A high-fidelity 3D face reconstruction library from monocular RGB image(s) <sub>⭐ 826 · Jupyter Notebook</sub>
-- [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) - A curated list of 3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs, inspired by awesome-computer-vision, including papers, codes, and related websites <sub>⭐ 825</sub>
-- [chenhsuanlin/bundle-adjusting-NeRF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) - BARF: Bundle-Adjusting Neural Radiance Fields (ICCV 2021 oral) <sub>⭐ 823 · Python</sub>
-- [chungyiweng/humannerf](https://github.com/chungyiweng/humannerf) - HumanNeRF turns a monocular video of moving people into a 360 free-viewpoint video. <sub>⭐ 816 · Python</sub>
-- [NVlabs/LongSplat](https://github.com/NVlabs/LongSplat) - (ICCV 2025) LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos <sub>⭐ 811 · Python</sub>
-- [patrikhuber/4dface](https://github.com/patrikhuber/4dface) - Real-time 3D face tracking and reconstruction from 2D video <sub>⭐ 811 · C++</sub>
-- [caiyuanhao1998/SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF) - "Structure-Aware Sparse-View X-ray 3D Reconstruction" (CVPR 2024) - A Toolbox for CT reconstruction and X-ray Novel View Synthesis <sub>⭐ 808 · Python</sub>
-- [invesalius/invesalius3](https://github.com/invesalius/invesalius3) - 3D medical imaging reconstruction software <sub>⭐ 803 · Python</sub>
-- [shg8/3DGS.cpp](https://github.com/shg8/3DGS.cpp) - A cross-platform, high performance renderer for Gaussian Splatting using Vulkan Compute. Supports Windows, Linux, macOS, iOS, and visionOS <sub>⭐ 786 · C++</sub>
-- [dunbar12138/DSNeRF](https://github.com/dunbar12138/DSNeRF) - Code release for DS-NeRF (Depth-supervised Neural Radiance Fields) <sub>⭐ 785 · Python</sub>
-- [Gorilla-Lab-SCUT/Fantasia3D](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) - (ICCV 2023) official repository for "Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation" <sub>⭐ 778 · Python</sub>
-- [wanmeihuali/taichi_3d_gaussian_splatting](https://github.com/wanmeihuali/taichi_3d_gaussian_splatting) - An unofficial implementation of paper 3D Gaussian Splatting for Real-Time Radiance Field Rendering by taichi lang. <sub>⭐ 755 · Jupyter Notebook</sub>
-- [MIT-SPARK/Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data <sub>⭐ 753 · C++</sub>
-- [mks0601/I2L-MeshNet_RELEASE](https://github.com/mks0601/I2L-MeshNet_RELEASE) - Official PyTorch implementation of "I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image", ECCV 2020 <sub>⭐ 738 · Python</sub>
-- [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes <sub>⭐ 737 · Python</sub>
-- [cvlab-kaist/3DFuse](https://github.com/cvlab-kaist/3DFuse) - Official implementation of "Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation" <sub>⭐ 736 · Python</sub>
-- [RareSense/Nova3D](https://github.com/RareSense/Nova3D) - Editable, part-aware 3D generation from text or reference images. Open-source client for nova3d.xyz. <sub>⭐ 725 · Dart</sub>
-- [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity)… <sub>⭐ 724 · Python</sub>
-- [EricGuo5513/text-to-motion](https://github.com/EricGuo5513/text-to-motion) - Official implementation for "Generating Diverse and Natural 3D Human Motions from Texts (CVPR2022)." <sub>⭐ 721 · Python</sub>
-- [eladrich/latent-nerf](https://github.com/eladrich/latent-nerf) - Official Implementation for "Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures" <sub>⭐ 712 · Python</sub>
-- [visonpon/New-View-Synthesis](https://github.com/visonpon/New-View-Synthesis) - Collecting papers about new view synthesis <sub>⭐ 712</sub>
-- [niessner/VoxelHashing](https://github.com/niessner/VoxelHashing) - (Siggraph Asia 2013) Large-Scale, Real-Time 3D Reconstruction <sub>⭐ 710 · C++</sub>
-- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D Model Viewer supporting glTF and 3D Gaussian Splats <sub>⭐ 708 · TypeScript</sub>
-- [zju3dv/NeuralRecon-W](https://github.com/zju3dv/NeuralRecon-W) - Code for "Neural 3D Reconstruction in the Wild", SIGGRAPH 2022 (Conference Proceedings) <sub>⭐ 703 · Python</sub>
-- [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - (ICCV 2021) Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis. <sub>⭐ 696 · Python</sub>
-- [aigc3d/LHM-plusplus](https://github.com/aigc3d/LHM-plusplus) - LHM++: An Efficient Large Human Reconstruction Model for Pose-free Images to 3D <sub>⭐ 694 · Python</sub>
-- [thu-ml/CRM](https://github.com/thu-ml/CRM) - (ECCV 2024) Single Image to 3D Textured Mesh in 10 seconds with Convolutional Reconstruction Model. <sub>⭐ 693 · Python</sub>
-- [visualbruno/3DGenStudio](https://github.com/visualbruno/3DGenStudio) - Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs. <sub>⭐ 689 · JavaScript</sub>
-- [thmoa/videoavatars](https://github.com/thmoa/videoavatars) - This repository contains code corresponding to the paper Video based reconstruction of 3D people models. <sub>⭐ 685 · Python</sub>
-- [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands. <sub>⭐ 681 · C++</sub>
-- [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D surface reconstruction and simulation based on 3D neural rendering. <sub>⭐ 671 · Python</sub>
-- [FrozenBurning/SceneDreamer](https://github.com/FrozenBurning/SceneDreamer) - (TPAMI 2023) SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections <sub>⭐ 661 · Python</sub>
-- [barisgecer/GANFit](https://github.com/barisgecer/GANFit) - Project Page of 'GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction' (CVPR2019) <sub>⭐ 653 · Python</sub>
-- [CVMI-Lab/SC-GS](https://github.com/CVMI-Lab/SC-GS) - (CVPR 2024) Code for SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes <sub>⭐ 653 · Python</sub>
-- [holistic-3d/awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d) - A list of papers and resources (data,code,etc) for holistic 3D reconstruction in computer vision <sub>⭐ 650</sub>
-- [flowful-ai/cad-skill](https://github.com/flowful-ai/cad-skill) - Claude Code skill for parametric 3D-printable model generation with CadQuery <sub>⭐ 646 · Python</sub>
-- [Jittor/JNeRF](https://github.com/Jittor/JNeRF) - JNeRF is a NeRF benchmark based on Jittor. JNeRF re-implemented instant-ngp and achieved same performance with original paper. <sub>⭐ 642 · C++</sub>
-- [justimyhxu/GRM](https://github.com/justimyhxu/GRM) - Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation <sub>⭐ 641</sub>
-- [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision <sub>⭐ 641 · Python</sub>
-- [lif314/awesome-NeRF-papers](https://github.com/lif314/awesome-NeRF-papers) - All NeRF-related papers @ CVPR/ICCV/ECCV/NIPS/ICML/ICLR <sub>⭐ 635</sub>
-- [cgtuebingen/3D-RE-GEN](https://github.com/cgtuebingen/3D-RE-GEN) - 3D Reconstruction of Indoor Scenes with a Generative Framework <sub>⭐ 634 · Python</sub>
-- [jiawei-ren/dreamgaussian4d](https://github.com/jiawei-ren/dreamgaussian4d) - (arXiv 2023) DreamGaussian4D: Generative 4D Gaussian Splatting <sub>⭐ 619 · Python</sub>
-- [PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D) - 3D-aware GANs based on NeRF (arXiv). <sub>⭐ 608 · Python</sub>
-- [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) - A growing curation of Text-to-3D, Diffusion-to-3D works. <sub>⭐ 607 · TeX</sub>
-- [Hardy-Uint/awesome-3D-vision](https://github.com/Hardy-Uint/awesome-3D-vision) - 3D computer vision incuding SLAM，VSALM，Deep Learning，Structured light，Stereo，Three-dimensional reconstruction，Computer vision，Machine Learning and so on <sub>⭐ 604</sub>
-- [linzhiqiu/t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - Evaluating text-to-image/video/3D models with VQAScore <sub>⭐ 603 · Python</sub>
-- [francescofugazzi/3dgsconverter](https://github.com/francescofugazzi/3dgsconverter) - A Python command-line utility for converting and processing 3D Gaussian Splatting models. Supports N-to-N conversion between 3DGS (.ply), KSplat, SOG, SPZ, Splat, CloudCompare, Parquet, and… <sub>⭐ 599 · Python</sub>
-- [city-super/BungeeNeRF](https://github.com/city-super/BungeeNeRF) - (ECCV22) BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering <sub>⭐ 589 · Python</sub>
-- [Danial-Kord/DigiHuman](https://github.com/Danial-Kord/DigiHuman) - Automatic 3D Character animation using Pose Estimation and Landmark Generation techniques <sub>⭐ 587 · C#</sub>
-- [openxrlab/xrnerf](https://github.com/openxrlab/xrnerf) - OpenXRLab Neural Radiance Field (NeRF) Toolbox and Benchmark <sub>⭐ 584 · C++</sub>
-- [JAMESYJL/ShapeLLM-Omni](https://github.com/JAMESYJL/ShapeLLM-Omni) - (NeurIPS 2025 Spotlight) A Native Multimodal LLM for 3D Generation and Understanding <sub>⭐ 579 · Python</sub>
-- [Human3DAIGC/Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes <sub>⭐ 576</sub>
-- [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments. <sub>⭐ 575 · Python</sub>
-- [ActiveVisionLab/nerfmm](https://github.com/ActiveVisionLab/nerfmm) - (Arxiv 2021) NeRF--: Neural Radiance Fields Without Known Camera Parameters <sub>⭐ 574 · Python</sub>
-- [JunyuanDeng/NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM) - (ICCV2023) NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping <sub>⭐ 559 · Python</sub>
-- [NVlabs/GRAIL](https://github.com/NVlabs/GRAIL) - GRAIL is a fully digital data-generation pipeline that synthesizes humanoid loco-manipulation data from 3D assets and world models. – CoRL 2026 (Oral) <sub>⭐ 552 · Python</sub>
-- [YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio). <sub>⭐ 552 · HTML</sub>
-- [chenguolin/DiffSplat](https://github.com/chenguolin/DiffSplat) - (ICLR 2025) Official implementation of "DiffSplat: Repurposing Image Diffusion Models for Scalable 3D Gaussian Splat Generation". <sub>⭐ 546 · Python</sub>
-- [Tencent-Hunyuan/Hunyuan3D-Part](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part) - Hunyuan 3D Part Segmentation and Generation Pipeline <sub>⭐ 544 · Python</sub>
-- [menyifang/En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data", CVPR 2024; 3D Avatar Generation and Animation <sub>⭐ 543 · Python</sub>
-- [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - (IROS 2025) LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction <sub>⭐ 534 · C++</sub>
-- [zju3dv/manhattan_sdf](https://github.com/zju3dv/manhattan_sdf) - Code for "Neural 3D Scene Reconstruction with the Manhattan-world Assumption" CVPR 2022 Oral <sub>⭐ 534 · Python</sub>
-- [junyanz/VON](https://github.com/junyanz/VON) - (NeurIPS 2018) Visual Object Networks: Image Generation with Disentangled 3D Representation. <sub>⭐ 531 · Python</sub>
-- [ShuhongLL/SGS-SLAM](https://github.com/ShuhongLL/SGS-SLAM) - (ECCV 2024) SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM <sub>⭐ 530 · Jupyter Notebook</sub>
-- [Visionary-Laboratory/visionary](https://github.com/Visionary-Laboratory/visionary) - Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform <sub>⭐ 526 · Python</sub>
-- [zju3dv/animatable_nerf](https://github.com/zju3dv/animatable_nerf) - Code for "Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos" TPAMI 2024, ICCV 2021 <sub>⭐ 525 · Python</sub>
-- [pals-ttic/sjc](https://github.com/pals-ttic/sjc) - Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation (CVPR 2023) <sub>⭐ 523 · Python</sub>
-- [Zielon/INSTA](https://github.com/Zielon/INSTA) - INSTA - Instant Volumetric Head Avatars (CVPR2023) <sub>⭐ 520 · C++</sub>
-- [Juyong/CaricatureFace](https://github.com/Juyong/CaricatureFace) - The source code for paper "Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model". <sub>⭐ 517 · Python</sub>
-- [adham-elarabawy/open-quadruped](https://github.com/adham-elarabawy/open-quadruped) - An open-source 3D-printed quadrupedal robot. Intuitive gait generation through 12-DOF Bezier Curves. Full 6-axis body pose manipulation. Custom 3DOF Leg Inverse Kinematics Model accounting for… <sub>⭐ 511 · C++</sub>
-- [VAST-AI-Research/AniGen](https://github.com/VAST-AI-Research/AniGen) - (SIGGRAPH 2026) AniGen: Unified S^3 Fields for Animatable 3D Asset Generation <sub>⭐ 509 · Python</sub>
-- [EricLee0224/awesome-nerf-editing](https://github.com/EricLee0224/awesome-nerf-editing) - A list of papers curated for you to dive into the Awesome Radiance Field-based 3D Editing. <sub>⭐ 506</sub>
-- [MrTornado24/Next3D](https://github.com/MrTornado24/Next3D) - (CVPR 2023 Highlight) Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars <sub>⭐ 504 · Python</sub>
-- [baaivision/GeoDream](https://github.com/baaivision/GeoDream) - GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation <sub>⭐ 499 · Python</sub>
-- [synthesiaresearch/humanrf](https://github.com/synthesiaresearch/humanrf) - Official code for "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion" <sub>⭐ 497 · Python</sub>
-- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis <sub>⭐ 495 · Jupyter Notebook</sub>
-- [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - (CVPR 2024 Highlight) Code for "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting" <sub>⭐ 494 · Python</sub>
-- [GZWSAMA/OnePoseviaGen](https://github.com/GZWSAMA/OnePoseviaGen) - (CORL 2025 Oral)One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation. <sub>⭐ 491 · Python</sub>
-- [GAP-LAB-CUHK-SZ/MVImgNet](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) - CVPR2023 / MVImgNet: A Large-scale Dataset of Multi-view Images <sub>⭐ 489</sub>
-- [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from… <sub>⭐ 488 · Python</sub>
-- [NeuralCarver/Michelangelo](https://github.com/NeuralCarver/Michelangelo) - (NeurIPS 2023) Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation <sub>⭐ 487 · Python</sub>
-- [apple-aiml-research/ml-facelit](https://github.com/apple-aiml-research/ml-facelit) - Official repository of FaceLit: Neural 3D Relightable Faces (CVPR 2023) <sub>⭐ 481 · Python</sub>
-- [MrTornado24/IDE-3D](https://github.com/MrTornado24/IDE-3D) - (SIGGRAPH Asia 2022) IDE-3D: Interactive Disentangled Editing For High-Resolution 3D-aware Portrait Synthesis <sub>⭐ 481 · Jupyter Notebook</sub>
-- [SadilKhan/Text2CAD](https://github.com/SadilKhan/Text2CAD) - (NeurIPS'24 Spotlight) Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts <sub>⭐ 480 · Python</sub>
-- [blendi-remade/falcraft](https://github.com/blendi-remade/falcraft) - 3D structure generation in Minecraft, powered by fal.ai <sub>⭐ 479 · Java</sub>
-- [modelscope/richdreamer](https://github.com/modelscope/richdreamer) - (CVPR2024 (Highlight)) RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D. Live Demo：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC <sub>⭐ 478 · Python</sub>
-- [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder) - (arxiv'26) GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation <sub>⭐ 474 · Python</sub>
-- [POSTECH-CVLab/SCNeRF](https://github.com/POSTECH-CVLab/SCNeRF) - (ICCV21) Self-Calibrating Neural Radiance Fields <sub>⭐ 470 · Python</sub>
-- [hugoycj/Instant-angelo](https://github.com/hugoycj/Instant-angelo) - Instant-angelo: Build high-fidelity Digital Twin within 20 Minutes! <sub>⭐ 464 · Python</sub>
-- [Harry-Zhi/semantic_nerf](https://github.com/Harry-Zhi/semantic_nerf) - The implementation of "In-Place Scene Labelling and Understanding with Implicit Scene Representation" (ICCV 2021). <sub>⭐ 462 · Python</sub>
-- [NVlabs/intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017) <sub>⭐ 459 · C++</sub>
-- [graphdeco-inria/nerfshop](https://github.com/graphdeco-inria/nerfshop) - NeRFshop: Interactive Editing of Neural Radiance Fields <sub>⭐ 458 · Cuda</sub>
-- [nv-tlabs/dvlt](https://github.com/nv-tlabs/dvlt) - Official implementation of Déjà View: Looping Transformers for Multi-View 3D Reconstruction <sub>⭐ 457 · Python</sub>
-- [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - (ICCV'23 Oral, Best Paper Finalist)Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields <sub>⭐ 457 · Python</sub>
-- [if-ai/ComfyUI-IF_Trellis](https://github.com/if-ai/ComfyUI-IF_Trellis) - ComfyUI TRELLIS is a large 3D asset generation in various formats, such as Radiance Fields, 3D Gaussians, and meshes. The cornerstone of TRELLIS is a unified Structured LATent (SLAT) representation… <sub>⭐ 454 · Python</sub>
-- [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023，implementation of "READ: Large-Scale Neural Scene Rendering for Autonomous Driving", the experimental results are significantly better than Nerf-based methods <sub>⭐ 449 · Python</sub>
-- [RaduAlexandru/permuto_sdf](https://github.com/RaduAlexandru/permuto_sdf) - Code for our CVPR'23 paper - "PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices" <sub>⭐ 449 · Python</sub>
-- [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - (CVPR 2026) VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction <sub>⭐ 449 · Python</sub>
-- [CrisHY1995/headnerf](https://github.com/CrisHY1995/headnerf) - This repository contains a pytorch implementation of "HeadNeRF: A Real-time NeRF-based Parametric Head Model (CVPR 2022)". <sub>⭐ 448 · Python</sub>
-- [lifuguan/IGGT_official](https://github.com/lifuguan/IGGT_official) - (ICLR'26) IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction <sub>⭐ 448 · Python</sub>
-- [Lakonik/SSDNeRF](https://github.com/Lakonik/SSDNeRF) - (ICCV 2023) Single-Stage Diffusion NeRF <sub>⭐ 446 · Python</sub>
-- [Bingeljell/image-to-3dlab](https://github.com/Bingeljell/image-to-3dlab) - Local image or text → game-ready 3D on your own machine. Retopology, repaint, rigging and animation helpers, in a web viewer and a CLI. Runs Pixal3D, TRELLIS.2, Hunyuan3D and SF3D. Apple Silicon and… <sub>⭐ 443 · Python</sub>
-- [sxyu/plenoctree](https://github.com/sxyu/plenoctree) - PlenOctrees: NeRF-SH Training & Conversion <sub>⭐ 440 · Python</sub>
-- [lisiyao21/Bailando](https://github.com/lisiyao21/Bailando) - Code for CVPR 2022 paper "Bailando: 3D dance generation via Actor-Critic GPT with Choreographic Memory" <sub>⭐ 439 · Python</sub>
-- [nicolasvonluetzow/GaussianGPT](https://github.com/nicolasvonluetzow/GaussianGPT) - (ECCV'26 Oral) Our method creates 3D Gaussian scenes completely autoregressively, allowing for generation, completion, and outpainting with the same model. <sub>⭐ 437 · Python</sub>
-- [weiyithu/NerfingMVS](https://github.com/weiyithu/NerfingMVS) - (ICCV 2021 Oral) NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo <sub>⭐ 436 · Python</sub>
-- [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving <sub>⭐ 427 · Cuda</sub>
-- [microsoft/World-R1](https://github.com/microsoft/World-R1) - (ICML 2026) World-R1: Reinforcing 3D Constraints for Text-to-Video Generation <sub>⭐ 427 · Python</sub>
-- [kwea123/pytorch-cppcuda-tutorial](https://github.com/kwea123/pytorch-cppcuda-tutorial) - tutorial for writing custom pytorch cpp+cuda kernel, applied on volume rendering (NeRF) <sub>⭐ 423 · Cuda</sub>
-- [H-EmbodVis/VEGA-3D](https://github.com/H-EmbodVis/VEGA-3D) - (ECCV 2026) Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding <sub>⭐ 422 · Python</sub>
-- [heshuting555/Awesome-3DGS-Applications](https://github.com/heshuting555/Awesome-3DGS-Applications) - 【TPAMI 2026】A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation <sub>⭐ 421</sub>
-- [vincentfung13/MINE](https://github.com/vincentfung13/MINE) - Code and models for our ICCV 2021 paper "MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis" <sub>⭐ 421 · Python</sub>
-- [LingyiChen-AI/comfyui-workflow-skill](https://github.com/LingyiChen-AI/comfyui-workflow-skill) - Natural language → ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions, auto model download. Supports txt2img, img2img, txt2vid, img2vid, audio, 3D generation across… <sub>⭐ 420</sub>
-- [liuyuan-pal/NeuRay](https://github.com/liuyuan-pal/NeuRay) - (CVPR2022) Neural Rays for Occlusion-aware Image-based Rendering <sub>⭐ 419 · Python</sub>
-- [NVlabs/sage](https://github.com/NVlabs/sage) - Official Code Release of SAGE: Scalable Agentic 3D Scene Generation for Embodied AI <sub>⭐ 417 · Python</sub>
-- [VDIGPKU/DrivingGaussian](https://github.com/VDIGPKU/DrivingGaussian) - (CVPR 2024) DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes <sub>⭐ 417</sub>
-- [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - (ICLR' 25) SplatFormer: Point Transformer for Robust 3D Gaussian Splatting <sub>⭐ 413 · Python</sub>
-- [apple-aiml-research/ml-hugs](https://github.com/apple-aiml-research/ml-hugs) - Official repository of HUGS: Human Gaussian Splats (CVPR 2024) <sub>⭐ 412 · Python</sub>
-- [NIRVANALAN/GaussianAnything](https://github.com/NIRVANALAN/GaussianAnything) - High-quality and editable surfel 3D Gaussian generation through native 3D diffusion (ICLR 2025) <sub>⭐ 409 · Python</sub>
-- [ActiveVisionLab/nope-nerf](https://github.com/ActiveVisionLab/nope-nerf) - (CVPR 2023) NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior <sub>⭐ 407 · Python</sub>
-- [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - (SIGGRAPH Asia 2026) AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model <sub>⭐ 407 · Python</sub>
-- [scenediffuser/Scene-Diffuser](https://github.com/scenediffuser/Scene-Diffuser) - Official implementation of CVPR23 paper "Diffusion-based Generation, Optimization, and Planning in 3D Scenes" <sub>⭐ 407 · Python</sub>
-- [julienkay/MobileNeRF-Unity-Viewer](https://github.com/julienkay/MobileNeRF-Unity-Viewer) - An unofficial Unity port of the MobileNeRF viewer <sub>⭐ 406 · C#</sub>
-- [KeKsBoTer/c3dgs](https://github.com/KeKsBoTer/c3dgs) - Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis <sub>⭐ 404 · Python</sub>
-- [barbararoessle/dense_depth_priors_nerf](https://github.com/barbararoessle/dense_depth_priors_nerf) - Dense Depth Priors for Neural Radiance Fields from Sparse Input Views <sub>⭐ 403 · Python</sub>
-- [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting <sub>⭐ 401 · Python</sub>
-- [CNES/cars](https://github.com/CNES/cars) - CARS is a dedicated and open source 3D tool to produce Digital Surface Models from satellite imaging by photogrammetry. <sub>⭐ 398 · Python</sub>
-- [weigert/territory](https://github.com/weigert/territory) - 3D rendered proc-gen world test. C++ homebrew voxel engine for agent-driven prodedural generation / world simulation <sub>⭐ 397 · C++</sub>
-- [punkhooren/FaceReconstruction](https://github.com/punkhooren/FaceReconstruction) - Facial Landmark Detection and head pose compute use dlib, Real time Face Reconstruction use 3D Morphable Face Model fitting <sub>⭐ 396 · Makefile</sub>
-- [PrimitiveAnything/PrimitiveAnything](https://github.com/PrimitiveAnything/PrimitiveAnything) - (SIGGRAPH 2025) PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer <sub>⭐ 393 · Python</sub>
-- [lkhphuc/pytorch-3d-point-cloud-generation](https://github.com/lkhphuc/pytorch-3d-point-cloud-generation) - Pytorch code to construct a 3D point cloud model from single RGB image. <sub>⭐ 392 · Python</sub>
-- [zju3dv/NeuMesh](https://github.com/zju3dv/NeuMesh) - Code for "MeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing", ECCV 2022 Oral <sub>⭐ 391 · Python</sub>
-- [caiyuanhao1998/HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) - "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting" (NeurIPS 2024) <sub>⭐ 385 · Python</sub>
-- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Official implementation of arxiv paper "4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions" <sub>⭐ 385 · Python</sub>
-- [imlixinyang/Director3D](https://github.com/imlixinyang/Director3D) - Code for "Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text" (NeurIPS 2024). <sub>⭐ 382 · Python</sub>
-- [ShenhanQian/VHAP](https://github.com/ShenhanQian/VHAP) - A complete head tracking pipeline from videos to NeRF/3DGS-ready datasets. <sub>⭐ 382 · Python</sub>
-- [astra-vision/SceneRF](https://github.com/astra-vision/SceneRF) - (ICCV 2023) Official implementation of "SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields" <sub>⭐ 381 · Python</sub>
-- [zhizdev/sparsefusion](https://github.com/zhizdev/sparsefusion) - (CVPR 2023) SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction <sub>⭐ 380 · Python</sub>
-- [clarte53/GaussianSplattingVRViewerUnity](https://github.com/clarte53/GaussianSplattingVRViewerUnity) - A VR viewer for gaussian splatting models developped as native plugin for unity with the original CUDA rasterizer. <sub>⭐ 379 · C++</sub>
-- [svip-lab/PlanarReconstruction](https://github.com/svip-lab/PlanarReconstruction) - (CVPR'19) Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding <sub>⭐ 374 · Python</sub>
-- [Linyou/taichi-ngp-renderer](https://github.com/Linyou/taichi-ngp-renderer) - An Instants-NGP renderer that has been implemented using Taichi <sub>⭐ 373 · Python</sub>
-- [kxhit/vMAP](https://github.com/kxhit/vMAP) - (CVPR 2023) vMAP: Vectorised Object Mapping for Neural Field SLAM <sub>⭐ 372 · Python</sub>
-- [nerfbaselines/nerfbaselines](https://github.com/nerfbaselines/nerfbaselines) - Reproducible evaluation of NeRF and 3DGS methods <sub>⭐ 372 · Python</sub>
-- [WangFeng18/3d-gaussian-splatting](https://github.com/WangFeng18/3d-gaussian-splatting) - Implementation for 3d gaussian splatting <sub>⭐ 370 · Python</sub>
-- [zju3dv/AutoRecon](https://github.com/zju3dv/AutoRecon) - Code for "AutoRecon: Automated 3D Object Discovery and Reconstruction" CVPR 2023 (Highlight) <sub>⭐ 369 · Python</sub>
-- [qway/nerfmeshes](https://github.com/qway/nerfmeshes) - A pipeline to reconstruct 3d meshes based on Neural Radiance Fields <sub>⭐ 366 · Python</sub>
-- [DiffPoseTalk/DiffPoseTalk](https://github.com/DiffPoseTalk/DiffPoseTalk) - DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models <sub>⭐ 362 · Python</sub>
-- [laanlabs/metal-splats](https://github.com/laanlabs/metal-splats) - Toy iOS + Metal AR Gaussian Splat Renderer <sub>⭐ 362 · Swift</sub>
-- [fabiotosi92/NeRF-Supervised-Deep-Stereo](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo) - A novel paradigm for collecting and generating stereo training data using neural rendering <sub>⭐ 360 · Python</sub>
-- [longxiang-ai/awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) - This repository tracks the latest advancements in 3D Gaussian Splatting from Arxiv, with daily automated updates. Stay up-to-date with cutting-edge research in this exciting field! <sub>⭐ 358 · Python</sub>
-- [InternRobotics/G2VLM](https://github.com/InternRobotics/G2VLM) - (CVPR 2026) G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning <sub>⭐ 357 · Python</sub>
-- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC) - A curated list of papers and open-source resources focused on 3D AIGC. <sub>⭐ 352</sub>
-- [hustvl/TiNeuVox](https://github.com/hustvl/TiNeuVox) - TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels (SIGGRAPH Asia 2022) <sub>⭐ 351 · Python</sub>
-- [Lakonik/MVEdit](https://github.com/Lakonik/MVEdit) - 3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation <sub>⭐ 348 · JavaScript</sub>
-- [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - (ICLR 2023) "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang <sub>⭐ 348 · Python</sub>
-- [guanjq/targetdiff](https://github.com/guanjq/targetdiff) - The official implementation of 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (ICLR 2023) <sub>⭐ 347 · Python</sub>
-- [OpenMeshLab/MeshXL](https://github.com/OpenMeshLab/MeshXL) - (NeurIPS 2024) MeshXL: Neural Coordinate Field for Generative 3D Foundation Models, a 3D fundamental model for mesh generation <sub>⭐ 342 · Python</sub>
-- [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025) <sub>⭐ 340 · Python</sub>
-- [YihangChen-ee/HAC](https://github.com/YihangChen-ee/HAC) - (ECCV 2024) Pytorch implementation of 'HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression' <sub>⭐ 337 · Python</sub>
-- [caiyuanhao1998/X-Gaussian](https://github.com/caiyuanhao1998/X-Gaussian) - "Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis" (ECCV 2024) <sub>⭐ 335 · Python</sub>
-- [meyerls/FruitNeRF](https://github.com/meyerls/FruitNeRF) - (IROS24) Offical Code for "FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework" - Inegrated into Nerfstudio <sub>⭐ 335 · Python</sub>
-- [MECLabTUDA/M3d-Cam](https://github.com/MECLabTUDA/M3d-Cam) - Generation of 3D/ 2D attention maps for both classification and segmentation <sub>⭐ 333 · Python</sub>
-- [VITA-Group/SinNeRF](https://github.com/VITA-Group/SinNeRF) - (ECCV 2022) "SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image", Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Humphrey Shi, Zhangyang Wang <sub>⭐ 329 · Python</sub>
-- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) Official codes and datasets for ACM MM24 paper "Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models". <sub>⭐ 327 · Python</sub>
-- [minnie-lin/Awesome-Physics-Cognition-based-Video-Generation](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) - A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites. <sub>⭐ 326</sub>
-- [mli0603/BlenderNeuralangelo](https://github.com/mli0603/BlenderNeuralangelo) - Blender addon to inspect and preprocess COLMAP data for Neuralangelo (CVPR 2023) <sub>⭐ 325 · Python</sub>
-- [DiT-3D/DiT-3D](https://github.com/DiT-3D/DiT-3D) - Official Codebase of "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation" <sub>⭐ 324 · Python</sub>
-- [zubair-irshad/CenterSnap](https://github.com/zubair-irshad/CenterSnap) - Pytorch code for ICRA'22 paper: "Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation" <sub>⭐ 324 · Jupyter Notebook</sub>
-- [sled-group/chat-with-nerf](https://github.com/sled-group/chat-with-nerf) - (ICRA 2024) Chat with NeRF enables users to interact with a NeRF model by typing in natural language. <sub>⭐ 323 · Python</sub>
-- [skhu101/SHERF](https://github.com/skhu101/SHERF) - Code for our ICCV'2023 paper "SHERF: Generalizable Human NeRF from a Single Image" <sub>⭐ 322 · Python</sub>
-- [ziplab/VolSplat](https://github.com/ziplab/VolSplat) - (ECCV 2026) VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction <sub>⭐ 322 · Python</sub>
-- [PzySeere/MetaSpatial](https://github.com/PzySeere/MetaSpatial) - (ICLR 2026) MetaSpatial leverages reinforcement learning to enhance 3D spatial reasoning in vision-language models (VLMs), enabling more structured, realistic, and adaptive scene generation for… <sub>⭐ 321 · Python</sub>
-- [VITA-Group/NeuralLift-360](https://github.com/VITA-Group/NeuralLift-360) - (CVPR 2023, Highlight) "NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views", Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Yi Wang, Zhangyang Wang <sub>⭐ 318 · Python</sub>
-- [JeffreyXiang/ivid](https://github.com/JeffreyXiang/ivid) - PyTorch implementation of the ICCV paper "3D-aware Image Generation using 2D Diffusion Models" <sub>⭐ 315 · Python</sub>
-- [Mathux/TMR](https://github.com/Mathux/TMR) - Official PyTorch implementation of the paper "TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis" ICCV 2023 <sub>⭐ 313 · Python</sub>
-- [uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp) - We present the first open-source VR NERF Unity package that brings high resolution, low-latency, 6-DOF NERF rendering to VR. This work is based on Nvidia's ground breaking instant-ngp technique. <sub>⭐ 313 · C</sub>
-- [jtydhr88/ComfyUI-HY-Motion1](https://github.com/jtydhr88/ComfyUI-HY-Motion1) - A ComfyUI plugin based on HY-Motion 1.0 for text-to-3D human motion generation. <sub>⭐ 312 · JavaScript</sub>
-- [zju3dv/object_nerf](https://github.com/zju3dv/object_nerf) - Code for "Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering", ICCV 2021 <sub>⭐ 312 · Python</sub>
-- [theICTlab/3DUNDERWORLD-SLS-GPU_CPU](https://github.com/theICTlab/3DUNDERWORLD-SLS-GPU_CPU) - A structured light scanner <sub>⭐ 311 · C++</sub>
-- [zju3dv/habitat-gs](https://github.com/zju3dv/habitat-gs) - (ECCV 2026) Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting <sub>⭐ 309 · C++</sub>
-- [DLR-RM/SingleViewReconstruction](https://github.com/DLR-RM/SingleViewReconstruction) - Official Code: 3D Scene Reconstruction from a Single Viewport <sub>⭐ 308 · Python</sub>
-- [VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D) - (ICML 2024) GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting <sub>⭐ 307 · HTML</sub>
-- [Mixar-AI/mixar-app](https://github.com/Mixar-AI/mixar-app) - AI-powered 3D suite built on Blender, with an integrated agent, moodboard, generation tools and layer-based painting <sub>⭐ 306 · Python</sub>
-- [ChHarding/TouchTerrain_for_CAGEO](https://github.com/ChHarding/TouchTerrain_for_CAGEO) - Touch Terrain: A python app to create 3D printable terrain models (STL/OBJ) from only elevation data (via Google Earth Engine) or from a local geotiff. Has been used for CNC terrain models. Runs as a… <sub>⭐ 305 · CSS</sub>
-- [jasonyzhang/ners](https://github.com/jasonyzhang/ners) - Code for "NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild," in NeurIPS 2021 <sub>⭐ 305 · Python</sub>
-- [filby89/spectre](https://github.com/filby89/spectre) - Official Pytorch Implementation of SPECTRE: Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos <sub>⭐ 304 · Python</sub>
-- [KeKsBoTer/web-splat](https://github.com/KeKsBoTer/web-splat) - 3D Gaussian Splatting Renderer implemented in WebGPU (WGPU) and Rust <sub>⭐ 304 · Rust</sub>
-- [nianticlabs/diffusionerf](https://github.com/nianticlabs/diffusionerf) - (CVPR 2023) DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models <sub>⭐ 304 · Python</sub>
-- [vlongle/pixie](https://github.com/vlongle/pixie) - Feed-forward model for predicting 3D physics with 3DGS + NeRF <sub>⭐ 304 · Jupyter Notebook</sub>
-- [xuan-li/PAC-NeRF](https://github.com/xuan-li/PAC-NeRF) - Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification <sub>⭐ 304 · Python</sub>
-- [DarlingHang/st-nerf](https://github.com/DarlingHang/st-nerf) - PyTorch implementations for our SIGGRAPH 2021 paper: Editable Free-viewpoint Video Using a Layered Neural Representation. <sub>⭐ 302 · Python</sub>
-- [jaidevshriram/realmdreamer](https://github.com/jaidevshriram/realmdreamer) - Code for RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion (3DV 2025) <sub>⭐ 302 · Python</sub>
-- [JRyanShue/NFD](https://github.com/JRyanShue/NFD) - Official codebase for the paper "3D Neural Field Generation using Triplane Diffusion" <sub>⭐ 301 · C</sub>
-- [google-research/sparf](https://github.com/google-research/sparf) - This is the official code release for SPARF: Neural Radiance Fields from Sparse and Noisy Poses (CVPR 2023-Highlight) <sub>⭐ 300 · Python</sub>
-- [EnVision-Research/Kiss3DGen](https://github.com/EnVision-Research/Kiss3DGen) - (CVPR 2025) Official implementation of "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation" <sub>⭐ 298 · Python</sub>
-- [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model <sub>⭐ 297 · TypeScript</sub>
-- [flymin/MagicDrive3D](https://github.com/flymin/MagicDrive3D) - Official implementation of the paper “MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes” <sub>⭐ 297</sub>
-- [jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf) - Official implementation for Tetra-NeRF paper - NeRF represented as triangulation of input point cloud. <sub>⭐ 295 · Python</sub>
-- [3DTopia/GPTEval3D](https://github.com/3DTopia/GPTEval3D) - ( CVPR 2024 ) Implementation for "GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation" <sub>⭐ 292 · Python</sub>
-- [weiqi-zhang/DiffGS](https://github.com/weiqi-zhang/DiffGS) - (NeurIPS'2024): DiffGS: Functional Gaussian Splatting Diffusion <sub>⭐ 292 · C++</sub>
-- [CyberMagician/Project_Golem](https://github.com/CyberMagician/Project_Golem) - A 3D interface for visualizing RAG (Retrieval-Augmented Generation) memory structures in real-time. <sub>⭐ 290 · HTML</sub>
-- [eth-ait/GaussianHaircut](https://github.com/eth-ait/GaussianHaircut) - Gaussian Haircut: Human Hair Reconstruction with Strand-Aligned 3D Gaussians <sub>⭐ 290 · Python</sub>
-- [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF) - Segment-anything interactively in NeRF. <sub>⭐ 287 · Python</sub>
-- [guoriyue/3dgs-warp-scratch](https://github.com/guoriyue/3dgs-warp-scratch) - Build 3D Gaussian Splatting from scratch with NVIDIA Warp in Python — CPU/GPU compatible, with a clean and minimalist design focused on learning modern graphics. <sub>⭐ 286 · Python</sub>
-- [xxlong0/NeuralUDF](https://github.com/xxlong0/NeuralUDF) - Volume rendering based surface reconstruction using Unsigned Distance Fields <sub>⭐ 286 · Python</sub>
-- [sxyu/nerfvis](https://github.com/sxyu/nerfvis) - NeRF visualization library under construction <sub>⭐ 282 · HTML</sub>
-- [ventusff/improved-nerfmm](https://github.com/ventusff/improved-nerfmm) - Unofficial & improved implementation of NeRF--: Neural Radiance Fields Without Known Camera Parameters <sub>⭐ 282 · Python</sub>
-- [hjxwhy/mipnerf_pl](https://github.com/hjxwhy/mipnerf_pl) - Unofficial pytorch-lightning implement of Mip-NeRF <sub>⭐ 281 · Python</sub>
-- [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields <sub>⭐ 281 · Python</sub>
-- [FrozenBurning/Relighting4D](https://github.com/FrozenBurning/Relighting4D) - (ECCV 2022) Relighting4D: Neural Relightable Human from Videos <sub>⭐ 280 · Python</sub>
-- [dreamers-laboratory/image-to-3d-pipeline](https://github.com/dreamers-laboratory/image-to-3d-pipeline) - Reconstruct 3D meshes from images with several open-source models and score which did it best. <sub>⭐ 278 · JavaScript</sub>
-- [pansanity666/Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) - List of recent advances for human avatars, including generation, reconstruction, and editing, etc. <sub>⭐ 277</sub>
-- [WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians) - (ECCV 2024) "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting". Train a scene from real-world blurry images in minutes! <sub>⭐ 277 · Python</sub>
-- [MinkaiXu/GeoLDM](https://github.com/MinkaiXu/GeoLDM) - Geometric Latent Diffusion Models for 3D Molecule Generation <sub>⭐ 276 · Python</sub>
-- [mlslabs/MLSLabsGaussianSplattingRenderer-UE](https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE) - A high-performance Unreal Engine 5 (UE5) plugin developed by MaLanShan Audio & Video Laboratory, designed for real-time visualization, management, and scalable rendering of 3D Gaussian Splatting… <sub>⭐ 274 · C++</sub>
-- [Brummi/BehindTheScenes](https://github.com/Brummi/BehindTheScenes) - Official implementation of the paper: Behind the Scenes: Density Fields for Single View Reconstruction (CVPR 2023) <sub>⭐ 273 · Python</sub>
-- [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - (ECCV2024) (3DV Nectar 2025) FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally <sub>⭐ 272 · Jupyter Notebook</sub>
-- [yiqun-wang/PET-NeuS](https://github.com/yiqun-wang/PET-NeuS) - PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces (CVPR 2023) <sub>⭐ 272 · Python</sub>
-- [czh-98/REALY](https://github.com/czh-98/REALY) - REALY: Rethinking the Evaluation of 3D Face Reconstruction (ECCV 2022) <sub>⭐ 271 · Python</sub>
-- [m-schuetz/Splatshop](https://github.com/m-schuetz/Splatshop) - Edit gaussian splatting models <sub>⭐ 271 · C++</sub>
-- [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD) - A comprehensive survey of forging vision foundation models for autonomous driving, including challenges, methodologies, and opportunities. <sub>⭐ 271</sub>
-- [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada. <sub>⭐ 269 · Python</sub>
-- [jtydhr88/sd-webui-txt-img-to-3d-model](https://github.com/jtydhr88/sd-webui-txt-img-to-3d-model) - A custom extension for sd-webui that allow you to generate 3D model from txt or image, basing on OpenAI Shap-E. <sub>⭐ 269 · Python</sub>
-- [codestella/putting-nerf-on-a-diet](https://github.com/codestella/putting-nerf-on-a-diet) - Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis Implementation <sub>⭐ 266 · Python</sub>
-- [LMD0311/HERMES](https://github.com/LMD0311/HERMES) - (ICCV 2025) HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation <sub>⭐ 264 · Python</sub>
-- [cassiePython/CLIPNeRF](https://github.com/cassiePython/CLIPNeRF) - CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields <sub>⭐ 263 · Python</sub>
-- [med-air/EndoNeRF](https://github.com/med-air/EndoNeRF) - Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery <sub>⭐ 262 · Python</sub>
-- [limuloo/3DIS](https://github.com/limuloo/3DIS) - (ICLR 2025 spotlight) 3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation <sub>⭐ 260 · Jupyter Notebook</sub>
-- [tobias-kirschstein/nersemble](https://github.com/tobias-kirschstein/nersemble) - (Siggraph '23) NeRSemble: Neural Radiance Field Reconstruction of Human Heads <sub>⭐ 259 · Python</sub>
-- [shidahe/semidense-lines](https://github.com/shidahe/semidense-lines) - Incremental 3D Line Segment Extraction for Surface Reconstruction from Semi-dense SLAM <sub>⭐ 258 · C++</sub>
-- [LoHhhha/LATO.2](https://github.com/LoHhhha/LATO.2) - Offical repo for the paper "LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow" <sub>⭐ 255 · Python</sub>
-- [Tencent-Hunyuan/Hunyuan3D-Buffalo1.0](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0) - (Tech Report) A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing <sub>⭐ 255</sub>
-- [nerficg-project/faster-gaussian-splatting](https://github.com/nerficg-project/faster-gaussian-splatting) - An efficient and research-friendly Gaussian Splatting framework described in the CVPR'26 paper "Faster-GS: Analyzing and Improving Gaussian Splatting Optimization" <sub>⭐ 254 · Cuda</sub>
-- [vLAR-group/DM-NeRF](https://github.com/vLAR-group/DM-NeRF) - DM-NeRF in PyTorch (ICLR 2023) <sub>⭐ 253 · Python</sub>
-- [worldbench/WorldLens](https://github.com/worldbench/WorldLens) - (CVPR 2026 Oral) WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World <sub>⭐ 253 · Python</sub>
-- [rover-xingyu/L2G-NeRF](https://github.com/rover-xingyu/L2G-NeRF) - (CVPR 2023) L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields <sub>⭐ 252 · Python</sub>
-- [r00tman/NeRF-OSR](https://github.com/r00tman/NeRF-OSR) - NeRF for Outdoor Scene Relighting (ECCV 2022) <sub>⭐ 249 · Python</sub>
-- [w-m/3dgs-compression-survey](https://github.com/w-m/3dgs-compression-survey) - An open survey on 3D Gaussian Splatting compression methods <sub>⭐ 248 · JavaScript</sub>
-- [airalcorn2/pytorch-nerf](https://github.com/airalcorn2/pytorch-nerf) - Minimal PyTorch implementations of NeRF and pixelNeRF. <sub>⭐ 247 · Python</sub>
-- [zubair-irshad/NeO-360](https://github.com/zubair-irshad/NeO-360) - Pytorch code for ICCV'23 paper. NEO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes <sub>⭐ 246 · Python</sub>
-- [experiencor/image-to-3d-bbox](https://github.com/experiencor/image-to-3d-bbox) - Build a CNN network to predict 3D bounding box of car from 2D image. <sub>⭐ 244 · Jupyter Notebook</sub>
-- [PRBonn/PINGS](https://github.com/PRBonn/PINGS) - PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map (RSS 25) <sub>⭐ 244 · Python</sub>
-- [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - A work list of recent human video generation method. This repository focus on half/full body human video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not… <sub>⭐ 244</sub>
-- [BioinfoMachineLearning/bio-diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - A geometry-complete diffusion generative model (GCDM) for 3D molecule generation and optimization. (Nature CommsChem) <sub>⭐ 242 · Python</sub>
-- [DreamTechAI/Direct3D](https://github.com/DreamTechAI/Direct3D) - (NeurIPS 2024) Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer <sub>⭐ 242 · Python</sub>
-- [jkulhanek/viewformer](https://github.com/jkulhanek/viewformer) - ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers <sub>⭐ 242 · Python</sub>
-- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - (ICCV 2023) A curated list of resources on implicit neural representations in Medical Imaging <sub>⭐ 241</sub>
-- [Madaoer/S3IM-Neural-Fields](https://github.com/Madaoer/S3IM-Neural-Fields) - (ICCV 2023) Pytorch implementation of "S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields". <sub>⭐ 240 · Python</sub>
-- [YxuanAr/Code-as-Room](https://github.com/YxuanAr/Code-as-Room) - A MLLM-based agentic system converts a single room image into executable Blender code for 3D room reconstruction. <sub>⭐ 240 · Python</sub>
-- [NVlabs/LSM](https://github.com/NVlabs/LSM) - (NeurIPS'24) Large Spatial Model: End-to-end Unposed Images to Semantic 3D <sub>⭐ 239 · Python</sub>
-- [ajhamdi/ges-splatting](https://github.com/ajhamdi/ges-splatting) - Original reference implementation of "GES : Generalized Exponential Splatting for Efficient Radiance Field Rendering" (CVPR 2024) <sub>⭐ 238 · Python</sub>
-- [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - Reconstructing compact building models from point clouds using deep implicit fields (ISPRS 2022) <sub>⭐ 238 · Python</sub>
-- [GAP-LAB-CUHK-SZ/deepFashion3D](https://github.com/GAP-LAB-CUHK-SZ/deepFashion3D) - Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images (ECCV2020) <sub>⭐ 237</sub>
-- [huangmozhilv/u2net_torch](https://github.com/huangmozhilv/u2net_torch) - MICCAI2019:3D U$^2$-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation <sub>⭐ 237 · Python</sub>
-- [kiyoakii/is-gpt-nerfed](https://github.com/kiyoakii/is-gpt-nerfed) - Shrinkflation detector for Codex <sub>⭐ 237 · Python</sub>
-- [bharat-b7/IPNet](https://github.com/bharat-b7/IPNet) - Repo for "Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction, ECCV'20(Oral)"" <sub>⭐ 235 · Python</sub>
-- [hustvl/GaussianDreamerPro](https://github.com/hustvl/GaussianDreamerPro) - GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality <sub>⭐ 235 · C++</sub>
-- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - (CVPR2023) NeRF-RPN: A general framework for object detection in NeRFs <sub>⭐ 235 · Python</sub>
-- [fanegg/Feat2GS](https://github.com/fanegg/Feat2GS) - (CVPR2025) Feat2GS: Probing Visual Foundation Models with Gaussian Splatting <sub>⭐ 234 · Python</sub>
-- [PolyCam/polyform](https://github.com/PolyCam/polyform) - Tools for working with raw Polycam data, including export for NeRF and other formats. <sub>⭐ 234 · Python</sub>
-- [DreamScene-Project/DreamScene](https://github.com/DreamScene-Project/DreamScene) - (ECCV2024) DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling <sub>⭐ 232 · Python</sub>
-- [DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D) - This is the official implementation of Tensor4D: Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering. <sub>⭐ 232 · Python</sub>
-- [gwang-kim/DATID-3D](https://github.com/gwang-kim/DATID-3D) - (CVPR 2023) Official implementation of "DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model" <sub>⭐ 232 · Python</sub>
-- [octree-nn/octfusion](https://github.com/octree-nn/octfusion) - OctFusion: Octree-based Diffusion Models for 3D Shape Generation (SGP 2025) <sub>⭐ 232 · Python</sub>
-- [erickingxu/MetalImage](https://github.com/erickingxu/MetalImage) - MetalImage is more faster and powerful than opengles for iOS. It is very similar to GPUImage framework, but perform a better 3D rendering and multithreads computing abilities. <sub>⭐ 229 · Objective-C++</sub>
-- [MatrixBrain/awesome-NeRF](https://github.com/MatrixBrain/awesome-NeRF) - A curated list of awesome neural radiance fields (NeRF) papers. <sub>⭐ 229</sub>
-- [yiqun-wang/HFS](https://github.com/yiqun-wang/HFS) - HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details (NeurIPS 2022) <sub>⭐ 229 · Python</sub>
-- [ZrrSkywalker/I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE) - (CVPR 2023) Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders <sub>⭐ 229 · Python</sub>
-- [cvg/YoNoSplat](https://github.com/cvg/YoNoSplat) - (ICLR'26) YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting <sub>⭐ 228 · Python</sub>
-- [StefanJAuer/RaySAR](https://github.com/StefanJAuer/RaySAR) - RaySAR is a 3D synthetic aperture radar (SAR) simulator which enables to generate SAR image layers related to detailed 3D object models. Moreover, it enables one to localize the 3D positions and… <sub>⭐ 228</sub>
-- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - (ECCV 2022 Oral) Code for "Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation" <sub>⭐ 227 · Python</sub>
-- [quan-meng/gnerf](https://github.com/quan-meng/gnerf) - ( ICCV 2021 Oral ) Our method can estimate camera poses and neural radiance fields jointly when the cameras are initialized at random poses in complex scenarios (outside-in scenes, even with less… <sub>⭐ 227 · Python</sub>
-- [fuxiao0719/PanopticNeRF](https://github.com/fuxiao0719/PanopticNeRF) - (TPAMI'25) PanopticNeRF-360 / (3DV'22) Panoptic NeRF (3D-to-2D Label Transfer in Urban Scenes) <sub>⭐ 225</sub>
-- [kwea123/nsff_pl](https://github.com/kwea123/nsff_pl) - Neural Scene Flow Fields using pytorch-lightning, with potential improvements <sub>⭐ 224 · Jupyter Notebook</sub>
-- [buaacyw/IT3D-text-to-3D](https://github.com/buaacyw/IT3D-text-to-3D) - (AAAI'2024) IT3D: Improved Text-to-3D Generation with Explicit View Synthesis <sub>⭐ 223 · Python</sub>
-- [kwea123/nerf_Unity](https://github.com/kwea123/nerf_Unity) - Unity project for nerf_pl (Neural Radiance Fields) <sub>⭐ 221 · C#</sub>
-- [CVMI-Lab/Point-UV-Diffusion](https://github.com/CVMI-Lab/Point-UV-Diffusion) - (ICCV2023) This is the official PyTorch implementation of ICCV2023 paper: Texture Generation on 3D Meshes with Point-UV Diffusion <sub>⭐ 220 · C++</sub>
-- [yihua7/NeRF-Texture](https://github.com/yihua7/NeRF-Texture) - (SIGGRAPH 2023, TPAMI 2024) Code for NeRF-Texture: Texture Synthesis with Neural Radiance Fields <sub>⭐ 220 · C++</sub>
-- [AoLyu/Some-implementions-with-RGBD-camera-RealSense-D435](https://github.com/AoLyu/Some-implementions-with-RGBD-camera-RealSense-D435) - some personal implementation of 3d object reconstruction, recognition and pose estimation <sub>⭐ 218 · Python</sub>
-- [xhuangcv/hdr-nerf](https://github.com/xhuangcv/hdr-nerf) - The official implementation of CVPR 2022 paper: HDR-NeRF: High Dynamic Range Neural Radiance Fields <sub>⭐ 218 · Python</sub>
-- [javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge) - ROS streaming of images and poses to nerfstudio. <sub>⭐ 216 · Python</sub>
-- [Kunhao-Liu/StyleGaussian](https://github.com/Kunhao-Liu/StyleGaussian) - (SIGGRAPH Asia 2024) StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting <sub>⭐ 216 · Python</sub>
-- [TRI-ML/recgen](https://github.com/TRI-ML/recgen) - Official repo for paper "Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations" (ECCV'26) <sub>⭐ 216 · Jupyter Notebook</sub>
-- [ZhenglinZhou/HeadStudio](https://github.com/ZhenglinZhou/HeadStudio) - (ECCV 2024) HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting. <sub>⭐ 216 · Python</sub>
-- [LetianHuang/op43dgs](https://github.com/LetianHuang/op43dgs) - (ECCV'24) On the Error Analysis of 3D Gaussian Splatting and an Optimal Projection Strategy <sub>⭐ 215 · Cuda</sub>
-- [lukemelas/projection-conditioned-point-cloud-diffusion](https://github.com/lukemelas/projection-conditioned-point-cloud-diffusion) - Official code for "Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction" (CVPR 2023) <sub>⭐ 215 · Python</sub>
-- [ueda0319/neddf](https://github.com/ueda0319/neddf) - (ECCV2022) Neural Density-Distance Fields (NeDDF) <sub>⭐ 215 · Python</sub>
-- [WU-CVGL/MVControl](https://github.com/WU-CVGL/MVControl) - (3DV-2025) Official implementation of "Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting" <sub>⭐ 215 · Python</sub>
-- [YihangChen-ee/HAC-plus](https://github.com/YihangChen-ee/HAC-plus) - (TPAMI 2025) Pytorch implementation of 'HAC++: Towards 100X Compression of 3D Gaussian Splatting' <sub>⭐ 215 · Python</sub>
-- [NVIDIA-Omniverse/usd-content-agents](https://github.com/NVIDIA-Omniverse/usd-content-agents) - AI-powered agents for automating 3D content workflows using Vision-Language Models (VLMs). Content Agents analyze 3D assets and automate material assignment, physics property classification, and… <sub>⭐ 214 · Python</sub>
-- [RodinHD/RodinHD](https://github.com/RodinHD/RodinHD) - (ECCV 2024) RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models <sub>⭐ 214 · Python</sub>
-- [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - (SIGGRAPH 2023) We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields) <sub>⭐ 213 · Jupyter Notebook</sub>
-- [makezur/agenticSTAR](https://github.com/makezur/agenticSTAR) - AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos <sub>⭐ 213 · Python</sub>
-- [med-air/3DSAM-adapter](https://github.com/med-air/3DSAM-adapter) - Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation <sub>⭐ 213 · Python</sub>
-- [leaner-forever/SEGS-SLAM](https://github.com/leaner-forever/SEGS-SLAM) - Offical code for ICCV 2025 "SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding" <sub>⭐ 212 · C++</sub>
-- [MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF) - Codes for Switch-NeRF (ICLR 2023) <sub>⭐ 211 · Python</sub>
-- [wangqiannudt/nerf-arxiv-daily](https://github.com/wangqiannudt/nerf-arxiv-daily) - daily update NeRF releated paper on arxiv <sub>⭐ 211 · Python</sub>
-- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It… <sub>⭐ 210 · JavaScript</sub>
-- [zrporz/4DLangSplat](https://github.com/zrporz/4DLangSplat) - Official implementation of “4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models” (CVPR 2025) <sub>⭐ 210 · Python</sub>
-- [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation <sub>⭐ 209 · Python</sub>
-- [wzyabcas/InterAct](https://github.com/wzyabcas/InterAct) - (CVPR 2025) InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation <sub>⭐ 209 · Python</sub>
-- [xheon/panoptic-reconstruction](https://github.com/xheon/panoptic-reconstruction) - Official implementation of the NeurIPS 2021 paper "Panoptic 3D Scene Reconstruction from a Single RGB Image" <sub>⭐ 209 · Python</sub>
-- [ankurhanda/nerf2D](https://github.com/ankurhanda/nerf2D) - Adding positional encoding to the input preserves sharp edges in the image <sub>⭐ 208 · Python</sub>
-- [hugoycj/NeuralBaker](https://github.com/hugoycj/NeuralBaker) - An unofficial pytorch implementation of BakedSDF <sub>⭐ 208 · Python</sub>
-- [hwjiang1510/MegaSynth](https://github.com/hwjiang1510/MegaSynth) - Code for MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data (CVPR 2025) <sub>⭐ 208 · Python</sub>
-- [yuehaowang/bilarf](https://github.com/yuehaowang/bilarf) - Code Release for "Bilateral Guided Radiance Field Processing" <sub>⭐ 208 · Python</sub>
-- [yxlao/camtools](https://github.com/yxlao/camtools) - CamTools: Camera Tools for Computer Vision <sub>⭐ 208 · Python</sub>
-- [JeremyCJM/DiffSHEG](https://github.com/JeremyCJM/DiffSHEG) - (CVPR'24) DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation <sub>⭐ 207 · Python</sub>
-- [GSFix3D/GSFix3D](https://github.com/GSFix3D/GSFix3D) - GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting <sub>⭐ 206 · Python</sub>
-- [EricGuo5513/action-to-motion](https://github.com/EricGuo5513/action-to-motion) - Official implementations for "Action2Motion: Conditioned Generation of 3D Human Motions (ACM MultiMedia 2020)" <sub>⭐ 205 · Python</sub>
-- [octree-nn/octgpt](https://github.com/octree-nn/octgpt) - OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation (SIGGRAPH 2025) <sub>⭐ 205 · Python</sub>
-- [sherwinbahmani/tc4d](https://github.com/sherwinbahmani/tc4d) - TC4D: Trajectory-Conditioned Text-to-4D Generation <sub>⭐ 205 · Python</sub>
-- [facebookresearch/EyefulTower](https://github.com/facebookresearch/EyefulTower) - Official release of the Eyeful Tower dataset, a high-fidelity multi-view capture of 11 real-world scenes, from the paper “VR-NeRF High-Fidelity Virtualized Walkable Spaces” (Xu et al., SIGGRAPH Asia… <sub>⭐ 204 · Python</sub>
-- [nickponline/dd-nerf-dataset](https://github.com/nickponline/dd-nerf-dataset) - NerF computer vision dataset <sub>⭐ 204 · Python</sub>
-- [cvg/EMAP](https://github.com/cvg/EMAP) - (CVPR'24) 3D Neural Edge Reconstruction <sub>⭐ 203 · Python</sub>
-- [barisgecer/facegan](https://github.com/barisgecer/facegan) - TF implementation of our ECCV 2018 paper: Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model <sub>⭐ 202 · Python</sub>
-- [LemonATsu/A-NeRF](https://github.com/LemonATsu/A-NeRF) - Pytorch implementation for A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose <sub>⭐ 202 · Python</sub>
-- [cyw-3d/SAR3D](https://github.com/cyw-3d/SAR3D) - Official repository for "SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE" <sub>⭐ 201 · Python</sub>
-- [WU-CVGL/BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF) - (CVPR 2023) BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields <sub>⭐ 201 · Python</sub>
-- [eliphatfs/zerorf](https://github.com/eliphatfs/zerorf) - ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining <sub>⭐ 200 · Python</sub>
-- [Sigil-Wen/Dream-with-Vision-Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro) - Text to 3D generation in Apple Vision Pro built with the VisionOS SDK. 3D Scribblenauts in AR for the Scale Generative AI Hackathon. Won Scale AI Prize <sub>⭐ 199 · Swift</sub>
-- [cvg/nerf-on-the-go](https://github.com/cvg/nerf-on-the-go) - (CVPR'24) NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild <sub>⭐ 198 · Python</sub>
-- [quan-meng/lt3sd](https://github.com/quan-meng/lt3sd) - ( CVPR 2025 ) We introduce LT3SD, a novel latent 3D scene diffusion approach enabling high-fidelity generation of infinite 3D environments in a patch-by-patch and coarse-to-fine fashion. <sub>⭐ 198 · Python</sub>
-- [AndriiShramko/4DGS-Video-Generator](https://github.com/AndriiShramko/4DGS-Video-Generator) - Professional Desktop Application for Converting Video Frames to 4D Gaussian Splatting Sequences using Apple's SHARP Model <sub>⭐ 197 · Python</sub>
-- [XPengZhao/NeRF2](https://github.com/XPengZhao/NeRF2) - NeRF2: Neural Radio-Frequency Radiance Fields <sub>⭐ 195 · Python</sub>
-- [zjudmd/Mini-3D-Scanner](https://github.com/zjudmd/Mini-3D-Scanner) - A pipeline for online 3D reconstruction of objects only using visual data from RGB-D camera (Kinect V2). <sub>⭐ 195 · Python</sub>
-- [GVCLab/GSFixer](https://github.com/GVCLab/GSFixer) - (ICML 2026) GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors <sub>⭐ 193 · Python</sub>
-- [PKU-EPIC/GraspNeRF](https://github.com/PKU-EPIC/GraspNeRF) - (ICRA 2023) GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF <sub>⭐ 193 · Python</sub>
-- [notmahi/clip-fields](https://github.com/notmahi/clip-fields) - Teaching robots to respond to open-vocab queries with CLIP and NeRF-like neural fields <sub>⭐ 192 · Python</sub>
-- [humansensinglab/Hamba](https://github.com/humansensinglab/Hamba) - (NeurIPS 2024) Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba <sub>⭐ 191 · Python</sub>
-- [xmuyzz/3D-CNN-PyTorch](https://github.com/xmuyzz/3D-CNN-PyTorch) - PyTorch implementation for 3D CNN models for medical image data (1 channel gray scale images). <sub>⭐ 191 · Python</sub>
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - 「3D Gaussian Splatting for Real Time Radiance Field Rendering」のオリジナルリファレンス実装 <sub>⭐ 24.1k · Python</sub>
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - 即刻のニューラルグラフィックのプリミティブ:落雷速いNeRFおよび多く <sub>⭐ 17.6k · Cuda</sub>
+- [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - 参照イメージでオブジェクトをコードのみ、手続き型、品質ゲート型、アニメーション対応の3.jsモデルとして再構築します。トークン効率の高い画像から-3Dまで。 <sub>⭐ 17.4k · Python</sub>
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026オーラル&ベストペーパー候補) LingBot-Map:3D再構築を効率化するための幾何学的コンテキストトランス <sub>⭐ 17.2k · Python</sub>
+- [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - 大規模のHunyuan3D拡散モデルと高解像3Dアセット生成。 <sub>⭐ 15.0k · Python</sub>
+- [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: 3Dデータ処理のための現代図書館 <sub>⭐ 14.0k · C++</sub>
+- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - 紙「スケーラブルな3Dラテントと汎用性3D生成」の公式レポ(CVPR'25スポットライト)。 <sub>⭐ 13.8k · Python</sub>
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - NeRFsのコラボレーションフレンドリーなスタジオ <sub>⭐ 12.0k · Python</sub>
+- [bmild/nerf](https://github.com/bmild/nerf) - NeRF(ニューラル・ラディアンス・フィールド)のコードリリース <sub>⭐ 10.9k · Jupyter Notebook</sub>
+- [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - リアルタイムのインタラクティブなストリーミングのデジタル人間 <sub>⭐ 9.7k · Python</sub>
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - 使いやすい画像のセグメンテーションライブラリは、Semanticセグメンテーション、インタラクティブセグメンテーション、パノプティックセグメンテーション、イメージで実用的なタスクの広い範囲をサポートし、素晴らしい事前訓練されたモデル動物園と。 <sub>⭐ 9.4k · Python</sub>
+- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - 3D Gaussian Splattingに焦点を合わせた紙やリソースのキュレーションリストは、今後数か月の研究の予想外サージでペースを維持することを意図しました。 <sub>⭐ 8.9k · Python</sub>
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - NeRF+拡散によるテキスト・ツー・3D及びイメージ・トゥ-3D及び網の輸出。 <sub>⭐ 8.9k · Python</sub>
+- [lightningpixel/modly](https://github.com/lightningpixel/modly) - ローカルAIを使用して画像やプロンプトから3Dモデルを生成するデスクトップアプリ — GPUで完全に実行 <sub>⭐ 7.9k · TypeScript</sub>
+- [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - TripoSR:単一のイメージからの速い3Dオブジェクトの復元 <sub>⭐ 7.0k · Python</sub>
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - 素晴らしいニューラル放射状フィールドペーパーのキュレーションリスト <sub>⭐ 6.8k · TeX</sub>
+- [open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLabの次世代プラットフォームで一般的な3Dオブジェクト検出を実現します。 <sub>⭐ 6.5k · Python</sub>
+- [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - ドローン、風船またはカイトのイメージから地図、ポイントクラウド、3DモデルおよびDEMを生成するためのコマンドラインツールキット。 <sub>⭐ 6.5k · Python</sub>
+- [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - 結果を再現するNeRF(ニューラル・ラディアンス・フィールド)のPyTorch実装。 <sub>⭐ 6.1k · Python</sub>
+- [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - 3D世代のクロスドメイン拡散による3D画像 <sub>⭐ 5.4k · Python</sub>
+- [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2:高速、直接LIDAR慣性オドメトリー <sub>⭐ 4.7k · C++</sub>
+- [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Sparse-viewの大きい再構成モデルが付いている単一のイメージからの有効な3D網の生成 <sub>⭐ 4.5k · Python</sub>
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - 超高速C++/CUDAニューラルネットワークフレームワーク <sub>⭐ 4.5k · C++</sub>
+- [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - 「ダイレクトボリュームトリカルCNN回帰による単一の画像から大きなポーズ3D顔再構築」のコード <sub>⭐ 4.5k · MATLAB</sub>
+- [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list) - 3D再構築にリンクした紙と資源のキュレーションリスト。 <sub>⭐ 4.4k</sub>
+- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - (ICLR 2024オーラル)効率的な3Dコンテンツ作成のためのジェネレーション・ガウシアンスプラッティング <sub>⭐ 4.4k · Python</sub>
+- [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - 映像から高忠実度3Dアセットまで、プロダクション・レディPBR素材 <sub>⭐ 4.1k · Python</sub>
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - (CVPR 2024) 4D Gaussian Splatting for Real Time Dynamic シーンレンダリング <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - ComfyUIが3D入力(メッシュ&UVテクスチャなど)を切削エッジアルゴリズム(3DGS、NeRF等)で処理できる広範囲のノードスイート <sub>⭐ 3.9k · Python</sub>
+- [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - 3D Gaussian Splattingシーンを単一のネイティブアプリケーションからトレイン、検査、編集、自動化、およびエクスポートします。 <sub>⭐ 3.8k · C++</sub>
+- [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: ユニバーサルフィードフォワードメトリック3D再構築 <sub>⭐ 3.8k · Python</sub>
+- [Anttwo/SuGaR](https://github.com/Anttwo/SuGaR) - (CVPR 2024) SuGaRの公式PyTorch実装:効率的な3Dメッシュ再構築と高品質のメッシュレンダリングのための表面を一直線に並べ替えたガウスシアンスプラッティング <sub>⭐ 3.5k · C++</sub>
+- [Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) - テンセント・フンユアン3D-1.0:テキストから-3Dまでの統一されたフレームワークと画像から3Dの生成 <sub>⭐ 3.5k · Python</sub>
+- [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - (CVPR 2025) MASt3R-SLAM: 3D再建前のリアルタイム密閉SLAM <sub>⭐ 3.2k · Python</sub>
+- [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3:ゼロショットワン画像から3Dオブジェクト(ICCV 2023) <sub>⭐ 3.1k · Python</sub>
+- [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - (ICLR 2024) DreamCraft3Dの公式実装:Bootstrapped Diffusion優先で階層的な3D生成 <sub>⭐ 3.0k · Python</sub>
+- [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - ポイントクラウドに関する論文とデータセット。 <sub>⭐ 2.9k · Python</sub>
+- [MaximeVandegar/Papers-in-100-Lines-of-Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) - 100行のコードで紙の実装。 <sub>⭐ 2.9k · Python</sub>
+- [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF(ニューラル・ラディアンス・フィールド)とNeRFをワイルドでピトルチライトニング <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [yerfor/GeneFace](https://github.com/yerfor/GeneFace) - GeneFace:一般化と高忠実度3Dトークフェイス合成; ICLR 2023; 公式コード <sub>⭐ 2.7k · Python</sub>
+- [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge) - AI搭載型インタラクティブ3Dモデル生成、検査、プレゼンテーションスタジオ。 <sub>⭐ 2.6k · JavaScript</sub>
+- [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - 3Dヒューマンモーションまたは3Dキャラクターアニメーション生成用のHY-Motionモデル。 <sub>⭐ 2.6k · Python</sub>
+- [yfeng95/DECA](https://github.com/yfeng95/DECA) - DECA:詳細な表現キャプチャとアニメーション(SIGGRAPH 2021) <sub>⭐ 2.5k · Python</sub>
+- [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter) - (NeurIPS 2025) PartCrafter:構成された3Dの網の生成はコンポジション・ラテントの拡散器によって作り出します <sub>⭐ 2.5k · Python</sub>
+- [microsoft/Deep3DFaceReconstruction](https://github.com/microsoft/Deep3DFaceReconstruction) - 正確な3D顔の修復:単一の画像からイメージセット(CVPRW 2019)まで <sub>⭐ 2.4k · Python</sub>
+- [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - (ICLR 2025) 人的アーティストのようにメッシュするものから。 「MeshAnything:Autoregressiveトランスによる美術創造メッシュ生成」の公式単純化 <sub>⭐ 2.3k · Python</sub>
+- [ashawkey/torch-ngp](https://github.com/ashawkey/torch-ngp) - GUIで、インスタントngp(sdfとnerf)のpytorch CUDA拡張実装。 <sub>⭐ 2.2k · Python</sub>
+- [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM:Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) _ 株式会社ドリテック <sub>⭐ 2.2k · Python</sub>
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - (CVPR'24 Highlight & Best Demo Award) ガウス・スプラッティングSLAM <sub>⭐ 2.2k · Python</sub>
+- [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - SLAM/Roboticsドメインに関するインペリシット表現、NeRFおよび3D Gaussian Splatting論文の包括的なリスト(紙、ビデオ、コード、関連ウェブサイトを含む) <sub>⭐ 2.1k</sub>
+- [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - 表面再建のための統一されたフレームワーク <sub>⭐ 2.1k · Python</sub>
+- [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - ゼロ123++のコードリポジトリ:一貫性のあるマルチビュー拡散ベースモデルへの単一のイメージ。 <sub>⭐ 2.1k · Python</sub>
+- [fogleman/sdf](https://github.com/fogleman/sdf) - PythonでシンプルなSDFメッシュ生成 <sub>⭐ 2.0k · Python</sub>
+- [junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D) - (ICCV 2023) Make-It-3D: 拡散先の単一のイメージからの高忠実度3D作成 <sub>⭐ 1.9k · Python</sub>
+- [Stability-AI/stable-fast-3d](https://github.com/Stability-AI/stable-fast-3d) - SF3D:紫外線unwrappingおよび照明の排出との安定した速い3D網の再構成 <sub>⭐ 1.8k · Python</sub>
+- [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) - PointRCNN: ポイントクラウド、CVPR 2019の3Dオブジェクト提案生成と検出。 <sub>⭐ 1.8k · Python</sub>
+- [yerfor/GeneFacePlusPlus](https://github.com/yerfor/GeneFacePlusPlus) - GeneFace++:一般化および安定したリアルタイム3Dトークフェイス生成; 公式コード <sub>⭐ 1.8k · Python</sub>
+- [nywang16/Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Pixel2Mesh:単一のRGBイメージから3Dメッシュモデルを生成します。 ECCV2018で。 <sub>⭐ 1.8k · Python</sub>
+- [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - 3D Gaussian Splatting と Beyond のモジュラーフレームワーク <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion) - WiFi-3D-Fusionは、WiFi CSI信号とディープラーニングを活用したオープンソースの研究プロジェクトで、3Dヒューマンポーズを推定し、コンピュータビジョン技術とワイヤレスセンシングを使用して... <sub>⭐ 1.7k · Python</sub>
+- [One-2-3-45/One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - (NeurIPS 2023) 「1-2-3-45」の公式コード: 任意のシングルイメージから3Dメッシュまで、45秒でPer-Shape最適化なし <sub>⭐ 1.7k · Python</sub>
+- [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - セグメントアニース+ 3D. 3Dに何かを持ち上げてみましょう。 <sub>⭐ 1.6k · Python</sub>
+- [guochengqian/Magic123](https://github.com/guochengqian/Magic123) - (ICLR'24) マジック123の公式PyTorch実装: 2Dと3D拡散先の両方を使用して、高品質の3Dオブジェクト生成への1つの画像 <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyagerは、カメラの入力で調整されたインタラクティブなRGBDビデオ生成モデルであり、リアルタイム3D再構築をサポートしています。 <sub>⭐ 1.6k · Python</sub>
+- [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - 論文、コード、関連ウェブサイトを含むロボティクス/RLドメインに関するインプリシイト表現およびNeRF用紙の包括的なリスト <sub>⭐ 1.6k</sub>
+- [thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer) - ProlificDreamer: 多彩なスコアの蒸留(NeurIPS 2023 Spotlight)による高忠実度および多様なテキストから3D生成 <sub>⭐ 1.6k · Python</sub>
+- [AIGODLIKE/ComfyUI-BlenderAI-node](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) - AIモデルの生成、次世代ブレンダーレンダリングエンジン、テクスチャの強化と生成(ComfyUIベース)に使用されます。 <sub>⭐ 1.6k · Python</sub>
+- [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - 3Dパララックス動画への画像 <sub>⭐ 1.6k · Python</sub>
+- [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp は、NVIDIA カオリンコアの PyTorch ライブラリで、ニューラルフィールド (NRFs, NGLOD, Instant-ngp, VQAD) と連携します。 <sub>⭐ 1.5k · Python</sub>
+- [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - Githubアクションを使用して毎日CVペーパーを自動的に更新 <sub>⭐ 1.5k · Python</sub>
+- [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - (CVPR'24 ベスト・スチューデントペーパー) 口-スプラッティング:アリアスフリー3D Gaussian Splatting <sub>⭐ 1.5k · Python</sub>
+- [sxyu/pixel-nerf](https://github.com/sxyu/pixel-nerf) - ピクセルNeRF公式リポジトリ <sub>⭐ 1.5k · Python</sub>
+- [buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor) - (CVPR 2024) GaussianEditor:Gaussian Splattingで編集するSwiftとControllable 3D <sub>⭐ 1.5k · C++</sub>
+- [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc) - PyTorch の一般的な NeRF アクセラレーションツールボックス。 <sub>⭐ 1.5k · Python</sub>
+- [andyzeng/tsdf-fusion-python](https://github.com/andyzeng/tsdf-fusion-python) - 複数の RGB-D イメージを TSDF voxel ボリュームに fuse する Python コード。 <sub>⭐ 1.4k · Python</sub>
+- [nv-tlabs/GEN3C](https://github.com/nv-tlabs/GEN3C) - (CVPR 2025 Highlight) GEN3C:精密なカメラ制御を用いる 3D-Informed 世界一貫したビデオ生成 <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [nianticlabs/simplerecon](https://github.com/nianticlabs/simplerecon) - (ECCV 2022) シンプルな再構成: 3Dのコンボリューションのない3Dの再構築 <sub>⭐ 1.4k · Python</sub>
+- [NVlabs/BundleSDF](https://github.com/NVlabs/BundleSDF) - (CVPR 2023) BundleSDF:未知のオブジェクトのNeural 6-DoF追跡と3D再構築 <sub>⭐ 1.4k · Python</sub>
+- [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - 再発ニューラルネットワークによるvoxelの再構築への単一/マルチビューイメージ(s) <sub>⭐ 1.4k · Python</sub>
+- [jtydhr88/ComfyUI-qwenmultiangle](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) - 3Dカメラアングルコントロール用のComfyUIカスタムノード。 インタラクティブな3.jsビューポートを提供し、カメラの角度を調整し、複数の角画像生成のためのフォーマットされたプロンプト文字列を出力します。 <sub>⭐ 1.4k · JavaScript</sub>
+- [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) - クロスベンダー3D Gaussian Splattingトレーナー - ビデオからメッシュ、VulkanまたはCUDAに。 <sub>⭐ 1.4k · C++</sub>
+- [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - WorldClaw: スケールでエージェントティック3Dオープンワールドジェネレーション <sub>⭐ 1.3k</sub>
+- [sjtuytc/UnboundedNeRFPytorch](https://github.com/sjtuytc/UnboundedNeRFPytorch) - 最先端の、シンプルで高速なアンバウンド/大規模なNeRF。 <sub>⭐ 1.3k · Python</sub>
+- [nv-tlabs/Difix3D](https://github.com/nv-tlabs/Difix3D) - (CVPR 2025オーラル&ベストペーパーファイナリスト) Difix3D+:単一ステップ拡散モデルによる3D再構築の改善 <sub>⭐ 1.3k · Python</sub>
+- [kwea123/ngp_pl](https://github.com/kwea123/ngp_pl) - pytorch+cudaのインスタントngpは、ピトルチライトニング(高速で高品質、レガブルコードの数行のみ)と訓練 <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - (NeurIPS 2025) Direct3D-S2: ギガスケール 3Dの生成は、空間スペーサに簡単に作られました <sub>⭐ 1.3k · Python</sub>
+- [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM:ニューラル・ラディアンス・フィールドとリアルタイムの密接な一眼レフ。 https://arxiv.org/abs/2210.13641 + シグマ・フュージョン: 緻密なモノキュラームSLAMのための確率的容積融合... <sub>⭐ 1.3k · Python</sub>
+- [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - (ECCV24&ICLR25) ガウス人との高品質の大規模シーン再建のためのシティ・ガスシアンシリーズ <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [Fictionarry/ER-NeRF](https://github.com/Fictionarry/ER-NeRF) - (ICCV'23) 高効率地域-高機能トークポートレートシンセシスのための神経放射線分野 <sub>⭐ 1.3k · Python</sub>
+- [cwchenwang/awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - 3D世代の拡散モデルに関する論文集 <sub>⭐ 1.3k</sub>
+- [3DTopia/OpenLRM](https://github.com/3DTopia/OpenLRM) - 大規模な復興モデルのオープンソースのシンプル。 <sub>⭐ 1.2k · Python</sub>
+- [autonomousvision/giraffe](https://github.com/autonomousvision/giraffe) - このリポジトリには、CVPR 2021紙「GIRAFFE:コンポジション生成ニューラル機能フィールドとしてシーンを表現する」のコードが含まれています。 <sub>⭐ 1.2k · Python</sub>
+- [dendenxu/fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - ジオメトリ・シェーダーベース、グローバルCUDAは高性能3D Gaussian Splatting ラスタライザーをソートしました。バニアルラのdiff-gaussian-rasterizationと比較してレンダリングで5-10xの速度アップを実現できます。 <sub>⭐ 1.2k · Python</sub>
+- [Tencent-Hunyuan/HunyuanWorld-Mirror](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror) - (ICML 2026) WorldMirror: 汎用性の高いタスクの高速かつユニバーサル3D再構築モデル <sub>⭐ 1.2k · Python</sub>
+- [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM:ガウスのスプラッティングとフォトリアルな緻密なSLAM <sub>⭐ 1.2k · Python</sub>
+- [nv-tlabs/LLaMA-Mesh](https://github.com/nv-tlabs/LLaMA-Mesh) - 3Dメッシュ生成を言語モデルで統一 <sub>⭐ 1.2k · Python</sub>
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - (ICLR24) 紙「MagicDrive:ダイバース3D幾何学制御によるストリートビュー生成」の公式実装 <sub>⭐ 1.2k · Python</sub>
+- [Xharlie/pointnerf](https://github.com/Xharlie/pointnerf) - Point-NeRF:ポイントベースニューラル・ラディアンスフィールド <sub>⭐ 1.2k · Python</sub>
+- [kzampog/cilantro](https://github.com/kzampog/cilantro) - ポイントクラウドデータを扱うリーンC++ライブラリ <sub>⭐ 1.1k · C++</sub>
+- [aim-uofa/AdelaiDepth](https://github.com/aim-uofa/AdelaiDepth) - このレポには「バーチャルノーマ」、『ディバース』、『3Dシーンシェイプ』のプロジェクトが含まれています。これらは、単眼深度推定、3Dシーンを単一の画像の問題から再構築することを目指しています。 <sub>⭐ 1.1k · Python</sub>
+- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - (SIGGRAPH 2022 Journal Track) AvatarCLIP:ゼロショットのテキスト駆動生成と3Dアバターアニメーション <sub>⭐ 1.1k · Python</sub>
+- [THU-LYJ-Lab/T3Bench](https://github.com/THU-LYJ-Lab/T3Bench) - T3Bench: テキストから-3D生成までの現在の進捗をベンチマーク <sub>⭐ 1.1k · Python</sub>
+- [lukasHoel/text2room](https://github.com/lukasHoel/text2room) - Text2Room は、2D テキスト・ツー・イメージモデル (ICCV2023) を使用して、特定のテキスト・プロンプトからテクスチャーされた 3D メッシュを生成します。 <sub>⭐ 1.1k · Python</sub>
+- [yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait) - Real3D-Portrait: ワンショット現実的な 3D トークポートレート合成; ICLR 2024 Spotlight; 公式コード <sub>⭐ 1.1k · Python</sub>
+- [Stability-AI/stable-point-aware-3d](https://github.com/Stability-AI/stable-point-aware-3d) - SPAR3D: 単一画像からの 3D オブジェクトの安定したポイント・アウェア再構築 <sub>⭐ 1.1k · Python</sub>
+- [sunset1995/DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) - 速い放射性分野の再構成のための直接voxelの格子最適化。 <sub>⭐ 1.1k · Python</sub>
+- [YudongGuo/AD-NeRF](https://github.com/YudongGuo/AD-NeRF) - このリポジトリには、「AD-NeRF:音声駆動型ニューラル・ラディアンス・フィールド」のPyTorch実装が含まれています。 <sub>⭐ 1.1k · Python</sub>
+- [3DTopia/3DTopia-XL](https://github.com/3DTopia/3DTopia-XL) - (CVPR 2025 Highlight) 3DTopia-XL:Primitive Diffusionによる高品質3D PBRアセット生成 <sub>⭐ 1.0k · Python</sub>
+- [yashbhalgat/HashNeRF-pytorch](https://github.com/yashbhalgat/HashNeRF-pytorch) - Neural Graphics のプリミティブを即座に訓練するNVIDIA ペーパーの純粋な PyTorch 実装: https://nvlabs.github.io/instant-ngp <sub>⭐ 1.0k · Python</sub>
+- [tong-io/tongflow](https://github.com/tong-io/tongflow) - Modality-First GenAIプラットフォーム <sub>⭐ 1.0k · TypeScript</sub>
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - ネフス(NeurIPS 2023 & IJCV 2025)で3Dに何かをセグメント化 <sub>⭐ 1.0k · Python</sub>
+- [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - (ICCV 2025) 人間アーティストのようにメッシュするものから。 "MeshAnything V2:Adjacent Mesh TokenizationによるArtist-Createdメッシュ生成"の公式単純化 <sub>⭐ 1.0k · Python</sub>
+- [natowi/3D-Reconstruction-with-Deep-Learning-Methods](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods) - 3D再建のためのプロジェクト一覧 <sub>⭐ 1.0k</sub>
+- [ShuaixinHuang/image-multiple-angles-3d-camera](https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera) - 3Dインタラクティブコントロールを介して任意のカメラビューポイントから画像を生成します。3Dスペースでカメラをドラッグするか、スライダーを使用して、アジマス/標高/距離を設定し、発生させます。スリージープラス+グラディオ... <sub>⭐ 1.0k · Python</sub>
+- [maximeraafat/BlenderNeRF](https://github.com/maximeraafat/BlenderNeRF) - Blender内の簡単なNeRF合成データセットの作成 <sub>⭐ 1.0k · Python</sub>
+- [ashawkey/nerf2mesh](https://github.com/ashawkey/nerf2mesh) - (ICCV2023) 適応面の改良によるNeRFからの敏感なテクスチャーメッシュ回復 <sub>⭐ 967 · Python</sub>
+- [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D) - (CVPR 2025) MIDI:シングル画像から3Dシーン生成までのマルチインスタンス拡散 <sub>⭐ 951 · Python</sub>
+- [Kai-46/nerfplusplus](https://github.com/Kai-46/nerfplusplus) - 360 シーンをキャプチャした nerf で改善 <sub>⭐ 940 · Python</sub>
+- [Totoro97/f2-nerf](https://github.com/Totoro97/f2-nerf) - フリーカメラの軌跡と高速ニューラル放射性フィールドトレーニング <sub>⭐ 939 · C</sub>
+- [VAST-AI-Research/TriplaneGaussian](https://github.com/VAST-AI-Research/TriplaneGaussian) - TriplaneGaussian:シングルビュー3D再構築のための新しいハイブリッド表現。 <sub>⭐ 927 · Python</sub>
+- [ashawkey/RAD-NeRF](https://github.com/ashawkey/RAD-NeRF) - リアルタイムのニューラル・ラディアンスが音声空間分解によるポートレートシンシスを語る <sub>⭐ 925 · Python</sub>
+- [bluestyle97/awesome-3d-reconstruction-papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers) - 深層学習時代における3D再建紙のコレクション。 <sub>⭐ 909</sub>
+- [IceCreamYou/THREE.Terrain](https://github.com/IceCreamYou/THREE.Terrain) - Web用の3.js 3Dグラフィックスライブラリで使用するための手続き型地形生成エンジン。 <sub>⭐ 908 · JavaScript</sub>
+- [stepfun-ai/Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) - Step1X-3D: 文書化した3Dアセットの高機能および制御可能な生成に向けて <sub>⭐ 893 · Python</sub>
+- [soubhiksanyal/RingNet](https://github.com/soubhiksanyal/RingNet) - 3D の監督なしでイメージからの回帰への学習顔の形そして表現 <sub>⭐ 886 · Python</sub>
+- [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow:連続正規化フローによる3Dポイントクラウド生成 <sub>⭐ 866 · Python</sub>
+- [caiyuanhao1998/Open-DiffusionGS](https://github.com/caiyuanhao1998/Open-DiffusionGS) - ガウスシアン・スプラッティングを高速で拡張可能な単段画像から3Dの生成と再構築(ICCV 2025) <sub>⭐ 865 · Python</sub>
+- [ventusff/neurecon](https://github.com/ventusff/neurecon) - 神経レンダリングを用いたマルチビュー3D再構築。UNISURF、VolSDF、NeuSなどの非公式実装 <sub>⭐ 861 · Python</sub>
+- [radekd91/emoca](https://github.com/radekd91/emoca) - CVPR 2022紙EMOCAに付属する公式リポジトリ:感情駆動型モノラルフェイスキャプチャとアニメーション。 EMOCAは、顔の画像を1枚入して3D再構築を生成します。 EMOCA... <sub>⭐ 858 · Python</sub>
+- [ayaanzhaque/instruct-nerf2nerf](https://github.com/ayaanzhaque/instruct-nerf2nerf) - Instruct-NeRF2NeRF: 手順で3Dシーンを編集 (ICCV 2023) <sub>⭐ 853 · Python</sub>
+- [gsgen3d/gsgen](https://github.com/gsgen3d/gsgen) - (CVPR 2024) Gaussian Splatting を用いたテキスト・ツー・3D <sub>⭐ 845 · Python</sub>
+- [IGL-HKUST/DiffusionAsShader](https://github.com/IGL-HKUST/DiffusionAsShader) - (SIGGRAPH 2025) シェーダーとしての拡散:Versatileビデオ生成制御のための3D-awareのビデオ拡散 <sub>⭐ 844 · Python</sub>
+- [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - 3D形状生成用ラテントポイント拡散モデル <sub>⭐ 837 · Python</sub>
+- [hustvl/GaussianDreamer](https://github.com/hustvl/GaussianDreamer) - (CVPR 2024) GaussianDreamer: 2Dと3D拡散モデルをブリッジすることにより、テキストから3Dガウスに高速生成 <sub>⭐ 833 · Python</sub>
+- [HKUST-SAIL/CraftsMan3D](https://github.com/HKUST-SAIL/CraftsMan3D) - CraftsMan: 3Dネイティブ拡散とインタラクティブ幾何学的精製装置を備えた高忠実度メッシュ生成 <sub>⭐ 831 · Python</sub>
+- [taichi-dev/taichi-nerfs](https://github.com/taichi-dev/taichi-nerfs) - タチ+PyTorchに基づくNeRF変異体の実装 <sub>⭐ 829 · Python</sub>
+- [EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer) - 「LucidDreamer:インターバルスコアマッチングによる高忠実度テキストから3D世代へ」の公式実装 <sub>⭐ 828 · Python</sub>
+- [abdallahdib/NextFace](https://github.com/abdallahdib/NextFace) - モノラルRGB画像から高忠実度3D面再建ライブラリ <sub>⭐ 826 · Jupyter Notebook</sub>
+- [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) - 大型モデルの時代におけるロボティクス分野に関する3D Vision論文のキュレーションリスト(LLMs/VLM)、紙やコード、関連ウェブサイトを含む素晴らしいコンピュータビジョンに触発された <sub>⭐ 825</sub>
+- [chenhsuanlin/bundle-adjusting-NeRF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) - BARF:ニューラル・ラディアンスフィールド(ICCV 2021オーラル)のバンドル調整 <sub>⭐ 823 · Python</sub>
+- [chungyiweng/humannerf](https://github.com/chungyiweng/humannerf) - HumanNeRF は 360 の自由観点映像に人々を移動させる一眼動画を回します。 <sub>⭐ 816 · Python</sub>
+- [NVlabs/LongSplat](https://github.com/NVlabs/LongSplat) - (ICCV 2025) LongSplat: カジュアルなロングビデオのための強いUnposed 3D Gaussian Splatting <sub>⭐ 811 · Python</sub>
+- [patrikhuber/4dface](https://github.com/patrikhuber/4dface) - 2D動画からリアルタイム3D顔追跡と再構築 <sub>⭐ 811 · C++</sub>
+- [caiyuanhao1998/SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF) - 「構造-Aware Sparse-View X線3D再建」(CVPR 2024) - CTの再構築とX線ノベルビュー合成のためのツールボックス <sub>⭐ 808 · Python</sub>
+- [invesalius/invesalius3](https://github.com/invesalius/invesalius3) - 3D医療画像再構築ソフトウェア <sub>⭐ 803 · Python</sub>
+- [shg8/3DGS.cpp](https://github.com/shg8/3DGS.cpp) - Vulkan Compute を使用した Gaussian Splatting 用のクロスプラットフォーム、高性能レンダラー。 Windows、Linux、macOS、iOS、および VisionOS をサポート <sub>⭐ 786 · C++</sub>
+- [dunbar12138/DSNeRF](https://github.com/dunbar12138/DSNeRF) - DS-NeRF(Depth-supervised Neural Radiance Field)のコードリリース <sub>⭐ 785 · Python</sub>
+- [Gorilla-Lab-SCUT/Fantasia3D](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) - (ICCV 2023) 「Fantasia3D: 高品質テキストから-3Dコンテンツ制作のための地質分析と外観の書き出し」に関する公式リポジトリ <sub>⭐ 778 · Python</sub>
+- [wanmeihuali/taichi_3d_gaussian_splatting](https://github.com/wanmeihuali/taichi_3d_gaussian_splatting) - taichi langによるリアルタイム・ラディアンスフィールドレンダリングのための紙3D Gaussian Splattingの非公式な実装。 <sub>⭐ 755 · Jupyter Notebook</sub>
+- [MIT-SPARK/Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - 2Dデータからリアルタイム3Dセマンティック復元 <sub>⭐ 753 · C++</sub>
+- [mks0601/I2L-MeshNet_RELEASE](https://github.com/mks0601/I2L-MeshNet_RELEASE) - 「I2L-MeshNet: 正確な3Dヒューマンポーズと単一のRGB画像からのメッシュ推定のためのイメージツーリクセル予測ネットワーク」の公式PyTorch実装, ECCV 2020 <sub>⭐ 738 · Python</sub>
+- [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - 5分以内のテキストから3D生成 <sub>⭐ 737 · Python</sub>
+- [cvlab-kaist/3DFuse](https://github.com/cvlab-kaist/3DFuse) - 「Let 2D Diffusion Model」の公式実装は、堅牢なテキストから3Dまでの世代を知っています。 <sub>⭐ 736 · Python</sub>
+- [RareSense/Nova3D](https://github.com/RareSense/Nova3D) - 編集可能で、テキストや参照画像から3D生成。nova3d.xyz用のオープンソースクライアント。 <sub>⭐ 725 · Dart</sub>
+- [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - このリポジトリには、「AtlasNet:Papier-Mâché」の3Dサーフェスジェネレーションを学習するためのソースコードが含まれています。ネットワークはメッシュ(ポイントクラウド+コネクティビティ)を合成することができます... <sub>⭐ 724 · Python</sub>
+- [EricGuo5513/text-to-motion](https://github.com/EricGuo5513/text-to-motion) - テキストからダイバーと自然3D人間の動きを生成するための公式な実装(CVPR2022)。 <sub>⭐ 721 · Python</sub>
+- [eladrich/latent-nerf](https://github.com/eladrich/latent-nerf) - 「3D形状とテクスチャの形状ガイド生成のためのLatent-NeRF」の公式実装 <sub>⭐ 712 · Python</sub>
+- [visonpon/New-View-Synthesis](https://github.com/visonpon/New-View-Synthesis) - 新たな視点合成に関する論文の収集 <sub>⭐ 712</sub>
+- [niessner/VoxelHashing](https://github.com/niessner/VoxelHashing) - (Siggraph Asia 2013) 大規模リアルタイム3D再構築 <sub>⭐ 710 · C++</sub>
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3Dモデルビューア対応 glTF と 3D Gaussian Splat <sub>⭐ 708 · TypeScript</sub>
+- [zju3dv/NeuralRecon-W](https://github.com/zju3dv/NeuralRecon-W) - 「野生のニューラル3D再建」のためのコード、SIGGRAPH 2022 (Conference Proceedings) <sub>⭐ 703 · Python</sub>
+- [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - (ICCV 2021) 当社の作品は、ジオメトリとニューラル放射性物質を効率的に再構築できる新しい神経レンダリングアプローチを示します。 <sub>⭐ 696 · Python</sub>
+- [aigc3d/LHM-plusplus](https://github.com/aigc3d/LHM-plusplus) - LHM++: ポーズフリー画像の効率的な大規模な人間再構築モデルを3Dに <sub>⭐ 694 · Python</sub>
+- [thu-ml/CRM](https://github.com/thu-ml/CRM) - (ECCV 2024) 単一イメージを 3D によって編まれる網へのコンボリューション モデルとの 10 秒。 <sub>⭐ 693 · Python</sub>
+- [visualbruno/3DGenStudio](https://github.com/visualbruno/3DGenStudio) - テキスト・ツー・イメージ、画像編集、メッシュ生成、UVアンラップ、テクスチャリングから、ComfyUIと外部APIを搭載した1つのビジュアルワークスペースですべてをオーケストレーションします。 <sub>⭐ 689 · JavaScript</sub>
+- [thmoa/videoavatars](https://github.com/thmoa/videoavatars) - このリポジトリには、3Dモデルの紙ビデオベースの再構築に対応するコードが含まれています。 <sub>⭐ 685 · Python</sub>
+- [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - シングルカメラ、マルチパーマBVH出力、ピュアC++ランタイム、ONNX + ggml、70-ジョイントスケルトンからリアルタイム3Dフルボディ再構築。 <sub>⭐ 681 · C++</sub>
+- [PJLab-ADG/neuralsim](https://github.com/PJLab-ADG/neuralsim) - neuralsim: 3D 表面再構成およびシミュレーションは 3D 神経のレンダリングに基づいていました。 <sub>⭐ 671 · Python</sub>
+- [FrozenBurning/SceneDreamer](https://github.com/FrozenBurning/SceneDreamer) - (TPAMI 2023) SceneDreamer: 2Dイメージコレクションから3Dシーンをアンバウンド <sub>⭐ 661 · Python</sub>
+- [barisgecer/GANFit](https://github.com/barisgecer/GANFit) - 「GANFIT:高忠実度3Dフェイス再建のためのジェネレーション・アドバーサリアルネットワーク適合」のプロジェクトページ(CVPR2019) <sub>⭐ 653 · Python</sub>
+- [CVMI-Lab/SC-GS](https://github.com/CVMI-Lab/SC-GS) - (CVPR 2024) SC-GSのコード: 編集可能な動的シーンのためのSparse-Controlled Gaussian Splatting <sub>⭐ 653 · Python</sub>
+- [holistic-3d/awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d) - コンピュータビジョンにおける3Dの統合のための紙やリソース(データ、コードなど)のリスト <sub>⭐ 650</sub>
+- [flowful-ai/cad-skill](https://github.com/flowful-ai/cad-skill) - パラメトリック3Dプリント可能なモデル生成のためのClaudeコードスキル <sub>⭐ 646 · Python</sub>
+- [Jittor/JNeRF](https://github.com/Jittor/JNeRF) - JNeRFは、Jittorに基づくNERFベンチマークです。JNeRF再実装されたインスタントngpでオリジナルの紙と同等の性能を実現しました。 <sub>⭐ 642 · C++</sub>
+- [justimyhxu/GRM](https://github.com/justimyhxu/GRM) - 効率的な3D再構築と生成のための大規模なガウス再建モデル <sub>⭐ 641</sub>
+- [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - EmerNeRFのPyTorch実装:自己監理による緊急空間空間的シーン分解 <sub>⭐ 641 · Python</sub>
+- [lif314/awesome-NeRF-papers](https://github.com/lif314/awesome-NeRF-papers) - すべてのNeRF関連論文 @ CVPR/ICCV/ECCV/NIPS/ICML/ICLR <sub>⭐ 635</sub>
+- [cgtuebingen/3D-RE-GEN](https://github.com/cgtuebingen/3D-RE-GEN) - 3D 生成フレームワークで屋内シーンの復元 <sub>⭐ 634 · Python</sub>
+- [jiawei-ren/dreamgaussian4d](https://github.com/jiawei-ren/dreamgaussian4d) - (arXiv 2023) DreamGaussian4D: ジェネレーション 4D Gaussian Splatting <sub>⭐ 619 · Python</sub>
+- [PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D) - NeRF(arXiv)に基づく3D-aware GANs。 <sub>⭐ 608 · Python</sub>
+- [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) - テキストから3D、拡散に-3D作品の硬化が高まっています。 <sub>⭐ 607 · TeX</sub>
+- [Hardy-Uint/awesome-3D-vision](https://github.com/Hardy-Uint/awesome-3D-vision) - 3Dコンピュータビジョンは、SLAM、VSALM、ディープラーニング、Structured light、Stereo、三次元再構築、コンピュータの視野、機械学習等を誘発します <sub>⭐ 604</sub>
+- [linzhiqiu/t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - VQAScoreでテキスト・ツー・イメージ/ビデオ/3Dモデルの評価 <sub>⭐ 603 · Python</sub>
+- [francescofugazzi/3dgsconverter](https://github.com/francescofugazzi/3dgsconverter) - 3D Gaussian Splattingモデルの変換と処理のためのPythonコマンドラインユーティリティ。3DGS(.ply)、KSplat、SOG、SPZ、Splat、CloudCompare、ParquetなどのN-to-Nコンバージョンをサポート... <sub>⭐ 599 · Python</sub>
+- [city-super/BungeeNeRF](https://github.com/city-super/BungeeNeRF) - (ECCV22) BungeeNeRF: 極端な多スケールシーンレンダリングのためのプログレッシブニューラルランスフィールド <sub>⭐ 589 · Python</sub>
+- [Danial-Kord/DigiHuman](https://github.com/Danial-Kord/DigiHuman) - Pose Estimationとランドマーク生成技術を用いた自動3Dキャラクターアニメーション <sub>⭐ 587 · C#</sub>
+- [openxrlab/xrnerf](https://github.com/openxrlab/xrnerf) - OpenXRLabニューラル・ラディアンスフィールド(NeRF)ツールボックスとベンチマーク <sub>⭐ 584 · C++</sub>
+- [JAMESYJL/ShapeLLM-Omni](https://github.com/JAMESYJL/ShapeLLM-Omni) - (NeurIPS 2025スポットライト) 3D世代と理解のためのネイティブマルチモーダルLM <sub>⭐ 579 · Python</sub>
+- [Human3DAIGC/Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Make-A-Characterの公式リポジトリ: 微細な中にある高品質テキストから3D文字生成 <sub>⭐ 576</sub>
+- [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: 3DエンボディドAI環境の言語ガイド生成。 <sub>⭐ 575 · Python</sub>
+- [ActiveVisionLab/nerfmm](https://github.com/ActiveVisionLab/nerfmm) - (Arxiv 2021) NeRF-: 既知のカメラの変数のない神経陰性分野 <sub>⭐ 574 · Python</sub>
+- [JunyuanDeng/NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM) - (ICCV2023) NeRF-LOAM:大型車載用Neural Implicit演算 LiDARオドメトリーとマッピング <sub>⭐ 559 · Python</sub>
+- [NVlabs/GRAIL](https://github.com/NVlabs/GRAIL) - GRAILは、3Dアセットと世界モデルからヒューマノイドロコ操作データを合成する、完全にデジタルデータ生成パイプラインです。 – CoRL 2026(オーラル) <sub>⭐ 552 · Python</sub>
+- [YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - LLMs ベースのマルチモーダル世代(画像、ビデオ、3Dおよびオーディオ)に関する論文のキュレーションリスト。 <sub>⭐ 552 · HTML</sub>
+- [chenguolin/DiffSplat](https://github.com/chenguolin/DiffSplat) - (ICLR 2025) 「DiffSplat: Scalable 3D Gaussian Splat Generation の画像拡散モデルを再利用する」の公式実装。 <sub>⭐ 546 · Python</sub>
+- [Tencent-Hunyuan/Hunyuan3D-Part](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part) - Hunyuan 3Dの部品の区分および世代別パイプライン <sub>⭐ 544 · Python</sub>
+- [menyifang/En3D](https://github.com/menyifang/En3D) - 「En3D:2D合成データから3Dヒトを彫刻するための強化された生成モデル」の公式実装、CVPR 2024; 3Dアバター生成とアニメーション <sub>⭐ 543 · Python</sub>
+- [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - (IROS 2025) LiDAR-Augmented Gaussian SplattingとNeural SDF 幾何学的に一貫したレンダリングおよび再構成のための <sub>⭐ 534 · C++</sub>
+- [zju3dv/manhattan_sdf](https://github.com/zju3dv/manhattan_sdf) - 「ニューラル3Dシーン再構築」CVPR 2022オーラル <sub>⭐ 534 · Python</sub>
+- [junyanz/VON](https://github.com/junyanz/VON) - (NeurIPS 2018) ビジュアルオブジェクトネットワーク:Disentangled 3D表現による画像生成。 <sub>⭐ 531 · Python</sub>
+- [ShuhongLL/SGS-SLAM](https://github.com/ShuhongLL/SGS-SLAM) - (ECCV 2024) SGS-SLAM:神経密なSLAMのためのSemantic Gaussianのスプラッティング <sub>⭐ 530 · Jupyter Notebook</sub>
+- [Visionary-Laboratory/visionary](https://github.com/Visionary-Laboratory/visionary) - Visionary: WebGPUパワード・ガウスのスプラッティングプラットフォームで構築された世界モデルキャリア <sub>⭐ 526 · Python</sub>
+- [zju3dv/animatable_nerf](https://github.com/zju3dv/animatable_nerf) - 「ビデオから現実的なアバターを作成するための重要なインプリシットニューラル表現のためのコード」TPAMI 2024、ICCV 2021 <sub>⭐ 525 · Python</sub>
+- [pals-ttic/sjc](https://github.com/pals-ttic/sjc) - スコア・ジェイコブイアンのチェーン: 3D世代(CVPR 2023)のためのプレトレインド2D拡散モデルを持ち上げる <sub>⭐ 523 · Python</sub>
+- [Zielon/INSTA](https://github.com/Zielon/INSTA) - INSTA - インスタント容積計ヘッドアバター (CVPR2023) <sub>⭐ 520 · C++</sub>
+- [Juyong/CaricatureFace](https://github.com/Juyong/CaricatureFace) - 「非線形パラメトリックモデルを用いたカーシチュアのランドマーク検出と3Dフェイス再構築」のためのソースコード。 <sub>⭐ 517 · Python</sub>
+- [adham-elarabawy/open-quadruped](https://github.com/adham-elarabawy/open-quadruped) - オープンソースの3Dプリントされた四次元ロボット。 12-DOF Bezier Curvesを介して直感的な歩行世代。 フル6軸ボディポーズ操作。 カスタム3DOFレッグインバースモデル会計のための... <sub>⭐ 511 · C++</sub>
+- [VAST-AI-Research/AniGen](https://github.com/VAST-AI-Research/AniGen) - (SIGGRAPH 2026) AniGen: Animatable 3Dアセット生成のための統合S^3フィールド <sub>⭐ 509 · Python</sub>
+- [EricLee0224/awesome-nerf-editing](https://github.com/EricLee0224/awesome-nerf-editing) - Awesome Radiance Fieldベースの3D編集に潜むためにキュレーションされた紙のリスト。 <sub>⭐ 506</sub>
+- [MrTornado24/Next3D](https://github.com/MrTornado24/Next3D) - (CVPR 2023 Highlight) Next3D: 3D-Awareヘッドアバターの生成的神経質化 <sub>⭐ 504 · Python</sub>
+- [baaivision/GeoDream](https://github.com/baaivision/GeoDream) - GeoDream: 2D および幾何学の優先順位を高潔化し、一貫した 3D 世代に排出します <sub>⭐ 499 · Python</sub>
+- [synthesiaresearch/humanrf](https://github.com/synthesiaresearch/humanrf) - 「ヒューマンRF:行動の人のための高忠実度ニューラル・ラディアンス・フィールド」の公式コード <sub>⭐ 497 · Python</sub>
+- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - 医学の拡散: このリポジトリは私達のペーパー医学の拡散にコードを含んでいます: 3D 医療画像合成のためのDiffusion Probabilisticモデルを解凍して下さい <sub>⭐ 495 · Jupyter Notebook</sub>
+- [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - (CVPR 2024 Highlight) 「人間ガウスシアン・スプラッティング」によるテキスト駆動型3Dヒューマンジェネレーション <sub>⭐ 494 · Python</sub>
+- [GZWSAMA/OnePoseviaGen](https://github.com/GZWSAMA/OnePoseviaGen) - (CORL 2025オーラル)ワンビュー、多くの世界:単一画像から3Dオブジェクトは1ショット6Dポーズ推定のための生成ドメインのランダム化を満たします。 <sub>⭐ 491 · Python</sub>
+- [GAP-LAB-CUHK-SZ/MVImgNet](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) - CVPR2023 / MVImgNet:マルチビュー画像の大規模データセット <sub>⭐ 489</sub>
+- [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - FLAME 3DヘッドモデルのTensorflowフレームワーク。 このコードは、モデルから3Dヘッドをサンプリングする方法を示しています。 モデルに2Dまたは3Dキーポイントに適合し、テクスチャードされたヘッドメッシュを生成する方法を示します... <sub>⭐ 488 · Python</sub>
+- [NeuralCarver/Michelangelo](https://github.com/NeuralCarver/Michelangelo) - (NeurIPS 2023) ミケランジェロ: 形状イメージテキストをベースとした条件付き3D形生成 <sub>⭐ 487 · Python</sub>
+- [apple-aiml-research/ml-facelit](https://github.com/apple-aiml-research/ml-facelit) - FaceLitの公式リポジトリ:ニューラル3Dリライト可能な顔(CVPR 2023) <sub>⭐ 481 · Python</sub>
+- [MrTornado24/IDE-3D](https://github.com/MrTornado24/IDE-3D) - (SIGGRAPH Asia 2022) IDE-3D:高解像3D-aware Portrait Synthesis用インタラクティブ・ディスンアングル編集 <sub>⭐ 481 · Jupyter Notebook</sub>
+- [SadilKhan/Text2CAD](https://github.com/SadilKhan/Text2CAD) - (NeurIPS'24 Spotlight) テキスト2CAD:初級から上級レベルまで続くCADデザインを生成 <sub>⭐ 480 · Python</sub>
+- [blendi-remade/falcraft](https://github.com/blendi-remade/falcraft) - 3D構造の生成、Minecraft, 供給する fal.ai <sub>⭐ 479 · Java</sub>
+- [modelscope/richdreamer](https://github.com/modelscope/richdreamer) - (CVPR2024(Highlight) RichDreamer: テキストから3Dまでのディテールリッスのための汎用ノーマル・ディープ・ディフュージョンモデル。ライブデモ //modelscope.cn/studios/Damo_XR_Lab/3D_AIGC <sub>⭐ 478 · Python</sub>
+- [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder) - (arxiv'26) GAE: 3D一貫した世界世代のための幾何学的有意空間を学習 <sub>⭐ 474 · Python</sub>
+- [POSTECH-CVLab/SCNeRF](https://github.com/POSTECH-CVLab/SCNeRF) - (ICCV21) 自己審議の神経疾患分野 <sub>⭐ 470 · Python</sub>
+- [hugoycj/Instant-angelo](https://github.com/hugoycj/Instant-angelo) - インスタントアンジェロ:20分以内に高忠実度デジタルツインを構築! <sub>⭐ 464 · Python</sub>
+- [Harry-Zhi/semantic_nerf](https://github.com/Harry-Zhi/semantic_nerf) - 「In-Place シーンのラベリングとインペリシット・シーン表現」の実施(ICCV 2021)。 <sub>⭐ 462 · Python</sub>
+- [NVlabs/intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - 共同外観と空間照明による地質最適化による高品質3D再構築(ICCV 2017) <sub>⭐ 459 · C++</sub>
+- [graphdeco-inria/nerfshop](https://github.com/graphdeco-inria/nerfshop) - NeRFshop:ニューラル・ラディアンスフィールドのインタラクティブな編集 <sub>⭐ 458 · Cuda</sub>
+- [nv-tlabs/dvlt](https://github.com/nv-tlabs/dvlt) - Déjà Viewの公式実装:マルチビュー3D再構築のためのトランスをループする <sub>⭐ 457 · Python</sub>
+- [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - (ICCV'23 経口, ベストペーパーファイナリスト)Tri-MipRF:効率的なアンチエイリアシング神経離脱フィールドのトリミップ表現 <sub>⭐ 457 · Python</sub>
+- [if-ai/ComfyUI-IF_Trellis](https://github.com/if-ai/ComfyUI-IF_Trellis) - ComfyUI TRELLISは、Radiance Fields、3D Gaussiansやメッシュなどのさまざまなフォーマットで大規模な3Dアセット生成です。 トレリスの角石は統一構造LATENT(SLAT)表現です... <sub>⭐ 454 · Python</sub>
+- [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023、「READ:自動運転のための大規模ニューラルシーンレンダリング」の導入、実験結果はNerfベースの方法よりも大幅に優れています <sub>⭐ 449 · Python</sub>
+- [RaduAlexandru/permuto_sdf](https://github.com/RaduAlexandru/permuto_sdf) - 当社のCVPR'23紙のコード - "PermutoSDF:Permutohedral Latticesを使用して、インペリシット表面と高速マルチビュー復元" <sub>⭐ 449 · Python</sub>
+- [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - (CVPR 2026) VLM-3R: ビジョン言語モデルが指示を合わせた3D再構築 <sub>⭐ 449 · Python</sub>
+- [CrisHY1995/headnerf](https://github.com/CrisHY1995/headnerf) - このリポジトリには、「HeadNeRF:リアルタイム NeRF ベースのパラメトリックヘッドモデル(CVPR 2022)」のピトルチ実装が含まれています。 <sub>⭐ 448 · Python</sub>
+- [lifuguan/IGGT_official](https://github.com/lifuguan/IGGT_official) - (ICLR'26) IGGT: セマンティック3D再建のためのインスタンス・ガンジド幾何学の変圧器 <sub>⭐ 448 · Python</sub>
+- [Lakonik/SSDNeRF](https://github.com/Lakonik/SSDNeRF) - (ICCV 2023) シングルステージ拡散NeRF <sub>⭐ 446 · Python</sub>
+- [Bingeljell/image-to-3dlab](https://github.com/Bingeljell/image-to-3dlab) - ローカルイメージやテキスト→ゲーム対応の3Dを自分のマシンに。 リトポロジー、リペイント、リギング、アニメーションヘルパー、WebビューアとCLIで実行します。 Pixal3D、TRELLIS.2、Hunyuan3DおよびSF3Dを実行します。 Apple Siliconと... <sub>⭐ 443 · Python</sub>
+- [sxyu/plenoctree](https://github.com/sxyu/plenoctree) - PlenOctrees:NeRF-SHトレーニング&コンバージョン <sub>⭐ 440 · Python</sub>
+- [lisiyao21/Bailando](https://github.com/lisiyao21/Bailando) - CPR 2022紙「Bailando:3Dダンス世代を俳優Critic GPTとChoreographic Memory」のコード化 <sub>⭐ 439 · Python</sub>
+- [nicolasvonluetzow/GaussianGPT](https://github.com/nicolasvonluetzow/GaussianGPT) - (ECCV'26 オーラル) 3D Gaussian シーンを完全に自動で生成し、完了し、同じモデルでアウトペイントできるようにします。 <sub>⭐ 437 · Python</sub>
+- [weiyithu/NerfingMVS](https://github.com/weiyithu/NerfingMVS) - (ICCV 2021 オーラル) NerfingMVS: 屋内マルチビューステレオのためのニューラル・ラディアンス分野のガイド付き最適化 <sub>⭐ 436 · Python</sub>
+- [carlinds/splatad](https://github.com/carlinds/splatad) - Splatad:自動運転のための3D GaussianのSplattingとリアルタイムのライダーそしてカメラのレンダリング <sub>⭐ 427 · Cuda</sub>
+- [microsoft/World-R1](https://github.com/microsoft/World-R1) - (ICML 2026) 世界R1: テキスト・ツー・ビデオ生成のための3Dの制約を強化する <sub>⭐ 427 · Python</sub>
+- [kwea123/pytorch-cppcuda-tutorial](https://github.com/kwea123/pytorch-cppcuda-tutorial) - カスタムピトルチ cpp + cuda カーネルを記述するためのチュートリアル、ボリュームレンダリング (NeRF) <sub>⭐ 423 · Cuda</sub>
+- [H-EmbodVis/VEGA-3D](https://github.com/H-EmbodVis/VEGA-3D) - (ECCV 2026) 生成モデル 既知の空間:シーン理解のための暗黙3D優先順位を解明 <sub>⭐ 422 · Python</sub>
+- [heshuting555/Awesome-3DGS-Applications](https://github.com/heshuting555/Awesome-3DGS-Applications) - 【TPAMI 2026】3D Gaussian Splatting アプリケーションに関する調査:セグメンテーション、編集および生成 <sub>⭐ 421</sub>
+- [vincentfung13/MINE](https://github.com/vincentfung13/MINE) - ICCV 2021紙のコードとモデル「MINE:NeRFで連続深度MPIをナノベルビュー合成に向けて」 <sub>⭐ 421 · Python</sub>
+- [LingyiChen-AI/comfyui-workflow-skill](https://github.com/LingyiChen-AI/comfyui-workflow-skill) - 自然言語→ComfyUIワークフローJSON. 34の組み込みテンプレート、360 +ノード定義、自動モデルのダウンロード。 txt2img、img2img、txt2vid、img2vid、オーディオ、3D世代をサポート... <sub>⭐ 420</sub>
+- [liuyuan-pal/NeuRay](https://github.com/liuyuan-pal/NeuRay) - (CVPR2022) Occlusion-aware イメージベースのレンダリングのための神経線 <sub>⭐ 419 · Python</sub>
+- [NVlabs/sage](https://github.com/NVlabs/sage) - SAGEの公式コードリリース:エンボディドAIのためのスケーラブルなエージェント3Dシーン生成 <sub>⭐ 417 · Python</sub>
+- [VDIGPKU/DrivingGaussian](https://github.com/VDIGPKU/DrivingGaussian) - (CVPR 2024) ドライビングガウス:ダイナミック自動運転シーンを囲むためのコンポジット・ガウシアンスプラッティング <sub>⭐ 417</sub>
+- [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - (ICLR' 25) SplatFormer: 強烈な3D Gaussianのスプラッティングのためのポイントトランス <sub>⭐ 413 · Python</sub>
+- [apple-aiml-research/ml-hugs](https://github.com/apple-aiml-research/ml-hugs) - HUGSの公式レポジトリ: ヒトガウススプラッツ(CVPR 2024) <sub>⭐ 412 · Python</sub>
+- [NIRVANALAN/GaussianAnything](https://github.com/NIRVANALAN/GaussianAnything) - ネイティブ3Dディフュージョン(ICLR 2025)による高品質で編集可能なサーセル3Dガウス世代 <sub>⭐ 409 · Python</sub>
+- [ActiveVisionLab/nope-nerf](https://github.com/ActiveVisionLab/nope-nerf) - (CVPR 2023) NoPe-NeRF:Pose優先無しのニューラル・ラディアンス分野を最適化 <sub>⭐ 407 · Python</sub>
+- [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - (SIGGRAPH Asia 2026) AnyRecon:ビデオ拡散モデルによるアービトラリービュー3D再構築 <sub>⭐ 407 · Python</sub>
+- [scenediffuser/Scene-Diffuser](https://github.com/scenediffuser/Scene-Diffuser) - CVPR23紙「拡散型生成・最適化・3Dシーンの企画」の公式実装 <sub>⭐ 407 · Python</sub>
+- [julienkay/MobileNeRF-Unity-Viewer](https://github.com/julienkay/MobileNeRF-Unity-Viewer) - MobileNeRFビューアの非公式ユニティポート <sub>⭐ 406 · C#</sub>
+- [KeKsBoTer/c3dgs](https://github.com/KeKsBoTer/c3dgs) - 加速ノベルビュー合成のための圧縮された3D Gaussian Splatting <sub>⭐ 404 · Python</sub>
+- [barbararoessle/dense_depth_priors_nerf](https://github.com/barbararoessle/dense_depth_priors_nerf) - スパルセ入力ビューからニューラル・ラディアンス・フィールドの高密度深度優先 <sub>⭐ 403 · Python</sub>
+- [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - 3D Gaussian Splattingを用いたガウスの画家 <sub>⭐ 401 · Python</sub>
+- [CNES/cars](https://github.com/CNES/cars) - CARSは、フォトグラメトリーによる衛星画像からのデジタル表面モデルを生成する専用のオープンソース3Dツールです。 <sub>⭐ 398 · Python</sub>
+- [weigert/territory](https://github.com/weigert/territory) - 3D は proc-gen 世界テストをレンダリングしました。C++ のエージェント主導の先駆的な世代/世界シミュレーションのための homebrew voxel エンジン <sub>⭐ 397 · C++</sub>
+- [punkhooren/FaceReconstruction](https://github.com/punkhooren/FaceReconstruction) - 顔のランドマーク検出とヘッドポーズコンピュート使用dlib, リアルタイムフェイスレconstruction 使用3Dモルファブルフェイスモデルフィッティング <sub>⭐ 396 · Makefile</sub>
+- [PrimitiveAnything/PrimitiveAnything](https://github.com/PrimitiveAnything/PrimitiveAnything) - (SIGGRAPH 2025) プリミティブアニースイング:自動回帰トランスによるヒト型3Dプリマティブアセンブリ生成 <sub>⭐ 393 · Python</sub>
+- [lkhphuc/pytorch-3d-point-cloud-generation](https://github.com/lkhphuc/pytorch-3d-point-cloud-generation) - 単一のRGBイメージから3Dポイントクラウドモデルを構築するためのPytorchコード。 <sub>⭐ 392 · Python</sub>
+- [zju3dv/NeuMesh](https://github.com/zju3dv/NeuMesh) - "MeuMesh: GeometryとTexture EditingのためのDisentangled Neural MeshベースのImplicitフィールドを学習する、 ECCV 2022オーラル <sub>⭐ 391 · Python</sub>
+- [caiyuanhao1998/HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) - 「HDR-GS: Gaussian Splattingによる1000x速度で効率的な高ダイナミックレンジノベルビュー合成」 (NeurIPS 2024) <sub>⭐ 385 · Python</sub>
+- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - arxiv用紙の公式実装「4K-NeRF:超高精細度ニューラル放射線分野」 <sub>⭐ 385 · Python</sub>
+- [imlixinyang/Director3D](https://github.com/imlixinyang/Director3D) - 「Director3D: リアルワールドカメラの軌跡と3Dシーン生成のためのコード」(NeurIPS 2024). <sub>⭐ 382 · Python</sub>
+- [ShenhanQian/VHAP](https://github.com/ShenhanQian/VHAP) - ビデオからNeRF/3DGS-readyデータセットへの完全なヘッド追跡パイプライン。 <sub>⭐ 382 · Python</sub>
+- [astra-vision/SceneRF](https://github.com/astra-vision/SceneRF) - (ICCV 2023) 「SceneRF:自己監視モノラル3Dシーン再構築」の公式実装 <sub>⭐ 381 · Python</sub>
+- [zhizdev/sparsefusion](https://github.com/zhizdev/sparsefusion) - (CVPR 2023) SparseFusion: 3D再構築のためのビュー調整式拡散を蒸留 <sub>⭐ 380 · Python</sub>
+- [clarte53/GaussianSplattingVRViewerUnity](https://github.com/clarte53/GaussianSplattingVRViewerUnity) - ガウススプラッティングモデルのVRビューアは、オリジナルのCUDAラスタライザーと統一するためのネイティブプラグインとして開発されました。 <sub>⭐ 379 · C++</sub>
+- [svip-lab/PlanarReconstruction](https://github.com/svip-lab/PlanarReconstruction) - (CVPR'19) 単一画像のピースワイズ平面3D再建によるAssociative Embedding <sub>⭐ 374 · Python</sub>
+- [Linyou/taichi-ngp-renderer](https://github.com/Linyou/taichi-ngp-renderer) - タチで実装されているインスタントNGPレンダラー <sub>⭐ 373 · Python</sub>
+- [kxhit/vMAP](https://github.com/kxhit/vMAP) - (CVPR 2023) vMAP:ニューラルフィールドSLAM用ベクター化オブジェクトマッピング <sub>⭐ 372 · Python</sub>
+- [nerfbaselines/nerfbaselines](https://github.com/nerfbaselines/nerfbaselines) - NeRF と 3DGS メソッドの再現性評価 <sub>⭐ 372 · Python</sub>
+- [WangFeng18/3d-gaussian-splatting](https://github.com/WangFeng18/3d-gaussian-splatting) - 3dガウスのスプラッティングの実施 <sub>⭐ 370 · Python</sub>
+- [zju3dv/AutoRecon](https://github.com/zju3dv/AutoRecon) - 「AutoRecon:自動3Dオブジェクトの発見と再構築」CVPR 2023(ハイライト) <sub>⭐ 369 · Python</sub>
+- [qway/nerfmeshes](https://github.com/qway/nerfmeshes) - ニューラル・ラディアンスフィールドに基づく3次元メッシュを再構築するパイプライン <sub>⭐ 366 · Python</sub>
+- [DiffPoseTalk/DiffPoseTalk](https://github.com/DiffPoseTalk/DiffPoseTalk) - DiffPoseTalk:Diffusionモデルによる音声駆動式立体3Dフェイシャルアニメーションとヘッドポーズ生成 <sub>⭐ 362 · Python</sub>
+- [laanlabs/metal-splats](https://github.com/laanlabs/metal-splats) - おもちゃiOS + 金属AR Gausian Splatのレンダリング <sub>⭐ 362 · Swift</sub>
+- [fabiotosi92/NeRF-Supervised-Deep-Stereo](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo) - ニューラルレンダリングを用いたステレオのトレーニングデータを収集・生成するための新たなパラダイム <sub>⭐ 360 · Python</sub>
+- [longxiang-ai/awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) - このリポジトリは、Arxivから3D Gaussian Splattingで最新の進歩を追跡し、毎日自動化された更新を行います。このエキサイティングな分野における最先端の研究が最新です! <sub>⭐ 358 · Python</sub>
+- [InternRobotics/G2VLM](https://github.com/InternRobotics/G2VLM) - (CVPR 2026) G2VLM:無修正3D再建と空間的共鳴による地質学グラウンドビジョン言語モデル <sub>⭐ 357 · Python</sub>
+- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC) - 3D AIGCに焦点を合わせた論文やオープンソースのリソースのキュレーションリスト。 <sub>⭐ 352</sub>
+- [hustvl/TiNeuVox](https://github.com/hustvl/TiNeuVox) - TiNeuVox: タイムアウェアニューラル・バクセル(SIGGRAPH Asia 2022)による高速動的レイダンスフィールド <sub>⭐ 351 · Python</sub>
+- [Lakonik/MVEdit](https://github.com/Lakonik/MVEdit) - 3D-アダプター: 高品質3D生成のための幾何学一貫したマルチビューの拡散 <sub>⭐ 348 · JavaScript</sub>
+- [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - (ICLR 2023) 「すべてのNeRFニーズに注意?」 Mukund Varma T*、Peihao Wang*、Xuxi Chen、Tianlong Chen、Subhashini Venugopalan、Zhangyang Wang <sub>⭐ 348 · Python</sub>
+- [guanjq/targetdiff](https://github.com/guanjq/targetdiff) - ターゲット・アウェア分子生成とAFINITY予測のための3Dエクワリアント拡散の公式実装(ICLR 2023) <sub>⭐ 347 · Python</sub>
+- [OpenMeshLab/MeshXL](https://github.com/OpenMeshLab/MeshXL) - (NeurIPS 2024) MeshXL:メッシュ生成のための3D基本モデルのジェネラル座標フィールド <sub>⭐ 342 · Python</sub>
+- [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - 「GaussianCity: 未踏の3D都市生成のためのジェネレーション・ガウス・スプラッティング」の公式実装。 (CVPR 2025) <sub>⭐ 340 · Python</sub>
+- [YihangChen-ee/HAC](https://github.com/YihangChen-ee/HAC) - (ECCV 2024) 'HAC: 3D Gaussian Splatting圧縮のためのハッシュグリッドアシストコンテクストの実装 <sub>⭐ 337 · Python</sub>
+- [caiyuanhao1998/X-Gaussian](https://github.com/caiyuanhao1998/X-Gaussian) - 「効率的なX線ノベルビュー合成のための放射性ガウスのスプラッティング」(ECCV 2024) <sub>⭐ 335 · Python</sub>
+- [meyerls/FruitNeRF](https://github.com/meyerls/FruitNeRF) - (IROS24) 「FruitNeRF:統一ニューラル・ラディアンスフィールドベースのフルーツカウントフレームワーク」の非公式コード - Nerfstudio に問い合わせ <sub>⭐ 335 · Python</sub>
+- [MECLabTUDA/M3d-Cam](https://github.com/MECLabTUDA/M3d-Cam) - 3D/ 2Dの注目マップを分類とセグメンテーションで生成 <sub>⭐ 333 · Python</sub>
+- [VITA-Group/SinNeRF](https://github.com/VITA-Group/SinNeRF) - (ECCV 2022) "SinNeRF:単一のイメージからの複雑な場面のトレーニングニューラル・ラディアン・フィールド", Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Humphrey Shi, Zhangyang Wang <sub>⭐ 329 · Python</sub>
+- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) ACM MM24紙「Hi3D:ビデオ拡散モデルを用いた高解像画像から-3D生成を追求する」の公式コードとデータセット。 <sub>⭐ 327 · Python</sub>
+- [minnie-lin/Awesome-Physics-Cognition-based-Video-Generation](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) - 紙、コードおよび関連ウェブサイトを含むビデオ生成における物理的認知を調査する論文の包括的なリスト。 <sub>⭐ 326</sub>
+- [mli0603/BlenderNeuralangelo](https://github.com/mli0603/BlenderNeuralangelo) - Neuralangelo (CVPR 2023) のための COLMAP データを検査および前処理するブレンダーのアドオン <sub>⭐ 325 · Python</sub>
+- [DiT-3D/DiT-3D](https://github.com/DiT-3D/DiT-3D) - 「DiT-3D: 3D形状生成のための明白な拡散の変圧器を探検する」の公式コードベース <sub>⭐ 324 · Python</sub>
+- [zubair-irshad/CenterSnap](https://github.com/zubair-irshad/CenterSnap) - ICRA'22紙用ピトルチコード:「シングルショットマルチオブジェクト3D形状再構成とCategorical 6Dポーズとサイズ推定」 <sub>⭐ 324 · Jupyter Notebook</sub>
+- [sled-group/chat-with-nerf](https://github.com/sled-group/chat-with-nerf) - (ICRA 2024) NeRF とのチャットにより、自然言語で入力することでNeRFモデルと対話することができます。 <sub>⭐ 323 · Python</sub>
+- [skhu101/SHERF](https://github.com/skhu101/SHERF) - ICCV'2023紙「SHERF:単一画像から一般化可能な人間NeRF」のコード <sub>⭐ 322 · Python</sub>
+- [ziplab/VolSplat](https://github.com/ziplab/VolSplat) - (ECCV 2026) VolSplat:Voxel-Alignedの予測とフィードフォワード3D Gaussian Splattingを再考する <sub>⭐ 322 · Python</sub>
+- [PzySeere/MetaSpatial](https://github.com/PzySeere/MetaSpatial) - (ICLR 2026) MetaSpatialは、視力言語モデル(VLM)で3D空間推論を強化するために強化学習を活用し、より構造化され、現実的かつ適応的なシーンの生成を可能にします... <sub>⭐ 321 · Python</sub>
+- [VITA-Group/NeuralLift-360](https://github.com/VITA-Group/NeuralLift-360) - (CVPR 2023, Highlight) "NeuralLift-360: 360°ビューの3Dオブジェクトにアンインザワイルド2Dフォトを持ち上げる", Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Yi Wang, Zhangyang Wang <sub>⭐ 318 · Python</sub>
+- [JeffreyXiang/ivid](https://github.com/JeffreyXiang/ivid) - ICCV紙「2D拡散モデルを用いた3次元画像生成」のPyTorch実装 <sub>⭐ 315 · Python</sub>
+- [Mathux/TMR](https://github.com/Mathux/TMR) - 「TMR: 対照的な3D人間の動きの統合を使用してテキスト対モーション・リトリバル」ICCV 2023の公式PyTorch実装 <sub>⭐ 313 · Python</sub>
+- [uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp) - 高解像度、低レイテンシ、6-DOF NERF レンダリングを VR に提供する初のオープンソースVR NERF Unityパッケージを発表。Nvidiaの地盤破壊技術をベースにした作品です。 <sub>⭐ 313 · C</sub>
+- [jtydhr88/ComfyUI-HY-Motion1](https://github.com/jtydhr88/ComfyUI-HY-Motion1) - HY-Motion 1.0をベースにしたComfyUIプラグインで、テキストから3Dまでのヒューマンモーション生成を実現します。 <sub>⭐ 312 · JavaScript</sub>
+- [zju3dv/object_nerf](https://github.com/zju3dv/object_nerf) - 「再生可能なシーンレンダリングのためのオブジェクト・コンポジティブニューラル・ラディアンスフィールドの学習」コード、ICCV 2021 <sub>⭐ 312 · Python</sub>
+- [theICTlab/3DUNDERWORLD-SLS-GPU_CPU](https://github.com/theICTlab/3DUNDERWORLD-SLS-GPU_CPU) - 構造化された軽い走査器 <sub>⭐ 311 · C++</sub>
+- [zju3dv/habitat-gs](https://github.com/zju3dv/habitat-gs) - (ECCV 2026) Habitat-GS:ダイナミック・ガウスのスプラッティングによる高機能ナビゲーションシミュレータ <sub>⭐ 309 · C++</sub>
+- [DLR-RM/SingleViewReconstruction](https://github.com/DLR-RM/SingleViewReconstruction) - 公式コード:単一のビューポートから3Dシーンの復元 <sub>⭐ 308 · Python</sub>
+- [VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D) - (ICML 2024) GALA3D: Layout-guided Generative Gaussian Splatting によるテキスト・ツー・-3D 複雑なシーン生成に向けて <sub>⭐ 307 · HTML</sub>
+- [Mixar-AI/mixar-app](https://github.com/Mixar-AI/mixar-app) - 統合エージェント、ムードボード、世代別ツールとレイヤーベースの絵画を備えたBlender上に構築されたAIを搭載した3Dスイート <sub>⭐ 306 · Python</sub>
+- [ChHarding/TouchTerrain_for_CAGEO](https://github.com/ChHarding/TouchTerrain_for_CAGEO) - Touch Terrain: pythonアプリは、関連するデータ(Google Earth Engine)またはローカルの地理からのみ3Dプリント可能な地形モデル(STL/OBJ)を作成する。 CNC地形モデルのために使用されました。 として実行... <sub>⭐ 305 · CSS</sub>
+- [jasonyzhang/ners](https://github.com/jasonyzhang/ners) - 「NeRS:Spase-View 3D Reconstruction in the Wild」の神経反射表面のためのコード2021 <sub>⭐ 305 · Python</sub>
+- [filby89/spectre](https://github.com/filby89/spectre) - SPECTREの公式Pytorch実装:ビデオから視覚的な音声認識3D顔表現再構築 <sub>⭐ 304 · Python</sub>
+- [KeKsBoTer/web-splat](https://github.com/KeKsBoTer/web-splat) - 3D Gaussian Splatting RendererがWebGPU(WGPU)とRustで実装 <sub>⭐ 304 · Rust</sub>
+- [nianticlabs/diffusionerf](https://github.com/nianticlabs/diffusionerf) - (CVPR 2023) DiffusioNeRF: Denoising Diffusionモデルでニューラル・ラディアンス・フィールドを正規化 <sub>⭐ 304 · Python</sub>
+- [vlongle/pixie](https://github.com/vlongle/pixie) - 3DGS+NeRFで3D物理を予測するためのフィードフォワードモデル <sub>⭐ 304 · Jupyter Notebook</sub>
+- [xuan-li/PAC-NeRF](https://github.com/xuan-li/PAC-NeRF) - 物理は幾何学的システム同一証明のための連続性陰影の放射状ランス分野を拡張しました <sub>⭐ 304 · Python</sub>
+- [DarlingHang/st-nerf](https://github.com/DarlingHang/st-nerf) - SIGGRAPH 2021 論文の PyTorch 実装:レイヤードニューラル表現を用いた編集可能なフリービューポイント動画。 <sub>⭐ 302 · Python</sub>
+- [jaidevshriram/realmdreamer](https://github.com/jaidevshriram/realmdreamer) - RealmDreamerのコード: ペイントとデプス拡散によるテキスト駆動3Dシーン生成 (3DV 2025) <sub>⭐ 302 · Python</sub>
+- [JRyanShue/NFD](https://github.com/JRyanShue/NFD) - 紙「3Dニューラルフィールド生成」の公式コードベース <sub>⭐ 301 · C</sub>
+- [google-research/sparf](https://github.com/google-research/sparf) - SPARFの公式コードリリース:SparseとNoisy Poses(CVPR 2023-Highlight)からのニューラル・ラディアンスフィールド <sub>⭐ 300 · Python</sub>
+- [EnVision-Research/Kiss3DGen](https://github.com/EnVision-Research/Kiss3DGen) - (CVPR 2025) 「Kiss3DGen: 3Dアセット生成のための画像拡散モデルの削除」の公式実装 <sub>⭐ 298 · Python</sub>
+- [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - アップルのSHARPモデルを使用して、ガウスシアンSplatsを作成するWeb遊び場 <sub>⭐ 297 · TypeScript</sub>
+- [flymin/MagicDrive3D](https://github.com/flymin/MagicDrive3D) - 紙「MagicDrive3D:ストリートシーンにおけるあらゆるビューレンダリングのための制御可能な3D生成」の公式実装 <sub>⭐ 297</sub>
+- [jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf) - Tetra-NeRF 紙の公式実装 - NeRF は入力ポイントクラウドの三角化として表されます。 <sub>⭐ 295 · Python</sub>
+- [3DTopia/GPTEval3D](https://github.com/3DTopia/GPTEval3D) - (CVPR 2024) 「GPT-4V(イシオン)」の実装は、テキストから3D世代までの人格評価者です。 <sub>⭐ 292 · Python</sub>
+- [weiqi-zhang/DiffGS](https://github.com/weiqi-zhang/DiffGS) - (NeurIPS'2024): DiffGS: 機能的なガウスの散布 <sub>⭐ 292 · C++</sub>
+- [CyberMagician/Project_Golem](https://github.com/CyberMagician/Project_Golem) - RAG(Retrieval-Augmented generation)メモリ構造をリアルタイムで可視化するための3Dインターフェイスです。 <sub>⭐ 290 · HTML</sub>
+- [eth-ait/GaussianHaircut](https://github.com/eth-ait/GaussianHaircut) - Gaussian Haircut: 人間の毛髪の修復とストランド-アライメント3Dガウス <sub>⭐ 290 · Python</sub>
+- [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF) - NeRF でインタラクティブなセグメントアニース。 <sub>⭐ 287 · Python</sub>
+- [guoriyue/3dgs-warp-scratch](https://github.com/guoriyue/3dgs-warp-scratch) - 3D Gaussian SplattingをPythonでNVIDIA Warpとゼロからビルド — CPU / GPU互換、モダングラフィックスを学ぶことに重点を置くクリーンでミニマリストなデザイン。 <sub>⭐ 286 · Python</sub>
+- [xxlong0/NeuralUDF](https://github.com/xxlong0/NeuralUDF) - 非署名された間隔分野を使用して容積のレンダリングに基づく表面再構成 <sub>⭐ 286 · Python</sub>
+- [sxyu/nerfvis](https://github.com/sxyu/nerfvis) - 建設中のNeRF視覚化ライブラリ <sub>⭐ 282 · HTML</sub>
+- [ventusff/improved-nerfmm](https://github.com/ventusff/improved-nerfmm) - NeRF-の非公式および改善された実装: 既知のカメラ変数のないニューラル・ラディアンス分野 <sub>⭐ 282 · Python</sub>
+- [hjxwhy/mipnerf_pl](https://github.com/hjxwhy/mipnerf_pl) - Mip-NeRF の非公式ピトルチ ライトニング実装 <sub>⭐ 281 · Python</sub>
+- [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - ネラル・ラディアンス・フィールドを用いたモンテカルロのローカライゼーション <sub>⭐ 281 · Python</sub>
+- [FrozenBurning/Relighting4D](https://github.com/FrozenBurning/Relighting4D) - (ECCV 2022) Relighting4D:ニューラル・リライトマン動画から <sub>⭐ 280 · Python</sub>
+- [dreamers-laboratory/image-to-3d-pipeline](https://github.com/dreamers-laboratory/image-to-3d-pipeline) - 3Dメッシュを複数のオープンソースモデルとスコアで再構築する。 <sub>⭐ 278 · JavaScript</sub>
+- [pansanity666/Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) - 世代・復興・編集など、ヒトアバターの最近の進展のリスト <sub>⭐ 277</sub>
+- [WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians) - (ECCV 2024) 「BAD-Gaussians: バンドル・アジャスト・デブル・ガウス・スプラッティング」。現実世界のブルーリー映像を数分で走る! <sub>⭐ 277 · Python</sub>
+- [MinkaiXu/GeoLDM](https://github.com/MinkaiXu/GeoLDM) - 3D分子生成のための幾何学的なラテントの拡散モデル <sub>⭐ 276 · Python</sub>
+- [mlslabs/MLSLabsGaussianSplattingRenderer-UE](https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE) - MaLanShan Audio & Video Laboratoryが開発した高性能Unreal Engine 5(UE5)プラグインは、3D Gaussian Splattingのリアルタイム可視化、管理およびスケーラブルレンダリング用に設計されています。 <sub>⭐ 274 · C++</sub>
+- [Brummi/BehindTheScenes](https://github.com/Brummi/BehindTheScenes) - 紙の公式実装:シーンの裏側:単一のビュー復元のための密度フィールド(CVPR 2023) <sub>⭐ 273 · Python</sub>
+- [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - (ECCV2024) (3DV Nectar 2025) FlashSplat: 2D〜3D Gaussian Splatting Segmentation 解決する 最適化 <sub>⭐ 272 · Jupyter Notebook</sub>
+- [yiqun-wang/PET-NeuS](https://github.com/yiqun-wang/PET-NeuS) - PET-NeuS:ニューラル・サーフェス(CVPR 2023)用位置エンコードトライプラン <sub>⭐ 272 · Python</sub>
+- [czh-98/REALY](https://github.com/czh-98/REALY) - REALY: 3D 顔の復興の評価を再考する (ECCV 2022) <sub>⭐ 271 · Python</sub>
+- [m-schuetz/Splatshop](https://github.com/m-schuetz/Splatshop) - gaussianスプラッティングモデルの編集 <sub>⭐ 271 · C++</sub>
+- [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD) - 課題、方法論、機会を含む自動運転のための鍛造ビジョンの基礎モデルの包括的な調査。 <sub>⭐ 271</sub>
+- [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - 加藤、Y・上徳、T.原田による単画像3D再建「ニューラル3Dメッシュレンダリング」のコード。 <sub>⭐ 269 · Python</sub>
+- [jtydhr88/sd-webui-txt-img-to-3d-model](https://github.com/jtydhr88/sd-webui-txt-img-to-3d-model) - sd-webuiのカスタムエクステンションで、txtやイメージから3Dモデルを生成し、OpenAI Shap-E上でバッシングすることができます。 <sub>⭐ 269 · Python</sub>
+- [codestella/putting-nerf-on-a-diet](https://github.com/codestella/putting-nerf-on-a-diet) - 食事療法にNeRFを置く:著名な一貫性のあるFew-Shotビューの統合実装 <sub>⭐ 266 · Python</sub>
+- [LMD0311/HERMES](https://github.com/LMD0311/HERMES) - (ICCV 2025) HERMES:同時3Dシーンの理解と生成のための統一された自己主導型世界モデル <sub>⭐ 264 · Python</sub>
+- [cassiePython/CLIPNeRF](https://github.com/cassiePython/CLIPNeRF) - CLIP-NeRF:ニューラル・ラディアンスフィールドのテキストとイメージを駆動する操作 <sub>⭐ 263 · Python</sub>
+- [med-air/EndoNeRF](https://github.com/med-air/EndoNeRF) - ロボット手術における変形性チズスのステレオ3D再構築のための神経レンダリング <sub>⭐ 262 · Python</sub>
+- [limuloo/3DIS](https://github.com/limuloo/3DIS) - (ICLR 2025スポットライト) 3DIS: 深度駆動のイメージ生成のためのインスタンス合成 <sub>⭐ 260 · Jupyter Notebook</sub>
+- [tobias-kirschstein/nersemble](https://github.com/tobias-kirschstein/nersemble) - (シググラフ '23) NeRSemble:人間の頭部の神経ダンス分野再構成 <sub>⭐ 259 · Python</sub>
+- [shidahe/semidense-lines](https://github.com/shidahe/semidense-lines) - 半密SLAMからの表面の再建のためのIncremental 3Dライン区分の抽出 <sub>⭐ 258 · C++</sub>
+- [LoHhhha/LATO.2](https://github.com/LoHhhha/LATO.2) - 紙「LATO.2:Vertexとトポロジーフローによる3Dメッシュ生成」のためのオフカルレポ <sub>⭐ 255 · Python</sub>
+- [Tencent-Hunyuan/Hunyuan3D-Buffalo1.0](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0) - (技術レポート) 拡張可能な3D生成、理解、編集のための統一されたマルチモーダルモデル <sub>⭐ 255</sub>
+- [nerficg-project/faster-gaussian-splatting](https://github.com/nerficg-project/faster-gaussian-splatting) - CVPR'26紙「Faster-GS: Gaussian Splatting Optimizationの分析と改良」で説明されている効率的かつ研究に適しているガウススプラッティングフレームワーク <sub>⭐ 254 · Cuda</sub>
+- [vLAR-group/DM-NeRF](https://github.com/vLAR-group/DM-NeRF) - PyTorch DM-NeRF (ICLR 2023) _ 株式会社ドリテック <sub>⭐ 253 · Python</sub>
+- [worldbench/WorldLens](https://github.com/worldbench/WorldLens) - (CVPR 2026 経口) WorldLens:現実世界で世界モデルを運転するフルスペクトラム評価 <sub>⭐ 253 · Python</sub>
+- [rover-xingyu/L2G-NeRF](https://github.com/rover-xingyu/L2G-NeRF) - (CVPR 2023) L2G-NeRF:ニューラル・ラディアンスフィールドのバンドル調整のためのローカル・ツー・グローバル登録 <sub>⭐ 252 · Python</sub>
+- [r00tman/NeRF-OSR](https://github.com/r00tman/NeRF-OSR) - アウトドアシーンリライトのためのNeRF (ECCV 2022) <sub>⭐ 249 · Python</sub>
+- [w-m/3dgs-compression-survey](https://github.com/w-m/3dgs-compression-survey) - 3D Gaussian Splatting圧縮方法に関するオープン調査 <sub>⭐ 248 · JavaScript</sub>
+- [airalcorn2/pytorch-nerf](https://github.com/airalcorn2/pytorch-nerf) - NeRFとピクセルNeRFの最小PyTorch実装。 <sub>⭐ 247 · Python</sub>
+- [zubair-irshad/NeO-360](https://github.com/zubair-irshad/NeO-360) - ICCV'23紙用のピトルチコード。 NEO 360:屋外シーンのスパースビュー合成のための神経分野 <sub>⭐ 246 · Python</sub>
+- [experiencor/image-to-3d-bbox](https://github.com/experiencor/image-to-3d-bbox) - CNNネットワークを構築し、2D画像から3Dの境界ボックスを予測します。 <sub>⭐ 244 · Jupyter Notebook</sub>
+- [PRBonn/PINGS](https://github.com/PRBonn/PINGS) - PINGS:ガウス・スプラッティングがポイントベースのインペリシットニューラルマップ内の距離フィールドに会います(RSS 25) <sub>⭐ 244 · Python</sub>
+- [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - 最近の人間のビデオ生成方法の作業リスト。 このリポジトリは、半/フルボディヒューマンビデオ生成方法に焦点を当てています。Nerf、ガウスシアンスプラッシング、モーションポーズ、およびヘッド/ポートレートを話しません... <sub>⭐ 244</sub>
+- [BioinfoMachineLearning/bio-diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - 3D分子生成と最適化のための幾何学的完全拡散遺伝子モデル(GCDM)。 (Nature CommsChem) <sub>⭐ 242 · Python</sub>
+- [DreamTechAI/Direct3D](https://github.com/DreamTechAI/Direct3D) - (NeurIPS 2024) Direct3D: 3D ラテント拡散トランスによるスケーラブルなイメージツー-3D生成 <sub>⭐ 242 · Python</sub>
+- [jkulhanek/viewformer](https://github.com/jkulhanek/viewformer) - ViewFormer: トランスを使用したFewイメージからNeRFフリーのニューラルレンダリング <sub>⭐ 242 · Python</sub>
+- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - (ICCV 2023) 医療画像における暗黙の神経表現に関するリソースのキュレーションリスト <sub>⭐ 241</sub>
+- [Madaoer/S3IM-Neural-Fields](https://github.com/Madaoer/S3IM-Neural-Fields) - (ICCV 2023) 「S3IM:構造的同時性および神経分野に対する不当な有効性」の実装。 <sub>⭐ 240 · Python</sub>
+- [YxuanAr/Code-as-Room](https://github.com/YxuanAr/Code-as-Room) - MLLMベースのエージェントシステムにより、1つの部屋イメージを3D室の再構築のための実行可能なブレンダーコードに変換します。 <sub>⭐ 240 · Python</sub>
+- [NVlabs/LSM](https://github.com/NVlabs/LSM) - (NeurIPS'24) 大型空間モデル:Semantic 3DへのエンドツーエンドのUnposed画像 <sub>⭐ 239 · Python</sub>
+- [ajhamdi/ges-splatting](https://github.com/ajhamdi/ges-splatting) - 「GES」の原本的参照実装:効率的なレイダンスフィールドレンダリングのための一般化指数関数スプラッティング(CVPR 2024) <sub>⭐ 238 · Python</sub>
+- [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - 深い暗黙のフィールド(ISPRS 2022)を使用して、ポイントクラウドからコンパクトなビルモデルを再構築 <sub>⭐ 238 · Python</sub>
+- [GAP-LAB-CUHK-SZ/deepFashion3D](https://github.com/GAP-LAB-CUHK-SZ/deepFashion3D) - Deep Fashion3D:単一のイメージ(ECCV2020)からの3D衣服の復興のためのデータセットそしてベンチマーク <sub>⭐ 237</sub>
+- [huangmozhilv/u2net_torch](https://github.com/huangmozhilv/u2net_torch) - MICCAI2019:3D U $ ^ 2$-Net:マルチドメイン医療画像のセグメンテーションのための3DユニバーサルUネット <sub>⭐ 237 · Python</sub>
+- [kiyoakii/is-gpt-nerfed](https://github.com/kiyoakii/is-gpt-nerfed) - Codex の収縮検出器 <sub>⭐ 237 · Python</sub>
+- [bharat-b7/IPNet](https://github.com/bharat-b7/IPNet) - 「3D人間再建、ECCV'20(経口)」のインピシリット機能学習とパラメトリックモデルを組み込むためのリポジトリ <sub>⭐ 235 · Python</sub>
+- [hustvl/GaussianDreamerPro](https://github.com/hustvl/GaussianDreamerPro) - GaussianDreamerPro: 高度に高められた質の 3D のガウスを操作できるテキスト <sub>⭐ 235 · C++</sub>
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - (CVPR2023) NeRF-RPN:NERFにおけるオブジェクト検出のための一般的なフレームワーク <sub>⭐ 235 · Python</sub>
+- [fanegg/Feat2GS](https://github.com/fanegg/Feat2GS) - (CVPR2025) Feat2GS: Gaussian Splatting による視覚基礎モデルのプロービング <sub>⭐ 234 · Python</sub>
+- [PolyCam/polyform](https://github.com/PolyCam/polyform) - NeRF などのフォーマットのエクスポートを含む、生 Polycam データを扱うためのツール。 <sub>⭐ 234 · Python</sub>
+- [DreamScene-Project/DreamScene](https://github.com/DreamScene-Project/DreamScene) - (ECCV2024) DreamScene: 3D Gaussian ベースのテキスト to-3D シーン生成フォームパターンサンプリングによる <sub>⭐ 232 · Python</sub>
+- [DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D) - これは、Tensor4Dの公式な実装です:高忠実度動的再構築とレンダリングのための効率的な神経4D分解。 <sub>⭐ 232 · Python</sub>
+- [gwang-kim/DATID-3D](https://github.com/gwang-kim/DATID-3D) - (CVPR 2023) 「DATID-3D: ダイバーシティ保存ドメイン適応」の公式実装 3次元生成モデルのためのテキスト・ツー・イメージ拡散を用いた <sub>⭐ 232 · Python</sub>
+- [octree-nn/octfusion](https://github.com/octree-nn/octfusion) - OctFusion: 3D形状生成(SGP 2025)用オクトーレベースの拡散モデル <sub>⭐ 232 · Python</sub>
+- [erickingxu/MetalImage](https://github.com/erickingxu/MetalImage) - MetalImage は、iOS 用の opengles よりも高速かつ強力です。GPUImage フレームワークと非常に似ていますが、3D レンダリングやマルチスレッドのコンピューティング能力を発揮します。 <sub>⭐ 229 · Objective-C++</sub>
+- [MatrixBrain/awesome-NeRF](https://github.com/MatrixBrain/awesome-NeRF) - 素晴らしいニューラル放射状領域(NeRF)紙のキュレーションリスト。 <sub>⭐ 229</sub>
+- [yiqun-wang/HFS](https://github.com/yiqun-wang/HFS) - HF-NeuS:高周波詳細(NeurIPS 2022)を用いた表面再構築の改善 <sub>⭐ 229 · Python</sub>
+- [ZrrSkywalker/I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE) - (CVPR 2023) イメージツーポイントのマスクされたオートエンコーダーによる2Dプリトレンデッドモデルから3D表現を学ぶ <sub>⭐ 229 · Python</sub>
+- [cvg/YoNoSplat](https://github.com/cvg/YoNoSplat) - (ICLR'26) YoNoSplat:Feedforward 3D Gaussian Splattingのための1つのモデルだけを必要とします <sub>⭐ 228 · Python</sub>
+- [StefanJAuer/RaySAR](https://github.com/StefanJAuer/RaySAR) - RaySARは、詳細な3Dオブジェクトモデルに関連するSARイメージレイヤーを生成することを可能にする、3D合成開口部レーダー(SAR)シミュレータです。 さらに、3D位置をローカライズする1つを可能にしています... <sub>⭐ 228</sub>
+- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - (ECCV 2022 経口) 「Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation」のコード <sub>⭐ 227 · Python</sub>
+- [quan-meng/gnerf](https://github.com/quan-meng/gnerf) - ( ICCV 2021 オーラル ) カメラのポーズと神経放射性フィールドを、カメラが複雑なシナリオでランダムなポーズで初期化されるとき(外出シーンも少ない... <sub>⭐ 227 · Python</sub>
+- [fuxiao0719/PanopticNeRF](https://github.com/fuxiao0719/PanopticNeRF) - (TPAMI'25) パノプティックNeRF-360 / (3DV'22) ナロプトネフ(3D〜2Dラベル転送都市シーン) <sub>⭐ 225</sub>
+- [kwea123/nsff_pl](https://github.com/kwea123/nsff_pl) - 潜在的な改善のpytorch-lightningを使用してニューラルシーンフローフィールド <sub>⭐ 224 · Jupyter Notebook</sub>
+- [buaacyw/IT3D-text-to-3D](https://github.com/buaacyw/IT3D-text-to-3D) - (AAAI'2024) IT3D:Explicit View Synthesisでテキストから-3D生成を改良 <sub>⭐ 223 · Python</sub>
+- [kwea123/nerf_Unity](https://github.com/kwea123/nerf_Unity) - nerf_pl (Neural Radiance Fields)のUnityプロジェクト <sub>⭐ 221 · C#</sub>
+- [CVMI-Lab/Point-UV-Diffusion](https://github.com/CVMI-Lab/Point-UV-Diffusion) - (ICCV2023) これは、ICCV2023紙の公式PyTorch実装です:ポイントUV拡散と3Dメッシュ上のテクスチャ生成 <sub>⭐ 220 · C++</sub>
+- [yihua7/NeRF-Texture](https://github.com/yihua7/NeRF-Texture) - (SIGGRAPH 2023, TPAMI 2024) NeRF-Textureのコード:ニューラル・ラディアンス・フィールドによるテクスチャ合成 <sub>⭐ 220 · C++</sub>
+- [AoLyu/Some-implementions-with-RGBD-camera-RealSense-D435](https://github.com/AoLyu/Some-implementions-with-RGBD-camera-RealSense-D435) - 3dオブジェクト再構築、認識およびポーズ推定の個人的実装 <sub>⭐ 218 · Python</sub>
+- [xhuangcv/hdr-nerf](https://github.com/xhuangcv/hdr-nerf) - CVPR 2022用紙の公式実装:HDR-NeRF:ハイダイナミックレンジニューラルレイダンスフィールド <sub>⭐ 218 · Python</sub>
+- [javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge) - ROSの動画をストリーミングし、nerfstudioにポーズします。 <sub>⭐ 216 · Python</sub>
+- [Kunhao-Liu/StyleGaussian](https://github.com/Kunhao-Liu/StyleGaussian) - (SIGGRAPH Asia 2024) StyleGaussian: Gaussian Splattingによる即時3Dスタイル転送 <sub>⭐ 216 · Python</sub>
+- [TRI-ML/recgen](https://github.com/TRI-ML/recgen) - 紙「世代別再建:スパース観測から3D多物像を再構築」の公式リポジトリ(ECCV'26) <sub>⭐ 216 · Jupyter Notebook</sub>
+- [ZhenglinZhou/HeadStudio](https://github.com/ZhenglinZhou/HeadStudio) - (ECCV 2024) HeadStudio: 3D Gaussian Splatting で Animatable head Avatars にテキスト。 <sub>⭐ 216 · Python</sub>
+- [LetianHuang/op43dgs](https://github.com/LetianHuang/op43dgs) - (ECCV'24) 3D Gaussian Splatting のエラー解析と最適予測戦略 <sub>⭐ 215 · Cuda</sub>
+- [lukemelas/projection-conditioned-point-cloud-diffusion](https://github.com/lukemelas/projection-conditioned-point-cloud-diffusion) - 「単一画像3D再構築のための投影条件付きポイントクラウド拡散」(CVPR 2023) <sub>⭐ 215 · Python</sub>
+- [ueda0319/neddf](https://github.com/ueda0319/neddf) - (ECCV2022) 神経密度距離領域(NeDDF) <sub>⭐ 215 · Python</sub>
+- [WU-CVGL/MVControl](https://github.com/WU-CVGL/MVControl) - (3DV-2025) 表面を合わせたガウススプラッティングによる「制御可能なテキストから3D生成」の公式実装 <sub>⭐ 215 · Python</sub>
+- [YihangChen-ee/HAC-plus](https://github.com/YihangChen-ee/HAC-plus) - (TPAMI 2025)「HAC++」のPytorch実装: 3D Gaussian Splattingの100X圧縮に向けて <sub>⭐ 215 · Python</sub>
+- [NVIDIA-Omniverse/usd-content-agents](https://github.com/NVIDIA-Omniverse/usd-content-agents) - Vision-Language モデル(VLM)を使用して3Dコンテンツワークフローを自動化するためのAI搭載エージェント。 コンテンツエージェントは、3Dアセットを分析し、材料の割り当て、物理プロパティ分類、および... <sub>⭐ 214 · Python</sub>
+- [RodinHD/RodinHD](https://github.com/RodinHD/RodinHD) - (ECCV 2024) RodinHD:拡散モデルによる高輝度3Dアバター生成 <sub>⭐ 214 · Python</sub>
+- [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - (SIGGRAPH 2023) 神経分野(因子フィールド)と新規の分岐率(ディクショナリー・フィールド)のための統一式を <sub>⭐ 213 · Jupyter Notebook</sub>
+- [makezur/agenticSTAR](https://github.com/makezur/agenticSTAR) - エージェントスター:単眼ビデオから、アテリック形状の追跡と復元 <sub>⭐ 213 · Python</sub>
+- [med-air/3DSAM-adapter](https://github.com/med-air/3DSAM-adapter) - 2Dから3DまでのSAMのホリスティックな適応 <sub>⭐ 213 · Python</sub>
+- [leaner-forever/SEGS-SLAM](https://github.com/leaner-forever/SEGS-SLAM) - ICCV 2025「SEGS-SLAM:構造高められた3D Gaussian Splatting SLAMのためのオフカル コード出現のEmbed」 <sub>⭐ 212 · C++</sub>
+- [MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF) - スイッチNeRF(ICLR 2023)のコード <sub>⭐ 211 · Python</sub>
+- [wangqiannudt/nerf-arxiv-daily](https://github.com/wangqiannudt/nerf-arxiv-daily) - 毎日の更新 NeRFはarxivの紙をreleated <sub>⭐ 211 · Python</sub>
+- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts(ホスト)は、Babylon.js、3Dフレームワークのインタラクティブなアニメーション3D文字を作成することを目的とする実験的なオープンソースプロジェクトです。 これにより、Beelon.jsや他のWeb 3Dフレームワーク用のインタラクティブなアニメーション3D文字を簡単に作成できます。… <sub>⭐ 210 · JavaScript</sub>
+- [zrporz/4DLangSplat](https://github.com/zrporz/4DLangSplat) - 「4D LangSplat:マルチモーダル大言語モデルによる4D言語ガウススプラッティング」の公式実装(CVPR 2025) <sub>⭐ 210 · Python</sub>
+- [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: 3D-Awareのビデオ生成のためのSightline座標位置の符号化 <sub>⭐ 209 · Python</sub>
+- [wzyabcas/InterAct](https://github.com/wzyabcas/InterAct) - (CVPR 2025) インターアクティブ:大規模汎用3Dヒトオブジェクト相互作用生成の推進 <sub>⭐ 209 · Python</sub>
+- [xheon/panoptic-reconstruction](https://github.com/xheon/panoptic-reconstruction) - NeurIPS 2021紙「1つのRGBイメージからパノプティック3Dシーン再建」の公式実装 <sub>⭐ 209 · Python</sub>
+- [ankurhanda/nerf2D](https://github.com/ankurhanda/nerf2D) - 入力に位置エンコーディングを追加すると、画像のシャープなエッジが保存されます。 <sub>⭐ 208 · Python</sub>
+- [hugoycj/NeuralBaker](https://github.com/hugoycj/NeuralBaker) - BakedSDFの非公式ピトルチ実装 <sub>⭐ 208 · Python</sub>
+- [hwjiang1510/MegaSynth](https://github.com/hwjiang1510/MegaSynth) - MegaSynth のコード: 3D シーンの再構築を合成データ (CVPR 2025) <sub>⭐ 208 · Python</sub>
+- [yuehaowang/bilarf](https://github.com/yuehaowang/bilarf) - 「両側ガイド付きレイダンスフィールド処理」のコードリリース <sub>⭐ 208 · Python</sub>
+- [yxlao/camtools](https://github.com/yxlao/camtools) - カムツール:コンピュータビジョンのためのカメラツール <sub>⭐ 208 · Python</sub>
+- [JeremyCJM/DiffSHEG](https://github.com/JeremyCJM/DiffSHEG) - (CVPR'24) DiffSHEG:リアルタイム音声駆動型ホリスティック3D表現とジェスチャー生成のための拡散ベースのアプローチ <sub>⭐ 207 · Python</sub>
+- [GSFix3D/GSFix3D](https://github.com/GSFix3D/GSFix3D) - GSFix3D:ガウスのスプラッティングにおけるノベルビューの拡散防止策 <sub>⭐ 206 · Python</sub>
+- [EricGuo5513/action-to-motion](https://github.com/EricGuo5513/action-to-motion) - 「Action2Motion: 3D ヒューマン・モーション(ACM MultiMedia 2020)」の公式実装 <sub>⭐ 205 · Python</sub>
+- [octree-nn/octgpt](https://github.com/octree-nn/octgpt) - OctGPT: 3D形状生成(SIGGRAPH 2025)用オクトリーベースマルチスケールオートレグレッシブモデル <sub>⭐ 205 · Python</sub>
+- [sherwinbahmani/tc4d](https://github.com/sherwinbahmani/tc4d) - TC4D: Trajectory-Conditioned text-to-4Dの生成 <sub>⭐ 205 · Python</sub>
+- [facebookresearch/EyefulTower](https://github.com/facebookresearch/EyefulTower) - 「VR-NeRF High-Fidelity Virtualized Walkable Spaces」(Xu et al., SIGGRAPH Asia... <sub>⭐ 204 · Python</sub>
+- [nickponline/dd-nerf-dataset](https://github.com/nickponline/dd-nerf-dataset) - NerFコンピュータビジョンデータセット <sub>⭐ 204 · Python</sub>
+- [cvg/EMAP](https://github.com/cvg/EMAP) - (CVPR'24) 3Dニューラルエッジ再建 <sub>⭐ 203 · Python</sub>
+- [barisgecer/facegan](https://github.com/barisgecer/facegan) - ECCV 2018 紙のTF実装: 3D Morphable モデルからの新しいアイデンティティの写真現実的な顔画像を生成するための半指示された対価学習 <sub>⭐ 202 · Python</sub>
+- [LemonATsu/A-NeRF](https://github.com/LemonATsu/A-NeRF) - A-NeRFのPytorch実装:人間の形、外観、ポーズを学習するための関節神経線路 <sub>⭐ 202 · Python</sub>
+- [cyw-3d/SAR3D](https://github.com/cyw-3d/SAR3D) - 「SAR3D:Autoregressive 3D オブジェクト生成とマルチスケール3D VQVAEによる理解」の公式リポジトリ <sub>⭐ 201 · Python</sub>
+- [WU-CVGL/BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF) - (CVPR 2023) BAD-NeRF: バンドル調整されたDeblurのニューラル・ラディアンス分野 <sub>⭐ 201 · Python</sub>
+- [eliphatfs/zerorf](https://github.com/eliphatfs/zerorf) - ZeroRF: ゼロプレトレンタリングによる360°再構築を高速化 <sub>⭐ 200 · Python</sub>
+- [Sigil-Wen/Dream-with-Vision-Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro) - VisionOS SDKで構築されたApple Vision Proの3D世代へのテキスト。 スケール生成AIハッカソン用ARでの3Dスクリブルナツ。 Won Scale AI Prize <sub>⭐ 199 · Swift</sub>
+- [cvg/nerf-on-the-go](https://github.com/cvg/nerf-on-the-go) - (CVPR'24) NeRFオンザ·ゴー: ワイルドでDistractorフリーのNeRFのための不確実性を促進 <sub>⭐ 198 · Python</sub>
+- [quan-meng/lt3sd](https://github.com/quan-meng/lt3sd) - (CVPR 2025) パッチバイパッチと粗いファッションで無限の3D環境を高忠実に生成できる新しいラテンド3Dシーン拡散アプローチであるLT3SDを紹介します。 <sub>⭐ 198 · Python</sub>
+- [AndriiShramko/4DGS-Video-Generator](https://github.com/AndriiShramko/4DGS-Video-Generator) - ビデオフレームを4D Gaussian Splatting SequenceにAppleのSharPモデルを使用して変換するためのプロフェッショナルデスクトップアプリケーション <sub>⭐ 197 · Python</sub>
+- [XPengZhao/NeRF2](https://github.com/XPengZhao/NeRF2) - NeRF2:ニューラル・ラジオ周波数の発覚フィールド <sub>⭐ 195 · Python</sub>
+- [zjudmd/Mini-3D-Scanner](https://github.com/zjudmd/Mini-3D-Scanner) - RGB-Dカメラ(Kinect V2)から視覚データのみを使用して、オブジェクトのオンライン3D再構築のためのパイプライン。 <sub>⭐ 195 · Python</sub>
+- [GVCLab/GSFixer](https://github.com/GVCLab/GSFixer) - (ICML 2026) GSFixer: リファレンスガイド付きビデオ拡散優先で3D Gaussian Splattingを改善する <sub>⭐ 193 · Python</sub>
+- [PKU-EPIC/GraspNeRF](https://github.com/PKU-EPIC/GraspNeRF) - (ICRA 2023) GraspNeRF:一般化可能なNERFを使用して、透明およびスペクトルオブジェクトのマルチビューベースの6-DoFグラフ検出 <sub>⭐ 193 · Python</sub>
+- [notmahi/clip-fields](https://github.com/notmahi/clip-fields) - CLIP や NeRF のようなニューラルフィールドで、オープンボカブのクエリに対応するためのロボットを教える <sub>⭐ 192 · Python</sub>
+- [humansensinglab/Hamba](https://github.com/humansensinglab/Hamba) - (NeurIPS 2024) Hamba: グラフガイド付きバイスキャンマンバによるシングルビュー3Dハンド再構築 <sub>⭐ 191 · Python</sub>
+- [xmuyzz/3D-CNN-PyTorch](https://github.com/xmuyzz/3D-CNN-PyTorch) - 医療画像データ用3D CNNモデル用のPyTorch実装(1チャンネルグレースケールイメージ)。 <sub>⭐ 191 · Python</sub>
 
 ## 🟠 AIとBlender
 
 > モデルを使ったBlenderのアドオン、エージェント、自動化。
 
-- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. <sub>⭐ 29.9k · Python</sub>
-- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender <sub>⭐ 8.2k · Python</sub>
-- [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents. <sub>⭐ 2.2k · JavaScript</sub>
-- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. <sub>⭐ 1.5k · Python</sub>
-- [benrugg/AI-Render](https://github.com/benrugg/AI-Render) - Stable Diffusion in Blender <sub>⭐ 1.2k · Python</sub>
-- [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - (ACL2023) We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut… <sub>⭐ 997 · Python</sub>
-- [sakalond/StableGen](https://github.com/sakalond/StableGen) - Transform your 3D texturing workflow with the power of generative AI, directly within Blender! <sub>⭐ 931 · Python</sub>
-- [huggingface/meshgen](https://github.com/huggingface/meshgen) - Use AI Agents directly in Blender. <sub>⭐ 927 · Python</sub>
-- [scenario-labs/skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus… <sub>⭐ 837 · Python</sub>
-- [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model. <sub>⭐ 749 · JavaScript</sub>
-- [PrAYtele/Stable-Texturify](https://github.com/PrAYtele/Stable-Texturify) - Create textures for 3d models using stable-diffusion and blender <sub>⭐ 583 · Python</sub>
-- [microsoft/Resource2Skill](https://github.com/microsoft/Resource2Skill) - A general framework for distilling human-created multimodal resources into reusable, executable skills that AI agents can browse, compose, and run, validated across diverse domains including web… <sub>⭐ 527 · Python</sub>
-- [squall01337/mixamo-llm-mocap](https://github.com/squall01337/mixamo-llm-mocap) - Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent. <sub>⭐ 331 · Python</sub>
-- [ZumoLabs/zpy](https://github.com/ZumoLabs/zpy) - Synthetic data for computer vision. An open source toolkit using Blender and Python. <sub>⭐ 322 · Python</sub>
-- [FreedomIntelligence/BlenderLLM](https://github.com/FreedomIntelligence/BlenderLLM) - BlenderLLM: A LLM specifically designed to generate CAD scripts based on user instructions. These scripts are then executed in Blender to render 3D models. <sub>⭐ 305 · Python</sub>
-- [allenai/objaverse-rendering](https://github.com/allenai/objaverse-rendering) - Scripts for rendering Objaverse <sub>⭐ 267 · Python</sub>
-- [arjun988/blender-skills](https://github.com/arjun988/blender-skills) - 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export. <sub>⭐ 260 · TypeScript</sub>
-- [FrederikHasecke/diffused-texture-addon](https://github.com/FrederikHasecke/diffused-texture-addon) - Generate Diffuse Textures on Meshes directly in Blender 3D with Stable Diffusion. <sub>⭐ 260 · Python</sub>
-- [per-simmons/unreal-agent-harness](https://github.com/per-simmons/unreal-agent-harness) - AI agents building cities in Unreal Engine 5.8 via the Unreal MCP — free City Sample base + PCG + custom Blender facade kits. Glass city, Paris, Art-Deco, a hand-built Chrysler, and real NYC via… <sub>⭐ 193 · Python</sub>
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - コミュニティプラグインは、あなたの選択の任意のLMでBlender 3Dを制御するために. 公式ブレンダー財団と提携していません。. <sub>⭐ 29.9k · Python</sub>
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Blenderに組み込まれた安定した拡散 <sub>⭐ 8.2k · Python</sub>
+- [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web は、他のプレイヤーとオンラインでプレーしたり、AI 相手に対して単一のプレーヤーモードでプレイできる HTML5 および WebGL で実装されたオープンソース戦略ゲームです。 <sub>⭐ 2.2k · JavaScript</sub>
+- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM — ジェネレーションAIムービースタジオで、Blender Video Editor(VSE)にシームレスに統合され、スクリプトからスクリーンやバックまで一貫した制作を実現します。 <sub>⭐ 1.5k · Python</sub>
+- [benrugg/AI-Render](https://github.com/benrugg/AI-Render) - Blenderの安定した拡散 <sub>⭐ 1.2k · Python</sub>
+- [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - (ACL2023) LLM-Blender は、複数のオープンソースの多様な強みを生かして一貫した優れた性能を実現するための革新的な組み立てフレームワークです。 LLM-Blender カット... <sub>⭐ 997 · Python</sub>
+- [sakalond/StableGen](https://github.com/sakalond/StableGen) - 3DのワークフローをBlender内で直接ジェネレーションAIの力で変換! <sub>⭐ 931 · Python</sub>
+- [huggingface/meshgen](https://github.com/huggingface/meshgen) - BlenderでAIエージェントを直接使用。 <sub>⭐ 927 · Python</sub>
+- [scenario-labs/skills](https://github.com/scenario-labs/skills) - どのAIエージェントからでも、制作準備済みの画像やビデオ、オーディオ、3Dを入手してください。 適切なモデルを選ぶスキル、支出前に価格を選択し、シナリオMCPを通してキャラクターとブランドを一貫して保持するスキルプラス... <sub>⭐ 837 · Python</sub>
+- [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) - ブラウザでオープンソースのprevisソフトウェア:シーン、ポーズ文字、作者のカメラの動きとカットをブロックし、AIビデオモデルに同じショットを取ります。 <sub>⭐ 749 · JavaScript</sub>
+- [PrAYtele/Stable-Texturify](https://github.com/PrAYtele/Stable-Texturify) - 安定した拡散とブレンダーを使用して3Dモデルのテクスチャを作成します。 <sub>⭐ 583 · Python</sub>
+- [microsoft/Resource2Skill](https://github.com/microsoft/Resource2Skill) - AIエージェントがWebを含む多様なドメインを閲覧、比較し、実行できる再利用可能な、実行可能なスキルに人造のマルチモーダルリソースを蒸留するための一般的なフレームワーク。 <sub>⭐ 527 · Python</sub>
+- [squall01337/mixamo-llm-mocap](https://github.com/squall01337/mixamo-llm-mocap) - MCPでMixamo-rigアニメーションにビデオを入れる - GVHMR estimator, spec-driven retarget, FKはMCP経由でBlenderに適用します。任意のMixamo文字を使用、AIエージェントによってエンドツーエンドを操作するように構築されています。 <sub>⭐ 331 · Python</sub>
+- [ZumoLabs/zpy](https://github.com/ZumoLabs/zpy) - コンピュータビジョンの合成データ。BlenderとPythonを用いたオープンソースツールキットです。 <sub>⭐ 322 · Python</sub>
+- [FreedomIntelligence/BlenderLLM](https://github.com/FreedomIntelligence/BlenderLLM) - BlenderLLM: ユーザー指示に基づいてCADスクリプトを生成するために特別に設計されたLLM。 これらのスクリプトは、Blenderで3Dモデルをレンダリングします。 <sub>⭐ 305 · Python</sub>
+- [allenai/objaverse-rendering](https://github.com/allenai/objaverse-rendering) - Objaverse をレンダリングするためのスクリプト <sub>⭐ 267 · Python</sub>
+- [arjun988/blender-skills](https://github.com/arjun988/blender-skills) - Cursor、Claudeコード、Kiro&Codex -> MCP 搭載製造パイプラインの94スペシャリストブレンダースキルをブロックアウトからエンジンエクスポートまで提供しています。 <sub>⭐ 260 · TypeScript</sub>
+- [FrederikHasecke/diffused-texture-addon](https://github.com/FrederikHasecke/diffused-texture-addon) - Blender 3Dでメッシュに拡散テクスチャを生成し、安定した拡散を実現します。 <sub>⭐ 260 · Python</sub>
+- [per-simmons/unreal-agent-harness](https://github.com/per-simmons/unreal-agent-harness) - UnrealのMCPを介してUnreal Engine 5.8で都市を建設するAIエージェント - 無料シティサンプルベース+ PCG +カスタムブレンダーファサードキット。 ガラス街、パリ、アールデコ、手作りクライスラー、そして本物のNYC経由... <sub>⭐ 193 · Python</sub>
 
 ## 🏃 アニメーションとモーションキャプチャ
 
 > モーション生成、リギング、キャプチャ、キャラクターアニメーション。
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking <sub>⭐ 62.2k · Python</sub>
-- [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation <sub>⭐ 34.5k · C++</sub>
-- [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity <sub>⭐ 8.9k · C++</sub>
-- [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. <sub>⭐ 7.8k · MATLAB</sub>
-- [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection <sub>⭐ 7.6k · Python</sub>
-- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans <sub>⭐ 5.8k · Python</sub>
-- [ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) - Code repo for realtime multi-person pose estimation in CVPR'17 (Oral) <sub>⭐ 5.1k · Jupyter Notebook</sub>
-- [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation" <sub>⭐ 4.5k · Cuda</sub>
-- [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo) - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation. <sub>⭐ 3.7k · Python</sub>
-- [xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) - Awesome work on hand pose estimation/tracking <sub>⭐ 3.4k · Python</sub>
-- [mkocabas/VIBE](https://github.com/mkocabas/VIBE) - Official implementation of CVPR2020 paper "VIBE: Video Inference for Human Body Pose and Shape Estimation" <sub>⭐ 3.2k · Python</sub>
-- [open-mmlab/mmskeleton](https://github.com/open-mmlab/mmskeleton) - A OpenMMLAB toolbox for human pose estimation, skeleton-based action recognition, and action synthesis. <sub>⭐ 3.1k · Python</sub>
-- [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - "Effective Whole-body Pose Estimation with Two-stages Distillation" (ICCV 2023, CV4Metaverse Workshop) <sub>⭐ 2.8k · Python</sub>
-- [Tencent/MimicMotion](https://github.com/Tencent/MimicMotion) - High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance <sub>⭐ 2.7k · Python</sub>
-- [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation. <sub>⭐ 2.5k</sub>
-- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking <sub>⭐ 2.4k · TypeScript</sub>
-- [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main… <sub>⭐ 2.4k · Java</sub>
-- [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks. <sub>⭐ 2.3k · Python</sub>
-- [Daniil-Osokin/lightweight-human-pose-estimation.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) - Fast and accurate human pose estimation in PyTorch. Contains implementation of "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose" paper. <sub>⭐ 2.2k · Python</sub>
-- [ViTAE-Transformer/ViTPose](https://github.com/ViTAE-Transformer/ViTPose) - The official repo for (NeurIPS'22) "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation" and (TPAMI'23) "ViTPose++: Vision Transformer for Generic Body Pose Estimation" <sub>⭐ 2.2k · Python</sub>
-- [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy) - A Python framework for AI-driven character animation using neural networks. <sub>⭐ 2.1k · Python</sub>
-- [albertpumarola/GANimation](https://github.com/albertpumarola/GANimation) - GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) (PyTorch) <sub>⭐ 2.0k · Python</sub>
-- [OpenMotionLab/MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - (NeurIPS 2023) MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs <sub>⭐ 2.0k · Python</sub>
-- [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online <sub>⭐ 1.9k · JavaScript</sub>
-- [mpatacchiola/deepgaze](https://github.com/mpatacchiola/deepgaze) - Computer Vision library for human-computer interaction. It implements Head Pose and Gaze Direction Estimation Using Convolutional Neural Networks, Skin Detection through Backprojection, Motion… <sub>⭐ 1.9k · Python</sub>
-- [s60sc/ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via… <sub>⭐ 1.7k · C++</sub>
-- [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose) - Deep Learning Head Pose Estimation using PyTorch. <sub>⭐ 1.7k · Python</sub>
-- [Fantasy-AMAP/fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) - (ACM MM 2025) FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis <sub>⭐ 1.6k · Python</sub>
-- [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021 <sub>⭐ 1.6k · Python</sub>
-- [una-dinosauria/3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17. <sub>⭐ 1.5k · Python</sub>
-- [wangzheallen/awesome-human-pose-estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) - Human Pose Estimation Related Publication <sub>⭐ 1.4k</sub>
-- [yinguobing/head-pose-estimation](https://github.com/yinguobing/head-pose-estimation) - Realtime human head pose estimation with ONNXRuntime and OpenCV. <sub>⭐ 1.4k · Python</sub>
-- [tensorlayer/HyperPose](https://github.com/tensorlayer/HyperPose) - Library for Fast and Flexible Human Pose Estimation <sub>⭐ 1.3k · Python</sub>
-- [NVlabs/Deep_Object_Pose](https://github.com/NVlabs/Deep_Object_Pose) - Deep Object Pose Estimation (DOPE) – ROS inference (CoRL 2018) <sub>⭐ 1.2k · Python</sub>
-- [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - (CVPR 2022 Best Student Paper) EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation <sub>⭐ 1.2k · Python</sub>
-- [eldar/pose-tensorflow](https://github.com/eldar/pose-tensorflow) - Human Pose estimation with TensorFlow framework <sub>⭐ 1.1k · C++</sub>
-- [Geekgineer/YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP) - Cross-Platform Production-ready C++ inference engine for YOLO models (v5-v12, YOLO26). Unified API for detection, segmentation, pose estimation, OBB, and classification. Built on ONNX Runtime and… <sub>⭐ 1.1k · C++</sub>
-- [NVIDIA-AI-IOT/trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose) - Real-time pose estimation accelerated with NVIDIA TensorRT <sub>⭐ 1.1k · Python</sub>
-- [showlab/MotionDirector](https://github.com/showlab/MotionDirector) - (ECCV 2024 Oral) MotionDirector: Motion Customization of Text-to-Video Diffusion Models. <sub>⭐ 1.1k · Python</sub>
-- [CalciferZh/minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run. <sub>⭐ 1.0k · Python</sub>
-- [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) - Real-time single person pose estimation for Android and iOS. <sub>⭐ 1.0k · C++</sub>
-- [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - Code for "OnePose: One-Shot Object Pose Estimation without CAD Models", CVPR 2022 <sub>⭐ 1.0k · Python</sub>
-- [MotrixLab/MotionDiffuse](https://github.com/MotrixLab/MotionDiffuse) - MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model <sub>⭐ 984 · Python</sub>
-- [FORTH-ModelBasedTracker/MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET) - A real-time method that estimates the 3D human pose directly in the popular Bio Vision Hierarchy (BVH) format, given estimations of the 2D body joints originating from monocular color images. Our… <sub>⭐ 954 · C++</sub>
-- [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy) - Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation (SIGGRAPH 2026). <sub>⭐ 950 · Python</sub>
-- [EvelynFan/FaceFormer](https://github.com/EvelynFan/FaceFormer) - (CVPR 2022) FaceFormer: Speech-Driven 3D Facial Animation with Transformers <sub>⭐ 919 · Python</sub>
-- [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation <sub>⭐ 892</sub>
-- [mks0601/3DMPPE_POSENET_RELEASE](https://github.com/mks0601/3DMPPE_POSENET_RELEASE) - Official PyTorch implementation of "Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image", ICCV 2019 <sub>⭐ 865 · Python</sub>
-- [yuxng/PoseCNN](https://github.com/yuxng/PoseCNN) - A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes <sub>⭐ 834 · C++</sub>
-- [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet) - YoloDotNet - A C# .NET 8.0 project for Classification, Object Detection, OBB Detection, Segmentation and Pose Estimation in both images and live video streams. <sub>⭐ 825 · C#</sub>
-- [michalfaber/keras_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation) - Keras version of Realtime Multi-Person Pose Estimation project <sub>⭐ 782 · Jupyter Notebook</sub>
-- [wmcnally/kapao](https://github.com/wmcnally/kapao) - KAPAO is an efficient single-stage human pose estimation model that detects keypoints and poses as objects and fuses the detections to predict human poses. <sub>⭐ 772 · Python</sub>
-- [WIKI2020/FacePose_pytorch](https://github.com/WIKI2020/FacePose_pytorch) - The pytorch implement of the head pose estimation(yaw,roll,pitch) and emotion detection with SOTA performance in real time.Easy to deploy, easy to use, and high accuracy.Solve all problems of face… <sub>⭐ 765 · Python</sub>
-- [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - (CVPR2024) Code for "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation". <sub>⭐ 730 · Python</sub>
-- [liuyuan-pal/Gen6D](https://github.com/liuyuan-pal/Gen6D) - (ECCV2022) Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images <sub>⭐ 722 · Python</sub>
-- [oarriaga/paz](https://github.com/oarriaga/paz) - Hierarchical perception library in Python for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition, etc. <sub>⭐ 711 · Python</sub>
-- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos. <sub>⭐ 707 · TypeScript</sub>
-- [tucan9389/PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) - The example project of inferencing Pose Estimation using Core ML <sub>⭐ 702 · Swift</sub>
-- [Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) - Real-time 3D multi-person pose estimation demo in PyTorch. OpenVINO backend can be used for fast inference on CPU. <sub>⭐ 689 · Python</sub>
-- [Doubiiu/CodeTalker](https://github.com/Doubiiu/CodeTalker) - (CVPR 2023) CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior <sub>⭐ 617 · Jupyter Notebook</sub>
-- [vitoralbiero/img2pose](https://github.com/vitoralbiero/img2pose) - The official PyTorch implementation of img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation - CVPR 2021 <sub>⭐ 613 · Python</sub>
-- [Vegetebird/MHFormer](https://github.com/Vegetebird/MHFormer) - (CVPR 2022) MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation <sub>⭐ 610 · Python</sub>
-- [stefanopini/simple-HRNet](https://github.com/stefanopini/simple-HRNet) - Multi-person Human Pose Estimation with HRNet in Pytorch <sub>⭐ 608 · Python</sub>
-- [sergeytulyakov/mocogan](https://github.com/sergeytulyakov/mocogan) - MoCoGAN: Decomposing Motion and Content for Video Generation <sub>⭐ 604 · Python</sub>
-- [zczcwh/PoseFormer](https://github.com/zczcwh/PoseFormer) - The project is an official implementation of our paper "3D Human Pose Estimation with Spatial and Temporal Transformers". <sub>⭐ 585 · Python</sub>
-- [davrempe/humor](https://github.com/davrempe/humor) - Code for ICCV 2021 paper "HuMoR: 3D Human Motion Model for Robust Pose Estimation" <sub>⭐ 579 · Python</sub>
-- [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio) - AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React) <sub>⭐ 576 · Go</sub>
-- [ilovepose/DarkPose](https://github.com/ilovepose/DarkPose) - Distribution-Aware Coordinate Representation for Human Pose Estimation <sub>⭐ 568 · Cuda</sub>
-- [FaceAR/OpenFaceIOS](https://github.com/FaceAR/OpenFaceIOS) - OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition… <sub>⭐ 506 · C++</sub>
-- [taeyeopl/Any6D](https://github.com/taeyeopl/Any6D) - (CVPR 2025) Any6D: Model-free 6D Pose Estimation of Novel Objects <sub>⭐ 506 · Jupyter Notebook</sub>
-- [rwightman/posenet-python](https://github.com/rwightman/posenet-python) - A Python port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation) <sub>⭐ 505 · Python</sub>
-- [NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) - Deep learned, NVIDIA-accelerated 3D object pose estimation <sub>⭐ 504 · C++</sub>
-- [caiyuanhao1998/RSN](https://github.com/caiyuanhao1998/RSN) - "Learning Delicate Local Representations for Multi-Person Pose Estimation" (ECCV 2020 Spotlight) & (COCO 2019 Human Keypoint Detection Challenge Winner) & (COCO 2019 Best Paper Award) <sub>⭐ 503 · Python</sub>
-- [GengDavid/pytorch-cpn](https://github.com/GengDavid/pytorch-cpn) - A PyTorch re-implementation of CPN (Cascaded Pyramid Network for Multi-Person Pose Estimation) <sub>⭐ 501 · Python</sub>
-- [GenielabsOpenSource/spine-animation-ai](https://github.com/GenielabsOpenSource/spine-animation-ai) - AI-powered Claude skill for Spine 2D skeletal animation — auto-rig, animate, and preview characters <sub>⭐ 498 · Python</sub>
-- [mks0601/3DMPPE_ROOTNET_RELEASE](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE) - Official PyTorch implementation of "Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image", ICCV 2019 <sub>⭐ 492 · Python</sub>
-- [imistyrain/MTCNN](https://github.com/imistyrain/MTCNN) - Realtime Face Detection and Head pose estimation on Windows、Ubuntu、Mac、Android and iOS <sub>⭐ 485 · Jupyter Notebook</sub>
-- [Dai-Wenxun/MotionLCM](https://github.com/Dai-Wenxun/MotionLCM) - ( ECCV 2024 ) MotionLCM: This repo is the official implementation of "MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model" <sub>⭐ 469 · Python</sub>
-- [lambdaloop/anipose](https://github.com/lambdaloop/anipose) - A toolkit for robust markerless 3D pose estimation <sub>⭐ 469 · JavaScript</sub>
-- [isarandi/nlf](https://github.com/isarandi/nlf) - (NeurIPS 2024) Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation <sub>⭐ 464 · Python</sub>
-- [jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI](https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI) - a GUI application, which uses YOLOs (YOLOv8, YOLO11, YOLOv13) for Object Detection/Tracking, Human Pose Estimation/Tracking from images, videos or camera <sub>⭐ 461 · Python</sub>
-- [NVlabs/GEM-X](https://github.com/NVlabs/GEM-X) - Monocular whole-body 3D human pose estimation using the SOMA body model <sub>⭐ 460 · Python</sub>
-- [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022 <sub>⭐ 459 · Python</sub>
-- [Songluchuan/TDMM-LM_data](https://github.com/Songluchuan/TDMM-LM_data) - (CVPR2026) TDMM-LM: Bridging Facial Understanding and Animation via Language Models <sub>⭐ 456 · Python</sub>
-- [CNJianLiu/Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) - (IJCV 2026) Project Page for "Deep Learning-Based Object Pose Estimation: A Comprehensive Survey". <sub>⭐ 455</sub>
-- [F2Wang/ObjectDatasetTools](https://github.com/F2Wang/ObjectDatasetTools) - Tools to create pixel-wise object masks, bounding box labels (2D and 3D) and 3D object model (PLY triangle mesh) for object sequences filmed with an RGB-D camera. This project prepares training and… <sub>⭐ 450 · Python</sub>
-- [lmb-freiburg/freihand](https://github.com/lmb-freiburg/freihand) - A dataset for estimation of hand pose and shape from single color images. <sub>⭐ 450 · Python</sub>
-- [DenisTome/Lifting-from-the-Deep-release](https://github.com/DenisTome/Lifting-from-the-Deep-release) - Implementation of "Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image" <sub>⭐ 449 · Python</sub>
-- [cwlroda/falldetection_openpifpaf](https://github.com/cwlroda/falldetection_openpifpaf) - Fall Detection using OpenPifPaf's Human Pose Estimation model <sub>⭐ 434 · Python</sub>
-- [dluvizon/deephar](https://github.com/dluvizon/deephar) - Deep human action recognition and pose estimation <sub>⭐ 423 · Python</sub>
-- [openxrlab/xrmocap](https://github.com/openxrlab/xrmocap) - OpenXRLab Multi-view Motion Capture Toolbox and Benchmark <sub>⭐ 420 · Python</sub>
-- [yo-WASSUP/Good-GYM](https://github.com/yo-WASSUP/Good-GYM) - AI-powered fitness assistant for real-time pose estimation, exercise counting, and workout feedback. <sub>⭐ 419 · Python</sub>
-- [TianzhongSong/Real-Time-Action-Recognition](https://github.com/TianzhongSong/Real-Time-Action-Recognition) - Real-time pose estimation and action recognition <sub>⭐ 417 · Python</sub>
-- [terryky/tfjs_webgl_app](https://github.com/terryky/tfjs_webgl_app) - Realtime TensorFlow.js + WebGL visualization apps. 3D Hand pose estimation, 3D Human pose estimation, Face swap, Depth estimation, Higher accuracy face detection. <sub>⭐ 415 · JavaScript</sub>
-- [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) - A motion generation model learned from a single example (SIGGRAPH 2022) <sub>⭐ 412 · Python</sub>
-- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech <sub>⭐ 409 · JavaScript</sub>
-- [jgraving/DeepPoseKit](https://github.com/jgraving/DeepPoseKit) - a toolkit for pose estimation using deep learning <sub>⭐ 407 · Python</sub>
-- [ilovepose/fast-human-pose-estimation.pytorch](https://github.com/ilovepose/fast-human-pose-estimation.pytorch) - Official pytorch Code for CVPR2019 paper "Fast Human Pose Estimation" https://arxiv.org/abs/1811.05419 <sub>⭐ 399 · Cuda</sub>
-- [mks0601/V2V-PoseNet_RELEASE](https://github.com/mks0601/V2V-PoseNet_RELEASE) - Official Torch7 implementation of "V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map", CVPR 2018 <sub>⭐ 391 · MATLAB</sub>
-- [quanhua92/human-pose-estimation-opencv](https://github.com/quanhua92/human-pose-estimation-opencv) - Perform Human Pose Estimation in OpenCV Using OpenPose MobileNet <sub>⭐ 384 · Python</sub>
-- [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) - YOLOv7 Pose estimation using OpenCV, PyTorch <sub>⭐ 377 · Python</sub>
-- [Fang-Haoshu/Halpe-FullBody](https://github.com/Fang-Haoshu/Halpe-FullBody) - Halpe: full body human pose estimation and human-object interaction detection dataset <sub>⭐ 374 · Jupyter Notebook</sub>
-- [meshula/OpenSteer](https://github.com/meshula/OpenSteer) - OpenSteer is a C++ library to help build steering behaviors for autonomous characters in games and animation. <sub>⭐ 374 · C++</sub>
-- [marian-margeta/gait-recognition](https://github.com/marian-margeta/gait-recognition) - Atchitectures of deep neural network for gait recognition and human pose estimation with pre-trained models <sub>⭐ 369 · Python</sub>
-- [IDEA-Research/HumanTOMATO](https://github.com/IDEA-Research/HumanTOMATO) - (ICML 2024) HumanTOMATO: Text-aligned Whole-body Motion Generation <sub>⭐ 364 · Python</sub>
-- [omimo/PyMO](https://github.com/omimo/PyMO) - A library for machine learning research on motion capture data <sub>⭐ 364 · Python</sub>
-- [ethnhe/FFB6D](https://github.com/ethnhe/FFB6D) - (CVPR2021 Oral) FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation. <sub>⭐ 359 · Python</sub>
-- [Vegetebird/StridedTransformer-Pose3D](https://github.com/Vegetebird/StridedTransformer-Pose3D) - (TMM 2023) Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation <sub>⭐ 355 · Python</sub>
-- [Unity-Technologies/Robotics-Object-Pose-Estimation](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation) - A complete end-to-end demonstration in which we collect training data in Unity and use that data to train a deep neural network to predict the pose of a cube. This model is then deployed in a… <sub>⭐ 351 · Python</sub>
-- [THU-DA-6D-Pose-Group/GDR-Net](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) - GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. (CVPR 2021) <sub>⭐ 349 · Python</sub>
-- [mkocabas/pose-residual-network](https://github.com/mkocabas/pose-residual-network) - Code for the Pose Residual Network introduced in 'MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network (ECCV 2018)' paper <sub>⭐ 346 · Python</sub>
-- [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image (ICRA 2022) <sub>⭐ 345 · Python</sub>
-- [Nicholasli1995/EvoSkeleton](https://github.com/Nicholasli1995/EvoSkeleton) - Official project website for the CVPR 2020 paper (Oral Presentation) "Cascaded deep monocular 3D human pose estimation wth evolutionary training data" <sub>⭐ 342 · Python</sub>
-- [mehtadushy/SelecSLS-Pytorch](https://github.com/mehtadushy/SelecSLS-Pytorch) - Reference ImageNet implementation of SelecSLS CNN architecture proposed in the SIGGRAPH 2020 paper "XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera". The repository also… <sub>⭐ 339 · Python</sub>
-- [mks0601/TF-SimpleHumanPose](https://github.com/mks0601/TF-SimpleHumanPose) - TensorFlow implementation of "Simple Baselines for Human Pose Estimation and Tracking", ECCV 2018 <sub>⭐ 339 · Python</sub>
-- [NationalGAILab/HoT](https://github.com/NationalGAILab/HoT) - (CVPR 2024 ) Official implementation of the paper "⏳ Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation" <sub>⭐ 338 · Python</sub>
-- [tr3e/InterGen](https://github.com/tr3e/InterGen) - (IJCV 2024) InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions <sub>⭐ 333 · Python</sub>
-- [mit-han-lab/litepose](https://github.com/mit-han-lab/litepose) - (CVPR'22) Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation <sub>⭐ 327 · Python</sub>
-- [quickpose/quickpose-ios-sdk](https://github.com/quickpose/quickpose-ios-sdk) - Quickly add MediaPipe Pose Estimation and Detection to your iOS app. Enable powerful features in your app powered by the body or hand. <sub>⭐ 327 · Swift</sub>
-- [GSNCodes/ArUCo-Markers-Pose-Estimation-Generation-Python](https://github.com/GSNCodes/ArUCo-Markers-Pose-Estimation-Generation-Python) - Estimating pose using ArUCo Markers <sub>⭐ 325 · Python</sub>
-- [soraproducer/Awesome-Human-Interaction-Motion-Generation](https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation) - This repository collects papers on Human-Interaction-Motion-Generation applications. We will update new papers irregularly. <sub>⭐ 318</sub>
-- [princeton-vl/pose-hg-demo](https://github.com/princeton-vl/pose-hg-demo) - Code to test and use the model from "Stacked Hourglass Networks for Human Pose Estimation" <sub>⭐ 314 · Lua</sub>
-- [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation) <sub>⭐ 310 · Python</sub>
-- [MotrixLab/LMM](https://github.com/MotrixLab/LMM) - Large Motion Model for Unified Multi-Modal Motion Generation <sub>⭐ 309 · Python</sub>
-- [andyzeng/apc-vision-toolbox](https://github.com/andyzeng/apc-vision-toolbox) - MIT-Princeton Vision Toolbox for the Amazon Picking Challenge 2016 - RGB-D ConvNet-based object segmentation and 6D object pose estimation. <sub>⭐ 308 · C++</sub>
-- [zju3dv/MotionStreamer](https://github.com/zju3dv/MotionStreamer) - (ICCV 2025) MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space <sub>⭐ 302 · Python</sub>
-- [NVIDIA-AI-IOT/deepstream_pose_estimation](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) - This is a DeepStream application to demonstrate a human pose estimation pipeline. <sub>⭐ 299 · C++</sub>
-- [ammar-n-abbas/FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2) - FoundationPoseROS2 is a ROS2-integrated system for 6D object pose estimation and tracking, based on the FoundationPose architecture. It uses RealSense2 with the Segment Anything Model 2 (SAM2)… <sub>⭐ 298 · Python</sub>
-- [nv-nguyen/gigapose](https://github.com/nv-nguyen/gigapose) - (CVPR 2024) PyTorch implementation of GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence <sub>⭐ 294 · Python</sub>
-- [rainmaker22/SMART](https://github.com/rainmaker22/SMART) - (NeurIPS 2024) SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction <sub>⭐ 292 · Python</sub>
-- [nghorbani/moshpp](https://github.com/nghorbani/moshpp) - Motion and Shape Capture from Sparse Markers <sub>⭐ 287 · Python</sub>
-- [salihkaragoz/pose-residual-network-pytorch](https://github.com/salihkaragoz/pose-residual-network-pytorch) - Code for the Pose Residual Network introduced in 'MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network' paper https://arxiv.org/abs/1807.04067 <sub>⭐ 285 · Python</sub>
-- [haofanwang/awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation) - Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing. <sub>⭐ 284</sub>
-- [RQ-Wu/LAMP](https://github.com/RQ-Wu/LAMP) - (CVPR 2024) / LAMP: Learn a Motion Pattern for Few-Shot Based Video Generation <sub>⭐ 284 · Python</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [jeffffffli/NIKI](https://github.com/jeffffffli/NIKI) - Code of "NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation", CVPR 2023 <sub>⭐ 279 · Python</sub>
-- [MedChaabane/DEFT](https://github.com/MedChaabane/DEFT) - Joint detection and tracking model named DEFT, or Detection Embeddings for Tracking." Our approach relies on an appearance-based object matching network jointly-learned with an underlying object… <sub>⭐ 276 · Python</sub>
-- [bardiadoosti/HOPE](https://github.com/bardiadoosti/HOPE) - Source code of CVPR 2020 paper, "HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation" <sub>⭐ 274 · Python</sub>
-- [meiqua/6DPose](https://github.com/meiqua/6DPose) - implement some algorithms of 6d pose estimation <sub>⭐ 274 · Python</sub>
-- [lxy5513/videopose](https://github.com/lxy5513/videopose) - realtime 3D pose estimation for wild videos， embed 2d keypoints detector like hrnet alphapose and openpose <sub>⭐ 267 · Python</sub>
-- [fdcl-gwu/aruco-markers](https://github.com/fdcl-gwu/aruco-markers) - Working examples/tutorial for detection and pose estimation of ArUco markers with C++, including instructions to build and install OpenCV from source. <sub>⭐ 266 · C++</sub>
-- [JunkyByte/easy_ViTPose](https://github.com/JunkyByte/easy_ViTPose) - Easy and fast 2d human and animal multi pose estimation using SOTA ViTPose (Y. Xu et al., 2022) Real-time performances and multiple skeletons supported. <sub>⭐ 250 · Jupyter Notebook</sub>
-- [MiraPurkrabek/BBoxMaskPose](https://github.com/MiraPurkrabek/BBoxMaskPose) - (ICCV 25) The official repository of paper 'Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle' <sub>⭐ 242 · Python</sub>
-- [OpenMotionLab/MotionGPT3](https://github.com/OpenMotionLab/MotionGPT3) - MotionGPT3: Human Motion as a Second Modality, a MoT-based framework for unified motion understanding and generation <sub>⭐ 242 · Python</sub>
-- [ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition](https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition) - Deep Learning Project. <sub>⭐ 237 · Python</sub>
-- [imsoo/fight_detection](https://github.com/imsoo/fight_detection) - Real time Fight Detection Based on 2D Pose Estimation and RNN Action Recognition <sub>⭐ 235 · C++</sub>
-- [NVIDIA-AI-IOT/trt_pose_hand](https://github.com/NVIDIA-AI-IOT/trt_pose_hand) - Real-time hand pose estimation and gesture classification using TensorRT <sub>⭐ 234 · Jupyter Notebook</sub>
-- [TaatiTeam/MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer) - Official implementation of the paper "MotionAGFormer: Enhancing 3D Pose Estimation with a Transformer-GCNFormer Network" (WACV 2024). <sub>⭐ 233 · Python</sub>
-- [nihui/ncnn-android-yolov8](https://github.com/nihui/ncnn-android-yolov8) - ncnn android yolov8 realtime detection, segmentation, pose estimation, classification and obb <sub>⭐ 226 · C++</sub>
-- [realsenseai/hand_tracking_samples](https://github.com/realsenseai/hand_tracking_samples) - research codebase for depth-based hand pose estimation using dynamics based tracking and CNNs <sub>⭐ 225 · C++</sub>
-- [bmartacho/UniPose](https://github.com/bmartacho/UniPose) - We propose UniPose, a unified framework for human pose estimation, based on our “Waterfall” Atrous Spatial Pooling architecture, that achieves state-of-art-results on several pose estimation metrics.… <sub>⭐ 223 · Python</sub>
-- [michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation) - Multi-Person Pose Estimation project for Tensorflow 2.0 with a small and fast model based on MobilenetV3 <sub>⭐ 220 · Jupyter Notebook</sub>
-- [last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation) - Pytorch version of Realtime Multi-Person Pose Estimation project <sub>⭐ 218 · Jupyter Notebook</sub>
-- [1adrianb/binary-human-pose-estimation](https://github.com/1adrianb/binary-human-pose-estimation) - This code implements a demo of the Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources paper by Adrian Bulat and Georgios Tzimiropoulos. <sub>⭐ 214 · Lua</sub>
-- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because… <sub>⭐ 213 · Python</sub>
-- [creativeIKEP/BlazePoseBarracuda](https://github.com/creativeIKEP/BlazePoseBarracuda) - BlazePoseBarracuda is a human 2D/3D pose estimation neural network that runs the Mediapipe Pose (BlazePose) pipeline on the Unity Barracuda with GPU. <sub>⭐ 212 · C#</sub>
-- [TheTempAccount/Co-Speech-Motion-Generation](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) - Freeform Body Motion Generation from Speech <sub>⭐ 210 · Python</sub>
-- [ziniuwan/maed](https://github.com/ziniuwan/maed) - (ICCV 2021) Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation <sub>⭐ 209 · Python</sub>
-- [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - (ICRA'23) Official code repo for "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation" <sub>⭐ 207 · C++</sub>
-- [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - (NeurIPS 2025, Spotlight) Rectified Point Flow: Generic Point Cloud Pose Estimation <sub>⭐ 205 · Python</sub>
-- [sanweiliti/LEMO](https://github.com/sanweiliti/LEMO) - Official Pytorch implementation for 2021 ICCV paper "Learning Motion Priors for 4D Human Body Capture in 3D Scenes" and trained models / data <sub>⭐ 205 · Python</sub>
-- [akashsengupta1997/HierarchicalProbabilistic3DHuman](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman) - Code repository for the paper: Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild (ICCV 2021) <sub>⭐ 204 · Python</sub>
-- [LinghaoChan/UniMoCap](https://github.com/LinghaoChan/UniMoCap) - (Open-source Project) UniMoCap: community implementation to unify the text-motion datasets (HumanML3D, KIT-ML, and BABEL) and whole-body motion dataset (Motion-X). <sub>⭐ 203 · Python</sub>
-- [MouseLand/facemap](https://github.com/MouseLand/facemap) - Facemap: Framework for predicting neural activity from mouse orofacial movements tracked using a pose estimation model. Package also includes singular value decomposition (SVD) of behavioral videos. <sub>⭐ 203 · Python</sub>
-- [cvlab-epfl/segmentation-driven-pose](https://github.com/cvlab-epfl/segmentation-driven-pose) - Segmentation-driven 6D Object Pose Estimation. CVPR 2019. <sub>⭐ 200 · Python</sub>
-- [HyeonHo99/Video-Motion-Customization](https://github.com/HyeonHo99/Video-Motion-Customization) - VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models (CVPR 2024) <sub>⭐ 200 · Python</sub>
-- [NVIDIA-ISAAC-ROS/isaac_ros_apriltag](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_apriltag) - NVIDIA-accelerated Apriltag detection and pose estimation. <sub>⭐ 200 · C++</sub>
-- [paTRICK-swk/D3DP](https://github.com/paTRICK-swk/D3DP) - (ICCV2023) The PyTorch implementation for "Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation" <sub>⭐ 200 · Python</sub>
-- [xiayu1987/noobot](https://github.com/xiayu1987/noobot) - Cheapest Money-Saving Self-hosted AI agent workspace with tool calling, MCP, multi-model routing, sandboxed execution, multi-agent workflows, and LLM-authored 3D character animation rendered with… <sub>⭐ 197 · JavaScript</sub>
-- [GONGJIA0208/Diffpose](https://github.com/GONGJIA0208/Diffpose) - (CVPR 2023) DiffPose: Toward More Reliable 3D Pose Estimation <sub>⭐ 195 · Python</sub>
-- [cure-lab/DeciWatch](https://github.com/cure-lab/DeciWatch) - (ECCV 2022) Official implementation of the paper "DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation" <sub>⭐ 192 · Python</sub>
-- [IDEA-Research/ED-Pose](https://github.com/IDEA-Research/ED-Pose) - (ICLR 2023) Official implementation of the paper "Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation " <sub>⭐ 191 · Python</sub>
-- [thohemp/6DRepNet360](https://github.com/thohemp/6DRepNet360) - Official Pytorch implementation of "Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation" IEEE TIP 24 <sub>⭐ 191 · Python</sub>
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLO27、YOLO26、YOLO11、YOLOv8 — オブジェクト検出、インスタンスセグメンテーション、セマンティックセグメンテーション、画像分類、ポーズ推定、オブジェクトトラッキング <sub>⭐ 62.2k · Python</sub>
+- [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: ボディ、表面、手およびフィートの推定のための実時間複数の人のキーポイント検出ライブラリ <sub>⭐ 34.5k · C++</sub>
+- [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - キャラクターをUnityでコンピュータブレインとの生活に <sub>⭐ 8.9k · C++</sub>
+- [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace - 顔のランドマーク検出、ヘッドポーズ推定、フェイシャルアクションユニット認識、目視推定を目的とした最先端のツール。 <sub>⭐ 7.8k · MATLAB</sub>
+- [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet) - オブジェクト検出、3D検知、センターポイント検出によるポーズ推定 <sub>⭐ 7.6k · Python</sub>
+- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - DeepLabCutの公式実装: 人間を含むすべての動物のための深い学習とユーザー定義機能のマーカーレスポーズ推定 <sub>⭐ 5.8k · Python</sub>
+- [ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) - CVPR'17(経口)でのリアルタイムマルチパープル推定のためのコードリポジトリ <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - 本プロジェクトは、CVPR2019紙「ヒトポーズ推定のための高解像表現学習」の公式実装です。 <sub>⭐ 4.5k · Cuda</sub>
+- [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo) - 高品質人間(oid)運動生成のためのキネマティックモーション拡散モデルである金堂の公式実装。 <sub>⭐ 3.7k · Python</sub>
+- [xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) - 手のポーズ推定/追跡上の素晴らしい仕事 <sub>⭐ 3.4k · Python</sub>
+- [mkocabas/VIBE](https://github.com/mkocabas/VIBE) - CVPR2020紙「VIBE:人体ポーズと形状推定のためのビデオ推論」の公式実装 <sub>⭐ 3.2k · Python</sub>
+- [open-mmlab/mmskeleton](https://github.com/open-mmlab/mmskeleton) - 人間のポーズ推定、骨格ベースの行動認識とアクション合成のためのOpenMMLABツールボックス。 <sub>⭐ 3.1k · Python</sub>
+- [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - 「2段蒸留による全身のポーズ推定」(ICCV 2023、CV4Metaverse Workshop) <sub>⭐ 2.8k · Python</sub>
+- [Tencent/MimicMotion](https://github.com/Tencent/MimicMotion) - 高品質人間のモーションビデオ生成と自信を持ってポーズガイダンス <sub>⭐ 2.7k · Python</sub>
+- [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - 人間のポーズ推定で素晴らしいリソースのコレクション。 <sub>⭐ 2.5k</sub>
+- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - ルームスケールトラッキングのための低コストのモーションキャプチャシステム <sub>⭐ 2.4k · TypeScript</sub>
+- [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - このプロジェクトの目標は、統合またはUSB接続されたウェブカムがJavaから直接アクセスできるようにすることです。 提供されたライブラリを使用して、カメラのイメージを読み取り、モーションを検出することができます。 メイン... <sub>⭐ 2.4k · Java</sub>
+- [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrexはDETRベースのオブジェクト検出、セグメンテーション、ポーズ推定などの視覚認識タスクのための研究プラットフォームです。 <sub>⭐ 2.3k · Python</sub>
+- [Daniil-Osokin/lightweight-human-pose-estimation.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) - PyTorch で高速かつ正確な人間のポーズ推定。 「リアルタイム 2D マルチパーソンポーズの推定を CPU: 軽量 OpenPose」紙に実装します。 <sub>⭐ 2.2k · Python</sub>
+- [ViTAE-Transformer/ViTPose](https://github.com/ViTAE-Transformer/ViTPose) - (NeurIPS'22) "ViTPose: 人間のポーズの推定のためのシンプルなビジョントランスベースライン"と(TPAMI'23) "ViTPose++: 汎用ボディポース見積もり用ビジョントランス" <sub>⭐ 2.2k · Python</sub>
+- [facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy) - 神経ネットワークを用いたAI主導型キャラクターアニメーションのPythonフレームワーク。 <sub>⭐ 2.1k · Python</sub>
+- [albertpumarola/GANimation](https://github.com/albertpumarola/GANimation) - アニメーション:単画像(ECCV'18オーラル)から解剖学的-awareフェイシャルアニメーション (PyTorch) <sub>⭐ 2.0k · Python</sub>
+- [OpenMotionLab/MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - (NeurIPS 2023) MotionGPT: LLMを用いた統一されたモーション言語生成モデルとしてのヒューマン・モーション <sub>⭐ 2.0k · Python</sub>
+- [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator、AIベースのフルボディモーションキャプチャと拡張現実(XR)ソリューションは、システムアニメーターオンライン <sub>⭐ 1.9k · JavaScript</sub>
+- [mpatacchiola/deepgaze](https://github.com/mpatacchiola/deepgaze) - 人間コンピュータの相互作用のためのコンピューター・ビジョンライブラリ。それは頭部のポーズおよび視線方向の推定を、複雑な神経ネットワークを使用して実施します、バックプロジェクションによる皮膚検出、動き... <sub>⭐ 1.9k · Python</sub>
+- [s60sc/ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32カメラモーションキャプチャアプリケーションは、JPEGをAVIファイルとしてSDカードに記録し、MJPEGとしてブラウザにストリーミングします。 マイクロフォンがインストールされている場合、WAVファイルが作成されます。 ファイルをアップロードすることができます... <sub>⭐ 1.7k · C++</sub>
+- [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose) - PyTorchを使ったディープラーニングヘッドポーズ推定。 <sub>⭐ 1.7k · Python</sub>
+- [Fantasy-AMAP/fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) - (ACM MM 2025) ファンタシー・トーク:コヒーレントモーションシンシスによるリアルな話 <sub>⭐ 1.6k · Python</sub>
+- [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - 「HybrIK:ハイブリッド分析・ニューラル・インバース・カネマティックス3Dヒューマンポーズと形状推定」CVPR 2021 <sub>⭐ 1.6k · Python</sub>
+- [una-dinosauria/3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) - 3D人間が描く、テンソルフローの簡単なベースライン。ICCV 17で発表された。 <sub>⭐ 1.5k · Python</sub>
+- [wangzheallen/awesome-human-pose-estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) - ヒトポーズ推定関連出版 <sub>⭐ 1.4k</sub>
+- [yinguobing/head-pose-estimation](https://github.com/yinguobing/head-pose-estimation) - ONNXRuntime と OpenCV でリアルタイムのヒトヘッドポーズ推定。 <sub>⭐ 1.4k · Python</sub>
+- [tensorlayer/HyperPose](https://github.com/tensorlayer/HyperPose) - 迅速で柔軟な人間のポーズの推定のためのライブラリ <sub>⭐ 1.3k · Python</sub>
+- [NVlabs/Deep_Object_Pose](https://github.com/NVlabs/Deep_Object_Pose) - ディープオブジェクトポーズ推定(DOPE) - ROSの推論 (CoRL 2018) <sub>⭐ 1.2k · Python</sub>
+- [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - (CVPR 2022 ベスト・スチューデント・ペーパー) EPro-PnP: モノラルオブジェクトのポーズ推定のための一般化エンドツーエンド確率的視点nポイント <sub>⭐ 1.2k · Python</sub>
+- [eldar/pose-tensorflow](https://github.com/eldar/pose-tensorflow) - TensorFlowフレームワークによるヒトポーズ推定 <sub>⭐ 1.1k · C++</sub>
+- [Geekgineer/YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP) - YOLOモデル(v5-v12、YOLO26)用のC++インフェレンスエンジンをクロスプラットフォームで作成します。検出、セグメンテーション、ポーズ推定、OBB、分類のための統合APIです。ONNXランタイムと... <sub>⭐ 1.1k · C++</sub>
+- [NVIDIA-AI-IOT/trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose) - NVIDIA TensorRTでリアルタイムポーズ推定が加速 <sub>⭐ 1.1k · Python</sub>
+- [showlab/MotionDirector](https://github.com/showlab/MotionDirector) - (ECCV 2024 オーラル) MotionDirector:テキスト・ツー・ビデオの拡散モデルのモーションカスタマイズ <sub>⭐ 1.1k · Python</sub>
+- [CalciferZh/minimal-hand](https://github.com/CalciferZh/minimal-hand) - 100fps以上のカラーカメラから手の動きをキャプチャする最小限のソリューションです。使いやすく、プラグを実行できます。 <sub>⭐ 1.0k · Python</sub>
+- [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) - AndroidとiOS用のリアルタイムのシングルパーソンポーズ推定。 <sub>⭐ 1.0k · C++</sub>
+- [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - 「OnePose:CADモデルのないワンショットオブジェクトポース推定」のコード、CVPR 2022 <sub>⭐ 1.0k · Python</sub>
+- [MotrixLab/MotionDiffuse](https://github.com/MotrixLab/MotionDiffuse) - MotionDiffuse: Diffusion モデルによるテキスト駆動型ヒューマンモーションジェネレーション <sub>⭐ 984 · Python</sub>
+- [FORTH-ModelBasedTracker/MocapNET](https://github.com/FORTH-ModelBasedTracker/MocapNET) - 一般的なバイオビジョン階層(BVH)の形式で直接3Dヒトポーズを推定するリアルタイム方式で、単眼色画像から発信した2次元ボディジョイントの推定値が示されます。 当社の... <sub>⭐ 954 · C++</sub>
+- [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy) - ARDYの公式実装:インタラクティブな人間のモーション生成(SIGGRAPH 2026)のためのハイブリッド表現によるAutoregressive Diffusion <sub>⭐ 950 · Python</sub>
+- [EvelynFan/FaceFormer](https://github.com/EvelynFan/FaceFormer) - (CVPR 2022) FaceFormer: トランスとスピーチ駆動3Dフェイシャルアニメーション <sub>⭐ 919 · Python</sub>
+- [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - オブジェクト6 DoFポーズ推定上の素晴らしい仕事 <sub>⭐ 892</sub>
+- [mks0601/3DMPPE_POSENET_RELEASE](https://github.com/mks0601/3DMPPE_POSENET_RELEASE) - 「カメラの距離アウェアトップダウンアプローチ」の公式PyTorch実装 シングルRGBイメージから3Dマルチパーソンポーズ推定、ICCV 2019 <sub>⭐ 865 · Python</sub>
+- [yuxng/PoseCNN](https://github.com/yuxng/PoseCNN) - 6D オブジェクトのポーズ推定のための複雑なニューラルネットワークは、乱雑なシーンで <sub>⭐ 834 · C++</sub>
+- [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet) - YoloDotNet - C# .NET 8.0 プロジェクトを分類、オブジェクト検出、OBB 検出、セグメント化とポーズの推定のための画像およびライブビデオストリーム。 <sub>⭐ 825 · C#</sub>
+- [michalfaber/keras_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation) - リアルタイムマルチパーソンポーズ推定プロジェクトのKerasバージョン <sub>⭐ 782 · Jupyter Notebook</sub>
+- [wmcnally/kapao](https://github.com/wmcnally/kapao) - KAPAOは、重要なポイントやポーズを物体として検知し、人間のポーズを予測するために検出をヒューズする効率的な単段のヒトポス推定モデルです。 <sub>⭐ 772 · Python</sub>
+- [WIKI2020/FacePose_pytorch](https://github.com/WIKI2020/FacePose_pytorch) - pytorchは、ヘッドポーズ推定(yaw,roll,pitch)とSOTAのパフォーマンスによる感情検出をリアルタイムで実行します。デプロイが簡単、使いやすく、高精度です。すべての問題に直面して... <sub>⭐ 765 · Python</sub>
+- [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - (CVPR2024) 「SAM-6D: セグメント別モデルがゼロショット6Dオブジェクトポーズ推定を満たします。」 <sub>⭐ 730 · Python</sub>
+- [liuyuan-pal/Gen6D](https://github.com/liuyuan-pal/Gen6D) - (ECCV2022) Gen6D:RGBイメージからの汎用モデルフリーの6-DoFオブジェクトポース推定 <sub>⭐ 722 · Python</sub>
+- [oarriaga/paz](https://github.com/oarriaga/paz) - マウスの推定、オブジェクト検出、インスタンスのセグメンテーション、キーポイント推定、顔認識などのためのPythonにおける階層認識ライブラリ <sub>⭐ 711 · Python</sub>
+- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - モーショングラフィックスとテキストからスピーナ合成を使用して、完全自動化されたビデオメーカーが毎日YouTube動画にニュースレターをオンにします。 <sub>⭐ 707 · TypeScript</sub>
+- [tucan9389/PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) - Core MLを用いたポーズ推定の継承事例 <sub>⭐ 702 · Swift</sub>
+- [Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) - PyTorchのリアルタイム3Dマルチパーポーズ推定デモ。OpenVINOバックエンドはCPU上で高速な推論に使用できます。 <sub>⭐ 689 · Python</sub>
+- [Doubiiu/CodeTalker](https://github.com/Doubiiu/CodeTalker) - (CVPR 2023) コードトーク:Discreteのモーションの前でスピーチ主導3D顔アニメーション <sub>⭐ 617 · Jupyter Notebook</sub>
+- [vitoralbiero/img2pose](https://github.com/vitoralbiero/img2pose) - img2poseの公式PyTorch実装:6DoFによる顔のアライメントと検出、フェイスポーズ推定 - CVPR 2021 <sub>⭐ 613 · Python</sub>
+- [Vegetebird/MHFormer](https://github.com/Vegetebird/MHFormer) - (CVPR 2022) MHFormer: 3D人間のポーズの推定のための複数のヒ素形成変圧器 <sub>⭐ 610 · Python</sub>
+- [stefanopini/simple-HRNet](https://github.com/stefanopini/simple-HRNet) - PytorchのHRNetによるマルチパーマヒトポーズ推定 <sub>⭐ 608 · Python</sub>
+- [sergeytulyakov/mocogan](https://github.com/sergeytulyakov/mocogan) - MoCoGAN:映像制作のためのモーションとコンテンツの提案 <sub>⭐ 604 · Python</sub>
+- [zczcwh/PoseFormer](https://github.com/zczcwh/PoseFormer) - このプロジェクトは、「空間と天体トランスとの3Dヒトポース推定」の公式実装です。 <sub>⭐ 585 · Python</sub>
+- [davrempe/humor](https://github.com/davrempe/humor) - ICCV 2021紙「HuMoR:強いポーズの推定のための3D人間の行動モデル」コード <sub>⭐ 579 · Python</sub>
+- [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio) - AI 搭載アニメーションスプライトスタジオ — 8 つの方向と 100+ のアクションを 1 つテキストプロンプトから生成します (Wails + Go + React) <sub>⭐ 576 · Go</sub>
+- [ilovepose/DarkPose](https://github.com/ilovepose/DarkPose) - 流通・認知度向上のための総合座標表示 <sub>⭐ 568 · Cuda</sub>
+- [FaceAR/OpenFaceIOS](https://github.com/FaceAR/OpenFaceIOS) - OpenFace は https://github.com/TadasBaltrusaitis/OpenFace、顔のランドマーク検出、ヘッドポーズ推定、フェイシャルアクションユニット認識のために意図されている最先端のオープンソースツールから入手できます。 <sub>⭐ 506 · C++</sub>
+- [taeyeopl/Any6D](https://github.com/taeyeopl/Any6D) - (CVPR 2025) Any6D: Novelオブジェクトのモデルフリー6Dポーズ推定 <sub>⭐ 506 · Jupyter Notebook</sub>
+- [rwightman/posenet-python](https://github.com/rwightman/posenet-python) - Google TensorFlow.js PoseNetのPythonポート(リアルタイムヒューマンポーズ推定) <sub>⭐ 505 · Python</sub>
+- [NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) - ディープラーニング、NVIDIA認定3Dオブジェクトポーズ推定 <sub>⭐ 504 · C++</sub>
+- [caiyuanhao1998/RSN](https://github.com/caiyuanhao1998/RSN) - 「マルチパーソンポーズの推定のためのローカル代表的な演算」(ECCV 2020 スポットライト)&(COCO2019 ヒューマンポイント検出チャレンジ優勝) & (COCO 2019 ベストペーパー賞) <sub>⭐ 503 · Python</sub>
+- [GengDavid/pytorch-cpn](https://github.com/GengDavid/pytorch-cpn) - CPNのPyTorch再導入(マルチパーソンポーズ推定のためのCascaded Pyramidネットワーク) <sub>⭐ 501 · Python</sub>
+- [GenielabsOpenSource/spine-animation-ai](https://github.com/GenielabsOpenSource/spine-animation-ai) - Spine 2Dの骨格アニメーションのためのAI搭載クラウドスキル - オートリグ、アニメイト、プレビューキャラクター <sub>⭐ 498 · Python</sub>
+- [mks0601/3DMPPE_ROOTNET_RELEASE](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE) - 「カメラの距離アウェアトップダウンアプローチ」の公式PyTorch実装 シングルRGBイメージから3Dマルチパーソンポーズ推定、ICCV 2019 <sub>⭐ 492 · Python</sub>
+- [imistyrain/MTCNN](https://github.com/imistyrain/MTCNN) - Windows、Ubuntu、Mac、AndroidおよびiOS上でのリアルタイム顔検出とヘッドポーズ推定 <sub>⭐ 485 · Jupyter Notebook</sub>
+- [Dai-Wenxun/MotionLCM](https://github.com/Dai-Wenxun/MotionLCM) - ( ECCV 2024 ) MotionLCM: このリポジトリは、"MotionLCM: 意図的な一貫性モデルによるリアルタイム制御可能なモーション生成"の公式実装です。 <sub>⭐ 469 · Python</sub>
+- [lambdaloop/anipose](https://github.com/lambdaloop/anipose) - 堅牢なマーカーレス3Dポーズ推定のためのツールキット <sub>⭐ 469 · JavaScript</sub>
+- [isarandi/nlf](https://github.com/isarandi/nlf) - (NeurIPS 2024) 連続3D人間のポーズおよび形の推定のための神経局部化学分野 <sub>⭐ 464 · Python</sub>
+- [jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI](https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI) - YOLOs(YOLOv8、YOLO11、YOLOv13)をオブジェクト検出/追跡、ヒューマンポーズ推定/画像から検索、ビデオやカメラ <sub>⭐ 461 · Python</sub>
+- [NVlabs/GEM-X](https://github.com/NVlabs/GEM-X) - SOMAボディモデルを用いたモノラル全身3Dヒトポーズ推定 <sub>⭐ 460 · Python</sub>
+- [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - 「OnePose ++: Keypoint-Free One-Shot Object Pose Estimation with CAD モデル」 NeurIPS 2022 <sub>⭐ 459 · Python</sub>
+- [Songluchuan/TDMM-LM_data](https://github.com/Songluchuan/TDMM-LM_data) - (CVPR2026) TDMM-LM:言語モデルによる顔の理解とアニメーションをブリッジング <sub>⭐ 456 · Python</sub>
+- [CNJianLiu/Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) - (IJCV 2026) 「ディープラーニングベースのオブジェクトポーズ推定:包括的な調査」のプロジェクトページ <sub>⭐ 455</sub>
+- [F2Wang/ObjectDatasetTools](https://github.com/F2Wang/ObjectDatasetTools) - RGB-Dカメラで撮影したオブジェクトシーケンス用の、ピクセル指向のオブジェクトマスク、境界ボックスラベル(2Dおよび3D)と3Dオブジェクトモデル(PLY三角形メッシュ)を作成するツール。 このプロジェクトでは、トレーニングや... <sub>⭐ 450 · Python</sub>
+- [lmb-freiburg/freihand](https://github.com/lmb-freiburg/freihand) - 単色画像から手ポーズや形状の推定のためのデータセット。 <sub>⭐ 450 · Python</sub>
+- [DenisTome/Lifting-from-the-Deep-release](https://github.com/DenisTome/Lifting-from-the-Deep-release) - 「深部からの流出:単一画像から複雑な3Dポーズ推定」の実施 <sub>⭐ 449 · Python</sub>
+- [cwlroda/falldetection_openpifpaf](https://github.com/cwlroda/falldetection_openpifpaf) - OpenPifPafのヒトポーズ推定モデルを用いた落下検知 <sub>⭐ 434 · Python</sub>
+- [dluvizon/deephar](https://github.com/dluvizon/deephar) - ディープヒューマンアクション認識とポーズ推定 <sub>⭐ 423 · Python</sub>
+- [openxrlab/xrmocap](https://github.com/openxrlab/xrmocap) - OpenXRLabマルチビューモーションキャプチャツールボックスとベンチマーク <sub>⭐ 420 · Python</sub>
+- [yo-WASSUP/Good-GYM](https://github.com/yo-WASSUP/Good-GYM) - リアルタイムのポーズ推定、練習カウントおよびワークアウトフィードバックのためのAI搭載フィットネスアシスタント。 <sub>⭐ 419 · Python</sub>
+- [TianzhongSong/Real-Time-Action-Recognition](https://github.com/TianzhongSong/Real-Time-Action-Recognition) - リアルタイムポーズ推定とアクション認識 <sub>⭐ 417 · Python</sub>
+- [terryky/tfjs_webgl_app](https://github.com/terryky/tfjs_webgl_app) - リアルタイムのTensorFlow.js + WebGLビジュアライゼーションアプリ。 3Dハンドポーズ推定、3Dヒューマンポーズ推定、フェイススワップ、深さ見積もり、高精度顔検出 <sub>⭐ 415 · JavaScript</sub>
+- [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) - 一つの例から学んだモーション生成モデル(SIGGRAPH 2022) <sub>⭐ 412 · Python</sub>
+- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw デスクトップアシスタント MVP - Live2D キャラクターアニメーション、リアルタイム音声認識、テキストツースピーチによる電子ベースの AI ボイスアシスタント <sub>⭐ 409 · JavaScript</sub>
+- [jgraving/DeepPoseKit](https://github.com/jgraving/DeepPoseKit) - ディープラーニングを用いたポーズ推定のためのツールキット <sub>⭐ 407 · Python</sub>
+- [ilovepose/fast-human-pose-estimation.pytorch](https://github.com/ilovepose/fast-human-pose-estimation.pytorch) - CVPR2019紙「ファスト・ヒューマンポーズ推定」の公式ピトーチコード https://arxiv.org/abs/1811.05419 <sub>⭐ 399 · Cuda</sub>
+- [mks0601/V2V-PoseNet_RELEASE](https://github.com/mks0601/V2V-PoseNet_RELEASE) - 「V2V-PoseNet:Voxel-to-Voxel Prediction Network for 正確な3Dハンドと単一の深さマップからのヒトポース推定」の公式トーチ7実装、CVPR 2018 <sub>⭐ 391 · MATLAB</sub>
+- [quanhua92/human-pose-estimation-opencv](https://github.com/quanhua92/human-pose-estimation-opencv) - OpenPose MobileNetを使用してOpenCVでヒトポス推定を実行 <sub>⭐ 384 · Python</sub>
+- [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) - OpenCV、PyTorchを使ったYOLOv7ポーズ推定 <sub>⭐ 377 · Python</sub>
+- [Fang-Haoshu/Halpe-FullBody](https://github.com/Fang-Haoshu/Halpe-FullBody) - Halpe:全身の人間のポーズ推定および人間-object 相互作用の検出のデータセット <sub>⭐ 374 · Jupyter Notebook</sub>
+- [meshula/OpenSteer](https://github.com/meshula/OpenSteer) - OpenSteer は、ゲームやアニメーションの自律的なキャラクターのためのステアリング動作を構築するための C++ ライブラリです。 <sub>⭐ 374 · C++</sub>
+- [marian-margeta/gait-recognition](https://github.com/marian-margeta/gait-recognition) - 事前訓練されたモデルによる人脈認識と人間のポーズ推定のための深いニューラルネットワークの達成 <sub>⭐ 369 · Python</sub>
+- [IDEA-Research/HumanTOMATO](https://github.com/IDEA-Research/HumanTOMATO) - (ICML 2024) HumanTOMATO: テキスト整形全身モーションジェネレーション <sub>⭐ 364 · Python</sub>
+- [omimo/PyMO](https://github.com/omimo/PyMO) - モーションキャプチャデータに関する機械学習研究のためのライブラリ <sub>⭐ 364 · Python</sub>
+- [ethnhe/FFB6D](https://github.com/ethnhe/FFB6D) - (CVPR2021経口) FFB6D: 6Dポーズ推定のための完全な流れの二方向融合ネットワーク。 <sub>⭐ 359 · Python</sub>
+- [Vegetebird/StridedTransformer-Pose3D](https://github.com/Vegetebird/StridedTransformer-Pose3D) - (TMM 2023) 3Dヒューマンポーズ推定のためのストライデッドトランスによる気道的コンテキストの探索 <sub>⭐ 355 · Python</sub>
+- [Unity-Technologies/Robotics-Object-Pose-Estimation](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation) - トレーニングデータをUnityで収集し、そのデータをディープニューラルネットワークを訓練してキューブのポーズを予測するために使用する完全なエンドツーエンドデモンストレーション。 このモデルはその後に展開されます... <sub>⭐ 351 · Python</sub>
+- [THU-DA-6D-Pose-Group/GDR-Net](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) - GDR-Net: Monocular 6D オブジェクトポーズ推定のための Geometry-Guided Direct Regression Network (CVPR 2021) <sub>⭐ 349 · Python</sub>
+- [mkocabas/pose-residual-network](https://github.com/mkocabas/pose-residual-network) - 「MultiPoseNet」で導入されたポーズの残骸ネットワークのためのコード:ポース残りのネットワーク(ECCV 2018)'紙を使用して速い複数のパーソンのポーズの推定 <sub>⭐ 346 · Python</sub>
+- [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - RGBイメージ(ICRA 2022)の単段キーポイントベースカテゴリレベルのオブジェクトポーズ推定 <sub>⭐ 345 · Python</sub>
+- [Nicholasli1995/EvoSkeleton](https://github.com/Nicholasli1995/EvoSkeleton) - 2020年度のCVPR2020論文(口頭発表)「学術的深層3Dヒトポーズ推定Wth進化訓練データ」に関する公式プロジェクトサイト <sub>⭐ 342 · Python</sub>
+- [mehtadushy/SelecSLS-Pytorch](https://github.com/mehtadushy/SelecSLS-Pytorch) - SIGGRAPH 2020論文「XNect: リアルタイムマルチパーソン3DモーションキャプチャとシングルRGBカメラ」で提案したSelecSLS CNNアーキテクチャのリファレンスImageNet実装。リポジトリも... <sub>⭐ 339 · Python</sub>
+- [mks0601/TF-SimpleHumanPose](https://github.com/mks0601/TF-SimpleHumanPose) - 「人間のポーズの推定と追跡のための簡単なベースライン」TensorFlow実装、ECCV 2018 <sub>⭐ 339 · Python</sub>
+- [NationalGAILab/HoT](https://github.com/NationalGAILab/HoT) - (CVPR 2024)紙の公式実装「効率的なトランスベースの3Dヒューマンポーズ推定のための時間ガラストコタイザ」 <sub>⭐ 338 · Python</sub>
+- [tr3e/InterGen](https://github.com/tr3e/InterGen) - (IJCV 2024) InterGen:複雑な相互作用に基づく拡散ベースのマルチヒューマン・モーション生成 <sub>⭐ 333 · Python</sub>
+- [mit-han-lab/litepose](https://github.com/mit-han-lab/litepose) - (CVPR'22)Lite Pose:2D人間のポーズの推定のための有効な建築設計 <sub>⭐ 327 · Python</sub>
+- [quickpose/quickpose-ios-sdk](https://github.com/quickpose/quickpose-ios-sdk) - MediaPipe Pose Estimation と iOS アプリへの検出をすばやく追加できます。ボディまたはハンドで機能するアプリの強力な機能を有効化します。 <sub>⭐ 327 · Swift</sub>
+- [GSNCodes/ArUCo-Markers-Pose-Estimation-Generation-Python](https://github.com/GSNCodes/ArUCo-Markers-Pose-Estimation-Generation-Python) - ArUCo マーカーを使用した推定ポーズ <sub>⭐ 325 · Python</sub>
+- [soraproducer/Awesome-Human-Interaction-Motion-Generation](https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation) - このリポジトリは、Human-Interaction-Motion-Generationアプリケーションで紙を収集します。新しい論文を不規則に更新します。 <sub>⭐ 318</sub>
+- [princeton-vl/pose-hg-demo](https://github.com/princeton-vl/pose-hg-demo) - 「ヒトポーズ推定のためのスタック・アワーグラスネットワーク」からモデルをテストし、使用するためのコード <sub>⭐ 314 · Lua</sub>
+- [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - Google TensorFlow.js PoseNetのPyTorchポート(リアルタイムヒューマンポーズ推定) <sub>⭐ 310 · Python</sub>
+- [MotrixLab/LMM](https://github.com/MotrixLab/LMM) - ユニファイドマルチモーダルモーション生成のための大型モーションモデル <sub>⭐ 309 · Python</sub>
+- [andyzeng/apc-vision-toolbox](https://github.com/andyzeng/apc-vision-toolbox) - MIT-Princeton Vision Toolbox for Amazon Picking Challenge 2016 - RGB-D ConvNetベースのオブジェクトのセグメンテーションと6Dオブジェクトポーズ推定。 <sub>⭐ 308 · C++</sub>
+- [zju3dv/MotionStreamer](https://github.com/zju3dv/MotionStreamer) - (ICCV 2025) MotionStreamer:キャスル・ラテントスペースの拡散ベースのオートレグレッシブモデルによるモーションジェネレーションをストリーミング <sub>⭐ 302 · Python</sub>
+- [NVIDIA-AI-IOT/deepstream_pose_estimation](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) - これは、人間のポーズ推定パイプラインを実証するためのDeepStreamアプリケーションです。 <sub>⭐ 299 · C++</sub>
+- [ammar-n-abbas/FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2) - FoundationPoseROS2 は、FoundationPose アーキテクチャに基づく 6D オブジェクトポーズ推定と追跡のための ros2 統合システムです。 これは、RealSense2 をセグメント別モデル 2 (SAM2) で使用します。 <sub>⭐ 298 · Python</sub>
+- [nv-nguyen/gigapose](https://github.com/nv-nguyen/gigapose) - (CVPR 2024) GigaPoseのPyTorch実装: 1つのCorespondenceによる高速かつ強力なNovelオブジェクトポーズ推定 <sub>⭐ 294 · Python</sub>
+- [rainmaker22/SMART](https://github.com/rainmaker22/SMART) - (NeurIPS 2024) SMART: 次世代型マルチエージェントによるリアルタイムモーション生成 <sub>⭐ 292 · Python</sub>
+- [nghorbani/moshpp](https://github.com/nghorbani/moshpp) - Sparseマーカーによるモーションとシェイプキャプチャ <sub>⭐ 287 · Python</sub>
+- [salihkaragoz/pose-residual-network-pytorch](https://github.com/salihkaragoz/pose-residual-network-pytorch) - 「MultiPoseNet」で導入されたポーズの残留ネットワークのためのコード: ポーズ残りのネットワーク紙を使用して高速マルチパーソンポーズ推定 https://arxiv.org/abs/1807.04067 <sub>⭐ 285 · Python</sub>
+- [haofanwang/awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation) - 人の動きの生成、イメージまたはビデオ生成および編集を含む条件付きコンテンツ生成のためのデータリソースを更新します。 <sub>⭐ 284</sub>
+- [RQ-Wu/LAMP](https://github.com/RQ-Wu/LAMP) - (CVPR 2024) / LAMP:Few-Shotベースのビデオ生成のためのモーションパターンを学びます <sub>⭐ 284 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - TensorflowでNeural Networks(SSD)を使う。Tensorflow(オブジェクト検出API)を使用して手探知機を訓練するために使用されるこのリポジトリのドキュメント手順とスクリプト。任意のDNNベースのタスクと同様に、最も高価な... <sub>⭐ 282 · Python</sub>
+- [jeffffffli/NIKI](https://github.com/jeffffffli/NIKI) - 「NIKI:3Dヒューマンポーズと形状推定のための不可逆ニューラルネットワークの神経内臓運動」CVPR 2023のコード <sub>⭐ 279 · Python</sub>
+- [MedChaabane/DEFT](https://github.com/MedChaabane/DEFT) - DEFT という名前のジョイント検出とトラッキングモデル、または追跡のための検出エンベディング。 当社のアプローチは、下地オブジェクトと共同で学習された外観ベースのオブジェクトマッチングネットワークに依存しています... <sub>⭐ 276 · Python</sub>
+- [bardiadoosti/HOPE](https://github.com/bardiadoosti/HOPE) - CVPR 2020用紙のソースコード「HOPE-Net: 手オブジェクトポーズ推定用グラフベースモデル」 <sub>⭐ 274 · Python</sub>
+- [meiqua/6DPose](https://github.com/meiqua/6DPose) - 6dポーズ推定のアルゴリズムを実装 <sub>⭐ 274 · Python</sub>
+- [lxy5513/videopose](https://github.com/lxy5513/videopose) - リアルタイム3Dポーズは野生のビデオのための推定を置きます、hrnet alphaposeおよびopenposeのような2dのキーポイントの探知器埋め込みました <sub>⭐ 267 · Python</sub>
+- [fdcl-gwu/aruco-markers](https://github.com/fdcl-gwu/aruco-markers) - C++でArUcoマーカーの検出とポーズ推定のための作業例/チュートリアル, ソースからOpenCVを構築し、インストールするための指示を含みます. <sub>⭐ 266 · C++</sub>
+- [JunkyByte/easy_ViTPose](https://github.com/JunkyByte/easy_ViTPose) - SOTA ViTPose(Y. Xu et al.、2022)を使用した、人間と動物のマルチポーズ推定が簡単かつ高速です。リアルタイムのパフォーマンスと複数のスケルトンのサポート。 <sub>⭐ 250 · Jupyter Notebook</sub>
+- [MiraPurkrabek/BBoxMaskPose](https://github.com/MiraPurkrabek/BBoxMaskPose) - (ICCV 25) 紙の「検出、ポーズ推定と複数のボディーのための分岐: 激しい円を閉じる」 <sub>⭐ 242 · Python</sub>
+- [OpenMotionLab/MotionGPT3](https://github.com/OpenMotionLab/MotionGPT3) - MotionGPT3: ヒトモーションを第二のモダリティとして、統一された運動理解と世代のためのMOTベースのフレームワーク <sub>⭐ 242 · Python</sub>
+- [ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition](https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition) - ディープラーニングプロジェクト <sub>⭐ 237 · Python</sub>
+- [imsoo/fight_detection](https://github.com/imsoo/fight_detection) - 2Dポーズ推定とRNNアクション認識に基づくリアルタイムのファイト検出 <sub>⭐ 235 · C++</sub>
+- [NVIDIA-AI-IOT/trt_pose_hand](https://github.com/NVIDIA-AI-IOT/trt_pose_hand) - リアルタイムハンドポーズ推定とテノールRTを用いたジェスチャー分類 <sub>⭐ 234 · Jupyter Notebook</sub>
+- [TaatiTeam/MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer) - 「MotionAGFormer:トランス-GCNFormer Networkで3Dポーズ推定を強化する」(WACV 2024)の公式実装。 <sub>⭐ 233 · Python</sub>
+- [nihui/ncnn-android-yolov8](https://github.com/nihui/ncnn-android-yolov8) - ncnnアンドロイドyolov8リアルタイム検出、セグメンテーション、ポーズ推定、分類およびobb <sub>⭐ 226 · C++</sub>
+- [realsenseai/hand_tracking_samples](https://github.com/realsenseai/hand_tracking_samples) - ダイナミックスベースのトラッキングとCNNを用いた深さベースハンドポーズ推定のための研究コードベース <sub>⭐ 225 · C++</sub>
+- [bmartacho/UniPose](https://github.com/bmartacho/UniPose) - 「ウォーターフォール」の空間プールアーキテクチャに基づいて、人間のポーズ推定のための統一されたフレームワークであるUniPoseを提案し、いくつかのポーズ推定メトリックで最新式の結果を達成します。... <sub>⭐ 223 · Python</sub>
+- [michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation) - MobilenetV3に基づく小型で高速なモデルを備えたTensorflow 2.0用のマルチパーソンポーズ推定プロジェクト <sub>⭐ 220 · Jupyter Notebook</sub>
+- [last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation) - リアルタイムマルチパーソンポーズ推定プロジェクトのPytorchバージョン <sub>⭐ 218 · Jupyter Notebook</sub>
+- [1adrianb/binary-human-pose-estimation](https://github.com/1adrianb/binary-human-pose-estimation) - このコードは、エイドリアン・ビュレートとジオルジョスTzimiropoulosによって限定リソース紙で人間のポーズの見積もりと顔のアライメントのためのバイナル化されたコンボレーションランドマークローカリゼーションのデモを実装しています。 <sub>⭐ 214 · Lua</sub>
+- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - 航空のすべての既知の法律によると、蜂が飛ぶことができる方法はありません。その羽は地面から脂肪を少し体外に得るためにあまりにも小さいです。ミツバチ、もちろん、とにかく飛びます。だから... <sub>⭐ 213 · Python</sub>
+- [creativeIKEP/BlazePoseBarracuda](https://github.com/creativeIKEP/BlazePoseBarracuda) - BlazePoseBarracudaはGPUとUnity Barracuda上のMediapipe Pose(BlazePose)パイプラインを実行する人間の2D / 3Dポーズ推定ニューラルネットワークです。 <sub>⭐ 212 · C#</sub>
+- [TheTempAccount/Co-Speech-Motion-Generation](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) - スピーチから身体運動をフリーフォーム <sub>⭐ 210 · Python</sub>
+- [ziniuwan/maed](https://github.com/ziniuwan/maed) - (ICCV 2021) 3D人間の形およびポーズの推定のための複数のレベルの注意を用いるエンコーダーデコーダー <sub>⭐ 209 · Python</sub>
+- [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - (ICRA'23) 「Contour Context: 3D LiDAR Loop Detection and Metric Pose Estimation」の公式コードリポジトリ <sub>⭐ 207 · C++</sub>
+- [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - (NeurIPS 2025、Spotlight) 整形ポイントフロー:ジェネリックポイントクラウドポーズ推定 <sub>⭐ 205 · Python</sub>
+- [sanweiliti/LEMO](https://github.com/sanweiliti/LEMO) - 2021 ICCV紙「3Dシーンで4D人体キャプチャの学習前」と訓練されたモデル/データのための公式Pytorch実装 <sub>⭐ 205 · Python</sub>
+- [akashsengupta1997/HierarchicalProbabilistic3DHuman](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman) - 紙のコードリポジトリ:ワイルド(ICCV 2021)で画像から人間の形とポーズ推定のための階層的なKinematic確率分布 <sub>⭐ 204 · Python</sub>
+- [LinghaoChan/UniMoCap](https://github.com/LinghaoChan/UniMoCap) - (オープンソースプロジェクト)UniMoCap: テキストモーションデータセット(HumanML3D、KIT-ML、BABEL)と全身のモーションデータセット(Motion-X)を統一するためのコミュニティ実装。 <sub>⭐ 203 · Python</sub>
+- [MouseLand/facemap](https://github.com/MouseLand/facemap) - Facemap:マウスの異端運動から神経活動を予測するためのフレームワークは、ポーズ推定モデルを使用して追跡しました。パッケージには、行動ビデオの単数値分解(SVD)も含まれています。 <sub>⭐ 203 · Python</sub>
+- [cvlab-epfl/segmentation-driven-pose](https://github.com/cvlab-epfl/segmentation-driven-pose) - セグメント駆動6Dオブジェクトポーズ推定。CVPR 2019. <sub>⭐ 200 · Python</sub>
+- [HyeonHo99/Video-Motion-Customization](https://github.com/HyeonHo99/Video-Motion-Customization) - VMC: テキストツービデオ拡散モデル(CVPR 2024)のテンポラルアテンション適応を用いた動画モーションカスタマイズ <sub>⭐ 200 · Python</sub>
+- [NVIDIA-ISAAC-ROS/isaac_ros_apriltag](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_apriltag) - NVIDIA認定の4月タグ検出とポーズ推定。 <sub>⭐ 200 · C++</sub>
+- [paTRICK-swk/D3DP](https://github.com/paTRICK-swk/D3DP) - (ICCV2023) 「Diffusion-Based 3D Human Pose Estimation with MultiHypothesis Aggregation」のPyTorch実装 <sub>⭐ 200 · Python</sub>
+- [xiayu1987/noobot](https://github.com/xiayu1987/noobot) - ツールコール、MCP、マルチモデルルーティング、サンドボックス実行、マルチエージェントワークフロー、およびLLM認証3Dキャラクターアニメーションを備えた最も安いマネーセービングのセルフホスト型AIエージェントワークスペースは... <sub>⭐ 197 · JavaScript</sub>
+- [GONGJIA0208/Diffpose](https://github.com/GONGJIA0208/Diffpose) - (CVPR 2023) DiffPose: より信頼できる3Dポーズの推定への <sub>⭐ 195 · Python</sub>
+- [cure-lab/DeciWatch](https://github.com/cure-lab/DeciWatch) - (ECCV 2022) 紙「DeciWatch:10x効率的な2Dと3Dポーズ推定のためのシンプルなベースライン」の公式実装 <sub>⭐ 192 · Python</sub>
+- [IDEA-Research/ED-Pose](https://github.com/IDEA-Research/ED-Pose) - (ICLR 2023) 紙「Explicit Box Detection」の公式実装がエンドツーエンドマルチパーソンポーズ推定を統一 <sub>⭐ 191 · Python</sub>
+- [thohemp/6DRepNet360](https://github.com/thohemp/6DRepNet360) - 「回転ヘッドポーズ推定のフルレンジを強要し、未完了」の公式Pytorch実装 IEEE TIP 24 <sub>⭐ 191 · Python</sub>
 
 ## 🎞️ モーショングラフィックスと動画生成
 
 > アニメーション、動画生成、After Effectsの自動化。
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. <sub>⭐ 83.9k · TypeScript</sub>
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud… <sub>⭐ 70.8k · Python</sub>
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video… <sub>⭐ 62.4k · Python</sub>
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. <sub>⭐ 34.6k · Python</sub>
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT… <sub>⭐ 29.5k · JavaScript</sub>
-- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. <sub>⭐ 15.6k · C</sub>
-- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023) <sub>⭐ 13.1k · Python</sub>
-- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model <sub>⭐ 12.6k · Python</sub>
-- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" <sub>⭐ 12.5k · Python</sub>
-- [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed… <sub>⭐ 8.5k · Python</sub>
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project <sub>⭐ 8.4k · TypeScript</sub>
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos <sub>⭐ 8.2k · Python</sub>
-- [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation <sub>⭐ 8.0k · Python</sub>
-- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic : Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image… <sub>⭐ 7.5k · Jupyter Notebook</sub>
-- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet. <sub>⭐ 7.3k · HTML</sub>
-- [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) - An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export. <sub>⭐ 6.6k · Python</sub>
-- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI. <sub>⭐ 6.4k · Python</sub>
-- [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, and various other applications. <sub>⭐ 5.8k</sub>
-- [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI… <sub>⭐ 5.2k · Swift</sub>
-- [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2) - OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark <sub>⭐ 5.2k · Python</sub>
-- [Netflix/ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support. <sub>⭐ 4.6k · Java</sub>
-- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: A leading lightweight video generation model <sub>⭐ 4.6k · Python</sub>
-- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation. <sub>⭐ 4.5k · Python</sub>
-- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - (ICCV 2023) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation <sub>⭐ 4.4k · Python</sub>
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca は、並列エージェントのフリートと連携するためのADEです。独自のサブスクリプションで任意のコーディングエージェントを実行します。デスクトップ、モバイル、リモートランタイムで利用できます。 <sub>⭐ 83.9k · TypeScript</sub>
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible は、アプリケーションとシステムを簡単にデプロイし維持できるようにする非常にシンプルな IT 自動化プラットフォームです。コードの展開からネットワーク構成まですべてを自動化します。 <sub>⭐ 70.8k · Python</sub>
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - 世界初のオープンソース、有能なビデオ制作システム。 12つの生産パイプライン、100 +ツール、700 +エージェントのスキルと製造知識ファイル。 AIコーディングアシスタントをフルビデオに変える... <sub>⭐ 62.4k · Python</sub>
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - ディフューザー:PyTorchの画像、ビデオおよびオーディオ生成用の最先端の拡散モデル。 <sub>⭐ 34.6k · Python</sub>
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - AIビデオプラットフォームに制限されていないオープンソースの代替 — 600以上のモデル(Flux、Midjourney、Kling、Sora、Veo)を備えた無料のAI画像とビデオ生成スタジオ。 コンテンツフィルタはありません。 セルフホスト、MIT ... <sub>⭐ 29.5k · JavaScript</sub>
+- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - オフラインビデオ生成とデジタルヒューマンクローニングのためのAIアバター(デジタル人間)ツールキットを真にオープンソース化。 <sub>⭐ 15.6k · C</sub>
+- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - テキストと画像から映像生成まで:CogVideoX(2024)、CogVideo(ICLR 2023) <sub>⭐ 13.1k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: 大規模なビデオ生成モデルのための系統的なフレームワーク <sub>⭐ 12.6k · Python</sub>
+- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - 「ViMax: 有能な映像生成(脚本家、プロデューサー、ビデオジェネレーターオールインワン)」 <sub>⭐ 12.5k · Python</sub>
+- [firerpa/lamda](https://github.com/firerpa/lamda) - アンドロイドフルスタックデバイスコントロールプラットフォーム:WebRTC / H.264リモートデスクトップ、UI / OCR /画像マッチング自動化、1クリックMITM、内蔵フリダ、プロキシ/ VPN / frp / P2Pネットワーク、MCP /エージェント、160 + API、設計... <sub>⭐ 8.5k · Python</sub>
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - コードの幻覚に終える!GitMCP は、GitHub プロジェクト用の無料のオープンソース・リモート MCP サーバーです。 <sub>⭐ 8.4k · TypeScript</sub>
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - 映像と動画のPythonAI生成 <sub>⭐ 8.2k · Python</sub>
+- [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - 映像とビデオから映像まで、映像を制作する無限大の動画生成 <sub>⭐ 8.0k · Python</sub>
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLabマルチモーダルアドバンスト、ジェネレーション、インテリジェントなクリエーションツールボックス。 魔法のロックを解除:Generative-AI(AIGC)、使いやすいAPI、恐ろしいモデル動物園、拡散モデル、テキストツーイメージのための... <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - 完全なWebベースのリモート監視と管理のWebサイト。セットアップすると、エージェントをインストールし、ローカルネットワークまたはインターネット上のデバイスにリモートデスクトップセッションを実行できます。 <sub>⭐ 7.3k · HTML</sub>
+- [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) - AI 生成された短ドラマのためのエンドツーエンドの生産ワークスペース。スクリプト入力から構造化されたストーリーボーディング、一貫性管理、ショットの準備、ビデオ生成およびエクスポートまで。 <sub>⭐ 6.6k · Python</sub>
+- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR 搭載のビデオトランスクリプション、字幕生成、LML アシストクリップツールをローカル Gradio UI で使用。 <sub>⭐ 6.4k · Python</sub>
+- [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - ビデオ生成、編集などのさまざまなアプリケーション用の最近の拡散モデルのキュレーションリスト。 <sub>⭐ 5.8k</sub>
+- [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekabooは、AIエージェントがアプリケーションのスクリーンショットをキャプチャしたり、システム全体にスキャンできるmacOS CLI&オプションのMCPサーバーです。ローカルまたはリモートAIを介して応答するオプションのビジュアル質問があります... <sub>⭐ 5.2k · Swift</sub>
+- [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2) - OpenMMLabの次世代ビデオ理解ツールボックスとベンチマーク <sub>⭐ 5.2k · Python</sub>
+- [Netflix/ribbon](https://github.com/Netflix/ribbon) - リボンは、ソフトウェアロードバランサに組み込まれたInter Process Communication(リモート・プロシージャ・コール)ライブラリです。 主な用途モデルは、REST呼び出しを様々なシリアライズスキームのサポートと組み合わせています。 <sub>⭐ 4.6k · Java</sub>
+- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: 主要な軽量ビデオ生成モデル <sub>⭐ 4.6k · Python</sub>
+- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - 加速されたビデオ生成のための統一された推論とポストトレインティングフレームワーク。 <sub>⭐ 4.5k · Python</sub>
+- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - (ICCV 2023) Tune-A-Video: テキストツービデオ生成のための画像拡散モデルのワンショットチューニング <sub>⭐ 4.4k · Python</sub>
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - DaVinci Resolve、Premiere、After Effectsに直接接続するオンデバイスサブタイトル生成。 <sub>⭐ 4.3k · TypeScript</sub>
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab… <sub>⭐ 4.1k · Go</sub>
-- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation. <sub>⭐ 4.1k · Jupyter Notebook</sub>
-- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL… <sub>⭐ 4.0k · Dart</sub>
-- [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. <sub>⭐ 4.0k · TypeScript</sub>
-- [SandAI-org/MAGI-1](https://github.com/SandAI-org/MAGI-1) - MAGI-1: Autoregressive Video Generation at Scale <sub>⭐ 3.8k · Python</sub>
-- [genmoai/mochi](https://github.com/genmoai/mochi) - The best OSS video generation models, created by Genmo <sub>⭐ 3.7k · Python</sub>
-- [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote <sub>⭐ 3.6k · C++</sub>
-- [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library. <sub>⭐ 3.5k · Python</sub>
-- [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff) - AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI <sub>⭐ 3.4k · Python</sub>
-- [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) - Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + GA4 + Search Console in one hosted remote MCP for Claude, ChatGPT, Cursor & n8n: 250+ tools, OAuth login, no API keys, approval-gated writes… <sub>⭐ 3.4k</sub>
-- [AprilNEA/AChat](https://github.com/AprilNEA/AChat) - AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization. <sub>⭐ 3.3k · TypeScript</sub>
-- [ali-vilab/VGen](https://github.com/ali-vilab/VGen) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models <sub>⭐ 3.2k · Python</sub>
-- [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - (NeurIPS 2025) Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation <sub>⭐ 3.0k · Python</sub>
-- [Saiyan-World/goku](https://github.com/Saiyan-World/goku) - (CVPR2025 Highlight) Video Generation Foundation Models: https://saiyan-world.github.io/goku <sub>⭐ 2.9k · Python</sub>
-- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) - Lightweight Image Video Action Generation Inference Framework <sub>⭐ 2.9k · Python</sub>
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. <sub>⭐ 2.9k · TypeScript</sub>
-- [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising <sub>⭐ 2.8k · Python</sub>
-- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool <sub>⭐ 2.8k · Python</sub>
-- [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. <sub>⭐ 2.8k · Python</sub>
-- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes… <sub>⭐ 2.6k · Shell</sub>
-- [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - (ICLR 26 Oral) Stable Video Infinity: Infinite-Length Video Generation with Error Recycling <sub>⭐ 2.6k · Python</sub>
-- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines. <sub>⭐ 2.4k · C++</sub>
-- [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers <sub>⭐ 2.4k · Python</sub>
-- [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection. <sub>⭐ 2.3k</sub>
-- [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion <sub>⭐ 2.3k · Python</sub>
-- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing <sub>⭐ 2.2k · TypeScript</sub>
-- [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server Suitable for automating the process on remote servers. <sub>⭐ 2.2k · Shell</sub>
-- [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios) - Helios: Real Real-Time Long Video Generation Model <sub>⭐ 2.2k · Python</sub>
-- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code <sub>⭐ 2.2k · Python</sub>
-- [showlab/Code2Video](https://github.com/showlab/Code2Video) - (ICML 2026) Video generation via code <sub>⭐ 2.1k · Python</sub>
-- [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) - Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering. <sub>⭐ 2.1k · TypeScript</sub>
-- [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) - 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows. <sub>⭐ 2.1k · TypeScript</sub>
-- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related… <sub>⭐ 2.0k · Python</sub>
-- [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation <sub>⭐ 2.0k · Python</sub>
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech… <sub>⭐ 2.0k · Python</sub>
-- [Vchitect/Latte](https://github.com/Vchitect/Latte) - (TMLR 2025) Latte: Latent Diffusion Transformer for Video Generation. <sub>⭐ 1.9k · Python</sub>
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. <sub>⭐ 1.9k · TypeScript</sub>
-- [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes) - programmatic video rendering framework that is actually fast <sub>⭐ 1.9k · Rust</sub>
-- [Vchitect/VBench](https://github.com/Vchitect/VBench) - (CVPR2024 Highlight) VBench - We Evaluate Video Generation <sub>⭐ 1.8k · Python</sub>
-- [hyperfield/ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes. <sub>⭐ 1.8k · C++</sub>
-- [feigeCode/navop](https://github.com/feigeCode/navop) - A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI. <sub>⭐ 1.7k · Rust</sub>
-- [voghDev/PdfViewPager](https://github.com/voghDev/PdfViewPager) - Android widget that can render PDF documents stored on SD card, linked as assets, or downloaded from a remote URL. <sub>⭐ 1.7k · Java</sub>
-- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. <sub>⭐ 1.7k · Zig</sub>
-- [openkursar/hello-halo](https://github.com/openkursar/hello-halo) - 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser. <sub>⭐ 1.7k · TypeScript</sub>
-- [Nexting-ai/nexting](https://github.com/Nexting-ai/nexting) - Remote control for Claude Code, Codex, Grok, and Cursor on Mac or PC. View sessions, send tasks, and drive them remotely from your phone, PIN, or Ring. OpenClaw supported. <sub>⭐ 1.7k · C</sub>
-- [JIA-Lab-research/ControlNeXt](https://github.com/JIA-Lab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA <sub>⭐ 1.6k · Python</sub>
-- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image… <sub>⭐ 1.6k · Go</sub>
-- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation… <sub>⭐ 1.6k · Python</sub>
-- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - (CVPR 2025) StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text <sub>⭐ 1.6k · Python</sub>
-- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription. <sub>⭐ 1.6k · Rust</sub>
-- [punkpeye/mcp-remote](https://github.com/punkpeye/mcp-remote) - Connect an MCP Client that only supports local (stdio) servers to a Remote MCP Server. <sub>⭐ 1.6k · TypeScript</sub>
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It… <sub>⭐ 1.6k · Rust</sub>
-- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs. <sub>⭐ 1.6k · Python</sub>
-- [Phantom-video/Phantom](https://github.com/Phantom-video/Phantom) - Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment <sub>⭐ 1.5k · Python</sub>
-- [TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) - Official Repo for "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding" (ACL 2025 oral) <sub>⭐ 1.5k · Python</sub>
-- [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - Next Remote Protocol Framework. <sub>⭐ 1.4k · TypeScript</sub>
-- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch <sub>⭐ 1.4k · Python</sub>
-- [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries. <sub>⭐ 1.4k · Zig</sub>
-- [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API. <sub>⭐ 1.4k · TypeScript</sub>
-- [mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose) - (AAAI 2024) Follow-Your-Pose: This repo is the official implementation of "Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos" <sub>⭐ 1.4k · Python</sub>
-- [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing. <sub>⭐ 1.3k · Python</sub>
-- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - (TPAMI 2025 ) MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators <sub>⭐ 1.3k · Python</sub>
-- [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks. <sub>⭐ 1.3k · Perl</sub>
-- [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) - Meta Ads (Facebook/Instagram) MCP server for Claude, ChatGPT, Perplexity & Cursor — the Meta node of Pipeboard’s 5-platform family (+ Google, TikTok, Snap, Reddit). Hosted remote MCP, badged Meta… <sub>⭐ 1.3k · Python</sub>
-- [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7… <sub>⭐ 1.3k · Rust</sub>
-- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and video, up to 5x faster than OpenAI CLIP and LLaVA & <sub>⭐ 1.3k · Python</sub>
-- [alibaba/Tora](https://github.com/alibaba/Tora) - (CVPR'25)Tora: Trajectory-oriented Diffusion Transformer for Video Generation <sub>⭐ 1.2k · Python</sub>
-- [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation <sub>⭐ 1.2k · Python</sub>
-- [ubicomplab/rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) - rPPG-Toolbox: Deep Remote PPG Toolbox (NeurIPS 2023) <sub>⭐ 1.2k · Python</sub>
-- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - The terminal that outlives its window. Shells survive quitting the app, agents can drive other agents, and remote machines work the same way. Pure Rust, GPU-rendered. <sub>⭐ 1.2k · Rust</sub>
-- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify… <sub>⭐ 1.2k · TypeScript</sub>
-- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free. <sub>⭐ 1.2k · C++</sub>
-- [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs). <sub>⭐ 1.2k · Go</sub>
-- [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer) - DLSS 5 Neural Rendering for Images & Video with Frame Generation, RTX Video Super Resolution, HDR, and Live Playback <sub>⭐ 1.2k · Python</sub>
-- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for 30+ generative ai <sub>⭐ 1.2k · Python</sub>
-- [showlab/Show-1](https://github.com/showlab/Show-1) - (IJCV) Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation <sub>⭐ 1.1k · Python</sub>
-- [ChrisTheCoolHut/Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems <sub>⭐ 1.1k · Python</sub>
-- [fsbolero/Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities… <sub>⭐ 1.1k · F#</sub>
-- [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) - Agent skills for Manim to create 3Blue1Brown style animations. <sub>⭐ 1.1k · Python</sub>
-- [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers <sub>⭐ 1.1k</sub>
-- [WangLibo1995/GeoSeg](https://github.com/WangLibo1995/GeoSeg) - UNetFormer: A UNet-like transformer for efficient semantic segmentation of remote sensing urban scene imagery, ISPRS. Also, including other vision transformers and CNNs for satellite, aerial image… <sub>⭐ 1.1k · Python</sub>
-- [ShareGPT4Omni/ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video) - (NeurIPS 2024) An official implementation of "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions" <sub>⭐ 1.1k · Python</sub>
-- [yashab-cyber/opendroid](https://github.com/yashab-cyber/opendroid) - Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. <sub>⭐ 1.1k · Kotlin</sub>
-- [Candy-CY/Hyperspectral-Image-Classification-Models](https://github.com/Candy-CY/Hyperspectral-Image-Classification-Models) - A hyperspectral remote sensing image classification model for inclusion and reproduction. <sub>⭐ 1.1k · Python</sub>
-- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or… <sub>⭐ 1.1k · JavaScript</sub>
-- [memoavatar/memo](https://github.com/memoavatar/memo) - (TMLR) Memory-Guided Diffusion for Expressive Talking Video Generation <sub>⭐ 1.1k · Python</sub>
-- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant <sub>⭐ 1.1k</sub>
-- [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH <sub>⭐ 1.1k · PowerShell</sub>
-- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation. <sub>⭐ 1.1k · Python</sub>
-- [harlanhong/CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) - Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation <sub>⭐ 997 · Python</sub>
-- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video.… <sub>⭐ 986 · JavaScript</sub>
-- [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing) - (ICML 2026) Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation" & Causal Forcing++ <sub>⭐ 985 · Python</sub>
-- [ufrisk/LeechCore](https://github.com/ufrisk/LeechCore) - LeechCore - Physical Memory Acquisition Library & The LeechAgent Remote Memory Acquisition Agent <sub>⭐ 959 · C</sub>
-- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities . <sub>⭐ 958 · Python</sub>
-- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) - Industry-level video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation. <sub>⭐ 954</sub>
-- [Vchitect/LaVie](https://github.com/Vchitect/LaVie) - (IJCV 2024) LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models <sub>⭐ 953 · Python</sub>
-- [grft-dev/graftcode](https://github.com/grft-dev/graftcode) - Connect any code. Call as dependency. The official repository for Graftcode: the integration-free development layer that lets you call methods across languages and runtimes on remote services as if… <sub>⭐ 929 · PowerShell</sub>
-- [milisp/codexia](https://github.com/milisp/codexia) - Lightweight Agent Workstation for Codex + Claude code — with dots, task scheduler, git worktree & remote control <sub>⭐ 927 · TypeScript</sub>
-- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - GPT for video generation <sub>⭐ 924 · Python</sub>
-- [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) - A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank. <sub>⭐ 920 · TypeScript</sub>
-- [360CVGroup/FancyVideo](https://github.com/360CVGroup/FancyVideo) - Video generation from text&image, 1st-gen <sub>⭐ 919 · Python</sub>
-- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery. <sub>⭐ 910 · JavaScript</sub>
-- [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) - ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL, Qwen3-VL, Qwen3.5-VL, Qwen3.6-VL (MoE), and Qwen3.8-VL, with GGUF support for advanced multimodal AI in text… <sub>⭐ 900 · Python</sub>
-- [awizemann/scarf](https://github.com/awizemann/scarf) - Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more. <sub>⭐ 879 · Swift</sub>
-- [jina-ai/MCP](https://github.com/jina-ai/MCP) - Official Jina AI Remote MCP Server <sub>⭐ 868 · TypeScript</sub>
-- [PKU-YuanGroup/ConsisID](https://github.com/PKU-YuanGroup/ConsisID) - (CVPR 2025 Highlight ) Identity-Preserving Text-to-Video Generation by Frequency Decomposition <sub>⭐ 862 · Python</sub>
-- [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) - (ICLR 2024) Official pytorch implementation of "ControlVideo: Training-free Controllable Text-to-Video Generation" <sub>⭐ 862 · Python</sub>
-- [lidge-ai/ima2-gen](https://github.com/lidge-ai/ima2-gen) - Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers. <sub>⭐ 853 · TypeScript</sub>
-- [cporter202/automate-for-growth](https://github.com/cporter202/automate-for-growth) - Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration. <sub>⭐ 829</sub>
-- [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5) - Kandinsky 5.0: A family of diffusion models for Video & Image generation <sub>⭐ 829 · Python</sub>
-- [featurevisor/featurevisor](https://github.com/featurevisor/featurevisor) - Feature flags, experiments, and remote config management with version control <sub>⭐ 812 · TypeScript</sub>
-- [sstary/SSRS](https://github.com/sstary/SSRS) - Semantic Segmentation for Remote Sensing <sub>⭐ 810 · Python</sub>
-- [krishnakanthb13/antigravity_phone_chat](https://github.com/krishnakanthb13/antigravity_phone_chat) - Real-time mobile monitor & remote control for Antigravity AI sessions. Mirrors your desktop chat to your phone via Chrome DevTools Protocol (CDP) with sub-100ms snapshots, secure global tunnel access… <sub>⭐ 808 · JavaScript</sub>
-- [AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) - A collection of awesome video generation studies. <sub>⭐ 786 · TeX</sub>
-- [aas-n/spraykatz](https://github.com/aas-n/spraykatz) - Credentials gathering tool automating remote procdump and parse of lsass process. <sub>⭐ 783 · Python</sub>
-- [s1dashu/director](https://github.com/s1dashu/director) - Direct complete videos with multi-mode workflows for research, scripts, visual development, shot design, media generation, and delivery. <sub>⭐ 782</sub>
-- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose" (Arxiv 2020) and "Predicting Personalized Head Movement From Short Video and Speech Signal" (TMM 2022) <sub>⭐ 770 · Python</sub>
-- [ningbainb/deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop) - Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins. <sub>⭐ 764 · JavaScript</sub>
-- [mbzuai-oryx/GeoChat](https://github.com/mbzuai-oryx/GeoChat) - (CVPR 2024 ) GeoChat, the first grounded Large Vision Language Model for Remote Sensing <sub>⭐ 759 · Python</sub>
-- [dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation) - A TensorFlow Implementation of "Deep Multi-Scale Video Prediction Beyond Mean Square Error" by Mathieu, Couprie & LeCun. <sub>⭐ 749 · Python</sub>
-- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis. <sub>⭐ 746 · Python</sub>
-- [flymin/MagicDrive-V2](https://github.com/flymin/MagicDrive-V2) - (ICCV 2025) Official implementation of the paper “MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control” <sub>⭐ 727 · Python</sub>
-- [w3c/webdriver](https://github.com/w3c/webdriver) - Remote control interface that enables introspection and control of user agents. <sub>⭐ 719 · HTML</sub>
-- [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) - OpenCodex is a middleware layer for Codex/ChatGPT Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable… <sub>⭐ 715 · JavaScript</sub>
-- [instavm/clickclickclick](https://github.com/instavm/clickclickclick) - Autonomous Android and computer use using any LLM (local or remote) <sub>⭐ 714 · Python</sub>
-- [Dakkshin/after-effects-mcp](https://github.com/Dakkshin/after-effects-mcp) - MCP Server for Adobe After Effects. Enables remote control (compositions, text, shapes, solids, properties) via the Model Context Protocol using ExtendScript. <sub>⭐ 689 · JavaScript</sub>
-- [baaivision/NOVA](https://github.com/baaivision/NOVA) - (ICLR 2025) Autoregressive Video Generation without Vector Quantization <sub>⭐ 661 · Python</sub>
-- [tetherto/qvac](https://github.com/tetherto/qvac) - Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS… <sub>⭐ 661 · TypeScript</sub>
-- [G-U-N/AnimateLCM](https://github.com/G-U-N/AnimateLCM) - (SIGGRAPH ASIA 2024 TCS) AnimateLCM: Computation-Efficient Personalized Style Video Generation without Personalized Video Data <sub>⭐ 657 · Python</sub>
-- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By… <sub>⭐ 657 · HTML</sub>
-- [primepake/wav2lip_288x288](https://github.com/primepake/wav2lip_288x288) - Wav2Lip version 288 and pipeline to train <sub>⭐ 651 · Python</sub>
-- [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) - MAGI-2-preview: Scaling Video Generation Models Efficiently <sub>⭐ 634 · Python</sub>
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time. <sub>⭐ 617 · Python</sub>
-- [mit-han-lab/radial-attention](https://github.com/mit-han-lab/radial-attention) - (NeurIPS 2025) Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation <sub>⭐ 607 · Python</sub>
-- [wendell0218/Awesome-RL-for-Video-Generation](https://github.com/wendell0218/Awesome-RL-for-Video-Generation) - A curated list of papers on reinforcement learning for video generation <sub>⭐ 590</sub>
-- [Vchitect/VEnhancer](https://github.com/Vchitect/VEnhancer) - Official codes of VEnhancer: Generative Space-Time Enhancement for Video Generation <sub>⭐ 579 · Python</sub>
-- [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) - SkyReels V3: Multimodal Video Generation Model <sub>⭐ 575 · Python</sub>
-- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - (ECCV 2024) Officially implement of the paper "DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model". <sub>⭐ 565 · Python</sub>
-- [VideoVerses/VideoTuna](https://github.com/VideoVerses/VideoTuna) - Let's finetune video generation models! <sub>⭐ 555 · Python</sub>
-- [letorig/video-generator-client](https://github.com/letorig/video-generator-client) - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI <sub>⭐ 551 · Python</sub>
-- [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real… <sub>⭐ 542 · TypeScript</sub>
-- [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - Turn layered PSDs into editable Live2D models — automatic rigging, mesh/deformer generation, physics, animation, and .cmo3/ .moc3 export. <sub>⭐ 535 · Kotlin</sub>
-- [Leron-X/leronx](https://github.com/Leron-X/leronx) - LeronX — AI Image & Video Generation Platform <sub>⭐ 525 · Python</sub>
-- [ziqihuangg/Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) - A list of works on video generation towards world model <sub>⭐ 520</sub>
-- [YingqingHe/LVDM](https://github.com/YingqingHe/LVDM) - LVDM: Latent Video Diffusion Models for High-Fidelity Long Video Generation <sub>⭐ 506 · Python</sub>
-- [shengshu-ai/Vidu-S](https://github.com/shengshu-ai/Vidu-S) - Vidu S: Real-Time Interactive, Editable, and Spatial Video Generation <sub>⭐ 497</sub>
-- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - a real-time digital-human model for long-form audio-video generation <sub>⭐ 496 · Python</sub>
-- [SamurAIGPT/Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) - Python wrapper for ByteDance's Seedance 2.5 API — Text-to-Video, Image-to-Video, realistic human faces, native 4K, consistent character generation. <sub>⭐ 487 · Python</sub>
-- [FoundationVision/FlashVideo](https://github.com/FoundationVision/FlashVideo) - (AAAI-2026)FlashVideo: Flowing Fidelity to Detail for Efficient High-Resolution Video Generation <sub>⭐ 483 · Python</sub>
-- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible API, self-hosted, no API key. Reverse-proxies gemini.google.com into /v1/chat/completions: single Go binary, Chrome TLS fingerprint, cookie pool with auto-renewal… <sub>⭐ 476 · Go</sub>
-- [Correr-Zhou/OmniShow](https://github.com/Correr-Zhou/OmniShow) - (ICML 2026) ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation <sub>⭐ 475 · Python</sub>
-- [gudaochangsheng/RefAlign](https://github.com/gudaochangsheng/RefAlign) - (ECCV 2026) Official PyTorch implementation of RefAlign: Representation Alignment for Reference-to-Video Generation <sub>⭐ 471 · Python</sub>
-- [NJU-PCALab/OpenVid-1M](https://github.com/NJU-PCALab/OpenVid-1M) - (ICLR 2025) OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation <sub>⭐ 471 · Python</sub>
-- [nihaomiao/CVPR23_LFDM](https://github.com/nihaomiao/CVPR23_LFDM) - The pytorch implementation of our CVPR 2023 paper "Conditional Image-to-Video Generation with Latent Flow Diffusion Models" <sub>⭐ 470 · Python</sub>
-- [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) - This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic… <sub>⭐ 461 · Python</sub>
-- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuze is a state-of-the-art deep learning tool that seamlessly integrates with ComfyUI to revolutionize facial transformations, lipsyncing, Face Swapping, Lipsync Translation, video generation… <sub>⭐ 461 · Python</sub>
-- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - (Tech Report) Alive: A Unified Audio-Video Generation Model <sub>⭐ 457</sub>
-- [bytedance/Video-As-Prompt](https://github.com/bytedance/Video-As-Prompt) - (ICLR 2026) Official repo for paper "Video-As-Prompt: Unified Semantic Control for Video Generation" <sub>⭐ 454 · Python</sub>
-- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - (CVPR'23) MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation <sub>⭐ 453 · Python</sub>
-- [runjiali-rl/vmem](https://github.com/runjiali-rl/vmem) - (ICCV 2025 highlight ) Implementation of VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory <sub>⭐ 449 · Python</sub>
-- [zai-org/VisionReward](https://github.com/zai-org/VisionReward) - (AAAI 2026) VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation <sub>⭐ 427 · Python</sub>
-- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - Official Implementation of 'OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model' <sub>⭐ 425 · Python</sub>
-- [WeChatCV/Wan-Alpha](https://github.com/WeChatCV/Wan-Alpha) - (CVPR 2026 Highlight) High-Quality Text-to-Video Generation with Alpha Channel <sub>⭐ 420 · Python</sub>
-- [Yacey/agnes-ai-generation-skill](https://github.com/Yacey/agnes-ai-generation-skill) - Agent Skill for Agnes AI text, image, and video generation APIs. <sub>⭐ 419 · Python</sub>
-- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super… <sub>⭐ 412 · C++</sub>
-- [Weifeng-Chen/control-a-video](https://github.com/Weifeng-Chen/control-a-video) - Official Implementation of "Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models" <sub>⭐ 405 · Python</sub>
-- [AceDataCloud/Nexior](https://github.com/AceDataCloud/Nexior) - Consumer AI app for chat, image generation, video generation, and music creation powered by Ace Data Cloud APIs. <sub>⭐ 398 · Vue</sub>
-- [haochenheheda/segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator) - We developed a python UI based on labelme and segment-anything for pixel-level annotation. It support multiple masks generation by SAM(box/point prompt), efficient polygon modification and category… <sub>⭐ 387 · Python</sub>
-- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation <sub>⭐ 384</sub>
-- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - Official implementation of MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation (https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
-- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021) <sub>⭐ 369 · Jupyter Notebook</sub>
-- [fudan-generative-vision/OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - (CVPR 2025) A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation <sub>⭐ 364</sub>
-- [fudan-generative-vision/Hallo-Live](https://github.com/fudan-generative-vision/Hallo-Live) - (ACM MM 2026) Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation <sub>⭐ 357 · Python</sub>
-- [stevenlsw/physgen](https://github.com/stevenlsw/physgen) - PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation (ECCV 2024) <sub>⭐ 353 · Python</sub>
-- [Anil-matcha/Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) - Python wrapper for ByteDance's Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini API — Text-to-Video, Image-to-Video, realistic human faces, 1080p, consistent character generation. <sub>⭐ 352 · Python</sub>
-- [alexchan197611/ai_media_assistant](https://github.com/alexchan197611/ai_media_assistant) - AI-Powered Automate Self-Media Video Generation Tools‌ <sub>⭐ 348 · Python</sub>
-- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatGPT, compare the match, and export an MP4. Local Windows app and online studio. <sub>⭐ 347 · Python</sub>
-- [VITA-Group/Diffusion4D](https://github.com/VITA-Group/Diffusion4D) - (NeurIPS 2024) Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models <sub>⭐ 347 · Python</sub>
-- [vargHQ/sdk](https://github.com/vargHQ/sdk) - AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK. <sub>⭐ 340 · TypeScript</sub>
-- [notepower2k1/CapCap](https://github.com/notepower2k1/CapCap) - CapCap is a Windows desktop app for short-form video localization and dubbing. It brings transcription, translation, subtitle styling, voice generation, timeline editing, preview, and export into a… <sub>⭐ 335 · Python</sub>
-- [NickPittas/DirectorsConsole](https://github.com/NickPittas/DirectorsConsole) - A web application for prompt generation and multiple ComfyUI remote and local connections for image and video generation in parallel in an infinite canvas <sub>⭐ 332 · Python</sub>
-- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - Free, open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI, Standalone and After Effects. <sub>⭐ 330 · Python</sub>
-- [wzk1015/video-bgm-generation](https://github.com/wzk1015/video-bgm-generation) - (ACM MM 2021 Best Paper Award) Video Background Music Generation with Controllable Music Transformer <sub>⭐ 327 · Python</sub>
-- [TencentARC/DiTCtrl](https://github.com/TencentARC/DiTCtrl) - (CVPR 2025) Official code of "DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation" <sub>⭐ 326 · Python</sub>
-- [Anil-matcha/awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) - Seedance 2.5 API guide, prompts, parameters, and examples for video generation <sub>⭐ 320</sub>
-- [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video) - We introduce 'Thinking with Video', a new paradigm leveraging video generation for multimodal reasoning. Our VideoThinkBench shows that Sora-2 surpasses GPT5 by 10% on eyeballing puzzles and reaches… <sub>⭐ 319 · Python</sub>
-- [ManimCommunity/manim-voiceover](https://github.com/ManimCommunity/manim-voiceover) - Manim plugin for all things voiceover <sub>⭐ 316 · Python</sub>
-- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) - Democratizing Native Audio-Video Generation at 2K Resolution <sub>⭐ 311 · Python</sub>
-- [Vchitect/VideoBooth](https://github.com/Vchitect/VideoBooth) - (CVPR2024) VideoBooth: Diffusion-based Video Generation with Image Prompts <sub>⭐ 310 · Python</sub>
-- [G-U-N/Gen-L-Video](https://github.com/G-U-N/Gen-L-Video) - The official implementation for "Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising". <sub>⭐ 307 · Jupyter Notebook</sub>
-- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX. <sub>⭐ 306 · Python</sub>
-- [rohitg00/manim-video-generator](https://github.com/rohitg00/manim-video-generator) - This application allows you to generate mathematical animations using natural language descriptions. It uses OpenAI's GPT model to convert your descriptions into Manim code, which is then used to… <sub>⭐ 305 · TypeScript</sub>
-- [BMB12d3/minimax-h3-prompt-composer](https://github.com/BMB12d3/minimax-h3-prompt-composer) - Free offline prompt composer for MiniMax H3 video generation in ComfyUI. <sub>⭐ 290 · HTML</sub>
-- [songweige/TATS](https://github.com/songweige/TATS) - Official PyTorch implementation of TATS: A Long Video Generation Framework with Time-Agnostic VQGAN and Time-Sensitive Transformer (ECCV 2022) <sub>⭐ 289 · Python</sub>
-- [SankaiAI/TwitCanva-Video-Workflow](https://github.com/SankaiAI/TwitCanva-Video-Workflow) - A next-generation AI-powered infinite canvas workspace built for creators and developers. Experience the future of Generative AI with a drag-and-drop node interface that combines Google Gemini 3 Pro… <sub>⭐ 284 · TypeScript</sub>
-- [Djdefrag/FluidFrames](https://github.com/Djdefrag/FluidFrames) - FluidFrames / video AI frame-generation app <sub>⭐ 281 · Python</sub>
-- [lucidrains/lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch) - Implementation of Lumiere, SOTA text-to-video generation from Google Deepmind, in Pytorch <sub>⭐ 281 · Python</sub>
-- [360CVGroup/WISA](https://github.com/360CVGroup/WISA) - World Simulator Assistant for Physics-Aware Text-to-Video Generation <sub>⭐ 279 · Python</sub>
-- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - AI-powered data-to-video generation. Upload a table, get a narrated animated data story. <sub>⭐ 274 · TypeScript</sub>
-- [MingXiangL/DEVIL](https://github.com/MingXiangL/DEVIL) - Evaluation of Text-to-Video Generation Models: A Dynamics Perspective(NeurIPS 2024). <sub>⭐ 274 · Python</sub>
-- [GongyeLiu/StyleCrafter](https://github.com/GongyeLiu/StyleCrafter) - (TOG 2024)StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter <sub>⭐ 273 · Python</sub>
-- [fancyboi999/Loomic](https://github.com/fancyboi999/Loomic) - Open-source AI canvas design agent — alternative to Lovart / CapCut Video Studio / Canva AI. Chat-driven image & video generation on an infinite canvas. <sub>⭐ 272 · TypeScript</sub>
-- [AILab-CVC/VideoGen-Eval](https://github.com/AILab-CVC/VideoGen-Eval) - VideoGen-Eval: Agent-based System for Video Generation Evaluation <sub>⭐ 270</sub>
-- [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) - (AAAI 2025) DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation <sub>⭐ 270 · Python</sub>
-- [neggles/animatediff-cli](https://github.com/neggles/animatediff-cli) - a CLI utility/library for AnimateDiff stable diffusion generation <sub>⭐ 270 · Python</sub>
-- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - Open-source clone of the MidJourney web interface featuring real AI image and video generation powered by Google's Gemini SDK. Use Imagen 4 to generate images and Veo 2 and 3 for image and text to… <sub>⭐ 269 · TypeScript</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [Advocate99/DiffGesture](https://github.com/Advocate99/DiffGesture) - (CVPR'2023) Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation <sub>⭐ 265 · Python</sub>
-- [wenyuqing/panacea](https://github.com/wenyuqing/panacea) - (CVPR2024) Official Repository of Paper "Panacea: Panoramic and Controllable Video Generation for Autonomous Driving" <sub>⭐ 263 · Python</sub>
-- [TIGER-AI-Lab/ConsistI2V](https://github.com/TIGER-AI-Lab/ConsistI2V) - ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation (TMLR 2024) <sub>⭐ 261 · Python</sub>
-- [HITsz-TMG/Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - Controllable Animation Video Generation with Large Models-based Multimodal Agents <sub>⭐ 260 · Jupyter Notebook</sub>
-- [odysseusmax/animated-lamp](https://github.com/odysseusmax/animated-lamp) - Telegram Bot For Screenshot Generation <sub>⭐ 260 · Python</sub>
-- [houyuanchen111/UniVidX](https://github.com/houyuanchen111/UniVidX) - (SIGGRAPH 2026 / TOG) Official code of the paper "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors". <sub>⭐ 257 · Python</sub>
-- [soraw-ai/Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) - A list for Text-to-Video, Image-to-Video works <sub>⭐ 257</sub>
-- [yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid) - automatic video description generation with GPU training <sub>⭐ 257 · Python</sub>
-- [wangchuxiaoji-oss/doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) - Reverse-engineered Doubao (豆包) API → OpenAI-compatible REST service. Free multimodal chat, image/video/music generation, and file hosting for AI agents. <sub>⭐ 256 · Python</sub>
-- [ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) - Drive Google Flow from the command line: Veo video and Imagen images, scripted, batched and pipeline-ready. Ships an MCP server so coding agents can drive it too, giving you and your agents full… <sub>⭐ 251 · Python</sub>
-- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound… <sub>⭐ 247 · TypeScript</sub>
-- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration… <sub>⭐ 246 · Python</sub>
-- [shengshu-ai/TurboServe](https://github.com/shengshu-ai/TurboServe) - TurboServe: Serving Streaming Video Generation Efficiently and Economically <sub>⭐ 246 · Python</sub>
-- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - Run MiniMax Hailuo H3 and LTX-2.5 video generation locally on a Mac. Joint audio+video, character LoRA training, one-click Pinokio install. MLX — no CUDA, no cloud, no API key. <sub>⭐ 244 · Python</sub>
-- [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - A tab for sd-webui for replacing objects in pictures or videos using detection prompt <sub>⭐ 241 · Python</sub>
-- [1038lab/ComfyUI-MiniMax-H3-Promptor](https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor) - A powerful, ComfyUI Custom node automation suite for generating cinema-production-grade prompts explicitly formatted for the **MiniMax H3 Video Generation System**. <sub>⭐ 240 · Python</sub>
-- [YangLing0818/VideoTetris](https://github.com/YangLing0818/VideoTetris) - (NeurIPS 2024) VideoTetris: Towards Compositional Text-To-Video Generation <sub>⭐ 237 · Python</sub>
-- [chengzhag/UCPE](https://github.com/chengzhag/UCPE) - (CVPR'26) Camera-controlled text-to-video generation, now with intrinsics, distortion and orientation control! <sub>⭐ 236 · Python</sub>
-- [SOTAMak1r/DeepVerse](https://github.com/SOTAMak1r/DeepVerse) - DeepVerse: 4D Autoregressive Video Generation as a World Model <sub>⭐ 233 · Python</sub>
-- [Hanbo-Cheng/DAWN-pytorch](https://github.com/Hanbo-Cheng/DAWN-pytorch) - Offical implement of Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for talking head Video Generation <sub>⭐ 232 · Python</sub>
-- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude… <sub>⭐ 231 · Python</sub>
-- [PKU-YuanGroup/OpenS2V-Nexus](https://github.com/PKU-YuanGroup/OpenS2V-Nexus) - (NeurIPS 2025 D&B ) OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation <sub>⭐ 231 · Jupyter Notebook</sub>
-- [Clipcat-ai/clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill) - TikTok e-commerce video generation, replication, and analysis SKILL <sub>⭐ 217</sub>
-- [ramsrigouthamg/Supertranslate.ai](https://github.com/ramsrigouthamg/Supertranslate.ai) - Subtitle Videos and add text motion graphics - https://www.supertranslate.ai <sub>⭐ 217 · Jupyter Notebook</sub>
-- [vivek3141/dl-visualization](https://github.com/vivek3141/dl-visualization) - This is the source code for the animations in the series "Visualizing Deep Learning" <sub>⭐ 217 · Jupyter Notebook</sub>
-- [Eyeline-Labs/CineScale](https://github.com/Eyeline-Labs/CineScale) - Tuning-Free 4K Video Generation <sub>⭐ 215 · Python</sub>
-- [PKU-YuanGroup/ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) - (NeurIPS 2024 D&B Spotlight ) ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation <sub>⭐ 213 · Python</sub>
-- [yrcong/STTran](https://github.com/yrcong/STTran) - Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV2021 <sub>⭐ 213 · Jupyter Notebook</sub>
-- [lucidrains/recurrent-interface-network-pytorch](https://github.com/lucidrains/recurrent-interface-network-pytorch) - Implementation of Recurrent Interface Network (RIN), for highly efficient generation of images and video without cascading networks, in Pytorch <sub>⭐ 210 · Python</sub>
-- [AI-Efficiency/Awesome-Efficient-Diffusion](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) - A curated list of papers and code on efficient diffusion models for image, video, world modeling, and language generation. Covering acceleration, quantization, compression, caching, and distillation. <sub>⭐ 209</sub>
-- [Doriandarko/sora-mcp](https://github.com/Doriandarko/sora-mcp) - An MCP server to use Sora video generation APIs <sub>⭐ 209 · TypeScript</sub>
-- [aHapBean/VideoREPA](https://github.com/aHapBean/VideoREPA) - (NeurIPS 2025) VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models <sub>⭐ 208 · Python</sub>
-- [alibaba/identity-grpo](https://github.com/alibaba/identity-grpo) - Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning <sub>⭐ 208 · Python</sub>
-- [JeffWang987/WorldDreamer](https://github.com/JeffWang987/WorldDreamer) - WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens <sub>⭐ 208</sub>
-- [Vchitect/DCM](https://github.com/Vchitect/DCM) - (ICCV2025) DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation <sub>⭐ 207 · Python</sub>
-- [kasturibuilds/generative-loaders](https://github.com/kasturibuilds/generative-loaders) - Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation. <sub>⭐ 204 · TypeScript</sub>
-- [winyunq/UnrealMotionGraphicsMCP](https://github.com/winyunq/UnrealMotionGraphicsMCP) - UE5-UMG-MCP: A deep-focused MCP for Unreal Engine UMG layout. Designed to maximize AI efficiency within limited context windows by prioritizing precision in UI structure, animations, and blueprint… <sub>⭐ 204 · C++</sub>
-- [Anil-matcha/awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) - The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast. <sub>⭐ 199</sub>
-- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model <sub>⭐ 198 · Python</sub>
-- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - (ECCV 2026 Oral) Official implementation of "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation"(arXiv:2603.11647). OmniForcing is the first framework to distill bidirectional… <sub>⭐ 198 · Python</sub>
-- [evalcrafter/EvalCrafter](https://github.com/evalcrafter/EvalCrafter) - (CVPR 2024) EvalCrafter: Benchmarking and Evaluating Large Video Generation Models <sub>⭐ 196 · Jupyter Notebook</sub>
-- [dc-ai-projects/DC-VideoGen](https://github.com/dc-ai-projects/DC-VideoGen) - DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder <sub>⭐ 195</sub>
-- [BarneyD66/clipmivo-tools](https://github.com/BarneyD66/clipmivo-tools) - ClipmivoAI video generation tools: REST API, CLI, local MCP server and Agent Skill. <sub>⭐ 193 · JavaScript</sub>
+- [octelium/octelium](https://github.com/octelium/octelium) - リモートアクセスVPN、ZTNAプラットフォーム、API/AI/MCPゲートウェイ、PaaS、ngrok-alternativeおよびhomelabとして動作できる次世代FOSS自己ホスト型ユニファイドゼロ信託セキュアアクセスプラットフォーム。 <sub>⭐ 4.1k · Go</sub>
+- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omniは、テキスト、音声、ビジョン、ビデオを理解し、リアルタイムのスピーチ生成を実行できるAlibaba CloudでQwenチームによるエンドツーエンドのマルチモーダルモデルです。 <sub>⭐ 4.1k · Jupyter Notebook</sub>
+- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - Linux用のWindowsサブシステムのためのGUI — およびMac上のネイティブLinux / MacOSのVM。 CLIフラグなしでディストリビューターをインストール、バックアップ、移動、構成します。 ツール付きのAIアシスタント、エージェント用MCPサーバー、リモートWSL ... <sub>⭐ 4.0k · Dart</sub>
+- [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) - 画像と映像の生成のためのスタジオ — 1つのプロンプトバー、各モデル独自の設定、そして1つのギャラリーで終わるすべての実行。 <sub>⭐ 4.0k · TypeScript</sub>
+- [SandAI-org/MAGI-1](https://github.com/SandAI-org/MAGI-1) - MAGI-1:スケールでのオートレグレッシブビデオ生成 <sub>⭐ 3.8k · Python</sub>
+- [genmoai/mochi](https://github.com/genmoai/mochi) - Genmoが制作した最高のOSSビデオ生成モデル <sub>⭐ 3.7k · Python</sub>
+- [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - ESP8266/ESP32 用の赤外線リモートライブラリ:複数のプロトコルで赤外線信号を送受信します。 https://github.com/shirriff/Arduino-IRremote <sub>⭐ 3.6k · C++</sub>
+- [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - マニムMLは、マニムコミュニティライブラリと共通の機械学習概念のアニメーションや視覚化を提供することに焦点を当てたプロジェクトです。 <sub>⭐ 3.5k · Python</sub>
+- [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff) - AnimateAutoMATIC1111の安定した拡散WebUIのためのDiff <sub>⭐ 3.4k · Python</sub>
+- [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) - Google Ads MCP サーバー + Meta Ads MCP (Facebook 広告 MCP) + GA4 + Claude、ChatGPT、Cursor & n8n: 250+ ツール、OAuth ログイン、API キーなし、承認取得済みの書き込み... <sub>⭐ 3.4k</sub>
+- [AprilNEA/AChat](https://github.com/AprilNEA/AChat) - AChat - 企業やチームのために設計されたオープンソース/セルフホスト型/ローカルファーストAIプラットフォームで、シームレスなリモート同期と強力なローカル処理能力を完全に組み合わせています。 <sub>⭐ 3.3k · TypeScript</sub>
+- [ali-vilab/VGen](https://github.com/ali-vilab/VGen) - VGenの公式リポジトリ:拡散モデルのビデオ生成のための包括的なビデオ生成エコシステム <sub>⭐ 3.2k · Python</sub>
+- [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - (NeurIPS 2025) Them Talk: 音声駆動マルチパーソンコンバージョンビデオ生成 <sub>⭐ 3.0k · Python</sub>
+- [Saiyan-World/goku](https://github.com/Saiyan-World/goku) - (CVPR2025 Highlight) ビデオ生成財団モデル //saiyan-world.github.io/goku <sub>⭐ 2.9k · Python</sub>
+- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) - 軽量画像ビデオアクション生成推論フレームワーク <sub>⭐ 2.9k · Python</sub>
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Claudeアカウント、Gemini、Copilot、OpenRouter(300以上のモデル)をClipProxyAPI OAuthプロキシ経由で切り替えます。ビジュアルダッシュボード、リモートプロキシサポート、WebSearchフォールバック。プロダクション準備にゼロコンフィグします。 <sub>⭐ 2.9k · TypeScript</sub>
+- [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: 無限大と高輝度仮想人間の映像生成と視覚的条件付き並列脱ノ化 <sub>⭐ 2.8k · Python</sub>
+- [google-research/kubric](https://github.com/google-research/kubric) - インスタンスセグメンテーションマスク、深さマップ、光フローなどの豊富なアノテーションで半現実的な合成マルチオブジェクトビデオを作成するためのデータ生成パイプライン。 <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - オープンソースのショートビデオ自動生成ツール <sub>⭐ 2.8k · Python</sub>
+- [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) - Claudeコードへのリモートアクセスを提供する強力なTelegramボットは、開発者が完全なAI支援とセッションの永続性でどこからでもプロジェクトにやり取りできるようにします。 <sub>⭐ 2.8k · Python</sub>
+- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - 高忠実度シードの究極のコレクション 2.0 プロンプトと種子AIリソース. Seedanceを発見します。 2.0 シネマティックフィルムに使用する方法, アニメ, UGC, ソーシャルメディア, ミームや広告. 含まれています... <sub>⭐ 2.6k · Shell</sub>
+- [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - (ICLR 26オーラル) 安定したビデオインフィニティ:無限大のビデオ生成とエラーのリサイクル <sub>⭐ 2.6k · Python</sub>
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINEは、リモートマシンにGPUをCPU専用機に接続できるようにIPブリッジ上にGPUです。 <sub>⭐ 2.4k · C++</sub>
+- [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - 科学論文による自動映像生成 <sub>⭐ 2.4k · Python</sub>
+- [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - リモートセンシング変更検出のためのデータセット、ツール、方法、レビュー用紙および競争の包括的な最新のコンパイル。 <sub>⭐ 2.3k</sub>
+- [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - トランス拡散に基づく高解像と長映像生成のためのエンドツーエンドソリューション <sub>⭐ 2.3k · Python</sub>
+- [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - ビデオ編集のためのクリエイティブコピロー <sub>⭐ 2.2k · TypeScript</sub>
+- [srvrco/getssl](https://github.com/srvrco/getssl) - リモートサーバーのプロセスを自動化するために適した letsencrypt ACME サーバーからの自由なSSL証明書を得て下さい。 <sub>⭐ 2.2k · Shell</sub>
+- [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios) - ヘリオス:リアルタイムの長いビデオ生成モデル <sub>⭐ 2.2k · Python</sub>
+- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - Claudeコード用のAIネイティブビデオ制作ツールキット <sub>⭐ 2.2k · Python</sub>
+- [showlab/Code2Video](https://github.com/showlab/Code2Video) - (ICML 2026) コードによる映像生成 <sub>⭐ 2.1k · Python</sub>
+- [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) - オープンソース、ローカルファーストの対話型AIビデオエディタで、プロフェッショナルなマルチトラックタイムライン、エージェントスキル、MCP統合、リモーションレンダリングが実現します。 <sub>⭐ 2.1k · TypeScript</sub>
+- [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) - 2000 + キュレーションシード 2.0 ビデオ生成プロンプト — シネマティック、アニメ、UGC、広告、ミームスタイル。 Seedance API ガイド、キャラクターの一貫性のヒント、および高度なビデオワークフローが含まれています。 <sub>⭐ 2.1k · TypeScript</sub>
+- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - 世界モデルの定義と一般ビデオ生成、エンボディドAI、および自動運転のための世界モデルの使用に関する論文の包括的なリスト。紙、コード、関連文献を含む... <sub>⭐ 2.0k · Python</sub>
+- [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys:ビデオ生成のための簡単で効率的なシステム <sub>⭐ 2.0k · Python</sub>
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-6、GPT-5、Gemini、Claude、Grok、Ollama、DeepSeek、PerplexityなどのデスクトップAIアシスタント - チャット、エージェント、ツール、MCP、プラグイン、RAG、ビジョン、音声、画像およびビデオ生成、スピーチ... <sub>⭐ 2.0k · Python</sub>
+- [Vchitect/Latte](https://github.com/Vchitect/Latte) - (TMLR 2025) ラッテ:ビデオ生成のためのラテント拡散トランス。 <sub>⭐ 1.9k · Python</sub>
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - デスクトップ用のオールインワンローカルAIスタジオ:チャット、イメージ、ビデオ生成と1つの無料のオープンソースアプリでコーディングエージェント。 WindowsおよびLinux。 Docker、ターミナルなし、クラウドは必要ありません。 <sub>⭐ 1.9k · TypeScript</sub>
+- [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes) - 実際に高速であるプログラム型ビデオレンダリングフレームワーク <sub>⭐ 1.9k · Rust</sub>
+- [Vchitect/VBench](https://github.com/Vchitect/VBench) - (CVPR2024 Highlight) VBench - ビデオ生成を評価します <sub>⭐ 1.8k · Python</sub>
+- [hyperfield/ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - コンテンツ・ウェアのファイル組織とリネームのためのクロスプラットフォームデスクトップアプリケーション。ローカルおよびリモートLLM、プレビューベースのワークフローをサポートし、完全にユーザー管理された変更をサポートします。 <sub>⭐ 1.8k · C++</sub>
+- [feigeCode/navop](https://github.com/feigeCode/navop) - データベース、SSH、SFTP、ターミナル、リモートデスクトップ、監視およびAIのためのネイティブでオールインワンのワークスペース。 <sub>⭐ 1.7k · Rust</sub>
+- [voghDev/PdfViewPager](https://github.com/voghDev/PdfViewPager) - SDカードに保存されているPDF文書をレンダリングしたり、アセットとしてリンクしたり、リモートURLからダウンロードしたりできるAndroidウィジェット。 <sub>⭐ 1.7k · Java</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Apple Silicon 用のネイティブ LLM インフェレンス サーバー。OpenAI + Anthropic API は対応していません。 Python はありません。 Zig バックエンド、Swift フロントエンドの MacOS アプリをチャット、音楽、音声、ビデオ生成で使用できます。 <sub>⭐ 1.7k · Zig</sub>
+- [openkursar/hello-halo](https://github.com/openkursar/hello-halo) - 7×24 デスクトップAIエージェントが誰でも使える。リモートアクセス、ファイル管理、ビルトインのAIブラウザでビジュアルAIアシスタント。 <sub>⭐ 1.7k · TypeScript</sub>
+- [Nexting-ai/nexting](https://github.com/Nexting-ai/nexting) - MacまたはPC上のClaudeコード、Codex、Grok、およびカーソルのリモートコントロール。 セッションを表示し、タスクを送信して、電話、PIN、またはリングから遠隔にそれらを運転します。 OpenClawがサポートされています。 <sub>⭐ 1.7k · C</sub>
+- [JIA-Lab-research/ControlNeXt](https://github.com/JIA-Lab-research/ControlNeXt) - 制御可能なビデオおよびイメージの生成、SVD、Animate誰でも、ControlNet、ControlNeXt、LoRA <sub>⭐ 1.6k · Python</sub>
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - テレグラム、Discord、Slack、Lark( )、 、経済微信、QQ、微信、OpenAI、Gemini、DeepSeek、Doubao、およびOpenRouterを含むさまざまなLMと互換性があります。 それはインテリジェントな会話、イメージを提供します... <sub>⭐ 1.6k · Go</sub>
+- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - トピック → 4K は、コーディングエージェント用のビデオをナレーションしました。 v5.3.0:ローカル TTS (最新無料 + azure, 外部エンジンなし)、マニフェストベースのアセットエンジン、リモーションコンポジション、費用対効果の高い AI 生成... <sub>⭐ 1.6k · Python</sub>
+- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - (CVPR 2025) StreamingT2V:テキストから一貫性、動的および拡張可能な長いビデオ生成 <sub>⭐ 1.6k · Python</sub>
+- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) - ローカルシェルとリモートマシン用のAIネイティブワークスペース。ゼロWebview、ゼロOpenSSL、ゼロテレメトリー、アプリのサブスクリプションなし <sub>⭐ 1.6k · Rust</sub>
+- [punkpeye/mcp-remote](https://github.com/punkpeye/mcp-remote) - ローカル(stdio)サーバのみをリモートMCPサーバーにサポートするMCPクライアントを接続します。 <sub>⭐ 1.6k · TypeScript</sub>
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - ネイティブリンクは、Nixのパワード、オープンソース、高性能ビルドキャッシュおよびリモート実行サーバーです。Bazel、Song、Pants、Buck2、Reclient、その他のRE互換ビルドシステムと互換性があります。 <sub>⭐ 1.6k · Rust</sub>
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - 強力なテキストと音声、画像生成およびビデオ生成 API との相互作用を可能にする公式ミニマックスモデルコンテキストプロトコル(MCP)サーバー。 <sub>⭐ 1.6k · Python</sub>
+- [Phantom-video/Phantom](https://github.com/Phantom-video/Phantom) - ファントム: クロスモーダルアライメントによる被写体一貫した映像生成 <sub>⭐ 1.5k · Python</sub>
+- [TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) - 「TheoremExplainAgent:LLM Theorem Understandingのビデオベースのマルチモーダルの説明に向けて」(ACL 2025オーラル) <sub>⭐ 1.5k · Python</sub>
+- [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - 次のリモートプロトコルフレームワーク。 <sub>⭐ 1.4k · TypeScript</sub>
+- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - ビデオ拡散モデルの実装、Jonathan Hoの新しい紙はビデオ生成にDDPMを拡張 - Pytorchで <sub>⭐ 1.4k · Python</sub>
+- [justrach/codedb](https://github.com/justrach/codedb) - AIエージェント用のZigコードインテリジェンスサーバーとMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み込み、編集、デプス、スナップショット、リモートGitHubリポジトリのクエリ。 <sub>⭐ 1.4k · Zig</sub>
+- [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - モデルコンテキストプロトコル(MCP)とREST APIを使用して、TikTok、Instagramリール、YouTubeショートカット用のショートビデオを作成します。 <sub>⭐ 1.4k · TypeScript</sub>
+- [mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose) - (AAAI 2024) フォロー-Your-Pose: このリポジトリは、「フロー - あなたのポーズ : Pose-Free ビデオを使用してテキストツービデオ生成をポーズガイド」の公式実装です。 <sub>⭐ 1.4k · Python</sub>
+- [bytedance/Lance](https://github.com/bytedance/Lance) - 画像とビデオの理解、生成、編集のための3B-activeパラメータネイティブ統一されたマルチモーダルモデル。 <sub>⭐ 1.3k · Python</sub>
+- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - (TPAMI 2025 ) MagicTime: タイムラプスビデオ生成モデルをメタモルフィックシミュレータとして <sub>⭐ 1.3k · Python</sub>
+- [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Managerは、リモートターミナルセッションを整理し、反復タスクの自動化に役立つユーザーインターフェイスです。 <sub>⭐ 1.3k · Perl</sub>
+- [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) - メタ広告(Facebook/Instagram) Claude、ChatGPT、Perplexity&CursorのMCPサーバー - Pipeboardの5プラットフォームファミリーのMetaノード(+ Google、TikTok、Snap、Reddit)。リモートMCPをホストし、悪用されたメタ... <sub>⭐ 1.3k · Python</sub>
+- [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - グループチャットのようなコーディングエージェントをコーディネート — 携帯電話から領収書、配送追跡、リモートのオプスを読みます。 1つのピップインストール、ゼロインフラストラクチャー。 24 / 7のための生産志向のオーケストレーター... <sub>⭐ 1.3k · Rust</sub>
+- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - OpenAI CLIPとLLaVAより最大5倍の高速で多言語テキスト、画像、動画を介したコンテンツ理解と生成のためのポケット・セージド・マルチモーダル AI <sub>⭐ 1.3k · Python</sub>
+- [alibaba/Tora](https://github.com/alibaba/Tora) - (CVPR'25)トーラ:ビデオ生成のための軌跡指向拡散トランス <sub>⭐ 1.2k · Python</sub>
+- [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom:カスタマイズされたビデオ生成のための多モジュール駆動アーキテクチャ <sub>⭐ 1.2k · Python</sub>
+- [ubicomplab/rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) - rPPG-Toolbox:深いリモートPPGツールボックス(NeurIPS 2023) <sub>⭐ 1.2k · Python</sub>
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - ウィンドウを上回るターミナル。シェルはアプリを終了し、エージェントが他のエージェントを駆動でき、リモートマシンも同じように機能します。Pure Rust、GPUレンダリング済みです。 <sub>⭐ 1.2k · Rust</sub>
+- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - ビジュアルスタジオコードのワークスペースの色を変更します。複数のVSコードインスタンスを持っている場合は、VSライブシェアを使用するか、VSコードのリモート機能を使用してください。すぐに識別したいです... <sub>⭐ 1.2k · TypeScript</sub>
+- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjoメイク: 顔のスワップ、リップシンク、コントロール削除オブジェクトとテキスト&背景、Restiling、オーディオセパレータ、クローンボイス、ビデオ生成。オープンソース、ローカル&フリー。 <sub>⭐ 1.2k · C++</sub>
+- [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) - EC2インスタンス、オンプレミスサーバー、仮想マシン(VM)のリモート管理を可能にするエージェントです。 <sub>⭐ 1.2k · Go</sub>
+- [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer) - DLSS 5 フレームの生成、RTXのビデオ極度の決断、HDRおよび生きているプレーバックが付いているイメージ及びビデオのための神経レンダリング <sub>⭐ 1.2k · Python</sub>
+- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - 30以上のジェネレーションアニマルティのためのセルフホストWebui <sub>⭐ 1.2k · Python</sub>
+- [showlab/Show-1](https://github.com/showlab/Show-1) - (IJCV) Show-1: テキスト・ツー・ビデオ生成のためのピクセルおよびラテントの拡散モデルを結婚すること <sub>⭐ 1.1k · Python</sub>
+- [ChrisTheCoolHut/Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - 自動露光生成(AEG)と悪用可能なCTFの問題のためのリモートフラグキャプチャ <sub>⭐ 1.1k · Python</sub>
+- [fsbolero/Bolero](https://github.com/fsbolero/Bolero) - Bolero は、モデルビュー・アップデートのアーキテクチャ、HTML コンビネーション、ホットリロードテンプレート、タイプセーフエンドポイント、高度なルーティングとリモッティング機能を使用して F# 開発者に Blazor をもたらします... <sub>⭐ 1.1k · F#</sub>
+- [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) - マニムの3Blue1Brownスタイルアニメーションを作成するエージェントスキル。 <sub>⭐ 1.1k · Python</sub>
+- [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - リモート MCP サーバー <sub>⭐ 1.1k</sub>
+- [WangLibo1995/GeoSeg](https://github.com/WangLibo1995/GeoSeg) - UNetFormer:リモートセンシング都市シーンイメージの効率的なセマンティックセグメンテーションのためのUNetのようなトランス。また、衛星用の他のビジョントランスやCNNなど、空中画像... <sub>⭐ 1.1k · Python</sub>
+- [ShareGPT4Omni/ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video) - (NeurIPS 2024) 「ShareGPT4Video:より良いキャプションでビデオの理解と生成を改善」の公式実装 <sub>⭐ 1.1k · Python</sub>
+- [yashab-cyber/opendroid](https://github.com/yashab-cyber/opendroid) - オープンソースの Android Agent — ローカル/リモートLLMとアクセシビリティ駆動型の画面自動化により、制作準備が整ったセルフプランニングAIアシスタント。 <sub>⭐ 1.1k · Kotlin</sub>
+- [Candy-CY/Hyperspectral-Image-Classification-Models](https://github.com/Candy-CY/Hyperspectral-Image-Classification-Models) - 包含および再生のためのハイパースペクトルのリモートセンシング画像分類モデル。 <sub>⭐ 1.1k · Python</sub>
+- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Atlassianの公式リモートMCPサーバー。Jira、Confluence、Jira Service Management、BitbucketおよびCompassをClaude、ChatGPT、Cursor、VSコード、OAuth 2.1を使用したその他のAIツールに安全に接続します。 <sub>⭐ 1.1k · JavaScript</sub>
+- [memoavatar/memo](https://github.com/memoavatar/memo) - (TMLR) 表現型ビデオ生成のための記憶誘導拡散 <sub>⭐ 1.1k · Python</sub>
+- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV、Amazon Fire TV、Chromecast、Homatics、NVIDIA Shield、onn。、Roku、Xiaomi Mi、およびホームアシスタント用のAndroid TVリモートコントロールカード <sub>⭐ 1.1k</sub>
+- [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH) - SSH を用いたリモートシステムにおけるタスクの自動化のための PowerShell モジュール <sub>⭐ 1.1k · PowerShell</sub>
+- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - HunyuanVideo-Foley:高忠実度フォリーオーディオ生成のための表現アライメントとマルチモーダル拡散。 <sub>⭐ 1.1k · Python</sub>
+- [harlanhong/CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) - CVPR2022紙の公式コード:ヘッドビデオ生成を語るためのDep-AwareGenerative Adversarial Network <sub>⭐ 997 · Python</sub>
+- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - 人工知能を主張したストーリーボードとビデオ生成ツール。Geminiを使用して、ストーリーボードのテキストやフレームを生成するために、Vertex AI Veoがトランジションクリップを生成し、最終ビデオをステッチするためのffmpegを使用します。... <sub>⭐ 986 · JavaScript</sub>
+- [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing) - (ICML 2026) 「Causal Forcing:Autoregressive Diffusion Distillation」のコードベースは、高品質リアルタイムインタラクティブビデオ生成のための権利を寄付します。 & Causal Forcing++ <sub>⭐ 985 · Python</sub>
+- [ufrisk/LeechCore](https://github.com/ufrisk/LeechCore) - LeechCore - 物理メモリ取得ライブラリとLeechAgentリモート・メモリー獲得エージェント <sub>⭐ 959 · C</sub>
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - テキストからビデオジェネレータへ。あなたの好きな個性から任意のトピックについて学びます。 <sub>⭐ 958 · Python</sub>
+- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) - ユニファイドテキスト・ツー・ビデオ(T2V)とイメージ・トゥ・動画(I2V)の生成のための業界レベルのビデオファンデーションモデル。 <sub>⭐ 954</sub>
+- [Vchitect/LaVie](https://github.com/Vchitect/LaVie) - (IJCV 2024) LaVie:カスケード・ラテントの拡散モデルとの良質ビデオ生成 <sub>⭐ 953 · Python</sub>
+- [grft-dev/graftcode](https://github.com/grft-dev/graftcode) - 任意のコードを接続します。 依存性として呼び出します。 Graftcodeの公式リポジトリ: 統合フリー開発レイヤーで、言語とリモートサービスのランタイム間でメソッドを呼び出すことができます... <sub>⭐ 929 · PowerShell</sub>
+- [milisp/codexia](https://github.com/milisp/codexia) - Codex + Claude コードの軽量エージェントワークステーション — ドット、タスクスケジューラ、git worktree & Remote control <sub>⭐ 927 · TypeScript</sub>
+- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 映像生成のためのGPT <sub>⭐ 924 · Python</sub>
+- [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) - Cline Memory Bankに触発されたリモートメモリバンク管理のためのモデルコンテキストプロトコル(MCP)サーバーの実装。 <sub>⭐ 920 · TypeScript</sub>
+- [360CVGroup/FancyVideo](https://github.com/360CVGroup/FancyVideo) - テキスト&画像からのビデオ生成、1st-gen <sub>⭐ 919 · Python</sub>
+- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - フラットキーメディア生成 画像、ビデオ、オーディオ、テキスト、クレジット、モデルの発見のためのCLI。 <sub>⭐ 910 · JavaScript</sub>
+- [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) - ComfyUI-QwenVLカスタムノード: Qwen2.5-VL、Qwen3-VL、Qwen3.5-VL、Qwen3.6-VL(MoE)、Qwen3.8-VLなどのQwen-VLシリーズを統合し、GGUFは高度なマルチモーダルAIをテキストでサポートします。 <sub>⭐ 900 · Python</sub>
+- [awizemann/scarf](https://github.com/awizemann/scarf) - Hermes AIエージェントのネイティブmacOSとiOSアプリ — マルチウィンドウ、マルチサーバー(ローカル+リモートオーバーSSH)。チャット、ダッシュボード、セッション、メモリ、cron、MCPなど <sub>⭐ 879 · Swift</sub>
+- [jina-ai/MCP](https://github.com/jina-ai/MCP) - 公式Jina AIリモートMCPサーバー <sub>⭐ 868 · TypeScript</sub>
+- [PKU-YuanGroup/ConsisID](https://github.com/PKU-YuanGroup/ConsisID) - (CVPR 2025 Highlight) 周波数分解によるテキスト・ツー・ビデオの生成を記憶するアイデンティティ保存 <sub>⭐ 862 · Python</sub>
+- [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) - (ICLR 2024) 「ControlVideo: トレーニングフリー制御可能なテキスト・ツー・ビデオ生成」の公式ピトルチ実装 <sub>⭐ 862 · Python</sub>
+- [lidge-ai/ima2-gen](https://github.com/lidge-ai/ima2-gen) - ローカルファーストのビジュアル生成ランタイムと人やコーディングエージェントのためのスタジオ、複数のプロバイダー間で再現可能なイメージとビデオワークフロー。 <sub>⭐ 853 · TypeScript</sub>
+- [cporter202/automate-for-growth](https://github.com/cporter202/automate-for-growth) - 成長のためのコンテンツを自動化するための完全なガイド: Sora 2ビデオ生成、ブランド当局のオートメーション、マルチプラットフォーム投稿、バルクコンテンツ作成、およびAPI統合。 <sub>⭐ 829</sub>
+- [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5) - Kandinsky 5.0:ビデオ&画像生成のための拡散モデルの家族 <sub>⭐ 829 · Python</sub>
+- [featurevisor/featurevisor](https://github.com/featurevisor/featurevisor) - 特徴 フラグ、実験およびリモート設定管理とバージョン制御 <sub>⭐ 812 · TypeScript</sub>
+- [sstary/SSRS](https://github.com/sstary/SSRS) - リモートセンシングのためのセマンティックセグメント化 <sub>⭐ 810 · Python</sub>
+- [krishnakanthb13/antigravity_phone_chat](https://github.com/krishnakanthb13/antigravity_phone_chat) - リアルタイムのモバイルモニターとアンチグラビティAIセッションのためのリモートコントロール。 デスクトップチャットをChrome DevToolsプロトコル(CDP)でサブ-100msスナップショット、安全なグローバルトンネルアクセスを介して携帯電話にミラーリングします... <sub>⭐ 808 · JavaScript</sub>
+- [AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) - 素晴らしいビデオ生成研究のコレクション。 <sub>⭐ 786 · TeX</sub>
+- [aas-n/spraykatz](https://github.com/aas-n/spraykatz) - リモートprocdumpとlsassプロセスの解析を自動化するツールを集めるクレデンシャル。 <sub>⭐ 783 · Python</sub>
+- [s1dashu/director](https://github.com/s1dashu/director) - 研究、スクリプト、ビジュアル開発、ショットデザイン、メディア生成および配信のためのマルチモードワークフローでビデオを直接作成します。 <sub>⭐ 782</sub>
+- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - 「学習ベースのパーソナライズされたヘッドポーズ」(Arxiv 2020)と「ショートビデオと音声信号から個人化されたヘッドの動きを予測する」のコード(TMM 2022) <sub>⭐ 770 · Python</sub>
+- [ningbainb/deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop) - オープンソースのWindowsデスクトップクライアントとDeepSeekハーネス用のGUI — Codex、プラグイン、スキル、SSH、モバイルリモートアクセスおよび11スキンを備えたゼロセットアップインストーラ。 <sub>⭐ 764 · JavaScript</sub>
+- [mbzuai-oryx/GeoChat](https://github.com/mbzuai-oryx/GeoChat) - (CVPR 2024) GeoChat、リモートセンシングのための最初の地上の大型ビジョン言語モデル <sub>⭐ 759 · Python</sub>
+- [dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation) - マチュウ、コプリー&ルクンによる「平均平方誤差を超えたディープマルチスケールビデオ予測」の実施 <sub>⭐ 749 · Python</sub>
+- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - テキスト・ツー・ビデオの生成/合成に関する調査 <sub>⭐ 746 · Python</sub>
+- [flymin/MagicDrive-V2](https://github.com/flymin/MagicDrive-V2) - (ICCV 2025)紙「MagicDrive-V2:適応制御による自動運転のための高解像長ビデオ生成」の公式実装 <sub>⭐ 727 · Python</sub>
+- [w3c/webdriver](https://github.com/w3c/webdriver) - ユーザーエージェントのイントロスペクションと制御を可能にするリモートコントロールインターフェイス。 <sub>⭐ 719 · HTML</sub>
+- [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) - OpenCodexは、コーデックス/チャットGPTデスクトップ用のミドルウェアレイヤーです。 これにより、電話、タブレット、または別のコンピュータを使用して、ブラウザを介してターゲットマシンにCodexにアクセスして動作させ、適切な操作ができます。 <sub>⭐ 715 · JavaScript</sub>
+- [instavm/clickclickclick](https://github.com/instavm/clickclickclick) - 任意のLM(ローカルまたはリモート)を使用して、自動Androidとコンピュータの使用 <sub>⭐ 714 · Python</sub>
+- [Dakkshin/after-effects-mcp](https://github.com/Dakkshin/after-effects-mcp) - エフェクトの後にAdobe用のMCP Server。 拡張スクリプトを使用してモデルコンテキストプロトコルを介してリモートコントロール(コンポジション、テキスト、形状、ソリッド、プロパティ)を有効にします。 <sub>⭐ 689 · JavaScript</sub>
+- [baaivision/NOVA](https://github.com/baaivision/NOVA) - (ICLR 2025) ベクトル量子化のないオートレグレッシブビデオ生成 <sub>⭐ 661 · Python</sub>
+- [tetherto/qvac](https://github.com/tetherto/qvac) - オープンソースのローカルAI SDK - AIをクラウド、APIキーなしで実行します。 GGUF、RAG、画像、音楽、ビデオ生成、音声対テキスト、P2P推論などをサポートします。 クロスプラットフォーム:Linux、macOS... <sub>⭐ 661 · TypeScript</sub>
+- [G-U-N/AnimateLCM](https://github.com/G-U-N/AnimateLCM) - (SIGGRAPH ASIA 2024 TCS) AnimateLCM: 個人化されたビデオ データなしで計算効率の高いパーソナライズされたスタイルのビデオ生成 <sub>⭐ 657 · Python</sub>
+- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - モーショングラフィックス、アニメーション&ビデオを作るためにあなたのAIコーディングエージェントを教える50のオープンソーススキル - kineticタイポグラフィ、データViz、説明者、TikTok /リール、WebGL、Manim。 14インストール可能なパック。 バイ... <sub>⭐ 657 · HTML</sub>
+- [primepake/wav2lip_288x288](https://github.com/primepake/wav2lip_288x288) - Wav2Lip版288および訓練へのパイプライン <sub>⭐ 651 · Python</sub>
+- [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) - MAGI-2-preview:ビデオ生成モデルのスケーリングを効率的に <sub>⭐ 634 · Python</sub>
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - ユーザーがグループに参加しているかどうかを確認するTelegramボットは人間です。 Botは、各新しいユーザーにカプチャチャレンジを送信し、指定された時間内で解決しない場合を取り除きます。 <sub>⭐ 617 · Python</sub>
+- [mit-han-lab/radial-attention](https://github.com/mit-han-lab/radial-attention) - (NeurIPS 2025) 放射状注意: O(ログオン) 長期ビデオ生成のためのエネルギーデカイとのスパール注目 <sub>⭐ 607 · Python</sub>
+- [wendell0218/Awesome-RL-for-Video-Generation](https://github.com/wendell0218/Awesome-RL-for-Video-Generation) - ビデオ生成のための強化学習に関する論文のキュレーションリスト <sub>⭐ 590</sub>
+- [Vchitect/VEnhancer](https://github.com/Vchitect/VEnhancer) - VEnhancerの公式コード:ビデオ生成のための構造空間時間の強化 <sub>⭐ 579 · Python</sub>
+- [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) - SkyReels V3:マルチモーダルビデオ生成モデル <sub>⭐ 575 · Python</sub>
+- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - (ECCV 2024) 紙「DrivingDiffusion: Layout-Guided Multi-View Drive Scenarios Video Generation with Latent Diffusion Model」の公式実装。 <sub>⭐ 565 · Python</sub>
+- [VideoVerses/VideoTuna](https://github.com/VideoVerses/VideoTuna) - 映像生成モデルを微調整しよう! <sub>⭐ 555 · Python</sub>
+- [letorig/video-generator-client](https://github.com/letorig/video-generator-client) - シード、Kling、MiniMax、Wanビデオ生成用のAsync Pythonラッパー。 CLIとローカルWeb UIをサポート <sub>⭐ 551 · Python</sub>
+- [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - オープンソースのAIビデオワークベンチ。任意のモデルやローカルComfyUIを持って、Claudeコード/Codex / CursorはMCPを経由してそれを指示する - ストーリーボード、参照、生成、編集可能最初に実際の... <sub>⭐ 542 · TypeScript</sub>
+- [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - レイヤーされたPSDを編集可能なLive2Dモデルに変える — 自動リギング、メッシュ/デフォーマ生成、物理、アニメーション、および.cmo3/ .moc3エクスポート。 <sub>⭐ 535 · Kotlin</sub>
+- [Leron-X/leronx](https://github.com/Leron-X/leronx) - LeronX — AIイメージ&ビデオ生成プラットフォーム <sub>⭐ 525 · Python</sub>
+- [ziqihuangg/Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) - 世界モデルに向けた映像制作の一覧 <sub>⭐ 520</sub>
+- [YingqingHe/LVDM](https://github.com/YingqingHe/LVDM) - LVDM:高輝度長いビデオ生成のためのラテントのビデオ拡散モデル <sub>⭐ 506 · Python</sub>
+- [shengshu-ai/Vidu-S](https://github.com/shengshu-ai/Vidu-S) - Vidu S:リアルタイムインタラクティブ、編集可能、空間映像生成 <sub>⭐ 497</sub>
+- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - リアルタイムのデジタル・ヒューマンモデルで、長年のオーディオ映像を制作 <sub>⭐ 496 · Python</sub>
+- [SamurAIGPT/Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) - ByteDance の Seedance 2.5 API 用の Python ラッパー — テキスト・ツー・ビデオ、現実的なヒューマンフェイス、ネイティブ 4K、一貫性のあるキャラクター生成。 <sub>⭐ 487 · Python</sub>
+- [FoundationVision/FlashVideo](https://github.com/FoundationVision/FlashVideo) - (AAAI-2026)FlashVideo: 効率的な高解像ビデオ生成のための詳細に忠実度を流れる <sub>⭐ 483 · Python</sub>
+- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI 互換 API, セルフホスト, いいえ API キー. /v1/chat/completions へのリバースプロキシ gemini.google.com: シングルゴーバイナリ, クロム TLS 指紋, 自動更新とクッキープール... <sub>⭐ 476 · Go</sub>
+- [Correr-Zhou/OmniShow](https://github.com/Correr-Zhou/OmniShow) - (ICML 2026) ヒトオブジェクトのインタラクションビデオ生成のためのバイテダンスのオールインワン映像生成モデル <sub>⭐ 475 · Python</sub>
+- [gudaochangsheng/RefAlign](https://github.com/gudaochangsheng/RefAlign) - (ECCV 2026) RefAlign の公式 PyTorch 実装: Reference-to-Video 生成のための表現アライメント <sub>⭐ 471 · Python</sub>
+- [NJU-PCALab/OpenVid-1M](https://github.com/NJU-PCALab/OpenVid-1M) - (ICLR 2025) OpenVid-1M:テキスト・ツー・ビデオ生成のための大規模高品質データセット <sub>⭐ 471 · Python</sub>
+- [nihaomiao/CVPR23_LFDM](https://github.com/nihaomiao/CVPR23_LFDM) - 当社のCVPR 2023紙「Latent Flow Diffusionモデルを用いた画像からビデオ生成」のpytorch実装 <sub>⭐ 470 · Python</sub>
+- [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) - これは、ビジョンアクションモデル(VAM)フレームワークであるDiT4DiTの公式コードリポジトリです。ビデオ生成モデルと一般的なロボットに対するフローマッチングベースの行動予測を組み合わせたものです。 <sub>⭐ 461 · Python</sub>
+- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuzeは、ComfyUIとシームレスに統合する最先端のディープラーニングツールです。顔の変換、リップシンク、フェイススワッピング、リプコントランスレーション、ビデオ生成... <sub>⭐ 461 · Python</sub>
+- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - (技術レポート) ライブ:ユニファイドオーディオビデオ生成モデル <sub>⭐ 457</sub>
+- [bytedance/Video-As-Prompt](https://github.com/bytedance/Video-As-Prompt) - (ICLR 2026) 紙「ビデオ・アス・プロンプト:動画生成のための統合セマンティックコントロール」の公式リポジトリ <sub>⭐ 454 · Python</sub>
+- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - (CVPR'23) MM-Diffusion:マルチモーダル拡散モデルの共同音声とビデオ生成を学習 <sub>⭐ 453 · Python</sub>
+- [runjiali-rl/vmem](https://github.com/runjiali-rl/vmem) - (ICCV 2025ハイライト) VMemの実装:Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory <sub>⭐ 449 · Python</sub>
+- [zai-org/VisionReward](https://github.com/zai-org/VisionReward) - (AAAI 2026) VisionReward: イメージとビデオの生成のための微分化された多次元人間の環境学習 <sub>⭐ 427 · Python</sub>
+- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - 「OmniCustom」の公式実装: 音声ビデオのカスタマイズを共同オーディオビデオ生成モデルによる同期 <sub>⭐ 425 · Python</sub>
+- [WeChatCV/Wan-Alpha](https://github.com/WeChatCV/Wan-Alpha) - (CVPR 2026 Highlight)アルファ チャネルとの良質のテキスト・ツー・ビデオの生成 <sub>⭐ 420 · Python</sub>
+- [Yacey/agnes-ai-generation-skill](https://github.com/Yacey/agnes-ai-generation-skill) - Agnes AI テキスト、画像、動画生成 API のエージェントスキル <sub>⭐ 419 · Python</sub>
+- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - PS5 GTA6をDLSS 5で120FPSに持って来ます。 高度なWindowsのビデオプレーヤーとビデオ、画像、およびカードソースのリアルタイムプレビューを備えたキャプチャ機能拡張ツール。 AI搭載スーパー... <sub>⭐ 412 · C++</sub>
+- [Weifeng-Chen/control-a-video](https://github.com/Weifeng-Chen/control-a-video) - 「制御-A-Video:Diffusionモデルを用いたテキスト・ツー・ビデオ生成」の公式実装 <sub>⭐ 405 · Python</sub>
+- [AceDataCloud/Nexior](https://github.com/AceDataCloud/Nexior) - Ace Data Cloud API によるチャット、画像生成、ビデオ生成、音楽作成のためのコンシューマーAIアプリ。 <sub>⭐ 398 · Vue</sub>
+- [haochenheheda/segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator) - ピクセルレベルのアノテーションのために、ラベルメとセグメントアニースに基づいてpython UIを開発しました。 SAM(box/pointプロンプト)による複数のマスク生成をサポートし、効率的なポリゴンの修正やカテゴリ... <sub>⭐ 387 · Python</sub>
+- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Higgsfield AIのClaudeコードスキル — 映像生成、Seedance 2.0ビデオ作成、Playwrightブラウザ自動化による完全なUCG広告パイプラインを自動化 <sub>⭐ 384</sub>
+- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - MCVDの公式実装:予測、生成、およびインターポレーションのためのマスクされた条件付きビデオ拡散(https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
+- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - 「視覚的にガイドされた音の生成を」ソースコード(BMVC 2021年) <sub>⭐ 369 · Jupyter Notebook</sub>
+- [fudan-generative-vision/OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - (CVPR 2025) 人力学的ビデオ生成を高めるための大規模高品質データセット <sub>⭐ 364</sub>
+- [fudan-generative-vision/Hallo-Live](https://github.com/fudan-generative-vision/Hallo-Live) - (ACM MM 2026) ハロライブ:リアルタイムストリーミング共同オーディオビデオアバター生成 <sub>⭐ 357 · Python</sub>
+- [stevenlsw/physgen](https://github.com/stevenlsw/physgen) - 物理ゲン:リジッドボディ物理学-ビデオ生成に画像-to-Video世代別(ECCV 2024) <sub>⭐ 353 · Python</sub>
+- [Anil-matcha/Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) - ByteDance の Seedance 2.0、Seedance 2.5 および Seedance 2 ミニ API — テキスト・ツー・ビデオ、現実的な人間の顔、1080p、一貫性のあるキャラクター生成。 <sub>⭐ 352 · Python</sub>
+- [alexchan197611/ai_media_assistant](https://github.com/alexchan197611/ai_media_assistant) - AI 動力を与えられたオートメイトの自己媒体のビデオ世代別用具 <sub>⭐ 348 · Python</sub>
+- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - リファレンスビデオからAIモーショングラフィックス。 コードックスとChatGPTで編集可能なHyperFramesプロジェクトとして再構築し、マッチを比較してMP4をエクスポートします。 ローカルWindowsアプリやオンラインスタジオ。 <sub>⭐ 347 · Python</sub>
+- [VITA-Group/Diffusion4D](https://github.com/VITA-Group/Diffusion4D) - (NeurIPS 2024) Diffusion4D: ビデオ拡散モデルによる高速空間的一時的な一貫性のある4D生成 <sub>⭐ 347 · Python</sub>
+- [vargHQ/sdk](https://github.com/vargHQ/sdk) - AIビデオ生成SDK — JSX for Video. Kling, Flux, ElevenLabs, Veedの1つのAPIです。 Vercel AI SDK上に構築されています。 <sub>⭐ 340 · TypeScript</sub>
+- [notepower2k1/CapCap](https://github.com/notepower2k1/CapCap) - CapCapは、ショートフォームのビデオローカリゼーションとダビングのためのWindowsデスクトップアプリです。 これは、転写、翻訳、字幕スタイリング、音声生成、タイムライン編集、プレビュー、およびエクスポートを... <sub>⭐ 335 · Python</sub>
+- [NickPittas/DirectorsConsole](https://github.com/NickPittas/DirectorsConsole) - 無限のキャンバスに並行して画像とビデオ生成のための迅速な生成と複数のComfyUIリモートおよびローカル接続用のWebアプリケーション <sub>⭐ 332 · Python</sub>
+- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - 無料のオープンソースのアニメビデオツールキット:AIアップスケール、RIFEインターポレーションと1つのパスで復元します。 CLI、スタンドアロンおよびエフェクトの後。 <sub>⭐ 330 · Python</sub>
+- [wzk1015/video-bgm-generation](https://github.com/wzk1015/video-bgm-generation) - (ACM MM 2021ベストペーパー賞)ビデオ背景音楽生成と制御可能な音楽トランス <sub>⭐ 327 · Python</sub>
+- [TencentARC/DiTCtrl](https://github.com/TencentARC/DiTCtrl) - (CVPR 2025) 「DiTCtrl:マルチモーダル拡散トランスのチューンフリーマルチプロットロングビデオ生成」の公式コード <sub>⭐ 326 · Python</sub>
+- [Anil-matcha/awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) - Seedance 2.5 API ガイド、プロンプト、パラメータ、およびビデオ生成のための例 <sub>⭐ 320</sub>
+- [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video) - 多項式推論のためのビデオ生成を活用した新たなパラダイム「動画で考える」を紹介します。 私たちのVideoThinkBenchは、Sora-2がGPT5を上回るのを示しています 10% 目玉パズルと到達... <sub>⭐ 319 · Python</sub>
+- [ManimCommunity/manim-voiceover](https://github.com/ManimCommunity/manim-voiceover) - すべての物事のボイスオーバーのためのマニムプラグイン <sub>⭐ 316 · Python</sub>
+- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) - 2K解像度でネイティブオーディオビデオ生成をデモクラタイジング <sub>⭐ 311 · Python</sub>
+- [Vchitect/VideoBooth](https://github.com/Vchitect/VideoBooth) - (CVPR2024) VideoBooth:イメージ・プロンプトによる拡散ベースのビデオ生成 <sub>⭐ 310 · Python</sub>
+- [G-U-N/Gen-L-Video](https://github.com/G-U-N/Gen-L-Video) - 「Gen-L-Video: Multi-Text to Long Video Generation」の公式実装 <sub>⭐ 307 · Jupyter Notebook</sub>
+- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video は、MLX を使用して Mac 上での Image-Video-Audio 生成モデルを推論し微調整するための最良のパッケージです。 <sub>⭐ 306 · Python</sub>
+- [rohitg00/manim-video-generator](https://github.com/rohitg00/manim-video-generator) - このアプリケーションを使用すると、自然言語の説明を使用して数学的なアニメーションを生成できます。 OpenAIのGPTモデルを使用して、説明をManimコードに変換し、それが使用されます... <sub>⭐ 305 · TypeScript</sub>
+- [BMB12d3/minimax-h3-prompt-composer](https://github.com/BMB12d3/minimax-h3-prompt-composer) - ComfyUIのMiniMax H3ビデオ生成用の無料のオフラインプロンプトコンポーザー。 <sub>⭐ 290 · HTML</sub>
+- [songweige/TATS](https://github.com/songweige/TATS) - TATSの公式PyTorch実装:タイムアグノスティックVQGANと時間感度トランスを備えたロングビデオ生成フレームワーク(ECCV 2022) <sub>⭐ 289 · Python</sub>
+- [SankaiAI/TwitCanva-Video-Workflow](https://github.com/SankaiAI/TwitCanva-Video-Workflow) - クリエイターや開発者のために構築された次世代AIを搭載した無限のキャンバスワークスペース。 Google Gemini 3 Proを組み合わせたドラッグアンドドロップノードインターフェイスでGenerative AIの未来を体験してください... <sub>⭐ 284 · TypeScript</sub>
+- [Djdefrag/FluidFrames](https://github.com/Djdefrag/FluidFrames) - FluidFrames / 映像AIフレーム生成アプリ <sub>⭐ 281 · Python</sub>
+- [lucidrains/lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch) - PytorchのGoogle DeepmindからLumiere、SOTAテキストツービデオ生成の実施 <sub>⭐ 281 · Python</sub>
+- [360CVGroup/WISA](https://github.com/360CVGroup/WISA) - 物理学のための世界シミュレータアシスタント-Awareテキストツービデオ生成 <sub>⭐ 279 · Python</sub>
+- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - 人工知能に力を入れたデータ・ツー・ビデオの生成。テーブルをアップロードし、アニメーションデータのストーリーを物語ります。 <sub>⭐ 274 · TypeScript</sub>
+- [MingXiangL/DEVIL](https://github.com/MingXiangL/DEVIL) - テキスト・ツー・ビデオ生成モデルの評価:ダイナミックス・パースペクティブ(NeurIPS 2024)。 <sub>⭐ 274 · Python</sub>
+- [GongyeLiu/StyleCrafter](https://github.com/GongyeLiu/StyleCrafter) - (TOG 2024)StyleCrafter:様式のアダプターとのStylizedテキストにビデオ生成を高めること <sub>⭐ 273 · Python</sub>
+- [fancyboi999/Loomic](https://github.com/fancyboi999/Loomic) - オープンソースのAIキャンバスデザインエージェント — Lovart / CapCut Video Studio / Canva AIに代わる。無限のキャンバスでチャット主導の画像とビデオ生成。 <sub>⭐ 272 · TypeScript</sub>
+- [AILab-CVC/VideoGen-Eval](https://github.com/AILab-CVC/VideoGen-Eval) - VideoGen-Eval:ビデオ生成評価のエージェントベースシステム <sub>⭐ 270</sub>
+- [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) - (AAAI 2025) DriveDreamer-2:LLM-Enhanced Video generationを横断する世界モデル <sub>⭐ 270 · Python</sub>
+- [neggles/animatediff-cli](https://github.com/neggles/animatediff-cli) - AnimateDiffの安定した拡散生成のためのCLIユーティリティ/ライブラリ <sub>⭐ 270 · Python</sub>
+- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - GoogleのGemini SDKを搭載した実際のAI画像とビデオ生成を備えたMidJourney Webインターフェイスのオープンソースクローン。 Imagen 4を使用して、画像を生成し、Veo 2および3をイメージしてテキストに表示します... <sub>⭐ 269 · TypeScript</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - コンテンツのgithub / docsコードの問題80プルリクエスト35ディスカッションアクションプロジェクト2セキュリティインサイトマージブランチ'main'を1862に追加-Travis-CI-migrationテーブルにスキップ... <sub>⭐ 268</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MITディープラーニング入門(6.S191)インストラクター:アレクサンダー・アミニとAva Soleimanyコース情報概要前提条件スケジュール講義ラボ、最終プロジェクト、卒業、および賞ソフトウェア... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [Advocate99/DiffGesture](https://github.com/Advocate99/DiffGesture) - (CVPR'2023) オーディオ駆動型コスパナジェスチャー生成用拡散モデル <sub>⭐ 265 · Python</sub>
+- [wenyuqing/panacea](https://github.com/wenyuqing/panacea) - (CVPR2024) 紙「パナセア:自動運転のためのパノラマと制御可能なビデオ生成」の公式リポジトリ <sub>⭐ 263 · Python</sub>
+- [TIGER-AI-Lab/ConsistI2V](https://github.com/TIGER-AI-Lab/ConsistI2V) - コンシストI2V:映像・ビデオの生成のための視覚的一貫性を高める(TMLR 2024) <sub>⭐ 261 · Python</sub>
+- [HITsz-TMG/Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - 大型モデルベースのマルチモーダルエージェントによる制御可能なアニメーションビデオ生成 <sub>⭐ 260 · Jupyter Notebook</sub>
+- [odysseusmax/animated-lamp](https://github.com/odysseusmax/animated-lamp) - スクリーンショット生成のための電報ボット <sub>⭐ 260 · Python</sub>
+- [houyuanchen111/UniVidX](https://github.com/houyuanchen111/UniVidX) - (SIGGRAPH 2026/TOG) 紙「UniVidX: Diffusion Priorsによる汎用映像生成のための統一マルチモーダルフレームワーク」の公式コード。 <sub>⭐ 257 · Python</sub>
+- [soraw-ai/Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) - テキスト・ツー・ビデオ、画像・ツー・動画作品の一覧 <sub>⭐ 257</sub>
+- [yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid) - GPUの訓練による自動ビデオ説明生成 <sub>⭐ 257 · Python</sub>
+- [wangchuxiaoji-oss/doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) - リバースエンジニアリングドウバオ(豆包)API → OpenAI対応RESTサービス。無料のマルチモーダルチャット、画像/ビデオ/音楽生成、およびAIエージェント向けのファイルホスティング。 <sub>⭐ 256 · Python</sub>
+- [ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) - コマンドラインからGoogle Flowをドライブ: VeoビデオとImagen画像、スクリプト化、バッチ処理およびパイプライン読み取り。 MCPサーバーを出荷するので、コーディングエージェントはそれを運転することができます。 <sub>⭐ 251 · Python</sub>
+- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - Claudeコード、Claudeデスクトップ&クロードAIを教えるオープンソースのクロードエージェントスキルは、Remotionでプロのモーショングラフィックスビデオを作成および編集します。 AIのビデオ編集、Bロール、キャプション、サウンド... <sub>⭐ 247 · TypeScript</sub>
+- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - LynnReal-Omniは、テキスト・ツー・ビデオ、画像・ツー・ビデオ、人間と手ポーズのガイド付き生成、構造制御、オムニ環境世代、スタイル転送、ビデオ編集、劣化した動画復元... <sub>⭐ 246 · Python</sub>
+- [shengshu-ai/TurboServe](https://github.com/shengshu-ai/TurboServe) - TurboServe:ビデオ生成を効率的かつ経済的にストリーミングする <sub>⭐ 246 · Python</sub>
+- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - MiniMax Hailuo H3 と LTX-2.5 ビデオ生成を Mac で実行します。 共同オーディオ+ビデオ、キャラクター LoRA トレーニング、1 クリックの Pinokio インストール。 MLX — いいえ CUDA、クラウドなし、API キーはありません。 <sub>⭐ 244 · Python</sub>
+- [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - 検出プロンプトを使用して画像やビデオにオブジェクトを交換するためのsd-webuiタブ <sub>⭐ 241 · Python</sub>
+- [1038lab/ComfyUI-MiniMax-H3-Promptor](https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor) - 強力なComfyUIカスタムノードの自動化スイートで、映画制作レベルのプロンプトを生成できます。**MiniMax H3 Video Generation System ** <sub>⭐ 240 · Python</sub>
+- [YangLing0818/VideoTetris](https://github.com/YangLing0818/VideoTetris) - (NeurIPS 2024) VideoTetris:コンポジションテキスト対ビデオ生成に向けて <sub>⭐ 237 · Python</sub>
+- [chengzhag/UCPE](https://github.com/chengzhag/UCPE) - (CVPR'26) カメラ制御テキストからビデオ生成まで、現在ではイントラジック、歪み、方向制御! <sub>⭐ 236 · Python</sub>
+- [SOTAMak1r/DeepVerse](https://github.com/SOTAMak1r/DeepVerse) - DeepVerse: 世界モデルとしての4Dオートレグレッシブビデオ生成 <sub>⭐ 233 · Python</sub>
+- [Hanbo-Cheng/DAWN-pytorch](https://github.com/Hanbo-Cheng/DAWN-pytorch) - ヘッドビデオ生成のための非自動回帰的拡散フレームワークを備えた動的フレームアバターのオフカルな実装 <sub>⭐ 232 · Python</sub>
+- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - 任意のトピックを終了するVoxスタイルの紙工芸の解説者/モーショングラフィックスビデオに変える - スクリプト、コラージュキーフレーム、アニメーション、ボイスオーバー、音楽&キャプション、すべての自動化。 クロードのためのエージェントスキル... <sub>⭐ 231 · Python</sub>
+- [PKU-YuanGroup/OpenS2V-Nexus](https://github.com/PKU-YuanGroup/OpenS2V-Nexus) - (NeurIPS 2025 D&B) OpenS2V-Nexus: サブジェクト対ビデオ生成のための詳細なベンチマークとミリオンスケールデータセット <sub>⭐ 231 · Jupyter Notebook</sub>
+- [Clipcat-ai/clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill) - TikTok eコマースビデオ生成、レプリケーション、および分析 SKILL <sub>⭐ 217</sub>
+- [ramsrigouthamg/Supertranslate.ai](https://github.com/ramsrigouthamg/Supertranslate.ai) - 字幕のビデオとテキストモーショングラフィックスを追加 - https://www.supertranslate.ai <sub>⭐ 217 · Jupyter Notebook</sub>
+- [vivek3141/dl-visualization](https://github.com/vivek3141/dl-visualization) - アニメーションのソースコードをシリーズ「深層学習」で作成します。 <sub>⭐ 217 · Jupyter Notebook</sub>
+- [Eyeline-Labs/CineScale](https://github.com/Eyeline-Labs/CineScale) - チューニングフリー4Kビデオ生成 <sub>⭐ 215 · Python</sub>
+- [PKU-YuanGroup/ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) - (NeurIPS 2024 D&B Spotlight) ChronoMagic-Bench: テキスト・ツー・タイムラプス映像生成のメタモルフィック評価のためのベンチマーク <sub>⭐ 213 · Python</sub>
+- [yrcong/STTran](https://github.com/yrcong/STTran) - ダイナミックシーングラフ生成、ICCV2021のための空間的一時的なトランス <sub>⭐ 213 · Jupyter Notebook</sub>
+- [lucidrains/recurrent-interface-network-pytorch](https://github.com/lucidrains/recurrent-interface-network-pytorch) - Pytorch では、キャスケーディング ネットワークなしで非常に効率的な画像とビデオのリカレントインターフェイスネットワーク(RIN)の実施 <sub>⭐ 210 · Python</sub>
+- [AI-Efficiency/Awesome-Efficient-Diffusion](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) - 画像、ビデオ、世界モデリング、言語生成のための効率的な拡散モデルに関する論文とコードのキュレーションリスト。 加速、量子化、圧縮、キャッシングおよび蒸留をカバーします。 <sub>⭐ 209</sub>
+- [Doriandarko/sora-mcp](https://github.com/Doriandarko/sora-mcp) - Sora ビデオ生成 API を使用する MCP サーバー <sub>⭐ 209 · TypeScript</sub>
+- [aHapBean/VideoREPA](https://github.com/aHapBean/VideoREPA) - (NeurIPS 2025) VideoREPA: 財団モデルと地域的なアライメントによるビデオ生成の学習物理 <sub>⭐ 208 · Python</sub>
+- [alibaba/identity-grpo](https://github.com/alibaba/identity-grpo) - Identity-GRPO: 強化学習によるビデオ生成を最適化する <sub>⭐ 208 · Python</sub>
+- [JeffWang987/WorldDreamer](https://github.com/JeffWang987/WorldDreamer) - WorldDreamer: マスクされたトークンを予測することにより、ビデオ生成の一般世界モデルへ <sub>⭐ 208</sub>
+- [Vchitect/DCM](https://github.com/Vchitect/DCM) - (ICCV2025) DCM: 効率的で高品質のビデオ生成のためのデュアルエキスパート一貫性モデル <sub>⭐ 207 · Python</sub>
+- [kasturibuilds/generative-loaders](https://github.com/kasturibuilds/generative-loaders) - ジェネレーションインターフェイスのアクセシブルな React 読み込み状態:テキスト、インラインアクティビティ、画像生成をストリーム化します。 <sub>⭐ 204 · TypeScript</sub>
+- [winyunq/UnrealMotionGraphicsMCP](https://github.com/winyunq/UnrealMotionGraphicsMCP) - UE5-UMG-MCP:Unreal Engine UMGのレイアウトに深く焦点を絞ったMCP。UI構造、アニメーションおよび青写真の精度を優先することによって限られたコンテキストウィンドウ内のAI効率を最大化するように設計されました... <sub>⭐ 204 · C++</sub>
+- [Anil-matcha/awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) - AIビデオ生成モデルの最も完全で最新の比較 - どのモデルを経由して、そのAPI、価格と速度。 <sub>⭐ 199</sub>
+- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: 影響力のあるマルチモーダルトランスモデルを使用してビデオから適切な音楽生成 <sub>⭐ 198 · Python</sub>
+- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - (ECCV 2026 オーラル) 「OmniForcing: リアルタイムの共同オーディオビジュアル生成を解除」の公式実装(arXiv:2603.11647)。 OmniForcingは、二方向性を蒸留するための最初のフレームワークです... <sub>⭐ 198 · Python</sub>
+- [evalcrafter/EvalCrafter](https://github.com/evalcrafter/EvalCrafter) - (CVPR 2024) EvalCrafter: ベンチマーキングと大規模なビデオ生成モデルの評価 <sub>⭐ 196 · Jupyter Notebook</sub>
+- [dc-ai-projects/DC-VideoGen](https://github.com/dc-ai-projects/DC-VideoGen) - DC-VideoGen: ディープコンプレッションビデオオートエンコーダによる効率的な映像生成 <sub>⭐ 195</sub>
+- [BarneyD66/clipmivo-tools](https://github.com/BarneyD66/clipmivo-tools) - ClipmivoAIのビデオ生成ツール:REST API、CLI、ローカルMCPサーバーおよびエージェントスキル。 <sub>⭐ 193 · JavaScript</sub>
 
 ## 🖥️ レンダー、マテリアル、エンジン
 
 > ニューラルレンダリング、マテリアル、Unreal、Houdiniなどとの連携。
 
-- [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research <sub>⭐ 18.5k · C++</sub>
-- [Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System - Linly-Talker. Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction… <sub>⭐ 3.5k · Python</sub>
-- [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - Resources of Neural Rendering <sub>⭐ 2.4k</sub>
-- [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) - Run DLSS 5 Neural Rendering on your AMD GPU. Magic! <sub>⭐ 2.2k</sub>
-- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP). <sub>⭐ 2.1k · C++</sub>
-- [MixLabPro/comfyui-mixlab-nodes](https://github.com/MixLabPro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS <sub>⭐ 1.9k · JavaScript</sub>
-- [microsoft/mattergen](https://github.com/microsoft/mattergen) - Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property… <sub>⭐ 1.8k · Python</sub>
-- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy <sub>⭐ 1.4k · Python</sub>
-- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills)… <sub>⭐ 1.3k · Python</sub>
-- [julrog/nn_vis](https://github.com/julrog/nn_vis) - A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation. <sub>⭐ 1.2k · Python</sub>
-- [flopperam/unreal-engine-mcp](https://github.com/flopperam/unreal-engine-mcp) - This MCP is now owned by Aura! Please try out the most intelligent AI agent for Unreal Engine at https://www.tryaura.dev/?utm_source=youtube&utm_medium=video&utm_campaign=flop <sub>⭐ 1.1k · C++</sub>
-- [jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder) - DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device. <sub>⭐ 1.0k · C++</sub>
-- [microsoft/renderformer](https://github.com/microsoft/renderformer) - Official Code Release for (SIGGRAPH 2025) RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination <sub>⭐ 974 · Python</sub>
-- [nv-tlabs/nglod](https://github.com/nv-tlabs/nglod) - Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes (CVPR 2021 Oral) <sub>⭐ 925 · Python</sub>
-- [Natfii/UnrealClaude](https://github.com/Natfii/UnrealClaude) - Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor. <sub>⭐ 907 · C++</sub>
-- [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) - A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++. <sub>⭐ 902 · C++</sub>
-- [Kizzuwatnaa/DLSS5-Autopilot](https://github.com/Kizzuwatnaa/DLSS5-Autopilot) - Puts DLSS 5 neural rendering into games that never shipped it, and brings the game's own DLSS up to date - super resolution, ray reconstruction, frame generation. Scans your library, picks one of… <sub>⭐ 820 · Python</sub>
-- [megvii-research/IJCAI2023-CoNR](https://github.com/megvii-research/IJCAI2023-CoNR) - IJCAI2023 - Collaborative Neural Rendering using Anime Character Sheets <sub>⭐ 805 · Jupyter Notebook</sub>
-- [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR) - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original. <sub>⭐ 775 · JavaScript</sub>
-- [KellanM/OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal) - Integration for the OpenAI Api in Unreal Engine <sub>⭐ 771 · C++</sub>
-- [ShyVortex/dlss-unlocked](https://github.com/ShyVortex/dlss-unlocked) - Unlock DLSS Upscaler, Multi-Frame Generation (MFG) and DLSS Neural Rendering features on any NVIDIA RTX GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. <sub>⭐ 731 · Rich Text Format</sub>
-- [kevinpbuckley/VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool <sub>⭐ 714 · C++</sub>
-- [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Claude Opus/Sonnet, Gemini 3, Grok 4, Alibaba Qwen, Kimi, ElevenLabs TTS, Inworld, OpenRouter, Groq, GLM… <sub>⭐ 650 · C++</sub>
-- [RenYurui/PIRender](https://github.com/RenYurui/PIRender) - The source code of the ICCV2021 paper "PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering" <sub>⭐ 550 · Python</sub>
-- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - (CVPR2024) NeuRAD: Neural Rendering for Autonomous Driving <sub>⭐ 504 · Python</sub>
-- [ximinng/PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender) - SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing. <sub>⭐ 495 · Python</sub>
-- [Jiawei-Yang/FreeNeRF](https://github.com/Jiawei-Yang/FreeNeRF) - (CVPR23) FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization <sub>⭐ 477 · Python</sub>
-- [VedantRGosavi/UE5-MCP](https://github.com/VedantRGosavi/UE5-MCP) - MCP for Unreal Engine 5 <sub>⭐ 430</sub>
-- [nv-tlabs/diffusion-renderer](https://github.com/nv-tlabs/diffusion-renderer) - (CVPR'25 Oral) Official implementation for "DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models" <sub>⭐ 427 · Python</sub>
-- [zzzyuqing/DreamMat](https://github.com/zzzyuqing/DreamMat) - (SIGGRAPH2024) DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models <sub>⭐ 400 · Python</sub>
-- [zhaofuq/Instant-NSR](https://github.com/zhaofuq/Instant-NSR) - Human Performance Modeling and Rendering via Neural Animated Mesh (Published in SIGGRAPH Asia 2022) <sub>⭐ 392 · C++</sub>
-- [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp) - Complete Unreal Engine development toolkit exposed as MCP tools. <sub>⭐ 377 · C++</sub>
-- [city-super/MatrixCity](https://github.com/city-super/MatrixCity) - (ICCV 2023) MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond. <sub>⭐ 373 · Python</sub>
-- [3zwr1/AMD-NR---OptiScaler](https://github.com/3zwr1/AMD-NR---OptiScaler) - DLSS 5 Neural Rendering on AMD GPUs, built into OptiScaler: model interleave, residual composition, XeSS frame generation up to 6X, FSR Ray Regeneration. Discord: https://discord.gg/AMDNR · Ko-fi… <sub>⭐ 370 · C++</sub>
-- [Kazama-Suichiku/Houdini-Agent](https://github.com/Kazama-Suichiku/Houdini-Agent) - Houdini Agent - DCC Asset Manager with AI capabilities <sub>⭐ 360 · Python</sub>
-- [groundboxerrespect/Dlls5-auto](https://github.com/groundboxerrespect/Dlls5-auto) - Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style… <sub>⭐ 357 · Python</sub>
-- [quodsoler/unreal-engine-skills](https://github.com/quodsoler/unreal-engine-skills) - Unreal Engine C++ skills for AI coding agents. 27 skills covering gameplay, rendering, networking, animation, and more. Works with Claude Code, Cursor, Windsurf, and any agent supporting the Agent… <sub>⭐ 356</sub>
-- [ICTMCG/Make-Your-Anchor](https://github.com/ICTMCG/Make-Your-Anchor) - (CVPR 2024) Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework. <sub>⭐ 355 · Python</sub>
-- [wohlert/generative-query-network-pytorch](https://github.com/wohlert/generative-query-network-pytorch) - Generative Query Network (GQN) in PyTorch as described in "Neural Scene Representation and Rendering" <sub>⭐ 322 · Jupyter Notebook</sub>
-- [tumourlove/monolith](https://github.com/tumourlove/monolith) - MCP plugin for Unreal Engine 5.7 & 5.8 — gives AI assistants full read/write access to Blueprints, Materials, Niagara, Animation, Mesh, AI, GAS, Logic Driver, ComboGraph, UI, Audio, plus Reflection… <sub>⭐ 321 · C++</sub>
-- [Kai-46/IRON](https://github.com/Kai-46/IRON) - Inverse rendering by optimizing neural SDF and materials from photometric images <sub>⭐ 305 · Python</sub>
-- [TornLux/UnrealBridge](https://github.com/TornLux/UnrealBridge) - Typed control surface for Unreal Engine that lets AI agents introspect assets, author Blueprints/AnimBPs, and edit levels — with reactive events and undoable writes. <sub>⭐ 304 · C++</sub>
-- [NIGos/dlss5-bridge](https://github.com/NIGos/dlss5-bridge) - DLSS 5 Neural Rendering in DirectX 11 and Vulkan games, and optionally in games with no DLSS via NVIDIA Optical Flow (lower quality). A ReShade add-on. <sub>⭐ 303 · C++</sub>
-- [SSRSGJYD/NeuralTexture](https://github.com/SSRSGJYD/NeuralTexture) - Unofficial implementation of the paper "Deferred Neural Rendering: Image Synthesis using Neural Textures" in Pytorch. <sub>⭐ 279 · Python</sub>
-- [fraunhoferhhi/neural-deferred-shading](https://github.com/fraunhoferhhi/neural-deferred-shading) - Multi-View Mesh Reconstruction with Neural Deferred Shading (CVPR 2022) <sub>⭐ 274 · Python</sub>
-- [google-deepmind/gqn-datasets](https://github.com/google-deepmind/gqn-datasets) - Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper. <sub>⭐ 274 · Python</sub>
-- [healkeiser/fxhoudinimcp](https://github.com/healkeiser/fxhoudinimcp) - The most comprehensive MCP server for SideFX Houdini. <sub>⭐ 272 · Python</sub>
-- [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - (ICRA 2025) Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems <sub>⭐ 272 · C++</sub>
-- [VSZue/DonAINavigation](https://github.com/VSZue/DonAINavigation) - This plugin provides a 3D dynamic pathfinding system for use with Unreal Engine 4. It's primarly designed for Flying AI creatures based in dynamic or procedural worlds that need to solve complex… <sub>⭐ 271 · C++</sub>
-- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 Neural Rendering (NGX feature 18) as ComfyUI nodes. Enhance image batches and video files with the real neural renderer, with optional upscaling. <sub>⭐ 266 · Python</sub>
-- [ingra14m/Awesome-Inverse-Rendering](https://github.com/ingra14m/Awesome-Inverse-Rendering) - A collection of papers on neural field-based inverse rendering. <sub>⭐ 261</sub>
-- [DNA-Rendering/DNA-Rendering](https://github.com/DNA-Rendering/DNA-Rendering) - DNA-RENDERING: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering <sub>⭐ 258 · Python</sub>
-- [affige/DeepMIR](https://github.com/affige/DeepMIR) - Teaching material for the course "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University <sub>⭐ 249</sub>
-- [PJLab-ADG/OASim](https://github.com/PJLab-ADG/OASim) - OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving <sub>⭐ 249 · Python</sub>
-- [thomasneff/AdaNeRF](https://github.com/thomasneff/AdaNeRF) - AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields <sub>⭐ 244 · C++</sub>
-- [JuewenPeng/BokehMe](https://github.com/JuewenPeng/BokehMe) - BokehMe: When Neural Rendering Meets Classical Rendering (CVPR 2022 Oral) <sub>⭐ 236 · Python</sub>
-- [Yazdi9/Talking_Face_Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - Avatar Generation For Characters and Game Assets Using Deep Fakes <sub>⭐ 236 · Jupyter Notebook</sub>
-- [ogroth/tf-gqn](https://github.com/ogroth/tf-gqn) - Tensorflow implementation of Neural Scene Representation and Rendering <sub>⭐ 230 · Python</sub>
-- [PRQELT/Autonomix](https://github.com/PRQELT/Autonomix) - AI Developer for Unreal Engine — An autonomous AI agent that creates Blueprints, C++, levels, materials, widgets, and more inside the UE5 editor via natural language. <sub>⭐ 217 · C++</sub>
-- [Boese0601/RC-MVSNet](https://github.com/Boese0601/RC-MVSNet) - (ECCV 2022) RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering <sub>⭐ 216 · Python</sub>
-- [Comfy-Org/comfy-skills](https://github.com/Comfy-Org/comfy-skills) - Comfy Cloud product skills: slash commands for generating images, video, audio, and 3D with Comfy Cloud agents. Single source of truth for the installer and MCP server. <sub>⭐ 215</sub>
-- [softdaddy-o/soft-ue-cli](https://github.com/softdaddy-o/soft-ue-cli) - Python CLI + UE plugin that lets Claude Code (AI coding agent) control Unreal Engine in real time. Spawn actors, edit blueprints, call functions, capture screenshots, manage PIE sessions, and more… <sub>⭐ 214 · C++</sub>
-- [ZebinHe/MaterialMVP](https://github.com/ZebinHe/MaterialMVP) - MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion <sub>⭐ 208 · Python</sub>
+- [microsoft/AirSim](https://github.com/microsoft/AirSim) - マイクロソフトAI及び研究からのUnreal Engine/Unityで造られる自動騒音車のためのオープンソースのシミュレーター <sub>⭐ 18.5k · C++</sub>
+- [Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker) - デジタルアバター会話システム - リンリー・トークナー。 Linly-Talkerは、大規模な言語モデル(LLM)と視覚的なモデルを組み合わせたインテリジェントなAIシステムで、新しい人間AIの相互作用を作成しています... <sub>⭐ 3.5k · Python</sub>
+- [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - 神経レンダリングのリソース <sub>⭐ 2.4k</sub>
+- [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) - AMD GPUでDLSS 5ニューラルレンダリングを実行します。 マジック! <sub>⭐ 2.2k</sub>
+- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Cursor、Windsurf、Claude DesktopなどのAIアシスタントクライアントを有効にして、モデルコンテキストプロトコル(MCP)を使用して自然言語で Unreal Engineを制御することができます。 <sub>⭐ 2.1k · C++</sub>
+- [MixLabPro/comfyui-mixlab-nodes](https://github.com/MixLabPro/comfyui-mixlab-nodes) - ワークフローアプリ、画面共有&フローティングビデオ、GPTと3D、SpeechRecognition&TTS <sub>⭐ 1.9k · JavaScript</sub>
+- [microsoft/mattergen](https://github.com/microsoft/mattergen) - 無機材料の設計のためのジェネレーションモデルであるMterGenの公式実装。幅広い特性に対する世代を突き刺すために微調整できる定期的なテーブル <sub>⭐ 1.8k · Python</sub>
+- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - あらゆる面をビデオゲームキャラクター、ピクセルアート、粘土質、3Dまたはおもちゃに変えて下さい <sub>⭐ 1.4k · Python</sub>
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - AI のコーディングエージェントのための74のゲーム開発スキル — Godot、Unity、Unreal、Phaser、PixiJS、3.js、Bevy、pygame、LVEÖ、Roblox。ポータブルSKILL.mdスキルエージェント(Claude Skillsとして起動されたフォーマット)... <sub>⭐ 1.3k · Python</sub>
+- [julrog/nn_vis](https://github.com/julrog/nn_vis) - ニューラルネットワークの処理とレンダリングのためのプロジェクトで、モデルのアーキテクチャやパラメータに関する洞察を得るための決定的な表現。 <sub>⭐ 1.2k · Python</sub>
+- [flopperam/unreal-engine-mcp](https://github.com/flopperam/unreal-engine-mcp) - このMCPはAuraによって所有されています! https://www.tryaura.dev/?utm_source=youtube&utm_medium=video&utm_campaign=flopでUnreal Engineの最もインテリジェントなAIエージェントを試してください <sub>⭐ 1.1k · C++</sub>
+- [jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder) - D3D11/D12/Vulkan で、DLSS なしで出荷するゲームでは DLSS 5 のニューラルレンダリング — プライベート D3D12 デバイスを介して DLSS 5 アドオンに合成 DLAA 契約 (ReShadedepth + モーションベクター) をフィードします。 <sub>⭐ 1.0k · C++</sub>
+- [microsoft/renderformer](https://github.com/microsoft/renderformer) - (SIGGRAPH 2025) RenderFormer の公式コードリリース:トランスベースのニューラルレンダリングとグローバルイルミネーション <sub>⭐ 974 · Python</sub>
+- [nv-tlabs/nglod](https://github.com/nv-tlabs/nglod) - 詳細の神経幾何学的レベル:インプリシット3D形状(CVPR 2021経口)でリアルタイムレンダリング <sub>⭐ 925 · Python</sub>
+- [Natfii/UnrealClaude](https://github.com/Natfii/UnrealClaude) - Unreal Engine 5.7用のClaude Code CLIの統合 - エディタで直接組み込みUE5.7ドキュメントコンテキストを使用してAIコーディング支援を取得します。 <sub>⭐ 907 · C++</sub>
+- [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) - ネイティブC++オートメーションブリッジプラグインにより、AIアシスタントが Unreal Engineを制御することを可能にする包括的なモデルコンテキストプロトコル(MCP)サーバー。 TypeScriptとC++で構築されています。 <sub>⭐ 902 · C++</sub>
+- [Kizzuwatnaa/DLSS5-Autopilot](https://github.com/Kizzuwatnaa/DLSS5-Autopilot) - DLSS 5のニューラルレンダリングを、出荷しないゲームに置き、ゲームの独自のDLSSを最新のものに - スーパーリゾリューション、レイ再構築、フレーム生成。 あなたのライブラリをスキャンし、いずれかを選択します... <sub>⭐ 820 · Python</sub>
+- [megvii-research/IJCAI2023-CoNR](https://github.com/megvii-research/IJCAI2023-CoNR) - IJCAI2023 - アニメキャラクターシートを使用したコラボニューラルレンダリング <sub>⭐ 805 · Jupyter Notebook</sub>
+- [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR) - NVIDIAのDLSS 5ニューラルレンダリングネットワークのVulkan再導入、オリジナルのビットエクスチェンジ。 <sub>⭐ 775 · JavaScript</sub>
+- [KellanM/OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal) - Unreal EngineでOpenAI Apiの統合 <sub>⭐ 771 · C++</sub>
+- [ShyVortex/dlss-unlocked](https://github.com/ShyVortex/dlss-unlocked) - DLSS Upscaler、マルチフレーム生成(MFG)およびDLSS Neural Rendering機能をネイティブでサポートするDirectX 12のゲームのNVIDIA RTX GPUにロック解除します。 <sub>⭐ 731 · Rich Text Format</sub>
+- [kevinpbuckley/VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unrealエンジンバイブコーディングツール <sub>⭐ 714 · C++</sub>
+- [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - LLM/GenAIモデルとMCP UE5サーバー用のUnreal Engineプラグイン。 OpenAI GPT-5、Deepseek R1、Claude Opus / Sonnet、Gemini 3、Grok 4、Alibaba Qwen、Kimi、ElevenLabs TTS、Inworld、OpenRouter、Grq、GLM... <sub>⭐ 650 · C++</sub>
+- [RenYurui/PIRender](https://github.com/RenYurui/PIRender) - ICCV2021紙「PIRenderer:セマンティックニューラルレンダリングによる制御可能な肖像画生成」のソースコード <sub>⭐ 550 · Python</sub>
+- [georghess/neurad-studio](https://github.com/georghess/neurad-studio) - (CVPR2024) NeuRAD:自動運転のための神経レンダリング <sub>⭐ 504 · Python</sub>
+- [ximinng/PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender) - SVG の異なるレンダリング:ニューラルネットワークを使用してベクトルグラフィックを生成します。サポート:テキストからSVG、画像にSVG、SVG 編集。 <sub>⭐ 495 · Python</sub>
+- [Jiawei-Yang/FreeNeRF](https://github.com/Jiawei-Yang/FreeNeRF) - (CVPR23) FreeNeRF:フリー周波数正規化で少数のシュートニューラルレンダリングの改善 <sub>⭐ 477 · Python</sub>
+- [VedantRGosavi/UE5-MCP](https://github.com/VedantRGosavi/UE5-MCP) - 非現実的なエンジンのためのMCP 5 <sub>⭐ 430</sub>
+- [nv-tlabs/diffusion-renderer](https://github.com/nv-tlabs/diffusion-renderer) - (CVPR'25 オーラル) 「DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Model」の公式実装 <sub>⭐ 427 · Python</sub>
+- [zzzyuqing/DreamMat](https://github.com/zzzyuqing/DreamMat) - (SIGGRAPH2024) DreamMat: GeometryとLight-aware Diffusionモデルを用いた高品質のPBR素材生成 <sub>⭐ 400 · Python</sub>
+- [zhaofuq/Instant-NSR](https://github.com/zhaofuq/Instant-NSR) - ネラルアニメーションメッシュによるヒューマンパフォーマンスモデリングとレンダリング(SIGGRAPH Asia 2022に掲載されました) <sub>⭐ 392 · C++</sub>
+- [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp) - MCP ツールとして公開されている完全非現実エンジン開発ツールキット。 <sub>⭐ 377 · C++</sub>
+- [city-super/MatrixCity](https://github.com/city-super/MatrixCity) - (ICCV 2023) マトリクスシティ:都市規模のニューラル・レンダリングとそれを超える大規模市街地データセット <sub>⭐ 373 · Python</sub>
+- [3zwr1/AMD-NR---OptiScaler](https://github.com/3zwr1/AMD-NR---OptiScaler) - DLSS 5 AMD GPUの神経レンダリング, OptiScalerに組み込まれて: モデルインターリーブ, 残留組成, XeSSフレーム生成 最大6X, FSR Ray再生. Discord: https://discord.gg/AMDNR・Ko-fi... <sub>⭐ 370 · C++</sub>
+- [Kazama-Suichiku/Houdini-Agent](https://github.com/Kazama-Suichiku/Houdini-Agent) - Houdini エージェント - DCCアセットマネージャー、AI機能 <sub>⭐ 360 · Python</sub>
+- [groundboxerrespect/Dlls5-auto](https://github.com/groundboxerrespect/Dlls5-auto) - DLSS5に触発された自己ホスト型ニューラルレンダリング&AI画像拡張サービス。 写真、スクリーンショットまたはゲームキャプチャをフォトリアルシネマティックレンダーにします - 花咲く、映画的なトーンマッピング、6スタイル... <sub>⭐ 357 · Python</sub>
+- [quodsoler/unreal-engine-skills](https://github.com/quodsoler/unreal-engine-skills) - AIコーディングエージェントのUnreal Engine C++スキル。ゲームプレイ、レンダリング、ネットワーク化、アニメーションなどに関する27スキル。Claudeコード、カーソル、ウィンドサーフィン、およびエージェントがサポートするエージェントと連携します。 <sub>⭐ 356</sub>
+- [ICTMCG/Make-Your-Anchor](https://github.com/ICTMCG/Make-Your-Anchor) - (CVPR 2024) Make-Your-Anchor: 拡散ベースの2Dアバター生成フレームワーク。 <sub>⭐ 355 · Python</sub>
+- [wohlert/generative-query-network-pytorch](https://github.com/wohlert/generative-query-network-pytorch) - PyTorchのジェネレーション・クエリ・ネットワーク(GQN)は、「ニューラルシーン表現とレンダリング」で説明しています。 <sub>⭐ 322 · Jupyter Notebook</sub>
+- [tumourlove/monolith](https://github.com/tumourlove/monolith) - Unreal Engine 5.7と5.8用のMCPプラグイン — AIアシスタントは、Blueprints、Material、Niagara、Animation、Mesh、AI、GAS、Logic Driver、ComboGraph、UI、Audio、およびReflection... <sub>⭐ 321 · C++</sub>
+- [Kai-46/IRON](https://github.com/Kai-46/IRON) - ニューラルSDFとフォトメトリック画像の材料を最適化することにより、インバースレンダリング <sub>⭐ 305 · Python</sub>
+- [TornLux/UnrealBridge](https://github.com/TornLux/UnrealBridge) - AIエージェントがアセット、Blueprints/AnimBP をイントロスペクトし、レベルを編集する Unreal Engine 用のタイプされた制御面。反応イベントと不可解な書き込みが可能です。 <sub>⭐ 304 · C++</sub>
+- [NIGos/dlss5-bridge](https://github.com/NIGos/dlss5-bridge) - DLSS 5 DirectX 11およびVulkanゲームにおける神経レンダリング、NVIDIAオプティカルフロー(低品質)によるDLSS無しのゲームでオプション。 ReShadeアドオン。 <sub>⭐ 303 · C++</sub>
+- [SSRSGJYD/NeuralTexture](https://github.com/SSRSGJYD/NeuralTexture) - ピトルチの「ニューラルテクスチャを用いた画像合成」を非公式に実装。 <sub>⭐ 279 · Python</sub>
+- [fraunhoferhhi/neural-deferred-shading](https://github.com/fraunhoferhhi/neural-deferred-shading) - ニューラル・デファードシェーディング(CVPR 2022)によるマルチビューメッシュ再建 <sub>⭐ 274 · Python</sub>
+- [google-deepmind/gqn-datasets](https://github.com/google-deepmind/gqn-datasets) - 「ニューラルシーン表現とレンダリング」紙のジェネレーションクエリネットワーク(GQN)を訓練するために使用されるデータセット。 <sub>⭐ 274 · Python</sub>
+- [healkeiser/fxhoudinimcp](https://github.com/healkeiser/fxhoudinimcp) - SideFX Houdini の MCP サーバーは、最も包括的な MCP サーバーです。 <sub>⭐ 272 · Python</sub>
+- [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - (ICRA 2025) 神経表面再建とLiDAR仮想システム用レンダリング <sub>⭐ 272 · C++</sub>
+- [VSZue/DonAINavigation](https://github.com/VSZue/DonAINavigation) - このプラグインは、Unreal Engine 4 で使用するための 3D 動的経路探索システムを提供します。 これは、複雑な問題を解決するために必要なダイナミックまたは手続き型世界に基づいて Flying AI の生き物のために特別に設計されています... <sub>⭐ 271 · C++</sub>
+- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 Neural Rendering (NGX 機能 18) は、ComfyUI ノードとして動作します。 イメージのバッチとビデオファイルを実際のニューラル・レンダラーで強化し、オプションのアップスケーリングを実現します。 <sub>⭐ 266 · Python</sub>
+- [ingra14m/Awesome-Inverse-Rendering](https://github.com/ingra14m/Awesome-Inverse-Rendering) - ニューラルフィールドベースのインバースレンダリングに関する論文集。 <sub>⭐ 261</sub>
+- [DNA-Rendering/DNA-Rendering](https://github.com/DNA-Rendering/DNA-Rendering) - DNA-RENDERING:高忠実度人間中心のレンダリングのための多様な神経学的俳優リポジトリ <sub>⭐ 258 · Python</sub>
+- [affige/DeepMIR](https://github.com/affige/DeepMIR) - 教育教材「音楽分析と世代のディープラーニング」を台湾国立大学で教えました。 <sub>⭐ 249</sub>
+- [PJLab-ADG/OASim](https://github.com/PJLab-ADG/OASim) - OASim:自動運転のための神経レンダリングに基づくオープンおよび適応シミュレータ <sub>⭐ 249 · Python</sub>
+- [thomasneff/AdaNeRF](https://github.com/thomasneff/AdaNeRF) - AdaNeRF: 神経放射線領域のリアルタイムレンダリングのための適応型サンプリング <sub>⭐ 244 · C++</sub>
+- [JuewenPeng/BokehMe](https://github.com/JuewenPeng/BokehMe) - BokehMe:ニューラルレンダリングが古典的なレンダリングに会うとき(CVPR 2022経口) <sub>⭐ 236 · Python</sub>
+- [Yazdi9/Talking_Face_Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - ディープフォークを用いたキャラクターやゲームアセットのアバター生成 <sub>⭐ 236 · Jupyter Notebook</sub>
+- [ogroth/tf-gqn](https://github.com/ogroth/tf-gqn) - 神経シーン表現とレンダリングのTensorflow実装 <sub>⭐ 230 · Python</sub>
+- [PRQELT/Autonomix](https://github.com/PRQELT/Autonomix) - AI開発者がUnreal Engine — Blueprints、C++、レベル、マテリアル、ウィジェットなどを自然言語でUE5エディタ内で作成する自律的なAIエージェントです。 <sub>⭐ 217 · C++</sub>
+- [Boese0601/RC-MVSNet](https://github.com/Boese0601/RC-MVSNet) - (ECCV 2022) RC-MVSNet:ニューラルレンダリングによるマルチビューステレオ <sub>⭐ 216 · Python</sub>
+- [Comfy-Org/comfy-skills](https://github.com/Comfy-Org/comfy-skills) - Comfy Cloud 製品スキル:Comfy Cloud エージェントで画像、ビデオ、オーディオ、3D を生成するためのスラッシュコマンド。インストーラと MCP サーバーの真理の単一ソース。 <sub>⭐ 215</sub>
+- [softdaddy-o/soft-ue-cli](https://github.com/softdaddy-o/soft-ue-cli) - Python CLI + UEプラグインで、Claude Code(AIコーディングエージェント)がリアルタイムでUnreal Engineを制御できます。 スパンドアクター、ブループリントの編集、コール機能、スクリーンショットのキャプチャ、PIEセッションの管理など... <sub>⭐ 214 · C++</sub>
+- [ZebinHe/MaterialMVP](https://github.com/ZebinHe/MaterialMVP) - MaterialMVP:マルチビューPBR拡散によるイルミネーション・インヴァリアント材料生成 <sub>⭐ 208 · Python</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#-モーションデザイナーと3dアーティストのai) · [← 職種別のAIリポジトリ](./README.md)

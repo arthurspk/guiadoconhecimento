@@ -20,1026 +20,1026 @@
 
 > 작곡과 음악 생성을 위한 모델과 도구.
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. <sub>⭐ 49.4k · Go</sub>
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable… <sub>⭐ 23.7k · Jupyter Notebook</sub>
-- [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices. <sub>⭐ 13.0k · Python</sub>
-- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. <sub>⭐ 10.7k · Python</sub>
-- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio… <sub>⭐ 10.3k · Python</sub>
-- [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! <sub>⭐ 5.0k · JavaScript</sub>
-- [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model <sub>⭐ 4.9k · Python</sub>
-- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation <sub>⭐ 3.9k · Python</sub>
-- [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) - HeartMuLa Official Repo: The Most Powerful Open-Source Music Generation Model of 2026 <sub>⭐ 3.7k · Python</sub>
-- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch <sub>⭐ 3.3k · Python</sub>
-- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet… <sub>⭐ 3.3k · TypeScript</sub>
-- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs. <sub>⭐ 3.2k · TypeScript</sub>
-- [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python… <sub>⭐ 3.2k · C++</sub>
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP <sub>⭐ 3.1k · Python</sub>
-- [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano! <sub>⭐ 2.9k · Python</sub>
-- [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API <sub>⭐ 2.7k · Jupyter Notebook</sub>
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and… <sub>⭐ 2.7k · Python</sub>
-- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app) <sub>⭐ 2.7k · TypeScript</sub>
-- [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation <sub>⭐ 2.6k · Python</sub>
-- [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Di Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion <sub>⭐ 2.3k · Python</sub>
-- [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax. <sub>⭐ 2.2k · TypeScript</sub>
-- [magenta/magenta-js](https://github.com/magenta/magenta-js) - Magenta.js: Music and Art Generation with Machine Learning in the browser <sub>⭐ 2.1k · TypeScript</sub>
-- [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation <sub>⭐ 2.0k · Python</sub>
-- [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology <sub>⭐ 1.8k</sub>
-- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. <sub>⭐ 1.7k · Zig</sub>
-- [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers <sub>⭐ 1.7k · Python</sub>
-- [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally <sub>⭐ 1.5k · Rust</sub>
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio… <sub>⭐ 1.4k · JavaScript</sub>
-- [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks <sub>⭐ 1.2k · Python</sub>
-- [ElectricAlexis/NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms <sub>⭐ 1.2k · Python</sub>
-- [CarlGao4/Demucs-Gui](https://github.com/CarlGao4/Demucs-Gui) - A GUI for music separation AI demucs <sub>⭐ 1.2k · Python</sub>
-- [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - AI Audio Datasets (AI-ADS) , including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio… <sub>⭐ 970</sub>
-- [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs <sub>⭐ 963 · Python</sub>
-- [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation. <sub>⭐ 960 · Python</sub>
-- [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D) - (CVPR 2025) MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation <sub>⭐ 951 · Python</sub>
-- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - + Build your music algorithms and AI models with the next-gen DAW <sub>⭐ 898 · Python</sub>
-- [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research <sub>⭐ 799</sub>
-- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation. <sub>⭐ 744 · Python</sub>
-- [umbrellabeach/music-generation-with-DL](https://github.com/umbrellabeach/music-generation-with-DL) - Resources on Music Generation with Deep Learning <sub>⭐ 729</sub>
-- [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer. <sub>⭐ 718 · Kotlin</sub>
-- [nextcloud/recognize](https://github.com/nextcloud/recognize) - Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres <sub>⭐ 699 · PHP</sub>
-- [Blizaine/Maestro](https://github.com/Blizaine/Maestro) - An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short films from a single prompt. Built on the WanGP pipeline. Install via Pinokio. <sub>⭐ 686 · Python</sub>
-- [tetherto/qvac](https://github.com/tetherto/qvac) - Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS… <sub>⭐ 661 · TypeScript</sub>
-- [fspecii/HeartMuLa-Studio](https://github.com/fspecii/HeartMuLa-Studio) - Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer <sub>⭐ 640 · TypeScript</sub>
-- [0xSojalSec/free-voice-clone](https://github.com/0xSojalSec/free-voice-clone) - List of all local & free open-source voice-clone TTS models and music generation models. <sub>⭐ 638</sub>
-- [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA Text-to-music (TTM) Generation <sub>⭐ 633 · Python</sub>
-- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp <sub>⭐ 633 · Python</sub>
-- [mlachmish/MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network. <sub>⭐ 608 · Python</sub>
-- [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020 <sub>⭐ 607 · Python</sub>
-- [AI-Guru/music-generation-research](https://github.com/AI-Guru/music-generation-research) - A straightforward collection of Music Generation research resources. <sub>⭐ 605</sub>
-- [BazedFrog/SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Clean, polished interface for Tencent’s SongGeneration. Create songs from text prompts or reference audio, with batch processing and smart model selection. Minimum Requirement: 10GB of VRAM <sub>⭐ 605 · JavaScript</sub>
-- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local LLM, image&video&music generator, vibecode like cursor with local models on your phone <sub>⭐ 602 · C++</sub>
-- [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - A complete and open application for automatic backing tracks generation. <sub>⭐ 594 · Java</sub>
-- [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications. <sub>⭐ 560 · Python</sub>
-- [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals lyrics and pitch from music to autogenerate Ultrastar Deluxe, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files. <sub>⭐ 546 · Python</sub>
-- [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc... <sub>⭐ 544 · Jupyter Notebook</sub>
-- [microsoft/Resource2Skill](https://github.com/microsoft/Resource2Skill) - A general framework for distilling human-created multimodal resources into reusable, executable skills that AI agents can browse, compose, and run, validated across diverse domains including web… <sub>⭐ 527 · Python</sub>
-- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools <sub>⭐ 526 · Python</sub>
-- [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation <sub>⭐ 524 · Python</sub>
-- [all-in-aigc/melodisco](https://github.com/all-in-aigc/melodisco) - AI Music Player <sub>⭐ 517 · TypeScript</sub>
-- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) - AudioMuse-AI Navidrome Plugin enhances music discovery by using sonic analysis to queue similar songs in real time. <sub>⭐ 516 · Go</sub>
-- [wildminder/awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) - List of open-source TTS, voice cloning, and music generation models <sub>⭐ 502</sub>
-- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity. <sub>⭐ 498</sub>
-- [guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) - A paper and project list about the cutting edge Speech Synthesis, Text-to-Speech (TTS), Singing Voice Synthesis (SVS), Voice Conversion (VC), Singing Voice Conversion (SVC), and related interesting… <sub>⭐ 494</sub>
-- [teticio/Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to *listen* to the music. <sub>⭐ 474 · Jupyter Notebook</sub>
-- [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - Audio Development Tools (ADT) is a project for advancing sound, speech, and music technologies, featuring components for machine learning, sound synthesis, speech and music generation, signal… <sub>⭐ 469</sub>
-- [youkaclub/youka-desktop](https://github.com/youkaclub/youka-desktop) - The Best Karaoke Maker <sub>⭐ 461</sub>
-- [modelscope/FunCodec](https://github.com/modelscope/FunCodec) - FunCodec is a research-oriented toolkit for audio quantization and downstream applications, such as text-to-speech synthesis, music generation et.al. <sub>⭐ 449 · Python</sub>
-- [benjiyaya/HeartMuLa_ComfyUI](https://github.com/benjiyaya/HeartMuLa_ComfyUI) - ComfyUI Custom Node for HeartMuLa AI Music Generation and Transcript Text <sub>⭐ 435 · Python</sub>
-- [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp) - Portable C++17 implementation of ACE-Step 1.5 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan. <sub>⭐ 429 · C++</sub>
-- [music-x-lab/POP909-Dataset](https://github.com/music-x-lab/POP909-Dataset) - This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation <sub>⭐ 411 · Python</sub>
-- [metame-ai/awesome-audio-plaza](https://github.com/metame-ai/awesome-audio-plaza) - Daily tracking of awesome audio papers, including music generation, zero-shot tts, asr, audio generation <sub>⭐ 410</sub>
-- [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) - Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update. <sub>⭐ 409 · TypeScript</sub>
-- [indrajithi/mgc-ai](https://github.com/indrajithi/mgc-ai) - Machine learning approach to classify music based on genres <sub>⭐ 401 · Python</sub>
-- [AceDataCloud/Nexior](https://github.com/AceDataCloud/Nexior) - Consumer AI app for chat, image generation, video generation, and music creation powered by Ace Data Cloud APIs. <sub>⭐ 398 · Vue</sub>
-- [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation <sub>⭐ 396 · Python</sub>
-- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - Midi event transformer for symbolic music generation <sub>⭐ 379 · Python</sub>
-- [kigner/audio.cpp-webui](https://github.com/kigner/audio.cpp-webui) - audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency. <sub>⭐ 374 · C++</sub>
-- [timoncool/ACE-Step-Studio](https://github.com/timoncool/ACE-Step-Studio) - Portable AI music generator — full songs with vocals, covers, music videos. One-click install, 100% offline, NVIDIA GPU. <sub>⭐ 372 · TypeScript</sub>
-- [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving. <sub>⭐ 366 · Python</sub>
-- [yihong0618/SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) - About High quality songs generation by https://www.suno.ai/. Reverse engineered API. <sub>⭐ 366 · Python</sub>
-- [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers! <sub>⭐ 357 · Max</sub>
-- [kennethnym/infinifi](https://github.com/kennethnym/infinifi) - infinifi plays gentle lofi music in the background indefinitely <sub>⭐ 344 · Python</sub>
-- [Conchylicultor/MusicGenerator](https://github.com/Conchylicultor/MusicGenerator) - Experiment diverse Deep learning models for music generation with TensorFlow <sub>⭐ 338 · Python</sub>
-- [wzk1015/video-bgm-generation](https://github.com/wzk1015/video-bgm-generation) - (ACM MM 2021 Best Paper Award) Video Background Music Generation with Controllable Music Transformer <sub>⭐ 327 · Python</sub>
-- [LiuZH-19/SongGen](https://github.com/LiuZH-19/SongGen) - (ICML 2025) SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation <sub>⭐ 319 · Python</sub>
-- [adamjmurray/producer-pal](https://github.com/adamjmurray/producer-pal) - AI music production assistant for Ableton Live <sub>⭐ 314 · TypeScript</sub>
-- [robinfriedli/aiode](https://github.com/robinfriedli/aiode) - Discord bot that plays Spotify tracks and YouTube videos or any URL including Soundcloud links and Twitch streams <sub>⭐ 314 · Java</sub>
-- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - AI-powered YouTube video dubbing pipeline. Automatically transcribes (Whisper), translates (Google), and generates neural dubbing (Edge-TTS) with smart audio-video synchronization and background… <sub>⭐ 304 · Python</sub>
-- [Stability-AI/stable-audio-metrics](https://github.com/Stability-AI/stable-audio-metrics) - Metrics for evaluating music and audio generative models – with a focus on long-form, full-band, and stereo generations. <sub>⭐ 304 · Python</sub>
-- [iuliandita/digarr](https://github.com/iuliandita/digarr) - Self-hosted music discovery for your library. Find artists and albums, review recommendations, and send them to Lidarr, slskd, or playlists. Bring your own AI provider or local model. Works without… <sub>⭐ 298 · TypeScript</sub>
-- [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation. <sub>⭐ 296 · Python</sub>
-- [MusicLang/musiclang_predict](https://github.com/MusicLang/musiclang_predict) - AI Prediction api of the MusicLang package <sub>⭐ 294 · Python</sub>
-- [carlosholivan/DeepLearningMusicGeneration](https://github.com/carlosholivan/DeepLearningMusicGeneration) - State of the Art of Music Generation with Deep Learning and AI <sub>⭐ 287</sub>
-- [musikalkemist/pytorchforaudio](https://github.com/musikalkemist/pytorchforaudio) - Code for the "PyTorch for Audio + Music Processing" series on The Sound of AI YouTube channel. <sub>⭐ 283 · Python</sub>
-- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source. <sub>⭐ 279 · Python</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [inclusionAI/Ming-omni-tts](https://github.com/inclusionAI/Ming-omni-tts) - Ming-omni-tts: Simple and Efficient Unified Generation of Speech, Music, and Sound with Precise Control <sub>⭐ 265 · Python</sub>
-- [gwinndr/MusicTransformer-Pytorch](https://github.com/gwinndr/MusicTransformer-Pytorch) - MusicTransformer written for MaestroV2 using the Pytorch framework for music generation <sub>⭐ 262 · Python</sub>
-- [69gg/Undefined](https://github.com/69gg/Undefined) - QQ bot platform with cognitive memory architecture and multi-agent Skills, via OneBot V11. <sub>⭐ 260 · Python</sub>
-- [wangchuxiaoji-oss/doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) - Reverse-engineered Doubao (豆包) API → OpenAI-compatible REST service. Free multimodal chat, image/video/music generation, and file hosting for AI agents. <sub>⭐ 256 · Python</sub>
-- [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) - Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms. <sub>⭐ 254</sub>
-- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get… <sub>⭐ 254</sub>
-- [chaosprint/RaveForce](https://github.com/chaosprint/RaveForce) - RaveForce - An OpenAI Gym style toolkit for music generation experiments. <sub>⭐ 252 · Python</sub>
-- [innermost47/ai-dj](https://github.com/innermost47/ai-dj) - AI music generation for live performance - Standalone (Ableton Link) + VST3/AU. 8 tracks, 9 AI models. It occasionally hallucinates. Not a song generator - you still have to do the work. Stay human. <sub>⭐ 252 · C++</sub>
-- [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model <sub>⭐ 251 · Python</sub>
-- [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World <sub>⭐ 251 · TypeScript</sub>
-- [affige/DeepMIR](https://github.com/affige/DeepMIR) - Teaching material for the course "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University <sub>⭐ 249</sub>
-- [pjlab-songcomposer/songcomposer](https://github.com/pjlab-songcomposer/songcomposer) - (ACL 2025 Main) SongComposer: A Large Language Model for Lyric and Melody Generation in Song Composition <sub>⭐ 248 · Python</sub>
-- [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - AI-Powered Playlist Generator for Navidrome Create intelligent, personalized playlists from your Navidrome music library using advanced AI curation. Features multi-library support, "This Is Artist"… <sub>⭐ 246 · Python</sub>
-- [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) - The self-hosted AI studio: local video, image, music, voice, LoRA training, coding swarms, RAG and screen agents on one GPU, driven from the Studio or by your coding agent (Claude Code, Cursor… <sub>⭐ 244 · Python</sub>
-- [joeljang/music2video](https://github.com/joeljang/music2video) - Making an AI-generated music video from any song with Wav2CLIP and VQGAN-CLIP <sub>⭐ 244 · Python</sub>
-- [PetrIvan/chord-seq-ai-app](https://github.com/PetrIvan/chord-seq-ai-app) - AI-powered chord progression suggester built with Next.js for composers and music enthusiasts. <sub>⭐ 243 · TypeScript</sub>
-- [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation <sub>⭐ 242 · Python</sub>
-- [williamzujkowski/live-coding-music-mcp](https://github.com/williamzujkowski/live-coding-music-mcp) - A Model Context Protocol (MCP) server that gives Claude direct control over Strudel.cc for AI-assisted music generation and live coding. <sub>⭐ 242 · TypeScript</sub>
-- [nganlinh4/oneclick-subtitles-generator](https://github.com/nganlinh4/oneclick-subtitles-generator) - Auto-subtitle videos with AI transcription, translation, voice cloning, professional rendering, background image and music generator <sub>⭐ 241 · JavaScript</sub>
-- [Snaiel/Godot4ThirdPersonCombatPrototype](https://github.com/Snaiel/Godot4ThirdPersonCombatPrototype) - A prototype project for third person combat. Contains basics for player movement, camera, animations, combat, enemy AI, user interface, sound effects, and background music. <sub>⭐ 239 · GDScript</sub>
-- [yanhanruan/Mutsumi](https://github.com/yanhanruan/Mutsumi) - Mutsumi (睦) : Lightweight AI desktop companion built with Tauri 2 and Rust, featuring global audio awareness, mini music controls, and AI character chat. <sub>⭐ 239 · Rust</sub>
-- [musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse) - Resources for the Generative Music AI Course on The Sound of AI YouTube channel. <sub>⭐ 235 · Jupyter Notebook</sub>
-- [iampawan/AI-Radio](https://github.com/iampawan/AI-Radio) - This is a radio app where you can ask Alan AI to play some music. <sub>⭐ 233 · C++</sub>
-- [aivrar/portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) - Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights. <sub>⭐ 231 · Python</sub>
-- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude… <sub>⭐ 231 · Python</sub>
-- [AaronZ345/VersBand](https://github.com/AaronZ345/VersBand) - PyTorch Implementation of VersBand(EMNLP 2025): Versatile Framework for Song Generation with Prompt-based Control <sub>⭐ 226 · Python</sub>
-- [Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) - An open ecosystem for music production. <sub>⭐ 225 · C++</sub>
-- [llSourcell/AI_For_Music_Composition](https://github.com/llSourcell/AI_For_Music_Composition) - This is the code for "AI for Music Composition" by Siraj Raval on Youtube <sub>⭐ 223 · Python</sub>
-- [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI <sub>⭐ 219 · Jupyter Notebook</sub>
-- [sfortis/openai_tts](https://github.com/sfortis/openai_tts) - Text-to-speech for Home Assistant from OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox or any server that implements the OpenAI speech API, with announcements that restore your volume and music. <sub>⭐ 219 · Python</sub>
-- [yukara-ikemiya/friendly-stable-audio-tools](https://github.com/yukara-ikemiya/friendly-stable-audio-tools) - Refactored / updated version of stable-audio-tools which is an open-source code for audio/music generative models originally by Stability AI. <sub>⭐ 218 · Python</sub>
-- [ayusshrathore/ai-saas](https://github.com/ayusshrathore/ai-saas) - An AI powered SaaS platform which enables the user to chat, generate images, videos, music, etc. <sub>⭐ 214 · TypeScript</sub>
-- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - + Build your music algorithms and AI models with the next-gen DAW <sub>⭐ 214 · TypeScript</sub>
-- [tsensei/OpenReels](https://github.com/tsensei/OpenReels) - Open-source AI pipeline that turns any topic into a publish-ready YouTube/Instagram/TikTok Short — research, script, voiceover, visuals, music, captions, and assembly in one command. <sub>⭐ 206 · TypeScript</sub>
-- [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music. These skills can be used by any skills-compatible agent, including… <sub>⭐ 203 · Python</sub>
-- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model <sub>⭐ 198 · Python</sub>
-- [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis <sub>⭐ 193 · Python</sub>
-- [smthemex/ComfyUI_YuE](https://github.com/smthemex/ComfyUI_YuE) - YuE is a groundbreaking series of open-source foundation models designed for music generation, specifically for transforming lyrics into full songs (lyrics2song). you can use it in comfyUI <sub>⭐ 193 · Python</sub>
-- [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - Links for music + machine learning <sub>⭐ 188</sub>
-- [RetroCirce/MusicLDM](https://github.com/RetroCirce/MusicLDM) - The latent diffusion model for text-to-music generation. <sub>⭐ 188 · Python</sub>
-- [RichardYang40148/MidiNet](https://github.com/RichardYang40148/MidiNet) - This repository contains the source code of MdidNet : A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation <sub>⭐ 186 · Python</sub>
-- [AMAAI-Lab/Text2midi](https://github.com/AMAAI-Lab/Text2midi) - Text2midi is the first end-to-end model for generating MIDI files from textual descriptions. By leveraging pretrained large language models and a powerful autoregressive transformer decoder… <sub>⭐ 184 · Python</sub>
-- [seehiong/noteflow](https://github.com/seehiong/noteflow) - NoteFlow Studio — a web-based music IDE and synthesizer. Compose multi-track songs in simple text notation, play via QWERTY or MIDI keyboard, record performances, and co-write with an AI assistant.… <sub>⭐ 184 · TypeScript</sub>
-- [flowese/UdioWrapper](https://github.com/flowese/UdioWrapper) - UdioWrapper is a Python package that enables the generation of music tracks using Udio's API through textual prompts. This package is based on the reverse engineering of the Udio API… <sub>⭐ 181 · Python</sub>
-- [kiecodes/generate-music](https://github.com/kiecodes/generate-music) - This repository belongs to the youtube video " Can AI make music?" (https://www.youtube.com/watch?v=aOsET8KapQQ) If you haven't seen it, please consider watching the video if you need a better… <sub>⭐ 178 · Python</sub>
-- [annahung31/EMOPIA](https://github.com/annahung31/EMOPIA) - Emotional conditioned music generation using transformer-based model. <sub>⭐ 175 · Jupyter Notebook</sub>
-- [CoffeeVampir3/audiocraft-webui](https://github.com/CoffeeVampir3/audiocraft-webui) - Quick webui for audiocraft <sub>⭐ 172 · Python</sub>
-- [shaopengw/Awesome-Music-Generation](https://github.com/shaopengw/Awesome-Music-Generation) - Awesome music generation model——MG² <sub>⭐ 167 · Python</sub>
-- [scragnog/HOT-Step-CPP](https://github.com/scragnog/HOT-Step-CPP) - Turn dials. Summon bangers! NOW WITH MORE C++! Local AI music generation powered by GGML <sub>⭐ 165 · C++</sub>
-- [L-YeZhu/CDCD](https://github.com/L-YeZhu/CDCD) - (ICLR2023) Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation (CDCD). <sub>⭐ 163 · Python</sub>
-- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ. <sub>⭐ 162 · C#</sub>
-- [ylacombe/musicgen-dreamboothing](https://github.com/ylacombe/musicgen-dreamboothing) - Fine-tune your own MusicGen with LoRA <sub>⭐ 162 · Jupyter Notebook</sub>
-- [toxtli/hum2song](https://github.com/toxtli/hum2song) - Hum2Song: Multi-track Polyphonic Music Generation from Voice Melody Transcription with Neural Networks <sub>⭐ 161 · JavaScript</sub>
-- [hoeci/sort-play](https://github.com/hoeci/sort-play) - A Spicetify extension that adds powerful sorting, filtering, UI features, and more to the Spotify desktop client. <sub>⭐ 156 · JavaScript</sub>
-- [Suno-API/Suno-API](https://github.com/Suno-API/Suno-API) - This is an unofficial Suno AI API based on Golang. It currently supports generating songs, lyrics, and OpenAI Chat <sub>⭐ 156 · Go</sub>
-- [calesthio/Resonant](https://github.com/calesthio/Resonant) - Free, local AI music studio for Windows—generate songs, play instruments, arrange, mix, export WAV, and connect Codex or Claude through MCP. <sub>⭐ 154 · TypeScript</sub>
-- [MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow) - SpatialFlow delivers a next-generation music experience on Android, blending online streaming, high-fidelity local playback, intelligent audio processing, and Material 3 Expressive design into a… <sub>⭐ 153 · Kotlin</sub>
-- [diStyApps/VisionCrafter](https://github.com/diStyApps/VisionCrafter) - Craft your visions <sub>⭐ 150 · Python</sub>
-- [AryanRogye/ComfyNotch](https://github.com/AryanRogye/ComfyNotch) - Turns your MacBook’s notch into a customizable HUD with widgets, AI chat, music, brightness, volume controls, and more Built for macOS 14+ with Swift. <sub>⭐ 149 · Swift</sub>
-- [filliptm/ComfyUI-FL-AceStep-Training](https://github.com/filliptm/ComfyUI-FL-AceStep-Training) - FL AceStep Training - LoRA training nodes for ACE-Step 1.5 music generation in ComfyUI <sub>⭐ 148 · Python</sub>
-- [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation <sub>⭐ 146 · TypeScript</sub>
-- [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) - Block AI-generated music on Spotify Web automatically using a community-maintained list. Runs in your browser with Tampermonkey, keeps your Spotify account free from AI artists, and updates daily. <sub>⭐ 144 · JavaScript</sub>
-- [inikolax/remiqora](https://github.com/inikolax/remiqora) - Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW. <sub>⭐ 140 · Vue</sub>
-- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time. <sub>⭐ 139 · C#</sub>
-- [ianshulyadav/PixelMusicApp](https://github.com/ianshulyadav/PixelMusicApp) - Material 3 Expressive yt music, Lossless and local music player for Android. Enjoy a beautiful, free Spotify and YT Premium alternative with local playback, high-res YouTube Music, and Telegram… <sub>⭐ 137 · Kotlin</sub>
-- [slSeanWU/jazz_transformer](https://github.com/slSeanWU/jazz_transformer) - Transformer-XL for Jazz music composition. Paper: "The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-Composed Music through Quantitative Measures", ISMIR 2020 <sub>⭐ 137 · Python</sub>
-- [filliptm/ComfyUI_FL-HeartMuLa](https://github.com/filliptm/ComfyUI_FL-HeartMuLa) - FL HeartMuLa - Multilingual AI music generation nodes for ComfyUI. Generate full songs with lyrics using HeartMuLa. <sub>⭐ 133 · Python</sub>
-- [josephwilk/musical-creativity](https://github.com/josephwilk/musical-creativity) - Models of Musical Creativity (in Clojure) <sub>⭐ 133 · Clojure</sub>
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI는 오픈 소스 AI 엔진입니다. 모든 모델을 실행하십시오 - LLMs, 비전, 음성, 이미지, 비디오 - 하드웨어에. GPU가 필요하지 않습니다. <sub>⭐ 49.4k · Go</sub>
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft는 딥러닝으로 오디오 처리 및 세대를위한 라이브러리입니다. 그것은 MusicGen과 함께 최첨단 EnCodec 오디오 압축기 / Tokenizer, 간단하고 제어 가능한 ... <sub>⭐ 23.7k · Jupyter Notebook</sub>
+- [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - Mac, AMD, Intel 및 CUDA 장치를 지원하는 거의 모든 상업적 대안을 초래하는 가장 강력한 로컬 음악 생성 모델. <sub>⭐ 13.0k · Python</sub>
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2 : 심볼 계획, 제로 샷 커버 및 에이전트 음악 편집과 함께 frontier 음악 생성. <sub>⭐ 10.7k · Python</sub>
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmіfaýn/)는 오디오, 음악 및 연설 생성을위한 도구 모음입니다. 이 목적은 재현성 연구와 연구원과 엔지니어가 오디오 분야에서 시작되도록하는 것입니다 ... <sub>⭐ 10.3k · Python</sub>
+- [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - Ultimate Open Source Suno Alternative - ACE-Step 1.5 AI Music Generation을위한 전문 UI. 무료, 지역, 무제한. Suno에 대한 지불 중지! <sub>⭐ 5.0k · JavaScript</sub>
+- [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: 음악 세대 재단 모델의 단계 <sub>⭐ 4.9k · Python</sub>
+- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - 실시간 음악 생성을 위한 안정적인 확산 <sub>⭐ 3.9k · Python</sub>
+- [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) - HeartMuLa 공식 Repo : 2026의 가장 강력한 오픈 소스 음악 생성 모델 <sub>⭐ 3.7k · Python</sub>
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - MusicLM의 구현, Google의 새로운 SOTA 모델에 대한 음악 생성을 사용하여 관심 네트워크, Pytorch <sub>⭐ 3.3k · Python</sub>
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, 안정적인 오디오, MMS, StyleTTS2, MAGNet에 대한 확장 기능을 갖춘 단일 Gradio + React WebUI ... <sub>⭐ 3.3k · TypeScript</sub>
+- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - API를 사용하여 suno.ai의 음악 생성 AI를 호출하고 GPT와 같은 에이전트로 쉽게 통합합니다. <sub>⭐ 3.2k · TypeScript</sub>
+- [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) - ggml에 의해 구동되는 오디오 모델을위한 순수 C++ 인스너 엔진. TTS, STT, VAD, 음성 변환, 음악 생성 및 더 많은 지원, 매우 최적화 된 성능. 파이썬 없음 ... <sub>⭐ 3.2k · C++</sub>
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: 트랙 생성, MCP를 통해 클립 및 작곡 음악 정렬 <sub>⭐ 3.1k · Python</sub>
+- [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Keras & Theano를 사용하여 딥러닝 구동 재즈 생성! <sub>⭐ 2.9k · Python</sub>
+- [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - Mubert API를 통해 신속한 기반 음악 생성을 민주화하는 간단한 노트북 <sub>⭐ 2.7k · Jupyter Notebook</sub>
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI는 음악 라이브러리에 숨겨진 연결을 잊혀진 적발 곡을 발견하고 Navidrome, Jellyfin, LMS, Lyrion, Emby 및... <sub>⭐ 2.7k · Python</sub>
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - 실시간 음악 생성을 위한 안정적인 확산 (웹 앱) <sub>⭐ 2.7k · TypeScript</sub>
+- [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/음악 생성 <sub>⭐ 2.6k · Python</sub>
+- [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Di Rhythm : Blazingly Fast 및 Embarrassingly 심플한 End-to-End Full-Length Song Generation과 Latent Diffusion <sub>⭐ 2.3k · Python</sub>
+- [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - MiniMax의 텍스트, 이미지, 비디오, 연설 및 음악 생성. <sub>⭐ 2.2k · TypeScript</sub>
+- [magenta/magenta-js](https://github.com/magenta/magenta-js) - Magenta.js: 브라우저에서 기계 학습과 음악 및 예술 세대 <sub>⭐ 2.1k · TypeScript</sub>
+- [salu133445/musegan](https://github.com/salu133445/musegan) - 음악 세대에 대한 AI <sub>⭐ 2.0k · Python</sub>
+- [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - 오디오 및 음악 기술에서 AI와 함께 일하는 스타트업의 커뮤니티 목록 <sub>⭐ 1.8k</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Apple Silicon 용 Native LLM inference 서버. OpenAI + Anthropic API 호환되지 않습니다. Python 없음. Zig 백엔드, 채팅, 음악, 음성, 비디오 생성을 가진 Swift frontend macOS 앱. <sub>⭐ 1.7k · Zig</sub>
+- [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Rectified Flow 변압기를 가진 텍스트 - 투 - 음악 발생 <sub>⭐ 1.7k · Python</sub>
+- [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - LLMs를 사용하여 Natural language prompt에 기반한 음악 생성 <sub>⭐ 1.5k · Rust</sub>
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - AI Game Dev Hub. AI-powered 게임 개발 도구를위한 궁극적 인 리소스 허브. 최첨단 LLMs, 세계 모델, 에이전트, 코드, 이미지, 질감, Shader, 3D 모델, 애니메이션, 비디오, 오디오 ... <sub>⭐ 1.4k · JavaScript</sub>
+- [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - 다른 오디오 관련 Neural Networks에 대한 웹 <sub>⭐ 1.2k · Python</sub>
+- [ElectricAlexis/NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen : 큰 언어 모델 교육 Paradigms와 Symbolic Music Generation에서 음악을 배운 <sub>⭐ 1.2k · Python</sub>
+- [CarlGao4/Demucs-Gui](https://github.com/CarlGao4/Demucs-Gui) - 음악 별거 AI demucs를 위한 GUI <sub>⭐ 1.2k · Python</sub>
+- [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - AI Audio Datasets (AI-ADS), Speech, Music 및 Sound Effect를 포함하여 Generative AI, AIGC, AI 모델 교육, 지능형 오디오 도구 개발 및 오디오에 대한 훈련 데이터를 제공 할 수 있습니다 ... <sub>⭐ 970</sub>
+- [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Band Split Roformer의 구현, ByteDance AI Labs에서 음악 소스 분리에 대한 SOTA 주의 네트워크 <sub>⭐ 963 · Python</sub>
+- [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - 오디오 AI 연구를위한 허브 : 종이, 개방형 모델, 음향 LLMs, 음성 인식, TTS, 음악 및 오디오 생성을 통한 벤치 마크 & 데이터 세트. <sub>⭐ 960 · Python</sub>
+- [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D) - (CVPR 2025) MIDI: 3D 장면 발생에 단 하나 이미지를 위한 다 조밀도 Diffusion <sub>⭐ 951 · Python</sub>
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - + 음악 알고리즘 및 AI 모델을 다음 세대 DAW로 구축 <sub>⭐ 898 · Python</sub>
+- [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - 자동 음악 생성 연구를위한 데모 웹 사이트 목록 <sub>⭐ 799</sub>
+- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - 스타일별 음악 생성을 위한 깊은 학습 모델. <sub>⭐ 744 · Python</sub>
+- [umbrellabeach/music-generation-with-DL](https://github.com/umbrellabeach/music-generation-with-DL) - Deep Learning을 통한 Music Generation에 대한 자료 <sub>⭐ 729</sub>
+- [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - 쉽게 필수 Google 앱에 액세스하여 실행기 앱 서랍에서 직접 기능합니다. <sub>⭐ 718 · Kotlin</sub>
+- [nextcloud/recognize](https://github.com/nextcloud/recognize) - Nextcloud에 대한 스마트 미디어 태그 : 얼굴, 객체, 풍경, 음악 장르를 인식 <sub>⭐ 699 · PHP</sub>
+- [Blizaine/Maestro](https://github.com/Blizaine/Maestro) - All-in-one, 100 % 로컬 AI 비디오, 이미지 및 음악 스튜디오. 감독 모드는 단일 프롬프트에서 전체 음악 동영상과 단편 영화를 계획합니다. WanGP 파이프라인에 내장되어 있습니다. Pinokio를 통해 설치하십시오. <sub>⭐ 686 · Python</sub>
+- [tetherto/qvac](https://github.com/tetherto/qvac) - 오픈 소스 로컬 AI SDK - 클라우드, API 키없이 AI on-device를 실행합니다. GGUF, RAG, 이미지, 음악 및 비디오 생성, 연설에 텍스트, P2P 간섭 등을 지원합니다. Cross-platform: Linux, macOS ... <sub>⭐ 661 · TypeScript</sub>
+- [fspecii/HeartMuLa-Studio](https://github.com/fspecii/HeartMuLa-Studio) - HeartMuLa/heartlib 용 Suno-like 음악 생성 스튜디오 - 참고 오디오 스타일 전송과 AI 전원 음악 제작 <sub>⭐ 640 · TypeScript</sub>
+- [0xSojalSec/free-voice-clone](https://github.com/0xSojalSec/free-voice-clone) - 모든 지역 및 무료 오픈 소스 음성 복제 TTS 모델과 음악 생성 모델의 목록. <sub>⭐ 638</sub>
+- [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA 텍스트 - 음악 (TTM) 세대 <sub>⭐ 633 · Python</sub>
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Neutone의 토론에 대한 Discord 커뮤니티에 가입하십시오! https://discord.gg/VHSMzb8Wqp <sub>⭐ 633 · Python</sub>
+- [mlachmish/MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Neural Network를 사용하여 10 초 사운드 스트림에서 음악 장르 분류. <sub>⭐ 608 · Python</sub>
+- [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop 음악 변압기 : Expressive Pop Piano 작곡의 Beat 기반 모델링 및 세대", ACM Multimedia 2020 <sub>⭐ 607 · Python</sub>
+- [AI-Guru/music-generation-research](https://github.com/AI-Guru/music-generation-research) - Music Generation 연구 자료의 바로 수집. <sub>⭐ 605</sub>
+- [BazedFrog/SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Tencent의 SongGeneration에 대한 깨끗하고 연마 된 인터페이스. 텍스트 프롬프트 또는 참조 오디오에서 노래를 생성, 일괄 처리 및 스마트 모델 선택. 최소 요구 사항 : 10GB VRAM <sub>⭐ 605 · JavaScript</sub>
+- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - 로컬 LLM, image&video&music 발전기, 휴대 전화의 지역 모델과 같은 vibecode <sub>⭐ 602 · C++</sub>
+- [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - 자동 백업 트랙 생성을위한 완벽한 개방 응용 프로그램입니다. <sub>⭐ 594 · Java</sub>
+- [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - MusicLM의 구현, Google Research에 의해 출판 된 음악 모델에 텍스트, 몇 가지 수정. <sub>⭐ 560 · Python</sub>
+- [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI 기반 도구는 음악에서 Ultrastar Deluxe, Midi 및 노트를 자동 생성하는 음성을 변환합니다. 그것은 자동 태핑, 텍스트 추가, 피치 보컬과 karaoke 파일을 만듭니다. <sub>⭐ 546 · Python</sub>
+- [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (중국어 만)모두 알고있다: DevOps & CloudNative, 리눅스, 임베디드, Homelab, 음악, 블록 체인, AI 등... <sub>⭐ 544 · Jupyter Notebook</sub>
+- [microsoft/Resource2Skill](https://github.com/microsoft/Resource2Skill) - 인체 생성 된 다중 자원 증류를위한 일반 프레임 워크는 재사용 가능한, AI 에이전트가 검색 할 수있는 실행 능력, 작곡 및 웹을 포함한 다양한 도메인에서 검증 된 실행 가능 ... <sub>⭐ 527 · Python</sub>
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Suno의 Human + AI 음악 생산 워크플로우 - 기술, 템플릿 및 도구 <sub>⭐ 526 · Python</sub>
+- [salu133445/muspy](https://github.com/salu133445/muspy) - 심볼 음악 생성을위한 도구 키트 <sub>⭐ 524 · Python</sub>
+- [all-in-aigc/melodisco](https://github.com/all-in-aigc/melodisco) - AI 음악 플레이어 <sub>⭐ 517 · TypeScript</sub>
+- [NeptuneHub/AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) - AudioMuse-AI Navidrome Plugin은 실시간 음질 분석으로 음악 발견을 향상시킵니다. <sub>⭐ 516 · Go</sub>
+- [wildminder/awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) - 오픈 소스 TTS, 음성 복제 및 음악 생성 모델 목록 <sub>⭐ 502</sub>
+- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - AI-driven generative 음악 자원 및 프로젝트의 큐레이터 컴파일. 기계 학습 알고리즘과 뮤지컬 창의성의 혼합을 탐험하십시오. <sub>⭐ 498</sub>
+- [guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) - 절단 가장자리 연설 Synthesis, Text-to-Speech (TTS)에 대한 논문 및 프로젝트 목록은 음성 합성 (SVS), 음성 변환 (VC), 노래 음성 변환 (SVC) 및 관련 흥미로운 ... <sub>⭐ 494</sub>
+- [teticio/Deej-AI](https://github.com/teticio/Deej-AI) - Deep Learning to *listen*를 음악으로 사용하여 자동 재생 목록을 만듭니다. <sub>⭐ 474 · Jupyter Notebook</sub>
+- [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - 오디오 개발 도구 (ADT)는 기계 학습, 사운드 합성, 연설 및 음악 생성을위한 구성 요소가 특징 인 음향, 음성 및 음악 세대를 촉진하기위한 프로젝트입니다 ... <sub>⭐ 469</sub>
+- [youkaclub/youka-desktop](https://github.com/youkaclub/youka-desktop) - 최고의 Karaoke Maker <sub>⭐ 461</sub>
+- [modelscope/FunCodec](https://github.com/modelscope/FunCodec) - FunCodec는 텍스트 - 투 - 슬프 라이트 합성, 음악 생성 등 오디오 정량화 및 다운스트림 응용 분야에 대한 연구 지향적 도구 키트입니다. <sub>⭐ 449 · Python</sub>
+- [benjiyaya/HeartMuLa_ComfyUI](https://github.com/benjiyaya/HeartMuLa_ComfyUI) - ComfyUI 사용자 정의 노드 HeartMuLa AI 음악 생성 및 Transcript 텍스트 <sub>⭐ 435 · Python</sub>
+- [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp) - GGML을 사용하여 ACE-Step 1.5 AI 음악 발전기의 휴대용 C++17 구현. 텍스트 + lyrics, 스테레오 48kHz MP3 또는 WAV 밖으로. CPU에서 실행, CUDA, ROCm, 금속, Vulkan. <sub>⭐ 429 · C++</sub>
+- [music-x-lab/POP909-Dataset](https://github.com/music-x-lab/POP909-Dataset) - 이것은 종이에 대한 데이터 세트 저장소입니다 : POP909 : 음악 배열 세대를위한 팝 노래 Dataset <sub>⭐ 411 · Python</sub>
+- [metame-ai/awesome-audio-plaza](https://github.com/metame-ai/awesome-audio-plaza) - 음악 생성, 제로 샷 tts, asr, 오디오 세대를 포함한 멋진 오디오 용지의 일일 추적 <sub>⭐ 410</sub>
+- [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) - 편집 가능한 점수를 가진 Local AI song generator — 당신의 GPU에 YuE2: 보컬, 장 음악, 덮개, 정확한 재생을 가진 가득 차있는 노래. 본래 Windows app, 파이썬 없음, 자동 갱신을 가진 설치자. <sub>⭐ 409 · TypeScript</sub>
+- [indrajithi/mgc-ai](https://github.com/indrajithi/mgc-ai) - 장르에 따라 음악을 분류하는 기계 학습 방법 <sub>⭐ 401 · Python</sub>
+- [AceDataCloud/Nexior](https://github.com/AceDataCloud/Nexior) - 채팅, 이미지 생성, 비디오 생성 및 Ace Data Cloud API에 의해 구동되는 음악 생성을위한 소비자 AI 응용 프로그램입니다. <sub>⭐ 398 · Vue</sub>
+- [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango : Toward Controllable 텍스트 - 음악 생성 <sub>⭐ 396 · Python</sub>
+- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - 심볼 음악 생성을 위한 Midi 사건 변압기 <sub>⭐ 379 · Python</sub>
+- [kigner/audio.cpp-webui](https://github.com/kigner/audio.cpp-webui) - audio.cpp with a full-task WebUI - ggml에 의해 구동되는 순수한 C++ 오디오 모델 인스펜션 엔진. TTS, ASR/STT, VAD, 음성 변환, 스피커 디어화, 음악 생성. 파이썬 의존도 없음. <sub>⭐ 374 · C++</sub>
+- [timoncool/ACE-Step-Studio](https://github.com/timoncool/ACE-Step-Studio) - 휴대용 AI 음악 생성기 - 보컬, 커버, 뮤직 비디오와 전체 곡. 한 번 클릭 설치, 100 % 오프라인, NVIDIA GPU. <sub>⭐ 372 · TypeScript</sub>
+- [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - 재생 가능한 피아노 시트 음악으로 어떤 노래를 켭니다. YouTube 링크 또는 업로드 오디오 - PDF 점수를 얻습니다. 오픈 소스 파이프라인 : 기본 피치 transcription, 2 손 배치, RL-trained 조각. <sub>⭐ 366 · Python</sub>
+- [yihong0618/SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) - https://www.suno.ai/에 의해 고품질 노래 발생에 관하여. 반전은 API를 설계했습니다. <sub>⭐ 366 · Python</sub>
+- [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - 마스킹 변압기와 음악 생성! <sub>⭐ 357 · Max</sub>
+- [kennethnym/infinifi](https://github.com/kennethnym/infinifi) - infinifi는 배경에서 부드러운 lofi 음악을 무한하게합니다. <sub>⭐ 344 · Python</sub>
+- [Conchylicultor/MusicGenerator](https://github.com/Conchylicultor/MusicGenerator) - TensorFlow와 음악 세대를위한 다양한 딥 학습 모델 <sub>⭐ 338 · Python</sub>
+- [wzk1015/video-bgm-generation](https://github.com/wzk1015/video-bgm-generation) - (ACM MM 2021 Best Paper Award) 제어 가능한 음악 변압기가있는 비디오 배경 음악 생성 <sub>⭐ 327 · Python</sub>
+- [LiuZH-19/SongGen](https://github.com/LiuZH-19/SongGen) - (ICML 2025) SongGen : 단상 자동 반복 변압기 <sub>⭐ 319 · Python</sub>
+- [adamjmurray/producer-pal](https://github.com/adamjmurray/producer-pal) - ABLETON Live를 위한 AI 음악 생산 조수 <sub>⭐ 314 · TypeScript</sub>
+- [robinfriedli/aiode](https://github.com/robinfriedli/aiode) - Spotify 트랙과 YouTube 동영상 또는 Soundcloud 링크 및 Twitch 스트림을 포함한 URL을 재생하는 Discord bot <sub>⭐ 314 · Java</sub>
+- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - AI-powered YouTube video dubbing 파이프라인. 자동 transcribes (Whisper), 번역 (Google), 그리고 스마트 오디오 비디오 동기화 및 배경과 함께 신경 빙 (Edge-TTS)을 생성 ... <sub>⭐ 304 · Python</sub>
+- [Stability-AI/stable-audio-metrics](https://github.com/Stability-AI/stable-audio-metrics) - 음악 및 오디오 유전 모델을 평가하기위한 미터 - 긴 형식, 풀 밴드 및 스테레오 생성에 중점을두고. <sub>⭐ 304 · Python</sub>
+- [iuliandita/digarr](https://github.com/iuliandita/digarr) - 라이브러리에 대한 자체 호스팅 음악 발견. 아티스트와 앨범, 리뷰 권고를 찾아서 Lidarr, slskd 또는 playlist로 보내주세요. 자신의 AI 제공 업체 또는 지역 모델을 가져 오기.없이 작동합니다 ... <sub>⭐ 298 · TypeScript</sub>
+- [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - 정밀한 효과적인 음악 AI 모델 제작을 위한 Tegridy MIDI Dataset. <sub>⭐ 296 · Python</sub>
+- [MusicLang/musiclang_predict](https://github.com/MusicLang/musiclang_predict) - MusicLang 패키지의 AI 예측 api <sub>⭐ 294 · Python</sub>
+- [carlosholivan/DeepLearningMusicGeneration](https://github.com/carlosholivan/DeepLearningMusicGeneration) - 딥러닝과 AI를 이용한 음악 생성의 주 <sub>⭐ 287</sub>
+- [musikalkemist/pytorchforaudio](https://github.com/musikalkemist/pytorchforaudio) - AI YouTube 채널의 사운드에 "PyTorch for Audio + Music Processing"시리즈. <sub>⭐ 283 · Python</sub>
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Bluetooth 스피커를 스마트하게 만드십시오. 음악 보조, 홈 어시스턴트 AI 자동화 및 Sendspin 프로토콜과 DIY 멀티 룸 오디오. 도커, HA addon, 라즈베리 파이, Proxmox LXC. 무료 & 오픈 소스. <sub>⭐ 279 · Python</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT 딥러닝 소개(6.S191) 강사: Alexander Amini와 Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading 및 Prizes Software... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [inclusionAI/Ming-omni-tts](https://github.com/inclusionAI/Ming-omni-tts) - Ming-omni-tts : 간단하고 효율적인 강연, 음악 및 정확한 제어와 사운드 <sub>⭐ 265 · Python</sub>
+- [gwinndr/MusicTransformer-Pytorch](https://github.com/gwinndr/MusicTransformer-Pytorch) - MusicTransformer는 음악 생성을 위한 Pytorch Framework를 사용하여 MaestroV2에 쓰여졌습니다. <sub>⭐ 262 · Python</sub>
+- [69gg/Undefined](https://github.com/69gg/Undefined) - QQ bot 플랫폼은 1Bot V11을 통해인지 메모리 아키텍처와 다중 시약 기술을 사용합니다. <sub>⭐ 260 · Python</sub>
+- [wangchuxiaoji-oss/doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) - 역설계 Doubao ( ) API → OpenAI 호환 REST 서비스. 무료 멀티 모달 채팅, 이미지 / 비디오 / 음악 생성 및 AI 에이전트에 대 한 파일 호스팅. <sub>⭐ 256 · Python</sub>
+- [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) - Zero-skill 영화. Autopilot의 수석 간접적 인 프롬프트. 14 + 유전자 플랫폼에서 고품질의 AI 이미지 / 비디오 / 음악 신속한 제작 및 브라우저 기반 실행을위한 Claude Code Skill. <sub>⭐ 254</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - 모든 프로그래밍 언어 (See Solutions)에서 해결할 수있는 실용적인 프로젝트 목록. 이 프로젝트는 여러 범주로 나뉩니다, 각 카테고리에는 자체 폴더가 있습니다. 얻기 위해 ... <sub>⭐ 254</sub>
+- [chaosprint/RaveForce](https://github.com/chaosprint/RaveForce) - RaveForce - 음악 세대 실험을위한 OpenAI 체육관 스타일 도구 키트. <sub>⭐ 252 · Python</sub>
+- [innermost47/ai-dj](https://github.com/innermost47/ai-dj) - 라이브 성능을위한 AI 음악 생성 - 독립 (Ableton Link) + VST3 / AU. 8 트랙, 9 AI 모델. 그것은 때때로 복종합니다. 곡 발전기가 아닙니다. 여전히 작업을 수행해야합니다. 인간을 유지하십시오. <sub>⭐ 252 · C++</sub>
+- [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: 음악 세대 재단 모델의 단계 <sub>⭐ 251 · Python</sub>
+- [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - Real World의 AI Music Generation <sub>⭐ 251 · TypeScript</sub>
+- [affige/DeepMIR](https://github.com/affige/DeepMIR) - "음악 분석 및 세대를 위한 깊은 학습"을 위한 교재는 National Taiwan University에서 가르치고 있습니다. <sub>⭐ 249</sub>
+- [pjlab-songcomposer/songcomposer](https://github.com/pjlab-songcomposer/songcomposer) - (ACL 2025 Main) SongComposer : 송 작곡에서 작물과 멜로디 세대를위한 큰 언어 모델 <sub>⭐ 248 · Python</sub>
+- [rsynnot/magic-lists-for-navidrome](https://github.com/rsynnot/magic-lists-for-navidrome) - Navidrome 용 AI 전원 재생 목록 생성기 지능형, 고급 AI 포화를 사용하여 Navidrome 음악 라이브러리에서 개인화된 재생 목록을 만듭니다. 특징 멀티 리브 지원, "이 아티스트"... <sub>⭐ 246 · Python</sub>
+- [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) - 자체 호스팅 AI 스튜디오 : 로컬 비디오, 이미지, 음악, 음성, LoRA 훈련, 코딩 회전대, RAG 및 스크린 에이전트는 Studio에서 구동하거나 코딩 대리인 (Claude Code, Cursor... <sub>⭐ 244 · Python</sub>
+- [joeljang/music2video](https://github.com/joeljang/music2video) - Wav2CLIP와 VQGAN-CLIP를 가진 어떤 노래에서 AI 생성한 음악 영상을 만들기 <sub>⭐ 244 · Python</sub>
+- [PetrIvan/chord-seq-ai-app](https://github.com/PetrIvan/chord-seq-ai-app) - 차세대 작곡가 및 음악 애호가를 위한 Next.js와 함께 구축된 AI-powered chord 진행 제안자. <sub>⭐ 243 · TypeScript</sub>
+- [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - 현지 창의적인 관심 멀티 인스trumental 음악 변압기 <sub>⭐ 242 · Python</sub>
+- [williamzujkowski/live-coding-music-mcp](https://github.com/williamzujkowski/live-coding-music-mcp) - A Model Context Protocol (MCP) 서버는 Strudel.cc에서 AI-assisted 음악 생성 및 라이브 코딩을 위한 Claude 직접 제어를 제공합니다. <sub>⭐ 242 · TypeScript</sub>
+- [nganlinh4/oneclick-subtitles-generator](https://github.com/nganlinh4/oneclick-subtitles-generator) - AI transcription, 번역, 음성 복제, 전문 렌더링, 배경 이미지 및 음악 생성기를 가진 자동 자막 영상 <sub>⭐ 241 · JavaScript</sub>
+- [Snaiel/Godot4ThirdPersonCombatPrototype](https://github.com/Snaiel/Godot4ThirdPersonCombatPrototype) - 3인 전투를 위한 프로토 타입 프로젝트. 플레이어 운동, 카메라, 애니메이션, 전투, 적 AI, 사용자 인터페이스, 음향 효과 및 배경 음악에 대한 기본 사항이 있습니다. <sub>⭐ 239 · GDScript</sub>
+- [yanhanruan/Mutsumi](https://github.com/yanhanruan/Mutsumi) - Mutsumi (IPS) : Tauri 2 및 Rust로 구축 된 경량 AI 데스크톱 동반자, 글로벌 오디오 인식, 미니 음악 제어 및 AI 문자 채팅을 특징으로합니다. <sub>⭐ 239 · Rust</sub>
+- [musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse) - AI YouTube 채널의 사운드에 대한 Generative Music AI 코스 리소스. <sub>⭐ 235 · Jupyter Notebook</sub>
+- [iampawan/AI-Radio](https://github.com/iampawan/AI-Radio) - Alan AI를 요청할 수 있는 라디오 앱으로 음악을 재생합니다. <sub>⭐ 233 · C++</sub>
+- [aivrar/portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) - Hermes Agent는 Windows 용 휴대용 데스크톱을 만들었습니다 — 100 도구, GUI, LM Studio를 통해 로컬 모델, TTS, 음악, ComfyUI, 워크플로우, 툴 메이커. 설치 없음. 도커 없음. 관리자 권한이 없습니다. <sub>⭐ 231 · Python</sub>
+- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - 모든 주제를 완료 Vox-style 종이 비용 설명자 / 모션 그래픽 비디오 - 스크립트, collage keyframes, 애니메이션, 음성 오버, 음악 및 캡션으로 전환하십시오. Claude에 대한 에이전트 기술 ... <sub>⭐ 231 · Python</sub>
+- [AaronZ345/VersBand](https://github.com/AaronZ345/VersBand) - VersBand (EMNLP 2025)의 PyTorch 구현 : Prompt 기반 제어와 Song Generation을위한 Versatile Framework <sub>⭐ 226 · Python</sub>
+- [Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) - 음악 생산을위한 개방형 생태계. <sub>⭐ 225 · C++</sub>
+- [llSourcell/AI_For_Music_Composition](https://github.com/llSourcell/AI_For_Music_Composition) - 이것은 Youtube의 Siraj Raval에 의해 "AI for Music 작곡"의 코드입니다. <sub>⭐ 223 · Python</sub>
+- [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - 차세대 AI를 통한 음악 영상 제작의 최종 단계 자동화 및 도구 <sub>⭐ 219 · Jupyter Notebook</sub>
+- [sfortis/openai_tts](https://github.com/sfortis/openai_tts) - OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox 또는 OpenAI 연설 API를 구현하는 모든 서버에서 홈 어시스턴트에 대한 텍스트 - 투 - 슬픈. <sub>⭐ 219 · Python</sub>
+- [yukara-ikemiya/friendly-stable-audio-tools](https://github.com/yukara-ikemiya/friendly-stable-audio-tools) - 원래 Stability AI에 의해 오디오 / 음악 생성 모델을위한 오픈 소스 코드 인 안정 된 오디오 도구의 업데이트 버전. <sub>⭐ 218 · Python</sub>
+- [ayusshrathore/ai-saas](https://github.com/ayusshrathore/ai-saas) - 사용자를 채팅, 생성 이미지, 비디오, 음악 등을 할 수있는 AI 전원 SaaS 플랫폼. <sub>⭐ 214 · TypeScript</sub>
+- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - + 음악 알고리즘 및 AI 모델을 다음 세대 DAW로 구축 <sub>⭐ 214 · TypeScript</sub>
+- [tsensei/OpenReels](https://github.com/tsensei/OpenReels) - 모든 주제를 게시하는 Open-source AI 파이프라인 YouTube/Instagram/TikTok Short — 연구, 스크립트, 음성, 시각, 음악, 캡션 및 하나의 명령에서 조립. <sub>⭐ 206 · TypeScript</sub>
+- [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch 및 AI Music을 포함한 AI Office 제품군에 대한 Skywork Agent Skills. 이 기술은 모든 기술 호환 에이전트에서 사용할 수 있습니다 ... <sub>⭐ 203 · Python</sub>
+- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: 음향 Multimodal 변압기 모델을 사용하여 비디오에서 적당한 음악 발생 <sub>⭐ 198 · Python</sub>
+- [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - 심볼 음악 생성, 평가 및 분석을위한 python 프레임 워크 <sub>⭐ 193 · Python</sub>
+- [smthemex/ComfyUI_YuE](https://github.com/smthemex/ComfyUI_YuE) - YuE는 음악 생성을 위해 디자인된 오픈 소스 기초 모형의 획기적인 시리즈입니다, 특히 가득 차있는 노래로 lyrics를 변형시키기를 위해 (lyrics2song). 당신은 comfyUI에서 그것을 사용할 수 있습니다 <sub>⭐ 193 · Python</sub>
+- [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - 음악 + 기계 학습을위한 링크 <sub>⭐ 188</sub>
+- [RetroCirce/MusicLDM](https://github.com/RetroCirce/MusicLDM) - text-to-music 생성을 위한 endnt diffusion 모형. <sub>⭐ 188 · Python</sub>
+- [RichardYang40148/MidiNet](https://github.com/RichardYang40148/MidiNet) - 이 저장소에는 MdidNet의 소스 코드가 포함되어 있습니다 : Symbolic-domain Music Generation을위한 Convolutional Generative Adversarial Network <sub>⭐ 186 · Python</sub>
+- [AMAAI-Lab/Text2midi](https://github.com/AMAAI-Lab/Text2midi) - Text2midi는 textual descriptions에서 MIDI 파일을 생성하기위한 첫 번째 엔드 투 엔드 모델입니다. pretrained 대형 언어 모델을 활용하여 강력한 자동 변압기 디코더 ... <sub>⭐ 184 · Python</sub>
+- [seehiong/noteflow](https://github.com/seehiong/noteflow) - NoteFlow Studio - 웹 기반 음악 IDE 및 합성기. 간단한 텍스트 표기에서 멀티 트랙 곡을 컴파일하고 QWERTY 또는 MIDI 키보드를 통해 재생, 성능 기록 및 AI 조수와 공동 쓰기.... <sub>⭐ 184 · TypeScript</sub>
+- [flowese/UdioWrapper](https://github.com/flowese/UdioWrapper) - UdioWrapper는 텍스트 프롬프트를 통해 Udio의 API를 사용하여 음악 트랙의 생성을 가능하게하는 파이썬 패키지입니다. 이 패키지는 Udio API의 역설계에 근거합니다 ... <sub>⭐ 181 · Python</sub>
+- [kiecodes/generate-music](https://github.com/kiecodes/generate-music) - 이 저장소는 유튜브 비디오에 속하는 "AI가 음악을 만들 수?" (https://www.youtube.com/watch?v=aOsET8KapQQ) 당신이 본 적이 없다면, 더 나은 필요로하는 경우 비디오를보고 고려하십시오 ... <sub>⭐ 178 · Python</sub>
+- [annahung31/EMOPIA](https://github.com/annahung31/EMOPIA) - Emotional은 변압기 기반 모델을 사용하여 음악 생성을 조절했습니다. <sub>⭐ 175 · Jupyter Notebook</sub>
+- [CoffeeVampir3/audiocraft-webui](https://github.com/CoffeeVampir3/audiocraft-webui) - Audiocraft를 위한 빠른 webui <sub>⭐ 172 · Python</sub>
+- [shaopengw/Awesome-Music-Generation](https://github.com/shaopengw/Awesome-Music-Generation) - 굉장한 음악 세대 모델—MG2 <sub>⭐ 167 · Python</sub>
+- [scragnog/HOT-Step-CPP](https://github.com/scragnog/HOT-Step-CPP) - 턴 다이얼. 스미몬 바이어! 지금 더 많은 C++! 로컬 AI 음악 생성에 의해 구동 GGML <sub>⭐ 165 · C++</sub>
+- [L-YeZhu/CDCD](https://github.com/L-YeZhu/CDCD) - (ICLR2023) 교차 모드 음악 및 이미지 생성을 위한 분리되는 Contrastive Diffusion (CDCD). <sub>⭐ 163 · Python</sub>
+- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - 오디오 분석 및 재생을위한 강력한 오픈 소스 툴킷. 무손실한 품질을 검증하고 AI-generated 트랙을 감지하고 내장 된 hi-res 플레이어와 고급 EQ로 라이브러리를 탐색하십시오. <sub>⭐ 162 · C#</sub>
+- [ylacombe/musicgen-dreamboothing](https://github.com/ylacombe/musicgen-dreamboothing) - LoRA와 함께 자신의 MusicGen을 Fine-tune <sub>⭐ 162 · Jupyter Notebook</sub>
+- [toxtli/hum2song](https://github.com/toxtli/hum2song) - Hum2Song: Neural Networks와 Voice Melody Transcription의 멀티 트랙 Polyphonic 음악 생성 <sub>⭐ 161 · JavaScript</sub>
+- [hoeci/sort-play](https://github.com/hoeci/sort-play) - 강력한 분류, 필터링, UI 기능 등을 Spotify 데스크톱 클라이언트에 추가하는 Spicetify 확장. <sub>⭐ 156 · JavaScript</sub>
+- [Suno-API/Suno-API](https://github.com/Suno-API/Suno-API) - 이것은 Golang에 근거를 둔 비공식 Suno AI API입니다. 그것은 현재 노래, lyrics 및 OpenAI 채팅을 생성하는 지원 <sub>⭐ 156 · Go</sub>
+- [calesthio/Resonant](https://github.com/calesthio/Resonant) - 무료, Windows 용 로컬 AI 음악 스튜디오-작용 노래, 놀이기구, 준비, 혼합, 수출 WAV 및 MCP를 통해 Codex 또는 Claude 연결. <sub>⭐ 154 · TypeScript</sub>
+- [MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow) - SpatialFlow는 Android에서 차세대 음악 경험을 제공하며, 온라인 스트리밍, 높은-fidelity 로컬 재생, 지능형 오디오 처리 및 자료 3 Expressive 디자인이 결합된... <sub>⭐ 153 · Kotlin</sub>
+- [diStyApps/VisionCrafter](https://github.com/diStyApps/VisionCrafter) - 당신의 비전을 창조 <sub>⭐ 150 · Python</sub>
+- [AryanRogye/ComfyNotch](https://github.com/AryanRogye/ComfyNotch) - MacBook의 Notch를 위젯, AI 채팅, 음악, 밝기, 볼륨 컨트롤 등과 함께 사용자 정의 HUD로 전환하고 macOS 14+에 대한 더 많은 내장을 Swift. <sub>⭐ 149 · Swift</sub>
+- [filliptm/ComfyUI-FL-AceStep-Training](https://github.com/filliptm/ComfyUI-FL-AceStep-Training) - FL AceStep Training - ComfyUI의 ACE-Step 1.5 음악 생성을위한 LoRA 교육 노드 <sub>⭐ 148 · Python</sub>
+- [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - AI-assisted Interactive 음악 생성에 대한 웹 인터페이스 컬렉션 <sub>⭐ 146 · TypeScript</sub>
+- [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) - Spotify 웹에서 AI-generated 음악을 차단하여 커뮤니티 기반 목록을 자동으로 생성합니다. Tampermonkey를 사용하여 브라우저에서 실행하면 AI 아티스트로부터 스포티프 계정을 자유롭게 유지하고 매일 업데이트하십시오. <sub>⭐ 144 · JavaScript</sub>
+- [inikolax/remiqora](https://github.com/inikolax/remiqora) - 로컬 AI 음악 스튜디오는 ACE-Step 1.5 및 YuE2-3B를 하나의 Vue 인터페이스에서 통합합니다. 텍스트 - 투 음악 생성, 줄기 분리, MIDI transcription 및 LoRA 미세 조정, 내장 멀티 트랙 DAW와 함께. <sub>⭐ 140 · Vue</sub>
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin은 실시간 유사한 노래를 큐에 대한 음 분석을 사용하여 음악 발견을 향상시킵니다. <sub>⭐ 139 · C#</sub>
+- [ianshulyadav/PixelMusicApp](https://github.com/ianshulyadav/PixelMusicApp) - Material 3 Expressive yt 음악, Lossless 및 로컬 음악 플레이어 Android. 지역 재생과 아름다운 무료 Spotify 및 YT 프리미엄 대안을 즐길 수 있습니다. YouTube Music 및 Telegram ... <sub>⭐ 137 · Kotlin</sub>
+- [slSeanWU/jazz_transformer](https://github.com/slSeanWU/jazz_transformer) - 재즈 음악 조성을위한 변압기 XL. 종이 : "전면 라인의 재즈 변압기 : 양적 측정을 통해 AI-Composed Music의 단점을 탐험, ISMIR 2020 <sub>⭐ 137 · Python</sub>
+- [filliptm/ComfyUI_FL-HeartMuLa](https://github.com/filliptm/ComfyUI_FL-HeartMuLa) - FL HeartMuLa - ComfyUI의 다국어 AI 음악 생성 노드. HeartMuLa를 사용하여 lyrics와 전체 곡을 생성합니다. <sub>⭐ 133 · Python</sub>
+- [josephwilk/musical-creativity](https://github.com/josephwilk/musical-creativity) - 뮤지컬 창의력 모델 (Cleojure) <sub>⭐ 133 · Clojure</sub>
 
 ## 🎚️ 분리, 믹싱, 마스터링
 
 > 트랙 분리, 믹싱, 마스터링, AI 플러그인.
 
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. <sub>⭐ 69.8k · TypeScript</sub>
-- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models. <sub>⭐ 28.5k · Python</sub>
-- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks. <sub>⭐ 26.5k · Python</sub>
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems… <sub>⭐ 15.1k · C++</sub>
-- [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI… <sub>⭐ 10.3k</sub>
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. <sub>⭐ 8.1k · Python</sub>
-- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。 <sub>⭐ 5.6k · Python</sub>
-- [kwai/DouZero](https://github.com/kwai/DouZero) - (ICML 2021) DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning / 斗地主AI <sub>⭐ 4.7k · Python</sub>
-- [modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) - An AI-Powered Speech Processing Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Enhancement, Separation, and Target Speaker Extraction, etc. <sub>⭐ 4.5k · Python</sub>
-- [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation <sub>⭐ 2.8k · C#</sub>
-- [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers <sub>⭐ 2.6k · Python</sub>
-- [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time <sub>⭐ 2.4k · Jupyter Notebook</sub>
-- [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation. <sub>⭐ 1.6k · Python</sub>
-- [Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK) - AuK: An Open-Source Foundational Model for Speech Generation and Editing <sub>⭐ 1.4k · Python</sub>
-- [nomadkaraoke/python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator) - Easy to use stem (e.g. instrumental/vocals) separation from CLI or as a python package, using a variety of amazing pre-trained models (primarily from UVR) <sub>⭐ 1.4k · Python</sub>
-- [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) - The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the gap between HQ and the field. Inspired… <sub>⭐ 1.3k</sub>
-- [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - Implementation of the Wave-U-Net for audio source separation <sub>⭐ 947 · Python</sub>
-- [microsoft/rag-time](https://github.com/microsoft/rag-time) - RAG Time: A 5-week Learning Journey to Mastering RAG <sub>⭐ 910 · Jupyter Notebook</sub>
-- [Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization) - Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization where you’ll learn the fundamental mathematics toolkit of… <sub>⭐ 886 · Jupyter Notebook</sub>
-- [andabi/music-source-separation](https://github.com/andabi/music-source-separation) - Deep neural networks for separating singing voice from music written in TensorFlow <sub>⭐ 799 · Python</sub>
-- [Eddycrack864/UVR5-UI](https://github.com/Eddycrack864/UVR5-UI) - Ultimate Vocal Remover 5 with Gradio UI. Separate an audio file into various stems, using multiple models <sub>⭐ 773 · Python</sub>
-- [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI <sub>⭐ 772 · Shell</sub>
-- [AlphaGBM/investment-masters](https://github.com/AlphaGBM/investment-masters) - Distill investment wisdom from Buffett, Dalio, Soros, Marks & more — 15 masters' methodologies + 13F tracking, built for AI agents. <sub>⭐ 633</sub>
-- [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) - 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI… <sub>⭐ 599 · PowerShell</sub>
-- [salesforce/CodeRL](https://github.com/salesforce/CodeRL) - This is the official code for the paper CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning (NeurIPS22). <sub>⭐ 576 · Python</sub>
-- [adrianhajdin/ai_mock_interviews](https://github.com/adrianhajdin/ai_mock_interviews) - Ready to master your job interviews? Join us as we build a real-time AI-driven mock interview platform with Next.js and Vapi AI, offering personalized prep sessions just for you. <sub>⭐ 571 · TypeScript</sub>
-- [QuantaAlpha/RepoMaster](https://github.com/QuantaAlpha/RepoMaster) - RepoMaster: The open-source AI agent that masters GitHub. It turns any code repository into a powerful tool, achieving a new level of autonomous task-solving. An open alternative to Claude-Code. <sub>⭐ 550 · Python</sub>
-- [MTG/DeepConvSep](https://github.com/MTG/DeepConvSep) - Deep Convolutional Neural Networks for Musical Source Separation <sub>⭐ 484 · Python</sub>
-- [jamesmawm/mastering-python-for-finance-second-edition](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition <sub>⭐ 472 · Jupyter Notebook</sub>
-- [sjtu-sai-agents/ML-Master](https://github.com/sjtu-sai-agents/ML-Master) - The official implementation of "ML-Master: Towards AI-for-AI via Integration of Exploration and Reasoning" <sub>⭐ 452 · Python</sub>
-- [koki7o/claude-code-for-beginners](https://github.com/koki7o/claude-code-for-beginners) - Your Complete Beginner's Course to Mastering AI-Powered Development with Claude Code <sub>⭐ 442</sub>
-- [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI. <sub>⭐ 396 · JavaScript</sub>
-- [microsoft/mastering-github-copilot-for-dotnet-csharp-developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) - Master GitHub Copilot for C#/.NET development via this curriculum! Learn AI-driven paired programming, optimize your workflow, and write cleaner, faster code. <sub>⭐ 389 · C#</sub>
-- [hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) - AI-powered learning coach with spaced repetition with Claude Code - master any knowledge faster with personalized syllabi and progress tracking <sub>⭐ 380 · Python</sub>
-- [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Deep Recurrent Neural Networks for Source Separation <sub>⭐ 371 · MATLAB</sub>
-- [luckrnx09/python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers) - An open-source ebook helps JavaScript engineers quickly master the Python language <sub>⭐ 364 · TypeScript</sub>
-- [etzinis/sudo_rm_rf](https://github.com/etzinis/sudo_rm_rf) - Code for SuDoRm-Rf networks for efficient audio source separation. SuDoRm-Rf stands for SUccessive DOwnsampling and Resampling of Multi-Resolution Features which enables a more efficient way of… <sub>⭐ 339 · Jupyter Notebook</sub>
-- [Noizefield/audio-plugin-coder](https://github.com/Noizefield/audio-plugin-coder) - Audio Plugin Coder (APC) is a groundbreaking, open-source framework that enables musicians, producers, sound designers, and developers to create professional VST3/AU audio plugins using natural… <sub>⭐ 327 · HTML</sub>
-- [tumourlove/monolith](https://github.com/tumourlove/monolith) - MCP plugin for Unreal Engine 5.7 & 5.8 — gives AI assistants full read/write access to Blueprints, Materials, Niagara, Animation, Mesh, AI, GAS, Logic Driver, ComboGraph, UI, Audio, plus Reflection… <sub>⭐ 321 · C++</sub>
-- [AppleHolic/source_separation](https://github.com/AppleHolic/source_separation) - Deep learning based speech source separation using Pytorch <sub>⭐ 319 · Jupyter Notebook</sub>
-- [tky823/DNN-based_source_separation](https://github.com/tky823/DNN-based_source_separation) - A PyTorch implementation of DNN-based source separation. <sub>⭐ 312 · Python</sub>
-- [fgnt/pb_bss](https://github.com/fgnt/pb_bss) - Collection of EM algorithms for blind source separation of audio signals <sub>⭐ 305 · Python</sub>
-- [ai-hero-dev/ai-sdk-v6-crash-course](https://github.com/ai-hero-dev/ai-sdk-v6-crash-course) - 57 exercises to master Vercel's AI SDK v5, from Matt Pocock <sub>⭐ 287 · TypeScript</sub>
-- [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal. <sub>⭐ 282 · HTML</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) - Your AI-powered LeetCode & DSA mentor for Claude Code and Claude.ai. Master algorithms through intelligent guidance, progressive hints, and pattern recognition training—not just copy-pasting… <sub>⭐ 281 · Python</sub>
-- [shahadot786/complete-full-stack-roadmap](https://github.com/shahadot786/complete-full-stack-roadmap) - The Ultimate Learning Hub: Master Frontend, Backend, Mobile, DevOps, Data Science, AI/ML, and everything in between. Your one-stop repository for becoming a complete tech professional. <sub>⭐ 275</sub>
-- [royshil/obs-urlsource](https://github.com/royshil/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene <sub>⭐ 269 · C++</sub>
-- [yesbhautik/Master-AI-BOT](https://github.com/yesbhautik/Master-AI-BOT) - Master AI BOT : Unleash the power of GPT-4 Turbo with our fast and limitless Telegram bot. Say goodbye to daily usage limits and laggy interfaces. Explore special chat modes, group chat support, and… <sub>⭐ 267 · Python</sub>
-- [thooore/SpleeterGUI](https://github.com/thooore/SpleeterGUI) - Windows desktop front end for Spleeter - AI source separation - A fork of: https://github.com/boy1dr/SpleeterGui <sub>⭐ 257 · C#</sub>
-- [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) - CleanStream is an OBS plugin that uses AI to clean live audio streams from unwanted words and utterances <sub>⭐ 234 · C++</sub>
-- [adrianhajdin/travel-agency-dashboard](https://github.com/adrianhajdin/travel-agency-dashboard) - Build a dynamic travel dashboard with React, React Router v7, Syncfusion, Appwrite, and Gemini AI! Master authentication, create interactive charts, and integrate Gemini AI for outstanding features. <sub>⭐ 228 · TypeScript</sub>
-- [francesclluis/source-separation-wavenet](https://github.com/francesclluis/source-separation-wavenet) - A neural network for end-to-end music source separation <sub>⭐ 227 · Python</sub>
-- [craigmacartney/Wave-U-Net-For-Speech-Enhancement](https://github.com/craigmacartney/Wave-U-Net-For-Speech-Enhancement) - Improved speech enhancement with the Wave-U-Net, a deep convolutional neural network architecture for audio source separation, implemented for the task of speech enhancement in the time-domain. <sub>⭐ 224 · Python</sub>
-- [automazeio/claude-code-for-power-users](https://github.com/automazeio/claude-code-for-power-users) - From Autocomplete to AI Architect: Mastering Claude Code for Professional Development <sub>⭐ 221</sub>
-- [adobe-research/DeepAFx](https://github.com/adobe-research/DeepAFx) - Third-party audio effects plugins as differentiable layers within deep neural networks. <sub>⭐ 216 · Jupyter Notebook</sub>
-- [glittercowboy/plugin-freedom-system](https://github.com/glittercowboy/plugin-freedom-system) - AI-assisted JUCE plugin development system for MacOS by TÂCHES <sub>⭐ 215 · HTML</sub>
-- [sekiguchi92/SoundSourceSeparation](https://github.com/sekiguchi92/SoundSourceSeparation) - The code for multi-channel source separation and dereverberation such as FastMNMF1, FastMNMF2, and AR-FastMNMF2. <sub>⭐ 215 · Python</sub>
-- [speechLabBcCuny/onssen](https://github.com/speechLabBcCuny/onssen) - An open-source speech separation and enhancement library <sub>⭐ 214 · Python</sub>
-- [RetroCirce/Zero_Shot_Audio_Source_Separation](https://github.com/RetroCirce/Zero_Shot_Audio_Source_Separation) - The official code repo for "Zero-shot Audio Source Separation through Query-based Learning from Weakly-labeled Data", in AAAI 2022 <sub>⭐ 212 · Python</sub>
-- [csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) - Steerable discovery of neural audio effects <sub>⭐ 211 · Jupyter Notebook</sub>
-- [Chrisackerman1/The-Hundred-Page-Machine-Learning-Book](https://github.com/Chrisackerman1/The-Hundred-Page-Machine-Learning-Book) - https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/General-Machine-Learning/The%20Hundred-Page%20Machine%20Learning%20Book%20by%20Andriy%20Burkov/Links%20to%20read%20the%20chapte… <sub>⭐ 210</sub>
-- [ProjectProRepo/Agentic-AI](https://github.com/ProjectProRepo/Agentic-AI) - This repository provides comprehensive resources for learning Agentic AI, including blogs, tutorials, and projects that will help you master generative AI and develop industry-grade applications. <sub>⭐ 206</sub>
-- [phlippe/UvA_Summaries](https://github.com/phlippe/UvA_Summaries) - Summaries of courses in the AI Master programme at UvA <sub>⭐ 200 · TeX</sub>
-- [OmniSaleGmbH/lalalai](https://github.com/OmniSaleGmbH/lalalai) - Official examples for LALAL.AI API: stem separation, voice cleaning, voice cloning, noise removal & audio processing <sub>⭐ 196 · Python</sub>
-- [moises-ai/moises-db](https://github.com/moises-ai/moises-db) - Moises Source Separation Public Dataset <sub>⭐ 195 · Python</sub>
-- [read2017/learn-anything-with-AI](https://github.com/read2017/learn-anything-with-AI) - A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and authoritative sources. <sub>⭐ 188 · Python</sub>
-- [dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025](https://github.com/dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025) - This repository will contain all the presentations, content, hands-on python notebooks for a full day Agentic AI workshop on Building Simple and Complex Agents, Deploying and Monitoring AI Agents… <sub>⭐ 180 · Jupyter Notebook</sub>
-- [james34602/SpleeterRT](https://github.com/james34602/SpleeterRT) - Real time monaural source separation base on fully convolutional neural network operates on Time-frequency domain. <sub>⭐ 174 · C</sub>
-- [ksm26/Multi-AI-Agent-Systems-with-crewAI](https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI) - Master the art of designing and organizing AI agents. Learn to automate complex, multi-step business processes by creating specialized AI agent teams using the open-source library crewAI. <sub>⭐ 169 · Jupyter Notebook</sub>
-- [VidyasagarMSC/Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) - The guide to master Artificial Intelligence (machine learning & deep learning) from beginner to advance <sub>⭐ 153</sub>
-- [bonfire-systems/reaper-mcp](https://github.com/bonfire-systems/reaper-mcp) - A comprehensive Model Context Protocol (MCP) server that enables AI agents to create fully mixed and mastered tracks in REAPER with both MIDI and audio capabilities. <sub>⭐ 146 · Python</sub>
-- [nikhilunni/demucs-rs](https://github.com/nikhilunni/demucs-rs) - Rust powered waveform source separation <sub>⭐ 146 · Rust</sub>
-- [liuxubo717/LASS](https://github.com/liuxubo717/LASS) - This repo hosts the code and model of "Separate What You Describe: Language-Queried Audio Source Separation", Interspeech 2022 <sub>⭐ 145 · Python</sub>
-- [sinanuozdemir/oreilly-hands-on-gpt-llm](https://github.com/sinanuozdemir/oreilly-hands-on-gpt-llm) - Mastering the Art of Scalable and Efficient AI Model Deployment <sub>⭐ 145 · Jupyter Notebook</sub>
-- [MaryleenAmaizu/ML-AI-Scholarships](https://github.com/MaryleenAmaizu/ML-AI-Scholarships) - Funding opportunities for graduate studies in Machine Learning and AI for Master's and PhD programs <sub>⭐ 143</sub>
-- [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman's Filmmaker Suite — ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, Stem Studio, and the Unofficial DaVinci MCP: AI-native… <sub>⭐ 143 · Shell</sub>
-- [fgnt/sms_wsj](https://github.com/fgnt/sms_wsj) - SMS-WSJ: Spatialized Multi-Speaker Wall Street Journal database for multi-channel source separation and recognition <sub>⭐ 135 · Python</sub>
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: "mass ulw" 키워드를 프롬프트로 입력합니다. 이제 당신은 그래프 엔지니어링의 마스터입니다. <sub>⭐ 69.8k · TypeScript</sub>
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer 소스 분리 라이브러리는 pretrained 모델을 포함. <sub>⭐ 28.5k · Python</sub>
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - Deep Neural Networks를 사용하는 Vocal Remover 용 GUI. <sub>⭐ 26.5k · Python</sub>
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, Speaker diarization, 연설 증진, 소스 분리 및 인터넷 연결없이 onnxruntime을 가진 차세대 Kaldi를 사용하여 VAD. 지원 임베디드 시스템 ... <sub>⭐ 15.1k · C++</sub>
+- [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 나노 바나 프로 프 프롬프트와 예의 큐레이트 목록입니다. 신속한 엔지니어링을 마스터하고 Nano banana Pro (Nano banana 2) AI의 창조적 잠재력을 탐구하는 데 대한 귀하의 go-to 리소스 ... <sub>⭐ 10.3k</sub>
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub Copilot을 AI Peer Programming 리소스로 사용하는 데 필요한 모든 것을 가르치는 멀티 모듈 코스. <sub>⭐ 8.1k · Python</sub>
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - YouTube/Bilibili를 위한 오픈 소스 AI 비디오 로컬라이제이션 및 dubbing: 음성 인식, 자막 번역, 목소리 복제, 오디오 믹싱과 렌더링. AI 。 <sub>⭐ 5.6k · Python</sub>
+- [kwai/DouZero](https://github.com/kwai/DouZero) - (ICML 2021) DouZero : Self-Play Deep Reinforcement Learning / MasterAI와 마스터링 도우디 <sub>⭐ 4.7k · Python</sub>
+- [modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) - AI-Powered Speech Processing Toolkit 및 Open Source SOTA Pretrained Models, Supporting Speech Enhancement, 분리 및 Target Speaker Extraction 등 <sub>⭐ 4.5k · Python</sub>
+- [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Spleeter 용 Windows 데스크톱 프런트 엔드 - AI 소스 분리 <sub>⭐ 2.8k · C#</sub>
+- [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - PyTorch 기반 오디오 소스 분리 도구 키트 <sub>⭐ 2.6k · Python</sub>
+- [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, 한 번에 하나의 개념 <sub>⭐ 2.4k · Jupyter Notebook</sub>
+- [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - 음악 소스 분리를위한 교육 모델에 대한 저장소. <sub>⭐ 1.6k · Python</sub>
+- [Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK) - AuK: Speech Generation 및 Editing을 위한 Open-Source Foundational 모델 <sub>⭐ 1.4k · Python</sub>
+- [nomadkaraoke/python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator) - 줄기세포 기술의 선두주자인 CLI(예: Instrumental/vocals) 분리 또는 python 패키지로 다양한 놀라운 사전 훈련 모델 (UVR에서 프라이데이리적으로)을 사용하여 쉽게 사용 <sub>⭐ 1.4k · Python</sub>
+- [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) - 앞으로 배포 엔지니어 (FDE)가되기 위해 definitive 로드맵. Master AI Agents, Enterprise Data Architecture 및 Strategic Consulting. HQ와 필드 사이의 간격을 강조합니다. 영감을받은 ... <sub>⭐ 1.3k</sub>
+- [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - 오디오 소스 분리용 Wave-U-Net 구현 <sub>⭐ 947 · Python</sub>
+- [microsoft/rag-time](https://github.com/microsoft/rag-time) - RAG 시간: 마스터링에 5 주 학습 여행 <sub>⭐ 910 · Jupyter Notebook</sub>
+- [Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization) - AI 및 Machine Learning의 Toolkit을 마스터하십시오. 기계 학습과 데이터 과학을위한 수학은 기본 수학 도구 키트를 배울 수있는 초보자 친화적 인 특수화입니다 ... <sub>⭐ 886 · Jupyter Notebook</sub>
+- [andabi/music-source-separation](https://github.com/andabi/music-source-separation) - TensorFlow에서 작성된 음악의 노래를 분리하는 데 대한 깊은 신경 네트워크 <sub>⭐ 799 · Python</sub>
+- [Eddycrack864/UVR5-UI](https://github.com/Eddycrack864/UVR5-UI) - Gradio UI로 궁극적인 Vocal 제거제 5. 여러 모델을 사용하여 다양한 줄기에 오디오 파일을 분리 <sub>⭐ 773 · Python</sub>
+- [trypear/pearai-master](https://github.com/trypear/pearai-master) - PearAI를 위한 주된 Repo <sub>⭐ 772 · Shell</sub>
+- [AlphaGBM/investment-masters](https://github.com/AlphaGBM/investment-masters) - 뷔페, Dalio, Soros, Marks & more – 15 마스터의 방법론 + 13F 추적에서 투자 지혜를 AI 에이전트에 내장. <sub>⭐ 633</sub>
+- [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) - 138 이중 언어 AI 마케팅 기술 (69 VN + 69 Global) Claude Code, OpenCode, Codex, VS Code. 4 역할 SOP 팩 - 콘텐츠, 디자인, 성능, 리더 ops — 플러스 전략, 개인 브랜드, AI ... <sub>⭐ 599 · PowerShell</sub>
+- [salesforce/CodeRL](https://github.com/salesforce/CodeRL) - 이것은 종이 CodeRL에 대한 공식 코드입니다 : Pretrained Models 및 Deep Reinforcement Learning (NeurIPS22)를 통해 Mastering Code Generation. <sub>⭐ 576 · Python</sub>
+- [adrianhajdin/ai_mock_interviews](https://github.com/adrianhajdin/ai_mock_interviews) - 면접을 마스터 할 준비가? 다음으로 실시간 AI 기반 모의 인터뷰 플랫폼을 구축하기 위해 우리와 함께하십시오.js 및 Vapi AI, 개인화 된 준비 세션을 제공합니다. <sub>⭐ 571 · TypeScript</sub>
+- [QuantaAlpha/RepoMaster](https://github.com/QuantaAlpha/RepoMaster) - RepoMaster: GitHub를 마스터하는 오픈 소스 AI 에이전트. 그것은 강력한 도구로 모든 코드 저장소를 회전, 자율적인 작업 해결의 새로운 수준을 달성. Claude-Code에 개방 된 대안. <sub>⭐ 550 · Python</sub>
+- [MTG/DeepConvSep](https://github.com/MTG/DeepConvSep) - Musical Source Separation를 위한 깊은 Convolutional 신경 네트워크 <sub>⭐ 484 · Python</sub>
+- [jamesmawm/mastering-python-for-finance-second-edition](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - 소스 코드 : 금융을위한 마스터링 파이썬, Second Edition <sub>⭐ 472 · Jupyter Notebook</sub>
+- [sjtu-sai-agents/ML-Master](https://github.com/sjtu-sai-agents/ML-Master) - "ML-Master의 공식 구현 : Exploration 및 Reasoning 통합을 통해 AI-for-AI" <sub>⭐ 452 · Python</sub>
+- [koki7o/claude-code-for-beginners](https://github.com/koki7o/claude-code-for-beginners) - Claude Code로 AI-Powered Development를 마스터하기 위한 완벽한 초보자 과정 <sub>⭐ 442</sub>
+- [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, 오픈 소스 AI 코딩 에이전트 — 설정, 에이전트, 기술, 플러그인, MCP, Zen & headless CI. <sub>⭐ 396 · JavaScript</sub>
+- [microsoft/mastering-github-copilot-for-dotnet-csharp-developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) - 마스터 GitHub Copilot for C#/.NET development via this curriculum! AI 기반 페어링 프로그래밍을 배우고 워크플로우를 최적화하고, 더 깨끗한 코드를 작성하세요. <sub>⭐ 389 · C#</sub>
+- [hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) - Claude Code와 Spaced repetition을 가진 AI-powered 학습 코치 - 개인화 된 syllabi 및 진행 추적으로 더 빠른 지식 <sub>⭐ 380 · Python</sub>
+- [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Source Separation에 대한 깊은 재전류 신경망 <sub>⭐ 371 · MATLAB</sub>
+- [luckrnx09/python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers) - Open-source ebook은 JavaScript 엔지니어가 Python 언어를 신속하게 마스터할 수 있도록 도와줍니다. <sub>⭐ 364 · TypeScript</sub>
+- [etzinis/sudo_rm_rf](https://github.com/etzinis/sudo_rm_rf) - 효율적인 오디오 소스 분리를위한 SuDoRm-Rf 네트워크에 대한 코드. SuDoRm-Rf는 멀티 솔루션의 SUCcessive DOwnsampling 및 Resampling을 위해 서 있습니다 ... <sub>⭐ 339 · Jupyter Notebook</sub>
+- [Noizefield/audio-plugin-coder](https://github.com/Noizefield/audio-plugin-coder) - Audio Plugin Coder (APC)는 음악가, 생산자, 사운드 디자이너 및 개발자를 가능하게하는 획기적인 오픈 소스 프레임 워크로 자연을 사용하여 VST3/AU 오디오 플러그인을 만들 수 있습니다. <sub>⭐ 327 · HTML</sub>
+- [tumourlove/monolith](https://github.com/tumourlove/monolith) - Unreal Engine 5.7 & 5.8 용 MCP 플러그인 - Blueprints, Materials, Niagara, Animation, Mesh, AI, GAS, Logic Driver, ComboGraph, UI, Audio 및 Reflection에 대한 완벽한 읽기 / 쓰기 액세스를 제공합니다 ... <sub>⭐ 321 · C++</sub>
+- [AppleHolic/source_separation](https://github.com/AppleHolic/source_separation) - Pytorch를 사용하여 딥러닝 기반 음성 소스 분리 <sub>⭐ 319 · Jupyter Notebook</sub>
+- [tky823/DNN-based_source_separation](https://github.com/tky823/DNN-based_source_separation) - DNN 기반 소스 분리의 PyTorch 구현. <sub>⭐ 312 · Python</sub>
+- [fgnt/pb_bss](https://github.com/fgnt/pb_bss) - 오디오 신호의 블라인드 소스 분리를위한 EM 알고리즘 모음 <sub>⭐ 305 · Python</sub>
+- [ai-hero-dev/ai-sdk-v6-crash-course](https://github.com/ai-hero-dev/ai-sdk-v6-crash-course) - 57 Matt Pocock에서 Vercel의 AI SDK v5를 마스터하는 운동 <sub>⭐ 287 · TypeScript</sub>
+- [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - Master AI inference, AI 에이전트 하네스 시스템 및 하드웨어 엔지니어링 - 그 다음 물리적 AI 칩을 설계. 즉 목표입니다. <sub>⭐ 282 · HTML</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - Tensorflow에 Neural Networks (SSD)를 사용하여. 이 재포 문서 단계 및 스크립트는 Tensorflow (Object Detection API)을 사용하여 손 검출기를 훈련하는 데 사용됩니다. DNN 기반 작업과 마찬가지로 가장 비싼 ... <sub>⭐ 282 · Python</sub>
+- [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) - Claude Code와 Claude.ai를 위한 AI-powered LeetCode & DSA 멘토. 지능적인 지도, 진보적 인 힌트 및 패턴 인식 훈련을 통해 마스터 알고리즘 - 그냥 복사 투표하지 ... <sub>⭐ 281 · Python</sub>
+- [shahadot786/complete-full-stack-roadmap](https://github.com/shahadot786/complete-full-stack-roadmap) - 궁극적 인 학습 허브 : 마스터 프론트 엔드, 백엔드, 모바일, DevOps, 데이터 과학, AI / ML 및 사이의 모든. 완벽한 기술 전문가가되기 위해 원 스톱 저장소. <sub>⭐ 275</sub>
+- [royshil/obs-urlsource](https://github.com/royshil/obs-urlsource) - OBS 플러그인 URL 또는 파일에서 데이터를 fetch, API 또는 AI 서비스에 연결, 응답 및 표시 텍스트, 이미지 또는 오디오 현장에 <sub>⭐ 269 · C++</sub>
+- [yesbhautik/Master-AI-BOT](https://github.com/yesbhautik/Master-AI-BOT) - Master AI BOT : 빠른 제한없는 Telegram 봇과 GPT-4 터보의 힘을 발휘합니다. 일상 사용 한계와 래기 인터페이스에 대한 Goodbye를 말하십시오. 특별한 채팅 모드, 그룹 채팅 지원 및 ... <sub>⭐ 267 · Python</sub>
+- [thooore/SpleeterGUI](https://github.com/thooore/SpleeterGUI) - Spleeter의 Windows 데스크톱 프런트 엔드 - AI 소스 분리 - 포크 : https://github.com/boy1dr/SpleeterGui <sub>⭐ 257 · C#</sub>
+- [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) - CleanStream은 AI를 사용하여 원치 않는 단어와 utterances에서 라이브 오디오 스트림을 청소하는 OBS 플러그인입니다. <sub>⭐ 234 · C++</sub>
+- [adrianhajdin/travel-agency-dashboard](https://github.com/adrianhajdin/travel-agency-dashboard) - React, React Router v7, Syncfusion, Appwrite 및 Gemini AI와 동적 여행 대시보드를 구축하십시오! 마스터 인증은 대화 형 차트를 만들고 뛰어난 기능을 위해 Gemini AI를 통합합니다. <sub>⭐ 228 · TypeScript</sub>
+- [francesclluis/source-separation-wavenet](https://github.com/francesclluis/source-separation-wavenet) - end-to-end 음악 소스 분리를위한 신경 네트워크 <sub>⭐ 227 · Python</sub>
+- [craigmacartney/Wave-U-Net-For-Speech-Enhancement](https://github.com/craigmacartney/Wave-U-Net-For-Speech-Enhancement) - Wave-U-Net과 향상된 음성 향상, 오디오 소스 분리를 위한 깊은 복잡한 신경망 아키텍처로 시간도메인에서 연설 증진을 위해 구현되었습니다. <sub>⭐ 224 · Python</sub>
+- [automazeio/claude-code-for-power-users](https://github.com/automazeio/claude-code-for-power-users) - Autocomplete에서 AI Architect에: 직업적인 발달을 위한 Mastering Claude 부호 <sub>⭐ 221</sub>
+- [adobe-research/DeepAFx](https://github.com/adobe-research/DeepAFx) - 세 번째 파티 오디오 효과 플러그인 깊은 신경 네트워크 내에서 차별화 레이어. <sub>⭐ 216 · Jupyter Notebook</sub>
+- [glittercowboy/plugin-freedom-system](https://github.com/glittercowboy/plugin-freedom-system) - MacOS 용 AI-assisted JUCE 플러그인 개발 시스템 TÂCHES <sub>⭐ 215 · HTML</sub>
+- [sekiguchi92/SoundSourceSeparation](https://github.com/sekiguchi92/SoundSourceSeparation) - FastMNMF1, FastMNMF2 및 AR-FastMNMF2와 같은 다중 채널 소스 분리 및 dereverberation의 코드. <sub>⭐ 215 · Python</sub>
+- [speechLabBcCuny/onssen](https://github.com/speechLabBcCuny/onssen) - 오픈 소스 연설 분리 및 개선 라이브러리 <sub>⭐ 214 · Python</sub>
+- [RetroCirce/Zero_Shot_Audio_Source_Separation](https://github.com/RetroCirce/Zero_Shot_Audio_Source_Separation) - 공식 코드는 "Zero-shot Audio Source Separation through Query 기반 학습을 통해 Weakly-labeled Data", AAAI 2022 <sub>⭐ 212 · Python</sub>
+- [csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) - 신경 음향 효과의 발견 <sub>⭐ 211 · Jupyter Notebook</sub>
+- [Chrisackerman1/The-Hundred-Page-Machine-Learning-Book](https://github.com/Chrisackerman1/The-Hundred-Page-Machine-Learning-Book) - https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/General-Machine-Learning/The%20Hundred-Page%20Machine%20Learning%20Book%20Andriy%20Burkov/Links%20to%20read%20the%20chapte... <sub>⭐ 210</sub>
+- [ProjectProRepo/Agentic-AI](https://github.com/ProjectProRepo/Agentic-AI) - 이 저장소는 블로그, 튜토리얼 및 프로젝트를 포함하여 에이전트 AI를 학습하기위한 포괄적 인 리소스를 제공합니다. 이는 유전적 AI를 마스터하고 업계 수준의 응용 프로그램을 개발하는 데 도움이 될 것입니다. <sub>⭐ 206</sub>
+- [phlippe/UvA_Summaries](https://github.com/phlippe/UvA_Summaries) - UvA의 AI Master 프로그램에서 코스 요약 <sub>⭐ 200 · TeX</sub>
+- [OmniSaleGmbH/lalalai](https://github.com/OmniSaleGmbH/lalalai) - LALAL.AI API의 공식 예: 줄기 분리, 음성 청소, 목소리 복제, 소음 제거 및 오디오 처리 <sub>⭐ 196 · Python</sub>
+- [moises-ai/moises-db](https://github.com/moises-ai/moises-db) - Moises 소스 분리 공개 Dataset <sub>⭐ 195 · Python</sub>
+- [read2017/learn-anything-with-AI](https://github.com/read2017/learn-anything-with-AI) - 프로젝트 중심 학습, 마스터리 체크 및 권한 소스를 통해 거의 모든 주제를 마스터하는 재사용 가능한 AI 학습 기술. <sub>⭐ 188 · Python</sub>
+- [dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025](https://github.com/dipanjanS/mastering-intelligent-agents-langgraph-workshop-dhs2025) - 이 저장소는 모든 프리젠 테이션, 내용, 손에 python 노트북을 포함 할 것입니다 건물 간단한 복잡 에이전트에 전체 일 Agentic AI 워크샵, 배포 및 모니터링 AI 에이전트... <sub>⭐ 180 · Jupyter Notebook</sub>
+- [james34602/SpleeterRT](https://github.com/james34602/SpleeterRT) - 완전히 convolutional neural 네트워크에 실시간 monaural 근원 별거 기초는 Time-frequency 도메인에서 작동합니다. <sub>⭐ 174 · C</sub>
+- [ksm26/Multi-AI-Agent-Systems-with-crewAI](https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI) - AI 에이전트를 설계하고 정리하는 예술을 마스터하십시오. 오픈 소스 라이브러리 승무원을 사용하여 전문 AI 에이전트 팀을 만들 수있는 복잡한 멀티 단계 비즈니스 프로세스를 자동화하십시오. <sub>⭐ 169 · Jupyter Notebook</sub>
+- [VidyasagarMSC/Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) - 초급부터 고급까지 인공지능(Machine Learning & Deep Learning)을 마스터하는 가이드 <sub>⭐ 153</sub>
+- [bonfire-systems/reaper-mcp](https://github.com/bonfire-systems/reaper-mcp) - AI 에이전트가 MIDI 및 오디오 기능을 갖춘 REAPER에서 완전히 혼합하고 마스터 트랙을 만들 수있는 포괄적 인 모델 Context Protocol (MCP) 서버. <sub>⭐ 146 · Python</sub>
+- [nikhilunni/demucs-rs](https://github.com/nikhilunni/demucs-rs) - Rust 전원 파형 소스 분리 <sub>⭐ 146 · Rust</sub>
+- [liuxubo717/LASS](https://github.com/liuxubo717/LASS) - 이 재포는 "Separate What You Describe : Language-Queried Audio Source Separation", Interspeech 2022의 코드와 모델을 호스트합니다. <sub>⭐ 145 · Python</sub>
+- [sinanuozdemir/oreilly-hands-on-gpt-llm](https://github.com/sinanuozdemir/oreilly-hands-on-gpt-llm) - Scalable과 효율적인 AI Model Deployment의 예술 마스터링 <sub>⭐ 145 · Jupyter Notebook</sub>
+- [MaryleenAmaizu/ML-AI-Scholarships](https://github.com/MaryleenAmaizu/ML-AI-Scholarships) - 기계 학습 및 AI에 대한 대학원 연구를위한 기금 기회 Master's and PhD 프로그램 <sub>⭐ 143</sub>
+- [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman의 영화 제작자 스위트 - ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, Stem Studio 및 Unofficial DaVinci MCP : AI-native ... <sub>⭐ 143 · Shell</sub>
+- [fgnt/sms_wsj](https://github.com/fgnt/sms_wsj) - SMS-WSJ: 다 수로 근원 별거와 인식을 위한 공간화된 다중 스피커 벽 거리 저널 데이타베이스 <sub>⭐ 135 · Python</sub>
 
 ## 🗣️ 음성, 보컬, 복제
 
 > 음성 합성, 음성 변환, 노래하는 음성.
 
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) <sub>⭐ 62.2k · Python</sub>
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time <sub>⭐ 60.2k · Python</sub>
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create. <sub>⭐ 56.2k · TypeScript</sub>
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. <sub>⭐ 51.9k · Python</sub>
-- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production <sub>⭐ 46.1k · Python</sub>
-- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins! <sub>⭐ 38.6k · Python</sub>
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning <sub>⭐ 38.3k · Python</sub>
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model. <sub>⭐ 37.7k · Python</sub>
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - Clone a voice in 5 seconds to generate arbitrary speech in real-time <sub>⭐ 36.9k · Python</sub>
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS <sub>⭐ 32.9k · Python</sub>
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. <sub>⭐ 32.7k · Rust</sub>
-- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS <sub>⭐ 26.7k · Python</sub>
-- [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System <sub>⭐ 24.3k · Python</sub>
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages! <sub>⭐ 20.3k · Python</sub>
-- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) <sub>⭐ 18.5k · Python</sub>
-- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages <sub>⭐ 14.1k · Python</sub>
-- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice… <sub>⭐ 13.6k · Python</sub>
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal… <sub>⭐ 13.0k · Python</sub>
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation… <sub>⭐ 12.7k · Python</sub>
-- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place. <sub>⭐ 12.6k · TypeScript</sub>
-- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key <sub>⭐ 12.1k · Python</sub>
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces <sub>⭐ 11.2k · C++</sub>
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. <sub>⭐ 11.1k · Python</sub>
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 분 음성 데이터는 또한 좋은 TTS 모델을 훈련하는 데 사용할 수 있습니다! (few shot voice cloning) <sub>⭐ 62.2k · Python</sub>
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - 5 초 안에 음성을 복제하여 실시간 임의 연설을 생성합니다. <sub>⭐ 60.2k · Python</sub>
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - 오픈 소스 AI 음성 스튜디오. Clone, dictate, create. <sub>⭐ 56.2k · TypeScript</sub>
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio는 오픈 소스, 완전 로컬 ElevenLabs 대안입니다 - 음성 복제, 목소리 디자인, 비디오 dubbing, dictation, transcription & audiobook 작성을 646 언어. <sub>⭐ 51.9k · Python</sub>
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - Text-to-Speech에 대한 깊은 학습 툴킷, 연구 및 생산에서 전투 테스트 <sub>⭐ 46.1k · Python</sub>
+- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - 음성 데이터로 좋은 VC 모델을 쉽게 훈련 <= 10 분! <sub>⭐ 38.6k · Python</sub>
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: 다국어 음성 생성, 크리에이티브 보이스 디자인 및 True-to-Life Cloning을 위한 Tokenizer-Free TTS <sub>⭐ 38.3k · Python</sub>
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - MIT 및 MyShell에 의해 즉시 음성 복제. 오디오 기반 모델. <sub>⭐ 37.7k · Python</sub>
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 5 초 안에 음성을 복제하여 실시간 임의 연설을 생성합니다. <sub>⭐ 36.9k · Python</sub>
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA 오픈 소스 TTS <sub>⭐ 32.9k · Python</sub>
+- [cjpais/Handy](https://github.com/cjpais/Handy) - 완전히 오프라인 작업을 하는 무료, 오픈 소스 및 확장 가능한 연설-to-text 응용 프로그램입니다. <sub>⭐ 32.7k · Rust</sub>
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA 오픈 소스 TTS <sub>⭐ 26.7k · Python</sub>
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) - 산업 수준 제어 및 효율적인 Zero-Shot 텍스트 - TO-Speech 시스템 <sub>⭐ 24.3k · Python</sub>
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - 전자 책에서 오디오 북 생성, 음성 복제 및 1158 + 언어! <sub>⭐ 20.3k · Python</sub>
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - 대형 언어 모델, 멀티모어 및 강연 AI(자동 Speech Recognition and Text-to-Speech)에서 일하는 연구원과 개발자를 위한 확장 가능한 유전자 분석 AI 프레임워크 <sub>⭐ 18.5k · Python</sub>
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - 600개 이상의 언어를 위한 고품질 음성 Cloning TTS <sub>⭐ 14.1k · Python</sub>
+- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS는 Alibaba Cloud에서 Qwen 팀에 의해 개발 된 TTS 모델의 오픈 소스 시리즈이며 안정적이고 표현적이며 스트리밍 연설 생성, 무료 형식 음성 디자인 및 생생한 목소리를 지원합니다. <sub>⭐ 13.6k · Python</sub>
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - 제작자와 개발자를 위한 Gradio WebUI, 키 TTS (Edge-TTS, kokoro) 및 Zero-shot Voice Cloning(E2 & F5-TTS, CosyVoice)을 갖춘 Whisper 오디오 프로세싱, YouTube 다운로드, Demucs 보컬... <sub>⭐ 13.0k · Python</sub>
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Self-Supervised Learning Model, SOTA/Streaming ASR을 포함한 간편한 Speech Toolkit은 텍스트 frontend, Speaker Verification System, End-to-End 음성 번역기를 사용하여 TTS를 스트리밍합니다. <sub>⭐ 12.7k · Python</sub>
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - 전적으로 KrillinAI. Codex에 의해 구동되는 제작자를 위한 오픈 소스 AI 워크스페이스. 동영상, 이미지, 음성, 아바타, 비디오 번역 및 편집을 만들 수 있습니다. <sub>⭐ 12.6k · TypeScript</sub>
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Microsoft Edge 또는 Windows 또는 API 키 필요 없이 Python에서 Microsoft Edge의 온라인 텍스트 - 투 - 슬레이브 서비스를 사용하십시오. <sub>⭐ 12.1k · Python</sub>
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - 텍스트에 매우 낮은 대기 시간 연설, intent 인식 및 음성 에이전트와 인터페이스를 구축하기위한 문자 <sub>⭐ 11.2k · C++</sub>
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - 실시간 스트리밍 ASR, Speaker diarization, translation 및 OpenAI/Deepgram-compatible API와 로컬 음성 텍스트. <sub>⭐ 11.1k · Python</sub>
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework에 내장된 AI Agent Engineering Platform <sub>⭐ 10.7k · TypeScript</sub>
-- [mozilla/TTS](https://github.com/mozilla/TTS) - Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts) <sub>⭐ 10.2k · Jupyter Notebook</sub>
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. <sub>⭐ 10.2k · Python</sub>
-- [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild <sub>⭐ 8.6k · Jupyter Notebook</sub>
-- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. <sub>⭐ 8.0k · Python</sub>
-- [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech <sub>⭐ 7.9k · Python</sub>
-- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. <sub>⭐ 7.7k · Python</sub>
-- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS… <sub>⭐ 7.2k · Python</sub>
-- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models <sub>⭐ 6.4k · Python</sub>
-- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple <sub>⭐ 6.1k · Jupyter Notebook</sub>
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support. <sub>⭐ 5.8k · Python</sub>
-- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine <sub>⭐ 5.7k · C++</sub>
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI <sub>⭐ 5.5k · Python</sub>
-- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime. <sub>⭐ 5.4k · Python</sub>
-- [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code <sub>⭐ 4.9k · Python</sub>
-- [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper. <sub>⭐ 4.7k · Jupyter Notebook</sub>
-- [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) - A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation <sub>⭐ 4.4k · Python</sub>
-- [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - An open-source model family for long-form speech, dialogue synthesis, voice design, sound effects, and real-time streaming TTS <sub>⭐ 4.2k · Python</sub>
-- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation. <sub>⭐ 4.1k · Jupyter Notebook</sub>
-- [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime <sub>⭐ 4.0k · Python</sub>
-- [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. <sub>⭐ 4.0k · Jupyter Notebook</sub>
-- [buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow <sub>⭐ 4.0k · Python</sub>
-- [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - Deep neural networks for voice conversion (voice style transfer) in Tensorflow <sub>⭐ 3.9k · Python</sub>
-- [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance. <sub>⭐ 3.8k · Python</sub>
-- [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation <sub>⭐ 3.7k · Python</sub>
-- [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model <sub>⭐ 3.2k · Python</sub>
-- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable Diffusion, tool calling, and local-network servers.… <sub>⭐ 3.2k · TypeScript</sub>
-- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS <sub>⭐ 3.2k · Swift</sub>
-- [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC) <sub>⭐ 3.1k</sub>
-- [AutoArk/GPA](https://github.com/AutoArk/GPA) - (AutoArk) GPA (General Purpose Audio) can do ASR, TTS and voice conversion with one tiny model! <sub>⭐ 3.1k · Python</sub>
-- [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework. <sub>⭐ 3.0k · Python</sub>
-- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. <sub>⭐ 2.9k · Swift</sub>
-- [KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning) - Bark Voice Cloning and Voice Cloning for Chinese Speech <sub>⭐ 2.9k · Jupyter Notebook</sub>
-- [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment) <sub>⭐ 2.9k · Python</sub>
-- [PlayVoice/whisper-vits-svc](https://github.com/PlayVoice/whisper-vits-svc) - Core Engine of Singing Voice Conversion & Singing Voice Clone <sub>⭐ 2.9k · Python</sub>
-- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses… <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) - Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt <sub>⭐ 2.7k · Python</sub>
-- [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model <sub>⭐ 2.7k · Jupyter Notebook</sub>
-- [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing) <sub>⭐ 2.7k · Python</sub>
-- [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API <sub>⭐ 2.6k · Python</sub>
-- [coqui-ai/STT](https://github.com/coqui-ai/STT) - STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. <sub>⭐ 2.6k · C++</sub>
-- [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java <sub>⭐ 2.6k · Java</sub>
-- [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python <sub>⭐ 2.5k · Python</sub>
-- [munafio/chatify](https://github.com/munafio/chatify) - Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one command. <sub>⭐ 2.4k · PHP</sub>
-- [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html <sub>⭐ 2.2k · Python</sub>
-- [DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Controllable and fast Text-to-Speech for over 7000 languages! <sub>⭐ 2.2k · Python</sub>
-- [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech" <sub>⭐ 2.2k · Python</sub>
-- [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs <sub>⭐ 2.1k · Python</sub>
-- [joshnewlan/say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls <sub>⭐ 2.1k · Python</sub>
-- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families <sub>⭐ 2.0k · C++</sub>
-- [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models <sub>⭐ 2.0k · Python</sub>
-- [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API. <sub>⭐ 1.9k · Python</sub>
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local! <sub>⭐ 1.9k · JavaScript</sub>
-- [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts) - A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents. <sub>⭐ 1.9k · Python</sub>
-- [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages <sub>⭐ 1.8k · C++</sub>
-- [Kyubyong/tacotron](https://github.com/Kyubyong/tacotron) - A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model <sub>⭐ 1.8k · Python</sub>
-- [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) - Local speech-to-text for macOS on-device AI, fully private, optional cloud <sub>⭐ 1.8k · Swift</sub>
-- [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) - FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and Speech Editing <sub>⭐ 1.8k · Python</sub>
-- [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model <sub>⭐ 1.7k · C</sub>
-- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's… <sub>⭐ 1.7k · Python</sub>
-- [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation. <sub>⭐ 1.7k · C++</sub>
-- [ekwek1/soprano](https://github.com/ekwek1/soprano) - Soprano: Instant, Ultra-Realistic Text-to-Speech <sub>⭐ 1.6k · Python</sub>
-- [semperai/amica](https://github.com/semperai/amica) - Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. <sub>⭐ 1.6k · TypeScript</sub>
-- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs. <sub>⭐ 1.6k · Python</sub>
-- [Enemyx-net/VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI) - A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows. <sub>⭐ 1.6k · Python</sub>
-- [Marak/say.js](https://github.com/Marak/say.js) - TTS (text to speech) for node.js. send text from node.js to your speakers. <sub>⭐ 1.5k · JavaScript</sub>
-- [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale… <sub>⭐ 1.5k · Python</sub>
-- [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text <sub>⭐ 1.4k · JavaScript</sub>
-- [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files. <sub>⭐ 1.4k · Python</sub>
-- [voice-cloning-app/Voice-Cloning-App](https://github.com/voice-cloning-app/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices <sub>⭐ 1.4k · Python</sub>
-- [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) - A multilingual model for long-form, multi-speaker dialogue synthesis with flexible speaker control and zero-shot voice cloning <sub>⭐ 1.4k · Python</sub>
-- [morettt/my-neuro](https://github.com/morettt/my-neuro) - This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition… <sub>⭐ 1.4k · JavaScript</sub>
-- [Aratako/Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control <sub>⭐ 1.4k · Python</sub>
-- [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) - Real-time text-to-speech with Qwen3-TTS <sub>⭐ 1.4k · Python</sub>
-- [kripken/speak.js](https://github.com/kripken/speak.js) - Text-to-Speech in JavaScript using eSpeak <sub>⭐ 1.3k · C++</sub>
-- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text (OpenAI, Ollama, Anthropic, ..) <sub>⭐ 1.3k · Lua</sub>
-- [ABexit/ASR-LLM-TTS](https://github.com/ABexit/ASR-LLM-TTS) - This is a speech interaction system built on an open-source model, integrating ASR, LLM, and TTS in sequence. The ASR model is SenceVoice, the LLM models are QWen2.5-0.5B/1.5B, and there are three… <sub>⭐ 1.3k · Python</sub>
-- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. <sub>⭐ 1.3k · Go</sub>
-- [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - A fast local neural text to speech engine for Mycroft <sub>⭐ 1.3k · Python</sub>
-- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation <sub>⭐ 1.2k · Python</sub>
-- [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite) - A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox… <sub>⭐ 1.2k · Python</sub>
-- [hgneng/ekho](https://github.com/hgneng/ekho) - Chinese text-to-speech engine <sub>⭐ 1.2k · Lex</sub>
-- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free. <sub>⭐ 1.2k · C++</sub>
-- [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software <sub>⭐ 1.2k · Vue</sub>
-- [Kyubyong/dc_tts](https://github.com/Kyubyong/dc_tts) - A TensorFlow Implementation of DC-TTS: yet another text-to-speech model <sub>⭐ 1.2k · Python</sub>
-- [PromtEngineer/Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and… <sub>⭐ 1.1k · Python</sub>
-- [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - Sample Node.js Application for the IBM Watson Speech to Text Service <sub>⭐ 1.1k · JavaScript</sub>
-- [WhiskeyCoder/Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter) - Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice… <sub>⭐ 1.1k · Python</sub>
-- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Fully local, private and cross platform Speech-to-Text with LLM Post-processing <sub>⭐ 1.1k · TypeScript</sub>
-- [k2-fsa/ZipVoice](https://github.com/k2-fsa/ZipVoice) - Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching <sub>⭐ 1.1k · Python</sub>
-- [Edresson/YourTTS](https://github.com/Edresson/YourTTS) - YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track.… <sub>⭐ 1.0k · Python</sub>
-- [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis <sub>⭐ 1.0k · Python</sub>
-- [Azure-Samples/Cognitive-Speech-TTS](https://github.com/Azure-Samples/Cognitive-Speech-TTS) - Microsoft Text-to-Speech API sample code in several languages, part of Cognitive Services. <sub>⭐ 1.0k · Python</sub>
-- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) <sub>⭐ 1.0k · Python</sub>
-- [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi <sub>⭐ 997 · C++</sub>
-- [stepfun-ai/Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) - A powerful 3B-parameter, LLM-based Reinforcement Learning audio edit model excels at editing emotion, speaking style, and paralinguistics, and features robust zero-shot text-to-speech <sub>⭐ 980 · Python</sub>
-- [Soul-AILab/SoulX-Singer](https://github.com/Soul-AILab/SoulX-Singer) - Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis <sub>⭐ 978 · Python</sub>
-- [kishanrajput23/Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant) - A python based desktop voice assistant capable of executing system-level commands, integrating speech recognition and text-to-speech, and handling asynchronous user interactions. <sub>⭐ 968 · Python</sub>
-- [athena-team/athena](https://github.com/athena-team/athena) - an open-source implementation of sequence-to-sequence based speech processing engine <sub>⭐ 967 · C++</sub>
-- [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E… <sub>⭐ 967 · Jupyter Notebook</sub>
-- [samuel-vitorino/sopro](https://github.com/samuel-vitorino/sopro) - A lightweight text-to-speech model with zero-shot voice cloning <sub>⭐ 959 · Python</sub>
-- [sandrohanea/whisper.net](https://github.com/sandrohanea/whisper.net) - Whisper.net. Speech to text made simple using Whisper Models <sub>⭐ 947 · C#</sub>
-- [jitsi/jiwer](https://github.com/jitsi/jiwer) - Evaluate your speech-to-text system with similarity measures such as word error rate (WER) <sub>⭐ 931 · Python</sub>
-- [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) - Vonage REST API client for PHP. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more. <sub>⭐ 931 · PHP</sub>
-- [FireRedTeam/FireRedTTS](https://github.com/FireRedTeam/FireRedTTS) - An Open-Sourced LLM-empowered Foundation TTS System <sub>⭐ 924 · Python</sub>
-- [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model. <sub>⭐ 914 · Python</sub>
-- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer <sub>⭐ 894 · Jupyter Notebook</sub>
-- [NVIDIA/mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data <sub>⭐ 870 · Jupyter Notebook</sub>
-- [PABannier/bark.cpp](https://github.com/PABannier/bark.cpp) - Suno AI's Bark model in C/C++ for fast text-to-speech generation <sub>⭐ 869 · C++</sub>
-- [paulilaaso/lue](https://github.com/paulilaaso/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD. <sub>⭐ 816 · Python</sub>
-- [VRCWizard/TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Speech to Text to Speech. Song now playing. Sends text as OSC messages to VRChat to display on avatar. (STTTS) (Speech to TTS) (VRC STT System) (VTuber TTS) <sub>⭐ 809 · C#</sub>
+- [mozilla/TTS](https://github.com/mozilla/TTS) - 텍스트에 대한 딥 학습 (논문 포럼 : https://discourse.mozilla.org/c/tts) <sub>⭐ 10.2k · Jupyter Notebook</sub>
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - 고급 음성 활동 탐지, 깨어있는 단어 활성화 및 즉시 transcription을 가진 튼튼한 능률적인, 저속한 연설에 원본 도서관. <sub>⭐ 10.2k · Python</sub>
+- [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild에 대해 자세히 알아보기 <sub>⭐ 8.6k · Jupyter Notebook</sub>
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - Apple의 MLX 프레임 워크에 내장 된 텍스트 - 투 - 슬픈 (STT) 및 연설 - 투 - 슬픔 (STS) 라이브러리, 애플 실리콘에서 효율적인 음성 분석 제공. <sub>⭐ 8.0k · Python</sub>
+- [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: End-to-End Text-to-Speech를 위한 Adversarial Learning을 가진 조건적인 Variational Autoencoder <sub>⭐ 7.9k · Python</sub>
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - MyShell.ai의 고품질 다국어 텍스트 - 투 - 슬프 라이브러리. 지원 영어, 스페인어, 프랑스어, 중국어, 일본어 및 한국어. <sub>⭐ 7.7k · Python</sub>
+- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1은 200k 시간 이상의 다양한 다국어 연설에서 훈련 된 최고의 개방형 텍스트 - 투 - 슬레이브 모델입니다. 표현력과 파에 대한 품질을 제공하거나 능가적 인 - 최고 TTS ... <sub>⭐ 7.2k · Python</sub>
+- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: 인간의 수준 텍스트 - 투 - 슬픔을 통해 스타일 확산과 큰 연설 언어 모델과 Adversarial 교육 <sub>⭐ 6.4k · Python</sub>
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: 사전 훈련된 text-to-speech 모델은 embarrasssingly 단순하게 만들었습니다. <sub>⭐ 6.1k · Jupyter Notebook</sub>
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - 오픈 소스 음성 AI 플랫폼. Vapi 및 Retell에 대한 자체 호스팅 대안. Prem에서, 연설을 통해 BYOK 또는 LLM / STT / TTS, 시각적 워크플로 빌더와 MCP 네이티브 및 텔레포니 지원. <sub>⭐ 5.8k · Python</sub>
+- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - 빠르고 로컬 신경 텍스트 - to-speech 엔진 <sub>⭐ 5.7k · C++</sub>
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Kokoro-82M 텍스트 - 투 - 스페커 w / 멀티 플랫폼 CPU, AMD, NVIDIA GPU PyTorch에 대한 Dockerized OpenAI 호환 래퍼; 멀티 스피커, 클론 튜닝, 캡션 타임스탬프, SSML, 옵션 readalong 웹 UI <sub>⭐ 5.5k · Python</sub>
+- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - 150x의 속도에 도달하는 고품질 급속한 TTS 음성 복제 모형. <sub>⭐ 5.4k · Python</sub>
+- [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022를 통해 노래하는 음성 종합; 공식적인 부호 <sub>⭐ 4.9k · Python</sub>
+- [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - Whisper에 의해 구축 된 오픈 소스 텍스트 - 투 - 슬픈 시스템. <sub>⭐ 4.7k · Jupyter Notebook</sub>
+- [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) - 실시간 CPU 간섭, 음성 복제 및 48kHz 스테레오 생성을 위한 100M-parameter 다언어 TTS 모델 <sub>⭐ 4.4k · Python</sub>
+- [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - 긴 형식의 연설, 대화 합성, 음성 디자인, 음향 효과 및 실시간 스트리밍 TTS를 위한 오픈 소스 모델 제품군 <sub>⭐ 4.2k · Python</sub>
+- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni는 Alibaba Cloud의 Qwen 팀에 의해 엔드 투 엔드 멀티 모달 모델이며 텍스트, 오디오, 비전, 비디오 및 실시간 연설 생성을 이해할 수 있습니다. <sub>⭐ 4.1k · Jupyter Notebook</sub>
+- [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - 실시간 음성을 변환 <sub>⭐ 4.0k · Python</sub>
+- [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni는 Alibaba Cloud의 Qwen 팀에 의해 개발된 네이티브 엔드 투 엔드이며 텍스트, 오디오, 이미지 및 비디오뿐만 아니라 실시간 연설을 생성 할 수 있습니다. <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : DeepMind의 WaveNet 및 10sorflow에 기반한 End-to-end 문장 수준 영어 음성 인식 <sub>⭐ 4.0k · Python</sub>
+- [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - Tensorflow의 음성 변환 (voice style transfer)에 대한 깊은 신경 네트워크 <sub>⭐ 3.9k · Python</sub>
+- [IAHispano/Applio](https://github.com/IAHispano/Applio) - 사용하기 쉽고 성능에 중점을 둔 단순하고 고품질의 음성 변환 도구. <sub>⭐ 3.8k · Python</sub>
+- [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper 실시간 스트리밍에 대한 긴 연설-to-text transcription 과 번역 <sub>⭐ 3.7k · Python</sub>
+- [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS는 8 억, 높은 emotive 텍스트 - to-speech 모델입니다 <sub>⭐ 3.2k · Python</sub>
+- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - 스위스 육군 칼 오프 라인 AI. 채팅, 보고, 말하기, 그리고 휴대 전화 또는 Mac에서 이미지를 생성 — GGUF LLMs, 비전, Whisper 연설-to-text, 안정 확산, 도구 호출 및 로컬 네트워크 서버.... <sub>⭐ 3.2k · TypeScript</sub>
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% 개인 on-device 음성 모델은 Mac OS에서 연설 텍스트 및 회의 transcription을 위해 <sub>⭐ 3.2k · Swift</sub>
+- [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - 자동 음성 인식 (ASR), 스피커 검증, 연설 Synthesis, Text-to-Speech (TTS), 언어 모델링, 노래 목소리 증후군 (SVS), 음성 변환 (VC) <sub>⭐ 3.1k</sub>
+- [AutoArk/GPA](https://github.com/AutoArk/GPA) - (AutoArk) GPA (일반 목적 오디오)는 ASR, TTS 및 음성 변환을 하나의 작은 모델로 할 수 있습니다! <sub>⭐ 3.1k · Python</sub>
+- [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai의 Speech-To-Text 및 Text-To-Speech 모델은 Delayed Streams Modeling 프레임 워크를 기반으로합니다. <sub>⭐ 3.0k · Python</sub>
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - 앱의 Frontier CoreML 오디오 모델 — text-to-speech, Speech-to-text, 음성 활동 탐지 및 스피커 탈취. Swift에서 SOTA 오픈 소스에 의해 구동됩니다. <sub>⭐ 2.9k · Swift</sub>
+- [KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning) - Bark Voice Cloning 및 음성 클로닝 중국 연설 <sub>⭐ 2.9k · Jupyter Notebook</sub>
+- [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas는 Python/C 라이브러리이며, 도구 세트로 오디오 및 텍스트 동기화 (aka forced alignment) <sub>⭐ 2.9k · Python</sub>
+- [PlayVoice/whisper-vits-svc](https://github.com/PlayVoice/whisper-vits-svc) - 음성 변환 및 노래 음성 복제의 핵심 엔진 <sub>⭐ 2.9k · Python</sub>
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, 안정적인 확산, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses... <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) - 음성 차단을 가진 베트남 TTS • On-device • 실시간 CPU 출현 • 48kHz 오디오 품질 • Chuyrangn văn bpresentn thành gihungng nói ting Việt • 문자 티크 Việt • TTS ting Việt <sub>⭐ 2.7k · Python</sub>
+- [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - diffusion model을 통한 음성 변환 <sub>⭐ 2.7k · Jupyter Notebook</sub>
+- [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - DDSP(Differentiable Digital Signal Processing) 기반의 실시간 음성 변환 시스템 <sub>⭐ 2.7k · Python</sub>
+- [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python 라이브러리 및 CLI 도구는 Google 번역의 텍스트 - to-speech API로 인터페이스합니다. <sub>⭐ 2.6k · Python</sub>
+- [coqui-ai/STT](https://github.com/coqui-ai/STT) - STT - Speech-to-Text에 대한 깊은 학습 툴킷. 교육 및 배포 STT 모델은 결코 쉽지 않았습니다. <sub>⭐ 2.6k · C++</sub>
+- [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- 오픈 소스, 순수 자바로 작성된 다국어 텍스트 to-speech 종합 시스템 <sub>⭐ 2.6k · Java</sub>
+- [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - python에 대한 강연 합성 <sub>⭐ 2.5k · Python</sub>
+- [munafio/chatify](https://github.com/munafio/chatify) - Laravel의 #1 실시간 채팅 패키지. 직접 메시지, 그룹, 음성 메모 및 훨씬 더, 전체 메신저 UI와 함께 - 플러스 헤드리스 API. 하나 개의 명령에 설치. <sub>⭐ 2.4k · PHP</sub>
+- [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) - VALL-E(Zero-Shot Text-To-Speech)의 PyTorch 구현, 데모를 재생 https://lifeiteng.github.io/valle/index.html <sub>⭐ 2.2k · Python</sub>
+- [DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - 7000 개 이상의 언어로 빠르고 빠른 텍스트로 변환! <sub>⭐ 2.2k · Python</sub>
+- [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2) - Microsoft의 "FastSpeech 2 : 빠르고 고품질 End-to-End Text to Speech" 구현 <sub>⭐ 2.2k · Python</sub>
+- [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - OpenAI, Azure 또는 ElevenLabs를 대체하기 위해 무료 고품질 텍스트 - 투-스페치 API 엔드 포인트 <sub>⭐ 2.1k · Python</sub>
+- [joshnewlan/say_what](https://github.com/joshnewlan/say_what) - con 통화 중에 음성을 완전히 체크 아웃 할 수 있도록 <sub>⭐ 2.1k · Python</sub>
+- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - 16+ 모델 가족을 위한 ggml 연설에 원본 inference <sub>⭐ 2.0k · C++</sub>
+- [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch convolutional neural 네트워크 기반 텍스트 - to-speech 종합 모델의 구현 <sub>⭐ 2.0k · Python</sub>
+- [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - 간단한, 해킹 가능한 오프라인 연설 텍스트 - VOSK-API를 사용하여. <sub>⭐ 1.9k · Python</sub>
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG 및 LLMs. 모든 로컬! <sub>⭐ 1.9k · JavaScript</sub>
+- [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts) - Kokoro 모델을 사용하여 CLI 텍스트 - 투 - 슬픈 도구, 여러 언어 지원, 음성 (혼합 포함) 및 EPUB 책과 PDF 문서를 포함한 다양한 입력 형식. <sub>⭐ 1.9k · Python</sub>
+- [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - 러시아 및 기타 언어에 대한 무료 및 오픈 소스 연설 합성기 <sub>⭐ 1.8k · C++</sub>
+- [Kyubyong/tacotron](https://github.com/Kyubyong/tacotron) - Tacotron의 TensorFlow 구현 : 완전히 종료 된 텍스트 - TO-Speech Synthesis 모델 <sub>⭐ 1.8k · Python</sub>
+- [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) - MacOS on-device AI, 완전 개인, 옵션 클라우드에 대한 로컬 연설 <sub>⭐ 1.8k · Swift</sub>
+- [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) - FireRedTTS3: 다국어 및 멀티 다이렉트 음성 Cloning을 사용하여 안내된 목소리 디자인과 강연 편집 <sub>⭐ 1.8k · Python</sub>
+- [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - 텍스트 모델에 Mistral Voxtral Realtime 4B 연설의 순수 C inference <sub>⭐ 1.7k · C</sub>
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - 자동으로 자막 파일에 기반을 둔 비디오의 텍스트를 번역하고, 그 다음 AI 음성 서비스를 사용하여 새로운 dubbed & 번역 오디오 트랙을 만들 수 있습니다. 연설은 자막을 사용하여 동기화됩니다 ... <sub>⭐ 1.7k · Python</sub>
+- [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux 앱. 오프라인 강연과 텍스트, 음성 및 기계 번역을 통해 학습하고 번역합니다. <sub>⭐ 1.7k · C++</sub>
+- [ekwek1/soprano](https://github.com/ekwek1/soprano) - Soprano: 즉시, Ultra-Realistic 텍스트 - to-Speech <sub>⭐ 1.6k · Python</sub>
+- [semperai/amica](https://github.com/semperai/amica) - Amica는 음성 합성과 연설 인식을 가진 3D 문자와 상호 작용하는 커뮤니케이션을 위한 오픈 소스 공용영역입니다. <sub>⭐ 1.6k · TypeScript</sub>
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - 공식 MiniMax Model Context Protocol (MCP) 서버는 강력한 텍스트와 음성, 이미지 생성 및 비디오 세대 API로 상호 작용할 수 있습니다. <sub>⭐ 1.6k · Python</sub>
+- [Enemyx-net/VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI) - Microsoft의 VibeVoice text-to-speech 모델에 대한 포괄적 인 ComfyUI 통합은 ComfyUI 워크플로우 내에서 고품질의 단일 및 멀티 스피커 음성 합성을 직접 가능하게합니다. <sub>⭐ 1.6k · Python</sub>
+- [Marak/say.js](https://github.com/Marak/say.js) - node.js에 대한 TTS (텍스트 to Speech). 텍스트를 Node.js에서 스피커로 보냅니다. <sub>⭐ 1.5k · JavaScript</sub>
+- [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - 강력한 Chatterbox TTS 모델. 이 서버는 사용자 친화적 인 웹 UI, 유연한 API 엔드 포인트 (incl. OpenAI 호환), 사전 정의 음성, 목소리 복제 및 큰 오디오 북 스케일을 제공합니다 ... <sub>⭐ 1.5k · Python</sub>
+- [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Windows, Linux 및 macOS용 휴대용 로컬 AI 스튜디오. 이미지 생성을위한 Zero-setup GUI, GGUF LLMs, Text to Speech & Speech to Text <sub>⭐ 1.4k · JavaScript</sub>
+- [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - WebUI는 YouTube 비디오 또는 오디오 파일에서 모든 RVC v2 트레이드 AI 음성과 노래 표지를 만듭니다. <sub>⭐ 1.4k · Python</sub>
+- [voice-cloning-app/Voice-Cloning-App](https://github.com/voice-cloning-app/Voice-Cloning-App) - Python/Pytorch 앱을 쉽게 합성하여 인간의 목소리 <sub>⭐ 1.4k · Python</sub>
+- [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) - 긴 형식의 다국어 모델, 유연한 스피커 제어 및 제로 샷 음성 복제와 멀티 스피커 대화 합성 <sub>⭐ 1.4k · Python</sub>
+- [morettt/my-neuro](https://github.com/morettt/my-neuro) - 이 프로젝트는 사용자 정의 문자와 음성 대화를 사용하여 자신의 AI 데스크톱 동반자를 만들 수 있습니다. 1 초 만에 응답하는 기능에는 장기 기억, 시각 인식이 포함됩니다 ... <sub>⭐ 1.4k · JavaScript</sub>
+- [Aratako/Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - Emoji-driven Style Control을 사용한 Flow Matching 기반 Text-to-Speech Model <sub>⭐ 1.4k · Python</sub>
+- [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) - Qwen3-TTS와 실시간 텍스트 - 투 - 슬프 <sub>⭐ 1.4k · Python</sub>
+- [kripken/speak.js](https://github.com/kripken/speak.js) - eSpeak을 사용하여 JavaScript의 Text-to-Speech <sub>⭐ 1.3k · C++</sub>
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI 플러그인: ChatGPT 세션 & Instructable text/code 작업 및 텍스트에 대한 강연(OpenAI, Ollama, Anthropic, ..) <sub>⭐ 1.3k · Lua</sub>
+- [ABexit/ASR-LLM-TTS](https://github.com/ABexit/ASR-LLM-TTS) - 이것은 오픈 소스 모델에 내장 된 연설 상호 작용 시스템이며, ASR, LLM 및 TTS를 순서로 통합합니다. ASR 모델은 SenceVoice입니다. LLM 모델은 QWen2.5-0.5B / 1.5B이고 세 가지가있다 ... <sub>⭐ 1.3k · Python</sub>
+- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - 쿠버네티스의 AI Inference 연산자. 생산에서 ML 모델을 제공하는 가장 쉬운 방법. VLMs, LLMs, embeddings 및 Speech-to-text를 지원합니다. <sub>⭐ 1.3k · Go</sub>
+- [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - Mycroft를 위한 연설 엔진에 빠른 국부적으로 신경 원본 <sub>⭐ 1.3k · Python</sub>
+- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Linux 용 Native Speech-to-text - 빠르고 정확하고 개인적이며 해킹 가능한 시스템 전체적인 판독 <sub>⭐ 1.2k · Python</sub>
+- [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite) - ComfyUI 사용자 정의 노드 통합 로컬 멀티 엔진 다중 언어 텍스트 - 투 - 사운드 변환. 지원 : RVC, 에코 TTS, Qwen3-TTS, 코지 목소리 3, 단계 오디오 EditX, IndexTTS-2, Chatterbox ... <sub>⭐ 1.2k · Python</sub>
+- [hgneng/ekho](https://github.com/hgneng/ekho) - 중국어 텍스트 - to-speech 엔진 <sub>⭐ 1.2k · Lex</sub>
+- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: Face Swap, Lip Sync, Control Objects & Text & 배경, Restyling, Audio Separator, Clone Voice, Video Generation. 오픈 소스, 로컬 및 무료. <sub>⭐ 1.2k · C++</sub>
+- [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - 무료 및 오픈 소스 텍스트 - to-speech 소프트웨어 <sub>⭐ 1.2k · Vue</sub>
+- [Kyubyong/dc_tts](https://github.com/Kyubyong/dc_tts) - DC-TTS의 TensorFlow 구현 : 아직 다른 텍스트 - 투 - 슬픔 모델 <sub>⭐ 1.2k · Python</sub>
+- [PromtEngineer/Verbi](https://github.com/PromtEngineer/Verbi) - 상태-of-the-art transcription, 응답 생성 및 텍스트 - 투 - speech 모델 실험을위한 모듈 형 음성 보조 응용 프로그램입니다. OpenAI, Groq, Elevanlabs, CartesiaAI 및 ... <sub>⭐ 1.1k · Python</sub>
+- [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 샘플 Node.js 애플리케이션 IBM Watson Speech to Text Service <sub>⭐ 1.1k · JavaScript</sub>
+- [WhiskeyCoder/Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter) - PDF, EPUBs, DOCX, DOC 및 TXT 파일을 ** Qwen3 TTS Voice Model**를 사용하여 고품질 오디오 북으로 변환하십시오. - 자연 음성 생성과 목소리에 능숙한 오픈 소스 음성 합성 시스템 ... <sub>⭐ 1.1k · Python</sub>
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - LLM Post-processing과 함께 현지, 민간 및 크로스 플랫폼 Speech-to-Text <sub>⭐ 1.1k · TypeScript</sub>
+- [k2-fsa/ZipVoice](https://github.com/k2-fsa/ZipVoice) - 흐름 일치를 가진 빠르고 고품질 Zero-Shot 텍스트 - 투 - Speech <sub>⭐ 1.1k · Python</sub>
+- [Edresson/YourTTS](https://github.com/Edresson/YourTTS) - YourTTS: Zero-Shot Multi-Speaker TTS와 Zero-Shot 음성 변환을 통해 <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered 멀티 서스펜션 오디오 북 생성기 — LLM 스크립트 주석, 음성 복제, 음성 디자인, LoRA 훈련, 인라인 스타일 컨트롤 및 MP3에 수출, 장 M4B 또는 Audacity 멀티 트랙.... <sub>⭐ 1.0k · Python</sub>
+- [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN 기반 Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis <sub>⭐ 1.0k · Python</sub>
+- [Azure-Samples/Cognitive-Speech-TTS](https://github.com/Azure-Samples/Cognitive-Speech-TTS) - 여러 언어의 Microsoft Text-to-Speech API 샘플 코드, Cognitive 서비스의 일부. <sub>⭐ 1.0k · Python</sub>
+- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - PortaSpeech (NeurIPS 2021) 및 DiffSpeech (AAAI 2022)의 공식 PyTorch 구현을 포함하여 비 자동화 텍스트 - 투 - 스페커 (NAR-TTS) 프레임 워크 <sub>⭐ 1.0k · Python</sub>
+- [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - next-gen Kaldi와 함께 Speech-to-text 서버 프레임 워크 <sub>⭐ 997 · C++</sub>
+- [stepfun-ai/Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) - 강력한 3B-parameter, LLM 기반 Reinforcement Learning audio edit model excels at 편집 감정, 말하기 스타일 및 패러링 통계, 그리고 강력한 Zero-shot text-to-speech를 특징으로 합니다. <sub>⭐ 980 · Python</sub>
+- [Soul-AILab/SoulX-Singer](https://github.com/Soul-AILab/SoulX-Singer) - SoulX-Singer용 공식 인스펜션 코드: High-Quality Zero-Shot Singing Voice Synthesis <sub>⭐ 978 · Python</sub>
+- [kishanrajput23/Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant) - python 기반 데스크톱 음성 조수 시스템 레벨 명령을 실행할 수 있으며, 연설 인식 및 텍스트 - 투 - 슬레이브를 통합하고 비동기 사용자 상호 작용을 처리합니다. <sub>⭐ 968 · Python</sub>
+- [athena-team/athena](https://github.com/athena-team/athena) - 시퀀스-to-sequence 기반 연설 처리 엔진의 오픈 소스 구현 <sub>⭐ 967 · C++</sub>
+- [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - BERT에서 GPT-4까지의 변압기 모델, Hugging Face to OpenAI. Fine-tuning, Training 및 신속한 엔지니어링 예제. ChatGPT, GPT-3.5-turbo, GPT-4 및 DALL-E와 보너스 섹션 ... <sub>⭐ 967 · Jupyter Notebook</sub>
+- [samuel-vitorino/sopro](https://github.com/samuel-vitorino/sopro) - Zero-shot 음성 복제를 가진 경량 텍스트 - 투 - 슬픈 모델 <sub>⭐ 959 · Python</sub>
+- [sandrohanea/whisper.net](https://github.com/sandrohanea/whisper.net) - Whisper.net. Whisper Models를 사용하여 간단한 텍스트에 대한 강연 <sub>⭐ 947 · C#</sub>
+- [jitsi/jiwer](https://github.com/jitsi/jiwer) - 단어 오류율 (WER)와 같은 유사성 측정을 가진 연설에 텍스트 시스템을 평가 <sub>⭐ 931 · Python</sub>
+- [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) - PHP에 대한 Vonage REST API 클라이언트. SMS, 음성, 텍스트 - 투 - Speech, 번호, Verify (2FA) 및 더 많은 API 지원. <sub>⭐ 931 · PHP</sub>
+- [FireRedTeam/FireRedTTS](https://github.com/FireRedTeam/FireRedTTS) - 오픈 소스 LLM-empowered Foundation TTS 시스템 <sub>⭐ 924 · Python</sub>
+- [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - 이 프로젝트는 API를 제공하여 사용자 수준의 액세스 지원으로 미세 조정 및 처리 된 Whisper ASR 모델을 사용하여 텍스트에 대해 연설을 합니다. <sub>⭐ 914 · Python</sub>
+- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - Flowtron은 음성 변이 및 스타일 전송을 통해 제어와 텍스트에 대한 자동 반복적 인 흐름 기반 유전 네트워크입니다. <sub>⭐ 894 · Jupyter Notebook</sub>
+- [NVIDIA/mellotron](https://github.com/NVIDIA/mellotron) - Mellotron : Tacotron 2 GST에 기반한 멀티스피커 음성 합성 모델은 emotive 또는 sing 교육 데이터없이 음성 이모티콘과 노래를 만들 수 있습니다. <sub>⭐ 870 · Jupyter Notebook</sub>
+- [PABannier/bark.cpp](https://github.com/PABannier/bark.cpp) - Suno AI의 Bark 모델 C / C +++ 빠른 텍스트 - to-speech 생성 <sub>⭐ 869 · C++</sub>
+- [paulilaaso/lue](https://github.com/paulilaaso/lue) - Audiobook-Quality Text-to-Speech와 터미널 전자 책 리더 - EPUB, PDF, DOCX, HTML, RTF, TXT 및 MD를 지원합니다. <sub>⭐ 816 · Python</sub>
+- [VRCWizard/TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Speech to Speech to Speech. Song now playing. OSC 메시지를 VRChat으로 전송하여 아바타에 표시하십시오. (STTTS) (Speech to TTS) (VRC STT System) (VTuber TTS) <sub>⭐ 809 · C#</sub>
 - [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - 100 + 언어의 텍스트로 변환하는 100% 개인 AI 음성 안내 앱. Whisper AI를 사용하여 Android 및 iOS 용 Compose Multiplatform 내장 - 클라우드 업로드, 모든 처리 ... <sub>⭐ 801 · C++</sub>
-- [awni/speech](https://github.com/awni/speech) - A PyTorch Implementation of End-to-End Models for Speech-to-Text <sub>⭐ 769 · Python</sub>
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build).… <sub>⭐ 767 · Python</sub>
-- [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser <sub>⭐ 759 · JavaScript</sub>
-- [dlutton/flutter_tts](https://github.com/dlutton/flutter_tts) - Flutter Text to Speech package <sub>⭐ 757 · Dart</sub>
-- [homelab-00/TranscriptionSuite](https://github.com/homelab-00/TranscriptionSuite) - A fully local and private Speech-To-Text app, offering multiple model backends, diarization & calendar mode - Available for Windows, macOS & Linux <sub>⭐ 757 · TypeScript</sub>
-- [Macoron/whisper.unity](https://github.com/Macoron/whisper.unity) - Running speech to text model (whisper.cpp) in Unity3d on your local machine. <sub>⭐ 752 · C#</sub>
-- [nnsvs/nnsvs](https://github.com/nnsvs/nnsvs) - Neural network-based singing voice synthesis library for research <sub>⭐ 752 · Python</sub>
-- [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible! <sub>⭐ 749 · TypeScript</sub>
-- [BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio) - MimikaStudio - A local-first application for macOS (Apple Silicon) + Agentic MCP Support <sub>⭐ 741 · Dart</sub>
-- [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free. <sub>⭐ 739 · Python</sub>
-- [rapidaai/voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state… <sub>⭐ 738 · Go</sub>
-- [mmpneo/curses](https://github.com/mmpneo/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord <sub>⭐ 731 · TypeScript</sub>
-- [Lex-au/Orpheus-FastAPI](https://github.com/Lex-au/Orpheus-FastAPI) - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs. <sub>⭐ 720 · Python</sub>
-- [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create Piper text-to-speech models in any voice. Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi. Rapidly record… <sub>⭐ 718 · Shell</sub>
-- [OlaWod/FreeVC](https://github.com/OlaWod/FreeVC) - FreeVC: Towards High-Quality Text-Free One-Shot Voice Conversion <sub>⭐ 718 · Python</sub>
-- [jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts) - A Generative Flow for Text-to-Speech via Monotonic Alignment Search <sub>⭐ 715 · Python</sub>
-- [gitmylo/bark-voice-cloning-HuBERT-quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer) - The code for the bark-voicecloning model. Training and inference. <sub>⭐ 710 · Python</sub>
-- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos. <sub>⭐ 707 · TypeScript</sub>
-- [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch <sub>⭐ 703 · Python</sub>
-- [ak1394/react-native-tts](https://github.com/ak1394/react-native-tts) - React Native Text-To-Speech library for Android and iOS <sub>⭐ 698 · Java</sub>
-- [Picovoice/speech-to-text-benchmark](https://github.com/Picovoice/speech-to-text-benchmark) - speech to text benchmark framework <sub>⭐ 698 · Python</sub>
-- [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.) <sub>⭐ 684 · Python</sub>
-- [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will be uploaded to YouTube automatically. <sub>⭐ 679 · Python</sub>
-- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) - A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice. Can use Whisper or VibeVoice-ASR for automatic transcription. <sub>⭐ 675 · Python</sub>
-- [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration. <sub>⭐ 674 · JavaScript</sub>
-- [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) - Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours) <sub>⭐ 670 · Python</sub>
-- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning <sub>⭐ 670 · Python</sub>
-- [daniilrobnikov/vits2](https://github.com/daniilrobnikov/vits2) - VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design <sub>⭐ 646 · Jupyter Notebook</sub>
-- [PlayVoice/lora-svc](https://github.com/PlayVoice/lora-svc) - singing voice change based on whisper, and lora for singing voice clone <sub>⭐ 646 · Python</sub>
-- [evancohen/sonus](https://github.com/evancohen/sonus) - so.nus/ STT (speech to text) for Node with offline hotword detection <sub>⭐ 639 · JavaScript</sub>
-- [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator) - Turn PDFs and EPUBs into audiobooks; subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, including voice-cloning (instant, RVC-enhanced… <sub>⭐ 630 · Python</sub>
-- [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit <sub>⭐ 627 · Swift</sub>
-- [RVC-Project/Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) - in preparation... <sub>⭐ 619 · Python</sub>
-- [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - Legacy YouDub AI video translation and voice-cloning pipeline. Active development continues in YouDub WebUI. <sub>⭐ 616 · Python</sub>
-- [reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text) - Real-time transcription using faster-whisper <sub>⭐ 613 · HTML</sub>
-- [cnlinxi/book-text-to-speech](https://github.com/cnlinxi/book-text-to-speech) - A book about Text-to-Speech (TTS) in Chinese. <sub>⭐ 612 · TeX</sub>
-- [k2kobayashi/sprocket](https://github.com/k2kobayashi/sprocket) - Voice Conversion Tool Kit <sub>⭐ 610 · Python</sub>
-- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine. <sub>⭐ 597 · Python</sub>
-- [second-state/echokit_server](https://github.com/second-state/echokit_server) - Open Source Voice Agent Platform <sub>⭐ 592 · Rust</sub>
-- [justinjohn0306/so-vits-svc-4.0-v2](https://github.com/justinjohn0306/so-vits-svc-4.0-v2) - SoftVC VITS Singing Voice Conversion <sub>⭐ 581 · Python</sub>
-- [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine <sub>⭐ 580 · Jupyter Notebook</sub>
-- [zhangshaolei1998/Awesome-Simultaneous-Translation](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation) - Paper list of simultaneous translation / streaming translation, including text-to-text machine translation and speech-to-text translation. <sub>⭐ 578</sub>
-- [kapi2800/qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon) - Run Qwen3-TTS text-to-speech locally on Mac (M1/M2/M3/M4). Voice cloning, voice design, custom voices. 100% offline using MLX. <sub>⭐ 573 · Python</sub>
-- [MahmoudAshraf97/ctc-forced-aligner](https://github.com/MahmoudAshraf97/ctc-forced-aligner) - Text to speech alignment using CTC forced alignment <sub>⭐ 566 · Python</sub>
-- [billwuhao/ComfyUI_IndexTTS](https://github.com/billwuhao/ComfyUI_IndexTTS) - IndexTTS Voice Cloning: Supports two-person dialogue <sub>⭐ 553 · Python</sub>
-- [ScenemaAI/scenema-audio](https://github.com/ScenemaAI/scenema-audio) - Zero-shot expressive voice cloning and speech generation. Generate anything from short clips to full-length audiobooks with realistic emotional delivery, pacing, and breath control. Clone any voice… <sub>⭐ 551 · Python</sub>
-- [justUmen/Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) - ComfyUI : 163 nodes : Display, manipulate, and edit text, images, videos, loras and more. Manage looping operations, generate randomized content, use logical conditions and work with external AI… <sub>⭐ 550 · Python</sub>
-- [FlashLabs-AI-Corp/FlashLabs-Chroma](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) - Worlds first open-source real-time end-to-end spoken dialogue model with personalized voice cloning. <sub>⭐ 549 · Jupyter Notebook</sub>
-- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech <sub>⭐ 535 · Python</sub>
-- [gotev/android-speech](https://github.com/gotev/android-speech) - Android speech recognition and text to speech made easy <sub>⭐ 534 · Java</sub>
-- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface <sub>⭐ 529 · Python</sub>
-- [modelscope/KAN-TTS](https://github.com/modelscope/KAN-TTS) - KAN-TTS is a speech-synthesis training framework, please try the demos we have posted at https://modelscope.cn/models?page=1&tasks=text-to-speech <sub>⭐ 528 · Python</sub>
-- [richardr1126/openreader](https://github.com/richardr1126/openreader) - An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD. <sub>⭐ 527 · TypeScript</sub>
-- [bshall/knn-vc](https://github.com/bshall/knn-vc) - Voice Conversion With Just Nearest Neighbors <sub>⭐ 526 · Python</sub>
-- [prathoshap/vagdhenu](https://github.com/prathoshap/vagdhenu) - Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0. <sub>⭐ 524 · Python</sub>
-- [liusongxiang/StarGAN-Voice-Conversion](https://github.com/liusongxiang/StarGAN-Voice-Conversion) - This is a pytorch implementation of the paper: StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks <sub>⭐ 523 · Python</sub>
-- [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) - StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion <sub>⭐ 523 · Python</sub>
-- [r9y9/gantts](https://github.com/r9y9/gantts) - PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC) <sub>⭐ 518 · Jupyter Notebook</sub>
-- [thinhlpg/vixtts-demo](https://github.com/thinhlpg/vixtts-demo) - A Vietnamese Voice Cloning Text-to-Speech Model <sub>⭐ 518 · Jupyter Notebook</sub>
-- [PunithVT/ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) - AI Avatar / digital human platform — upload a photo, clone a voice, talk to any face in real time with lip-sync video. Open-source, self-hosted. Claude · Whisper · Chatterbox · MuseTalk. <sub>⭐ 511 · Python</sub>
-- [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS <sub>⭐ 511 · Python</sub>
-- [wildminder/ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM) - ComfyUI node for highly expressive speech and realistic zero-shot voice cloning <sub>⭐ 511 · Python</sub>
-- [AwesomeTTS/awesometts-anki-addon](https://github.com/AwesomeTTS/awesometts-anki-addon) - AwesomeTTS text-to-speech add-on for Anki <sub>⭐ 504 · Python</sub>
-- [kxxt/aspeak](https://github.com/kxxt/aspeak) - A simple text-to-speech client for Azure TTS API. <sub>⭐ 497 · Rust</sub>
-- [petewarden/spchcat](https://github.com/petewarden/spchcat) - Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi. <sub>⭐ 487 · C</sub>
-- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning <sub>⭐ 485 · Python</sub>
-- [Aivis-Project/AivisSpeech](https://github.com/Aivis-Project/AivisSpeech) - AivisSpeech: AI Voice Imitation System - Text to Speech Software <sub>⭐ 483 · TypeScript</sub>
-- [ranchlai/mandarin-tts](https://github.com/ranchlai/mandarin-tts) - Chinese Mandarin tts text-to-speech 中文 (普通话) 语音 合成 , by fastspeech 2 , implemented in pytorch, using waveglow as vocoder, with biaobei and aishell3 datasets <sub>⭐ 477 · Python</sub>
-- [csdcorp/speech_to_text](https://github.com/csdcorp/speech_to_text) - A Flutter plugin that exposes device specific text to speech recognition capability. <sub>⭐ 474 · Dart</sub>
-- [WenJing95/SayKey](https://github.com/WenJing95/SayKey) - A Speech-to-Text Input Method For Windows <sub>⭐ 472 · TypeScript</sub>
-- [MasayaKawamura/MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS) - Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform <sub>⭐ 471 · Python</sub>
-- [gillesdemey/google-speech-v2](https://github.com/gillesdemey/google-speech-v2) - Reverse Engineering Google's Speech To Text API (v2) <sub>⭐ 469</sub>
-- [HKoon/ChatTTS-OpenVoice](https://github.com/HKoon/ChatTTS-OpenVoice) - Fuse ChatTTS with OpenVoice, upload a 10-second audio clip, and clone your personalized ChatTTS voice. <sub>⭐ 466 · Python</sub>
-- [dectalk/dectalk](https://github.com/dectalk/dectalk) - Modern builds for the 90s/00s DECtalk text-to-speech application. <sub>⭐ 465 · PostScript</sub>
-- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuze is a state-of-the-art deep learning tool that seamlessly integrates with ComfyUI to revolutionize facial transformations, lipsyncing, Face Swapping, Lipsync Translation, video generation… <sub>⭐ 461 · Python</sub>
-- [bshall/soft-vc](https://github.com/bshall/soft-vc) - Soft speech units for voice conversion <sub>⭐ 457 · Jupyter Notebook</sub>
-- [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - A summary on our attempts at using Deep Learning approaches for Emotional Text to Speech <sub>⭐ 456 · Jupyter Notebook</sub>
-- [davabase/transcriber_app](https://github.com/davabase/transcriber_app) - Real time speech to text transcription app. <sub>⭐ 439 · Python</sub>
-- [fumiama/Retrieval-based-Voice-Conversion-WebUI](https://github.com/fumiama/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins! <sub>⭐ 438 · Python</sub>
-- [phildougherty/sesame_csm_openai](https://github.com/phildougherty/sesame_csm_openai) - OpenAI compatible TTS for Sesame CSM:1b & dia:1.6b - Voice Cloning from File/YT <sub>⭐ 438 · Python</sub>
-- [ARBML/klaam](https://github.com/ARBML/klaam) - Arabic speech recognition, classification and text-to-speech. <sub>⭐ 435 · Jupyter Notebook</sub>
-- [Weilbyte/tiktok-tts](https://github.com/Weilbyte/tiktok-tts) - Generate TikTok Text-to-Speech voices in your browser <sub>⭐ 422 · JavaScript</sub>
-- [AaronZ345/StyleSinger](https://github.com/AaronZ345/StyleSinger) - PyTorch Implementation of StyleSinger(AAAI 2024): Style Transfer for Out-of-Domain Singing Voice Synthesis <sub>⭐ 420 · Python</sub>
-- [wenet-e2e/wetts](https://github.com/wenet-e2e/wetts) - Production First and Production Ready End-to-End Text-to-Speech Toolkit <sub>⭐ 417 · Python</sub>
-- [ATH-MaaS/Marco-Voice](https://github.com/ATH-MaaS/Marco-Voice) - A Unified Framework for Expressive Speech Synthesis with Voice Cloning <sub>⭐ 416 · Python</sub>
-- [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) - Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC <sub>⭐ 415 · JavaScript</sub>
-- [art-from-the-machine/Mantella](https://github.com/art-from-the-machine/Mantella) - Mantella is a Skyrim and Fallout 4 mod which allows you to naturally speak to NPCs using a Speech-to-Text → LLMs → Text-to-Speech pipeline <sub>⭐ 413 · Python</sub>
-- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech <sub>⭐ 409 · JavaScript</sub>
-- [bshall/hubert](https://github.com/bshall/hubert) - HuBERT content encoders for: A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion <sub>⭐ 408 · Python</sub>
-- [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php) - Local Speech to Text in PHP made easy thanks to Whisper.cpp and OpenAI <sub>⭐ 407 · PHP</sub>
-- [AI4Bharat/Indic-TTS](https://github.com/AI4Bharat/Indic-TTS) - Text-to-Speech for languages of India <sub>⭐ 404 · Jupyter Notebook</sub>
-- [altunenes/parakeet-rs](https://github.com/altunenes/parakeet-rs) - very fast speech-to-text, diarization, streaming (even in CPU) with NVIDIA Parakeet in Rust <sub>⭐ 404 · Rust</sub>
-- [Vonage/vonage-node-sdk](https://github.com/Vonage/vonage-node-sdk) - Vonage API client for Node.js. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more. <sub>⭐ 395 · TypeScript</sub>
-- [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming protocol server for faster whisper speech to text system <sub>⭐ 390 · Python</sub>
-- [AaronZ345/TCSinger](https://github.com/AaronZ345/TCSinger) - PyTorch Implementation of TCSinger(EMNLP 2024): Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control <sub>⭐ 387 · Python</sub>
-- [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text. <sub>⭐ 386 · JavaScript</sub>
-- [izwi-ai/izwi](https://github.com/izwi-ai/izwi) - Voice AI runtime. Local first transcription, speaker diarization, TTS, and voice cloning with an OpenAI compatible API. <sub>⭐ 385 · Rust</sub>
-- [lochenchou/MOSNet](https://github.com/lochenchou/MOSNet) - Implementation of "MOSNet: Deep Learning based Objective Assessment for Voice Conversion" <sub>⭐ 380 · Python</sub>
-- [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using Whisper <sub>⭐ 380 · TypeScript</sub>
-- [mailong25/self-supervised-speech-recognition](https://github.com/mailong25/self-supervised-speech-recognition) - speech to text with self-supervised learning based on wav2vec 2.0 framework <sub>⭐ 379 · Python</sub>
-- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - A custom Home Assistant integration to play combined audio files before and/or after text-to-speech (TTS) messages <sub>⭐ 378 · Python</sub>
-- [tronghieuit/v-tts](https://github.com/tronghieuit/v-tts) - The lightest Vietnamese Text-to-Speech with Multi-Speaker TTS and Zero-Shot Voice Cloning. <sub>⭐ 378 · Python</sub>
-- [WangHelin1997/CapSpeech](https://github.com/WangHelin1997/CapSpeech) - CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech <sub>⭐ 374 · Jupyter Notebook</sub>
-- [X-LANCE/VoiceFlow-TTS](https://github.com/X-LANCE/VoiceFlow-TTS) - (ICASSP 2024) This is the official code for "VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching" <sub>⭐ 374 · Python</sub>
-- [RapidWareTech/pyttsx](https://github.com/RapidWareTech/pyttsx) - Cross-platform text-to-speech wrapper <sub>⭐ 373 · Python</sub>
-- [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS) - Unlimited text-to-speech in the Browser using Kokoro-JS, 100% local, 100% open source <sub>⭐ 373 · JavaScript</sub>
-- [estebanstifli/LocalText2Voice](https://github.com/estebanstifli/LocalText2Voice) - Free open-source AI desktop app for audiobooks, podcasts, documentaries, films and animated videos with local models, cloud APIs and editable storyboards. <sub>⭐ 370 · Python</sub>
-- [edgenai/edgen](https://github.com/edgenai/edgen) - Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others. <sub>⭐ 367 · Rust</sub>
-- [SWivid/Habibi-TTS](https://github.com/SWivid/Habibi-TTS) - Official code for "Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis" <sub>⭐ 366 · Python</sub>
-- [graniet/llm](https://github.com/graniet/llm) - A powerful Rust library and CLI tool to unify and orchestrate multiple LLM, Agent and voice backends (OpenAI, Claude, Gemini, Ollama, ElevenLabs...) with a single, extensible API. Build, chain… <sub>⭐ 365 · Rust</sub>
-- [julianzq/deepvoice](https://github.com/julianzq/deepvoice) - Deep Voice: Real-time Neural Text-to-Speech <sub>⭐ 363 · Python</sub>
-- [taf2/speech2text](https://github.com/taf2/speech2text) - Using Google Speech to Text API Provide a Simple Interface to Convert Audio Files <sub>⭐ 363 · Ruby</sub>
-- [Wendison/VQMIVC](https://github.com/Wendison/VQMIVC) - Official implementation of VQMIVC: One-shot (any-to-any) Voice Conversion @ Interspeech 2021 + Online playing demo! <sub>⭐ 361 · Jupyter Notebook</sub>
-- [deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning](https://github.com/deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference modified to enable cross lingual voice cloning. <sub>⭐ 359 · Jupyter Notebook</sub>
-- [mylxsw/typeflux](https://github.com/mylxsw/typeflux) - Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast "hold to talk, release to insert" workflow: press a hotkey, speak naturally, let the app transcribe your… <sub>⭐ 358 · Swift</sub>
-- [VinAIResearch/XPhoneBERT](https://github.com/VinAIResearch/XPhoneBERT) - XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech (INTERSPEECH 2023) <sub>⭐ 357 · Python</sub>
-- [zhangyongmao/VISinger2](https://github.com/zhangyongmao/VISinger2) - VISinger 2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer <sub>⭐ 356 · Python</sub>
-- [devnen/Dia-TTS-Server](https://github.com/devnen/Dia-TTS-Server) - Self-host the powerful Dia TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), support for SafeTensors/BF16, voice cloning, dialogue generation… <sub>⭐ 355 · Python</sub>
-- [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Speed and samples benchmark: for all types of text to speech (TTS) models on Windows/Linux/Mac. <sub>⭐ 351 · Python</sub>
-- [AnubhavChaturvedi-GitHub/jarvis-ai-assistant](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) - Voice-controlled AI desktop assistant in Python. Speech recognition, text to speech, real-time web search, image generation, computer vision and WhatsApp automation, inspired by Iron Man's JARVIS. <sub>⭐ 351 · Python</sub>
-- [liusongxiang/ppg-vc](https://github.com/liusongxiang/ppg-vc) - PPG-Based Voice Conversion <sub>⭐ 351 · Python</sub>
-- [megaease/easevoice-trainer](https://github.com/megaease/easevoice-trainer) - EaseVoice Trainer is a simple and user-friendly voice cloning and speech model trainer. <sub>⭐ 350 · Python</sub>
-- [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface. <sub>⭐ 350 · Python</sub>
-- [keonlee9420/DiffGAN-TTS](https://github.com/keonlee9420/DiffGAN-TTS) - PyTorch Implementation of DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs <sub>⭐ 349 · Python</sub>
-- [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) - 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud. <sub>⭐ 347 · Python</sub>
-- [keonlee9420/PortaSpeech](https://github.com/keonlee9420/PortaSpeech) - PyTorch Implementation of PortaSpeech: Portable and High-Quality Generative Text-to-Speech <sub>⭐ 341 · Python</sub>
-- [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase) - Fast and personalized local speech-to-text <sub>⭐ 341 · Python</sub>
-- [bshall/ZeroSpeech](https://github.com/bshall/ZeroSpeech) - VQ-VAE for Acoustic Unit Discovery and Voice Conversion <sub>⭐ 339 · Python</sub>
-- [isaiahbjork/csm-voice-cloning](https://github.com/isaiahbjork/csm-voice-cloning) - Sesame CSM 1B Voice Cloning <sub>⭐ 338 · Python</sub>
-- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - A hands-free mini walkie-talkie powered by embedded AI, featuring automatic voice detection, keyword-triggered animations, and real-time speech-to-text display. <sub>⭐ 336 · C</sub>
-- [Hiroshiba/realtime-yukarin](https://github.com/Hiroshiba/realtime-yukarin) - An application for real-time voice conversion <sub>⭐ 333 · Python</sub>
-- [Rongjiehuang/GenerSpeech](https://github.com/Rongjiehuang/GenerSpeech) - PyTorch Implementation of GenerSpeech (NeurIPS'22): a text-to-speech model towards zero-shot style transfer of OOD custom voice. <sub>⭐ 333 · Python</sub>
-- [chrischoy/WhisperChain](https://github.com/chrischoy/WhisperChain) - Speech to Text but with all the bells and whistles and most importantly AI! AI will clean up your filler words, edit and will refine what you said! <sub>⭐ 332 · Python</sub>
-- [JackismyShephard/ultimate-rvc](https://github.com/JackismyShephard/ultimate-rvc) - An app for creating audio-based content such as song covers and speech using Retrieval-based Voice Conversion. <sub>⭐ 331 · Python</sub>
-- [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages <sub>⭐ 329</sub>
-- [keonlee9420/Comprehensive-Transformer-TTS](https://github.com/keonlee9420/Comprehensive-Transformer-TTS) - A Non-Autoregressive Transformer based Text-to-Speech, supporting a family of SOTA transformers with supervised and unsupervised duration modelings. This project grows with the research community… <sub>⭐ 327 · Python</sub>
-- [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source voice creation for macOS and Windows. Local TTS, voice cloning, and emotion control — no cloud APIs or per-character fees. <sub>⭐ 327 · TypeScript</sub>
-- [khanhuitse05/speech-and-text-unity-ios-android](https://github.com/khanhuitse05/speech-and-text-unity-ios-android) - Speed to text in Unity iOS use Native Speech Recognition <sub>⭐ 325 · C#</sub>
-- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning! <sub>⭐ 324 · Python</sub>
-- [travisvn/obsidian-edge-tts](https://github.com/travisvn/obsidian-edge-tts) - Free, high quality text-to-speech for your Obsidian notes, leveraging Microsoft Edge's Read Aloud API. <sub>⭐ 322 · TypeScript</sub>
-- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models It also allows image generation/editing/understanding , speech-to-text conversion , and text-to-speech synthesis <sub>⭐ 319 · Ruby</sub>
-- [Devansh-47/Sign-Language-To-Text-and-Speech-Conversion](https://github.com/Devansh-47/Sign-Language-To-Text-and-Speech-Conversion) - This is a python application which converts american sign language into text and speech which helps Dumb/Deaf people to start conversation with normal people who dont understand this language <sub>⭐ 318 · Python</sub>
-- [hiddentao/google-tts](https://github.com/hiddentao/google-tts) - Javascript API for the Google Text-to-Speech engine <sub>⭐ 318 · JavaScript</sub>
-- [Olney1/ChatGPT-OpenAI-Smart-Speaker](https://github.com/Olney1/ChatGPT-OpenAI-Smart-Speaker) - This AI Smart Speaker uses speech recognition, TTS (text-to-speech), and STT (speech-to-text) to enable voice and vision-driven conversations, with additional web search capabilities via OpenAI and… <sub>⭐ 316 · Python</sub>
-- [carlini/audio_adversarial_examples](https://github.com/carlini/audio_adversarial_examples) - Targeted Adversarial Examples on Speech-to-Text systems <sub>⭐ 314 · Python</sub>
-- [COSS-India/VoicEra](https://github.com/COSS-India/VoicEra) - A complete voice AI building block with telephony integration, featuring real-time speech-to-text, text-to-speech, and LLM-powered conversational agents. <sub>⭐ 314 · Python</sub>
-- [Zyphra/ZONOS2](https://github.com/Zyphra/ZONOS2) - Zonos2 is a leading open-weight text-to-speech MoE. <sub>⭐ 314 · Python</sub>
-- [Aratako/T5Gemma-TTS](https://github.com/Aratako/T5Gemma-TTS) - Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM <sub>⭐ 312 · Python</sub>
-- [mbzuai-oryx/LLMVoX](https://github.com/mbzuai-oryx/LLMVoX) - LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM <sub>⭐ 312 · Python</sub>
-- [ASLP-lab/MeanVC](https://github.com/ASLP-lab/MeanVC) - A Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows <sub>⭐ 309 · Python</sub>
-- [dannguyen/watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions <sub>⭐ 308 · Python</sub>
-- [tigros/Whisperer](https://github.com/tigros/Whisperer) - Batch speech to text using OpenAI's whisper. <sub>⭐ 308 · C#</sub>
-- [DarioFT/ComfyUI-Qwen3-TTS](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) - A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning. <sub>⭐ 304 · Python</sub>
-- [naoufal/react-native-speech](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native. <sub>⭐ 300 · Objective-C</sub>
-- [jakovius/voxd](https://github.com/jakovius/voxd) - VOXD is a speech-to-text, voice-typing, dictation software for linux distributions. It is an open-source, free of charge, USER-FRIENDLY software, for as many linux distros as possible. <sub>⭐ 298 · Python</sub>
-- [Elleo/pied](https://github.com/Elleo/pied) - Pied makes it simple to install and manage text-to-speech Piper voices for use with Speech Dispatcher. <sub>⭐ 297 · Dart</sub>
-- [NVIDIA/radtts](https://github.com/NVIDIA/radtts) - Provides training, inference and voice conversion recipes for RADTTS and RADTTS++: Flow-based TTS models with Robust Alignment Learning, Diverse Synthesis, and Generative Modeling and Fine-Grained… <sub>⭐ 292 · Roff</sub>
-- [Kaljurand/K6nele](https://github.com/Kaljurand/K6nele) - An Android app that offers speech-to-text user interfaces to other apps <sub>⭐ 290 · Java</sub>
-- [zlargon/google-tts](https://github.com/zlargon/google-tts) - Google TTS (Text-To-Speech) for node.js <sub>⭐ 287 · JavaScript</sub>
-- [mathigatti/midi2voice](https://github.com/mathigatti/midi2voice) - Singing synthesis from MIDI file <sub>⭐ 286 · Python</sub>
-- [n0spaces/MorshuTalk](https://github.com/n0spaces/MorshuTalk) - Morshu text-to-speech <sub>⭐ 286 · Python</sub>
-- [QuintinShaw/openasr](https://github.com/QuintinShaw/openasr) - Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API. <sub>⭐ 282 · Rust</sub>
-- [lucidrains/spear-tts-pytorch](https://github.com/lucidrains/spear-tts-pytorch) - Implementation of Spear-TTS - multi-speaker text-to-speech attention network, in Pytorch <sub>⭐ 278 · Python</sub>
-- [mtttmpl/speak-js](https://github.com/mtttmpl/speak-js) - Text-to-Speech in JavaScript <sub>⭐ 278 · JavaScript</sub>
-- [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers. <sub>⭐ 277 · Python</sub>
-- [niknah/ComfyUI-F5-TTS](https://github.com/niknah/ComfyUI-F5-TTS) - ComfyUI node for F5-Text To Speech <sub>⭐ 277 · Python</sub>
-- [RobViren/kvoicewalk](https://github.com/RobViren/kvoicewalk) - A random walk voice style cloning application for Kokoro text to speech <sub>⭐ 277 · Python</sub>
-- [alphacep/vosk-tts](https://github.com/alphacep/vosk-tts) - Text To Speech Synthesis with Vosk <sub>⭐ 274 · Python</sub>
-- [Kugelaudio/kugelaudio-open](https://github.com/Kugelaudio/kugelaudio-open) - Open-source text-to-speech for European languages with voice cloning <sub>⭐ 274 · Python</sub>
-- [hujinsen/StarGAN-Voice-Conversion](https://github.com/hujinsen/StarGAN-Voice-Conversion) - full tensorflow implementation of the paper: StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks https://arxiv.org/abs/1806.02169 <sub>⭐ 273 · Python</sub>
-- [zeroweight-ai/ZeroTTS](https://github.com/zeroweight-ai/ZeroTTS) - Fast, lightweight zero-shot Vietnamese text-to-speech (TTS) that runs in real time on CPU <sub>⭐ 271 · Python</sub>
-- [ElmTran/praises](https://github.com/ElmTran/praises) - Praises is a text-to-speech tool that can help you read text easily. <sub>⭐ 270 · TypeScript</sub>
-- [yl4579/PL-BERT](https://github.com/yl4579/PL-BERT) - Phoneme-Level BERT for Enhanced Prosody of Text-to-Speech with Grapheme Predictions <sub>⭐ 269 · Python</sub>
-- [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine. <sub>⭐ 268 · Emacs Lisp</sub>
-- [JeffC0628/awesome-voice-conversion](https://github.com/JeffC0628/awesome-voice-conversion) - A curated list of awesome voice conversion, projects and communities. <sub>⭐ 267</sub>
-- [leaonline/easy-speech](https://github.com/leaonline/easy-speech) - Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API <sub>⭐ 266 · JavaScript</sub>
-- [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - Nix-TTS: Lightweight and End-to-end Text-to-Speech via Module-wise Distillation <sub>⭐ 263 · Python</sub>
-- [watson-developer-cloud/speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers. <sub>⭐ 263 · JavaScript</sub>
-- [keonlee9420/DailyTalk](https://github.com/keonlee9420/DailyTalk) - Official repository of DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech, ICASSP 2023 <sub>⭐ 262 · Python</sub>
-- [Vyvo-Labs/VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS) - VyvoTTS: LLM-Based Text-to-Speech Training Framework <sub>⭐ 262 · Jupyter Notebook</sub>
-- [ekwek1/soprano-factory](https://github.com/ekwek1/soprano-factory) - Soprano-Factory: Train your own 2000x realtime text-to-speech model <sub>⭐ 261 · Python</sub>
-- [quickvc/QuickVC-VoiceConversion](https://github.com/quickvc/QuickVC-VoiceConversion) - QuickVC: Any-to-many Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion <sub>⭐ 261 · Python</sub>
-- [NTT123/vietTTS](https://github.com/NTT123/vietTTS) - Vietnamese Text to Speech library <sub>⭐ 258 · Python</sub>
-- [1038lab/ComfyUI-QwenTTS](https://github.com/1038lab/ComfyUI-QwenTTS) - ComfyUI custom nodes for speech, voice cloning, and voice design based on Qwen3-TTS models <sub>⭐ 257 · Python</sub>
-- [code-100-precent/LingEcho-App](https://github.com/code-100-precent/LingEcho-App) - LingEcho is an intelligent voice interaction platform that provides a comprehensive AI voice interaction solution. It integrates advanced speech recognition (ASR), text-to-speech (TTS), large… <sub>⭐ 257 · TypeScript</sub>
-- [AIFSH/ComfyUI-GPT_SoVITS](https://github.com/AIFSH/ComfyUI-GPT_SoVITS) - a comfyui custom node for GPT-SoVITS! you can voice cloning and tts in comfyui now <sub>⭐ 255 · Python</sub>
-- [ASLP-lab/VoiceSculptor](https://github.com/ASLP-lab/VoiceSculptor) - An instruct text-to-speech solution based on LLaSA and CosyVoice2 developed by the ASLP lab and collaborators. <sub>⭐ 252 · Python</sub>
-- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1) Name :- ActionBarSearchView Description :- Action bar search view. (2) Name :- Adsfree Description :- Admob integration. (3) Name :- AndroidDayDreamDemo Description :- Day dream demo. (4) Name… <sub>⭐ 252 · Java</sub>
-- [whitphx/streamlit-stt-app](https://github.com/whitphx/streamlit-stt-app) - Real time web based Speech-to-Text app with Streamlit <sub>⭐ 252 · Python</sub>
-- [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - VoxSherpa TTS Offline Neural Text-to-Speech Engine for Android Sherpa-ONNX powered Natural voice synthesis Fully offline processing No cloud • No limits <sub>⭐ 251 · Java</sub>
-- [etkecc/baibot](https://github.com/etkecc/baibot) - A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.) <sub>⭐ 250 · Rust</sub>
-- [robinhad/ukrainian-tts](https://github.com/robinhad/ukrainian-tts) - Ukrainian TTS (text-to-speech) using ESPNET <sub>⭐ 250 · Python</sub>
-- [ForeignGods/ComfyUI-Mana-Nodes](https://github.com/ForeignGods/ComfyUI-Mana-Nodes) - Font Animation, Automatic Speech Recognition and Text to Speech Custom Nodes for ComfyUI <sub>⭐ 248 · Python</sub>
-- [LqNoob/Neural-Codec-and-Speech-Language-Models](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models) - Awesome Neural Codec Models, Text-to-Speech Synthesizers & Speech Language Models <sub>⭐ 248 · Python</sub>
-- [hayeong0/DDDM-VC](https://github.com/hayeong0/DDDM-VC) - Official Pytorch Implementation for "DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion" (AAAI 2024) <sub>⭐ 247 · Python</sub>
-- [innnky/ar-vits](https://github.com/innnky/ar-vits) - text to speech using autoregressive transformer and VITS <sub>⭐ 247 · Python</sub>
-- [keonlee9420/DiffSinger](https://github.com/keonlee9420/DiffSinger) - PyTorch implementation of DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (focused on DiffSpeech) <sub>⭐ 247 · Python</sub>
-- [brian-smith-github/ch32v003_stt](https://github.com/brian-smith-github/ch32v003_stt) - Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller <sub>⭐ 245 · C</sub>
-- [Hagsten/Talkify](https://github.com/Hagsten/Talkify) - Javascript Text to speech library <sub>⭐ 244 · JavaScript</sub>
-- [CMsmartvoice/One-Shot-Voice-Cloning](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning) - One Shot Voice Cloning base on Unet-TTS <sub>⭐ 243 · Jupyter Notebook</sub>
-- [CheshireMew/VoxWeave](https://github.com/CheshireMew/VoxWeave) - Local-first high-quality offline RVC voice conversion workstation <sub>⭐ 239 · Python</sub>
-- [wenet-e2e/opencpop](https://github.com/wenet-e2e/opencpop) - Opencpop: A High-Quality Open Source Chinese Popular Song Database for Singing Voice Synthesis <sub>⭐ 239</sub>
-- [hayeong0/Diff-HierVC](https://github.com/hayeong0/Diff-HierVC) - Official Pytorch Implementation of "Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation" <sub>⭐ 238 · Python</sub>
-- [MTG/WGANSing](https://github.com/MTG/WGANSing) - Multi-voice singing voice synthesis <sub>⭐ 238 · Python</sub>
-- [rishikksh20/FastSpeech2](https://github.com/rishikksh20/FastSpeech2) - PyTorch Implementation of FastSpeech 2 : Fast and High-Quality End-to-End Text to Speech <sub>⭐ 237 · Jupyter Notebook</sub>
-- [yeokm1/doschgpt](https://github.com/yeokm1/doschgpt) - A proof-of-concept ChatGPT, Hugging Face and Ollama client for DOS with text-to-speech for Sound Blaster compatible systems. <sub>⭐ 237 · C++</sub>
-- [adelacvg/NS2VC](https://github.com/adelacvg/NS2VC) - Unofficial implementation of NaturalSpeech2 for Voice Conversion and Text to Speech <sub>⭐ 236 · Python</sub>
-- [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android supporting contents from YouTube and YT Music as well as normal podcasts. <sub>⭐ 236 · Kotlin</sub>
-- [filliptm/ComfyUI_Fill-ChatterBox](https://github.com/filliptm/ComfyUI_Fill-ChatterBox) - TTS + Voice Cloning <sub>⭐ 233 · Python</sub>
-- [second-state/qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs) - A Rust implementation of the Qwen3 Text-to-Speech (TTS) model inference. <sub>⭐ 233 · Rust</sub>
-- [dunky11/voicesmith](https://github.com/dunky11/voicesmith) - (WIP) VoiceSmith makes training text to speech models easy. <sub>⭐ 230 · Python</sub>
-- [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text <sub>⭐ 229 · Jupyter Notebook</sub>
-- [streamcoreai/streamcore-server](https://github.com/streamcoreai/streamcore-server) - Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin system, multi-language SDKs, SIP telephony, ESP32 support & fully local mode. <sub>⭐ 229 · Go</sub>
-- [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - Blazing fast whisper turbo for ASR (speech-to-text) tasks <sub>⭐ 228 · Python</sub>
-- [marcoppasini/MelGAN-VC](https://github.com/marcoppasini/MelGAN-VC) - MelGAN-VC: Voice Conversion and Audio Style Transfer on arbitrarily long samples using Spectrograms <sub>⭐ 228 · Jupyter Notebook</sub>
-- [zaf/asterisk-googletts](https://github.com/zaf/asterisk-googletts) - Asterisk AGI script that uses Google's translate text to speech service. <sub>⭐ 222 · Perl</sub>
-- [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C <sub>⭐ 221 · C</sub>
-- [Vonage/vonage-ruby-sdk](https://github.com/Vonage/vonage-ruby-sdk) - Vonage REST API client for Ruby. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more. <sub>⭐ 221 · Ruby</sub>
-- [foges/whisper-dictation](https://github.com/foges/whisper-dictation) - Dictation app based on the OpenAI speech-to-text models <sub>⭐ 220 · Python</sub>
-- [MainRo/deepspeech-server](https://github.com/MainRo/deepspeech-server) - A testing server for a speech to text service based on coqui.ai <sub>⭐ 219 · Python</sub>
-- [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Text to speech package for Golang. <sub>⭐ 218 · Go</sub>
-- [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Persian/Farsi text to speech(TTS) training using coqui tts <sub>⭐ 218 · Jupyter Notebook</sub>
-- [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) - TypeWhisper for Windows - Local speech-to-text with translation <sub>⭐ 218 · C#</sub>
-- [gpustack/vox-box](https://github.com/gpustack/vox-box) - A text-to-speech and speech-to-text server compatible with the OpenAI API, supporting Whisper, FunASR, Bark, and CosyVoice backends. <sub>⭐ 217 · Python</sub>
-- [MidCamp/live-captioning](https://github.com/MidCamp/live-captioning) - Live caption with speech-to-text using the Chrome browser and your computer's microphone. <sub>⭐ 217 · CSS</sub>
-- [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library <sub>⭐ 216 · C</sub>
-- [ykdojo/super-voice-assistant](https://github.com/ykdojo/super-voice-assistant) - macOS voice assistant with global hotkeys - transcribe speech to text with offline models (WhisperKit or Parakeet) or cloud-based Gemini API, capture and transcribe screen recordings with visual… <sub>⭐ 215 · Swift</sub>
-- [OHF-Voice/wyoming-piper](https://github.com/OHF-Voice/wyoming-piper) - Wyoming protocol server for Piper text to speech system <sub>⭐ 214 · Python</sub>
-- [pithings/voipi](https://github.com/pithings/voipi) - Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript. <sub>⭐ 214 · TypeScript</sub>
-- [zhenye234/CoMoSpeech](https://github.com/zhenye234/CoMoSpeech) - ACM MM 2023 CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model <sub>⭐ 214 · Python</sub>
-- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because… <sub>⭐ 213 · Python</sub>
-- [snicolast/ComfyUI-IndexTTS2](https://github.com/snicolast/ComfyUI-IndexTTS2) - Lightweight ComfyUI wrapper for IndexTTS 2 (voice cloning + emotion control). The nodes call the original IndexTTS2 inference and keep behavior faithful to the repo. <sub>⭐ 212 · Python</sub>
-- [billwuhao/ComfyUI_MegaTTS3](https://github.com/billwuhao/ComfyUI_MegaTTS3) - Lightweight and Efficient, Ultra High-Quality Voice Cloning, Chinese and English. <sub>⭐ 211 · Python</sub>
-- [ImperialSquid/zotero-zotts](https://github.com/ImperialSquid/zotero-zotts) - A Zotero plugin adding text to speech (TTS) functionality to various screens <sub>⭐ 211 · TypeScript</sub>
-- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It… <sub>⭐ 210 · JavaScript</sub>
-- [mateogon/pdf-narrator](https://github.com/mateogon/pdf-narrator) - Convert your PDFs and EPUBs into audiobooks effortlessly. Features intelligent text extraction, customizable text-to-speech settings, and efficient processing for low-resource systems. <sub>⭐ 210 · Python</sub>
-- [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Experimental open-source macOS menubar app for speech-to-text workflows <sub>⭐ 209 · Swift</sub>
-- [ihuguet/picotts](https://github.com/ihuguet/picotts) - Pico TTS: text to speech voice sinthesizer from SVox, included in Android AOSP <sub>⭐ 209 · C</sub>
-- [msrbuilds/voice-studio](https://github.com/msrbuilds/voice-studio) - A multi-model local AI Voice Generator (TTS) studio. An open-source alternative to ElevenLabs and expensive online voice generators. <sub>⭐ 206 · Python</sub>
-- [yistLin/FragmentVC](https://github.com/yistLin/FragmentVC) - Any-to-any voice conversion by end-to-end extracting and fusing fine-grained voice fragments with attention <sub>⭐ 204 · Python</sub>
-- [Ashish-Patnaik/kokoclone](https://github.com/Ashish-Patnaik/kokoclone) - Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease. <sub>⭐ 203 · Python</sub>
-- [yerfor/SyntaSpeech](https://github.com/yerfor/SyntaSpeech) - SyntaSpeech: Syntax-aware Generative Adversarial Text-to-Speech; IJCAI 2022; Official code <sub>⭐ 201 · Python</sub>
-- [AndroidMaryTTS/AndroidMaryTTS](https://github.com/AndroidMaryTTS/AndroidMaryTTS) - Android MARY TTS - an open-source, offline HMM-Based text-to-speech synthesis system based on MaryTTS <sub>⭐ 200 · Java</sub>
-- [ferranpons/Llamatik](https://github.com/ferranpons/Llamatik) - True on-device AI for Kotlin Multiplatform (Android, iOS, Desktop, JVM, WASM). LLM, Speech-to-Text and Image Generation — powered by llama.cpp, whisper.cpp and stable-diffusion.cpp. <sub>⭐ 200 · Kotlin</sub>
-- [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) - Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud. <sub>⭐ 200 · Python</sub>
-- [WelkinYang/GradTTS](https://github.com/WelkinYang/GradTTS) - Pytorch implementation of "Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech" <sub>⭐ 200 · Python</sub>
-- [DarioFT/ComfyUI-Qwen3-ASR](https://github.com/DarioFT/ComfyUI-Qwen3-ASR) - ComfyUI custom nodes for Qwen3-ASR (Automatic Speech Recognition) - audio-to-text transcription supporting 52 languages and dialects. <sub>⭐ 198 · Python</sub>
-- [keonlee9420/StyleSpeech](https://github.com/keonlee9420/StyleSpeech) - PyTorch Implementation of Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation <sub>⭐ 198 · Python</sub>
-- [dejan/espeak-ruby](https://github.com/dejan/espeak-ruby) - Ruby wrapper for ‘espeak’ and ‘lame’ with sugar on top to create Text-To-Speech mp3 files. <sub>⭐ 197 · Ruby</sub>
-- [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) - A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector. Star if you like it! <sub>⭐ 197</sub>
-- [PlayVoice/VI-SVS](https://github.com/PlayVoice/VI-SVS) - Singing Voice Synthesis based on VITS, different from VISinger <sub>⭐ 197 · Python</sub>
-- [HeCheng0625/Diffusion-Speech-Tokenizer](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer) - This repository contains a series of works on diffusion-based speech tokenizers, including the official implementation of the paper: "TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech… <sub>⭐ 196 · Python</sub>
-- [drmfinlay/tts-util-app](https://github.com/drmfinlay/tts-util-app) - TTS Util — Text-to-speech utility Android app for synthesising text into audible speech <sub>⭐ 195 · Kotlin</sub>
-- [hikari-tadashi/Sapphire](https://github.com/hikari-tadashi/Sapphire) - A free and open source replacement for Google Assistant on Android devices, meant to integrate with the Sapphire Framework. It contains both speech-to-text and text-to-speech services. It does not… <sub>⭐ 195 · Kotlin</sub>
-- [glory20h/VoiceLDM](https://github.com/glory20h/VoiceLDM) - VoiceLDM: Text-to-Speech with Environmental Context <sub>⭐ 194 · Python</sub>
-- [ssheng/BentoChain](https://github.com/ssheng/BentoChain) - A voice-enabled chatbot application built using of LangChain, text-to-speech, and speech-to-text models from Hugging Face, and BentoML. <sub>⭐ 194 · Python</sub>
-- [keonlee9420/Cross-Speaker-Emotion-Transfer](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer) - PyTorch Implementation of ByteDance's Cross-speaker Emotion Transfer Based on Speaker Condition Layer Normalization and Semi-Supervised Training in Text-To-Speech <sub>⭐ 193 · Python</sub>
-- [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - Speech-to-Text in golang <sub>⭐ 193 · Go</sub>
-- [balisujohn/tortoise.cpp](https://github.com/balisujohn/tortoise.cpp) - A ggml (C++) re-implementation of tortoise-tts <sub>⭐ 192 · C++</sub>
-- [liamadsr/macOS-speech-to-text-open-source](https://github.com/liamadsr/macOS-speech-to-text-open-source) - Native macOS speech-to-text app with active speech detection and amazing intuitive UX. Help us make this the official open-source alternative to Wispr Flow! <sub>⭐ 192 · Swift</sub>
-- [lucasnewman/nanospeech](https://github.com/lucasnewman/nanospeech) - A simple, hackable text-to-speech system in PyTorch and MLX <sub>⭐ 190 · Python</sub>
-- [jishengpeng/TextrolSpeech](https://github.com/jishengpeng/TextrolSpeech) - (ICASSP 2024) TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models <sub>⭐ 189 · Python</sub>
-- [albirrkarim/react-speech-highlight-demo](https://github.com/albirrkarim/react-speech-highlight-demo) - React / Vanilla JS Text to Speech with highlighting the words and sentences that are being spoken using audio files, text to speech API, and web speech synthesis API <sub>⭐ 188 · JavaScript</sub>
-- [aza-ali/speech-to-text-in-python](https://github.com/aza-ali/speech-to-text-in-python) - Offline audio transcription with Whisper. <sub>⭐ 188 · Python</sub>
-- [Choddeok/EmoSphere-TTS](https://github.com/Choddeok/EmoSphere-TTS) - (INTERSPEECH 2024) The official implementation of EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical Emotion Vector for Controllable Emotional Text-to-Speech <sub>⭐ 186 · Python</sub>
-- [tugstugi/pytorch-dc-tts](https://github.com/tugstugi/pytorch-dc-tts) - Text to Speech with PyTorch (English and Mongolian) <sub>⭐ 186 · Jupyter Notebook</sub>
-- [yl4579/StyleTTS-ZS](https://github.com/yl4579/StyleTTS-ZS) - StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion <sub>⭐ 186</sub>
-- [AaronZ345/TCSinger2](https://github.com/AaronZ345/TCSinger2) - PyTorch Implementation of TCSinger 2(ACL 2025): Customizable Multilingual Zero-shot Singing Voice Synthesis <sub>⭐ 185 · Python</sub>
-- [kgn/Hark](https://github.com/kgn/Hark) - An example Text to Speech App <sub>⭐ 185 · Swift</sub>
-- [resemble-ai/resemble-unity-text-to-speech](https://github.com/resemble-ai/resemble-unity-text-to-speech) - Resemble's voice cloning engine within Unity <sub>⭐ 184 · C#</sub>
-- [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of OmniVoice (k2-fsa/OmniVoice). 646 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan. <sub>⭐ 184 · C++</sub>
-- [ServeurpersoCom/qwentts.cpp](https://github.com/ServeurpersoCom/qwentts.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of Qwen3-TTS (QwenLM/Qwen3-TTS). 10 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan. <sub>⭐ 181 · C++</sub>
-- [Edresson/TTS-Portuguese-Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) - Open Source Text-To-Speech Portuguese Dataset <sub>⭐ 180</sub>
-- [aleemrehmtulla/espanol-love](https://github.com/aleemrehmtulla/espanol-love) - context-aware translations using gpt4, spoken in a cloned voice <sub>⭐ 179 · TypeScript</sub>
-- [nimaone/persian_tts](https://github.com/nimaone/persian_tts) - Persian text-to-speech with voice cloning, fully offline on CPU (ONNX + torch paths) <sub>⭐ 179 · Python</sub>
-- [warmshao/ChatTTSPlus](https://github.com/warmshao/ChatTTSPlus) - Extension of ChatTTS, 3x Faster on Windows, Support Voice Cloning and Mobile Deployment <sub>⭐ 179 · Python</sub>
-- [PlayVoice/Grad-SVC](https://github.com/PlayVoice/Grad-SVC) - Diffusion Singing Voice Conversion based on Grad-TTS from HuaWei <sub>⭐ 174 · Python</sub>
-- [erl-j/neural-instrument-cloning](https://github.com/erl-j/neural-instrument-cloning) - In this project we combine techniques from neural voice cloning and musical instrument synthesis to achieve good results from as little as 16 seconds of target data. <sub>⭐ 173 · Jupyter Notebook</sub>
-- [k2kobayashi/crank](https://github.com/k2kobayashi/crank) - A toolkit for non-parallel voice conversion based on vector-quantized variational autoencoder <sub>⭐ 171 · Python</sub>
-- [billwuhao/ComfyUI_StepAudioTTS](https://github.com/billwuhao/ComfyUI_StepAudioTTS) - A Text To Speech node using Step-Audio-TTS in ComfyUI. Can speak, rap, sing, or clone voice. <sub>⭐ 167 · Python</sub>
-- [chinokikiss/GSV-TTS-Lite](https://github.com/chinokikiss/GSV-TTS-Lite) - GSV-TTS-Lite A high-performance inference engine specifically designed for the GPT-SoVITS text-to-speech model.(few shot voice cloning) <sub>⭐ 160 · Python</sub>
-- [ASLP-lab/MeanVC2](https://github.com/ASLP-lab/MeanVC2) - A Robust Low-Latency Streaming Zero-Shot Voice Conversion <sub>⭐ 159 · Python</sub>
-- [sidharthrajaram/StyleTTS2](https://github.com/sidharthrajaram/StyleTTS2) - Pip installable package for StyleTTS 2 human-level text-to-speech and voice cloning <sub>⭐ 159 · Python</sub>
-- [openvpi/SingingVocoders](https://github.com/openvpi/SingingVocoders) - A collection of neural vocoders suitable for singing voice synthesis tasks. <sub>⭐ 156 · Python</sub>
-- [SociallyIneptWeeb/AniVoiceChanger](https://github.com/SociallyIneptWeeb/AniVoiceChanger) - An RVC "extension" for Voice-Chat <sub>⭐ 155 · Jupyter Notebook</sub>
-- [ConsistencyVC/ConsistencyVC-voive-conversion](https://github.com/ConsistencyVC/ConsistencyVC-voive-conversion) - Using joint training speaker encoder with consistency loss to achieve cross-lingual voice conversion and expressive voice conversion <sub>⭐ 154 · Python</sub>
-- [filliptm/ComfyUI-FL-Qwen3TTS](https://github.com/filliptm/ComfyUI-FL-Qwen3TTS) - Qwen3-TTS text-to-speech nodes for ComfyUI with voice cloning, voice design, and fine-tuning UI <sub>⭐ 154 · Python</sub>
-- [yl4579/PitchExtractor](https://github.com/yl4579/PitchExtractor) - Deep Neural Pitch Extractor for Voice Conversion and TTS Training <sub>⭐ 154 · Python</sub>
-- [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab) - Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with CLI and web UI <sub>⭐ 151 · Python</sub>
-- [adrianhajdin/react-native-lingua](https://github.com/adrianhajdin/react-native-lingua) - React Native Duolingo clone with a real-time AI voice teacher. Built with Expo, Stream Voice Agents, Clerk auth, and NativeWind for a complete, interactive mobile learning experience. <sub>⭐ 150 · TypeScript</sub>
-- [shackysureshot/StarGAN-Voice-Conversion-2](https://github.com/shackysureshot/StarGAN-Voice-Conversion-2) - A pytorch implementation of StarGAN-VC2 <sub>⭐ 150 · Python</sub>
-- [JeremyCCHsu/vae-npvc](https://github.com/JeremyCCHsu/vae-npvc) - Re-implementation the code used in Voice Conversion from Non-parallel Corpora Using Variational Auto-encoder <sub>⭐ 149 · Python</sub>
-- [Grace9994/CoMoSVC](https://github.com/Grace9994/CoMoSVC) - CoMoSVC: One-Step Consistency Model Based Singing Voice Conversion & Singing Voice Clone <sub>⭐ 148 · Python</sub>
-- [winddori2002/TriAAN-VC](https://github.com/winddori2002/TriAAN-VC) - TriAAN-VC: Triple Adaptive Attention Normalization for Any-to-Any Voice Conversion <sub>⭐ 146 · Python</sub>
-- [bshall/VectorQuantizedCPC](https://github.com/bshall/VectorQuantizedCPC) - Vector-Quantized Contrastive Predictive Coding for Acoustic Unit Discovery and Voice Conversion <sub>⭐ 142 · Python</sub>
-- [timoncool/dub-studio](https://github.com/timoncool/dub-studio) - Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one native .exe, zero Python. <sub>⭐ 142 · Rust</sub>
-- [jgravelle/GroqCasters](https://github.com/jgravelle/GroqCasters) - GroqCasters is a Python application that generates podcast scripts and corresponding audio using AI technologies. It leverages PocketGroq for script generation and Bark for text-to-speech conversion… <sub>⭐ 139 · Python</sub>
-- [h1papc11/voice-mcp-agent](https://github.com/h1papc11/voice-mcp-agent) - voice mcp ai agent to clone voices, synthesize speech and connect MCP agents to custom voices <sub>⭐ 137 · TypeScript</sub>
-- [MelissaChen15/control-vc](https://github.com/MelissaChen15/control-vc) - This is the implementation for "ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Rhythm" <sub>⭐ 132 · Python</sub>
-- [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual <sub>⭐ 132 · Python</sub>
-- [BernieTv/ElevenLabs-Clone](https://github.com/BernieTv/ElevenLabs-Clone) - A self-hosted ElevenLabs clone for text-to-speech, voice conversion, and AI audio generation with Docker, FastAPI, and Next.js. <sub>⭐ 131 · Python</sub>
+- [awni/speech](https://github.com/awni/speech) - Speech-to-Text를 위한 End-to-End 모델의 PyTorch 구현 <sub>⭐ 769 · Python</sub>
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — 작은, 컨텍스트-aware text-to-speech 모델은 실제 대화에서 훈련. 219M 활성 params (305M 합계), Apache 2.0, 음성 복제, 스트리밍, CPU에 실행 (독립없는 C 빌드).... <sub>⭐ 767 · Python</sub>
+- [cboard-org/cboard](https://github.com/cboard-org/cboard) - 브라우저의 텍스트로 구분 및 대체 통신(AAC) 시스템 <sub>⭐ 759 · JavaScript</sub>
+- [dlutton/flutter_tts](https://github.com/dlutton/flutter_tts) - Flutter Text to Speech 패키지 <sub>⭐ 757 · Dart</sub>
+- [homelab-00/TranscriptionSuite](https://github.com/homelab-00/TranscriptionSuite) - 다중 모델 백엔드, 다이어그램 및 캘린더 모드를 제공하는 완벽한 로컬 및 프라이빗 Speech-To-Text 앱 - Windows, macOS & Linux에서 사용 가능 <sub>⭐ 757 · TypeScript</sub>
+- [Macoron/whisper.unity](https://github.com/Macoron/whisper.unity) - Unity3d에서 text model (whisper.cpp)에 대한 연설을 실행하십시오. <sub>⭐ 752 · C#</sub>
+- [nnsvs/nnsvs](https://github.com/nnsvs/nnsvs) - Neural Network 기반 음성 합성 라이브러리 연구 <sub>⭐ 752 · Python</sub>
+- [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - Kokoro 웹 : 무료 AI 텍스트 - 투 - 슬픔, 온라인 또는 자체 호스팅, OpenAI 호환! <sub>⭐ 749 · TypeScript</sub>
+- [BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio) - MimikaStudio - macOS (Apple Silicon) + Agentic MCP 지원을위한 로컬 최초의 응용 프로그램 <sub>⭐ 741 · Dart</sub>
+- [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM 미러 OpenAI의 TTS 서비스, 텍스트 - 투 - speech 변환에 대한 호환 인터페이스를 무료로 제공합니다. <sub>⭐ 739 · Python</sub>
+- [rapidaai/voice-ai](https://github.com/rapidaai/voice-ai) - Rapida는 오디오 스트리밍, STT, TTS, VAD, 멀티 채널 통합, 에이전트 상태와 실시간 대화 음성 에이전트를 구축하기위한 오픈 소스 인 End-to-end 목소리 AI Orchestration 플랫폼입니다. <sub>⭐ 738 · Go</sub>
+- [mmpneo/curses](https://github.com/mmpneo/curses) - OBS, VRChat, Twitch 채팅 및 Discord를 위한 텍스트와 KB 입력 캡션에 대한 강연 <sub>⭐ 731 · TypeScript</sub>
+- [Lex-au/Orpheus-FastAPI](https://github.com/Lex-au/Orpheus-FastAPI) - OpenAI 호환 API, 8개의 음성, 감정 태그 및 현대 웹 UI를 가진 고성능 텍스트-투-스피커 서버. RTX GPU에 최적화되어 있습니다. <sub>⭐ 720 · Python</sub>
+- [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - 쉽게 모든 목소리에 Piper 텍스트 - 투 - 슬픈 모델을 만들. 자신의 음성 녹음으로 텍스트 - 투 - 슬픔 모델, 또는 RVC 목소리의 수천을 사용합니다. 라즈베리 파이에서 오프라인 작업을합니다. 신속히 기록 ... <sub>⭐ 718 · Shell</sub>
+- [OlaWod/FreeVC](https://github.com/OlaWod/FreeVC) - FreeVC: 고품질 텍스트 무료 One-Shot 음성 변환 <sub>⭐ 718 · Python</sub>
+- [jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts) - Monotonic Alignment Search를 통해 Text-to-Speech에 대한 유전적 흐름 <sub>⭐ 715 · Python</sub>
+- [gitmylo/bark-voice-cloning-HuBERT-quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer) - bark-voicecloning 모델의 코드. 훈련 및 출간. <sub>⭐ 710 · Python</sub>
+- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - 모션그래픽과 텍스트-투-speech 합성을 이용한 완전 자동화된 비디오 메이커는 매일 YouTube 동영상으로 뉴스 레터를 수신합니다. <sub>⭐ 707 · TypeScript</sub>
+- [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Voicebox, 새로운 SOTA Text-to-speech 네트워크 구현 MetaAI에서 Pytorch <sub>⭐ 703 · Python</sub>
+- [ak1394/react-native-tts](https://github.com/ak1394/react-native-tts) - Android 및 iOS 용 React Native Text-To-Speech 라이브러리 <sub>⭐ 698 · Java</sub>
+- [Picovoice/speech-to-text-benchmark](https://github.com/Picovoice/speech-to-text-benchmark) - 텍스트 벤치 마크 프레임 워크에 대한 연설 <sub>⭐ 698 · Python</sub>
+- [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Chatterbox를 사용하여 로컬, OpenAI-compatible text-to-speech (TTS) API는 사용자가 OpenAI API가 사용중인 음성 복제 연설을 생성 할 수 있도록합니다 (예 : WebUI, AnyLLM 등) <sub>⭐ 684 · Python</sub>
+- [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - Reddit에서 스크립트를 자동으로 수신하는 3 가지 프로그램의 시리즈는 사용자가 편집 할 수 있도록하여 YouTube에 업로드 될 비디오 생성기로 전송됩니다. <sub>⭐ 679 · Python</sub>
+- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) - Qwen3-TTS & VibeVoice에 의해 구동되는 음성 복제 및 음성 디자인을 위한 Gradio 근거한 웹 UI. 자동적인 transcription를 위해 Whisper 또는 VibeVoice-ASR을 사용할 수 있습니다. <sub>⭐ 675 · Python</sub>
+- [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - 20개 이상의 언어, 1000+ 사전, 텍스트 - 투-스페커, 번역 및 애니키 통합에서 더블 클릭 뷰업을 지원하는 사용자 정의 가능한 사전 확장. <sub>⭐ 674 · JavaScript</sub>
+- [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) - 자동으로 Github Actions를 사용하여 Text-to-speech (TTS) 용지를 매일 업데이트하십시오. (12 시간마다 업데이트 됨) <sub>⭐ 670 · Python</sub>
+- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device 스트리밍 연설 - to-text Engine 딥러닝에 의해 구동 <sub>⭐ 670 · Python</sub>
+- [daniilrobnikov/vits2](https://github.com/daniilrobnikov/vits2) - VITS2: Adversarial Learning and Architecture Design을 통한 Single-Stage Text-to-Speech의 품질 및 효율성을 향상 <sub>⭐ 646 · Jupyter Notebook</sub>
+- [PlayVoice/lora-svc](https://github.com/PlayVoice/lora-svc) - 소리가 울리는 목소리 변화, 그리고 음성 클론을 노래하는 lora <sub>⭐ 646 · Python</sub>
+- [evancohen/sonus](https://github.com/evancohen/sonus) - so.nus/ STT (문자 텍스트에) Node를 오프라인 단축키로 <sub>⭐ 639 · JavaScript</sub>
+- [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator) - PDF 및 EPUBs를 오디오 북으로 켭니다. 자막 또는 동영상은 dubbed 비디오 (번역 포함)로, 그리고 더 많은 것. 무료로. Pandrator는 음성 폐쇄 (instant, RVC-enhanced ... <sub>⭐ 630 · Python</sub>
+- [watzon/pindrop](https://github.com/watzon/pindrop) - WhisperKit를 사용하여 로컬 연설에 텍스트를 사용하는 기본 macOS 메뉴 바 표기 앱 <sub>⭐ 627 · Swift</sub>
+- [RVC-Project/Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) - ...에 대한 <sub>⭐ 619 · Python</sub>
+- [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - 레거시 YouDub AI 비디오 번역 및 음성 차단 파이프라인. 활성 개발은 YouDub WebUI에서 계속됩니다. <sub>⭐ 616 · Python</sub>
+- [reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text) - 빠른-whisper를 사용하여 실시간 구독 <sub>⭐ 613 · HTML</sub>
+- [cnlinxi/book-text-to-speech](https://github.com/cnlinxi/book-text-to-speech) - 중국어 Text-to-Speech (TTS)에 대한 책. <sub>⭐ 612 · TeX</sub>
+- [k2kobayashi/sprocket](https://github.com/k2kobayashi/sprocket) - 음성 변환 도구 키트 <sub>⭐ 610 · Python</sub>
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - reCaptcha V3를 우회하여 HTTP 요청 및 텍스트 엔진에 대한 연설을 사용하여 ReCaptcha V2 해결. <sub>⭐ 597 · Python</sub>
+- [second-state/echokit_server](https://github.com/second-state/echokit_server) - 오픈 소스 보이스 에이전트 플랫폼 <sub>⭐ 592 · Rust</sub>
+- [justinjohn0306/so-vits-svc-4.0-v2](https://github.com/justinjohn0306/so-vits-svc-4.0-v2) - SoftVC VITS 노래 음성 변환 <sub>⭐ 581 · Python</sub>
+- [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - Whisper Model Supporting Multiple Inference Engine을 위한 최적화된 Speech-to-Text Pipeline <sub>⭐ 580 · Jupyter Notebook</sub>
+- [zhangshaolei1998/Awesome-Simultaneous-Translation](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation) - 동시 번역 / 스트리밍 번역의 종이 목록, text-to-text 기계 번역 및 연설-to-text 번역을 포함. <sub>⭐ 578</sub>
+- [kapi2800/qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon) - Qwen3-TTS text-to-speech 로컬 Mac (M1/M2/M3/M4)에서 실행하십시오. 음성 복제, 음성 디자인, 사용자 정의 목소리. MLX를 사용하여 100 % 오프라인. <sub>⭐ 573 · Python</sub>
+- [MahmoudAshraf97/ctc-forced-aligner](https://github.com/MahmoudAshraf97/ctc-forced-aligner) - CTC 강제 정렬을 사용하여 연설 정렬에 텍스트 <sub>⭐ 566 · Python</sub>
+- [billwuhao/ComfyUI_IndexTTS](https://github.com/billwuhao/ComfyUI_IndexTTS) - IndexTTS Voice Cloning: 2인 대화 지원 <sub>⭐ 553 · Python</sub>
+- [ScenemaAI/scenema-audio](https://github.com/ScenemaAI/scenema-audio) - Zero-shot expressive voice cloning and Speech generation. 실제 정서적 배달, 패싱 및 호흡 제어와 함께 짧은 클립에서 전체 길이의 오디오 북에 아무것도 생성하십시오. 모든 목소리를 복제 ... <sub>⭐ 551 · Python</sub>
+- [justUmen/Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) - ComfyUI : 163 노드 : 디스플레이, 조작 및 텍스트, 이미지, 비디오, loras 등을 편집합니다. 반복 작업을 관리하고 임의화 된 콘텐츠를 생성하며 외부 AI와 논리적 조건과 작업 ... <sub>⭐ 550 · Python</sub>
+- [FlashLabs-AI-Corp/FlashLabs-Chroma](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) - Worlds first open-source real-time end-to-end 음성 대화 모델과 개인화 된 목소리 복제. <sub>⭐ 549 · Jupyter Notebook</sub>
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, 안정된 Diffusion, GPT 및 신경 text-to-speech로 내장 <sub>⭐ 535 · Python</sub>
+- [gotev/android-speech](https://github.com/gotev/android-speech) - Android 음성 인식 및 문자가 쉽게 작성되었습니다. <sub>⭐ 534 · Java</sub>
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - 자신의 개인 음성 조수 : 웹 인터페이스에서 표시된 LLM에 대한 목소리 <sub>⭐ 529 · Python</sub>
+- [modelscope/KAN-TTS](https://github.com/modelscope/KAN-TTS) - KAN-TTS는 연설 합성 교육 프레임 워크입니다. https://modelscope.cn/models?page=1&tasks=text-to-speech에 게시 된 데모를 시도하십시오 <sub>⭐ 528 · Python</sub>
+- [richardr1126/openreader](https://github.com/richardr1126/openreader) - EPUB, PDF, DOCX, TXT 및 MD에 대한 고품질 TTS 옵션, 동기화 된 강조 및 오디오 북 수출을 갖춘 오픈 소스 읽기 - 알롱 문서 리더 서버. <sub>⭐ 527 · TypeScript</sub>
+- [bshall/knn-vc](https://github.com/bshall/knn-vc) - 가장 가까운 이웃과의 음성 변환 <sub>⭐ 526 · Python</sub>
+- [prathoshap/vagdhenu](https://github.com/prathoshap/vagdhenu) - Vāgdhenu — 미터로 재는 Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). 아파치 2.0. <sub>⭐ 524 · Python</sub>
+- [liusongxiang/StarGAN-Voice-Conversion](https://github.com/liusongxiang/StarGAN-Voice-Conversion) - 이것은 종이의 pytorch 구현입니다 : StarGAN-VC : 별 유전자 adversarial 네트워크와 비 다공성 음성 변환 <sub>⭐ 523 · Python</sub>
+- [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) - StarGANv2-VC: 자연 음성 변환을위한 Diverse, Unsupervised, Non-parallel Framework <sub>⭐ 523 · Python</sub>
+- [r9y9/gantts](https://github.com/r9y9/gantts) - GAN 기반 텍스트 - to-speech 합성 및 음성 변환 (VC)의 PyTorch 구현 <sub>⭐ 518 · Jupyter Notebook</sub>
+- [thinhlpg/vixtts-demo](https://github.com/thinhlpg/vixtts-demo) - 베트남 보이스 클로닝 텍스트 - 투 - 슬립 모델 <sub>⭐ 518 · Jupyter Notebook</sub>
+- [PunithVT/ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) - AI Avatar / 디지털 인간 플랫폼 - 사진 업로드, 음성 복제, 입술 동기화 비디오와 실시간으로 모든 얼굴에 이야기. 오픈 소스, 자체 호스팅. Claude · Whisper · Chatterbox · MuseTalk. <sub>⭐ 511 · Python</sub>
+- [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - 오픈 소스, 로컬 및 자체 호스팅 매우 최적화 된 언어 inference 서버 지원 ASR/STT, TTS 및 LLM WebRTC, REST 및 WS의 <sub>⭐ 511 · Python</sub>
+- [wildminder/ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM) - ComfyUI 노드는 고도로 표현된 연설과 현실적인 제격 음성 복제를 위한 <sub>⭐ 511 · Python</sub>
+- [AwesomeTTS/awesometts-anki-addon](https://github.com/AwesomeTTS/awesometts-anki-addon) - 굉장한 텍스트-to-speech 추가에 대한 Anki <sub>⭐ 504 · Python</sub>
+- [kxxt/aspeak](https://github.com/kxxt/aspeak) - Azure TTS API를 위한 간단한 text-to-speech 클라이언트. <sub>⭐ 497 · Rust</sub>
+- [petewarden/spchcat](https://github.com/petewarden/spchcat) - 음성 인식 도구는 Linux 및 Raspberry Pi를 위해 문자 transcript로 오디오를 변환합니다. <sub>⭐ 487 · C</sub>
+- [Picovoice/leopard](https://github.com/Picovoice/leopard) - 딥러닝에 의해 구동되는 On-device Speech-to-text Engine <sub>⭐ 485 · Python</sub>
+- [Aivis-Project/AivisSpeech](https://github.com/Aivis-Project/AivisSpeech) - AivisSpeech: AI Voice Imitation System - 음성 소프트웨어 <sub>⭐ 483 · TypeScript</sub>
+- [ranchlai/mandarin-tts](https://github.com/ranchlai/mandarin-tts) - Chinese Mandarin tts text-to-speech 中文 (橋通駅) 合成, fastspeech 2에 의해, 보드코더로 파고를 사용하여 파이토치에서 구현, biaobei와 aishell3 데이터 세트 <sub>⭐ 477 · Python</sub>
+- [csdcorp/speech_to_text](https://github.com/csdcorp/speech_to_text) - 장치 특정 텍스트를 음성 인식 기능에 노출시키는 Flutter 플러그인. <sub>⭐ 474 · Dart</sub>
+- [WenJing95/SayKey](https://github.com/WenJing95/SayKey) - Windows용 Speech-to-Text 입력 방법 <sub>⭐ 472 · TypeScript</sub>
+- [MasayaKawamura/MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS) - 경량과 고휘도 End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform <sub>⭐ 471 · Python</sub>
+- [gillesdemey/google-speech-v2](https://github.com/gillesdemey/google-speech-v2) - 역설계 Google의 Text API에 대한 연설 (v2) <sub>⭐ 469</sub>
+- [HKoon/ChatTTS-OpenVoice](https://github.com/HKoon/ChatTTS-OpenVoice) - OpenVoice를 가진 신관 ChatTTS는, 10 초 오디오 클립을 업로드하고, 개인화된 ChatTTS 음성을 복제합니다. <sub>⭐ 466 · Python</sub>
+- [dectalk/dectalk](https://github.com/dectalk/dectalk) - 90s/00s DECtalk text-to-speech 응용 프로그램에 대한 현대 빌드. <sub>⭐ 465 · PostScript</sub>
+- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuze는 ComfyUI와 완벽하게 통합되어 얼굴 변혁, lipsyncing, Face Swapping, LipSync Translation, 비디오 생성을 혁명으로 이끌어내는 최첨단 딥러닝 도구입니다. <sub>⭐ 461 · Python</sub>
+- [bshall/soft-vc](https://github.com/bshall/soft-vc) - 음성 변환을 위한 소프트 연설 단위 <sub>⭐ 457 · Jupyter Notebook</sub>
+- [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - Emotional Text에 대한 딥러닝 접근법을 사용하여 우리의 시도 요약 <sub>⭐ 456 · Jupyter Notebook</sub>
+- [davabase/transcriber_app](https://github.com/davabase/transcriber_app) - 실시간 음성을 텍스트로 변환 앱. <sub>⭐ 439 · Python</sub>
+- [fumiama/Retrieval-based-Voice-Conversion-WebUI](https://github.com/fumiama/Retrieval-based-Voice-Conversion-WebUI) - 음성 데이터로 좋은 VC 모델을 쉽게 훈련 <= 10 분! <sub>⭐ 438 · Python</sub>
+- [phildougherty/sesame_csm_openai](https://github.com/phildougherty/sesame_csm_openai) - Sesame CSM를 위한 OpenAI 호환성 TTS: 1b & dia: 1.6b - 파일/YT에서 음성 Cloning <sub>⭐ 438 · Python</sub>
+- [ARBML/klaam](https://github.com/ARBML/klaam) - 아랍어 음성 인식, 분류 및 text-to-speech. <sub>⭐ 435 · Jupyter Notebook</sub>
+- [Weilbyte/tiktok-tts](https://github.com/Weilbyte/tiktok-tts) - 브라우저에서 TikTok Text-to-Speech 음성 생성 <sub>⭐ 422 · JavaScript</sub>
+- [AaronZ345/StyleSinger](https://github.com/AaronZ345/StyleSinger) - StyleSinger(AAAI 2024)의 PyTorch 구현: 아웃-of-Domain Singinging Voice Synthesis를 위한 스타일 전송 <sub>⭐ 420 · Python</sub>
+- [wenet-e2e/wetts](https://github.com/wenet-e2e/wetts) - 생산 첫 번째 및 생산 준비된 End-to-End Text-to-Speech Toolkit <sub>⭐ 417 · Python</sub>
+- [ATH-MaaS/Marco-Voice](https://github.com/ATH-MaaS/Marco-Voice) - Voice Cloning을 통한 표현식 Speech Synthesis에 대한 통합 Framework <sub>⭐ 416 · Python</sub>
+- [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) - 완전한 종이 커트 collage 광고 생산을 위한 Codex 기술, 국부적으로 IndexTTS-2 음성 복제, 생기, 오디오 및 MP4 QC <sub>⭐ 415 · JavaScript</sub>
+- [art-from-the-machine/Mantella](https://github.com/art-from-the-machine/Mantella) - Mantella는 Speech-to-Text → LLMs → Text-to-Speech 파이프라인을 사용하여 NPC에 자연스럽게 말할 수있는 Skyrim 및 Fallout 4 mod입니다. <sub>⭐ 413 · Python</sub>
+- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw Desktop Assistant MVP - Live2D 문자 애니메이션, 실시간 음성 인식 및 텍스트에 기반 AI 음성 조수 <sub>⭐ 409 · JavaScript</sub>
+- [bshall/hubert](https://github.com/bshall/hubert) - HuBERT 콘텐츠 인코딩: 향상된 음성 변환을 위한 Discrete 및 Soft Speech Unit의 비교 <sub>⭐ 408 · Python</sub>
+- [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php) - PHP의 텍스트에 대한 로컬 연설은 Whisper.cpp 및 OpenAI 덕분에 쉽게 만들었습니다 <sub>⭐ 407 · PHP</sub>
+- [AI4Bharat/Indic-TTS](https://github.com/AI4Bharat/Indic-TTS) - 인도의 언어에 대한 Text-to-Speech <sub>⭐ 404 · Jupyter Notebook</sub>
+- [altunenes/parakeet-rs](https://github.com/altunenes/parakeet-rs) - 매우 빠른 연설-to-text, diarization, 스트리밍 (CPU에서 일) 와 NVIDIA Parakeet in Rust <sub>⭐ 404 · Rust</sub>
+- [Vonage/vonage-node-sdk](https://github.com/Vonage/vonage-node-sdk) - Node.js를 위한 Vonage API 클라이언트. SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) 및 기타 API 지원 <sub>⭐ 395 · TypeScript</sub>
+- [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming 프로토콜 서버 빠른 whisper 연설을 텍스트 시스템에 <sub>⭐ 390 · Python</sub>
+- [AaronZ345/TCSinger](https://github.com/AaronZ345/TCSinger) - TCSinger(EMNLP 2024)의 PyTorch 구현: Style Transfer 및 Multi-Level 스타일 컨트롤을 가진 Zero-Shot Sing Voice Synthesis <sub>⭐ 387 · Python</sub>
+- [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - 텍스트로 모든 연설을 변환하는 최소한의 응용 프로그램입니다. <sub>⭐ 386 · JavaScript</sub>
+- [izwi-ai/izwi](https://github.com/izwi-ai/izwi) - Voice AI 런타임. OpenAI 호환 API를 사용하여 로컬 최초의 비문, 스피커 탈중앙화, TTS 및 음성 복제. <sub>⭐ 385 · Rust</sub>
+- [lochenchou/MOSNet](https://github.com/lochenchou/MOSNet) - "MOSNet: 딥러닝 기반 음성 변환에 대한 객관적인 평가" 구현 <sub>⭐ 380 · Python</sub>
+- [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Whisper를 사용하여 Obsidian의 Speech-to 텍스트 <sub>⭐ 380 · TypeScript</sub>
+- [mailong25/self-supervised-speech-recognition](https://github.com/mailong25/self-supervised-speech-recognition) - wav2vec 2.0 프레임을 기반으로 자체 감독 학습과 텍스트에 대한 연설 <sub>⭐ 379 · Python</sub>
+- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - Text-to-speech (TTS) 메시지가 끝난 후, 이전 및/또는 결합된 오디오 파일을 재생하는 사용자 정의 홈 어시스턴트 통합 <sub>⭐ 378 · Python</sub>
+- [tronghieuit/v-tts](https://github.com/tronghieuit/v-tts) - Multi-Speaker TTS와 Zero-Shot Voice Cloning을 가진 가장 가벼운 베트남 텍스트 - 투 - Speech. <sub>⭐ 378 · Python</sub>
+- [WangHelin1997/CapSpeech](https://github.com/WangHelin1997/CapSpeech) - CapSpeech: 스타일 캡처 된 텍스트로 다운스트림 응용 프로그램 활성화 <sub>⭐ 374 · Jupyter Notebook</sub>
+- [X-LANCE/VoiceFlow-TTS](https://github.com/X-LANCE/VoiceFlow-TTS) - (ICASSP 2024) 이것은 "VoiceFlow : Rectified Flow Matching"을 가진 능률적인 Text-to-Speech입니다 <sub>⭐ 374 · Python</sub>
+- [RapidWareTech/pyttsx](https://github.com/RapidWareTech/pyttsx) - Cross-platform 텍스트 - to-speech 래퍼 <sub>⭐ 373 · Python</sub>
+- [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS) - Kokoro-JS, 100 % 로컬, 100 % 오픈 소스를 사용하여 브라우저에서 무제한 텍스트 - 투 - 슬픔 <sub>⭐ 373 · JavaScript</sub>
+- [estebanstifli/LocalText2Voice](https://github.com/estebanstifli/LocalText2Voice) - 오디오북, 팟캐스트, 다큐멘터리, 영화 및 애니메이션 동영상에 대한 무료 오픈 소스 AI 데스크톱 앱 로컬 모델, 클라우드 API 및 편집 가능한 스토리보드. <sub>⭐ 370 · Python</sub>
+- [edgenai/edgen](https://github.com/edgenai/edgen) - Edgen: Local, Private GenAI 서버 대안 OpenAI. 요구되는 GPU 없음. 로컬 LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) 및 기타 많은 다른 사람. <sub>⭐ 367 · Rust</sub>
+- [SWivid/Habibi-TTS](https://github.com/SWivid/Habibi-TTS) - "Habibi : 통합 아랍어 발음의 오픈 소스 재단"에 대한 공식 코드 <sub>⭐ 366 · Python</sub>
+- [graniet/llm](https://github.com/graniet/llm) - 강력한 Rust 라이브러리 및 CLI 도구는 여러 LLM, 에이전트 및 음성 백엔드 (OpenAI, Claude, Gemini, Ollama, ElevenLabs...)을 단일, 확장 가능한 API로 통합합니다. 빌드, 체인 ... <sub>⭐ 365 · Rust</sub>
+- [julianzq/deepvoice](https://github.com/julianzq/deepvoice) - 딥 보이스: 실시간 신경 텍스트 - to-Speech <sub>⭐ 363 · Python</sub>
+- [taf2/speech2text](https://github.com/taf2/speech2text) - Google Speech to Text API를 사용하여 오디오 파일을 변환하는 간단한 인터페이스 제공 <sub>⭐ 363 · Ruby</sub>
+- [Wendison/VQMIVC](https://github.com/Wendison/VQMIVC) - VQMIVC의 공식 구현: One-shot (any-to-any) 음성 변환 @ Interspeech 2021 + 온라인 플레이 데모! <sub>⭐ 361 · Jupyter Notebook</sub>
+- [deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning](https://github.com/deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning) - Tacotron 2 - 빠른 일차적 인 의도와 PyTorch 구현은 교차 언어 음성 복제를 가능하게하기 위해 수정되었습니다. <sub>⭐ 359 · Jupyter Notebook</sub>
+- [mylxsw/typeflux](https://github.com/mylxsw/typeflux) - Typeflux는 Swift와 내장 된 macOS 메뉴 바 음성 입력 도구입니다. 그것은 빠른 "듣기, 삽입에 릴리스"작업 흐름을 위해 설계되었습니다 : 단축키를 누르고 자연스럽게 말하고 응용 프로그램을 transcribe ... <sub>⭐ 358 · Swift</sub>
+- [VinAIResearch/XPhoneBERT](https://github.com/VinAIResearch/XPhoneBERT) - XPhoneBERT: Text-to-Speech (INTERSPEECH 2023)를 위한 Phoneme Representations를 위한 전 훈련된 다언어 모형 <sub>⭐ 357 · Python</sub>
+- [zhangyongmao/VISinger2](https://github.com/zhangyongmao/VISinger2) - VISinger 2: 디지털 신호 처리 Synthesizer에 의해 강화되는 상한 끝에 최후 노래 음성 종합 <sub>⭐ 356 · Python</sub>
+- [devnen/Dia-TTS-Server](https://github.com/devnen/Dia-TTS-Server) - 강력한 Dia TTS 모델. 이 서버는 사용자 친화적 인 웹 UI, 유연한 API 엔드 포인트 (incl. OpenAI 호환)를 제공하며 SafeTensors/BF16, 음성 복제, 대화 생성에 대한 지원 ... <sub>⭐ 355 · Python</sub>
+- [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - 속도 및 샘플 벤치 마크 : Windows / Linux / Mac에서 연설 (TTS) 모델에 대한 모든 유형의 텍스트를 들어. <sub>⭐ 351 · Python</sub>
+- [AnubhavChaturvedi-GitHub/jarvis-ai-assistant](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) - Python의 음성 제어 AI 데스크탑 조수. 연설 인식, 연설문, 실시간 웹 검색, 이미지 생성, 컴퓨터 비전 및 WhatsApp 자동화, Iron Man's JARVIS에 의해 영감을. <sub>⭐ 351 · Python</sub>
+- [liusongxiang/ppg-vc](https://github.com/liusongxiang/ppg-vc) - PPG 기반 음성 변환 <sub>⭐ 351 · Python</sub>
+- [megaease/easevoice-trainer](https://github.com/megaease/easevoice-trainer) - EaseVoice Trainer는 간단하고 사용자 친화적 인 음성 복제 및 연설 모델 트레이너입니다. <sub>⭐ 350 · Python</sub>
+- [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - Kokoro Text-to-Speech 모델의 로컬 구현은 동적 모듈로드, 자동 의존성 관리 및 웹 인터페이스를 특징으로합니다. <sub>⭐ 350 · Python</sub>
+- [keonlee9420/DiffGAN-TTS](https://github.com/keonlee9420/DiffGAN-TTS) - DiffGAN-TTS의 PyTorch 구현 : Denoising Diffusion GANs를 가진 높은 안정성 및 효율적인 텍스트 - 투 - Speech <sub>⭐ 349 · Python</sub>
+- [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) - CPU에서 실시간 다국어 연설-to-text 만. 라이브 자막, 브라우저 대시보드, 스피커 라벨, 번역. 아니 GPU, 클라우드 없습니다. <sub>⭐ 347 · Python</sub>
+- [keonlee9420/PortaSpeech](https://github.com/keonlee9420/PortaSpeech) - PortaSpeech의 PyTorch 구현 : 휴대용 및 고품질 생성 텍스트 - 투 - Speech <sub>⭐ 341 · Python</sub>
+- [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase) - 빠르고 개인화된 현지 연설-to-text <sub>⭐ 341 · Python</sub>
+- [bshall/ZeroSpeech](https://github.com/bshall/ZeroSpeech) - VQ-VAE for Acoustic Unit Discovery 및 음성 변환 <sub>⭐ 339 · Python</sub>
+- [isaiahbjork/csm-voice-cloning](https://github.com/isaiahbjork/csm-voice-cloning) - Sesame CSM 1B 음성 Cloning <sub>⭐ 338 · Python</sub>
+- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - 자동 음성 감지, 키워드 트리거 된 애니메이션 및 실시간 연설 - 텍스트 디스플레이를 갖춘 임베디드 AI에 의해 구동되는 손없는 미니 워키 투시. <sub>⭐ 336 · C</sub>
+- [Hiroshiba/realtime-yukarin](https://github.com/Hiroshiba/realtime-yukarin) - 실시간 음성 변환을 위한 응용 <sub>⭐ 333 · Python</sub>
+- [Rongjiehuang/GenerSpeech](https://github.com/Rongjiehuang/GenerSpeech) - GenerSpeech (NeurIPS'22)의 PyTorch 구현 : OOD 사용자 정의 음성의 0 샷 스타일 전송을 향한 텍스트 - 투 - 슬레이브 모델. <sub>⭐ 333 · Python</sub>
+- [chrischoy/WhisperChain](https://github.com/chrischoy/WhisperChain) - 텍스트에 대한 강연하지만 모든 종과 whistles와 가장 중요한 AI! AI는 필러 단어를 정리하고 편집하고 당신이 말하는 것을 정제합니다! <sub>⭐ 332 · Python</sub>
+- [JackismyShephard/ultimate-rvc](https://github.com/JackismyShephard/ultimate-rvc) - Retrieval-based Voice Conversion를 사용하여 노래 표지 및 연설과 같은 오디오 기반 콘텐츠를 만드는 앱. <sub>⭐ 331 · Python</sub>
+- [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Indic Languages를 위한 텍스트 모델에 오픈 소스 연설 <sub>⭐ 329</sub>
+- [keonlee9420/Comprehensive-Transformer-TTS](https://github.com/keonlee9420/Comprehensive-Transformer-TTS) - Non-Autoregressive Transformer based Text-to-Speech, 감독 및 감독 된 기간 모델링과 SOTA 변압기의 가족을 지원하는 비 자동화 변압기. 이 프로젝트는 연구 커뮤니티와 성장 ... <sub>⭐ 327 · Python</sub>
+- [leemysw/yovoice](https://github.com/leemysw/yovoice) - macOS 및 Windows 용 오픈 소스 음성 생성. 로컬 TTS, 음성 복제, 감정 제어 - 클라우드 API 또는 per-character 수수료 없음. <sub>⭐ 327 · TypeScript</sub>
+- [khanhuitse05/speech-and-text-unity-ios-android](https://github.com/khanhuitse05/speech-and-text-unity-ios-android) - Unity iOS 사용의 텍스트에 대한 속도 Native Speech Recognition <sub>⭐ 325 · C#</sub>
+- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - 현대 AI 연설 종합, 탈중앙화 및 음성 복제를 가진 dub 비 영어 매체에 프로그램! <sub>⭐ 324 · Python</sub>
+- [travisvn/obsidian-edge-tts](https://github.com/travisvn/obsidian-edge-tts) - Microsoft Edge의 읽기 Aloud API를 활용하여 Obsidian 노트에 대한 무료 고품질 텍스트 - 투 - 슬레이브. <sub>⭐ 322 · TypeScript</sub>
+- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - OpenAI Chat API를 사용하여 Alfred 5 Workflow는 GPT 모델과 상호 작용할 수 있습니다. 이미지 생성/편집/understanding, 연설-to-text 변환 및 텍스트 - to-speech 합성 <sub>⭐ 319 · Ruby</sub>
+- [Devansh-47/Sign-Language-To-Text-and-Speech-Conversion](https://github.com/Devansh-47/Sign-Language-To-Text-and-Speech-Conversion) - 이 언어는 Dumb/Deaf 사람들이이 언어를 이해하지 못하는 정상적인 사람들과 대화를 시작시키는 데 도움이되는 텍스트와 연설으로 미국 표지판 언어를 변환하는 피톤 응용 프로그램입니다. <sub>⭐ 318 · Python</sub>
+- [hiddentao/google-tts](https://github.com/hiddentao/google-tts) - Google Text-to-Speech 엔진에 대한 Javascript API <sub>⭐ 318 · JavaScript</sub>
+- [Olney1/ChatGPT-OpenAI-Smart-Speaker](https://github.com/Olney1/ChatGPT-OpenAI-Smart-Speaker) - 이 AI 스마트 스피커는 음성 및 비전 중심 대화를 가능하게하기 위해 연설 인식, TTS (text-to-speech) 및 STT (speech-to-text)을 사용하여 OpenAI와 함께 추가 웹 검색 기능을 갖춘 음성 및 시각 기반 대화를 활성화합니다. <sub>⭐ 316 · Python</sub>
+- [carlini/audio_adversarial_examples](https://github.com/carlini/audio_adversarial_examples) - Speech-to-Text 시스템의 타겟된 Adversarial 예제 <sub>⭐ 314 · Python</sub>
+- [COSS-India/VoicEra](https://github.com/COSS-India/VoicEra) - 실시간 음성-텍스트, 텍스트-투-스페치 및 LLM-powered 대화 에이전트를 특징으로하는 텔레포니 통합과 완벽한 음성 AI 빌딩 블록. <sub>⭐ 314 · Python</sub>
+- [Zyphra/ZONOS2](https://github.com/Zyphra/ZONOS2) - Zonos2는 선도적 인 개방형 텍스트 - 투 - 슬픈 MoE입니다. <sub>⭐ 314 · Python</sub>
+- [Aratako/T5Gemma-TTS](https://github.com/Aratako/T5Gemma-TTS) - T5Gemma encoder-decoder LLM을 기반으로 음성 복제 및 지속 제어를 갖춘 다국어 TTS 모델 <sub>⭐ 312 · Python</sub>
+- [mbzuai-oryx/LLMVoX](https://github.com/mbzuai-oryx/LLMVoX) - LLMVoX: 모든 LLM를 위한 자동적인 스트리밍 텍스트에 Speech 모형 <sub>⭐ 312 · Python</sub>
+- [ASLP-lab/MeanVC](https://github.com/ASLP-lab/MeanVC) - 평균 유량을 통해 경량 및 스트리밍 Zero-Shot Voice 변환 <sub>⭐ 309 · Python</sub>
+- [dannguyen/watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - IBM의 Speech-to-Text API를 사용하여 개념을 증명하여 빠르고 디디티 트랜지션을 수행하십시오. <sub>⭐ 308 · Python</sub>
+- [tigros/Whisperer](https://github.com/tigros/Whisperer) - OpenAI's whisper를 사용하여 텍스트에 배치 연설. <sub>⭐ 308 · C#</sub>
+- [DarioFT/ComfyUI-Qwen3-TTS](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) - Qwen3-TTS에 대한 ComfyUI 사용자 정의 노드 스위트, 1.7B 및 0.6B 모델 지원, 커스텀 보이스, 음성 디자인, 음성 Cloning 및 Fine-Tuning. <sub>⭐ 304 · Python</sub>
+- [naoufal/react-native-speech](https://github.com/naoufal/react-native-speech) - React Native를 위한 text-to-speech 라이브러리. <sub>⭐ 300 · Objective-C</sub>
+- [jakovius/voxd](https://github.com/jakovius/voxd) - VOXD는 연설에 텍스트, 음성 타이핑, 리눅스 배포판의 인용 소프트웨어입니다. 그것은 오픈 소스, 무료 충전, 사용자 친화적 인 소프트웨어, 가능한 많은 리눅스 디트로를 위해. <sub>⭐ 298 · Python</sub>
+- [Elleo/pied](https://github.com/Elleo/pied) - Pied는 Speech Dispatcher와 함께 사용하기 위해 text-to-speech Piper 목소리를 설치하고 관리하기 쉽습니다. <sub>⭐ 297 · Dart</sub>
+- [NVIDIA/radtts](https://github.com/NVIDIA/radtts) - RADTTS 및 RADTTS++에 대한 교육, 간섭 및 음성 변환 레시피 제공: 로버스트 정렬 학습, Diverse Synthesis 및 Generative Modeling 및 Fine-Grained를 가진 유량 기반 TTS 모델 ... <sub>⭐ 292 · Roff</sub>
+- [Kaljurand/K6nele](https://github.com/Kaljurand/K6nele) - 다른 앱에 음성을 제공하는 Android 응용 프로그램 <sub>⭐ 290 · Java</sub>
+- [zlargon/google-tts](https://github.com/zlargon/google-tts) - Node.js를 위한 Google TTS (Text-To-Speech) <sub>⭐ 287 · JavaScript</sub>
+- [mathigatti/midi2voice](https://github.com/mathigatti/midi2voice) - MIDI 파일에서 합성 <sub>⭐ 286 · Python</sub>
+- [n0spaces/MorshuTalk](https://github.com/n0spaces/MorshuTalk) - 모슈 텍스트 - to-speech <sub>⭐ 286 · Python</sub>
+- [QuintinShaw/openasr](https://github.com/QuintinShaw/openasr) - Local-first Speech-to-text: no cloud, telemetry, 디자인에 의해 실패. 하나의 CLI, 7 모델 가족, 서명 모델 카탈로그, OpenAI 호환 로컬 API. <sub>⭐ 282 · Rust</sub>
+- [lucidrains/spear-tts-pytorch](https://github.com/lucidrains/spear-tts-pytorch) - Spear-TTS의 구현 - 멀티 스피커 텍스트 - to-speech주의 네트워크, Pytorch에서 <sub>⭐ 278 · Python</sub>
+- [mtttmpl/speak-js](https://github.com/mtttmpl/speak-js) - JavaScript licenses API 웹 사이트 <sub>⭐ 278 · JavaScript</sub>
+- [frostming/tetos](https://github.com/frostming/tetos) - 여러 텍스트 - 투 - 스페커 (TTS) 제공 업체에 대한 통합 인터페이스. <sub>⭐ 277 · Python</sub>
+- [niknah/ComfyUI-F5-TTS](https://github.com/niknah/ComfyUI-F5-TTS) - F5-Text를 위한 ComfyUI 노드 <sub>⭐ 277 · Python</sub>
+- [RobViren/kvoicewalk](https://github.com/RobViren/kvoicewalk) - Kokoro 텍스트에 대한 무작위 도보 음성 스타일 복제 응용 <sub>⭐ 277 · Python</sub>
+- [alphacep/vosk-tts](https://github.com/alphacep/vosk-tts) - Vosk와 함께 발음하기 <sub>⭐ 274 · Python</sub>
+- [Kugelaudio/kugelaudio-open](https://github.com/Kugelaudio/kugelaudio-open) - 오픈 소스 텍스트 - to-speech for European languages with voice cloning <sub>⭐ 274 · Python</sub>
+- [hujinsen/StarGAN-Voice-Conversion](https://github.com/hujinsen/StarGAN-Voice-Conversion) - 종이의 전체 10sorflow 구현 : StarGAN-VC : 별 유전자 adversarial 네트워크와 비parallel 많은 - 투 - 만 음성 변환 https://arxiv.org/abs/1806.02169 <sub>⭐ 273 · Python</sub>
+- [zeroweight-ai/ZeroTTS](https://github.com/zeroweight-ai/ZeroTTS) - 빠른, 경량 제로 샷 베트남 텍스트 - 투 - 슬픈 (TTS) CPU에서 실시간 실행 <sub>⭐ 271 · Python</sub>
+- [ElmTran/praises](https://github.com/ElmTran/praises) - Praises는 텍스트를 쉽게 읽을 수 있도록 도와주는 text-to-speech 도구입니다. <sub>⭐ 270 · TypeScript</sub>
+- [yl4579/PL-BERT](https://github.com/yl4579/PL-BERT) - Grapheme Predictions를 가진 Text-to-Speech의 향상된 Prosody에 대한 Phoneme-Level BERT <sub>⭐ 269 · Python</sub>
+- [natrys/whisper.el](https://github.com/natrys/whisper.el) - OpenAI's whisper model 및 whisper.cpp를 inference Engine을 사용하여 Emacs에 대한 Speech-to-Text 인터페이스. <sub>⭐ 268 · Emacs Lisp</sub>
+- [JeffC0628/awesome-voice-conversion](https://github.com/JeffC0628/awesome-voice-conversion) - 멋진 음성 변환, 프로젝트 및 커뮤니티의 큐레이터 목록. <sub>⭐ 267</sub>
+- [leaonline/easy-speech](https://github.com/leaonline/easy-speech) - Cross browser Speech Synthesis는 음성 또는 TTS에 텍스트로도 알려져 있습니다. 의존성 없음; Web Speech API를 사용 <sub>⭐ 266 · JavaScript</sub>
+- [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - Nix-TTS: 경량과 끝 최후 단위 현명한 증류법을 통해 텍스트에 Speech <sub>⭐ 263 · Python</sub>
+- [watson-developer-cloud/speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - IBM Watson Speech를 사용하여 웹 브라우저에서 텍스트 및 문자에 대한 강연 서비스를 제공합니다. <sub>⭐ 263 · JavaScript</sub>
+- [keonlee9420/DailyTalk](https://github.com/keonlee9420/DailyTalk) - DailyTalk의 공식 저장소 : 대화 형 데이터 세트, ICASSP 2023 <sub>⭐ 262 · Python</sub>
+- [Vyvo-Labs/VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS) - VyvoTTS: LLM 기반 텍스트 - 투 - 스페커 교육 프레임 워크 <sub>⭐ 262 · Jupyter Notebook</sub>
+- [ekwek1/soprano-factory](https://github.com/ekwek1/soprano-factory) - Soprano-Factory : 자신의 2000x 실시간 텍스트 - 투 - 슬레이브 모델 기차 <sub>⭐ 261 · Python</sub>
+- [quickvc/QuickVC-VoiceConversion](https://github.com/quickvc/QuickVC-VoiceConversion) - QuickVC: 더 빠른 변환을 위한 Inverse 짧은 시간 Fourier Transform를 사용하는 모든 사람 음성 변환 <sub>⭐ 261 · Python</sub>
+- [NTT123/vietTTS](https://github.com/NTT123/vietTTS) - 베트남어 텍스트 to Speech library <sub>⭐ 258 · Python</sub>
+- [1038lab/ComfyUI-QwenTTS](https://github.com/1038lab/ComfyUI-QwenTTS) - ComfyUI 사용자 정의 노드 연설, 음성 복제 및 Qwen3-TTS 모델에 따라 음성 디자인 <sub>⭐ 257 · Python</sub>
+- [code-100-precent/LingEcho-App](https://github.com/code-100-precent/LingEcho-App) - LingEcho는 포괄적 인 AI 음성 상호 작용 솔루션을 제공하는 지능형 음성 상호 작용 플랫폼입니다. 그것은 고급 연설 인식 (ASR), 텍스트 - 투 - 슬레이브 (TTS), 큰 ... <sub>⭐ 257 · TypeScript</sub>
+- [AIFSH/ComfyUI-GPT_SoVITS](https://github.com/AIFSH/ComfyUI-GPT_SoVITS) - GPT-SoVITS에 대한 comfyui 사용자 정의 노드! 지금 comfyui에서 cloning 및 tts를 음성 할 수 있습니다 <sub>⭐ 255 · Python</sub>
+- [ASLP-lab/VoiceSculptor](https://github.com/ASLP-lab/VoiceSculptor) - LLaSA 및 CosyVoice2를 기반으로 한 instruct text-to-speech 솔루션은 ASLP 실험실과 협업자에 의해 개발되었습니다. <sub>⭐ 252 · Python</sub>
+- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1) 이름 :- ActionBarSearchView 설명 :- 액션 바 검색보기. (2) 이름 :- AdsfreeDescription :- 애드 모브 통합. (3) 이름 :- AndroidDayDreamDemo Description :- 일 꿈 데모. (4) 이름 ... <sub>⭐ 252 · Java</sub>
+- [whitphx/streamlit-stt-app](https://github.com/whitphx/streamlit-stt-app) - 실시간 웹 기반 Speech-to-Text 앱과 Streamlit <sub>⭐ 252 · Python</sub>
+- [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - VoxSherpa TTS Offline Neural Text-to-Speech Engine for Android Sherpa-ONNX는 자연적인 음성 종합을 완전 오프라인 처리 없이 클라우드를 강화했습니다 • 제한 없음 <sub>⭐ 251 · Java</sub>
+- [etkecc/baibot](https://github.com/etkecc/baibot) - AI / 대용량 모델 (OpenAI, Anthropic 등)의 다양한 기능(텍스트 생성, 텍스트 - 투-스피커, 이미지 생성 등)을 사용하는 Matrix bot <sub>⭐ 250 · Rust</sub>
+- [robinhad/ukrainian-tts](https://github.com/robinhad/ukrainian-tts) - ESPNET을 사용하여 우크라이나 TTS (텍스트 - 투 - 스페커) <sub>⭐ 250 · Python</sub>
+- [ForeignGods/ComfyUI-Mana-Nodes](https://github.com/ForeignGods/ComfyUI-Mana-Nodes) - 글꼴 애니메이션, 자동 연설 인식 및 ComfyUI에 대한 음성 사용자 정의 노드 <sub>⭐ 248 · Python</sub>
+- [LqNoob/Neural-Codec-and-Speech-Language-Models](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models) - 굉장한 신경 코덱 모델, Text-to-Speech Synthesizers & Speech Language Models <sub>⭐ 248 · Python</sub>
+- [hayeong0/DDDM-VC](https://github.com/hayeong0/DDDM-VC) - "DDDM-VC : Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion" (AAAI 2024)에 대한 공식 Pytorch 구현 <sub>⭐ 247 · Python</sub>
+- [innnky/ar-vits](https://github.com/innnky/ar-vits) - autoregressive 변압기 및 VITS를 사용하여 연설하는 텍스트 <sub>⭐ 247 · Python</sub>
+- [keonlee9420/DiffSinger](https://github.com/keonlee9420/DiffSinger) - DiffSinger의 PyTorch 구현 : Shallow Diffusion Mechanism을 통해 노래 목소리 증후군 (DiffSpeech에 초점을 맞추고) <sub>⭐ 247 · Python</sub>
+- [brian-smith-github/ch32v003_stt](https://github.com/brian-smith-github/ch32v003_stt) - '10 센트' CH32V003 Microcontroller에 간단한 연설-To-Text <sub>⭐ 245 · C</sub>
+- [Hagsten/Talkify](https://github.com/Hagsten/Talkify) - Javascript 텍스트를 음성 라이브러리 <sub>⭐ 244 · JavaScript</sub>
+- [CMsmartvoice/One-Shot-Voice-Cloning](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning) - Unet-TTS의 One Shot Voice Cloning Base <sub>⭐ 243 · Jupyter Notebook</sub>
+- [CheshireMew/VoxWeave](https://github.com/CheshireMew/VoxWeave) - 지역 최초의 고품질 오프라인 RVC 음성 변환 워크스테이션 <sub>⭐ 239 · Python</sub>
+- [wenet-e2e/opencpop](https://github.com/wenet-e2e/opencpop) - Opencpop: 고품질 오픈 소스 중국 인기 노래 데이터베이스 Singing Voice Synthesis <sub>⭐ 239</sub>
+- [hayeong0/Diff-HierVC](https://github.com/hayeong0/Diff-HierVC) - "Diff-HierVC : Robust Pitch Generation 및 Masked Prior와 Diffusion 기반 Hierarchical Voice 변환"의 공식 Pytorch 구현 <sub>⭐ 238 · Python</sub>
+- [MTG/WGANSing](https://github.com/MTG/WGANSing) - Multi-voice singing 음성 종합 <sub>⭐ 238 · Python</sub>
+- [rishikksh20/FastSpeech2](https://github.com/rishikksh20/FastSpeech2) - FastSpeech 2의 PyTorch 구현 : 빠르고 고품질의 End-to-End 텍스트를 음성으로 <sub>⭐ 237 · Jupyter Notebook</sub>
+- [yeokm1/doschgpt](https://github.com/yeokm1/doschgpt) - ChatGPT, Hugging Face 및 Ollama Client for DOS with text-to-speech for Sound Blaster 호환 시스템. <sub>⭐ 237 · C++</sub>
+- [adelacvg/NS2VC](https://github.com/adelacvg/NS2VC) - Voice Conversion 및 Text to Speech의 NaturalSpeech2 구현 <sub>⭐ 236 · Python</sub>
+- [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - YouTube 및 YT Music의 Android 지원 내용에 대한 오픈 소스 팟 캐스트 악기뿐만 아니라 일반 팟캐스트. <sub>⭐ 236 · Kotlin</sub>
+- [filliptm/ComfyUI_Fill-ChatterBox](https://github.com/filliptm/ComfyUI_Fill-ChatterBox) - TTS + 음성 Cloning <sub>⭐ 233 · Python</sub>
+- [second-state/qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs) - Qwen3 Text-to-Speech (TTS) 모델의 Rust 구현. <sub>⭐ 233 · Rust</sub>
+- [dunky11/voicesmith](https://github.com/dunky11/voicesmith) - (WIP) VoiceSmith는 연설 모델에 쉽게 훈련 텍스트를 만듭니다. <sub>⭐ 230 · Python</sub>
+- [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line 도구는 쉽게 음성 기반 비디오 파일을 깨끗한 텍스트로 변환 <sub>⭐ 229 · Jupyter Notebook</sub>
+- [streamcoreai/streamcore-server](https://github.com/streamcoreai/streamcore-server) - WebRTC (WHIP), barge-in, 스트리밍 STT/LLM/TTS 파이프라인, 플러그인 시스템, 멀티 언어 SDK, SIP telephony, ESP32 지원 및 완전 로컬 모드로 이동하여 오픈 소스 실시간 음성 에이전트 서버. <sub>⭐ 229 · Go</sub>
+- [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - ASR (speech-to-text) 작업에 대한 빠른 속삭임 터보 <sub>⭐ 228 · Python</sub>
+- [marcoppasini/MelGAN-VC](https://github.com/marcoppasini/MelGAN-VC) - MelGAN-VC: 스펙트럼을 사용하여 arbitrarily 긴 표본에 음성 변환 및 오디오 작풍 이동 <sub>⭐ 228 · Jupyter Notebook</sub>
+- [zaf/asterisk-googletts](https://github.com/zaf/asterisk-googletts) - Asterisk AGI 스크립트를 사용하여 Google의 음성 서비스에 텍스트를 번역합니다. <sub>⭐ 222 · Perl</sub>
+- [abb128/april-asr](https://github.com/abb128/april-asr) - C의 Speech-to-text 라이브러리 <sub>⭐ 221 · C</sub>
+- [Vonage/vonage-ruby-sdk](https://github.com/Vonage/vonage-ruby-sdk) - Ruby를 위한 Vonage REST API 클라이언트. SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) 및 더 많은 것을 위한 API 지원. <sub>⭐ 221 · Ruby</sub>
+- [foges/whisper-dictation](https://github.com/foges/whisper-dictation) - OpenAI 연설을 기반으로 하는 Dictation 앱 <sub>⭐ 220 · Python</sub>
+- [MainRo/deepspeech-server](https://github.com/MainRo/deepspeech-server) - coqui.ai를 기반으로 텍스트 서비스에 대한 테스트 서버 <sub>⭐ 219 · Python</sub>
+- [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Golang의 연설 패키지에 텍스트. <sub>⭐ 218 · Go</sub>
+- [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Persian/Farsi text to Speech(TTS) 코스퀴 tts를 이용한 교육 <sub>⭐ 218 · Jupyter Notebook</sub>
+- [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) - TypeWhisper Windows - 번역을 가진 Local Speech-to-text <sub>⭐ 218 · C#</sub>
+- [gpustack/vox-box](https://github.com/gpustack/vox-box) - OpenAI API와 호환되는 text-to-speech 및 Speech-to-text 서버는 Whisper, FunASR, Bark 및 CosyVoice 백엔드를 지원합니다. <sub>⭐ 217 · Python</sub>
+- [MidCamp/live-captioning](https://github.com/MidCamp/live-captioning) - Chrome 브라우저와 컴퓨터의 마이크를 사용하여 연설을 할 수 있는 라이브 캡션 <sub>⭐ 217 · CSS</sub>
+- [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech 라이브러리 <sub>⭐ 216 · C</sub>
+- [ykdojo/super-voice-assistant](https://github.com/ykdojo/super-voice-assistant) - 글로벌 핫키가있는 macOS 음성 조수 - 오프라인 모델 (WhisperKit 또는 Parakeet) 또는 클라우드 기반 Gemini API, 캡처 및 투명 스크린 레코딩과 함께 텍스트에 대해 연설 ... <sub>⭐ 215 · Swift</sub>
+- [OHF-Voice/wyoming-piper](https://github.com/OHF-Voice/wyoming-piper) - Piper 텍스트에 대한 Wyoming 프로토콜 서버 연설 시스템 <sub>⭐ 214 · Python</sub>
+- [pithings/voipi](https://github.com/pithings/voipi) - 앱, CLI 및 에이전트에게 음성을 부여합니다. VoiPi는 JavaScript를 위한 범용, Zero-dependency, 무료 텍스트 - 투 - speech 라이브러리입니다. <sub>⭐ 214 · TypeScript</sub>
+- [zhenye234/CoMoSpeech](https://github.com/zhenye234/CoMoSpeech) - ACM MM 2023 CoMoSpeech: 일관된 모형을 통해 원스텝 연설 및 노래 음성 종합 <sub>⭐ 214 · Python</sub>
+- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - 항공의 모든 알려진 법률에 따르면, 꿀벌이 비행 할 수있는 방법이 없습니다. 그것의 날개는 너무 작기 때문에 그 지방을 조금 몸으로 땅에서 얻을 수 있습니다. 베, 물론 파리 어쨌든. ... <sub>⭐ 213 · Python</sub>
+- [snicolast/ComfyUI-IndexTTS2](https://github.com/snicolast/ComfyUI-IndexTTS2) - IndexTTS 2 (voice cloning + 감정 제어)에 대한 경량 ComfyUI 래퍼. 노드는 원본 IndexTTS2 인섭을 호출하고 repo에 충실한 행동을 유지합니다. <sub>⭐ 212 · Python</sub>
+- [billwuhao/ComfyUI_MegaTTS3](https://github.com/billwuhao/ComfyUI_MegaTTS3) - 경량과 능률, 매우 고품질 음성 Cloning, 중국 및 영어. <sub>⭐ 211 · Python</sub>
+- [ImperialSquid/zotero-zotts](https://github.com/ImperialSquid/zotero-zotts) - Zotero 플러그인은 다양한 화면에 텍스트를 추가합니다. <sub>⭐ 211 · TypeScript</sub>
+- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts)는 Babylon.js, 3.js 및 기타 웹 3D 프레임 워크를위한 대화 형 애니메이션 3D 문자를 쉽게 만들 수있는 실험적 오픈 소스 프로젝트입니다. 그것은 ... <sub>⭐ 210 · JavaScript</sub>
+- [mateogon/pdf-narrator](https://github.com/mateogon/pdf-narrator) - PDF 및 EPUB를 오디오북으로 쉽게 변환하십시오. 특징 지능형 텍스트 추출, 사용자 정의 가능한 텍스트 - 투 - speech 설정 및 낮은 리소스 시스템에 대한 효율적인 처리. <sub>⭐ 210 · Python</sub>
+- [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - 연설을 위한 Experimental open-source macOS menubar 앱 <sub>⭐ 209 · Swift</sub>
+- [ihuguet/picotts](https://github.com/ihuguet/picotts) - Pico TTS : SVox에서 음성 sinthesizer를 연설하는 텍스트, Android AOSP에 포함 <sub>⭐ 209 · C</sub>
+- [msrbuilds/voice-studio](https://github.com/msrbuilds/voice-studio) - Multi-model 로컬 AI Voice Generator (TTS) 스튜디오. ElevenLabs 및 비싼 온라인 음성 발전기에 대한 오픈 소스 대안입니다. <sub>⭐ 206 · Python</sub>
+- [yistLin/FragmentVC](https://github.com/yistLin/FragmentVC) - end-to-end 추출 하 고 주의를 가진 정밀한 곡물 음성 조각을 융합 하 여 어떤 목소리 변환 <sub>⭐ 204 · Python</sub>
+- [Ashish-Patnaik/kokoclone](https://github.com/Ashish-Patnaik/kokoclone) - Voice Cloning, Now Inside Kokoro. 자연 다국어 연설을 생성하고 쉽게 대상 목소리를 복제합니다. <sub>⭐ 203 · Python</sub>
+- [yerfor/SyntaSpeech](https://github.com/yerfor/SyntaSpeech) - SyntaSpeech: Syntax-aware 유전 Adversarial 텍스트 - 투 - Speech; IJCAI 2022; 공식 코드 <sub>⭐ 201 · Python</sub>
+- [AndroidMaryTTS/AndroidMaryTTS](https://github.com/AndroidMaryTTS/AndroidMaryTTS) - Android MARY TTS - 오픈 소스, 오프라인 HMM 기반 텍스트 - to-speech 종합 시스템 MaryTTS에 따라 <sub>⭐ 200 · Java</sub>
+- [ferranpons/Llamatik](https://github.com/ferranpons/Llamatik) - Kotlin Multiplatform (Android, iOS, 데스크탑, JVM, WASM)에 대한 True on-device AI. LLM, Speech-to-Text 및 Image Generation - llama.cpp, whisper.cpp 및 안정적인 diffusion.cpp에 의해 구동. <sub>⭐ 200 · Kotlin</sub>
+- [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) - Linux, macOS, Windows, Android 및 iOS용 오픈 소스 연설-to-text 및 음성 입력 도구 목록. 오프라인, 로컬 및 클라우드. <sub>⭐ 200 · Python</sub>
+- [WelkinYang/GradTTS](https://github.com/WelkinYang/GradTTS) - "Grad-TTS : 텍스트 - 투 - 스페커에 대한 Diffusion Probabilistic 모델"의 Pytorch 구현 <sub>⭐ 200 · Python</sub>
+- [DarioFT/ComfyUI-Qwen3-ASR](https://github.com/DarioFT/ComfyUI-Qwen3-ASR) - ComfyUI 사용자 정의 노드 Qwen3-ASR (자동 연설 인식) - 52 개 언어 및 방언을 지원하는 오디오 텍스트 transcription. <sub>⭐ 198 · Python</sub>
+- [keonlee9420/StyleSpeech](https://github.com/keonlee9420/StyleSpeech) - Meta-StyleSpeech의 PyTorch 구현 : 멀티 스피커 적응 텍스트 - 투 - 슬프 라이트 세대 <sub>⭐ 198 · Python</sub>
+- [dejan/espeak-ruby](https://github.com/dejan/espeak-ruby) - Ruby wrapper for ‘espeak’ and ‘lame’ with sugar on top to create Text-To-Speech mp3 파일. <sub>⭐ 197 · Ruby</sub>
+- [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) - 최신 및 가장 영향력있는 도구, 모델, 그리고 텍스트 - 투 - 스페커 섹터의 리소스의 큐레이터 목록. 당신이 그것을 좋아한다면 별! <sub>⭐ 197</sub>
+- [PlayVoice/VI-SVS](https://github.com/PlayVoice/VI-SVS) - VITS를 기반으로 한 노래 음성 합성, VISinger와 다른 <sub>⭐ 197 · Python</sub>
+- [HeCheng0625/Diffusion-Speech-Tokenizer](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer) - 이 저장소에는 종이의 공식적인 구현을 포함하여 확산 기반 연설 토큰화기에 일련의 작품을 포함합니다: "TaDiCodec : Speech-aware Diffusion Speech Tokenizer for Speech... <sub>⭐ 196 · Python</sub>
+- [drmfinlay/tts-util-app](https://github.com/drmfinlay/tts-util-app) - TTS Util — 텍스트 - to-speech 유틸리티 안드로이드 응용 프로그램 합성 텍스트로 가능한 연설 <sub>⭐ 195 · Kotlin</sub>
+- [hikari-tadashi/Sapphire](https://github.com/hikari-tadashi/Sapphire) - Android 기기에서 Google Assistant에 대한 무료 및 오픈 소스 교체, 사파이어 프레임 워크와 통합하는 것을 의미한다. 그것은 음성 텍스트 및 텍스트 - 투 - 슬레이커 서비스를 모두 포함합니다. 그것은하지 않습니다 ... <sub>⭐ 195 · Kotlin</sub>
+- [glory20h/VoiceLDM](https://github.com/glory20h/VoiceLDM) - VoiceLDM: 환경 콘텍스트를 가진 텍스트에 Speech <sub>⭐ 194 · Python</sub>
+- [ssheng/BentoChain](https://github.com/ssheng/BentoChain) - LangChain, text-to-speech 및 Hugging Face의 음성 텍스트 모델과 BentoML을 사용하여 내장 된 음성 지원 채팅봇 응용 프로그램입니다. <sub>⭐ 194 · Python</sub>
+- [keonlee9420/Cross-Speaker-Emotion-Transfer](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer) - ByteDance의 Cross-speaker Emotion Transfer의 PyTorch 구현은 스피커 조건 레이어 정상화 및 세미 감독 교육에 기반을 둔 Text-To-Speech <sub>⭐ 193 · Python</sub>
+- [mutablelogic/go-whisper](https://github.com/mutablelogic/go-whisper) - golang에 대한 강연 <sub>⭐ 193 · Go</sub>
+- [balisujohn/tortoise.cpp](https://github.com/balisujohn/tortoise.cpp) - ggml (C++) tortoise-tts의 단순성 <sub>⭐ 192 · C++</sub>
+- [liamadsr/macOS-speech-to-text-open-source](https://github.com/liamadsr/macOS-speech-to-text-open-source) - 활성 음성 감지 및 놀라운 직관적 인 UX와 함께 기본 macOS 연설 - 텍스트 앱. Wispr Flow에 공식 오픈 소스 대안을 만들 수 있습니다! <sub>⭐ 192 · Swift</sub>
+- [lucasnewman/nanospeech](https://github.com/lucasnewman/nanospeech) - PyTorch 및 MLX에서 간단한 해킹 가능한 텍스트 - 투 - 슬레이브 시스템 <sub>⭐ 190 · Python</sub>
+- [jishengpeng/TextrolSpeech](https://github.com/jishengpeng/TextrolSpeech) - (ICASSP 2024) TextrolSpeech: Codec 언어 원본에 Speech 모형을 가진 텍스트 작풍 통제 연설 합법화 <sub>⭐ 189 · Python</sub>
+- [albirrkarim/react-speech-highlight-demo](https://github.com/albirrkarim/react-speech-highlight-demo) - React / Vanilla JS Text to Speech with audio files, text to Speech API 및 웹 음성 합성 API를 사용하여 말과 문장을 강조하는 단어와 문장을 강조합니다. <sub>⭐ 188 · JavaScript</sub>
+- [aza-ali/speech-to-text-in-python](https://github.com/aza-ali/speech-to-text-in-python) - Whisper와 오프라인 오디오 transcription. <sub>⭐ 188 · Python</sub>
+- [Choddeok/EmoSphere-TTS](https://github.com/Choddeok/EmoSphere-TTS) - (INTERSPEECH 2024) EmoSphere-TTS의 공식 구현 : 제어 가능한 Emotional Text-to-Speech를 위해 Spherical Emotion Vector를 통해 모션 스타일 및 인텐시브 모델링 <sub>⭐ 186 · Python</sub>
+- [tugstugi/pytorch-dc-tts](https://github.com/tugstugi/pytorch-dc-tts) - PyTorch (영어 및 몽골어)와 연설하는 텍스트 <sub>⭐ 186 · Jupyter Notebook</sub>
+- [yl4579/StyleTTS-ZS](https://github.com/yl4579/StyleTTS-ZS) - StyleTTS-ZS: 능률적인 고품질 Zero-Shot 원본에 Speech Synthesis 증류된 시간 방위 작풍 Diffusion를 가진 <sub>⭐ 186</sub>
+- [AaronZ345/TCSinger2](https://github.com/AaronZ345/TCSinger2) - TCSinger 2(ACL 2025)의 PyTorch 구현: 사용자 정의 멀티 언어 Zero-shot Singing 음성 합성 <sub>⭐ 185 · Python</sub>
+- [kgn/Hark](https://github.com/kgn/Hark) - 예를 들어 Speech App에 텍스트 <sub>⭐ 185 · Swift</sub>
+- [resemble-ai/resemble-unity-text-to-speech](https://github.com/resemble-ai/resemble-unity-text-to-speech) - Resemble의 Unity 내 음성 복제 엔진 <sub>⭐ 184 · C#</sub>
+- [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - 음성 복제 및 음성 디자인과 함께 로컬 AI 텍스트 - 투 - 슬픈, GGML에 의해 구동. OmniVoice의 C + 17 포트 (k2-fsa / OmniVoice). 646 언어, 24 kHz 모노 출력, CPU에서 실행, CUDA, ROCm, 금속, Vulkan. <sub>⭐ 184 · C++</sub>
+- [ServeurpersoCom/qwentts.cpp](https://github.com/ServeurpersoCom/qwentts.cpp) - GGML에 의해 구동되는 음성 복제 및 목소리 디자인과 함께 로컬 AI 텍스트 - 투 - 슬프 라이트. Qwen3-TTS (QwenLM / Qwen3-TTS)의 C + 17 포트. 10 언어, 24 kHz 모노 출력, CPU에서 실행, CUDA, ROCm, 금속, Vulkan. <sub>⭐ 181 · C++</sub>
+- [Edresson/TTS-Portuguese-Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) - 오픈 소스 텍스트 - TO-Speech 포르투갈어 Dataset <sub>⭐ 180</sub>
+- [aleemrehmtulla/espanol-love](https://github.com/aleemrehmtulla/espanol-love) - gpt4를 사용하는 context-aware 번역, 복제 된 목소리에 말 <sub>⭐ 179 · TypeScript</sub>
+- [nimaone/persian_tts](https://github.com/nimaone/persian_tts) - 음성 복제를 가진 페르시아어 텍스트 - to-speech, CPU에서 완전히 오프라인 (ONNX + 토치 경로) <sub>⭐ 179 · Python</sub>
+- [warmshao/ChatTTSPlus](https://github.com/warmshao/ChatTTSPlus) - ChatTTS의 확장, Windows에서 3x 더 빠른, 지원 음성 Cloning 및 이동할 수 있는 배치 <sub>⭐ 179 · Python</sub>
+- [PlayVoice/Grad-SVC](https://github.com/PlayVoice/Grad-SVC) - HuaWei에서 Grad-TTS를 기반으로 한 Diffusion Singing Voice 변환 <sub>⭐ 174 · Python</sub>
+- [erl-j/neural-instrument-cloning](https://github.com/erl-j/neural-instrument-cloning) - 이 프로젝트에서 우리는 신경 음성 복제 및 뮤지컬 악기 합성 기술을 결합하여 대상 데이터의 16 초만큼 좋은 결과를 얻을 수 있습니다. <sub>⭐ 173 · Jupyter Notebook</sub>
+- [k2kobayashi/crank](https://github.com/k2kobayashi/crank) - 벡터 양분화 변형 autoencoder에 근거를 둔 non-parallel 음성 변환을위한 도구 키트 <sub>⭐ 171 · Python</sub>
+- [billwuhao/ComfyUI_StepAudioTTS](https://github.com/billwuhao/ComfyUI_StepAudioTTS) - ComfyUI의 Step-Audio-TTS를 사용하여 Speech 노드에 텍스트. rap, Sing 또는 clone 음성을 말할 수 있습니다. <sub>⭐ 167 · Python</sub>
+- [chinokikiss/GSV-TTS-Lite](https://github.com/chinokikiss/GSV-TTS-Lite) - GSV-TTS-Lite GPT-SoVITS text-to-speech 모델용으로 특별히 설계된 고성능 인워싱 엔진입니다. (few shot voice cloning) <sub>⭐ 160 · Python</sub>
+- [ASLP-lab/MeanVC2](https://github.com/ASLP-lab/MeanVC2) - 로버스트 저하력 스트리밍 Zero-Shot 음성 변환 <sub>⭐ 159 · Python</sub>
+- [sidharthrajaram/StyleTTS2](https://github.com/sidharthrajaram/StyleTTS2) - StyleTTS 2 인간 수준의 텍스트 - 투 - 슬픔과 음성 복제를위한 Pip 설치 패키지 <sub>⭐ 159 · Python</sub>
+- [openvpi/SingingVocoders](https://github.com/openvpi/SingingVocoders) - 음성 합성 작업에 적합한 신경 구호기의 컬렉션. <sub>⭐ 156 · Python</sub>
+- [SociallyIneptWeeb/AniVoiceChanger](https://github.com/SociallyIneptWeeb/AniVoiceChanger) - 음성 채팅을위한 RVC "확장" <sub>⭐ 155 · Jupyter Notebook</sub>
+- [ConsistencyVC/ConsistencyVC-voive-conversion](https://github.com/ConsistencyVC/ConsistencyVC-voive-conversion) - 교차 언어 음성 변환 및 표현식 음성 변환을 달성하기 위해 일관성 손실과 공동 교육 스피커 인코더를 사용하여 <sub>⭐ 154 · Python</sub>
+- [filliptm/ComfyUI-FL-Qwen3TTS](https://github.com/filliptm/ComfyUI-FL-Qwen3TTS) - Qwen3-TTS text-to-speech node for ComfyUI with voice cloning, 음성 디자인 및 미세 조정 UI <sub>⭐ 154 · Python</sub>
+- [yl4579/PitchExtractor](https://github.com/yl4579/PitchExtractor) - 음성 변환 및 TTS 교육을위한 깊은 신경 투수 <sub>⭐ 154 · Python</sub>
+- [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab) - 몇 분의 오디오에서 음성을 복제하고 현지 연설을 생성 — CLI와 웹 UI를 가진 Qwen3-TTS 미세 조정 파이프라인 <sub>⭐ 151 · Python</sub>
+- [adrianhajdin/react-native-lingua](https://github.com/adrianhajdin/react-native-lingua) - React Native Duolingo clone with a real-time AI voice Teacher. Expo, Stream Voice Agents, Clerk auth 및 NativeWind for the complete, 인터랙티브 모바일 학습 경험 구축 <sub>⭐ 150 · TypeScript</sub>
+- [shackysureshot/StarGAN-Voice-Conversion-2](https://github.com/shackysureshot/StarGAN-Voice-Conversion-2) - StarGAN-VC2의 pytorch 구현 <sub>⭐ 150 · Python</sub>
+- [JeremyCCHsu/vae-npvc](https://github.com/JeremyCCHsu/vae-npvc) - Variational Auto-encoder를 사용하여 Non-parallel Corpora에서 음성 변환에 사용되는 코드 <sub>⭐ 149 · Python</sub>
+- [Grace9994/CoMoSVC](https://github.com/Grace9994/CoMoSVC) - CoMoSVC: One-Step Consistency Model 기반 노래 음성 변환 및 노래 음성 복제 <sub>⭐ 148 · Python</sub>
+- [winddori2002/TriAAN-VC](https://github.com/winddori2002/TriAAN-VC) - TriAAN-VC: 3배 적응성 주의 정상적인화에 대한 어떤 음성 변환 <sub>⭐ 146 · Python</sub>
+- [bshall/VectorQuantizedCPC](https://github.com/bshall/VectorQuantizedCPC) - Acoustic Unit Discovery 및 Voice Conversion를 위한 벡터 Quantized Contrastive Predictive 코딩 <sub>⭐ 142 · Python</sub>
+- [timoncool/dub-studio](https://github.com/timoncool/dub-studio) - Windows 용 무료 오프라인 AI 비디오 복제 스튜디오 - 음성 복제, 번역, 자막 및 온 스크린 텍스트 로컬라이제이션. 100 % 지역, 원 기본 .exe, 0 파이썬. <sub>⭐ 142 · Rust</sub>
+- [jgravelle/GroqCasters](https://github.com/jgravelle/GroqCasters) - GroqCasters는 AI 기술을 사용하여 팟 캐스트 스크립트 및 대응 오디오를 생성하는 파이썬 응용 프로그램입니다. 그것은 텍스트 - 투-스펙트 변환을위한 스크립트 세대와 Bark에 대한 PocketGroq을 활용 ... <sub>⭐ 139 · Python</sub>
+- [h1papc11/voice-mcp-agent](https://github.com/h1papc11/voice-mcp-agent) - 음성 mcp ai 에이전트 클론 목소리, 합성 연설 및 사용자 정의 목소리에 MCP 에이전트를 연결 <sub>⭐ 137 · TypeScript</sub>
+- [MelissaChen15/control-vc](https://github.com/MelissaChen15/control-vc) - 이것은 "ControlVC : 피치 및 Rhythm의 시간 - 식 제어와 Zero-Shot 음성 변환을위한 구현입니다" <sub>⭐ 132 · Python</sub>
+- [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - 교차 플랫폼 및 다국어 음성 프로젝트를 노래하는 보편적 인 변환기 <sub>⭐ 132 · Python</sub>
+- [BernieTv/ElevenLabs-Clone](https://github.com/BernieTv/ElevenLabs-Clone) - 텍스트 - 투 - 슬픈, 음성 변환 및 Docker, FastAPI 및 Next.js와 AI 오디오 생성을위한 자체 호스팅 ElevenLabs 복제. <sub>⭐ 131 · Python</sub>
 
 ## 🎙️ 팟캐스트와 받아쓰기
 
 > 받아쓰기, 오디오 정리, 편집, 팟캐스트 생성.
 
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of… <sub>⭐ 83.3k · Python</sub>
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily… <sub>⭐ 31.4k · Rust</sub>
-- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2 <sub>⭐ 25.7k · Python</sub>
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving. <sub>⭐ 20.6k · Python</sub>
-- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding <sub>⭐ 10.6k · Jupyter Notebook</sub>
-- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. <sub>⭐ 10.3k · Go</sub>
-- [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise <sub>⭐ 6.9k · C++</sub>
-- [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers. <sub>⭐ 6.8k · JavaScript</sub>
-- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. <sub>⭐ 6.7k · TypeScript</sub>
-- [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - Awesome list of resources on Web Development. <sub>⭐ 5.8k</sub>
-- [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper <sub>⭐ 5.7k · Jupyter Notebook</sub>
-- [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping… <sub>⭐ 5.2k · Python</sub>
-- [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) - SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts from text. <sub>⭐ 3.6k · Python</sub>
-- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages. <sub>⭐ 3.3k · Python</sub>
-- [modelscope/3D-Speaker](https://github.com/modelscope/3D-Speaker) - A Repository for Single- and Multi-modal Speaker Verification, Speaker Recognition and Speaker Diarization <sub>⭐ 3.2k · Python</sub>
-- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models! <sub>⭐ 3.1k · Svelte</sub>
-- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper. <sub>⭐ 2.9k · Python</sub>
-- [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex. <sub>⭐ 2.9k · Swift</sub>
-- [resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement <sub>⭐ 2.4k · Python</sub>
-- [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI <sub>⭐ 2.4k</sub>
-- [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust <sub>⭐ 2.2k · Rust</sub>
-- [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. <sub>⭐ 2.2k · Python</sub>
-- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) <sub>⭐ 2.2k · Python</sub>
-- [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize) - A 0.9B model for long-form transcription in 50+ languages with speaker diarization, timestamps, and acoustic event awareness <sub>⭐ 2.1k · Python</sub>
-- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts. <sub>⭐ 2.0k · TypeScript</sub>
-- [wq2012/awesome-diarization](https://github.com/wq2012/awesome-diarization) - A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources. <sub>⭐ 1.9k</sub>
-- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation… <sub>⭐ 1.6k · Python</sub>
-- [royshil/obs-localvocal](https://github.com/royshil/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI <sub>⭐ 1.6k · C++</sub>
-- [amicalhq/amical](https://github.com/amicalhq/amical) - AI Dictation App - Open Source and Local-first Type 3x faster, no keyboard needed. Powered by open source models, works offline, fast and accurate. <sub>⭐ 1.5k · TypeScript</sub>
-- [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own. <sub>⭐ 1.5k · Rust</sub>
-- [microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge) - This repo contains the scripts, models, and required files for the Deep Noise Suppression (DNS) Challenge. <sub>⭐ 1.5k · Python</sub>
-- [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Controllable Transcription. Verbatim ( every, filler, pause, stutter, vocal sound) , or intended ( what the speaker meant to say, optimized for readability) with word-level timestamps. <sub>⭐ 1.4k · Python</sub>
-- [wenet-e2e/wespeaker](https://github.com/wenet-e2e/wespeaker) - Research and Production Oriented Speaker Verification, Recognition and Diarization Toolkit <sub>⭐ 1.4k · Python</sub>
-- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free <sub>⭐ 1.4k · Python</sub>
-- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more. <sub>⭐ 1.4k</sub>
-- [WenzheLiu-Speech/awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement) - speech enhancement\speech seperation\sound source localization <sub>⭐ 1.3k</sub>
-- [aTrainTranscription/aTrain](https://github.com/aTrainTranscription/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models. <sub>⭐ 1.2k · Python</sub>
-- [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices. <sub>⭐ 1.1k · Swift</sub>
-- [dimastatz/whisper-flow](https://github.com/dimastatz/whisper-flow) - Whisper-Flow is a framework designed to enable real-time transcription of audio content using OpenAI’s Whisper model. Rather than processing entire files after upload (“batch mode”), Whisper-Flow… <sub>⭐ 976 · Python</sub>
-- [alesaccoia/VoiceStreamAI](https://github.com/alesaccoia/VoiceStreamAI) - Near-Realtime audio transcription using self-hosted Whisper and WebSocket in Python/JS <sub>⭐ 962 · Python</sub>
-- [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary <sub>⭐ 947 · Python</sub>
-- [TheStageAI/TheWhisper](https://github.com/TheStageAI/TheWhisper) - Optimized Whisper models for streaming and on-device use <sub>⭐ 898 · Python</sub>
-- [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) - Transform PDFs into AI podcasts for engaging on-the-go audio content. <sub>⭐ 878 · Python</sub>
-- [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds <sub>⭐ 868 · PHP</sub>
-- [santi-pdp/segan](https://github.com/santi-pdp/segan) - Speech Enhancement Generative Adversarial Network in TensorFlow <sub>⭐ 865 · Python</sub>
-- [knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast) - Convert any PDF into a podcast episode! <sub>⭐ 843 · Python</sub>
-- [nanahou/Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) - A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful. <sub>⭐ 840 · MATLAB</sub>
-- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast <sub>⭐ 813 · TypeScript</sub>
-- [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - Generate transcripts for audio and video content with a user friendly UI, powered by Open AI's Whisper with automatic translations and download videos automatically with yt-dlp integration <sub>⭐ 803 · JavaScript</sub>
-- [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper) - React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in <sub>⭐ 786 · TypeScript</sub>
-- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - The easiest way to transcribe audio in Swift <sub>⭐ 786 · Swift</sub>
-- [sp-uhh/sgmse](https://github.com/sp-uhh/sgmse) - Score-based Generative Models (Diffusion Models) for Speech Enhancement and Dereverberation <sub>⭐ 773 · Python</sub>
-- [vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising <sub>⭐ 771 · Python</sub>
-- [breizhn/DTLN](https://github.com/breizhn/DTLN) - Tensorflow 2.x implementation of the DTLN real time speech denoising model. With TF-lite, ONNX and real-time audio processing support. <sub>⭐ 745 · Python</sub>
-- [KoljaB/LocalAIVoiceChat](https://github.com/KoljaB/LocalAIVoiceChat) - Local AI talk with a custom voice based on Zephyr 7B model. Uses RealtimeSTT with faster_whisper for transcription and RealtimeTTS with Coqui XTTS for synthesis. <sub>⭐ 737 · Python</sub>
-- [sofdog-gh/realtime-transcription-fastrtc](https://github.com/sofdog-gh/realtime-transcription-fastrtc) - Real Time Speech Transcription with FastRTC and Local Whisper <sub>⭐ 705 · Python</sub>
-- [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper. <sub>⭐ 693 · Python</sub>
-- [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android <sub>⭐ 692 · C++</sub>
-- [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata) - Public free starter pack for Lenny's Podcast transcripts and Lenny's Newsletter posts, in AI-friendly markdown. <sub>⭐ 664</sub>
-- [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate) - A realtime speech transcription and translation application using Whisper OpenAI and free translation API. Interface made using Tkinter. Code written fully in Python. <sub>⭐ 662 · Python</sub>
-- [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android Input Method Editor (IME) based on Whisper <sub>⭐ 642 · Java</sub>
-- [Audio-WestlakeU/FullSubNet](https://github.com/Audio-WestlakeU/FullSubNet) - PyTorch implementation of "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement." <sub>⭐ 615 · Python</sub>
-- [ysharma3501/LavaSR](https://github.com/ysharma3501/LavaSR) - LavaSR: Fast Speech restoration and enhancement <sub>⭐ 606 · Python</sub>
-- [fuxiaoai/tidings-rss](https://github.com/fuxiaoai/tidings-rss) - Curated, live-verified OPML collections for AI, news, research, blogs, videos, podcasts, and engineering. <sub>⭐ 577 · Python</sub>
-- [fgnt/nara_wpe](https://github.com/fgnt/nara_wpe) - Different implementations of "Weighted Prediction Error" for speech dereverberation <sub>⭐ 576 · Python</sub>
-- [wq2012/SpectralCluster](https://github.com/wq2012/SpectralCluster) - Python re-implementation of the (constrained) spectral clustering algorithms used in Google's speaker diarization papers. <sub>⭐ 556 · Python</sub>
-- [akashmjn/tinydiarize](https://github.com/akashmjn/tinydiarize) - Minimal extension of OpenAI's Whisper adding speaker diarization with special tokens <sub>⭐ 551 · Python</sub>
-- [Sharrnah/whispering](https://github.com/Sharrnah/whispering) - Whispering Tiger - OpenAI's whisper (and other models) with OSC and Websocket support. Allowing live transcription / translation in VRChat and Overlays in most Streaming Applications <sub>⭐ 549 · Python</sub>
-- [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos <sub>⭐ 545 · Python</sub>
-- [anicolson/DeepXi](https://github.com/anicolson/DeepXi) - Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR. <sub>⭐ 525 · MATLAB</sub>
-- [DmitryRyumin/ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) - ICASSP 2023-2024 Papers: A complete collection of influential and exciting research papers from the ICASSP 2023-24 conferences. Explore the latest advancements in acoustics, speech and signal… <sub>⭐ 525 · Python</sub>
-- [yxlu-0102/MP-SENet](https://github.com/yxlu-0102/MP-SENet) - Explicit Estimation of Magnitude and Phase Spectra in Parallel for High-Quality Speech Enhancement <sub>⭐ 507 · Python</sub>
-- [taylorlu/Speaker-Diarization](https://github.com/taylorlu/Speaker-Diarization) - speaker diarization by uis-rnn and speaker embedding by vgg-speaker-recognition <sub>⭐ 504 · Python</sub>
-- [receptron/mulmocast-cli](https://github.com/receptron/mulmocast-cli) - AI-powered podcast & video generator. <sub>⭐ 475 · TypeScript</sub>
-- [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software. <sub>⭐ 467 · Pascal</sub>
-- [schmiph2/pysepm](https://github.com/schmiph2/pysepm) - Python implementation of performance metrics in Loizou's Speech Enhancement book <sub>⭐ 461 · Python</sub>
-- [jim60105/docker-whisperX](https://github.com/jim60105/docker-whisperX) - Dockerfile for WhisperX: Automatic Speech Recognition with Word-Level Timestamps and Speaker Diarization (Dockerfile, CI image build and test) <sub>⭐ 456 · Dockerfile</sub>
-- [funcwj/setk](https://github.com/funcwj/setk) - Tools for Speech Enhancement integrated with Kaldi <sub>⭐ 434 · Python</sub>
-- [zarazhangrui/personalized-podcast](https://github.com/zarazhangrui/personalized-podcast) - Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts. Listen in Apple Podcasts, Spotify, or any podcast app. <sub>⭐ 434 · Python</sub>
-- [ruizhecao96/CMGAN](https://github.com/ruizhecao96/CMGAN) - Conformer-based Metric GAN for speech enhancement <sub>⭐ 429 · Python</sub>
-- [menkesu/awesome-pm-skills](https://github.com/menkesu/awesome-pm-skills) - 28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners. <sub>⭐ 425</sub>
-- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) - Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open… <sub>⭐ 423 · Python</sub>
-- [NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper) - SoftWhisper simplifies audio and video transcription using the powerful Whisper model. Easily select custom models, languages, and tasks, fine-tune transcription with beam size adjustment, and… <sub>⭐ 421 · Python</sub>
-- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Youtube Videos Transcription with OpenAI's Whisper <sub>⭐ 419 · Jupyter Notebook</sub>
-- [hardhackerlabs/podwise-cli](https://github.com/hardhackerlabs/podwise-cli) - CLI client for podwise.ai — turn any podcast episode into AI-powered insights, designed for use in AI agents and skills workflows. <sub>⭐ 409 · Go</sub>
-- [santi-pdp/segan_pytorch](https://github.com/santi-pdp/segan_pytorch) - Speech Enhancement Generative Adversarial Network in PyTorch <sub>⭐ 409 · Python</sub>
-- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) - AI ContentCraft is an all-in-one content creation suite that helps creators generate stories, podcast scripts, and multimedia content using AI-powered text generation, speech synthesis, and image… <sub>⭐ 400 · HTML</sub>
-- [addyosmani/say](https://github.com/addyosmani/say) - Say - A Whisper AI Notes app <sub>⭐ 397 · TypeScript</sub>
-- [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Transcribe and translate audio to text using Whisper and DeepL. <sub>⭐ 397 · Jupyter Notebook</sub>
-- [lablab-ai/Whisper-transcription_and_diarization-speaker-identification-](https://github.com/lablab-ai/Whisper-transcription_and_diarization-speaker-identification-) - How to use OpenAIs Whisper to transcribe and diarize audio files <sub>⭐ 380 · Jupyter Notebook</sub>
-- [maudoin/ollama-voice](https://github.com/maudoin/ollama-voice) - plug whisper audio transcription to a local ollama server and ouput tts audio responses <sub>⭐ 378 · Python</sub>
-- [Audio-WestlakeU/NBSS](https://github.com/Audio-WestlakeU/NBSS) - The official repo of NBC & SpatialNet for multichannel speech separation, denoising, and dereverberation <sub>⭐ 375 · Python</sub>
-- [pretyflaco/millet](https://github.com/pretyflaco/millet) - Fully local meeting transcription with speaker diarization, AI summaries, and PDF output <sub>⭐ 375 · Python</sub>
-- [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN… <sub>⭐ 375 · HTML</sub>
-- [jzi040941/PercepNet](https://github.com/jzi040941/PercepNet) - Unofficial implementation of PercepNet: A Perceptually-Motivated Approach for Low-Complexity, Real-Time Enhancement of Fullband Speech <sub>⭐ 370 · C++</sub>
-- [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install. <sub>⭐ 361 · Python</sub>
-- [Quantatirsk/AsrServe](https://github.com/Quantatirsk/AsrServe) - Self-hosted realtime and offline ASR with SOTA open models, speaker diarization and an OpenAI-compatible API. GPU, CPU, macOS Apple Silicon. <sub>⭐ 354 · Python</sub>
-- [EtienneAb3d/WhisperHallu](https://github.com/EtienneAb3d/WhisperHallu) - Experimental code: sound file preprocessing to optimize Whisper transcriptions without hallucinated texts <sub>⭐ 352 · Python</sub>
-- [haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement) - Implement Wave-U-Net by PyTorch, and migrate it to the speech enhancement. <sub>⭐ 351 · Python</sub>
-- [haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) - A minimum unofficial implementation of the "A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement" (CRN) using PyTorch <sub>⭐ 350 · Python</sub>
-- [Mwaseemzakir/awesome-dotnet-resources](https://github.com/Mwaseemzakir/awesome-dotnet-resources) - A hand-picked list of .NET and C# resources including books, courses, blogs, tools, AI tools, newsletters, podcasts, and interview prep. <sub>⭐ 349 · HTML</sub>
-- [JimLiu/whisper-subtitles](https://github.com/JimLiu/whisper-subtitles) - Apple PodCast Transcription with OpenAI's Whisper <sub>⭐ 348 · Jupyter Notebook</sub>
-- [souzatharsis/podcastfy-demo](https://github.com/souzatharsis/podcastfy-demo) - podcastfy.ai gradio demo app <sub>⭐ 340 · Python</sub>
-- [asr-pub/index-tts-lora](https://github.com/asr-pub/index-tts-lora) - High-quality speech synthesis with LoRA fine-tuning on index-tts, enhancing prosody and naturalness for single and multi-speaker voices. <sub>⭐ 339 · Python</sub>
-- [shahules786/mayavoz](https://github.com/shahules786/mayavoz) - Pytorch based speech enhancement toolkit. <sub>⭐ 338 · Python</sub>
-- [sayksii/Aria](https://github.com/sayksii/Aria) - ARIA - AI Realtime Intelligent Audio / Universal real-time AI subtitles for Windows <sub>⭐ 331 · Python</sub>
-- [ivnvxd/hack-interview](https://github.com/ivnvxd/hack-interview) - AI-powered tool for real-time interview question transcription and response generation. <sub>⭐ 330 · Python</sub>
-- [seanwood/gcc-nmf](https://github.com/seanwood/gcc-nmf) - Real-time GCC-NMF Blind Speech Separation and Enhancement <sub>⭐ 329 · Python</sub>
-- [Sharrnah/whispering-ui](https://github.com/Sharrnah/whispering-ui) - Native UI for the Whispering Tiger project - https://github.com/Sharrnah/whispering (live transcription / translation) <sub>⭐ 329 · Go</sub>
-- [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player. <sub>⭐ 324 · Rust</sub>
-- [WangHelin1997/SoloSpeech](https://github.com/WangHelin1997/SoloSpeech) - SoloSpeech: Enhancing Intelligibility and Quality in Target Speech Extraction through a Cascaded Generative Pipeline <sub>⭐ 324 · Python</sub>
-- [narcotic-sh/senko](https://github.com/narcotic-sh/senko) - Very fast, accurate speaker diarization <sub>⭐ 304 · Python</sub>
-- [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - A powerful AI keyboard for reliable speech transcription <sub>⭐ 295 · Kotlin</sub>
-- [achetronic/parakeet](https://github.com/achetronic/parakeet) - OpenAI Whisper-compatible ASR server using NVIDIA Parakeet TDT 0.6B (ONNX). Super fast CPU/GPU transcriptions <sub>⭐ 293 · Go</sub>
-- [lucianodato/speech-denoiser](https://github.com/lucianodato/speech-denoiser) - A speech denoise lv2 plugin based on RNNoise library <sub>⭐ 293 · C</sub>
-- [RookieJunChen/FullSubNet-plus](https://github.com/RookieJunChen/FullSubNet-plus) - The official PyTorch implementation of "FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement". <sub>⭐ 293 · Python</sub>
-- [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla) - Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deepgram / Groq, identifies speakers offline, and writes summaries that fuse your… <sub>⭐ 292 · Rust</sub>
-- [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Revornix is an open-source, local-first AI information/markdown workspace. It helps you collect fragmented inputs, turn them into structured knowledge, generate reports with images and podcast audio… <sub>⭐ 292 · TypeScript</sub>
-- [AkojimaSLP/Beamforming-for-speech-enhancement](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement) - simple delaysum, MVDR and CGMM-MVDR <sub>⭐ 289 · Python</sub>
-- [Moh4696/freecut](https://github.com/Moh4696/freecut) - Fork of browser-use/video-use with the paid ElevenLabs dependency replaced by free, pluggable transcription (local Whisper by default; VibeVoice-ASR for diarization). <sub>⭐ 279 · Python</sub>
-- [rodrigogs/whats-reader](https://github.com/rodrigogs/whats-reader) - Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron. <sub>⭐ 272 · TypeScript</sub>
-- [NavodPeiris/speechlib](https://github.com/NavodPeiris/speechlib) - Speechlib is a library that unifies speaker diarization, transcription and speaker recognition in a single pipeline to create transcripts for audio conversations with actual speaker names and time… <sub>⭐ 269 · Python</sub>
-- [vivekuppal/transcribe](https://github.com/vivekuppal/transcribe) - Transcribe is a real time transcription, conversation, Language learning platform. It provides live transcripts from microphone and speaker. It generates a suggested conversation response using… <sub>⭐ 266 · Python</sub>
-- [davidmartinrius/speech-dataset-generator](https://github.com/davidmartinrius/speech-dataset-generator) - Create labeled datasets, enhance audio quality, identify speakers, support diverse dataset types. Advanced audio processing. <sub>⭐ 263 · Python</sub>
-- [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper) - A lightweight macOS menu bar app for quick audio transcription using OpenAI Whisper or Google Gemini. Press a hotkey, record your thoughts, and get instant text that's automatically copied to your… <sub>⭐ 262 · Swift</sub>
-- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text. <sub>⭐ 261 · TypeScript</sub>
-- [Stage-Whisper/Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - The main repo for Stage Whisper — a free, secure, and easy-to-use transcription app for journalists, powered by OpenAI's Whisper automatic speech recognition (ASR) machine learning models. <sub>⭐ 261 · TypeScript</sub>
-- [Curated-Awesome-Lists/Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) - Sora AI Awesome List – Your go-to resource hub for all things Sora AI, OpenAI's groundbreaking model for crafting realistic scenes from text. Explore a curated collection of articles, videos… <sub>⭐ 260</sub>
-- [AbhishekBarali/SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr Flow alternative with an AI assistant that can read your screen on request and answer questions. <sub>⭐ 258 · Rust</sub>
-- [EncoraDigital/SAB-cnn-audio-denoiser](https://github.com/EncoraDigital/SAB-cnn-audio-denoiser) - Tensorflow 2.0 implementation of the paper: A Fully Convolutional Neural Network for Speech Enhancement <sub>⭐ 257 · Jupyter Notebook</sub>
-- [MiscellaneousStuff/openai-whisper-cpu](https://github.com/MiscellaneousStuff/openai-whisper-cpu) - Improving transcription performance of OpenAI Whisper for CPU based deployment <sub>⭐ 257 · Jupyter Notebook</sub>
-- [sp-uhh/storm](https://github.com/sp-uhh/storm) - StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation <sub>⭐ 257 · Python</sub>
-- [neillu23/CDiffuSE](https://github.com/neillu23/CDiffuSE) - Conditional Diffusion Probabilistic Model for Speech Enhancement <sub>⭐ 253 · Python</sub>
-- [wendy7756/podcast-transcriber](https://github.com/wendy7756/podcast-transcriber) - An open-source tool that turns podcasts into high-quality transcripts and AI-powered summaries. <sub>⭐ 249 · JavaScript</sub>
-- [echocatzh/MTFAA-Net](https://github.com/echocatzh/MTFAA-Net) - Multi-Scale Temporal Frequency Convolutional Network With Axial Attention for Speech Enhancement <sub>⭐ 237 · Python</sub>
-- [Le-Xiaohuai-speech/DPCRN_DNS3](https://github.com/Le-Xiaohuai-speech/DPCRN_DNS3) - Implementation of paper "DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement" <sub>⭐ 237 · Python</sub>
-- [lewangdev/autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT <sub>⭐ 235 · Jupyter Notebook</sub>
-- [island-io/mila](https://github.com/island-io/mila) - Mila — native macOS local transcription app (whisper.cpp) with optional speaker diarization. Apache-2.0. <sub>⭐ 233 · Swift</sub>
-- [arihanv/Shush](https://github.com/arihanv/Shush) - Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app <sub>⭐ 227 · TypeScript</sub>
-- [leopiney/neuralnoise](https://github.com/leopiney/neuralnoise) - The AI Podcast Studio: generate podcasts scripts and their audio version with a team of AI workers in a Podcast Studio <sub>⭐ 227 · Python</sub>
-- [jaromiru/diktafon](https://github.com/jaromiru/diktafon) - Diktafon is a private, open-source voice memo app that transcribes and summarizes your recordings entirely on your device — organized like cassette tapes. <sub>⭐ 223 · C++</sub>
-- [danmic/av-se](https://github.com/danmic/av-se) - Deep-Learning-Based Audio-Visual Speech Enhancement and Separation <sub>⭐ 222</sub>
-- [johan-akerman/SpotifyTranscripts](https://github.com/johan-akerman/SpotifyTranscripts) - AI generated subtitles and segmented chapters for podcasts <sub>⭐ 220 · JavaScript</sub>
-- [jtkim-kaist/Speech-enhancement](https://github.com/jtkim-kaist/Speech-enhancement) - Deep neural network based speech enhancement toolkit <sub>⭐ 220 · MATLAB</sub>
-- [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - AI-powered content production pipeline for creators. One prompt → multi-platform publishing. Claude Code Skill. <sub>⭐ 220 · TypeScript</sub>
-- [Enny1991/beamformers](https://github.com/Enny1991/beamformers) - Easy to use Beamformers for multi-channel speech separation/enhancement <sub>⭐ 218 · Python</sub>
-- [madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data) - Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach". Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy… <sub>⭐ 213 · Jupyter Notebook</sub>
-- [maggie0830/DCCRN](https://github.com/maggie0830/DCCRN) - implementation of "DCCRN-Deep Complex Convolution Recurrent Network for Phase-Aware Speech Enhancement" by pytorch <sub>⭐ 212</sub>
-- [Xiaobin-Rong/SEtrain](https://github.com/Xiaobin-Rong/SEtrain) - A training code template for DNN-based speech enhancement. <sub>⭐ 212 · Python</sub>
-- [nullwiz/audiopipe](https://github.com/nullwiz/audiopipe) - Pipeline for removing background noise, diarization, and transcription with insanely-fast-whisper <sub>⭐ 210 · Python</sub>
-- [felipeAguiarCode/prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) - Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast <sub>⭐ 209</sub>
-- [impossibleG/phorminx](https://github.com/impossibleG/phorminx) - A local-first Windows application for dictation and meeting transcription, with searchable notes, optional local AI formatting and private model management. <sub>⭐ 203 · Rust</sub>
-- [tanpreetjolly/browser-whisper](https://github.com/tanpreetjolly/browser-whisper) - NPM Library to transcribe Audio & Videos completely in browser with WebGPU and WebCodecs. 100% private and offline with WASM fallbacks <sub>⭐ 203 · TypeScript</sub>
-- [gaborvecsei/whisper-live-transcription](https://github.com/gaborvecsei/whisper-live-transcription) - Live-Transcription (STT) with Whisper PoC <sub>⭐ 202 · Python</sub>
-- [mldljyh/whisper_real_time_translation](https://github.com/mldljyh/whisper_real_time_translation) - The subtitles and translations are generated in real-time and displayed as pop-ups. <sub>⭐ 199 · Python</sub>
-- [Fovty/HushMic](https://github.com/Fovty/HushMic) - Real-time microphone noise suppression for Linux as a system-wide virtual mic (DPDFNet + PipeWire). <sub>⭐ 198 · Rust</sub>
-- [pasrom/meeting-transcriber](https://github.com/pasrom/meeting-transcriber) - On-device meeting transcriber for macOS — auto-records Teams/Zoom/Webex, transcribes & separates speakers locally. No cloud. Open-source alternative to Otter/Granola/Fireflies. <sub>⭐ 193 · Swift</sub>
-- [aalto-speech/speaker-diarization](https://github.com/aalto-speech/speaker-diarization) - Speaker diarization scripts, based on AaltoASR <sub>⭐ 192 · Python</sub>
-- [Audio-WestlakeU/FS-EEND](https://github.com/Audio-WestlakeU/FS-EEND) - The official Pytorch implementation of "Frame-wise streaming end-to-end speaker diarization with non-autoregressive self-attention-based attractors". (ICASSP 2024) and "LS-EEND: long-form streaming… <sub>⭐ 191 · Python</sub>
-- [nycsv/Speech_Enhancement_DNN_NMF](https://github.com/nycsv/Speech_Enhancement_DNN_NMF) - Speech Enhancement based on DNN (Spectral-Mapping, TF-Masking), DNN-NMF, NMF <sub>⭐ 189 · Python</sub>
-- [trummerschlunk/PodcastPlugins](https://github.com/trummerschlunk/PodcastPlugins) - speech enhancement audio plugins for podcasters <sub>⭐ 188 · C++</sub>
-- [dbklim/RNNoise_Wrapper](https://github.com/dbklim/RNNoise_Wrapper) - A simple Python wrapper for audio noise reduction RNNoise. Simplifies work with it, adds new trained models and detailed instructions for training. <sub>⭐ 185 · Python</sub>
-- [tobiashuttinger/openai-whisper-realtime](https://github.com/tobiashuttinger/openai-whisper-realtime) - A quick experiment to achieve almost realtime transcription using Whisper. <sub>⭐ 185 · Python</sub>
-- [mozilla-ai/document-to-podcast](https://github.com/mozilla-ai/document-to-podcast) - Blueprint by Mozilla.ai for generating podcasts from documents using local AI <sub>⭐ 184 · Python</sub>
-- [SuyashMore/MevonAI-Speech-Emotion-Recognition](https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition) - Identify the emotion of multiple speakers in an Audio Segment <sub>⭐ 183 · C</sub>
-- [Audio-WestlakeU/RealMAN](https://github.com/Audio-WestlakeU/RealMAN) - A description of "RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization" (NeurIPS 2024) <sub>⭐ 179 · Python</sub>
-- [yacineMTB/scribepod](https://github.com/yacineMTB/scribepod) - Some of the scripts I use for scribepod @ https://scribepod.substack.com/, an automated AI podcast <sub>⭐ 178 · Jupyter Notebook</sub>
-- [KyleZhang1118/Voice-Separation-and-Enhancement](https://github.com/KyleZhang1118/Voice-Separation-and-Enhancement) - A framework for quick testing and comparing multi-channel speech enhancement and separation methods, such as DSB, MVDR, LCMV, GEVD beamforming and ICA, FastICA, IVA, AuxIVA, OverIVA, ILRMA, FastMNMF. <sub>⭐ 177 · MATLAB</sub>
-- [yaoxunji/gen-se](https://github.com/yaoxunji/gen-se) - GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling <sub>⭐ 177 · Python</sub>
-- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - A tool that transforms audio or video files into text transcripts and generates concise meeting minutes. Stay organized and efficient in your meetings, and get ready for Phase 2 where we'll be open… <sub>⭐ 175 · Python</sub>
-- [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio… <sub>⭐ 172 · Python</sub>
-- [geekodour/wscribe](https://github.com/geekodour/wscribe) - ez audio transcription tool with flexible processing and post-processing options <sub>⭐ 171 · Python</sub>
-- [welcomyou/sherpa-vietnamese-asr](https://github.com/welcomyou/sherpa-vietnamese-asr) - ASR (vietnamese), Speaker diarization run offline on CPU. <sub>⭐ 171 · Python</sub>
-- [six-ddc/livecaption](https://github.com/six-ddc/livecaption) - Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no… <sub>⭐ 169 · Python</sub>
-- [EtienneAb3d/WhisperTimeSync](https://github.com/EtienneAb3d/WhisperTimeSync) - Synchronize Whisper's timestamps over an existing accurate transcription <sub>⭐ 167 · Java</sub>
-- [sapoepsilon/Whispera](https://github.com/sapoepsilon/Whispera) - AI-powered voice transcription app for macOS using WhisperKit <sub>⭐ 167 · Swift</sub>
-- [nicolodiamante/chatty](https://github.com/nicolodiamante/chatty) - Unleash the power of Chatty: the intersection of ChatGPT’s intelligence, DALL·E's creativity, and Whisper's precise audio transcription for your Apple devices with support of 30 languages. <sub>⭐ 166</sub>
-- [javedali99/audio-to-text-transcription](https://github.com/javedali99/audio-to-text-transcription) - This repository contains a Python script that allows users to download the audio from a YouTube video, transcribe it into text, detect the language and save the transcription in txt file… <sub>⭐ 160 · Python</sub>
-- [tsmdt/whisply](https://github.com/tsmdt/whisply) - Fast, cross-platform CLI and GUI for batch transcription, translation, speaker annotation and subtitle generation using OpenAI’s Whisper on CPU, Nvidia GPU and Apple MLX. <sub>⭐ 160 · Python</sub>
-- [rishikksh20/HiFiplusplus-pytorch](https://github.com/rishikksh20/HiFiplusplus-pytorch) - HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement <sub>⭐ 159 · Python</sub>
-- [impredicative/podgenai](https://github.com/impredicative/podgenai) - OpenAI GPT based informational audiobook/podcast mp3 generator <sub>⭐ 157 · Python</sub>
-- [aask1357/fastenhancer](https://github.com/aask1357/fastenhancer) - Speed-optimized streaming neural speech enhancement network <sub>⭐ 156 · Python</sub>
-- [ceva-ip/DPDFNet](https://github.com/ceva-ip/DPDFNet) - Clean up noisy speech in real time with DPDFNet - open-source streaming speech enhancement for research, audio apps, and edge devices. Includes pretrained models, PyTorch code, ONNX/TFLite inference… <sub>⭐ 156 · Python</sub>
-- [danielmiessler/ExtractWisdom](https://github.com/danielmiessler/ExtractWisdom) - An AI prompt project that uses AI to extract wisdom from all sorts of text, from podcast transcripts, conversations, talks, lectures, papers, articles, blog posts, essays, presentations, or whatever… <sub>⭐ 156</sub>
-- [leftthomas/SEGAN](https://github.com/leftthomas/SEGAN) - A PyTorch implementation of SEGAN based on INTERSPEECH 2017 paper "SEGAN: Speech Enhancement Generative Adversarial Network" <sub>⭐ 156 · Python</sub>
-- [evandempsey/podcast-llm](https://github.com/evandempsey/podcast-llm) - Automatically generate engaging AI podcasts from nothing but an episode title. <sub>⭐ 153 · Python</sub>
-- [AthenaCore/AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) - A curated list of awesome academic research, books, code of ethics, courses, databases, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, reports… <sub>⭐ 152</sub>
-- [PandoraLS/traditional-speech-enhancement](https://github.com/PandoraLS/traditional-speech-enhancement) - Traditional Speech Enhancement Methods <sub>⭐ 151 · MATLAB</sub>
-- [JasonSWFu/MetricGAN](https://github.com/JasonSWFu/MetricGAN) - MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement (ICML 2019, with Travel awards) <sub>⭐ 150 · MATLAB</sub>
-- [BrendownFerreira/transcriber](https://github.com/BrendownFerreira/transcriber) - AI-powered transcription for audio & video with Whisper — self-hosted, fast, and open-source. <sub>⭐ 147 · Python</sub>
-- [funcwj/aps](https://github.com/funcwj/aps) - A personal toolkit for single/multi-channel speech recognition & enhancement & separation. <sub>⭐ 147 · Python</sub>
-- [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an… <sub>⭐ 145 · Python</sub>
-- [taresh18/TTSizer](https://github.com/taresh18/TTSizer) - Automatically transcribe audio/video into high-quality, speaker-specific Text-To-Speech datasets <sub>⭐ 145 · Python</sub>
-- [VideotronicMaker/LM-Studio-Voice-Conversation](https://github.com/VideotronicMaker/LM-Studio-Voice-Conversation) - Python app for LM Studio-enhanced voice conversations with local LLMs. Uses Whisper for speech-to-text and offers a privacy-focused, accessible interface. <sub>⭐ 145 · Python</sub>
-- [yufan-aslp/AliMeeting](https://github.com/yufan-aslp/AliMeeting) - The project is associated with the recently-launched ICASSP 2022 Multi-channel Multi-party Meeting Transcription Challenge (M2MeT) to provide participants with baseline systems for speech recognition… <sub>⭐ 144 · Python</sub>
-- [zhr1201/CNN-for-single-channel-speech-enhancement](https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement) - Convolutional neural nets for single channel speech enhancement <sub>⭐ 144 · Python</sub>
-- [Zafirmk/BytePods](https://github.com/Zafirmk/BytePods) - Daily podcasts generated by AI <sub>⭐ 143</sub>
-- [NaufalRizqullah/opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping) - Ultimate AI Auto-Clipper — Transform long-form videos & podcasts into viral shorts! Features smart face-tracking, kinetic karaoke subtitles, contextual B-roll, AI voice-overs, and auto-uploaders… <sub>⭐ 140 · Python</sub>
-- [yigitkonur/cli-bulk-caller](https://github.com/yigitkonur/cli-bulk-caller) - bulk outbound calls with automatic Whisper transcription via Telnyx <sub>⭐ 139 · Python</sub>
-- [mathiaschu/watch](https://github.com/mathiaschu/watch) - Give Claude a video input. /watch downloads from YouTube/Instagram/X/Vimeo/any yt-dlp site, extracts frames, and transcribes locally with mlx-whisper — no API key. Fork of bradautomates/claude-video. <sub>⭐ 138 · Python</sub>
-- [jakecyr/chatgpt-voice-assistant](https://github.com/jakecyr/chatgpt-voice-assistant) - A chatbot that integrates OpenAI Whisper, Chat Completions and Voice Generation. Also provides the option to use free transcription / TTS options. <sub>⭐ 137 · Python</sub>
-- [Marvinngg/ambient-voice](https://github.com/Marvinngg/ambient-voice) - macOS native ambient voice input & meeting transcription — Apple SpeechAnalyzer + Vision OCR + FluidAudio speaker diarization, fully on-device. <sub>⭐ 136 · Swift</sub>
-- [merlresearch/tf-locoformer](https://github.com/merlresearch/tf-locoformer) - Transformer with Local Modeling by Convolution for Speech Separation and Enhancement <sub>⭐ 136 · Python</sub>
-- [avencera/speakrs](https://github.com/avencera/speakrs) - Speaker diarization in Rust. 312–912x realtime on Apple Silicon, 50–121x on CUDA. Matches pyannote accuracy. <sub>⭐ 134 · Rust</sub>
-- [Audio-WestlakeU/McNet](https://github.com/Audio-WestlakeU/McNet) - The official repo: "McNet: Fuse Multiple Cues for Multichannel Speech Enhancement", ICASSP 2023 <sub>⭐ 133 · Python</sub>
-- [tin2tin/Subtitle_Editor](https://github.com/tin2tin/Subtitle_Editor) - Subtitle Editor for the Blender VSE - auto transcription (using Whisper), import, export, translation, list based editing and batch text style change. Blender Video Sequence Editor (VSE). <sub>⭐ 132 · Python</sub>
-- [appsinacup/godot-whisper](https://github.com/appsinacup/godot-whisper) - A GDExtension addon for the Godot Engine that enables realtime audio transcription, supports OpenCL for most platforms, Metal for Apple devices, and runs on a separate thread. <sub>⭐ 131 · C</sub>
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - 오픈 소스 긴 호르몬 SuperAgent 하네스 연구, 코드 및 생성. 모래 상자의 도움으로, 기억, 도구, 기술, 시약과 메시지 게이트웨이, 그것은 다른 수준의 처리... <sub>⭐ 83.3k · Python</sub>
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - 4x 빠른 Parakeet/Whisper 라이브 트랜지션, 스피커 탈중앙화 및 Rust에 내장 된 Ollama summarization과 함께 개인 정보 보호. 100 % 로컬 처리가 필요하지 않습니다. <sub>⭐ 31.4k · Rust</sub>
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - CTranslate2를 가진 더 빠른 Whisper transcription <sub>⭐ 25.7k · Python</sub>
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - 교육, 인턴, 스트리밍 ASR, VAD, punctuation, 스피커 분산 파이프라인 및 OpenAI 호환 / MCP 서빙을위한 오픈 소스 연설 인식 도구 키트. <sub>⭐ 20.6k · Python</sub>
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - 스피커 탈취를 위한 신경 건물 구획: 음성 활동 탐지, 스피커 변화 검출, overlapped 연설 탐지, embedding <sub>⭐ 10.6k · Jupyter Notebook</sub>
+- [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Linux에서 실시간 마이크 노이즈 억제. <sub>⭐ 10.3k · Go</sub>
+- [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Xiph의 RNNoise에 근거를 둔 소음 억제 플러그인 <sub>⭐ 6.9k · C++</sub>
+- [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI 빌더 다이제스트 - X 및 YouTube 팟 캐스트에서 최고의 AI 빌더를 모니터링하고, 소화 기관으로 콘텐츠를 다시 혼합합니다. Builders를 따르고 영향력이 없습니다. <sub>⭐ 6.8k · JavaScript</sub>
+- [steipete/summarize](https://github.com/steipete/summarize) - URL/YouTube/Podcast 또는 파일에 포인트. 게이스트를 가져옵니다. CLI와 크롬 확장. <sub>⭐ 6.7k · TypeScript</sub>
+- [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 웹 개발 리소스의 최고 목록. <sub>⭐ 5.8k</sub>
+- [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - OpenAI Whisper를 기반으로 하는 스피커 다이어그램의 자동 발표 <sub>⭐ 5.7k · Jupyter Notebook</sub>
+- [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Opus Clip, Vidyo.ai, Klap & SubMagic에 대한 오픈 소스 대안. LLM 하이라이트 검출을 사용하여 긴 형식의 YouTube 비디오를 변환, Whisper transcription 및 자동 수직 작물 ... <sub>⭐ 5.2k · Python</sub>
+- [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) - SoulX-Podcast는 텍스트에서 높은 수준의 팟 캐스트를 생성하기위한 영혼 AI 팀에 의해 의도 코드베이스입니다. <sub>⭐ 3.6k · Python</sub>
+- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - AI를 사용하여 비디오 및 팟 캐스트를 정리하고 요약하십시오. 오픈 소스, 멀티 플랫폼 및 여러 언어를 지원합니다. <sub>⭐ 3.3k · Python</sub>
+- [modelscope/3D-Speaker](https://github.com/modelscope/3D-Speaker) - 단일 및 멀티 모듈 스피커 검증, 스피커 인식 및 스피커 Diarization에 대한 저장소 <sub>⭐ 3.2k · Python</sub>
+- [pluja/whishper](https://github.com/pluja/whishper) - 텍스트, 번역 및 편집 자막에 어떤 오디오를 Transcribe 100% 로컬로 웹 UI. whisper 모델에 의해 구동! <sub>⭐ 3.1k · Svelte</sub>
+- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - OpenAI Whisper와 실시간 구독. <sub>⭐ 2.9k · Python</sub>
+- [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex 응용 프로그램. hex.kitlangton.com에서 Rust를 다시 작성하십시오; github.com/anomalyco/hex의 새로운 소스. <sub>⭐ 2.9k · Swift</sub>
+- [resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI 강화 연설 denoising 및 증진 <sub>⭐ 2.4k · Python</sub>
+- [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper의 멋진 목록 — OpenAI가 개발한 오픈 소스 AI 기반 음성 인식 시스템 <sub>⭐ 2.4k</sub>
+- [floneum/kalosm](https://github.com/floneum/kalosm) - 즉시, 통제할 수 있는, Rust에 있는 국부적으로 전 훈련된 AI 모형 <sub>⭐ 2.2k · Rust</sub>
+- [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Claude (또는 LLM) 실제로 비디오보기 - 장면 인식, deduplicated frames + transcript, URL 또는 로컬 파일에서. 로컬로 실행, MIT. <sub>⭐ 2.2k · Python</sub>
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - 자동화된 오디오 transcription를 위한 절단 가장자리 AI 기술. OpenAIs Whisper와 pyannote (speaker ID)를 위한 좋은 GUI <sub>⭐ 2.2k · Python</sub>
+- [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize) - 스피커 탈중앙화, 타임스탬프 및 음향 사건 인식을 가진 50+ 언어에 있는 장거리 transcription를 위한 0.9B 모형 <sub>⭐ 2.1k · Python</sub>
+- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM은 퀴즈, 플래시 카드, 노트 및 팟 캐스트와 같은 상호 작용하는 리소스로 연구 자료를 변환하는 NotebookLM & 교육 플랫폼의 커뮤니티 구동 버전입니다. <sub>⭐ 2.0k · TypeScript</sub>
+- [wq2012/awesome-diarization](https://github.com/wq2012/awesome-diarization) - 멋진 스피커 Diarization 종이, 라이브러리, 데이터 세트 및 기타 리소스의 큐레이터 목록. <sub>⭐ 1.9k</sub>
+- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - 토픽 → 4K 코딩 에이전트에 대 한 평가 된 비디오. v5.3.0: 로컬 TTS (edge free + azure, 외부 엔진 없음), 분석 구성 요소, 비용-gated AI 세대... <sub>⭐ 1.6k · Python</sub>
+- [royshil/obs-localvocal](https://github.com/royshil/obs-localvocal) - OBS 플러그인 로컬 음성 인식 및 AI를 사용하여 캡션 <sub>⭐ 1.6k · C++</sub>
+- [amicalhq/amical](https://github.com/amicalhq/amical) - AI Dictation App - 오픈 소스 및 Local-first Type 3x 빠르고 키보드가 필요하지 않습니다. 오픈 소스 모델에 의해 구동, 오프라인 작동, 빠르고 정확한 작동합니다. <sub>⭐ 1.5k · TypeScript</sub>
+- [silverstein/minutes](https://github.com/silverstein/minutes) - 오픈 소스, 클라인 코드, 코덱, 커서 및 MCP 클라이언트가 쿼리 할 수있는 로컬 최초의 Granola / Otter 대안. 회의, 전화 및 음성 메모는 당신이 소유 한 마크 다운으로 호출합니다. <sub>⭐ 1.5k · Rust</sub>
+- [microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge) - 이 재포는 딥 노이즈 스프레딩 (DNS) 도전에 대한 스크립트, 모델 및 필요한 파일이 포함되어 있습니다. <sub>⭐ 1.5k · Python</sub>
+- [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Controllable Transcription. Verbatim (모든, 필러, 일시 중지, 스터, 보컬 사운드) 또는 의도 (어떤 스피커가 말하는 것을 의미하고, 읽기 능력에 최적화 됨) 단어 수준 타임스탬프와 함께. <sub>⭐ 1.4k · Python</sub>
+- [wenet-e2e/wespeaker](https://github.com/wenet-e2e/wespeaker) - 연구 및 생산 오리엔테이션 스피커 검증, 인식 및 Diarization Toolkit <sub>⭐ 1.4k · Python</sub>
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - 멀티 백엔드 속삭임 앱. 빠른 블레이징. Mac-arm 최적화. 쉬운 설치. 로컬 파일 또는 URL을 입력하고 이 서비스는 Whisper AI를 사용하여 transcribe 것입니다. 완전 개인 및 무료 <sub>⭐ 1.4k · Python</sub>
+- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 제품 관리 기술 Lenny의 Podcast for Claude Code and AI Agent. Hiring, 사용자 연구, 전략, 배송 및 더 많은. <sub>⭐ 1.4k</sub>
+- [WenzheLiu-Speech/awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement) - Speech Enhancment\speech seperation\sound 소스 현지화 <sub>⭐ 1.3k</sub>
+- [aTrainTranscription/aTrain](https://github.com/aTrainTranscription/aTrain) - 음성 녹음을 오프라인으로 위한 GUI 도구, 스피커 디어라이징 등, 최첨단 기계 학습 모델을 활용합니다. <sub>⭐ 1.2k · Python</sub>
+- [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - 모바일 기기에서 품질 음성을 더 쉽게 활용할 수 있는 오픈 소스 iOS 앱. <sub>⭐ 1.1k · Swift</sub>
+- [dimastatz/whisper-flow](https://github.com/dimastatz/whisper-flow) - Whisper-Flow는 OpenAI의 Whisper 모델을 사용하여 오디오 콘텐츠의 실시간 구문을 가능하게하도록 설계된 프레임 워크입니다. 업로드 후 전체 파일을 처리하는 것보다 Rather ("배치 모드"), Whisper-Flow ... <sub>⭐ 976 · Python</sub>
+- [alesaccoia/VoiceStreamAI](https://github.com/alesaccoia/VoiceStreamAI) - Python/JS에서 자체 호스팅된 Whisper 및 WebSocket을 이용한 실시간 오디오 트랜지션 <sub>⭐ 962 · Python</sub>
+- [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted 오프라인 transcription 과 diarization 서비스 와 llm 요약 <sub>⭐ 947 · Python</sub>
+- [TheStageAI/TheWhisper](https://github.com/TheStageAI/TheWhisper) - 스트리밍 및 On-device 사용에 대한 최적화 된 Whisper 모델 <sub>⭐ 898 · Python</sub>
+- [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) - PDF를 AI 팟캐스트로 변환하여 on-the-go 오디오 콘텐츠에 참여합니다. <sub>⭐ 878 · Python</sub>
+- [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - 자막, 요약 및 몇 초 안에 동영상의 장 생성 <sub>⭐ 868 · PHP</sub>
+- [santi-pdp/segan](https://github.com/santi-pdp/segan) - TensorFlow에서 발표 된 Adversarial 네트워크 <sub>⭐ 865 · Python</sub>
+- [knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast) - 모든 PDF를 팟 캐스트 에피소드로 변환! <sub>⭐ 843 · Python</sub>
+- [nanahou/Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) - Speech Enhancement 연구원과 실무자를위한 튜토리얼. 이 재포의 목적은 연설 향상을위한 세계 리소스를 구성하고 보편적으로 접근 및 유용한 것을 만듭니다. <sub>⭐ 840 · MATLAB</sub>
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - 어떤 git 저장소를 참여 팟캐스트로 변환 <sub>⭐ 813 · TypeScript</sub>
+- [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - 오디오 및 비디오 콘텐츠 제작, 사용자 친화적 인 UI를 사용하여 자동 번역을 통해 Open AI의 Whisper에 의해 구동되고 yt-dlp 통합으로 비디오를 자동으로 다운로드 <sub>⭐ 803 · JavaScript</sub>
+- [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper) - OpenAI Whisper에 대한 React Hook은 음성 레코더, 실시간 트랜지션 및 소음 제거 내장 <sub>⭐ 786 · TypeScript</sub>
+- [exPHAT/SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - Swift에서 오디오를 transcribe하는 가장 쉬운 방법 <sub>⭐ 786 · Swift</sub>
+- [sp-uhh/sgmse](https://github.com/sp-uhh/sgmse) - Speech Enhancement 및 Dereverberation에 대한 Score 기반의 Generative Models (Diffusion Models) <sub>⭐ 773 · Python</sub>
+- [vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - 오디오 denoising을 위한 딥러닝 <sub>⭐ 771 · Python</sub>
+- [breizhn/DTLN](https://github.com/breizhn/DTLN) - DTLN 실시간 음성 해독 모델의 Tensorflow 2.x 구현. TF-lite, ONNX 및 실시간 오디오 처리 지원. <sub>⭐ 745 · Python</sub>
+- [KoljaB/LocalAIVoiceChat](https://github.com/KoljaB/LocalAIVoiceChat) - Zephyr 7B 모델에 기반한 사용자 정의 음성과 현지 AI 대화. 합성을 위한 Coqui XTTS를 가진 transcription와 RealtimeTTS를 위한 fast_whisper를 가진 RealtimeSTT를 사용합니다. <sub>⭐ 737 · Python</sub>
+- [sofdog-gh/realtime-transcription-fastrtc](https://github.com/sofdog-gh/realtime-transcription-fastrtc) - Real Time Speech Transcription with FastRTC 및 로컬 Whisper <sub>⭐ 705 · Python</sub>
+- [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - 쉽게 전체 YouTube 재생 목록을 가져와 Whisper를 사용하여 고품질의 성적 증명서로 전환하십시오. <sub>⭐ 693 · Python</sub>
+- [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - OpenAI Whisper 및 TensorFlow Lite와 오프라인 발표 <sub>⭐ 692 · C++</sub>
+- [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata) - Lenny's Podcast transcripts 및 Lenny 's Newsletter post에 대한 무료 스타터 팩. <sub>⭐ 664</sub>
+- [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate) - Whisper OpenAI 및 무료 번역 API를 사용하여 실시간 음성 안내 및 번역 응용 프로그램입니다. Tkinter를 사용하는 인터페이스. Python에서 완전히 작성된 코드. <sub>⭐ 662 · Python</sub>
+- [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android 입력 방법 편집기 (IME) Whisper에 기반 <sub>⭐ 642 · Java</sub>
+- [Audio-WestlakeU/FullSubNet](https://github.com/Audio-WestlakeU/FullSubNet) - "FullSubNet: Real-Time Single-Channel Speech Enhancement"을 위한 Full-Band 및 Sub-Band Fusion Model의 PyTorch 구현. <sub>⭐ 615 · Python</sub>
+- [ysharma3501/LavaSR](https://github.com/ysharma3501/LavaSR) - LavaSR: 빠른 연설 복원 및 향상 <sub>⭐ 606 · Python</sub>
+- [fuxiaoai/tidings-rss](https://github.com/fuxiaoai/tidings-rss) - AI, 뉴스, 연구, 블로그, 비디오, 팟 캐스트 및 엔지니어링에 대한 커스터마이징 OPML 컬렉션. <sub>⭐ 577 · Python</sub>
+- [fgnt/nara_wpe](https://github.com/fgnt/nara_wpe) - 연설 dereverberation에 대한 "무선 예측 오류"의 다른 구현 <sub>⭐ 576 · Python</sub>
+- [wq2012/SpectralCluster](https://github.com/wq2012/SpectralCluster) - Google의 스피커 탈중앙화 종이에 사용되는 (constrained) 스펙트럼 클러스터링 알고리즘을 재개합니다. <sub>⭐ 556 · Python</sub>
+- [akashmjn/tinydiarize](https://github.com/akashmjn/tinydiarize) - OpenAI의 Whisper의 Minimal 확장은 특별한 토큰으로 스피커 디어화를 추가합니다. <sub>⭐ 551 · Python</sub>
+- [Sharrnah/whispering](https://github.com/Sharrnah/whispering) - Whispering Tiger - OSC 및 Websocket 지원이있는 OpenAI의 속임수 (및 기타 모델). 대부분의 스트리밍 응용 프로그램에 VRChat 및 Overlay에서 라이브 트랜지션 / 번역을 허용 <sub>⭐ 549 · Python</sub>
+- [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly 추가 AI-generated transcription subtitles 에 당신의 비디오 <sub>⭐ 545 · Python</sub>
+- [anicolson/DeepXi](https://github.com/anicolson/DeepXi) - Deep Xi: TensorFlow 2/Keras에서 구현되는 우선 SNR 추정에 대한 깊은 학습 접근. 연설 향상 및 강력한 ASR을 위해. <sub>⭐ 525 · MATLAB</sub>
+- [DmitryRyumin/ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) - ICASSP 2023-2024 용지 : ICASSP 2023-24 회의에서 영향력과 흥미로운 연구 논문의 전체 컬렉션. 음향, 연설 및 신호에 대한 최신 발전을 탐험 ... <sub>⭐ 525 · Python</sub>
+- [yxlu-0102/MP-SENet](https://github.com/yxlu-0102/MP-SENet) - 고품질 Speech 증진을 위한 병렬에 있는 Magnitude와 Phase Spectra의 폭발성 Estimation <sub>⭐ 507 · Python</sub>
+- [taylorlu/Speaker-Diarization](https://github.com/taylorlu/Speaker-Diarization) - uis-rnn 및 스피커가 vgg-speaker-recognition에 의해 삽입되는 스피커 <sub>⭐ 504 · Python</sub>
+- [receptron/mulmocast-cli](https://github.com/receptron/mulmocast-cli) - AI-powered 팟 캐스트 및 비디오 생성기. <sub>⭐ 475 · TypeScript</sub>
+- [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler는 오픈 소스, 크로스 플랫폼 및 무료 자막 편집 소프트웨어입니다. <sub>⭐ 467 · Pascal</sub>
+- [schmiph2/pysepm](https://github.com/schmiph2/pysepm) - Loizou의 Speech Enhancement book에서 성능 지표 구현 <sub>⭐ 461 · Python</sub>
+- [jim60105/docker-whisperX](https://github.com/jim60105/docker-whisperX) - WhisperX용 Dockerfile: Word-Level Timestamp와 Speaker Diarization(Dockerfile, CI 이미지 빌드 및 테스트)로 자동적인 강연 인식 <sub>⭐ 456 · Dockerfile</sub>
+- [funcwj/setk](https://github.com/funcwj/setk) - Kaldi와 통합된 Speech Enhancement용 도구 <sub>⭐ 434 · Python</sub>
+- [zarazhangrui/personalized-podcast](https://github.com/zarazhangrui/personalized-podcast) - 개인화 된 AI 팟 캐스트로 모든 콘텐츠를 설정하십시오. 스크립트, 음성 및 호스트를 제어하는 것을 제외하고 NotebookLM-style. Apple Podcasts, Spotify 또는 어떤 podcast 응용 프로그램에 들어보십시오. <sub>⭐ 434 · Python</sub>
+- [ruizhecao96/CMGAN](https://github.com/ruizhecao96/CMGAN) - 연설 증진을 위한 Conformer 근거한 미터 GAN <sub>⭐ 429 · Python</sub>
+- [menkesu/awesome-pm-skills](https://github.com/menkesu/awesome-pm-skills) - 28 Lenny's Podcast의 AI-powered PM 기술. 세계적 수준의 제품 파트너로 Claude Code & Cursor를 변환하십시오. <sub>⭐ 425</sub>
+- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) - Windows + Linux 용 로컬 음성 판독 및 회의 레코더. 예측할 단축키를 보유하거나 시스템 오디오와 긴 형식 회의를 기록하십시오. Whisper transcription, 가져 오기 - 소유자. 오픈 ... <sub>⭐ 423 · Python</sub>
+- [NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper) - SoftWhisper는 강력한 Whisper 모델을 사용하여 오디오 및 비디오 트랜지션을 단순화합니다. 쉽게 사용자 정의 모델, 언어 및 작업, 빔 크기 조정과 미세 쓰레드 트랜지션을 선택할 수 있습니다 ... <sub>⭐ 421 · Python</sub>
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - OpenAI의 Whisper와 유튜브 동영상 <sub>⭐ 419 · Jupyter Notebook</sub>
+- [hardhackerlabs/podwise-cli](https://github.com/hardhackerlabs/podwise-cli) - podwise.ai에 대한 CLI 클라이언트 — AI 에이전트 및 기술 워크플로우에서 사용하도록 설계된 AI-powered 통찰력으로 모든 팟 캐스트 에피소드를 켜십시오. <sub>⭐ 409 · Go</sub>
+- [santi-pdp/segan_pytorch](https://github.com/santi-pdp/segan_pytorch) - PyTorch에서 발표 된 Adversarial 네트워크 <sub>⭐ 409 · Python</sub>
+- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) - AI ContentCraft는 제작자가 스토리, 팟캐스트 스크립트를 생성하는 데 도움이되는 올인원 콘텐츠 제작 제품군이며 멀티미디어 콘텐츠를 AI-powered text generation, Speech 종합 및 이미지를 사용하여... <sub>⭐ 400 · HTML</sub>
+- [addyosmani/say](https://github.com/addyosmani/say) - Say - A Whisper AI 노트 앱 <sub>⭐ 397 · TypeScript</sub>
+- [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Whisper 및 DeepL을 사용하여 텍스트로 오디오를 번역합니다. <sub>⭐ 397 · Jupyter Notebook</sub>
+- [lablab-ai/Whisper-transcription_and_diarization-speaker-identification-](https://github.com/lablab-ai/Whisper-transcription_and_diarization-speaker-identification-) - OpenAIs Whisper를 사용하여 오디오 파일을 분산 <sub>⭐ 380 · Jupyter Notebook</sub>
+- [maudoin/ollama-voice](https://github.com/maudoin/ollama-voice) - 로컬 ollama 서버 및 ouput tts 오디오 응답에 대한 플러그인 <sub>⭐ 378 · Python</sub>
+- [Audio-WestlakeU/NBSS](https://github.com/Audio-WestlakeU/NBSS) - NBC & SpatialNet의 공식 재포는 다중채널 연설 별거, denoising 및 dereverberation를 위해 <sub>⭐ 375 · Python</sub>
+- [pretyflaco/millet](https://github.com/pretyflaco/millet) - 스피커 탈중앙화, AI summaries 및 PDF 출력을 통한 완벽한 로컬 미팅 안내 <sub>⭐ 375 · Python</sub>
+- [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - SpeechBrain 프로젝트는 PyTorch를 기반으로 한 새로운 연설 툴킷을 구축하는 것을 목표로합니다. SpeechBrain 사용자는 음성 인식 (HMM / DNN ... <sub>⭐ 375 · HTML</sub>
+- [jzi040941/PercepNet](https://github.com/jzi040941/PercepNet) - PercepNet의 비공식적 구현: Perceptually-Motivated Approach for low-Complexity, Fullband Speech의 실시간 향상 <sub>⭐ 370 · C++</sub>
+- [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - OpenAI의 Whisper의 거의 살아있는 구현은 Sounddevice를 사용하여. 기존 Whisper 설치가 필요합니다. <sub>⭐ 361 · Python</sub>
+- [Quantatirsk/AsrServe](https://github.com/Quantatirsk/AsrServe) - SOTA 오픈 모델, 스피커 디어라이징 및 OpenAI 호환 API를 갖춘 셀프 호스팅 실시간 오프라인 ASR. GPU, CPU, macOS Apple Silicon. <sub>⭐ 354 · Python</sub>
+- [EtienneAb3d/WhisperHallu](https://github.com/EtienneAb3d/WhisperHallu) - Experimental 코드: 음질 파일은 홀로그램 텍스트없이 Whisper transcription을 최적화하기 위해 사전 처리 <sub>⭐ 352 · Python</sub>
+- [haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement) - PyTorch의 Wave-U-Net 구현, 연설 향상에 대한 마이그레이션. <sub>⭐ 351 · Python</sub>
+- [haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) - PyTorch를 사용하여 "A Convolutional Recurrent Neural Network"(CRN)의 최소 비공식 구현 <sub>⭐ 350 · Python</sub>
+- [Mwaseemzakir/awesome-dotnet-resources](https://github.com/Mwaseemzakir/awesome-dotnet-resources) - 책, 과정, 블로그, 도구, AI 도구, 뉴스 레터, 팟 캐스트 및 인터뷰를 포함한 .NET 및 C # 리소스의 핸드픽리스트. <sub>⭐ 349 · HTML</sub>
+- [JimLiu/whisper-subtitles](https://github.com/JimLiu/whisper-subtitles) - OpenAI의 Whisper와 Apple PodCast Transcription <sub>⭐ 348 · Jupyter Notebook</sub>
+- [souzatharsis/podcastfy-demo](https://github.com/souzatharsis/podcastfy-demo) - podcastfy.ai gradio 데모 앱 <sub>⭐ 340 · Python</sub>
+- [asr-pub/index-tts-lora](https://github.com/asr-pub/index-tts-lora) - LoRA 미세 조정과 고급 연설 합성 색인 tts, 단일 및 멀티 스피커 목소리에 대한 prosody and naturalness를 강화. <sub>⭐ 339 · Python</sub>
+- [shahules786/mayavoz](https://github.com/shahules786/mayavoz) - Pytorch 기반 연설 향상 도구 키트. <sub>⭐ 338 · Python</sub>
+- [sayksii/Aria](https://github.com/sayksii/Aria) - ARIA - AI Realtime 지능형 오디오 / Windows용 범용 실시간 AI 자막 <sub>⭐ 331 · Python</sub>
+- [ivnvxd/hack-interview](https://github.com/ivnvxd/hack-interview) - 실시간 인터뷰 질문 transcription 및 응답 생성을위한 AI 전원 도구. <sub>⭐ 330 · Python</sub>
+- [seanwood/gcc-nmf](https://github.com/seanwood/gcc-nmf) - 실시간 GCC-NMF 블라인드 Speech 분리 및 개선 <sub>⭐ 329 · Python</sub>
+- [Sharrnah/whispering-ui](https://github.com/Sharrnah/whispering-ui) - Whispering Tiger 프로젝트의 Native UI - https://github.com/Sharrnah/whispering (라이브 transcription / 번역) <sub>⭐ 329 · Go</sub>
+- [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) - Omarchy에 기록 회의: 스피커, 장 및 선수와 더불어 2개의 궤도로 mic 그리고 컴퓨터 오디오, 당신의 자신의 기계에 transcribed. <sub>⭐ 324 · Rust</sub>
+- [WangHelin1997/SoloSpeech](https://github.com/WangHelin1997/SoloSpeech) - SoloSpeech : Cascaded Generative Pipeline을 통해 Target Speech Extraction의 Intelligibility 및 품질 향상 <sub>⭐ 324 · Python</sub>
+- [narcotic-sh/senko](https://github.com/narcotic-sh/senko) - 매우 빠른, 정확한 스피커 diarization <sub>⭐ 304 · Python</sub>
+- [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - 믿을 수 있는 연설 transcription를 위한 강력한 AI 키보드 <sub>⭐ 295 · Kotlin</sub>
+- [achetronic/parakeet](https://github.com/achetronic/parakeet) - OpenAI Whisper 호환 ASR 서버 - NVIDIA Parakeet TDT 0.6B (ONNX). 슈퍼 빠른 CPU / GPU 트래픽 <sub>⭐ 293 · Go</sub>
+- [lucianodato/speech-denoiser](https://github.com/lucianodato/speech-denoiser) - RNNoise 라이브러리를 기반으로 한 연설 denoise lv2 플러그인 <sub>⭐ 293 · C</sub>
+- [RookieJunChen/FullSubNet-plus](https://github.com/RookieJunChen/FullSubNet-plus) - "FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement"의 공식 PyTorch 구현 <sub>⭐ 293 · Python</sub>
+- [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla) - Mac 용 오픈 소스 AI 회의 노트. bot, transcribes on-device 또는 OpenAI / Deepgram / Groq를 사용하여 스피커를 오프라인으로 식별하고 일시 중지하는 summaries를 작성합니다 ... <sub>⭐ 292 · Rust</sub>
+- [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Revornix는 오픈 소스, 로컬 최초의 AI 정보 / 마크 다운 워크스페이스입니다. 그것은 당신이 파편 입력을 수집하는 데 도움이, 구조화된 지식으로 전환하고, 이미지와 팟 캐스트 오디오 보고서를 생성 ... <sub>⭐ 292 · TypeScript</sub>
+- [AkojimaSLP/Beamforming-for-speech-enhancement](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement) - 간단한 지연, MVDR 및 CGMM-MVDR <sub>⭐ 289 · Python</sub>
+- [Moh4696/freecut](https://github.com/Moh4696/freecut) - 브라우저의 포크 / 유료 ElevenLabs 종속성과 함께 비디오 사용은 무료로 대체, 플러그 가능 transcription (기본적으로 로컬 Whisper; diarization에 대한 VibeVoice-ASR). <sub>⭐ 279 · Python</sub>
+- [rodrigogs/whats-reader](https://github.com/rodrigogs/whats-reader) - WhatsApp 채팅은 AI-powered 성우를 사용하여 오프라인으로 내보내기합니다. 책갈피, 검색 및 통계가있는 개인 정보 보호 우선 데스크탑 / 웹 앱. SvelteKit 및 Electron과 내장되었습니다. <sub>⭐ 272 · TypeScript</sub>
+- [NavodPeiris/speechlib](https://github.com/NavodPeiris/speechlib) - Speechlib는 스피커 디어화, 비문 및 스피커 인식을 단일 파이프 라인에 통합하는 라이브러리로 실제 스피커 이름과 시간으로 오디오 대화를 위한 성적표를 만들 수 있습니다. <sub>⭐ 269 · Python</sub>
+- [vivekuppal/transcribe](https://github.com/vivekuppal/transcribe) - Transcribe는 실시간 트랜지션, 대화, 언어 학습 플랫폼입니다. 마이크와 스피커에서 라이브 트랜지션을 제공합니다. 그것은 제안 된 대화 응답을 생성 ... <sub>⭐ 266 · Python</sub>
+- [davidmartinrius/speech-dataset-generator](https://github.com/davidmartinrius/speech-dataset-generator) - 레테르를 붙인 데이터셋을 만들고, 오디오 품질을 향상시키고, 스피커를 식별하고 다양한 dataset 유형을 지원합니다. 고급 오디오 처리. <sub>⭐ 263 · Python</sub>
+- [mazdak/AudioWhisper](https://github.com/mazdak/AudioWhisper) - OpenAI Whisper 또는 Google Gemini를 사용하여 빠른 오디오 transcription을위한 경량 macOS 메뉴 바 응용 프로그램입니다. 단축키를 누르고, 생각을 기록하고 자동 복사 된 인스턴트 텍스트를 얻을 수 있습니다 ... <sub>⭐ 262 · Swift</sub>
+- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI 기반 비디오 편집기. 편집 텍스트로 비디오를 편집합니다. <sub>⭐ 261 · TypeScript</sub>
+- [Stage-Whisper/Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - Stage Whisper - 무료, 안전한 및 언론인을위한 사용하기 쉬운 교통 응용 프로그램 인 OpenAI의 Whisper 자동 음성 인식 (ASR) 기계 학습 모델에 의해 구동. <sub>⭐ 261 · TypeScript</sub>
+- [Curated-Awesome-Lists/Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) - Sora AI 최고 목록 – 모든 것들을위한 당신의 이동 자원 허브 Sora AI, OpenAI의 획기적인 모델 텍스트에서 현실적인 장면을 제작. 기사의 큐레이터 컬렉션을 탐험, 비디오 ... <sub>⭐ 260</sub>
+- [AbhishekBarali/SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - Windows, macOS 및 Linux 용 무료 오픈 소스 오프라인 음성 판독. Wispr Flow 대안으로 화면을 요청하고 질문에 답할 수 있습니다. <sub>⭐ 258 · Rust</sub>
+- [EncoraDigital/SAB-cnn-audio-denoiser](https://github.com/EncoraDigital/SAB-cnn-audio-denoiser) - 종이의 Tensorflow 2.0 구현 : Speech Enhancement을위한 완벽한 Convolutional Neural Network <sub>⭐ 257 · Jupyter Notebook</sub>
+- [MiscellaneousStuff/openai-whisper-cpu](https://github.com/MiscellaneousStuff/openai-whisper-cpu) - OpenAI Whisper for CPU 기반 배포의 비문 성능 향상 <sub>⭐ 257 · Jupyter Notebook</sub>
+- [sp-uhh/storm](https://github.com/sp-uhh/storm) - StoRM: 발음 향상과 Dereverberation을 위한 확산 근거한 Stochastic 재생 모형 <sub>⭐ 257 · Python</sub>
+- [neillu23/CDiffuSE](https://github.com/neillu23/CDiffuSE) - Speech 증진을 위한 조건적인 Diffusion Probabilistic 모형 <sub>⭐ 253 · Python</sub>
+- [wendy7756/podcast-transcriber](https://github.com/wendy7756/podcast-transcriber) - 팟캐스트를 고품질 성적표와 AI-powered summaries로 전환하는 오픈 소스 도구. <sub>⭐ 249 · JavaScript</sub>
+- [echocatzh/MTFAA-Net](https://github.com/echocatzh/MTFAA-Net) - 음성 향상을 위한 축주의를 가진 다 Scale Temporal 빈도 Convolutional 네트워크 <sub>⭐ 237 · Python</sub>
+- [Le-Xiaohuai-speech/DPCRN_DNS3](https://github.com/Le-Xiaohuai-speech/DPCRN_DNS3) - 종이의 구현 "DPCRN : 단일 채널 음성 향상을위한 듀얼-Path Convolution Recurrent Network" <sub>⭐ 237 · Python</sub>
+- [lewangdev/autotranslate](https://github.com/lewangdev/autotranslate) - Faster Whisper 및 ChatGPT와 함께 Transcription과 번역 <sub>⭐ 235 · Jupyter Notebook</sub>
+- [island-io/mila](https://github.com/island-io/mila) - Mila - 기본 macOS 로컬 transcription 앱 (whisper.cpp) 옵션 스피커 탈중앙화. Apache-2.0. <sub>⭐ 233 · Swift</sub>
+- [arihanv/Shush](https://github.com/arihanv/Shush) - Shush는 WhisperV3 모델을 Modal에서 플래시 관심 v2로 배포하고 NextJS 앱을 통해 요청을 만듭니다. <sub>⭐ 227 · TypeScript</sub>
+- [leopiney/neuralnoise](https://github.com/leopiney/neuralnoise) - AI Podcast Studio: 팟캐스트 스크립트를 생성하고, 파드 캐스트 스튜디오에서 AI 노동자의 팀과 오디오 버전 <sub>⭐ 227 · Python</sub>
+- [jaromiru/diktafon](https://github.com/jaromiru/diktafon) - Diktafon는 개인, 오픈 소스 음성 메모 앱으로 기기에서 완전히 녹음을 요약합니다. - 카세트 테이프와 같이 조직됩니다. <sub>⭐ 223 · C++</sub>
+- [danmic/av-se](https://github.com/danmic/av-se) - Deep-Learning 기반 오디오 - 음성 학습 향상 및 분리 <sub>⭐ 222</sub>
+- [johan-akerman/SpotifyTranscripts](https://github.com/johan-akerman/SpotifyTranscripts) - AI는 부제 및 팟캐스트를 위한 분할된 장 생성했습니다 <sub>⭐ 220 · JavaScript</sub>
+- [jtkim-kaist/Speech-enhancement](https://github.com/jtkim-kaist/Speech-enhancement) - Deep neural 네트워크 기반 연설 향상 도구 키트 <sub>⭐ 220 · MATLAB</sub>
+- [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) - 제작자를위한 AI 전원 콘텐츠 생산 파이프라인. 하나의 프롬프트 → 멀티 플랫폼 출판. Claude Code Skill. <sub>⭐ 220 · TypeScript</sub>
+- [Enny1991/beamformers](https://github.com/Enny1991/beamformers) - 다중채널 음성 분리/enhancement를 위한 Beamformers 사용하기 쉬운 <sub>⭐ 218 · Python</sub>
+- [madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data) - "Speech Denoising without Clean Training Data: the Noise2Noise Approach"라는 제목의 종이에 대한 소스 코드. INTERSPEECH 2021 회의에서 허용 된 용지. 이 종이는 무거운 문제 해결 ... <sub>⭐ 213 · Jupyter Notebook</sub>
+- [maggie0830/DCCRN](https://github.com/maggie0830/DCCRN) - pytorch에 의해 "DCCRN-Deep Complex Convolution Recurrent Network"의 구현 <sub>⭐ 212</sub>
+- [Xiaobin-Rong/SEtrain](https://github.com/Xiaobin-Rong/SEtrain) - DNN 기반 연설 향상을위한 교육 코드 템플릿. <sub>⭐ 212 · Python</sub>
+- [nullwiz/audiopipe](https://github.com/nullwiz/audiopipe) - 배경 소음 제거, 탈취 및 insanely-fast-whisper를 위한 파이프라인 <sub>⭐ 210 · Python</sub>
+- [felipeAguiarCode/prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) - Chatgpt, Midjourney 및 ElevenLabs의 Prompts는 AI Podcast를 만듭니다. <sub>⭐ 209</sub>
+- [impossibleG/phorminx](https://github.com/impossibleG/phorminx) - dictation 및 Meeting transcription에 대한 로컬 첫 번째 Windows 응용 프로그램, 검색 가능한 노트와 함께, 선택적 지역 AI 포맷과 개인 모델 관리. <sub>⭐ 203 · Rust</sub>
+- [tanpreetjolly/browser-whisper](https://github.com/tanpreetjolly/browser-whisper) - NPM 라이브러리는 WebGPU 및 WebCodecs와 브라우저에서 오디오 & 비디오를 완전히 표현합니다. WASM fallbacks로 100% 개인 및 오프라인 <sub>⭐ 203 · TypeScript</sub>
+- [gaborvecsei/whisper-live-transcription](https://github.com/gaborvecsei/whisper-live-transcription) - Whisper PoC와 실시간 구독 (STT) <sub>⭐ 202 · Python</sub>
+- [mldljyh/whisper_real_time_translation](https://github.com/mldljyh/whisper_real_time_translation) - 자막 및 번역은 실시간으로 생성되며 팝업으로 표시됩니다. <sub>⭐ 199 · Python</sub>
+- [Fovty/HushMic](https://github.com/Fovty/HushMic) - Linux용 실시간 마이크 노이즈 억제는 시스템 전체 가상 mic(DPDFNet + PipeWire)입니다. <sub>⭐ 198 · Rust</sub>
+- [pasrom/meeting-transcriber](https://github.com/pasrom/meeting-transcriber) - macOS용 장치 미팅 transcriber — 자동 기록 팀/Zoom/Webex, 트랜스 크리브 및 별도 스피커 로컬. 클라우드가 없습니다. Otter/Granola/Fireflies에 오픈 소스 대안. <sub>⭐ 193 · Swift</sub>
+- [aalto-speech/speaker-diarization](https://github.com/aalto-speech/speaker-diarization) - AaltoASR을 기반으로 하는 스피커 디어화 스크립트 <sub>⭐ 192 · Python</sub>
+- [Audio-WestlakeU/FS-EEND](https://github.com/Audio-WestlakeU/FS-EEND) - "Frame-wise Streaming end-to-end speaker diarization with non-autoregressive self-attention-based attractors"의 공식 Pytorch 구현. (ICASSP 2024) 및 "LS-EEND: long-form Streaming... <sub>⭐ 191 · Python</sub>
+- [nycsv/Speech_Enhancement_DNN_NMF](https://github.com/nycsv/Speech_Enhancement_DNN_NMF) - DNN (Spectral-Mapping, TF-Masking), DNN-NMF, NMF에 근거를 두는 연설 증진 <sub>⭐ 189 · Python</sub>
+- [trummerschlunk/PodcastPlugins](https://github.com/trummerschlunk/PodcastPlugins) - podcasters를 위한 음성 증진 오디오 플러그인 <sub>⭐ 188 · C++</sub>
+- [dbklim/RNNoise_Wrapper](https://github.com/dbklim/RNNoise_Wrapper) - 오디오 소음 감소 RNNoise를 위한 간단한 Python 래퍼. 작업을 단순화하고, 훈련을 위한 새로운 트레이드 모델과 상세한 지침을 추가합니다. <sub>⭐ 185 · Python</sub>
+- [tobiashuttinger/openai-whisper-realtime](https://github.com/tobiashuttinger/openai-whisper-realtime) - Whisper를 사용하여 거의 실시간 transcription을 달성하는 빠른 실험. <sub>⭐ 185 · Python</sub>
+- [mozilla-ai/document-to-podcast](https://github.com/mozilla-ai/document-to-podcast) - Mozilla.ai의 Blueprint 로컬 AI를 사용하여 문서에서 팟 캐스트 생성 <sub>⭐ 184 · Python</sub>
+- [SuyashMore/MevonAI-Speech-Emotion-Recognition](https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition) - Audio Segment에서 여러 스피커의 감정을 식별 <sub>⭐ 183 · C</sub>
+- [Audio-WestlakeU/RealMAN](https://github.com/Audio-WestlakeU/RealMAN) - "RealMAN : Real-Recorded 및 Annotated 마이크로폰 어레이 Dataset for Dynamic Speech Enhancement and Localization" (NeurIPS 2024)의 설명 <sub>⭐ 179 · Python</sub>
+- [yacineMTB/scribepod](https://github.com/yacineMTB/scribepod) - scribepod @ https://scribepod.substack.com/, 자동화된 AI 팟 캐스트를 사용하는 스크립트 중 일부 <sub>⭐ 178 · Jupyter Notebook</sub>
+- [KyleZhang1118/Voice-Separation-and-Enhancement](https://github.com/KyleZhang1118/Voice-Separation-and-Enhancement) - DSB, MVDR, LCMV, GEVD Beamforming 및 ICA, FastICA, IVA, AuxIVA, OverIVA, ILRMA, FastMNMF와 같은 빠른 테스트 및 비교를 위한 기구. <sub>⭐ 177 · MATLAB</sub>
+- [yaoxunji/gen-se](https://github.com/yaoxunji/gen-se) - GenSE: Hierarchical Modeling을 사용하여 언어 모델을 통한 번역 향상 <sub>⭐ 177 · Python</sub>
+- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - 오디오 또는 비디오 파일을 텍스트 성적표로 변환하고 회의 분을 생성하는 도구입니다. 회의에서 조직 및 효율성을 유지하며, 우리가 열려있는 단계 2을위한 준비를하십시오 ... <sub>⭐ 175 · Python</sub>
+- [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - OpenAI의 GPT-3.5-turbo 모델, 벡터 데이터베이스에 대한 DeepLake 및 음성 transcription을위한 Whisper API를 사용하여 문제 안함 채팅봇. Chatbot은 또한 Eleven Labs를 사용하여 오디오 생성을... <sub>⭐ 172 · Python</sub>
+- [geekodour/wscribe](https://github.com/geekodour/wscribe) - ez audio transcription tool 와 유연한 처리 및 후처리 옵션 <sub>⭐ 171 · Python</sub>
+- [welcomyou/sherpa-vietnamese-asr](https://github.com/welcomyou/sherpa-vietnamese-asr) - ASR (vietnamese), 스피커 디어라이징은 CPU에서 오프라인으로 실행합니다. <sub>⭐ 171 · Python</sub>
+- [six-ddc/livecaption](https://github.com/six-ddc/livecaption) - Real-time on-device 연설 transcription + macOS (Apple Silicon)의 번역. ASR, Speaker diarization 및 라이브 영어 → Apple GPU / MLX에 중국어 번역 - 터미널 CLI, UI 없음, no ... <sub>⭐ 169 · Python</sub>
+- [EtienneAb3d/WhisperTimeSync](https://github.com/EtienneAb3d/WhisperTimeSync) - Whisper의 타임 스탬프를 기존의 정확한 트래시 동기화 <sub>⭐ 167 · Java</sub>
+- [sapoepsilon/Whispera](https://github.com/sapoepsilon/Whispera) - WhisperKit를 사용하여 macOS 용 AI 전원 음성 안내 앱 <sub>⭐ 167 · Swift</sub>
+- [nicolodiamante/chatty](https://github.com/nicolodiamante/chatty) - Chatty의 힘이 무효 : ChatGPT의 지능, DALL·E의 창의력과 Whisper는 Apple 기기를 30 개 언어 지원으로 정확한 오디오 트랜지션을 제공합니다. <sub>⭐ 166</sub>
+- [javedali99/audio-to-text-transcription](https://github.com/javedali99/audio-to-text-transcription) - 이 저장소에는 사용자가 YouTube 비디오에서 오디오를 다운로드 할 수있는 Python 스크립트가 포함되어 있으며 텍스트로 변환하고 언어를 감지하고 txt 파일에 transcription을 저장합니다. <sub>⭐ 160 · Python</sub>
+- [tsmdt/whisply](https://github.com/tsmdt/whisply) - 빠른, 크로스 플랫폼 CLI 및 GUI 배치 transcription, 번역, 스피커 주석 및 자막 생성을 사용하여 OpenAI의 Whisper CPU, Nvidia GPU와 Apple MLX. <sub>⭐ 160 · Python</sub>
+- [rishikksh20/HiFiplusplus-pytorch](https://github.com/rishikksh20/HiFiplusplus-pytorch) - HiFi++: Neural Vocoding, Bandwidth Extension 및 Speech Enhancement에 대한 통합 프레임 워크 <sub>⭐ 159 · Python</sub>
+- [impredicative/podgenai](https://github.com/impredicative/podgenai) - OpenAI GPT 기반 정보 오디오북/팟캐스트 MP3 발전기 <sub>⭐ 157 · Python</sub>
+- [aask1357/fastenhancer](https://github.com/aask1357/fastenhancer) - Speed-optimized 스트리밍 신경 연설 증진 네트워크 <sub>⭐ 156 · Python</sub>
+- [ceva-ip/DPDFNet](https://github.com/ceva-ip/DPDFNet) - DPDFNet을 사용하여 실시간 noisy 연설을 정리 - 연구, 오디오 응용 프로그램 및 가장자리 장치에 대한 오픈 소스 스트리밍 음성 향상. 사전 훈련 된 모델, PyTorch 코드, ONNX / TFLite inference를 포함 ... <sub>⭐ 156 · Python</sub>
+- [danielmiessler/ExtractWisdom](https://github.com/danielmiessler/ExtractWisdom) - AI를 사용하여 모든 종류의 텍스트에서 지혜를 추출하는 AI 신속한 프로젝트, 팟 캐스트 transcripts, 대화, 이야기, 강의, 종이, 기사, 블로그 게시물, 에세이, 프리젠 테이션, 또는 무엇이든... <sub>⭐ 156</sub>
+- [leftthomas/SEGAN](https://github.com/leftthomas/SEGAN) - INTERSPEECH 2017 종이 "SEGAN : Speech Enhancement Generative Adversarial Network"를 기반으로 SEGAN의 PyTorch 구현 <sub>⭐ 156 · Python</sub>
+- [evandempsey/podcast-llm](https://github.com/evandempsey/podcast-llm) - AI 팟캐스트를 전혀 사용하지 않고 에피소드 타이틀로 자동 생성. <sub>⭐ 153 · Python</sub>
+- [AthenaCore/AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) - 학술 연구, 책, 윤리의 코드, 과정, 데이터베이스, 데이터 세트, 프레임 워크, 연구소, 성숙 모델, 뉴스 레터, 원칙, 팟 캐스트, 규정, 보고서 ... <sub>⭐ 152</sub>
+- [PandoraLS/traditional-speech-enhancement](https://github.com/PandoraLS/traditional-speech-enhancement) - 전통적인 Speech Enhancement 방법 <sub>⭐ 151 · MATLAB</sub>
+- [JasonSWFu/MetricGAN](https://github.com/JasonSWFu/MetricGAN) - MetricGAN: 디지털 Adversarial 네트워크 기반 블랙 박스 미터 점수 Speech Enhancement (ICML 2019, 여행 상)에 최적화 <sub>⭐ 150 · MATLAB</sub>
+- [BrendownFerreira/transcriber](https://github.com/BrendownFerreira/transcriber) - Whisper와 오디오 및 비디오에 대한 AI 전원을 공급하는 transcription - 자체 호스팅, 빠르고 개방형. <sub>⭐ 147 · Python</sub>
+- [funcwj/aps](https://github.com/funcwj/aps) - 단일 / 다중 채널 음성 인식 및 향상 & 분리를위한 개인 툴킷. <sub>⭐ 147 · Python</sub>
+- [coaxk/subarr](https://github.com/coaxk/subarr) - 음소거, 측정 및 품질 계층은 결코 없었다. *arr 가족에 대한 동료 서비스는 오디오 언어 감지, 공급자 성공 리더 보드를 캘리브레이션하고 (v1.1)을 추가합니다 ... <sub>⭐ 145 · Python</sub>
+- [taresh18/TTSizer](https://github.com/taresh18/TTSizer) - 고품질로 자동 transcribe 오디오 / 비디오, 스피커 별 텍스트 - TO-Speech datasets <sub>⭐ 145 · Python</sub>
+- [VideotronicMaker/LM-Studio-Voice-Conversation](https://github.com/VideotronicMaker/LM-Studio-Voice-Conversation) - 로컬 LLM과 함께 LM Studio-enhanced 음성 대화를위한 파이썬 앱. 연설을 위해 Whisper를 사용하고 개인 정보 중심의 접근 가능한 인터페이스를 제공합니다. <sub>⭐ 145 · Python</sub>
+- [yufan-aslp/AliMeeting](https://github.com/yufan-aslp/AliMeeting) - 이 프로젝트는 최근 출시 된 ICASSP 2022 멀티 채널 멀티 파티 회의 Transcription Challenge (M2MeT)와 관련되어 있으며, 연설을 위한 기본 시스템을 제공합니다 ... <sub>⭐ 144 · Python</sub>
+- [zhr1201/CNN-for-single-channel-speech-enhancement](https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement) - 단일 채널 연설 향상을위한 Convolutional 신경망 <sub>⭐ 144 · Python</sub>
+- [Zafirmk/BytePods](https://github.com/Zafirmk/BytePods) - AI에 의해 생성 된 일일 팟 캐스트 <sub>⭐ 143</sub>
+- [NaufalRizqullah/opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping) - Ultimate AI Auto-Clipper - 변형형 비디오 및 팟 캐스트 바이럴 반바지! 특징 스마트 페이스 트랙, 킨틱 가라오케 자막, 컨텍스트 B 롤, AI 음성 오버 및 자동 업로드 ... <sub>⭐ 140 · Python</sub>
+- [yigitkonur/cli-bulk-caller](https://github.com/yigitkonur/cli-bulk-caller) - Telnyx를 통해 자동 Whisper transcription과 대량 아웃 바운드 호출 <sub>⭐ 139 · Python</sub>
+- [mathiaschu/watch](https://github.com/mathiaschu/watch) - 비디오 입력을 Claude하십시오. /watch는 YouTube/Instagram/X/Vimeo/any yt-dlp 사이트에서 다운로드하여 프레임을 추출하고 mlx-whisper - API 키와 함께 로컬로 transcribes를 추출합니다. bradautomates/claude-video의 포크. <sub>⭐ 138 · Python</sub>
+- [jakecyr/chatgpt-voice-assistant](https://github.com/jakecyr/chatgpt-voice-assistant) - OpenAI Whisper, Chat Completions 및 Voice Generation을 통합하는 chatbot. 또한 무료 transcription / TTS 옵션을 사용할 수있는 옵션을 제공합니다. <sub>⭐ 137 · Python</sub>
+- [Marvinngg/ambient-voice](https://github.com/Marvinngg/ambient-voice) - macOS 네이티브 주변 음성 입력 및 회의 transcription — Apple SpeechAnalyzer + Vision OCR + FluidAudio 스피커 디어ization, 완전히 on-device. <sub>⭐ 136 · Swift</sub>
+- [merlresearch/tf-locoformer](https://github.com/merlresearch/tf-locoformer) - Convolution for Speech Separation and Enhancement에 의한 Local Modeling과 함께하는 변압기 <sub>⭐ 136 · Python</sub>
+- [avencera/speakrs](https://github.com/avencera/speakrs) - Rust에서 스피커 디어라이징. 312–912x 애플 실리콘, 50–121x CUDA에 실시간. pyannote 정확도 일치합니다. <sub>⭐ 134 · Rust</sub>
+- [Audio-WestlakeU/McNet](https://github.com/Audio-WestlakeU/McNet) - 공식 재포 : "McNet : 멀티 채널 연설 향상을위한 퓨즈 다중 Cues", ICASSP 2023 <sub>⭐ 133 · Python</sub>
+- [tin2tin/Subtitle_Editor](https://github.com/tin2tin/Subtitle_Editor) - Blender VSE - 자동 transcription (Whisper 사용), 수입, 수출, 번역, 목록 기반 편집 및 일괄 텍스트 스타일 변경을위한 자막 편집기. 블렌더 비디오 Sequence Editor (VSE). <sub>⭐ 132 · Python</sub>
+- [appsinacup/godot-whisper](https://github.com/appsinacup/godot-whisper) - GDExtension addon for the Godot Engine that enable a realtime audio transcription, 대부분의 플랫폼을위한 OpenCL을 지원, 애플 기기 용 금속, 별도의 스레드에서 실행. <sub>⭐ 131 · C</sub>
 
 ## 🔊 효과음과 오디오 분석
 
 > 효과음 생성, 분류, 오디오 분석.
 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. <sub>⭐ 34.6k · Python</sub>
-- [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications <sub>⭐ 6.3k · Python</sub>
-- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - (CVPR 2024) Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. <sub>⭐ 5.6k · Python</sub>
-- [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation <sub>⭐ 4.7k · Python</sub>
-- [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation <sub>⭐ 3.9k · Python</sub>
-- [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - AsrTools: Smart Voice-to-Text Tool / Efficient Batch Processing / User-Friendly Interface / No GPU Required / Supports SRT/TXT Output / Turn your audio into accurate text in an instant! <sub>⭐ 3.5k · Python</sub>
-- [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - (NeurIPS 2025) Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation <sub>⭐ 3.0k · Python</sub>
-- [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch <sub>⭐ 2.6k · Python</sub>
-- [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch. <sub>⭐ 2.1k · Python</sub>
-- [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023! <sub>⭐ 1.9k</sub>
-- [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch <sub>⭐ 1.5k · Python</sub>
-- [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more... <sub>⭐ 1.5k · C++</sub>
-- [musicinformationretrieval/musicinformationretrieval.com](https://github.com/musicinformationretrieval/musicinformationretrieval.com) - Instructional notebooks on music information retrieval. <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [declare-lab/tango](https://github.com/declare-lab/tango) - A family of diffusion models for text-to-audio generation. <sub>⭐ 1.2k · Python</sub>
-- [Text-to-Audio/AudioLCM](https://github.com/Text-to-Audio/AudioLCM) - PyTorch Implementation of AudioLCM (ACM-MM'24): a efficient and high-quality text-to-audio generation with latent consistency model. <sub>⭐ 1.2k · Python</sub>
-- [xid32/SoundMind](https://github.com/xid32/SoundMind) - We introduce the Audio Logical Reasoning (ALR) dataset, consisting of 6,446 text-audio annotated samples specifically designed for complex reasoning tasks. Building on this resource, we propose… <sub>⭐ 1.1k · Python</sub>
-- [despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification) - Finding the genre of a song with Deep Learning <sub>⭐ 1.1k · Python</sub>
-- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation. <sub>⭐ 1.1k · Python</sub>
-- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery. <sub>⭐ 910 · JavaScript</sub>
-- [declare-lab/TangoFlux](https://github.com/declare-lab/TangoFlux) - (ICLR 2026) TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching <sub>⭐ 886 · Jupyter Notebook</sub>
-- [AndreyGuzhov/AudioCLIP](https://github.com/AndreyGuzhov/AudioCLIP) - Source code for models described in the paper "AudioCLIP: Extending CLIP to Image, Text and Audio" (https://arxiv.org/abs/2106.13043) <sub>⭐ 874 · Python</sub>
-- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose" (Arxiv 2020) and "Predicting Personalized Head Movement From Short Video and Speech Signal" (TMM 2022) <sub>⭐ 770 · Python</sub>
-- [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs <sub>⭐ 755 · Swift</sub>
-- [VITA-MLLM/VITA-Audio](https://github.com/VITA-MLLM/VITA-Audio) - (NeurIPS 2025) VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model <sub>⭐ 686 · Python</sub>
-- [chrisguttandin/web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API. <sub>⭐ 680 · JavaScript</sub>
-- [Text-to-Audio/Make-An-Audio](https://github.com/Text-to-Audio/Make-An-Audio) - PyTorch Implementation of Make-An-Audio (ICML'23) with a Text-to-Audio Generative Model <sub>⭐ 668 · Python</sub>
-- [yeyupiaoling/AudioClassification-Pytorch](https://github.com/yeyupiaoling/AudioClassification-Pytorch) - The Pytorch implementation of sound classification supports EcapaTdnn, PANNS, TDNN, Res2Net, ResNetSE and other models, as well as a variety of preprocessing methods. <sub>⭐ 604 · Python</sub>
-- [seth814/Audio-Classification](https://github.com/seth814/Audio-Classification) - Code for YouTube series: Deep Learning for Audio Classification <sub>⭐ 586 · Jupyter Notebook</sub>
-- [YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio). <sub>⭐ 552 · HTML</sub>
-- [alibaba/unified-audio](https://github.com/alibaba/unified-audio) - An Open-Source Project to Unify Audio Processing and Generation <sub>⭐ 544 · Python</sub>
-- [soroushmehr/sampleRNN_ICLR2017](https://github.com/soroushmehr/sampleRNN_ICLR2017) - SampleRNN: An Unconditional End-to-End Neural Audio Generation Model <sub>⭐ 543 · Python</sub>
-- [towhee-io/examples](https://github.com/towhee-io/examples) - Analyze the unstructured data with Towhee, such as reverse image search, reverse video search, audio classification, question and answer systems, molecular search, etc. <sub>⭐ 518 · Jupyter Notebook</sub>
-- [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio… <sub>⭐ 514 · Python</sub>
-- [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection" <sub>⭐ 510 · Python</sub>
-- [allanpichardo/Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine. <sub>⭐ 504 · C#</sub>
-- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - a real-time digital-human model for long-form audio-video generation <sub>⭐ 496 · Python</sub>
-- [inclusionAI/Ming-UniAudio](https://github.com/inclusionAI/Ming-UniAudio) - Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation <sub>⭐ 458 · Python</sub>
-- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - (Tech Report) Alive: A Unified Audio-Video Generation Model <sub>⭐ 457</sub>
-- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - (CVPR'23) MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation <sub>⭐ 453 · Python</sub>
-- [openai/GABRIEL](https://github.com/openai/GABRIEL) - An official OpenAI toolkit for social scientists and data scientists to measure quantitative attributes in text, images, or audio using the GPT API. <sub>⭐ 435 · Jupyter Notebook</sub>
-- [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets. <sub>⭐ 433 · Python</sub>
-- [HumanAIGC/omnitalker](https://github.com/HumanAIGC/omnitalker) - (NeurIPS 2025) OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication <sub>⭐ 426 · JavaScript</sub>
-- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - Official Implementation of 'OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model' <sub>⭐ 425 · Python</sub>
-- [LingyiChen-AI/comfyui-workflow-skill](https://github.com/LingyiChen-AI/comfyui-workflow-skill) - Natural language → ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions, auto model download. Supports txt2img, img2img, txt2vid, img2vid, audio, 3D generation across… <sub>⭐ 420</sub>
-- [haoheliu/audioldm_eval](https://github.com/haoheliu/audioldm_eval) - This toolbox aims to unify audio generation model evaluation for easier comparison. <sub>⭐ 395 · Python</sub>
-- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021) <sub>⭐ 369 · Jupyter Notebook</sub>
-- [fudan-generative-vision/Hallo-Live](https://github.com/fudan-generative-vision/Hallo-Live) - (ACM MM 2026) Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation <sub>⭐ 357 · Python</sub>
-- [Zeta36/tensorflow-tex-wavenet](https://github.com/Zeta36/tensorflow-tex-wavenet) - This is a TensorFlow implementation of the WaveNet generative neural network architecture https://deepmind.com/blog/wavenet-generative-model-raw-audio/ for text generation. <sub>⭐ 343 · Python</sub>
-- [cjcliffe/beatdetektor](https://github.com/cjcliffe/beatdetektor) - BeatDetektor BPM detection / visualization library <sub>⭐ 337 · JavaScript</sub>
-- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - Any source (PDF, video, web, audio, text) to interactive learning package with quizzes, flashcards and spaced repetition. One command, 12-section study guide. <sub>⭐ 336 · Python</sub>
-- [rocketseat-education/nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React <sub>⭐ 333 · TypeScript</sub>
-- [haidog-yaqub/EzAudio](https://github.com/haidog-yaqub/EzAudio) - High-quality Text-to-Audio Generation with Efficient Diffusion Transformer <sub>⭐ 332 · Python</sub>
-- [lRomul/argus-freesound](https://github.com/lRomul/argus-freesound) - Kaggle / 1st place solution for Freesound Audio Tagging 2019 <sub>⭐ 313 · Python</sub>
-- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) - Democratizing Native Audio-Video Generation at 2K Resolution <sub>⭐ 311 · Python</sub>
-- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX. <sub>⭐ 306 · Python</sub>
-- [bytedance/Valley](https://github.com/bytedance/Valley) - Valley is a cutting-edge multimodal large model designed to handle a variety of tasks involving text, images, video, and audio data. <sub>⭐ 297 · Python</sub>
-- [deepsound-project/samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch) - PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model <sub>⭐ 294 · Python</sub>
-- [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity (SIGGRAPH Asia 2020) <sub>⭐ 277 · Python</sub>
-- [m3hrdadfi/soxan](https://github.com/m3hrdadfi/soxan) - Wav2Vec for speech recognition, classification, and audio classification <sub>⭐ 277 · Jupyter Notebook</sub>
-- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - Open-source clone of the MidJourney web interface featuring real AI image and video generation powered by Google's Gemini SDK. Use Imagen 4 to generate images and Veo 2 and 3 for image and text to… <sub>⭐ 269 · TypeScript</sub>
-- [IliaZenkov/transformer-cnn-emotion-recognition](https://github.com/IliaZenkov/transformer-cnn-emotion-recognition) - Speech Emotion Classification with novel Parallel CNN-Transformer model built with PyTorch, plus thorough explanations of CNNs, Transformers, and everything in between <sub>⭐ 268 · Jupyter Notebook</sub>
-- [Advocate99/DiffGesture](https://github.com/Advocate99/DiffGesture) - (CVPR'2023) Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation <sub>⭐ 265 · Python</sub>
-- [gionanide/Speech_Signal_Processing_and_Classification](https://github.com/gionanide/Speech_Signal_Processing_and_Classification) - Front-end speech processing aims at extracting proper features from short- term segments of a speech utterance, known as frames. It is a pre-requisite step toward any pattern recognition problem… <sub>⭐ 257 · Python</sub>
-- [zbanks/radiance](https://github.com/zbanks/radiance) - Radiance is video art software for VJs. It supports beat detection, animated GIFs, YouTube video, OpenGL shader effects. It is designed for live performance and runs on Linux and MacOS. <sub>⭐ 249 · Rust</sub>
-- [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs) - The Google mediapipe AI library. Write AI inference applications for image recognition, text classification, audio / video processing and more, in Rust and run them in the secure WasmEdge sandbox.… <sub>⭐ 248 · Rust</sub>
-- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - Run MiniMax Hailuo H3 and LTX-2.5 video generation locally on a Mac. Joint audio+video, character LoRA training, one-click Pinokio install. MLX — no CUDA, no cloud, no API key. <sub>⭐ 244 · Python</sub>
-- [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal is a state-of-the-art framework for invisible, robust watermarking across all modalities audio, image, video, and text. This suite spans the entire generative lifecycle, from training… <sub>⭐ 242 · HTML</sub>
-- [xingchensong/TouchNet](https://github.com/xingchensong/TouchNet) - A native-PyTorch library for large scale M-LLM (text/audio) training with tp/cp/dp. <sub>⭐ 235 · Python</sub>
-- [PABannier/encodec.cpp](https://github.com/PABannier/encodec.cpp) - Fast neural codec compression and generation for audio waveforms <sub>⭐ 232 · C++</sub>
-- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - (ECCV 2022 Oral) Code for "Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation" <sub>⭐ 227 · Python</sub>
-- [YoungSeng/DiffuseStyleGesture](https://github.com/YoungSeng/DiffuseStyleGesture) - DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models (IJCAI 2023) / The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 (ICMI 2023, Reproducibility… <sub>⭐ 215 · Python</sub>
-- [danthelion/doc2audiobook](https://github.com/danthelion/doc2audiobook) - Convert text documents to high fidelity audio(books). <sub>⭐ 203 · Python</sub>
-- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - (ECCV 2026 Oral) Official implementation of "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation"(arXiv:2603.11647). OmniForcing is the first framework to distill bidirectional… <sub>⭐ 198 · Python</sub>
-- [happylittlecat2333/Auffusion](https://github.com/happylittlecat2333/Auffusion) - Official codes and models of the paper "Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation" <sub>⭐ 195 · Jupyter Notebook</sub>
-- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) - Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account rotation. For Claude Code, Codex, Cursor, n8n, Zapier, Make. <sub>⭐ 188 · TypeScript</sub>
-- [akras14/speech-to-text](https://github.com/akras14/speech-to-text) - Example transcribing audio file (speech) to text with Google Cloud Speech API and Python <sub>⭐ 182 · Python</sub>
-- [wassengerhq/whatsapp-chatgpt-bot](https://github.com/wassengerhq/whatsapp-chatgpt-bot) - Ready-to-use AI Multimodal ChatGPT-based WhatsApp chatbot assistant for your business. Now supports GPT-4o with text + audio + image input, audio responses, and improved RAG + MCP <sub>⭐ 181 · JavaScript</sub>
-- [B4PT0R/streamlit-mic-recorder](https://github.com/B4PT0R/streamlit-mic-recorder) - Streamlit component allowing to record audio from the user's microphone and/or perform speech to text easily <sub>⭐ 178 · Python</sub>
-- [if-ai/ComfyUI_HunyuanVideoFoley](https://github.com/if-ai/ComfyUI_HunyuanVideoFoley) - HunyuanVideoFoley generates SFX audio to match your video and text prompt <sub>⭐ 178 · Python</sub>
-- [smoke-trees/Voice-synthesis](https://github.com/smoke-trees/Voice-synthesis) - This repository is an implementation of Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis (SV2TTS) with a vocoder that works in real-time. SV2TTS is a three-stage… <sub>⭐ 170 · Python</sub>
-- [imfing/audio-classification](https://github.com/imfing/audio-classification) - Environmental sound classification using Deep Learning with extracted features <sub>⭐ 169 · Python</sub>
-- [wgwang/awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) - Awesome LLM Benchmarks to evaluate the LLMs across text, code, image, audio, video and more. <sub>⭐ 169</sub>
-- [JiSenHua/ComfyUI-TD](https://github.com/JiSenHua/ComfyUI-TD) - ComfyUI to TouchDesigner custom node for real-time streaming of images, video, 3D models, audio, and text. <sub>⭐ 166 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [owenawsong/Inflect](https://github.com/owenawsong/Inflect) - Inflect is a lightweight, high‑quality text‑to‑speech model designed to deliver surprisingly natural audio with a minimal footprint. It’s an active work‑in‑progress focused on fast iteration, strong… <sub>⭐ 160 · Python</sub>
-- [AARG-FAN/Yolo_for_Wukong](https://github.com/AARG-FAN/Yolo_for_Wukong) - a simple project to beat boss in Blackmyth Wukong, using yolo8 to detect boss movement and a script to react to certain detections <sub>⭐ 158 · Python</sub>
-- [RayZ3R0/tidaloader](https://github.com/RayZ3R0/tidaloader) - A full-stack web application for managing and organizing audio libraries via the Tidal API with intelligent playlist generation. <sub>⭐ 158 · JavaScript</sub>
-- [davidscmx/radar-target-generation-and-detection](https://github.com/davidscmx/radar-target-generation-and-detection) - Configures the FMCW waveform based on the system requirements. Then defines the range and velocity of a target and simulates its displacement. For the same simulation loop process, the transmit and… <sub>⭐ 157 · MATLAB</sub>
-- [zghhui/OmniNFT](https://github.com/zghhui/OmniNFT) - Code for "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation" <sub>⭐ 157 · Python</sub>
-- [richardassar/SampleRNN_torch](https://github.com/richardassar/SampleRNN_torch) - Torch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model <sub>⭐ 156 · Lua</sub>
-- [yzxing87/Seeing-and-Hearing](https://github.com/yzxing87/Seeing-and-Hearing) - (CVPR 2024) Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners <sub>⭐ 155 · Python</sub>
-- [xiaomi-research/controlfoley](https://github.com/xiaomi-research/controlfoley) - (ACM MM 2026) ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling <sub>⭐ 154 · Python</sub>
-- [xiquan-li/MeanAudio](https://github.com/xiquan-li/MeanAudio) - (ACL 2026 Main) MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows <sub>⭐ 153 · Python</sub>
-- [Aseiel/VideoHighlighter](https://github.com/Aseiel/VideoHighlighter) - Open-source local AI video analyzer powered by Ollama. Visual search, automatic highlights, scene/action/object detection, audio analysis, and subtitle generation. Free, offline alternative to Twelve… <sub>⭐ 152 · Python</sub>
-- [MeiGen-AI/llia](https://github.com/MeiGen-AI/llia) - LLIA - Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models <sub>⭐ 152</sub>
-- [Zeta36/tensorflow-image-wavenet](https://github.com/Zeta36/tensorflow-image-wavenet) - This is a TensorFlow implementation of the WaveNet generative neural network architecture https://deepmind.com/blog/wavenet-generative-model-raw-audio/ for image generation. <sub>⭐ 151 · Python</sub>
-- [jigargajjar55/Audio-Speech-To-Sign-Language-Converter](https://github.com/jigargajjar55/Audio-Speech-To-Sign-Language-Converter) - A web based application which accepts Audio speech or Text as input and converts it to corresponding Indian Sign Language for impaired of speaking or impaired of hearing and deaf people. <sub>⭐ 150 · HTML</sub>
-- [jesse-scam/algorithmic-beat-mapping-unity](https://github.com/jesse-scam/algorithmic-beat-mapping-unity) - Real-time and Preprocessed Audio Analysis for Onset Detection (Beat Mapping) Using Spectral Flux <sub>⭐ 149 · C#</sub>
-- [jaron/deep-listening](https://github.com/jaron/deep-listening) - Deep Learning experiments for audio classification <sub>⭐ 148 · Jupyter Notebook</sub>
-- [Anil-matcha/awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) - FLUX 3 video API and image API guide, prompts, parameters, and examples for Black Forest Labs' unified text-to-video, image-to-video, image, and audio generation model <sub>⭐ 147</sub>
-- [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation) - A curated list of resources of audio-driven talking face generation <sub>⭐ 145</sub>
-- [ArchiveBox/abx-dl](https://github.com/ArchiveBox/abx-dl) - A simple all-in-one CLI tool to download EVERYTHING from a URL (like youtube-dl/yt-dlp, forum-dl, gallery-dl, simpler ArchiveBox). Uses headless Chrome to get HTML, JS, CSS… <sub>⭐ 144 · Python</sub>
-- [pgmichael/wavenet-for-chrome](https://github.com/pgmichael/wavenet-for-chrome) - Chrome extension that transforms highlighted text into high-quality natural sounding audio using Google Cloud's Text-to-Speech. <sub>⭐ 144 · TypeScript</sub>
-- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. <sub>⭐ 142 · Go</sub>
-- [gustavostz/whisper-clip](https://github.com/gustavostz/whisper-clip) - WhisperClip simplifies your life by automatically transcribing audio recordings and saving the text directly to your clipboard. With just a click of a button, you can effortlessly convert spoken… <sub>⭐ 139 · Python</sub>
-- [princepainter/ComfyUI-PainterAI2V](https://github.com/princepainter/ComfyUI-PainterAI2V) - PainterAI2V integrates InfiniteTalk lip-sync with Wan2.2's dual-model architecture, enabling precise frame-rate synchronized audio-visual generation with first/last frame control. It supports… <sub>⭐ 139 · Python</sub>
-- [NVIDIA/audio-intelligence](https://github.com/NVIDIA/audio-intelligence) - Elucidated Text-To-Audio (ETTA) is a SOTA text-to-audio model with a holistic understanding of the design space and trained with synthetic captions. <sub>⭐ 138 · Python</sub>
-- [micah5/pyAudioClassification](https://github.com/micah5/pyAudioClassification) - dead simple audio classification <sub>⭐ 137 · Python</sub>
-- [hosseinhezami/laravel-gemini](https://github.com/hosseinhezami/laravel-gemini) - A production-ready Laravel package to integrate with the Google Gemini API. Supports text, image, video, audio, long-context, structured output, files, caching, function-calling and understanding… <sub>⭐ 136 · PHP</sub>
-- [miguelvalente/whisperer](https://github.com/miguelvalente/whisperer) - Go from raw audio files to a text-audio dataset automatically with OpenAI's Whisper. <sub>⭐ 136 · Jupyter Notebook</sub>
-- [phr00t/AutoStepper](https://github.com/phr00t/AutoStepper) - Java tool to automate StepMania SM generation. Complete generation with banner & background art, all difficulty levels, multiple beat detection methods etc. <sub>⭐ 136 · Java</sub>
-- [lkmeta/txtify](https://github.com/lkmeta/txtify) - Web application that converts audio and video to text using AI, supporting various formats and self-hosting. <sub>⭐ 135 · Python</sub>
-- [cyberkitsune/vrc-osc-scripts](https://github.com/cyberkitsune/vrc-osc-scripts) - VRChat Chatbox OSC scripts for speech to text and audio now playing <sub>⭐ 134 · Python</sub>
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 유포자: PyTorch에 있는 이미지, 영상 및 오디오 발생을 위한 국가 예술 확산 모형. <sub>⭐ 34.6k · Python</sub>
+- [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python 오디오 분석 라이브러리: 기능 추출, 분류, 세그먼트 및 응용 <sub>⭐ 6.3k · Python</sub>
+- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - (CVPR 2024) 공식 RT-DETR (RTDETR 패들 pytorch), 실시간 전투기, DETRs Beat YOLOs on Real-time Object Detection. <sub>⭐ 5.6k · Python</sub>
+- [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, 오디오 이해, 세대 및 대화에서 열린 음악 기반 모델 <sub>⭐ 4.7k · Python</sub>
+- [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - 상태 오디오 생성을위한 모델 <sub>⭐ 3.9k · Python</sub>
+- [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - AsrTools: Smart Voice-to-Text Tool / 효율적인 배치 처리 / 사용자 친화적 인 인터페이스 / GPU 필요 없음 / SRT / TXT 출력 지원 / 즉시 정확한 텍스트로 오디오를 켜십시오! <sub>⭐ 3.5k · Python</sub>
+- [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - (NeurIPS 2025) Them Talk : 오디오 드라이버 멀티 팩터 프로덕션 비디오 생성 <sub>⭐ 3.0k · Python</sub>
+- [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - AudioLM, SOTA Language Modeling Approach to Audio Generation을 Pytorch에서 구현합니다. <sub>⭐ 2.6k · Python</sub>
+- [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - PyTorch에서 확산 모델을 사용하여 오디오 생성. <sub>⭐ 2.1k · Python</sub>
+- [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - 2023년 시작된 오디오 세대를 위한 최신 AI 모델의 타임라인! <sub>⭐ 1.9k</sub>
+- [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - SoundStorm의 구현, Google Deepmind에서 효율적인 병렬 오디오 발생, Pytorch <sub>⭐ 1.5k · Python</sub>
+- [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0은 오디오 소스, 이중 프리셋 (.milk2)를 지원하며 비트 감지 및 훨씬 더 많은 것을 기반으로 한 사전 설정로드 ... <sub>⭐ 1.5k · C++</sub>
+- [musicinformationretrieval/musicinformationretrieval.com](https://github.com/musicinformationretrieval/musicinformationretrieval.com) - 음악 정보 retrieval에서 사용 가능한 노트북. <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [declare-lab/tango](https://github.com/declare-lab/tango) - 본문에 대 한 확산 모델의 가족-to-audio 세대. <sub>⭐ 1.2k · Python</sub>
+- [Text-to-Audio/AudioLCM](https://github.com/Text-to-Audio/AudioLCM) - AudioLCM (ACM-MM'24)의 PyTorch 구현 : 늦은 일관성 모델과 효율적인 고품질 텍스트 - 오디오 생성. <sub>⭐ 1.2k · Python</sub>
+- [xid32/SoundMind](https://github.com/xid32/SoundMind) - 우리는 단지 이유 작업을 위해 특별히 설계 된 6,446 텍스트audio annotated 샘플로 구성된 오디오 로직 리슨 (ALR) 데이터 세트를 소개합니다. 이 리소스에 건물, 우리는 제안 ... <sub>⭐ 1.1k · Python</sub>
+- [despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification) - 딥러닝과 함께 노래의 장르 찾기 <sub>⭐ 1.1k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - HunyuanVideo-Foley: 고휘도 Foley 오디오 발생을 위한 Representation Alignment를 가진 다modal 확산. <sub>⭐ 1.1k · Python</sub>
+- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - Flatkey 미디어 생성 이미지, 비디오, 오디오, 텍스트, 크레딧 및 모델 검색에 대한 CLI. <sub>⭐ 910 · JavaScript</sub>
+- [declare-lab/TangoFlux](https://github.com/declare-lab/TangoFlux) - (ICLR 2026) TangoFlux : 흐름 일치와 오디오 발생에 대한 최고 빠르고 믿음있는 텍스트 <sub>⭐ 886 · Jupyter Notebook</sub>
+- [AndreyGuzhov/AudioCLIP](https://github.com/AndreyGuzhov/AudioCLIP) - 종이 "AudioCLIP : 이미지, 텍스트 및 오디오에 CLIP를 확장 (https://arxiv.org/abs/2106.13043) <sub>⭐ 874 · Python</sub>
+- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - "Audio-driven Talking Face Video Generation with Learning 기반 맞춤형 헤드 Pose"(Arxiv 2020) 및 "짧은 비디오와 연설 신호에서 개인화 된 헤드 운동 예측" (TMM 2022) <sub>⭐ 770 · Python</sub>
+- [freedmand/textra](https://github.com/freedmand/textra) - 이미지, PDF 및 오디오 파일을 Apple의 API를 사용하여 텍스트로 변환하는 명령행 응용 프로그램 <sub>⭐ 755 · Swift</sub>
+- [VITA-MLLM/VITA-Audio](https://github.com/VITA-MLLM/VITA-Audio) - (NeurIPS 2025) VITA-Audio : 효율적인 대형 Speech-Language Model을 위한 빠른 Interleaved Cross-Modal Token Generation <sub>⭐ 686 · Python</sub>
+- [chrisguttandin/web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - Web Audio API를 사용하는 Beat Detection 유틸리티입니다. <sub>⭐ 680 · JavaScript</sub>
+- [Text-to-Audio/Make-An-Audio](https://github.com/Text-to-Audio/Make-An-Audio) - Make-An-Audio (ICML'23)의 PyTorch 구현 <sub>⭐ 668 · Python</sub>
+- [yeyupiaoling/AudioClassification-Pytorch](https://github.com/yeyupiaoling/AudioClassification-Pytorch) - 사운드 분류의 Pytorch 구현은 EcapaTdnn, PANNS, TDNN, Res2Net, ResNetSE 및 기타 모델뿐만 아니라 다양한 사전 처리 방법을 지원합니다. <sub>⭐ 604 · Python</sub>
+- [seth814/Audio-Classification](https://github.com/seth814/Audio-Classification) - YouTube 시리즈에 대한 코드 : 오디오 분류를위한 딥러닝 <sub>⭐ 586 · Jupyter Notebook</sub>
+- [YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - LLMs 기반 멀티모드 세대 (이미지, 비디오, 3D 및 오디오)에 종이의 큐레이터 목록. <sub>⭐ 552 · HTML</sub>
+- [alibaba/unified-audio](https://github.com/alibaba/unified-audio) - Open-Source 프로젝트는 오디오 처리 및 생성을 취소합니다. <sub>⭐ 544 · Python</sub>
+- [soroushmehr/sampleRNN_ICLR2017](https://github.com/soroushmehr/sampleRNN_ICLR2017) - SampleRNN: Unconditional End-to-End 신경 음성 발생 모델 <sub>⭐ 543 · Python</sub>
+- [towhee-io/examples](https://github.com/towhee-io/examples) - 역 이미지 검색, 반전 영상 수색, 오디오 분류, 질문 및 대답 체계, 분자 수색, 등과 같은 Towhee를 가진 unstructured 자료 분석하십시오. <sub>⭐ 518 · Jupyter Notebook</sub>
+- [apocas/restai](https://github.com/apocas/restai) - RESTai는 AIaaS (AI as a Service) 오픈 소스 플랫폼입니다. Ollama / vLLM / etc.에 의해 많은 공공 및 지역 LLM을 지원 합니다. 정확한 embeddings 사용, 튜닝, 분석 등 내장 이미지/오디오... <sub>⭐ 514 · Python</sub>
+- [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - "HTS-AT : Sound Classification 및 Detection을위한 Hierarchical Token-Semantic Audio Transformer"의 공식 코드 재포 <sub>⭐ 510 · Python</sub>
+- [allanpichardo/Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Unity 게임 엔진과 함께 사용할 수 있는 Musical Beat Detection 및 오디오 스펙트럼 분석. <sub>⭐ 504 · C#</sub>
+- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - 긴 형식의 오디오 비디오 생성을 위한 실시간 디지털-human 모델 <sub>⭐ 496 · Python</sub>
+- [inclusionAI/Ming-UniAudio](https://github.com/inclusionAI/Ming-UniAudio) - Ming-UniAudio : 합동 이해, 세대 및 편집을위한 연설 LLM Unified Representation <sub>⭐ 458 · Python</sub>
+- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - (Tech Report) Alive : 통합 된 오디오 비디오 생성 모델 <sub>⭐ 457</sub>
+- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - (CVPR'23) MM-Diffusion: 합동 오디오와 영상 발생을 위한 다 형태 확산 모형 <sub>⭐ 453 · Python</sub>
+- [openai/GABRIEL](https://github.com/openai/GABRIEL) - 소셜 과학자 및 데이터 과학자들을위한 공식 OpenAI 도구 키트는 텍스트, 이미지 또는 GPT API를 사용하여 오디오에서 정량 속성을 측정합니다. <sub>⭐ 435 · Jupyter Notebook</sub>
+- [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - neural 네트워크 및 여러 데이터 세트를 사용하여 오디오 파일에서 감정을 이해합니다. <sub>⭐ 433 · Python</sub>
+- [HumanAIGC/omnitalker](https://github.com/HumanAIGC/omnitalker) - (NeurIPS 2025) OmniTalker: In-Context Audio-Visual Style Replication과 실시간 텍스트 드라이브 토크 헤드 생성 <sub>⭐ 426 · JavaScript</sub>
+- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - 'OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model'의 공식 구현 <sub>⭐ 425 · Python</sub>
+- [LingyiChen-AI/comfyui-workflow-skill](https://github.com/LingyiChen-AI/comfyui-workflow-skill) - Natural language → ComfyUI 워크플로우 JSON. 34 내장 템플릿, 360+ 노드 정의, 자동 모델 다운로드. 지원 txt2img, img2img, txt2vid, img2vid, 오디오, 3D 세대 ... <sub>⭐ 420</sub>
+- [haoheliu/audioldm_eval](https://github.com/haoheliu/audioldm_eval) - 이 툴박스는 보다 쉽게 비교할 수 있는 오디오 생성 모델 평가를 취소하는 것을 목표로 합니다. <sub>⭐ 395 · Python</sub>
+- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - "Taming Visually Guided Sound Generation" (BMVC 2021에서 중성)에 대한 소스 코드 <sub>⭐ 369 · Jupyter Notebook</sub>
+- [fudan-generative-vision/Hallo-Live](https://github.com/fudan-generative-vision/Hallo-Live) - (ACM MM 2026) Hallo-Live : 실시간 스트리밍 공동 오디오 비디오 아바타 세대 <sub>⭐ 357 · Python</sub>
+- [Zeta36/tensorflow-tex-wavenet](https://github.com/Zeta36/tensorflow-tex-wavenet) - 이것은 WaveNet 유전 신경 네트워크 아키텍처의 TensorFlow 구현입니다 https://deepmind.com/blog/wavenet-generative-model-raw-audio/ 텍스트 생성을위한. <sub>⭐ 343 · Python</sub>
+- [cjcliffe/beatdetektor](https://github.com/cjcliffe/beatdetektor) - BeatDetektor BPM 검출 / 시각화 라이브러리 <sub>⭐ 337 · JavaScript</sub>
+- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - 모든 소스 (PDF, 비디오, 웹, 오디오, 텍스트) 퀴즈, 플래시 카드 및 공간 반복과 상호 작용 학습 패키지. 하나의 명령, 12 섹션 연구 가이드. <sub>⭐ 336 · Python</sub>
+- [rocketseat-education/nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - React로 텍스트에 자동 변환 오디오 노트 <sub>⭐ 333 · TypeScript</sub>
+- [haidog-yaqub/EzAudio](https://github.com/haidog-yaqub/EzAudio) - 효율적인 Diffusion 변압기를 가진 고품질 텍스트 - 투 - 오디오 세대 <sub>⭐ 332 · Python</sub>
+- [lRomul/argus-freesound](https://github.com/lRomul/argus-freesound) - Kaggle / Freesound Audio Tagging 2019의 1 위 솔루션 <sub>⭐ 313 · Python</sub>
+- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) - 2K 해상도에서 Native Audio-Video Generation을 동기화 <sub>⭐ 311 · Python</sub>
+- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video는 MLX를 사용하여 Mac에서 이미지 비디오 오디오 세대 모델의 인스퍼 및 미세 조정을위한 최고의 패키지입니다. <sub>⭐ 306 · Python</sub>
+- [bytedance/Valley](https://github.com/bytedance/Valley) - Valley는 텍스트, 이미지, 비디오 및 오디오 데이터를 포함하는 다양한 작업을 처리하도록 설계된 최첨단 멀티모드 대형 모델입니다. <sub>⭐ 297 · Python</sub>
+- [deepsound-project/samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch) - SampleRNN의 PyTorch 구현: Unconditional End-to-End Neural Audio Generation 모델 <sub>⭐ 294 · Python</sub>
+- [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) - 텍스트, 오디오 및 스피커 식별 (SIGGRAPH Asia 2020)의 Trimodal Context에서 연설 Gesture 세대 <sub>⭐ 277 · Python</sub>
+- [m3hrdadfi/soxan](https://github.com/m3hrdadfi/soxan) - Wav2Vec 음성 인식, 분류 및 오디오 분류 <sub>⭐ 277 · Jupyter Notebook</sub>
+- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - Open-source clone of the MidJourney web interface with real AI image and video generation powered by Google's Gemini SDK. Imagen 4를 사용하여 이미지를 생성하고 Veo 2 및 3 이미지와 텍스트에 대한 ... <sub>⭐ 269 · TypeScript</sub>
+- [IliaZenkov/transformer-cnn-emotion-recognition](https://github.com/IliaZenkov/transformer-cnn-emotion-recognition) - PyTorch와 내장 된 소설 병렬 CNN-Transformer 모델과 강연 Emotion 분류, CNNs, 변압기 및 모든 것들의 철저한 설명 <sub>⭐ 268 · Jupyter Notebook</sub>
+- [Advocate99/DiffGesture](https://github.com/Advocate99/DiffGesture) - (CVPR'2023) 오디오 드라이버 Co-Speech Gesture 세대를 위한 탬핑 확산 모형 <sub>⭐ 265 · Python</sub>
+- [gionanide/Speech_Signal_Processing_and_Classification](https://github.com/gionanide/Speech_Signal_Processing_and_Classification) - Front-end 연설 처리는 프레임으로 알려진 연설 utterance의 짧은 용어 세그먼트에서 적절한 기능을 추출하는 것을 목표로합니다. 그것은 모든 패턴 인식 문제에 대한 사전 요구 사항 단계입니다 ... <sub>⭐ 257 · Python</sub>
+- [zbanks/radiance](https://github.com/zbanks/radiance) - Radiance는 VJs를 위한 영상 예술 소프트웨어입니다. 그것은 비트 탐지, 애니메이션 GIF, YouTube 영상, OpenGL 셰이퍼 효력을 지원합니다. 그것은 살아있는 성과를 위해 디자인되고 리눅스와 MacOS에 달립니다. <sub>⭐ 249 · Rust</sub>
+- [WasmEdge/mediapipe-rs](https://github.com/WasmEdge/mediapipe-rs) - Google Mediapipe AI 라이브러리. 이미지 인식, 텍스트 분류, 오디오 / 비디오 처리 및 Rust에서 AI inference 응용 프로그램을 작성하고 안전한 WasmEdge sandbox에 실행하십시오. ... <sub>⭐ 248 · Rust</sub>
+- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - MiniMax Hailuo H3 및 LTX-2.5 비디오 생성을 Mac에서 로컬로 실행하십시오. 합동 audio+video, 캐릭터 LoRA 훈련, 원 클릭 Pinokio 설치. MLX - CUDA 없음, 클라우드 없음, API 키 없습니다. <sub>⭐ 244 · Python</sub>
+- [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal은 모든 modalities 오디오, 이미지, 비디오 및 텍스트를 통해 보이지 않는 견고한 워터 마크를위한 최첨단 프레임 워크입니다. 이 스위트는 전체 유전 수명주기에 걸쳐 훈련 ... <sub>⭐ 242 · HTML</sub>
+- [xingchensong/TouchNet](https://github.com/xingchensong/TouchNet) - 대규모 M-LLM(텍스트/오디오) 교육용 네이티브 PyTorch 라이브러리 <sub>⭐ 235 · Python</sub>
+- [PABannier/encodec.cpp](https://github.com/PABannier/encodec.cpp) - 오디오 파형을 위한 빠른 신경 코덱 압축 및 발생 <sub>⭐ 232 · C++</sub>
+- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - (ECCV 2022 구두) 코드 "Semantic-Aware Implicit Neural Audio-Driven 비디오 Portrait Generation" <sub>⭐ 227 · Python</sub>
+- [YoungSeng/DiffuseStyleGesture](https://github.com/YoungSeng/DiffuseStyleGesture) - DiffuseStyleGesture : Diffusion Models (IJCAI 2023) / DiffuseStyleGesture + 항목에 대한 GENEA Challenge 2023 (ICMI 2023, Reproducibility ... <sub>⭐ 215 · Python</sub>
+- [danthelion/doc2audiobook](https://github.com/danthelion/doc2audiobook) - 텍스트 문서를 높은 fidelity 오디오(books)로 변환합니다. <sub>⭐ 203 · Python</sub>
+- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - (ECCV 2026 구두) "OmniForcing의 공식 구현 : 실시간 공동 오디오 - 음성 발생"(arXiv:2603.11647)을 밝히기위한 최초의 프레임 워크입니다 ... <sub>⭐ 198 · Python</sub>
+- [happylittlecat2333/Auffusion](https://github.com/happylittlecat2333/Auffusion) - 종이 "Auffusion의 공식 코드 및 모델 : Text-to-Audio Generation 용 Diffusion과 대형 언어 모델의 힘을 활용하여 <sub>⭐ 195 · Jupyter Notebook</sub>
+- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) - MCP + 로컬 HTTP REST API를 통해 Google NotebookLM. 인용 백업 Q & A, 오디오 / 비디오 / 콘텐츠 생성, 멀티 계정 교체. Claude Code, Codex, Cursor, n8n, Zapier, Make에 대 한. <sub>⭐ 188 · TypeScript</sub>
+- [akras14/speech-to-text](https://github.com/akras14/speech-to-text) - Google Cloud Speech API 및 Python과 같은 텍스트로 오디오 파일 (speech)를 transcribing 예제 <sub>⭐ 182 · Python</sub>
+- [wassengerhq/whatsapp-chatgpt-bot](https://github.com/wassengerhq/whatsapp-chatgpt-bot) - 지원 AI Multimodal ChatGPT 기반 WhatsApp chatbot Assistant 비즈니스. 이제 텍스트 + 오디오 + 이미지 입력, 오디오 응답 및 향상된 RAG + MCP와 GPT-4o를 지원합니다 <sub>⭐ 181 · JavaScript</sub>
+- [B4PT0R/streamlit-mic-recorder](https://github.com/B4PT0R/streamlit-mic-recorder) - Streamlit 구성 요소는 사용자의 마이크 및 / 또는 텍스트를 쉽게 수행 할 수 있습니다 <sub>⭐ 178 · Python</sub>
+- [if-ai/ComfyUI_HunyuanVideoFoley](https://github.com/if-ai/ComfyUI_HunyuanVideoFoley) - HunyuanVideoFoley는 비디오 및 텍스트 프롬프트와 일치하기 위해 SFX 오디오를 생성합니다. <sub>⭐ 178 · Python</sub>
+- [smoke-trees/Voice-synthesis](https://github.com/smoke-trees/Voice-synthesis) - 이 저장소는 스피커 Verification에서 Multispeaker Text-To-Speech Synthesis (SV2TTS)로 전송 학습의 구현으로 실시간 작동되는 vocoder가 있습니다. SV2TTS는 세 단계입니다 ... <sub>⭐ 170 · Python</sub>
+- [imfing/audio-classification](https://github.com/imfing/audio-classification) - Deep Learning을 이용한 친환경 사운드 분류 <sub>⭐ 169 · Python</sub>
+- [wgwang/awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) - 텍스트, 코드, 이미지, 오디오, 비디오 등을 통해 LLM을 평가하는 멋진 LLM 벤치 마크. <sub>⭐ 169</sub>
+- [JiSenHua/ComfyUI-TD](https://github.com/JiSenHua/ComfyUI-TD) - ComfyUI to TouchDesigner 사용자 정의 노드 이미지, 비디오, 3D 모델, 오디오 및 텍스트의 실시간 스트리밍. <sub>⭐ 166 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C 전략적 하이라이트 9 월 2019 이 보고서는 9 월에 준비되었습니다. 2019 W3C 자문위원회 회의 (W3C 회원 링크). W3C 사실 시트를 동반하십시오 - 9 월 2019. ... <sub>⭐ 160</sub>
+- [owenawsong/Inflect](https://github.com/owenawsong/Inflect) - Inflect는 경량, 고품질 텍스트 ‐ to-speech 모델은 최소 발자국과 놀라운 자연 오디오를 제공하도록 설계되었습니다. 그것은 빠른 반복에 초점을 맞춘 활성 작업 인 ‐progress입니다 ... <sub>⭐ 160 · Python</sub>
+- [AARG-FAN/Yolo_for_Wukong](https://github.com/AARG-FAN/Yolo_for_Wukong) - Blackmyth Wukong에서 보스를 묶는 간단한 프로젝트, yolo8을 사용하여 보스 운동과 스크립트를 감지하여 특정 검출에 반응합니다. <sub>⭐ 158 · Python</sub>
+- [RayZ3R0/tidaloader](https://github.com/RayZ3R0/tidaloader) - Tidal API를 통해 오디오 라이브러리 관리 및 구성을위한 풀스택 웹 응용 프로그램 지능형 재생 목록 생성. <sub>⭐ 158 · JavaScript</sub>
+- [davidscmx/radar-target-generation-and-detection](https://github.com/davidscmx/radar-target-generation-and-detection) - 시스템 요구 사항에 따라 FMCW 파형 구성. 그런 다음 대상의 범위와 각도를 정의하고 진지변환을 시뮬레이션합니다. 동일한 시뮬레이션 루프 프로세스, 전달 및 ... <sub>⭐ 157 · MATLAB</sub>
+- [zghhui/OmniNFT](https://github.com/zghhui/OmniNFT) - "OmniNFT : 합동 오디오 - 비디오 생성을위한 Modality-wise Omni Diffusion Reinforcement"의 코드 <sub>⭐ 157 · Python</sub>
+- [richardassar/SampleRNN_torch](https://github.com/richardassar/SampleRNN_torch) - SampleRNN의 토치 구현: Unconditional End-to-End Neural Audio Generation 모델 <sub>⭐ 156 · Lua</sub>
+- [yzxing87/Seeing-and-Hearing](https://github.com/yzxing87/Seeing-and-Hearing) - (CVPR 2024) 보고 및 Hearing: Diffusion Latent Aligners를 가진 Open-domain Visual-Audio 발생 <sub>⭐ 155 · Python</sub>
+- [xiaomi-research/controlfoley](https://github.com/xiaomi-research/controlfoley) - (ACM MM 2026) ControlFoley : Cross-Modal Conflict 처리와 통합 및 제어 가능한 비디오 - 오디오 발생 <sub>⭐ 154 · Python</sub>
+- [xiquan-li/MeanAudio](https://github.com/xiquan-li/MeanAudio) - (ACL 2026 Main) MeanAudio : 평균 흐름과 빠른 믿음직한 텍스트 - 오디오 세대 <sub>⭐ 153 · Python</sub>
+- [Aseiel/VideoHighlighter](https://github.com/Aseiel/VideoHighlighter) - 오픈 소스 로컬 AI 비디오 분석기 Ollama에 의해 구동. 비주얼 검색, 자동 하이라이트, 장면 / 액션/오브젝트 감지, 오디오 분석 및 자막 생성. 무료, 오프라인 대안 Twelve... <sub>⭐ 152 · Python</sub>
+- [MeiGen-AI/llia](https://github.com/MeiGen-AI/llia) - LLIA - 저전력 대화 형 아바타를 활성화 : Diffusion Models가있는 실시간 오디오 드라이버 비디오 생성 <sub>⭐ 152</sub>
+- [Zeta36/tensorflow-image-wavenet](https://github.com/Zeta36/tensorflow-image-wavenet) - 이것은 WaveNet 유전 신경 네트워크 아키텍처의 TensorFlow 구현입니다 https://deepmind.com/blog/wavenet-generative-model-raw-audio/ 이미지 생성에 대한. <sub>⭐ 151 · Python</sub>
+- [jigargajjar55/Audio-Speech-To-Sign-Language-Converter](https://github.com/jigargajjar55/Audio-Speech-To-Sign-Language-Converter) - 오디오 연설 또는 텍스트를 입력하고 청각 및 deaf 사람들의 임박하거나 임박한 인디언 서명 언어로 변환하는 웹 기반 응용 프로그램입니다. <sub>⭐ 150 · HTML</sub>
+- [jesse-scam/algorithmic-beat-mapping-unity](https://github.com/jesse-scam/algorithmic-beat-mapping-unity) - Inset Detection (Beat Mapping)을 위한 실시간 및 전처리된 오디오 분석 <sub>⭐ 149 · C#</sub>
+- [jaron/deep-listening](https://github.com/jaron/deep-listening) - 오디오 분류를 위한 딥러닝 실험 <sub>⭐ 148 · Jupyter Notebook</sub>
+- [Anil-matcha/awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) - FLUX 3 비디오 API 및 이미지 API 가이드, 프롬프트, 매개 변수, 그리고 블랙 포레스트 연구소의 통합 텍스트 - 투 - 비디오, 이미지 -에 비디오, 이미지 및 오디오 생성 모델 예제 <sub>⭐ 147</sub>
+- [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation) - 오디오 구동 말하는 얼굴 세대의 리소스 목록 <sub>⭐ 145</sub>
+- [ArchiveBox/abx-dl](https://github.com/ArchiveBox/abx-dl) - URL (youtube-dl/yt-dlp, forum-dl, gallery-dl, Simpler ArchiveBox와 같은)에서 EVERYTHING을 다운로드하는 간단한 올인원 CLI 도구. HTML, JS, CSS를 얻기 위해 헤드리스 크롬을 사용합니다 ... <sub>⭐ 144 · Python</sub>
+- [pgmichael/wavenet-for-chrome](https://github.com/pgmichael/wavenet-for-chrome) - 강조 표시된 텍스트를 Google Cloud의 Text-to-Speech을 사용하여 고품질 천연 사운드 오디오로 변환하는 Chrome 확장. <sub>⭐ 144 · TypeScript</sub>
+- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - 이미지, 비디오 및 오디오에 대한 alt-text 설명을 생성하여 Fediverse를 강화하도록 설계된 Accessibility bot. <sub>⭐ 142 · Go</sub>
+- [gustavostz/whisper-clip](https://github.com/gustavostz/whisper-clip) - WhisperClip는 자동으로 오디오 녹음을 변환하고 클립보드에 직접 텍스트를 저장하여 인생을 단순화합니다. 버튼의 클릭만으로도 음성을 쉽게 변환 할 수 있습니다 ... <sub>⭐ 139 · Python</sub>
+- [princepainter/ComfyUI-PainterAI2V](https://github.com/princepainter/ComfyUI-PainterAI2V) - PainterAI2V는 Wan2.2의 이중 모델 아키텍처와 InfiniteTalk lip-sync를 통합하여 첫 번째 / 마지막 프레임 컨트롤을 사용하여 정확한 프레임 속도 동기화 된 오디오 기반 생성을 가능하게합니다. 그것은 ... <sub>⭐ 139 · Python</sub>
+- [NVIDIA/audio-intelligence](https://github.com/NVIDIA/audio-intelligence) - Elucidated Text-To-Audio (ETTA)는 디자인 공간의 전체적인 이해를 가진 SOTA text-to-audio 모형이고 합성 captions로 훈련했습니다. <sub>⭐ 138 · Python</sub>
+- [micah5/pyAudioClassification](https://github.com/micah5/pyAudioClassification) - 죽은 간단한 오디오 분류 <sub>⭐ 137 · Python</sub>
+- [hosseinhezami/laravel-gemini](https://github.com/hosseinhezami/laravel-gemini) - Google Gemini API와 통합하는 생산 ready Laravel 패키지. 텍스트, 이미지, 비디오, 오디오, 긴 콘텍스트, 구조 출력, 파일, 캐싱, 기능 호출 및 이해를 지원합니다 ... <sub>⭐ 136 · PHP</sub>
+- [miguelvalente/whisperer](https://github.com/miguelvalente/whisperer) - 원본 오디오 파일에서 OpenAI의 Whisper로 자동으로 텍스트audio 데이터셋으로 이동합니다. <sub>⭐ 136 · Jupyter Notebook</sub>
+- [phr00t/AutoStepper](https://github.com/phr00t/AutoStepper) - StepMania SM 생성을 자동화하는 Java 도구. 배너 및 배경 예술, 모든 어려움 수준, 여러 비트 감지 방법 등을 갖춘 완전한 세대. <sub>⭐ 136 · Java</sub>
+- [lkmeta/txtify](https://github.com/lkmeta/txtify) - 오디오 및 비디오를 AI를 사용하여 텍스트로 변환하는 웹 응용 프로그램은 다양한 형식과 자체 호스팅을 지원합니다. <sub>⭐ 135 · Python</sub>
+- [cyberkitsune/vrc-osc-scripts](https://github.com/cyberkitsune/vrc-osc-scripts) - VRChat Chatbox OSC 스크립트를 텍스트 및 오디오에 대한 지금 재생 <sub>⭐ 134 · Python</sub>
 
 ---
 [⬆️ 맨 위로](#-음악-프로듀서와-팟캐스터를-위한-ai) · [← 직업별 AI 저장소](./README.md)

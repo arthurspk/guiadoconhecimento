@@ -20,1026 +20,1026 @@
 
 > 编写单元测试、集成测试和测试用例的工具。
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. <sub>⭐ 66.2k · Python</sub>
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM <sub>⭐ 54.9k · Rust</sub>
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line… <sub>⭐ 25.7k · TypeScript</sub>
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks <sub>⭐ 25.2k · Go</sub>
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. <sub>⭐ 16.2k · C++</sub>
-- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents. <sub>⭐ 11.7k · PHP</sub>
-- [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. <sub>⭐ 11.2k · Python</sub>
-- [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as… <sub>⭐ 10.9k · Python</sub>
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use @vcaesar <sub>⭐ 10.9k · Go</sub>
-- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation <sub>⭐ 8.1k</sub>
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. <sub>⭐ 8.0k · Jupyter Notebook</sub>
-- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. <sub>⭐ 7.1k · Shell</sub>
-- [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server. <sub>⭐ 7.0k · Python</sub>
-- [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests <sub>⭐ 5.7k · TypeScript</sub>
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! <sub>⭐ 5.7k · Python</sub>
-- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more… <sub>⭐ 5.0k · Java</sub>
-- [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing <sub>⭐ 4.9k · TypeScript</sub>
-- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built… <sub>⭐ 4.9k · TypeScript</sub>
-- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux. <sub>⭐ 4.9k · TypeScript</sub>
-- [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ / Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing <sub>⭐ 4.9k · TypeScript</sub>
-- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single… <sub>⭐ 4.4k · C#</sub>
-- [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments. <sub>⭐ 4.2k · Python</sub>
-- [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) - AI-powered penetration testing assistant using local LLM on linux (Parrot OS) <sub>⭐ 4.2k · Python</sub>
-- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and… <sub>⭐ 4.1k · Python</sub>
-- [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) - Official TestSprite CLI — AI-powered automated testing from your terminal <sub>⭐ 3.9k · TypeScript</sub>
+- [usestrix/strix](https://github.com/usestrix/strix) - 开源AI 的渗透测试工具来查找和修复您的应用程序的弱点. <sub>⭐ 66.2k · Python</sub>
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - 一个开源,可扩展的 AI 代理,它超越代码建议 - 安装、执行、编辑和测试任何 LLM <sub>⭐ 54.9k · Rust</sub>
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - 测试您的提示、 代理和RAG。 红色组合/ 使用/ 易变性扫描 AI。 比较 GPT、 Claude、 双子座、 DeepSeek 等的性能。 简单的声明配置和命令行... <sub>⭐ 25.7k · TypeScript</sub>
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - 完全自主的AI代理系统,能够执行复杂的渗透测试任务. <sub>⭐ 25.2k · Go</sub>
+- [alibaba/MNN](https://github.com/alibaba/MNN) - (原始内容存档于2018-09-21). MNN: A blaining-fast,轻量级推论引擎战由阿里巴巴测试,在Device LLMs和Edge AI上为高性能提供动力. <sub>⭐ 16.2k · C++</sub>
+- [pestphp/pest](https://github.com/pestphp/pest) - PHP开发者和AI代理的优雅测试框架. <sub>⭐ 11.7k · PHP</sub>
+- [microsoft/promptflow](https://github.com/microsoft/promptflow) - 建立高质量的LLM应用——从原型制作,测试到生产部署和监测. <sub>⭐ 11.2k · Python</sub>
+- [google/artemis](https://github.com/google/artemis) - ARTEMIS将自然语言指令转化为可靠的Android自动化,它自动实现端到端的工作流程,捕捉日志,并与AI编码助理如. <sub>⭐ 10.9k · Python</sub>
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - 机器人Go、Go 本地跨平台 RPA、GUI自动化、自动测试和计算机使用@vcaesar <sub>⭐ 10.9k · Go</sub>
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - 生产测试的人工智能基础设施工具,用于有效开发农业综合倡议和社区驱动的创新 <sub>⭐ 8.1k</sub>
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - 显然,这是一个开源的ML和LLM可观察性框架。评估、测试和监测任何AI-动力系统或数据管道。从表格数据到Gen AI. 100+ 度量衡。 <sub>⭐ 8.0k · Jupyter Notebook</sub>
+- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - 产品管理技能框架建立在Claude Code、Cowork、Codex和AI代理商的战斗测试方法之上。 <sub>⭐ 7.1k · Shell</sub>
+- [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 发布前: 在正式V3发布前进行公开测试和完善. 把你的PC,Mac或Linux盒变成一个私人的AI服务器. <sub>⭐ 7.0k · Python</sub>
+- [antiwork/shortest](https://github.com/antiwork/shortest) - 通过自然语言的人工智能测试获得质量保证 <sub>⭐ 5.7k · TypeScript</sub>
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover:用于自动测试生成和代码覆盖增强的AI功率工具!. <sub>⭐ 5.7k · Python</sub>
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer是一个HTTP(S)模拟服务器和用于测试的代理服务器,可以让您模拟API,检查和修改直播流量,并注入失败. 它支持HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP 等. <sub>⭐ 5.0k · Java</sub>
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) - LLM评价和AI代理测试平台 <sub>⭐ 4.9k · TypeScript</sub>
+- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI代理架构用于基于批准执行的计划首个开发工作流程. 多语种支持(TypeScript,Python,Go,Rust) 自动测试,代码审查,验证建立. <sub>⭐ 4.9k · TypeScript</sub>
+- [callstack/agent-device](https://github.com/callstack/agent-device) - 为AI编码代理机进行移动应用自动化与验证. CLI,MCP服务器,并为iOS,Android,HarmonyOS,TV,web,macOS和Linux输入了Node.js API. <sub>⭐ 4.9k · TypeScript</sub>
+- [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) - 开源AI品牌知名度和竞争对手报告 官方网站 //niubigeo.ai// 付费服务:真人AI测试与GEO优化. Pricening //niubigeo.ai/pricing <sub>⭐ 4.9k · TypeScript</sub>
+- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AI 技能, MCP 工具, 以及用于 Unity 引擎的 CLI 。 完全 AI 开发并测试循环 。 使用 cli 进行快速设置 。 高效的符号使用, 高级工具 。 任何 C# 方法都可以通过单个... <sub>⭐ 4.4k · C#</sub>
+- [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac SimTM是NVIDIA Omniverse上的开源应用程序,用于在现实虚拟环境下开发,模拟和测试AI驱动的机器人. <sub>⭐ 4.2k · Python</sub>
+- [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) - 人工智能强渗透测试助理使用本地LLM在linux(Parrot OS)上 <sub>⭐ 4.2k · Python</sub>
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - 深度检查: 持续验证 ML 模型和数据的测试. Deepchecks 是针对您所有AI & ML 验证需要的全方位开源解决方案,能够彻底测试您的数据和. <sub>⭐ 4.1k · Python</sub>
+- [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) - 官方测试Sprite CLI — 从您的终端自动测试 AI <sub>⭐ 3.9k · TypeScript</sub>
 - [qawolf/cli](https://github.com/qawolf/cli) - 任何地方的QA Wolf——你的终端,你的CI,你的AI特工. <sub>⭐ 3.5k · TypeScript</sub>
-- [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing. <sub>⭐ 3.2k · Python</sub>
-- [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. <sub>⭐ 3.1k · Python</sub>
-- [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app. <sub>⭐ 3.1k · TypeScript</sub>
-- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs. <sub>⭐ 3.0k · TypeScript</sub>
-- [adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally… <sub>⭐ 3.0k · JavaScript</sub>
-- [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing. <sub>⭐ 2.9k · TypeScript</sub>
-- [samugit83/redamon](https://github.com/samugit83/redamon) - Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what… <sub>⭐ 2.9k · Python</sub>
-- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous… <sub>⭐ 2.7k · Go</sub>
-- [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with… <sub>⭐ 2.5k · Go</sub>
-- [nitrocloudofficial/nitrostack](https://github.com/nitrocloudofficial/nitrostack) - The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps. <sub>⭐ 2.5k · TypeScript</sub>
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns <sub>⭐ 2.4k</sub>
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run… <sub>⭐ 2.4k · C++</sub>
-- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections… <sub>⭐ 2.3k · Shell</sub>
-- [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? <sub>⭐ 2.2k · Ruby</sub>
-- [rcortx/kiwiq](https://github.com/rcortx/kiwiq) - Production-grade multi-agent orchestration platform - JSON-defined agents, multi-tier memory, and built-in observability. Battle-tested on 200+ enterprise AI agents. Now fully open-sourced (prod at… <sub>⭐ 2.2k · Python</sub>
-- [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows… <sub>⭐ 1.9k · Python</sub>
-- [AngusKit/AngusTester](https://github.com/AngusKit/AngusTester) - AI-native software testing platform — one YAML test language covering API, Web, mobile, messaging, data, and LLM scenarios. Self-hostable. <sub>⭐ 1.8k</sub>
-- [DataTalksClub/ai-dev-tools-zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - A free, hands-on course on using AI developer tools to build, test, deploy, extend, and audit software without losing engineering discipline. The 2026 cohort starts August 31. <sub>⭐ 1.7k · Python</sub>
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - The Open Testing Platform for AI-Driven Engineering Teams <sub>⭐ 1.7k · Go</sub>
-- [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end. <sub>⭐ 1.5k · YARA</sub>
-- [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library. <sub>⭐ 1.5k · HTML</sub>
-- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) - Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0. <sub>⭐ 1.4k · Python</sub>
-- [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) - NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security operations. <sub>⭐ 1.4k · Rust</sub>
-- [taielab/awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) - A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contribute, and enhance your hacking toolkit! <sub>⭐ 1.4k</sub>
-- [RevoltDevScript/Revolt-Script](https://github.com/RevoltDevScript/Revolt-Script) - Revolt is the #1 Edgenuity automation tool featuring Auto Quiz, Auto Essay, Auto Advance, AI-powered writing with humanization, Auto Vocabulary, Auto Journal, and more. A semi-AFK script that handles… <sub>⭐ 1.3k</sub>
-- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning. <sub>⭐ 1.3k · TypeScript</sub>
-- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .NET, Software Architecture, Cloud-Native, Data and AI. <sub>⭐ 1.3k · C#</sub>
-- [bug0inc/qa-agent](https://github.com/bug0inc/qa-agent) - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification. <sub>⭐ 1.3k · TypeScript</sub>
-- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. <sub>⭐ 1.3k · HTML</sub>
-- [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) - Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs <sub>⭐ 1.3k</sub>
-- [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) - HackGPT Enterprise is a production-ready, cloud-native AI-powered penetration testing platform designed for enterprise security teams. It combines advanced AI, machine learning, microservices… <sub>⭐ 1.3k · Python</sub>
-- [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - Testsigma is a quality intelligence platform for AI-first engineering teams. AI made developers faster. More code ships, more surface area needs testing, and coverage gaps open faster than teams can… <sub>⭐ 1.2k · Java</sub>
-- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify. <sub>⭐ 1.2k · JavaScript</sub>
-- [paralleldrive/riteway](https://github.com/paralleldrive/riteway) - Simple, readable, helpful unit tests. Optimized for AI Driven Development. <sub>⭐ 1.2k · JavaScript</sub>
-- [rudrankriyam/Foundation-Models-Framework-Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) - A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework. <sub>⭐ 1.2k · Swift</sub>
-- [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let… <sub>⭐ 1.2k · Python</sub>
-- [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration. <sub>⭐ 1.2k · TypeScript</sub>
-- [chaxiu/munk-ai](https://github.com/chaxiu/munk-ai) - Self-improving AI testing engine across Android, iOS, and Web. <sub>⭐ 1.1k · Python</sub>
-- [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis. <sub>⭐ 1.1k · Python</sub>
-- [pikpikcu/airecon](https://github.com/pikpikcu/airecon) - AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security… <sub>⭐ 1.1k · Python</sub>
-- [rogue-security/rogue](https://github.com/rogue-security/rogue) - AI Agent Evaluator & Red Team Platform <sub>⭐ 1.1k · Python</sub>
-- [LeoYeAI/openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) - 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai <sub>⭐ 1.0k</sub>
-- [Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship. <sub>⭐ 1.0k · Go</sub>
+- [oritera/Cairn](https://github.com/oritera/Cairn) - AI通用的状态空间搜索引擎,在自主渗透测试上先验证. <sub>⭐ 3.2k · Python</sub>
+- [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent是黑盒安全测试的AI代理框架,支持bug赏金,红队和渗透测试工作流程. <sub>⭐ 3.1k · Python</sub>
+- [stravu/crystal](https://github.com/stravu/crystal) - (Crystal现在是Nimbalyst) 在并行 git 工作树中运行多个 Codex 和 Claude 代码 AI 会话. 测试,比较方法,管理一个桌面应用中的 AI 辅助开发工作流程. <sub>⭐ 3.1k · TypeScript</sub>
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - 一个用于战斗测试的LLMs的开源视觉编程环境. <sub>⭐ 3.0k · TypeScript</sub>
+- [adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js最近成为React docs中概述的官方反应框架,在这个课程中,你会学习最重要的Next.js概念以及它们如何融入React 生态系统. <sub>⭐ 3.0k · JavaScript</sub>
+- [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - 开源AI动力攻击性安全套用于自动化穿透测试. <sub>⭐ 2.9k · TypeScript</sub>
+- [samugit83/redamon](https://github.com/samugit83/redamon) - 开源自办的AI穿透测试框架:将攻击表面映射成图,自发从卡利沙盒中利用,并带有人类的认可门,开启了修复什么的PR. <sub>⭐ 2.9k · Python</sub>
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - 使用一组AI代理进行自主的渗透测试. Orchestrates 侦察,分类,开发,以及具有ReAct推理的报告专家——支持bug赏金,连续...... <sub>⭐ 2.7k · Go</sub>
+- [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Interactive Go Interview平台 - 30+编码挑战,包括即时反馈,AI访谈模拟,竞争性领导板,以及自动化测试. 从初学者到高级水平与... <sub>⭐ 2.5k · Go</sub>
+- [nitrocloudofficial/nitrostack](https://github.com/nitrocloudofficial/nitrostack) - 完整的存储TypeScript框架用于构建,测试,并部署生产准备的MCP服务器和AI-native App. <sub>⭐ 2.5k · TypeScript</sub>
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - 测试、模块、CI/CD和生产模式 <sub>⭐ 2.4k</sub>
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - AI 上下文的riggrep: 一个零依赖性 C++23 CLI + MCP 服务器用于编码代理。 不读 repo 就可以找到想要的东西, 然后检查你建了什么 —— 爆炸半径, 测试到运行... <sub>⭐ 2.4k · C++</sub>
+- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - 把Claude代码变成你的进攻性安全研究助理 专门使用AI的潜伏剂 <sub>⭐ 2.3k · Shell</sub>
+- [mbj/mutant](https://github.com/mbj/mutant) - Ruby的变异测试,AI写你的代码,AI写你的测试,但谁测试了测试? <sub>⭐ 2.2k · Ruby</sub>
+- [rcortx/kiwiq](https://github.com/rcortx/kiwiq) - 生产级多剂管弦乐平台 - JSON定义的代理,多层内存,以及内置的可观察性. Battle测试了200+企业AI代理,现在完全开源(product at...). <sub>⭐ 2.2k · Python</sub>
+- [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - 守护者是一个生产准备的AI动力渗透测试自动化CLI工具,利用Google双子座和LangChain来协调智能,一步步的渗透测试工作流程. . <sub>⭐ 1.9k · Python</sub>
+- [AngusKit/AngusTester](https://github.com/AngusKit/AngusTester) - AI-内源软件测试平台——一种YAML测试语言,涵盖API,Web,移动,消息,数据,以及LLM情景. Self-hostable. <sub>⭐ 1.8k</sub>
+- [DataTalksClub/ai-dev-tools-zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - 关于使用AI开发工具在不丧失工程纪律的情况下构建,测试,部署,扩展和审计软件的免费实践课程. 2026组从8月31日开始. <sub>⭐ 1.7k · Python</sub>
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - AI-Driven工程团队的开放测试平台 <sub>⭐ 1.7k · Go</sub>
+- [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - 一个供红色团队在部署前针对现代探测测试有效载荷的自装沙盒. MCP集成让LLM代理驱动分析结束. <sub>⭐ 1.5k · YARA</sub>
+- [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - Claude,双子座CLI,Codex等AI代理商的综合标志设计技能:原理,流程,SVG工艺,测试工具以及1400+标志参考库. <sub>⭐ 1.5k · HTML</sub>
+- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) - AI剂的追踪-内源CI/CD——生产故障成为阻断PR的回归测试. 自动检测,集群,冻结在隐形病例中,在CI中重放0. <sub>⭐ 1.4k · Python</sub>
+- [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) - NeuroSploit是一个高级的,AI动力的穿透测试框架,旨在自动化和增强进攻性安全行动的各个方面. <sub>⭐ 1.4k · Rust</sub>
+- [taielab/awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) - 高阶渗透测试工具与生产力设施集成于多个领域。 加入我们探索、贡献和增强你的黑客工具包! <sub>⭐ 1.4k</sub>
+- [RevoltDevScript/Revolt-Script](https://github.com/RevoltDevScript/Revolt-Script) - Revolt是#1 Edgenuity自动化工具,其特点是Auto Quiz, Auto Essay, Auto Advance, 人工写作的AI动力, 自动词汇表, Auto Journal等等. 一个半AFK脚本处理... <sub>⭐ 1.3k</sub>
+- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1ao Agent是一个完全自主的AI驱动的渗透测试代理,由基于图的认知推理提供动力. <sub>⭐ 1.3k · TypeScript</sub>
+- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - 在.NET、软件架构、云-自然、数据和AI中 <sub>⭐ 1.3k · C#</sub>
+- [bug0inc/qa-agent](https://github.com/bug0inc/qa-agent) - 用于AI浏览器回归测试的开源Playwright库有智能缓存,自动愈合,以及多模型验证. <sub>⭐ 1.3k · TypeScript</sub>
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - 一份出色的AI助手的目录,所有这些助手的示例Telegram bot可以在下面的链接上测试. <sub>⭐ 1.3k · HTML</sub>
+- [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) - 编码代理的守护技能,在代码、测试和文档中捕捉AI生成故障模式的质量门 <sub>⭐ 1.3k</sub>
+- [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) - HackGPT Entertainment是一个为企业安全团队设计的生产准备,云源的AI动力渗透测试平台,它结合了高级AI,机器学习,微服务. . <sub>⭐ 1.3k · Python</sub>
+- [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - Testsigma是AI-First工程团队的优质智能平台. AI让开发者更快,更多的代码船,更多的表面积需要测试,覆盖漏洞的打开速度比团队所能快...... <sub>⭐ 1.2k · Java</sub>
+- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - 预呈AI审查研究论文的压力测试. Claude Code技能:审查,判决,修订,核实. <sub>⭐ 1.2k · JavaScript</sub>
+- [paralleldrive/riteway](https://github.com/paralleldrive/riteway) - 简单,可读,有帮助的单位测试,优化为AI Driven Development. <sub>⭐ 1.2k · JavaScript</sub>
+- [rudrankriyam/Foundation-Models-Framework-Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) - 一个实用的实验室,用于与苹果公司的基础模型框架一起建设,测试和评价应用. <sub>⭐ 1.2k · Swift</sub>
+- [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 赫拉克勒斯是世界上第一个开源测试代理商,它可以实现UI,API,安全,无障碍,和视觉验证 — — 都没有任何代码或维护。 自动测试不费力地让. <sub>⭐ 1.2k · Python</sub>
+- [AI-QL/tuui](https://github.com/AI-QL/tuui) - 一个桌面MCP客户端被设计为工具统一功能集成,通过模型背景协议(MCP)加速AI的通过,并允许交叉vendor LLM API编组. <sub>⭐ 1.2k · TypeScript</sub>
+- [chaxiu/munk-ai](https://github.com/chaxiu/munk-ai) - 自改进AI测试引擎横跨Android,iOS,和Web. <sub>⭐ 1.1k · Python</sub>
+- [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI动力渗透测试助理,用于自动侦察,记录和脆弱性分析. <sub>⭐ 1.1k · Python</sub>
+- [pikpikcu/airecon](https://github.com/pikpikcu/airecon) - AIRecon是一个自主的网络安全代理商,将自办的大语言模型(Ollama)与一个Kali Linux Docker沙盒和一个Textual TUI相结合,它旨在自动化安全. . <sub>⭐ 1.1k · Python</sub>
+- [rogue-security/rogue](https://github.com/rogue-security/rogue) - AI 代理评估员和红色团队平台 <sub>⭐ 1.1k · Python</sub>
+- [LeoYeAI/openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) - OpenClaw代理商33个经战斗测试的营销技能——由MyClaw公司提供动力.ai <sub>⭐ 1.0k</sub>
+- [Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) - 人工智能代理的自主软件工程车队,用于Agent Field上的生产级PR:计划,代码,测试和飞船. <sub>⭐ 1.0k · Go</sub>
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - 对代理和工程师进行端到端测试 <sub>⭐ 1.0k · TypeScript</sub>
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy… <sub>⭐ 990 · Python</sub>
-- [cdxiaodong/cain-agent](https://github.com/cdxiaodong/cain-agent) - Real-world AI penetration testing engineer for authorized assessments — built-in cloud module covering AWS/Azure/GCP + Aliyun/Tencent/Huawei clouds. Built on Claude Agent SDK <sub>⭐ 961 · Python</sub>
-- [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world… <sub>⭐ 957 · HTML</sub>
-- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product… <sub>⭐ 920 · Python</sub>
-- [Aethena-Lab/Z3r0](https://github.com/Aethena-Lab/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines. <sub>⭐ 915 · Python</sub>
-- [microsoft/WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - Windows Agent Arena (WAA) is a scalable OS platform for testing and benchmarking of multi-modal AI agents. <sub>⭐ 904 · Python</sub>
-- [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide) - A comprehensive guide to adversarial testing and security evaluation of AI systems, helping organizations identify vulnerabilities before attackers exploit them. <sub>⭐ 902</sub>
-- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - Live validation proxy tool for testing web app vulnerabilities <sub>⭐ 885 · Go</sub>
-- [iamaisim/ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) - Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments <sub>⭐ 884 · C++</sub>
-- [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic… <sub>⭐ 883 · Go</sub>
-- [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - Toolkit for fine-tuning, ablating and unit-testing open-source LLMs. <sub>⭐ 870 · Python</sub>
-- [OWASP/www-project-ai-testing-guide](https://github.com/OWASP/www-project-ai-testing-guide) - OWASP Foundation web repository <sub>⭐ 816 · Python</sub>
-- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers. <sub>⭐ 801 · Swift</sub>
-- [darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval) - A test runner for agentskills.io-style AI agent skills <sub>⭐ 797 · TypeScript</sub>
-- [insaaniManav/prompt-forge](https://github.com/insaaniManav/prompt-forge) - AI prompt engineering workbench for crafting, testing, and systematically evaluating prompts with powerful analysis tools. <sub>⭐ 796 · Go</sub>
-- [WebFuzzing/EvoMaster](https://github.com/WebFuzzing/EvoMaster) - The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of… <sub>⭐ 788 · Kotlin</sub>
-- [s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode) - PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations. <sub>⭐ 773 · TypeScript</sub>
-- [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) - A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use. <sub>⭐ 752 · JavaScript</sub>
-- [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities <sub>⭐ 733 · TypeScript</sub>
-- [modiqo/skillspec](https://github.com/modiqo/skillspec) - SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof. <sub>⭐ 724 · Rust</sub>
-- [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure Test & harden your system prompt <sub>⭐ 715 · Python</sub>
-- [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph. <sub>⭐ 705 · Python</sub>
-- [minimaxir/gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts. <sub>⭐ 694 · Python</sub>
-- [takahirom/arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps. Get Started in 5 Minutes. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature… <sub>⭐ 649 · Kotlin</sub>
-- [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool <sub>⭐ 639 · TypeScript</sub>
-- [argos-ci/argos](https://github.com/argos-ci/argos) - The open source visual testing platform for teams and AI agents. Review the product, not just the code. <sub>⭐ 636 · TypeScript</sub>
-- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. <sub>⭐ 631 · TypeScript</sub>
-- [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) - 162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing & more. $15 one-time. <sub>⭐ 616 · GDScript</sub>
-- [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance… <sub>⭐ 591 · Python</sub>
-- [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - Help your AI agent finish the job: solve the right problem, keep changes focused, and show what was verified. For Claude Code and Codex. <sub>⭐ 566 · Shell</sub>
-- [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research <sub>⭐ 554 · Python</sub>
-- [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): Open-source AI-powered offensive security harness for automated penetration testing. <sub>⭐ 541 · Python</sub>
-- [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) - Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build and share them. <sub>⭐ 540 · Go</sub>
-- [truecourse-ai/truecourse](https://github.com/truecourse-ai/truecourse) - Turns the documentation you already write into tests that run. A failing test means your product and your docs disagree, and names the section. <sub>⭐ 536 · TypeScript</sub>
-- [Env-Kit/envkit-releases](https://github.com/Env-Kit/envkit-releases) - EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in… <sub>⭐ 533 · Shell</sub>
-- [ARCANGEL0/EVA](https://github.com/ARCANGEL0/EVA) - EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attack guidance, contextual analysis, and multi-backend AI integration. <sub>⭐ 530 · Python</sub>
-- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - This dbt package captures metadata, artifacts, and test results so you can detect anomalies, monitor data quality, and build metadata tables. It powers Elementary OSS and feeds the wider context… <sub>⭐ 526 · Python</sub>
-- [HendrikStrobelt/detecting-fake-text](https://github.com/HendrikStrobelt/detecting-fake-text) - Giant Language Model Test Room <sub>⭐ 501 · TypeScript</sub>
-- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows. <sub>⭐ 491 · Python</sub>
-- [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) - Agentic QE Fleet is an open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claude Code) featuring specialized agents and skills to support testing activities… <sub>⭐ 489 · TypeScript</sub>
-- [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) - MCP server for full Godot 4.x engine control: 157 tools for AI-driven game development (GDScript and C#/.NET). Tested with Godot 4.7. <sub>⭐ 473 · JavaScript</sub>
-- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models. <sub>⭐ 471 · Python</sub>
-- [SHAdd0WTAka/Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) - AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting <sub>⭐ 469 · Python</sub>
-- [guidewire-oss/fern-platform](https://github.com/guidewire-oss/fern-platform) - Unified test intelligence platform with multi-format ingestion, real-time analytics, and AI-powered insights via LLM integration <sub>⭐ 459 · Go</sub>
-- [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - Collab with OpenAI. A benchmark and harness for finding and exploiting smart contract bugs <sub>⭐ 458 · TypeScript</sub>
-- [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec) - DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized… <sub>⭐ 452 · Python</sub>
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love with Speakeasy. Polished and type-safe SDKs. Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native. <sub>⭐ 451 · JavaScript</sub>
-- [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making. <sub>⭐ 450 · Python</sub>
-- [jnMetaCode/ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Claude Code Skill that turns any idea into a cinematic, model-ready video prompt — Sora · Kling · Veo · Seedance. 21 genre templates, 5-stage structure, eval-tested. Distilled from the AI short… <sub>⭐ 450 · Python</sub>
-- [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill) - Swift Testing agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 442</sub>
-- [xr843/Master-skill](https://github.com/xr843/Master-skill) - FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready. <sub>⭐ 437 · Python</sub>
-- [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) - VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop. <sub>⭐ 425 · Python</sub>
-- [project-codeguard/rules](https://github.com/project-codeguard/rules) - Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules… <sub>⭐ 424 · Python</sub>
-- [OrionStarAI/EasyCode](https://github.com/OrionStarAI/EasyCode) - Easy Code (formerly DeepV Code) — A highly customizable AI coding assistant compatible with all major AI models. The perfect alternative to Claude Code and Codex, offering deep code analysis… <sub>⭐ 422 · TypeScript</sub>
-- [microsoft/RAMPART](https://github.com/microsoft/RAMPART) - A pytest-native safety and security testing framework for agentic AI applications <sub>⭐ 419 · Python</sub>
-- [harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library) - A curated library of high-quality, professionally crafted prompts for common development tasks. Save time and improve your AI interactions with battle-tested prompt templates. You can install it as… <sub>⭐ 412</sub>
-- [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rules for prompt injection, tool poisoning, context exfiltration and MCP attacks.… <sub>⭐ 406 · TypeScript</sub>
-- [george0st/qgate-model](https://github.com/george0st/qgate-model) - ML/AI meta-model, used in MLRun/Iguazio/Nuclio, see qgate-sln <sub>⭐ 405 · Python</sub>
-- [mezmo/aura](https://github.com/mezmo/aura) - AURA is a production-tested SRE agent platform you can deploy in minutes. AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on… <sub>⭐ 400 · Rust</sub>
-- [mobile-next/mobilewright](https://github.com/mobile-next/mobilewright) - Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API. <sub>⭐ 396 · TypeScript</sub>
-- [Eyadkelleh/awesome-skills-security](https://github.com/Eyadkelleh/awesome-skills-security) - Security testing toolkit for AI Agent: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties <sub>⭐ 387 · PHP</sub>
-- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all… <sub>⭐ 382 · Dart</sub>
-- [z3n70/Frida-Script-Runner](https://github.com/z3n70/Frida-Script-Runner) - Web-based Frida framework and toolkit for Android & iOS penetration testing, mobile security, and dynamic analysis, featuring AI-assisted Frida script generation. <sub>⭐ 380 · JavaScript</sub>
-- [Ji-Rath/MassAIExample](https://github.com/Ji-Rath/MassAIExample) - A project primarily used to test UE5 Mass AI system <sub>⭐ 377 · C++</sub>
-- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. <sub>⭐ 376 · Python</sub>
-- [getagentseal/agentseal](https://github.com/getagentseal/agentseal) - Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool… <sub>⭐ 376 · Python</sub>
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security <sub>⭐ 373 · Shell</sub>
-- [tehw0lf/airbash](https://github.com/tehw0lf/airbash) - A POSIX-compliant, fully automated WPA PSK PMKID and handshake capture script aimed at penetration testing <sub>⭐ 371 · Shell</sub>
-- [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) - Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any… <sub>⭐ 368 · Python</sub>
-- [prathyushnallamothu/swarmgo](https://github.com/prathyushnallamothu/swarmgo) - SwarmGo (agents-sdk-go) is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI's Swarm framework, SwarmGo focuses on making… <sub>⭐ 361 · Go</sub>
-- [capture0x/AdStrike](https://github.com/capture0x/AdStrike) - AI-powered modular Active Directory red-team framework for authorized penetration testing, AD enumeration, attack-path analysis, Kerberos/ADCS workflows, reporting, operator automation, and MCP… <sub>⭐ 357 · Python</sub>
-- [hust-diangroup/ns3-ai](https://github.com/hust-diangroup/ns3-ai) - Enable the interaction between ns-3 and popular frameworks using Python, which mean you can train and test your AI algorithms in ns-3 without changing any frameworks you are using now! <sub>⭐ 356 · C++</sub>
-- [WordPress/ai](https://github.com/WordPress/ai) - AI features and experiments for WordPress. Modular framework for testing AI capabilities. <sub>⭐ 356 · PHP</sub>
-- [hi0001234d/nexpath](https://github.com/hi0001234d/nexpath) - Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers — catch missing tests and safety checks across Claude Code, Cursor, Windsurf, Replit, Lovable… <sub>⭐ 355 · TypeScript</sub>
-- [griddynamics/rosetta](https://github.com/griddynamics/rosetta) - An instruction layer for AI coding agent <sub>⭐ 352 · TypeScript</sub>
-- [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6. <sub>⭐ 351 · Swift</sub>
-- [NsLearning/LangHelper](https://github.com/NsLearning/LangHelper) - Striving to create a great Application with full functions of learning languages by ChatGPT, TTS, STT and other awesome AI models, supports talking, speaking assessment, memorizing words with… <sub>⭐ 348 · Rust</sub>
-- [fr33d3m0n/threat-modeling](https://github.com/fr33d3m0n/threat-modeling) - AI-native automated software risk analysis skill. LLM-driven, Code-First approach for comprehensive security risk assessment, threat modeling, security testing, penetration testing, and compliance… <sub>⭐ 347 · Python</sub>
-- [Teycir/BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) - Burp Suite extension for API security testing with 15 attack types, 108+ payloads, intelligent fuzzing, BOLA/IDOR detection, AI integration, and automated reconnaissance. Supports REST/GraphQL/SOAP… <sub>⭐ 342 · Python</sub>
-- [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) - 11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray Tuğberk, Kyle Roof, and Lily Ray, plus a… <sub>⭐ 341</sub>
-- [perrystreetsoftware/Harmonize](https://github.com/perrystreetsoftware/Harmonize) - Harmonize is a modern linter for Swift that allows you to write architectural lint rules as unit tests. In the era of AI-generated code, it provides your team with deterministic guardrails to keep… <sub>⭐ 339 · Swift</sub>
-- [Desertbetweenalembic/website-downloader](https://github.com/Desertbetweenalembic/website-downloader) - Clone any website with a team of AI agents — pixel-perfect UI clone + reverse-engineered architecture docs. A Claude Code skill built on the new dynamic Workflow engine with an unskippable test gate.… <sub>⭐ 337</sub>
-- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents. <sub>⭐ 332 · Python</sub>
-- [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) - An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing. <sub>⭐ 331 · Python</sub>
-- [blob42/Instrukt](https://github.com/blob42/Instrukt) - Integrated AI environment in the terminal. Build, test and instruct agents. <sub>⭐ 329 · Python</sub>
-- [martian56/redcell](https://github.com/martian56/redcell) - AI red-team platform. Autonomous LLM agents run a penetration test end to end inside a Kali container and write the report. LangGraph plan/act engine, provider-agnostic models via LiteLLM… <sub>⭐ 329 · Python</sub>
-- [rasmusab/bayesian_first_aid](https://github.com/rasmusab/bayesian_first_aid) - Inside every classical test there is a Bayesian model trying to get out. <sub>⭐ 329 · R</sub>
-- [Mathews-Tom/armory](https://github.com/Mathews-Tom/armory) - Curated, production-grade skills for AI coding agents. Battle-tested workflows for developers who use AI seriously. <sub>⭐ 327 · Python</sub>
-- [aielte-research/HackSynth](https://github.com/aielte-research/HackSynth) - LLM Agent and Evaluation Framework for Autonomous Penetration Testing <sub>⭐ 322 · Python</sub>
-- [vercel/next-evals-oss](https://github.com/vercel/next-evals-oss) - Evals for Next.js up to 15.5.6 to test AI model competency at Next.js <sub>⭐ 322 · TypeScript</sub>
-- [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) - This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive… <sub>⭐ 322</sub>
-- [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT) - Requirement-driven evaluation harness for AI agents and LLM applications. Generate behavior-specific test cases, run them against any target (hosted models, callable wrappers, OTel-traced agents)… <sub>⭐ 321 · Python</sub>
-- [block/trailblaze](https://github.com/block/trailblaze) - AI-Driven UI Testing Framework with Recorded Trails <sub>⭐ 320 · Kotlin</sub>
-- [dfinke/awesome-copilot-chatmodes](https://github.com/dfinke/awesome-copilot-chatmodes) - Custom chatMode.md personas for GitHub Copilot — specialize your VS Code with AI assistants for testing, security, clean‑code refactoring, dashboards, prompt design, and more. Just drop in and select… <sub>⭐ 319</sub>
-- [pensarai/apex](https://github.com/pensarai/apex) - AI-powered offensive security testing using autonomous agents, directly in your terminal. <sub>⭐ 315 · TypeScript</sub>
-- [jd-opensource/JoySafeter](https://github.com/jd-opensource/JoySafeter) - JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration... <sub>⭐ 312 · Python</sub>
-- [droid-ash/finalrun-agent](https://github.com/droid-ash/finalrun-agent) - AI QA Agent for mobile apps <sub>⭐ 311 · TypeScript</sub>
-- [Cloud-Code-AI/kaizen](https://github.com/Cloud-Code-AI/kaizen) - Automate the tedious development tasks with AI <sub>⭐ 304 · Python</sub>
-- [dekimir/RamFuzz](https://github.com/dekimir/RamFuzz) - Combining Unit Tests, Fuzzing, and AI <sub>⭐ 303 · C++</sub>
-- [usnistgov/dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies <sub>⭐ 302 · Python</sub>
-- [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) - Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing <sub>⭐ 297 · Shell</sub>
-- [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way <sub>⭐ 295 · PHP</sub>
-- [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) - AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversarial ML techniques. This repository is dedicated to offensive and defensive… <sub>⭐ 290</sub>
-- [ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) - Multi-agent demo platform for Titans (arXiv:2501.00663) — neural networks that learn to memorize at test time. 7 AI agents, native desktop UI. <sub>⭐ 289 · Python</sub>
-- [ServiceNow/HighRes-net](https://github.com/ServiceNow/HighRes-net) - Pytorch implementation of HighRes-net, a neural network for multi-frame super-resolution, trained and tested on the European Space Agency’s Kelvin competition. This is a ServiceNow Research project… <sub>⭐ 288 · Jupyter Notebook</sub>
-- [Role1776/netmon](https://github.com/Role1776/netmon) - Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord. <sub>⭐ 286 · Python</sub>
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) - The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install ork for stable (v9.x), or ork-alpha for the v10 line, which ships daily. <sub>⭐ 286 · TypeScript</sub>
-- [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) - A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT <sub>⭐ 286 · Python</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI <sub>⭐ 276 · Rust</sub>
-- [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it <sub>⭐ 275 · TypeScript</sub>
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) - A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems. <sub>⭐ 273 · Python</sub>
-- [noskillish/bankmcp](https://github.com/noskillish/bankmcp) - BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama. <sub>⭐ 271 · TypeScript</sub>
-- [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) - Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost controls. Go-native Fastest & Scalable AI Gateway LiteLLM & Kong AI Gateway… <sub>⭐ 270 · Go</sub>
-- [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp) - MCP server for Roblox Studio runtime debugging, playtest control, screenshots/input, multiplayer testing, and per-peer server/client eval from AI agents. <sub>⭐ 269 · Lua</sub>
-- [JoasASantos/Offensive-AI-Agent-Prompts](https://github.com/JoasASantos/Offensive-AI-Agent-Prompts) - Prompts for performing tests on your Kali Linux using Gemini-cli, ChatGPT, DeepSeek, CursorAI, Claude Code, and Copilot. <sub>⭐ 268</sub>
-- [gsd-build/gsd-browser](https://github.com/gsd-build/gsd-browser) - A fast, native browser automation CLI built from the ground up for AI agents, powered by Chrome DevTools Protocol. 63 commands covering navigation, interaction, screenshots, accessibility, network… <sub>⭐ 267 · Rust</sub>
-- [Coff0xc/AutoRedTeam-Orchestrator](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) - MCP-native security automation workbench (SDK + CLI + MCP) — authorized testing + static AI/MCP attack-surface self-audit to SARIF / GitHub Code Scanning <sub>⭐ 265 · Python</sub>
-- [agentlabs-dev/auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest <sub>⭐ 264 · TypeScript</sub>
-- [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type… <sub>⭐ 258 · TypeScript</sub>
-- [waiterve/wai-play](https://github.com/waiterve/wai-play) - WAI Play - AI web game testing and quality evaluation platform <sub>⭐ 255 · Python</sub>
-- [OmarH-creator/Autonomous-Forge](https://github.com/OmarH-creator/Autonomous-Forge) - This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself. <sub>⭐ 254 · Python</sub>
-- [gbessoni/seobuild-onpage](https://github.com/gbessoni/seobuild-onpage) - SEOBuild Onpage - The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic… <sub>⭐ 253 · Python</sub>
-- [h0tak88r/AutoAR](https://github.com/h0tak88r/AutoAR) - AutoAR is an automated security reconnaissance tool, ASM and Discord bot for bug bounty hunters and penetration testers. It automates gathering subdomains, scanning ports, detecting technologies… <sub>⭐ 252 · Go</sub>
-- [yucchiy/UniCli](https://github.com/yucchiy/UniCli) - A CLI tool to control Unity Editor - enabling both humans and AI agents to run compilations, tests, and editor commands from the terminal. <sub>⭐ 252 · C#</sub>
-- [yohannesgk/blacksmith](https://github.com/yohannesgk/blacksmith) - BlacksmithAI is an OPEN-SOURCE advanced penetration testing framework that leverages multiple AI agents to automate security assessments. The system orchestrates specialized agents through a complete… <sub>⭐ 248 · TypeScript</sub>
-- [mozilla-ai/wasm-agents-blueprint](https://github.com/mozilla-ai/wasm-agents-blueprint) - Testing WASM-powered AI agents <sub>⭐ 246</sub>
-- [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) - Computer-Use SDK for E2E QA Testing <sub>⭐ 243 · JavaScript</sub>
-- [4R7I5T/CL1_LLM_Encoder](https://github.com/4R7I5T/CL1_LLM_Encoder) - Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY… <sub>⭐ 242 · Python</sub>
-- [Autonoma-AI/autonoma](https://github.com/Autonoma-AI/autonoma) - Open-source testing platform where AI agents navigate your app end-to-end and catch regressions on every PR. No test code required. <sub>⭐ 238 · TypeScript</sub>
-- [MIO-456/Lumi_Nox](https://github.com/MIO-456/Lumi_Nox) - Two AI VTubers co-hosting one live show — the realtime engine & orchestration. Open-core, battle-tested by a daily stream. <sub>⭐ 237 · Python</sub>
-- [AngusKit/AngusKit](https://github.com/AngusKit/AngusKit) - Private, self-hosted AI-native software engineering suite — unified identity (GM) plus AI agents, code collaboration, artifact management, testing, security, and product analytics. <sub>⭐ 234</sub>
-- [LambdaTest/test-at-scale](https://github.com/LambdaTest/test-at-scale) - Test at Scale platform for TestMu AI (Formerly LambdaTest). <sub>⭐ 233 · Go</sub>
-- [shenli/distributed-system-testing](https://github.com/shenli/distributed-system-testing) - AI-agent skills for distributed-systems testing <sub>⭐ 231</sub>
-- [arklexai/arksim](https://github.com/arklexai/arksim) - Find your agents errors be fore your real users do <sub>⭐ 230 · Python</sub>
-- [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) - QA Skills Directory QA Skills is a curated directory of testing-specific skills for AI coding agents (Claude Code, Cursor, Copilot, etc.). <sub>⭐ 230 · TypeScript</sub>
-- [AI45Lab/OpenART](https://github.com/AI45Lab/OpenART) - OpenART is an open-source framework designed to evaluate the safety and robustness of autonomous AI agents in dynamic, long-horizon, and stateful environments. It stress-tests agent runtimes against… <sub>⭐ 228 · Python</sub>
-- [KleinYuan/Caffe2-iOS](https://github.com/KleinYuan/Caffe2-iOS) - Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos. <sub>⭐ 225 · C++</sub>
-- [mubaidr/gem-team](https://github.com/mubaidr/gem-team) - Turn AI coding into an engineering process. <sub>⭐ 225</sub>
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) - An open specification for agentic AI security evaluation and testing, from Cisco. <sub>⭐ 224</sub>
-- [LLAMATOR-Core/llamator](https://github.com/LLAMATOR-Core/llamator) - Red Teaming python-framework for testing chatbots and GenAI systems. <sub>⭐ 223 · Python</sub>
-- [Axolotl-QA/Axolotl](https://github.com/Axolotl-QA/Axolotl) - AI-powered QA agent for VS Code. Analyzes code changes, generates test plans, runs real browser tests, and delivers evidence-backed merge verdicts. <sub>⭐ 220 · TypeScript</sub>
-- [MainRo/deepspeech-server](https://github.com/MainRo/deepspeech-server) - A testing server for a speech to text service based on coqui.ai <sub>⭐ 219 · Python</sub>
-- [idavidov13/agentic-playwright](https://github.com/idavidov13/agentic-playwright) - Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in. <sub>⭐ 218 · Python</sub>
-- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity… <sub>⭐ 218 · Jupyter Notebook</sub>
-- [lintrule/lintrule](https://github.com/lintrule/lintrule) - Let the LLM review your code. <sub>⭐ 217 · TypeScript</sub>
-- [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) - All-in-one security testing toolbox that brings together popular open source tools through a single MCP interface. Connected to an AI agent, it enables tasks like pentesting, bug bounty hunting… <sub>⭐ 216 · Python</sub>
-- [awslabs/ai-on-eks](https://github.com/awslabs/ai-on-eks) - AI on EKS - Tested AI/ML for Amazon Elastic Kubernetes Service <sub>⭐ 215 · HCL</sub>
-- [GAIR-NLP/cognition-engineering](https://github.com/GAIR-NLP/cognition-engineering) - Generative AI Act II: Test Time Scaling Drives Cognition Engineering <sub>⭐ 214 · Python</sub>
-- [supercheck-io/supercheck](https://github.com/supercheck-io/supercheck) - Open-Source Testing, Monitoring, and AI SRE — as Code <sub>⭐ 214 · TypeScript</sub>
-- [fzn0x/watchtower](https://github.com/fzn0x/watchtower) - Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate… <sub>⭐ 212 · Python</sub>
-- [vectara/awesome-agent-failures](https://github.com/vectara/awesome-agent-failures) - A community curated collection of AI agent failure modes and battle-tested solutions. <sub>⭐ 212</sub>
-- [jsdhwfmax/EvalForge](https://github.com/jsdhwfmax/EvalForge) - Evaluator-neutral AI evaluation evidence, baseline regression gates, and JSON, JUnit, and SARIF reports for CI. <sub>⭐ 210 · Python</sub>
-- [Jjschwartz/NetworkAttackSimulator](https://github.com/Jjschwartz/NetworkAttackSimulator) - An environment for testing AI pentesting agents against a simulated network. <sub>⭐ 208 · Python</sub>
-- [garagon/nanostack](https://github.com/garagon/nanostack) - A workflow harness that helps AI coding agents plan, review, test, and ship safer code. <sub>⭐ 207 · Shell</sub>
-- [gy15901580825/Argus](https://github.com/gy15901580825/Argus) - Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or browser-using agent endpoint; run 205 probes mapped to OWASP LLM Top 10 / MITRE ATLAS / NIST AI RMF, incl.… <sub>⭐ 206 · Python</sub>
-- [HimankSehgal/AI-interview-prep](https://github.com/HimankSehgal/AI-interview-prep) - AI/ML interview questions across 20+ companies , what was asked, what was tested, and how to prepare. <sub>⭐ 205</sub>
-- [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for… <sub>⭐ 204 · Python</sub>
-- [av/facts](https://github.com/av/facts) - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents <sub>⭐ 203 · Rust</sub>
-- [vysakh0/dravid](https://github.com/vysakh0/dravid) - AI powered cli coding agent that monitors your dev/test server and fixes errors and adds features <sub>⭐ 203 · Python</sub>
-- [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more <sub>⭐ 202 · Shell</sub>
-- [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) - Unofficial Android port of Unleashed Recompiled, built with Anthropic's Fable 5 AI under human direction, device testing and debugging. Artifacts, freezes and audio issues possible. SPECIAL THANKS to… <sub>⭐ 202 · C</sub>
-- [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions) - A comprehensive codebase of best practices, coding rules, and workflow automation for AI-assisted development with GitHub Copilot. Includes DDD, Clean Architecture, testing, commit conventions, and… <sub>⭐ 196 · TypeScript</sub>
-- [codingthefuturewithai/software-dev-prompt-library](https://github.com/codingthefuturewithai/software-dev-prompt-library) - Prompt library containing tested reusable gen AI prompts for common software engineering task <sub>⭐ 195</sub>
-- [soleio/luck](https://github.com/soleio/luck) - A skill for improving the luck of your AI stack and projects—developed from an applied theoretical framework. Multiple diagnostic components, named failure modes, testable predictions, and an… <sub>⭐ 193</sub>
-- [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) - Trusted builds made easy! A cloud-native software factory for building, testing, and releasing trusted software artifacts <sub>⭐ 189 · Go</sub>
-- [Handit-AI/handit.ai](https://github.com/Handit-AI/handit.ai) - Your AI teammate that fixes your AI. No more 2am debugging sessions or silent failures. Automatically detects issues, generates fixes, tests them, and ships PRs. Built to make AI actually reliable in… <sub>⭐ 188 · JavaScript</sub>
-- [FrankS-IntelLab/agentic-kaggle-skill](https://github.com/FrankS-IntelLab/agentic-kaggle-skill) - AI Agent-driven Kaggle competition workflow. Battle-tested patterns for score stabilization, submission troubleshooting, kernel workflows, and spec-driven development. <sub>⭐ 187 · Python</sub>
-- [SensorsIot/Embedded-AI-Harness](https://github.com/SensorsIot/Embedded-AI-Harness) - AI Closed-Loop Programming for embedded systems — the AI writes, flashes, and tests firmware on real hardware until the tests run clean. Spec to silicon, hands off. <sub>⭐ 185 · Python</sub>
-- [ykdojo/safeclaw](https://github.com/ykdojo/safeclaw) - The easiest way to run multiple Claude Code sessions, each in its own container, with a dashboard to manage them all. Quick setup with battle-tested sensible defaults and skills. <sub>⭐ 184 · HTML</sub>
-- [open-daimax/daimax-appbench](https://github.com/open-daimax/daimax-appbench) - An automated benchmark platform for AI-generated apps — built-in evaluation rules, standard sample sets, and layered test cases across a multi-dimensional metric system. One pipeline runs build… <sub>⭐ 182 · Python</sub>
-- [mehrandvd/skunit](https://github.com/mehrandvd/skunit) - skUnit is a testing tool for AI units, such as IChatClient, MCP Servers and agents. <sub>⭐ 181 · C#</sub>
-- [pliablepixels/gap-trap](https://github.com/pliablepixels/gap-trap) - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line. <sub>⭐ 181 · JavaScript</sub>
-- [CatchTheTornado/open-agents-builder](https://github.com/CatchTheTornado/open-agents-builder) - AI Agents are missing the UI! We're here to change it. Build Business AI Agents for your company: business workflows, API's, bookings, e-commerce, social commerce, b2b, CPQ, intake forms, NPS tests… <sub>⭐ 180 · TypeScript</sub>
-- [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) - A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools. <sub>⭐ 178 · TypeScript</sub>
-- [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers… <sub>⭐ 178 · Python</sub>
-- [smixs/skill-conductor](https://github.com/smixs/skill-conductor) - Architecture-first skill lifecycle for AI agents. BinEval binary scoring with threshold-blind, cross-family-calibrated judges, gated self-update loop, pressure testing, 10 authoring principles… <sub>⭐ 178 · Python</sub>
-- [KKingZero/Zypheron-CLI](https://github.com/KKingZero/Zypheron-CLI) - ZYPHERON CLI Powerful command-line interface for automated security testing. Integrate ZYPHERON into your DevSecOps pipeline. Get CLI <sub>⭐ 176 · Python</sub>
-- [langchain-ai/langsmith-docs](https://github.com/langchain-ai/langsmith-docs) - This repo is deprecated. Please go to langchain-ai/docs. <sub>⭐ 176 · JavaScript</sub>
-- [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit) - Automated prompt-based testing and evaluation of Gen AI applications <sub>⭐ 172 · Jupyter Notebook</sub>
-- [RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting](https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting) - An extension of the previous 'Fitness-AI-Coach': a complete web application with real-time exercise recognition and counting. The exercise recognition model achieves 99% accuracy on the test set and… <sub>⭐ 169 · Python</sub>
-- [AISquare-Studio/AISquare-Studio-QA](https://github.com/AISquare-Studio/AISquare-Studio-QA) - Setting up QA testing agents using playwright and crewAI <sub>⭐ 167 · Python</sub>
-- [solis-team/XRepoTest](https://github.com/solis-team/XRepoTest) - (EMNLP 2026) A multilingual benchmark for repository-level unit test generation, evaluating LLMs across 5 programming languages and real-world code under reproducible, Docker-based execution. <sub>⭐ 167 · Python</sub>
-- [VeryGoodOpenSource/vgv-ai-flutter-plugin](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) - AI plugin to enhance and accelerate Flutter & Dart development, built by Very Good Ventures <sub>⭐ 166 · Shell</sub>
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) - Open-Source RAG app with LLM Observability (Langfuse), support for 100+ providers (LiteLLM), Dockerized, Full Type-checking, 100% Test coverage, and more... <sub>⭐ 165 · TypeScript</sub>
-- [humanbound/humanbound](https://github.com/humanbound/humanbound) - Open-source adversarial testing engine, SDK, and CLI for AI agents. Runs locally or against the Humanbound Platform. <sub>⭐ 165 · Python</sub>
-- [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder) - Deep Skill Finder – Real Tests Real Reviews find skills that Real Work <sub>⭐ 165 · Python</sub>
-- [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) - Spec-first AI development: describe a feature → AI creates spec + plan + tasks, builds autonomously, syncs to GitHub/JIRA. Domain-expert skills for PM, Architect, Frontend, QA learn your patterns… <sub>⭐ 164 · TypeScript</sub>
-- [Addepar/RedFlag](https://github.com/Addepar/RedFlag) - RedFlag uses AI to identify high-risk code changes. Run it in batch mode for release candidate testing or in CI pipelines to flag PRs and add reviewers. RedFlag's flexible configuration makes it… <sub>⭐ 163 · Jinja</sub>
-- [antoninoLorenzo/AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) - Penetration Testing AI Assistant based on open source LLMs. <sub>⭐ 163 · Python</sub>
-- [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) - Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence. <sub>⭐ 163 · TypeScript</sub>
-- [Yenn503/Hexstrike-redteam](https://github.com/Yenn503/Hexstrike-redteam) - AI-powered MCP penetration testing framework combining HexStrike's 150+ security tools with BOAZ's advanced payload evasion (77+ loaders, 12 encoders). Features 12+ autonomous AI agents for bug… <sub>⭐ 161 · C++</sub>
-- [yegor256/prompt](https://github.com/yegor256/prompt) - A plain-text prompt for LLMs that teaches the essence of elegant coding and testing—save it to ~/.claude/CLAUDE.md. <sub>⭐ 160</sub>
-- [amplitude/builder-skills](https://github.com/amplitude/builder-skills) - Open-source AI skills for product managers — battle-tested by PMs at Amplitude. <sub>⭐ 159</sub>
-- [DanielSuo117/velocitai](https://github.com/DanielSuo117/velocitai) - Next-generation UI automation harness powered by Python & Playwright. Chat with AI Agents to seamlessly generate, architect, and execute enterprise-grade UI test code. <sub>⭐ 158 · Python</sub>
-- [m-sec-org/ez-ai-agent](https://github.com/m-sec-org/ez-ai-agent) - Automated Penetration Testing with EZ and Agents <sub>⭐ 158 · JavaScript</sub>
-- [irahardianto/awesome-agv](https://github.com/irahardianto/awesome-agv) - Comprehensive sets of standards and practices designed to elevate the capabilities of AI coding agents. <sub>⭐ 157 · JavaScript</sub>
-- [azalio/map-framework](https://github.com/azalio/map-framework) - Plan-then-build AI coding for Claude Code & Codex CLI — you approve the plan before the model writes a line of code. SPEC → PLAN → TEST → CODE → REVIEW → LEARN <sub>⭐ 156 · Python</sub>
-- [DebugBase/glance](https://github.com/DebugBase/glance) - AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal. <sub>⭐ 156 · TypeScript</sub>
-- [edgenuitybot/exodusbot](https://github.com/edgenuitybot/exodusbot) - Exodus / The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! / About: Exodus is an online course tool… <sub>⭐ 156 · JavaScript</sub>
-- [SciSharp/BotSharp-UI](https://github.com/SciSharp/BotSharp-UI) - Build, test and manage your AI Agents in the central place. <sub>⭐ 156 · Svelte</sub>
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - 开源自主AI穿透测试. 50名专家代理横跨网络,API,云,Active Directory,Kubernetes,CI/CD和AI/LLM(OWASP LLM Top10). 运行在隐私背后的本地LLM上...... <sub>⭐ 990 · Python</sub>
+- [cdxiaodong/cain-agent](https://github.com/cdxiaodong/cain-agent) - 授权评估的真人世界AI穿透测试工程师——内置云模块,涵盖AWS/Azure/GCP+阿里云/Tencent/Huawei云. Claude Agent SDK上建. <sub>⭐ 961 · Python</sub>
+- [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - 专为操作安全测试Web App,API,AI集成的App和安全代码审查而设计的故意脆弱的银行应用软件. 特性是现实世界中发现的共同弱点. . <sub>⭐ 957 · HTML</sub>
+- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python工具包,MCP服务器,以及可复制,可审计的点击流和事件日志分析的代理技能. 帮助AI代理商,数据科学家和分析师建立,验证,并交叉检查产品... <sub>⭐ 920 · Python</sub>
+- [Aethena-Lab/Z3r0](https://github.com/Aethena-Lab/Z3r0) - AI-内置红色团队工作台,用于授权的渗透测试和脆弱性研究,配备专家代理、沙箱工具、证据记录和可重播的时间表。 <sub>⭐ 915 · Python</sub>
+- [microsoft/WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - Windows Agent Arena(WAA)是一个可扩展的OS平台,用于测试和制定多模式AI代理的基准. <sub>⭐ 904 · Python</sub>
+- [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide) - AI系统的对抗测试和安全评价综合指南,帮助各组织在攻击者利用这些系统之前查明脆弱性。 <sub>⭐ 902</sub>
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 用于测试网络应用漏洞的实时验证代理工具 <sub>⭐ 885 · Go</sub>
+- [iamaisim/ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) - AirSim项目是微软对AirSim的进化,一个高级模拟平台,用于在高真实度虚拟环境下建设,培训和测试自主系统. <sub>⭐ 884 · C++</sub>
+- [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - 一个完全自定义和自备的用于AI代理代码执行和计算机使用的沙箱解决方案,它具有用于回溯跟踪的外框支持,简单的REST API和Python SDK,自动... <sub>⭐ 883 · Go</sub>
+- [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - 用于微调、编幅和单元测试的开源有限责任公司工具包。 <sub>⭐ 870 · Python</sub>
+- [OWASP/www-project-ai-testing-guide](https://github.com/OWASP/www-project-ai-testing-guide) - OWASP 基金会网站库 <sub>⭐ 816 · Python</sub>
+- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim——用于Xcode的iOS模拟器的30+工具. 测试,调试,网络监测,捕获,可访问性,应用动作,以及AI代理自动化通过RocketSim CLI. 80k+开发者使用. <sub>⭐ 801 · Swift</sub>
+- [darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval) - 一个测试跑者 特技.io型 AI型特技 <sub>⭐ 797 · TypeScript</sub>
+- [insaaniManav/prompt-forge](https://github.com/insaaniManav/prompt-forge) - AI 迅速的工程工作台用于设计,测试,并系统评价带有强大分析工具的提示. <sub>⭐ 796 · Go</sub>
+- [WebFuzzing/EvoMaster](https://github.com/WebFuzzing/EvoMaster) - 首个用于自动生成系统级测试案例的开源AI驱动工具(也称模糊),用于网络/企业应用程序. 目前针对的是白盒和黑盒测试. <sub>⭐ 788 · Kotlin</sub>
+- [s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode) - PentestCode - 多代理AI穿透测试系统,具有持续接触状态,战略协调,并平行自主操作. <sub>⭐ 773 · TypeScript</sub>
+- [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) - 一个经过曲解,战斗测试的AI编码工具包:克劳德代码插件,亚剂管弦乐,质量门,以及从实际生产用途中提取的即时拷贝提示. <sub>⭐ 752 · JavaScript</sub>
+- [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) - AI 安全扫描器 - 测试您的AI系统,以快速注射和提取弱点 <sub>⭐ 733 · TypeScript</sub>
+- [modiqo/skillspec](https://github.com/modiqo/skillspec) - SkillSpec使代理技能可以跟踪、检验和通过医生风险报告、有指导的进口、结构化合同和校准证明加以证明。 <sub>⭐ 724 · Rust</sub>
+- [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - 使您的 GenAI Apps 安全性测试和硬化您的系统提示 <sub>⭐ 715 · Python</sub>
+- [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - AI 驱动的网络刮切编辑器带有视觉工作流程构建器. 构建,测试和部署使用自然语言的网页刮切器. Powered by ScrapeGraphAI & LangGraph. <sub>⭐ 705 · Python</sub>
+- [minimaxir/gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) - OpenAI的GPT-3 API和由此产生的AI生成文本的测试提示. <sub>⭐ 694 · Python</sub>
+- [takahirom/arbigent](https://github.com/takahirom/arbigent) - 测试Android,iOS和Web应用程序的AI代理。 5分钟后启动。 仲裁员直观的UI和强大的代码界面让每个人都可以访问, 而其情景解析功能... <sub>⭐ 649 · Kotlin</sub>
+- [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - 在线和离线的现代API工作空间——将API文档、测试、模拟和AI动力自动化结合在一个轻量级工具中 <sub>⭐ 639 · TypeScript</sub>
+- [argos-ci/argos](https://github.com/argos-ci/argos) - 面向团队和AI代理的开源视觉测试平台,审查产品,而不仅仅是代码. <sub>⭐ 636 · TypeScript</sub>
+- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - 人工智能特工控制Chrome的CLI,零配置,特工-不可知论,战斗测试. <sub>⭐ 631 · TypeScript</sub>
+- [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) - 162 MCP用于AI动力Godot 4开发的工具. Scene, 动画,3D,物理,粒子,音频,遮蔽器,输入模拟,运行时间分析,导航,测试等15美元以上一次性使用. <sub>⭐ 616 · GDScript</sub>
+- [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) - Jev的1207公共资源,TypeSafe AI's System One决定模型,按决定模式索引. source reference,日期链接检查和预定的呼叫现场文本检查;运行时间和性能... <sub>⭐ 591 · Python</sub>
+- [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - 帮助您的 AI 代理完成任务: 解决正确的问题, 保持更改焦点, 并显示已验证的内容。 对于 Claude Code 和 Codex 。 <sub>⭐ 566 · Shell</sub>
+- [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - 开源Claude代码技术,代理,以及用于AI动力渗透测试,bug赏金猎杀和安全研究的Slash命令 <sub>⭐ 554 · Python</sub>
+- [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Muteki项目(QQ):用于自动渗透测试的开源AI动力攻击安全套. <sub>⭐ 541 · Python</sub>
+- [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) - 自办的AI代理吊带在一个单Go二进制中——写作,沙盒测试和修理自己的工具,让克劳德代码,Codex和任何MCP客户端建立和共享. <sub>⭐ 540 · Go</sub>
+- [truecourse-ai/truecourse](https://github.com/truecourse-ai/truecourse) - 将您已经写的文档转换为运行中的测试。 失败的测试意味着您的产品和您的文件有异议, 并命名该部分 。 <sub>⭐ 536 · TypeScript</sub>
+- [Env-Kit/envkit-releases](https://github.com/Env-Kit/envkit-releases) - EnvKit——Windows & macOS的自由本地开发环境: nginx/Apache,多个PHP版本,MySQL/MariaDB,PostgreSQL,Redis,MongoDB,Mailpit,Node.js,可信任的. test HTTPS,以及一个内置... <sub>⭐ 533 · Shell</sub>
+- [ARCANGEL0/EVA](https://github.com/ARCANGEL0/EVA) - EVA是AI辅助的穿透测试代理,通过提供结构化攻击指导,背景分析,以及多后端AI集成,增强进攻性安全工作流程. <sub>⭐ 530 · Python</sub>
+- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - 这个 dbt 软件包可以捕捉元数据,文物,测试结果,这样你就可以发现异常,监测数据质量,并构建元数据表. 它赋予初级开放源码软件以权力,并为更广泛的上下文提供素材... <sub>⭐ 526 · Python</sub>
+- [HendrikStrobelt/detecting-fake-text](https://github.com/HendrikStrobelt/detecting-fake-text) - 巨型语言模型测试室 <sub>⭐ 501 · TypeScript</sub>
+- [docker/skills](https://github.com/docker/skills) - 收集了用于AI编码代理的Docker技能,以帮助他们构建,测试,调试,并优化集装箱化的应用,具有一致的,可重复使用的工作流程. <sub>⭐ 491 · Python</sub>
+- [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) - Agentic QE Fleet是一个开源的AI动力QA/QE平台,设计用于编码代理(与克劳德代码合作最好),其特点是专业代理和技能支持测试活动. . <sub>⭐ 489 · TypeScript</sub>
+- [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) - 用于全Godot 4.x引擎控制的MCP服务器:用于AI驱动的游戏开发的157个工具(GDScript和C#/.NET). 测试用Godot 4.7. <sub>⭐ 473 · JavaScript</sub>
+- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI 用于在 LLaMA, GPT- J 等上微调和测试您自己的 LORA 模型基础的工具。 一击运行于 Google Colab. + A Gradio ChatGPT 类似 Chat UI 以演示您的语言模型 。 <sub>⭐ 471 · Python</sub>
+- [SHAdd0WTAka/Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) - AI-Powered渗透测试框架,包括自动脆弱性扫描、多代理系统以及合规报告 <sub>⭐ 469 · Python</sub>
+- [guidewire-oss/fern-platform](https://github.com/guidewire-oss/fern-platform) - 统一测试智能平台,采用多格式摄取,实时分析,通过LLM集成实现AI动力的洞察. <sub>⭐ 459 · Go</sub>
+- [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - Collab 与 OpenAI. 用于寻找和利用智能合同错误的基准和工具 <sub>⭐ 458 · TypeScript</sub>
+- [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec) - DeepSec — AI Security Offfense & Defense Platform. Shield审计AI生成的密码,用于幻觉包,缺少保障和AI模式实时错误. Spear 自动实现授权. . <sub>⭐ 452 · Python</sub>
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - 构建您的用户喜爱 Speakeasy 的 API. Polized and type- safe SDKs. Terraform 提供者, MCP 服务器, CLIs 和 Contract Tests 用于您的 API. OpenAPI 本地化 。 <sub>⭐ 451 · JavaScript</sub>
+- [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - 这个脚本将使用SQLMap的SQL注射测试自动化,并配有AI动力决策. <sub>⭐ 450 · Python</sub>
+- [jnMetaCode/ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Claude Code Skill 将任何想法变成电影,模型化的视频提示器——Sora_Kling_Veo_种子. 21流派模板,5级结构,eval测试. Distilled from the AI short... <sub>⭐ 450 · Python</sub>
+- [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill) - 斯威夫特测试代理技能,用于克劳德代码,Codex,以及其他AI工具. <sub>⭐ 442</sub>
+- [xr843/Master-skill](https://github.com/xr843/Master-skill) - FoJin-powered佛教AI人物框架——源头基础,边界意识,忠诚度测试,运行时间准备. <sub>⭐ 437 · Python</sub>
+- [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) - VexJoy AI Agent with Jev Intelligent Routing - /do 路由纯英语请求给合适的专家代理,并用评论,测试,以及学习循环来关上工作门. <sub>⭐ 425 · Python</sub>
+- [project-codeguard/rules](https://github.com/project-codeguard/rules) - 项目代码守护(Project CodeGuard)是一个AI模型不可知的安全框架和规则集,将安全逐一设定的做法嵌入AI编码工作流程(生成和审查)中. 它传送核心安全规则... <sub>⭐ 424 · Python</sub>
+- [OrionStarAI/EasyCode](https://github.com/OrionStarAI/EasyCode) - easy Code(原DeepV Code)——一个高度定制的AI编码助手,兼容所有主要AI模型. Claude Code和Codex的完美替代品,提供深层代码分析. . <sub>⭐ 422 · TypeScript</sub>
+- [microsoft/RAMPART](https://github.com/microsoft/RAMPART) - 毒剂AI应用的试管-本地安全和安保测试框架 <sub>⭐ 419 · Python</sub>
+- [harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library) - 包含高质量、专业设计用于共同开发任务的提示的图书库。 节省时间, 并改进您的 AI 与战斗测试的快速模板的互动 。 您可以安装为... <sub>⭐ 412</sub>
+- [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) - AI代理安全威胁的开放检测规则标准——如Sigma,但针对AI代理. 可执行,可测试的规则用于迅速注射,工具中毒,上下文过滤和MCP攻击. <sub>⭐ 406 · TypeScript</sub>
+- [george0st/qgate-model](https://github.com/george0st/qgate-model) - ML/AI元模型,用于MLRun/Iguazio/Nuclio,见qgate-sln <sub>⭐ 405 · Python</sub>
+- [mezmo/aura](https://github.com/mezmo/aura) - AURA是一个经过生产测试的SRE代理平台,您可以在几分钟内部署. AURA处理护栏,API,州管理,流线,故障处理等需要让AI安全工作...... <sub>⭐ 400 · Rust</sub>
+- [mobile-next/mobilewright](https://github.com/mobile-next/mobilewright) - Mobilewright是Mobile App Testing and Automation的Dev框架,它允许在真实设备上测试iOS/Android应用,模拟器和模拟器使用单一的API. <sub>⭐ 396 · TypeScript</sub>
+- [Eyadkelleh/awesome-skills-security](https://github.com/Eyadkelleh/awesome-skills-security) - AI Agent的安全测试工具箱:经认证的SecLists词表、注射有效载荷和授权的笔试专家代理、CTFs和bug bountys <sub>⭐ 387 · PHP</sub>
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-动力E2E测试10个平台. 253 MCP工具. 0配置,与克劳德,Cursor,Windsurf,Copilot. Test Flutter,React Industrial,iOS,Android,Web,Electron,Tauri,KMP,.NET MAUI合作——全部...... <sub>⭐ 382 · Dart</sub>
+- [z3n70/Frida-Script-Runner](https://github.com/z3n70/Frida-Script-Runner) - 基于网络的Frida框架和工具包,用于Android & iOS的渗透测试,移动安全,以及动态分析,其特点是AI辅助的Frida脚本生成. <sub>⭐ 380 · JavaScript</sub>
+- [Ji-Rath/MassAIExample](https://github.com/Ji-Rath/MassAIExample) - 主要用于测试 UE5 质量AI系统的项目 <sub>⭐ 377 · C++</sub>
+- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - 用于测试虚拟物剂的基因AI动力框架. <sub>⭐ 376 · Python</sub>
+- [getagentseal/agentseal](https://github.com/getagentseal/agentseal) - AI代理的安全工具包。扫描您的机器以获取危险的技能和MCP配置,监测供应链攻击,测试快速注射阻力,审计MCP服务器以获取工具... <sub>⭐ 376 · Python</sub>
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 19 AI Agents + 44 双子座CLI的指令 - 代码10x快速的汽车规划,测试,审查和安全 <sub>⭐ 373 · Shell</sub>
+- [tehw0lf/airbash](https://github.com/tehw0lf/airbash) - POSIX 兼容、完全自动化的WPA PSK PMKID和握手抓取脚本,旨在进行渗透测试 <sub>⭐ 371 · Shell</sub>
+- [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) - 使AI编码助理编写生产级机器人软件的代理技能. ROS1,ROS2,设计模式,SOLID原理,以及测试——为克劳德代码,Cursor,Copilot,以及任何... <sub>⭐ 368 · Python</sub>
+- [prathyushnallamothu/swarmgo](https://github.com/prathyushnallamothu/swarmgo) - SwarmGo(agents-sdk-go)是一个Go软件包,它允许您创建能够交互,协调,执行任务的AI代理. OpenAI的Swarm框架所启发,SharmGo专注于制作... <sub>⭐ 361 · Go</sub>
+- [capture0x/AdStrike](https://github.com/capture0x/AdStrike) - AI动力模块式活动目录红色团队框架,用于授权的渗透测试,AD计数,攻击路径分析,Kerberos/ADCS工作流程,报告,操作员自动化,以及MCP. <sub>⭐ 357 · Python</sub>
+- [hust-diangroup/ns3-ai](https://github.com/hust-diangroup/ns3-ai) - 使用 Python 启用 ns-3 和流行框架之间的交互, 这意味着您可以在 ns-3 中训练和测试您的 AI 算法, 而无需更改您现在使用的任何框架 ! <sub>⭐ 356 · C++</sub>
+- [WordPress/ai](https://github.com/WordPress/ai) - WordPress的AI特性和实验. 测试AI能力的模块框架. <sub>⭐ 356 · PHP</sub>
+- [hi0001234d/nexpath](https://github.com/hi0001234d/nexpath) - 本地首款AI编码工作流程,用于气温编码器,Indie黑客,技术创始人和产品管理者——抓取Claude Code,Cursor,Windsurf,Replit,Lovable全程缺失的测试和安全检查. . <sub>⭐ 355 · TypeScript</sub>
+- [griddynamics/rosetta](https://github.com/griddynamics/rosetta) - AI 编码代理的指令层 <sub>⭐ 352 · TypeScript</sub>
+- [awizemann/harness](https://github.com/awizemann/harness) - AI驱动用户测试iOS模拟器,macOS应用软件和网络应用。用纯语言写一个目标;一个LLM代理驱动UI并报告摩擦. macOS 14+, Swift 6. <sub>⭐ 351 · Swift</sub>
+- [NsLearning/LangHelper](https://github.com/NsLearning/LangHelper) - 努力通过ChatGPT,TTS,STT等出色的AI模型来创建具有学习语言全部功能的大应用程序,支持说话,演讲评估,用. <sub>⭐ 348 · Rust</sub>
+- [fr33d3m0n/threat-modeling](https://github.com/fr33d3m0n/threat-modeling) - AI-内置自动化软件风险分析技能. LLM驱动,代码-First方法用于综合安全风险评估,威胁模型制作,安全测试,渗透测试,以及合规性. <sub>⭐ 347 · Python</sub>
+- [Teycir/BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) - 用于API安全测试的Burp套件扩展,包括15种攻击类型,108+载荷,智能模糊,BOLA/IDOR检测,AI集成,以及自动侦察. 支持REST/GraphQL/SOAP... <sub>⭐ 342 · Python</sub>
+- [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) - 11 Claude技能为SEO:页面审计,链接建设,文章写作,E-E-A-T审计,语义差距分析,链接建设. Medictory from Koray Tuğberk, Kyle Roof, and Lily Ray, plus a... <sub>⭐ 341</sub>
+- [perrystreetsoftware/Harmonize](https://github.com/perrystreetsoftware/Harmonize) - 协调是斯威夫特的现代电闸,允许您将建筑设计规则写成单元测试。在AI生成代码的时代,它为您的团队提供了决定式护栏来保存... <sub>⭐ 339 · Swift</sub>
+- [Desertbetweenalembic/website-downloader](https://github.com/Desertbetweenalembic/website-downloader) - 任何带有AI代理团队的网站——像素-完美UI克隆+反向工程架构docs. Claude Code技能建在新的动态Workflow引擎上,具有不可滑动的测试门. . <sub>⭐ 337</sub>
+- [superagents-lab/xcode27-skills](https://github.com/superagents-lab/xcode27-skills) - Apple官方代理技能从Xcode 27出口——SwiftUI,UIKit现代化,Swift Testing,CBLINS-Safety,以及AI编码代理的安全硬化. <sub>⭐ 332 · Python</sub>
+- [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) - 故意脆弱的OWASP LLM Top 10培训平台,用于AI安全,即时注射,RAG安全,代理安全,以及GenAI穿透测试. <sub>⭐ 331 · Python</sub>
+- [blob42/Instrukt](https://github.com/blob42/Instrukt) - 终端集成AI环境,构建,测试和指示代理. <sub>⭐ 329 · Python</sub>
+- [martian56/redcell](https://github.com/martian56/redcell) - AI红团队平台. 自主LLM代理运行一个穿透测试端,以在卡利容器内结束并撰写报告. LangGraph plan/act engine,通过LiteLLM提供-不可知模型... <sub>⭐ 329 · Python</sub>
+- [rasmusab/bayesian_first_aid](https://github.com/rasmusab/bayesian_first_aid) - 每一个古典测试中都有一个贝叶斯模型试图脱身. <sub>⭐ 329 · R</sub>
+- [Mathews-Tom/armory](https://github.com/Mathews-Tom/armory) - Cured, AI编码代理的制作级技能. Battle测试的工作流程为认真使用AI的开发者. <sub>⭐ 327 · Python</sub>
+- [aielte-research/HackSynth](https://github.com/aielte-research/HackSynth) - LLM 自动渗透测试代理和评价框架 <sub>⭐ 322 · Python</sub>
+- [vercel/next-evals-oss](https://github.com/vercel/next-evals-oss) - Evals for Next.js 最多15.5.6 在Next.js测试AI模型能力 <sub>⭐ 322 · TypeScript</sub>
+- [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) - 本文对开放源代码项目,学术论文,能力基准,以及AI渗透测试中的商业解决方案(国际与中国),LLM红色组合,自主攻势等进行了解析. . <sub>⭐ 322</sub>
+- [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT) - 对AI代理和LLM应用的要求驱动评价工具. 生成行为特定测试案例,对准任何目标运行(托管模型,可调用包装器,OTel跟踪代理)... <sub>⭐ 321 · Python</sub>
+- [block/trailblaze](https://github.com/block/trailblaze) - AI- Driven UI 带录音轨迹的测试框架 <sub>⭐ 320 · Kotlin</sub>
+- [dfinke/awesome-copilot-chatmodes](https://github.com/dfinke/awesome-copilot-chatmodes) - GitHub Copilot 的自定义聊天模式(ChandeMode.md)人物——将您的 VS 代码与 AI 助手专用于测试,安全,清空编码重构,仪表板,即时设计等等. <sub>⭐ 319</sub>
+- [pensarai/apex](https://github.com/pensarai/apex) - 使用自主代理进行AI动力攻击性安全测试,直接在您的终端. <sub>⭐ 315 · TypeScript</sub>
+- [jd-opensource/JoySafeter](https://github.com/jd-opensource/JoySafeter) - JoySafeter:一个企业AI代理平台——不只是聊天,建设、运行、测试,以及追踪具有视觉管弦的自主代理团队...... <sub>⭐ 312 · Python</sub>
+- [droid-ash/finalrun-agent](https://github.com/droid-ash/finalrun-agent) - 移动应用程序的AI QA代理 <sub>⭐ 311 · TypeScript</sub>
+- [Cloud-Code-AI/kaizen](https://github.com/Cloud-Code-AI/kaizen) - 用AI自动完成繁琐的开发任务 <sub>⭐ 304 · Python</sub>
+- [dekimir/RamFuzz](https://github.com/dekimir/RamFuzz) - 合并单位测试、模糊和AI <sub>⭐ 303 · C++</sub>
+- [usnistgov/dioptra](https://github.com/usnistgov/dioptra) - AI技术特性测试软件 <sub>⭐ 302 · Python</sub>
+- [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) - 多贷代码审计工具——280名高级人工智能专家代理,负责代码审查、安全测试和基础设施审计 <sub>⭐ 297 · Shell</sub>
+- [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - 建造、测试和部署智慧的人工智能特工 <sub>⭐ 295 · PHP</sub>
+- [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) - AI/ML/LLM Pennetration Testing Folket by Mr-Infect——用于AI安全,红色团队化和对抗性ML技术的#1 GitHub资源. 这个寄存器专门用于进攻性和防御性. . <sub>⭐ 290</sub>
+- [ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) - 泰坦斯的多代理演示平台(arXiv:2501.00663)——在测试时学会记忆的神经网络. 7AI代理,本土桌面UI. <sub>⭐ 289 · Python</sub>
+- [ServiceNow/HighRes-net](https://github.com/ServiceNow/HighRes-net) - Pytorch 执行高Res-net,一个多帧超分辨率的神经网络,在欧洲航天局的开尔文竞赛中经过培训和测试。这是一个ServiceNow 研究项目... <sub>⭐ 288 · Jupyter Notebook</sub>
+- [Role1776/netmon](https://github.com/Role1776/netmon) - 自我托管的网络监视器 - 小时速度测试,局域网设备通过ARP扫描计数,以及讽刺AI生成的报告交付给Telegram或Discord. <sub>⭐ 286 · Python</sub>
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) - Claude Code的完整AI开发工具箱. 106技能,36个代理,171个钩子. 安装Ork以稳定(v9.x),或用于V10线的Ork-alpha,每天发船. <sub>⭐ 286 · TypeScript</sub>
+- [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) - 面向网络安全的 LLM 工具模拟自动GPT 测试项目 <sub>⭐ 286 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 控制、记录和测试任何带有流行终端的tui app/ cli - 使终端完全为AI访问 <sub>⭐ 276 · Rust</sub>
+- [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - TDD的CLI——你写测试,GPT写代码通过测试 <sub>⭐ 275 · TypeScript</sub>
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) - 一份经过战斗测试的工具、框架和最佳做法一览表,用于建设可扩展的、生产级的检索式和升级的一代系统。 <sub>⭐ 273 · Python</sub>
+- [noskillish/bankmcp](https://github.com/noskillish/bankmcp) - BankMCPTM: 您的AI现在可以读取您的银行。 通过开放的银行业务( 可经营银行业务) , 为您自己的银行账户自备的、只读的 MCP 服务器。 标准 MCP; 与 Claude 和 Ollama 一同测试 。 <sub>⭐ 271 · TypeScript</sub>
+- [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) - 30+LLMs(OpenAI,Anthropic,Bedrock,Azure等)的统一的AI网关,有Caching,Guardrails,A/B测试和成本控制. Go-native Fast & Slisable AI网关 LiteLM & Kong AI网关... <sub>⭐ 270 · Go</sub>
+- [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp) - Roblox Studio运行时间调试的MCP服务器,播放测试控制,截图/输入,多人测试,以及AI代理商的每端服务器/客户端eval. <sub>⭐ 269 · Lua</sub>
+- [JoasASantos/Offensive-AI-Agent-Prompts](https://github.com/JoasASantos/Offensive-AI-Agent-Prompts) - 使用双子座Cli、ChatGPT、DeepSeek、CursorAI、Claude Code和Copilot对你的卡利Linux进行测试的提示。 <sub>⭐ 268</sub>
+- [gsd-build/gsd-browser](https://github.com/gsd-build/gsd-browser) - 由Chrome DevTools协议提供动力,从地面上为AI代理构建的快速,本土浏览器自动化CLI. 63指令涵盖导航,交互,截图,可访问性,网络... <sub>⭐ 267 · Rust</sub>
+- [Coff0xc/AutoRedTeam-Orchestrator](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) - MCP-内置安全自动化工作台(SDK + CLI + MCP)——授权测试+静态AI/MCP攻击表面自审计到SARIF / GitHub Code Scanning <sub>⭐ 265 · Python</sub>
+- [agentlabs-dev/auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - 网络测试 AI 代理 - 写您的规格, 它做其余的 <sub>⭐ 264 · TypeScript</sub>
+- [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - 渲染前可预知回放原生文本高度. 原生文本Kit/TextPaint测量+~0.02ms JS布局 FlashList,流传的AI聊天,打字机,夹到分区,障碍回流,动态类型... <sub>⭐ 258 · TypeScript</sub>
+- [waiterve/wai-play](https://github.com/waiterve/wai-play) - WAI Play - AI网络游戏测试和质量评价平台 <sub>⭐ 255 · Python</sub>
+- [OmarH-creator/Autonomous-Forge](https://github.com/OmarH-creator/Autonomous-Forge) - 这种回波是自动化的,完全由AI建造和AI维护的项目不断进行规划,代码,测试,自我改进. <sub>⭐ 254 · Python</sub>
+- [gbessoni/seobuild-onpage](https://github.com/gbessoni/seobuild-onpage) - SEOBUIELD Onpage - 第一位撰写网页Google排名和LLMs引用的AI代理。 在一个命令中, 排出页面。 在鹿绒上建起, 由 2026 SEO + GEO 策略测试/ 工作启动. 法医学... <sub>⭐ 253 · Python</sub>
+- [h0tak88r/AutoAR](https://github.com/h0tak88r/AutoAR) - AutoAR是一个自动安全侦察工具,为bug赏金猎人和穿透测试者的ASM和Discord bot. 它自动化了集聚子域,扫描端口,检测技术...... <sub>⭐ 252 · Go</sub>
+- [yucchiy/UniCli](https://github.com/yucchiy/UniCli) - 一个控制Unity编辑器的CLI工具——使人类和AI代理能够从终端运行编译,测试,以及编辑命令. <sub>⭐ 252 · C#</sub>
+- [yohannesgk/blacksmith](https://github.com/yohannesgk/blacksmith) - 铁匠AI是一个OPEN-SOURCE高级渗透测试框架,它利用多个AI代理将安全评估自动化. 系统通过一个完整的... <sub>⭐ 248 · TypeScript</sub>
+- [mozilla-ai/wasm-agents-blueprint](https://github.com/mozilla-ai/wasm-agents-blueprint) - 测试 WASM 驱动的 AI 代理 <sub>⭐ 246</sub>
+- [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) - E2E QA 测试的计算机使用 SDK <sub>⭐ 243 · JavaScript</sub>
+- [4R7I5T/CL1_LLM_Encoder](https://github.com/4R7I5T/CL1_LLM_Encoder) - 使用Cortical Labs CL1来训练神经元在LLMS上编码征兆化模式,并测量高级AI安全和隐患测试的意识度量. EX 警告:I 是在无路...... <sub>⭐ 242 · Python</sub>
+- [Autonoma-AI/autonoma](https://github.com/Autonoma-AI/autonoma) - 开源测试平台, AI 代理浏览您的应用程序端到端并捕捉每个PR的回归。 不要求测试代码 。 <sub>⭐ 238 · TypeScript</sub>
+- [MIO-456/Lumi_Nox](https://github.com/MIO-456/Lumi_Nox) - 两个AI VTubers联合主持一个现场表演——实时引擎和管弦乐. Open-core,战斗测试由每日流播. <sub>⭐ 237 · Python</sub>
+- [AngusKit/AngusKit](https://github.com/AngusKit/AngusKit) - 私人,自办的AI-native软件工程套件——统一身份(GM)+AI代理,代码协作,文物管理,测试,安全,产品分析. <sub>⭐ 234</sub>
+- [LambdaTest/test-at-scale](https://github.com/LambdaTest/test-at-scale) - 在Scale平台测试TestMu AI(原Lambda Test). <sub>⭐ 233 · Go</sub>
+- [shenli/distributed-system-testing](https://github.com/shenli/distributed-system-testing) - 分布式系统测试的AI代理技能 <sub>⭐ 231</sub>
+- [arklexai/arksim](https://github.com/arklexai/arksim) - 查找代理错误是您真正的用户的先导 <sub>⭐ 230 · Python</sub>
+- [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) - QA技能目录 QA技能是AI编码代理商(Claude Code, cursor, Copilot等)的测试特定技能的目录. <sub>⭐ 230 · TypeScript</sub>
+- [AI45Lab/OpenART](https://github.com/AI45Lab/OpenART) - OpenART是一个开源框架,旨在评价自主AI代理在动态,长视野和状态环境中的安全性和稳健性. 它能对压力测试代理运行时间... <sub>⭐ 228 · Python</sub>
+- [KleinYuan/Caffe2-iOS](https://github.com/KleinYuan/Caffe2-iOS) - iOS实时Demo上的Cafe2,使用自己的模型和照片进行测试. <sub>⭐ 225 · C++</sub>
+- [mubaidr/gem-team](https://github.com/mubaidr/gem-team) - 将AI编码变成工程过程. <sub>⭐ 225</sub>
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) - Cisco提供的关于代理AI安全评价和测试的公开规格. <sub>⭐ 224</sub>
+- [LLAMATOR-Core/llamator](https://github.com/LLAMATOR-Core/llamator) - 红色组合蟒蛇架用于测试聊天机和GenAI系统. <sub>⭐ 223 · Python</sub>
+- [Axolotl-QA/Axolotl](https://github.com/Axolotl-QA/Axolotl) - VS代码的AI-power QA代理. 分析代码更改,生成测试计划,运行真实的浏览器测试,并交付证据支持的合并判断. <sub>⭐ 220 · TypeScript</sub>
+- [MainRo/deepspeech-server](https://github.com/MainRo/deepspeech-server) - 一个基于coqui.ai的语音文本服务测试服务器 <sub>⭐ 219 · Python</sub>
+- [idavidov13/agentic-playwright](https://github.com/idavidov13/agentic-playwright) - 制作级 Playwright + TypeScript Scafold 用于代理测试. Harness 供所有主要AI编码代理烘焙使用. <sub>⭐ 218 · Python</sub>
+- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - 建议系统 这是一个关于使用机器学习和深层学习技术来构建建议System理论的研讨会: ML & DL 配制, President vs. Ranking, Simililary... <sub>⭐ 218 · Jupyter Notebook</sub>
+- [lintrule/lintrule](https://github.com/lintrule/lintrule) - 让LLM检查一下你的代码 <sub>⭐ 217 · TypeScript</sub>
+- [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) - 全能安全测试工具箱,通过一个单一的MCP接口将流行的开源工具集成在一起. 连接到一个AI代理上,可以实现诸如笔试,bug赏金猎杀等任务. . <sub>⭐ 216 · Python</sub>
+- [awslabs/ai-on-eks](https://github.com/awslabs/ai-on-eks) - EKS上的AI - 为亚马逊弹性Kubernetes服务测试的AI/ML <sub>⭐ 215 · HCL</sub>
+- [GAIR-NLP/cognition-engineering](https://github.com/GAIR-NLP/cognition-engineering) - 基因AI II:测试时间缩放驱动认知工程 <sub>⭐ 214 · Python</sub>
+- [supercheck-io/supercheck](https://github.com/supercheck-io/supercheck) - 开源测试、监测以及AI SRE——作为代码 <sub>⭐ 214 · TypeScript</sub>
+- [fzn0x/watchtower](https://github.com/fzn0x/watchtower) - Watchtower是一个简单的AI驱动的渗透测试自动化CLI工具,它利用LLMs和LangGraph来协调您可以用来本地测试您网站的代理工作流程. Generation... <sub>⭐ 212 · Python</sub>
+- [vectara/awesome-agent-failures](https://github.com/vectara/awesome-agent-failures) - 社区整理的AI代理故障模式和战斗测试解决方案集. <sub>⭐ 212</sub>
+- [jsdhwfmax/EvalForge](https://github.com/jsdhwfmax/EvalForge) - AI评价中性证据、基线回归门和JSON、JUnit和SARIF为CI编写的报告。 <sub>⭐ 210 · Python</sub>
+- [Jjschwartz/NetworkAttackSimulator](https://github.com/Jjschwartz/NetworkAttackSimulator) - 模拟网络测试AI笔试剂的环境. <sub>⭐ 208 · Python</sub>
+- [garagon/nanostack](https://github.com/garagon/nanostack) - 帮助AI编码代理计划、审查、测试和船舶安全代码的工作流程控制器。 <sub>⭐ 207 · Shell</sub>
+- [gy15901580825/Argus](https://github.com/gy15901580825/Argus) - 黑盒, AI 代理的开源红团队测试。 在任意HTTP, gRPC, 或浏览器使用代理端点上标注它; 运行205个探测器, 映射到 OWASP LLM Top 10 / MITRE ATLAS / NIST AI RMF, 包含... <sub>⭐ 206 · Python</sub>
+- [HimankSehgal/AI-interview-prep](https://github.com/HimankSehgal/AI-interview-prep) - AI/ML采访20+公司的问题,问到什么,测试了什么,如何准备。 <sub>⭐ 205</sub>
+- [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - AI编码代理的治理框架。它通过一个五步工作流程(计划、建设、审查、测试、船舶)运行,没有证据就算不上步骤。 <sub>⭐ 204 · Python</sub>
+- [av/facts](https://github.com/av/facts) - 防风针,一个与人工智能代理商进行事实驱动开发的工具包 <sub>⭐ 203 · Rust</sub>
+- [vysakh0/dravid](https://github.com/vysakh0/dravid) - AI 为cli 编码代理提供动力,用于监视您的 dev/测试服务器并修正错误和添加特性 <sub>⭐ 203 · Python</sub>
+- [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - 一个简单、可靠、流畅的Python软件包模板, 里面有文件、测试套件、readme、github工作流程、林化和更多 <sub>⭐ 202 · Shell</sub>
+- [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) - 非官方的Android端口未拆卸 Recompiled, 由Anthropic的Fable 5 AI在人类引导下建造,设备测试和调试, Artifacts, freeze and audio problem possible. Special Thanks to... <sub>⭐ 202 · C</sub>
+- [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions) - 与 GitHub Copilot 开发的 AI 辅助开发的最佳做法、编码规则和工作流程自动化的综合编码库。包括 DDD、 Clean Architecture、 测试、 承诺公约和. <sub>⭐ 196 · TypeScript</sub>
+- [codingthefuturewithai/software-dev-prompt-library](https://github.com/codingthefuturewithai/software-dev-prompt-library) - 包含可重复使用 gen AI 提示的快速库,用于通用软件工程任务 <sub>⭐ 195</sub>
+- [soleio/luck](https://github.com/soleio/luck) - 一种提高人工智能堆栈和工程运气的技能,它来自应用的理论框架。多重诊断元件,命名为故障模式、可测试预测和... <sub>⭐ 193</sub>
+- [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) - 信任的建筑变得容易! 一个云土软件厂,用于建造、测试和释放信任的软件文物 <sub>⭐ 189 · Go</sub>
+- [Handit-AI/handit.ai](https://github.com/Handit-AI/handit.ai) - 您的 AI 队友 修复您的 AI。 不再有 2am 调试会话或无声故障。 自动检测问题、 生成修正、 测试和船舶 PR 。 要让 AI 在... <sub>⭐ 188 · JavaScript</sub>
+- [FrankS-IntelLab/agentic-kaggle-skill](https://github.com/FrankS-IntelLab/agentic-kaggle-skill) - AI Agent驱动的Kaggle竞技工作流程. Battle测试的计分稳定模式,提交故障解析,内核工作流程,以及Spec驱动的开发. <sub>⭐ 187 · Python</sub>
+- [SensorsIot/Embedded-AI-Harness](https://github.com/SensorsIot/Embedded-AI-Harness) - AI Closed-Loop编程用于嵌入式系统——AI写,闪光,在真硬件上测试固件直到测试运行干净. Spec to silcon, hands off. <sub>⭐ 185 · Python</sub>
+- [ykdojo/safeclaw](https://github.com/ykdojo/safeclaw) - 运行多个 Claude 代码会话的最简单方式, 每个会话都装在自己的容器里, 并配有一个仪表板来管理它们。 快速设置 , 用战斗测试的合理默认和技能 。 <sub>⭐ 184 · HTML</sub>
+- [open-daimax/daimax-appbench](https://github.com/open-daimax/daimax-appbench) - AI生成的应用软件的自动化基准平台——内置评价规则,标准样本集,以及跨多维度度量系统的分层测试案例. 1条管道运行建设. . <sub>⭐ 182 · Python</sub>
+- [mehrandvd/skunit](https://github.com/mehrandvd/skunit) - skUnit是AI单元的测试工具,如IChatClient,MCP服务器和代理. <sub>⭐ 181 · C#</sub>
+- [pliablepixels/gap-trap](https://github.com/pliablepixels/gap-trap) - 将感官编码转换成高品质的代码。 在您的重播中设置规则和大门, 这样 AI 写入的代码不会在您不检视每行的情况下被校正 。 <sub>⭐ 181 · JavaScript</sub>
+- [CatchTheTornado/open-agents-builder](https://github.com/CatchTheTornado/open-agents-builder) - AI代理公司错过了UI!我们在这里是为了改变它. 为您的公司建立Business AI代理公司:业务工作流程,API's,预订,电子商务,社会商业,b2b,CPQ,收录表,NPS测试... <sub>⭐ 180 · TypeScript</sub>
+- [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) - 您 Obsidian 金库的本地学习系统。 学习 Kit 用闪卡、 间距重复、 评论、 测试和 AI 工具将纸条转换为持久知识 。 <sub>⭐ 178 · TypeScript</sub>
+- [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - 举报人是一种攻击性的安全工具,用于测试系统即时泄漏和通过API暴露的AI应用程序的能力发现. Built是为AI工程师,安全研究人员建造的. <sub>⭐ 178 · Python</sub>
+- [smixs/skill-conductor](https://github.com/smixs/skill-conductor) - 人工智能特工的架构第一技能生命周期. BinEval二进制评分 带有阈值盲,跨家庭校准的评分,门式自升循环,压力测试,10个作者原理...... <sub>⭐ 178 · Python</sub>
+- [KKingZero/Zypheron-CLI](https://github.com/KKingZero/Zypheron-CLI) - ZYPHERON CLI 强大的命令行接口用于自动化安全测试. 将ZYPHERON 整合到您的 DevSecops 管道中。 Get CLI <sub>⭐ 176 · Python</sub>
+- [langchain-ai/langsmith-docs](https://github.com/langchain-ai/langsmith-docs) - 此还款已贬值。 请访问 langchain-ai/ docs 。 <sub>⭐ 176 · JavaScript</sub>
+- [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit) - Gen AI应用软件的自动即时测试和评价 <sub>⭐ 172 · Jupyter Notebook</sub>
+- [RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting](https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting) - 之前的"Fitness-AI-Coach"的扩展:一个完整的网络应用程序,具有实时练习识别和计数功能. 练习识别模型在测试集上实现了99%的精度和. <sub>⭐ 169 · Python</sub>
+- [AISquare-Studio/AISquare-Studio-QA](https://github.com/AISquare-Studio/AISquare-Studio-QA) - 利用剧作家和剧组人员建立质量保证测试代理 <sub>⭐ 167 · Python</sub>
+- [solis-team/XRepoTest](https://github.com/solis-team/XRepoTest) - (EMNLP 2026) 一个用于寄存器级单位测试生成的多语言基准,在可复制,多克执行下评价LLMS跨越5种编程语言和现实世界代码. <sub>⭐ 167 · Python</sub>
+- [VeryGoodOpenSource/vgv-ai-flutter-plugin](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) - 由Very Good Ventures 建造的增强和加速 Flustter & Dart 开发的AI插件 <sub>⭐ 166 · Shell</sub>
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) - 开源RAG应用具有LLM可观测性(Langfuse),支持100+供应商(LiteLLM),多克化,全类型检查,100%测试覆盖,以及更多. <sub>⭐ 165 · TypeScript</sub>
+- [humanbound/humanbound](https://github.com/humanbound/humanbound) - 开源对抗测试引擎SDK,以及AI代理的CLI,运行于本地或针对Humanbound平台. <sub>⭐ 165 · Python</sub>
+- [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder) - 深技能查找器 – 真实测试 真实审查会找到真正工作的技能 <sub>⭐ 165 · Python</sub>
+- [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) - Spec-first AI开发:描述一个功能 → AI创建 spec + 计划 + 任务,自主构建,同步到GitHub/JIRA. 域专家技能为PM,建筑师,前端,QA学习你的图案...... <sub>⭐ 164 · TypeScript</sub>
+- [Addepar/RedFlag](https://github.com/Addepar/RedFlag) - RedFlag使用AI识别高风险代码更改,在批量模式中运行以发布候选测试或CI管道以标记PR并添加审查员. RedFlag的灵活配置使它. . <sub>⭐ 163 · Jinja</sub>
+- [antoninoLorenzo/AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) - 基于开源LLMs的穿透测试AI助手. <sub>⭐ 163 · Python</sub>
+- [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) - TypeScript AI代理器的本地证据调试器和轨迹测试工具包:检查因果运行,在CI中捕获错误的工具路径,共享安全的离线证据. <sub>⭐ 163 · TypeScript</sub>
+- [Yenn503/Hexstrike-redteam](https://github.com/Yenn503/Hexstrike-redteam) - AI动力的MCP穿透测试框架将HexStrike的150+安全工具与BOAZ的高级有效载荷逃逸(77+加载器,12个编码器)相结合. Features 12+ 自主的AI代理用于bug... <sub>⭐ 161 · C++</sub>
+- [yegor256/prompt](https://github.com/yegor256/prompt) - 用于教授优雅编码和测试精髓的 LLMs 的简洁文字提示——保存到~/.claude/CLAUDE.md. <sub>⭐ 160</sub>
+- [amplitude/builder-skills](https://github.com/amplitude/builder-skills) - 产品经理的开源AI技能——由首相在Amplitude进行战斗测试. <sub>⭐ 159</sub>
+- [DanielSuo117/velocitai](https://github.com/DanielSuo117/velocitai) - 下一代的UI自动化控制器由Python & Playwright提供动力,与AI Agents聊天,以无缝生成,架构设计,并执行企业级UI测试代码. <sub>⭐ 158 · Python</sub>
+- [m-sec-org/ez-ai-agent](https://github.com/m-sec-org/ez-ai-agent) - 与专属经济区和代理人的自动渗透测试 <sub>⭐ 158 · JavaScript</sub>
+- [irahardianto/awesome-agv](https://github.com/irahardianto/awesome-agv) - 一整套旨在提高AI编码代理能力的标准和做法。 <sub>⭐ 157 · JavaScript</sub>
+- [azalio/map-framework](https://github.com/azalio/map-framework) - 计划时为Claude Code & Codex CLI建立AI编码——在模型写出代码线之前你批准该计划. SPEC → Plan → TEST → CODE – Review ~ LEARN <sub>⭐ 156 · Python</sub>
+- [DebugBase/glance](https://github.com/DebugBase/glance) - Claude Code 的 AI 驱动浏览器自动化 MCP 服务器. 导航,点击,截图,测试——全部来自您的终端. <sub>⭐ 156 · TypeScript</sub>
+- [edgenuitybot/exodusbot](https://github.com/edgenuitybot/exodusbot) - Exodus / The # 1 Edgenuity Bot for Quizes, Tests, and Exams. 包括自动回答,自动延迟,在AI Answers中构建,自动提交,EdgeEX支持和 More! / 关于:Exodus是一个在线课程工具... <sub>⭐ 156 · JavaScript</sub>
+- [SciSharp/BotSharp-UI](https://github.com/SciSharp/BotSharp-UI) - 在中央建造、测试和管理你的人工智能特工 <sub>⭐ 156 · Svelte</sub>
 
 ## 🖱️ AI 驱动的界面自动化
 
 > 浏览、点击并验证 Web 和移动应用的智能体。
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and… <sub>⭐ 85.2k · Python</sub>
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. <sub>⭐ 84.6k · Python</sub>
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server <sub>⭐ 37.8k · TypeScript</sub>
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation <sub>⭐ 35.8k · Zig</sub>
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use. <sub>⭐ 31.8k · Python</sub>
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent. <sub>⭐ 29.8k · JavaScript</sub>
-- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping <sub>⭐ 28.3k · Rust</sub>
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and… <sub>⭐ 26.0k · TypeScript</sub>
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. <sub>⭐ 25.5k · TypeScript</sub>
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI <sub>⭐ 23.1k · Python</sub>
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent <sub>⭐ 15.9k · Python</sub>
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. <sub>⭐ 13.9k · TypeScript</sub>
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. <sub>⭐ 13.8k · TypeScript</sub>
-- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. <sub>⭐ 13.2k · TypeScript</sub>
-- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. <sub>⭐ 11.4k · JavaScript</sub>
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites.… <sub>⭐ 9.6k · Python</sub>
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents. <sub>⭐ 9.6k · TypeScript</sub>
-- [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed… <sub>⭐ 8.5k · Python</sub>
-- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs <sub>⭐ 6.9k · TypeScript</sub>
-- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More <sub>⭐ 5.7k · TypeScript</sub>
-- [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) - Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One command: make up <sub>⭐ 4.5k · Go</sub>
-- [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust <sub>⭐ 4.4k · Rust</sub>
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android… <sub>⭐ 4.2k · HTML</sub>
-- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent <sub>⭐ 4.1k · TypeScript</sub>
-- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP <sub>⭐ 4.0k · TypeScript</sub>
-- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command. <sub>⭐ 3.6k · TypeScript</sub>
-- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. <sub>⭐ 2.9k · Shell</sub>
-- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. <sub>⭐ 2.6k · TypeScript</sub>
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools <sub>⭐ 2.6k · JavaScript</sub>
-- [feder-cr/dots](https://github.com/feder-cr/dots) - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. <sub>⭐ 2.5k · Python</sub>
-- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code <sub>⭐ 2.2k · Python</sub>
-- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App <sub>⭐ 2.1k · TypeScript</sub>
-- [BetaStreetOmnis/xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) - AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows. <sub>⭐ 2.1k · Python</sub>
-- [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents <sub>⭐ 2.0k · Python</sub>
-- [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans… <sub>⭐ 1.9k</sub>
-- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - playwright for windows computer use <sub>⭐ 1.6k · Rust</sub>
-- [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation <sub>⭐ 1.6k · TypeScript</sub>
-- [skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator) - Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools. <sub>⭐ 1.6k · Python</sub>
-- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at… <sub>⭐ 1.5k · Python</sub>
-- [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction <sub>⭐ 1.4k · Go</sub>
-- [browserwing/browserwing](https://github.com/browserwing/browserwing) - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let… <sub>⭐ 1.4k · Go</sub>
-- [ai-to-ai/Auto-Gmail-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping. <sub>⭐ 1.4k · Python</sub>
-- [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) - BrowserGym, a Gym environment for web task automation <sub>⭐ 1.4k · Python</sub>
-- [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs <sub>⭐ 1.4k · Python</sub>
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs! <sub>⭐ 1.2k · Python</sub>
-- [browserable/browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents <sub>⭐ 1.2k · JavaScript</sub>
-- [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser. <sub>⭐ 1.1k · TypeScript</sub>
-- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on… <sub>⭐ 1.1k · Python</sub>
-- [lennybase/browsernode](https://github.com/lennybase/browsernode) - Make websites accessible for AI agents. Automate tasks online with ease. <sub>⭐ 1.1k · TypeScript</sub>
-- [vinyzu-archive/Botright](https://github.com/vinyzu-archive/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your… <sub>⭐ 1.0k · Python</sub>
-- [antibrow/antibrow](https://github.com/antibrow/antibrow) - Kernel-level antidetect browser with the Playwright API you already write. Python + Node SDKs, MCP-ready, unlimited local profiles. Linux x64 + arm64, macOS Intel + Apple Silicon, Windows x64. <sub>⭐ 991 · TypeScript</sub>
-- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) - Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent. <sub>⭐ 896 · Python</sub>
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 一个适应性的网络搜索框架,它处理从一个单一请求到一个全面爬行的一切! 不要害羞,请加入这里 //discord.gg/EMgGbDceNQ,并跟随这里获取日常提示和... <sub>⭐ 85.2k · Python</sub>
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - LLMs 和 AI 代理软件的开源网络爬行器和刮刮器: 任何网站进入干净的、 LLM 准备的 Markdown 。 自己运行, 或使用 Crawl4AI Cloud 键 。 <sub>⭐ 84.6k · Python</sub>
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP 服务器 <sub>⭐ 37.8k · TypeScript</sub>
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda:为AI和自动化设计的无头浏览器 <sub>⭐ 35.8k · Zig</sub>
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP服务器未被反机器人和captchas发现:AI代理浏览网络上关于反探测隐形Firefox,Python,未被发现浏览器自动化,刮损,计算机使用. <sub>⭐ 31.8k · Python</sub>
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - 通过 AI 代理将任何网站创建为 CLI 并使用您的登录浏览器 。 <sub>⭐ 29.8k · JavaScript</sub>
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - AI 代理和网络刮切的无头浏览器 <sub>⭐ 28.3k · Rust</sub>
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee - 一个用于Node.js的网页刮和浏览器自动化库, 用来构建可靠的爬行器。 在 JavaScript 和 TypeScript 中, 为 AI、 LLMs、 RAG 或 GPT 提取数据。 下载 HTML、 PDF、 JPG、 PNG 和... <sub>⭐ 26.0k · TypeScript</sub>
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - SDK可以提取数据,并与任何网站进行互动. Get started with Claude Code, Codex, Eve, Mastra, et more. <sub>⭐ 25.5k · TypeScript</sub>
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - 基于 AI 的自动浏览器工作流程 <sub>⭐ 23.1k · Python</sub>
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - 在无VNC支持的docker解决方案中的Android,视频录制,mcp服务器和AI代理 <sub>⭐ 15.9k · Python</sub>
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI 动力网络自动化的开源 Chrome 扩展。 使用您自己的 LLM API 键运行多代理工作流程。 可替代 OpenAI 运算器 。 <sub>⭐ 13.9k · TypeScript</sub>
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 开源代理浏览器;替代ChatGPT Atlas, Perplexity Comet, Dia. <sub>⭐ 13.8k · TypeScript</sub>
+- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - 使用ChatGPT Web(包括Pro)作为Codex中的本土模型——带有上下文,工具,流线和图像,而不使用Codex配额. <sub>⭐ 13.2k · TypeScript</sub>
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - AI代理的隐形无头浏览器——绕过Cloudflare,bot检测,以及反扫荡. Drop-in Puppeteer/Playwright替换. <sub>⭐ 11.4k · JavaScript</sub>
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee - A Web 刮取和浏览器自动化库,用于 Python 构建可靠的爬行器. 提取数据用于 AI, LLMS, RAG, 或 GPTs. 下载 HTML, PDF, JPG, PNG, 以及网站中的其他文件. . <sub>⭐ 9.6k · Python</sub>
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - 让AI代理浏览网页,一个基于浏览器的AI代理的自主工具包. <sub>⭐ 9.6k · TypeScript</sub>
+- [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack设备控制平台:WebRTC/H.264远程桌面,UI/OCR/图像匹配自动化,一击MITM,内置Frida,代理/VPN/frp/P2P网络,MCP/Agent,160+API,设计. . <sub>⭐ 8.5k · Python</sub>
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用 LLMS 将任何网页转换为结构化数据 <sub>⭐ 6.9k · TypeScript</sub>
+- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright 模型上下文协议服务器 - Claude桌面、Cline、cursor IDE 和 More 中的浏览器和API自动化工具 <sub>⭐ 5.7k · TypeScript</sub>
+- [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) - 开源网页刮掉 API。 将任何网站转换为干净的标记降级或结构化的 JSON. Anti- detect浏览器, 代理自动选择, 自行托管。 一个命令: 组成 <sub>⭐ 4.5k · Go</sub>
+- [lexmount/moli](https://github.com/lexmount/moli) - AI 代理的最佳无头浏览器。 Lite, Fast, High Compatibility. 建于 Rust <sub>⭐ 4.4k · Rust</sub>
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - 提取任何网站的完整设计系统都有一个命令. DTCG 令牌,语义+primitive+composite,Claude Code/Cursor/Windsurf的MCP服务器,多平台发射器(iOS SwiftUI,Android... <sub>⭐ 4.2k · HTML</sub>
+- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - 开源、 视觉第一浏览器代理 <sub>⭐ 4.1k · TypeScript</sub>
+- [remorses/playwriter](https://github.com/remorses/playwriter) - Crome 扩展名 & CLI 允许代理控制您的浏览器。 在状态沙盒中运行 Playwright 片段。 作为 CLI 或 MCP 可用 <sub>⭐ 4.0k · TypeScript</sub>
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - 将任何网站的设计系统分秒提取为符号:标志、颜色、印刷、边框和更多。一个命令。 <sub>⭐ 3.6k · TypeScript</sub>
+- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) - 基于灯塔和核心网络维生物优化网络质量的代理技能. <sub>⭐ 2.9k · Shell</sub>
+- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - 原子弹剂是本地首款人工智能剂,通过lama.cpp在自己的机器上运行开放量级模型. <sub>⭐ 2.6k · TypeScript</sub>
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI编码工作站: Claude Code + web UI + 8 AI CLIS + 无头浏览器+ 50+工具 <sub>⭐ 2.6k · JavaScript</sub>
+- [feder-cr/dots](https://github.com/feder-cr/dots) - 网络的开源点:一个拥有自己浏览器的AI代理,一个不会被屏蔽. <sub>⭐ 2.5k · Python</sub>
+- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - Claude Code的AI-本土视频制作工具包 <sub>⭐ 2.2k · Python</sub>
+- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - 完全免费, 私有, 基于 UI 的 Tech Document MCP 服务器。 为编辑者和软件开发者设计, 方便地整合到 Cursor, Windsurf, Cline, Roo Code, Claude桌面 App 中 <sub>⭐ 2.1k · TypeScript</sub>
+- [BetaStreetOmnis/xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) - AI动力小洪修/Rednote内容创建和发布工具,有PyQt桌面UI,FastAPI服务,登录状态再利用,预览发布,以及自动浏览器工作流程. <sub>⭐ 2.1k · Python</sub>
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 用于您的 AI 和编码代理的云浏览器基础设施和网络自动化平台 <sub>⭐ 2.0k · Python</sub>
+- [skalesapp/skales](https://github.com/skalesapp/skales) - macOS,Windows,Linux,Android & iOS的个人AI代理. 设定一个目标,它单独工作:编码(Skales Code),桌面+浏览器自动化,自主计划任务. Teams of interests and humans... <sub>⭐ 1.9k</sub>
+- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - 用于窗口的剧作家计算机使用 <sub>⭐ 1.6k · Rust</sub>
+- [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI 浏览器自动化 <sub>⭐ 1.6k · TypeScript</sub>
+- [skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator) - 为Tavily和Firecrawl签名自动化,密钥验证,以及孤立的代理集合提供的多服务工具包. <sub>⭐ 1.6k · Python</sub>
+- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL 是连接您的AI到网络的一套工具。 设计一个查询语言和 Playwright 集成, 用于与元素交互, 快速, 准确, 并提取数据 。 <sub>⭐ 1.5k · Python</sub>
+- [karust/openserp](https://github.com/karust/openserp) - 自办的SERP API 用于AI, SEO & 自动化. 浏览器将Google, Bing, Yandex, Baidu, DuckDuckGo 和 Ecosia 搜索与页面提取 <sub>⭐ 1.4k · Go</sub>
+- [browserwing/browserwing](https://github.com/browserwing/browserwing) - 浏览器Wing将您的浏览器动作转换成MCP命令或Claude Skill,允许AI代理高效可靠地控制浏览器. 说再见以慢速的,象征性的LLM交互——让... <sub>⭐ 1.4k · Go</sub>
+- [ai-to-ai/Auto-Gmail-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - 开放源代码 Bulk Auto Gmail 创建器瓶,带有硒 & Seleniumwire (Python). 请随意与Django/Flask,ML,AI,GPT,自动化,Scraping联系. <sub>⭐ 1.4k · Python</sub>
+- [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) - 浏览器Gym,用于网络任务自动化的 Gym 环境 <sub>⭐ 1.4k · Python</sub>
+- [raznem/parsera](https://github.com/raznem/parsera) - 轻量级图书馆,用于使用 LLMS 刮掉网站 <sub>⭐ 1.4k · Python</sub>
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - 将网站变成API的代理! <sub>⭐ 1.2k · Python</sub>
+- [browserable/browserable](https://github.com/browserable/browserable) - 用于 AI 代理的开放源代码和可自行托管的浏览器自动化库 <sub>⭐ 1.2k · JavaScript</sub>
+- [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - 使用 Playwright 无头浏览器获取网页内容的 MCP 服务器 。 <sub>⭐ 1.1k · TypeScript</sub>
+- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - 开源自办的Claude Code - 一个终端AI助手及其背后的Python框架. 工具调用,沙箱执行,多代理团队,技能,检查站,无限上下文-在... <sub>⭐ 1.1k · Python</sub>
+- [lennybase/browsernode](https://github.com/lennybase/browsernode) - 方便人工智能代理用户访问网站,在线自动任务可轻松完成. <sub>⭐ 1.1k · TypeScript</sub>
+- [vinyzu-archive/Botright](https://github.com/vinyzu-archive/Botright) - Botright, 最高级的未被发现的, 更改指纹, 解封、 开源自动化框架。 在 Playwright 上构建, 它与扩展代码一样容易使用 。 解决您的... <sub>⭐ 1.0k · Python</sub>
+- [antibrow/antibrow](https://github.com/antibrow/antibrow) - Kennel级的反检测浏览器,有您已经写的 Playwright API. Python + Node SDKs, MCP 准备,无限本地配置. Linux x64 + arm64, macOS Intel + Apple Silicon, Windows x64. <sub>⭐ 991 · TypeScript</sub>
+- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) - 给您的AI代理一个真实的浏览器——循环中有一个人. Open-source MCP-native浏览器代理. <sub>⭐ 896 · Python</sub>
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - 软件团队的开源自改进QA代理。 一个带有内存的测试控制器。 为网络和移动使用自然语言进行写作测试。 agent-qa从每个运行中学习,适应UI的变化,以及... <sub>⭐ 894 · TypeScript</sub>
-- [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT. <sub>⭐ 849 · TypeScript</sub>
-- [kontext-security/browser-use-mcp-server](https://github.com/kontext-security/browser-use-mcp-server) - Browse the web, directly from Cursor etc. <sub>⭐ 847 · Python</sub>
-- [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically! <sub>⭐ 829 · Python</sub>
-- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online… <sub>⭐ 802 · Python</sub>
-- [ServiceNow/AgentLab](https://github.com/ServiceNow/AgentLab) - AgentLab: An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility. <sub>⭐ 642 · Python</sub>
-- [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration. <sub>⭐ 620 · TypeScript</sub>
-- [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities. <sub>⭐ 585</sub>
-- [OTA-Tech-AI/web-agent-protocol](https://github.com/OTA-Tech-AI/web-agent-protocol) - Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support <sub>⭐ 506 · Python</sub>
-- [scraperai/scraperai](https://github.com/scraperai/scraperai) - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels. <sub>⭐ 485 · HTML</sub>
-- [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click! <sub>⭐ 474 · JavaScript</sub>
-- [randifajar/developer-portfolio](https://github.com/randifajar/developer-portfolio) - Personal developer portfolio showcasing my backend engineering experience, projects, and AI-assisted development workflow. <sub>⭐ 449 · TypeScript</sub>
-- [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper) - An AI web scraper using ollama, brightdata, selenium and other libraries. <sub>⭐ 425 · Python</sub>
-- [sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) - Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python. <sub>⭐ 422 · Python</sub>
-- [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) - Anti-detection browser server for AI agents — REST API wrapping Camoufox engine with OpenClaw plugin support <sub>⭐ 408 · JavaScript</sub>
-- [currents-dev/playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill for Playwright Best Practices—made by Currents.dev <sub>⭐ 386</sub>
-- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation <sub>⭐ 384</sub>
-- [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - TestDino Playwright Skill: AI-powered guides for Playwright best practices, made by testdino.com. <sub>⭐ 383</sub>
-- [Bin-Huang/camoufox-cli](https://github.com/Bin-Huang/camoufox-cli) - Anti-detect browser automation CLI & Skills for AI agents — Camoufox-powered fingerprint spoofing, no bot-detectable Playwright leaks <sub>⭐ 350 · Python</sub>
-- [OyadotAI/oya-browser](https://github.com/OyadotAI/oya-browser) - The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human… <sub>⭐ 349 · TypeScript</sub>
-- [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI) - Local-first AI red team for web, API, and LLM application security. Attacker-style reasoning, evidence-backed findings, and skills for AI coding agents. <sub>⭐ 330 · TypeScript</sub>
-- [akwin1234/damru](https://github.com/akwin1234/damru) - Undetected Playwright for Android. Real Android device in Docker (Redroid), driven via CDP with OS-level stealth. While every other antidetect browser runs desktop Chromium, DAMRU is Android-native… <sub>⭐ 327 · Python</sub>
-- [BetterWright/betterwright](https://github.com/BetterWright/betterwright) - A persistent, policy-guarded Playwright browser for AI agents — network policy, encrypted credential vault, proof screenshots, and CAPTCHA solving. <sub>⭐ 322 · TypeScript</sub>
-- [cloudflare/telescope](https://github.com/cloudflare/telescope) - Cross-browser web performance testing agent <sub>⭐ 309 · TypeScript</sub>
-- [Jeomon/Web-Use](https://github.com/Jeomon/Web-Use) - Web-Use is a CDP powered Browser Agent <sub>⭐ 302 · Python</sub>
-- [VikashLoomba/MCP-Server-Playwright](https://github.com/VikashLoomba/MCP-Server-Playwright) - MCP server for browser automation using Playwright <sub>⭐ 299 · JavaScript</sub>
-- [GautamVhavle/CatGPT-Gateway](https://github.com/GautamVhavle/CatGPT-Gateway) - Turn your ChatGPT or Claude account into a fully working OpenAI-compatible API. No API keys needed. Supports tool calling, vision, file attachments, and image generation. <sub>⭐ 294 · Python</sub>
-- [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them. <sub>⭐ 292 · TypeScript</sub>
-- [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) - Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for AI Agents. <sub>⭐ 291 · TypeScript</sub>
-- [Agenta-AI/awesome-ai-agent-platforms](https://github.com/Agenta-AI/awesome-ai-agent-platforms) - A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses. <sub>⭐ 273 · Astro</sub>
-- [jae-jae/g-search-mcp](https://github.com/jae-jae/g-search-mcp) - A powerful MCP server for Google search that enables parallel searching with multiple keywords simultaneously. <sub>⭐ 272 · TypeScript</sub>
-- [billy-enrizky/openbrowser-ai](https://github.com/billy-enrizky/openbrowser-ai) - OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace… <sub>⭐ 270 · Python</sub>
-- [Vinyzu/recognizer](https://github.com/Vinyzu/recognizer) - Gracefully face reCAPTCHA challenge with ultralytics YOLOv8-seg, CLIPs VIT-B/16 and CLIP-Seg/RD64. Implemented in playwright or an easy-to-use API. <sub>⭐ 261 · Python</sub>
-- [cloudflare/playwright-mcp](https://github.com/cloudflare/playwright-mcp) - Playwright MCP fork that works with Cloudflare Browser Rendering <sub>⭐ 257 · TypeScript</sub>
-- [fugazi/test-automation-skills-agents](https://github.com/fugazi/test-automation-skills-agents) - A practical library of agents, instructions, and skills designed specifically for QA Automation Engineers, focusing on production-oriented solutions. <sub>⭐ 245 · Java</sub>
-- [EDEAI/OpenFlux](https://github.com/EDEAI/OpenFlux) - Open-source AI Agent desktop client — multi-LLM, long-term memory, browser automation & tool orchestration / Tauri v2 <sub>⭐ 236 · TypeScript</sub>
-- [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system) - Extract design tokens (colors, typography, spacing, border radius, shadows) from any public website. Generates JSON and CSS custom properties for local projects. Available as an AI agent skill… <sub>⭐ 231 · TypeScript</sub>
-- [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal for large enterprises with recurring data… <sub>⭐ 227 · Python</sub>
-- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API / AI Studio to OpenAI, Anthropic & Gemini Compatible API <sub>⭐ 211 · Go</sub>
-- [rayobyte-data/rayobrowse](https://github.com/rayobyte-data/rayobrowse) - Stealth Chromium browser for web scraping and AI agents. <sub>⭐ 210 · Python</sub>
-- [a16z-infra/JungleGym](https://github.com/a16z-infra/JungleGym) - An Open Source Playground with Agent Datasets and APIs for building and testing your own Autonomous Web Agents <sub>⭐ 208 · Python</sub>
-- [gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI) - Developed an AI application using LLM to analyze user resumes and provided the summarization, strengths, weaknesses, suggestions, suitable job titles, and also scraping job details from LinkedIn… <sub>⭐ 208 · Jupyter Notebook</sub>
-- [steerlabs/opensteer](https://github.com/steerlabs/opensteer) - AI Browser Automation Framework <sub>⭐ 203 · Python</sub>
-- [imon333/Job-apply-AI-agent](https://github.com/imon333/Job-apply-AI-agent) - GitHub Project: AI Job Application Automation This project automates job searching, CV creation, and applications using Python, n8n, Selenium, and OpenAI. It scrapes LinkedIn, Indeed, StepStone… <sub>⭐ 190 · Python</sub>
-- [vishalmysore/Tools4AI](https://github.com/vishalmysore/Tools4AI) - Agentic Framework for Java, written in 100% Java using Gemini, OpenAI, LocalAI, Anthropic. Build Autonomous Agents in Java with Multi AI voting mechanism. Convert Prompt to HTTP REST Calls, Java… <sub>⭐ 190 · Java</sub>
-- [terryso/claude-code-playwright-mcp-test](https://github.com/terryso/claude-code-playwright-mcp-test) - A YAML-based Playwright MCP automation testing framework designed for Claude Code <sub>⭐ 186 · JavaScript</sub>
-- [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities. <sub>⭐ 181 · TypeScript</sub>
-- [beatwad/LinkedIn-AI-Job-Applier-Ultimate](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) - AI-powered LinkedIn and Indeed job application bot with Playwright automation, LLM integration, data anonymization, and Telegram reporting. Applies to ALL job types (not just Easy Apply), generates… <sub>⭐ 170 · Python</sub>
-- [ihuzaifashoukat/x-use](https://github.com/ihuzaifashoukat/x-use) - Browser-native AI agents for X (Twitter): multi-account, MCP-ready, no X API key required. <sub>⭐ 170 · Python</sub>
-- [kaymen99/Upwork-AI-jobs-applier](https://github.com/kaymen99/Upwork-AI-jobs-applier) - AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letters, and prepare for interviews based on your skills and experience. <sub>⭐ 166 · Python</sub>
-- [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) - AI-driven web automation agent that uses Playwright for browser interactions and LLM integration for intelligent decision-making. It's designed for reliable, adaptable web automation with robust… <sub>⭐ 163 · TypeScript</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [Dicklesworthstone/ultimate_mcp_server](https://github.com/Dicklesworthstone/ultimate_mcp_server) - Comprehensive MCP server exposing dozens of capabilities to AI agents: multi-provider LLM delegation, browser automation, document processing, vector ops, and cognitive memory systems <sub>⭐ 159 · Python</sub>
-- [leoxiaoping/pbottleRPA](https://github.com/leoxiaoping/pbottleRPA) - pbottleRPA is a professional RPA+AI software for professional users. It supports process automation for both web browsers and desktop client applications, and allows workflow development with… <sub>⭐ 156 · JavaScript</sub>
+- [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用 ChatGPT 实现 Playwright 步骤的自动化 。 <sub>⭐ 849 · TypeScript</sub>
+- [kontext-security/browser-use-mcp-server](https://github.com/kontext-security/browser-use-mcp-server) - 浏览网页,直接从光标等处浏览. <sub>⭐ 847 · Python</sub>
+- [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - 一个 python bot 可以自动应用所有 Linkedin, Glassdoor 等基于您的首选项的 Easy 应用程序任务。 自动登录, 自动填充额外问题, 自动应用 ! <sub>⭐ 829 · Python</sub>
+- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym:移动GUI代理研究的可验证和高度平行模拟平台 ^ → 浏览器托管的Android模拟器 → 可验证评价 → 可扩展在线... <sub>⭐ 802 · Python</sub>
+- [ServiceNow/AgentLab](https://github.com/ServiceNow/AgentLab) - AgentLab:一个开发,测试和基准网络代理基于不同任务的开源框架,旨在可扩展性和可复制性. <sub>⭐ 642 · Python</sub>
+- [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - 一个基于Playwright的Node.js工具,它绕过搜索引擎反搜索机制来执行Google搜索. 本地替代SERP API,与MCP服务器集成. <sub>⭐ 620 · TypeScript</sub>
+- [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - Claude的技能 自动在目标社区 张贴个性化 真实的评论 <sub>⭐ 585</sub>
+- [OTA-Tech-AI/web-agent-protocol](https://github.com/OTA-Tech-AI/web-agent-protocol) - Web Agent 协议 (WAP) - 在 MCP 支持下在浏览器中记录和重播用户交互 <sub>⭐ 506 · Python</sub>
+- [scraperai/scraperai](https://github.com/scraperai/scraperai) - ScraperAI是一个开源的,AI动力的工具,旨在简化所有技能级别的用户的网络刮擦. <sub>⭐ 485 · HTML</sub>
+- [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - 浏览器扩展将网页转换为清理Markdown并复制到剪贴板,这样您就可以仅点击1点就将它作为上下文输入你最喜欢的LLM模型! <sub>⭐ 474 · JavaScript</sub>
+- [randifajar/developer-portfolio](https://github.com/randifajar/developer-portfolio) - 个人开发商组合展示我的后端工程经验,项目,以及AI辅助开发工作流程. <sub>⭐ 449 · TypeScript</sub>
+- [techwithtim/AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper) - 一个使用ollama、亮度数据、硒和其他图书馆的AI网络刮纸机。 <sub>⭐ 425 · Python</sub>
+- [sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) - 当地声乐助理 en Francais: Claude 或 Ollama (offline), domotique Hue, OBS, 排程,导航器, appels Twilio, serviur MCP. Python. <sub>⭐ 422 · Python</sub>
+- [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) - AI代理的反检测浏览器服务器 — REST API 在 OpenClaw 插件支持下包装 Camoufox 引擎 <sub>⭐ 408 · JavaScript</sub>
+- [currents-dev/playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI 游戏作家技能最佳做法——由Contress.dev制作 <sub>⭐ 386</sub>
+- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code trys for Higgsfield AI——自动图像生成,种子2.0视频创建,以及带有Playwright浏览器自动化的全UGC广告管道 <sub>⭐ 384</sub>
+- [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - TestDino Playwright Skill:由Testdino.com制作的Playwright最佳做法的AI动力指南. <sub>⭐ 383</sub>
+- [Bin-Huang/camoufox-cli](https://github.com/Bin-Huang/camoufox-cli) - 反检测浏览器自动化 CLI & Swills for AI 代理 – Camoufox 动力指纹偷窥,无可探测的机器人 Playwright 泄漏 <sub>⭐ 350 · Python</sub>
+- [OyadotAI/oya-browser](https://github.com/OyadotAI/oya-browser) - AI代理的浏览器控制平面。一个 API 在 Oya Cloud,浏览器库, Steel, Anchor,浏览器使用器和你自己的Chrome上, 上面有恒定人物, CAPTCHA 和 MFA 处理, 以及活人... <sub>⭐ 349 · TypeScript</sub>
+- [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI) - 本地第一AI红色团队的网络,API,LLM应用安全. 攻击者风格的推理,证据支持的发现,以及AI编码代理商的技能. <sub>⭐ 330 · TypeScript</sub>
+- [akwin1234/damru](https://github.com/akwin1234/damru) - Android 的未检测 Playwright. Real Android设备在Docker(Redroid)中,以OS级隐形驱动通过CDP. 虽然其他每个反检测浏览器运行桌面 Chromium,但DAMRU是Android-native... <sub>⭐ 327 · Python</sub>
+- [BetterWright/betterwright](https://github.com/BetterWright/betterwright) - 一个持续,政策性的Playwright浏览器用于AI代理——网络政策,加密证书金库,验证截图,以及CAPTCHA解析. <sub>⭐ 322 · TypeScript</sub>
+- [cloudflare/telescope](https://github.com/cloudflare/telescope) - 交叉浏览器网络性能测试代理 <sub>⭐ 309 · TypeScript</sub>
+- [Jeomon/Web-Use](https://github.com/Jeomon/Web-Use) - Web- User 是一个 CDP 动力浏览器代理 <sub>⭐ 302 · Python</sub>
+- [VikashLoomba/MCP-Server-Playwright](https://github.com/VikashLoomba/MCP-Server-Playwright) - 使用 Playwright 用于浏览器自动化的 MCP 服务器 <sub>⭐ 299 · JavaScript</sub>
+- [GautamVhavle/CatGPT-Gateway](https://github.com/GautamVhavle/CatGPT-Gateway) - 将您的 ChatGPT 或 Claude 账户转换为一个可完全工作的 OpenAI 兼容的 API。 不需要 API 密钥 。 支持调用工具、 视觉、 文件附件和图像生成 。 <sub>⭐ 294 · Python</sub>
+- [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-动力登录自动化. 使用Claude对登录页面进行分类,Playwright与它们互动. <sub>⭐ 292 · TypeScript</sub>
+- [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) - 将Google搜索、文件和代码库变成AI代理的自动本地知识图。 <sub>⭐ 291 · TypeScript</sub>
+- [Agenta-AI/awesome-ai-agent-platforms](https://github.com/Agenta-AI/awesome-ai-agent-platforms) - 开源AI代理平台的解析列表:AI同事和团队成员,代理构建者和框架,工作流程自动化平台,浏览器代理,以及有许可证的编码代理. <sub>⭐ 273 · Astro</sub>
+- [jae-jae/g-search-mcp](https://github.com/jae-jae/g-search-mcp) - 一个强大的用于Google搜索的MCP服务器,可以同时与多个关键词并行搜索. <sub>⭐ 272 · TypeScript</sub>
+- [billy-enrizky/openbrowser-ai](https://github.com/billy-enrizky/openbrowser-ai) - OpenBrowser是智能浏览器自动化的框架,它将直接的CDP通信与代码代理架构结合,LLM写作在持续命名空间执行的Python代码. . <sub>⭐ 270 · Python</sub>
+- [Vinyzu/recognizer](https://github.com/Vinyzu/recognizer) - Gracely面对reCAPTCHA挑战,使用超解YOLOv8-seg,CLIPs VIT-B/16和CLIP-Seg/RD64. 执行于剧作家或易用API. <sub>⭐ 261 · Python</sub>
+- [cloudflare/playwright-mcp](https://github.com/cloudflare/playwright-mcp) - 与 Cloudflare 浏览器 Rendering 合作的 Playwright MCP 叉 <sub>⭐ 257 · TypeScript</sub>
+- [fugazi/test-automation-skills-agents](https://github.com/fugazi/test-automation-skills-agents) - 专为QA自动化工程师设计的代理,指令和技能实用库,注重生产导向的解决方案. <sub>⭐ 245 · Java</sub>
+- [EDEAI/OpenFlux](https://github.com/EDEAI/OpenFlux) - 开源AI代理桌面客户端 — 多LLM, 长期内存, 浏览器自动化和工具管弦乐 / Tauri v2 <sub>⭐ 236 · TypeScript</sub>
+- [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system) - 从任何公共网站提取设计符(颜色,打字法,间距,边框半径,阴影). Generates JSON 和 CSS 自定义属性用于本地项目。 作为 AI 代理技能可用... <sub>⭐ 231 · TypeScript</sub>
+- [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - 使用浏览器 Use 和 LLMs 自动网络刮蜘蛛生成。 简化基于 Playwright 的蜘蛛的创建, 并尽量减少手动编码 。 理想是拥有重复数据的大型企业... <sub>⭐ 227 · Python</sub>
+- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - AI Studio Playground – Build_QAPI / AI Studio to OpenAI, Anthropic & Gemini 兼容 API 互联网档案馆的存檔,存档日期2013-03-02. <sub>⭐ 211 · Go</sub>
+- [rayobyte-data/rayobrowse](https://github.com/rayobyte-data/rayobrowse) - 隐形铬浏览器用于网络刮擦和AI代理. <sub>⭐ 210 · Python</sub>
+- [a16z-infra/JungleGym](https://github.com/a16z-infra/JungleGym) - 一个开源游戏场, 带有代理数据集和API, 用于构建和测试您自己的自主网络代理 <sub>⭐ 208 · Python</sub>
+- [gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI) - 开发了AI应用程序,使用LLM分析用户的恢复,并提供汇总,优点,弱点,建议,合适的职称,以及从LinkedIn中刮去工作细节. . <sub>⭐ 208 · Jupyter Notebook</sub>
+- [steerlabs/opensteer](https://github.com/steerlabs/opensteer) - AI 浏览器自动化框架 <sub>⭐ 203 · Python</sub>
+- [imon333/Job-apply-AI-agent](https://github.com/imon333/Job-apply-AI-agent) - GitHub 项目: AI 工作应用程序自动化 此项目将求职、 CV 创建以及使用 Python, n8n, Selenium 和 OpenAI 的应用程序自动化。 它刮切 LinkedIn, 的确, StepStone... <sub>⭐ 190 · Python</sub>
+- [vishalmysore/Tools4AI](https://github.com/vishalmysore/Tools4AI) - Java的代理框架, 使用双子座、 OpenAI、 LocalAI、 Anthropic 100% 的 Java 写成。 在 Java 中以多AI 表决机制构建自动代理。 转换为 HTTP REST Calls, Java... <sub>⭐ 190 · Java</sub>
+- [terryso/claude-code-playwright-mcp-test](https://github.com/terryso/claude-code-playwright-mcp-test) - 一个基于YAML的 Playwright MCP 自动化测试框架,为克劳德代码设计 <sub>⭐ 186 · JavaScript</sub>
+- [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) - 整合AgentQL数据提取能力的模型上下文协议服务器. <sub>⭐ 181 · TypeScript</sub>
+- [beatwad/LinkedIn-AI-Job-Applier-Ultimate](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) - AI- powered LinkedIn and Infactual job应用程序机器人与 Playwright 自动化,LLM集成,数据匿名化,以及Telegram 报告。应用到所有的工作类型(而不仅仅是 Easy Applic),生成... <sub>⭐ 170 · Python</sub>
+- [ihuzaifashoukat/x-use](https://github.com/ihuzaifashoukat/x-use) - X (Twitter) 的浏览器-本地AI代理:多账户,MCP准备,不需要X API密钥. <sub>⭐ 170 · Python</sub>
+- [kaymen99/Upwork-AI-jobs-applier](https://github.com/kaymen99/Upwork-AI-jobs-applier) - AI工具,利用AI代理来自动化Upwork工作申请,以寻找和合格工作,写个性化封面信,并根据你的技能和经验为面试做准备. <sub>⭐ 166 · Python</sub>
+- [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) - AI驱动的网络自动化代理,使用Playwright进行浏览器交互和LLM集成来进行智能决策,其设计为可靠,适应性强的网络自动化. . <sub>⭐ 163 · TypeScript</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C战略要闻 2019年9月 本报是为2019年9月W3C咨询委员会会议编写的(W3C成员链接),参见所附的W3C概况介绍——2019年9月. <sub>⭐ 160</sub>
+- [Dicklesworthstone/ultimate_mcp_server](https://github.com/Dicklesworthstone/ultimate_mcp_server) - MCP 综合服务器向 AI 代理显示数十种能力: 多提供者 LLM 授权、浏览器自动化、文件处理、矢量操作和认知内存系统 <sub>⭐ 159 · Python</sub>
+- [leoxiaoping/pbottleRPA](https://github.com/leoxiaoping/pbottleRPA) - pbottleRPA是专业用户使用的专业RPA+AI软件,它支持网页浏览器和桌面客户端应用程序的流程自动化,并允许工作流程开发使用. <sub>⭐ 156 · JavaScript</sub>
 
 ## 📏 LLM 评估与测试
 
 > 用于评估、比较和测试 AI 应用的框架。
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset… <sub>⭐ 43.3k · Go</sub>
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. <sub>⭐ 35.3k · TypeScript</sub>
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. <sub>⭐ 31.8k · Go</sub>
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while… <sub>⭐ 28.2k · Python</sub>
-- [toon-format/toon](https://github.com/toon-format/toon) - Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks. <sub>⭐ 25.5k · TypeScript</sub>
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. <sub>⭐ 22.3k · Python</sub>
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 21.7k · Python</sub>
-- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. <sub>⭐ 19.5k · Python</sub>
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework <sub>⭐ 18.6k · Python</sub>
-- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced… <sub>⭐ 16.2k · Python</sub>
-- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations <sub>⭐ 15.9k · Python</sub>
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models <sub>⭐ 15.7k · Python</sub>
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls) <sub>⭐ 13.0k · Python</sub>
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation… <sub>⭐ 12.0k · Python</sub>
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM! <sub>⭐ 9.4k · Python</sub>
-- [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie <sub>⭐ 9.1k · Python</sub>
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 8.8k · Go</sub>
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding… <sub>⭐ 7.5k · Python</sub>
-- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. <sub>⭐ 6.7k · Python</sub>
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. <sub>⭐ 6.7k · Python</sub>
-- [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness <sub>⭐ 6.3k · TypeScript</sub>
-- [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams <sub>⭐ 6.3k · Python</sub>
-- [Helicone/helicone](https://github.com/Helicone/helicone) - Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 <sub>⭐ 6.2k · TypeScript</sub>
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and… <sub>⭐ 5.9k · Python</sub>
-- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - Open-Source Evaluation & Testing library for LLM Agents <sub>⭐ 5.9k · Python</sub>
-- [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team <sub>⭐ 5.6k · Python</sub>
-- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality <sub>⭐ 5.6k · Python</sub>
-- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI <sub>⭐ 5.3k</sub>
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. <sub>⭐ 5.2k · Python</sub>
-- [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task… <sub>⭐ 4.6k · Jupyter Notebook</sub>
-- [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI. <sub>⭐ 4.5k · Shell</sub>
-- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks <sub>⭐ 4.4k · Python</sub>
-- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) <sub>⭐ 3.8k · Python</sub>
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents <sub>⭐ 3.6k · Python</sub>
-- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. <sub>⭐ 3.5k · Python</sub>
-- [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) - LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and… <sub>⭐ 3.3k · Python</sub>
-- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and… <sub>⭐ 3.3k · Rust</sub>
-- [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - (NeurIPS 2024) OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments <sub>⭐ 3.2k · Python</sub>
-- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB). <sub>⭐ 3.1k · Python</sub>
-- [confident-ai/deepteam](https://github.com/confident-ai/deepteam) - DeepTeam is a framework to red team LLMs and AI agents. <sub>⭐ 3.0k · Python</sub>
-- [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models. <sub>⭐ 2.9k · Python</sub>
-- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent… <sub>⭐ 2.9k · Python</sub>
-- [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) - A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. <sub>⭐ 2.9k</sub>
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time <sub>⭐ 2.8k · HTML</sub>
-- [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs <sub>⭐ 2.6k · TypeScript</sub>
-- [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal <sub>⭐ 2.6k · Python</sub>
-- [huggingface/lighteval](https://github.com/huggingface/lighteval) - Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends <sub>⭐ 2.5k · Python</sub>
-- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. <sub>⭐ 2.5k · Python</sub>
-- [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) - A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and… <sub>⭐ 2.5k</sub>
-- [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) - A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数). <sub>⭐ 2.4k · Python</sub>
-- [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets. <sub>⭐ 2.3k · Python</sub>
-- [Sahir619/fable-method](https://github.com/Sahir619/fable-method) - The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove. <sub>⭐ 2.3k · Python</sub>
-- [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - Must-read papers and blogs on LLM based Long Context Modeling <sub>⭐ 2.2k</sub>
-- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains <sub>⭐ 2.2k · Python</sub>
-- [huggingface/evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook) - Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval! <sub>⭐ 2.1k · Jupyter Notebook</sub>
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0. <sub>⭐ 2.1k · Python</sub>
-- [inferstep/ATLAS](https://github.com/inferstep/ATLAS) - Adaptive Test-time Learning and Autonomous Specialization <sub>⭐ 2.1k · Python</sub>
-- [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure. <sub>⭐ 2.1k · TypeScript</sub>
-- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. <sub>⭐ 2.0k · JavaScript</sub>
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit <sub>⭐ 2.0k · Python</sub>
-- [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) - Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving a new SOTA on public Mandarin ASR benchmarks, while also offering outstanding singing lyrics… <sub>⭐ 2.0k · Python</sub>
-- [deer-flow/llm-space](https://github.com/deer-flow/llm-space) - A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. <sub>⭐ 2.0k · TypeScript</sub>
-- [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference? <sub>⭐ 1.9k · Jupyter Notebook</sub>
-- [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents <sub>⭐ 1.9k · Python</sub>
-- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. <sub>⭐ 1.8k · Go</sub>
-- [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code. <sub>⭐ 1.8k · JavaScript</sub>
-- [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024 <sub>⭐ 1.8k · Python</sub>
-- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems. <sub>⭐ 1.8k</sub>
-- [onestardao/WFGY](https://github.com/onestardao/WFGY) - WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV… <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - 心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG, with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models <sub>⭐ 1.8k · Python</sub>
-- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins. <sub>⭐ 1.8k · Lua</sub>
-- [google/adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.7k · Java</sub>
-- [mattpocock/evalite](https://github.com/mattpocock/evalite) - Evaluate your LLM-powered apps with TypeScript <sub>⭐ 1.7k · TypeScript</sub>
-- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications <sub>⭐ 1.7k · Python</sub>
-- [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. <sub>⭐ 1.7k</sub>
-- [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs <sub>⭐ 1.7k · Python</sub>
-- [MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey) - The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models". <sub>⭐ 1.6k</sub>
-- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven… <sub>⭐ 1.6k · Python</sub>
-- [mbzuai-oryx/Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - (ACL 2024 ) Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for… <sub>⭐ 1.5k · Python</sub>
-- [SkyworkAI/Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation… <sub>⭐ 1.5k · Python</sub>
-- [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM <sub>⭐ 1.5k · Jupyter Notebook</sub>
-- [google/adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.4k · TypeScript</sub>
-- [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) - The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and… <sub>⭐ 1.4k · Python</sub>
-- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL / A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based… <sub>⭐ 1.4k</sub>
-- [zzli2022/Awesome-System2-Reasoning-LLM](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) - Latest Advances on System-2 Reasoning <sub>⭐ 1.4k · Python</sub>
-- [pinchbench/skill](https://github.com/pinchbench/skill) - PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with by the humans at https://kilo.ai <sub>⭐ 1.4k · Python</sub>
-- [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - LiveBench: A Challenging, Contamination-Free LLM Benchmark <sub>⭐ 1.3k · Python</sub>
-- [AutoTrustAI/PaperGuru-Benchmark](https://github.com/AutoTrustAI/PaperGuru-Benchmark) - Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB <sub>⭐ 1.3k · TeX</sub>
-- [SakanaAI/text-to-lora](https://github.com/SakanaAI/text-to-lora) - Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input <sub>⭐ 1.3k · Python</sub>
-- [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - (NeurIPS '25) Knowledge Graph Generation from Any Text <sub>⭐ 1.3k · Python</sub>
-- [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability… <sub>⭐ 1.3k · Rust</sub>
-- [ScalingIntelligence/KernelBench](https://github.com/ScalingIntelligence/KernelBench) - KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs) <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident… <sub>⭐ 1.2k · Python</sub>
-- [THUDM/LongBench](https://github.com/THUDM/LongBench) - LongBench v2 and LongBench (ACL 25'&24') <sub>⭐ 1.2k · Python</sub>
-- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs… <sub>⭐ 1.2k · TypeScript</sub>
-- [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) - Evaluate and improve models and agents using environments <sub>⭐ 1.2k · Python</sub>
-- [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - Readymade evaluators for your LLM apps <sub>⭐ 1.2k · Python</sub>
-- [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio <sub>⭐ 1.2k · Python</sub>
-- [Ricky-7-Yan/intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system) - AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human review, and remediation delivery. <sub>⭐ 1.2k · Python</sub>
-- [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra. <sub>⭐ 1.1k</sub>
-- [PRIME-RL/TTRL](https://github.com/PRIME-RL/TTRL) - (NeurIPS 2025) TTRL: Test-Time Reinforcement Learning <sub>⭐ 1.1k · Python</sub>
-- [prometheus-eval/prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus and GPT4 <sub>⭐ 1.1k · Python</sub>
-- [rlancemartin/auto-evaluator](https://github.com/rlancemartin/auto-evaluator) - Evaluation tool for LLM QA chains <sub>⭐ 1.1k · Python</sub>
-- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate… <sub>⭐ 1.1k · Python</sub>
-- [fastcrw/crw](https://github.com/fastcrw/crw) - Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than… <sub>⭐ 1.1k · Rust</sub>
-- [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) - Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo… <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [lmarena/arena-hard-auto](https://github.com/lmarena/arena-hard-auto) - Arena-Hard-Auto: An automatic LLM benchmark. <sub>⭐ 1.1k · Python</sub>
-- [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve. <sub>⭐ 1.1k · Python</sub>
-- [juanjuandog/FinSight-AI](https://github.com/juanjuandog/FinSight-AI) - AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation. <sub>⭐ 1.1k · Java</sub>
-- [OSU-NLP-Group/Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - (NeurIPS'23 Spotlight) "Mind2Web: Towards a Generalist Agent for the Web" -- the first LLM-based web agent and benchmark for generalist web agents <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) - MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute <sub>⭐ 1.0k · Python</sub>
-- [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171 <sub>⭐ 992 · Python</sub>
-- [pzqpzq/Principia](https://github.com/pzqpzq/Principia) - Principia extracts reusable principles, composes those principles into traceable research ideas, and helps researchers inspect why an idea may be worth testing. <sub>⭐ 988 · Rich Text Format</sub>
-- [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent) - (ICLR 2026) LLM/VLM gaming agents and model evaluation through games. <sub>⭐ 984 · Python</sub>
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2) - An Improved Langchain RAG Tutorial (v2) with local LLMs, database updates, and testing. <sub>⭐ 969 · Python</sub>
-- [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) - A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking. <sub>⭐ 966 · HTML</sub>
-- [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation. <sub>⭐ 960 · Python</sub>
-- [Raudaschl/rag-fusion](https://github.com/Raudaschl/rag-fusion) - RAG-Fusion: multi-query generation + Reciprocal Rank Fusion for better retrieval-augmented generation. Includes evaluation harness with NFCorpus/BEIR. <sub>⭐ 959 · Python</sub>
-- [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React. <sub>⭐ 954 · TypeScript</sub>
-- [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) - A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow. <sub>⭐ 951</sub>
-- [DocAILab/XRAG](https://github.com/DocAILab/XRAG) - XRAG: eXamining the Core - Benchmarking Foundational Component Modules in Advanced Retrieval-Augmented Generation <sub>⭐ 935 · Python</sub>
-- [TIGER-AI-Lab/ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open-source benchmark for browser AI agents on daily tasks. <sub>⭐ 918 · Python</sub>
-- [The-FinAI/PIXIU](https://github.com/The-FinAI/PIXIU) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess… <sub>⭐ 891 · Jupyter Notebook</sub>
-- [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo) - A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. <sub>⭐ 889 · Python</sub>
-- [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) - OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards <sub>⭐ 861 · Python</sub>
-- [vllm-project/speculators](https://github.com/vllm-project/speculators) - A unified library for building, evaluating, and storing speculative decoding algorithms for LLM inference in vLLM <sub>⭐ 860 · Python</sub>
-- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. <sub>⭐ 848 · Python</sub>
-- [bin123apple/AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o. <sub>⭐ 847 · Python</sub>
-- [OpenBMB/AgentCPM](https://github.com/OpenBMB/AgentCPM) - An End-to-End Infrastructure for Training and Evaluating Various LLM Agents <sub>⭐ 832 · Python</sub>
-- [suyoumo/ClawProBench](https://github.com/suyoumo/ClawProBench) - ClawProBench is a live-first benchmark harness for evaluating LLM agents in the OpenClaw runtime with deterministic grading and repeated-trial reliability. <sub>⭐ 824 · Rust</sub>
-- [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) - Local AI powered red teamer on a phone <sub>⭐ 819 · Python</sub>
-- [tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey. <sub>⭐ 809</sub>
-- [MME-Benchmarks/Video-MME](https://github.com/MME-Benchmarks/Video-MME) - (CVPR 2025) Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <sub>⭐ 798</sub>
-- [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo… <sub>⭐ 792 · Python</sub>
-- [TheAgentCompany/TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) - An agent benchmark with tasks in a simulated software company. <sub>⭐ 788 · Python</sub>
-- [claw-eval/claw-eval](https://github.com/claw-eval/claw-eval) - Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans. <sub>⭐ 778 · Python</sub>
-- [open-compass/MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI <sub>⭐ 769 · Python</sub>
-- [IntelLabs/RAG-FiT](https://github.com/IntelLabs/RAG-FiT) - Framework for enhancing LLMs for RAG tasks using fine-tuning. <sub>⭐ 767 · Python</sub>
-- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex… <sub>⭐ 762 · Python</sub>
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - 安全,快速,高效,在阿里巴巴的规模上进行战斗测试. 混合架构代码审查工具:定型管+LLM Agent,精确的线级评论,内置多语言规则集...... <sub>⭐ 43.3k · Go</sub>
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 开源代理 evals & observatory:追踪,评价,并用一个开放平台改进LLM应用. <sub>⭐ 35.3k · TypeScript</sub>
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - 开源LLM知识平台:将原始文档变成可查询的RAG,自主推理代理,以及自保维基. <sub>⭐ 31.8k · Go</sub>
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - 用于代理,LLMs,和ML模型的开源AI工程平台. MLflow使各种大小的团队能够调试,评价,监控,并优化生产质量AI应用,同时. <sub>⭐ 28.2k · Python</sub>
+- [toon-format/toon](https://github.com/toon-format/toon) - Token-Oriented Object Notation (TON) – 紧凑,人类可读的JSON数据序列化,用于LLM提示. TypeScript SDK, CLI, basics. <sub>⭐ 25.5k · TypeScript</sub>
+- [comet-ml/opik](https://github.com/comet-ml/opik) - 调试、评价和监测你的LLM应用程序、RAG系统和具有全面追踪、自动评价和生产准备的仪表板的代理工作流程。 <sub>⭐ 22.3k · Python</sub>
+- [google/adk-python](https://github.com/google/adk-python) - 一个开源,代码第一的Python工具包,用于构建,评价和部署具有灵活性和控制力的精密AI代理. <sub>⭐ 21.7k · Python</sub>
+- [openai/evals](https://github.com/openai/evals) - Evals是评价LLM和LLM系统的框架,也是基准的开源登记册. <sub>⭐ 19.5k · Python</sub>
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - LLM评价框架 <sub>⭐ 18.6k · Python</sub>
+- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK 用于代理AI的可观察性,监测和评价框架. 包括代理,wmm和工具追踪等特性,调试多代理系统,自我托管的仪表板和高级... <sub>⭐ 16.2k · Python</sub>
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - 超级充电您的 LLM 应用程序评价 <sub>⭐ 15.9k · Python</sub>
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - 由大语言模型提供动力的自动渗透测试代理框架 <sub>⭐ 15.7k · Python</sub>
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - 大猩猩:培训和评价职能需要的法学硕士(工具需要) <sub>⭐ 13.0k · Python</sub>
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG是一个面向下一代企业AI应用的开放LLM devops平台. 强而全面的功能包括: GenAI工作流程,RAG,Agent,统一模型管理,评价... <sub>⭐ 12.0k · Python</sub>
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - 容易的微调(SFT/RL),评价,并部署Quen,Gemma,或任何开放的代理LLM/VLM! <sub>⭐ 9.4k · Python</sub>
+- [httpie/http-prompt](https://github.com/httpie/http-prompt) - HTTP 和 API 测试客户端建在 HTTPie 的顶部,其特点是自动完成、语法突出等。 https:// twitter.com/httpie <sub>⭐ 9.1k · Python</sub>
+- [google/adk-go](https://github.com/google/adk-go) - 一个开放源代码第一Go工具箱,用于构建,评价和部署精密的AI代理,具有灵活性和控制性. <sub>⭐ 8.8k · Go</sub>
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass是一个LLM评价平台,支持来自OpenAI,Anthropic,双子座,Quen,GLM,DeepSeek等众多的模型,跨越100+数据集,涵盖知识,推理,编码. . <sub>⭐ 7.5k · Python</sub>
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - 查找本地 LLM , 该 LLM 实际运行和运行最优于您的硬件。 排名为真实的、 惯性- 意识基准, 而不是参数数。 一个命令, 立即运行 。 <sub>⭐ 6.7k · Python</sub>
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - 一个全层的AI红色团队化平台,通过Agent Scan,Swill Scan,MCP扫描,AI Infra扫描和LLM越狱评价来保证AI生态系统的安全. <sub>⭐ 6.7k · Python</sub>
+- [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - 自主红色团队化平台; 多代理攻击-安全元凶 <sub>⭐ 6.3k · TypeScript</sub>
+- [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - 反常强健工具箱(ART) - Python 机器学习安全库 - Evasion,毒药,提取,推论 - 红蓝团队 <sub>⭐ 6.3k · Python</sub>
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 开源LLM可观察性平台,用于监测,评价和实验的一行代码. YC W23 <sub>⭐ 6.2k · TypeScript</sub>
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK用于AI代理监测,LLM成本跟踪,基准化等. 结合了大多数LLM和代理框架,包括CrewAI,Agno,OpenAI代理SDK,Langchain,Autgen,AG2,以及... <sub>⭐ 5.9k · Python</sub>
+- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - LLM 代理的开源评价和测试库 <sub>⭐ 5.9k · Python</sub>
+- [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - 红队的自动黑客代理 <sub>⭐ 5.6k · Python</sub>
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - 服务和评价LLM路由器的框架 -- -- 在不损害质量的情况下节省LLM费用 <sub>⭐ 5.6k · Python</sub>
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - 与AI的逆向模拟和红色组合平台 <sub>⭐ 5.3k</sub>
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - 构建、评价和优化AI系统。包括evals、RAG、代理、微调、合成数据生成、数据集管理、MCP等。 <sub>⭐ 5.2k · Python</sub>
+- [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35个生产级代理AI架构(Reflexion, LATS, GraphRAG, MemGPT, Voyager, 浏览器Agent,...)——一个Python库和可操作的教科书,拥有多提供者LLM支持和一个17个任务. <sub>⭐ 4.6k · Jupyter Notebook</sub>
+- [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 为网络安全专业人员、研究人员和bug赏金猎人全面收集OSINT工具,专题:信息收集、反向搜索、红色团队、信任和安全,AI。 <sub>⭐ 4.5k · Shell</sub>
+- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - 大型多式联运模型的开放源码评价工具包,支持220+LMM,80+基准 <sub>⭐ 4.4k · Python</sub>
+- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - 评估作为代理人的法学硕士的综合基准(ICLR'24) <sub>⭐ 3.8k · Python</sub>
+- [truera/trulens](https://github.com/truera/trulens) - 对LLM实验和AI代理的评估和跟踪 <sub>⭐ 3.6k · Python</sub>
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) - 高效大型模型(LLM、VLM、AIGC)评估和业绩基准的简化和定制框架。 <sub>⭐ 3.5k · Python</sub>
+- [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) - LLM-as-a-验证器是一个通用框架,为任何代理提供精细的反馈而不需要额外的训练,它实现了SOTA跨编码,机器人,和. <sub>⭐ 3.3k · Python</sub>
+- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard允许LLM应用跨模型和提供者的路由流量,同时保留本地OpenAI和Anthropic API兼容性——允许灵活的模型选择,基准设定,以及. <sub>⭐ 3.3k · Rust</sub>
+- [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - (EurIPS 2024) OSWorld:为现实计算机环境中的不限名额任务确定多式联运代理的基准 <sub>⭐ 3.2k · Python</sub>
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - 用于快速测试和实验的开源工具,同时支持LLMs(如OpenAI,LLaMA)和矢量数据库(如Chroma,Weaviate,LanceDB). <sub>⭐ 3.1k · Python</sub>
+- [confident-ai/deepteam](https://github.com/confident-ai/deepteam) - DeepTeam是红色团队LLMs和AI代理的一个框架. <sub>⭐ 3.0k · Python</sub>
+- [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - LLM Zoo是一个为大型语言模型提供数据,模型,和评价基准的项目. <sub>⭐ 2.9k · Python</sub>
+- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - 语言模型整体评价(HELM)是斯坦福基础模型研究中心(CRFM)为整体,可复制,透明而创建的开源Python框架. . <sub>⭐ 2.9k · Python</sub>
+- [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) - 医疗有限责任公司、多式联运系统、数据集、基准等等的汇总清单。 <sub>⭐ 2.9k</sub>
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - 在 CLI 170+ FREE 中实时查找、基准和安装15+供应商的 LLM 编码模型 <sub>⭐ 2.8k · HTML</sub>
+- [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - 优化到较小的 LLMS 的牵引装置 <sub>⭐ 2.6k · TypeScript</sub>
+- [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - 关于终端复杂任务的LLM的基准 <sub>⭐ 2.6k · Python</sub>
+- [huggingface/lighteval](https://github.com/huggingface/lighteval) - Lighteval 是您用于评价多个后端的 LLMS 的全功能工具箱 <sub>⭐ 2.5k · Python</sub>
+- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - 大型语言模型(LLMs)变得容易,EasyLM是JAX/Flax中预训,微调,评价和服务LLMs的一站式解决方案. <sub>⭐ 2.5k · Python</sub>
+- [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) - 收集论文、基准、调查和模型量化工具,包括低位网络、LLMs、多式联运和基因模型、矢量和纹章量化,以及. <sub>⭐ 2.5k</sub>
+- [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) - 中国传统财经的LLMS评价基准——巴齐( )和济维·杜舒( )。 <sub>⭐ 2.4k · Python</sub>
+- [beir-cellar/beir](https://github.com/beir-cellar/beir) - 信息检索的异源基准。 方便使用, 评价您在 15+ 多种IR 数据集中的模型。 <sub>⭐ 2.3k · Python</sub>
+- [Sahir619/fable-method](https://github.com/Sahir619/fable-method) - 寓言工作流:克劳德·寓言5是如何工作的,将任何模型都蒸馏成能运行的技能,与保持其诚实的eval. think / act / prove. <sub>⭐ 2.3k · Python</sub>
+- [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 基于 LLM 的必读论文和博客 Long Control Modeling <sub>⭐ 2.2k</sub>
+- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - 奔驰:现实世界域中工具-代理人-使用者互动基准 <sub>⭐ 2.2k · Python</sub>
+- [huggingface/evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook) - 分享关于LLM评价的实用见解和理论知识 <sub>⭐ 2.1k · Jupyter Notebook</sub>
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - 用于评价、观察和改进LLM和AI代理应用程序的开源端对端平台。追踪 ^ Evals → 模拟 = Datasets → Gateways – Guardrails. Self-hostable. Apache 2.0. <sub>⭐ 2.1k · Python</sub>
+- [inferstep/ATLAS](https://github.com/inferstep/ATLAS) - 适应性测试时间学习和自主专业化 <sub>⭐ 2.1k · Python</sub>
+- [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - AI红队游乐场实验室开展包括基础设施在内的AI红队训练. <sub>⭐ 2.1k · TypeScript</sub>
+- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI编码代理优化小LLMs 87%的基准,采用4B活性模型. <sub>⭐ 2.0k · JavaScript</sub>
+- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - 代理 LLM 易碎性扫描器/ AI 红色组合包 <sub>⭐ 2.0k · Python</sub>
+- [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) - 开源工业级ASR模式支持普通话,汉语方言和英语,在公共普通话ASR基准上实现新的SOTA,同时提供杰出的歌词. . <sub>⭐ 2.0k · Python</sub>
+- [deer-flow/llm-space](https://github.com/deer-flow/llm-space) - 一个桌面应用程序,用于原型代理想法,检查每个控制步骤,重播失败,并评价性能,都位于一个地方。本地第一,为管理代理人准备了云层。 <sub>⭐ 2.0k · TypeScript</sub>
+- [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - 多个NVIDIA GPU还是大语言模型推论的苹果硅? <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: 构建轻量级、可扩展和可测试的 LLM 代理 <sub>⭐ 1.9k · Python</sub>
+- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - 一个用于构建生产代理系统的Go框架,其中包含图文工作流程,工具,内存,A2A,AG-UI,MCP,评价,以及可观察性. <sub>⭐ 1.8k · Go</sub>
+- [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - 通过LLMs为您的Node.js应用生成自动化测试,而开发者无需写单行代码. <sub>⭐ 1.8k · JavaScript</sub>
+- [evalplus/evalplus](https://github.com/evalplus/evalplus) - 严格评价LLM-合成码 - NeurIPS 2023 & COLM 2024 <sub>⭐ 1.8k · Python</sub>
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - 2026年发行的AI代理研究论文集,涵盖代理工程,内存,评价,工作流程和自主系统. <sub>⭐ 1.8k</sub>
+- [onestardao/WFGY](https://github.com/onestardao/WFGY) - WFGY正向WFGY 5.0 Polyis协议前进,这是AI推理,RAG,代理和现实世界工作流程的主要开源发布. 包括问题映射,全球调试卡,WFGY 4.0以及CFV... <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - (LLM x 心理健康),培训前及培训后与数据集及评价 & Depoly & RAG, 具有实习LM / Quen / Baichuan / DeepSeek / mixtral / LLama / GLM系列模型. <sub>⭐ 1.8k · Python</sub>
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - Neovim的MCP客户端,将MCP服务器无缝地集成到您的编辑工作流程中,并配有直观的界面,用于管理,测试,以及使用MCP服务器与您最喜欢的聊天插件. <sub>⭐ 1.8k · Lua</sub>
+- [google/adk-java](https://github.com/google/adk-java) - 一个开源,代码第一Java工具包,用于构建,评价和部署精密的AI代理,具有灵活性和控制性. <sub>⭐ 1.7k · Java</sub>
+- [mattpocock/evalite](https://github.com/mattpocock/evalite) - 使用 TypeScript 评估您的 LLM 驱动应用程序 <sub>⭐ 1.7k · TypeScript</sub>
+- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - GenAI应用软件的快速开发基石 <sub>⭐ 1.7k · Python</sub>
+- [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - 令人惊叹的Jailbreak-on-LLMs是一套关于LLMs的最先进的、新颖的、令人兴奋的越狱方法。它包含论文、代码、数据集、评价和分析。 <sub>⭐ 1.7k</sub>
+- [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - 为真实世界推论需求评估和增强您的 LLM 部署 <sub>⭐ 1.7k · Python</sub>
+- [MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey) - 调查论文"大语言模式评价调查"官方GitHub页面. <sub>⭐ 1.6k</sub>
+- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) - AI安全及AI辅助网络安全的公共来源,研究和商业工具目录——自动,代理安全,AI/ML供应链,笔试代理,AI SAST,LLM驱动. <sub>⭐ 1.6k · Python</sub>
+- [mbzuai-oryx/Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - (ACL 2024) Video-ChatGPT是一种视频对话模式,能够产生关于视频的有意义的对话,它结合了LLMs的能力,并配有一个经过预修的可视编码器,适应. <sub>⭐ 1.5k · Python</sub>
+- [SkyworkAI/Skywork](https://github.com/SkyworkAI/Skywork) - 天工系列模型在高品质多语种(主要是中英文)和代码数据的3.2TB上进行预训,我们已经开源了模型,培训数据,评价数据,评价数据...... <sub>⭐ 1.5k · Python</sub>
+- [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - 通过街头战士3的战斗制定基准LLM! 评估LLM质量的新方式 <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [google/adk-js](https://github.com/google/adk-js) - 一个开源,代码第一的Typescript工具包,用于构建,评价和部署具有灵活性和控制力的精密AI代理. <sub>⭐ 1.4k · TypeScript</sub>
+- [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) - 社区最全面,不断更新的用于软件脆弱性检测的大语言模型研究索引——跨函数级,寄存层,代理级的论文,以及. <sub>⭐ 1.4k · Python</sub>
+- [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - (TKDE2025) 下Generation数据库接口:对基于LLM的文本到SQL / 关于基于大语言模型的资源(调查,论文,基准,和开源项目)目录的调查. . <sub>⭐ 1.4k</sub>
+- [zzli2022/Awesome-System2-Reasoning-LLM](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) - 系统2最新预付款 <sub>⭐ 1.4k · Python</sub>
+- [pinchbench/skill](https://github.com/pinchbench/skill) - Pinch Bench是评估LLM模型作为OpenClaw编码代理的基准系统。由人类在https://kilo.ai上制作。 <sub>⭐ 1.4k · Python</sub>
+- [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - Live Bench:挑战、无污染和LLM基准 <sub>⭐ 1.3k · Python</sub>
+- [AutoTrustAI/PaperGuru-Benchmark](https://github.com/AutoTrustAI/PaperGuru-Benchmark) - 长距离LLM剂的生命周期-智能内存——在纸本奇上为66.05%,在Survey Bench上为94.66%,在FSE/ICML/TOSEM/AEI/ICoGB上为10个同行评审接受. <sub>⭐ 1.3k · TeX</sub>
+- [SakanaAI/text-to-lora](https://github.com/SakanaAI/text-to-lora) - 仅使用文字任务描述作为输入的适应特定基准任务的 LLMS 的超网络 <sub>⭐ 1.3k · Python</sub>
+- [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - (NeurIPS ' 25) 从任何文本生成知识图 <sub>⭐ 1.3k · Python</sub>
+- [microsoft/prompty](https://github.com/microsoft/prompty) - Powery使您对 AI 应用程序创建,管理,调试和评价 LLM 提示变得容易. Powery 是 LLM 提示的一个资产类和格式,旨在增强可观察性... <sub>⭐ 1.3k · Rust</sub>
+- [ScalingIntelligence/KernelBench](https://github.com/ScalingIntelligence/KernelBench) - Kernel Bench: LLMs 能够写入 GPU Kernels吗? - 基准+带火炬的工具包 - > CUDA(+ 更多DSL) <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - TattackGen是一个网络安全事件应对测试工具,它利用了大型语言模型和MITRE ATT&CK综合框架的力量,该工具生成定制事件. . <sub>⭐ 1.2k · Python</sub>
+- [THUDM/LongBench](https://github.com/THUDM/LongBench) - LongBench v2和LongBench (ACL 25'&24) 互联网档案馆的存檔,存档日期2011-09-21. <sub>⭐ 1.2k · Python</sub>
+- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace是LLM应用的开源,基于OpenTeleometry的端到端可观察性工具,为流行的LLMs,LLM框架,矢量DB提供实时跟踪,评价和度量. . <sub>⭐ 1.2k · TypeScript</sub>
+- [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) - 利用环境评价和改进模型和代理人 <sub>⭐ 1.2k · Python</sub>
+- [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - 您 LLM 应用软件的准备评估器 <sub>⭐ 1.2k · Python</sub>
+- [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - 用于评价 " Empactio " 中的有限责任管理课程的非饱和、不限名额的环境 <sub>⭐ 1.2k · Python</sub>
+- [Ricky-7-Yan/intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system) - AuditPilot:可审计的企业 AI代理,负责循证工作流程,受管工具,评价工具,人力审查,以及补救交付. <sub>⭐ 1.2k · Python</sub>
+- [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - OpenAI GPT-6 Astra的有证据支持的使用案例、提示、整合、评价和安全说明。 <sub>⭐ 1.1k</sub>
+- [PRIME-RL/TTRL](https://github.com/PRIME-RL/TTRL) - (NeurIPS 2025) TTRL:测试-时间强化学习 <sub>⭐ 1.1k · Python</sub>
+- [prometheus-eval/prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - 评估你的LLM与普罗米修斯和GPT4的反应 <sub>⭐ 1.1k · Python</sub>
+- [rlancemartin/auto-evaluator](https://github.com/rlancemartin/auto-evaluator) - LLM QA 链的评价工具 <sub>⭐ 1.1k · Python</sub>
+- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - AI.链条细胞进入强大管道的协作电子表格,用提示和模型进行实验,并实时评价LLM响应. 一起无缝地构建和移动... <sub>⭐ 1.1k · Python</sub>
+- [fastcrw/crw](https://github.com/fastcrw/crw) - 在 Rust 中快速,轻量级的 Firecrawl/ Tavily 替代品. Web 刮伤器, crawer 和 API 与 MCP 服务器一起搜索 AI 代理. Drop- in Firecrawl - 兼容 API (/scrape,/crawl,/search). 2.3x 比... <sub>⭐ 1.1k · Rust</sub>
+- [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) - LLMs的代理内存:30个可运行的Jupyter笔记本,内容包括对话缓冲器,向量存储,知识图,偶联和语义记忆,MemGPT,Mem0,Letta,Zep,Graphiti,LoCoMo... <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [lmarena/arena-hard-auto](https://github.com/lmarena/arena-hard-auto) - Arena-Hard-Auto:一个自动LLM基准. <sub>⭐ 1.1k · Python</sub>
+- [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - 一个用来评价语言模型的基准 有关我之前要求他们解决的问题。 <sub>⭐ 1.1k · Python</sub>
+- [juanjuandog/FinSight-AI](https://github.com/juanjuandog/FinSight-AI) - AI 股权研究代理,具有弹性工作流程,循证RAG,版本报告,自动化质量评价. <sub>⭐ 1.1k · Java</sub>
+- [OSU-NLP-Group/Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - (NeurIPS'23 Spotlight) "Mind2Web:走向网络通用代理"——首个基于LLM的网络代理和通用网络代理的基准 <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) - MAC(多代理CAD):通过受限测试时间计算实现文本到CAD生成的脱钩多代理框架 <sub>⭐ 1.0k · Python</sub>
+- [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - 关于为大型语言模型拟订有效查询和提示的原则性指导基准,我们的文件 //arxiv.org/abs/2312.16171 <sub>⭐ 992 · Python</sub>
+- [pzqpzq/Principia](https://github.com/pzqpzq/Principia) - Principia 提取了可重复使用的原则,将这些原则编成可追踪的研究思想,并帮助研究人员检查一个想法为什么值得测试. <sub>⭐ 988 · Rich Text Format</sub>
+- [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent) - (ICLR 2026) LLM/VLM游戏代理商和通过游戏进行模型评价. <sub>⭐ 984 · Python</sub>
+- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2) - 改进的Langchain RAG教程(v2),包括当地法学硕士、数据库更新和测试。 <sub>⭐ 969 · Python</sub>
+- [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) - 10周30分钟的LLM推论路线图服务与优化. vLLM,SGLang,量化,投机解码,基准. <sub>⭐ 966 · HTML</sub>
+- [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - 音频AI研究的枢纽:跨越音频LLMs的论文,开放模型,基准和数据集,语音识别,TTS,音乐和音频生成. <sub>⭐ 960 · Python</sub>
+- [Raudaschl/rag-fusion](https://github.com/Raudaschl/rag-fusion) - RAG-Fusion:多query生成+对等的Rank组合,用于更好的检索-增强生成. 包括使用NFCorpus/BEIR进行评价控制. <sub>⭐ 959 · Python</sub>
+- [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - 一个用于评价和比较LLM模型的多平台桌面应用程序,用Rust and React编写. <sub>⭐ 954 · TypeScript</sub>
+- [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) - 由BenchFlow维护的,是一个非BS图书馆,收藏用于建立和评价AI代理商的最佳资源——论文、博客、谈话、工具、基准。 <sub>⭐ 951</sub>
+- [DocAILab/XRAG](https://github.com/DocAILab/XRAG) - XRAG:在高级检索强化生成中排除核心-基准基础组件模块 <sub>⭐ 935 · Python</sub>
+- [TIGER-AI-Lab/ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - 用于浏览器AI代理日常任务的开源基准. <sub>⭐ 918 · Python</sub>
+- [The-FinAI/PIXIU](https://github.com/The-FinAI/PIXIU) - 这个寄存器引入了PIXIU,这是一种开源资源,它以第一个金融大语言模型(LLMs)为特色,指令调试数据,评价基准进行整体评估. . <sub>⭐ 891 · Jupyter Notebook</sub>
+- [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo) - 评估LLM特工的攻击和防卫的动态环境。 <sub>⭐ 889 · Python</sub>
+- [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) - 开放法官:综合评价和质量奖励的统一框架 <sub>⭐ 861 · Python</sub>
+- [vllm-project/speculators](https://github.com/vllm-project/speculators) - 一个用于在vLLM中构建、评价和存储LLM推断的投机解码算法的统一库 <sub>⭐ 860 · Python</sub>
+- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - 用于实施有限责任管理的综合图书馆,包括统一的培训管道和综合模式评价。 <sub>⭐ 848 · Python</sub>
+- [bin123apple/AutoCoder](https://github.com/bin123apple/AutoCoder) - 我们引入了为代码生成任务设计的新模型,它在HumanEval基础数据集上的测试精度超过了GPT-4 Turbo(2024年4月)和GPT-4o的测试精度. <sub>⭐ 847 · Python</sub>
+- [OpenBMB/AgentCPM](https://github.com/OpenBMB/AgentCPM) - 用于培训和评价各种LLM代理商的终到终基础设施 <sub>⭐ 832 · Python</sub>
+- [suyoumo/ClawProBench](https://github.com/suyoumo/ClawProBench) - ClawPro Bench是评估OpenClaw运行时间的LLM代理的第一直播基准工具,具有确定性分级和重复审判的可靠性。 <sub>⭐ 824 · Rust</sub>
+- [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) - 本地AI为手机上的红色团队提供动力 <sub>⭐ 819 · Python</sub>
+- [tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - 这些论文是根据我们的调查: " 评估大语言模式:综合调查 " 编排的。 <sub>⭐ 809</sub>
+- [MME-Benchmarks/Video-MME](https://github.com/MME-Benchmarks/Video-MME) - (CVPR 2025) Video-MME:视频分析中多式联运有限责任公司第一综合评价基准 <sub>⭐ 798</sub>
+- [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - 用 RepoTextForLLMs 自动分析 LLMS 的 GitHub 寄存器。 获取 READMEs, 结构, 以及非二进制文件 。 输出时包括用于协助全面 Repo 的分析提示... <sub>⭐ 792 · Python</sub>
+- [TheAgentCompany/TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) - 一个代理基准,在模拟软件公司里有任务. <sub>⭐ 788 · Python</sub>
+- [claw-eval/claw-eval](https://github.com/claw-eval/claw-eval) - Claw-Eval是评价LLM作为代理人的评价工具,所有任务都由人类验证. <sub>⭐ 778 · Python</sub>
+- [open-compass/MixtralKit](https://github.com/open-compass/MixtralKit) - Mistral AI提供的用于推论和评价“混合8x7b-32kseqlen”的工具包 <sub>⭐ 769 · Python</sub>
+- [IntelLabs/RAG-FiT](https://github.com/IntelLabs/RAG-FiT) - 利用微调加强地方政府执行RAG任务的能力框架。 <sub>⭐ 767 · Python</sub>
+- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) - 看看你的编码代理做了什么,花费了多少。 将每个任务细分为工作步骤 —— 使用的工具、文件更改、测试运行、时间和符号花费。 Claude Code 本地第一仪表板、 Codex... <sub>⭐ 762 · Python</sub>
 - [MigoXLab/dingo](https://github.com/MigoXLab/dingo) - Dingo:一个综合AI数据,模型和应用质量评价工具 <sub>⭐ 757 · Python</sub>
-- [ModelTC/LightCompress](https://github.com/ModelTC/LightCompress) - (EMNLP 2024 & AAAI 2026) A powerful toolkit for compressing large models including LLMs, VLMs, and video generative models. <sub>⭐ 750 · Python</sub>
-- [simplerhacking/Evilginx3-Phishlets](https://github.com/simplerhacking/Evilginx3-Phishlets) - This repository provides penetration testers and red teams with an extensive collection of dynamic phishing templates designed specifically for use with Evilginx3. May be updated periodically. <sub>⭐ 750</sub>
-- [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - Evaluate the accuracy of LLM generated outputs <sub>⭐ 743 · Jupyter Notebook</sub>
-- [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection <sub>⭐ 737</sub>
-- [stanford-futuredata/ARES](https://github.com/stanford-futuredata/ARES) - Automated Evaluation of RAG Systems <sub>⭐ 734 · Python</sub>
-- [Snowflake-Labs/cocoplus](https://github.com/Snowflake-Labs/cocoplus) - CocoPlus is an Agentic Operating System for Snowflake Coco. It brings structured, multi-agent workflows to data engineering projects — covering everything from project initialization through spec… <sub>⭐ 724 · JavaScript</sub>
-- [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) - Agent that empowers software testing with LLMs; industrial-first in China <sub>⭐ 719 · Python</sub>
-- [GoodStartLabs/AI_Diplomacy](https://github.com/GoodStartLabs/AI_Diplomacy) - Frontier Models playing the board game Diplomacy. <sub>⭐ 707 · Python</sub>
-- [mlabonne/llm-autoeval](https://github.com/mlabonne/llm-autoeval) - Automatically evaluate your LLMs in Google Colab <sub>⭐ 698 · Python</sub>
-- [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) - Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub <sub>⭐ 696 · Python</sub>
-- [DataScienceUIBK/Rankify](https://github.com/DataScienceUIBK/Rankify) - Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation . Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval… <sub>⭐ 685 · Python</sub>
-- [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is an agentic plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest… <sub>⭐ 682 · Java</sub>
-- [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from… <sub>⭐ 678 · Jupyter Notebook</sub>
-- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) - An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills - benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity… <sub>⭐ 672 · Python</sub>
-- [Tencent/AICGSecEval](https://github.com/Tencent/AICGSecEval) - A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team. <sub>⭐ 663 · Python</sub>
-- [qixucen/atom](https://github.com/qixucen/atom) - (NeurIPS 2025) Atom of Thoughts for Markov LLM Test-Time Scaling <sub>⭐ 661 · Python</sub>
-- [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM) - Open diffusion language model for code generation — releasing pretraining, evaluation, inference, and checkpoints. <sub>⭐ 660 · Python</sub>
-- [reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - Latest Papers and Benchmarks in Reasoning with Foundation Models <sub>⭐ 660</sub>
-- [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning. <sub>⭐ 655 · Python</sub>
-- [codefuse-ai/codefuse-devops-eval](https://github.com/codefuse-ai/codefuse-devops-eval) - Industrial-first evaluation benchmark for LLMs in the DevOps/AIOps domain. <sub>⭐ 654 · Python</sub>
-- [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots) - Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark. <sub>⭐ 634 · Python</sub>
-- [HowieHwong/TrustLLM](https://github.com/HowieHwong/TrustLLM) - (ICML 2024) TrustLLM: Trustworthiness in Large Language Models <sub>⭐ 633 · Python</sub>
-- [RobustNLP/CipherChat](https://github.com/RobustNLP/CipherChat) - A framework to evaluate the generalization capability of safety alignment for LLMs <sub>⭐ 631 · Python</sub>
-- [Denis2054/RAG-Driven-Generative-AI](https://github.com/Denis2054/RAG-Driven-Generative-AI) - This repository provides programs to build Retrieval Augmented Generation (RAG) code for Generative AI with LlamaIndex, Deep Lake, and Pinecone leveraging the power of OpenAI and Hugging Face models… <sub>⭐ 628 · Jupyter Notebook</sub>
-- [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) - A resource repository for machine unlearning in large language models <sub>⭐ 627</sub>
-- [CSHaitao/Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) - The official repo for paper, LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods. <sub>⭐ 614</sub>
-- [AnotiaWang/awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) - A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers. <sub>⭐ 600 · Python</sub>
-- [MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU) - This repo contains evaluation code for the paper "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" <sub>⭐ 597 · Python</sub>
-- [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders <sub>⭐ 597 · Python</sub>
-- [run-llama/ParseBench](https://github.com/run-llama/ParseBench) - ParseBench - A Document Parsing Benchmark for AI Agents <sub>⭐ 593 · Python</sub>
-- [leobeeson/llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) - A collection of benchmarks and datasets for evaluating LLM. <sub>⭐ 581</sub>
-- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) - Dataset and benchmark for RAG on company internal documents. <sub>⭐ 576</sub>
-- [facebookresearch/meta-agents-research-environments](https://github.com/facebookresearch/meta-agents-research-environments) - Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments… <sub>⭐ 560 · Python</sub>
-- [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) - Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations. <sub>⭐ 554 · HTML</sub>
-- [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks. <sub>⭐ 553 · Python</sub>
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) - One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools. <sub>⭐ 550 · Python</sub>
-- [InteractiveNLP-Team/RoleLLM-public](https://github.com/InteractiveNLP-Team/RoleLLM-public) - RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models <sub>⭐ 532</sub>
-- [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper. <sub>⭐ 525 · Python</sub>
-- [THUDM/LongCite](https://github.com/THUDM/LongCite) - LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA <sub>⭐ 522 · Python</sub>
-- [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - Data-Driven Evaluation for LLM-Powered Applications <sub>⭐ 518 · Python</sub>
-- [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers <sub>⭐ 510 · Python</sub>
-- [liu00222/Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) - This repository provides a benchmark for prompt injection attacks and defenses in LLMs <sub>⭐ 503 · Python</sub>
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) - The official repo of GraphRAG-Bench for evaluating GraphRAG models. "When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation". (ICLR'26) <sub>⭐ 502 · Python</sub>
-- [SeekingDream/Static-to-Dynamic-LLMEval](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval) - The official GitHub repository of the paper "Recent advances in large language model benchmarks against data contamination: From static to dynamic evaluation" <sub>⭐ 500</sub>
-- [preset-io/promptimize](https://github.com/preset-io/promptimize) - Promptimize is a prompt engineering evaluation and testing toolkit. <sub>⭐ 498 · Python</sub>
-- [phoenix-zhou/industrial-general-rag](https://github.com/phoenix-zhou/industrial-general-rag) - The project integrates the RAG and FAQ dual mechanisms, introduces intent recognition, dynamic adaptive retrieval, and the RAGAS automated evaluation system, achieving a transformation from empirical… <sub>⭐ 491 · Python</sub>
-- [zeno-ml/zeno-build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, understand, and fix LLM-based apps <sub>⭐ 489 · Jupyter Notebook</sub>
-- [OmniJev/awesome-jev-gallery](https://github.com/OmniJev/awesome-jev-gallery) - Awesome Jev: open-source models, projects, benchmarks, and independent evaluations for Jev and System One models. <sub>⭐ 488 · JavaScript</sub>
-- [web-arena-x/visualwebarena](https://github.com/web-arena-x/visualwebarena) - VisualWebArena is a benchmark for multimodal agents. <sub>⭐ 488 · Python</sub>
-- [amitshekhariitbhu/ai-engineering-course](https://github.com/amitshekhariitbhu/ai-engineering-course) - AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents… <sub>⭐ 484 · Markdown</sub>
-- [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning) - An extensible benchmark for evaluating large language models on planning <sub>⭐ 475 · PDDL</sub>
-- [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) - A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps… <sub>⭐ 473 · Astro</sub>
-- [yixuantt/MultiHop-RAG](https://github.com/yixuantt/MultiHop-RAG) - Repository for "MultiHop-RAG: A Dataset for Evaluating Retrieval-Augmented Generation Across Documents" (COLM 2024) <sub>⭐ 473 · Python</sub>
-- [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests! <sub>⭐ 472 · Python</sub>
-- [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM <sub>⭐ 467 · Python</sub>
-- [HUST-AI-HYZ/MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench) - Open source code for ICLR 2026 Paper: Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions <sub>⭐ 461 · Python</sub>
-- [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) - AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. <sub>⭐ 458</sub>
-- [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) - A modular framework for benchmarking LLMs and agentic strategies on security challenges across HackTheBox, TryHackMe, PortSwigger Labs, Cybench, picoCTF and more. <sub>⭐ 457 · Python</sub>
-- [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI. <sub>⭐ 456 · Python</sub>
-- [open-compass/LawBench](https://github.com/open-compass/LawBench) - Benchmarking Legal Knowledge of Large Language Models <sub>⭐ 453 · Python</sub>
-- [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story <sub>⭐ 449</sub>
-- [hkust-nlp/AgentBoard](https://github.com/hkust-nlp/AgentBoard) - An Analytical Evaluation Board of Multi-turn LLM Agents (NeurIPS 2024 Oral) <sub>⭐ 448 · SAS</sub>
-- [CodeSoul-co/Hypha](https://github.com/CodeSoul-co/Hypha) - Harness-oriented agent system framework for production-grade LLM agent applications <sub>⭐ 447 · TypeScript</sub>
-- [baaivision/JudgeLM](https://github.com/baaivision/JudgeLM) - (ICLR 2025 Spotlight) An open-sourced LLM judge for evaluating LLM-generated answers. <sub>⭐ 444 · Python</sub>
-- [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) - LLM Inference benchmark <sub>⭐ 440 · Python</sub>
-- [matty69v/Bug-Bounty-Agents](https://github.com/matty69v/Bug-Bounty-Agents) - AI-Powered Agents for Bub-Bounty Pentesting and Red-Teaming purposes <sub>⭐ 434 · Shell</sub>
-- [abacaj/code-eval](https://github.com/abacaj/code-eval) - Run evaluation on LLMs using human-eval benchmark <sub>⭐ 432 · Python</sub>
-- [ByteDance-Seed/EvaLearn](https://github.com/ByteDance-Seed/EvaLearn) - EvaLearn is a pioneering benchmark designed to evaluate large language models (LLMs) on their learning capability and efficiency in challenging tasks. <sub>⭐ 431 · Python</sub>
-- [microsoft/OpenRCA](https://github.com/microsoft/OpenRCA) - (ICLR'25) OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures? <sub>⭐ 429 · Python</sub>
-- [stevibe/BenchLocal](https://github.com/stevibe/BenchLocal) - Test LLMs on real tasks. Compare models side-by-side. <sub>⭐ 429 · TypeScript</sub>
-- [talkdai/dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing <sub>⭐ 428 · Python</sub>
-- [TIGER-AI-Lab/MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - The code and data for "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark" (NeurIPS 2024) <sub>⭐ 428 · Python</sub>
-- [athemeroy/awesome-claude-5-5-videos](https://github.com/athemeroy/awesome-claude-5-5-videos) - Source-linked Claude 5.5 video workflows: Opus and Sonnet demos, separately labeled next-Fable testing reports, prompts, tools and production evidence. <sub>⭐ 424 · Python</sub>
-- [AgentSafeLabs/safelabs-eval](https://github.com/AgentSafeLabs/safelabs-eval) - Red-teaming and evaluation framework for AI agents, built around an OWASP-inspired ASI01–ASI10 taxonomy <sub>⭐ 416 · Python</sub>
-- [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader) - Paper trading simulator for Polymarket <sub>⭐ 413 · Python</sub>
-- [vectara/open-rag-eval](https://github.com/vectara/open-rag-eval) - RAG evaluation without the need for "golden answers" <sub>⭐ 412 · Python</sub>
-- [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt: It decomposes, codes, reviews, builds, tests, and commits, autonomously, in parallel and while economizing tokens. <sub>⭐ 410 · JavaScript</sub>
-- [VibeBench/VibeSearchBench](https://github.com/VibeBench/VibeSearchBench) - The hardest search benchmark in the wild — vague, multi-turn, proactive. 200 long-horizon tasks with persona-driven progressive disclosure, scored by verifiable schema-free knowledge-graph… <sub>⭐ 409 · Python</sub>
-- [Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark) - Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-command install, ~3x upstream prefill, ~1.5x decode, DSpark, and full continuous batch support <sub>⭐ 406 · Shell</sub>
-- [SuperagenticAI/superclaw](https://github.com/SuperagenticAI/superclaw) - SuperClaw: Red-Team AI Agents Before They Red-Team You <sub>⭐ 404 · Python</sub>
-- [MatthewCYM/VoiceBench](https://github.com/MatthewCYM/VoiceBench) - (TACL'26) VoiceBench: Benchmarking LLM-Based Voice Assistants <sub>⭐ 400 · Python</sub>
-- [ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL) - Large Language Model guided Protocol Fuzzing (NDSS'24) <sub>⭐ 399 · C</sub>
-- [allenai/olmes](https://github.com/allenai/olmes) - Reproducible, flexible LLM evaluations <sub>⭐ 398 · Python</sub>
-- [ag2ai/Agents_Failure_Attribution](https://github.com/ag2ai/Agents_Failure_Attribution) - Benchmark for automated failure attributions in agentic systems ( ICML 2025 Spotlight) <sub>⭐ 393 · Python</sub>
-- [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs) <sub>⭐ 391 · Python</sub>
-- [haolpku/K12-KGraph](https://github.com/haolpku/K12-KGraph) - (NeurIPS 2026) A curriculum-aligned knowledge graph, benchmark, and multimodal training dataset for educational LLMs. <sub>⭐ 391 · Python</sub>
-- [adlnlp/FinLLMs](https://github.com/adlnlp/FinLLMs) - This repository contains related work, benchmarks and datasets for the paper "Large Language Models in Finance (FinLLMs)". <sub>⭐ 390</sub>
-- [sgharlow/claude-code-recipes](https://github.com/sgharlow/claude-code-recipes) - 100 field-tested Claude Code recipes for knowledge workers — prompts, steps, and 6 installable graded skills. <sub>⭐ 387</sub>
-- [microsoft/genaiops-promptflow-template](https://github.com/microsoft/genaiops-promptflow-template) - GenAIOps with Prompt Flow is a "GenAIOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle… <sub>⭐ 368 · Python</sub>
-- [SakanaAI/RLT](https://github.com/SakanaAI/RLT) - Training teachers with reinforcement learning able to make LLMs learn how to reason for test time scaling. <sub>⭐ 368 · Python</sub>
-- [ZhuLinsen/alphasift](https://github.com/ZhuLinsen/alphasift) - AI-native stock screening engine with full-market discovery, LLM ranking, risk-aware scoring, and auditable evaluation. AI选股 <sub>⭐ 368 · Python</sub>
-- [AILab-CVC/SEED-Bench](https://github.com/AILab-CVC/SEED-Bench) - (CVPR2024)A benchmark for evaluating Multimodal LLMs using multiple-choice questions. <sub>⭐ 367 · Python</sub>
-- [graniet/llm](https://github.com/graniet/llm) - A powerful Rust library and CLI tool to unify and orchestrate multiple LLM, Agent and voice backends (OpenAI, Claude, Gemini, Ollama, ElevenLabs...) with a single, extensible API. Build, chain… <sub>⭐ 365 · Rust</sub>
-- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box. <sub>⭐ 365 · TypeScript</sub>
-- [arcprize/arc-agi-benchmarking](https://github.com/arcprize/arc-agi-benchmarking) - Testing baseline LLMs performance across various models <sub>⭐ 364 · Python</sub>
-- [dipampaul17/KVSplit](https://github.com/dipampaul17/KVSplit) - Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with <1% quality… <sub>⭐ 362 · Python</sub>
-- [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI frameworks and regulations. Join our Discord channel… <sub>⭐ 360 · TypeScript</sub>
-- [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - A comprehensive set of LLM benchmark scores and provider prices. (deprecated, read more in README) <sub>⭐ 356 · JavaScript</sub>
-- [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) - Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and structured output. Supports vLLM, SGLang, and llama.cpp. <sub>⭐ 356 · Python</sub>
-- [Ayanami0730/arag](https://github.com/Ayanami0730/arag) - A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-art RAG framework with keyword, semantic, and chunk read tools for multi-hop QA. <sub>⭐ 354 · Python</sub>
-- [aiverify-foundation/moonshot](https://github.com/aiverify-foundation/moonshot) - Moonshot - A simple and modular tool to evaluate and red-team any LLM application. <sub>⭐ 353 · Python</sub>
-- [agiresearch/OpenP5](https://github.com/agiresearch/OpenP5) - OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems <sub>⭐ 350 · Python</sub>
-- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Evidence-backed AMD Strix Halo local-AI setup and benchmarks: Qwen3.8, Ollama, llama.cpp, Vulkan/ROCm, large GGUFs, and cross-OEM results. <sub>⭐ 350 · Python</sub>
-- [xlang-ai/OSWorld-V2](https://github.com/xlang-ai/OSWorld-V2) - OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks <sub>⭐ 347 · Python</sub>
-- [Libr-AI/do-not-answer](https://github.com/Libr-AI/do-not-answer) - Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs <sub>⭐ 346 · Jupyter Notebook</sub>
-- [GPT-Fathom/GPT-Fathom](https://github.com/GPT-Fathom/GPT-Fathom) - GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under… <sub>⭐ 345 · Python</sub>
-- [tianyi-lab/HallusionBench](https://github.com/tianyi-lab/HallusionBench) - (CVPR'24) HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models <sub>⭐ 344 · Python</sub>
-- [thunlp/ChatEval](https://github.com/thunlp/ChatEval) - Codes for our paper "ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate" <sub>⭐ 343 · Python</sub>
-- [akitaonrails/llm-coding-benchmark](https://github.com/akitaonrails/llm-coding-benchmark) - Simple benchmark to test the most popular open source and commercial LLMs with automated OpenCode <sub>⭐ 339 · Python</sub>
-- [fuzz4all/fuzz4all](https://github.com/fuzz4all/fuzz4all) - Fuzz4All: Universal Fuzzing with Large Language Models <sub>⭐ 338 · Python</sub>
-- [snap-stanford/stark](https://github.com/snap-stanford/stark) - (NeurIPS D&B 2024) STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases <sub>⭐ 337 · Python</sub>
-- [Shiva108/ai-llm-red-team-handbook](https://github.com/Shiva108/ai-llm-red-team-handbook) - AI / LLM Red Team Field Manual & Consultant’s Handbook <sub>⭐ 336 · Python</sub>
-- [Azure-Samples/ai-rag-chat-evaluator](https://github.com/Azure-Samples/ai-rag-chat-evaluator) - Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK and OpenAI <sub>⭐ 335 · Python</sub>
-- [stanfordmlgroup/MedAgentBench](https://github.com/stanfordmlgroup/MedAgentBench) - MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents <sub>⭐ 334 · Python</sub>
-- [InternScience/SurveyForge](https://github.com/InternScience/SurveyForge) - (ACL-2025 main conference) SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing <sub>⭐ 333 · Python</sub>
-- [Ammaar-Alam/minebench](https://github.com/Ammaar-Alam/minebench) - Minecraft-style voxel benchmark for comparing AI models (Arena + Sandbox) <sub>⭐ 332 · TypeScript</sub>
-- [sci-m-wang/OpenCE](https://github.com/sci-m-wang/OpenCE) - OpenCE (Open Context Engineering): A community toolkit to implement, evaluate, and combine LLM context strategies (RAG, ACE, Compression). Evolved from the ACE-open reproduction. <sub>⭐ 332 · Python</sub>
-- [sgl-project/genai-bench](https://github.com/sgl-project/genai-bench) - Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluation of large language model (LLM) serving systems. <sub>⭐ 332 · Python</sub>
-- [bboylyg/BackdoorLLM](https://github.com/bboylyg/BackdoorLLM) - (NeurIPS 2025) BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks and Defenses on Large Language Models <sub>⭐ 327 · Python</sub>
-- [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications. <sub>⭐ 327 · Python</sub>
-- [lm-sys/llm-decontaminator](https://github.com/lm-sys/llm-decontaminator) - Code for the paper "Rethinking Benchmark and Contamination for Language Models with Rephrased Samples" <sub>⭐ 326 · Python</sub>
-- [OpenBMB/UltraEval-Audio](https://github.com/OpenBMB/UltraEval-Audio) - Your faithful, impartial partner for audio evaluation — know yourself, know your rivals. 真实评测，知己知彼。A unified benchmark framework for ASR/TTS/Audio Codec/audio LLM evaluation <sub>⭐ 326 · Python</sub>
-- [nexusflowai/NexusRaven](https://github.com/nexusflowai/NexusRaven) - NexusRaven-13B, a new SOTA Open-Source LLM for function calling. This repo contains everything for reproducing our evaluation on NexusRaven-13B and baselines. <sub>⭐ 325 · Python</sub>
-- [joey-melo/payloads](https://github.com/joey-melo/payloads) - Payloads for AI Red Teaming and beyond <sub>⭐ 324</sub>
-- [samkhur006/awesome-llm-planning-reasoning](https://github.com/samkhur006/awesome-llm-planning-reasoning) - A curated collection of LLM reasoning and planning resources, including key papers, limitations, benchmarks, and additional learning materials. <sub>⭐ 324</sub>
-- [FrontierCS/Frontier-CS](https://github.com/FrontierCS/Frontier-CS) - A benchmark for evaluating LLMs on open-ended CS problems. Exploring the Next Frontier of Computer Science. <sub>⭐ 322 · C++</sub>
-- [supermemoryai/memorybench](https://github.com/supermemoryai/memorybench) - Unified benchmark for evaluating conversational memory and RAG across multiple datasets <sub>⭐ 321 · TypeScript</sub>
-- [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes <sub>⭐ 320 · Python</sub>
-- [zapier/AutomationBench](https://github.com/zapier/AutomationBench) - A benchmark for evaluating AI agents on realistic business workflows <sub>⭐ 320 · Python</sub>
-- [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench) - ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code (https://arxiv.org/abs/2311.09835) <sub>⭐ 316 · Python</sub>
-- [trustbit/enterprise-rag-challenge](https://github.com/trustbit/enterprise-rag-challenge) - Enterprise RAG Challenge to test accuracy of different LLM-driven assistants <sub>⭐ 316 · Python</sub>
-- [nuprl/MultiPL-E](https://github.com/nuprl/MultiPL-E) - A multi-programming language benchmark for LLMs <sub>⭐ 315 · Python</sub>
-- [Prompthon-IO/agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook) - A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend… <sub>⭐ 315 · MDX</sub>
-- [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern. <sub>⭐ 312 · Python</sub>
-- [chainreactors/cyber-harness](https://github.com/chainreactors/cyber-harness) - AI-driven pi-like agent for cyber security — single binary for pentest, red team, bug bounty <sub>⭐ 311 · Go</sub>
-- [w512/Prompt-Vault](https://github.com/w512/Prompt-Vault) - A collection of coding prompts and detailed project specifications designed for benchmarking and testing LLMs. <sub>⭐ 311</sub>
-- [Green-PT/honey-for-devs](https://github.com/Green-PT/honey-for-devs) - Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless… <sub>⭐ 310 · JavaScript</sub>
-- [JaredStewart/coderlm](https://github.com/JaredStewart/coderlm) - Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore… <sub>⭐ 304 · Rust</sub>
-- [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK for running evaluations on LLM generated responses <sub>⭐ 303 · Python</sub>
-- [ulab-uiuc/MARBLE](https://github.com/ulab-uiuc/MARBLE) - (ACL 2025 Main) Code for MultiAgentBench : Evaluating the Collaboration and Competition of LLM agents https://www.arxiv.org/pdf/2503.01935 <sub>⭐ 301 · Python</sub>
-- [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUITestAgent is the first automatic, natural language-driven GUI testing tool for mobile apps, capable of fully automating the entire process of GUI interaction and function verification. <sub>⭐ 300</sub>
-- [Meet-Miyani/compose-skill](https://github.com/Meet-Miyani/compose-skill) - Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor, Copilot, Gemini CLI and OpenCode write better Compose: MVI, Koin, Navigation… <sub>⭐ 300 · Shell</sub>
-- [thu-coai/SafetyBench](https://github.com/thu-coai/SafetyBench) - Official github repo for SafetyBench, a comprehensive benchmark to evaluate LLMs' safety. (ACL 2024) <sub>⭐ 299 · Python</sub>
-- [Cisco-Talos/DECEIVE](https://github.com/Cisco-Talos/DECEIVE) - DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work! <sub>⭐ 298 · Python</sub>
-- [embodied-agent-interface/embodied-agent-interface](https://github.com/embodied-agent-interface/embodied-agent-interface) - Embodied Agent Interface (EAI): Benchmarking LLMs for Embodied Decision Making (NeurIPS D&B 2024 Oral) <sub>⭐ 298 · Python</sub>
-- [lechmazur/elimination_game](https://github.com/lechmazur/elimination_game) - A multi-player tournament benchmark that tests LLMs in social reasoning, strategy, and deception. Players engage in public and private conversations, form alliances, and vote to eliminate each other <sub>⭐ 298</sub>
-- [praetorian-inc/augustus](https://github.com/praetorian-inc/augustus) - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary <sub>⭐ 298 · Go</sub>
-- [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps <sub>⭐ 296 · Jupyter Notebook</sub>
-- [langfuse/skills](https://github.com/langfuse/skills) - Agent Skills for Langfuse, the open source LLM engineering platform for tracing, prompt management, and evaluation <sub>⭐ 294 · Python</sub>
-- [bytedance/web-bench](https://github.com/bytedance/web-bench) - Web-Bench is a benchmark designed to evaluate the performance of LLMs in actual Web development. <sub>⭐ 292 · JavaScript</sub>
-- [eth-sri/matharena](https://github.com/eth-sri/matharena) - Evaluation of LLMs on latest math competitions <sub>⭐ 290 · Python</sub>
-- [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation… <sub>⭐ 289 · Go</sub>
-- [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code. <sub>⭐ 289 · Python</sub>
-- [snap-stanford/POPPER](https://github.com/snap-stanford/POPPER) - Automated Hypothesis Testing with Agentic Sequential Falsifications <sub>⭐ 289 · Python</sub>
-- [night-chen/ToolQA](https://github.com/night-chen/ToolQA) - ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels (easy/hard) across eight real-life scenarios. <sub>⭐ 288 · Jupyter Notebook</sub>
-- [RyanLiu112/compute-optimal-tts](https://github.com/RyanLiu112/compute-optimal-tts) - Official codebase for "Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling". <sub>⭐ 288 · Python</sub>
-- [Tongyi-MAI/MobileWorld](https://github.com/Tongyi-MAI/MobileWorld) - Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments (ACL 2026) <sub>⭐ 287 · Python</sub>
-- [VietnamAIHub/Vietnamese_LLMs](https://github.com/VietnamAIHub/Vietnamese_LLMs) - Dự án bao gồm: 1. Xây dựng bộ dữ Instructions Vietnamese (chất lượng, nhiều, và đa dạng). 2.LLM Training, Finetuning, Evaluating & Testing trên Open-source mô hình ngôn ngữ: Bloomz,T5, UL2, LLaMA… <sub>⭐ 287 · Python</sub>
-- [Q-Future/Q-Bench](https://github.com/Q-Future/Q-Bench) - ①(ICLR2024 Spotlight) (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment. <sub>⭐ 285 · Jupyter Notebook</sub>
-- [xxzcc/Awesome-Credit-Assignment-in-LLM-RL](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL) - Curated papers, taxonomy, benchmarks, and decision guides for credit assignment in reasoning and agentic LLM reinforcement learning. <sub>⭐ 285 · Python</sub>
-- [Simreal-AI/Simreal-MLBench](https://github.com/Simreal-AI/Simreal-MLBench) - (Public preview) Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation. <sub>⭐ 281 · Python</sub>
-- [TYH-labs/unsloth-buddy](https://github.com/TYH-labs/unsloth-buddy) - Zero-friction LLM fine-tuning skill for Claude Code, Gemini CLI & any ACP agent. Unsloth on NVIDIA · TRL+MPS/MLX on Apple Silicon. Automates env setup, LoRA training (SFT, DPO, GRPO, vision)… <sub>⭐ 280 · Python</sub>
-- [ZubinGou/math-evaluation-harness](https://github.com/ZubinGou/math-evaluation-harness) - A simple toolkit for benchmarking LLMs on mathematical reasoning tasks. <sub>⭐ 280 · Python</sub>
-- [illuin-tech/vidore-benchmark](https://github.com/illuin-tech/vidore-benchmark) - Vision Document Retrieval (ViDoRe): Benchmark. Evaluation code for the ColPali paper. <sub>⭐ 279 · Python</sub>
-- [FlowTestAI/FlowTest](https://github.com/FlowTestAI/FlowTest) - GenAI powered OpenSource IDE for API first workflows <sub>⭐ 275 · JavaScript</sub>
-- [balrog-ai/BALROG](https://github.com/balrog-ai/BALROG) - Benchmarking Agentic LLM and VLM Reasoning On Games <sub>⭐ 273 · Python</sub>
-- [facebookresearch/sweet_rl](https://github.com/facebookresearch/sweet_rl) - Benchmark and research code for the paper SWEET-RL Training Multi-Turn LLM Agents onCollaborative Reasoning Tasks <sub>⭐ 272 · Python</sub>
-- [Strivin0311/long-llms-learning](https://github.com/Strivin0311/long-llms-learning) - A repository sharing the literatures about long-context large language models, including the methodologies and the evaluation benchmarks <sub>⭐ 272 · Jupyter Notebook</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [alibaba-damo-academy/MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) - MedEvalKit: A Unified Medical Evaluation Framework <sub>⭐ 266 · Python</sub>
-- [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench) - ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery <sub>⭐ 266 · Jupyter Notebook</sub>
-- [xiaobright/modeltest](https://github.com/xiaobright/modeltest) - Personal LLM engineering-maintenance evaluation harness (V4.1b, frozen). Not a public benchmark. <sub>⭐ 264 · Python</sub>
-- [smartyfh/LLM-Uncertainty-Bench](https://github.com/smartyfh/LLM-Uncertainty-Bench) - Benchmarking LLMs via Uncertainty Quantification <sub>⭐ 263 · Python</sub>
-- [misbahsy/RAGTune](https://github.com/misbahsy/RAGTune) - Tuning and Evaluation of RAG pipeline. (Automated optimization to be added soon) <sub>⭐ 262 · Python</sub>
-- [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal. <sub>⭐ 258 · Python</sub>
-- [normster/llm_rules](https://github.com/normster/llm_rules) - RuLES: a benchmark for evaluating rule-following in language models <sub>⭐ 258 · Python</sub>
-- [allenai/WildBench](https://github.com/allenai/WildBench) - Benchmarking LLMs with Challenging Tasks from Real Users <sub>⭐ 257 · Python</sub>
-- [booydar/babilong](https://github.com/booydar/babilong) - BABILong is a benchmark for LLM evaluation using the needle-in-a-haystack approach. <sub>⭐ 257 · Jupyter Notebook</sub>
-- [CAS-SIAT-XinHai/CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun) - (ACL 2024) CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling <sub>⭐ 257 · Jupyter Notebook</sub>
-- [Agentic-Systems-Lab/rigorous](https://github.com/Agentic-Systems-Lab/rigorous) - A comprehensive suite of tools, built to liberate science by making the creation, evaluation, and dissemination of research more transparent, affordable, and efficient. <sub>⭐ 254 · Python</sub>
-- [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - This package is a collection of datasets for evaluating AI Models in the context of Home Assistant. <sub>⭐ 254 · Jupyter Notebook</sub>
-- [ATOM00blue/machine-learning-library](https://github.com/ATOM00blue/machine-learning-library) - Custom APRL machine-learning algorithm + a curated ML knowledge base of 923 papers, lectures, and explainers. NumPy classifier/regressor, tests, benchmarks, provenance, Obsidian, and agent-ready… <sub>⭐ 254 · Python</sub>
-- [microsoft/SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live) - (NeurIPS 2025 D&B) SWE-bench Goes Live! <sub>⭐ 250 · Python</sub>
-- [index-labs/evalgpt](https://github.com/index-labs/evalgpt) - EvalGPT is an code interpreter framework that utilizes large language models to automate the process of code-writing and execution, delivering precise results for user-defined tasks. <sub>⭐ 249 · Go</sub>
-- [lechmazur/confabulations](https://github.com/lechmazur/confabulations) - Hallucinations (Confabulations) Document-Based Benchmark for RAG. Includes human-verified questions and answers. <sub>⭐ 249 · HTML</sub>
-- [citadel-ai/langcheck](https://github.com/citadel-ai/langcheck) - Simple, Pythonic building blocks to evaluate LLM applications. <sub>⭐ 247 · Python</sub>
-- [onnx/turnkeyml](https://github.com/onnx/turnkeyml) - No-code CLI designed for accelerating ONNX workflows <sub>⭐ 247 · Python</sub>
-- [tongye98/Awesome-Code-Benchmark](https://github.com/tongye98/Awesome-Code-Benchmark) - A comprehensive code domain benchmark review of LLM researches. <sub>⭐ 246</sub>
-- [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) - Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. <sub>⭐ 245 · MDX</sub>
-- [neo4j-labs/text2cypher](https://github.com/neo4j-labs/text2cypher) - collection of text2cypher datasets, evaluations, and finetuning instructions <sub>⭐ 244 · Jupyter Notebook</sub>
-- [lechmazur/nyt-connections](https://github.com/lechmazur/nyt-connections) - Benchmark that evaluates LLMs using 759 NYT Connections puzzles extended with extra trick words <sub>⭐ 243 · Python</sub>
-- [OpenDCAI/Data-Preparation-Bench](https://github.com/OpenDCAI/Data-Preparation-Bench) - A unified, downstream-grounded benchmark for LLM-driven training data construction, selection, and quality evaluation. <sub>⭐ 241 · Python</sub>
-- [THUNLP-MT/StableToolBench](https://github.com/THUNLP-MT/StableToolBench) - A new tool learning benchmark aiming at well-balanced stability and reality, based on ToolBench. <sub>⭐ 241 · Python</sub>
-- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Benchmark CLI for comparing AI coding agents on TypeScript workloads. <sub>⭐ 240 · TypeScript</sub>
-- [modelscope/AgentJet](https://github.com/modelscope/AgentJet) - Cutting-edge platform for LLM agent tuning. Deliver RL tuning with flexibility, reliability, speed, multi-agent optimization and realtime community benchmarking. <sub>⭐ 240 · Python</sub>
-- [surya-koritala/Glyd](https://github.com/surya-koritala/Glyd) - Lossless AI compression: 33% less GPU memory, bit for bit. <sub>⭐ 240 · Rust</sub>
-- [alibaba/aacr-bench](https://github.com/alibaba/aacr-bench) - An Alibaba open-source multi-language benchmark for evaluating LLMs in repository-level automatic code review, featuring an AI-assisted and expert-verified dataset. <sub>⭐ 238 · Python</sub>
-- [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark) - A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers. <sub>⭐ 236 · HTML</sub>
-- [scicode-bench/SciCode](https://github.com/scicode-bench/SciCode) - A benchmark that challenges language models to code solutions for scientific problems <sub>⭐ 234 · Python</sub>
-- [bytedance/PatchEval](https://github.com/bytedance/PatchEval) - PatchEval: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities <sub>⭐ 231 · Python</sub>
-- [gengchaogit/llm_speedtest](https://github.com/gengchaogit/llm_speedtest) - Local LLM Inference Speed Test Tool <sub>⭐ 231 · HTML</sub>
-- [0x4D31/airt](https://github.com/0x4D31/airt) - AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer. <sub>⭐ 229 · HTML</sub>
-- [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides. <sub>⭐ 229 · HTML</sub>
-- [anakin87/llm-rl-environments-lil-course](https://github.com/anakin87/llm-rl-environments-lil-course) - A little course on Reinforcement Learning Environments for evaluating and training Language Models <sub>⭐ 228 · Python</sub>
-- [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts <sub>⭐ 227</sub>
-- [rungalileo/agent-leaderboard](https://github.com/rungalileo/agent-leaderboard) - Ranking LLMs on agentic tasks <sub>⭐ 226 · Jupyter Notebook</sub>
-- [SeekingDream/DyCodeEval](https://github.com/SeekingDream/DyCodeEval) - Official repository of the ICML2025 paper “Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination” <sub>⭐ 225 · Python</sub>
-- [allenai/discoveryworld](https://github.com/allenai/discoveryworld) - A virtual environment for developing and evaluating automated scientific discovery agents. <sub>⭐ 224 · Python</sub>
-- [arc53/llm-price-compass](https://github.com/arc53/llm-price-compass) - This project collects GPU benchmarks from various cloud providers and compares them to fixed per token costs. Use our tool for efficient LLM GPU selections and cost-effective AI models. LLM provider… <sub>⭐ 223 · TypeScript</sub>
-- [strands-agents/evals](https://github.com/strands-agents/evals) - A comprehensive evaluation framework for AI agents and LLM applications. <sub>⭐ 222 · Python</sub>
-- [firecrawl/rag-arena](https://github.com/firecrawl/rag-arena) - Open-source RAG evaluation through users' feedback <sub>⭐ 221 · TypeScript</sub>
-- [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real… <sub>⭐ 221 · Python</sub>
-- [comet-ml/opik-mcp](https://github.com/comet-ml/opik-mcp) - Model Context Protocol (MCP) server for Opik, the open-source LLM observability and evaluation platform, built by Comet. Read traces, log scores, and manage prompts from Claude Code, Cursor, or VS… <sub>⭐ 220 · Python</sub>
-- [kaistAI/FLASK](https://github.com/kaistAI/FLASK) - (ICLR 2024 Spotlight) FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets <sub>⭐ 219 · Python</sub>
-- [stanfordnlp/axbench](https://github.com/stanfordnlp/axbench) - Stanford NLP Python library for benchmarking the utility of LLM interpretability methods <sub>⭐ 218 · Python</sub>
-- [MMStar-Benchmark/MMStar](https://github.com/MMStar-Benchmark/MMStar) - (NeurIPS 2024) This repo contains evaluation code for the paper "Are We on the Right Way for Evaluating Large Vision-Language Models" <sub>⭐ 217 · Python</sub>
-- [ausboss/Local-LLM-Langchain](https://github.com/ausboss/Local-LLM-Langchain) - Load local LLMs effortlessly in a Jupyter notebook for testing purposes alongside Langchain or other agents. Contains Oobagooga and KoboldAI versions of the langchain notebooks with examples. <sub>⭐ 216 · Jupyter Notebook</sub>
-- [azshue/TPT](https://github.com/azshue/TPT) - Test-time Prompt Tuning (TPT) for zero-shot generalization in vision-language models (NeurIPS 2022)) <sub>⭐ 216 · Python</sub>
-- [IBM/unitxt](https://github.com/IBM/unitxt) - Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking <sub>⭐ 216 · Python</sub>
-- [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker) - Red Teaming for AI and Cloud <sub>⭐ 215 · Go</sub>
-- [OFA-Sys/Ditto](https://github.com/OFA-Sys/Ditto) - A self-ailgnment method for role-play. Benchmark for role-play. Resources for "Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment". <sub>⭐ 214 · Jupyter Notebook</sub>
-- [Ryota-Kawamura/LangChain-for-LLM-Application-Development](https://github.com/Ryota-Kawamura/LangChain-for-LLM-Application-Development) - In LangChain for LLM Application Development, you will gain essential skills in expanding the use cases and capabilities of language models in application development using the LangChain framework. <sub>⭐ 212 · Jupyter Notebook</sub>
-- [boson-ai/RPBench-Auto](https://github.com/boson-ai/RPBench-Auto) - An automated pipeline for evaluating LLMs for role-playing. <sub>⭐ 211 · Python</sub>
-- [Pavankunchala/LLM-Learn-PK](https://github.com/Pavankunchala/LLM-Learn-PK) - Testing the different LLM and RAG Tests while I learn along the way <sub>⭐ 211 · Python</sub>
-- [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss) - Local LLM Testing & Benchmarking for Apple Silicon <sub>⭐ 208 · Swift</sub>
-- [Hellsender01/LLMMap](https://github.com/Hellsender01/LLMMap) - Automated prompt injection testing framework for LLM-integrated applications with dual-LLM architecture. <sub>⭐ 207 · Python</sub>
-- [simonw/pelican-bicycle](https://github.com/simonw/pelican-bicycle) - LLM benchmark: Generate an SVG of a pelican riding a bicycle <sub>⭐ 206 · Shell</sub>
-- [Corpus-OS/corpusos](https://github.com/Corpus-OS/corpusos) - Open-source protocol suite standardizing LLM, Vector, Graph, and Embedding infrastructure across LangChain, LlamaIndex, AutoGen, CrewAI, Semantic Kernel, and MCP. 3,330+ conformance tests. One… <sub>⭐ 205 · Python</sub>
-- [xxyQwQ/ComfyBench](https://github.com/xxyQwQ/ComfyBench) - Implementation for the paper "ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems". <sub>⭐ 205 · Python</sub>
-- [adobe-research/NoLiMa](https://github.com/adobe-research/NoLiMa) - Official repository for "NoLiMa: Long-Context Evaluation Beyond Literal Matching" <sub>⭐ 204 · Python</sub>
-- [alopatenko/LLMEvaluation](https://github.com/alopatenko/LLMEvaluation) - A comprehensive guide to LLM evaluation methods designed to assist in identifying the most suitable evaluation techniques for various use cases, promote the adoption of best practices in LLM… <sub>⭐ 203 · HTML</sub>
-- [lmwilki/civ6-mcp](https://github.com/lmwilki/civ6-mcp) - An MCP server that lets LLM agents play Civilization VI. <sub>⭐ 203 · Python</sub>
-- [CarlWangChina/QwenFeat-Vocal-Score](https://github.com/CarlWangChina/QwenFeat-Vocal-Score) - VocalVerse: A powerful vocal evaluation framework powered by the Qwen LLMs <sub>⭐ 202 · Python</sub>
-- [FreedomIntelligence/Apollo](https://github.com/FreedomIntelligence/Apollo) - Multilingual Medicine: Model, Dataset, Benchmark, Code <sub>⭐ 202 · Python</sub>
-- [mrdbourke/mac-ml-speed-test](https://github.com/mrdbourke/mac-ml-speed-test) - A few quick scripts focused on testing TensorFlow/PyTorch/Llama 2 on macOS. <sub>⭐ 202 · Jupyter Notebook</sub>
-- [precize/Agentic-AI-Top10-Vulnerability](https://github.com/precize/Agentic-AI-Top10-Vulnerability) - Top 10 for Agentic AI (AI Agent Security) serves as the core for OWASP and CSA Red teaming work <sub>⭐ 202</sub>
-- [bentoml/llm-optimizer](https://github.com/bentoml/llm-optimizer) - Benchmark and optimize LLM inference across frameworks with ease <sub>⭐ 201 · Python</sub>
-- [h9-tec/llm-systems-engineering-roadmap](https://github.com/h9-tec/llm-systems-engineering-roadmap) - A practical roadmap for mastering LLM internals, training, inference, RAG, agents, evaluation, and production architecture. <sub>⭐ 201</sub>
-- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing <sub>⭐ 201 · Python</sub>
-- [bigai-nlco/LooGLE](https://github.com/bigai-nlco/LooGLE) - ACL 2024 / LooGLE: Long Context Evaluation for Long-Context Language Models <sub>⭐ 200 · Python</sub>
-- [YHPeter/Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation) - The official repository for the paper: Evaluation of Retrieval-Augmented Generation: A Survey. <sub>⭐ 200 · TeX</sub>
-- [bowen-upenn/PersonaMem](https://github.com/bowen-upenn/PersonaMem) - (COLM 2025) Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale <sub>⭐ 199 · Python</sub>
-- [EuroEval/EuroEval](https://github.com/EuroEval/EuroEval) - The robust European language model benchmark. <sub>⭐ 198 · Python</sub>
-- [LibertFan/AI_Hospital](https://github.com/LibertFan/AI_Hospital) - AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis <sub>⭐ 196 · Python</sub>
-- [Rubric4Setwise/Rubric4Setwise](https://github.com/Rubric4Setwise/Rubric4Setwise) - Rubric-oriented document set evaluation and selection for RAG. <sub>⭐ 196 · Python</sub>
-- [Extraltodeus/test_my_prompt](https://github.com/Extraltodeus/test_my_prompt) - This script is to test your prompts with the AUTOMATIC1111 webui <sub>⭐ 194 · Python</sub>
-- [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding… <sub>⭐ 191 · Python</sub>
-- [stephenleo/llm-structured-output-benchmarks](https://github.com/stephenleo/llm-structured-output-benchmarks) - Benchmark various LLM Structured Output frameworks: Instructor, Mirascope, Langchain, LlamaIndex, Fructose, Marvin, Outlines, etc on tasks like multi-label classification, named entity recognition… <sub>⭐ 191 · Python</sub>
-- [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code". <sub>⭐ 189 · TypeScript</sub>
-- [IDEA-Research/RexSeek](https://github.com/IDEA-Research/RexSeek) - (ICCV2025) Referring any person or objects given a natural language description. Code base for RexSeek and HumanRef Benchmark <sub>⭐ 188 · Python</sub>
-- [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) - Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and agent-swarm systems. <sub>⭐ 188 · JavaScript</sub>
-- [aws-samples/sample-getting-started-with-strands-agents-course](https://github.com/aws-samples/sample-getting-started-with-strands-agents-course) - Learn to build AI agents with Strands framework. Covers LLM integration via Amazon Bedrock/Anthropic, AWS service connections, tool implementation with MCP/A2A protocols, and agent evaluation using… <sub>⭐ 187 · Jupyter Notebook</sub>
-- [FastEval/FastEval](https://github.com/FastEval/FastEval) - Fast & more realistic evaluation of chat language models. Includes leaderboard. <sub>⭐ 187 · Python</sub>
-- [GreenBitAI/green-bit-llm](https://github.com/GreenBitAI/green-bit-llm) - A toolkit for fine-tuning, inferencing, and evaluating GreenBitAI's LLMs. <sub>⭐ 187 · Python</sub>
-- [symflower/eval-dev-quality](https://github.com/symflower/eval-dev-quality) - DevQualityEval: An evaluation benchmark and framework to compare and evolve the quality of code generation of LLMs. <sub>⭐ 186 · Go</sub>
-- [felipemaiapolo/tinyBenchmarks](https://github.com/felipemaiapolo/tinyBenchmarks) - Evaluating LLMs with fewer examples <sub>⭐ 185 · Jupyter Notebook</sub>
-- [microsoft/eureka-ml-insights](https://github.com/microsoft/eureka-ml-insights) - A framework for standardizing evaluations of large foundation models, beyond single-score reporting and rankings. <sub>⭐ 185 · Python</sub>
-- [centerforaisafety/wmdp](https://github.com/centerforaisafety/wmdp) - WMDP is a LLM proxy benchmark for hazardous knowledge in bio, cyber, and chemical security. We also release code for RMU, an unlearning method which reduces LLM performance on WMDP while retaining… <sub>⭐ 184 · Jupyter Notebook</sub>
-- [Trae1ounG/DyPRAG](https://github.com/Trae1ounG/DyPRAG) - (NeurIPS 2026 TTCL) Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement <sub>⭐ 184 · Python</sub>
-- [sambanova/toolbench](https://github.com/sambanova/toolbench) - ToolBench, an evaluation suite for LLM tool manipulation capabilities. <sub>⭐ 183 · Python</sub>
-- [withmartian/routerbench](https://github.com/withmartian/routerbench) - The code for the paper ROUTERBENCH: A Benchmark for Multi-LLM Routing System <sub>⭐ 183 · Python</sub>
-- [IAAR-Shanghai/UHGEval](https://github.com/IAAR-Shanghai/UHGEval) - (ACL 2024) User-friendly evaluation framework: Eval Suite & Benchmarks: UHGEval, HaluEval, HalluQA, etc. <sub>⭐ 182 · Python</sub>
-- [TsinghuaC3I/MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) - (ICML 2025) MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding <sub>⭐ 181 · Python</sub>
-- [IAAR-Shanghai/xFinder](https://github.com/IAAR-Shanghai/xFinder) - (ICLR 2025) xFinder: Large Language Models as Automated Evaluators for Reliable Evaluation <sub>⭐ 180 · Python</sub>
-- [meituan-longcat/vitabench](https://github.com/meituan-longcat/vitabench) - (ICLR 2026) VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in Real-world Applications <sub>⭐ 180 · Python</sub>
-- [KaiWU5/Awesome-AI4AI](https://github.com/KaiWU5/Awesome-AI4AI) - AI4AI Survey: can AI reliably improve AI? 223 papers on long-horizon agents, benchmarks, harness design, and recursive self-improvement · updated weekly <sub>⭐ 178 · Python</sub>
-- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - The ParroT framework to enhance and regulate the Translation Abilities during Chat based on open-sourced LLMs (e.g., LLaMA-7b, Bloomz-7b1-mt) and human written translation and evaluation data. <sub>⭐ 177 · Python</sub>
-- [rajshah4/LLM-Evaluation](https://github.com/rajshah4/LLM-Evaluation) - Sample notebooks and prompts for LLM evaluation <sub>⭐ 176 · Jupyter Notebook</sub>
-- [zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS) - The offical repo for "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling" <sub>⭐ 176 · Python</sub>
-- [5p00kyy/club-5060ti](https://github.com/5p00kyy/club-5060ti) - Practical local LLM recipes and benchmarks for RTX 5060 Ti setups <sub>⭐ 175 · Python</sub>
-- [ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) - Official Code for What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks (In NeurIPS 2023) <sub>⭐ 175 · Jupyter Notebook</sub>
-- [junyangwang0410/AMBER](https://github.com/junyangwang0410/AMBER) - An LLM-free Multi-dimensional Benchmark for Multi-modal Hallucination Evaluation <sub>⭐ 175 · Python</sub>
-- [LarHope/ollama-benchmark](https://github.com/LarHope/ollama-benchmark) - Ollama based Benchmark with detail I/O token per second. Python with Deepseek R1 example. <sub>⭐ 174 · Python</sub>
-- [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis) <sub>⭐ 173 · Python</sub>
-- [Lomnus-ai/TokenBurner](https://github.com/Lomnus-ai/TokenBurner) - A Claude Code skill that burns tokens on demand. Stress test, inflate metrics, or just set money on fire. <sub>⭐ 173</sub>
-- [gomate-community/rageval](https://github.com/gomate-community/rageval) - Evaluation tools for Retrieval-augmented Generation (RAG) methods. <sub>⭐ 172 · Python</sub>
-- [InternScience/SGI-Bench](https://github.com/InternScience/SGI-Bench) - Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows <sub>⭐ 172 · Python</sub>
-- [KhanCold/merchantbench](https://github.com/KhanCold/merchantbench) - MerchantBench is a 365-day, order-level benchmark for evaluating the long-term coherence of LLM agents in seller-side e-commerce operations. <sub>⭐ 171 · Python</sub>
-- [zhangxjohn/LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A banchmark list for evaluation of large language models. <sub>⭐ 171</sub>
-- [SergiioB/intel-arc-pro-b70-inference-cookbook](https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook) - Open recipes, engine patches, and benchmark harnesses for LLM inference on Intel Arc Pro B60/B70 (Battlemage, Xe2). MoE 35B at 160 t/s decode / 7.5K t/s prefill single-stream, 27B at 50~ t/s decode /… <sub>⭐ 170 · Python</sub>
-- [HiThink-Research/BizFinBench](https://github.com/HiThink-Research/BizFinBench) - A Business-Driven Real-World Financial Benchmark for Evaluating LLMs <sub>⭐ 169 · Python</sub>
-- [kxzk/snapbench](https://github.com/kxzk/snapbench) - gotta find 'em all; spatial reasoning benchmark for LLMs <sub>⭐ 169 · Zig</sub>
-- [Roriz/active_genie](https://github.com/Roriz/active_genie) - The Lodash for GenAI: Real Value + Consistent + Model-Agnostic <sub>⭐ 169 · Ruby</sub>
-- [wgwang/awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) - Awesome LLM Benchmarks to evaluate the LLMs across text, code, image, audio, video and more. <sub>⭐ 169</sub>
-- [usail-hkust/JailTrickBench](https://github.com/usail-hkust/JailTrickBench) - Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs. Empirical tricks for LLM Jailbreaking. (NeurIPS 2024) <sub>⭐ 167 · Python</sub>
-- [empirical-run/empirical](https://github.com/empirical-run/empirical) - Test and evaluate LLMs and model configurations, across all the scenarios that matter for your application <sub>⭐ 166 · TypeScript</sub>
-- [MemTensor/HaluMem](https://github.com/MemTensor/HaluMem) - HaluMem is the first operation level hallucination evaluation benchmark tailored to agent memory systems. <sub>⭐ 165 · Python</sub>
-- [OpenDCAI/One-Eval](https://github.com/OpenDCAI/One-Eval) - Automated system for LLM evaluation via agents. Doc as below <sub>⭐ 165 · Python</sub>
-- [babelcloud/LLM-RGB](https://github.com/babelcloud/LLM-RGB) - LLM Reasoning and Generation Benchmark. Evaluate LLMs in complex scenarios systematically. <sub>⭐ 164 · TypeScript</sub>
-- [jonathanmli/Avalon-LLM](https://github.com/jonathanmli/Avalon-LLM) - This repository contains a LLM benchmark for the social deduction game Resistance Avalon' <sub>⭐ 164 · Python</sub>
-- [McGill-NLP/weblinx](https://github.com/McGill-NLP/weblinx) - WebLINX is a benchmark for building web navigation agents with conversational capabilities <sub>⭐ 164 · Python</sub>
-- [microsoft/promptpex](https://github.com/microsoft/promptpex) - Test Generation for Prompts <sub>⭐ 164 · TeX</sub>
-- [romiluz13/cc10x](https://github.com/romiluz13/cc10x) - The Loop Engine for Claude Code — engineer the loop, not the prompt. 1 router · 9 agents · 16 skills · 4 workflows. Fail-closed gates, test honesty, anti-anchored review. <sub>⭐ 164 · Python</sub>
-- [Weschera/spark-bench](https://github.com/Weschera/spark-bench) - Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, trial statistics <sub>⭐ 164 · HTML</sub>
-- [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win) - Build AI-powered security tools. 50+ hands-on labs covering ML, LLMs, RAG, threat detection, DFIR, and red teaming. Includes Colab notebooks, Docker environment, and CTF challenges. <sub>⭐ 163 · Python</sub>
-- [open-compass/BotChat](https://github.com/open-compass/BotChat) - Evaluating LLMs' multi-round chatting capability via assessing conversations generated by two LLM instances. <sub>⭐ 163 · Jupyter Notebook</sub>
-- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces <sub>⭐ 162 · Python</sub>
-- [evalkit/evalkit](https://github.com/evalkit/evalkit) - The TypeScript LLM Evaluation Library <sub>⭐ 162 · TypeScript</sub>
-- [AlmogBaku/pytest-evals](https://github.com/AlmogBaku/pytest-evals) - A pytest plugin for running and analyzing LLM evaluation tests. <sub>⭐ 161 · Jupyter Notebook</sub>
-- [princeton-nlp/CharXiv](https://github.com/princeton-nlp/CharXiv) - (NeurIPS 2024) CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs <sub>⭐ 161 · Python</sub>
-- [mazzzystar/TurtleBench](https://github.com/mazzzystar/TurtleBench) - TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles. <sub>⭐ 160 · Jupyter Notebook</sub>
-- [swordlidev/Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) - A Survey on Benchmarks of Multimodal Large Language Models <sub>⭐ 160</sub>
-- [mahmoudrabie/agentic-ai](https://github.com/mahmoudrabie/agentic-ai) - Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains. <sub>⭐ 159</sub>
-- [Text2SqlAgent/text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - Agentic text-to-SQL SDK: hand the LLM one execute_sql tool and let it explore the schema, test queries, and self-correct — no RAG, no semantic layer. 20/20 on an 80-table Spider run. Built-in tracing… <sub>⭐ 159 · Python</sub>
-- [alibaba-multimodal-industrial-ai/IndustryBench](https://github.com/alibaba-multimodal-industrial-ai/IndustryBench) - A multi-lingual benchmark for evaluating industrial domain knowledge of LLMs. <sub>⭐ 157 · Python</sub>
-- [eli-labz/Cognitive-Core-Skills](https://github.com/eli-labz/Cognitive-Core-Skills) - A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models —… <sub>⭐ 157 · Python</sub>
-- [HKUST-KnowComp/NewtonBench](https://github.com/HKUST-KnowComp/NewtonBench) - (ICLR2026) NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents <sub>⭐ 157 · Python</sub>
-- [microsoft/SecRL](https://github.com/microsoft/SecRL) - Benchmarking LLM agents on Cyber Threat Investigation. <sub>⭐ 157 · Jupyter Notebook</sub>
-- [microsoft/mcp-interviewer](https://github.com/microsoft/mcp-interviewer) - Catch MCP server issues before your agents do. <sub>⭐ 156 · Python</sub>
+- [ModelTC/LightCompress](https://github.com/ModelTC/LightCompress) - (EMNLP 2024 & AAAI 2026) 一个强大的工具包,用于压缩大型模型,包括LLMS,VLMs,以及视频基因模型. <sub>⭐ 750 · Python</sub>
+- [simplerhacking/Evilginx3-Phishlets](https://github.com/simplerhacking/Evilginx3-Phishlets) - 该寄存器为穿透测试器和红色团队提供了大量动态钓鱼模板集,专门设计用于Evilginx3. 可定期更新。 <sub>⭐ 750</sub>
+- [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - 评价 LLM 生成产出的准确性 <sub>⭐ 743 · Jupyter Notebook</sub>
+- [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - AI Red Teaming, Jailbreak, and Power Injection 的專業資源列表 互联网档案馆的存檔,存档日期2014-09-21. AI Red Teaming, Jailbreak, and Sumple injection 互联网档案馆的存檔,存档日期2013-12-27. <sub>⭐ 737</sub>
+- [stanford-futuredata/ARES](https://github.com/stanford-futuredata/ARES) - RAG系统的自动评价 <sub>⭐ 734 · Python</sub>
+- [Snowflake-Labs/cocoplus](https://github.com/Snowflake-Labs/cocoplus) - CocoPlus是雪花Coco的代理操作系统,它为数据工程项目带来了结构化,多代理的工作流程——涵盖从项目初始化到Spec... <sub>⭐ 724 · JavaScript</sub>
+- [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) - 用LLMs授权软件测试的代理;在中国工业第一 <sub>⭐ 719 · Python</sub>
+- [GoodStartLabs/AI_Diplomacy](https://github.com/GoodStartLabs/AI_Diplomacy) - 边疆模特儿玩棋盘游戏外交. <sub>⭐ 707 · Python</sub>
+- [mlabonne/llm-autoeval](https://github.com/mlabonne/llm-autoeval) - 在 Google Colab 中自动评估您的 LLMS <sub>⭐ 698 · Python</sub>
+- [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) - 将任意寄存器转换为可验证的编码代理的 RL 环境 - 港务您可以在 Hugging Face 枢纽上训练、评价和共享 <sub>⭐ 696 · Python</sub>
+- [DataScienceUIBK/Rankify](https://github.com/DataScienceUIBK/Rankify) - Rankify:一个用于检索、再搜索和检索增强世代的综合Python工具箱。我们的工具包集成了40个预检索的基准数据集,并支持7+检索... <sub>⭐ 685 · Python</sub>
+- [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie是IntelliJEIDA的代理插件,它使用本地LLM(Ollama, LMStudio, GPT4All, Jan and Llama.cpp)和基于Cloud的LLMs来帮助审查,测试,解释您的项目代码. 最新... <sub>⭐ 682 · Java</sub>
+- [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - 人工操作,无框架的Colab笔记本,用于AI Engineer / FDE前方部署工程师(FDE)技能集——模型API,结构化输出,工具调用,RAG,evals-as-the-spine,代理商(从. <sub>⭐ 678 · Jupyter Notebook</sub>
+- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) - 一个基于谷歌的纸管乐团纸张通过技能执行的自动化AI研究纸质编剧——使用任意编码代理(Claude Code, Cursor, Antigravity...)的基准+自动编译器. <sub>⭐ 672 · Python</sub>
+- [Tencent/AICGSecEval](https://github.com/Tencent/AICGSecEval) - A.S.E(AICGSecEval)是Tencent Wukong代码安全团队开发的存储器级AI生成代码安全评价基准. <sub>⭐ 663 · Python</sub>
+- [qixucen/atom](https://github.com/qixucen/atom) - (NeurIPS 2025) 马可夫LLM测试-时间缩放的思想原子 <sub>⭐ 661 · Python</sub>
+- [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM) - 公开传播代码生成语言模型——发布预训,评价,推论和检查点. <sub>⭐ 660 · Python</sub>
+- [reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - 与基础模式有关的最新论文和基准 <sub>⭐ 660</sub>
+- [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - 关于LLM/MLLMs的内存的经验证的系统、基准和论文 -- -- 长期上下文、检索和推理。 <sub>⭐ 655 · Python</sub>
+- [codefuse-ai/codefuse-devops-eval](https://github.com/codefuse-ai/codefuse-devops-eval) - DevOps/AIOps域的有限责任公司工业第一评价基准。 <sub>⭐ 654 · Python</sub>
+- [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots) - 物理AI的开放源代码。在任何手臂/人造物上运行任何LM/VLA,以对照任何真实/模拟基准。 <sub>⭐ 634 · Python</sub>
+- [HowieHwong/TrustLLM](https://github.com/HowieHwong/TrustLLM) - (ICML 2024) TrustLLM:大语言模型中的可信赖性 <sub>⭐ 633 · Python</sub>
+- [RobustNLP/CipherChat](https://github.com/RobustNLP/CipherChat) - 评估有限责任管理课程安全调整普遍化能力的框架 <sub>⭐ 631 · Python</sub>
+- [Denis2054/RAG-Driven-Generative-AI](https://github.com/Denis2054/RAG-Driven-Generative-AI) - 此寄存器提供程序,用于构建Generative AI的 Retrieval Advanceed Generation (RAG)代码,其中包含LlamaIndex,深湖,以及利用OpenAI和Hugging Face模型的力量的Pinecone. . <sub>⭐ 628 · Jupyter Notebook</sub>
+- [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) - 大型语言模型中机器未学习的存储器 <sub>⭐ 627</sub>
+- [CSHaitao/Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) - 正式的论文检索,LLMs-as-judges:关于基于LLM的评价方法的综合调查。 <sub>⭐ 614</sub>
+- [AnotiaWang/awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) - 一份完整的决定模型清单(系统1/打字决定模型):主办API,开放量模型,运行时间,SDK,应用,基准,以及论文. <sub>⭐ 600 · Python</sub>
+- [MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU) - 这份回购包含“MMMU:专家AGI大规模多学科多式联运理解和合理基准”论文的评价代码。 <sub>⭐ 597 · Python</sub>
+- [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - AI编码器的自我评价访谈 <sub>⭐ 597 · Python</sub>
+- [run-llama/ParseBench](https://github.com/run-llama/ParseBench) - Parse Bench - AI 代理文件解析基准 <sub>⭐ 593 · Python</sub>
+- [leobeeson/llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) - 收集用于评估LLM的基准和数据集。 <sub>⭐ 581</sub>
+- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) - 公司内部文件的RAG数据集和基准. <sub>⭐ 576</sub>
+- [facebookresearch/meta-agents-research-environments](https://github.com/facebookresearch/meta-agents-research-environments) - Meta Agents Research Environments是一个综合性平台,旨在在动态,现实的情景中评价AI代理. 这个平台与静态基准不同,引入了不断发展的环境. <sub>⭐ 560 · Python</sub>
+- [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) - 优酷Jev:TypeSafe's System One模型的源头支持的场面指南,有SDK,现场演示,代理工具,以及独立的评价. <sub>⭐ 554 · HTML</sub>
+- [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - 该寄存器包含用于定量评价指令调试模型的代码,如关于搁置任务的Alpaca和Flan-T5. <sub>⭐ 553 · Python</sub>
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) - 使用60+骨架、辅导、生态系统指南和评价工具建立、部署和了解LLM剂的一站式手册。 <sub>⭐ 550 · Python</sub>
+- [InteractiveNLP-Team/RoleLLM-public](https://github.com/InteractiveNLP-Team/RoleLLM-public) - 作用LLM:基准、启发和增强大语言模型的作用配置能力 <sub>⭐ 532</sub>
+- [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - AppWorld: A Controlable World of Apps and people for Bactive 函数调用和交互式编码代理,ACL'24最佳资源文件. <sub>⭐ 525 · Python</sub>
+- [THUDM/LongCite](https://github.com/THUDM/LongCite) - LongCite: 使 LLMs 在长文QA中生成精细的引用 <sub>⭐ 522 · Python</sub>
+- [relari-ai/continuous-eval](https://github.com/relari-ai/continuous-eval) - LLM 功率应用程序的数据驱动评价 <sub>⭐ 518 · Python</sub>
+- [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench:通过MCP服务器对具有复杂实时世界任务的LLM代理工具进行基准化使用 <sub>⭐ 510 · Python</sub>
+- [liu00222/Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) - 该寄存器为LLMs中的快速注射攻击和防御提供了基准 <sub>⭐ 503 · Python</sub>
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) - GraphRAG-Bench用于评价GraphRAG模型的官方回购. "何时在RAG中使用Graphs:对Graph检索-增强生成的综合分析"(ICLR'26). <sub>⭐ 502 · Python</sub>
+- [SeekingDream/Static-to-Dynamic-LLMEval](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval) - 官方 GitHub 文件"在大语言模型基准上防止数据污染的近期进展:从静态到动态评价" <sub>⭐ 500</sub>
+- [preset-io/promptimize](https://github.com/preset-io/promptimize) - 快速化是一个即时的工程评价和测试工具包. <sub>⭐ 498 · Python</sub>
+- [phoenix-zhou/industrial-general-rag](https://github.com/phoenix-zhou/industrial-general-rag) - 该项目整合了RAG和FAQ的双重机制,引入了意向识别,动态适应检索,以及RAGAS自动评价系统,实现了从实证化的转变. <sub>⭐ 491 · Python</sub>
+- [zeno-ml/zeno-build](https://github.com/zeno-ml/zeno-build) - 构建、评价、理解和修正基于 LLM 的应用程序 <sub>⭐ 489 · Jupyter Notebook</sub>
+- [OmniJev/awesome-jev-gallery](https://github.com/OmniJev/awesome-jev-gallery) - 优异Jev:Jev和System One模型的开源模型,项目,基准,以及独立评价. <sub>⭐ 488 · JavaScript</sub>
+- [web-arena-x/visualwebarena](https://github.com/web-arena-x/visualwebarena) - VisualWebArena是多式联运代理的基准。 <sub>⭐ 488 · Python</sub>
+- [amitshekhariitbhu/ai-engineering-course](https://github.com/amitshekhariitbhu/ai-engineering-course) - AI工程课程 - 一个免费而完整的AI工程课程,以一步步学习AI工程 - 从机器学习,神经网络,变形器到LLMS,Fine-Tuning,RAG,AI Agents... <sub>⭐ 484 · Markdown</sub>
+- [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning) - 规划方面评价大语文模型的可扩展基准 <sub>⭐ 475 · PDDL</sub>
+- [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) - MLSecOps用于保障机器学习和AI系统的工具和资源目录 - 对抗性ML防御,LLM安全,AI红色组合,模型扫描,供应链保护,以及MLOPS... <sub>⭐ 473 · Astro</sub>
+- [yixuantt/MultiHop-RAG](https://github.com/yixuantt/MultiHop-RAG) - 用于“MultiHop-RAG:一个数据集,用于评价所有文档的检索和升级生成”的存储器(COLM 2024) <sub>⭐ 473 · Python</sub>
+- [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - 一个程序合成代理 通过运行测试自动修正其输出! <sub>⭐ 472 · Python</sub>
+- [alantech/marsha](https://github.com/alantech/marsha) - Marsha是一种功能性更高,基于英语的编程语言,通过LLM编译成测试的Python软件. <sub>⭐ 467 · Python</sub>
+- [HUST-AI-HYZ/MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench) - ICLR 2026纸的开源代码:通过递增的多回合交互来评价LLM代理器中的内存 <sub>⭐ 461 · Python</sub>
+- [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) - AI-驱动的CUAD风险检测、市场基准和律师准备的红线合同审查技能。与Claude Code、Codex、Cursor和26+工具一起工作。 <sub>⭐ 458</sub>
+- [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) - 用于衡量LLM和代理战略的模块框架,涉及HackTheBox、TryHackMe、PortSwigger Labs、Cybench、picoCTF等所有的安全挑战。 <sub>⭐ 457 · Python</sub>
+- [wgryc/phasellm](https://github.com/wgryc/phasellm) - 大型语言模型评价和工作流程框架来自阶段AI. <sub>⭐ 456 · Python</sub>
+- [open-compass/LawBench](https://github.com/open-compass/LawBench) - 大语文模式的法律知识基准 <sub>⭐ 453 · Python</sub>
+- [lechmazur/writing](https://github.com/lechmazur/writing) - 这一基准测试了LLMS如何在短篇创意故事中融入了一组十种必修的故事要素(人物,对象,核心概念,属性,动机等). <sub>⭐ 449</sub>
+- [hkust-nlp/AgentBoard](https://github.com/hkust-nlp/AgentBoard) - 多回合LLM代理分析评价委员会(NeurIPS 2024 Operative) <sub>⭐ 448 · SAS</sub>
+- [CodeSoul-co/Hypha](https://github.com/CodeSoul-co/Hypha) - 用于生产级LLM剂应用的面向利用的剂系统框架 <sub>⭐ 447 · TypeScript</sub>
+- [baaivision/JudgeLM](https://github.com/baaivision/JudgeLM) - (ICLR 2025 Spotlight) 一个用于评价LLM生成的答案的开源LLM判断器. <sub>⭐ 444 · Python</sub>
+- [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) - LLM 推论基准 <sub>⭐ 440 · Python</sub>
+- [matty69v/Bug-Bounty-Agents](https://github.com/matty69v/Bug-Bounty-Agents) - 用于Bub-Bounty Pentesting和红色团队目的的AI授权代理人 <sub>⭐ 434 · Shell</sub>
+- [abacaj/code-eval](https://github.com/abacaj/code-eval) - 使用人-爱瓦尔基准对法学硕士进行评价 <sub>⭐ 432 · Python</sub>
+- [ByteDance-Seed/EvaLearn](https://github.com/ByteDance-Seed/EvaLearn) - EvaLearn是一个开创性的基准,旨在评价大型语言模型(LLMs)在挑战性任务中的学习能力和效率. <sub>⭐ 431 · Python</sub>
+- [microsoft/OpenRCA](https://github.com/microsoft/OpenRCA) - (ICLR'25) OpenRCA:大语言模型能否定位软件故障的根源原因?. <sub>⭐ 429 · Python</sub>
+- [stevibe/BenchLocal](https://github.com/stevibe/BenchLocal) - 测试 LLMs 真实任务, 并肩比较模型 。 <sub>⭐ 429 · TypeScript</sub>
+- [talkdai/dialog](https://github.com/talkdai/dialog) - RAG LLM 操作程序,用于简易部署和测试 <sub>⭐ 428 · Python</sub>
+- [TIGER-AI-Lab/MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - "MMLU-Pro: A More robust and Challenging 多任务语言理解基准"(NeurIPS 2024)的代码和数据 <sub>⭐ 428 · Python</sub>
+- [athemeroy/awesome-claude-5-5-videos](https://github.com/athemeroy/awesome-claude-5-5-videos) - 与源链接的Claude 5.5视频工作流程:Opus和Sonnet演示,分别标注了下一部Fable测试报告,提示,工具和制作证据. <sub>⭐ 424 · Python</sub>
+- [AgentSafeLabs/safelabs-eval](https://github.com/AgentSafeLabs/safelabs-eval) - 人工智能特工的红队和评估框架,围绕一个由OWASP启发的ASI01-ASI10分类学构建 <sub>⭐ 416 · Python</sub>
+- [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader) - Polymarket的纸张交易模拟器 <sub>⭐ 413 · Python</sub>
+- [vectara/open-rag-eval](https://github.com/vectara/open-rag-eval) - RAG评价不需要"黄金答案". <sub>⭐ 412 · Python</sub>
+- [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - 发送您的提示: 它分解代码,审查,构建,测试,并同时自主地,在节俭符号的同时,做出承诺. <sub>⭐ 410 · JavaScript</sub>
+- [VibeBench/VibeSearchBench](https://github.com/VibeBench/VibeSearchBench) - 野外最难的搜索基准——模糊,多转,主动. 200个长视野任务 由人物驱动的渐进披露,由可核查的无计划知识图评分. . <sub>⭐ 409 · Python</sub>
+- [Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark) - Entrpi/ds4, NVIDIA DGX Spark上的 Blackwell CUDA perf叉式反rez/ds4: 单指令安装,~3x上游预填,~1.5x解码,DSpark,和全连续批量支持 <sub>⭐ 406 · Shell</sub>
+- [SuperagenticAI/superclaw](https://github.com/SuperagenticAI/superclaw) - 超级奇侠:红队AI特工在他们红队之前的你 <sub>⭐ 404 · Python</sub>
+- [MatthewCYM/VoiceBench](https://github.com/MatthewCYM/VoiceBench) - (TACL'26) Voice Bench:基于LLM的语音助理基准 <sub>⭐ 400 · Python</sub>
+- [ChatAFLndss/ChatAFL](https://github.com/ChatAFLndss/ChatAFL) - 大型语言模型指导协议模糊(NSS'24) <sub>⭐ 399 · C</sub>
+- [allenai/olmes](https://github.com/allenai/olmes) - 可复制的、灵活的LLM评价 <sub>⭐ 398 · Python</sub>
+- [ag2ai/Agents_Failure_Attribution](https://github.com/ag2ai/Agents_Failure_Attribution) - 代理系统自动故障归属基准(ICML 2025 Spotlight) <sub>⭐ 393 · Python</sub>
+- [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM 通过Ollama(当地地方政府)提供的产出基准 <sub>⭐ 391 · Python</sub>
+- [haolpku/K12-KGraph](https://github.com/haolpku/K12-KGraph) - (NeurIPS 2026)教育法学硕士课程统一知识图、基准和多式联运培训数据集。 <sub>⭐ 391 · Python</sub>
+- [adlnlp/FinLLMs](https://github.com/adlnlp/FinLLMs) - 该寄存器包含"金融大语言模型(英语:Financial Language Models (FinLLM))"论文的相关工作,基准和数据集. <sub>⭐ 390</sub>
+- [sgharlow/claude-code-recipes](https://github.com/sgharlow/claude-code-recipes) - 100个实地测试的Claude代码配方,供知识工作者使用——提示、步骤和6种可安装的分级技能。 <sub>⭐ 387</sub>
+- [microsoft/genaiops-promptflow-template](https://github.com/microsoft/genaiops-promptflow-template) - GenAIOps 带有快速流是一个"GenAIOps模板和指南",用于帮助您使用快速流构建LLM-注入的应用程序,它提供了包括集码主机,生命周期在内的一系列特性. . <sub>⭐ 368 · Python</sub>
+- [SakanaAI/RLT](https://github.com/SakanaAI/RLT) - 培训有强化学习能力的教师,使法学硕士能够学习如何说明测试时间的长短。 <sub>⭐ 368 · Python</sub>
+- [ZhuLinsen/alphasift](https://github.com/ZhuLinsen/alphasift) - AI-原产地股票筛选引擎具有全市场发现,LLM排名,风险意识评分,以及可审计评价. AIQQ <sub>⭐ 368 · Python</sub>
+- [AILab-CVC/SEED-Bench](https://github.com/AILab-CVC/SEED-Bench) - (CVPR2024)A 使用多种选择问题评价多式联运有限责任公司的基准。 <sub>⭐ 367 · Python</sub>
+- [graniet/llm](https://github.com/graniet/llm) - 一个强大的 Rust 库和 CLI 工具,可以统一和调节多个 LLM, Agent 和语音后端( OpenAI, Claude, 双子座, Ollama, 11Labs...),并带有一个单一的,可扩展的 API. build, 链条... <sub>⭐ 365 · Rust</sub>
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - 终端UI.SFC & JSX的Vue框架,瑜伽弹性盒,HMR,以及测试出箱. <sub>⭐ 365 · TypeScript</sub>
+- [arcprize/arc-agi-benchmarking](https://github.com/arcprize/arc-agi-benchmarking) - 测试各种模型的基线有限责任方案绩效 <sub>⭐ 364 · Python</sub>
+- [dipampaul17/KVSplit](https://github.com/dipampaul17/KVSplit) - 通过对 KV 缓存定量化使用差别精度来运行在苹果硅上具有更长内涵的较大的LLMs. KVSplit 启用了8位键和4位值,将内存减少59%,质量为 < 1%... <sub>⭐ 362 · Python</sub>
+- [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) - 完成AI治理和LLM Evals平台,支持欧盟AI法案,ISO 42001,NIST AI RMF和20+多个AI框架和条例. 加入我们的Discord频道... <sub>⭐ 360 · TypeScript</sub>
+- [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - 一套综合的LLM基准分数和供应商价格。 (已贬值,更多见README) <sub>⭐ 356 · JavaScript</sub>
+- [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) - LLM 服务堆栈的调用工具质量基准. 80+ 定点方案测试多转弯管弦,安全边界,以及结构化输出. 支持 vLLM, SGLang, and lama.cpp. <sub>⭐ 356 · Python</sub>
+- [Ayanami0730/arag](https://github.com/Ayanami0730/arag) - A-RAG:通过等级检索接口进行代理检索-增强生成. State - state RAG框架,包含关键词,语义,以及多跳QA的块读工具. <sub>⭐ 354 · Python</sub>
+- [aiverify-foundation/moonshot](https://github.com/aiverify-foundation/moonshot) - Moonshot - 一个简单且模块化的工具,用于评价和红色小组任何LLM应用程序. <sub>⭐ 353 · Python</sub>
+- [agiresearch/OpenP5](https://github.com/agiresearch/OpenP5) - OpenP5:开发、培训和评价基于LLM的推荐系统的开放源代码平台 <sub>⭐ 350 · Python</sub>
+- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - 证据支持的AMD Strix Halo 本地-AI设置和基准:Qune3.8, Ollama, lama.cpp, Vulkan/ROCm,大型GGUFs,以及跨OEM结果. <sub>⭐ 350 · Python</sub>
+- [xlang-ai/OSWorld-V2](https://github.com/xlang-ai/OSWorld-V2) - OSWorld 2.0:将计算机使用代理人作为长视现实世界任务的基准 <sub>⭐ 347 · Python</sub>
+- [Libr-AI/do-not-answer](https://github.com/Libr-AI/do-not-answer) - Do-not-Answer:用于评估法学硕士课程保障措施的数据集 <sub>⭐ 346 · Jupyter Notebook</sub>
+- [GPT-Fathom/GPT-Fathom](https://github.com/GPT-Fathom/GPT-Fathom) - GPT-Fathom是一个开源且可复制的LLM评价套件,基准10+领先的开源和闭源LLMs,以及OpenAI早期基于20+所编曲的基准的模型. <sub>⭐ 345 · Python</sub>
+- [tianyi-lab/HallusionBench](https://github.com/tianyi-lab/HallusionBench) - (CVPR'24) Hallusion Bench:你看见你的想法了吗?或你看见了什么? 一个图像-文字理性基准挑战,用于GPT-4V(ision)、LLaVA-1.5和其他多式联运模式 <sub>⭐ 344 · Python</sub>
+- [thunlp/ChatEval](https://github.com/thunlp/ChatEval) - 我们的论文"ChatEval:通过多代理辩论向更好的LLM评价者迈进"的代码. <sub>⭐ 343 · Python</sub>
+- [akitaonrails/llm-coding-benchmark](https://github.com/akitaonrails/llm-coding-benchmark) - 用自动化的 OpenCode 测试最受欢迎的开源和商业LLMs 的简单基准 <sub>⭐ 339 · Python</sub>
+- [fuzz4all/fuzz4all](https://github.com/fuzz4all/fuzz4all) - 模糊4All:使用大语言模型的通用模糊 <sub>⭐ 338 · Python</sub>
+- [snap-stanford/stark](https://github.com/snap-stanford/stark) - (NeurIPS D&B 2024)STARK:以文字和关系知识基础为基准进行LLM检索. <sub>⭐ 337 · Python</sub>
+- [Shiva108/ai-llm-red-team-handbook](https://github.com/Shiva108/ai-llm-red-team-handbook) - AI/LLM 红色团队实地手册和顾问手册 <sub>⭐ 336 · Python</sub>
+- [Azure-Samples/ai-rag-chat-evaluator](https://github.com/Azure-Samples/ai-rag-chat-evaluator) - 使用 Azure AI 评估 SDK 和 OpenAI 的 RAG Chat Apps 评价工具 <sub>⭐ 335 · Python</sub>
+- [stanfordmlgroup/MedAgentBench](https://github.com/stanfordmlgroup/MedAgentBench) - MedAgent Bench: 以真实的虚拟EHR环境作为医学LLM代理基准 <sub>⭐ 334 · Python</sub>
+- [InternScience/SurveyForge](https://github.com/InternScience/SurveyForge) - (ACL-2025主要会议) 勘测福尔格:关于高uristics、内存驱动生成和自动勘测撰写的多维评价 <sub>⭐ 333 · Python</sub>
+- [Ammaar-Alam/minebench](https://github.com/Ammaar-Alam/minebench) - 用于比较人工智能模型(Arena + Sandbox)的Minecraft型 voxel基准 <sub>⭐ 332 · TypeScript</sub>
+- [sci-m-wang/OpenCE](https://github.com/sci-m-wang/OpenCE) - OpenCE (Open Context Engine):一个社区工具包,用于执行,评价,并结合LLM上下文策略(RAG,ACE,Compression). Evolution from ACE-open reploying. <sub>⭐ 332 · Python</sub>
+- [sgl-project/genai-bench](https://github.com/sgl-project/genai-bench) - Genai-bench是一个强大的基准工具,旨在对大型语言模型(LLM)服务系统进行全面的符号级性能评价. <sub>⭐ 332 · Python</sub>
+- [bboylyg/BackdoorLLM](https://github.com/bboylyg/BackdoorLLM) - (NeurIPS 2025) 后门LLM:大型语言模型后门攻击和防御的综合基准 <sub>⭐ 327 · Python</sub>
+- [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - 用于评估您所获取的增强生成(RAG)应用程序响应质量的量表。 <sub>⭐ 327 · Python</sub>
+- [lm-sys/llm-decontaminator](https://github.com/lm-sys/llm-decontaminator) - 论文"用重述样本重新思考语言模型的基准和污染"的代码. <sub>⭐ 326 · Python</sub>
+- [OpenBMB/UltraEval-Audio](https://github.com/OpenBMB/UltraEval-Audio) - 你的忠实、公正的音频评价伙伴——了解你自己,了解你的对手。 <sub>⭐ 326 · Python</sub>
+- [nexusflowai/NexusRaven](https://github.com/nexusflowai/NexusRaven) - NexusRaven- 13B 是函数调用的新 SOTA 开源 LLM。 此回波包含所有内容, 用于复制我们对 NexusRaven- 13B 和基线的评价 。 <sub>⭐ 325 · Python</sub>
+- [joey-melo/payloads](https://github.com/joey-melo/payloads) - AI红队及以后的有效载荷 <sub>⭐ 324</sub>
+- [samkhur006/awesome-llm-planning-reasoning](https://github.com/samkhur006/awesome-llm-planning-reasoning) - 集中了LLM推理和规划资源,包括关键论文、限制、基准和补充学习材料。 <sub>⭐ 324</sub>
+- [FrontierCS/Frontier-CS](https://github.com/FrontierCS/Frontier-CS) - 评估开放式CS问题法学硕士的基准,探索计算机科学的下一个前沿。 <sub>⭐ 322 · C++</sub>
+- [supermemoryai/memorybench](https://github.com/supermemoryai/memorybench) - 评估多个数据集的对话内存和RAG的统一基准 <sub>⭐ 321 · TypeScript</sub>
+- [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - 检索、汇总、过滤、评价、重写和服务 RSS 种子,使用大语言模型进行游戏、研究和学习 <sub>⭐ 320 · Python</sub>
+- [zapier/AutomationBench](https://github.com/zapier/AutomationBench) - 评估AI代理机构实际业务工作流程的基准 <sub>⭐ 320 · Python</sub>
+- [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench) - ML-Bench:评价大型语言模型和机器学习任务代理人关于存储器-级码(https://arxiv.org/abs/2311.09835) <sub>⭐ 316 · Python</sub>
+- [trustbit/enterprise-rag-challenge](https://github.com/trustbit/enterprise-rag-challenge) - 测试不同LLM驱动助手准确性的挑战 <sub>⭐ 316 · Python</sub>
+- [nuprl/MultiPL-E](https://github.com/nuprl/MultiPL-E) - LLMs 的多编程语言基准 <sub>⭐ 315 · Python</sub>
+- [Prompthon-IO/agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook) - 实用AI代理手册,涵盖代理系统,代理工作流程,LangGraph,MCP/A2A,上下文工程,代理内存,评价,可观察性,以及多代理架构. . <sub>⭐ 315 · MDX</sub>
+- [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - RAG实验加速器是一种多功能工具,旨在利用Azure认知搜索和RAG模式,加快和便利进行实验和评价的过程. <sub>⭐ 312 · Python</sub>
+- [chainreactors/cyber-harness](https://github.com/chainreactors/cyber-harness) - AI驱动的类似 pi的网络安全代理——单二进制用于笔试,红色团队,bug赏金 <sub>⭐ 311 · Go</sub>
+- [w512/Prompt-Vault](https://github.com/w512/Prompt-Vault) - 为制定基准和测试LLMS而设计的编码提示和详细项目规格的集合. <sub>⭐ 311</sub>
+- [Green-PT/honey-for-devs](https://github.com/Green-PT/honey-for-devs) - Honey(I Shrunk the AI),由GreenPT公司制作:一种跨工具编码技能,它削减了AI编码代理符的使用和LLM API的成本——写码较少,传言较少,并且更密集的代理对代理传递(−53%,无损失. <sub>⭐ 310 · JavaScript</sub>
+- [JaredStewart/coderlm](https://github.com/JaredStewart/coderlm) - 树保姆驱动的代码索引服务器,可以让LLM代理精准,按需访问符号,执行,调用器,测试,和grep跨多语言项目——所以它们探索. <sub>⭐ 304 · Rust</sub>
+- [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK 用于对 LLM 进行评价,生成了响应 <sub>⭐ 303 · Python</sub>
+- [ulab-uiuc/MARBLE](https://github.com/ulab-uiuc/MARBLE) - (ACL 2025 Main) 多代理奔驰码:评价LLM代理商的合作与竞争 https://www.arxiv.org/pdf/2503.01935 <sub>⭐ 301 · Python</sub>
+- [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUI TestAgent是第一个自动,自然语言驱动的GUI测试工具,用于移动应用,能够完全自动化GUI互动和功能验证的整个过程. <sub>⭐ 300</sub>
+- [Meet-Miyani/compose-skill](https://github.com/Meet-Miyani/compose-skill) - 编曲技能(Compake Kit):Jetpack 编曲和编曲多平台的代理技能. 使克劳德代码, Codex, cursor, Copilot,双子座CLI和OpenCode写得更好: MVI, Koin, Navigation... <sub>⭐ 300 · Shell</sub>
+- [thu-coai/SafetyBench](https://github.com/thu-coai/SafetyBench) - 安全奔驰官方网站,评价LLMs安全性的综合基准。 (ACL 2024) <sub>⭐ 299 · Python</sub>
+- [Cisco-Talos/DECEIVE](https://github.com/Cisco-Talos/DECEIVE) - 以评价性综合验证引擎(DECEIVE):让LLM来做所有的硬蜂蜜壶工作! <sub>⭐ 298 · Python</sub>
+- [embodied-agent-interface/embodied-agent-interface](https://github.com/embodied-agent-interface/embodied-agent-interface) - 健全代理接口:制定良好决策的有限责任制度基准(2024年口服) <sub>⭐ 298 · Python</sub>
+- [lechmazur/elimination_game](https://github.com/lechmazur/elimination_game) - 一个多人联赛基准测试LLMs在社会推理,策略和欺骗方面的测试. 玩家参与公共和私人对话,组成联盟,并投票消灭对方. <sub>⭐ 298</sub>
+- [praetorian-inc/augustus](https://github.com/praetorian-inc/augustus) - LLM 检测快速注射、越狱和对抗性攻击的安全测试框架——190+探测器,28个提供商,单Go二进制 <sub>⭐ 298 · Go</sub>
+- [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - 构建、评价和观察 LLM apps <sub>⭐ 296 · Jupyter Notebook</sub>
+- [langfuse/skills](https://github.com/langfuse/skills) - Langfuse的代理技能,用于追踪、快速管理和评价的开源LLM工程平台 <sub>⭐ 294 · Python</sub>
+- [bytedance/web-bench](https://github.com/bytedance/web-bench) - Web-Bench是一个旨在评价LLMs在实际Web开发中的表现的基准. <sub>⭐ 292 · JavaScript</sub>
+- [eth-sri/matharena](https://github.com/eth-sri/matharena) - 对最新数学竞赛的法学硕士评价 <sub>⭐ 290 · Python</sub>
+- [apicat/apicat](https://github.com/apicat/apicat) - 一个高效的API文档管理工具,完全遵守OpenAPI规格,并融入先进的LLM技术. 这个工具可以自动生成API文档. . <sub>⭐ 289 · Go</sub>
+- [rentruewang/bocoel](https://github.com/rentruewang/bocoel) - 贝叶斯优化作为评价LLMs的覆盖工具. 精确评价(基准标记)速度快十倍,只有几行模块代码. <sub>⭐ 289 · Python</sub>
+- [snap-stanford/POPPER](https://github.com/snap-stanford/POPPER) - 自动假冒测试 <sub>⭐ 289 · Python</sub>
+- [night-chen/ToolQA](https://github.com/night-chen/ToolQA) - ToolQA是一套新的数据集,用来评价法学硕士用外部工具回答挑战性问题的能力,它提供了8种现实生活中情景的两级(容易/硬度)。 <sub>⭐ 288 · Jupyter Notebook</sub>
+- [RyanLiu112/compute-optimal-tts](https://github.com/RyanLiu112/compute-optimal-tts) - 官方代码库"Can 1B LLM Surpass 405B LLM?反思计算-optimal Test-Time缩放". <sub>⭐ 288 · Python</sub>
+- [Tongyi-MAI/MobileWorld](https://github.com/Tongyi-MAI/MobileWorld) - 在代理用户互动和MCP强化环境中制定自主移动代理基准(ACL 2026) <sub>⭐ 287 · Python</sub>
+- [VietnamAIHub/Vietnamese_LLMs](https://github.com/VietnamAIHub/Vietnamese_LLMs) - D. an bao g (韩语) <sub>⭐ 287 · Python</sub>
+- [Q-Future/Q-Bench](https://github.com/Q-Future/Q-Bench) - 1(ICLR2024 Spotlight) (GPT-4V/Gemini-Pro/Quen-VL-Plus+16 OS MLLMs) 低水平视野和视觉质量评估的多式联运有限责任公司(MLLMs)基准. <sub>⭐ 285 · Jupyter Notebook</sub>
+- [xxzcc/Awesome-Credit-Assignment-in-LLM-RL](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL) - 在推理和代理LLM强化学习方面,关于信用分配的校准论文、分类、基准和决策指南。 <sub>⭐ 285 · Python</sub>
+- [Simreal-AI/Simreal-MLBench](https://github.com/Simreal-AI/Simreal-MLBench) - (公开预览) 外部评分的代理ML研究基准:60项任务,真实的竞争基础真相. 开放协议,运行评价. <sub>⭐ 281 · Python</sub>
+- [TYH-labs/unsloth-buddy](https://github.com/TYH-labs/unsloth-buddy) - 零冷冻 LLM 精细化技能,用于Claude Code,双子座 CLI 和任何ACP代理. Unsloth on NVIDIA → TRL+MPS/MLX on Apple Silicon. Automates env setup, LoRA training(SFT,DPO,GPRO,视觉)... <sub>⭐ 280 · Python</sub>
+- [ZubinGou/math-evaluation-harness](https://github.com/ZubinGou/math-evaluation-harness) - 用于为数学推理任务制定LLMS基准的简单工具包. <sub>⭐ 280 · Python</sub>
+- [illuin-tech/vidore-benchmark](https://github.com/illuin-tech/vidore-benchmark) - 远景文件检索(ViDore):基准. ColPali论文的评价代码. <sub>⭐ 279 · Python</sub>
+- [FlowTestAI/FlowTest](https://github.com/FlowTestAI/FlowTest) - GenAI 为 API 第一工作流程提供 OpenSource IDE 的动力 <sub>⭐ 275 · JavaScript</sub>
+- [balrog-ai/BALROG](https://github.com/balrog-ai/BALROG) - 游戏中基于代理 LLM 和 VLM 的理由 <sub>⭐ 273 · Python</sub>
+- [facebookresearch/sweet_rl](https://github.com/facebookresearch/sweet_rl) - SWEET-RL文件的基准和研究代码 <sub>⭐ 272 · Python</sub>
+- [Strivin0311/long-llms-learning](https://github.com/Strivin0311/long-llms-learning) - 分享关于长文大语言模型的文献,包括方法和评价基准的文献库 <sub>⭐ 272 · Jupyter Notebook</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [alibaba-damo-academy/MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) - MedevalKit:统一医疗评价框架 <sub>⭐ 266 · Python</sub>
+- [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench) - ResearchClaw Bench:评价AI代理从再发现到新发现的自动化研究 <sub>⭐ 266 · Jupyter Notebook</sub>
+- [xiaobright/modeltest](https://github.com/xiaobright/modeltest) - 个人 LLM 工程维护评价工具(V4.1b,冻结),不是公共基准。 <sub>⭐ 264 · Python</sub>
+- [smartyfh/LLM-Uncertainty-Bench](https://github.com/smartyfh/LLM-Uncertainty-Bench) - 通过不确定的量化来制定有限责任管理办法的基准 <sub>⭐ 263 · Python</sub>
+- [misbahsy/RAGTune](https://github.com/misbahsy/RAGTune) - RAG输油管的编导和评价。 (将很快增加自动化优化) <sub>⭐ 262 · Python</sub>
+- [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) - 进化的多剂运行时间,可以培育,评价,改进跨可复制时代的自主剂,以趋同于一个目标的优化. <sub>⭐ 258 · Python</sub>
+- [normster/llm_rules](https://github.com/normster/llm_rules) - RuLES:用于评价语言模型遵循规则的基准 <sub>⭐ 258 · Python</sub>
+- [allenai/WildBench](https://github.com/allenai/WildBench) - 以来自实际用户的挑战任务为基准制定有限责任管理课程 <sub>⭐ 257 · Python</sub>
+- [booydar/babilong](https://github.com/booydar/babilong) - BABILong是使用针入海斯塔克方法进行LLM评价的基准. <sub>⭐ 257 · Jupyter Notebook</sub>
+- [CAS-SIAT-XinHai/CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun) - (ACL 2024) CPSYCoun:基于报告的中国心理咨询多回合对话重建与评价框架 <sub>⭐ 257 · Jupyter Notebook</sub>
+- [Agentic-Systems-Lab/rigorous](https://github.com/Agentic-Systems-Lab/rigorous) - 一套综合工具,通过使研究的创造、评价和传播更加透明、负担得起和高效,解放科学。 <sub>⭐ 254 · Python</sub>
+- [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - 这个软件包是一套数据集,用于在家庭助理的背景下评价AI Models. <sub>⭐ 254 · Jupyter Notebook</sub>
+- [ATOM00blue/machine-learning-library](https://github.com/ATOM00blue/machine-learning-library) - 自定义 APRL 机器学习算法 + 一个由923篇论文,讲座,和解释器组成的解析的 ML 知识库. NumPy 分类器/递归器,测试,基准,出处,Obsidian,以及代理准备... <sub>⭐ 254 · Python</sub>
+- [microsoft/SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live) - (NeurIPS 2025 D&B) SWE-bench Goes Live! (原始内容存档于2025-09-29). <sub>⭐ 250 · Python</sub>
+- [index-labs/evalgpt](https://github.com/index-labs/evalgpt) - EvalGPT是一个代码解释框架,它利用大型语言模型实现代码写入和执行过程的自动化,为用户定义的任务提供精确的结果. <sub>⭐ 249 · Go</sub>
+- [lechmazur/confabulations](https://github.com/lechmazur/confabulations) - 幻觉(Confulation) RAG基于文件的基准,包括经人验证的问答. <sub>⭐ 249 · HTML</sub>
+- [citadel-ai/langcheck](https://github.com/citadel-ai/langcheck) - 简单,Pythonic的构件来评价LLM的应用. <sub>⭐ 247 · Python</sub>
+- [onnx/turnkeyml](https://github.com/onnx/turnkeyml) - 为加速ONNX工作流程而设计的无编码 CLI <sub>⭐ 247 · Python</sub>
+- [tongye98/Awesome-Code-Benchmark](https://github.com/tongye98/Awesome-Code-Benchmark) - LLM研究综合代码域基准审查. <sub>⭐ 246</sub>
+- [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) - 开源代理 evals & observatory:追踪,评价,并用一个开放平台改进LLM应用. <sub>⭐ 245 · MDX</sub>
+- [neo4j-labs/text2cypher](https://github.com/neo4j-labs/text2cypher) - 收集文本2 密码数据集、评价和微调指令 <sub>⭐ 244 · Jupyter Notebook</sub>
+- [lechmazur/nyt-connections](https://github.com/lechmazur/nyt-connections) - 使用759个NYT连接符来评价 LLMS 的基准 <sub>⭐ 243 · Python</sub>
+- [OpenDCAI/Data-Preparation-Bench](https://github.com/OpenDCAI/Data-Preparation-Bench) - 以LLM驱动的培训数据构建,选择,质量评价为统一,下游定位的基准. <sub>⭐ 241 · Python</sub>
+- [THUNLP-MT/StableToolBench](https://github.com/THUNLP-MT/StableToolBench) - 基于Tolle Bench的一个新的工具学习基准,旨在实现平衡的稳定与现实。 <sub>⭐ 241 · Python</sub>
+- [laiso/ts-bench](https://github.com/laiso/ts-bench) - 用于比较AI编码代理对TypeScript工作量的基准CLI. <sub>⭐ 240 · TypeScript</sub>
+- [modelscope/AgentJet](https://github.com/modelscope/AgentJet) - LLM代理调试的剪切前沿平台,以灵活,可靠,速度,多剂优化和实时社区基准化方式交付RL调试. <sub>⭐ 240 · Python</sub>
+- [surya-koritala/Glyd](https://github.com/surya-koritala/Glyd) - 无损失的AI压缩:减少33%GPU内存,位数比特. <sub>⭐ 240 · Rust</sub>
+- [alibaba/aacr-bench](https://github.com/alibaba/aacr-bench) - Alibaba在存储器级自动码审查中评价LLMS的多种语言开放源码基准,其特色是AI辅助和专家验证的数据集. <sub>⭐ 238 · Python</sub>
+- [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark) - 一个用于评价公牛和牛数猜游戏的LLM性能的小型框架,支持多个LLM供应商. <sub>⭐ 236 · HTML</sub>
+- [scicode-bench/SciCode](https://github.com/scicode-bench/SciCode) - 挑战语言模型解决科学问题编码方法的基准 <sub>⭐ 234 · Python</sub>
+- [bytedance/PatchEval](https://github.com/bytedance/PatchEval) - 补丁Eval:评估关于补丁现实世界脆弱性的有限责任模型的新基准 <sub>⭐ 231 · Python</sub>
+- [gengchaogit/llm_speedtest](https://github.com/gengchaogit/llm_speedtest) - 本地 LLM 推论速度测试工具 <sub>⭐ 231 · HTML</sub>
+- [0x4D31/airt](https://github.com/0x4D31/airt) - AIRT — 一个免费,开源的AI Red Teaming课程,包含8个模块和亲手操作的Docker实验室. 使用Percomplexity Computer构建. <sub>⭐ 229 · HTML</sub>
+- [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Agent-First DeepSeek Harness手册:173源头支持的运行时间,插件,MCP,沙盒,评价,故障排除,多语种,74资源优异生态系统指南. <sub>⭐ 229 · HTML</sub>
+- [anakin87/llm-rl-environments-lil-course](https://github.com/anakin87/llm-rl-environments-lil-course) - 有关加强学习环境的小课程,用于评价和培训语文模式 <sub>⭐ 228 · Python</sub>
+- [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - LLM 提示的测试套件 <sub>⭐ 227</sub>
+- [rungalileo/agent-leaderboard](https://github.com/rungalileo/agent-leaderboard) - 在代理任务上给法学硕士学位进行排名 <sub>⭐ 226 · Jupyter Notebook</sub>
+- [SeekingDream/DyCodeEval](https://github.com/SeekingDream/DyCodeEval) - ICML2025文件“数据污染下代码大语言模型中合理能力动态基准化”官方存放处 <sub>⭐ 225 · Python</sub>
+- [allenai/discoveryworld](https://github.com/allenai/discoveryworld) - 开发和评价自动科学发现剂的虚拟环境。 <sub>⭐ 224 · Python</sub>
+- [arc53/llm-price-compass](https://github.com/arc53/llm-price-compass) - 这个项目从各种云提供商收集GPU基准,并将其与每令牌成本的固定比较。使用我们的工具来进行高效的LLM GPU选择和成本效益高的AI模型. LLM 提供商... <sub>⭐ 223 · TypeScript</sub>
+- [strands-agents/evals](https://github.com/strands-agents/evals) - AI代理和LLM应用的综合评价框架. <sub>⭐ 222 · Python</sub>
+- [firecrawl/rag-arena](https://github.com/firecrawl/rag-arena) - 通过用户反馈进行开源RAG评价. <sub>⭐ 221 · TypeScript</sub>
+- [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - 这个项目试图建立一个通用的度量标准,测试LLM在消除幻觉方面的进展,这是目前广泛采用LLM对于许多真正的. <sub>⭐ 221 · Python</sub>
+- [comet-ml/opik-mcp](https://github.com/comet-ml/opik-mcp) - Opik的模型上下文协议(MCP)服务器,由彗星构建的开源LLM可观察性和评价平台. Read tracks,log cops,并管理来自克劳德代码,cursor,或VS的提示... <sub>⭐ 220 · Python</sub>
+- [kaistAI/FLASK](https://github.com/kaistAI/FLASK) - (ICLR 2024 Spotlight) FLASK:基于对齐技能集的精致语言模型评价 <sub>⭐ 219 · Python</sub>
+- [stanfordnlp/axbench](https://github.com/stanfordnlp/axbench) - Stanford NLP Python 库,用于对 LLM 解释方法的实用性进行基准化 <sub>⭐ 218 · Python</sub>
+- [MMStar-Benchmark/MMStar](https://github.com/MMStar-Benchmark/MMStar) - (NeurIPS 2024) 此回波包含论文"我们是否在正确道路上评价大视野-语言模型"的评价代码. <sub>⭐ 217 · Python</sub>
+- [ausboss/Local-LLM-Langchain](https://github.com/ausboss/Local-LLM-Langchain) - 将本地的 LLMs 与 Langchain 或其他代理设备一起, 不加努力地装入 Jupyter 笔记本中进行测试。 包含 Oobagooga 和 KoboldAI 版本的 Langchain 笔记本, 并附有示例 。 <sub>⭐ 216 · Jupyter Notebook</sub>
+- [azshue/TPT](https://github.com/azshue/TPT) - 视觉语言模型零射一般化试验时间快速图宁(TPT)(NeurIPS 2022) <sub>⭐ 216 · Python</sub>
+- [IBM/unitxt](https://github.com/IBM/unitxt) - Unitxt是用于企业级AI性能评价的Python库,为端到端AI基准提供世界上最大的工具和数据目录. <sub>⭐ 216 · Python</sub>
+- [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker) - 红队为AI和云 <sub>⭐ 215 · Go</sub>
+- [OFA-Sys/Ditto](https://github.com/OFA-Sys/Ditto) - 角色扮演的自我失败方法. 角色扮演的基准. 资源"Large Language Models is Superpositions of All Charles:通过自我调节实现任意角色扮演". <sub>⭐ 214 · Jupyter Notebook</sub>
+- [Ryota-Kawamura/LangChain-for-LLM-Application-Development](https://github.com/Ryota-Kawamura/LangChain-for-LLM-Application-Development) - 在 LLM 应用开发的 LangChain 中,您将获得使用 LangChain 框架扩展语言模型在应用开发中的使用案例和能力的基本技能. <sub>⭐ 212 · Jupyter Notebook</sub>
+- [boson-ai/RPBench-Auto](https://github.com/boson-ai/RPBench-Auto) - 用于评价LLMs角色扮演的自动管道. <sub>⭐ 211 · Python</sub>
+- [Pavankunchala/LLM-Learn-PK](https://github.com/Pavankunchala/LLM-Learn-PK) - 测试不同的 LLM 和 RAG 测试,同时我学习沿途 <sub>⭐ 211 · Python</sub>
+- [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss) - 苹果硅本地 LLM 测试和基准 <sub>⭐ 208 · Swift</sub>
+- [Hellsender01/LLMMap](https://github.com/Hellsender01/LLMMap) - 具有双LLM架构的LLM-集成应用的自动即时注射测试框架. <sub>⭐ 207 · Python</sub>
+- [simonw/pelican-bicycle](https://github.com/simonw/pelican-bicycle) - LLM 基准 : 生成骑自行车的闵行的 SVG <sub>⭐ 206 · Shell</sub>
+- [Corpus-OS/corpusos](https://github.com/Corpus-OS/corpusos) - 开源协议套件规范 LLM,矢量,图,和嵌入式基础设施,跨越朗钱,LlamaIndex,AutoGen,CrewAI,Semantic Kernel,以及MCP. 3,330+符合性测试. 1... <sub>⭐ 205 · Python</sub>
+- [xxyQwQ/ComfyBench](https://github.com/xxyQwQ/ComfyBench) - 论文"Comfy Bench:在ComfyUI中为基于LLM的代理制定基准,用于自主设计协作AI系统"的实施. <sub>⭐ 205 · Python</sub>
+- [adobe-research/NoLiMa](https://github.com/adobe-research/NoLiMa) - "NoLiMa:长文评价超越文学配乐"官方寄存器 <sub>⭐ 204 · Python</sub>
+- [alopatenko/LLMEvaluation](https://github.com/alopatenko/LLMEvaluation) - 关于LLM评价方法的综合指南,旨在协助确定各种使用案例的最合适的评价技术,促进采用LLM中的最佳做法. <sub>⭐ 203 · HTML</sub>
+- [lmwilki/civ6-mcp](https://github.com/lmwilki/civ6-mcp) - 一个MCP服务器,让LLM代理玩文明VI. <sub>⭐ 203 · Python</sub>
+- [CarlWangChina/QwenFeat-Vocal-Score](https://github.com/CarlWangChina/QwenFeat-Vocal-Score) - VocalVerse:由Quen LLMs提供动力的强大声乐评价框架 <sub>⭐ 202 · Python</sub>
+- [FreedomIntelligence/Apollo](https://github.com/FreedomIntelligence/Apollo) - 多语言医学:模型、数据集、基准、代码 <sub>⭐ 202 · Python</sub>
+- [mrdbourke/mac-ml-speed-test](https://github.com/mrdbourke/mac-ml-speed-test) - 少数快速脚本专注于在macOS上测试TensorFlow/PyTorch/Llama 2. <sub>⭐ 202 · Jupyter Notebook</sub>
+- [precize/Agentic-AI-Top10-Vulnerability](https://github.com/precize/Agentic-AI-Top10-Vulnerability) - Agentic AI(AI Agent Security)的前10名,担任OWASP和CSA红色团队工作的核心. <sub>⭐ 202</sub>
+- [bentoml/llm-optimizer](https://github.com/bentoml/llm-optimizer) - 以基准和优化各框架的LLM推论为方便 <sub>⭐ 201 · Python</sub>
+- [h9-tec/llm-systems-engineering-roadmap](https://github.com/h9-tec/llm-systems-engineering-roadmap) - 掌握LLM内部,培训,推论,RAG,代理,评价,生产架构的实用路线图. <sub>⭐ 201</sub>
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - 写本奇:基因写作的综合基准 <sub>⭐ 201 · Python</sub>
+- [bigai-nlco/LooGLE](https://github.com/bigai-nlco/LooGLE) - ACL 2024/ LooGLE:长文语言模型的长语境评价 <sub>⭐ 200 · Python</sub>
+- [YHPeter/Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation) - 论文官方寄存处:评价检索-增生代:调查. <sub>⭐ 200 · TeX</sub>
+- [bowen-upenn/PersonaMem](https://github.com/bowen-upenn/PersonaMem) - (COLM 2025) Know Me, Respond to me:为动态用户分析和个性化响应制定基准法学硕士学位 <sub>⭐ 199 · Python</sub>
+- [EuroEval/EuroEval](https://github.com/EuroEval/EuroEval) - 稳健的欧洲语言模型基准. <sub>⭐ 198 · Python</sub>
+- [LibertFan/AI_Hospital](https://github.com/LibertFan/AI_Hospital) - AI医院:对作为临床诊断实习医生的法学硕士进行互动评估与合作 <sub>⭐ 196 · Python</sub>
+- [Rubric4Setwise/Rubric4Setwise](https://github.com/Rubric4Setwise/Rubric4Setwise) - 面向Rubric的文档为RAG设定了评价和选择. <sub>⭐ 196 · Python</sub>
+- [Extraltodeus/test_my_prompt](https://github.com/Extraltodeus/test_my_prompt) - 这个脚本是用 AUTOMATIC1111 webui 测试您的提示 <sub>⭐ 194 · Python</sub>
+- [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - AI标志性经济学的目录:什么标志成本,在哪里浪费,如何削减账单。用于LLMS和编码的标志性经济的工具、基准、文件和复制版配置... <sub>⭐ 191 · Python</sub>
+- [stephenleo/llm-structured-output-benchmarks](https://github.com/stephenleo/llm-structured-output-benchmarks) - 基准各种LLM结构化输出框架: 教官,米拉scope,朗链,LlamaIndex,Fructose,Marvin,大纲等关于多标签分类等任务,命名实体识别. . <sub>⭐ 191 · Python</sub>
+- [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - 以OpenAIs论文"评价在代码上训练的大语言模型"中的OpenAI方法为基础的Svelte 5的LLM基准. <sub>⭐ 189 · TypeScript</sub>
+- [IDEA-Research/RexSeek](https://github.com/IDEA-Research/RexSeek) - (ICCV2025) 向任何人或物体提供自然语言描述。 <sub>⭐ 188 · Python</sub>
+- [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) - 为AI代理进化,自我演化的代理,内存,技能,牵引,基准,以及代理-swarm系统提供开放式的调查和证据映射. <sub>⭐ 188 · JavaScript</sub>
+- [aws-samples/sample-getting-started-with-strands-agents-course](https://github.com/aws-samples/sample-getting-started-with-strands-agents-course) - 学习用 Strands 框架构建AI 代理. 通过 Amazon Bedrock/Anthropic 覆盖 LLM 集成, AWS 服务连接, 工具执行与 MCP/A2A 协议, 代理评价使用... <sub>⭐ 187 · Jupyter Notebook</sub>
+- [FastEval/FastEval](https://github.com/FastEval/FastEval) - 对聊天语言模型进行快速更现实的评价( M). 包括领导板. <sub>⭐ 187 · Python</sub>
+- [GreenBitAI/green-bit-llm](https://github.com/GreenBitAI/green-bit-llm) - 用于精细调整、增肥和评价GreenBitAI LLMs的工具包。 <sub>⭐ 187 · Python</sub>
+- [symflower/eval-dev-quality](https://github.com/symflower/eval-dev-quality) - DevQualityEval:一个评价基准和框架,用来比较和演化LLMs代码生成的质量. <sub>⭐ 186 · Go</sub>
+- [felipemaiapolo/tinyBenchmarks](https://github.com/felipemaiapolo/tinyBenchmarks) - 以较少的例子评价有限责任公司 <sub>⭐ 185 · Jupyter Notebook</sub>
+- [microsoft/eureka-ml-insights](https://github.com/microsoft/eureka-ml-insights) - 将大型基础模型的评价标准化的框架,超越单一分数报告和排名。 <sub>⭐ 185 · Python</sub>
+- [centerforaisafety/wmdp](https://github.com/centerforaisafety/wmdp) - MAMP是生物、网络和化学安全中有害知识的LLM代理基准。 我们还发布了RMU的代码,这是一种不学习的方法,它降低了MAMP的LLM性能,同时保留了. <sub>⭐ 184 · Jupyter Notebook</sub>
+- [Trae1ounG/DyPRAG](https://github.com/Trae1ounG/DyPRAG) - (EurIPS 2026 TTCL) 动态参数检索增强生成测试时间知识 <sub>⭐ 184 · Python</sub>
+- [sambanova/toolbench](https://github.com/sambanova/toolbench) - Tool Bench,LLM工具操纵能力的评价套件. <sub>⭐ 183 · Python</sub>
+- [withmartian/routerbench](https://github.com/withmartian/routerbench) - 纸张 ROUTERBENCH: 多LLM 运行系统基准的代码 <sub>⭐ 183 · Python</sub>
+- [IAAR-Shanghai/UHGEval](https://github.com/IAAR-Shanghai/UHGEval) - (ACL 2024) 方便用户的评价框架: Eval 套件 & 基准: UHGEval, HaluEval, HaluQA等. <sub>⭐ 182 · Python</sub>
+- [TsinghuaC3I/MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) - (ICML 2025) MedXpertQA:专家级医疗理由和理解基准 <sub>⭐ 181 · Python</sub>
+- [IAAR-Shanghai/xFinder](https://github.com/IAAR-Shanghai/xFinder) - (ICLR 2025) xFinder:作为可靠评价的自动评估者的大语文模型 <sub>⭐ 180 · Python</sub>
+- [meituan-longcat/vitabench](https://github.com/meituan-longcat/vitabench) - (ICLR 2026) Vita Bench:将实际世界应用中的Versatile互动任务作为 LLM 代理的基准 <sub>⭐ 180 · Python</sub>
+- [KaiWU5/Awesome-AI4AI](https://github.com/KaiWU5/Awesome-AI4AI) - AI4AI调查:AI能否可靠地改进AI?223篇关于长视物剂、基准、利用设计和递归自我改进的论文 <sub>⭐ 178 · Python</sub>
+- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - 以开放源代码LLMS(如LLaMA-7b,Bloomz-7b1-mt)和人文书面翻译和评价数据为基础,加强和规范聊天期间翻译能力ParroT框架. <sub>⭐ 177 · Python</sub>
+- [rajshah4/LLM-Evaluation](https://github.com/rajshah4/LLM-Evaluation) - 用于LLM评价的笔记本样本和提示 <sub>⭐ 176 · Jupyter Notebook</sub>
+- [zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS) - "LLMs 改进 LLMS:试时缩放的代理发现"的局外重播 <sub>⭐ 176 · Python</sub>
+- [5p00kyy/club-5060ti](https://github.com/5p00kyy/club-5060ti) - RTX 5060 Ti设置的当地实际 LLM 配方和基准 <sub>⭐ 175 · Python</sub>
+- [ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) - 大语言模型在化学中能做什么的官方代码?关于八项任务的全面基准(In NeurIPS 2023) <sub>⭐ 175 · Jupyter Notebook</sub>
+- [junyangwang0410/AMBER](https://github.com/junyangwang0410/AMBER) - 无LLM的多维多维“多种模式幻觉评价基准” <sub>⭐ 175 · Python</sub>
+- [LarHope/ollama-benchmark](https://github.com/LarHope/ollama-benchmark) - 基于 Ollama 的基准, 每秒有细节 I/O 令牌. Python , 有 Deepseek R1 示例 。 <sub>⭐ 174 · Python</sub>
+- [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - LLMS的导读推理架构(论文 → 反理论 → 综合) <sub>⭐ 173 · Python</sub>
+- [Lomnus-ai/TokenBurner](https://github.com/Lomnus-ai/TokenBurner) - Claude代码的技巧,可以按要求烧掉信物。压力测试,充气度计,或者放火烧钱。 <sub>⭐ 173</sub>
+- [gomate-community/rageval](https://github.com/gomate-community/rageval) - 检索强化生成方法的评价工具。 <sub>⭐ 172 · Python</sub>
+- [InternScience/SGI-Bench](https://github.com/InternScience/SGI-Bench) - 利用科学家与协同工作流对法学硕士进行科学一般情报调查 <sub>⭐ 172 · Python</sub>
+- [KhanCold/merchantbench](https://github.com/KhanCold/merchantbench) - Merchant Bench是一个365天的订单级基准,用于评价销售方电子商务业务中液压成份代理的长期一致性。 <sub>⭐ 171 · Python</sub>
+- [zhangxjohn/LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - 大型语言模型评价的banchmark列表. <sub>⭐ 171</sub>
+- [SergiioB/intel-arc-pro-b70-inference-cookbook](https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook) - 打开食谱,引擎补丁,以及基准用LLM引证Intel Arc Pro B60/B70(Battlemage,Xe2). MoE 35B在160 t/s解码/7.5K t/s预装单流,27B在50~t/s解码/...... <sub>⭐ 170 · Python</sub>
+- [HiThink-Research/BizFinBench](https://github.com/HiThink-Research/BizFinBench) - 商业驱动的、用于评价有限责任公司的实际世界金融基准 <sub>⭐ 169 · Python</sub>
+- [kxzk/snapbench](https://github.com/kxzk/snapbench) - 全部找到; LLMS 的空间推理基准 <sub>⭐ 169 · Zig</sub>
+- [Roriz/active_genie](https://github.com/Roriz/active_genie) - GenAI 的 Lodash: 真实值+ 一致 + 模型- 可知性 <sub>⭐ 169 · Ruby</sub>
+- [wgwang/awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) - 出色的LLM基准,用于评价LLMs跨文本,代码,图像,音频,视频等等. <sub>⭐ 169</sub>
+- [usail-hkust/JailTrickBench](https://github.com/usail-hkust/JailTrickBench) - 《诡计包:破狱袭击LLM事件基准》, LLM监狱的实证手法。 (NeurIPS 2024) <sub>⭐ 167 · Python</sub>
+- [empirical-run/empirical](https://github.com/empirical-run/empirical) - 测试和评价对您的应用程序有重要意义的所有情景中的 LLMS 和模型配置 <sub>⭐ 166 · TypeScript</sub>
+- [MemTensor/HaluMem](https://github.com/MemTensor/HaluMem) - HaluMem是第一个针对代理存储系统定制的操作级幻觉评价基准. <sub>⭐ 165 · Python</sub>
+- [OpenDCAI/One-Eval](https://github.com/OpenDCAI/One-Eval) - 通过代理人进行LLM评价的自动化系统。 <sub>⭐ 165 · Python</sub>
+- [babelcloud/LLM-RGB](https://github.com/babelcloud/LLM-RGB) - LLM 理性和生成基准. 在复杂的情景中系统评价法学硕士。 <sub>⭐ 164 · TypeScript</sub>
+- [jonathanmli/Avalon-LLM](https://github.com/jonathanmli/Avalon-LLM) - 这个寄存器包含一个LLM基准,用于社交扣除游戏 Resistance Avalon' <sub>⭐ 164 · Python</sub>
+- [McGill-NLP/weblinx](https://github.com/McGill-NLP/weblinx) - WebLINX 是构建具有对话能力的网络导航代理的基准 <sub>⭐ 164 · Python</sub>
+- [microsoft/promptpex](https://github.com/microsoft/promptpex) - 提示的测试生成 <sub>⭐ 164 · TeX</sub>
+- [romiluz13/cc10x](https://github.com/romiluz13/cc10x) - Claude码的循环引擎—— 设计环路,而不是即时。 1个路由器、9个代理人、16个技能、4个工作流程。故障门、测试诚实、反焦虑审查。 <sub>⭐ 164 · Python</sub>
+- [Weschera/spark-bench](https://github.com/Weschera/spark-bench) - DGX Spark的混合能力LLM基准——57种情景、10个领域、部分信用评级、试验统计 <sub>⭐ 164 · HTML</sub>
+- [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win) - 构建AI驱动的安全工具. 50+操作实验室,涵盖ML,LLMS,RAG,威胁检测,DFIR,以及红色团队化. 包括Colab笔记本,Docker环境,以及CTF挑战. <sub>⭐ 163 · Python</sub>
+- [open-compass/BotChat](https://github.com/open-compass/BotChat) - 通过评估两个LLM实例所产生的对话,评价LLMs的多轮聊天能力. <sub>⭐ 163 · Jupyter Notebook</sub>
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - 代理服务器是一个基于 OpenTeleometry 跟踪的框架不可知评价解决方案 <sub>⭐ 162 · Python</sub>
+- [evalkit/evalkit](https://github.com/evalkit/evalkit) - TypeScript LLM 评价库 <sub>⭐ 162 · TypeScript</sub>
+- [AlmogBaku/pytest-evals](https://github.com/AlmogBaku/pytest-evals) - 一个运行和分析LLM评价测试的pytest插件. <sub>⭐ 161 · Jupyter Notebook</sub>
+- [princeton-nlp/CharXiv](https://github.com/princeton-nlp/CharXiv) - (NeurIPS 2024) CharXiv:在多式联运有限责任公司中绘制现实图理解差距图 <sub>⭐ 161 · Python</sub>
+- [mazzzystar/TurtleBench](https://github.com/mazzzystar/TurtleBench) - Turtle Bench:通过Real-World是/否谜语来评价顶级语言模型. <sub>⭐ 160 · Jupyter Notebook</sub>
+- [swordlidev/Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) - 关于多式联运大语文模式基准的调查 <sub>⭐ 160</sub>
+- [mahmoudrabie/agentic-ai](https://github.com/mahmoudrabie/agentic-ai) - 由大赦国际代理研究论文、基准、框架和工具,涵盖24个领域。 <sub>⭐ 159</sub>
+- [Text2SqlAgent/text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - 代理文本到SQL SDK: 手持 LLM 1 执行_ sql 工具, 让它探索方案, 测试查询, 以及自我修正—— 没有RAG, 没有语义层. 20/20 在一个80表的蜘蛛运行上。 内建追踪... <sub>⭐ 159 · Python</sub>
+- [alibaba-multimodal-industrial-ai/IndustryBench](https://github.com/alibaba-multimodal-industrial-ai/IndustryBench) - 用于评价有限责任企业工业领域知识的多种语言基准。 <sub>⭐ 157 · Python</sub>
+- [eli-labz/Cognitive-Core-Skills](https://github.com/eli-labz/Cognitive-Core-Skills) - 一种通用的、行业中立的认知核心技能分类学(认识、记忆、推理、规划、行动、核查、学习、治理),用于LLMS、可持续土地管理、AI代理和世界模型——. <sub>⭐ 157 · Python</sub>
+- [HKUST-KnowComp/NewtonBench](https://github.com/HKUST-KnowComp/NewtonBench) - (ICLR2026) 牛顿奔驰: LLM 代理中通用科学法发现的基准 <sub>⭐ 157 · Python</sub>
+- [microsoft/SecRL](https://github.com/microsoft/SecRL) - 网络威胁调查的LLM人员基准。 <sub>⭐ 157 · Jupyter Notebook</sub>
+- [microsoft/mcp-interviewer](https://github.com/microsoft/mcp-interviewer) - 在您的代理商之前, 抓取 MCP 服务器问题 。 <sub>⭐ 156 · Python</sub>
 
 ## 🐞 缺陷、fuzzing 与代码分析
 
 > 由模型辅助的缺陷检测、fuzzing 和自动审查。
 
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo… <sub>⭐ 31.9k · Python</sub>
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. <sub>⭐ 21.7k · TypeScript</sub>
-- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book <sub>⭐ 19.1k · Python</sub>
-- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all… <sub>⭐ 18.0k · Python</sub>
-- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers… <sub>⭐ 7.5k · Go</sub>
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes. <sub>⭐ 6.3k · TypeScript</sub>
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. <sub>⭐ 6.3k · Python</sub>
-- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. <sub>⭐ 5.9k · JavaScript</sub>
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation… <sub>⭐ 5.8k · Go</sub>
-- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source. <sub>⭐ 4.0k · TypeScript</sub>
-- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure. <sub>⭐ 3.7k · TypeScript</sub>
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - MCP和CLI的本地第一代码智能图。 绘制一个您的代码库的持久地图, 这样 AI 编码工具只读到什么重要, 并有关于评论的基准上下文减少和大重播... <sub>⭐ 31.9k · Python</sub>
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - 一个AI代理开发平台,拥有全能的视觉工具,简化代理创建,调试,和前所未有的部署. Coze Youway to AI Agent formation. <sub>⭐ 21.7k · TypeScript</sub>
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - 机器学习工程打开本 <sub>⭐ 19.1k · Python</sub>
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - 具有C++核心和50+ Python-extensible节点的高性能AI管道引擎. 构建,调试,以及比例化LLM工作流程,拥有13+模型提供者,8+矢量数据库,以及代理管弦乐,全部... <sub>⭐ 18.0k · Python</sub>
+- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - Gentle-AI 配置您已经使用的 AI 编码代理程序: Claude Code, cursor, OpenCode, Codex, Pi 等。 选择持续内存, 有机驱动开发, 管理技能, MCP 服务器... <sub>⭐ 7.5k · Go</sub>
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - AI代理的自控控制飞机:调度任务,审查运行,跟踪支出,以及操作OpenClaw,Claude Code,Codex等运行时间. <sub>⭐ 6.3k · TypeScript</sub>
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI强力安全审查 GitHub Action 利用克劳德分析安全漏洞的代码变化. <sub>⭐ 6.3k · Python</sub>
+- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP 服务器用于与 Godot 游戏引擎接口。 提供启动编辑器、 运行项目和捕获调试输出的工具 。 <sub>⭐ 5.9k · JavaScript</sub>
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理优化平台:Cozeloop通过提供开发,调试,评价等全生命周期管理能力,解决AI代理开发中的挑战. . <sub>⭐ 5.8k · Go</sub>
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - 缺少的 Claude 代码 DevTools ——检查会议日志,工具调用,符号使用,子代理,以及视觉UI中上下文窗口. Free, open source. <sub>⭐ 4.0k · TypeScript</sub>
+- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - VS 代码的开源 AI 编码助理。 代码完成、 聊天、 编辑和评论等本地或主机模型。 您的模型、 基础设施 。 <sub>⭐ 3.7k · TypeScript</sub>
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) - Python 机器学习和数据科学调试、监测和可视化 <sub>⭐ 3.5k · Jupyter Notebook</sub>
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language. <sub>⭐ 3.0k · JavaScript</sub>
-- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) - Claude Code skill: four-phase plan hardening (recon, interrogate, Codex adversarial review, cross-model build & inspection) — two AI models harden your plan before a line of code exists, then swap… <sub>⭐ 2.7k · Python</sub>
-- [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. <sub>⭐ 2.4k · TypeScript</sub>
-- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM Council — a Claude Code skill that runs your decisions through 5 AI advisors with peer review <sub>⭐ 2.3k</sub>
-- [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching. <sub>⭐ 2.1k · TypeScript</sub>
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents. <sub>⭐ 1.9k · TypeScript</sub>
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews <sub>⭐ 1.9k</sub>
-- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to… <sub>⭐ 1.8k · Python</sub>
-- [px0-ai/px0](https://github.com/px0-ai/px0) - px0 is an IDE built for reviewing AI-generated code, optimized for speed. It turns your browser into a zero-latency console with native Git and GitHub integrations, instant search across massive… <sub>⭐ 1.7k · Go</sub>
-- [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel. <sub>⭐ 1.7k · TypeScript</sub>
-- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude reads its own source code — 17-chapter architectural deep-dive into Claude Code v2.1.88. EN/ZH bilingual. <sub>⭐ 1.6k</sub>
-- [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging. <sub>⭐ 1.6k · TypeScript</sub>
-- [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs. <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook. <sub>⭐ 1.5k · Go</sub>
-- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix <sub>⭐ 1.5k · HTML</sub>
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit <sub>⭐ 1.5k · Go</sub>
-- [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz. <sub>⭐ 1.4k · Python</sub>
-- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) - Open source, self-hosted AI code review. Bring your own LLM. <sub>⭐ 1.4k · TypeScript</sub>
-- [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers. <sub>⭐ 1.4k · Swift</sub>
-- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source… <sub>⭐ 1.3k · Python</sub>
-- [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents <sub>⭐ 1.2k</sub>
-- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards. <sub>⭐ 1.2k · Shell</sub>
-- [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why' <sub>⭐ 1.1k · Python</sub>
-- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving… <sub>⭐ 1.0k · TypeScript</sub>
-- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents. <sub>⭐ 974 · TypeScript</sub>
-- [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you. <sub>⭐ 954 · JavaScript</sub>
-- [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review <sub>⭐ 872 · Python</sub>
-- [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents <sub>⭐ 840 · Python</sub>
-- [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs, debug prompts, and monitor context window usage across your AI development sessions. <sub>⭐ 814 · Python</sub>
-- [vllora/vllora](https://github.com/vllora/vllora) - Debug your AI agents <sub>⭐ 811 · Rust</sub>
-- [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more. <sub>⭐ 784 · Python</sub>
-- [AIDotNet/auto-prompt](https://github.com/AIDotNet/auto-prompt) - AI Prompt Optimization Platform is a professional prompt engineering tool designed to help users optimize AI model prompts, enhancing the effectiveness and accuracy of AI interactions. The platform… <sub>⭐ 774 · TypeScript</sub>
-- [skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot) - Learn, build, debug, and ship faster than ever with your favorite AI pair programmer. <sub>⭐ 758 · JavaScript</sub>
-- [zhinkgit/embeddedskills](https://github.com/zhinkgit/embeddedskills) - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant… <sub>⭐ 730 · Python</sub>
-- [marckohlbrugge/37signals-skills](https://github.com/marckohlbrugge/37signals-skills) - Unofficial agent skills + reference guide that teach AI coding assistants to write Rails the 37signals way — extracted from Fizzy, Campfire, and DHH's code reviews <sub>⭐ 723</sub>
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - 构建AI可以生成的应用程序,人类可以审查,团队也可以维护. Config在代码和自然语言之间起作用. <sub>⭐ 3.0k · JavaScript</sub>
+- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) - Claude Code技巧:四阶段计划硬化(调试,审讯,Codex对抗性审查,跨型建和检查)——两个AI模型在代码一行存在前将你的计划硬化,然后互换. . <sub>⭐ 2.7k · Python</sub>
+- [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - 您的设计系统为 API。 连接 AI 到 Figma 用于提取、 创建和调试 。 <sub>⭐ 2.4k · TypeScript</sub>
+- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM理事会——一个Claude Code技能,通过5名AI顾问进行同行评审来完成你的决定 <sub>⭐ 2.3k</sub>
+- [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - 与Vercel AI SDK一起建造生产准备的AI应用程序的基本公用事业。 国家管理、调试、结构化流线、智能剂和缓存。 <sub>⭐ 2.1k · TypeScript</sub>
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multiple Cluser 管理实时,自控,单二进制, AI 驱动。 在您的浏览器中管理, 监视和调试 K8s 集群, 没有云, 没有代理 。 <sub>⭐ 1.9k · TypeScript</sub>
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - 即时AI代码审查 <sub>⭐ 1.9k</sub>
+- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - Claude Code的AI法律助理技能. 合同审查,风险分析,NDA生成,合规审计,谈判策略和PDF报告——14个技能,5个平行代理. <sub>⭐ 1.8k · Python</sub>
+- [px0-ai/px0](https://github.com/px0-ai/px0) - px0是用于审查AI生成的代码,为速度优化而构建的IDE. 它将您的浏览器变成一个零常态控制台,与本地的Git和GitHub集成,即时搜索横跨大范围. . <sub>⭐ 1.7k · Go</sub>
+- [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - 由Vercel提供动力的开源自办AI代码审查机器人. <sub>⭐ 1.7k · TypeScript</sub>
+- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude读取了自己的源代码——17章建筑深潜写入Claude Code v2.1.88. EN/ZH双语. <sub>⭐ 1.6k</sub>
+- [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - 抓取您的 Web app的完整开发时间段 - 服务器日志,浏览器事件,控制台消息,网络请求,以及自动截图 - 在一个统一的,时间戳的feed中用于AI调试. <sub>⭐ 1.6k · TypeScript</sub>
+- [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - 用于自动化LLM模糊的强大工具,旨在帮助开发者和安全研究人员在其LLM API中识别和缓解潜在的越狱行为. <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - 用 Go 语言写成的 CLI ,会使用 ChatGPT AI(gpt-4.1, gpt-4o 模型) 来写 git 承诺消息或为您做代码检讨简报,并自动安装 git 准备-msg 钩子. <sub>⭐ 1.5k · Go</sub>
+- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI代码评论基于12本经典工程书籍——带有书引用,重度标签的衰变风险诊断,以及包括全速自动修复在内的6种分析模式. <sub>⭐ 1.5k · HTML</sub>
+- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - 免费, 微缩的 AI 代码审查 <sub>⭐ 1.5k · Go</sub>
+- [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM通过OSS-Fuzs提供电源模糊. <sub>⭐ 1.4k · Python</sub>
+- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) - 开源自办的AI代码审查,带上自己的LLM. <sub>⭐ 1.4k · TypeScript</sub>
+- [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - 开源本地macOS HTTP 调试代理机——截取HTTPS,检查API,模拟响应,调试WebSocket & GraphQL. Community驱动,对于开发者来说,由开发者负责. <sub>⭐ 1.4k · Swift</sub>
+- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad 电子设备设计的AI编码代理技能。 与 Claude Code 和 OpenAI Codex 一起工作。 分析图表, 审查PCB 的布局, EMC 预适应, SPICE 模拟, 下载数据表, 源... <sub>⭐ 1.3k · Python</sub>
+- [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 用于创建、监测、调试和部署自主AI代理工具的SDKs数据库、框架、库和工具 <sub>⭐ 1.2k</sub>
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Gentleman Guardian Angel (gga) - 使用AI提供-不可知码审查. 使用Claude,双子座,Codex,Ollama来强制实施你的编码标准. <sub>⭐ 1.2k · Shell</sub>
+- [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI辅助调试。 使用AI来回答“ 为什么 ” <sub>⭐ 1.1k · Python</sub>
+- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI 代码审查器: 以 AI 驱动的代码审查增强您的 GitHub 工作流程! 使用 OpenAI 的 GBT-4 API 获取对拉动请求的智能反馈和建议,提高代码质量并保存... <sub>⭐ 1.0k · TypeScript</sub>
+- [dzhng/skills](https://github.com/dzhng/skills) - 软件工厂的可重复使用的AI代理技能:探索想法,写谱,执行,审查和运行自主研究. Works with Claude Code, Codex,以及其他技能兼容的代理. <sub>⭐ 974 · TypeScript</sub>
+- [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) - 显示您喜欢的视频。 获取相同风格的新视频。 一个 AI( Claude Code 或 Codex) 机组计划、 构建和评论它 。 <sub>⭐ 954 · JavaScript</sub>
+- [arm/metis](https://github.com/arm/metis) - Metis是用于深安全代码审查的开源、AI驱动的工具 <sub>⭐ 872 · Python</sub>
+- [golf-mcp/golf](https://github.com/golf-mcp/golf) - 生产- Ready MCP 服务器框架 • 构建、部署和规模安全AI代理基础设施 • 包括 Auth, Observation, Debugger, 遥测和运行时间 • 运行真实世界的MCP为AI代理提供动力 <sub>⭐ 840 · Python</sub>
+- [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - 截取 LLM API 流量,并在实时终端仪表板中可视化符号使用。跟踪成本、调试提示以及监视上下文窗口在您的 AI 开发会话中的使用。 <sub>⭐ 814 · Python</sub>
+- [vllora/vllora](https://github.com/vllora/vllora) - 调试您的人工智能代理 <sub>⭐ 811 · Rust</sub>
+- [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - 开源代理工程平台: 追踪、 evals 和 度量衡来调试和改进您的AI代理。 整合到 LangGraph, CrewAI, Claude Agent SDK 等中 。 <sub>⭐ 784 · Python</sub>
+- [AIDotNet/auto-prompt](https://github.com/AIDotNet/auto-prompt) - AI即时优化平台是一个专业的即时工程工具,旨在帮助用户优化AI模型的提示,提高AI交互的有效性和准确性. 平台... <sub>⭐ 774 · TypeScript</sub>
+- [skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot) - 学习,建造,调试,和飞船 比任何时候都快与你最喜欢的AI配对程序员。 <sub>⭐ 758 · JavaScript</sub>
+- [zhinkgit/embeddedskills](https://github.com/zhinkgit/embeddedskills) - Claude Code, Copilot, TRAE, 以及其他支持Skill协议的AI编码助理的嵌入式开发与调试技能开源集合. 安装后,AI助手... <sub>⭐ 730 · Python</sub>
+- [marckohlbrugge/37signals-skills](https://github.com/marckohlbrugge/37signals-skills) - 非官方代理技能+参考指南,教AI编码助理写作"铁路37信号路"——摘自Fizzzy,Campfire,和DHH的代码评论. <sub>⭐ 723</sub>
 - [Buoy-gg/buoy](https://github.com/Buoy-gg/buoy) - 生活在您的 React Industrial app 中的 Devtools。 并回复您的代理 。 25+工具 • 桌面仪表板 — MCP 服务器用于 AI 代理 <sub>⭐ 692</sub>
-- [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI. It focuses on speed, a compact… <sub>⭐ 669 · Swift</sub>
-- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - A staged code-review workflow and local dashboard built with TypeSafe Jev. <sub>⭐ 656 · TypeScript</sub>
-- [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench <sub>⭐ 645 · Go</sub>
-- [Corbell-AI/Corbell](https://github.com/Corbell-AI/Corbell) - AI-powered spec generation and review using multi-repo code graph intelligence for backend teams that ship to production. <sub>⭐ 628 · Python</sub>
-- [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim <sub>⭐ 609 · Lua</sub>
-- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT <sub>⭐ 607 · JavaScript</sub>
-- [FradSer/dotclaude](https://github.com/FradSer/dotclaude) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership. <sub>⭐ 593 · JavaScript</sub>
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit finds the cheapest AI coding setup that reliably works on your repository, then applies the winner as a reviewable change. <sub>⭐ 587 · Python</sub>
-- [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI <sub>⭐ 585 · Python</sub>
-- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI. <sub>⭐ 558 · Go</sub>
-- [Romanescu11/hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) - A meta-skill plugin for Nous Research's Hermes AI agent that watches your workflows and automatically turns them into reusable skills. Every time you work with Hermes and solve something — setting up… <sub>⭐ 552 · Python</sub>
-- [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) - Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic… <sub>⭐ 536 · Python</sub>
-- [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) - The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more.… <sub>⭐ 531</sub>
-- [mco-org/mco](https://github.com/mco-org/mco) - CLI-first orchestration for AI coding agents: run selected agents and models in parallel, compare raw answers, and coordinate review or implementation workflows. <sub>⭐ 531 · Python</sub>
-- [koloai/kolo](https://github.com/koloai/kolo) - Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files. <sub>⭐ 525</sub>
-- [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) - A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. / https://misakanet.org <sub>⭐ 519 · Python</sub>
-- [adshao/flounder](https://github.com/adshao/flounder) - Autonomous white-hat security auditor for AI-driven code review, bug bounty research, exploit construction, and execution-grounded verification. <sub>⭐ 516 · TypeScript</sub>
-- [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE <sub>⭐ 512 · C++</sub>
-- [claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback) - A collection of Claude Code skills for academic research review. These tools were developed by Claes Bäckman. <sub>⭐ 488 · JavaScript</sub>
-- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root… <sub>⭐ 486 · Kotlin</sub>
-- [0sec-labs/0](https://github.com/0sec-labs/0) - Full-stack AI security OS for your browser, terminal, and agents. Find, verify, and fix vulnerabilities. Prioritized by business impact instead of just CVSS scores. <sub>⭐ 483 · TypeScript</sub>
-- [Raiders0786/web3-security-resources](https://github.com/Raiders0786/web3-security-resources) - Curated Web3 security learning hub for smart contract auditors and protocol teams: roadmaps, audit tools, public reports, fuzzing, formal verification, AI-assisted workflows, offchain security… <sub>⭐ 470 · Python</sub>
-- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX… <sub>⭐ 449 · TeX</sub>
-- [Nayjest/Gito](https://github.com/Nayjest/Gito) - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. <sub>⭐ 441 · Python</sub>
-- [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - 10 applied skills for Claude Code and Cursor that turn the principles of Refactoring UI into structured AI-assisted design reviews / not affiliated, big fan, get their book here <sub>⭐ 435 · JavaScript</sub>
-- [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) - Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code. <sub>⭐ 420 · JavaScript</sub>
-- [fcakyon/phd-skills](https://github.com/fcakyon/phd-skills) - PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more. <sub>⭐ 413 · Shell</sub>
-- [mnns/LLMFuzzer](https://github.com/mnns/LLMFuzzer) - LLMFuzzer - Fuzzing Framework for Large Language Models LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations… <sub>⭐ 381 · Python</sub>
-- [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) - AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse. <sub>⭐ 370 · TypeScript</sub>
-- [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal. <sub>⭐ 359 · Go</sub>
-- [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) - Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible… <sub>⭐ 358 · Python</sub>
-- [miracodeai/mira](https://github.com/miracodeai/mira) - Self-hosted AI code reviewer with indexed PR reviews, walkthroughs, vulnerability scanning, dependency graphs, custom rules, and a learning loop. <sub>⭐ 355 · Python</sub>
-- [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp) - An MCP server for RenderDoc: Empowering AI assistants to analyze GPU frame captures and debug graphics pipelines. <sub>⭐ 353 · C++</sub>
-- [axtonliu/ai-pair](https://github.com/axtonliu/ai-pair) - Coordinate multiple AI models (Claude + GPT + Gemini) as a heterogeneous team. One creates, two review. A Claude Code Skill. <sub>⭐ 346</sub>
-- [skainguyen1412/antigravity-superpowers](https://github.com/skainguyen1412/antigravity-superpowers) - Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible. <sub>⭐ 327 · JavaScript</sub>
-- [gwendall/superclaude](https://github.com/gwendall/superclaude) - Give Claude AI superpowers for GitHub workflows. Transform "fix stuff" commits into professional messages, generate intelligent changelogs, and get AI code reviews - all with one command. <sub>⭐ 326 · Shell</sub>
-- [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - Codeball – AI Code Review that finds bugs and fast-tracks your code <sub>⭐ 326 · TypeScript</sub>
-- [finna/Finn-loop](https://github.com/finna/Finn-loop) - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge. <sub>⭐ 317 · JavaScript</sub>
-- [huanchong-99/SoloDawn](https://github.com/huanchong-99/SoloDawn) - Catches and repairs AI hallucinations before delivery: three quality gates, 31 built-in rules, a self-healing loop and a 90-point acceptance review. Fully automated from requirement to merged code. A… <sub>⭐ 316 · Rust</sub>
-- [millionco/debug-agent](https://github.com/millionco/debug-agent) - Debugging skill for AI agents <sub>⭐ 303 · TypeScript</sub>
-- [ad-naan/Adnify](https://github.com/ad-naan/Adnify) - A local‑first AI Agent IDE that plans, edits, debugs and ships projects. Your clever otter‑flavored coding teammate. <sub>⭐ 301 · TypeScript</sub>
-- [nurettincoban/ai-prd-workflow](https://github.com/nurettincoban/ai-prd-workflow) - RFC-driven development for AI coding agents: idea or existing codebase → verified PRD → features → rules → sequenced RFCs → reviewed code. Agent Skills for Claude Code, Codex, Copilot, Cursor, Gemini… <sub>⭐ 297 · Python</sub>
-- [WenyuChiou/ai-research-skills](https://github.com/WenyuChiou/ai-research-skills) - Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw… <sub>⭐ 297 · Python</sub>
-- [pavel-molyanov/molyanov-ai-dev](https://github.com/pavel-molyanov/molyanov-ai-dev) - Intent-driven AI-First development methodology for Claude Code and Codex — Project Knowledge, user-spec planning, focused execution, and evidence-gated reviews. <sub>⭐ 296 · Python</sub>
-- [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) - Your AI-powered LeetCode & DSA mentor for Claude Code and Claude.ai. Master algorithms through intelligent guidance, progressive hints, and pattern recognition training—not just copy-pasting… <sub>⭐ 281 · Python</sub>
-- [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - Code and Data artifact for NeurIPS 2023 paper - "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context". multispy is a lsp client library in Python intended to be used to… <sub>⭐ 280 · Python</sub>
-- [KimYx0207/Meta_Kim](https://github.com/KimYx0207/Meta_Kim) - Governed execution layer for AI coding assistants: clarify intent, route capabilities, review evidence, verify results, and write back lessons across Claude Code, Codex, OpenClaw, and Cursor. <sub>⭐ 275 · JavaScript</sub>
-- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. <sub>⭐ 274 · TypeScript</sub>
-- [ReviewStage/stage-cli](https://github.com/ReviewStage/stage-cli) - A viewer for reviewing local code changes in small individual chapters. Works with any AI agent. <sub>⭐ 274 · TypeScript</sub>
-- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team. <sub>⭐ 272 · TypeScript</sub>
-- [PatilShreyas/debroid](https://github.com/PatilShreyas/debroid) - Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps. <sub>⭐ 270 · Kotlin</sub>
-- [getsentry/sentry-for-ai](https://github.com/getsentry/sentry-for-ai) - Teach your AI coding assistant how to use Sentry - setup, debugging, alerts, and more <sub>⭐ 268 · TypeScript</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [Cy-S3c/BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra) - AI-powered MCP server for Burp Suite Professional — 149 tools across proxy, scanner, inline fuzzer, race conditions, guided injection, JWT/IDOR attacks, recon & OOB, with a real-time dashboard and… <sub>⭐ 265 · Kotlin</sub>
-- [HaD0Yun/Doyunha-Gopeak](https://github.com/HaD0Yun/Doyunha-Gopeak) - GoPeak — The most comprehensive MCP server for Godot Engine. 95+ tools: scene management, GDScript LSP, DAP debugger, screenshot capture, input injection, ClassDB introspection, CC0 asset library.… <sub>⭐ 262 · TypeScript</sub>
-- [graphsignal/graphsignal](https://github.com/graphsignal/graphsignal) - GPU Profiler for AI agents <sub>⭐ 257 · Python</sub>
-- [truongnh1992/gemini-ai-code-reviewer](https://github.com/truongnh1992/gemini-ai-code-reviewer) - A GitHub Action that automatically reviews pull requests using Google's Gemini AI. <sub>⭐ 251 · Python</sub>
-- [iSEngLab/AwesomeLLM4APR](https://github.com/iSEngLab/AwesomeLLM4APR) - (TOSEM 2026)A Systematic Literature Review on Large Language Models for Automated Program Repair <sub>⭐ 246</sub>
-- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis <sub>⭐ 244 · JavaScript</sub>
-- [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) - Static security scanner for LLM agents — prompt injection, MCP config auditing, taint analysis. 51 rules mapped to OWASP Agentic Top 10 (2026). Works with LangChain, CrewAI, AutoGen. <sub>⭐ 237 · Python</sub>
-- [Lling0000/Vibe_coding_guide](https://github.com/Lling0000/Vibe_coding_guide) - 中文优先的 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review. <sub>⭐ 231 · JavaScript</sub>
-- [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) - Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev. <sub>⭐ 230 · TypeScript</sub>
-- [stevenflanagan1/social-ai-team](https://github.com/stevenflanagan1/social-ai-team) - Claude Code skills for social media — a complete AI social team for SMBs. Brand setup, content calendar, captions, creative, and performance review. <sub>⭐ 230 · Shell</sub>
-- [al-sultani/prokzee](https://github.com/al-sultani/prokzee) - A cross-platform desktop application for HTTP/HTTPS traffic interception and analysis, built with Go. Features modern UI, traffic manipulation tools, request resending, fuzzing capabilities, and… <sub>⭐ 226 · Go</sub>
-- [AgriciDaniel/claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity) - AI-powered cybersecurity code review skill for Claude Code. 8 specialist agents, OWASP 2025, CWE Top 25, MITRE ATT&CK, 11 languages, zero configuration. <sub>⭐ 225 · Shell</sub>
-- [chrichuang218/ai-learning-coach](https://github.com/chrichuang218/ai-learning-coach) - AI private learning coach for Codex: learn through real projects, adaptive dialogue, debugging, evidence-based mastery, and visible progress. <sub>⭐ 224 · Python</sub>
-- [liyingsong99/AIBridge](https://github.com/liyingsong99/AIBridge) - AI Unity development harness that combines project-local workflows, AIBridge Skills, CLI and Runtime tools, code indexing, visual validation, input simulation, Player debugging, and AI-tool… <sub>⭐ 224 · C#</sub>
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) - 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a… <sub>⭐ 217 · HTML</sub>
-- [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) - Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky actions before they run, and keep every action on the record. <sub>⭐ 217 · TypeScript</sub>
-- [Sunhaiy/Reflex](https://github.com/Sunhaiy/Reflex) - is a next-generation, modern, and lightweight SSH client engineered for absolute efficiency. Beyond standard terminal emulation, it acts as your ultimate developer workbench by integrating… <sub>⭐ 213 · TypeScript</sub>
-- [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms… <sub>⭐ 208</sub>
-- [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) - MCP Server and CLI for Apache Spark History Server. Debug Spark applications from AI agents, scripts, or the terminal. <sub>⭐ 203 · Python</sub>
-- [traceloop/opentelemetry-mcp-server](https://github.com/traceloop/opentelemetry-mcp-server) - Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and… <sub>⭐ 203 · Python</sub>
-- [Adancurusul/embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis <sub>⭐ 197 · Rust</sub>
-- [techygarg/lattice](https://github.com/techygarg/lattice) - Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and team standards. Better process, not just better prompts. <sub>⭐ 197 · JavaScript</sub>
-- [sd0xdev/sd0x-harness](https://github.com/sd0xdev/sd0x-harness) - The harness layer for Claude Code — a reference implementation of harness engineering with hook-enforced dual review, state-machine gates that survive context compaction, and fail-closed safety where… <sub>⭐ 191 · JavaScript</sub>
-- [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - AI agent-native observability and debugging for Django. <sub>⭐ 180 · Python</sub>
-- [AgriciDaniel/skill-forge](https://github.com/AgriciDaniel/skill-forge) - Ultimate Claude Code skill creator — design, scaffold, build, review, evolve, and publish production-grade AI agent skills <sub>⭐ 177 · Python</sub>
-- [mgerhardy/simpleai](https://github.com/mgerhardy/simpleai) - SimpleAI is a small C++ AI behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT. <sub>⭐ 177 · C++</sub>
-- [nesquikm/mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck) - An MCP server that acts as a bridge to query multiple OpenAI-compatible LLMs with MCP tool access. Just like rubber duck debugging, explain your problems to various AI "ducks" who can actually… <sub>⭐ 177 · TypeScript</sub>
-- [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) - Student LLM Wiki — AI-compiled knowledge base for university students. Drop course slides, get a persistent interlinked wiki. Feynman review, exam prep, confidence decay, cross-course connections.… <sub>⭐ 176</sub>
-- [NeuraCerebra-AI/Ultimate-Debugger-Prompt-for-Claude-3](https://github.com/NeuraCerebra-AI/Ultimate-Debugger-Prompt-for-Claude-3) - A professional-grade debugging AI prompt designed for Claude 3.5 Sonnet that meticulously examines errors, generates potential causes, and provides a comprehensive step-by-step solution. <sub>⭐ 173 · Python</sub>
-- [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline) - Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively. <sub>⭐ 171 · Python</sub>
-- [gotzmann/booster](https://github.com/gotzmann/booster) - Booster - open accelerator for LLM models. Better inference and debugging for AI hackers <sub>⭐ 170 · C++</sub>
-- [xueyouluo/fsauor2018](https://github.com/xueyouluo/fsauor2018) - Code for Fine-grained Sentiment Analysis of User Reviews of AI Challenger 2018 <sub>⭐ 170 · Python</sub>
-- [debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) - A headless, agentic debugger over MCP — let your AI agents debug running programs in seven languages. <sub>⭐ 169 · TypeScript</sub>
-- [EfficientStreet/hindsight](https://github.com/EfficientStreet/hindsight) - A self-improvement skill for AI coding assistants — reviews a session end-to-end and saves only the durable process lessons as persistent memory. <sub>⭐ 165</sub>
-- [coleam00/dark-factory-experiment](https://github.com/coleam00/dark-factory-experiment) - A repository that ships its own code. AI workflows triage issues, implement them, review, and auto-merge with no human reading the diff. Runs on Archon. The app it maintains is a cited RAG chat over… <sub>⭐ 164 · Python</sub>
-- [syabro/rejudge](https://github.com/syabro/rejudge) - Independent multi-model review for AI coding agents <sub>⭐ 163 · TypeScript</sub>
-- [explyt/spring-plugin](https://github.com/explyt/spring-plugin) - Spring Explyt — free, open-source (Apache-2.0) Spring & Spring Boot plugin that brings Ultimate-grade tooling to IntelliJ IDEA Community Edition (works in Ultimate too): runtime-accurate bean… <sub>⭐ 162 · Kotlin</sub>
-- [mtarcure/claude-vibe-squad](https://github.com/mtarcure/claude-vibe-squad) - Multi-model AI orchestration where behaviour is Markdown, not code. One coordinator routes scoped task packets to 71 role-based specialists across 5 model families (Codex / Claude / Gemini / Grok /… <sub>⭐ 162 · Python</sub>
-- [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - Self-hosted short link and live QR platform with ownership, review, branded QR codes, analytics, and an auditable path to AI-assisted operations. <sub>⭐ 159 · Go</sub>
-- [theodo-group/debug-that](https://github.com/theodo-group/debug-that) - Universal debugger CLI built for AI agents. Allows Claude Code and Codex to debug much faster. Support Node (Javascript, Typescript), bun, lldb (C++/Rust), python. Fast, token-efficient, no fluff. <sub>⭐ 158 · TypeScript</sub>
-- [areibman/bottleneck](https://github.com/areibman/bottleneck) - Code review for AI native teams. Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple… <sub>⭐ 156 · TypeScript</sub>
-- [termdock/termdock-issues](https://github.com/termdock/termdock-issues) - Let AI write the code — you own the view. Termdock: the AI-native terminal for macOS & Windows. Claude Code / Codex / Gemini / GitLab Duo agent sessions, diff impact analysis, visual Git review, and… <sub>⭐ 156 · Shell</sub>
+- [loocor/codmate](https://github.com/loocor/codmate) - CodMate是管理CLI AI会话的macOS SwiftUI应用:浏览,搜索,组织,恢复,以及审查由Codex,Claude Code和双子座CLI制作的工作. 它专注于速度,一个紧凑... <sub>⭐ 669 · Swift</sub>
+- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - 与TypeSafe Jev一起建造的舞台版代码审查工作流程和当地仪表板. <sub>⭐ 656 · TypeScript</sub>
+- [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) - # 1 开源代码审查器在代码-Review-Bench上 <sub>⭐ 645 · Go</sub>
+- [Corbell-AI/Corbell](https://github.com/Corbell-AI/Corbell) - AI-动力光谱生成与审查 使用多repo代码图智能为后端团队运送生产. <sub>⭐ 628 · Python</sub>
+- [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - 在Neovim进行美味的诊断调试 <sub>⭐ 609 · Lua</sub>
+- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - 使用 ChatGPT 来审查您的拉/调试请求 <sub>⭐ 607 · JavaScript</sub>
+- [FradSer/dotclaude](https://github.com/FradSer/dotclaude) - 全面发展环境,由专门的AI代理,负责代码审查、安全分析和技术领导。 <sub>⭐ 593 · JavaScript</sub>
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit找到最便宜的在您的寄存器上可靠工作的AI编码设置,然后应用胜者作为可审查的更改. <sub>⭐ 587 · Python</sub>
+- [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - GitHub、GitLab、Bitbucket Cloud、Bitbucket服务器、Azure DevOps和Gitea的 AI 动力代码审查工具——由OpenAI、Claude、双子座、Ollama、Bedrock、OpenRouter和Azure OpenAI等LLMs建造 <sub>⭐ 585 · Python</sub>
+- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - 每个AI编码代理的开发者工作流程最快. Live status, 快速提示, worktrees, and diff review from one tmux TUI. <sub>⭐ 558 · Go</sub>
+- [Romanescu11/hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) - 用于Nous Research的Hermes AI代理器的元技能插件,该插件可以监视您的工作流程并自动将其转化为可重复使用的技能. 每次你与Hermes合作并解决一些问题——设置... <sub>⭐ 552 · Python</sub>
+- [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) - 将论文、代码和文件转换成可演示的,在Codex/Claude代码中可以本土编辑的PPTX。原生图表和方程式,演讲笔记,点击构建动画,以及独立评论家... <sub>⭐ 536 · Python</sub>
+- [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) - 50+的确定集合验证了克劳德密码,克劳德.ai和API的威斯克·克劳德技能. 与TDD,调试,git工作流程,文档处理等等一起促进生产率. . <sub>⭐ 531</sub>
+- [mco-org/mco](https://github.com/mco-org/mco) - AI编码代理商的CLI-First协调:并行运行选定的代理商和模型,比较原始答案,协调审查或执行工作流程. <sub>⭐ 531 · Python</sub>
+- [koloai/kolo](https://github.com/koloai/kolo) - Kolo是基于文字的 Python 调试器,用于 AI 代理。 抓取每个已执行的函数调用、 回执值、 本地变量、 HTTP 请求, 以及更多 greppable track 文件 。 <sub>⭐ 525</sub>
+- [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) - 一个零依赖性,git后置的微课库,供AI Agents同步共享和搜索经核实的调试体验. / https://misakanet.org <sub>⭐ 519 · Python</sub>
+- [adshao/flounder](https://github.com/adshao/flounder) - 自动白帽子安全审计员负责AI驱动的代码审查,bug赏金研究,开发建设,以及执行依据的核查. <sub>⭐ 516 · TypeScript</sub>
+- [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) - x64dbg 调试器的 MCP 服务器插件 - 允许 AI 代理和外部工具在 HTTP/ SSE 上通过 JSON- RPC 2.0 控制调试 <sub>⭐ 512 · C++</sub>
+- [claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback) - Claes Bäckman开发了这些工具。 <sub>⭐ 488 · JavaScript</sub>
+- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android:Android的 AI 驱动移动编码 IDE ——与编码代理商聊天,运行Linux命令,编辑文件,审查diffs,并从手机直接预览网络应用. no root... <sub>⭐ 486 · Kotlin</sub>
+- [0sec-labs/0](https://github.com/0sec-labs/0) - Full-stack AI 安全操作系统用于您的浏览器、终端和代理。 查找、核实和修复漏洞。 按业务影响而不是仅仅CVSS分数排序。 <sub>⭐ 483 · TypeScript</sub>
+- [Raiders0786/web3-security-resources](https://github.com/Raiders0786/web3-security-resources) - 为智能合同审计员和协议团队提供经验证的Web3安全学习中心:路线图,审计工具,公开报告,模糊,正式核实,AI辅助工作流程,脱链安全. <sub>⭐ 470 · Python</sub>
+- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - 一种非常定制的用于ARXIV准备的ML/AI审查文件的代理套件(以及超出范围),它通过一个有门的LaTeX工作流程驱动像Codex CLI和Claude Code这样的代理AI,并经过验证的BibTeX... <sub>⭐ 449 · TeX</sub>
+- [Nayjest/Gito](https://github.com/Nayjest/Gito) - 一个AI驱动的GitHub代码审查工具,使用LLMs来检测高自信,高影响的问题——如安全弱点,bug,以及可维护性问题. <sub>⭐ 441 · Python</sub>
+- [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - Claude Code和Cursor的10种应用技能,将重构UI的原则转化为结构化的AI辅助设计评论/不附属,大粉丝,在这里获得他们的书 <sub>⭐ 435 · JavaScript</sub>
+- [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) - Claude Code、GitHub Copilot和Claude桌面的无障碍审查代理商。 执行WCAG 2.2 AA合规的11位专家因此AI编码工具停止生成无法访问的代码。 <sub>⭐ 420 · JavaScript</sub>
+- [fcakyon/phd-skills](https://github.com/fcakyon/phd-skills) - Claude Code的博士研究技能:纸张复制、实验设计、纸张审查、结果比较等等。 <sub>⭐ 413 · Shell</sub>
+- [mnns/LLMFuzzer](https://github.com/mnns/LLMFuzzer) - LLMFuzzer - 大语言模型的模糊框架 LLMFuzzer是第一个专门为大语言模型(LLMs)设计的开源模糊框架,尤其是为它们的集成. . <sub>⭐ 381 · Python</sub>
+- [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) - AI 动力多代理代码审查。 模拟一个可定制的工程师团队, 执行内置语句的代码审查 。 <sub>⭐ 370 · TypeScript</sub>
+- [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - 用于 MCP 的 Wireshark 。 一个透明代理, 它显示您的 AI 客户端和您的 MCP 服务器之间的每个真实工具呼叫, 运行在您的终端中 。 <sub>⭐ 359 · Go</sub>
+- [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) - 离线 HarmonyOS NEXT 开发者技能库供AI编码助理使用. 覆盖 API 12–26 声明, ArkTS/ArkUI,NDK,DevEco Studio,模拟器自动化,调试,出版,以及可复制... <sub>⭐ 358 · Python</sub>
+- [miracodeai/mira](https://github.com/miracodeai/mira) - 自办AI代码审查员,配有索引化的PR评论,走行本,脆弱性扫描,依赖性图表,自定义规则,以及学习循环. <sub>⭐ 355 · Python</sub>
+- [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp) - 一个用于RenderDoc的MCP服务器:授权AI助手分析GPU帧捕获和调试图形管道. <sub>⭐ 353 · C++</sub>
+- [axtonliu/ai-pair](https://github.com/axtonliu/ai-pair) - 协调多个AI模型(Claude + GPT + 双子座)作为一个多面体团队,一个创建,两个审查. A Claude Code Skill. <sub>⭐ 346</sub>
+- [skainguyen1412/antigravity-superpowers](https://github.com/skainguyen1412/antigravity-superpowers) - 将超能力工作流程带到反重力——集思广益,规划,TDD,代码审查,核查技能尽可能接近原版. <sub>⭐ 327 · JavaScript</sub>
+- [gwendall/superclaude](https://github.com/gwendall/superclaude) - GitHub工作流程给Claude AI超能力. 变形"固定的东西"承诺到专业信息中,生成智能的更改日志,并获得AI代码评论——都有一个命令. <sub>⭐ 326 · Shell</sub>
+- [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - Codeball – 找到错误和快速路径的AI代码审查您的代码 <sub>⭐ 326 · TypeScript</sub>
+- [finna/Finn-loop](https://github.com/finna/Finn-loop) - Finn-loop:克劳德代码的3技能AI软件工厂——Spec,build,Review. Humans合并. <sub>⭐ 317 · JavaScript</sub>
+- [huanchong-99/SoloDawn](https://github.com/huanchong-99/SoloDawn) - 交货前抓获并修复AI幻觉:3个质量门,31个内置规则,一个自愈循环和90分的验收审查. 完全自动化从要求到合并代码. A... <sub>⭐ 316 · Rust</sub>
+- [millionco/debug-agent](https://github.com/millionco/debug-agent) - AI 代理机的调试技巧 <sub>⭐ 303 · TypeScript</sub>
+- [ad-naan/Adnify](https://github.com/ad-naan/Adnify) - 本地第一人工智能代理IDE,负责计划、编辑、调试和船舶项目。您的聪明水獭爱好者编码团队成员。 <sub>⭐ 301 · TypeScript</sub>
+- [nurettincoban/ai-prd-workflow](https://github.com/nurettincoban/ai-prd-workflow) - AI编码代理的 RFC 驱动开发: 想法或现有的代码库 → 经核实的 PRD → 特征 → 规则 → 排序的 RFCs → 已审查代码. Agent swills for Claude Code, Codex, Copilot, Cursor, Gemini... <sub>⭐ 297 · Python</sub>
+- [WenyuChiou/ai-research-skills](https://github.com/WenyuChiou/ai-research-skills) - 研究工作流程的通用SKILL.md目录:文献审查,研究设计,项目内存,手稿编写,以及克劳德代码,Codex,双子座,Cursor,OpenClaw的交叉代理授权. . <sub>⭐ 297 · Python</sub>
+- [pavel-molyanov/molyanov-ai-dev](https://github.com/pavel-molyanov/molyanov-ai-dev) - Claude Code和Codex的意向驱动的AI-First开发方法——项目知识,用户谱规划,重点执行,以及证据化审查. <sub>⭐ 296 · Python</sub>
+- [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) - 您为Claude Code 和 Claude.ai 提供的 AI 动力 LeetCode & DSA 导师。 通过智能引导、渐进提示和模式识别培训,主算法——不仅仅是复制-粘贴... <sub>⭐ 281 · Python</sub>
+- [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - NeurIPS 2023纸的代码和数据文物——"监控-引导代码LMs的解码与存储背景的静态分析". 多spy是Python的一个ISp客户端库,意在用于. <sub>⭐ 280 · Python</sub>
+- [KimYx0207/Meta_Kim](https://github.com/KimYx0207/Meta_Kim) - AI编码助理的受管执行层:澄清意图,路由能力,审查证据,核实结果,并写回Claude Code,Codex,OpenClaw,和Cursor之间的课. <sub>⭐ 275 · JavaScript</sub>
+- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - 用于 Pi 和 oh-my- pi 编码代理的自由开源电子图形界面。 聊天、 编辑文件、 运行终端, 并在一个窗口中审查 diffs. Linux、 macOS 和 Windows 。 <sub>⭐ 274 · TypeScript</sub>
+- [ReviewStage/stage-cli](https://github.com/ReviewStage/stage-cli) - 浏览器,用于审查单个小章节中本地代码的修改。 与任何 AI 代理工作 。 <sub>⭐ 274 · TypeScript</sub>
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay——AI代理的时光旅行,记录,重播,叉子,以及调试任何代理与任何模特一起运行的代理,由OrcaRouter.ai团队打造. <sub>⭐ 272 · TypeScript</sub>
+- [PatilShreyas/debroid](https://github.com/PatilShreyas/debroid) - 自动,无头的Android调试器为AI编码代理设计. Inspect runtime memory, set breakpoint, and debug live apps. <sub>⭐ 270 · Kotlin</sub>
+- [getsentry/sentry-for-ai](https://github.com/getsentry/sentry-for-ai) - 教你的AI编码助手如何使用 Sentry - 设置、调试、提醒和更多 <sub>⭐ 268 · TypeScript</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [Cy-S3c/BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra) - Burp Suite专业的AI动力MCP服务器——149个工具跨越代理,扫描仪,内线模糊器,赛车条件,导引注射,JWT/IDOR攻击,侦察和OOB,并带有实时仪表板和. <sub>⭐ 265 · Kotlin</sub>
+- [HaD0Yun/Doyunha-Gopeak](https://github.com/HaD0Yun/Doyunha-Gopeak) - GoPeak – Godot Engine最全面的MCP服务器. 95+工具:场景管理,GDScript LSP,DAP调试器,截图抓取,输入注入,ClassDB内置,CC0资产库. . <sub>⭐ 262 · TypeScript</sub>
+- [graphsignal/graphsignal](https://github.com/graphsignal/graphsignal) - AI 代理的 GPU 配置器 <sub>⭐ 257 · Python</sub>
+- [truongnh1992/gemini-ai-code-reviewer](https://github.com/truongnh1992/gemini-ai-code-reviewer) - 一个GitHub Action,自动使用Google的双子星AI来审查拉动请求. <sub>⭐ 251 · Python</sub>
+- [iSEngLab/AwesomeLLM4APR](https://github.com/iSEngLab/AwesomeLLM4APR) - (TOSEM 2026)A 自动化程序维修大语言模型系统文学评论 <sub>⭐ 246</sub>
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - 一套由C/C++,Rust,和Zig工具链组成的系统与低级编程的AI代理技能,涵盖编译器,调试器,剖析器,构建系统,消毒器,以及二进制分析. <sub>⭐ 244 · JavaScript</sub>
+- [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) - LLM代理的静态安全扫描仪——即时注射,MCP配置审计,纹饰分析. 51条规则映射到OWASP Agentic Top 10 (2026). Works with LangChain, CrewAI, AutoGen. <sub>⭐ 237 · Python</sub>
+- [Lling0000/Vibe_coding_guide](https://github.com/Lling0000/Vibe_coding_guide) - QQVibe编码/AI编码工程工作流程指南:规格,代理,工作树,技能,CI,以及审查. <sub>⭐ 231 · JavaScript</sub>
+- [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) - 本地首个MCP插件,用于AI编码代理持续进行软件质量审查,由Jev提供动力. <sub>⭐ 230 · TypeScript</sub>
+- [stevenflanagan1/social-ai-team](https://github.com/stevenflanagan1/social-ai-team) - Claude Code技能为社交媒体——SMBs的完整AI社交团队. 品牌设置,内容日历,标题,创意和业绩审查. <sub>⭐ 230 · Shell</sub>
+- [al-sultani/prokzee](https://github.com/al-sultani/prokzee) - 一个用于HTTP/HTTPS流量截取和分析的跨平台桌面应用程序,由Go公司建造. 功能现代UI,流量操纵工具,请求重排,模糊能力,以及... <sub>⭐ 226 · Go</sub>
+- [AgriciDaniel/claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity) - Claude Code的AI动力网络安全代码审查技能. OWASP 2025,CWE Top 25,MITRE ATT&CK,11种语言,零配置8位专家代理. <sub>⭐ 225 · Shell</sub>
+- [chrichuang218/ai-learning-coach](https://github.com/chrichuang218/ai-learning-coach) - AI Codex的私人学习导师:通过真正的项目学习,适应性对话,调试,基于证据的掌握,以及可见的进步. <sub>⭐ 224 · Python</sub>
+- [liyingsong99/AIBridge](https://github.com/liyingsong99/AIBridge) - AI Unity开发工具,将项目-本地工作流程,AIBridge技能,CLI和runtime工具,代码索引,视觉验证,输入模拟,玩家调试,以及AI工具等结合在一起. . <sub>⭐ 224 · C#</sub>
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) - 89个技能和38个专业代理,强制实施经过验证的工程实践,用于AI辅助开发. TDD,系统调试,并行代码审查,以及10门开发周期——作为... <sub>⭐ 217 · HTML</sub>
+- [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) - AI代理的访问控制. 设定 Claude Code, Codex,双子座,Cursor 和任何 MCP 服务器可以做什么,在运行前审查有风险的行动,并保留每个动作的记录. <sub>⭐ 217 · TypeScript</sub>
+- [Sunhaiy/Reflex](https://github.com/Sunhaiy/Reflex) - 是下一代,现代,轻巧的SSH客户端为绝对高效而设计. 除了标准的终端模拟之外,它通过集成发挥你最终开发者的工作本位的作用... <sub>⭐ 213 · TypeScript</sub>
+- [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - SwiftUI前端设计技能——六条反AI Sloppiness的铁板规则,设计方向咨询,品牌资产准则,以及五向化审查. 支持所有AI代理平台... <sub>⭐ 208</sub>
+- [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) - 用于Apache Spark History Server的MCP服务器和CLI. Debug Spark应用程序来自AI代理,脚本或终端. <sub>⭐ 203 · Python</sub>
+- [traceloop/opentelemetry-mcp-server](https://github.com/traceloop/opentelemetry-mcp-server) - 用于查询跨越多个后端(杰格,腾波,崔克洛普等)的OpenTeleometry追蹤器的统一MCP服务器,使得AI代理能够分析分布的追蹤器,用于自动调试和. <sub>⭐ 203 · Python</sub>
+- [Adancurusul/embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) - MCP服务器 + CLI + Codex/Claude 通过探测器或OpenOCD进行嵌入调试的技能——ARM Cortex-M,RISC-V,和Xtensa(ESP32),并有AI崩溃诊断. <sub>⭐ 197 · Rust</sub>
+- [techygarg/lattice](https://github.com/techygarg/lattice) - 在任何 AI 编码助理中安装工程纪律。 可编译的设计、 执行、 审查和团队标准技能。 更好的进程, 而不仅仅是更好的提示 。 <sub>⭐ 197 · JavaScript</sub>
+- [sd0xdev/sd0x-harness](https://github.com/sd0xdev/sd0x-harness) - Claude Code的吊带层——使用钩子强制双重审查的吊带工程的参考实施,在环境压缩后幸存下来的国机门,以及故障封闭安全的地方. . <sub>⭐ 191 · JavaScript</sub>
+- [astro-stack/django-orbit](https://github.com/astro-stack/django-orbit) - AI代理本土的可观察性与调试 Django. <sub>⭐ 180 · Python</sub>
+- [AgriciDaniel/skill-forge](https://github.com/AgriciDaniel/skill-forge) - 终极克劳德代码技能创造者——设计,脚手架,建造,审查,进化,并出版生产级AI代理技能. <sub>⭐ 177 · Python</sub>
+- [mgerhardy/simpleai](https://github.com/mgerhardy/simpleai) - SimpleAI是一个基于C++ AI行为树的小库,它有一个基于QT5的远程调试器(并带有可选的LUA绑定),在MIT下发布. <sub>⭐ 177 · C++</sub>
+- [nesquikm/mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck) - 一个MCP服务器充当了查询多个OpenAI兼容的LLMs与MCP工具访问的桥梁. 就像橡皮鸭调试一样,向各种AI"调制器"解释你的问题,他们实际上可以... <sub>⭐ 177 · TypeScript</sub>
+- [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) - 学生LLM Wiki — AI编译的大学生知识库. 放下课程幻灯片,获得一个持久的互联维基. 费曼评论,考试准备,信心衰减,跨课程连接...... <sub>⭐ 176</sub>
+- [NeuraCerebra-AI/Ultimate-Debugger-Prompt-for-Claude-3](https://github.com/NeuraCerebra-AI/Ultimate-Debugger-Prompt-for-Claude-3) - 一个专业级别的调试AI提示器,为克劳德·3.5 Sonnet设计,它仔细地检查错误,产生潜在的原因,并提供了全面的逐步解决方案. <sub>⭐ 173 · Python</sub>
+- [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline) - 完全本地脆弱性研究管道 -- -- 14B代码专用LLM对每个源文件进行详尽审查。 <sub>⭐ 171 · Python</sub>
+- [gotzmann/booster](https://github.com/gotzmann/booster) - 助推器 - 打开 LLM 模型的加速器。 为 AI 黑客更好的推论和调试 <sub>⭐ 170 · C++</sub>
+- [xueyouluo/fsauor2018](https://github.com/xueyouluo/fsauor2018) - 2018年AI挑战者评测用户评测精细感知分析代码 <sub>⭐ 170 · Python</sub>
+- [debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) - 一个无头,代理调试器在MCP上——让你的AI代理调试程序以7种语言运行. <sub>⭐ 169 · TypeScript</sub>
+- [EfficientStreet/hindsight](https://github.com/EfficientStreet/hindsight) - AI编码助理的自我改进技能——审查会话的结束到结束,只将持久过程的教训保存为持久的记忆. <sub>⭐ 165</sub>
+- [coleam00/dark-factory-experiment](https://github.com/coleam00/dark-factory-experiment) - 一个发送自己代码的存储器。 AI工作流程处理分类问题, 执行它们, 审核, 并自动化而无需人阅读 diff。 运行在 Archon 上。 它维护的应用程序是一个引用的 RAG 聊天... <sub>⭐ 164 · Python</sub>
+- [syabro/rejudge](https://github.com/syabro/rejudge) - AI编码代理的独立多模式审查 <sub>⭐ 163 · TypeScript</sub>
+- [explyt/spring-plugin](https://github.com/explyt/spring-plugin) - Spring Exprit — 免费,开源(Apache-2.0) Spring & Spring Boot插件,将Ultimate级工具带入IntelliJIDEA社区版(工作也在Ultimate):运行时间精确的豆子... <sub>⭐ 162 · Kotlin</sub>
+- [mtarcure/claude-vibe-squad](https://github.com/mtarcure/claude-vibe-squad) - 多模式AI 管弦乐在行为是Markdown而不是代码的地方. 一名协调员将范围化的任务包传递给来自5个模式家庭的71位基于角色的专家(Codex / Claude / Gemini / Grok /...). <sub>⭐ 162 · Python</sub>
+- [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - 自办短链接和现场QR平台,拥有所有权,审查,品牌化的QR代码,分析,以及AI辅助操作的可审计路径. <sub>⭐ 159 · Go</sub>
+- [theodo-group/debug-that](https://github.com/theodo-group/debug-that) - 为AI代理构建的通用调试器 CLI 。 允许 Claude 代码和 Codex 更快地调试。 支持节点( Javascript, Typescript), bun, lldb (C++/ Rust), python. fast, sorder- expective, no fluff. <sub>⭐ 158 · TypeScript</sub>
+- [areibman/bottleneck](https://github.com/areibman/bottleneck) - AI本地团队代码审查. 本地Electron应用程序用于审查牵引请求的速度大大快于Github Web. 专门处理从事多种工作的背景代理的评审. . <sub>⭐ 156 · TypeScript</sub>
+- [termdock/termdock-issues](https://github.com/termdock/termdock-issues) - 让AI写代码——您拥有视图. Termdock:macOS & Windows的AI-native终端. Claude Code / Codex / GitLab Duo代理会话,diff撞击分析,视觉Git评论,以及... <sub>⭐ 156 · Shell</sub>
 
 ## 📊 API、负载与数据质量
 
 > 借助 AI 进行 API 测试、性能测试和数据校验。
 
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <sub>⭐ 11.7k · Python</sub>
-- [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data <sub>⭐ 3.6k · Python</sub>
-- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [meta-llama/synthetic-data-kit](https://github.com/meta-llama/synthetic-data-kit) - Tool for generating high quality Synthetic datasets <sub>⭐ 1.6k · Python</sub>
-- [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - A reading list on LLM based Synthetic Data Generation <sub>⭐ 1.6k</sub>
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI… <sub>⭐ 1.3k · Rust</sub>
-- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation <sub>⭐ 1.2k · Python</sub>
-- [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) - A curated collection of free, high quality AI tools , APIs , datasets , and learning resources covering machine learning , deep learning , generative AI , NLP , and data science . Designed to help… <sub>⭐ 911</sub>
-- [magpie-align/magpie](https://github.com/magpie-align/magpie) - (ICLR 2025) Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing. Your efficient and high-quality synthetic data generation pipeline! <sub>⭐ 887 · Python</sub>
-- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - Verbalized Sampling, a training-free prompting strategy to mitigate mode collapse in LLMs by requesting responses with probabilities. Achieves 2-3x diversity improvement while maintaining quality.… <sub>⭐ 813 · Python</sub>
-- [qiantongtech/qData](https://github.com/qiantongtech/qData) - qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&A. <sub>⭐ 615 · PLpgSQL</sub>
-- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured… <sub>⭐ 561 · Python</sub>
-- [nv-tlabs/Cosmos-Drive-Dreams](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) - Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models <sub>⭐ 544 · Jupyter Notebook</sub>
-- [menyifang/En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data", CVPR 2024; 3D Avatar Generation and Animation <sub>⭐ 543 · Python</sub>
-- [VikParuchuri/textbook_quality](https://github.com/VikParuchuri/textbook_quality) - Generate textbook-quality synthetic LLM pretraining data <sub>⭐ 507 · Python</sub>
-- [vinbigdata-medical/vindr-lab](https://github.com/vinbigdata-medical/vindr-lab) - A Data Platform for Medical AI that enables building high-quality datasets and algorithms with lean process and advanced annotation features. <sub>⭐ 377</sub>
-- [syncora-ai/uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation) - Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving… <sub>⭐ 331</sub>
-- [sdv-dev/SDGym](https://github.com/sdv-dev/SDGym) - Benchmarking synthetic data generation methods. <sub>⭐ 311 · Python</sub>
-- [JohnMwendwa/free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) - A curated collection of free, high-quality resources for learning about AI, including ML, deep learning, generative AI, natural language processing, data science, prompt engineering & AI ethics. It… <sub>⭐ 307</sub>
-- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - Code used to generate synthetic scenes and bounding box annotations for object detection. This was used to generate data used in the Cut, Paste and Learn paper <sub>⭐ 300 · Python</sub>
-- [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) - SDK for robotics teams to verify the quality of their data used for AI model training. <sub>⭐ 283 · Python</sub>
-- [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) - Track 20,710+ AI benchmark, eval, dataset, and data-quality records from 37 public sources, with linked evidence and daily updates. <sub>⭐ 272 · Python</sub>
-- [getml/getml-community](https://github.com/getml/getml-community) - Fast, high-quality forecasts on relational and multivariate time-series data powered by new feature learning algorithms and automated ML. <sub>⭐ 244 · C++</sub>
-- [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) - A suite of auto-regressive and Seq2Seq (sequence-to-sequence) transformer models for tabular and relational synthetic data generation. <sub>⭐ 244 · Jupyter Notebook</sub>
-- [blobcity/autoai](https://github.com/blobcity/autoai) - Python based framework for Automatic AI for Regression and Classification over numerical data. Performs model search, hyper-parameter tuning, and high-quality Jupyter Notebook code generation. <sub>⭐ 186 · Python</sub>
-- [syda-ai/syda](https://github.com/syda-ai/syda) - AI-powered synthetic data generation — structured tables, unstructured documents, multi-provider LLM support, referential integrity, and code-gen mode for millions of rows <sub>⭐ 178 · Python</sub>
-- [jacob-bd/openclaw-newsroom](https://github.com/jacob-bd/openclaw-newsroom) - Automated AI news scanning pipeline for OpenClaw — 5 data sources, quality scoring, Gemini Flash editorial curation. ~$5/month. <sub>⭐ 176 · Python</sub>
-- [allenai/pixmo-docs](https://github.com/allenai/pixmo-docs) - ACL 2025: Synthetic data generation pipelines for text-rich images. <sub>⭐ 170 · Python</sub>
-- [evolvent-ai/RSIBench-Data](https://github.com/evolvent-ai/RSIBench-Data) - Synthetic data generation, post-training, and E2B benchmark evaluation infrastructure. <sub>⭐ 168 · Shell</sub>
-- [sisinflab/adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey) - The goal of this survey is two-fold: (i) to present recent advances on adversarial machine learning (AML) for the security of RS (i.e., attacking and defense recommendation models), (ii) to show… <sub>⭐ 166</sub>
-- [Red-Hat-AI-Innovation-Team/sdg_hub](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub) - Synthetic Data Generation Toolkit for LLMs <sub>⭐ 164 · Python</sub>
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab的开源库是数据质量和机器学习的标准数据中心AI包,带有杂乱,现实世界的数据和标签. <sub>⭐ 11.7k · Python</sub>
+- [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - 表格数据合成数据生成 <sub>⭐ 3.6k · Python</sub>
+- [google-research/kubric](https://github.com/google-research/kubric) - 用于创建半现实合成多对象视频的数据生成管道,其中包含丰富的说明,如实例分解口罩,深度图,以及光学流. <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [meta-llama/synthetic-data-kit](https://github.com/meta-llama/synthetic-data-kit) - 生成高质量合成数据集的工具 <sub>⭐ 1.6k · Python</sub>
+- [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - 基于 LLM 的合成数据生成读取列表 <sub>⭐ 1.6k</sub>
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - 开源ETL/ELT 您在自己的服务器或云上部署. DuckDB上建的:无码/低码视觉管道或SQL,385组件,dbt,CDC,数据质量,逆向ETL,线程,MCP用于AI... <sub>⭐ 1.3k · Rust</sub>
+- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - 图Gen: 增强对具有知识驱动合成数据生成功能的 LLMs 的监督精细调试 <sub>⭐ 1.2k · Python</sub>
+- [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) - 由免费、高品质的AI工具、API、数据集和学习资源组成,涵盖机器学习、深层学习、基因AI、NLP和数据科学。 <sub>⭐ 911</sub>
+- [magpie-align/magpie](https://github.com/magpie-align/magpie) - (ICLR 2025) 将数据合成从剪切中校正, 通过“ 无结果的连接 LLMs ” 。 您高效和高质量的合成数据生成管道 ! <sub>⭐ 887 · Python</sub>
+- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - 虚拟采样(Verbalized Sampling),是一种无培训的激励策略,通过请求概率反应来缓解LLMs模式崩溃.在保持质量的同时实现2-3x多样性的改善. <sub>⭐ 813 · Python</sub>
+- [qiantongtech/qData](https://github.com/qiantongtech/qData) - qData是一个开源数据治理与数据开发平台,集ETL,数据开发,元数据管理,数据质量,数据资产,API服务,以及AI动力数据QQA于一体. <sub>⭐ 615 · PLpgSQL</sub>
+- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame是一个开源的多模式AI系统,旨在将UI设计模型翻译为高质量的React代码,它利用视觉语言的建模,自动化的数据合成,以及结构化. . <sub>⭐ 561 · Python</sub>
+- [nv-tlabs/Cosmos-Drive-Dreams](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) - Cosmos-Drive-Dreams:可扩展合成驱动数据与世界基金会模型 <sub>⭐ 544 · Jupyter Notebook</sub>
+- [menyifang/En3D](https://github.com/menyifang/En3D) - 官方实施"En3D:从2D合成数据中雕塑3D人类的强化基因模型",CVPR 2024;3D Avatar Center and Animation <sub>⭐ 543 · Python</sub>
+- [VikParuchuri/textbook_quality](https://github.com/VikParuchuri/textbook_quality) - 生成教科书质量的合成LLM预训数据 <sub>⭐ 507 · Python</sub>
+- [vinbigdata-medical/vindr-lab](https://github.com/vinbigdata-medical/vindr-lab) - 医疗AI数据平台,能够构建具有精益过程和高级注释功能的高质量数据集和算法. <sub>⭐ 377</sub>
+- [syncora-ai/uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation) - 合成数据生成演示使用英国的零售交易数据集。 对零售、电子商务、金融和供应链部门中想要创建隐私保护的专业人士而言,理想是... <sub>⭐ 331</sub>
+- [sdv-dev/SDGym](https://github.com/sdv-dev/SDGym) - 制定合成数据生成方法的基准。 <sub>⭐ 311 · Python</sub>
+- [JohnMwendwa/free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) - 精密收集免费,高质量的人工智能学习资源,包括ML,深层学习,基因化人工智能,自然语言处理,数据科学,即时工程和人工智能伦理. . <sub>⭐ 307</sub>
+- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - 代码用于生成合成场景和用于对象检测的边框说明。此代码被用于生成剪切、粘贴和学习纸张中使用的数据 <sub>⭐ 300 · Python</sub>
+- [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) - SDK为机器人团队验证其用于AI模型训练的数据质量. <sub>⭐ 283 · Python</sub>
+- [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) - 第20,710+AI基准,eval,数据集,以及37个公共来源的数据质量记录,并附有链接的证据和每日更新. <sub>⭐ 272 · Python</sub>
+- [getml/getml-community](https://github.com/getml/getml-community) - 由新功能学习算法和自动化的ML驱动,对关系和多变量时间序列数据进行快速,高质量的预测. <sub>⭐ 244 · C++</sub>
+- [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) - 一套自动递归式和Seq2Seq(序列对序列)变压器模型,用于表式和关系式合成数据生成. <sub>⭐ 244 · Jupyter Notebook</sub>
+- [blobcity/autoai](https://github.com/blobcity/autoai) - Python 基于返回和分类自动AI的架构超过数值数据。执行模型搜索、超参数调制和高质量的Jupyter Notebook代码生成。 <sub>⭐ 186 · Python</sub>
+- [syda-ai/syda](https://github.com/syda-ai/syda) - AI动力合成数据生成——结构化表格,非结构化文档,多提供者LLM支持,特惠完整性,以及数百万行的代码-gen模式. <sub>⭐ 178 · Python</sub>
+- [jacob-bd/openclaw-newsroom](https://github.com/jacob-bd/openclaw-newsroom) - OpenClaw的自动AI新闻扫描管道——5个数据来源,质量评分,双子座闪电编辑校正. ~$5个月. <sub>⭐ 176 · Python</sub>
+- [allenai/pixmo-docs](https://github.com/allenai/pixmo-docs) - ACL 2025:用于文本丰富的图像的合成数据生成管道. <sub>⭐ 170 · Python</sub>
+- [evolvent-ai/RSIBench-Data](https://github.com/evolvent-ai/RSIBench-Data) - 合成数据生成、培训后和E2B基准评价基础设施。 <sub>⭐ 168 · Shell</sub>
+- [sisinflab/adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey) - 本次调查的目标有两重:(一)介绍对抗性机器学习(AML)方面的最新进展,以保障RS的安全(即攻击和防御推荐模型),(二)显示. <sub>⭐ 166</sub>
+- [Red-Hat-AI-Innovation-Team/sdg_hub](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub) - LLMs 合成数据生成工具箱 <sub>⭐ 164 · Python</sub>
 
 ---
 [⬆️ 返回顶部](#-qa-与测试分析师-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

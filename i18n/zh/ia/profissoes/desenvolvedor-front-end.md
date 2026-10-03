@@ -20,1026 +20,1026 @@
 
 > 把提示词、图片或设计稿转换为界面代码的工具。
 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol <sub>⭐ 37.7k · TypeScript</sub>
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers… <sub>⭐ 26.8k · TypeScript</sub>
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 代理 & Generative UI. React, Angular, Mobile, Slack 等的前端堆栈 。 AG- UI 协议的制造者 <sub>⭐ 37.7k · TypeScript</sub>
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - 设计者开发工具 • 一个开源AI-First设计工具 • 视觉构建,风格,并用AI编辑您的代码 • World最优秀,最顶尖的代理推荐给设计者的#1开发者工具... <sub>⭐ 26.8k · TypeScript</sub>
 - [teambit/bit](https://github.com/teambit/bit) - AI动力开发工作空间,具有可重复使用的组件,建筑清晰度和零间接费用. <sub>⭐ 18.5k · TypeScript</sub>
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework <sub>⭐ 18.5k · TypeScript</sub>
-- [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website. <sub>⭐ 16.5k · HTML</sub>
-- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor <sub>⭐ 15.9k · TypeScript</sub>
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. <sub>⭐ 12.4k · TypeScript</sub>
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React <sub>⭐ 11.2k · TypeScript</sub>
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in. Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design. Design to… <sub>⭐ 10.4k · TypeScript</sub>
-- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI <sub>⭐ 10.0k · TypeScript</sub>
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere <sub>⭐ 9.7k · HTML</sub>
-- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI <sub>⭐ 9.2k · TypeScript</sub>
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed. <sub>⭐ 7.1k · TypeScript</sub>
-- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically. <sub>⭐ 7.0k · JavaScript</sub>
-- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI <sub>⭐ 6.7k · TypeScript</sub>
-- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI. <sub>⭐ 6.4k · Python</sub>
-- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS. <sub>⭐ 6.1k · HTML</sub>
-- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to… <sub>⭐ 6.1k · Rust</sub>
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st… <sub>⭐ 6.0k · TypeScript</sub>
-- [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees.… <sub>⭐ 4.6k · HTML</sub>
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android… <sub>⭐ 4.2k · HTML</sub>
-- [nraiden/openv0](https://github.com/nraiden/openv0) - AI generated UI components <sub>⭐ 4.0k · TypeScript</sub>
-- [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website <sub>⭐ 3.7k · TypeScript</sub>
-- [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. <sub>⭐ 3.1k · HTML</sub>
-- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces. <sub>⭐ 3.1k · TypeScript</sub>
-- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native <sub>⭐ 3.0k · TypeScript</sub>
-- [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify. <sub>⭐ 3.0k · TypeScript</sub>
-- [skills/secure-code-game](https://github.com/skills/secure-code-game) - Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2… <sub>⭐ 2.8k · JavaScript</sub>
-- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production… <sub>⭐ 2.4k · Vue</sub>
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - 基因UI框架 <sub>⭐ 18.5k · TypeScript</sub>
+- [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - 神经网络将设计模拟器转化为静态网站. <sub>⭐ 16.5k · HTML</sub>
+- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP 服务器向 Cursor 等AI 编码代理提供 Figma 版式信息 <sub>⭐ 15.9k · TypeScript</sub>
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - 世界上最优秀的电子邮件个人助理AI. 开源应用程序帮助您快速到达收件箱0. <sub>⭐ 12.4k · TypeScript</sub>
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - 反应的基因化 UI SDK <sub>⭐ 11.2k · TypeScript</sub>
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 一个现代化的,全面的,灵活的设计系统以及React UI 库,AI友好内置. 提供3000+ Design Tokens, 方便您构建设计系统. 使半设计为任意设计. 设计为... <sub>⭐ 10.4k · TypeScript</sub>
+- [thesysdev/openui](https://github.com/thesysdev/openui) - Generative UI 的开放标准 <sub>⭐ 10.0k · TypeScript</sub>
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 描述您的网站、 AI 构建它, 您拥有它 Markdown 。 将像 Lego 这样的 Tailwind 块组合在一起 — 登陆页、 博客、 组合、 文件等 。 没有 AI sloop 。 您可以随意部署到任何地方 。 <sub>⭐ 9.7k · HTML</sub>
+- [miurla/morphic](https://github.com/miurla/morphic) - 具有基因UI的AI动力搜索引擎 <sub>⭐ 9.2k · TypeScript</sub>
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - 自由,开源,AI友好的管理员仪表板模板与Next.js 16,Shadcn/ui,Tailwind CSS,以及TypeScript一起构建. Production-ready tables, formates, auth, and billing. MIT 许可. <sub>⭐ 7.1k · TypeScript</sub>
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma:在AI代理(Cursor, Claude Code, Codex)和Figma之间实现MCP集成,允许Agentic AI与Figma通信,用于阅读设计并进行程序修改. <sub>⭐ 7.0k · JavaScript</sub>
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai 生成的应用程序, 完整堆栈 + 基因UI <sub>⭐ 6.7k · TypeScript</sub>
+- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR 动力视频转录,字幕生成,以及LLM辅助剪辑工具,配有本地的Gradio UI. <sub>⭐ 6.4k · Python</sub>
+- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI是一款自由开放的源代码集,由Tailwind CSS建造的自定义,生产准备的UI组件. <sub>⭐ 6.1k · HTML</sub>
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - 世界上第一个开源的AI-内置矢量设计工具,也是第一个同时设置代理团队. Design-as-Code. 直接在直播布上将提示转换成UI. 一个现代的替代方案... <sub>⭐ 6.1k · Rust</sub>
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - 它就像v0,但是在你的Cursor / Claude Code / Windsurf中:搜索10,000+ React/Tailwind组件,用AI生成新的UI,并发布你自己的——从你的编辑处右转. Magic MCP现在是第21位...... <sub>⭐ 6.0k · TypeScript</sub>
+- [nexu-io/html-video](https://github.com/nexu-io/html-video) - 编码代理的程序视频 — HTML 将您笔记本电脑上的视频。 将 HTML, CSS & 数据转换成真实的 MP4 , 并带有可插件渲染引擎, 21 模板, AI soundtrack. Apache - 2. 0, 不每台收费... <sub>⭐ 4.6k · HTML</sub>
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - 提取任何网站的完整设计系统都有一个命令. DTCG 令牌,语义+primitive+composite,Claude Code/Cursor/Windsurf的MCP服务器,多平台发射器(iOS SwiftUI,Android... <sub>⭐ 4.2k · HTML</sub>
+- [nraiden/openv0](https://github.com/nraiden/openv0) - AI 生成UI 组件 <sub>⭐ 4.0k · TypeScript</sub>
+- [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - 您网站的完全定制的 AI 聊天器组件 <sub>⭐ 3.7k · TypeScript</sub>
+- [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - 用于您的 AI. 的开源 Tailwind 组件为您的 GPT, 基因AI, 和 LLM 项目定制 。 <sub>⭐ 3.1k · HTML</sub>
+- [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - AI应用软件的核心构件. AI接口的高质量,可访问性和自定义性组件. <sub>⭐ 3.1k · TypeScript</sub>
+- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - 一个 mcp 服务器, 允许 LLMS 获得关于 shadcn ui 组件结构、 usage 和安装的上下文, 可与反应兼容, svelte 5, vue & React Independent <sub>⭐ 3.0k · TypeScript</sub>
+- [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - 用于 Tailwind 设计系统的代理- first linter。 写出代理可以验证的设计系统规则 。 <sub>⭐ 3.0k · TypeScript</sub>
+- [skills/secure-code-game](https://github.com/skills/secure-code-game) - 学习安全地编码,同时通过我们流行的开源编辑体验,为开发者、学生和任何对安全感到好奇的人设计。在2岁以下免费开始... <sub>⭐ 2.8k · JavaScript</sub>
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 架构第一系统设计:26个双语辅导,25个架构模板,以及6个端对端案例,涵盖分布式系统,AI本地系统,RAG,编码代理,以及制作. . <sub>⭐ 2.4k · Vue</sub>
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - 自由开源聊天SDK. 构建快速实时应用和基因AI代理,具有高性能,可定制,跨平台的UI. <sub>⭐ 2.4k · Dart</sub>
-- [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models <sub>⭐ 2.1k · Jupyter Notebook</sub>
-- [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui) - Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use llama2-wrapper as your local llama2 backend for Generative Agents/Apps. <sub>⭐ 1.9k · Jupyter Notebook</sub>
-- [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. <sub>⭐ 1.9k · TypeScript</sub>
-- [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) - A complete video subtitle editing React component with AI-powered speech recognition and visual editing capabilities. <sub>⭐ 1.8k · TypeScript</sub>
-- [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - Landing page UI components for React & Next.js, built on top of TailwindCSS <sub>⭐ 1.7k · TypeScript</sub>
-- [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - Open-Source Generative UI Framework <sub>⭐ 1.6k · TypeScript</sub>
-- [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!) <sub>⭐ 1.5k · TypeScript</sub>
-- [alan345/AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React <sub>⭐ 1.4k · TypeScript</sub>
-- [vercel-labs/gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini <sub>⭐ 1.4k · TypeScript</sub>
-- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI <sub>⭐ 1.2k · TypeScript</sub>
-- [AGenUI/AGenUI](https://github.com/AGenUI/AGenUI) - Native A2UI Renderer for iOS/Android/HarmonyOS. High performance streaming Generative UI. Custom Components, Styles and more. <sub>⭐ 1.2k · C++</sub>
-- [Michaelliv/pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) - Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows. <sub>⭐ 1.2k · TypeScript</sub>
-- [codewithMUHILAN/Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library) - The AI-native CLI-first React component library. 160+ animated, accessible, production-ready components with MCP Server support for Cursor, Claude & GitHub Copilot. Copy-paste architecture — you own… <sub>⭐ 1.1k · TypeScript</sub>
-- [jezweb/claude-skills](https://github.com/jezweb/claude-skills) - Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations. <sub>⭐ 1.0k · Python</sub>
-- [awdr74100/figwright](https://github.com/awdr74100/figwright) - Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Codex, and any MCP client. <sub>⭐ 962 · TypeScript</sub>
-- [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world… <sub>⭐ 957 · HTML</sub>
-- [6551Team/claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers <sub>⭐ 879 · JavaScript</sub>
-- [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests. <sub>⭐ 853 · Python</sub>
-- [CopilotKit/generative-ui](https://github.com/CopilotKit/generative-ui) - Generative UI examples for: AG-UI, A2UI/Open-JSON-UI, and MCP Apps. <sub>⭐ 843</sub>
-- [iblai/os](https://github.com/iblai/os) - Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time chat, voice, document training, analytics, user management, SSO authentication… <sub>⭐ 801 · TypeScript</sub>
-- [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - Financial agent + generative UI <sub>⭐ 796 · TypeScript</sub>
-- [PrefectHQ/prefab](https://github.com/PrefectHQ/prefab) - The generative UI framework that even humans can use. <sub>⭐ 734 · HTML</sub>
-- [mostafasadeghi97/design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code <sub>⭐ 682 · TypeScript</sub>
-- [arturitu/the-delegation](https://github.com/arturitu/the-delegation) - A no-code 3D playground to explore, design, and interact with Agentic AI systems <sub>⭐ 673 · TypeScript</sub>
-- [arinspunk/claude-talk-to-figma-mcp](https://github.com/arinspunk/claude-talk-to-figma-mcp) - A Model Context Protocol (MCP) that allows Claude Desktop and other AI tools (Claude Code, Cursor, Antigravity, etc.) to read, analyze, and modify Figma designs <sub>⭐ 666 · TypeScript</sub>
-- [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses… <sub>⭐ 664 · TypeScript</sub>
-- [gridaco/assistant](https://github.com/gridaco/assistant) - Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design <sub>⭐ 618 · TypeScript</sub>
-- [run-llama/chat-ui](https://github.com/run-llama/chat-ui) - Chat UI components for LLM apps <sub>⭐ 593 · TypeScript</sub>
-- [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - From Claude Artifact to deployable React app — in seconds! <sub>⭐ 580 · TypeScript</sub>
-- [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory) - Open-source AI interfaces built with Claude (Fable 5) including hero sections, GLSL shaders, design systems, animations, 3D components and and landing pages, in React, Tailwind, and Three.js. Plug… <sub>⭐ 570 · HTML</sub>
-- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured… <sub>⭐ 561 · Python</sub>
-- [BoardUI/boardui](https://github.com/BoardUI/boardui) - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage. <sub>⭐ 551 · TypeScript</sub>
-- [Davronov-Alimardon/canva-clone](https://github.com/Davronov-Alimardon/canva-clone) - A production-ready graphic design SaaS platform with an intuitive drag-and-drop editor, AI-powered features, and complete subscription management. Built with Next.js 14, Fabric.js canvas engine… <sub>⭐ 528 · TypeScript</sub>
-- [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude <sub>⭐ 524 · Python</sub>
-- [crafter-station/elements](https://github.com/crafter-station/elements) - Full-stack shadcn/ui blocks for auth, payments, AI, logos, and more <sub>⭐ 524 · TypeScript</sub>
-- [camenduru/TostUI](https://github.com/camenduru/TostUI) - This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the deployment of these AI tools by… <sub>⭐ 511 · TypeScript</sub>
-- [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) - Agentic QE Fleet is an open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claude Code) featuring specialized agents and skills to support testing activities… <sub>⭐ 489 · TypeScript</sub>
-- [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) - AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap. <sub>⭐ 473 · TypeScript</sub>
-- [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions. <sub>⭐ 445 · TypeScript</sub>
-- [shobrook/termite](https://github.com/shobrook/termite) - Generative UI in your terminal <sub>⭐ 419 · Python</sub>
-- [pipecat-ai/voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) - Components, hooks and template apps for building React voice AI applications quickly. Designed to support and accelerate Pipecat AI development. <sub>⭐ 418 · TypeScript</sub>
-- [kylan02/face_looker](https://github.com/kylan02/face_looker) - Generate AI-powered gaze-tracking face images and create interactive React components that follow the cursor. <sub>⭐ 414 · Python</sub>
-- [ElectricCodeGuy/SupabaseAuthWithSSR](https://github.com/ElectricCodeGuy/SupabaseAuthWithSSR) - Supabase Auth + AI Stack for Next.js 16 with SSR and React Server Components (RSC), Welcome to a production-ready template combining Supabase SSR authentication with AI capabilities: document chat… <sub>⭐ 397 · TypeScript</sub>
-- [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - React components for visualizing traces from AI agents <sub>⭐ 393 · TypeScript</sub>
-- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - Generative UI web application built with LangChain Python, AI SDK & Next.js <sub>⭐ 388 · TypeScript</sub>
-- [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) - This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding… <sub>⭐ 380</sub>
-- [morpheuslord/HackBot](https://github.com/morpheuslord/HackBot) - AI-powered cybersecurity chatbot designed to provide helpful and accurate answers to your cybersecurity-related queries and also do code analysis and scan analysis. <sub>⭐ 365 · Python</sub>
-- [donghaxkim/react-rewrite](https://github.com/donghaxkim/react-rewrite) - visual editor (figma) for your react apps, edit UI elements live and directly changes source files. no API key, no AI.. <sub>⭐ 360 · TypeScript</sub>
-- [dmarman/dmarman.github.io](https://github.com/dmarman/dmarman.github.io) - Tailwind Ink is an AI palette generator trained with the Tailwindcss colors. <sub>⭐ 352 · JavaScript</sub>
-- [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev) - Curated catalog of React Native UI components, animations, and design inspiration. AI-assisted ingestion via OpenAI Codex. <sub>⭐ 350 · TypeScript</sub>
-- [supercorp-ai/superinterface](https://github.com/supercorp-ai/superinterface) - Superinterface is an AI assistants library for building AI capabilities into your app or website. You use React components and hooks to build AI-first assistants-based interfaces like chats and… <sub>⭐ 346 · TypeScript</sub>
-- [chaos-xxl/zelda-hyrule-ui](https://github.com/chaos-xxl/zelda-hyrule-ui) - Zelda BOTW style React UI component library — 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready) <sub>⭐ 339 · HTML</sub>
-- [olyaiy/resume-lm](https://github.com/olyaiy/resume-lm) - Open-source AI resume builder • Next.js 15, React 19, Tailwind CSS • Tailor job-ready resumes in minutes. <sub>⭐ 329 · TypeScript</sub>
-- [beany-vu/michi-vz-mono](https://github.com/beany-vu/michi-vz-mono) - D3 charts for React, Angular, Vue, Svelte & Web Components — SVG/Canvas/WebGPU & built-in devtools <sub>⭐ 325 · TypeScript</sub>
-- [vortico/flama](https://github.com/vortico/flama) - The production framework for Predictive and Generative AI. Serve any model as an API in one line, with OpenAI/Anthropic/Ollama-compatible endpoints, a built-in chat UI, and native MCP. <sub>⭐ 299 · Python</sub>
-- [huangjia2019/agent-design-patterns](https://github.com/huangjia2019/agent-design-patterns) - A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified engineering slices from Claude Code, Aider, OpenHands, DeerFlow. Companion to… <sub>⭐ 294 · HTML</sub>
-- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - Generative UI web application built with LangChain.js, AI SDK & Next.js <sub>⭐ 292 · TypeScript</sub>
-- [nolly-studio/ai-chatbot-supabase](https://github.com/nolly-studio/ai-chatbot-supabase) - A full-featured, hackable Next.js x Supabase AI chatbot. Fork of the original built by Vercel <sub>⭐ 289 · TypeScript</sub>
-- [IamLiuLv/compoder](https://github.com/IamLiuLv/compoder) - Compoder is an open-source AI-powered component code generation engine that integrates modern frontend tech stacks with various AI model capabilities. You can customize Compoder to create AI-powered… <sub>⭐ 288 · TypeScript</sub>
-- [upstash/rag-chat-component](https://github.com/upstash/rag-chat-component) - React component for RAG-enabled AI Assistant <sub>⭐ 276 · TypeScript</sub>
-- [yuvraj108c/ComfyUI-FLOAT](https://github.com/yuvraj108c/ComfyUI-FLOAT) - Generative Motion Latent Flow Matching for Audio-driven Talking Portrait <sub>⭐ 272 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [narnia-sh/layrr](https://github.com/narnia-sh/layrr) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code. <sub>⭐ 266 · TypeScript</sub>
-- [Hainrixz/editor-pro-max](https://github.com/Hainrixz/editor-pro-max) - AI-powered video editor by @soyenriquerocha — built with Remotion + Claude Code. Describe videos in natural language, get professional MP4s. 25 components, 9 templates, 7 skills. <sub>⭐ 257 · TypeScript</sub>
-- [dearabhin/gemini-watermark-remover](https://github.com/dearabhin/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing the visible Google Gemini AI sparkle watermark from both AI images and Veo videos. Built with Vue 3 + Vite + Tailwind CSS, it uses a… <sub>⭐ 255 · HTML</sub>
-- [philholden/partialupdate](https://github.com/philholden/partialupdate) - Generative UI in multi user chat. A chat bot that can edit it own HTML, CSS and JS. <sub>⭐ 253 · TypeScript</sub>
-- [unlayer/react-image-editor](https://github.com/unlayer/react-image-editor) - Image Editor Component for React — crop, resize, filters, draw, text, shapes, stickers, frames, and an AI Assistant <sub>⭐ 251 · TypeScript</sub>
-- [thehimel/cursor-rules-and-prompts](https://github.com/thehimel/cursor-rules-and-prompts) - A comprehensive, open-source collection of rules and prompts designed to guide Cursor AI in generating better, more consistent code. Enhance code quality, enforce coding standards, and streamline… <sub>⭐ 249 · Shell</sub>
-- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound… <sub>⭐ 247 · TypeScript</sub>
-- [smthemex/ComfyUI_InstantIR_Wrapper](https://github.com/smthemex/ComfyUI_InstantIR_Wrapper) - You can InstantIR to upsacel image in ComfyUI ，InstantIR,Blind Image Restoration with Instant Generative Reference <sub>⭐ 242 · Python</sub>
-- [hypersocialinc/shots](https://github.com/hypersocialinc/shots) - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store… <sub>⭐ 241 · JavaScript</sub>
-- [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - Plate AI template with React 19, Next 16, Tailwind 4, MCP. <sub>⭐ 240 · TypeScript</sub>
-- [s-smits/ui-screenshot-to-prompt](https://github.com/s-smits/ui-screenshot-to-prompt) - ui-screenshot-to-prompt is an AI-powered tool that analyzes UI images to generate detailed prompts for AI coders. It uses computer vision and natural language processing to break down UI components… <sub>⭐ 237 · Python</sub>
-- [vixues/LeAgent](https://github.com/vixues/LeAgent) - Open-source desktop AI agent that gets work done — plans & self-corrects, agentic visual workflows, generative UI, and 100+ offline tools in one self-hostable stack. <sub>⭐ 230 · Python</sub>
-- [secondsky/claude-skills](https://github.com/secondsky/claude-skills) - Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations <sub>⭐ 226 · TypeScript</sub>
-- [bracesproul/gen-ui-computer-use](https://github.com/bracesproul/gen-ui-computer-use) - A Generative UI app for interacting with Computer Use Agents <sub>⭐ 225 · TypeScript</sub>
-- [theexperiencecompany/gaia-ui](https://github.com/theexperiencecompany/gaia-ui) - Beautifully designed components for building AI Agents <sub>⭐ 222 · TypeScript</sub>
-- [Glade-tool/glade-mcp](https://github.com/Glade-tool/glade-mcp) - Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 275+ granular tools, an editor aware system prompt, game design document project context, script semantic… <sub>⭐ 221 · C#</sub>
-- [reaviz/reachat](https://github.com/reaviz/reachat) - UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus. <sub>⭐ 221 · TypeScript</sub>
-- [johan-akerman/SpotifyTranscripts](https://github.com/johan-akerman/SpotifyTranscripts) - AI generated subtitles and segmented chapters for podcasts <sub>⭐ 220 · JavaScript</sub>
-- [HenryLach/taskplane](https://github.com/HenryLach/taskplane) - Multi-agent AI coding orchestration system designed to drive successful coding outcomes with a high level of transparency (think more light-factory than dark-factory). <sub>⭐ 217 · TypeScript</sub>
-- [zwgnr/BaseLayer](https://github.com/zwgnr/BaseLayer) - Re-usable multi part components built on React Aria and TailwindCSS. <sub>⭐ 205 · TypeScript</sub>
-- [blackboardsh/colab](https://github.com/blackboardsh/colab) - Co(lab) is a hybrid web browser + local code editor with integrated PTY Terminal and AI designed for startup builders who need to move fast. <sub>⭐ 204 · TypeScript</sub>
-- [Ratna-Babu/Ai-Website-Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - Instantly create beautiful, responsive websites with AI. This AI-powered website builder transforms natural language prompts into fully functional React components using Next.js, Tailwind CSS, and… <sub>⭐ 204 · JavaScript</sub>
-- [zeus-12/uxie](https://github.com/zeus-12/uxie) - pdf reader app with note taking, annotations, collaboration, ai features (chat, flashcards generation w. ai-feedbacks), tts and ocr. <sub>⭐ 197 · TypeScript</sub>
-- [piyush-eon/ai-finance-platform](https://github.com/piyush-eon/ai-finance-platform) - Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI <sub>⭐ 188 · JavaScript</sub>
-- [joelhooks/opencode-vibe](https://github.com/joelhooks/opencode-vibe) - Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components <sub>⭐ 180 · TypeScript</sub>
-- [molefrog/moi](https://github.com/molefrog/moi) - MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself. <sub>⭐ 179 · TypeScript</sub>
-- [enescingoz/roocode-workspace](https://github.com/enescingoz/roocode-workspace) - The roocode-workspace repository is a project template designed to simplify development workflows using Roo Code. It integrates SPARC orchestration modes and the Memory Bank feature to provide a… <sub>⭐ 178</sub>
-- [Ge-limin/shad-expo-studio](https://github.com/Ge-limin/shad-expo-studio) - A visual-regression studio for Expo / React Native UI components: deterministic examples generate Storybook stories and Chromatic baselines, one component tree renders on iOS, Android, and Web. Not a… <sub>⭐ 177 · TypeScript</sub>
-- [jsmastery-pro/e-commerce](https://github.com/jsmastery-pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike… <sub>⭐ 177 · TypeScript</sub>
-- [rand/cc-polymath](https://github.com/rand/cc-polymath) - Claude Code skills and workflows, optimized for context-efficiency and skill quality. Skills ranging from cloud infrastructure to design to advanced maths. <sub>⭐ 177 · Python</sub>
-- [1337hero/faster-chat](https://github.com/1337hero/faster-chat) - A blazingly fast, privacy first & OPEN AI Chat Interface <sub>⭐ 174 · JavaScript</sub>
-- [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo. <sub>⭐ 171 · TypeScript</sub>
-- [opentiny/genui-sdk](https://github.com/opentiny/genui-sdk) - A Generative UI SDK for Vue, Angular <sub>⭐ 171 · TypeScript</sub>
-- [THU-MAIC/MAIC-UI](https://github.com/THU-MAIC/MAIC-UI) - MAIC-UI (Making Interactive Courseware with Generative UI) <sub>⭐ 171 · Python</sub>
-- [seehiong/md-editor-pro](https://github.com/seehiong/md-editor-pro) - Markdown Editor Pro — A powerful, feature-rich markdown editor with live preview, LaTeX math support, GitHub-inspired styling, and seamless integration into React apps. Built with React, TypeScript… <sub>⭐ 167 · TypeScript</sub>
-- [SujalXplores/v0.diy](https://github.com/SujalXplores/v0.diy) - An open-source alternative of v0.app with AI-powered React component generation <sub>⭐ 166 · TypeScript</sub>
-- [paiml/paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit) - Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic <sub>⭐ 164 · Rust</sub>
-- [piyush-eon/ai-career-coach](https://github.com/piyush-eon/ai-career-coach) - Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial <sub>⭐ 163 · JavaScript</sub>
-- [Shreyas-29/vetra](https://github.com/Shreyas-29/vetra) - Modern AI marketing automation platform landing page built with Next.js 15, Tailwind CSS, and Framer Motion <sub>⭐ 163 · TypeScript</sub>
-- [seehiong/multi-model-chat](https://github.com/seehiong/multi-model-chat) - Multi-Model Chat — Compare responses from multiple AI models side by side in real-time. Supports GPT, Claude, Mistral, and local models (Ollama). Built with React, TypeScript, and Tailwind CSS. <sub>⭐ 160 · TypeScript</sub>
-- [Ltamann/ComfyUI-TBG-ETUR](https://github.com/Ltamann/ComfyUI-TBG-ETUR) - TBG Enhanced Tiled Upscaler and Refiner upscales up to 200MP with precise control. It features dual-model processing (structure + detail), per-pixel denoising to control where creativity is applied… <sub>⭐ 159 · Python</sub>
-- [if-ai/ComfyUI-IF_LLM](https://github.com/if-ai/ComfyUI-IF_LLM) - Run Local and API LLMs, Features Gemini2 image generation, DEEPSEEK R1, QwenVL2.5, QWQ32B, Ollama, LlamaCPP LMstudio, Koboldcpp, TextGen, Transformers or via APIs Anthropic, Groq, OpenAI, Google… <sub>⭐ 158 · Python</sub>
-- [kvnkld/aicss](https://github.com/kvnkld/aicss) - AICSS React components and CLI. Website: aicss.dev <sub>⭐ 158 · TypeScript</sub>
-- [irahardianto/awesome-agv](https://github.com/irahardianto/awesome-agv) - Comprehensive sets of standards and practices designed to elevate the capabilities of AI coding agents. <sub>⭐ 157 · JavaScript</sub>
-- [gonzaroman/acornix](https://github.com/gonzaroman/acornix) - Vibe coding on your mobile phone. A modular, self-evolving AI-powered system for Termux in your phone, designed to control the device and automate complex tasks, create apps in seconds. If you can… <sub>⭐ 150 · Python</sub>
-- [JoshithReddyAleti/AI_Engineer_Interview_Prep](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep) - MAANG-level AI Engineer interview prep mapped to the AI Engineering Roadmap 2026 newsletter. Deep conceptual, coding, system design & behavioral questions with detailed answers. Covers LLMs, Python… <sub>⭐ 148</sub>
-- [ahpxex/open-dashboard](https://github.com/ahpxex/open-dashboard) - A skill catalogue of 36 copy-ready admin UI shapes an AI agent installs and composes into a real back-office. Built on TanStack Start, Drizzle + better-auth, shadcn + Tailwind v4. <sub>⭐ 146 · TypeScript</sub>
-- [gdarko/laravel-vue-starter](https://github.com/gdarko/laravel-vue-starter) - AI-native Laravel/Vue boilerplate. Tailwind + DaisyUI, Sanctum, Fortify, Pinia. Built-in agent skills for Claude Code, Cursor, Copilot, Gemini & Junie. <sub>⭐ 146 · PHP</sub>
-- [amitkumardemo/EdgeCareer](https://github.com/amitkumardemo/EdgeCareer) - EdgeCareer – AI-Powered Career Coach Full Stack AI Career Coach built with React 19 + Next.js 15, Tailwind CSS, NeonDB, Prisma, Clerk Authentication, Inngest, Gemini API, and Shadcn UI. A… <sub>⭐ 142 · JavaScript</sub>
-- [Haaaiawd/ANWS](https://github.com/Haaaiawd/ANWS) - A spec-driven workflow framework for AI-assisted development. Empowers prompt engineers to build production-ready software through structured PRD → Architecture → Task decomposition. Designed for… <sub>⭐ 142 · Python</sub>
-- [polyfact/polyfire-js](https://github.com/polyfact/polyfire-js) - React library of AI components <sub>⭐ 140 · JavaScript</sub>
-- [SergioRibera/sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot): CLI/Lib to take amazing screenshot of code or screen with selector ui and OCR built-in <sub>⭐ 138 · Rust</sub>
-- [SALT-NLP/GenUI](https://github.com/SALT-NLP/GenUI) - Code for the paper: Generative Interfaces for Language Models <sub>⭐ 137 · TypeScript</sub>
-- [smashing-team/smashing.tools](https://github.com/smashing-team/smashing.tools) - A curated collection of the best starter kits, UI components, design kits, AI & Dev tools. <sub>⭐ 134 · TypeScript</sub>
-- [agentailor/fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) - Production-ready Next.js template for building AI agents with LangGraph.js. Features MCP integration for dynamic tool loading, human-in-the-loop tool approval, persistent conversation memory with… <sub>⭐ 132 · TypeScript</sub>
-- [victorcodess/nexus-ui](https://github.com/victorcodess/nexus-ui) - Beautiful, customizable components for modern AI experiences. <sub>⭐ 132 · TypeScript</sub>
-- [narrowin/awesome-generative-ui](https://github.com/narrowin/awesome-generative-ui) - A curated list of resources for AI-generated user interfaces — systems where LLMs dynamically create, compose, and render UI components. <sub>⭐ 131</sub>
-- [techwolf-ai/ai-first-toolkit](https://github.com/techwolf-ai/ai-first-toolkit) - Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-first design principles. <sub>⭐ 130 · Python</sub>
-- [CopilotKit/generative-ui-playground](https://github.com/CopilotKit/generative-ui-playground) - Interact with all three types of generative UI, all in one interface <sub>⭐ 127 · HTML</sub>
-- [TechMitten/Tips-Tricks-for-Agentic-Coder](https://github.com/TechMitten/Tips-Tricks-for-Agentic-Coder) - A comprehensive resource designed to help developers effectively use AI tools to develop websites, apps, and other projects. <sub>⭐ 127</sub>
-- [zerodays/react-native-gen-ui](https://github.com/zerodays/react-native-gen-ui) - A Generative UI library for React Native. <sub>⭐ 124 · TypeScript</sub>
-- [agents-ui/agents-kit](https://github.com/agents-ui/agents-kit) - React components for voice agents, chat, and generative UI. LiveKit, ElevenLabs, and OrbKit in one kit. Copy the source and make it yours. <sub>⭐ 122 · TypeScript</sub>
-- [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) - This is the repository for the LatteReview python package. LatteReview is a low-code Python package designed to automate systematic literature review processes through AI-powered agents. <sub>⭐ 121 · Jupyter Notebook</sub>
-- [jhartquist/claude-remotion-kickstart](https://github.com/jhartquist/claude-remotion-kickstart) - Create videos programmatically with Claude Code and Remotion <sub>⭐ 120 · TypeScript</sub>
-- [fiorastudio/buddy](https://github.com/fiorastudio/buddy) - A virtual pet companion for your AI — Designed to provide in-context code review feedback with personality. Grow with your buddy and level up together. Works with Claude Code, Codex, CursorCLI… <sub>⭐ 115 · TypeScript</sub>
-- [HugoRCD/nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat) - Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI <sub>⭐ 113 · Vue</sub>
-- [ssebowa/ssebowa-UI](https://github.com/ssebowa/ssebowa-UI) - Ssebowa is an open-source generative AI platform offering free access to powerful AI models for everyone. Use 100% of revenue got from ads and apis to plant trees and give meals to children in need.… <sub>⭐ 112 · TypeScript</sub>
-- [dryor/translate-app](https://github.com/dryor/translate-app) - Translate App using TypeScript, Tailwind CSS, NextJS, Bun, shadcn/ui, AI-SDK/OpenAI, Zod, Vercel Analytics, pdf-parse. <sub>⭐ 111 · TypeScript</sub>
-- [P3GLEG/tauri-plugin-mcp](https://github.com/P3GLEG/tauri-plugin-mcp) - Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs. <sub>⭐ 109 · Rust</sub>
-- [nebrass/hve-video-director](https://github.com/nebrass/hve-video-director) - AI-powered video production pipeline for Claude Code, Github Copilot, Codex, Cursor, OpenCode and PI — 6 automated phases from design thinking to final render <sub>⭐ 107 · Python</sub>
-- [eigenpunk/ComfyUI-audio](https://github.com/eigenpunk/ComfyUI-audio) - some generative audio tools for ComfyUI <sub>⭐ 106 · Python</sub>
-- [sullyo/fingen](https://github.com/sullyo/fingen) - finance agent + with generative ui <sub>⭐ 106 · TypeScript</sub>
-- [Mrxyy/screenshot-to-page](https://github.com/Mrxyy/screenshot-to-page) - Convert screenshots, image links, or sketches into code using LLM (supporting OpenAi、 Gemini、 Qwen-VL (open-source )) technology, and transform them into web pages with the ability to deploy to the… <sub>⭐ 104 · TypeScript</sub>
+- [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - 用于运行大语言模型的 Colab gradio web UI <sub>⭐ 2.1k · Jupyter Notebook</sub>
+- [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui) - 在任何地方(Linux/Windows/Mac)用GPU或CPU上的gradio UI在本地运行任意的Llama 2。使用 lama2- wrapper 作为基因代理/ Apps 的本地 lama2 后端 。 <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - 一个与Next.js,Tailwind CSS,TypeScript一起构建的AI代理的现代聊天界面. <sub>⭐ 1.9k · TypeScript</sub>
+- [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) - 一个完整的视频字幕编辑 React组件,具有AI动力语音识别和视觉编辑能力. <sub>⭐ 1.8k · TypeScript</sub>
+- [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - React & Next.js 的登陆页面 UI 组件, 建在 TailwindCSS 上方 <sub>⭐ 1.7k · TypeScript</sub>
+- [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - 开源基因UI框架 <sub>⭐ 1.6k · TypeScript</sub>
+- [rzru/nightingale](https://github.com/rzru/nightingale) - 机器学习为卡拉OK应用提供了动力(有分数!) <sub>⭐ 1.5k · TypeScript</sub>
+- [alan345/AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate 与 tRPC 共建, 快速化和反应 <sub>⭐ 1.4k · TypeScript</sub>
+- [vercel-labs/gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - 使用 Vercel AI SDK 和 Google 双子座创建您自己的基因化 UI 聊天器 <sub>⭐ 1.4k · TypeScript</sub>
+- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - 使用 AI 生成 React 和 Tailwind 组件 <sub>⭐ 1.2k · TypeScript</sub>
+- [AGenUI/AGenUI](https://github.com/AGenUI/AGenUI) - iOS/Android/HarmonyOS的原生 A2UI 渲染器. 高性能流畅 Generative UI. Custominment 组件,样式等. <sub>⭐ 1.2k · C++</sub>
+- [Michaelliv/pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) - Claude.ai的基因UI——逆向设计,为pi重建. Interactive HTML/SVG部件在原生macOS窗口中. <sub>⭐ 1.2k · TypeScript</sub>
+- [codewithMUHILAN/Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library) - AI-native CLI- First React 组件库. 160+动画,可访问,制作准备的组件,有Cursor,Claude & GitHub Copilot的MCP服务器支持. Copy-paste架构——你拥有... <sub>⭐ 1.1k · TypeScript</sub>
+- [jezweb/claude-skills](https://github.com/jezweb/claude-skills) - Claude Code CLI的技巧,如全堆dev Cloudflare,React,Tailwind v4和AI集成. <sub>⭐ 1.0k · Python</sub>
+- [awdr74100/figwright](https://github.com/awdr74100/figwright) - 免费双向 Figma MCP 服务器。 将设计转换为框架意识代码, 并将代码推回画布。 与 Claude Code、 Cursor、 Codex 和任何 MCP 客户端一起工作 。 <sub>⭐ 962 · TypeScript</sub>
+- [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) - 专为操作安全测试Web App,API,AI集成的App和安全代码审查而设计的故意脆弱的银行应用软件. 特性是现实世界中发现的共同弱点. . <sub>⭐ 957 · HTML</sub>
+- [6551Team/claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) - 从早期的互联网设计模式到AI代理执行——开发者深潜到克劳德代码 <sub>⭐ 879 · JavaScript</sub>
+- [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls是一个轻量级规则文件,旨在帮助您最大限度地实现每月AI编码工具呼叫的值,使得您能够以更少的请求获得更多的处理. <sub>⭐ 853 · Python</sub>
+- [CopilotKit/generative-ui](https://github.com/CopilotKit/generative-ui) - AG-UI、A2UI/Open-JSON-UI和MCP Apps的基因UI实例。 <sub>⭐ 843</sub>
+- [iblai/os](https://github.com/iblai/os) - 使组织能够创建和部署自定义的AI代理,支持多个LLM提供者,实时聊天,语音,文档培训,分析,用户管理,SSO认证. <sub>⭐ 801 · TypeScript</sub>
+- [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - 金融代理商+基因UI <sub>⭐ 796 · TypeScript</sub>
+- [PrefectHQ/prefab](https://github.com/PrefectHQ/prefab) - 基因UI框架,即使是人类也可以使用. <sub>⭐ 734 · HTML</sub>
+- [mostafasadeghi97/design2code](https://github.com/mostafasadeghi97/design2code) - 将任何网页设计截图转换为清理 HTML/CSS 代码 <sub>⭐ 682 · TypeScript</sub>
+- [arturitu/the-delegation](https://github.com/arturitu/the-delegation) - 无码 3D 游乐场,用于探索、设计和与 Agentic AI 系统互动 <sub>⭐ 673 · TypeScript</sub>
+- [arinspunk/claude-talk-to-figma-mcp](https://github.com/arinspunk/claude-talk-to-figma-mcp) - 一个模型上下文协议(MCP),允许克劳德桌面和其他AI工具(Claude Code, Cursor, Antigravity等)读取,分析和修改Figma设计. <sub>⭐ 666 · TypeScript</sub>
+- [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - 与React,Tailwind CSS和Plasmo一起构建的交互式YouTube扩展,它与OpenAI API集成,可以进行实时视频聊天,提供摘要,QQA,以及上下文感知的响应. . <sub>⭐ 664 · TypeScript</sub>
+- [gridaco/assistant](https://github.com/gridaco/assistant) - 将您的图像设计和开发管道带入下一个关卡 - 其设计为代码,内置-内容管理,组件管理,以及更快设计的工具 <sub>⭐ 618 · TypeScript</sub>
+- [run-llama/chat-ui](https://github.com/run-llama/chat-ui) - 为 LLM 应用程序聊天 UI 组件 <sub>⭐ 593 · TypeScript</sub>
+- [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - 从Claude Artifact到可部署的React app——数秒! <sub>⭐ 580 · TypeScript</sub>
+- [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory) - 与克劳德(Fable 5)一起建造的开源AI接口包括英雄区段,GLSL遮蔽器,设计系统,动画,3D组件和登陆页,在React,Tailwind,以及Tree.js. Plug中... <sub>⭐ 570 · HTML</sub>
+- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame是一个开源的多模式AI系统,旨在将UI设计模型翻译为高质量的React代码,它利用视觉语言的建模,自动化的数据合成,以及结构化. . <sub>⭐ 561 · Python</sub>
+- [BoardUI/boardui](https://github.com/BoardUI/boardui) - 代理界面的反应设计系统. 每个自由的 BoardUI 组件作为源,在自己的模型密钥上有一个工作AI聊天app作为主页. <sub>⭐ 551 · TypeScript</sub>
+- [Davronov-Alimardon/canva-clone](https://github.com/Davronov-Alimardon/canva-clone) - 制作准备的图形设计 SaaS 平台,带有直观拖放编辑器,AI 驱动功能,并完成订阅管理. Built with Next.js 14, Fabric.js cause engine... <sub>⭐ 528 · TypeScript</sub>
+- [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - 与Claude合作开发AI辅助开发的综合UI/UX和后端组件设计技能 <sub>⭐ 524 · Python</sub>
+- [crafter-station/elements](https://github.com/crafter-station/elements) - 完整存储阴影/ ui 块用于认证、 支付、 AI、 标志等 <sub>⭐ 524 · TypeScript</sub>
+- [camenduru/TostUI](https://github.com/camenduru/TostUI) - 这个项目是一个基于Docker的网络用户界面的集合,旨在方便本地运行各种最新基因AI模型,它通过.简化了这些AI工具的部署. <sub>⭐ 511 · TypeScript</sub>
+- [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) - Agentic QE Fleet是一个开源的AI动力QA/QE平台,设计用于编码代理(与克劳德代码合作最好),其特点是专业代理和技能支持测试活动. . <sub>⭐ 489 · TypeScript</sub>
+- [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) - AI- powered Instagram 旋转木马构建器。 与 Claude 聊天以设计幻灯片; 在精确的 Instagram 维度导出为 PNG。 Type / start in Claude Code to bootstrap 。 <sub>⭐ 473 · TypeScript</sub>
+- [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS应用软件,主要使用Next.js,Supabase和Strede进行用户认证,订阅和支付——还整合了Vapi AI语音代理,用于无缝,互动的学习课程. <sub>⭐ 445 · TypeScript</sub>
+- [shobrook/termite](https://github.com/shobrook/termite) - 在您的终端中生成 Generative UI <sub>⭐ 419 · Python</sub>
+- [pipecat-ai/voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) - 用于快速构建React语音AI应用程序的组件,钩子和模板应用,设计支持并加速Pipecat AI开发. <sub>⭐ 418 · TypeScript</sub>
+- [kylan02/face_looker](https://github.com/kylan02/face_looker) - 生成AI-动力的凝视跟踪面像,并创建跟随光标的交互式反应组件. <sub>⭐ 414 · Python</sub>
+- [ElectricCodeGuy/SupabaseAuthWithSSR](https://github.com/ElectricCodeGuy/SupabaseAuthWithSSR) - Supabase Auth + AI Stack for Next.js 16 with SSR and React Server Parties (RSC),欢迎使用一个将Supabase SSR认证与AI能力相结合的制作准备模板:文档聊天... <sub>⭐ 397 · TypeScript</sub>
+- [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - 用于可视化AI 代理的痕迹的反射组件 <sub>⭐ 393 · TypeScript</sub>
+- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 与 LangChain Python, AI SDK & Next.js 一同构建的 Generative UI 网络应用程序 <sub>⭐ 388 · TypeScript</sub>
+- [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) - 此寄存器包含光标安全规则, 目的是在光标环境中改善开发工作流程和AI代理使用的安全性. 这些规则旨在强制安全编码... <sub>⭐ 380</sub>
+- [morpheuslord/HackBot](https://github.com/morpheuslord/HackBot) - AI驱动的网络安全聊天器旨在为您的网络安全相关询问提供有用和准确的答案,同时也进行代码分析和扫描分析. <sub>⭐ 365 · Python</sub>
+- [donghaxkim/react-rewrite](https://github.com/donghaxkim/react-rewrite) - 用于您反应应用的视觉编辑器(figma),编辑UI元素直播并直接更改源文件. no API key, no AI. <sub>⭐ 360 · TypeScript</sub>
+- [dmarman/dmarman.github.io](https://github.com/dmarman/dmarman.github.io) - Tailwind Ink是一个AI调色板生成器,以Tailwindcs的颜色训练. <sub>⭐ 352 · JavaScript</sub>
+- [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev) - 对React Industrial UI组件,动画,以及设计灵感的解析目录. AI通过OpenAI Codex协助摄入. <sub>⭐ 350 · TypeScript</sub>
+- [supercorp-ai/superinterface](https://github.com/supercorp-ai/superinterface) - SuperInterface是一个AI助手库,用于在您的应用程序或网站上构建AI能力. 您使用 React 组件和钩子来构建基于AI- First 的助理界面,比如聊天和... <sub>⭐ 346 · TypeScript</sub>
+- [chaos-xxl/zelda-hyrule-ui](https://github.com/chaos-xxl/zelda-hyrule-ui) - Zelda BOTW风格 React UI 组件库——84个组件带有Sheikah发光效果,暗色主题,以及AI-消耗性设计规格(Cursor/v0准备) <sub>⭐ 339 · HTML</sub>
+- [olyaiy/resume-lm](https://github.com/olyaiy/resume-lm) - 开源AI恢复建设者 • Next.js 15, React 19, Tailwind CSS • 分钟内裁剪工作准备状态的恢复. <sub>⭐ 329 · TypeScript</sub>
+- [beany-vu/michi-vz-mono](https://github.com/beany-vu/michi-vz-mono) - React, Angular, Vue, Svelte 和 Web 组件的 D3 图表 — SVG/ Canvas/ WebGPU 和内置的编译工具 <sub>⭐ 325 · TypeScript</sub>
+- [vortico/flama](https://github.com/vortico/flama) - 预测和基因AI的制作框架. 将任何型号作为API在一行中,带有OpenAI/Anthropic/Olama兼容端点,内置聊天UI,以及本土MCP. <sub>⭐ 299 · Python</sub>
+- [huangjia2019/agent-design-patterns](https://github.com/huangjia2019/agent-design-patterns) - 代理架构的7×6框架. 28个模式,每个模式放在一个坐标,可运行的 Python 代码上,上面有来自Claude Code, Aider, OpenHands, DeerFlow的经过验证的工程切片. Companions to... <sub>⭐ 294 · HTML</sub>
+- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 与 LangChain.js, AI SDK & Next.js 一起构建的 Generative UI 网络应用程序 <sub>⭐ 292 · TypeScript</sub>
+- [nolly-studio/ai-chatbot-supabase](https://github.com/nolly-studio/ai-chatbot-supabase) - 一个全功能的,可以黑客化的 Next.js x Supabase AI聊天器. Vercel 建造的原版叉 <sub>⭐ 289 · TypeScript</sub>
+- [IamLiuLv/compoder](https://github.com/IamLiuLv/compoder) - Compoder是一个开源的AI动力组件代码生成引擎,将现代前端技术堆栈与各种AI模型能力融合在一起. 你可以自定义Compoder以创建AI动力... <sub>⭐ 288 · TypeScript</sub>
+- [upstash/rag-chat-component](https://github.com/upstash/rag-chat-component) - RAG启用的AI助理的反应组件 <sub>⭐ 276 · TypeScript</sub>
+- [yuvraj108c/ComfyUI-FLOAT](https://github.com/yuvraj108c/ComfyUI-FLOAT) - 用于音频驱动的演讲画像的 Generative Motion Latent Flow匹配 <sub>⭐ 272 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [narnia-sh/layrr](https://github.com/narnia-sh/layrr) - 一个浏览器编码代理界面,用于选择元素并直接向克劳德代码发送指令. <sub>⭐ 266 · TypeScript</sub>
+- [Hainrixz/editor-pro-max](https://github.com/Hainrixz/editor-pro-max) - 由@soyenriquerocha(用Remotion + Claude Code建造)的AI动力视频编辑器,用自然语言描述视频,获得专业的MP4. 25个组件,9个模板,7个技能. <sub>⭐ 257 · TypeScript</sub>
+- [dearabhin/gemini-watermark-remover](https://github.com/dearabhin/gemini-watermark-remover) - 一个高性能,100%的客户端工具,用于从AI图像和Veo视频中移除可见的Google双子脑AI闪光水印. Vue 3 + Vite + Tailwind CSS,它使用一个... <sub>⭐ 255 · HTML</sub>
+- [philholden/partialupdate](https://github.com/philholden/partialupdate) - 在多用户聊天中进行Generative UI. 一个可以编辑它拥有HTML,CSS和JS的聊天机器人. <sub>⭐ 253 · TypeScript</sub>
+- [unlayer/react-image-editor](https://github.com/unlayer/react-image-editor) - React 的图像编辑器组件——裁剪、大小调整、过滤、绘图、文本、形状、贴纸、帧和一个AI助理 <sub>⭐ 251 · TypeScript</sub>
+- [thehimel/cursor-rules-and-prompts](https://github.com/thehimel/cursor-rules-and-prompts) - 一套全面,开源的规则和提示集,旨在指导光标AI生成更好,更一致的代码. 增强代码质量,执行编码标准,并精简. <sub>⭐ 249 · Shell</sub>
+- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - 开源Claude代理技能,教克劳德代码,Claude桌面 & Claude AI用Remotion创建和编辑专业运动图形视频. AI视频编辑,B-roll,字幕,音效... <sub>⭐ 247 · TypeScript</sub>
+- [smthemex/ComfyUI_InstantIR_Wrapper](https://github.com/smthemex/ComfyUI_InstantIR_Wrapper) - 您可以在 ComfyUI,InstantIR, Blind 图像修复中以即时基因参考格式对上sacel 图像进行即时处理 <sub>⭐ 242 · Python</sub>
+- [hypersocialinc/shots](https://github.com/hypersocialinc/shots) - Claude Code/ Agent Skill 制作 App Store 截图时, 可以上传到 GPT Image 2 。 给它您的 App Store 链接和截图, 它将会生产美丽的 App store... <sub>⭐ 241 · JavaScript</sub>
+- [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - 与 React 19 的 Plate AI模板,下16, Tailwind 4, MCP. <sub>⭐ 240 · TypeScript</sub>
+- [s-smits/ui-screenshot-to-prompt](https://github.com/s-smits/ui-screenshot-to-prompt) - ui-screetshot-to-prompt是一个AI动力工具,它分析UI图像为AI编码器生成详细的提示. 它使用计算机视觉和自然语言处理来分解UI组件. . <sub>⭐ 237 · Python</sub>
+- [vixues/LeAgent](https://github.com/vixues/LeAgent) - 获得工作完成的开源桌面AI代理——计划与自我修正,代理视觉工作流程,基因UI,以及一个可自宿的堆栈中的100+离线工具. <sub>⭐ 230 · Python</sub>
+- [secondsky/claude-skills](https://github.com/secondsky/claude-skills) - Claude Code CLI - Cloudflare, React, Tailwind v4和AI集成的制作准备技能 <sub>⭐ 226 · TypeScript</sub>
+- [bracesproul/gen-ui-computer-use](https://github.com/bracesproul/gen-ui-computer-use) - 用于与计算机使用代理交互的 Generative UI 应用程序 <sub>⭐ 225 · TypeScript</sub>
+- [theexperiencecompany/gaia-ui](https://github.com/theexperiencecompany/gaia-ui) - 设计精美的建筑AI Agents组件 <sub>⭐ 222 · TypeScript</sub>
+- [Glade-tool/glade-mcp](https://github.com/Glade-tool/glade-mcp) - 连接任何 MCP 兼容的 AI 客户端( Claude Code, Cursor, Windsurf) 到 Unity 或 Godot. 275+ 颗粒工具, 一个编辑器意识系统即时, 游戏设计文件项目上下文, 脚本语义... <sub>⭐ 221 · C#</sub>
+- [reaviz/reachat](https://github.com/reaviz/reachat) - 用于 LLM/Chat UI 的 UI 建构块。 由 @ goodcodeus 维护 。 <sub>⭐ 221 · TypeScript</sub>
+- [johan-akerman/SpotifyTranscripts](https://github.com/johan-akerman/SpotifyTranscripts) - AI为播客制作了字幕和片断章节 <sub>⭐ 220 · JavaScript</sub>
+- [HenryLach/taskplane](https://github.com/HenryLach/taskplane) - 多代理AI编码管弦系统,旨在以高透明度驱动成功的编码结果(比暗构更认为轻构). <sub>⭐ 217 · TypeScript</sub>
+- [zwgnr/BaseLayer](https://github.com/zwgnr/BaseLayer) - 在React Aria和TailwindCSS上建造的可重复使用的多部分组件. <sub>⭐ 205 · TypeScript</sub>
+- [blackboardsh/colab](https://github.com/blackboardsh/colab) - Co(lab)是一个混合网络浏览器+本地代码编辑器,其集成PTY终端和AI为需要快速移动的启动构建者设计. <sub>⭐ 204 · TypeScript</sub>
+- [Ratna-Babu/Ai-Website-Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - 与AI一起即时创建美丽,反应迅速的网站. 这个AI动力的网站构建器将自然语言的提示转换成完全功能性的React组件,使用Next.js,Tailwind CSS和. <sub>⭐ 204 · JavaScript</sub>
+- [zeus-12/uxie](https://github.com/zeus-12/uxie) - pdf的读者应用,并附有注意,说明,协作,ai功能(聊天,闪卡生成w. ai-feedbacks), tts和ocr. <sub>⭐ 197 · TypeScript</sub>
+- [piyush-eon/ai-finance-platform](https://github.com/piyush-eon/ai-finance-platform) - Full Stack AI Fianace平台 下一期JS,Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 等 互联网档案馆的存檔,存档日期2013-03-02. <sub>⭐ 188 · JavaScript</sub>
+- [joelhooks/opencode-vibe](https://github.com/joelhooks/opencode-vibe) - Next.js 16 web UI for OpenCode - 实时聊天,与流线,SSE同步,以及 React 服务器组件 <sub>⭐ 180 · TypeScript</sub>
+- [molefrog/moi](https://github.com/molefrog/moi) - MOI: 代理- 不可知的基因UI 工作空间。 给您的代理一个技能, 让它围绕自己构建软件 。 <sub>⭐ 179 · TypeScript</sub>
+- [enescingoz/roocode-workspace](https://github.com/enescingoz/roocode-workspace) - roocode-workspace寄存器是一个项目模板,旨在使用Roo代码简化开发工作流程,它整合了SPARC的管弦方式和记忆库功能,以提供... <sub>⭐ 178</sub>
+- [Ge-limin/shad-expo-studio](https://github.com/Ge-limin/shad-expo-studio) - 用于 Expo/ React Independent UI 组件的视觉回归工作室:确定性实例生成故事本故事和chromatic基线,一个组件树在iOS、Android和Web上制作。不是... <sub>⭐ 177 · TypeScript</sub>
+- [jsmastery-pro/e-commerce](https://github.com/jsmastery-pro/e-commerce) - 耐克风格的eCommerce与Devin AI,Next.js,TS,Tailwind,和Better Auth一起建造. 特性产品页面,推车,以及整合了Strepe支付和Neon PostgreSQL/Drizzle后端的退货. Nike... <sub>⭐ 177 · TypeScript</sub>
+- [rand/cc-polymath](https://github.com/rand/cc-polymath) - Claude Code技能和工作流程,优化了环境效率和技能质量. 技能从云基础设施到设计到高级数学. <sub>⭐ 177 · Python</sub>
+- [1337hero/faster-chat](https://github.com/1337hero/faster-chat) - 一个快速的, 隐私先打开的 AI 聊天界面( O) <sub>⭐ 174 · JavaScript</sub>
+- [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - 用于构建基因UI应用的工具和模板. Mobile-first,优化为Expo. <sub>⭐ 171 · TypeScript</sub>
+- [opentiny/genui-sdk](https://github.com/opentiny/genui-sdk) - Vue, Angular 的 Generative UI SDK 软件 <sub>⭐ 171 · TypeScript</sub>
+- [THU-MAIC/MAIC-UI](https://github.com/THU-MAIC/MAIC-UI) - MAIC-UI( 制作与 Generative UI 的交互式课程软件) <sub>⭐ 171 · Python</sub>
+- [seehiong/md-editor-pro](https://github.com/seehiong/md-editor-pro) - Markdown编辑器 Pro — 一个强大,特性丰富的markdown编辑器,有直播预览,LaTeX数学支持,GitHub启发式风格,以及无缝集成React Apps. Built with React, TypeScript... <sub>⭐ 167 · TypeScript</sub>
+- [SujalXplores/v0.diy](https://github.com/SujalXplores/v0.diy) - 使用 AI 驱动 React 组件生成的 v0. app 的开源替代品 <sub>⭐ 166 · TypeScript</sub>
+- [paiml/paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit) - 实用AI Labs MCP代理工具箱 - 一个MCP服务器,旨在让与代理的代码更具决定性性 <sub>⭐ 164 · Rust</sub>
+- [piyush-eon/ai-career-coach](https://github.com/piyush-eon/ai-career-coach) - Full Stack AI职业教练与下届JS,Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 教习 <sub>⭐ 163 · JavaScript</sub>
+- [Shreyas-29/vetra](https://github.com/Shreyas-29/vetra) - 现代AI营销自动化平台登陆页面与Next.js 15,Tailwind CSS,以及Frammer Motion一同构建 <sub>⭐ 163 · TypeScript</sub>
+- [seehiong/multi-model-chat](https://github.com/seehiong/multi-model-chat) - 多模式聊天(Multi-Model Chat) — 实时比较多个AI模型的响应. 支持GBT,克劳德,米斯特拉尔,以及本地模型(Ollama). 建置有React, TypeScript,和Tailwind CSS. <sub>⭐ 160 · TypeScript</sub>
+- [Ltamann/ComfyUI-TBG-ETUR](https://github.com/Ltamann/ComfyUI-TBG-ETUR) - TBG 增强式倾斜升降器和炼油器升级器可达200MP,有精确的控制功能. 它具有双模型处理(结构+细节)的特点,每像素去诺化以控制在应用创造力的地方. . <sub>⭐ 159 · Python</sub>
+- [if-ai/ComfyUI-IF_LLM](https://github.com/if-ai/ComfyUI-IF_LLM) - 运行本地和API LLM, 特性双子座图像生成, DEEPSEEK R1, QuenVL2.5, QWQ32B, Ollama, LlamaCPP LMstudio, Koboldcpp, TextGen, Transformers 或者通过APIs Anthropic, Groq, OpenAI, Google... <sub>⭐ 158 · Python</sub>
+- [kvnkld/aicss](https://github.com/kvnkld/aicss) - AICSS React 组件和CLI. website: aics.dev (中文(简体) ). <sub>⭐ 158 · TypeScript</sub>
+- [irahardianto/awesome-agv](https://github.com/irahardianto/awesome-agv) - 一整套旨在提高AI编码代理能力的标准和做法。 <sub>⭐ 157 · JavaScript</sub>
+- [gonzaroman/acornix](https://github.com/gonzaroman/acornix) - 手机上的 Vibe 编码。 您手机中一个模块化的、自动的 AI 驱动系统, 用于控制设备并自动完成复杂任务, 在秒内创建应用程序。 如果您可以... <sub>⭐ 150 · Python</sub>
+- [JoshithReddyAleti/AI_Engineer_Interview_Prep](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep) - MAANG级AI Engineer的采访预图为AI Engineering路线图2026通讯. 深概念,编码,系统设计和行为问题都有详细答案. Covers LLMS, Python... <sub>⭐ 148</sub>
+- [ahpxex/open-dashboard](https://github.com/ahpxex/open-dashboard) - 36个可复制的管理员UI的技巧目录将AI代理器塑造为安装并编程为真正的后台. 建于TanStack Start, Drizzle + 更好的Auth, Shadcn + Tailwind v4上. <sub>⭐ 146 · TypeScript</sub>
+- [gdarko/laravel-vue-starter](https://github.com/gdarko/laravel-vue-starter) - AI-内置Laravel/Vue锅炉板. Tailwind + DaisyUI, Sanctum, Fortify, Pinia. 建造内置代理技能 Claude Code, Cursor, Copilot, 双子座 & Junie. <sub>⭐ 146 · PHP</sub>
+- [amitkumardemo/EdgeCareer](https://github.com/amitkumardemo/EdgeCareer) - EdgeCareer – AI-Powered职业教练 Full Stack AI职业教练用React 19 + Next.js 15,Tailwind CSS,NeonDB,Prisma,办事员认证,Inngest,双子座API和Shadcn UI. A. <sub>⭐ 142 · JavaScript</sub>
+- [Haaaiawd/ANWS](https://github.com/Haaaiawd/ANWS) - 一个用于AI辅助开发的光谱驱动工作流程框架. 授权工程师通过结构化的PRD_架构_任务分解来构建生产准备软件. 设计的目的是... <sub>⭐ 142 · Python</sub>
+- [polyfact/polyfire-js](https://github.com/polyfact/polyfire-js) - AI 组件的反应库 <sub>⭐ 140 · JavaScript</sub>
+- [SergioRibera/sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot): CLI/Lib 与精选的 ui 和 OCR 内置的代码或屏幕一起拍摄惊人的截图 <sub>⭐ 138 · Rust</sub>
+- [SALT-NLP/GenUI](https://github.com/SALT-NLP/GenUI) - 文件代码:语言模型的基因接口 <sub>⭐ 137 · TypeScript</sub>
+- [smashing-team/smashing.tools](https://github.com/smashing-team/smashing.tools) - 精装集了最好的启动器套件,UI组件,设计套件,AI & Dev工具. <sub>⭐ 134 · TypeScript</sub>
+- [agentailor/fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) - 制作准备 Next.js 模板,用于使用 LangGraph.js 构建AI 代理. Features MCP 集成,用于动态工具加载,人入Loop 工具批准,与... <sub>⭐ 132 · TypeScript</sub>
+- [victorcodess/nexus-ui](https://github.com/victorcodess/nexus-ui) - 美丽,可定制的组件用于现代AI体验. <sub>⭐ 132 · TypeScript</sub>
+- [narrowin/awesome-generative-ui](https://github.com/narrowin/awesome-generative-ui) - AI生成的用户界面资源目录——LLMs动态创建,编译和渲染UI组件的系统. <sub>⭐ 131</sub>
+- [techwolf-ai/ai-first-toolkit](https://github.com/techwolf-ai/ai-first-toolkit) - 开源Claude Code和Codex技能用于AI-First工作. 审计,再设计,以及带有AI-First设计原理的靴子套项目. <sub>⭐ 130 · Python</sub>
+- [CopilotKit/generative-ui-playground](https://github.com/CopilotKit/generative-ui-playground) - 与所有三种基因UI交互,都在一个界面中 <sub>⭐ 127 · HTML</sub>
+- [TechMitten/Tips-Tricks-for-Agentic-Coder](https://github.com/TechMitten/Tips-Tricks-for-Agentic-Coder) - 一个综合资源,旨在帮助开发者有效利用AI工具来开发网站,应用软件,以及其他项目. <sub>⭐ 127</sub>
+- [zerodays/react-native-gen-ui](https://github.com/zerodays/react-native-gen-ui) - 一个用于 React Industrial 的 Generative UI 库. <sub>⭐ 124 · TypeScript</sub>
+- [agents-ui/agents-kit](https://github.com/agents-ui/agents-kit) - 在一个工具包中为语音代理,聊天,和基因UI的源代码LiveKit, 11Labs, 和OrbKit 的响应组件。 复制源代码并将其变成您的源代码 。 <sub>⭐ 122 · TypeScript</sub>
+- [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) - 这是LatteReview python软件包的寄存器. LatteReview是一个低码Python软件包,旨在通过AI动力代理实现系统文献审查过程自动化. <sub>⭐ 121 · Jupyter Notebook</sub>
+- [jhartquist/claude-remotion-kickstart](https://github.com/jhartquist/claude-remotion-kickstart) - 与 Claude 代码和 remotion 程序创建视频 <sub>⭐ 120 · TypeScript</sub>
+- [fiorastudio/buddy](https://github.com/fiorastudio/buddy) - 一个虚拟的宠物伴侣, 用于您的 AI —— 设计以提供包含个性的内文本代码审查反馈。 与你的伙伴一起成长, 并一起升级。 用 Claude Code, Codex, cursorCLI 工作... <sub>⭐ 115 · TypeScript</sub>
+- [HugoRCD/nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat) - 使用 aisdk v5 的 Nuxt UI app: 流传 AI 聊天,多模式支持, AI Gateway, 和基因化 UI <sub>⭐ 113 · Vue</sub>
+- [ssebowa/ssebowa-UI](https://github.com/ssebowa/ssebowa-UI) - Ssebowa是一个开放源码的AI平台,为每个人提供免费的AI模型. 将广告和APIS获得的收入100%用于植树,为有需要的儿童提供膳食. <sub>⭐ 112 · TypeScript</sub>
+- [dryor/translate-app](https://github.com/dryor/translate-app) - 使用TypeScript,Tailwind CSS,NextJS,Bun,Shadcn/ui,AI-SDK/OpenAI,Zod,Vercel Analytics,pdf-parse翻译App. <sub>⭐ 111 · TypeScript</sub>
+- [P3GLEG/tauri-plugin-mcp](https://github.com/P3GLEG/tauri-plugin-mcp) - 允许AI代理(如Cursor,Claude Code)通过截图抓取,窗口管理,DOM访问以及模拟用户输入,在Tauri应用内部调试. <sub>⭐ 109 · Rust</sub>
+- [nebrass/hve-video-director](https://github.com/nebrass/hve-video-director) - Claude Code、Github Compilot、Codex、Cursor、OpenCode和PI的AI动力视频制作管道——从设计思维到最终渲染的6个自动化阶段 <sub>⭐ 107 · Python</sub>
+- [eigenpunk/ComfyUI-audio](https://github.com/eigenpunk/ComfyUI-audio) - ComfyUI 的一些基因音频工具 <sub>⭐ 106 · Python</sub>
+- [sullyo/fingen](https://github.com/sullyo/fingen) - 财务代理商+带有基因ui <sub>⭐ 106 · TypeScript</sub>
+- [Mrxyy/screenshot-to-page](https://github.com/Mrxyy/screenshot-to-page) - 使用LLM(支持OpenAi,双子座,Quen-VL(开源))技术将截图,图像链接或草图转换成代码,并将其转换为网页,并有能力部署到. <sub>⭐ 104 · TypeScript</sub>
 
 ## 💬 面向 Web 的 AI 工具包与 SDK
 
 > 把聊天、流式输出和智能体集成到 Web 应用中的库。
 
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. <sub>⭐ 132.6k · Python</sub>
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent / Customize your assistants / Team them up｜Star if you like it! <sub>⭐ 33.3k · TypeScript</sub>
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. <sub>⭐ 29.8k · TypeScript</sub>
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 一个AI技能,为跨越多个平台建设专业UI/UX提供设计智能. <sub>⭐ 132.6k · Python</sub>
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - OpenClaw, Hermes, Claude Code, Codex, OpenCode 和 20+ 更多 CLI 代理 / 自定义您的助手 / Team them up_%Star 如果您喜欢的话! <sub>⭐ 33.3k · TypeScript</sub>
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim是构建,部署,以及监控AI代理和工作流程的合作工作空间. 被10万+建设者使用. <sub>⭐ 29.8k · TypeScript</sub>
 - [vercel/ai](https://github.com/vercel/ai) - TypeScript的AI工具箱. From the Creatives of Next.js, AI SDK是一个免费的开源库,用于构建AI动力应用程序和代理 <sub>⭐ 27.1k · TypeScript</sub>
-- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel <sub>⭐ 21.0k · TypeScript</sub>
-- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI. <sub>⭐ 15.3k · Python</sub>
-- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat <sub>⭐ 12.4k · TypeScript</sub>
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat <sub>⭐ 11.0k · TypeScript</sub>
-- [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. <sub>⭐ 5.4k · Rust</sub>
-- [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. <sub>⭐ 4.4k · TypeScript</sub>
-- [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). <sub>⭐ 3.6k · TypeScript</sub>
-- [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - Web app for interacting with any LangGraph agent (PY & TS) via a chat interface. <sub>⭐ 3.2k · TypeScript</sub>
-- [TanStack/ai](https://github.com/TanStack/ai) - Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid. <sub>⭐ 3.2k · TypeScript</sub>
+- [vercel/chatbot](https://github.com/vercel/chatbot) - Vercel公司打造的全功能,可黑客化的 Next.js AI聊天器 <sub>⭐ 21.0k · TypeScript</sub>
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - ChatGPT API 和许多 LLMs 的 GUI。 支持代理, 基于文件的QA, GPT 微调并使用网络搜索进行查询。 全部使用整齐的 UI 。 <sub>⭐ 15.3k · Python</sub>
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - AI 聊天的打字/反应库 <sub>⭐ 12.4k · TypeScript</sub>
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - 开源代码库为HuggingChat提供动力 <sub>⭐ 11.0k · TypeScript</sub>
+- [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - 一个高性能的LLM推论API和Chat UI将DeepSeek R1的CoT推理痕迹与Anthropic Claude模型融合. <sub>⭐ 5.4k · Rust</sub>
+- [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - 开源AI销售OS——自办CRM与本地AI代理+WhatsApp(WAHA). Octadesk & Intercom的开放替代品,用于任何通过聊天进行销售的业务. MCP-准备,多租户,LGPD. <sub>⭐ 4.4k · TypeScript</sub>
+- [deta/surf](https://github.com/deta/surf) - 个人 AI Notebooks. 组织文件和网页并从中生成注释. 开源,本地和开放数据,开放式模型选择(包括本地). <sub>⭐ 3.6k · TypeScript</sub>
+- [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 通过聊天界面与任何 LangGraph 代理( PY & TS) 交互的 Web 应用程序 。 <sub>⭐ 3.2k · TypeScript</sub>
+- [TanStack/ai](https://github.com/TanStack/ai) - 类型安全,提供-不可知的TypeScript AI SDK用于流式聊天,工具调用,代理,以及跨OpenAI,Anthropic,双子座,React,Vue,Svelte,和Solid的多式联运应用. <sub>⭐ 3.2k · TypeScript</sub>
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - AI应用程序的多帧流式Markdown渲染器:Vue/Nuxt,React/Next.js,Svelte,和Angular,配有美人鱼,KaTeX,流式diffs代码块,安全HTML,以及低热量更新. <sub>⭐ 3.0k · Vue</sub>
-- [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) - GraphRAG using Local LLMs - Features robust API and multiple apps for Indexing/Prompt Tuning/Query/Chat/Visualizing/Etc. This is meant to be the ultimate GraphRAG/KG local LLM app. <sub>⭐ 2.3k · Python</sub>
-- [alfredfrancis/ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence. <sub>⭐ 2.2k · TypeScript</sub>
-- [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP / 更好的 AI 客户端 <sub>⭐ 1.8k · TypeScript</sub>
-- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework. <sub>⭐ 1.6k · Python</sub>
-- [openilink/openilink-hub](https://github.com/openilink/openilink-hub) - 开源微信 Bot 管理平台 + App 应用市场 / Self-hosted WeChat Bot Platform with App Marketplace / Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps / AI Tools / 7 Language SDKs <sub>⭐ 1.6k · Go</sub>
-- [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. <sub>⭐ 1.5k · Go</sub>
-- [afx-team/petercat](https://github.com/afx-team/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories <sub>⭐ 1.5k · TypeScript</sub>
-- [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs <sub>⭐ 1.4k · TypeScript</sub>
-- [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility <sub>⭐ 1.4k · TypeScript</sub>
-- [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer <sub>⭐ 1.3k · JavaScript</sub>
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation. <sub>⭐ 1.2k · TypeScript</sub>
-- [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations. <sub>⭐ 1.1k · TypeScript</sub>
-- [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway. <sub>⭐ 1.1k · TypeScript</sub>
-- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate… <sub>⭐ 1.1k · Python</sub>
-- [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI. <sub>⭐ 1.0k · TypeScript</sub>
-- [agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS) - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude… <sub>⭐ 971 · Rust</sub>
-- [ChatbotXIO/ChatbotX](https://github.com/ChatbotXIO/ChatbotX) - Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Telegram, Zalo, Email, API, and Webchat <sub>⭐ 862 · TypeScript</sub>
-- [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient… <sub>⭐ 854 · Vue</sub>
-- [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows. <sub>⭐ 826 · TypeScript</sub>
-- [aws-samples/aws-lex-web-ui](https://github.com/aws-samples/aws-lex-web-ui) - Sample Amazon Lex chat bot web interface <sub>⭐ 817 · JavaScript</sub>
-- [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit) - Beautifully designed chatbot components based on shadcn/ui <sub>⭐ 804 · TypeScript</sub>
-- [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors! <sub>⭐ 773 · Rust</sub>
-- [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and… <sub>⭐ 748 · Vue</sub>
-- [frontman-ai/frontman](https://github.com/frontman-ai/frontman) - The AI agent that lives in your framework/browser <sub>⭐ 708 · ReScript</sub>
-- [LibreChat-AI/docs](https://github.com/LibreChat-AI/docs) - Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai <sub>⭐ 672 · MDX</sub>
-- [runvendo/vendo](https://github.com/runvendo/vendo) - Embedded agents your customers use to automate work, build views, and connect their tools. <sub>⭐ 628 · TypeScript</sub>
-- [Nigh/show-me-the-story](https://github.com/Nigh/show-me-the-story) - Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese & English. <sub>⭐ 607 · Go</sub>
-- [alan-ai/alan-sdk-reactnative](https://github.com/alan-ai/alan-sdk-reactnative) - The Self-Coding System for Your App — Alan AI SDK for React Native <sub>⭐ 574 · Ruby</sub>
-- [dappros/ethora](https://github.com/dappros/ethora) - SDK monorepo for Ethora chat / messaging platform. (1) Pick an SDK for your frontend stack. (2) Integrate manually or using ethora-setup. (3) Optionally configure app settings, deploy AI agents etc.… <sub>⭐ 548 · JavaScript</sub>
-- [Merit-Systems/echo](https://github.com/Merit-Systems/echo) - The User Pays AI SDK <sub>⭐ 546 · TypeScript</sub>
-- [ibrahimqureshae/mdflux](https://github.com/ibrahimqureshae/mdflux) - Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models. <sub>⭐ 539 · Python</sub>
-- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) - Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) <sub>⭐ 537 · Rust</sub>
-- [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps. <sub>⭐ 535 · TypeScript</sub>
-- [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit) - Self-hosted Lovable/v0 alternative. Realtime database & storage included. <sub>⭐ 523 · Svelte</sub>
-- [wataru-maeda/react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - Production-ready React Native boilerplate for iOS, Android, and Web with Expo SDK 54, React 19.1, Expo Router v6, Redux Toolkit, TypeScript, and AI-optimized development (Claude/Cursor). Features… <sub>⭐ 517 · TypeScript</sub>
-- [epam/ai-dial-chat](https://github.com/epam/ai-dial-chat) - A default UI for AI DIAL <sub>⭐ 504 · TypeScript</sub>
-- [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel <sub>⭐ 443 · Svelte</sub>
-- [Duelion/homebox-companion](https://github.com/Duelion/homebox-companion) - AI-powered companion for Homebox. Snap photos and let AI auto-identify and catalog items into your inventory, then use the AI Chat to organize, search, and update your inventory effortlessly. <sub>⭐ 391 · Python</sub>
-- [synergycodes/workflowbuilder](https://github.com/synergycodes/workflowbuilder) - Workflow Builder - Apache 2.0 React SDK for embedding visual workflow editors. Drag-and-drop workflow builder UI with a reference back-end and an execution engine swappable by design, proven with… <sub>⭐ 387 · TypeScript</sub>
-- [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat) - A modern AI chat starter kit built with Laravel, featuring real-time streaming responses using Prism, Inertia.js, Vue.js, and TailwindCSS. <sub>⭐ 383 · PHP</sub>
-- [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK. <sub>⭐ 375 · Vue</sub>
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted. <sub>⭐ 365 · TypeScript</sub>
-- [lovstudio/Ataru](https://github.com/lovstudio/Ataru) - High-performance AI memory retrieval for local agent history — a Rust search core (SDK / API / JSON CLI) plus a desktop GUI. Tantivy + Jieba keyword search, optional semantic recall, stable… <sub>⭐ 358 · Rust</sub>
-- [boringcomputers/nehemiah](https://github.com/boringcomputers/nehemiah) - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them. <sub>⭐ 335 · TypeScript</sub>
-- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more. <sub>⭐ 331 · Svelte</sub>
-- [sveltejs/ai-tools](https://github.com/sveltejs/ai-tools) - The official svelte MCP for all your agentic needs. <sub>⭐ 330 · TypeScript</sub>
-- [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a unofficial port of Vercel AI Elements, built on top of shadcn-svelte. <sub>⭐ 318 · Svelte</sub>
-- [nirholas/cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) - Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable… <sub>⭐ 317 · TypeScript</sub>
-- [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) - Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. <sub>⭐ 313 · Python</sub>
-- [RunanywhereAI/on-device-browser-agent](https://github.com/RunanywhereAI/on-device-browser-agent) - On-device AI browser automation using WebLLM. No cloud, no API keys, fully private. <sub>⭐ 302 · TypeScript</sub>
-- [VietnamAIHub/Vietnamese_LLMs](https://github.com/VietnamAIHub/Vietnamese_LLMs) - Dự án bao gồm: 1. Xây dựng bộ dữ Instructions Vietnamese (chất lượng, nhiều, và đa dạng). 2.LLM Training, Finetuning, Evaluating & Testing trên Open-source mô hình ngôn ngữ: Bloomz,T5, UL2, LLaMA… <sub>⭐ 287 · Python</sub>
-- [logisky/LogiSheets](https://github.com/logisky/LogiSheets) - LogiSheets is an AI-friendly spreadsheet application that is compatible with Excel and a good place where human and AI work together. <sub>⭐ 279 · Rust</sub>
-- [firecrawl/mendable-nextjs-chatbot](https://github.com/firecrawl/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable <sub>⭐ 277 · TypeScript</sub>
-- [rodrigogs/whats-reader](https://github.com/rodrigogs/whats-reader) - Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron. <sub>⭐ 272 · TypeScript</sub>
-- [TGlide/novel-svelte](https://github.com/TGlide/novel-svelte) - Notion-style WYSIWYG editor with AI-powered autocompletion. <sub>⭐ 272 · CSS</sub>
-- [AnyiWang/OpenCovibe](https://github.com/AnyiWang/OpenCovibe) - Local-first desktop app for AI coding agents (Claude Code, Codex). Built with Tauri v2 + Svelte 5. <sub>⭐ 270 · Rust</sub>
-- [agnosticeng/agx](https://github.com/agnosticeng/agx) - AI Powered Analytics <sub>⭐ 263 · Svelte</sub>
-- [grafana/ai-sdk](https://github.com/grafana/ai-sdk) - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react <sub>⭐ 258 · Go</sub>
-- [smalltong02/keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality. <sub>⭐ 252 · Python</sub>
-- [yanhanruan/Mutsumi](https://github.com/yanhanruan/Mutsumi) - Mutsumi (睦) : Lightweight AI desktop companion built with Tauri 2 and Rust, featuring global audio awareness, mini music controls, and AI character chat. <sub>⭐ 239 · Rust</sub>
-- [henrycunh/golem](https://github.com/henrycunh/golem) - A beautiful UI for ChatGPT and other conversational models <sub>⭐ 234 · Vue</sub>
-- [southleft/story-ui](https://github.com/southleft/story-ui) - AI-powered Storybook story generator — works with any framework, any design system, any LLM provider <sub>⭐ 230 · TypeScript</sub>
-- [davis7dotsh/river](https://github.com/davis7dotsh/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box) <sub>⭐ 228 · TypeScript</sub>
-- [peintune/runjam](https://github.com/peintune/runjam) - One desktop for all your AI coding Agent — Claude Code, Codex CLI & Gemini CLI. Auto-detect, one-click install, unified chat, file explorer, terminal & editor. Local-first. Built with Tauri + Rust +… <sub>⭐ 228 · Rust</sub>
-- [Razz19/Exort](https://github.com/Razz19/Exort) - Exort is a coding agent for embedded devices <sub>⭐ 228 · Svelte</sub>
-- [firecrawl/rag-arena](https://github.com/firecrawl/rag-arena) - Open-source RAG evaluation through users' feedback <sub>⭐ 221 · TypeScript</sub>
-- [llm-ring/lmring](https://github.com/llm-ring/lmring) - Open-source, self-hostable LLM arena with model compare, voting, and leaderboards <sub>⭐ 221 · TypeScript</sub>
-- [zakkor/llum](https://github.com/zakkor/llum) - A fast, light, open chat UI with full tool use support across many models <sub>⭐ 220 · Svelte</sub>
-- [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more. <sub>⭐ 216 · Svelte</sub>
-- [innFactory/react-native-dialogflow](https://github.com/innFactory/react-native-dialogflow) - A React-Native Bridge for the Google Dialogflow (API.AI) SDK <sub>⭐ 205 · JavaScript</sub>
-- [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - Rich text editor (WYSIWYG) written in Svelte, build on top of tiptap, prosemirror, AI prompt integrated. Dark/Light theme support <sub>⭐ 204 · Svelte</sub>
-- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors. <sub>⭐ 200 · TypeScript</sub>
-- [pyrate-llama/hermes-ui](https://github.com/pyrate-llama/hermes-ui) - The command center for Hermes Agent — chat, steer, browse files, manage skills, and monitor everything from a single glassmorphic HTML app. <sub>⭐ 199 · HTML</sub>
-- [activated-intelligence/voice-chat](https://github.com/activated-intelligence/voice-chat) - 100% in-browser, hands-free AI voice chat using Whisper, WebLLM, and Supertonic TTS <sub>⭐ 197 · TypeScript</sub>
-- [CNSeniorious000/free-chat](https://github.com/CNSeniorious000/free-chat) - An elegant LLM chat UI forked from chatgpt-demo of @anse-app. Index site at https://free-chat.asia <sub>⭐ 196 · TypeScript</sub>
-- [TheSyart/emperor-agent](https://github.com/TheSyart/emperor-agent) - Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry. <sub>⭐ 194 · TypeScript</sub>
-- [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo) - Monorepo with AI goodies / LLM Chat / Hono + OpenAPI & RPC, Nuxt, Convex, SST Ion, WorkOS AuthKit, Tanstack Query, Shadcn, UnoCSS, Spreadsheet I18n, Lingo.dev, grammY Telegram Bot <sub>⭐ 191 · Vue</sub>
-- [Specy/Scapix](https://github.com/Specy/Scapix) - An image upscaling and denoiser app <sub>⭐ 190 · TypeScript</sub>
-- [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code". <sub>⭐ 189 · TypeScript</sub>
-- [nphivu414/ai-fusion-kit](https://github.com/nphivu414/ai-fusion-kit) - A feature-rich, highly customizable AI Web App Template, empowered by Next.js. <sub>⭐ 188 · TypeScript</sub>
-- [stevereiner/flexible-graphrag](https://github.com/stevereiner/flexible-graphrag) - Python, LlamaIndex, LangChain, 15 Property Graph, 4 RDF , 10 Vector, OpenSearch, Elasticsearch, Alfresco, Nuxeo DBs. 14 data sources (10 auto-sync), KG auto-building, Ontologies, LLMs, Docling… <sub>⭐ 188 · Python</sub>
-- [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) - Run LLMs in the Browser with MLC / WebLLM <sub>⭐ 180 · TypeScript</sub>
-- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use.… <sub>⭐ 171 · TypeScript</sub>
-- [vemonet/libre-chat](https://github.com/vemonet/libre-chat) - Free and Open Source Large Language Model (LLM) chatbot web UI and API. Self-hosted, offline capable and easy to setup. <sub>⭐ 171 · Python</sub>
-- [menloparklab/falcon-langchain](https://github.com/menloparklab/falcon-langchain) - Falcon LLM with Chat UI using LangChain and Chainlit <sub>⭐ 168 · Jupyter Notebook</sub>
-- [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch) - Your users download a 4GB AI model, the connection drops at 3.8GB, verifyfetch resumes from 3.8GB and verifies every byte. Drop-in integrity verification for Transformers.js, WebLLM, and any large… <sub>⭐ 158 · TypeScript</sub>
-- [haoyiyin/basjoo](https://github.com/haoyiyin/basjoo) - Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector. <sub>⭐ 158 · Python</sub>
-- [antropos17/Aegis](https://github.com/antropos17/Aegis) - Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; macOS/Linux experimental. <sub>⭐ 152 · JavaScript</sub>
-- [Mi-Bee-Studio/MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) - Lightweight self-hosted NVR in Go — single static binary, zero dependencies, embedded web UI. RTSP/ONVIF/Xiaomi/GB28181 cameras, RTMP/SRT/WebRTC push-in ingest, WebRTC/HLS/FLV live view, audio… <sub>⭐ 145 · Go</sub>
-- [callbacked/os1](https://github.com/callbacked/os1) - A lightweight recreation of OS1/Samantha from the movie Her, running locally in the browser <sub>⭐ 144 · TypeScript</sub>
-- [humanspeak/svelte-markdown](https://github.com/humanspeak/svelte-markdown) - Markdown and HTML renderer for Svelte 5 — built for streaming AI agent output from Claude Code, ChatGPT, and agentic workflows. XSS-safe defaults, token caching, TypeScript types. <sub>⭐ 142 · TypeScript</sub>
-- [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit <sub>⭐ 138 · Svelte</sub>
-- [itzzritik/OrderWorder](https://github.com/itzzritik/OrderWorder) - OrderWorder - Revolutionize your restaurant with a sleek, contactless full-stack app powered by AI. From QR code menus and smart chatbot recommendations to seamless ordering, real-time kitchen… <sub>⭐ 138 · Python</sub>
-- [lightning-joyce/chromeai](https://github.com/lightning-joyce/chromeai) - Chrome Built-in AI Demo page <sub>⭐ 137 · TypeScript</sub>
-- [yizhe-ang/k-means-explorable](https://github.com/yizhe-ang/k-means-explorable) - An Explorable Explainer of K-Means Clustering <sub>⭐ 133 · Svelte</sub>
-- [curiousily/ragbase](https://github.com/curiousily/ragbase) - Completely local RAG. Chat with your PDF documents (with open LLM) and UI to that uses LangChain, Streamlit, Ollama (Llama 3.1), Qdrant and advanced methods like reranking and semantic chunking. <sub>⭐ 131 · Python</sub>
-- [Hesper-Labs/owly](https://github.com/Hesper-Labs/owly) - AI-powered customer support agent with WhatsApp, Email & Phone channels <sub>⭐ 131 · TypeScript</sub>
-- [hunter-meloche/REMO-langflow](https://github.com/hunter-meloche/REMO-langflow) - A chat interface that uses the REMO memory system with LangFlow <sub>⭐ 126</sub>
-- [u485349-coder/OpenFoundry](https://github.com/u485349-coder/OpenFoundry) - The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Self-hosted. Built with Rust +… <sub>⭐ 125</sub>
-- [chattermate/chattermate.chat](https://github.com/chattermate/chattermate.chat) - Open-source AI customer support platform — AI chatbot with human handoff, Shopify & Slack integrations, visual workflow builder. Self-hosted alternative to Intercom & Zendesk. Apache-2.0. <sub>⭐ 124 · Python</sub>
-- [pasonk/ai-chatkit](https://github.com/pasonk/ai-chatkit) - A full-stack ai agent chat project, built with langgraph+fastapi+nextjs, supporting tool invocation and RAG knowledge base <sub>⭐ 124 · Python</sub>
-- [cometchat/cometchat-skills](https://github.com/cometchat/cometchat-skills) - Add CometChat chat & messaging and voice & video calls to any React, Next.js, React Native, Angular, Android, iOS, or Flutter project through your AI coding agent. Works with Claude Code, Cursor… <sub>⭐ 122 · JavaScript</sub>
-- [mustafacagri/vue3-chatgpt-ai](https://github.com/mustafacagri/vue3-chatgpt-ai) - The most comprehensive ChatGPT repo with Vue 3: Vue ChatGPT AI! Unlock the power of AI-driven conversations with OpenAI. Enjoy real-time messaging, seamless image/audio support, and Firebase… <sub>⭐ 121 · JavaScript</sub>
-- [noumena-labs/Sipp](https://github.com/noumena-labs/Sipp) - AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser. Features a symmetric API for seamless local execution and cloud provider… <sub>⭐ 121 · Rust</sub>
-- [sudarshan-koirala/rag-chat-with-pdf](https://github.com/sudarshan-koirala/rag-chat-with-pdf) - Simple Chainlit UI for running llms locally using Ollama and LangChain <sub>⭐ 119 · Python</sub>
-- [jacksalad/wailschat](https://github.com/jacksalad/wailschat) - A desktop AI chat application built with Wails v2 (Go backend + Vue 3 frontend) that connects to OpenAI-compatible LLM APIs with MCP tool calling support. <sub>⭐ 116 · Go</sub>
-- [oxide-lab/Oxide-Lab](https://github.com/oxide-lab/Oxide-Lab) - Modern desktop application (Rust + Tauri v2 + Svelte 5 + Candle (HF)) for communicating with AI models that runs completely locally on your computer. No subscriptions, no data sent to the internet —… <sub>⭐ 116 · Rust</sub>
-- [rudi-q/glucose_media_player](https://github.com/rudi-q/glucose_media_player) - A Full-Featured, Powerful & Ultra-lightweight, video player for Windows with on-device AI powered subtitle generation. Tauri + Svelte <sub>⭐ 115 · Svelte</sub>
-- [JuiceBoxxGames/utsuwa](https://github.com/JuiceBoxxGames/utsuwa) - Utsuwa is an open-source alternative to Grok Companion. This is a platform where you can have a virtual AI waifu that learns and grows with you, bundled with optional mechanics inspired by Japanese… <sub>⭐ 111 · TypeScript</sub>
-- [RS-labhub/Radhika](https://github.com/RS-labhub/Radhika) - Radhika is a multi-model AI assistant built for your mood and friendship <sub>⭐ 111 · TypeScript</sub>
-- [hashangit/Extract2MD](https://github.com/hashangit/Extract2MD) - Extract2MD is a powerful and versatile AI-enabled client-side JavaScript library for extracting text from PDF files and converting it into Markdown. <sub>⭐ 109 · JavaScript</sub>
-- [nico-martin/ask-my-pdf](https://github.com/nico-martin/ask-my-pdf) - A Webapp that uses Retrieval Augmented Generation (RAG) and Large Language Models to interact with a PDF directly in the browser. <sub>⭐ 109 · TypeScript</sub>
-- [devartifex/copilot-unleashed](https://github.com/devartifex/copilot-unleashed) - A mobile first, self-hosted multi-model AI chat powered by the GitHub Copilot SDK. A modern alternative to ChatGPT, Claude, and Gemini. <sub>⭐ 107 · TypeScript</sub>
-- [RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf) - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. <sub>⭐ 106 · TypeScript</sub>
-- [beynar/svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Svelte port of Streamdown <sub>⭐ 105 · TypeScript</sub>
-- [larsbaunwall/bricky](https://github.com/larsbaunwall/bricky) - Haystack/OpenAI based chatbot curating a custom knowledgebase <sub>⭐ 104 · Python</sub>
-- [databricks/appkit](https://github.com/databricks/appkit) - Build Databricks Apps faster with our brand-new Node.js + React SDK. Built for humans and AI. <sub>⭐ 103 · TypeScript</sub>
+- [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) - GraphRAG 使用 local LLMs - 特性强的 API 和多个应用用于索引/Prompt Tuning/Query/Chat/Visualization/Etc. 这意味着是最终 GraphRAG/KG local LLM 应用. <sub>⭐ 2.3k · Python</sub>
+- [alfredfrancis/ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 具有自然语言理解和人工智能的python聊天器框架. <sub>⭐ 2.2k · TypeScript</sub>
+- [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - 作为工作空间的AI - 一个优雅的AI聊天客户端. Full-fected, lightwight. 支持多个工作空间,插件系统,跨平台,本地第一+实时云同步,Artiffacts, MCP / AI XQQ <sub>⭐ 1.8k · TypeScript</sub>
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - 使用MLX框架为苹果硅Mac全能LLMS Chat UI. <sub>⭐ 1.6k · Python</sub>
+- [openilink/openilink-hub](https://github.com/openilink/openilink-hub) - QQ Bot + App + App / 自办的WeChat Bot平台,配有 App Mark / Lark / Lack / Discord / DingTalk / GitHub / Notion 20+ Apps / AI Tools / 7语言 SDKs <sub>⭐ 1.6k · Go</sub>
+- [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - 企业AI用于模型路由,多模式聊天,文件,工具,计费,身份,和操作的工作空间. <sub>⭐ 1.5k · Go</sub>
+- [afx-team/petercat](https://github.com/afx-team/petercat) - 一个对话的 QQA 代理配置系统, 自动托管的部署解决方案, 以及一个方便的全机应用程序 SDK, 允许您为您的 GitHub 寄存器创建智能的 QQA bots <sub>⭐ 1.5k · TypeScript</sub>
+- [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs 的全功能网络界面 <sub>⭐ 1.4k · TypeScript</sub>
+- [callstackincubator/ai](https://github.com/callstackincubator/ai) - 与 Vercel AI SDK 兼容的 React Natural 中的在线 LLM 执行 <sub>⭐ 1.4k · TypeScript</sub>
+- [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - 在自己的计算机上运行 Alpaca(以及其他基于 LLaMA 的本地 LLMs) 的最简单方式 <sub>⭐ 1.3k · JavaScript</sub>
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - 前身为Better Chatbot. Navigator是用于代理,MCP和工作流程自动化的开源AI工作空间. <sub>⭐ 1.2k · TypeScript</sub>
+- [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - 与 AI 大语言模型在浏览器中本地运行聊天。 享受私人、 服务器无缝的 AI 对话 。 <sub>⭐ 1.1k · TypeScript</sub>
+- [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) - 一个最小的聊天机模板,它与Next.js,AI SDK,shadcn/ui,shadcn/反应,shadcn/typeset一起构建,运行在Vercel AI Gateway上. <sub>⭐ 1.1k · TypeScript</sub>
+- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - AI.链条细胞进入强大管道的协作电子表格,用提示和模型进行实验,并实时评价LLM响应. 一起无缝地构建和移动... <sub>⭐ 1.1k · Python</sub>
+- [comarkdown/comark](https://github.com/comarkdown/comark) - 用于Angular,React,Svelte,Vue,HTML和ANSI的高性能Markdown解析器和渲染器. <sub>⭐ 1.0k · TypeScript</sub>
+- [agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS) - 一个开发者及其AI代理在单一服务器上的个人云OS. One-command安装在Ubuntu上,然后浏览器中的一切:一个窗口化的桌面,与VS代码隔离的工作空间,Claude... <sub>⭐ 971 · Rust</sub>
+- [ChatbotXIO/ChatbotX](https://github.com/ChatbotXIO/ChatbotX) - 为AI. Omnichannel 营销而建的开源 ManyChat 替代品,跨越WhatsApp,TikTok,Facebook,Instagram,Telegram,Zalo,Email,API和Webchat <sub>⭐ 862 · TypeScript</sub>
+- [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI是一个网络聊天客户端,由节点-chatgpt-api提供动力,用户可以轻松地与多个AI系统聊天,同时也为自定义的预设提供支持. 以其无缝和方便的方式. . <sub>⭐ 854 · Vue</sub>
+- [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) 是一个基于 CLI 的 UI 组件库, 可以将组件直接复制到您的项目中。 用 AI 工具、 代理驱动的 UI 和 即时准备的工作流程 来工作 。 <sub>⭐ 826 · TypeScript</sub>
+- [aws-samples/aws-lex-web-ui](https://github.com/aws-samples/aws-lex-web-ui) - 亚马逊 Lex 聊天机器人网络界面样本 <sub>⭐ 817 · JavaScript</sub>
+- [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit) - 基于 Shadcn/ ui 的美丽设计聊天组组件 <sub>⭐ 804 · TypeScript</sub>
+- [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - 终端 UI 可以使用不同的模式后端与大型语言模型(LLM)聊天, 并与您最喜爱的编辑器整合 ! <sub>⭐ 773 · Rust</sub>
+- [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat - 一个轻量级的跨平台即时通讯app,配有集成AI助手(DeepSeek/Gemini/Kimi). 特徵实时通讯,音频/视频通话,多设备同步,以及... <sub>⭐ 748 · Vue</sub>
+- [frontman-ai/frontman](https://github.com/frontman-ai/frontman) - 住在你框架/浏览器里的人工智能代理 <sub>⭐ 708 · ReScript</sub>
+- [LibreChat-AI/docs](https://github.com/LibreChat-AI/docs) - 官方文献、博客和LibreChat的更改日志。使用 Next.js 和 Fumadocs 构建。 Live at librechat.ai <sub>⭐ 672 · MDX</sub>
+- [runvendo/vendo](https://github.com/runvendo/vendo) - 嵌入的代理 客户使用自动化的工作, 构建视图, 和连接他们的工具。 <sub>⭐ 628 · TypeScript</sub>
+- [Nigh/show-me-the-story](https://github.com/Nigh/show-me-the-story) - 自办AI小说生成器:单Go二进制+网络UI. OpenAI兼容API –大纲~逐章写作,附有评论,预告,事实检查,以及全书抛光. 中英文版. <sub>⭐ 607 · Go</sub>
+- [alan-ai/alan-sdk-reactnative](https://github.com/alan-ai/alan-sdk-reactnative) - 您 App 的自编码系统 — Alan AI SDK 反应本地 <sub>⭐ 574 · Ruby</sub>
+- [dappros/ethora](https://github.com/dappros/ethora) - Ethora聊天/消息平台的SDK monorepo. (1) 为您的前端堆栈选择一个SDK. (2) 手动或使用ethora-setup进行整合. (3) 可选配置应用程序设置,部署AI代理等. <sub>⭐ 548 · JavaScript</sub>
+- [Merit-Systems/echo](https://github.com/Merit-Systems/echo) - 用户支付 AI SDK <sub>⭐ 546 · TypeScript</sub>
+- [ibrahimqureshae/mdflux](https://github.com/ibrahimqureshae/mdflux) - 将任何文档转换为干净, AI- 准备的 Markdown. 本地首个桌面应用程序: 读取扫描的 PDF , 批次文件夹, 离线运行, 使用比视觉模型少得多的代号 。 <sub>⭐ 539 · Python</sub>
+- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) - Brazing-Fast and Extremely-Lightwight 互联网阅读器,由AI驱动! 您的AI强智库助理. (与 Rust, Tauri & Svelte 一起建造) <sub>⭐ 537 · Rust</sub>
+- [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - 由 React 构建的 AI 动力视频编辑器 SDK 。 特性布图时间线、 拖放编辑、 AI 标题和无服务器的 MP4 导出 。 完全适合构建自定义视频应用程序 。 <sub>⭐ 535 · TypeScript</sub>
+- [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit) - 自备的Lovable/v0 选项。 包含实时数据库和存储 。 <sub>⭐ 523 · Svelte</sub>
+- [wataru-maeda/react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) - iOS、Android和Web的制作准备反应原生锅炉板,与Expo SDK 54,React 19.1, Expo Router v6, Redux Toolket, TypeScript,以及AI优化开发(Claude/Cursor). Features... <sub>⭐ 517 · TypeScript</sub>
+- [epam/ai-dial-chat](https://github.com/epam/ai-dial-chat) - AI DIAL 默认的 UI <sub>⭐ 504 · TypeScript</sub>
+- [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - Vercel公司建造的全功能,可入侵的SvelteKit AI聊天机 <sub>⭐ 443 · Svelte</sub>
+- [Duelion/homebox-companion](https://github.com/Duelion/homebox-companion) - Homebox 的 AI 驱动同伴。 将照片和 AI 自动识别和目录项目输入您的目录, 然后使用 AI Chat 来组织、搜索和无心更新您的目录 。 <sub>⭐ 391 · Python</sub>
+- [synergycodes/workflowbuilder](https://github.com/synergycodes/workflowbuilder) - 工作流程构建器 - Apache 2.0 React SDK 用于嵌入视觉工作流程编辑器. Drag-and-drop 工作流程构建器 UI 带有参考后端和可按设计交换的执行引擎,通过... <sub>⭐ 387 · TypeScript</sub>
+- [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat) - 由Laravel公司制作的现代AI聊天启动器套件,其特点是使用Prism,Inertia.js,Vue.js和TailwindCSS进行实时流媒体响应. <sub>⭐ 383 · PHP</sub>
+- [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot模板由Nuxt UI和Vercel AI SDK制作. <sub>⭐ 375 · Vue</sub>
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Hermes Agent的Web UI & 仪表板——聊天,内存,技能,终端,审批,多代理管弦乐. Self-academy. <sub>⭐ 365 · TypeScript</sub>
+- [lovstudio/Ataru](https://github.com/lovstudio/Ataru) - 本地代理历史的高性能AI内存检索——一个Rust搜索核心(SDK / API / JSON CLI)加上一个桌面图形界面. Tantivy + Jieba关键词搜索,可选语义回溯,稳定... <sub>⭐ 358 · Rust</sub>
+- [boringcomputers/nehemiah](https://github.com/boringcomputers/nehemiah) - 点播Linux电脑可以交给AI——真正的Firecker微VM,带有浏览器,终端,编码代理,以及驱动它们的AI. <sub>⭐ 335 · TypeScript</sub>
+- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - 就像Spitz... 但对于svelte5, 带有Shadcn-svelte,svelte-animation,svelte-superforms, 条纹支付,订阅,内容过滤等等。 <sub>⭐ 331 · Svelte</sub>
+- [sveltejs/ai-tools](https://github.com/sveltejs/ai-tools) - 官方为您的代理需求提供MCP服务 <sub>⭐ 330 · TypeScript</sub>
+- [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements是Vercel AI Elements的一个非官方港口,建于Shadcn-svelte之上. <sub>⭐ 318 · Svelte</sub>
+- [nirholas/cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) - 自由加密新闻 API - 比特币,伊瑟纽姆,DeFi,索拉纳和上层币的实时聚合器. 无需要 API 密钥. RSS/Atom feed, JSON REST API,具有市场背景的历史档案,可嵌入... <sub>⭐ 317 · TypeScript</sub>
+- [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) - 开源AI房地产搜索与RAG,矢量搜索,多供应商LLMs,FastAPI,Next.js,ChromaDB,以及现场演示. <sub>⭐ 313 · Python</sub>
+- [RunanywhereAI/on-device-browser-agent](https://github.com/RunanywhereAI/on-device-browser-agent) - 使用WebLLM的在线设备AI浏览器自动化,没有云,没有API密钥,完全私有. <sub>⭐ 302 · TypeScript</sub>
+- [VietnamAIHub/Vietnamese_LLMs](https://github.com/VietnamAIHub/Vietnamese_LLMs) - D. an bao g (韩语) <sub>⭐ 287 · Python</sub>
+- [logisky/LogiSheets](https://github.com/logisky/LogiSheets) - LogiSheets是一个方便AI的电子表格应用程序,与Excel兼容,也是人类和AI合作的好地方. <sub>⭐ 279 · Rust</sub>
+- [firecrawl/mendable-nextjs-chatbot](https://github.com/firecrawl/mendable-nextjs-chatbot) - Next.js 启动器模板,用于构建带有 Mendable 的聊天机 <sub>⭐ 277 · TypeScript</sub>
+- [rodrigogs/whats-reader](https://github.com/rodrigogs/whats-reader) - 浏览WhatsApp 聊天输出以 AI 驱动的语音转录功能下线. 隐私- 第一台桌面/ 网络应用程序, 并配有书签、 搜索和统计。 使用 SvelteKit 和 Electron 构建 。 <sub>⭐ 272 · TypeScript</sub>
+- [TGlide/novel-svelte](https://github.com/TGlide/novel-svelte) - 带有AI动力自动补全功能的WYSIWYG概念式编辑器. <sub>⭐ 272 · CSS</sub>
+- [AnyiWang/OpenCovibe](https://github.com/AnyiWang/OpenCovibe) - AI编码代理的本地首款桌面app(Claude Code, Codex). 使用Tauri v2 + Svelte 5. 建成. <sub>⭐ 270 · Rust</sub>
+- [agnosticeng/agx](https://github.com/agnosticeng/agx) - AI 动力分析 <sub>⭐ 263 · Svelte</sub>
+- [grafana/ai-sdk](https://github.com/grafana/ai-sdk) - Grafana AI SDK for Go——流线,工具调用 AI 后端能说流利的 @ai-sdk/ react <sub>⭐ 258 · Go</sub>
+- [smalltong02/keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 网络 UI 项目 为了学习大语言模型, 该项目包括聊天、量化、微调、 即时工程模板和多式联运等功能。 <sub>⭐ 252 · Python</sub>
+- [yanhanruan/Mutsumi](https://github.com/yanhanruan/Mutsumi) - Mutsumi (15):轻量级AI桌面伴奏,与Tauri 2和Rust一起建造,主演是全球音频意识,迷你音乐控制,以及AI字符聊天. <sub>⭐ 239 · Rust</sub>
+- [henrycunh/golem](https://github.com/henrycunh/golem) - 一个美丽的UI,用于 ChatGPT 和其他对话模式 <sub>⭐ 234 · Vue</sub>
+- [southleft/story-ui](https://github.com/southleft/story-ui) - AI-动力的故事书生成器——与任何框架、任何设计系统、任何LLM提供者合作 <sub>⭐ 230 · TypeScript</sub>
+- [davis7dotsh/river](https://github.com/davis7dotsh/river) - 与 AI 代理流合作的正常方式( 类型安全和流恢复到框外) <sub>⭐ 228 · TypeScript</sub>
+- [peintune/runjam](https://github.com/peintune/runjam) - 您的所有 AI 编码代理器—— Claude Code, Codex CLI & 双子座 CLI。 自动检测, 一击安装, 统一聊天, 文件探索器, 终端和编辑器。 本地先。 用 Tauri + Rust +... <sub>⭐ 228 · Rust</sub>
+- [Razz19/Exort](https://github.com/Razz19/Exort) - Exort 是嵌入式设备的编码代理 <sub>⭐ 228 · Svelte</sub>
+- [firecrawl/rag-arena](https://github.com/firecrawl/rag-arena) - 通过用户反馈进行开源RAG评价. <sub>⭐ 221 · TypeScript</sub>
+- [llm-ring/lmring](https://github.com/llm-ring/lmring) - 开源,可自我托管的 LLM 竞技场,与模型比较,投票,和领跑板 <sub>⭐ 221 · TypeScript</sub>
+- [zakkor/llum](https://github.com/zakkor/llum) - 一个快速、轻便、开放的聊天UI, 并带有完整的工具, 使用跨多个模型的支持 <sub>⭐ 220 · Svelte</sub>
+- [engageintellect/spatz](https://github.com/engageintellect/spatz) - 用于构建全层Svelte应用程序的有评论的模板,其速度异常之快。包括认证、数据库、管理面板、用户仪表板、主题、图标等。 <sub>⭐ 216 · Svelte</sub>
+- [innFactory/react-native-dialogflow](https://github.com/innFactory/react-native-dialogflow) - Google Dialogflow(API.AI) SDK 的反向-内向桥 <sub>⭐ 205 · JavaScript</sub>
+- [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - 富文本编辑器(WYSIWYG)用Svelte写成,在tiptap, prosemiror, AI 快速集成的基础上建立. Dark/Light主题支持 <sub>⭐ 204 · Svelte</sub>
+- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK为不同的内浏览器AI模型提供商,其构建是为了使客户端的AI集成更加简单,更一致地跨销售商. <sub>⭐ 200 · TypeScript</sub>
+- [pyrate-llama/hermes-ui](https://github.com/pyrate-llama/hermes-ui) - Hermes Agent的指令中心——聊天,引导,浏览文件,管理技能,并从一个单一的玻璃形态HTML应用中监控一切. <sub>⭐ 199 · HTML</sub>
+- [activated-intelligence/voice-chat](https://github.com/activated-intelligence/voice-chat) - 100%的内浏览器,使用Whisper,WebLLM和Supertonic TTS的无手AI语音聊天 <sub>⭐ 197 · TypeScript</sub>
+- [CNSeniorious000/free-chat](https://github.com/CNSeniorious000/free-chat) - 一个优雅的 LLM 聊天UI 从@anse-app的chigpt-demo 中脱颖而出. Index website at https://free-chat.asia <sub>⭐ 196 · TypeScript</sub>
+- [TheSyart/emperor-agent](https://github.com/TheSyart/emperor-agent) - 本地皇帝式的AI代理,配有Vue WebUI,多提供商LLMS,流畅聊天,工具,技能,内存,以及符号遥测. <sub>⭐ 194 · TypeScript</sub>
+- [NamesMT/starter-monorepo](https://github.com/NamesMT/starter-monorepo) - 单曲有AI goodies / LLM Chat / Hono + OpenAPI & RPC, Nuxt, Convex, SST Ion, WorkOS AuthKit, Tanstack Query, Shadcn, UnoCSS, 电子表 I18n, Lingo.dev, grammY Telegram Bot <sub>⭐ 191 · Vue</sub>
+- [Specy/Scapix](https://github.com/Specy/Scapix) - 图像的提升和渲染 <sub>⭐ 190 · TypeScript</sub>
+- [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - 以OpenAIs论文"评价在代码上训练的大语言模型"中的OpenAI方法为基础的Svelte 5的LLM基准. <sub>⭐ 189 · TypeScript</sub>
+- [nphivu414/ai-fusion-kit](https://github.com/nphivu414/ai-fusion-kit) - 一个功能丰富,高度定制的AI Web App模板,由Next.js授权. <sub>⭐ 188 · TypeScript</sub>
+- [stevereiner/flexible-graphrag](https://github.com/stevereiner/flexible-graphrag) - Python, LlamaIndex, LangChain, 15 Property Graph, 4 RDF, 10 Vector, OpenSearch, Elasticsearch, Alfresco, Nuxeo DBs. 14个数据源(10个自动同步), KG 自动构建, Ontologyes, LLMs, Docling... <sub>⭐ 188 · Python</sub>
+- [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) - 用 MLC / WebLLM 在浏览器中运行 LLMS <sub>⭐ 180 · TypeScript</sub>
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - 旨在提供无缝和隐私驱动的交流体验,使用开源技术(Ollama),特别是开源LLM's(如Llama3,Phi-3,Mistral). 专注于方便使用. <sub>⭐ 171 · TypeScript</sub>
+- [vemonet/libre-chat](https://github.com/vemonet/libre-chat) - 自由与开放源码大语言模型(LLM)聊天员网络UI和API. 自主托管,离线能力强且易于设置. <sub>⭐ 171 · Python</sub>
+- [menloparklab/falcon-langchain](https://github.com/menloparklab/falcon-langchain) - 使用 LangChain 和 Chainlit 的 Chat UI 的猎鹰 LLM 语言 <sub>⭐ 168 · Jupyter Notebook</sub>
+- [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch) - 您的用户下载了 4GB AI 模型, 连接下降至 3. 8GB , 校验了 3. 8GB 的回放, 并验证每个字节。 drop- in complete definition for Transformers.js, WebLLM, and any big... <sub>⭐ 158 · TypeScript</sub>
+- [haoyiyin/basjoo](https://github.com/haoyiyin/basjoo) - 开源AI客户支持平台 — RAG知识库,多提供者LLM代理,可嵌入式聊天部件. FastAPI + Next.js + pgvector. <sub>⭐ 158 · Python</sub>
+- [antropos17/Aegis](https://github.com/antropos17/Aegis) - 对AI代理的桌面监控和本地安全审查,有选择进入的政策控制执行和MCP动作工具. Windows Prime;macOS/Linux实验. <sub>⭐ 152 · JavaScript</sub>
+- [Mi-Bee-Studio/MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) - Go的轻量级自办NVR——单一静态二进制,零依赖,嵌入式网络UI. RTSP/ONVIF/Xiaomi/GB28181相机,RTMP/SRT/WebRTC push-in en est,WebRTC/HLS/FLV 直播视图,音频... <sub>⭐ 145 · Go</sub>
+- [callbacked/os1](https://github.com/callbacked/os1) - 从电影"她"(Her)开始的OS1/Samantha的轻量级娱乐,在浏览器中本地运行 <sub>⭐ 144 · TypeScript</sub>
+- [humanspeak/svelte-markdown](https://github.com/humanspeak/svelte-markdown) - Markdown和Svelte 5的HTML渲染器——为Claude Code,ChatGPT,以及代理工作流程的流化AI代理输出而建. XSS安全默认,符牌缓存,TypeScript类型. <sub>⭐ 142 · TypeScript</sub>
+- [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - 基于 Tauri 和 Sveltekit 打开 AI Whisper 的图形界面 <sub>⭐ 138 · Svelte</sub>
+- [itzzritik/OrderWorder](https://github.com/itzzritik/OrderWorder) - 订单 - 以一个由AI提供动力的无接触的全层应用软件来改造你的餐厅。从QR代码菜单和智能聊天组推荐到无缝订购,实时厨房... <sub>⭐ 138 · Python</sub>
+- [lightning-joyce/chromeai](https://github.com/lightning-joyce/chromeai) - Chrome 内建 AI Demo 页面 <sub>⭐ 137 · TypeScript</sub>
+- [yizhe-ang/k-means-explorable](https://github.com/yizhe-ang/k-means-explorable) - K- Means 集群的可探索解释器 <sub>⭐ 133 · Svelte</sub>
+- [curiousily/ragbase](https://github.com/curiousily/ragbase) - 完全本地的 RAG. 与您的 PDF 文档( 带有打开的 LLM) 和 UI 聊天, 使用 LangChain, Streamlit, Ollama (Llama 3. 1), Qdrant 和高级方法, 如重排和语义块 。 <sub>⭐ 131 · Python</sub>
+- [Hesper-Labs/owly](https://github.com/Hesper-Labs/owly) - 有WhatsApp、电子邮件和电话频道的AI授权客户支持代理 <sub>⭐ 131 · TypeScript</sub>
+- [hunter-meloche/REMO-langflow](https://github.com/hunter-meloche/REMO-langflow) - 使用 LangFlow 的 REMO 内存系统的聊天界面 <sub>⭐ 126</sub>
+- [u485349-coder/OpenFoundry](https://github.com/u485349-coder/OpenFoundry) - 开源的 Palantir Foundary 选项。 连接任何数据源, 构建本体化, 创建管道, 与仪表板可视化, 并作出 AI 驱动的决定。 自控。 由 Rust + 构建 。 <sub>⭐ 125</sub>
+- [chattermate/chattermate.chat](https://github.com/chattermate/chattermate.chat) - 开源AI客户支持平台——AI聊天机与人交接,Shopify & Slack集成,视觉工作流程构建器. 自办Intercom & Zendesk. Apache-2. <sub>⭐ 124 · Python</sub>
+- [pasonk/ai-chatkit](https://github.com/pasonk/ai-chatkit) - 使用langgraph+fastapi+nextjs 构建的全层Ai代理聊天项目,支持工具引用和RAG知识库 <sub>⭐ 124 · Python</sub>
+- [cometchat/cometchat-skills](https://github.com/cometchat/cometchat-skills) - 通过您的 AI 编码代理程序, 在任何 React, Next.js, React 本地, Angular, Android, iOS 或 Flutter 计划中添加 CometChat 聊天和信件及语音和视频调用。 用 Claude Code, Cursor 工作... <sub>⭐ 122 · JavaScript</sub>
+- [mustafacagri/vue3-chatgpt-ai](https://github.com/mustafacagri/vue3-chatgpt-ai) - 最全面的ChatGPT重播Vue 3: Vue ChatGPT AI! 解锁AI驱动的与OpenAI对话的力量. 享受实时消息,无缝图像/音频支持,以及Firebase... <sub>⭐ 121 · JavaScript</sub>
+- [noumena-labs/Sipp](https://github.com/noumena-labs/Sipp) - AI 推论, 简单打包。 一个闪亮的零依赖性 WebGPU 运行时间可以直接在浏览器中运行 GGUF 模型 。 特性是用于无缝本地执行和云提供商的对称 API... <sub>⭐ 121 · Rust</sub>
+- [sudarshan-koirala/rag-chat-with-pdf](https://github.com/sudarshan-koirala/rag-chat-with-pdf) - 使用 Ollama 和 LangChain 本地运行 ltms 的简单链式 UI <sub>⭐ 119 · Python</sub>
+- [jacksalad/wailschat](https://github.com/jacksalad/wailschat) - 用Wails v2(Go backend + Vue 3前端)构建的桌面AI聊天应用程序,它与OpenAI兼容的LLM API连接,并使用MCP工具调用支持. <sub>⭐ 116 · Go</sub>
+- [oxide-lab/Oxide-Lab](https://github.com/oxide-lab/Oxide-Lab) - 现代桌面应用程序( Rust + Tauri v2 + Svelte 5 + Candle (HF)) 用于与在您的计算机上完全本地运行的AI模型进行通信,没有订阅,也没有发送到互联网的数据——...... <sub>⭐ 116 · Rust</sub>
+- [rudi-q/glucose_media_player](https://github.com/rudi-q/glucose_media_player) - 一个全Featured, Powerful & Ultra-lightwighty, Windows 的视频播放器, 并配有 addevice AI 的动力字幕生成. Tauri + Svelte <sub>⭐ 115 · Svelte</sub>
+- [JuiceBoxxGames/utsuwa](https://github.com/JuiceBoxxGames/utsuwa) - Utsuwa是Grok Companion的开源替代方案,这是一个平台,你可以有一个虚拟AI Waifu,与你学习和成长,与日本人启发的可选力学捆绑在一起. . <sub>⭐ 111 · TypeScript</sub>
+- [RS-labhub/Radhika](https://github.com/RS-labhub/Radhika) - 拉迪卡是一个多型的AI助手,为您的心情和友谊而建 <sub>⭐ 111 · TypeScript</sub>
+- [hashangit/Extract2MD](https://github.com/hashangit/Extract2MD) - extract2MD是一个强大且多功能的AI启用客户端JavaScript库,用于从PDF文件提取文本并将其转换成Markdown. <sub>⭐ 109 · JavaScript</sub>
+- [nico-martin/ask-my-pdf](https://github.com/nico-martin/ask-my-pdf) - 一个使用检索增强生成(RAG)和大语言模型的Webapp直接在浏览器中与PDF交互. <sub>⭐ 109 · TypeScript</sub>
+- [devartifex/copilot-unleashed](https://github.com/devartifex/copilot-unleashed) - 由GitHub Copilot SDK提供动力的移动第一,自行托管的多型AI聊天机. ChatGPT,Claude,和双子座的现代替代品. <sub>⭐ 107 · TypeScript</sub>
+- [RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf) - 与 PDF 聊天可以让您向 PDF 文档询问问题。 用 NuxtHub 构建并部署, 由 Cloudflare Workers AI 和 Vectorize 提供动力 。 <sub>⭐ 106 · TypeScript</sub>
+- [beynar/svelte-streamdown](https://github.com/beynar/svelte-streamdown) - 向下流的 Svelte 端口 <sub>⭐ 105 · TypeScript</sub>
+- [larsbaunwall/bricky](https://github.com/larsbaunwall/bricky) - Haystack/ OpenAI 设置的处理自定义知识库的聊天机 <sub>⭐ 104 · Python</sub>
+- [databricks/appkit](https://github.com/databricks/appkit) - 用我们全新的节点Js + React SDK. 构建Databricks Apps更快,为人类和AI建造. <sub>⭐ 103 · TypeScript</sub>
 
 ## 🤖 编辑器中的代码助手
 
 > 编写、审查和重构前端代码的智能体与扩展。
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works. <sub>⭐ 294.4k · Shell</sub>
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. <sub>⭐ 151.7k · JavaScript</sub>
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI… <sub>⭐ 144.0k</sub>
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI <sub>⭐ 111.8k · TypeScript</sub>
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. <sub>⭐ 109.1k · Go</sub>
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. <sub>⭐ 100.5k · JavaScript</sub>
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with… <sub>⭐ 95.2k · TypeScript</sub>
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop <sub>⭐ 92.0k · JavaScript</sub>
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of… <sub>⭐ 83.3k · Python</sub>
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. <sub>⭐ 74.3k · Python</sub>
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence… <sub>⭐ 73.7k · TypeScript</sub>
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job… <sub>⭐ 73.3k · JavaScript</sub>
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect <sub>⭐ 67.0k · HTML</sub>
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video… <sub>⭐ 62.4k · Python</sub>
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM <sub>⭐ 54.9k · Rust</sub>
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. <sub>⭐ 52.4k · JavaScript</sub>
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering… <sub>⭐ 47.4k · Python</sub>
-- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching… <sub>⭐ 45.2k · TypeScript</sub>
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on <sub>⭐ 42.0k · Rust</sub>
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from… <sub>⭐ 41.0k · JavaScript</sub>
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Configuration files that enhance Cursor AI editor experience with custom rules and behaviors <sub>⭐ 40.9k · JavaScript</sub>
-- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent <sub>⭐ 36.1k · TypeScript</sub>
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents <sub>⭐ 35.5k · TypeScript</sub>
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works… <sub>⭐ 33.7k · Python</sub>
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo… <sub>⭐ 31.9k · Python</sub>
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills <sub>⭐ 30.1k · JavaScript</sub>
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent <sub>⭐ 29.9k · Python</sub>
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks <sub>⭐ 29.1k · TypeScript</sub>
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all <sub>⭐ 28.5k · Go</sub>
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal. <sub>⭐ 28.3k · TypeScript</sub>
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed… <sub>⭐ 27.6k · TypeScript</sub>
+- [obra/superpowers](https://github.com/obra/superpowers) - 一种有效的代理技能框架和软件开发方法。 <sub>⭐ 294.4k · Shell</sub>
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - 让你的人工智能特工觉得自己是 房间里最懒惰的高级Dev <sub>⭐ 151.7k · JavaScript</sub>
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL 增强码,克劳德码,克莱利码,CodeBuddy,彗星,Cursor,Devin AI,朱尼,基罗,Leap. new,Lovable,Manus,NotionAI,Orchids.app,Poke,Quder,Replit,Same.dev,Trae,Traycer AI... <sub>⭐ 144.0k</sub>
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI代理工具箱:统一LLM API,代理环路,TUI,编码代理CLI <sub>⭐ 111.8k · TypeScript</sub>
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 当很少的符牌做诡计时, 为什么使用许多符牌 。 Viral 技能 + 代理编码代理器, 通过像洞穴人一样说话来切除65%的符牌 。 <sub>⭐ 109.1k · Go</sub>
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - AI编码剂的生产级工程技能. <sub>⭐ 100.5k · JavaScript</sub>
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - 每届代理的连续语境 – 抓住代理在会话中所做的一切,用AI压缩,并将相关语境注入未来会话. Works with... <sub>⭐ 95.2k · TypeScript</sub>
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - 味觉技能 - 让你的AI品味好. 阻止AI产生无聊,通用的sloop <sub>⭐ 92.0k · JavaScript</sub>
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - 一个开源的长视超天线控制器,可以研究、编码和创建。在沙盒、记忆、工具、技能、潜剂和信息网关的帮助下,它处理不同水平的. <sub>⭐ 83.3k · Python</sub>
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - 压缩工具输出、日志、文件和RAG块,然后再到达LLM。 编码代理的符号减少20%, JSON 的符号减少60-95%, 答案相同。 库、 代理、 MCP 服务器 。 <sub>⭐ 74.3k · Python</sub>
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 原代理机的牵引装置. 部署智能多人群,协调自主工作流程,构建对话AI系统. 功能是适应性内存,自学智能...... <sub>⭐ 73.7k · TypeScript</sub>
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - 开源AI求职代理和找工作者:扫描工作板,在申请前根据你的CV对每份工作打分1-5,裁剪一个方便ATS的简历和封面信,获得面试准备和一份工作. . <sub>⭐ 73.3k · JavaScript</sub>
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - 从气温编码到代理工程 - 实践使Claude完美 <sub>⭐ 67.0k · HTML</sub>
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - 世界第一个开源,代理视频制作系统. 12个生产管道,100+工具,700+代理技能和生产知识文件. 把你的AI编码助理变成一个完整的视频... <sub>⭐ 62.4k · Python</sub>
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - 一个开源,可扩展的 AI 代理,它超越代码建议 - 安装、执行、编辑和测试任何 LLM <sub>⭐ 54.9k · Rust</sub>
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Claude Code和AI代理商的营销技能,CRO,抄写,SEO,分析,以及生长工程. <sub>⭐ 52.4k · JavaScript</sub>
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - 将任何AI代理变成AI科学家. #1 Agent Swill Library for Science,被全球25万+科学家使用. 177个可随时使用的认证技能加上100+科学数据库覆盖... <sub>⭐ 47.4k · Python</sub>
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - 增强型ChatGPT克隆:特质代理,MCP,技能,DeepSeek,Anthropic,AWS,OpenAI,Resignation API,Azure,Groq,o1,GPT-5,米斯特拉尔,OpenRouter,Vertex AI,双子座,Artifacts,AI模型切换... <sub>⭐ 45.2k · TypeScript</sub>
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - 您的编码代理机运行时间 <sub>⭐ 42.0k · Rust</sub>
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet AI的开源基础 - 用于内部工具,仪表板,业务应用程序,工作流程和AI代理的企业应用生成平台. 构建视觉,从一个即时,或从. <sub>⭐ 41.0k · JavaScript</sub>
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 用于增强光标 AI 编辑器自定义规则和行为体验的配置文件 <sub>⭐ 40.9k · JavaScript</sub>
+- [continuedev/continue](https://github.com/continuedev/continue) - 开源编码代理 <sub>⭐ 36.1k · TypeScript</sub>
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - 任何使用 AI 编码代理命令的网站 Clone <sub>⭐ 35.5k · TypeScript</sub>
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 AI代理的系统网络安全技能 ^ 被提升到6个框架: MITRE ATT&CK,NIST SCF 2.0,MITRE ATLAS,D3FEND,NIST AI RAMF & MITRE F3(Fight Fraud) → 代理技能.io标准 → 工作... <sub>⭐ 33.7k · Python</sub>
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - MCP和CLI的本地第一代码智能图。 绘制一个您的代码库的持久地图, 这样 AI 编码工具只读到什么重要, 并有关于评论的基准上下文减少和大重播... <sub>⭐ 31.9k · Python</sub>
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - 使用编码代理机的前端技能在网络上创建美丽的幻灯片 <sub>⭐ 30.1k · JavaScript</sub>
+- [oraios/serena](https://github.com/oraios/serena) - 用于编码的强大的 MCP 工具箱,提供语义检索和编辑能力 - 您代理机的 IDE <sub>⭐ 29.9k · Python</sub>
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 基于现实世界基准的AI编码代理的持续内存 <sub>⭐ 29.1k · TypeScript</sub>
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - 为所有人提供出色的代理编码 <sub>⭐ 28.5k · Go</sub>
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 一个住在你终端的开源AI编码代理. <sub>⭐ 28.3k · TypeScript</sub>
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory是AI Agents的团队级内存中枢——将对话,docs,和代码变为四个可重复使用的内存资产(Chat Memory,Skill,LLM-Wiki,Code-Graph),这些资产被管理. . <sub>⭐ 27.6k · TypeScript</sub>
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - 开源 Ghostty 基于 macOS 终端, 并带有 AI 编码代理的垂直标签和通知. Built 用于多任务, 组织, 和可编程性 。 <sub>⭐ 27.6k · Swift</sub>
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. <sub>⭐ 27.5k · TypeScript</sub>
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. <sub>⭐ 27.4k · Python</sub>
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot… <sub>⭐ 27.3k · Shell</sub>
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. <sub>⭐ 25.7k · Shell</sub>
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. <sub>⭐ 25.0k · TypeScript</sub>
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. <sub>⭐ 23.3k · TypeScript</sub>
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 21.7k · Python</sub>
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. (NeurIPS 2024) <sub>⭐ 20.5k · Python</sub>
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust <sub>⭐ 20.3k · Rust</sub>
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding 101｜The first course for AI-native product builders. <sub>⭐ 19.6k · JavaScript</sub>
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents… <sub>⭐ 19.6k · Python</sub>
-- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills… <sub>⭐ 19.1k · Python</sub>
-- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. <sub>⭐ 18.4k · TypeScript</sub>
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local… <sub>⭐ 18.2k · Python</sub>
-- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all… <sub>⭐ 18.0k · Python</sub>
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform <sub>⭐ 17.8k · Jupyter Notebook</sub>
-- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero… <sub>⭐ 16.8k · JavaScript</sub>
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. <sub>⭐ 15.9k</sub>
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant… <sub>⭐ 15.7k · Go</sub>
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. <sub>⭐ 15.7k · Go</sub>
-- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat… <sub>⭐ 14.8k · TypeScript</sub>
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve <sub>⭐ 13.6k · TypeScript</sub>
-- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower.… <sub>⭐ 13.2k · TeX</sub>
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. <sub>⭐ 13.0k · TypeScript</sub>
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD Shift FinOps Left! <sub>⭐ 12.5k · Go</sub>
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. <sub>⭐ 11.6k · TypeScript</sub>
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent… <sub>⭐ 11.5k · TypeScript</sub>
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit… <sub>⭐ 11.4k · TypeScript</sub>
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn <sub>⭐ 11.3k · TypeScript</sub>
-- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web. <sub>⭐ 11.3k · TypeScript</sub>
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent <sub>⭐ 10.8k · Python</sub>
-- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills <sub>⭐ 10.8k · TypeScript</sub>
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and… <sub>⭐ 10.4k · Python</sub>
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with… <sub>⭐ 9.1k · Python</sub>
-- [lencx/Noi](https://github.com/lencx/Noi) - Less chaos. More flow. <sub>⭐ 9.1k · TypeScript</sub>
-- [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - The agentic HTML editor — your local AI agent writes the HTML, you ship it. 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) Sandboxed preview ·… <sub>⭐ 9.0k · HTML</sub>
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 8.8k · Go</sub>
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors <sub>⭐ 8.8k · Rust</sub>
-- [pacifio/atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place <sub>⭐ 8.7k · Rust</sub>
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. <sub>⭐ 8.6k · Go</sub>
-- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a genoffice CLI and agent skill so Claude Code, Codex and Cursor can create and… <sub>⭐ 8.4k · TypeScript</sub>
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension <sub>⭐ 8.2k · Swift</sub>
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc. <sub>⭐ 7.8k · TypeScript</sub>
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent <sub>⭐ 7.6k · TypeScript</sub>
-- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers… <sub>⭐ 7.5k · Go</sub>
-- [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible. <sub>⭐ 7.3k · TypeScript</sub>
-- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. <sub>⭐ 7.1k · Shell</sub>
-- [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. <sub>⭐ 7.0k · TypeScript</sub>
-- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. <sub>⭐ 7.0k · Go</sub>
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - AI Coding, Vim Style <sub>⭐ 6.9k · Lua</sub>
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and… <sub>⭐ 6.8k · TypeScript</sub>
-- [MengTo/Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents <sub>⭐ 6.6k · HTML</sub>
-- [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to. <sub>⭐ 6.3k · JavaScript</sub>
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents. <sub>⭐ 6.3k · Rust</sub>
-- [KunAgent/Kun](https://github.com/KunAgent/Kun) - Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. <sub>⭐ 6.3k · TypeScript</sub>
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes. <sub>⭐ 6.3k · TypeScript</sub>
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. <sub>⭐ 6.3k · Python</sub>
-- [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins <sub>⭐ 6.3k · TypeScript</sub>
-- [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new… <sub>⭐ 6.2k · TypeScript</sub>
-- [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex <sub>⭐ 6.1k · TypeScript</sub>
-- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative. <sub>⭐ 6.1k · Python</sub>
-- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. <sub>⭐ 6.0k · Python</sub>
-- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support <sub>⭐ 6.0k · TypeScript</sub>
-- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the… <sub>⭐ 6.0k · HTML</sub>
-- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment ( YC W26). Run multiple coding agents in parallel. Use any provider. <sub>⭐ 5.9k · TypeScript</sub>
-- [ModelEngine-Group/nexent](https://github.com/ModelEngine-Group/nexent) - Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints… <sub>⭐ 5.9k · Python</sub>
-- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode. <sub>⭐ 5.9k · Go</sub>
-- [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org <sub>⭐ 5.7k · Go</sub>
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Track token usage across AI coding agents from your terminal. Global leaderboard with trillions of tokens tracked. <sub>⭐ 5.6k · Rust</sub>
-- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C# <sub>⭐ 5.5k · C#</sub>
-- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. <sub>⭐ 5.4k · TypeScript</sub>
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. <sub>⭐ 5.4k · Rust</sub>
-- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo. <sub>⭐ 5.2k · Go</sub>
-- [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim <sub>⭐ 5.1k · Vim Script</sub>
-- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today. <sub>⭐ 5.1k · Shell</sub>
-- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents <sub>⭐ 5.0k · TypeScript</sub>
-- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools. <sub>⭐ 4.9k</sub>
-- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built… <sub>⭐ 4.9k · TypeScript</sub>
-- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux. <sub>⭐ 4.9k · TypeScript</sub>
-- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI. <sub>⭐ 4.9k · TypeScript</sub>
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. <sub>⭐ 4.8k · JavaScript</sub>
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. <sub>⭐ 4.7k · TypeScript</sub>
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo是全能的代理工程平台,用最受欢迎的开源编码代理构建,飞船,速度更快. <sub>⭐ 27.5k · TypeScript</sub>
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI,没有APIs,没有$200的月账单。享受一个自主的代理商来思考,浏览网络,以及电费的唯一代码。 <sub>⭐ 27.4k · Python</sub>
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - 持续基于文件的AI编码代理和长期运行任务的规划. Crash-pracked markdown plans,会话恢复后/清晰而紧凑,每回合重注射逆上下文腐烂... <sub>⭐ 27.3k · Shell</sub>
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - 将克劳德代码变成一个完整的游戏Dev工作室——49个AI代理,72个工作流程技能,以及一个完整的协调系统映射真实的工作室等级. <sub>⭐ 25.7k · Shell</sub>
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - AI编码代理的上下文窗口优化. Sandboxs工具输出(减少98%),坚持会话内存,并通过MCP+钩子执行17个平台的路由. <sub>⭐ 25.0k · TypeScript</sub>
+- [conwnet/github1s](https://github.com/conwnet/github1s) - 一秒钟后读取带有VS代码的GitHub码. <sub>⭐ 23.3k · TypeScript</sub>
+- [google/adk-python](https://github.com/google/adk-python) - 一个开源,代码第一的Python工具包,用于构建,评价和部署具有灵活性和控制力的精密AI代理. <sub>⭐ 21.7k · Python</sub>
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent使用一个 GitHub 问题,并尝试用您所选择的 LM 来自动修复它,也可以用于攻击性网络安全或竞争性编码挑战。 (NeurIPS 2024) <sub>⭐ 20.5k · Python</sub>
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - 高性能的编码剂带,用生锈书写 <sub>⭐ 20.3k · Rust</sub>
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 气温编码101Q AI-本土产品制造者第一门课程. <sub>⭐ 19.6k · JavaScript</sub>
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - 非官方的 Python API 和 Google 双米尼 Notebook 的代理技能。 通过 Python , CLI 和 AI 代理... <sub>⭐ 19.6k · Python</sub>
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - AI代理技能的安全扫描仪. 检测Claude Code, Codex和MCP技能中的弱点,恶意模式,安全风险,即时注射,数据过滤,以及供应链风险... <sub>⭐ 19.1k · Python</sub>
+- [labring/sealos](https://github.com/labring/sealos) - 从 GitHub 或您的 AI 编码代理中部署真实的项目, 然后用 AI 驱动操作运行 。 <sub>⭐ 18.4k · TypeScript</sub>
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Claude Code的通用SEO技能. 26个子技能+19个子代理,涵盖技术SEO,E-E-A-T,schema,GEO/AEO,代理读取器(Lighthouse Agent Browsing,WebMCP,llms.txt),回路,本地... <sub>⭐ 18.2k · Python</sub>
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) - 具有C++核心和50+ Python-extensible节点的高性能AI管道引擎. 构建,调试,以及比例化LLM工作流程,拥有13+模型提供者,8+矢量数据库,以及代理管弦乐,全部... <sub>⭐ 18.0k · Python</sub>
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Google Cloud上的Generative AI样本代码和笔记本,配有双子企业代理平台 <sub>⭐ 17.8k · Jupyter Notebook</sub>
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - AI代理运行浏览器自动化的最快浏览器,用于与您的AI代理共享登录浏览器状态,如Codex或Claude Code,而不打扰您. 0成本零... <sub>⭐ 16.8k · JavaScript</sub>
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - GSAP的官方AI技能,这些技能教AI编码代理如何正确使用GreenSock动画平台(GreenSock Animation Platform),包括最佳做法,常见的动画模式和插件使用. <sub>⭐ 15.9k</sub>
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - 连接本地的AI编码代理(Claude Code, cursor,双子座CLI, Codex)到消息平台(Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). 与您的AI dev助手聊天... <sub>⭐ 15.7k · Go</sub>
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - 开源AI编码代理,为大型项目和现实世界任务设计. <sub>⭐ 15.7k · Go</sub>
+- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code / 代理的本地第一跨平台桌面工作空间:多代理,Git工作树,代码diffs,技能市场,多模型,计算机使用,任务意识桌面宠物,与WeChat... <sub>⭐ 14.8k · TypeScript</sub>
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo 代码:模型和代理共同演变的地方 <sub>⭐ 13.6k · TypeScript</sub>
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - 任何AI模型的AI研究和工程技能的综合开源库,将技能和你的claude代码/codex/gemini代理器包成全马力的AI研究代理. . <sub>⭐ 13.2k · TeX</sub>
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - 用于代理编码的全内,开源后端平台. InsForge 提供了您的编码代理数据库,认证,存储,计算,托管,以及AI网关,以将全斯塔克应用程序端到端. <sub>⭐ 13.0k · TypeScript</sub>
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud为工程师、AI编码代理和CI/CD Shift FinOps Left 花费了情报! <sub>⭐ 12.5k · Go</sub>
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - 在复杂的代码库中,让AI编码代理解决难点问题的最好方法. <sub>⭐ 11.6k · TypeScript</sub>
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - 开源代理工作空间企业可以自己制作。 连接您已经运行的系统—— 100+集成, MCP,聊天工具, 应用程序,浏览器, 本地文件—— 共享内存。 任何代理... <sub>⭐ 11.5k · TypeScript</sub>
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - 实用模式,启动器和CLI工具用于与AI编码代理进行环路工程. Design systems excuse and coording agents(由Addy Osmani和Boris Cherny启发). 包括环路审计... <sub>⭐ 11.4k · TypeScript</sub>
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - 免费的本地工具,用于跟踪 AI 编码令牌的使用和成本,通过37种工具和代理(Claude Code, Cursor, Codex, Gemini 等),按模型,项目和任务进行. npx codeburn. <sub>⭐ 11.3k · TypeScript</sub>
+- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio是本地首款AI工作空间,用于多代理聊天,编码和视觉工作流程,可在桌面和网络上找到. <sub>⭐ 11.3k · TypeScript</sub>
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - 开源同步编码代理 <sub>⭐ 10.8k · Python</sub>
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) - AI 编码代理的通用技能加载器 - npm i - g 打开技能 <sub>⭐ 10.8k · TypeScript</sub>
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent是一个开源的AI代理框架和元harness:管弦乐Claude Code,Codex,cursor,Pi,以及定制代理——不重写交换套装,执行政策和沙箱,以及. <sub>⭐ 10.4k · Python</sub>
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI – 24/7 AI Workforce. 停止写锅炉板,开始运输自主自我改进的代理商,这些代理商研究,计划,代码和执行任务. <sub>⭐ 9.1k · Python</sub>
+- [lencx/Noi](https://github.com/lencx/Noi) - 少些混乱,多些流动 <sub>⭐ 9.1k · TypeScript</sub>
+- [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - 代理 HTML 编辑器 — 您本地的 AI 代理 写 HTML, 您发运它. 75 swatch × 9 Surfaces (magazine ^ came → page ~ XHS / title =原型 →数据报告 ・ Hyperframes) Sandboxed 预览... <sub>⭐ 9.0k · HTML</sub>
+- [google/adk-go](https://github.com/google/adk-go) - 一个开放源代码第一Go工具箱,用于构建,评价和部署精密的AI代理,具有灵活性和控制性. <sub>⭐ 8.8k · Go</sub>
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - 长期解决代理编码CLI的内存问题,并促进不同代理供应商之间的交接 <sub>⭐ 8.8k · Rust</sub>
+- [pacifio/atlas](https://github.com/pacifio/atlas) - 代理的源控件。 使用多个编码代理, 跟踪其更改并查询到一个地方 <sub>⭐ 8.7k · Rust</sub>
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - 管理Claude Code,Codex,OpenCode和Amp等多个AI终端代理. <sub>⭐ 8.6k · Go</sub>
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - 自由,开源的AI Office套件: Docs, Sheets,幻灯片,PDF,Markdown和HTML编辑器,内置AI代理,外加genoffice CLI和代理技能,这样Claude Code,Codex和Cursor就可以创建和. <sub>⭐ 8.4k · TypeScript</sub>
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - 第一个 GitHub 副驾驶、 Codeium 和 ChatGPT Xcode 源代码编辑器扩展 <sub>⭐ 8.2k · Swift</sub>
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - 在Obsidian-OpenCode,Codex,Claude Code等地运行代理. <sub>⭐ 7.8k · TypeScript</sub>
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - 复制您代理服务器的任何 UI 元素 <sub>⭐ 7.6k · TypeScript</sub>
+- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - Gentle-AI 配置您已经使用的 AI 编码代理程序: Claude Code, cursor, OpenCode, Codex, Pi 等。 选择持续内存, 有机驱动开发, 管理技能, MCP 服务器... <sub>⭐ 7.5k · Go</sub>
+- [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai的编码代理机 强大、聪明、可扩展 <sub>⭐ 7.3k · TypeScript</sub>
+- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - 产品管理技能框架建立在Claude Code、Cowork、Codex和AI代理商的战斗测试方法之上。 <sub>⭐ 7.1k · Shell</sub>
+- [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - 专业AI编码代理的安全、有效的技能注册。扩展反重力、Claude代码、Cursor、Copilot, 以及更具有绝对信心的操作。 <sub>⭐ 7.0k · TypeScript</sub>
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - AI编码代理器的持续性内存系统. Agent-agnostic Go binary with SQLite + FTS5,MCP服务器,HTTP API,CLI,以及TUI. <sub>⭐ 7.0k · Go</sub>
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - AI 编码、 Vim 样式 <sub>⭐ 6.9k · Lua</sub>
+- [purocean/yn](https://github.com/purocean/yn) - 一个高度可扩展的Markdown编辑器,其特点是版本控制,AI Copilot,文档说明,心灵地图,文档加密,可执行代码片段,图表嵌入,HTML小程序,插件,以及. <sub>⭐ 6.8k · TypeScript</sub>
+- [MengTo/Skills](https://github.com/MengTo/Skills) - 使用 Codex, Claude, Cursor 和其他AI编码代理的设计和构建者的代理技能 <sub>⭐ 6.6k · HTML</sub>
+- [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - 观看克劳德代码,Codex,cursor等AI编码代理的像素桌面宠物——所以你不必. <sub>⭐ 6.3k · JavaScript</sub>
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - 复制/粘贴源代码检测器. 220+语言, Rust引擎, SARIF/HTML/badge记者, GitHub Action, AI代理的MCP服务器. <sub>⭐ 6.3k · Rust</sub>
+- [KunAgent/Kun](https://github.com/KunAgent/Kun) - 本地第一AI代理工作空间用于编码,写作,设计,研究和自动化——桌面图形用户界面和TUI的一次性运行. <sub>⭐ 6.3k · TypeScript</sub>
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - AI代理的自控控制飞机:调度任务,审查运行,跟踪支出,以及操作OpenClaw,Claude Code,Codex等运行时间. <sub>⭐ 6.3k · TypeScript</sub>
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI强力安全审查 GitHub Action 利用克劳德分析安全漏洞的代码变化. <sub>⭐ 6.3k · Python</sub>
+- [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - 本地首款AI编码代理桌面:Electron + Rust主机核心 + Pi Agent Harness + 可用户安装插件 <sub>⭐ 6.3k · TypeScript</sub>
+- [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 对顶级AI工具进行系统提示的解析收集, 适合AI代理构建者和即时工程师. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveble, v0, Grok, 同一新... <sub>⭐ 6.2k · TypeScript</sub>
+- [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Claude 代码和代码x 的 0-config 代码流程 <sub>⭐ 6.1k · TypeScript</sub>
+- [baserow/baserow](https://github.com/baserow/baserow) - 构建数据库,自动化,应用和代理 AI——没有代码. 开源平台在云和自托管上可用. GDPR,HIPAA,SOC 2符合. Best Airtable alternative. <sub>⭐ 6.1k · Python</sub>
+- [google/agents-cli](https://github.com/google/agents-cli) - 将任何编码助理变成专家的CLI和技能,在Google Cloud上创建、评价和部署AI代理。 <sub>⭐ 6.0k · Python</sub>
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - VS 代码的开源光标类似 AI 编码代理 - 代理聊天,多提供者 LLMs( OpenAI, Ollama. cpp),语义搜索,以及 MCP 支持 <sub>⭐ 6.0k · TypeScript</sub>
+- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - 用于AI驱动软件开发的多代理系统. 结合LLM和DevOps工具,将自然语言要求转换为工作软件. 支持任何开发语言并扩展... <sub>⭐ 6.0k · HTML</sub>
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash是开源代理开发环境(YC W26),并行运行多个编码代理,使用任何提供者. <sub>⭐ 5.9k · TypeScript</sub>
+- [ModelEngine-Group/nexent](https://github.com/ModelEngine-Group/nexent) - Nexent是使用Harness Engineering原理的自动生成生产级AI代理的零码平台——统一工具,技能,内存,与内置约束的管弦乐. . <sub>⭐ 5.9k · Python</sub>
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - 一个工作坊,教你怎么构建自己的编码代理。类似于Roo代码、Cline、Amp、Cursor、Windsurf或OpenCode。 <sub>⭐ 5.9k · Go</sub>
+- [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - 下一代个人AI助手由LLM,RAG和代理环路提供动力,支持计算机使用,浏览器使用和编码代理,演示 //demo.openagentai.org <sub>⭐ 5.7k · Go</sub>
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 追踪到您终端的 AI 编码代理器上的轨道符号使用量 。 全球导标 , 有数万亿个符号 。 <sub>⭐ 5.6k · Rust</sub>
+- [dotnet/skills](https://github.com/dotnet/skills) - 技能仓库,协助 AI 编码代理器使用.NET和C# <sub>⭐ 5.5k · C#</sub>
+- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - 您的 AI 编码代理器的上网- 本地首个搜索、 获取、 爬行和研究。 没有 API 键, 没有云, $0/ query. public beta 。 <sub>⭐ 5.4k · TypeScript</sub>
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - 一个轻量级的桌面应用程序,用于管理,同步,并组织超过50+编码工具的AI代理技能——克劳德代码(Claude Code),Codex,cursor,Copilot,双子座CLI等. <sub>⭐ 5.4k · Rust</sub>
+- [entireio/cli](https://github.com/entireio/cli) - 在您的 Git 工作流程中包含整个 CLI 钩子, 以抓取您工作的 AI 代理会话。 会话与承诺并列索引, 创建一个可搜索的记录 , 记录代码是怎样写入的 repo 。 <sub>⭐ 5.2k · Go</sub>
+- [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Vim和Neovim的免费超快副驾驶替代品 <sub>⭐ 5.1k · Vim Script</sub>
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon 语音通知( +!) 给 Claude Code, Codex, IDES 和任何AI 代理。 停止监视您的终端。 今天雇用一个 Peon 。 <sub>⭐ 5.1k · Shell</sub>
+- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven生命周期(AI-DLC) AI编码代理商适应性工作流程指导规则 <sub>⭐ 5.0k · TypeScript</sub>
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - 斯威夫特UI代理技能为克劳德代码,Codex等AI工具. <sub>⭐ 4.9k</sub>
+- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI代理架构用于基于批准执行的计划首个开发工作流程. 多语种支持(TypeScript,Python,Go,Rust) 自动测试,代码审查,验证建立. <sub>⭐ 4.9k · TypeScript</sub>
+- [callstack/agent-device](https://github.com/callstack/agent-device) - 为AI编码代理机进行移动应用自动化与验证. CLI,MCP服务器,并为iOS,Android,HarmonyOS,TV,web,macOS和Linux输入了Node.js API. <sub>⭐ 4.9k · TypeScript</sub>
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - 一个自组织化的Obsidian金库,它赋予AI编码代理持续内存. Claude Code, Codex CLI, 双子座CLI. <sub>⭐ 4.9k · TypeScript</sub>
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 熟练的审核和重写内容以删除 AI 写入模式。 用它来表达您最喜欢的代理, 包括 Claude Code、 OpenClaw、 Codex 和 Hermes 。 <sub>⭐ 4.8k · JavaScript</sub>
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - 对AI代理的开源可观察性. 查找您的代理失败之处, 发送您的编码代理来修复它, 并校验与真实痕迹的固定 。 <sub>⭐ 4.7k · TypeScript</sub>
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude代码指南 - 设置,命令,工作流程,代理,技能&提示-n-tricks 从初学者到动力用户! <sub>⭐ 4.6k · Python</sub>
-- [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. <sub>⭐ 4.4k · TypeScript</sub>
-- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps… <sub>⭐ 4.3k · TypeScript</sub>
-- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you <sub>⭐ 4.3k · TypeScript</sub>
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code. <sub>⭐ 4.3k · JavaScript</sub>
-- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus… <sub>⭐ 4.2k · JavaScript</sub>
-- [CommandCodeAI/command-code](https://github.com/CommandCodeAI/command-code) - Command Code AI — the best coding agent for open models. <sub>⭐ 4.1k</sub>
-- [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! <sub>⭐ 4.0k · JavaScript</sub>
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse , validation, version control and collaboration in hardware; starting with electronics <sub>⭐ 4.0k · Python</sub>
-- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. <sub>⭐ 3.9k · TypeScript</sub>
-- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development <sub>⭐ 3.9k · JavaScript</sub>
-- [gadievron/raptor](https://github.com/gadievron/raptor) - Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we… <sub>⭐ 3.9k · Python</sub>
-- [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task… <sub>⭐ 3.9k · Rust</sub>
-- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. <sub>⭐ 3.8k · Rust</sub>
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go <sub>⭐ 3.8k · Go</sub>
-- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP… <sub>⭐ 3.8k · Python</sub>
-- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features. <sub>⭐ 3.8k · Python</sub>
-- [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported. <sub>⭐ 3.7k · TypeScript</sub>
-- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time. <sub>⭐ 3.7k · Rust</sub>
-- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure. <sub>⭐ 3.7k · TypeScript</sub>
-- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). <sub>⭐ 3.6k · Python</sub>
-- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents <sub>⭐ 3.5k · Python</sub>
-- [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. <sub>⭐ 3.5k · Python</sub>
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API <sub>⭐ 3.5k · TypeScript</sub>
-- [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of! <sub>⭐ 3.5k · Python</sub>
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - A collection of Golang agentic skills that works <sub>⭐ 3.4k · Go</sub>
-- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and… <sub>⭐ 3.4k · JavaScript</sub>
-- [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) - FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. <sub>⭐ 3.3k · Python</sub>
-- [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust. <sub>⭐ 3.3k · Rust</sub>
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and Codex skills. <sub>⭐ 3.3k · Python</sub>
-- [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code <sub>⭐ 3.2k · Go</sub>
-- [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. <sub>⭐ 3.1k · Rust</sub>
-- [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings. <sub>⭐ 3.1k · TypeScript</sub>
-- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by… <sub>⭐ 3.1k · Python</sub>
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent the coding intelligence, a long-term memory system and model optimized workflow packages <sub>⭐ 3.1k · Python</sub>
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language. <sub>⭐ 3.0k · JavaScript</sub>
-- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context <sub>⭐ 3.0k · Rust</sub>
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents <sub>⭐ 3.0k</sub>
-- [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps <sub>⭐ 3.0k · TypeScript</sub>
-- [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents <sub>⭐ 2.9k · TypeScript</sub>
-- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction… <sub>⭐ 2.9k · Python</sub>
-- [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) - An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin. <sub>⭐ 2.9k · JavaScript</sub>
-- [samugit83/redamon](https://github.com/samugit83/redamon) - Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what… <sub>⭐ 2.9k · Python</sub>
-- [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books. <sub>⭐ 2.9k</sub>
-- [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) - Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. <sub>⭐ 2.9k · TypeScript</sub>
-- [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. <sub>⭐ 2.8k · Rust</sub>
-- [compozy/compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated… <sub>⭐ 2.8k · Go</sub>
-- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. <sub>⭐ 2.7k · Python</sub>
-- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) - Claude Code skill: four-phase plan hardening (recon, interrogate, Codex adversarial review, cross-model build & inspection) — two AI models harden your plan before a line of code exists, then swap… <sub>⭐ 2.7k · Python</sub>
-- [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. <sub>⭐ 2.7k · Rust</sub>
-- [felinics/Memoh](https://github.com/felinics/Memoh) - The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so… <sub>⭐ 2.6k · Go</sub>
-- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for… <sub>⭐ 2.6k · Rust</sub>
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification <sub>⭐ 2.6k</sub>
-- [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with… <sub>⭐ 2.5k</sub>
-- [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional… <sub>⭐ 2.5k · Python</sub>
-- [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. <sub>⭐ 2.5k · TypeScript</sub>
-- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. <sub>⭐ 2.5k · TypeScript</sub>
-- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync. <sub>⭐ 2.5k · TypeScript</sub>
-- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions <sub>⭐ 2.5k · Swift</sub>
-- [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI. <sub>⭐ 2.4k · TypeScript</sub>
-- [LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M) - KunLun-M — Open-source static code analysis for PHP, Nodejs/JavaScript, Python, Golang, Java and C/C++, with AST-based semantic scanning and one-click AI Agent integration (OpenClaw, Codex, Claude… <sub>⭐ 2.4k · Python</sub>
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run… <sub>⭐ 2.4k · C++</sub>
-- [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console. <sub>⭐ 2.4k · Go</sub>
-- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM Council — a Claude Code skill that runs your decisions through 5 AI advisors with peer review <sub>⭐ 2.3k</sub>
-- [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents. <sub>⭐ 2.3k · Shell</sub>
-- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data <sub>⭐ 2.3k · Python</sub>
-- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog… <sub>⭐ 2.3k · Python</sub>
-- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections… <sub>⭐ 2.3k · Shell</sub>
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. <sub>⭐ 2.3k · Go</sub>
-- [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) - Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. <sub>⭐ 2.3k · Python</sub>
-- [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants <sub>⭐ 2.3k · Python</sub>
-- [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit. <sub>⭐ 2.3k · TypeScript</sub>
-- [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. <sub>⭐ 2.2k · Python</sub>
-- [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices <sub>⭐ 2.2k · C</sub>
-- [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices <sub>⭐ 2.2k · JavaScript</sub>
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code. <sub>⭐ 2.2k · JavaScript</sub>
-- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration. <sub>⭐ 2.2k · TypeScript</sub>
-- [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite <sub>⭐ 2.2k · Python</sub>
-- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) - Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local… <sub>⭐ 2.1k · JavaScript</sub>
-- [crshdn/mission-control](https://github.com/crshdn/mission-control) - The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted… <sub>⭐ 2.1k · TypeScript</sub>
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code. <sub>⭐ 2.1k · JavaScript</sub>
-- [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) - A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems <sub>⭐ 2.1k</sub>
-- [appeeky/aso-skills](https://github.com/appeeky/aso-skills) - AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI… <sub>⭐ 2.1k · MDX</sub>
-- [Octane0411/open-vibe-island](https://github.com/Octane0411/open-vibe-island) - Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump back instantly. <sub>⭐ 2.0k · Swift</sub>
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. <sub>⭐ 2.0k · Nix</sub>
-- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. <sub>⭐ 2.0k · JavaScript</sub>
-- [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents <sub>⭐ 2.0k · Python</sub>
-- [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) - A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex… <sub>⭐ 2.0k · TypeScript</sub>
-- [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - Zoo Code gives you a whole dev team of AI agents in your code editor. <sub>⭐ 1.9k · TypeScript</sub>
-- [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering <sub>⭐ 1.9k · Python</sub>
-- [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. <sub>⭐ 1.9k · Swift</sub>
-- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition. <sub>⭐ 1.9k · TypeScript</sub>
-- [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans… <sub>⭐ 1.9k</sub>
-- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. <sub>⭐ 1.9k · TypeScript</sub>
-- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. <sub>⭐ 1.9k · TypeScript</sub>
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. <sub>⭐ 1.9k · TypeScript</sub>
-- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows. <sub>⭐ 1.9k · Python</sub>
-- [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and… <sub>⭐ 1.9k · C#</sub>
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews <sub>⭐ 1.9k</sub>
-- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. <sub>⭐ 1.9k · TypeScript</sub>
-- [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate… <sub>⭐ 1.8k · Go</sub>
-- [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code <sub>⭐ 1.8k · Rust</sub>
-- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents. <sub>⭐ 1.8k · HTML</sub>
-- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway <sub>⭐ 1.8k · TypeScript</sub>
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. <sub>⭐ 1.8k · Python</sub>
-- [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion <sub>⭐ 1.8k · TypeScript</sub>
-- [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents <sub>⭐ 1.8k · Python</sub>
-- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to… <sub>⭐ 1.8k · Python</sub>
-- [px0-ai/px0](https://github.com/px0-ai/px0) - px0 is an IDE built for reviewing AI-generated code, optimized for speed. It turns your browser into a zero-latency console with native Git and GitHub integrations, instant search across massive… <sub>⭐ 1.7k · Go</sub>
-- [google/adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.7k · Java</sub>
-- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative. <sub>⭐ 1.7k · TypeScript</sub>
-- [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”. <sub>⭐ 1.7k · Rust</sub>
-- [emarco177/langchain-course](https://github.com/emarco177/langchain-course) - A project-based course repository for developing AI agents using LangChain v1+ and LangGraph: search agents, RAG systems, reflection agents, and code interpreters. <sub>⭐ 1.7k</sub>
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance <sub>⭐ 1.7k · Rust</sub>
-- [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel. <sub>⭐ 1.7k · TypeScript</sub>
-- [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) - Collection of specialized AI subagents for Claude Code for personal use (full-stack development). <sub>⭐ 1.7k</sub>
-- [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules. <sub>⭐ 1.7k · Go</sub>
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration. <sub>⭐ 1.7k</sub>
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants. <sub>⭐ 1.7k · Shell</sub>
-- [sandeco/reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents <sub>⭐ 1.7k · JavaScript</sub>
-- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Curated skills, sub-agents, and config templates that supercharge Claude Code — research, image gen, GitHub automation & more. <sub>⭐ 1.7k · Python</sub>
-- [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) - Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure <sub>⭐ 1.7k · Shell</sub>
-- [spec-kitty/spec-kitty](https://github.com/spec-kitty/spec-kitty) - Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering… <sub>⭐ 1.7k · Python</sub>
-- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features… <sub>⭐ 1.6k · Python</sub>
-- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation… <sub>⭐ 1.6k · Python</sub>
-- [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) - The control plane for AI coding agents. <sub>⭐ 1.6k · TypeScript</sub>
-- [zhnt/loushang](https://github.com/zhnt/loushang) - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance, traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen… <sub>⭐ 1.6k · Python</sub>
-- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude reads its own source code — 17-chapter architectural deep-dive into Claude Code v2.1.88. EN/ZH bilingual. <sub>⭐ 1.6k</sub>
-- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx is an executable context layer for data and analytics agents Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company <sub>⭐ 1.6k · TypeScript</sub>
-- [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code. <sub>⭐ 1.6k · Go</sub>
-- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes. <sub>⭐ 1.6k · TypeScript</sub>
-- [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp. <sub>⭐ 1.6k · TypeScript</sub>
-- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent <sub>⭐ 1.6k · TypeScript</sub>
-- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more. <sub>⭐ 1.6k · TypeScript</sub>
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity… <sub>⭐ 1.6k · TypeScript</sub>
-- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent: Your intelligent companion for seamless AI engineering and research. Integrate with arxiv and paper with code to provide better code/research plans OpenAI, Anthropic, Gemini, Ollama, etc… <sub>⭐ 1.6k · Python</sub>
-- [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more <sub>⭐ 1.5k · TypeScript</sub>
-- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework. <sub>⭐ 1.5k · Shell</sub>
-- [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion <sub>⭐ 1.5k · TypeScript</sub>
-- [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up… <sub>⭐ 1.5k · JavaScript</sub>
-- [bcurts/agentchattr](https://github.com/bcurts/agentchattr) - Free, local chat where AI coding agents can tag each other, talk, and coordinate with you. <sub>⭐ 1.5k · Python</sub>
-- [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.5k · Shell</sub>
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook. <sub>⭐ 1.5k · Go</sub>
-- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix <sub>⭐ 1.5k · HTML</sub>
-- [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents <sub>⭐ 1.5k · TypeScript</sub>
-- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows. <sub>⭐ 1.5k · TypeScript</sub>
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit <sub>⭐ 1.5k · Go</sub>
-- [Paritok-official/paritok-4b-v1](https://github.com/Paritok-official/paritok-4b-v1) - Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our… <sub>⭐ 1.5k · Python</sub>
-- [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows. <sub>⭐ 1.4k · TypeScript</sub>
-- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) - Open source, self-hosted AI code review. Bring your own LLM. <sub>⭐ 1.4k · TypeScript</sub>
-- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - Skills that guide AI coding agents to help you build product-specific AI evals. <sub>⭐ 1.4k</sub>
-- [google/adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.4k · TypeScript</sub>
-- [ammaarreshi/gemma-chat](https://github.com/ammaarreshi/gemma-chat) - Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama <sub>⭐ 1.4k · TypeScript</sub>
-- [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy. <sub>⭐ 1.4k · Shell</sub>
-- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands <sub>⭐ 1.4k · Python</sub>
-- [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) - AI-powered sales team for Claude Code. Research prospects, qualify leads (BANT + MEDDIC), find decision makers, generate outreach sequences, prepare for meetings, write proposals, and produce PDF… <sub>⭐ 1.4k · Python</sub>
-- [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and… <sub>⭐ 1.4k · TypeScript</sub>
-- [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries. <sub>⭐ 1.4k · Zig</sub>
-- [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - The IDE built for AI coding agents. <sub>⭐ 1.4k · TypeScript</sub>
-- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions <sub>⭐ 1.4k · Python</sub>
-- [ntegrals/10x](https://github.com/ntegrals/10x) - 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted. <sub>⭐ 1.4k · TypeScript</sub>
-- [wrtnlabs/autobe](https://github.com/wrtnlabs/autobe) - AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code <sub>⭐ 1.4k · TypeScript</sub>
-- [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - A user-friendly, multi-platform GUI for managing and running CrewAI agents and tasks. Supports Conda and virtual environments, no coding needed. <sub>⭐ 1.4k · Python</sub>
-- [pinchbench/skill](https://github.com/pinchbench/skill) - PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with by the humans at https://kilo.ai <sub>⭐ 1.4k · Python</sub>
-- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more. <sub>⭐ 1.4k</sub>
-- [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by… <sub>⭐ 1.4k · Python</sub>
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio… <sub>⭐ 1.4k · JavaScript</sub>
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later. Comes with AI agent skill to write, edit and format the code. <sub>⭐ 1.4k · C</sub>
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI… <sub>⭐ 1.3k · Rust</sub>
-- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests. <sub>⭐ 1.3k · Go</sub>
-- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Mechanical verification for AI coding agents — skills pack or full harness (stop-hook gates, artifact checks, independent judges). <sub>⭐ 1.3k · TypeScript</sub>
-- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source… <sub>⭐ 1.3k · Python</sub>
-- [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Empryo's engine, v2 (soulforge) and issue tracker!! Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com <sub>⭐ 1.3k · TypeScript</sub>
-- [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) - Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks. <sub>⭐ 1.3k · Python</sub>
-- [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI)… <sub>⭐ 1.3k · Python</sub>
-- [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. <sub>⭐ 1.3k · TypeScript</sub>
-- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills)… <sub>⭐ 1.3k · Python</sub>
-- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code dashboard with usage stats, error analysis, and sharable feature <sub>⭐ 1.3k · Python</sub>
-- [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) - Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs <sub>⭐ 1.3k</sub>
-- [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project… <sub>⭐ 1.3k · JavaScript</sub>
-- [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop… <sub>⭐ 1.2k · Python</sub>
-- [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) - Reddit research skills for Claude Code and AI agents <sub>⭐ 1.2k · Python</sub>
-- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify. <sub>⭐ 1.2k · JavaScript</sub>
-- [repowise-dev/claude-code-prompts](https://github.com/repowise-dev/claude-code-prompts) - Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code. <sub>⭐ 1.2k</sub>
-- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards. <sub>⭐ 1.2k · Shell</sub>
-- [wilwaldon/Claude-Code-Frontend-Design-Toolkit](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit) - Everything I've found that actually makes Claude Code output better-looking frontends. Skills, plugins, MCP servers, CLAUDE.md tricks <sub>⭐ 1.2k</sub>
-- [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot <sub>⭐ 1.1k · JavaScript</sub>
-- [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) - If using CLINE/RooCode/Cursor/Windsurf Setup these rules. Usable for newbies riding AI wave and experienced folks both . Combines: (1) Memory,(2) Reasoning into subtasks (3) Prompts for best… <sub>⭐ 1.1k</sub>
-- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving… <sub>⭐ 1.0k · TypeScript</sub>
-- [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor <sub>⭐ 1.0k · Clojure</sub>
-- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents. <sub>⭐ 974 · TypeScript</sub>
-- [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time. <sub>⭐ 963</sub>
-- [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you. <sub>⭐ 954 · JavaScript</sub>
-- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - My go-to rules for using Cursor and LLMs in software development. <sub>⭐ 887</sub>
-- [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review <sub>⭐ 872 · Python</sub>
-- [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code <sub>⭐ 811 · TypeScript</sub>
-- [mustafakendiguzel/claude-code-ui-agents](https://github.com/mustafakendiguzel/claude-code-ui-agents) - A curated collection of Claude AI agent prompts specifically designed for UI/UX design, web development, and frontend tasks. Transform your design workflow with specialized prompts for creating… <sub>⭐ 765</sub>
-- [infragate/capa](https://github.com/infragate/capa) - One capabilities.yaml wires skills, tools, rules, sub-agents, MCP servers, and plugins into Cursor, Claude Code, Codex, Windsurf, GitHub Copilot, and 30+ other AI coding agents <sub>⭐ 726 · TypeScript</sub>
-- [marckohlbrugge/37signals-skills](https://github.com/marckohlbrugge/37signals-skills) - Unofficial agent skills + reference guide that teach AI coding assistants to write Rails the 37signals way — extracted from Fizzy, Campfire, and DHH's code reviews <sub>⭐ 723</sub>
-- [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server <sub>⭐ 705 · JavaScript</sub>
-- [yzhao062/agent-style](https://github.com/yzhao062/agent-style) - 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro. <sub>⭐ 702 · Python</sub>
-- [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI. It focuses on speed, a compact… <sub>⭐ 669 · Swift</sub>
-- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - A staged code-review workflow and local dashboard built with TypeSafe Jev. <sub>⭐ 656 · TypeScript</sub>
-- [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench <sub>⭐ 645 · Go</sub>
-- [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) - Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs <sub>⭐ 645 · Shell</sub>
-- [argos-ci/argos](https://github.com/argos-ci/argos) - The open source visual testing platform for teams and AI agents. Review the product, not just the code. <sub>⭐ 636 · TypeScript</sub>
-- [Corbell-AI/Corbell](https://github.com/Corbell-AI/Corbell) - AI-powered spec generation and review using multi-repo code graph intelligence for backend teams that ship to production. <sub>⭐ 628 · Python</sub>
-- [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered… <sub>⭐ 620 · JavaScript</sub>
-- [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp custom rules via a… <sub>⭐ 609 · Python</sub>
-- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT <sub>⭐ 607 · JavaScript</sub>
-- [WoJiSama/skill-based-architecture](https://github.com/WoJiSama/skill-based-architecture) - A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/ / directory — a project skill that becomes… <sub>⭐ 599 · Shell</sub>
-- [FradSer/dotclaude](https://github.com/FradSer/dotclaude) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership. <sub>⭐ 593 · JavaScript</sub>
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit finds the cheapest AI coding setup that reliably works on your repository, then applies the winner as a reviewable change. <sub>⭐ 587 · Python</sub>
-- [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI <sub>⭐ 585 · Python</sub>
-- [unicodef1wn/grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) - Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go. <sub>⭐ 569 · Python</sub>
-- [xNul/code-llama-for-vscode](https://github.com/xNul/code-llama-for-vscode) - Use Code Llama with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot. <sub>⭐ 568 · Python</sub>
-- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI. <sub>⭐ 558 · Go</sub>
-- [umutxyp/Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) - Google SEO's full docs as an AI prompt machine — drop it into your AI assistant to map every public route, audit each page against Google's rules, and fix the gaps step by step. <sub>⭐ 554 · JavaScript</sub>
-- [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) - Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic… <sub>⭐ 536 · Python</sub>
-- [mco-org/mco](https://github.com/mco-org/mco) - CLI-first orchestration for AI coding agents: run selected agents and models in parallel, compare raw answers, and coordinate review or implementation workflows. <sub>⭐ 531 · Python</sub>
-- [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) - Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Shout out to @zarazhangrui <sub>⭐ 527 · HTML</sub>
-- [adshao/flounder](https://github.com/adshao/flounder) - Autonomous white-hat security auditor for AI-driven code review, bug bounty research, exploit construction, and execution-grounded verification. <sub>⭐ 516 · TypeScript</sub>
-- [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity) <sub>⭐ 513 · TypeScript</sub>
-- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and Codex CLI. <sub>⭐ 504 · TypeScript</sub>
-- [claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback) - A collection of Claude Code skills for academic research review. These tools were developed by Claes Bäckman. <sub>⭐ 488 · JavaScript</sub>
-- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root… <sub>⭐ 486 · Kotlin</sub>
-- [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) - AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools. <sub>⭐ 458</sub>
-- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX… <sub>⭐ 449 · TeX</sub>
-- [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) - More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. Star if you like it! <sub>⭐ 448 · Rust</sub>
-- [Nayjest/Gito](https://github.com/Nayjest/Gito) - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. <sub>⭐ 441 · Python</sub>
-- [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes. <sub>⭐ 439 · Rust</sub>
-- [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - 10 applied skills for Claude Code and Cursor that turn the principles of Refactoring UI into structured AI-assisted design reviews / not affiliated, big fan, get their book here <sub>⭐ 435 · JavaScript</sub>
-- [fjb040911/ai-rules](https://github.com/fjb040911/ai-rules) - ai-rules is a governance framework designed to solve "Architectural Decay" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI… <sub>⭐ 428 · JavaScript</sub>
-- [project-codeguard/rules](https://github.com/project-codeguard/rules) - Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules… <sub>⭐ 424 · Python</sub>
-- [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) - Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code. <sub>⭐ 420 · JavaScript</sub>
-- [fcakyon/phd-skills](https://github.com/fcakyon/phd-skills) - PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more. <sub>⭐ 413 · Shell</sub>
-- [JamesShi96/project-butler](https://github.com/JamesShi96/project-butler) - Project memory system for AI coding assistants (Claude Code, Cursor, Codex): session logs, project wiki, rules, TODOs, and handoff. <sub>⭐ 373 · Shell</sub>
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security <sub>⭐ 373 · Shell</sub>
-- [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) - AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse. <sub>⭐ 370 · TypeScript</sub>
-- [miracodeai/mira](https://github.com/miracodeai/mira) - Self-hosted AI code reviewer with indexed PR reviews, walkthroughs, vulnerability scanning, dependency graphs, custom rules, and a learning loop. <sub>⭐ 355 · Python</sub>
-- [plmbr/notebook-intelligence](https://github.com/plmbr/notebook-intelligence) - A JupyterLab extension supporting Claude Code, Copilot, Ollama, and OpenAI-compatible LLMs, with MCP, skills, plugins, and notebook agents. <sub>⭐ 347 · Python</sub>
-- [axtonliu/ai-pair](https://github.com/axtonliu/ai-pair) - Coordinate multiple AI models (Claude + GPT + Gemini) as a heterogeneous team. One creates, two review. A Claude Code Skill. <sub>⭐ 346</sub>
-- [skainguyen1412/antigravity-superpowers](https://github.com/skainguyen1412/antigravity-superpowers) - Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible. <sub>⭐ 327 · JavaScript</sub>
-- [gwendall/superclaude](https://github.com/gwendall/superclaude) - Give Claude AI superpowers for GitHub workflows. Transform "fix stuff" commits into professional messages, generate intelligent changelogs, and get AI code reviews - all with one command. <sub>⭐ 326 · Shell</sub>
-- [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - Codeball – AI Code Review that finds bugs and fast-tracks your code <sub>⭐ 326 · TypeScript</sub>
-- [Adityaraj0421/naksha-studio](https://github.com/Adityaraj0421/naksha-studio) - A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 62 commands, 15,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal. <sub>⭐ 320 · HTML</sub>
+- [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - 限制 - 严格的企业AI编码器,质量第一,包括AI Agent,AI CodeReview,AI Finish. <sub>⭐ 4.4k · TypeScript</sub>
+- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — 编码代理的一种技能. Tree-of- thought with pruning, 建在克劳德&Codex Agent SDK上. Fans在不同的认知框架,分数,prunes陷阱下出并行的分歧想法...... <sub>⭐ 4.3k · TypeScript</sub>
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - 一个为您撰写( 实际有用的) 代码的 AI 代理 <sub>⭐ 4.3k · TypeScript</sub>
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - AI编码代理过滤通用AI生成的UI设计,文本和代码的规则. <sub>⭐ 4.3k · JavaScript</sub>
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - 本地运行 Claude Design 作为代理技能—— cursor, Claude Code & more. Produce 抛光了 UI 模型,原型,甲板和线框作为自成一体的 HTML, 没有claude.ai/ design. Best with Opus... <sub>⭐ 4.2k · JavaScript</sub>
+- [CommandCodeAI/command-code](https://github.com/CommandCodeAI/command-code) - 指令码AI——开放型号的最佳编码代理. <sub>⭐ 4.1k</sub>
+- [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 完全自动的 YouTube 频道管理,有AI 代理。 创建、优化和发布视频 24/7 。 与 FREE 双子座 API 或 OpenAI 一起工作。 不需要编码 ! <sub>⭐ 4.0k · JavaScript</sub>
+- [atopile/atopile](https://github.com/atopile/atopile) - 设计带代码的电路板! 获得类似软件的设计再利用、 验证、 版本控制和硬件协作; 以电子为起点 <sub>⭐ 4.0k · Python</sub>
+- [yetone/cumora](https://github.com/yetone/cumora) - 代理团队聚集的地方. 跨平台团队聊天 AI代理是一流的队友——有云或带来-拥有(Claude Code/Codex)大脑. <sub>⭐ 3.9k · TypeScript</sub>
+- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code工具包 - 用于生产AI辅助开发的代理、命令、技能、规则和钩子 <sub>⭐ 3.9k · JavaScript</sub>
+- [gadievron/raptor](https://github.com/gadievron/raptor) - 猛禽将Claude Code变成通用的AI攻击/防御安全特工,通过使用Claude.md和创建规则,子代理和技能,以及协调安全工具的使用,我们...... <sub>⭐ 3.9k · Python</sub>
+- [golutra/golutra](https://github.com/golutra/golutra) - 用于自动化,工作流程,开发工具的多代理AI管弦平台. Golutra将Codex,Claude Code,和OpenClaw转换为统一的代理系统,并同时执行,任务...... <sub>⭐ 3.9k · Rust</sub>
+- [xintaofei/codeg](https://github.com/xintaofei/codeg) - 合作多代理AI编码工作空间:来自克劳德代码,Codex,OpenCode,Pi,Grok Build等的聚合会话. Desktopapp,自托管服务器,或Docker. <sub>⭐ 3.8k · Rust</sub>
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - 帮助 AI 编码代理撰写现代 Go <sub>⭐ 3.8k · Go</sub>
+- [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - 将 Claude Code 或 Codex 转换为最智能的深层研究代理。 收集、 搜索和将网络研究合成一个持续、 可搜索的维基, 它建立在自身之上。 主机 API + MCP... <sub>⭐ 3.8k · Python</sub>
+- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - 一个AI编码代理(Antigravity, Claude Code)的插件,使Spec-Driven Development能够指定,计划,并实施软件特性. <sub>⭐ 3.8k · Python</sub>
+- [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - 将您的前端部署在一个单一的指令中。 Claude 代码技能支持 。 <sub>⭐ 3.7k · TypeScript</sub>
+- [graykode/abtop](https://github.com/graykode/abtop) - 类似 htop,但用于AI编码代理. Monitor Claude Code & Codex CLI 会话,令牌,上下文窗口,速率限制,以及实时端口. <sub>⭐ 3.7k · Rust</sub>
+- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - VS 代码的开源 AI 编码助理。 代码完成、 聊天、 编辑和评论等本地或主机模型。 您的模型、 基础设施 。 <sub>⭐ 3.7k · TypeScript</sub>
+- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - 在您的 AI 编码工具( Agent skills open格式) 中添加专家 SwiftUI 最佳做法指南 。 <sub>⭐ 3.6k · Python</sub>
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - 用于混合Codex,Claude,双子座,Kimi,Quen,Cursor,Copper,Pi,OpenCode等AI编码器的可见多代理CLI工作空间 <sub>⭐ 3.5k · Python</sub>
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA产品的代理技能——安装到Claude Code,Codex,以及其他编码代理来运行物理AI,机器人,模拟,CUDA,以及RAG工作流程的结束. <sub>⭐ 3.5k · Python</sub>
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Grok API 的开源编码代理 <sub>⭐ 3.5k · TypeScript</sub>
+- [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - 跟着我的AI代理 Masterclass视频! 我在这系列中创建和使用的所有代码都会在这里供您使用,甚至建在顶部! <sub>⭐ 3.5k · Python</sub>
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 戈兰特效技能集 <sub>⭐ 3.4k · Go</sub>
+- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - AI 编码代理在Markdown中直接创建惊人的图表和可视化的观察技能。这些技能将代理能力延伸至图表生成、数据可视化和. <sub>⭐ 3.4k · JavaScript</sub>
+- [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) - FuXi是一个快速,自成一体的AI编码代理,它住在你的终端——编辑代码,运行命令,以及驱动工具,具有成本意识的跨LLM提供者的路由. <sub>⭐ 3.3k · Python</sub>
+- [sentrux/sentrux](https://github.com/sentrux/sentrux) - 实时建筑传感器,帮助AI代理关闭反馈环路,实现代码质量的递归自我改进. Pure Rust. <sub>⭐ 3.3k · Rust</sub>
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - 一个与ChatGPT,OpenAI API,和 Codex相关的开源 GitHub 寄存器的目录. 通过 Claude Code 和 Codex 技能可以搜索. <sub>⭐ 3.3k · Python</sub>
+- [dosco/graphjin](https://github.com/dosco/graphjin) - AI 代理的规范图表 — GraphQL + MCP 覆盖您的数据库、文件、 API 和代码 <sub>⭐ 3.2k · Go</sub>
+- [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - 将代码转换为清晰度。 在分钟内生成准确的技术文件和AI-ready语境, 为人类团队和智能特工精心安排。 <sub>⭐ 3.1k · Rust</sub>
+- [athasdev/athas](https://github.com/athasdev/athas) - 一个轻量级,跨平台的代码编辑器,用Tauri(Rust and React)建造,得到Git支持,AI代理,vim密钥绑定. <sub>⭐ 3.1k · TypeScript</sub>
+- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI 代理技能用于社交媒体研究. Outlier 帖子,评论挖掘,竞争者撕裂,广告库和趋势横跨TikTok,Instagram,YouTube,Reddit,X,LinkedIn & more. Powered by... <sub>⭐ 3.1k · Python</sub>
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - 全部为赫尔墨斯代理的插件 编码智能、长期内存系统和模型优化的工作流程包 <sub>⭐ 3.1k · Python</sub>
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - 构建AI可以生成的应用程序,人类可以审查,团队也可以维护. Config在代码和自然语言之间起作用. <sub>⭐ 3.0k · JavaScript</sub>
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - 获取 npm 包的源代码, 以让 AI 编码代理更深入上下文 <sub>⭐ 3.0k · Rust</sub>
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - 用于构建自定义 LLM 代理的无代码平台 <sub>⭐ 3.0k</sub>
+- [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - Anthropic 的 AI 编码代理架构,图案和内部——从源代码地图逆向设计 <sub>⭐ 3.0k · TypeScript</sub>
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) - 规则者——对所有编码代理都适用同样的规则. <sub>⭐ 2.9k · TypeScript</sub>
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - 任何代理技能兼容代理(77+通过技能CLI)的De-AI写作技巧,有Claude Code,Codex,Grok Build,以及Antigravity的本地插件. Narterative-architecture修补虚构... <sub>⭐ 2.9k · Python</sub>
+- [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) - 用于构建溢价,浸润,滚动驱动的网站的代理技能. Works with Codex, Claude Code, and other coding 代理。同样作为Claude Code 插件可用 。 <sub>⭐ 2.9k · JavaScript</sub>
+- [samugit83/redamon](https://github.com/samugit83/redamon) - 开源自办的AI穿透测试框架:将攻击表面映射成图,自发从卡利沙盒中利用,并带有人类的认可门,开启了修复什么的PR. <sub>⭐ 2.9k · Python</sub>
+- [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md 规则/技能用于AI编码代理商: Codex, cursor & Claude Code. 灵感来自Clean Code,Refacting,DDD,Clean Architecture和DDIA编程书籍. <sub>⭐ 2.9k</sub>
+- [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) - Bridge Claude Code / Codex to IM平台——与来自Telegram, Discord,或Feishu/Lark的AI编码代理商聊天. <sub>⭐ 2.9k · TypeScript</sub>
+- [zeronsh/zeron](https://github.com/zeronsh/zeron) - 用于克劳德代码,Codex,Cursor,Devin等编码代理的本地控制平面. <sub>⭐ 2.8k · Rust</sub>
+- [compozy/compozy](https://github.com/compozy/compozy) - AI代理的操作系统. 插入你已经使用的代理CLI(Claude Code, Codex,双子座CLI, cursor),他们成为团队:他们分工作,互相手动任务,运行自动化... <sub>⭐ 2.8k · Go</sub>
+- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - 一个持续,统一的内存层,用于所有你的AI代理(如Claude Code,Codex,DSH),由Markdown和Milvus支持. <sub>⭐ 2.7k · Python</sub>
+- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) - Claude Code技巧:四阶段计划硬化(调试,审讯,Codex对抗性审查,跨型建和检查)——两个AI模型在代码一行存在前将你的计划硬化,然后互换. . <sub>⭐ 2.7k · Python</sub>
+- [Helvesec/rmux](https://github.com/Helvesec/rmux) - 带有SDK的通用Rust多路器——从代码驱动任意的CLI或TUIapp. 原生于Linux,macOS,和Windows上. <sub>⭐ 2.7k · Rust</sub>
+- [felinics/Memoh](https://github.com/felinics/Memoh) - 开源多代理平台。 每个代理都拥有自己的计算机、桌面、网络和长期内存。 您可以带回自己的密钥, 或像Claude Code、 Codex 等主机管理您的编码代理... <sub>⭐ 2.6k · Go</sub>
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) - XERJ 是AI搜索数据的新方式. 它的自动索引能力激活了代理机来了解您的数据,而无需象征性地浪费grep和sed. 一个命令索引代码,docs,日志和PDFs用于... <sub>⭐ 2.6k · Rust</sub>
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - 研究代理AI编码助理的工作方式. 重新构建即时模式,代理协调和安全分类. <sub>⭐ 2.6k</sub>
+- [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - AI代理技能的集合集中在恢复优化,工作申请和职业发展上. 为求职者,职业变革者,以及希望克劳德代码帮助的专业人士所构建. <sub>⭐ 2.5k</sub>
+- [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - AI编码代理商的精密技能集. 技能是将代理商能力扩展到整个开发,文档,规划,以及专业... <sub>⭐ 2.5k · Python</sub>
+- [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine是一个开源工具,它将AI编码代理器编织成可重复的,长期运行的工作流程. <sub>⭐ 2.5k · TypeScript</sub>
+- [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - 由社区集体而不是公司建造的终端的开放式编码代理。带上自己的模型,在机器上保留你的代码,不欠任何人任何东西。 <sub>⭐ 2.5k · TypeScript</sub>
+- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP服务器和用于Excalidraw的Claude Code技能——程序画布工具包,通过AI代理以实时画布同步创建,编辑和导出图表. <sub>⭐ 2.5k · TypeScript</sub>
+- [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - 在您的 MacBook Notch 中实时 AI 编码代理状态面板—— 30+ AI 编码工具的活状态, 批准和答复, 并配有 iPhone & Apple Watch 的同伴 <sub>⭐ 2.5k · Swift</sub>
+- [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - 通过代理客户协议(ACP)将AI特工带入Obsidian,如Claude Code,Codex和双子座CLI. <sub>⭐ 2.4k · TypeScript</sub>
+- [LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M) - KunLun-M – PHP,Nodejs/JavaScript,Python,Golang,Java和C/C++的开源静态代码分析,具有基于AST的语义扫描和单击AI代理集成(OpenClaw, Codex, Claude... <sub>⭐ 2.4k · Python</sub>
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - AI 上下文的riggrep: 一个零依赖性 C++23 CLI + MCP 服务器用于编码代理。 不读 repo 就可以找到想要的东西, 然后检查你建了什么 —— 爆炸半径, 测试到运行... <sub>⭐ 2.4k · C++</sub>
+- [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - AI代理劳动力平台。运行一百个AI编码代理在自己的机器上——排程,隔离,并引导他们全部从一个控制台上. <sub>⭐ 2.4k · Go</sub>
+- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM理事会——一个Claude Code技能,通过5名AI顾问进行同行评审来完成你的决定 <sub>⭐ 2.3k</sub>
+- [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai代理技能——Bestselling Books的商务、营销、UX和编码框架。 克劳德代码、Codex、Cursor和其他代理技能.io代理50个技能+12个导游旅行。 <sub>⭐ 2.3k · Shell</sub>
+- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - 无法用您的数据构建 LLM 代理、工作流程和应用程序的编码多代理框架 <sub>⭐ 2.3k · Python</sub>
+- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code博客技能套件:30个子技能,5个代理,5门v1.9.0博客交付合同,为Google排名和AI引文双优. 积极开发AI-Marketing-Hub/claude-blog... <sub>⭐ 2.3k · Python</sub>
+- [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - 把Claude代码变成你的进攻性安全研究助理 专门使用AI的潜伏剂 <sub>⭐ 2.3k · Shell</sub>
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - 一个HTTP认证代理和金库,用于Claude Code,OpenClaw,Hermes等AI代理,定制代理+牵引,等等. <sub>⭐ 2.3k · Go</sub>
+- [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) - AI代理的长期内存运行时间——以平坦的Markdown作为真理的来源,本地排名的检索,以及独立的睡眠时间管理层. Claude Code和Codex共享一个商店,没有API密钥. <sub>⭐ 2.3k · Python</sub>
+- [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - AI代理和AI编码助理的网络爬行和RAG能力 <sub>⭐ 2.3k · Python</sub>
+- [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - 无限制上下文。 内存可以管理自己。 一个会话, 终身。 编码代理的河马营, 部分为 CortexKit 。 <sub>⭐ 2.3k · TypeScript</sub>
+- [google/mantis](https://github.com/google/mantis) - 一个模块化的,堆叠不可知的工具包,用于AI编码代理以自主地发现,复制和补丁漏洞. <sub>⭐ 2.2k · Python</sub>
+- [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw,IOT设备的"聊天编码"AI代理框架 <sub>⭐ 2.2k · C</sub>
+- [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - AI 编码助理的专家级WordPress知识 - 块、主题、插件和最佳做法 <sub>⭐ 2.2k · JavaScript</sub>
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - 开源自办的AI脆弱性研究工具,该工具协调特工在代码中查找和验证安全问题. <sub>⭐ 2.2k · JavaScript</sub>
+- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - 用于Windows & macOS的开源AI代理桌面应用. 一击安装了Claude Code,MCP工具,以及Swills——具有沙盒隔离,多模型支持,以及Feishu/Slack集成功能. <sub>⭐ 2.2k · TypeScript</sub>
+- [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - AI编码代理的同步协调层:身份,收件箱,可搜索线索,以及FastMCP + Git + SQLite的咨询文件租赁 <sub>⭐ 2.2k · Python</sub>
+- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) - Orkas是一个开源的本地首款AI桌面应用:一个指挥官LLM指挥专家子代理,并运行您安装的编码CLI——克劳德代码,代码,OpenCode,OpenClaw,Hermes——作为本地... <sub>⭐ 2.1k · JavaScript</sub>
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) - 世界首个自主产品引擎(APE):AI代理研究你的市场,生成特性,以及作为PR的船舶代码. Convoy模式, crash recovery, cost tracking, 80+ API endpoints. Self-conducted... <sub>⭐ 2.1k · TypeScript</sub>
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-Of-Thought. Rhizomatic Mind-Mapping for Ai Agents, Web-Links, Notes, and Code. 互联网档案馆的存檔,存档日期2013-03-02. <sub>⭐ 2.1k · JavaScript</sub>
+- [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) - 系统分析与讨论 Claude 设计当前和未来AI代理系统代码 <sub>⭐ 2.1k</sub>
+- [appeeky/aso-skills](https://github.com/appeeky/aso-skills) - App Store优化(ASO)和app营销的AI代理技能. 为Indie开发商,应用营销商,以及希望Cursor,Claude Code,或任何代理技能兼容的AI所建. . <sub>⭐ 2.1k · MDX</sub>
+- [Octane0411/open-vibe-island](https://github.com/Octane0411/open-vibe-island) - AI编码代理的原生macOS控制中心——监控会话,批准动作,并立即跳回. <sub>⭐ 2.0k · Swift</sub>
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - 用于 AI 编码代理和开发工具的 Nix 软件包。 每日自动更新 。 <sub>⭐ 2.0k · Nix</sub>
+- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI编码代理优化小LLMs 87%的基准,采用4B活性模型. <sub>⭐ 2.0k · JavaScript</sub>
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 用于您的 AI 和编码代理的云浏览器基础设施和网络自动化平台 <sub>⭐ 2.0k · Python</sub>
+- [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) - 一个针对所有AI代理的个人AI代理和本地记忆中枢,给每个AI一个共享,完全控制的内存和持续上下文——所有AI都记得同样的你. 现在支持Claude Code, Codex... <sub>⭐ 2.0k · TypeScript</sub>
+- [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - 动物园代码让你在代码编辑器中 拥有一组AI特工 <sub>⭐ 1.9k · TypeScript</sub>
+- [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - 外地工程公司提供的编码代理数据砖工具箱 <sub>⭐ 1.9k · Python</sub>
+- [Shpigford/chops](https://github.com/Shpigford/chops) - 您的 AI 代理技能, 最终组织。 一个 macOS 应用程序可以浏览、编辑和管理 Claude Code、 Cursor、 Codex、 Windsurf 和 Amp 的技能。 <sub>⭐ 1.9k · Swift</sub>
+- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - AI编码代理的基于节点的终端管理器——tmux支撑的终端和并行代理会话,作为无限泛/zoom画布上的可拖动节点. macOS,Linux,以及浏览器服务器版. <sub>⭐ 1.9k · TypeScript</sub>
+- [skalesapp/skales](https://github.com/skalesapp/skales) - macOS,Windows,Linux,Android & iOS的个人AI代理. 设定一个目标,它单独工作:编码(Skales Code),桌面+浏览器自动化,自主计划任务. Teams of interests and humans... <sub>⭐ 1.9k</sub>
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - 官方微软学习MCP服务器和CLI工具 – 用实时,可信赖的微软docs & 代码样本为LLMS和AI代理提供动力. <sub>⭐ 1.9k · TypeScript</sub>
+- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - AI代理时代的代码编辑器 运行多个 Claude 代码和代码代理 在您的机器上的项目。 <sub>⭐ 1.9k · TypeScript</sub>
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - 用于您的桌面的全能本地AI工作室:聊天,图像和视频生成以及一个免费开放源代码应用程序中的编码代理. Windows and Linux. 没有Docker,没有终端,不需要云. <sub>⭐ 1.9k · TypeScript</sub>
+- [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku Agent 是本地第一的AI代理 控制你实际拥有,包括循环,内存, eval,全部在代码中构建,以保持可识别性 随着它的成长。 <sub>⭐ 1.9k · Python</sub>
+- [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA)AI不应该有一个计数器,无限的代号,永远,你的机器,你的代理,从任何地方使用它。终端本地编码代理由本地LLMs提供动力——100%开放源码,永远免费,还有... <sub>⭐ 1.9k · C#</sub>
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - 即时AI代码审查 <sub>⭐ 1.9k</sub>
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 运行克劳德代码,双子座,Codex——或任何编码代理——在一个干净,孤立的沙盒中,有敏感的数据编辑和可观察性烤入. <sub>⭐ 1.9k · TypeScript</sub>
+- [zzet/gortex](https://github.com/zzet/gortex) - AI代理和IDE的高性能代码智能引擎,支持257种语言,多寄存器,基于图表,通过CLI,MCP服务器和API访问. AI编码代理团队队友... <sub>⭐ 1.8k · Go</sub>
+- [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - 高性能 AI 编码代理 CLI 用零不安全代码写成 <sub>⭐ 1.8k · Rust</sub>
+- [standardagents/dmux](https://github.com/standardagents/dmux) - 用于 git 工作树和编码代理的 Dev 代理多功能器 <sub>⭐ 1.8k · HTML</sub>
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - 由Vercel Sandbox和AI Gateway提供动力的多代理AI编码平台 <sub>⭐ 1.8k · TypeScript</sub>
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - 最小的 AI 编码代理(~1,000行 Python) 灵感来自 Claude Code. Works with any LLM. Think NanoGPT for coding agents. PinoCoder. <sub>⭐ 1.8k · Python</sub>
+- [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - 代码建议的 VSCode 扩展 <sub>⭐ 1.8k · TypeScript</sub>
+- [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - 由Claude Code、Codex、双子座CLI和您的自定义AI Agents合作的自定义AI Agent工作流程的 出色LLM 和 AI Agent 技能、资源和工具的目录 <sub>⭐ 1.8k · Python</sub>
+- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - Claude Code的AI法律助理技能. 合同审查,风险分析,NDA生成,合规审计,谈判策略和PDF报告——14个技能,5个平行代理. <sub>⭐ 1.8k · Python</sub>
+- [px0-ai/px0](https://github.com/px0-ai/px0) - px0是用于审查AI生成的代码,为速度优化而构建的IDE. 它将您的浏览器变成一个零常态控制台,与本地的Git和GitHub集成,即时搜索横跨大范围. . <sub>⭐ 1.7k · Go</sub>
+- [google/adk-java](https://github.com/google/adk-java) - 一个开源,代码第一Java工具包,用于构建,评价和部署精密的AI代理,具有灵活性和控制性. <sub>⭐ 1.7k · Java</sub>
+- [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - 手动制作的克劳德代码技能专注于提高代理结果质量. 兼容OpenCode,Cursor,Antigravity,双子座CLI等. 包括CodeRabbit开源替代品. <sub>⭐ 1.7k · TypeScript</sub>
+- [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - 一个跨平台的桌面应用程序,在一个地方管理代理技能,并将其同步到多个AI编码工具的全球技能目录——“一次安装,随时同步”。 <sub>⭐ 1.7k · Rust</sub>
+- [emarco177/langchain-course](https://github.com/emarco177/langchain-course) - 一个基于项目的课程库,用于开发使用LangChain v1+和LangGraph的AI代理:搜索代理,RAG系统,反射代理,以及代码解释器. <sub>⭐ 1.7k</sub>
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - 用 Rust 书写的轻量级编码代理, 为内存脚印和性能进行优化 <sub>⭐ 1.7k · Rust</sub>
+- [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - 由Vercel提供动力的开源自办AI代码审查机器人. <sub>⭐ 1.7k · TypeScript</sub>
+- [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) - 为克劳德代码收集专用AI子剂供个人使用(全层开发). <sub>⭐ 1.7k</sub>
+- [Twigpine/zero](https://github.com/Twigpine/zero) - 编码代理 回答你,你的模型,你的机器,你的规则。 <sub>⭐ 1.7k · Go</sub>
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - 在您的 AI 编码工具( Agent Swills open格式) 中添加专家 Swift Condical 指导: 安全货币, 性能优化, 和 Swift 6 迁移 。 <sub>⭐ 1.7k</sub>
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - AI编码助理的代理优化反应原生技能集. <sub>⭐ 1.7k · Shell</sub>
+- [sandeco/reversa](https://github.com/sandeco/reversa) - 将遗留系统转换成AI编码代理的可执行规格 <sub>⭐ 1.7k · JavaScript</sub>
+- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - 解析技能,子代理,以及超充克洛德代码的配置模板——研究,图像基因,GitHub自动化 & 更多. <sub>⭐ 1.7k · Python</sub>
+- [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) - 启动一个新鲜的Ubuntu VPS,30分钟内进入完整的多代理AI开发环境:编码代理、会话管理、安全工具和协调基础设施 <sub>⭐ 1.7k · Shell</sub>
+- [spec-kitty/spec-kitty](https://github.com/spec-kitty/spec-kitty) - Spec-Driven Development with Organization 治理. Specs告诉AI代理者要建设什么;宪章指导他们如何建设. Git-native mission,可执行的工作流程,以及一致的工程...... <sub>⭐ 1.7k · Python</sub>
+- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - 长视距的计算机使用工具。 在保存任务状态和在复杂工作流程上取得可靠进展的同时, 在桌面应用程序和CLI之间运行长时间的 AI 代理 。 特性... <sub>⭐ 1.6k · Python</sub>
+- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - 主题 ^ 4K 编解码器的视频. v5.3.0:本地TTS(对接自由+azure,无外部引擎),表单资产引擎,回旋组成,成本化的AI生成... <sub>⭐ 1.6k · Python</sub>
+- [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) - AI编码器的控制飞机. <sub>⭐ 1.6k · TypeScript</sub>
+- [zhnt/loushang](https://github.com/zhnt/loushang) - AI-内置代理通过python对编码工作流程进行调用:多模式LLM编组,状态会话,工具治理,可追踪发送,以及GPT,Claude,DeepSeek,Quen的提供者路由. <sub>⭐ 1.6k · Python</sub>
+- [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude读取了自己的源代码——17章建筑深潜写入Claude Code v2.1.88. EN/ZH双语. <sub>⭐ 1.6k</sub>
+- [Kaelio/ktx](https://github.com/Kaelio/ktx) - ktx是数据和分析代理商可执行的上下文层,允许Claude Code, Codex, 或其他AI代理商准确查询分析数据库, 并结合你公司的全部背景 <sub>⭐ 1.6k · TypeScript</sub>
+- [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) - 使用来自 MathWorks 的官方 MATLAB MCP 服务器运行 MATLABQ 使用 AI 应用程序。 MATLAB 的 MCP 服务器支持 Claude Code 和Visual Studio Code 等多种编码代理 。 <sub>⭐ 1.6k · Go</sub>
+- [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - 您为代理、任务、知识和研究提供了无限的画布空间。 一个为 Claude 代码、 Codex 、 终端、 任务和笔记提供的无限画布 。 <sub>⭐ 1.6k · TypeScript</sub>
+- [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - 在 Sandboxs 中运行编码代理。 Control Them Over HTTP. 支持 Claude Code, Codex, OpenCode, 和 Amp. <sub>⭐ 1.6k · TypeScript</sub>
+- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - 用于 Pi 编码代理的调试效率 MCP 适配器 <sub>⭐ 1.6k · TypeScript</sub>
+- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - 运行在被盗的Chipotle上的AI编码代理以Pepper AI作为默认模式计算OpenCode的叉子. 社区项目增加来自Home Depot, Lowes, Goal, Starbucks & more的供应商. <sub>⭐ 1.6k · TypeScript</sub>
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - AI 编码代理的预执行守护器。 它会阻断破坏性的 Git 和文件系统命令, 加上在工具调用运行前访问敏感文件的常见尝试 。 支持 Amp Code, Antigravity... <sub>⭐ 1.6k · TypeScript</sub>
+- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent:你的智能伴奏,用于无缝AI工程和研究. 结合arxiv和纸张与代码,提供更好的代码/研究计划OpenAI,Anthropic,双子座,Ollama等. <sub>⭐ 1.6k · Python</sub>
+- [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - 超充值 AI 编码代理, 具有可移植技能。 另安装、 翻译和共享 Claude Code、 Cursor、 Codex、 Copilot & 40 之间的技能 <sub>⭐ 1.5k · TypeScript</sub>
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - CLI AI编码代理的交叉复仇消息——让克劳德代码, Codex,双子座和副驾驶在一个团队中互相交谈. Bash + SQLite,没有守护进程,没有框架. <sub>⭐ 1.5k · Shell</sub>
+- [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - LLM 辅助代码/文本补全的 VS 代码扩展 <sub>⭐ 1.5k · TypeScript</sub>
+- [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2是光标 IDE 的有力规则,它帮助您从月度请求中获得更多5x的值,在AI等待您的后续时会创建一个交互循环. . <sub>⭐ 1.5k · JavaScript</sub>
+- [bcurts/agentchattr](https://github.com/bcurts/agentchattr) - 免费,本地聊天,其中AI编码代理可以互相标记,交谈,并与你协调. <sub>⭐ 1.5k · Python</sub>
+- [google/adk-docs](https://github.com/google/adk-docs) - 一个开源的,代码第一的工具包,用于构建,评价和部署具有灵活性和控制力的精密AI代理. <sub>⭐ 1.5k · Shell</sub>
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - 用 Go 语言写成的 CLI ,会使用 ChatGPT AI(gpt-4.1, gpt-4o 模型) 来写 git 承诺消息或为您做代码检讨简报,并自动安装 git 准备-msg 钩子. <sub>⭐ 1.5k · Go</sub>
+- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI代码评论基于12本经典工程书籍——带有书引用,重度标签的衰变风险诊断,以及包括全速自动修复在内的6种分析模式. <sub>⭐ 1.5k · HTML</sub>
+- [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - AI 编码代理工具CLI <sub>⭐ 1.5k · TypeScript</sub>
+- [limecloud/lime](https://github.com/limecloud/lime) - 用于编码,文件,终端,工具,研究,内容,多式联运工作,以及多代理工作流程的全存储AI代理. <sub>⭐ 1.5k · TypeScript</sub>
+- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - 免费, 微缩的 AI 代码审查 <sub>⭐ 1.5k · Go</sub>
+- [Paritok-official/paritok-4b-v1](https://github.com/Paritok-official/paritok-4b-v1) - AI 编码代理的无损压缩网关。 在长会话或饱和会话中, 将25%的象征性帐单剪到85%, 并在同一上下文窗口中安装 ~3× 更多的转折。 由我们提供动力... <sub>⭐ 1.5k · Python</sub>
+- [inkeep/agents](https://github.com/inkeep/agents) - 在无码视觉构建器或TypeScript SDK中创建AI代理, 并全程同步。 对于传输AI助手和多代理AI工作流程而言。 <sub>⭐ 1.4k · TypeScript</sub>
+- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) - 开源自办的AI代码审查,带上自己的LLM. <sub>⭐ 1.4k · TypeScript</sub>
+- [ai-evals-course/evals-skills](https://github.com/ai-evals-course/evals-skills) - 技能 指导AI编码代理 帮助您构建产品专用的AI evals. <sub>⭐ 1.4k</sub>
+- [google/adk-js](https://github.com/google/adk-js) - 一个开源,代码第一的Typescript工具包,用于构建,评价和部署具有灵活性和控制力的精密AI代理. <sub>⭐ 1.4k · TypeScript</sub>
+- [ammaarreshi/gemma-chat](https://github.com/ammaarreshi/gemma-chat) - 本地AI聊天+苹果硅的编码代理,由Gemma 4通过MLX/支持Ollama提供动力 <sub>⭐ 1.4k · TypeScript</sub>
+- [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - 武士激励的Claude Code多代理系统. Orchestrate system AI任务通过 tmux 与 shogun → karo → ashigaru 等级体系. <sub>⭐ 1.4k · Shell</sub>
+- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - 通用 Claude 代码工作流程插件,其中包含代理、技能、钩子和命令 <sub>⭐ 1.4k · Python</sub>
+- [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) - Claude Code的AI动力销售团队. 研究前景,合格线索(BANT + MEDDIC),寻找决策者,生成外联序列,准备会议,写提案,并制作PDF... <sub>⭐ 1.4k · Python</sub>
+- [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - 从首席执行官办公室指挥你的AI代理帝国——一个本地首个AI代理模拟器,负责指挥CLI,OAuth和API连接代理(Claude Code,Codex CLI,双子座CLI,OpenCode,以及. <sub>⭐ 1.4k · TypeScript</sub>
+- [justrach/codedb](https://github.com/justrach/codedb) - Zig代码智能服务器和用于AI代理的MCP工具集. 快树,大纲,符号,搜索,读取,编辑,解码,快照,以及远程GitHub repo查询. <sub>⭐ 1.4k · Zig</sub>
+- [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - 为AI编码代理构建的IDE. <sub>⭐ 1.4k · TypeScript</sub>
+- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - AI编码CLI的多代理协调——Claude Code、Kiro、Codex等,在孤立的tmux会话中进行协调 <sub>⭐ 1.4k · Python</sub>
+- [ntegrals/10x](https://github.com/ntegrals/10x) - 10x - 最多20x快速的AI编码多步超能力. 开源代理智能模型路由,BYOK,完全自办. <sub>⭐ 1.4k · TypeScript</sub>
+- [wrtnlabs/autobe](https://github.com/wrtnlabs/autobe) - TS后端服务器的AI Vibe编码代理,通过编译器技能增强,生成100%的工作代码 <sub>⭐ 1.4k · TypeScript</sub>
+- [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - 用于管理和运行 CrewAI 代理和任务的方便用户的多平台 GUI。支持 Conda 和虚拟环境,不需要编码 。 <sub>⭐ 1.4k · Python</sub>
+- [pinchbench/skill](https://github.com/pinchbench/skill) - Pinch Bench是评估LLM模型作为OpenClaw编码代理的基准系统。由人类在https://kilo.ai上制作。 <sub>⭐ 1.4k · Python</sub>
+- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86种产品管理技能来自Lenny的Podcast为Claude Code和AI代理商. 雇佣,用户研究,策略,航运等等. <sub>⭐ 1.4k</sub>
+- [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - 更美丽、更易于使用的OpenClaw替代方案,它具有一个更好的Web UI,内置的IM支持,沙箱运行时间和频道团队协作的特点,在引擎盖下,由. <sub>⭐ 1.4k · Python</sub>
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - 您的 AI Game Dev Hub. AI 游戏开发工具的最终资源枢纽。 发现尖端 LLMS, 世界模型, 代理, 代码, 图像, 纹理, 沙德, 3D模型, 动画, 视频, 音频... <sub>⭐ 1.4k · JavaScript</sub>
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - 推荐 C 标准 C99 的代码样式和编码规则。来时有 AI 代理 技能来编写、编辑和格式化代码 。 <sub>⭐ 1.4k · C</sub>
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - 开源ETL/ELT 您在自己的服务器或云上部署. DuckDB上建的:无码/低码视觉管道或SQL,385组件,dbt,CDC,数据质量,逆向ETL,线程,MCP用于AI... <sub>⭐ 1.3k · Rust</sub>
+- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - 为您最喜欢的 AI IDE 或终端代理安装本地首个扩展名。 用 Lore 处理您的历史, 将您的历史记录处理为可重复使用的技能。 同步您的对讲符到云中。 文件问题和请求 。 <sub>⭐ 1.3k · Go</sub>
+- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - 人工智能编码剂的机械核查——技能包或全副掌握(停机闸门、文物检查、独立法官)。 <sub>⭐ 1.3k · TypeScript</sub>
+- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad 电子设备设计的AI编码代理技能。 与 Claude Code 和 OpenAI Codex 一起工作。 分析图表, 审查PCB 的布局, EMC 预适应, SPICE 模拟, 下载数据表, 源... <sub>⭐ 1.3k · Python</sub>
+- [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Emproyo的引擎 v2(soulforge) 并发行追踪器!! Emproyo 是图形动力的AI编码代理,它编辑符号而非字符串: AST手术,全LSP,一个活代码基因组. Get it at https://empryo.com <sub>⭐ 1.3k · TypeScript</sub>
+- [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) - 使AI编码代理架构——意识:基线第一,证据核实,漂移检查,安全跨越漫长的任务. <sub>⭐ 1.3k · Python</sub>
+- [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - 终端-本地AI编码代理和管弦乐器的解析目录,覆盖开源工具(Pi,OpenCode,Aider,Goose),平台代理(Claude Code,Codex,双子座CLI). <sub>⭐ 1.3k · Python</sub>
+- [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - 用一个命令持续同步您的 AI 设置。 代码库为 Claude Code、 Cursor 和 Codex 定制合适的代理技能、 MCP 和配置文件 。 <sub>⭐ 1.3k · TypeScript</sub>
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - AI编码代理机的74个游戏-dev技能——Godot,Unity,unreal,Pistraller,PixiJS,3.js,Bevy,pygame,LÖVE,Roblox. Portable SKILL.md Agent Swills(作为克劳德·斯库尔德推出的格式Anthropic)... <sub>⭐ 1.3k · Python</sub>
+- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code 仪表板,有使用统计、错误分析和可防腐功能 <sub>⭐ 1.3k · Python</sub>
+- [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) - 编码代理的守护技能,在代码、测试和文档中捕捉AI生成故障模式的质量门 <sub>⭐ 1.3k</sub>
+- [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - 一个用于AI代理和助手的个人上下文商店——重新使用您现有的编码代理CLI(Codex/Claude/OpenCode),并配有内建技能/工具和一个桌面图形用户界面,以获取,搜索和再利用项目. <sub>⭐ 1.3k · JavaScript</sub>
+- [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) - 自演的第二脑具有35个AI技能,10个代理,以及人CRM. 闭锁-loop拉带:一个V型验证生命周期,工人从不给自己的功课分级. 加对反斜拉线... <sub>⭐ 1.2k · Python</sub>
+- [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) - Reddit为Claude Code和AI代理商提供的研究技能 <sub>⭐ 1.2k · Python</sub>
+- [Spark-To-Paper-Skills/paperjury](https://github.com/Spark-To-Paper-Skills/paperjury) - 预呈AI审查研究论文的压力测试. Claude Code技能:审查,判决,修订,核实. <sub>⭐ 1.2k · JavaScript</sub>
+- [repowise-dev/claude-code-prompts](https://github.com/repowise-dev/claude-code-prompts) - 独立编译了AI编码代理的即时模板——系统提示,工具提示,代理授权,内存管理,以及多代理协调. 通过研究Claude Code而知情. <sub>⭐ 1.2k</sub>
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Gentleman Guardian Angel (gga) - 使用AI提供-不可知码审查. 使用Claude,双子座,Codex,Ollama来强制实施你的编码标准. <sub>⭐ 1.2k · Shell</sub>
+- [wilwaldon/Claude-Code-Frontend-Design-Toolkit](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit) - 我发现的一切都让Claude Code输出出更好看的前端 技能、插件、MCP服务器、 CLAUDE.md 技巧 <sub>⭐ 1.2k</sub>
+- [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Cline、Windsurf 和 Github 副驾驶的 AI 指令提示 <sub>⭐ 1.1k · JavaScript</sub>
+- [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) - 如果使用 CLINE/RooCode/Cursor/Windsurf 设置这些规则。对于骑着AI波和有经验的人来说,可以使用。 组合:(1) 记忆,(2) 理性成为子任务 (3) 提示最好... <sub>⭐ 1.1k</sub>
+- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI 代码审查器: 以 AI 驱动的代码审查增强您的 GitHub 工作流程! 使用 OpenAI 的 GBT-4 API 获取对拉动请求的智能反馈和建议,提高代码质量并保存... <sub>⭐ 1.0k · TypeScript</sub>
+- [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - 编辑器代码助理 (ECA) - AI配对编程能力不可知论编辑器 <sub>⭐ 1.0k · Clojure</sub>
+- [dzhng/skills](https://github.com/dzhng/skills) - 软件工厂的可重复使用的AI代理技能:探索想法,写谱,执行,审查和运行自主研究. Works with Claude Code, Codex,以及其他技能兼容的代理. <sub>⭐ 974 · TypeScript</sub>
+- [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) - AI编码代理商的自我提升技能(Claude Code, Cursor, AGENTS.md):在会话中识别一条来之不易的金色路径,并将其收获为下次可重复使用的技能/规则. <sub>⭐ 963</sub>
+- [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) - 显示您喜欢的视频。 获取相同风格的新视频。 一个 AI( Claude Code 或 Codex) 机组计划、 构建和评论它 。 <sub>⭐ 954 · JavaScript</sub>
+- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - 使用光标和LLMs开发软件的规则 <sub>⭐ 887</sub>
+- [arm/metis](https://github.com/arm/metis) - Metis是用于深安全代码审查的开源、AI驱动的工具 <sub>⭐ 872 · Python</sub>
+- [flexpilot-ai/vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS 代码的开源、原生和 True GitHub 副驾驶替代品 <sub>⭐ 811 · TypeScript</sub>
+- [mustafakendiguzel/claude-code-ui-agents](https://github.com/mustafakendiguzel/claude-code-ui-agents) - Claude AI 代理的全程收藏提示, 是为 UI/ UX 设计、 网页开发以及前端任务而专门设计的。 用专门的提示来转换您的设计工作流程, 以创建... <sub>⭐ 765</sub>
+- [infragate/capa](https://github.com/infragate/capa) - 1个功能. yaml电线技术,工具,规则,子代理,MCP服务器,以及插件进入Cursor, Claude Code, Codex, Windsurf, GitHub Copilot, 和30+其他AI编码代理 <sub>⭐ 726 · TypeScript</sub>
+- [marckohlbrugge/37signals-skills](https://github.com/marckohlbrugge/37signals-skills) - 非官方代理技能+参考指南,教AI编码助理写作"铁路37信号路"——摘自Fizzzy,Campfire,和DHH的代码评论. <sub>⭐ 723</sub>
+- [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - 看副驾驶扩展发送到服务器的内容的 Hacky repo <sub>⭐ 705 · JavaScript</sub>
+- [yzhao062/agent-style](https://github.com/yzhao062/agent-style) - 21 个 AI 编码和写作代理的写法规则。 Drop- in for Claude Code, Codex, Copilot, Cursor, and Aider, 所以他们的输出读起来像一个技术专业. <sub>⭐ 702 · Python</sub>
+- [loocor/codmate](https://github.com/loocor/codmate) - CodMate是管理CLI AI会话的macOS SwiftUI应用:浏览,搜索,组织,恢复,以及审查由Codex,Claude Code和双子座CLI制作的工作. 它专注于速度,一个紧凑... <sub>⭐ 669 · Swift</sub>
+- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - 与TypeSafe Jev一起建造的舞台版代码审查工作流程和当地仪表板. <sub>⭐ 656 · TypeScript</sub>
+- [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) - # 1 开源代码审查器在代码-Review-Bench上 <sub>⭐ 645 · Go</sub>
+- [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) - Fluster AI 克劳德, Codex, Cursor 和其他AI 授权IDE的技能和规则 <sub>⭐ 645 · Shell</sub>
+- [argos-ci/argos](https://github.com/argos-ci/argos) - 面向团队和AI代理的开源视觉测试平台,审查产品,而不仅仅是代码. <sub>⭐ 636 · TypeScript</sub>
+- [Corbell-AI/Corbell](https://github.com/Corbell-AI/Corbell) - AI-动力光谱生成与审查 使用多repo代码图智能为后端团队运送生产. <sub>⭐ 628 · Python</sub>
+- [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - Claude Code, Cursor 和任何编码代理的设计技能。 停止运输 AI- slop UI: 将其变成可载运的、品味丰富的前端。 安装: npx 技能添加了 superdesigndev/ superdesign- kill. Powered... <sub>⭐ 620 · JavaScript</sub>
+- [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - 提高气温编码到气温工程:通过一个... 获得一致的Github Copilot自定义指令,Cursor,Roo代码,Cline,Windsurf,Claude代码,双子座Cli,Codex CLI,kig代码,曲速自定义规则. <sub>⭐ 609 · Python</sub>
+- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - 使用 ChatGPT 来审查您的拉/调试请求 <sub>⭐ 607 · JavaScript</sub>
+- [WoJiSama/skill-based-architecture](https://github.com/WoJiSama/skill-based-architecture) - 一种生成技能的元技能。它指向任何代码库,并将其提炼出项目的规则、工作流程和来之不易的教训变成一个专门的技能//目录——这种项目技能变成了. <sub>⭐ 599 · Shell</sub>
+- [FradSer/dotclaude](https://github.com/FradSer/dotclaude) - 全面发展环境,由专门的AI代理,负责代码审查、安全分析和技术领导。 <sub>⭐ 593 · JavaScript</sub>
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit找到最便宜的在您的寄存器上可靠工作的AI编码设置,然后应用胜者作为可审查的更改. <sub>⭐ 587 · Python</sub>
+- [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - GitHub、GitLab、Bitbucket Cloud、Bitbucket服务器、Azure DevOps和Gitea的 AI 动力代码审查工具——由OpenAI、Claude、双子座、Ollama、Bedrock、OpenRouter和Azure OpenAI等LLMs建造 <sub>⭐ 585 · Python</sub>
+- [unicodef1wn/grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) - 规则,游戏本,机器人角色和XAI Grok Bot团队72小时直播的故障日志。将 AGENTS.md 丢入您的重播中然后离开。 <sub>⭐ 569 · Python</sub>
+- [xNul/code-llama-for-vscode](https://github.com/xNul/code-llama-for-vscode) - 使用带有Visual Studio代码和Continent扩展的代码Llama. GitHub Copilot 的本地LLM替代品. <sub>⭐ 568 · Python</sub>
+- [YoanWai/agent-manager](https://github.com/YoanWai/agent-manager) - 每个AI编码代理的开发者工作流程最快. Live status, 快速提示, worktrees, and diff review from one tmux TUI. <sub>⭐ 558 · Go</sub>
+- [umutxyp/Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) - Google SEO的完整docs作为AI的即时机器——将其投放到你的AI助手中,以映射每条公共路线,根据Google的规则对每一页进行审计,并一步一步地弥补漏洞. <sub>⭐ 554 · JavaScript</sub>
+- [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) - 将论文、代码和文件转换成可演示的,在Codex/Claude代码中可以本土编辑的PPTX。原生图表和方程式,演讲笔记,点击构建动画,以及独立评论家... <sub>⭐ 536 · Python</sub>
+- [mco-org/mco](https://github.com/mco-org/mco) - AI编码代理商的CLI-First协调:并行运行选定的代理商和模型,比较原始答案,协调审查或执行工作流程. <sub>⭐ 531 · Python</sub>
+- [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) - 用于 Codex/Claude 代码的可编辑 HTML 演示技巧,其编辑和调整大小、幻灯片重排顺序、本地保存/导出、以及 PPTX 对网络的转换。 呼喊到@zarazangrui <sub>⭐ 527 · HTML</sub>
+- [adshao/flounder](https://github.com/adshao/flounder) - 自动白帽子安全审计员负责AI驱动的代码审查,bug赏金研究,开发建设,以及执行依据的核查. <sub>⭐ 516 · TypeScript</sub>
+- [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - pi 的多订阅扩展 - 每个提供者使用多个 OAuth 账户( Anthropic, Codex, Copilot, 双子座, 反重力) <sub>⭐ 513 · TypeScript</sub>
+- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - 一个VSCode扩展,可以让你找到并安装Agent Swills和MCP Apps,与GitHub Copilot,Claude Code,以及Codex CLI一起使用. <sub>⭐ 504 · TypeScript</sub>
+- [claesbackman/AI-research-feedback](https://github.com/claesbackman/AI-research-feedback) - Claes Bäckman开发了这些工具。 <sub>⭐ 488 · JavaScript</sub>
+- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android:Android的 AI 驱动移动编码 IDE ——与编码代理商聊天,运行Linux命令,编辑文件,审查diffs,并从手机直接预览网络应用. no root... <sub>⭐ 486 · Kotlin</sub>
+- [evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill) - AI-驱动的CUAD风险检测、市场基准和律师准备的红线合同审查技能。与Claude Code、Codex、Cursor和26+工具一起工作。 <sub>⭐ 458</sub>
+- [appautomaton/latex-arxiv-SKILL](https://github.com/appautomaton/latex-arxiv-SKILL) - 一种非常定制的用于ARXIV准备的ML/AI审查文件的代理套件(以及超出范围),它通过一个有门的LaTeX工作流程驱动像Codex CLI和Claude Code这样的代理AI,并经过验证的BibTeX... <sub>⭐ 449 · TeX</sub>
+- [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) - 不只是一个技能管理器——管理技能,MCP服务器,插件,钩子,CLI,配置,内存和规则,贯穿每个AI编码代理。如果喜欢的话,就成为明星! <sub>⭐ 448 · Rust</sub>
+- [Nayjest/Gito](https://github.com/Nayjest/Gito) - 一个AI驱动的GitHub代码审查工具,使用LLMs来检测高自信,高影响的问题——如安全弱点,bug,以及可维护性问题. <sub>⭐ 441 · Python</sub>
+- [agent-sh/agnix](https://github.com/agent-sh/agnix) - AI 编码助理缺少的 linter 和 Isp 。 验证 CLAUDE. md、 AGENTS. md、 SKILL. md、 钩子、 MCP 等所有主要IDE 的插件, 并带有自动固定符 。 <sub>⭐ 439 · Rust</sub>
+- [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - Claude Code和Cursor的10种应用技能,将重构UI的原则转化为结构化的AI辅助设计评论/不附属,大粉丝,在这里获得他们的书 <sub>⭐ 435 · JavaScript</sub>
+- [fjb040911/ai-rules](https://github.com/fjb040911/ai-rules) - ai-rules是一个治理框架,旨在解决AI驱动开发中的"Architectural decay",它迫使AI Agents(Cursor,Windsurf,Copilot)尊重您的项目边界,UI... <sub>⭐ 428 · JavaScript</sub>
+- [project-codeguard/rules](https://github.com/project-codeguard/rules) - 项目代码守护(Project CodeGuard)是一个AI模型不可知的安全框架和规则集,将安全逐一设定的做法嵌入AI编码工作流程(生成和审查)中. 它传送核心安全规则... <sub>⭐ 424 · Python</sub>
+- [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) - Claude Code、GitHub Copilot和Claude桌面的无障碍审查代理商。 执行WCAG 2.2 AA合规的11位专家因此AI编码工具停止生成无法访问的代码。 <sub>⭐ 420 · JavaScript</sub>
+- [fcakyon/phd-skills](https://github.com/fcakyon/phd-skills) - Claude Code的博士研究技能:纸张复制、实验设计、纸张审查、结果比较等等。 <sub>⭐ 413 · Shell</sub>
+- [JamesShi96/project-butler](https://github.com/JamesShi96/project-butler) - AI编码助理的项目内存系统(Claude Code, cursor, Codex):会话日志,项目维基,规则,TODOs,和交接. <sub>⭐ 373 · Shell</sub>
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 19 AI Agents + 44 双子座CLI的指令 - 代码10x快速的汽车规划,测试,审查和安全 <sub>⭐ 373 · Shell</sub>
+- [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) - AI 动力多代理代码审查。 模拟一个可定制的工程师团队, 执行内置语句的代码审查 。 <sub>⭐ 370 · TypeScript</sub>
+- [miracodeai/mira](https://github.com/miracodeai/mira) - 自办AI代码审查员,配有索引化的PR评论,走行本,脆弱性扫描,依赖性图表,自定义规则,以及学习循环. <sub>⭐ 355 · Python</sub>
+- [plmbr/notebook-intelligence](https://github.com/plmbr/notebook-intelligence) - 一个JupyterLab扩展支持Claude Code,Copilot,Ollama,和OpenAI兼容的LLMs,具有MCP,技能,插件和笔记本代理. <sub>⭐ 347 · Python</sub>
+- [axtonliu/ai-pair](https://github.com/axtonliu/ai-pair) - 协调多个AI模型(Claude + GPT + 双子座)作为一个多面体团队,一个创建,两个审查. A Claude Code Skill. <sub>⭐ 346</sub>
+- [skainguyen1412/antigravity-superpowers](https://github.com/skainguyen1412/antigravity-superpowers) - 将超能力工作流程带到反重力——集思广益,规划,TDD,代码审查,核查技能尽可能接近原版. <sub>⭐ 327 · JavaScript</sub>
+- [gwendall/superclaude](https://github.com/gwendall/superclaude) - GitHub工作流程给Claude AI超能力. 变形"固定的东西"承诺到专业信息中,生成智能的更改日志,并获得AI代码评论——都有一个命令. <sub>⭐ 326 · Shell</sub>
+- [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - Codeball – 找到错误和快速路径的AI代码审查您的代码 <sub>⭐ 326 · TypeScript</sub>
+- [Adityaraj0421/naksha-studio](https://github.com/Adityaraj0421/naksha-studio) - 一个虚拟设计团队,为克劳德代码,Cursor,Windsurf,双子座CLI,和Copilot——26个角色,62个命令,15000+线的专家设计知识. 你的代理设计大脑,在你的终端内部. <sub>⭐ 320 · HTML</sub>
 - [EINDEX/logseq-copilot](https://github.com/EINDEX/logseq-copilot) - Logseq Copilot是一个浏览器扩展,允许您通过您的浏览器访问您的 Logseq 。 <sub>⭐ 317 · TypeScript</sub>
-- [finna/Finn-loop](https://github.com/finna/Finn-loop) - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge. <sub>⭐ 317 · JavaScript</sub>
-- [huanchong-99/SoloDawn](https://github.com/huanchong-99/SoloDawn) - Catches and repairs AI hallucinations before delivery: three quality gates, 31 built-in rules, a self-healing loop and a 90-point acceptance review. Fully automated from requirement to merged code. A… <sub>⭐ 316 · Rust</sub>
-- [benjaminr/chrome-devtools-mcp](https://github.com/benjaminr/chrome-devtools-mcp) - An MCP Server for Chrome DevTools, following the Chrome DevTools Protocol. Integrates with Claude Desktop and Claude Code. <sub>⭐ 309 · Python</sub>
-- [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) - A scaffold demonstrating how to use a turbo, mono repo, trpc, better auth, react, postgres and cursor ai rules. <sub>⭐ 304 · TypeScript</sub>
-- [nurettincoban/ai-prd-workflow](https://github.com/nurettincoban/ai-prd-workflow) - RFC-driven development for AI coding agents: idea or existing codebase → verified PRD → features → rules → sequenced RFCs → reviewed code. Agent Skills for Claude Code, Codex, Copilot, Cursor, Gemini… <sub>⭐ 297 · Python</sub>
-- [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) - Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing <sub>⭐ 297 · Shell</sub>
-- [WenyuChiou/ai-research-skills](https://github.com/WenyuChiou/ai-research-skills) - Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw… <sub>⭐ 297 · Python</sub>
-- [pavel-molyanov/molyanov-ai-dev](https://github.com/pavel-molyanov/molyanov-ai-dev) - Intent-driven AI-First development methodology for Claude Code and Codex — Project Knowledge, user-spec planning, focused execution, and evidence-gated reviews. <sub>⭐ 296 · Python</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) - Your AI-powered LeetCode & DSA mentor for Claude Code and Claude.ai. Master algorithms through intelligent guidance, progressive hints, and pattern recognition training—not just copy-pasting… <sub>⭐ 281 · Python</sub>
-- [KimYx0207/Meta_Kim](https://github.com/KimYx0207/Meta_Kim) - Governed execution layer for AI coding assistants: clarify intent, route capabilities, review evidence, verify results, and write back lessons across Claude Code, Codex, OpenClaw, and Cursor. <sub>⭐ 275 · JavaScript</sub>
-- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows. <sub>⭐ 274 · TypeScript</sub>
-- [ReviewStage/stage-cli](https://github.com/ReviewStage/stage-cli) - A viewer for reviewing local code changes in small individual chapters. Works with any AI agent. <sub>⭐ 274 · TypeScript</sub>
-- [Mindrally/skills](https://github.com/Mindrally/skills) - 255+ Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language. <sub>⭐ 266</sub>
-- [przeprogramowani/ai-rules-builder](https://github.com/przeprogramowani/ai-rules-builder) - Generate "Rules for AI". Quickly <sub>⭐ 265 · TypeScript</sub>
-- [RussellCanfield/wingman-ai-vscode-extension](https://github.com/RussellCanfield/wingman-ai-vscode-extension) - An open-source VSCode extension, the AI coding assistant, integrates with Ollama, HuggingFace, OpenAI, and Anthropic. <sub>⭐ 264 · TypeScript</sub>
-- [Exafunction/WindsurfVisualStudio](https://github.com/Exafunction/WindsurfVisualStudio) - Visual Studio extension for Codeium <sub>⭐ 252 · C#</sub>
-- [marvkr/better-design](https://github.com/marvkr/better-design) - Open-source design MCP server + shadcn/ui registry — AI design systems for Claude Code, Cursor, Codex, GitHub Copilot & any MCP client. 31 brand-grade themes (Linear, Stripe, Vercel, Notion, Apple… <sub>⭐ 251 · TypeScript</sub>
-- [truongnh1992/gemini-ai-code-reviewer](https://github.com/truongnh1992/gemini-ai-code-reviewer) - A GitHub Action that automatically reviews pull requests using Google's Gemini AI. <sub>⭐ 251 · Python</sub>
-- [entropyvortex/meta-llm-charter](https://github.com/entropyvortex/meta-llm-charter) - Compact operational charter that turns LLM coding agents into disciplined principal engineers. Eleven rules + one meta-rule. <sub>⭐ 249 · TypeScript</sub>
-- [wiz-sec-public/secure-rules-files](https://github.com/wiz-sec-public/secure-rules-files) - Baseline rules files to improve the security of AI-generated code (Claude, Cursor, Copilot + more) <sub>⭐ 241 · Python</sub>
-- [alibaba/aacr-bench](https://github.com/alibaba/aacr-bench) - An Alibaba open-source multi-language benchmark for evaluating LLMs in repository-level automatic code review, featuring an AI-assisted and expert-verified dataset. <sub>⭐ 238 · Python</sub>
-- [Lling0000/Vibe_coding_guide](https://github.com/Lling0000/Vibe_coding_guide) - 中文优先的 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review. <sub>⭐ 231 · JavaScript</sub>
-- [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) - Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev. <sub>⭐ 230 · TypeScript</sub>
-- [stevenflanagan1/social-ai-team](https://github.com/stevenflanagan1/social-ai-team) - Claude Code skills for social media — a complete AI social team for SMBs. Brand setup, content calendar, captions, creative, and performance review. <sub>⭐ 230 · Shell</sub>
-- [AgriciDaniel/claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity) - AI-powered cybersecurity code review skill for Claude Code. 8 specialist agents, OWASP 2025, CWE Top 25, MITRE ATT&CK, 11 languages, zero configuration. <sub>⭐ 225 · Shell</sub>
-- [yagil/ChatIDE](https://github.com/yagil/ChatIDE) - AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension. <sub>⭐ 220 · TypeScript</sub>
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) - 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a… <sub>⭐ 217 · HTML</sub>
-- [lintrule/lintrule](https://github.com/lintrule/lintrule) - Let the LLM review your code. <sub>⭐ 217 · TypeScript</sub>
-- [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) - Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky actions before they run, and keep every action on the record. <sub>⭐ 217 · TypeScript</sub>
-- [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms… <sub>⭐ 208</sub>
-- [garagon/nanostack](https://github.com/garagon/nanostack) - A workflow harness that helps AI coding agents plan, review, test, and ship safer code. <sub>⭐ 207 · Shell</sub>
-- [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for… <sub>⭐ 204 · Python</sub>
-- [copilot-extensions/blackbeard-extension](https://github.com/copilot-extensions/blackbeard-extension) - A basic "Hello world" Copilot Extension example that talks like Blackbeard the pirate <sub>⭐ 201 · JavaScript</sub>
-- [techygarg/lattice](https://github.com/techygarg/lattice) - Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and team standards. Better process, not just better prompts. <sub>⭐ 197 · JavaScript</sub>
-- [cdervis/Pendant](https://github.com/cdervis/Pendant) - The Pi coding agent, built into VS Code. <sub>⭐ 193</sub>
-- [lifedever/claude-rules](https://github.com/lifedever/claude-rules) - Coding standards for AI coding assistants. Auto-detect tech stack, generate project rules. Works with Claude Code, Cursor, Antigravity, GitHub Copilot. <sub>⭐ 192</sub>
-- [sd0xdev/sd0x-harness](https://github.com/sd0xdev/sd0x-harness) - The harness layer for Claude Code — a reference implementation of harness engineering with hook-enforced dual review, state-machine gates that survive context compaction, and fail-closed safety where… <sub>⭐ 191 · JavaScript</sub>
-- [pliablepixels/gap-trap](https://github.com/pliablepixels/gap-trap) - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line. <sub>⭐ 181 · JavaScript</sub>
-- [AgriciDaniel/skill-forge](https://github.com/AgriciDaniel/skill-forge) - Ultimate Claude Code skill creator — design, scaffold, build, review, evolve, and publish production-grade AI agent skills <sub>⭐ 177 · Python</sub>
-- [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) - Student LLM Wiki — AI-compiled knowledge base for university students. Drop course slides, get a persistent interlinked wiki. Feynman review, exam prep, confidence decay, cross-course connections.… <sub>⭐ 176</sub>
-- [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline) - Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively. <sub>⭐ 171 · Python</sub>
-- [xueyouluo/fsauor2018](https://github.com/xueyouluo/fsauor2018) - Code for Fine-grained Sentiment Analysis of User Reviews of AI Challenger 2018 <sub>⭐ 170 · Python</sub>
-- [Arman-Kudaibergenov/1c-ai-development-kit](https://github.com/Arman-Kudaibergenov/1c-ai-development-kit) - Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development in Cursor IDE <sub>⭐ 165 · PowerShell</sub>
-- [EfficientStreet/hindsight](https://github.com/EfficientStreet/hindsight) - A self-improvement skill for AI coding assistants — reviews a session end-to-end and saves only the durable process lessons as persistent memory. <sub>⭐ 165</sub>
-- [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) - Spec-first AI development: describe a feature → AI creates spec + plan + tasks, builds autonomously, syncs to GitHub/JIRA. Domain-expert skills for PM, Architect, Frontend, QA learn your patterns… <sub>⭐ 164 · TypeScript</sub>
-- [coleam00/dark-factory-experiment](https://github.com/coleam00/dark-factory-experiment) - A repository that ships its own code. AI workflows triage issues, implement them, review, and auto-merge with no human reading the diff. Runs on Archon. The app it maintains is a cited RAG chat over… <sub>⭐ 164 · Python</sub>
-- [asadm/codemirror-copilot](https://github.com/asadm/codemirror-copilot) - CodeMirror extension to add GPT autocompletion like GitHub's Copilot. <sub>⭐ 163 · JavaScript</sub>
-- [feiskyer/chatgpt-copilot](https://github.com/feiskyer/chatgpt-copilot) - ChatGPT Copilot Extension for Visual Studio Code <sub>⭐ 163 · TypeScript</sub>
-- [syabro/rejudge](https://github.com/syabro/rejudge) - Independent multi-model review for AI coding agents <sub>⭐ 163 · TypeScript</sub>
-- [mtarcure/claude-vibe-squad](https://github.com/mtarcure/claude-vibe-squad) - Multi-model AI orchestration where behaviour is Markdown, not code. One coordinator routes scoped task packets to 71 role-based specialists across 5 model families (Codex / Claude / Gemini / Grok /… <sub>⭐ 162 · Python</sub>
-- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode. <sub>⭐ 161 · TypeScript</sub>
-- [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - Self-hosted short link and live QR platform with ownership, review, branded QR codes, analytics, and an auditable path to AI-assisted operations. <sub>⭐ 159 · Go</sub>
-- [Redth/mobile-canvas-ghcp](https://github.com/Redth/mobile-canvas-ghcp) - Mobile iOS / Android Canvas extension for GitHub Copilot App <sub>⭐ 159 · C#</sub>
-- [lutzleonhardt/copilot-proxy](https://github.com/lutzleonhardt/copilot-proxy) - Copilot Proxy is a Visual Studio Code extension that exposes the VS Code Language Model API via an Express server. This experimental extension is intended solely for research and prototyping purposes… <sub>⭐ 157 · TypeScript</sub>
-- [areibman/bottleneck](https://github.com/areibman/bottleneck) - Code review for AI native teams. Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple… <sub>⭐ 156 · TypeScript</sub>
-- [azalio/map-framework](https://github.com/azalio/map-framework) - Plan-then-build AI coding for Claude Code & Codex CLI — you approve the plan before the model writes a line of code. SPEC → PLAN → TEST → CODE → REVIEW → LEARN <sub>⭐ 156 · Python</sub>
-- [termdock/termdock-issues](https://github.com/termdock/termdock-issues) - Let AI write the code — you own the view. Termdock: the AI-native terminal for macOS & Windows. Claude Code / Codex / Gemini / GitLab Duo agent sessions, diff impact analysis, visual Git review, and… <sub>⭐ 156 · Shell</sub>
-- [FelixNg1022/cf_ai_code_review](https://github.com/FelixNg1022/cf_ai_code_review) - AI-powered code review application built on Cloudflare Workers <sub>⭐ 154 · TypeScript</sub>
-- [RaiAnsar/claude_code-multi-AI-MCP](https://github.com/RaiAnsar/claude_code-multi-AI-MCP) - This MCP or multiple AI setup let claude code use Grok, Gemini and DeepSeek for reviewing and fixes <sub>⭐ 154 · Python</sub>
-- [tshemsedinov/reslop](https://github.com/tshemsedinov/reslop) - Review AI generated code and plan changes <sub>⭐ 153 · JavaScript</sub>
-- [alpacahq/alpaca-skills](https://github.com/alpacahq/alpaca-skills) - Agent skills for Alpaca's Trading API and Broker API: drop-in SKILL.md files for AI coding assistants <sub>⭐ 152 · Python</sub>
-- [saschaschramm/github-copilot](https://github.com/saschaschramm/github-copilot) - Analysis of the Github Copilot extension <sub>⭐ 148 · Python</sub>
-- [abstracta/browser-copilot](https://github.com/abstracta/browser-copilot) - Browser extension and framework to use and build AI assistants for any web application <sub>⭐ 147 · TypeScript</sub>
-- [drewnekota/cetus](https://github.com/drewnekota/cetus) - One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board. <sub>⭐ 146 · TypeScript</sub>
-- [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy) - Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic… <sub>⭐ 144 · PHP</sub>
-- [ChuprinaDaria/Vibecode-Cleaner-Fartrun](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) - Not another AI reviewing AI. Rust-powered code scanner that actually reads your codebase — zero extra tokens consumed. 29 MCP tools: security vulns, dead code, health checks, save points, frozen… <sub>⭐ 139 · Python</sub>
-- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality audits (eval-leakage, doc-drift). Works with Claude… <sub>⭐ 138 · Python</sub>
-- [kv0906/pm-kit](https://github.com/kv0906/pm-kit) - AI-augmented PM workspace for Coding Agents — daily standups, decisions, blockers, docs, and sprint reviews as markdown skills <sub>⭐ 138 · Python</sub>
-- [georgeguimaraes/review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for code review annotations in codediff.nvim. Add comments to diffs, export as AI-ready markdown. Inspired by tuicr. <sub>⭐ 136 · Lua</sub>
-- [Aaronontheweb/dotnet-cursor-rules](https://github.com/Aaronontheweb/dotnet-cursor-rules) - .mdc files for defining Cursor rules specific to .NET projects <sub>⭐ 134</sub>
-- [Exafunction/codeium-chrome](https://github.com/Exafunction/codeium-chrome) - Free, ultrafast code autocomplete for Chrome <sub>⭐ 134 · TypeScript</sub>
-- [nerasse/my-code-server](https://github.com/nerasse/my-code-server) - vscode server official binary install in docker image, "all" extensions working: Copilot Chat tested <sub>⭐ 134 · Shell</sub>
-- [htlin222/meta-pipe](https://github.com/htlin222/meta-pipe) - Claude Code-powered end-to-end meta-analysis automation: AI-assisted literature review, screening, extraction, analysis, and manuscript generation for systematic reviews and clinical evidence… <sub>⭐ 132 · Python</sub>
-- [Ilm-Alan/frontend-design](https://github.com/Ilm-Alan/frontend-design) - Frontend design skill for Claude Code, Codex, and Gemini CLI. Eight aesthetic anchors, each locking palette, typography, and texture to specific CSS tokens. Pick one per brief. <sub>⭐ 130</sub>
-- [RayFernando1337/rayfernando-skills](https://github.com/RayFernando1337/rayfernando-skills) - Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workflow with a Bug Review Board (BRB) feedback loop. <sub>⭐ 129 · Python</sub>
-- [DojoCodingLabs/remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) - Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/video generation, TikTok captions, 3D, transitions & AI review loop. 5 MCP servers, 13… <sub>⭐ 128 · Shell</sub>
-- [docmancer/docmancer](https://github.com/docmancer/docmancer) - Find out what your coding agents already know. Docmancer indexes the memory, rules, and instructions Claude Code, Codex, Cursor, and Gemini wrote on your machine, then carries the durable parts to… <sub>⭐ 127 · Python</sub>
-- [nexu-io/looper](https://github.com/nexu-io/looper) - Run AI coding agents as an autonomous dev team across all your GitHub repos — plan, review, fix, and ship, on a loop. <sub>⭐ 127 · Go</sub>
-- [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy. <sub>⭐ 126 · Python</sub>
-- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusable workflows for Claude Code and Codex, plus code review, app delivery, and… <sub>⭐ 126 · JavaScript</sub>
-- [madebyaris/advance-minimax-m3-cursor-rules](https://github.com/madebyaris/advance-minimax-m3-cursor-rules) - Agentic-first Cursor Rules powered by MiniMax M3 - clarify-first prompting, interleaved thinking, and full tool orchestration for production-ready AI coding <sub>⭐ 125 · Python</sub>
-- [Houseofmvps/ultraship](https://github.com/Houseofmvps/ultraship) - "ULTRASHIP" Claude Code plugin — 39 skills, 33 tools, 11 agents for ship-ready workflows: planning, review, pentesting, safety guardrails, canary monitoring, SEO/AI-readiness check, penetration… <sub>⭐ 123 · JavaScript</sub>
-- [sinewaveai/agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST & taint analysis, auto-fix. <sub>⭐ 122 · JavaScript</sub>
-- [BlueBirdBack/godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) - Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips for AI-assisted game dev. <sub>⭐ 119</sub>
-- [devarshishimpi/codra](https://github.com/devarshishimpi/codra) - Self-hosted AI code review for GitHub pull requests, built on Cloudflare Workers. <sub>⭐ 119 · TypeScript</sub>
-- [PanisHandsome/ai-rules-sync](https://github.com/PanisHandsome/ai-rules-sync) - Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero… <sub>⭐ 119 · JavaScript</sub>
-- [nam271212/strategic-advisor-orchestrator](https://github.com/nam271212/strategic-advisor-orchestrator) - AI Coding Agent Orchestrator 2026: Pro-Level Strategy & Review Framework <sub>⭐ 117 · HTML</sub>
-- [benavlabs/vibe-check](https://github.com/benavlabs/vibe-check) - Security checklist for vibe coded apps. AI rules file + automated audit + manual verification. <sub>⭐ 114 · Python</sub>
-- [yc-duan/incipit](https://github.com/yc-duan/incipit) - A frontend rework of the official Claude Code VS Code extension — surface redrawn, engine untouched <sub>⭐ 114 · JavaScript</sub>
-- [cLin-c/paper-skill](https://github.com/cLin-c/paper-skill) - Claude Code skill — AI prompt library for academic paper writing, polishing, reviewing, translating and submitting to SCI/IEEE/Nature/TRO journals <sub>⭐ 113 · Python</sub>
-- [automatis-tools/agents-can-communicate](https://github.com/automatis-tools/agents-can-communicate) - Let your AI coding sessions talk to each other. Coordinate parallel work, exchange reviews, and hand off unfinished work between Claude Code, Codex, and other supported clients. Local-first.… <sub>⭐ 112 · JavaScript</sub>
-- [microsoft/vscode-copilotstudio](https://github.com/microsoft/vscode-copilotstudio) - VS Code Extension for Copilot Studio <sub>⭐ 112 · C#</sub>
-- [diegosouzapw/OmniCopilot](https://github.com/diegosouzapw/OmniCopilot) - 1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent… <sub>⭐ 111 · TypeScript</sub>
-- [Habitat-Thinking/ai-literacy-superpowers](https://github.com/Habitat-Thinking/ai-literacy-superpowers) - A set of Claude Code and GitHub Copilot plugins providing the AI Literacy framework's complete development workflow — harness engineering, agent orchestration, literate programming, CUPID code… <sub>⭐ 111 · Python</sub>
-- [HermeticOrmus/LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) - UI/UX system for Claude Code: 71 plugins, 93 agents, 74 skills. Design mastery, archetypal design, accessibility, and frontend workflows in one validated plugin marketplace. <sub>⭐ 110 · Shell</sub>
-- [openqa-cn/codexqa](https://github.com/openqa-cn/codexqa) - codexqa: 11 local-first Agent Skills for Cursor, Claude Code, Codex & OpenClaw — change impact analysis, AI code review, defect scan, testcase generation, browser replay & RCA. <sub>⭐ 110 · Python</sub>
-- [Ali-Marandi/AI-Code-Reviewer](https://github.com/Ali-Marandi/AI-Code-Reviewer) - AI-Powered Code Review and Quality Analysis Tool <sub>⭐ 109 · Python</sub>
-- [microsoft/PromptKit](https://github.com/microsoft/PromptKit) - Agentic prompts are the most important code you're not engineering. PromptKit fixes that — composable, version-controlled prompt components (personas, protocols, formats, templates) that snap… <sub>⭐ 109 · JavaScript</sub>
-- [0xeb/windbg-agent](https://github.com/0xeb/windbg-agent) - WinDbg Copilot - Agentic Debugging extension <sub>⭐ 108 · C++</sub>
-- [javiarmesto/ALDC-AL-Development-Collection](https://github.com/javiarmesto/ALDC-AL-Development-Collection) - ALDC (AL Development Collection) transforms how you develop Business Central extensions with GitHub Copilot and Claude Code. Instead of ad-hoc code generation, ALDC provides structured… <sub>⭐ 108</sub>
-- [octopusreview/octopus](https://github.com/octopusreview/octopus) - AI-powered PR review tool — multi-armed code analysis, no bug escapes <sub>⭐ 108 · TypeScript</sub>
-- [codegraph-ai/CodeGraph](https://github.com/codegraph-ai/CodeGraph) - CodeGraph builds a semantic graph of your codebase — functions, classes, imports, call chains — and exposes it through 42 MCP tools, 38 languages, a VS Code extension, and a persistent memory layer.… <sub>⭐ 106 · C</sub>
-- [heilingbrunner/tiaportal-mcp](https://github.com/heilingbrunner/tiaportal-mcp) - A Visual Studio Code extension to connect to Siemens TIA Portal and interact with TIA Portal projects directly from VS Code with GitHub Copilot. <sub>⭐ 106 · C#</sub>
-- [zclllyybb/OpenGiraffe](https://github.com/zclllyybb/OpenGiraffe) - A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase. <sub>⭐ 106 · Python</sub>
-- [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) - Automatic project memory for Claude Code: decisions, rules and dead ends saved to JEVMEM.md in your repo, brought back next session. In the Claude plugin directory and on the MCP Registry. <sub>⭐ 105 · TypeScript</sub>
-- [MoaKK/AI-Code-Reviewer](https://github.com/MoaKK/AI-Code-Reviewer) - GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR. <sub>⭐ 104 · TypeScript</sub>
-- [yizhiyanhua-ai/fireworks-design](https://github.com/yizhiyanhua-ai/fireworks-design) - A Claude Code workflow that replicates ClaudeDesign — parallel design exploration, panel judging, synthesis, and adversarial refinement to a single world-class frontend page. 双语 README。 <sub>⭐ 104 · HTML</sub>
+- [finna/Finn-loop](https://github.com/finna/Finn-loop) - Finn-loop:克劳德代码的3技能AI软件工厂——Spec,build,Review. Humans合并. <sub>⭐ 317 · JavaScript</sub>
+- [huanchong-99/SoloDawn](https://github.com/huanchong-99/SoloDawn) - 交货前抓获并修复AI幻觉:3个质量门,31个内置规则,一个自愈循环和90分的验收审查. 完全自动化从要求到合并代码. A... <sub>⭐ 316 · Rust</sub>
+- [benjaminr/chrome-devtools-mcp](https://github.com/benjaminr/chrome-devtools-mcp) - Chrome DevTools的MCP服务器,遵循Chrome DevTools协议. 结合了克劳德桌面和克劳德代码. <sub>⭐ 309 · Python</sub>
+- [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) - 一个脚手架,演示如何使用涡轮,单重力,trpc,更好的auth,反应,posgres和光标AI规则. <sub>⭐ 304 · TypeScript</sub>
+- [nurettincoban/ai-prd-workflow](https://github.com/nurettincoban/ai-prd-workflow) - AI编码代理的 RFC 驱动开发: 想法或现有的代码库 → 经核实的 PRD → 特征 → 规则 → 排序的 RFCs → 已审查代码. Agent swills for Claude Code, Codex, Copilot, Cursor, Gemini... <sub>⭐ 297 · Python</sub>
+- [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) - 多贷代码审计工具——280名高级人工智能专家代理,负责代码审查、安全测试和基础设施审计 <sub>⭐ 297 · Shell</sub>
+- [WenyuChiou/ai-research-skills](https://github.com/WenyuChiou/ai-research-skills) - 研究工作流程的通用SKILL.md目录:文献审查,研究设计,项目内存,手稿编写,以及克劳德代码,Codex,双子座,Cursor,OpenClaw的交叉代理授权. . <sub>⭐ 297 · Python</sub>
+- [pavel-molyanov/molyanov-ai-dev](https://github.com/pavel-molyanov/molyanov-ai-dev) - Claude Code和Codex的意向驱动的AI-First开发方法——项目知识,用户谱规划,重点执行,以及证据化审查. <sub>⭐ 296 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [karanb192/algo-sensei](https://github.com/karanb192/algo-sensei) - 您为Claude Code 和 Claude.ai 提供的 AI 动力 LeetCode & DSA 导师。 通过智能引导、渐进提示和模式识别培训,主算法——不仅仅是复制-粘贴... <sub>⭐ 281 · Python</sub>
+- [KimYx0207/Meta_Kim](https://github.com/KimYx0207/Meta_Kim) - AI编码助理的受管执行层:澄清意图,路由能力,审查证据,核实结果,并写回Claude Code,Codex,OpenClaw,和Cursor之间的课. <sub>⭐ 275 · JavaScript</sub>
+- [FaqFirebase/pi-desktop](https://github.com/FaqFirebase/pi-desktop) - 用于 Pi 和 oh-my- pi 编码代理的自由开源电子图形界面。 聊天、 编辑文件、 运行终端, 并在一个窗口中审查 diffs. Linux、 macOS 和 Windows 。 <sub>⭐ 274 · TypeScript</sub>
+- [ReviewStage/stage-cli](https://github.com/ReviewStage/stage-cli) - 浏览器,用于审查单个小章节中本地代码的修改。 与任何 AI 代理工作 。 <sub>⭐ 274 · TypeScript</sub>
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 255+ Claude Code技能从Cursor规则转换而来,每个主要框架和语言的专家编码指南. <sub>⭐ 266</sub>
+- [przeprogramowani/ai-rules-builder](https://github.com/przeprogramowani/ai-rules-builder) - 生成"AI的规则". <sub>⭐ 265 · TypeScript</sub>
+- [RussellCanfield/wingman-ai-vscode-extension](https://github.com/RussellCanfield/wingman-ai-vscode-extension) - 一个开源的VSCode扩展,AI编码助手,与奥拉玛,哈金斯法斯,OpenAI和Anthropic集成. <sub>⭐ 264 · TypeScript</sub>
+- [Exafunction/WindsurfVisualStudio](https://github.com/Exafunction/WindsurfVisualStudio) - Codeium 的视觉工作室扩展 <sub>⭐ 252 · C#</sub>
+- [marvkr/better-design](https://github.com/marvkr/better-design) - 开源设计 MCP 服务器+ shadcn/ui Registration — Claude Code, Cursor, Codex, GitHub Copilot & 任意MCP客户端的AI设计系统. 31个品牌级主题(Linear, Strepe,Vercel,Notion,苹果). <sub>⭐ 251 · TypeScript</sub>
+- [truongnh1992/gemini-ai-code-reviewer](https://github.com/truongnh1992/gemini-ai-code-reviewer) - 一个GitHub Action,自动使用Google的双子星AI来审查拉动请求. <sub>⭐ 251 · Python</sub>
+- [entropyvortex/meta-llm-charter](https://github.com/entropyvortex/meta-llm-charter) - 压缩业务章程,将LLM编码代理商变为纪律严明的主要工程师. 11条规则+1元规则. <sub>⭐ 249 · TypeScript</sub>
+- [wiz-sec-public/secure-rules-files](https://github.com/wiz-sec-public/secure-rules-files) - 基线规则文件,以改善AI生成代码的安全性(Claude, Cursor, Copilot+) <sub>⭐ 241 · Python</sub>
+- [alibaba/aacr-bench](https://github.com/alibaba/aacr-bench) - Alibaba在存储器级自动码审查中评价LLMS的多种语言开放源码基准,其特色是AI辅助和专家验证的数据集. <sub>⭐ 238 · Python</sub>
+- [Lling0000/Vibe_coding_guide](https://github.com/Lling0000/Vibe_coding_guide) - QQVibe编码/AI编码工程工作流程指南:规格,代理,工作树,技能,CI,以及审查. <sub>⭐ 231 · JavaScript</sub>
+- [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) - 本地首个MCP插件,用于AI编码代理持续进行软件质量审查,由Jev提供动力. <sub>⭐ 230 · TypeScript</sub>
+- [stevenflanagan1/social-ai-team](https://github.com/stevenflanagan1/social-ai-team) - Claude Code技能为社交媒体——SMBs的完整AI社交团队. 品牌设置,内容日历,标题,创意和业绩审查. <sub>⭐ 230 · Shell</sub>
+- [AgriciDaniel/claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity) - Claude Code的AI动力网络安全代码审查技能. OWASP 2025,CWE Top 25,MITRE ATT&CK,11种语言,零配置8位专家代理. <sub>⭐ 225 · Shell</sub>
+- [yagil/ChatIDE](https://github.com/yagil/ChatIDE) - 在您的 IDE - ChatGPT (OpenAI) 和 Claude (Anthropic) 中的 AI 编码助理在 VSCode 扩展中. <sub>⭐ 220 · TypeScript</sub>
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) - 89个技能和38个专业代理,强制实施经过验证的工程实践,用于AI辅助开发. TDD,系统调试,并行代码审查,以及10门开发周期——作为... <sub>⭐ 217 · HTML</sub>
+- [lintrule/lintrule](https://github.com/lintrule/lintrule) - 让LLM检查一下你的代码 <sub>⭐ 217 · TypeScript</sub>
+- [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) - AI代理的访问控制. 设定 Claude Code, Codex,双子座,Cursor 和任何 MCP 服务器可以做什么,在运行前审查有风险的行动,并保留每个动作的记录. <sub>⭐ 217 · TypeScript</sub>
+- [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) - SwiftUI前端设计技能——六条反AI Sloppiness的铁板规则,设计方向咨询,品牌资产准则,以及五向化审查. 支持所有AI代理平台... <sub>⭐ 208</sub>
+- [garagon/nanostack](https://github.com/garagon/nanostack) - 帮助AI编码代理计划、审查、测试和船舶安全代码的工作流程控制器。 <sub>⭐ 207 · Shell</sub>
+- [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - AI编码代理的治理框架。它通过一个五步工作流程(计划、建设、审查、测试、船舶)运行,没有证据就算不上步骤。 <sub>⭐ 204 · Python</sub>
+- [copilot-extensions/blackbeard-extension](https://github.com/copilot-extensions/blackbeard-extension) - 一个基本的“你好世界”副驾驶扩展例子, 说话像黑胡子海盗 <sub>⭐ 201 · JavaScript</sub>
+- [techygarg/lattice](https://github.com/techygarg/lattice) - 在任何 AI 编码助理中安装工程纪律。 可编译的设计、 执行、 审查和团队标准技能。 更好的进程, 而不仅仅是更好的提示 。 <sub>⭐ 197 · JavaScript</sub>
+- [cdervis/Pendant](https://github.com/cdervis/Pendant) - Pi编码代理器,内置VS代码. <sub>⭐ 193</sub>
+- [lifedever/claude-rules](https://github.com/lifedever/claude-rules) - AI编码助理的编码标准. Auto-detect Technology stack, 生成项目规则. Works with Claude Code, Cursor, Antigravity, GitHub Copilot. <sub>⭐ 192</sub>
+- [sd0xdev/sd0x-harness](https://github.com/sd0xdev/sd0x-harness) - Claude Code的吊带层——使用钩子强制双重审查的吊带工程的参考实施,在环境压缩后幸存下来的国机门,以及故障封闭安全的地方. . <sub>⭐ 191 · JavaScript</sub>
+- [pliablepixels/gap-trap](https://github.com/pliablepixels/gap-trap) - 将感官编码转换成高品质的代码。 在您的重播中设置规则和大门, 这样 AI 写入的代码不会在您不检视每行的情况下被校正 。 <sub>⭐ 181 · JavaScript</sub>
+- [AgriciDaniel/skill-forge](https://github.com/AgriciDaniel/skill-forge) - 终极克劳德代码技能创造者——设计,脚手架,建造,审查,进化,并出版生产级AI代理技能. <sub>⭐ 177 · Python</sub>
+- [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) - 学生LLM Wiki — AI编译的大学生知识库. 放下课程幻灯片,获得一个持久的互联维基. 费曼评论,考试准备,信心衰减,跨课程连接...... <sub>⭐ 176</sub>
+- [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline) - 完全本地脆弱性研究管道 -- -- 14B代码专用LLM对每个源文件进行详尽审查。 <sub>⭐ 171 · Python</sub>
+- [xueyouluo/fsauor2018](https://github.com/xueyouluo/fsauor2018) - 2018年AI挑战者评测用户评测精细感知分析代码 <sub>⭐ 170 · Python</sub>
+- [Arman-Kudaibergenov/1c-ai-development-kit](https://github.com/Arman-Kudaibergenov/1c-ai-development-kit) - 1C: 光标 IDE 企业发展的综合人工智能代理、技能和规则工具包 <sub>⭐ 165 · PowerShell</sub>
+- [EfficientStreet/hindsight](https://github.com/EfficientStreet/hindsight) - AI编码助理的自我改进技能——审查会话的结束到结束,只将持久过程的教训保存为持久的记忆. <sub>⭐ 165</sub>
+- [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) - Spec-first AI开发:描述一个功能 → AI创建 spec + 计划 + 任务,自主构建,同步到GitHub/JIRA. 域专家技能为PM,建筑师,前端,QA学习你的图案...... <sub>⭐ 164 · TypeScript</sub>
+- [coleam00/dark-factory-experiment](https://github.com/coleam00/dark-factory-experiment) - 一个发送自己代码的存储器。 AI工作流程处理分类问题, 执行它们, 审核, 并自动化而无需人阅读 diff。 运行在 Archon 上。 它维护的应用程序是一个引用的 RAG 聊天... <sub>⭐ 164 · Python</sub>
+- [asadm/codemirror-copilot](https://github.com/asadm/codemirror-copilot) - CodeMiror扩展以添加GPT自动补全,就像 GitHub 的副驾驶. <sub>⭐ 163 · JavaScript</sub>
+- [feiskyer/chatgpt-copilot](https://github.com/feiskyer/chatgpt-copilot) - ChatGPT 视觉工作室代码的副驾驶扩展 <sub>⭐ 163 · TypeScript</sub>
+- [syabro/rejudge](https://github.com/syabro/rejudge) - AI编码代理的独立多模式审查 <sub>⭐ 163 · TypeScript</sub>
+- [mtarcure/claude-vibe-squad](https://github.com/mtarcure/claude-vibe-squad) - 多模式AI 管弦乐在行为是Markdown而不是代码的地方. 一名协调员将范围化的任务包传递给来自5个模式家庭的71位基于角色的专家(Codex / Claude / Gemini / Grok /...). <sub>⭐ 162 · Python</sub>
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - VSCode 的 ChatGPT 扩展名 。 <sub>⭐ 161 · TypeScript</sub>
+- [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - 自办短链接和现场QR平台,拥有所有权,审查,品牌化的QR代码,分析,以及AI辅助操作的可审计路径. <sub>⭐ 159 · Go</sub>
+- [Redth/mobile-canvas-ghcp](https://github.com/Redth/mobile-canvas-ghcp) - GitHub 副驾驶App的移动iOS/ Android Canvas扩展 <sub>⭐ 159 · C#</sub>
+- [lutzleonhardt/copilot-proxy](https://github.com/lutzleonhardt/copilot-proxy) - 副驾驶代理是一个Visual Studio代码扩展,通过Express服务器曝光VS代码语言模型API,这个实验扩展完全是为了研究和原型目的. . <sub>⭐ 157 · TypeScript</sub>
+- [areibman/bottleneck](https://github.com/areibman/bottleneck) - AI本地团队代码审查. 本地Electron应用程序用于审查牵引请求的速度大大快于Github Web. 专门处理从事多种工作的背景代理的评审. . <sub>⭐ 156 · TypeScript</sub>
+- [azalio/map-framework](https://github.com/azalio/map-framework) - 计划时为Claude Code & Codex CLI建立AI编码——在模型写出代码线之前你批准该计划. SPEC → Plan → TEST → CODE – Review ~ LEARN <sub>⭐ 156 · Python</sub>
+- [termdock/termdock-issues](https://github.com/termdock/termdock-issues) - 让AI写代码——您拥有视图. Termdock:macOS & Windows的AI-native终端. Claude Code / Codex / GitLab Duo代理会话,diff撞击分析,视觉Git评论,以及... <sub>⭐ 156 · Shell</sub>
+- [FelixNg1022/cf_ai_code_review](https://github.com/FelixNg1022/cf_ai_code_review) - 在Cloudflare Workers上构建的 AI 动力代码审查应用程序 <sub>⭐ 154 · TypeScript</sub>
+- [RaiAnsar/claude_code-multi-AI-MCP](https://github.com/RaiAnsar/claude_code-multi-AI-MCP) - 这个 MCP 或多个 AI 设置让 Claude 代码使用 Grok,双子座和 DeepSeek 来审查和修正 <sub>⭐ 154 · Python</sub>
+- [tshemsedinov/reslop](https://github.com/tshemsedinov/reslop) - 审查AI生成的代码和计划更改 <sub>⭐ 153 · JavaScript</sub>
+- [alpacahq/alpaca-skills](https://github.com/alpacahq/alpaca-skills) - Alpaca 贸易 API 和 Brocker API 的代理技能: 给 AI 编码助理的 drop- in SKILL.md 文件 <sub>⭐ 152 · Python</sub>
+- [saschaschramm/github-copilot](https://github.com/saschaschramm/github-copilot) - Github 副驾驶延期分析 <sub>⭐ 148 · Python</sub>
+- [abstracta/browser-copilot](https://github.com/abstracta/browser-copilot) - 浏览器扩展和框架,用于使用和构建任何网络应用程序的AI助手 <sub>⭐ 147 · TypeScript</sub>
+- [drewnekota/cetus](https://github.com/drewnekota/cetus) - 克劳德代码的一个macOS应用, Codex, 以及你使用的每一个代理运行时间—— 预定运行, 全球热键启动器, 每条运行的 git 工作树, 一个审查板. <sub>⭐ 146 · TypeScript</sub>
+- [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy) - 对债务AI代理在PHP中离开的静态分析:26条规则,克劳德代码钩子,git-diff审查,一位校长和平特固定传球,Pest预期,CI说明和一个MCP服务器. Deterministic... <sub>⭐ 144 · PHP</sub>
+- [ChuprinaDaria/Vibecode-Cleaner-Fartrun](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) - 而不是另一个AI审查AI. Rust-power的代码扫描器,它实际上读取了您的代码库——零额外消耗的代号. 29个MCP工具:安全vulns,死码,健康检查,保存点数,冻结... <sub>⭐ 139 · Python</sub>
+- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) - AI编码代理的20种生产级技能——设置,范围,纪律,代码审查,安全,会话管理,治理,操作,以及质量审计(eval-leakage, doc-drift). Works with Claude... <sub>⭐ 138 · Python</sub>
+- [kv0906/pm-kit](https://github.com/kv0906/pm-kit) - AI-Agreed PM 编码代理工作空间——日常立体,决定,阻断器,文件,以及冲刺评论作为减记技能. <sub>⭐ 138 · Python</sub>
+- [georgeguimaraes/review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim 插件,用于代码审查说明在 codediff.nvim 中。 在 diffs 中添加注释,导出为 AI- preferred markdown 。 灵感来自 tuicr 。 <sub>⭐ 136 · Lua</sub>
+- [Aaronontheweb/dotnet-cursor-rules](https://github.com/Aaronontheweb/dotnet-cursor-rules) - 用于定义 .NET 项目专用光标规则的 mdc 文件 <sub>⭐ 134</sub>
+- [Exafunction/codeium-chrome](https://github.com/Exafunction/codeium-chrome) - Chrome 的免费、超快码自动完成 <sub>⭐ 134 · TypeScript</sub>
+- [nerasse/my-code-server](https://github.com/nerasse/my-code-server) - vscode 服务器正式二进制安装在嵌入器图像中, "全部" 扩展工作: 已测试的 Copilot Chat <sub>⭐ 134 · Shell</sub>
+- [htlin222/meta-pipe](https://github.com/htlin222/meta-pipe) - Claude Code动力端对端元分析自动化:AI辅助文献审查,筛选,提取,分析和手稿生成,用于系统审查和临床证据. . <sub>⭐ 132 · Python</sub>
+- [Ilm-Alan/frontend-design](https://github.com/Ilm-Alan/frontend-design) - Claude Code, Codex, 和双子座CLI的前端设计技能. 8个美学主播,每个主播锁定调色板,排版,以及特定CSS代号的纹理,每个简短选择一个. <sub>⭐ 130</sub>
+- [RayFernando1337/rayfernando-skills](https://github.com/RayFernando1337/rayfernando-skills) - 雷·费尔南多为AI编码代理收集的Skill文件. First up: run-bug-review-board,一个真用户QA工作流程,并带有Bug Review Board(BRB)反馈循环. <sub>⭐ 129 · Python</sub>
+- [DojoCodingLabs/remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) - Claude Code 插件 — Remotion 的完整视频制作工作室. AI语音,音乐,股票镜头,图像/视频生成,TikTok字幕,3D,过渡和AI审查环路. 5个MCP服务器,13... <sub>⭐ 128 · Shell</sub>
+- [docmancer/docmancer](https://github.com/docmancer/docmancer) - 找出你的编码代理已经知道什么。 Docmancer 索引了内存、规则和指令 克劳德代码、代码、光环和双子星 在你的机器上写到,然后把耐用部件带去... <sub>⭐ 127 · Python</sub>
+- [nexu-io/looper](https://github.com/nexu-io/looper) - 运行 AI 编码代理作为一个自主的dev团队 跨过所有您的 GitHub repos—— 计划,审查,固定,和船,在一个循环。 <sub>⭐ 127 · Go</sub>
+- [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - Claude Code的AI驱动电子邮件管理和营销技巧. Inbox 分类,组成,质量审查,可交付性审计,自动化序列和营销策略. <sub>⭐ 126 · Python</sub>
+- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - SEO的开源AI技能,AI搜索可见度,转换复制,营销策略,以及业务操作. Claude Code和Codex的可重复使用的工作流程,加上代码审查,应用程序交付,以及. <sub>⭐ 126 · JavaScript</sub>
+- [madebyaris/advance-minimax-m3-cursor-rules](https://github.com/madebyaris/advance-minimax-m3-cursor-rules) - 由MiniMax M3提供动力的代理-第一光标规则 - 澄清- 第一提示, 交互思维, 以及全工具的编程, 用于制作准备的 AI 编码 <sub>⭐ 125 · Python</sub>
+- [Houseofmvps/ultraship](https://github.com/Houseofmvps/ultraship) - "ULTRASHIP"Claude代码插件——39个技能,33个工具,11个用于船准备工作流程的代理商:规划,审查,笔试,安全护栏,金丝雀监测,SIO/AI准备状态检查,渗透. <sub>⭐ 123 · JavaScript</sub>
+- [sinewaveai/agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - 用于AI编码代理的安全扫描器MCP服务器. 即时注射防火墙,包幻检测(4.3M+包),1000+易失规则与AST & taint分析,自动固定. <sub>⭐ 122 · JavaScript</sub>
+- [BlueBirdBack/godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) - Godot 4.4 Cursor规则:编码标准,架构模式,以及AI辅助游戏dev的性能提示. <sub>⭐ 119</sub>
+- [devarshishimpi/codra](https://github.com/devarshishimpi/codra) - 自办AI代码审查GitHub拉力请求,基于Cloudflare Workers. <sub>⭐ 119 · TypeScript</sub>
+- [PanisHandsome/ai-rules-sync](https://github.com/PanisHandsome/ai-rules-sync) - 为您的 AI 编码代理规则保留一个真相来源。 在 AGENTS. md、 CLAUDE. md、 cursorrules、 Copilot、 Windsurf、 Cline、 Aider & Gemini 之间转换和同步, 或者在脚手架上转换和同步新的 AGENTS. md. 0... <sub>⭐ 119 · JavaScript</sub>
+- [nam271212/strategic-advisor-orchestrator](https://github.com/nam271212/strategic-advisor-orchestrator) - AI 编码代理Orchestrator 2026: Pro-Level战略和审查框架 <sub>⭐ 117 · HTML</sub>
+- [benavlabs/vibe-check](https://github.com/benavlabs/vibe-check) - 气温编码应用程序的安全检查清单. AI规则文件+自动审核+人工校验. <sub>⭐ 114 · Python</sub>
+- [yc-duan/incipit](https://github.com/yc-duan/incipit) - 前端重修 Claude 代码 VS 代码扩展名 — 表面重绘, 引擎未激活 <sub>⭐ 114 · JavaScript</sub>
+- [cLin-c/paper-skill](https://github.com/cLin-c/paper-skill) - Claude Code技巧——AI 即时图书馆,用于学术论文的编写、抛光、审查、翻译和提交SCI/IEEE/Nature/TRO期刊 <sub>⭐ 113 · Python</sub>
+- [automatis-tools/agents-can-communicate](https://github.com/automatis-tools/agents-can-communicate) - 让您的 AI 编码会话互相交谈。 协调并行的工作, 交换审查, 并交出克劳德代码、 Codex 和其他支持的客户端之间的未完成的工作。 本地优先... <sub>⭐ 112 · JavaScript</sub>
+- [microsoft/vscode-copilotstudio](https://github.com/microsoft/vscode-copilotstudio) - 副驾驶工作室的 VS 代码扩展 <sub>⭐ 112 · C#</sub>
+- [diegosouzapw/OmniCopilot](https://github.com/diegosouzapw/OmniCopilot) - 1200+ AI模型在您的 GitHub copilot Chat中——免费和永远免费. OmniRoute 提供的 VS代码扩展电源:340+ 提供者(90+免费)——Kimi,Claude,GPT,双子座,GLM,DeepSeek,Quen——有代理... <sub>⭐ 111 · TypeScript</sub>
+- [Habitat-Thinking/ai-literacy-superpowers](https://github.com/Habitat-Thinking/ai-literacy-superpowers) - 一套克劳德代码和GitHub副驾驶插件,提供AI识字框架的完整开发工作流程——驾驭工程,代理管弦乐,识字编程,CUPID代码...... <sub>⭐ 111 · Python</sub>
+- [HermeticOrmus/LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) - Claude Code的UI/UX系统:71个插件,93个代理,74个技能. 设计掌握,拱顶设计,可访问性,以及前端工作流程在一个经过验证的插件市场中. <sub>⭐ 110 · Shell</sub>
+- [openqa-cn/codexqa](https://github.com/openqa-cn/codexqa) - codexqa:11个本地第一代理技能用于Cursor,Claude Code,Codex & OpenClaw——更改影响分析,AI代码审查,缺陷扫描,测试案例生成,浏览器重放 & RCA. <sub>⭐ 110 · Python</sub>
+- [Ali-Marandi/AI-Code-Reviewer](https://github.com/Ali-Marandi/AI-Code-Reviewer) - AI 授权代码审查和质量分析工具 <sub>⭐ 109 · Python</sub>
+- [microsoft/PromptKit](https://github.com/microsoft/PromptKit) - 代理提示是您不是工程设计中最重要的代码。 PowerKit 修复了该选项 。 —— 可调合的, 版本控制的快速组件( 人物、 协议、 格式、 模板) , 以 <sub>⭐ 109 · JavaScript</sub>
+- [0xeb/windbg-agent](https://github.com/0xeb/windbg-agent) - WinDbg 副驾驶 - 代理调试扩展 <sub>⭐ 108 · C++</sub>
+- [javiarmesto/ALDC-AL-Development-Collection](https://github.com/javiarmesto/ALDC-AL-Development-Collection) - ALDC( AL Development Collection) 转变了您使用 GitHub Copilot 和 Claude 代码开发商务中心扩展的功能。 ALDC 提供了结构化的... <sub>⭐ 108</sub>
+- [octopusreview/octopus](https://github.com/octopusreview/octopus) - AI动力的PR审查工具——多臂码分析,无bug逃生. <sub>⭐ 108 · TypeScript</sub>
+- [codegraph-ai/CodeGraph](https://github.com/codegraph-ai/CodeGraph) - CodeGraph构建了您代码库的语义图——函数,类,导入,调用链——并通过42个MCP工具,38种语言,一个VS代码扩展,以及一个持续的内存层来曝光. . <sub>⭐ 106 · C</sub>
+- [heilingbrunner/tiaportal-mcp](https://github.com/heilingbrunner/tiaportal-mcp) - 一个Visual Studio代码扩展连接西门子TIA门户网站,直接从VS代码与GitHub Copilot交互TIA门户网站项目. <sub>⭐ 106 · C#</sub>
+- [zclllyybb/OpenGiraffe](https://github.com/zclllyybb/OpenGiraffe) - 一个基于守护进程的持续的多代理系统,它利用开放代码自动发现,计划,执行,并审查一个代码库的代码变化. <sub>⭐ 106 · Python</sub>
+- [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) - Claude Code 的自动工程内存: 在您的 Repo 中保存到 JEVMEM. md 的决定、 规则和死角, 并带回下个会话。 在 Claude 插件目录和 MCP 注册中 。 <sub>⭐ 105 · TypeScript</sub>
+- [MoaKK/AI-Code-Reviewer](https://github.com/MoaKK/AI-Code-Reviewer) - GitHub Actions bot 自动使用 Claude API 来审查拖动请求,在每个PR上发布内置评论和摘要. <sub>⭐ 104 · TypeScript</sub>
+- [yizhiyanhua-ai/fireworks-design](https://github.com/yizhiyanhua-ai/fireworks-design) - 复制Claude Design的Claude代码工作流程——平行设计探索,面板判断,合成,以及对抗性改进到单一的世界级前端页面. *** README. <sub>⭐ 104 · HTML</sub>
 
 ## ♿ 借助 AI 的无障碍、测试与性能
 
 > 由模型辅助的界面测试自动化、无障碍检查和优化。
 
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. <sub>⭐ 187.6k · Python</sub>
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and… <sub>⭐ 85.2k · Python</sub>
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. <sub>⭐ 84.6k · Python</sub>
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT 是人人可以访问的AI的愿景,可以使用,也可以在它的基础上发展。我们的任务是提供工具,这样你就可以专注于什么才是重要的。 <sub>⭐ 187.6k · Python</sub>
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 一个适应性的网络搜索框架,它处理从一个单一请求到一个全面爬行的一切! 不要害羞,请加入这里 //discord.gg/EMgGbDceNQ,并跟随这里获取日常提示和... <sub>⭐ 85.2k · Python</sub>
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - LLMs 和 AI 代理软件的开源网络爬行器和刮刮器: 任何网站进入干净的、 LLM 准备的 Markdown 。 自己运行, 或使用 Crawl4AI Cloud 键 。 <sub>⭐ 84.6k · Python</sub>
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - 使大型AI型号更便宜,更快,更易获取 <sub>⭐ 41.4k · Python</sub>
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation <sub>⭐ 35.8k · Zig</sub>
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use. <sub>⭐ 31.8k · Python</sub>
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent. <sub>⭐ 29.8k · JavaScript</sub>
-- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. <sub>⭐ 29.4k · Java</sub>
-- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping <sub>⭐ 28.3k · Rust</sub>
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - LeRobot: Making AI for Robotics more accessible with end-to-end learning <sub>⭐ 27.9k · Python</sub>
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and… <sub>⭐ 26.0k · TypeScript</sub>
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. <sub>⭐ 25.5k · TypeScript</sub>
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI <sub>⭐ 23.1k · Python</sub>
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. <sub>⭐ 13.9k · TypeScript</sub>
-- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. <sub>⭐ 11.4k · JavaScript</sub>
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites.… <sub>⭐ 9.6k · Python</sub>
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents. <sub>⭐ 9.6k · TypeScript</sub>
-- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs <sub>⭐ 6.9k · TypeScript</sub>
-- [gpustack/gpustack](https://github.com/gpustack/gpustack) - A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. <sub>⭐ 5.8k · Python</sub>
-- [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests <sub>⭐ 5.7k · TypeScript</sub>
-- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. <sub>⭐ 4.9k · C#</sub>
-- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. <sub>⭐ 4.6k · C#</sub>
-- [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) - Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One command: make up <sub>⭐ 4.5k · Go</sub>
-- [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust <sub>⭐ 4.4k · Rust</sub>
-- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent <sub>⭐ 4.1k · TypeScript</sub>
-- [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) - Official TestSprite CLI — AI-powered automated testing from your terminal <sub>⭐ 3.9k · TypeScript</sub>
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda:为AI和自动化设计的无头浏览器 <sub>⭐ 35.8k · Zig</sub>
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP服务器未被反机器人和captchas发现:AI代理浏览网络上关于反探测隐形Firefox,Python,未被发现浏览器自动化,刮损,计算机使用. <sub>⭐ 31.8k · Python</sub>
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - 通过 AI 代理将任何网站创建为 CLI 并使用您的登录浏览器 。 <sub>⭐ 29.8k · JavaScript</sub>
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF 解析器,用于 AI- ready 数据. Automate PDF 访问权限. Open-source. <sub>⭐ 29.4k · Java</sub>
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - AI 代理和网络刮切的无头浏览器 <sub>⭐ 28.3k · Rust</sub>
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - LeRobot:通过端到端的学习,使机器人AI更容易获得 <sub>⭐ 27.9k · Python</sub>
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee - 一个用于Node.js的网页刮和浏览器自动化库, 用来构建可靠的爬行器。 在 JavaScript 和 TypeScript 中, 为 AI、 LLMs、 RAG 或 GPT 提取数据。 下载 HTML、 PDF、 JPG、 PNG 和... <sub>⭐ 26.0k · TypeScript</sub>
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - SDK可以提取数据,并与任何网站进行互动. Get started with Claude Code, Codex, Eve, Mastra, et more. <sub>⭐ 25.5k · TypeScript</sub>
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - 基于 AI 的自动浏览器工作流程 <sub>⭐ 23.1k · Python</sub>
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI 动力网络自动化的开源 Chrome 扩展。 使用您自己的 LLM API 键运行多代理工作流程。 可替代 OpenAI 运算器 。 <sub>⭐ 13.9k · TypeScript</sub>
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - AI代理的隐形无头浏览器——绕过Cloudflare,bot检测,以及反扫荡. Drop-in Puppeteer/Playwright替换. <sub>⭐ 11.4k · JavaScript</sub>
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee - A Web 刮取和浏览器自动化库,用于 Python 构建可靠的爬行器. 提取数据用于 AI, LLMS, RAG, 或 GPTs. 下载 HTML, PDF, JPG, PNG, 以及网站中的其他文件. . <sub>⭐ 9.6k · Python</sub>
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - 让AI代理浏览网页,一个基于浏览器的AI代理的自主工具包. <sub>⭐ 9.6k · TypeScript</sub>
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用 LLMS 将任何网页转换为结构化数据 <sub>⭐ 6.9k · TypeScript</sub>
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) - 一个GPU集群管理器,用于高性能的AI模型服务(vLLM,SGLang)和点播SSH可访问的GPU实例. <sub>⭐ 5.8k · Python</sub>
+- [antiwork/shortest](https://github.com/antiwork/shortest) - 通过自然语言的人工智能测试获得质量保证 <sub>⭐ 5.7k · TypeScript</sub>
+- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI,一种模块稳定扩散的网络用户界面,强调使动力工具易于获取,性能高,可扩展. <sub>⭐ 4.9k · C#</sub>
+- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI(原SstableSwarmUI),一种模块式稳定扩散网络用户界面,强调使动力工具易于访问,性能高,可扩展. <sub>⭐ 4.6k · C#</sub>
+- [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) - 开源网页刮掉 API。 将任何网站转换为干净的标记降级或结构化的 JSON. Anti- detect浏览器, 代理自动选择, 自行托管。 一个命令: 组成 <sub>⭐ 4.5k · Go</sub>
+- [lexmount/moli](https://github.com/lexmount/moli) - AI 代理的最佳无头浏览器。 Lite, Fast, High Compatibility. 建于 Rust <sub>⭐ 4.4k · Rust</sub>
+- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - 开源、 视觉第一浏览器代理 <sub>⭐ 4.1k · TypeScript</sub>
+- [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) - 官方测试Sprite CLI — 从您的终端自动测试 AI <sub>⭐ 3.9k · TypeScript</sub>
 - [qawolf/cli](https://github.com/qawolf/cli) - 任何地方的QA Wolf——你的终端,你的CI,你的AI特工. <sub>⭐ 3.5k · TypeScript</sub>
-- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. <sub>⭐ 2.6k · TypeScript</sub>
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools <sub>⭐ 2.6k · JavaScript</sub>
-- [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation… <sub>⭐ 2.5k · Python</sub>
-- [feder-cr/dots](https://github.com/feder-cr/dots) - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. <sub>⭐ 2.5k · Python</sub>
-- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code <sub>⭐ 2.2k · Python</sub>
-- [BetaStreetOmnis/xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) - AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows. <sub>⭐ 2.1k · Python</sub>
-- [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) - Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator. <sub>⭐ 2.0k</sub>
-- [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI) - OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI. <sub>⭐ 1.8k · TypeScript</sub>
-- [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF. <sub>⭐ 1.7k · Shell</sub>
-- [ghostwright/ghost-os](https://github.com/ghostwright/ghost-os) - Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required. <sub>⭐ 1.7k · Swift</sub>
-- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - playwright for windows computer use <sub>⭐ 1.6k · Rust</sub>
-- [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation <sub>⭐ 1.6k · TypeScript</sub>
-- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at… <sub>⭐ 1.5k · Python</sub>
-- [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) - Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. <sub>⭐ 1.4k · Swift</sub>
-- [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs <sub>⭐ 1.4k · Python</sub>
-- [bug0inc/qa-agent](https://github.com/bug0inc/qa-agent) - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification. <sub>⭐ 1.3k · TypeScript</sub>
-- [amaiya/ktrain](https://github.com/amaiya/ktrain) - ktrain is a Python library that makes deep learning and AI more accessible and easier to apply <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs! <sub>⭐ 1.2k · Python</sub>
-- [browserable/browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents <sub>⭐ 1.2k · JavaScript</sub>
-- [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let… <sub>⭐ 1.2k · Python</sub>
-- [yashab-cyber/opendroid](https://github.com/yashab-cyber/opendroid) - Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. <sub>⭐ 1.1k · Kotlin</sub>
-- [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser. <sub>⭐ 1.1k · TypeScript</sub>
-- [agents-io/PokeClaw](https://github.com/agents-io/PokeClaw) - PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket. <sub>⭐ 1.1k · Kotlin</sub>
-- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on… <sub>⭐ 1.1k · Python</sub>
-- [lennybase/browsernode](https://github.com/lennybase/browsernode) - Make websites accessible for AI agents. Automate tasks online with ease. <sub>⭐ 1.1k · TypeScript</sub>
-- [vinyzu-archive/Botright](https://github.com/vinyzu-archive/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your… <sub>⭐ 1.0k · Python</sub>
+- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - 原子弹剂是本地首款人工智能剂,通过lama.cpp在自己的机器上运行开放量级模型. <sub>⭐ 2.6k · TypeScript</sub>
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI编码工作站: Claude Code + web UI + 8 AI CLIS + 无头浏览器+ 50+工具 <sub>⭐ 2.6k · JavaScript</sub>
+- [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO payes API是一个提供Auto GPT的简单版本的寄存器,它是一种自主的AI代理,能够独立执行任务. 不同于其他版本,我们的执行... <sub>⭐ 2.5k · Python</sub>
+- [feder-cr/dots](https://github.com/feder-cr/dots) - 网络的开源点:一个拥有自己浏览器的AI代理,一个不会被屏蔽. <sub>⭐ 2.5k · Python</sub>
+- [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - Claude Code的AI-本土视频制作工具包 <sub>⭐ 2.2k · Python</sub>
+- [BetaStreetOmnis/xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) - AI动力小洪修/Rednote内容创建和发布工具,有PyQt桌面UI,FastAPI服务,登录状态再利用,预览发布,以及自动浏览器工作流程. <sub>⭐ 2.1k · Python</sub>
+- [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) - 反向工程系统即时和技能库,将LLM变成一个有见解,可访问性,耐体积的AI-slop设计合作器. <sub>⭐ 2.0k</sub>
+- [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI) - OpenGUI是一款用于手机使用的Android GUI代理框架,可以通过GUI查看,计划,操作真正的移动应用程序. <sub>⭐ 1.8k · TypeScript</sub>
+- [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - 工业领先的自由,高性能,AI和语义技术Web应用防火墙和API安全网关(WAAP) - UUSEC WAF. <sub>⭐ 1.7k · Shell</sub>
+- [ghostwright/ghost-os](https://github.com/ghostwright/ghost-os) - 完全计算机用于AI代理,自学工作流程,原生macOS,不需要截图. <sub>⭐ 1.7k · Swift</sub>
+- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - 用于窗口的剧作家计算机使用 <sub>⭐ 1.6k · Rust</sub>
+- [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI 浏览器自动化 <sub>⭐ 1.6k · TypeScript</sub>
+- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL 是连接您的AI到网络的一套工具。 设计一个查询语言和 Playwright 集成, 用于与元素交互, 快速, 准确, 并提取数据 。 <sub>⭐ 1.5k · Python</sub>
+- [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) - 让你的AI代理眼睛和手放在iOS模拟器和Android仿真器/设备上. <sub>⭐ 1.4k · Swift</sub>
+- [raznem/parsera](https://github.com/raznem/parsera) - 轻量级图书馆,用于使用 LLMS 刮掉网站 <sub>⭐ 1.4k · Python</sub>
+- [bug0inc/qa-agent](https://github.com/bug0inc/qa-agent) - 用于AI浏览器回归测试的开源Playwright库有智能缓存,自动愈合,以及多模型验证. <sub>⭐ 1.3k · TypeScript</sub>
+- [amaiya/ktrain](https://github.com/amaiya/ktrain) - ktrain是一个Python 库,它使深层学习和AI更方便访问和更容易应用 <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - 将网站变成API的代理! <sub>⭐ 1.2k · Python</sub>
+- [browserable/browserable](https://github.com/browserable/browserable) - 用于 AI 代理的开放源代码和可自行托管的浏览器自动化库 <sub>⭐ 1.2k · JavaScript</sub>
+- [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 赫拉克勒斯是世界上第一个开源测试代理商,它可以实现UI,API,安全,无障碍,和视觉验证 — — 都没有任何代码或维护。 自动测试不费力地让. <sub>⭐ 1.2k · Python</sub>
+- [yashab-cyber/opendroid](https://github.com/yashab-cyber/opendroid) - 您的 Open Android Agent —— 一个生产准备,自规划的AI助手,由本地/远程LLMs和可访问性驱动的屏幕自动化提供动力. <sub>⭐ 1.1k · Kotlin</sub>
+- [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - 使用 Playwright 无头浏览器获取网页内容的 MCP 服务器 。 <sub>⭐ 1.1k · TypeScript</sub>
+- [agents-io/PokeClaw](https://github.com/agents-io/PokeClaw) - PokeClaw(PocketClaw)——第一个控制你Android手机的安装设备AI. Gemma 4,无云,无API密钥. Poke是Pocket的简称. <sub>⭐ 1.1k · Kotlin</sub>
+- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - 开源自办的Claude Code - 一个终端AI助手及其背后的Python框架. 工具调用,沙箱执行,多代理团队,技能,检查站,无限上下文-在... <sub>⭐ 1.1k · Python</sub>
+- [lennybase/browsernode](https://github.com/lennybase/browsernode) - 方便人工智能代理用户访问网站,在线自动任务可轻松完成. <sub>⭐ 1.1k · TypeScript</sub>
+- [vinyzu-archive/Botright](https://github.com/vinyzu-archive/Botright) - Botright, 最高级的未被发现的, 更改指纹, 解封、 开源自动化框架。 在 Playwright 上构建, 它与扩展代码一样容易使用 。 解决您的... <sub>⭐ 1.0k · Python</sub>
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - 对代理和工程师进行端到端测试 <sub>⭐ 1.0k · TypeScript</sub>
-- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) - Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent. <sub>⭐ 896 · Python</sub>
-- [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT. <sub>⭐ 849 · TypeScript</sub>
-- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers. <sub>⭐ 801 · Swift</sub>
-- [Alwurts/simple-ai](https://github.com/Alwurts/simple-ai) - A collection of beautifully designed AI interface components that you can copy and paste into your apps. Accessible. Customizable. Open Source. <sub>⭐ 758 · TypeScript</sub>
-- [SudoHopeX/KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible. <sub>⭐ 699 · Python</sub>
-- [Musheer360/SwiftSlate](https://github.com/Musheer360/SwiftSlate) - Android accessibility service for AI-powered text transformation <sub>⭐ 654 · Kotlin</sub>
-- [takahirom/arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps. Get Started in 5 Minutes. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature… <sub>⭐ 649 · Kotlin</sub>
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel, latest release. The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift… <sub>⭐ 640 · Swift</sub>
-- [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration. <sub>⭐ 620 · TypeScript</sub>
-- [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows. <sub>⭐ 580 · TypeScript</sub>
-- [joinly-ai/joinly](https://github.com/joinly-ai/joinly) - Make your meetings accessible to AI Agents <sub>⭐ 566 · Python</sub>
-- [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - Deterministic UI audits for shadcn apps, built for your terminal, your CI, and your AI agent. <sub>⭐ 548 · TypeScript</sub>
-- [aaryansamanta/ai-ethos](https://github.com/aaryansamanta/ai-ethos) - 501(c)(3) nonprofit delivering ethical, inclusive, multilingual AI tutoring for underserved learners — low-income, rural, multilingual & neurodiverse students. 1,500+ students reached across 7… <sub>⭐ 499 · PHP</sub>
-- [aaryansamanta/nextgen-ai](https://github.com/aaryansamanta/nextgen-ai) - International student-led org expanding ethical & accessible AI: seminars, global ambassador program, 50+ members, collaborations in US & Taiwan. Founded to build the next generation of responsible… <sub>⭐ 494 · HTML</sub>
-- [spaceamoeba-t/tapq](https://github.com/spaceamoeba-t/tapq) - Multi-modal voice agent for your AI agents. Talk with Claude Code, Codex, and others by voice: answer their prompts, give instructions, ask what they did. Or just nod. <sub>⭐ 483 · Swift</sub>
-- [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md) - A context system for building accessible software by default — for developers and AI, with enforceable rules aligned to WCAG. <sub>⭐ 458 · Python</sub>
-- [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain. <sub>⭐ 453 · HTML</sub>
-- [randifajar/developer-portfolio](https://github.com/randifajar/developer-portfolio) - Personal developer portfolio showcasing my backend engineering experience, projects, and AI-assisted development workflow. <sub>⭐ 449 · TypeScript</sub>
-- [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) - Anti-detection browser server for AI agents — REST API wrapping Camoufox engine with OpenClaw plugin support <sub>⭐ 408 · JavaScript</sub>
-- [airyhq/airy](https://github.com/airyhq/airy) - Open Source App Framework to build streaming apps with real-time data - Build real-time data pipelines and make real-time data universally accessible - Join historical and real-time data in the… <sub>⭐ 402 · Java</sub>
-- [mobile-next/mobilewright](https://github.com/mobile-next/mobilewright) - Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API. <sub>⭐ 396 · TypeScript</sub>
-- [kstonekuan/tambourine-voice](https://github.com/kstonekuan/tambourine-voice) - Your personal voice interface for any app. Speak naturally and your words appear wherever your cursor is, with fully customizable AI voice dictation. Open source alternative to Wispr Flow. <sub>⭐ 388 · Rust</sub>
-- [currents-dev/playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill for Playwright Best Practices—made by Currents.dev <sub>⭐ 386</sub>
-- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation <sub>⭐ 384</sub>
-- [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - TestDino Playwright Skill: AI-powered guides for Playwright best practices, made by testdino.com. <sub>⭐ 383</sub>
-- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all… <sub>⭐ 382 · Dart</sub>
-- [Bin-Huang/camoufox-cli](https://github.com/Bin-Huang/camoufox-cli) - Anti-detect browser automation CLI & Skills for AI agents — Camoufox-powered fingerprint spoofing, no bot-detectable Playwright leaks <sub>⭐ 350 · Python</sub>
-- [OyadotAI/oya-browser](https://github.com/OyadotAI/oya-browser) - The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human… <sub>⭐ 349 · TypeScript</sub>
-- [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - High-performance platform for building websites, e-commerce, and web applications—with Native AI, JavaScript development, and a marketplace for portable sites and apps. <sub>⭐ 344</sub>
-- [sayksii/Aria](https://github.com/sayksii/Aria) - ARIA - AI Realtime Intelligent Audio / Universal real-time AI subtitles for Windows <sub>⭐ 331 · Python</sub>
-- [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI) - Local-first AI red team for web, API, and LLM application security. Attacker-style reasoning, evidence-backed findings, and skills for AI coding agents. <sub>⭐ 330 · TypeScript</sub>
-- [akwin1234/damru](https://github.com/akwin1234/damru) - Undetected Playwright for Android. Real Android device in Docker (Redroid), driven via CDP with OS-level stealth. While every other antidetect browser runs desktop Chromium, DAMRU is Android-native… <sub>⭐ 327 · Python</sub>
-- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning! <sub>⭐ 324 · Python</sub>
-- [BetterWright/betterwright](https://github.com/BetterWright/betterwright) - A persistent, policy-guarded Playwright browser for AI agents — network policy, encrypted credential vault, proof screenshots, and CAPTCHA solving. <sub>⭐ 322 · TypeScript</sub>
-- [AbuZar-Ansarii/Clawbot](https://github.com/AbuZar-Ansarii/Clawbot) - OpenClaw Android Setup Guide Transform any old Android device into a 24/7 AI agent running locally. This guide provides step-by-step instructions for installing and running OpenClaw on Android using… <sub>⭐ 298</sub>
-- [GautamVhavle/CatGPT-Gateway](https://github.com/GautamVhavle/CatGPT-Gateway) - Turn your ChatGPT or Claude account into a fully working OpenAI-compatible API. No API keys needed. Supports tool calling, vision, file attachments, and image generation. <sub>⭐ 294 · Python</sub>
-- [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them. <sub>⭐ 292 · TypeScript</sub>
-- [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) - Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for AI Agents. <sub>⭐ 291 · TypeScript</sub>
-- [QwenLM/open-computer-use](https://github.com/QwenLM/open-computer-use) - MCP-based Computer Use service for Qwen Code and any AI agent — controls macOS, Linux, and Windows via accessibility APIs. <sub>⭐ 283 · Swift</sub>
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI <sub>⭐ 276 · Rust</sub>
-- [gsd-build/gsd-browser](https://github.com/gsd-build/gsd-browser) - A fast, native browser automation CLI built from the ground up for AI agents, powered by Chrome DevTools Protocol. 63 commands covering navigation, interaction, screenshots, accessibility, network… <sub>⭐ 267 · Rust</sub>
-- [Vinyzu/recognizer](https://github.com/Vinyzu/recognizer) - Gracefully face reCAPTCHA challenge with ultralytics YOLOv8-seg, CLIPs VIT-B/16 and CLIP-Seg/RD64. Implemented in playwright or an easy-to-use API. <sub>⭐ 261 · Python</sub>
-- [maximilienroberti/lerobotdepot](https://github.com/maximilienroberti/lerobotdepot) - LeRobotDepot is a community-driven repository listing open-source hardware, components, and 3D-printable projects compatible with the LeRobot library. It helps users easily discover, build, and… <sub>⭐ 249</sub>
-- [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) - Computer-Use SDK for E2E QA Testing <sub>⭐ 243 · JavaScript</sub>
-- [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system) - Extract design tokens (colors, typography, spacing, border radius, shadows) from any public website. Generates JSON and CSS custom properties for local projects. Available as an AI agent skill… <sub>⭐ 231 · TypeScript</sub>
-- [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) - QA Skills Directory QA Skills is a curated directory of testing-specific skills for AI coding agents (Claude Code, Cursor, Copilot, etc.). <sub>⭐ 230 · TypeScript</sub>
-- [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal for large enterprises with recurring data… <sub>⭐ 227 · Python</sub>
-- [mubaidr/gem-team](https://github.com/mubaidr/gem-team) - Turn AI coding into an engineering process. <sub>⭐ 225</sub>
-- [ahammadmejbah/Fueling-Ambitions-Via-Book-Discoveries](https://github.com/ahammadmejbah/Fueling-Ambitions-Via-Book-Discoveries) - This series uncovers the most valuable insights from groundbreaking books in AI, Machine Learning, and Data Science, helping you accelerate your learning journey. Each episode transforms complex… <sub>⭐ 221</sub>
-- [idavidov13/agentic-playwright](https://github.com/idavidov13/agentic-playwright) - Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in. <sub>⭐ 218 · Python</sub>
-- [raceychan/lihil](https://github.com/raceychan/lihil) - 2X faster ASGI web framework for python, offering high-level development, low-level performance. <sub>⭐ 217 · Python</sub>
-- [niki914/zafiro](https://github.com/niki914/zafiro) - Open-source BYOK AI agent for Android. Full phone control, native Shell & Python 3, with Skills and MCP support. Built with Material 3 Expressive. Works via Shizuku (root optional). Bring any… <sub>⭐ 214 · Kotlin</sub>
-- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API / AI Studio to OpenAI, Anthropic & Gemini Compatible API <sub>⭐ 211 · Go</sub>
-- [rayobyte-data/rayobrowse](https://github.com/rayobyte-data/rayobrowse) - Stealth Chromium browser for web scraping and AI agents. <sub>⭐ 210 · Python</sub>
-- [ArdaGnsrn/ollama-php](https://github.com/ArdaGnsrn/ollama-php) - This is a PHP library for Ollama. Ollama is an open-source project that serves as a powerful and user-friendly platform for running LLMs on your local machine. It acts as a bridge between the… <sub>⭐ 209 · PHP</sub>
-- [kasturibuilds/generative-loaders](https://github.com/kasturibuilds/generative-loaders) - Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation. <sub>⭐ 204 · TypeScript</sub>
-- [steerlabs/opensteer](https://github.com/steerlabs/opensteer) - AI Browser Automation Framework <sub>⭐ 203 · Python</sub>
-- [ganapativs/microcharts](https://github.com/ganapativs/microcharts) - Word-sized charts for React, made for LLMs and humans — 106 chart types, zero runtime dependencies, accessible by default, RSC-safe. <sub>⭐ 196 · TypeScript</sub>
-- [voqal/voqal](https://github.com/voqal/voqal) - Voice native AI agent for the builders of tomorrow <sub>⭐ 193 · JavaScript</sub>
-- [cloudQuant/backtrader](https://github.com/cloudQuant/backtrader) - High-performance Python backtesting & live-trading framework: 45%+ faster than upstream, 50+ indicators, tick-to-daily strategies, plus an AI-native workflow (MCP server, agent skills, web platform). <sub>⭐ 191 · Python</sub>
-- [seehiong/noteflow](https://github.com/seehiong/noteflow) - NoteFlow Studio — a web-based music IDE and synthesizer. Compose multi-track songs in simple text notation, play via QWERTY or MIDI keyboard, record performances, and co-write with an AI assistant.… <sub>⭐ 184 · TypeScript</sub>
-- [DemocratiseResearch/SARAL](https://github.com/DemocratiseResearch/SARAL) - SARAL AI (Simplified & Automated Research & Learning) is a platform designed to transform dense academic papers into highly engaging, accessible formats. Developed at Precog Labs, IIIT Hyderabad… <sub>⭐ 182 · JavaScript</sub>
-- [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities. <sub>⭐ 181 · TypeScript</sub>
-- [TickTockBent/charlotte](https://github.com/TickTockBent/charlotte) - Token-efficient browser MCP server — structured web pages for AI agents, not raw accessibility dumps <sub>⭐ 179 · TypeScript</sub>
-- [QuantiusBenignus/BlahST](https://github.com/QuantiusBenignus/BlahST) - Input text from speech in any Linux window, the lean, fast and accurate way, using whisper.cpp OFFLINE. Speak with local LLMs via llama.cpp. <sub>⭐ 177 · Shell</sub>
-- [dadederk/iOS-Accessibility-Agent-Skill](https://github.com/dadederk/iOS-Accessibility-Agent-Skill) - Add expert iOS Accessibility Best Practices guidance to your AI coding tool (Agent Skills open format). <sub>⭐ 172</sub>
-- [beatwad/LinkedIn-AI-Job-Applier-Ultimate](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) - AI-powered LinkedIn and Indeed job application bot with Playwright automation, LLM integration, data anonymization, and Telegram reporting. Applies to ALL job types (not just Easy Apply), generates… <sub>⭐ 170 · Python</sub>
-- [gravity-ui/aikit](https://github.com/gravity-ui/aikit) - A comprehensive, SDK-agnostic UI library built on Atomic Design principles. Create beautiful, accessible AI chat experiences with full TypeScript support, theming, and extensive customization options. <sub>⭐ 170 · TypeScript</sub>
-- [AISquare-Studio/AISquare-Studio-QA](https://github.com/AISquare-Studio/AISquare-Studio-QA) - Setting up QA testing agents using playwright and crewAI <sub>⭐ 167 · Python</sub>
-- [kaymen99/Upwork-AI-jobs-applier](https://github.com/kaymen99/Upwork-AI-jobs-applier) - AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letters, and prepare for interviews based on your skills and experience. <sub>⭐ 166 · Python</sub>
-- [saurabhav88/EnviousWispr](https://github.com/saurabhav88/EnviousWispr) - Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish on your Mac with EG-1 or S1-mini by Superwhisper, Apple Intelligence (macOS… <sub>⭐ 165 · Swift</sub>
-- [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) - AI-driven web automation agent that uses Playwright for browser interactions and LLM integration for intelligent decision-making. It's designed for reliable, adaptable web automation with robust… <sub>⭐ 163 · TypeScript</sub>
-- [aleksandr-alhoff/seo-landing](https://github.com/aleksandr-alhoff/seo-landing) - SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer. An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding… <sub>⭐ 162 · HTML</sub>
-- [dynexcoin/Dynex](https://github.com/dynexcoin/Dynex) - Dynex is the world’s only accessible neuromorphic quantum computing cloud for solving real-world problems, at scale. <sub>⭐ 160 · C++</sub>
-- [sebsto/wispr](https://github.com/sebsto/wispr) - Privacy-first voice dictation for macOS — powered by on-device Whisper AI. No cloud, no tracking. <sub>⭐ 159 · Swift</sub>
-- [Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe) - Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. <sub>⭐ 159 · TypeScript</sub>
-- [DanielSuo117/velocitai](https://github.com/DanielSuo117/velocitai) - Next-generation UI automation harness powered by Python & Playwright. Chat with AI Agents to seamlessly generate, architect, and execute enterprise-grade UI test code. <sub>⭐ 158 · Python</sub>
-- [rishiskhare/parrot](https://github.com/rishiskhare/parrot) - A free, offline, private AI text-to-speech desktop app built on Rust <sub>⭐ 157 · Rust</sub>
-- [silver-flight-group/kakaocli](https://github.com/silver-flight-group/kakaocli) - KakaoTalk CLI for AI agents - read and send messages via database + UI automation <sub>⭐ 157 · Swift</sub>
-- [DebugBase/glance](https://github.com/DebugBase/glance) - AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal. <sub>⭐ 156 · TypeScript</sub>
-- [thebanri/limoni](https://github.com/thebanri/limoni) - Terminal UI engine for Go that tests can click and AI agents can drive (MCP). Zero-allocation rendering, immediate mode + Elm architecture, 3D, images, charts, accessibility, WebAssembly. <sub>⭐ 151 · Go</sub>
-- [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - Making offline AI models accessible to all types of edge devices. <sub>⭐ 146 · Dart</sub>
-- [Bomx/qwoted-seo-backlinks-skill](https://github.com/Bomx/qwoted-seo-backlinks-skill) - Claude Code skill: find PR/backlink opportunities on Qwoted, build a sourced statistics page as a linkable asset, and pitch journalists — all from your AI agent. <sub>⭐ 144 · Python</sub>
-- [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System) - An open-source AI system enabling real time Quran recitation tracking, word-level alignment, error detection, and adaptive feedback. Designed to support memorization, accuracy, and accessibility for… <sub>⭐ 140 · Python</sub>
-- [Free-AI-Things/g4f-working](https://github.com/Free-AI-Things/g4f-working) - g4f-working is a daily-updated list of working no-auth AI providers and models from @xtekky/gpt4free. It helps developers, testers, and AI enthusiasts instantly find which models are currently online… <sub>⭐ 139 · Python</sub>
-- [aidenybai/reaict](https://github.com/aidenybai/reaict) - Optimize React with AI <sub>⭐ 138 · TypeScript</sub>
-- [vesaias/JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted job-hunt automation: scrape career pages and job boards, score jobs against your résumés with AI, tailor résumés and cover letters, auto-fill applications and application questions from… <sub>⭐ 138 · Python</sub>
-- [fairfairfair3x/Fair-and-Free](https://github.com/fairfairfair3x/Fair-and-Free) - Future Accessible, AI-empowered, Web3 Revolution <sub>⭐ 137</sub>
-- [thearnavrustagi/marketmenow](https://github.com/thearnavrustagi/marketmenow) - An agentic outbound marketing automation for startups (ClawCompatible) <sub>⭐ 137 · Python</sub>
-- [henrique-coder/perplexity-webui-scraper](https://github.com/henrique-coder/perplexity-webui-scraper) - An advanced, high-performance Python client, MCP server, and REST API for reverse-engineering Perplexity AI's WebUI. <sub>⭐ 136 · Python</sub>
-- [roostorg/model-community](https://github.com/roostorg/model-community) - Making open safety AI models accessible and beneficial to the safety community <sub>⭐ 135 · Jupyter Notebook</sub>
-- [x42en/sysplant](https://github.com/x42en/sysplant) - Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible over MCP <sub>⭐ 134 · Nim</sub>
-- [ASUCICREPO/PDF_Accessibility](https://github.com/ASUCICREPO/PDF_Accessibility) - Experience the PDF Remediation solution developed at ASU AI Cloud Innovation Center. This innovative tool remediates PDF documents to meet WCAG 2.1 Level AA standards with tagging, metadata cleanup… <sub>⭐ 133 · Python</sub>
-- [11cafe/local-manus](https://github.com/11cafe/local-manus) - AI agent, local alternative for Manus, specializing in marketing. <sub>⭐ 129 · TypeScript</sub>
-- [sololabstr/uisight](https://github.com/sololabstr/uisight) - Your AI can already see the screen — it just can't measure it. Live mobile+desktop sessions, a measurement engine (contrast, touch targets, theme drift) reporting findings as text, and a panel you… <sub>⭐ 128 · JavaScript</sub>
-- [thomasbi1/cyberrunner](https://github.com/thomasbi1/cyberrunner) - CyberRunner is an AI robot whose task is to learn how to play the popular and widely accessible labyrinth marble game. <sub>⭐ 128 · Python</sub>
-- [senaiverse/reactnative-expo-ai-agent-system-workflow](https://github.com/senaiverse/reactnative-expo-ai-agent-system-workflow) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+ <sub>⭐ 127 · HTML</sub>
-- [X-isdoingreat/canvas-pilot](https://github.com/X-isdoingreat/canvas-pilot) - Local-first Canvas LMS AI agent that learns each course's recurring assignment workflow and reuses it through scan -> approval -> execute with student review. <sub>⭐ 125 · Python</sub>
-- [Larenju-Rai/open-mocap-blender](https://github.com/Larenju-Rai/open-mocap-blender) - Open Mocap is an open-source Blender addon for AI-powered motion capture. It supports offline full-body pose tracking, real-time + offline hand tracking, and easy retargeting to any rig. Designed for… <sub>⭐ 124 · Python</sub>
-- [NoorBayan/Mishkat](https://github.com/NoorBayan/Mishkat) - Mishkat is an AI-driven multilingual Quran project that delivers audio translations and explanations of Quranic verses, enhancing accessibility and understanding for a global audience. <sub>⭐ 121 · Python</sub>
-- [sahajamit/promptwright](https://github.com/sahajamit/promptwright) - Login-less, bring-your-own-key desktop agent that turns plain English into browser automation — and generates runnable Playwright, Cypress, and Selenium scripts. <sub>⭐ 120 · TypeScript</sub>
-- [ultralytics/llm](https://github.com/ultralytics/llm) - Zero-dependency JavaScript AI chat widget with SSE streaming, search, page context, accessibility, and theming. <sub>⭐ 118 · JavaScript</sub>
-- [israelbls/notebooklm-podcast-automator](https://github.com/israelbls/notebooklm-podcast-automator) - REST API to automate Google NotebookLM - upload sources (URLs, YouTube, text) and generate AI podcast-style Audio Overviews programmatically. Built with FastAPI & Playwright. <sub>⭐ 114 · Python</sub>
-- [savka777/jev-use](https://github.com/savka777/jev-use) - Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model <sub>⭐ 114 · Swift</sub>
-- [loveramarois-byte/council-lab](https://github.com/loveramarois-byte/council-lab) - Local-first AI decision workspace with four competing perspectives, human approval, evidence tracking, and native macOS and Windows apps. <sub>⭐ 111 · Python</sub>
-- [smughead/Loupe](https://github.com/smughead/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output. <sub>⭐ 111 · Swift</sub>
-- [NoorBayan/Ilqa](https://github.com/NoorBayan/Ilqa) - Ilqa is an AI-powered project that enhances the quality of Quranic recitations and tafsir readings. It utilizes advanced speech processing techniques to improve clarity, tone, and accessibility… <sub>⭐ 109 · Python</sub>
-- [Leo-Corporation/ColorPicker](https://github.com/Leo-Corporation/ColorPicker) - ColorPicker Max is an app that enables you to pick, create and convert colors, preview text colors, generate color palettes and gradients, and more. <sub>⭐ 107 · C#</sub>
-- [sderosiaux/good-website-checklist](https://github.com/sderosiaux/good-website-checklist) - Everything that makes a website good in 2026: security headers, Core Web Vitals, SEO, accessibility, privacy, AI crawlers. One line and a snippet per item — no abstract advice. <sub>⭐ 107</sub>
-- [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server <sub>⭐ 106 · C#</sub>
-- [hvardhan878/ghostwork](https://github.com/hvardhan878/ghostwork) - Free open-source Screenpipe GUI + macOS automation agent. Search your screen history, view analytics, automate workflows — all local, no cloud. Works with the free Screenpipe CLI. <sub>⭐ 106 · TypeScript</sub>
-- [souravs17031999/Retinal_blindness_detection_Pytorch](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch) - AI-driven initiative to assist hospitals and rural clinics in early detection of Diabetic Retinopathy, supporting accessible eye care for all through open healthcare innovation. <sub>⭐ 105 · Jupyter Notebook</sub>
+- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) - 给您的AI代理一个真实的浏览器——循环中有一个人. Open-source MCP-native浏览器代理. <sub>⭐ 896 · Python</sub>
+- [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用 ChatGPT 实现 Playwright 步骤的自动化 。 <sub>⭐ 849 · TypeScript</sub>
+- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim——用于Xcode的iOS模拟器的30+工具. 测试,调试,网络监测,捕获,可访问性,应用动作,以及AI代理自动化通过RocketSim CLI. 80k+开发者使用. <sub>⭐ 801 · Swift</sub>
+- [Alwurts/simple-ai](https://github.com/Alwurts/simple-ai) - 一套设计精美的AI接口组件,您可以复制并粘贴到您的应用程序中。 访问可访问性, 自定义性, 开放源码 。 <sub>⭐ 758 · TypeScript</sub>
+- [SudoHopeX/KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT:一种代理AI(由双子座,ChatGPT,Ollama,OpenRouter Models所建),在攻击性安全中为伦理黑客和学生进行精细调侃,使工作流程更聪明,更快,更容易访问. <sub>⭐ 699 · Python</sub>
+- [Musheer360/SwiftSlate](https://github.com/Musheer360/SwiftSlate) - Android 可访问性服务,用于AI动力文本转换 <sub>⭐ 654 · Kotlin</sub>
+- [takahirom/arbigent](https://github.com/takahirom/arbigent) - 测试Android,iOS和Web应用程序的AI代理。 5分钟后启动。 仲裁员直观的UI和强大的代码界面让每个人都可以访问, 而其情景解析功能... <sub>⭐ 649 · Kotlin</sub>
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! 现在支持macOS 14.6 或稍后,苹果硅和英特尔,最新发布. Apple Silicon and Intel, est release. mac的最佳AI代理:通过可访问性,代码/构建的Xcode驱动任意应用程序,实现AppleScript,JXA,Swift自动化... <sub>⭐ 640 · Swift</sub>
+- [web-agent-master/google-search](https://github.com/web-agent-master/google-search) - 一个基于Playwright的Node.js工具,它绕过搜索引擎反搜索机制来执行Google搜索. 本地替代SERP API,与MCP服务器集成. <sub>⭐ 620 · TypeScript</sub>
+- [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG编辑器用于React,为AI流线,人文编辑,巨型文件,macOS,Web,以及代理工作流程所建. <sub>⭐ 580 · TypeScript</sub>
+- [joinly-ai/joinly](https://github.com/joinly-ai/joinly) - 让人工智能特工们可以进入您的会议 <sub>⭐ 566 · Python</sub>
+- [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - 为您的终端、您的CI和您的AI代理而建的 Shadcn apps 的决定性 UI 审计。 <sub>⭐ 548 · TypeScript</sub>
+- [aaryansamanta/ai-ethos](https://github.com/aaryansamanta/ai-ethos) - 501(c)(3) 非营利机构为得不到充分服务的学习者——低收入、农村、多语言和神经多样化学生提供合乎道德、包容性和多语言的人工智能辅导。 1 500名以上学生通过7个渠道得到帮助.。 <sub>⭐ 499 · PHP</sub>
+- [aaryansamanta/nextgen-ai](https://github.com/aaryansamanta/nextgen-ai) - 国际学生主导的扩大伦理与无障碍AI:研讨会,全球大使计划,50+成员,在美国和台湾的合作. 创立是为了建设下一代负责任的. . <sub>⭐ 494 · HTML</sub>
+- [spaceamoeba-t/tapq](https://github.com/spaceamoeba-t/tapq) - 给您的AI代理的多模式语音代理。 通过语音与 Claude Code, Codex 和其他人交谈: 回答他们的提示, 给出指示, 询问他们做了什么。 或者只是点头而已 。 <sub>⭐ 483 · Swift</sub>
+- [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md) - 默认构建无障碍软件的上下文系统——为开发者和AI,其可执行规则与WCAG一致. <sub>⭐ 458 · Python</sub>
+- [readtedium/udm14](https://github.com/readtedium/udm14) - udm14.com的代码,是一个网站,可以方便地访问AI免费Google搜索。这里有CC0许可证,所以考虑代码公有领域。 <sub>⭐ 453 · HTML</sub>
+- [randifajar/developer-portfolio](https://github.com/randifajar/developer-portfolio) - 个人开发商组合展示我的后端工程经验,项目,以及AI辅助开发工作流程. <sub>⭐ 449 · TypeScript</sub>
+- [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) - AI代理的反检测浏览器服务器 — REST API 在 OpenClaw 插件支持下包装 Camoufox 引擎 <sub>⭐ 408 · JavaScript</sub>
+- [airyhq/airy](https://github.com/airyhq/airy) - 开放源代码App框架构建流体应用与实时数据 - 构建实时数据管道,使实时数据普遍可访问 - 将历史数据和实时数据并入. <sub>⭐ 402 · Java</sub>
+- [mobile-next/mobilewright](https://github.com/mobile-next/mobilewright) - Mobilewright是Mobile App Testing and Automation的Dev框架,它允许在真实设备上测试iOS/Android应用,模拟器和模拟器使用单一的API. <sub>⭐ 396 · TypeScript</sub>
+- [kstonekuan/tambourine-voice](https://github.com/kstonekuan/tambourine-voice) - 您的应用程序个人语音界面。 随光标所在位置自然说话, 您的单词会出现, 并完全自定义的 AI 语音拼写。 开源替代 Wispr Flow 。 <sub>⭐ 388 · Rust</sub>
+- [currents-dev/playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) - AI 游戏作家技能最佳做法——由Contress.dev制作 <sub>⭐ 386</sub>
+- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code trys for Higgsfield AI——自动图像生成,种子2.0视频创建,以及带有Playwright浏览器自动化的全UGC广告管道 <sub>⭐ 384</sub>
+- [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - TestDino Playwright Skill:由Testdino.com制作的Playwright最佳做法的AI动力指南. <sub>⭐ 383</sub>
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-动力E2E测试10个平台. 253 MCP工具. 0配置,与克劳德,Cursor,Windsurf,Copilot. Test Flutter,React Industrial,iOS,Android,Web,Electron,Tauri,KMP,.NET MAUI合作——全部...... <sub>⭐ 382 · Dart</sub>
+- [Bin-Huang/camoufox-cli](https://github.com/Bin-Huang/camoufox-cli) - 反检测浏览器自动化 CLI & Swills for AI 代理 – Camoufox 动力指纹偷窥,无可探测的机器人 Playwright 泄漏 <sub>⭐ 350 · Python</sub>
+- [OyadotAI/oya-browser](https://github.com/OyadotAI/oya-browser) - AI代理的浏览器控制平面。一个 API 在 Oya Cloud,浏览器库, Steel, Anchor,浏览器使用器和你自己的Chrome上, 上面有恒定人物, CAPTCHA 和 MFA 处理, 以及活人... <sub>⭐ 349 · TypeScript</sub>
+- [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - 建立网站、电子商务和网络应用的高性能平台,包括原创AI、JavaScript开发,以及便携式网站和应用程序的市场。 <sub>⭐ 344</sub>
+- [sayksii/Aria](https://github.com/sayksii/Aria) - ARIA - AI实时智能音频/通用实时AI为Windows配字幕 <sub>⭐ 331 · Python</sub>
+- [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI) - 本地第一AI红色团队的网络,API,LLM应用安全. 攻击者风格的推理,证据支持的发现,以及AI编码代理商的技能. <sub>⭐ 330 · TypeScript</sub>
+- [akwin1234/damru](https://github.com/akwin1234/damru) - Android 的未检测 Playwright. Real Android设备在Docker(Redroid)中,以OS级隐形驱动通过CDP. 虽然其他每个反检测浏览器运行桌面 Chromium,但DAMRU是Android-native... <sub>⭐ 327 · Python</sub>
+- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - 一个用现代AI语音合成,Diarization,和语音克隆来形容非英语媒体的程序!. <sub>⭐ 324 · Python</sub>
+- [BetterWright/betterwright](https://github.com/BetterWright/betterwright) - 一个持续,政策性的Playwright浏览器用于AI代理——网络政策,加密证书金库,验证截图,以及CAPTCHA解析. <sub>⭐ 322 · TypeScript</sub>
+- [AbuZar-Ansarii/Clawbot](https://github.com/AbuZar-Ansarii/Clawbot) - OpenClaw Android Setup Guide 将任何旧的Android设备转换成全天候的 AI 代理在本地运行。此指南为在Android上安装和运行OpenClaw提供了一步步指令... <sub>⭐ 298</sub>
+- [GautamVhavle/CatGPT-Gateway](https://github.com/GautamVhavle/CatGPT-Gateway) - 将您的 ChatGPT 或 Claude 账户转换为一个可完全工作的 OpenAI 兼容的 API。 不需要 API 密钥 。 支持调用工具、 视觉、 文件附件和图像生成 。 <sub>⭐ 294 · Python</sub>
+- [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-动力登录自动化. 使用Claude对登录页面进行分类,Playwright与它们互动. <sub>⭐ 292 · TypeScript</sub>
+- [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) - 将Google搜索、文件和代码库变成AI代理的自动本地知识图。 <sub>⭐ 291 · TypeScript</sub>
+- [QwenLM/open-computer-use](https://github.com/QwenLM/open-computer-use) - 基于MCP的Qwen代码和任何AI代理的计算机使用服务——通过访问API控制macOS,Linux和Windows. <sub>⭐ 283 · Swift</sub>
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 控制、记录和测试任何带有流行终端的tui app/ cli - 使终端完全为AI访问 <sub>⭐ 276 · Rust</sub>
+- [gsd-build/gsd-browser](https://github.com/gsd-build/gsd-browser) - 由Chrome DevTools协议提供动力,从地面上为AI代理构建的快速,本土浏览器自动化CLI. 63指令涵盖导航,交互,截图,可访问性,网络... <sub>⭐ 267 · Rust</sub>
+- [Vinyzu/recognizer](https://github.com/Vinyzu/recognizer) - Gracely面对reCAPTCHA挑战,使用超解YOLOv8-seg,CLIPs VIT-B/16和CLIP-Seg/RD64. 执行于剧作家或易用API. <sub>⭐ 261 · Python</sub>
+- [maximilienroberti/lerobotdepot](https://github.com/maximilienroberti/lerobotdepot) - LeRobotDepot是一个社区驱动的存储器,列出与LeRobot库兼容的开源硬件,组件和3D可打印项目. 它帮助用户轻松发现,构建,以及. <sub>⭐ 249</sub>
+- [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) - E2E QA 测试的计算机使用 SDK <sub>⭐ 243 · JavaScript</sub>
+- [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system) - 从任何公共网站提取设计符(颜色,打字法,间距,边框半径,阴影). Generates JSON 和 CSS 自定义属性用于本地项目。 作为 AI 代理技能可用... <sub>⭐ 231 · TypeScript</sub>
+- [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) - QA技能目录 QA技能是AI编码代理商(Claude Code, cursor, Copilot等)的测试特定技能的目录. <sub>⭐ 230 · TypeScript</sub>
+- [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) - 使用浏览器 Use 和 LLMs 自动网络刮蜘蛛生成。 简化基于 Playwright 的蜘蛛的创建, 并尽量减少手动编码 。 理想是拥有重复数据的大型企业... <sub>⭐ 227 · Python</sub>
+- [mubaidr/gem-team](https://github.com/mubaidr/gem-team) - 将AI编码变成工程过程. <sub>⭐ 225</sub>
+- [ahammadmejbah/Fueling-Ambitions-Via-Book-Discoveries](https://github.com/ahammadmejbah/Fueling-Ambitions-Via-Book-Discoveries) - 这个系列从AI,机器学习和数据科学的开创性书籍中发现了最有价值的见解,帮助你加快了学习旅程. 每集都变复杂...... <sub>⭐ 221</sub>
+- [idavidov13/agentic-playwright](https://github.com/idavidov13/agentic-playwright) - 制作级 Playwright + TypeScript Scafold 用于代理测试. Harness 供所有主要AI编码代理烘焙使用. <sub>⭐ 218 · Python</sub>
+- [raceychan/lihil](https://github.com/raceychan/lihil) - 2X更快的ASGIPython网络框架,提供高水平开发,低水平的性能. <sub>⭐ 217 · Python</sub>
+- [niki914/zafiro](https://github.com/niki914/zafiro) - Android 的开源 BYOK AI代理。 完整的电话控制, 本地的 Shell & Python 3, 并附有技能和 MCP 支持。 以 材质 3 的 Expressive 构建。 通过 Shizuku( root 可选) 工作。 带任何... <sub>⭐ 214 · Kotlin</sub>
+- [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - AI Studio Playground – Build_QAPI / AI Studio to OpenAI, Anthropic & Gemini 兼容 API 互联网档案馆的存檔,存档日期2013-03-02. <sub>⭐ 211 · Go</sub>
+- [rayobyte-data/rayobrowse](https://github.com/rayobyte-data/rayobrowse) - 隐形铬浏览器用于网络刮擦和AI代理. <sub>⭐ 210 · Python</sub>
+- [ArdaGnsrn/ollama-php](https://github.com/ArdaGnsrn/ollama-php) - 这是 Ollama 的 PHP 库。 Ollama 是一个开源项目, 它为您本地机器上运行 LLMs 提供了强大且方便用户的平台。 它充当了... 之间的桥梁 。 <sub>⭐ 209 · PHP</sub>
+- [kasturibuilds/generative-loaders](https://github.com/kasturibuilds/generative-loaders) - 基因界面的可访问重置加载状态:流化文本,内置活动,以及图像生成. <sub>⭐ 204 · TypeScript</sub>
+- [steerlabs/opensteer](https://github.com/steerlabs/opensteer) - AI 浏览器自动化框架 <sub>⭐ 203 · Python</sub>
+- [ganapativs/microcharts](https://github.com/ganapativs/microcharts) - React的单词大小图表,为LLMs和人类制作——106个图表类型,零运行时间依赖性,默认可访问,RSC安全. <sub>⭐ 196 · TypeScript</sub>
+- [voqal/voqal](https://github.com/voqal/voqal) - 给明天的建筑商发声的本地AI代理 <sub>⭐ 193 · JavaScript</sub>
+- [cloudQuant/backtrader](https://github.com/cloudQuant/backtrader) - 高性能 Python 回溯测试与直播交易框架:45QQ比上游快,50+指标,滴答对日策略,外加AI-native工作流程(MCP服务器,代理技能,网络平台). <sub>⭐ 191 · Python</sub>
+- [seehiong/noteflow](https://github.com/seehiong/noteflow) - NoteFlow Studio – 一个基于网络的音乐IDE和合成器. 以简单的文字标记方式编写多轨歌曲,通过QWERTY或MIDI键盘播放,记录性能,并与AI助手共同写作. . <sub>⭐ 184 · TypeScript</sub>
+- [DemocratiseResearch/SARAL](https://github.com/DemocratiseResearch/SARAL) - SARAL AI(简化和自动研究与学习)是一个平台,旨在将密集的学术论文转化为高度投入,可获取的格式. Development in Precog Labs, IIIT Hyderabab... <sub>⭐ 182 · JavaScript</sub>
+- [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) - 整合AgentQL数据提取能力的模型上下文协议服务器. <sub>⭐ 181 · TypeScript</sub>
+- [TickTockBent/charlotte](https://github.com/TickTockBent/charlotte) - Token 高效浏览器 MCP 服务器 — 为 AI 代理构建的网页, 不是原始访问垃圾 <sub>⭐ 179 · TypeScript</sub>
+- [QuantiusBenignus/BlahST](https://github.com/QuantiusBenignus/BlahST) - 在任何 Linux 窗口的语音中输入文本, 精致、快捷和准确的方式, 使用 less. cpp OFFLINE 。 通过 lama.cpp 与本地 LLMs 说话 。 <sub>⭐ 177 · Shell</sub>
+- [dadederk/iOS-Accessibility-Agent-Skill](https://github.com/dadederk/iOS-Accessibility-Agent-Skill) - 在您的 AI 编码工具( Agent skills open格式) 中添加专家 iOS 无障碍最佳做法指南 。 <sub>⭐ 172</sub>
+- [beatwad/LinkedIn-AI-Job-Applier-Ultimate](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) - AI- powered LinkedIn and Infactual job应用程序机器人与 Playwright 自动化,LLM集成,数据匿名化,以及Telegram 报告。应用到所有的工作类型(而不仅仅是 Easy Applic),生成... <sub>⭐ 170 · Python</sub>
+- [gravity-ui/aikit](https://github.com/gravity-ui/aikit) - 一个基于Atomic Design原理的综合的,SDK-不可知的UI库. 创建美丽,可访问的AI聊天体验,并配有TypeScript的完整支持,主题,以及广泛的定制选项. <sub>⭐ 170 · TypeScript</sub>
+- [AISquare-Studio/AISquare-Studio-QA](https://github.com/AISquare-Studio/AISquare-Studio-QA) - 利用剧作家和剧组人员建立质量保证测试代理 <sub>⭐ 167 · Python</sub>
+- [kaymen99/Upwork-AI-jobs-applier](https://github.com/kaymen99/Upwork-AI-jobs-applier) - AI工具,利用AI代理来自动化Upwork工作申请,以寻找和合格工作,写个性化封面信,并根据你的技能和经验为面试做准备. <sub>⭐ 166 · Python</sub>
+- [saurabhav88/EnviousWispr](https://github.com/saurabhav88/EnviousWispr) - 自由, 次秒的 AI 上对macOS 的刻录. 苹果硅上的双引擎(Whisper + Parakeet). 苹果智能公司(macOS...)的Superwhisper在您的Mac上可以选择使用 EG-1或S1-mini进行人工智能抛光. <sub>⭐ 165 · Swift</sub>
+- [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) - AI驱动的网络自动化代理,使用Playwright进行浏览器交互和LLM集成来进行智能决策,其设计为可靠,适应性强的网络自动化. . <sub>⭐ 163 · TypeScript</sub>
+- [aleksandr-alhoff/seo-landing](https://github.com/aleksandr-alhoff/seo-landing) - SEO着陆: 让你的AI编码代理具备高级技术SEO工程师的能力. 一种用于构建高性能,技术优化的SIO登陆页面的代理技能. 翻转一个AI编码... <sub>⭐ 162 · HTML</sub>
+- [dynexcoin/Dynex](https://github.com/dynexcoin/Dynex) - Dynex是世界上唯一一个可用于解决现实世界问题的神经形态量子计算云。 <sub>⭐ 160 · C++</sub>
+- [sebsto/wispr](https://github.com/sebsto/wispr) - macOS的隐私第一语音配音——由device Whisper AI提供动力,无云,无跟踪. <sub>⭐ 159 · Swift</sub>
+- [Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe) - Torrent Vibe,是qBittorrent的一个现代,优雅的网络界面,它通过增强性能,直观设计,以及跨平台兼容来转变您的种子管理经验. <sub>⭐ 159 · TypeScript</sub>
+- [DanielSuo117/velocitai](https://github.com/DanielSuo117/velocitai) - 下一代的UI自动化控制器由Python & Playwright提供动力,与AI Agents聊天,以无缝生成,架构设计,并执行企业级UI测试代码. <sub>⭐ 158 · Python</sub>
+- [rishiskhare/parrot](https://github.com/rishiskhare/parrot) - 一个免费的,离线的,私人的 AI 文本对语音桌面应用程序,在 Rust 上构建 <sub>⭐ 157 · Rust</sub>
+- [silver-flight-group/kakaocli](https://github.com/silver-flight-group/kakaocli) - KakaoTalk CLI 用于AI代理 - 通过数据库+UI自动化读取和发送消息 <sub>⭐ 157 · Swift</sub>
+- [DebugBase/glance](https://github.com/DebugBase/glance) - Claude Code 的 AI 驱动浏览器自动化 MCP 服务器. 导航,点击,截图,测试——全部来自您的终端. <sub>⭐ 156 · TypeScript</sub>
+- [thebanri/limoni](https://github.com/thebanri/limoni) - Go的终端UI引擎可以点击,AI代理可以驱动(MCP). 0-分配渲染,即时模式+榆树架构,3D,图像,图表,可访问性,WebAssembly. <sub>⭐ 151 · Go</sub>
+- [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - 使各种边缘设备都可以使用离线AI模型。 <sub>⭐ 146 · Dart</sub>
+- [Bomx/qwoted-seo-backlinks-skill](https://github.com/Bomx/qwoted-seo-backlinks-skill) - Claude Code技巧:在Qwoted上找到PR/backlink机会,构建一个源代码统计页作为可链接资产,投播记者——全部来自你的AI代理. <sub>⭐ 144 · Python</sub>
+- [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System) - 一个开放源代码的AI系统,能够实时追踪《古兰经》的朗读、文字级别对齐、错误检测和适应性反馈。设计的目的是支持记忆、准确性和可访问性,以便... <sub>⭐ 140 · Python</sub>
+- [Free-AI-Things/g4f-working](https://github.com/Free-AI-Things/g4f-working) - g4f-working是一份每日更新的从@xtekky/gpt4free提供工作无意识AI的供应商和模型列表,它帮助开发者,测试者和AI爱好者立即发现哪些模型目前在线. . <sub>⭐ 139 · Python</sub>
+- [aidenybai/reaict](https://github.com/aidenybai/reaict) - 优化对AI的响应 <sub>⭐ 138 · TypeScript</sub>
+- [vesaias/JobNavigator](https://github.com/vesaias/JobNavigator) - 自办求职自动化:刮掉职业页和职板,根据AI的简历对工作进行评分,裁剪履历并封面信,自动填充应用程序和应用程序问题. <sub>⭐ 138 · Python</sub>
+- [fairfairfair3x/Fair-and-Free](https://github.com/fairfairfair3x/Fair-and-Free) - 未来可以访问、AI - 赋予权力,Web3革命 <sub>⭐ 137</sub>
+- [thearnavrustagi/marketmenow](https://github.com/thearnavrustagi/marketmenow) - 创业者代理出厂营销自动化(ClawCompatible) <sub>⭐ 137 · Python</sub>
+- [henrique-coder/perplexity-webui-scraper](https://github.com/henrique-coder/perplexity-webui-scraper) - 一个高级的高性能的Python客户端,MCP服务器,以及REST API用于逆向工程Perplexity AI的WebUI. <sub>⭐ 136 · Python</sub>
+- [roostorg/model-community](https://github.com/roostorg/model-community) - 使安全意识的公开模式便于使用并有益于安全界 <sub>⭐ 135 · Jupyter Notebook</sub>
+- [x42en/sysplant](https://github.com/x42en/sysplant) - 您的 Windows syscall 钩子厂 - 成功坎特洛特之门 - MCP 上可以访问 <sub>⭐ 134 · Nim</sub>
+- [ASUCICREPO/PDF_Accessibility](https://github.com/ASUCICREPO/PDF_Accessibility) - 体验在ASU AI云创新中心开发的PDF补救解决方案,这个创新工具通过标记,元数据清理,对PDF文档进行补救,以达到WCAG 2.1级AA标准. <sub>⭐ 133 · Python</sub>
+- [11cafe/local-manus](https://github.com/11cafe/local-manus) - AI代理,马纳斯的本地替代品,专攻营销. <sub>⭐ 129 · TypeScript</sub>
+- [sololabstr/uisight](https://github.com/sololabstr/uisight) - 您的AI已经可以看到屏幕——它只是无法测量它. Live mobile+desktop会话,一个测量引擎(contrast, touch target,主题漂移)将发现作为文本报告,以及一个面板您... <sub>⭐ 128 · JavaScript</sub>
+- [thomasbi1/cyberrunner](https://github.com/thomasbi1/cyberrunner) - CyberRunner是一个AI机器人,其任务是学习如何玩受欢迎的,广为流传的迷宫大理石游戏. <sub>⭐ 128 · Python</sub>
+- [senaiverse/reactnative-expo-ai-agent-system-workflow](https://github.com/senaiverse/reactnative-expo-ai-agent-system-workflow) - AI-动力开发工具包,包含7个生产代理,用于 React Industrial/Expo 移动应用程序. Automates 访问,设计系统,安全性,性能和测试. Built for Claude Code v2.0.5+ <sub>⭐ 127 · HTML</sub>
+- [X-isdoingreat/canvas-pilot](https://github.com/X-isdoingreat/canvas-pilot) - 本地第一Canvas LMS AI代理,学习每门课程的经常性任务工作流程,并通过扫描 - > 批准 - > 与学生审查一起执行. <sub>⭐ 125 · Python</sub>
+- [Larenju-Rai/open-mocap-blender](https://github.com/Larenju-Rai/open-mocap-blender) - Open Mocap是用于AI动力运动捕捉的开源Blender加通,它支持离线全机姿势跟踪,实时+离线手动跟踪,以及方便重定向到任何钻机. <sub>⭐ 124 · Python</sub>
+- [NoorBayan/Mishkat](https://github.com/NoorBayan/Mishkat) - Mishkat是一个AI驱动的多语种《古兰经》项目,提供对《古兰经》诗句的音频翻译和解释,提高全球受众的无障碍性和理解。 <sub>⭐ 121 · Python</sub>
+- [sahajamit/promptwright](https://github.com/sahajamit/promptwright) - 无登录,带 - 自有键桌面代理,将普通英语变成浏览器自动化——并生成可运行的Playwright,Cypress和Selenium脚本. <sub>⭐ 120 · TypeScript</sub>
+- [ultralytics/llm](https://github.com/ultralytics/llm) - 零依赖性 JavaScript AI聊天部件,包含SSE的流线,搜索,页面上下文,可访问性和主题. <sub>⭐ 118 · JavaScript</sub>
+- [israelbls/notebooklm-podcast-automator](https://github.com/israelbls/notebooklm-podcast-automator) - REST API 实现 Google NotebookLM - 上传源(URLs, YouTube, text)自动化,并程序化生成AI播客风格的音频概览. Built with FastAPI & Playwright. <sub>⭐ 114 · Python</sub>
+- [savka777/jev-use](https://github.com/savka777/jev-use) - 说吧,你的Mac做吧。在Jev上使用计算机,通过可访问性读取屏幕。快速,没有视觉模型 <sub>⭐ 114 · Swift</sub>
+- [loveramarois-byte/council-lab](https://github.com/loveramarois-byte/council-lab) - 本地首个AI决策工作空间,有四个相互竞争的视角,即人类批准,证据跟踪,以及本土macOS和Windows应用. <sub>⭐ 111 · Python</sub>
+- [smughead/Loupe](https://github.com/smughead/Loupe) - MacOS AI代理工作流程的可访问性检查员。 Hover, 注释, 复制结构化输出 。 <sub>⭐ 111 · Swift</sub>
+- [NoorBayan/Ilqa](https://github.com/NoorBayan/Ilqa) - Ilqa是一个由AI驱动的项目,它能提高古兰经朗诵和tafsir读物的质量,它利用先进的语音处理技术来提高清晰度,语气,以及无障碍性. . <sub>⭐ 109 · Python</sub>
+- [Leo-Corporation/ColorPicker](https://github.com/Leo-Corporation/ColorPicker) - ColorPicker Max是一个应用程序,可以让你选择,创建和转换颜色,预览文本颜色,生成色调和梯度,以及更多. <sub>⭐ 107 · C#</sub>
+- [sderosiaux/good-website-checklist](https://github.com/sderosiaux/good-website-checklist) - 2026年所有能让网站好起来的东西:安全头,核心Web Vitals,SEO,可访问性,隐私,AI爬行器. 每件一行和片段——没有抽象的建议. <sub>⭐ 107</sub>
+- [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - 使用 Whisper 本地 AI 驱动字幕生成的 Jellyfin 插件 - 所有处理都留在您的服务器上 <sub>⭐ 106 · C#</sub>
+- [hvardhan878/ghostwork](https://github.com/hvardhan878/ghostwork) - 免费开源Screenpipe GUI + macOS 自动化代理。 搜索您的屏幕历史, 查看分析, 自动工作流程 — 全部是本地的, 没有云。 用免费Screenpipe CLI 工作 。 <sub>⭐ 106 · TypeScript</sub>
+- [souravs17031999/Retinal_blindness_detection_Pytorch](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch) - 由AI推动的举措,协助医院和农村诊所及早发现糖尿病复发性病,通过开放的保健创新支持所有人获得眼科护理。 <sub>⭐ 105 · Jupyter Notebook</sub>
 
 ## 🌐 浏览器中的 AI
 
 > 借助 WebGPU 和 WebAssembly 直接在浏览器中运行的模型与推理。
 
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine <sub>⭐ 19.2k · TypeScript</sub>
-- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run Transformers directly in your browser, with no need for a server! <sub>⭐ 16.3k · JavaScript</sub>
-- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation… <sub>⭐ 12.5k · TypeScript</sub>
-- [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. <sub>⭐ 8.1k · TypeScript</sub>
-- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. <sub>⭐ 6.4k · TypeScript</sub>
-- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc). <sub>⭐ 3.0k · Python</sub>
-- [she-llac/claude-counter](https://github.com/she-llac/claude-counter) - A minimal browser extension that shows token count, cache timer, and usage bars on claude.ai. <sub>⭐ 2.4k · JavaScript</sub>
-- [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more. <sub>⭐ 2.4k · TypeScript</sub>
-- [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of Transformers.js demos and example applications <sub>⭐ 2.1k · JavaScript</sub>
-- [sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI) - Run local LLMs like llama, deepseek-distill, kokoro and more inside your browser <sub>⭐ 1.5k · TypeScript</sub>
-- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) +… <sub>⭐ 1.4k · TypeScript</sub>
-- [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4 <sub>⭐ 1.2k · TypeScript</sub>
-- [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js <sub>⭐ 1.0k · TypeScript</sub>
-- [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. <sub>⭐ 971 · TypeScript</sub>
-- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed. <sub>⭐ 757 · JavaScript</sub>
-- [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM(). <sub>⭐ 700 · TypeScript</sub>
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM. <sub>⭐ 636 · TypeScript</sub>
-- [Nehanth/pooled](https://github.com/Nehanth/pooled) - Peer-to-peer LLM inference in the browser: pool your devices to run big open models, for chat and coding agents. <sub>⭐ 562 · JavaScript</sub>
-- [kklt92/awesome-ai-extensions](https://github.com/kklt92/awesome-ai-extensions) - A curated list of AI-powered browser extensions, plugins, and add-ons. <sub>⭐ 530</sub>
-- [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click! <sub>⭐ 474 · JavaScript</sub>
-- [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents <sub>⭐ 473 · JavaScript</sub>
-- [open-ribbi/velocut](https://github.com/open-ribbi/velocut) - AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU compositing, WebCodecs export; humans and LLM agents edit through the same JSON command protocol. <sub>⭐ 454 · TypeScript</sub>
-- [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and… <sub>⭐ 432 · Python</sub>
-- [NotASithLord/peerd](https://github.com/NotASithLord/peerd) - The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux… <sub>⭐ 417 · JavaScript</sub>
-- [turbostarter/extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit <sub>⭐ 412 · TypeScript</sub>
-- [DeepLifeStudio/DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model. <sub>⭐ 409 · JavaScript</sub>
-- [noCaptchaAi/NoCaptcha-Ai-Browser-Extension](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension) - qCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox Extension <sub>⭐ 342</sub>
-- [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) - MCP server paired with a browser extension that enables AI agents to control the user's browser. <sub>⭐ 327 · TypeScript</sub>
-- [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - PageTalk is a beautiful browser extension that allows you to use AI to read page content and have multiple conversations. <sub>⭐ 327 · JavaScript</sub>
-- [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js <sub>⭐ 326 · JavaScript</sub>
-- [vishnumenon/ermine-ai](https://github.com/vishnumenon/ermine-ai) - https://ermine.ai -- 100% client-side live audio transcription, powered by transformers.js <sub>⭐ 324 · TypeScript</sub>
-- [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit <sub>⭐ 311 · TypeScript</sub>
-- [babycommando/entity-db](https://github.com/babycommando/entity-db) - EntityDB is an in-browser vector database wrapping indexedDB and Transformers.js over WebAssembly <sub>⭐ 297 · JavaScript</sub>
-- [sebattfg/ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free: Turn ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio agent. Browser extension + local bridge. Read/edit scripts, run Luau, generate assets, all from… <sub>⭐ 297 · JavaScript</sub>
-- [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE… <sub>⭐ 246 · TypeScript</sub>
-- [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth. <sub>⭐ 246 · TypeScript</sub>
-- [xiaolai/insidebar-ai](https://github.com/xiaolai/insidebar-ai) - A browser extension for Chrome/Edge <sub>⭐ 245 · JavaScript</sub>
-- [AgenticA5/A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use) - Your commands control the browser - made easy / Chrome Extension and RESTful API for Browser-Use <sub>⭐ 244 · Python</sub>
-- [praeclarum/transformers-js](https://github.com/praeclarum/transformers-js) - Browser-compatible JS library for running language models <sub>⭐ 233 · JavaScript</sub>
-- [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs. <sub>⭐ 228 · TypeScript</sub>
-- [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension) - Browser extension for AnythingLLM Docker & Desktop application <sub>⭐ 225 · JavaScript</sub>
-- [AhmadHassan-BTed/JinaClip](https://github.com/AhmadHassan-BTed/JinaClip) - Professional-grade, local-first browser extension that transforms any webpage into high-fidelity, LLM-friendly Markdown entirely within the browser's runtime. Zero-cloud, privacy-centric, and… <sub>⭐ 208 · JavaScript</sub>
-- [ravitemer/codecompanion-history.nvim](https://github.com/ravitemer/codecompanion-history.nvim) - A history management extension for codecompanion AI chat plugin that enables saving, browsing and restoring chat sessions. <sub>⭐ 195 · Lua</sub>
-- [decision-labs/geoai.js](https://github.com/decision-labs/geoai.js) - GeoAI.js is a javascript library for use with transformers.js to perform GeoAI on the frontend <sub>⭐ 194 · TypeScript</sub>
-- [snailfrying/flowers](https://github.com/snailfrying/flowers) - An intelligent browser extension for AI-powered translation, polishing, note-taking, and knowledge management <sub>⭐ 181 · TypeScript</sub>
-- [Ademking/SkillPrompts](https://github.com/Ademking/SkillPrompts) - A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions. <sub>⭐ 172 · TypeScript</sub>
-- [xenova/chat-with-youtube](https://github.com/xenova/chat-with-youtube) - A browser extension that lets you chat with YouTube videos using Llama2-7b. Built using Inference Endpoints and Vercel's AI SDK. <sub>⭐ 167 · JavaScript</sub>
-- [seeeeew/aiwarningforsteam](https://github.com/seeeeew/aiwarningforsteam) - Browser extension to increase the visibility of AI Generated Content Disclosures in the Steam store. <sub>⭐ 155 · JavaScript</sub>
-- [kayvr/token-hawk](https://github.com/kayvr/token-hawk) - WebGPU LLM inference tuned by hand <sub>⭐ 154 · C++</sub>
-- [Liopun/leet-chatgpt-extension](https://github.com/Liopun/leet-chatgpt-extension) - AI-powered browser extension that enhances your leetcode and hacker-rank experience. <sub>⭐ 152 · TypeScript</sub>
-- [Nyrok/flompt](https://github.com/Nyrok/flompt) - flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readable prompts <sub>⭐ 151 · TypeScript</sub>
-- [jasonmayes/WebAIAgent](https://github.com/jasonmayes/WebAIAgent) - A Web AI Agent running entirely client side in browser, that's capable of controlling a fictional flights webpage, to get the job done by using Google's Gemma 2 (2B) model in JavaScript via WebGPU… <sub>⭐ 145 · JavaScript</sub>
-- [Yorick-Ryu/deep-share](https://github.com/Yorick-Ryu/deep-share) - A browser extension designed for AI users to easily copy formulas from ChatGPT, DeepSeek, Grok and 10+ other AI conversations, export beautifully formatted Word documents, and support long… <sub>⭐ 145 · JavaScript</sub>
-- [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. <sub>⭐ 144 · TypeScript</sub>
-- [albertocubeddu/extensionOS](https://github.com/albertocubeddu/extensionOS) - Imagine a world where everyone can access powerful AI models—LLMs, generative image models, and speech recognition—directly in their web browser. Integrating AI into daily browsing will revolutionise… <sub>⭐ 135 · TypeScript</sub>
-- [hugozanini/TFJS-object-detection](https://github.com/hugozanini/TFJS-object-detection) - Real-time custom object detection in the browser using tensorflow.js <sub>⭐ 134 · JavaScript</sub>
-- [KevPH2026/muse-catch](https://github.com/KevPH2026/muse-catch) - AI Inspiration Capture — Browser Extension + Telegram Bot + Web Dashboard <sub>⭐ 128 · HTML</sub>
-- [socketteer/Claude-Conversation-Exporter](https://github.com/socketteer/Claude-Conversation-Exporter) - A Chrome extension that allows you to export your Claude.ai conversations in various formats (JSON, Markdown, Plain Text) with support for bulk exports and conversation browsing. <sub>⭐ 126 · JavaScript</sub>
-- [dnakov/claude-mcp](https://github.com/dnakov/claude-mcp) - Browser extension to enable MCP in claude.ai <sub>⭐ 125 · JavaScript</sub>
-- [jasonmayes/VectorSearch.js](https://github.com/jasonmayes/VectorSearch.js) - Client side vector search using EmbeddingGemma with Web AI (LiteRT.js, TensorFlow.js, and Transformers.js) <sub>⭐ 124 · JavaScript</sub>
-- [zubyj/leetcode-explained](https://github.com/zubyj/leetcode-explained) - Browser extension that adds video solutions, company tags, and GPT code analysis into Leetcode problems <sub>⭐ 114 · TypeScript</sub>
-- [mattn/tensai](https://github.com/mattn/tensai) - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd) <sub>⭐ 111 · Go</sub>
-- [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - Full in-browser Semantic Search with Huggingface Transformers.js and ElectricSQL's PGlite! <sub>⭐ 109 · JavaScript</sub>
-- [nanogenomic/ClaudeCodeBrowser](https://github.com/nanogenomic/ClaudeCodeBrowser) - MCP Firefox browser automation extension for Claude Code - screenshots, clicking, typing, page refresh, and AI-powered web interaction <sub>⭐ 107 · Python</sub>
-- [silvonli/Summa](https://github.com/silvonli/Summa) - A browser extension that uses AI to generate concise summaries of web articles <sub>⭐ 106 · TypeScript</sub>
-- [tantara/transformers.js-chrome](https://github.com/tantara/transformers.js-chrome) - Chrome extension for running Generative AI in your browser locally <sub>⭐ 105 · TypeScript</sub>
-- [Br1an67/OpenJobAutofill](https://github.com/Br1an67/OpenJobAutofill) - AI-assisted, privacy-first browser extension for job application form autofill. <sub>⭐ 104 · JavaScript</sub>
-- [wybert/earth-agent-chrome-ext](https://github.com/wybert/earth-agent-chrome-ext) - Earth Agent is a Cursor-like AI agent for Google Earth Engine. It can be used right in your browser as a Chrome extension or through MCP server support. It helps you do anything related to Google… <sub>⭐ 104 · TypeScript</sub>
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - 高性能内浏览器 LLM 推论引擎 <sub>⭐ 19.2k · TypeScript</sub>
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - 用于网络的先进机器学习。 在浏览器中直接运行变形器, 不需要服务器 ! <sub>⭐ 16.3k · JavaScript</sub>
+- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server是一个基于Chrome扩展的模型上下文协议(MCP)服务器,它将您的Chrome浏览器功能暴露给克劳德等AI助手,使得复杂的浏览器自动化...... <sub>⭐ 12.5k · TypeScript</sub>
+- [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) - 让 AI 代理使用您真实的,登录的浏览器而不会打断您的工作. CLI + 扩展用于浏览器自动化,跨越任何可 shell-capaly AI 代理. <sub>⭐ 8.1k · TypeScript</sub>
+- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT:一个浏览器扩展,可以以网页结果来扩充您的 ChatGPT 提示. <sub>⭐ 6.4k · TypeScript</sub>
+- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI漫画和漫威翻译的app/浏览器扩展,用于自动翻译漫画,漫威,漫威,BD,fumetti等多种语言和格式的更多(偶像,PDF,EPUB,CBR,CBZ等). <sub>⭐ 3.0k · Python</sub>
+- [she-llac/claude-counter](https://github.com/she-llac/claude-counter) - 一个最小浏览器扩展,在claude.ai上显示符数,缓存计时器,以及使用栏. <sub>⭐ 2.4k · JavaScript</sub>
+- [raycast/ray-so](https://github.com/raycast/ray-so) - 创建代码片段,浏览AI提示,创建扩展图标等等. <sub>⭐ 2.4k · TypeScript</sub>
+- [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - 变形器.js 演示和示例应用程序集 <sub>⭐ 2.1k · JavaScript</sub>
+- [sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI) - 运行本地的 LLMS 如 lama、 deepseek- distill、 kokoro 和更多在您的浏览器内运行 <sub>⭐ 1.5k · TypeScript</sub>
+- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - 双语会议实时双向语音翻译——自动检测口语,并翻译双向,云或全线断开的声调. Desktop (Windows ^ macOS ~ Linux)+... <sub>⭐ 1.4k · TypeScript</sub>
+- [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI代理 Chrome扩展由变形金刚和Gemma 4提供动力. <sub>⭐ 1.2k · TypeScript</sub>
+- [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - 免费图像背景删除 - 私有,客户端和由变形器提供动力. js <sub>⭐ 1.0k · TypeScript</sub>
+- [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - Gemma Gem通过WebGPU运行了Google的Gemma 4模型,完全在设备上运行——没有API键,没有云,没有数据离开你的机器. <sub>⭐ 971 · TypeScript</sub>
+- [4ier/neo](https://github.com/4ier/neo) - 将任何网络应用程序转换成 API. Chrome 扩展可以捕获浏览器流量,自动生成的schemas,让AI直接重播 API。不需要官方 API 。 <sub>⭐ 757 · JavaScript</sub>
+- [r2d4/react-llm](https://github.com/r2d4/react-llm) - 易用无头回击 Hooks 在浏览器中用 WebGPU 运行 LLMS。只需使用 LLM() 。 <sub>⭐ 700 · TypeScript</sub>
+- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 私人本地模型工作室,AI聊天,以及由WebGPU和WebLLM提供动力的代理工作空间. <sub>⭐ 636 · TypeScript</sub>
+- [Nehanth/pooled](https://github.com/Nehanth/pooled) - 浏览器中的对等对等LLM推论:集合您的设备运行大型开放模型,用于聊天和编码代理. <sub>⭐ 562 · JavaScript</sub>
+- [kklt92/awesome-ai-extensions](https://github.com/kklt92/awesome-ai-extensions) - 由AI驱动的浏览器扩展,插件,和加载组成的目录. <sub>⭐ 530</sub>
+- [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - 浏览器扩展将网页转换为清理Markdown并复制到剪贴板,这样您就可以仅点击1点就将它作为上下文输入你最喜欢的LLM模型! <sub>⭐ 474 · JavaScript</sub>
+- [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM 是浏览器本地自动代理的 PoC <sub>⭐ 473 · JavaScript</sub>
+- [open-ribbi/velocut](https://github.com/open-ribbi/velocut) - AI-native,Ribbi的本地第一视频编辑器——完全运行在浏览器中. Rust/WASM引擎,WebGPU composition,WebCodecs导出;人和LLM代理通过相同的JSON命令协议进行编辑. <sub>⭐ 454 · TypeScript</sub>
+- [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - 赤裸体是Android的脱高胶铬建筑,为网络上的隐私、控制和自由而建。它剥离Google跟踪、遥测和AI集成,同时保留浏览器扩展和. <sub>⭐ 432 · Python</sub>
+- [NotASithLord/peerd](https://github.com/NotASithLord/peerd) - 浏览器的首个 AI 代理 控制器 。 一个浏览器扩展, 它运行一个您已经工作的全代理循环 : 它驱动您的标签, 旋转到沙盒上的计算( JS 笔记本, WASM Linux...) 。 <sub>⭐ 417 · JavaScript</sub>
+- [turbostarter/extro](https://github.com/turbostarter/extro) - 开源浏览器扩展启动套件 <sub>⭐ 412 · TypeScript</sub>
+- [DeepLifeStudio/DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - 引用 DeepSeek AI 大模型的浏览器扩展. <sub>⭐ 409 · JavaScript</sub>
+- [noCaptchaAi/NoCaptcha-Ai-Browser-Extension](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension) - qCAPTCHA Solver, reCaptcha v2, OCR Captcha. Chrome-Firefox 扩展名 <sub>⭐ 342</sub>
+- [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) - MCP服务器与浏览器扩展对齐,使AI代理能够控制用户的浏览器. <sub>⭐ 327 · TypeScript</sub>
+- [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - PageTalk是一个美丽的浏览器扩展,允许您使用AI阅读页面内容并进行多个对话. <sub>⭐ 327 · JavaScript</sub>
+- [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - 语义Finder - 前端唯活语义搜索与变压器.js <sub>⭐ 326 · JavaScript</sub>
+- [vishnumenon/ermine-ai](https://github.com/vishnumenon/ermine-ai) - https://ermine.ai -- -- 100%的客户端-侧音频直播录制,由变压器供电.js <sub>⭐ 324 · TypeScript</sub>
+- [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus是一个浏览器扩展,将NotionAI的强大功能添加到任何您访问的网站 <sub>⭐ 311 · TypeScript</sub>
+- [babycommando/entity-db](https://github.com/babycommando/entity-db) - 实体DB是一个内浏览器矢量数据库,将索引DB和变形器包裹在WebAssembly <sub>⭐ 297 · JavaScript</sub>
+- [sebattfg/ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free:将ChatGPT,DeepSeek,双子座,Kimi,GLM,Quen,Arena或Meta AI转换为Roblox Studio代理. 浏览器扩展+本地桥. read/edit脚本,运行Luau,生成资产,全部来自... <sub>⭐ 297 · JavaScript</sub>
+- [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - AI. ArcRift的持久本地内存层使用一个扩展和本地的MCP服务器,从您的浏览器聊天(Claude, ChatGPT, DeepSeek)中同步上下文和决定,直接到您的本地 IDE... <sub>⭐ 246 · TypeScript</sub>
+- [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - 开源浏览器扩展,可以发挥AI的力量,为社交媒体的成长生成接触性回复. <sub>⭐ 246 · TypeScript</sub>
+- [xiaolai/insidebar-ai](https://github.com/xiaolai/insidebar-ai) - Chrome/ Edge 的浏览器扩展名 <sub>⭐ 245 · JavaScript</sub>
+- [AgenticA5/A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use) - 您的命令控制浏览器 - 使 Chrome 扩展和 RESTful API 方便浏览器- 使用 <sub>⭐ 244 · Python</sub>
+- [praeclarum/transformers-js](https://github.com/praeclarum/transformers-js) - 用于运行语言模型的浏览器兼容 JS 库 <sub>⭐ 233 · JavaScript</sub>
+- [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - 一个扩展可以帮助您打开 git 摄入器, 将任何 git 寄存器变成 LLMs 的快速方便文本摄入器 。 <sub>⭐ 228 · TypeScript</sub>
+- [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension) - AnythingLLM Docker & 桌面应用程序浏览器扩展 <sub>⭐ 225 · JavaScript</sub>
+- [AhmadHassan-BTed/JinaClip](https://github.com/AhmadHassan-BTed/JinaClip) - 专业级,本地第一浏览器扩展,将任何网页转换为高真实度,LLM友好的Markdown完全在浏览器运行时间之内. 0-cloud, 隐私中心, and... <sub>⭐ 208 · JavaScript</sub>
+- [ravitemer/codecompanion-history.nvim](https://github.com/ravitemer/codecompanion-history.nvim) - 代码componion AI聊天插件的历史管理扩展,可以保存,浏览和恢复聊天会话. <sub>⭐ 195 · Lua</sub>
+- [decision-labs/geoai.js](https://github.com/decision-labs/geoai.js) - GeoAI.js是一个javascript 库,与变压器使用.js在前端执行GeoAI <sub>⭐ 194 · TypeScript</sub>
+- [snailfrying/flowers](https://github.com/snailfrying/flowers) - 智能浏览器扩展,用于人工智能翻译、抛光、记事和知识管理 <sub>⭐ 181 · TypeScript</sub>
+- [Ademking/SkillPrompts](https://github.com/Ademking/SkillPrompts) - 一个浏览器扩展以创建,组织和再利用自定义的AI提示跨多个AI聊天平台进行更快,更高效的交互. <sub>⭐ 172 · TypeScript</sub>
+- [xenova/chat-with-youtube](https://github.com/xenova/chat-with-youtube) - 一个浏览器扩展,允许您使用 Llama2-7b 与 YouTube 视频聊天. 使用 Information Endpoints 和 Vercel 的 AI SDK 构建. <sub>⭐ 167 · JavaScript</sub>
+- [seeeeew/aiwarningforsteam](https://github.com/seeeeew/aiwarningforsteam) - 浏览器扩展,以增加AI生成内容披露在Steam商店的能见度. <sub>⭐ 155 · JavaScript</sub>
+- [kayvr/token-hawk](https://github.com/kayvr/token-hawk) - WebGPU LLM 推论用手调制 <sub>⭐ 154 · C++</sub>
+- [Liopun/leet-chatgpt-extension](https://github.com/Liopun/leet-chatgpt-extension) - AI驱动的浏览器扩展,可以增强你的Leetcode和黑客排名体验. <sub>⭐ 152 · TypeScript</sub>
+- [Nyrok/flompt](https://github.com/Nyrok/flompt) - 流程 + 提示 = flompt - Visual AI Express Builder. 分解,编辑为流程图,重新编译为优化的机器可读提示 <sub>⭐ 151 · TypeScript</sub>
+- [jasonmayes/WebAIAgent](https://github.com/jasonmayes/WebAIAgent) - 一个在浏览器中运行完全客户端的Web AI代理,能够控制一个虚构的飞行网页,通过JavaScript中的Google's Gemma 2(2B)模型通过WebGPU来完成这项工作. . <sub>⭐ 145 · JavaScript</sub>
+- [Yorick-Ryu/deep-share](https://github.com/Yorick-Ryu/deep-share) - 一个浏览器扩展设计,供AI用户从ChatGPT,DeepSeek,Grok和10+其他AI对话中轻松复制公式,导出优美格式化的Word文档,并长期支持. . <sub>⭐ 145 · JavaScript</sub>
+- [memex-life/memex](https://github.com/memex-life/memex) - 你的第二个大脑用于浏览网络。一个AI为Chrome扩展提供了动力,它构建了个人的知识库。 <sub>⭐ 144 · TypeScript</sub>
+- [albertocubeddu/extensionOS](https://github.com/albertocubeddu/extensionOS) - 想象一下一个人人都能直接在网络浏览器中访问强大的AI模型——LLMs,基因图像模型,以及语音识别的世界。 <sub>⭐ 135 · TypeScript</sub>
+- [hugozanini/TFJS-object-detection](https://github.com/hugozanini/TFJS-object-detection) - 在浏览器中使用 lotorflow.js 实时自定义对象检测 <sub>⭐ 134 · JavaScript</sub>
+- [KevPH2026/muse-catch](https://github.com/KevPH2026/muse-catch) - AI Inspirit capture - 浏览器扩展+Telegram Bot + Web Dashboard 程序程序 互联网档案馆的存檔,存档日期2013-09-02. <sub>⭐ 128 · HTML</sub>
+- [socketteer/Claude-Conversation-Exporter](https://github.com/socketteer/Claude-Conversation-Exporter) - 一个Chrome扩展,允许您以各种格式(JSON,Markdown,Plain Text)导出您的 Claude.ai 对话,支持批量输出和对话浏览. <sub>⭐ 126 · JavaScript</sub>
+- [dnakov/claude-mcp](https://github.com/dnakov/claude-mcp) - 浏览器扩展以启用 Claude.ai 中的 MCP <sub>⭐ 125 · JavaScript</sub>
+- [jasonmayes/VectorSearch.js](https://github.com/jasonmayes/VectorSearch.js) - 客户端向量搜索使用 EmbeddingGemma 与 Web AI (LiteRT.js, TensorFlow.js, and Transformers.js) <sub>⭐ 124 · JavaScript</sub>
+- [zubyj/leetcode-explained](https://github.com/zubyj/leetcode-explained) - 浏览器扩展,将视频解决方案、公司标签和GPT代码分析添加到 Leetcode 问题中 <sub>⭐ 114 · TypeScript</sub>
+- [mattn/tensai](https://github.com/mattn/tensai) - 纯AVX2 SIMD内核中微小的神经网络框架(GOEX 警告=simd) <sub>⭐ 111 · Go</sub>
+- [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - 全面浏览器语义搜索与Huggingface变形器.js和ElectricSQL的PGlite! <sub>⭐ 109 · JavaScript</sub>
+- [nanogenomic/ClaudeCodeBrowser](https://github.com/nanogenomic/ClaudeCodeBrowser) - Claude Code的MCP Firefox浏览器自动化扩展 - 截图,点击,打字,页面刷新和AI驱动的网页交互 <sub>⭐ 107 · Python</sub>
+- [silvonli/Summa](https://github.com/silvonli/Summa) - 使用AI生成网络文章简明摘要的浏览器扩展 <sub>⭐ 106 · TypeScript</sub>
+- [tantara/transformers.js-chrome](https://github.com/tantara/transformers.js-chrome) - 在本地浏览器中运行 Generative AI 的 Chrome 扩展名 <sub>⭐ 105 · TypeScript</sub>
+- [Br1an67/OpenJobAutofill](https://github.com/Br1an67/OpenJobAutofill) - AI辅助,隐私第一浏览器扩展,用于自动填充工作申请表. <sub>⭐ 104 · JavaScript</sub>
+- [wybert/earth-agent-chrome-ext](https://github.com/wybert/earth-agent-chrome-ext) - Earth Agent 是Google Earth Earth 引擎的类似光标的AI代理。 它可以在您的浏览器中作为 Chrome 扩展或通过 MCP 服务器支持使用。 它可以帮助您做与 Google 相关的任何工作... <sub>⭐ 104 · TypeScript</sub>
 
 ---
 [⬆️ 返回顶部](#-前端开发工程师-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

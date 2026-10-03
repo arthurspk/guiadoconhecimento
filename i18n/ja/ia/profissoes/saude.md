@@ -20,1026 +20,1026 @@
 
 > 医療用モデル、意思決定支援、臨床アシスタント。
 
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation… <sub>⭐ 38.2k · Python</sub>
-- [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging <sub>⭐ 8.7k · Python</sub>
-- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your… <sub>⭐ 5.4k · Python</sub>
-- [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant / Powered by Your Data <sub>⭐ 4.0k · TypeScript</sub>
-- [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private. <sub>⭐ 3.8k · Python</sub>
-- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of… <sub>⭐ 3.4k</sub>
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server. 6 fighters incl. Muse-Glimmer 30B (now multimodal — reads images, abliterated), Gemma 4 31B, Qwen 3.5… <sub>⭐ 3.3k · Python</sub>
-- [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) - LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and… <sub>⭐ 3.3k · Python</sub>
-- [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) - The largest open-source medical AI skills library for OpenClaw . <sub>⭐ 3.0k · Python</sub>
-- [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) - A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. <sub>⭐ 2.9k</sub>
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - 500人のAIエージェント・プロジェクトは、さまざまな業界におけるAIエージェントの活用事例を集めたコレクションです。 実用的なアプリケーションを紹介し、オープンソースプロジェクトの実装をするためのリンクを提供します。 <sub>⭐ 38.2k · Python</sub>
+- [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - ヘルスケアイメージングのためのAIツールキット <sub>⭐ 8.7k · Python</sub>
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - ローカルファーストヘルスケアAI:臨床NER&HIPAA PIIは、100%のオンデバイスを実行します。 2,200 +医療モデル、21言語、Apple MLX + Python、クラウドなし、患者データは残しません... <sub>⭐ 5.4k · Python</sub>
+- [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant / データ連携 <sub>⭐ 4.0k · TypeScript</sub>
+- [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignityは、米国医療ライセンス試験を通過できるLMです。オフラインで動作しますが、それはクロスプラットフォームであり、あなたの健康データはプライベートにとどまります。 <sub>⭐ 3.8k · Python</sub>
+- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNAワクチンは、現在のパンデミックと多数の他の公衆衛生および医学的課題で発生した問題によって前進する上で重要なツールになりました。... <sub>⭐ 3.4k</sub>
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - クロードコードを実行します。 100% AppleのシリコンでローカルAIとデバイス. MLX-native Anthropic-APIサーバー. 6つの戦闘機を含むMuse-Glimmer 30B (現在のマルチモーダル — 画像を読みます, 黙示), ジェムマ 4 31B, Qwen 3.5... <sub>⭐ 3.3k · Python</sub>
+- [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) - LLM-as-a-Verifierは、追加のトレーニングを必要としないで、任意のエージェントに細かいフィードバックを提供する汎用フレームワークです。 これは、コーディング、ロボティクス、および... <sub>⭐ 3.3k · Python</sub>
+- [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) - OpenClawの最大のオープンソース医療AIスキルライブラリ。 <sub>⭐ 3.0k · Python</sub>
+- [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) - 医療用LLM、マルチモーダルシステム、データセット、ベンチマークなどのキュレーションリスト。 <sub>⭐ 2.9k</sub>
 - [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - 1つのAI-ready APIを介してウェアラブルな健康データを統一するためのセルフホスト型プラットフォーム。 <sub>⭐ 2.6k · Python</sub>
-- [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) - Medical imaging processing for AI applications. <sub>⭐ 2.4k · Python</sub>
-- [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs). <sub>⭐ 2.2k · Python</sub>
-- [ZJU4HealthCare/Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs) - Foundations of Medical Large Language Model Learning <sub>⭐ 2.1k</sub>
-- [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) - (Nature Reviews Bioengineering ) Application of Large Language Models in Medicine. A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers) <sub>⭐ 2.0k</sub>
-- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. <sub>⭐ 2.0k · Python</sub>
-- [nitrain/nitrain](https://github.com/nitrain/nitrain) - Train AI models efficiently on medical images using any framework <sub>⭐ 1.9k · Python</sub>
-- [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - 心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG, with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models <sub>⭐ 1.8k · Python</sub>
-- [neuml/paperai](https://github.com/neuml/paperai) - AI for medical and scientific papers <sub>⭐ 1.8k · Python</sub>
-- [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - 1166 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin… <sub>⭐ 1.4k · HTML</sub>
-- [FreedomIntelligence/HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) - Medical o1, Towards medical complex reasoning with LLMs <sub>⭐ 1.4k · Python</sub>
-- [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) - Latest Advances on Agentic AI & AI Agents for Healthcare <sub>⭐ 1.3k</sub>
-- [bowang-lab/MedRAX](https://github.com/bowang-lab/MedRAX) - MedRAX: Medical Reasoning Agent for Chest X-ray - ICML 2025 <sub>⭐ 1.2k · Python</sub>
-- [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) - GenAI powered multi-agentic medical diagnostics and healthcare research assistance chatbot. Designed for healthcare professionals, researchers and patients. <sub>⭐ 981 · Python</sub>
-- [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps… <sub>⭐ 959 · Shell</sub>
-- [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond <sub>⭐ 883 · Python</sub>
-- [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) - An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare <sub>⭐ 742</sub>
-- [rmaphoh/RETFound](https://github.com/rmaphoh/RETFound) - Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3 <sub>⭐ 677 · Python</sub>
-- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) - BioMCP: Biomedical Model Context Protocol <sub>⭐ 646 · Rust</sub>
-- [FudanDISC/DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) - Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare… <sub>⭐ 568 · Python</sub>
-- [kbressem/medAlpaca](https://github.com/kbressem/medAlpaca) - LLM finetuned for medical question answering <sub>⭐ 565 · Python</sub>
-- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - A conversational, AI device + software framework for companionship, entertainment, education, healthcare, IoT applications, and DIY robotics. Built with Python, NextJS, Arduino, ESP32, LLMs (GPT-4o)… <sub>⭐ 549 · TypeScript</sub>
-- [AQ-MedAI/MedResearcher-R1](https://github.com/AQ-MedAI/MedResearcher-R1) - MedResearcher-R1 is a deep research agent for medical scenarios, built on a knowledge-informed trajectory synthesis framework. <sub>⭐ 522 · Python</sub>
-- [amberkakkar01/Health-Care-Chatbot](https://github.com/amberkakkar01/Health-Care-Chatbot) - It is a medical chatbot that will provide quick answers to FAQs by setting up rule-based keyword chatbots. <sub>⭐ 446 · Jupyter Notebook</sub>
-- [neuml/annotateai](https://github.com/neuml/annotateai) - Automatically annotate papers using LLMs <sub>⭐ 426 · Python</sub>
-- [FreedomIntelligence/HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II) - HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT) <sub>⭐ 418 · Python</sub>
-- [xqz614/Awesome-Agentic-Clinical-Dialogue](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue) - Resource collection of medical agent for clinical dialogue and health <sub>⭐ 416 · Python</sub>
-- [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHT is an autonomous AI that can do medical research! <sub>⭐ 413 · Python</sub>
-- [FreedomIntelligence/HuatuoGPT-Vision](https://github.com/FreedomIntelligence/HuatuoGPT-Vision) - Medical Multimodal LLMs <sub>⭐ 402 · Python</sub>
-- [vinbigdata-medical/vindr-lab](https://github.com/vinbigdata-medical/vindr-lab) - A Data Platform for Medical AI that enables building high-quality datasets and algorithms with lean process and advanced annotation features. <sub>⭐ 377</sub>
-- [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - Summarize the paper and code in AI(Semantic Segmentation, Medical Segmentation,REID,Super-Resolution,Registration,CVPR,ECCV,ICCV,AAAI,MICCAI) <sub>⭐ 377</sub>
-- [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs). <sub>⭐ 371 · Jupyter Notebook</sub>
-- [gersteinlab/MedAgents](https://github.com/gersteinlab/MedAgents) - (ACL 2024 Findings) MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning https://arxiv.org/abs/2311.10537 <sub>⭐ 370 · Python</sub>
-- [SamuelSchmidgall/AgentClinic](https://github.com/SamuelSchmidgall/AgentClinic) - Agent benchmark for medical diagnosis <sub>⭐ 363 · Python</sub>
-- [amanchadha/coursera-ai-for-medicine-specialization](https://github.com/amanchadha/coursera-ai-for-medicine-specialization) - Programming assignments, labs and quizzes from all courses in the Coursera AI for Medicine Specialization offered by deeplearning.ai <sub>⭐ 359 · Jupyter Notebook</sub>
-- [medtorch/awesome-healthcare-ai](https://github.com/medtorch/awesome-healthcare-ai) - A curated list of awesome open source healthcare tools, algorithms, datasets and research papers. <sub>⭐ 356</sub>
-- [AIAnytime/Llama2-Medical-Chatbot](https://github.com/AIAnytime/Llama2-Medical-Chatbot) - This is a medical bot built using Llama2 and Sentence Transformers. The bot is powered by Langchain and Chainlit. The bot runs on a decent CPU machine with a minimum of 16GB of RAM. <sub>⭐ 355 · Python</sub>
-- [onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) - A curated list of popular Datasets, Models and Papers for LLMs in Medical/Healthcare <sub>⭐ 334</sub>
-- [stanfordmlgroup/MedAgentBench](https://github.com/stanfordmlgroup/MedAgentBench) - MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents <sub>⭐ 334 · Python</sub>
-- [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) - Portfolio of capstone projects from AI & Technology, Data Science, AI Internship, Machine Learning and AI Humanities Honors. CNN pneumonia detection on chest X-rays (>90% accuracy), healthcare EDA… <sub>⭐ 333 · Jupyter Notebook</sub>
-- [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7. <sub>⭐ 333 · TypeScript</sub>
-- [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) - Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot.… <sub>⭐ 323 · Python</sub>
-- [lucidrains/clinical-calculator-tooluse](https://github.com/lucidrains/clinical-calculator-tooluse) - Explorations into training LLMs to use clinical calculators from patient history, using open sourced models. Will start with Wells' Criteria <sub>⭐ 316 · Python</sub>
-- [mitmedialab/MDAgents](https://github.com/mitmedialab/MDAgents) - Official implementation for NeurIPS'24 paper: MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making <sub>⭐ 300 · Python</sub>
-- [saksham2001/PulseLoopiOS](https://github.com/saksham2001/PulseLoopiOS) - A privacy-first, subscription-free health tracker for affordable wearables. <sub>⭐ 298 · Swift</sub>
-- [pengyou200902/Doctor-Friende](https://github.com/pengyou200902/Doctor-Friende) - Rasa-Doctor-Friende.A chinese medical chatbot based on Neo4j knowledge graph and Rasa. <sub>⭐ 284 · Python</sub>
-- [UCSC-VLAA/MedReason](https://github.com/UCSC-VLAA/MedReason) - MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs <sub>⭐ 282 · Python</sub>
-- [Wangyixinxin/MMedAgent](https://github.com/Wangyixinxin/MMedAgent) - Learning to Use Medical Tools with Multi-modal Agent <sub>⭐ 277 · Python</sub>
-- [kaapana/kaapana](https://github.com/kaapana/kaapana) - Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with… <sub>⭐ 276 · Python</sub>
-- [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) - This repository is included artificial intelligence, machine learning, data science, computer vision projects related to healthcare. <sub>⭐ 274 · Jupyter Notebook</sub>
-- [epic-open-source/seismometer](https://github.com/epic-open-source/seismometer) - AI model evaluation with a focus on healthcare <sub>⭐ 273 · Jupyter Notebook</sub>
-- [mingze-yuan/Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) - The paper list of the review on LLMs in medicine - "Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review". <sub>⭐ 272</sub>
-- [matsuikentaro1/humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) - A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally written. <sub>⭐ 271 · Python</sub>
-- [mdai/ml-lessons](https://github.com/mdai/ml-lessons) - Intro to deep learning for medical imaging lesson, by MD.ai <sub>⭐ 270 · Jupyter Notebook</sub>
-- [xmindflow/Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba) - Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis <sub>⭐ 270</sub>
-- [alibaba-damo-academy/MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) - MedEvalKit: A Unified Medical Evaluation Framework <sub>⭐ 266 · Python</sub>
-- [iamarunbrahma/finetuned-qlora-falcon7b-medical](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical) - Finetuning of Falcon-7B LLM using QLoRA on Mental Health Conversational Dataset <sub>⭐ 262 · Jupyter Notebook</sub>
-- [Event-AHU/Medical_Image_Analysis](https://github.com/Event-AHU/Medical_Image_Analysis) - Foundation models based medical image analysis <sub>⭐ 243 · Python</sub>
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) - Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR connectivity, production deployment <sub>⭐ 227 · Python</sub>
-- [evelyyyyynnnnn/2.0-Healthcare-Ai-Systems](https://github.com/evelyyyyynnnnn/2.0-Healthcare-Ai-Systems) - Machine learning and decision intelligence models designed to improve healthcare safety through clinical risk prediction and medical interaction analysis. <sub>⭐ 225 · Python</sub>
-- [Nachoeigu/agentic-customer-service-medical-clinic](https://github.com/Nachoeigu/agentic-customer-service-medical-clinic) - This software contains an agent based on LangGraph & LangChain for solving general requests in the Whatsapp channel of this medical clinic <sub>⭐ 218 · Python</sub>
-- [alibaba-damo-academy/ClinFusion](https://github.com/alibaba-damo-academy/ClinFusion) - ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding <sub>⭐ 217 · Python</sub>
-- [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) - Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too. <sub>⭐ 213 · Python</sub>
-- [sammargolis/OpenScribe](https://github.com/sammargolis/OpenScribe) - OpenScribe is an open-source AI scribe that records patient encounters and generates structured clinical notes automatically. You keep full control over data, workflows, and patient privacy with no… <sub>⭐ 212 · TypeScript</sub>
-- [tigerless-labs/phi-boundary-gate](https://github.com/tigerless-labs/phi-boundary-gate) - Detect, gate, redact, and report PHI candidate flows across healthcare and insurance AI prompts, RAG, tools, memory, logs, and provider boundaries. <sub>⭐ 204 · Python</sub>
-- [FreedomIntelligence/Apollo](https://github.com/FreedomIntelligence/Apollo) - Multilingual Medicine: Model, Dataset, Benchmark, Code <sub>⭐ 202 · Python</sub>
-- [amiralansary/rl-medical](https://github.com/amiralansary/rl-medical) - Deep Reinforcement Learning (DRL) agents applied to medical images <sub>⭐ 199 · Python</sub>
-- [Aastha2104/Parkinson-Disease-Prediction](https://github.com/Aastha2104/Parkinson-Disease-Prediction) - Introduction Parkinson’s Disease is the second most prevalent neurodegenerative disorder after Alzheimer’s, affecting more than 10 million people worldwide. Parkinson’s is characterized primarily by… <sub>⭐ 197 · Python</sub>
-- [LibertFan/AI_Hospital](https://github.com/LibertFan/AI_Hospital) - AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis <sub>⭐ 196 · Python</sub>
-- [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) - A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design. <sub>⭐ 195 · Python</sub>
-- [Jerry-XDL/AIDoctor](https://github.com/Jerry-XDL/AIDoctor) - AIDoctor training medical GPT model with ChatGPT training pipeline, implemantation of Pretraining, Supervised Finetuning, RLHF(Reward Modeling and Reinforcement Learning) and DPO(Direct Preferenc… <sub>⭐ 187 · Python</sub>
-- [TsinghuaC3I/MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) - (ICML 2025) MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding <sub>⭐ 181 · Python</sub>
-- [BIDS-Xu-Lab/Me-LLaMA](https://github.com/BIDS-Xu-Lab/Me-LLaMA) - A novel medical large language model family with 13/70B parameters, which have SOTA performances on various medical tasks <sub>⭐ 167 · Python</sub>
-- [FreedomIntelligence/Chain-of-Diagnosis](https://github.com/FreedomIntelligence/Chain-of-Diagnosis) - An interpretable large language model (LLM) for medical diagnosis. <sub>⭐ 163 · Python</sub>
-- [BiomedSciAI/fuse-med-ml](https://github.com/BiomedSciAI/fuse-med-ml) - A python framework accelerating ML based discovery in the medical field by encouraging code reuse. Batteries included :) <sub>⭐ 159 · Python</sub>
-- [StanfordBDHG/LLMonFHIR](https://github.com/StanfordBDHG/LLMonFHIR) - A Demonstration using LLMs to Explain Health Records <sub>⭐ 158 · Swift</sub>
-- [ahlem-phantom/AI-HealthCare-Assistant](https://github.com/ahlem-phantom/AI-HealthCare-Assistant) - AI-powered healthcare web app / Symptom detection · Nearest doctor search · Blockchain medical records · X-Ray diagnosis · Face ID auth / Built with React, Node.js, Python, Flask, MongoDB & Ethereum… <sub>⭐ 150 · Jupyter Notebook</sub>
-- [ahammadmejbah/Awesome-Datasets-Hub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub) - A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation, and evaluation benchmarks. <sub>⭐ 149</sub>
-- [arvindsis11/Ai-Healthcare-Chatbot](https://github.com/arvindsis11/Ai-Healthcare-Chatbot) - see live demo of chatbot. follow the link <sub>⭐ 147 · Python</sub>
-- [geniusrise/awesome-healthcare-datasets](https://github.com/geniusrise/awesome-healthcare-datasets) - Healthcare and biomedical datasets, for AI/ML <sub>⭐ 146</sub>
-- [jinm29/ai-healthcare-app](https://github.com/jinm29/ai-healthcare-app) - Healthcare AI agent app that combines medical records with AI-assisted conversations <sub>⭐ 145 · TypeScript</sub>
-- [Institute4FutureHealth/CHA](https://github.com/Institute4FutureHealth/CHA) - Conversational Health Agents: A Personalized LLM-powered Agent Framework <sub>⭐ 144 · Python</sub>
-- [wshi83/EhrAgent](https://github.com/wshi83/EhrAgent) - (EMNLP'24) EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records <sub>⭐ 144 · Python</sub>
-- [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) - ai agent healthcare vault for family that combines Obsidian templates, AI prompt workflows, and a TypeScript preprocessing pipeline for Apple Health exports <sub>⭐ 139 · TypeScript</sub>
-- [Project-MONAI/monai-deploy-app-sdk](https://github.com/Project-MONAI/monai-deploy-app-sdk) - MONAI Deploy App SDK offers a framework and associated tools to design, develop and verify AI-driven applications in the healthcare imaging domain. <sub>⭐ 138 · Python</sub>
-- [apache/ctakes](https://github.com/apache/ctakes) - Apache cTAKES is a Natural Language Processing (NLP) platform for clinical text. <sub>⭐ 137 · Java</sub>
-- [Emo-gml/Awesome-Mental-Health-LLMs](https://github.com/Emo-gml/Awesome-Mental-Health-LLMs) - From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health (TAFFC) <sub>⭐ 134</sub>
-- [wshi83/MedAgentGym](https://github.com/wshi83/MedAgentGym) - (ICLR'26) MedAgentGYM: Training LLM Agents for Code-Based Medical Reasoning at Scale <sub>⭐ 134 · Python</sub>
-- [kyegomez/MORPHEUS-1](https://github.com/kyegomez/MORPHEUS-1) - Implementation of "MORPHEUS-1" from Prophetic AI and "The world’s first multi-modal generative ultrasonic transformer designed to induce and stabilize lucid dreams. " <sub>⭐ 133 · Python</sub>
-- [thetahealth/mirobody-eval](https://github.com/thetahealth/mirobody-eval) - An evaluation harness for medical/health AI agents — reproduce and cover multiple benchmarks under one scoring discipline <sub>⭐ 133 · Python</sub>
-- [matthieukomorowski/AI_Clinician](https://github.com/matthieukomorowski/AI_Clinician) - Reinforcement learning for medical decisions <sub>⭐ 132 · MATLAB</sub>
-- [Don-Uwe/ai-healthcare-agent-app](https://github.com/Don-Uwe/ai-healthcare-agent-app) - ai agent healthcare app with centralized testing and build workflows for reliable health-content delivery <sub>⭐ 131 · TypeScript</sub>
-- [openlifescience-ai/Open-Medical-Reasoning-Tasks](https://github.com/openlifescience-ai/Open-Medical-Reasoning-Tasks) - A comprehensive repository of reasoning tasks for Medical LLMs (and beyond) <sub>⭐ 131 · Python</sub>
-- [TonguePicture-SKaRD/TongueDiagnosis](https://github.com/TonguePicture-SKaRD/TongueDiagnosis) - A cross-platform TCM tongue diagnosis system integrating YOLOv5 localization, SAM segmentation, ResNet50 classification, and LLM-based health consultation. <sub>⭐ 131 · Vue</sub>
-- [shreyasharma04/HealthChatbot](https://github.com/shreyasharma04/HealthChatbot) - HealthCare ChatBot Major -1 (4th year - 7th semester) Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician. ChatBot can be described as software that… <sub>⭐ 130 · Python</sub>
-- [johner-institut/ai-guideline](https://github.com/johner-institut/ai-guideline) - Guideline for AI based Medical Devices <sub>⭐ 129</sub>
-- [Cicatriiz/healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public) - A Model Context Protocol (MCP) server providing AI assistants with access to healthcare data and medical information tools, including FDA drug info, PubMed, medRxiv, NCBI Bookshelf, clinical trials… <sub>⭐ 128 · JavaScript</sub>
-- [alibaba-damo-academy/ReasonMed](https://github.com/alibaba-damo-academy/ReasonMed) - ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning <sub>⭐ 124 · Python</sub>
-- [ruslanmv/ai-medical-chatbot](https://github.com/ruslanmv/ai-medical-chatbot) - Free Doctor Consultation with Artificial Intelligence by using Generative AI <sub>⭐ 122 · TypeScript</sub>
-- [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai <sub>⭐ 121 · HTML</sub>
-- [starmpcc/Asclepius](https://github.com/starmpcc/Asclepius) - Official Codes for "Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes" <sub>⭐ 121 · Python</sub>
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources) - Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts. <sub>⭐ 119</sub>
-- [Project-MONAI/monai-deploy](https://github.com/Project-MONAI/monai-deploy) - MONAI Deploy aims to become the de-facto standard for developing, packaging, testing, deploying and running medical AI applications in clinical production. <sub>⭐ 119 · Shell</sub>
-- [stellarloop/cardiobot](https://github.com/stellarloop/cardiobot) - Cardio chatbot is trained on carefully curated datasets related to cardiovascular diseases. It provides context-aware, medically relevant responses to user queries, supporting both patients and… <sub>⭐ 119 · TypeScript</sub>
-- [zhihuanglab/TissueLab](https://github.com/zhihuanglab/TissueLab) - A Co-evolving Agentic AI System for Medical Imaging Analysis <sub>⭐ 118 · TypeScript</sub>
-- [llSourcell/AI_for_healthcare](https://github.com/llSourcell/AI_for_healthcare) - This is the code for "AI for Healthcare" By Siraj Raval on Youtube <sub>⭐ 117 · Jupyter Notebook</sub>
-- [yashverma9/AI-Blockchain-Electronic-Health-Records-Management-System](https://github.com/yashverma9/AI-Blockchain-Electronic-Health-Records-Management-System) - A coupled AI-Blockchain Electronic Health Records (EHRs) management system which enables decentralization of Electronic Health records using IBM's Hyperledger Fabric based blockchain and also runs an… <sub>⭐ 115 · Vue</sub>
-- [Doctor-One/doctor-dok](https://github.com/Doctor-One/doctor-dok) - Doctor Dok is an AI based medical data framework and patient's med vault. Parse any health related PDF/Image to JSON and then use Chat GPT / LLama to discuss it! WARNING: Don't decide on your health… <sub>⭐ 114 · JavaScript</sub>
-- [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - AiAi.care project is teaching computers to "see" chest X-rays and interpret them how a human Radiologist would. We are using 700,000 Chest X-Rays + Deep Learning to build an FDA approved, open-source… <sub>⭐ 113 · Dockerfile</sub>
-- [NightCrawler909/PranAIR-AI-Enhanced](https://github.com/NightCrawler909/PranAIR-AI-Enhanced) - PranAIR — AI-Enhanced Medical Emergency Drone System PranAIR is an intelligent, real-time medical emergency response platform that uses drones, live telemetry, interactive maps, and AI-assisted… <sub>⭐ 112 · JavaScript</sub>
-- [samschifman/RAG_on_FHIR](https://github.com/samschifman/RAG_on_FHIR) - Work on using Retrieval-Augmented Generation (RAG) to combine Fast Healthcare Interoperable Resources (FHIR) with Generative AI. <sub>⭐ 112 · Jupyter Notebook</sub>
-- [MAGIC-AI4Med/DiagGym](https://github.com/MAGIC-AI4Med/DiagGym) - A virtual clinical environment for self‑evolving LLM diagnostic agents. <sub>⭐ 111 · Python</sub>
-- [Kartik-Katkar/OrganEase](https://github.com/Kartik-Katkar/OrganEase) - OrganEase is a dynamic and user-friendly website designed to simplify the process of organ donation management. Built using the MERN stack, which comprises MongoDB, Express, React, and Node.js, this… <sub>⭐ 109 · CSS</sub>
-- [uni-medical/UniMedVL](https://github.com/uni-medical/UniMedVL) - (ICML 2026) Official UniMedVL implementation — a unified medical vision-language model for multimodal understanding, medical image generation, and interleaved tasks in a single checkpoint, trained on… <sub>⭐ 109 · Python</sub>
-- [Ali-Marandi/Medical-Diagnosis-Assistant](https://github.com/Ali-Marandi/Medical-Diagnosis-Assistant) - AI-Powered Medical Diagnosis Assistant <sub>⭐ 108 · Python</sub>
-- [bloodworks-io/phlox](https://github.com/bloodworks-io/phlox) - Open source, local first AI medical agent for desktop and web. <sub>⭐ 107 · JavaScript</sub>
-- [synlp/ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) - ChiMed-GPT is a Chinese medical large language model (LLM) built by continually training Ziya-v2 on Chinese medical data, where pre-training, supervised fine-tuning (SFT), and reinforcement learning… <sub>⭐ 107</sub>
-- [souravs17031999/Retinal_blindness_detection_Pytorch](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch) - AI-driven initiative to assist hospitals and rural clinics in early detection of Diabetic Retinopathy, supporting accessible eye care for all through open healthcare innovation. <sub>⭐ 105 · Jupyter Notebook</sub>
-- [mercure-imaging/mercure](https://github.com/mercure-imaging/mercure) - mercure DICOM Orchestrator <sub>⭐ 103 · JavaScript</sub>
-- [CUHK-AIM-Group/MedSAM-Agent](https://github.com/CUHK-AIM-Group/MedSAM-Agent) - MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning <sub>⭐ 102 · Python</sub>
-- [uni-medical/GMAI-VL](https://github.com/uni-medical/GMAI-VL) - GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI. <sub>⭐ 102 · Python</sub>
-- [lucidrains/medical-ai-experiments](https://github.com/lucidrains/medical-ai-experiments) - A repository to house some personal attempts to beat some state-of-the-art for medical datasets <sub>⭐ 99</sub>
-- [williamliujl/CMExam](https://github.com/williamliujl/CMExam) - A Chinese National Medical Licensing Examination dataset and large languge model benchmarks <sub>⭐ 98 · Python</sub>
-- [VectorInstitute/cyclops](https://github.com/VectorInstitute/cyclops) - A toolkit for evaluating and monitoring AI models in clinical settings <sub>⭐ 96 · Python</sub>
-- [agentvitals/checkup](https://github.com/agentvitals/checkup) - AgentVitals Checkup (/checkup) — an AI agent skill that gives your agent a professional health checkup: dual-axis Stability + Welfare scoring, a personality-style title, and a public cross-platform… <sub>⭐ 95 · Shell</sub>
-- [neuhai/Mental-LLM](https://github.com/neuhai/Mental-LLM) - The repo for paper "Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data" <sub>⭐ 95</sub>
-- [wizardlancet/OpenOE-Lite](https://github.com/wizardlancet/OpenOE-Lite) - ﻿Open-source evidence-based medical RAG system — OpenEvidence-style clinical Q&A powered by OpenAlex + LLM, zero database required <sub>⭐ 94 · Python</sub>
-- [fedbiomed/fedbiomed](https://github.com/fedbiomed/fedbiomed) - A collaborative learning framework for empowering biomedical research <sub>⭐ 93 · Python</sub>
-- [shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models](https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models) - A systematic literature review of Retrieval Augmented Generation (RAG) models, covering architectures, retrieval techniques, real world applications, performance improvements, emerging challenges… <sub>⭐ 93</sub>
-- [architkaila/Fine-Tuning-LLMs-for-Medical-Entity-Extraction](https://github.com/architkaila/Fine-Tuning-LLMs-for-Medical-Entity-Extraction) - Exploring the potential of fine-tuning Large Language Models (LLMs) like Llama2 and StableLM for medical entity extraction. This project focuses on adapting these models using PEFT, Adapter V2, and… <sub>⭐ 90 · Python</sub>
-- [vsharathchandra/AI-Healthcare-chatbot](https://github.com/vsharathchandra/AI-Healthcare-chatbot) - Through a series of questions about symptoms it diagnosis the health condition of patient. <sub>⭐ 90 · Python</sub>
-- [starmpcc/CAMEL](https://github.com/starmpcc/CAMEL) - Clinically Adapted Model Enhanced from LLaMA <sub>⭐ 89 · Python</sub>
-- [suinleelab/MONET](https://github.com/suinleelab/MONET) - Transparent medical image AI via an image–text foundation model grounded in medical literature <sub>⭐ 89 · Python</sub>
-- [CCI-Bonn/OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI) - OHIF DICOM Web viewer with server-side AI integration, supporting SAM2, nninteractive, medSAM2, SAM3, VoxTell, and VLMs to enable advanced medical image analysis. <sub>⭐ 88 · Python</sub>
-- [phoenix-zhou/GPT2-mcc](https://github.com/phoenix-zhou/GPT2-mcc) - This project aims to utilize the pre-trained GPT-2 model to build an intelligent medical consultation chatbot. This system can simulate the natural language communication style of doctors, understand… <sub>⭐ 88 · Python</sub>
-- [gersteinlab/MedicalAgentsBench](https://github.com/gersteinlab/MedicalAgentsBench) - (Patterns) MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning <sub>⭐ 87 · Jupyter Notebook</sub>
-- [KOSASIH/MediNet-PiNetworkBlockchainMedicalManagement](https://github.com/KOSASIH/MediNet-PiNetworkBlockchainMedicalManagement) - MediNet-PiNetworkBlockchainMedicalManagement is a decentralized, AI-driven medical resource management and disease surveillance system that leverages the Pi Network blockchain <sub>⭐ 87 · Python</sub>
-- [uni-medical/GMAI-MMBench](https://github.com/uni-medical/GMAI-MMBench) - GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI. <sub>⭐ 87</sub>
-- [dentalpin/dentalpin](https://github.com/dentalpin/dentalpin) - The open source agentic dental software. Built for AI. <sub>⭐ 84 · Python</sub>
-- [eltzanis/mAIstro](https://github.com/eltzanis/mAIstro) - A multi-agent framework for autonomous end-to-end development of radiomics and deep learning models for medical imaging <sub>⭐ 84 · Python</sub>
-- [HasteHealth/HasteHealth](https://github.com/HasteHealth/HasteHealth) - The Open-Source FHIR Server for AI-Native Health Apps <sub>⭐ 84 · Rust</sub>
-- [makama-md/AI-for-Medical-Diagnosis](https://github.com/makama-md/AI-for-Medical-Diagnosis) - This repo contain my assignment notebooks for the Coursera AI for Medicine Specialization course. The link to the course: https://www.coursera.org/specializations/ai-for-medicine <sub>⭐ 82 · Jupyter Notebook</sub>
-- [zjlrock777/Awesome-LLM-Agents-Scientific-Discovery](https://github.com/zjlrock777/Awesome-LLM-Agents-Scientific-Discovery) - A curated list of LLM powered AI Agents in Biomedical Research. Medical Image Analysis, Multi-omics Genomics Analysis, Biomedical Scientific Discoveries... <sub>⭐ 82</sub>
-- [UMEssen/Body-and-Organ-Analysis](https://github.com/UMEssen/Body-and-Organ-Analysis) - BOA is a segmentation tool of CT scans by the SHIP-AI group (https://ship-ai.ikim.nrw/). Combining the TotalSegmentator and the Body Composition Analysis, this tool is capable of analyzing medical… <sub>⭐ 81 · Python</sub>
-- [leandromineti/awesome-healthmetrics](https://github.com/leandromineti/awesome-healthmetrics) - A curated list of awesome resources at the intersection of healthcare and AI <sub>⭐ 80</sub>
-- [kennethleungty/Generative-AI-Pharmacist](https://github.com/kennethleungty/Generative-AI-Pharmacist) - Generative AI Pharmacist (For Demo Purposes Only) <sub>⭐ 79</sub>
-- [rafiattrach/m3](https://github.com/rafiattrach/m3) - Query MIMIC-IV medical data using natural language through Model Context Protocol (MCP). Transform healthcare research with AI-powered database interactions - supports both local MIMIC-IV SQLite demo… <sub>⭐ 79 · Python</sub>
-- [AIwithhassan/medical-chatbot](https://github.com/AIwithhassan/medical-chatbot) - In this tutorial, learn to build a smart Medical Chatbot using open-source tools. We'll use HuggingFace for embeddings, Faiss CPU for vector storage, and Mistral with Streamlit for a conversational… <sub>⭐ 78 · Python</sub>
-- [chatgptos/YBchat](https://github.com/chatgptos/YBchat) - Medical Doctor Expert System <sub>⭐ 78 · HTML</sub>
-- [nikit0ns/artificial-intelligence-library](https://github.com/nikit0ns/artificial-intelligence-library) - Artificial Intelligence Library — a meticulously curated library featuring over 320 top-tier AI platforms across 16 distinct categories. <sub>⭐ 78</sub>
-- [Shekswess/LLM-Medical-Finetuning](https://github.com/Shekswess/LLM-Medical-Finetuning) - A code repository that cointains all the code for finetuning some of the popular LLMs on medical data <sub>⭐ 78 · Jupyter Notebook</sub>
-- [ad12/DOSMA](https://github.com/ad12/DOSMA) - An AI-powered open-source medical image analysis toolbox <sub>⭐ 76 · Python</sub>
-- [pchukwuemeka424/MediPredict-Nigeria-AI-Powered-Disease-Prediction-System](https://github.com/pchukwuemeka424/MediPredict-Nigeria-AI-Powered-Disease-Prediction-System) - ediPredict Nigeria is an innovative healthcare solution that uses advanced machine learning algorithms to identify possible diseases based on patient-reported symptoms. Designed to address the… <sub>⭐ 76 · Python</sub>
-- [SlicerIGT/aigt](https://github.com/SlicerIGT/aigt) - Deep learning software modules for image-guided medical procedures <sub>⭐ 76 · Jupyter Notebook</sub>
-- [MAGIC-AI4Med/MedRBench](https://github.com/MAGIC-AI4Med/MedRBench) - (Nature Communications) The official code for "Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases". <sub>⭐ 74 · Python</sub>
-- [ArchieIndian/openclaw-superpowers](https://github.com/ArchieIndian/openclaw-superpowers) - 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP health monitoring. Your agent teaches itself new… <sub>⭐ 72 · Python</sub>
-- [KatherLab/LLMAnonymizer-Publication](https://github.com/KatherLab/LLMAnonymizer-Publication) - Anonymize Medical Documents using LLMs <sub>⭐ 72 · Python</sub>
-- [the-momentum/notetaker](https://github.com/the-momentum/notetaker) - AI-powered audio transcription and smart summarization tool that transforms spoken conversations into structured notes for healthcare professionals. <sub>⭐ 72 · Python</sub>
-- [LifeValue/HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) - Open-source, patient-controlled health record app with on-device AI. Aggregates medical data from 52K+ providers via FHIR R4. Offline-first. Flutter. <sub>⭐ 71 · Dart</sub>
-- [RISE-MICCAI/Journal-Club](https://github.com/RISE-MICCAI/Journal-Club) - The RISE Journal Club aims to create a friendly environment to discuss the latest state-of-the-art papers in the areas of medical image analysis, AI and computer vision. The moderators will briefly… <sub>⭐ 71 · HTML</sub>
-- [aioz-ai/MICCAI19-MedVQA](https://github.com/aioz-ai/MICCAI19-MedVQA) - AIOZ AI - Overcoming Data Limitation in Medical Visual Question Answering (MICCAI 2019) <sub>⭐ 70 · Python</sub>
-- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole, Mackworth & Goebel 1998, p. 1. Russell & Norvig 2003, p. 55. Definition of AI as the study of intelligent agents: Poole, Mackworth & Goebel (1998), which provides the version that is used in… <sub>⭐ 70</sub>
-- [thinkwee/HiMe](https://github.com/thinkwee/HiMe) - One-Stop Personal Health AI Agent "Say Hi to Healthy Me" <sub>⭐ 69 · Python</sub>
-- [IoBT-VISTEC/EEGWaveNet](https://github.com/IoBT-VISTEC/EEGWaveNet) - source codes for EEGWaveNet: Multi-Scale CNN-Based Spatiotemporal Feature Extraction for EEG Seizure Detection (IEEE Transactions on Industrial Informatics) <sub>⭐ 68 · Python</sub>
-- [Tesseract-MI/prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - prostatecancer.ai is an AI-based, zero-footprint medical image viewer that can identify clinically significant prostate cancer. <sub>⭐ 68 · JavaScript</sub>
-- [dermatologist/pyomop](https://github.com/dermatologist/pyomop) - Python package for managing OHDSI clinical data models. Includes support for LLM based plain text queries, MCP server and FHIR import. <sub>⭐ 67 · Python</sub>
-- [EasonWong0327/Hybrid-RAG-System](https://github.com/EasonWong0327/Hybrid-RAG-System) - Hybrid-RAG is a full-stack enterprise-grade RAG system for healthcare AI, featuring hybrid retrieval, multi-dimensional conflict detection, intelligent dialogue management, and dual-layer safety… <sub>⭐ 67 · Python</sub>
-- [flixpar/med-ts-llm](https://github.com/flixpar/med-ts-llm) - MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis <sub>⭐ 67 · Python</sub>
-- [microsoft/clinical-self-verification](https://github.com/microsoft/clinical-self-verification) - Self-verification for LLMs. <sub>⭐ 67 · Jupyter Notebook</sub>
-- [SB2318/UltimateHealth](https://github.com/SB2318/UltimateHealth) - Open-source health library & article management platform / React Native + Node.js + MongoDB / Trusted wellness content, AI chat & podcasts / Live: uhsocial.in / Android App on Play Store <sub>⭐ 67 · TypeScript</sub>
-- [actava-ai/chi-bench](https://github.com/actava-ai/chi-bench) - Χ-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows? <sub>⭐ 66 · Python</sub>
-- [FreedomIntelligence/Awesome-Specialized-Medical-LLMs](https://github.com/FreedomIntelligence/Awesome-Specialized-Medical-LLMs) - A collection of research on specialized medical LLMs for specific diseases and distinct medical specialties, organized by ICD-10 chapters. <sub>⭐ 66</sub>
-- [yhzhu99/MedAgentBoard](https://github.com/yhzhu99/MedAgentBoard) - (NeurIPS 2025) MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks <sub>⭐ 66 · Python</sub>
-- [DeepHiveMind/Medical-Healthcare-3D-Imaging-AI](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI) - Medical Healthcare AI / Robotic Surgery / Automated Brain Tumour Segmentation / Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) / Lung Cancer detection (Chest CT Scan) / IMAGE… <sub>⭐ 64 · Python</sub>
-- [eddmann/garmin-connect-mcp](https://github.com/eddmann/garmin-connect-mcp) - MCP server enabling LLMs to interact with Garmin Connect - activities, health metrics, sleep data, and training analysis <sub>⭐ 64 · Python</sub>
-- [Nuyoahwjl/MediCheck](https://github.com/Nuyoahwjl/MediCheck) - Recommend health check packages based on user information. <sub>⭐ 64 · Python</sub>
-- [Schuture/Meissa](https://github.com/Schuture/Meissa) - Meissa is a multi-modal medical agent, built on trajectory-based agentic behavior distillation framework. <sub>⭐ 64 · Python</sub>
-- [AIAnytime/Medical-RAG-using-Meditron-7B-LLM](https://github.com/AIAnytime/Medical-RAG-using-Meditron-7B-LLM) - Medical RAG QA App using Meditron 7B LLM, Qdrant Vector Database, and PubMedBERT Embedding Model. <sub>⭐ 63 · HTML</sub>
-- [the-momentum/python-ai-kit](https://github.com/the-momentum/python-ai-kit) - Python boilerplate for creating AI agents, MCP servers, API microservices and monolith services. All in one! <sub>⭐ 63 · Python</sub>
-- [AutoMedBench/AutoMedBench](https://github.com/AutoMedBench/AutoMedBench) - MedAutoBench — Medical AutoResearch Benchmark for Autonomous AI Agents <sub>⭐ 62</sub>
-- [AI4HealthUOL/ECG-MIMIC](https://github.com/AI4HealthUOL/ECG-MIMIC) - Repository for the paper 'Prospects for AI-Enhanced ECG as a Unified Screening Tool for Cardiac and Non-Cardiac Conditions -- An Explorative Study in Emergency Care'. <sub>⭐ 61 · Python</sub>
-- [asanmateu/medgraph-ai](https://github.com/asanmateu/medgraph-ai) - Healthcare RAG agent with Neo4j knowledge graphs - Query medical data using LangChain, FastAPI & Streamlit <sub>⭐ 61 · Python</sub>
-- [BodyMaps/AbdomenAtlas2.0](https://github.com/BodyMaps/AbdomenAtlas2.0) - (ICCV 2025) Dataset of 10,135 abdominal CT scans with 15,130 tumors annotated across six organs and 5,893 controls. The AI ranks first in Medical Segmentation Decathlon (MSD). <sub>⭐ 61 · Shell</sub>
-- [ExpertOpsAI/MedicalModelLibrary](https://github.com/ExpertOpsAI/MedicalModelLibrary) - A collection of AI models tailored for healthcare applications. <sub>⭐ 61 · Jupyter Notebook</sub>
-- [Nanboy-Ronan/awesome-medical-imaging-agents](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) - Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers. <sub>⭐ 61 · Python</sub>
-- [Okes2024/AI-powered-Symptom-Checker-Chatbot](https://github.com/Okes2024/AI-powered-Symptom-Checker-Chatbot) - A prototype chatbot that analyzes symptoms using ML, suggesting possible conditions based on synthetic data. Educational use only, demonstrates AI's potential in healthcare triage with 150+ synthetic… <sub>⭐ 61 · Python</sub>
-- [microsoft/healthcare-ai-model-evaluator](https://github.com/microsoft/healthcare-ai-model-evaluator) - Healthcare AI Model Evaluator (HAIME) empowers healthcare organizations to independently evaluate and customize AI solutions, addressing challenges of transparency, clinical relevance, and real-world… <sub>⭐ 59 · TypeScript</sub>
-- [sociocom/JMED-LLM](https://github.com/sociocom/JMED-LLM) - JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models <sub>⭐ 59 · Python</sub>
-- [alibaba-damo-academy/MedVR](https://github.com/alibaba-damo-academy/MedVR) - (ICLR'26) MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning <sub>⭐ 58 · Python</sub>
-- [amanjeetsahu/AI-for-Healthcare-Nanodegree](https://github.com/amanjeetsahu/AI-for-Healthcare-Nanodegree) - Learn to build, evaluate, and integrate predictive models that have the power to transform patient outcomes. Begin by classifying and segmenting 2D and 3D medical images to augment diagnosis and then… <sub>⭐ 58 · Jupyter Notebook</sub>
-- [doctolib-lab/doctobert](https://github.com/doctolib-lab/doctobert) - A medical encoder, pretrained from scratch on curated and LLM-rephrased medical web data <sub>⭐ 58 · Python</sub>
-- [imonishkumar/Symptom-Checker-Chatbot](https://github.com/imonishkumar/Symptom-Checker-Chatbot) - A Symptom Checker Chatbot: Get quick answers about your health concerns and find nearby medical centers. Built with Python, PyTorch, and NLTK, powered by AI for health-related queries. <sub>⭐ 58 · HTML</sub>
-- [MedARC-AI/medmarks](https://github.com/MedARC-AI/medmarks) - Automated LLM evaluation suite for medical tasks <sub>⭐ 58 · Python</sub>
-- [abdul-wahab619/AI-MedLab](https://github.com/abdul-wahab619/AI-MedLab) - AI-based medical laboratory is a project that aims to use artificial intelligence (AI), machine learning (ML) to improve the quality and efficiency of laboratory medicine. There are three modules… <sub>⭐ 57 · JavaScript</sub>
-- [lgy112112/PreProcPipe](https://github.com/lgy112112/PreProcPipe) - Easy and Clear Pipeline With LLM-Automation to Preprocess Medical Image for Everybody <sub>⭐ 57 · Jupyter Notebook</sub>
-- [ljwztc/MedChain](https://github.com/ljwztc/MedChain) - The repository for "MedChain: Bridging the Gap Between LLM Agents and Real-World Clinical Decision Making" <sub>⭐ 57 · Python</sub>
-- [WangRongsheng/IvyGPT](https://github.com/WangRongsheng/IvyGPT) - (CICAI 2023) The official codes for "Ivygpt: Interactive chinese pathway language model in medical domain" <sub>⭐ 57</sub>
-- [lich0031/AIDE](https://github.com/lich0031/AIDE) - AIDE: Annotation-efficient deep learning for automatic medical image segmentation <sub>⭐ 56 · Python</sub>
+- [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) - AIアプリケーション向け医療用画像処理 <sub>⭐ 2.4k · Python</sub>
+- [epfLLM/meditron](https://github.com/epfLLM/meditron) - メディトロンは、オープンソースの医療用大型ランゲージモデル(LLMs)を一堂に用意しています。 <sub>⭐ 2.2k · Python</sub>
+- [ZJU4HealthCare/Foundations-of-Medical-LLMs](https://github.com/ZJU4HealthCare/Foundations-of-Medical-LLMs) - 医学の大きい言語モデル学習の基礎 <sub>⭐ 2.1k</sub>
+- [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) - (自然評価バイオエンジニアリング) 医学における大きな言語モデルの応用. 医療LMs(医療LLMの木、テーブル、紙)の実用的なガイドリソースのキュレーションリスト <sub>⭐ 2.0k</sub>
+- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - プロトコルの設計、データ分析、証拠の洞察および学術的な執筆を含む医学の研究のためのエージェントスキルの何百も。 <sub>⭐ 2.0k · Python</sub>
+- [nitrain/nitrain](https://github.com/nitrain/nitrain) - 任意のフレームワークを使用して、医療画像でAIモデルを効率的にトレイン <sub>⭐ 1.9k · Python</sub>
+- [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - 健康大モデル(LLM x Mental Health)、プリ&ポストトレンジング&データセット&デポレーション&RAG、InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLMシリーズ <sub>⭐ 1.8k · Python</sub>
+- [neuml/paperai](https://github.com/neuml/paperai) - 医療・科学用紙のAI <sub>⭐ 1.8k · Python</sub>
+- [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - クラウド、ChatGPT、Gemini、Cursor&Codexのための1166プロフェッショナルエージェントスキル - PRD、postmortems、リース、医療法案、レイオフ、Go-bag、新しい国。 Anthropicのプラグインでマークダウン、MITを嘆く... <sub>⭐ 1.4k · HTML</sub>
+- [FreedomIntelligence/HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) - 医学o1、LMsとの医学の複雑な推論への <sub>⭐ 1.4k · Python</sub>
+- [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) - ヘルスケア向けAI・AIエージェントの最新動向 <sub>⭐ 1.3k</sub>
+- [bowang-lab/MedRAX](https://github.com/bowang-lab/MedRAX) - MedRAX:チェストX線のための医学のReasoning代理店- ICML 2025 <sub>⭐ 1.2k · Python</sub>
+- [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) - GenAIは、複数の薬用診断および医療研究支援チャットボットを主導しました。 医療専門家、研究者、患者向けに設計されています。 <sub>⭐ 981 · Python</sub>
+- [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Healthは、高度なAI技術と医療の専門知識を活用し、個人の健康管理を変革するインテリジェントなヘルスケアアシスタントです。 自然な言語相互作用を通じて、それは助けます... <sub>⭐ 959 · Shell</sub>
+- [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - アナキフラッシュカードの解説や、モネティックス、イラスト、そして医療学校向け適応型学習など、より充実したAIを搭載したツールです。 <sub>⭐ 883 · Python</sub>
+- [hazratali/awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) - 人工知能、機械学習およびヘルスケアの夏の学校を素晴らしいリスト <sub>⭐ 742</sub>
+- [rmaphoh/RETFound](https://github.com/rmaphoh/RETFound) - ビジョン財団は、RETFound、DINOv2、DINOv3を含む医療AIのためのモデルを模倣します <sub>⭐ 677 · Python</sub>
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) - BioMCP: 生物医学モデルコンテキストプロトコル <sub>⭐ 646 · Rust</sub>
+- [FudanDISC/DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) - DISC-MedLLMのリポジトリは、大言語モデル(LLM)を活用し、エンドツーエンドの会話医療における正確かつ真正な医療対応を実現するための包括的なソリューションです。 <sub>⭐ 568 · Python</sub>
+- [kbressem/medAlpaca](https://github.com/kbressem/medAlpaca) - LLMは、医学的疑問に答えるのを微調整しました <sub>⭐ 565 · Python</sub>
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - 対話型AIデバイス+ソフトウェアフレームワーク(コンパニオンシップ、エンターテインメント、教育、ヘルスケア、IoTアプリケーション、DIYロボット)。 Python、NextJS、Arduino、ESP32、LLM(GPT-4o)で構築... <sub>⭐ 549 · TypeScript</sub>
+- [AQ-MedAI/MedResearcher-R1](https://github.com/AQ-MedAI/MedResearcher-R1) - MedResearcher-R1 は、知識知能的な軌跡合成フレームワーク上に構築された医療シナリオのための深い研究代理店です。 <sub>⭐ 522 · Python</sub>
+- [amberkakkar01/Health-Care-Chatbot](https://github.com/amberkakkar01/Health-Care-Chatbot) - ルールベースのキーワードチャットボットを設定することで、FAQへの迅速な回答を提供する医療チャットボットです。 <sub>⭐ 446 · Jupyter Notebook</sub>
+- [neuml/annotateai](https://github.com/neuml/annotateai) - LLMs を用いた自動注釈紙 <sub>⭐ 426 · Python</sub>
+- [FreedomIntelligence/HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II) - HuatuoGPT2、LMの医療適応のための一段のトレーニング。 (オープンメディカルGPT) <sub>⭐ 418 · Python</sub>
+- [xqz614/Awesome-Agentic-Clinical-Dialogue](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue) - 臨床的対話と健康のための医療エージェントのリソース収集 <sub>⭐ 416 · Python</sub>
+- [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHTは、医学研究ができる自律的なAIです! <sub>⭐ 413 · Python</sub>
+- [FreedomIntelligence/HuatuoGPT-Vision](https://github.com/FreedomIntelligence/HuatuoGPT-Vision) - 医療用マルチモーダルLLM <sub>⭐ 402 · Python</sub>
+- [vinbigdata-medical/vindr-lab](https://github.com/vinbigdata-medical/vindr-lab) - 高品質なデータセットやアルゴリズムを無駄なプロセスと高度なアノテーション機能で構築できる、医療AI向けデータプラットフォームです。 <sub>⭐ 377</sub>
+- [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - AI(Semantic Segmentation、医療セグメンテーション、REID、Super-Resolution、Registration、CVPR、ECCV、ICCV、AAAI、MICCAI)の紙とコードをまとめました。 <sub>⭐ 377</sub>
+- [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - 基礎的な指示に基づくデータセットの作成と会話ドメインの専門家の大規模な言語モデル(LLM)を訓練するためのフレームワーク。 <sub>⭐ 371 · Jupyter Notebook</sub>
+- [gersteinlab/MedAgents](https://github.com/gersteinlab/MedAgents) - (ACL 2024 Findings) MedAgents:ゼロショットメディカル・レソナリングのためのコラビエーターとして大きな言語モデル https://arxiv.org/abs/2311.10537 <sub>⭐ 370 · Python</sub>
+- [SamuelSchmidgall/AgentClinic](https://github.com/SamuelSchmidgall/AgentClinic) - 医療診断のためのエージェントベンチマーク <sub>⭐ 363 · Python</sub>
+- [amanchadha/coursera-ai-for-medicine-specialization](https://github.com/amanchadha/coursera-ai-for-medicine-specialization) - プログラミングの課題、ラボやクイズは、Coursra AIの全てのコースからディープラーニングが提供する医学特化のための.ai <sub>⭐ 359 · Jupyter Notebook</sub>
+- [medtorch/awesome-healthcare-ai](https://github.com/medtorch/awesome-healthcare-ai) - 素晴らしいオープンソース医療ツール、アルゴリズム、データセットおよび研究論文のキュレーションリスト。 <sub>⭐ 356</sub>
+- [AIAnytime/Llama2-Medical-Chatbot](https://github.com/AIAnytime/Llama2-Medical-Chatbot) - これは、Llama2とSentenceトランスを使用して構築された医療ボットです。 ボットはLangchainおよびChainlitによって供給されます。 ボットは、RAMの16GB未満でまともなCPUマシン上で動作します。 <sub>⭐ 355 · Python</sub>
+- [onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) - 医療/ヘルスケアにおけるLMSの一般的なデータセット、モデルおよび紙のキュレーションリスト <sub>⭐ 334</sub>
+- [stanfordmlgroup/MedAgentBench](https://github.com/stanfordmlgroup/MedAgentBench) - MedAgentBench: ベンチマーク医療LMエージェントの現実的な仮想EHR環境 <sub>⭐ 334 · Python</sub>
+- [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) - AIとテクノロジー、データサイエンス、AIのインターンシップ、機械学習および人工知能の人員からのキャプチャープロジェクトポートフォリオ。 胸X線上のCNN肺炎検出(>90%精度)、医療EDA ... <sub>⭐ 333 · Jupyter Notebook</sub>
+- [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - Claude Opus 4.7で構築された、お使いのブラウザに医療教育の未来をもたらすボイスファーストAI患者シミュレータ。 <sub>⭐ 333 · TypeScript</sub>
+- [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) - 医療研究のためのエージェントスキル — 文献検索, レポートガイドライン & 引用チェック, 統計, 出版図, 投稿. Claudeコードで動作します。, コーデックス, カーソル&GitHub Copilot.... <sub>⭐ 323 · Python</sub>
+- [lucidrains/clinical-calculator-tooluse](https://github.com/lucidrains/clinical-calculator-tooluse) - オープンソースモデルを使用して、患者の履歴から臨床計算機を使用するLLMを訓練するための調査。 Wells' Criteriaで始まります <sub>⭐ 316 · Python</sub>
+- [mitmedialab/MDAgents](https://github.com/mitmedialab/MDAgents) - NeurIPS'24 論文の公式実装: MDAgents: 医療用意思決定のための LLM の適応的コラボレーション <sub>⭐ 300 · Python</sub>
+- [saksham2001/PulseLoopiOS](https://github.com/saksham2001/PulseLoopiOS) - 手頃な価格のウェアラブルのためのプライバシーファースト、サブスクリプションフリーの健康トラッカー。 <sub>⭐ 298 · Swift</sub>
+- [pengyou200902/Doctor-Friende](https://github.com/pengyou200902/Doctor-Friende) - Rasa-Doctor-Friende.Neo4jの知識グラフとRasaに基づいて中国医学チャットボット。 <sub>⭐ 284 · Python</sub>
+- [UCSC-VLAA/MedReason](https://github.com/UCSC-VLAA/MedReason) - MedReason: 知識グラフによるLMSにおけるFactual Medical Reasoningのステップを排除 <sub>⭐ 282 · Python</sub>
+- [Wangyixinxin/MMedAgent](https://github.com/Wangyixinxin/MMedAgent) - マルチモーダルエージェントで医療用ツールを使用する学習 <sub>⭐ 277 · Python</sub>
+- [kaapana/kaapana](https://github.com/kaapana/kaapana) - Kaapanaは、医療データ分析の分野におけるアートプラットフォームプロビジョニングの状態のためのオープンソースツールキットです。アプリケーションはAIベースのワークフローとフェデレーションされた学習シナリオで構成されています... <sub>⭐ 276 · Python</sub>
+- [edaaydinea/AI-Projects-for-Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcare) - このリポジトリには、人工知能、機械学習、データサイエンス、医療関連のコンピュータビジョンプロジェクトが含まれます。 <sub>⭐ 274 · Jupyter Notebook</sub>
+- [epic-open-source/seismometer](https://github.com/epic-open-source/seismometer) - ヘルスケアを中心としたAIモデル評価 <sub>⭐ 273 · Jupyter Notebook</sub>
+- [mingze-yuan/Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) - LLMに関する論文リスト - 「大ランゲージモデルは、人工知能のアシスタントへの進歩的なパスウェイを照らします:レビュー」 <sub>⭐ 272</sub>
+- [matsuikentaro1/humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) - 学術医学論文からAIが生成した文章の兆候を取り除き、より自然で専門的に書かれているようにするクロードコードスキル。 <sub>⭐ 271 · Python</sub>
+- [mdai/ml-lessons](https://github.com/mdai/ml-lessons) - MD.aiによる医学のイメージング レッスンのための深い学習への入門 <sub>⭐ 270 · Jupyter Notebook</sub>
+- [xmindflow/Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba) - 計算効率の高いEra:医療画像解析における状態空間モデルの包括的な調査 <sub>⭐ 270</sub>
+- [alibaba-damo-academy/MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) - MedEvalKit: 統合医療評価フレームワーク <sub>⭐ 266 · Python</sub>
+- [iamarunbrahma/finetuned-qlora-falcon7b-medical](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical) - メンタルヘルス会話データセットでQLoRAを使用したFalcon-7B LLMの調整 <sub>⭐ 262 · Jupyter Notebook</sub>
+- [Event-AHU/Medical_Image_Analysis](https://github.com/Event-AHU/Medical_Image_Analysis) - 基礎モデルに基づく医学のイメージ分析 <sub>⭐ 243 · Python</sub>
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) - 医療AI向けPython SDK — エージェント、リアルタイムEHR接続、生産展開向けのFHIRツールをタイプ・検証 <sub>⭐ 227 · Python</sub>
+- [evelyyyyynnnnn/2.0-Healthcare-Ai-Systems](https://github.com/evelyyyyynnnnn/2.0-Healthcare-Ai-Systems) - 臨床リスク予測と医療相互作用分析を通じて、ヘルスケアの安全性を向上させるために設計された機械学習および意思決定インテリジェンスモデル。 <sub>⭐ 225 · Python</sub>
+- [Nachoeigu/agentic-customer-service-medical-clinic](https://github.com/Nachoeigu/agentic-customer-service-medical-clinic) - このソフトウェアは、この医療クリニックのWhatsAppチャンネルで一般的な要求を解決するためのLangGraph& LangChainに基づいてエージェントが含まれています <sub>⭐ 218 · Python</sub>
+- [alibaba-damo-academy/ClinFusion](https://github.com/alibaba-damo-academy/ClinFusion) - ClinFusion:ホリスティック医療理解のためのビジョン・センターのマルチモーダルLLMシステム <sub>⭐ 217 · Python</sub>
+- [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) - GPU、ローカルAI VRAM、Docker、systemd、ホストヘルスの1つのコンテナーでプラグインアンドプレイホームラボダッシュボード。既読MCPサーバーを内蔵しているため、AIエージェントも探すことができます。 <sub>⭐ 213 · Python</sub>
+- [sammargolis/OpenScribe](https://github.com/sammargolis/OpenScribe) - OpenScribeは、患者の遭遇を記録し、構造化された臨床メモを自動的に生成するオープンソースAIが記述されています。 データを完全に制御し続けるとワークフロー、および患者様のプライバシーを一切保持しません。 <sub>⭐ 212 · TypeScript</sub>
+- [tigerless-labs/phi-boundary-gate](https://github.com/tigerless-labs/phi-boundary-gate) - ヘルスケアおよび保険AIのプロンプト、RAG、ツール、メモリ、ログ、プロバイダー境界線を横断して PHI候補が流れているか確認し、ゲート、赤字、レポートします。 <sub>⭐ 204 · Python</sub>
+- [FreedomIntelligence/Apollo](https://github.com/FreedomIntelligence/Apollo) - 多言語薬:モデル、データセット、ベンチマーク、コード <sub>⭐ 202 · Python</sub>
+- [amiralansary/rl-medical](https://github.com/amiralansary/rl-medical) - 医療画像に適用される深い補強学習(DRL)エージェント <sub>⭐ 199 · Python</sub>
+- [Aastha2104/Parkinson-Disease-Prediction](https://github.com/Aastha2104/Parkinson-Disease-Prediction) - 導入パーキンソン病は、アルツハイマーの後に2番目に最も人気の神経変性障害であり、世界中で10万人以上の人々に影響を与えます。 Parkinsonの主な特徴は... <sub>⭐ 197 · Python</sub>
+- [LibertFan/AI_Hospital](https://github.com/LibertFan/AI_Hospital) - AI病院:臨床診断のためのインターンドクターとしてLMSの相互評価そして協同 <sub>⭐ 196 · Python</sub>
+- [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) - 生体医学研究、ゲノム、プロテオミクス、単細胞分析、臨床AIおよびタンパク質設計の分野におけるAIエージェント技術の集積。 <sub>⭐ 195 · Python</sub>
+- [Jerry-XDL/AIDoctor](https://github.com/Jerry-XDL/AIDoctor) - AIDoctor トレーニング 医療 GPT モデル with ChatGPT 訓練パイプライン, Pretraining の簡単な操作, Supervised Finetuning, RLHF(Reward Modeling and Reinforcement Learning) and DPO(Direct Preferenc... <sub>⭐ 187 · Python</sub>
+- [TsinghuaC3I/MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) - (ICML 2025) MedXpertQA: エキスパートレベルの医療的合理的な評価と理解のベンチマーク <sub>⭐ 181 · Python</sub>
+- [BIDS-Xu-Lab/Me-LLaMA](https://github.com/BIDS-Xu-Lab/Me-LLaMA) - 13/70B パラメータを持つ新しい医療用大型モデルファミリーで、さまざまな医学的タスクに SOTA 性能を発揮 <sub>⭐ 167 · Python</sub>
+- [FreedomIntelligence/Chain-of-Diagnosis](https://github.com/FreedomIntelligence/Chain-of-Diagnosis) - 医療診断のための通訳可能な大型言語モデル(LLM)。 <sub>⭐ 163 · Python</sub>
+- [BiomedSciAI/fuse-med-ml](https://github.com/BiomedSciAI/fuse-med-ml) - MLベースの発見を加速するPythonフレームワークは、コード再利用を促進することで医療分野に認定されています。電池には以下が含まれます:) <sub>⭐ 159 · Python</sub>
+- [StanfordBDHG/LLMonFHIR](https://github.com/StanfordBDHG/LLMonFHIR) - LLMによる健康記録の解説 <sub>⭐ 158 · Swift</sub>
+- [ahlem-phantom/AI-HealthCare-Assistant](https://github.com/ahlem-phantom/AI-HealthCare-Assistant) - 人工知能を搭載した医療ウェブアプリ/症状検出・最寄の医師検索・ブロックチェーン医学記録・X線診断・顔ID認証/React,Node.js、Python、フラスコ、MongoDB&Ethereumで構築... <sub>⭐ 150 · Jupyter Notebook</sub>
+- [ahammadmejbah/Awesome-Datasets-Hub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub) - 医療AI、NLP、マルチモーダル学習、指示調整、推論、コード生成、評価ベンチマークを覆う大型ランゲージモデル(LLM)のデータセットのキュレーションコレクション。 <sub>⭐ 149</sub>
+- [arvindsis11/Ai-Healthcare-Chatbot](https://github.com/arvindsis11/Ai-Healthcare-Chatbot) - チャットボットのライブデモを参照してください。リンクに従ってください <sub>⭐ 147 · Python</sub>
+- [geniusrise/awesome-healthcare-datasets](https://github.com/geniusrise/awesome-healthcare-datasets) - AI/ML のヘルスケアおよび生物医学データセット、 <sub>⭐ 146</sub>
+- [jinm29/ai-healthcare-app](https://github.com/jinm29/ai-healthcare-app) - ヘルスケアAIエージェントアプリは、AIを意識した会話と医療記録を組み合わせたアプリです。 <sub>⭐ 145 · TypeScript</sub>
+- [Institute4FutureHealth/CHA](https://github.com/Institute4FutureHealth/CHA) - 会話保健エージェント:パーソナライズされたLMを搭載したエージェントフレームワーク <sub>⭐ 144 · Python</sub>
+- [wshi83/EhrAgent](https://github.com/wshi83/EhrAgent) - (EMNLP'24) EHRAgent: コードは電子健康の記録に複雑な表皮の共鳴のための大きい言語モデルを働かせます <sub>⭐ 144 · Python</sub>
+- [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) - ai エージェント 医療の悪質なテンプレート、AI プロンプトワークフローと Apple Health エクスポート用の TypeScript プリプロセッシングパイプラインを組み合わせる家族のための vault <sub>⭐ 139 · TypeScript</sub>
+- [Project-MONAI/monai-deploy-app-sdk](https://github.com/Project-MONAI/monai-deploy-app-sdk) - モノアイ・デプロイアプリSDKは、ヘルスケアイメージングドメインにおけるAI主導のアプリケーションの設計、開発および検証を行うためのフレームワークと関連ツールを提供しています。 <sub>⭐ 138 · Python</sub>
+- [apache/ctakes](https://github.com/apache/ctakes) - Apache cTAKES は、臨床テキストの自然言語処理 (NLP) プラットフォームです。 <sub>⭐ 137 · Java</sub>
+- [Emo-gml/Awesome-Mental-Health-LLMs](https://github.com/Emo-gml/Awesome-Mental-Health-LLMs) - パターン認識器からパーソナライズされたコンパニオンまで:メンタルヘルス(TAFFC)における大きな言語モデルの調査 <sub>⭐ 134</sub>
+- [wshi83/MedAgentGym](https://github.com/wshi83/MedAgentGym) - (ICLR'26) MedAgentGYM: スケールでコードベースの医学のReasoningのための訓練LM代理店 <sub>⭐ 134 · Python</sub>
+- [kyegomez/MORPHEUS-1](https://github.com/kyegomez/MORPHEUS-1) - 預言AIと「世界初マルチモーダルジェネレーション超音波トランスフォーマー」から「MORPHEUS-1」の実装が、有利な夢を誘発・安定させるよう設計されています。 <sub>⭐ 133 · Python</sub>
+- [thetahealth/mirobody-eval](https://github.com/thetahealth/mirobody-eval) - 医療/健康AIエージェントの評価ハーネス — 複数のベンチマークを1つのスコアリング規準で再現し、カバー <sub>⭐ 133 · Python</sub>
+- [matthieukomorowski/AI_Clinician](https://github.com/matthieukomorowski/AI_Clinician) - 医療の決定のための強化学習 <sub>⭐ 132 · MATLAB</sub>
+- [Don-Uwe/ai-healthcare-agent-app](https://github.com/Don-Uwe/ai-healthcare-agent-app) - 信頼できる健康コンテンツ配信のための集中テストとワークフローの構築によるAIエージェントヘルスケアアプリ <sub>⭐ 131 · TypeScript</sub>
+- [openlifescience-ai/Open-Medical-Reasoning-Tasks](https://github.com/openlifescience-ai/Open-Medical-Reasoning-Tasks) - 医療用LLM(およびそれを超える)のタスクを推論する包括的なリポジトリ <sub>⭐ 131 · Python</sub>
+- [TonguePicture-SKaRD/TongueDiagnosis](https://github.com/TonguePicture-SKaRD/TongueDiagnosis) - YOLOv5のローカリゼーション、SAMセグメンテーション、ResNet50分類およびLMベースの健康相談を統合するクロスプラットフォームTCM舌診断システム。 <sub>⭐ 131 · Vue</sub>
+- [shreyasharma04/HealthChatbot](https://github.com/shreyasharma04/HealthChatbot) - HealthCare ChatBotメジャー-1(4年〜7セメスター)ヘルスケアチャットボットは、一般的な医師の予測をシミュレートするヘルスケアドメインチャットボットです。 チャットボットはソフトウェアとして記述することができます... <sub>⭐ 130 · Python</sub>
+- [johner-institut/ai-guideline](https://github.com/johner-institut/ai-guideline) - AIベースの医療機器のガイドライン <sub>⭐ 129</sub>
+- [Cicatriiz/healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public) - FDA の薬物情報、パブMed、medRxiv、NCBI Bookshelf、臨床試験を含むヘルスケア データおよび医学情報用具にアクセスする AI の助手を提供するモデルコンテキスト・プロトコル(MCP)サーバー... <sub>⭐ 128 · JavaScript</sub>
+- [alibaba-damo-academy/ReasonMed](https://github.com/alibaba-damo-academy/ReasonMed) - ReasonMed: 370Kマルチエージェントは、医療の合理的な範囲でデータを生成しました <sub>⭐ 124 · Python</sub>
+- [ruslanmv/ai-medical-chatbot](https://github.com/ruslanmv/ai-medical-chatbot) - 人工知能を用いた無料医師相談会(Generative AI) <sub>⭐ 122 · TypeScript</sub>
+- [EagerAI/fastai](https://github.com/EagerAI/fastai) - Rインターフェイス へ fast.ai <sub>⭐ 121 · HTML</sub>
+- [starmpcc/Asclepius](https://github.com/starmpcc/Asclepius) - 「一般の臨床大国共通言語モデル」のための公式コードは合成臨床ノートで造られました <sub>⭐ 121 · Python</sub>
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources) - ML、開発、教育、ヘルスケア、不動産、ロボティクス、暗号、Web3などのさまざまなドメインでAIに関する日々更新されたリソースは、熱狂者によってキュレーションされています。 <sub>⭐ 119</sub>
+- [Project-MONAI/monai-deploy](https://github.com/Project-MONAI/monai-deploy) - モノイ展開は、臨床生産における医療AIアプリケーションの開発・パッケージ化・テスト・導入・運用の実証基準となることを目指しています。 <sub>⭐ 119 · Shell</sub>
+- [stellarloop/cardiobot](https://github.com/stellarloop/cardiobot) - Cardioチャットボットは、心血管疾患に関連する慎重に治療されたデータセットで訓練されています。 これは、コンテキストアウェア、患者と両方の患者をサポートし、ユーザーの質問に対する医学的に関連した応答を提供します。 <sub>⭐ 119 · TypeScript</sub>
+- [zhihuanglab/TissueLab](https://github.com/zhihuanglab/TissueLab) - 医療画像解析のための共同進化型AIシステム <sub>⭐ 118 · TypeScript</sub>
+- [llSourcell/AI_for_healthcare](https://github.com/llSourcell/AI_for_healthcare) - YouTubeに掲載されているSiraj Ravalによる「AI for Healthcare」のコードです。 <sub>⭐ 117 · Jupyter Notebook</sub>
+- [yashverma9/AI-Blockchain-Electronic-Health-Records-Management-System](https://github.com/yashverma9/AI-Blockchain-Electronic-Health-Records-Management-System) - IBMのHyperledger Fabricベースのブロックチェーンを使用して、電子健康レコードの分散化を可能にし、また、実行するいくつかのAI-Blockchain電子健康記録(EHRs)管理システム。 <sub>⭐ 115 · Vue</sub>
+- [Doctor-One/doctor-dok](https://github.com/Doctor-One/doctor-dok) - Doctor Dokは、AIベースの医療データフレームワークと患者のmedボルトです。 健康関連のPDF /イメージをJSONにパースし、チャットGPT / LLamaを使用してそれを議論します! 警告:あなたの健康を決定しないでください... <sub>⭐ 114 · JavaScript</sub>
+- [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - AiAi.careプロジェクトは、チェストX線を「参照」し、人間の放射線療法士がどのようになるかを解釈するコンピュータを教えています。 私たちは700,000 Chest X-Rays + Deep Learningを使用してFDAの承認されたオープンソースを構築しています... <sub>⭐ 113 · Dockerfile</sub>
+- [NightCrawler909/PranAIR-AI-Enhanced](https://github.com/NightCrawler909/PranAIR-AI-Enhanced) - PranAIR — AI 強化医療緊急ドローンシステム PranAIR は、無人機、ライブテレメトリー、インタラクティブマップ、AI 支援プラットフォームを使用するインテリジェントでリアルタイムの医療緊急対応プラットフォームです。 <sub>⭐ 112 · JavaScript</sub>
+- [samschifman/RAG_on_FHIR](https://github.com/samschifman/RAG_on_FHIR) - ヘルスケアの相互運用可能なリソース(FHIR)をジェネレーションAIと組み合わせて、Retrieval-Augmented Generation (RAG)を利用しています。 <sub>⭐ 112 · Jupyter Notebook</sub>
+- [MAGIC-AI4Med/DiagGym](https://github.com/MAGIC-AI4Med/DiagGym) - 自己進化するLMM診断薬のための仮想臨床環境。 <sub>⭐ 111 · Python</sub>
+- [Kartik-Katkar/OrganEase](https://github.com/Kartik-Katkar/OrganEase) - OrganEase は、組織の寄付管理プロセスを簡素化するために設計された動的でユーザーフレンドリーなウェブサイトです。 MongoDB、Express、React、Node.js で構成される MERN スタックを使用して構築されたこのサイトは、この... <sub>⭐ 109 · CSS</sub>
+- [uni-medical/UniMedVL](https://github.com/uni-medical/UniMedVL) - (ICML 2026)公式UniMedVL実装 — 多項的理解のための統一された医療ビジョン言語モデル、医学画像生成、および単一のチェックポイントで解明したタスク、訓練された... <sub>⭐ 109 · Python</sub>
+- [Ali-Marandi/Medical-Diagnosis-Assistant](https://github.com/Ali-Marandi/Medical-Diagnosis-Assistant) - 人工知能による医療診断アシスタント <sub>⭐ 108 · Python</sub>
+- [bloodworks-io/phlox](https://github.com/bloodworks-io/phlox) - オープンソース、デスクトップおよびウェブ用のローカル初のAI医療エージェント。 <sub>⭐ 107 · JavaScript</sub>
+- [synlp/ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) - ChiMed-GPTは、中国医療データでZiya-v2を継続的に訓練することによって構築された中国の医学的大型言語モデル(LLM)であり、事前トレーニング、指示された微調整(SFT)、および強化学習... <sub>⭐ 107</sub>
+- [souravs17031999/Retinal_blindness_detection_Pytorch](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch) - 糖尿病性レチノパシーの早期発見で病院や農村クリニックを支援するAI主導の取り組みは、オープンな医療イノベーションを通じてすべての人のためのアクセス可能な眼科ケアをサポートしました。 <sub>⭐ 105 · Jupyter Notebook</sub>
+- [mercure-imaging/mercure](https://github.com/mercure-imaging/mercure) - アークリュール・ディカム・オーケストラ <sub>⭐ 103 · JavaScript</sub>
+- [CUHK-AIM-Group/MedSAM-Agent](https://github.com/CUHK-AIM-Group/MedSAM-Agent) - MedSAM-Agent:マルチターンエージェントの補強学習によるインタラクティブな医療画像セグメンテーションを強化 <sub>⭐ 102 · Python</sub>
+- [uni-medical/GMAI-VL](https://github.com/uni-medical/GMAI-VL) - GMAI-VL & GMAI-VL-5.5M:一般医療AIに向けて、大型ビジョン言語モデルと包括的なマルチモーダルデータセット。 <sub>⭐ 102 · Python</sub>
+- [lucidrains/medical-ai-experiments](https://github.com/lucidrains/medical-ai-experiments) - 医療データセットのための最先端のアートを打ち負かすために、個人的に試みるリポジトリ <sub>⭐ 99</sub>
+- [williamliujl/CMExam](https://github.com/williamliujl/CMExam) - 中国の国家医学のライセンス試験データセットと大きなlangugeモデルベンチマーク <sub>⭐ 98 · Python</sub>
+- [VectorInstitute/cyclops](https://github.com/VectorInstitute/cyclops) - 臨床設定におけるAIモデルの評価と監視のためのツールキット <sub>⭐ 96 · Python</sub>
+- [agentvitals/checkup](https://github.com/agentvitals/checkup) - AgentVitals Checkup(/checkup) — エージェントにプロフェッショナルな健康診断を提供するAIエージェントのスキル:デュアル軸安定性+福祉スコアリング、人格スタイルのタイトル、パブリッククロスプラットフォーム... <sub>⭐ 95 · Shell</sub>
+- [neuhai/Mental-LLM](https://github.com/neuhai/Mental-LLM) - 「メンタルLLM:オンラインテキストデータによるメンタルヘルス予測のための大きな言語モデルの活用」 <sub>⭐ 95</sub>
+- [wizardlancet/OpenOE-Lite](https://github.com/wizardlancet/OpenOE-Lite) - オープンソースのエビデンスベースの医療RAGシステム — OpenEvidenceスタイルの臨床Q&A、OpenAlex + LLMを搭載したゼロデータベースが必要 <sub>⭐ 94 · Python</sub>
+- [fedbiomed/fedbiomed](https://github.com/fedbiomed/fedbiomed) - 生物医学的研究の力強化のための共同学習フレームワーク <sub>⭐ 93 · Python</sub>
+- [shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models](https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models) - Retrieval Augmented Generation(RAG)モデルの系統的な文献レビュー、アーキテクチャ、検索技術、現実世界アプリケーション、パフォーマンスの改善、新しい課題をカバー... <sub>⭐ 93</sub>
+- [architkaila/Fine-Tuning-LLMs-for-Medical-Entity-Extraction](https://github.com/architkaila/Fine-Tuning-LLMs-for-Medical-Entity-Extraction) - Llama2やStableLMなどの大規模な言語モデル(LLM)を医学団体抽出物に調整する可能性を探ります。 このプロジェクトは、PEFT、アダプタV2、および... <sub>⭐ 90 · Python</sub>
+- [vsharathchandra/AI-Healthcare-chatbot](https://github.com/vsharathchandra/AI-Healthcare-chatbot) - 症状に関する一連の質問を通して、患者の健康状態を診断します。 <sub>⭐ 90 · Python</sub>
+- [starmpcc/CAMEL](https://github.com/starmpcc/CAMEL) - LLaMAから臨床的に適応されたモデルが強化 <sub>⭐ 89 · Python</sub>
+- [suinleelab/MONET](https://github.com/suinleelab/MONET) - 医学文献に基づいたイメージ・テキストの基礎モデルによる透明な医療画像AI <sub>⭐ 89 · Python</sub>
+- [CCI-Bonn/OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI) - SAM2、nninteractive、medSAM2、SAM3、VoxTellおよびVLMをサポートし、高度な医療画像分析を可能にするためにサーバー側のAI統合を備えたOHIF DICOM Webビューア。 <sub>⭐ 88 · Python</sub>
+- [phoenix-zhou/GPT2-mcc](https://github.com/phoenix-zhou/GPT2-mcc) - このプロジェクトは、事前訓練されたGPT-2モデルを使用してインテリジェントな医療相談チャットボットを構築することを目指しています。このシステムは、医師の自然な言語コミュニケーションスタイルをシミュレートし、理解することができます... <sub>⭐ 88 · Python</sub>
+- [gersteinlab/MedicalAgentsBench](https://github.com/gersteinlab/MedicalAgentsBench) - (Patterns) MedAgentsBench:複雑な医学のReasoningのためのモデルおよび代理店フレームワークを思考するベンチマーク <sub>⭐ 87 · Jupyter Notebook</sub>
+- [KOSASIH/MediNet-PiNetworkBlockchainMedicalManagement](https://github.com/KOSASIH/MediNet-PiNetworkBlockchainMedicalManagement) - MediNet-PiNetworkBlockchainMedicalManagementは、PIネットワークブロックチェーンを活用する分散型AI主導の医療リソース管理および疾患監視システムです。 <sub>⭐ 87 · Python</sub>
+- [uni-medical/GMAI-MMBench](https://github.com/uni-medical/GMAI-MMBench) - GMAI-MMBench:一般的な医療AIに向けて、包括的なマルチモーダル評価ベンチマーク。 <sub>⭐ 87</sub>
+- [dentalpin/dentalpin](https://github.com/dentalpin/dentalpin) - オープンソースの薬用歯科ソフトウェア。AIのために構築された。 <sub>⭐ 84 · Python</sub>
+- [eltzanis/mAIstro](https://github.com/eltzanis/mAIstro) - 放射線学の自律的エンドツーエンド開発と医療イメージングのためのディープラーニングモデルのためのマルチエージェントフレームワーク <sub>⭐ 84 · Python</sub>
+- [HasteHealth/HasteHealth](https://github.com/HasteHealth/HasteHealth) - AIネイティブヘルスアプリのオープンソースFHIRサーバー <sub>⭐ 84 · Rust</sub>
+- [makama-md/AI-for-Medical-Diagnosis](https://github.com/makama-md/AI-for-Medical-Diagnosis) - このリポジトリには、医学の専門化コースでCoursra AIのための私の代入ノートブックが含まれています。 コースへのリンク: https://www.coursera.org/specializations/ai-for-medicine <sub>⭐ 82 · Jupyter Notebook</sub>
+- [zjlrock777/Awesome-LLM-Agents-Scientific-Discovery](https://github.com/zjlrock777/Awesome-LLM-Agents-Scientific-Discovery) - 医学的研究におけるLLMを搭載したAIエージェントのキュレーションリスト。 医療画像分析、多角性ゲノム解析、生物医学科学的発見... <sub>⭐ 82</sub>
+- [UMEssen/Body-and-Organ-Analysis](https://github.com/UMEssen/Body-and-Organ-Analysis) - BOAは、SHIP-AIグループ(https://ship-ai.ikim.nrw/)によるCTスキャンのセグメンテーションツールです。 TotalSegmentatorとボディコンポジション分析を組み合わせたこのツールは、医療を分析することができます... <sub>⭐ 81 · Python</sub>
+- [leandromineti/awesome-healthmetrics](https://github.com/leandromineti/awesome-healthmetrics) - ヘルスケアとAIの交差点で素晴らしいリソースのキュレーションリスト <sub>⭐ 80</sub>
+- [kennethleungty/Generative-AI-Pharmacist](https://github.com/kennethleungty/Generative-AI-Pharmacist) - ジェネレーションAIファーマリスト(デモのみ) <sub>⭐ 79</sub>
+- [rafiattrach/m3](https://github.com/rafiattrach/m3) - モデルコンテクストプロトコル(MCP)で自然言語を使用してMIMIC-IV医療データを問い合わせます。 AIを搭載したデータベースインタラクションによるヘルスケア研究を変革する - ローカルのMIMIC-IV SQLiteデモをサポートしています... <sub>⭐ 79 · Python</sub>
+- [AIwithhassan/medical-chatbot](https://github.com/AIwithhassan/medical-chatbot) - このチュートリアルでは、オープンソースツールを使用してスマート医療チャットボットを構築することを学びます。 組み込み用のHuggingFace、ベクターストレージ用Faiss CPU、およびStreamlitと対話用にMistralを使用します... <sub>⭐ 78 · Python</sub>
+- [chatgptos/YBchat](https://github.com/chatgptos/YBchat) - 医学の医者の専門家システム <sub>⭐ 78 · HTML</sub>
+- [nikit0ns/artificial-intelligence-library](https://github.com/nikit0ns/artificial-intelligence-library) - 人工知能ライブラリ — 16の異なるカテゴリにわたって320以上のトップ層のAIプラットフォームを搭載した細心の注意を払ったライブラリー。 <sub>⭐ 78</sub>
+- [Shekswess/LLM-Medical-Finetuning](https://github.com/Shekswess/LLM-Medical-Finetuning) - 医療データに関する一般的なLMのいくつかを微調整するためのすべてのコードが含まれているコードリポジトリ <sub>⭐ 78 · Jupyter Notebook</sub>
+- [ad12/DOSMA](https://github.com/ad12/DOSMA) - AI搭載オープンソースの医療画像解析ツールボックス <sub>⭐ 76 · Python</sub>
+- [pchukwuemeka424/MediPredict-Nigeria-AI-Powered-Disease-Prediction-System](https://github.com/pchukwuemeka424/MediPredict-Nigeria-AI-Powered-Disease-Prediction-System) - ediPredictナイジェリアは、高度機械学習アルゴリズムを使用して患者報告された症状に基づいて可能な病気を特定する革新的なヘルスケアソリューションです。 ... <sub>⭐ 76 · Python</sub>
+- [SlicerIGT/aigt](https://github.com/SlicerIGT/aigt) - 画像ガイド医療手順のためのディープラーニングソフトウェアモジュール <sub>⭐ 76 · Jupyter Notebook</sub>
+- [MAGIC-AI4Med/MedRBench](https://github.com/MAGIC-AI4Med/MedRBench) - (自然通信) 「現実世界の臨床症例に関するLMSの共鳴能力を定量化する」ための公式コード。 <sub>⭐ 74 · Python</sub>
+- [ArchieIndian/openclaw-superpowers](https://github.com/ArchieIndian/openclaw-superpowers) - OpenClaw の 44 つのプラグ アンド プレイスキル — cron スケジューリング、セキュリティガードレール、永続的なメモリ、知識グラフ、および MCP 健康監視を備えたセルフ・モダブル AI エージェント。あなたのエージェントは新しいことを教えます... <sub>⭐ 72 · Python</sub>
+- [KatherLab/LLMAnonymizer-Publication](https://github.com/KatherLab/LLMAnonymizer-Publication) - LLMを用いた医療文書の匿名化 <sub>⭐ 72 · Python</sub>
+- [the-momentum/notetaker](https://github.com/the-momentum/notetaker) - 会話を変革するAIを搭載した音声トランスクリプションとスマートサマライゼーションツールが、医療従事者のための構造的なメモに変わります。 <sub>⭐ 72 · Python</sub>
+- [LifeValue/HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) - オープンソース、患者管理の健常記録アプリをオンデバイスAIで提供しています。FHIR R4を介して52K+プロバイダーから医療データを収集します。オフライン優先。フラッタ。 <sub>⭐ 71 · Dart</sub>
+- [RISE-MICCAI/Journal-Club](https://github.com/RISE-MICCAI/Journal-Club) - RISE Journal Clubは、医療画像分析、AIやコンピュータビジョンの分野における最新の最新論文を議論するために、フレンドリーな環境を作ることを目指しています。 モデレータは簡単に... <sub>⭐ 71 · HTML</sub>
+- [aioz-ai/MICCAI19-MedVQA](https://github.com/aioz-ai/MICCAI19-MedVQA) - AIOZ AI - 医療の視覚的疑問に対するデータ制限を克服(MICCAI 2019) <sub>⭐ 70 · Python</sub>
+- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - プール, Mackworth & Goebel 1998, P. 1. Russell & Norvig 2003, p. 55. インテリジェントエージェントの研究としてのAIの定義: Poole, Mackworth & Goebel (1998), これは、で使用されるバージョンを提供します... <sub>⭐ 70</sub>
+- [thinkwee/HiMe](https://github.com/thinkwee/HiMe) - ワンストップパーソナルヘルスAIエージェント「Say Hi to Healthy Me」 <sub>⭐ 69 · Python</sub>
+- [IoBT-VISTEC/EEGWaveNet](https://github.com/IoBT-VISTEC/EEGWaveNet) - EEGWaveNetのソースコード:EEG Seizure検出用マルチスケールCNNベースのSpatiotemporal機能抽出(産業情報に関するIEEE取引) <sub>⭐ 68 · Python</sub>
+- [Tesseract-MI/prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - prostatecancer.aiは臨床的に重要な前立腺癌を識別できるAI基盤、ゼロ フットプリントの医学のイメージ ビューアーです。 <sub>⭐ 68 · JavaScript</sub>
+- [dermatologist/pyomop](https://github.com/dermatologist/pyomop) - OHDSIの臨床データモデルを管理するためのPythonパッケージ。LMベースのプレーンテキストクエリ、MCPサーバーおよびFHIRインポートのサポートが含まれています。 <sub>⭐ 67 · Python</sub>
+- [EasonWong0327/Hybrid-RAG-System](https://github.com/EasonWong0327/Hybrid-RAG-System) - ハイブリッドRAGは、ヘルスケアAI向けのフルスタック型企業向けRAGシステムで、ハイブリッド検索、多次元対立検知、インテリジェントな対話管理、およびデュアルレイヤー安全機能を備えています。 <sub>⭐ 67 · Python</sub>
+- [flixpar/med-ts-llm](https://github.com/flixpar/med-ts-llm) - MedTsLLM: 多動医療時間シリーズ分析のためのLLMをレバレッジ <sub>⭐ 67 · Python</sub>
+- [microsoft/clinical-self-verification](https://github.com/microsoft/clinical-self-verification) - LLMの自己検証。 <sub>⭐ 67 · Jupyter Notebook</sub>
+- [SB2318/UltimateHealth](https://github.com/SB2318/UltimateHealth) - オープンソースのヘルスライブラリと記事管理プラットフォーム/React Native + Node.js + MongoDB / Trusted Wellnessコンテンツ、AIチャット&Podcast / Live: uhsocial.in / Android App on Play Store <sub>⭐ 67 · TypeScript</sub>
+- [actava-ai/chi-bench](https://github.com/actava-ai/chi-bench) - NOK-Bench:AIエージェントは、エンドツーエンド、ロングホライゾン、ポリシーリッチヘルスケアワークフローを自動化できますか? <sub>⭐ 66 · Python</sub>
+- [FreedomIntelligence/Awesome-Specialized-Medical-LLMs](https://github.com/FreedomIntelligence/Awesome-Specialized-Medical-LLMs) - ICD-10の章によって組織される特定の病気および独特な医学の専門家のための専門にされた医学LLMsの研究のコレクション。 <sub>⭐ 66</sub>
+- [yhzhu99/MedAgentBoard](https://github.com/yhzhu99/MedAgentBoard) - (NeurIPS 2025) MedAgentBoard: 多様な医療タスクのための慣習的な方法とのベンチマークの複数のエージェントコラボレーション <sub>⭐ 66 · Python</sub>
+- [DeepHiveMind/Medical-Healthcare-3D-Imaging-AI](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI) - 医療ヘルスケアAI / ロボット手術/自動脳腫瘍セグメンテーション/皮膚がんの病変検出とセグメンテーション(メロナマ認識)/肺癌検査(CCTスキャンを削減)/Image... <sub>⭐ 64 · Python</sub>
+- [eddmann/garmin-connect-mcp](https://github.com/eddmann/garmin-connect-mcp) - LLM が Garmin Connect - アクティビティ、健康メトリック、睡眠データ、およびトレーニング分析と相互作用できるようにする MCP サーバー <sub>⭐ 64 · Python</sub>
+- [Nuyoahwjl/MediCheck](https://github.com/Nuyoahwjl/MediCheck) - ユーザー情報に基づいて健康チェックパッケージをお勧めします。 <sub>⭐ 64 · Python</sub>
+- [Schuture/Meissa](https://github.com/Schuture/Meissa) - Meissaは、軌跡ベースの薬効行動蒸留フレームワーク上に構築されたマルチモーダル医療エージェントです。 <sub>⭐ 64 · Python</sub>
+- [AIAnytime/Medical-RAG-using-Meditron-7B-LLM](https://github.com/AIAnytime/Medical-RAG-using-Meditron-7B-LLM) - Meditron 7B LLM、Qdrant Vector Database、PubMedBERT Embedding Model を使用したメディカル RAG QA アプリ。 <sub>⭐ 63 · HTML</sub>
+- [the-momentum/python-ai-kit](https://github.com/the-momentum/python-ai-kit) - AIエージェント、MCPサーバー、APIマイクロサービス、モノリスサービスを制作するためのPythonボイラープレート。 <sub>⭐ 63 · Python</sub>
+- [AutoMedBench/AutoMedBench](https://github.com/AutoMedBench/AutoMedBench) - MedAutoBench — 自動AIエージェントのメディカルオートリサーチベンチマーク <sub>⭐ 62</sub>
+- [AI4HealthUOL/ECG-MIMIC](https://github.com/AI4HealthUOL/ECG-MIMIC) - 紙の「AI強化ECGのための展望」は、心臓と非心臓条件のための統一されたスクリーニングツールとして - 救急医療における実証的研究」。 <sub>⭐ 61 · Python</sub>
+- [asanmateu/medgraph-ai](https://github.com/asanmateu/medgraph-ai) - Neo4j の知識グラフを持つヘルスケア RAG エージェント - LangChain、FastAPI & Streamlit を使用して医療データを問い合わせる <sub>⭐ 61 · Python</sub>
+- [BodyMaps/AbdomenAtlas2.0](https://github.com/BodyMaps/AbdomenAtlas2.0) - (ICCV 2025) 6つの臓器と5,893の制御に注釈付けされた15,130個の腫瘍で10,135の腹部CTスキャンのデータセット。 AIは、医学的セグメンテーションデカトロン(MSD)で最初にランクされています。 <sub>⭐ 61 · Shell</sub>
+- [ExpertOpsAI/MedicalModelLibrary](https://github.com/ExpertOpsAI/MedicalModelLibrary) - 医療用途に合わせたAIモデルのコレクション。 <sub>⭐ 61 · Jupyter Notebook</sub>
+- [Nanboy-Ronan/awesome-medical-imaging-agents](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) - 医療用画像処理剤:放射線薬、病理学薬、セグメンテーション剤、医療VLMエージェント、自己進化する薬剤、ベンチマーク、データセット、ツール、紙。 <sub>⭐ 61 · Python</sub>
+- [Okes2024/AI-powered-Symptom-Checker-Chatbot](https://github.com/Okes2024/AI-powered-Symptom-Checker-Chatbot) - MLを使用して症状を分析するプロトタイプチャットボット, 合成データに基づいて可能な条件を提案. 教育のみ使用, 150 +の合成薬でAIの可能性を示す... <sub>⭐ 61 · Python</sub>
+- [microsoft/healthcare-ai-model-evaluator](https://github.com/microsoft/healthcare-ai-model-evaluator) - ヘルスケアAIモデル評価者(HAIME)は、医療組織が人工知能ソリューションを独自に評価・カスタマイズし、透明性、臨床関連性、現実世界の課題に対応できるようにしています。 <sub>⭐ 59 · TypeScript</sub>
+- [sociocom/JMED-LLM](https://github.com/sociocom/JMED-LLM) - JMED-LLM: 大型言語モデルの日本医療評価データセット <sub>⭐ 59 · Python</sub>
+- [alibaba-damo-academy/MedVR](https://github.com/alibaba-damo-academy/MedVR) - (ICLR'26) MedVR:無数の医学的視覚療法による非公式学習 <sub>⭐ 58 · Python</sub>
+- [amanjeetsahu/AI-for-Healthcare-Nanodegree](https://github.com/amanjeetsahu/AI-for-Healthcare-Nanodegree) - 患者の成果を変換する力を持つ予測モデルを構築、評価および統合することを学びます。 2Dと3D医療画像を分類し、セグメント化して拡張診断に始まり、その後... <sub>⭐ 58 · Jupyter Notebook</sub>
+- [doctolib-lab/doctobert](https://github.com/doctolib-lab/doctobert) - 医療用エンコーダー、硬化およびLML反射医療ウェブデータに傷から事前に訓練 <sub>⭐ 58 · Python</sub>
+- [imonishkumar/Symptom-Checker-Chatbot](https://github.com/imonishkumar/Symptom-Checker-Chatbot) - Symptom Checker Chatbot: 健康上の懸念事項に関する迅速な回答を受け取り、近くの医療センターを見つけましょう。 医療関連の問い合わせのためにAIが主導するPython、PyTorch、NLTKで構築されています。 <sub>⭐ 58 · HTML</sub>
+- [MedARC-AI/medmarks](https://github.com/MedARC-AI/medmarks) - 医療タスクの自動LLM評価スイート <sub>⭐ 58 · Python</sub>
+- [abdul-wahab619/AI-MedLab](https://github.com/abdul-wahab619/AI-MedLab) - AIベースの医療ラボは、人工知能(AI)、機械学習(ML)を目的とするプロジェクトで、実験室医学の質と効率性を向上させることができます。 3つのモジュールがあります... <sub>⭐ 57 · JavaScript</sub>
+- [lgy112112/PreProcPipe](https://github.com/lgy112112/PreProcPipe) - LLM-Automationによる簡単かつクリアなパイプラインで、誰でも医療イメージをプリプロセス <sub>⭐ 57 · Jupyter Notebook</sub>
+- [ljwztc/MedChain](https://github.com/ljwztc/MedChain) - 「MedChain:LMエージェントと現実世界臨床意思決定のギャップを埋める」リポジトリ <sub>⭐ 57 · Python</sub>
+- [WangRongsheng/IvyGPT](https://github.com/WangRongsheng/IvyGPT) - (CICAI 2023) 「医療領域におけるインタラクティブな中国道語モデル」の公式コード <sub>⭐ 57</sub>
+- [lich0031/AIDE](https://github.com/lich0031/AIDE) - AIDE: 自動医療画像のセグメンテーションのためのアノテーション効率の高い深層学習 <sub>⭐ 56 · Python</sub>
 
 ## 🩻 医用画像
 
 > 画像検査のセグメンテーション、診断、解析。
 
-- [bowang-lab/MedSAM](https://github.com/bowang-lab/MedSAM) - Segment Anything in Medical Images <sub>⭐ 4.4k · Jupyter Notebook</sub>
-- [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - A collection of loss functions for medical image segmentation <sub>⭐ 4.0k · Python</sub>
-- [Beckschen/TransUNet](https://github.com/Beckschen/TransUNet) - This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation. <sub>⭐ 3.2k · Python</sub>
-- [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - We are building an open database of COVID-19 cases with chest X-ray or CT images. <sub>⭐ 3.1k · Jupyter Notebook</sub>
-- [HiLab-git/SSL4MIS](https://github.com/HiLab-git/SSL4MIS) - Semi Supervised Learning for Medical Image Segmentation, a collection of literature reviews and code implementations. <sub>⭐ 2.7k · Python</sub>
-- [HuCaoFighting/Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet) - (ECCVW 2022) The codes for the work "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation" <sub>⭐ 2.4k · Python</sub>
-- [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - Awesome GAN for Medical Imaging <sub>⭐ 2.4k</sub>
-- [ellisdg/3DUnetCNN](https://github.com/ellisdg/3DUnetCNN) - Pytorch 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation <sub>⭐ 2.2k · Python</sub>
-- [amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) - Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal) <sub>⭐ 2.1k</sub>
-- [ozan-oktay/Attention-Gated-Networks](https://github.com/ozan-oktay/Attention-Gated-Networks) - Use of Attention Gates in a Convolutional Neural Network / Medical Image Classification and Segmentation <sub>⭐ 2.1k · Python</sub>
-- [black0017/MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch) - A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation <sub>⭐ 1.9k · Python</sub>
-- [JunMa11/SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg) - SOTA medical image segmentation methods based on various challenges <sub>⭐ 1.7k</sub>
-- [albarqouni/Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) - Deep Learning Papers on Medical Image Analysis <sub>⭐ 1.6k · TeX</sub>
-- [DLTK/DLTK](https://github.com/DLTK/DLTK) - Deep Learning Toolkit for Medical Image Analysis <sub>⭐ 1.5k · Python</sub>
-- [MedMNIST/MedMNIST](https://github.com/MedMNIST/MedMNIST) - (pip install medmnist) 18x Standardized Datasets for 2D and 3D Biomedical Image Classification <sub>⭐ 1.4k · Python</sub>
-- [ImprintLab/MedSegDiff](https://github.com/ImprintLab/MedSegDiff) - Using Diffusion Models to Segment/Reconstruct Organs from Medical Images (AAAI Most influential Paper) <sub>⭐ 1.4k · Python</sub>
-- [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on… <sub>⭐ 1.4k · Python</sub>
-- [ImprintLab/Medical-SAM-Adapter](https://github.com/ImprintLab/Medical-SAM-Adapter) - A lightweight adapter bridges SAM with medical imaging (MedIA) <sub>⭐ 1.3k · Python</sub>
-- [fahadshamshad/awesome-transformers-in-medical-imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) - A collection of resources on applications of Transformers in Medical Imaging. <sub>⭐ 1.3k</sub>
-- [mlmed/torchxrayvision](https://github.com/mlmed/torchxrayvision) - TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders. <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer. <sub>⭐ 1.1k · TypeScript</sub>
-- [YichiZhang98/SAM4MIS](https://github.com/YichiZhang98/SAM4MIS) - Segment Anything Model for Medical Image Segmentation: Open-Source Project Summary <sub>⭐ 1.1k</sub>
-- [Xiaoqi-Zhao-DLUT/MSNet-M2SNet](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet) - (MIR 2026 (M2SNet) & MICCAI 2022 GOALS Challenge & MICCAI 2021 (MSNet)) Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation <sub>⭐ 1.0k · Python</sub>
-- [richard-peng-xia/awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging. <sub>⭐ 982</sub>
-- [uni-medical/SAM-Med3D](https://github.com/uni-medical/SAM-Med3D) - SAM-Med3D: An Efficient General-purpose Promptable Segmentation Model for 3D Volumetric Medical Image <sub>⭐ 964 · Python</sub>
-- [ImprintLab/Medical-SAM2](https://github.com/ImprintLab/Medical-SAM2) - Medical SAM 2: Segment 3D Medical Images Via Segment Anything Model 2 <sub>⭐ 934 · Python</sub>
-- [ANTsX/ANTsPy](https://github.com/ANTsX/ANTsPy) - A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more. <sub>⭐ 889 · Python</sub>
-- [perone/medicaltorch](https://github.com/perone/medicaltorch) - A medical imaging framework for Pytorch <sub>⭐ 872 · Python</sub>
-- [JCruan519/VM-UNet](https://github.com/JCruan519/VM-UNet) - (ACM TOMM) This is the official code repository for "VM-UNet: Vision Mamba UNet for Medical Image Segmentation". <sub>⭐ 863 · Python</sub>
-- [jeya-maria-jose/Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer) - Official Pytorch Code for "Medical Transformer: Gated Axial-Attention for Medical Image Segmentation" - MICCAI 2021 <sub>⭐ 861 · Python</sub>
-- [dipy/dipy](https://github.com/dipy/dipy) - DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of… <sub>⭐ 847 · Python</sub>
-- [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning <sub>⭐ 822 · Python</sub>
-- [invesalius/invesalius3](https://github.com/invesalius/invesalius3) - 3D medical imaging reconstruction software <sub>⭐ 803 · Python</sub>
-- [MrGiovanni/ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis) - (MICCAI 2019 Young Scientist Award) (MedIA Best Paper Award) Models Genesis: self-supervised pre-training for 3D medical images. Learns transferable representations from unlabeled CT and MRI volumes… <sub>⭐ 794 · Jupyter Notebook</sub>
-- [AngeLouCN/Min_Max_Similarity](https://github.com/AngeLouCN/Min_Max_Similarity) - A contrastive learning based semi-supervised segmentation network for medical image segmentation <sub>⭐ 759 · Python</sub>
-- [mattmacy/vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) - A PyTorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation <sub>⭐ 759 · Python</sub>
-- [bowang-lab/MedSAM2](https://github.com/bowang-lab/MedSAM2) - MedSAM2: Segment Anything in 3D Medical Images and Videos <sub>⭐ 726 · Python</sub>
-- [junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) - TransMorph: Transformer for Unsupervised Medical Image Registration (PyTorch) <sub>⭐ 632 · Python</sub>
-- [DeepRegNet/DeepReg](https://github.com/DeepRegNet/DeepReg) - Medical image registration using deep learning <sub>⭐ 629 · Python</sub>
+- [bowang-lab/MedSAM](https://github.com/bowang-lab/MedSAM) - 医療画像のすべてをセグメント化 <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [JunMa11/SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey) - 医療画像のセグメンテーションのための損失機能の収集 <sub>⭐ 4.0k · Python</sub>
+- [Beckschen/TransUNet](https://github.com/Beckschen/TransUNet) - このリポジトリには、TransUNetの公式プロジェクトが書かれています。トランスント:トランスフォーマーは、医療画像のセグメンテーションのための強力なエンコーダーを作ります。 <sub>⭐ 3.2k · Python</sub>
+- [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - 胸X線やCT画像でCOVID-19のケースをオープンしたデータベースを構築しています。 <sub>⭐ 3.1k · Jupyter Notebook</sub>
+- [HiLab-git/SSL4MIS](https://github.com/HiLab-git/SSL4MIS) - 医療画像のセグメンテーション、文献レビューとコード実装のコレクションのためのセミ・スーパーバイスド・ラーニング。 <sub>⭐ 2.7k · Python</sub>
+- [HuCaoFighting/Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet) - (ECCVW 2022) 作業用コード「Swin-Unet:医療画像のセグメンテーションのための純正トランス」 <sub>⭐ 2.4k · Python</sub>
+- [xinario/awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - 医療用画像のための素晴らしいガン <sub>⭐ 2.4k</sub>
+- [ellisdg/3DUnetCNN](https://github.com/ellisdg/3DUnetCNN) - 医療画像のセグメンテーション用に設計されたPytorch 3D U-Netコンボリューションニューラルネットワーク(CNN) <sub>⭐ 2.2k · Python</sub>
+- [amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) - メディカルイメージングにおける拡散モデル(医療画像分析ジャーナルに掲載) <sub>⭐ 2.1k</sub>
+- [ozan-oktay/Attention-Gated-Networks](https://github.com/ozan-oktay/Attention-Gated-Networks) - 条件付きニューラルネットワーク/医療画像の分類およびセグメンテーションにおける注意ゲートの使用 <sub>⭐ 2.1k · Python</sub>
+- [black0017/MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch) - マルチモーダル2D/3D医療画像のセグメンテーションのためのピトーチベースのディープラーニングフレームワーク <sub>⭐ 1.9k · Python</sub>
+- [JunMa11/SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg) - 様々な課題に基づくSOTA医療画像のセグメンテーション手法 <sub>⭐ 1.7k</sub>
+- [albarqouni/Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) - 医療画像分析に関する深い学習論文 <sub>⭐ 1.6k · TeX</sub>
+- [DLTK/DLTK](https://github.com/DLTK/DLTK) - 医療画像分析のためのディープラーニングツールキット <sub>⭐ 1.5k · Python</sub>
+- [MedMNIST/MedMNIST](https://github.com/MedMNIST/MedMNIST) - (pipはmedmnistを取付けます) 2Dおよび3D生物医学のイメージ分類のための18x標準化されたデータセット <sub>⭐ 1.4k · Python</sub>
+- [ImprintLab/MedSegDiff](https://github.com/ImprintLab/MedSegDiff) - Diffusionモデルを使用して、医療画像(AAAIほとんどの影響力紙)からOrgansをセグメント化/再構築する <sub>⭐ 1.4k · Python</sub>
+- [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - 医療検出ツールキットには、マスクR-CNN、網膜ネット、網膜U-Netなどの一般的なオブジェクトディテクタの2D + 3D実装とトレーニングおよび推論フレームワークが搭載されています。 <sub>⭐ 1.4k · Python</sub>
+- [ImprintLab/Medical-SAM-Adapter](https://github.com/ImprintLab/Medical-SAM-Adapter) - 軽量アダプターは、医療イメージング(MedIA)でSAMをブリッジ <sub>⭐ 1.3k · Python</sub>
+- [fahadshamshad/awesome-transformers-in-medical-imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) - 医療用画像の変圧器の適用に関するリソースを収集します。 <sub>⭐ 1.3k</sub>
+- [mlmed/torchxrayvision](https://github.com/mlmed/torchxrayvision) - TorchXRayVision: チェストX線データセットとモデルのライブラリ。分類器、セグメンテーションおよびオートエンコーダー。 <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - コーナーストーンは、Webベースの医療画像アプリケーションを作成するために使用できるJavaScriptライブラリのセットです。 これは、OHIFビューアなどの放射線学アプリケーションを構築するためのフレームワークを提供します。 <sub>⭐ 1.1k · TypeScript</sub>
+- [YichiZhang98/SAM4MIS](https://github.com/YichiZhang98/SAM4MIS) - メディカルイメージのセグメンテーションのためのあらゆるモデルを区分して下さい:オープンソース プロジェクトの概要 <sub>⭐ 1.1k</sub>
+- [Xiaoqi-Zhao-DLUT/MSNet-M2SNet](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet) - (MIR 2026(M2SNet) & MICCAI 2022 GOALSチャレンジ&MCAI 2021(MSNet)) 医療画像のセグメンテーションのためのマルチスケール・サブトラクションネットワーク <sub>⭐ 1.0k · Python</sub>
+- [richard-peng-xia/awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) - 医療画像における多品種学習の応用に関するリソース集 <sub>⭐ 982</sub>
+- [uni-medical/SAM-Med3D](https://github.com/uni-medical/SAM-Med3D) - SAM-Med3D: 3D 容積測定の医学イメージのための有効な汎用的な分裂モデル <sub>⭐ 964 · Python</sub>
+- [ImprintLab/Medical-SAM2](https://github.com/ImprintLab/Medical-SAM2) - 医学SAM 2:区分のあらゆるモデル2による3D医学イメージを区分して下さい <sub>⭐ 934 · Python</sub>
+- [ANTsX/ANTsPy](https://github.com/ANTsX/ANTsPy) - Pythonで登録、セグメンテーションなどのアルゴリズムを使用して高速な医療画像解析ライブラリ。 <sub>⭐ 889 · Python</sub>
+- [perone/medicaltorch](https://github.com/perone/medicaltorch) - Pytorchのための医療画像フレームワーク <sub>⭐ 872 · Python</sub>
+- [JCruan519/VM-UNet](https://github.com/JCruan519/VM-UNet) - (ACM TOMM) 「VM-UNet:Vision Mamba UNet for Medical Image Segmentation」の公式コードリポジトリです。 <sub>⭐ 863 · Python</sub>
+- [jeya-maria-jose/Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer) - 「医療用変圧器:医学的画像のセグメンテーションのためのGated Axial-注意」の公式ピトルチコード - MICCAI 2021 <sub>⭐ 861 · Python</sub>
+- [dipy/dipy](https://github.com/dipy/dipy) - DIPYは、Pythonのパラゴン3D / 4D +医療イメージングライブラリです。 空間正規化、信号処理、機械学習、統計分析および可視化のための一般的な方法が含まれています... <sub>⭐ 847 · Python</sub>
+- [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse:深層学習を用いたイメージング問題の解決のためのPyTorchライブラリ <sub>⭐ 822 · Python</sub>
+- [invesalius/invesalius3](https://github.com/invesalius/invesalius3) - 3D医療画像再構築ソフトウェア <sub>⭐ 803 · Python</sub>
+- [MrGiovanni/ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis) - (MICCAI 2019ヤングサイエンティスト賞)(メディアベストペーパーアワード)モデル創世記:自己監修3D医療画像の事前トレーニング。 ラベルのないCTとMRIボリュームから譲渡可能な表現を学びます... <sub>⭐ 794 · Jupyter Notebook</sub>
+- [AngeLouCN/Min_Max_Similarity](https://github.com/AngeLouCN/Min_Max_Similarity) - 医療画像のセグメンテーションのための対照的な学習ベースの半指示されたセグメンテーションネットワーク <sub>⭐ 759 · Python</sub>
+- [mattmacy/vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) - V-NetのPyTorch実装: 容積測定医療画像のセグメンテーションのための完全な構造ニューラルネットワーク <sub>⭐ 759 · Python</sub>
+- [bowang-lab/MedSAM2](https://github.com/bowang-lab/MedSAM2) - MedSAM2: 3D医学のイメージおよびビデオで何かを区分して下さい <sub>⭐ 726 · Python</sub>
+- [junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) - TransMorph: 監視されていない医学の画像登録のための変圧器(PyTorch) <sub>⭐ 632 · Python</sub>
+- [DeepRegNet/DeepReg](https://github.com/DeepRegNet/DeepReg) - ディープラーニングを用いた医療画像登録 <sub>⭐ 629 · Python</sub>
 - [loli/medpy](https://github.com/loli/medpy) - Pythonでの医療画像処理 <sub>⭐ 623 · Jupyter Notebook</sub>
-- [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation" <sub>⭐ 611 · Python</sub>
-- [JJGO/UniverSeg](https://github.com/JJGO/UniverSeg) - UniverSeg: Universal Medical Image Segmentation <sub>⭐ 590 · Python</sub>
-- [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba) - SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation <sub>⭐ 577 · Python</sub>
-- [jeya-maria-jose/UNeXt-pytorch](https://github.com/jeya-maria-jose/UNeXt-pytorch) - Official Pytorch Code base for "UNeXt: MLP-based Rapid Medical Image Segmentation Network", MICCAI 2022 <sub>⭐ 571 · Python</sub>
-- [CUHK-AIM-Group/U-KAN](https://github.com/CUHK-AIM-Group/U-KAN) - (AAAI' 25) U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation <sub>⭐ 559 · Python</sub>
-- [Amshaker/unetr_plus_plus](https://github.com/Amshaker/unetr_plus_plus) - (IEEE TMI-2024) UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation <sub>⭐ 536 · Python</sub>
-- [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt) - (MICCAI 2023) MedNeXt is a fully ConvNeXt architecture for 3D medical image segmentation. <sub>⭐ 534 · Python</sub>
-- [basveeling/pcam](https://github.com/basveeling/pcam) - The PatchCamelyon (PCam) deep learning classification benchmark. <sub>⭐ 530 · Python</sub>
-- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: Localize and Segment Anything Model for 3D Medical Images <sub>⭐ 523 · Python</sub>
-- [WZH0120/SAM2-UNet](https://github.com/WZH0120/SAM2-UNet) - (VINT 2026) SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation <sub>⭐ 523 · Python</sub>
-- [FAST-Imaging/FAST](https://github.com/FAST-Imaging/FAST) - A framework for high-performance medical image processing, neural network inference and visualization <sub>⭐ 517 · C++</sub>
-- [BMEII-AI/RadImageNet](https://github.com/BMEII-AI/RadImageNet) - RadImageNet, a pre-trained convolutional neural networks trained solely from medical imaging to be used as the basis of transfer learning for medical imaging applications. <sub>⭐ 504 · Python</sub>
-- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis <sub>⭐ 495 · Jupyter Notebook</sub>
-- [uni-medical/Project-Imaging-X](https://github.com/uni-medical/Project-Imaging-X) - Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development <sub>⭐ 486 · Python</sub>
-- [junyuchen245/Transformer_for_medical_image_analysis](https://github.com/junyuchen245/Transformer_for_medical_image_analysis) - A collection of papers about Transformer in the field of medical image analysis. <sub>⭐ 472</sub>
-- [cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) - (ECCV'20) Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation (code&data-processing pipeline) <sub>⭐ 469 · Python</sub>
-- [BAAI-DCAI/M3D](https://github.com/BAAI-DCAI/M3D) - M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models <sub>⭐ 465 · Python</sub>
-- [sinAshish/Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention) - (JBHI) Code for our paper "Multi-scale Guided Attention for Medical Image Segmentation" <sub>⭐ 463 · Python</sub>
-- [pyushkevich/itksnap](https://github.com/pyushkevich/itksnap) - ITK-SNAP medical image segmentation tool <sub>⭐ 457 · C++</sub>
-- [Rubics-Xuan/TransBTS](https://github.com/Rubics-Xuan/TransBTS) - This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021. 2) TransBTSV2: Towards… <sub>⭐ 452 · Python</sub>
-- [MrBlankness/LightM-UNet](https://github.com/MrBlankness/LightM-UNet) - Pytorch implementation of "LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation" <sub>⭐ 448 · Python</sub>
-- [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - (ICLR 2024 oral; top 1.2%) Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes) <sub>⭐ 433 · Python</sub>
-- [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning. <sub>⭐ 426 · JavaScript</sub>
-- [frankkramer-lab/MIScnn](https://github.com/frankkramer-lab/MIScnn) - A framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning <sub>⭐ 423 · Python</sub>
-- [xamyzhao/brainstorm](https://github.com/xamyzhao/brainstorm) - Implementation of "Data augmentation using learned transforms for one-shot medical image segmentation" <sub>⭐ 405 · Python</sub>
-- [arnab39/FewShot_GAN-Unet3D](https://github.com/arnab39/FewShot_GAN-Unet3D) - Tensorflow implementation of our paper: Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning <sub>⭐ 400 · Python</sub>
-- [HUANGLIZI/LViT](https://github.com/HUANGLIZI/LViT) - (IEEE Transactions on Medical Imaging/TMI 2023) This repo is the official implementation of "LViT: Language meets Vision Transformer in Medical Image Segmentation" <sub>⭐ 392 · Python</sub>
-- [BAAI-DCAI/SegVol](https://github.com/BAAI-DCAI/SegVol) - The official code for "SegVol: Universal and Interactive Volumetric Medical Image Segmentation". <sub>⭐ 389 · Python</sub>
-- [adalca/neurite](https://github.com/adalca/neurite) - Neural networks toolbox focused on medical image analysis <sub>⭐ 375 · Python</sub>
-- [uni-medical/STU-Net](https://github.com/uni-medical/STU-Net) - The largest pre-trained medical image segmentation model (1.4B parameters) based on the largest public dataset (>100k annotations), up until April 2023. <sub>⭐ 373 · Python</sub>
-- [NITR098/Awesome-U-Net](https://github.com/NITR098/Awesome-U-Net) - Official repo for Medical Image Segmentation Review: The Success of U-Net <sub>⭐ 370 · Jupyter Notebook</sub>
-- [yifangao112/Camyla](https://github.com/yifangao112/Camyla) - Scaling Autonomous Research in Medical Image Segmentation <sub>⭐ 367 · Python</sub>
-- [SLDGroup/EMCAD](https://github.com/SLDGroup/EMCAD) - Official repository of CVPR 2024 paper "EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation" <sub>⭐ 354 · Python</sub>
-- [SimVascular/SimVascular](https://github.com/SimVascular/SimVascular) - A comprehensive opensource software package providing a complete pipeline from medical image data segmentation to patient specific blood flow simulation and analysis. <sub>⭐ 351 · C++</sub>
-- [junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) - Vision Transformer for 3D medical image registration (Pytorch) <sub>⭐ 350 · Python</sub>
-- [yhygao/CBIM-Medical-Image-Segmentation](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) - A PyTorch framework for medical image segmentation <sub>⭐ 344 · Python</sub>
-- [HiLab-git/DTC](https://github.com/HiLab-git/DTC) - Semi-supervised Medical Image Segmentation through Dual-task Consistency <sub>⭐ 338 · Python</sub>
-- [YtongXie/CoTr](https://github.com/YtongXie/CoTr) - (MICCAI2021) CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation <sub>⭐ 334 · Python</sub>
-- [Mycenae/PaperWeekly](https://github.com/Mycenae/PaperWeekly) - Papers for CNN, object detection, keypoint detection, semantic segmentation, medical image processing, SLAM, etc. <sub>⭐ 333</sub>
-- [mahmoodlab/PathomicFusion](https://github.com/mahmoodlab/PathomicFusion) - Fusing Histology and Genomics via Deep Learning - IEEE TMI <sub>⭐ 327 · Jupyter Notebook</sub>
-- [thtang/CheXNet-with-localization](https://github.com/thtang/CheXNet-with-localization) - Weakly Supervised Learning for Findings Detection in Medical Images <sub>⭐ 327 · Python</sub>
-- [yifangao112/DinoUNet](https://github.com/yifangao112/DinoUNet) - Official repository for Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation. (DINOv3) <sub>⭐ 324 · Python</sub>
-- [Beckschen/3D-TransUNet](https://github.com/Beckschen/3D-TransUNet) - This is the official repository for the paper "3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers" <sub>⭐ 321 · Python</sub>
-- [NKI-AI/direct](https://github.com/NKI-AI/direct) - Deep learning framework for MRI reconstruction <sub>⭐ 320 · Python</sub>
-- [zhaoziheng/SAT](https://github.com/zhaoziheng/SAT) - (npj Digital Medicine) The official repository for "Large-Vocabulary Segmentation for Medical Images with Text Prompts" <sub>⭐ 308 · Python</sub>
-- [xmindflow/Awesome-Foundation-Models-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging) - A curated list of foundation models for vision and language tasks in medical imaging <sub>⭐ 305</sub>
-- [bowang-lab/MedSAMSlicer](https://github.com/bowang-lab/MedSAMSlicer) - 3D Slicer Plugin for Segment anything in medical images <sub>⭐ 304 · Python</sub>
-- [carrenD/Medical-Cross-Modality-Domain-Adaptation](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation) - (IJCAI'18) Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss (code&data) <sub>⭐ 304 · Python</sub>
-- [AngeLouCN/DC-UNet](https://github.com/AngeLouCN/DC-UNet) - We proposed a novel U-Net-based model -- DC-UNet to do medical image segmentation. <sub>⭐ 300 · Python</sub>
-- [script-Yang/segdino](https://github.com/script-Yang/segdino) - SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3 <sub>⭐ 293 · Python</sub>
-- [Luffy03/Large-Scale-Medical](https://github.com/Luffy03/Large-Scale-Medical) - (TPAMI 2026) Large-Scale 3D Medical Image Pre-training with Geometric Context Priors <sub>⭐ 288 · Python</sub>
-- [marc-gorriz/CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) - Active Deep Learning for Medical Imaging Segmentation <sub>⭐ 280 · Python</sub>
-- [mazurowski-lab/finetune-SAM](https://github.com/mazurowski-lab/finetune-SAM) - This is an official repo for fine-tuning SAM to customized medical images. <sub>⭐ 279 · Python</sub>
-- [MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) - Free-Text Promptable Universal 3D Medical Image Segmentation <sub>⭐ 273 · Python</sub>
-- [xmindflow/deformableLKA](https://github.com/xmindflow/deformableLKA) - (WACV 2024) Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation <sub>⭐ 269 · Python</sub>
-- [yang-song/score_inverse_problems](https://github.com/yang-song/score_inverse_problems) - Official repo for "Solving Inverse Problems in Medical Imaging with Score-Based Generative Models" <sub>⭐ 269 · Python</sub>
-- [jibikbam/CNN-3D-images-Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow) - 3D image classification using CNN (Convolutional Neural Network) <sub>⭐ 267 · Python</sub>
-- [uni-medical/IMIS-Bench](https://github.com/uni-medical/IMIS-Bench) - Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline <sub>⭐ 265 · Jupyter Notebook</sub>
-- [liuquande/FedDG-ELCFS](https://github.com/liuquande/FedDG-ELCFS) - (CVPR'21) FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space <sub>⭐ 263 · Python</sub>
-- [ANTsX/ANTsPyNet](https://github.com/ANTsX/ANTsPyNet) - Pre-trained models and utilities for deep learning on medical images in Python (Keras/TensorFlow) <sub>⭐ 262 · Python</sub>
-- [nadeemlab/DeepLIIF](https://github.com/nadeemlab/DeepLIIF) - Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) (Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Histopathology'23, MICCAI'24, MICCAI'26) <sub>⭐ 262 · Python</sub>
-- [DebeshJha/ResUNetPlusPlus](https://github.com/DebeshJha/ResUNetPlusPlus) - Official code for ResUNetplusplus for medical image segmentation (TensorFlow & Pytorch implementation) <sub>⭐ 256 · Python</sub>
-- [Omid-Nejati/MedViT](https://github.com/Omid-Nejati/MedViT) - MedViT: A Robust Vision Transformer for Generalized Medical Image Classification (Computers in Biology and Medicine 2023) <sub>⭐ 252 · Python</sub>
-- [fepegar/awesome-medical-imaging](https://github.com/fepegar/awesome-medical-imaging) - Awesome list of software that I use to do research in medical imaging. <sub>⭐ 251</sub>
-- [marshuang80/gloria](https://github.com/marshuang80/gloria) - GLoRIA: A Multimodal Global-Local Representation Learning Framework forLabel-efficient Medical Image Recognition <sub>⭐ 249 · Python</sub>
-- [MediaBrain-SJTU/MVFA-AD](https://github.com/MediaBrain-SJTU/MVFA-AD) - (CVPR2024 Highlight) Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images <sub>⭐ 249 · Python</sub>
-- [HiLab-git/WSL4MIS](https://github.com/HiLab-git/WSL4MIS) - Scribbles or Points-based weakly-supervised learning for medical image segmentation, a strong baseline, and tutorial for research and application. <sub>⭐ 246 · Python</sub>
-- [milaan9/Python_Computer_Vision_from_Scratch](https://github.com/milaan9/Python_Computer_Vision_from_Scratch) - This repository explores the variety of techniques commonly used to analyze and interpret images. It also describes challenging real-world applications where vision is being successfully used, both… <sub>⭐ 246 · Jupyter Notebook</sub>
-- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - (ICCV 2023) A curated list of resources on implicit neural representations in Medical Imaging <sub>⭐ 241</sub>
-- [huangmozhilv/u2net_torch](https://github.com/huangmozhilv/u2net_torch) - MICCAI2019:3D U$^2$-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation <sub>⭐ 237 · Python</sub>
-- [Luffy03/VoCo](https://github.com/Luffy03/VoCo) - (CVPR 2024) VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis <sub>⭐ 236 · Python</sub>
-- [ricklisz/MedDINOv3](https://github.com/ricklisz/MedDINOv3) - MedDINOv3: How to adapt vision foundation models for medical image segmentation? <sub>⭐ 235 · Python</sub>
-- [Stanford-AIMI/CheXagent](https://github.com/Stanford-AIMI/CheXagent) - (Arxiv-2024) CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation <sub>⭐ 235 · Python</sub>
-- [uncbiag/uniGradICON](https://github.com/uncbiag/uniGradICON) - uniGradICON: A Foundation Model for Medical Image Registration (MICCAI 2024) <sub>⭐ 234 · Python</sub>
-- [AIM-Research-Lab/Medical-SAM3](https://github.com/AIM-Research-Lab/Medical-SAM3) - Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation <sub>⭐ 229 · Python</sub>
-- [askerlee/segtran](https://github.com/askerlee/segtran) - Medical Image Segmentation using Squeeze-and-Expansion Transformers <sub>⭐ 228 · Python</sub>
-- [ZexinYan/Medical-Report-Generation](https://github.com/ZexinYan/Medical-Report-Generation) - A pytorch implementation of On the Automatic Generation of Medical Imaging Reports. <sub>⭐ 225 · Python</sub>
-- [DeepMed-Lab-ECNU/BCP](https://github.com/DeepMed-Lab-ECNU/BCP) - Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation (CVPR 2023) <sub>⭐ 224 · Python</sub>
-- [mazurowski-lab/segmentation-guided-diffusion](https://github.com/mazurowski-lab/segmentation-guided-diffusion) - (MICCAI 2024) Easy diffusion models (optionally with segmentation guidance) for medical images and beyond. <sub>⭐ 224 · Python</sub>
-- [xmindflow/Awesome-Transformer-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging) - (MedIA Journal) An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites <sub>⭐ 224</sub>
-- [halleewong/ScribblePrompt](https://github.com/halleewong/ScribblePrompt) - (ECCV 2024) ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image <sub>⭐ 222 · Jupyter Notebook</sub>
-- [OSUPCVLab/SegFormer3D](https://github.com/OSUPCVLab/SegFormer3D) - Official Implementation of SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation (CVPR 2024) <sub>⭐ 220 · Python</sub>
-- [HennyJie/BrainGB](https://github.com/HennyJie/BrainGB) - Officially Accepted to IEEE Transactions on Medical Imaging (TMI, IF: 11.037) - Special Issue on Geometric Deep Learning in Medical Imaging. <sub>⭐ 219 · MATLAB</sub>
-- [aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models) - Accepted in CVPR 2023 <sub>⭐ 215 · Python</sub>
-- [Rayicer/TransFuse](https://github.com/Rayicer/TransFuse) - This repo holds the code of TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation <sub>⭐ 215 · Python</sub>
-- [med-air/3DSAM-adapter](https://github.com/med-air/3DSAM-adapter) - Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation <sub>⭐ 213 · Python</sub>
-- [mueller-franzes/medfusion](https://github.com/mueller-franzes/medfusion) - Implementation of Medfusion - A latent diffusion model for medical image synthesis. <sub>⭐ 210 · Python</sub>
-- [RichardObi/medigan](https://github.com/RichardObi/medigan) - medigan - A Python Library of Pretrained Generative Models for Medical Image Synthesis <sub>⭐ 206 · Python</sub>
-- [Issam28/Brain-tumor-segmentation](https://github.com/Issam28/Brain-tumor-segmentation) - A deep learning based approach for brain tumor MRI segmentation. <sub>⭐ 205 · Python</sub>
-- [tamasino52/UNETR](https://github.com/tamasino52/UNETR) - Unofficial code base for UNETR: Transformers for 3D Medical Image Segmentation <sub>⭐ 200 · Python</sub>
-- [yhygao/UTNet](https://github.com/yhygao/UTNet) - Official implementation of UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation <sub>⭐ 200 · Python</sub>
-- [ge-xing/Diff-UNet](https://github.com/ge-xing/Diff-UNet) - Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation. (using diffusion for 3D medical image segmentation) <sub>⭐ 199 · Python</sub>
-- [llmir/FedICRA](https://github.com/llmir/FedICRA) - The official implementation of the paper "Unifying and Personalizing Weakly-supervised Federated Medical Image Segmentation via Adaptive Representation and Aggregation". <sub>⭐ 199 · Python</sub>
-- [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet) - Official Code for *Mixed Transformer UNet for Medical Image Segmentation* <sub>⭐ 198 · Python</sub>
-- [perslev/MultiPlanarUNet](https://github.com/perslev/MultiPlanarUNet) - Multi-Planar UNet for autonomous segmentation of 3D medical images <sub>⭐ 197 · Python</sub>
-- [StanfordMIMI/MedVAE](https://github.com/StanfordMIMI/MedVAE) - (MIDL 2025) Efficient Automated Interpretation of Medical Images with Large-Scale Generalizable Autoencoders <sub>⭐ 197 · Python</sub>
-- [SUN-1024/DA-TransUnet](https://github.com/SUN-1024/DA-TransUnet) - DA-TransUNet: Combining Dual Attention of Position and Channel with Transformer U-net for Medical Image Segmentation <sub>⭐ 192 · Python</sub>
-- [xmuyzz/3D-CNN-PyTorch](https://github.com/xmuyzz/3D-CNN-PyTorch) - PyTorch implementation for 3D CNN models for medical image data (1 channel gray scale images). <sub>⭐ 191 · Python</sub>
-- [Duoduo-Qian/Medical-image-registration-Resources](https://github.com/Duoduo-Qian/Medical-image-registration-Resources) - Medical image registration related books, tutorials, papers, datasets, toolboxes and deep learning open source codes <sub>⭐ 190</sub>
-- [kleinzcy/SASSnet](https://github.com/kleinzcy/SASSnet) - Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images <sub>⭐ 190 · Python</sub>
-- [jongdory/ALDM](https://github.com/jongdory/ALDM) - (WACV 2024) Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study <sub>⭐ 189 · Python</sub>
-- [icon-lab/ResViT](https://github.com/icon-lab/ResViT) - Official Implementation of ResViT: Residual Vision Transformers for Multi-modal Medical Image Synthesis <sub>⭐ 186 · Python</sub>
-- [anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning](https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning) - Detecting Pneumonia in Chest X-ray Images using Convolutional Neural Network and Pretrained Models <sub>⭐ 185 · Jupyter Notebook</sub>
-- [krishnabits001/domain_specific_cl](https://github.com/krishnabits001/domain_specific_cl) - Code for NeurIPS 2020 article "Contrastive learning of global and local features for medical image segmentation with limited annotations" <sub>⭐ 184 · Python</sub>
-- [MediaBrain-SJTU/MedKLIP](https://github.com/MediaBrain-SJTU/MedKLIP) - The official code for MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training in Radiology. We propose to leverage medical specific knowledge enhancing language-image pre-training method… <sub>⭐ 183 · Python</sub>
-- [mlmed/chester-xray](https://github.com/mlmed/chester-xray) - Chester the AI Radiology Assistant <sub>⭐ 182 · JavaScript</sub>
-- [himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning) - # AD-Prediction Convolutional Neural Networks for Alzheimer's Disease Prediction Using Brain MRI Image ## Abstract Alzheimers disease (AD) is characterized by severe memory loss and cognitive… <sub>⭐ 177 · Python</sub>
-- [HiLab-git/CA-Net](https://github.com/HiLab-git/CA-Net) - Code for Comprehensive Attention Convolutional Neural Networks for Explainable Medical Image Segmentation. <sub>⭐ 176 · Python</sub>
-- [NYUMedML/CNN_design_for_AD](https://github.com/NYUMedML/CNN_design_for_AD) - Code for "Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs" <sub>⭐ 176 · Jupyter Notebook</sub>
-- [lelechen63/MRI-tumor-segmentation-Brats](https://github.com/lelechen63/MRI-tumor-segmentation-Brats) - MRI medical image segmentation <sub>⭐ 175 · Python</sub>
-- [mazurowski-lab/segment-anything-medical-evaluation](https://github.com/mazurowski-lab/segment-anything-medical-evaluation) - Code for "Segment Anything Model for Medical Image Analysis: an Experimental Study" in Medical Image Analysis <sub>⭐ 175 · Python</sub>
-- [Mengqi-Lei/ConDSeg](https://github.com/Mengqi-Lei/ConDSeg) - Implementation of the AAAI-2025 paper "ConDSeg: A General Medical Image Segmentation Framework via Contrast-Driven Feature Enhancement". <sub>⭐ 173 · Python</sub>
-- [scott-yjyang/DiffMIC](https://github.com/scott-yjyang/DiffMIC) - (MICCAI 2023) DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification <sub>⭐ 173 · Python</sub>
-- [AICONSlab/3DINO](https://github.com/AICONSlab/3DINO) - (npj Digital Medicine) A generalizable 3D framework and model for self-supervised learning in medical imaging <sub>⭐ 171 · Python</sub>
-- [yuhoo0302/Segment-Anything-Model-for-Medical-Images](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images) - Codes and models for Medical Image Analysis (MIA) 2023 paper. Segment Anything Model for Medical Images?. <sub>⭐ 171 · Python</sub>
-- [cvlab-stonybrook/SelfMedMAE](https://github.com/cvlab-stonybrook/SelfMedMAE) - Code for ISBI 2023 paper "Self Pre-training with Masked Autoencoders for Medical Image Classification and Segmentation" <sub>⭐ 169 · Python</sub>
-- [gorkemcanates/Dual-Cross-Attention](https://github.com/gorkemcanates/Dual-Cross-Attention) - Official Pytorch implementation of Dual Cross-Attention for Medical Image Segmentation <sub>⭐ 163 · Python</sub>
-- [Zyun-Y/DconnNet](https://github.com/Zyun-Y/DconnNet) - Codes for CVPR2023 paper "Directional Connectivity-based Segmentation of Medical Images" <sub>⭐ 158 · Python</sub>
-- [kondratevakate/mri-deep-learning-tools](https://github.com/kondratevakate/mri-deep-learning-tools) - Resurces for MRI images processing and deep learning in 3D <sub>⭐ 156</sub>
-- [cwmok/C2FViT](https://github.com/cwmok/C2FViT) - This is the official Pytorch implementation of "Affine Medical Image Registration with Coarse-to-Fine Vision Transformer" (CVPR 2022), written by Tony C. W. Mok and Albert C. S. Chung. <sub>⭐ 155 · Python</sub>
-- [ShanghaiTech-IMPACT/3D-MedDiffusion](https://github.com/ShanghaiTech-IMPACT/3D-MedDiffusion) - (IEEE TMI 2025) 3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation <sub>⭐ 154 · Python</sub>
-- [zhaoziheng/SAT-DS](https://github.com/zhaoziheng/SAT-DS) - The official repository to build SAT-DS, a medical data collection of over 72 public segmentation datasets, contains over 22K 3D images, 302K segmentation masks and 497 classes from 3 different… <sub>⭐ 154 · Python</sub>
-- [MIC-DKFZ/basic_unet_example](https://github.com/MIC-DKFZ/basic_unet_example) - An example project of how to use a U-Net for segmentation on medical images with PyTorch. <sub>⭐ 153 · Python</sub>
-- [whq-xxh/ADA4MIA](https://github.com/whq-xxh/ADA4MIA) - Awesome Active Domain Adaptation for Medical Image Analysis <sub>⭐ 153</sub>
-- [josedolz/HyperDenseNet](https://github.com/josedolz/HyperDenseNet) - This repository contains the code of HyperDenseNet, a hyper-densely connected CNN to segment medical images in multi-modal image scenarios. <sub>⭐ 152 · Python</sub>
-- [pyplati/platipy](https://github.com/pyplati/platipy) - Processing Library and Analysis Toolkit for Medical Imaging in Python <sub>⭐ 150 · Python</sub>
-- [amirhossein-kz/HiFormer](https://github.com/amirhossein-kz/HiFormer) - HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation (WACV 2023) <sub>⭐ 147 · Jupyter Notebook</sub>
-- [AICAN-Research/FAST-Pathology](https://github.com/AICAN-Research/FAST-Pathology) - Open-source software for deep learning-based digital pathology <sub>⭐ 146 · C++</sub>
-- [Thanos-DB/FullyConvolutionalTransformer](https://github.com/Thanos-DB/FullyConvolutionalTransformer) - (WACV 2023) Official implementation of The Fully Convolutional Transformer for Medical Image Segmentation <sub>⭐ 146 · Jupyter Notebook</sub>
-- [ImprintLab/one-prompt](https://github.com/ImprintLab/one-prompt) - One-Prompt to Segment All Medical Images (CVPR 2024) <sub>⭐ 145 · Python</sub>
-- [jackyko1991/vnet-tensorflow](https://github.com/jackyko1991/vnet-tensorflow) - Implementation of vnet in tensorflow for medical image segmentation <sub>⭐ 145 · Python</sub>
-- [Wuziyi616/CFUN](https://github.com/Wuziyi616/CFUN) - Combining Faster R-CNN and U-net for efficient medical image segmentation <sub>⭐ 145 · Python</sub>
-- [iitzco/deepbrain](https://github.com/iitzco/deepbrain) - Deep Learning tools for brain medical images <sub>⭐ 142 · Python</sub>
-- [IlliaOvcharenko/lung-segmentation](https://github.com/IlliaOvcharenko/lung-segmentation) - Lung segmentation for chest X-Ray images <sub>⭐ 142 · Jupyter Notebook</sub>
-- [wjh892521292/LKM-UNet](https://github.com/wjh892521292/LKM-UNet) - Large Kernel Vision Mamba UNet for Medical Image Segmentation <sub>⭐ 142 · Python</sub>
-- [nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow](https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow) - UNet is a fully convolutional network(FCN) that does image segmentation. Its goal is to predict each pixel's class. It is built upon the FCN and modified in a way that it yields better segmentation… <sub>⭐ 141 · Jupyter Notebook</sub>
-- [pfriedri/wdm-3d](https://github.com/pfriedri/wdm-3d) - (DGM4MICCAI'24, Oral) PyTorch implementation for "WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis" <sub>⭐ 141 · Python</sub>
-- [wurenkai/H-vmunet](https://github.com/wurenkai/H-vmunet) - (Neurocomputing) The official code for "H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation". <sub>⭐ 141 · Python</sub>
-- [Yaziwel/Restore-RWKV](https://github.com/Yaziwel/Restore-RWKV) - Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV <sub>⭐ 141 · Python</sub>
-- [qsyao/cuda_spatial_deform](https://github.com/qsyao/cuda_spatial_deform) - A fast tool to do image augmentation on GPU(especially elastic_deform), can be helpful to research on Medical Image. <sub>⭐ 139 · Cuda</sub>
-- [xhu248/AutoSAM](https://github.com/xhu248/AutoSAM) - finetuning SAM with non-promptable decoder on medical images <sub>⭐ 139 · Python</sub>
-- [CVxTz/medical_image_segmentation](https://github.com/CVxTz/medical_image_segmentation) - Medical image segmentation ( Eye vessel segmentation) <sub>⭐ 138 · Python</sub>
-- [openmedlab/MIU-VL](https://github.com/openmedlab/MIU-VL) - This is a repository for the ICLR2023 accepted paper -- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. <sub>⭐ 138</sub>
-- [Xiaoqi-Zhao-DLUT/Awesome-AI4X-NSCLR-Papers](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-AI4X-NSCLR-Papers) - A curated collection of AI+X papers published in Nature / Science / Cell / Lancet / Radiology and their flagship sub-journals <sub>⭐ 138</sub>
-- [FengheTan9/CMUNeXt](https://github.com/FengheTan9/CMUNeXt) - (ISBI 2024 Oral) Official Pytorch Code base for "CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion" <sub>⭐ 136 · Python</sub>
-- [FengheTan9/Medical-Image-Segmentation-Benchmarks](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks) - A Pytorch implement of medical image segmentation U-shape architecture benchmarks <sub>⭐ 135 · Python</sub>
-- [LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) - (MedIA) Paper list and source code for survey "A comprehensive survey on deep active learning in medical image analysis" <sub>⭐ 135 · Python</sub>
-- [liuquande/SRC-MT](https://github.com/liuquande/SRC-MT) - (TMI'20) Semi-supervised Medical Image Classification with Relation-driven Self-ensembling Model <sub>⭐ 135 · Python</sub>
-- [maju116/platypus](https://github.com/maju116/platypus) - Deep learning for medical image segmentation in R: 2D and 3D, DICOM and NIfTI, one specification. <sub>⭐ 134 · R</sub>
-- [yifangao112/DeSAM](https://github.com/yifangao112/DeSAM) - (MICCAI 2024) The official repository for DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation. <sub>⭐ 134 · Python</sub>
-- [BRAINSia/BRAINSTools](https://github.com/BRAINSia/BRAINSTools) - A suite of tools for medical image processing focused on brain analysis <sub>⭐ 132 · C++</sub>
-- [NVIDIA/clara-train-examples](https://github.com/NVIDIA/clara-train-examples) - Example notebooks demonstrating how to use Clara Train to build Medical Imaging Deep Learning models <sub>⭐ 132 · HTML</sub>
-- [Bala93/Multi-task-deep-network](https://github.com/Bala93/Multi-task-deep-network) - Usage of Multi-task deep learning network for semantic segmentation in medical images <sub>⭐ 131 · Python</sub>
-- [baumgach/PHiSeg-code](https://github.com/baumgach/PHiSeg-code) - Tensorflow Code for "PHiSeg: Capturing Uncertainty in Medical Image Segmentation", Proc. MICCAI 2019 <sub>⭐ 129 · Python</sub>
-- [HiLab-git/MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg) - (MedIA2021)MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning <sub>⭐ 129 · Python</sub>
-- [MaciejMazurowski/brain-segmentation](https://github.com/MaciejMazurowski/brain-segmentation) - Deep learning based skull stripping and FLAIR abnormality segmentation in brain MRI using U-Net <sub>⭐ 129 · Python</sub>
-- [ibrahimethemhamamci/CT2Rep](https://github.com/ibrahimethemhamamci/CT2Rep) - MICCAI 2024 & CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging <sub>⭐ 128 · Python</sub>
-- [kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans](https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans) - COVID-19 Detection Chest X-rays and CT scans: COVID-19 Detection based on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50, InceptionV3, Xception. The models were… <sub>⭐ 128 · Jupyter Notebook</sub>
-- [xmindflow/DAEFormer](https://github.com/xmindflow/DAEFormer) - (MICCAI 2023) DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation <sub>⭐ 128 · Python</sub>
-- [SII-WenjieLisjtu/CX-Mind](https://github.com/SII-WenjieLisjtu/CX-Mind) - CX-Mind: A Pioneering Multimodal Large Language Model for Interleaved Reasoning in Chest X-ray via Curriculum-Guided Reinforcement Learning <sub>⭐ 127 · Python</sub>
-- [DebeshJha/ResUNetPlusPlus-with-CRF-and-TTA](https://github.com/DebeshJha/ResUNetPlusPlus-with-CRF-and-TTA) - Official implementation of ResUNet++, CRF, and TTA for segmentation of medical images (IEEE JBIHI) <sub>⭐ 126 · Python</sub>
-- [han-liu/awesome-missing-modality-for-medical-images](https://github.com/han-liu/awesome-missing-modality-for-medical-images) - A comprehensive review of techniques to address the missing-modality problem for medical images <sub>⭐ 125</sub>
-- [ashna111/multimodal-image-fusion-to-detect-brain-tumors](https://github.com/ashna111/multimodal-image-fusion-to-detect-brain-tumors) - Multi-modal medical image fusion to detect brain tumors using MRI and CT images <sub>⭐ 124 · Jupyter Notebook</sub>
-- [frankkramer-lab/miseval](https://github.com/frankkramer-lab/miseval) - a metric library for Medical Image Segmentation EVALuation <sub>⭐ 123 · Jupyter Notebook</sub>
-- [UCSC-VLAA/SwinMM](https://github.com/UCSC-VLAA/SwinMM) - (MICCAI 2023) This repository includes the official implementation our paper "SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation" <sub>⭐ 123 · Python</sub>
-- [aildnont/covid-cxr](https://github.com/aildnont/covid-cxr) - Neural network model for classifying chest X-rays by presence of COVID-19 features <sub>⭐ 121 · Python</sub>
-- [huangyjhust/3D-RU-Net](https://github.com/huangyjhust/3D-RU-Net) - A SlidingWindow-Free Accurate and Fast 3D Medical Image Segmentation Framework <sub>⭐ 121 · Python</sub>
-- [DIAGNijmegen/pathology-whole-slide-data](https://github.com/DIAGNijmegen/pathology-whole-slide-data) - A package for working with whole-slide data including a fast batch iterator that can be used to train deep learning models. <sub>⭐ 119 · Python</sub>
-- [arcadelab/FastSAM3D](https://github.com/arcadelab/FastSAM3D) - Code for "FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images" <sub>⭐ 118 · Python</sub>
-- [ziyangwang007/CV-SSL-MIS](https://github.com/ziyangwang007/CV-SSL-MIS) - Exploring CNN and ViT for Semi-Supervised Medical Image Segmentation <sub>⭐ 118 · Python</sub>
-- [shaochuhan/medical-image-segmentation](https://github.com/shaochuhan/medical-image-segmentation) - A method for medical image segmentation and privacy protection based on the Unet model <sub>⭐ 117 · Python</sub>
-- [openmedlab/STU-Net](https://github.com/openmedlab/STU-Net) - The largest pre-trained medical image segmentation model (1.4B parameters) based on the largest public dataset (>100k annotations) to date. <sub>⭐ 116</sub>
-- [xmed-lab/GenericSSL](https://github.com/xmed-lab/GenericSSL) - NeurIPS 2023: Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation <sub>⭐ 116 · Python</sub>
-- [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization) - (IEEE-TMI'22) Causality-inspired Single-source Domain Generalization for Medical Image Segmentation (code&data-processing pipeline) <sub>⭐ 115 · Jupyter Notebook</sub>
-- [mahmoodlab/SISH](https://github.com/mahmoodlab/SISH) - Fast and scalable search of whole-slide images via self-supervised deep learning - Nature Biomedical Engineering <sub>⭐ 114 · Python</sub>
-- [ChrisMats/medical_transformers](https://github.com/ChrisMats/medical_transformers) - Public repo for the ICCV2021-CVAMD paper "Is it Time to Replace CNNs with Transformers for Medical Images?" <sub>⭐ 113 · Python</sub>
-- [mosaf/Awesome-DL-based-CS-MRI](https://github.com/mosaf/Awesome-DL-based-CS-MRI) - "Awesome DL-Based MRI Reconstruction" is a comprehensive, curated repository featuring resources, tools, and research papers focused on leveraging deep learning and compressed sensing to accelerate… <sub>⭐ 113</sub>
-- [obendidi/X-ray-classification](https://github.com/obendidi/X-ray-classification) - X-ray Images (Chest images) analysis and anomaly detection using Transfer learning with inception v2 <sub>⭐ 112 · Python</sub>
-- [zzzqzhou/Dual-Normalization](https://github.com/zzzqzhou/Dual-Normalization) - (CVPR‘22) Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization <sub>⭐ 110 · Python</sub>
-- [PeterYYZhang/few-shot-self-prompt-SAM](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM) - This is the official repo for "Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation" <sub>⭐ 109 · Python</sub>
-- [sevdaimany/YOLOv8-Medical-Imaging](https://github.com/sevdaimany/YOLOv8-Medical-Imaging) - This project uses YOLOv8 to perform tasks like classification, detection, and segmentation in medical images through a user-friendly interface. <sub>⭐ 109 · Python</sub>
-- [SsGood/MMGL](https://github.com/SsGood/MMGL) - Multi-modal Graph learning for Disease Prediction (IEEE Trans. on Medical imaging, TMI2022) <sub>⭐ 109 · Jupyter Notebook</sub>
-- [ziyangwang007/Awesome-Medical-Image-Segmentation-Dataset](https://github.com/ziyangwang007/Awesome-Medical-Image-Segmentation-Dataset) - A list of publicly available medical image segmentation dataset. <sub>⭐ 109</sub>
-- [Star-chy/ABD](https://github.com/Star-chy/ABD) - (CVPR 2024) Code for "Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation" <sub>⭐ 108 · Python</sub>
-- [duong-db/U-Lite](https://github.com/duong-db/U-Lite) - A lightweight CNN-based model for medical image segmentation. <sub>⭐ 107 · Python</sub>
-- [fitushar/3D-GuidedGradCAM-for-Medical-Imaging](https://github.com/fitushar/3D-GuidedGradCAM-for-Medical-Imaging) - This Repo containes the implemnetation of generating Guided-GradCAM for 3D medical Imaging using Nifti file in tensorflow 2.0. Different input files can be used in that case need to edit the input to… <sub>⭐ 107 · Python</sub>
-- [MIC-DKFZ/MITK-Diffusion](https://github.com/MIC-DKFZ/MITK-Diffusion) - MITK Diffusion - Official part of the Medical Imaging Interaction Toolkit <sub>⭐ 107 · C++</sub>
-- [MMIV-ML/fastMONAI](https://github.com/MMIV-ML/fastMONAI) - Simplifying deep learning for medical imaging <sub>⭐ 107 · Jupyter Notebook</sub>
-- [conscienceli/IterNet](https://github.com/conscienceli/IterNet) - IterNet: Retinal Image Segmentation Utilizing Structural Redundancy in Vessel Networks. High-accuracy medical retina (eye) image segmentation. <sub>⭐ 106 · Python</sub>
-- [Omid-Nejati/MedViTV2](https://github.com/Omid-Nejati/MedViTV2) - MedViTV2: Medical Image Classification with KAN-Integrated Transformers and Dilated Neighborhood Attention (Applied Soft Computing 2025) <sub>⭐ 106 · Jupyter Notebook</sub>
-- [slowvak/MachineLearningForMedicalImages](https://github.com/slowvak/MachineLearningForMedicalImages) - Example code on how to apply machine learning methods to medical images. Contains code (python and python notebooks) and data (DICOM) <sub>⭐ 106 · Jupyter Notebook</sub>
-- [TianBaoGe/DS-TransUNet](https://github.com/TianBaoGe/DS-TransUNet) - This repository contains the official code of DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation <sub>⭐ 105 · Python</sub>
-- [hustvl/EVA-X](https://github.com/hustvl/EVA-X) - (Nature Portfolio, npj DigitalMed) EVA-X: A foundation model for general chest X-ray analysis with self-supervised learning <sub>⭐ 104 · Python</sub>
-- [gregwchase/nih-chest-xray](https://github.com/gregwchase/nih-chest-xray) - Identifying diseases in chest X-rays using convolutional neural networks <sub>⭐ 103 · Jupyter Notebook</sub>
-- [Mauville/MedCLIP](https://github.com/Mauville/MedCLIP) - Medical image captioning using OpenAI's CLIP <sub>⭐ 103 · Jupyter Notebook</sub>
-- [sonal-bansal/Detection-and-Classification-of-Alzheimers-Disease](https://github.com/sonal-bansal/Detection-and-Classification-of-Alzheimers-Disease) - The purpose of this paper is to detect Alzheimer’s Disease using Deep Learning and Machine Learning algorithms on the early basis which is being further optimized using CSA(Crow Search Algorithm).… <sub>⭐ 103 · Jupyter Notebook</sub>
-- [cnulab/MediCLIP](https://github.com/cnulab/MediCLIP) - Official implementation of "MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection (MICCAI 2024 Early Accept)" <sub>⭐ 102 · Python</sub>
-- [tthinking/MATR](https://github.com/tthinking/MATR) - (IEEE TIP 2022) Official implementation of MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer <sub>⭐ 102 · Python</sub>
-- [jiwei0921/MRNet](https://github.com/jiwei0921/MRNet) - Code for CVPR 2021 paper. "Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling". <sub>⭐ 101 · Python</sub>
-- [JosephPB/XNet](https://github.com/JosephPB/XNet) - CNN implementation for medical X-Ray image segmentation <sub>⭐ 101 · Jupyter Notebook</sub>
-- [ratschlab/DeepSpot](https://github.com/ratschlab/DeepSpot) - DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution. <sub>⭐ 101 · Jupyter Notebook</sub>
-- [hamidriasat/UNet-3-Plus](https://github.com/hamidriasat/UNet-3-Plus) - A Full-Scale Connected UNet for Medical Image Segmentation <sub>⭐ 100 · Jupyter Notebook</sub>
-- [sunjesse/shape-attentive-unet](https://github.com/sunjesse/shape-attentive-unet) - Code for our paper SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation. https://arxiv.org/pdf/2001.07645v3.pdf published at MICCAI 2020. <sub>⭐ 100 · Python</sub>
-- [BWGZK/CycleMix](https://github.com/BWGZK/CycleMix) - (CVPR 2022) CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision <sub>⭐ 99 · Python</sub>
-- [chaoshengsc/medaudit](https://github.com/chaoshengsc/medaudit) - A NumPy-only toolkit for auditing attribute decodability and potential data leakage in frozen medical-image features. <sub>⭐ 99 · Python</sub>
-- [AdalbertoCq/Pathology-GAN](https://github.com/AdalbertoCq/Pathology-GAN) - Corresponding code of 'Quiros A.C., Murray-Smith R., Yuan K. Pathology GAN: Learning deep representations of cancer tissue. Proceedings of The 3rd International Conference on Medical Imaging with… <sub>⭐ 98 · Python</sub>
-- [Yore0/TTDG-MGM](https://github.com/Yore0/TTDG-MGM) - (CVPR 2025) Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation <sub>⭐ 98 · Python</sub>
-- [McGregorWwww/UDTransNet](https://github.com/McGregorWwww/UDTransNet) - This repo is the official implementation of 'Narrowing the semantic gaps in U-Net with learnable skip connections: The case of medical image segmentation' which is an improved journal version of… <sub>⭐ 97 · Python</sub>
-- [Harvard-Ophthalmology-AI-Lab/FairSeg](https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg) - (ICLR 2024) FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling <sub>⭐ 96 · Python</sub>
-- [hasan1292/mDDPM](https://github.com/hasan1292/mDDPM) - Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model <sub>⭐ 96 · Python</sub>
-- [SLDGroup/MK-UNet](https://github.com/SLDGroup/MK-UNet) - Official repository of ICCV 2025 CVAMD Oral paper: MK-UNet: Multi-kernel Lightweight CNN for Medical Image Segmentation <sub>⭐ 96 · Python</sub>
-- [icon-lab/I2I-Mamba](https://github.com/icon-lab/I2I-Mamba) - Official implementation of I2I-Mamba, an image-to-image translation model based on selective state spaces <sub>⭐ 95 · Python</sub>
-- [xq141839/DCSAU-Net](https://github.com/xq141839/DCSAU-Net) - (CIBM' 23): A deeper and more compact split-attention U-Net for medical image segmentation <sub>⭐ 95 · Python</sub>
-- [kenza-bouzid/TransUnet](https://github.com/kenza-bouzid/TransUnet) - This repo reproduces the results of TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation <sub>⭐ 94 · Jupyter Notebook</sub>
-- [mauro-nievoff/MultiCaRe_Dataset](https://github.com/mauro-nievoff/MultiCaRe_Dataset) - Open-source multimodal dataset: 98K+ clinical cases & 139K+ medical images from PubMed Central <sub>⭐ 94 · Jupyter Notebook</sub>
-- [MungoMeng/Registration-CorrMLP](https://github.com/MungoMeng/Registration-CorrMLP) - (CVPR2024 Best Paper Candidate) CorrMLP: Correlation-aware MLP-based networks for deformable medical image registration <sub>⭐ 94 · Python</sub>
-- [EsmeYi/UNet-CRF-RNN](https://github.com/EsmeYi/UNet-CRF-RNN) - Edge-aware U-Net with CRF-RNN layer for Medical Image Segmentation <sub>⭐ 93 · Python</sub>
-- [LaurentVeyssier/Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning](https://github.com/LaurentVeyssier/Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning) - Use Deep Learning model to diagnose 14 pathologies on Chest X-Ray and use GradCAM Model Interpretation Method <sub>⭐ 93 · Jupyter Notebook</sub>
-- [MedSegX/MedSegX-code](https://github.com/MedSegX/MedSegX-code) - (nature biomedical engineering 2025) Official code for paper: A generalist foundation model and database for open-world medical image segmentation (MedSegX) <sub>⭐ 93 · Python</sub>
-- [21Vipin/Medical-Image-Classification-using-deep-learning](https://github.com/21Vipin/Medical-Image-Classification-using-deep-learning) - Tumour is formed in human body by abnormal cell multiplication in the tissue. Early detection of tumors and classifying them to Benign and malignant tumours is important in order to prevent its… <sub>⭐ 92 · Python</sub>
-- [FengheTan9/CMU-Net](https://github.com/FengheTan9/CMU-Net) - (ISBI 2023) Official Pytorch implementation of "CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network" <sub>⭐ 92 · Python</sub>
-- [JunMa11/Diffusion-Models-in-MedIA](https://github.com/JunMa11/Diffusion-Models-in-MedIA) - A curated list of diffusion models in medical image analysis. <sub>⭐ 92</sub>
-- [MiguelMonteiro/VNet-Tensorflow](https://github.com/MiguelMonteiro/VNet-Tensorflow) - Tensorflow implementation of the V-Net architecture for medical imaging segmentation. <sub>⭐ 92 · Python</sub>
-- [obiyoag/BayeSeg](https://github.com/obiyoag/BayeSeg) - (MedIA Best Paper Award) Official implementation of MedIA paper "BayeSeg: Bayesian Modelling for Medical Image Segmentation with Interpretable Generalizability" <sub>⭐ 92 · Python</sub>
-- [omar-mohamed/GPT2-Chest-X-Ray-Report-Generation](https://github.com/omar-mohamed/GPT2-Chest-X-Ray-Report-Generation) - This is the implementation of the CDGPT2 model mentioned in our paper 'Automated Radiology Report Generation using Conditioned Transformers' <sub>⭐ 92 · Python</sub>
-- [HUANGLIZI/ScribFormer](https://github.com/HUANGLIZI/ScribFormer) - (IEEE Transactions on Medical Imaging/TMI 2024) This repository is the official implementation of the paper ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image… <sub>⭐ 91 · Python</sub>
-- [NVIDIA-Medtech/NV-Reason-CXR](https://github.com/NVIDIA-Medtech/NV-Reason-CXR) - NV-Reason-CXR-3B is a specialized vision-language model designed for medical reasoning and interpretation of chest X-ray images. <sub>⭐ 90 · Python</sub>
-- [Qiukunpeng/Siamese-Diffusion](https://github.com/Qiukunpeng/Siamese-Diffusion) - (CVPR 2025) Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation <sub>⭐ 89 · Python</sub>
-- [ycwu1997/D-Persona](https://github.com/ycwu1997/D-Persona) - Official Code for our CVPR 2024 Paper "Diversified and Personalized Multi-rater Medical Image Segmentation" (Highlight) <sub>⭐ 89 · Python</sub>
-- [UARK-AICV/SAM3D](https://github.com/UARK-AICV/SAM3D) - (ISBI 2024) An implementation of SAM3D which adapts Segment Anything Model for Volumetric Medical Image Segmentation <sub>⭐ 88 · Python</sub>
-- [BRML/CNNbasedMedicalSegmentation](https://github.com/BRML/CNNbasedMedicalSegmentation) - Code for reproducing the results of our paper on CNN-based medical image segmentation <sub>⭐ 87 · Python</sub>
-- [liguojie09/GroupKAN](https://github.com/liguojie09/GroupKAN) - Official PyTorch implementation of GroupKAN: Rethinking Nonlinearity with Grouped Spline-based KAN Modeling for Efficient Medical Image Segmentation. GroupKAN introduces Grouped KAN Transform and… <sub>⭐ 87 · Python</sub>
-- [Chen-Ziyang/VPTTA](https://github.com/Chen-Ziyang/VPTTA) - Code for (CVPR 2024) Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation. <sub>⭐ 86 · Python</sub>
-- [Shanghai-Aitrox-Technology/EfficientSegmentation](https://github.com/Shanghai-Aitrox-Technology/EfficientSegmentation) - Segmentation for medical image. <sub>⭐ 86 · Python</sub>
-- [SlicerDMRI/SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI) - Diffusion MRI analysis and visualization in 3D Slicer open source medical imaging platform. <sub>⭐ 86 · C++</sub>
-- [DlutMedimgGroup/AnatomySketch-Software](https://github.com/DlutMedimgGroup/AnatomySketch-Software) - A medical image segmentation software supporting user interventions and user-defined funtion extention <sub>⭐ 85 · C++</sub>
-- [hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation) - Repository containing code for "U-Net Fixed-Point Quantization for Medical Image Segmentation" paper at MICCAI2019 <sub>⭐ 84 · Python</sub>
-- [PengchengShi1220/NexToU](https://github.com/PengchengShi1220/NexToU) - NexToU: Efficient Topology-Aware U-Net for Medical Image Segmentation <sub>⭐ 84 · Python</sub>
-- [TopoXLab/TopoInteraction](https://github.com/TopoXLab/TopoInteraction) - This repository contains the implementation for our work "Learning Topological Interactions for Multi-Class Medical Image Segmentation", accepted to ECCV 2022 (Oral) <sub>⭐ 84 · Python</sub>
-- [zang0902/EM-Net](https://github.com/zang0902/EM-Net) - Official repository for EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation (MICCAI 2024) <sub>⭐ 84 · Python</sub>
-- [Barrett-python/DuAT](https://github.com/Barrett-python/DuAT) - DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation (PRCV) <sub>⭐ 83 · Python</sub>
-- [sotiraslab/AgileFormer](https://github.com/sotiraslab/AgileFormer) - This the repo for the paper tiltled "AgileFormer: Spatially Agile Transformer UNet for Medical Image Segmentation" <sub>⭐ 83 · Python</sub>
-- [PaddleCV-SIG/MedicalSeg](https://github.com/PaddleCV-SIG/MedicalSeg) - MedicalSeg is an easy-to-use 3D medical image segmentation toolkit that supports the whole segmentation process. Specially, We provide data preprocessing acceleration, high precision model on… <sub>⭐ 81 · Python</sub>
-- [btcrabb/SlideSeg](https://github.com/btcrabb/SlideSeg) - A Python module that produces image patches and annotation masks from whole slide images for deep learning in digital pathology. <sub>⭐ 80 · Jupyter Notebook</sub>
-- [gndlwch2w/msvm-unet](https://github.com/gndlwch2w/msvm-unet) - The official codes for the work "MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation". <sub>⭐ 80 · Python</sub>
-- [primebo1/FAMNet](https://github.com/primebo1/FAMNet) - (AAAI 25) FAMNet: Frequency-aware Matching Network for Cross-domain Few-shot Medical Image Segmentation <sub>⭐ 80 · Jupyter Notebook</sub>
-- [txchen-USTC/Zig-RiR](https://github.com/txchen-USTC/Zig-RiR) - (TMI 2025) Zig-RiR: Zigzag RWKV-in-RWKV for Efficient Medical Image Segmentation <sub>⭐ 80 · Python</sub>
-- [aehrc/cvt2distilgpt2](https://github.com/aehrc/cvt2distilgpt2) - Improving Chest X-Ray Report Generation by Leveraging Warm-Starting <sub>⭐ 79 · Python</sub>
-- [juntaoJianggavin/RWKV-UNet](https://github.com/juntaoJianggavin/RWKV-UNet) - Official PyTorch implementation of the paper "RWKV-UNet: Improving UNet with Long-Range Cooperation for Effective Medical Image Segmentation" <sub>⭐ 79 · Python</sub>
-- [Kaiseem/SLAug](https://github.com/Kaiseem/SLAug) - (AAAI 2023) Official PyTorch implementation of the paper "SLAug: Rethinking Data Augmentation for Single-source Domain Generalization in Medical Image Segmentation" <sub>⭐ 79 · Jupyter Notebook</sub>
-- [himashi92/Co-BioNet](https://github.com/himashi92/Co-BioNet) - (Nature Machine Intelligence Journal) Official pytorch implementation for Uncertainty-Guided Dual-Views for Semi-Supervised Volumetric Medical Image Segmentation <sub>⭐ 78 · Python</sub>
-- [lc82111/Active-Contour-Loss-pytorch](https://github.com/lc82111/Active-Contour-Loss-pytorch) - An unofficial pytorch implementation for "Learning Active Contour Models for Medical Image Segmentation" by Chen, Xu, et al. <sub>⭐ 77 · Jupyter Notebook</sub>
-- [ucwxb/I-MedSAM](https://github.com/ucwxb/I-MedSAM) - (ECCV2024) I-MedSAM: Implicit Medical Image Segmentation with Segment Anything <sub>⭐ 77 · Python</sub>
-- [Yanfeng-Zhou/SPC](https://github.com/Yanfeng-Zhou/SPC) - (BMVC2023) Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation <sub>⭐ 77 · Python</sub>
-- [joker-527/AAHN](https://github.com/joker-527/AAHN) - This is the source code of the paper Asymmetric Adaptive Heterogeneous Network for Multi-Modality Medical Image Segmentation <sub>⭐ 76 · Python</sub>
-- [HiLab-git/ACELoss](https://github.com/HiLab-git/ACELoss) - Implementations of "Learning Euler's Elastica Model for Medical Image Segmentation" <sub>⭐ 75 · Python</sub>
-- [Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain) - A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration, and Beyond <sub>⭐ 75</sub>
-- [openmedlab/SAM-Med2D](https://github.com/openmedlab/SAM-Med2D) - SAM-Med2D: Bridging the Gap between Natural Image Segmentation and Medical Image Segmentation <sub>⭐ 75 · Jupyter Notebook</sub>
-- [moucheng2017/Med-Noisy-Labels](https://github.com/moucheng2017/Med-Noisy-Labels) - (NeurIPS 2020) Disentangling Human Error from the Ground Truth in Segmentation of Medical Images <sub>⭐ 74 · Python</sub>
-- [Omid-Nejati/BEFUnet](https://github.com/Omid-Nejati/BEFUnet) - A Hybrid CNN-Transformer Architecture for Precise Medical Image Segmentation <sub>⭐ 74 · Python</sub>
-- [xmed-lab/DHC](https://github.com/xmed-lab/DHC) - MICCAI 2023: DHC: Dual-debiased Heterogeneous Co-training Framework for Class-imbalanced Semi-supervised Medical Image Segmentation <sub>⭐ 74 · Python</sub>
-- [aryakouroshi/Brain-tumor-detection](https://github.com/aryakouroshi/Brain-tumor-detection) - Implementation of medical image segmentation and deep learning framework with CNN and U-net <sub>⭐ 73 · Jupyter Notebook</sub>
-- [LIU-YUXI/FedFMS](https://github.com/LIU-YUXI/FedFMS) - (MICCAI2024) "FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation". A framework for fine-tuning SAM (Segment Anything) in the federated learning paradigm for medical image… <sub>⭐ 73 · Python</sub>
-- [naamiinepal/medvlsm](https://github.com/naamiinepal/medvlsm) - (MIDL 2024) Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models <sub>⭐ 73 · Python</sub>
-- [xiaofang007/CTO](https://github.com/xiaofang007/CTO) - (IPMI 2023, Medical Image Analysis) Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation <sub>⭐ 73 · Python</sub>
-- [yaoli/chest_xray_14](https://github.com/yaoli/chest_xray_14) - Benchmarks on NIH Chest X-ray 14 dataset <sub>⭐ 73</sub>
-- [CVML-KU/DyCON](https://github.com/CVML-KU/DyCON) - DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation (CVPR 2025) <sub>⭐ 72 · Python</sub>
-- [YichiZhang98/SemiSAM](https://github.com/YichiZhang98/SemiSAM) - (MedIA'25 / BIBM'24) SemiSAM+ / SemiSAM: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models <sub>⭐ 72 · Python</sub>
-- [ad12/meddlr](https://github.com/ad12/meddlr) - A flexible ML framework built to simplify medical image reconstruction and analysis experimentation. <sub>⭐ 71 · Python</sub>
-- [datawhalechina/med-imaging-primer](https://github.com/datawhalechina/med-imaging-primer) - A systematic guide from physical imaging principles(医学影像处理开源教程), reconstruction algorithms to deep learning post-processing. https://datawhalechina.github.io/med-imaging-primer <sub>⭐ 71 · Jupyter Notebook</sub>
-- [MIC-DKFZ/MultiTalent](https://github.com/MIC-DKFZ/MultiTalent) - Implemention of the Paper "MultiTalent: A Multi-Dataset Approach to Medical Image Segmentation" <sub>⭐ 71 · Python</sub>
-- [n0obcoder/NIH-Chest-X-Rays-Multi-Label-Image-Classification-In-Pytorch](https://github.com/n0obcoder/NIH-Chest-X-Rays-Multi-Label-Image-Classification-In-Pytorch) - Multi-Label Image Classification of Chest X-Rays In Pytorch <sub>⭐ 71 · Python</sub>
-- [xmindflow/MSA-2Net](https://github.com/xmindflow/MSA-2Net) - (BMVC 2024) Official repository of the paper titled "MSA^2 Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation" <sub>⭐ 71 · Python</sub>
-- [ANTsX/ANTsRNet](https://github.com/ANTsX/ANTsRNet) - Medical image analysis framework merging ANTsR and deep learning <sub>⭐ 70 · R</sub>
-- [lihaoliu-cambridge/unsupervised-medical-image-segmentation](https://github.com/lihaoliu-cambridge/unsupervised-medical-image-segmentation) - Code for "Contrastive Registration for Unsupervised Medical Image Segmentation". <sub>⭐ 70 · Python</sub>
-- [YazhouZhu19/RPT](https://github.com/YazhouZhu19/RPT) - (MICCAI 2023) Few-Shot Medical Image Segmentation via a Region-enhanced Prototypical Transformer <sub>⭐ 70 · Python</sub>
-- [armiro/COVID-CXNet](https://github.com/armiro/COVID-CXNet) - COVID-CXNet: Diagnosing COVID-19 in Frontal Chest X-ray Images using Deep Learning. Preprint available on arXiv: https://arxiv.org/abs/2006.13807 <sub>⭐ 69 · Jupyter Notebook</sub>
-- [CUHK-AIM-Group/DiffRect](https://github.com/CUHK-AIM-Group/DiffRect) - (MICCAI' 24) DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation <sub>⭐ 68 · Python</sub>
-- [xmindflow/LHUNet](https://github.com/xmindflow/LHUNet) - LHU-Net: A Lean Hybrid U-Net for Cost-efficient, High-performance Volumetric Medical Image Segmentation <sub>⭐ 68 · Python</sub>
-- [fxxJuses/MICFormer](https://github.com/fxxJuses/MICFormer) - implement of "Multimodal Information Interaction for Medical Image Segmentation." <sub>⭐ 67 · Python</sub>
-- [uni-medical/SAM-Med2D](https://github.com/uni-medical/SAM-Med2D) - SAM-Med2D: Bridging the Gap between Natural Image Segmentation and Medical Image Segmentation <sub>⭐ 67</sub>
-- [drkostas/3D-Semantic-Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) - Semantic Segmentation with Transformers on 3D Medical Images <sub>⭐ 66 · Jupyter Notebook</sub>
-- [FengheTan9/Mobile-U-ViT](https://github.com/FengheTan9/Mobile-U-ViT) - (ACM MM 2025) Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation <sub>⭐ 66 · Python</sub>
-- [hust-linyi/CAT-Net](https://github.com/hust-linyi/CAT-Net) - This is the official code of the paper "Few Shot Medical Image Segmentation with Cross Attention Transformer" <sub>⭐ 66 · Python</sub>
-- [lassoan/SlicerSegmentationRecipes](https://github.com/lassoan/SlicerSegmentationRecipes) - Recipes for common medical image segmentation tasks using 3D Slicer <sub>⭐ 66 · HTML</sub>
-- [PandaMia/Tuberculosis_recognition](https://github.com/PandaMia/Tuberculosis_recognition) - PyTorch TB chest X-ray classifier with a live demo and dataset artifact audit. <sub>⭐ 66 · Python</sub>
-- [sunfan-bvb/BoundaryDoULoss](https://github.com/sunfan-bvb/BoundaryDoULoss) - Code for Boundary Difference Over Union Loss For Medical Image Segmentation <sub>⭐ 65 · Python</sub>
-- [twni2016/Elastic-Boundary-Projection](https://github.com/twni2016/Elastic-Boundary-Projection) - Elastic Boundary Projection for 3D Medical Image Segmentation - CVPR 2019 <sub>⭐ 65 · Python</sub>
-- [Warvito/generative_chestxray](https://github.com/Warvito/generative_chestxray) - Repository to train Latent Diffusion Models on Chest X-ray data (MIMIC-CXR) using MONAI Generative Models <sub>⭐ 65 · Python</sub>
-- [zymissy/CCViM](https://github.com/zymissy/CCViM) - Merging Context Clustering with Visual State Space Models for Medical Image Segmentation <sub>⭐ 65 · Python</sub>
-- [arpanmangal/CovidAID](https://github.com/arpanmangal/CovidAID) - COVID-19 Detection Using Chest X-Ray <sub>⭐ 64 · Python</sub>
-- [black0017/ct-intensity-segmentation](https://github.com/black0017/ct-intensity-segmentation) - Introduction to medical image processing with Python: CT lung and vessel segmentation without labels https://theaisummer.com/medical-image-python <sub>⭐ 64 · Jupyter Notebook</sub>
-- [DLWK/EANet](https://github.com/DLWK/EANet) - (PR2022) The Code of “EANet: Iterative Edge Attention Network for Medical Image Segmentation” <sub>⭐ 64 · Python</sub>
-- [EagleMIT/EMKD](https://github.com/EagleMIT/EMKD) - The code of IEEE TMI paper Efficient Medical Image Segmentation Based on Knowledge Distillation <sub>⭐ 64 · Python</sub>
-- [OSUPCVLab/MobileUNETR](https://github.com/OSUPCVLab/MobileUNETR) - Official Implementation of MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation (ECCV2024) (Oral) <sub>⭐ 64 · Python</sub>
-- [yyliu01/TraCoCo](https://github.com/yyliu01/TraCoCo) - (TMI'24) Translation Consistent Semi-supervised Segmentation for 3D Medical Images <sub>⭐ 63 · Python</sub>
-- [ChongQingNoSubway/SelfReg-UNet](https://github.com/ChongQingNoSubway/SelfReg-UNet) - Code for the paper "SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation " <sub>⭐ 62 · Python</sub>
-- [microsoft/LLaVA-Rad](https://github.com/microsoft/LLaVA-Rad) - Official implementation of LLaVa-Rad, a small multimodal model for chest X-ray findings generation. <sub>⭐ 62 · Python</sub>
-- [MR-HosseinzadehTaher/BenchmarkTransferLearning](https://github.com/MR-HosseinzadehTaher/BenchmarkTransferLearning) - Official PyTorch Implementation and Pre-trained Models for Benchmarking Transfer Learning for Medical Image Analysis <sub>⭐ 62 · Python</sub>
-- [NUBagciLab/PaNSegNet](https://github.com/NUBagciLab/PaNSegNet) - Large-Scale Multi-Center CT and MRI Segmentation of Pancreas with Deep Learning <sub>⭐ 62 · Python</sub>
-- [rundherum/pymia](https://github.com/rundherum/pymia) - pymia: A Python package for data handling and evaluation in deep learning-based medical image analysis <sub>⭐ 62 · Python</sub>
-- [saiboxx/chexray-diffusion](https://github.com/saiboxx/chexray-diffusion) - Code for "Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis" @ PAKDD 2023 <sub>⭐ 62 · Python</sub>
-- [Corey-Zumar/MRI-Reconstruction](https://github.com/Corey-Zumar/MRI-Reconstruction) - An open source implementation of the deep learning platform for undersampled MRI reconstruction described by Hyun et. al. (https://arxiv.org/pdf/1709.02576.pdf) <sub>⭐ 61 · Python</sub>
-- [Digital-Dermatology/t-loss](https://github.com/Digital-Dermatology/t-loss) - Official code for Robust T-Loss for Medical Image Segmentation (MICCAI 2023) <sub>⭐ 61 · Python</sub>
-- [srinidhiPY/SSL_CR_Histo](https://github.com/srinidhiPY/SSL_CR_Histo) - Official code for "Self-Supervised driven Consistency Training for Annotation Efficient Histopathology Image Analysis" Published in Medical Image Analysis (MedIA) Journal, Oct, 2021. <sub>⭐ 61 · Python</sub>
-- [DeepTag/cardiac_tagging_motion_estimation](https://github.com/DeepTag/cardiac_tagging_motion_estimation) - A deep learning-based fully unsupervised method for cardiac tagging MRI motion tracking. <sub>⭐ 60 · JavaScript</sub>
-- [enochkan/vox2vox](https://github.com/enochkan/vox2vox) - 3D volume-to-volume generative adversarial network for medical image segmentation <sub>⭐ 60 · Python</sub>
-- [duttapallabi2907/U-VixLSTM](https://github.com/duttapallabi2907/U-VixLSTM) - Official Pytorch implementation of " Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation? " <sub>⭐ 59 · Python</sub>
-- [med-air/CMC](https://github.com/med-air/CMC) - This code is implementation of MICCAI 2024 "Robust Semi-Supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration" <sub>⭐ 59 · Python</sub>
-- [uci-cbcl/RP-Net](https://github.com/uci-cbcl/RP-Net) - Code for Recurrent Mask Refinement for Few-Shot Medical Image Segmentation (ICCV 2021). <sub>⭐ 59 · Python</sub>
-- [XuzheZ/MAPSeg](https://github.com/XuzheZ/MAPSeg) - (CVPR2024) MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling <sub>⭐ 59 · Python</sub>
-- [dewenzeng/positional_cl](https://github.com/dewenzeng/positional_cl) - code for paper Positional Contrastive Learning for Volumetric Medical Image Segmentation <sub>⭐ 58 · Python</sub>
-- [htylab/tigerbx](https://github.com/htylab/tigerbx) - Deep-learning framework for MRI segmentation <sub>⭐ 58 · Python</sub>
-- [ttumyche/UniXGen](https://github.com/ttumyche/UniXGen) - (CHIL 2024) ViewXGen: Vision-Language Generative Model for View-Specific Chest X-ray Generation <sub>⭐ 58 · Python</sub>
-- [WuJunde/PromptUNet](https://github.com/WuJunde/PromptUNet) - Interactive Medical Image Segmentation <sub>⭐ 58</sub>
-- [cherise215/advchain](https://github.com/cherise215/advchain) - (Medical Image Analysis) Adversarial Data Augmentation with Chained Differentiable Transformations (AdvChain) <sub>⭐ 57 · Jupyter Notebook</sub>
-- [Junelin2333/LanGuideMedSeg-MICCAI2023](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023) - Pytorch code of MICCAI 2023 Paper-Ariadne’s Thread : Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray images <sub>⭐ 57 · Python</sub>
-- [lucasrla/wsi-preprocessing](https://github.com/lucasrla/wsi-preprocessing) - Simple library for preprocessing histopathological whole-slide images (WSI) into tiles (a.k.a. patches) towards deep learning <sub>⭐ 57 · Python</sub>
-- [mist-medical/MIST](https://github.com/mist-medical/MIST) - MIST: A simple and scalable end-to-end framework for 3D medical imaging segmentation. <sub>⭐ 57 · Python</sub>
-- [apolanco3225/Data-Augmentation-and-Segmentation-with-GANs-for-Medical-Images](https://github.com/apolanco3225/Data-Augmentation-and-Segmentation-with-GANs-for-Medical-Images) - Generating randomized brain MRI images from random noise using a GAN. Additionally translating from one image domain to another with a conditional GAN (pix2pix): Segmenting brain anatomy - Generating… <sub>⭐ 56 · Jupyter Notebook</sub>
-- [LIVIAETS/MedicalImageSegmentation](https://github.com/LIVIAETS/MedicalImageSegmentation) - This repository aims at containing all the code employed at LIVIA to segment medical images. Mainly, our research focuses on bringind the expertise in deep learning and optimization techniques to the… <sub>⭐ 56 · Python</sub>
-- [Rahman-Motiur/MIST](https://github.com/Rahman-Motiur/MIST) - Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder <sub>⭐ 56 · Python</sub>
-- [Senyh/UCMT](https://github.com/Senyh/UCMT) - (IJCAI 2023) Co-training with High-Confidence Pseudo Labels for Semi-supervised Medical Image Segmentation <sub>⭐ 56 · Python</sub>
+- [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - 技術的なレポートの実装:「医療画像のセグメンテーションのためのカスタマイズされたセグメント何でもモデル」 <sub>⭐ 611 · Python</sub>
+- [JJGO/UniverSeg](https://github.com/JJGO/UniverSeg) - UniverSeg: 普遍的な医学のイメージの区分 <sub>⭐ 590 · Python</sub>
+- [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba) - SegMamba: 3D医学のイメージの区分のための長期シーケンシャル モデリング マンバ <sub>⭐ 577 · Python</sub>
+- [jeya-maria-jose/UNeXt-pytorch](https://github.com/jeya-maria-jose/UNeXt-pytorch) - 「UNeXt:MLPベースの急速な医学的画像の区分ネットワーク」のための公式Pytorchコード基盤、MCAI 2022 <sub>⭐ 571 · Python</sub>
+- [CUHK-AIM-Group/U-KAN](https://github.com/CUHK-AIM-Group/U-KAN) - (AAAI'25) 医学画像の区分および生成のための強いバックボーンを作って下さい <sub>⭐ 559 · Python</sub>
+- [Amshaker/unetr_plus_plus](https://github.com/Amshaker/unetr_plus_plus) - (IEEE TMI-2024) UNETR ++:効率的で正確な3D医療画像のセグメンテーションに着手 <sub>⭐ 536 · Python</sub>
+- [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt) - (MICCAI 2023) MedNeXtは、3D医療画像のセグメンテーションのための完全なConvNeXtアーキテクチャです。 <sub>⭐ 534 · Python</sub>
+- [basveeling/pcam](https://github.com/basveeling/pcam) - PatchCamelyon (PCam) ディープラーニングの分類ベンチマーク。 <sub>⭐ 530 · Python</sub>
+- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: 3D 医学のイメージのためのあらゆるモデルをローカライズし、区分して下さい <sub>⭐ 523 · Python</sub>
+- [WZH0120/SAM2-UNet](https://github.com/WZH0120/SAM2-UNet) - (VINT 2026) SAM2-UNet: セグメント別 2 自然と医療画像のセグメンテーションのための強力なエンコーダを作る <sub>⭐ 523 · Python</sub>
+- [FAST-Imaging/FAST](https://github.com/FAST-Imaging/FAST) - 高性能な医療画像処理、ニューラルネットワークの推論と視覚化のためのフレームワーク <sub>⭐ 517 · C++</sub>
+- [BMEII-AI/RadImageNet](https://github.com/BMEII-AI/RadImageNet) - 医療用画像からのみ訓練された、事前に訓練された複雑なネットワークであるRadImageNetは、医療イメージングアプリケーションのための学習を転送する基礎として使用されます。 <sub>⭐ 504 · Python</sub>
+- [FirasGit/medicaldiffusion](https://github.com/FirasGit/medicaldiffusion) - 医学の拡散: このリポジトリは私達のペーパー医学の拡散にコードを含んでいます: 3D 医療画像合成のためのDiffusion Probabilisticモデルを解凍して下さい <sub>⭐ 495 · Jupyter Notebook</sub>
+- [uni-medical/Project-Imaging-X](https://github.com/uni-medical/Project-Imaging-X) - プロジェクトイメージングX:1000以上のオープンアクセス型医療用画像データセットの調査 <sub>⭐ 486 · Python</sub>
+- [junyuchen245/Transformer_for_medical_image_analysis](https://github.com/junyuchen245/Transformer_for_medical_image_analysis) - 医療画像解析の分野におけるトランスに関する論文集です。 <sub>⭐ 472</sub>
+- [cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) - (ECCV'20) スーパーピクセルによる自己監理: Annotation なしのトレーニング・フュード・ショット・メディカル・イメージのセグメンテーション(code&data-processingパイプライン) <sub>⭐ 469 · Python</sub>
+- [BAAI-DCAI/M3D](https://github.com/BAAI-DCAI/M3D) - M3D: 複数のモーダル大国モデルと 3 D 医療画像解析の高度化 <sub>⭐ 465 · Python</sub>
+- [sinAshish/Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention) - (JBHI) 当社の紙「医療画像の区分に関する多角的な注意」コード <sub>⭐ 463 · Python</sub>
+- [pyushkevich/itksnap](https://github.com/pyushkevich/itksnap) - ITK-SNAP 医療画像のセグメンテーションツール <sub>⭐ 457 · C++</sub>
+- [Rubics-Xuan/TransBTS](https://github.com/Rubics-Xuan/TransBTS) - このリポジトリは、MICCAI2021によって受け入れられるトランス(https://arxiv.org/abs/2103.04430)を使用して、マルチモーダル脳腫瘍セグメンテーションのための公式コードを提供します。 2)TransBTSV2:前方... <sub>⭐ 452 · Python</sub>
+- [MrBlankness/LightM-UNet](https://github.com/MrBlankness/LightM-UNet) - 「LightM-UNet:医療画像のセグメンテーションのための軽量UNetでのMambaアシスト」のPytorch実装 <sub>⭐ 448 · Python</sub>
+- [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - (ICLR 2024オーラル;トップ1.2%) 医療画像分析のための事前訓練された3Dモデル(9,262 CTのボリューム+ 25アノテーションクラス) <sub>⭐ 433 · Python</sub>
+- [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels) - HLSの医療画像、文書、zipファイルの簡単な大規模処理を容易にします。 OHIFビューア、2つのセグメンテーションモデルとインタラクティブな学習。 <sub>⭐ 426 · JavaScript</sub>
+- [frankkramer-lab/MIScnn](https://github.com/frankkramer-lab/MIScnn) - 神経ネットワークとディープラーニングによる医療画像のセグメンテーションのためのフレームワーク <sub>⭐ 423 · Python</sub>
+- [xamyzhao/brainstorm](https://github.com/xamyzhao/brainstorm) - 「1ショットの医療画像セグメンテーションのための変換を用いたデータ集計」の実施 <sub>⭐ 405 · Python</sub>
+- [arnab39/FewShot_GAN-Unet3D](https://github.com/arnab39/FewShot_GAN-Unet3D) - 私たちの論文のTensorflow実装: 遺伝子管理学習を用いたFew-shot 3Dマルチモーダルメディカルイメージセグメンテーション <sub>⭐ 400 · Python</sub>
+- [HUANGLIZI/LViT](https://github.com/HUANGLIZI/LViT) - (医療画像/TMI 2023)に関するIEEE取引は、「LViT:言語が医学的イメージの分節におけるビジョントランスを満たしている」という公式実装です。 <sub>⭐ 392 · Python</sub>
+- [BAAI-DCAI/SegVol](https://github.com/BAAI-DCAI/SegVol) - 「SegVol: Universal and Interactive Volumetric Medical Image Segmentation」の公式コードです。 <sub>⭐ 389 · Python</sub>
+- [adalca/neurite](https://github.com/adalca/neurite) - 医療画像分析に重点を置いたニューラルネットワークツールボックス <sub>⭐ 375 · Python</sub>
+- [uni-medical/STU-Net](https://github.com/uni-medical/STU-Net) - 最大の公開データセット(100kアノテーション)に基づく最大規模の事前訓練された医療画像セグメンテーションモデル(1.4Bパラメータ)は、最大4月2023日までです。 <sub>⭐ 373 · Python</sub>
+- [NITR098/Awesome-U-Net](https://github.com/NITR098/Awesome-U-Net) - 医療画像のセグメンテーションレビューのための公式レポ:U-Netの成功 <sub>⭐ 370 · Jupyter Notebook</sub>
+- [yifangao112/Camyla](https://github.com/yifangao112/Camyla) - 医療画像のセグメンテーションにおける自動研究のスケーリング <sub>⭐ 367 · Python</sub>
+- [SLDGroup/EMCAD](https://github.com/SLDGroup/EMCAD) - CVPR 2024紙「EMCAD:医療画像のセグメンテーションのための効率的なマルチスケールコンボレーションデコード」の公式リポジトリ <sub>⭐ 354 · Python</sub>
+- [SimVascular/SimVascular](https://github.com/SimVascular/SimVascular) - 医療画像データセグメンテーションから患者固有の血流シミュレーションと分析までの完全なパイプラインを提供する包括的なオープンソースソフトウェアパッケージ。 <sub>⭐ 351 · C++</sub>
+- [junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) - 3D医療画像登録用ビジョントランス(Pytorch) <sub>⭐ 350 · Python</sub>
+- [yhygao/CBIM-Medical-Image-Segmentation](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) - 医療画像のセグメンテーションのためのPyTorchフレームワーク <sub>⭐ 344 · Python</sub>
+- [HiLab-git/DTC](https://github.com/HiLab-git/DTC) - 二重タスクの一貫性による半指示された医学的イメージの区分 <sub>⭐ 338 · Python</sub>
+- [YtongXie/CoTr](https://github.com/YtongXie/CoTr) - (MICCAI2021) CoTr:3D医学のイメージの区分のための効率的にCNNおよび変圧器を結合して下さい <sub>⭐ 334 · Python</sub>
+- [Mycenae/PaperWeekly](https://github.com/Mycenae/PaperWeekly) - CNN、物体検出、キーポイント検知、セマンティックセグメンテーション、医療画像処理、SLAMなど <sub>⭐ 333</sub>
+- [mahmoodlab/PathomicFusion](https://github.com/mahmoodlab/PathomicFusion) - ディープラーニングによるヒストロジーとゲノムの融合 - IEEE TMI <sub>⭐ 327 · Jupyter Notebook</sub>
+- [thtang/CheXNet-with-localization](https://github.com/thtang/CheXNet-with-localization) - 医学画像の検出を調べるための弱く指示された学習 <sub>⭐ 327 · Python</sub>
+- [yifangao112/DinoUNet](https://github.com/yifangao112/DinoUNet) - Dino U-Netの公式リポジトリ: 医学画像セグメンテーションのためのファンデーションからの高い機能を搭載する促進。 (DINOv3) <sub>⭐ 324 · Python</sub>
+- [Beckschen/3D-TransUNet](https://github.com/Beckschen/3D-TransUNet) - これは、紙「3Dトランネット:ビジョントランスを介した医療画像のセグメンテーションを強化する」ための公式リポジトリです。 <sub>⭐ 321 · Python</sub>
+- [NKI-AI/direct](https://github.com/NKI-AI/direct) - MRI再構築のためのディープラーニングフレームワーク <sub>⭐ 320 · Python</sub>
+- [zhaoziheng/SAT](https://github.com/zhaoziheng/SAT) - (npj デジタル薬) 「テキストプロンプトで医療画像の大規模分節」のための公式リポジトリ <sub>⭐ 308 · Python</sub>
+- [xmindflow/Awesome-Foundation-Models-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging) - 医療画像における視線・言語タスクの基礎モデルのキュレーションリスト <sub>⭐ 305</sub>
+- [bowang-lab/MedSAMSlicer](https://github.com/bowang-lab/MedSAMSlicer) - 3D Slicer のプラグインは、医療画像で何かをセグメント化します <sub>⭐ 304 · Python</sub>
+- [carrenD/Medical-Cross-Modality-Domain-Adaptation](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation) - (IJCAI'18) アドバーサリアロス(コード&データ)による、コンブネットの非監視型横断ドメイン適応 <sub>⭐ 304 · Python</sub>
+- [AngeLouCN/DC-UNet](https://github.com/AngeLouCN/DC-UNet) - 新規のU-Netベースのモデルを提案しました。医療画像のセグメンテーションを行うDC-UNetです。 <sub>⭐ 300 · Python</sub>
+- [script-Yang/segdino](https://github.com/script-Yang/segdino) - SegDINO:DINO-V3との医学および自然なイメージの区分のための有効な設計 <sub>⭐ 293 · Python</sub>
+- [Luffy03/Large-Scale-Medical](https://github.com/Luffy03/Large-Scale-Medical) - (TPAMI 2026) 幾何学的なコンテキスト優先順位と大型3D医療画像事前トレイン <sub>⭐ 288 · Python</sub>
+- [marc-gorriz/CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) - 医学のイメージ投射の区分のための活動的な深い学習 <sub>⭐ 280 · Python</sub>
+- [mazurowski-lab/finetune-SAM](https://github.com/mazurowski-lab/finetune-SAM) - これは、カスタマイズされた医療画像にSAMを微調整するための公式レポです。 <sub>⭐ 279 · Python</sub>
+- [MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) - 自由テキストの敏速な普遍的な3D医学のイメージの区分 <sub>⭐ 273 · Python</sub>
+- [xmindflow/deformableLKA](https://github.com/xmindflow/deformableLKA) - (WACV 2024) 自己注意を超えて:医療画像のセグメンテーションのための変形性大型カーネル保持 <sub>⭐ 269 · Python</sub>
+- [yang-song/score_inverse_problems](https://github.com/yang-song/score_inverse_problems) - 「医療画像における副作用の解決とスコアベースの遺伝子モデル」のための公式リポジトリ <sub>⭐ 269 · Python</sub>
+- [jibikbam/CNN-3D-images-Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow) - CNNを用いた3D画像分類(従来のニューラルネットワーク) <sub>⭐ 267 · Python</sub>
+- [uni-medical/IMIS-Bench](https://github.com/uni-medical/IMIS-Bench) - インタラクティブな医療画像のセグメンテーション:ベンチマークデータセットとベースライン <sub>⭐ 265 · Jupyter Notebook</sub>
+- [liuquande/FedDG-ELCFS](https://github.com/liuquande/FedDG-ELCFS) - (CVPR'21) FedDG: 継続的周波数空間でのEpisodic学習による医療画像のセグメンテーションに関するフェデレーションドメインの一般化 <sub>⭐ 263 · Python</sub>
+- [ANTsX/ANTsPyNet](https://github.com/ANTsX/ANTsPyNet) - Python(Keras/TensorFlow)の医療画像に関する深い学習のための事前訓練されたモデルとユーティリティ <sub>⭐ 262 · Python</sub>
+- [nadeemlab/DeepLIIF](https://github.com/nadeemlab/DeepLIIF) - IHC画像定量化(https://deepliif.org)のための深い学習推論マルチプレックスImmunoFluorescence (Nature Machine Intelligence'22、CVPR'22、MICCAI'23、Histtopathology'23、MICCAI'24、MICCAI'26) <sub>⭐ 262 · Python</sub>
+- [DebeshJha/ResUNetPlusPlus](https://github.com/DebeshJha/ResUNetPlusPlus) - ResUNetplusの医療画像セグメンテーションのための公式コード(TensorFlow&Pytorch実装) <sub>⭐ 256 · Python</sub>
+- [Omid-Nejati/MedViT](https://github.com/Omid-Nejati/MedViT) - MedViT: 総合医療画像分類のための強力なビジョントランス (生物学と医学のコンピュータ 2023) <sub>⭐ 252 · Python</sub>
+- [fepegar/awesome-medical-imaging](https://github.com/fepegar/awesome-medical-imaging) - 医学的イメージングの研究を行うために使用するソフトウェアの素晴らしいリスト。 <sub>⭐ 251</sub>
+- [marshuang80/gloria](https://github.com/marshuang80/gloria) - GLoRIA: 多動的グローバルローカル表現学習フレームワーク forLabel-効率的な医療画像認識 <sub>⭐ 249 · Python</sub>
+- [MediaBrain-SJTU/MVFA-AD](https://github.com/MediaBrain-SJTU/MVFA-AD) - (CVPR2024 Highlight) 医療画像における汎用性異常検出のための視覚言語モデルを適応させる <sub>⭐ 249 · Python</sub>
+- [HiLab-git/WSL4MIS](https://github.com/HiLab-git/WSL4MIS) - 医学画像のセグメンテーション、強力なベースライン、および研究とアプリケーションのためのチュートリアルのためのスクリブルやポイントベースの弱体的学習。 <sub>⭐ 246 · Python</sub>
+- [milaan9/Python_Computer_Vision_from_Scratch](https://github.com/milaan9/Python_Computer_Vision_from_Scratch) - このリポジトリは、画像の分析と解釈に一般的に使用されるさまざまな技術を探ります。 また、視覚が正常に使用されている現実的なアプリケーションも説明しています。 <sub>⭐ 246 · Jupyter Notebook</sub>
+- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - (ICCV 2023) 医療画像における暗黙の神経表現に関するリソースのキュレーションリスト <sub>⭐ 241</sub>
+- [huangmozhilv/u2net_torch](https://github.com/huangmozhilv/u2net_torch) - MICCAI2019:3D U $ ^ 2$-Net:マルチドメイン医療画像のセグメンテーションのための3DユニバーサルUネット <sub>⭐ 237 · Python</sub>
+- [Luffy03/VoCo](https://github.com/Luffy03/VoCo) - (CVPR 2024) VoCo: 3D医療画像解析のためのシンプルで効果的なボリューム対物学習フレームワーク <sub>⭐ 236 · Python</sub>
+- [ricklisz/MedDINOv3](https://github.com/ricklisz/MedDINOv3) - MedDINOv3:医学のイメージの区分のための視野の基礎モデルを合わせる方法か。 <sub>⭐ 235 · Python</sub>
+- [Stanford-AIMI/CheXagent](https://github.com/Stanford-AIMI/CheXagent) - (Arxiv-2024) CheXagent:Chest X-Ray Interpretationのファンデーションモデルへ <sub>⭐ 235 · Python</sub>
+- [uncbiag/uniGradICON](https://github.com/uncbiag/uniGradICON) - uniGradICON: 医療画像登録の基礎モデル(MICCAI 2024) <sub>⭐ 234 · Python</sub>
+- [AIM-Research-Lab/Medical-SAM3](https://github.com/AIM-Research-Lab/Medical-SAM3) - 医学SAM3:普遍的なプロンプト主導の医学のイメージの区分のための基礎モデル <sub>⭐ 229 · Python</sub>
+- [askerlee/segtran](https://github.com/askerlee/segtran) - スクイーズと拡張トランスを用いた医療画像のセグメンテーション <sub>⭐ 228 · Python</sub>
+- [ZexinYan/Medical-Report-Generation](https://github.com/ZexinYan/Medical-Report-Generation) - メディカルイメージングレポートの自動生成におけるピトルチ実装。 <sub>⭐ 225 · Python</sub>
+- [DeepMed-Lab-ECNU/BCP](https://github.com/DeepMed-Lab-ECNU/BCP) - 半指示された医学のイメージの区分のための二方向コピーペースト(CVPR 2023) <sub>⭐ 224 · Python</sub>
+- [mazurowski-lab/segmentation-guided-diffusion](https://github.com/mazurowski-lab/segmentation-guided-diffusion) - (MICCAI 2024) 医学画像およびそれ以上のための容易な拡散モデル(任意に区分の指導と)。 <sub>⭐ 224 · Python</sub>
+- [xmindflow/Awesome-Transformer-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging) - (MedIA Journal) 紙、コード、関連ウェブサイトを含むビジョントランス/注意の究極の包括的な論文リスト <sub>⭐ 224</sub>
+- [halleewong/ScribblePrompt](https://github.com/halleewong/ScribblePrompt) - (ECCV 2024) ScribblePrompt:あらゆる医学のイメージのための速く、適用範囲が広い相互区分 <sub>⭐ 222 · Jupyter Notebook</sub>
+- [OSUPCVLab/SegFormer3D](https://github.com/OSUPCVLab/SegFormer3D) - SegFormer3Dの公式実装: 3D医療画像セグメンテーションのための効率的なトランス(CVPR 2024) <sub>⭐ 220 · Python</sub>
+- [HennyJie/BrainGB](https://github.com/HennyJie/BrainGB) - 医療用画像に関するIEEE取引(TMI, IF: 11.037)に正式に受入 - 医療イメージングにおける幾何学的深層学習に関する特別問題。 <sub>⭐ 219 · MATLAB</sub>
+- [aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models) - CVPR 2023 で受け入れられる <sub>⭐ 215 · Python</sub>
+- [Rayicer/TransFuse](https://github.com/Rayicer/TransFuse) - このリポジトリは、TransFuseのコードを保持しています。医療画像のセグメンテーションのためのトランスとCNNを融合 <sub>⭐ 215 · Python</sub>
+- [med-air/3DSAM-adapter](https://github.com/med-air/3DSAM-adapter) - 2Dから3DまでのSAMのホリスティックな適応 <sub>⭐ 213 · Python</sub>
+- [mueller-franzes/medfusion](https://github.com/mueller-franzes/medfusion) - Medfusionの実装 - 医療画像合成のための潜在拡散モデル。 <sub>⭐ 210 · Python</sub>
+- [RichardObi/medigan](https://github.com/RichardObi/medigan) - medigan - 医療画像合成のためのプリトレンド生成モデルのPythonライブラリ <sub>⭐ 206 · Python</sub>
+- [Issam28/Brain-tumor-segmentation](https://github.com/Issam28/Brain-tumor-segmentation) - 脳腫瘍MRIのセグメンテーションのための深い学習ベースのアプローチ. <sub>⭐ 205 · Python</sub>
+- [tamasino52/UNETR](https://github.com/tamasino52/UNETR) - UNETRの非公式コードベース:3D医療画像セグメンテーション用トランス <sub>⭐ 200 · Python</sub>
+- [yhygao/UTNet](https://github.com/yhygao/UTNet) - UTNetの公式実装:医療画像セグメンテーションのためのハイブリッドトランスアーキテクチャ <sub>⭐ 200 · Python</sub>
+- [ge-xing/Diff-UNet](https://github.com/ge-xing/Diff-UNet) - Diff-UNet: 数値分割のための拡散埋め込まれたネットワーク。(3D医療画像のセグメンテーションのために拡散を使用して) <sub>⭐ 199 · Python</sub>
+- [llmir/FedICRA](https://github.com/llmir/FedICRA) - 論文の公式実装「適応的表現と集計による弱固有監視された医療画像のセグメンテーションを統一し、パーソナライズする」。 <sub>⭐ 199 · Python</sub>
+- [Dootmaan/MT-UNet](https://github.com/Dootmaan/MT-UNet) - *Mixed変圧器UNet for Medical Imageセグメンテーション*の公式コード <sub>⭐ 198 · Python</sub>
+- [perslev/MultiPlanarUNet](https://github.com/perslev/MultiPlanarUNet) - 3D医療画像の自動分別のためのマルチプラナーUNet <sub>⭐ 197 · Python</sub>
+- [StanfordMIMI/MedVAE](https://github.com/StanfordMIMI/MedVAE) - (MIDL 2025) 大規模汎用オートエンコーダーによる医療画像の効率的な自動解釈 <sub>⭐ 197 · Python</sub>
+- [SUN-1024/DA-TransUnet](https://github.com/SUN-1024/DA-TransUnet) - DA-TransUNet: 医療画像のセグメンテーションのためのトランスUネットと位置およびチャネルの二重保持を結合して下さい <sub>⭐ 192 · Python</sub>
+- [xmuyzz/3D-CNN-PyTorch](https://github.com/xmuyzz/3D-CNN-PyTorch) - 医療画像データ用3D CNNモデル用のPyTorch実装(1チャンネルグレースケールイメージ)。 <sub>⭐ 191 · Python</sub>
+- [Duoduo-Qian/Medical-image-registration-Resources](https://github.com/Duoduo-Qian/Medical-image-registration-Resources) - 医療画像登録関連書籍、チュートリアル、論文、データセット、ツールボックスおよびディープラーニングオープンソースコード <sub>⭐ 190</sub>
+- [kleinzcy/SASSnet](https://github.com/kleinzcy/SASSnet) - 形状アウェア半指示された3Dの医学イメージのための分離 <sub>⭐ 190 · Python</sub>
+- [jongdory/ALDM](https://github.com/jongdory/ALDM) - (WACV 2024) 3D医学のイメージのための適応的なラテントの拡散モデル イメージ翻訳: 多変位磁気共鳴画像の研究 <sub>⭐ 189 · Python</sub>
+- [icon-lab/ResViT](https://github.com/icon-lab/ResViT) - ResViTの公式実装:多変性医療画像合成のための残留ビジョントランス <sub>⭐ 186 · Python</sub>
+- [anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning](https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning) - 複雑なニューラルネットワークとプリトレンデッドモデルを用いたチェストX線画像における肺炎の検出 <sub>⭐ 185 · Jupyter Notebook</sub>
+- [krishnabits001/domain_specific_cl](https://github.com/krishnabits001/domain_specific_cl) - NeurIPS 2020の記事「限られた注釈で医療画像のセグメンテーションのためのグローバルおよびローカル機能の対照的な学習」 <sub>⭐ 184 · Python</sub>
+- [MediaBrain-SJTU/MedKLIP](https://github.com/MediaBrain-SJTU/MedKLIP) - MedKLIPの公式コード:医療知識は、放射線学における言語イメージの事前トレーニングを強化しました。 言語画像の事前学習方法を強化する医学的特定の知識を活用することを提案します... <sub>⭐ 183 · Python</sub>
+- [mlmed/chester-xray](https://github.com/mlmed/chester-xray) - AI放射線学アシスタントをチェスター <sub>⭐ 182 · JavaScript</sub>
+- [himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning) - # アルツハイマー病予測のためのAD-予知神経ネットワーク 脳MRI画像を使用して#Abstractアルツハイマー病(AD)は、重度の記憶喪失と認知症によって特徴付けられます... <sub>⭐ 177 · Python</sub>
+- [HiLab-git/CA-Net](https://github.com/HiLab-git/CA-Net) - 説明可能な医療画像のセグメンテーションのための包括的な注意深い神経ネットワークのためのコード。 <sub>⭐ 176 · Python</sub>
+- [NYUMedML/CNN_design_for_AD](https://github.com/NYUMedML/CNN_design_for_AD) - 「構造的MRIによる早期アルツハイマー病検出のための総合深層学習モデル」のコード <sub>⭐ 176 · Jupyter Notebook</sub>
+- [lelechen63/MRI-tumor-segmentation-Brats](https://github.com/lelechen63/MRI-tumor-segmentation-Brats) - MRIの医学画像の区分 <sub>⭐ 175 · Python</sub>
+- [mazurowski-lab/segment-anything-medical-evaluation](https://github.com/mazurowski-lab/segment-anything-medical-evaluation) - 医療画像解析における「医療イメージ分析のための課題モデル:実験的研究」のコード <sub>⭐ 175 · Python</sub>
+- [Mengqi-Lei/ConDSeg](https://github.com/Mengqi-Lei/ConDSeg) - AAAI-2025紙「ConDSeg:コントラスト駆動機能強化による一般医療画像のセグメンテーションフレームワーク」の実施。 <sub>⭐ 173 · Python</sub>
+- [scott-yjyang/DiffMIC](https://github.com/scott-yjyang/DiffMIC) - (MICCAI 2023) DiffMIC:医療画像分類のためのデュアルガイダンス拡散ネットワーク <sub>⭐ 173 · Python</sub>
+- [AICONSlab/3DINO](https://github.com/AICONSlab/3DINO) - (npj デジタル薬) 医学イメージングにおける自己監視学習のための汎用3Dフレームワークとモデル <sub>⭐ 171 · Python</sub>
+- [yuhoo0302/Segment-Anything-Model-for-Medical-Images](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images) - 医療画像分析(MIA)2023用紙のコードとモデル。医療イメージのための任意のモデルをセグメント化? <sub>⭐ 171 · Python</sub>
+- [cvlab-stonybrook/SelfMedMAE](https://github.com/cvlab-stonybrook/SelfMedMAE) - ISBI 2023紙「医療画像の分類とセグメンテーションのためのマスクされたAutoencoderで自己事前訓練」コード <sub>⭐ 169 · Python</sub>
+- [gorkemcanates/Dual-Cross-Attention](https://github.com/gorkemcanates/Dual-Cross-Attention) - 医療画像のセグメンテーションのためのデュアルクロスアテンションの公式Pytorch実装 <sub>⭐ 163 · Python</sub>
+- [Zyun-Y/DconnNet](https://github.com/Zyun-Y/DconnNet) - CVPR2023紙「医療画像の直接的接続性に基づくセグメンテーション」コード <sub>⭐ 158 · Python</sub>
+- [kondratevakate/mri-deep-learning-tools](https://github.com/kondratevakate/mri-deep-learning-tools) - 3DでMRI画像処理と深層学習を補う <sub>⭐ 156</sub>
+- [cwmok/C2FViT](https://github.com/cwmok/C2FViT) - これは、Tony C. W. MokとAlbert C. S. Chungが執筆した「Coarse-to-Fine Vision変圧器」(CVPR 2022)の公式Pytorch実装です。 <sub>⭐ 155 · Python</sub>
+- [ShanghaiTech-IMPACT/3D-MedDiffusion](https://github.com/ShanghaiTech-IMPACT/3D-MedDiffusion) - (IEEE TMI 2025) 3D MedDiffusion: 制御可能で高品質の医療画像生成のための3D医学の拡散モデル <sub>⭐ 154 · Python</sub>
+- [zhaoziheng/SAT-DS](https://github.com/zhaoziheng/SAT-DS) - SAT-DSをビルドする公式リポジトリ、72以上のパブリックセグメンテーションデータセットの医療データ収集、22K 3D画像、302Kセグメンテーションマスクと3つの異なる497クラスが含まれています。 <sub>⭐ 154 · Python</sub>
+- [MIC-DKFZ/basic_unet_example](https://github.com/MIC-DKFZ/basic_unet_example) - PyTorch で医療画像のセグメンテーションに U-Net を使用する方法の例プロジェクト。 <sub>⭐ 153 · Python</sub>
+- [whq-xxh/ADA4MIA](https://github.com/whq-xxh/ADA4MIA) - 医療画像分析のための素晴らしいアクティブドメイン適応 <sub>⭐ 153</sub>
+- [josedolz/HyperDenseNet](https://github.com/josedolz/HyperDenseNet) - このリポジトリには、マルチモーダル画像のシナリオで医療画像をセグメント化するためにハイパーデンスネットのコードが含まれています。 <sub>⭐ 152 · Python</sub>
+- [pyplati/platipy](https://github.com/pyplati/platipy) - Pythonで医療イメージングのためのライブラリと分析ツールキットの処理 <sub>⭐ 150 · Python</sub>
+- [amirhossein-kz/HiFormer](https://github.com/amirhossein-kz/HiFormer) - HiFormer: 医療画像のセグメンテーション(WACV 2023)のためのトランスを使用して階層マルチスケール表現 <sub>⭐ 147 · Jupyter Notebook</sub>
+- [AICAN-Research/FAST-Pathology](https://github.com/AICAN-Research/FAST-Pathology) - ディープラーニングベースのデジタル病態学のためのオープンソースソフトウェア <sub>⭐ 146 · C++</sub>
+- [Thanos-DB/FullyConvolutionalTransformer](https://github.com/Thanos-DB/FullyConvolutionalTransformer) - (WACV 2023) 医学画像の区分のための完全な構造変圧器の公式実装 <sub>⭐ 146 · Jupyter Notebook</sub>
+- [ImprintLab/one-prompt](https://github.com/ImprintLab/one-prompt) - すべての医療画像(CVPR 2024)をセグメント化するためのワンプロンプト <sub>⭐ 145 · Python</sub>
+- [jackyko1991/vnet-tensorflow](https://github.com/jackyko1991/vnet-tensorflow) - 医療画像のセグメンテーションのための tensorflow における vnet の実装 <sub>⭐ 145 · Python</sub>
+- [Wuziyi616/CFUN](https://github.com/Wuziyi616/CFUN) - より高速なR-CNNとU-netを組み合わせて、効率的な医療画像のセグメンテーションを実現 <sub>⭐ 145 · Python</sub>
+- [iitzco/deepbrain](https://github.com/iitzco/deepbrain) - 脳医学画像のディープラーニングツール <sub>⭐ 142 · Python</sub>
+- [IlliaOvcharenko/lung-segmentation](https://github.com/IlliaOvcharenko/lung-segmentation) - 胸X線画像の肺分岐 <sub>⭐ 142 · Jupyter Notebook</sub>
+- [wjh892521292/LKM-UNet](https://github.com/wjh892521292/LKM-UNet) - 医療画像のセグメンテーションのための大型カーネルビジョンMamba UNet <sub>⭐ 142 · Python</sub>
+- [nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow](https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow) - UNetは、画像のセグメンテーションを行う完全に関連したネットワーク(FCN)です。 その目標は、各ピクセルのクラスを予測することです。 それはFCNに基づいて構築され、それがより良いセグメンテーションをもたらす方法で修正されています... <sub>⭐ 141 · Jupyter Notebook</sub>
+- [pfriedri/wdm-3d](https://github.com/pfriedri/wdm-3d) - (DGM4MICCAI'24、経口)「WDM:3D Wavelet Diffusion」向けPyTorch実装 <sub>⭐ 141 · Python</sub>
+- [wurenkai/H-vmunet](https://github.com/wurenkai/H-vmunet) - (Neurocomputing) 「H-vmunet: 医療画像のセグメンテーションのためのハイオーダービジョンMamba UNet」の公式コード。 <sub>⭐ 141 · Python</sub>
+- [Yaziwel/Restore-RWKV](https://github.com/Yaziwel/Restore-RWKV) - Restore-RWKV: RWKVによる効率的かつ効果的な医療画像修復 <sub>⭐ 141 · Python</sub>
+- [qsyao/cuda_spatial_deform](https://github.com/qsyao/cuda_spatial_deform) - GPU(特に弾力性_変形)上の画像拡張を行うための高速ツールは、医療イメージの研究に役立ちます。 <sub>⭐ 139 · Cuda</sub>
+- [xhu248/AutoSAM](https://github.com/xhu248/AutoSAM) - 医学のイメージに非promptableデコーダーが付いているSAMを微調整する <sub>⭐ 139 · Python</sub>
+- [CVxTz/medical_image_segmentation](https://github.com/CVxTz/medical_image_segmentation) - 医療画像のセグメンテーション(眼筒セグメンテーション) <sub>⭐ 138 · Python</sub>
+- [openmedlab/MIU-VL](https://github.com/openmedlab/MIU-VL) - これは、ICLR2023の承認された論文のためのリポジトリです。 - 事前学習ビジョン言語モデルとの医学的画像理解:包括的な研究. <sub>⭐ 138</sub>
+- [Xiaoqi-Zhao-DLUT/Awesome-AI4X-NSCLR-Papers](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-AI4X-NSCLR-Papers) - 自然/科学/細胞/ランセット/放射線学およびその主力サブジャーナルに掲載されたAI+X論文のキュレーションコレクション <sub>⭐ 138</sub>
+- [FengheTan9/CMUNeXt](https://github.com/FengheTan9/CMUNeXt) - (ISBI 2024オーラル) 「CMUNeXt:大きなカーネルとスキップフュージョンに基づく効率的な医療画像セグメンテーションネットワーク」の公式ピトルチコードベース <sub>⭐ 136 · Python</sub>
+- [FengheTan9/Medical-Image-Segmentation-Benchmarks](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks) - 医療画像のセグメンテーションU字アーキテクチャベンチマークを実装 <sub>⭐ 135 · Python</sub>
+- [LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) - (MedIA) 紙リストとソースコードの調査「医療画像解析における深層活性学習に関する包括的なアンケート」 <sub>⭐ 135 · Python</sub>
+- [liuquande/SRC-MT](https://github.com/liuquande/SRC-MT) - (TMI'20) 半指示された医学的画像の分類および関連主導の自己組み立てモデル <sub>⭐ 135 · Python</sub>
+- [maju116/platypus](https://github.com/maju116/platypus) - R:2D、3D、DICOMおよびNIfTIの医学的イメージの区分のための深い学習1つの指定。 <sub>⭐ 134 · R</sub>
+- [yifangao112/DeSAM](https://github.com/yifangao112/DeSAM) - (MICCAI 2024) DeSAM の公式リポジトリ:一般化医療画像のセグメンテーションのためのデカップリングされたセグメントモデル。 <sub>⭐ 134 · Python</sub>
+- [BRAINSia/BRAINSTools](https://github.com/BRAINSia/BRAINSTools) - 脳分析に焦点を合わせた医療画像処理のためのツールのスイート <sub>⭐ 132 · C++</sub>
+- [NVIDIA/clara-train-examples](https://github.com/NVIDIA/clara-train-examples) - Clara Trainの使い方を実証する例ノートブックで、医療用画像ディープラーニングモデルの構築 <sub>⭐ 132 · HTML</sub>
+- [Bala93/Multi-task-deep-network](https://github.com/Bala93/Multi-task-deep-network) - 医療画像におけるセマンティックセグメンテーションのためのマルチタスクディープラーニングネットワークの利用 <sub>⭐ 131 · Python</sub>
+- [baumgach/PHiSeg-code](https://github.com/baumgach/PHiSeg-code) - 「PHiSeg:医療画像のセグメンテーションにおける不確実性を捉える」、Proc. MICCAI 2019 <sub>⭐ 129 · Python</sub>
+- [HiLab-git/MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg) - (MedIA2021)MIDeepSeg: ディープラーニングを用いた医療画像の非公開オブジェクトを最小限にインタラクティブなセグメント化 <sub>⭐ 129 · Python</sub>
+- [MaciejMazurowski/brain-segmentation](https://github.com/MaciejMazurowski/brain-segmentation) - U-Netを用いた脳MRIにおける深層学習ベースの頭蓋骨剥離とFLAIR異常分裂 <sub>⭐ 129 · Python</sub>
+- [ibrahimethemhamamci/CT2Rep](https://github.com/ibrahimethemhamamci/CT2Rep) - MICCAI 2024 & CT2Rep: 3Dメディカルイメージング向け自動放射線量測定レポート生成 <sub>⭐ 128 · Python</sub>
+- [kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans](https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans) - COVID-19検出チェストX線とCTスキャン:CEVD-19検出は、4つの転送学習アルゴリズムを使用して、チェストX線およびCTスキャンに基づいて:VGG16、ResNet50、InceptionV3、Xception。 このモデルは... <sub>⭐ 128 · Jupyter Notebook</sub>
+- [xmindflow/DAEFormer](https://github.com/xmindflow/DAEFormer) - (MICCAI 2023) DAE-Former: 医療画像のセグメンテーションのための二重注意ガイド付き効率的なトランス <sub>⭐ 128 · Python</sub>
+- [SII-WenjieLisjtu/CX-Mind](https://github.com/SII-WenjieLisjtu/CX-Mind) - CX-Mind:Curriculum-Guided Reinforcement LearningによるチェストX線でのインターリードレゾニングのためのパイオニア的なマルチモーダル言語モデル <sub>⭐ 127 · Python</sub>
+- [DebeshJha/ResUNetPlusPlus-with-CRF-and-TTA](https://github.com/DebeshJha/ResUNetPlusPlus-with-CRF-and-TTA) - 医療画像の分割(IEEE JBIHI)のためのResUNet++、CRFおよびTTAの公式実装 <sub>⭐ 126 · Python</sub>
+- [han-liu/awesome-missing-modality-for-medical-images](https://github.com/han-liu/awesome-missing-modality-for-medical-images) - 医療画像の欠損性問題に対処するための包括的な技術のレビュー <sub>⭐ 125</sub>
+- [ashna111/multimodal-image-fusion-to-detect-brain-tumors](https://github.com/ashna111/multimodal-image-fusion-to-detect-brain-tumors) - MRIやCT画像を用いた脳腫瘍を検知する多品種の医療イメージ融合 <sub>⭐ 124 · Jupyter Notebook</sub>
+- [frankkramer-lab/miseval](https://github.com/frankkramer-lab/miseval) - 医療画像のセグメンテーションEVALuationのためのメトリックライブラリ <sub>⭐ 123 · Jupyter Notebook</sub>
+- [UCSC-VLAA/SwinMM](https://github.com/UCSC-VLAA/SwinMM) - (MICCAI 2023) このリポジトリには、公式の実装が含まれています 紙「SwinMM: 3D医療画像セグメンテーションのためのスウィントランスとマスクされたマルチビュー」 <sub>⭐ 123 · Python</sub>
+- [aildnont/covid-cxr](https://github.com/aildnont/covid-cxr) - COVID-19の機能の存在による胸X線を分類するための神経ネットワークモデル <sub>⭐ 121 · Python</sub>
+- [huangyjhust/3D-RU-Net](https://github.com/huangyjhust/3D-RU-Net) - SlideWindow-Free 正確で高速な 3D 医療画像のセグメンテーションフレームワーク <sub>⭐ 121 · Python</sub>
+- [DIAGNijmegen/pathology-whole-slide-data](https://github.com/DIAGNijmegen/pathology-whole-slide-data) - ディープラーニングモデルを訓練するために使用できる高速バッチイテレータを含む全スライドデータを扱うパッケージ。 <sub>⭐ 119 · Python</sub>
+- [arcadelab/FastSAM3D](https://github.com/arcadelab/FastSAM3D) - 「FastSAM3D: 3D の容積測定画像のための有効な区分何でもモデル」のためのコード <sub>⭐ 118 · Python</sub>
+- [ziyangwang007/CV-SSL-MIS](https://github.com/ziyangwang007/CV-SSL-MIS) - CNNとVATをセミスーパービジョン医療画像のセグメンテーションで探す <sub>⭐ 118 · Python</sub>
+- [shaochuhan/medical-image-segmentation](https://github.com/shaochuhan/medical-image-segmentation) - Unetモデルに基づく医療画像のセグメンテーションとプライバシー保護の方法 <sub>⭐ 117 · Python</sub>
+- [openmedlab/STU-Net](https://github.com/openmedlab/STU-Net) - 公開データセット(100kアノテーション)に基づく最大規模の事前訓練された医療画像セグメンテーションモデル(1.4Bパラメータ)。 <sub>⭐ 116</sub>
+- [xmed-lab/GenericSSL](https://github.com/xmed-lab/GenericSSL) - NeurIPS 2023: 体積分医療画像のセグメンテーションのためのジェネリックセミ監視フレームワークに向けて <sub>⭐ 116 · Python</sub>
+- [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization) - (IEEE-TMI'22) 医療画像のセグメンテーション(code&data-processingパイプライン)のための因果性インスパイアされた単一ソースドメインジェネレーション <sub>⭐ 115 · Jupyter Notebook</sub>
+- [mahmoodlab/SISH](https://github.com/mahmoodlab/SISH) - 自己監修深い学習による全スライド画像の高速かつスケーラブルな検索 - Nature Biomedical Engineering <sub>⭐ 114 · Python</sub>
+- [ChrisMats/medical_transformers](https://github.com/ChrisMats/medical_transformers) - ICCV2021-CVAMD紙の公開リポジトリ「医療イメージのためのトランスでCNSを交換する時間はありますか?」 <sub>⭐ 113 · Python</sub>
+- [mosaf/Awesome-DL-based-CS-MRI](https://github.com/mosaf/Awesome-DL-based-CS-MRI) - 「Awesome DL-Based MRI Reconstruction」は、リソース、ツールおよび研究論文を特色とする包括的なキュレーションリポジトリで、深い学習と圧縮センシングを活用して加速する... <sub>⭐ 113</sub>
+- [obendidi/X-ray-classification](https://github.com/obendidi/X-ray-classification) - X線画像(過去の画像)解析と、インセプトv2によるトランスファー学習を用いた異常検知 <sub>⭐ 112 · Python</sub>
+- [zzzqzhou/Dual-Normalization](https://github.com/zzzqzhou/Dual-Normalization) - (CVPR‘22) スタイル拡張とデュアルノーマライゼーションによる総合的クロスモーダリティ医療画像のセグメンテーション <sub>⭐ 110 · Python</sub>
+- [PeterYYZhang/few-shot-self-prompt-SAM](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM) - これは「自発医療画像の分別のための大規模なビジョンモデルをプロファイトする」ための公式リポジトリです <sub>⭐ 109 · Python</sub>
+- [sevdaimany/YOLOv8-Medical-Imaging](https://github.com/sevdaimany/YOLOv8-Medical-Imaging) - このプロジェクトでは、YOLOv8 を使用して、ユーザーフレンドリーなインターフェイスを介して医療画像の分類、検出、セグメンテーションなどのタスクを実行します。 <sub>⭐ 109 · Python</sub>
+- [SsGood/MMGL](https://github.com/SsGood/MMGL) - 疾患予知のためのマルチモーダルグラフ学習(IEEE Trans. on Medical Imaging, TMI2022) <sub>⭐ 109 · Jupyter Notebook</sub>
+- [ziyangwang007/Awesome-Medical-Image-Segmentation-Dataset](https://github.com/ziyangwang007/Awesome-Medical-Image-Segmentation-Dataset) - 公開可能な医療画像のセグメンテーションデータセットのリスト。 <sub>⭐ 109</sub>
+- [Star-chy/ABD](https://github.com/Star-chy/ABD) - (CVPR 2024) 「半導体監視医療画像のセグメンテーションのための適応的二方向変位」コード <sub>⭐ 108 · Python</sub>
+- [duong-db/U-Lite](https://github.com/duong-db/U-Lite) - 医療画像のセグメンテーションのための軽量CNNベースのモデル。 <sub>⭐ 107 · Python</sub>
+- [fitushar/3D-GuidedGradCAM-for-Medical-Imaging](https://github.com/fitushar/3D-GuidedGradCAM-for-Medical-Imaging) - このRepoは、Nitpiファイルを使用して3D医療イメージング用のガイド付きGradCAMを生成する際の単純化を含んでいます。 異なる入力ファイルは、その場合には入力を編集する必要があります... <sub>⭐ 107 · Python</sub>
+- [MIC-DKFZ/MITK-Diffusion](https://github.com/MIC-DKFZ/MITK-Diffusion) - MITK Diffusion - 医療画像相互作用ツールキットの公式部分 <sub>⭐ 107 · C++</sub>
+- [MMIV-ML/fastMONAI](https://github.com/MMIV-ML/fastMONAI) - 医療用イメージングの深層学習を簡素化 <sub>⭐ 107 · Jupyter Notebook</sub>
+- [conscienceli/IterNet](https://github.com/conscienceli/IterNet) - IterNet: 容器ネットワークにおける構造冗長性を利用した網膜画像のセグメンテーション。高精度な医療網膜(目)イメージセグメント化 <sub>⭐ 106 · Python</sub>
+- [Omid-Nejati/MedViTV2](https://github.com/Omid-Nejati/MedViTV2) - MedViTV2: KAN-IntegratedトランスとDilated Neighborhood Attention (応用ソフトコンピューティング2025)による医療画像分類 <sub>⭐ 106 · Jupyter Notebook</sub>
+- [slowvak/MachineLearningForMedicalImages](https://github.com/slowvak/MachineLearningForMedicalImages) - マシン学習法を医学画像に適用する方法に関する例コード。コード(pythonとPythonのノートブック)とデータ(DICOM)が含まれています <sub>⭐ 106 · Jupyter Notebook</sub>
+- [TianBaoGe/DS-TransUNet](https://github.com/TianBaoGe/DS-TransUNet) - このリポジトリには、DS-TransUNetの公式コードが含まれています。 医療画像のセグメンテーションのためのデュアルスウィントランスU-Net <sub>⭐ 105 · Python</sub>
+- [hustvl/EVA-X](https://github.com/hustvl/EVA-X) - (Nature Portfolio、npj DigitalMed) EVA-X:自己監視学習による一般胸 X線解析の基礎モデル <sub>⭐ 104 · Python</sub>
+- [gregwchase/nih-chest-xray](https://github.com/gregwchase/nih-chest-xray) - 複雑なニューラルネットワークを使用して胸X線の病気を識別する <sub>⭐ 103 · Jupyter Notebook</sub>
+- [Mauville/MedCLIP](https://github.com/Mauville/MedCLIP) - OpenAIのCLIPを用いた医療画像キャプション <sub>⭐ 103 · Jupyter Notebook</sub>
+- [sonal-bansal/Detection-and-Classification-of-Alzheimers-Disease](https://github.com/sonal-bansal/Detection-and-Classification-of-Alzheimers-Disease) - この論文の目的は、CSA(Crow Search Algorithm)を使用してさらに最適化されている初期にDeep Learningと機械学習アルゴリズムを使用してアルツハイマー病を検出することです。... <sub>⭐ 103 · Jupyter Notebook</sub>
+- [cnulab/MediCLIP](https://github.com/cnulab/MediCLIP) - 「MediCLIP: 深ショット医療画像異常検知(MICCAI 2024早期承認)」の公式実装 <sub>⭐ 102 · Python</sub>
+- [tthinking/MATR](https://github.com/tthinking/MATR) - (IEEE TIP 2022) MATRの公式実装:マルチスケール適応トランスによる多変性医療画像融合 <sub>⭐ 102 · Python</sub>
+- [jiwei0921/MRNet](https://github.com/jiwei0921/MRNet) - CVPR 2021用紙のコード。 「マルチレイター協定モデリングによる臨床画像のセグメンテーションをクリアする」 <sub>⭐ 101 · Python</sub>
+- [JosephPB/XNet](https://github.com/JosephPB/XNet) - 医療用X線画像のセグメンテーションのためのCNN実装 <sub>⭐ 101 · Jupyter Notebook</sub>
+- [ratschlab/DeepSpot](https://github.com/ratschlab/DeepSpot) - DeepSpot:H&Eのヒストパソロジー画像から空間トランスクリプトを予測するためのディープラーニングモデル。スポットレベル(Visium)とシングルセル(Xenium)解像度をサポートします。 <sub>⭐ 101 · Jupyter Notebook</sub>
+- [hamidriasat/UNet-3-Plus](https://github.com/hamidriasat/UNet-3-Plus) - 医療画像のセグメンテーションのためのフルスケール接続UNet <sub>⭐ 100 · Jupyter Notebook</sub>
+- [sunjesse/shape-attentive-unet](https://github.com/sunjesse/shape-attentive-unet) - 論文のコード SAUNet: Interpretable 医療画像のセグメンテーションのためのシェイプ・アテントティブ U-Net. https://arxiv.org/pdf/2001.07645v3.pdf MICCAI 2020で公開しました。 <sub>⭐ 100 · Python</sub>
+- [BWGZK/CycleMix](https://github.com/BWGZK/CycleMix) - (CVPR 2022) CycleMix:Scribble Supervisionから医療画像のセグメンテーションのためのホリスティック戦略 <sub>⭐ 99 · Python</sub>
+- [chaoshengsc/medaudit](https://github.com/chaoshengsc/medaudit) - NumPy 専用ツールキットで、凍結した医療画像機能における属性のデコーダビリティと潜在的なデータ漏洩を監査できます。 <sub>⭐ 99 · Python</sub>
+- [AdalbertoCq/Pathology-GAN](https://github.com/AdalbertoCq/Pathology-GAN) - 「Quiros A.C.、Murray-Smith R.、Yuan K. Pathology GANの対応コード:がん組織の深い表現を学ぶ。医療画像に関する第3回国際会議の進行と... <sub>⭐ 98 · Python</sub>
+- [Yore0/TTDG-MGM](https://github.com/Yore0/TTDG-MGM) - (CVPR 2025) 宇宙学習によるテストタイムドメインの一般化: 医療画像のセグメンテーションのためのマルチグラフマッチングアプローチ <sub>⭐ 98 · Python</sub>
+- [McGregorWwww/UDTransNet](https://github.com/McGregorWwww/UDTransNet) - このリポジトリは、学習可能なスキップ接続でU-Netのセマンティックギャップを絞る「Narrowing the semantic gaps」の公式実装です。 改善されたジャーナルバージョンである医学画像セグメントの場合... <sub>⭐ 97 · Python</sub>
+- [Harvard-Ophthalmology-AI-Lab/FairSeg](https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg) - (ICLR 2024) FairSeg: 公正なエラーバウンドスケーリングでセグメントのあらゆるモデルを使用してフェアネス学習のための大規模な医療画像セグメンテーションデータセット <sub>⭐ 96 · Python</sub>
+- [hasan1292/mDDPM](https://github.com/hasan1292/mDDPM) - マスクされた拡散モデルを使用して医学のイメージで異常な検出を監視しました <sub>⭐ 96 · Python</sub>
+- [SLDGroup/MK-UNet](https://github.com/SLDGroup/MK-UNet) - ICCV 2025 CVAMD経口紙の公式リポジトリ:MK-UNet:医療画像セグメンテーションのためのマルチコネル軽量CNN <sub>⭐ 96 · Python</sub>
+- [icon-lab/I2I-Mamba](https://github.com/icon-lab/I2I-Mamba) - 選択的な状態空間に基づく画像・ツー・イメージの翻訳モデルであるI2I-Mambaの公式実装 <sub>⭐ 95 · Python</sub>
+- [xq141839/DCSAU-Net](https://github.com/xq141839/DCSAU-Net) - (CIBM' 23):医療画像の分節のためのより深く、より密集した割れ目U-Net <sub>⭐ 95 · Python</sub>
+- [kenza-bouzid/TransUnet](https://github.com/kenza-bouzid/TransUnet) - このリポジトリは TransUNet の結果を再現します: トランスは、医療画像のセグメンテーションのための強力なエンコーダを作る <sub>⭐ 94 · Jupyter Notebook</sub>
+- [mauro-nievoff/MultiCaRe_Dataset](https://github.com/mauro-nievoff/MultiCaRe_Dataset) - オープンソースのマルチモーダルデータセット:98K +臨床例と139K+医療画像からPubMed Central <sub>⭐ 94 · Jupyter Notebook</sub>
+- [MungoMeng/Registration-CorrMLP](https://github.com/MungoMeng/Registration-CorrMLP) - (CVPR2024 ベストペーパー候補) CorrMLP: 変形可能な医療画像登録のための相関マルウェア MLP ベースのネットワーク <sub>⭐ 94 · Python</sub>
+- [EsmeYi/UNet-CRF-RNN](https://github.com/EsmeYi/UNet-CRF-RNN) - CRF-RNN 層と医療画像のセグメンテーション用エッジアウェア U-Net <sub>⭐ 93 · Python</sub>
+- [LaurentVeyssier/Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning](https://github.com/LaurentVeyssier/Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning) - ディープラーニングモデルを使用して、チェストX線上の14の病状を診断し、GradCAMモデル解釈方法を使用する <sub>⭐ 93 · Jupyter Notebook</sub>
+- [MedSegX/MedSegX-code](https://github.com/MedSegX/MedSegX-code) - (nature biomedical Engineering 2025) 論文の公式コード:一般主義の基礎モデルとオープン・ワールド医学画像のセグメンテーションのためのデータベース(MedSegX) <sub>⭐ 93 · Python</sub>
+- [21Vipin/Medical-Image-Classification-using-deep-learning](https://github.com/21Vipin/Medical-Image-Classification-using-deep-learning) - 腫瘍は組織内の異常な細胞増殖によって人体内で形成されます。早期に腫瘍の検出とBenignおよび悪性腫瘍への分類が重要であるので、その予防のために... <sub>⭐ 92 · Python</sub>
+- [FengheTan9/CMU-Net](https://github.com/FengheTan9/CMU-Net) - (ISBI 2023)「CMU-Net:強力なConvMixerベースの医療超音波画像セグメンテーションネットワーク」の公式Pytorch実装 <sub>⭐ 92 · Python</sub>
+- [JunMa11/Diffusion-Models-in-MedIA](https://github.com/JunMa11/Diffusion-Models-in-MedIA) - 医療画像解析における拡散モデルのキュレーションリスト。 <sub>⭐ 92</sub>
+- [MiguelMonteiro/VNet-Tensorflow](https://github.com/MiguelMonteiro/VNet-Tensorflow) - 医療画像のセグメンテーションのためのV-NetアーキテクチャのTensorflow実装。 <sub>⭐ 92 · Python</sub>
+- [obiyoag/BayeSeg](https://github.com/obiyoag/BayeSeg) - (MedIA Best Paper Award) メデア紙の公式実装「ベイジシャン・モデリング(医療イメージ部門向けインタープリタブル・ジェネシスビリティー)」 <sub>⭐ 92 · Python</sub>
+- [omar-mohamed/GPT2-Chest-X-Ray-Report-Generation](https://github.com/omar-mohamed/GPT2-Chest-X-Ray-Report-Generation) - CDGPT2モデルの実装は、Conditionedトランスを用いた自動無線通信レポート生成です。 <sub>⭐ 92 · Python</sub>
+- [HUANGLIZI/ScribFormer](https://github.com/HUANGLIZI/ScribFormer) - (医療画像/TMI 2024)に関するIEEEトランザクション このリポジトリは、論文ScribFormerの公式実装です。トランスはCNN作業をScribbleベースのメディカルイメージのために改善します... <sub>⭐ 91 · Python</sub>
+- [NVIDIA-Medtech/NV-Reason-CXR](https://github.com/NVIDIA-Medtech/NV-Reason-CXR) - NV-Reason-CXR-3Bは、胸のX線画像の医学的推論と解釈のために設計された特殊な視覚言語モデルです。 <sub>⭐ 90 · Python</sub>
+- [Qiukunpeng/Siamese-Diffusion](https://github.com/Qiukunpeng/Siamese-Diffusion) - (CVPR 2025) 医療画像の合成とセグメンテーションのためのノイズ・一貫性のあるシamese-拡散 <sub>⭐ 89 · Python</sub>
+- [ycwu1997/D-Persona](https://github.com/ycwu1997/D-Persona) - 当社のCVPR 2024紙「多様化・パーソナライズされたマルチレイター医療画像のセグメンテーション」(ハイライト)のための公式コード <sub>⭐ 89 · Python</sub>
+- [UARK-AICV/SAM3D](https://github.com/UARK-AICV/SAM3D) - (ISBI 2024) 体積分医療画像のセグメンテーションのための任意のモデルをセグメント化SAM3Dの実施 <sub>⭐ 88 · Python</sub>
+- [BRML/CNNbasedMedicalSegmentation](https://github.com/BRML/CNNbasedMedicalSegmentation) - CNNベースの医療画像のセグメンテーションに関する論文の結果を再生成するためのコード <sub>⭐ 87 · Python</sub>
+- [liguojie09/GroupKAN](https://github.com/liguojie09/GroupKAN) - グループKANの公式PyTorch実装: 効率的な医療画像のセグメンテーションのためのグループ化されたスプラインベースのKANモデリングと非線形性を再考する。 GroupKANは、グループ化したKANトランスフォーメーションおよび... <sub>⭐ 87 · Python</sub>
+- [Chen-Ziyang/VPTTA](https://github.com/Chen-Ziyang/VPTTA) - コード (CVPR 2024) 各テスト イメージは特定のプロンプトを保存します: 2D 医学のイメージの区分のための連続的な試験時間の適応。 <sub>⭐ 86 · Python</sub>
+- [Shanghai-Aitrox-Technology/EfficientSegmentation](https://github.com/Shanghai-Aitrox-Technology/EfficientSegmentation) - 医療画像のセグメンテーション <sub>⭐ 86 · Python</sub>
+- [SlicerDMRI/SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI) - 3Dスライサーのオープンソース医療イメージングプラットフォームにおける拡散MRI分析と可視化 <sub>⭐ 86 · C++</sub>
+- [DlutMedimgGroup/AnatomySketch-Software](https://github.com/DlutMedimgGroup/AnatomySketch-Software) - ユーザの介入とユーザー定義のファンクション範囲をサポートする医療画像セグメンテーションソフトウェア <sub>⭐ 85 · C++</sub>
+- [hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation) - MICCAI2019で「U-Net固定ポイント定量化」紙のコードを含むリポジトリ <sub>⭐ 84 · Python</sub>
+- [PengchengShi1220/NexToU](https://github.com/PengchengShi1220/NexToU) - NexToU: 医療画像のセグメンテーションのための効率的なトポロジー-Aware U-Net <sub>⭐ 84 · Python</sub>
+- [TopoXLab/TopoInteraction](https://github.com/TopoXLab/TopoInteraction) - このリポジトリには、ECCV 2022(オーラル)に受け入れられる「多種医療画像のセグメンテーションに関する学習的インタラクション」の実施が含まれています。 <sub>⭐ 84 · Python</sub>
+- [zang0902/EM-Net](https://github.com/zang0902/EM-Net) - EM-Netの公式リポジトリ:Mambaによる効率的なチャネルと周波数学習(MICCAI 2024) <sub>⭐ 84 · Python</sub>
+- [Barrett-python/DuAT](https://github.com/Barrett-python/DuAT) - DuAT: 医療画像のセグメンテーション(PRCV)のための二重集計トランスネットワーク <sub>⭐ 83 · Python</sub>
+- [sotiraslab/AgileFormer](https://github.com/sotiraslab/AgileFormer) - 「AgileFormer:医学的画像のセグメンテーションのための空間的にアジャイルトランスUNet」を傾けた紙のためのこのリポジトリ <sub>⭐ 83 · Python</sub>
+- [PaddleCV-SIG/MedicalSeg](https://github.com/PaddleCV-SIG/MedicalSeg) - MedicalSeg は、セグメント化プロセス全体をサポートする使いやすい 3D 医療画像のセグメンテーションツールキットです。特に、データの事前処理速度、高精度モデルを提供します... <sub>⭐ 81 · Python</sub>
+- [btcrabb/SlideSeg](https://github.com/btcrabb/SlideSeg) - スライド全体からイメージパッチや注釈マスクを生成し、デジタルの病理学でディープラーニングを行うPythonモジュールです。 <sub>⭐ 80 · Jupyter Notebook</sub>
+- [gndlwch2w/msvm-unet](https://github.com/gndlwch2w/msvm-unet) - 「MSVM-UNet: 医療画像のセグメンテーションのためのマルチスケールビジョンMamba UNet」の公式コード。 <sub>⭐ 80 · Python</sub>
+- [primebo1/FAMNet](https://github.com/primebo1/FAMNet) - (AAAI 25) FAMNet:クロスドメインの少数ショット医療画像のセグメンテーションのための周波数アウェアマッチングネットワーク <sub>⭐ 80 · Jupyter Notebook</sub>
+- [txchen-USTC/Zig-RiR](https://github.com/txchen-USTC/Zig-RiR) - (TMI 2025) Zig-RiR:Zigzag RWKVで効率的な医療画像のセグメンテーション <sub>⭐ 80 · Python</sub>
+- [aehrc/cvt2distilgpt2](https://github.com/aehrc/cvt2distilgpt2) - 温暖化によるチェストX線レポート生成の改善 <sub>⭐ 79 · Python</sub>
+- [juntaoJianggavin/RWKV-UNet](https://github.com/juntaoJianggavin/RWKV-UNet) - 紙「RWKV-UNet」の公式PyTorch実装:効果的な医療画像のセグメンテーションのためのロングランゲ協力によるUNetの改善 <sub>⭐ 79 · Python</sub>
+- [Kaiseem/SLAug](https://github.com/Kaiseem/SLAug) - (AAAI 2023) 紙「SLAug:医療画像の分節における単一ソースドメインの一般化のためのデータ拡張を再考する」の公式PyTorch実装 <sub>⭐ 79 · Jupyter Notebook</sub>
+- [himashi92/Co-BioNet](https://github.com/himashi92/Co-BioNet) - (自然機械知能ジャーナル) 半監督の容積測定医学的画像の区分のための不確実性誘導二重ビューのための公式ピトルチの実施 <sub>⭐ 78 · Python</sub>
+- [lc82111/Active-Contour-Loss-pytorch](https://github.com/lc82111/Active-Contour-Loss-pytorch) - 陳、Xu、etalによる「医療画像のセグメンテーションのための学習活動的な輪郭モデル」のための非公式ピトルチ実装。 <sub>⭐ 77 · Jupyter Notebook</sub>
+- [ucwxb/I-MedSAM](https://github.com/ucwxb/I-MedSAM) - (ECCV2024) I-MedSAM:セグメント別における医療画像の分割 <sub>⭐ 77 · Python</sub>
+- [Yanfeng-Zhou/SPC](https://github.com/Yanfeng-Zhou/SPC) - (BMVC2023) 半指示された容積測定の医学的イメージの区分のための空間および平面の一貫性 <sub>⭐ 77 · Python</sub>
+- [joker-527/AAHN](https://github.com/joker-527/AAHN) - これは、多死亡医療画像のセグメンテーションのための紙非対称適応型肝疾患ネットワークのソースコードです <sub>⭐ 76 · Python</sub>
+- [HiLab-git/ACELoss](https://github.com/HiLab-git/ACELoss) - 「ユーラーの医療画像セグメンテーションのためのElasticaモデルを学習する」の実施 <sub>⭐ 75 · Python</sub>
+- [Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain) - 医学的画像分析のためのMambaアーキテクチャの包括的な調査:分類、セグメンテーション、修復、およびそれを超えて <sub>⭐ 75</sub>
+- [openmedlab/SAM-Med2D](https://github.com/openmedlab/SAM-Med2D) - SAM-Med2D:自然画像の区分と医学的イメージの区分間のギャップを埋めること <sub>⭐ 75 · Jupyter Notebook</sub>
+- [moucheng2017/Med-Noisy-Labels](https://github.com/moucheng2017/Med-Noisy-Labels) - (NeurIPS 2020) 医療画像の分別における地上の真理から人間の誤りを消失 <sub>⭐ 74 · Python</sub>
+- [Omid-Nejati/BEFUnet](https://github.com/Omid-Nejati/BEFUnet) - 高精度な医療画像のセグメンテーションのためのハイブリッドCNNトランスフォーマーアーキテクチャ <sub>⭐ 74 · Python</sub>
+- [xmed-lab/DHC](https://github.com/xmed-lab/DHC) - MICCAI 2023:DHC:クラスバランスのとれた半指示された医学的画像の区分のための二重偏差のヘテロジェンスの共同trainingフレームワーク <sub>⭐ 74 · Python</sub>
+- [aryakouroshi/Brain-tumor-detection](https://github.com/aryakouroshi/Brain-tumor-detection) - CNNとU-netを用いた医療画像のセグメンテーションおよびディープラーニングフレームワークの実施 <sub>⭐ 73 · Jupyter Notebook</sub>
+- [LIU-YUXI/FedFMS](https://github.com/LIU-YUXI/FedFMS) - (MICCAI2024) 「FedFMS: 医療画像のセグメンテーションのためのフェデレーション財団モデルを探る」。 医学的イメージのためのフェデレーションされた学習パラダイムでSAM(セグメント別)を微調整するためのフレームワーク... <sub>⭐ 73 · Python</sub>
+- [naamiinepal/medvlsm](https://github.com/naamiinepal/medvlsm) - (MIDL 2024) Vision-Language モデルを用いた医療画像のセグメンテーションにおける転送探索 <sub>⭐ 73 · Python</sub>
+- [xiaofang007/CTO](https://github.com/xiaofang007/CTO) - (IPMI 2023、医療画像分析) 深層学習モデルの境界検出を見直して医学的イメージのセグメンテーション <sub>⭐ 73 · Python</sub>
+- [yaoli/chest_xray_14](https://github.com/yaoli/chest_xray_14) - NIHチェストX線上のベンチマーク14データセット <sub>⭐ 73</sub>
+- [CVML-KU/DyCON](https://github.com/CVML-KU/DyCON) - DyCON: 半指示された医学的画像の区分のための動的不確実性および対照的な学習(CVPR 2025) <sub>⭐ 72 · Python</sub>
+- [YichiZhang98/SemiSAM](https://github.com/YichiZhang98/SemiSAM) - (MedIA'25 / BIBM'24) SemiSAM + / SemiSAM:財団モデルのEraで半監督された医学的画像のセグメンテーションを再考する <sub>⭐ 72 · Python</sub>
+- [ad12/meddlr](https://github.com/ad12/meddlr) - 医療画像の再構築と分析実験を簡素化するために設計された柔軟なMLフレームワーク。 <sub>⭐ 71 · Python</sub>
+- [datawhalechina/med-imaging-primer](https://github.com/datawhalechina/med-imaging-primer) - 物理イメージング原理(医学の映像像科学的放射線源教程)、再構築アルゴリズムからディープラーニング後の処理までを体系的にガイド。 https://datawhalechina.github.io/med-imaging-primer <sub>⭐ 71 · Jupyter Notebook</sub>
+- [MIC-DKFZ/MultiTalent](https://github.com/MIC-DKFZ/MultiTalent) - 紙「マルチタレント:医療画像のセグメンテーションへの複数のデータセットアプローチ」の実施 <sub>⭐ 71 · Python</sub>
+- [n0obcoder/NIH-Chest-X-Rays-Multi-Label-Image-Classification-In-Pytorch](https://github.com/n0obcoder/NIH-Chest-X-Rays-Multi-Label-Image-Classification-In-Pytorch) - ピトルチのチェストX線のマルチラベル画像分類 <sub>⭐ 71 · Python</sub>
+- [xmindflow/MSA-2Net](https://github.com/xmindflow/MSA-2Net) - (BMVC 2024) 「MSA^2 ネット: 医療画像のセグメンテーションのためのマルチスケール適応型アテンションガイドネットワーク」と題する紙の公式リポジトリ <sub>⭐ 71 · Python</sub>
+- [ANTsX/ANTsRNet](https://github.com/ANTsX/ANTsRNet) - ANTSRとディープラーニングを融合した医療画像解析フレームワーク <sub>⭐ 70 · R</sub>
+- [lihaoliu-cambridge/unsupervised-medical-image-segmentation](https://github.com/lihaoliu-cambridge/unsupervised-medical-image-segmentation) - 「監視されていない医療画像のセグメンテーションのための対照的な登録」コード。 <sub>⭐ 70 · Python</sub>
+- [YazhouZhu19/RPT](https://github.com/YazhouZhu19/RPT) - (MICCAI 2023) 地域高めのプロトタイティカルトランスを介して医療画像のセグメンテーション <sub>⭐ 70 · Python</sub>
+- [armiro/COVID-CXNet](https://github.com/armiro/COVID-CXNet) - COVID-CXNet:Deep Learningを用いた正面のChest X線画像でCOVID-19を診断します。 arXivで利用可能なプリプリント: https://arxiv.org/abs/2006.13807 <sub>⭐ 69 · Jupyter Notebook</sub>
+- [CUHK-AIM-Group/DiffRect](https://github.com/CUHK-AIM-Group/DiffRect) - (MICCAI' 24) DiffRect:半指示された医学のイメージの区分のためのラテントの拡散ラベルの整形化 <sub>⭐ 68 · Python</sub>
+- [xmindflow/LHUNet](https://github.com/xmindflow/LHUNet) - LHU-Net: コスト効率の高い、高性能の容積測定画像のセグメンテーションのためのLean Hybrid U-Net <sub>⭐ 68 · Python</sub>
+- [fxxJuses/MICFormer](https://github.com/fxxJuses/MICFormer) - 「医療画像の分裂に関する多項目情報相互作用」の実施 <sub>⭐ 67 · Python</sub>
+- [uni-medical/SAM-Med2D](https://github.com/uni-medical/SAM-Med2D) - SAM-Med2D:自然画像の区分と医学的イメージの区分間のギャップを埋めること <sub>⭐ 67</sub>
+- [drkostas/3D-Semantic-Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) - 3D医療画像の変圧器とのセマンティックセグメンテーション <sub>⭐ 66 · Jupyter Notebook</sub>
+- [FengheTan9/Mobile-U-ViT](https://github.com/FengheTan9/Mobile-U-ViT) - (ACM MM 2025) モバイル U-ViT:大規模なカーネルとU字型のVETを効果的に医療画像のセグメンテーションに再訪 <sub>⭐ 66 · Python</sub>
+- [hust-linyi/CAT-Net](https://github.com/hust-linyi/CAT-Net) - これは、紙の公式コードです。 "Few Shot Medical Image Segmentation with Cross Attention変圧器" <sub>⭐ 66 · Python</sub>
+- [lassoan/SlicerSegmentationRecipes](https://github.com/lassoan/SlicerSegmentationRecipes) - 3Dスライサーを用いた一般的な医療画像のセグメンテーションタスクのためのレシピ <sub>⭐ 66 · HTML</sub>
+- [PandaMia/Tuberculosis_recognition](https://github.com/PandaMia/Tuberculosis_recognition) - PyTorch TBチェストX線の分類器は、ライブデモとデータセットアーティファクト監査です。 <sub>⭐ 66 · Python</sub>
+- [sunfan-bvb/BoundaryDoULoss](https://github.com/sunfan-bvb/BoundaryDoULoss) - 医学のイメージの区分のための連合損失上の境界相違のためのコード <sub>⭐ 65 · Python</sub>
+- [twni2016/Elastic-Boundary-Projection](https://github.com/twni2016/Elastic-Boundary-Projection) - 3D医療画像のセグメンテーションのための弾性境界投影 - CVPR 2019 <sub>⭐ 65 · Python</sub>
+- [Warvito/generative_chestxray](https://github.com/Warvito/generative_chestxray) - MONAI Generativeパフォーマーを用いたチェストX線データ(MIMIC-CXR)上のLatent Diffusionパフォーマーを訓練するリポジトリ <sub>⭐ 65 · Python</sub>
+- [zymissy/CCViM](https://github.com/zymissy/CCViM) - 医療画像のセグメンテーションのための視覚状態空間モデルとコンテクストをマージする <sub>⭐ 65 · Python</sub>
+- [arpanmangal/CovidAID](https://github.com/arpanmangal/CovidAID) - チェストX線によるCOVID-19検出 <sub>⭐ 64 · Python</sub>
+- [black0017/ct-intensity-segmentation](https://github.com/black0017/ct-intensity-segmentation) - ラベルなしのCT肺および船舶セグメンテーションで治療画像処理入門 https://theaisummer.com/medical-image-python <sub>⭐ 64 · Jupyter Notebook</sub>
+- [DLWK/EANet](https://github.com/DLWK/EANet) - (PR2022) 「医療画像のセグメンテーションのための反復的なエッジ保持ネットワーク」のコード <sub>⭐ 64 · Python</sub>
+- [EagleMIT/EMKD](https://github.com/EagleMIT/EMKD) - 知識の蒸留に基づくIEEE TMIのペーパー有効な医学イメージの区分のコード <sub>⭐ 64 · Python</sub>
+- [OSUPCVLab/MobileUNETR](https://github.com/OSUPCVLab/MobileUNETR) - MobileUNETRの公式実装:効率的な医療画像セグメンテーションのための軽量エンドツーエンドハイブリッドビジョントランス(ECCV2024) <sub>⭐ 64 · Python</sub>
+- [yyliu01/TraCoCo](https://github.com/yyliu01/TraCoCo) - (TMI'24) 3D医療画像の翻訳一貫した半指示セグメント化 <sub>⭐ 63 · Python</sub>
+- [ChongQingNoSubway/SelfReg-UNet](https://github.com/ChongQingNoSubway/SelfReg-UNet) - 紙のコード "SelfReg-UNet: 医療画像のセグメンテーションのための自己正規化UNet" <sub>⭐ 62 · Python</sub>
+- [microsoft/LLaVA-Rad](https://github.com/microsoft/LLaVA-Rad) - LLaVa-Radの公式実装、胸X線探知生成のための小さなマルチモーダルモデル。 <sub>⭐ 62 · Python</sub>
+- [MR-HosseinzadehTaher/BenchmarkTransferLearning](https://github.com/MR-HosseinzadehTaher/BenchmarkTransferLearning) - 公式PyTorch実装と医療画像分析のためのベンチマーキング転送学習のためのプリトレインドモデル <sub>⭐ 62 · Python</sub>
+- [NUBagciLab/PaNSegNet](https://github.com/NUBagciLab/PaNSegNet) - ディープラーニングによるパンクレアの大型マルチセンターCTとMRIセグメンテーション <sub>⭐ 62 · Python</sub>
+- [rundherum/pymia](https://github.com/rundherum/pymia) - pymia:深層学習ベースの医療画像解析におけるデータ処理と評価のためのPythonパッケージ <sub>⭐ 62 · Python</sub>
+- [saiboxx/chexray-diffusion](https://github.com/saiboxx/chexray-diffusion) - 「高解像チェストX線シンシスのカスケード・ラテント拡散モデル」コード@ PAKDD 2023 <sub>⭐ 62 · Python</sub>
+- [Corey-Zumar/MRI-Reconstruction](https://github.com/Corey-Zumar/MRI-Reconstruction) - ヒュン・エットが説明するMRIの下部構造のためのディープラーニングプラットフォームのオープンソース実装。 (https://arxiv.org/pdf/1709.02576.pdf) <sub>⭐ 61 · Python</sub>
+- [Digital-Dermatology/t-loss](https://github.com/Digital-Dermatology/t-loss) - 医療画像のセグメント化(MICCAI 2023)のための強力なT-Losssの公式コード <sub>⭐ 61 · Python</sub>
+- [srinidhiPY/SSL_CR_Histo](https://github.com/srinidhiPY/SSL_CR_Histo) - メディカル・イメージ分析(MedIA)ジャーナル、2021年10月発行の「自己監視駆動型一貫性トレーニング」のための公式コード。 <sub>⭐ 61 · Python</sub>
+- [DeepTag/cardiac_tagging_motion_estimation](https://github.com/DeepTag/cardiac_tagging_motion_estimation) - 心臓タグ付けMRIモーショントラッキングのためのディープラーニングベースの完全無人方法。 <sub>⭐ 60 · JavaScript</sub>
+- [enochkan/vox2vox](https://github.com/enochkan/vox2vox) - 医療画像のセグメンテーションのための3Dボリューム対大量ジェネレーション広告ネットワーク <sub>⭐ 60 · Python</sub>
+- [duttapallabi2907/U-VixLSTM](https://github.com/duttapallabi2907/U-VixLSTM) - 「Vision xLSTM Embedded UNet」の公式Pytorch実装は、医療3D画像のセグメンテーションでより信頼性が高いですか? " <sub>⭐ 59 · Python</sub>
+- [med-air/CMC](https://github.com/med-air/CMC) - このコードは、MICCAI 2024「クロス・モダリティ・コラボレーションによるロバストのセミ・スーパーヴィジュアル・メディカル・イメージ・セグメンテーション」の実施です。 <sub>⭐ 59 · Python</sub>
+- [uci-cbcl/RP-Net](https://github.com/uci-cbcl/RP-Net) - 再発マスクの精製のためのコードは、Few-Shot医療画像のセグメンテーション (ICCV 2021). <sub>⭐ 59 · Python</sub>
+- [XuzheZ/MAPSeg](https://github.com/XuzheZ/MAPSeg) - (CVPR2024) MAPSeg: 3DマスクオートエンコーディングとPseudo-Labelingに基づいて、ヘテロジェンス医療画像のセグメンテーションのための統一された監視されていないドメイン適応 <sub>⭐ 59 · Python</sub>
+- [dewenzeng/positional_cl](https://github.com/dewenzeng/positional_cl) - 紙のポジシャル対照的な基礎医学的画像の区分のための学習のためのコード <sub>⭐ 58 · Python</sub>
+- [htylab/tigerbx](https://github.com/htylab/tigerbx) - MRIのセグメンテーションのためのディープラーニングフレームワーク <sub>⭐ 58 · Python</sub>
+- [ttumyche/UniXGen](https://github.com/ttumyche/UniXGen) - (CHIL 2024) ViewXGen:ビュースペクティブチェストX線生成のためのビジョン言語のジェネレーションモデル <sub>⭐ 58 · Python</sub>
+- [WuJunde/PromptUNet](https://github.com/WuJunde/PromptUNet) - 相互医学のイメージの区分 <sub>⭐ 58</sub>
+- [cherise215/advchain](https://github.com/cherise215/advchain) - (医療画像解析) 連鎖型分岐変換(AdvChain)による対価データ拡張 <sub>⭐ 57 · Jupyter Notebook</sub>
+- [Junelin2333/LanGuideMedSeg-MICCAI2023](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023) - MICCAI 2023紙-Ariadneのスレッドのピトルチコード:テキストプロンプトを使用して、Cast X線画像から感染した領域のセグメンテーションを改善 <sub>⭐ 57 · Python</sub>
+- [lucasrla/wsi-preprocessing](https://github.com/lucasrla/wsi-preprocessing) - ヒストパソリの全体スライド画像(WSI)をタイルに加工するためのシンプルなライブラリ (a.k.a.パッチ)ディープラーニング <sub>⭐ 57 · Python</sub>
+- [mist-medical/MIST](https://github.com/mist-medical/MIST) - MIST: 3D医療画像のセグメンテーションのためのシンプルでスケーラブルなエンドツーエンドフレームワーク。 <sub>⭐ 57 · Python</sub>
+- [apolanco3225/Data-Augmentation-and-Segmentation-with-GANs-for-Medical-Images](https://github.com/apolanco3225/Data-Augmentation-and-Segmentation-with-GANs-for-Medical-Images) - GANを使用してランダムなノイズからランダム化された脳MRI画像を生成します。 さらに、条件付きガン(pix2pix):脳解剖学をセグメント化 - 発生... <sub>⭐ 56 · Jupyter Notebook</sub>
+- [LIVIAETS/MedicalImageSegmentation](https://github.com/LIVIAETS/MedicalImageSegmentation) - このリポジトリは、LIVIAで採用されているすべてのコードをセグメント医療画像に含めることを目指しています。 主に、当社の研究では、深い学習と最適化技術に関する専門知識を取り入れました... <sub>⭐ 56 · Python</sub>
+- [Rahman-Motiur/MIST](https://github.com/Rahman-Motiur/MIST) - 医学のイメージの区分の変圧器はconvolutionalの保持の混合(CAM)のデコーダを模倣します <sub>⭐ 56 · Python</sub>
+- [Senyh/UCMT](https://github.com/Senyh/UCMT) - (IJCAI 2023) セミ監視医療画像のセグメンテーションのための高機能プソドラベルと共同訓練 <sub>⭐ 56 · Python</sub>
 
 ## 📋 カルテと臨床文書
 
 > 診察の文字起こし、カルテ、FHIR形式のデータ。
 
-- [thetahealth/mirobody](https://github.com/thetahealth/mirobody) - Self-hosted health data engine: lab reports, wearables and genetic files in one record, and an agent that cites its sources. <sub>⭐ 1.4k · Python</sub>
-- [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python <sub>⭐ 1.0k · Python</sub>
-- [medspacy/medspacy](https://github.com/medspacy/medspacy) - Library for clinical NLP with spaCy. <sub>⭐ 680 · Jupyter Notebook</sub>
-- [ncbi-nlp/bluebert](https://github.com/ncbi-nlp/bluebert) - BlueBERT, pre-trained on PubMed abstracts and clinical notes (MIMIC-III). <sub>⭐ 600 · Python</sub>
-- [kexinhuang12345/clinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) - ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission (CHIL 2020 Workshop) <sub>⭐ 452 · Jupyter Notebook</sub>
-- [apple/FHIRModels](https://github.com/apple/FHIRModels) - Swift library for FHIR® resource data models <sub>⭐ 209 · Swift</sub>
-- [som-shahlab/femr](https://github.com/som-shahlab/femr) - FEMR (Framework for Electronic Medical Records) provides tooling for large-scale, self-supervised learning using electronic health records <sub>⭐ 182 · Python</sub>
-- [smart-on-fhir/Swift-FHIR](https://github.com/smart-on-fhir/Swift-FHIR) - These are Swift classes for data models of FHIR elements and resources <sub>⭐ 172 · Swift</sub>
-- [aphp/edsnlp](https://github.com/aphp/edsnlp) - Modular, fast NLP framework, compatible with Pytorch and spaCy, offering tailored support for French clinical notes. <sub>⭐ 165 · Python</sub>
-- [uf-hobi-informatics-lab/ClinicalTransformerNER](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerNER) - a library for named entity recognition developed by UF HOBI NLP lab featuring SOTA algorithms <sub>⭐ 157 · Python</sub>
-- [nedap/deidentify](https://github.com/nedap/deidentify) - A Python library to de-identify medical records with state-of-the-art NLP methods. <sub>⭐ 149 · Python</sub>
-- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - Text-to-SQL Generation for Question Answering on Electronic Medical Records <sub>⭐ 137 · Python</sub>
-- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) - FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server. <sub>⭐ 137 · Python</sub>
-- [Ahryman40k/typescript-fhir-types](https://github.com/Ahryman40k/typescript-fhir-types) - Typescript / Javascript object model for FHIR standard <sub>⭐ 132 · TypeScript</sub>
-- [samply/golang-fhir-models](https://github.com/samply/golang-fhir-models) - FHIR Models for Go <sub>⭐ 109 · Go</sub>
-- [som-shahlab/medalign](https://github.com/som-shahlab/medalign) - MedAlign is a clinician-generated dataset for instruction following with electronic medical records. <sub>⭐ 103</sub>
-- [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) - FHIR MCP Server for handling medical data standard. <sub>⭐ 101 · Python</sub>
-- [bvanaken/clinical-outcome-prediction](https://github.com/bvanaken/clinical-outcome-prediction) - Code for the EACL 2021 Paper: Clinical Outcome Prediction from Admission Notes using Self-Supervised Knowledge Integration <sub>⭐ 99 · Python</sub>
-- [salgadev/medical-nlp](https://github.com/salgadev/medical-nlp) - Dataset for Natural Language Processing using a corpus of medical transcriptions and custom-generated clinical stop words and vocabulary. <sub>⭐ 99</sub>
-- [aws-samples/medical-transcription-analysis](https://github.com/aws-samples/medical-transcription-analysis) - Medical Transcription Analysis (MTA) demonstrates how the integration of Amazon Comprehend Medical and Amazon Transcribe Medical can be used to transcribe audio data, extract key medical components… <sub>⭐ 95 · JavaScript</sub>
-- [inferno-framework/fhir_models](https://github.com/inferno-framework/fhir_models) - FHIR Resource Models <sub>⭐ 94 · Ruby</sub>
-- [jmandel/health-skillz](https://github.com/jmandel/health-skillz) - A Claude Skill for connecting to and analyzing personal health records via SMART on FHIR <sub>⭐ 82 · TypeScript</sub>
-- [aphp/eds-pseudo](https://github.com/aphp/eds-pseudo) - EDS-Pseudo is a hybrid model for detecting personally identifying entities in clinical reports <sub>⭐ 76 · Python</sub>
-- [microsoft/azure-health-data-services-toolkit](https://github.com/microsoft/azure-health-data-services-toolkit) - Customization model for Azure Health Data Services. <sub>⭐ 76 · C#</sub>
-- [nazmulkazi/dataset_automated_medical_transcription](https://github.com/nazmulkazi/dataset_automated_medical_transcription) - Dataset for training machine learning model for automatically generating psychiatric case notes from doctor-patient conversations. <sub>⭐ 75</sub>
-- [OHNLP/MedTagger](https://github.com/OHNLP/MedTagger) - MedTagger is a light weight clinical NLP system built upon Apache UIMA. <sub>⭐ 74 · Java</sub>
-- [ohs-foundation/kotlin-fhir](https://github.com/ohs-foundation/kotlin-fhir) - Kotlin FHIR is a lean and fast implementation of the HL7® FHIR® data model on Kotlin Multiplatform. <sub>⭐ 70 · Kotlin</sub>
-- [langcare/langcare-mcp-fhir](https://github.com/langcare/langcare-mcp-fhir) - Enterprise-grade MCP Server for FHIR-based EMRs, designed for robust deployments in agentic AI platforms. <sub>⭐ 67 · Go</sub>
-- [The-Swarm-Corporation/Open-MAI-Dx-Orchestrator](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator) - An open source implementation of the paper: "Sequential Diagnosis with Language Models" From Microsoft Built with Swarms Framework <sub>⭐ 66 · Python</sub>
-- [acadTags/Explainable-Automated-Medical-Coding](https://github.com/acadTags/Explainable-Automated-Medical-Coding) - Implementation and demo of explainable coding of clinical notes with Hierarchical Label-wise Attention Networks (HLAN) <sub>⭐ 65 · Python</sub>
-- [3778/icd-prediction-mimic](https://github.com/3778/icd-prediction-mimic) - Predicting ICD Codes from Clinical Notes <sub>⭐ 64 · Jupyter Notebook</sub>
-- [BD2KOnFHIR/NLP2FHIR](https://github.com/BD2KOnFHIR/NLP2FHIR) - NLP2FHIR: A FHIR-based Clinical Data Normalization Pipeline and Its Applications <sub>⭐ 64 · Java</sub>
-- [aws-samples/aws-healthscribe-demo](https://github.com/aws-samples/aws-healthscribe-demo) - AWS HealthScribe allows you to automatically create clinical notes from patient-clinician conversations using generative AI. This art-of-the-possible demo allows you to interact with AWS… <sub>⭐ 59 · TypeScript</sub>
-- [srdc/cda2fhir](https://github.com/srdc/cda2fhir) - CDA to FHIR Transformer Library <sub>⭐ 59 · Java</sub>
-- [gkotsis/negation-detection](https://github.com/gkotsis/negation-detection) - Negation detection NLP tool. If you use the code, please cite George Gkotsis, Sumithra Velupillai, Anika Oellrich, Harry Dean, Maria Liakata and Rina Dutta. Don't Let Notes Be Misunderstood: A… <sub>⭐ 56 · Python</sub>
-- [Okes2024/Early-Detection-of-Chronic-Diseases-from-EHRs](https://github.com/Okes2024/Early-Detection-of-Chronic-Diseases-from-EHRs) - Objective: Predict chronic disease onset using Electronic Health Records (EHRs). Method: Apply ML algorithms to identify high-risk patients through historical medical data patterns. Value: Enable… <sub>⭐ 56 · Python</sub>
-- [Okes2024/NLP-Analysis-of-Patient-Journals-for-Anxiety-Trends](https://github.com/Okes2024/NLP-Analysis-of-Patient-Journals-for-Anxiety-Trends) - This project uses NLP to analyze synthetic patient journals for anxiety trends. It applies text preprocessing, scoring, and topic modeling to detect patterns over time, offering insights into mental… <sub>⭐ 56 · Python</sub>
+- [thetahealth/mirobody](https://github.com/thetahealth/mirobody) - セルフホスト型健康データエンジン:ラボレポート、ウェアラブルファイル、遺伝子ファイルを1レコードに表示し、ソースをシタイトするエージェント。 <sub>⭐ 1.4k · Python</sub>
+- [zatosource/zato](https://github.com/zatosource/zato) - PythonのESB、SOA、REST、APIおよびクラウド統合 <sub>⭐ 1.0k · Python</sub>
+- [medspacy/medspacy](https://github.com/medspacy/medspacy) - 臨床NLPとスパシーのライブラリ。 <sub>⭐ 680 · Jupyter Notebook</sub>
+- [ncbi-nlp/bluebert](https://github.com/ncbi-nlp/bluebert) - パブメドの抽象と臨床ノート(MIMIC-III)で事前訓練されたBlueBERT。 <sub>⭐ 600 · Python</sub>
+- [kexinhuang12345/clinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) - 臨床BERT:臨床ノートおよび予知の病院の読解(CHIL 2020の研修会)を模倣します <sub>⭐ 452 · Jupyter Notebook</sub>
+- [apple/FHIRModels](https://github.com/apple/FHIRModels) - FHIR®リソースデータモデルのSwiftライブラリ <sub>⭐ 209 · Swift</sub>
+- [som-shahlab/femr](https://github.com/som-shahlab/femr) - FEMR(電子医療記録の枠組み)は、電子健康記録を用いた大規模で自己監視学習のためのツールを提供します <sub>⭐ 182 · Python</sub>
+- [smart-on-fhir/Swift-FHIR](https://github.com/smart-on-fhir/Swift-FHIR) - FHIR要素とリソースのデータモデルのSwiftクラスです。 <sub>⭐ 172 · Swift</sub>
+- [aphp/edsnlp](https://github.com/aphp/edsnlp) - モジュラー、高速NLPフレームワーク、PytorchとSPACYと互換性があり、フランス語の臨床ノートのためのカスタマイズされたサポートを提供します。 <sub>⭐ 165 · Python</sub>
+- [uf-hobi-informatics-lab/ClinicalTransformerNER](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerNER) - UF HOBI NLP ラボが開発した名前付きエンティティティ認定のライブラリ <sub>⭐ 157 · Python</sub>
+- [nedap/deidentify](https://github.com/nedap/deidentify) - 最先端のNLPメソッドで医療記録を識別するためのPythonライブラリ。 <sub>⭐ 149 · Python</sub>
+- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - 電子医療記録に関する質問回答のためのテキストツーSQL生成 <sub>⭐ 137 · Python</sub>
+- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) - FHIR MCP Server - MCP サーバーとして、FHIR サーバまたは API を明示するのに役立ちます。 <sub>⭐ 137 · Python</sub>
+- [Ahryman40k/typescript-fhir-types](https://github.com/Ahryman40k/typescript-fhir-types) - FHIR規格のJavascriptオブジェクトモデル <sub>⭐ 132 · TypeScript</sub>
+- [samply/golang-fhir-models](https://github.com/samply/golang-fhir-models) - FHIRモデル <sub>⭐ 109 · Go</sub>
+- [som-shahlab/medalign](https://github.com/som-shahlab/medalign) - MedAlignは、電子医療記録に従った指示のための臨床医発生成データセットです。 <sub>⭐ 103</sub>
+- [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) - 医療データ規格の処理を行うFHIR MCP Server。 <sub>⭐ 101 · Python</sub>
+- [bvanaken/clinical-outcome-prediction](https://github.com/bvanaken/clinical-outcome-prediction) - EACL 2021用紙のコード:自己監視された知識統合を使用して、入学ノートから臨床外来予測 <sub>⭐ 99 · Python</sub>
+- [salgadev/medical-nlp](https://github.com/salgadev/medical-nlp) - 臨床転写とカスタム生成された臨床ストップワードや語彙のコパスを用いた自然言語処理のためのデータセット。 <sub>⭐ 99</sub>
+- [aws-samples/medical-transcription-analysis](https://github.com/aws-samples/medical-transcription-analysis) - 医療のトランスクリプション分析(MTA)は、Amazon Comprehend MedicalとAmazon Transcribe Medicalの統合がオーディオデータをトランジストしたり、主要な医療コンポーネントを抽出したりするのに使用できる方法を示しています。 <sub>⭐ 95 · JavaScript</sub>
+- [inferno-framework/fhir_models](https://github.com/inferno-framework/fhir_models) - FHIRリソースモデル <sub>⭐ 94 · Ruby</sub>
+- [jmandel/health-skillz](https://github.com/jmandel/health-skillz) - FHIRのSMARTによる個人健康記録への接続と分析のためのクロードスキル <sub>⭐ 82 · TypeScript</sub>
+- [aphp/eds-pseudo](https://github.com/aphp/eds-pseudo) - EDS-Pseudoは、臨床レポートにおける個人を特定する組織を検出するためのハイブリッドモデルです。 <sub>⭐ 76 · Python</sub>
+- [microsoft/azure-health-data-services-toolkit](https://github.com/microsoft/azure-health-data-services-toolkit) - Azure Health Data Serviceのカスタマイズモデル。 <sub>⭐ 76 · C#</sub>
+- [nazmulkazi/dataset_automated_medical_transcription](https://github.com/nazmulkazi/dataset_automated_medical_transcription) - ドクターパティエンの会話から精神科症例を自動生成するためのトレーニングマシン学習モデルのデータセット。 <sub>⭐ 75</sub>
+- [OHNLP/MedTagger](https://github.com/OHNLP/MedTagger) - MedTagger は、Apache UIMA で構築された軽量の臨床 NLP システムです。 <sub>⭐ 74 · Java</sub>
+- [ohs-foundation/kotlin-fhir](https://github.com/ohs-foundation/kotlin-fhir) - Kotlin FHIR は、Kotlin Multiplatform 上の HL7® FHIR® データモデルのリーンで高速な実装です。 <sub>⭐ 70 · Kotlin</sub>
+- [langcare/langcare-mcp-fhir](https://github.com/langcare/langcare-mcp-fhir) - FHIR ベースの EMR 用のエンタープライズグレードの MCP サーバー, エージェント型の AI プラットフォームで堅牢な展開のために設計. <sub>⭐ 67 · Go</sub>
+- [The-Swarm-Corporation/Open-MAI-Dx-Orchestrator](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator) - 論文のオープンソース実装:「Swarms Frameworkで構築されたMicrosoftから言語モデルによる順次診断」 <sub>⭐ 66 · Python</sub>
+- [acadTags/Explainable-Automated-Medical-Coding](https://github.com/acadTags/Explainable-Automated-Medical-Coding) - 階層的ラベル指向ネットワーク(HLAN)による臨床メモの記述可能なコーディングの実施とデモ <sub>⭐ 65 · Python</sub>
+- [3778/icd-prediction-mimic](https://github.com/3778/icd-prediction-mimic) - 臨床ノートからICDコードを予測 <sub>⭐ 64 · Jupyter Notebook</sub>
+- [BD2KOnFHIR/NLP2FHIR](https://github.com/BD2KOnFHIR/NLP2FHIR) - NLP2FHIR: FHIRベースの臨床データ正規化パイプラインとその応用 <sub>⭐ 64 · Java</sub>
+- [aws-samples/aws-healthscribe-demo](https://github.com/aws-samples/aws-healthscribe-demo) - AWS HealthScribeでは、遺伝子AIを用いた患者様・クライニシャンの会話から臨床メモを自動的に作成することができます。このアート・オブ・ザ・ポジシブル・デモは、AWSと対話できます... <sub>⭐ 59 · TypeScript</sub>
+- [srdc/cda2fhir](https://github.com/srdc/cda2fhir) - CDA～FHIRトランスライブラリー <sub>⭐ 59 · Java</sub>
+- [gkotsis/negation-detection](https://github.com/gkotsis/negation-detection) - ネガエーション検出NLPツール。コードを使用する場合は、ジョージ・グコティシス、スミトラ・ヴェルピレイ、アニカ・オエルリッヒ、ハリー・ディーン、マリア・リアカタとリナ・デュタを引用してください。メモが誤解されるようにしないでください:... <sub>⭐ 56 · Python</sub>
+- [Okes2024/Early-Detection-of-Chronic-Diseases-from-EHRs](https://github.com/Okes2024/Early-Detection-of-Chronic-Diseases-from-EHRs) - 目的:電子健康記録(EHR)を使用して慢性疾患の発症を予測します。方法:MLアルゴリズムを適用して、歴史的医学的データパターンを介して高リスク患者を特定します。値:有効... <sub>⭐ 56 · Python</sub>
+- [Okes2024/NLP-Analysis-of-Patient-Journals-for-Anxiety-Trends](https://github.com/Okes2024/NLP-Analysis-of-Patient-Journals-for-Anxiety-Trends) - このプロジェクトは、不安の傾向のための合成患者ジャーナルを分析するためにNLPを使用しています。 これは、テキストプリプロセッシング、スキャリング、トピックモデリングを適用してパターンを検出し、精神的な洞察を提供... <sub>⭐ 56 · Python</sub>
 
 ## 🧬 創薬、ゲノミクス、研究
 
 > 創薬、ゲノミクス、生物医学。
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering… <sub>⭐ 47.4k · Python</sub>
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required. <sub>⭐ 24.4k · Python</sub>
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - AIエージェントをAIサイエンティストに変えます。 科学のための#1 Agent Skillsライブラリは、世界中で250,000以上の科学者によって使用されます。 177の既定のスキルと100 +の科学データベースがカバーしています... <sub>⭐ 47.4k · Python</sub>
+- [plotly/dash](https://github.com/plotly/dash) - Python用のデータアプリとダッシュボード。 JavaScriptは必要ありません。 <sub>⭐ 24.4k · Python</sub>
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - 薬の発見、量子化学、材料科学および生物学のためのDeep-Learningを分極する <sub>⭐ 7.0k · Python</sub>
-- [aipoch/open-science](https://github.com/aipoch/open-science) - The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and… <sub>⭐ 5.4k · TypeScript</sub>
-- [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) - The open-source AI workbench for scientific research <sub>⭐ 3.9k · TypeScript</sub>
-- [sokrypton/ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all! <sub>⭐ 2.9k · Jupyter Notebook</sub>
-- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond. <sub>⭐ 2.0k</sub>
-- [allenai/scispacy](https://github.com/allenai/scispacy) - A full spaCy pipeline and models for scientific/biomedical documents. <sub>⭐ 2.0k · Python</sub>
+- [aipoch/open-science](https://github.com/aipoch/open-science) - オープンソースのAIリサーチは、科学的研究とエージェントワークフローのためのワークベンチです。ローカルファースト、モデルアグノスティックデスクトップアプリで拡張可能なスキル、MCPツールやコネクタ、Python/R実行および... <sub>⭐ 5.4k · TypeScript</sub>
+- [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) - 科学的研究のためのオープンソースAIワークベンチ <sub>⭐ 3.9k · TypeScript</sub>
+- [sokrypton/ColabFold](https://github.com/sokrypton/ColabFold) - プロテインの折り畳みがすべてに! <sub>⭐ 2.9k · Jupyter Notebook</sub>
+- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - 科学的発見を加速する素晴らしいAIツール、ライブラリ、論文、データセットおよびフレームワークのキュレーションリスト - 物理と化学から生物学、材料まで。 <sub>⭐ 2.0k</sub>
+- [allenai/scispacy](https://github.com/allenai/scispacy) - 科学的/生物工学的な文書のための完全な spaCy のパイプラインそしてモデル。 <sub>⭐ 2.0k · Python</sub>
 - [Peldom/papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - ディープラーニングを用いたプロテインデザインに関する論文一覧 <sub>⭐ 2.0k</sub>
 - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - タンパク質の機械学習に関する論文のリスト。 <sub>⭐ 1.7k</sub>
-- [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - A powerful and flexible machine learning platform for drug discovery <sub>⭐ 1.6k · Python</sub>
+- [DeepGraphLearning/torchdrug](https://github.com/DeepGraphLearning/torchdrug) - 薬物発見のための強力で柔軟な機械学習プラットフォーム <sub>⭐ 1.6k · Python</sub>
 - [agemagician/ProtTrans](https://github.com/agemagician/ProtTrans) - ProtTrans は、タンパク質の事前訓練された言語モデルの状態を提供します。ProtTrans は、Summit から何千もの GPU をトレーニングし、トランスモデルを使用して数百台の Google TPU で訓練されました。 <sub>⭐ 1.3k · Jupyter Notebook</sub>
-- [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) - An AI co-scientist running on your desktop. Claude Science but better. <sub>⭐ 1.3k · TypeScript</sub>
-- [greenelab/deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine <sub>⭐ 1.3k · HTML</sub>
-- [a-r-j/graphein](https://github.com/a-r-j/graphein) - Protein Graph Library <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [kexinhuang12345/DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A Deep Learning Toolkit for DTI, Drug Property, PPI, DDI, Protein Function Prediction (Bioinformatics) <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) - ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free. <sub>⭐ 1.1k · Python</sub>
-- [ScorpioLea/AiCE](https://github.com/ScorpioLea/AiCE) - Predicting high-fitness mutations based on protein inverse folding models <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science) - Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models. <sub>⭐ 998 · Rust</sub>
-- [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) - A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug… <sub>⭐ 930 · Python</sub>
+- [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) - デスクトップ上で実行されるAIの共同科学者。 クロードサイエンスがより優れています。 <sub>⭐ 1.3k · TypeScript</sub>
+- [greenelab/deep-review](https://github.com/greenelab/deep-review) - ディープラーニング、ゲノム、精密医療に関する共同執筆論文 <sub>⭐ 1.3k · HTML</sub>
+- [a-r-j/graphein](https://github.com/a-r-j/graphein) - タンパク質グラフライブラリ <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [kexinhuang12345/DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - DTI、薬物特性、PPI、DDI、タンパク質機能予測のためのディープラーニングツールキット(バイオインフォマティクス) <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) - ClawBio - 最初のバイオインフォマティクスネイティブAIエージェントのスキルライブラリ。 ローカルファースト。 Reproducible. オープン。 無料 <sub>⭐ 1.1k · Python</sub>
+- [ScorpioLea/AiCE](https://github.com/ScorpioLea/AiCE) - タンパク質の逆折モデルに基づく高収率変異予測 <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science) - Python/R、MCPバイオインフォマティクスツール、SSH/WSL/GPUランタイム、OpenAI/Anthropicモデルを用いた科学的コンピューティングのためのオープンソース、ローカルファーストデスクトップAIの研究ワークベンチ。 <sub>⭐ 998 · Rust</sub>
+- [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) - エンドツーエンドの学術的研究のための182インストール可能なAIエージェントスキルのキュレーション、多言語ライブラリ - 学習文献発見、科学的な執筆、助成金開発、バイオインフォマティクス、薬... <sub>⭐ 930 · Python</sub>
 - [aqlaboratory/proteinnet](https://github.com/aqlaboratory/proteinnet) - タンパク質構造の機械学習のための標準化されたデータセット <sub>⭐ 920 · Python</sub>
-- [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) - A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. <sub>⭐ 907 · TypeScript</sub>
-- [microsoft/bioemu](https://github.com/microsoft/bioemu) - Inference code for scalable emulation of protein equilibrium ensembles with generative deep learning <sub>⭐ 884 · Python</sub>
-- [NVIDIA-BioNeMo/bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) - BioNeMo Recipes: For building and adapting AI models in drug discovery at scale <sub>⭐ 861 · Python</sub>
-- [generatebio/chroma](https://github.com/generatebio/chroma) - A generative model for programmable protein design <sub>⭐ 834 · Python</sub>
-- [fudan-generative-vision/dynamicPDB](https://github.com/fudan-generative-vision/dynamicPDB) - (AAAI 2025) Dynamic Protein Data Bank <sub>⭐ 786 · Python</sub>
-- [songlab-cal/tape](https://github.com/songlab-cal/tape) - Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology. <sub>⭐ 745 · Python</sub>
+- [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) - 科学者のための自己進化型AI研究同僚。285スキル、ゼロ幻覚、永続的な記憶。 <sub>⭐ 907 · TypeScript</sub>
+- [microsoft/bioemu](https://github.com/microsoft/bioemu) - 遺伝子的深層学習によるタンパク質平衡の拡張可能なエミュレーションのための推論コード <sub>⭐ 884 · Python</sub>
+- [NVIDIA-BioNeMo/bionemo-recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) - BioNeMo のレシピ:スケールで創薬中のAIモデルの構築と適応のために <sub>⭐ 861 · Python</sub>
+- [generatebio/chroma](https://github.com/generatebio/chroma) - プログラム可能なタンパク質設計のためのジェネレーションモデル <sub>⭐ 834 · Python</sub>
+- [fudan-generative-vision/dynamicPDB](https://github.com/fudan-generative-vision/dynamicPDB) - (AAAI 2025) ダイナミックプロテインデータバンク <sub>⭐ 786 · Python</sub>
+- [songlab-cal/tape](https://github.com/songlab-cal/tape) - タスクは、タンパク質の埋め立て(TAPE)を評価し、5つの生物学的に関連した半指示された学習タスクが異なる領域に広がる。 <sub>⭐ 745 · Python</sub>
 - [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) - 生体分子構造予測と設計のためのディープラーニングツールを網羅するコラボノート <sub>⭐ 729 · Jupyter Notebook</sub>
-- [salesforce/progen](https://github.com/salesforce/progen) - Official release of the ProGen models <sub>⭐ 705 · Python</sub>
+- [salesforce/progen](https://github.com/salesforce/progen) - ProGenモデルの公式リリース <sub>⭐ 705 · Python</sub>
 - [LirongWu/awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) - 素晴らしいプロテイン表現学習 <sub>⭐ 686</sub>
 - [microsoft/evodiff](https://github.com/microsoft/evodiff) - 排液モデルによるタンパク質シーケンスと進化アライメントの生成 <sub>⭐ 686 · Python</sub>
-- [aaryansamanta/ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) - High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and… <sub>⭐ 669 · HTML</sub>
-- [westlake-repl/SaProt](https://github.com/westlake-repl/SaProt) - Saprot: Protein Language Model with Structural Alphabet (AA+3Di) <sub>⭐ 637 · Python</sub>
-- [soedinglab/hh-suite](https://github.com/soedinglab/hh-suite) - Remote protein homology detection suite. <sub>⭐ 628 · C</sub>
-- [microsoft/foldingdiff](https://github.com/microsoft/foldingdiff) - Diffusion models of protein structure; trigonometry and attention are all you need! <sub>⭐ 568 · Jupyter Notebook</sub>
-- [HannesStark/EquiBind](https://github.com/HannesStark/EquiBind) - EquiBind: geometric deep learning for fast predictions of the 3D structure in which a small molecule binds to a protein <sub>⭐ 550 · Python</sub>
-- [Discngine/fpocket](https://github.com/Discngine/fpocket) - fpocket is a very fast open source protein pocket detection algorithm based on Voronoi tessellation. The platform is suited for the scientific community willing to develop new scoring functions and… <sub>⭐ 510 · C</sub>
-- [sacdallago/bio_embeddings](https://github.com/sacdallago/bio_embeddings) - Get protein embeddings from protein sequences <sub>⭐ 509 · HTML</sub>
-- [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) - A general, evolvable, and distributed agent framework & harness for data science. <sub>⭐ 488 · Python</sub>
-- [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes <sub>⭐ 468 · Perl</sub>
-- [caufieldjh/awesome-bioie](https://github.com/caufieldjh/awesome-bioie) - A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP) <sub>⭐ 467</sub>
-- [rdk/p2rank](https://github.com/rdk/p2rank) - P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. <sub>⭐ 464 · Groovy</sub>
-- [NVIDIA-BioNeMo/Proteina-Complexa](https://github.com/NVIDIA-BioNeMo/Proteina-Complexa) - Generative model for protein binder design for protein and small molecule targets. Combines a pretrained flow-based generative model (built on La-Proteina) with inference-time optimization. <sub>⭐ 443 · Python</sub>
-- [arpcard/rgi](https://github.com/arpcard/rgi) - Resistance Gene Identifier (RGI). Software to predict resistomes from protein or nucleotide data, including metagenomics data, based on homology and SNP models. <sub>⭐ 434 · Python</sub>
-- [wallnerlab/DockQ](https://github.com/wallnerlab/DockQ) - DockQ is a single continuous quality measure for Protein, Nucleic Acids and Small Molecule Docking Models <sub>⭐ 430 · Python</sub>
-- [jasonkyuyim/se3_diffusion](https://github.com/jasonkyuyim/se3_diffusion) - Implementation for SE(3) diffusion model with application to protein backbone generation <sub>⭐ 425 · Python</sub>
+- [aaryansamanta/ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) - 高校のリサーチポートフォリオ:2つのピアレビュー出版物(IEEE、IJHSR)+量子インスパイアされたML、計算生物学、生物医学的画像処理、野生火災RL、および... <sub>⭐ 669 · HTML</sub>
+- [westlake-repl/SaProt](https://github.com/westlake-repl/SaProt) - Saprot: 構造のアルファベット(AA+3Di)が付いている蛋白質の言語モデル <sub>⭐ 637 · Python</sub>
+- [soedinglab/hh-suite](https://github.com/soedinglab/hh-suite) - 遠隔蛋白質の均質学の検出スイート。 <sub>⭐ 628 · C</sub>
+- [microsoft/foldingdiff](https://github.com/microsoft/foldingdiff) - タンパク質構造の拡散モデル;三角測定と注意はあなたが必要とするすべてです! <sub>⭐ 568 · Jupyter Notebook</sub>
+- [HannesStark/EquiBind](https://github.com/HannesStark/EquiBind) - EquiBind: 3D構造の高速予測のための幾何学的深層学習により、小分子がタンパク質に結合 <sub>⭐ 550 · Python</sub>
+- [Discngine/fpocket](https://github.com/Discngine/fpocket) - fpocket は、Voronoi tessellation に基づいて非常に高速オープンソースのタンパク質ポケット検出アルゴリズムです。このプラットフォームは、新しいスコアリング機能を開発するための科学的なコミュニティが適しています... <sub>⭐ 510 · C</sub>
+- [sacdallago/bio_embeddings](https://github.com/sacdallago/bio_embeddings) - タンパク質シーケンスからタンパク質埋め込みを取得する <sub>⭐ 509 · HTML</sub>
+- [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) - 一般的な、進化可能な分散型エージェントフレームワークとデータサイエンスのハーネス。 <sub>⭐ 488 · Python</sub>
+- [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - BRAKERは、GeneMark-ES/ET/EP/ETPおよびAUGUSTUSの遺伝子構造を完全自動生成するためのパイプラインです。 <sub>⭐ 468 · Perl</sub>
+- [caufieldjh/awesome-bioie](https://github.com/caufieldjh/awesome-bioie) - バイオメディカル情報抽出(BioNLPを含む)に関するリソースのキュレーションリスト <sub>⭐ 467</sub>
+- [rdk/p2rank](https://github.com/rdk/p2rank) - P2Rank:機械学習に基づいてタンパク質の結合部位予測。 <sub>⭐ 464 · Groovy</sub>
+- [NVIDIA-BioNeMo/Proteina-Complexa](https://github.com/NVIDIA-BioNeMo/Proteina-Complexa) - タンパク質と小分子のターゲットのためのタンパク質バインダー設計のための遺伝子モデル。 過渡されたフローベースのジェネレーションモデル(La-Proteinaで構築)を、推論時間最適化と組み合わせる。 <sub>⭐ 443 · Python</sub>
+- [arpcard/rgi](https://github.com/arpcard/rgi) - 抵抗Gene Identifier(RGI)。 均質とSNPモデルに基づいて、メタノミクスデータを含むタンパク質または核化物のデータからのレジドームを予測するソフトウェア。 <sub>⭐ 434 · Python</sub>
+- [wallnerlab/DockQ](https://github.com/wallnerlab/DockQ) - DockQ は蛋白質、核酸および小さい分子ドッキング モデルのための単一の連続的な質の測定です <sub>⭐ 430 · Python</sub>
+- [jasonkyuyim/se3_diffusion](https://github.com/jasonkyuyim/se3_diffusion) - タンパク質骨の生成に応用したSE(3)拡散モデルの実装 <sub>⭐ 425 · Python</sub>
 - [dptech-corp/Uni-Fold](https://github.com/dptech-corp/Uni-Fold) - AlphaFoldを超えてタンパク質モデルを開発するためのオープンソースプラットフォーム。 <sub>⭐ 424 · Python</sub>
-- [dellacortelab/prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction <sub>⭐ 415 · Python</sub>
-- [Runchuan-BU/BioClaw](https://github.com/Runchuan-BU/BioClaw) - AI-Powered Bioinformatics Research Assistant. Built on OpenClaw. <sub>⭐ 410 · TypeScript</sub>
-- [lightdock/lightdock](https://github.com/lightdock/lightdock) - Protein-protein, protein-peptide and protein-DNA docking framework based on the GSO algorithm <sub>⭐ 409 · Python</sub>
-- [jensengroup/propka](https://github.com/jensengroup/propka) - PROPKA predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure. <sub>⭐ 394 · Python</sub>
-- [HKU-BAL/Clair3](https://github.com/HKU-BAL/Clair3) - Clair3 - Symphonizing pileup and full-alignment for deep learning-based long-read variant calling <sub>⭐ 392 · Python</sub>
-- [uw-ipd/RoseTTAFold2NA](https://github.com/uw-ipd/RoseTTAFold2NA) - RoseTTAFold2 protein/nucleic acid complex prediction <sub>⭐ 380 · Python</sub>
-- [mat10d/EvolvePro](https://github.com/mat10d/EvolvePro) - This is the offical codebase to reproduce and use EVOLVEpro, a model for in silico directed evolution of protein activities using few-shot active learning. <sub>⭐ 379 · Python</sub>
-- [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) - 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon. <sub>⭐ 368 · Python</sub>
-- [jonathanking/sidechainnet](https://github.com/jonathanking/sidechainnet) - An all-atom protein structure dataset for machine learning. <sub>⭐ 365 · Python</sub>
-- [HICAI-ZJU/Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) - Scientific Large Language Models: A Survey on Biological & Chemical Domains <sub>⭐ 360</sub>
-- [DSPsleeporg/smiles-transformer](https://github.com/DSPsleeporg/smiles-transformer) - Original implementation of the paper "SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery" by Shion Honda et al. <sub>⭐ 357 · Jupyter Notebook</sub>
-- [bytedance/dplm](https://github.com/bytedance/dplm) - The Family of Diffusion Protein Language Models (DPLM) <sub>⭐ 345 · Python</sub>
-- [zrqiao/NeuralPLexer](https://github.com/zrqiao/NeuralPLexer) - NeuralPLexer: State-specific protein-ligand complex structure prediction with a multi-scale deep generative model <sub>⭐ 336 · Jupyter Notebook</sub>
-- [RosettaCommons/protein_generator](https://github.com/RosettaCommons/protein_generator) - Joint sequence and structure generation with RoseTTAFold sequence space diffusion <sub>⭐ 332 · Python</sub>
-- [DeepGraphLearning/GearNet](https://github.com/DeepGraphLearning/GearNet) - GearNet and Geometric Pretraining Methods for Protein Structure Representation Learning, ICLR'2023 (https://arxiv.org/abs/2203.06125) <sub>⭐ 331 · Python</sub>
-- [Lattice-Automation/seqviz](https://github.com/Lattice-Automation/seqviz) - a JavaScript DNA, RNA, and protein sequence viewer <sub>⭐ 331 · TypeScript</sub>
-- [EDAPINENUT/CBGBench](https://github.com/EDAPINENUT/CBGBench) - Official code repository of <sub>⭐ 329 · Python</sub>
-- [tttianhao/CLEAN](https://github.com/tttianhao/CLEAN) - CLEAN: a contrastive learning model for high-quality functional prediction of proteins <sub>⭐ 328 · Python</sub>
-- [aqlaboratory/rgn](https://github.com/aqlaboratory/rgn) - Recurrent Geometric Networks for end-to-end differentiable learning of protein structure <sub>⭐ 324 · Python</sub>
-- [mheinzinger/ProstT5](https://github.com/mheinzinger/ProstT5) - Bilingual Language Model for Protein Sequence and Structure <sub>⭐ 324 · Jupyter Notebook</sub>
-- [apeterswu/Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) - A collection of awesome bio-foundation models, including protein, RNA, DNA, gene, single-cell, and so on. <sub>⭐ 321</sub>
-- [opendilab/awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design) - A collection of research papers for AI-based protein design <sub>⭐ 318</sub>
-- [debbiemarkslab/EVcouplings](https://github.com/debbiemarkslab/EVcouplings) - Evolutionary couplings from protein and RNA sequence alignments <sub>⭐ 315 · Jupyter Notebook</sub>
-- [NVIDIA-BioNeMo/la-proteina](https://github.com/NVIDIA-BioNeMo/la-proteina) - A partially latent flow matching model for the joint generation of a protein’s amino acid sequence and full atomistic structure, including both the backbone and side chain. <sub>⭐ 311 · Python</sub>
-- [luwei0917/DynamicBind](https://github.com/luwei0917/DynamicBind) - repo for DynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model <sub>⭐ 309 · Jupyter Notebook</sub>
-- [AspirinCode/awesome-AI4MolConformation-MD](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) - List of molecules (small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning <sub>⭐ 308</sub>
-- [ElanaPearl/InterPLM](https://github.com/ElanaPearl/InterPLM) - Discovering Interpretable Features in Protein Language Models via Sparse Autoencoders <sub>⭐ 307 · Python</sub>
+- [dellacortelab/prospr](https://github.com/dellacortelab/prospr) - ProSPr:タンパク質構造予測 <sub>⭐ 415 · Python</sub>
+- [Runchuan-BU/BioClaw](https://github.com/Runchuan-BU/BioClaw) - AI-Poweredバイオインフォマティクス研究アシスタント。OpenClaw上に構築されました。 <sub>⭐ 410 · TypeScript</sub>
+- [lightdock/lightdock](https://github.com/lightdock/lightdock) - GSOアルゴリズムに基づくたんぱく質タンパク質、タンパク質DNAドッキングフレームワーク <sub>⭐ 409 · Python</sub>
+- [jensengroup/propka](https://github.com/jensengroup/propka) - PROPKAは、タンパク質と3D構造に基づくたんぱく質結合複合体におけるイオン化グループのpKa値を予測します。 <sub>⭐ 394 · Python</sub>
+- [HKU-BAL/Clair3](https://github.com/HKU-BAL/Clair3) - Clair3 - 深層学習ベースの長期読取型多様体呼び出しのためのシロップとフルアライメントをシンフォニック化 <sub>⭐ 392 · Python</sub>
+- [uw-ipd/RoseTTAFold2NA](https://github.com/uw-ipd/RoseTTAFold2NA) - RoseTTAFold2タンパク質/核酸複合予測 <sub>⭐ 380 · Python</sub>
+- [mat10d/EvolvePro](https://github.com/mat10d/EvolvePro) - これは、いくつかのショット活性学習を使用してタンパク質活動の進化を向けたシリコのモデルであるEVOLVEproを再現し、使用するための非公式なコードベースです。 <sub>⭐ 379 · Python</sub>
+- [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) - クラウドコードとAIエージェントのバイオインフォマティクス&ライフサイエンススキル - BixBench 92.0%精度。RNA-seq、単一セル、薬物発見、プロテオミクスなど。パワーズOmicsHorizon。 <sub>⭐ 368 · Python</sub>
+- [jonathanking/sidechainnet](https://github.com/jonathanking/sidechainnet) - 機械学習のための全原子タンパク質構造データセット。 <sub>⭐ 365 · Python</sub>
+- [HICAI-ZJU/Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) - 科学的な大きい言語モデル:生物的及び化学ドメインの調査 <sub>⭐ 360</sub>
+- [DSPsleeporg/smiles-transformer](https://github.com/DSPsleeporg/smiles-transformer) - 本田正雄が独自に開発した「SMILESトランス:低データドラッグディスカバリーのプリトレンデッド・モレモンド」を実装。 <sub>⭐ 357 · Jupyter Notebook</sub>
+- [bytedance/dplm](https://github.com/bytedance/dplm) - Diffusion Protein Language Model (DPLM)の家族 <sub>⭐ 345 · Python</sub>
+- [zrqiao/NeuralPLexer](https://github.com/zrqiao/NeuralPLexer) - NeuralPLexer: 多額の深い遺伝子型モデルによる州固有のタンパク質と複雑な構造予測 <sub>⭐ 336 · Jupyter Notebook</sub>
+- [RosettaCommons/protein_generator](https://github.com/RosettaCommons/protein_generator) - RoseTTAFoldシーケンススペース拡散によるジョイントシーケンスと構造生成 <sub>⭐ 332 · Python</sub>
+- [DeepGraphLearning/GearNet](https://github.com/DeepGraphLearning/GearNet) - GearNet および幾何学的 プロテイン構造表現学習のための事前訓練方法, ICLR'2023 (https://arxiv.org/abs/2203.06125) <sub>⭐ 331 · Python</sub>
+- [Lattice-Automation/seqviz](https://github.com/Lattice-Automation/seqviz) - JavaScript DNA、RNA、タンパク質シーケンスビューア <sub>⭐ 331 · TypeScript</sub>
+- [EDAPINENUT/CBGBench](https://github.com/EDAPINENUT/CBGBench) - 公式コードリポジトリ <sub>⭐ 329 · Python</sub>
+- [tttianhao/CLEAN](https://github.com/tttianhao/CLEAN) - CLEAN:タンパク質の高品質機能予測のための対照的な学習モデル <sub>⭐ 328 · Python</sub>
+- [aqlaboratory/rgn](https://github.com/aqlaboratory/rgn) - タンパク質構造のエンドツーエンドの異なる学習のための定期的な幾何学的ネットワーク <sub>⭐ 324 · Python</sub>
+- [mheinzinger/ProstT5](https://github.com/mheinzinger/ProstT5) - プロテインシーケンスと構造のためのバイリンガルモデル <sub>⭐ 324 · Jupyter Notebook</sub>
+- [apeterswu/Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) - タンパク質、RNA、DNA、遺伝子、単細胞などを含む素晴らしいバイオファウンデーションモデルのコレクション。 <sub>⭐ 321</sub>
+- [opendilab/awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design) - AIベースのタンパク質設計に関する研究論文集 <sub>⭐ 318</sub>
+- [debbiemarkslab/EVcouplings](https://github.com/debbiemarkslab/EVcouplings) - タンパク質とRNAシーケンスアライメントからの進化カップリング <sub>⭐ 315 · Jupyter Notebook</sub>
+- [NVIDIA-BioNeMo/la-proteina](https://github.com/NVIDIA-BioNeMo/la-proteina) - タンパク質のアミノ酸シーケンスと全原子構造の共同生成のための部分的にラテンフローマッチングモデル、バックボーンとサイドチェーンの両方を含みます。 <sub>⭐ 311 · Python</sub>
+- [luwei0917/DynamicBind](https://github.com/luwei0917/DynamicBind) - DynamicBindのリポジトリ: リグン固有のタンパク質と複雑な構造を深くequivariant遺伝子モデルで予測する <sub>⭐ 309 · Jupyter Notebook</sub>
+- [AspirinCode/awesome-AI4MolConformation-MD](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) - 遺伝子の人工知能とディープラーニングを用いた分子(小分子、RNA、ペプチド、タンパク質、酵素、抗体、PPI)適合および分子動態(力分野)のリスト <sub>⭐ 308</sub>
+- [ElanaPearl/InterPLM](https://github.com/ElanaPearl/InterPLM) - Sparse Autoencoderによるタンパク質言語モデルの解釈可能な特徴を発見 <sub>⭐ 307 · Python</sub>
 - [zjunlp/Mol-Instructions](https://github.com/zjunlp/Mol-Instructions) - (ICLR 2024) Mol 指示:大きい言語モデルのための大規模の生物分子指示データセット <sub>⭐ 294 · Python</sub>
-- [jingraham/neurips19-graph-protein-design](https://github.com/jingraham/neurips19-graph-protein-design) - Generative Models for Graph-Based Protein Design <sub>⭐ 292 · Python</sub>
-- [lucidrains/equiformer-pytorch](https://github.com/lucidrains/equiformer-pytorch) - Implementation of the Equiformer, SE3/E3 equivariant attention network that reaches new SOTA, and adopted for use by EquiFold for protein folding <sub>⭐ 290 · Python</sub>
-- [adaptyvbio/ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) - Versatile computational pipeline for processing protein structure data for deep learning applications. <sub>⭐ 283 · Python</sub>
-- [a-r-j/ProteinWorkshop](https://github.com/a-r-j/ProteinWorkshop) - Benchmarking framework for protein representation learning. Includes a large number of pre-training and downstream task datasets, models and training/task utilities. (ICLR 2024) <sub>⭐ 279 · Python</sub>
-- [tomtommyyuan/spmind](https://github.com/tomtommyyuan/spmind) - (ICML 2026) Autonomous AI agent for end-to-end spatial proteomics analysis, with SP-Bench for agentic multiplexed-imaging workflows. <sub>⭐ 279 · Python</sub>
-- [Kuhlman-Lab/ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) - GNN trained to predict changes in thermodynamic stability for protein point mutants <sub>⭐ 276 · Python</sub>
-- [NVIDIA-BioNeMo/proteina](https://github.com/NVIDIA-BioNeMo/proteina) - Proteina is a new large-scale flow-based protein backbone generator that utilizes hierarchical fold class labels for conditioning and relies on a tailored scalable transformer architecture. <sub>⭐ 276 · Python</sub>
-- [abidlabs/deep-learning-genomics-primer](https://github.com/abidlabs/deep-learning-genomics-primer) - Contains files for the deep learning in genomics primer. <sub>⭐ 275 · Jupyter Notebook</sub>
-- [ocx-lab/OpenComplex](https://github.com/ocx-lab/OpenComplex) - Trainable PyTorch framework for developing protein, RNA and complex models. <sub>⭐ 273 · Python</sub>
-- [PatWalters/resources_2025](https://github.com/PatWalters/resources_2025) - Machine Learning in Drug Discovery Resources 2024 <sub>⭐ 270</sub>
-- [baker-laboratory/PLACER](https://github.com/baker-laboratory/PLACER) - PLACER is graph neural network for local prediction of protein-ligand conformational ensembles. <sub>⭐ 268 · Python</sub>
-- [kundajelab/dragonn](https://github.com/kundajelab/dragonn) - A toolkit to learn how to model and interpret regulatory sequence data using deep learning. <sub>⭐ 264 · Jupyter Notebook</sub>
-- [LirongWu/MAPE-PPI](https://github.com/LirongWu/MAPE-PPI) - Code for ICLR 2024 (Spotlight) paper "MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding" <sub>⭐ 264 · Python</sub>
-- [tbepler/protein-sequence-embedding-iclr2019](https://github.com/tbepler/protein-sequence-embedding-iclr2019) - Source code for "Learning protein sequence embeddings using information from structure" - ICLR 2019 <sub>⭐ 262 · Python</sub>
-- [octavian-ganea/equidock_public](https://github.com/octavian-ganea/equidock_public) - EquiDock: geometric deep learning for fast rigid 3D protein-protein docking <sub>⭐ 261 · Roff</sub>
-- [BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu) - Deep learning infrastructure for genomics <sub>⭐ 258 · Jupyter Notebook</sub>
-- [Intelligent-Drug-Discovery-Lab/SurfDock](https://github.com/Intelligent-Drug-Discovery-Lab/SurfDock) - SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction <sub>⭐ 257 · Python</sub>
-- [mahmoodlab/PORPOISE](https://github.com/mahmoodlab/PORPOISE) - Pan-Cancer Integrative Histology-Genomic Analysis via Multimodal Deep Learning - Cancer Cell <sub>⭐ 252 · Jupyter Notebook</sub>
-- [agemagician/Ankh](https://github.com/agemagician/Ankh) - Ankh: Optimized Protein Language Model <sub>⭐ 250 · Python</sub>
-- [ai4protein/VenusFactory2](https://github.com/ai4protein/VenusFactory2) - AI agent platform with skills for protein engineering, the noob-friendly AI tutorial tool for life science professionals. (ACL Demo2025, arXiv 2026) <sub>⭐ 249 · Python</sub>
-- [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) - Comprehensive benchmarking of protein-ligand structure prediction methods. (Nature Machine Intelligence) <sub>⭐ 249 · Jupyter Notebook</sub>
-- [ketatam/DiffDock-PP](https://github.com/ketatam/DiffDock-PP) - Implementation of DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models in PyTorch (ICLR 2023 - MLDD Workshop) <sub>⭐ 245 · Python</sub>
-- [benb111/awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) - A curated list of resources for machine learning for small-molecule drug discovery <sub>⭐ 243</sub>
-- [patrickbryant1/Umol](https://github.com/patrickbryant1/Umol) - Protein-ligand structure prediction <sub>⭐ 241 · Jupyter Notebook</sub>
-- [ProteinDesignLab/protpardelle](https://github.com/ProteinDesignLab/protpardelle) - Diffusion-based all-atom protein generative model. <sub>⭐ 239 · Python</sub>
-- [mattragoza/LiGAN](https://github.com/mattragoza/LiGAN) - Deep generative models of voxel grids for structure-based drug discovery <sub>⭐ 238 · Python</sub>
-- [alibaba/LucaProt](https://github.com/alibaba/LucaProt) - LucaProt: A novel deep learning framework that incorporates protein amino acid sequence and structural information to predict protein function. <sub>⭐ 235 · Python</sub>
-- [cambridgeltl/sapbert](https://github.com/cambridgeltl/sapbert) - (NAACL'21 & ACL'21) SapBERT: Self-alignment pretraining for BERT & XL-BEL: Cross-Lingual Biomedical Entity Linking. <sub>⭐ 234 · Python</sub>
-- [zaixizhang/PocketGen](https://github.com/zaixizhang/PocketGen) - PocketGen (Nature Machine Intelligence 24): Generating Full-Atom Ligand-Binding Protein Pockets <sub>⭐ 232 · Python</sub>
-- [Adibvafa/CodonTransformer](https://github.com/Adibvafa/CodonTransformer) - CodonTransformer (2M+ Downloads); The tool for codon optimization, optimizing DNA for protein expression <sub>⭐ 227 · Python</sub>
-- [brianhie/efficient-evolution](https://github.com/brianhie/efficient-evolution) - Efficient evolution from protein language models <sub>⭐ 227 · Python</sub>
-- [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology <sub>⭐ 226 · HTML</sub>
-- [GHeinzelmann/BAT.py](https://github.com/GHeinzelmann/BAT.py) - The Binding Affinity Tool (BAT.py) is a fully automated tool for absolute binding free energy (ABFE) and relative binding free energy (RBFE) calculations on protein-ligand systems, compatible with… <sub>⭐ 226 · Python</sub>
-- [gjoni/trRosetta](https://github.com/gjoni/trRosetta) - A package to predict protein inter-residue geometries from sequence data <sub>⭐ 222 · Python</sub>
-- [DISCO-design/DISCO](https://github.com/DISCO-design/DISCO) - Code for the DISCO model: General Multimodal Protein Design Enables DNA-Encoding of Chemistry <sub>⭐ 219 · Python</sub>
+- [jingraham/neurips19-graph-protein-design](https://github.com/jingraham/neurips19-graph-protein-design) - グラフベースのプロテイン設計の生成モデル <sub>⭐ 292 · Python</sub>
+- [lucidrains/equiformer-pytorch](https://github.com/lucidrains/equiformer-pytorch) - エキフォーマー、SE3/E3 equivariant 注目ネットワークの実装により、新しい SOTA に到達し、エキフォールドによるタンパク質折れ用の使用に採用 <sub>⭐ 290 · Python</sub>
+- [adaptyvbio/ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) - ディープラーニングアプリケーション向けのタンパク質構造データを処理するための汎用性計算パイプライン。 <sub>⭐ 283 · Python</sub>
+- [a-r-j/ProteinWorkshop](https://github.com/a-r-j/ProteinWorkshop) - タンパク質表現学習のためのベンチマーキングフレームワーク。プリトレインとダウンストリームタスクデータセット、モデルおよびトレーニング/タスクユーティリティの多数が含まれています。 (ICLR 2024) <sub>⭐ 279 · Python</sub>
+- [tomtommyyuan/spmind](https://github.com/tomtommyyuan/spmind) - (ICML 2026) エンドツーエンドの空間プロテオミクス分析のための自動AIエージェント, SP-Benchと有能な多重型イメージングワークフロー. <sub>⭐ 279 · Python</sub>
+- [Kuhlman-Lab/ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) - GNNは、タンパク質ポイント変異剤の熱力学的安定性の変化を予測するために訓練 <sub>⭐ 276 · Python</sub>
+- [NVIDIA-BioNeMo/proteina](https://github.com/NVIDIA-BioNeMo/proteina) - Proteina は、階層的なフォールドクラスラベルを使用して新しい大規模なフローベースのタンパク質のバックボーンジェネレータで、調整とスケーラブルなトランスアーキテクチャに依存します。 <sub>⭐ 276 · Python</sub>
+- [abidlabs/deep-learning-genomics-primer](https://github.com/abidlabs/deep-learning-genomics-primer) - ゲノムのプライマーでディープラーニング用のファイルが含まれています。 <sub>⭐ 275 · Jupyter Notebook</sub>
+- [ocx-lab/OpenComplex](https://github.com/ocx-lab/OpenComplex) - タンパク質、RNAおよび複雑なモデルを開発するためのTrainable PyTorchフレームワーク。 <sub>⭐ 273 · Python</sub>
+- [PatWalters/resources_2025](https://github.com/PatWalters/resources_2025) - 薬のディスカバリーリソースで機械学習2024 <sub>⭐ 270</sub>
+- [baker-laboratory/PLACER](https://github.com/baker-laboratory/PLACER) - PLACER は、タンパク質・リガンドコンフォーメーションアンサンブルの局所予測のためのグラフニューラルネットワークです。 <sub>⭐ 268 · Python</sub>
+- [kundajelab/dragonn](https://github.com/kundajelab/dragonn) - ディープラーニングを用いた規制シーケンスデータをモデル化し、解釈する方法を学ぶツールキット。 <sub>⭐ 264 · Jupyter Notebook</sub>
+- [LirongWu/MAPE-PPI](https://github.com/LirongWu/MAPE-PPI) - ICLR 2024(Spotlight)紙「MAPE-PPI:マイクロエンビロンメント・アウェアプロテインによる効果的かつ効率的なタンパク質の相互作用予測に向けて」 <sub>⭐ 264 · Python</sub>
+- [tbepler/protein-sequence-embedding-iclr2019](https://github.com/tbepler/protein-sequence-embedding-iclr2019) - 「構造から情報を使用してタンパク質シーケンスを埋め込む」のソースコード - ICLR 2019 <sub>⭐ 262 · Python</sub>
+- [octavian-ganea/equidock_public](https://github.com/octavian-ganea/equidock_public) - EquiDock: 幾何学的深層学習高速硬質3Dタンパク質-タンパクドッキング <sub>⭐ 261 · Roff</sub>
+- [BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu) - ゲノムのディープラーニングインフラ <sub>⭐ 258 · Jupyter Notebook</sub>
+- [Intelligent-Drug-Discovery-Lab/SurfDock](https://github.com/Intelligent-Drug-Discovery-Lab/SurfDock) - SurfDockは、信頼性と正確なプロテリガンド複合予測のためのサーフェス・インフォーメーションのダイフフュージョン生成モデルです。 <sub>⭐ 257 · Python</sub>
+- [mahmoodlab/PORPOISE](https://github.com/mahmoodlab/PORPOISE) - パン・キャンサーの統合型生態学的分析 - マルチモーダルディープラーニングによるがん細胞 <sub>⭐ 252 · Jupyter Notebook</sub>
+- [agemagician/Ankh](https://github.com/agemagician/Ankh) - Ankh: 最適化されたプロテイン言語モデル <sub>⭐ 250 · Python</sub>
+- [ai4protein/VenusFactory2](https://github.com/ai4protein/VenusFactory2) - ライフサイエンスの専門家のためのノブフレンドリーなAIチュートリアルツールであるタンパク質工学のスキルを持つAIエージェントプラットフォーム。 (ACL Demo2025、arXiv 2026) <sub>⭐ 249 · Python</sub>
+- [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) - タンパク質・リガンド構造予測方法の包括的なベンチマーク。 (自然機械インテリジェンス) <sub>⭐ 249 · Jupyter Notebook</sub>
+- [ketatam/DiffDock-PP](https://github.com/ketatam/DiffDock-PP) - DiffDock-PPの実装:PyTorch(ICLR 2023 - MLDD Workshop)における拡散モデルによる硬質タンパク質プロテインドッキング <sub>⭐ 245 · Python</sub>
+- [benb111/awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) - 小型分子創薬の機械学習のためのリソースのキュレーションリスト <sub>⭐ 243</sub>
+- [patrickbryant1/Umol](https://github.com/patrickbryant1/Umol) - タンパク質・リガンド構造予測 <sub>⭐ 241 · Jupyter Notebook</sub>
+- [ProteinDesignLab/protpardelle](https://github.com/ProteinDesignLab/protpardelle) - Diffusionベースのオールアトムタンパク質遺伝子モデル。 <sub>⭐ 239 · Python</sub>
+- [mattragoza/LiGAN](https://github.com/mattragoza/LiGAN) - 構造ベースの創薬のための voxel グリッドの深いジェネレーションモデル <sub>⭐ 238 · Python</sub>
+- [alibaba/LucaProt](https://github.com/alibaba/LucaProt) - LucaProt:タンパク質のアミノ酸配列と構造情報を組み込んだ新しいディープラーニングフレームワークで、タンパク質機能を予測します。 <sub>⭐ 235 · Python</sub>
+- [cambridgeltl/sapbert](https://github.com/cambridgeltl/sapbert) - (NAACL'21 & ACL'21) タップベルト:BERT&XL-BELのセルフアライメントプリトレイン:クロスリンガルバイオメディカルエンティリンク。 <sub>⭐ 234 · Python</sub>
+- [zaixizhang/PocketGen](https://github.com/zaixizhang/PocketGen) - PocketGen(Nature Machine Intelligence 24):フルアトム・リガンド・ビンディング・プロテインポケットを生成 <sub>⭐ 232 · Python</sub>
+- [Adibvafa/CodonTransformer](https://github.com/Adibvafa/CodonTransformer) - CodonTransformer (2M + ダウンロード)。コドンの最適化のためのツール、タンパク質表現用のDNAを最適化 <sub>⭐ 227 · Python</sub>
+- [brianhie/efficient-evolution](https://github.com/brianhie/efficient-evolution) - タンパク質言語モデルによる効率的な進化 <sub>⭐ 227 · Python</sub>
+- [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - 生物学の深い学習のための10クイックのヒント <sub>⭐ 226 · HTML</sub>
+- [GHeinzelmann/BAT.py](https://github.com/GHeinzelmann/BAT.py) - 結合の親和性用具(BAT.py)は完全で自動化された用具です 絶対的な結合の自由なエネルギー(ABFE)および蛋白質ligandシステム上の相対的な結合の自由エネルギー(RBFE)計算、多用性がある... <sub>⭐ 226 · Python</sub>
+- [gjoni/trRosetta](https://github.com/gjoni/trRosetta) - 配列データからタンパク質間残留地メトリを予測するパッケージ <sub>⭐ 222 · Python</sub>
+- [DISCO-design/DISCO](https://github.com/DISCO-design/DISCO) - DISCOモデルのコード:一般マルチモーダルプロテインデザインにより、化学のDNAエンコーディングが可能 <sub>⭐ 219 · Python</sub>
 - [hypnopump/MiniFold](https://github.com/hypnopump/MiniFold) - MiniFold:DeepMind AlphaFoldアルゴリズムに触発されたタンパク質構造予測のディープラーニング <sub>⭐ 219 · Jupyter Notebook</sub>
-- [westlake-repl/ProTrek](https://github.com/westlake-repl/ProTrek) - ProTrek: illuminating the Protein Universe through Trimodal Protein Language Model (Connecting text and protein) <sub>⭐ 217 · Python</sub>
-- [Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery](https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery) - A collection of resources useful for leveraging big data and AI for drug discovery. It mainly serves as an orientation for new lab folks. It may be biased towards my lab interest. <sub>⭐ 212</sub>
-- [PKU-YuanGroup/ProLLaMA](https://github.com/PKU-YuanGroup/ProLLaMA) - A Protein Large Language Model for Multi-Task Protein Language Processing <sub>⭐ 209 · Python</sub>
-- [A4Bio/ProteinInvBench](https://github.com/A4Bio/ProteinInvBench) - The official implementation of the NeurIPS'23 paper ProteinInvBench: Benchmarking Protein Design on Diverse Tasks, Models, and Metrics <sub>⭐ 206 · Python</sub>
-- [haddocking/prodigy](https://github.com/haddocking/prodigy) - Predict the binding affinity of protein-protein complexes from structural data <sub>⭐ 197 · Python</sub>
-- [google-research/proteinfer](https://github.com/google-research/proteinfer) - Deep networks for protein functional inference <sub>⭐ 196 · Jupyter Notebook</sub>
-- [aqlaboratory/genie2](https://github.com/aqlaboratory/genie2) - Protein structure diffusion model for unconditional protein generation and motif scaffolding <sub>⭐ 195 · Python</sub>
-- [Yijia-Xiao/Protein-LLM-Survey](https://github.com/Yijia-Xiao/Protein-LLM-Survey) - Large Language Models in Protein: A Comprehensive Survey <sub>⭐ 195</sub>
-- [biolib/openprotein](https://github.com/biolib/openprotein) - A PyTorch framework for prediction of tertiary protein structure <sub>⭐ 193 · Python</sub>
-- [HWaymentSteele/AF_Cluster](https://github.com/HWaymentSteele/AF_Cluster) - Predict multiple protein conformations using sequence clustering and AlphaFold2. <sub>⭐ 192 · Jupyter Notebook</sub>
-- [aqlaboratory/genie](https://github.com/aqlaboratory/genie) - De Novo Protein Design by Equivariantly Diffusing Oriented Residue Clouds <sub>⭐ 190 · Python</sub>
-- [NVIDIA/MegaMolBART](https://github.com/NVIDIA/MegaMolBART) - A deep learning model for small molecule drug discovery and cheminformatics based on SMILES <sub>⭐ 185 · Python</sub>
-- [VerisimilitudeX/DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer) - Precision genomics for everyone, everywhere. Powered by private AI. <sub>⭐ 185 · Java</sub>
-- [LPDI-EPFL/masif-neosurf](https://github.com/LPDI-EPFL/masif-neosurf) - MaSIF-neosurf: surface-based protein design for ternary complexes. <sub>⭐ 180 · Python</sub>
-- [bjing2016/EigenFold](https://github.com/bjing2016/EigenFold) - EigenFold: Generative Protein Structure Prediction with Diffusion Models <sub>⭐ 179 · Jupyter Notebook</sub>
+- [westlake-repl/ProTrek](https://github.com/westlake-repl/ProTrek) - ProTrek: トリモーダルプロテイン言語モデル(テキストとタンパク質の結合)によるタンパク質宇宙を照らす <sub>⭐ 217 · Python</sub>
+- [Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery](https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery) - 創薬のためのビッグデータとAIを活用した有用なリソースのコレクション。主に新しいラボの人々のためのオリエンテーションとして機能します。それは私の研究室の興味に偏っているかもしれません。 <sub>⭐ 212</sub>
+- [PKU-YuanGroup/ProLLaMA](https://github.com/PKU-YuanGroup/ProLLaMA) - マルチタスクプロテイン言語処理のためのタンパク質大国語モデル <sub>⭐ 209 · Python</sub>
+- [A4Bio/ProteinInvBench](https://github.com/A4Bio/ProteinInvBench) - NeurIPS'23 ペーパー ProteinInvBench の正式な実装: ダイバータスク、モデル、メトリックに関するプロテインデザインをベンチマークする <sub>⭐ 206 · Python</sub>
+- [haddocking/prodigy](https://github.com/haddocking/prodigy) - 構造データからタンパク質-タンパク質複合体の結合の類縁を予測する <sub>⭐ 197 · Python</sub>
+- [google-research/proteinfer](https://github.com/google-research/proteinfer) - タンパク質機能不本性のための深いネットワーク <sub>⭐ 196 · Jupyter Notebook</sub>
+- [aqlaboratory/genie2](https://github.com/aqlaboratory/genie2) - 無条件のタンパク質生成とモチーフの足場のための蛋白質構造拡散モデル <sub>⭐ 195 · Python</sub>
+- [Yijia-Xiao/Protein-LLM-Survey](https://github.com/Yijia-Xiao/Protein-LLM-Survey) - タンパク質の大きな言語モデル:包括的な調査 <sub>⭐ 195</sub>
+- [biolib/openprotein](https://github.com/biolib/openprotein) - PyTorchは、テラチアリタンパク質構造の予測フレームワークです。 <sub>⭐ 193 · Python</sub>
+- [HWaymentSteele/AF_Cluster](https://github.com/HWaymentSteele/AF_Cluster) - シーケンスクラスタリングとAlphaFold2を使用して、複数のタンパク質のコンフォーメーションを予測します。 <sub>⭐ 192 · Jupyter Notebook</sub>
+- [aqlaboratory/genie](https://github.com/aqlaboratory/genie) - オリエントされた残余の雲によるデノボ蛋白質の設計 <sub>⭐ 190 · Python</sub>
+- [NVIDIA/MegaMolBART](https://github.com/NVIDIA/MegaMolBART) - SMILESに基づく小分子創薬・化学品の深い学習モデル <sub>⭐ 185 · Python</sub>
+- [VerisimilitudeX/DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer) - あらゆる人のための精密ゲノム。プライベートAIによって動力を与えられる。 <sub>⭐ 185 · Java</sub>
+- [LPDI-EPFL/masif-neosurf](https://github.com/LPDI-EPFL/masif-neosurf) - MaSIF-neosurf: 外部の複合体のための表面ベースのタンパク質設計。 <sub>⭐ 180 · Python</sub>
+- [bjing2016/EigenFold](https://github.com/bjing2016/EigenFold) - EigenFold:Diffusionモデルによる遺伝子生成タンパク質構造予測 <sub>⭐ 179 · Jupyter Notebook</sub>
 - [FreshAirTonight/af2complex](https://github.com/FreshAirTonight/af2complex) - AlphaFold ディープラーニングニューラルネットワークモデルとの直接タンパク質相互作用を予測します。 <sub>⭐ 177 · Python</sub>
-- [microsoft/FS-Mol](https://github.com/microsoft/FS-Mol) - FS-Mol is A Few-Shot Learning Dataset of Molecules, containing molecular compounds with measurements of activity against a variety of protein targets. The dataset is presented with a model evaluation… <sub>⭐ 177 · Python</sub>
-- [phbradley/alphafold_finetune](https://github.com/phbradley/alphafold_finetune) - Python code for fine-tuning AlphaFold to perform protein-peptide binding predictions <sub>⭐ 176 · Python</sub>
+- [microsoft/FS-Mol](https://github.com/microsoft/FS-Mol) - FS-Molは、さまざまなタンパク質ターゲットに対する活性の測定を含む分子化合物を含むMoleculesのFew-Shot学習データセットです。 データセットはモデル評価で提示されます... <sub>⭐ 177 · Python</sub>
+- [phbradley/alphafold_finetune](https://github.com/phbradley/alphafold_finetune) - タンパク質ペプチド結合予測を実行するためにAlphaFoldを微調整するためのPythonコード <sub>⭐ 176 · Python</sub>
 - [LBM-EPFL/PeSTo](https://github.com/LBM-EPFL/PeSTo) - タンパク質構造からタンパク質結合インタフェースを予測する幾何学的深層学習法。 <sub>⭐ 174 · Jupyter Notebook</sub>
-- [tencent-ailab/DrugOOD](https://github.com/tencent-ailab/DrugOOD) - OOD Dataset Curator and Benchmark for AI-aided Drug Discovery <sub>⭐ 174 · Python</sub>
-- [BasedLabs/NoLabs](https://github.com/BasedLabs/NoLabs) - Open source biolab <sub>⭐ 172 · JavaScript</sub>
-- [DUTIR-BioNLP/Taiyi-LLM](https://github.com/DUTIR-BioNLP/Taiyi-LLM) - Taiyi 2, Biomedical LLM, A Bilingual (Chinese and English) Fine-Tuned Large Language Model for Diverse Biomedical Tasks <sub>⭐ 170 · Python</sub>
-- [OATML-Markslab/Tranception](https://github.com/OATML-Markslab/Tranception) - Official repository for the paper "Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval" <sub>⭐ 170 · Python</sub>
-- [westlake-repl/SaprotHub](https://github.com/westlake-repl/SaprotHub) - Making Protein Language Modeling Accessible to All Biologists <sub>⭐ 169 · Jupyter Notebook</sub>
-- [BenevolentAI/DeeplyTough](https://github.com/BenevolentAI/DeeplyTough) - DeeplyTough: Learning Structural Comparison of Protein Binding Sites <sub>⭐ 168 · Python</sub>
-- [pengzhangzhi/faplm](https://github.com/pengzhangzhi/faplm) - FAPLM: A Drop-in Efficient Pytorch Implementation of Protein Language Models <sub>⭐ 168 · Python</sub>
-- [masashitsubaki/CPI_prediction](https://github.com/masashitsubaki/CPI_prediction) - This is a code for compound-protein interaction (CPI) prediction based on a graph neural network (GNN) for compounds and a convolutional neural network (CNN) for proteins. <sub>⭐ 167 · Python</sub>
-- [lucidrains/protein-bert-pytorch](https://github.com/lucidrains/protein-bert-pytorch) - Implementation of ProteinBERT in Pytorch <sub>⭐ 165 · Python</sub>
-- [PeptoneLtd/dspp-keras](https://github.com/PeptoneLtd/dspp-keras) - Protein order and disorder data for Keras, Tensor Flow and Edward frameworks with automated update cycle made for continuous learning applications. <sub>⭐ 165 · Python</sub>
-- [adaptyvbio/protein-design-skills](https://github.com/adaptyvbio/protein-design-skills) - Claude Code skills for protein design <sub>⭐ 163</sub>
-- [chao1224/ChatDrug](https://github.com/chao1224/ChatDrug) - LLM for Drug Editing, ICLR 2024 <sub>⭐ 163 · Python</sub>
-- [Saoge123/PocketFlow](https://github.com/Saoge123/PocketFlow) - an autoregressive flow model incorporated with chemical acknowledge for generating drug-like molecules inside protein pockets <sub>⭐ 163 · Python</sub>
-- [ai4protein/ProSST](https://github.com/ai4protein/ProSST) - Advanced hybrid language model for directed protein evolution. (NeurIPS 2024) <sub>⭐ 162 · Python</sub>
-- [TianGzlab/OmicsClaw](https://github.com/TianGzlab/OmicsClaw) - Conversational & memory-enabled AI research partner for multi-omics analysis. CLI + Desktop App (installers in Releases). From biological idea to full research paper. <sub>⭐ 161 · Python</sub>
-- [lucidrains/chroma-pytorch](https://github.com/lucidrains/chroma-pytorch) - Implementation of Chroma, generative models of protein using DDPM and GNNs, in Pytorch <sub>⭐ 160 · Python</sub>
-- [lifanchen-simm/transformerCPI](https://github.com/lifanchen-simm/transformerCPI) - TransformerCPI: Improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments(BIOINFORMATICS 2020)… <sub>⭐ 159 · Python</sub>
-- [samsledje/ConPLex](https://github.com/samsledje/ConPLex) - Adapting protein language models and contrastive learning for highly-accurate drug-target interaction prediction. <sub>⭐ 156 · Python</sub>
-- [VarunUllanat/mint](https://github.com/VarunUllanat/mint) - Learning the language of protein-protein interactions <sub>⭐ 156 · Python</sub>
-- [zaixizhang/STELLA](https://github.com/zaixizhang/STELLA) - STELLA: Self-Evolving LLM Agent for Biomedical Research <sub>⭐ 156 · Python</sub>
-- [amyxlu/cheap-proteins](https://github.com/amyxlu/cheap-proteins) - Joint embedding of protein sequence and structure with discrete and continuous compressions of protein folding model latent spaces. http://bit.ly/cheap-proteins <sub>⭐ 155 · Python</sub>
-- [DeepChainBio/bio-transformers](https://github.com/DeepChainBio/bio-transformers) - bio-transformers is a wrapper on top of the ESM/Protbert model, trained on millions on proteins and used to predict embeddings. <sub>⭐ 155 · Python</sub>
-- [rs239/abmap](https://github.com/rs239/abmap) - Protein language model customized for antibodies <sub>⭐ 155 · Jupyter Notebook</sub>
-- [Shen-Lab/DeepAffinity](https://github.com/Shen-Lab/DeepAffinity) - Protein-compound affinity prediction through unified RNN-CNN <sub>⭐ 155 · Python</sub>
-- [zjunlp/OntoProtein](https://github.com/zjunlp/OntoProtein) - (ICLR 2022) OntoProtein: Protein Pretraining With Gene Ontology Embedding <sub>⭐ 153 · Python</sub>
-- [evo-design/protein-dpo](https://github.com/evo-design/protein-dpo) - Aligning protein generative models with experimental fitness <sub>⭐ 152 · Python</sub>
-- [ATOMScience-org/AMPL](https://github.com/ATOMScience-org/AMPL) - The ATOM Modeling PipeLine (AMPL) is an open-source, modular, extensible software pipeline for building and sharing models to advance in silico drug discovery. <sub>⭐ 149 · Jupyter Notebook</sub>
-- [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) - GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scenario where high quality proteins from one or several closely… <sub>⭐ 149 · Perl</sub>
-- [ai4protein/VenusREM](https://github.com/ai4protein/VenusREM) - Augmenting zero-shot mutant prediction by retrieval-based logits fusion. (ISMB/ECCB 2025) <sub>⭐ 147 · Python</sub>
-- [patrickbryant1/RareFold](https://github.com/patrickbryant1/RareFold) - Structure prediction and design of proteins with noncanonical amino acids <sub>⭐ 147 · Python</sub>
-- [BioinfoMachineLearning/FlowDock](https://github.com/BioinfoMachineLearning/FlowDock) - A geometric flow matching model for generative protein-ligand docking and affinity prediction. (ISMB 2025) <sub>⭐ 146 · Python</sub>
-- [PapenfussLab/proteindj](https://github.com/PapenfussLab/proteindj) - Official repository for the ProteinDJ protein design pipeline <sub>⭐ 146 · Python</sub>
-- [polaris-hub/polaris](https://github.com/polaris-hub/polaris) - Foster the development of impactful AI models in drug discovery. <sub>⭐ 145 · Python</sub>
-- [QizhiPei/FABind](https://github.com/QizhiPei/FABind) - FABind: Fast and Accurate Protein-Ligand Binding (NeurIPS 2023) <sub>⭐ 145 · Python</sub>
-- [huankoh/PSICHIC](https://github.com/huankoh/PSICHIC) - PSICHIC (pronounced Psychic) - PhySIcoCHemICal graph neural network for learning protein-ligand interaction fingerprints from sequence data <sub>⭐ 144 · Jupyter Notebook</sub>
-- [ngruver/NOS](https://github.com/ngruver/NOS) - Protein Design with Guided Discrete Diffusion <sub>⭐ 144 · Python</sub>
-- [lucidrains/ddpm-proteins](https://github.com/lucidrains/ddpm-proteins) - A denoising diffusion probabilistic model (DDPM) tailored for conditional generation of protein distograms <sub>⭐ 143 · Python</sub>
+- [tencent-ailab/DrugOOD](https://github.com/tencent-ailab/DrugOOD) - OOD データセット キュレーターとAI支援薬の発見のためのベンチマーク <sub>⭐ 174 · Python</sub>
+- [BasedLabs/NoLabs](https://github.com/BasedLabs/NoLabs) - オープンソースバイオラボ <sub>⭐ 172 · JavaScript</sub>
+- [DUTIR-BioNLP/Taiyi-LLM](https://github.com/DUTIR-BioNLP/Taiyi-LLM) - Taiyi 2、生物医学 LLM の Bilingual (中国語および英語) 副作用の生物医学的仕事のための良い踏まれた大きい言語モデル <sub>⭐ 170 · Python</sub>
+- [OATML-Markslab/Tranception](https://github.com/OATML-Markslab/Tranception) - 紙の公式リポジトリ「Tranception:AutoregressiveトランスとInference-time Retrievalによるタンパク質フィットネス予測」 <sub>⭐ 170 · Python</sub>
+- [westlake-repl/SaprotHub](https://github.com/westlake-repl/SaprotHub) - すべての生物学者にアクセシブルなプロテイン言語のモデリングを作る <sub>⭐ 169 · Jupyter Notebook</sub>
+- [BenevolentAI/DeeplyTough](https://github.com/BenevolentAI/DeeplyTough) - DeeplyTough:タンパク質結合サイトの構造比較を学ぶ <sub>⭐ 168 · Python</sub>
+- [pengzhangzhi/faplm](https://github.com/pengzhangzhi/faplm) - FAPLM:タンパク質言語モデルのドロップイン効率的なピトルチ実装 <sub>⭐ 168 · Python</sub>
+- [masashitsubaki/CPI_prediction](https://github.com/masashitsubaki/CPI_prediction) - これは、化合物のグラフニューラルネットワーク(GNN)に基づく複合タンパク質相互作用(CPI)予測とタンパク質のための複雑な神経ネットワーク(CNN)のためのコードです。 <sub>⭐ 167 · Python</sub>
+- [lucidrains/protein-bert-pytorch](https://github.com/lucidrains/protein-bert-pytorch) - PytorchのProteberT導入 <sub>⭐ 165 · Python</sub>
+- [PeptoneLtd/dspp-keras](https://github.com/PeptoneLtd/dspp-keras) - Keras、Tensor FlowおよびEdwardのフレームワークのための蛋白質順序そして無秩序データ連続的な学習の適用のためになされる自動更新周期。 <sub>⭐ 165 · Python</sub>
+- [adaptyvbio/protein-design-skills](https://github.com/adaptyvbio/protein-design-skills) - タンパク質設計のためのクロードコードスキル <sub>⭐ 163</sub>
+- [chao1224/ChatDrug](https://github.com/chao1224/ChatDrug) - LLM for Drug Editing, ICLR 2024 _ 株式会社ドリテック <sub>⭐ 163 · Python</sub>
+- [Saoge123/PocketFlow](https://github.com/Saoge123/PocketFlow) - 蛋白質のポケットの中の薬物のような分子を発生させるために化学と組み込まれる自動回帰の流れモデル <sub>⭐ 163 · Python</sub>
+- [ai4protein/ProSST](https://github.com/ai4protein/ProSST) - 指示された蛋白質の進化のための高度の雑種の言語モデル。 (NeurIPS 2024) <sub>⭐ 162 · Python</sub>
+- [TianGzlab/OmicsClaw](https://github.com/TianGzlab/OmicsClaw) - マルチオミクス分析のための会話&メモリ対応AI研究パートナー。 CLI +デスクトップアプリ(リリース中のインストーラ)。 生物学的アイデアからフルリサーチペーパーまで。 <sub>⭐ 161 · Python</sub>
+- [lucidrains/chroma-pytorch](https://github.com/lucidrains/chroma-pytorch) - Pytorch の DDPM および GNNs を用いたタンパク質のクロマ、遺伝子モデルの実装 <sub>⭐ 160 · Python</sub>
+- [lifanchen-simm/transformerCPI](https://github.com/lifanchen-simm/transformerCPI) - トランスCPI:自己保持メカニズムとラベル反転実験(BIOINFORMATICS 2020)でシーケンスベースのディープラーニングによる化合物タンパク質相互作用予測の改善... <sub>⭐ 159 · Python</sub>
+- [samsledje/ConPLex](https://github.com/samsledje/ConPLex) - 高精度な薬物ターゲット相互作用予測のためのタンパク質言語モデルと対照的な学習を適応させます。 <sub>⭐ 156 · Python</sub>
+- [VarunUllanat/mint](https://github.com/VarunUllanat/mint) - タンパク質タンパク質相互作用の言語を学ぶ <sub>⭐ 156 · Python</sub>
+- [zaixizhang/STELLA](https://github.com/zaixizhang/STELLA) - STELLA:生物医学研究のための自己進化LMの代理店 <sub>⭐ 156 · Python</sub>
+- [amyxlu/cheap-proteins](https://github.com/amyxlu/cheap-proteins) - タンパク質シーケンスと構造の共同埋め込まれる、変流型および連続的圧縮モデルラテンドスペース。 http://bit.ly/cheap-protein <sub>⭐ 155 · Python</sub>
+- [DeepChainBio/bio-transformers](https://github.com/DeepChainBio/bio-transformers) - バイオトランスフォーマーは、ESM/Protbertモデルの上部にあるラッパーで、タンパク質に何百万もの訓練され、埋め込む予測に使用される。 <sub>⭐ 155 · Python</sub>
+- [rs239/abmap](https://github.com/rs239/abmap) - 抗体のためにカスタマイズされる蛋白質の言語モデル <sub>⭐ 155 · Jupyter Notebook</sub>
+- [Shen-Lab/DeepAffinity](https://github.com/Shen-Lab/DeepAffinity) - 統合型RNN-CNNによるタンパク質合成アフィニティ予測 <sub>⭐ 155 · Python</sub>
+- [zjunlp/OntoProtein](https://github.com/zjunlp/OntoProtein) - (ICLR 2022) OntoProtein:遺伝子腫瘍学のエマーブレーションによるタンパク質の事前トレーニング <sub>⭐ 153 · Python</sub>
+- [evo-design/protein-dpo](https://github.com/evo-design/protein-dpo) - 実験的なフィットネスでタンパク質遺伝子モデルを一直線に合わせる <sub>⭐ 152 · Python</sub>
+- [ATOMScience-org/AMPL](https://github.com/ATOMScience-org/AMPL) - ATOM Modeling PipeLine(AMPL)は、サイリコの創薬を事前にモデルを構築および共有するためのオープンソース、モジュラー、拡張可能なソフトウェアパイプラインです。 <sub>⭐ 149 · Jupyter Notebook</sub>
+- [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) - GALBAは、タンパク質のコーディング遺伝子構造を完全に自動化するためのパイプラインです。 AUGUSTUSで新しいユーカロヨティックゲノムが1つまたは複数の密接に高品質のたんぱく質をシナリオのために... <sub>⭐ 149 · Perl</sub>
+- [ai4protein/VenusREM](https://github.com/ai4protein/VenusREM) - 反復ベースのlogitsの融合によるゼロショット変異予測を拡張する。 (ISMB/ECCB 2025) <sub>⭐ 147 · Python</sub>
+- [patrickbryant1/RareFold](https://github.com/patrickbryant1/RareFold) - ノンカニカルアミノ酸によるタンパク質の構造予測と設計 <sub>⭐ 147 · Python</sub>
+- [BioinfoMachineLearning/FlowDock](https://github.com/BioinfoMachineLearning/FlowDock) - 遺伝子型タンパク質・リガンドのドッキングと親和性予測のための幾何学的フローマッチングモデル。 (ISMB 2025) <sub>⭐ 146 · Python</sub>
+- [PapenfussLab/proteindj](https://github.com/PapenfussLab/proteindj) - ProteinDJ タンパク質設計パイプラインの公式リポジトリ <sub>⭐ 146 · Python</sub>
+- [polaris-hub/polaris](https://github.com/polaris-hub/polaris) - 薬物発見におけるインパクトのあるAIモデルの開発を促進します。 <sub>⭐ 145 · Python</sub>
+- [QizhiPei/FABind](https://github.com/QizhiPei/FABind) - ファビンド:高速で正確なタンパク質 - ラグナットの結合(NeurIPS 2023) <sub>⭐ 145 · Python</sub>
+- [huankoh/PSICHIC](https://github.com/huankoh/PSICHIC) - PSICHIC(発音エスパー) - タンパク質とリガンド相互作用の指紋をシーケンスデータから学習するためのPhySIcoCHemICalグラフニューラルネットワーク <sub>⭐ 144 · Jupyter Notebook</sub>
+- [ngruver/NOS](https://github.com/ngruver/NOS) - ガイド付きタンパク質設計 離散拡散 <sub>⭐ 144 · Python</sub>
+- [lucidrains/ddpm-proteins](https://github.com/lucidrains/ddpm-proteins) - タンパク質の変異具の状態生成に合わせた脱泡確率モデル(DDPM) <sub>⭐ 143 · Python</sub>
 - [flatironinstitute/deepblast](https://github.com/flatironinstitute/deepblast) - タンパク質シーケンスアライメントのための神経ネットワーク <sub>⭐ 141 · Python</sub>
-- [J-SNACKKB/FLIP](https://github.com/J-SNACKKB/FLIP) - A collection of tasks to probe the effectiveness of protein sequence representations in modeling aspects of protein design <sub>⭐ 141 · Jupyter Notebook</sub>
-- [twopin/CAMP](https://github.com/twopin/CAMP) - predicting peptide-protein interactions <sub>⭐ 141 · Python</sub>
-- [bytedance/PXDesignBench](https://github.com/bytedance/PXDesignBench) - A Unified Evaluation Suite for Protein Design <sub>⭐ 140 · Python</sub>
-- [fhalab/MLDE](https://github.com/fhalab/MLDE) - A machine-learning package for navigating combinatorial protein fitness landscapes. <sub>⭐ 138 · Python</sub>
-- [aqlaboratory/genie3](https://github.com/aqlaboratory/genie3) - Genie 3 is a fast, all-atom SE(3)-equivariant diffusion model for protein design. It achieves state-of-the-art performance on unconditional generation, motif scaffolding, and binder design while… <sub>⭐ 137 · Python</sub>
-- [CongLabCode/RoseTTAFold2-PPI](https://github.com/CongLabCode/RoseTTAFold2-PPI) - Fast deep learning methods for large-scale protein-protein interaction screening <sub>⭐ 136 · Python</sub>
-- [prasadseemakurthi/Deep-Neural-Networks-HealthCare](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare) - Tangible and Practical Deep Learning Projects Repository for Healthcare such as Cancer, Drug Discovery, Genomic and More <sub>⭐ 136 · Python</sub>
-- [prokia/drugVQA](https://github.com/prokia/drugVQA) - Predicting Drug Protein Interaction using Quasi-Visual Question Answering System <sub>⭐ 136 · Python</sub>
-- [OATML-Markslab/ProteinNPT](https://github.com/OATML-Markslab/ProteinNPT) - Official code repository for the paper "ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers" <sub>⭐ 135 · Python</sub>
-- [dreji18/Bio-Epidemiology-NER](https://github.com/dreji18/Bio-Epidemiology-NER) - Recognize bio-medical entities from a text corpus <sub>⭐ 134 · Python</sub>
-- [BiomedSciAI/biomed-multi-alignment](https://github.com/BiomedSciAI/biomed-multi-alignment) - We introduce ibm/biomed.omics.bl.sm.ma-ted-458m. A biomedical foundation model trained over 2 billion biological samples across multiple modalities, including proteins, small molecules, and… <sub>⭐ 131 · Jupyter Notebook</sub>
-- [Genentech/equifold](https://github.com/Genentech/equifold) - Official code repository for EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation <sub>⭐ 131 · Python</sub>
-- [Superzchen/iLearnPlus](https://github.com/Superzchen/iLearnPlus) - iLearnPlus is the first machine-learning platform with both graphical- and web-based user interface that enables the construction of automated machine-learning pipelines for computational analysis… <sub>⭐ 129 · Python</sub>
-- [debbiemarkslab/plmc](https://github.com/debbiemarkslab/plmc) - Inference of couplings in proteins and RNAs from sequence variation <sub>⭐ 128 · C</sub>
-- [rezacsedu/XAI-for-bioinformatics](https://github.com/rezacsedu/XAI-for-bioinformatics) - Explainable AI for Bioinformatics <sub>⭐ 128 · Jupyter Notebook</sub>
-- [THUDM/ProteinLM](https://github.com/THUDM/ProteinLM) - Protein Language Model <sub>⭐ 127 · Python</sub>
-- [amyxlu/plaid](https://github.com/amyxlu/plaid) - All-atom protein generation using latent diffusion, with compositional function and taxonomic prompts. http://bit.ly/plaid-proteins <sub>⭐ 126 · Python</sub>
-- [bowang-lab/BioReason-Pro](https://github.com/bowang-lab/BioReason-Pro) - BioReason-Pro: Advancing Protein Function Prediction with Multimodal Biological Reasoning <sub>⭐ 126 · Jupyter Notebook</sub>
-- [LIYUESEN/druggpt](https://github.com/LIYUESEN/druggpt) - DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins <sub>⭐ 126 · Python</sub>
-- [ml4bio/Dense-Homolog-Retrieval](https://github.com/ml4bio/Dense-Homolog-Retrieval) - Nature Biotechnology: Ultra-fast, sensitive detection of protein remote homologs using deep dense retrieval <sub>⭐ 126 · Python</sub>
-- [DrugClaw/DrugClaw](https://github.com/DrugClaw/DrugClaw) - AI Research Assistant for Accelerated Drug Discovery. <sub>⭐ 125 · Rust</sub>
+- [J-SNACKKB/FLIP](https://github.com/J-SNACKKB/FLIP) - タンパク質設計の側面をモデル化し、タンパク質シーケンス表現の有効性を調べるタスクのコレクション <sub>⭐ 141 · Jupyter Notebook</sub>
+- [twopin/CAMP](https://github.com/twopin/CAMP) - ペプチドタンパク質相互作用の予測 <sub>⭐ 141 · Python</sub>
+- [bytedance/PXDesignBench](https://github.com/bytedance/PXDesignBench) - タンパク質設計の統一評価スイート <sub>⭐ 140 · Python</sub>
+- [fhalab/MLDE](https://github.com/fhalab/MLDE) - 組み合わせるタンパク質フィットネスの風景をナビゲートするための機械学習パッケージ。 <sub>⭐ 138 · Python</sub>
+- [aqlaboratory/genie3](https://github.com/aqlaboratory/genie3) - Genie 3は、タンパク質設計のための高速でオールアトムSE(3)-equivariant拡散モデルです。 それは無条件生成、モチーフの足場、およびバインダーの設計上の最先端のパフォーマンスを実現します... <sub>⭐ 137 · Python</sub>
+- [CongLabCode/RoseTTAFold2-PPI](https://github.com/CongLabCode/RoseTTAFold2-PPI) - 大規模タンパク質相互作用スクリーニングのための高速ディープラーニング方法 <sub>⭐ 136 · Python</sub>
+- [prasadseemakurthi/Deep-Neural-Networks-HealthCare](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare) - がん、薬物動態学、ゲノムなどの医療のための有形かつ実践的なディープラーニングプロジェクトリポジトリ <sub>⭐ 136 · Python</sub>
+- [prokia/drugVQA](https://github.com/prokia/drugVQA) - Quasi-Visual Question Answering Systemを用いた医薬品タンパク質の相互作用予測 <sub>⭐ 136 · Python</sub>
+- [OATML-Markslab/ProteinNPT](https://github.com/OATML-Markslab/ProteinNPT) - 紙「ProteinNPT:タンパク質特性予測と非パラメータトランスによる設計の改善」の公式コードリポジトリ <sub>⭐ 135 · Python</sub>
+- [dreji18/Bio-Epidemiology-NER](https://github.com/dreji18/Bio-Epidemiology-NER) - テキストのコルパスからバイオ医薬品を認める <sub>⭐ 134 · Python</sub>
+- [BiomedSciAI/biomed-multi-alignment](https://github.com/BiomedSciAI/biomed-multi-alignment) - ibm/biomed.omics.bl.sm.ma-ted-458mを導入しました。タンパク質、小分子など、複数のモダリティにわたって2億件の生物的試料を訓練したバイオメディカル財団モデルです。 <sub>⭐ 131 · Jupyter Notebook</sub>
+- [Genentech/equifold](https://github.com/Genentech/equifold) - EquiFold の公式コードリポジトリ:Nova Coarse-Grained Structure Representationによるタンパク質構造予測 <sub>⭐ 131 · Python</sub>
+- [Superzchen/iLearnPlus](https://github.com/Superzchen/iLearnPlus) - iLearnPlusは、グラフィカルとWebベースのユーザーインターフェイスの両方を備えた最初の機械学習プラットフォームで、計算分析用の自動化された機械学習パイプラインの構築を可能にします... <sub>⭐ 129 · Python</sub>
+- [debbiemarkslab/plmc](https://github.com/debbiemarkslab/plmc) - タンパク質とRNAの結合を配列バリエーションから推論 <sub>⭐ 128 · C</sub>
+- [rezacsedu/XAI-for-bioinformatics](https://github.com/rezacsedu/XAI-for-bioinformatics) - バイオインフォマティクスに関する説明AI <sub>⭐ 128 · Jupyter Notebook</sub>
+- [THUDM/ProteinLM](https://github.com/THUDM/ProteinLM) - タンパク質言語モデル <sub>⭐ 127 · Python</sub>
+- [amyxlu/plaid](https://github.com/amyxlu/plaid) - オールアトムタンパク質の生成は、潜在的機能とタキノミックプロンプトで行われます。 http://bit.ly/plaid-proteins <sub>⭐ 126 · Python</sub>
+- [bowang-lab/BioReason-Pro](https://github.com/bowang-lab/BioReason-Pro) - BioReason-Pro: 多品種生物学的受理によるタンパク質機能予測の高度化 <sub>⭐ 126 · Jupyter Notebook</sub>
+- [LIYUESEN/druggpt](https://github.com/LIYUESEN/druggpt) - DrugGPT: 特定のタンパク質をターゲットとする潜在的なリガンドの設計のためのGPTベースの戦略 <sub>⭐ 126 · Python</sub>
+- [ml4bio/Dense-Homolog-Retrieval](https://github.com/ml4bio/Dense-Homolog-Retrieval) - 性質のバイオテクノロジー:超速く、深い密な検索を使用して蛋白質の遠隔モソームの敏感な検出 <sub>⭐ 126 · Python</sub>
+- [DrugClaw/DrugClaw](https://github.com/DrugClaw/DrugClaw) - 加速薬の発見のためのAI研究アシスタント。 <sub>⭐ 125 · Rust</sub>
 - [PDB-REDO/alphafill](https://github.com/PDB-REDO/alphafill) - AlphaFillは、AlphaFoldモデルに化合物を欠落させるシーケンスと構造の類似性に基づいてアルゴリズムです。 分子コンテキストをタンパク質構造に追加することにより、... <sub>⭐ 125 · C++</sub>
-- [althonos/peptides.py](https://github.com/althonos/peptides.py) - Physicochemical properties, indices and descriptors for amino-acid sequences. <sub>⭐ 124 · Python</sub>
-- [debbiemarkslab/SeqDesign](https://github.com/debbiemarkslab/SeqDesign) - Protein design and variant prediction using autoregressive generative models <sub>⭐ 124 · Python</sub>
-- [dlab-berkeley/R-Deep-Learning](https://github.com/dlab-berkeley/R-Deep-Learning) - Workshop (6 hours): Deep learning in R using Keras. Building & training deep nets, image classification, transfer learning, text analysis, visualization <sub>⭐ 124 · R</sub>
-- [bio4j/bio4j](https://github.com/bio4j/bio4j) - Bio4j abstract model and general entry point to the project <sub>⭐ 122 · Java</sub>
-- [martinez-zacharya/TRILL](https://github.com/martinez-zacharya/TRILL) - Sandbox for Deep-Learning based Computational Protein Design <sub>⭐ 122 · Python</sub>
-- [Acellera/acegen-open](https://github.com/Acellera/acegen-open) - Language models for drug discovery using torchrl <sub>⭐ 121 · Python</sub>
+- [althonos/peptides.py](https://github.com/althonos/peptides.py) - 物理化学的特性、アミノ酸順序のための指標および記述子。 <sub>⭐ 124 · Python</sub>
+- [debbiemarkslab/SeqDesign](https://github.com/debbiemarkslab/SeqDesign) - タンパク質設計と異様体予測によるオートレグレッシブジェネレーションモデル <sub>⭐ 124 · Python</sub>
+- [dlab-berkeley/R-Deep-Learning](https://github.com/dlab-berkeley/R-Deep-Learning) - ワークショップ(6時間):Kerasを使用してRのディープラーニング。深層ネットの構築とトレーニング、画像分類、転送学習、テキスト分析、視覚化 <sub>⭐ 124 · R</sub>
+- [bio4j/bio4j](https://github.com/bio4j/bio4j) - Bio4j 抽象モデルとプロジェクトへの一般的なエントリポイント <sub>⭐ 122 · Java</sub>
+- [martinez-zacharya/TRILL](https://github.com/martinez-zacharya/TRILL) - ディープラーニングベースの計算式タンパク質設計のためのサンドボックス <sub>⭐ 122 · Python</sub>
+- [Acellera/acegen-open](https://github.com/Acellera/acegen-open) - トタルを用いた医薬品発見のための言語モデル <sub>⭐ 121 · Python</sub>
 - [HBioquant/DiffBindFR](https://github.com/HBioquant/DiffBindFR) - Diffusionモデルベースのたんぱく質と柔軟なドッキング方法 <sub>⭐ 121 · Python</sub>
-- [moritztng/tt-bio](https://github.com/moritztng/tt-bio) - Protein structure prediction, protein design and protein language models on Tenstorrent Blackhole and Wormhole hardware, from one card to a Galaxy server. <sub>⭐ 121 · Python</sub>
-- [samsledje/D-SCRIPT](https://github.com/samsledje/D-SCRIPT) - A structure-aware interpretable deep learning model for sequence-based prediction of protein-protein interactions <sub>⭐ 121 · Python</sub>
-- [songlab-cal/tape-neurips2019](https://github.com/songlab-cal/tape-neurips2019) - Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology. (DEPRECATED) <sub>⭐ 121 · Python</sub>
-- [gersteinlab/ThermoNet](https://github.com/gersteinlab/ThermoNet) - ThermoNet is a computational method for quantitative prediction of the impact of single-point mutations on protein thermodynamic stability. The core algorithm of ThermoNet is an ensemble of deep 3D… <sub>⭐ 120 · Python</sub>
-- [ml-jku/clamp](https://github.com/ml-jku/clamp) - Code for the paper Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language <sub>⭐ 120 · Python</sub>
-- [ai4protein/VenusFSFP](https://github.com/ai4protein/VenusFSFP) - VenusFSFP: Few-Shot Protein Fitness Prediction <sub>⭐ 119 · Python</sub>
-- [Bindwell/PLAPT](https://github.com/Bindwell/PLAPT) - Codebase and CLI for PLAPT: A state-of-the-art protein-ligand binding affinity model for drug discovery <sub>⭐ 119 · Mathematica</sub>
-- [carbonsilicon-ai/CarsiDock](https://github.com/carbonsilicon-ai/CarsiDock) - Official repo of "CarsiDock: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training" proposed by CarbonSilicon AI. <sub>⭐ 119 · Python</sub>
-- [greener-group/progres](https://github.com/greener-group/progres) - Fast protein structure searching or your money back <sub>⭐ 119 · Python</sub>
-- [malllabiisc/ProteinGCN](https://github.com/malllabiisc/ProteinGCN) - ProteinGCN: Protein model quality assessment using Graph Convolutional Networks <sub>⭐ 119 · Python</sub>
-- [muhaochen/seq_ppi](https://github.com/muhaochen/seq_ppi) - This is the repository for PIPR. This repository contains the source code and links to some datasets used in the ISMB/ECCB-2019 paper "Multifaceted Protein-Protein Interaction Prediction Based on… <sub>⭐ 117 · Python</sub>
-- [WaymentSteeleLab/Dyna-1](https://github.com/WaymentSteeleLab/Dyna-1) - Model for predicting micro-millisecond motions from protein sequence and/or structure <sub>⭐ 117 · Python</sub>
-- [BorgwardtLab/proteinshake](https://github.com/BorgwardtLab/proteinshake) - Protein structure datasets for machine learning. <sub>⭐ 116 · Python</sub>
-- [ProteinDesignLab/caliby](https://github.com/ProteinDesignLab/caliby) - Potts model-based protein sequence design <sub>⭐ 116 · Python</sub>
-- [soedinglab/CCMpred](https://github.com/soedinglab/CCMpred) - Protein Residue-Residue Contacts from Correlated Mutations predicted quickly and accurately. <sub>⭐ 116 · C</sub>
-- [benstaf/ChemGAN-challenge](https://github.com/benstaf/ChemGAN-challenge) - Code for the paper: ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity? arXiv preprint arXiv:1708.08227. <sub>⭐ 115 · Python</sub>
-- [HKU-BAL/ClairS](https://github.com/HKU-BAL/ClairS) - ClairS: a deep-learning method for long-read tumor–normal pair somatic small variant calling <sub>⭐ 115 · Python</sub>
-- [nf-core/proteinfold](https://github.com/nf-core/proteinfold) - Protein 3D structure prediction pipeline <sub>⭐ 115 · HTML</sub>
-- [Profluent-AI/E1](https://github.com/Profluent-AI/E1) - Profluent-E1 family of Protein Encoder Models <sub>⭐ 115 · Python</sub>
-- [lucidrains/progen](https://github.com/lucidrains/progen) - Implementation and replication of ProGen, Language Modeling for Protein Generation, in Jax <sub>⭐ 114 · Python</sub>
-- [Svensson-Lab/pro-hormone-predictor](https://github.com/Svensson-Lab/pro-hormone-predictor) - Peptide Predictor - this program will annotate all proteins predicted to generate proteolytic cleavage products <sub>⭐ 114 · R</sub>
-- [LucaAngioloni/ProteinSecondaryStructure-CNN](https://github.com/LucaAngioloni/ProteinSecondaryStructure-CNN) - Protein Secondary Structure predictor using Convolutional Neural Networks <sub>⭐ 113 · Python</sub>
-- [chao1224/ProteinDT](https://github.com/chao1224/ProteinDT) - A Text-guided Protein Design Framework, Nat Mach Intell 2025 (https://www.nature.com/articles/s42256-025-01011-z) <sub>⭐ 112 · Python</sub>
-- [jonathanking/protein-transformer](https://github.com/jonathanking/protein-transformer) - Predicting protein structure through sequence modeling <sub>⭐ 112 · Jupyter Notebook</sub>
-- [mims-harvard/PINNACLE](https://github.com/mims-harvard/PINNACLE) - Contextual AI models for single-cell protein biology <sub>⭐ 110 · Python</sub>
-- [anton-bushuiev/PPIRef](https://github.com/anton-bushuiev/PPIRef) - Dataset and package for working with protein-protein interactions in 3D <sub>⭐ 109 · Jupyter Notebook</sub>
-- [Bindwell/APPT](https://github.com/Bindwell/APPT) - Affinity Protein-Protein Transformers—State of the art protein-protein binding affinity in seconds! <sub>⭐ 109 · Python</sub>
-- [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model. <sub>⭐ 108 · TeX</sub>
-- [zhouyflab/R-Predictor](https://github.com/zhouyflab/R-Predictor) - The pipeline of annotating plant disease resistance genes based on deep protein language and machine learning models <sub>⭐ 108 · Python</sub>
+- [moritztng/tt-bio](https://github.com/moritztng/tt-bio) - タンパク質構造予測、テストレントブラックホールとWormholeハードウェア上のタンパク質設計およびタンパク質言語モデル、1つのカードからギャラクシーサーバー。 <sub>⭐ 121 · Python</sub>
+- [samsledje/D-SCRIPT](https://github.com/samsledje/D-SCRIPT) - タンパク質相互作用のシーケンスベースの予測のための構造-aware通訳可能なディープラーニングモデル <sub>⭐ 121 · Python</sub>
+- [songlab-cal/tape-neurips2019](https://github.com/songlab-cal/tape-neurips2019) - タスクは、タンパク質のエベディング(TAPE)を評価し、5つの生物学的に関連した半指示された学習タスクが異なる領域に広がる。 (DEPRECATED) <sub>⭐ 121 · Python</sub>
+- [gersteinlab/ThermoNet](https://github.com/gersteinlab/ThermoNet) - サーモネットは、タンパク質熱力学的安定性に対する単点変異の影響の量的予測のための計算方法です。サーモネットのコアアルゴリズムは、深い3Dのアンサンブルです... <sub>⭐ 120 · Python</sub>
+- [ml-jku/clamp](https://github.com/ml-jku/clamp) - 人間の言語を理解する能力を持つ薬物発見における活動予測モデルを強化する紙のためのコード <sub>⭐ 120 · Python</sub>
+- [ai4protein/VenusFSFP](https://github.com/ai4protein/VenusFSFP) - VenusFSFP: ヒューショットプロテインフィットネス予測 <sub>⭐ 119 · Python</sub>
+- [Bindwell/PLAPT](https://github.com/Bindwell/PLAPT) - コードベースとPLT用CLI:薬物発見のための最先端のタンパク質・リガンド結合アフィニティモデル <sub>⭐ 119 · Mathematica</sub>
+- [carbonsilicon-ai/CarsiDock](https://github.com/carbonsilicon-ai/CarsiDock) - 「CarsiDock:カルシリコンAIが提案する大規模事前訓練に基づく正確なタンパク質とリグンドドッキングおよびスクリーニングのための深い学習パラダイム」の公式レポ。 <sub>⭐ 119 · Python</sub>
+- [greener-group/progres](https://github.com/greener-group/progres) - 速いタンパク質構造検索またはあなたのお金の背部 <sub>⭐ 119 · Python</sub>
+- [malllabiisc/ProteinGCN](https://github.com/malllabiisc/ProteinGCN) - ProteinGCN: グラフのコンボレーションネットワークを用いたタンパク質モデルの品質評価 <sub>⭐ 119 · Python</sub>
+- [muhaochen/seq_ppi](https://github.com/muhaochen/seq_ppi) - これは、PIPRのリポジトリです。 このリポジトリには、ISMB/ECCB-2019紙で使用されているいくつかのデータセットへのリンクが含まれている「多面性タンパク質-プロテイン相互作用予測に基づいて... <sub>⭐ 117 · Python</sub>
+- [WaymentSteeleLab/Dyna-1](https://github.com/WaymentSteeleLab/Dyna-1) - タンパク質シーケンスや構造物からマイクロミリ秒の動きを予測するためのモデル <sub>⭐ 117 · Python</sub>
+- [BorgwardtLab/proteinshake](https://github.com/BorgwardtLab/proteinshake) - 機械学習のためのタンパク質構造データセット。 <sub>⭐ 116 · Python</sub>
+- [ProteinDesignLab/caliby](https://github.com/ProteinDesignLab/caliby) - モデルベースのタンパク質シーケンスデザインをポッツ <sub>⭐ 116 · Python</sub>
+- [soedinglab/CCMpred](https://github.com/soedinglab/CCMpred) - タンパク質残渣残留物は、相関的突然変異から迅速かつ正確に予測された連絡先を明らかにしました。 <sub>⭐ 116 · C</sub>
+- [benstaf/ChemGAN-challenge](https://github.com/benstaf/ChemGAN-challenge) - 論文のコード:ChemGANの創薬への挑戦:AIは天然化学多様性を再現することができますか? arXiv preprint arXiv:1708.08227。 <sub>⭐ 115 · Python</sub>
+- [HKU-BAL/ClairS](https://github.com/HKU-BAL/ClairS) - ClairS:長期腫瘍のディープラーニング方法–通常ペアソマチックな小変種呼び出し <sub>⭐ 115 · Python</sub>
+- [nf-core/proteinfold](https://github.com/nf-core/proteinfold) - タンパク質3D構造予測パイプライン <sub>⭐ 115 · HTML</sub>
+- [Profluent-AI/E1](https://github.com/Profluent-AI/E1) - プロテインエンコーダモデルのProfluent-E1ファミリー <sub>⭐ 115 · Python</sub>
+- [lucidrains/progen](https://github.com/lucidrains/progen) - ProGen、Jax社におけるタンパク質生成のための言語モデリングの実装とレプリケーション <sub>⭐ 114 · Python</sub>
+- [Svensson-Lab/pro-hormone-predictor](https://github.com/Svensson-Lab/pro-hormone-predictor) - ペプチドの予測者 - このプログラムは、プロテオリン酸製品を生成するために予測されるすべてのタンパク質を注釈付けします <sub>⭐ 114 · R</sub>
+- [LucaAngioloni/ProteinSecondaryStructure-CNN](https://github.com/LucaAngioloni/ProteinSecondaryStructure-CNN) - 陰性ニューラルネットワークを用いたタンパク質二次構造予測装置 <sub>⭐ 113 · Python</sub>
+- [chao1224/ProteinDT](https://github.com/chao1224/ProteinDT) - テキストガイド型タンパク質設計フレームワーク、Nat Mach Intell 2025(https://www.nature.com/articles/s42256-025-01011-z) <sub>⭐ 112 · Python</sub>
+- [jonathanking/protein-transformer](https://github.com/jonathanking/protein-transformer) - シーケンスモデリングによるタンパク質構造予測 <sub>⭐ 112 · Jupyter Notebook</sub>
+- [mims-harvard/PINNACLE](https://github.com/mims-harvard/PINNACLE) - 単一細胞タンパク質生物学のためのコンテキストAIモデル <sub>⭐ 110 · Python</sub>
+- [anton-bushuiev/PPIRef](https://github.com/anton-bushuiev/PPIRef) - 3Dでタンパク質相互作用を扱うためのデータセットとパッケージ <sub>⭐ 109 · Jupyter Notebook</sub>
+- [Bindwell/APPT](https://github.com/Bindwell/APPT) - アフィニティプロテイントランス―—秒単位でタンパク質結合アフィニティーのステータス! <sub>⭐ 109 · Python</sub>
+- [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - UniRep タンパク質の肥大化モデルの再導入。 <sub>⭐ 108 · TeX</sub>
+- [zhouyflab/R-Predictor](https://github.com/zhouyflab/R-Predictor) - ディーププロテイン言語と機械学習モデルに基づく植物病耐性遺伝子の解明パイプライン <sub>⭐ 108 · Python</sub>
 - [OpenProteinAI/PoET](https://github.com/OpenProteinAI/PoET) - PoETのための推論コード:シーケンス・オブ・シーケンスとしてのタンパク質家族の遺伝子モデル <sub>⭐ 107 · Python</sub>
-- [lishuya17/MONN](https://github.com/lishuya17/MONN) - MONN: a Multi-Objective Neural Network for Predicting Pairwise Non-Covalent Interactions and Binding Affinities between Compounds and Proteins <sub>⭐ 106 · Python</sub>
-- [nrflynn2/ml-drug-discovery](https://github.com/nrflynn2/ml-drug-discovery) - The official repository for the book "Machine Learning for Drug Discovery" (Manning Publications) <sub>⭐ 106 · Jupyter Notebook</sub>
-- [tbepler/prose](https://github.com/tbepler/prose) - Multi-task and masked language model-based protein sequence embedding models. <sub>⭐ 106 · Python</sub>
-- [nh2tran/DeepNovo](https://github.com/nh2tran/DeepNovo) - Protein Identification with Deep Learning <sub>⭐ 104 · Python</sub>
-- [WGLab/DeepMod](https://github.com/WGLab/DeepMod) - DeepMod: a deep-learning tool for genomic-scale, strand-sensitive and single-nucleotide based detection of DNA modifications <sub>⭐ 104 · Python</sub>
-- [michaelhla/pro-1](https://github.com/michaelhla/pro-1) - reasoning model trained using GRPO towards rosetta REF2015 for protein stability <sub>⭐ 103 · Python</sub>
+- [lishuya17/MONN](https://github.com/lishuya17/MONN) - モン:化合物とタンパク質間のペアワイズ非同等相互作用および結合の効力予測のための多目的神経ネットワーク <sub>⭐ 106 · Python</sub>
+- [nrflynn2/ml-drug-discovery](https://github.com/nrflynn2/ml-drug-discovery) - 書籍「創薬のための機械学習」の正式リポジトリ(出版の管理) <sub>⭐ 106 · Jupyter Notebook</sub>
+- [tbepler/prose](https://github.com/tbepler/prose) - マルチタスクとマスクされた言語モデルベースのタンパク質シーケンス埋め込みモデル。 <sub>⭐ 106 · Python</sub>
+- [nh2tran/DeepNovo](https://github.com/nh2tran/DeepNovo) - ディープラーニングによるタンパク質の特定 <sub>⭐ 104 · Python</sub>
+- [WGLab/DeepMod](https://github.com/WGLab/DeepMod) - DeepMod: ゲノムスケール、ストランド感受性およびDNA修正の単一核基づいた検出のための深い学習用具 <sub>⭐ 104 · Python</sub>
+- [michaelhla/pro-1](https://github.com/michaelhla/pro-1) - 推論モデルは、タンパク質の安定性のためのロゼッタREF2015にGRPOを使用して訓練 <sub>⭐ 103 · Python</sub>
 - [Eikor/InstructPLM](https://github.com/Eikor/InstructPLM) - 訓練された最初の大きなタンパク質言語モデルは構造指示に従います。 <sub>⭐ 102 · Python</sub>
-- [Graylab/GeoDock](https://github.com/Graylab/GeoDock) - Flexible Protein-Protein Docking with a Multi-Track Iterative Transformer. <sub>⭐ 102 · Python</sub>
-- [NingyuSUN/bioai-evidence-validator](https://github.com/NingyuSUN/bioai-evidence-validator) - Evidence validation and policy engine for AI-assisted biological curation <sub>⭐ 101 · Python</sub>
-- [VirtualPatientEngine/AIAgents4Pharma](https://github.com/VirtualPatientEngine/AIAgents4Pharma) - AI Agents for drug discovery, drug development, and other pharmaceutical R&D <sub>⭐ 101 · Python</sub>
-- [brianhie/evolocity](https://github.com/brianhie/evolocity) - Evolutionary velocity with protein language models <sub>⭐ 100 · Python</sub>
-- [justinphan3110/SciFive](https://github.com/justinphan3110/SciFive) - SciFive: a text-text transformer model for biomedical literature <sub>⭐ 100 · Jupyter Notebook</sub>
-- [lightonai/RITA](https://github.com/lightonai/RITA) - RITA is a family of autoregressive protein models, developed by LightOn in collaboration with the OATML group at Oxford and the Debora Marks Lab at Harvard. <sub>⭐ 99 · Python</sub>
-- [swaruplab/operon](https://github.com/swaruplab/operon) - AI-powered IDE for bioinformatics — built by biologists, for biologists <sub>⭐ 99 · Python</sub>
-- [gersteinlab/GenAI4Drug](https://github.com/gersteinlab/GenAI4Drug) - (Briefings in Bioinformatics) A Survey of Generative AI for de novo Drug Design <sub>⭐ 98</sub>
-- [ISYSLAB-HUST/ProtFlash](https://github.com/ISYSLAB-HUST/ProtFlash) - ProtFlash: A lightweight protein language model <sub>⭐ 98 · Python</sub>
-- [jiaxianyan/BioMiner](https://github.com/jiaxianyan/BioMiner) - A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature <sub>⭐ 98 · Python</sub>
-- [luo-group/SPURS](https://github.com/luo-group/SPURS) - Protein stability prediction using rewired protein generative models <sub>⭐ 98 · Python</sub>
-- [ai4protein/ProtSSN](https://github.com/ai4protein/ProtSSN) - Fusion of protein sequence and structural information, using denoising pre-training network for zero-shot protein engineering (eLife 2025). <sub>⭐ 97 · Python</sub>
-- [food-nutrients/food-nutrients](https://github.com/food-nutrients/food-nutrients) - Food Nutrients <sub>⭐ 97 · TypeScript</sub>
-- [HKU-BAL/ClairS-TO](https://github.com/HKU-BAL/ClairS-TO) - ClairS-TO - a deep-learning method for tumor-only somatic variant calling <sub>⭐ 97 · Python</sub>
+- [Graylab/GeoDock](https://github.com/Graylab/GeoDock) - 多亀裂の反復的な変圧器が付いている適用範囲が広い蛋白質 プロテイン ドッキング。 <sub>⭐ 102 · Python</sub>
+- [NingyuSUN/bioai-evidence-validator](https://github.com/NingyuSUN/bioai-evidence-validator) - AI支援の生物学的キュレーションのための証拠検証と政策エンジン <sub>⭐ 101 · Python</sub>
+- [VirtualPatientEngine/AIAgents4Pharma](https://github.com/VirtualPatientEngine/AIAgents4Pharma) - 創薬・医薬品開発、その他医薬研究開発のAIエージェント <sub>⭐ 101 · Python</sub>
+- [brianhie/evolocity](https://github.com/brianhie/evolocity) - タンパク質言語モデルによる進化速度 <sub>⭐ 100 · Python</sub>
+- [justinphan3110/SciFive](https://github.com/justinphan3110/SciFive) - SciFive:生物医学文献のためのテキスト・テキストの変圧器モデル <sub>⭐ 100 · Jupyter Notebook</sub>
+- [lightonai/RITA](https://github.com/lightonai/RITA) - RITAは、OxfordとDebora Marks Lab at HarvardのOATMLグループとのコラボレーションで開発されたオートレグレッシブなタンパク質モデルの家族です。 <sub>⭐ 99 · Python</sub>
+- [swaruplab/operon](https://github.com/swaruplab/operon) - 生物学者によって構築されたバイオインフォマティクスのためのAI搭載IDE <sub>⭐ 99 · Python</sub>
+- [gersteinlab/GenAI4Drug](https://github.com/gersteinlab/GenAI4Drug) - (バイオインフォマティクスにおけるBriefings)デノボドラッグデザインのためのジェネレーションAIの調査 <sub>⭐ 98</sub>
+- [ISYSLAB-HUST/ProtFlash](https://github.com/ISYSLAB-HUST/ProtFlash) - ProtFlash: 軽量なタンパク質言語モデル <sub>⭐ 98 · Python</sub>
+- [jiaxianyan/BioMiner](https://github.com/jiaxianyan/BioMiner) - 文学からタンパク質・リガンドバイオ活動データの自動採掘のためのマルチモーダルシステム <sub>⭐ 98 · Python</sub>
+- [luo-group/SPURS](https://github.com/luo-group/SPURS) - 再配線されたタンパク質の遺伝子生成モデルを用いたタンパク質安定性予測 <sub>⭐ 98 · Python</sub>
+- [ai4protein/ProtSSN](https://github.com/ai4protein/ProtSSN) - ゼロショットタンパク質工学(eLife 2025)のためのデノイズプリトレンシングネットワークを使用して、タンパク質シーケンスと構造情報の融合。 <sub>⭐ 97 · Python</sub>
+- [food-nutrients/food-nutrients](https://github.com/food-nutrients/food-nutrients) - 食品栄養素 <sub>⭐ 97 · TypeScript</sub>
+- [HKU-BAL/ClairS-TO](https://github.com/HKU-BAL/ClairS-TO) - ClairS-TO - 腫瘍のみのソマティック変異型コールのためのディープラーニング方式 <sub>⭐ 97 · Python</sub>
 - [NatLabRockies/EvoProtGrad](https://github.com/NatLabRockies/EvoProtGrad) - グラデーションとシーケンス空間におけるタンパク質の直接進化 <sub>⭐ 97 · Jupyter Notebook</sub>
-- [yuanzhw/AI-bioworkflow](https://github.com/yuanzhw/AI-bioworkflow) - Auditable bioinformatics workflow compiler: Catalog-bound planning, Workflow IR, and validated WDL 1.0. <sub>⭐ 97 · Python</sub>
-- [jwohlwend/minifold](https://github.com/jwohlwend/minifold) - MiniFold: Simple, Fast and Accurate Protein Structure Prediction <sub>⭐ 96 · Python</sub>
-- [MattMcPartlon/AttnPacker](https://github.com/MattMcPartlon/AttnPacker) - Code and Pre-Trained Models for "AttnPacker: An end-to-end deep learning method for protein side-chain packing" <sub>⭐ 96 · Python</sub>
-- [NVIDIA-BioNeMo/CodonFM](https://github.com/NVIDIA-BioNeMo/CodonFM) - A family of codon-resolution language models trained on 130 million protein-coding sequences from over 20,000 species. <sub>⭐ 95 · Python</sub>
-- [psipred/protein-vae](https://github.com/psipred/protein-vae) - Variational autoencoder for protein sequences - add metal binding sites and generate sequences for novel topologies <sub>⭐ 95 · Python</sub>
-- [samsinai/VAE_protein_function](https://github.com/samsinai/VAE_protein_function) - Protein function prediction using a variational autoencoder <sub>⭐ 95 · Jupyter Notebook</sub>
-- [AstraZeneca/KAZU](https://github.com/AstraZeneca/KAZU) - Fast, world class biomedical NER <sub>⭐ 92 · Python</sub>
-- [KeenThera/SECSE](https://github.com/KeenThera/SECSE) - Systemic Evolutionary Chemical Space Exploration for Drug Discovery <sub>⭐ 92 · Python</sub>
-- [scvae/scvae](https://github.com/scvae/scvae) - Deep learning for single-cell transcript counts <sub>⭐ 90 · Python</sub>
-- [Tyche-MKR/scientific-agent-skills](https://github.com/Tyche-MKR/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering… <sub>⭐ 79 · Python</sub>
-- [ajitrajasekharan/unsupervised_NER](https://github.com/ajitrajasekharan/unsupervised_NER) - Self-supervised NER prototype - updated version (69 entity types - 17 broad entity groups). Uses pretrained BERT models with no fine tuning. State-of-art performance on 3 biomedical datasets <sub>⭐ 78 · Python</sub>
-- [servierhub/top-pharma50](https://github.com/servierhub/top-pharma50) - Top open source software from the top 50 pharmaceutical companies <sub>⭐ 77 · Makefile</sub>
-- [kekegg/DLEPS](https://github.com/kekegg/DLEPS) - A Deep Learning based Efficacy Prediction System for drug discovery <sub>⭐ 74 · Jupyter Notebook</sub>
-- [vyvy3n/DLforGenomics](https://github.com/vyvy3n/DLforGenomics) - Review Paper: Deep Learning for Genomics: A Concise Overview <sub>⭐ 74</sub>
-- [lmqfly/Geometry-Deep-Learning-for-Drug-Discovery](https://github.com/lmqfly/Geometry-Deep-Learning-for-Drug-Discovery) - Geometry Deep Learning for Drug Discovery and Life Science <sub>⭐ 72</sub>
-- [miguelperezenciso/DLpipeline](https://github.com/miguelperezenciso/DLpipeline) - Practical Deep Learning for Genomic Prediction: A Keras based guide to implement deep learning <sub>⭐ 72 · Logos</sub>
-- [yobibyte/ml-drug-discovery-tldrs](https://github.com/yobibyte/ml-drug-discovery-tldrs) - TLDRs for ML in Drug Discovery papers <sub>⭐ 72</sub>
-- [smiles724/Proteo-R1](https://github.com/smiles724/Proteo-R1) - Protein reasoning foundation models for drug discovery. <sub>⭐ 71 · Python</sub>
-- [gfzhou/OpenVS](https://github.com/gfzhou/OpenVS) - Codes and scripts for "An artificial intelligence accelerated virtual screening platform for drug discovery" <sub>⭐ 70 · Jupyter Notebook</sub>
-- [pinellolab/chorus](https://github.com/pinellolab/chorus) - One interface to nine genomic deep-learning oracles — variant effect prediction, calibrated per-track percentiles, and plain-English analysis through MCP. <sub>⭐ 67 · Python</sub>
-- [OdinZhang/AI-Physics-DrugDiscovery](https://github.com/OdinZhang/AI-Physics-DrugDiscovery) - my own studied materials and scripts <sub>⭐ 66 · Jupyter Notebook</sub>
-- [GanjinZero/KeBioLM](https://github.com/GanjinZero/KeBioLM) - Improving Biomedical Pretrained Language Models with Knowledge (BioNLP 2021) <sub>⭐ 65 · Python</sub>
-- [KarelDO/BioDEX](https://github.com/KarelDO/BioDEX) - BioDEX: Large-Scale Biomedical Adverse Drug Event Extraction for Real-World Pharmacovigilance. <sub>⭐ 65 · Jupyter Notebook</sub>
-- [Rose-STL-Lab/LIMO](https://github.com/Rose-STL-Lab/LIMO) - generative model for drug discovery <sub>⭐ 65 · Python</sub>
-- [gozsari/Awesome-GNN-based-drug-discovery](https://github.com/gozsari/Awesome-GNN-based-drug-discovery) - This is a curated list of research papers, resources and tools related to using Graph Neural Networks (GNNs) for drug discovery. <sub>⭐ 64</sub>
-- [elix-tech/kmol](https://github.com/elix-tech/kmol) - kMoL is a machine learning library for drug discovery and life sciences, with federated learning capabilities. <sub>⭐ 63 · Python</sub>
-- [zonghui0228/BioMedical-NLP-corpus](https://github.com/zonghui0228/BioMedical-NLP-corpus) - Biomedical NLP Corpus or Datasets. <sub>⭐ 63</sub>
-- [durrantlab/autogrow4](https://github.com/durrantlab/autogrow4) - AutoGrow4 is an open-source program for semi-automated computer-aided drug discovery. It uses a genetic algorithm to evolve predicted ligands on demand and so is not limited to a virtual library of… <sub>⭐ 60 · Python</sub>
-- [YuzheWangPKU/awesome-protein-ligand-interactions](https://github.com/YuzheWangPKU/awesome-protein-ligand-interactions) - Official repository for the review article "Modeling protein–ligand interactions for drug discovery in the era of deep learning." <sub>⭐ 60</sub>
-- [HongxinXiang/ImageMol](https://github.com/HongxinXiang/ImageMol) - ImageMol is a molecular image-based pre-training deep learning framework for computational drug discovery. <sub>⭐ 59 · Python</sub>
-- [greenelab/snorkeling](https://github.com/greenelab/snorkeling) - Extracting biomedical relationships from literature with Snorkel <sub>⭐ 58 · Jupyter Notebook</sub>
-- [NathalyDM/nath.biohack](https://github.com/NathalyDM/nath.biohack) - A community-focused repository dedicated to fostering learning and development in Artificial Intelligence . This project, created by me, @nath.biohack, aims to provide high-quality, accessible, and… <sub>⭐ 58 · Jupyter Notebook</sub>
-- [HongxinXiang/awesome-ai-bioinformatics](https://github.com/HongxinXiang/awesome-ai-bioinformatics) - A curated list of awesome AI and Bioinformatics. <sub>⭐ 57</sub>
-- [MRCIEU/awesome-ai](https://github.com/MRCIEU/awesome-ai) - Awesome list for all things AI, ML and deep learning <sub>⭐ 57</sub>
-- [WGLab/Bioformer](https://github.com/WGLab/Bioformer) - Bioformer: an efficient BERT model for biomedical text mining <sub>⭐ 57</sub>
-- [berenslab/llm-excess-vocab](https://github.com/berenslab/llm-excess-vocab) - Delving into LLM-assisted writing in biomedical publications through excess vocabulary <sub>⭐ 56 · Jupyter Notebook</sub>
+- [yuanzhw/AI-bioworkflow](https://github.com/yuanzhw/AI-bioworkflow) - 監査可能なバイオインフォマティクスワークフローコンパイラ: カタログ・オブ・プランニング、ワークフローIR、検証済みWDL 1.0。 <sub>⭐ 97 · Python</sub>
+- [jwohlwend/minifold](https://github.com/jwohlwend/minifold) - MiniFold:シンプルで高速かつ正確なタンパク質構造予測 <sub>⭐ 96 · Python</sub>
+- [MattMcPartlon/AttnPacker](https://github.com/MattMcPartlon/AttnPacker) - 「AttnPacker:タンパク質サイドチェーンパッキングのためのエンドツーエンドのディープラーニング方法」 <sub>⭐ 96 · Python</sub>
+- [NVIDIA-BioNeMo/CodonFM](https://github.com/NVIDIA-BioNeMo/CodonFM) - 20,000種以上から130万個のタンパク質コーディングシーケンスで訓練されたコドン・レゾリューション言語モデルの家族。 <sub>⭐ 95 · Python</sub>
+- [psipred/protein-vae](https://github.com/psipred/protein-vae) - タンパク質シーケンスのためのバリエーショナルオートエンコーダ - 金属結合サイトを追加し、新しいトポロジーのシーケンスを生成する <sub>⭐ 95 · Python</sub>
+- [samsinai/VAE_protein_function](https://github.com/samsinai/VAE_protein_function) - バリエーションオートエンコーダを用いたタンパク質機能予測 <sub>⭐ 95 · Jupyter Notebook</sub>
+- [AstraZeneca/KAZU](https://github.com/AstraZeneca/KAZU) - 速い、世界クラスの生物医学のNER <sub>⭐ 92 · Python</sub>
+- [KeenThera/SECSE](https://github.com/KeenThera/SECSE) - 薬の発見のための全身の進化化学宇宙探査 <sub>⭐ 92 · Python</sub>
+- [scvae/scvae](https://github.com/scvae/scvae) - 単一セルのトランスクリプトカウントのためのディープラーニング <sub>⭐ 90 · Python</sub>
+- [Tyche-MKR/scientific-agent-skills](https://github.com/Tyche-MKR/scientific-agent-skills) - AIエージェントをAI科学者に変える。世界190,000+の科学者たちが使用する、科学のための1つのエージェントスキルライブラリ。 165は検証済みのスキルと100以上の科学データベースをカバーしています... <sub>⭐ 79 · Python</sub>
+- [ajitrajasekharan/unsupervised_NER](https://github.com/ajitrajasekharan/unsupervised_NER) - 自己監修のNERプロトタイプ-更新版(69種類 - 17種類の幅広いエンティティティグループ)。微調整のないプリトレンデッドBERTモデルを使用します。3つのバイオメディカルデータセットで最先端のパフォーマンス <sub>⭐ 78 · Python</sub>
+- [servierhub/top-pharma50](https://github.com/servierhub/top-pharma50) - 医薬品業界トップ50社のオープンソースソフトウェア <sub>⭐ 77 · Makefile</sub>
+- [kekegg/DLEPS](https://github.com/kekegg/DLEPS) - 薬の発見のための深い学習ベースの効力予測システム <sub>⭐ 74 · Jupyter Notebook</sub>
+- [vyvy3n/DLforGenomics](https://github.com/vyvy3n/DLforGenomics) - レビュー論文:ゲノムのためのディープラーニング:簡潔な概要 <sub>⭐ 74</sub>
+- [lmqfly/Geometry-Deep-Learning-for-Drug-Discovery](https://github.com/lmqfly/Geometry-Deep-Learning-for-Drug-Discovery) - 薬の発見と生命科学のための幾何学的ディープラーニング <sub>⭐ 72</sub>
+- [miguelperezenciso/DLpipeline](https://github.com/miguelperezenciso/DLpipeline) - ゲノム予測のための実践的なディープラーニング:深い学習を実装するためのケラスベースのガイド <sub>⭐ 72 · Logos</sub>
+- [yobibyte/ml-drug-discovery-tldrs](https://github.com/yobibyte/ml-drug-discovery-tldrs) - 薬物発見紙のML用TLDR <sub>⭐ 72</sub>
+- [smiles724/Proteo-R1](https://github.com/smiles724/Proteo-R1) - 創薬のためのタンパク質推論基礎モデル. <sub>⭐ 71 · Python</sub>
+- [gfzhou/OpenVS](https://github.com/gfzhou/OpenVS) - 「人工知能が薬物発見のための仮想スクリーニングプラットフォームを加速させるためのコードとスクリプト」 <sub>⭐ 70 · Jupyter Notebook</sub>
+- [pinellolab/chorus](https://github.com/pinellolab/chorus) - ゲノムのディープラーニング・オラクルを9つのインターフェイス — MCPによる異種効果予測、キャリブレーション・パー・トラックのパーセンタイル、およびプレーン・イングリッシュ解析。 <sub>⭐ 67 · Python</sub>
+- [OdinZhang/AI-Physics-DrugDiscovery](https://github.com/OdinZhang/AI-Physics-DrugDiscovery) - 自分の教材とスクリプト <sub>⭐ 66 · Jupyter Notebook</sub>
+- [GanjinZero/KeBioLM](https://github.com/GanjinZero/KeBioLM) - バイオメディカル・プリトレンド言語モデルの知識向上(BioNLP 2021) <sub>⭐ 65 · Python</sub>
+- [KarelDO/BioDEX](https://github.com/KarelDO/BioDEX) - BioDEX: 大規模生物医学の副作用薬イベント抽出現実世界薬局のための. <sub>⭐ 65 · Jupyter Notebook</sub>
+- [Rose-STL-Lab/LIMO](https://github.com/Rose-STL-Lab/LIMO) - 創薬用遺伝子モデル <sub>⭐ 65 · Python</sub>
+- [gozsari/Awesome-GNN-based-drug-discovery](https://github.com/gozsari/Awesome-GNN-based-drug-discovery) - 創薬用グラフニューラルネットワーク(GNN)の活用に関する研究論文、リソースおよびツールのキュレーションリストです。 <sub>⭐ 64</sub>
+- [elix-tech/kmol](https://github.com/elix-tech/kmol) - kMoLは、創薬とライフサイエンスのための機械学習ライブラリです。 <sub>⭐ 63 · Python</sub>
+- [zonghui0228/BioMedical-NLP-corpus](https://github.com/zonghui0228/BioMedical-NLP-corpus) - 生物医学NLPのコルパスかデータセット。 <sub>⭐ 63</sub>
+- [durrantlab/autogrow4](https://github.com/durrantlab/autogrow4) - AutoGrow4は、半自動のコンピュータ支援薬検出のためのオープンソースプログラムです。 これは、予測されたリグアンを需要に進化させるために遺伝子アルゴリズムを使用しており、それは仮想ライブラリに限定されません... <sub>⭐ 60 · Python</sub>
+- [YuzheWangPKU/awesome-protein-ligand-interactions](https://github.com/YuzheWangPKU/awesome-protein-ligand-interactions) - レビュー記事「深層学習時代における薬物発見のためのタンパク質とリガンド相互作用のモデル化」の公式リポジトリ。 <sub>⭐ 60</sub>
+- [HongxinXiang/ImageMol](https://github.com/HongxinXiang/ImageMol) - ImageMolは、計算された薬物発見のための分子画像ベースの事前訓練ディープラーニングフレームワークです。 <sub>⭐ 59 · Python</sub>
+- [greenelab/snorkeling](https://github.com/greenelab/snorkeling) - シュノーケルと文学からバイオメディカル関係を抽出する <sub>⭐ 58 · Jupyter Notebook</sub>
+- [NathalyDM/nath.biohack](https://github.com/NathalyDM/nath.biohack) - 人工知能の学習と開発を促進するためのコミュニティに焦点を当てたリポジトリ。 このプロジェクトは、私によって作成され、@nath.biohack、高品質、アクセス可能、そして... <sub>⭐ 58 · Jupyter Notebook</sub>
+- [HongxinXiang/awesome-ai-bioinformatics](https://github.com/HongxinXiang/awesome-ai-bioinformatics) - 素晴らしいAIとバイオインフォマティクスのキュレーションリスト。 <sub>⭐ 57</sub>
+- [MRCIEU/awesome-ai](https://github.com/MRCIEU/awesome-ai) - AI、ML、ディープラーニングのあらゆることのための素晴らしいリスト <sub>⭐ 57</sub>
+- [WGLab/Bioformer](https://github.com/WGLab/Bioformer) - バイオフォーマー:生物医学のテキスト採掘のための有効なBERTモデル <sub>⭐ 57</sub>
+- [berenslab/llm-excess-vocab](https://github.com/berenslab/llm-excess-vocab) - 過剰なボキャブラリーによる生体医学出版物におけるLM-assistedライティングに着手 <sub>⭐ 56 · Jupyter Notebook</sub>
 
 ## 💚 メンタルヘルス、ウェルビーイング、データ
 
 > メンタルヘルスの支援、ウェアラブル、データセット。
 
-- [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. <sub>⭐ 6.2k · TypeScript</sub>
-- [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language <sub>⭐ 2.0k · Swift</sub>
-- [isair/jarvis](https://github.com/isair/jarvis) - A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything… <sub>⭐ 1.9k · Python</sub>
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey… <sub>⭐ 1.6k · JavaScript</sub>
-- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and… <sub>⭐ 1.5k · Python</sub>
-- [braindecode/braindecode](https://github.com/braindecode/braindecode) - Deep learning software to decode EEG, ECG or MEG signals <sub>⭐ 1.3k · Python</sub>
-- [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - Monitors the health and web traffic of servers, microservices, Kubernetes/Kafka clusters, containers, and AWS services with real-time data monitoring and receive automated notifications over Slack or… <sub>⭐ 849 · TypeScript</sub>
-- [archie0732/healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent) - Healthy Diet AI Agent is a Bun + TypeScript backend for nutrition chat, food-image analysis, RAG document ingestion, and knowledge-grounded diet guidance. <sub>⭐ 756 · TypeScript</sub>
-- [GitHpriyanshu23/Smart-Plant-Doctor](https://github.com/GitHpriyanshu23/Smart-Plant-Doctor) - Smart Plant Doctor is an AI + IoT plant health platform that streams realtime ESP32 sensor data to a Streamlit dashboard and uses a MobileNetV2-based model for plant disease detection with treatment… <sub>⭐ 579 · Python</sub>
-- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - Local-first Apple Health MCP server. Lets AI assistants answer questions about your sleep, workouts, activity and heart data from a local export. <sub>⭐ 570 · TypeScript</sub>
+- [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: 家族のために造られる。AIによって動力を与えられる。食糧、適性、水および健康を–一緒に追跡して下さい。 <sub>⭐ 6.2k · TypeScript</sub>
+- [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - 自然言語でApple Healthデータを問い合わせる <sub>⭐ 2.0k · Swift</sub>
+- [isair/jarvis](https://github.com/isair/jarvis) - コンピュータ(オフラインで動作する)に住んでいる100%プライベートなAI音声アシスタント。Jarvisが部屋の3人目であるかどうかを自然に話し、会話応答を取得します。それはすべてを覚えています... <sub>⭐ 1.9k · Python</sub>
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - セルフホストジム&体重追跡者 — ルーチン、ログワークアウト(スーパーセット、ウォームアップ、カーディオ)を計画し、どの筋肉が訓練されているかを確認し、疲労やトレーニングを受けたり、F FitNotes/Strong/Hevy、Passkeyからインポートします。 <sub>⭐ 1.6k · JavaScript</sub>
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - パーソナルAI Sovereignty。 統合されたツール、個人知識グラフ、音声、ビジョン、シェル、ブラウザの自動化、スケジュールされたタスク、健康追跡とローカルファーストAIアシスタント... <sub>⭐ 1.5k · Python</sub>
+- [braindecode/braindecode](https://github.com/braindecode/braindecode) - EEG、ECGまたはMEG信号を解読するためのディープラーニングソフトウェア <sub>⭐ 1.3k · Python</sub>
+- [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - サーバー、microservices、Kubernetes/Kafkaクラスター、コンテナ、AWSサービスの健康とWebトラフィックをリアルタイムのデータ監視で監視し、Slackやクラウド上の自動通知を受信します。 <sub>⭐ 849 · TypeScript</sub>
+- [archie0732/healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent) - 健康的な食事療法AIエージェントは、栄養チャット、食品画像分析、RAG文書の摂取および知識面ダイエットガイダンスのためのBan + TypeScriptバックエンドです。 <sub>⭐ 756 · TypeScript</sub>
+- [GitHpriyanshu23/Smart-Plant-Doctor](https://github.com/GitHpriyanshu23/Smart-Plant-Doctor) - スマートプラントドクターは、リアルタイムESP32センサーデータをストリームライトダッシュボードにストリーミングし、治療による植物病の検出のためのMobileNetV2ベースのモデルを使用するAI + IoTプラントヘルスプラットフォームです。 <sub>⭐ 579 · Python</sub>
+- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - ローカルファーストのApple Health MCPサーバー。AIアシスタントは、ローカルエクスポートから睡眠、ワークアウト、アクティビティおよび心臓データに関する質問に答えます。 <sub>⭐ 570 · TypeScript</sub>
 - [kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets) - 精神健康状態をモデル化するために使用される電子メディアデータセットの進化リスト。 <sub>⭐ 473 · Python</sub>
 - [abachaa/MedQuAD](https://github.com/abachaa/MedQuAD) - 医学的な質問は12 NIHのウェブサイトから作成される47,457 QAの組のデータセットに答えます <sub>⭐ 464</sub>
-- [apoorvdarshan/fud-ai](https://github.com/apoorvdarshan/fud-ai) - Fud AI — free & open-source AI calorie & workout tracker for iOS and Android. Privacy-first, local-first, bring your own key. <sub>⭐ 452 · Kotlin</sub>
-- [microsoft/MIRA](https://github.com/microsoft/MIRA) - MIRA: Medical Time Series Foundation Model for Real-World Health Data <sub>⭐ 423 · Python</sub>
-- [yo-WASSUP/Good-GYM](https://github.com/yo-WASSUP/Good-GYM) - AI-powered fitness assistant for real-time pose estimation, exercise counting, and workout feedback. <sub>⭐ 419 · Python</sub>
-- [SupritYoung/Zhongjing](https://github.com/SupritYoung/Zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset. <sub>⭐ 400 · Python</sub>
-- [parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart) - Full-stack MERN fitness e-commerce platform with complete Admin dashboard, Razorpay payments, workout tracker, exercise library, AI chatbot, BMI and calorie calculators, nearby gym finder and… <sub>⭐ 361 · JavaScript</sub>
-- [abachaa/Existing-Medical-QA-Datasets](https://github.com/abachaa/Existing-Medical-QA-Datasets) - Multimodal Question Answering in the Medical Domain: A summary of Existing Datasets and Systems <sub>⭐ 320</sub>
-- [helme/ecg_ptbxl_benchmarking](https://github.com/helme/ecg_ptbxl_benchmarking) - Public repository associated with "Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL" <sub>⭐ 315 · Python</sub>
+- [apoorvdarshan/fud-ai](https://github.com/apoorvdarshan/fud-ai) - iOSとAndroid用の無料&オープンソースのAIカロリー&ワークアウトトラッカー。プライバシー優先、ローカルファースト、独自のキーを持参してください。 <sub>⭐ 452 · Kotlin</sub>
+- [microsoft/MIRA](https://github.com/microsoft/MIRA) - MIRA: リアルタイム・シリーズ財団モデル(リアルワールドヘルスデータ) <sub>⭐ 423 · Python</sub>
+- [yo-WASSUP/Good-GYM](https://github.com/yo-WASSUP/Good-GYM) - リアルタイムのポーズ推定、練習カウントおよびワークアウトフィードバックのためのAI搭載フィットネスアシスタント。 <sub>⭐ 419 · Python</sub>
+- [SupritYoung/Zhongjing](https://github.com/SupritYoung/Zhongjing) - LLaMaに基づく中国医療チャットGPT、大規模なプレトレインコルプとマルチターン対話データセットからのトレーニング。 <sub>⭐ 400 · Python</sub>
+- [parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart) - 完全な管理者ダッシュボード、Razorpayの支払い、ワークアウト追跡者、練習ライブラリ、AIチャットボット、BMIおよびカロリー計算機、近くのジムファインダーとの完全なスタックMERNフィットネスeコマースプラットフォーム... <sub>⭐ 361 · JavaScript</sub>
+- [abachaa/Existing-Medical-QA-Datasets](https://github.com/abachaa/Existing-Medical-QA-Datasets) - 医療ドメインにおける多角的な質問回答:既存のデータセットとシステムの概要 <sub>⭐ 320</sub>
+- [helme/ecg_ptbxl_benchmarking](https://github.com/helme/ecg_ptbxl_benchmarking) - 「ECG分析のためのディープラーニング:PTB-XLのベンチマークとインサイト」に関連したパブリックリポジトリ <sub>⭐ 315 · Python</sub>
 - [medmcqa/medmcqa](https://github.com/medmcqa/medmcqa) - 大規模(194k)、複数の選択質問回答(MCQA)データセットは、実際の医療入り口試験の質問に対処するように設計されています。 <sub>⭐ 302 · Jupyter Notebook</sub>
-- [McGill-NLP/medal](https://github.com/McGill-NLP/medal) - Large medical text dataset curated for abbreviation disambiguation, designed for natural language understanding pre-training in the medical domain <sub>⭐ 284 · Python</sub>
-- [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects. <sub>⭐ 274 · Python</sub>
-- [physhik/ecg-mit-bih](https://github.com/physhik/ecg-mit-bih) - ECG classification using MIT-BIH data, a deep CNN learning implementation of Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network… <sub>⭐ 270 · Python</sub>
-- [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) - MCP server for querying Apple Health data with natural language using DuckDB under the hood. <sub>⭐ 270 · Python</sub>
-- [DeepPSP/torch_ecg](https://github.com/DeepPSP/torch_ecg) - Deep learning ECG models implemented using PyTorch <sub>⭐ 268 · Python</sub>
-- [hasaneyldrm/logpress-public](https://github.com/hasaneyldrm/logpress-public) - AI-powered workout tracker for iOS & Android — React Native app with AI fitness scoring, workout logging, gamification and an offline demo mode. Public, sanitized fork (no embedded secrets). <sub>⭐ 268 · TypeScript</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [hsd1503/DL-ECG-Review](https://github.com/hsd1503/DL-ECG-Review) - A Review of Deep Learning Methods on ECG Data <sub>⭐ 253</sub>
-- [shreyashankar/datasets-for-good](https://github.com/shreyashankar/datasets-for-good) - List of datasets to apply stats/machine learning/technology to the world of social good. <sub>⭐ 253</sub>
-- [MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model](https://github.com/MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model) - Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach <sub>⭐ 226 · Python</sub>
-- [MrGiovanni/RadGPT](https://github.com/MrGiovanni/RadGPT) - (ICCV 2025) AbdomenAtlas 3.0 (9,262 CT volumes + medical reports). These “superhuman” reports are more accurate, detailed, standardized, and generated faster than traditional human-made reports. <sub>⭐ 225 · Python</sub>
-- [tmthyjames/Achoo](https://github.com/tmthyjames/Achoo) - Achoo uses a Raspberry Pi to predict if my son will need his inhaler on any given day using weather, pollen, and air quality data. If the prediction for a given day is above a specified threshold… <sub>⭐ 211 · HTML</sub>
-- [Azure-Samples/healthcare-agent-orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator) - Facilitates creating modular specialized agents that coordinate across diverse data types and tools like M365 and Teams to assist multi-disciplinary healthcare workflows—such as cancer care. <sub>⭐ 209 · Python</sub>
-- [Franck-Dernoncourt/pubmed-rct](https://github.com/Franck-Dernoncourt/pubmed-rct) - PubMed 200k RCT dataset: a large dataset for sequential sentence classification. <sub>⭐ 203</sub>
-- [PierreElias/IntroECG](https://github.com/PierreElias/IntroECG) - Resource library for getting started with deep learning work using electrocardiograms <sub>⭐ 188 · Jupyter Notebook</sub>
-- [Nicolasvegam/garmin-connect-mcp](https://github.com/Nicolasvegam/garmin-connect-mcp) - MCP server for Garmin Connect — access 61 health, fitness and activity tools from any AI assistant <sub>⭐ 182 · TypeScript</sub>
-- [RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting](https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting) - An extension of the previous 'Fitness-AI-Coach': a complete web application with real-time exercise recognition and counting. The exercise recognition model achieves 99% accuracy on the test set and… <sub>⭐ 169 · Python</sub>
-- [Jwoo5/fairseq-signals](https://github.com/Jwoo5/fairseq-signals) - A collection of deep learning models for ECG data processing based on fairseq framework <sub>⭐ 162 · Python</sub>
-- [onlyzdd/ecg-diagnosis](https://github.com/onlyzdd/ecg-diagnosis) - Deep learning for 12-lead ECG interpretation <sub>⭐ 160 · Python</sub>
-- [Kaushalya/medclip](https://github.com/Kaushalya/medclip) - A multi-modal CLIP model trained on the medical dataset ROCO <sub>⭐ 152 · Jupyter Notebook</sub>
-- [allenheltondev/serverless-ai-fitness](https://github.com/allenheltondev/serverless-ai-fitness) - App that uses GhatGPT to generate workouts and email them to you <sub>⭐ 146 · JavaScript</sub>
-- [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - Track, visualize, and embed your health and life data — location, health, work, play, and more <sub>⭐ 146</sub>
-- [niekverw/Deep-Learning-Based-ECG-Annotator](https://github.com/niekverw/Deep-Learning-Based-ECG-Annotator) - Annotation of ECG signals using deep learning, tensorflow’ Keras <sub>⭐ 145 · Python</sub>
-- [burakorkmez/codeflex-ai](https://github.com/burakorkmez/codeflex-ai) - Build Your Own AI Fitness Trainer for FREE <sub>⭐ 132 · TypeScript</sub>
-- [talhanai/speech-nlp-datasets](https://github.com/talhanai/speech-nlp-datasets) - Contains links to publicly available datasets for modeling health outcomes using speech and language. <sub>⭐ 132</sub>
-- [thillai-c/AI-Fitness-trainer](https://github.com/thillai-c/AI-Fitness-trainer) - An AI model used to help with the workout session by keeping track of counts and movement. <sub>⭐ 130 · Python</sub>
-- [medtagger/MedTagger](https://github.com/medtagger/MedTagger) - A collaborative framework for annotating medical datasets using crowdsourcing. <sub>⭐ 124 · Python</sub>
-- [ovumcy/ovumcy-web](https://github.com/ovumcy/ovumcy-web) - Self-hosted menstrual cycle tracker. Privacy-first, Docker-ready, beautiful. Track periods, predict cycles, own your health data. <sub>⭐ 124 · Go</sub>
-- [diegoscarabelli/garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) - A simple Python CLI to download Garmin Connect data as local files and load them into a SQLite database for analysis <sub>⭐ 122 · Python</sub>
-- [chrisprasanna/Exercise_Recognition_AI](https://github.com/chrisprasanna/Exercise_Recognition_AI) - Developing a virtual personal fitness tracker and exercise activity recognition A.I. using computer vision and deep learning. <sub>⭐ 121 · Jupyter Notebook</sub>
-- [cygnusb/coros-mcp](https://github.com/cygnusb/coros-mcp) - MCP server for AI assistants to read and manage Coros fitness data: sleep, HRV, daily metrics, activities, and structured workouts via the unofficial Coros API <sub>⭐ 121 · Python</sub>
-- [huzaifi18/RUL_prediction](https://github.com/huzaifi18/RUL_prediction) - The project focused on "Battery Remaining Useful Life (RUL) Prediction using a Data-Driven Approach with a Hybrid Deep Model combining Convolutional Neural Networks (CNN) and Long-Short Term Memory… <sub>⭐ 120 · Python</sub>
-- [StChenHaoGitHub/1D-deeplearning-model-pytorch](https://github.com/StChenHaoGitHub/1D-deeplearning-model-pytorch) - To do a deep learning project on ecg. I use pytorch to reproduce the traditional CNN models include LeNet AlexNet ZFNet VGG GoogLeNet ResNet DenseNet with one demotion. <sub>⭐ 119 · Python</sub>
-- [shadowlzt/ironclaw-ai-vision](https://github.com/shadowlzt/ironclaw-ai-vision) - Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent <sub>⭐ 117 · HTML</sub>
-- [ammarmahmood1999/HeartHealthPrediction](https://github.com/ammarmahmood1999/HeartHealthPrediction) - The major reason for the death in worldwide is the heart disease in high and low developed countries. The data scientist uses distinctive machine learning techniques for modeling health diseases by… <sub>⭐ 115 · Jupyter Notebook</sub>
-- [J700070/Stock-Analyzer-Python](https://github.com/J700070/Stock-Analyzer-Python) - Real time scrapping of stock data in order to get the most recent available information. Cleaning, structuring and parsing of relevant data to provide an interactive and informative dashboard.… <sub>⭐ 115 · Python</sub>
-- [ParitoshParmar/Fitness-AQA](https://github.com/ParitoshParmar/Fitness-AQA) - Fitness Action Quality Assessment or your AI-Fitness Coach (ECCV 2022) <sub>⭐ 113 · Python</sub>
-- [HeyThatsViv/Predicting-Depression](https://github.com/HeyThatsViv/Predicting-Depression) - Project using machine learning to predict depression using health care data from the CDC NHANES website. A companion dashboard for users to explore the data in this project was created using… <sub>⭐ 108 · Jupyter Notebook</sub>
-- [Townzc/liftcut-tracker](https://github.com/Townzc/liftcut-tracker) - Beginner-friendly open-source workout, nutrition, and progress tracker with guest mode and configurable AI planning. <sub>⭐ 103 · Python</sub>
-- [yakupzengin/fitness-trainer-pose-estimation](https://github.com/yakupzengin/fitness-trainer-pose-estimation) - An AI-powered fitness tracker that uses real-time pose estimation to count reps, monitor form, and provide instant feedback for exercises like squats, push-ups, and bicep curls. Designed for… <sub>⭐ 102 · Python</sub>
-- [umutkeltek/healthsave-observatory](https://github.com/umutkeltek/healthsave-observatory) - Self-hosted health-data observatory: sync Apple Health, early wearable plugins, and Garmin/Samsung imports into a canonical TimescaleDB record; view baseline-linked findings and query a private API.… <sub>⭐ 98 · Python</sub>
-- [aws-samples/serverless-genai-food-analyzer-app](https://github.com/aws-samples/serverless-genai-food-analyzer-app) - Personalized nutritional app, serverless, tailored to your shopping and cooking needs, empowered by generative AI technology (Amazon Bedrock, Anthropic, Claude Haiku, Claude Sonnet) using AWS CDK on… <sub>⭐ 96 · TypeScript</sub>
-- [ncbi-nlp/MedCalc-Bench](https://github.com/ncbi-nlp/MedCalc-Bench) - (NeurIPS 2024 Datasets and Benchmark Track Oral) MedCalc-Bench: Evaluating Large Language Models for Medical Calculations <sub>⭐ 96 · Python</sub>
-- [watt-mind/coach](https://github.com/watt-mind/coach) - Your open source AI coach and unified fitness dashboard. <sub>⭐ 95 · TypeScript</sub>
-- [monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit) - Official Monte Carlo toolkit for AI coding agents. Skills and plugins that bring data and agent observability — monitoring, triaging, troubleshooting, health checks — into Claude Code, Cursor, and… <sub>⭐ 94 · Python</sub>
-- [Shivam1337/MindCrafter](https://github.com/Shivam1337/MindCrafter) - AI & ML Based Mental Health Diagnosis & Consulting App. <sub>⭐ 91 · Dart</sub>
-- [TAHIR0110/ThereForYou](https://github.com/TAHIR0110/ThereForYou) - ThereForYou: Your mental health ally. Kai, our AI assistant, offers compassionate support. Track your mood trends, find solace in a secure community, and access crisis resources swiftly. We're here… <sub>⭐ 91 · Python</sub>
-- [felixkrones/ECG-Digitiser](https://github.com/felixkrones/ECG-Digitiser) - PhysioNet Challenge 2024 Winner: Combining Hough Transform and Deep Learning Approaches to Reconstruct ECG Signals From Printouts <sub>⭐ 90 · Python</sub>
-- [dylan-buck/Hermes-iOS](https://github.com/dylan-buck/Hermes-iOS) - Hermes agents don't have iPhones. Now yours does. This app gives Hermes camera, mic, health data, location, and notifications. All available in one MCP tool. <sub>⭐ 89 · Swift</sub>
-- [lkev/wtphm](https://github.com/lkev/wtphm) - SCADA data pre-processing library for prognostics, health management and fault detection of wind turbines. Successor to https://github.com/lkev/wt-fdd <sub>⭐ 88 · Python</sub>
-- [jergusadamec/ecg-deep-segmentation](https://github.com/jergusadamec/ecg-deep-segmentation) - Design and implementation of deep learning models trained for automated annotation of ecg signal with various preprocessing steps. <sub>⭐ 86 · Python</sub>
-- [leecdiang/Apple-Health-Pro](https://github.com/leecdiang/Apple-Health-Pro) - A studio-grade tool to extract Apple Health XML / ZIP data into organized CSV files for AI analysis. <sub>⭐ 85 · Python</sub>
-- [im-ethz/flirt](https://github.com/im-ethz/flirt) - Are you ready to FLIRT with your wearable data? <sub>⭐ 84 · Jupyter Notebook</sub>
-- [Jianningli/medshapenet-feedback](https://github.com/Jianningli/medshapenet-feedback) - MedShapeNet - A Large-Scale Dataset of 3D Medical Shapes for Computer Vision <sub>⭐ 84 · Jupyter Notebook</sub>
-- [Welthungerhilfe/ChildGrowthMonitor](https://github.com/Welthungerhilfe/ChildGrowthMonitor) - AI-powered mobile and web solution for monitoring child growth and malnutrition. It uses image-based height and weight estimation, stores data on the device to work without internet for remote areas… <sub>⭐ 83</sub>
-- [zinedkaloc/ai-workout-planner](https://github.com/zinedkaloc/ai-workout-planner) - Workout Planner&Fitness Coach - Using OpenAI Chat Completion API <sub>⭐ 83 · Dart</sub>
-- [chenfeng-huang/Kaggle_Silver_Medal_Solutioun_CMI-DBSD](https://github.com/chenfeng-huang/Kaggle_Silver_Medal_Solutioun_CMI-DBSD) - This project uses wrist-worn sensor data—movement, temperature, and proximity—to distinguish body-focused repetitive behaviors (BFRBs) from everyday gestures. The goal is to build a model that… <sub>⭐ 81 · Python</sub>
-- [eddymina/ECG_Classification_Pytorch](https://github.com/eddymina/ECG_Classification_Pytorch) - Application of deep learning and convolutional networks for ECG classification <sub>⭐ 81 · Jupyter Notebook</sub>
-- [jeremykohn/rid-covid](https://github.com/jeremykohn/rid-covid) - Image-based COVID-19 diagnosis. Links to software, data, and other resources. <sub>⭐ 81</sub>
-- [aminbenarieb/healthkit-data-generator](https://github.com/aminbenarieb/healthkit-data-generator) - Swift Package for generating realistic HealthKit data with AI-powered natural language processing, custom profiles, and flexible configuration options for iOS development and testing. <sub>⭐ 78 · Swift</sub>
-- [Yunkun-Zhang/Data-Centric-FM-Healthcare](https://github.com/Yunkun-Zhang/Data-Centric-FM-Healthcare) - A survey on data-centric foundation models in healthcare. <sub>⭐ 78</sub>
-- [Azure/Health-Data-and-AI-Blueprint](https://github.com/Azure/Health-Data-and-AI-Blueprint) - Azure Security and Compliance Blueprint - HIPAA/HITRUST Health Data and AI - deployment, and demo that Predicts the Length of Stay in Hospitals <sub>⭐ 75 · PowerShell</sub>
-- [ipc-lab/private-ml-for-health](https://github.com/ipc-lab/private-ml-for-health) - Dopamine: Differentially Private Federated Learning on Medical Data (AAAI - PPAI) <sub>⭐ 75 · Python</sub>
-- [Edouard99/Stress_Detection_ECG](https://github.com/Edouard99/Stress_Detection_ECG) - This project aims to detect stress state based on Electrocardiogram signals (WESAD Dataset) analysis with a deep learning model. <sub>⭐ 74 · Jupyter Notebook</sub>
-- [mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow](https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow) - Probabilistic Deep Learning finds its application in autonomous vehicles and medical diagnoses. This is an increasingly important area of deep learning that aims to quantify the noise and uncertainty… <sub>⭐ 74 · Jupyter Notebook</sub>
-- [Azure-Samples/azure-health-data-and-ai-samples](https://github.com/Azure-Samples/azure-health-data-and-ai-samples) - Samples for using the Azure Health Data Services <sub>⭐ 73</sub>
-- [an2tha/onerep](https://github.com/an2tha/onerep) - A simple, yet effective working tracking solution <sub>⭐ 71 · TypeScript</sub>
-- [Rishit-dagli/CPPE-Dataset](https://github.com/Rishit-dagli/CPPE-Dataset) - Code for our paper CPPE - 5 (Medical Personal Protective Equipment), a new challenging object detection dataset <sub>⭐ 70 · Python</sub>
-- [heyunh2015/diseaseBERT](https://github.com/heyunh2015/diseaseBERT) - Code and dataset of EMNLP 2020 paper "Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition" <sub>⭐ 69 · Python</sub>
-- [lemuria-wchen/imcs21](https://github.com/lemuria-wchen/imcs21) - Code and dataset for our Bioinformatics 2022 paper: "A Benchmark for Automatic Medical Consultation System: Frameworks, Tasks and Datasets" <sub>⭐ 69 · Python</sub>
-- [HealthyApps/health-auto-export-mcp-server](https://github.com/HealthyApps/health-auto-export-mcp-server) - An MCP server that provides Apple Health data via the Health Auto Export app for iOS <sub>⭐ 66 · TypeScript</sub>
-- [kajeesan/Open-Health-Atlas](https://github.com/kajeesan/Open-Health-Atlas) - Explore sleep, training, mood and nutrition together using local records, traceable calculations and optional MCP tools for your preferred AI client. <sub>⭐ 65 · Python</sub>
-- [alexgetmancom/miband-bot](https://github.com/alexgetmancom/miband-bot) - Telegram bot that turns Mi Band and Xiaomi Fitness data into useful health insights and daily feedback. <sub>⭐ 64 · TypeScript</sub>
-- [Nexgene-Research/nexonco-mcp](https://github.com/Nexgene-Research/nexonco-mcp) - An advanced MCP Server for accessing and analyzing clinical evidence data, with flexible search options to support precision medicine and oncology research. <sub>⭐ 64 · Python</sub>
-- [richardChenzhihui/Med-Banana-80K](https://github.com/richardChenzhihui/Med-Banana-80K) - Official code release for the EMNLP 2026 paper "Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories" — Med-Banana-80K dataset + edit–verify–refine… <sub>⭐ 64 · Python</sub>
-- [alipay/RJU_Ant_QA](https://github.com/alipay/RJU_Ant_QA) - The RJUA-QA (RenJi hospital department of Urology and Antgroup collaborative Question and Answer dataset) is an innovative medical urology specialty QA inference dataset. <sub>⭐ 63</sub>
-- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Sync Health Connect and screen time data to self-hosted webhooks and MQTT/Home Assistant. 33 data types, HMAC-signed payloads, no cloud, no trackers. <sub>⭐ 63 · Kotlin</sub>
-- [USC-InfoLab/NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN) - NeuroGNN is a state-of-the-art framework for precise seizure detection and classification from EEG data. It employs dynamic Graph Neural Networks (GNNs) to capture intricate spatial, temporal… <sub>⭐ 63 · Jupyter Notebook</sub>
-- [davidepalleschi/zepp2hass](https://github.com/davidepalleschi/zepp2hass) - Connect your Zepp smartwatch to Home Assistant and track your health & fitness data in real-time <sub>⭐ 62 · Python</sub>
-- [mathworks/physionet_ECG_data](https://github.com/mathworks/physionet_ECG_data) - This repository contains human electrocardiogram data (ECG) data used in Wavelet Toolbox machine and deep learning examples <sub>⭐ 61</sub>
-- [jg-fisher/diabetesNeuralNetwork](https://github.com/jg-fisher/diabetesNeuralNetwork) - A neural network using Keras that classifies risk for diabetes based on health data. <sub>⭐ 60 · Python</sub>
-- [terrenjpeterson/caloriecounter](https://github.com/terrenjpeterson/caloriecounter) - AWS Lex based chatbot that calculates calories based on different fast food restaurants. This was an entry for a coding challenge on DevPost, and is actively used on Facebook Messenger. The issues… <sub>⭐ 59 · JavaScript</sub>
-- [kamalee-23/AI_Diet_and_Fitness_Planner](https://github.com/kamalee-23/AI_Diet_and_Fitness_Planner) - AI_Diet_and_Fitness_Planner <sub>⭐ 58 · Python</sub>
-- [PHES-ODM/PHES-ODM](https://github.com/PHES-ODM/PHES-ODM) - The Public Health Environmental Surveillance Open Data Model (PHES-ODM, or ODM). A data model, dictionary and support tools for environmental surveillance. <sub>⭐ 58 · PLpgSQL</sub>
-- [01helfy/fit-forge-ops](https://github.com/01helfy/fit-forge-ops) - Smart Fitness Club Management System 2026 with AI Workout & Diet Plans <sub>⭐ 56 · HTML</sub>
-- [H1an1/health-coach](https://github.com/H1an1/health-coach) - Open-source AI health coach skill — meal photo analysis, lab interpretation, body tracking, exercise programming. 600+ Chinese food nutrition database included. 开源AI健康教练。 <sub>⭐ 56 · Python</sub>
-- [ibrarhussainbaloch840-spec/lift-lab-form-coach](https://github.com/ibrarhussainbaloch840-spec/lift-lab-form-coach) - Real-Time Powerlifting Form Check 2026: AI Pose Correction with YOLOv5 and MediaPipe <sub>⭐ 56 · HTML</sub>
+- [McGill-NLP/medal](https://github.com/McGill-NLP/medal) - 医学のドメインで自然言語理解のために設計された、略語の変容を硬化させる大規模な医療テキストデータセット <sub>⭐ 284 · Python</sub>
+- [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - すべてのAIプロジェクトの追跡リポジトリです。 <sub>⭐ 274 · Python</sub>
+- [physhik/ecg-mit-bih](https://github.com/physhik/ecg-mit-bih) - MIT-BIHデータを用いたECG分類、心臓学レベルの不整脈検出と深層ニューラルネットワークを活用した血管電図の分類に関する深いCNN学習の実施... <sub>⭐ 270 · Python</sub>
+- [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) - フードの下DuckDBを使用して自然言語でApple HealthデータをクエリするためのMCPサーバー。 <sub>⭐ 270 · Python</sub>
+- [DeepPSP/torch_ecg](https://github.com/DeepPSP/torch_ecg) - PyTorchを用いたディープラーニングECGモデル <sub>⭐ 268 · Python</sub>
+- [hasaneyldrm/logpress-public](https://github.com/hasaneyldrm/logpress-public) - iOSとAndroid用のAI搭載ワークアウトトラッカー — AIフィットネススコアリング、ワークアウトロギング、ゲーム化、オフラインのデモモードを備えたReact Nativeアプリ。 パブリックでサニタイズされたフォーク(埋め込まれた秘密なし)。 <sub>⭐ 268 · TypeScript</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - コンテンツのgithub / docsコードの問題80プルリクエスト35ディスカッションアクションプロジェクト2セキュリティインサイトマージブランチ'main'を1862に追加-Travis-CI-migrationテーブルにスキップ... <sub>⭐ 268</sub>
+- [hsd1503/DL-ECG-Review](https://github.com/hsd1503/DL-ECG-Review) - ECGデータのディープラーニング方法のレビュー <sub>⭐ 253</sub>
+- [shreyashankar/datasets-for-good](https://github.com/shreyashankar/datasets-for-good) - 統計/機械学習/技術を適用するためのデータセットのリストを社会的な良い世界へ。 <sub>⭐ 253</sub>
+- [MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model](https://github.com/MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model) - インターとイントラ患者のECGハートビートは、不整脈検出のための分類:深い学習アプローチをシーケンスするためのシーケンス <sub>⭐ 226 · Python</sub>
+- [MrGiovanni/RadGPT](https://github.com/MrGiovanni/RadGPT) - (ICCV 2025) AbdomenAtlas 3.0(9,262 CTボリューム+医療報告)。 これらの「スーパーマン」レポートは、従来の人造の報告書よりもより正確で詳細に標準化され、生成された高速です。 <sub>⭐ 225 · Python</sub>
+- [tmthyjames/Achoo](https://github.com/tmthyjames/Achoo) - Achoo は Raspberry Pi を使用して、私の息子が気象や花粉、空気の質データを使って特定の日に彼の吸入器を必要とするかどうかを予測します。 ある日の予報が指定された閾値よりも上にある場合... <sub>⭐ 211 · HTML</sub>
+- [Azure-Samples/healthcare-agent-orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator) - M365やチームなどの多様なデータタイプとツールを組み合わせて、がんケアなど多岐にわたる医療ワークフローを支援するモジュラー専門エージェントを作成。 <sub>⭐ 209 · Python</sub>
+- [Franck-Dernoncourt/pubmed-rct](https://github.com/Franck-Dernoncourt/pubmed-rct) - PubMed 200k RCT データセット: 連続した文の分類のための大きなデータセット。 <sub>⭐ 203</sub>
+- [PierreElias/IntroECG](https://github.com/PierreElias/IntroECG) - エレクトロカルディグラムを用いたディープラーニングワークで始めるためのリソースライブラリ <sub>⭐ 188 · Jupyter Notebook</sub>
+- [Nicolasvegam/garmin-connect-mcp](https://github.com/Nicolasvegam/garmin-connect-mcp) - Garmin Connect の MCP サーバー — あらゆる AI アシスタントから61の健康、フィットネス、アクティビティ ツールにアクセス <sub>⭐ 182 · TypeScript</sub>
+- [RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting](https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting) - 以前の「Fitness-AI-Coach」の拡張機能:リアルタイムエクササイズ認識とカウントを備えた完全なWebアプリケーション。演習認識モデルは、テストセットで99%精度を達成し... <sub>⭐ 169 · Python</sub>
+- [Jwoo5/fairseq-signals](https://github.com/Jwoo5/fairseq-signals) - Fairseqフレームワークに基づくECGデータ処理のためのディープラーニングモデルのコレクション <sub>⭐ 162 · Python</sub>
+- [onlyzdd/ecg-diagnosis](https://github.com/onlyzdd/ecg-diagnosis) - 12鉛ECGの解釈のための深い学習 <sub>⭐ 160 · Python</sub>
+- [Kaushalya/medclip](https://github.com/Kaushalya/medclip) - 医療データセットROCOで訓練されたマルチモーダルCLIPモデル <sub>⭐ 152 · Jupyter Notebook</sub>
+- [allenheltondev/serverless-ai-fitness](https://github.com/allenheltondev/serverless-ai-fitness) - GhatGPT を使用してワークアウトを生成し、それらをあなたに電子メールで送信するアプリ <sub>⭐ 146 · JavaScript</sub>
+- [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - 健康と生活データを追跡、視覚化し、埋め込む — ロケーション、健康、仕事、遊びなど <sub>⭐ 146</sub>
+- [niekverw/Deep-Learning-Based-ECG-Annotator](https://github.com/niekverw/Deep-Learning-Based-ECG-Annotator) - ディープラーニング、テンソルフローのケラスを用いたECG信号の注釈 <sub>⭐ 145 · Python</sub>
+- [burakorkmez/codeflex-ai](https://github.com/burakorkmez/codeflex-ai) - 自分のAIフィットネストレーナーを無料で構築 <sub>⭐ 132 · TypeScript</sub>
+- [talhanai/speech-nlp-datasets](https://github.com/talhanai/speech-nlp-datasets) - 音声と言語を使って健康的成果をモデル化するための公開可能なデータセットへのリンクが含まれています。 <sub>⭐ 132</sub>
+- [thillai-c/AI-Fitness-trainer](https://github.com/thillai-c/AI-Fitness-trainer) - カウントや動きを追跡することで、ワークアウトセッションを支援するために使用されるAIモデル。 <sub>⭐ 130 · Python</sub>
+- [medtagger/MedTagger](https://github.com/medtagger/MedTagger) - クラウドソーシングを用いた医療データセットのアノテーションのための共同フレームワーク。 <sub>⭐ 124 · Python</sub>
+- [ovumcy/ovumcy-web](https://github.com/ovumcy/ovumcy-web) - セルフホストの月経周期追跡者。プライバシー優先、ドッカー対応、美しい。追跡期間、予測サイクル、健康データを保有します。 <sub>⭐ 124 · Go</sub>
+- [diegoscarabelli/garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) - シンプルな Python CLI で、Garmin Connect データをローカルファイルとしてダウンロードし、SQLite データベースに読み込みます。 <sub>⭐ 122 · Python</sub>
+- [chrisprasanna/Exercise_Recognition_AI](https://github.com/chrisprasanna/Exercise_Recognition_AI) - コンピュータビジョンとディープラーニングを用いた、仮想パーソナルフィットネストラッカーや運動活動の認識A.I.を開発。 <sub>⭐ 121 · Jupyter Notebook</sub>
+- [cygnusb/coros-mcp](https://github.com/cygnusb/coros-mcp) - AIアシスタント向けMCPサーバーで、Corosフィットネスデータを読み取り管理:スリープ、HRV、毎日のメトリック、アクティビティ、および非公式のCoros APIによる構造化されたワークアウト <sub>⭐ 121 · Python</sub>
+- [huzaifi18/RUL_prediction](https://github.com/huzaifi18/RUL_prediction) - 複雑なニューラルネットワーク(CNN)とロング・ショート・ターム・メモリを組み合わせたハイブリッド・ディープ・モデルによるデータ駆動型アプローチを用いた「バッテリー残量豊かな暮らし(RUL)」予測に焦点を当てたプロジェクト。 <sub>⭐ 120 · Python</sub>
+- [StChenHaoGitHub/1D-deeplearning-model-pytorch](https://github.com/StChenHaoGitHub/1D-deeplearning-model-pytorch) - ecgでディープラーニングプロジェクトを行うには、従来のCNNモデルを再現するためにpytorchを使用しています。LeNet AlexNet ZFNet VGG GoogLeNet ResNet DenseNetは1つの感情を持ちます。 <sub>⭐ 119 · Python</sub>
+- [shadowlzt/ironclaw-ai-vision](https://github.com/shadowlzt/ironclaw-ai-vision) - 究極のAIフィットネスコーチPWA 2026:アイアンマイクワークアウト&スマートレシピエージェント <sub>⭐ 117 · HTML</sub>
+- [ammarmahmood1999/HeartHealthPrediction](https://github.com/ammarmahmood1999/HeartHealthPrediction) - 世界における死の大きな理由は、高低先進国で心臓病です。 データ科学者は、健康疾患をモデル化するための特徴的な機械学習技術を使用しています... <sub>⭐ 115 · Jupyter Notebook</sub>
+- [J700070/Stock-Analyzer-Python](https://github.com/J700070/Stock-Analyzer-Python) - 最新の利用可能な情報を得るために、株式データのリアルタイムスクレイピング。 インタラクティブで有益なダッシュボードを提供するために、関連するデータをクリーニング、構造化および解析。... <sub>⭐ 115 · Python</sub>
+- [ParitoshParmar/Fitness-AQA](https://github.com/ParitoshParmar/Fitness-AQA) - フィットネスアクション品質評価またはAI-Fitnessコーチ(ECCV 2022) <sub>⭐ 113 · Python</sub>
+- [HeyThatsViv/Predicting-Depression](https://github.com/HeyThatsViv/Predicting-Depression) - CDC NHANESのウェブサイトからヘルスケアデータを使用して、機械学習を使ってうつ病を予測するプロジェクト。 このプロジェクトのデータを調べるユーザーのためのコンパニオンダッシュボードが作成されました... <sub>⭐ 108 · Jupyter Notebook</sub>
+- [Townzc/liftcut-tracker](https://github.com/Townzc/liftcut-tracker) - 初心者向けオープンソースワークアウト、栄養、進行中のトラッカーをゲストモードと構成可能なAIプランニングで提供。 <sub>⭐ 103 · Python</sub>
+- [yakupzengin/fitness-trainer-pose-estimation](https://github.com/yakupzengin/fitness-trainer-pose-estimation) - リアルタイムのポーズ推定を使用して、応答をカウントし、フォームを監視し、スクワット、プッシュアップ、およびマウスのカールなどのエクササイズのためのインスタントフィードバックを提供するAIを搭載したフィットネストラッカー。... <sub>⭐ 102 · Python</sub>
+- [umutkeltek/healthsave-observatory](https://github.com/umutkeltek/healthsave-observatory) - セルフホスト型のヘルスデータ観測:Apple Health、早期ウェアラブルプラグイン、Garmin/SamsungインポートをキャノンタイムスケールDBレコードに同期。ベースラインリンクされた検索を表示し、プライベートAPIをクエリする... <sub>⭐ 98 · Python</sub>
+- [aws-samples/serverless-genai-food-analyzer-app](https://github.com/aws-samples/serverless-genai-food-analyzer-app) - パーソナライズされた栄養アプリ、サーバーレス、あなたの買い物や料理のニーズに合わせて、ジェネレーションAI技術(Amazonの岩盤、Anthropic、Claude Haiku、Claude Sonnet)がAWS CDKを使用して機能する... <sub>⭐ 96 · TypeScript</sub>
+- [ncbi-nlp/MedCalc-Bench](https://github.com/ncbi-nlp/MedCalc-Bench) - (NeurIPS 2024 Datasets and Benchmark Track Oral) MedCalc-Bench: 医療計算のための大きな言語モデルの評価 <sub>⭐ 96 · Python</sub>
+- [watt-mind/coach](https://github.com/watt-mind/coach) - オープンソースのAIコーチと統一されたフィットネスダッシュボード。 <sub>⭐ 95 · TypeScript</sub>
+- [monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit) - AIコーディングエージェントのための公式モンテカルロツールキット。データとエージェントの保守性をもたらすスキルやプラグイン — モニタリング、トライエージング、トラブルシューティング、健康チェック - クロードコード、カーソル、および... <sub>⭐ 94 · Python</sub>
+- [Shivam1337/MindCrafter](https://github.com/Shivam1337/MindCrafter) - AIとMLは、メンタルヘルス診断&コンサルティングアプリをベースとしています。 <sub>⭐ 91 · Dart</sub>
+- [TAHIR0110/ThereForYou](https://github.com/TAHIR0110/ThereForYou) - You: あなたの精神的な健康同盟。カイ、私たちのAIアシスタントは、思いやりのあるサポートを提供しています。あなたの気分の傾向を追跡し、安全なコミュニティで solace を見つけ、危機リソースに迅速にアクセスします。私たちはここにいます... <sub>⭐ 91 · Python</sub>
+- [felixkrones/ECG-Digitiser](https://github.com/felixkrones/ECG-Digitiser) - PhysioNetチャレンジ2024 受賞者:プリントアウトからECG信号を再構築するために、Hough TransformとDeep Learningのアプローチを組み合わせる <sub>⭐ 90 · Python</sub>
+- [dylan-buck/Hermes-iOS](https://github.com/dylan-buck/Hermes-iOS) - ヘルメスのエージェントはiPhoneを持っていません。 これで、あなたのものになります。 このアプリでは、エルメスカメラ、マイク、健康データ、場所、および通知を提供します。 1つのMCPツールですべて利用できます。 <sub>⭐ 89 · Swift</sub>
+- [lkev/wtphm](https://github.com/lkev/wtphm) - 風力タービンの予後、健康管理および障害検出のためのSCADAデータの事前処理ライブラリ。https://github.com/lkev/wt-fddに成功 <sub>⭐ 88 · Python</sub>
+- [jergusadamec/ecg-deep-segmentation](https://github.com/jergusadamec/ecg-deep-segmentation) - さまざまなプリプロセス手順で、ecg信号の自動アノテーションのために訓練されたディープラーニングモデルの設計と実装。 <sub>⭐ 86 · Python</sub>
+- [leecdiang/Apple-Health-Pro](https://github.com/leecdiang/Apple-Health-Pro) - Apple Health XML/ZIPデータをAI分析用に整理したCSVファイルに抽出するスタジオグレードのツール。 <sub>⭐ 85 · Python</sub>
+- [im-ethz/flirt](https://github.com/im-ethz/flirt) - ウェアラブルデータでFLIRTの準備はできましたか? <sub>⭐ 84 · Jupyter Notebook</sub>
+- [Jianningli/medshapenet-feedback](https://github.com/Jianningli/medshapenet-feedback) - MedShapeNet - コンピュータビジョンのための3D医療形状の大規模データセット <sub>⭐ 84 · Jupyter Notebook</sub>
+- [Welthungerhilfe/ChildGrowthMonitor](https://github.com/Welthungerhilfe/ChildGrowthMonitor) - 子供の成長と栄養を監視するためのAIを搭載したモバイルおよびWebソリューション。 画像ベースの高さと重量推定を使用して、リモートエリアのためのインターネットなしで動作するデバイス上のデータを保存します... <sub>⭐ 83</sub>
+- [zinedkaloc/ai-workout-planner](https://github.com/zinedkaloc/ai-workout-planner) - ワークアウトプランナー&フィットネスコーチ - OpenAIチャット完了APIの利用 <sub>⭐ 83 · Dart</sub>
+- [chenfeng-huang/Kaggle_Silver_Medal_Solutioun_CMI-DBSD](https://github.com/chenfeng-huang/Kaggle_Silver_Medal_Solutioun_CMI-DBSD) - このプロジェクトでは、日常のジェスチャーから体に焦点を絞った反復行動(BFRB)を区別するために、手首脳センサーデータ - 移動、温度、および近接を使用しています。 目標は、そのモデルを構築することです... <sub>⭐ 81 · Python</sub>
+- [eddymina/ECG_Classification_Pytorch](https://github.com/eddymina/ECG_Classification_Pytorch) - ECG分類のための深層学習と環境ネットワークの応用 <sub>⭐ 81 · Jupyter Notebook</sub>
+- [jeremykohn/rid-covid](https://github.com/jeremykohn/rid-covid) - 画像ベースのCOVID-19診断。ソフトウェア、データなどのリソースへのリンク。 <sub>⭐ 81</sub>
+- [aminbenarieb/healthkit-data-generator](https://github.com/aminbenarieb/healthkit-data-generator) - iOS開発とテストのためのAI搭載自然言語処理、カスタムプロファイル、および柔軟な構成オプションで現実的な HealthKit データを生成するためのSwiftパッケージ。 <sub>⭐ 78 · Swift</sub>
+- [Yunkun-Zhang/Data-Centric-FM-Healthcare](https://github.com/Yunkun-Zhang/Data-Centric-FM-Healthcare) - ヘルスケアにおけるデータ中心的な基礎モデルに関する調査 <sub>⭐ 78</sub>
+- [Azure/Health-Data-and-AI-Blueprint](https://github.com/Azure/Health-Data-and-AI-Blueprint) - Azure Security and Compliance Blueprint - HIPAA/HITRUST Health Data and AI - 導入、および病院での滞在期間を予測するデモ <sub>⭐ 75 · PowerShell</sub>
+- [ipc-lab/private-ml-for-health](https://github.com/ipc-lab/private-ml-for-health) - ドパミン:医療データ(AAAI - PPAI)に関する個別にプライベートフェデレーションされた学習 <sub>⭐ 75 · Python</sub>
+- [Edouard99/Stress_Detection_ECG](https://github.com/Edouard99/Stress_Detection_ECG) - このプロジェクトでは、ディープラーニングモデルを用いた電気式信号(WESADデータセット)解析に基づいてストレス状態を検知することを目指しています。 <sub>⭐ 74 · Jupyter Notebook</sub>
+- [mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow](https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow) - 確率的ディープラーニングは、自律的な車や医療診断でそのアプリケーションを見つけます。 これは、騒音と不確実性を定量化することを目的とした深い学習のますます重要な領域です... <sub>⭐ 74 · Jupyter Notebook</sub>
+- [Azure-Samples/azure-health-data-and-ai-samples](https://github.com/Azure-Samples/azure-health-data-and-ai-samples) - Azure Health Data Service の使用に関するサンプル <sub>⭐ 73</sub>
+- [an2tha/onerep](https://github.com/an2tha/onerep) - シンプルで効果的な作業追跡ソリューション <sub>⭐ 71 · TypeScript</sub>
+- [Rishit-dagli/CPPE-Dataset](https://github.com/Rishit-dagli/CPPE-Dataset) - 紙CPPEのコード - 5(医療用保護装置)、新しい挑戦的なオブジェクト検出データセット <sub>⭐ 70 · Python</sub>
+- [heyunh2015/diseaseBERT](https://github.com/heyunh2015/diseaseBERT) - EMNLP 2020紙のコードとデータセット「健康問題回答、医療従事者および疾患名認識のためのBERTに病気の知識を注入する」 <sub>⭐ 69 · Python</sub>
+- [lemuria-wchen/imcs21](https://github.com/lemuria-wchen/imcs21) - バイオインフォマティクス2022用紙のコードとデータセット:「自動医療相談システムのためのベンチマーク:フレームワーク、タスクおよびデータセット」 <sub>⭐ 69 · Python</sub>
+- [HealthyApps/health-auto-export-mcp-server](https://github.com/HealthyApps/health-auto-export-mcp-server) - iOS用 Health Auto Exportアプリ経由でApple Healthデータを提供するMCPサーバー <sub>⭐ 66 · TypeScript</sub>
+- [kajeesan/Open-Health-Atlas](https://github.com/kajeesan/Open-Health-Atlas) - ローカルレコード、トレーサブルな計算とオプションのMCPツールを使用して、睡眠、トレーニング、気分および栄養を一緒に探してください。 <sub>⭐ 65 · Python</sub>
+- [alexgetmancom/miband-bot](https://github.com/alexgetmancom/miband-bot) - Mi BandとXiaomi Fitnessデータを有用な健康情報や毎日のフィードバックに変えるTelegramボット。 <sub>⭐ 64 · TypeScript</sub>
+- [Nexgene-Research/nexonco-mcp](https://github.com/Nexgene-Research/nexonco-mcp) - 臨床証拠データにアクセスし、分析するための高度なMCPサーバー, 精度医学と腫瘍学研究をサポートする柔軟な検索オプション. <sub>⭐ 64 · Python</sub>
+- [richardChenzhihui/Med-Banana-80K](https://github.com/richardChenzhihui/Med-Banana-80K) - EMNLP 2026紙「Med-Banana:成功と失敗の軌跡からの品質制御医療画像編集を学ぶ」のための公式コードリリース — Med-Banana-80Kデータセット + 編集 - 検証 - 洗練された... <sub>⭐ 64 · Python</sub>
+- [alipay/RJU_Ant_QA](https://github.com/alipay/RJU_Ant_QA) - RJUA-QA(泌尿器科およびAntgroup共同質問と回答データセット)は、革新的な医療用泌尿器専門QA推論データセットです。 <sub>⭐ 63</sub>
+- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - ヘルスコネクトとスクリーンタイムデータをセルフホスト型WebhookおよびMQTT /ホームアシスタントに同期します。 33データタイプ、HMAC署名のペイロード、クラウドなし、トラッカーはありません。 <sub>⭐ 63 · Kotlin</sub>
+- [USC-InfoLab/NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN) - NeuroGNN は、EEG データから精密な発作検出と分類のための最先端のフレームワークです。 これは、複雑な空間をキャプチャするために動的グラフニューラルネットワーク (GNN) を採用しています。 <sub>⭐ 63 · Jupyter Notebook</sub>
+- [davidepalleschi/zepp2hass](https://github.com/davidepalleschi/zepp2hass) - Zepp Smartwatchをホームアシスタントに接続し、健康とフィットネスデータをリアルタイムで追跡 <sub>⭐ 62 · Python</sub>
+- [mathworks/physionet_ECG_data](https://github.com/mathworks/physionet_ECG_data) - このリポジトリには、Wavelet Toolboxマシンとディープラーニング例で使用したヒトの心電図データ(ECG)のデータが含まれています。 <sub>⭐ 61</sub>
+- [jg-fisher/diabetesNeuralNetwork](https://github.com/jg-fisher/diabetesNeuralNetwork) - 健康データに基づいて糖尿病のリスクを分類するケラスを用いたニューラルネットワーク。 <sub>⭐ 60 · Python</sub>
+- [terrenjpeterson/caloriecounter](https://github.com/terrenjpeterson/caloriecounter) - AWS Lexベースのチャットボットは、さまざまな高速フードレストランに基づいてカロリーを計算します。 これは、DevPostのコーディングチャレンジのためのエントリであり、Facebook Messengerで積極的に使用されます。 問題... <sub>⭐ 59 · JavaScript</sub>
+- [kamalee-23/AI_Diet_and_Fitness_Planner](https://github.com/kamalee-23/AI_Diet_and_Fitness_Planner) - AI_Diet_and_Fitness_プランナー <sub>⭐ 58 · Python</sub>
+- [PHES-ODM/PHES-ODM](https://github.com/PHES-ODM/PHES-ODM) - 公衆衛生環境監視の開いたデータ モデル(PHES-ODM、またはODM)。 環境監視のためのデータ・モデル、辞書およびサポート用具。 <sub>⭐ 58 · PLpgSQL</sub>
+- [01helfy/fit-forge-ops](https://github.com/01helfy/fit-forge-ops) - スマートフィットネスクラブ管理システム2026、AIワークアウト&ダイエットプラン <sub>⭐ 56 · HTML</sub>
+- [H1an1/health-coach](https://github.com/H1an1/health-coach) - オープンソースのAIヘルスコーチスキル - 食事の写真分析、ラボ通訳、ボディトラッキング、エクササイズプログラミング。 600 +中国の食品栄養データベースが含まれています。 新興源AI健康教育。 <sub>⭐ 56 · Python</sub>
+- [ibrarhussainbaloch840-spec/lift-lab-form-coach](https://github.com/ibrarhussainbaloch840-spec/lift-lab-form-coach) - リアルタイムのパワーリフトフォームチェック2026:YOLOv5とMediaPipeによるAIポーズ補正 <sub>⭐ 56 · HTML</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#-医療従事者のai) · [← 職種別のAIリポジトリ](./README.md)

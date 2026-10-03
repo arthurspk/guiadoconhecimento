@@ -20,1026 +20,1026 @@
 
 > ロボット制御、模倣学習、視覚・言語・行動モデル。
 
-- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning. <sub>⭐ 30.0k · Python</sub>
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r / https://mlsysbook.ai <sub>⭐ 28.8k · Python</sub>
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - LeRobot: Making AI for Robotics more accessible with end-to-end learning <sub>⭐ 27.9k · Python</sub>
-- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. <sub>⭐ 14.8k · C++</sub>
-- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. <sub>⭐ 12.0k · Jupyter Notebook</sub>
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI <sub>⭐ 11.4k · Python</sub>
-- [mozilla/TTS](https://github.com/mozilla/TTS) - Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts) <sub>⭐ 10.2k · Jupyter Notebook</sub>
-- [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. <sub>⭐ 9.0k · C++</sub>
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning. <sub>⭐ 7.2k · Python</sub>
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. <sub>⭐ 6.1k · C++</sub>
-- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - AI conference deadline countdowns <sub>⭐ 6.0k · JavaScript</sub>
-- [RLinf/RLinf](https://github.com/RLinf/RLinf) - RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI <sub>⭐ 5.4k · Python</sub>
-- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced… <sub>⭐ 5.4k · C++</sub>
-- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application <sub>⭐ 5.2k · TypeScript</sub>
-- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator <sub>⭐ 4.7k · C++</sub>
-- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included. <sub>⭐ 4.2k · C++</sub>
-- [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments. <sub>⭐ 4.2k · Python</sub>
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. <sub>⭐ 4.2k · Python</sub>
-- [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed… <sub>⭐ 4.0k · Rust</sub>
-- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research. <sub>⭐ 3.8k · C++</sub>
-- [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant <sub>⭐ 3.8k · TypeScript</sub>
-- [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction <sub>⭐ 3.8k · Python</sub>
-- [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing <sub>⭐ 3.8k · Python</sub>
-- [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning. <sub>⭐ 3.6k · Python</sub>
-- [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) - A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. <sub>⭐ 3.6k</sub>
-- [enactic/openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments. <sub>⭐ 3.6k · MDX</sub>
-- [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. <sub>⭐ 3.5k · Python</sub>
-- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction. <sub>⭐ 3.5k · Python</sub>
-- [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano. <sub>⭐ 3.3k · Jupyter Notebook</sub>
-- [Source-Robotics/PAROL6-Desktop-robot-arm](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) - BOM, STL files and instructions for PAROL6 3D printed robot arm <sub>⭐ 3.3k · HTML</sub>
-- [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments. <sub>⭐ 3.1k · Python</sub>
-- [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation <sub>⭐ 3.1k · Python</sub>
-- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine. 一只会主动找你玩的 AI 猫娘。 <sub>⭐ 3.0k · Python</sub>
-- [OpenMind/OM1](https://github.com/OpenMind/OM1) - Modular AI HAL (Hardware Abstraction Layer) for Robots <sub>⭐ 2.9k · Go</sub>
-- [open-gigaai/giga-brain-0](https://github.com/open-gigaai/giga-brain-0) - GigaBrain-0: A World Model-Powered Vision-Language-Action Model <sub>⭐ 2.7k · Python</sub>
-- [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: A Modular Simulation Framework and Benchmark for Robot Learning <sub>⭐ 2.6k · Python</sub>
-- [NVlabs/ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots. <sub>⭐ 2.4k · Python</sub>
-- [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) - VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model <sub>⭐ 2.3k · Python</sub>
-- [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and… <sub>⭐ 2.2k · HTML</sub>
-- [HCPLab-SYSU/Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) - (Embodied-AI-Survey-2025) Paper List and Resource Repository for Embodied AI <sub>⭐ 2.2k</sub>
-- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695 <sub>⭐ 2.1k · Python</sub>
-- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related… <sub>⭐ 2.0k · Python</sub>
-- [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - A collection of robotics simulation environments for reinforcement learning <sub>⭐ 2.0k · Python</sub>
-- [showlab/ShowUI](https://github.com/showlab/ShowUI) - (CVPR 2025) Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use. <sub>⭐ 1.9k · Python</sub>
-- [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) - This is a curated list of "Embodied AI or robot with Large Language Models" research. Watch this repository for the latest updates! <sub>⭐ 1.9k</sub>
-- [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld) - Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning <sub>⭐ 1.9k · Python</sub>
-- [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning <sub>⭐ 1.9k · Python</sub>
-- [StanfordVL/BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx <sub>⭐ 1.7k · Python</sub>
-- [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF) <sub>⭐ 1.7k</sub>
-- [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots. <sub>⭐ 1.6k · Python</sub>
-- [open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0) - GigaWorld-0: World Models as Data Engine to Empower Embodied AI <sub>⭐ 1.6k · Python</sub>
-- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds. <sub>⭐ 1.6k · Python</sub>
-- [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Firmware security research platform combining binary analysis, taint tracing, and emulation across IoT, edge AI, mobile devices, and robotics. <sub>⭐ 1.6k · Rust</sub>
-- [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python <sub>⭐ 1.6k · Python</sub>
-- [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) - Re-implementation of pi0 vision-language-action (VLA) model from Physical Intelligence <sub>⭐ 1.5k · Python</sub>
-- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) - Connect AI models like Claude & GPT with robots using MCP and ROS. <sub>⭐ 1.5k · Python</sub>
-- [fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar) - Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" represents "simulation and real" <sub>⭐ 1.5k · C++</sub>
-- [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated collection of papers, explainers, and resources on World Action Models for embodied AI <sub>⭐ 1.4k · HTML</sub>
-- [unitreerobotics/unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab. <sub>⭐ 1.4k · Python</sub>
-- [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) - A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services. <sub>⭐ 1.4k · C++</sub>
-- [erwincoumans/tiny-differentiable-simulator](https://github.com/erwincoumans/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ and CUDA physics library for reinforcement learning and robotics with zero dependencies. <sub>⭐ 1.4k · C++</sub>
-- [reiniscimurs/DRL-robot-navigation](https://github.com/reiniscimurs/DRL-robot-navigation) - Deep Reinforcement Learning for mobile robot navigation in ROS Gazebo simulator. Using Twin Delayed Deep Deterministic Policy Gradient (TD3) neural network, a robot learns to navigate to a random… <sub>⭐ 1.4k · Python</sub>
-- [Lionelsy/Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List) - Some Conferences' accepted paper lists (including AI, ML, Robotic) <sub>⭐ 1.3k · Python</sub>
-- [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - A simulation platform for versatile Embodied AI research and developments. <sub>⭐ 1.3k · Python</sub>
-- [chonyy/AI-basketball-analysis](https://github.com/chonyy/AI-basketball-analysis) - AI web app and API to analyze basketball shots and shooting pose. <sub>⭐ 1.3k · Python</sub>
-- [rohanpsingh/LearningHumanoidWalking](https://github.com/rohanpsingh/LearningHumanoidWalking) - Training a humanoid robot for locomotion using Reinforcement Learning <sub>⭐ 1.2k · Python</sub>
-- [andrewkirillov/AForge.NET](https://github.com/andrewkirillov/AForge.NET) - AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms… <sub>⭐ 1.2k · C#</sub>
-- [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A Python-based lightweight robot simulator designed for navigation, control, and learning <sub>⭐ 1.1k · Python</sub>
-- [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) - RynnVLA-002: A Unified Vision-Language-Action and World Model <sub>⭐ 1.1k · Python</sub>
-- [andyzeng/visual-pushing-grasping](https://github.com/andyzeng/visual-pushing-grasping) - Train robotic agents to learn to plan pushing and grasping actions for manipulation with deep reinforcement learning. <sub>⭐ 1.1k · Python</sub>
-- [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - (TRO 2025) NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning. <sub>⭐ 1.1k · Python</sub>
-- [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) - CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure for Air-Ground Embodied Intelligence <sub>⭐ 1.1k · C++</sub>
-- [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI (now with Python bindings) <sub>⭐ 1.1k · Rust</sub>
-- [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) - GPT-6 Astra for embodied AI and robotics. <sub>⭐ 1.1k</sub>
-- [mosaico-labs/mosaico](https://github.com/mosaico-labs/mosaico) - Mosaico - The data platform for Physical AI <sub>⭐ 1.1k · Python</sub>
-- [NVIDIA-AI-IOT/redtail](https://github.com/NVIDIA-AI-IOT/redtail) - Perception and AI components for autonomous mobile robotics. <sub>⭐ 1.1k · C++</sub>
-- [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) - A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond <sub>⭐ 1.0k</sub>
-- [LeCAR-Lab/dial-mpc](https://github.com/LeCAR-Lab/dial-mpc) - Official implementation for the paper "Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing". DIAL-MPC is a novel sampling-based MPC framework for legged… <sub>⭐ 1.0k · Python</sub>
-- [mees/calvin](https://github.com/mees/calvin) - CALVIN - A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks <sub>⭐ 997 · Python</sub>
-- [timqian/bambot](https://github.com/timqian/bambot) - Play with open source, low-cost AI robots with ease <sub>⭐ 977 · TypeScript</sub>
-- [dusty-nv/jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement) - Deep reinforcement learning GPU libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator. <sub>⭐ 933 · C++</sub>
-- [autowarefoundation/vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology <sub>⭐ 906 · C++</sub>
-- [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat <sub>⭐ 880 · Python</sub>
-- [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation <sub>⭐ 865</sub>
-- [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning <sub>⭐ 863 · Python</sub>
-- [JackieTseng/conference_call_for_paper](https://github.com/JackieTseng/conference_call_for_paper) - 2021-2022 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics <sub>⭐ 852 · HTML</sub>
-- [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) - SAPIEN Embodied AI Platform <sub>⭐ 846 · C++</sub>
-- [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot) - 3D-printed open-source humanoid robot platform for sim-to-real and RL <sub>⭐ 832</sub>
-- [Auromix/ROS-LLM](https://github.com/Auromix/ROS-LLM) - ROS-LLM is a framework designed for embodied intelligence applications in ROS. It allows natural language interactions and leverages Large Language Models (LLMs) for decision-making and robot… <sub>⭐ 830 · Python</sub>
-- [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) - (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model <sub>⭐ 820 · Python</sub>
-- [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - A collection of some awesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and… <sub>⭐ 815</sub>
-- [terminators2025/RealMirror](https://github.com/terminators2025/RealMirror) - RealMirror, a comprehensive, open-source embodied AI VLA platform. <sub>⭐ 790 · JavaScript</sub>
-- [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) - Useful links of different content related to AI, Computer Vision, and Robotics. <sub>⭐ 786</sub>
-- [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - (Actively Maintained ) A list of Embodied AI papers accepted by top conferences (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV). <sub>⭐ 769</sub>
-- [RoseCityRobotics/ai-developer-resources](https://github.com/RoseCityRobotics/ai-developer-resources) - I am Duncan, a cofounder at Rose City Robotics. This public repository is used as an easy to update list of resources for AI developers including technical courses, books, and tutorials on artificial… <sub>⭐ 764</sub>
-- [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot) - End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions <sub>⭐ 742 · Python</sub>
-- [2toinf/X-VLA](https://github.com/2toinf/X-VLA) - (ICLR 2026) The offical Implementation of "Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model" <sub>⭐ 740 · C++</sub>
-- [opendr-eu/opendr](https://github.com/opendr-eu/opendr) - A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning <sub>⭐ 729 · Python</sub>
-- [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes. Accepted at RSS 2025. <sub>⭐ 727 · Python</sub>
-- [FluxVLA/FluxVLA](https://github.com/FluxVLA/FluxVLA) - An all-in-one VLA engineering platform for embodied AI — from data to real-robot deployment. <sub>⭐ 721 · Python</sub>
-- [Skylark0924/Rofunc](https://github.com/Skylark0924/Rofunc) - The Full Process Python Package for Robot Learning from Demonstration and Robot Manipulation <sub>⭐ 721 · Python</sub>
-- [vibertthio/awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art) - A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning. It's machine learning art. <sub>⭐ 719</sub>
-- [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) - (RSS'25) This repository is the implementation of "NaVILA: Legged Robot Vision-Language-Action Model for Navigation" <sub>⭐ 715 · Python</sub>
-- [facebookresearch/project_superdex](https://github.com/facebookresearch/project_superdex) - SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable reinforcement learning interface in a unified simulation platform, with VR-based teleoperation and… <sub>⭐ 710 · C++</sub>
-- [PaulDanielML/MuJoCo_RL_UR5](https://github.com/PaulDanielML/MuJoCo_RL_UR5) - A MuJoCo/Gym environment for robot control using Reinforcement Learning. The task of agents in this environment is pixel-wise prediction of grasp success chances. <sub>⭐ 691 · Python</sub>
-- [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) - Repository for our papers: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics and Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement… <sub>⭐ 682 · Python</sub>
-- [InternRobotics/EmbodiedScan](https://github.com/InternRobotics/EmbodiedScan) - (CVPR 2024 & NeurIPS 2024) EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI <sub>⭐ 680 · Python</sub>
-- [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) - (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" <sub>⭐ 667 · Python</sub>
-- [unitreerobotics/unitree_rl_mjlab](https://github.com/unitreerobotics/unitree_rl_mjlab) - This is a repository for reinforcement learning implementation for Unitree robots, based on Mujoco. <sub>⭐ 666 · C++</sub>
-- [Spirit-AI-Team/spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5) - Spirit-v1.5: A Robotic Foundation Model by Spirit AI <sub>⭐ 664 · Python</sub>
-- [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) - (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning <sub>⭐ 661 · Python</sub>
-- [UMass-Embodied-AGI/3D-VLA](https://github.com/UMass-Embodied-AGI/3D-VLA) - (ICML 2024) 3D-VLA: A 3D Vision-Language-Action Generative World Model <sub>⭐ 637 · Python</sub>
-- [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots) - Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark. <sub>⭐ 634 · Python</sub>
-- [vikashplus/robohive](https://github.com/vikashplus/robohive) - A unified framework for robot learning <sub>⭐ 632 · Python</sub>
-- [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) - Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey on Vision–Language–Action Models for Autonomous Driving”. <sub>⭐ 622</sub>
-- [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM <sub>⭐ 617 · Python</sub>
-- [proroklab/VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator) - VMAS is a vectorized differentiable simulator designed for efficient Multi-Agent Reinforcement Learning benchmarking. It is comprised of a vectorized 2D physics engine written in PyTorch and a set of… <sub>⭐ 617 · Python</sub>
-- [TARS-AI-Community/TARS-AI](https://github.com/TARS-AI-Community/TARS-AI) - A recreation of the robot TARS from Interstellar, featuring AI capabilities. <sub>⭐ 611 · Python</sub>
-- [anki/vector-python-sdk](https://github.com/anki/vector-python-sdk) - Anki Vector Python SDK <sub>⭐ 610 · Python</sub>
-- [spear-sim/spear](https://github.com/spear-sim/spear) - SPEAR: A Simulator for Photorealistic Embodied AI Research <sub>⭐ 606 · C++</sub>
-- [ginwind/VLA-JEPA](https://github.com/ginwind/VLA-JEPA) - (ECCV 2026) VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model <sub>⭐ 598 · Python</sub>
-- [RobotecAI/rai](https://github.com/RobotecAI/rai) - RAI is a vendor agnostic agentic framework for Physical AI robotics, utilizing ROS 2 tools to perform complex actions, defined scenarios, free interface execution, log summaries, voice interaction… <sub>⭐ 597 · Python</sub>
-- [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research. <sub>⭐ 596 · Python</sub>
-- [uncle-mark/desk-emoji](https://github.com/uncle-mark/desk-emoji) - Desk-Emoji is a truly open-source AI desktop robot featuring an emoji screen, a two-axis console, and LLM capabilities for voice chat. <sub>⭐ 590 · C</sub>
-- [fracapuano/robot-learning-tutorial](https://github.com/fracapuano/robot-learning-tutorial) - All the source code for "Robot Learning: A Tutorial". Get involved to be featured in the next iteration! <sub>⭐ 587 · TeX</sub>
-- [kyegomez/RT-2](https://github.com/kyegomez/RT-2) - Democratization of RT-2 "RT-2: New model translates vision and language into action" <sub>⭐ 584 · Python</sub>
-- [Psi-Robot/Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers) - Paper list in the survey: A Survey on Vision-Language-Action Models: An Action Tokenization Perspective <sub>⭐ 582</sub>
-- [RobotLocomotion/pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence) - Code for "Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation" <sub>⭐ 576 · Python</sub>
-- [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments. <sub>⭐ 575 · Python</sub>
-- [MINT-SJTU/RoboClaw](https://github.com/MINT-SJTU/RoboClaw) - RoboClaw is an Embodied AI Assistant. <sub>⭐ 563 · Python</sub>
-- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - A conversational, AI device + software framework for companionship, entertainment, education, healthcare, IoT applications, and DIY robotics. Built with Python, NextJS, Arduino, ESP32, LLMs (GPT-4o)… <sub>⭐ 549 · TypeScript</sub>
-- [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources. <sub>⭐ 532</sub>
-- [OpenBMB/DeepThinkVLA](https://github.com/OpenBMB/DeepThinkVLA) - DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models <sub>⭐ 532 · Python</sub>
-- [AndrejOrsula/drl_grasping](https://github.com/AndrejOrsula/drl_grasping) - Deep Reinforcement Learning for Robotic Grasping from Octrees <sub>⭐ 522 · Python</sub>
-- [swarm-subnet/Langostino](https://github.com/swarm-subnet/Langostino) - Langostino - An open-source autonomous drone platform using ROS2 and AI-powered flight control. A complete reference implementation for building, understanding, and extending real-world drone… <sub>⭐ 520 · Python</sub>
-- [Skylark0924/Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics) - This is a private learning repository for reinforcement learning techniques used in robotics. <sub>⭐ 518 · HTML</sub>
-- [sichkar-valentyn/Reinforcement_Learning_in_Python](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python) - Implementing Reinforcement Learning, namely Q-learning and Sarsa algorithms, for global path planning of mobile robot in unknown environment with obstacles. Comparison analysis of Q-learning and Sarsa <sub>⭐ 514 · Python</sub>
-- [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - The repository for the largest and most comprehensive empirical study of visual foundation models for Embodied AI (EAI). <sub>⭐ 509 · Python</sub>
-- [microsoft/VITRA](https://github.com/microsoft/VITRA) - (ICRA 2026) VITRA: Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos <sub>⭐ 505 · Python</sub>
-- [chengxuxin/expressive-humanoid](https://github.com/chengxuxin/expressive-humanoid) - (RSS 2024): Expressive Whole-Body Control for Humanoid Robots <sub>⭐ 499 · Python</sub>
-- [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) - A comprehensive list of excellent research papers, models, datasets, and other resources on Vision-Language-Action (VLA) models in robotics. <sub>⭐ 497</sub>
-- [jamro/tiny-engineer](https://github.com/jamro/tiny-engineer) - A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work. <sub>⭐ 491 · C++</sub>
-- [gaiyi7788/awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) - A curated list of resources relevant to legged locomotion learning of robotics. <sub>⭐ 489</sub>
-- [worldbench/awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) - Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future <sub>⭐ 484 · HTML</sub>
-- [Holiday-Robot/FlashSAC](https://github.com/Holiday-Robot/FlashSAC) - FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control <sub>⭐ 483 · Python</sub>
-- [OpenLegged/URDF-Studio](https://github.com/OpenLegged/URDF-Studio) - URDF-Studio is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance. <sub>⭐ 481 · TypeScript</sub>
-- [jr-robotics/robo-gym](https://github.com/jr-robotics/robo-gym) - An open source toolkit for Distributed Deep Reinforcement Learning on real and simulated robots. <sub>⭐ 478 · Python</sub>
-- [OpenMOSS/VLABench](https://github.com/OpenMOSS/VLABench) - A large-scale benchmark for evaluating vision-language-action models, embodied agents, and vision-language models <sub>⭐ 476 · Python</sub>
-- [allenai/procthor](https://github.com/allenai/procthor) - Scaling Embodied AI by Procedurally Generating Interactive 3D Houses <sub>⭐ 475 · Python</sub>
-- [sylvestf/LIBERO-plus](https://github.com/sylvestf/LIBERO-plus) - Official repository of LIBERO-plus, a generalized benchmark for in-depth robustness analysis of vision-language-action models. <sub>⭐ 469 · Python</sub>
-- [FidoProject/Fido](https://github.com/FidoProject/Fido) - A lightweight C++ machine learning library for embedded electronics and robotics. <sub>⭐ 464 · C++</sub>
-- [danijar/daydreamer](https://github.com/danijar/daydreamer) - DayDreamer: World Models for Physical Robot Learning <sub>⭐ 463 · Jupyter Notebook</sub>
-- [hku-mars/LIV_handhold_2](https://github.com/hku-mars/LIV_handhold_2) - LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI. <sub>⭐ 463 · C++</sub>
-- [GuanxingLu/vlarl](https://github.com/GuanxingLu/vlarl) - Single-file implementation to advance vision-language-action (VLA) models with reinforcement learning. <sub>⭐ 460 · Python</sub>
-- [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - A summary on our attempts at using Deep Learning approaches for Emotional Text to Speech <sub>⭐ 456 · Jupyter Notebook</sub>
-- [Acmece/rl-collision-avoidance](https://github.com/Acmece/rl-collision-avoidance) - Implementation of the paper "Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning" <sub>⭐ 454 · Python</sub>
-- [RenzKa/simlingo](https://github.com/RenzKa/simlingo) - (CVPR 2025, Spotlight) SimLingo (CarLLava): Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment <sub>⭐ 454 · Python</sub>
-- [FlorianWilk/SpotMicroAI](https://github.com/FlorianWilk/SpotMicroAI) - SpotMicro AI - How to build a self-learning Robot <sub>⭐ 453</sub>
-- [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications… <sub>⭐ 452 · C++</sub>
-- [ezelikman/parsel](https://github.com/ezelikman/parsel) - Code for Parsel - generate complex programs with language models <sub>⭐ 450 · Python</sub>
-- [JsonChao/ML-Roadmap](https://github.com/JsonChao/ML-Roadmap) - Roadmap to becoming a Machine Learning developer in 2020 <sub>⭐ 450</sub>
-- [softmata/horus](https://github.com/softmata/horus) - Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS. <sub>⭐ 442 · Rust</sub>
-- [semitable/robotic-warehouse](https://github.com/semitable/robotic-warehouse) - Multi-Robot Warehouse (RWARE): A multi-agent reinforcement learning environment <sub>⭐ 439 · Python</sub>
-- [keon/awesome-physical-ai](https://github.com/keon/awesome-physical-ai) - A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models. <sub>⭐ 434</sub>
-- [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy <sub>⭐ 433 · Python</sub>
-- [microsoft/CogACT](https://github.com/microsoft/CogACT) - A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation <sub>⭐ 432 · Python</sub>
-- [MrinmoiHossain/Online-Courses-Learning](https://github.com/MrinmoiHossain/Online-Courses-Learning) - Contains the online course about Data Science, Machine Learning, Programming Language, Operating System, Mechanial Engineering, Mathematics and Robotics provided by Coursera, Udacity, Linkedin… <sub>⭐ 424 · JavaScript</sub>
-- [NVlabs/sage](https://github.com/NVlabs/sage) - Official Code Release of SAGE: Scalable Agentic 3D Scene Generation for Embodied AI <sub>⭐ 417 · Python</sub>
-- [MorvanZhou/train-robot-arm-from-scratch](https://github.com/MorvanZhou/train-robot-arm-from-scratch) - Build environment and train a robot arm from scratch (Reinforcement Learning) <sub>⭐ 408 · Python</sub>
-- [keivalya/mini-vla](https://github.com/keivalya/mini-vla) - a minimal, beginner-friendly VLA to show how robot policies can fuse images, text, and states to generate actions <sub>⭐ 400 · Python</sub>
-- [eddyhkchiu/mahalanobis_3d_multi_object_tracking](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) - (NeurIPS Workshop 2019) Official code of the paper "Probabilistic 3D Multi-Object Tracking for Autonomous Driving." First Place of the First NuScenes Tracking Challenge in the AI Driving Olympics… <sub>⭐ 399 · Python</sub>
-- [MilkClouds/awesome-vla-study](https://github.com/MilkClouds/awesome-vla-study) - A structured reading list on Vision-Language-Action (VLA) models — from diffusion/flow matching foundations through state-of-the-art robot foundation model architectures to data scaling, RL… <sub>⭐ 395</sub>
-- [phospho-app/phosphobot](https://github.com/phospho-app/phosphobot) - Control AI robots. Community-driven UI middleware for controlling robots, recording datasets, training action models. Compatible with SO-100 and SO-101 <sub>⭐ 394 · Python</sub>
-- [superxslam/SuperMap](https://github.com/superxslam/SuperMap) - SuperMap is a living spatial memory for embodied AI — it perceives the world, remembers its evolution, and supports reasoning and action. <sub>⭐ 392</sub>
-- [allenai/allenact](https://github.com/allenai/allenact) - An open source framework for research in Embodied-AI from AI2. <sub>⭐ 384 · Python</sub>
-- [lobehub/awesome-rsi](https://github.com/lobehub/awesome-rsi) - A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety. <sub>⭐ 383</sub>
-- [manumerous/wb_humanoid_mpc](https://github.com/manumerous/wb_humanoid_mpc) - Whole-Body Nonlinear MPC for Realtime Humanoid Loco-Manipulation Planning and Control <sub>⭐ 379 · C++</sub>
-- [Phylliade/awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - A curated list of resources about Machine Learning for Robotics <sub>⭐ 379</sub>
-- [reiniscimurs/DRL-robot-navigation-IR-SIM](https://github.com/reiniscimurs/DRL-robot-navigation-IR-SIM) - Deep Reinforcement Learning for mobile robot navigation in IR-SIM simulation. Using DRL (SAC, TD3, PPO, DDPG) neural networks, a robot learns to navigate to a random goal point in a simulated… <sub>⭐ 374 · Python</sub>
-- [avisingh599/reward-learning-rl](https://github.com/avisingh599/reward-learning-rl) - (RSS 2019) End-to-End Robotic Reinforcement Learning without Reward Engineering <sub>⭐ 373 · Python</sub>
-- [lupinjia/LeggedGym-Ex](https://github.com/lupinjia/LeggedGym-Ex) - legged robot environments for reinforcement learning in multiple simulators (IsaacGym, Genesis, IsaacSim) <sub>⭐ 373 · Python</sub>
-- [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale <sub>⭐ 373 · Python</sub>
-- [reductstore/reductstore](https://github.com/reductstore/reductstore) - High-performance, time-indexed object storage for robotics and industrial IoT <sub>⭐ 373 · Rust</sub>
-- [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - (NeurIPS 2025) DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge <sub>⭐ 373 · Python</sub>
-- [Albusgive/wheel_legged_genesis](https://github.com/Albusgive/wheel_legged_genesis) - Reinforcement learning of wheel-legged robots based on Genesis <sub>⭐ 372 · Python</sub>
-- [botbotrobotics/BotBrain](https://github.com/botbotrobotics/BotBrain) - Modular open-source brain for legged robots. Web UI for teleops, autonomous navigation, mapping & monitoring. 3D-printable hardware that runs on ROS2. <sub>⭐ 369 · TypeScript</sub>
-- [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) - Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any… <sub>⭐ 368 · Python</sub>
-- [MINT-SJTU/Evo-1](https://github.com/MINT-SJTU/Evo-1) - Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment <sub>⭐ 366 · Python</sub>
-- [NVlabs/physical_ai_av](https://github.com/NVlabs/physical_ai_av) - Devkit and documentation for the NVIDIA Physical AI Autonomous Vehicles Dataset <sub>⭐ 366 · Python</sub>
-- [Li-Zn-H/AwesomeWorldModels](https://github.com/Li-Zn-H/AwesomeWorldModels) - A Comprehensive Survey on World Models for Embodied AI <sub>⭐ 365</sub>
-- [dvalenciar/robotic_arm_environment](https://github.com/dvalenciar/robotic_arm_environment) - Doosan robotic arm, simulation, control, visualization in Gazebo and ROS2 for Reinforcement Learning. <sub>⭐ 359 · Python</sub>
-- [showlab/Awesome-Robotics-Diffusion](https://github.com/showlab/Awesome-Robotics-Diffusion) - A curated list of recent robot learning papers incorporating diffusion models for robotics tasks. <sub>⭐ 358</sub>
-- [PKU-HMI-Lab/Hybrid-VLA](https://github.com/PKU-HMI-Lab/Hybrid-VLA) - HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model <sub>⭐ 356 · Python</sub>
-- [jzhzhang/Uni-NaVid](https://github.com/jzhzhang/Uni-NaVid) - (RSS 2025) Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks. <sub>⭐ 354 · Python</sub>
-- [UniFlowMatch/UFM](https://github.com/UniFlowMatch/UFM) - UFM: A Unified Dense Image Correspondence Estimator for both Optical Flow & Wide Baseline Matching Tasks. Matches any pair of images. (NeurIPS 2025) <sub>⭐ 353 · Python</sub>
-- [jaykorea/Isaac-RL-Two-wheel-Legged-Bot](https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot) - two wheel legged robot for IsaacLab - reinforcement learning <sub>⭐ 352 · Python</sub>
-- [shihao1895/MemoryVLA](https://github.com/shihao1895/MemoryVLA) - (ICLR 2026) Code of "MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation" <sub>⭐ 350 · Python</sub>
-- [hzxie/DynamicVLA](https://github.com/hzxie/DynamicVLA) - The official implementation of "DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation". (NeurIPS 2026) <sub>⭐ 344 · Python</sub>
-- [OpenBMB/MiniCPM-Robot](https://github.com/OpenBMB/MiniCPM-Robot) - A Smarter and Faster On-Device AI Brain for Robots <sub>⭐ 341 · Python</sub>
-- [wenbowen123/catgrasp](https://github.com/wenbowen123/catgrasp) - (ICRA 2022) CaTGrasp: Learning Category-Level Task-Relevant Grasping in Clutter from Simulation <sub>⭐ 341 · Python</sub>
-- [loongOpen/Unity-RL-Playground](https://github.com/loongOpen/Unity-RL-Playground) - Reinforcement Learning & Robot Simulation & Embodied Intelligence <sub>⭐ 337 · C#</sub>
-- [IliaLarchenko/behavior-1k-solution](https://github.com/IliaLarchenko/behavior-1k-solution) - 1st place solution of 2025 BEHAVIOR Challenge <sub>⭐ 336 · Python</sub>
-- [Open-X-Humanoid/HEX](https://github.com/Open-X-Humanoid/HEX) - HEX is a whole-body vision-language-action framework for full-sized humanoid robots. <sub>⭐ 336 · Jupyter Notebook</sub>
-- [fujitatomoya/ros2ai](https://github.com/fujitatomoya/ros2ai) - ros2ai is a next-generation ROS 2 command line interface extension with LLMs <sub>⭐ 332 · Python</sub>
-- [InternRobotics/VLAC](https://github.com/InternRobotics/VLAC) - (ICML2026) VLAC: A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning <sub>⭐ 332 · Python</sub>
-- [open-airlab/UNav-Sim](https://github.com/open-airlab/UNav-Sim) - Visually Realistic Underwater Robotics Simulator UNav-Sim <sub>⭐ 331 · C++</sub>
-- [andyzeng/arc-robot-vision](https://github.com/andyzeng/arc-robot-vision) - MIT-Princeton Vision Toolbox for Robotic Pick-and-Place at the Amazon Robotics Challenge 2017 - Robotic Grasping and One-shot Recognition of Novel Objects with Deep Learning. <sub>⭐ 325 · Lua</sub>
-- [baaivision/UniVLA](https://github.com/baaivision/UniVLA) - (ICLR 2026) Unified Vision-Language-Action Model <sub>⭐ 322 · Python</sub>
-- [foxglove/foxglove-sdk](https://github.com/foxglove/foxglove-sdk) - Log and visualize multimodal data for robotics and physical AI <sub>⭐ 311 · Rust</sub>
-- [sopaco/cortex-mem](https://github.com/sopaco/cortex-mem) - The production-ready cognitive foundation for autonomous systems such as Embodied-AI and OpenClaw. For memory management, from extraction and search to automated optimization, with SKILL, CLI, API… <sub>⭐ 311 · Rust</sub>
-- [NoneJou072/robopal](https://github.com/NoneJou072/robopal) - robopal: a multi-platform, modular robot simulation framework based on MuJoCo, mainly used for reinforcement learning and control algorithm implementation of robotic arms. <sub>⭐ 307 · Python</sub>
-- [BoosterRobotics/booster_gym](https://github.com/BoosterRobotics/booster_gym) - Booster Gym is a reinforcement learning (RL) framework designed for humanoid robot locomotion developed by Booster Robotics. <sub>⭐ 305 · Python</sub>
-- [Tencent-Hunyuan/Hy-Embodied-0.5-VLA](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) - From Vision-Language-Action Models to a Real-World Robot Learning Stack <sub>⭐ 304 · Python</sub>
-- [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) - TNY - 360 Robot source code and 3d models <sub>⭐ 304 · C++</sub>
-- [Argo-Robot/quadrupeds_locomotion](https://github.com/Argo-Robot/quadrupeds_locomotion) - Learn how to train a quadruped robot to walk using reinforcement learning, from defining actions and observations to designing rewards and transitioning from simulation to reality. <sub>⭐ 301 · Python</sub>
-- [duburcqa/jiminy](https://github.com/duburcqa/jiminy) - Jiminy: a fast and portable Python/C++ simulator of poly-articulated robots with OpenAI Gym interface for reinforcement learning <sub>⭐ 300 · Jupyter Notebook</sub>
-- [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) - Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, forgets the irrelevant, and strengthens what matters. No cloud, no API keys. <sub>⭐ 299 · Rust</sub>
-- [montrealrobotics/DeepRLInTheWorld](https://github.com/montrealrobotics/DeepRLInTheWorld) - From search engines, to science, to robotics, this reposity is meant to showcase the use of reinforcement learning in the world.. <sub>⭐ 296</sub>
-- [sachink2010/AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Every day, millions of traders around the world are trying to make money by trading stocks. These days, physical traders are also being replaced by automated trading robots. Algorithmic trading… <sub>⭐ 296 · Jupyter Notebook</sub>
-- [Phyzicalorg/Phyzical_org](https://github.com/Phyzicalorg/Phyzical_org) - Browser teleoperation data for embodied AI — elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks. <sub>⭐ 293 · Python</sub>
-- [behnamasadi/robotic_notes](https://github.com/behnamasadi/robotic_notes) - This repo contains my snippet and tutorials for Lie Group and Lie Algebra, Topology and Configuration of Robot and Space ,IMU, ROS2 Gazebo Integration, State Estimation, VIO, LIO, and Deep Learning… <sub>⭐ 292 · C++</sub>
-- [cheng-haha/GPT-Policy](https://github.com/cheng-haha/GPT-Policy) - In-Context Robot Learning with VLM Agents <sub>⭐ 292 · Python</sub>
-- [LeapLabTHU/UltraBot](https://github.com/LeapLabTHU/UltraBot) - (Nature Communications 2025) Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System <sub>⭐ 292 · Python</sub>
-- [IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform](https://github.com/IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform) - FinsROV is a low-cost, open-source Underwater robot platform designed for underwater task and research in robotics and AI. <sub>⭐ 290 · C</sub>
-- [OpenHelix-Team/Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) - Official implementation of Spatial-Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model (ICLR2026) <sub>⭐ 290 · Python</sub>
-- [TUM-AAS/neural-mpc](https://github.com/TUM-AAS/neural-mpc) - Real-time Neural MPC: Deep Learning Model Predictive Control for Quadrotors and Agile Robotic Platforms <sub>⭐ 286 · Python</sub>
-- [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) - SDK for robotics teams to verify the quality of their data used for AI model training. <sub>⭐ 283 · Python</sub>
-- [rai-opensource/theia](https://github.com/rai-opensource/theia) - Theia: Distilling Diverse Vision Foundation Models for Robot Learning <sub>⭐ 283 · Python</sub>
-- [OpenHelix-Team/ReconVLA](https://github.com/OpenHelix-Team/ReconVLA) - Official implementation of ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver. <sub>⭐ 279 · Python</sub>
-- [UMass-Embodied-AGI/3D-Mem](https://github.com/UMass-Embodied-AGI/3D-Mem) - (CVPR 2025) Source codes for the paper "3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning" <sub>⭐ 279 · Python</sub>
-- [zengweishuai/ScaleBFM](https://github.com/zengweishuai/ScaleBFM) - The official implementation of the paper "Scaling Behavior Foundation Model for Humanoid Robots" <sub>⭐ 278 · Python</sub>
-- [BarisYazici/deep-rl-grasping](https://github.com/BarisYazici/deep-rl-grasping) - Train deep reinforcement learning model for robotics grasping. Choose from different perception layers raw Depth, RGBD and autoencoder. Test the learned models in different scenes and object datasets <sub>⭐ 276 · Python</sub>
-- [xiaomi-mlab/MindDrive](https://github.com/xiaomi-mlab/MindDrive) - (ECCV 2026) Official code of “MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning” <sub>⭐ 275 · Python</sub>
-- [zuoym15/craves.ai](https://github.com/zuoym15/craves.ai) - CRAVES: Controlling Robotic Arm with a Vision-based, Economic System <sub>⭐ 275 · Python</sub>
-- [med-air/SurRoL](https://github.com/med-air/SurRoL) - (IROS'21) SurRoL: An Open-source Reinforcement Learning Centered and dVRK Compatible Platform for Surgical Robot Learning <sub>⭐ 274 · Jupyter Notebook</sub>
-- [aidudezzz/deepbots](https://github.com/aidudezzz/deepbots) - A wrapper framework for Reinforcement Learning in the Webots robot simulator using Python 3. <sub>⭐ 273 · Python</sub>
-- [danukim/Miko](https://github.com/danukim/Miko) - Embodied 3D AI desktop companion powered by Ollama, dual voice synthesis (Fish Audio S2.1 & local GPT-SoVITS), real-time lip-sync, and custom VRM avatar support. <sub>⭐ 273 · C#</sub>
-- [CoderWangcai/DRL_Path_Planning](https://github.com/CoderWangcai/DRL_Path_Planning) - This is a DRL(Deep Reinforcement Learning) platform built with Gazebo for the purpose of robot's adaptive path planning. <sub>⭐ 272 · Python</sub>
-- [retinify/retinify](https://github.com/retinify/retinify) - Real-Time AI Stereo Vision Library <sub>⭐ 270 · C++</sub>
-- [mgonzs13/llama_ros](https://github.com/mgonzs13/llama_ros) - llama.cpp (GGUF LLMs) and llava.cpp (GGUF VLMs) for ROS 2 <sub>⭐ 264 · C++</sub>
-- [Little-Podi/AdaWorld](https://github.com/Little-Podi/AdaWorld) - (ICML'25) The PyTorch implementation of paper: "AdaWorld: Learning Adaptable World Models with Latent Actions". <sub>⭐ 261 · Python</sub>
-- [robertorobotics/Nextis-AIRA-3D](https://github.com/robertorobotics/Nextis-AIRA-3D) - Open-source 7DoF 3D-printable robotic arm with LeRobot integration. <sub>⭐ 261 · Python</sub>
-- [ritzz-ai/GUI-R1](https://github.com/ritzz-ai/GUI-R1) - Official implementation of GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents <sub>⭐ 260 · Python</sub>
-- [AgibotTech/ACoT-VLA](https://github.com/AgibotTech/ACoT-VLA) - (CVPR 2026) Official implementation of "ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models" <sub>⭐ 258 · Python</sub>
-- [RayYoh/OCRM_survey](https://github.com/RayYoh/OCRM_survey) - A Survey of Embodied Learning for Object-Centric Robotic Manipulation <sub>⭐ 258</sub>
-- [harvard-edge/AirLearning](https://github.com/harvard-edge/AirLearning) - Public repository for Air Learning project <sub>⭐ 257</sub>
-- [metadriverse/metaurban](https://github.com/metadriverse/metaurban) - (ICLR 2025 Spotlight) MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility <sub>⭐ 257 · Python</sub>
-- [AlphaBrainGroup/AlphaBrain](https://github.com/AlphaBrainGroup/AlphaBrain) - The Comprehensive Toolkit for Embodied AI Models <sub>⭐ 253 · Python</sub>
-- [britcruise9/GrowBot](https://github.com/britcruise9/GrowBot) - What's the simplest possible AI robot that learns everything from scratch? <sub>⭐ 253 · Python</sub>
-- [AoqunJin/Awesome-VLA-Post-Training](https://github.com/AoqunJin/Awesome-VLA-Post-Training) - A collection of vision-language-action model post-training methods. <sub>⭐ 250</sub>
-- [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) - Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources. <sub>⭐ 250 · Python</sub>
-- [maximilienroberti/lerobotdepot](https://github.com/maximilienroberti/lerobotdepot) - LeRobotDepot is a community-driven repository listing open-source hardware, components, and 3D-printable projects compatible with the LeRobot library. It helps users easily discover, build, and… <sub>⭐ 249</sub>
-- [mjl/particle_filter_demo](https://github.com/mjl/particle_filter_demo) - Example of a simple particle filter for robot location, Stanford's Intro to AI <sub>⭐ 249 · Python</sub>
-- [reiniscimurs/DRL-Robot-Navigation-ROS2](https://github.com/reiniscimurs/DRL-Robot-Navigation-ROS2) - Deep Reinforcement Learning for mobile robot navigation in ROS2 Gazebo simulator. Using DRL (SAC, TD3) neural networks, a robot learns to navigate to a random goal point in a simulated environment… <sub>⭐ 249 · Python</sub>
-- [rr-learning/CausalWorld](https://github.com/rr-learning/CausalWorld) - CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning <sub>⭐ 248 · Python</sub>
-- [NVlabs/ENPIRE](https://github.com/NVlabs/ENPIRE) - ENPIRE is an agentic framework that allows AI coding agents to autonomously self-improve real-world robot policies through closed-loop physical trial, error, and evolution <sub>⭐ 247 · Python</sub>
-- [kyegomez/RT-X](https://github.com/kyegomez/RT-X) - Pytorch implementation of the models RT-1-X and RT-2-X from the paper: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models" <sub>⭐ 246 · Python</sub>
-- [rokbenko/quackd](https://github.com/rokbenko/quackd) - One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and… <sub>⭐ 246 · Python</sub>
-- [jherrodthomas/robotics-skills-suite](https://github.com/jherrodthomas/robotics-skills-suite) - 76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283… <sub>⭐ 245 · Python</sub>
-- [OpenDriveLab/EgoHumanoid](https://github.com/OpenDriveLab/EgoHumanoid) - (RSS 2026) The first framework enabling humanoid robots to learn whole-body loco-manipulation from egocentric human demos <sub>⭐ 244 · Python</sub>
-- [amathislab/musclemimic](https://github.com/amathislab/musclemimic) - Official repo of Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale <sub>⭐ 243 · Python</sub>
-- [Tencent-RoboticsX/lifelike-agility-and-play](https://github.com/Tencent-RoboticsX/lifelike-agility-and-play) - Project Page for Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models <sub>⭐ 243 · Python</sub>
-- [WM-PO/WMPO](https://github.com/WM-PO/WMPO) - Official Implementation of Paper: WMPO: World Model-based Policy Optimization for Vision-Language-Action Models <sub>⭐ 241 · Python</sub>
-- [Fanqi-Lin/OneTwoVLA](https://github.com/Fanqi-Lin/OneTwoVLA) - Official implementation of "OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning" <sub>⭐ 239 · Python</sub>
-- [OriNachum/autonomous-intelligence](https://github.com/OriNachum/autonomous-intelligence) - Embodied AI system combining real-time multimodal perception, speech-to-speech interaction, and autonomous awareness on NVIDIA Jetson hardware. <sub>⭐ 237 · Python</sub>
-- [PRBonn/bonnetal](https://github.com/PRBonn/bonnetal) - Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks. Photogrammetry and Robotics Lab, University of Bonn <sub>⭐ 236 · Python</sub>
-- [personalrobotics/aikido](https://github.com/personalrobotics/aikido) - Artificial Intelligence for Kinematics, Dynamics, and Optimization <sub>⭐ 235 · C++</sub>
-- [taco-group/GenAI4AD](https://github.com/taco-group/GenAI4AD) - a comprehensive and critical synthesis of the emerging role of GenAI across the full autonomous driving stack <sub>⭐ 233</sub>
-- [AIR-DISCOVER/FreeAskWorld](https://github.com/AIR-DISCOVER/FreeAskWorld) - (AAAI 2026 Oral) FreeAskWorld is an interactive simulation framework that integrates large language models (LLMs) for high-level planning and socially grounded interaction in embodied AI. <sub>⭐ 232 · Python</sub>
-- [rllab-snu/Stage-Wise-CMORL](https://github.com/rllab-snu/Stage-Wise-CMORL) - This is an official GitHub Repository for paper "Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach". <sub>⭐ 229 · Python</sub>
-- [hku-sail/StreamPI](https://github.com/hku-sail/StreamPI) - (NeurIPS 2026) Official code of "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models" <sub>⭐ 227 · Python</sub>
-- [declare-lab/nora](https://github.com/declare-lab/nora) - NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks <sub>⭐ 224 · Python</sub>
-- [kindredresearch/SenseAct](https://github.com/kindredresearch/SenseAct) - SenseAct: A computational framework for developing real-world robot learning tasks <sub>⭐ 222 · Python</sub>
-- [uw-biorobotics/IKBT](https://github.com/uw-biorobotics/IKBT) - A python package to solve robot arm inverse kinematics in symbolic form <sub>⭐ 221 · Python</sub>
-- [noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV) - ROS2 Self Driving Car using Deeplearning and Object Tracking through openCV <sub>⭐ 217 · Python</sub>
-- [Marine-RL/MarineGym](https://github.com/Marine-RL/MarineGym) - (IROS 2025) MarineGym: A High-Performance Reinforcement Learning Platform for Underwater Robotics; Contact Email: zjuoyh@163.com <sub>⭐ 216 · Python</sub>
-- [PKU-Alignment/VLA-Arena](https://github.com/PKU-Alignment/VLA-Arena) - VLA-Arena is an open-source benchmark for systematic evaluation of Vision-Language-Action (VLA) models. <sub>⭐ 216 · Python</sub>
-- [apexrl/awesome-rl-for-legged-locomotion](https://github.com/apexrl/awesome-rl-for-legged-locomotion) - A curated list of awesome material on legged robot locomotion using reinforcement learning (RL) and sim-to-real techniques. <sub>⭐ 215</sub>
-- [PhyScene/PhyScene](https://github.com/PhyScene/PhyScene) - Code implementation of CVPR 2024 highlight paper "PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI" <sub>⭐ 215 · Python</sub>
-- [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) - Physical AI runtime for embodied agents — governed action, verified experience, physical memory, and skill evolution. <sub>⭐ 214 · Python</sub>
-- [AlexKaravaev/world-creator](https://github.com/AlexKaravaev/world-creator) - LLM-based CLI utility for simulation worlds creation. <sub>⭐ 213 · Python</sub>
-- [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - A deployment framework for reinforcement learning-based motion control of legged robots, covering bipedal, quadrupedal, wheeled-bipedal, and wheeled-quadrupedal robots. <sub>⭐ 213 · Python</sub>
-- [OpenHelix-Team/LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) - LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model (ICRA 2026) <sub>⭐ 213 · Python</sub>
-- [YINGLINGH/limioryn](https://github.com/YINGLINGH/limioryn) - Edge-cloud Multi-Agent execution framework for embodied intelligence, connecting AI agents to real devices with verifiable actuation and entropy-bounded recovery. <sub>⭐ 213 · Python</sub>
-- [xjtuiair-cag/XJTU-Tripler](https://github.com/xjtuiair-cag/XJTU-Tripler) - XJTU-Tripler is based on HiPU100, an FPGA-friendly DNN accelerator, developed by CAG, Institute of AI & Robotics, XJTU. <sub>⭐ 212 · VHDL</sub>
-- [RayYoh/Awesome-Robot-Learning](https://github.com/RayYoh/Awesome-Robot-Learning) - This repo contains a curative list of robot learning (mainly for manipulation) resources. <sub>⭐ 209</sub>
-- [TianxingChen/RoboScholar](https://github.com/TianxingChen/RoboScholar) - RoboScholar: A Comprehensive Paper List of Embodied AI and Robotics Research <sub>⭐ 206</sub>
-- [gbionics/jaxsim](https://github.com/gbionics/jaxsim) - A differentiable physics engine and multibody dynamics library for control and robot learning. <sub>⭐ 204 · Python</sub>
-- [carlosferrazza/BodyTransformer](https://github.com/carlosferrazza/BodyTransformer) - Body Transformer: Leveraging Robot Embodiment for Policy Learning <sub>⭐ 202 · Jupyter Notebook</sub>
-- [hsp-iit/pybullet-robot-envs](https://github.com/hsp-iit/pybullet-robot-envs) - A Python package that collects robotic environments based on the PyBullet simulator, suitable to develop and test Reinforcement Learning algorithms on simulated grasping and manipulation applications. <sub>⭐ 201 · Python</sub>
-- [LightwheelAI/LW-BenchHub](https://github.com/LightwheelAI/LW-BenchHub) - LW-BenchHub is a unified benchmark hub built on Isaac Lab–Arena for embodied AI, providing consistent interfaces, realistic environments, multi-robot support, and large-scale evaluation. It includes… <sub>⭐ 201 · Python</sub>
-- [zhihengli-casia/AI-Paper-Trends](https://github.com/zhihengli-casia/AI-Paper-Trends) - Open-source AI paper index and fine-grained topic atlas across major conferences and journals. <sub>⭐ 201 · Python</sub>
-- [cvlab-kaist/Geometric-Action-Model](https://github.com/cvlab-kaist/Geometric-Action-Model) - Official implementation of "Geometric Action Model for Robot Policy Learning" <sub>⭐ 200 · Python</sub>
-- [InternRobotics/F1-VLA](https://github.com/InternRobotics/F1-VLA) - F1: A Vision Language Action Model Bridging Understanding and Generation to Actions <sub>⭐ 199 · Python</sub>
-- [JuliaRobotics/Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) - Robust robotic localization and mapping, together with NavAbility(TM). Reach out to info@wherewhen.ai for help. <sub>⭐ 199 · Julia</sub>
-- [reiniscimurs/GDAE](https://github.com/reiniscimurs/GDAE) - A goal-driven autonomous exploration through deep reinforcement learning (ICRA 2022) system that combines reactive and planned robot navigation in unknown environments <sub>⭐ 199 · Python</sub>
-- [babycommando/machinascript-for-robots](https://github.com/babycommando/machinascript-for-robots) - Build LLM-powered robots in your garage with MachinaScript For Robots! <sub>⭐ 198 · Python</sub>
-- [WhatIThinkAbout/BabyRobot](https://github.com/WhatIThinkAbout/BabyRobot) - A Baby Robot's Guide to Reinforcement Learning <sub>⭐ 198 · Jupyter Notebook</sub>
-- [NVIDIA-AI-IOT/ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - ROS2 nodes for LLM, VLM, VLA <sub>⭐ 197 · Python</sub>
-- [OpenMOSS/FRoM-W1](https://github.com/OpenMOSS/FRoM-W1) - (arXiv 26) Language-guided whole-body control for general humanoid robots <sub>⭐ 195 · Python</sub>
-- [YuZhaoshu/Efficient-VLAs-Survey](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) - (TPAMI 2026) This is a curated list of "A survey on Efficient Vision-Language Action Models" research. We will continue to maintain and update the repository, so follow us to keep up with the latest… <sub>⭐ 193</sub>
-- [iLearn-Lab/NeurIPS25-CogVLA](https://github.com/iLearn-Lab/NeurIPS25-CogVLA) - (NeurIPS 2025) CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification <sub>⭐ 192 · Python</sub>
-- [reality-opened/openreality](https://github.com/reality-opened/openreality) - Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause. <sub>⭐ 192 · Python</sub>
-- [neoteai/N0-VTLA](https://github.com/neoteai/N0-VTLA) - N0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens <sub>⭐ 190 · Python</sub>
-- [v-modal/physical_ai_stack](https://github.com/v-modal/physical_ai_stack) - SDK and stack for physical AI layer <sub>⭐ 190</sub>
-- [intel/ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - This repository provides a set of tools and libraries to integrate Intel® OpenVINO™ Toolkit with ROS 2 (Robot Operating System), enabling efficient deployment of deep learning models for computer… <sub>⭐ 187 · C++</sub>
-- [Argo-Robot/foundation_models](https://github.com/Argo-Robot/foundation_models) - Overview about state-of-art imitation learning techniques for robotic manipulation, enabling generalization across diverse tasks and environments. <sub>⭐ 186</sub>
-- [RoblabWh/RobLearn](https://github.com/RoblabWh/RobLearn) - ROS Robotic Deep Learning <sub>⭐ 183 · Python</sub>
-- [Seeed-Projects/reComputer-Jetson-for-Beginners](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) - Beginner's Guide to reComputer Jetson <sub>⭐ 180 · Python</sub>
-- [learn-to-race/l2r](https://github.com/learn-to-race/l2r) - Open-source reinforcement learning environment for autonomous racing — featured as a conference paper at ICCV 2021 and as the official challenge tracks at both SL4AD@ICML2022 and AI4AD@IJCAI2022.… <sub>⭐ 177 · Python</sub>
-- [InternRobotics/InternManip](https://github.com/InternRobotics/InternManip) - An All-in-one robot manipulation learning suite for policy models training and evaluation on various datasets and benchmarks. <sub>⭐ 175 · Python</sub>
-- [openags/Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - A collection of resources and papers on AI Scientist / Robot Scientist <sub>⭐ 175</sub>
-- [Ariostgx/ript-vla](https://github.com/Ariostgx/ript-vla) - Interactive Post-Training for Vision-Language-Action Models <sub>⭐ 172 · Python</sub>
-- [Open-X-Humanoid/XR-1](https://github.com/Open-X-Humanoid/XR-1) - Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations <sub>⭐ 172 · Python</sub>
-- [Kin-Zhang/simple_ndt_slam](https://github.com/Kin-Zhang/simple_ndt_slam) - simple ndt slam, quick deploy on mobile robot, support mapping and localization (origin from autoware.ai); 简易slam包 快速部署使用 <sub>⭐ 171 · C++</sub>
-- [XuPeng23/AeroVLA](https://github.com/XuPeng23/AeroVLA) - (Accepted to ECCV 2026) Official repository for AeroVLA (formerly known as AerialVLA): A Vision-Language-Action Model for UAV Navigation via Minimalist End-to-End Control <sub>⭐ 169 · Python</sub>
-- [zhiyiYo/Alpha-Gobang-Zero](https://github.com/zhiyiYo/Alpha-Gobang-Zero) - A gobang robot based on reinforcement learning. <sub>⭐ 169 · Python</sub>
-- [ustcwhy/BitVLA](https://github.com/ustcwhy/BitVLA) - Official implementation for BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation <sub>⭐ 167 · Python</sub>
-- [akdeb/OpenToys](https://github.com/akdeb/OpenToys) - Make Local AI Toys, Robots, Devices that work with a MacBook and an Arduino ESP32 <sub>⭐ 164 · TypeScript</sub>
-- [daniel-s-ingram/ai_for_robotics](https://github.com/daniel-s-ingram/ai_for_robotics) - Visualizations of algorithms covered in Sebastian Thrun's excellent Artificial Intelligence for Robotics course on Udacity. <sub>⭐ 163 · Python</sub>
-- [RobotControlStack/robot-control-stack](https://github.com/RobotControlStack/robot-control-stack) - A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e… <sub>⭐ 163 · Python</sub>
-- [yanming03/awesome-humanoid-manipulation](https://github.com/yanming03/awesome-humanoid-manipulation) - A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation. <sub>⭐ 163</sub>
-- [Geonhee-LEE/ur-reaching-reinforcement-learning](https://github.com/Geonhee-LEE/ur-reaching-reinforcement-learning) - Reinforcement learning using rlkit, UR5, Robotiq gripper on ROS(Robot Operating System) <sub>⭐ 162 · Python</sub>
-- [LyapunovJingci/Warehouse_Robot_Path_Planning](https://github.com/LyapunovJingci/Warehouse_Robot_Path_Planning) - A multi agent path planning solution under a warehouse scenario using Q learning and transfer learning. <sub>⭐ 162 · Python</sub>
-- [agenticros/agenticros](https://github.com/agenticros/agenticros) - ROS plugin for OpenClaw, Claude (Code,Desktop,Dispatch), Codex, Google Gemini, Hermes, MCP, etc. <sub>⭐ 161 · C</sub>
-- [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) - VLA-RFT: Vision-Language-Action Models with Reinforcement Fine-Tuning <sub>⭐ 161 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [PKU-Alignment/SafeVLA](https://github.com/PKU-Alignment/SafeVLA) - (NeurIPS 2025 Spotlight) Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning. <sub>⭐ 156 · Python</sub>
-- [natnew/awesome-physical-ai](https://github.com/natnew/awesome-physical-ai) - A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. Star if you like it! <sub>⭐ 155 · MDX</sub>
-- [Motphys/MotrixLab](https://github.com/Motphys/MotrixLab) - A general-purpose machine learning architecture designed for robot training <sub>⭐ 152 · Python</sub>
+- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - 汎用ロボットとエンボディされたAI学習のためのシミュレーションプラットフォーム。 <sub>⭐ 30.0k · Python</sub>
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - 機械学習システム:基礎、スケーリング、人工知能、物理AI(I-IV)•ハーバードCS249r / https://mlsysbook.ai <sub>⭐ 28.8k · Python</sub>
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - LeRobot: エンドツーエンドの学習でロボットがよりアクセスできるAIを作る <sub>⭐ 27.9k · Python</sub>
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - 弾丸物理SDK:VR、ゲーム、視覚効果、ロボティクス、機械学習などのためのリアルタイム衝突検出とマルチフィジックスシミュレーション <sub>⭐ 14.8k · C++</sub>
+- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmosは、開発者がロボットや自動運転車、スマートインフラなどの物理AIを構築できる世界モデル、データセット、ツールのオープンプラットフォームです。 <sub>⭐ 12.0k · Jupyter Notebook</sub>
+- [kornia/kornia](https://github.com/kornia/kornia) - 地理的コンピュータービジョンライブラリ(空間AI) <sub>⭐ 11.4k · Python</sub>
+- [mozilla/TTS](https://github.com/mozilla/TTS) - テキストからスピーチへの深い学習(ディスカッションフォーラム //discourse.mozilla.org/c/tts) <sub>⭐ 10.2k · Jupyter Notebook</sub>
+- [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World は、TensorRT と NVIDIA Jetson でディープラーニングのインフェレンスネットワークや深いビジョンプリミティブをデプロイするためのガイドです。 <sub>⭐ 9.0k · C++</sub>
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - GPU加速シミュレーション、ロボティクス、機械学習のためのPythonフレームワーク。 <sub>⭐ 7.2k · Python</sub>
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - モバイル、ウェアラブル、スマートホーム、ロボット向けの定量化、カーネル、ランタイムおよびインフェレンスエンジン。 <sub>⭐ 6.1k · C++</sub>
+- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - AI会議の期限カウントダウン <sub>⭐ 6.0k · JavaScript</sub>
+- [RLinf/RLinf](https://github.com/RLinf/RLinf) - RLinf:エンボディドおよびアジスティックAIのための補強の学習インフラ <sub>⭐ 5.4k · Python</sub>
+- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - STEM、コーディング&ロボティクス教育、IoTロボットアプリケーション、AI強化に最適なボストン・ダイナミクススタイルの4脚のロボットを開発するためのオープンソース型のロボットペットフレームワークです。 <sub>⭐ 5.4k · C++</sub>
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM は、オープンソースのテキスト・ツー・CAD Web アプリケーションです。 <sub>⭐ 5.2k · TypeScript</sub>
+- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webotsロボットシミュレータ <sub>⭐ 4.7k · C++</sub>
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - C++のビーキャビアーツリーライブラリ。 電池が含まれています。 <sub>⭐ 4.2k · C++</sub>
+- [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac SimTM は、NVIDIA Omniverse のオープンソースアプリケーションで、AI 主導型のロボットを現実的な仮想環境に開発・シミュレーションし、テストします。 <sub>⭐ 4.2k · Python</sub>
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - AIエージェントとロボットのブロックリスト <sub>⭐ 4.2k · Python</sub>
+- [dora-rs/dora](https://github.com/dora-rs/dora) - DORA(Dataflow-Oriented Robotic Architecture)は、AIベースのロボットアプリケーションの作成を合理化し簡素化するミドルウェアです。 低レイテンシ、互換性があり、分散機能を備えています。 <sub>⭐ 4.0k · Rust</sub>
+- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - エンボディドAIの研究のための柔軟で高性能な3Dシミュレータ。 <sub>⭐ 3.8k · C++</sub>
+- [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AIアシスタント <sub>⭐ 3.8k · TypeScript</sub>
+- [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: ユニバーサルフィードフォワードメトリック3D再構築 <sub>⭐ 3.8k · Python</sub>
+- [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: Vision-Language-Actionモデル開発のためのLego のようなコードベース <sub>⭐ 3.8k · Python</sub>
+- [pytorch/rl](https://github.com/pytorch/rl) - モジュラー、プリミティブファースト、python-first PyTorch ライブラリで補強学習ができます。 <sub>⭐ 3.6k · Python</sub>
+- [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) - 視覚言語行動(VLA)モデル、ビジョン・ランゲージ・ナビゲーション(VLN)、および関連するマルチモーダル学習アプローチに焦点を当てたエンボディAIにおける最先端の研究のキュレーションリスト。 <sub>⭐ 3.6k</sub>
+- [enactic/openarm](https://github.com/enactic/openarm) - 物理的なAIの研究と接触が豊富な環境での展開のための完全オープンソースのヒューマノイドアーム。 <sub>⭐ 3.6k · MDX</sub>
+- [NVIDIA/skills](https://github.com/NVIDIA/skills) - NVIDIA製品向けのエージェントスキル — Claude Code、Codexなどのコーディングエージェントにインストールして、物理AI、ロボティクス、シミュレーション、CUDA、RAGワークフローを終わらせます。 <sub>⭐ 3.5k · Python</sub>
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - MCP 統合、マルチモーダルワークフロー、IoT サポートおよびクロスプラットフォームの音声インタラクションによるオープンソース AI アシスタントエコシステム。 <sub>⭐ 3.5k · Python</sub>
+- [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) - NVIDIA Jetson Nano に基づく教育AIロボット <sub>⭐ 3.3k · Jupyter Notebook</sub>
+- [Source-Robotics/PAROL6-Desktop-robot-arm](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) - BOM、STLファイルとPAROL6 3Dプリントロボットアームの指示 <sub>⭐ 3.3k · HTML</sub>
+- [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - さまざまなタスクや環境でエンボディされたAIエージェントを訓練するためのモジュラーハイレベルライブラリ。 <sub>⭐ 3.1k · Python</sub>
+- [automagica/automagica](https://github.com/automagica/automagica) - AI搭載スマートロボットプロセス自動化 <sub>⭐ 3.1k · Python</sub>
+- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - 人生を生きた猫の少女は、初めて出会ってメディアを共有し、実際に物事を成し遂げました。エンボディ感情的なエンジンによって動力を与えられたのです。一月会主 化AI猫娘です。 <sub>⭐ 3.0k · Python</sub>
+- [OpenMind/OM1](https://github.com/OpenMind/OM1) - ロボット用モジュラーAI HAL(ハードウェア抽象化レイヤー) <sub>⭐ 2.9k · Go</sub>
+- [open-gigaai/giga-brain-0](https://github.com/open-gigaai/giga-brain-0) - GigaBrain-0:世界モデル主導のビジョン言語アクションモデル <sub>⭐ 2.7k · Python</sub>
+- [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: ロボット学習のためのモジュラーシミュレーションフレームワークとベンチマーク <sub>⭐ 2.6k · Python</sub>
+- [NVlabs/ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotionsは、物理シミュレーションされたデジタル人間とヒューマノイドロボットのトレーニングのためのGPU認定シミュレーションおよび学習フレームワークです。 <sub>⭐ 2.4k · Python</sub>
+- [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) - VLA-Adapter: 小さなスケールのビジョン言語アクションモデルのための効果的なパラダイム <sub>⭐ 2.3k · Python</sub>
+- [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - このMATLABとSimulinkチャレンジプロジェクトハブは、研究および設計プロジェクトのアイデアのリストが含まれています。 これらのプロジェクトでは、技術動向や技術のトレンドに関する実践的な経験と洞察を得ることができます... <sub>⭐ 2.2k · HTML</sub>
+- [HCPLab-SYSU/Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) - (エンボダイドAI-Survey-2025) 紙リストとエンボディッドAIのためのリソースリポジトリ <sub>⭐ 2.2k</sub>
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: ゼロショットSim2Real Transferでヒューマノイドロボットの補強学習 https://arxiv.org/abs/2404.05695 <sub>⭐ 2.1k · Python</sub>
+- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - 世界モデルの定義と一般ビデオ生成、エンボディドAI、および自動運転のための世界モデルの使用に関する論文の包括的なリスト。紙、コード、関連文献を含む... <sub>⭐ 2.0k · Python</sub>
+- [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - 強化学習のためのロボティクスシミュレーション環境の集合 <sub>⭐ 2.0k · Python</sub>
+- [showlab/ShowUI](https://github.com/showlab/ShowUI) - (CVPR 2025) オープンソース、エンドツーエンド、GUIエージェントとコンピュータの使用のためのVision-Language-Actionモデル。 <sub>⭐ 1.9k · Python</sub>
+- [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) - 「エンボディドAIやロボットと大きなランゲージモデル」の研究のキュレーションリストです。最新のアップデートについては、このリポジトリをご覧ください! <sub>⭐ 1.9k</sub>
+- [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld) - マルチタスクとメタ強化学習のベンチマークに向けたロボット環境のコレクション <sub>⭐ 1.9k · Python</sub>
+- [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse:拡張可能なロボット学習のための統一されたプラットフォーム、データセットおよびベンチマークに向けて <sub>⭐ 1.9k · Python</sub>
+- [StanfordVL/BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K:エンボディドAIの研究を加速するためのプラットフォーム。 サポートのための私たちのDiscordに参加してください: https://discord.gg/bccR5vGFEx <sub>⭐ 1.7k · Python</sub>
+- [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - 素晴らしいロボットの説明のキュレーションリスト(URDF、MJCF) <sub>⭐ 1.7k</sub>
+- [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSAは、ROS1とバラ2ベースのロボットシステムと自然な言語のクエリを使用して相互作用するように設計されたAIエージェントです。 ROSAは、ロボット開発者が検査、診断、理解し、ロボットを操作するのに役立ちます。 <sub>⭐ 1.6k · Python</sub>
+- [open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0) - ギガワールド-0:エンボディドAIをエンパワーするデータエンジンとして世界モデル <sub>⭐ 1.6k · Python</sub>
+- [pypose/pypose](https://github.com/pypose/pypose) - マニホールドの異なるロボットのためのライブラリ。 <sub>⭐ 1.6k · Python</sub>
+- [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - IoT、エッジAI、モバイルデバイス、ロボティクスを横断するバイナリ解析、taintトレース、エミュレーションを組み合わせたファームウェアセキュリティリサーチプラットフォーム。 <sub>⭐ 1.6k · Rust</sub>
+- [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - ロボティック・プロセス・オートメーション(RPA)用のオープンソースのライブラリとツールをコレクションし、Robotics FrameworkとPythonの両方で使用 <sub>⭐ 1.6k · Python</sub>
+- [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) - 物理インテリジェンスからpi0 Vision-language-action(VLA)モデルを再実装 <sub>⭐ 1.5k · Python</sub>
+- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) - MCPとROSを使用して、Claude&GPTなどのAIモデルをロボットに接続します。 <sub>⭐ 1.5k · Python</sub>
+- [fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar) - ロボット強化学習アルゴリズムのシミュレーション検証と物理的な展開、クワッドロボやホイールロボット、ヒューマノイドロボットに適しています。 「sar」は「シミュレーションとリアル」を表しています。 <sub>⭐ 1.5k · C++</sub>
+- [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - 世界行動モデルの論文、説明者、リソースを集約し、エンボディされたAIのための <sub>⭐ 1.4k · HTML</sub>
+- [unitreerobotics/unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - IsaacLabをベースとしたUnitreeロボットの補強学習実装のためのリポジトリです。 <sub>⭐ 1.4k · Python</sub>
+- [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) - STEM教育とAI強化サービスのためのプログラム可能で高度に操縦可能なロボット猫。 <sub>⭐ 1.4k · C++</sub>
+- [erwincoumans/tiny-differentiable-simulator](https://github.com/erwincoumans/tiny-differentiable-simulator) - 小さな異なるシミュレータは、ゼロの依存性を持つ強化学習とロボティクスのためのヘッダーのみC++およびCUDA物理ライブラリです。 <sub>⭐ 1.4k · C++</sub>
+- [reiniscimurs/DRL-robot-navigation](https://github.com/reiniscimurs/DRL-robot-navigation) - ROS Gazeboシミュレータでモバイルロボットのナビゲーションのためのディープ・レインフォースメント学習。ツイン遅延深い決定政策グラデーション(TD3)ニューラルネットワークを使用して、ロボットはランダムにナビゲートすることを学びます... <sub>⭐ 1.4k · Python</sub>
+- [Lionelsy/Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List) - 一部の会議の承認論文リスト(AI、ML、ロボティックを含む) <sub>⭐ 1.3k · Python</sub>
+- [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - 汎用性エンボディドAI研究開発のためのシミュレーションプラットフォーム。 <sub>⭐ 1.3k · Python</sub>
+- [chonyy/AI-basketball-analysis](https://github.com/chonyy/AI-basketball-analysis) - バスケットボールショットとシューティングポーズを分析するためのAI WebアプリやAPI。 <sub>⭐ 1.3k · Python</sub>
+- [rohanpsingh/LearningHumanoidWalking](https://github.com/rohanpsingh/LearningHumanoidWalking) - 強化学習を用いたロコモーションのためのヒューマノイドロボットの育成 <sub>⭐ 1.2k · Python</sub>
+- [andrewkirillov/AForge.NET](https://github.com/andrewkirillov/AForge.NET) - AForge.NET Frameworkは、コンピュータビジョンと人工知能の分野における開発者や研究者のために設計されたC#フレームワークです - 画像処理、ニューラルネットワーク、遺伝子アルゴリズム... <sub>⭐ 1.2k · C#</sub>
+- [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - ナビゲーション、制御、学習用に設計されたPythonベースの軽量ロボットシミュレータ <sub>⭐ 1.1k · Python</sub>
+- [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) - RynnVLA-002:統一された視野言語行為および世界モデル <sub>⭐ 1.1k · Python</sub>
+- [andyzeng/visual-pushing-grasping](https://github.com/andyzeng/visual-pushing-grasping) - ロボットエージェントを養成し、ディープな強化学習で操作のためのアクションの押し出しと把握を計画します。 <sub>⭐ 1.1k · Python</sub>
+- [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - (TRO 2025) NeuPAN: エンドツーエンドモデルベースの学習によるダイレクトポイントロボットナビゲーション。 <sub>⭐ 1.1k · Python</sub>
+- [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) - CarlaAir: CARLA世界中を飛ぶドローン!! エア・グラウンドエンボダイド・インテリジェンスのユニファイドインフラ <sub>⭐ 1.1k · C++</sub>
+- [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - 決定的なAIのための行動ツリーの実行(Pythonバインディングで現在) <sub>⭐ 1.1k · Rust</sub>
+- [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) - GPT-6 Astra は、AIとロボティクスをエンボディするためのものです。 <sub>⭐ 1.1k</sub>
+- [mosaico-labs/mosaico](https://github.com/mosaico-labs/mosaico) - モサイコ - 物理AIのためのデータプラットフォーム <sub>⭐ 1.1k · Python</sub>
+- [NVIDIA-AI-IOT/redtail](https://github.com/NVIDIA-AI-IOT/redtail) - 自律移動ロボットの知覚とAIコンポーネント。 <sub>⭐ 1.1k · C++</sub>
+- [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) - ビジョン言語アクション(VLA)と世界行動モデル(WAM)のキュレーションリスト <sub>⭐ 1.0k</sub>
+- [LeCAR-Lab/dial-mpc](https://github.com/LeCAR-Lab/dial-mpc) - Diffusion-Style AnnealingによるトルクレベルのLocomotionコントロール用のフルオーダーサンプリングベースのMPCのための公式実装。 DIAL-MPCは、レギンス用の新しいサンプリングベースMPCフレームワークです。 <sub>⭐ 1.0k · Python</sub>
+- [mees/calvin](https://github.com/mees/calvin) - CALVIN - ロングホライゾンロボット操作タスクのための言語条件付き政策学習のベンチマーク <sub>⭐ 997 · Python</sub>
+- [timqian/bambot](https://github.com/timqian/bambot) - オープンソース、低コストのAIロボットで簡単にプレイ <sub>⭐ 977 · TypeScript</sub>
+- [dusty-nv/jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement) - PyTorch、OpenAI Gym、Gazeboロボティクスシミュレータを搭載したNVIDIA Jetson TX1/TX2用のディープ補強学習GPUライブラリ。 <sub>⭐ 933 · C++</sub>
+- [autowarefoundation/vision_pilot](https://github.com/autowarefoundation/vision_pilot) - エンドツーエンドのAI技術を搭載した、フリーかつ完全オープンソースL2 ADASスタック <sub>⭐ 906 · C++</sub>
+- [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Habitatを用いた連続環境におけるビジョンと言語ナビゲーション <sub>⭐ 880 · Python</sub>
+- [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - ロボティック・マニピュレーションのためのビジョン言語行動モデルの補強学習に関する調査 <sub>⭐ 865</sub>
+- [rail-berkeley/serl](https://github.com/rail-berkeley/serl) - SERL: サンプル効率的なロボットの補強学習のためのソフトウェアスイート <sub>⭐ 863 · Python</sub>
+- [JackieTseng/conference_call_for_paper](https://github.com/JackieTseng/conference_call_for_paper) - 2021-2022 人工知能、機械学習、コンピュータ・ビジョン、データマイニング、自然言語処理およびロボティクスに関する国際会議 <sub>⭐ 852 · HTML</sub>
+- [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) - SAPIEN エンボディドAIプラットフォーム <sub>⭐ 846 · C++</sub>
+- [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot) - 3Dプリントのオープンソースヒューマノイドロボットプラットフォームで、SIM-to-realとRL <sub>⭐ 832</sub>
+- [Auromix/ROS-LLM](https://github.com/Auromix/ROS-LLM) - ROS-LLMは、バラのエンボディされたインテリジェンスアプリケーション用に設計されたフレームワークです。 それは自然な言語相互作用を可能にし、大規模なランゲージモデル(LLM)を意思決定とロボットに活用することができます... <sub>⭐ 830 · Python</sub>
+- [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) - (AAAI 2026) OpenDriveVLA: 大規模ビジョン言語アクションモデルによるエンドツーエンドの自動運転に向けて <sub>⭐ 820 · Python</sub>
+- [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 大規模ランゲージモデル(LLM)、ビジョン言語モデル(VLM)、Vision Language Action(VLA)、AIの生成コンテンツ(AIGC)、関連データセットなどに関する素晴らしいパブリックプロジェクトを集約。 <sub>⭐ 815</sub>
+- [terminators2025/RealMirror](https://github.com/terminators2025/RealMirror) - RealMirror、包括的なオープンソースエンボディされたAI VLAプラットフォーム。 <sub>⭐ 790 · JavaScript</sub>
+- [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) - AI、コンピュータビジョン、ロボティクスに関するさまざまなコンテンツの有用なリンク <sub>⭐ 786</sub>
+- [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - (積極的に維持された)トップ会議(ICLR、NeurIPS、ICML、RSS、CoRL、ICRA、IROS、CVPR、ICCV、ECCV)によって受け入れられるエンボディドAIのペーパーのリスト。 <sub>⭐ 769</sub>
+- [RoseCityRobotics/ai-developer-resources](https://github.com/RoseCityRobotics/ai-developer-resources) - 私はダンカンです, ローズシティロボティクスの共同創設者. このパブリックリポジトリは、技術的なコースを含むAI開発者のためのリソースの簡単なリストとして使用されます, 書籍, そして人工上のチュートリアル... <sub>⭐ 764</sub>
+- [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot) - 遺伝子の動画(Veo、Sora)をヒト型ロボットモーションに変換するエンドツーエンドパイプライン <sub>⭐ 742 · Python</sub>
+- [2toinf/X-VLA](https://github.com/2toinf/X-VLA) - (ICLR 2026) 「スケーラブル・クロス・エンボディメント・ビジョン・言語アクションモデル」としてのソフト・プロンプト・トランスのオフシグレーション <sub>⭐ 740 · C++</sub>
+- [opendr-eu/opendr](https://github.com/opendr-eu/opendr) - ディープラーニングによるコアロボット機能のためのモジュラー、オープンおよび非プロピタリツールキット <sub>⭐ 729 · Python</sub>
+- [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - SpatialVLA: 実質のロボットエピソード1.1ミリオンで訓練された空間強化ビジョン言語アクションモデル。 RSS 2025で受け入れられました。 <sub>⭐ 727 · Python</sub>
+- [FluxVLA/FluxVLA](https://github.com/FluxVLA/FluxVLA) - データからリアルロボットの展開まで、エンボディされたAIのためのオールインワンVLAエンジニアリングプラットフォーム。 <sub>⭐ 721 · Python</sub>
+- [Skylark0924/Rofunc](https://github.com/Skylark0924/Rofunc) - 実証とロボット操作から学ぶロボットのためのフルプロセスのPythonパッケージ <sub>⭐ 721 · Python</sub>
+- [vibertthio/awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art) - 機械学習でアート(音楽を含む)を制作するための素晴らしいプロジェクト、作品、人、記事およびリソースのキュレーションリスト。機械学習芸術です。 <sub>⭐ 719</sub>
+- [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) - (RSS'25) このリポジトリは「NaVILA: Legged Robot Vision-Language-Action Model for Navigation」の実装です。 <sub>⭐ 715 · Python</sub>
+- [facebookresearch/project_superdex](https://github.com/facebookresearch/project_superdex) - SuperDexは、目的構築された物理エンジン、ロボットのオーサリングツールと拡張可能な強化学習インターフェイスを統合シミュレーションプラットフォームで提供し、VRベースのテレオペレーションと... <sub>⭐ 710 · C++</sub>
+- [PaulDanielML/MuJoCo_RL_UR5](https://github.com/PaulDanielML/MuJoCo_RL_UR5) - 強化学習を用いたロボット制御のためのMuJoCo/Gym環境。この環境におけるエージェントのタスクは、成功チャンスを把握するピクセル単位予測です。 <sub>⭐ 691 · Python</sub>
+- [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) - 私たちの論文のリポジトリ:ロボティックワールドモデル:ロボティクスと不確実性ロボットの世界モデルにおける堅牢な政策最適化のためのニューラルネットワークシミュレータは、オフラインモデルベースの補強を生成します... <sub>⭐ 682 · Python</sub>
+- [InternRobotics/EmbodiedScan](https://github.com/InternRobotics/EmbodiedScan) - (CVPR 2024&NeurIPS 2024) エンボディドスキャン:エンボダイドAIに向けたホリスティックマルチモーダル3Dパーセプトスイート <sub>⭐ 680 · Python</sub>
+- [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) - (ICCV 2025) 「オリオン:ビジョン・言語による自動運転フレームワークの包括的なエンドツーエンドの自動運転」の公式コード <sub>⭐ 667 · Python</sub>
+- [unitreerobotics/unitree_rl_mjlab](https://github.com/unitreerobotics/unitree_rl_mjlab) - Mujoco をベースに、ユニツリーロボットの補強学習実装のためのリポジトリです。 <sub>⭐ 666 · C++</sub>
+- [Spirit-AI-Team/spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5) - スピリットAIによるロボティック・ファンデーションモデル <sub>⭐ 664 · Python</sub>
+- [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) - (NeurIPS 2025) AutoVLA: 適応的合理的な調整と補強のファインチューニングによるエンドツーエンドの自動運転のためのビジョン言語アクションモデル <sub>⭐ 661 · Python</sub>
+- [UMass-Embodied-AGI/3D-VLA](https://github.com/UMass-Embodied-AGI/3D-VLA) - (ICML 2024) 3D-VLA:3Dビジョン言語アクションジェネレーション世界モデル <sub>⭐ 637 · Python</sub>
+- [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots) - 物理的なAIのためのオープンソースの楕円形。任意の腕/ヒューマノイド上のLM / VLAを実行し、任意の実質/シムベンチマークに対して実行します。 <sub>⭐ 634 · Python</sub>
+- [vikashplus/robohive](https://github.com/vikashplus/robohive) - ロボット学習のための統一されたフレームワーク <sub>⭐ 632 · Python</sub>
+- [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) - ビジョン–言語-自動運転(VLA4AD)リソースのアクションモデル、コンパニオンレポジトリとしてサーベイトペーパー「Visionに関する調査～言語行動モデルの自動運転」に役立てます。 <sub>⭐ 622</sub>
+- [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) - TurboVLA:Real-Time Vision-Language-Action は、<1 GB VRAM で RTX 4090 の 32 Hz でモデルを構成します。 <sub>⭐ 617 · Python</sub>
+- [proroklab/VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator) - VMASは、効率的なマルチエージェントの補強学習ベンチマーキング用に設計されたベクター化可能なさまざまなシミュレータです。 PyTorchとセットで書かれているベクター化された2D物理エンジンで構成されています... <sub>⭐ 617 · Python</sub>
+- [TARS-AI-Community/TARS-AI](https://github.com/TARS-AI-Community/TARS-AI) - ロボットTARSをInterstellarから、AI機能を搭載しています。 <sub>⭐ 611 · Python</sub>
+- [anki/vector-python-sdk](https://github.com/anki/vector-python-sdk) - Anki ベクトル Python SDK <sub>⭐ 610 · Python</sub>
+- [spear-sim/spear](https://github.com/spear-sim/spear) - SPEAR: フォトリアルなエンボダイドAI研究のためのシミュレータ <sub>⭐ 606 · C++</sub>
+- [ginwind/VLA-JEPA](https://github.com/ginwind/VLA-JEPA) - (ECCV 2026) VLA-JEPA:ラテント・ワールドモデルによるビジョン言語行動モデルの強化 <sub>⭐ 598 · Python</sub>
+- [RobotecAI/rai](https://github.com/RobotecAI/rai) - RAIは、バラ2ツールを使用して、物理人工知能ロボティクスのためのベンダーの無関心なエージェントフレームワークで、複雑なアクションを実行します。定義されたシナリオ、フリーインターフェイス実行、ログ要約、音声相互作用... <sub>⭐ 597 · Python</sub>
+- [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - 強化学習とロボティクスの研究のための高忠実度シミュレータ。 <sub>⭐ 596 · Python</sub>
+- [uncle-mark/desk-emoji](https://github.com/uncle-mark/desk-emoji) - 卓上絵文字は、 emoji スクリーンと2軸コンソール、音声チャット用のLM機能を備えた、まさにオープンソースのAIデスクトップロボットです。 <sub>⭐ 590 · C</sub>
+- [fracapuano/robot-learning-tutorial](https://github.com/fracapuano/robot-learning-tutorial) - 「Robot Learning: A Tutorial」のソースコードです。次の反復にご参加ください! <sub>⭐ 587 · TeX</sub>
+- [kyegomez/RT-2](https://github.com/kyegomez/RT-2) - RT-2の民主化「RT-2:新しいモデルは、ビジョンと言語をアクションに変換します」 <sub>⭐ 584 · Python</sub>
+- [Psi-Robot/Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers) - 調査の紙リスト: Vision-Language-Action モデルに関するアンケート:アクショントークン化の視点 <sub>⭐ 582</sub>
+- [RobotLocomotion/pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence) - 「Dense Object Nets: Dense Visual オブジェクトの記述子をロボット操作で学習する」コード <sub>⭐ 576 · Python</sub>
+- [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: 3DエンボディドAI環境の言語ガイド生成。 <sub>⭐ 575 · Python</sub>
+- [MINT-SJTU/RoboClaw](https://github.com/MINT-SJTU/RoboClaw) - ロボクローはエンボディドAIアシスタントです。 <sub>⭐ 563 · Python</sub>
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - 対話型AIデバイス+ソフトウェアフレームワーク(コンパニオンシップ、エンターテインメント、教育、ヘルスケア、IoTアプリケーション、DIYロボット)。 Python、NextJS、Arduino、ESP32、LLM(GPT-4o)で構築... <sub>⭐ 549 · TypeScript</sub>
+- [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - エンボディドAIと関連研究/産業主導のリソースに関する素晴らしい論文のリストをキュレーション。 <sub>⭐ 532</sub>
+- [OpenBMB/DeepThinkVLA](https://github.com/OpenBMB/DeepThinkVLA) - DeepThinkVLA: Vision-Language-ActionモデルのReasoningの機能を強化 <sub>⭐ 532 · Python</sub>
+- [AndrejOrsula/drl_grasping](https://github.com/AndrejOrsula/drl_grasping) - Octreesからロボティックグラッピングのための深い補強学習 <sub>⭐ 522 · Python</sub>
+- [swarm-subnet/Langostino](https://github.com/swarm-subnet/Langostino) - Langostino - ROS2とAI搭載の飛行制御を使用して、オープンソースの自動無人機プラットフォーム。 実際のドローンの構築、理解、拡張のための完全な参照実装... <sub>⭐ 520 · Python</sub>
+- [Skylark0924/Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics) - ロボティックスで用いられる強化学習技術のためのプライベートラーニングリポジトリです。 <sub>⭐ 518 · HTML</sub>
+- [sichkar-valentyn/Reinforcement_Learning_in_Python](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python) - 強化学習、Qラーニングとサルサアルゴリズムを実装し、未知の環境でモバイルロボットのグローバルパス計画を立てる。 Q-ラーニングとサルサの比較分析 <sub>⭐ 514 · Python</sub>
+- [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - 浮体型AI(EAI)のための視覚基盤モデルの最大の最も広範囲に及ぶ帝国研究のためのリポジトリ。 <sub>⭐ 509 · Python</sub>
+- [microsoft/VITRA](https://github.com/microsoft/VITRA) - (ICRA 2026) VITRA:現実の人間の活動のビデオとのロボティック操作のためのスケーラブルな視野言語行為モデルPretraining <sub>⭐ 505 · Python</sub>
+- [chengxuxin/expressive-humanoid](https://github.com/chengxuxin/expressive-humanoid) - (RSS 2024): ヒューマノイドロボット向け全体制御 <sub>⭐ 499 · Python</sub>
+- [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) - ロボティクスのVision-Language-Action(VLA)モデルに関する優れた研究論文、モデル、データセット、その他のリソースの包括的なリスト。 <sub>⭐ 497</sub>
+- [jamro/tiny-engineer](https://github.com/jamro/tiny-engineer) - AI コーディングアシスタントを生命にとらえる小さなデスクトップロボット。ファイルを読み込むときに物理的に行動し、コードを書き込んで作業を完了します。 <sub>⭐ 491 · C++</sub>
+- [gaiyi7788/awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) - ロボティクスのレッジロコモーション学習に関連するリソースのキュレーションリスト。 <sub>⭐ 489</sub>
+- [worldbench/awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) - 自動運転のためのVision-Language-Actionモデル:過去、現在、未来 <sub>⭐ 484 · HTML</sub>
+- [Holiday-Robot/FlashSAC](https://github.com/Holiday-Robot/FlashSAC) - FlashSAC:高次元ロボット制御のための高速かつ安定したオフPolicyの補強学習 <sub>⭐ 483 · Python</sub>
+- [OpenLegged/URDF-Studio](https://github.com/OpenLegged/URDF-Studio) - URDF-Studioは、3Dワークスペース、構造化されたスケルトン/詳細/ハードウェアワークフロー、モーターライブラリの統合、MuJoCoエクスポートおよびAI支援を備えたWebベースのビジュアルUDFロボットモデラーです。 <sub>⭐ 481 · TypeScript</sub>
+- [jr-robotics/robo-gym](https://github.com/jr-robotics/robo-gym) - ディープ・レインフォースメントの学習のためのオープンソース・ツールキットをリアルでシミュレートしたロボットに。 <sub>⭐ 478 · Python</sub>
+- [OpenMOSS/VLABench](https://github.com/OpenMOSS/VLABench) - 視覚言語行動モデル、エンボディエージェント、およびビジョン言語モデルを評価するための大規模なベンチマーク <sub>⭐ 476 · Python</sub>
+- [allenai/procthor](https://github.com/allenai/procthor) - インタラクティブな3Dハウスを生成し、進化したAIのスケーリング <sub>⭐ 475 · Python</sub>
+- [sylvestf/LIBERO-plus](https://github.com/sylvestf/LIBERO-plus) - LIBERO-plusの公式レポジトリ、ビジョンランゲージアクションモデルの堅牢性分析のための一般的なベンチマーク。 <sub>⭐ 469 · Python</sub>
+- [FidoProject/Fido](https://github.com/FidoProject/Fido) - 組込み型電子機器やロボット用の軽量C++機械学習ライブラリ。 <sub>⭐ 464 · C++</sub>
+- [danijar/daydreamer](https://github.com/danijar/daydreamer) - DayDreamer: 物理ロボット学習のための世界モデル <sub>⭐ 463 · Jupyter Notebook</sub>
+- [hku-mars/LIV_handhold_2](https://github.com/hku-mars/LIV_handhold_2) - LIV-Eye:ロボティクスとエンボディドAIのための低コスト・コントラスト・慣性融合3Dセンサー。 <sub>⭐ 463 · C++</sub>
+- [GuanxingLu/vlarl](https://github.com/GuanxingLu/vlarl) - 強化学習による視覚言語行動(VLA)モデルを進化させるための単一ファイル実装。 <sub>⭐ 460 · Python</sub>
+- [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - ディープラーニングによる感情的なテキストのアプローチを音声に使用することで、私たちの試みに関する要約 <sub>⭐ 456 · Jupyter Notebook</sub>
+- [Acmece/rl-collision-avoidance](https://github.com/Acmece/rl-collision-avoidance) - 「深層強化学習による最適化分散型多重ロボット衝突回避に向けて」紙の実装 <sub>⭐ 454 · Python</sub>
+- [RenzKa/simlingo](https://github.com/RenzKa/simlingo) - (CVPR 2025、Spotlight) SimLingo(CarLLava): ビジョンオンリークローズドループ自動運転と言語アクションのアライメント <sub>⭐ 454 · Python</sub>
+- [FlorianWilk/SpotMicroAI](https://github.com/FlorianWilk/SpotMicroAI) - SpotMicro AI - 自己学習ロボットの作り方 <sub>⭐ 453</sub>
+- [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - STEM、コーディング&ロボティクス教育、IoTロボットのアプリケーションに最適なボストン・ダイナミクススタイルの4脚ロボットを開発するためのEPS32ベースのオープンソースクォード型ロボットペットフレームワークです。 <sub>⭐ 452 · C++</sub>
+- [ezelikman/parsel](https://github.com/ezelikman/parsel) - パーセルのコード - 言語モデルで複雑なプログラムを生成する <sub>⭐ 450 · Python</sub>
+- [JsonChao/ML-Roadmap](https://github.com/JsonChao/ML-Roadmap) - ロードマップは2020年に機械学習開発者になる <sub>⭐ 450</sub>
+- [softmata/horus](https://github.com/softmata/horus) - 最速のロボティクスランタイムシステム。携帯電話がAndroidの場合、ロボットはHORUSに値します。 <sub>⭐ 442 · Rust</sub>
+- [semitable/robotic-warehouse](https://github.com/semitable/robotic-warehouse) - マルチロボット倉庫(RWARE):マルチエージェント強化学習環境 <sub>⭐ 439 · Python</sub>
+- [keon/awesome-physical-ai](https://github.com/keon/awesome-physical-ai) - ビジョン言語行動(VLA)モデル、世界モデル、エンジドアイ、ロボティックファンデーションモデルを中心に、物理AIに関する学術論文やリソースのキュレーションリスト。 <sub>⭐ 434</sub>
+- [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: 総合ロボット政策のためのSpatially Guided Vision-Language-Action Framework <sub>⭐ 433 · Python</sub>
+- [microsoft/CogACT](https://github.com/microsoft/CogACT) - ロボティック・マニピュレーションにおける認知と行動の統合のための基礎ビジョン言語アクションモデル <sub>⭐ 432 · Python</sub>
+- [MrinmoiHossain/Online-Courses-Learning](https://github.com/MrinmoiHossain/Online-Courses-Learning) - コースラ、ウダシティ、リンペディンが提供するデータサイエンス、機械学習、プログラミング言語、オペレーティングシステム、メカニカルエンジニアリング、数学とロボティクスに関するオンラインコースが含まれています。 <sub>⭐ 424 · JavaScript</sub>
+- [NVlabs/sage](https://github.com/NVlabs/sage) - SAGEの公式コードリリース:エンボディドAIのためのスケーラブルなエージェント3Dシーン生成 <sub>⭐ 417 · Python</sub>
+- [MorvanZhou/train-robot-arm-from-scratch](https://github.com/MorvanZhou/train-robot-arm-from-scratch) - ロボットアームをゼロから構築し、ロボットアームをスクラッチ(補強学習) <sub>⭐ 408 · Python</sub>
+- [keivalya/mini-vla](https://github.com/keivalya/mini-vla) - ロボットポリシーが画像、テキスト、状態を不正に使用し、アクションを生成する方法を示すために最小限で初心者にも優しいVLA <sub>⭐ 400 · Python</sub>
+- [eddyhkchiu/mahalanobis_3d_multi_object_tracking](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) - (NeurIPS Workshop 2019) 論文の公式コード「自動運転のための確率的3Dマルチオブジェクトトラッキング」。AIドライビングオリンピックでの第1回NuScenes追跡チャレンジの最初の場所... <sub>⭐ 399 · Python</sub>
+- [MilkClouds/awesome-vla-study](https://github.com/MilkClouds/awesome-vla-study) - Vision-Language-Action(VLA)モデルに関する構造読書リスト - 拡散/フローマッチング基盤から最先端のロボットファンデーションモデルアーキテクチャをデータスケーリング、RL... <sub>⭐ 395</sub>
+- [phospho-app/phosphobot](https://github.com/phospho-app/phosphobot) - AIロボットの制御。 ロボットを制御するためのコミュニティ主導UIミドルウェア、データセットを記録し、アクションモデルをトレーニングします。 SO-100とSO-101との互換性 <sub>⭐ 394 · Python</sub>
+- [superxslam/SuperMap](https://github.com/superxslam/SuperMap) - スーパーマップは、エンボディドAIの生きた空間メモリです。世界を認識し、進化を記憶し、推論と行動をサポートしています。 <sub>⭐ 392</sub>
+- [allenai/allenact](https://github.com/allenai/allenact) - AI2からエンボディドAIの研究のためのオープンソースフレームワーク。 <sub>⭐ 384 · Python</sub>
+- [lobehub/awesome-rsi](https://github.com/lobehub/awesome-rsi) - Recursive Self-Improvement(RSI):モデル、エージェント、ハーネス、エンボディシステム、自動化されたAI R&D、ベンチマーク、および安全に関する研究マップ。 <sub>⭐ 383</sub>
+- [manumerous/wb_humanoid_mpc](https://github.com/manumerous/wb_humanoid_mpc) - 全ボディ非線形MPC リアルタイムのヒューマノイド ロコ操作の計画および制御 <sub>⭐ 379 · C++</sub>
+- [Phylliade/awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - ロボティクスの機械学習に関するリソースのキュレーションリスト <sub>⭐ 379</sub>
+- [reiniscimurs/DRL-robot-navigation-IR-SIM](https://github.com/reiniscimurs/DRL-robot-navigation-IR-SIM) - IR-SIMシミュレーションにおけるモバイルロボットのナビゲーションのためのディープ・レインフォースメント学習。DRL(SAC、TD3、PPO、DDPG)ニューラルネットワークを使用して、ロボットはシミュレートされた方法でランダムなゴールポイントに移動することを学びます... <sub>⭐ 374 · Python</sub>
+- [avisingh599/reward-learning-rl](https://github.com/avisingh599/reward-learning-rl) - (RSS 2019) エンドツーエンドのロボット強化学習をリワードエンジニアリングなし <sub>⭐ 373 · Python</sub>
+- [lupinjia/LeggedGym-Ex](https://github.com/lupinjia/LeggedGym-Ex) - 複数のシミュレータ(IsaacGym、Genesis、IsaacSim)における強化学習のためのレガシーロボット環境 <sub>⭐ 373 · Python</sub>
+- [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - Clash Royale を再生するボットを作成するプラットフォーム <sub>⭐ 373 · Python</sub>
+- [reductstore/reductstore](https://github.com/reductstore/reductstore) - ロボットや産業用IoT向けの高性能・タイムインデックス型のオブジェクトストレージ <sub>⭐ 373 · Rust</sub>
+- [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - (NeurIPS 2025) DreamVLA: 包括的な世界知識を夢見ているビジョン言語アクションモデル <sub>⭐ 373 · Python</sub>
+- [Albusgive/wheel_legged_genesis](https://github.com/Albusgive/wheel_legged_genesis) - 創世記に基づくホイール・レッグロボットの補強学習 <sub>⭐ 372 · Python</sub>
+- [botbotrobotics/BotBrain](https://github.com/botbotrobotics/BotBrain) - モジュラーオープンソースの脳は、ロボットをレッジしました。 テロップ、自動ナビゲーション、マッピング&モニタリング用のWeb UI。 3Dプリント可能なハードウェアでROS2を実行します。 <sub>⭐ 369 · TypeScript</sub>
+- [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) - AIコーディングアシスタントを作るエージェントスキルは、生産レベルのロボティクスソフトウェアを書きます。 ROS1、バラ2、設計パターン、SOLID原則、およびテスト — クロードコード、カーソル、コピロット、その他... <sub>⭐ 368 · Python</sub>
+- [MINT-SJTU/Evo-1](https://github.com/MINT-SJTU/Evo-1) - Evo-1:保存されたSemanticの直線との軽量な視野言語行為モデル <sub>⭐ 366 · Python</sub>
+- [NVlabs/physical_ai_av](https://github.com/NVlabs/physical_ai_av) - NVIDIA物理AI自動車両データセットのDevkitとドキュメント <sub>⭐ 366 · Python</sub>
+- [Li-Zn-H/AwesomeWorldModels](https://github.com/Li-Zn-H/AwesomeWorldModels) - 進化したAIのための世界モデルに関する包括的な調査 <sub>⭐ 365</sub>
+- [dvalenciar/robotic_arm_environment](https://github.com/dvalenciar/robotic_arm_environment) - Doosan ロボットアーム、シミュレーション、制御、Gazebo の視覚化および補強学習のためのROS2。 <sub>⭐ 359 · Python</sub>
+- [showlab/Awesome-Robotics-Diffusion](https://github.com/showlab/Awesome-Robotics-Diffusion) - ロボティクスタスクの拡散モデルを組み込んだ最近のロボット学習論文のキュレーションリスト。 <sub>⭐ 358</sub>
+- [PKU-HMI-Lab/Hybrid-VLA](https://github.com/PKU-HMI-Lab/Hybrid-VLA) - ハイブリッドVLA:統合型ビジョン言語アクションモデルにおける協調的拡散とオートレグレッション <sub>⭐ 356 · Python</sub>
+- [jzhzhang/Uni-NaVid](https://github.com/jzhzhang/Uni-NaVid) - (RSS 2025)Uni-NaVid:エンボディドナビゲーションタスクを統一するためのビデオベースのビジョン言語アクションモデル。 <sub>⭐ 354 · Python</sub>
+- [UniFlowMatch/UFM](https://github.com/UniFlowMatch/UFM) - UFM:光フローとワイドベースラインマッチングタスクの両方のための統一された密な画像応答刺激器。任意のペアの画像を一致させます。 (NeurIPS 2025) <sub>⭐ 353 · Python</sub>
+- [jaykorea/Isaac-RL-Two-wheel-Legged-Bot](https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot) - IsaacLabのための2つの車輪のレッジされたロボット - 補強学習 <sub>⭐ 352 · Python</sub>
+- [shihao1895/MemoryVLA](https://github.com/shihao1895/MemoryVLA) - (ICLR 2026) 「MemoryVLA: ロボティック・マニピュレーションのためのビジョン言語アクションモデルにおける知覚記憶」のコード <sub>⭐ 350 · Python</sub>
+- [hzxie/DynamicVLA](https://github.com/hzxie/DynamicVLA) - 「DynamicVLA:動的オブジェクト操作のためのビジョン言語アクションモデル」の公式実装。 (NeurIPS 2026) <sub>⭐ 344 · Python</sub>
+- [OpenBMB/MiniCPM-Robot](https://github.com/OpenBMB/MiniCPM-Robot) - ロボット向けスマートで高速なオンデバイスAIブレイン <sub>⭐ 341 · Python</sub>
+- [wenbowen123/catgrasp](https://github.com/wenbowen123/catgrasp) - (ICRA 2022) CaTGrasp: シミュレーションからClutterでカテゴリレベルのタスク関連グラッピングを学ぶ <sub>⭐ 341 · Python</sub>
+- [loongOpen/Unity-RL-Playground](https://github.com/loongOpen/Unity-RL-Playground) - 強化学習とロボットシミュレーション&エンボディドインテリジェンス <sub>⭐ 337 · C#</sub>
+- [IliaLarchenko/behavior-1k-solution](https://github.com/IliaLarchenko/behavior-1k-solution) - 2025年のBEHAVIORチャレンジの1位ソリューション <sub>⭐ 336 · Python</sub>
+- [Open-X-Humanoid/HEX](https://github.com/Open-X-Humanoid/HEX) - HEXは、全身のビジョン・ランゲージ・アクションフレームワークで、大型ヒューマノイドロボットを装備しています。 <sub>⭐ 336 · Jupyter Notebook</sub>
+- [fujitatomoya/ros2ai](https://github.com/fujitatomoya/ros2ai) - ros2aiはLMsが付いている次世代ROS 2コマンドライン・インタフェース延長です <sub>⭐ 332 · Python</sub>
+- [InternRobotics/VLAC](https://github.com/InternRobotics/VLAC) - (ICML2026) VLAC: ロボティック・リアル・ワールドの補強学習のためのビジョン言語行動基準モデル <sub>⭐ 332 · Python</sub>
+- [open-airlab/UNav-Sim](https://github.com/open-airlab/UNav-Sim) - 視覚的に現実的な水中ロボティクスシミュレータUNav-Sim <sub>⭐ 331 · C++</sub>
+- [andyzeng/arc-robot-vision](https://github.com/andyzeng/arc-robot-vision) - MIT-Princeton Vision Toolbox for Robotic Pick-and-Place at Amazon Robotics Challenge 2017 - ロボットグラッピングとディープラーニングによるノベルオブジェクトのワンショット認識。 <sub>⭐ 325 · Lua</sub>
+- [baaivision/UniVLA](https://github.com/baaivision/UniVLA) - (ICLR 2026) ユニファイドビジョン言語アクションモデル <sub>⭐ 322 · Python</sub>
+- [foxglove/foxglove-sdk](https://github.com/foxglove/foxglove-sdk) - ロボティクスと物理AIのマルチモーダルデータをログ化・可視化 <sub>⭐ 311 · Rust</sub>
+- [sopaco/cortex-mem](https://github.com/sopaco/cortex-mem) - Embodied-AI や OpenClaw などの自動システムのための生産準備が整った認知基盤。 メモリ管理のために、抽出物から自動化された最適化への検索、SKILL、CL、API を使用して... <sub>⭐ 311 · Rust</sub>
+- [NoneJou072/robopal](https://github.com/NoneJou072/robopal) - robopal: 主にロボットアームの補強学習と制御アルゴリズム実装に使用されるMuJoCoに基づくマルチプラットフォーム、モジュラーロボットシミュレーションフレームワーク。 <sub>⭐ 307 · Python</sub>
+- [BoosterRobotics/booster_gym](https://github.com/BoosterRobotics/booster_gym) - ブースタージムは、ボスターロボティクスが開発したヒューマノイドロボットロコモーション用に設計された強化学習(RL)フレームワークです。 <sub>⭐ 305 · Python</sub>
+- [Tencent-Hunyuan/Hy-Embodied-0.5-VLA](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) - Vision-Language-Action モデルから現実世界ロボット学習スタックへ <sub>⭐ 304 · Python</sub>
+- [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) - TNY - 360ロボットソースコードと3Dモデル <sub>⭐ 304 · C++</sub>
+- [Argo-Robot/quadrupeds_locomotion](https://github.com/Argo-Robot/quadrupeds_locomotion) - 行動と観察を定義し、シミュレーションから現実へのやりがいや移行を設計するなど、強化学習を使用して歩くために四方ロボットを訓練する方法を学びます。 <sub>⭐ 301 · Python</sub>
+- [duburcqa/jiminy](https://github.com/duburcqa/jiminy) - Jiminy:強化学習のためのOpenAIジムインターフェイスを備えた多関節ロボットの高速でポータブルなPython / C++シミュレータ <sub>⭐ 300 · Jupyter Notebook</sub>
+- [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) - ローカル、AIエージェントのLMフリーメモリ。単一のオフラインRustバイナリ — 決定的で監査可能 — 使用から学習し、無関係を忘れて、問題点を強化します。クラウドなし、APIキーはありません。 <sub>⭐ 299 · Rust</sub>
+- [montrealrobotics/DeepRLInTheWorld](https://github.com/montrealrobotics/DeepRLInTheWorld) - 検索エンジンから科学、ロボティクスまで、このリポジトリは世界における強化学習の使用を提示することを目的としています。 <sub>⭐ 296</sub>
+- [sachink2010/AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - 毎日、世界中のトレーダーは取引株式でお金を稼ぐしようとしている。 最近では、物理的なトレーダーも自動売買ロボットに交換されています。 アルゴリズム取引... <sub>⭐ 296 · Jupyter Notebook</sub>
+- [Phyzicalorg/Phyzical_org](https://github.com/Phyzicalorg/Phyzical_org) - 埋め込まれたAIのためのブラウザのテレ運用データ — elizaOS-readyエピソード、trajectory_dbコンバーター、オンチェーン実証。エージェントロボットスタック用の燃料ステーション。 <sub>⭐ 293 · Python</sub>
+- [behnamasadi/robotic_notes](https://github.com/behnamasadi/robotic_notes) - このリポジトリには、LieグループとLie Algebraの私のスニペットとチュートリアル、ロボットとスペースのトポロジーと構成、IMU、ROS2 Gazeboインテグレーション、状態推定、VIO、LIO、およびディープラーニング... <sub>⭐ 292 · C++</sub>
+- [cheng-haha/GPT-Policy](https://github.com/cheng-haha/GPT-Policy) - VLM エージェントによるインコンテクストロボット学習 <sub>⭐ 292 · Python</sub>
+- [LeapLabTHU/UltraBot](https://github.com/LeapLabTHU/UltraBot) - (Nature Communications 2025) 大規模学習基盤ロボットシステムを用いたエキスパートレベルの自動キャロティド超音波探知機に向けて <sub>⭐ 292 · Python</sub>
+- [IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform](https://github.com/IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform) - FinsROVは、ロボットとAIの水中タスクや研究のために設計された低コストでオープンソースの水中ロボットプラットフォームです。 <sub>⭐ 290 · C</sub>
+- [OpenHelix-Team/Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) - Spatial-Forcingの公式実装: 視覚言語アクションモデル(ICLR2026)のための暗黙的空間表現アライメント <sub>⭐ 290 · Python</sub>
+- [TUM-AAS/neural-mpc](https://github.com/TUM-AAS/neural-mpc) - リアルタイムニューラルMPC:Quadrotorsとアジャイルロボティックプラットフォームのディープラーニングモデル予測制御 <sub>⭐ 286 · Python</sub>
+- [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) - ロボティクスチーム向けSDKで、AIモデルのトレーニングに使用されるデータの品質を検証します。 <sub>⭐ 283 · Python</sub>
+- [rai-opensource/theia](https://github.com/rai-opensource/theia) - Theia: ロボット学習のための多様なビジョン ファンデーションモデルの蒸留 <sub>⭐ 283 · Python</sub>
+- [OpenHelix-Team/ReconVLA](https://github.com/OpenHelix-Team/ReconVLA) - ReconVLAの公式実装:効果的なロボットペシーバとして再構築型ビジョン言語アクションモデル。 <sub>⭐ 279 · Python</sub>
+- [UMass-Embodied-AGI/3D-Mem](https://github.com/UMass-Embodied-AGI/3D-Mem) - (CVPR 2025) 紙のソースコード「3D-Mem:エンボディド探査と思いやりのための3Dシーンメモリ」 <sub>⭐ 279 · Python</sub>
+- [zengweishuai/ScaleBFM](https://github.com/zengweishuai/ScaleBFM) - 「人型ロボットのスケーリング行動財団モデル」の公式実装 <sub>⭐ 278 · Python</sub>
+- [BarisYazici/deep-rl-grasping](https://github.com/BarisYazici/deep-rl-grasping) - ロボットの把握のための深い補強学習モデルを訓練して下さい。別の認識の層の未加工深さ、RGBDおよびオートエンコーダーから選ぶ。異なった場面で学んだモデルをテストし、目的のデータセット <sub>⭐ 276 · Python</sub>
+- [xiaomi-mlab/MindDrive](https://github.com/xiaomi-mlab/MindDrive) - (ECCV 2026) 「MindDrive:オンライン強化学習による自動運転のためのビジョン言語アクションモデル」の公式コード <sub>⭐ 275 · Python</sub>
+- [zuoym15/craves.ai](https://github.com/zuoym15/craves.ai) - CRAVES: ロボティックアームをビジョンベース、経済システムで制御 <sub>⭐ 275 · Python</sub>
+- [med-air/SurRoL](https://github.com/med-air/SurRoL) - (IROS'21) SurRoL: 手術ロボット学習のためのオープンソースの補強学習センタとdVRK互換プラットフォーム <sub>⭐ 274 · Jupyter Notebook</sub>
+- [aidudezzz/deepbots](https://github.com/aidudezzz/deepbots) - Python 3を用いたWebotsロボットシミュレータにおける強化学習のためのラッパーフレームワーク。 <sub>⭐ 273 · Python</sub>
+- [danukim/Miko](https://github.com/danukim/Miko) - Ollama、デュアルボイス合成(Fish Audio S2.1&local GPT-SoVITS)、リアルタイムのリップシンク、カスタムVRMアバターサポートを搭載した3D AIデスクトップコンパニオン。 <sub>⭐ 273 · C#</sub>
+- [CoderWangcai/DRL_Path_Planning](https://github.com/CoderWangcai/DRL_Path_Planning) - これは、ロボットの適応パス計画のためにGazeboで構築されたDRL(ディープ・レインフォースメント・ラーニング)プラットフォームです。 <sub>⭐ 272 · Python</sub>
+- [retinify/retinify](https://github.com/retinify/retinify) - リアルタイムAIステレオビジョンライブラリ <sub>⭐ 270 · C++</sub>
+- [mgonzs13/llama_ros](https://github.com/mgonzs13/llama_ros) - バラ2のためのllama.cpp (GGUF LLMs)とllava.cpp(GGUF VLMs) <sub>⭐ 264 · C++</sub>
+- [Little-Podi/AdaWorld](https://github.com/Little-Podi/AdaWorld) - (ICML'25) 紙のPyTorch実装:「AdaWorld:学習適応可能な世界モデルとラテントアクション」。 <sub>⭐ 261 · Python</sub>
+- [robertorobotics/Nextis-AIRA-3D](https://github.com/robertorobotics/Nextis-AIRA-3D) - オープンソース7DoF 3Dプリント可能なロボットアームとLeRobotの統合。 <sub>⭐ 261 · Python</sub>
+- [ritzz-ai/GUI-R1](https://github.com/ritzz-ai/GUI-R1) - GUI-R1の公式実装:GUIエージェントのためのジェネラリストR1スタイルのビジョン言語アクションモデル <sub>⭐ 260 · Python</sub>
+- [AgibotTech/ACoT-VLA](https://github.com/AgibotTech/ACoT-VLA) - (CVPR 2026) 「ACoT-VLA: Vision-Language-Action Model のアクションチェーン」の公式実装 <sub>⭐ 258 · Python</sub>
+- [RayYoh/OCRM_survey](https://github.com/RayYoh/OCRM_survey) - オブジェクト・セネトリのロボティック操作のためのエンボディド学習に関する調査 <sub>⭐ 258</sub>
+- [harvard-edge/AirLearning](https://github.com/harvard-edge/AirLearning) - Air Learningプロジェクトのためのパブリックリポジトリ <sub>⭐ 257</sub>
+- [metadriverse/metaurban](https://github.com/metadriverse/metaurban) - (ICLR 2025 スポットライト) MetaUrban: 都市マイクロモビリティのためのエンボダイドAIシミュレーションプラットフォーム <sub>⭐ 257 · Python</sub>
+- [AlphaBrainGroup/AlphaBrain](https://github.com/AlphaBrainGroup/AlphaBrain) - エンボダイドAIモデルのための包括的なツールキット <sub>⭐ 253 · Python</sub>
+- [britcruise9/GrowBot](https://github.com/britcruise9/GrowBot) - ゼロからすべてを学ぶ、最も簡単なAIロボットは何ですか? <sub>⭐ 253 · Python</sub>
+- [AoqunJin/Awesome-VLA-Post-Training](https://github.com/AoqunJin/Awesome-VLA-Post-Training) - 視覚言語行動モデルのポストトレイン方法のコレクション。 <sub>⭐ 250</sub>
+- [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) - キュレーションされたエンボディされたAIリスト:調査、VLAモデル、データセット、シミュレータ、ヒューマノイド、ロボット学習および安全資源。 <sub>⭐ 250 · Python</sub>
+- [maximilienroberti/lerobotdepot](https://github.com/maximilienroberti/lerobotdepot) - LeRobotDepotは、オープンソースのハードウェアやコンポーネント、およびLeロボトライブラリと互換性のある3Dプリント可能なプロジェクトをリストするコミュニティ主導のリポジトリです。 ユーザーは簡単に発見し、構築し、そして... <sub>⭐ 249</sub>
+- [mjl/particle_filter_demo](https://github.com/mjl/particle_filter_demo) - ロボットの位置のための簡単な粒子フィルタの例、スタンフォードのAI入門 <sub>⭐ 249 · Python</sub>
+- [reiniscimurs/DRL-Robot-Navigation-ROS2](https://github.com/reiniscimurs/DRL-Robot-Navigation-ROS2) - ROS2 Gazeboシミュレータでモバイルロボットナビゲーションのためのディープ・レインフォースメント学習。 DRL(SAC、TD3)ニューラルネットワークを使用して、ロボットはシミュレーションされた環境でランダムなゴールポイントに移動することを学びます... <sub>⭐ 249 · Python</sub>
+- [rr-learning/CausalWorld](https://github.com/rr-learning/CausalWorld) - CausalWorld: 航海構造と移動学習のためのロボティック操作のベンチマーク <sub>⭐ 248 · Python</sub>
+- [NVlabs/ENPIRE](https://github.com/NVlabs/ENPIRE) - ENPIREは、AIコーディングエージェントがクローズドループの物理試験、エラー、進化を通じて現実的なロボットポリシーを自律的に自動改善することを可能にする有能なフレームワークです。 <sub>⭐ 247 · Python</sub>
+- [kyegomez/RT-X](https://github.com/kyegomez/RT-X) - 紙からモデルRT-1-XとRT-2-XのPytorch実装:「X-エンボディメントを開く:ロボット学習データセットおよびRT-Xモデル」 <sub>⭐ 246 · Python</sub>
+- [rokbenko/quackd](https://github.com/rokbenko/quackd) - すべてのロボットのための1つのCLI。それらを接続し、それらをコマンドし、それらが一緒に働くようにしましょう。それぞれは、脳(クラウデ、OpenAI、Gemini、グルク、またはオラマやvLLMを介してローカル)、VLAを組み合わせて動作させます... <sub>⭐ 246 · Python</sub>
+- [jherrodthomas/robotics-skills-suite](https://github.com/jherrodthomas/robotics-skills-suite) - 産業用ロボット、コボット、AMR、ROS2、V&V、AI/ML、およびIEC 62443のライフサイクルを自動化する76監査レディ・クロードスキル。 38ビルダー+レビューアーはISO 10218、13849、62061、12100、9283に固定されています... <sub>⭐ 245 · Python</sub>
+- [OpenDriveLab/EgoHumanoid](https://github.com/OpenDriveLab/EgoHumanoid) - (RSS 2026) ヒトロイドロボットが、エゴセントリックの人間のデモから全身ロコマニピュレーションを学ぶことを可能にする最初のフレームワーク <sub>⭐ 244 · Python</sub>
+- [amathislab/musclemimic](https://github.com/amathislab/musclemimic) - MuscleMimicでエンボディドAIに対向する公式リポジトリ:スケールでの全身の筋骨格運動学習をアンロック <sub>⭐ 243 · Python</sub>
+- [Tencent-RoboticsX/lifelike-agility-and-play](https://github.com/Tencent-RoboticsX/lifelike-agility-and-play) - 補強学習と遺伝子組み換えモデルを用いたクワルダーロボットでの生活化・再生のためのプロジェクトページ <sub>⭐ 243 · Python</sub>
+- [WM-PO/WMPO](https://github.com/WM-PO/WMPO) - 論文の公式実装:WMPO: Vision-Language-Actionモデルのための世界モデルベースのポリシー最適化 <sub>⭐ 241 · Python</sub>
+- [Fanqi-Lin/OneTwoVLA](https://github.com/Fanqi-Lin/OneTwoVLA) - 「OneTwoVLA: 適応型レソンを用いた統一ビジョン言語アクションモデル」の公式実装 <sub>⭐ 239 · Python</sub>
+- [OriNachum/autonomous-intelligence](https://github.com/OriNachum/autonomous-intelligence) - リアルタイムマルチモーダルの認識、音声ツースピーチとのやりとりを組み合わせたエンボディドAIシステム。NVIDIA Jetsonハードウェアに関する自律的な意識。 <sub>⭐ 237 · Python</sub>
+- [PRBonn/bonnetal](https://github.com/PRBonn/bonnetal) - Bonnet と、いくつか!さまざまな画像認識タスクのためのディープラーニングフレームワーク. 写真集やロボティクスラボ, ボン大学 <sub>⭐ 236 · Python</sub>
+- [personalrobotics/aikido](https://github.com/personalrobotics/aikido) - Kinematics、ダイナミクスおよび最適化のための人工知能 <sub>⭐ 235 · C++</sub>
+- [taco-group/GenAI4AD](https://github.com/taco-group/GenAI4AD) - 全自動運転スタックを横断するGenAIの新たな役割を包括的かつ重要な統合 <sub>⭐ 233</sub>
+- [AIR-DISCOVER/FreeAskWorld](https://github.com/AIR-DISCOVER/FreeAskWorld) - (AAAI 2026オーラル) FreeAskWorldは、高レベルな計画とエンボディされたAIにおける社会的に接地した相互作用のための大きな言語モデル(LLM)を統合するインタラクティブシミュレーションフレームワークです。 <sub>⭐ 232 · Python</sub>
+- [rllab-snu/Stage-Wise-CMORL](https://github.com/rllab-snu/Stage-Wise-CMORL) - これは、紙「アクロバティックロボットのためのステージ・ワイズ・リワード・シェイピング: 制約された多目的補強学習アプローチ」の公式GitHubリポジトリです。 <sub>⭐ 229 · Python</sub>
+- [hku-sail/StreamPI](https://github.com/hku-sail/StreamPI) - (NeurIPS 2026) 「StreamPI: Vision-Language-Action Model のマルチモーダル・フォーマル・モデリング」の公式コード <sub>⭐ 227 · Python</sub>
+- [declare-lab/nora](https://github.com/declare-lab/nora) - NORA:コンボディッドタスクのための小規模なオープンソースのジェネリスト・ビジョン言語アクションモデル <sub>⭐ 224 · Python</sub>
+- [kindredresearch/SenseAct](https://github.com/kindredresearch/SenseAct) - SenseAct:現実のロボット学習タスクを開発するための計算フレームワーク <sub>⭐ 222 · Python</sub>
+- [uw-biorobotics/IKBT](https://github.com/uw-biorobotics/IKBT) - シンボリックフォームのロボットアームインバース・キネマティクスを解決するためのPythonパッケージ <sub>⭐ 221 · Python</sub>
+- [noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV) - ROS2 ディープラーニングとオブジェクトによる自動運転車がopenCVで追跡 <sub>⭐ 217 · Python</sub>
+- [Marine-RL/MarineGym](https://github.com/Marine-RL/MarineGym) - (IROS 2025) MarineGym:水中ロボティクス向け高性能強化学習プラットフォーム;お問い合わせメール:zjuoyh@163.com <sub>⭐ 216 · Python</sub>
+- [PKU-Alignment/VLA-Arena](https://github.com/PKU-Alignment/VLA-Arena) - VLA-Arenaは、Vision-Language-Action(VLA)モデルの系統的評価のためのオープンソースベンチマークです。 <sub>⭐ 216 · Python</sub>
+- [apexrl/awesome-rl-for-legged-locomotion](https://github.com/apexrl/awesome-rl-for-legged-locomotion) - 強化学習(RL)と同時進行技術を用いた、立法ロボットのロコモーションに関する素晴らしい材料のリストをキュレーション。 <sub>⭐ 215</sub>
+- [PhyScene/PhyScene](https://github.com/PhyScene/PhyScene) - CVPR 2024ハイライトペーパー「ピューシェン:体外に作用する3Dシーン合成のエンボディドAI」コード実装 <sub>⭐ 215 · Python</sub>
+- [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) - 体型AIランタイム - 管理された行動、検証済みの経験、物理メモリ、スキルの進化。 <sub>⭐ 214 · Python</sub>
+- [AlexKaravaev/world-creator](https://github.com/AlexKaravaev/world-creator) - LLM-based シミュレーションの世界創造のためのCLIユーティリティ。 <sub>⭐ 213 · Python</sub>
+- [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - 強化学習ベースのロボットの動作制御のための展開フレームワーク, バイペダルをカバーします, クドルバル, ホイール付きバイダル, そして、車輪付きクワダロボット. <sub>⭐ 213 · Python</sub>
+- [OpenHelix-Team/LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) - LLaVA-VLA:シンプルなYet強力なビジョン言語アクションモデル(ICRA 2026) <sub>⭐ 213 · Python</sub>
+- [YINGLINGH/limioryn](https://github.com/YINGLINGH/limioryn) - Edge-cloud は、AI エージェントを検証可能なアクチュアレーションとエントロピー・バウンドの回復でリアルタイムデバイスに接続するためのマルチエージェント実行フレームワークです。 <sub>⭐ 213 · Python</sub>
+- [xjtuiair-cag/XJTU-Tripler](https://github.com/xjtuiair-cag/XJTU-Tripler) - XJTU-Triplerは、CAG、AI&ロボティクス研究所、XJTUが開発したFPGAフレンドリーDNNアクセラレータであるHiPU100をベースにしています。 <sub>⭐ 212 · VHDL</sub>
+- [RayYoh/Awesome-Robot-Learning](https://github.com/RayYoh/Awesome-Robot-Learning) - このリポジトリには、ロボット学習(主に操作のために)リソースの治癒的なリストが含まれています。 <sub>⭐ 209</sub>
+- [TianxingChen/RoboScholar](https://github.com/TianxingChen/RoboScholar) - RoboScholar:エンボディドAIとロボティクス研究の総合論文リスト <sub>⭐ 206</sub>
+- [gbionics/jaxsim](https://github.com/gbionics/jaxsim) - 制御とロボット学習のためのさまざまな物理エンジンとマルチボディダイナミクスライブラリ。 <sub>⭐ 204 · Python</sub>
+- [carlosferrazza/BodyTransformer](https://github.com/carlosferrazza/BodyTransformer) - ボディトランス:政策学習のためのロボットのエンボディメントを活用 <sub>⭐ 202 · Jupyter Notebook</sub>
+- [hsp-iit/pybullet-robot-envs](https://github.com/hsp-iit/pybullet-robot-envs) - PyBulletシミュレータに基づいて、ロボット環境を収集するPythonパッケージは、シミュレーションされた把握と操作アプリケーションに関するReinforcement Learningアルゴリズムを開発しテストするのに適しています。 <sub>⭐ 201 · Python</sub>
+- [LightwheelAI/LW-BenchHub](https://github.com/LightwheelAI/LW-BenchHub) - LW-BenchHubは、Isaac Lab–Arenaで構築された統一ベンチマークハブです。エンボディされたAIのために、一貫性のあるインターフェイス、現実的な環境、マルチロボットのサポート、および大規模な評価を提供します。 これらには... <sub>⭐ 201 · Python</sub>
+- [zhihengli-casia/AI-Paper-Trends](https://github.com/zhihengli-casia/AI-Paper-Trends) - オープンソースのAI用紙インデックスと、主要な会議やジャーナルを横断した細かいトピック。 <sub>⭐ 201 · Python</sub>
+- [cvlab-kaist/Geometric-Action-Model](https://github.com/cvlab-kaist/Geometric-Action-Model) - 「ロボット政策学習のためのGeometric Action Model」の公式実装 <sub>⭐ 200 · Python</sub>
+- [InternRobotics/F1-VLA](https://github.com/InternRobotics/F1-VLA) - F1: ビジョン言語行動モデルのブリッジング理解とアクションへの世代別 <sub>⭐ 199 · Python</sub>
+- [JuliaRobotics/Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) - ロボティックローカリゼーションとマッピング、NavAbility(TM)と連携。ヘルプはinfo@wherewhen.aiに問い合わせてください。 <sub>⭐ 199 · Julia</sub>
+- [reiniscimurs/GDAE](https://github.com/reiniscimurs/GDAE) - 未知の環境で、再アクティブと計画されたロボットのナビゲーションを組み合わせるディープ・補強学習(ICRA 2022)システムによる目標駆動自律探査 <sub>⭐ 199 · Python</sub>
+- [babycommando/machinascript-for-robots](https://github.com/babycommando/machinascript-for-robots) - ロボット向けマチナスクリプトでガレージにLM搭載のロボットを組み立てよう! <sub>⭐ 198 · Python</sub>
+- [WhatIThinkAbout/BabyRobot](https://github.com/WhatIThinkAbout/BabyRobot) - 赤ちゃんロボットの補強学習ガイド <sub>⭐ 198 · Jupyter Notebook</sub>
+- [NVIDIA-AI-IOT/ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - LLM、VLM、VLAのROS2ノード <sub>⭐ 197 · Python</sub>
+- [OpenMOSS/FRoM-W1](https://github.com/OpenMOSS/FRoM-W1) - (arXiv 26) 一般ヒューマノイドロボットの言語ガイド全体制御 <sub>⭐ 195 · Python</sub>
+- [YuZhaoshu/Efficient-VLAs-Survey](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) - (TPAMI 2026) これは、「効率的なビジョン言語アクションモデルに関する調査」のキュレーションリストです。 私たちは、リポジトリを維持し、更新し続けるので、最新の状態に保つために私たちに従ってください... <sub>⭐ 193</sub>
+- [iLearn-Lab/NeurIPS25-CogVLA](https://github.com/iLearn-Lab/NeurIPS25-CogVLA) - (NeurIPS 2025) CogVLA: Instruction-Driven Routing & SparsificationによるCognition-Aligned Vision-Language-Actionモデル <sub>⭐ 192 · Python</sub>
+- [reality-opened/openreality](https://github.com/reality-opened/openreality) - Open Reality: 携帯電話の動画をAI対応3Dシーンへ。Claude/Codex/Cursor(npm openreality-mcp)、セルフホスト可能なブローカー、VGGT-SLAMライブラリのMCPツールが1つのリポジトリで使用できます。 BSD-2-Clause. <sub>⭐ 192 · Python</sub>
+- [neoteai/N0-VTLA](https://github.com/neoteai/N0-VTLA) - N0-VTLA: ラテントの蝕知トークンが付いているスケールリング ビジョン蝕知言語行為モデル <sub>⭐ 190 · Python</sub>
+- [v-modal/physical_ai_stack](https://github.com/v-modal/physical_ai_stack) - 物理的なAI層のためのSDKおよび積み重ね <sub>⭐ 190</sub>
+- [intel/ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - このリポジトリは、Intel® OpenVINOTM ToolkitをROS 2(Robot Operating System)と統合するためのツールおよびライブラリのセットを提供し、ディープラーニングモデルの効率的な導入を可能にしています。 <sub>⭐ 187 · C++</sub>
+- [Argo-Robot/foundation_models](https://github.com/Argo-Robot/foundation_models) - ロボット操作のための最先端の模造学習技術の概要、多様なタスクや環境における汎用化を可能にします。 <sub>⭐ 186</sub>
+- [RoblabWh/RobLearn](https://github.com/RoblabWh/RobLearn) - ROSロボティックディープラーニング <sub>⭐ 183 · Python</sub>
+- [Seeed-Projects/reComputer-Jetson-for-Beginners](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) - 初心者向けJetsonへのガイド <sub>⭐ 180 · Python</sub>
+- [learn-to-race/l2r](https://github.com/learn-to-race/l2r) - ICCV 2021の会議紙として、SL4AD@ICML2022とAI4AD@IJCAI2022の両方で公式チャレンジトラックとして特集されたオートノマイズレースのためのオープンソース強化学習環境。... <sub>⭐ 177 · Python</sub>
+- [InternRobotics/InternManip](https://github.com/InternRobotics/InternManip) - 様々なデータセットやベンチマークに関するポリシーモデルのトレーニングと評価のためのオールインワンロボット操作学習スイート。 <sub>⭐ 175 · Python</sub>
+- [openags/Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - AIサイエンティスト/ロボット科学者に関するリソースと紙のコレクション <sub>⭐ 175</sub>
+- [Ariostgx/ript-vla](https://github.com/Ariostgx/ript-vla) - Vision-Language-Actionモデルのインタラクティブなポストトレイン <sub>⭐ 172 · Python</sub>
+- [Open-X-Humanoid/XR-1](https://github.com/Open-X-Humanoid/XR-1) - 統一されたビジョン-モーション表現を学習することにより、汎用性 Vision-Language-Action モデルへ <sub>⭐ 172 · Python</sub>
+- [Kin-Zhang/simple_ndt_slam](https://github.com/Kin-Zhang/simple_ndt_slam) - モバイルロボット、サポートマッピング、ローカリゼーション(Autoware.ai からorigin)にクイックデプロイされたシンプルなndt slam。 <sub>⭐ 171 · C++</sub>
+- [XuPeng23/AeroVLA](https://github.com/XuPeng23/AeroVLA) - (以前はAeroVLAとして知られている)のECCV 2026)公式リポジトリに受け入れてください。MinimalistエンドツーエンドコントロールによるUAVナビゲーション用のVision-Language-Actionモデル <sub>⭐ 169 · Python</sub>
+- [zhiyiYo/Alpha-Gobang-Zero](https://github.com/zhiyiYo/Alpha-Gobang-Zero) - 強化学習に基づくゴバンロボット。 <sub>⭐ 169 · Python</sub>
+- [ustcwhy/BitVLA](https://github.com/ustcwhy/BitVLA) - BitVLAの公式実装:ロボティクス・マニピュレーションのための1ビット Vision-Language-Actionモデル <sub>⭐ 167 · Python</sub>
+- [akdeb/OpenToys](https://github.com/akdeb/OpenToys) - MacBookとArduino ESP32で動作するローカルAIのおもちゃ、ロボット、デバイスを作る <sub>⭐ 164 · TypeScript</sub>
+- [daniel-s-ingram/ai_for_robotics](https://github.com/daniel-s-ingram/ai_for_robotics) - Sebastian Thrunの優れた人工知能(ロボティクス・コース)で覆われたアルゴリズムを可視化。 <sub>⭐ 163 · Python</sub>
+- [RobotControlStack/robot-control-stack](https://github.com/RobotControlStack/robot-control-stack) - Vision-Language-Action(VLA)モデルとRLエージェントのトレーニングおよびデプロイのための、ロースフリーのシムツーリアルフレームワーク。 ネイティブ MuJoCo Gymnasium wrappers with Franka、UR5e... <sub>⭐ 163 · Python</sub>
+- [yanming03/awesome-humanoid-manipulation](https://github.com/yanming03/awesome-humanoid-manipulation) - ヒューマノイド操作、デキステラス操作、バイマンアルなデキステラル操作、インハンド操作、人型操作に関する素晴らしい論文とリソースのキュレーションリスト。 <sub>⭐ 163</sub>
+- [Geonhee-LEE/ur-reaching-reinforcement-learning](https://github.com/Geonhee-LEE/ur-reaching-reinforcement-learning) - RLkit、UR5、ROS(Robot Operating System)のロボティック・グリッパーを用いた補強学習 <sub>⭐ 162 · Python</sub>
+- [LyapunovJingci/Warehouse_Robot_Path_Planning](https://github.com/LyapunovJingci/Warehouse_Robot_Path_Planning) - Q学習と転送学習を使用して倉庫のシナリオに基づく複数のエージェントパス計画ソリューション。 <sub>⭐ 162 · Python</sub>
+- [agenticros/agenticros](https://github.com/agenticros/agenticros) - OpenClaw、Claude(コード、デスクトップ、Dispatch)、Codex、Google Gemini、Heermes、MCPなどのROSプラグイン <sub>⭐ 161 · C</sub>
+- [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) - VLA-RFT: 強化ファインチューニングによるビジョン言語アクションモデル <sub>⭐ 161 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C戦略的ハイライト2019年9月 2019年度W3C諮問委員会会議(W3Cメンバーリンク)の準備ができました。 同行のW3C事実シートを参照してください - 9月2019.... <sub>⭐ 160</sub>
+- [PKU-Alignment/SafeVLA](https://github.com/PKU-Alignment/SafeVLA) - (NeurIPS 2025スポットライト) 制約学習によるビジョン言語アクションモデルの安全性アライメントに向けて。 <sub>⭐ 156 · Python</sub>
+- [natnew/awesome-physical-ai](https://github.com/natnew/awesome-physical-ai) - 物理AI/エンボディドAIで学習、構築、展開、そして滞在するロボティクス+人工知能リソースのキュレーションリスト。好きならスター! <sub>⭐ 155 · MDX</sub>
+- [Motphys/MotrixLab](https://github.com/Motphys/MotrixLab) - ロボットトレーニング用に設計された汎用機械学習アーキテクチャ <sub>⭐ 152 · Python</sub>
 
 ## 🔌 TinyMLと組み込みAI
 
 > マイコンやESP32、Arduinoなどのボード上で動くモデル。
 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs <sub>⭐ 91.6k · Go</sub>
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra <sub>⭐ 39.2k · TypeScript</sub>
-- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps <sub>⭐ 28.6k · C#</sub>
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ <sub>⭐ 17.1k · Go</sub>
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. <sub>⭐ 16.2k · C++</sub>
-- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to… <sub>⭐ 15.5k · HTML</sub>
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. <sub>⭐ 13.0k · Python</sub>
-- [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally <sub>⭐ 10.3k · C++</sub>
-- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux) <sub>⭐ 8.9k · JavaScript</sub>
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world <sub>⭐ 8.8k · C++</sub>
-- [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. <sub>⭐ 8.2k · Python</sub>
-- [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge. <sub>⭐ 5.9k · Go</sub>
-- [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch <sub>⭐ 5.1k · Python</sub>
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models <sub>⭐ 5.1k · Rust</sub>
-- [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud. <sub>⭐ 3.9k · Python</sub>
-- [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x... <sub>⭐ 3.8k · TypeScript</sub>
-- [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors). <sub>⭐ 3.1k · C++</sub>
-- [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk… <sub>⭐ 2.9k · TypeScript</sub>
-- [google-coral/coralnpu](https://github.com/google-coral/coralnpu) - A machine learning accelerator core designed for energy-efficient AI at the edge. <sub>⭐ 2.6k · Emacs Lisp</sub>
-- [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) - Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more. <sub>⭐ 2.2k · C</sub>
-- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32 <sub>⭐ 2.2k · C</sub>
-- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) <sub>⭐ 2.2k · Python</sub>
-- [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs <sub>⭐ 2.1k · Python</sub>
-- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM… <sub>⭐ 2.1k · C++</sub>
-- [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC) - PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 图像翻译，条件GAN，AI绘画 <sub>⭐ 2.1k · Python</sub>
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices <sub>⭐ 2.0k · TypeScript</sub>
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker. <sub>⭐ 2.0k · TypeScript</sub>
-- [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all) - (ICLR 2020) Once for All: Train One Network and Specialize it for Efficient Deployment <sub>⭐ 2.0k · Python</sub>
-- [uTensor/uTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library <sub>⭐ 1.9k · C++</sub>
-- [yomorun/yomo](https://github.com/yomorun/yomo) - Serverless AI Agent Framework with Geo-distributed Edge AI Infra. <sub>⭐ 1.9k · Rust</sub>
-- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration <sub>⭐ 1.9k · C</sub>
-- [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards. <sub>⭐ 1.8k · Python</sub>
-- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot. <sub>⭐ 1.7k · TypeScript</sub>
-- [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners) - This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model… <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [sipeed/MaixPy-v1](https://github.com/sipeed/MaixPy-v1) - MicroPython for K210 RISC-V, let's play with edge AI easier <sub>⭐ 1.7k · Python</sub>
-- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation… <sub>⭐ 1.6k · Python</sub>
-- [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API. <sub>⭐ 1.4k · Python</sub>
-- [AI-FanGe/OpenAIglasses_for_Navigation](https://github.com/AI-FanGe/OpenAIglasses_for_Navigation) - a open framework for blind navigation based on esp32 <sub>⭐ 1.4k · Python</sub>
-- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) +… <sub>⭐ 1.4k · TypeScript</sub>
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio… <sub>⭐ 1.4k · JavaScript</sub>
-- [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA… <sub>⭐ 1.3k · JavaScript</sub>
-- [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents… <sub>⭐ 1.3k · TypeScript</sub>
-- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on… <sub>⭐ 1.3k · Java</sub>
-- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. <sub>⭐ 1.3k · Go</sub>
-- [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Production-grade C++ edge AI engine for video analytics and on-device VLM across Sophon, Rockchip RKNN, and x86, with visual orchestration, real-time OSD, events, and reproducible benchmarks. <sub>⭐ 1.2k · C</sub>
-- [majianjia/nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers. <sub>⭐ 1.2k · C</sub>
-- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare's edge network <sub>⭐ 1.1k · TypeScript</sub>
-- [HarryR/z80ai](https://github.com/HarryR/z80ai) - Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage… <sub>⭐ 1.1k · Python</sub>
-- [Dobiasd/frugally-deep](https://github.com/Dobiasd/frugally-deep) - A lightweight header-only library for using Keras (TensorFlow) models in C++. <sub>⭐ 1.1k · C++</sub>
-- [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A <sub>⭐ 1.1k · C</sub>
-- [microsoft/Biodiversity](https://github.com/microsoft/Biodiversity) - Microsoft AI for Good Lab — Biodiversity research hub. Open-source AI models, edge devices, and tools for biodiversity monitoring and conservation. Your source for MegaDetector, SPARROW… <sub>⭐ 1.1k · Python</sub>
-- [sipeed/TinyMaix](https://github.com/sipeed/TinyMaix) - TinyMaix is a tiny inference library for microcontrollers (TinyML). <sub>⭐ 1.1k · C</sub>
-- [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library <sub>⭐ 1.0k · C++</sub>
-- [gigwegbe/tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects) - This is a list of interesting papers and projects about TinyML. <sub>⭐ 1.0k</sub>
-- [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - (NeurIPS 2020) MCUNet: Tiny Deep Learning on IoT Devices; (NeurIPS 2021) MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; (NeurIPS 2022) MCUNetV3: On-Device Training Under… <sub>⭐ 962 · C</sub>
-- [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate. <sub>⭐ 954 · Python</sub>
-- [openvinotoolkit/model_server](https://github.com/openvinotoolkit/model_server) - A scalable inference server for models optimized with OpenVINO™ <sub>⭐ 940 · C++</sub>
-- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt). <sub>⭐ 876 · Go</sub>
-- [sipeed/MaixPy](https://github.com/sipeed/MaixPy) - Easily create AI projects with Python on edge device <sub>⭐ 856 · Python</sub>
-- [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us! <sub>⭐ 849 · TypeScript</sub>
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes <sub>⭐ 837 · Python</sub>
-- [johnolafenwa/DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices <sub>⭐ 818 · Python</sub>
-- [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads <sub>⭐ 816 · JavaScript</sub>
-- [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (<10ms) search without vector databases. Built for browser, edge, on-device, and cloud. <sub>⭐ 786 · Python</sub>
-- [emlearn/emlearn](https://github.com/emlearn/emlearn) - Machine Learning inference engine for Microcontrollers and Embedded devices <sub>⭐ 763 · Python</sub>
-- [mit-han-lab/mcunet](https://github.com/mit-han-lab/mcunet) - (NeurIPS 2020) MCUNet: Tiny Deep Learning on IoT Devices; (NeurIPS 2021) MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning <sub>⭐ 717 · Python</sub>
-- [Deuz-AI/Deuz-SDK](https://github.com/Deuz-AI/Deuz-SDK) - Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool calling, human-in-the-loop approval, planning and CodeAct sandboxes. One… <sub>⭐ 697 · TypeScript</sub>
-- [ROBOTIS-GIT/open_manipulator](https://github.com/ROBOTIS-GIT/open_manipulator) - AI Manipulator and Open Manipulator <sub>⭐ 668 · Python</sub>
-- [OwlAIProject/Owl](https://github.com/OwlAIProject/Owl) - A personal wearable AI that runs locally <sub>⭐ 664 · Python</sub>
-- [google/sec-gemini](https://github.com/google/sec-gemini) - Sec-Gemini is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. <sub>⭐ 662 · Svelte</sub>
-- [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) - A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise… <sub>⭐ 639</sub>
-- [DenisovAV/flutter_edge_ai](https://github.com/DenisovAV/flutter_edge_ai) - The Flutter plugin allows running the Gemma AI model locally on a device from a Flutter application. <sub>⭐ 629 · JavaScript</sub>
-- [ai-techsystems/deepC](https://github.com/ai-techsystems/deepC) - vendor independent TinyML deep learning library, compiler and inference framework microcomputers and micro-controllers <sub>⭐ 606 · C++</sub>
-- [second-state/echokit_server](https://github.com/second-state/echokit_server) - Open Source Voice Agent Platform <sub>⭐ 592 · Rust</sub>
-- [GitHpriyanshu23/Smart-Plant-Doctor](https://github.com/GitHpriyanshu23/Smart-Plant-Doctor) - Smart Plant Doctor is an AI + IoT plant health platform that streams realtime ESP32 sensor data to a Streamlit dashboard and uses a MobileNetV2-based model for plant disease detection with treatment… <sub>⭐ 579 · Python</sub>
-- [NVIDIA/TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI <sub>⭐ 579 · Python</sub>
-- [codefuse-ai/CodeFuse-Embeddings](https://github.com/codefuse-ai/CodeFuse-Embeddings) - Text and code embeddings research from CodeFuse: C2LLM, D2LLM, E2LLM, F2LLM, ML-Embed <sub>⭐ 575 · Python</sub>
-- [SmythOS/smythos-studio](https://github.com/SmythOS/smythos-studio) - SmythOS Studio: Open-Source Visual AI Agent Builder and deployable runtime stack from SmythOS. Start with an intuitive drag-and-drop workspace, extend with custom code, and deploy your agents… <sub>⭐ 562 · TypeScript</sub>
-- [raphaelbs/esp32-cam-ai-thinker](https://github.com/raphaelbs/esp32-cam-ai-thinker) - Informations and examples about A.I. Thinker ESP32-CAM using ESP-IDF <sub>⭐ 550</sub>
-- [BaseModelAI/cleora](https://github.com/BaseModelAI/cleora) - Cleora AI is a general-purpose open-source model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data. Created by Synerise.com team. <sub>⭐ 545 · Jupyter Notebook</sub>
-- [superlinked/VectorHub](https://github.com/superlinked/VectorHub) - Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR, extraction, and document processing. <sub>⭐ 531 · Jupyter Notebook</sub>
-- [BrowserOperator/browser-operator-core](https://github.com/BrowserOperator/browser-operator-core) - Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser <sub>⭐ 509 · TypeScript</sub>
-- [qunqin24/Pulse](https://github.com/qunqin24/Pulse) - Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding tools you have left — a free, open-source macOS monitor on the edge of your screen. <sub>⭐ 496 · Swift</sub>
-- [lablup/mlxcel](https://github.com/lablup/mlxcel) - High-performance LLM, VLM, embedding, reranking, and audio inference for Apple Silicon and NVIDIA CUDA systems. <sub>⭐ 472 · Rust</sub>
-- [Blaizzy/mlx-embeddings](https://github.com/Blaizzy/mlx-embeddings) - MLX-Embeddings is the best package for running Vision and Language Embedding models locally on your Mac using MLX. <sub>⭐ 449 · Python</sub>
-- [Seeed-Studio/ModelAssistant](https://github.com/Seeed-Studio/ModelAssistant) - Seeed SenseCraft Model Assistant is an open-source project focused on embedded AI. <sub>⭐ 446 · Python</sub>
-- [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in… <sub>⭐ 428 · JavaScript</sub>
-- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A streaming multimodal database for Edge AI, and Edge Computing. <sub>⭐ 426 · Go</sub>
-- [OctagonAI/kalshi-trading-bot-cli](https://github.com/OctagonAI/kalshi-trading-bot-cli) - AI-native CLI for trading Kalshi prediction markets. Runs deep fundamental research, generates independent probability estimates, computes edge vs. live order books, and executes trades with Kelly… <sub>⭐ 394 · TypeScript</sub>
-- [ZantFoundation/Z-Ant](https://github.com/ZantFoundation/Z-Ant) - Zant simplifies the deployment and optimization of neural networks on microprocessors <sub>⭐ 388 · Zig</sub>
-- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Edge full-stack LLM platform. Written in Rust <sub>⭐ 383 · Rust</sub>
-- [ahmedeltaher/azan-mcp](https://github.com/ahmedeltaher/azan-mcp) - Azan + Prayer Time + MCP + AI Agents + Islamic + Salah + A lightweight MCP library to calculate prayer times and trigger Azan with a single tool call. If you’re building an AI agent or prayer… <sub>⭐ 381 · Python</sub>
-- [igorantolic/ai-esp32-rotary-encoder](https://github.com/igorantolic/ai-esp32-rotary-encoder) - Easy implement rotary encoder to your application using microcontroler like ESP32 <sub>⭐ 378 · C++</sub>
-- [Paulescu/image-classification-with-local-vlms](https://github.com/Paulescu/image-classification-with-local-vlms) - Learn to build and deploy local Visual Language Models for Edge AI <sub>⭐ 377 · Jupyter Notebook</sub>
-- [edgenai/edgen](https://github.com/edgenai/edgen) - Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others. <sub>⭐ 367 · Rust</sub>
-- [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose. <sub>⭐ 367 · C</sub>
-- [askaitools/askaitools-community-edition](https://github.com/askaitools/askaitools-community-edition) - A cutting-edge search engine project tailored specifically for the AI product <sub>⭐ 354 · TypeScript</sub>
-- [cpldcpu/BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on low end 32 bit microcontrollers such as the CH32V003 RISC-V Microcontroller and others <sub>⭐ 344 · C</sub>
-- [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model <sub>⭐ 341 · Python</sub>
-- [DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub) - This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction.… <sub>⭐ 340 · Shell</sub>
-- [microsoft/vscode-tools-for-ai](https://github.com/microsoft/vscode-tools-for-ai) - Azure Machine Learning for Visual Studio Code, previously called Visual Studio Code Tools for AI, is an extension to easily build, train, and deploy machine learning models to the cloud or the edge… <sub>⭐ 339 · Python</sub>
-- [cosdata/cosdata](https://github.com/cosdata/cosdata) - Cosdata: A cutting-edge AI data platform for next-gen search pipelines. Features semantic search, hybrid capabilities, real-time scalability, and ML integration. Designed for immutability and version… <sub>⭐ 338 · Rust</sub>
-- [ztachip/ztachip](https://github.com/ztachip/ztachip) - Opensource software/hardware platform to build edge AI solutions deployed on FPGA or custom ASIC hardware. <sub>⭐ 338 · VHDL</sub>
-- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - A hands-free mini walkie-talkie powered by embedded AI, featuring automatic voice detection, keyword-triggered animations, and real-time speech-to-text display. <sub>⭐ 336 · C</sub>
-- [Mjrovai/XIAO-ESP32S3-Sense](https://github.com/Mjrovai/XIAO-ESP32S3-Sense) - Seeed Studio XIAO ESP32S3 Sense integrates a camera sensor, digital microphone, and SD card support. Combining embedded ML computing power and photography capability, this development board is a… <sub>⭐ 330 · Jupyter Notebook</sub>
-- [jonnor/embeddedml](https://github.com/jonnor/embeddedml) - Notes on Machine Learning on edge for embedded/sensor/IoT uses <sub>⭐ 315 · Jupyter Notebook</sub>
-- [PacktPublishing/TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook) - TinyML Cookbook, published by Packt <sub>⭐ 315 · Jupyter Notebook</sub>
-- [dcmartin/motion-ai](https://github.com/dcmartin/motion-ai) - AI assisted motion detection for Home Assistant <sub>⭐ 310 · Jupyter Notebook</sub>
-- [bharathsudharsan/TinyML-CAM](https://github.com/bharathsudharsan/TinyML-CAM) - Code for MobiCom paper 'TinyML-CAM: 80 FPS Image Recognition in 1 Kb RAM' <sub>⭐ 309 · Jupyter Notebook</sub>
-- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - AI-powered YouTube video dubbing pipeline. Automatically transcribes (Whisper), translates (Google), and generates neural dubbing (Edge-TTS) with smart audio-video synchronization and background… <sub>⭐ 304 · Python</sub>
-- [denser-org/denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy. <sub>⭐ 296 · Python</sub>
-- [securade/hub](https://github.com/securade/hub) - Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart. <sub>⭐ 291 · Python</sub>
-- [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) - AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversarial ML techniques. This repository is dedicated to offensive and defensive… <sub>⭐ 290</sub>
-- [1nfinityLoop/Sudoku-Solver-AI](https://github.com/1nfinityLoop/Sudoku-Solver-AI) - I made a real time Sudoku solver using the camera, it looks for the edges of the Sudoku in the frame, extracts it, solves it and overlays the solution on the puzzle itself. For the digit recognition… <sub>⭐ 286 · Python</sub>
-- [yesbhautik/Whatsapp-Ai-BOT](https://github.com/yesbhautik/Whatsapp-Ai-BOT) - Introducing the AI Chatbot for WhatsApp - a cutting-edge solution powered by OpenAI's ChatGPT, Playground & DALL·E. This innovative chatbot has been developed using NodeJS technology and leverages… <sub>⭐ 283 · JavaScript</sub>
-- [microsoft/finnts](https://github.com/microsoft/finnts) - Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and parallelization on the cloud to produce accurate forecasts… <sub>⭐ 274 · R</sub>
-- [NVIDIA/DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across… <sub>⭐ 266 · C++</sub>
-- [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in… <sub>⭐ 266 · Python</sub>
-- [michellzappa/headroom](https://github.com/michellzappa/headroom) - Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display. <sub>⭐ 265 · Python</sub>
-- [NVIDIA/OSMO](https://github.com/NVIDIA/OSMO) - The developer-first platform for scaling complex Physical AI workloads across heterogeneous compute—unifying training GPUs, simulation clusters, and edge devices in a simple YAML <sub>⭐ 264 · Python</sub>
-- [Fraunhofer-IMS/AIfES_for_Arduino](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino) - This is the Arduino® compatible port of the AIfES machine learning framework, developed and maintained by Fraunhofer Institute for Microelectronic Circuits and Systems. <sub>⭐ 261 · C</sub>
-- [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED displays. <sub>⭐ 254 · TypeScript</sub>
-- [ThHanke/ontosphere](https://github.com/ThHanke/ontosphere) - Browser-based RDF/ontology knowledge graph editor — load RDF from files, URLs or SPARQL endpoints; author nodes and edges on the canvas; run OWL-RL reasoning; apply multi-algorithm layout and… <sub>⭐ 247 · TypeScript</sub>
-- [xiaolai/insidebar-ai](https://github.com/xiaolai/insidebar-ai) - A browser extension for Chrome/Edge <sub>⭐ 245 · JavaScript</sub>
-- [longpth/ESP32CamAI](https://github.com/longpth/ESP32CamAI) - ESP32-CAM streaming to Android and processing AI tasks on Android <sub>⭐ 236 · Java</sub>
-- [SaarD00/AI-Youtube-Shorts-Generator](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) - Infinite content, zero manual editing. A fully automated 'faceless' video factory that turns trending topics into engaging YouTube Shorts using Gemini AI, Edge-TTS, and dynamic FFmpeg editing <sub>⭐ 232 · Python</sub>
-- [IngestAI/embedditor](https://github.com/IngestAI/embedditor) - GUI for editing LLM vector embeddings. No more blind chunking. Upload content in any file extension, join and split chunks, edit metadata and embedding tokens + remove stop-words and punctuation with… <sub>⭐ 227 · PHP</sub>
-- [nvidia-holoscan/holoscan-sdk](https://github.com/nvidia-holoscan/holoscan-sdk) - The AI sensor processing SDK for low latency streaming workflows <sub>⭐ 225 · C++</sub>
-- [tinyMLx/courseware](https://github.com/tinyMLx/courseware) - In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable). <sub>⭐ 220</sub>
-- [vishwasg217/fin-sight](https://github.com/vishwasg217/fin-sight) - FinSight - Financial Insights at Your Fingertip: FinSight is a cutting-edge AI assistant tailored for portfolio managers, investors, and finance enthusiasts. It streamlines the process of gaining… <sub>⭐ 219 · Jupyter Notebook</sub>
-- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity… <sub>⭐ 218 · Jupyter Notebook</sub>
-- [jkmaina/LangGraphProjects](https://github.com/jkmaina/LangGraphProjects) - This is the official companion repository for the book The Complete LangGraph Blueprint: Build 50+ AI Agents for Business Success. The repository provides source code, practical examples, and… <sub>⭐ 217 · Python</sub>
-- [second-state/echokit_box](https://github.com/second-state/echokit_box) - ESP32 firmware for the EchoKit voice device <sub>⭐ 217 · Rust</sub>
-- [BIGPPWONG/EdgeBox](https://github.com/BIGPPWONG/EdgeBox) - A fully-featured, GUI-powered local LLM Agent sandbox with complete MCP protocol support. Features both CLI and full desktop environment, enabling AI agents to operate browsers, terminal, and other… <sub>⭐ 212 · TypeScript</sub>
-- [google-ai-edge/ai-edge-quantizer](https://github.com/google-ai-edge/ai-edge-quantizer) - AI Edge Quantizer: flexible post training quantization for LiteRT models. <sub>⭐ 206 · Python</sub>
-- [TexasInstruments/edgeai-tidl-tools](https://github.com/TexasInstruments/edgeai-tidl-tools) - Edgeai TIDL Tools and Examples - This repository contains Tools and example developed for Deep learning runtime (DLRT) offering provided by TI’s edge AI solutions. <sub>⭐ 202 · Python</sub>
-- [NodeDB-Lab/nodedb](https://github.com/NodeDB-Lab/nodedb) - The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible. <sub>⭐ 201 · Rust</sub>
-- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors. <sub>⭐ 200 · TypeScript</sub>
-- [yifanlu0227/MIT-6.5940](https://github.com/yifanlu0227/MIT-6.5940) - All Homeworks for TinyML and Efficient Deep Learning Computing 6.5940 • Fall • 2023 • https://efficientml.ai <sub>⭐ 200 · Jupyter Notebook</sub>
-- [Adancurusul/embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis <sub>⭐ 197 · Rust</sub>
-- [jczic/MicroMLP](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules) <sub>⭐ 196 · Python</sub>
-- [pham-tuan-binh/wheatley-ai](https://github.com/pham-tuan-binh/wheatley-ai) - Real-time conversational AI on ESP32-S3 using LiveKit, WebRTC and SenseCap Watcher <sub>⭐ 195 · C</sub>
-- [matteocarnelos/microflow-rs](https://github.com/matteocarnelos/microflow-rs) - A robust and efficient TinyML inference engine. <sub>⭐ 194 · Rust</sub>
-- [cporter202/stock-market-signal-automation](https://github.com/cporter202/stock-market-signal-automation) - Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples. <sub>⭐ 193</sub>
-- [datasith/Ai_Tips_ESP8266](https://github.com/datasith/Ai_Tips_ESP8266) - Code from my "ESP8266 Tips & Tricks" tutorial series on YouTube <sub>⭐ 191 · C++</sub>
-- [M64GitHub/WireClaw](https://github.com/M64GitHub/WireClaw) - ESP32 AI agent with persistent memory and offline rule engine - chat to configure, run locally 24/7. (Telegram / Serial / NATS). <sub>⭐ 191 · C++</sub>
-- [jina-ai/mlx-retrieval](https://github.com/jina-ai/mlx-retrieval) - Train embedding and reranker models for retrieval tasks on Apple Silicon with MLX <sub>⭐ 187 · Python</sub>
-- [ShawnHymel/tinyml-example-anomaly-detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection) - TinyML example showing how to do anomaly detection with Python and Arduino <sub>⭐ 187 · Jupyter Notebook</sub>
-- [SensorsIot/Embedded-AI-Harness](https://github.com/SensorsIot/Embedded-AI-Harness) - AI Closed-Loop Programming for embedded systems — the AI writes, flashes, and tests firmware on real hardware until the tests run clean. Spec to silicon, hands off. <sub>⭐ 185 · Python</sub>
-- [techiesms/ESP32-ChatGPT](https://github.com/techiesms/ESP32-ChatGPT) - This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module <sub>⭐ 184 · C++</sub>
-- [RUSEGAL/ruseon-core](https://github.com/RUSEGAL/ruseon-core) - Edge video infrastructure in Go for CCTV — RTSP ingest, HLS/WebRTC streaming, fMP4 recording, timeshift and AI metadata pipelines. <sub>⭐ 183 · Go</sub>
-- [AIWintermuteAI/aXeleRate](https://github.com/AIWintermuteAI/aXeleRate) - Keras-based framework for AI on the Edge <sub>⭐ 181 · Python</sub>
-- [embedeep/FREE-TPU-V3plus-for-FPGA](https://github.com/embedeep/FREE-TPU-V3plus-for-FPGA) - FREE TPU V3plus for FPGA is the free version of a commercial AI processor (EEP-TPU) for Deep Learning EDGE Inference <sub>⭐ 180 · V</sub>
-- [turingmotors/swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources. <sub>⭐ 179 · C++</sub>
-- [scaleoutsystems/scaleout-client](https://github.com/scaleoutsystems/scaleout-client) - Scaleout Edge: Sovereign Edge AI orchestration and Federated Learning <sub>⭐ 170 · Python</sub>
-- [emlearn/emlearn-micropython](https://github.com/emlearn/emlearn-micropython) - Machine Learning and Digital Signal Processing for MicroPython <sub>⭐ 166 · C</sub>
-- [open-edge-platform/edge-ai-libraries](https://github.com/open-edge-platform/edge-ai-libraries) - Libraries, microservices, tools, and other reference software, supporting development of performance-optimized Edge AI applications. <sub>⭐ 166 · Python</sub>
-- [securityjoes/AskJOE](https://github.com/securityjoes/AskJOE) - AI-Powered Malware Analysis & Threat Intelligence for Ghidra Transform your static analysis workflow with cutting-edge AI capabilities, comprehensive malware detection, and advanced threat… <sub>⭐ 165 · Python</sub>
-- [TexasInstruments/edgeai](https://github.com/TexasInstruments/edgeai) - Edge AI Software and Development Tools <sub>⭐ 165 · CSS</sub>
-- [lucaslie/torchprune](https://github.com/lucaslie/torchprune) - A research library for pytorch-based neural network pruning, compression, and more. <sub>⭐ 163 · Shell</sub>
-- [chs20/RobustVLM](https://github.com/chs20/RobustVLM) - (ICML 2024) Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models <sub>⭐ 162 · Python</sub>
-- [Schluggi/AIOsense](https://github.com/Schluggi/AIOsense) - ESPHome based all-in-one sensor <sub>⭐ 162</sub>
-- [Ali-hey-0/ai-runtime-lab](https://github.com/Ali-hey-0/ai-runtime-lab) - Engineering deterministic, production-grade systems around non-deterministic LLMs — FSM, durable execution, retries, DAGs, agent runtimes, model routing, edge inference, RAG, memory, multi-agent… <sub>⭐ 159 · Python</sub>
-- [jomjol/AI-on-the-edge-device-docs](https://github.com/jomjol/AI-on-the-edge-device-docs) - Github for hosting the documentation for the project: https://github.com/jomjol/AI-on-the-edge-device <sub>⭐ 155 · Python</sub>
-- [bryant24hao/ClawPuter](https://github.com/bryant24hao/ClawPuter) - ClawPuter — pixel desktop companion for M5Stack Cardputer (ESP32-S3). AI chat, voice input, real-time weather, synced macOS desktop pet. <sub>⭐ 154 · C++</sub>
-- [TilelliLab/atome-lm](https://github.com/TilelliLab/atome-lm) - A ternary, zero-heap tiny language model that runs inside a $2 microcontroller — bit-exact Python C99 Cortex-M3 (QEMU) parity. Apache-2.0. <sub>⭐ 152 · Python</sub>
-- [pavel-one/EdgeGPT-Go](https://github.com/pavel-one/EdgeGPT-Go) - EdgeGPT-Go: Reverse engineered API of Microsoft's Bing Chat AI for Golang with GRPC, CLI, Library interface and cookie manager <sub>⭐ 151 · Go</sub>
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow は、最先端の RAG をエージェント機能で融合し、LLM の優れたコンテクストレイヤーを作成するために、最先端 RAG を使用する主要なオープンソースのリトリバル拡張生成 (RAG) エンジンです。 <sub>⭐ 91.6k · Go</sub>
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - オープンソースのマルチモーダルAIエージェントスタック:切断エッジAIモデルとエージェントの赤外線を接続 <sub>⭐ 39.2k · TypeScript</sub>
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - 最先端のLM技術を素早く簡単にアプリに統合 <sub>⭐ 28.6k · C#</sub>
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Kubernetesのマルチクラウド、データセンター、エッジ管理に適したコンテナプラットフォーム <sub>⭐ 17.1k · Go</sub>
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: Alibabaがテストした超高速で軽量な推論エンジン、高性能のオンデバイスLMとエッジAIをパワーアップ。 <sub>⭐ 16.2k · C++</sub>
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - 文書を構造化したデータを簡単に変換します。非構造化は、複雑なドキュメントをクリーンに変えるためのオープンソースETLソリューションです。言語モデルのための構造化されたフォーマット。当社のウェブサイトを訪問する <sub>⭐ 15.5k · HTML</sub>
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 2ビット、8-29メガバイト、ツールコール、構造化された抽出物および電話、ウェアラブル、スマートホーム、ロボット、車とマイクロコントローラに埋め込むためのオートメーション基礎モデル。 <sub>⭐ 13.0k · Python</sub>
+- [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - ローカルでAIを実行するための準備ツールキット <sub>⭐ 10.3k · C++</sub>
+- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - 新しいBingのAI搭載チャット(Windows、macOS、Linux)デスクトップアプリケーション <sub>⭐ 8.9k · JavaScript</sub>
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - デジタル世界への「古い」測定の単位(水、力、ガス...)を接続するための装置を使いやすい <sub>⭐ 8.8k · C++</sub>
+- [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - ストリームによるオープンビジョンエージェント。あらゆるモデルやビデオプロバイダで、音声とビジョンのエージェントを素早く構築します。ストリームのエッジネットワークを使用して超低レイテンシを実現します。 <sub>⭐ 8.2k · Python</sub>
+- [inngest/inngest](https://github.com/inngest/inngest) - 主要なワークフローオーケストレーションプラットフォーム。ステートフルなステップ機能とAIワークフローをサーバーレス、サーバまたはエッジで実行します。 <sub>⭐ 5.9k · Go</sub>
+- [pytorch/executorch](https://github.com/pytorch/executorch) - モバイル、組み込みおよびPyTorchのエッジを横断したオンデバイスAI <sub>⭐ 5.1k · Python</sub>
+- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - テキスト埋め込みモデルの高速推論ソリューション <sub>⭐ 5.1k · Rust</sub>
+- [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILAは、エッジ、データセンター、クラウドを横断する多様なマルチモーダルAIタスクのための最先端のビジョン言語モデル(VLM)の家族です。 <sub>⭐ 3.9k · Python</sub>
+- [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - ハードウェア開発、Arduinoのサポート、MicroPython、ESP32、STM32、RP2040、Nrf5xの対応 <sub>⭐ 3.8k · TypeScript</sub>
+- [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - MLモデルの展開を低電力リソース・コンストレイントされた組み込みターゲット(マイクロコントローラやデジタル信号プロセッサを含む)に可能にするインフラ。 <sub>⭐ 3.1k · C++</sub>
+- [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - 1000以上の市場を横断して自律的に運営するオープンソースAI取引エージェント - ポリマーケット、カルシ、バイナンス、Hyperliquid、Solana DEXs、5 EVMチェーン。 エッジのスキャン、即座に実行し、リスク管理... <sub>⭐ 2.9k · TypeScript</sub>
+- [google-coral/coralnpu](https://github.com/google-coral/coralnpu) - エッジでエネルギー効率の高いAIのために設計された機械学習アクセラレータコア。 <sub>⭐ 2.6k · Emacs Lisp</sub>
+- [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) - 液体AIファンデーショナルモデル(LFM)とLEAP SDKを使用したエンドツーエンドのチュートリアルやアプリの例 <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [tnm/zclaw](https://github.com/tnm/zclaw) - パーソナルAIアシスタント(アプリコードで35KB)。 ESP32で実行します。 GPIO、cron、カスタムツール、メモリなど。 <sub>⭐ 2.2k · C</sub>
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - ESP32用AI対応NATルータ/ファイアウォール <sub>⭐ 2.2k · C</sub>
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - 自動音声転写のための最先端AI技術。OpenAIs Whisperとpyannote(スピーカー識別)用の素敵なGUI <sub>⭐ 2.2k · Python</sub>
+- [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - OpenAI、Azure、またはElevenLabsを交換するための無料の高品質のテキストツースピーチAPIエンドポイント <sub>⭐ 2.1k · Python</sub>
+- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - C++で書かれているONNXファイル用の軽量推論ライブラリ。 RPI Zero 2(または298MBのRAM)でも、デスクトップやサーバー上でMistral 7Bを実行できます。 ARM、x86、WASM... <sub>⭐ 2.1k · C++</sub>
+- [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC) - PI-REC:エッジとカラードメインのプログレッシブ画像再構築ネットワーク。 映像制作翻訳、GAN,AI映像 <sub>⭐ 2.1k · Python</sub>
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Arduino ESP32で100以上のモデルを持つリアルタイムボイスAIと、AI CompanionのセキュアなWebsocketsやEdge関数、デバイス <sub>⭐ 2.0k · TypeScript</sub>
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - オープンソース、AIネイティブナレッジベース&Evernoteの代替品。CloudflareやDocker上でゼロコスト。 <sub>⭐ 2.0k · TypeScript</sub>
+- [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all) - (ICLR 2020) 一度、すべての: 1 つのネットワークを訓練し、効率的な展開のためにそれを専門にします <sub>⭐ 2.0k · Python</sub>
+- [uTensor/uTensor](https://github.com/uTensor/uTensor) - TinyML AI 推論ライブラリ <sub>⭐ 1.9k · C++</sub>
+- [yomorun/yomo](https://github.com/yomorun/yomo) - ジオディストリビューションエッジAIインフラを搭載したサーバーレスAIエージェントフレームワーク。 <sub>⭐ 1.9k · Rust</sub>
+- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - T2/T3/T5AI/ESP32 の次世代 AI+IoT フレームワーク - Fast IoT および AI Agent ハードウェア統合 <sub>⭐ 1.9k · C</sub>
+- [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI は、Xilinx ハードウェアプラットフォーム上でのAIの影響のための Xilinx の開発スタックです。 <sub>⭐ 1.8k · Python</sub>
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - JavaScript を駆動する M5Stack-組み込みスーパーkawaii ロボット. <sub>⭐ 1.7k · TypeScript</sub>
+- [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners) - このコースは、エッジAIのエキサイティングな世界を通して初心者を導くように設計されています, 基本的な概念をカバーします, 一般的なモデル, 推論技術, デバイス固有のアプリケーション, モデル... <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [sipeed/MaixPy-v1](https://github.com/sipeed/MaixPy-v1) - K210 RISC-V用のMicroPythonは、エッジAIで簡単にプレイできます <sub>⭐ 1.7k · Python</sub>
+- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - トピック → 4K は、コーディングエージェント用のビデオをナレーションしました。 v5.3.0:ローカル TTS (最新無料 + azure, 外部エンジンなし)、マニフェストベースのアセットエンジン、リモーションコンポジション、費用対効果の高い AI 生成... <sub>⭐ 1.6k · Python</sub>
+- [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - アップルシリコンでMac上のファインチューンLLM。 SFT、DPO、GRPO、ビジョン、TTS、STT、Embed、OCRの微調整 - MLXにネイティブ。 Unsloth互換API。 <sub>⭐ 1.4k · Python</sub>
+- [AI-FanGe/OpenAIglasses_for_Navigation](https://github.com/AI-FanGe/OpenAIglasses_for_Navigation) - esp32に基づく盲目のナビゲーションのためのオープンフレームワーク <sub>⭐ 1.4k · Python</sub>
+- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - リアルタイム双方向のセッションのための音声翻訳 — 話した言語を自動検出し、両方の指示、クラウドまたは完全にオフラインのオンデバイスを変換します。デスクトップ(Windows・macOS・Linux) +... <sub>⭐ 1.4k · TypeScript</sub>
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - あなたのAIのゲームデベロッパーハブ。 AI搭載ゲーム開発ツールの究極のリソースハブ。 最先端のLM、ワールドモデル、エージェント、コード、画像、テクスチャ、シェーダー、3Dモデル、アニメーション、ビデオ、オーディオ... <sub>⭐ 1.4k · JavaScript</sub>
+- [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - マウスオーバーは、一度に任意の言語を翻訳 - Chrome拡張: PDFのトランスレーター, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, ビューア, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA ... <sub>⭐ 1.3k · JavaScript</sub>
+- [SmythOS/sre](https://github.com/SmythOS/sre) - SmythOS Runtime Environment(SRE)は、エージェントAI用のオープンソース、クラウドネイティブランタイムです。 セキュアでモジュール式で生産準備が整っており、開発者がインテリジェントなエージェントを構築し、実行して管理することができます。 <sub>⭐ 1.3k · TypeScript</sub>
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — 物理世界をAIに接続します。物理的なAIのためのオープンソースの産業IoTランタイム: 36プロトコルドライバ、エッジツークラウドデータ配信、MCPツールゲートウェイなど、AIエージェントが機能する... <sub>⭐ 1.3k · Java</sub>
+- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - KubernetesのAI Inference Operator。 生産でMLモデルを提供する最も簡単な方法。 VLM、LLM、埋め込み、およびスピーチ・ツー・テキストをサポートしています。 <sub>⭐ 1.3k · Go</sub>
+- [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Sophon、Rockchip RKNN、およびx86 を渡るビデオ分析とオンデバイス VLM のための C++ エッジ AI エンジンの生産グレードのエッジ, ビジュアルオーケストレーション付き, リアルタイム OSD, イベント, そして再現可能なベンチマーク. <sub>⭐ 1.2k · C</sub>
+- [majianjia/nnom](https://github.com/majianjia/nnom) - マイクロコントローラ用の高レベルのニューラルネットワークライブラリ。 <sub>⭐ 1.2k · C</sub>
+- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Cloudflareのエッジネットワーク上でサンドボックス化されたコード環境を実行 <sub>⭐ 1.1k · TypeScript</sub>
+- [HarryR/z80ai](https://github.com/HarryR/z80ai) - Z80-μLMは、8ビットZ80プロセッサ上で実行するのに十分な2ビットの定量化された言語モデルです。 Pythonで会話モデルを訓練し、CP / M .COMバイナリとしてエクスポートし、ヴィンテージとチャットします... <sub>⭐ 1.1k · Python</sub>
+- [Dobiasd/frugally-deep](https://github.com/Dobiasd/frugally-deep) - C++でKeras(TensorFlow)モデルを使用した軽量なヘッダ専用のライブラリです。 <sub>⭐ 1.1k · C++</sub>
+- [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP は、Cortex-M と Cortex-A 用のコンピュートライブラリを組み込みました。 <sub>⭐ 1.1k · C</sub>
+- [microsoft/Biodiversity](https://github.com/microsoft/Biodiversity) - Microsoft AI for Good Lab — 生物多様性研究ハブ。オープンソースのAIモデル、エッジデバイス、および生物多様性モニタリングと保全のためのツール。メガ検知器、SPARROW... <sub>⭐ 1.1k · Python</sub>
+- [sipeed/TinyMaix](https://github.com/sipeed/TinyMaix) - TinyMaixは、マイクロコントローラ(TinyML)用の小さな推論ライブラリです。 <sub>⭐ 1.1k · C</sub>
+- [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - 最速の深い補強学習ライブラリ <sub>⭐ 1.0k · C++</sub>
+- [gigwegbe/tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects) - TinyMLに関する興味深い論文やプロジェクトのリストです。 <sub>⭐ 1.0k</sub>
+- [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - (NeurIPS 2020) MCUNet:IoTデバイスに関する小さな深い学習;(NeurIPS 2021) MCUNetV2: 小さなディープラーニングのためのメモリ効率的なパッチベースの推論; (NeurIPS 2022) MCUNetV3:オンデバイストレーニングアンダー... <sub>⭐ 962 · C</sub>
+- [pytorch/helion](https://github.com/pytorch/helion) - 最小限のボイラプレートで高速、スケーラブルなMLカーネルを簡単に書きやすくするPython埋め込みDSL。 <sub>⭐ 954 · Python</sub>
+- [openvinotoolkit/model_server](https://github.com/openvinotoolkit/model_server) - OpenVINOTM で最適化されたモデルの拡張可能なインフェレンスサーバー <sub>⭐ 940 · C++</sub>
+- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - Go と Wails (主に Python や Qt) で構築されたジェイルブレイクニュービングAI Copilot(Sydney ver.)用のクロスプラットフォームのデスクトップクライアント。 <sub>⭐ 876 · Go</sub>
+- [sipeed/MaixPy](https://github.com/sipeed/MaixPy) - エッジデバイスで Python を使用して AI プロジェクトを簡単に作成 <sub>⭐ 856 · Python</sub>
+- [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick は、新しいAIビルダー向けの最先端のツールキットです。Magick を私たちと作ってください! <sub>⭐ 849 · TypeScript</sub>
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - ローカルまたはリモートで任意のAIモデル、エージェント、データベース、RAGおよびパイプラインを数分に展開 <sub>⭐ 837 · Python</sub>
+- [johnolafenwa/DeepStack](https://github.com/johnolafenwa/DeepStack) - エッジデバイス向け世界をリードするクロスプラットフォームAIエンジン <sub>⭐ 818 · Python</sub>
+- [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js は、Edge コンピューティングと AI ワークロード用に設計されたセキュアな JavaScript ランタイムです。 <sub>⭐ 816 · JavaScript</sub>
+- [usemoss/moss](https://github.com/usemoss/moss) - 生産AIシステムのための検索層。 ベクトルデータベースなしで超高速(<10ms)検索。 ブラウザ、エッジ、オンデバイス、およびクラウド用に構築されています。 <sub>⭐ 786 · Python</sub>
+- [emlearn/emlearn](https://github.com/emlearn/emlearn) - マイクロコントローラおよび組込み装置のための機械学習のインフェレンス エンジン <sub>⭐ 763 · Python</sub>
+- [mit-han-lab/mcunet](https://github.com/mit-han-lab/mcunet) - (NeurIPS 2020) MCUNet:IoTデバイスに関する小さな深い学習;(NeurIPS 2021) MCUNetV2: 小さなディープラーニングのためのメモリ効率的なパッチベースの推論 <sub>⭐ 717 · Python</sub>
+- [Deuz-AI/Deuz-SDK](https://github.com/Deuz-AI/Deuz-SDK) - ゼロ依存性 TypeScript 生産AIエージェントのフレームワーク:耐久性のある実行、長期メモリ、ハイブリッドRAG、MCPツールコール、人間内ループ承認、計画およびCodeActサンドボックス。 1つの... <sub>⭐ 697 · TypeScript</sub>
+- [ROBOTIS-GIT/open_manipulator](https://github.com/ROBOTIS-GIT/open_manipulator) - AIマニピュレーターとオープンマニピュレータ <sub>⭐ 668 · Python</sub>
+- [OwlAIProject/Owl](https://github.com/OwlAIProject/Owl) - ローカルで走る個人用ウェアラブルAI <sub>⭐ 664 · Python</sub>
+- [google/sec-gemini](https://github.com/google/sec-gemini) - Sec-Geminiは、サイバーセキュリティ機能を強化し、サイバー脅威に対する継続的な戦いで防御力を高めるために設計された最先端のAIモデルです。 <sub>⭐ 662 · Svelte</sub>
+- [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) - 実際のトラフィック、部分的な障害、セキュリティレビューを生き残る必要があるエンジニアの設計システムのためのソースグラウンドコースとアーキテクチャの参照、および要件の変更、企業に広がる... <sub>⭐ 639</sub>
+- [DenisovAV/flutter_edge_ai](https://github.com/DenisovAV/flutter_edge_ai) - Flutter プラグインは、Fluter アプリケーションからデバイス上でローカルで Gemma AI モデルを実行できます。 <sub>⭐ 629 · JavaScript</sub>
+- [ai-techsystems/deepC](https://github.com/ai-techsystems/deepC) - ベンダー独立したTinyMLディープラーニングライブラリ、コンパイラおよびインフェレンスフレームワークマイクロコンピューターとマイクロコントローラ <sub>⭐ 606 · C++</sub>
+- [second-state/echokit_server](https://github.com/second-state/echokit_server) - オープンソースの音声エージェントプラットフォーム <sub>⭐ 592 · Rust</sub>
+- [GitHpriyanshu23/Smart-Plant-Doctor](https://github.com/GitHpriyanshu23/Smart-Plant-Doctor) - スマートプラントドクターは、リアルタイムESP32センサーデータをストリームライトダッシュボードにストリーミングし、治療による植物病の検出のためのMobileNetV2ベースのモデルを使用するAI + IoTプラントヘルスプラットフォームです。 <sub>⭐ 579 · Python</sub>
+- [NVIDIA/TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - 物理的なAIのための高性能、軽量C++ LLMおよびVLMの推論ソフトウェア <sub>⭐ 579 · Python</sub>
+- [codefuse-ai/CodeFuse-Embeddings](https://github.com/codefuse-ai/CodeFuse-Embeddings) - CodeFuse: C2LLM, D2LLM, E2LLM, F2LLM, ML-Embedから研究を埋め込みます <sub>⭐ 575 · Python</sub>
+- [SmythOS/smythos-studio](https://github.com/SmythOS/smythos-studio) - SmythOS Studio: Open-Source Visual AI Agent Builder と、SmythOS から実行可能なスタックをデプロイします。直感的なドラッグアンドドロップのワークスペースで起動し、カスタムコードで拡張したり、エージェントをデプロイしたり... <sub>⭐ 562 · TypeScript</sub>
+- [raphaelbs/esp32-cam-ai-thinker](https://github.com/raphaelbs/esp32-cam-ai-thinker) - ESP-IDFを用いたA.I. Thinker ESP32-CAMに関する情報と事例 <sub>⭐ 550</sub>
+- [BaseModelAI/cleora](https://github.com/BaseModelAI/cleora) - Cleora AI は、均質な関係データのための安定したインダクティブ・エンベデッドディングの効率的でスケーラブルな学習のために汎用的なオープンソースモデルです。 Synerise.com チームによって作成されます。 <sub>⭐ 545 · Jupyter Notebook</sub>
+- [superlinked/VectorHub](https://github.com/superlinked/VectorHub) - 以前のレポを廃止。スーパーリンクは、埋め込むための自己ホスト型推論エンジンであるSIEを開発し、再興、OCR、抽出および文書処理を行います。 <sub>⭐ 531 · Jupyter Notebook</sub>
+- [BrowserOperator/browser-operator-core](https://github.com/BrowserOperator/browser-operator-core) - ブラウザのオペレータ - マルチエージェントプラットフォームで構築されたAIブラウザー! ChatGPTアトラス、パープレクシリティコメット、DiaとMicrosoft CoPilot Edge Browserに代替オープンソース <sub>⭐ 509 · TypeScript</sub>
+- [qunqin24/Pulse](https://github.com/qunqin24/Pulse) - Claudeコード、Codex、Cursor、Copilotと70 +他のAIコーディングツールが残っているのは、画面のエッジに無料でオープンソースのmacOSモニターです。 <sub>⭐ 496 · Swift</sub>
+- [lablup/mlxcel](https://github.com/lablup/mlxcel) - 高性能LLM、VLM、エンベデッド、リランシング、およびApple SiliconとNVIDIA CUDAシステム用のオーディオ・インフェレンス。 <sub>⭐ 472 · Rust</sub>
+- [Blaizzy/mlx-embeddings](https://github.com/Blaizzy/mlx-embeddings) - MLX-Embeddings は、MLX を使用して Mac 上でローカルで Vision と Language Embedding モデルを実行するための最良のパッケージです。 <sub>⭐ 449 · Python</sub>
+- [Seeed-Studio/ModelAssistant](https://github.com/Seeed-Studio/ModelAssistant) - 「SenseCraft Model Assistant」は、埋め込まれたAIに焦点を当てたオープンソースプロジェクトです。 <sub>⭐ 446 · Python</sub>
+- [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js は、フルスタック GenAI ライブラリです。 フロントエンド、バックエンド、apis、プロンプト管理、分散コンピューティング。 すべてのコアのプロンプトとチェーンは、jsonnet で宣言的に管理されます(そして非表示にしません... <sub>⭐ 428 · JavaScript</sub>
+- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - Edge AI、Edge Computing 向けのストリーミングマルチモーダルデータベース。 <sub>⭐ 426 · Go</sub>
+- [OctagonAI/kalshi-trading-bot-cli](https://github.com/OctagonAI/kalshi-trading-bot-cli) - Kalshi予測市場を取引するためのAIネイティブCLI。 深い基礎研究を実行し、独立した確率推定を生成し、エッジ対ライブオーダーブックを計算し、ケリーと取引を実行する... <sub>⭐ 394 · TypeScript</sub>
+- [ZantFoundation/Z-Ant](https://github.com/ZantFoundation/Z-Ant) - Zantは、マイクロプロセッサ上でニューラルネットワークの展開と最適化を簡素化します <sub>⭐ 388 · Zig</sub>
+- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - エッジフルスタックLMプラットフォーム。 Rustで書かれています <sub>⭐ 383 · Rust</sub>
+- [ahmedeltaher/azan-mcp](https://github.com/ahmedeltaher/azan-mcp) - Azan + 祈りの時間+ MCP + AIエージェント+イスラム+サラ+軽度のMCPライブラリは、祈りの時間を計算し、1つのツールコールでAzanをトリガーします。 あなたがAIエージェントまたは祈りを構築している場合... <sub>⭐ 381 · Python</sub>
+- [igorantolic/ai-esp32-rotary-encoder](https://github.com/igorantolic/ai-esp32-rotary-encoder) - ESP32のようなマイクロ制御装置を使用してあなたの適用に回転式エンコーダーを容易にして下さい <sub>⭐ 378 · C++</sub>
+- [Paulescu/image-classification-with-local-vlms](https://github.com/Paulescu/image-classification-with-local-vlms) - Edge AI 用のローカル Visual Language モデルの構築とデプロイを学ぶ <sub>⭐ 377 · Jupyter Notebook</sub>
+- [edgenai/edgen](https://github.com/edgenai/edgen) - Edgen: ローカル、OpenAIサーバーの代替。 GPUは必要ありません。 ローカルでAIモデルを実行します。 LLM(Llama2、Mistral、mixtral...)、Speech-to-text (whisper)など。 <sub>⭐ 367 · Rust</sub>
+- [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - 取扱説明書、ソースコード、および誤り。小さなMLを搭載した人工鼻の構築に必要なリソース。 <sub>⭐ 367 · C</sub>
+- [askaitools/askaitools-community-edition](https://github.com/askaitools/askaitools-community-edition) - AI製品に特化した最先端の検索エンジンプロジェクト <sub>⭐ 354 · TypeScript</sub>
+- [cpldcpu/BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - 低い端の32ビット マイクロ制御回路、CH32V003 RISC-V Microcontrollerおよび他のような神経ネットワーク <sub>⭐ 344 · C</sub>
+- [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - AI ツールから TikTok ビデオ作成に FFMPEG, Microsoft Edge 読み込み aloud と OpenAI Whisper モデル <sub>⭐ 341 · Python</sub>
+- [DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub) - このリポジトリは、GitHub Sentinel、ランゲージメンター、ChatPPTなどのAIエージェントプロジェクトのためのハブで、エンタープライズワークフロー、言語学習、およびマルチモーダルインタラクションを強化するように設計されています。... <sub>⭐ 340 · Shell</sub>
+- [microsoft/vscode-tools-for-ai](https://github.com/microsoft/vscode-tools-for-ai) - Azure Machine Learning for Visual Studio Code は、以前から「Visual Studio Code Tools for AI」と呼ばれるもので、機械学習モデルをクラウドやエッジに簡単に構築・訓練・デプロイする拡張機能です。 <sub>⭐ 339 · Python</sub>
+- [cosdata/cosdata](https://github.com/cosdata/cosdata) - Cosdata: 次世代検索パイプライン用の最先端のAIデータプラットフォーム。セマンティックサーチ、ハイブリッド機能、リアルタイムスケーラビリティ、およびMLインテグレーション機能を備えています。 <sub>⭐ 338 · Rust</sub>
+- [ztachip/ztachip](https://github.com/ztachip/ztachip) - オープンソースソフトウェア/ハードウェアプラットフォームで、FPGAまたはカスタムASICハードウェアにデプロイされたエッジAIソリューションを構築します。 <sub>⭐ 338 · VHDL</sub>
+- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - 埋め込まれたAIを搭載したハンズフリーのミニトランシーバー。自動音声検出、キーワードトリガーアニメーション、リアルタイムの音声テキスト表示を備えています。 <sub>⭐ 336 · C</sub>
+- [Mjrovai/XIAO-ESP32S3-Sense](https://github.com/Mjrovai/XIAO-ESP32S3-Sense) - Studio XIAO ESP32S3 Senseは、カメラセンサー、デジタルマイク、SDカードのサポートを統合しています。埋め込まれたMLコンピューティングパワーと写真機能を組み合わせたこの開発ボードは... <sub>⭐ 330 · Jupyter Notebook</sub>
+- [jonnor/embeddedml](https://github.com/jonnor/embeddedml) - 組込み/センサー/IoT用途向けエッジの機械学習に関する注意事項 <sub>⭐ 315 · Jupyter Notebook</sub>
+- [PacktPublishing/TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook) - TinyML Cookbook、Packt 出版 <sub>⭐ 315 · Jupyter Notebook</sub>
+- [dcmartin/motion-ai](https://github.com/dcmartin/motion-ai) - AIがホームアシスタントのモーション検知を支援 <sub>⭐ 310 · Jupyter Notebook</sub>
+- [bharathsudharsan/TinyML-CAM](https://github.com/bharathsudharsan/TinyML-CAM) - MobiCom紙「TinyML-CAM:80 FPS画像認識1 Kb RAM」のコード <sub>⭐ 309 · Jupyter Notebook</sub>
+- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - AI を搭載した YouTube ビデオの重複パイプライン。自動トランク(Whisper)、翻訳 (Google)、スマートオーディオビデオ同期と背景を持つニューラル・ダビング (Edge-TTS) を生成します... <sub>⭐ 304 · Python</sub>
+- [denser-org/denser-retriever](https://github.com/denser-org/denser-retriever) - AIの統合をアプリケーションに合理化し、最先端の精度を確保するAIリファインダーです。 <sub>⭐ 296 · Python</sub>
+- [securade/hub](https://github.com/securade/hub) - Securade.ai HUB - 既存のCCTVカメラに接続し、それらをスマートにするコンピュータビジョンのためのジェネレーションAIベースのエッジプラットフォーム。 <sub>⭐ 291 · Python</sub>
+- [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) - AI/ML/LLM 感染による浸透テストツールキット — AI セキュリティ、赤いチーム化、およびアドバーサリアル ML 技術のための #1 GitHub リソース。 このリポジトリは、攻撃的で防御的なものに専念しています... <sub>⭐ 290</sub>
+- [1nfinityLoop/Sudoku-Solver-AI](https://github.com/1nfinityLoop/Sudoku-Solver-AI) - 私はカメラを使用してリアルタイムのSudakuソルバーを作りました, それはフレーム内のSudokuのエッジを探しています, それ抽出します, それを解決し、パズル自体上のソリューションをオーバーレイ. デジタル認識のために... <sub>⭐ 286 · Python</sub>
+- [yesbhautik/Whatsapp-Ai-BOT](https://github.com/yesbhautik/Whatsapp-Ai-BOT) - OpenAIのChatGPT、Playground&DALL・Eを搭載した最先端のソリューションであるWhatsApp用のAIチャットボットをご紹介します。この革新的なチャットボットはNodeJS技術とレバレッジを使用して開発されています... <sub>⭐ 283 · JavaScript</sub>
+- [microsoft/finnts](https://github.com/microsoft/finnts) - Microsoft Finance Time Series Forecasting Framework(FinnTS)は、クラウド上の最先端のタイムシリーズ予測と並列化を利用して正確な予報を生成する予報パッケージです。 <sub>⭐ 274 · R</sub>
+- [NVIDIA/DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo:DeepStream SDKとGPUの加速、リアルタイムのビデオおよびマルチセンサー分析パイプラインをGStreamer、TensorRT、およびビジョンAIモデルで構築するためのリファレンスアプリ... <sub>⭐ 266 · C++</sub>
+- [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI:AutoGenを使用してAIエージェントをAGI機能に強化します。 グループチャットのダイナミクス、意思決定、複雑なタスクの能力に関する最先端の拡張機能を探索してください。 私たちの旅に参加してください... <sub>⭐ 266 · Python</sub>
+- [michellzappa/headroom](https://github.com/michellzappa/headroom) - ローカルファーストのAIコーディングクォータと船の状態、あなたのメニューバー、iPhone、時計、およびESP32デスクディスプレイ上の。 <sub>⭐ 265 · Python</sub>
+- [NVIDIA/OSMO](https://github.com/NVIDIA/OSMO) - 複雑な物理AIをスケーリングするための開発者初のプラットフォームで、均質なコンピューティングの横断的ワークロード - 単純YAMLでのGPU、シミュレーションクラスター、およびエッジデバイスを統一 <sub>⭐ 264 · Python</sub>
+- [Fraunhofer-IMS/AIfES_for_Arduino](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino) - これは、Fraunhofer Institute for Microelectronic Circuits and Systemsが開発したAIfES機械学習フレームワークのArduino®互換ポートです。 <sub>⭐ 261 · C</sub>
+- [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - ローカルダッシュボードとAIコーディングエージェントの物理的な制御 — ネイティブ3D水族館、ストリームデッキ、Apple / Androidアプリ、E-ink、ESP32およびLEDディスプレイ。 <sub>⭐ 254 · TypeScript</sub>
+- [ThHanke/ontosphere](https://github.com/ThHanke/ontosphere) - ブラウザベースのRDF/ontologyナレッジグラフエディタ — RDFをファイル、URLまたはSPARQLエンドポイントからロードします。 著者ノードとキャンバスのエッジ; OWL-RL推論を実行してください。 マルチアルゴリズムレイアウトを適用し... <sub>⭐ 247 · TypeScript</sub>
+- [xiaolai/insidebar-ai](https://github.com/xiaolai/insidebar-ai) - Chrome/Edge 用のブラウザ拡張 <sub>⭐ 245 · JavaScript</sub>
+- [longpth/ESP32CamAI](https://github.com/longpth/ESP32CamAI) - ESP32-CAMはAndroidでストリーミングし、Android上でAIタスクを処理 <sub>⭐ 236 · Java</sub>
+- [SaarD00/AI-Youtube-Shorts-Generator](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) - 無限のコンテンツ、ゼロマニュアル編集。 ジェミニAI、エッジTTS、ダイナミックFFmpeg編集を使用して話題を魅力的なYouTubeショートに変える完全に自動化された「顔のない」ビデオ工場 <sub>⭐ 232 · Python</sub>
+- [IngestAI/embedditor](https://github.com/IngestAI/embedditor) - LLMベクターの埋め込みを編集するためのGUI。これ以上のブラインドチャンキングはありません。任意のファイル拡張子にコンテンツをアップロードし、チャンクに参加して分割し、メタデータを編集し、トークンを埋め込む + ストップワードを削除し、罰する... <sub>⭐ 227 · PHP</sub>
+- [nvidia-holoscan/holoscan-sdk](https://github.com/nvidia-holoscan/holoscan-sdk) - 低レイテンシブストリーミングワークフロー用のAIセンサー処理SDK <sub>⭐ 225 · C++</sub>
+- [tinyMLx/courseware](https://github.com/tinyMLx/courseware) - このリポジトリでは、TinyMLコースのsyllabi、代入/ラボ、コードウォークスルー、学生プロジェクトへのリンク、および講義ビデオ(該当する場合)があります。 <sub>⭐ 220</sub>
+- [vishwasg217/fin-sight](https://github.com/vishwasg217/fin-sight) - FinSight - あなたの指先で財務インサイト:FinSightは、ポートフォリオマネージャ、投資家、および金融愛好家のために調整された最先端のAIアシスタントです。 それは成長のプロセスを合理化します... <sub>⭐ 219 · Jupyter Notebook</sub>
+- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - 推奨システム これは、機械学習と深い学習技術を使用してのワークショップです。 推奨Systesm理論:ML&DLフォーミュレーション、予測対ランキング、シミリアリティ... <sub>⭐ 218 · Jupyter Notebook</sub>
+- [jkmaina/LangGraphProjects](https://github.com/jkmaina/LangGraphProjects) - これは、本のための公式のコンパニオンリポジトリです。 完全な LangGraph Blueprint: 50 + AI Agents for Business Success. レポジトリはソースコード、実用的な例、および... <sub>⭐ 217 · Python</sub>
+- [second-state/echokit_box](https://github.com/second-state/echokit_box) - EchoKit 音声デバイス用の ESP32 ファームウェア <sub>⭐ 217 · Rust</sub>
+- [BIGPPWONG/EdgeBox](https://github.com/BIGPPWONG/EdgeBox) - MCP プロトコルをサポートした、完全に機能するGUI 搭載ローカル LLM Agent sandbox。CLI とフルデスクトップ環境の両方を特長とし、AI エージェントがブラウザーや端末などの操作を可能にします。 <sub>⭐ 212 · TypeScript</sub>
+- [google-ai-edge/ai-edge-quantizer](https://github.com/google-ai-edge/ai-edge-quantizer) - AI Edge Quantizer:LiteRTモデルの柔軟なポストトレーニング定量化。 <sub>⭐ 206 · Python</sub>
+- [TexasInstruments/edgeai-tidl-tools](https://github.com/TexasInstruments/edgeai-tidl-tools) - Edgeai TIDL Toolsと例 - このリポジトリには、TIのエッジAIソリューションが提供するDeep Learningランタイム(DLRT)用に開発されたツールや例が含まれています。 <sub>⭐ 202 · Python</sub>
+- [NodeDB-Lab/nodedb](https://github.com/NodeDB-Lab/nodedb) - AIエージェントのメモリ&ストレージエンジン。マルチモデル、エッジツークラウド、PostgreSQL対応。 <sub>⭐ 201 · Rust</sub>
+- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - 異なるブラウザのAIモデルプロバイダ用のTypeScript SDKは、クライアント側のAI統合をよりシンプルにし、ベンダー間でより一貫性のあるものにするために構築されています。 <sub>⭐ 200 · TypeScript</sub>
+- [yifanlu0227/MIT-6.5940](https://github.com/yifanlu0227/MIT-6.5940) - TinyMLと効率的なディープラーニングコンピューティングのためのすべてのホームワークス 6.5940 • Fall • 2023 • https://fft.ai <sub>⭐ 200 · Jupyter Notebook</sub>
+- [Adancurusul/embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) - MCP サーバー + CLI + プローブ・サーまたはOpenOCDによる組み込みデバッグのためのコーデックス/クロードスキル - ARM Cortex-M、RISC-V、およびXtensa(ESP32)、AIクラッシュ診断 <sub>⭐ 197 · Rust</sub>
+- [jczic/MicroMLP](https://github.com/jczic/MicroMLP) - マイクロPython用のマイクロニューラルネットワークマルチレイヤーパーセプトロン(EPS32とPycomモジュールで使用) <sub>⭐ 196 · Python</sub>
+- [pham-tuan-binh/wheatley-ai](https://github.com/pham-tuan-binh/wheatley-ai) - LiveKit、WebRTC、SenseCap Watcherを用いたESP32-S3でのリアルタイム会話AI <sub>⭐ 195 · C</sub>
+- [matteocarnelos/microflow-rs](https://github.com/matteocarnelos/microflow-rs) - 堅牢で効率的なTinyMLインフェレンスエンジン。 <sub>⭐ 194 · Rust</sub>
+- [cporter202/stock-market-signal-automation](https://github.com/cporter202/stock-market-signal-automation) - 独自のデータ駆動型の市場エッジをスイングトレード信号のWebhook、ダッシュボード、アラート、AIエージェント、および自動化例で構築します。 <sub>⭐ 193</sub>
+- [datasith/Ai_Tips_ESP8266](https://github.com/datasith/Ai_Tips_ESP8266) - 私の "ESP8266のヒントとコツ"のチュートリアルシリーズからコード <sub>⭐ 191 · C++</sub>
+- [M64GitHub/WireClaw](https://github.com/M64GitHub/WireClaw) - 持続的なメモリとオフラインのルールエンジンを備えたESP32 AIエージェント - ローカル24 / 7を実行し、設定するチャット。 (Telegram / Serial / NATS) <sub>⭐ 191 · C++</sub>
+- [jina-ai/mlx-retrieval](https://github.com/jina-ai/mlx-retrieval) - MLX で Apple Silicon の検索タスクのための組み込みおよびリランサーモデルを訓練 <sub>⭐ 187 · Python</sub>
+- [ShawnHymel/tinyml-example-anomaly-detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection) - PythonとArduinoで異常な検出を行う方法を示すTinyMLの例 <sub>⭐ 187 · Jupyter Notebook</sub>
+- [SensorsIot/Embedded-AI-Harness](https://github.com/SensorsIot/Embedded-AI-Harness) - AIは組み込みシステム用のクローズドループプログラミング — テストがクリーンになるまで、AIは実際のハードウェアにファームウェアを書き込み、フラッシュおよびテストします。 シリコンへの仕様、手すり。 <sub>⭐ 185 · Python</sub>
+- [techiesms/ESP32-ChatGPT](https://github.com/techiesms/ESP32-ChatGPT) - このRepoは、i2sアンプモジュールを使用してAudio Responseと一緒にESP32ボード上のChatGPTを使用するためのコードが含まれています <sub>⭐ 184 · C++</sub>
+- [RUSEGAL/ruseon-core](https://github.com/RUSEGAL/ruseon-core) - CCTV向けエッジビデオインフラストラクチャ — RTSPインジェスト、HLS / WebRTCストリーミング、fMP4録画、タイムシフトおよびAIメタデータパイプライン。 <sub>⭐ 183 · Go</sub>
+- [AIWintermuteAI/aXeleRate](https://github.com/AIWintermuteAI/aXeleRate) - エッジ上でAIのためのKerasベースのフレームワーク <sub>⭐ 181 · Python</sub>
+- [embedeep/FREE-TPU-V3plus-for-FPGA](https://github.com/embedeep/FREE-TPU-V3plus-for-FPGA) - FPGA用の無料TPU V3plusは、ディープラーニングEDGE Inferenceのための商用AIプロセッサ(EEP-TPU)の無料版です <sub>⭐ 180 · V</sub>
+- [turingmotors/swan](https://github.com/turingmotors/swan) - このプロジェクトでは、FPGA の言語モデル推論を有効にし、エッジデバイスや限られたリソースを持つ環境で AI アプリケーションをサポートすることを目指しています。 <sub>⭐ 179 · C++</sub>
+- [scaleoutsystems/scaleout-client](https://github.com/scaleoutsystems/scaleout-client) - スケールアウトエッジ: ソベリンエッジAIのオーケストレーションとフェデレーションラーニング <sub>⭐ 170 · Python</sub>
+- [emlearn/emlearn-micropython](https://github.com/emlearn/emlearn-micropython) - マイクロPythonの機械学習とデジタル信号処理 <sub>⭐ 166 · C</sub>
+- [open-edge-platform/edge-ai-libraries](https://github.com/open-edge-platform/edge-ai-libraries) - ライブラリ、マイクロサービス、ツール、その他のリファレンスソフトウェア、パフォーマンスに最適化されたエッジAIアプリケーションの開発を支援します。 <sub>⭐ 166 · Python</sub>
+- [securityjoes/AskJOE](https://github.com/securityjoes/AskJOE) - ジドラのAI搭載マルウェア分析と脅威インテリジェンスにより、最先端のAI機能、包括的なマルウェア検出、高度な脅威を静的解析ワークフローに変換できます。 <sub>⭐ 165 · Python</sub>
+- [TexasInstruments/edgeai](https://github.com/TexasInstruments/edgeai) - エッジAIソフトウェアと開発ツール <sub>⭐ 165 · CSS</sub>
+- [lucaslie/torchprune](https://github.com/lucaslie/torchprune) - pytorchベースのニューラルネットワークの剪定、圧縮などの研究ライブラリ。 <sub>⭐ 163 · Shell</sub>
+- [chs20/RobustVLM](https://github.com/chs20/RobustVLM) - (ICML 2024) ビジョン・エンベディングの非監視型アドバーサリアルファインチューニング(Robust Large Vision-Language) <sub>⭐ 162 · Python</sub>
+- [Schluggi/AIOsense](https://github.com/Schluggi/AIOsense) - ESPホームベースオールインワンセンサー <sub>⭐ 162</sub>
+- [Ali-hey-0/ai-runtime-lab](https://github.com/Ali-hey-0/ai-runtime-lab) - エンジニアリングの決定的、非デタミスティックLLMの周りに生産グレードシステム — FSM、耐久性のある実行、retries、DAG、エージェントランタイム、モデルルーティング、エッジインフェレンス、RAG、メモリ、マルチエージェント... <sub>⭐ 159 · Python</sub>
+- [jomjol/AI-on-the-edge-device-docs](https://github.com/jomjol/AI-on-the-edge-device-docs) - プロジェクトのためのドキュメントをホスティングするためのGithub //github.com/jomjol/AI-on-the-edge-device <sub>⭐ 155 · Python</sub>
+- [bryant24hao/ClawPuter](https://github.com/bryant24hao/ClawPuter) - ClawPuter — M5Stack Cardputer (ESP32-S3) 用のピクセルデスクトップコンパニオン。AIチャット、音声入力、リアルタイム気象、同期されたmacOSデスクトップペット。 <sub>⭐ 154 · C++</sub>
+- [TilelliLab/atome-lm](https://github.com/TilelliLab/atome-lm) - $2マイクロコントローラ内で実行される、バイナリーゼロヒープ小さな言語モデル — ビット・エキサクト Python C99 Cortex-M3 (QEMU) パリティー。 Apache-2.0. <sub>⭐ 152 · Python</sub>
+- [pavel-one/EdgeGPT-Go](https://github.com/pavel-one/EdgeGPT-Go) - EdgeGPT-Go: マイクロソフトのBingチャットAIのリバースエンジニアリングAPIをGRPC、CLI、ライブラリインターフェイスおよびクッキーマネージャで提供 <sub>⭐ 151 · Go</sub>
 
 ## 🍓 Raspberry Pi、Jetson、ビジョン
 
 > シングルボードコンピュータでのコンピュータビジョンと推論。
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking <sub>⭐ 62.2k · Python</sub>
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export. <sub>⭐ 58.1k · Python</sub>
-- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. <sub>⭐ 51.1k · Python</sub>
-- [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark <sub>⭐ 33.0k · Python</sub>
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format <sub>⭐ 28.4k · TypeScript</sub>
-- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors <sub>⭐ 14.2k · Jupyter Notebook</sub>
-- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. <sub>⭐ 14.1k · Python</sub>
-- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection (NeurIPS 2024) <sub>⭐ 11.3k · Python</sub>
-- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution. <sub>⭐ 11.0k · Python</sub>
-- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference <sub>⭐ 10.9k · C++</sub>
-- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io <sub>⭐ 10.7k · Python</sub>
-- [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export. <sub>⭐ 10.6k · Python</sub>
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with… <sub>⭐ 10.6k · Python</sub>
-- [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information <sub>⭐ 9.6k · Python</sub>
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable Python and C++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes <sub>⭐ 8.3k · Python</sub>
-- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO. <sub>⭐ 7.5k · Go</sub>
-- [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3 <sub>⭐ 7.4k · Python</sub>
-- [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend) <sub>⭐ 7.1k · Python</sub>
-- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - (CVPR 2024) Real-Time Open-Vocabulary Object Detection <sub>⭐ 6.6k · Python</sub>
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. <sub>⭐ 6.6k · C++</sub>
-- [open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference. <sub>⭐ 6.2k · Python</sub>
-- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. <sub>⭐ 5.9k · Jupyter Notebook</sub>
-- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. <sub>⭐ 5.8k · C</sub>
-- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - (CVPR 2024) Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. <sub>⭐ 5.6k · Python</sub>
-- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS. <sub>⭐ 5.1k · Jupyter Notebook</sub>
-- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T <sub>⭐ 4.9k · Jupyter Notebook</sub>
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. <sub>⭐ 4.7k · C++</sub>
-- [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4 <sub>⭐ 4.5k · Python</sub>
-- [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow <sub>⭐ 4.1k · Jupyter Notebook</sub>
-- [YunYang1994/tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - TensorFlow Code for technical report: "YOLOv3: An Incremental Improvement" <sub>⭐ 3.6k · Python</sub>
-- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home… <sub>⭐ 3.6k · Python</sub>
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen. <sub>⭐ 3.5k · Python</sub>
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!! <sub>⭐ 3.5k · Python</sub>
-- [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc. <sub>⭐ 3.5k · Python</sub>
-- [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm <sub>⭐ 3.3k · Python</sub>
-- [tinyvision/DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) - DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. <sub>⭐ 3.2k · Python</sub>
-- [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! <sub>⭐ 3.1k · Python</sub>
-- [pytorch/TensorRT](https://github.com/pytorch/TensorRT) - PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT <sub>⭐ 3.0k · Python</sub>
-- [Cartucho/mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition. <sub>⭐ 3.0k · Python</sub>
-- [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - (NeurIPS 2025) YOLOv12: Attention-Centric Real-Time Object Detectors <sub>⭐ 3.0k · Python</sub>
-- [iscyy/ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 专注于YOLO11，YOLOv8、TYOLOv12、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules <sub>⭐ 3.0k · Python</sub>
-- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - Gracefully face hCaptcha challenge with multimodal large language model. <sub>⭐ 2.5k · Python</sub>
-- [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0 <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM… <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~ <sub>⭐ 2.5k · C++</sub>
-- [roboflow/inference](https://github.com/roboflow/inference) - Turn any computer or edge device into a command center for your computer vision projects. <sub>⭐ 2.5k · Python</sub>
-- [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) - YOLO ROS: Real-Time Object Detection for ROS <sub>⭐ 2.4k · C++</sub>
-- [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) - Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter. <sub>⭐ 2.4k · C++</sub>
-- [deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face) - YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931) ECCV Workshops 2022) <sub>⭐ 2.4k · Python</sub>
-- [ayooshkathuria/YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch) - Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch" <sub>⭐ 2.3k · Python</sub>
-- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything (ICCV 2025) <sub>⭐ 2.3k · Python</sub>
-- [opendatalab/DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) - DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception <sub>⭐ 2.3k · Python</sub>
-- [hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite <sub>⭐ 2.3k · Python</sub>
-- [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022） <sub>⭐ 2.2k · Python</sub>
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. <sub>⭐ 2.2k · Go</sub>
-- [Thinkright20/Profile-Badges](https://github.com/Thinkright20/Profile-Badges) - A list of all profile badges and how to obtain each one <sub>⭐ 2.1k</sub>
-- [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and the… <sub>⭐ 2.1k · C</sub>
-- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models <sub>⭐ 2.1k · Python</sub>
-- [WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - Scaled-YOLOv4: Scaling Cross Stage Partial Network <sub>⭐ 2.0k · Python</sub>
-- [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206) <sub>⭐ 2.0k · Python</sub>
-- [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) - PyTorch implementation of YOLOv4 <sub>⭐ 1.9k · Python</sub>
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - Easier & Faster YOLO Deployment Toolkit for NVIDIA <sub>⭐ 1.9k · C++</sub>
-- [AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2 <sub>⭐ 1.8k · C++</sub>
-- [triple-mu/YOLOv8-TensorRT](https://github.com/triple-mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate ! <sub>⭐ 1.8k · Python</sub>
-- [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready. <sub>⭐ 1.8k · TypeScript</sub>
-- [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable) <sub>⭐ 1.8k · C</sub>
-- [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - A collection of some awesome public YOLO object detection series projects and the related object detection datasets. <sub>⭐ 1.8k</sub>
-- [jkjung-avt/tensorrt_demos](https://github.com/jkjung-avt/tensorrt_demos) - TensorRT MODNet, YOLOv4, YOLOv3, SSD, MTCNN, and GoogLeNet <sub>⭐ 1.8k · Python</sub>
-- [llSourcell/YOLO_Object_Detection](https://github.com/llSourcell/YOLO_Object_Detection) - This is the code for "YOLO Object Detection" by Siraj Raval <sub>⭐ 1.8k · Python</sub>
-- [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB <sub>⭐ 1.7k · C</sub>
-- [MultimediaTechLab/YOLO](https://github.com/MultimediaTechLab/YOLO) - An MIT License of YOLOv9, YOLOv7, YOLO-RD <sub>⭐ 1.7k · Python</sub>
-- [experiencor/keras-yolo2](https://github.com/experiencor/keras-yolo2) - Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows). <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world <sub>⭐ 1.7k · JavaScript</sub>
-- [gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow) - tensorflow implementation of 'YOLO : Real-Time Object Detection' <sub>⭐ 1.7k · Python</sub>
-- [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception". <sub>⭐ 1.7k · Python</sub>
-- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation. <sub>⭐ 1.7k · Python</sub>
-- [Qidian213/deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow <sub>⭐ 1.7k · Python</sub>
-- [argusswift/YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) - This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO <sub>⭐ 1.7k · Python</sub>
-- [experiencor/keras-yolo3](https://github.com/experiencor/keras-yolo3) - Training and Detecting Objects with YOLO3 <sub>⭐ 1.6k · Python</sub>
-- [longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch) - YOLOv2 in PyTorch <sub>⭐ 1.6k · Python</sub>
-- [wizyoung/YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) - Complete YOLO v3 TensorFlow implementation. Support training on your own dataset. <sub>⭐ 1.6k · Python</sub>
-- [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) - PyQt5 implementation of YOLOv5 GUI <sub>⭐ 1.5k · Python</sub>
-- [theAIGuysCode/yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. <sub>⭐ 1.4k · Python</sub>
-- [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson <sub>⭐ 1.4k · C++</sub>
-- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, whiteboard, learning, all in one. <sub>⭐ 1.4k · TypeScript</sub>
-- [maudzung/Complex-YOLOv4-Pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch) - The PyTorch Implementation based on YOLOv4 of the paper: "Complex-YOLO: Real-time 3D Object Detection on Point Clouds" <sub>⭐ 1.3k · Python</sub>
-- [zenangst/Spots](https://github.com/zenangst/Spots) - Spots is a cross-platform view controller framework for building component-based UIs <sub>⭐ 1.3k · Swift</sub>
-- [streamlit/demo-self-driving](https://github.com/streamlit/demo-self-driving) - Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO. <sub>⭐ 1.3k · Python</sub>
-- [ultralytics/JSON2YOLO](https://github.com/ultralytics/JSON2YOLO) - Legacy JSON-to-YOLO dataset converter for COCO, LabelMe, Labelbox, VoTT, INFOLKS, and ATH annotations. Superseded by convert_coco() in the Ultralytics package. <sub>⭐ 1.2k · Python</sub>
-- [GeekAlexis/FastMOT](https://github.com/GeekAlexis/FastMOT) - High-performance multiple object tracking based on YOLO, Deep SORT, and KLT <sub>⭐ 1.2k · Python</sub>
-- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5n,s,m,l,x .darknet -> tensorrt. Yolov4 Yolov3 use raw darknet *.weights and *.cfg fils. If the wrapper is useful to you,please Star it. <sub>⭐ 1.2k · C++</sub>
-- [NVIDIA-AI-IOT/jetracer](https://github.com/NVIDIA-AI-IOT/jetracer) - An autonomous AI racecar using NVIDIA Jetson Nano <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [philipperemy/yolo-9000](https://github.com/philipperemy/yolo-9000) - YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes! <sub>⭐ 1.2k</sub>
-- [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT <sub>⭐ 1.2k · Jupyter Notebook</sub>
-- [Jai-wei/YOLOv8-PySide6-GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI) - YoloSide - YOLOv8 GUI By PySide6 <sub>⭐ 1.2k · Python</sub>
-- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv11,YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support <sub>⭐ 1.2k · Python</sub>
-- [mgonzs13/yolo_ros](https://github.com/mgonzs13/yolo_ros) - Ultralytics YOLOv8, YOLOv9, YOLOv10, YOLOv11, YOLOv12 for ROS 2 <sub>⭐ 1.1k · Python</sub>
-- [Rishabh-creator601/Books](https://github.com/Rishabh-creator601/Books) - Books / PDFS / EPUBS for different fields of programming . READ GROW AND ENJOY <sub>⭐ 1.1k</sub>
-- [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask. <sub>⭐ 1.1k · Python</sub>
-- [brenpoly/be-more-agent](https://github.com/brenpoly/be-more-agent) - Local AI Agent running on Raspberry Pi <sub>⭐ 1.1k · Python</sub>
-- [Geekgineer/YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP) - Cross-Platform Production-ready C++ inference engine for YOLO models (v5-v12, YOLO26). Unified API for detection, segmentation, pose estimation, OBB, and classification. Built on ONNX Runtime and… <sub>⭐ 1.1k · C++</sub>
-- [NVIDIA-AI-IOT/trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose) - Real-time pose estimation accelerated with NVIDIA TensorRT <sub>⭐ 1.1k · Python</sub>
-- [neka-nat/cupoch](https://github.com/neka-nat/cupoch) - Robotics with GPU computing <sub>⭐ 1.1k · C++</sub>
-- [Gumpest/YOLOv5-Multibackbone-Compression](https://github.com/Gumpest/YOLOv5-Multibackbone-Compression) - YOLOv5 Series Multi-backbone(TPH-YOLOv5, Ghostnet, ShuffleNetv2, Mobilenetv3Small, EfficientNetLite, PP-LCNet, SwinTransformer YOLO), Module(CBAM, DCN), Pruning (EagleEye, Network Slimming)… <sub>⭐ 1.0k · Python</sub>
-- [abdullahtarek/football_analysis](https://github.com/abdullahtarek/football_analysis) - This repository contains a comprehensive computer vision/machine learning football project that uses YOLO for object detection, Kmeans for pixel segmentation, optical flow for motion tracking, and… <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - A real-time multi-object tracking application in C++17 with Qt and ONNX Runtime that runs a YOLO detector with four pluggable trackers — ByteTrack, OC-SORT, Deep OC-SORT, and DeepSORT. <sub>⭐ 1.0k · C++</sub>
-- [taehoonlee/tensornets](https://github.com/taehoonlee/tensornets) - High level network definitions with pre-trained weights in TensorFlow <sub>⭐ 995 · Python</sub>
-- [Qengineering/Jetson-Nano-Ubuntu-20-image](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) - Jetson Nano with Ubuntu 20.04 image <sub>⭐ 984</sub>
-- [dusty-nv/ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) - Deep learning inference nodes for ROS / ROS2 with support for NVIDIA Jetson and TensorRT <sub>⭐ 983 · C++</sub>
-- [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) - Label images and video for Computer Vision applications <sub>⭐ 965 · Python</sub>
-- [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) - Based on Yolo's low-power, ultra-lightweight universal target detection algorithm, the parameter is only 250k, and the speed of the smart phone mobile terminal can reach ~300fps+ <sub>⭐ 943 · Python</sub>
-- [hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) - Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API. <sub>⭐ 943 · Swift</sub>
-- [dhm2013724/yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga) - A demo for accelerating YOLOv2 in xilinx's fpga pynq/zedboard <sub>⭐ 927 · C</sub>
-- [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - (NeurIPS 2021) You Only Look at One Sequence <sub>⭐ 903 · Jupyter Notebook</sub>
-- [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to… <sub>⭐ 894 · Jupyter Notebook</sub>
-- [Guanghan/ROLO](https://github.com/Guanghan/ROLO) - ROLO is short for Recurrent YOLO, aimed at simultaneous object detection and tracking <sub>⭐ 889 · Python</sub>
-- [mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) - Implementation of YOLO v3 object detector in Tensorflow (TF-Slim) <sub>⭐ 878 · Python</sub>
-- [eric612/MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO) - A caffe implementation of MobileNet-YOLO detection network <sub>⭐ 868 · C++</sub>
-- [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is… <sub>⭐ 861 · Python</sub>
-- [insight-platform/Savant](https://github.com/insight-platform/Savant) - Python Computer Vision & Video Analytics Framework With Batteries Included <sub>⭐ 859 · Python</sub>
-- [dromara/Omega-AI](https://github.com/dromara/Omega-AI) - Omega-AI is a Java-based deep learning framework that helps you quickly build neural networks for inference and training. Its engine supports automatic differentiation, multithreading, and GPU… <sub>⭐ 854 · Java</sub>
-- [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework <sub>⭐ 854 · C++</sub>
-- [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless) - An open-source computer vision framework to build and deploy apps in minutes <sub>⭐ 853 · Rust</sub>
-- [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLO is a MIT licensed open source computer vision library <sub>⭐ 847 · Python</sub>
-- [derronqi/yolov8-face](https://github.com/derronqi/yolov8-face) - yolov8 face detection with landmark <sub>⭐ 833 · Python</sub>
-- [ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM) - Unofficial implementation of YOLO-World + EfficientSAM for ComfyUI <sub>⭐ 826 · Python</sub>
-- [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet) - YoloDotNet - A C# .NET 8.0 project for Classification, Object Detection, OBB Detection, Segmentation and Pose Estimation in both images and live video streams. <sub>⭐ 825 · C#</sub>
-- [AlibabaResearch/efficientteacher](https://github.com/AlibabaResearch/efficientteacher) - A Supervised and Semi-Supervised Object Detection Library for YOLO Series <sub>⭐ 813 · Python</sub>
-- [hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow) - Tensorflow implementation of YOLO, including training and test phase. <sub>⭐ 805 · Python</sub>
-- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system <sub>⭐ 793 · Python</sub>
-- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo X, v3 ~ v12 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in… <sub>⭐ 786 · Python</sub>
-- [wmcnally/kapao](https://github.com/wmcnally/kapao) - KAPAO is an efficient single-stage human pose estimation model that detects keypoints and poses as objects and fuses the detections to predict human poses. <sub>⭐ 772 · Python</sub>
-- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO <sub>⭐ 768 · Jupyter Notebook</sub>
-- [nilboy/tensorflow-yolo](https://github.com/nilboy/tensorflow-yolo) - tensorflow implementation of 'YOLO : Real-Time Object Detection'(train and test) <sub>⭐ 768 · Python</sub>
-- [DoubangoTelecom/ultimateALPR-SDK](https://github.com/DoubangoTelecom/ultimateALPR-SDK) - World's fastest ANPR / ALPR implementation for CPUs, GPUs, VPUs and NPUs using deep learning (Tensorflow, Tensorflow lite, TensorRT, OpenVX, OpenVINO). Multi-Charset (Latin, Korean, Chinese) &… <sub>⭐ 745 · C++</sub>
-- [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - (CVPR2026) Official code for the paper "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection." *(YOLO = You Only Look Once)* <sub>⭐ 741 · Python</sub>
-- [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) - YOLOv8 TensorRT C++ Implementation <sub>⭐ 737 · C++</sub>
-- [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn. <sub>⭐ 730 · Python</sub>
-- [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) - The YOLOv5 object detection android example <sub>⭐ 724 · C++</sub>
-- [wandahangFY/YOLOv11-RGBT](https://github.com/wandahangFY/YOLOv11-RGBT) - YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework（Supports RGBT detection for all YOLO series from YOLOv3 to YOLOv13, as well as RTDETR. 【Ultralytics… <sub>⭐ 724 · Python</sub>
-- [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms <sub>⭐ 721 · C++</sub>
-- [ArtLabss/tennis-tracking](https://github.com/ArtLabss/tennis-tracking) - Open-source Monocular Python HawkEye for Tennis <sub>⭐ 713 · Python</sub>
-- [developer0hye/Yolo_Label](https://github.com/developer0hye/Yolo_Label) - GUI for marking bounded boxes of objects in images for training neural network YOLO <sub>⭐ 710 · C++</sub>
-- [SanshruthR/CCTV_YOLO](https://github.com/SanshruthR/CCTV_YOLO) - Fast Real-time Object Detection with High-Res Output https://x.com/_akhaliq/status/1840213012818329826 https://x.com/githubprojects/status/1891370506537910724… <sub>⭐ 707 · Python</sub>
-- [farukalamai/advanced-machine-learning-engineer-roadmap-2024](https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024) - A Full Stack ML (Machine Learning) Roadmap involves learning the necessary skills and technologies to become proficient in all aspects of machine learning, including data collection and… <sub>⭐ 703</sub>
-- [zserge/grayskull](https://github.com/zserge/grayskull) - A tiny, dependency-free computer vision library in C for embedded systems, drones, and robotics. <sub>⭐ 700 · C</sub>
-- [adipandas/multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python <sub>⭐ 696 · Python</sub>
-- [NVIDIA-AI-IOT/tf_trt_models](https://github.com/NVIDIA-AI-IOT/tf_trt_models) - TensorFlow models accelerated with NVIDIA TensorRT <sub>⭐ 694 · Python</sub>
-- [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception <sub>⭐ 692 · Python</sub>
-- [open-edge-platform/datumaro](https://github.com/open-edge-platform/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets. <sub>⭐ 692 · Python</sub>
-- [Bobo-y/flexible-yolov5](https://github.com/Bobo-y/flexible-yolov5) - More readable and flexible yolov5 with more backbone(gcn, resnet, shufflenet, moblienet, efficientnet, hrnet, swin-transformer, etc) and (cbam，dcn and so on), and tensorrt <sub>⭐ 691 · Python</sub>
-- [natanielruiz/android-yolo](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network with TensorFlow <sub>⭐ 691 · C++</sub>
-- [abeardear/pytorch-YOLO-v1](https://github.com/abeardear/pytorch-YOLO-v1) - an experiment for yolo-v1, including training and testing. <sub>⭐ 679 · Python</sub>
-- [AntonMu/TrainYourOwnYOLO](https://github.com/AntonMu/TrainYourOwnYOLO) - Train a state-of-the-art yolov3 object detector from scratch! <sub>⭐ 679 · Jupyter Notebook</sub>
-- [ultralytics/assets](https://github.com/ultralytics/assets) - Shared Ultralytics logos, media, sample images, pretrained model weights, dataset artifacts, and release assets. <sub>⭐ 677</sub>
-- [JunshengFu/vehicle-detection](https://github.com/JunshengFu/vehicle-detection) - Created vehicle detection pipeline with two approaches: (1) deep neural networks (YOLO framework) and (2) support vector machines ( OpenCV + HOG). <sub>⭐ 674 · Python</sub>
-- [jwchoi384/Gaussian_YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3) - Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving (ICCV, 2019) <sub>⭐ 670 · C</sub>
-- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLO11, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. <sub>⭐ 668 · Python</sub>
-- [positive666/yolo_research](https://github.com/positive666/yolo_research) - based on yolo-high-level project (detect\pose\classify\segment\):include yolov5\yolov7\yolov8\ core ,improvement research ,SwintransformV2 and Attention Series. training skills, business… <sub>⭐ 668 · Python</sub>
-- [mxcl/YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes <sub>⭐ 662 · Objective-C</sub>
-- [HZAI-ZJNU/Mamba-YOLO](https://github.com/HZAI-ZJNU/Mamba-YOLO) - the official pytorch implementation of “Mamba-YOLO：SSMs-based for Object Detection” <sub>⭐ 656 · Python</sub>
-- [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) - YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking <sub>⭐ 654 · Python</sub>
-- [BMW-InnovationLab/BMW-YOLOv4-Training-Automation](https://github.com/BMW-InnovationLab/BMW-YOLOv4-Training-Automation) - This repository allows you to get started with training a state-of-the-art Deep Learning model with little to no configuration needed! You provide your labeled dataset or label your dataset using our… <sub>⭐ 652 · Python</sub>
-- [theNetworkChuck/frigate-nvr-guide](https://github.com/theNetworkChuck/frigate-nvr-guide) - Complete guide for building a local AI surveillance system with Frigate NVR. Includes Raspberry Pi + Hailo setup, desktop + Coral setup, progressive configs, and WiFi troubleshooting. <sub>⭐ 651</sub>
-- [judahpaul16/gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! A better alternative to commercial smart home assistants, built on the Raspberry Pi using LiteLLM and LangGraph. <sub>⭐ 650 · Python</sub>
-- [finbarr/yolobox](https://github.com/finbarr/yolobox) - Let your AI go full send. Your home directory stays home. <sub>⭐ 649 · Go</sub>
-- [david8862/keras-YOLOv3-model-set](https://github.com/david8862/keras-YOLOv3-model-set) - end-to-end YOLOv4/v3/v2 object detection pipeline, implemented on tf.keras with different technologies <sub>⭐ 638 · Python</sub>
-- [open-edge-platform/dlstreamer](https://github.com/open-edge-platform/dlstreamer) - Deep Learning Streamer (DL Streamer) Pipeline Framework is an open-source streaming media analytics framework, based on GStreamer* multimedia framework, for creating complex media analytics pipelines… <sub>⭐ 636 · C++</sub>
-- [yzfzzz/depth-detect](https://github.com/yzfzzz/depth-detect) - mono / stereo depth estimation + yolo object detection with deployment on Jeston nano / TX2 / GeForce by TensorRT <sub>⭐ 629 · C++</sub>
-- [flashrt-project/FlashRT](https://github.com/flashrt-project/FlashRT) - FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST.… <sub>⭐ 611 · C++</sub>
-- [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yolo model qat and deploy with deepstream&tensorrt <sub>⭐ 610 · Python</sub>
-- [wenyyu/Image-Adaptive-YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) - The code for "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions (AAAI 2022)" <sub>⭐ 610 · Python</sub>
-- [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack) - An open harness to simulate and deploy perception-based PX4/ArduPilot drone swarms with ROS2, YOLO, LiDAR, NVIDIA Jetson <sub>⭐ 609 · C++</sub>
-- [OvidijusParsiunas/myvision](https://github.com/OvidijusParsiunas/myvision) - Computer vision based ML training data generation tool <sub>⭐ 609 · JavaScript</sub>
-- [pythonlessons/TensorFlow-2.x-YOLOv3](https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3) - YOLOv3 implementation in TensorFlow 2.3.1 <sub>⭐ 609 · Jupyter Notebook</sub>
-- [theAIGuysCode/yolov4-custom-functions](https://github.com/theAIGuysCode/yolov4-custom-functions) - A Wide Range of Custom Functions for YOLOv4, YOLOv4-tiny, YOLOv3, and YOLOv3-tiny Implemented in TensorFlow, TFLite, and TensorRT. <sub>⭐ 608 · Python</sub>
-- [Helldez/BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge) - Run MoE models bigger than your RAM. Frontier-size MoE on a 12 GB phone, lossless, on stock llama.cpp <sub>⭐ 605 · C++</sub>
-- [xiaochus/YOLOv3](https://github.com/xiaochus/YOLOv3) - Keras implementation of yolo v3 object detection. <sub>⭐ 605 · Python</sub>
-- [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) - Real time yolov8 Android demo by ncnn <sub>⭐ 591 · C++</sub>
-- [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) - yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5 <sub>⭐ 581 · Python</sub>
-- [dfl-rlab/dddmr_navigation](https://github.com/dfl-rlab/dddmr_navigation) - dddmr_navigation is the 3D navigation solution for mobile robots includes mapping/localization/perception/path planning/controller/navigation stack <sub>⭐ 574 · C++</sub>
-- [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) - Repository for Single Shot MultiBox Detector and its variants, implemented with pytorch, python3. <sub>⭐ 565 · Python</sub>
-- [dme-compunet/YoloSharp](https://github.com/dme-compunet/YoloSharp) - A high performance real-time object detection solution using YOLO11 powered by ONNX-Runtime <sub>⭐ 564 · C#</sub>
-- [Adamdad/keras-YOLOv3-mobilenet](https://github.com/Adamdad/keras-YOLOv3-mobilenet) - I transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101 <sub>⭐ 561 · Python</sub>
-- [wufan-tb/yolo_slowfast](https://github.com/wufan-tb/yolo_slowfast) - Yolov5+SlowFast: Realtime Action Detection Based on PytorchVideo <sub>⭐ 559 · Python</sub>
-- [Koldim2001/YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) - Python library for YOLO small object detection and instance segmentation <sub>⭐ 556 · Python</sub>
-- [jaylfc/taOS](https://github.com/jaylfc/taOS) - Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full… <sub>⭐ 553 · Python</sub>
-- [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel is an offline image annotation tool for object detection and segmentation. <sub>⭐ 552 · Jupyter Notebook</sub>
-- [guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot) - Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX for High-performance deployment(高性能部署) <sub>⭐ 543 · Python</sub>
-- [YOLOSHOW/YOLOSHOW](https://github.com/YOLOSHOW/YOLOSHOW) - YOLO SHOW - YOLOv11 / YOLOv10 / YOLOv9 / YOLOv8 / YOLOv7 / YOLOv5 / RTDETR / SAM / MobileSAM / FastSAM YOLO GUI based on Pyside6 <sub>⭐ 541 · Python</sub>
-- [antmicro/jetson-nano-baseboard](https://github.com/antmicro/jetson-nano-baseboard) - Antmicro's open hardware baseboard for the NVIDIA Jetson Nano, TX2 NX and Xavier NX <sub>⭐ 540</sub>
-- [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) - Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat)… <sub>⭐ 537 · Shell</sub>
-- [ModelDepot/tfjs-yolo-tiny](https://github.com/ModelDepot/tfjs-yolo-tiny) - In-Browser Object Detection using Tiny YOLO on Tensorflow.js <sub>⭐ 534 · JavaScript</sub>
-- [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance <sub>⭐ 531 · Python</sub>
-- [NVIDIA-AI-IOT/nanoowl](https://github.com/NVIDIA-AI-IOT/nanoowl) - A project that optimizes OWL-ViT for real-time inference with NVIDIA TensorRT. <sub>⭐ 525 · Python</sub>
-- [Amin-Tgz/awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2) - Tensorflow 2.x resources such as tutorial, blog, code and videos <sub>⭐ 523</sub>
-- [obendidi/Tracking-with-darkflow](https://github.com/obendidi/Tracking-with-darkflow) - Real-time people Multitracker using YOLO v2 and deep_sort with tensorflow <sub>⭐ 522 · Python</sub>
-- [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code. <sub>⭐ 521 · JavaScript</sub>
-- [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) - Ultralytics YOLO iOS app and Swift package for real-time Core ML inference across major computer vision tasks. <sub>⭐ 515 · Swift</sub>
-- [Atten4Vis/LW-DETR](https://github.com/Atten4Vis/LW-DETR) - This repository is an official implementation of the paper "LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection". <sub>⭐ 514 · Python</sub>
-- [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks. <sub>⭐ 514 · Python</sub>
-- [xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo) - YOLO (Real-Time Object Detection) in caffe <sub>⭐ 514 · Python</sub>
-- [arunponnusamy/object-detection-opencv](https://github.com/arunponnusamy/object-detection-opencv) - YOLO Object detection with OpenCV and Python. <sub>⭐ 511 · Python</sub>
-- [computer-vision-with-marco/yolo-training-template](https://github.com/computer-vision-with-marco/yolo-training-template) - In this repo there are some tips and a template to train your YOLO model for any kind of computer vision application <sub>⭐ 510 · Python</sub>
-- [madhawav/YOLO3-4-Py](https://github.com/madhawav/YOLO3-4-Py) - A Python wrapper on Darknet. Compatible with YOLO V3. <sub>⭐ 510 · Python</sub>
-- [HaloTrouvaille/YOLO-Multi-Backbones-Attention](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention) - Model Compression—YOLOv3 with multi lightweight backbones(ShuffleNetV2 HuaWei GhostNet), attention, prune and quantization <sub>⭐ 504 · Python</sub>
-- [NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) - Deep learned, NVIDIA-accelerated 3D object pose estimation <sub>⭐ 504 · C++</sub>
-- [vietanhdev/open-adas](https://github.com/vietanhdev/open-adas) - An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware. Features: Traffic sign detection, Forward collision warning, Lane departure warning. <sub>⭐ 503 · C++</sub>
-- [DrewNF/Tensorflow_Object_Tracking_Video](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video) - Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition <sub>⭐ 502 · Python</sub>
-- [ultralytics/yolo-flutter-app](https://github.com/ultralytics/yolo-flutter-app) - Official Ultralytics YOLO Flutter plugin for real-time inference on Android and iOS across major vision tasks. <sub>⭐ 500 · Dart</sub>
-- [LeonLok/Deep-SORT-YOLOv4](https://github.com/LeonLok/Deep-SORT-YOLOv4) - People detection and optional tracking with Tensorflow backend. <sub>⭐ 497 · Python</sub>
-- [RichardoMrMu/yolov5-deepsort-tensorrt](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt) - A c++ implementation of yolov5 and deepsort <sub>⭐ 493 · C++</sub>
-- [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection) - Python scripts performing object detection using the YOLOv8 model in ONNX. <sub>⭐ 491 · Python</sub>
-- [icey-zhang/SuperYOLO](https://github.com/icey-zhang/SuperYOLO) - SuperYOLO is accepted by TGRS <sub>⭐ 490 · Python</sub>
-- [lewes6369/TensorRT-Yolov3](https://github.com/lewes6369/TensorRT-Yolov3) - TensorRT for Yolov3 <sub>⭐ 484 · C++</sub>
-- [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - Real-time multi-object tracker using YOLOv7 and StrongSORT with OSNet <sub>⭐ 484 · Python</sub>
-- [duy-phamduc68/TrafficLab-3D](https://github.com/duy-phamduc68/TrafficLab-3D) - Create a digital-twin style traffic visualization using only mp4 CCTV footage and its Google Maps location. <sub>⭐ 481 · Python</sub>
-- [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - Track vehicles and persons on rk3588 / rk3399pro. <sub>⭐ 481 · C++</sub>
-- [Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8](https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8) - License Plate Detection using YOLOv8 <sub>⭐ 477 · Python</sub>
-- [ChenYingpeng/caffe-yolov3](https://github.com/ChenYingpeng/caffe-yolov3) - A real-time object detection framework of Yolov3/v4 based on caffe <sub>⭐ 474 · C++</sub>
-- [NVIDIA-AI-IOT/jetcam](https://github.com/NVIDIA-AI-IOT/jetcam) - Easy to use Python camera interface for NVIDIA Jetson <sub>⭐ 465 · Jupyter Notebook</sub>
-- [sthanhng/yoloface](https://github.com/sthanhng/yoloface) - Deep learning-based Face detection using the YOLOv3 algorithm (https://github.com/sthanhng/yoloface) <sub>⭐ 463 · Python</sub>
-- [jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI](https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI) - a GUI application, which uses YOLOs (YOLOv8, YOLO11, YOLOv13) for Object Detection/Tracking, Human Pose Estimation/Tracking from images, videos or camera <sub>⭐ 461 · Python</sub>
-- [kaylorchen/rk3588-yolo-demo](https://github.com/kaylorchen/rk3588-yolo-demo) - The project is a multi-threaded inference demo of Yolo running on the RK3588 platform, which has been adapted for reading video files and camera feeds. The demo uses the Yolov8n model for file… <sub>⭐ 459 · C++</sub>
-- [gaia-solutions-on-demand/DFireDataset](https://github.com/gaia-solutions-on-demand/DFireDataset) - D-Fire: an image data set for fire and smoke detection. <sub>⭐ 458 · Python</sub>
-- [robmarkcole/fire-detection-from-images](https://github.com/robmarkcole/fire-detection-from-images) - Detect fire in images using neural nets <sub>⭐ 457 · Jupyter Notebook</sub>
-- [burningion/poor-mans-deep-learning-camera](https://github.com/burningion/poor-mans-deep-learning-camera) - Build a thin client deep learning camera with the Raspberry Pi, Flask, and YOLO <sub>⭐ 453 · Python</sub>
-- [CVUsers/Smoke-Detect-by-YoloV5](https://github.com/CVUsers/Smoke-Detect-by-YoloV5) - Yolov5 real time smoke detection system <sub>⭐ 453 · Jupyter Notebook</sub>
-- [UNeedCryDear/yolov8-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp) - yolov8 hub,cpp with onnxruntime and opencv <sub>⭐ 453 · C++</sub>
-- [walktree/libtorch-yolov3](https://github.com/walktree/libtorch-yolov3) - A Libtorch implementation of the YOLO v3 object detection algorithm <sub>⭐ 453 · C++</sub>
-- [AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds pytorch Darknet <sub>⭐ 452 · Python</sub>
-- [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) - This is official repository of our paper "RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification". Codes include a two stage model to achieve drone detection and… <sub>⭐ 447 · Python</sub>
-- [vietnh1009/Yolo-v2-pytorch](https://github.com/vietnh1009/Yolo-v2-pytorch) - YOLO for object detection tasks <sub>⭐ 447 · Python</sub>
-- [miemie2013/Keras-YOLOv4](https://github.com/miemie2013/Keras-YOLOv4) - yolov4 42.0% mAP.ppyolo 45.1% mAP. <sub>⭐ 446 · Python</sub>
-- [jamjamjon/usls](https://github.com/jamjamjon/usls) - A Rust library integrated with ONNXRuntime, providing a collection of Computer Vison and Vision-Language models such as YOLO, FastVLM, and more. <sub>⭐ 444 · Rust</sub>
-- [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) - PyTorch implementation of the YOLO (You Only Look Once) v2 <sub>⭐ 443 · Python</sub>
-- [SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone](https://github.com/SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone) - YOLO ModelCompression MultidatasetTraining <sub>⭐ 443 · Python</sub>
-- [niconielsen32/YOLO-3D](https://github.com/niconielsen32/YOLO-3D) - 3D object detection using YOLO and depth estimation <sub>⭐ 441 · Python</sub>
-- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - (AAAI'23 & IJCV'26) This repo is an implementation of PyTorch version YOLOV Series <sub>⭐ 441 · Python</sub>
-- [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision <sub>⭐ 439 · Python</sub>
-- [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) - yolov7 face detection with landmark <sub>⭐ 438 · Python</sub>
-- [Mrpachimari0704/MidState-Yolo](https://github.com/Mrpachimari0704/MidState-Yolo) - Midstate-YOLO is a YOLO variant with improved recognition speed and detection accuracy. <sub>⭐ 433 · Python</sub>
-- [AlturosDestinations/Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) - C# Yolo Darknet Wrapper (real-time object detection) <sub>⭐ 431 · C#</sub>
-- [MugheesMehdi07/langvio](https://github.com/MugheesMehdi07/langvio) - A powerful AI library that bridges Large Language Models (LLMs) with video processing frameworks like YOLO, enabling seamless integration of vision and language for advanced video understanding… <sub>⭐ 431 · Python</sub>
-- [Barath19/Boxer3D](https://github.com/Barath19/Boxer3D) - AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting <sub>⭐ 430 · Swift</sub>
-- [aparsoft/yolo-streamlit-detection-tracking](https://github.com/aparsoft/yolo-streamlit-detection-tracking) - Object detection and tracking algorithm implemented for Real-Time video streams and static images. <sub>⭐ 429 · Python</sub>
-- [darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) - 100+ AI Machine learning Deep learning Computer vision NLP Projects with code <sub>⭐ 415</sub>
-- [Ank-Cha/Social-Distancing-Analyser-COVID-19](https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19) - A social distancing analyzer AI tool to regulate social distancing protocol using video surveillance of CCTV cameras and drones. Social Distancing Analyser to prevent COVID19 <sub>⭐ 412 · Python</sub>
-- [simoncirstoiu/alice](https://github.com/simoncirstoiu/alice) - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit <sub>⭐ 409 · JavaScript</sub>
-- [gomzyakov/github-achievements](https://github.com/gomzyakov/github-achievements) - Complete list of all GitHub profile Badges and Achievements (20+ languages) <sub>⭐ 404</sub>
-- [dusty-nv/jetbot_ros](https://github.com/dusty-nv/jetbot_ros) - ROS nodes and Gazebo model for NVIDIA JetBot with Jetson Nano <sub>⭐ 402 · Python</sub>
-- [monemati/PX4-ROS2-Gazebo-YOLOv8](https://github.com/monemati/PX4-ROS2-Gazebo-YOLOv8) - Aerial Object Detection using a Drone with PX4 Autopilot and ROS 2. PX4 SITL and Gazebo Garden used for Simulation. YOLOv8 used for Object Detection. <sub>⭐ 402 · Python</sub>
-- [NVIDIA-AI-IOT/jetson_benchmarks](https://github.com/NVIDIA-AI-IOT/jetson_benchmarks) - Jetson Benchmark <sub>⭐ 402 · Python</sub>
-- [GuiltyNeuron/ANPR](https://github.com/GuiltyNeuron/ANPR) - license plate detection and recognition <sub>⭐ 397 · Python</sub>
-- [Abonia1/YOLOv8-Fire-and-Smoke-Detection](https://github.com/Abonia1/YOLOv8-Fire-and-Smoke-Detection) - This projevct aims to detect fire in forest and other areas <sub>⭐ 395 · Jupyter Notebook</sub>
-- [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle <sub>⭐ 395 · Python</sub>
-- [xslittlegrass/CarND-Vehicle-Detection](https://github.com/xslittlegrass/CarND-Vehicle-Detection) - Vehicle detection using YOLO in Keras runs at 21FPS <sub>⭐ 392 · Jupyter Notebook</sub>
-- [wuzhihao7788/yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch) - reproduce the YOLO series of papers in pytorch, including YOLOv4, PP-YOLO, YOLOv5，YOLOv3, etc. <sub>⭐ 390 · Python</sub>
-- [yyccR/yolov5_in_tf2_keras](https://github.com/yyccR/yolov5_in_tf2_keras) - YOLOv5 in TF2 > TFLite > ONNX > TensorRT <sub>⭐ 387 · Jupyter Notebook</sub>
-- [jinbooooom/OriginDL](https://github.com/jinbooooom/OriginDL) - Implement a Pytorch-like DL library in C++ from scratch, step by step <sub>⭐ 386 · C++</sub>
-- [techwingslab/yolov5-net](https://github.com/techwingslab/yolov5-net) - YOLOv5 object detection with C#, ML.NET, ONNX <sub>⭐ 385 · C#</sub>
-- [Ma-Dan/keras-yolo4](https://github.com/Ma-Dan/keras-yolo4) - A Keras implementation of YOLOv4 (Tensorflow backend) <sub>⭐ 380 · Python</sub>
-- [BossZard/rotation-yolov5](https://github.com/BossZard/rotation-yolov5) - rotation detection based on yolov5 <sub>⭐ 378 · Jupyter Notebook</sub>
-- [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) - YOLOv7 Pose estimation using OpenCV, PyTorch <sub>⭐ 377 · Python</sub>
-- [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) - Real-time multi-camera multi-object tracker using YOLO varients <sub>⭐ 376 · Python</sub>
-- [No-Chicken/Echo-Mate](https://github.com/No-Chicken/Echo-Mate) - Echo: A desk mate can talk to you, translate, monitor PC , make memos. It even have AI camera. <sub>⭐ 375 · C</sub>
-- [RizwanMunawar/yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) - YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics <sub>⭐ 375 · Python</sub>
-- [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5) - A LibTorch inference implementation of the yolov5 <sub>⭐ 375 · C++</sub>
-- [NVIDIA-AI-IOT/jetson_dla_tutorial](https://github.com/NVIDIA-AI-IOT/jetson_dla_tutorial) - A tutorial for getting started with the Deep Learning Accelerator (DLA) on NVIDIA Jetson <sub>⭐ 373 · Python</sub>
-- [nightsnack/YOLObile](https://github.com/nightsnack/YOLObile) - This is the implementation of YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design <sub>⭐ 371 · Python</sub>
-- [EthanH3514/AL_Yolo](https://github.com/EthanH3514/AL_Yolo) - A real-time computer vision system for low-latency visual target detection and tracking, powered by YOLOv5. <sub>⭐ 366 · Python</sub>
-- [reu2018DL/YOLO-LITE](https://github.com/reu2018DL/YOLO-LITE) - All the trained models used while developing YOLO-LITE <sub>⭐ 360 · Python</sub>
-- [theAIGuysCode/YOLOv4-Cloud-Tutorial](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial) - This repository walks you through how to Build and Run YOLOv4 Object Detections with Darknet in the Cloud with Google Colab. <sub>⭐ 360 · Jupyter Notebook</sub>
-- [iArunava/YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV) - This project implements a real-time image and video object detection classifier using pretrained yolov3 models. <sub>⭐ 359 · Python</sub>
-- [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) - Example of using ultralytics YOLO V5 with OpenCV 4.5.4, C++ and Python <sub>⭐ 356 · Python</sub>
-- [syxanash/maxheadbox](https://github.com/syxanash/maxheadbox) - Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi <sub>⭐ 354 · JavaScript</sub>
-- [YWL0720/YOLO_ORB_SLAM3](https://github.com/YWL0720/YOLO_ORB_SLAM3) - This is an improved version of ORB-SLAM3 that adds an object detection module implemented with YOLOv5 to achieve SLAM in dynamic environments. <sub>⭐ 351 · C++</sub>
-- [FocoosAI/focoos](https://github.com/FocoosAI/focoos) - Lightning-fast computer vision models. Fine-tune SOTA models with just a few lines of code. Ready for cloud and edge deployment. <sub>⭐ 350 · Python</sub>
-- [prominenceai/deepstream-services-library](https://github.com/prominenceai/deepstream-services-library) - A shared library of on-demand DeepStream Pipeline Services for Python and C/C++ <sub>⭐ 346 · C++</sub>
-- [dylski/PaperPiAI](https://github.com/dylski/PaperPiAI) - Raspberry Pi Zero powered AI-generated e-ink picture frame. <sub>⭐ 341 · Python</sub>
-- [hht1996ok/EA-LSS](https://github.com/hht1996ok/EA-LSS) - EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection <sub>⭐ 329 · Python</sub>
-- [JXingZhao/EGNet](https://github.com/JXingZhao/EGNet) - EGNet:Edge Guidance Network for Salient Object Detection (ICCV 2019) <sub>⭐ 325 · Python</sub>
-- [DJTobias/Cherry-Autonomous-Racecar](https://github.com/DJTobias/Cherry-Autonomous-Racecar) - Implementation of the CNN from End to End Learning for Self-Driving Cars on a Nvidia Jetson TX1 using Tensorflow and ROS <sub>⭐ 321 · Python</sub>
-- [Jakaria08/EESRGAN](https://github.com/Jakaria08/EESRGAN) - Small-Object Detection in Remote Sensing (satellite) Images with End-to-End Edge-Enhanced GAN and Object Detector Network <sub>⭐ 315 · Python</sub>
-- [jobergum/browser-ml-inference](https://github.com/jobergum/browser-ml-inference) - Edge Inference in Browser with Transformer NLP model <sub>⭐ 313 · Jupyter Notebook</sub>
-- [automaticdai/rpi-object-detection](https://github.com/automaticdai/rpi-object-detection) - Real-time object detection and tracking with Raspberry Pi and OpenCV! <sub>⭐ 312 · Python</sub>
-- [Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero) - This repository provides a comprehensive step-by-step guide to building AI projects using the Raspberry Pi AI Kit. <sub>⭐ 312 · Jupyter Notebook</sub>
-- [rbonghi/jetson_easy](https://github.com/rbonghi/jetson_easy) - Automatically script to setup and configure your NVIDIA Jetson (Nano, Xavier, TX2i, TX2, TX1, TK1) . This script run different modules to update, fix and patch the kernel, install ROS and other... <sub>⭐ 300 · Shell</sub>
-- [NVIDIA-AI-IOT/deepstream_pose_estimation](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) - This is a DeepStream application to demonstrate a human pose estimation pipeline. <sub>⭐ 299 · C++</sub>
-- [ThinkOffApp/CarWatch](https://github.com/ThinkOffApp/CarWatch) - Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. <sub>⭐ 292 · Python</sub>
-- [DanielMartensson/CControl](https://github.com/DanielMartensson/CControl) - Using advanced control and computer vision techniques in an easy way for embedded <sub>⭐ 287 · C</sub>
-- [nyadla-sys/whisper.tflite](https://github.com/nyadla-sys/whisper.tflite) - Optimized OpenAI's Whisper TFLite Port for Efficient Offline Inference on Edge Devices <sub>⭐ 286 · C++</sub>
-- [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal. <sub>⭐ 282 · HTML</sub>
-- [Bisonai/awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) - A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others. <sub>⭐ 281 · Python</sub>
-- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source. <sub>⭐ 279 · Python</sub>
-- [Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples) - The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform. <sub>⭐ 277 · C++</sub>
-- [sawankumarbundelkhandi/edge_detection](https://github.com/sawankumarbundelkhandi/edge_detection) - This is a flutter plugin to detect edges in a live camera, take the picture of detected edges object, crop it, and save. <sub>⭐ 270 · Swift</sub>
-- [bdtinc/maskcam](https://github.com/bdtinc/maskcam) - Jetson Nano-based smart camera system that measures crowd face mask usage in real-time. <sub>⭐ 252 · Python</sub>
-- [NVIDIA-AI-IOT/jetson-intro-to-distillation](https://github.com/NVIDIA-AI-IOT/jetson-intro-to-distillation) - A tutorial introducing knowledge distillation as an optimization technique for deployment on NVIDIA Jetson <sub>⭐ 250 · Python</sub>
-- [TrevTron/rtl-ml](https://github.com/TrevTron/rtl-ml) - AI-powered radio signal classifier using RTL-SDR + ARM SBC. Identifies FM, NOAA Weather, APRS, FRS/GMRS, ISM sensors, pagers with 96.9% accuracy. Complete pipeline: capture → train → classify.… <sub>⭐ 249 · Python</sub>
-- [galliot-us/neuralet](https://github.com/galliot-us/neuralet) - Neuralet is an open-source platform for edge deep learning models on edge TPU, Jetson Nano, and more. <sub>⭐ 243 · Python</sub>
-- [OpenBMB/CPM.cu](https://github.com/OpenBMB/CPM.cu) - CPM.cu is a lightweight, high-performance CUDA implementation for LLMs, optimized for end-device inference and featuring cutting-edge techniques in sparse architecture, speculative sampling and… <sub>⭐ 243 · Cuda</sub>
-- [SteveMacenski/jetson_nano_detection_and_tracking](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) - Jetson Nano ML install scripts, automated optimization of robotics detection models, and filter-based tracking of detections <sub>⭐ 231 · Python</sub>
-- [winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano](https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano) - This repository provides you with a detailed guide on how to build a real-time license plate detection and recognition system. The source code of the repository implemented on Jetson Nano reached 40… <sub>⭐ 230 · Python</sub>
-- [dusty-nv/jetson-voice](https://github.com/dusty-nv/jetson-voice) - ASR/NLP/TTS deep learning inference library for NVIDIA Jetson using PyTorch and TensorRT <sub>⭐ 229 · Python</sub>
-- [adamcohenhillel/LLMs-Cheatsheet](https://github.com/adamcohenhillel/LLMs-Cheatsheet) - Instructions on how to run LLMs on Raspberry PI <sub>⭐ 217 · Jupyter Notebook</sub>
-- [NVIDIA-AI-IOT/jetcard](https://github.com/NVIDIA-AI-IOT/jetcard) - An SD card image for web programming AI projects with NVIDIA Jetson Nano <sub>⭐ 216 · Python</sub>
-- [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - Face Recognition on NVIDIA Jetson (Nano) using TensorRT <sub>⭐ 216 · C++</sub>
-- [helmut-hoffer-von-ankershoffen/jetson](https://github.com/helmut-hoffer-von-ankershoffen/jetson) - Helmut Hoffer von Ankershoffen experimenting with arm64 based NVIDIA Jetson (Nano and AGX Xavier) edge devices running Kubernetes (K8s) for machine learning (ML) including Jupyter Notebooks… <sub>⭐ 211 · Python</sub>
-- [NVIDIA-AI-IOT/jetson-ai-lab](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab) - GitHub repo for Jetson AI Lab <sub>⭐ 209 · HTML</sub>
-- [infracv/rf-detr-cpp](https://github.com/infracv/rf-detr-cpp) - Production-ready C++/TensorRT inference engine for RF-DETR. Object detection and instance segmentation with FP32/FP16/INT8 support. Optimized for NVIDIA GPUs, Jetson (Orin, AGX Thor). <sub>⭐ 206 · C++</sub>
-- [GaohaoZhou-ops/JetsonYoloROS](https://github.com/GaohaoZhou-ops/JetsonYoloROS) - This repository implements Yolo functionality using TensorRT and CUDA acceleration on Nvidia Jetson devices and the ROS framework. <sub>⭐ 204 · Python</sub>
-- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIA-accelerated, deep learned model support for image space object detection <sub>⭐ 204 · C++</sub>
-- [NVIDIA-ISAAC-ROS/isaac_ros_apriltag](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_apriltag) - NVIDIA-accelerated Apriltag detection and pose estimation. <sub>⭐ 200 · C++</sub>
-- [bricewalker/Hey-Jetson](https://github.com/bricewalker/Hey-Jetson) - Deep Learning based Automatic Speech Recognition with attention for the Nvidia Jetson. <sub>⭐ 199 · Jupyter Notebook</sub>
-- [nasa-jpl/visual-perception-engine](https://github.com/nasa-jpl/visual-perception-engine) - Visual Perception Engine: fast and flexible framework designed to run multiple perception models in an optimized and concurrent manner on NVIDIA Jetson <sub>⭐ 198 · Python</sub>
-- [iwatake2222/play_with_tensorrt](https://github.com/iwatake2222/play_with_tensorrt) - Sample projects for TensorRT in C++ <sub>⭐ 197 · C++</sub>
-- [NVIDIA-AI-IOT/jetson-cloudnative-demo](https://github.com/NVIDIA-AI-IOT/jetson-cloudnative-demo) - Multi-container demo for Jetson Xavier NX and Jetson AGX Xavier <sub>⭐ 197 · Shell</sub>
-- [piyoki/jetson-packages-family](https://github.com/piyoki/jetson-packages-family) - The ultimate software installation guide for Nvidia Jetson Nano/Xavier Dev Kit <sub>⭐ 196 · Shell</sub>
-- [ykhli/AI-RPi-detection](https://github.com/ykhli/AI-RPi-detection) - AI Raspberry Pi cat detection and notification: get a text when your cat does something it's not supposed to do, and have AI narrate what it sees. Generalizable across other use cases outside of cats <sub>⭐ 195 · Python</sub>
-- [arbit3rr/JetsonYolo](https://github.com/arbit3rr/JetsonYolo) - Simple process for camera installation, software and hardware setup, and object detection using Yolov5 and openCV on NVIDIA Jetson Nano. <sub>⭐ 188 · Python</sub>
-- [dataplayer12/homesecurity](https://github.com/dataplayer12/homesecurity) - Security camera with Raspberry pi and NVIDIA Jetson platforms <sub>⭐ 188 · Python</sub>
-- [jetsonhacks/installTensorFlowTX2](https://github.com/jetsonhacks/installTensorFlowTX2) - Install TensorFlow on the NVIDIA Jetson TX2 Development Kit <sub>⭐ 168 · Shell</sub>
-- [bastulli/AutoCarJetsonNano](https://github.com/bastulli/AutoCarJetsonNano) - PyTorch Python Neural Network Autonomous 1/10 Car for Nvidia Jetson Nano <sub>⭐ 166 · Jupyter Notebook</sub>
-- [nihui/ncnn-small-board](https://github.com/nihui/ncnn-small-board) - ncnn benchmark on various single board computers <sub>⭐ 166</sub>
-- [AeroVILab-AHU/LEGNet](https://github.com/AeroVILab-AHU/LEGNet) - (ICCVW 2025) LEGNet: A Lightweight Edge-Gaussian Network for Low-Quality Remote Sensing Image Object Detection <sub>⭐ 164 · Python</sub>
-- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth) - NVIDIA-accelerated, deep learned stereo disparity estimation <sub>⭐ 158 · C++</sub>
-- [toolboc/Intelligent-Video-Analytics-with-NVIDIA-Jetson-and-Microsoft-Azure](https://github.com/toolboc/Intelligent-Video-Analytics-with-NVIDIA-Jetson-and-Microsoft-Azure) - A repository demonstrating an end-to-end architecture for Intelligent Video Analytics using NVIDIA hardware with Microsoft Azure <sub>⭐ 157 · TypeScript</sub>
-- [ceva-ip/DPDFNet](https://github.com/ceva-ip/DPDFNet) - Clean up noisy speech in real time with DPDFNet - open-source streaming speech enhancement for research, audio apps, and edge devices. Includes pretrained models, PyTorch code, ONNX/TFLite inference… <sub>⭐ 156 · Python</sub>
-- [Qengineering/Jetson-Nano-image](https://github.com/Qengineering/Jetson-Nano-image) - Jetson Nano image with deep learning frameworks <sub>⭐ 156</sub>
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLO27、YOLO26、YOLO11、YOLOv8 — オブジェクト検出、インスタンスセグメンテーション、セマンティックセグメンテーション、画像分類、ポーズ推定、オブジェクトトラッキング <sub>⭐ 62.2k · Python</sub>
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - オブジェクト検出、インスタンスのセグメンテーション、分類、トレーニングおよびエクスポート用のPyTorchにおけるUltralytics YOLOv5。 <sub>⭐ 58.1k · Python</sub>
+- [roboflow/supervision](https://github.com/roboflow/supervision) - 再利用可能なコンピュータビジョンツールを書いています。 <sub>⭐ 51.1k · Python</sub>
+- [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab検出ツールボックスとベンチマーク <sub>⭐ 33.0k · Python</sub>
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studioは、標準化された出力フォーマットを備えたマルチタイプのデータラベル作成とアノテーションツールです。 <sub>⭐ 28.4k · TypeScript</sub>
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - 紙の実装 - YOLOv7: トレーナー可能なバッグフリーズは、リアルタイムオブジェクト検出器用の新しい最新アートを設定します <sub>⭐ 14.2k · Jupyter Notebook</sub>
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken は、デスクトップにデータセンタスケールのモデルを提供できます。ローカルで大規模なモデルを実行し、高速かつ効率的に実行します。 <sub>⭐ 14.1k · Python</sub>
+- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10:リアルタイムエンドツーエンドオブジェクト検出(NeurIPS 2024) <sub>⭐ 11.3k · Python</sub>
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - Triton Inference Server は、最適化されたクラウドとエッジのインフェレンスソリューションを提供します。 <sub>⭐ 11.0k · Python</sub>
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINOTM は、AI インフェレンスを最適化し展開するためのオープンソースツールキットです。 <sub>⭐ 10.9k · C++</sub>
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOXは、MegEngine, ONNX, TensorRT, ncnn, OpenVINOでyolov3~v5を超える高性能アンカーフリーYOLOです。ドキュメント: https://yolox.readthedocs.io <sub>⭐ 10.7k · Python</sub>
+- [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3、YOLOv3-SPPおよびYOLOv3-tinyのPyTorch実装は、トレーニング、検証、インフェレンス、マルチフォーマットエクスポートによるリアルタイムオブジェクト検出を実現します。 <sub>⭐ 10.6k · Python</sub>
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: 軽量で効率的かつ統一されたクロスプラットフォームのデスクトップアプリケーションは、テキスト、イメージ、ビデオ、および多変種データを注釈付けし、多彩な組み込みツールと組み合わせて... <sub>⭐ 10.6k · Python</sub>
+- [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - 論文の実装 - YOLOv9: プログラム可能な勾配情報を使用して学習したいこと <sub>⭐ 9.6k · Python</sub>
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: プラグイン可能なPythonとC++ SOTAマルチオブジェクトトラッキングモジュールで、軸揃えおよび指向の境界ボックスをサポート <sub>⭐ 8.3k · Python</sub>
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - OpenCV 4 以降でコンピュータービジョンのパッケージを移動します。DNN、CUDA、OpenCV Contrib、OpenVINO のサポートが含まれています。 <sub>⭐ 7.5k · Go</sub>
+- [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - YOLOv3の最小PyTorch実装 <sub>⭐ 7.4k · Python</sub>
+- [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) - YOLOv3(Tensorflow backend)のKeras実装 <sub>⭐ 7.1k · Python</sub>
+- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - (CVPR 2024) リアルタイムのOpen-Vocabularyオブジェクト検出 <sub>⭐ 6.6k · Python</sub>
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM は、Google の生産準備が整っています。, 高機能, オープンソースの推論フレームワークで、エッジデバイス上で大規模な言語モデルを展開します。. <sub>⭐ 6.6k · C++</sub>
+- [open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib) - 実験管理、ハイパーパラメータの最適化、エッジインフェレンスなどの最新アルゴリズムと機能を組み合わせた異常検知ライブラリ。 <sub>⭐ 6.2k · Python</sub>
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6:産業用途に特化した単段のオブジェクト検出フレームワーク。 <sub>⭐ 5.9k · Jupyter Notebook</sub>
+- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw:$ 5チップのパーソナルエージェント。 OS(Linux)で。 Node.jsはありません。 Mac miniでは、Raspberry Piはありません。 VPSはありません。 ハードウェアエージェントOS。 <sub>⭐ 5.8k · C</sub>
+- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - (CVPR 2024) 公式RT-DETRパドルピトルチ、リアルタイム検出トランフォーマー、DETRはリアルタイムオブジェクト検出でYOLOを打ち負かします。 <sub>⭐ 5.6k · Python</sub>
+- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - 1つのオープンソースのトレーニングライブラリを備えたSOTAコンピュータビジョンモデルを簡単に訓練または微調整できます。 Yolo-NASの家。 <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - NVIDIA JetsonとJetPack-L4T用の機械学習コンテナ <sub>⭐ 4.9k · Jupyter Notebook</sub>
+- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSporeは、モバイルやエッジ、クラウドのシナリオに使用できる新しいオープンソースのディープラーニングトレーニング/インフェレンスフレームワークです。 <sub>⭐ 4.7k · C++</sub>
+- [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch 、ONNX および TensorRT の実装 YOLOv4 <sub>⭐ 4.5k · Python</sub>
+- [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - TensorFlowのシングルショットマルチボックス検出器 <sub>⭐ 4.1k · Jupyter Notebook</sub>
+- [YunYang1994/tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - テクニカルレポートのTensorFlowコード:「YOLOv3:インプレメンタル改善」 <sub>⭐ 3.6k · Python</sub>
+- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - NVRとAIコンピュータビジョンソフトウェアだけを自発的に、ローカル。 オブジェクトの検出、モーション検知、顔認識などの機能で、あなたの家の目を維持するための力を与えます... <sub>⭐ 3.6k · Python</sub>
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Raspberry Pi用のバードフレーム - オーディオ、ローカルAIによるリアルタイムの鳥検出、実際の手カット1800年代の鳥図としてレンダリング。 e-inkパネル、テレビ、または任意の画面で。 <sub>⭐ 3.5k · Python</sub>
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - YOLOのAIサポートによる、Effortless AI-assistedデータラベル作成、SAM+SAM2/2.1+SAM3、MobileSAM!! <sub>⭐ 3.5k · Python</sub>
+- [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLOシリーズのツールボックスとベンチマーク。 RTMDet、RTMDet-Rotated、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOX、PPYOLOEなどを実行しました。 <sub>⭐ 3.5k · Python</sub>
+- [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - YOLO v3オブジェクト検出アルゴリズムのPyTorch実装 <sub>⭐ 3.3k · Python</sub>
+- [tinyvision/DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) - DAMO-YOLO:NASのバックボーン、効率的なRepGFPN、ZeroHead、AlignedOTA、蒸留機能強化など、新しい技術を搭載した高速で正確なオブジェクト検出方法。 <sub>⭐ 3.2k · Python</sub>
+- [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - (Earlier YOLOv7 が正式ではありません) ヨーロはトランスとインスタンスのセグメンテーション、TensorRTアクセラレーションで! <sub>⭐ 3.1k · Python</sub>
+- [pytorch/TensorRT](https://github.com/pytorch/TensorRT) - NVIDIA GPU 用の PyTorch/TorchScript/FX コンパイラ(TensorRT) <sub>⭐ 3.0k · Python</sub>
+- [Cartucho/mAP](https://github.com/Cartucho/mAP) - 平均精度 - このコードは、オブジェクト認識のためのニューラルネットのパフォーマンスを評価します。 <sub>⭐ 3.0k · Python</sub>
+- [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - (NeurIPS 2025) YOLOv12:注目のCentricリアルタイムオブジェクトディテクタ <sub>⭐ 3.0k · Python</sub>
+- [iscyy/ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - TYOLOv8、TYOLOv12、YOLOv10、RT-DETR、YOLOv7、YOLOv5改称、バックボーン、ネック、ヘッド、ロス、IoU、NMSなどのモジュールの改良 <sub>⭐ 3.0k · Python</sub>
+- [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 多品種の大きな言語モデルでhCaptchaチャレンジを上手に直面する。 <sub>⭐ 2.5k · Python</sub>
+- [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Tensorflow 2.0 で実装 <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - PyTorchを使用して機械学習とディープラーニングで現実世界の問題を解決するためのJuppyter Notebookチュートリアル。 トピック: 顔検出 with Detectron 2、LSTMによるタイムシリーズ異常検知... <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - YOLOv5-Lite:yolov5から進化し、モデルのサイズは900+kb(int8)と1.7M(fp16)です。 Raspberry Pi 4Bで15 FPSをリーチする~ <sub>⭐ 2.5k · C++</sub>
+- [roboflow/inference](https://github.com/roboflow/inference) - コンピューターまたはエッジデバイスをコンピュータビジョンプロジェクト用のコマンドセンターに変えます。 <sub>⭐ 2.5k · Python</sub>
+- [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) - YOLO ROS:ROSのリアルタイムオブジェクト検出 <sub>⭐ 2.4k · C++</sub>
+- [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) - ハンガリー語アルゴリズム+カルマンフィルタに基づく複数のオブジェクトトラッカー。 <sub>⭐ 2.4k · C++</sub>
+- [deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face) - YOLO5Face: なぜ顔の探知器(https://arxiv.org/abs/2105.12931) ECCVワークショップ2022 <sub>⭐ 2.4k · Python</sub>
+- [ayooshkathuria/YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch) - ペーパースペースチュートリアルシリーズ「スクラッチからYOLO v3オブジェクトディテクタを実装する方法」のコードを同行 <sub>⭐ 2.3k · Python</sub>
+- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: リアルタイムで何かを見ている(ICCV 2025) <sub>⭐ 2.3k · Python</sub>
+- [opendatalab/DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) - DocLayout-YOLO:多様な合成データとグローバル・ツー・ローカルの適応認識によるドキュメントレイアウト解析の強化 <sub>⭐ 2.3k · Python</sub>
+- [hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4、YOLOv4-tiny、YOLOv3、YOLOv3-tinyはTensorflow 2.0、Androidで実装しました。 YOLO v4を変換します。 <sub>⭐ 2.3k · Python</sub>
+- [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - あなたはパンポピティックドライビングの知覚のために一度だけ見てください。(MIR2022) <sub>⭐ 2.2k · Python</sub>
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - 鳥、バットなどの野生動物のためのセルフホスト型のリアルタイムサウンドスケープ分析装置。多機種のローカルAI推論は、24時間365日稼働します。 <sub>⭐ 2.2k · Go</sub>
+- [Thinkright20/Profile-Badges](https://github.com/Thinkright20/Profile-Badges) - すべてのプロファイルバッジと各1つを取得する方法のリスト <sub>⭐ 2.1k</sub>
+- [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - yoloの超軽量ユニバーサルターゲット検出アルゴリズムに基づいて、計算量は250mflopsだけであり、CNCnnモデルサイズは666kbのみで、Raspberry Pi 3bは15fps +まで実行でき... <sub>⭐ 2.1k · C</sub>
+- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.0.1 / 6.0 / YOLOモデルの5.1実装 <sub>⭐ 2.1k · Python</sub>
+- [WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - スケール・YOLOv4:スケーリングクロスステージ Partial Network <sub>⭐ 2.0k · Python</sub>
+- [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - 紙の実装 - 1つの表現のみを学ぶ:複数のタスクのための統一されたネットワーク(https://arxiv.org/abs/2105.04206) <sub>⭐ 2.0k · Python</sub>
+- [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) - YOLOv4のPyTorch実装 <sub>⭐ 1.9k · Python</sub>
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - NVIDIAのより簡単で高速なYOLO展開ツールキット <sub>⭐ 1.9k · C++</sub>
+- [AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) - GUIは、ニューラルネットワークYolo v3とv2を訓練するための画像のオブジェクトの境界ボックスをマークする <sub>⭐ 1.8k · C++</sub>
+- [triple-mu/YOLOv8-TensorRT](https://github.com/triple-mu/YOLOv8-TensorRT) - YOLOv8はTensorRTを使って加速します! <sub>⭐ 1.8k · Python</sub>
+- [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - ローカルファースト・ビデオ・ナレッジベース。多品種分析(YOLO、DeepFace、Whisper)で動画ライブラリをインデックス化し、自然言語のDocker-readyから検索します。 <sub>⭐ 1.8k · TypeScript</sub>
+- [symisc/sod](https://github.com/symisc/sod) - 組込みコンピュータービジョン&機械学習ライブラリ(CPU最適化とIoT対応) <sub>⭐ 1.8k · C</sub>
+- [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - いくつかの素晴らしいパブリックYOLOオブジェクト検出シリーズプロジェクトと関連するオブジェクト検出データセットのコレクション。 <sub>⭐ 1.8k</sub>
+- [jkjung-avt/tensorrt_demos](https://github.com/jkjung-avt/tensorrt_demos) - テンソルトMODNet、YOLOv4、YOLOv3、SSD、MTCNN、GoogLeNet <sub>⭐ 1.8k · Python</sub>
+- [llSourcell/YOLO_Object_Detection](https://github.com/llSourcell/YOLO_Object_Detection) - Siraj Raval による「YOLO Object Detection」のコードです。 <sub>⭐ 1.8k · Python</sub>
+- [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40:6ms/img、YoloFace-500k:0.1Bflops 420KB <sub>⭐ 1.7k · C</sub>
+- [MultimediaTechLab/YOLO](https://github.com/MultimediaTechLab/YOLO) - YOLOv9、YOLOv7、YOLO-RDのMITライセンス <sub>⭐ 1.7k · Python</sub>
+- [experiencor/keras-yolo2](https://github.com/experiencor/keras-yolo2) - カスタムデータセットでの簡単なトレーニング。さまざまなバックエンド(MobileNetとSqueezeNet)がサポートされています。 YOLOデモでは、ブロワーで完全に実行されているraccoonを検知するにはhttps://git.io/vF7vI (Windows上では使用できません)。 <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - 世界を定量化するためのオープンソースツール <sub>⭐ 1.7k · JavaScript</sub>
+- [gliese581gg/YOLO_tensorflow](https://github.com/gliese581gg/YOLO_tensorflow) - 「YOLO:リアルタイムオブジェクト検出」の tensorflow 実装 <sub>⭐ 1.7k · Python</sub>
+- [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - 「YOLOv13:Hyograph-Enhanced Adaptive Visual Perceptionによるリアルタイムオブジェクト検出」の実施 <sub>⭐ 1.7k · Python</sub>
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - ビジョンモデルのためのオールインワントレーニング(YOLO、Vits、RT-DETR、DINOv3):プレトレイン、微調整、蒸留。 <sub>⭐ 1.7k · Python</sub>
+- [Qidian213/deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - YOLO v3とDeep_sortをテンソルフローで使用したリアルタイムマルチパーカー <sub>⭐ 1.7k · Python</sub>
+- [argusswift/YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) - これは、YOLOv4のpytorchリポジトリです。, 気配りYOLOv4とPASCAL VOCとCOCOCOでモバイルネットYOLOv4 <sub>⭐ 1.7k · Python</sub>
+- [experiencor/keras-yolo3](https://github.com/experiencor/keras-yolo3) - YOLO3でオブジェクトのトレーニングと検出 <sub>⭐ 1.6k · Python</sub>
+- [longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch) - YOLOv2 in Pyトーチ <sub>⭐ 1.6k · Python</sub>
+- [wizyoung/YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) - YOLO v3 TensorFlow の実装を完了します。独自のデータセットでトレーニングをサポートします。 <sub>⭐ 1.6k · Python</sub>
+- [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) - YOLOv5 GUIのPyQt5実装 <sub>⭐ 1.5k · Python</sub>
+- [theAIGuysCode/yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort) - YOLOv4、DeepSort、およびTensorFlowで実装されたオブジェクトの追跡。 <sub>⭐ 1.4k · Python</sub>
+- [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Tesla&JetsonのTensorRT/Deepstreamのサンプル <sub>⭐ 1.4k · C++</sub>
+- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - エージェントネイティブAIアシスタント — チャット、書き込み、ホワイトボード、学習、すべて1つで。 <sub>⭐ 1.4k · TypeScript</sub>
+- [maudzung/Complex-YOLOv4-Pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch) - 論文のYOLOv4に基づくPyTorch実装:「コンプレックス・ヨーロ:ポイントクラウド上のリアルタイム3Dオブジェクト検出」 <sub>⭐ 1.3k · Python</sub>
+- [zenangst/Spots](https://github.com/zenangst/Spots) - Spotsは、コンポーネントベースのUIを構築するためのクロスプラットフォームビューコントローラーフレームワークです。 <sub>⭐ 1.3k · Swift</sub>
+- [streamlit/demo-self-driving](https://github.com/streamlit/demo-self-driving) - YOLOによるリアルタイムオブジェクト検出で、Udacityセルフドライブカーデータセット用のイメージブラウザをデモするアプリです。 <sub>⭐ 1.3k · Python</sub>
+- [ultralytics/JSON2YOLO](https://github.com/ultralytics/JSON2YOLO) - COCO、LabelMe、 Labelbox、VoTT、INFOLKS、ATH アノテーション用のレガシーJSON-to-YOLOデータセットコンバーター。 Ultralyticsパッケージのtransform_co()によってスーパーシードされる。 <sub>⭐ 1.2k · Python</sub>
+- [GeekAlexis/FastMOT](https://github.com/GeekAlexis/FastMOT) - YOLO、Deep SORTおよびKLTに基づく高性能の多数の目的の追跡 <sub>⭐ 1.2k · Python</sub>
+- [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5n、m、lのx .darknet -> tensorrt。 Yolov4 Yolov3は未加工ダークネット*.weightsおよび*.cfgのfilsを使用します。 もしラッパーがあなたに有用であるならば、それを星にして下さい。 <sub>⭐ 1.2k · C++</sub>
+- [NVIDIA-AI-IOT/jetracer](https://github.com/NVIDIA-AI-IOT/jetracer) - NVIDIA Jetson Nanoを用いた自動AIレースカー <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [philipperemy/yolo-9000](https://github.com/philipperemy/yolo-9000) - YOLO9000:より良く、より速く、より強く-実時間オブジェクトの検出。 9000クラス! <sub>⭐ 1.2k</sub>
+- [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - PyTorch、OpenCVおよびDeepSORTを用いたYOLOv8 オブジェクトトラッキング <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [Jai-wei/YOLOv8-PySide6-GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI) - YoloSide - PySide6によるYOLOv8 GUI <sub>⭐ 1.2k · Python</sub>
+- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - yoloシリーズ(YOLOv11、YOLOv10、YOLOv9、YOLOv8、YOLOv7、YOLOv6、YOLOX、YOLOv5)、nmsプラグイン対応 <sub>⭐ 1.2k · Python</sub>
+- [mgonzs13/yolo_ros](https://github.com/mgonzs13/yolo_ros) - YOLOv8、YOLOv9、YOLOv10、YOLOv11、ROS 2用YOLOv12 <sub>⭐ 1.1k · Python</sub>
+- [Rishabh-creator601/Books](https://github.com/Rishabh-creator601/Books) - 書籍/PDFs/プログラミングの異なる分野のためのEPUBS.READ GROWとENJOY <sub>⭐ 1.1k</sub>
+- [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - YOLO v4、Deep SORT、フラスコでカウントするマルチカメラのライブトラフィックとオブジェクト。 <sub>⭐ 1.1k · Python</sub>
+- [brenpoly/be-more-agent](https://github.com/brenpoly/be-more-agent) - Raspberry Piで稼働しているローカルAIエージェント <sub>⭐ 1.1k · Python</sub>
+- [Geekgineer/YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP) - YOLOモデル(v5-v12、YOLO26)用のC++インフェレンスエンジンをクロスプラットフォームで作成します。検出、セグメンテーション、ポーズ推定、OBB、分類のための統合APIです。ONNXランタイムと... <sub>⭐ 1.1k · C++</sub>
+- [NVIDIA-AI-IOT/trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose) - NVIDIA TensorRTでリアルタイムポーズ推定が加速 <sub>⭐ 1.1k · Python</sub>
+- [neka-nat/cupoch](https://github.com/neka-nat/cupoch) - GPUコンピューティングによるロボティクス <sub>⭐ 1.1k · C++</sub>
+- [Gumpest/YOLOv5-Multibackbone-Compression](https://github.com/Gumpest/YOLOv5-Multibackbone-Compression) - YOLOv5シリーズマルチバックボーン(TPH-YOLOv5、ゴーストネット、ShuffleNetv2、Mobilenetv3Small、効率的なNetLite、PP-LCNet、スウィントランスYOLO)、モジュール(CBAM、DCN)、剪定(EagleEye、Network Slimming)... <sub>⭐ 1.0k · Python</sub>
+- [abdullahtarek/football_analysis](https://github.com/abdullahtarek/football_analysis) - このリポジトリには、YOLO for オブジェクト検出、ピクセルセグメンテーション用Kmeans、モーショントラッキング用の光学フロー、および... <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - C++17のリアルタイムマルチオブジェクトトラッキングアプリケーションは、QtとONNXランタイムで、4つのプラグイン可能なトラッカーを備えたYOLOディテクタを実行します。ByteTrack、OC-SORT、DeepSORT。 <sub>⭐ 1.0k · C++</sub>
+- [taehoonlee/tensornets](https://github.com/taehoonlee/tensornets) - TensorFlow の未使用重量を持つ高レベルのネットワーク定義 <sub>⭐ 995 · Python</sub>
+- [Qengineering/Jetson-Nano-Ubuntu-20-image](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) - Ubuntuの20.04イメージでJetson Nano <sub>⭐ 984</sub>
+- [dusty-nv/ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) - NVIDIA JetsonとTensorRTのサポートでROS/ROS2用のディープラーニング・インフェレンス・ノード <sub>⭐ 983 · C++</sub>
+- [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) - ラベル画像とコンピュータビジョンアプリケーション用のビデオ <sub>⭐ 965 · Python</sub>
+- [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) - Yoloの低電力、超軽量ユニバーサルターゲット検出アルゴリズムに基づいて、パラメータは250kであり、スマートフォンモバイル端末の速度は〜300fps +に達することができます <sub>⭐ 943 · Python</sub>
+- [hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) - CoreMLを使用したiOS用Tiny YOLO、新しいMPSグラフAPIを利用しています。 <sub>⭐ 943 · Swift</sub>
+- [dhm2013724/yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga) - xilinxのfpga pynq/zedboardでYOLOv2を加速するためのデモ <sub>⭐ 927 · C</sub>
+- [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - (NeurIPS 2021) あなたは1つのシーケンスだけを見る <sub>⭐ 903 · Jupyter Notebook</sub>
+- [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - このプロジェクトでは、テニス選手をビデオで分析し、スピード、ボールショット速度、撮影回数を測定します。このプロジェクトは、YOLOを使用してプレーヤーやテニスボールを検出し、またCNNを利用しています... <sub>⭐ 894 · Jupyter Notebook</sub>
+- [Guanghan/ROLO](https://github.com/Guanghan/ROLO) - ROLOは同時物体検出および追跡を目的とした再発YOLOのための不足分です <sub>⭐ 889 · Python</sub>
+- [mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) - YOLO v3オブジェクトディテクタのTensorflow(TF-Slim)導入 <sub>⭐ 878 · Python</sub>
+- [eric612/MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO) - MobileNet-YOLO 検出ネットワークのカフェ導入 <sub>⭐ 868 · C++</sub>
+- [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - 新しく設計された超軽量アンカーフリーターゲット検出アルゴリズム、250Kパラメータのみを重くし、yolo-fastestと比較して10%の消費時間を削減し、後処理は... <sub>⭐ 861 · Python</sub>
+- [insight-platform/Savant](https://github.com/insight-platform/Savant) - 含まれている電池が付いているPythonコンピュータ・ビジョン及びビデオ分析フレームワーク <sub>⭐ 859 · Python</sub>
+- [dromara/Omega-AI](https://github.com/dromara/Omega-AI) - Omega-AI は、集中力とトレーニングのためのニューラルネットワークを迅速に構築するのに役立つ Java ベースのディープラーニングフレームワークです。そのエンジンは自動差別化、マルチスレッド、および GPU をサポートしています... <sub>⭐ 854 · Java</sub>
+- [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO オブジェクト検出フレームワーク <sub>⭐ 854 · C++</sub>
+- [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless) - オープンソースのコンピュータービジョンフレームワークで、数分でアプリをビルドおよびデプロイする <sub>⭐ 853 · Rust</sub>
+- [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLOはMITライセンスのオープンソースコンピュータビジョンライブラリです。 <sub>⭐ 847 · Python</sub>
+- [derronqi/yolov8-face](https://github.com/derronqi/yolov8-face) - ヨロフ8面の検出とランドマーク <sub>⭐ 833 · Python</sub>
+- [ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM) - YOLO-World+ComfyUIのための効率的なSAMの非公式実装 <sub>⭐ 826 · Python</sub>
+- [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet) - YoloDotNet - C# .NET 8.0 プロジェクトを分類、オブジェクト検出、OBB 検出、セグメント化とポーズの推定のための画像およびライブビデオストリーム。 <sub>⭐ 825 · C#</sub>
+- [AlibabaResearch/efficientteacher](https://github.com/AlibabaResearch/efficientteacher) - YOLOシリーズの超判別・準監察対象物検出ライブラリ <sub>⭐ 813 · Python</sub>
+- [hizhangp/yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow) - 研修や試験フェーズなど、YOLOのTensorflow実装。 <sub>⭐ 805 · Python</sub>
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO + LLAVA はビデオ監視システムを採用しました。 <sub>⭐ 793 · Python</sub>
+- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo X、v3 ~ v12 と複数のマルチオブジェクトトラッカー(SORT、DeepSORT、ByteTrack、BOT-SORTなど) MOT17およびVisDrone2019 データセット。 それは簡単に埋め込むための統一されたスタイルと統合トラッカーを使用しています... <sub>⭐ 786 · Python</sub>
+- [wmcnally/kapao](https://github.com/wmcnally/kapao) - KAPAOは、重要なポイントやポーズを物体として検知し、人間のポーズを予測するために検出をヒューズする効率的な単段のヒトポス推定モデルです。 <sub>⭐ 772 · Python</sub>
+- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOV5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet Plus、YOLOFastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、エンジン、OpenV <sub>⭐ 768 · Jupyter Notebook</sub>
+- [nilboy/tensorflow-yolo](https://github.com/nilboy/tensorflow-yolo) - 「YOLO : リアルタイムオブジェクト検出」の tensorflow 実装(train and test) <sub>⭐ 768 · Python</sub>
+- [DoubangoTelecom/ultimateALPR-SDK](https://github.com/DoubangoTelecom/ultimateALPR-SDK) - ディープラーニング(Tensorflow、Tensorflowライト、TensorRT、OpenVX、OpenVINO)を使用してCPU、GPU、VPUおよびNPUのための世界最速のANPR / ALPR実装。 マルチチャイルドセット(ラテン、韓国、中国)&... <sub>⭐ 745 · C++</sub>
+- [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - (CVPR2026) 紙「YOLO-Master:MOE-Accelerated」の公式コードで、リアルタイム検出機能を強化しました。) *(YOLO = 1回だけ探す)* <sub>⭐ 741 · Python</sub>
+- [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) - YOLOv8 TensorRT C++の実装 <sub>⭐ 737 · C++</sub>
+- [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolortは、 tensorrt、libtorch、onnxruntime、tvm、ncnnなどの特殊なアクセラレータでyolov5用のランタイムスタックです。 <sub>⭐ 730 · Python</sub>
+- [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) - YOLOv5オブジェクト検出アンドロイド例 <sub>⭐ 724 · C++</sub>
+- [wandahangFY/YOLOv11-RGBT](https://github.com/wandahangFY/YOLOv11-RGBT) - YOLOv11-RGBT:包括的なシングルステージマルチスペクトラムオブジェクト検出フレームワーク(YOLOv3からYOLOv13、RTDETRまでのすべてのYOLOシリーズのRGBT検出をサポート)。 <sub>⭐ 724 · Python</sub>
+- [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - NVIDIAのジェット機プラットフォームで高いパフォーマンスを発揮するディープニューラルネットワークライブラリとツールキット <sub>⭐ 721 · C++</sub>
+- [ArtLabss/tennis-tracking](https://github.com/ArtLabss/tennis-tracking) - テニスのためのオープンソースの Monocular Python HawkEye <sub>⭐ 713 · Python</sub>
+- [developer0hye/Yolo_Label](https://github.com/developer0hye/Yolo_Label) - 脳神経ネットワークの訓練のための画像内のオブジェクトの境界ボックスをマークするためのGUI <sub>⭐ 710 · C++</sub>
+- [SanshruthR/CCTV_YOLO](https://github.com/SanshruthR/CCTV_YOLO) - 高出力で高速リアルタイムオブジェクト検出 https://x.com/_akhaliq/status/1840213012818329826 https://x.com/githubprojects/status/1891370506537910724... <sub>⭐ 707 · Python</sub>
+- [farukalamai/advanced-machine-learning-engineer-roadmap-2024](https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024) - 完全なスタックML(機械学習)ロードマップは、データ収集や... <sub>⭐ 703</sub>
+- [zserge/grayskull](https://github.com/zserge/grayskull) - 組込みシステム、ドローン、ロボティクスのCで小さな依存性のないコンピュータビジョンライブラリ。 <sub>⭐ 700 · C</sub>
+- [adipandas/multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Pythonのマルチオブジェクトトラッカー <sub>⭐ 696 · Python</sub>
+- [NVIDIA-AI-IOT/tf_trt_models](https://github.com/NVIDIA-AI-IOT/tf_trt_models) - TensorFlow モデルは、NVIDIA TensorRT で加速 <sub>⭐ 694 · Python</sub>
+- [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2:より良く、より速く、パンプティック運転の認識のための強い <sub>⭐ 692 · Python</sub>
+- [open-edge-platform/datumaro](https://github.com/open-edge-platform/datumaro) - データセット管理フレームワーク、PythonライブラリおよびCLIツールは、コンピュータビジョンデータセットの構築、分析、管理を行います。 <sub>⭐ 692 · Python</sub>
+- [Bobo-y/flexible-yolov5](https://github.com/Bobo-y/flexible-yolov5) - より読みやすく柔軟なyolov5は、より多くの骨(gcn、resnet、shufflenet、moblienet、効率的なネット、hrnet、swin-transformerなど)と(cbam、dcn等)、および tensorrt <sub>⭐ 691 · Python</sub>
+- [natanielruiz/android-yolo](https://github.com/natanielruiz/android-yolo) - TensorFlowとYOLOネットワークを使用してAndroid上でリアルタイムのオブジェクト検出 <sub>⭐ 691 · C++</sub>
+- [abeardear/pytorch-YOLO-v1](https://github.com/abeardear/pytorch-YOLO-v1) - トレーニングやテストを含むyolo-v1の実験。 <sub>⭐ 679 · Python</sub>
+- [AntonMu/TrainYourOwnYOLO](https://github.com/AntonMu/TrainYourOwnYOLO) - 最新鋭のyolov3オブジェクトディテクタをゼロからトレイン! <sub>⭐ 679 · Jupyter Notebook</sub>
+- [ultralytics/assets](https://github.com/ultralytics/assets) - ウルトラリシスのロゴ、メディア、サンプル画像、プリトレインドモデル重量、データセットアーティファクト、リリースアセットをシェアしました。 <sub>⭐ 677</sub>
+- [JunshengFu/vehicle-detection](https://github.com/JunshengFu/vehicle-detection) - 車両検出パイプラインを2つのアプローチで作成しました。(1)ディープニューラルネットワーク(YOLOフレームワーク)と(2)サポートベクターマシン(OpenCV + HOG)。 <sub>⭐ 674 · Python</sub>
+- [jwchoi384/Gaussian_YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3) - Gaussian YOLOv3:自動運転のためのローカリゼーション不確実性を使用して正確で高速なオブジェクトディテクタ(ICCV、2019) <sub>⭐ 670 · C</sub>
+- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - YOLOシリーズのパドルパドル実装、PP-YOLOE+、RT-DETR、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv10、YOLO11、YOLOX、YOLOv5u、YOLOv7u、YOLOv6Lite、RTMDetなど。 <sub>⭐ 668 · Python</sub>
+- [positive666/yolo_research](https://github.com/positive666/yolo_research) - yolo-high-levelプロジェクト(detect\pose\classify\segment\):yolov5\yolov7\yolov8\コア、改善研究、SwintransformV2および注意シリーズが含まれています。 トレーニングスキル、ビジネス... <sub>⭐ 668 · Python</sub>
+- [mxcl/YOLOKit](https://github.com/mxcl/YOLOKit) - 四角形のオブジェクトを丸穴から下ろす <sub>⭐ 662 · Objective-C</sub>
+- [HZAI-ZJNU/Mamba-YOLO](https://github.com/HZAI-ZJNU/Mamba-YOLO) - 「Mamba-YOLO:SSMs-based for Object Detection」の公式ピトーチ実装 <sub>⭐ 656 · Python</sub>
+- [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) - PyTorch、OpenCVおよびソートトラッキングを使用してYOLOv7オブジェクトの追跡 <sub>⭐ 654 · Python</sub>
+- [BMW-InnovationLab/BMW-YOLOv4-Training-Automation](https://github.com/BMW-InnovationLab/BMW-YOLOv4-Training-Automation) - このリポジトリは、設定が不要で、最新鋭のディープラーニングモデルをトレーニングし始めることを可能にします。 ラベル付きデータセットを提供したり、データをラベル付けしたりできます。 <sub>⭐ 652 · Python</sub>
+- [theNetworkChuck/frigate-nvr-guide](https://github.com/theNetworkChuck/frigate-nvr-guide) - Frigate NVRでローカルAI監視システムを構築するための完全なガイド。 Raspberry Pi + Hailoセットアップ、デスクトップ+コーラル設定、プログレッシブコンフィグ、およびWiFiトラブルシューティングが含まれています。 <sub>⭐ 651</sub>
+- [judahpaul16/gpt-home](https://github.com/judahpaul16/gpt-home) - 自宅でチャットGPT!LiteLLMとLangGraphを使用して、ラズベリーPi上に構築された商用スマートホームアシスタントのより良い代替品です。 <sub>⭐ 650 · Python</sub>
+- [finbarr/yolobox](https://github.com/finbarr/yolobox) - AI が送信されるようにしましょう。ホームディレクトリーは自宅に滞在します。 <sub>⭐ 649 · Go</sub>
+- [david8862/keras-YOLOv3-model-set](https://github.com/david8862/keras-YOLOv3-model-set) - エンドツーエンドYOLOv4 / v3 / V2オブジェクト検出パイプライン、異なる技術でtf.kerasに実装 <sub>⭐ 638 · Python</sub>
+- [open-edge-platform/dlstreamer](https://github.com/open-edge-platform/dlstreamer) - Deep Learning Streamer (DL Streamer) Pipeline Framework は、GStreamer*のマルチメディアフレームワークに基づくオープンソースのストリーミングメディア分析フレームワークで、複雑なメディア分析パイプラインを作成するためのものです。 <sub>⭐ 636 · C++</sub>
+- [yzfzzz/depth-detect](https://github.com/yzfzzz/depth-detect) - モノ/ステレオの深さ推定+ジェストンナノ/TX2/TensorRTによるGeForce上の展開を用いるyoloオブジェクト検出 <sub>⭐ 629 · C++</sub>
+- [flashrt-project/FlashRT](https://github.com/flashrt-project/FlashRT) - FlashRTは、小型バッチ、レイテンシブなAIワークロード用の高性能リアルタイムインフェレンスエンジンです。 フラッグシップ統合は、Pi0、Pi0.5、GROOT N1.6、およびPi0-FASTのVLA制御の生産です。... <sub>⭐ 611 · C++</sub>
+- [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yoloモデルqatとdeepstream&tensorrtで展開 <sub>⭐ 610 · Python</sub>
+- [wenyyu/Image-Adaptive-YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) - 「逆気象条件におけるオブジェクト検出のための画像適応YOLO(AAAI 2022)」のコード <sub>⭐ 610 · Python</sub>
+- [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack) - ROS2、YOLO、LiDAR、NVIDIA Jetson と認識ベース PX4/ArduPilot ドローン群馬をシミュレートし、展開するオープンハーネス <sub>⭐ 609 · C++</sub>
+- [OvidijusParsiunas/myvision](https://github.com/OvidijusParsiunas/myvision) - コンピュータビジョンベースのMLトレーニングデータ生成ツール <sub>⭐ 609 · JavaScript</sub>
+- [pythonlessons/TensorFlow-2.x-YOLOv3](https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3) - TensorFlow 2.3.1 におけるYOLOv3実装 <sub>⭐ 609 · Jupyter Notebook</sub>
+- [theAIGuysCode/yolov4-custom-functions](https://github.com/theAIGuysCode/yolov4-custom-functions) - YOLOv4、YOLOv4-tiny、YOLOv3、およびTensorFlow、TFLiteおよびTensorRTで実装されたYOLOv3-tinyのための幅広いカスタム機能。 <sub>⭐ 608 · Python</sub>
+- [Helldez/BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge) - MoEモデルをRAMよりも大きく実行します。 フロンティアサイズのMoEは12 GBの携帯電話、無損失、株式llama.cppで <sub>⭐ 605 · C++</sub>
+- [xiaochus/YOLOv3](https://github.com/xiaochus/YOLOv3) - yolo v3オブジェクト検出のKeras実装。 <sub>⭐ 605 · Python</sub>
+- [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) - リアルタイムyolov8 Androidデモncnn <sub>⭐ 591 · C++</sub>
+- [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) - yolov5のプルーン、サポートV2、V3、V4およびV6版yolov5 <sub>⭐ 581 · Python</sub>
+- [dfl-rlab/dddmr_navigation](https://github.com/dfl-rlab/dddmr_navigation) - dddmr_navigationは、モバイルロボット向けの3Dナビゲーションソリューションです。マッピング/ローカリゼーション/パーセプテーション/パスプランニング/コントローラ/ナビゲーションスタック <sub>⭐ 574 · C++</sub>
+- [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) - シングルショットマルチボックスディテクタとそのバリアントのリポジトリ(pytorch、python3で実装)。 <sub>⭐ 565 · Python</sub>
+- [dme-compunet/YoloSharp](https://github.com/dme-compunet/YoloSharp) - ONNX-RuntimeによるYOLO11を用いた高性能リアルタイムオブジェクト検出ソリューション <sub>⭐ 564 · C#</sub>
+- [Adamdad/keras-YOLOv3-mobilenet](https://github.com/Adamdad/keras-YOLOv3-mobilenet) - yolov3のバックエンドをMobilenetv1、VGG16、ResNet101およびResNeXt101に転送します <sub>⭐ 561 · Python</sub>
+- [wufan-tb/yolo_slowfast](https://github.com/wufan-tb/yolo_slowfast) - Yolov5+SlowFast: PytorchVideoに基づくリアルタイムアクション検出 <sub>⭐ 559 · Python</sub>
+- [Koldim2001/YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) - YOLOの小さなオブジェクト検出とインスタンスセグメンテーション用のPythonライブラリ <sub>⭐ 556 · Python</sub>
+- [jaylfc/taOS](https://github.com/jaylfc/taOS) - セルフホスト型のAIエージェントOS。あなたのメモリ、チャット、エージェント、ファイルには、デフォルトでオフラインで所有するハードウェアに留まります。オフラインのAIメモリー(taOSmd)、自家ホスト型マルチフレームワークグループチャット、フル... <sub>⭐ 553 · Python</sub>
+- [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel はオブジェクト検出とセグメンテーション用のオフラインイメージアノテーションツールです。 <sub>⭐ 552 · Jupyter Notebook</sub>
+- [guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot) - Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX(高性能導入用) <sub>⭐ 543 · Python</sub>
+- [YOLOSHOW/YOLOSHOW](https://github.com/YOLOSHOW/YOLOSHOW) - YOLO SHOW - YOLOv11 / YOLOv10 / YOLOv9 / YOLOv8 / YOLOv7 / RTDETR / SAM / MobileSAM / Pyside6に基づくFastSAM YOLOGUI <sub>⭐ 541 · Python</sub>
+- [antmicro/jetson-nano-baseboard](https://github.com/antmicro/jetson-nano-baseboard) - NVIDIA Jetson Nano、TX2 NXおよびXavier NX用のAntmicroのオープンハードウェアベースボード <sub>⭐ 540</sub>
+- [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) - Claudeコードのためのビジネスオペレーティングシステム — 57 スキル, 21 エージェント, スマートデーモン. 統一受信トレイ (WhatsApp/Email/Slack/Telegram), 自動PRマージ, フルAWSの監視, 収益 (Stripe+RevenueCat)... <sub>⭐ 537 · Shell</sub>
+- [ModelDepot/tfjs-yolo-tiny](https://github.com/ModelDepot/tfjs-yolo-tiny) - Tensorflow.jsでTiny YOLOを使用したBrowserオブジェクト検出 <sub>⭐ 534 · JavaScript</sub>
+- [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - まともな性能の端実時間アンカーなしの目的の探知器 <sub>⭐ 531 · Python</sub>
+- [NVIDIA-AI-IOT/nanoowl](https://github.com/NVIDIA-AI-IOT/nanoowl) - OWL-ViT を最適化するプロジェクトで、NVIDIA TensorRT とのリアルタイムのインフェレンスを実現します。 <sub>⭐ 525 · Python</sub>
+- [Amin-Tgz/awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2) - チュートリアル、ブログ、コード、ビデオなどのTensorflow 2.xリソース <sub>⭐ 523</sub>
+- [obendidi/Tracking-with-darkflow](https://github.com/obendidi/Tracking-with-darkflow) - YOLO v2とDeep_sortをテンソルフローで使用したリアルタイムの人マルチトラッカー <sub>⭐ 522 · Python</sub>
+- [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - コンテキストエンジニアリングリサーチ - 他のエージェントのコレクションだけでなく、研究とコンテクストエンジニアリングを使用して、集団として機能します。 クロードコードによるハブアンドスポークコーディネート。 <sub>⭐ 521 · JavaScript</sub>
+- [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) - 超高速iOSアプリと、主要なコンピュータビジョンタスクを横断するリアルタイムコアMLの推論のためのSwiftパッケージ。 <sub>⭐ 515 · Swift</sub>
+- [Atten4Vis/LW-DETR](https://github.com/Atten4Vis/LW-DETR) - 本リポジトリは「LW-DETR:リアルタイム検出用YOLOへの変換交換」の公式実装です。 <sub>⭐ 514 · Python</sub>
+- [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magicは、より強力な機能と視覚的なタスクのための簡単な操作を提供するために設計されたUltralyticsのYOLOv5に基づいて拡張です。 <sub>⭐ 514 · Python</sub>
+- [xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo) - YOLO(リアルタイムオブジェクト検出) <sub>⭐ 514 · Python</sub>
+- [arunponnusamy/object-detection-opencv](https://github.com/arunponnusamy/object-detection-opencv) - OpenCVとPythonでYOLO Objectの検出 <sub>⭐ 511 · Python</sub>
+- [computer-vision-with-marco/yolo-training-template](https://github.com/computer-vision-with-marco/yolo-training-template) - このリポジトリには、あらゆる種類のコンピュータビジョンアプリケーション用のYOLOモデルを訓練するためのヒントとテンプレートがあります。 <sub>⭐ 510 · Python</sub>
+- [madhawav/YOLO3-4-Py](https://github.com/madhawav/YOLO3-4-Py) - DarknetのPythonラッパー。YOLO V3と互換性があります。 <sub>⭐ 510 · Python</sub>
+- [HaloTrouvaille/YOLO-Multi-Backbones-Attention](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention) - モデル 圧縮-YOLOv3 多軽量バックボーン付き(ShuffleNetV2 HuaWei GhostNet)、注意、プルーンおよび定量化 <sub>⭐ 504 · Python</sub>
+- [NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) - ディープラーニング、NVIDIA認定3Dオブジェクトポーズ推定 <sub>⭐ 504 · C++</sub>
+- [vietanhdev/open-adas](https://github.com/vietanhdev/open-adas) - ジェットソンナノをハードウェアとして使用しているオープンソースの高度なドライバー支援システム(ADAS)。特徴:交通標識検出、フォワード衝突警告、車線出発警告。 <sub>⭐ 503 · C++</sub>
+- [DrewNF/Tensorflow_Object_Tracking_Video](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video) - ImageNET VID 競争に取り組むために開発されたTensorflow(ローカリゼーション検出分類)でのオブジェクト追跡 <sub>⭐ 502 · Python</sub>
+- [ultralytics/yolo-flutter-app](https://github.com/ultralytics/yolo-flutter-app) - 公式のUltralytics YOLO Flutterプラグインは、主要なビジョンタスク全体でAndroidとiOS上でリアルタイムの影響を発揮します。 <sub>⭐ 500 · Dart</sub>
+- [LeonLok/Deep-SORT-YOLOv4](https://github.com/LeonLok/Deep-SORT-YOLOv4) - Tensorflow バックエンドで検出し、オプションのトラッキングを行います。 <sub>⭐ 497 · Python</sub>
+- [RichardoMrMu/yolov5-deepsort-tensorrt](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt) - yolov5とDeepsortのc++実装 <sub>⭐ 493 · C++</sub>
+- [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection) - ONNXのYOLOv8モデルを用いたオブジェクト検出を実行しているPythonスクリプト。 <sub>⭐ 491 · Python</sub>
+- [icey-zhang/SuperYOLO](https://github.com/icey-zhang/SuperYOLO) - スーパーヨロはTGRSで受け付けております。 <sub>⭐ 490 · Python</sub>
+- [lewes6369/TensorRT-Yolov3](https://github.com/lewes6369/TensorRT-Yolov3) - Yolov3のためのTensorRT <sub>⭐ 484 · C++</sub>
+- [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - YOLOv7とOSNetで強力なSORTを使用したリアルタイムマルチオブジェクトトラッカー <sub>⭐ 484 · Python</sub>
+- [duy-phamduc68/TrafficLab-3D](https://github.com/duy-phamduc68/TrafficLab-3D) - mp4 CCTVの映像とGoogleマップの位置だけを使用して、デジタルツインスタイルのトラフィック可視化を作成します。 <sub>⭐ 481 · Python</sub>
+- [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - 車両と人乗りをrk3588 / rk3399proで追跡します。 <sub>⭐ 481 · C++</sub>
+- [Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8](https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8) - YOLOv8を用いたライセンスプレート検出 <sub>⭐ 477 · Python</sub>
+- [ChenYingpeng/caffe-yolov3](https://github.com/ChenYingpeng/caffe-yolov3) - カフェをベースとしたYolov3/v4のリアルタイムオブジェクト検出フレームワーク <sub>⭐ 474 · C++</sub>
+- [NVIDIA-AI-IOT/jetcam](https://github.com/NVIDIA-AI-IOT/jetcam) - NVIDIA Jetson 用の Python カメラインターフェイスを簡単に使用 <sub>⭐ 465 · Jupyter Notebook</sub>
+- [sthanhng/yoloface](https://github.com/sthanhng/yoloface) - YOLOv3アルゴリズムを使用したディープラーニングベースの顔検出(https://github.com/sthanhng/yoloface) <sub>⭐ 463 · Python</sub>
+- [jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI](https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI) - YOLOs(YOLOv8、YOLO11、YOLOv13)をオブジェクト検出/追跡、ヒューマンポーズ推定/画像から検索、ビデオやカメラ <sub>⭐ 461 · Python</sub>
+- [kaylorchen/rk3588-yolo-demo](https://github.com/kaylorchen/rk3588-yolo-demo) - このプロジェクトは、ビデオファイルやカメラフィードを読むために適応したRK3588プラットフォーム上で実行されるYoloのマルチスレッド推論デモです。 デモでは、Yolov8nモデルを使用して... <sub>⭐ 459 · C++</sub>
+- [gaia-solutions-on-demand/DFireDataset](https://github.com/gaia-solutions-on-demand/DFireDataset) - D-Fire:火災や煙探知のために設定された画像データ。 <sub>⭐ 458 · Python</sub>
+- [robmarkcole/fire-detection-from-images](https://github.com/robmarkcole/fire-detection-from-images) - ニューラルネットで画像の火災を検知 <sub>⭐ 457 · Jupyter Notebook</sub>
+- [burningion/poor-mans-deep-learning-camera](https://github.com/burningion/poor-mans-deep-learning-camera) - Raspberry Pi、フラスコ、YOLO でシンクライアントのディープラーニングカメラを構築 <sub>⭐ 453 · Python</sub>
+- [CVUsers/Smoke-Detect-by-YoloV5](https://github.com/CVUsers/Smoke-Detect-by-YoloV5) - Yolov5実時間煙の検出システム <sub>⭐ 453 · Jupyter Notebook</sub>
+- [UNeedCryDear/yolov8-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp) - yolov8ハブ、onnxruntimeとopencvのcpp <sub>⭐ 453 · C++</sub>
+- [walktree/libtorch-yolov3](https://github.com/walktree/libtorch-yolov3) - YOLO v3オブジェクト検出アルゴリズムのLibtorch実装 <sub>⭐ 453 · C++</sub>
+- [AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - 複雑YOLO:ポイントクラウドのリアルタイム3Dオブジェクト検出ダークネット <sub>⭐ 452 · Python</sub>
+- [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) - これは、私たちの紙の公式リポジトリです "RFUAV:無人航空機検出と識別のためのベンチマークデータセット"。 コードには、2つのステージモデルが搭載され、ドローンの検出と... <sub>⭐ 447 · Python</sub>
+- [vietnh1009/Yolo-v2-pytorch](https://github.com/vietnh1009/Yolo-v2-pytorch) - オブジェクト検出タスクのYOLO <sub>⭐ 447 · Python</sub>
+- [miemie2013/Keras-YOLOv4](https://github.com/miemie2013/Keras-YOLOv4) - yolov4 42.0% mAP.ppyolo 45.1% mAP。 <sub>⭐ 446 · Python</sub>
+- [jamjamjon/usls](https://github.com/jamjamjon/usls) - ONNXRuntime と統合した Rustライブラリ。YOLO、FastVLMなどのコンピューターバイソンやVision-Languageモデルのコレクションも提供しています。 <sub>⭐ 444 · Rust</sub>
+- [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) - YOLO (一度だけ見てみる) v2のPyTorch実装 <sub>⭐ 443 · Python</sub>
+- [SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone](https://github.com/SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone) - YOLO モデル圧縮マルチデータセットトレイン <sub>⭐ 443 · Python</sub>
+- [niconielsen32/YOLO-3D](https://github.com/niconielsen32/YOLO-3D) - YOLOと深さ推定を用いた3Dオブジェクト検出 <sub>⭐ 441 · Python</sub>
+- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - (AAAI'23 & IJCV’26) PyTorchバージョンYOLOVシリーズの実装 <sub>⭐ 441 · Python</sub>
+- [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: コンピュータビジョンのためのクロスプラットフォームのAI支援アノテーションツール <sub>⭐ 439 · Python</sub>
+- [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) - yolov7はランドマークが付いている検出に直面します <sub>⭐ 438 · Python</sub>
+- [Mrpachimari0704/MidState-Yolo](https://github.com/Mrpachimari0704/MidState-Yolo) - Midstate-YOLO は、認識速度と検出精度の向上により、YOLO バリアントです。 <sub>⭐ 433 · Python</sub>
+- [AlturosDestinations/Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) - C# Yolo Darknet Wrapper (リアルタイムオブジェクト検出) <sub>⭐ 431 · C#</sub>
+- [MugheesMehdi07/langvio](https://github.com/MugheesMehdi07/langvio) - YOLOのようなビデオ処理フレームワークで大言語モデル(LLM)をブリッジする強力なAIライブラリは、高度なビデオ理解のためのビジョンと言語のシームレスな統合を可能にします... <sub>⭐ 431 · Python</sub>
+- [Barath19/Boxer3D](https://github.com/Barath19/Boxer3D) - iPhone用のAR 3Dオブジェクト検出 - YOLO 2D + BoxerNet 3Dリフト <sub>⭐ 430 · Swift</sub>
+- [aparsoft/yolo-streamlit-detection-tracking](https://github.com/aparsoft/yolo-streamlit-detection-tracking) - Real-Timeビデオストリームと静的画像に実装されたオブジェクト検出および追跡アルゴリズム。 <sub>⭐ 429 · Python</sub>
+- [darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) - ディープラーニングのコンピュータビジョンNLPプロジェクトをコードで学習する100以上のAIマシン <sub>⭐ 415</sub>
+- [Ank-Cha/Social-Distancing-Analyser-COVID-19](https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19) - CCTVカメラやドローンのビデオ監視を使用して、社会的な分散型分析装置AIツール。 COVID19を防ぐためのソーシャル・ディスタンシング・アナライザー <sub>⭐ 412 · Python</sub>
+- [simoncirstoiu/alice](https://github.com/simoncirstoiu/alice) - 分析・学習・インジェスト・キュレーション・エクスポート — AI搭載YOLOデータセット管理ツールキット <sub>⭐ 409 · JavaScript</sub>
+- [gomzyakov/github-achievements](https://github.com/gomzyakov/github-achievements) - すべてのGitHubプロファイルバッジと実績(20以上の言語)の完全なリスト <sub>⭐ 404</sub>
+- [dusty-nv/jetbot_ros](https://github.com/dusty-nv/jetbot_ros) - ROSノードとNVIDIA JetBot用のGazeboモデルをJetson nanoで提供 <sub>⭐ 402 · Python</sub>
+- [monemati/PX4-ROS2-Gazebo-YOLOv8](https://github.com/monemati/PX4-ROS2-Gazebo-YOLOv8) - PX4 AutopilotとROS2のドローンを用いた空中オブジェクト検出。 PX4 SITLおよびGazebo Gardenはシミュレーションに使用されます。 YOLOv8は、オブジェクト検出のために使われます。 <sub>⭐ 402 · Python</sub>
+- [NVIDIA-AI-IOT/jetson_benchmarks](https://github.com/NVIDIA-AI-IOT/jetson_benchmarks) - ジェットソン・ベンチマーク <sub>⭐ 402 · Python</sub>
+- [GuiltyNeuron/ANPR](https://github.com/GuiltyNeuron/ANPR) - ナンバープレートの検出と認識 <sub>⭐ 397 · Python</sub>
+- [Abonia1/YOLOv8-Fire-and-Smoke-Detection](https://github.com/Abonia1/YOLOv8-Fire-and-Smoke-Detection) - 森の火を検知し、他の地域への火災を防止する <sub>⭐ 395 · Jupyter Notebook</sub>
+- [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3Dオブジェクト自動運転車両の検出 <sub>⭐ 395 · Python</sub>
+- [xslittlegrass/CarND-Vehicle-Detection](https://github.com/xslittlegrass/CarND-Vehicle-Detection) - 21FPSでKerasのYOLOを用いた車両検出 <sub>⭐ 392 · Jupyter Notebook</sub>
+- [wuzhihao7788/yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch) - YOLOv4、PP-YOLO、YOLOv5、YOLOv3などピトルチのYOLOシリーズを再現 <sub>⭐ 390 · Python</sub>
+- [yyccR/yolov5_in_tf2_keras](https://github.com/yyccR/yolov5_in_tf2_keras) - YOLOv5 in TF2 > TFLite > ONNX > テノールRT <sub>⭐ 387 · Jupyter Notebook</sub>
+- [jinbooooom/OriginDL](https://github.com/jinbooooom/OriginDL) - C++でPytorch-like DLライブラリをスクラッチから実装し、ステップバイステップ <sub>⭐ 386 · C++</sub>
+- [techwingslab/yolov5-net](https://github.com/techwingslab/yolov5-net) - C#、ML.NET、ONNX による YOLOv5 オブジェクト検出 <sub>⭐ 385 · C#</sub>
+- [Ma-Dan/keras-yolo4](https://github.com/Ma-Dan/keras-yolo4) - YOLOv4(Tensorflow backend)のKeras実装 <sub>⭐ 380 · Python</sub>
+- [BossZard/rotation-yolov5](https://github.com/BossZard/rotation-yolov5) - yolov5に基づく回転検出 <sub>⭐ 378 · Jupyter Notebook</sub>
+- [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) - OpenCV、PyTorchを使ったYOLOv7ポーズ推定 <sub>⭐ 377 · Python</sub>
+- [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) - YOLOのvarientsを使用して実時間多カメラの複数のobjectの追跡者 <sub>⭐ 376 · Python</sub>
+- [No-Chicken/Echo-Mate](https://github.com/No-Chicken/Echo-Mate) - Echo: デスクメイトはあなたに話したり、PCを翻訳したり、メモを作ることができます。AIカメラさえあります。 <sub>⭐ 375 · C</sub>
+- [RizwanMunawar/yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) - PyTorch、OpenCVおよびUltralyticsを使用して追跡するYOLOv8 オブジェクト <sub>⭐ 375 · Python</sub>
+- [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5) - yolov5のLibTorch推論実装 <sub>⭐ 375 · C++</sub>
+- [NVIDIA-AI-IOT/jetson_dla_tutorial](https://github.com/NVIDIA-AI-IOT/jetson_dla_tutorial) - NVIDIA JetsonのDeep Learning Accelerator(DLA)を使い始めるためのチュートリアル <sub>⭐ 373 · Python</sub>
+- [nightsnack/YOLObile](https://github.com/nightsnack/YOLObile) - これは、YOLObileの実装です: 圧縮コンパイルによるモバイルデバイス上のリアルタイムオブジェクト検出 <sub>⭐ 371 · Python</sub>
+- [EthanH3514/AL_Yolo](https://github.com/EthanH3514/AL_Yolo) - YOLOv5の低レイテンシー視覚ターゲット検出および追跡のためのリアルタイムコンピュータビジョンシステム。 <sub>⭐ 366 · Python</sub>
+- [reu2018DL/YOLO-LITE](https://github.com/reu2018DL/YOLO-LITE) - YOLO-LITEの開発に用いられる全ての訓練モデル <sub>⭐ 360 · Python</sub>
+- [theAIGuysCode/YOLOv4-Cloud-Tutorial](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial) - このリポジトリは、Google Colabでクラウド上でダークネットを使ってYOLOv4オブジェクト検出をビルドして実行する方法について説明します。 <sub>⭐ 360 · Jupyter Notebook</sub>
+- [iArunava/YOLOv3-Object-Detection-with-OpenCV](https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV) - このプロジェクトでは、あらかじめ訓練されたyolov3モデルを使用してリアルタイムの画像とビデオオブジェクト検出クラスタを実装しています。 <sub>⭐ 359 · Python</sub>
+- [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) - OpenCV 4.5.4、C++およびPythonで超高度化YOLO V5を使用する例 <sub>⭐ 356 · Python</sub>
+- [syxanash/maxheadbox](https://github.com/syxanash/maxheadbox) - ラズベリーPiで動作するローカルボイスアクティブLLMエージェント <sub>⭐ 354 · JavaScript</sub>
+- [YWL0720/YOLO_ORB_SLAM3](https://github.com/YWL0720/YOLO_ORB_SLAM3) - ダイナミックな環境でSLAMを実現するためにYOLOv5を搭載したオブジェクト検出モジュールを追加したORB-SLAM3の改良版です。 <sub>⭐ 351 · C++</sub>
+- [FocoosAI/focoos](https://github.com/FocoosAI/focoos) - 超高速コンピュータビジョンモデル。コードのほんの数行でSOTAモデルを微調整します。クラウドとエッジ展開のための準備ができました。 <sub>⭐ 350 · Python</sub>
+- [prominenceai/deepstream-services-library](https://github.com/prominenceai/deepstream-services-library) - PythonとC/C++用のオンデマンドDeepStreamパイプラインサービスの共有ライブラリ <sub>⭐ 346 · C++</sub>
+- [dylski/PaperPiAI](https://github.com/dylski/PaperPiAI) - Raspberry Pi Zero は、AI-generated e-ink の画像フレームを出力しました。 <sub>⭐ 341 · Python</sub>
+- [hht1996ok/EA-LSS](https://github.com/hht1996ok/EA-LSS) - EA-LSS:Edge-awareの3D BEVオブジェクト検出用のリフトスプラートショットフレームワーク <sub>⭐ 329 · Python</sub>
+- [JXingZhao/EGNet](https://github.com/JXingZhao/EGNet) - EGNet:Salientオブジェクト検出のためのエッジガイダンスネットワーク(ICCV 2019) <sub>⭐ 325 · Python</sub>
+- [DJTobias/Cherry-Autonomous-Racecar](https://github.com/DJTobias/Cherry-Autonomous-Racecar) - エンドからエンドツーエンド学習までのCNNの実装は、TensorflowとROSを使用してNvidia Jetson TX1で自己運転車のために学びます <sub>⭐ 321 · Python</sub>
+- [Jakaria08/EESRGAN](https://github.com/Jakaria08/EESRGAN) - エンドツーエンドエッジ強化ガンとオブジェクトディテクターネットワークによるリモートセンシング(衛星)画像における小物体検出 <sub>⭐ 315 · Python</sub>
+- [jobergum/browser-ml-inference](https://github.com/jobergum/browser-ml-inference) - トランスNLPモデルでブラウザーのエッジインフェレンス <sub>⭐ 313 · Jupyter Notebook</sub>
+- [automaticdai/rpi-object-detection](https://github.com/automaticdai/rpi-object-detection) - Raspberry Pi と OpenCV でリアルタイムのオブジェクト検出とトラッキング! <sub>⭐ 312 · Python</sub>
+- [Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero) - Raspberry Pi AI Kit を使ってAIプロジェクトを構築するための包括的なステップバイステップガイドを提供します。 <sub>⭐ 312 · Jupyter Notebook</sub>
+- [rbonghi/jetson_easy](https://github.com/rbonghi/jetson_easy) - NVIDIA Jetson(Nano、Xavier、TX2i、TX2、TX1、TK1)をセットアップおよび構成するための自動スクリプト。 このスクリプトは、カーネルを更新し、修正してパッチを作成するために異なるモジュールを実行し、ROSをインストールします... <sub>⭐ 300 · Shell</sub>
+- [NVIDIA-AI-IOT/deepstream_pose_estimation](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) - これは、人間のポーズ推定パイプラインを実証するためのDeepStreamアプリケーションです。 <sub>⭐ 299 · C++</sub>
+- [ThinkOffApp/CarWatch](https://github.com/ThinkOffApp/CarWatch) - チャットルームのエージェントとしてあなたの車: ラズベリーPi 5 + dashcam +ローカルAI。 CodeWatchのガレージのための兄弟姉妹. <sub>⭐ 292 · Python</sub>
+- [DanielMartensson/CControl](https://github.com/DanielMartensson/CControl) - 高度な制御とコンピュータビジョン技術を使用して、簡単に埋め込まれる方法 <sub>⭐ 287 · C</sub>
+- [nyadla-sys/whisper.tflite](https://github.com/nyadla-sys/whisper.tflite) - OpenAIのWhisper TFLiteポートを最適化し、エッジデバイス上の効率的なオフライン干渉を実現します。 <sub>⭐ 286 · C++</sub>
+- [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - マスターAIの推論、人工知能エージェントハーネスシステムおよびハードウェアエンジニアリング — 物理的なAIチップの設計。 それは目標です。 <sub>⭐ 282 · HTML</sub>
+- [Bisonai/awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) - 研究論文、推論エンジン、課題、書籍、ミートアップなどを含む素晴らしいエッジマシン学習リソースのキュレーションリスト。 <sub>⭐ 281 · Python</sub>
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Bluetooth スピーカーをスマートにします。DIY マルチルームのオーディオと音楽アシスタント、ホームアシスタント AI 自動化 & Sendspin プロトコル。Docker、HA addon、Raspberry Pi、Proxmox LXC. 無料&オープンソース。 <sub>⭐ 279 · Python</sub>
+- [Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples) - Seeed Studio によるジェット機の例リポジトリは、NVIDIA Jetson プラットフォーム上でビジョン AI と生成AI モデルを実行するためのシームレスなワンラインのコマンド展開を提供しています。 <sub>⭐ 277 · C++</sub>
+- [sawankumarbundelkhandi/edge_detection](https://github.com/sawankumarbundelkhandi/edge_detection) - これは、ライブカメラでエッジを検出するフラッタプラグインです, 検出されたエッジオブジェクトの写真を撮ります, それをクロップします, そして保存. <sub>⭐ 270 · Swift</sub>
+- [bdtinc/maskcam](https://github.com/bdtinc/maskcam) - リアルタイムでクラウドフェイスマスクの使用量を測定するJetson Nanoベースのスマートカメラシステム。 <sub>⭐ 252 · Python</sub>
+- [NVIDIA-AI-IOT/jetson-intro-to-distillation](https://github.com/NVIDIA-AI-IOT/jetson-intro-to-distillation) - NVIDIA Jetson の展開のための最適化技術として知識蒸留を導入したチュートリアル <sub>⭐ 250 · Python</sub>
+- [TrevTron/rtl-ml](https://github.com/TrevTron/rtl-ml) - RTL-SDR + ARM SBCを使用したAI搭載無線信号の分類器。FM、NOAA天気、APRS、FRS / GMRS、ISMセンサー、96.9%精度を持つページャを特定します。完全なパイプライン:キャプチャ→列車 →... <sub>⭐ 249 · Python</sub>
+- [galliot-us/neuralet](https://github.com/galliot-us/neuralet) - Neuraletは、エッジTPU、Jetson Nanoなどに関するディープラーニングモデルのオープンソースプラットフォームです。 <sub>⭐ 243 · Python</sub>
+- [OpenBMB/CPM.cu](https://github.com/OpenBMB/CPM.cu) - CPM.cuは、LLMの軽量で高性能なCUDA実装であり、エンドデバイス推論のために最適化され、スパールアーキテクチャ、スペキュラティブサンプリングおよびスパラーゼアーキテクチャにおける最先端技術を備えています。 <sub>⭐ 243 · Cuda</sub>
+- [SteveMacenski/jetson_nano_detection_and_tracking](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking) - ジェットソンナノMLは、スクリプトをインストールします。, ロボティクス検出モデルの自動最適化, そして、検出のフィルタベースの追跡 <sub>⭐ 231 · Python</sub>
+- [winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano](https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano) - このリポジトリは、リアルタイムのライセンスプレート検出と認識システムを構築する方法について詳細なガイドを提供します。 Jetson Nanoで実装されたリポジトリのソースコードが40に達しました... <sub>⭐ 230 · Python</sub>
+- [dusty-nv/jetson-voice](https://github.com/dusty-nv/jetson-voice) - PyTorchとTensorRTを使ってNVIDIA JetsonのASR/NLP/TTSディープラーニングインフェレンスライブラリ <sub>⭐ 229 · Python</sub>
+- [adamcohenhillel/LLMs-Cheatsheet](https://github.com/adamcohenhillel/LLMs-Cheatsheet) - ラズベリーPI で LLM を実行する方法の手順 <sub>⭐ 217 · Jupyter Notebook</sub>
+- [NVIDIA-AI-IOT/jetcard](https://github.com/NVIDIA-AI-IOT/jetcard) - NVIDIA Jetson NanoとWebプログラミングAIプロジェクト用のSDカードイメージ <sub>⭐ 216 · Python</sub>
+- [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - NVIDIA Jetson (Nano) のTensorRTを用いた顔認識 <sub>⭐ 216 · C++</sub>
+- [helmut-hoffer-von-ankershoffen/jetson](https://github.com/helmut-hoffer-von-ankershoffen/jetson) - Helmut Hoffer von Ankershoffenは、Juppyter Notebookを含む機械学習(ML)用のKubernetes(K8s)を実行しているNVIDIA Jetson (NanoとAGX Xavier)のエッジデバイスをベースとしたARM64ベースのNVIDIA Jetsonで実験しています... <sub>⭐ 211 · Python</sub>
+- [NVIDIA-AI-IOT/jetson-ai-lab](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab) - GitHubがJetson AI Labのリポ <sub>⭐ 209 · HTML</sub>
+- [infracv/rf-detr-cpp](https://github.com/infracv/rf-detr-cpp) - RF-DETR 用の C++/TensorRT インフェレンスエンジン。FP32/FP16/INT8 対応のオブジェクト検出とインスタンスセグメンテーション。NVIDIA GPU、Jetson (Orin、AGX Thor) に最適 <sub>⭐ 206 · C++</sub>
+- [GaohaoZhou-ops/JetsonYoloROS](https://github.com/GaohaoZhou-ops/JetsonYoloROS) - このリポジトリは、Nvidia Jetson デバイスと ROS フレームワークで TensorRT および CUDA アクセラレーションを使用して Yolo 機能を実行します。 <sub>⭐ 204 · Python</sub>
+- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIAが加速し、画像空間オブジェクト検出のためのディープラーニングモデルサポート <sub>⭐ 204 · C++</sub>
+- [NVIDIA-ISAAC-ROS/isaac_ros_apriltag](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_apriltag) - NVIDIA認定の4月タグ検出とポーズ推定。 <sub>⭐ 200 · C++</sub>
+- [bricewalker/Hey-Jetson](https://github.com/bricewalker/Hey-Jetson) - Nvidia Jetson の注意によるディープラーニングベースの自動音声認識。 <sub>⭐ 199 · Jupyter Notebook</sub>
+- [nasa-jpl/visual-perception-engine](https://github.com/nasa-jpl/visual-perception-engine) - 視覚認識エンジン:NVIDIA Jetsonの最適化された同時並行的な方法で複数の認識モデルを実行するように設計されている高速で柔軟なフレームワーク <sub>⭐ 198 · Python</sub>
+- [iwatake2222/play_with_tensorrt](https://github.com/iwatake2222/play_with_tensorrt) - C++でTensorRTのサンプルプロジェクト <sub>⭐ 197 · C++</sub>
+- [NVIDIA-AI-IOT/jetson-cloudnative-demo](https://github.com/NVIDIA-AI-IOT/jetson-cloudnative-demo) - ジェットソンXavier NXおよびJetson AGX Xavierのための多容器のデモ <sub>⭐ 197 · Shell</sub>
+- [piyoki/jetson-packages-family](https://github.com/piyoki/jetson-packages-family) - Nvidia Jetson Nano/Xavier Dev Kitの究極のソフトウェアインストールガイド <sub>⭐ 196 · Shell</sub>
+- [ykhli/AI-RPi-detection](https://github.com/ykhli/AI-RPi-detection) - AI Raspberry Pi 猫の検出と通知: ネコがやるべきことではない何かを行うときにテキストを取得し、AI はそれが見るものをナレーションします。他の使用例に匹敵する猫 <sub>⭐ 195 · Python</sub>
+- [arbit3rr/JetsonYolo](https://github.com/arbit3rr/JetsonYolo) - NVIDIA Jetson Nano の Yolov5 および openCV を使用してカメラのインストール、ソフトウェアおよびハードウェア設定、オブジェクト検出のためのシンプルなプロセス。 <sub>⭐ 188 · Python</sub>
+- [dataplayer12/homesecurity](https://github.com/dataplayer12/homesecurity) - Raspberry piとNVIDIA Jetsonプラットフォームのセキュリティカメラ <sub>⭐ 188 · Python</sub>
+- [jetsonhacks/installTensorFlowTX2](https://github.com/jetsonhacks/installTensorFlowTX2) - NVIDIA Jetson TX2開発キットにTensorFlowをインストール <sub>⭐ 168 · Shell</sub>
+- [bastulli/AutoCarJetsonNano](https://github.com/bastulli/AutoCarJetsonNano) - PyTorch Python 神経ネットワーク 自動 1/10 Nvidia Jetson Nano 用車 <sub>⭐ 166 · Jupyter Notebook</sub>
+- [nihui/ncnn-small-board](https://github.com/nihui/ncnn-small-board) - 様々なシングルボードコンピュータ上のCNCのベンチマーク <sub>⭐ 166</sub>
+- [AeroVILab-AHU/LEGNet](https://github.com/AeroVILab-AHU/LEGNet) - (ICCVW 2025) LEGNet:低品質のリモートセンシングイメージオブジェクト検出のための軽量エッジガウスネットワーク <sub>⭐ 164 · Python</sub>
+- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth) - NVIDIA認定、ディープラーニングのステレオ分散推定 <sub>⭐ 158 · C++</sub>
+- [toolboc/Intelligent-Video-Analytics-with-NVIDIA-Jetson-and-Microsoft-Azure](https://github.com/toolboc/Intelligent-Video-Analytics-with-NVIDIA-Jetson-and-Microsoft-Azure) - Microsoft AzureでNVIDIAハードウェアを使用してインテリジェントビデオ分析用のエンドツーエンドアーキテクチャを実証するリポジトリ <sub>⭐ 157 · TypeScript</sub>
+- [ceva-ip/DPDFNet](https://github.com/ceva-ip/DPDFNet) - DPDFNet - 研究、オーディオアプリ、およびエッジデバイス用のオープンソースのストリーミングスピーチの強化とリアルタイムで騒々しいスピーチをクリーンアップします。 訓練済みのモデル、PyTorchコード、ONNX / TFLite推論が含まれています... <sub>⭐ 156 · Python</sub>
+- [Qengineering/Jetson-Nano-image](https://github.com/Qengineering/Jetson-Nano-image) - ディープラーニングフレームワークを用いたJetson Nanoイメージ <sub>⭐ 156</sub>
 
 ## 🗣️ 音声アシスタントとスマートホーム
 
 > ローカルのアシスタント、ホームオートメーション、音声。
 
-- [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants <sub>⭐ 21.3k · Python</sub>
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models <sub>⭐ 13.4k · Python</sub>
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. <sub>⭐ 10.2k · Python</sub>
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - Home Assistant configuration & Documentation for my Smart House. Write-ups, videos, part lists, and links throughout. Be sure to it. Updated FREQUENTLY! <sub>⭐ 5.3k · Python</sub>
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning <sub>⭐ 4.9k · Python</sub>
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server <sub>⭐ 4.9k · Python</sub>
-- [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative <sub>⭐ 3.1k · C</sub>
-- [Priler/jarvis](https://github.com/Priler/jarvis) - Offline voice assistant that respects your privacy. Forged in Rust. WIP. <sub>⭐ 3.0k · Rust</sub>
-- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - オープンソースの機械学習フレームワークを使用して、テキストと音声ベースの会話を自動化します。NLU、対話管理、Slack、Facebookに接続し、チャットボットやボイスアシスタントを作成 <sub>⭐ 21.3k · Python</sub>
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - オープンソースモデルで音声エージェントをビルドする <sub>⭐ 13.4k · Python</sub>
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - 高度な音声アクティビティの検出、ウェイクワードアクティベーションとインスタントトランスクリプションを備えた堅牢で効率的な低レイテンシブ・ツー・テキスト・ライブラリ。 <sub>⭐ 10.2k · Python</sub>
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - ホーム アシスタント構成 & 私のスマートハウスのためのドキュメント. 書き込みアップ, ビデオ, パートリスト, そして、リンク全体で. それを確認してください。. 更新されたFREQUENTLY! <sub>⭐ 5.3k · Python</sub>
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - ディープラーニングによるオンデバイスウェイクワード検出 <sub>⭐ 4.9k · Python</sub>
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - 非公式および素晴らしいホームアシスタントMCPサーバー <sub>⭐ 4.9k · Python</sub>
+- [HeyWillow/willow](https://github.com/HeyWillow/willow) - オープンソース、ローカル、セルフホスト Amazon Echo/Google Homeの競争力のあるボイスアシスタント代替 <sub>⭐ 3.1k · C</sub>
+- [Priler/jarvis](https://github.com/Priler/jarvis) - プライバシーを尊重したオフラインのボイスアシスタント。Rust. WIPで鍛造されています。 <sub>⭐ 3.0k · Rust</sub>
+- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - オープンソースのオーディオウェイクワード(またはフレーズ)検出フレームワークで、パフォーマンスとシンプル性を重視しています。 <sub>⭐ 2.8k · Jupyter Notebook</sub>
 - [ahmedeltaher/Android-MVVM-Architecture-Android-Voice-AI-SDK](https://github.com/ahmedeltaher/Android-MVVM-Architecture-Android-Voice-AI-SDK) - 音声AI SDKは、どのアプリでも完全なボイス駆動型の人工知能の会話パイプラインを数分で提供できる再利用可能なAndroidライブラリです。音声アシスタント+ Android Voide AI + SDK + MVVM + Kotlin <sub>⭐ 2.6k · Kotlin</sub>
-- [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) - Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw <sub>⭐ 2.6k · TypeScript</sub>
-- [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive. <sub>⭐ 2.5k · Python</sub>
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech… <sub>⭐ 2.0k · Python</sub>
-- [isair/jarvis](https://github.com/isair/jarvis) - A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything… <sub>⭐ 1.9k · Python</sub>
-- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias… <sub>⭐ 1.7k · Python</sub>
-- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and… <sub>⭐ 1.5k · Python</sub>
-- [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration & Model to control your smart home using a Local LLM <sub>⭐ 1.4k · Python</sub>
-- [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up. <sub>⭐ 1.4k · Dart</sub>
-- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list… <sub>⭐ 1.4k · Python</sub>
-- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - A simple toy demo of a local voice assistant with whisper and large language model. <sub>⭐ 1.3k · Python</sub>
-- [blakeblackshear/frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration) - Frigate integration for Home Assistant <sub>⭐ 1.3k · Python</sub>
-- [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio. <sub>⭐ 1.2k · JavaScript</sub>
-- [GENEXIS-AI/chromex](https://github.com/GENEXIS-AI/chromex) - A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows. <sub>⭐ 1.2k · TypeScript</sub>
-- [PromtEngineer/Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and… <sub>⭐ 1.1k · Python</sub>
-- [LearnedVector/A-Hackers-AI-Voice-Assistant](https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant) - A hackers AI voice assistant, built using Python and PyTorch. <sub>⭐ 1.1k · Python</sub>
-- [espressif/esp-skainet](https://github.com/espressif/esp-skainet) - Espressif intelligent voice assistant <sub>⭐ 979 · C</sub>
-- [redheadesign/music-island](https://github.com/redheadesign/music-island) - Music controls, local dictation, voice processing and assistant limits at the top edge of your Windows desktop. <sub>⭐ 969 · Rust</sub>
-- [kishanrajput23/Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant) - A python based desktop voice assistant capable of executing system-level commands, integrating speech recognition and text-to-speech, and handling asynchronous user interactions. <sub>⭐ 968 · Python</sub>
-- [MycroftAI/mycroft-precise](https://github.com/MycroftAI/mycroft-precise) - A lightweight, simple-to-use, RNN wake word listener <sub>⭐ 965 · Python</sub>
-- [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers. <sub>⭐ 940 · Python</sub>
-- [jxlarrea/voice-satellite-card-integration](https://github.com/jxlarrea/voice-satellite-card-integration) - Voice Satellite turns any tablet, phone, or browser into a hands-free voice assistant for Home Assistant <sub>⭐ 869 · JavaScript</sub>
-- [hehehai/voxt](https://github.com/hehehai/voxt) - An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive… <sub>⭐ 853 · Swift</sub>
-- [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. <sub>⭐ 821 · Rich Text Format</sub>
-- [ethanplusai/jarvis](https://github.com/ethanplusai/jarvis) - JARVIS — a voice assistant for Claude Code. Talk to your Mac and he brainstorms a project with you, builds it, and tells you out loud when a Claude Code session needs you. macOS, on your Claude… <sub>⭐ 820 · Python</sub>
-- [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant <sub>⭐ 809 · Python</sub>
-- [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanie is an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks imitating much of an virtual assistant's work. <sub>⭐ 797 · Python</sub>
-- [ITSpecialist111/ai_automation_suggester](https://github.com/ITSpecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI… <sub>⭐ 793 · Python</sub>
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build).… <sub>⭐ 767 · Python</sub>
-- [esphome/home-assistant-voice-pe](https://github.com/esphome/home-assistant-voice-pe) - Home Assistant Voice PE <sub>⭐ 766 · C++</sub>
-- [kentcdodds/kody](https://github.com/kentcdodds/kody) - Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers. <sub>⭐ 724 · TypeScript</sub>
-- [alan-ai/voice-assistant-scripts](https://github.com/alan-ai/voice-assistant-scripts) - Example scripts for AI agents created with the Alan AI Platform. <sub>⭐ 677 · JavaScript</sub>
-- [Gladiator07/JARVIS](https://github.com/Gladiator07/JARVIS) - Personal Voice Assistant made with Python and has a cool looking GUI <sub>⭐ 668 · Python</sub>
-- [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AI Assistant - Voice-powered AI assistant for Mac <sub>⭐ 642 · TypeScript</sub>
-- [OHF-Voice/linux-voice-assistant](https://github.com/OHF-Voice/linux-voice-assistant) - Voice satellite for Home Assistant using the ESPHome protocol <sub>⭐ 640 · Python</sub>
-- [iMike78/nest-mini-drop-in-pcb](https://github.com/iMike78/nest-mini-drop-in-pcb) - Drop-in PCB replacement for the Google Nest Mini v2 with XMOS integration. Inspired by Onju Voice and Home Assistant Voice PE hardware. <sub>⭐ 601</sub>
-- [dsa/fast-voice-assistant](https://github.com/dsa/fast-voice-assistant) - Insanely fast AI voice assistant with <500ms response times <sub>⭐ 595 · Python</sub>
-- [ai-ng/swift](https://github.com/ai-ng/swift) - Fast voice assistant powered by Groq, Cartesia, and Vercel. <sub>⭐ 590 · TypeScript</sub>
-- [knoop7/Ava-Pro](https://github.com/knoop7/Ava-Pro) - Ava turns any Android 5+ device into a voice-first Home Assistant kiosk. Native C++ under the hood, so a 10-year-old tablet still listens, talks, and runs the house - with AirPlay-grade audio in… <sub>⭐ 551 · Kotlin</sub>
-- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant <sub>⭐ 533 · Python</sub>
-- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface <sub>⭐ 529 · Python</sub>
-- [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice <sub>⭐ 519 · Python</sub>
-- [syssi/xiaomi_airpurifier](https://github.com/syssi/xiaomi_airpurifier) - Xiaomi Mi Air Purifier and Xiaomi Mi Air Humidifier integration for Home Assistant <sub>⭐ 500 · Python</sub>
-- [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns… <sub>⭐ 494 · JavaScript</sub>
-- [nbogojevic/homeassistant-midea-air-appliances-lan](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan) - This Home Assistant custom component adding support for controlling Midea air conditioners and dehumidifiers on local network. <sub>⭐ 486 · Python</sub>
-- [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI. <sub>⭐ 458 · JavaScript</sub>
-- [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT. <sub>⭐ 446 · Kotlin</sub>
-- [CoreWorxLab/CAAL](https://github.com/CoreWorxLab/CAAL) - Local voice assistant that learns new abilities via auto-discovered n8n workflows exposed as tools via MCP <sub>⭐ 442 · TypeScript</sub>
-- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion) - End-to-end humanities writing assistant — an Agent Skill (open SKILL.md format). 11 modes from Socratic research-question sharpening through AI-use disclosure. Bilingual (EN/中文), discipline-aware… <sub>⭐ 427 · Python</sub>
-- [syssi/xiaomi_airconditioningcompanion](https://github.com/syssi/xiaomi_airconditioningcompanion) - Xiaomi Mi and Aqara Air Conditioning Companion integration for Home Assistant <sub>⭐ 410 · Python</sub>
-- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech <sub>⭐ 409 · JavaScript</sub>
-- [hassio-addons/app-aircast](https://github.com/hassio-addons/app-aircast) - AirCast - Home Assistant Community Apps <sub>⭐ 404 · Jinja</sub>
-- [MatthewCYM/VoiceBench](https://github.com/MatthewCYM/VoiceBench) - (TACL'26) VoiceBench: Benchmarking LLM-Based Voice Assistants <sub>⭐ 400 · Python</sub>
-- [OHF-Voice/wyoming](https://github.com/OHF-Voice/wyoming) - Peer-to-peer protocol for voice assistants <sub>⭐ 398 · Python</sub>
-- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files. <sub>⭐ 397 · JavaScript</sub>
-- [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant <sub>⭐ 388 · Python</sub>
-- [BolisettySujith/J.A.R.V.I.S](https://github.com/BolisettySujith/J.A.R.V.I.S) - A voice assistant which can be used to interact with your computer and controls your pc operations <sub>⭐ 382 · Python</sub>
-- [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install. <sub>⭐ 361 · Python</sub>
-- [AnubhavChaturvedi-GitHub/jarvis-ai-assistant](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) - Voice-controlled AI desktop assistant in Python. Speech recognition, text to speech, real-time web search, image generation, computer vision and WhatsApp automation, inspired by Iron Man's JARVIS. <sub>⭐ 351 · Python</sub>
-- [patrickjquinn/P-Brain.ai](https://github.com/patrickjquinn/P-Brain.ai) - Natural language virtual assistant using Node.js + Bootstrap <sub>⭐ 350 · JavaScript</sub>
-- [nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant) - DIY Voice Assistant based on the GLaDOS character from Portal video game series. Works with home assistant! <sub>⭐ 347 · C</sub>
-- [hackingthemarkets/chatgpt-api-whisper-api-voice-assistant](https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant) - chatgpt api and whisper api tutorial - voice conversation with therapist <sub>⭐ 346 · Python</sub>
-- [nickbild/local_llm_assistant](https://github.com/nickbild/local_llm_assistant) - World's Easiest GPT-like Voice Assistant <sub>⭐ 345 · Python</sub>
-- [voska/hass-mcp](https://github.com/voska/hass-mcp) - Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server. <sub>⭐ 344 · Python</sub>
-- [ygelfand/echolocal](https://github.com/ygelfand/echolocal) - Turn an Echo Dot (2nd gen) into a fully local Home Assistant voice satellite, multi-room media player, lux sensor, Bluetooth proxy, and more. No Amazon, no cloud. <sub>⭐ 344 · Go</sub>
-- [nickbild/voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions. <sub>⭐ 339 · Python</sub>
-- [llm-guy/jarvis](https://github.com/llm-guy/jarvis) - Jarvis is a voice-activated, conversational AI assistant powered by a local LLM (Qwen via Ollama). It listens for a wake word, processes spoken commands using a local language model with LangChain… <sub>⭐ 335 · Python</sub>
-- [music-assistant/voice-support](https://github.com/music-assistant/voice-support) - Music Assistant blueprints <sub>⭐ 329</sub>
-- [cnk700i/havcs](https://github.com/cnk700i/havcs) - Home Assistant Voice Control Skill <sub>⭐ 322 · Python</sub>
-- [pmbstyle/Alice](https://github.com/pmbstyle/Alice) - Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more. <sub>⭐ 322 · TypeScript</sub>
-- [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) - OpenClaw voice assistant app for Android - Wake word activation & system assistant integration <sub>⭐ 321 · Kotlin</sub>
-- [vavrek/Open-Assistant-Version-Zero](https://github.com/vavrek/Open-Assistant-Version-Zero) - Open Source Voice Assistant <sub>⭐ 320 · Python</sub>
-- [espressif/esp-va-sdk](https://github.com/espressif/esp-va-sdk) - Espressif's Voice Assistant SDK: Alexa, Google Voice Assistant, Google DialogFlow <sub>⭐ 317 · C</sub>
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama. <sub>⭐ 312 · Python</sub>
-- [NaomiProject/Naomi](https://github.com/NaomiProject/Naomi) - The Naomi Project is an open source, technology agnostic platform for developing always-on, voice-controlled applications! <sub>⭐ 303 · Python</sub>
-- [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code. <sub>⭐ 296 · TypeScript</sub>
-- [zycv/awesome-keyword-spotting](https://github.com/zycv/awesome-keyword-spotting) - This repository is a curated list of awesome Speech Keyword Spotting (Wake-Up Word Detection). <sub>⭐ 294</sub>
-- [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) - SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatGPT, Gemini, or Grok — required. Runs entirely on your… <sub>⭐ 292 · Python</sub>
-- [ddxfish/sapphire](https://github.com/ddxfish/sapphire) - She's the AI agent you come home to. <sub>⭐ 289 · Python</sub>
-- [OpenVoiceOS/ovos-buildroot](https://github.com/OpenVoiceOS/ovos-buildroot) - Open Voice Operating System - Buildroot edition is a minimalistic linux OS bringing the OVOS voice assistant to embbeded, low-spec headless and/or small (touch)screen devices. <sub>⭐ 283 · Python</sub>
-- [just-ai/aimybox-android-assistant](https://github.com/just-ai/aimybox-android-assistant) - Embeddable custom voice assistant for Android applications <sub>⭐ 280 · Kotlin</sub>
-- [livekit/livekit-wakeword](https://github.com/livekit/livekit-wakeword) - An open-source wake word library for creating voice-enabled applications. <sub>⭐ 280 · Python</sub>
-- [Pyrra00/Pyrra-v1.0](https://github.com/Pyrra00/Pyrra-v1.0) - A voice control hacking assistant in Python <sub>⭐ 273 · Python</sub>
-- [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova) - A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from… <sub>⭐ 271 · Shell</sub>
-- [Ai-Austin/Bing-GPT-Voice-Assistant](https://github.com/Ai-Austin/Bing-GPT-Voice-Assistant) - This is a Python voice assistant that takes two different wake words. One for prompting Bing AI using EdgeGPT and the other will prompt the GPT-3.5-Turbo API <sub>⭐ 269 · Python</sub>
-- [SreejanPersonal/JARVIS-AGI](https://github.com/SreejanPersonal/JARVIS-AGI) - JARVIS AGI // AI Powered Voice Assistant with Real Human Capabilities <sub>⭐ 267 · Python</sub>
-- [AbhishekBarali/SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr Flow alternative with an AI assistant that can read your screen on request and answer questions. <sub>⭐ 258 · Rust</sub>
-- [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - This package is a collection of datasets for evaluating AI Models in the context of Home Assistant. <sub>⭐ 254 · Jupyter Notebook</sub>
-- [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant <sub>⭐ 254 · Python</sub>
-- [YYuX-1145/Srt-AI-Voice-Assistant](https://github.com/YYuX-1145/Srt-AI-Voice-Assistant) - Subtitle dubbing with multiple TTS Engines <sub>⭐ 254 · Python</sub>
-- [bhattbhavesh91/voice-assistant-whisper-chatgpt](https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt) - This repository will guide you to create your own Smart Virtual Assistant like Google Assistant using Open AI's ChatGPT, Whisper. The entire solution is created using Python & Gradio. <sub>⭐ 253 · Jupyter Notebook</sub>
-- [RoyalCities/RC-Home-Assistant-Low-VRAM](https://github.com/RoyalCities/RC-Home-Assistant-Low-VRAM) - Local AI voice assistant stack for Home Assistant (GPU-accelerated) with persistent memory, follow-up conversation, and Ollama model recommendations - settings designed for low VRAM systems. <sub>⭐ 252</sub>
-- [just-ai/jaicf-kotlin](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development <sub>⭐ 248 · Kotlin</sub>
-- [idosal/assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant <sub>⭐ 239 · JavaScript</sub>
-- [small-cactus/M.I.L.E.S](https://github.com/small-cactus/M.I.L.E.S) - M.I.L.E.S, a GPT-4-Turbo voice assistant, self-adapts its prompts and AI model, can play any Spotify song, adjusts system and Spotify volume, performs calculations, browses the web and internet… <sub>⭐ 236 · Python</sub>
-- [serkandyck/realtime-voice-assistant-groq](https://github.com/serkandyck/realtime-voice-assistant-groq) - Groq-Powered Real-Time Voice Assistant <sub>⭐ 229 · TypeScript</sub>
-- [esphome/wake-word-voice-assistants](https://github.com/esphome/wake-word-voice-assistants) - Wake word voice assistant configurations and firmware for ESPHome <sub>⭐ 225</sub>
-- [sksalahuddin2828/AI_Personal_Digital_Assistant](https://github.com/sksalahuddin2828/AI_Personal_Digital_Assistant) - AI Personal Voice Assistant Project (Male - Female version) <sub>⭐ 220 · Python</sub>
-- [sfortis/openai_tts](https://github.com/sfortis/openai_tts) - Text-to-speech for Home Assistant from OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox or any server that implements the OpenAI speech API, with announcements that restore your volume and music. <sub>⭐ 219 · Python</sub>
-- [Verlintas/BetterAIChat](https://github.com/Verlintas/BetterAIChat) - Native Android AI agent: use your own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, device tools, Shizuku shell, screen analysis, web search, custom Skills, voice assistant <sub>⭐ 219 · Kotlin</sub>
-- [castorini/howl](https://github.com/castorini/howl) - Wake word detection modeling toolkit for Firefox Voice, supporting open datasets like Speech Commands and Common Voice. <sub>⭐ 215 · Python</sub>
-- [ykdojo/super-voice-assistant](https://github.com/ykdojo/super-voice-assistant) - macOS voice assistant with global hotkeys - transcribe speech to text with offline models (WhisperKit or Parakeet) or cloud-based Gemini API, capture and transcribe screen recordings with visual… <sub>⭐ 215 · Swift</sub>
-- [samosa-ai-com/Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend) - Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates… <sub>⭐ 214 · Python</sub>
-- [IRISX-AI/IRIS-AI](https://github.com/IRISX-AI/IRIS-AI) - Desktop AI assistant built for real productivity. Voice, automation, memory, vision, web search, and workflow tools in one experience. <sub>⭐ 211 · TypeScript</sub>
-- [rhasspy/wyoming-openwakeword](https://github.com/rhasspy/wyoming-openwakeword) - Wyoming protocol server for openWakeWord wake word detection system <sub>⭐ 205 · Python</sub>
-- [ronschaeffer/video_doorbell_voice_response](https://github.com/ronschaeffer/video_doorbell_voice_response) - Video & audio doorbell for Home Assistant: ESP32 Cam, DFPlayer Mini, ESPHome <sub>⭐ 203</sub>
-- [stanford-oval/genie-toolkit](https://github.com/stanford-oval/genie-toolkit) - The Genie open source kit for voice assistant (formerly known as Almond) <sub>⭐ 202 · TypeScript</sub>
-- [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B… <sub>⭐ 199 · Go</sub>
-- [esphome/aioesphomeapi](https://github.com/esphome/aioesphomeapi) - Python Client for ESPHome native API. Used by Home Assistant. <sub>⭐ 198 · Python</sub>
-- [Ai-Austin/GPT4ALL-Voice-Assistant](https://github.com/Ai-Austin/GPT4ALL-Voice-Assistant) - This is a 100% offline GPT4ALL Voice Assistant. Completely open source and privacy friendly. Use any language model on GPT4ALL. Background process voice detection. Watch the full YouTube tutorial for… <sub>⭐ 193 · Python</sub>
-- [omegaui/linux-voice-control](https://github.com/omegaui/linux-voice-control) - Your personal, fully customizable, Linux Voice Control Assistant. <sub>⭐ 192 · Python</sub>
-- [calesthio/generative-media-skills](https://github.com/calesthio/generative-media-skills) - Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants. <sub>⭐ 185 · Python</sub>
-- [FutureProofHomes/Satellite1-ESPHome](https://github.com/FutureProofHomes/Satellite1-ESPHome) - Open Source ESPHome Firmware for Your Private AI-Powered Satellite1 Voice Assistant & Multisensor <sub>⭐ 184 · C++</sub>
-- [eadmin2/jarvis_ai](https://github.com/eadmin2/jarvis_ai) - Iron-Man-style voice assistant + holographic HUD for Hermes Agent. Local Whisper STT, ElevenLabs voice, agent-summoned media panels, runs on your own hardware. <sub>⭐ 179 · Python</sub>
-- [mr-tbot/mesh-api](https://github.com/mr-tbot/mesh-api) - MESH-API — Off-Grid AI & API Router & with MCP server & over 30 API extensions for Meshtastic & MeshCore - Seamlessly connect LM Studio, Ollama, AI Providers , 3rd-party APIs, Agents & Home Assistant… <sub>⭐ 179 · Python</sub>
-- [RasaHQ/rasa-voice-interface](https://github.com/RasaHQ/rasa-voice-interface) - A simple web interface for building voice assistants with Rasa <sub>⭐ 179 · Vue</sub>
-- [brownard/Ava](https://github.com/brownard/Ava) - An Android voice assistant for Home Assistant using the ESPHome protocol <sub>⭐ 178 · Kotlin</sub>
-- [acatovic/ova](https://github.com/acatovic/ova) - Outrageous Voice Assistant - Fully local end-to-end ASR + LLM + TTS pipeline using open weight models and a simple web based UI <sub>⭐ 173 · Python</sub>
-- [JLW-7/Wally](https://github.com/JLW-7/Wally) - Cute voice assistant built on ESP32 to help users with reminders, productivity, and daily conversations. <sub>⭐ 170 · C++</sub>
-- [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - This Alexa skill adds a voice command to open Lovelace dashboards on the Echo Show in the built-in Silk browser. <sub>⭐ 169 · Python</sub>
-- [MichalZaniewicz/esphome-guition-jc3636k718c-va](https://github.com/MichalZaniewicz/esphome-guition-jc3636k718c-va) - Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in… <sub>⭐ 165 · Python</sub>
-- [projectswithdigambar/jarvis](https://github.com/projectswithdigambar/jarvis) - Jarvis is a smart desktop assistant built with Python, Eel, HTML/CSS, and JavaScript that empowers you to control your computer and mobile device through voice and text commands. Whether you're… <sub>⭐ 165 · HTML</sub>
-- [FutureProofHomes/wyoming-enhancements](https://github.com/FutureProofHomes/wyoming-enhancements) - Integrate Magical ChatGPT Capabilities With Home Assistant's Wyoming Voice Satellite. <sub>⭐ 164 · Shell</sub>
-- [lee-b/kobold_assistant](https://github.com/lee-b/kobold_assistant) - Like ChatGPT's voice conversations with an AI, but entirely offline/private/trade-secret-friendly, using local AI models such as LLama 2 and Whisper <sub>⭐ 164 · Python</sub>
-- [Picovoice/wake-word-benchmark](https://github.com/Picovoice/wake-word-benchmark) - wake word engine benchmark framework <sub>⭐ 163 · Python</sub>
-- [TaterTotterson/microWakeWord-Trainer-Nvidia-Docker](https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker) - Train microWakeWord for use with Tater Voice <sub>⭐ 163 · Python</sub>
-- [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant… <sub>⭐ 161 · Python</sub>
-- [danielkaldheim/ha_airstage](https://github.com/danielkaldheim/ha_airstage) - Connects your Fujitsu Airstage air conditioner to Home Assistant. <sub>⭐ 157 · Python</sub>
-- [liampetti/fulloch](https://github.com/liampetti/fulloch) - Fulloch - The Fully Local Home Voice Assistant <sub>⭐ 157 · Python</sub>
-- [formatBCE/Koala-Satellite](https://github.com/formatBCE/Koala-Satellite) - This satellite for Home Assistant is based on ESP32-S3 DevkitC, Respeaker Lite board with XMOS XU316, with LED strip and dial. It's using most of the Voice PE device features, supports BLE Improv and… <sub>⭐ 156</sub>
-- [Cyborgscode/Personal-Voice-Assistent](https://github.com/Cyborgscode/Personal-Voice-Assistent) - Building a fully featured and localized voice assistant for Linux <sub>⭐ 155 · Java</sub>
-- [FutureProofHomes/Satellite1-Hardware](https://github.com/FutureProofHomes/Satellite1-Hardware) - A Private and Open Source AI-Powered Voice Assistant & Multisensor for Home Assistant <sub>⭐ 152</sub>
-- [JarikDem-Bot/ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) - AI VTuber Waifu and voice assistant <sub>⭐ 152 · Python</sub>
+- [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) - Meta Ray-BanスマートメガネのリアルタイムAIアシスタント - GeminiライブとOpenClawによる音声+ビジョン+エージェントアクション <sub>⭐ 2.6k · TypeScript</sub>
+- [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - しかし、別の声のアシスタントが生きています。 <sub>⭐ 2.5k · Python</sub>
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-6、GPT-5、Gemini、Claude、Grok、Ollama、DeepSeek、PerplexityなどのデスクトップAIアシスタント - チャット、エージェント、ツール、MCP、プラグイン、RAG、ビジョン、音声、画像およびビデオ生成、スピーチ... <sub>⭐ 2.0k · Python</sub>
+- [isair/jarvis](https://github.com/isair/jarvis) - コンピュータ(オフラインで動作する)に住んでいる100%プライベートなAI音声アシスタント。Jarvisが部屋の3人目であるかどうかを自然に話し、会話応答を取得します。それはすべてを覚えています... <sub>⭐ 1.9k · Python</sub>
+- [justLV/onju-voice](https://github.com/justLV/onju-voice) - ハッキング可能なAIホームアシスタントプラットフォーム <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - エイリアスは、ユーザが自分のスマートアシスタントをもっと制御できるように設計された「寄生虫」です。カスタマイズとプライバシーに関しては両方ともなります。シンプルなアプリを通して、ユーザーはエイビアスを訓練することができます... <sub>⭐ 1.7k · Python</sub>
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - パーソナルAI Sovereignty。 統合されたツール、個人知識グラフ、音声、ビジョン、シェル、ブラウザの自動化、スケジュールされたタスク、健康追跡とローカルファーストAIアシスタント... <sub>⭐ 1.5k · Python</sub>
+- [acon96/home-llm](https://github.com/acon96/home-llm) - ホームアシスタントの統合とローカルLMを使用してスマートホームを制御するモデル <sub>⭐ 1.4k · Python</sub>
+- [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - 任意のAndroidデバイスを美しく、専用のホームアシスタントキオスクに変えます。地面からホームアシスタントのために構築された目的です。 <sub>⭐ 1.4k · Dart</sub>
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - pythonライブラリを使用して構築されたパーソナルアシスタント。メール、光学テキスト認識、動的ニュースのレポートをAPI統合でいつでも送信するほとんど何でもありません。 Todoリスト... <sub>⭐ 1.4k · Python</sub>
+- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 局所音声アシスタントの簡単なおもちゃデモをウィスパーと大きな言語モデルで行います。 <sub>⭐ 1.3k · Python</sub>
+- [blakeblackshear/frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration) - ホームアシスタントのためのFrigateの統合 <sub>⭐ 1.3k · Python</sub>
+- [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - 音声+ビジョンは、あらゆるアプリケーションに関する質問に答えるAIアシスタントを、コンテキストとオーディオで提供します。 <sub>⭐ 1.2k · JavaScript</sub>
+- [GENEXIS-AI/chromex](https://github.com/GENEXIS-AI/chromex) - ページのコンテキスト、タブ、音声、および画像ワークフロー用のCodex搭載のChromeサイドパネルアシスタント。 <sub>⭐ 1.2k · TypeScript</sub>
+- [PromtEngineer/Verbi](https://github.com/PromtEngineer/Verbi) - 最新式のトランスクリプション、レスポンス生成、およびテキスト・ツー・スピーナモデルを実験するためのモジュラーボイスアシスタントアプリケーション。OpenAI、Grooq、Elevanlabs、CartesiaAIをサポートし... <sub>⭐ 1.1k · Python</sub>
+- [LearnedVector/A-Hackers-AI-Voice-Assistant](https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant) - PythonとPyTorchを使って構築されたハッカーAIボイスアシスタント。 <sub>⭐ 1.1k · Python</sub>
+- [espressif/esp-skainet](https://github.com/espressif/esp-skainet) - Espressifインテリジェントボイスアシスタント <sub>⭐ 979 · C</sub>
+- [redheadesign/music-island](https://github.com/redheadesign/music-island) - ミュージックコントロール、ローカルディクテーション、音声処理およびアシスタントはWindowsデスクトップの最上端で制限します。 <sub>⭐ 969 · Rust</sub>
+- [kishanrajput23/Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant) - システムレベルのコマンドを実行し、音声認識とテキストツースピーチを統合したり、非同期ユーザーインタラクションを処理できる Python ベースのデスクトップボイスアシスタント。 <sub>⭐ 968 · Python</sub>
+- [MycroftAI/mycroft-precise](https://github.com/MycroftAI/mycroft-precise) - 軽量で使いやすいRNNウェイクワードリスナー <sub>⭐ 965 · Python</sub>
+- [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - 特定のマイクロコントローラに適した合成サンプル生成を使用してTensorFlowベースのウェイクワード検出トレーニングフレームワーク。 <sub>⭐ 940 · Python</sub>
+- [jxlarrea/voice-satellite-card-integration](https://github.com/jxlarrea/voice-satellite-card-integration) - 音声衛星は、ホームアシスタントのためのハンズフリーのボイスアシスタントにタブレット、携帯電話、またはブラウザをオンにします <sub>⭐ 869 · JavaScript</sub>
+- [hehehai/voxt](https://github.com/hehehai/voxt) - 音声をきれいなテキスト、有用なアクション、構造化された知識に変えるインテリジェントなボイス生産性アシスタント。 それはユーザーがアイデアをキャプチャし、自然に伝え、反復性を自動化するのに役立ちます... <sub>⭐ 853 · Swift</sub>
+- [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - esphome/ホームアシスタントでxiaozhi aiデバイスを使用する代替コード。 <sub>⭐ 821 · Rich Text Format</sub>
+- [ethanplusai/jarvis](https://github.com/ethanplusai/jarvis) - JARVIS — クロードコードの音声アシスタント。 Macに話して、彼はあなたとプロジェクトをブレインストームし、それを構築し、クロードコードセッションがあなたを必要とするときに大声であなたを伝えます。 macOS、あなたのクラウデ... <sub>⭐ 820 · Python</sub>
+- [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi 音声アシスタント <sub>⭐ 809 · Python</sub>
+- [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanieは、音声制御アプリケーション用に特別に構築されたオープンソースプラットフォームであり、仮想アシスタントの仕事の大部分を模倣する日常的なタスクを自動化します。 <sub>⭐ 797 · Python</sub>
+- [ITSpecialist111/ai_automation_suggester](https://github.com/ITSpecialist111/ai_automation_suggester) - このカスタムホームアシスタントの統合は、組織を自動的にスキャンし、新しいデバイスを検出し、AI(クラウドとローカルAPI)を使用して、カスタマイズされた自動化を提案します。 複数のAIをサポートしています... <sub>⭐ 793 · Python</sub>
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui nano — 実際の会話で訓練された小さな文脈から読み込まれたテキスト・ツー・スピーナモデル。219Mアクティブパラメータ(305M合計)、Apache 2.0、音声クローニング、ストリーミング、CPU上で実行します(依存フリーCビルド)。... <sub>⭐ 767 · Python</sub>
+- [esphome/home-assistant-voice-pe](https://github.com/esphome/home-assistant-voice-pe) - ホーム アシスタントボイスPE <sub>⭐ 766 · C++</sub>
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) - あなたのアシスタントのホーム — メモリ、キー、コード、および自動化により、AIエージェントはあらゆるMCPホスト間でポータブルを維持します。 Cloudflareワーカーで構築されています。 <sub>⭐ 724 · TypeScript</sub>
+- [alan-ai/voice-assistant-scripts](https://github.com/alan-ai/voice-assistant-scripts) - アランAIプラットフォームで作成したAIエージェントのスクリプト例 <sub>⭐ 677 · JavaScript</sub>
+- [Gladiator07/JARVIS](https://github.com/Gladiator07/JARVIS) - Pythonで作られたパーソナルボイスアシスタントと、クールな見栄えのGUI <sub>⭐ 668 · Python</sub>
+- [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant) - Jarvis AIアシスタント - Mac用の音声パワーのAIアシスタント <sub>⭐ 642 · TypeScript</sub>
+- [OHF-Voice/linux-voice-assistant](https://github.com/OHF-Voice/linux-voice-assistant) - ESPHomeプロトコルを使用したホームアシスタント用の音声衛星 <sub>⭐ 640 · Python</sub>
+- [iMike78/nest-mini-drop-in-pcb](https://github.com/iMike78/nest-mini-drop-in-pcb) - XMOSの統合でGoogleネストミニv2用のドロップインPCB交換。 OnjuボイスとホームアシスタントボイスPEハードウェアに触発されました。 <sub>⭐ 601</sub>
+- [dsa/fast-voice-assistant](https://github.com/dsa/fast-voice-assistant) - <500ms 応答時間と非常に高速な AI 音声アシスタント <sub>⭐ 595 · Python</sub>
+- [ai-ng/swift](https://github.com/ai-ng/swift) - Groq、Cartesia、Vercel の高速音声アシスタント。 <sub>⭐ 590 · TypeScript</sub>
+- [knoop7/Ava-Pro](https://github.com/knoop7/Ava-Pro) - Avaは、任意のAndroid 5 +デバイスをボイスファーストホームアシスタントキオスクに変えます。 フードの下にあるネイティブC++、だから10歳のタブレットはまだ耳を傾けて話し、家を実行します - AirPlayグレードのオーディオで... <sub>⭐ 551 · Kotlin</sub>
+- [dinki/View-Assist](https://github.com/dinki/View-Assist) - アシスタント・アシスト・ボイスアシスタントのビジュアルフィードバックをご覧いただけます。 <sub>⭐ 533 · Python</sub>
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - あなた自身の個人的な声のアシスタント:LLMにテキストを鳴らすために、Webインターフェイスで表示します <sub>⭐ 529 · Python</sub>
+- [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac対応オラマボイス <sub>⭐ 519 · Python</sub>
+- [syssi/xiaomi_airpurifier](https://github.com/syssi/xiaomi_airpurifier) - Xiaomi Mi空気清浄器とXiaomi Mi Air Humidifier統合ホームアシスタント <sub>⭐ 500 · Python</sub>
+- [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - 任意のエンティティクト状態からリアルタイムでフレームやループ速度の更新を現実に表示する、ホーム・アシスタントの画像要素再生WebM(またはPNG)アニメーションを可能にするカスタム・ラブレースカード。 AIワークフローを含む... <sub>⭐ 494 · JavaScript</sub>
+- [nbogojevic/homeassistant-midea-air-appliances-lan](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan) - このホームアシスタントのカスタムコンポーネントは、ローカルネットワーク上でMideaエアコンと除湿器を制御するためのサポートを追加します。 <sub>⭐ 486 · Python</sub>
+- [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie:100%ローカルエージェントAIを搭載したプログラム可能なインテリジェンス。 <sub>⭐ 458 · JavaScript</sub>
+- [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - OpenAIチャットGPTに基づくパーソナルボイスアシスタント。 <sub>⭐ 446 · Kotlin</sub>
+- [CoreWorxLab/CAAL](https://github.com/CoreWorxLab/CAAL) - MCPによるツールとして露出した自動検出n8nワークフローで新たな能力を身につけるローカルボイスアシスタント <sub>⭐ 442 · TypeScript</sub>
+- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion) - エンドツーエンドの人文執筆アシスタント — エージェントスキル(オープンSKILL.md形式)。 AIによる研究課題を分析する11モード。 バイリンガル(EN/中文)、懲戒処分 <sub>⭐ 427 · Python</sub>
+- [syssi/xiaomi_airconditioningcompanion](https://github.com/syssi/xiaomi_airconditioningcompanion) - Xiaomi MiとAqara Air Conditioning Companionインテグレーション(ホームアシスタント) <sub>⭐ 410 · Python</sub>
+- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw デスクトップアシスタント MVP - Live2D キャラクターアニメーション、リアルタイム音声認識、テキストツースピーチによる電子ベースの AI ボイスアシスタント <sub>⭐ 409 · JavaScript</sub>
+- [hassio-addons/app-aircast](https://github.com/hassio-addons/app-aircast) - AirCast - ホームアシスタントコミュニティアプリ <sub>⭐ 404 · Jinja</sub>
+- [MatthewCYM/VoiceBench](https://github.com/MatthewCYM/VoiceBench) - (TACL'26) VoiceBench:LLMベースのボイスアシスタントのベンチマーク <sub>⭐ 400 · Python</sub>
+- [OHF-Voice/wyoming](https://github.com/OHF-Voice/wyoming) - 音声アシスタント用のピアツーピアプロトコル <sub>⭐ 398 · Python</sub>
+- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - GPT-4、Claude、Gemini、Mistral、およびOpenAI Assistant APIを軽量Node.js Webアプリ経由でチャットするための機能が豊富に含まれています。音声、画像、ファイルなどのカスタマイズ可能な多様性をサポートしています。 <sub>⭐ 397 · JavaScript</sub>
+- [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - ほとんどのカメラとほぼすべてのスピーカーをローカルボイスアシスタントに変えることを可能にするホームアシスタントカスタムコンポーネント <sub>⭐ 388 · Python</sub>
+- [BolisettySujith/J.A.R.V.I.S](https://github.com/BolisettySujith/J.A.R.V.I.S) - コンピュータとやり取りし、PCの操作を制御するために使用できる音声アシスタント <sub>⭐ 382 · Python</sub>
+- [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - OpenAIのWhisperのほぼライブ実装、サウンドデバイスを使用して。既存のWhisperインストールが必要です。 <sub>⭐ 361 · Python</sub>
+- [AnubhavChaturvedi-GitHub/jarvis-ai-assistant](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) - Pythonで音声制御AIデスクトップアシスタント。音声認識、テキストからスピーチまで、リアルタイムのWeb検索、画像生成、コンピュータビジョン、WhatsApp自動化など、アイアンマンのJARVISに触発しました。 <sub>⭐ 351 · Python</sub>
+- [patrickjquinn/P-Brain.ai](https://github.com/patrickjquinn/P-Brain.ai) - Node.js+Bootstrapを使用した自然言語仮想アシスタント <sub>⭐ 350 · JavaScript</sub>
+- [nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant) - ポータルビデオゲームシリーズのGLaDOSキャラクターをベースにしたDIYボイスアシスタント。ホームアシスタントと連携! <sub>⭐ 347 · C</sub>
+- [hackingthemarkets/chatgpt-api-whisper-api-voice-assistant](https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant) - chatgpt apiとウィスパーAPIチュートリアル - セラピストの音声会話 <sub>⭐ 346 · Python</sub>
+- [nickbild/local_llm_assistant](https://github.com/nickbild/local_llm_assistant) - 世界最速のGPT様ボイスアシスタント <sub>⭐ 345 · Python</sub>
+- [voska/hass-mcp](https://github.com/voska/hass-mcp) - Claudeや他のLMからホームアシスタントを制御およびクエリー — モデルコンテキストプロトコル(MCP)サーバー。 <sub>⭐ 344 · Python</sub>
+- [ygelfand/echolocal](https://github.com/ygelfand/echolocal) - Echo Dot(2nd gen)を完全にローカルホームアシスタントボイス衛星、マルチルームメディアプレーヤー、luxセンサー、Bluetoothプロキシなどに変換します。 Amazon、クラウドはありません。 <sub>⭐ 344 · Go</sub>
+- [nickbild/voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT は、強力な ChatGPT チャットボットを活用して質問に答える音声アシスタントです。 <sub>⭐ 339 · Python</sub>
+- [llm-guy/jarvis](https://github.com/llm-guy/jarvis) - Jarvisは、ローカルLM(オラマ経由Qwen)を搭載した音声アクティブ化された会話型のAIアシスタントです。 ウェイクワードを聴いたり、LangChainで現地の言語モデルを使用した話し合いコマンドを処理することができます。 <sub>⭐ 335 · Python</sub>
+- [music-assistant/voice-support](https://github.com/music-assistant/voice-support) - 音楽アシスタントブループリント <sub>⭐ 329</sub>
+- [cnk700i/havcs](https://github.com/cnk700i/havcs) - ホームアシスタントボイスコントロールスキル <sub>⭐ 322 · Python</sub>
+- [pmbstyle/Alice](https://github.com/pmbstyle/Alice) - アリスはVue.js、Vite、Electronで構築された音声ファーストデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションのローカル使用など。 <sub>⭐ 322 · TypeScript</sub>
+- [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) - Android用のOpenClawボイスアシスタントアプリ - ウェイクワードアクティベーションとシステムアシスタントの統合 <sub>⭐ 321 · Kotlin</sub>
+- [vavrek/Open-Assistant-Version-Zero](https://github.com/vavrek/Open-Assistant-Version-Zero) - オープンソースの音声アシスタント <sub>⭐ 320 · Python</sub>
+- [espressif/esp-va-sdk](https://github.com/espressif/esp-va-sdk) - Espressifの音声アシスタントSDK:Alexa、Googleボイスアシスタント、Google DialogFlow <sub>⭐ 317 · C</sub>
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - ホームアシスタントのためのAIエージェント — 自宅に話したり、明白な言語で自動化を作成したり、カメラを顔認識で分析したり、積極的な異常アラートを入手したりできます。 Ollamaを介してクラウドLMまたは完全にローカル。 <sub>⭐ 312 · Python</sub>
+- [NaomiProject/Naomi](https://github.com/NaomiProject/Naomi) - Naomi Projectはオープンソースで、常に音声制御アプリケーションを開発するための技術認識プラットフォームです。 <sub>⭐ 303 · Python</sub>
+- [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - ビジュアルスタジオコードの音声アシスタント。 <sub>⭐ 296 · TypeScript</sub>
+- [zycv/awesome-keyword-spotting](https://github.com/zycv/awesome-keyword-spotting) - このリポジトリは、素晴らしいスピーチキーワードのスポッティング(Wake-Up Word Detection)のキュレーションリストです。 <sub>⭐ 294</sub>
+- [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) - SFMLは、ローカルの保持トランスによって供給されたホームアシスタントの最初の完全にローカルAIソーラー予測です。 ChatGPT、Gemini、または Grokなどの外部AIなし - 必要な。 あなたの上で完全に実行... <sub>⭐ 292 · Python</sub>
+- [ddxfish/sapphire](https://github.com/ddxfish/sapphire) - 来場するAIエージェントです。 <sub>⭐ 289 · Python</sub>
+- [OpenVoiceOS/ovos-buildroot](https://github.com/OpenVoiceOS/ovos-buildroot) - ボイスオペレーティングシステムを開く - Buildrootエディションは、OVOSの音声アシスタントを埋め込むためのミニマルなLinux OSです。 低スペックのヘッドレスおよび/または小さな(タッチ)画面デバイス。 <sub>⭐ 283 · Python</sub>
+- [just-ai/aimybox-android-assistant](https://github.com/just-ai/aimybox-android-assistant) - Androidアプリケーション用の埋め込み式カスタムボイスアシスタント <sub>⭐ 280 · Kotlin</sub>
+- [livekit/livekit-wakeword](https://github.com/livekit/livekit-wakeword) - 音声対応アプリケーションを作成するオープンソースのウェイクワードライブラリ。 <sub>⭐ 280 · Python</sub>
+- [Pyrra00/Pyrra-v1.0](https://github.com/Pyrra00/Pyrra-v1.0) - Pythonでの音声制御ハッキングアシスタント <sub>⭐ 273 · Python</sub>
+- [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova) - n8nとMCPサーバーを介して25以上の専門エージェントを接続するマルチエージェントAIアーキテクチャ。 プロジェクトNOVAは、ドメイン固有の専門家に要求をルーティングし、アプリケーションからアプリケーションの制御を可能にします... <sub>⭐ 271 · Shell</sub>
+- [Ai-Austin/Bing-GPT-Voice-Assistant](https://github.com/Ai-Austin/Bing-GPT-Voice-Assistant) - これは、2つの異なるウェイクワードを取るPythonの音声アシスタントです。 EdgeGPTを使用してBing AIをプロンプトングするための1つは、GPT-3.5-Turbo APIを促します <sub>⭐ 269 · Python</sub>
+- [SreejanPersonal/JARVIS-AGI](https://github.com/SreejanPersonal/JARVIS-AGI) - JARVIS AGI // 人工知能の音声アシスタントとリアルヒューマン能力 <sub>⭐ 267 · Python</sub>
+- [AbhishekBarali/SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - Windows、macOSおよびLinux用のフリーでオープンソースのオフラインボイスディクテーション。 リクエストに応じて画面を読んで質問に答えることができるAIアシスタントとWispr Flowの代替品。 <sub>⭐ 258 · Rust</sub>
+- [allenporter/home-assistant-datasets](https://github.com/allenporter/home-assistant-datasets) - このパッケージは、ホームアシスタントのコンテキストでAIモデルを評価するためのデータセットです。 <sub>⭐ 254 · Jupyter Notebook</sub>
+- [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - ボイスコントロールされたMacアシスタント <sub>⭐ 254 · Python</sub>
+- [YYuX-1145/Srt-AI-Voice-Assistant](https://github.com/YYuX-1145/Srt-AI-Voice-Assistant) - 複数の TTS エンジンと重複する字幕 <sub>⭐ 254 · Python</sub>
+- [bhattbhavesh91/voice-assistant-whisper-chatgpt](https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt) - このリポジトリは、Open AIのChatGPT, Whisperを使用してGoogle Assistantのような独自のスマート仮想アシスタントを作成するためにあなたを導きます。 ソリューション全体がPythonとGradioを使って作成されます。 <sub>⭐ 253 · Jupyter Notebook</sub>
+- [RoyalCities/RC-Home-Assistant-Low-VRAM](https://github.com/RoyalCities/RC-Home-Assistant-Low-VRAM) - ホームアシスタント(GPU-アクセラレーテッド)のローカルAI音声アシスタントスタックと、持続的なメモリ、フォローアップ会話、オラマモデルの推奨事項 - 低VRAMシステム用に設計された設定。 <sub>⭐ 252</sub>
+- [just-ai/jaicf-kotlin](https://github.com/just-ai/jaicf-kotlin) - 会話音声アシスタントとチャットボット開発のためのKotlinフレームワーク <sub>⭐ 248 · Kotlin</sub>
+- [idosal/assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - ChatGPTを手ぶらでサポートするChromeブラウザ拡張 <sub>⭐ 239 · JavaScript</sub>
+- [small-cactus/M.I.L.E.S](https://github.com/small-cactus/M.I.L.E.S) - M.I.L.E.S, GPT-4-Turboボイスアシスタント, 自己適応そのプロンプトとAIモデル, 任意のSpotifyの曲を再生することができます, システムを調整し、ボリュームを Spotify, 計算を実行します, Webおよびインターネットをブラウズ... <sub>⭐ 236 · Python</sub>
+- [serkandyck/realtime-voice-assistant-groq](https://github.com/serkandyck/realtime-voice-assistant-groq) - Groq-Poweredリアルタイム音声アシスタント <sub>⭐ 229 · TypeScript</sub>
+- [esphome/wake-word-voice-assistants](https://github.com/esphome/wake-word-voice-assistants) - ESPHomeのWakeワードボイスアシスタント構成とファームウェア <sub>⭐ 225</sub>
+- [sksalahuddin2828/AI_Personal_Digital_Assistant](https://github.com/sksalahuddin2828/AI_Personal_Digital_Assistant) - AI 個人向け音声アシスタントプロジェクト(男性 - 女性版) <sub>⭐ 220 · Python</sub>
+- [sfortis/openai_tts](https://github.com/sfortis/openai_tts) - OpenAI、Mistral、Grq、Lemonfox、Kokoro、Chatterbox、またはOpenAIの音声APIを実装する任意のサーバーからのホームアシスタントのためのテキストツースピーチ、あなたのボリュームと音楽を復元する発表。 <sub>⭐ 219 · Python</sub>
+- [Verlintas/BetterAIChat](https://github.com/Verlintas/BetterAIChat) - ネイティブAndroid AIエージェント:独自のAPIキー(OpenAI/Anthropic/Gemini)、オープンコードスタイルのモード、デバイスツール、Shizukuシェル、画面分析、Web検索、カスタムスキル、ボイスアシスタント <sub>⭐ 219 · Kotlin</sub>
+- [castorini/howl](https://github.com/castorini/howl) - Firefoxの音声用のツールキットをモデル化し、Speech CommandやCommon Voiceなどのオープンなデータセットをサポートしています。 <sub>⭐ 215 · Python</sub>
+- [ykdojo/super-voice-assistant](https://github.com/ykdojo/super-voice-assistant) - macOSボイスアシスタント(グローバルホットキー) -オフラインモデル(WhisperKitまたはParakeet)またはクラウドベースのGemini APIを使用してテキストに音声をトランジストし、画面の録画を視覚的にキャプチャしてトランクアウトします。 <sub>⭐ 215 · Swift</sub>
+- [samosa-ai-com/Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend) - Chanakyaは、プライバシー、パワー、柔軟性のために設計された先進的でオープンソースでセルフホスト可能なボイスアシスタントです。 ローカルのAI / MLモデルを活用してデータがあなたと一緒に滞在できるようにします。 それは統合... <sub>⭐ 214 · Python</sub>
+- [IRISX-AI/IRIS-AI](https://github.com/IRISX-AI/IRIS-AI) - デスクトップAIアシスタントは、実際の生産性のために構築されています。音声、自動化、メモリ、ビジョン、Web検索、ワークフローツールを1つの経験で作成します。 <sub>⭐ 211 · TypeScript</sub>
+- [rhasspy/wyoming-openwakeword](https://github.com/rhasspy/wyoming-openwakeword) - openWakeWordのウェイクワード検出システム用のプロトコルサーバーをWyoming <sub>⭐ 205 · Python</sub>
+- [ronschaeffer/video_doorbell_voice_response](https://github.com/ronschaeffer/video_doorbell_voice_response) - ホームアシスタントのためのビデオ&オーディオドアベル: ESP32カム、DFPlayerミニ、ESPホーム <sub>⭐ 203</sub>
+- [stanford-oval/genie-toolkit](https://github.com/stanford-oval/genie-toolkit) - Genie のオープンソースキット(以前はアーモンドと呼ばれています) <sub>⭐ 202 · TypeScript</sub>
+- [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Echo Show 5, 1st と 2nd gen 用のファームウェアを開きます。: Alpine Linux 代わりに Android, no Alexa. ローカルホームアシスタントボイス衛星独自のタッチスクリーン、オンデバイスウェイクワード、SSH および A/B... <sub>⭐ 199 · Go</sub>
+- [esphome/aioesphomeapi](https://github.com/esphome/aioesphomeapi) - ESPHome ネイティブ API 用の Python クライアント。ホームアシスタントで使用されます。 <sub>⭐ 198 · Python</sub>
+- [Ai-Austin/GPT4ALL-Voice-Assistant](https://github.com/Ai-Austin/GPT4ALL-Voice-Assistant) - これは100%オフラインのGPT4ALLボイスアシスタントです。 完全にオープンソースとプライバシーフレンドリーです。 GPT4ALL上の任意の言語モデルを使用してください。 背景プロセス音声検出。 フルYouTubeチュートリアルを参照してください... <sub>⭐ 193 · Python</sub>
+- [omegaui/linux-voice-control](https://github.com/omegaui/linux-voice-control) - あなたの個人的、完全にカスタマイズ可能な、Linuxボイスコントロールアシスタント。 <sub>⭐ 192 · Python</sub>
+- [calesthio/generative-media-skills](https://github.com/calesthio/generative-media-skills) - AI コーディングアシスタントを横断する、プレミアム・イメージ、ビデオ、音声、ボイス、およびジェネレーション・メディア制作のためのリサーチバックされたエージェントのスキルとツール。 <sub>⭐ 185 · Python</sub>
+- [FutureProofHomes/Satellite1-ESPHome](https://github.com/FutureProofHomes/Satellite1-ESPHome) - オープンソースの ESPホーム ファームウェア(プライベート AI-パワード衛星1 音声アシスタント & マルチセンサー) <sub>⭐ 184 · C++</sub>
+- [eadmin2/jarvis_ai](https://github.com/eadmin2/jarvis_ai) - エルメスエージェントの鉄人スタイルの音声アシスタント+レーザー光線写真ハブ。ローカルウィスパーSTT、EevenLabsボイス、エージェントが撮影したメディアパネルは、あなた自身のハードウェアで動作します。 <sub>⭐ 179 · Python</sub>
+- [mr-tbot/mesh-api](https://github.com/mr-tbot/mesh-api) - MESH-API — オフグリッド AI & API ルータと MCP サーバーで、Meshtastic & MeshCore 用の 30 以上の API 拡張機能 - シームレスにLM Studio、Ollama、AI Providers、3rd パーティ API、エージェントおよびホームアシスタントを接続します。 <sub>⭐ 179 · Python</sub>
+- [RasaHQ/rasa-voice-interface](https://github.com/RasaHQ/rasa-voice-interface) - Rasaで音声アシスタントを組み立てるためのシンプルなWebインターフェイス <sub>⭐ 179 · Vue</sub>
+- [brownard/Ava](https://github.com/brownard/Ava) - ESPHomeプロトコルを使用したホームアシスタント用のAndroidボイスアシスタント <sub>⭐ 178 · Kotlin</sub>
+- [acatovic/ova](https://github.com/acatovic/ova) - 外部ボイスアシスタント - ローカルエンドツーエンドのASR + LLM + TTSパイプラインをオープンウェイトモデルとシンプルなWebベースのUIを使用して <sub>⭐ 173 · Python</sub>
+- [JLW-7/Wally](https://github.com/JLW-7/Wally) - ESP32で構築されたキュートなボイスアシスタントは、リマインダーや生産性、毎日の会話をユーザーにサポートします。 <sub>⭐ 170 · C++</sub>
+- [aldadic/home-assistant-on-echo-show](https://github.com/aldadic/home-assistant-on-echo-show) - このアレクサスキルは、組み込みのシルクブラウザでエコーショーにLovelaceダッシュボードを開くためにボイスコマンドを追加します。 <sub>⭐ 169 · Python</sub>
+- [MichalZaniewicz/esphome-guition-jc3636k718c-va](https://github.com/MichalZaniewicz/esphome-guition-jc3636k718c-va) - 純粋なESPHomeのグニッションJC3636K718Cラウンドノブディスプレイ上のフルホームアシスタントボイスアシスタント:オンデバイスウェイクワード、音楽プレーヤー、タイマー、アドレス指定可能なLEDリング、デバイスの制御と2内蔵... <sub>⭐ 165 · Python</sub>
+- [projectswithdigambar/jarvis](https://github.com/projectswithdigambar/jarvis) - Jarvisは、Python、Eel、HTML/CSS、およびJavaScriptで構築されたスマートなデスクトップアシスタントです。これにより、音声とテキストコマンドを使用してコンピュータやモバイルデバイスを制御できます。 どちらの場合でも... <sub>⭐ 165 · HTML</sub>
+- [FutureProofHomes/wyoming-enhancements](https://github.com/FutureProofHomes/wyoming-enhancements) - ホームアシスタントのWyomingボイスサテライトでMagicalチャットGPTの機能を統合します。 <sub>⭐ 164 · Shell</sub>
+- [lee-b/kobold_assistant](https://github.com/lee-b/kobold_assistant) - ChatGPTの音声会話をAIと似ていますが、完全にオフライン/プライベート/トレードシークレットフレンドリーで、LLama2やウィスパーなどのローカルAIモデルを使用 <sub>⭐ 164 · Python</sub>
+- [Picovoice/wake-word-benchmark](https://github.com/Picovoice/wake-word-benchmark) - ウェイクワードエンジンベンチマークフレームワーク <sub>⭐ 163 · Python</sub>
+- [TaterTotterson/microWakeWord-Trainer-Nvidia-Docker](https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker) - ターテルボイスで使うためのmicroWakeWordをトレイン <sub>⭐ 163 · Python</sub>
+- [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - 自然言語のクエリに基づいて自動化を生成することができるAIを搭載したエージェントを提供するホームアシスタントカスタムコンポーネント。エージェントは、あなたの家のアシスタントのすべてのエンティティティティに接続します... <sub>⭐ 161 · Python</sub>
+- [danielkaldheim/ha_airstage](https://github.com/danielkaldheim/ha_airstage) - 富士通のエアコンをホームアシスタントに接続します。 <sub>⭐ 157 · Python</sub>
+- [liampetti/fulloch](https://github.com/liampetti/fulloch) - フルオッチ - ローカルホームボイスアシスタント <sub>⭐ 157 · Python</sub>
+- [formatBCE/Koala-Satellite](https://github.com/formatBCE/Koala-Satellite) - ホームアシスタント用のこの衛星は、ESP32-S3 DevkitCに基づいており、XMOS XU316でRespeaker Liteボード、LEDストリップとダイヤル。 それはほとんどのボイスPEデバイス機能を使用しており、BLE Improvをサポートし、... <sub>⭐ 156</sub>
+- [Cyborgscode/Personal-Voice-Assistent](https://github.com/Cyborgscode/Personal-Voice-Assistent) - Linux用のフル機能とローカライズされた音声アシスタントの構築 <sub>⭐ 155 · Java</sub>
+- [FutureProofHomes/Satellite1-Hardware](https://github.com/FutureProofHomes/Satellite1-Hardware) - 在宅アシスタント向けプライベート・オープンソースのAIパワードボイスアシスタント&マルチセンサー <sub>⭐ 152</sub>
+- [JarikDem-Bot/ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) - AI VTuber ワイフと音声アシスタント <sub>⭐ 152 · Python</sub>
 
 ## 🛠️ 電子工作、3Dプリント、ファームウェア
 
 > AIによる回路設計、CAD、3Dプリント、ファームウェア。
 
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse , validation, version control and collaboration in hardware; starting with electronics <sub>⭐ 4.0k · Python</sub>
-- [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design. <sub>⭐ 2.5k · Python</sub>
-- [stephansturges/WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones! <sub>⭐ 1.7k · Python</sub>
-- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source… <sub>⭐ 1.3k · Python</sub>
-- [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) - MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute <sub>⭐ 1.0k · Python</sub>
-- [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) - AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of… <sub>⭐ 859 · Rust</sub>
-- [sieuwe1/Autonomous-Ai-drone-scripts](https://github.com/sieuwe1/Autonomous-Ai-drone-scripts) - State of the art autonomous navigation scripts using Ai, Computer Vision, Lidar and GPS to control an arducopter based quad copter. <sub>⭐ 628 · Python</sub>
-- [Shpigford/nurb](https://github.com/Shpigford/nurb) - Agentic CAD for 3D printing <sub>⭐ 576 · Python</sub>
-- [ghbalf/freecad-ai](https://github.com/ghbalf/freecad-ai) - AI-powered assistant workbench for FreeCAD — generate 3D models from natural language <sub>⭐ 536 · Python</sub>
-- [partcad/partcad](https://github.com/partcad/partcad) - Package manager for things. Start designing modular hardware! PartCAD is the standard for documenting manufacturable physical products (a.k.a. Digital Thread or TDP). It comes with a set of tools to… <sub>⭐ 500 · Python</sub>
-- [FreedomIntelligence/BlenderLLM](https://github.com/FreedomIntelligence/BlenderLLM) - BlenderLLM: A LLM specifically designed to generate CAD scripts based on user instructions. These scripts are then executed in Blender to render 3D models. <sub>⭐ 305 · Python</sub>
-- [Buddie-AI/Buddie](https://github.com/Buddie-AI/Buddie) - BUDDIE is the first full-stack open-source AI voice interaction solution, providing a complete end-to-end system from hardware design to software applications. Here, you can find a comprehensive… <sub>⭐ 300 · C</sub>
-- [sunghoonhong/AirsimDRL](https://github.com/sunghoonhong/AirsimDRL) - Autonomous UAV Navigation without Collision using Visual Information in Airsim <sub>⭐ 300 · Python</sub>
-- [filaPro/cad-recode](https://github.com/filaPro/cad-recode) - (ICCV2025) CAD-Recode: Reverse Engineering CAD Code from Point Clouds <sub>⭐ 268 · Jupyter Notebook</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [NeuralInverse/neuralinverse](https://github.com/NeuralInverse/neuralinverse) - Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development <sub>⭐ 243 · TypeScript</sub>
-- [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI <sub>⭐ 238 · TypeScript</sub>
-- [salitronic/eda-agent](https://github.com/salitronic/eda-agent) - Open-source MCP server that lets an AI drive a live session of Altium Designer, and optionally KiCad or EasyEDA Pro, editing the open design in place while you watch. 300+ tools: schematic, PCB… <sub>⭐ 237 · Python</sub>
-- [ntakouris/awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) - Resources to fully understand how autonomous drones work. This is manually curated, pre-chatgpt. <sub>⭐ 235</sub>
-- [heyixuan2/bambu-studio-ai](https://github.com/heyixuan2/bambu-studio-ai) - Bambu Lab AI (Bambu Studio AI): agent skill for 3D printing on Bambu Lab. Finds models on MakerWorld & Printables, generates or designs them in CAD, checks printability, hands them to Bambu Studio… <sub>⭐ 215 · Python</sub>
-- [makermate/clarvis-ai](https://github.com/makermate/clarvis-ai) - Clarvis - 3D Printing Made Easy <sub>⭐ 205 · Shell</sub>
-- [alplabai/signex](https://github.com/alplabai/signex) - Open-source, AI-first EDA tool — GPL licenced or Industry Lead EDA tools compatible schematic and PCB editor built in Rust Language <sub>⭐ 200 · Rust</sub>
-- [zhaozh10/ChatCAD](https://github.com/zhaozh10/ChatCAD) - (COMMSENG'24, TMI'24) Interactive Computer-Aided Diagnosis using LLMs <sub>⭐ 198 · Python</sub>
-- [col14m/cadrille](https://github.com/col14m/cadrille) - cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning <sub>⭐ 187 · Python</sub>
-- [OpenOrion/CQAsk](https://github.com/OpenOrion/CQAsk) - the open source llm cad generation tool <sub>⭐ 186 · Python</sub>
-- [emNavi/AirGym](https://github.com/emNavi/AirGym) - A high-performance drone deep reinforcement learning platform built upon IsaacGym. <sub>⭐ 177 · Python</sub>
-- [andreluizbvs/InsPLAD](https://github.com/andreluizbvs/InsPLAD) - Inspection of Power Line Assets Dataset (InsPLAD) <sub>⭐ 173</sub>
-- [biosshot/easyeda-copilot](https://github.com/biosshot/easyeda-copilot) - AI-powered assistant for EasyEDA — generate schematics from natural language, browse LCSC components, design PCBs with custom DRC configurations, and get interactive circuit design help. <sub>⭐ 159 · TypeScript</sub>
-- [ai03-2725/ai03-keyboard-pcb-guide](https://github.com/ai03-2725/ai03-keyboard-pcb-guide) - A PCB designed as per the ai03 PCB design guide <sub>⭐ 155</sub>
+- [atopile/atopile](https://github.com/atopile/atopile) - コードで回路基板の設計!ソフトウェアのような設計再使用、検証、バージョン管理およびハードウェアのコラボレーションを入手してください。 <sub>⭐ 4.0k · Python</sub>
+- [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server) - KiCAD MCP は、Claude のような大きな言語モデル (LLM) が直接プリント回路基板の設計のために KiCAD と相互作用できるようにするモデルコンテキストプロトコル(MCP)の実装です。 <sub>⭐ 2.5k · Python</sub>
+- [stephansturges/WALDO](https://github.com/stephansturges/WALDO) - 無人機向けFOSS AIのSOTAについて! <sub>⭐ 1.7k · Python</sub>
+- [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) - KiCad エレクトロニクスの設計のための AI のコーディングの代理店の技術。 Claude コードおよび OpenAI Codex と働かせて下さい。回路図を分析し、PCB のレイアウト、EMC の事前承諾、SPICE のシミュレーションはデータ用紙をダウンロードしましたり、源... <sub>⭐ 1.3k · Python</sub>
+- [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) - MAC(マルチエージェントCAD): 制約試験時間計算によるテキスト・ツー・ CAD生成のためのデコープされた複数の試薬フレームワーク <sub>⭐ 1.0k · Python</sub>
+- [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) - KiCAD 10. ネイティブ KiCAD プラグインのための AI アシスト PCB デザイン — 217 のスキーマ、レイアウト、ルーティング、配置、設計レビュー、および製造ツールをクラウド、または LLM に公開する 1 つの Rust バイナリー。 <sub>⭐ 859 · Rust</sub>
+- [sieuwe1/Autonomous-Ai-drone-scripts](https://github.com/sieuwe1/Autonomous-Ai-drone-scripts) - Ai、コンピュータビジョン、LidarおよびGPSを使用して自動ナビゲーションスクリプトの州は、アルドクープターベースのクワッドコプターを制御するために。 <sub>⭐ 628 · Python</sub>
+- [Shpigford/nurb](https://github.com/Shpigford/nurb) - 3Dプリント用無機CAD <sub>⭐ 576 · Python</sub>
+- [ghbalf/freecad-ai](https://github.com/ghbalf/freecad-ai) - FreeCADのAI搭載アシスタントワークベンチ — 自然言語から3Dモデルを生成 <sub>⭐ 536 · Python</sub>
+- [partcad/partcad](https://github.com/partcad/partcad) - パッケージマネージャ。 モジュラーハードウェアの設計を開始します! PartCADは、製造可能な物理的な製品(a.k.a.デジタルスレッドまたはTDP)を文書化するための標準です。 それは一連のツールが付属しています... <sub>⭐ 500 · Python</sub>
+- [FreedomIntelligence/BlenderLLM](https://github.com/FreedomIntelligence/BlenderLLM) - BlenderLLM: ユーザー指示に基づいてCADスクリプトを生成するために特別に設計されたLLM。 これらのスクリプトは、Blenderで3Dモデルをレンダリングします。 <sub>⭐ 305 · Python</sub>
+- [Buddie-AI/Buddie](https://github.com/Buddie-AI/Buddie) - BUDDIEは、ハードウェア設計からソフトウェアアプリケーションまでの完全なエンドツーエンドシステムを提供する初のフルスタックオープンソースのAI音声相互作用ソリューションです。 ここでは、包括的な... <sub>⭐ 300 · C</sub>
+- [sunghoonhong/AirsimDRL](https://github.com/sunghoonhong/AirsimDRL) - Airsimのビジュアル情報を使用したコリシオンなしの自動UAVナビゲーション <sub>⭐ 300 · Python</sub>
+- [filaPro/cad-recode](https://github.com/filaPro/cad-recode) - (ICCV2025) CAD-Recode:ポイントクラウドからリバースエンジニアリングCADコード <sub>⭐ 268 · Jupyter Notebook</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MITディープラーニング入門(6.S191)インストラクター:アレクサンダー・アミニとAva Soleimanyコース情報概要前提条件スケジュール講義ラボ、最終プロジェクト、卒業、および賞ソフトウェア... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [NeuralInverse/neuralinverse](https://github.com/NeuralInverse/neuralinverse) - コードモダン。コードレガシー。コードファームウェア。 - エージェントコーディング、パワーモード、レガシーモダナイゼーション、およびファームウェア開発でオープンソースのAIネイティブIDE <sub>⭐ 243 · TypeScript</sub>
+- [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - AIで2Dと3Dデザインを制作 <sub>⭐ 238 · TypeScript</sub>
+- [salitronic/eda-agent](https://github.com/salitronic/eda-agent) - AIがAltium Designerのライブセッションを駆動することを可能にするオープンソースMCPサーバー、およびオプションでKiCadまたはEasyEDA Proは、見ている間にオープンデザインを編集します。 300以上のツール:回路図、PCB... <sub>⭐ 237 · Python</sub>
+- [ntakouris/awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) - 自律的なドローンの動作を完全に理解するためのリソース。これは手動でキュレーションされ、事前チャトグラムです。 <sub>⭐ 235</sub>
+- [heyixuan2/bambu-studio-ai](https://github.com/heyixuan2/bambu-studio-ai) - Bambu Lab AI(Bambu Studio AI): バンブーラボでの3Dプリントのエージェントスキル。 MakerWorld & Printablesでモデルを検索し、CADでそれらを生成したり設計したり、印刷性をチェックしたり、Bambu Studioにそれらを渡します... <sub>⭐ 215 · Python</sub>
+- [makermate/clarvis-ai](https://github.com/makermate/clarvis-ai) - Clarvis - 3Dプリントが簡単 <sub>⭐ 205 · Shell</sub>
+- [alplabai/signex](https://github.com/alplabai/signex) - オープンソース、AIファースト EDAツール — GPLライセンスまたは業界リード EDA は、Rust Languageで構築された互換性のある回路図と PCB エディタ <sub>⭐ 200 · Rust</sub>
+- [zhaozh10/ChatCAD](https://github.com/zhaozh10/ChatCAD) - (COMMSENG'24、TMI'24) LLMを用いたインタラクティブコンピュータ補助診断 <sub>⭐ 198 · Python</sub>
+- [col14m/cadrille](https://github.com/col14m/cadrille) - cadrille:オンライン補強学習によるマルチモーダル CAD 再構築 <sub>⭐ 187 · Python</sub>
+- [OpenOrion/CQAsk](https://github.com/OpenOrion/CQAsk) - オープンソースのllmキャド生成ツール <sub>⭐ 186 · Python</sub>
+- [emNavi/AirGym](https://github.com/emNavi/AirGym) - IsaacGym で構築された高性能ドローンのディープな補強学習プラットフォーム。 <sub>⭐ 177 · Python</sub>
+- [andreluizbvs/InsPLAD](https://github.com/andreluizbvs/InsPLAD) - 電力線資産データセット(InsPLAD)の検査 <sub>⭐ 173</sub>
+- [biosshot/easyeda-copilot](https://github.com/biosshot/easyeda-copilot) - EasyEDAのAI搭載アシスタント — 自然言語から回路図を生成し、LCSCコンポーネントを参照したり、カスタムDRC設定でPCBを設計したり、インタラクティブな回路設計に役立ちます。 <sub>⭐ 159 · TypeScript</sub>
+- [ai03-2725/ai03-keyboard-pcb-guide](https://github.com/ai03-2725/ai03-keyboard-pcb-guide) - ai03 PCBの設計ガイドによって設計されているPCB <sub>⭐ 155</sub>
 
 ---
 [⬆️ ページの先頭へ戻る](#-メイカー電子工作ロボティクスのai) · [← 職種別のAIリポジトリ](./README.md)

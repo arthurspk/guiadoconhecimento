@@ -20,1026 +20,1026 @@
 
 > 自动剪切、去除静音并生成短视频片段。
 
-- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place. <sub>⭐ 12.6k · TypeScript</sub>
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - 前身为KrillinAI. 由 Codex 提供动力的创作者开源AI工作空间,创建视频,图像,语音,动画,视频翻译,并与代理在一个地方进行编辑. <sub>⭐ 12.6k · TypeScript</sub>
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - 努力免费视频编辑!. <sub>⭐ 5.4k · Nim</sub>
-- [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping… <sub>⭐ 5.2k · Python</sub>
-- [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool… <sub>⭐ 3.5k · Python</sub>
-- [visomaster/VisoMaster](https://github.com/visomaster/VisoMaster) - Powerful & Easy-to-Use Video Face Swapping and Editing Software <sub>⭐ 2.1k · Python</sub>
-- [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - (Official Repo) JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion <sub>⭐ 1.9k · Python</sub>
-- [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) - A complete video subtitle editing React component with AI-powered speech recognition and visual editing capabilities. <sub>⭐ 1.8k · TypeScript</sub>
-- [jipraks/yt-short-clipper](https://github.com/jipraks/yt-short-clipper) - Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-tracking portrait reframe, and word-by-word captions. <sub>⭐ 1.0k · TypeScript</sub>
-- [VisoMasterFusion/VisoMaster-Fusion](https://github.com/VisoMasterFusion/VisoMaster-Fusion) - Powerful & Easy-to-Use Video Face Swapping and Editing Software <sub>⭐ 940 · Python</sub>
-- [IgorShadurin/app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com) - YumCut - free AI video generator to turn a prompt into ready vertical videos for TikTok, Reels and YouTube Shorts. Auto script, scenes, voiceover, subtitles and watermark. Built with Next.js.… <sub>⭐ 886 · TypeScript</sub>
-- [MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) - Open-source, local-first video editor where creators and AI agents edit the same real timeline. <sub>⭐ 885 · JavaScript</sub>
-- [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) - Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY… <sub>⭐ 779 · TypeScript</sub>
-- [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator) - AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved… <sub>⭐ 774 · Jupyter Notebook</sub>
-- [OSideMedia/higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) - Claude AI skill for cinematic Higgsfield AI prompts — 32 sub-skills covering Seedance 2.5 (omni-reference, video edit + extend) and 2.0, the Hell Grind feature-film pipeline, an acting system, Cinema… <sub>⭐ 676 · Python</sub>
-- [hetpatel-11/Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP) - Adobe Premiere Pro MCP. Tools for AI-driven video editing via MCP, for Codex, Claude, and other MCP clients. <sub>⭐ 641 · TypeScript</sub>
-- [louisedesadeleer/clipify](https://github.com/louisedesadeleer/clipify) - Claude Code skill: turn long videos into social-ready clips. Auto-find funny moments, cut, reframe to 9:16 with face-tracking, and burn opus-style captions. <sub>⭐ 583 · Python</sub>
-- [justUmen/Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) - ComfyUI : 163 nodes : Display, manipulate, and edit text, images, videos, loras and more. Manage looping operations, generate randomized content, use logical conditions and work with external AI… <sub>⭐ 550 · Python</sub>
-- [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real… <sub>⭐ 542 · TypeScript</sub>
-- [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps. <sub>⭐ 535 · TypeScript</sub>
-- [SamurAIGPT/AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) - Generate a video script, voice and a talking face completely with AI <sub>⭐ 508 · Jupyter Notebook</sub>
-- [VelornLabs/velorn](https://github.com/VelornLabs/velorn) - AI-native video editing built around real creative timelines, generative workflows, and local agent control. <sub>⭐ 495 · JavaScript</sub>
-- [zc-alexfan/hold](https://github.com/zc-alexfan/hold) - (CVPR 2024 Highlight) Official repository for HOLD, the first method that jointly reconstructs articulated hands and objects from monocular videos without assuming a pre-scanned object template and… <sub>⭐ 494 · Python</sub>
-- [open-ribbi/velocut](https://github.com/open-ribbi/velocut) - AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU compositing, WebCodecs export; humans and LLM agents edit through the same JSON command protocol. <sub>⭐ 454 · TypeScript</sub>
-- [RafaelGodoyEbert/ViralCutter](https://github.com/RafaelGodoyEbert/ViralCutter) - Free tool to create viral videos from YouTube, generating clips optimized for TikTok and Instagram with automatic transcription and 9:16 editing. <sub>⭐ 417 · Python</sub>
-- [roothch/PreenCut](https://github.com/roothch/PreenCut) - AI-Powered Video Retrieval & Clipping Tool <sub>⭐ 417 · Python</sub>
-- [mutonby/shortcast](https://github.com/mutonby/shortcast) - Native macOS app: drop a long video → auto-cut viral shorts, captioned for TikTok/Reels/YouTube, reframed to vertical, and scheduled. 100% on-device (Gemma 4 12B + WhisperKit + MLX). <sub>⭐ 389 · Swift</sub>
-- [estebanstifli/LocalText2Voice](https://github.com/estebanstifli/LocalText2Voice) - Free open-source AI desktop app for audiobooks, podcasts, documentaries, films and animated videos with local models, cloud APIs and editable storyboards. <sub>⭐ 370 · Python</sub>
-- [bridge-mind/bridgeclip](https://github.com/bridge-mind/bridgeclip) - Open-source AI video clipping desktop app by BridgeMind <sub>⭐ 357 · TypeScript</sub>
-- [leamsigc/ShortsGenerator](https://github.com/leamsigc/ShortsGenerator) - Automate the creation of Shorts content locally with a couple simple steps. <sub>⭐ 354 · Vue</sub>
-- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatGPT, compare the match, and export an MP4. Local Windows app and online studio. <sub>⭐ 347 · Python</sub>
-- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - Create and edit AI video tutorials with illustrated lessons, expressive presenters, distinct voices, and a native timeline. Windows desktop app with local models and cloud providers. <sub>⭐ 313 · Python</sub>
-- [aregrid/frame](https://github.com/aregrid/frame) - Frame is an AI-powered, open-source vibe video editor, offering a Professional VIDEO cuting alternative for creators. With Cursor-like interaction, it automates editing, enhances videos, and delivers… <sub>⭐ 283</sub>
-- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text. <sub>⭐ 261 · TypeScript</sub>
-- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder. To get… <sub>⭐ 254</sub>
-- [yuxuant2025/vision-video-in-a-weekend](https://github.com/yuxuant2025/vision-video-in-a-weekend) - Ship a 2-3 min product vision video in a weekend — using only AI tools. No filming, no editing suite, no design chops needed. PASTOR framework + ElevenLabs + HeyGen + Remotion template + prompt… <sub>⭐ 248 · TypeScript</sub>
-- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound… <sub>⭐ 247 · TypeScript</sub>
-- [SaarD00/AI-Youtube-Shorts-Generator](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) - Infinite content, zero manual editing. A fully automated 'faceless' video factory that turns trending topics into engaging YouTube Shorts using Gemini AI, Edge-TTS, and dynamic FFmpeg editing <sub>⭐ 232 · Python</sub>
-- [chatman-media/timeline-studio](https://github.com/chatman-media/timeline-studio) - Timeline Studio - Video Editing with AI <sub>⭐ 222 · TypeScript</sub>
-- [Shaarav4795/ClippedAI](https://github.com/Shaarav4795/ClippedAI) - Open-source alternative to OpusClip - AI-powered YouTube Shorts generator. 100% free and unlimited. <sub>⭐ 214 · Python</sub>
-- [mtsee/unicut](https://github.com/mtsee/unicut) - AI-driven open-source video editing tool <sub>⭐ 213 · HTML</sub>
-- [xuliang2024/cutcli-cookbook](https://github.com/xuliang2024/cutcli-cookbook) - Cookbook, JSON templates, AI prompts and docs for cutcli — the CapCut / Jianying (剪映) draft CLI. Generate editable video drafts from code, Cursor, Claude Code or any MCP agent. <sub>⭐ 197 · JavaScript</sub>
-- [AkariLabs/akari-video](https://github.com/AkariLabs/akari-video) - AKARI Video — AI video editing tool (Theia-based monorepo) · Site: akari.video · Asset library: akari.video/lab <sub>⭐ 195 · JavaScript</sub>
-- [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) - Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Local, fast, free. <sub>⭐ 181 · Python</sub>
-- [Visko-Platform/VEFX-Bench](https://github.com/Visko-Platform/VEFX-Bench) - VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects <sub>⭐ 175 · Python</sub>
-- [eddieoz/youtube-clips-automator](https://github.com/eddieoz/youtube-clips-automator) - MARCELO: an AI powered bot to automate the editing and thumbnail creation for your Youtube clips channel <sub>⭐ 164 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [Cassette-Editor/oh-my-cassette](https://github.com/Cassette-Editor/oh-my-cassette) - 你的随身 AI 剪辑搭档 / Pocket AI co-editor for video montage — AI video editing plugin & MCP server for Claude Code, Codex, Hermes & OpenCode <sub>⭐ 158 · Python</sub>
-- [Flowtter/crispy](https://github.com/Flowtter/crispy) - Crispy is a machine-learning platform to make video-games montages efficiently. It uses a neural network to detect highlights in the video-game frames <sub>⭐ 158 · Python</sub>
-- [tryvinci/vinci-clips](https://github.com/tryvinci/vinci-clips) - Open source AI-powered video clipping platform that automatically transforms long-form videos into engaging short clips optimized for social media platforms. <sub>⭐ 153 · TypeScript</sub>
-- [Aseiel/VideoHighlighter](https://github.com/Aseiel/VideoHighlighter) - Open-source local AI video analyzer powered by Ollama. Visual search, automatic highlights, scene/action/object detection, audio analysis, and subtitle generation. Free, offline alternative to Twelve… <sub>⭐ 152 · Python</sub>
-- [Upload-Post/skill-autoshorts](https://github.com/Upload-Post/skill-autoshorts) - Daily viral-clip pipeline: Whisper + Gemini 3 Flash + Upload-Post. Picks one long video per day, cuts the best moments, asks you on your phone which to publish, and learns from engagement data over… <sub>⭐ 149 · Python</sub>
-- [chancharikmitra/CHAI](https://github.com/chancharikmitra/CHAI) - Official Codebase for CVPR 2026 Highlight Paper: "Building a Precise Video Language with Human–AI Oversight" <sub>⭐ 140 · Python</sub>
-- [manpoai/AgentOfficeSuite](https://github.com/manpoai/AgentOfficeSuite) - AOSE — An Office Suite Built for Agent Collaboration. Docs, tables, slides, flowcharts, canvas, and video — all editable by both humans and AI agents. <sub>⭐ 140 · TypeScript</sub>
-- [NaufalRizqullah/opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping) - Ultimate AI Auto-Clipper — Transform long-form videos & podcasts into viral shorts! Features smart face-tracking, kinetic karaoke subtitles, contextual B-roll, AI voice-overs, and auto-uploaders… <sub>⭐ 140 · Python</sub>
-- [znyupup/ai-video-editing-skill](https://github.com/znyupup/ai-video-editing-skill) - AI Agent Skill for automated vlog editing. Feed raw footage, get a finished video. Powered by ffmpeg + Whisper + Vision API. <sub>⭐ 139 · Python</sub>
-- [tin2tin/Subtitle_Editor](https://github.com/tin2tin/Subtitle_Editor) - Subtitle Editor for the Blender VSE - auto transcription (using Whisper), import, export, translation, list based editing and batch text style change. Blender Video Sequence Editor (VSE). <sub>⭐ 132 · Python</sub>
-- [notivn/AIEV](https://github.com/notivn/AIEV) - Automatic AI video editing. Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly) to turn raw footage into a finished MP4 - transcript, kinetic typography, karaoke… <sub>⭐ 126 · TypeScript</sub>
-- [OwlTing/AI_basketball_games_video_editor](https://github.com/OwlTing/AI_basketball_games_video_editor) - AI Basketball Games Video Editor is a program to get basketball highlight video by PyTorch YOLOv4 object detection <sub>⭐ 126 · Python</sub>
-- [video-db/skills](https://github.com/video-db/skills) - Server-side video workflows for agents: ingest, understand, search, edit, stream. <sub>⭐ 125 · Python</sub>
-- [Dark2C/Viral-Faceless-Shorts-Generator](https://github.com/Dark2C/Viral-Faceless-Shorts-Generator) - Automatically generate faceless YouTube Shorts from trending topics using AI scripts, TTS, and FFmpeg. Fully containerized and one-click deployable <sub>⭐ 112 · JavaScript</sub>
-- [TornadoInsight/Sora-FullStack](https://github.com/TornadoInsight/Sora-FullStack) - OpenAi-Sora (SoraFlows) is an open-source, cross-platform web application for AI-powered video creation and editing using the latest OpenAI Sora model. Effortlessly generate, edit, and share videos… <sub>⭐ 111 · TypeScript</sub>
-- [linyqh/speclip-skills](https://github.com/linyqh/speclip-skills) - Speclip is an AI-driven video editing tool that automates complex editing workflows through conversational AI. It provides <sub>⭐ 110 · Python</sub>
-- [IFRIT-Zhou/One-Click-VidGen](https://github.com/IFRIT-Zhou/One-Click-VidGen) - An AI-powered desktop workflow that turns scripts into narrated story or explainer videos with voiceover, AI-planned storyboards, generated visuals, captions, and editable re-rendering. <sub>⭐ 107 · Python</sub>
-- [Vijax0/ai-clip-creator](https://github.com/Vijax0/ai-clip-creator) - Automatically create highlight clips from streams and videos using AI. <sub>⭐ 103 · Python</sub>
-- [SamurAIGPT/ai-clipping-generator](https://github.com/SamurAIGPT/ai-clipping-generator) - Open-source AI video clipping generator — production-ready Next.js SaaS that auto-extracts viral shorts, Reels, and TikToks from long-form YouTube videos. Stripe billing, credits, NextAuth, and… <sub>⭐ 92 · JavaScript</sub>
-- [gongnyang/reelforge](https://github.com/gongnyang/reelforge) - Agent-native AI video factory: one brief → narrated, subtitled, scene-editable videos (shorts & long-form). Deterministic HTML rendering, free keyless stack, Korean-first. <sub>⭐ 85 · JavaScript</sub>
-- [jaityron/new-pac-wiki](https://github.com/jaityron/new-pac-wiki) - Home · Alvin9999/new-pac Wiki Skip to content Alvin9999 / new-pac --> In this repository All GitHub ↵ Jump to ↵ No suggested jump to results In this repository All GitHub ↵ Jump to ↵ In this… <sub>⭐ 84</sub>
+- [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Opus Clip, Vidyo.ai, Klap & SubMagic 的开源替代品. 将长式YouTube视频转换成病毒 9:16短片,使用LLM亮度检测,Whisper转录,以及自动垂直裁剪. . <sub>⭐ 5.2k · Python</sub>
+- [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline是一个AI视频编辑代理商,通过自然语言交互,LLM动力规划,以及精确工具,将人工编辑转变为意图驱动的引导. . <sub>⭐ 3.5k · Python</sub>
+- [visomaster/VisoMaster](https://github.com/visomaster/VisoMaster) - 强大的并易于使用的视频面部搜索和编辑软件( E) <sub>⭐ 2.1k · Python</sub>
+- [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - (官方检索) JoyAI-Video-Edit: 实时开放视频编辑与自动递增 <sub>⭐ 1.9k · Python</sub>
+- [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) - 一个完整的视频字幕编辑 React组件,具有AI动力语音识别和视觉编辑能力. <sub>⭐ 1.8k · TypeScript</sub>
+- [jipraks/yt-short-clipper](https://github.com/jipraks/yt-short-clipper) - Windows桌面应用将长格式YouTube视频转换为9:16短格式剪辑——AI突出检测,面部跟踪肖像重构,逐字字幕. <sub>⭐ 1.0k · TypeScript</sub>
+- [VisoMasterFusion/VisoMaster-Fusion](https://github.com/VisoMasterFusion/VisoMaster-Fusion) - 强大的并易于使用的视频面部搜索和编辑软件( E) <sub>⭐ 940 · Python</sub>
+- [IgorShadurin/app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com) - YumCut - 免费的AI视频生成器将一个提示转换成TikTok,Reels和YouTube Shorts的可备用的垂直视频. 自动脚本,场景,语音,字幕和水印. Built with Next.js... <sub>⭐ 886 · TypeScript</sub>
+- [MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) - 开源,本地第一视频编辑器,其中创作者和AI代理编辑的时间线相同. <sub>⭐ 885 · JavaScript</sub>
+- [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) - 本地第一,ComfyUI的代理本地控制平面——MCP服务器+侧边栏代理,生成图像,视频和音频,作者并运行工作流程,用自然语言编辑您在任意的活图...... <sub>⭐ 779 · TypeScript</sub>
+- [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator) - AI-Video-Cropper是一个基于Python的工具,它利用GPT-4(OpenAI的语言模型)的能量,自动分析视频,提取最有趣的部分,并剪切它们来改进. . <sub>⭐ 774 · Jupyter Notebook</sub>
+- [OSideMedia/higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) - Claude AI技巧为电影家希格斯菲尔德AI提示——32个子技能,涵盖种子2.5(全息参考,视频编辑+扩展)和2.0,地狱格伦特-电影管道,一个表演系统,电影院. ...... <sub>⭐ 676 · Python</sub>
+- [hetpatel-11/Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP) - Adobe Premiere Pro MCP. 通过MCP进行AI驱动视频编辑的工具,用于Codex,Claude等MCP客户端. <sub>⭐ 641 · TypeScript</sub>
+- [louisedesadeleer/clipify](https://github.com/louisedesadeleer/clipify) - Claude Code技巧: 将长视频转换成社交准备的剪辑. 自动查找滑稽时刻,剪切,用面部跟踪重刻为9:16,并烧掉opus风格的字幕. <sub>⭐ 583 · Python</sub>
+- [justUmen/Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) - ComfyUI:163节点:显示,操纵和编辑文本,图像,视频,loras等. 管理循环操作,生成随机化内容,使用逻辑条件并与外部AI合作... <sub>⭐ 550 · Python</sub>
+- [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - 开放源代码 AI 视频工作台。 带任何模型或您的本地 ComfyUI , 让 Claude Code / Codex / Cursor 把它引导到 MCP 上—— 故事板、 参考、 生成、 可编辑的第一剪切在真实上... <sub>⭐ 542 · TypeScript</sub>
+- [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - 由 React 构建的 AI 动力视频编辑器 SDK 。 特性布图时间线、 拖放编辑、 AI 标题和无服务器的 MP4 导出 。 完全适合构建自定义视频应用程序 。 <sub>⭐ 535 · TypeScript</sub>
+- [SamurAIGPT/AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) - 完全用AI来生成视频剧本,语音和说话脸 <sub>⭐ 508 · Jupyter Notebook</sub>
+- [VelornLabs/velorn](https://github.com/VelornLabs/velorn) - AI-原生视频编辑围绕真实的创意时间表,基因工作流程,以及本地代理控制构建. <sub>⭐ 495 · JavaScript</sub>
+- [zc-alexfan/hold](https://github.com/zc-alexfan/hold) - (CVPR 2024 Highlight) HOLD的官方寄存器,这是第一种在不假设预扫描对象模板和.的情况下,联合重建单视视频中清晰的手和物体的方法. <sub>⭐ 494 · Python</sub>
+- [open-ribbi/velocut](https://github.com/open-ribbi/velocut) - AI-native,Ribbi的本地第一视频编辑器——完全运行在浏览器中. Rust/WASM引擎,WebGPU composition,WebCodecs导出;人和LLM代理通过相同的JSON命令协议进行编辑. <sub>⭐ 454 · TypeScript</sub>
+- [RafaelGodoyEbert/ViralCutter](https://github.com/RafaelGodoyEbert/ViralCutter) - 从YouTube创建病毒视频的自由工具,为TikTok和Instagram生成最优化的剪辑,并带有自动转录和9:16编辑功能. <sub>⭐ 417 · Python</sub>
+- [roothch/PreenCut](https://github.com/roothch/PreenCut) - AI- Powered Video检索和剪辑工具 <sub>⭐ 417 · Python</sub>
+- [mutonby/shortcast](https://github.com/mutonby/shortcast) - 原生macOS应用:丢掉一段长视频~自动剪辑病毒短片,为TikTok/Reels/YouTube配音,重新编程为垂直,并排好. 100%的安装在设备上(Gemma 4 12B + WhisperKit + MLX). <sub>⭐ 389 · Swift</sub>
+- [estebanstifli/LocalText2Voice](https://github.com/estebanstifli/LocalText2Voice) - 免费开放源代码AI桌面应用,用于音频书籍,播客,纪录片,电影和动画视频与本地模型,云API以及可编辑的故事板. <sub>⭐ 370 · Python</sub>
+- [bridge-mind/bridgeclip](https://github.com/bridge-mind/bridgeclip) - BridgeMind的开源AI视频剪辑桌面应用程序 <sub>⭐ 357 · TypeScript</sub>
+- [leamsigc/ShortsGenerator](https://github.com/leamsigc/ShortsGenerator) - 将创建 Shorts 本地内容自动化,并附带几个简单的步骤. <sub>⭐ 354 · Vue</sub>
+- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - AI从参考视频中移动图形. 重建它作为可编辑的HyperFrames项目与Codex和ChatGPT,比较匹配,并导出一个MP4. 本地Windows应用程序和在线工作室. <sub>⭐ 347 · Python</sub>
+- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - 创建和编辑 AI 视频教程,并附有插图课、表达式介绍者、不同的声音和本地时间线。 Windows 桌面应用程序与本地模型和云提供商。 <sub>⭐ 313 · Python</sub>
+- [aregrid/frame](https://github.com/aregrid/frame) - Frame是一个AI驱动,开源的氛围视频编辑器,为创建者提供专业VIDEO剪切的替代方案. 通过类似光标的交互,它可以自动编辑,增强视频,并交付... <sub>⭐ 283</sub>
+- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - 开源AI动力基于文本的视频编辑器,通过编辑文本来编辑视频. <sub>⭐ 261 · TypeScript</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - 列表, 任何人都可以用任何编程语言解决的实用项目( 请参见解决方案) 。 这些项目被分为多个类别, 每个类别都有自己的文件夹 。 要获取... <sub>⭐ 254</sub>
+- [yuxuant2025/vision-video-in-a-weekend](https://github.com/yuxuant2025/vision-video-in-a-weekend) - 周末运送2-3分钟的产品视觉视频——只使用AI工具. 不拍摄,不编辑套间,不需要设计切片. PASTOR框架+11Labs + HeyGen + Remotion模板+ laur... <sub>⭐ 248 · TypeScript</sub>
+- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - 开源Claude代理技能,教克劳德代码,Claude桌面 & Claude AI用Remotion创建和编辑专业运动图形视频. AI视频编辑,B-roll,字幕,音效... <sub>⭐ 247 · TypeScript</sub>
+- [SaarD00/AI-Youtube-Shorts-Generator](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) - 无限内容,零手动编辑. 一个完全自动化的"无脸"视频厂,将趋势化话题转化为使用双子座AI,Edge-TTS的YouTube Shorts,以及动态FFmpeg编辑. <sub>⭐ 232 · Python</sub>
+- [chatman-media/timeline-studio](https://github.com/chatman-media/timeline-studio) - 时间线工作室 - 带AI的视频编辑 <sub>⭐ 222 · TypeScript</sub>
+- [Shaarav4795/ClippedAI](https://github.com/Shaarav4795/ClippedAI) - OpusClip的开源替代器 - AI动力YouTube Shorts生成器. 100%自由无限制. <sub>⭐ 214 · Python</sub>
+- [mtsee/unicut](https://github.com/mtsee/unicut) - AI驱动的开源视频编辑工具 <sub>⭐ 213 · HTML</sub>
+- [xuliang2024/cutcli-cookbook](https://github.com/xuliang2024/cutcli-cookbook) - Cookbook,JSON模板,用于cutcli的AI提示和docs——CapCut / Jianying( )草稿CLI. 从代码,Cursor,Claude Code或任何MCP代理中生成可编辑的视频草稿. <sub>⭐ 197 · JavaScript</sub>
+- [AkariLabs/akari-video](https://github.com/AkariLabs/akari-video) - AKARI Video——AI视频编辑工具(Theia-based monorepo) •网站:akari.video_资产库:akari.video/lab <sub>⭐ 195 · JavaScript</sub>
+- [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) - Guardrailed video编辑了用于AI代理的MCP服务器. FFmpeg,Hyperframes,重用工具,Python客户端和CLI. 本地,快捷,免费. <sub>⭐ 181 · Python</sub>
+- [Visko-Platform/VEFX-Bench](https://github.com/Visko-Platform/VEFX-Bench) - VEFX-Bench:通用视频编辑和视觉效果的综合基准 <sub>⭐ 175 · Python</sub>
+- [eddieoz/youtube-clips-automator](https://github.com/eddieoz/youtube-clips-automator) - MARCELO:一个AI为您的 YouTube 剪辑频道提供自动编辑和缩略图创建的引擎 <sub>⭐ 164 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C战略要闻 2019年9月 本报是为2019年9月W3C咨询委员会会议编写的(W3C成员链接),参见所附的W3C概况介绍——2019年9月. <sub>⭐ 160</sub>
+- [Cassette-Editor/oh-my-cassette](https://github.com/Cassette-Editor/oh-my-cassette) - & MCP 服务器 Claude Code, Codex, Hermes & OpenCode <sub>⭐ 158 · Python</sub>
+- [Flowtter/crispy](https://github.com/Flowtter/crispy) - Crispy是一个机器学习平台,可以高效地制作视频游戏壁画,它使用神经网络来检测视频游戏帧中的亮点. <sub>⭐ 158 · Python</sub>
+- [tryvinci/vinci-clips](https://github.com/tryvinci/vinci-clips) - 开放源代码AI动力视频剪辑平台,可自动将长式视频转换为接触社交媒体平台优化的短片. <sub>⭐ 153 · TypeScript</sub>
+- [Aseiel/VideoHighlighter](https://github.com/Aseiel/VideoHighlighter) - 由Ollama提供动力的开源本地AI视频分析器,可视化搜索,自动亮点,场景/动作/对象检测,音频分析,以及字幕生成. 免费,离线替代12... <sub>⭐ 152 · Python</sub>
+- [Upload-Post/skill-autoshorts](https://github.com/Upload-Post/skill-autoshorts) - 每日病毒剪辑管道:Whisper + 双子座3 Flash + 上传-Poost. 每日选择长视频,剪切最佳瞬间,请您在手机上发布哪些内容,并从订婚数据中学习over... <sub>⭐ 149 · Python</sub>
+- [chancharikmitra/CHAI](https://github.com/chancharikmitra/CHAI) - CVPR 2026 官方代码库 重点论文:"用人监督构建精准视频语言" <sub>⭐ 140 · Python</sub>
+- [manpoai/AgentOfficeSuite](https://github.com/manpoai/AgentOfficeSuite) - AOSE — 为代理协作构建的办公套件, Docs, tables, 幻灯片, 流程图, 帆布和视频, 都可由人类和AI代理编辑 。 <sub>⭐ 140 · TypeScript</sub>
+- [NaufalRizqullah/opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping) - 终极AI Auto-clipp——将长形视频和播客转换成病毒短片! 功能智能面跟踪,动漫卡拉OK字幕,背景B卷,AI语音翻唱,以及自动装填器... <sub>⭐ 140 · Python</sub>
+- [znyupup/ai-video-editing-skill](https://github.com/znyupup/ai-video-editing-skill) - AI Agent Skill用于自动vlog编辑. Feed 原始镜头,获得完成的视频. Powered by ffmpeg + Whisper + Vision API. <sub>⭐ 139 · Python</sub>
+- [tin2tin/Subtitle_Editor](https://github.com/tin2tin/Subtitle_Editor) - Blender VSE - 自动转录的子标题编辑器(使用Whisper),导入,导出,翻译,基于列表的编辑和批量文本样式的更改. Blender Video序列编辑器(VSE). <sub>⭐ 132 · Python</sub>
+- [notivn/AIEV](https://github.com/notivn/AIEV) - 自动AI视频编辑. Claude指导HyperFrames(HTML + GSAP运动图形)和Remotion(时间线组装)将原始镜头转换成完成的MP4 - 记录片,动式打字,卡拉OK... <sub>⭐ 126 · TypeScript</sub>
+- [OwlTing/AI_basketball_games_video_editor](https://github.com/OwlTing/AI_basketball_games_video_editor) - AI篮球游戏视频编辑器是一个通过PyTorch YOLOv4对象检测获得篮球亮点视频的程序. <sub>⭐ 126 · Python</sub>
+- [video-db/skills](https://github.com/video-db/skills) - 代理服务器侧视频工作流程:摄取,理解,搜索,编辑,流. <sub>⭐ 125 · Python</sub>
+- [Dark2C/Viral-Faceless-Shorts-Generator](https://github.com/Dark2C/Viral-Faceless-Shorts-Generator) - 使用 AI 脚本、 TTS 和 FFmpeg 自动生成无脸YouTube 短片。 完全容器化和一击可部署 <sub>⭐ 112 · JavaScript</sub>
+- [TornadoInsight/Sora-FullStack](https://github.com/TornadoInsight/Sora-FullStack) - OpenAi-Sora(英语:SoraFlows)是一个开放源代码,跨平台的网络应用程序,用于AI动力视频的创建和编辑,使用最新的OpenAI Sora模式. 费力生成,编辑和分享视频... <sub>⭐ 111 · TypeScript</sub>
+- [linyqh/speclip-skills](https://github.com/linyqh/speclip-skills) - Speclip是一个AI驱动的视频编辑工具,通过对话AI实现复杂编辑工作流程自动化. <sub>⭐ 110 · Python</sub>
+- [IFRIT-Zhou/One-Click-VidGen](https://github.com/IFRIT-Zhou/One-Click-VidGen) - AI驱动的桌面工作流程,将脚本变成叙述式故事或解说式视频,并配有语音翻唱,AI计划的故事板,生成视觉,字幕,以及可编辑的重播. <sub>⭐ 107 · Python</sub>
+- [Vijax0/ai-clip-creator](https://github.com/Vijax0/ai-clip-creator) - 使用AI自动创建来自溪流和视频的突出显示片段. <sub>⭐ 103 · Python</sub>
+- [SamurAIGPT/ai-clipping-generator](https://github.com/SamurAIGPT/ai-clipping-generator) - 开源AI视频剪辑生成器 — 制作准备 Next.js SaaS 自动从长格式YouTube视频中提取病毒短片,Reels和TikToks. Strepe billing, credit, NextAuth, and... <sub>⭐ 92 · JavaScript</sub>
+- [gongnyang/reelforge](https://github.com/gongnyang/reelforge) - 代理-本土AI视频厂:一个简略的~叙述,字幕,场景可编译的视频(短片 & Long-form). Deterministic HTML渲染,免费无密钥堆栈,韩语第一. <sub>⭐ 85 · JavaScript</sub>
+- [jaityron/new-pac-wiki](https://github.com/jaityron/new-pac-wiki) - 主机 ^ Alvin9999/ new-pac 维基跳转到内容 Alvin9999 / new-pac - > 在本寄存器中, All GitHub → Jump to → 没有推荐的跳转到结果在此寄存器中 All GitHub → Jump to → 在此... <sub>⭐ 84</sub>
 
 ## 💬 字幕、转写与配音
 
 > 借助 AI 进行转写、自动字幕、翻译和配音。
 
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. <sub>⭐ 51.9k · Python</sub>
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal… <sub>⭐ 13.0k · Python</sub>
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from YouTube , TikTok , Twitter , Instagram , Facebook , Twitch , Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then… <sub>⭐ 10.7k · TypeScript</sub>
-- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI. <sub>⭐ 6.4k · Python</sub>
-- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。 <sub>⭐ 5.6k · Python</sub>
-- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more! <sub>⭐ 4.3k · C#</sub>
-- [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python. <sub>⭐ 3.2k</sub>
-- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models! <sub>⭐ 3.1k · Svelte</sub>
-- [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV <sub>⭐ 2.3k · Python</sub>
-- [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video. <sub>⭐ 2.3k · Python</sub>
-- [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. <sub>⭐ 2.2k · Python</sub>
-- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's… <sub>⭐ 1.7k · Python</sub>
-- [Ayanaminn/N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔ Translate subtitle using LLM <sub>⭐ 1.7k · TypeScript</sub>
-- [absadiki/subsai](https://github.com/absadiki/subsai) - Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants <sub>⭐ 1.7k · Python</sub>
-- [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr <sub>⭐ 1.5k · Python</sub>
-- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles <sub>⭐ 1.4k · Python</sub>
-- [veedstudio/open-edit](https://github.com/veedstudio/open-edit) - Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos. <sub>⭐ 1.4k · TypeScript</sub>
-- [zarazhangrui/youtube-digest](https://github.com/zarazhangrui/youtube-digest) - Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes. Bring your own keys. <sub>⭐ 1.4k · JavaScript</sub>
-- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free <sub>⭐ 1.4k · Python</sub>
-- [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - Automatic subtitle synchronization tool. <sub>⭐ 1.2k · Python</sub>
-- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that… <sub>⭐ 1.0k · Rust</sub>
-- [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds <sub>⭐ 868 · PHP</sub>
-- [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - Generate transcripts for audio and video content with a user friendly UI, powered by Open AI's Whisper with automatic translations and download videos automatically with yt-dlp integration <sub>⭐ 803 · JavaScript</sub>
-- [Blue-B/WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud. <sub>⭐ 770 · JavaScript</sub>
-- [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper. <sub>⭐ 693 · Python</sub>
-- [bbc/react-transcript-editor](https://github.com/bbc/react-transcript-editor) - A React component to make correcting automated transcriptions of audio and video easier and faster. By BBC News Labs. - Work in progress <sub>⭐ 620 · JavaScript</sub>
-- [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - Legacy YouDub AI video translation and voice-cloning pipeline. Active development continues in YouDub WebUI. <sub>⭐ 616 · Python</sub>
-- [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos <sub>⭐ 545 · Python</sub>
-- [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software <sub>⭐ 517 · TypeScript</sub>
-- [showlab/livecc](https://github.com/showlab/livecc) - LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale (CVPR 2025) <sub>⭐ 479 · Python</sub>
-- [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software. <sub>⭐ 467 · Pascal</sub>
-- [RayFernando1337/MLX-Auto-Subtitled-Video-Generator](https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator) - Generate accurate transcripts using Apple's MLX framework <sub>⭐ 464 · Python</sub>
-- [OpenNewsLabs/autoEdit_2](https://github.com/OpenNewsLabs/autoEdit_2) - Fast text based video editing, node Electron Os X desktop app, with Backbone front end. <sub>⭐ 457 · JavaScript</sub>
-- [Softcatala/open-dubbing](https://github.com/Softcatala/open-dubbing) - Open dubbing is an AI dubbing system which uses machine learning models to automatically translate and synchronize audio dialogue into different languages. <sub>⭐ 433 · Python</sub>
-- [NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper) - SoftWhisper simplifies audio and video transcription using the powerful Whisper model. Easily select custom models, languages, and tasks, fine-tune transcription with beam size adjustment, and… <sub>⭐ 421 · Python</sub>
-- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Youtube Videos Transcription with OpenAI's Whisper <sub>⭐ 419 · Jupyter Notebook</sub>
-- [ptnghia-j/ChordMiniApp](https://github.com/ptnghia-j/ChordMiniApp) - Music Analysis, Chord Recognition, Beat Tracking, Guitar Diagrams, Piano Visualizer, Lyrics Transcription Application, context-aware LLM inference for analysis from uploaded audio and YouTube video <sub>⭐ 402 · TypeScript</sub>
-- [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Transcribe and translate audio to text using Whisper and DeepL. <sub>⭐ 397 · Jupyter Notebook</sub>
-- [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Token efficient translation tool based on ChatGPT or any OpenAI compatible LLM chat completion API <sub>⭐ 390 · JavaScript</sub>
-- [dmtrKovalenko/subtitler](https://github.com/dmtrKovalenko/subtitler) - Free on-device web app for audio transcribing and rendering subtitles <sub>⭐ 379 · ReScript</sub>
-- [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model <sub>⭐ 368 · Swift</sub>
-- [JimLiu/whisper-subtitles](https://github.com/JimLiu/whisper-subtitles) - Apple PodCast Transcription with OpenAI's Whisper <sub>⭐ 348 · Jupyter Notebook</sub>
-- [pmarreck/yt-transcriber](https://github.com/pmarreck/yt-transcriber) - CLI app- Give it a YouTube URL and you get a transcription with possible speaker identification and optional summary or translation, all thanks to open-source AI tooling and my lack of enough free… <sub>⭐ 337 · Shell</sub>
-- [notepower2k1/CapCap](https://github.com/notepower2k1/CapCap) - CapCap is a Windows desktop app for short-form video localization and dubbing. It brings transcription, translation, subtitle styling, voice generation, timeline editing, preview, and export into a… <sub>⭐ 335 · Python</sub>
-- [sayksii/Aria](https://github.com/sayksii/Aria) - ARIA - AI Realtime Intelligent Audio / Universal real-time AI subtitles for Windows <sub>⭐ 331 · Python</sub>
-- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning! <sub>⭐ 324 · Python</sub>
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model <sub>⭐ 323 · Python</sub>
-- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - AI-powered YouTube video dubbing pipeline. Automatically transcribes (Whisper), translates (Google), and generates neural dubbing (Edge-TTS) with smart audio-video synchronization and background… <sub>⭐ 304 · Python</sub>
-- [kouhxp/yapsnap](https://github.com/kouhxp/yapsnap) - Transcribe any video URL or audio file into plaintext. No GPU. No cloud. One command. <sub>⭐ 298 · Python</sub>
-- [Moh4696/freecut](https://github.com/Moh4696/freecut) - Fork of browser-use/video-use with the paid ElevenLabs dependency replaced by free, pluggable transcription (local Whisper by default; VibeVoice-ASR for diarization). <sub>⭐ 279 · Python</sub>
-- [yuvraj108c/ComfyUI-Whisper](https://github.com/yuvraj108c/ComfyUI-Whisper) - Transcribe audio and add subtitles to videos using Whisper in ComfyUI <sub>⭐ 274 · Python</sub>
-- [mbzuai-oryx/Video-LLaVA](https://github.com/mbzuai-oryx/Video-LLaVA) - PG-Video-LLaVA: Pixel Grounding in Large Multimodal Video Models <sub>⭐ 263 · Python</sub>
-- [sonpiaz/watch-cli](https://github.com/sonpiaz/watch-cli) - Gives a coding agent eyes and ears for any social video: timestamped frames plus a transcript, about 50x cheaper than sending the whole file to a multimodal API. <sub>⭐ 254 · Shell</sub>
-- [YYuX-1145/Srt-AI-Voice-Assistant](https://github.com/YYuX-1145/Srt-AI-Voice-Assistant) - Subtitle dubbing with multiple TTS Engines <sub>⭐ 254 · Python</sub>
-- [nganlinh4/oneclick-subtitles-generator](https://github.com/nganlinh4/oneclick-subtitles-generator) - Auto-subtitle videos with AI transcription, translation, voice cloning, professional rendering, background image and music generator <sub>⭐ 241 · JavaScript</sub>
-- [lewangdev/autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT <sub>⭐ 235 · Jupyter Notebook</sub>
-- [matheusbach/legen](https://github.com/matheusbach/legen) - Uses AI to locally transcribes speech from media files, generating subtitle files, translates the generated subtitles, inserts them into the mp4 container, and burns them directly into video <sub>⭐ 234 · Python</sub>
-- [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text <sub>⭐ 229 · Jupyter Notebook</sub>
-- [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - Video AI summarization from multiple sources (YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, and local files). <sub>⭐ 225 · Python</sub>
-- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files <sub>⭐ 224 · TypeScript</sub>
-- [fictions-ai/autocaption](https://github.com/fictions-ai/autocaption) - Add caption to any video <sub>⭐ 212 · Python</sub>
-- [ALBEDO-TABAI/video-copy-analyzer](https://github.com/ALBEDO-TABAI/video-copy-analyzer) - Video Copy Analyzer - AI-powered video transcription and copywriting analysis skill <sub>⭐ 209 · Python</sub>
-- [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) - Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify) <sub>⭐ 208 · TypeScript</sub>
-- [tanpreetjolly/browser-whisper](https://github.com/tanpreetjolly/browser-whisper) - NPM Library to transcribe Audio & Videos completely in browser with WebGPU and WebCodecs. 100% private and offline with WASM fallbacks <sub>⭐ 203 · TypeScript</sub>
-- [mldljyh/whisper_real_time_translation](https://github.com/mldljyh/whisper_real_time_translation) - The subtitles and translations are generated in real-time and displayed as pop-ups. <sub>⭐ 199 · Python</sub>
-- [botbahlul/PyAutoSRT](https://github.com/botbahlul/PyAutoSRT) - PySimpleGUI based DESKTOP APP to AUTO GENERATE SUBTITLE FILE (using free Google Speech Recognition API) and TRANSLATED SUBTITLE FILE (using unofficial online Google Translate API) for any video or… <sub>⭐ 191 · Python</sub>
-- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - A tool that transforms audio or video files into text transcripts and generates concise meeting minutes. Stay organized and efficient in your meetings, and get ready for Phase 2 where we'll be open… <sub>⭐ 175 · Python</sub>
-- [nomadkaraoke/karaoke-gen](https://github.com/nomadkaraoke/karaoke-gen) - Generate karaoke videos, by downloading audio and lyrics, separating instrumentals, synchronising lyrics using transcription models, rendering CDG and uploading videos to YouTube / Dropbox / Google… <sub>⭐ 174 · Python</sub>
-- [EtienneAb3d/WhisperTimeSync](https://github.com/EtienneAb3d/WhisperTimeSync) - Synchronize Whisper's timestamps over an existing accurate transcription <sub>⭐ 167 · Java</sub>
-- [pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall) - AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Meet, Teams, Zoom (Beta) <sub>⭐ 163 · Python</sub>
-- [javedali99/audio-to-text-transcription](https://github.com/javedali99/audio-to-text-transcription) - This repository contains a Python script that allows users to download the audio from a YouTube video, transcribe it into text, detect the language and save the transcription in txt file… <sub>⭐ 160 · Python</sub>
-- [tsmdt/whisply](https://github.com/tsmdt/whisply) - Fast, cross-platform CLI and GUI for batch transcription, translation, speaker annotation and subtitle generation using OpenAI’s Whisper on CPU, Nvidia GPU and Apple MLX. <sub>⭐ 160 · Python</sub>
-- [artbyjazi/autoclip](https://github.com/artbyjazi/autoclip) - Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key. <sub>⭐ 159 · Python</sub>
-- [BrendownFerreira/transcriber](https://github.com/BrendownFerreira/transcriber) - AI-powered transcription for audio & video with Whisper — self-hosted, fast, and open-source. <sub>⭐ 147 · Python</sub>
-- [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an… <sub>⭐ 145 · Python</sub>
-- [timoncool/dub-studio](https://github.com/timoncool/dub-studio) - Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one native .exe, zero Python. <sub>⭐ 142 · Rust</sub>
-- [mathiaschu/watch](https://github.com/mathiaschu/watch) - Give Claude a video input. /watch downloads from YouTube/Instagram/X/Vimeo/any yt-dlp site, extracts frames, and transcribes locally with mlx-whisper — no API key. Fork of bradautomates/claude-video. <sub>⭐ 138 · Python</sub>
-- [BatuhanYilmaz26/Auto-Subtitled-Video-Generator](https://github.com/BatuhanYilmaz26/Auto-Subtitled-Video-Generator) - Input a YouTube video link or upload a video file and get a video with subtitles. <sub>⭐ 136 · Python</sub>
-- [medahmedkrichen/ViDubb](https://github.com/medahmedkrichen/ViDubb) - AI Video dubbing / dubber / Video dubbing / AI dubbing AI 視訊配音 <sub>⭐ 134 · Jupyter Notebook</sub>
-- [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) - 13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini. <sub>⭐ 130 · Python</sub>
-- [cbro33/Faster-Whisper-XXL-GUI](https://github.com/cbro33/Faster-Whisper-XXL-GUI) - GUI for Faster‑Whisper‑XXL transcription tool: download YouTube audio, transcribe local files, manage models, and export multiple formats with themes and auto yt‑dlp updates. <sub>⭐ 128 · Python</sub>
-- [DataAnts-AI/VideoTranscriber](https://github.com/DataAnts-AI/VideoTranscriber) - Process OBS recordings (or Any video files) with AI-based transcription and summarization. <sub>⭐ 126 · Python</sub>
-- [fancydirty/subtitle-scout](https://github.com/fancydirty/subtitle-scout) - A self-hosted subtitle automation system with an LLM agent at its core — it identifies your media, judges whether each candidate belongs to the exact episode, installs the one that fits, and… <sub>⭐ 123 · TypeScript</sub>
-- [hlamba28/Automatic-Image-Captioning](https://github.com/hlamba28/Automatic-Image-Captioning) - Generating Captions for images using Deep Learning <sub>⭐ 122 · Jupyter Notebook</sub>
-- [AI4Bharat/Chitralekha](https://github.com/AI4Bharat/Chitralekha) - Chitralekha - A video transcreation platform for Indic languages, supporting transcription, translation and voice-over <sub>⭐ 119</sub>
-- [Recordscript/recordscript](https://github.com/Recordscript/recordscript) - Cross-platform screen recorder, transcript, subtitle. Built with Tauri & Whisper-rs (rust port of whisper.cpp) <sub>⭐ 119 · Rust</sub>
-- [kapitalismho/PuriPuly-heart](https://github.com/kapitalismho/PuriPuly-heart) - Real-time two-way voice translator for VRChat — LLM-based, VR subtitle overlay & OSC <sub>⭐ 117 · Python</sub>
-- [kar2phi/video-lens](https://github.com/kar2phi/video-lens) - video-lens is a coding agent skill that fetches a YouTube transcript and generates a structured HTML report: executive summary, key points, analysis, takeaway, timestamped topic outline, and an… <sub>⭐ 112 · Python</sub>
-- [VjayC/SRT-Subtitle-Translator-Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - A cross-platform desktop and web app to translate and validate SRT subtitles using your existing LLM subscriptions (Gemini, ChatGPT, Claude, etc.) via CLIProxyAPI - no API keys needed. <sub>⭐ 110 · TypeScript</sub>
-- [GhostNaN/whisper-subs](https://github.com/GhostNaN/whisper-subs) - WhisperSubs is a mpv lua script to generate subtitles at runtime with whisper.cpp on Linux <sub>⭐ 108 · Lua</sub>
-- [drpwchen/lecture-to-notes](https://github.com/drpwchen/lecture-to-notes) - Lecture recordings → structured grounded notes + a synced HTML viewer: video, timestamped transcript and curated summary on one page. Local GPU pipeline (Whisper ASR · slide extraction · OCR · VLM… <sub>⭐ 106 · Python</sub>
-- [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server <sub>⭐ 106 · C#</sub>
-- [arashsajjadi/ai-powered-video-analyzer](https://github.com/arashsajjadi/ai-powered-video-analyzer) - An offline AI-powered video analysis tool with object detection (YOLO), image captioning (BLIP), speech transcription (Whisper), audio event detection (PANNs), and AI-generated summaries (LLMs via… <sub>⭐ 105 · Python</sub>
-- [deusjin/subforge](https://github.com/deusjin/subforge) - Rust CLI for AI subtitle workflows: transcribe, segment, translate, evaluate, and burn or mux subtitles. <sub>⭐ 104 · Rust</sub>
-- [machinelearningZH/audio-transcription](https://github.com/machinelearningZH/audio-transcription) - Transcribe any audio or video file. Edit and view your transcripts in a standalone HTML editor. <sub>⭐ 99 · Python</sub>
-- [dduongtrandai/LA-Studio](https://github.com/dduongtrandai/LA-Studio) - LA Studio is a local-first AI audio platform for exploring, downloading, and testing speech-to-text, text-to-speech, and voice cloning models <sub>⭐ 97 · C++</sub>
-- [build-with-groq/groq-subtitle-generator](https://github.com/build-with-groq/groq-subtitle-generator) - Create subtitles in various languages in mere minutes using Whisper and Qwen3-32b via Groq's lightning-fast inference. <sub>⭐ 95 · Python</sub>
-- [Doriandarko/Insanely-Fast-Transcription](https://github.com/Doriandarko/Insanely-Fast-Transcription) - Insanely Fast Transcription: A Python-based utility for rapid audio transcription from YouTube videos or local files. Leverages GPU acceleration (CUDA/MPS) and the Whisper large-v3 model for… <sub>⭐ 95 · Python</sub>
-- [aadeshkulkarni/sanchay-ai](https://github.com/aadeshkulkarni/sanchay-ai) - Takes your video and generates video title, description, hashtags, transcription, subtitles and more. <sub>⭐ 94 · Python</sub>
-- [hathix/youtube-transcriber](https://github.com/hathix/youtube-transcriber) - Automatically transcribes YouTube videos <sub>⭐ 92 · Jupyter Notebook</sub>
-- [EtienneAb3d/karaok-AI](https://github.com/EtienneAb3d/karaok-AI) - Karaoke Player / Editor with automatic clip creation from any song file using vocals and lyrics extraction (Speech-to-Text) <sub>⭐ 90 · Java</sub>
-- [nestyme/Subtitles-generator](https://github.com/nestyme/Subtitles-generator) - generates transcript for video from link <sub>⭐ 88 · Python</sub>
-- [unclecode/hermes](https://github.com/unclecode/hermes) - Hermes: Blazing-fast video transcription powered by AI gods! Transcribe 6.5 minutes of video in just 1 second using Groq's LPU. Choose your transcription deity: MLX Whisper (local), Groq (speed… <sub>⭐ 88 · Python</sub>
-- [crafter-station/trx](https://github.com/crafter-station/trx) - Agent-first CLI for audio/video transcription via Whisper <sub>⭐ 85 · TypeScript</sub>
-- [GewoonJaap/WinWhisper](https://github.com/GewoonJaap/WinWhisper) - Create subtitles with ease, using Whisper AI for Windows <sub>⭐ 85 · C#</sub>
-- [guimatheus92/mcp-video-analyzer](https://github.com/guimatheus92/mcp-video-analyzer) - MCP server that turns any video — YouTube, Instagram, TikTok, Loom, X, Vimeo, direct URLs, local files — into transcripts, key frames, OCR text, and metadata for AI agents. <sub>⭐ 84 · TypeScript</sub>
-- [JonathanFly/faster-whisper-livestream-translator](https://github.com/JonathanFly/faster-whisper-livestream-translator) - faster-whisper livestream translation, OBS noise reduction, dual language subtitles <sub>⭐ 84 · Python</sub>
-- [mutonby/vibetube](https://github.com/mutonby/vibetube) - Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX. <sub>⭐ 84 · JavaScript</sub>
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio是开源,全本地的11Labs替代——语音克隆,语音设计,视频配音,拼写,抄写和音频书的创作,使用646种语言. <sub>⭐ 51.9k · Python</sub>
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI面向创作者和开发者,以键盘TTS(Edge-TTS,kokoro)和零镜头语音克隆(E2 & F5–TTS,CosyVoice)为主角,配有Whisper音频处理,YouTube下载,Demucs声优. <sub>⭐ 13.0k · Python</sub>
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - 从YouTube、TikTok、Twitter、Instagram、Facebook、Twitch、bilibili和1000+网站下载视频和音频,或导入本地媒体。然后在你的电脑上创建可搜索的记录稿... <sub>⭐ 10.7k · TypeScript</sub>
+- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR 动力视频转录,字幕生成,以及LLM辅助剪辑工具,配有本地的Gradio UI. <sub>⭐ 6.4k · Python</sub>
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源AI视频本地化和杜撰YouTube/Bilibili:语音识别,字幕翻译,语音克隆,音频混合与渲染. QQAI AI_X <sub>⭐ 5.6k · Python</sub>
+- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - 语言学习的媒体播放器,配有双字幕,AI生成字幕,实时翻译等!. <sub>⭐ 4.3k · C#</sub>
+- [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Fraster-Whisper 独立可执行文件,用于不愿打扰Python的人. <sub>⭐ 3.2k</sub>
+- [pluja/whishper](https://github.com/pluja/whishper) - 将任何音频转换为文本,翻译和编辑字幕100%的本地用网络UI. Powered by smession models! <sub>⭐ 3.1k · Svelte</sub>
+- [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT 字幕生成器. 使用Qwen3-ASR,本地LLM,Whisper,TEN-VAD. 噪声-robust for JAV <sub>⭐ 2.3k · Python</sub>
+- [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - 自动生成并覆盖任何视频的字幕. <sub>⭐ 2.3k · Python</sub>
+- [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - 让克劳德(或任何LLM)从一个URL或本地文件上实际观看一段视频——场景感知,变质帧+记录稿. Runs local, MIT. <sub>⭐ 2.2k · Python</sub>
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - 自动翻译基于字幕文件的视频文本,然后使用AI语音服务来创建一个新的配音和翻译音频音轨,其中语音使用字幕的同步. . <sub>⭐ 1.7k · Python</sub>
+- [Ayanaminn/N46Whisper](https://github.com/Ayanaminn/N46Whisper) - 基于 Whisper 的日本字幕生成器 <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 使用 LLM 翻译字幕 <sub>⭐ 1.7k · TypeScript</sub>
+- [absadiki/subsai](https://github.com/absadiki/subsai) - 字幕生成工具(Web-UI + CLI + Python 套件),由OpenAI的Whisper及其变体提供动力 <sub>⭐ 1.7k · Python</sub>
+- [McCloudS/subgen](https://github.com/McCloudS/subgen) - 使用 OpenAI Whisper 模型通过 Jellyfin, Plex, Emby, Tautulli 或 Bazar 自动生成字幕 <sub>⭐ 1.5k · Python</sub>
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - 使用 OpenAI 的微声自动生成 YouTube 字幕 <sub>⭐ 1.4k · Python</sub>
+- [veedstudio/open-edit](https://github.com/veedstudio/open-edit) - 开源,代理驱动的编辑管道:创建字幕,运动图形,幻灯片,编辑和渲染视频. <sub>⭐ 1.4k · TypeScript</sub>
+- [zarazhangrui/youtube-digest](https://github.com/zarazhangrui/youtube-digest) - 将YouTube的视频转换成深层次的学习资源,并配有文字记录、双语翻译、AI综述、解释和注释。带上自己的钥匙。 <sub>⭐ 1.4k · JavaScript</sub>
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - 多后端低语程序, 快速闪烁、 优化 Mac- arm 。 容易安装。 输入本地文件或 URL, 此服务将使用 Whisper AI 进行转录。 完全私有和自由 <sub>⭐ 1.4k · Python</sub>
+- [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - 自动字幕同步工具. <sub>⭐ 1.2k · Python</sub>
+- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - 任何文件 — 清除 AI 代理的 Markdown : PDF, Word, PowerPoint, Excel, EPUB, HTML 和网页, 图像( OCR), 音频和视频( 元数据, 字幕, 记录稿) 。 一个快速 Rust MCP 服务器和 CLI 的... <sub>⭐ 1.0k · Rust</sub>
+- [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - 从视频中生成字幕、摘要和章节( 秒) <sub>⭐ 868 · PHP</sub>
+- [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - 用用户友好的UI生成音频和视频内容的文字记录,由Open AI Whisper提供自动翻译的动力,并自动使用yt-dlp集成下载视频. <sub>⭐ 803 · JavaScript</sub>
+- [Blue-B/WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - 一个免费的本地桌面应用程序,从视频中提取字幕(SRT),并将其翻译为任何语言——无限使用,没有注册,没有云. <sub>⭐ 770 · JavaScript</sub>
+- [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - 轻松地拿整个YouTube播放列表,并用Whisper转换成高质量的录音记录. <sub>⭐ 693 · Python</sub>
+- [bbc/react-transcript-editor](https://github.com/bbc/react-transcript-editor) - 一个反应组件,使自动校正音频和视频的转录更加容易和更快。 <sub>⭐ 620 · JavaScript</sub>
+- [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - 遗留YouDub AI视频翻译和语音克隆管道 积极发展在YouDub WebUI继续. <sub>⭐ 616 · Python</sub>
+- [dsymbol/decipher](https://github.com/dsymbol/decipher) - 在您的视频中不费吹灰之力地添加人工智能生成的字幕 <sub>⭐ 545 · Python</sub>
+- [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - 公开源码音频和视频转录软件 <sub>⭐ 517 · TypeScript</sub>
+- [showlab/livecc](https://github.com/showlab/livecc) - LIVCC: 学习视频LLM 并按规模流传语音转写(CVPR 2025) <sub>⭐ 479 · Python</sub>
+- [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero字幕机是一个开源,跨平台,免费字幕编辑软件. <sub>⭐ 467 · Pascal</sub>
+- [RayFernando1337/MLX-Auto-Subtitled-Video-Generator](https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator) - 使用 Apple 的 MLX 框架生成准确的文字记录 <sub>⭐ 464 · Python</sub>
+- [OpenNewsLabs/autoEdit_2](https://github.com/OpenNewsLabs/autoEdit_2) - 基于文字的快速视频编辑,节点Electron Os X桌面应用,并带有Backbone前端. <sub>⭐ 457 · JavaScript</sub>
+- [Softcatala/open-dubbing](https://github.com/Softcatala/open-dubbing) - Open dubbing是一个AI dibbbing系统,它使用机器学习模型将音频对话框自动翻译和同步到不同语言. <sub>⭐ 433 · Python</sub>
+- [NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper) - SoftWhisper使用强大的Whisper模式简化音频和视频的转录,轻松选择自定义模型,语言,任务,通过梁大小调整对转录进行微调,以及. <sub>⭐ 421 · Python</sub>
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - YouTube 带 OpenAI Whiper 的视频转录 <sub>⭐ 419 · Jupyter Notebook</sub>
+- [ptnghia-j/ChordMiniApp](https://github.com/ptnghia-j/ChordMiniApp) - 音乐分析、弦识别、Beat跟踪、吉他图谱、钢琴视觉器、Lyrics Transcription应用程序、上传音频和YouTube视频的分析背景感LLM推论 <sub>⭐ 402 · TypeScript</sub>
+- [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - 使用Whisper和DeepL将音频转换成文本. <sub>⭐ 397 · Jupyter Notebook</sub>
+- [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - 基于 ChatGPT 或 OpenAI 兼容的 LLM 聊天补全 API 的有效翻译工具 <sub>⭐ 390 · JavaScript</sub>
+- [dmtrKovalenko/subtitler](https://github.com/dmtrKovalenko/subtitler) - 音频转录和渲染字幕的免费在线网络应用 <sub>⭐ 379 · ReScript</sub>
+- [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 由 OpenAI 的微声模式驱动的终极剪辑 Pro Powered 自动说明 <sub>⭐ 368 · Swift</sub>
+- [JimLiu/whisper-subtitles](https://github.com/JimLiu/whisper-subtitles) - 苹果PodCast Transcript 带有 OpenAI 的低调 <sub>⭐ 348 · Jupyter Notebook</sub>
+- [pmarreck/yt-transcriber](https://github.com/pmarreck/yt-transcriber) - CLI app - 给它一个YouTube URL,你得到一个抄录,可能的话语识别和可选摘要或翻译,都归功于开源AI工具,以及我不够免费...... <sub>⭐ 337 · Shell</sub>
+- [notepower2k1/CapCap](https://github.com/notepower2k1/CapCap) - CapCap是一个用于短式视频本地化和假冒的Windows桌面应用程序,它将转录,翻译,字幕造型,语音生成,时间线编辑,预览,导出到一个... <sub>⭐ 335 · Python</sub>
+- [sayksii/Aria](https://github.com/sayksii/Aria) - ARIA - AI实时智能音频/通用实时AI为Windows配字幕 <sub>⭐ 331 · Python</sub>
+- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - 一个用现代AI语音合成,Diarization,和语音克隆来形容非英语媒体的程序!. <sub>⭐ 324 · Python</sub>
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - 自办的网络应用程序,可以使用OpenAI的Whisper模式将音频转换成字幕 <sub>⭐ 323 · Python</sub>
+- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - AI-动力的YouTube视频配音管道. 自动转录(Whisper),翻译(Google),并生成具有智能音频视频同步和背景的神经配音(Edge-TTS)...... <sub>⭐ 304 · Python</sub>
+- [kouhxp/yapsnap](https://github.com/kouhxp/yapsnap) - 将任何视频 URL 或音频文件转换为纯文本。 没有 GPU, 没有云, 一个命令 。 <sub>⭐ 298 · Python</sub>
+- [Moh4696/freecut](https://github.com/Moh4696/freecut) - 浏览器-使用/视频-使用叉与付费的11Labs依赖替换为免费,可插件(默认情况下本地Whisper;用于对位化的VibeVoice-ASR). <sub>⭐ 279 · Python</sub>
+- [yuvraj108c/ComfyUI-Whisper](https://github.com/yuvraj108c/ComfyUI-Whisper) - 在 ComfyUI 中使用 Whisper 将音频转换并添加字幕到视频中 <sub>⭐ 274 · Python</sub>
+- [mbzuai-oryx/Video-LLaVA](https://github.com/mbzuai-oryx/Video-LLaVA) - PG-Video-LLAVA:大型多式联运视频模型中的像素定位 <sub>⭐ 263 · Python</sub>
+- [sonpiaz/watch-cli](https://github.com/sonpiaz/watch-cli) - 给予任何社交视频的编码代理耳目:时间标框加抄本,比将整个文件发送到多式联运API便宜约50x. <sub>⭐ 254 · Shell</sub>
+- [YYuX-1145/Srt-AI-Voice-Assistant](https://github.com/YYuX-1145/Srt-AI-Voice-Assistant) - 字幕配多个 TTS 引擎 <sub>⭐ 254 · Python</sub>
+- [nganlinh4/oneclick-subtitles-generator](https://github.com/nganlinh4/oneclick-subtitles-generator) - 自动字幕视频,包含AI的抄写,翻译,语音克隆,专业渲染,背景图像和音乐生成器. <sub>⭐ 241 · JavaScript</sub>
+- [lewangdev/autotranslate](https://github.com/lewangdev/autotranslate) - 视频转写和翻译,使用更快的Whisper和ChatGPT <sub>⭐ 235 · Jupyter Notebook</sub>
+- [matheusbach/legen](https://github.com/matheusbach/legen) - 使用AI从媒体文件中本地翻译语音,生成字幕文件,翻译生成的字幕,插入mp4容器,直接烧成视频 <sub>⭐ 234 · Python</sub>
+- [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & 命令行工具, 方便将基于语音的视频文件转换成干净文本 <sub>⭐ 229 · Jupyter Notebook</sub>
+- [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - 来自多个来源的视频 AI summarization(YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, 和当地文件). <sub>⭐ 225 · Python</sub>
+- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - 从 Markdown 链接音频文件创建高质量转录的 Obsidian 插件 <sub>⭐ 224 · TypeScript</sub>
+- [fictions-ai/autocaption](https://github.com/fictions-ai/autocaption) - 向任何视频添加标题 <sub>⭐ 212 · Python</sub>
+- [ALBEDO-TABAI/video-copy-analyzer](https://github.com/ALBEDO-TABAI/video-copy-analyzer) - 视频复制分析器 - 人工智能的视频复制和复制分析技能 <sub>⭐ 209 · Python</sub>
+- [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) - 开源AI视频配音工作室,成本为0.1美元/分(~20x比"十一板","拉斯克"或"Speechify"等替代品便宜). <sub>⭐ 208 · TypeScript</sub>
+- [tanpreetjolly/browser-whisper](https://github.com/tanpreetjolly/browser-whisper) - 国家防范机制图书馆将音频和视频完全输入浏览器,使用WebGPU和WebCodecs。 <sub>⭐ 203 · TypeScript</sub>
+- [mldljyh/whisper_real_time_translation](https://github.com/mldljyh/whisper_real_time_translation) - 字幕和译名以实时方式生成,并以弹出形式显示. <sub>⭐ 199 · Python</sub>
+- [botbahlul/PyAutoSRT](https://github.com/botbahlul/PyAutoSRT) - PySimpleGUI基于DESKTOP AP给 AUTO GENERATE SUBTITLE FILE(使用免费的Google语音识别API)和TRANSLITED SUBTITLE FILE(使用非官方在线Google Translate API),用于任何视频或. <sub>⭐ 191 · Python</sub>
+- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - 一个将音频或视频文件转换成文字记录并生成简明会议记录的工具。在您的会议中保持组织有序和高效,并为第二阶段做好准备,届时我们将开放... <sub>⭐ 175 · Python</sub>
+- [nomadkaraoke/karaoke-gen](https://github.com/nomadkaraoke/karaoke-gen) - 生成卡拉OK视频,通过下载音频和歌词,分离器件,使用抄录模型同步歌词,渲染CDG以及将视频上传到YouTube/Dropbox/Google... <sub>⭐ 174 · Python</sub>
+- [EtienneAb3d/WhisperTimeSync](https://github.com/EtienneAb3d/WhisperTimeSync) - 将Whisper的时间戳与现有的准确的抄本同步 <sub>⭐ 167 · Java</sub>
+- [pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall) - AgentCall让AI Agents加入配有语音,视频和屏幕共享的会话一起构建. 支持Google Meet, Teams, Zoom (Beta) <sub>⭐ 163 · Python</sub>
+- [javedali99/audio-to-text-transcription](https://github.com/javedali99/audio-to-text-transcription) - 此寄存器包含一个Python脚本,允许用户从YouTube视频下载音频,将其转录为文本,检测语言,并将抄录内容保存在txt文件中. . <sub>⭐ 160 · Python</sub>
+- [tsmdt/whisply](https://github.com/tsmdt/whisply) - 快速,跨平台的CLI和GUI用于批量的抄写,翻译,扬声器注释和字幕生成,使用OpenAI在CPU上的Whisper,Nvidia GPU和Apple MLX. <sub>⭐ 160 · Python</sub>
+- [artbyjazi/autoclip](https://github.com/artbyjazi/autoclip) - 开源,本地首款AI视频剪辑机。 长视频, 字幕烧焦的扬声器, 轨迹9: 16 剪辑。 完全脱线, 用 Whisper + Ollama, 或带自己的 API 密钥 。 <sub>⭐ 159 · Python</sub>
+- [BrendownFerreira/transcriber](https://github.com/BrendownFerreira/transcriber) - 与Whisper合唱的音频和视频的AI动力转录——自办,快速,开源. <sub>⭐ 147 · Python</sub>
+- [coaxk/subarr](https://github.com/coaxk/subarr) - 亚种从未有过的协调、测量和质量层。为*arr家族提供的对等服务,增加了校准的音频语言检测、提供者成功引导板和(v1.1)一个... <sub>⭐ 145 · Python</sub>
+- [timoncool/dub-studio](https://github.com/timoncool/dub-studio) - Windows的免费脱线AI视频配音工作室——语音克隆,翻译,字幕和屏幕上文本本地化. 100%本地化,一个本地化的.exe,0Python. <sub>⭐ 142 · Rust</sub>
+- [mathiaschu/watch](https://github.com/mathiaschu/watch) - 给克劳德一个视频输入. / watch下载自YouTube/Instagram/X/Vimeo/任何yt-dlp网站,提取帧,并用mlx-whisper——没有API密钥本地转录. Fork of bradautomates/claude-video. <sub>⭐ 138 · Python</sub>
+- [BatuhanYilmaz26/Auto-Subtitled-Video-Generator](https://github.com/BatuhanYilmaz26/Auto-Subtitled-Video-Generator) - 输入YouTube视频链接或上传视频文件,并获得带字幕的视频. <sub>⭐ 136 · Python</sub>
+- [medahmedkrichen/ViDubb](https://github.com/medahmedkrichen/ViDubb) - AI 视频配音 / 配音 / 配音 / 配音 / 配音 <sub>⭐ 134 · Jupyter Notebook</sub>
+- [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) - 13 Claude Code 制作视频的技能(trancis / translate / dub / multicam / 字幕/ 重订) + WeChat 出版. 兼容 Claude Code, OpenAI Codex CLI, cursor,双子座. <sub>⭐ 130 · Python</sub>
+- [cbro33/Faster-Whisper-XXL-GUI](https://github.com/cbro33/Faster-Whisper-XXL-GUI) - 用于S更快的Whisper%L复制工具的GUI:下载YouTube音频,转录本地文件,管理模型,并导出多种格式,带有主题和自动yt_dlp更新. <sub>⭐ 128 · Python</sub>
+- [DataAnts-AI/VideoTranscriber](https://github.com/DataAnts-AI/VideoTranscriber) - 处理OBS录音(或任何视频文件),并使用基于AI的转录和总结. <sub>⭐ 126 · Python</sub>
+- [fancydirty/subtitle-scout](https://github.com/fancydirty/subtitle-scout) - 一个以LLM代理为核心的自办字幕自动化系统——它可以识别你的媒体,判断每个候选人是否属于准确的插曲,安装适合的插曲,以及. <sub>⭐ 123 · TypeScript</sub>
+- [hlamba28/Automatic-Image-Captioning](https://github.com/hlamba28/Automatic-Image-Captioning) - 使用深层学习生成图像说明 <sub>⭐ 122 · Jupyter Notebook</sub>
+- [AI4Bharat/Chitralekha](https://github.com/AI4Bharat/Chitralekha) - Chitralekha -- -- 印地语视频转录平台,支持转录、翻译和语音 <sub>⭐ 119</sub>
+- [Recordscript/recordscript](https://github.com/Recordscript/recordscript) - 跨平台屏幕录制器,音符,字幕. 使用Tauri & Whisper-rs(rust port of lews.cpp)构建 <sub>⭐ 119 · Rust</sub>
+- [kapitalismho/PuriPuly-heart](https://github.com/kapitalismho/PuriPuly-heart) - VRChat 的实时双向语音翻译器——基于 LLM, VR 字幕覆盖和 OSC <sub>⭐ 117 · Python</sub>
+- [kar2phi/video-lens](https://github.com/kar2phi/video-lens) - video-lens是一种编码代理技能,可以获取YouTube的笔录并生成结构化的HTML报告:执行摘要,关键点,分析,取材,时间戳主题大纲,以及一个. <sub>⭐ 112 · Python</sub>
+- [VjayC/SRT-Subtitle-Translator-Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - 一个跨平台桌面和网络应用,通过CLIProxyAPI,使用您现有的LLM订阅(Gemini, ChatGPT, Claude等)翻译和验证SRT字幕 - 不需要API密钥. <sub>⭐ 110 · TypeScript</sub>
+- [GhostNaN/whisper-subs](https://github.com/GhostNaN/whisper-subs) - WhisperSubs是一个mpv lua脚本,用于在运行时生成字幕,在Linux上使用Whisper.cpp <sub>⭐ 108 · Lua</sub>
+- [drpwchen/lecture-to-notes](https://github.com/drpwchen/lecture-to-notes) - 讲座录音 — 结构化的禁制笔记+ 同步的 HTML 查看器: 视频, 时间戳记录和一页的编译摘要. 本地 GPU 管道( Whisper ASR – 幻灯片提取 → OCR ~ VLM...) <sub>⭐ 106 · Python</sub>
+- [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - 使用 Whisper 本地 AI 驱动字幕生成的 Jellyfin 插件 - 所有处理都留在您的服务器上 <sub>⭐ 106 · C#</sub>
+- [arashsajjadi/ai-powered-video-analyzer](https://github.com/arashsajjadi/ai-powered-video-analyzer) - 一个离线的AI动力视频分析工具,它具有对象检测(YOLO),图像字幕(BLIP),语音转录(Whisper),音频事件检测(PANN),以及AI生成摘要(LLMs通过. <sub>⭐ 105 · Python</sub>
+- [deusjin/subforge](https://github.com/deusjin/subforge) - 用于AI字幕工作流程的 Rust CLI:转录,片段,翻译,评价,以及烧制或mus字幕. <sub>⭐ 104 · Rust</sub>
+- [machinelearningZH/audio-transcription](https://github.com/machinelearningZH/audio-transcription) - 输入任何音频或视频文件。编辑并查看独立 HTML 编辑器中的文本。 <sub>⭐ 99 · Python</sub>
+- [dduongtrandai/LA-Studio](https://github.com/dduongtrandai/LA-Studio) - LA Studio是本地首个AI音频平台,用于探索,下载,测试语音对文本,文字对语音,语音克隆模型. <sub>⭐ 97 · C++</sub>
+- [build-with-groq/groq-subtitle-generator](https://github.com/build-with-groq/groq-subtitle-generator) - 使用Whisper和Qune3-32b通过Groq的闪电快推法在几分钟内用各种语言创建字幕. <sub>⭐ 95 · Python</sub>
+- [Doriandarko/Insanely-Fast-Transcription](https://github.com/Doriandarko/Insanely-Fast-Transcription) - 疯狂的快速转录:一个基于Python的用于从YouTube视频或本地文件快速音频转录的功能. Leverages GPU加速(CUDA/MPS)和Whisper大V3模式用于... <sub>⭐ 95 · Python</sub>
+- [aadeshkulkarni/sanchay-ai](https://github.com/aadeshkulkarni/sanchay-ai) - 取下你的视频,生成视频标题,描述,标签,抄录,字幕等等. <sub>⭐ 94 · Python</sub>
+- [hathix/youtube-transcriber](https://github.com/hathix/youtube-transcriber) - 自动转录YouTube视频 <sub>⭐ 92 · Jupyter Notebook</sub>
+- [EtienneAb3d/karaok-AI](https://github.com/EtienneAb3d/karaok-AI) - Karaoke Player / 编辑器, 使用声调和歌词提取自任意歌曲文件中自动创建的剪辑( Speech- to- Text) <sub>⭐ 90 · Java</sub>
+- [nestyme/Subtitles-generator](https://github.com/nestyme/Subtitles-generator) - 从链接生成视频记录 <sub>⭐ 88 · Python</sub>
+- [unclecode/hermes](https://github.com/unclecode/hermes) - Hermes: 由AI神助发的闪亮快视频转录! 使用Groq的LPU在短短1秒内将6.5分钟的视频转录. 选择您的转录神: MLX Whisper (本地), Groq (速度... <sub>⭐ 88 · Python</sub>
+- [crafter-station/trx](https://github.com/crafter-station/trx) - 通过Whisper进行音频/视频转录的代理首个CLI <sub>⭐ 85 · TypeScript</sub>
+- [GewoonJaap/WinWhisper](https://github.com/GewoonJaap/WinWhisper) - 轻松创建字幕, 使用 Whisper AI 用于 Windows <sub>⭐ 85 · C#</sub>
+- [guimatheus92/mcp-video-analyzer](https://github.com/guimatheus92/mcp-video-analyzer) - 将任何视频——YouTube,Instagram,TikTok,Loom,X,Vimeo,直接URL,本地文件——转换成记录誊本的MCP服务器,键框,OCR文本,以及AI代理的元数据. <sub>⭐ 84 · TypeScript</sub>
+- [JonathanFly/faster-whisper-livestream-translator](https://github.com/JonathanFly/faster-whisper-livestream-translator) - 更快的低音直播流翻译,OBS噪声减少,双语言字幕 <sub>⭐ 84 · Python</sub>
+- [mutonby/vibetube](https://github.com/mutonby/vibetube) - macOS的桌面多摄像头记录器:同步记录您的屏幕和网络摄像头,然后克劳德代码或Codex编辑最终的视频——拍摄选择,字幕,图形和SFX. <sub>⭐ 84 · JavaScript</sub>
 
 ## 🎬 视频生成
 
 > 文本生成视频、图像生成视频的模型与工作流。
 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. <sub>⭐ 34.6k · Python</sub>
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT… <sub>⭐ 29.5k · JavaScript</sub>
-- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical! <sub>⭐ 17.3k · Python</sub>
-- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. <sub>⭐ 15.6k · C</sub>
-- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023) <sub>⭐ 13.1k · Python</sub>
-- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model <sub>⭐ 12.6k · Python</sub>
-- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" <sub>⭐ 12.5k · Python</sub>
-- [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities <sub>⭐ 8.9k · Python</sub>
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos <sub>⭐ 8.2k · Python</sub>
-- [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation <sub>⭐ 8.0k · Python</sub>
-- [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions <sub>⭐ 7.6k</sub>
-- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic : Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image… <sub>⭐ 7.5k · Jupyter Notebook</sub>
-- [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) - An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export. <sub>⭐ 6.6k · Python</sub>
-- [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, and various other applications. <sub>⭐ 5.8k</sub>
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks. <sub>⭐ 5.7k · Python</sub>
-- [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes. <sub>⭐ 5.5k · Less</sub>
-- [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2) - OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark <sub>⭐ 5.2k · Python</sub>
-- [AILab-CVC/VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models <sub>⭐ 5.1k · Python</sub>
-- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts <sub>⭐ 4.7k · Python</sub>
-- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming. <sub>⭐ 4.6k · C++</sub>
-- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: A leading lightweight video generation model <sub>⭐ 4.6k · Python</sub>
-- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation. <sub>⭐ 4.5k · Python</sub>
-- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - (ICCV 2023) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation <sub>⭐ 4.4k · Python</sub>
-- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - (ICCV 2023 Oral) Text-to-Image Diffusion Models are Zero-Shot Video Generators <sub>⭐ 4.2k · Python</sub>
-- [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI <sub>⭐ 4.2k · Python</sub>
-- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation. <sub>⭐ 4.1k · Jupyter Notebook</sub>
-- [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. <sub>⭐ 4.0k · Jupyter Notebook</sub>
-- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - (ICLR2025, ICML2025, NeurIPS2025 Spotlight) Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models. <sub>⭐ 4.0k · Cuda</sub>
-- [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. <sub>⭐ 4.0k · TypeScript</sub>
-- [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models <sub>⭐ 3.9k · Python</sub>
-- [SandAI-org/MAGI-1](https://github.com/SandAI-org/MAGI-1) - MAGI-1: Autoregressive Video Generation at Scale <sub>⭐ 3.8k · Python</sub>
-- [genmoai/mochi](https://github.com/genmoai/mochi) - The best OSS video generation models, created by Genmo <sub>⭐ 3.7k · Python</sub>
-- [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing) - Official codebase for "Self Forcing: Bridging Training and Inference in Autoregressive Video Diffusion" (NeurIPS 2025 Spotlight) <sub>⭐ 3.5k · Python</sub>
-- [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every… <sub>⭐ 3.4k · JavaScript</sub>
-- [ali-vilab/VGen](https://github.com/ali-vilab/VGen) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models <sub>⭐ 3.2k · Python</sub>
-- [Doubiiu/DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - (ECCV 2024, Oral) DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors <sub>⭐ 3.0k · Python</sub>
-- [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - (NeurIPS 2025) Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation <sub>⭐ 3.0k · Python</sub>
-- [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - (SIGGRAPH Asia 2023) Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation <sub>⭐ 3.0k · Jupyter Notebook</sub>
-- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward image/video/audio diffusion models. <sub>⭐ 2.9k · Python</sub>
-- [Saiyan-World/goku](https://github.com/Saiyan-World/goku) - (CVPR2025 Highlight) Video Generation Foundation Models: https://saiyan-world.github.io/goku <sub>⭐ 2.9k · Python</sub>
-- [numz/ComfyUI-SeedVR2_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI <sub>⭐ 2.9k · Python</sub>
-- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) - Lightweight Image Video Action Generation Inference Framework <sub>⭐ 2.9k · Python</sub>
-- [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising <sub>⭐ 2.8k · Python</sub>
-- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool <sub>⭐ 2.8k · Python</sub>
-- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses… <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [Tencent/MimicMotion](https://github.com/Tencent/MimicMotion) - High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance <sub>⭐ 2.7k · Python</sub>
-- [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them. <sub>⭐ 2.7k · Python</sub>
-- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes… <sub>⭐ 2.6k · Shell</sub>
-- [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - (ICLR 26 Oral) Stable Video Infinity: Infinite-Length Video Generation with Error Recycling <sub>⭐ 2.6k · Python</sub>
-- [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models <sub>⭐ 2.5k · Python</sub>
-- [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model. <sub>⭐ 2.4k · TypeScript</sub>
-- [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers <sub>⭐ 2.4k · Python</sub>
-- [6174/comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology. <sub>⭐ 2.3k · TypeScript</sub>
-- [ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) - (CSUR) A Survey on Video Diffusion Models <sub>⭐ 2.3k</sub>
-- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free) <sub>⭐ 2.3k</sub>
-- [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion <sub>⭐ 2.3k · Python</sub>
-- [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios) - Helios: Real Real-Time Long Video Generation Model <sub>⭐ 2.2k · Python</sub>
-- [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). <sub>⭐ 2.1k · HTML</sub>
-- [showlab/Code2Video](https://github.com/showlab/Code2Video) - (ICML 2026) Video generation via code <sub>⭐ 2.1k · Python</sub>
-- [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) - 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows. <sub>⭐ 2.1k · TypeScript</sub>
-- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related… <sub>⭐ 2.0k · Python</sub>
-- [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation <sub>⭐ 2.0k · Python</sub>
-- [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch <sub>⭐ 2.0k · Python</sub>
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech… <sub>⭐ 2.0k · Python</sub>
-- [Vchitect/Latte](https://github.com/Vchitect/Latte) - (TMLR 2025) Latte: Latent Diffusion Transformer for Video Generation. <sub>⭐ 1.9k · Python</sub>
-- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing… <sub>⭐ 1.9k · Python</sub>
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. <sub>⭐ 1.9k · TypeScript</sub>
-- [LingyiChen-AI/AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design, storyboarding, and video synthesis. <sub>⭐ 1.9k · TypeScript</sub>
-- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - (CVPR 2026) Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny… <sub>⭐ 1.9k · Python</sub>
-- [Tencent-Hunyuan/HunyuanVideo-I2V](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) - HunyuanVideo-I2V: A Customizable Image-to-Video Model based on HunyuanVideo <sub>⭐ 1.8k · Python</sub>
-- [Daisy-Zhang/Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) - A list of tools, papers and code related to Deepfake Detection. <sub>⭐ 1.8k</sub>
-- [Vchitect/VBench](https://github.com/Vchitect/VBench) - (CVPR2024 Highlight) VBench - We Evaluate Video Generation <sub>⭐ 1.8k · Python</sub>
-- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. <sub>⭐ 1.7k · Zig</sub>
-- [omerbt/TokenFlow](https://github.com/omerbt/TokenFlow) - Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" (ICLR 2024) <sub>⭐ 1.7k · Python</sub>
-- [JIA-Lab-research/ControlNeXt](https://github.com/JIA-Lab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA <sub>⭐ 1.6k · Python</sub>
-- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image… <sub>⭐ 1.6k · Go</sub>
-- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation… <sub>⭐ 1.6k · Python</sub>
-- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - (CVPR 2025) StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text <sub>⭐ 1.6k · Python</sub>
-- [Drexubery/ViewCrafter](https://github.com/Drexubery/ViewCrafter) - (TPAMI 2025) ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis <sub>⭐ 1.6k · Python</sub>
-- [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction. <sub>⭐ 1.6k · Python</sub>
-- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs. <sub>⭐ 1.6k · Python</sub>
-- [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - Images to 3D parallax videos <sub>⭐ 1.6k · Python</sub>
-- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. <sub>⭐ 1.5k · Python</sub>
-- [Phantom-video/Phantom](https://github.com/Phantom-video/Phantom) - Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment <sub>⭐ 1.5k · Python</sub>
-- [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab <sub>⭐ 1.5k · Jupyter Notebook</sub>
-- [NJU-PCALab/STAR](https://github.com/NJU-PCALab/STAR) - (ICCV 2025) STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution <sub>⭐ 1.5k · Python</sub>
-- [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - (CVPR 2024) Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution <sub>⭐ 1.5k · Python</sub>
-- [tianweiy/CausVid](https://github.com/tianweiy/CausVid) - (CVPR 2025) From Slow Bidirectional to Fast Autoregressive Video Diffusion Models <sub>⭐ 1.4k · Python</sub>
-- [wenhaochai/StableVideo](https://github.com/wenhaochai/StableVideo) - (ICCV 2023) StableVideo: Text-driven Consistency-aware Diffusion Video Editing <sub>⭐ 1.4k · Python</sub>
-- [Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator) - (CVPR2025) We present StableAnimator, the first end-to-end ID-preserving video diffusion framework, which synthesizes high-quality videos without any post-processing, conditioned on a reference image… <sub>⭐ 1.4k · Python</sub>
-- [nv-tlabs/GEN3C](https://github.com/nv-tlabs/GEN3C) - (CVPR 2025 Highlight) GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control <sub>⭐ 1.4k · Jupyter Notebook</sub>
-- [fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3) - (CVPR 2025) Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer <sub>⭐ 1.4k · Python</sub>
-- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch <sub>⭐ 1.4k · Python</sub>
-- [ali-vilab/TeaCache](https://github.com/ali-vilab/TeaCache) - Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model <sub>⭐ 1.4k · Python</sub>
-- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy <sub>⭐ 1.4k · Python</sub>
-- [mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose) - (AAAI 2024) Follow-Your-Pose: This repo is the official implementation of "Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos" <sub>⭐ 1.4k · Python</sub>
-- [zanllp/infinite-image-browsing](https://github.com/zanllp/infinite-image-browsing) - A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as… <sub>⭐ 1.4k · Vue</sub>
-- [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing. <sub>⭐ 1.3k · Python</sub>
-- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - (TPAMI 2025 ) MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators <sub>⭐ 1.3k · Python</sub>
-- [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - (ICCV'25)DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion <sub>⭐ 1.3k · Python</sub>
-- [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video) - Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies <sub>⭐ 1.3k · Python</sub>
-- [Francis-Rings/StableAvatar](https://github.com/Francis-Rings/StableAvatar) - (NeurIPS2026) We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing… <sub>⭐ 1.3k · Python</sub>
-- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and video, up to 5x faster than OpenAI CLIP and LLaVA & <sub>⭐ 1.3k · Python</sub>
-- [alibaba/Tora](https://github.com/alibaba/Tora) - (CVPR'25)Tora: Trajectory-oriented Diffusion Transformer for Video Generation <sub>⭐ 1.2k · Python</sub>
-- [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation <sub>⭐ 1.2k · Python</sub>
-- [ali-vilab/UniAnimate](https://github.com/ali-vilab/UniAnimate) - Code for SCIS-2025 Paper "UniAnimate: Taming Unified Video Diﬀusion Models for Consistent Human Image Animation". <sub>⭐ 1.2k · Python</sub>
-- [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery <sub>⭐ 1.2k · JavaScript</sub>
-- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free. <sub>⭐ 1.2k · C++</sub>
-- [CyberAgentAILab/TANGO](https://github.com/CyberAgentAILab/TANGO) - (ICLR 2025 Oral) TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio-Motion Embedding and Diffusion Interpolation <sub>⭐ 1.2k · Python</sub>
-- [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer) - DLSS 5 Neural Rendering for Images & Video with Frame Generation, RTX Video Super Resolution, HDR, and Live Playback <sub>⭐ 1.2k · Python</sub>
-- [all-in-aigc/sorafm](https://github.com/all-in-aigc/sorafm) - Sora AI Video Generator by Sora.FM <sub>⭐ 1.2k · TypeScript</sub>
-- [showlab/Show-1](https://github.com/showlab/Show-1) - (IJCV) Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation <sub>⭐ 1.1k · Python</sub>
-- [rhymes-ai/Allegro](https://github.com/rhymes-ai/Allegro) - Allegro is a powerful text-to-video model that generates high-quality videos up to 6 seconds at 15 FPS and 720p resolution from simple text input. <sub>⭐ 1.1k · Python</sub>
-- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more). <sub>⭐ 1.1k · Python</sub>
-- [ShareGPT4Omni/ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video) - (NeurIPS 2024) An official implementation of "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions" <sub>⭐ 1.1k · Python</sub>
-- [Eyeline-Labs/Go-with-the-Flow](https://github.com/Eyeline-Labs/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise" <sub>⭐ 1.1k · Python</sub>
-- [memoavatar/memo](https://github.com/memoavatar/memo) - (TMLR) Memory-Guided Diffusion for Expressive Talking Video Generation <sub>⭐ 1.1k · Python</sub>
-- [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client <sub>⭐ 1.1k · C</sub>
-- [showlab/MotionDirector](https://github.com/showlab/MotionDirector) - (ECCV 2024 Oral) MotionDirector: Motion Customization of Text-to-Video Diffusion Models. <sub>⭐ 1.1k · Python</sub>
-- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation. <sub>⭐ 1.1k · Python</sub>
-- [SnapXL/SnapX](https://github.com/SnapXL/SnapX) - SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to… <sub>⭐ 1.0k · C#</sub>
-- [tong-io/tongflow](https://github.com/tong-io/tongflow) - Modality-First GenAI Platform <sub>⭐ 1.0k · TypeScript</sub>
-- [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion" <sub>⭐ 1.0k · Python</sub>
-- [harlanhong/CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) - Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation <sub>⭐ 997 · Python</sub>
-- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video.… <sub>⭐ 986 · JavaScript</sub>
-- [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing) - (ICML 2026) Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation" & Causal Forcing++ <sub>⭐ 985 · Python</sub>
-- [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - (ICLR 2024) SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction <sub>⭐ 966 · Python</sub>
-- [ShmuelRonen/ComfyUI-LatentSyncWrapper](https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper) - This node provides lip-sync capabilities in ComfyUI using ByteDance's LatentSync model. It allows you to synchronize video lips with audio input. <sub>⭐ 962 · Python</sub>
-- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities . <sub>⭐ 958 · Python</sub>
-- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) - Industry-level video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation. <sub>⭐ 954</sub>
-- [Vchitect/LaVie](https://github.com/Vchitect/LaVie) - (IJCV 2024) LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models <sub>⭐ 953 · Python</sub>
-- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - GPT for video generation <sub>⭐ 924 · Python</sub>
-- [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models <sub>⭐ 921 · Python</sub>
-- [360CVGroup/FancyVideo](https://github.com/360CVGroup/FancyVideo) - Video generation from text&image, 1st-gen <sub>⭐ 919 · Python</sub>
-- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery. <sub>⭐ 910 · JavaScript</sub>
-- [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) - ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL, Qwen3-VL, Qwen3.5-VL, Qwen3.6-VL (MoE), and Qwen3.8-VL, with GGUF support for advanced multimodal AI in text… <sub>⭐ 900 · Python</sub>
-- [IceClear/SeedVR2](https://github.com/IceClear/SeedVR2) - (ICLR2026) SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training <sub>⭐ 891</sub>
-- [manoloide/AllSketchs](https://github.com/manoloide/AllSketchs) - Processing sketches, in which I have worked in the last years; images, videos, prototypes, experiments, tools, works, concepts... Everything is unfinished, some may not work, When I had no ideas, I… <sub>⭐ 884 · Processing</sub>
-- [TrajectoryCrafter/TrajectoryCrafter](https://github.com/TrajectoryCrafter/TrajectoryCrafter) - (ICCV 2025, Oral) TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models <sub>⭐ 880 · Python</sub>
-- [PKU-YuanGroup/ConsisID](https://github.com/PKU-YuanGroup/ConsisID) - (CVPR 2025 Highlight ) Identity-Preserving Text-to-Video Generation by Frequency Decomposition <sub>⭐ 862 · Python</sub>
-- [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) - (ICLR 2024) Official pytorch implementation of "ControlVideo: Training-free Controllable Text-to-Video Generation" <sub>⭐ 862 · Python</sub>
-- [ali-vilab/UniAnimate-DiT](https://github.com/ali-vilab/UniAnimate-DiT) - UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer <sub>⭐ 854 · Python</sub>
-- [lidge-ai/ima2-gen](https://github.com/lidge-ai/ima2-gen) - Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers. <sub>⭐ 853 · TypeScript</sub>
-- [nv-tlabs/cosmos-transfer1-diffusion-renderer](https://github.com/nv-tlabs/cosmos-transfer1-diffusion-renderer) - Cosmos-Transfer1-DiffusionRenderer: High-quality video de-lighting and re-lighting based on Cosmos video diffusion framework <sub>⭐ 846 · Jupyter Notebook</sub>
-- [IGL-HKUST/DiffusionAsShader](https://github.com/IGL-HKUST/DiffusionAsShader) - (SIGGRAPH 2025) Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control <sub>⭐ 844 · Python</sub>
-- [SamurAIGPT/Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) - Generate video from text using AI <sub>⭐ 835 · Jupyter Notebook</sub>
-- [cporter202/automate-for-growth](https://github.com/cporter202/automate-for-growth) - Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration. <sub>⭐ 829</sub>
-- [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5) - Kandinsky 5.0: A family of diffusion models for Video & Image generation <sub>⭐ 829 · Python</sub>
-- [thu-ml/DiT-Extrapolation](https://github.com/thu-ml/DiT-Extrapolation) - Official implementation for "RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers" (ICML 2025) , UltraViCo (ICLR 2026) and UltraImage <sub>⭐ 829 · Python</sub>
-- [NVlabs/rcm](https://github.com/NVlabs/rcm) - rCM & Causal-rCM: Leading and Unified Algorithms/Infrastructures for Bidirectional/Autoregressive Video Diffusion Distillation at Scale <sub>⭐ 814 · Python</sub>
-- [facebookresearch/eb_jepa](https://github.com/facebookresearch/eb_jepa) - An open source library designed to provide community examples of Joint Embedding Predictive Architectures (JEPAs). It contains code and examples for learning representations from images, video, and… <sub>⭐ 793 · Python</sub>
-- [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementation of Phenaki Video, which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch <sub>⭐ 789 · Python</sub>
-- [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video <sub>⭐ 788 · Python</sub>
-- [AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) - A collection of awesome video generation studies. <sub>⭐ 786 · TeX</sub>
-- [williamyang1991/FRESCO](https://github.com/williamyang1991/FRESCO) - (CVPR 2024) FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation <sub>⭐ 783 · Jupyter Notebook</sub>
-- [s1dashu/director](https://github.com/s1dashu/director) - Direct complete videos with multi-mode workflows for research, scripts, visual development, shot design, media generation, and delivery. <sub>⭐ 782</sub>
-- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose" (Arxiv 2020) and "Predicting Personalized Head Movement From Short Video and Speech Signal" (TMM 2022) <sub>⭐ 770 · Python</sub>
-- [MyNiuuu/MOFA-Video](https://github.com/MyNiuuu/MOFA-Video) - (ECCV 2024) MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model. <sub>⭐ 768 · Python</sub>
-- [dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation) - A TensorFlow Implementation of "Deep Multi-Scale Video Prediction Beyond Mean Square Error" by Mathieu, Couprie & LeCun. <sub>⭐ 749 · Python</sub>
-- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis. <sub>⭐ 746 · Python</sub>
-- [pixeli99/SVD_Xtend](https://github.com/pixeli99/SVD_Xtend) - Stable Video Diffusion Training Code and Extensions. <sub>⭐ 733 · Python</sub>
-- [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM) - Open data and scalable training for long-horizon video world models. <sub>⭐ 732 · Python</sub>
-- [flymin/MagicDrive-V2](https://github.com/flymin/MagicDrive-V2) - (ICCV 2025) Official implementation of the paper “MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control” <sub>⭐ 727 · Python</sub>
-- [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) - A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and… <sub>⭐ 713 · TeX</sub>
-- [SkyworkAI/SkyReels-A2](https://github.com/SkyworkAI/SkyReels-A2) - SkyReels-A2: Compose anything in video diffusion transformers <sub>⭐ 712 · Python</sub>
-- [THU-SI/ReconX](https://github.com/THU-SI/ReconX) - (TIP 2026) ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model <sub>⭐ 711</sub>
-- [kwsong0113/diffusion-forcing-transformer](https://github.com/kwsong0113/diffusion-forcing-transformer) - (ICML 2025) Official PyTorch Implementation of "History-Guided Video Diffusion" <sub>⭐ 710 · Python</sub>
-- [svg-project/Sparse-VideoGen](https://github.com/svg-project/Sparse-VideoGen) - (ICML2025, NeurIPS2025 Spotlight) Sparse VideoGen 1 & 2: Accelerating Video Diffusion Transformers with Sparse Attention <sub>⭐ 709 · Python</sub>
-- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos. <sub>⭐ 707 · TypeScript</sub>
-- [LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler](https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler) - Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp. <sub>⭐ 698 · Python</sub>
-- [lixiaowen-xw/DiffuEraser](https://github.com/lixiaowen-xw/DiffuEraser) - DiffuEraser is a diffusion model for video inpainting, which performs great content completeness and temporal consistency while maintaining acceptable efficiency. <sub>⭐ 695 · Python</sub>
-- [SpenserCai/sd-webui-deoldify](https://github.com/SpenserCai/sd-webui-deoldify) - DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos and old video. It is based on deoldify. <sub>⭐ 695 · Python</sub>
-- [Yaofang-Liu/Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model <sub>⭐ 685 · Python</sub>
-- [bytedance/DreamID-V](https://github.com/bytedance/DreamID-V) - (ECCV 2026 Oral) DreamID-V: Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer <sub>⭐ 683 · Python</sub>
-- [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will be uploaded to YouTube automatically. <sub>⭐ 679 · Python</sub>
-- [xmarre/ComfyUI-Spectrum-MiniMax-H3](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3) - Training-free Spectrum acceleration for ComfyUI’s native MiniMax H3 audio-video model. Uses Chebyshev ridge feature forecasting to skip selected H3 transformer evaluations, with adaptive scheduling… <sub>⭐ 679 · Python</sub>
-- [netaart/comfyui-browser](https://github.com/netaart/comfyui-browser) - An image/video/workflow browser and manager for ComfyUI. <sub>⭐ 678 · Svelte</sub>
-- [baaivision/NOVA](https://github.com/baaivision/NOVA) - (ICLR 2025) Autoregressive Video Generation without Vector Quantization <sub>⭐ 661 · Python</sub>
-- [tetherto/qvac](https://github.com/tetherto/qvac) - Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS… <sub>⭐ 661 · TypeScript</sub>
-- [G-U-N/AnimateLCM](https://github.com/G-U-N/AnimateLCM) - (SIGGRAPH ASIA 2024 TCS) AnimateLCM: Computation-Efficient Personalized Style Video Generation without Personalized Video Data <sub>⭐ 657 · Python</sub>
-- [primepake/wav2lip_288x288](https://github.com/primepake/wav2lip_288x288) - Wav2Lip version 288 and pipeline to train <sub>⭐ 651 · Python</sub>
-- [zju3dv/Diffuman4D](https://github.com/zju3dv/Diffuman4D) - (ICCV 2025) Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models <sub>⭐ 640 · Python</sub>
-- [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) - MAGI-2-preview: Scaling Video Generation Models Efficiently <sub>⭐ 634 · Python</sub>
-- [brooks376/Happy-Horse-1.0](https://github.com/brooks376/Happy-Horse-1.0) - Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io. <sub>⭐ 631</sub>
-- [experience-ml/cartoonize](https://github.com/experience-ml/cartoonize) - A demo webapp to convert images and videos into cartoon! <sub>⭐ 623 · Python</sub>
-- [prs-eth/RollingDepth](https://github.com/prs-eth/RollingDepth) - (CVPR 2025) RollingDepth: Video Depth without Video Models <sub>⭐ 611 · Python</sub>
-- [mit-han-lab/radial-attention](https://github.com/mit-han-lab/radial-attention) - (NeurIPS 2025) Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation <sub>⭐ 607 · Python</sub>
-- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines <sub>⭐ 607 · JavaScript</sub>
-- [sergeytulyakov/mocogan](https://github.com/sergeytulyakov/mocogan) - MoCoGAN: Decomposing Motion and Content for Video Generation <sub>⭐ 604 · Python</sub>
-- [linzhiqiu/t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - Evaluating text-to-image/video/3D models with VQAScore <sub>⭐ 603 · Python</sub>
-- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local LLM, image&video&music generator, vibecode like cursor with local models on your phone <sub>⭐ 602 · C++</sub>
-- [wildminder/awesome-ltx2](https://github.com/wildminder/awesome-ltx2) - All available LTX-2 models, encoders, workflows, LoRAs for ComfyUI <sub>⭐ 597</sub>
-- [vivoCameraResearch/Magic-TryOn](https://github.com/vivoCameraResearch/Magic-TryOn) - MagicTryOn is a video virtual try-on framework based on a large-scale video diffusion Transformer. <sub>⭐ 595 · Python</sub>
-- [ChrisChen667788/wind-comic](https://github.com/ChrisChen667788/wind-comic) - Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax… <sub>⭐ 594 · TypeScript</sub>
-- [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden… <sub>⭐ 594 · Python</sub>
-- [wendell0218/Awesome-RL-for-Video-Generation](https://github.com/wendell0218/Awesome-RL-for-Video-Generation) - A curated list of papers on reinforcement learning for video generation <sub>⭐ 590</sub>
-- [gokayfem/ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes) - ComfyUI nodes for vision-language models: Qwen3-VL, Moondream 3, Florence-2, SmolVLM2, InternVL, Gemma 3, MiniCPM-V. Plus open-vocabulary detection, SAM2/SAM3 segmentation, video temporal reasoning… <sub>⭐ 588 · Python</sub>
-- [SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1) - SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers <sub>⭐ 580 · Python</sub>
-- [Vchitect/VEnhancer](https://github.com/Vchitect/VEnhancer) - Official codes of VEnhancer: Generative Space-Time Enhancement for Video Generation <sub>⭐ 579 · Python</sub>
-- [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) - SkyReels V3: Multimodal Video Generation Model <sub>⭐ 575 · Python</sub>
-- [alibaba-yuanjing-aigclab/ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: Video Virtual Try-on using Diffusion Models <sub>⭐ 568 · Python</sub>
-- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - (ECCV 2024) Officially implement of the paper "DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model". <sub>⭐ 565 · Python</sub>
-- [VideoVerses/VideoTuna](https://github.com/VideoVerses/VideoTuna) - Let's finetune video generation models! <sub>⭐ 555 · Python</sub>
-- [YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio). <sub>⭐ 552 · HTML</sub>
-- [letorig/video-generator-client](https://github.com/letorig/video-generator-client) - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI <sub>⭐ 551 · Python</sub>
-- [lucidrains/nuwa-pytorch](https://github.com/lucidrains/nuwa-pytorch) - Implementation of NÜWA, state of the art attention network for text to video synthesis, in Pytorch <sub>⭐ 547 · Python</sub>
-- [TianxingWu/FreeInit](https://github.com/TianxingWu/FreeInit) - (ECCV 2024) FreeInit: Bridging Initialization Gap in Video Diffusion Models <sub>⭐ 543 · Python</sub>
-- [Leron-X/leronx](https://github.com/Leron-X/leronx) - LeronX — AI Image & Video Generation Platform <sub>⭐ 525 · Python</sub>
-- [heheyas/V3D](https://github.com/heheyas/V3D) - (T-PAMI 2025) V3D: Video Diffusion Models are Effective 3D Generators <sub>⭐ 523 · Python</sub>
-- [Anil-matcha/Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) - AI short drama & micro-drama video generator — turns any idea into a complete short-form drama using multi-agent AI pipeline (screenwriter → storyboard → frames → video). Seedance 2 VIP, Kling 3.0… <sub>⭐ 521 · Python</sub>
-- [ziqihuangg/Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) - A list of works on video generation towards world model <sub>⭐ 520</sub>
-- [logtd/ComfyUI-LTXTricks](https://github.com/logtd/ComfyUI-LTXTricks) - A set of ComfyUI nodes providing additional control for the LTX Video model <sub>⭐ 512 · Python</sub>
-- [YingqingHe/LVDM](https://github.com/YingqingHe/LVDM) - LVDM: Latent Video Diffusion Models for High-Fidelity Long Video Generation <sub>⭐ 506 · Python</sub>
-- [shengshu-ai/Vidu-S](https://github.com/shengshu-ai/Vidu-S) - Vidu S: Real-Time Interactive, Editable, and Spatial Video Generation <sub>⭐ 497</sub>
-- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - a real-time digital-human model for long-form audio-video generation <sub>⭐ 496 · Python</sub>
-- [char0n/ffmpeg-php](https://github.com/char0n/ffmpeg-php) - FFmpegPHP is a pure OO PHP port of ffmpeg-php library that was written in C. It adds an easy to use, object-oriented API for accessing and retrieving information from video and audio files. It has… <sub>⭐ 494 · PHP</sub>
-- [logtd/ComfyUI-HunyuanLoom](https://github.com/logtd/ComfyUI-HunyuanLoom) - A set of nodes to edit videos using the Hunyuan Video model <sub>⭐ 492 · Python</sub>
-- [SamurAIGPT/Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) - Python wrapper for ByteDance's Seedance 2.5 API — Text-to-Video, Image-to-Video, realistic human faces, native 4K, consistent character generation. <sub>⭐ 487 · Python</sub>
-- [jjihwan/FIFO-Diffusion_public](https://github.com/jjihwan/FIFO-Diffusion_public) - Official implementation of FIFO-Diffusion: Generating Infinite Videos from Text without Training (NeurIPS 2024) <sub>⭐ 486 · Python</sub>
-- [FoundationVision/FlashVideo](https://github.com/FoundationVision/FlashVideo) - (AAAI-2026)FlashVideo: Flowing Fidelity to Detail for Efficient High-Resolution Video Generation <sub>⭐ 483 · Python</sub>
-- [Francis-Rings/FlashPortrait](https://github.com/Francis-Rings/FlashPortrait) - (CVPR2026)We present FlashPortrait, an end-to-end video diffusion transformer capable of synthesizing ID-preserving, infinite-length videos while achieving up to 6$\times$ acceleration in inference… <sub>⭐ 479 · Python</sub>
-- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible API, self-hosted, no API key. Reverse-proxies gemini.google.com into /v1/chat/completions: single Go binary, Chrome TLS fingerprint, cookie pool with auto-renewal… <sub>⭐ 476 · Go</sub>
-- [Correr-Zhou/OmniShow](https://github.com/Correr-Zhou/OmniShow) - (ICML 2026) ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation <sub>⭐ 475 · Python</sub>
-- [receptron/mulmocast-cli](https://github.com/receptron/mulmocast-cli) - AI-powered podcast & video generator. <sub>⭐ 475 · TypeScript</sub>
-- [gudaochangsheng/RefAlign](https://github.com/gudaochangsheng/RefAlign) - (ECCV 2026) Official PyTorch implementation of RefAlign: Representation Alignment for Reference-to-Video Generation <sub>⭐ 471 · Python</sub>
-- [NJU-PCALab/OpenVid-1M](https://github.com/NJU-PCALab/OpenVid-1M) - (ICLR 2025) OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation <sub>⭐ 471 · Python</sub>
-- [nihaomiao/CVPR23_LFDM](https://github.com/nihaomiao/CVPR23_LFDM) - The pytorch implementation of our CVPR 2023 paper "Conditional Image-to-Video Generation with Latent Flow Diffusion Models" <sub>⭐ 470 · Python</sub>
-- [harlanhong/ACTalker](https://github.com/harlanhong/ACTalker) - ICCV 2025 ACTalker: an end-to-end video diffusion framework for talking head synthesis that supports both single and multi-signal control (e.g., audio, expression). <sub>⭐ 465 · Python</sub>
-- [lcy362/agnes-video-generator](https://github.com/lcy362/agnes-video-generator) - Open-source, self-hosted AI video generator — completely free. Text to multi-scene video with narration, subtitles, and digital anchor via Web UI, powered by Agnes AI. <sub>⭐ 461 · Python</sub>
-- [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) - This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic… <sub>⭐ 461 · Python</sub>
-- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuze is a state-of-the-art deep learning tool that seamlessly integrates with ComfyUI to revolutionize facial transformations, lipsyncing, Face Swapping, Lipsync Translation, video generation… <sub>⭐ 461 · Python</sub>
-- [TencentARC/RollingForcing](https://github.com/TencentARC/RollingForcing) - (ICLR 2026) Official Repo for Rolling Forcing: Autoregressive Long Video Diffusion in Real Time <sub>⭐ 461 · Python</sub>
-- [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me) - Codes for ID-Specific Video Customized Diffusion <sub>⭐ 459 · Python</sub>
-- [TencentARC/GeometryCrafter](https://github.com/TencentARC/GeometryCrafter) - (ICCV 2025) GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors <sub>⭐ 458 · Python</sub>
-- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - (Tech Report) Alive: A Unified Audio-Video Generation Model <sub>⭐ 457</sub>
-- [bytedance/Video-As-Prompt](https://github.com/bytedance/Video-As-Prompt) - (ICLR 2026) Official repo for paper "Video-As-Prompt: Unified Semantic Control for Video Generation" <sub>⭐ 454 · Python</sub>
-- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - (CVPR'23) MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation <sub>⭐ 453 · Python</sub>
-- [Carasibana/ComfyUI-H3-FaceRefine](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) - Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back. <sub>⭐ 449 · Python</sub>
-- [runjiali-rl/vmem](https://github.com/runjiali-rl/vmem) - (ICCV 2025 highlight ) Implementation of VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory <sub>⭐ 449 · Python</sub>
-- [NVlabs/AnyFlow](https://github.com/NVlabs/AnyFlow) - Flow Map OPD for AnyStep Video Diffusion <sub>⭐ 435 · Python</sub>
-- [microsoft/World-R1](https://github.com/microsoft/World-R1) - (ICML 2026) World-R1: Reinforcing 3D Constraints for Text-to-Video Generation <sub>⭐ 427 · Python</sub>
-- [nv-tlabs/diffusion-renderer](https://github.com/nv-tlabs/diffusion-renderer) - (CVPR'25 Oral) Official implementation for "DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models" <sub>⭐ 427 · Python</sub>
-- [zai-org/VisionReward](https://github.com/zai-org/VisionReward) - (AAAI 2026) VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation <sub>⭐ 427 · Python</sub>
-- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - Official Implementation of 'OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model' <sub>⭐ 425 · Python</sub>
-- [WeChatCV/Wan-Alpha](https://github.com/WeChatCV/Wan-Alpha) - (CVPR 2026 Highlight) High-Quality Text-to-Video Generation with Alpha Channel <sub>⭐ 420 · Python</sub>
-- [Yacey/agnes-ai-generation-skill](https://github.com/Yacey/agnes-ai-generation-skill) - Agent Skill for Agnes AI text, image, and video generation APIs. <sub>⭐ 419 · Python</sub>
-- [ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO) - Better version for BiRefNet in ComfyUI / Both img & video <sub>⭐ 415 · Python</sub>
-- [TheDesignFounder/DreamLayer-Eval](https://github.com/TheDesignFounder/DreamLayer-Eval) - DreamLayer Eval: open-source benchmarking for image and video diffusion models. Automate prompts, seeds, and metrics for reproducible results. A research project from DreamLayer AI (dreamlayer.io). <sub>⭐ 413 · Python</sub>
-- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super… <sub>⭐ 412 · C++</sub>
-- [forence/Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning) - This repository focus on Image Captioning & Video Captioning & Seq-to-Seq Learning & NLP <sub>⭐ 410</sub>
-- [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - (SIGGRAPH Asia 2026) AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model <sub>⭐ 407 · Python</sub>
-- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - (ICCV 2025) Official pytorch implementation of "FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors" <sub>⭐ 406 · Python</sub>
-- [Weifeng-Chen/control-a-video](https://github.com/Weifeng-Chen/control-a-video) - Official Implementation of "Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models" <sub>⭐ 405 · Python</sub>
-- [foo123/FILTER.js](https://github.com/foo123/FILTER.js) - Video and Image Processing and Computer Vision Library similar to OpenCV in pure JavaScript (Browser and Nodejs) <sub>⭐ 399 · JavaScript</sub>
-- [AceDataCloud/Nexior](https://github.com/AceDataCloud/Nexior) - Consumer AI app for chat, image generation, video generation, and music creation powered by Ace Data Cloud APIs. <sub>⭐ 398 · Vue</sub>
-- [rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) - 10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfield. Viral hooks, SaaS demos, personal brand, faceless content, luxury aesthetic & more. <sub>⭐ 398 · Python</sub>
-- [smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR) - FlashVSR：Towards Real-Time Diffusion-Based Streaming Video Super-Resolution，you can use it in comfyUI <sub>⭐ 397 · Python</sub>
-- [gaomingqi/sam-body4d](https://github.com/gaomingqi/sam-body4d) - Training-Free Human Mesh Recovery from Videos, based on SAM-3, Diffusion-VAS, and SAM-3D-Body. <sub>⭐ 396 · Python</sub>
-- [rewbs/sd-parseq](https://github.com/rewbs/sd-parseq) - Parameter sequencer for Stable Diffusion <sub>⭐ 388 · TypeScript</sub>
-- [haochenheheda/segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator) - We developed a python UI based on labelme and segment-anything for pixel-level annotation. It support multiple masks generation by SAM(box/point prompt), efficient polygon modification and category… <sub>⭐ 387 · Python</sub>
-- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation <sub>⭐ 384</sub>
-- [thecooltechguy/ComfyUI-Stable-Video-Diffusion](https://github.com/thecooltechguy/ComfyUI-Stable-Video-Diffusion) - ComfyUI nodes for Stable Video Diffusion <sub>⭐ 374 · Python</sub>
-- [timoncool/ACE-Step-Studio](https://github.com/timoncool/ACE-Step-Studio) - Portable AI music generator — full songs with vocals, covers, music videos. One-click install, 100% offline, NVIDIA GPU. <sub>⭐ 372 · TypeScript</sub>
-- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - Official implementation of MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation (https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
-- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021) <sub>⭐ 369 · Jupyter Notebook</sub>
-- [fudan-generative-vision/OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - (CVPR 2025) A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation <sub>⭐ 364</sub>
-- [scopeInfinity/Video2Description](https://github.com/scopeInfinity/Video2Description) - Video to Text: Natural language description generator for some given video. (Video Captioning) <sub>⭐ 363 · Python</sub>
-- [Scottcjn/bottube](https://github.com/Scottcjn/bottube) - AI-native video platform where autonomous agents create, publish, and earn. Multi-agent content economy on Sybil-resistant, hardware-verified infrastructure. Part of the RustChain DePIN ecosystem. <sub>⭐ 361 · Python</sub>
-- [fudan-generative-vision/Hallo-Live](https://github.com/fudan-generative-vision/Hallo-Live) - (ACM MM 2026) Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation <sub>⭐ 357 · Python</sub>
-- [yjsunnn/DLoRAL](https://github.com/yjsunnn/DLoRAL) - (NeurIPS'25) One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution <sub>⭐ 357 · Python</sub>
-- [yujiwen/AnimateZero](https://github.com/yujiwen/AnimateZero) - Official PyTorch implementation for the paper "AnimateZero: Video Diffusion Models are Zero-Shot Image Animators" <sub>⭐ 357</sub>
-- [baaivision/vid2vid-zero](https://github.com/baaivision/vid2vid-zero) - Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models <sub>⭐ 356 · Python</sub>
-- [zliucz/animate-your-word](https://github.com/zliucz/animate-your-word) - (ICCV'25 Best Paper Candidate) Official Implementations for Paper: Dynamic Typography: Bringing Text to Life via Video Diffusion Prior <sub>⭐ 355 · Python</sub>
-- [THU-SI/VideoScene](https://github.com/THU-SI/VideoScene) - (CVPR 2025 Highlight) VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step <sub>⭐ 354 · Python</sub>
-- [stevenlsw/physgen](https://github.com/stevenlsw/physgen) - PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation (ECCV 2024) <sub>⭐ 353 · Python</sub>
-- [Anil-matcha/Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) - Python wrapper for ByteDance's Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini API — Text-to-Video, Image-to-Video, realistic human faces, 1080p, consistent character generation. <sub>⭐ 352 · Python</sub>
-- [alexchan197611/ai_media_assistant](https://github.com/alexchan197611/ai_media_assistant) - AI-Powered Automate Self-Media Video Generation Tools‌ <sub>⭐ 348 · Python</sub>
-- [VITA-Group/Diffusion4D](https://github.com/VITA-Group/Diffusion4D) - (NeurIPS 2024) Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models <sub>⭐ 347 · Python</sub>
-- [zai-org/RealVideo](https://github.com/zai-org/RealVideo) - A real-time streaming conversational video system that transforms text interactions into continuous, high-fidelity video responses using autoregressive diffusion. <sub>⭐ 344 · Python</sub>
-- [vargHQ/sdk](https://github.com/vargHQ/sdk) - AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK. <sub>⭐ 340 · TypeScript</sub>
-- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - Any source (PDF, video, web, audio, text) to interactive learning package with quizzes, flashcards and spaced repetition. One command, 12-section study guide. <sub>⭐ 336 · Python</sub>
-- [ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp](https://github.com/ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp) - A ComfyUI custom node that integrates Google's Gemini Flash 2.0 Experimental model, enabling multimodal analysis of text, images, video frames, and audio directly within ComfyUI workflows. <sub>⭐ 335 · Python</sub>
-- [zju3dv/street_crafter](https://github.com/zju3dv/street_crafter) - (CVPR 2025) StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models <sub>⭐ 335 · Python</sub>
-- [NickPittas/DirectorsConsole](https://github.com/NickPittas/DirectorsConsole) - A web application for prompt generation and multiple ComfyUI remote and local connections for image and video generation in parallel in an infinite canvas <sub>⭐ 332 · Python</sub>
-- [apiframe-ai/seedance-2.0-api](https://github.com/apiframe-ai/seedance-2.0-api) - Seedance 2.0 API — text-to-video and image-to-video examples <sub>⭐ 330</sub>
-- [FoundationVision/OmniTokenizer](https://github.com/FoundationVision/OmniTokenizer) - (NeurIPS 2024)OmniTokenizer: one model and one weight for image-video joint tokenization. <sub>⭐ 330 · Python</sub>
-- [wzk1015/video-bgm-generation](https://github.com/wzk1015/video-bgm-generation) - (ACM MM 2021 Best Paper Award) Video Background Music Generation with Controllable Music Transformer <sub>⭐ 327 · Python</sub>
-- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) Official codes and datasets for ACM MM24 paper "Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models". <sub>⭐ 327 · Python</sub>
-- [minnie-lin/Awesome-Physics-Cognition-based-Video-Generation](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) - A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites. <sub>⭐ 326</sub>
-- [TencentARC/DiTCtrl](https://github.com/TencentARC/DiTCtrl) - (CVPR 2025) Official code of "DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation" <sub>⭐ 326 · Python</sub>
-- [zhouwei713/seedance-prompt](https://github.com/zhouwei713/seedance-prompt) - Hermes skill for realistic AI video prompts for Seedance and text-to-video models. <sub>⭐ 326</sub>
-- [zibojia/COCOCO](https://github.com/zibojia/COCOCO) - Video-Inpaint-Anything: This is the inference code for our paper CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility. <sub>⭐ 325 · Python</sub>
-- [sihyun-yu/PVDM](https://github.com/sihyun-yu/PVDM) - (CVPR'23) Video Probabilistic Diffusion Models in Projected Latent Space <sub>⭐ 323 · Python</sub>
-- [ZHU-Zhiyu/NVS_Solver](https://github.com/ZHU-Zhiyu/NVS_Solver) - Source code of paper "NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer" <sub>⭐ 322 · Python</sub>
-- [Anil-matcha/awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) - Seedance 2.5 API guide, prompts, parameters, and examples for video generation <sub>⭐ 320</sub>
-- [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video) - We introduce 'Thinking with Video', a new paradigm leveraging video generation for multimodal reasoning. Our VideoThinkBench shows that Sora-2 surpasses GPT5 by 10% on eyeballing puzzles and reaches… <sub>⭐ 319 · Python</sub>
-- [lukasHoel/video_to_world](https://github.com/lukasHoel/video_to_world) - Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences. <sub>⭐ 318 · Python</sub>
-- [mihirp1998/VADER](https://github.com/mihirp1998/VADER) - Video Diffusion Alignment via Reward Gradients. We improve a variety of video diffusion models such as VideoCrafter, OpenSora, ModelScope and StableVideoDiffusion by finetuning them using various… <sub>⭐ 318 · Python</sub>
-- [jamichss/Stream-DiffVSR](https://github.com/jamichss/Stream-DiffVSR) - The official repository of paper "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion" <sub>⭐ 317 · Python</sub>
-- [RehgLab/RAVE](https://github.com/RehgLab/RAVE) - RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models (CVPR 2024) <sub>⭐ 313 · Python</sub>
-- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) - Democratizing Native Audio-Video Generation at 2K Resolution <sub>⭐ 311 · Python</sub>
-- [Vchitect/VideoBooth](https://github.com/Vchitect/VideoBooth) - (CVPR2024) VideoBooth: Diffusion-based Video Generation with Image Prompts <sub>⭐ 310 · Python</sub>
-- [victorca25/traiNNer](https://github.com/victorca25/traiNNer) - traiNNer: Deep learning framework for image and video super-resolution, restoration and image-to-image translation, for training and testing. <sub>⭐ 310 · Python</sub>
-- [G-U-N/Gen-L-Video](https://github.com/G-U-N/Gen-L-Video) - The official implementation for "Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising". <sub>⭐ 307 · Jupyter Notebook</sub>
-- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX. <sub>⭐ 306 · Python</sub>
-- [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) - A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio references, joint audio, live sampling preview, retakes and shot chaining. <sub>⭐ 305 · JavaScript</sub>
-- [THU-SI/LangScene-X](https://github.com/THU-SI/LangScene-X) - (ICCV 2025) LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion <sub>⭐ 303 · Python</sub>
-- [iMAboud/iMA-Menu](https://github.com/iMAboud/iMA-Menu) - iMA Menu - Do File Transfers, Remove Background, Video/Image edit, Draw over apps, Youtube & X downloader, Resize, Video to Gif, MP4 to MP3, Clean Temp... and more from your CONTEXT MENU. <sub>⭐ 301 · Python</sub>
-- [anima-x/anima-x](https://github.com/anima-x/anima-x) - Official Implementation of (AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models) <sub>⭐ 300</sub>
-- [dhvanikotak/Emotion-Detection-in-Videos](https://github.com/dhvanikotak/Emotion-Detection-in-Videos) - The aim of this work is to recognize the six emotions (happiness, sadness, disgust, surprise, fear and anger) based on human facial expressions extracted from videos. To achieve this, we are… <sub>⭐ 300 · Python</sub>
-- [H-EmbodVis/EasyCache](https://github.com/H-EmbodVis/EasyCache) - Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching <sub>⭐ 300 · Python</sub>
-- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - Classification - Machine Learning This is ‘Classification’ tutorial which is a part of the Machine Learning course offered by Simplilearn. We will learn Classification algorithms, types of… <sub>⭐ 300 · Python</sub>
-- [bytedance/Valley](https://github.com/bytedance/Valley) - Valley is a cutting-edge multimodal large model designed to handle a variety of tasks involving text, images, video, and audio data. <sub>⭐ 297 · Python</sub>
-- [BlackMixture/Mix-Studio](https://github.com/BlackMixture/Mix-Studio) - The cleanest, responsive AI workspace. Run highly tuned image and video workflows flawlessly from your desktop or your phone. Built on ComfyUI. <sub>⭐ 292 · JavaScript</sub>
-- [wenhao728/awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) - Awesome diffusion Video-to-Video (V2V). A collection of paper on diffusion model-based video editing, aka. video-to-video (V2V) translation. And a video editing benchmark code. <sub>⭐ 291 · Python</sub>
-- [BMB12d3/minimax-h3-prompt-composer](https://github.com/BMB12d3/minimax-h3-prompt-composer) - Free offline prompt composer for MiniMax H3 video generation in ComfyUI. <sub>⭐ 290 · HTML</sub>
-- [jolibrain/joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image and Video Toolset with GANs and Diffusion for Real-World Applications <sub>⭐ 290 · Python</sub>
-- [rolfie-han/YoLuster-shorts](https://github.com/rolfie-han/YoLuster-shorts) - YoLuster Shorts 釉光影：An independently developed AI short-drama creation workspace — from initial ideas to storyboard scripts, images, videos, and reusable asset management. Provides a Docker-based… <sub>⭐ 289 · HTML</sub>
-- [songweige/TATS](https://github.com/songweige/TATS) - Official PyTorch implementation of TATS: A Long Video Generation Framework with Time-Agnostic VQGAN and Time-Sensitive Transformer (ECCV 2022) <sub>⭐ 289 · Python</sub>
-- [aejion/AccVideo](https://github.com/aejion/AccVideo) - Official code for AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset <sub>⭐ 287 · Python</sub>
-- [facebookresearch/EgoBlur](https://github.com/facebookresearch/EgoBlur) - This repository contains a command-line interface(CLI) that can detect and blur out faces and license plates(PII) from images and videos. The CLI takes an image or video file as input, runs an… <sub>⭐ 287 · Python</sub>
-- [haofanwang/awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation) - Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing. <sub>⭐ 284</sub>
-- [RQ-Wu/LAMP](https://github.com/RQ-Wu/LAMP) - (CVPR 2024) / LAMP: Learn a Motion Pattern for Few-Shot Based Video Generation <sub>⭐ 284 · Python</sub>
-- [SankaiAI/TwitCanva-Video-Workflow](https://github.com/SankaiAI/TwitCanva-Video-Workflow) - A next-generation AI-powered infinite canvas workspace built for creators and developers. Experience the future of Generative AI with a drag-and-drop node interface that combines Google Gemini 3 Pro… <sub>⭐ 284 · TypeScript</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [Djdefrag/FluidFrames](https://github.com/Djdefrag/FluidFrames) - FluidFrames / video AI frame-generation app <sub>⭐ 281 · Python</sub>
-- [jiahao-shao1/ChronoDepth](https://github.com/jiahao-shao1/ChronoDepth) - ChronoDepth: Learning Temporally Consistent Video Depth from Video Diffusion Priors <sub>⭐ 281 · Python</sub>
-- [lucidrains/lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch) - Implementation of Lumiere, SOTA text-to-video generation from Google Deepmind, in Pytorch <sub>⭐ 281 · Python</sub>
-- [yolain/ComfyUI-Easy-Sam3](https://github.com/yolain/ComfyUI-Easy-Sam3) - A ComfyUI custom node package for SAM3 (Segment Anything Model 3), providing powerful image and video segmentation capabilities with text prompts. <sub>⭐ 281 · Python</sub>
-- [smthemex/ComfyUI_DiffuEraser](https://github.com/smthemex/ComfyUI_DiffuEraser) - DiffuEraser is a diffusion model for video Inpainting, you can use it in ComfyUI <sub>⭐ 280 · Python</sub>
-- [360CVGroup/WISA](https://github.com/360CVGroup/WISA) - World Simulator Assistant for Physics-Aware Text-to-Video Generation <sub>⭐ 279 · Python</sub>
-- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - AI-powered data-to-video generation. Upload a table, get a narrated animated data story. <sub>⭐ 274 · TypeScript</sub>
-- [MingXiangL/DEVIL](https://github.com/MingXiangL/DEVIL) - Evaluation of Text-to-Video Generation Models: A Dynamics Perspective(NeurIPS 2024). <sub>⭐ 274 · Python</sub>
-- [GongyeLiu/StyleCrafter](https://github.com/GongyeLiu/StyleCrafter) - (TOG 2024)StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter <sub>⭐ 273 · Python</sub>
-- [fancyboi999/Loomic](https://github.com/fancyboi999/Loomic) - Open-source AI canvas design agent — alternative to Lovart / CapCut Video Studio / Canva AI. Chat-driven image & video generation on an infinite canvas. <sub>⭐ 272 · TypeScript</sub>
-- [AILab-CVC/VideoGen-Eval](https://github.com/AILab-CVC/VideoGen-Eval) - VideoGen-Eval: Agent-based System for Video Generation Evaluation <sub>⭐ 270</sub>
-- [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) - (AAAI 2025) DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation <sub>⭐ 270 · Python</sub>
-- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - Open-source clone of the MidJourney web interface featuring real AI image and video generation powered by Google's Gemini SDK. Use Imagen 4 to generate images and Veo 2 and 3 for image and text to… <sub>⭐ 269 · TypeScript</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [Vchitect/FasterCache](https://github.com/Vchitect/FasterCache) - (ICLR 2025) FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality <sub>⭐ 268 · Python</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 Neural Rendering (NGX feature 18) as ComfyUI nodes. Enhance image batches and video files with the real neural renderer, with optional upscaling. <sub>⭐ 266 · Python</sub>
-- [datature/portal](https://github.com/datature/portal) - Portal is the fastest way to load and visualize your deep neural networks on images and videos <sub>⭐ 265 · Python</sub>
-- [wenyuqing/panacea](https://github.com/wenyuqing/panacea) - (CVPR2024) Official Repository of Paper "Panacea: Panoramic and Controllable Video Generation for Autonomous Driving" <sub>⭐ 263 · Python</sub>
-- [TIGER-AI-Lab/ConsistI2V](https://github.com/TIGER-AI-Lab/ConsistI2V) - ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation (TMLR 2024) <sub>⭐ 261 · Python</sub>
-- [Curated-Awesome-Lists/Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) - Sora AI Awesome List – Your go-to resource hub for all things Sora AI, OpenAI's groundbreaking model for crafting realistic scenes from text. Explore a curated collection of articles, videos… <sub>⭐ 260</sub>
-- [HITsz-TMG/Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - Controllable Animation Video Generation with Large Models-based Multimodal Agents <sub>⭐ 260 · Jupyter Notebook</sub>
-- [odysseusmax/animated-lamp](https://github.com/odysseusmax/animated-lamp) - Telegram Bot For Screenshot Generation <sub>⭐ 260 · Python</sub>
-- [Binyr/NormalCrafter](https://github.com/Binyr/NormalCrafter) - (ICCV 2025) NormalCrafter: Learning Temporally Consistent Video Normal from Video Diffusion Priors <sub>⭐ 258 · Python</sub>
-- [thu-ml/cond-image-leakage](https://github.com/thu-ml/cond-image-leakage) - Official implementation for "Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model" (NeurIPS 2024) <sub>⭐ 258</sub>
-- [yanqinJiang/Animate3D](https://github.com/yanqinJiang/Animate3D) - (NeurIPS 2024) Animate3D: Animating Any 3D Model with Multi-view Video Diffusion <sub>⭐ 258 · Python</sub>
-- [houyuanchen111/UniVidX](https://github.com/houyuanchen111/UniVidX) - (SIGGRAPH 2026 / TOG) Official code of the paper "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors". <sub>⭐ 257 · Python</sub>
-- [RERV/VDT](https://github.com/RERV/VDT) - (ICLR2024) The official implementation of paper "VDT: General-purpose Video Diffusion Transformers via Mask Modeling", by Haoyu Lu, Guoxing Yang, Nanyi Fei, Yuqi Huo, Zhiwu Lu, Ping Luo, Mingyu Ding. <sub>⭐ 257 · Jupyter Notebook</sub>
-- [soraw-ai/Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) - A list for Text-to-Video, Image-to-Video works <sub>⭐ 257</sub>
-- [yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid) - automatic video description generation with GPU training <sub>⭐ 257 · Python</sub>
-- [wangchuxiaoji-oss/doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) - Reverse-engineered Doubao (豆包) API → OpenAI-compatible REST service. Free multimodal chat, image/video/music generation, and file hosting for AI agents. <sub>⭐ 256 · Python</sub>
-- [WEIRDLabUW/unified-world-model](https://github.com/WEIRDLabUW/unified-world-model) - Unfied World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets <sub>⭐ 256 · Python</sub>
-- [dearabhin/gemini-watermark-remover](https://github.com/dearabhin/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing the visible Google Gemini AI sparkle watermark from both AI images and Veo videos. Built with Vue 3 + Vite + Tailwind CSS, it uses a… <sub>⭐ 255 · HTML</sub>
-- [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) - Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms. <sub>⭐ 254</sub>
-- [Somnusochi/VLM-AutoYOLO](https://github.com/Somnusochi/VLM-AutoYOLO) - AI Auto Annotation & YOLO Training Pipeline, End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA LocateAnything-3B, manual refinement, one-click… <sub>⭐ 254 · Python</sub>
-- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1) Name :- ActionBarSearchView Description :- Action bar search view. (2) Name :- Adsfree Description :- Admob integration. (3) Name :- AndroidDayDreamDemo Description :- Day dream demo. (4) Name… <sub>⭐ 252 · Java</sub>
-- [ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) - Drive Google Flow from the command line: Veo video and Imagen images, scripted, batched and pipeline-ready. Ships an MCP server so coding agents can drive it too, giving you and your agents full… <sub>⭐ 251 · Python</sub>
-- [csbhr/Vivid-VR](https://github.com/csbhr/Vivid-VR) - The official repository of our ICLR 2026 paper "Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration". <sub>⭐ 246 · Python</sub>
-- [Francis-Rings/MotionFollower](https://github.com/Francis-Rings/MotionFollower) - (ICCV2025) MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion <sub>⭐ 246 · Python</sub>
-- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - LynnReal-Omni brings text-to-video, image-to-video, human- and hand-pose guided generation, structural control, omni-reference generation, style transfer, video editing, degraded-video restoration… <sub>⭐ 246 · Python</sub>
-- [milaan9/Python_Computer_Vision_from_Scratch](https://github.com/milaan9/Python_Computer_Vision_from_Scratch) - This repository explores the variety of techniques commonly used to analyze and interpret images. It also describes challenging real-world applications where vision is being successfully used, both… <sub>⭐ 246 · Jupyter Notebook</sub>
-- [shengshu-ai/TurboServe](https://github.com/shengshu-ai/TurboServe) - TurboServe: Serving Streaming Video Generation Efficiently and Economically <sub>⭐ 246 · Python</sub>
-- [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) - The self-hosted AI studio: local video, image, music, voice, LoRA training, coding swarms, RAG and screen agents on one GPU, driven from the Studio or by your coding agent (Claude Code, Cursor… <sub>⭐ 244 · Python</sub>
-- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - Run MiniMax Hailuo H3 and LTX-2.5 video generation locally on a Mac. Joint audio+video, character LoRA training, one-click Pinokio install. MLX — no CUDA, no cloud, no API key. <sub>⭐ 244 · Python</sub>
-- [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - A work list of recent human video generation method. This repository focus on half/full body human video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not… <sub>⭐ 244</sub>
-- [Zheng-Chong/CatV2TON](https://github.com/Zheng-Chong/CatV2TON) - (CVPR 2025 Workshop) CatV2TON is a lightweight DiT-based visual virtual try-on model, capable of supporting try-on for both images and videos. <sub>⭐ 244 · Python</sub>
-- [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal is a state-of-the-art framework for invisible, robust watermarking across all modalities audio, image, video, and text. This suite spans the entire generative lifecycle, from training… <sub>⭐ 242 · HTML</sub>
-- [THU-SI/Physics3D](https://github.com/THU-SI/Physics3D) - Official implementation of Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion <sub>⭐ 242 · Python</sub>
-- [1038lab/ComfyUI-MiniMax-H3-Promptor](https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor) - A powerful, ComfyUI Custom node automation suite for generating cinema-production-grade prompts explicitly formatted for the **MiniMax H3 Video Generation System**. <sub>⭐ 240 · Python</sub>
-- [YangLing0818/VideoTetris](https://github.com/YangLing0818/VideoTetris) - (NeurIPS 2024) VideoTetris: Towards Compositional Text-To-Video Generation <sub>⭐ 237 · Python</sub>
-- [chengzhag/UCPE](https://github.com/chengzhag/UCPE) - (CVPR'26) Camera-controlled text-to-video generation, now with intrinsics, distortion and orientation control! <sub>⭐ 236 · Python</sub>
-- [FareedKhan-dev/AI-text-to-video-model-from-scratch](https://github.com/FareedKhan-dev/AI-text-to-video-model-from-scratch) - In this blog, we will build a small scale text-to-video model from scratch. We will input a text prompt, and our trained model will generate a video based on that prompt. <sub>⭐ 236 · Jupyter Notebook</sub>
-- [SOTAMak1r/DeepVerse](https://github.com/SOTAMak1r/DeepVerse) - DeepVerse: 4D Autoregressive Video Generation as a World Model <sub>⭐ 233 · Python</sub>
-- [tyhuang0428/DreamPhysics](https://github.com/tyhuang0428/DreamPhysics) - (AAAI 2025) DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors <sub>⭐ 233 · Python</sub>
-- [Hanbo-Cheng/DAWN-pytorch](https://github.com/Hanbo-Cheng/DAWN-pytorch) - Offical implement of Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for talking head Video Generation <sub>⭐ 232 · Python</sub>
-- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude… <sub>⭐ 231 · Python</sub>
-- [KlingAIResearch/I2V-Adapter](https://github.com/KlingAIResearch/I2V-Adapter) - I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models <sub>⭐ 231 · Python</sub>
-- [PKU-YuanGroup/OpenS2V-Nexus](https://github.com/PKU-YuanGroup/OpenS2V-Nexus) - (NeurIPS 2025 D&B ) OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation <sub>⭐ 231 · Jupyter Notebook</sub>
-- [benjiyaya/Calliope](https://github.com/benjiyaya/Calliope) - Local-first AI Idea-to-video studio — FastAPI + SvelteKit + ComfyUI <sub>⭐ 230 · Python</sub>
-- [thu-ml/controlvideo](https://github.com/thu-ml/controlvideo) - Official implementation for "ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing" <sub>⭐ 230 · Python</sub>
-- [DanBigioi/DiffusionVideoEditing](https://github.com/DanBigioi/DiffusionVideoEditing) - Official project repo for paper "Speech Driven Video Editing via an Audio-Conditioned Diffusion Model" <sub>⭐ 228 · Python</sub>
-- [dvirsamuel/OmnimatteZero](https://github.com/dvirsamuel/OmnimatteZero) - (SiggraphAsia25) OmnimatteZero: Fast Training-free Omnimatte with Pre-trained Video Diffusion Models <sub>⭐ 228 · Python</sub>
-- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - (ECCV 2022 Oral) Code for "Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation" <sub>⭐ 227 · Python</sub>
-- [CIntellifusion/GeometryForcing](https://github.com/CIntellifusion/GeometryForcing) - (ICLR26) Official implementation of Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling <sub>⭐ 227 · Python</sub>
-- [DN6/giffusion](https://github.com/DN6/giffusion) - Create GIFs and Videos using Stable Diffusion <sub>⭐ 225 · Python</sub>
-- [JittorRepos/JDiffusion](https://github.com/JittorRepos/JDiffusion) - JDiffusion is a diffusion model library for generating images or videos based on Diffusers and Jittor. <sub>⭐ 225 · Python</sub>
-- [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator) - An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API… <sub>⭐ 224 · Python</sub>
-- [yjsunnn/Awesome-video-super-resolution-diffusion](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion) - A curated list of resources for video super-resolution using diffusion models. <sub>⭐ 224</sub>
-- [bmartacho/UniPose](https://github.com/bmartacho/UniPose) - We propose UniPose, a unified framework for human pose estimation, based on our “Waterfall” Atrous Spatial Pooling architecture, that achieves state-of-art-results on several pose estimation metrics.… <sub>⭐ 223 · Python</sub>
-- [zhengchen1999/DOVE](https://github.com/zhengchen1999/DOVE) - (NeurIPS'25) DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution <sub>⭐ 222 · Python</sub>
-- [gulucaptain/CameraNoise](https://github.com/gulucaptain/CameraNoise) - (ICML'26) CameraNoise helps control the faithful camera movement in the video diffusion. <sub>⭐ 220 · Python</sub>
-- [gokayfem/ComfyUI-fal-API](https://github.com/gokayfem/ComfyUI-fal-API) - Production-ready ComfyUI custom nodes for 1,400+ fal.ai models, auto-updated image, video, audio, LLM and VLM APIs with native media, caching and cost controls. <sub>⭐ 219 · Python</sub>
-- [Clipcat-ai/clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill) - TikTok e-commerce video generation, replication, and analysis SKILL <sub>⭐ 217</sub>
-- [Comfy-Org/comfy-skills](https://github.com/Comfy-Org/comfy-skills) - Comfy Cloud product skills: slash commands for generating images, video, audio, and 3D with Comfy Cloud agents. Single source of truth for the installer and MCP server. <sub>⭐ 215</sub>
-- [Eyeline-Labs/CineScale](https://github.com/Eyeline-Labs/CineScale) - Tuning-Free 4K Video Generation <sub>⭐ 215 · Python</sub>
-- [ayusshrathore/ai-saas](https://github.com/ayusshrathore/ai-saas) - An AI powered SaaS platform which enables the user to chat, generate images, videos, music, etc. <sub>⭐ 214 · TypeScript</sub>
-- [I2V-Adapter/I2V-Adapter-repo](https://github.com/I2V-Adapter/I2V-Adapter-repo) - I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models <sub>⭐ 213</sub>
-- [PKU-YuanGroup/ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) - (NeurIPS 2024 D&B Spotlight ) ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation <sub>⭐ 213 · Python</sub>
-- [yrcong/STTran](https://github.com/yrcong/STTran) - Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV2021 <sub>⭐ 213 · Jupyter Notebook</sub>
-- [yrcong/flatten](https://github.com/yrcong/flatten) - Pytorch Implementation of FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing (ICLR 2024) <sub>⭐ 212 · Python</sub>
-- [Daniellli/DKT](https://github.com/Daniellli/DKT) - (ICRA2026) official implement of "Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation" <sub>⭐ 211 · Python</sub>
-- [ezwebtools/flowpick](https://github.com/ezwebtools/flowpick) - A powerful, all-in-one media resource sniffer and downloader extension. Automatically detect and bulk download videos (M3U8/HLS to MP4), audio, and images from any webpage. Privacy-focused with local… <sub>⭐ 210 · TypeScript</sub>
-- [lucidrains/recurrent-interface-network-pytorch](https://github.com/lucidrains/recurrent-interface-network-pytorch) - Implementation of Recurrent Interface Network (RIN), for highly efficient generation of images and video without cascading networks, in Pytorch <sub>⭐ 210 · Python</sub>
-- [AI-Efficiency/Awesome-Efficient-Diffusion](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) - A curated list of papers and code on efficient diffusion models for image, video, world modeling, and language generation. Covering acceleration, quantization, compression, caching, and distillation. <sub>⭐ 209</sub>
-- [Doriandarko/sora-mcp](https://github.com/Doriandarko/sora-mcp) - An MCP server to use Sora video generation APIs <sub>⭐ 209 · TypeScript</sub>
-- [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation <sub>⭐ 209 · Python</sub>
-- [aHapBean/VideoREPA](https://github.com/aHapBean/VideoREPA) - (NeurIPS 2025) VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models <sub>⭐ 208 · Python</sub>
-- [alibaba/identity-grpo](https://github.com/alibaba/identity-grpo) - Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning <sub>⭐ 208 · Python</sub>
-- [JeffWang987/WorldDreamer](https://github.com/JeffWang987/WorldDreamer) - WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens <sub>⭐ 208</sub>
-- [Vchitect/DCM](https://github.com/Vchitect/DCM) - (ICCV2025) DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation <sub>⭐ 207 · Python</sub>
-- [luosiallen/Diff-Foley](https://github.com/luosiallen/Diff-Foley) - Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models <sub>⭐ 206 · Python</sub>
-- [PKU-YuanGroup/WF-VAE](https://github.com/PKU-YuanGroup/WF-VAE) - (CVPR 2025 ) Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model <sub>⭐ 206 · Python</sub>
-- [antoine77340/S3D_HowTo100M](https://github.com/antoine77340/S3D_HowTo100M) - S3D Text-Video model trained on HowTo100M using MIL-NCE <sub>⭐ 200 · Python</sub>
-- [HyeonHo99/Video-Motion-Customization](https://github.com/HyeonHo99/Video-Motion-Customization) - VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models (CVPR 2024) <sub>⭐ 200 · Python</sub>
-- [luckyhzt/LVCD](https://github.com/luckyhzt/LVCD) - The official code of paper "LVCD: Reference-based Lineart Video Colorization with Diffusion Models" <sub>⭐ 200 · Python</sub>
-- [Anil-matcha/awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) - The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast. <sub>⭐ 199</sub>
-- [NevSNev/FloED-main](https://github.com/NevSNev/FloED-main) - Coherent Video Inpainting Using Optical Flow-Guided Efficient Diffusion <sub>⭐ 199 · Python</sub>
-- [open-mmlab/Live2Diff](https://github.com/open-mmlab/Live2Diff) - Live2Diff: A Pipeline that processes Live video streams by a uni-directional video Diffusion model. <sub>⭐ 199 · Python</sub>
-- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model <sub>⭐ 198 · Python</sub>
-- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - (ECCV 2026 Oral) Official implementation of "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation"(arXiv:2603.11647). OmniForcing is the first framework to distill bidirectional… <sub>⭐ 198 · Python</sub>
-- [evalcrafter/EvalCrafter](https://github.com/evalcrafter/EvalCrafter) - (CVPR 2024) EvalCrafter: Benchmarking and Evaluating Large Video Generation Models <sub>⭐ 196 · Jupyter Notebook</sub>
-- [dc-ai-projects/DC-VideoGen](https://github.com/dc-ai-projects/DC-VideoGen) - DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder <sub>⭐ 195</sub>
-- [MirageML/MirageStock](https://github.com/MirageML/MirageStock) - Open-Source Implementations of Multi-Modal Diffusion Models Optimized for Highest Quality and Ease of Use <sub>⭐ 195 · Python</sub>
-- [BarneyD66/clipmivo-tools](https://github.com/BarneyD66/clipmivo-tools) - ClipmivoAI video generation tools: REST API, CLI, local MCP server and Agent Skill. <sub>⭐ 193 · JavaScript</sub>
-- [GVCLab/GSFixer](https://github.com/GVCLab/GSFixer) - (ICML 2026) GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors <sub>⭐ 193 · Python</sub>
-- [danier97/LDMVFI](https://github.com/danier97/LDMVFI) - (AAAI 2024) "LDMVFI: Video Frame Interpolation with Latent Diffusion Models", Duolikun Danier, Fan Zhang, David Bull <sub>⭐ 192 · Python</sub>
-- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - This repository allows you to anonymize sensitive information in images/videos. The solution is fully compatible with the DL-based training/inference solutions that we already published/will publish… <sub>⭐ 191 · Python</sub>
-- [ccallazans/ai-video-generator](https://github.com/ccallazans/ai-video-generator) - Automate Creation of Story-Based Videos. <sub>⭐ 190 · Go</sub>
-- [people-robots/Awesome-Video-Generation-Post-Training](https://github.com/people-robots/Awesome-Video-Generation-Post-Training) - (TMLR) Video Generation Models: A Survey of Post-Training and Alignment / A continuously updated collection of papers, datasets, and benchmarks on post-training and alignment for video generation. <sub>⭐ 190</sub>
-- [3DTopia/Imagine360](https://github.com/3DTopia/Imagine360) - (Neurips 2025) Imagine360: Immersive 360 Video Generation from Perspective Anchor <sub>⭐ 189 · Python</sub>
-- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) - Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account rotation. For Claude Code, Codex, Cursor, n8n, Zapier, Make. <sub>⭐ 188 · TypeScript</sub>
-- [WangWenhao0716/VidProM](https://github.com/WangWenhao0716/VidProM) - (NeurIPS 2024) VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models <sub>⭐ 188</sub>
-- [alibaba/VideoMV](https://github.com/alibaba/VideoMV) - VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model <sub>⭐ 187 · Python</sub>
-- [Francis-Rings/MotionEditor](https://github.com/Francis-Rings/MotionEditor) - (CVPR2024) MotionEditor is the first diffusion-based model capable of video motion editing. <sub>⭐ 187 · Python</sub>
-- [NTUYWANG103/ViDiHand](https://github.com/NTUYWANG103/ViDiHand) - Official PyTorch Implementation of Paper "The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction" <sub>⭐ 187</sub>
-- [TencentARC/MotionCrafter](https://github.com/TencentARC/MotionCrafter) - (CVPR 2026 Highlight ) MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE <sub>⭐ 187 · Python</sub>
-- [ai-forever/KandinskyVideo](https://github.com/ai-forever/KandinskyVideo) - KandinskyVideo — multilingual end-to-end text2video latent diffusion model <sub>⭐ 185 · Python</sub>
-- [Anil-matcha/Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) - Python wrapper for Black Forest Labs' FLUX 3 Dev API, available now — fast, low-cost FLUX 3 variant, plus the full FLUX 3 family (Text-to-Image, Image-to-Image, Text-to-Video, Image-to-Video). <sub>⭐ 185 · Python</sub>
-- [Akaneqwq/360DVD](https://github.com/Akaneqwq/360DVD) - (CVPR2024) 360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model <sub>⭐ 184 · Python</sub>
-- [Deno2026/comfyui-deno-custom-nodes](https://github.com/Deno2026/comfyui-deno-custom-nodes) - ComfyUI custom nodes for RTX Video Super Resolution, NVIDIA VFX/nvvfx, LTX 2.3, Bernini Prompt Guide, Wan2.2 reference video edit, image/video compare, video preview, loaders, resize, and visual… <sub>⭐ 184 · Python</sub>
-- [BeatAPI/awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts) - Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution. <sub>⭐ 183 · JavaScript</sub>
-- [HL-hanlin/VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) - official implementation of VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning (COLM 2024) <sub>⭐ 183</sub>
-- [kevinjycui/css-video](https://github.com/kevinjycui/css-video) - Converts images and video frames to pure CSS + HTML files using Breadth-first Search and Canny Edge Detection with keyframe animations <sub>⭐ 183 · CSS</sub>
-- [YisuiTT/Mobius](https://github.com/YisuiTT/Mobius) - Mobius: Text to Seamless Looping Video Generation via Latent Shift <sub>⭐ 183 · Python</sub>
-- [claudiom4sir/StableVSR](https://github.com/claudiom4sir/StableVSR) - (ECCV 2024) Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models <sub>⭐ 180 · Python</sub>
-- [cp-cp/LiveEdit](https://github.com/cp-cp/LiveEdit) - (ECCV 2026) LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing <sub>⭐ 180 · Python</sub>
-- [freddewitt/CorbeauSplat](https://github.com/freddewitt/CorbeauSplat) - CorbeauSplat is an all-in-one Gaussian Splatting automation tool designed specifically for macOS Silicon. It streamlines the entire workflow from raw video/images to a fully trained and viewable 3D… <sub>⭐ 180 · Python</sub>
-- [ubc-vision/vivid123](https://github.com/ubc-vision/vivid123) - (CVPR 2024 Highlight) ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models <sub>⭐ 180 · Python</sub>
-- [anubhavshrimal/Face-Recognition](https://github.com/anubhavshrimal/Face-Recognition) - Machine Learning project to recognise faces from an Image just like facebook or video stream <sub>⭐ 179 · Python</sub>
-- [PySimpleGUI/PySimpleGUI-Photo-Colorizer](https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer) - Transform black and white images (or your webcam) into beautifully colored images using Deep Learning. Uses OpenCV and Numpy to Colorize your photo or webcam video. GUI provided by PySimpleGUI. <sub>⭐ 179 · Python</sub>
-- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - Context Encoding for Semantic Segmentation MegaDepth: Learning Single-View Depth Prediction from Internet Photos LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation… <sub>⭐ 179</sub>
-- [HiDream-ai/ReCo](https://github.com/HiDream-ai/ReCo) - (ICML 2026) ReCo: In-Context Generation with Regional Constraints for Instructional Video Editing <sub>⭐ 178 · Python</sub>
-- [if-ai/ComfyUI_HunyuanVideoFoley](https://github.com/if-ai/ComfyUI_HunyuanVideoFoley) - HunyuanVideoFoley generates SFX audio to match your video and text prompt <sub>⭐ 178 · Python</sub>
-- [zhang-zx/AVID](https://github.com/zhang-zx/AVID) - This respository contains the code for the CVPR 2024 paper AVID: Any-Length Video Inpainting with Diffusion Model. <sub>⭐ 177</sub>
-- [YuxiaoYang23/EchoMotion](https://github.com/YuxiaoYang23/EchoMotion) - Official implementation of EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer <sub>⭐ 176</sub>
-- [sayakpaul/tt-scale-flux](https://github.com/sayakpaul/tt-scale-flux) - Inference-time scaling of diffusion-based image and video generation models. <sub>⭐ 175 · Python</sub>
-- [shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection](https://github.com/shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection) - The main objective of this project is to identify overspeed vehicles, using Deep Learning and Machine Learning Algorithms. After acquisition of series of images from the video, trucks are detected… <sub>⭐ 174 · Python</sub>
-- [AdaCache-DiT/AdaCache](https://github.com/AdaCache-DiT/AdaCache) - Code for our ICCV 2025 paper "Adaptive Caching for Faster Video Generation with Diffusion Transformers" <sub>⭐ 173 · Python</sub>
-- [TonyLianLong/LLM-groundedVideoDiffusion](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion) - (ICLR 2024) LLM-grounded Video Diffusion Models (LVD): official implementation for the LVD paper <sub>⭐ 173 · Python</sub>
-- [ZGCTroy/CamI2V](https://github.com/ZGCTroy/CamI2V) - official repo of paper for "CamI2V: Camera-Controlled Image-to-Video Diffusion Model" <sub>⭐ 172 · Python</sub>
-- [GuoLanqing/Awesome-High-Resolution-Diffusion](https://github.com/GuoLanqing/Awesome-High-Resolution-Diffusion) - A curated list of papers on recent diffusion-based high-resolution image and video synthesis works. <sub>⭐ 170</sub>
-- [if-ai/ComfyUI-IF_MemoAvatar](https://github.com/if-ai/ComfyUI-IF_MemoAvatar) - Memory-Guided Diffusion for Expressive Talking Video Generation <sub>⭐ 170 · Python</sub>
-- [vijayvee/video-captioning](https://github.com/vijayvee/video-captioning) - This repository contains the code for a video captioning system inspired by Sequence to Sequence -- Video to Text. This system takes as input a video and generates a caption in English describing the… <sub>⭐ 170 · Python</sub>
-- [thu-nics/ViDiT-Q](https://github.com/thu-nics/ViDiT-Q) - (ICLR'25) ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation <sub>⭐ 169 · Python</sub>
-- [wgwang/awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) - Awesome LLM Benchmarks to evaluate the LLMs across text, code, image, audio, video and more. <sub>⭐ 169</sub>
-- [HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle) - DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation <sub>⭐ 168 · Python</sub>
-- [westgarthb/style-transfer-video-processor](https://github.com/westgarthb/style-transfer-video-processor) - This code extends the neural style transfer image processing technique to video by generating smooth transitions between several reference style images <sub>⭐ 168 · Python</sub>
-- [ShmuelRonen/ComfyUI_wav2lip](https://github.com/ShmuelRonen/ComfyUI_wav2lip) - A custom node for ComfyUI that allows you to perform lip-syncing on videos using the Wav2Lip model. It takes an input video and an audio file and generates a lip-synced output video. <sub>⭐ 167 · Python</sub>
-- [snap-research/ac3d](https://github.com/snap-research/ac3d) - AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers <sub>⭐ 167 · Python</sub>
-- [IanYeung/MGLD-VSR](https://github.com/IanYeung/MGLD-VSR) - Code for ECCV 2024 Paper "Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution" <sub>⭐ 166 · Python</sub>
-- [JiSenHua/ComfyUI-TD](https://github.com/JiSenHua/ComfyUI-TD) - ComfyUI to TouchDesigner custom node for real-time streaming of images, video, 3D models, audio, and text. <sub>⭐ 166 · Python</sub>
-- [john-rocky/SemanticImage](https://github.com/john-rocky/SemanticImage) - A collection of easy-to-use image/video filter. <sub>⭐ 166 · Swift</sub>
-- [shootthesound/comfyUI-LongLook](https://github.com/shootthesound/comfyUI-LongLook) - A ComfyUI node pack that implements FreeLong (NeurIPS 2024) spectral blending for Wan 2.2 video generation <sub>⭐ 166 · Python</sub>
-- [WenxueCui/Deep-Image-Compression-Video-Coding](https://github.com/WenxueCui/Deep-Image-Compression-Video-Coding) - Recent papers and codes related to deep learning/deep neural network based image compression and video coding framework. <sub>⭐ 165</sub>
-- [FennelFetish/qapyq](https://github.com/FennelFetish/qapyq) - AI-assisted media curator for large image/video datasets. Streamlined captioning, cropping, masking for LoRA/diffusion training workflows. <sub>⭐ 164 · Python</sub>
-- [robbyant-research/LeviTor](https://github.com/robbyant-research/LeviTor) - (CVPR'25 Highlight) Official implementation for paper - LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis <sub>⭐ 163 · Python</sub>
-- [YBYBZhang/VideoElevator](https://github.com/YBYBZhang/VideoElevator) - (AAAI 2025) Official pytorch implementation of "VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models" <sub>⭐ 163 · Python</sub>
-- [ashvardanian/SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - Real-time on-device text-to-image and image-to-image Semantic Search with video stream camera capture using USearch & UForm AI Swift SDKs for Apple devices <sub>⭐ 162 · Swift</sub>
-- [HiDream-ai/MotionPro](https://github.com/HiDream-ai/MotionPro) - (CVPR 2025) MotionPro: A Precise Motion Controller for Image-to-Video Generation <sub>⭐ 162 · Python</sub>
-- [Phantom-video/OmniInsert](https://github.com/Phantom-video/OmniInsert) - OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models <sub>⭐ 162</sub>
-- [FranckyB/ComfyUI-Prompt-Manager](https://github.com/FranckyB/ComfyUI-Prompt-Manager) - Prompt Manager for ComfyUI, with integration with llama.cpp for prompt generation. Allowing users to generate and save prompts, as well as extract prompts from images and video with Comfy/A1111… <sub>⭐ 161 · JavaScript</sub>
-- [francescortiz/image](https://github.com/francescortiz/image) - Django application that provides cropping, resizing, thumbnailing, overlays, tint and mask for images and videos with the ability to set the center of attention in order to have automatic perfect… <sub>⭐ 160 · Python</sub>
-- [PKU-YuanGroup/HoloTime](https://github.com/PKU-YuanGroup/HoloTime) - (ACM MM 2025) HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation <sub>⭐ 160 · Python</sub>
-- [vivoCameraResearch/Hyper-Motion](https://github.com/vivoCameraResearch/Hyper-Motion) - HyperMotion is a pose guided human image animation framework based on a large-scale video diffusion Transformer. <sub>⭐ 160 · Python</sub>
-- [adityaguptai/Self-Driving-Car-](https://github.com/adityaguptai/Self-Driving-Car-) - A End to End CNN Model which predicts the steering wheel angle based on the video/image <sub>⭐ 158 · Jupyter Notebook</sub>
-- [Weixiang-Sun/Bora](https://github.com/Weixiang-Sun/Bora) - Biomedical Generalist Video Generation Model <sub>⭐ 158 · Python</sub>
-- [TencentARC/GenCompositor](https://github.com/TencentARC/GenCompositor) - (ICLR 2026) GenCompositor: Generative Video Compositing with Diffusion Transformer <sub>⭐ 157 · Python</sub>
-- [zghhui/OmniNFT](https://github.com/zghhui/OmniNFT) - Code for "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation" <sub>⭐ 157 · Python</sub>
-- [GuoleiSun/Awesome-SAM2](https://github.com/GuoleiSun/Awesome-SAM2) - This repo aims to include materials (papers, codes, slides) about SAM2 (segment anything in images and videos). We are continuously improving the project. Welcome to PR the works (papers, repos) that… <sub>⭐ 156</sub>
-- [koi953215/NaRCan](https://github.com/koi953215/NaRCan) - (NeurIPS 2024) NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing <sub>⭐ 153 · Python</sub>
-- [Virtu-Lab/DreamVVT](https://github.com/Virtu-Lab/DreamVVT) - DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework <sub>⭐ 153</sub>
-- [MeiGen-AI/llia](https://github.com/MeiGen-AI/llia) - LLIA - Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models <sub>⭐ 152</sub>
-- [gmkim-ai/Diffusion-Video-Autoencoders](https://github.com/gmkim-ai/Diffusion-Video-Autoencoders) - An official implementation of "Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding" (CVPR 2023) in PyTorch. <sub>⭐ 151 · Python</sub>
-- [ai-forever/Kandinsky-4](https://github.com/ai-forever/Kandinsky-4) - Text and image to video generation: Kandinsky 4.0 (2024) <sub>⭐ 150 · Python</sub>
-- [ID-LoRA/ID-LoRA-LTX2.3-ComfyUI](https://github.com/ID-LoRA/ID-LoRA-LTX2.3-ComfyUI) - Custom ComfyUI node for generating videos with audio-visual identity based on a reference voice and image <sub>⭐ 148 · Python</sub>
-- [pandayuanyu/NewtonGen](https://github.com/pandayuanyu/NewtonGen) - (ICLR 2026) NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics <sub>⭐ 148 · Python</sub>
-- [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance… <sub>⭐ 147 · JavaScript</sub>
-- [Anil-matcha/awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) - FLUX 3 video API and image API guide, prompts, parameters, and examples for Black Forest Labs' unified text-to-video, image-to-video, image, and audio generation model <sub>⭐ 147</sub>
-- [gohyojun15/VIST3A](https://github.com/gohyojun15/VIST3A) - (ICLR 2026 oral) Official code for VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator <sub>⭐ 147 · Python</sub>
-- [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow… <sub>⭐ 147 · Python</sub>
-- [apimart-api-ai-Aggregator/seedance-2.0-api](https://github.com/apimart-api-ai-Aggregator/seedance-2.0-api) - Seedance 2.0 API (seedance-2.0 / seedance-2.0-mini / seedance-2.0-fast): per-second pricing by resolution, text-to-video and image-to-video examples, parameters and limits. <sub>⭐ 145 · Python</sub>
-- [davide97l/ai-video-generator](https://github.com/davide97l/ai-video-generator) - AI agent to automatically generate and post short videos <sub>⭐ 145 · Python</sub>
-- [remotion-dev/template-prompt-to-video](https://github.com/remotion-dev/template-prompt-to-video) - Create a story with images and voiceover from a prompt <sub>⭐ 145 · TypeScript</sub>
-- [tangjiapeng/GAF](https://github.com/tangjiapeng/GAF) - CVPR2025 GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion <sub>⭐ 145</sub>
-- [taresh18/TTSizer](https://github.com/taresh18/TTSizer) - Automatically transcribe audio/video into high-quality, speaker-specific Text-To-Speech datasets <sub>⭐ 145 · Python</sub>
-- [ArchiveBox/abx-dl](https://github.com/ArchiveBox/abx-dl) - A simple all-in-one CLI tool to download EVERYTHING from a URL (like youtube-dl/yt-dlp, forum-dl, gallery-dl, simpler ArchiveBox). Uses headless Chrome to get HTML, JS, CSS… <sub>⭐ 144 · Python</sub>
-- [MyNiuuu/AniCrafter](https://github.com/MyNiuuu/AniCrafter) - (ACM MM 2026) AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models <sub>⭐ 144 · Python</sub>
-- [ahmetozlu/face_recognition_crop](https://github.com/ahmetozlu/face_recognition_crop) - Multi-view face recognition, face cropping and saving the cropped faces as new images on videos to create a multi-view face recognition database. <sub>⭐ 143 · Python</sub>
-- [KIMGEONUNG/VideoFrom3D](https://github.com/KIMGEONUNG/VideoFrom3D) - (SIGGRAPH-ASIA 2025) Official implementation of "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models" <sub>⭐ 143 · Python</sub>
-- [zhongyingji/guidedvd-3dgs](https://github.com/zhongyingji/guidedvd-3dgs) - Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs (CVPR2025 Highlight) <sub>⭐ 143 · Python</sub>
-- [jpthu17/DiffusionRet](https://github.com/jpthu17/DiffusionRet) - (ICCV 2023) DiffusionRet: Generative Text-Video Retrieval with Diffusion Model <sub>⭐ 142 · Python</sub>
-- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. <sub>⭐ 142 · Go</sub>
-- [eai-lab/On-device-Sora](https://github.com/eai-lab/On-device-Sora) - (arXiv) On-device Sora: Enabling Diffusion-Based Text-to-Video Generation for Mobile Devices <sub>⭐ 140 · Python</sub>
-- [Ground-A-Video/Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video) - Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models (ICLR 2024) <sub>⭐ 140 · Python</sub>
-- [MackinationsAi/Upgraded-Depth-Anything-V2](https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2) - Upgraded repo includes more capabilities, converted the cmd .py scripts to function more intuitively, added 147 different depth output colour map methods, introduced batch image as well as video… <sub>⭐ 140 · Python</sub>
-- [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - **No AI code is used in this project** AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era. <sub>⭐ 139 · Batchfile</sub>
-- [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) - ComfyUI node to assist with Bernini video editing prompting (Ollama + Prompt Presets) <sub>⭐ 139 · JavaScript</sub>
-- [ali-master/llmpeg](https://github.com/ali-master/llmpeg) - AI-powered FFmpeg command generator. Describe your video task in plain English, get the perfect FFmpeg command instantly. <sub>⭐ 138 · TypeScript</sub>
-- [jianzongwu/MotionBooth](https://github.com/jianzongwu/MotionBooth) - (NeurIPS 2024 Spotlight) The official implement of research paper "MotionBooth: Motion-Aware Customized Text-to-Video Generation" <sub>⭐ 138 · Python</sub>
-- [apimart-api-ai-Aggregator/seedance-2.5-api](https://github.com/apimart-api-ai-Aggregator/seedance-2.5-api) - Seedance 2.5 API (seedance-2.5): per-second pricing by resolution, up to 30-second text-to-video and reference-media workflows, with cURL and Python examples and measured costs. <sub>⭐ 136 · Python</sub>
-- [cvlab-kaist/TrackCraft3r](https://github.com/cvlab-kaist/TrackCraft3r) - Official code implementation for TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking <sub>⭐ 136 · Python</sub>
-- [hosseinhezami/laravel-gemini](https://github.com/hosseinhezami/laravel-gemini) - A production-ready Laravel package to integrate with the Google Gemini API. Supports text, image, video, audio, long-context, structured output, files, caching, function-calling and understanding… <sub>⭐ 136 · PHP</sub>
-- [kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System](https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System) - Computer Vision module for detecting emotion, age and gender of a person in any given image, video or real time webcam. A custom VGG16 model was developed and trained on open source facial datasets… <sub>⭐ 136 · Jupyter Notebook</sub>
-- [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation <sub>⭐ 136 · Python</sub>
-- [yubowen123/AIYOU_open-ai-video-drama-generator](https://github.com/yubowen123/AIYOU_open-ai-video-drama-generator) - AIYOU - AI short drama platform. 36-day VibeCoding build. Automated workflow: concept → script → storyboard → video. 5 relay APIs integrated, possibly the only open-source tool combining core prompts… <sub>⭐ 136 · TypeScript</sub>
-- [zju-jiyicheng/Forcing-KV](https://github.com/zju-jiyicheng/Forcing-KV) - Implementation for paper "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models". <sub>⭐ 136 · Python</sub>
-- [lkmeta/txtify](https://github.com/lkmeta/txtify) - Web application that converts audio and video to text using AI, supporting various formats and self-hosting. <sub>⭐ 135 · Python</sub>
-- [1038lab/ComfyUI-FlashVSR](https://github.com/1038lab/ComfyUI-FlashVSR) - Powerful ComfyUI custom node built on the FlashVSR V1.1 model, facilitating real-time diffusion-based video super-resolution for streaming applications. <sub>⭐ 134 · Python</sub>
-- [lucidrains/MIMO-pytorch](https://github.com/lucidrains/MIMO-pytorch) - Pytorch implementation of MIMO, Controllable Character Video Synthesis with Spatial Decomposed Modeling, from Alibaba Intelligence Group <sub>⭐ 134 · Python</sub>
-- [hradec/ComfyUI-HR-Endless-Sampler](https://github.com/hradec/ComfyUI-HR-Endless-Sampler) - Chunked video/audio sampling for ComfyUI with latent continuation, frame-accurate shot prompt rewriting, and reduced VRAM usage. <sub>⭐ 132 · Python</sub>
-- [msola-ht/ComfyUI-GLM4](https://github.com/msola-ht/ComfyUI-GLM4) - ComfyUI GLM Nodes: Seamlessly integrate ZhipuAI GLM models into ComfyUI for enhanced text generation and image-to-prompt capabilities. Features include advanced text chat (video prompt expansion) and… <sub>⭐ 131 · Python</sub>
-- [Shaashwat05/Cartoonify_reality](https://github.com/Shaashwat05/Cartoonify_reality) - Convert images and videos to cartoons using opencv <sub>⭐ 131 · Python</sub>
-- [asmaamirkhan/BlurryFaces](https://github.com/asmaamirkhan/BlurryFaces) - A tool to blur faces or other regions in images and videos <sub>⭐ 130 · Python</sub>
-- [guyyariv/TempoTokens](https://github.com/guyyariv/TempoTokens) - (AAAI 2024) The official PyTorch implementation of "Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation" <sub>⭐ 130 · Python</sub>
-- [JIA-Lab-research/MagicMirror](https://github.com/JIA-Lab-research/MagicMirror) - (ICCV 2025) MagicMirror: ID-Preserved Video Generation in Video Diffusion Transformers <sub>⭐ 130</sub>
-- [MiniMax-AI/MiniMax-MCP-JS](https://github.com/MiniMax-AI/MiniMax-MCP-JS) - Official MiniMax Model Context Protocol (MCP) JavaScript implementation that provides seamless integration with MiniMax's powerful AI capabilities including image generation, video generation… <sub>⭐ 130 · TypeScript</sub>
-- [itsjwill/vanta](https://github.com/itsjwill/vanta) - Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, text-to-video (Wan 2.2/LTX), AI music, video editor, timeline, 100+ transitions. Free Synthesia, HeyGen… <sub>⭐ 129 · TypeScript</sub>
-- [Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation](https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation) - ComfyUI custom nodes for DLSS 5 Neural Video & Image Enhancer with Frame Interpolation <sub>⭐ 129 · Python</sub>
-- [Kunhao-Liu/ViewExtrapolator](https://github.com/Kunhao-Liu/ViewExtrapolator) - Novel View Extrapolation with Video Diffusion Priors <sub>⭐ 129 · Python</sub>
-- [Shi-qingyu/DeT](https://github.com/Shi-qingyu/DeT) - (ICCV 2025) Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer <sub>⭐ 129 · Python</sub>
-- [carykh/videoToVoice](https://github.com/carykh/videoToVoice) - takes in a sequence of lip images, and predicts the phonemes being said. <sub>⭐ 128 · Python</sub>
-- [ChenHsing/SimDA](https://github.com/ChenHsing/SimDA) - (CVPR 2024) SimDA: Simple Diffusion Adapter for Efficient Video Generation <sub>⭐ 128 · Python</sub>
-- [karuvanan/MiniMax-H3-Director-Cut-Studio](https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio) - Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI. <sub>⭐ 128 · Python</sub>
-- [Kaihua-Chen/diffusion-vas](https://github.com/Kaihua-Chen/diffusion-vas) - (CVPR 2025) Official code for Using Diffusion Priors for Video Amodal Segmentation <sub>⭐ 127 · Python</sub>
-- [NicholasCone/agnes-ai-video-suite](https://github.com/NicholasCone/agnes-ai-video-suite) - Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles <sub>⭐ 127 · HTML</sub>
-- [baaivision/URSA](https://github.com/baaivision/URSA) - (ICLR 2026) Uniform Discrete Diffusion with Metric Path for Video Generation <sub>⭐ 126 · Python</sub>
-- [snicolast/ComfyUI-Ovi](https://github.com/snicolast/ComfyUI-Ovi) - Custom nodes that bring Character.AI's Ovi video+audio generator to ComfyUI with streamlined setup, selectable precision, attention-backend control, and per-node device targeting for multi-GPU rigs. <sub>⭐ 126 · Python</sub>
-- [zju3dv/StarGen](https://github.com/zju3dv/StarGen) - (CVPR 2025) Code for "StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation". <sub>⭐ 126</sub>
-- [diffusionstudio/open-projects](https://github.com/diffusionstudio/open-projects) - Worked examples for Diffusion Studio, a video editor built for your agent. <sub>⭐ 125 · TypeScript</sub>
-- [MSA-LMC/S2D](https://github.com/MSA-LMC/S2D) - (TAFFC 2024) The official implementation of paper: From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos <sub>⭐ 125 · Python</sub>
-- [ShmuelRonen/ComfyUI-VideoUpscale_WithModel](https://github.com/ShmuelRonen/ComfyUI-VideoUpscale_WithModel) - A memory-efficient implementation for upscaling videos in ComfyUI using non-diffusion upscaling models. This custom node is designed to handle large video frame sequences without memory bottlenecks. <sub>⭐ 125 · Python</sub>
-- [dgrauet/ltx-2-mlx](https://github.com/dgrauet/ltx-2-mlx) - Pure MLX port of LTX-2 (LTX-2.3 & LTX-2.5) for Apple Silicon — text/image/audio-to-video generation with audio, natively on Metal <sub>⭐ 124 · Python</sub>
-- [Geekgineer/Depths-CPP](https://github.com/Geekgineer/Depths-CPP) - A high-performance C++ header and application for real-time metric depth estimation, using models from Depth-Anything-V3. Powered by ONNX Runtime and OpenCV, it supports seamless inference for… <sub>⭐ 123 · C++</sub>
-- [Jalen-Brunson/ComfyUI-MiniMax-H3-PDD-Acc](https://github.com/Jalen-Brunson/ComfyUI-MiniMax-H3-PDD-Acc) - Official MiniMax-H3 8-step PDD Acc LoRAs (alibaba-pai) in ComfyUI: LoRA + parallel-decoding head bank, euler on trained sigmas, audio+video in 8 steps <sub>⭐ 123 · Python</sub>
-- [KaiyueSun98/T2V-CompBench](https://github.com/KaiyueSun98/T2V-CompBench) - (CVPR 2025) T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation <sub>⭐ 123 · Jupyter Notebook</sub>
-- [UnicomAI/LeMiCa](https://github.com/UnicomAI/LeMiCa) - (NeurIPS 2025 Spotlight) LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation <sub>⭐ 123 · Python</sub>
-- [aejion/4Diffusion](https://github.com/aejion/4Diffusion) - Official code for 4Diffusion: Multi-view Video Diffusion Model for 4D Generation. <sub>⭐ 122 · Python</sub>
-- [halli75/motion-mirror](https://github.com/halli75/motion-mirror) - Local-first motion transfer — animate any character image from a reference video. Open-source alternative to hosted motion-control tools, built on Wan2.1-VACE. <sub>⭐ 122 · Python</sub>
-- [robert-2-j/HappyHorse-1.0](https://github.com/robert-2-j/HappyHorse-1.0) - Introduction for the Black Horse AI video generator: HappyHorse 1.0. Updates at <sub>⭐ 122</sub>
-- [Text-to-Audio/Make-An-Audio-3](https://github.com/Text-to-Audio/Make-An-Audio-3) - Make-An-Audio-3: Transforming Text/Video into Audio via Flow-based Large Diffusion Transformers <sub>⭐ 121 · Python</sub>
-- [Aleafy/RelightVid](https://github.com/Aleafy/RelightVid) - RelightVid: Temporal-Consistent Diffusion Model for Video Relighting <sub>⭐ 120 · Python</sub>
-- [TEA-Lab/diffusion_reward](https://github.com/TEA-Lab/diffusion_reward) - (ECCV 2024) Official implementation of the paper "Diffusion Reward: Learning Rewards via Conditional Video Diffusion" <sub>⭐ 120 · Python</sub>
-- [agent-next/video-agent](https://github.com/agent-next/video-agent) - Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI. <sub>⭐ 119 · Python</sub>
-- [DSaurus/Human4DiT](https://github.com/DSaurus/Human4DiT) - This repository is the official implementation of Human4DiT: 360-degree Human Video Generation with 4D Diffusion Transformer. <sub>⭐ 118 · Python</sub>
-- [Jaykef/AvaChat](https://github.com/Jaykef/AvaChat) - AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large Language Models via api (OpenAI and Claude) as text inputs to D-ID's image-to-video talking head model (via D-ID… <sub>⭐ 118 · JavaScript</sub>
-- [makefinks/manim-generator](https://github.com/makefinks/manim-generator) - Automatic LLM-based video generation using the manim library. Usage of a code-writer and code-reviewer feedback loop with execution logs. <sub>⭐ 118 · Python</sub>
-- [MushroomFleet/DJZ-Workflows](https://github.com/MushroomFleet/DJZ-Workflows) - 1000+ ComfyUI workflows for AI image & video generation — Flux, SDXL, Hunyuan, CogVideo, upscaling, ControlNet & more <sub>⭐ 118 · Python</sub>
-- [Vonage/vonage-dotnet-sdk](https://github.com/Vonage/vonage-dotnet-sdk) - Vonage REST API client for .NET, written in C#. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more. <sub>⭐ 118 · C#</sub>
-- [ZhihaoHu/VideoControlNet](https://github.com/ZhihaoHu/VideoControlNet) - Official Pytorch Implementation for "VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet" <sub>⭐ 118</sub>
-- [AkagawaTsurunaki/zerolan-core](https://github.com/AkagawaTsurunaki/zerolan-core) - ZerolanCore integrates many open-source, locally deployable AI models, and aims to integrate a series of AI models such as large language model (LLM), automatic speech recognition (ASR)… <sub>⭐ 117 · Python</sub>
-- [deven96/whatsticker](https://github.com/deven96/whatsticker) - Converting from image/gif/videos on whatsapp to a sticker by using a caption in a chat where the bot is present <sub>⭐ 117 · Go</sub>
-- [ForeverFancy/GVFDiffusion](https://github.com/ForeverFancy/GVFDiffusion) - (ICCV 2025) Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis <sub>⭐ 117 · Jupyter Notebook</sub>
-- [RuoyuFeng/CCEdit](https://github.com/RuoyuFeng/CCEdit) - CCEdit: Creative and Controllable Video Editing via Diffusion Models <sub>⭐ 117 · Python</sub>
-- [UmiMarch/OpenVideo](https://github.com/UmiMarch/OpenVideo) - OpenVideo specializes in the domain of text-to-video generation, with the goal of providing high-quality and diverse video datasets to AI researchers globally. <sub>⭐ 117 · Python</sub>
-- [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - (ICCV2025)LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models <sub>⭐ 117 · Python</sub>
-- [yz93/anchor-diff-VOS](https://github.com/yz93/anchor-diff-VOS) - Anchor Diffusion for Unsupervised Video Object Segmentation <sub>⭐ 115 · Python</sub>
-- [arthur-qiu/FreeTraj](https://github.com/arthur-qiu/FreeTraj) - Code for FreeTraj, a tuning-free method for trajectory-controllable video generation <sub>⭐ 114 · Python</sub>
-- [bookworm52/EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) - Welcome to my comprehensive course on python programming and ethical hacking. The course assumes you have NO prior knowledge in any of these topics, and by the end of it you'll be at a high… <sub>⭐ 114</sub>
-- [kpthedev/ez-text2video](https://github.com/kpthedev/ez-text2video) - Easily run text-to-video diffusion with customized video length, fps, and dimensions on 4GB video cards or on CPU. <sub>⭐ 114 · Python</sub>
-- [sandyresearch/chipmunk](https://github.com/sandyresearch/chipmunk) - 3.7× faster video generation E2E 1.6× faster image generation E2E ColumnSparseAttn 9.3× vs FlashAttn‑3 ColumnSparseGEMM 2.5× vs cuBLAS <sub>⭐ 114 · Cuda</sub>
-- [ShmuelRonen/ComfyUI-FramePackWrapper_Plus](https://github.com/ShmuelRonen/ComfyUI-FramePackWrapper_Plus) - An improved wrapper for the FramePack project that allows the creation of videos of any length based on a reference images and LoRA's with F1 sampler <sub>⭐ 114 · Python</sub>
-- [weijiawu/TransDETR](https://github.com/weijiawu/TransDETR) - (IJCV 2024) TransDETR: End-to-end Video Text Spotting with Transformer <sub>⭐ 113 · Python</sub>
-- [cporter202/generative-ai-arbitrage](https://github.com/cporter202/generative-ai-arbitrage) - A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money. This repo focuses on alternative API access paths to popular… <sub>⭐ 112</sub>
-- [Lornatang/ESPCN-PyTorch](https://github.com/Lornatang/ESPCN-PyTorch) - A PyTorch implementation of ESPCN based on CVPR 2016 paper Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network. <sub>⭐ 112 · Python</sub>
-- [302ai/302_video_generator](https://github.com/302ai/302_video_generator) - 302 AI Video Generator! <sub>⭐ 111 · TypeScript</sub>
-- [ARYPROGRAMMER/Video-Generator-AI](https://github.com/ARYPROGRAMMER/Video-Generator-AI) - This Next.js application generates videos based on client-provided queries. It is designed as a SaaS platform, allowing users to easily create engaging video content for various purposes such as… <sub>⭐ 111 · JavaScript</sub>
-- [joshmoody24/sitcom-simulator](https://github.com/joshmoody24/sitcom-simulator) - A tool that combines ChatGPT, Stable Diffusion, FakeYou, and FreePD to create AI-generated videos. <sub>⭐ 111 · Python</sub>
-- [yuanze-lin/IllumiCraft](https://github.com/yuanze-lin/IllumiCraft) - (NeurIPS 2025) The official code for "IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation" <sub>⭐ 111 · Python</sub>
-- [lmmx/deforum-stable-diffusion](https://github.com/lmmx/deforum-stable-diffusion) - Refactor of the Deforum Stable Diffusion notebook (featuring video_init) https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb <sub>⭐ 110 · Python</sub>
-- [microsoft/Peekaboo](https://github.com/microsoft/Peekaboo) - Interactive Video Generation via Masked-Diffusion <sub>⭐ 110 · Python</sub>
-- [OmniJev/OneJev](https://github.com/OmniJev/OneJev) - A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass. <sub>⭐ 110 · Python</sub>
-- [MinaPecheux/UnityTutorials-BehaviourTrees](https://github.com/MinaPecheux/UnityTutorials-BehaviourTrees) - The code for a short tutorial on how to create a simple guard AI using behaviour trees in Unity/C# (in text or video format)! <sub>⭐ 109 · C#</sub>
-- [MinusZoneAI/ComfyUI-CogVideoX-MZ](https://github.com/MinusZoneAI/ComfyUI-CogVideoX-MZ) - CogVideoX-5B 4-bit quantization model <sub>⭐ 109 · Python</sub>
-- [IceClear/SeedVR](https://github.com/IceClear/SeedVR) - (CVPR2025 Highlight) SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration <sub>⭐ 108</sub>
-- [lucidrains/multimodal-dit-pytorch](https://github.com/lucidrains/multimodal-dit-pytorch) - Implementation of a multimodal diffusion transformer in Pytorch <sub>⭐ 108</sub>
-- [Rolling-Sink/Rolling-Sink](https://github.com/Rolling-Sink/Rolling-Sink) - Official implementation of "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion" <sub>⭐ 108 · Python</sub>
-- [stuttlepress/ComfyUI-Wan-VACE-Video-Joiner](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner) - ComfyUI workflows to create smooth transitions between video clips using Wan VACE. Works with video from any model or other source-LTX-2, drone footage, stock video, personal recordings, etc. <sub>⭐ 108</sub>
-- [Vchitect/RAPO](https://github.com/Vchitect/RAPO) - (CVPR 2025) The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation <sub>⭐ 108 · Python</sub>
-- [ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO) - My Workflows + Auxiliary nodes for Stable Video Diffusion (SVD) <sub>⭐ 108 · Python</sub>
-- [alimama-creative/M3DDM-Video-Outpainting](https://github.com/alimama-creative/M3DDM-Video-Outpainting) - (ACM MM 2023) Official implementation of "Hierarchical Masked 3D Diffusion Model for Video Outpainting" <sub>⭐ 107 · Python</sub>
-- [faris-sait/openshorts](https://github.com/faris-sait/openshorts) - AI-powered vertical video generator that turns long YouTube videos or uploads into viral short clips (9:16). <sub>⭐ 107 · JavaScript</sub>
-- [Maurdekye/training-picker](https://github.com/Maurdekye/training-picker) - Extension for stable-diffusion-webui that allows the user to mux through the keyframes of a video, and automatically pick and export training examples from individual keyframes. <sub>⭐ 107 · Python</sub>
-- [RioShiina47/comfy-webui](https://github.com/RioShiina47/comfy-webui) - A recipe-driven WaaS platform for ComfyUI that turns complex workflows (Image, Audio, Video, 3D) into intuitive Gradio UIs, high-level semantic APIs, and MCP tools for LLMs & AI Agents. <sub>⭐ 107 · Python</sub>
-- [takiuddin93/ChatApp](https://github.com/takiuddin93/ChatApp) - A Flutter Chat application, using Firebase for Google Sign In/Sign Up and exchange text, emoji and images. Integrated Agora Video Call SDK to communicate over video call <sub>⭐ 107 · Dart</sub>
-- [cafermutluozkan/free-ai-notebooks](https://github.com/cafermutluozkan/free-ai-notebooks) - Free ready-to-run AI notebooks for Text-to-Video, Image-to-Video, Voice Cloning, TTS & AI Music. Run on Kaggle, Colab, HuggingFace Spaces, Paperspace & Vast.ai — zero setup, one-click launch. <sub>⭐ 106 · Jupyter Notebook</sub>
-- [Cerzi/videoswarm](https://github.com/Cerzi/videoswarm) - A mass video player for easy browsing of large video datasets <sub>⭐ 106 · JavaScript</sub>
-- [tanbryan/ai-mv-generator](https://github.com/tanbryan/ai-mv-generator) - A multi-agent system designed for generating music videos with scrolling subtitles based on lyrics. This project analyzes the lyrics and creates detailed prompts based on the analysis results to… <sub>⭐ 105 · Python</sub>
-- [cvlab-kaist/DiffTrack](https://github.com/cvlab-kaist/DiffTrack) - (NeurIPS'25) Official implementation of "Emergent Temporal Correspondences from Video Diffusion Models" <sub>⭐ 104 · Python</sub>
-- [XamHans/video-2-text](https://github.com/XamHans/video-2-text) - Video2Text - Easily convert your video to text <sub>⭐ 104 · SCSS</sub>
-- [hohonu-vicml/TrailBlazer](https://github.com/hohonu-vicml/TrailBlazer) - (SIGGRAPH Asia 2024) TrailBlazer: Trajectory Control for Diffusion-Based Video Generation <sub>⭐ 103 · Python</sub>
-- [Navu4/Facial-Recognition-for-Crime-Detection](https://github.com/Navu4/Facial-Recognition-for-Crime-Detection) - Face recognition software to detect criminals in images and videos, noting their time of occurences. <sub>⭐ 103 · Python</sub>
-- [swati1024/torrents](https://github.com/swati1024/torrents) - Skip to content Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets. @giansalex giansalex/torrent-courses-download-list.md forked from M-Younus/torrent courses… <sub>⭐ 103</sub>
-- [thetobysiu/Deepstory](https://github.com/thetobysiu/Deepstory) - Deepstory turns a text/generated text into a video where the character is animated to speak your story using his/her voice. <sub>⭐ 103 · Python</sub>
-- [Vonage/vonage-java-sdk](https://github.com/Vonage/vonage-java-sdk) - Vonage Server SDK for Java. API support for SMS, Messages, Voice, Text-to-Speech, Numbers, Verify (2FA), Video and more. <sub>⭐ 103 · Java</sub>
-- [sign-language-processing/spoken-to-signed-translation](https://github.com/sign-language-processing/spoken-to-signed-translation) - a text-to-gloss-to-pose-to-video pipeline for spoken to signed language translation <sub>⭐ 102 · Python</sub>
-- [ealicesora/Awesome-Autoregressive-Video-Diffusion](https://github.com/ealicesora/Awesome-Autoregressive-Video-Diffusion) - Collection of forcing related autoregressive video Gen <sub>⭐ 101</sub>
-- [stuttlepress/ComfyUI-Wan-VACE-Prep](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep) - ComfyUI nodes designed to help make common video editing tasks with video generation models less complicated. Smooth transitions, extensions, outpainting. Primarily designed for Wan VACE, with some… <sub>⭐ 101 · Python</sub>
-- [bbldCVer/EDEN](https://github.com/bbldCVer/EDEN) - (CVPR2025) Official PyTorch implementation of "EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation." <sub>⭐ 100 · Python</sub>
-- [harshalbenake/hbworkspace1-100](https://github.com/harshalbenake/hbworkspace1-100) - (1) Name :- accelormeterSensor Description :- Using acceloremeter sensor to print Sensor event values. (2) Name :- ActionBarDropdownNavigation Description :- Action bar with dropdown navigation type.… <sub>⭐ 100 · Java</sub>
-- [hustvl/MobileI2V](https://github.com/hustvl/MobileI2V) - (ArXiv 2025) MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices <sub>⭐ 100 · Python</sub>
-- [varungupta31/dashcam_anonymizer](https://github.com/varungupta31/dashcam_anonymizer) - Code to Blur Human Faces and Vehicle License Plates in Video and Images using a SoTA Object Detection model YOLOv8 <sub>⭐ 99 · Python</sub>
-- [akash-rajak/Real-Time-Human-Detection-Counting](https://github.com/akash-rajak/Real-Time-Human-Detection-Counting) - A tensorflow based Faster RCNN inception v2 python model to detect and count humans in real time images, videos & camera. <sub>⭐ 98 · Python</sub>
-- [Anning01/TextCreateVideo](https://github.com/Anning01/TextCreateVideo) - chatGPT + 百度云API + Stable Diffusion + MoviePy + fastapi <sub>⭐ 98 · Python</sub>
-- [SooLab/Free-Bloom](https://github.com/SooLab/Free-Bloom) - (NeurIPS 2023) Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator <sub>⭐ 98 · Python</sub>
-- [aws-solutions-library-samples/guidance-for-open-source-3d-reconstruction-toolbox-for-gaussian-splats-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-open-source-3d-reconstruction-toolbox-for-gaussian-splats-on-aws) - The Open Source 3D Reconstruction Toolbox for Gaussian Splats provides an end-to-end, pipeline-based guidance on AWS to reconstruct 3D scenes or objects from images or video inputs. <sub>⭐ 97 · Python</sub>
-- [htobty/ReadyLLM](https://github.com/htobty/ReadyLLM) - Deploy, monitor, and tune LLM through a visual interface — plus image / video generation on top of ComfyUI. <sub>⭐ 97 · Python</sub>
-- [jacky-xbb/faceless-video-generator](https://github.com/jacky-xbb/faceless-video-generator) - An AI-powered tool that automates video content creation by generating stories, converting them into images, and compiling everything into a video with voiceover. <sub>⭐ 97 · Python</sub>
-- [SamurAIGPT/flux-3-video-api](https://github.com/SamurAIGPT/flux-3-video-api) - Python wrapper for Black Forest Labs' FLUX 3 video API — Text-to-Video and Image-to-Video with native synchronized audio. <sub>⭐ 97 · Python</sub>
-- [shantanu-ai/deep-learning-resources](https://github.com/shantanu-ai/deep-learning-resources) - Resources needed to start deep learning research. ML/DL/CV/NLP/ML-SYS/RL/Graphs/Maths/Med image lecture videos from professors at esteemed universities. <sub>⭐ 97</sub>
-- [github-userx/Awesome-Duplication-Finders](https://github.com/github-userx/Awesome-Duplication-Finders) - Apps to find duplicate files including same/similar images & videos (with computer vision/AI) <sub>⭐ 96</sub>
-- [Adam-Jimenez/auddit](https://github.com/Adam-Jimenez/auddit) - Tired of those Reddit text-to-speech videos on Youtube? Now you can make your own! <sub>⭐ 95 · Python</sub>
-- [JiangkaiWu/Promptus](https://github.com/JiangkaiWu/Promptus) - Official impl. of AAAI Oral Paper "Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion". A general semantic video communication framework. <sub>⭐ 95 · Python</sub>
-- [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - Batch convert video to text using openai's whisper or the local coreML via whisper.cpp on your MacBook <sub>⭐ 94 · Go</sub>
-- [parlance-zz/dualdiffusion](https://github.com/parlance-zz/dualdiffusion) - Dual Diffusion is a generative diffusion model for music trained on video game soundtracks. <sub>⭐ 93 · Python</sub>
-- [aleflabo/MoCoDAD](https://github.com/aleflabo/MoCoDAD) - The official PyTorch implementation of the IEEE/CVF International Conference on Computer Vision (ICCV) '23 paper Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly… <sub>⭐ 92 · Jupyter Notebook</sub>
-- [alexram1313/text-to-speech-sample](https://github.com/alexram1313/text-to-speech-sample) - Python3 Text to Speech Video Sample <sub>⭐ 92 · Python</sub>
-- [TheWiselyBearded/sbs-generator](https://github.com/TheWiselyBearded/sbs-generator) - This repository contains a framework for converting monocular videos into side-by-side (SBS) 3D videos. It utilizes a combination of image processing techniques and depth map predictions to generate… <sub>⭐ 92 · Jupyter Notebook</sub>
-- [ZeroLu/Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) - Open-source ai image generator skill and ai video generator skill for Codex, Claude Code, OpenClaw, Cursor, and more. Powered by CyberBara API with Nano Banana, Sora 2, Seedance, and Kling support.… <sub>⭐ 92 · MDX</sub>
-- [JaredTherriault/ComfyUI-JNodes](https://github.com/JaredTherriault/ComfyUI-JNodes) - python and web UX improvements for ComfyUI: Lora/Embedding picker, web extension manager (enable/disable any extension without disabling python nodes), control any parameter with text prompts, image… <sub>⭐ 91 · JavaScript</sub>
-- [jhbastek/VideoMetamaterials](https://github.com/jhbastek/VideoMetamaterials) - Implementation of 'Inverse-design of nonlinear mechanical metamaterials via video denoising diffusion models' (Nature Machine Intelligence) <sub>⭐ 91 · Python</sub>
-- [Kaihua-Chen/cog-nvs](https://github.com/Kaihua-Chen/cog-nvs) - (NeurIPS 2025) Official code for Reconstruct, Inpaint, Test-Time Finetune: Dynamic Novel-view Synthesis from Monocular Videos <sub>⭐ 91 · Python</sub>
-- [Naki21/google-speech-to-text](https://github.com/Naki21/google-speech-to-text) - Python script which pulls audio from mp4 video and transcribes audio using google speech and cloud storage APIs, returning an srt formatted document and raw text <sub>⭐ 91 · Python</sub>
-- [An-Answer-tree/AVD2](https://github.com/An-Answer-tree/AVD2) - (ICRA 2025)AVD2: Accident Video Diffusion for Accident Video Description <sub>⭐ 90 · Python</sub>
-- [AshutoshGoswami24/text-leech-bot](https://github.com/AshutoshGoswami24/text-leech-bot) - Help to upload videos of any list in text form <sub>⭐ 90 · Python</sub>
-- [deepcs233/VividFace](https://github.com/deepcs233/VividFace) - (Neurips 2025') VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping <sub>⭐ 90 · Python</sub>
-- [Filarius/video2video](https://github.com/Filarius/video2video) - Automatic1111 Stable Diffusion WebUI Video Extension <sub>⭐ 90 · Python</sub>
-- [seunghyuns98/VideoColorGrading](https://github.com/seunghyuns98/VideoColorGrading) - (ICCV 2025) Video Color Grading via Look-Up Table Generation <sub>⭐ 90 · Python</sub>
-- [Vicky0522/I2VEdit](https://github.com/Vicky0522/I2VEdit) - (SIGGRAPH Asia 2024) I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models <sub>⭐ 90 · Python</sub>
-- [desaixie/pa_vdm](https://github.com/desaixie/pa_vdm) - CVPRW 2025 paper Progressive Autoregressive Video Diffusion Models: https://arxiv.org/abs/2410.08151 <sub>⭐ 89 · Python</sub>
-- [Human-VDM/Human-VDM](https://github.com/Human-VDM/Human-VDM) - Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models <sub>⭐ 89</sub>
-- [replicate/cog-svd](https://github.com/replicate/cog-svd) - Stable video diffusion (img2vid) as a Cog model <sub>⭐ 89 · Python</sub>
-- [yangqy1110/NC-SDEdit](https://github.com/yangqy1110/NC-SDEdit) - (ECCV 2024) Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models <sub>⭐ 89</sub>
-- [Westlake-AGI-Lab/FlowDirector](https://github.com/Westlake-AGI-Lab/FlowDirector) - Official PyTorch implementation of the paper "FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing" <sub>⭐ 88 · Python</sub>
-- [FareedKhan-dev/text2video-from-scratch](https://github.com/FareedKhan-dev/text2video-from-scratch) - A Straightforward, Step-by-Step Implementation of a Video Diffusion Model <sub>⭐ 87 · Python</sub>
-- [JiauZhang/Text2Video-Zero](https://github.com/JiauZhang/Text2Video-Zero) - Implementation of Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators <sub>⭐ 87 · Python</sub>
-- [Kelu007/VividPose](https://github.com/Kelu007/VividPose) - Official code for VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation. <sub>⭐ 87</sub>
-- [SusungHong/MusicInfuser](https://github.com/SusungHong/MusicInfuser) - Official implementation of the paper "MusicInfuser: Making Video Diffusion Listen and Dance" (CVPR26) <sub>⭐ 87 · Python</sub>
-- [TencentARC/Divot](https://github.com/TencentARC/Divot) - Diffusion Powers Video Tokenizer for Comprehension and Generation (CVPR 2025) <sub>⭐ 87 · Python</sub>
-- [zhenye234/Talker-T2AV](https://github.com/zhenye234/Talker-T2AV) - ACM MM 2026 Talker-T2AV Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling <sub>⭐ 87 · Python</sub>
-- [snuvclab/david](https://github.com/snuvclab/david) - Official Repository for ICCV 2025 paper DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models <sub>⭐ 86 · C++</sub>
-- [Artificial-Sweetener/WhiteRabbit](https://github.com/Artificial-Sweetener/WhiteRabbit) - Powerful video frame manipulation nodes for ComfyUI such as: efficient high quality batch scaling, arbitrary framerate resampling, seamless video loop tools, batch watermark composite, and more. <sub>⭐ 85 · Python</sub>
-- [CodeGoat24/LiFT](https://github.com/CodeGoat24/LiFT) - Official implementation of LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment. <sub>⭐ 85 · Python</sub>
-- [yc4ny/SVAD](https://github.com/yc4ny/SVAD) - (CVPR Workshop 2025) Code for SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation <sub>⭐ 85 · Python</sub>
-- [lucidrains/flexible-diffusion-modeling-videos-pytorch](https://github.com/lucidrains/flexible-diffusion-modeling-videos-pytorch) - Implementation of the video diffusion model and training scheme presented in the paper, Flexible Diffusion Modeling of Long Videos, in Pytorch <sub>⭐ 84</sub>
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - Diffuses:用于PyTorch图像,视频和音频生成的先进传播模型. <sub>⭐ 34.6k · Python</sub>
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - AI视频平台的不受限制的开源替代——免费AI图像和视频生成工作室,配有600+模型(Flux,Midjourney,Kling,Sora,Veo). 无内容过滤器. 自办,MIT... <sub>⭐ 29.5k · JavaScript</sub>
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - 让我们让视频传播成为现实吧! <sub>⭐ 17.3k · Python</sub>
+- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 真正开放源码的AI avatar(数码人)工具包,用于离线视频生成和数码人克隆. <sub>⭐ 15.6k · C</sub>
+- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - 文本和图像到视频生成:CogVideoX(2024)和CogVideo(ICLR 2023) <sub>⭐ 13.1k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo:大型视频生成模型的系统框架 <sub>⭐ 12.6k · Python</sub>
+- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax:代理视频生成(导演,编剧,制片人,和视频生成者全能)". <sub>⭐ 12.5k · Python</sub>
+- [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - 一个Python 库,旨在增强开发者的能力,以建立具有自成一体的计算机视野能力的应用程序和系统 <sub>⭐ 8.9k · Python</sub>
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI 图像和视频的生成 <sub>⭐ 8.2k · Python</sub>
+- [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - 支持图像到视频和视频到视频生成的无限长的聊天视频生成 <sub>⭐ 8.0k · Python</sub>
+- [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Porrait Alive:在弱条件下生成带有Audio2Video扩散模型的表达式Porrait视频 <sub>⭐ 7.6k</sub>
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodule Advanced, Generative, and Intelligent Creating Toolbox. 解锁魔法:Generative-AI(AIGC),易用API,awsome model 动物园,扩散模型,用于文本到图像. . <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) - AI生成短剧的端到端制作工作空间,从脚本输入到结构化的故事板,一致性管理,镜头准备,视频生成,以及导出. <sub>⭐ 6.6k · Python</sub>
+- [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - 最近用于视频生成,编辑的传播模型和其他各种应用的整理清单. <sub>⭐ 5.8k</sub>
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - 从图像和视频中删除可见和看不见的AI水印和出处元数据. Python库和CLI用于合成ID,C2PA,EXIF,IPTC,XMP,以及常见的基因-AI标记. <sub>⭐ 5.7k · Python</sub>
+- [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon是一个干净而整洁的OpenWrt LuCI主题,用户可以自定义其与图像或视频的登录界面,它也支持光和暗模式之间的自动和人工切换. <sub>⭐ 5.5k · Less</sub>
+- [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2) - OpenMMLab 的下一代视频理解工具箱和基准 <sub>⭐ 5.2k · Python</sub>
+- [AILab-CVC/VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter2: 高品质视频传播模型超越数据限制 <sub>⭐ 5.1k · Python</sub>
+- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - 通过在文本提示之间探索潜在的空间和形态来创建带有稳定扩散的视频 <sub>⭐ 4.7k · Python</sub>
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - 一个OBS插件,用于删除肖像图像中的背景(video),使得在录制或流播时很容易替换背景. <sub>⭐ 4.6k · C++</sub>
+- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5:领先的轻量级视频生成模型 <sub>⭐ 4.6k · Python</sub>
+- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - 加快视频生成的统一推论和训练后框架. <sub>⭐ 4.5k · Python</sub>
+- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - (ICCV 2023) Tune-A-Video: 图像传播模型的单热调图,用于文本到视频生成 <sub>⭐ 4.4k · Python</sub>
+- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - (ICCV 2023口述)文字对图像传播模型为零热视频生成器. <sub>⭐ 4.2k · Python</sub>
+- [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX- Video ComfyUI 支持软件 <sub>⭐ 4.2k · Python</sub>
+- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Quen2.5-Omni是Alibaba Cloud的Quen团队制作的一款端对端多式联运模式,能够理解文本,音频,视觉,视频,以及表演实时语音生成. <sub>⭐ 4.1k · Jupyter Notebook</sub>
+- [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qune3-omni是一款本土端对端,omni模式LLM,由Alibaba Cloud的Quen团队开发,能够理解文字,音频,图像,视频,以及实时生成语音. <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - (ICLR2025,ICML2025,NeurIPS2025 Spotlight) 量子化的注意比FlashAttenty实现2-5x的速度,不失去跨语言,图像,和视频模型的端到端的度量. <sub>⭐ 4.0k · Cuda</sub>
+- [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) - 一个图像和视频生成工作室——一个即时栏,每个模型自己的设置,每个完成的运行在一个画廊中. <sub>⭐ 4.0k · TypeScript</sub>
+- [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - 涡轮扩散:100-200x加速视频传播模型 <sub>⭐ 3.9k · Python</sub>
+- [SandAI-org/MAGI-1](https://github.com/SandAI-org/MAGI-1) - MAGI-1: 自动递归视频生成规模 <sub>⭐ 3.8k · Python</sub>
+- [genmoai/mochi](https://github.com/genmoai/mochi) - 由Genmo创建的OSS最佳视频生成模型 <sub>⭐ 3.7k · Python</sub>
+- [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing) - 官方代码库"自强:对自动视频传播的沟通培训和推论"(NeurIPS 2025 Spotlight) <sub>⭐ 3.5k · Python</sub>
+- [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+开源基因AI应用,你可以克隆,部署,并货币化——图像生成器,视频工具,虚拟尝试,AI SaaS模板,以及平台集成. 一次点击Vercel部署在每个... <sub>⭐ 3.4k · JavaScript</sub>
+- [ali-vilab/VGen](https://github.com/ali-vilab/VGen) - VGen官方回波:基于传播模式的视频生成综合生态系统 <sub>⭐ 3.2k · Python</sub>
+- [Doubiiu/DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - (ECCV 2024,口述) DynamiCrafter:动画开放域图像与视频传播前传 <sub>⭐ 3.0k · Python</sub>
+- [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - (NeurIPS 2025) 让Them Talk:音频驱动多个人对话视频生成 <sub>⭐ 3.0k · Python</sub>
+- [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - (SIGGRAPH Asia 2023) 重放A视频:零热文本引导视频对视频翻译 <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - 用于图像/视频/音频传播模型的一般微调工具箱。 <sub>⭐ 2.9k · Python</sub>
+- [Saiyan-World/goku](https://github.com/Saiyan-World/goku) - (CVPR2025 高亮) 视频生成基金会模型 //saiyan-world.github.io/goku <sub>⭐ 2.9k · Python</sub>
+- [numz/ComfyUI-SeedVR2_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - ComfyUI 的官方种子VR2视频升级器 <sub>⭐ 2.9k · Python</sub>
+- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) - 轻量级图像视频动作生成推论框架 <sub>⭐ 2.9k · Python</sub>
+- [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV:无限长度和高菲德尔主义 虚拟人类视频生成,具有视觉条件的平行Denoising <sub>⭐ 2.8k · Python</sub>
+- [google-research/kubric](https://github.com/google-research/kubric) - 用于创建半现实合成多对象视频的数据生成管道,其中包含丰富的说明,如实例分解口罩,深度图,以及光学流. <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - 开源短视频自动生成工具 <sub>⭐ 2.8k · Python</sub>
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX,稳定扩散,SDXL,SD3,LORA,Fine Tuning,DreamBooth,Training,Autom1111,Forge WebUI,SwarmUI,DeepFake,TTS,动画,文本到视频,教程,指南,讲座,课程... <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [Tencent/MimicMotion](https://github.com/Tencent/MimicMotion) - 具有信心感的高质量人类运动视频生成指南 <sub>⭐ 2.7k · Python</sub>
+- [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - 自动删除图像和视频中的镶嵌图,或者在它们中添加镶嵌图. <sub>⭐ 2.7k · Python</sub>
+- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - 最终收藏的高真种子2.0提示和种子AI资源. 发现种子2.0如何用于电影,动画,UGC,社交媒体,meme和广告. 包括... <sub>⭐ 2.6k · Shell</sub>
+- [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - (ICLR 26口述) 稳定视频无穷:无限-Length视频生成与错误回收 <sub>⭐ 2.6k · Python</sub>
+- [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra) - Lyra项目:开放基因3D世界模型 <sub>⭐ 2.5k · Python</sub>
+- [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui是一个开源的Sora网络客户端,使用户能够轻松地用OpenAI的Sora模型从文本中创建视频. <sub>⭐ 2.4k · TypeScript</sub>
+- [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - 从科学论文自动生成视频 <sub>⭐ 2.4k · Python</sub>
+- [6174/comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace是一个直观,方便用户,开源的AI工具,用于生成图像和视频,实现AI技术的民主化访问. <sub>⭐ 2.3k · TypeScript</sub>
+- [ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) - (CSUR)视频传播模式调查 <sub>⭐ 2.3k</sub>
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+免费AI服务,用于聊天,图像,视频,语音和API(有时可能包括免费访问lead gen ai模型). <sub>⭐ 2.3k</sub>
+- [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 基于变压器扩散的高分辨率和长视频生成的端到端解决方案 <sub>⭐ 2.3k · Python</sub>
+- [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios) - 赫利俄斯:真实实时长视频生成模型 <sub>⭐ 2.2k · Python</sub>
+- [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) - 代理技能:将中国故事复制品或订购的图像转换成手绘日记-comic动画(沉寂MP4图片轨迹). <sub>⭐ 2.1k · HTML</sub>
+- [showlab/Code2Video](https://github.com/showlab/Code2Video) - (ICML 2026) 通过代码生成视频 <sub>⭐ 2.1k · Python</sub>
+- [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) - 2000+ 编译种子2.0视频生成提示——电影,动漫,UGC,广告,meme风格. 包括种子API指南,人物一致性提示,以及高级视频工作流程. <sub>⭐ 2.1k · TypeScript</sub>
+- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - 综合的论文列表,用于定义世界模型,并使用世界通用视频生成模型,Embody AI,以及自主驾驶,包括论文,代码,和相关. <sub>⭐ 2.0k · Python</sub>
+- [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys:一个方便高效的视频生成系统 <sub>⭐ 2.0k · Python</sub>
+- [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - 执行 Make-A-Video, 来自Meta AI的新的 SOTA文本到视频生成器, 在 Pytorch <sub>⭐ 2.0k · Python</sub>
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - 桌面AI助理由GPT-6,GPT-5,双子座,克劳德,格罗克,奥拉马,DeepSeek,Perplexity提供动力,以及更多——聊天,代理,工具,MCP,插件,RAG,视觉,语音,图像和视频生成,语音...... <sub>⭐ 2.0k · Python</sub>
+- [Vchitect/Latte](https://github.com/Vchitect/Latte) - (TMLR 2025) Latte:Latent Difusion Transformer for Video Crowth. (中文(中国大陆) ). <sub>⭐ 1.9k · Python</sub>
+- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup是一个强大,自由的工具,旨在从图像和视频数据集中迅速产生有价值的洞察力,它有助于提高图像和标签的质量,同时显著降低. <sub>⭐ 1.9k · Python</sub>
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - 用于您的桌面的全能本地AI工作室:聊天,图像和视频生成以及一个免费开放源代码应用程序中的编码代理. Windows and Linux. 没有Docker,没有终端,不需要云. <sub>⭐ 1.9k · TypeScript</sub>
+- [LingyiChen-AI/AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI动力动画生成器——将剧本改编成完全由AI驱动的角色设计,故事板,视频合成的动画视频. <sub>⭐ 1.9k · TypeScript</sub>
+- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - (CVPR 2026) 走向实时传播-基于流视频超解析——高效的单步传播框架,用于流传VSR,局部受限的注意力稀少,且微小. <sub>⭐ 1.9k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo-I2V](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) - HunyuanVideo-I2V:一个基于HunyuanVideo的自定义图像到视频模型 <sub>⭐ 1.8k · Python</sub>
+- [Daisy-Zhang/Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) - 与Deepfake检测相关的工具,论文和代码列表. <sub>⭐ 1.8k</sub>
+- [Vchitect/VBench](https://github.com/Vchitect/VBench) - (CVPR2024) V Bench - 我们评价视频生成 <sub>⭐ 1.8k · Python</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - 苹果硅的原生LLM推论服务器. OpenAI + Anthropic API兼容,没有Python. Zig后端,Swift前端macOS app 带有聊天,音乐,语音,视频生成功能. <sub>⭐ 1.7k · Zig</sub>
+- [omerbt/TokenFlow](https://github.com/omerbt/TokenFlow) - 官方 Pytorch 执行"TokenFlow:一致传播功能用于一致视频编辑",介绍"TokenFlow"(ICLR 2024) <sub>⭐ 1.7k · Python</sub>
+- [JIA-Lab-research/ControlNeXt](https://github.com/JIA-Lab-research/ControlNeXt) - 可控视频和图像生成, SVD, Animate Anyone, ControlNet, ControlNEXt, LORA <sub>⭐ 1.6k · Python</sub>
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - 支持Telegram,Discord,Slack,Lark( ),QQ,QQ,与各种LLMs兼容,包括OpenAI,双子座,DeepSeek,Doubao和OpenRouter. 它提供智能的对话,图像... <sub>⭐ 1.6k · Go</sub>
+- [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - 主题 ^ 4K 编解码器的视频. v5.3.0:本地TTS(对接自由+azure,无外部引擎),表单资产引擎,回旋组成,成本化的AI生成... <sub>⭐ 1.6k · Python</sub>
+- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - (CVPR 2025) StreamingT2V: 一致,动态,以及可扩展的文本长视频生成 <sub>⭐ 1.6k · Python</sub>
+- [Drexubery/ViewCrafter](https://github.com/Drexubery/ViewCrafter) - (TPAMI 2025) ViewCrafter: 调制视频传播模式用于高真度小说视图合成 <sub>⭐ 1.6k · Python</sub>
+- [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager是一个以相机输入为条件的交互式RGBD视频生成模型,支持实时3D重建. <sub>⭐ 1.6k · Python</sub>
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - 官方的MiniMax模型上下文协议(MCP)服务器,可以与强大的文本交互到语音,图像生成和视频生成API. <sub>⭐ 1.6k · Python</sub>
+- [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - 图像到3D 参数视频 <sub>⭐ 1.6k · Python</sub>
+- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM)——一个基因化的AI电影制片厂,无缝地融入了Blender视频编辑器(VSE),使得端到端的制作从脚本到屏幕和背面. <sub>⭐ 1.5k · Python</sub>
+- [Phantom-video/Phantom](https://github.com/Phantom-video/Phantom) - 幻影:通过跨模版对齐生成主题连续视频 <sub>⭐ 1.5k · Python</sub>
+- [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - 文本到视频合成 Colab <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [NJU-PCALab/STAR](https://github.com/NJU-PCALab/STAR) - (ICCV 2025) STAR:以文字到视频模型进行空间-时空增强,用于真实世界视频超级解析 <sub>⭐ 1.5k · Python</sub>
+- [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - (CVPR 2024) Upscale-A-Video:真实世界视频超级解析器的时空持续传播模型 <sub>⭐ 1.5k · Python</sub>
+- [tianweiy/CausVid](https://github.com/tianweiy/CausVid) - (CVPR 2025) 从慢双向到快速自动视频传播模式 <sub>⭐ 1.4k · Python</sub>
+- [wenhaochai/StableVideo](https://github.com/wenhaochai/StableVideo) - (ICCV 2023) StableVideo:文本驱动一致性-认知传播视频编辑 <sub>⭐ 1.4k · Python</sub>
+- [Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator) - (CVPR2025) 我们介绍Stable Animator,这是第一个端对端ID保存视频传播框架,它合成了没有后处理的高质量视频,以参考图像为条件. . <sub>⭐ 1.4k · Python</sub>
+- [nv-tlabs/GEN3C](https://github.com/nv-tlabs/GEN3C) - (CVPR 2025 高清) GEN3C:3D-成形世界连续视频生成,精密相机控制 <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3) - (CVPR 2025) Halo3: 高动态和现实主义的肖像动画,带有视频传播变形器的图像动画 <sub>⭐ 1.4k · Python</sub>
+- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - 实施视频传播模式,乔纳森·何的新论文将DDPM扩展至视频生成 - 在Pytorch <sub>⭐ 1.4k · Python</sub>
+- [ali-vilab/TeaCache](https://github.com/ali-vilab/TeaCache) - 时间步嵌入 告诉: 是时候缓存视频传播模式了 <sub>⭐ 1.4k · Python</sub>
+- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - 将任何面孔变成电子游戏角色,像素艺术,粘土,3D或玩具 <sub>⭐ 1.4k · Python</sub>
+- [mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose) - (AAAI 2024) 追随-你的Pose:此回波是"追随你的Pose:用Pose自由视频的Pose Guided文本到Video生成"的正式执行. <sub>⭐ 1.4k · Python</sub>
+- [zanllp/infinite-image-browsing](https://github.com/zanllp/infinite-image-browsing) - 一个全功能化的图像/视频管理应用程序, 带有AI授权的组织和语义搜索。 支持来自 SD-webui, ComfyUI, Foocus, NovelAI, StableSwarmUI 等的元数据。 可用到... <sub>⭐ 1.4k · Vue</sub>
+- [bytedance/Lance](https://github.com/bytedance/Lance) - 3B-活性参数的本土统一多模式模型,用于图像和视频理解、生成和编辑。 <sub>⭐ 1.3k · Python</sub>
+- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - (TPAMI 2025). Magic Time:时间跨度视频生成模型作为Metamorphic模拟器 <sub>⭐ 1.3k · Python</sub>
+- [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - (ICCV'25) DimensionX:从一个具有可控视频扩散的单一图像创建任意3D和4D场景 <sub>⭐ 1.3k · Python</sub>
+- [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video) - Auto1111 扩展执行文本2video 传播模型( 如 ModelScope 或 VideoCrafter) 仅使用 Auto1111 webui 依赖 <sub>⭐ 1.3k · Python</sub>
+- [Francis-Rings/StableAvatar](https://github.com/Francis-Rings/StableAvatar) - (NeurIPS2026) 我们介绍StableAvatar,这是第一台端到端的视频传播变压器,它合成无限长的高质量音频驱动的阿凡达视频,没有任何后处理. . <sub>⭐ 1.3k · Python</sub>
+- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - Pocket-Sized 多式联运AI,用于跨多语种文本、图像和视频的内容理解和生成,比OpenAI CLIP和LLaVA & 更快达5x <sub>⭐ 1.3k · Python</sub>
+- [alibaba/Tora](https://github.com/alibaba/Tora) - (CVPR'25) 托拉:面向轨迹的用于视频生成的传播变形器 <sub>⭐ 1.2k · Python</sub>
+- [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: 用于自定义视频生成的多模式驱动架构 <sub>⭐ 1.2k · Python</sub>
+- [ali-vilab/UniAnimate](https://github.com/ali-vilab/UniAnimate) - SCIS-2025纸的代码"UniAnimate:Taming United Video Diffusion Models for conference Human Image Animation". 星洲网. <sub>⭐ 1.2k · Python</sub>
+- [xemle/home-gallery](https://github.com/xemle/home-gallery) - 自办的开源网络画廊,以查看您的照片和视频,其中包含方便移动、标记和AI驱动的图像发现 <sub>⭐ 1.2k · JavaScript</sub>
+- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: 面部交换, Lip Sync, 控制删除对象和文本及背景, Restyling, 音频分隔器, Clone Voice, Video Generation. Open source, Local & Free. <sub>⭐ 1.2k · C++</sub>
+- [CyberAgentAILab/TANGO](https://github.com/CyberAgentAILab/TANGO) - (ICLR 2025 Operal) TANGO:与分级音效-动量嵌入和扩散国际化联合同声视频重现. <sub>⭐ 1.2k · Python</sub>
+- [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer) - DLSS 5 图像和视频的神经渲染与框架生成,RTX 视频超级解析,HDR,以及Live回放 <sub>⭐ 1.2k · Python</sub>
+- [all-in-aigc/sorafm](https://github.com/all-in-aigc/sorafm) - 由Sora.FM制作的 Sora AI 视频生成器 <sub>⭐ 1.2k · TypeScript</sub>
+- [showlab/Show-1](https://github.com/showlab/Show-1) - (IJCV) Show-1:为文本到视频生成而结婚像素和Latent扩散模型 <sub>⭐ 1.1k · Python</sub>
+- [rhymes-ai/Allegro](https://github.com/rhymes-ai/Allegro) - Allegro是一种强大的文本到视频模型,在15 FPS和720p分辨率从简单的文本输入生成高达6秒的高质量视频. <sub>⭐ 1.1k · Python</sub>
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - 从Google Sheets(以及更多)自动归档视频、图像和社交媒体内容的链接。 <sub>⭐ 1.1k · Python</sub>
+- [ShareGPT4Omni/ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video) - (NeurIPS 2024) 官方执行"ShareGPT4Video:用更好的标题来改进视频理解和生成". <sub>⭐ 1.1k · Python</sub>
+- [Eyeline-Labs/Go-with-the-Flow](https://github.com/Eyeline-Labs/Go-with-the-Flow) - CVPR'25口述论文"随风而去:动感可控视频传播模式使用实时扭曲噪声"正式实施. <sub>⭐ 1.1k · Python</sub>
+- [memoavatar/memo](https://github.com/memoavatar/memo) - (TMLR) 用于表达式说话视频生成的内存引导扩散 <sub>⭐ 1.1k · Python</sub>
+- [uTox/uTox](https://github.com/uTox/uTox) - μTox 最轻和最流畅的托克斯客户端 <sub>⭐ 1.1k · C</sub>
+- [showlab/MotionDirector](https://github.com/showlab/MotionDirector) - (ECCV 2024口述) 动漫总监:动漫定制文本对视频传播模式. <sub>⭐ 1.1k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - HunyuanVideo-Foley:多式扩散,与代表对齐,用于高密福利音频生成. <sub>⭐ 1.1k · Python</sub>
+- [SnapXL/SnapX](https://github.com/SnapXL/SnapX) - SnapX是一个自由的,开源的,跨平台的工具,可以让你捕捉或记录屏幕的任意区域,并立即与单个按键压共享.上传图像,视频,文本,以及更多到... <sub>⭐ 1.0k · C#</sub>
+- [tong-io/tongflow](https://github.com/tong-io/tongflow) - 模式-第一基因AI平台 <sub>⭐ 1.0k · TypeScript</sub>
+- [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - 官方实施"梦之波:时尚影像对视合成通过稳定扩散". <sub>⭐ 1.0k · Python</sub>
+- [harlanhong/CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) - CVPR2022纸的官方代码: 深空感知源代言人网络,用于说话头像生成 <sub>⭐ 997 · Python</sub>
+- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI辅助的故事板和视频生成工具. 使用双子座生成故事板文本和帧,Vertex AI Veo生成过渡剪辑,ffmpeg用于缝合最终视频. . <sub>⭐ 986 · JavaScript</sub>
+- [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing) - (ICML 2026) 官方代码库 "高加索强力:自动向后扩散的蒸馏完成 高品质实时互动视频生成的权利" & Causal Forcing+ <sub>⭐ 985 · Python</sub>
+- [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - (ICLR 2024) SEINE:基因过渡和预测短到长视频传播模型 <sub>⭐ 966 · Python</sub>
+- [ShmuelRonen/ComfyUI-LatentSyncWrapper](https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper) - 这个节点使用ByteDance的LatentSync模型在ComfyUI中提供唇音同步能力,它允许您用音频输入同步视频唇. <sub>⭐ 962 · Python</sub>
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - 文本到脑旋转形式的视频生成器。 从您最喜欢的个性中了解任何话题 。 <sub>⭐ 958 · Python</sub>
+- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) - 工业层面的视频基础模型,用于统一的文本到视频(T2V)和图像到视频(I2V)生成. <sub>⭐ 954</sub>
+- [Vchitect/LaVie](https://github.com/Vchitect/LaVie) - (IJCV 2024) LaVie:高品质的视频生成,带有卡斯卡德Latent扩散模型 <sub>⭐ 953 · Python</sub>
+- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 用于视频生成的 GPT <sub>⭐ 924 · Python</sub>
+- [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: 放大视频传播模型的平行变换器 <sub>⭐ 921 · Python</sub>
+- [360CVGroup/FancyVideo](https://github.com/360CVGroup/FancyVideo) - 从文本和图像生成视频, 1st- gen <sub>⭐ 919 · Python</sub>
+- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - 平面媒体生成CLI用于图像,视频,音频,文本,信用,以及模型发现. <sub>⭐ 910 · JavaScript</sub>
+- [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) - ComfyUI-QuenVL自定义节点:整合了Quen-VL系列,包括Quen2.5-VL,Quen3-VL,Quen3.5-VL,Quen3.6-VL(MoE),以及Quen3.8-VL,在文本中GGUF支持高级多模式AI.... <sub>⭐ 900 · Python</sub>
+- [IceClear/SeedVR2](https://github.com/IceClear/SeedVR2) - (ICLR2026) 种子VR2: 通过分散式散射的逆向后训练进行单步视频修复 <sub>⭐ 891</sub>
+- [manoloide/AllSketchs](https://github.com/manoloide/AllSketchs) - 处理草图,我在过去几年中做过; 图像,视频,原型,实验,工具,作品,概念... 一切都没有完成,有些可能不起作用, 当我没有想法,我... <sub>⭐ 884 · Processing</sub>
+- [TrajectoryCrafter/TrajectoryCrafter](https://github.com/TrajectoryCrafter/TrajectoryCrafter) - (ICCV 2025,口述) TropheryCrafter:通过扩散模型重定向单曲视频的相机轨迹 <sub>⭐ 880 · Python</sub>
+- [PKU-YuanGroup/ConsisID](https://github.com/PKU-YuanGroup/ConsisID) - (CVPR 2025 Highlight) 身份-保存文本-通过频率分解生成视频 <sub>⭐ 862 · Python</sub>
+- [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) - (ICLR 2024) 官方pytorch执行"控制视频:培训无限制可控文本到视频生成". <sub>⭐ 862 · Python</sub>
+- [ali-vilab/UniAnimate-DiT](https://github.com/ali-vilab/UniAnimate-DiT) - UniAnimate-DIT:带有大型视频传播变形器的人类图像动画 <sub>⭐ 854 · Python</sub>
+- [lidge-ai/ima2-gen](https://github.com/lidge-ai/ima2-gen) - 本地第一视觉生成运行时间和工作室供人和编码代理,可复制图像和视频工作流程跨越多个供应商. <sub>⭐ 853 · TypeScript</sub>
+- [nv-tlabs/cosmos-transfer1-diffusion-renderer](https://github.com/nv-tlabs/cosmos-transfer1-diffusion-renderer) - Cosmos-Transfer1-DifmusionRender:基于Cosmos视频传播框架的高质量视频去光和重照明. <sub>⭐ 846 · Jupyter Notebook</sub>
+- [IGL-HKUST/DiffusionAsShader](https://github.com/IGL-HKUST/DiffusionAsShader) - (SIGGRAPH 2025) 传播作为Shader:3D-意识视频传播用于Versatile视频生成控制 <sub>⭐ 844 · Python</sub>
+- [SamurAIGPT/Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) - 使用 AI 从文本生成视频 <sub>⭐ 835 · Jupyter Notebook</sub>
+- [cporter202/automate-for-growth](https://github.com/cporter202/automate-for-growth) - 实现成长内容自动化的完整指南:Sora 2视频生成,品牌权威自动化,多平台发布,批量内容创建,API集成. <sub>⭐ 829</sub>
+- [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5) - Kandinsky 5.0:一个用于视频和图像生成的传播模型家族 <sub>⭐ 829 · Python</sub>
+- [thu-ml/DiT-Extrapolation](https://github.com/thu-ml/DiT-Extrapolation) - 正式实施"RIFLEx:视频传播变形器中长度外推的自由午餐"(ICML 2025),UltraViCo(ICLR 2026)和UltraImage. <sub>⭐ 829 · Python</sub>
+- [NVlabs/rcm](https://github.com/NVlabs/rcm) - rCM & Causal-rCM:双向/自动回转视频分解规模化的引导和统一算法/基础设施 <sub>⭐ 814 · Python</sub>
+- [facebookresearch/eb_jepa](https://github.com/facebookresearch/eb_jepa) - 一个开放源代码库,旨在提供联合嵌入预测建筑(JEPAs)的社区实例,它包含了从图像,视频中学习表现的代码和实例. <sub>⭐ 793 · Python</sub>
+- [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Phenaki Video的应用,它使用Mask GIT制作长达2分钟的文字引导视频,在Pytorch <sub>⭐ 789 · Python</sub>
+- [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = 文本到图像/视频 <sub>⭐ 788 · Python</sub>
+- [AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) - 收集了很棒的视频生成研究。 <sub>⭐ 786 · TeX</sub>
+- [williamyang1991/FRESCO](https://github.com/williamyang1991/FRESCO) - (CVPR 2024) FRESCO:用于零热视频翻译的空间-时空通信 <sub>⭐ 783 · Jupyter Notebook</sub>
+- [s1dashu/director](https://github.com/s1dashu/director) - 直接完整视频,具有多模式工作流程,用于研究,脚本,视觉开发,镜头设计,媒体生成,以及交付. <sub>⭐ 782</sub>
+- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - 代码为"Audio驱动的说话脸视频生成与基于学习的个性化头皮"(Arxiv 2020)和"预测个人化头部运动来自短视频和语音信号"(TMM 2022). <sub>⭐ 770 · Python</sub>
+- [MyNiuuu/MOFA-Video](https://github.com/MyNiuuu/MOFA-Video) - (ECCV 2024) MOFA-Video:透過Generative Motion Field adaptions在冷冻影像对Video扩散模型中的可控图像动画. <sub>⭐ 768 · Python</sub>
+- [dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation) - 由Mathieu,Couprie & LeCun制作的"深多尺度视频预测超越平面错误"的 TensorFlow 执行. <sub>⭐ 749 · Python</sub>
+- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - 文本到视频生成/综合调查。 <sub>⭐ 746 · Python</sub>
+- [pixeli99/SVD_Xtend](https://github.com/pixeli99/SVD_Xtend) - 稳定视频传播培训规范与扩展. <sub>⭐ 733 · Python</sub>
+- [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM) - 面向长视视频世界模式的开放数据和可扩展培训. <sub>⭐ 732 · Python</sub>
+- [flymin/MagicDrive-V2](https://github.com/flymin/MagicDrive-V2) - (ICCV 2025) 官方实施论文"MagicDrive-V2:高分辨率长视频生成 自主驾驶与适应性控制". <sub>⭐ 727 · Python</sub>
+- [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) - A 解析列表 具有AR扩散功能的优秀视频世界模型:涵盖算法,应用,和基础设施,旨在为研究人员,从业者提供综合资源以及. <sub>⭐ 713 · TeX</sub>
+- [SkyworkAI/SkyReels-A2](https://github.com/SkyworkAI/SkyReels-A2) - SkyReels-A2:在视频传播变压器中编译任何内容 <sub>⭐ 712 · Python</sub>
+- [THU-SI/ReconX](https://github.com/THU-SI/ReconX) - (TIP 2026) 调试:用视频扩散模型重构 Sparse 视图中的任何场景 <sub>⭐ 711</sub>
+- [kwsong0113/diffusion-forcing-transformer](https://github.com/kwsong0113/diffusion-forcing-transformer) - (ICML 2025) 官方PyTorch 执行"历史-导视视频传播". <sub>⭐ 710 · Python</sub>
+- [svg-project/Sparse-VideoGen](https://github.com/svg-project/Sparse-VideoGen) - (ICML2025, NeurIPS2025 Spotlight) Sparse VideoGen 1 & 2: 加速视频传播变换器与sparse关注 <sub>⭐ 709 · Python</sub>
+- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - 完全自动化的视频制作器使用运动图形和文本对语音合成,将通讯变成每日YouTube视频. <sub>⭐ 707 · TypeScript</sub>
+- [LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler](https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler) - Minimax H3 (24ch) 的神经潜伏提升器。 副电路成本昂贵, 5B- param VAE 解码/ 编码。 直接提高低潜射度, 然后精炼。 加速高温视频源, 超越天真的接口 。 <sub>⭐ 698 · Python</sub>
+- [lixiaowen-xw/DiffuEraser](https://github.com/lixiaowen-xw/DiffuEraser) - DiffuEraser是视频涂装的传播模型,在保持可接受效率的同时,它具有很高的内容完整性和时间一致性. <sub>⭐ 695 · Python</sub>
+- [SpenserCai/sd-webui-deoldify](https://github.com/SpenserCai/sd-webui-deoldify) - DeOldify for Stable Difusion WebUI:这是StableDifusion的AUTOMATICE1111网络i的扩展,允许旧照片和旧视频的彩色化,它是基于去老化. <sub>⭐ 695 · Python</sub>
+- [Yaofang-Liu/Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - 普萨:千时步视频传播模式 <sub>⭐ 685 · Python</sub>
+- [bytedance/DreamID-V](https://github.com/bytedance/DreamID-V) - (ECCV 2026口述) DreamID-V:通过扩散变形器来弥合图像到视频的缺口,用于高真面孔的擦拭. <sub>⭐ 683 · Python</sub>
+- [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - 一系列的3个程序将自动接收Reddit的脚本,允许用户编辑,然后被发送到视频生成器上,然后自动上传到YouTube. <sub>⭐ 679 · Python</sub>
+- [xmarre/ComfyUI-Spectrum-MiniMax-H3](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3) - ComfyUI的原生MiniMax H3音频视频模型的无训练光谱加速. 使用Chebyshev 山脊特性预测来跳过选定的H3变压器评价,并有适应性调度... <sub>⭐ 679 · Python</sub>
+- [netaart/comfyui-browser](https://github.com/netaart/comfyui-browser) - ComfyUI的图像/视频/工作流程浏览器和管理器. <sub>⭐ 678 · Svelte</sub>
+- [baaivision/NOVA](https://github.com/baaivision/NOVA) - (ICLR 2025) 自动递归视频生成不向量化 <sub>⭐ 661 · Python</sub>
+- [tetherto/qvac](https://github.com/tetherto/qvac) - 开源本地AI SDK - 在无云,无API密钥的情况下运行人工智能. 支持GGUF,RAG,图像,音乐,以及视频生成,语音对文本,P2P推论等等. Cross-plateform: Linux, macOS... <sub>⭐ 661 · TypeScript</sub>
+- [G-U-N/AnimateLCM](https://github.com/G-U-N/AnimateLCM) - (SIGGRAPH ASIA 2024 TCS) 动画LCM:计算-有效果的个性化风格视频生成,没有个性化视频数据 <sub>⭐ 657 · Python</sub>
+- [primepake/wav2lip_288x288](https://github.com/primepake/wav2lip_288x288) - Wav2Lip 288版本和用于培训的管道 <sub>⭐ 651 · Python</sub>
+- [zju3dv/Diffuman4D](https://github.com/zju3dv/Diffuman4D) - (ICCV 2025) Diffuman4D:4D 一致的人类观点合成 来自Sparse-View视频 带有spatio-Temporal传播模型 <sub>⭐ 640 · Python</sub>
+- [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) - MAGI-2-预览:高效放大视频生成模型 <sub>⭐ 634 · Python</sub>
+- [brooks376/Happy-Horse-1.0](https://github.com/brooks376/Happy-Horse-1.0) - 快乐马AI视频生成器模型信息采集 官方演示和更新于happyhorses.io. <sub>⭐ 631</sub>
+- [experience-ml/cartoonize](https://github.com/experience-ml/cartoonize) - 将图像和视频转换成卡通的演示网络应用! <sub>⭐ 623 · Python</sub>
+- [prs-eth/RollingDepth](https://github.com/prs-eth/RollingDepth) - (CVPR 2025) 滚动深度:没有视频模型的视频深度 <sub>⭐ 611 · Python</sub>
+- [mit-han-lab/radial-attention](https://github.com/mit-han-lab/radial-attention) - (NeurIPS 2025) 辐射注意:O(nlogn) 与能量衰竭相伴的对长视频生成的 Sparse 关注 <sub>⭐ 607 · Python</sub>
+- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - 自由开放源代码替代 Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI——基于节点的AI工作流程构建器,用于基因图像和视频管道 <sub>⭐ 607 · JavaScript</sub>
+- [sergeytulyakov/mocogan](https://github.com/sergeytulyakov/mocogan) - MoCoGAN:为视频生成解析动作和内容 <sub>⭐ 604 · Python</sub>
+- [linzhiqiu/t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - 使用 VQAScore 评价文本对图像/视频/3D 模型 <sub>⭐ 603 · Python</sub>
+- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - 本地 LLM, 图像 & videeo&music 生成器, 光标般的感应码, 在您的手机上使用本地模型 <sub>⭐ 602 · C++</sub>
+- [wildminder/awesome-ltx2](https://github.com/wildminder/awesome-ltx2) - 所有可用的LTX-2型号,编码器,工作流程,用于ComfyUI的LORAs <sub>⭐ 597</sub>
+- [vivoCameraResearch/Magic-TryOn](https://github.com/vivoCameraResearch/Magic-TryOn) - MagicTryOn是一个基于大规模视频传播变形器的视频虚拟试操作框架. <sub>⭐ 595 · Python</sub>
+- [ChrisChen667788/wind-comic](https://github.com/ChrisChen667788/wind-comic) - 多代理AI管道,将一行文字变为完成的短片剧情:剧本,电影故事板,角色一致的视频. Productor-anostic(OpenAI/Claude,MJ,Minimax...) <sub>⭐ 594 · TypeScript</sub>
+- [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - 最终的素描和数字法证工具包。隐藏和提取图像、音频、视频、文件和网络包的数据,或者运行11个高级检测引擎来发现隐藏的... <sub>⭐ 594 · Python</sub>
+- [wendell0218/Awesome-RL-for-Video-Generation](https://github.com/wendell0218/Awesome-RL-for-Video-Generation) - 为视频生成而编写的强化学习论文目录 <sub>⭐ 590</sub>
+- [gokayfem/ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes) - ComfyUI用于视觉语言模型的节点:Qune3-VL,Moondream 3, Florence-2, SmolVLM2, InternVL, Gemma 3, MiniCPM-V. 加开伏布力检测,SAM2/SAM3分区,视频时间推理...... <sub>⭐ 588 · Python</sub>
+- [SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1) - SkyReels-A1: 视频传播变形器中的表达式外观动画 <sub>⭐ 580 · Python</sub>
+- [Vchitect/VEnhancer](https://github.com/Vchitect/VEnhancer) - VEnhancer的官方代码: Generative Space-Time 增强视频生成 <sub>⭐ 579 · Python</sub>
+- [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) - SkyReels V3: 多式联运视频生成模型 <sub>⭐ 575 · Python</sub>
+- [alibaba-yuanjing-aigclab/ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: 视频虚拟尝试, 使用扩散模型 <sub>⭐ 568 · Python</sub>
+- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - (ECCV 2024) 正式实施论文"驾驶潜水:布局指导 多维驱动情景 视频生成与Latent扩散模型". <sub>⭐ 565 · Python</sub>
+- [VideoVerses/VideoTuna](https://github.com/VideoVerses/VideoTuna) - 微调视频生成模型!. <sub>⭐ 555 · Python</sub>
+- [YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - 关于基于LLMs的多式联运生成(图像、视频、3D和音频)的论文目录。 <sub>⭐ 552 · HTML</sub>
+- [letorig/video-generator-client](https://github.com/letorig/video-generator-client) - Async Python 种子、 Kling、 MiniMax 和 Wan 视频生成的包装器。 支持 CLI 和本地网络 UI 。 <sub>⭐ 551 · Python</sub>
+- [lucidrains/nuwa-pytorch](https://github.com/lucidrains/nuwa-pytorch) - 在Pytorch实施NüWA,文本到视频合成的艺术关注网络 <sub>⭐ 547 · Python</sub>
+- [TianxingWu/FreeInit](https://github.com/TianxingWu/FreeInit) - (ECCV 2024) FreeInit:缩小视频传播模型的初始化差距 <sub>⭐ 543 · Python</sub>
+- [Leron-X/leronx](https://github.com/Leron-X/leronx) - LeronX — AI 图像和视频生成平台 <sub>⭐ 525 · Python</sub>
+- [heheyas/V3D](https://github.com/heheyas/V3D) - (T-PAMI 2025) V3D:视频传播模型是有效的3D生成器. <sub>⭐ 523 · Python</sub>
+- [Anil-matcha/Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) - AI短剧 & micro-drama视频生成器——利用多代理AI管道(编剧_故事板_帧_视频)将任何想法变成完整的短片剧情. Speedance 2 VIP, Kling 3.0.... <sub>⭐ 521 · Python</sub>
+- [ziqihuangg/Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) - 视频生成走向世界模式的作品列表 <sub>⭐ 520</sub>
+- [logtd/ComfyUI-LTXTricks](https://github.com/logtd/ComfyUI-LTXTricks) - 一套ComfyUI节点,为LTX视频模型提供额外的控制 <sub>⭐ 512 · Python</sub>
+- [YingqingHe/LVDM](https://github.com/YingqingHe/LVDM) - LVDM:用于高密长视频生成的Latet Video扩散模型 <sub>⭐ 506 · Python</sub>
+- [shengshu-ai/Vidu-S](https://github.com/shengshu-ai/Vidu-S) - Vidu S: 实时互动、可编辑和空间视频生成 <sub>⭐ 497</sub>
+- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - 用于长式音频视频生成的实时数字-人机模型 <sub>⭐ 496 · Python</sub>
+- [char0n/ffmpeg-php](https://github.com/char0n/ffmpeg-php) - FFmpegPHP 是一个纯 OO PHP 端口的ffmpeg-php 库,它用 C 写成. 它增加了一个易于使用,面向对象的 API ,用于从视频和音频文件中访问和检索信息。 它有... <sub>⭐ 494 · PHP</sub>
+- [logtd/ComfyUI-HunyuanLoom](https://github.com/logtd/ComfyUI-HunyuanLoom) - 使用 Hunyuan 视频模型编辑视频的一组节点 <sub>⭐ 492 · Python</sub>
+- [SamurAIGPT/Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) - 为ByteDance的"种子2.5API"——Text-to-Video,图像-Video,现实人类面孔,本土4K,一致的人物生成. <sub>⭐ 487 · Python</sub>
+- [jjihwan/FIFO-Diffusion_public](https://github.com/jjihwan/FIFO-Diffusion_public) - 正式实施FIFO-Difusion:从文字中生成无限视频而不经过培训(NeurIPS 2024). <sub>⭐ 486 · Python</sub>
+- [FoundationVision/FlashVideo](https://github.com/FoundationVision/FlashVideo) - (AAAI-2026) FlashVideo:为高效高分辨率视频生成而流畅的清晰度 <sub>⭐ 483 · Python</sub>
+- [Francis-Rings/FlashPortrait](https://github.com/Francis-Rings/FlashPortrait) - (CVPR2026) 我们介绍闪光肖像,一个端到端的视频传播变压器,能够合成ID保存,无限长的视频,同时实现最高6美元\时速的加速推论. . <sub>⭐ 479 · Python</sub>
+- [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - 双子网 — OpenAI 兼容的 API, 自托管, 无 API 密钥. 反向代理 gemini.google.com 成为 /v1/chat/ 完成: 单 Go 二进制, Chrome TLS 指纹, cookie pool with auto-renal... <sub>⭐ 476 · Go</sub>
+- [Correr-Zhou/OmniShow](https://github.com/Correr-Zhou/OmniShow) - (ICML 2026) ByteDance的"人与对象互动视频生成全能视频生成模型" <sub>⭐ 475 · Python</sub>
+- [receptron/mulmocast-cli](https://github.com/receptron/mulmocast-cli) - AI动力播客 & 视频生成器. <sub>⭐ 475 · TypeScript</sub>
+- [gudaochangsheng/RefAlign](https://github.com/gudaochangsheng/RefAlign) - (ECCV 2026) 官方PyTorch执行RefAlign: 代表对调参考到视频生成 <sub>⭐ 471 · Python</sub>
+- [NJU-PCALab/OpenVid-1M](https://github.com/NJU-PCALab/OpenVid-1M) - (ICLR 2025) OpenVid-1M:用于文本到视频生成的大型高品质数据集 <sub>⭐ 471 · Python</sub>
+- [nihaomiao/CVPR23_LFDM](https://github.com/nihaomiao/CVPR23_LFDM) - pytorch 执行我们的CVPR2023论文"有条件的图像到视频生成与Latent流传播模式". <sub>⭐ 470 · Python</sub>
+- [harlanhong/ACTalker](https://github.com/harlanhong/ACTalker) - CCV 2025 Actalker:用于说话头合成的端到端视频传播框架,支持单信号和多信号控制(如音频,表达). <sub>⭐ 465 · Python</sub>
+- [lcy362/agnes-video-generator](https://github.com/lcy362/agnes-video-generator) - 开源自办的AI视频生成器——完全免费. Text to multi-scene video 配有叙事,字幕,数字主播通过Web UI,由Agnes AI提供动力. <sub>⭐ 461 · Python</sub>
+- [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) - 这是DiT4DiT的官方代码重播,一个视觉-动作-模型(VAM)框架,将视频生成模型与流相匹配的动作预测结合,用于通用机器人. . <sub>⭐ 461 · Python</sub>
+- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuze是一款最先进的深层学习工具,与ComfyUI无缝地融合,革命性地将面部变形,唇音化,脸部突袭,Lipync翻译,视频生成. . <sub>⭐ 461 · Python</sub>
+- [TencentARC/RollingForcing](https://github.com/TencentARC/RollingForcing) - (ICLR 2026) 翻滚推进官方退赛:实时自动回传长视频传播 <sub>⭐ 461 · Python</sub>
+- [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me) - ID- 特定视频自定义扩散的代码 <sub>⭐ 459 · Python</sub>
+- [TencentARC/GeometryCrafter](https://github.com/TencentARC/GeometryCrafter) - (ICCV 2025) 几何学 Crafter: 具有传播前传功能的开放世界视频的一致几何估计 <sub>⭐ 458 · Python</sub>
+- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - (技术报告) 活着:一个统一的音频视频生成模型 <sub>⭐ 457</sub>
+- [bytedance/Video-As-Prompt](https://github.com/bytedance/Video-As-Prompt) - (ICLR 2026) 官方对纸"影视-As-Prompt:视频生成的统一语义控制"的翻版. <sub>⭐ 454 · Python</sub>
+- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - (CVPR'23) MM-Difmation:学习多模态传播模式,用于联合音频和视频生成 <sub>⭐ 453 · Python</sub>
+- [Carasibana/ComfyUI-H3-FaceRefine](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) - 在MiniMax H3视频中完善和提高小面孔的质量. per-frame face tracking, crop, 精细化与H3, 缝回. <sub>⭐ 449 · Python</sub>
+- [runjiali-rl/vmem](https://github.com/runjiali-rl/vmem) - (ICCV 2025 亮点) VMem 执行:一致互动视频场景生成与Surfel-Indexed View内存 <sub>⭐ 449 · Python</sub>
+- [NVlabs/AnyFlow](https://github.com/NVlabs/AnyFlow) - AnyStep 视频扩散的流程图 OPD <sub>⭐ 435 · Python</sub>
+- [microsoft/World-R1](https://github.com/microsoft/World-R1) - (ICML 2026):世界R1:加强三维限制,促进文本到视频生成 <sub>⭐ 427 · Python</sub>
+- [nv-tlabs/diffusion-renderer](https://github.com/nv-tlabs/diffusion-renderer) - (CVPR'25 口述) 官方实施"散射器:神经反演和带视频扩散模型的前进渲染". <sub>⭐ 427 · Python</sub>
+- [zai-org/VisionReward](https://github.com/zai-org/VisionReward) - (AAAI 2026) Vision Reward: Fine-Grained 多维度人类优先学习图像和视频生成 <sub>⭐ 427 · Python</sub>
+- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - 正式实施"OmniCustom:同步音频视频自定义Via联合音频视频生成模式". <sub>⭐ 425 · Python</sub>
+- [WeChatCV/Wan-Alpha](https://github.com/WeChatCV/Wan-Alpha) - (CVPR 2026 高清) 高品质的文本到视频生成带阿尔法频道 <sub>⭐ 420 · Python</sub>
+- [Yacey/agnes-ai-generation-skill](https://github.com/Yacey/agnes-ai-generation-skill) - Agent Skill for Agnes AI文本,图像,和视频生成API. <sub>⭐ 419 · Python</sub>
+- [ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO) - ComfyUI / 两种图像的 BiRefNet 更好的版本 <sub>⭐ 415 · Python</sub>
+- [TheDesignFounder/DreamLayer-Eval](https://github.com/TheDesignFounder/DreamLayer-Eval) - DreamLayer Eval:图像和视频传播模型的开源基准. Automate 提示,种子,以及可复制结果的衡量标准. DreamLayer AI(梦想者.io)的研究项目. <sub>⭐ 413 · Python</sub>
+- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - 将 PS5 GTA6 与 DLSS 5. 组合到 120 FPS 中, 一个高级的 Windows 视频播放器和抓取增强工具,其特点是实时预览视频,图像,以及抓取卡片来源. Compute AI-power Super... <sub>⭐ 412 · C++</sub>
+- [forence/Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning) - 此寄存器专注于图像描述和视频描述 & Seq-to-Seq 学习 & NLP <sub>⭐ 410</sub>
+- [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - (SIGGRAPH Asia 2026) AnyRecon:任意视频3D重建与视频传播模式 <sub>⭐ 407 · Python</sub>
+- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - (ICCV 2025) 官方 pytorch 执行"FramePainter:Endowing Interactive Image Ediction with Video Difusion Presidents" 互联网档案馆的存檔,存档日期2013-09-22. <sub>⭐ 406 · Python</sub>
+- [Weifeng-Chen/control-a-video](https://github.com/Weifeng-Chen/control-a-video) - 官方实施"控制-A-视频:可控文本对视频生成与扩散模式". <sub>⭐ 405 · Python</sub>
+- [foo123/FILTER.js](https://github.com/foo123/FILTER.js) - 在纯JavaScript(浏览器和Nodejs)中类似OpenCV的视频和图像处理及计算机视野库 <sub>⭐ 399 · JavaScript</sub>
+- [AceDataCloud/Nexior](https://github.com/AceDataCloud/Nexior) - 消费者AI应用程序用于聊天,图像生成,视频生成,以及由Ace Data Cloud APIs提供动力的音乐创作. <sub>⭐ 398 · Vue</sub>
+- [rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) - 10 Claude技能 生成工作室质量的AI视频提示 在Higgsfield上的种子2.0. Viral hooks,SaaS演示,个人品牌,无脸内容,奢华美学 & 更多. <sub>⭐ 398 · Python</sub>
+- [smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR) - FlashVSR:向着实时传播的视频流超解析,你可以在comfyUI中使用. <sub>⭐ 397 · Python</sub>
+- [gaomingqi/sam-body4d](https://github.com/gaomingqi/sam-body4d) - 训练-无线人类网格从视频恢复,基于SAM-3,Difmusion-VAS,以及SAM-3D-Body. <sub>⭐ 396 · Python</sub>
+- [rewbs/sd-parseq](https://github.com/rewbs/sd-parseq) - 稳定扩散参数测序器 <sub>⭐ 388 · TypeScript</sub>
+- [haochenheheda/segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator) - 我们开发了基于标签me和区段-任何内容的Python UI,用于像素级注释。它支持由 SAM(框/点提示)生成多个口罩,高效的多边形修改和分类... <sub>⭐ 387 · Python</sub>
+- [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) - 19 Claude Code trys for Higgsfield AI——自动图像生成,种子2.0视频创建,以及带有Playwright浏览器自动化的全UGC广告管道 <sub>⭐ 384</sub>
+- [thecooltechguy/ComfyUI-Stable-Video-Diffusion](https://github.com/thecooltechguy/ComfyUI-Stable-Video-Diffusion) - 稳定视频扩散的ComfyUI节点 <sub>⭐ 374 · Python</sub>
+- [timoncool/ACE-Step-Studio](https://github.com/timoncool/ACE-Step-Studio) - 便携式AI音乐生成器——全曲配音,封面,音乐视频. 一击安装,100%下线,NVIDIA GPU. <sub>⭐ 372 · TypeScript</sub>
+- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - 正式实施MCVD:为预测、生成和国际刑警组织而装订的有条件视频传播(https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
+- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - "Taming视觉导声代"(BMVC 2021的Oral)的源代码 <sub>⭐ 369 · Jupyter Notebook</sub>
+- [fudan-generative-vision/OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - (CVPR 2025) 用于增强人-儿童视频生成的大型高质量数据集 <sub>⭐ 364</sub>
+- [scopeInfinity/Video2Description](https://github.com/scopeInfinity/Video2Description) - 视频到文本:一些给定视频的自然语言描述生成器。 (视频字幕) <sub>⭐ 363 · Python</sub>
+- [Scottcjn/bottube](https://github.com/Scottcjn/bottube) - AI-原生视频平台,自主代理创建,发布,并赚取收入. Sybil抗体,硬件验证基础设施上的多代理内容经济. RustChain DePIN生态系统的一部分. <sub>⭐ 361 · Python</sub>
+- [fudan-generative-vision/Hallo-Live](https://github.com/fudan-generative-vision/Hallo-Live) - (ACM MM 2026) 哈罗-Live:实时流传联合音频视频阿凡达世代 <sub>⭐ 357 · Python</sub>
+- [yjsunnn/DLoRAL](https://github.com/yjsunnn/DLoRAL) - (NeurIPS'25) 一阶传播 细节-Rich和暂时一致的视频超级解析 <sub>⭐ 357 · Python</sub>
+- [yujiwen/AnimateZero](https://github.com/yujiwen/AnimateZero) - 官方PyTorch执行论文"AnimateZero:视频传播模型是零热图像动画师". <sub>⭐ 357</sub>
+- [baaivision/vid2vid-zero](https://github.com/baaivision/vid2vid-zero) - 使用外壳图像传播模型进行零热视频编辑 <sub>⭐ 356 · Python</sub>
+- [zliucz/animate-your-word](https://github.com/zliucz/animate-your-word) - (ICCV'25 最佳论文候选人) 官方实现的纸张:动态字典:通过视频传播前将文本带入生命 <sub>⭐ 355 · Python</sub>
+- [THU-SI/VideoScene](https://github.com/THU-SI/VideoScene) - (CVPR 2025 高亮) 视频场景:抖动视频传播模式,以生成一步中的3D镜头 <sub>⭐ 354 · Python</sub>
+- [stevenlsw/physgen](https://github.com/stevenlsw/physgen) - 物理基因:刚性-Body物理-圆形图像到视频生成(ECCV 2024) <sub>⭐ 353 · Python</sub>
+- [Anil-matcha/Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) - 用于ByteDance的种子2.0,种子2.5和种子2 Mini API的Python包装器——文本对视频,图像对视频,现实人类的面孔,1080p,一致的人物生成. <sub>⭐ 352 · Python</sub>
+- [alexchan197611/ai_media_assistant](https://github.com/alexchan197611/ai_media_assistant) - AI-Powered 自动自媒体视频生成工具QQ <sub>⭐ 348 · Python</sub>
+- [VITA-Group/Diffusion4D](https://github.com/VITA-Group/Diffusion4D) - (NeurIPS 2024) 传播4D:通过视频传播模式快速空间-时空一致4D生成 <sub>⭐ 347 · Python</sub>
+- [zai-org/RealVideo](https://github.com/zai-org/RealVideo) - 一个实时流传的对话视频系统,利用自递传播,将文本交互转化为连续的高真实度视频响应. <sub>⭐ 344 · Python</sub>
+- [vargHQ/sdk](https://github.com/vargHQ/sdk) - AI视频生成SDK——JSX用于视频. 1 API用于克林,豪华,11Labs,Veed,在Vercel AI SDK上建造. <sub>⭐ 340 · TypeScript</sub>
+- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - 任意源(PDF,视频,网络,音频,文本)到交互式学习包,包含问答,闪卡和空格重复. One command, 12section study guide. <sub>⭐ 336 · Python</sub>
+- [ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp](https://github.com/ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp) - 一个ComfyUI自定义节点整合了Google的双子闪光2.0实验模型,使得能够对ComfyUI工作流程范围内的文字,图像,视频帧,音频进行多模式分析. <sub>⭐ 335 · Python</sub>
+- [zju3dv/street_crafter](https://github.com/zju3dv/street_crafter) - (CVPR 2025) StreetCrafter: Street View 合成可控视频传播模型 <sub>⭐ 335 · Python</sub>
+- [NickPittas/DirectorsConsole](https://github.com/NickPittas/DirectorsConsole) - 一个在无限画布中平行生成图像和视频的网络应用程序, 用于快速生成和多个 ComfyUI 远程和本地连接 <sub>⭐ 332 · Python</sub>
+- [apiframe-ai/seedance-2.0-api](https://github.com/apiframe-ai/seedance-2.0-api) - 种子2.0 API——文本到视频和图像到视频实例 <sub>⭐ 330</sub>
+- [FoundationVision/OmniTokenizer](https://github.com/FoundationVision/OmniTokenizer) - (NeurIPS 2024) OmniTokenizer:一个模型和一个重量的图像-视频联合标志化. <sub>⭐ 330 · Python</sub>
+- [wzk1015/video-bgm-generation](https://github.com/wzk1015/video-bgm-generation) - (ACM MM 2021最佳纸奖) 视频背景音乐创作与可控音乐变形器 <sub>⭐ 327 · Python</sub>
+- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) ACM MM24纸"Hi3D:追求高分辨率图像到3D生成与视频扩散模型"的官方代码和数据集. <sub>⭐ 327 · Python</sub>
+- [minnie-lin/Awesome-Physics-Cognition-based-Video-Generation](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) - 综合清单,调查视频生成中的身体认知,包括论文,代码,和相关网站. <sub>⭐ 326</sub>
+- [TencentARC/DiTCtrl](https://github.com/TencentARC/DiTCtrl) - (CVPR 2025) "DITCtrl:探索多模态散射变形器中的注意力控制,为Tuning-Free的多速态长视频生成"的官方代码. <sub>⭐ 326 · Python</sub>
+- [zhouwei713/seedance-prompt](https://github.com/zhouwei713/seedance-prompt) - Hermes技能用于现实的AI视频提示种子和文本到视频模型. <sub>⭐ 326</sub>
+- [zibojia/COCOCO](https://github.com/zibojia/COCOCO) - 视频-Inpaint-Anything:这是我们报纸CoCoCo的推论代码:改进文本引导视频插图,以更好地保持一致性,可控性和兼容性. <sub>⭐ 325 · Python</sub>
+- [sihyun-yu/PVDM](https://github.com/sihyun-yu/PVDM) - (CVPR'23)预测后期空间中的视频概率扩散模型 <sub>⭐ 323 · Python</sub>
+- [ZHU-Zhiyu/NVS_Solver](https://github.com/ZHU-Zhiyu/NVS_Solver) - 纸质"NVS-Solver:视频传播模型作为零同步小说视图合成器"的源代码 <sub>⭐ 322 · Python</sub>
+- [Anil-matcha/awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) - 种子 2.5 API 指南、提示、参数和视频生成示例 <sub>⭐ 320</sub>
+- [tongjingqi/Thinking-with-Video](https://github.com/tongjingqi/Thinking-with-Video) - 我们引入了“与视频的思考”这个新的范式,利用视频生成来进行多模式推理。我们的视频思维奔驰显示,Sora-2在眼球谜题上比GPT5高10%,并到达... <sub>⭐ 319 · Python</sub>
+- [lukasHoel/video_to_world](https://github.com/lukasHoel/video_to_world) - 我们的方法从视频传播模型中重建3D世界,使用非刚性对齐,解决生成序列中固有的3D不一致. <sub>⭐ 318 · Python</sub>
+- [mihirp1998/VADER](https://github.com/mihirp1998/VADER) - 通过 Reward Gradients 实现视频传播对齐。 我们改进了VideoCrafter, OpenSora, ModelScope和StableVideoDifusion等多种视频传播模式,使用各种方法对其进行微调... <sub>⭐ 318 · Python</sub>
+- [jamichss/Stream-DiffVSR](https://github.com/jamichss/Stream-DiffVSR) - 官方存放的纸张"Stream-DiffVSR:低密度流式视频超解析通过自动递归扩散". <sub>⭐ 317 · Python</sub>
+- [RehgLab/RAVE](https://github.com/RehgLab/RAVE) - RAVE:随机噪声洗发,用于传播模式的快速一致视频编辑(CVPR 2024). <sub>⭐ 313 · Python</sub>
+- [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) - 2K 分辨率的本地音频视频生成民主化 <sub>⭐ 311 · Python</sub>
+- [Vchitect/VideoBooth](https://github.com/Vchitect/VideoBooth) - (CVPR2024) VideoBooth:基于传播的带有图像提示的视频生成 <sub>⭐ 310 · Python</sub>
+- [victorca25/traiNNer](https://github.com/victorca25/traiNNer) - traiNNer:图像和视频超解析,修复和图像对图像翻译的深层学习框架,用于培训和测试. <sub>⭐ 310 · Python</sub>
+- [G-U-N/Gen-L-Video](https://github.com/G-U-N/Gen-L-Video) - "Gen-L-Video:通过Temperal Co-Denoising的多文本到长视频生成"的正式实施. <sub>⭐ 307 · Jupyter Notebook</sub>
+- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video是使用MLX对你的Mac上的图像-Video-Audio生成模型进行推论和微调的最佳软件包. <sub>⭐ 306 · Python</sub>
+- [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) - ComfyUI内部的MiniMax H3时间表编辑器 - 故事板提示,第一/最后键框,图像/视频/音频引用,联合音频,现场采样预览,重拍和射击链条. <sub>⭐ 305 · JavaScript</sub>
+- [THU-SI/LangScene-X](https://github.com/THU-SI/LangScene-X) - (ICCV 2025) LangScene-X:重建通用3D语言-嵌入式场景与TriMap视频传播 <sub>⭐ 303 · Python</sub>
+- [iMAboud/iMA-Menu](https://github.com/iMAboud/iMA-Menu) - iMA 菜单 - 完成文件传输, 删除背景, 视频/ 图像编辑, 拖动应用程序, Youtube & X 下载器, 调整大小, 视频到 Gif, MP4 到 MP3, 清空 Temme... 以及更多来自您的 CAURXT MENU 。 <sub>⭐ 301 · Python</sub>
+- [anima-x/anima-x](https://github.com/anima-x/anima-x) - (AnimaX:以3D动画动画动画与联合视频-Pose传播模式) 官方执行(AnimaX:用3D动画动画动画动画) 互联网档案馆的存檔,存档日期2013-09-21. <sub>⭐ 300</sub>
+- [dhvanikotak/Emotion-Detection-in-Videos](https://github.com/dhvanikotak/Emotion-Detection-in-Videos) - 这部作品的目的是根据从视频中提取的人类面部表情来识别六种情感(幸福,悲伤,厌恶,惊喜,恐惧和愤怒),为了实现这一点,我们...... <sub>⭐ 300 · Python</sub>
+- [H-EmbodVis/EasyCache](https://github.com/H-EmbodVis/EasyCache) - 减法就够了:通过运行时间辅助卡车加速培训-无视频传播 <sub>⭐ 300 · Python</sub>
+- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - 分类 - 机器学习 这是Simplilearn提供的机器学习课程的一部分 " 分类 " 的教程。我们将学习分类算法、类型和. <sub>⭐ 300 · Python</sub>
+- [bytedance/Valley](https://github.com/bytedance/Valley) - Valley是一种先进的多式联运大型模型,旨在处理涉及文本、图像、视频和音频数据的各种任务。 <sub>⭐ 297 · Python</sub>
+- [BlackMixture/Mix-Studio](https://github.com/BlackMixture/Mix-Studio) - 最干净、最能反应的 AI 工作空间。 从您的桌面或手机中运行高度调制的图像和视频工作流程。 建在 ComfyUI 上 。 <sub>⭐ 292 · JavaScript</sub>
+- [wenhao728/awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) - 优异传播视频到视频(V2V). 有关传播模型视频编辑的论文集,aka. video到视频(V2V)译本和视频编辑基准代码. <sub>⭐ 291 · Python</sub>
+- [BMB12d3/minimax-h3-prompt-composer](https://github.com/BMB12d3/minimax-h3-prompt-composer) - 在ComfyUI中为MiniMax H3视频生成提供自由离线提示作曲. <sub>⭐ 290 · HTML</sub>
+- [jolibrain/joliGEN](https://github.com/jolibrain/joliGEN) - GANs 的 Generative AI 图像和视频工具集,以及用于真实世界应用的传播 <sub>⭐ 290 · Python</sub>
+- [rolfie-han/YoLuster-shorts](https://github.com/rolfie-han/YoLuster-shorts) - YoLuster Shorts QQ:An独立开发了AI短剧创作工作空间——从最初的想法到故事板脚本,图像,视频,以及可重复使用的资产管理. 提供基于Docker的... <sub>⭐ 289 · HTML</sub>
+- [songweige/TATS](https://github.com/songweige/TATS) - PyTorch官方执行TATS:长视频生成框架 带有时间不可知VQGAN和时间敏感变换器(ECCV 2022) <sub>⭐ 289 · Python</sub>
+- [aejion/AccVideo](https://github.com/aejion/AccVideo) - AccVideo 的官方代码: 加速带合成数据集的视频扩散模型 <sub>⭐ 287 · Python</sub>
+- [facebookresearch/EgoBlur](https://github.com/facebookresearch/EgoBlur) - 此寄存器包含一个命令行界面(CLI),可以检测和模糊图像和视频中的面部和牌照(PII). CLI将一个图像或视频文件作为输入,运行一个... <sub>⭐ 287 · Python</sub>
+- [haofanwang/awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation) - 用于有条件内容生成的更新数据资源,包括人类运动生成,图像或视频生成和编辑. <sub>⭐ 284</sub>
+- [RQ-Wu/LAMP](https://github.com/RQ-Wu/LAMP) - (CVPR 2024)/ LAMP: 为少部分热视频生成学习运动模式 <sub>⭐ 284 · Python</sub>
+- [SankaiAI/TwitCanva-Video-Workflow](https://github.com/SankaiAI/TwitCanva-Video-Workflow) - 为创造者和开发者建造的下一代AI无限动力的画布工作空间. Expert the future of Generative AI 用拖放节点接口将Google双子座3 Pro组合在一起,体验未来. <sub>⭐ 284 · TypeScript</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [Djdefrag/FluidFrames](https://github.com/Djdefrag/FluidFrames) - FluidFrames / 视频 AI 帧生成应用程序 <sub>⭐ 281 · Python</sub>
+- [jiahao-shao1/ChronoDepth](https://github.com/jiahao-shao1/ChronoDepth) - Chrono深度:从视频传播前科中学习暂时一致的视频深度 <sub>⭐ 281 · Python</sub>
+- [lucidrains/lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch) - 执行Lumiere, SOTA 文本到视频生成 来自 Google Deepmind, in Pytorch <sub>⭐ 281 · Python</sub>
+- [yolain/ComfyUI-Easy-Sam3](https://github.com/yolain/ComfyUI-Easy-Sam3) - SAM3(Segment Anything Model 3)的ComfyUI自定义节点包,提供强大的图像和视频分区能力,并配有文本提示. <sub>⭐ 281 · Python</sub>
+- [smthemex/ComfyUI_DiffuEraser](https://github.com/smthemex/ComfyUI_DiffuEraser) - diffuEraser是视频 Inpainting 的传播模型,可以在ComfyUI中使用 <sub>⭐ 280 · Python</sub>
+- [360CVGroup/WISA](https://github.com/360CVGroup/WISA) - 世界物理模拟器助理-智能文本到视频生成 <sub>⭐ 279 · Python</sub>
+- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - AI 驱动数据到视频生成。 上传一个表格, 获得一个描述性的数据动画故事 。 <sub>⭐ 274 · TypeScript</sub>
+- [MingXiangL/DEVIL](https://github.com/MingXiangL/DEVIL) - 《文本到视频生成模式的评价:动态视角》(NeurIPS 2024)。 <sub>⭐ 274 · Python</sub>
+- [GongyeLiu/StyleCrafter](https://github.com/GongyeLiu/StyleCrafter) - (TOG 2024) StyleCrafter: 用样式适配器增强Stylized Text to-Video生成 <sub>⭐ 273 · Python</sub>
+- [fancyboi999/Loomic](https://github.com/fancyboi999/Loomic) - 开源AI画布设计代理——替代Lovart/CapCut Video Studio/Canva AI. Chat驱动的图像和视频生成无限画布. <sub>⭐ 272 · TypeScript</sub>
+- [AILab-CVC/VideoGen-Eval](https://github.com/AILab-CVC/VideoGen-Eval) - VideoGen-Eval:基于代理的视频生成评价系统 <sub>⭐ 270</sub>
+- [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) - (AAAI 2025) DriveDreamer-2:LLM-增强的多元驱动视频生成世界模式 <sub>⭐ 270 · Python</sub>
+- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - 由Google的双子座SDK提供电源,以真实AI图像和视频生成功能为主的MidJourney网络界面的开源克隆. 使用Imon 4生成图像,Veo 2和3生成图像和文本到... <sub>⭐ 269 · TypeScript</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [Vchitect/FasterCache](https://github.com/Vchitect/FasterCache) - (ICLR 2025) 更快卡切:培训无视频传播模式与高质量加速. <sub>⭐ 268 · Python</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 神经渲染(NGX 功能18)作为ComfyUI节点,用真神经渲染器增强图像批量和视频文件,可选升级. <sub>⭐ 266 · Python</sub>
+- [datature/portal](https://github.com/datature/portal) - 门户网站是将你的深度神经网络 装入图像和视频并进行视觉化的最快方式 <sub>⭐ 265 · Python</sub>
+- [wenyuqing/panacea](https://github.com/wenyuqing/panacea) - (CVPR2024) "Panacea:全景及可控视频生成用于自主驾驶"的论文官方存储库 <sub>⭐ 263 · Python</sub>
+- [TIGER-AI-Lab/ConsistI2V](https://github.com/TIGER-AI-Lab/ConsistI2V) - ConsistI2V:增强图像到视频生成的视觉一致性(TMLR 2024) 互联网档案馆的存檔,存档日期2013-12-22. <sub>⭐ 261 · Python</sub>
+- [Curated-Awesome-Lists/Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) - Sora AI Aweasy List — 您所有事物的去向资源中心 Sora AI,OpenAI从文本中绘制现实场景的开创性模式. 探索整理文章,视频的收藏... <sub>⭐ 260</sub>
+- [HITsz-TMG/Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - 以大型模型为基础的多式联运代理公司可控动画视频生成 <sub>⭐ 260 · Jupyter Notebook</sub>
+- [odysseusmax/animated-lamp](https://github.com/odysseusmax/animated-lamp) - 用于屏幕截图生成的电讯包 <sub>⭐ 260 · Python</sub>
+- [Binyr/NormalCrafter](https://github.com/Binyr/NormalCrafter) - (ICCV 2025) 正常Crafter:从视频传播前科中学习暂时一致的视频常态 <sub>⭐ 258 · Python</sub>
+- [thu-ml/cond-image-leakage](https://github.com/thu-ml/cond-image-leakage) - 官方实施"图像到视频传播模型中识别和解析条件图像泄漏"(NeurIPS 2024). <sub>⭐ 258</sub>
+- [yanqinJiang/Animate3D](https://github.com/yanqinJiang/Animate3D) - (NeurIPS 2024) 动画3D:动画任何3D模型,多视视频传播 <sub>⭐ 258 · Python</sub>
+- [houyuanchen111/UniVidX](https://github.com/houyuanchen111/UniVidX) - (SIGGRAPH 2026 / TOG) 论文"UniVidX:通过扩散前传制作Versatile视频的统一多式联运框架"的官方代码. <sub>⭐ 257 · Python</sub>
+- [RERV/VDT](https://github.com/RERV/VDT) - (ICLR2024) 官方执行论文"VDT:通用视频传播变形器通过面具造型",作者是吕豪玉,郭星阳,南义飞,侯玉齐,陆志武,平乐,明玉鼎. <sub>⭐ 257 · Jupyter Notebook</sub>
+- [soraw-ai/Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) - 文本到视频列表,图像到视频的作品 <sub>⭐ 257</sub>
+- [yaoli/arctic-capgen-vid](https://github.com/yaoli/arctic-capgen-vid) - 带有GPU培训的自动视频描述生成 <sub>⭐ 257 · Python</sub>
+- [wangchuxiaoji-oss/doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) - 逆向工程的 Doubao (XQ) API → OpenAI 兼容的 REST 服务. 免费的多模式聊天,图像/视频/音乐生成,以及AI代理的文件托管. <sub>⭐ 256 · Python</sub>
+- [WEIRDLabUW/unified-world-model](https://github.com/WEIRDLabUW/unified-world-model) - 无人机世界模型:将视频和动作传播合并,用于大型机器人数据集的预训 <sub>⭐ 256 · Python</sub>
+- [dearabhin/gemini-watermark-remover](https://github.com/dearabhin/gemini-watermark-remover) - 一个高性能,100%的客户端工具,用于从AI图像和Veo视频中移除可见的Google双子脑AI闪光水印. Vue 3 + Vite + Tailwind CSS,它使用一个... <sub>⭐ 255 · HTML</sub>
+- [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) - 0技能电影院 高级导演提示自动驾驶. A Claude Code Skill 高级AI图像/视频/音乐提示 制作和基于浏览器的处决跨越14+基因平台. <sub>⭐ 254</sub>
+- [Somnusochi/VLM-AutoYOLO](https://github.com/Somnusochi/VLM-AutoYOLO) - AI Auto Annotation & YOLO训练管道,端到端对象检测自动标签和YOLO训练平台. VLM 与 NVIDIA Locate anything-3B 进行动力注释,手动改进,一击... <sub>⭐ 254 · Python</sub>
+- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1)名称:- Action BarSearchView 描述:- Actionbar 搜索视图. (2) 名称:- Adsfree Directory:-Admob 集成. (3) 名称:-Android DayDream Demo 描述:-日梦演示. (4) 名称... <sub>⭐ 252 · Java</sub>
+- [ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) - 从命令行驱动 Google Flow: Veo 视频和图像, 脚本, 批量和管道的准备。 船载一个 MCP 服务器, 这样编码代理也可以驱动它, 给你和你的代理们全部... <sub>⭐ 251 · Python</sub>
+- [csbhr/Vivid-VR](https://github.com/csbhr/Vivid-VR) - 我们ICLR 2026论文"Vivid-VR:从文本到视频传播变形器的抖动概念用于照片现实主义视频修复"的官方存放处. <sub>⭐ 246 · Python</sub>
+- [Francis-Rings/MotionFollower](https://github.com/Francis-Rings/MotionFollower) - (ICCV2025) 运动跟踪器:通过轻量级分数引导传播编辑视频运动 <sub>⭐ 246 · Python</sub>
+- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - Lynn Real-Omni带来了文本到视频,图像到视频,人和手的引导生成,结构控制,omni参考生成,风格转移,视频编辑,退化的视频修复. . <sub>⭐ 246 · Python</sub>
+- [milaan9/Python_Computer_Vision_from_Scratch](https://github.com/milaan9/Python_Computer_Vision_from_Scratch) - 这个寄存器探索了用于分析和诠释图像的常用技术的多样性,它也描述了视觉正在被成功使用的挑战现实世界应用,两者都. <sub>⭐ 246 · Jupyter Notebook</sub>
+- [shengshu-ai/TurboServe](https://github.com/shengshu-ai/TurboServe) - TurboServe:以高效和经济方式为流媒体生成服务 <sub>⭐ 246 · Python</sub>
+- [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) - 自办的AI工作室:本地视频,图像,音乐,语音,LORA训练,编码群,RAG和屏幕代理在一个GPU上,驱动自工作室或由你的编码代理(Claude Code,cursor...). <sub>⭐ 244 · Python</sub>
+- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - 在Mac上本地运行MiniMax Haluo H3和LTX-2.5视频生成. Joint Audio+video,字符LORA训练,一击Pinokio安装. MLX——没有CUDA,没有云,没有API键. <sub>⭐ 244 · Python</sub>
+- [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - 近期人类视频生成方法的作品列表,这个寄存器专注于半身/全体人类视频生成方法,The Nerf,Gaussian spliting,Motion Pose,以及说话头部/画像并不是. <sub>⭐ 244</sub>
+- [Zheng-Chong/CatV2TON](https://github.com/Zheng-Chong/CatV2TON) - (CVPR 2025 Working) CatV2TON是一个轻量级的基于DiT的视觉虚拟试操作模型,能够支持图像和视频的试操作. <sub>⭐ 244 · Python</sub>
+- [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - 内容封印是一个最先进的框架,用于在各种模式的音频、图像、视频和文本上进行无形的、强力的水标记。这个套件跨越整个基因生命周期,从培训开始... <sub>⭐ 242 · HTML</sub>
+- [THU-SI/Physics3D](https://github.com/THU-SI/Physics3D) - 正式实施物理3D:通过视频传播学习3D Gaussians物理属性 <sub>⭐ 242 · Python</sub>
+- [1038lab/ComfyUI-MiniMax-H3-Promptor](https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor) - 一个强大的ComfyUI自定义节点自动化套件,用于生成电影院-制作级的提示器,为**MiniMax H3视频生成系统**明确格式化. <sub>⭐ 240 · Python</sub>
+- [YangLing0818/VideoTetris](https://github.com/YangLing0818/VideoTetris) - (NeurIPS 2024) VideoTetris:走向组成文本到视频生成 <sub>⭐ 237 · Python</sub>
+- [chengzhag/UCPE](https://github.com/chengzhag/UCPE) - (CVPR'26)相机控制文本到视频生成,现在具有内在,扭曲和定向控制! <sub>⭐ 236 · Python</sub>
+- [FareedKhan-dev/AI-text-to-video-model-from-scratch](https://github.com/FareedKhan-dev/AI-text-to-video-model-from-scratch) - 在这个博客中,我们将从零开始构建一个小规模的文本到视频模型。 我们将输入一个文本提示,我们训练有素的模型将在该提示的基础上生成一个视频。 <sub>⭐ 236 · Jupyter Notebook</sub>
+- [SOTAMak1r/DeepVerse](https://github.com/SOTAMak1r/DeepVerse) - DeepVerse: 4D 自动递归视频生成作为世界模式 <sub>⭐ 233 · Python</sub>
+- [tyhuang0428/DreamPhysics](https://github.com/tyhuang0428/DreamPhysics) - (AAAI 2025) 梦物理学:学习物理的3D动态与视频传播前传 <sub>⭐ 233 · Python</sub>
+- [Hanbo-Cheng/DAWN-pytorch](https://github.com/Hanbo-Cheng/DAWN-pytorch) - 以非自动扩散框架外置动态框架Avatar,用于对话头像生成 <sub>⭐ 232 · Python</sub>
+- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - 将任何话题都变成一个完成的 Vox 风格的纸库解说器/ 运动图形视频——脚本,拼接键框,动画,语音,音乐和字幕,全部自动化. Claude 的一种代理技能... <sub>⭐ 231 · Python</sub>
+- [KlingAIResearch/I2V-Adapter](https://github.com/KlingAIResearch/I2V-Adapter) - I2V-Adapter:用于扩散模型的普通图像到视频适应器 <sub>⭐ 231 · Python</sub>
+- [PKU-YuanGroup/OpenS2V-Nexus](https://github.com/PKU-YuanGroup/OpenS2V-Nexus) - (EurIPS 2025 D&B) OpenS2V-Nexus:用于主题到视频生成的详细基准和百万比例数据集 <sub>⭐ 231 · Jupyter Notebook</sub>
+- [benjiyaya/Calliope](https://github.com/benjiyaya/Calliope) - 本地首款AI创意对视频工作室——FastAPI + SvelteKit + ComfyUI <sub>⭐ 230 · Python</sub>
+- [thu-ml/controlvideo](https://github.com/thu-ml/controlvideo) - 官方实施"控制视频:为一弹一弹的文本到视频编辑添加条件控制". <sub>⭐ 230 · Python</sub>
+- [DanBigioi/DiffusionVideoEditing](https://github.com/DanBigioi/DiffusionVideoEditing) - 官方项目重播"通过音频调频模式进行语音驱动视频编辑"的纸张 <sub>⭐ 228 · Python</sub>
+- [dvirsamuel/OmnimatteZero](https://github.com/dvirsamuel/OmnimatteZero) - (Siggraph Asia25) OmnimatteZero:使用预训视频传播模型的快速培训免费Omnimatte <sub>⭐ 228 · Python</sub>
+- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - (ECCV 2022口述) "语义-智能隐含神经声波-驱动视频肖像生成"的代码. <sub>⭐ 227 · Python</sub>
+- [CIntellifusion/GeometryForcing](https://github.com/CIntellifusion/GeometryForcing) - (ICLR26) 官方实施几何强制:结婚视频传播和3D代表 一致的世界建模 <sub>⭐ 227 · Python</sub>
+- [DN6/giffusion](https://github.com/DN6/giffusion) - 使用稳定扩散创建 GIF 和视频 <sub>⭐ 225 · Python</sub>
+- [JittorRepos/JDiffusion](https://github.com/JittorRepos/JDiffusion) - JDifusion是一个基于Diffuses和Jittor生成图像或视频的传播模型库. <sub>⭐ 225 · Python</sub>
+- [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator) - 一个AI动力讲故事的视频生成器将用户输入作为故事提示,使用OpenAI的GPT-3生成一个故事,使用OpenAI的DALL-E创建图像,使用11Labs API添加语音. . <sub>⭐ 224 · Python</sub>
+- [yjsunnn/Awesome-video-super-resolution-diffusion](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion) - 使用传播模型制作的视频超解析资源目录. <sub>⭐ 224</sub>
+- [bmartacho/UniPose](https://github.com/bmartacho/UniPose) - 我们提出UniPose, 以我们的“瀑布”Atrous空间聚合结构为基础 <sub>⭐ 223 · Python</sub>
+- [zhengchen1999/DOVE](https://github.com/zhengchen1999/DOVE) - (NeurIPS'25 DOVE: 高效的一阶传播模式,用于真实世界视频超级解析 <sub>⭐ 222 · Python</sub>
+- [gulucaptain/CameraNoise](https://github.com/gulucaptain/CameraNoise) - (ICML'26)相机Noise帮助控制视频传播中的忠实相机运动. <sub>⭐ 220 · Python</sub>
+- [gokayfem/ComfyUI-fal-API](https://github.com/gokayfem/ComfyUI-fal-API) - 制作准备的ComfyUI自定义1400+fal.ai型号的节点,自动更新的图像,视频,音频,LLM和VLM API与本土媒体,缓存和成本控制. <sub>⭐ 219 · Python</sub>
+- [Clipcat-ai/clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill) - TikTok 电子商务视频生成、复制和分析 SKILLL <sub>⭐ 217</sub>
+- [Comfy-Org/comfy-skills](https://github.com/Comfy-Org/comfy-skills) - Comfy Cloud产品技能:与Comfy Cloud代理商一起生成图像,视频,音频和3D的斜线命令. Single source of truth for the instituteer and MCP server. <sub>⭐ 215</sub>
+- [Eyeline-Labs/CineScale](https://github.com/Eyeline-Labs/CineScale) - tuning- Free 4K 视频生成 <sub>⭐ 215 · Python</sub>
+- [ayusshrathore/ai-saas](https://github.com/ayusshrathore/ai-saas) - AI为SaaS平台提供动力,使用户能够聊天,生成图像,视频,音乐等. <sub>⭐ 214 · TypeScript</sub>
+- [I2V-Adapter/I2V-Adapter-repo](https://github.com/I2V-Adapter/I2V-Adapter-repo) - I2V-Adapter:一个用于视频传播模型的普通图像到视频适配器 <sub>⭐ 213</sub>
+- [PKU-YuanGroup/ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) - (NeurIPS 2024 D&B Spotlight) ChronoMagic-Bench:对文本到时间的视频生成进行元化评价的基准 <sub>⭐ 213 · Python</sub>
+- [yrcong/STTran](https://github.com/yrcong/STTran) - 动态场景图形生成的空间-时态变换器, CCV2021 <sub>⭐ 213 · Jupyter Notebook</sub>
+- [yrcong/flatten](https://github.com/yrcong/flatten) - Pytorch 实施 FLATTEN:用于一致文本到视频编辑的光学FLow制导ATTEN(ICLR 2024) <sub>⭐ 212 · Python</sub>
+- [Daniellli/DKT](https://github.com/Daniellli/DKT) - (ICRA2026) 官方实施"传播知透明:重新使用视频传播实现透明对象深度和正常估计". <sub>⭐ 211 · Python</sub>
+- [ezwebtools/flowpick](https://github.com/ezwebtools/flowpick) - 一个强大的全能的媒体资源嗅觉和下载器扩展。自动检测和批量下载视频(M3U8/HLS至MP4),音频,以及任何网页的图像。 隐私关注本地... <sub>⭐ 210 · TypeScript</sub>
+- [lucidrains/recurrent-interface-network-pytorch](https://github.com/lucidrains/recurrent-interface-network-pytorch) - 在Pytorch实施经常性接口网络,以高效生成图像和录像,而无需连锁网络 <sub>⭐ 210 · Python</sub>
+- [AI-Efficiency/Awesome-Efficient-Diffusion](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) - 关于图像、视频、世界建模和语言生成的高效传播模型的论文和代码目录,涵盖加速、量化、压缩、缓存和蒸馏。 <sub>⭐ 209</sub>
+- [Doriandarko/sora-mcp](https://github.com/Doriandarko/sora-mcp) - 使用 Sora 视频生成 APIs 的 MCP 服务器 <sub>⭐ 209 · TypeScript</sub>
+- [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCOPE:3D-Aware视频生成的视线坐标定位编码 <sub>⭐ 209 · Python</sub>
+- [aHapBean/VideoREPA](https://github.com/aHapBean/VideoREPA) - (NeurIPS 2025) VideoREPA:通过与基础模型的对接来学习视频生成物理学 <sub>⭐ 208 · Python</sub>
+- [alibaba/identity-grpo](https://github.com/alibaba/identity-grpo) - 身份-GRPO:通过强化学习优化多人身份保存视频生成 <sub>⭐ 208 · Python</sub>
+- [JeffWang987/WorldDreamer](https://github.com/JeffWang987/WorldDreamer) - 世界梦想家:通过预示的蒙面托肯斯制作视频的一般世界模式 <sub>⭐ 208</sub>
+- [Vchitect/DCM](https://github.com/Vchitect/DCM) - (ICCV2025) DCM:高效和高质量视频生成的双专家一致性模型 <sub>⭐ 207 · Python</sub>
+- [luosiallen/Diff-Foley](https://github.com/luosiallen/Diff-Foley) - Diff-Foley:与Latent扩散模型同步视频对音频合成 <sub>⭐ 206 · Python</sub>
+- [PKU-YuanGroup/WF-VAE](https://github.com/PKU-YuanGroup/WF-VAE) - (CVPR 2025) 由Wavelet-Driven Energy Flow为Latent Video Diffusion模型增强视频VAE <sub>⭐ 206 · Python</sub>
+- [antoine77340/S3D_HowTo100M](https://github.com/antoine77340/S3D_HowTo100M) - 使用MIL-NCE培训的关于HowTO100M的S3D Text-Video模型 <sub>⭐ 200 · Python</sub>
+- [HyeonHo99/Video-Motion-Customization](https://github.com/HyeonHo99/Video-Motion-Customization) - VMC: 视频运动定制,采用文本至视频传播模型的Temperal注意度适应(CVPR 2024) <sub>⭐ 200 · Python</sub>
+- [luckyhzt/LVCD](https://github.com/luckyhzt/LVCD) - 纸质官方代码"LVCD:基于参考的线性视频色与扩散模型" <sub>⭐ 200 · Python</sub>
+- [Anil-matcha/awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) - 最完整,最新的AI视频生成模型比较——哪一种模型,通过哪一种API,价格如何,速度如何. <sub>⭐ 199</sub>
+- [NevSNev/FloED-main](https://github.com/NevSNev/FloED-main) - 使用光学流导的高效扩散方法进行协调一致的视频涂装 <sub>⭐ 199 · Python</sub>
+- [open-mmlab/Live2Diff](https://github.com/open-mmlab/Live2Diff) - Live2Diff:一种管道,通过单向视频扩散模式处理Live视频流. <sub>⭐ 199 · Python</sub>
+- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: 使用动感多式变形器模型从视频中生成合适的音乐 <sub>⭐ 198 · Python</sub>
+- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - (ECCV 2026 Operal) 官方实施"OmniForcing:Unleshing Real-Time Joint Audio-Visual Crowth"(arXiv:2603.11647). OmniForcing是第一个分解双向的框架...... <sub>⭐ 198 · Python</sub>
+- [evalcrafter/EvalCrafter](https://github.com/evalcrafter/EvalCrafter) - (CVPR 2024) EvalCrafter: 大型视频生成模型的基准制定与评价 <sub>⭐ 196 · Jupyter Notebook</sub>
+- [dc-ai-projects/DC-VideoGen](https://github.com/dc-ai-projects/DC-VideoGen) - DC-VideoGen:带深压视频自动编码器的高效视频生成 <sub>⭐ 195</sub>
+- [MirageML/MirageStock](https://github.com/MirageML/MirageStock) - 多模态传播模式的开源执行 优化最优质和易用模式 <sub>⭐ 195 · Python</sub>
+- [BarneyD66/clipmivo-tools](https://github.com/BarneyD66/clipmivo-tools) - ClipmivoAI视频生成工具:REST API,CLI,本地MCP服务器和Agent Skill. <sub>⭐ 193 · JavaScript</sub>
+- [GVCLab/GSFixer](https://github.com/GVCLab/GSFixer) - (ICML 2026) GSFixer:改进3D高斯电镀与参考引导视频传播前传 <sub>⭐ 193 · Python</sub>
+- [danier97/LDMVFI](https://github.com/danier97/LDMVFI) - (AAAI 2024) "LDMVFI:带Latent扩散模型的视频帧内插",杜奥利昆·达尼尔,范章,大卫·布尔 <sub>⭐ 192 · Python</sub>
+- [BMW-InnovationLab/BMW-Anonymization-API](https://github.com/BMW-InnovationLab/BMW-Anonymization-API) - 此寄存器允许您在图像/视频中将敏感信息匿名。 解决方案与基于 DL 的训练/ 推论解决方案完全兼容, 我们已发布/ 将发布... <sub>⭐ 191 · Python</sub>
+- [ccallazans/ai-video-generator](https://github.com/ccallazans/ai-video-generator) - 自动创建基于故事的视频. <sub>⭐ 190 · Go</sub>
+- [people-robots/Awesome-Video-Generation-Post-Training](https://github.com/people-robots/Awesome-Video-Generation-Post-Training) - (TMLR) 视频生成模型:培训后和校正调查/不断更新论文、数据集和视频生成培训后和校正基准的收集。 <sub>⭐ 190</sub>
+- [3DTopia/Imagine360](https://github.com/3DTopia/Imagine360) - (Neurips 2025) 想象360:来自视角锁定的模拟360视频生成 <sub>⭐ 189 · Python</sub>
+- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) - Google NotebookLM over MCP + a local HTTP REST API. 引用后支持的QQA,音频/视频/内容生成,多账户旋转. 对于克劳德代码, Codex, cursor, n8n, Zapier, Make. <sub>⭐ 188 · TypeScript</sub>
+- [WangWenhao0716/VidProM](https://github.com/WangWenhao0716/VidProM) - (NeurIPS 2024) VidProM:百万级的文本至视频传播模型真实快速Gallery数据集 <sub>⭐ 188</sub>
+- [alibaba/VideoMV](https://github.com/alibaba/VideoMV) - 视频MV:基于大型视频基因模型的一致多视频生成 <sub>⭐ 187 · Python</sub>
+- [Francis-Rings/MotionEditor](https://github.com/Francis-Rings/MotionEditor) - (CVPR2024) MotionEditor是第一个能够进行视频运动编辑的基于传播的模型. <sub>⭐ 187 · Python</sub>
+- [NTUYWANG103/ViDiHand](https://github.com/NTUYWANG103/ViDiHand) - 官方PyTorch实施论文"视频传播模式对手动重建的惊人效果". <sub>⭐ 187</sub>
+- [TencentARC/MotionCrafter](https://github.com/TencentARC/MotionCrafter) - (CVPR 2026 高亮) MotionCrafter: 深色几何和运动重建,带有4D VAE <sub>⭐ 187 · Python</sub>
+- [ai-forever/KandinskyVideo](https://github.com/ai-forever/KandinskyVideo) - Kandinsky Video——多语种端到端文本2video潜在扩散模型 <sub>⭐ 185 · Python</sub>
+- [Anil-matcha/Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) - 用于黑森林实验室FLUX 3 Dev API的Python包装器,现在已有——快速低成本的FLUX 3变体,加上完整的FLUX 3家族(Text-to-Image,Image-to-Image,Text-to-Video,Image-Video). <sub>⭐ 185 · Python</sub>
+- [Akaneqwq/360DVD](https://github.com/Akaneqwq/360DVD) - (CVPR2024) 360DVD:可控全景视频生成 360-Degree视频传播模式 <sub>⭐ 184 · Python</sub>
+- [Deno2026/comfyui-deno-custom-nodes](https://github.com/Deno2026/comfyui-deno-custom-nodes) - ComfyUI自定义的RTX视频超级分辨率节点,NVIDIA VFX/nvvfx,LTX 2.3,伯尼尼快速指南,Wan2.2参考视频编辑,图像/视频对比,视频预览,加载器,大小调整,以及视觉. . <sub>⭐ 184 · Python</sub>
+- [BeatAPI/awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts) - Cured MiniMax H3 视频生成提示——电影、广告、动画、UGC、产品视频等等。包括可玩的例子和创作者的归属。 <sub>⭐ 183 · JavaScript</sub>
+- [HL-hanlin/VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) - 通过LLM-Guided Planning(COLM 2024)实现视频DirectGPT:连续多场视频生成(COLM 2024) 正式实施. <sub>⭐ 183</sub>
+- [kevinjycui/css-video](https://github.com/kevinjycui/css-video) - 使用 Breadth- first 搜索和 Canny Edge Definition 键框动画将图像和视频帧转换为纯 CSS + HTML 文件 <sub>⭐ 183 · CSS</sub>
+- [YisuiTT/Mobius](https://github.com/YisuiTT/Mobius) - Mobius: 通过 Latent Shift 将文本切换到无缝循环视频生成 <sub>⭐ 183 · Python</sub>
+- [claudiom4sir/StableVSR](https://github.com/claudiom4sir/StableVSR) - (ECCV 2024) 利用传播模型,通过临时持续的详细合成,增强视频超解析的认知质量 <sub>⭐ 180 · Python</sub>
+- [cp-cp/LiveEdit](https://github.com/cp-cp/LiveEdit) - (ECCV 2026) LiveEdit:走向实时传播的流媒体编辑 <sub>⭐ 180 · Python</sub>
+- [freddewitt/CorbeauSplat](https://github.com/freddewitt/CorbeauSplat) - CorbeauSplat是一款全高斯电镀自动化工具,专门为macOS硅设计,它将整个工作流程从原始视频/图像简化为训练有素且可观看的3D... <sub>⭐ 180 · Python</sub>
+- [ubc-vision/vivid123](https://github.com/ubc-vision/vivid123) - (CVPR 2024 高清) ViVid-1-to-3:小说视图合成与视频传播模型 <sub>⭐ 180 · Python</sub>
+- [anubhavshrimal/Face-Recognition](https://github.com/anubhavshrimal/Face-Recognition) - 机器学习项目,从图像中识别面孔, 就像Facebook或视频流 <sub>⭐ 179 · Python</sub>
+- [PySimpleGUI/PySimpleGUI-Photo-Colorizer](https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer) - 使用深层学习将黑白图像(或您的网络摄像头)转换成美丽的彩色图像。 使用 OpenCV 和 Numpy 来将您的图片或网络摄像头视频彩色化。 GUI 由 PySimpleGUI 提供 。 <sub>⭐ 179 · Python</sub>
+- [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) - 语义分解大深度的背景编码:从互联网图片LiteFlowNet学习单维深度预测:一个光学流估计的轻量级进化神经网络. . <sub>⭐ 179</sub>
+- [HiDream-ai/ReCo](https://github.com/HiDream-ai/ReCo) - (ICML 2026) ReCo:带有区域限制的教学视频编辑内文生成 <sub>⭐ 178 · Python</sub>
+- [if-ai/ComfyUI_HunyuanVideoFoley](https://github.com/if-ai/ComfyUI_HunyuanVideoFoley) - HunyuanVideoFoley 生成 SFX 音频以匹配您的视频和文本提示 <sub>⭐ 178 · Python</sub>
+- [zhang-zx/AVID](https://github.com/zhang-zx/AVID) - 本寄存器包含了CVPR 2024纸AVID: Any-Length Video Inpainting with Difusion Model的代码. <sub>⭐ 177</sub>
+- [YuxiaoYang23/EchoMotion](https://github.com/YuxiaoYang23/EchoMotion) - 官方实施"回声运动:通过双模式传播变换器实现人类统一视频和动作生成". <sub>⭐ 176</sub>
+- [sayakpaul/tt-scale-flux](https://github.com/sayakpaul/tt-scale-flux) - 基于传播的图像和视频生成模型的推论时间缩放. <sub>⭐ 175 · Python</sub>
+- [shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection](https://github.com/shreyapamecha/Speed-Estimation-of-Vehicles-with-Plate-Detection) - 这个项目的主要目标是识别超速车辆,使用深层学习和机器学习算法. 从视频中获取一系列图像后,卡车被检测到...... <sub>⭐ 174 · Python</sub>
+- [AdaCache-DiT/AdaCache](https://github.com/AdaCache-DiT/AdaCache) - 我们的ICCV 2025文件的代码 "加速视频生成的卡车 与扩散变形器" <sub>⭐ 173 · Python</sub>
+- [TonyLianLong/LLM-groundedVideoDiffusion](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion) - (ICLR 2024) LLM定位视频传播模型(LVD):LVD论文正式实施. <sub>⭐ 173 · Python</sub>
+- [ZGCTroy/CamI2V](https://github.com/ZGCTroy/CamI2V) - "CAMI2V:相机控制图像到视频传播模型"的纸质官方回放 <sub>⭐ 172 · Python</sub>
+- [GuoLanqing/Awesome-High-Resolution-Diffusion](https://github.com/GuoLanqing/Awesome-High-Resolution-Diffusion) - 近期传播基高清影像与视频综合作品的整理论文列表. <sub>⭐ 170</sub>
+- [if-ai/ComfyUI-IF_MemoAvatar](https://github.com/if-ai/ComfyUI-IF_MemoAvatar) - 用于表达式演讲视频生成的内存引导扩散 <sub>⭐ 170 · Python</sub>
+- [vijayvee/video-captioning](https://github.com/vijayvee/video-captioning) - 此寄存器包含一个视频字幕系统的代码, 由序列- 视频到文本的序列所启发。 这个系统将视频作为输入, 用英语生成一个描述... <sub>⭐ 170 · Python</sub>
+- [thu-nics/ViDiT-Q](https://github.com/thu-nics/ViDiT-Q) - (ICLR'25) ViDIT-Q:高效和精确的图像和视频生成扩散变压器量化 <sub>⭐ 169 · Python</sub>
+- [wgwang/awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) - 出色的LLM基准,用于评价LLMs跨文本,代码,图像,音频,视频等等. <sub>⭐ 169</sub>
+- [HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle) - 域名Shuttle:Freeform Open域名主题驱动的文本到视频生成 <sub>⭐ 168 · Python</sub>
+- [westgarthb/style-transfer-video-processor](https://github.com/westgarthb/style-transfer-video-processor) - 这个代码通过在多个参考样式图像之间生成平滑过渡,将神经风格的图像处理技术扩展至视频. <sub>⭐ 168 · Python</sub>
+- [ShmuelRonen/ComfyUI_wav2lip](https://github.com/ShmuelRonen/ComfyUI_wav2lip) - ComfyUI的自定义节点允许您使用Wav2Lip模型在视频上进行唇音同步,它需要输入视频和音频文件,并生成一个唇音输出视频. <sub>⭐ 167 · Python</sub>
+- [snap-research/ac3d](https://github.com/snap-research/ac3d) - AC3D: 分析和改进视频传播变形器中的3D相机控制 <sub>⭐ 167 · Python</sub>
+- [IanYeung/MGLD-VSR](https://github.com/IanYeung/MGLD-VSR) - ECCV 2024纸的代码 "机动导引Latent扩散 暂时一致的实时世界视频超级解析" <sub>⭐ 166 · Python</sub>
+- [JiSenHua/ComfyUI-TD](https://github.com/JiSenHua/ComfyUI-TD) - ComfyUI to TouchDesigner自定义节点用于实时流媒体图像,视频,3D模型,音频,以及文本. <sub>⭐ 166 · Python</sub>
+- [john-rocky/SemanticImage](https://github.com/john-rocky/SemanticImage) - 易用图像/视频过滤器集. <sub>⭐ 166 · Swift</sub>
+- [shootthesound/comfyUI-LongLook](https://github.com/shootthesound/comfyUI-LongLook) - 执行FreeLong(NeurIPS 2024)的ComfyUI节点包,用于Wan 2.2视频生成的光谱混合 <sub>⭐ 166 · Python</sub>
+- [WenxueCui/Deep-Image-Compression-Video-Coding](https://github.com/WenxueCui/Deep-Image-Compression-Video-Coding) - 最近与深层学习/深层神经网络基于图像压缩和视频编码框架相关的论文和代码. <sub>⭐ 165</sub>
+- [FennelFetish/qapyq](https://github.com/FennelFetish/qapyq) - 大图像/视频数据集的AI辅助媒体主管。简化了标题、裁剪和LORA/Diffusion培训工作流程的遮盖。 <sub>⭐ 164 · Python</sub>
+- [robbyant-research/LeviTor](https://github.com/robbyant-research/LeviTor) - (CVPR'25 高亮) 纸张官方执行 - LeviTor:3D轨迹定向图像到视频合成 <sub>⭐ 163 · Python</sub>
+- [YBYBZhang/VideoElevator](https://github.com/YBYBZhang/VideoElevator) - (AAAI 2025) 官方pytorch实施"VideoElivator:用Versatile文字对图像传播模式提升视频生成质量". <sub>⭐ 163 · Python</sub>
+- [ashvardanian/SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - 实时对映文本和图像对映语义搜索,使用USearch & UForm AI SDKs为苹果设备进行视频流相机捕获 <sub>⭐ 162 · Swift</sub>
+- [HiDream-ai/MotionPro](https://github.com/HiDream-ai/MotionPro) - (CVPR 2025) MotionPro:图像到视频生成的精密动作控制器 <sub>⭐ 162 · Python</sub>
+- [Phantom-video/OmniInsert](https://github.com/Phantom-video/OmniInsert) - OmniInsert: 通过扩散变形器模型插入任意引用的无遮罩视频 <sub>⭐ 162</sub>
+- [FranckyB/ComfyUI-Prompt-Manager](https://github.com/FranckyB/ComfyUI-Prompt-Manager) - ComfyUI 的快速管理器, 与 lama. cpp 集成以迅速生成。 允许用户生成和保存提示, 以及从图像和视频中提取 Comfy/ A1111... <sub>⭐ 161 · JavaScript</sub>
+- [francescortiz/image](https://github.com/francescortiz/image) - Django应用程序为图像和视频提供裁剪,重塑大小,缩略图,覆盖,锡和面具,能够设置关注中心,以便自动完美...... <sub>⭐ 160 · Python</sub>
+- [PKU-YuanGroup/HoloTime](https://github.com/PKU-YuanGroup/HoloTime) - (ACM M 2025) HoloTime:调制全景4D场景生成视频传播模型 <sub>⭐ 160 · Python</sub>
+- [vivoCameraResearch/Hyper-Motion](https://github.com/vivoCameraResearch/Hyper-Motion) - HyperMotion是一个基于大规模视频传播变形器的人物引导式人类图像动画框架. <sub>⭐ 160 · Python</sub>
+- [adityaguptai/Self-Driving-Car-](https://github.com/adityaguptai/Self-Driving-Car-) - 根据视频/图像预测方向盘角度的 CNN 模式 <sub>⭐ 158 · Jupyter Notebook</sub>
+- [Weixiang-Sun/Bora](https://github.com/Weixiang-Sun/Bora) - 生物医学通论视频生成模型 <sub>⭐ 158 · Python</sub>
+- [TencentARC/GenCompositor](https://github.com/TencentARC/GenCompositor) - (ICLR 2026) GenCompositor: 基因视频编译与扩散变形器 <sub>⭐ 157 · Python</sub>
+- [zghhui/OmniNFT](https://github.com/zghhui/OmniNFT) - "OmniNFT:Modality-wise Omni 传播增强功能用于联合音频-视频生成"的代码 <sub>⭐ 157 · Python</sub>
+- [GuoleiSun/Awesome-SAM2](https://github.com/GuoleiSun/Awesome-SAM2) - 此重播旨在包含关于 SAM2( 图像和视频中的任何内容) 的材料( 纸张、 代码、 幻灯片 )。 我们正在不断改进项目 。 欢迎使用 PR 的作品( 纸张、 重播 )... <sub>⭐ 156</sub>
+- [koi953215/NaRCan](https://github.com/koi953215/NaRCan) - (NeurIPS 2024) NaRCan:自然精炼的罐装图像与传播集成在视频编辑前 <sub>⭐ 153 · Python</sub>
+- [Virtu-Lab/DreamVVT](https://github.com/Virtu-Lab/DreamVVT) - DreamVVT:通过阶段-Wise扩散变形器框架在野外掌握现实视频虚拟尝试 <sub>⭐ 153</sub>
+- [MeiGen-AI/llia](https://github.com/MeiGen-AI/llia) - LRIA - 启用低密度交互式神通:实时音频驱动外观图像生成与扩散模型 <sub>⭐ 152</sub>
+- [gmkim-ai/Diffusion-Video-Autoencoders](https://github.com/gmkim-ai/Diffusion-Video-Autoencoders) - 在PyTorch正式实施"Diffusion Video Autoencodes:通过Distentround Video Encoding(英语:CVPR 2023)向临时一致的面部视频编辑方向发展"(CVPR 2023). <sub>⭐ 151 · Python</sub>
+- [ai-forever/Kandinsky-4](https://github.com/ai-forever/Kandinsky-4) - 文字和图像到视频生成:坎丁斯基 4.0 (2024) <sub>⭐ 150 · Python</sub>
+- [ID-LoRA/ID-LoRA-LTX2.3-ComfyUI](https://github.com/ID-LoRA/ID-LoRA-LTX2.3-ComfyUI) - 自定义 ComfyUI 节点,用于基于参考声音和图像生成具有视听特性的视频 <sub>⭐ 148 · Python</sub>
+- [pandayuanyu/NewtonGen](https://github.com/pandayuanyu/NewtonGen) - (ICLR 2026) 牛顿源:物理-和谐与可控文本对视频生成通过神经牛顿动力学 <sub>⭐ 148 · Python</sub>
+- [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - 开源,双语AI视频即时技巧——将想法重写成模型准备的文本到视频提示. 便携式代理技能(Claude Code, Codex, OpenClaw, Hermes);通过Atlas Cloud——种子生成...... <sub>⭐ 147 · JavaScript</sub>
+- [Anil-matcha/awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) - FLUX 3 视频 API和图像 API 指南,提示,参数,以及黑森林实验室统一文本到视频,图像到视频,图像,音频生成模型的示例 <sub>⭐ 147</sub>
+- [gohyojun15/VIST3A](https://github.com/gohyojun15/VIST3A) - (ICLR 2026 s口头) VIST3A的官方代码:通过将一个多视图重建网络跳槽到一个视频生成器的文本化到3D <sub>⭐ 147 · Python</sub>
+- [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - 老实说,谁真正知道如何使用ffmpeg。它的工具虽然很有帮助,但并不足以证明学习它的所有内部工作是正当的。 <sub>⭐ 147 · Python</sub>
+- [apimart-api-ai-Aggregator/seedance-2.0-api](https://github.com/apimart-api-ai-Aggregator/seedance-2.0-api) - 种子2.0 API(种子2.0/种子2.0-mini/种子2.0-快):按分辨率,文本到视频和图像到视频的每秒定价实例,参数和限制. <sub>⭐ 145 · Python</sub>
+- [davide97l/ai-video-generator](https://github.com/davide97l/ai-video-generator) - 自动生成和发布短视频的AI代理 <sub>⭐ 145 · Python</sub>
+- [remotion-dev/template-prompt-to-video](https://github.com/remotion-dev/template-prompt-to-video) - 从一个提示创建图像和语音故事 <sub>⭐ 145 · TypeScript</sub>
+- [tangjiapeng/GAF](https://github.com/tangjiapeng/GAF) - CVPR2025 GAF:高斯阿凡达重建 从单视视频通过多视传播 <sub>⭐ 145</sub>
+- [taresh18/TTSizer](https://github.com/taresh18/TTSizer) - 自动将音频/视频转换成高质量的、针对演讲者的文本到语音数据集 <sub>⭐ 145 · Python</sub>
+- [ArchiveBox/abx-dl](https://github.com/ArchiveBox/abx-dl) - 一个简单的全进式CLI工具,从一个URL(如Youtube-dl/yt-dlp,论坛-dl,廊-dl,更简单的ArchiveBox)下载Everything. 使用无头的Chrome来获取HTML,JS,CSS... <sub>⭐ 144 · Python</sub>
+- [MyNiuuu/AniCrafter](https://github.com/MyNiuuu/AniCrafter) - (ACM MM 2026) AniCrafter:通过Avatar-Background条件在视频传播模型中定制现实人类-儿童动画 <sub>⭐ 144 · Python</sub>
+- [ahmetozlu/face_recognition_crop](https://github.com/ahmetozlu/face_recognition_crop) - 多视图面部识别,面部裁剪和保存被裁剪面部作为视频上的新图像,以创建多视图面部识别数据库. <sub>⭐ 143 · Python</sub>
+- [KIMGEONUNG/VideoFrom3D](https://github.com/KIMGEONUNG/VideoFrom3D) - (SIGGRAPH-ASIA 2025) 官方实施"视频From3D:通过补充图像和视频传播模式生成3D场景视频". <sub>⭐ 143 · Python</sub>
+- [zhongyingji/guidedvd-3dgs](https://github.com/zhongyingji/guidedvd-3dgs) - Taming Video Diffusion Prefer with Scene-Grounding Grounding Guidelines 3D… <sub>⭐ 143 · Python</sub>
+- [jpthu17/DiffusionRet](https://github.com/jpthu17/DiffusionRet) - (ICCV 2023) 扩散 Ret: Generative Text-Video Retrievion with Difusion Model 互联网档案馆的存檔,存档日期2013-09-21. <sub>⭐ 142 · Python</sub>
+- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - 通过生成图像、视频和音频的替代文字描述来增强Fedivers的无障碍机器人。 <sub>⭐ 142 · Go</sub>
+- [eai-lab/On-device-Sora](https://github.com/eai-lab/On-device-Sora) - (arXiv) On-device Sora:为移动设备启用基于传播的文本到视频生成 <sub>⭐ 140 · Python</sub>
+- [Ground-A-Video/Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video) - 地面A-视频:使用文字到图像传播模型进行零镜头地面视频编辑(ICLR 2024) <sub>⭐ 140 · Python</sub>
+- [MackinationsAi/Upgraded-Depth-Anything-V2](https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2) - 升级的repo包含更多能力,将cmd.py脚本转换为更直观的功能,增加了147种不同深度输出色彩图方法,引入批量图像以及视频...... <sub>⭐ 140 · Python</sub>
+- [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - **本项目没有使用AI代码** AYC是一个高度响应的,没有胡言乱语的,易于使用的,基于文本的时代的快速视频下载器. <sub>⭐ 139 · Batchfile</sub>
+- [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) - ComfyUI节点协助伯尼尼视频编辑提示(Ollama+Power Presets) <sub>⭐ 139 · JavaScript</sub>
+- [ali-master/llmpeg](https://github.com/ali-master/llmpeg) - AI- powered FFmpeg 命令生成器。 用简单的英语描述您的视频任务, 立即获得完美的 FFmpeg 命令 。 <sub>⭐ 138 · TypeScript</sub>
+- [jianzongwu/MotionBooth](https://github.com/jianzongwu/MotionBooth) - (NeurIPS 2024 Spotlight) 官方执行研究论文"Motion Booth: Motion-Aware定制的文本到视频生成". <sub>⭐ 138 · Python</sub>
+- [apimart-api-ai-Aggregator/seedance-2.5-api](https://github.com/apimart-api-ai-Aggregator/seedance-2.5-api) - 种子2.5 API(种子-2.5):按分辨率进行每秒定价,最多30秒的文本到视频和参考媒体工作流程,有cURL和Python的例子和计量成本. <sub>⭐ 136 · Python</sub>
+- [cvlab-kaist/TrackCraft3r](https://github.com/cvlab-kaist/TrackCraft3r) - TrackCraft3R的官方代码执行: 重用视频传播变压器进行 Dense 3D 跟踪 <sub>⭐ 136 · Python</sub>
+- [hosseinhezami/laravel-gemini](https://github.com/hosseinhezami/laravel-gemini) - 一个制作准备的Laravel软件包,可以与Google双子座API集成. 支持文本,图像,视频,音频,长文,结构输出,文件,缓存,函数调用和理解...... <sub>⭐ 136 · PHP</sub>
+- [kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System](https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System) - 计算机视觉模块,用于在任何给定的图像,视频或实时网络摄像头中检测一个人的情感,年龄和性别. 定制的VGG16模型被开发出来并接受开源面部数据集的培训. . <sub>⭐ 136 · Jupyter Notebook</sub>
+- [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo:用于统一一致几何估计的调制视频扩散 <sub>⭐ 136 · Python</sub>
+- [yubowen123/AIYOU_open-ai-video-drama-generator](https://github.com/yubowen123/AIYOU_open-ai-video-drama-generator) - AIYO - AI短剧平台. 36天 VibeCoding 构建. 自动化工作流程:概念_脚本_故事板_视频. 5中继API集成,可能是将核心提示组合在一起的唯一开源工具...... <sub>⭐ 136 · TypeScript</sub>
+- [zju-jiyicheng/Forcing-KV](https://github.com/zju-jiyicheng/Forcing-KV) - 用于纸张"强迫-KV:混合 KV缓存压缩以高效自动递归视频扩散模型"的实现. <sub>⭐ 136 · Python</sub>
+- [lkmeta/txtify](https://github.com/lkmeta/txtify) - 网络应用程序,将音频和视频转换为使用AI的文本,支持各种格式和自我托管. <sub>⭐ 135 · Python</sub>
+- [1038lab/ComfyUI-FlashVSR](https://github.com/1038lab/ComfyUI-FlashVSR) - 强大的ComfyUI自定义节点基于FlashVSR V1.1模型,方便实时传播的视频超分辨率用于流化应用. <sub>⭐ 134 · Python</sub>
+- [lucidrains/MIMO-pytorch](https://github.com/lucidrains/MIMO-pytorch) - Alibaba情报组的Pytorch执行MIMO,可控字符视频合成与空间分解模型 <sub>⭐ 134 · Python</sub>
+- [hradec/ComfyUI-HR-Endless-Sampler](https://github.com/hradec/ComfyUI-HR-Endless-Sampler) - 为ComfyUI进行截断的视频/音频采样,并具有潜在的延续性,帧精确的镜头即时重写,并减少了VRAM的使用. <sub>⭐ 132 · Python</sub>
+- [msola-ht/ComfyUI-GLM4](https://github.com/msola-ht/ComfyUI-GLM4) - ComfyUI GLM节点:将ZhipuAI GLM模型无缝集成到ComfyUI中,用于增强文本生成和图像对瞬间的能力. 功能包括高级文本聊天(视频即时扩展)和... <sub>⭐ 131 · Python</sub>
+- [Shaashwat05/Cartoonify_reality](https://github.com/Shaashwat05/Cartoonify_reality) - 使用opencv将图像和视频转换为卡通 <sub>⭐ 131 · Python</sub>
+- [asmaamirkhan/BlurryFaces](https://github.com/asmaamirkhan/BlurryFaces) - 一个在图像和视频中模糊面孔或其他区域的工具 <sub>⭐ 130 · Python</sub>
+- [guyyariv/TempoTokens](https://github.com/guyyariv/TempoTokens) - (AAAI 2024) PyTorch官方实施"通过文本到视频模型的适应,实现音频到视频的多元和对齐生成". <sub>⭐ 130 · Python</sub>
+- [JIA-Lab-research/MagicMirror](https://github.com/JIA-Lab-research/MagicMirror) - (ICCV 2025) MagicMirror:视频传播变形器中ID预留的视频生成 <sub>⭐ 130</sub>
+- [MiniMax-AI/MiniMax-MCP-JS](https://github.com/MiniMax-AI/MiniMax-MCP-JS) - 官方的MiniMax模型上下文协议(MCP)JavaScript执行,提供与MiniMax强大的AI能力的无缝集成,包括图像生成,视频生成. . <sub>⭐ 130 · TypeScript</sub>
+- [itsjwill/vanta](https://github.com/itsjwill/vanta) - 开源AI视频引擎基于Remotion. Voice Clone,AIavatars,动画字幕,文本到视频(Wan 2.2/LTX),AI音乐,视频编辑器,时间线,100+过渡. Free Synthesia, HeyGen... <sub>⭐ 129 · TypeScript</sub>
+- [Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation](https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation) - DLSS 5 带框架内插的神经视频和图像增强器的 ComfyUI 自定义节点 <sub>⭐ 129 · Python</sub>
+- [Kunhao-Liu/ViewExtrapolator](https://github.com/Kunhao-Liu/ViewExtrapolator) - 小说视图外推法与视频传播前传 <sub>⭐ 129 · Python</sub>
+- [Shi-qingyu/DeT](https://github.com/Shi-qingyu/DeT) - (ICCV 2025) 解析和跟踪:为运动转移制定基准和改进视频传播变换器 <sub>⭐ 129 · Python</sub>
+- [carykh/videoToVoice](https://github.com/carykh/videoToVoice) - 并预言这些电话被传出。 <sub>⭐ 128 · Python</sub>
+- [ChenHsing/SimDA](https://github.com/ChenHsing/SimDA) - (CVPR 2024) SimDA:用于高效视频生成的简单扩散适配器 <sub>⭐ 128 · Python</sub>
+- [karuvanan/MiniMax-H3-Director-Cut-Studio](https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio) - Premiore-Inspirated PySide6导演工作室为MiniMax H3 Ref2VA,配有AI的镜头规划,语义媒体的丰富,时间线的及时调和以及通过ComfyUI的镜头感知长视频渲染. <sub>⭐ 128 · Python</sub>
+- [Kaihua-Chen/diffusion-vas](https://github.com/Kaihua-Chen/diffusion-vas) - (CVPR 2025) 视频模式分区使用传播前科的官方代码 <sub>⭐ 127 · Python</sub>
+- [NicholasCone/agnes-ai-video-suite](https://github.com/NicholasCone/agnes-ai-video-suite) - 最佳开源AI视频生成器 2026: 文本到多场电影配有叙述和字幕 <sub>⭐ 127 · HTML</sub>
+- [baaivision/URSA](https://github.com/baaivision/URSA) - (ICLR 2026) 带量子生成路径的统一散射 <sub>⭐ 126 · Python</sub>
+- [snicolast/ComfyUI-Ovi](https://github.com/snicolast/ComfyUI-Ovi) - 自定义节点,将Charge.AI的Ovi视频+Audio生成器带至ComfyUI,并具有精简的设置,可选择的精度,注意力后端控制,以及针对多GPU钻机的每个节点设备. <sub>⭐ 126 · Python</sub>
+- [zju3dv/StarGen](https://github.com/zju3dv/StarGen) - (CVPR 2025)"StarGen:一个具有可伸缩和可控场景生成视频扩散模型的Spatiotemal自动递减框架"的代码. <sub>⭐ 126</sub>
+- [diffusionstudio/open-projects](https://github.com/diffusionstudio/open-projects) - 工作的例子 传播工作室,一个视频编辑器 为您的代理。 <sub>⭐ 125 · TypeScript</sub>
+- [MSA-LMC/S2D](https://github.com/MSA-LMC/S2D) - (TAFFC 2024) 论文的正式执行:从静态到动态:适应地标-智能图像模型,用于视频中的面部表达识别 <sub>⭐ 125 · Python</sub>
+- [ShmuelRonen/ComfyUI-VideoUpscale_WithModel](https://github.com/ShmuelRonen/ComfyUI-VideoUpscale_WithModel) - 在ComfyUI中使用非扩散升级模型对视频进行提升的内存高效执行,这个自定义节点旨在处理大型视频帧序列而无需内存瓶颈. <sub>⭐ 125 · Python</sub>
+- [dgrauet/ltx-2-mlx](https://github.com/dgrauet/ltx-2-mlx) - 纯MLX端口 LTX-2(LTX-2.3 & LTX-2.5),用于苹果硅—文字/图像/音频到视频生成,原产于金属 <sub>⭐ 124 · Python</sub>
+- [Geekgineer/Depths-CPP](https://github.com/Geekgineer/Depths-CPP) - 高性能的C++头和应用实时测量深度估计,使用来自Depth-Anything-V3的模型,由ONNX Runtime和OpenCV提供动力,支持无缝推论. <sub>⭐ 123 · C++</sub>
+- [Jalen-Brunson/ComfyUI-MiniMax-H3-PDD-Acc](https://github.com/Jalen-Brunson/ComfyUI-MiniMax-H3-PDD-Acc) - ComfyUI官方的MiniMax-H3 8步PDD Acc LoRAs(alibaba-pai):LORA+并行解码头库,euler on trained sigmas,音频+视频8步 <sub>⭐ 123 · Python</sub>
+- [KaiyueSun98/T2V-CompBench](https://github.com/KaiyueSun98/T2V-CompBench) - (CVPR 2025) T2V-Comp Bench:组成文本到视频生成的综合基准 <sub>⭐ 123 · Jupyter Notebook</sub>
+- [UnicomAI/LeMiCa](https://github.com/UnicomAI/LeMiCa) - (NeurIPS 2025 Spotlight) LeMICa:用于高效的传播视频生成的 Lexicographic Minimax 路径缓存 <sub>⭐ 123 · Python</sub>
+- [aejion/4Diffusion](https://github.com/aejion/4Diffusion) - 4Difmusion的官方代码:4D世代的多视视频传播模型. <sub>⭐ 122 · Python</sub>
+- [halli75/motion-mirror](https://github.com/halli75/motion-mirror) - 本地第一运动转移——从参考视频中激活任意字符图像. 开放源代码替代主机动作控制工具,建于Wan2.1-VACE上. <sub>⭐ 122 · Python</sub>
+- [robert-2-j/HappyHorse-1.0](https://github.com/robert-2-j/HappyHorse-1.0) - 黑马AI视频生成器介绍:HappyHorse 1.0. 更新于 <sub>⭐ 122</sub>
+- [Text-to-Audio/Make-An-Audio-3](https://github.com/Text-to-Audio/Make-An-Audio-3) - Make-An-Audio-3:通过基于流体的大型扩散变形器将文本/视频转换成音频 <sub>⭐ 121 · Python</sub>
+- [Aleafy/RelightVid](https://github.com/Aleafy/RelightVid) - RelightVid: 视频重燃的同步扩散模型 <sub>⭐ 120 · Python</sub>
+- [TEA-Lab/diffusion_reward](https://github.com/TEA-Lab/diffusion_reward) - (ECCV 2024) 官方实施论文"分散奖励:通过有条件的视频传播学习奖励". <sub>⭐ 120 · Python</sub>
+- [agent-next/video-agent](https://github.com/agent-next/video-agent) - 开源视频生成——Ollama为MiniMax H3. ComfyUI上的地方导演. <sub>⭐ 119 · Python</sub>
+- [DSaurus/Human4DiT](https://github.com/DSaurus/Human4DiT) - 这个寄存器是Human4DIT:360度人类视频生成与4D扩散变形器的官方执行. <sub>⭐ 118 · Python</sub>
+- [Jaykef/AvaChat](https://github.com/Jaykef/AvaChat) - AvaChat - 是一个实时的AI聊天演示,带有动画化的说话头 - 它通过api(OpenAI和克劳德)使用大语言模型作为D-ID的图像到视频聊天头模型的文本输入(通过D-ID... <sub>⭐ 118 · JavaScript</sub>
+- [makefinks/manim-generator](https://github.com/makefinks/manim-generator) - 使用 manim 库自动生成基于 LLM 的视频。 使用一个带有执行日志的代码写入器和代码审查器反馈循环 。 <sub>⭐ 118 · Python</sub>
+- [MushroomFleet/DJZ-Workflows](https://github.com/MushroomFleet/DJZ-Workflows) - 1000+ ComfyUI 工作流程用于AI图像和视频生成 — Flux, SDXL, Hunyuan, CogVideo, 提升,控制网 & 更多 <sub>⭐ 118 · Python</sub>
+- [Vonage/vonage-dotnet-sdk](https://github.com/Vonage/vonage-dotnet-sdk) - Vonage REST API客户端为.NET,以C#. API支持短消息,语音,文本对语音,数字,验证(2FA)等. <sub>⭐ 118 · C#</sub>
+- [ZhihaoHu/VideoControlNet](https://github.com/ZhihaoHu/VideoControlNet) - 官方 Pytorch 执行"Video ControlNet:通过使用带有ControlNet的传播模型,实现一个动感引导视频到视频翻译框架". <sub>⭐ 118</sub>
+- [AkagawaTsurunaki/zerolan-core](https://github.com/AkagawaTsurunaki/zerolan-core) - ZerolanCore整合了许多开源,本地可部署的AI模型,并旨在整合一系列AI模型,如大语言模型(LLM),自动语音识别(ASR). . <sub>⭐ 117 · Python</sub>
+- [deven96/whatsticker](https://github.com/deven96/whatsticker) - 通过在有机器人的聊天中使用字幕,将图片/图片/视频中的什么应用转换成贴纸 <sub>⭐ 117 · Go</sub>
+- [ForeverFancy/GVFDiffusion](https://github.com/ForeverFancy/GVFDiffusion) - (ICCV 2025) 高斯变异场扩散用于高信度视频到4D合成 <sub>⭐ 117 · Jupyter Notebook</sub>
+- [RuoyuFeng/CCEdit](https://github.com/RuoyuFeng/CCEdit) - CCEdit: 通过传播模式进行创意和可控视频编辑 <sub>⭐ 117 · Python</sub>
+- [UmiMarch/OpenVideo](https://github.com/UmiMarch/OpenVideo) - OpenVideo专门从事文本到视频生成领域,目标是向全球AI研究人员提供高质量多样的视频数据集. <sub>⭐ 117 · Python</sub>
+- [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - (ICCV2025) LeanVAE:用于视频传播模型的超有效重建VAE <sub>⭐ 117 · Python</sub>
+- [yz93/anchor-diff-VOS](https://github.com/yz93/anchor-diff-VOS) - 未监管视频对象分区的锁定器扩散 <sub>⭐ 115 · Python</sub>
+- [arthur-qiu/FreeTraj](https://github.com/arthur-qiu/FreeTraj) - FreeTraj的代码,用于轨道可控视频生成的无调值方法 <sub>⭐ 114 · Python</sub>
+- [bookworm52/EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) - 欢迎来到我关于蟒蛇编程和道德黑客的综合课程。 <sub>⭐ 114</sub>
+- [kpthedev/ez-text2video](https://github.com/kpthedev/ez-text2video) - 方便运行4GB视频卡或CPU上可定制视频长度,fps,和维度的文本到视频传播. <sub>⭐ 114 · Python</sub>
+- [sandyresearch/chipmunk](https://github.com/sandyresearch/chipmunk) - 3.7×更快的视频生成 E2E 1.6×更快的图像生成 E2E ColonelSparseAttn 9.3× vs FlashAttn 3 ColonelSparseGEMM 2.5× vs cuBLAS <sub>⭐ 114 · Cuda</sub>
+- [ShmuelRonen/ComfyUI-FramePackWrapper_Plus](https://github.com/ShmuelRonen/ComfyUI-FramePackWrapper_Plus) - FramePack 工程的改进包装器,允许根据参考图像创建任意长度的视频,以及 LORA 与 F1 样本程序 <sub>⭐ 114 · Python</sub>
+- [weijiawu/TransDETR](https://github.com/weijiawu/TransDETR) - (IJCV 2024) TransDETR: 端到端的视频文本 Spoting with Transformer <sub>⭐ 113 · Python</sub>
+- [cporter202/generative-ai-arbitrage](https://github.com/cporter202/generative-ai-arbitrage) - 一份描述列表,显示如何以少得多的钱获取完全相同的顶级遗传性AI模型(视频,图像,和音乐). 此repo侧重于流行的API访问路径的替代方式. . <sub>⭐ 112</sub>
+- [Lornatang/ESPCN-PyTorch](https://github.com/Lornatang/ESPCN-PyTorch) - 基于CVPR2016纸质的实时单像和视频超解析使用高效子像素进化神经网络的PyTorch执行ESPCN. <sub>⭐ 112 · Python</sub>
+- [302ai/302_video_generator](https://github.com/302ai/302_video_generator) - 302AI视频生成器! <sub>⭐ 111 · TypeScript</sub>
+- [ARYPROGRAMMER/Video-Generator-AI](https://github.com/ARYPROGRAMMER/Video-Generator-AI) - Next.js应用程序基于客户端提供的查询生成视频,它被设计为一个SaaS平台,允许用户方便地为各种目的创建接触视频内容,例如. <sub>⭐ 111 · JavaScript</sub>
+- [joshmoody24/sitcom-simulator](https://github.com/joshmoody24/sitcom-simulator) - 一个结合了ChatGPT,稳定扩散,假你和FreepD来创建AI生成的视频的工具. <sub>⭐ 111 · Python</sub>
+- [yuanze-lin/IllumiCraft](https://github.com/yuanze-lin/IllumiCraft) - (NeurIPS 2025) "IllumiCraft:统一几何与光线扩散用于可控视频生成"的官方代码. <sub>⭐ 111 · Python</sub>
+- [lmmx/deforum-stable-diffusion](https://github.com/lmmx/deforum-stable-diffusion) - Deforum 稳定传播笔记本(feature video_init) https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_stable_Difusion.ipynb 互联网档案馆的存檔,存档日期2014-03-02. <sub>⭐ 110 · Python</sub>
+- [microsoft/Peekaboo](https://github.com/microsoft/Peekaboo) - 通过蒙面扩散进行互动视频生成 <sub>⭐ 110 · Python</sub>
+- [OmniJev/OneJev](https://github.com/OmniJev/OneJev) - 一种多式系统一决策模式,它能对屏幕、照片、视频和文本的打字问题提供经过校准的答案。 <sub>⭐ 110 · Python</sub>
+- [MinaPecheux/UnityTutorials-BehaviourTrees](https://github.com/MinaPecheux/UnityTutorials-BehaviourTrees) - 如何使用Unity/C#(文本或视频格式)中的行为树创建简单的守护AI的短训课程的代码! <sub>⭐ 109 · C#</sub>
+- [MinusZoneAI/ComfyUI-CogVideoX-MZ](https://github.com/MinusZoneAI/ComfyUI-CogVideoX-MZ) - CogVideoX-5B 4位的量化模型 <sub>⭐ 109 · Python</sub>
+- [IceClear/SeedVR](https://github.com/IceClear/SeedVR) - (CVPR2025) 突出内容(SeedVR):在扩散变形器中种子无穷,朝向通用视频修复. <sub>⭐ 108</sub>
+- [lucidrains/multimodal-dit-pytorch](https://github.com/lucidrains/multimodal-dit-pytorch) - 在Pytorch安装多式联运变压器 <sub>⭐ 108</sub>
+- [Rolling-Sink/Rolling-Sink](https://github.com/Rolling-Sink/Rolling-Sink) - 官方实施"滚水沉淀:桥梁化有限-视距培训与自动回转视频传播的开放式测试". <sub>⭐ 108 · Python</sub>
+- [stuttlepress/ComfyUI-Wan-VACE-Video-Joiner](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner) - ComfyUI工作流程在使用Wan VACE的视频剪辑之间创造平稳的过渡. Works with video from any model或其他源-LTX-2,无人机镜头,库存视频,个人录音等. <sub>⭐ 108</sub>
+- [Vchitect/RAPO](https://github.com/Vchitect/RAPO) - (CVPR 2025) 魔王在"快讯:检索-增强的快讯优化到文本到视频生成"中. <sub>⭐ 108 · Python</sub>
+- [ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO) - 我的工作流 + 稳定视频传播的辅助节点( SVD) <sub>⭐ 108 · Python</sub>
+- [alimama-creative/M3DDM-Video-Outpainting](https://github.com/alimama-creative/M3DDM-Video-Outpainting) - (ACM MM 2023) 官方实施"视频外涂的高级蒙面3D扩散模型". <sub>⭐ 107 · Python</sub>
+- [faris-sait/openshorts](https://github.com/faris-sait/openshorts) - AI动力垂直视频生成器将YouTube长视频或上传成病毒短片(9:16). <sub>⭐ 107 · JavaScript</sub>
+- [Maurdekye/training-picker](https://github.com/Maurdekye/training-picker) - 用于稳定扩散-webui的扩展,允许用户通过视频的密钥框进行粘合,并自动从单个密钥框中选择和导出培训实例. <sub>⭐ 107 · Python</sub>
+- [RioShiina47/comfy-webui](https://github.com/RioShiina47/comfy-webui) - ComfyUI的食谱驱动WaaS平台将复杂的工作流程(图像,音频,视频,3D)转化为直观Gradio UIs,高级语义API,以及LLMs & AI Agents的MCP工具. <sub>⭐ 107 · Python</sub>
+- [takiuddin93/ChatApp](https://github.com/takiuddin93/ChatApp) - 一个Flustter Chat应用程序,使用Firebase用于Google Sign In/Sign Up和交换文本,emoji和图像. Integrative Agora Video Call SDK通过视频调用进行通信. <sub>⭐ 107 · Dart</sub>
+- [cafermutluozkan/free-ai-notebooks](https://github.com/cafermutluozkan/free-ai-notebooks) - 免费即时运行的用于文本到视频,图像到视频,语音克隆,TTS & AI Music的AI笔记本. Run on Kaggle, Colab, HuggingFace Spaces, Paperspace & Vast.ai——零设置,一击启动. <sub>⭐ 106 · Jupyter Notebook</sub>
+- [Cerzi/videoswarm](https://github.com/Cerzi/videoswarm) - 方便浏览大型视频数据集的大众视频播放器 <sub>⭐ 106 · JavaScript</sub>
+- [tanbryan/ai-mv-generator](https://github.com/tanbryan/ai-mv-generator) - 一个多代理系统,旨在基于歌词生成带有滚动字幕的音乐视频,这个项目分析歌词,并根据分析结果创建详细的提示,以. <sub>⭐ 105 · Python</sub>
+- [cvlab-kaist/DiffTrack](https://github.com/cvlab-kaist/DiffTrack) - (NeurIPS'25) 官方实施"视频传播模式的紧急时空通信". <sub>⭐ 104 · Python</sub>
+- [XamHans/video-2-text](https://github.com/XamHans/video-2-text) - Video2Text - 轻松地将您的视频转换为文本 <sub>⭐ 104 · SCSS</sub>
+- [hohonu-vicml/TrailBlazer](https://github.com/hohonu-vicml/TrailBlazer) - (SIGGRAPH Asia 2024) TrailBlazer:用于传播视频生成的轨迹控制 <sub>⭐ 103 · Python</sub>
+- [Navu4/Facial-Recognition-for-Crime-Detection](https://github.com/Navu4/Facial-Recognition-for-Crime-Detection) - 脸部识别软件,用于在图像和视频中侦测罪犯,指出其发生时间. <sub>⭐ 103 · Python</sub>
+- [swati1024/torrents](https://github.com/swati1024/torrents) - 跳转到内容搜索... 所有 gists 回 GitHub Sign 在即时签名共享代码、 注释和片断 。 @ gianasalex/ torrent- course- download- list. md forked from M - Younus/torrent 课程... <sub>⭐ 103</sub>
+- [thetobysiu/Deepstory](https://github.com/thetobysiu/Deepstory) - 深层故事将一个文本/生成的文本转换成一个视频,其中角色被动画用他/她的声音来表达你的故事. <sub>⭐ 103 · Python</sub>
+- [Vonage/vonage-java-sdk](https://github.com/Vonage/vonage-java-sdk) - Vonage Server SDK for Java. API 支持短消息,信件,语音,文本对语音,数字,校验(2FA),视频等. <sub>⭐ 103 · Java</sub>
+- [sign-language-processing/spoken-to-signed-translation](https://github.com/sign-language-processing/spoken-to-signed-translation) - 用于口语和签名语言翻译的文本至gloss-to-pose-to-video管道 <sub>⭐ 102 · Python</sub>
+- [ealicesora/Awesome-Autoregressive-Video-Diffusion](https://github.com/ealicesora/Awesome-Autoregressive-Video-Diffusion) - 强制相关自动递归视频的收藏 Gen <sub>⭐ 101</sub>
+- [stuttlepress/ComfyUI-Wan-VACE-Prep](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep) - ComfyUI节点旨在帮助普通的视频编辑任务与视频生成模型相比不那么复杂. 平滑的过渡,扩展,外绘. 主要是为Wan VACE设计的,有一些... <sub>⭐ 101 · Python</sub>
+- [bbldCVer/EDEN](https://github.com/bbldCVer/EDEN) - (CVPR2025) 官方PyTorch执行"EDEN:为高质量大动作视频框架国际化而强化传播". <sub>⭐ 100 · Python</sub>
+- [harshalbenake/hbworkspace1-100](https://github.com/harshalbenake/hbworkspace1-100) - (1) 名称:- accerometerSensor 描述:- 使用accerremeter传感器打印传感器事件值. (2) 名称:- Action BarDropdownNavigation 描述:- 带有滴落导航类型的动作栏. <sub>⭐ 100 · Java</sub>
+- [hustvl/MobileI2V](https://github.com/hustvl/MobileI2V) - (ArXiv 2025) MobileI2V:移动设备上的快速高分辨率图像对视频 <sub>⭐ 100 · Python</sub>
+- [varungupta31/dashcam_anonymizer](https://github.com/varungupta31/dashcam_anonymizer) - 使用 SOTA 对象检测模型 YOLOv8 在视频和图像中显示模糊的人脸和车辆许可证的标签的代码 <sub>⭐ 99 · Python</sub>
+- [akash-rajak/Real-Time-Human-Detection-Counting](https://github.com/akash-rajak/Real-Time-Human-Detection-Counting) - 基于拉诺福尔的快速 RCNN 初始 v2 python 模型,用于在实时图像,视频和相机中检测和计数人类. <sub>⭐ 98 · Python</sub>
+- [Anning01/TextCreateVideo](https://github.com/Anning01/TextCreateVideo) - 聊天GPT + QQAPI + 稳定扩散 + 电影 Py + fastapi <sub>⭐ 98 · Python</sub>
+- [SooLab/Free-Bloom](https://github.com/SooLab/Free-Bloom) - (NeurIPS 2023) Free-Bloom: Zero-Shot Text-to-Video 发电机,配有 LLM 主任和 LDM 动画师 <sub>⭐ 98 · Python</sub>
+- [aws-solutions-library-samples/guidance-for-open-source-3d-reconstruction-toolbox-for-gaussian-splats-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-open-source-3d-reconstruction-toolbox-for-gaussian-splats-on-aws) - 高斯滑板的开源3D重建工具箱为AWS提供了一个端到端,基于管道的导线,用于从图像或视频输入中重建3D场景或对象. <sub>⭐ 97 · Python</sub>
+- [htobty/ReadyLLM](https://github.com/htobty/ReadyLLM) - 通过视觉界面——加上ComfyUI顶部的图像/视频生成,部署,监视器,并调制LLM. <sub>⭐ 97 · Python</sub>
+- [jacky-xbb/faceless-video-generator](https://github.com/jacky-xbb/faceless-video-generator) - 一个AI动力工具,通过生成故事,将其转换成图像,将所有东西编译成带有语音功能的视频,实现视频内容创建的自动化. <sub>⭐ 97 · Python</sub>
+- [SamurAIGPT/flux-3-video-api](https://github.com/SamurAIGPT/flux-3-video-api) - 黑森林实验室FLUX 3视频API的Python包装器——文字到视频和图像到视频带本土同步音频. <sub>⭐ 97 · Python</sub>
+- [shantanu-ai/deep-learning-resources](https://github.com/shantanu-ai/deep-learning-resources) - 启动深入学习研究所需的资源。 ML/DL/CV/NLP/ML-SYS/RL/Graphs/Maths/Med图像讲座视频,来自受尊敬的大学教授。 <sub>⭐ 97</sub>
+- [github-userx/Awesome-Duplication-Finders](https://github.com/github-userx/Awesome-Duplication-Finders) - 用于查找包含相同/类似图像和视频(带有计算机视觉/AI)的重复文件的应用程序 <sub>⭐ 96</sub>
+- [Adam-Jimenez/auddit](https://github.com/Adam-Jimenez/auddit) - 厌倦了Youtube上的Reddit文字对语音视频? <sub>⭐ 95 · Python</sub>
+- [JiangkaiWu/Promptus](https://github.com/JiangkaiWu/Promptus) - AAAI口述论文"Promptus:可以促进流转视频与稳定分化的流转"的官方冲动,一个一般语义视频通信框架. <sub>⭐ 95 · Python</sub>
+- [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - 批量使用Openai的低语或本地核心ML通过微声.cpp在您的MacBook上转换视频为文本 <sub>⭐ 94 · Go</sub>
+- [parlance-zz/dualdiffusion](https://github.com/parlance-zz/dualdiffusion) - 双重扩散(Duble Difusion)是接受过电子游戏音轨训练的音乐的一种基因传播模式. <sub>⭐ 93 · Python</sub>
+- [aleflabo/MoCoDAD](https://github.com/aleflabo/MoCoDAD) - PyTorch官方实施IEEE/CVF计算机视野国际会议(ICCV)23纸 用于Skeleton基底视频异常的多模式移动条件扩散模型. . <sub>⭐ 92 · Jupyter Notebook</sub>
+- [alexram1313/text-to-speech-sample](https://github.com/alexram1313/text-to-speech-sample) - Python3 文本到语音视频样本 <sub>⭐ 92 · Python</sub>
+- [TheWiselyBearded/sbs-generator](https://github.com/TheWiselyBearded/sbs-generator) - 这个寄存器包含一个将单光视频转换为侧面(SBS)3D视频的框架,它利用图像处理技术和深度地图预测的组合生成. <sub>⭐ 92 · Jupyter Notebook</sub>
+- [ZeroLu/Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) - 开源AI图像生成器技能和Ai视频生成器技能,用于Codex,Claude Code,OpenClaw,cursor等. 由CyberBara API提供纳米香蕉,Sora 2,种子和Kling支持的动力. . <sub>⭐ 92 · MDX</sub>
+- [JaredTherriault/ComfyUI-JNodes](https://github.com/JaredTherriault/ComfyUI-JNodes) - ComfyUI的 python 和 web UX 改进: Lora/Embedding picker,web扩展管理器(可以/无法任意扩展而不会损坏 python 节点),用文本提示,图像控制任何参数... <sub>⭐ 91 · JavaScript</sub>
+- [jhbastek/VideoMetamaterials](https://github.com/jhbastek/VideoMetamaterials) - 实施“通过视频调试扩散模型对非线性机械元材料进行反设计”(自然机器智能) <sub>⭐ 91 · Python</sub>
+- [Kaihua-Chen/cog-nvs](https://github.com/Kaihua-Chen/cog-nvs) - (NeurIPS 2025) 重建,Inpaint,试时精细调的官方代码:动态小说-视觉综合自单曲视频 <sub>⭐ 91 · Python</sub>
+- [Naki21/google-speech-to-text](https://github.com/Naki21/google-speech-to-text) - Python 脚本,它从 mp4 视频中提取音频,并使用 google 语音和云存储 API 来翻译音频,返回一个已格式化的文档和原始文本 <sub>⭐ 91 · Python</sub>
+- [An-Answer-tree/AVD2](https://github.com/An-Answer-tree/AVD2) - (ICRA 2025)AVD2:事故视频传播用于事故视频描述 <sub>⭐ 90 · Python</sub>
+- [AshutoshGoswami24/text-leech-bot](https://github.com/AshutoshGoswami24/text-leech-bot) - 帮助上传文本格式列表中的视频 <sub>⭐ 90 · Python</sub>
+- [deepcs233/VividFace](https://github.com/deepcs233/VividFace) - (Neurips 2025') 活泼脸:一个基于扩散的混合框架,用于高真视频面部扭曲 <sub>⭐ 90 · Python</sub>
+- [Filarius/video2video](https://github.com/Filarius/video2video) - 自动1111 稳定扩散 WebUI 视频扩展 <sub>⭐ 90 · Python</sub>
+- [seunghyuns98/VideoColorGrading](https://github.com/seunghyuns98/VideoColorGrading) - (ICCV 2025) 通过 Look- Up 表生成的视频颜色渐变 <sub>⭐ 90 · Python</sub>
+- [Vicky0522/I2VEdit](https://github.com/Vicky0522/I2VEdit) - (SIGGRAPH Asia 2024) I2Vedit:通过图像到视频传播模式进行第一Frame-Guided Video编辑. <sub>⭐ 90 · Python</sub>
+- [desaixie/pa_vdm](https://github.com/desaixie/pa_vdm) - CVPRW 2025年论文 渐进式自动视频传播模型 //arxiv.org/abs/2410.08151 <sub>⭐ 89 · Python</sub>
+- [Human-VDM/Human-VDM](https://github.com/Human-VDM/Human-VDM) - 人-VDM:学习单像 3D 人类高斯滑板 从视频传播模型 <sub>⭐ 89</sub>
+- [replicate/cog-svd](https://github.com/replicate/cog-svd) - 作为Cog模型的稳定视频传播(img2vid) <sub>⭐ 89 · Python</sub>
+- [yangqy1110/NC-SDEdit](https://github.com/yangqy1110/NC-SDEdit) - (ECCV 2024) 噪声校准:使用预训视频传播模型的插件和播放内容保存视频增强 <sub>⭐ 89</sub>
+- [Westlake-AGI-Lab/FlowDirector](https://github.com/Westlake-AGI-Lab/FlowDirector) - 官方PyTorch执行论文"Flow Director:精准文本到视频编辑的训练-自由流导". <sub>⭐ 88 · Python</sub>
+- [FareedKhan-dev/text2video-from-scratch](https://github.com/FareedKhan-dev/text2video-from-scratch) - 一个直向前进的,一步步地执行的视频传播模式 <sub>⭐ 87 · Python</sub>
+- [JiauZhang/Text2Video-Zero](https://github.com/JiauZhang/Text2Video-Zero) - 实施Text2Video-Zero:文本对图像传播模式为零热视频生成器. <sub>⭐ 87 · Python</sub>
+- [Kelu007/VividPose](https://github.com/Kelu007/VividPose) - 维基百科中的相关条目: 维基百科中相关的原始文献… <sub>⭐ 87</sub>
+- [SusungHong/MusicInfuser](https://github.com/SusungHong/MusicInfuser) - 官方执行论文"Music Infuser:让视频传播听与舞蹈"(CVPR26). <sub>⭐ 87 · Python</sub>
+- [TencentARC/Divot](https://github.com/TencentARC/Divot) - 传播力量视频 理解与生成的调试器(CVPR 2025) <sub>⭐ 87 · Python</sub>
+- [zhenye234/Talker-T2AV](https://github.com/zhenye234/Talker-T2AV) - ACM MM 2026 Talker-T2AV 与自动扩散模式联合说话音频视频生成 <sub>⭐ 87 · Python</sub>
+- [snuvclab/david](https://github.com/snuvclab/david) - ICCV2025纸 DAViD官方存储库:使用预训视频传播模型模拟3D对象的动态承受能力 <sub>⭐ 86 · C++</sub>
+- [Artificial-Sweetener/WhiteRabbit](https://github.com/Artificial-Sweetener/WhiteRabbit) - ComfyUI强大的视频帧操纵节点,如:高效的高品质批量缩放,任意帧重印,无缝视频环路工具,批量水印复合材料等. <sub>⭐ 85 · Python</sub>
+- [CodeGoat24/LiFT](https://github.com/CodeGoat24/LiFT) - 官方实施LiFT:利用人类反馈实现文字对视频模式对齐. <sub>⭐ 85 · Python</sub>
+- [yc4ny/SVAD](https://github.com/yc4ny/SVAD) - (CVPR Working 2025) SVAD的代码:从单一图像到3D Avatar通过合成数据生成,并带有视频传播和数据增强功能 <sub>⭐ 85 · Python</sub>
+- [lucidrains/flexible-diffusion-modeling-videos-pytorch](https://github.com/lucidrains/flexible-diffusion-modeling-videos-pytorch) - 实施论文《长视频的灵活传播模式》中介绍的视频传播模式和培训计划,Pytorch <sub>⭐ 84</sub>
 
 ## 🪄 修复与特效
 
 > 放大、插帧、去除背景和 rotoscoping。
 
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. <sub>⭐ 21.9k · C++</sub>
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video <sub>⭐ 21.5k · Jupyter Notebook</sub>
-- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! <sub>⭐ 9.5k · Python</sub>
-- [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - (ICCV 2023) ProPainter: Improving Propagation and Transformer for Video Inpainting <sub>⭐ 7.0k · Python</sub>
-- [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation <sub>⭐ 5.6k · Python</sub>
-- [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI. <sub>⭐ 2.0k · Python</sub>
-- [JingyunLiang/VRT](https://github.com/JingyunLiang/VRT) - VRT: A Video Restoration Transformer (official repository) <sub>⭐ 1.6k · Python</sub>
-- [sniklaus/sepconv-slomo](https://github.com/sniklaus/sepconv-slomo) - an implementation of Video Frame Interpolation via Adaptive Separable Convolution using PyTorch <sub>⭐ 1.0k · Python</sub>
-- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app <sub>⭐ 813 · JavaScript</sub>
-- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4K in mpv with lightweight super-resolution models <sub>⭐ 754 · C#</sub>
-- [taco-group/SparkVSR](https://github.com/taco-group/SparkVSR) - (ECCV 2026) SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation <sub>⭐ 741 · Python</sub>
-- [leftthomas/ESPCN](https://github.com/leftthomas/ESPCN) - A PyTorch implementation of ESPCN based on CVPR 2016 paper "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network" <sub>⭐ 575 · Python</sub>
-- [researchmm/STTN](https://github.com/researchmm/STTN) - (ECCV'2020) STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting <sub>⭐ 558 · Jupyter Notebook</sub>
-- [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - Source code for free AI video upscaler tool <sub>⭐ 543 · TypeScript</sub>
-- [cvlab-kaist/VideoMaMa](https://github.com/cvlab-kaist/VideoMaMa) - Official implementation of "VideoMaMa: Mask-Guided Video Matting via Generative Prior", CVPR 2026 <sub>⭐ 528 · Python</sub>
-- [tarun005/FLAVR](https://github.com/tarun005/FLAVR) - Code for FLAVR: A fast and efficient frame interpolation technique. <sub>⭐ 516 · Python</sub>
-- [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) - One-paper-one-short-contribution-summary of all latest image/burst/video Denoising papers with code & citation published in top conference and journal. <sub>⭐ 504</sub>
-- [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and video upscaling program. <sub>⭐ 498 · Shell</sub>
-- [JingyunLiang/RVRT](https://github.com/JingyunLiang/RVRT) - Recurrent Video Restoration Transformer with Guided Deformable Attention (NeurlPS2022, official repository) <sub>⭐ 457 · Python</sub>
-- [amanchadha/iSeeBetter](https://github.com/amanchadha/iSeeBetter) - iSeeBetter: Spatio-Temporal Video Super Resolution using Recurrent-Generative Back-Projection Networks / Python3 / PyTorch / GANs / CNNs / ResNets / RNNs / Published in Springer Journal of… <sub>⭐ 383 · C++</sub>
-- [TencentARC/AnimeSR](https://github.com/TencentARC/AnimeSR) - Codes for "AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos" <sub>⭐ 372 · Python</sub>
-- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models. <sub>⭐ 368</sub>
-- [hitachinsk/FGT](https://github.com/hitachinsk/FGT) - (ECCV 2022) Flow-Guided Transformer for Video Inpainting <sub>⭐ 352 · Jupyter Notebook</sub>
-- [ltkong218/IFRNet](https://github.com/ltkong218/IFRNet) - IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation (CVPR 2022) <sub>⭐ 349 · Python</sub>
-- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - Free, open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI, Standalone and After Effects. <sub>⭐ 330 · Python</sub>
-- [0x09/resdet](https://github.com/0x09/resdet) - Detect source resolution of upscaled images and videos <sub>⭐ 313 · C</sub>
-- [suyukun666/UFO](https://github.com/suyukun666/UFO) - Official PyTorch implementation of the “A Unified Transformer Framework for Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection”. (TMM2023) <sub>⭐ 303 · Python</sub>
-- [Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) - (CVPR 2022) VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution <sub>⭐ 302 · Python</sub>
-- [zzh-tech/InterpAny-Clearer](https://github.com/zzh-tech/InterpAny-Clearer) - (TPAMI)(ECCV2024 Oral) Clearer anytime frame interpolation & Manipulated interpolation of anything <sub>⭐ 296 · Python</sub>
-- [the-database/VideoJaNai](https://github.com/the-database/VideoJaNai) - GUI for upscaling ONNX models with NVIDIA TensorRT and Vapoursynth <sub>⭐ 280 · C#</sub>
-- [mikigal/Anime4K-GUI](https://github.com/mikigal/Anime4K-GUI) - Anime upscaler GUI application based on Anime4K shaders which allows to save upscaled video to disk <sub>⭐ 265 · C++</sub>
-- [Tengfei-Wang/Implicit-Internal-Video-Inpainting](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) - (ICCV 2021): IIVI: Internal Video Inpainting by Implicit Long-range Propagation <sub>⭐ 259 · Python</sub>
-- [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Suite for Windows with Real-ESRGAN, RealESRNet, RealESRAnime, BSRGAN , IRCNN, GFPGAN & RIFE. Upscaling, face restoration, frame interpolation, denoising, batch processing & GPU acceleration in one… <sub>⭐ 251 · Python</sub>
-- [skycrapers/TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - A PyTorch Reimplementation of TecoGAN: Temporally Coherent GAN for Video Super-Resolution <sub>⭐ 246 · Python</sub>
-- [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - A tab for sd-webui for replacing objects in pictures or videos using detection prompt <sub>⭐ 241 · Python</sub>
-- [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub) - Try X-Dub to sync any character in a video with any audio you like / Official repository for "From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping" <sub>⭐ 235 · Python</sub>
-- [yuvraj108c/4k-video-upscaler-colab](https://github.com/yuvraj108c/4k-video-upscaler-colab) - Upscale your videos up to 4k on free google colab using Real-ESRGAN <sub>⭐ 223 · Jupyter Notebook</sub>
-- [researchmm/TTVSR](https://github.com/researchmm/TTVSR) - (CVPR'22 Oral) TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution <sub>⭐ 222 · Python</sub>
-- [msmsajjadi/FRVSR](https://github.com/msmsajjadi/FRVSR) - Frame-Recurrent Video Super-Resolution (official repository) <sub>⭐ 212</sub>
-- [jsh-me/simple-android-editor](https://github.com/jsh-me/simple-android-editor) - Android video and photo editor using Deep Learning ( FFMPEG / ExoPlayer2 / Super Resolution / Video and Image Inpainting ) <sub>⭐ 192 · Kotlin</sub>
-- [jlygit/AI-video-enhance](https://github.com/jlygit/AI-video-enhance) - This repository collects the state-of-the-art algorithms for video/image enhancement using deep learning (AI) in recent years, including super resolution, compression artifact reduction, deblocking… <sub>⭐ 189</sub>
-- [sb2702/websr](https://github.com/sb2702/websr) - Javascript library for running real-time AI Upscaling in the browser <sub>⭐ 188 · Jupyter Notebook</sub>
-- [HyeongminLEE/AdaCoF-pytorch](https://github.com/HyeongminLEE/AdaCoF-pytorch) - Official source code for our paper "AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation" (CVPR 2020) <sub>⭐ 177 · Python</sub>
-- [MONZikWasTaken/Framegen](https://github.com/MONZikWasTaken/Framegen) - Real-time neural frame interpolation in the browser: hand-written WGSL runtime on raw WebGPU, 2.9 MB model, 2x-6x any at 3-4 ms per frame. Chrome extension. <sub>⭐ 176 · JavaScript</sub>
-- [researchmm/FTVSR](https://github.com/researchmm/FTVSR) - (ECCV'22) FTVSR: Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution <sub>⭐ 175 · Python</sub>
-- [hzwer/WACV2024-SAFA](https://github.com/hzwer/WACV2024-SAFA) - WACV2024 - Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution <sub>⭐ 171 · Python</sub>
-- [CMLab-Korea/Awesome-Video-Frame-Interpolation](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) - (IEEE TCSVT'26) AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation <sub>⭐ 168</sub>
-- [CVL-UESTC/MIA-VSR](https://github.com/CVL-UESTC/MIA-VSR) - CVPR 2024-Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention <sub>⭐ 168 · Python</sub>
-- [alex04072000/CyclicGen](https://github.com/alex04072000/CyclicGen) - Deep Video Frame Interpolation using Cyclic Frame Generation <sub>⭐ 166 · Python</sub>
-- [yinxiL/video-super-resolution](https://github.com/yinxiL/video-super-resolution) - a collection of classic tensorflow & pytorch cnn models' implementation <sub>⭐ 166 · Python</sub>
-- [FeiGeChuanShu/ncnn_Android_RobustVideoMatting](https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting) - Android human segmentation by ncnn <sub>⭐ 160 · C++</sub>
-- [MCG-NJU/VFIMamba](https://github.com/MCG-NJU/VFIMamba) - (NeurIPS 2024) VFIMamba: Video Frame Interpolation with State Space Models <sub>⭐ 157 · Python</sub>
-- [AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings) - ABME AdaFNIO AMT BiM-VFI BiT CBBD CDFI CtxSyn DBVI DC-BVFI DQBC DRVI DvP EAFI EBME EDC EDEN EDENVFI EDSC EMA-VFI FGDCN FILM FLAVR GIMM-VFI HFD HiFI H-VFI IFRNet InterpAny-Clearer IQ-VFI JNMR LADDER… <sub>⭐ 156</sub>
-- [Baymax-chen/EMVD](https://github.com/Baymax-chen/EMVD) - Efficient Multi-Stage Video Denoising With Recurrent Spatio-Temporal Fusion. CVPR_2021. <sub>⭐ 154 · Python</sub>
-- [CM-BF/FeatureFlow](https://github.com/CM-BF/FeatureFlow) - A state-of-the-art Video Frame Interpolation Method using feature flows blending. （CVPR 2020) <sub>⭐ 151 · Python</sub>
-- [XPixelGroup/RethinkVSRAlignment](https://github.com/XPixelGroup/RethinkVSRAlignment) - (NIPS 2022) Rethinking Alignment in Video Super-Resolution Transformers <sub>⭐ 146 · Python</sub>
-- [xlite-dev/RVM-Inference](https://github.com/xlite-dev/RVM-Inference) - Robust Video Matting C++ inference toolkit with ONNXRuntime、MNN、NCNN and TNN, via lite.ai.toolkit. <sub>⭐ 144 · C++</sub>
-- [llmpass/RSTT](https://github.com/llmpass/RSTT) - Official pytorch implementation of paper "RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution" <sub>⭐ 143 · Jupyter Notebook</sub>
-- [FudanCVL/SAM2Matting](https://github.com/FudanCVL/SAM2Matting) - (ECCV 2026) SAM2Matting: Generalized Image and Video Matting <sub>⭐ 139 · Python</sub>
-- [SuperMarcus/waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) - Super-resolution videos in macOS with Waifu2x. <sub>⭐ 136 · Swift</sub>
-- [JIA-Lab-research/VFIformer](https://github.com/JIA-Lab-research/VFIformer) - Video Frame Interpolation with Transformer (CVPR2022) <sub>⭐ 133 · Python</sub>
-- [Anime4KWebBoost/Anime4K-WebGPU](https://github.com/Anime4KWebBoost/Anime4K-WebGPU) - Implementation of Anime4K in WebGPU <sub>⭐ 132 · WGSL</sub>
-- [Ascend-Research/Turtle](https://github.com/Ascend-Research/Turtle) - ( NeurIPS 2024 ) The official PyTorch implementation for Learning Truncated Causal History Model for Video Restoration. <sub>⭐ 131 · Python</sub>
-- [liv-group/reproducible-video-denoising-state-of-the-art](https://github.com/liv-group/reproducible-video-denoising-state-of-the-art) - Collection of popular and reproducible video denoising works. <sub>⭐ 128</sub>
-- [ruiliu-ai/FuseFormer](https://github.com/ruiliu-ai/FuseFormer) - official Pytorch implementation of ICCV 2021 paper FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting. <sub>⭐ 122 · Python</sub>
-- [SHI-Labs/VMFormer](https://github.com/SHI-Labs/VMFormer) - (Preprint) VMFormer: End-to-End Video Matting with Transformer <sub>⭐ 122 · Python</sub>
-- [davlee1972/upscale_video](https://github.com/davlee1972/upscale_video) - Upscales Video 2x or 4x using AI <sub>⭐ 120 · Python</sub>
-- [Kuberwastaken/sweeta](https://github.com/Kuberwastaken/sweeta) - Remove Watermarks from SORA 2 Video Generations with LaMA inpainting. (RESEARCH AND EDUCATIONAL USE ONLY) <sub>⭐ 120 · Python</sub>
-- [ravisvi/super-resolution-videos](https://github.com/ravisvi/super-resolution-videos) - Applying SRGAN technique implemented in https://github.com/zsdonghao/SRGAN on videos to super resolve them. <sub>⭐ 110 · Python</sub>
-- [HymEric/VSR-DUF-Reimplement](https://github.com/HymEric/VSR-DUF-Reimplement) - It is a re-implementation of paper named "Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation" called VSR-DUF model. There are both training… <sub>⭐ 109 · Python</sub>
-- [jianzongwu/Language-Driven-Video-Inpainting](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) - (CVPR 2024) Official code for paper "Towards Language-Driven Video Inpainting via Multimodal Large Language Models" <sub>⭐ 99 · Python</sub>
-- [MediaTek-NeuroPilot/mai22-real-time-video-sr](https://github.com/MediaTek-NeuroPilot/mai22-real-time-video-sr) - The official codebase for the Real-Time Video Super-Resolution Challenge in Mobile AI (MAI) Workshop@ CVPR 2022 & Advances in Image Manipulation (AIM) Workshop @ ECCV 2022 <sub>⭐ 97 · Python</sub>
-- [linckosz/moonlight-web](https://github.com/linckosz/moonlight-web) - Play your PC games anywhere, directly in your browser. A web-based Moonlight client for streaming Sunshine games with ultra-low latency, full gamepad support, high-quality video streaming (H.264… <sub>⭐ 96 · HTML</sub>
-- [aim-uofa/GVM](https://github.com/aim-uofa/GVM) - (SIGGRAPH2025) Generative Video Matting <sub>⭐ 93 · Python</sub>
-- [sreyas-mohan/udvd](https://github.com/sreyas-mohan/udvd) - Unsupervised Deep Video Denoising, ICCV 2021 <sub>⭐ 93 · Jupyter Notebook</sub>
-- [OpenVisualCloud/Video-Super-Resolution-Library](https://github.com/OpenVisualCloud/Video-Super-Resolution-Library) - Native C and C++ implementation of RAISR (Rapid and Accurate Image Super-Resolution). Intel Video Super Resolution Library <sub>⭐ 92 · C++</sub>
-- [sniklaus/revisiting-sepconv](https://github.com/sniklaus/revisiting-sepconv) - an implementation of Revisiting Adaptive Convolutions for Video Frame Interpolation using PyTorch <sub>⭐ 92 · Python</sub>
-- [dariofuoli/RLSP](https://github.com/dariofuoli/RLSP) - Official repository containing code and other material from the paper "Efficient Video Super-Resolution through Recurrent Latent Space Propagation" (https://arxiv.org/abs/1909.08080). <sub>⭐ 88 · Python</sub>
-- [Kim2091/vapourkit](https://github.com/Kim2091/vapourkit) - A frontend for VapourSynth with a focus on video upscaling <sub>⭐ 86 · TypeScript</sub>
-- [SysAdminDoc/VideoSubtitleRemover](https://github.com/SysAdminDoc/VideoSubtitleRemover) - Remove hard-coded subtitles and visible text from video, locally. Windows app with OCR, frame-aware inpainting, mask review, and CPU/NVIDIA builds. <sub>⭐ 86 · Python</sub>
-- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising <sub>⭐ 84 · Python</sub>
-- [Nenotriple/R-ESRGAN-AnimeVideo-UI](https://github.com/Nenotriple/R-ESRGAN-AnimeVideo-UI) - reav-ui - Upscale videos using R-ESRGAN <sub>⭐ 84 · Python</sub>
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - 机器学习视频超解析与帧内插框架. Est. Hack the Valley II, 2018. <sub>⭐ 21.9k · C++</sub>
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - Anime 视频的高质量实时升级器 <sub>⭐ 21.5k · Jupyter Notebook</sub>
+- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - PyTorch 的强力视频马廷, TensorFlow, TensorFlow.js, ONNX, CoreML! <sub>⭐ 9.5k · Python</sub>
+- [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - (ICCV 2023) ProPainter:改进视频插画的传播和变形器 <sub>⭐ 7.0k · Python</sub>
+- [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - 视频帧内插实时中间流量估计. <sub>⭐ 5.6k · Python</sub>
+- [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Release使用Florence-2和LaMA:从图像和视频中移除水印,包括来自Sora,Runway等的AI生成内容. Featives a 现代PyWebview GUI. <sub>⭐ 2.0k · Python</sub>
+- [JingyunLiang/VRT](https://github.com/JingyunLiang/VRT) - VRT: 视频还原变形器(官方寄存器) <sub>⭐ 1.6k · Python</sub>
+- [sniklaus/sepconv-slomo](https://github.com/sniklaus/sepconv-slomo) - 使用 PyTorch 通过可适应分离的编译执行 Video Frame Interpation <sub>⭐ 1.0k · Python</sub>
+- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - 使用 NVIDIA 的 TensorRT & Tencent 的 NCNN 推论进行视频帧内插和超级解析, 精心设计并包装成一个单一的应用程序 <sub>⭐ 813 · JavaScript</sub>
+- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - 使用轻量级超解析模型,将实时动能提升至mpv中的4K <sub>⭐ 754 · C#</sub>
+- [taco-group/SparkVSR](https://github.com/taco-group/SparkVSR) - (ECCV 2026) SparkVSR:通过Sparse密钥帧传播互动视频超解析 <sub>⭐ 741 · Python</sub>
+- [leftthomas/ESPCN](https://github.com/leftthomas/ESPCN) - PyTorch基于CVPR 2016年论文"真实时空单一图像和视频超解析使用高效的子像素神经网络"实施ESPCN. <sub>⭐ 575 · Python</sub>
+- [researchmm/STTN](https://github.com/researchmm/STTN) - (ECCV'2020) STN:学习联合空间-时空变换视频插图 <sub>⭐ 558 · Jupyter Notebook</sub>
+- [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - 免费 AI 视频升级工具的源代码 <sub>⭐ 543 · TypeScript</sub>
+- [cvlab-kaist/VideoMaMa](https://github.com/cvlab-kaist/VideoMaMa) - 官方实施"VideoMaMa:蒙面指导视频通过Generative Prior",CVPR2026 <sub>⭐ 528 · Python</sub>
+- [tarun005/FLAVR](https://github.com/tarun005/FLAVR) - FLAVR的代码:快速高效的框架插值技术. <sub>⭐ 516 · Python</sub>
+- [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) - 一纸一纸的简短贡献——所有最新图像/破解/录像Denoising论文摘要,并在最高会议和期刊上发表有代码和引用的论文。 <sub>⭐ 504</sub>
+- [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - 集成各种编译的开源AI图像/视频升级产品,用于工作型CLI友好图像和视频升级程序. <sub>⭐ 498 · Shell</sub>
+- [JingyunLiang/RVRT](https://github.com/JingyunLiang/RVRT) - 带有可导变形注意的经常性视频还原变形器(NeurlPS2022,官方寄存器) <sub>⭐ 457 · Python</sub>
+- [amanchadha/iSeeBetter](https://github.com/amanchadha/iSeeBetter) - iSeeBetter: Spatio-Temporal Video Super 分辨率使用经常性-General后期投影网络/Python3/PyTorch/GANs/CNNs/ResNets/RNNs/发布于Springer Journal of... <sub>⭐ 383 · C++</sub>
+- [TencentARC/AnimeSR](https://github.com/TencentARC/AnimeSR) - "AnimeSR:学习真实世界的超解析模型动画视频"的代码 <sub>⭐ 372 · Python</sub>
+- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - 一个收集图像和视频的存储器 提升资源, 以及我自己的超解析模型。 <sub>⭐ 368</sub>
+- [hitachinsk/FGT](https://github.com/hitachinsk/FGT) - (ECCV 2022) 用于视频涂装的流程引导变换器 <sub>⭐ 352 · Jupyter Notebook</sub>
+- [ltkong218/IFRNet](https://github.com/ltkong218/IFRNet) - IFRNet:高效国际化框架的中间功能完善网络(CVPR 2022) <sub>⭐ 349 · Python</sub>
+- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - 自由,开源的动画视频工具包:AI向上缩放,RIFE插图并恢复在一个通道中. CLI,独立和After Effect. <sub>⭐ 330 · Python</sub>
+- [0x09/resdet](https://github.com/0x09/resdet) - 检测升级图像和视频的源分辨率 <sub>⭐ 313 · C</sub>
+- [suyukun666/UFO](https://github.com/suyukun666/UFO) - PyTorch公司正式实施“共同分类、共同重要检测和视频敏感物体检测的统一变换器框架”(TMM2023)。 <sub>⭐ 303 · Python</sub>
+- [Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) - (CVPR 2022) VideoINR:学习视频隐含神经表现 持续空间时空超解析 <sub>⭐ 302 · Python</sub>
+- [zzh-tech/InterpAny-Clearer](https://github.com/zzh-tech/InterpAny-Clearer) - (TPAMI)(ECCV2024 口述) 随时清理框架插值和操纵插值 <sub>⭐ 296 · Python</sub>
+- [the-database/VideoJaNai](https://github.com/the-database/VideoJaNai) - NVIDIA TensorRT 和 Vapoursynth 升级的 ONNX 模型图形界面 <sub>⭐ 280 · C#</sub>
+- [mikigal/Anime4K-GUI](https://github.com/mikigal/Anime4K-GUI) - 基于 Anime4K 阴影的 Anime 升級程式 GUI 应用程序, 可以将升級影像保存到磁盘中 <sub>⭐ 265 · C++</sub>
+- [Tengfei-Wang/Implicit-Internal-Video-Inpainting](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) - (ICCV 2021):IIVI:隐含远程传播的内部视频插图 <sub>⭐ 259 · Python</sub>
+- [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - 与Real-ESRGAN,RealESRNet,RealESRAnime,BSRGAN,IRCN,GFPGAN & RIFE等Windows的套件. Upscale,面部恢复,框架插值,解析,批处理和GPU加速在一个中... <sub>⭐ 251 · Python</sub>
+- [skycrapers/TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - TecoGAN的 PyTorch 重制版:视频超解析的同步GAN <sub>⭐ 246 · Python</sub>
+- [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - 用于使用检测提示替换图片或视频中对象的 sd-webui 标签 <sub>⭐ 241 · Python</sub>
+- [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub) - 尝试 X- Dub 用您喜欢的任何音频同步视频中的任何字符 / 官方寄存器“ 从印记到编辑: 通过 Generative Bootstrapping 解锁 Robust Mask- Free Visual Dubbing” <sub>⭐ 235 · Python</sub>
+- [yuvraj108c/4k-video-upscaler-colab](https://github.com/yuvraj108c/4k-video-upscaler-colab) - 使用 Real- ESRGAN 在免费的google colab 上将视频扩展至4k <sub>⭐ 223 · Jupyter Notebook</sub>
+- [researchmm/TTVSR](https://github.com/researchmm/TTVSR) - (CVPR'22口述) TTVSR:学习轨迹-视频超解析器的智能变形器 <sub>⭐ 222 · Python</sub>
+- [msmsajjadi/FRVSR](https://github.com/msmsajjadi/FRVSR) - 帧- 重现视频超级解析度( 官方仓库) <sub>⭐ 212</sub>
+- [jsh-me/simple-android-editor](https://github.com/jsh-me/simple-android-editor) - Android 视频和图片编辑器,使用深层学习(FAMPEG / ExoPlayer2 / 超级分辨率 / 视频和图像插图) <sub>⭐ 192 · Kotlin</sub>
+- [jlygit/AI-video-enhance](https://github.com/jlygit/AI-video-enhance) - 这个寄存器利用近年来的深度学习(AI)来收集视频/图像增强的最先进的算法,包括超解析度,压缩文物的减少,解封. . <sub>⭐ 189</sub>
+- [sb2702/websr](https://github.com/sb2702/websr) - 在浏览器中运行实时 AI Upscale 的 Javascript 库 <sub>⭐ 188 · Jupyter Notebook</sub>
+- [HyeongminLEE/AdaCoF-pytorch](https://github.com/HyeongminLEE/AdaCoF-pytorch) - 我们的论文"AdaCoF:为视频框架国际化而适应性合作"(CVPR 2020)的官方源代码. <sub>⭐ 177 · Python</sub>
+- [MONZikWasTaken/Framegen](https://github.com/MONZikWasTaken/Framegen) - 浏览器中的实时神经帧内插:原始WebGPU上的手写WGSL运行时间,2.9 MB模型,2x-6x任意每帧3-4ms. Chrome扩展. <sub>⭐ 176 · JavaScript</sub>
+- [researchmm/FTVSR](https://github.com/researchmm/FTVSR) - (ECCV'22) FTVSR:学习 Spatiotemporal 频率-压缩视频超解析器 <sub>⭐ 175 · Python</sub>
+- [hzwer/WACV2024-SAFA](https://github.com/hzwer/WACV2024-SAFA) - WACV2024 - 空间时空视频超解析度的缩放功能聚合 <sub>⭐ 171 · Python</sub>
+- [CMLab-Korea/Awesome-Video-Frame-Interpolation](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) - (IEE TCSVT'26) AceVFI: 视频框架国际化进展综合调查. <sub>⭐ 168</sub>
+- [CVL-UESTC/MIA-VSR](https://github.com/CVL-UESTC/MIA-VSR) - CVPR 2024-Video 超分辨率变形器,带有 Masked Inter和Intra-Frame 注意 <sub>⭐ 168 · Python</sub>
+- [alex04072000/CyclicGen](https://github.com/alex04072000/CyclicGen) - 使用 Cyclic 框架生成的深视频框架内插 <sub>⭐ 166 · Python</sub>
+- [yinxiL/video-super-resolution](https://github.com/yinxiL/video-super-resolution) - 经典的拉伸流和 pytorch cnn 模型执行集 <sub>⭐ 166 · Python</sub>
+- [FeiGeChuanShu/ncnn_Android_RobustVideoMatting](https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting) - 机器人人类的分化,由ncnn <sub>⭐ 160 · C++</sub>
+- [MCG-NJU/VFIMamba](https://github.com/MCG-NJU/VFIMamba) - (NeurIPS 2024) VFIMamba:带国家空间模型的视频框架内插 <sub>⭐ 157 · Python</sub>
+- [AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings) - ABME AdaFNIO AMT BIM-VFI BiT CBD CDFI CtxSyn DBVI DC-BVFI DQBC DRVI DvP EAFI EBME EDC EDEN VFI EDSC EMA-VFI FGDCN FLAVR GIMM-VFI HHFI IFRNet InterpAny-Clearer IQ-VFI JNMR LADDER... <sub>⭐ 156</sub>
+- [Baymax-chen/EMVD](https://github.com/Baymax-chen/EMVD) - 高效的多层视频 Denoising with revential Spatio-Temporal Fusion. CVPR_2021 (英语). <sub>⭐ 154 · Python</sub>
+- [CM-BF/FeatureFlow](https://github.com/CM-BF/FeatureFlow) - 使用特性流混合的先进视频框架内插法。 (2020年CVPR) <sub>⭐ 151 · Python</sub>
+- [XPixelGroup/RethinkVSRAlignment](https://github.com/XPixelGroup/RethinkVSRAlignment) - (NIPS 2022) 在视频超分辨率变压器中重新思考对齐 <sub>⭐ 146 · Python</sub>
+- [xlite-dev/RVM-Inference](https://github.com/xlite-dev/RVM-Inference) - 强力视频 Matting C++ 推论工具包 ONNXRuntime,MNN,NCN和TNN,通过lite.ai.toolkit. <sub>⭐ 144 · C++</sub>
+- [llmpass/RSTT](https://github.com/llmpass/RSTT) - 官方pytorch执行论文"RSTT:实时空间时段变换器用于空间时段视频超级解析" <sub>⭐ 143 · Jupyter Notebook</sub>
+- [FudanCVL/SAM2Matting](https://github.com/FudanCVL/SAM2Matting) - (ECCV 2026) SAM2Matting:通用图像和视频马定 <sub>⭐ 139 · Python</sub>
+- [SuperMarcus/waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) - 与Waifu2x一起在macOS中超解析视频. <sub>⭐ 136 · Swift</sub>
+- [JIA-Lab-research/VFIformer](https://github.com/JIA-Lab-research/VFIformer) - 带变形器的视频框架内插( CVPR2022) <sub>⭐ 133 · Python</sub>
+- [Anime4KWebBoost/Anime4K-WebGPU](https://github.com/Anime4KWebBoost/Anime4K-WebGPU) - WebGPU 中的 Aime4K 执行 <sub>⭐ 132 · WGSL</sub>
+- [Ascend-Research/Turtle](https://github.com/Ascend-Research/Turtle) - (NeurIPS 2024) PyTorch官方执行"学习短篇历史模型"的视频修复. <sub>⭐ 131 · Python</sub>
+- [liv-group/reproducible-video-denoising-state-of-the-art](https://github.com/liv-group/reproducible-video-denoising-state-of-the-art) - 收藏大众和可复制的视频解码作品. <sub>⭐ 128</sub>
+- [ruiliu-ai/FuseFormer](https://github.com/ruiliu-ai/FuseFormer) - Pytorch官方执行ICCV 2021纸 FuseFormer:在变形器中Fusing Fine-Grained Information for Video Inpainting. 互联网档案馆的存檔,存档日期2013-09-21. <sub>⭐ 122 · Python</sub>
+- [SHI-Labs/VMFormer](https://github.com/SHI-Labs/VMFormer) - (预印) VMFormer: 端到端视频装配变形器 <sub>⭐ 122 · Python</sub>
+- [davlee1972/upscale_video](https://github.com/davlee1972/upscale_video) - 使用 AI 升级视频 2x或 4x <sub>⭐ 120 · Python</sub>
+- [Kuberwastaken/sweeta](https://github.com/Kuberwastaken/sweeta) - 从 SORA 2 中删除带有 LaMA 插画的视频世代( 仅使用研究与教育) <sub>⭐ 120 · Python</sub>
+- [ravisvi/super-resolution-videos](https://github.com/ravisvi/super-resolution-videos) - 应用在https://github.com/zsdonghao/SRGAN中实施的SRGAN技术,以超强解决. <sub>⭐ 110 · Python</sub>
+- [HymEric/VSR-DUF-Reimplement](https://github.com/HymEric/VSR-DUF-Reimplement) - 这是一种名为"使用动态升温过滤器而无需明确运动补偿的深视频超分辨率网络"的纸的重新应用,称为VSR-DUF模型,有两种训练. . <sub>⭐ 109 · Python</sub>
+- [jianzongwu/Language-Driven-Video-Inpainting](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) - (CVPR 2024) 纸质"走向语言驱动视频通过多式联运大语言模型涂装"的官方代码 <sub>⭐ 99 · Python</sub>
+- [MediaTek-NeuroPilot/mai22-real-time-video-sr](https://github.com/MediaTek-NeuroPilot/mai22-real-time-video-sr) - 移动AI(MAI)工作坊中实时视频超解析度挑战的官方代码库@CVPR 2022 & 图像操纵(AIM)工作坊中的进展@ECCV 2022 <sub>⭐ 97 · Python</sub>
+- [linckosz/moonlight-web](https://github.com/linckosz/moonlight-web) - 任意玩个人电脑游戏,直接在浏览器中播放。一个基于网络的月光客户端,用于流放日光游戏,具有超低纬度,完整的游戏板支持,高质量的视频流(H.264... <sub>⭐ 96 · HTML</sub>
+- [aim-uofa/GVM](https://github.com/aim-uofa/GVM) - (SIGGRAPH2025) Generative Video Matting(原始内容存档于2019-03-29). <sub>⭐ 93 · Python</sub>
+- [sreyas-mohan/udvd](https://github.com/sreyas-mohan/udvd) - 无人监督的深层视频 Denoising,ICCV 2021 <sub>⭐ 93 · Jupyter Notebook</sub>
+- [OpenVisualCloud/Video-Super-Resolution-Library](https://github.com/OpenVisualCloud/Video-Super-Resolution-Library) - 原生 C 和 C++ 执行 RAISR (Rapid and Accurate Image Super-resolution). Intel Video Super 分辨率库 <sub>⭐ 92 · C++</sub>
+- [sniklaus/revisiting-sepconv](https://github.com/sniklaus/revisiting-sepconv) - 使用 PyTorch 进行视频框架内嵌的修改 <sub>⭐ 92 · Python</sub>
+- [dariofuoli/RLSP](https://github.com/dariofuoli/RLSP) - 官方寄存器中包含来自论文"通过Latement Reventional Space Production(英语:Efficient Video-Secretion Super-resolution)"(https://arxiv.org/abs/1909.0880)的代码和其他材料. <sub>⭐ 88 · Python</sub>
+- [Kim2091/vapourkit](https://github.com/Kim2091/vapourkit) - VapourSynth 前端, 重点是视频升级 <sub>⭐ 86 · TypeScript</sub>
+- [SysAdminDoc/VideoSubtitleRemover](https://github.com/SysAdminDoc/VideoSubtitleRemover) - 从视频中移除硬码字幕和可见文本,本地版. Windows app with OCR,帧感知涂装,遮罩审查,以及CPU/NVIDIA构建. <sub>⭐ 86 · Python</sub>
+- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVD网:一个用于深视频Denoising的简单快捷网络 <sub>⭐ 84 · Python</sub>
+- [Nenotriple/R-ESRGAN-AnimeVideo-UI](https://github.com/Nenotriple/R-ESRGAN-AnimeVideo-UI) - reav-ui - 使用 R-ESRGAN 的视频 <sub>⭐ 84 · Python</sub>
 
 ## 🔌 编辑软件的插件与自动化
 
 > AI 与 DaVinci Resolve、Premiere、FFmpeg 等的集成。
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video… <sub>⭐ 62.4k · Python</sub>
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. <sub>⭐ 55.9k · TypeScript</sub>
-- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents <sub>⭐ 27.9k · Python</sub>
-- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. <sub>⭐ 18.9k · TypeScript</sub>
-- [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) - Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills… <sub>⭐ 6.6k · TypeScript</sub>
-- [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees.… <sub>⭐ 4.6k · HTML</sub>
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - 世界第一个开源,代理视频制作系统. 12个生产管道,100+工具,700+代理技能和生产知识文件. 把你的AI编码助理变成一个完整的视频... <sub>⭐ 62.4k · Python</sub>
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - 写入 HTML, 渲染视频。 为代理机所建 。 <sub>⭐ 55.9k · TypeScript</sub>
+- [browser-use/video-use](https://github.com/browser-use/video-use) - 使用编码代理编辑视频 <sub>⭐ 27.9k · Python</sub>
+- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - 使用AI代理来清除任何病毒视频。不仅仅是一个脚本,整个工作流程:换脸、换字、换B卷、在一个指令中传送100个变体,并获得你的100M视图。 <sub>⭐ 18.9k · TypeScript</sub>
+- [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) - 企业级,本地第一代理Workbench供人员和代理团队使用. Codex Harness, DeepSeek Harness,和OpenCode的统一的多引擎工作空间,有统一的插件和技能... <sub>⭐ 6.6k · TypeScript</sub>
+- [nexu-io/html-video](https://github.com/nexu-io/html-video) - 编码代理的程序视频 — HTML 将您笔记本电脑上的视频。 将 HTML, CSS & 数据转换成真实的 MP4 , 并带有可插件渲染引擎, 21 模板, AI soundtrack. Apache - 2. 0, 不每台收费... <sub>⭐ 4.6k · HTML</sub>
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - 直接连接到 DaVinci Union、 Premiere 和 After Effect 的在线字幕生成器。 <sub>⭐ 4.3k · TypeScript</sub>
-- [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - Skill for Agent automating JianYing (CapCut Chinese version) video editing. <sub>⭐ 3.7k · Python</sub>
-- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - The VS Code of video editing, built for agents. <sub>⭐ 3.2k · TypeScript</sub>
-- [rushindrasinha/youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) - Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload <sub>⭐ 2.3k · Python</sub>
-- [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) - Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data. <sub>⭐ 2.2k · Python</sub>
-- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. <sub>⭐ 2.1k · Python</sub>
-- [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) - Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering. <sub>⭐ 2.1k · TypeScript</sub>
-- [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) - (EMNLP2026) "VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking" <sub>⭐ 1.9k · Python</sub>
-- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing <sub>⭐ 1.5k · TypeScript</sub>
-- [BabitMF/bmf](https://github.com/BabitMF/bmf) - Cross-platform, customizable multimedia/video processing framework. With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high… <sub>⭐ 1.0k · C++</sub>
-- [GVCLab/CutClaw](https://github.com/GVCLab/CutClaw) - Agentic Hours-Long Video Editing via Music Synchronization <sub>⭐ 976 · Python</sub>
-- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) - Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json and… <sub>⭐ 816 · JavaScript</sub>
-- [cartesiancs/cartcut](https://github.com/cartesiancs/cartcut) - Video Editor for AI agents, built on the belief that open source can beat commercial tools <sub>⭐ 760 · TypeScript</sub>
+- [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - 代理机技能自动化建英(CapCut中文版)视频编辑. <sub>⭐ 3.7k · Python</sub>
+- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - VS代码的视频编辑,为代理商所建. <sub>⭐ 3.2k · TypeScript</sub>
+- [rushindrasinha/youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) - 自动YouTube Shorts管道:新闻_脚本_AI视觉_翻唱_字幕_上传. <sub>⭐ 2.3k · Python</sub>
+- [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) - YouTube / 短式视频自动化填充自有数据框架: CapCut JSON + ffmpeg工具+登船问卷. 船舶零私人数据. <sub>⭐ 2.2k · Python</sub>
+- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) - 将一个话题变成一个完成的Vox风格纸库解释器/ad视频——自动端端到Atlas Cloud+ffmpeg上结束. 一种代理技能. <sub>⭐ 2.1k · Python</sub>
+- [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) - 开源,本地第一对话AI视频编辑器,并配有专业的多轨时间表,代理技能,MCP集成,以及Remotion渲染. <sub>⭐ 2.1k · TypeScript</sub>
+- [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) - (EMNLP2026)"影视代理:全能全能的视频理解与编辑,以及再制作的代理框架". <sub>⭐ 1.9k · Python</sub>
+- [vanloctech/youwee](https://github.com/vanloctech/youwee) - 一个优美的跨平台下载器,用于YouTube,TikTok,Instagram和1800+网站(yt-dlp GUI),并配有AI视频摘要及后处理. <sub>⭐ 1.5k · TypeScript</sub>
+- [BabitMF/bmf](https://github.com/BabitMF/bmf) - 跨平台,自定义的多媒体/视频处理框架. 有了强大的GPU加速,不同设计,多语言支持,易于使用,多框架兼容和高... <sub>⭐ 1.0k · C++</sub>
+- [GVCLab/CutClaw](https://github.com/GVCLab/CutClaw) - 通过音乐同步进行代理时长视频编辑 <sub>⭐ 976 · Python</sub>
+- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) - 独立,非官方的CLI来编辑 CapCut和JianYing (QX) 项目——字幕,时间,速度,音量,模板,剪切长式为短式. no API needed, reader_content.json and... <sub>⭐ 816 · JavaScript</sub>
+- [cartesiancs/cartcut](https://github.com/cartesiancs/cartcut) - AI代理商的视频编辑器,基于开放源代码可以击败商业工具的信念 <sub>⭐ 760 · TypeScript</sub>
 - [alexandremendoncaalvaro/CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) - DaVinci Conclusion 的原生AI密钥运行时间和OFX插件,与走廊数字公司合作建造. <sub>⭐ 754 · C++</sub>
-- [myccarl/ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) - End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating… <sub>⭐ 699 · Python</sub>
-- [ronak-create/FableCut](https://github.com/ronak-create/FableCut) - Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI <sub>⭐ 697 · JavaScript</sub>
-- [GuanYixuan/pyCapCut](https://github.com/GuanYixuan/pyCapCut) - A lightweight, flexible, and easy-to-use Python tool for generating and exporting CapCut drafts to build fully automated video editing/remix pipelines! Another similar project… <sub>⭐ 691 · Python</sub>
-- [Dakkshin/after-effects-mcp](https://github.com/Dakkshin/after-effects-mcp) - MCP Server for Adobe After Effects. Enables remote control (compositions, text, shapes, solids, properties) via the Model Context Protocol using ExtendScript. <sub>⭐ 689 · JavaScript</sub>
-- [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) - AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg) <sub>⭐ 494 · Python</sub>
-- [barckley75/resolve-claude-mcp](https://github.com/barckley75/resolve-claude-mcp) - Connect DaVinci Resolve Studio to Claude AI through the Model Context Protocol (MCP) <sub>⭐ 372 · Python</sub>
-- [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model <sub>⭐ 341 · Python</sub>
-- [Alexwtlf/agentic-product-demo](https://github.com/Alexwtlf/agentic-product-demo) - Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording. <sub>⭐ 326 · TypeScript</sub>
-- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. <sub>⭐ 316 · JavaScript</sub>
-- [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov) <sub>⭐ 307 · TypeScript</sub>
-- [Bomx/super-video-maker-skill](https://github.com/Bomx/super-video-maker-skill) - AI video production skill for agents: HeyGen avatars, Seedance b-roll, OpenAI images, Remotion, HyperFrames, screen recording, FFmpeg captions and QC. <sub>⭐ 296 · Python</sub>
-- [diffusionstudio/agent](https://github.com/diffusionstudio/agent) - The agentic video editing framework <sub>⭐ 293 · Python</sub>
-- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) - MCP Interface for Video Jungle <sub>⭐ 290 · Python</sub>
-- [RyanChenYN/JAVEdit](https://github.com/RyanChenYN/JAVEdit) - JAVEdit: Joint Audio-Visual Instruction-Guided Video Editing with Agentic Data Curation <sub>⭐ 273 · Python</sub>
-- [lmk123568/PyVideoProc](https://github.com/lmk123568/PyVideoProc) - High-Performance Multi-Stream Video Processing in Python with CUDA <sub>⭐ 243 · C++</sub>
-- [yeates/Aurora](https://github.com/yeates/Aurora) - (NeurIPS 2026) Aurora: Unified Video Editing with a Tool-Using Agent <sub>⭐ 243 · Python</sub>
+- [myccarl/ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) - 端到端AI短视频生产管道. FastAPI 管弦乐+春靴网关 具有多模式故障,断路器,计量,以及全存储的可观察性. AI 质感GATLING... <sub>⭐ 699 · Python</sub>
+- [ronak-create/FableCut](https://github.com/ronak-create/FableCut) - 零依赖浏览器视频编辑器,AI代理可以驱动——JSON时间线,MCP+REST,直播重载UI <sub>⭐ 697 · JavaScript</sub>
+- [GuanYixuan/pyCapCut](https://github.com/GuanYixuan/pyCapCut) - 一个轻量级,灵活的,易于使用的Python工具,用于生成和输出 CapCut 草稿,以构建全自动的视频编辑/重混管道! 另一个类似的项目... <sub>⭐ 691 · Python</sub>
+- [Dakkshin/after-effects-mcp](https://github.com/Dakkshin/after-effects-mcp) - Adobe 效果后的 MCP 服务器。 通过使用扩展脚本的模型上下文协议, 启用远程控制( 组合、 文本、 形状、 固件、 属性) 。 <sub>⭐ 689 · JavaScript</sub>
+- [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) - AI动力视频编辑器,将原始镜头和创作简报转换成使用AI代理组合的抛光广告(Google双子座+FFmpeg). <sub>⭐ 494 · Python</sub>
+- [barckley75/resolve-claude-mcp](https://github.com/barckley75/resolve-claude-mcp) - 通过模式背景协议(MCP)将 DaVinci 解析工作室连接到 Claude AI <sub>⭐ 372 · Python</sub>
+- [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - 从AI工具到TikTok视频创建,使用FAMPEG,微软Edge读取高音和OpenAI Whisper模式 <sub>⭐ 341 · Python</sub>
+- [Alexwtlf/agentic-product-demo](https://github.com/Alexwtlf/agentic-product-demo) - 以 AI 编码代理和 Remotion 创建抛光产品演示视频。 UI 是代码,而不是屏幕记录 。 <sub>⭐ 326 · TypeScript</sub>
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - 由您的AI代理制作的解释视频和产品演示. Free and open source:一个本地语音(Kokoro),一个字段计时(Whisper)和一个画布渲染器将一个脚本变成一个被描述的MP4. <sub>⭐ 316 · JavaScript</sub>
+- [ariym/whisper-node](https://github.com/ariym/whisper-node) - 对 OpenAI 的Whisper 绑定 Node.js (C++ CPU 版本由 gerganov 编写) <sub>⭐ 307 · TypeScript</sub>
+- [Bomx/super-video-maker-skill](https://github.com/Bomx/super-video-maker-skill) - AI 代理制作的视频技能: HeyGen avatars,种子b-roll,OpenAI图像,Remotion,HyperFrames,屏幕录制,FFmpeg字幕和QC. <sub>⭐ 296 · Python</sub>
+- [diffusionstudio/agent](https://github.com/diffusionstudio/agent) - 代理视频编辑框架 <sub>⭐ 293 · Python</sub>
+- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) - 视频丛林的 MCP 界面 <sub>⭐ 290 · Python</sub>
+- [RyanChenYN/JAVEdit](https://github.com/RyanChenYN/JAVEdit) - JAVedit: 联合视听指导- 引导视频编辑与代理数据校验 <sub>⭐ 273 · Python</sub>
+- [lmk123568/PyVideoProc](https://github.com/lmk123568/PyVideoProc) - 与 CUDA 在 Python 进行高性能多层视频处理 <sub>⭐ 243 · C++</sub>
+- [yeates/Aurora](https://github.com/yeates/Aurora) - (NeurIPS 2026) Aurora: 使用工具使用代理软件的统一视频编辑 <sub>⭐ 243 · Python</sub>
 - [Akascape/Rembg-Fuse](https://github.com/Akascape/Rembg-Fuse) - 在DaVinci Conclusion Fusion中自动删除背景的自由和开源AI插件. <sub>⭐ 220 · Python</sub>
-- [kevinbadi/hyperedit](https://github.com/kevinbadi/hyperedit) - AI-powered video editor with FFMPEG, Remotion, & Obsidian Agents Baked in - POWERED BY JEV <sub>⭐ 207 · TypeScript</sub>
-- [divyaprakash0426/autoshorts](https://github.com/divyaprakash0426/autoshorts) - Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers. <sub>⭐ 204 · Python</sub>
-- [zhouwg/kantv](https://github.com/zhouwg/kantv) - workbench for learning and practicing on-device AI technologies under real-world scenarios on Android smartphones with online TV. powered by llama.cpp + whisper.cpp + FFmpeg + opencv-mobile <sub>⭐ 201 · Java</sub>
-- [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI. <sub>⭐ 194 · Rust</sub>
-- [Specy/Scapix](https://github.com/Specy/Scapix) - An image upscaling and denoiser app <sub>⭐ 190 · TypeScript</sub>
-- [ChetanXpro/short-video-automation](https://github.com/ChetanXpro/short-video-automation) - AI short content automation tool, which can generate short videos for youtube and instagram <sub>⭐ 183 · TypeScript</sub>
-- [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - Frontier AI video generation for coding agents - Seedance, Runway, Veo, Kling on your own keys, behind a hard cost cap. CLI + MCP. <sub>⭐ 172 · TypeScript</sub>
-- [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool. <sub>⭐ 160 · C++</sub>
-- [pifferologo/ai-agent-video-editor](https://github.com/pifferologo/ai-agent-video-editor) - ai agent video editor use with ElevenLabs Scribe, pack phrase-level transcripts, reason over an EDL, render with ffmpeg, video editor ai agent <sub>⭐ 153 · TypeScript</sub>
-- [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts) - Scripts to help you set up your Ubuntu quickly, especially if you're in any subfield of Data Science or AI! <sub>⭐ 142 · Shell</sub>
-- [avabbbb/Iris](https://github.com/avabbbb/Iris) - Open-source agent-native visual production workspace where humans and coding agents edit the same live canvas — local-first, BYOK image/video models. <sub>⭐ 139 · TypeScript</sub>
-- [viddotech/videoalchemy](https://github.com/viddotech/videoalchemy) - VideoAlchemy is a toolkit expanding video processing capabilities, emphasizing FFmpeg and broader video technology applications. <sub>⭐ 139 · Go</sub>
-- [d-k-patel/ai-ffmpeg-cli](https://github.com/d-k-patel/ai-ffmpeg-cli) - AI-powered CLI that translates natural language into safe, reviewable ffmpeg commands. <sub>⭐ 135 · Python</sub>
-- [SnowLeopard-Elysia/SnowLeopard-Vision](https://github.com/SnowLeopard-Elysia/SnowLeopard-Vision) - SnowLeopard Vision - local AI image and video enhancement tool <sub>⭐ 134 · HTML</sub>
-- [zihanyang-dev/onmark](https://github.com/zihanyang-dev/onmark) - Write the film. Own every frame. <sub>⭐ 126 · Rust</sub>
-- [openclaw-easy/ViralMint](https://github.com/openclaw-easy/ViralMint) - Open-source video pipeline (clipper, AI video & more) — scout trends, clip long videos, generate captioned shorts, design motion graphics. Local-first, BYOK. AGPL-3.0. <sub>⭐ 120 · Python</sub>
-- [EutropicAI/FinalRip](https://github.com/EutropicAI/FinalRip) - a distributed AI video processing tool <sub>⭐ 119 · Go</sub>
-- [hanyeol/model-compose](https://github.com/hanyeol/model-compose) - Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Compose 100+ components for models, agents, speech, vision, and live broadcast. Run… <sub>⭐ 117 · Python</sub>
-- [tahzeeb031/harmonize-ffmpeg-pipeline](https://github.com/tahzeeb031/harmonize-ffmpeg-pipeline) - Self-Hosted 24/7 Media Hub with AI Playlist Curation & Smart Transcoding 2026 <sub>⭐ 117 · HTML</sub>
-- [Monet-AI-Editor/Monet](https://github.com/Monet-AI-Editor/Monet) - Edit Videos and Design Images with Claude code or Codex <sub>⭐ 116 · TypeScript</sub>
-- [rudi-q/glucose_media_player](https://github.com/rudi-q/glucose_media_player) - A Full-Featured, Powerful & Ultra-lightweight, video player for Windows with on-device AI powered subtitle generation. Tauri + Svelte <sub>⭐ 115 · Svelte</sub>
-- [thykhcv/lumina-refractions](https://github.com/thykhcv/lumina-refractions) - Top Lumina AI Tools & Scripts for 2026 Performance <sub>⭐ 115 · HTML</sub>
-- [hiteshK03/davinci-resolve-mcp](https://github.com/hiteshK03/davinci-resolve-mcp) - Control DaVinci Resolve from AI assistants (Cursor, Claude) via MCP. Full read + write bridge with 44 tools and local Whisper transcription. <sub>⭐ 114 · Python</sub>
-- [WANGLEVY9/VidForge](https://github.com/WANGLEVY9/VidForge) - Open-source AI pipeline for short-form commerce videos: multimodal analysis, RAG scripts, multi-agent orchestration, FFmpeg composition, and cost tracing. <sub>⭐ 114 · TypeScript</sub>
-- [ayushozha/AdobePremiereProMCP](https://github.com/ayushozha/AdobePremiereProMCP) - An open-source bridge between AI assistants and Adobe Premiere Pro, for supported editing workflows. Go, Rust, Python, and TypeScript. <sub>⭐ 112 · Go</sub>
-- [MediaMolder/mediamolder](https://github.com/MediaMolder/mediamolder) - A redesign of FFmpeg for the AI era. React GUI. Custom AI integrations including YOLOv8 object and face detection, Whisper, Vidi2.5. <sub>⭐ 110 · Go</sub>
-- [mirage-hq/Tesseract](https://github.com/mirage-hq/Tesseract) - Tesseract by Mirage — CLI releases and agent skills for creating and editing videos. <sub>⭐ 109 · Python</sub>
-- [krakonjac300-pixel/podcast-shorts-factory](https://github.com/krakonjac300-pixel/podcast-shorts-factory) - Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers. <sub>⭐ 108 · Python</sub>
-- [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command <sub>⭐ 107 · TypeScript</sub>
-- [aedev-tools/adobe-agent-skills](https://github.com/aedev-tools/adobe-agent-skills) - AI agent skills for Adobe After Effects automation — describe what you want, and we'll generate and execute the code. <sub>⭐ 104 · JavaScript</sub>
-- [feyzilim/clipfactory](https://github.com/feyzilim/clipfactory) - Topic + template → short vertical video from your own B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI shot lists, AI B-roll, batch generation. Source-available… <sub>⭐ 103 · Python</sub>
-- [igolaizola/vidai](https://github.com/igolaizola/vidai) - RunwayML Gen2 and Gen3 unofficial client to generate videos using AI <sub>⭐ 97 · Go</sub>
-- [Gaurox/FrameShift](https://github.com/Gaurox/FrameShift) - Offline media processing utility powered by FFmpeg, local AI, and fast right-click workflows. <sub>⭐ 93 · C#</sub>
-- [misbahsy/video-audio-mcp](https://github.com/misbahsy/video-audio-mcp) - An FFMPEG powered MCP server for basic Video and Audio editing <sub>⭐ 87 · Python</sub>
-- [Mar2ck/DAIN-Vulkan-GUI](https://github.com/Mar2ck/DAIN-Vulkan-GUI) - AI-Powered video interpolater (eg. 30fps -> 60fps) for Vulkan devices. Based on dain-ncnn-vulkan and ffmpeg <sub>⭐ 84 · Python</sub>
+- [kevinbadi/hyperedit](https://github.com/kevinbadi/hyperedit) - 由AFRAPEG、Remotion、和 Obsidian Agents使用 AI 驱动的视频编辑器 <sub>⭐ 207 · TypeScript</sub>
+- [divyaprakash0426/autoshorts](https://github.com/divyaprakash0426/autoshorts) - 利用AI动力场景分析,GPU加速渲染,以及可选的AI语音功能,从长形游戏剧情片段自动生成病毒准备的垂直短片段. <sub>⭐ 204 · Python</sub>
+- [zhouwg/kantv](https://github.com/zhouwg/kantv) - 工作台用于在Android智能手机上使用在线电视的现实世界情景下学习和练习在线设备的AI技术. 由ellam.cpp + whisper.cpp + FFmpeg + opencv-mobile提供动力. <sub>⭐ 201 · Java</sub>
+- [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi(AI ),是使用AI制作视频的字幕制作者. <sub>⭐ 194 · Rust</sub>
+- [Specy/Scapix](https://github.com/Specy/Scapix) - 图像的提升和渲染 <sub>⭐ 190 · TypeScript</sub>
+- [ChetanXpro/short-video-automation](https://github.com/ChetanXpro/short-video-automation) - AI短内容自动化工具,可以生成Youtube和Instagram的短视频 <sub>⭐ 183 · TypeScript</sub>
+- [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - 编码代理的前沿AI视频生成 - 种子,跑道,Veo,Kling在自己的密钥上,在硬成本上限后. CLI + MCP. <sub>⭐ 172 · TypeScript</sub>
+- [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI(frame-gooey)是一个自由的,跨平台的,非常容易使用以AI滤镜为主的编码工具,基于更为全面的EncodeGUI编码工具. <sub>⭐ 160 · C++</sub>
+- [pifferologo/ai-agent-video-editor](https://github.com/pifferologo/ai-agent-video-editor) - ii 代理视频编辑器使用 EarthLabs Scribe, 装入词组级别记录誊本, EDL 上的理由, 与 ffmpeg 一起渲染, 视频编辑 Ai 代理 <sub>⭐ 153 · TypeScript</sub>
+- [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts) - 脚本可以帮助你迅速设置你的Ubuntu,特别是如果你在数据科学或AI的任何子领域! <sub>⭐ 142 · Shell</sub>
+- [avabbbb/Iris](https://github.com/avabbbb/Iris) - 开源代理-内生视觉制作工作空间,人类和编码代理编辑相同的活画布——本地第一,BYOK图像/视频模型. <sub>⭐ 139 · TypeScript</sub>
+- [viddotech/videoalchemy](https://github.com/viddotech/videoalchemy) - VideoAlchemy是一个扩展视频处理能力的工具包,强调FFmpeg和更广泛的视频技术应用. <sub>⭐ 139 · Go</sub>
+- [d-k-patel/ai-ffmpeg-cli](https://github.com/d-k-patel/ai-ffmpeg-cli) - 将自然语言翻译为安全,可审查的ffmpeg命令的AI-power CLI. <sub>⭐ 135 · Python</sub>
+- [SnowLeopard-Elysia/SnowLeopard-Vision](https://github.com/SnowLeopard-Elysia/SnowLeopard-Vision) - SnowLeopard Vision - 本地AI图像和视频增强工具 <sub>⭐ 134 · HTML</sub>
+- [zihanyang-dev/onmark](https://github.com/zihanyang-dev/onmark) - 写电影,每个镜头都有 <sub>⭐ 126 · Rust</sub>
+- [openclaw-easy/ViralMint](https://github.com/openclaw-easy/ViralMint) - 开源视频管道(clipper,AI video & more)——侦察趋势,剪辑长视频,生成字幕短片,设计动作图形. Local-First, BYOK. AGPL-3.0. <sub>⭐ 120 · Python</sub>
+- [EutropicAI/FinalRip](https://github.com/EutropicAI/FinalRip) - 分布式AI视频处理工具 <sub>⭐ 119 · Go</sub>
+- [hanyeol/model-compose](https://github.com/hanyeol/model-compose) - 在一个 YAML 文件内声明 AI 管道。 磁盘、 音频块和视频帧在孤立组件之间流动。 为模型、 代理、 语音、 视觉和直播编译 100+ 组件。 运行... <sub>⭐ 117 · Python</sub>
+- [tahzeeb031/harmonize-ffmpeg-pipeline](https://github.com/tahzeeb031/harmonize-ffmpeg-pipeline) - 自控24/7媒体枢纽 AI播放列表 Curation & Smart Transcoding 2026 <sub>⭐ 117 · HTML</sub>
+- [Monet-AI-Editor/Monet](https://github.com/Monet-AI-Editor/Monet) - 使用 Claude 代码或代码编辑视频和设计图像 <sub>⭐ 116 · TypeScript</sub>
+- [rudi-q/glucose_media_player](https://github.com/rudi-q/glucose_media_player) - 一个全Featured, Powerful & Ultra-lightwighty, Windows 的视频播放器, 并配有 addevice AI 的动力字幕生成. Tauri + Svelte <sub>⭐ 115 · Svelte</sub>
+- [thykhcv/lumina-refractions](https://github.com/thykhcv/lumina-refractions) - Top Lumina AI 工具与脚本用于2026年性能 <sub>⭐ 115 · HTML</sub>
+- [hiteshK03/davinci-resolve-mcp](https://github.com/hiteshK03/davinci-resolve-mcp) - 通过MCP控制DaVinci解析从AI助手(Cursor, Claude)中解析. 全读+写桥,配有44个工具和本地Whisper转录. <sub>⭐ 114 · Python</sub>
+- [WANGLEVY9/VidForge](https://github.com/WANGLEVY9/VidForge) - 短式商业视频的开源AI管道:多式联运分析,RAG脚本,多代理管弦乐,FFmpeg组成,以及成本追踪. <sub>⭐ 114 · TypeScript</sub>
+- [ayushozha/AdobePremiereProMCP](https://github.com/ayushozha/AdobePremiereProMCP) - AI助手和Adobe Primatee Pro之间的开源桥,用于支持的编辑工作流程. Go, Rust, Python, and TypeScript. <sub>⭐ 112 · Go</sub>
+- [MediaMolder/mediamolder](https://github.com/MediaMolder/mediamolder) - 为AI时代重新设计FFmpeg. React GUI. Custom AI集成包括YOLOv8对象和面部检测,Whisper,Vidi2.5. <sub>⭐ 110 · Go</sub>
+- [mirage-hq/Tesseract](https://github.com/mirage-hq/Tesseract) - 由幻影公司制作的魔方——CLI发行和代理技能,用于制作和编辑视频. <sub>⭐ 109 · Python</sub>
+- [krakonjac300-pixel/podcast-shorts-factory](https://github.com/krakonjac300-pixel/podcast-shorts-factory) - 十个合作AI代理将长播客自动变成短式视频. 自由开放源码在免费AI供应商上运行. <sub>⭐ 108 · Python</sub>
+- [Soutar97/instagui](https://github.com/Soutar97/instagui) - 将任意 CLI 转换为带有一个命令的 Web GUI <sub>⭐ 107 · TypeScript</sub>
+- [aedev-tools/adobe-agent-skills](https://github.com/aedev-tools/adobe-agent-skills) - Adobe After Effects自动化的AI代理技能——描述你想要什么,我们将生成并执行代码. <sub>⭐ 104 · JavaScript</sub>
+- [feyzilim/clipfactory](https://github.com/feyzilim/clipfactory) - 主题+模板 → 从您自己的 B roll 中短长的垂直视频: AI 脚本,语音,场景计划,字幕,FFmpeg 渲染. 多人称, AI 镜头列表, AI B roll, 批量生成。 源码可用... <sub>⭐ 103 · Python</sub>
+- [igolaizola/vidai](https://github.com/igolaizola/vidai) - RunwayML Gen2和Gen3 非官方客户端使用AI生成视频 <sub>⭐ 97 · Go</sub>
+- [Gaurox/FrameShift](https://github.com/Gaurox/FrameShift) - 离线媒体处理工具由FFmpeg,本地AI提供动力,并快速右键点击工作流程. <sub>⭐ 93 · C#</sub>
+- [misbahsy/video-audio-mcp](https://github.com/misbahsy/video-audio-mcp) - 用于基本视频和音频编辑的FAMPEG为MCP服务器提供动力 <sub>⭐ 87 · Python</sub>
+- [Mar2ck/DAIN-Vulkan-GUI](https://github.com/Mar2ck/DAIN-Vulkan-GUI) - 用于 Vulkan 设备的 AI- Powered video interpolater( 如 30fps - > 60fps) 。 基于 dain- ncnn- vulkan 和 ffmpeg <sub>⭐ 84 · Python</sub>
 
 ---
 [⬆️ 返回顶部](#️-视频剪辑师-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

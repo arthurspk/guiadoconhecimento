@@ -20,1026 +20,1026 @@
 
 > 智能辅导和基于模型的教学平台。
 
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. <sub>⭐ 38.9k · TypeScript</sub>
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation… <sub>⭐ 38.2k · Python</sub>
-- [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. <sub>⭐ 29.6k</sub>
-- [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals. <sub>⭐ 14.1k · HTML</sub>
-- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced… <sub>⭐ 5.4k · C++</sub>
-- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more. <sub>⭐ 4.5k</sub>
-- [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource. <sub>⭐ 4.4k · Python</sub>
-- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act conformity evidence, model validation, predictive maintenance, document… <sub>⭐ 4.0k · Python</sub>
-- [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops <sub>⭐ 2.9k · Jupyter Notebook</sub>
-- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses… <sub>⭐ 2.8k · Jupyter Notebook</sub>
-- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor. <sub>⭐ 2.5k · Jupyter Notebook</sub>
-- [penecho/penecho](https://github.com/penecho/penecho) - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning. <sub>⭐ 2.4k · JavaScript</sub>
-- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone <sub>⭐ 2.3k · Python</sub>
-- [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1 <sub>⭐ 2.1k · TypeScript</sub>
-- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts. <sub>⭐ 2.0k · TypeScript</sub>
-- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience) <sub>⭐ 1.7k · Python</sub>
-- [DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) - ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents. Adapts tone, vocabulary, and analogies to match the audience. <sub>⭐ 1.6k · Python</sub>
-- [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) - A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services. <sub>⭐ 1.4k · C++</sub>
-- [HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor) - ChatTutor: Visual and Interactive AI Tutor <sub>⭐ 1.3k · Vue</sub>
-- [mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe) - Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives. <sub>⭐ 1.1k · Shell</sub>
-- [towardsai/tutorials](https://github.com/towardsai/tutorials) - AI-related tutorials. Access any of them for free → https://towardsai.net/editorial <sub>⭐ 1.0k · Jupyter Notebook</sub>
-- [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. <sub>⭐ 961 · JavaScript</sub>
-- [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - AI tutor powered by Theory-of-Mind reasoning <sub>⭐ 932 · TypeScript</sub>
-- [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - The open-source curriculum of Enki! <sub>⭐ 831</sub>
-- [GarethManning/education-agent-skills](https://github.com/GarethManning/education-agent-skills) - 165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum, assessment and regeneration. Claude, Codex and Hermes. <sub>⭐ 820 · TypeScript</sub>
-- [maelfabien/Machine_Learning_Tutorials](https://github.com/maelfabien/Machine_Learning_Tutorials) - Code, exercises and tutorials of my personal blog ! <sub>⭐ 791 · Jupyter Notebook</sub>
-- [RoseCityRobotics/ai-developer-resources](https://github.com/RoseCityRobotics/ai-developer-resources) - I am Duncan, a cofounder at Rose City Robotics. This public repository is used as an easy to update list of resources for AI developers including technical courses, books, and tutorials on artificial… <sub>⭐ 764</sub>
-- [aaryansamanta/ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) - High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and… <sub>⭐ 669 · HTML</sub>
-- [i-am-manware/Manware-s-AI-Learning-Toolkit](https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit) - An AI toolkit that turns agents into teachers rather than code yapping machines <sub>⭐ 664</sub>
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations: community-driven projects to learn how to run AI, ML, and other emerging workloads more efficiently and cost-effectively… <sub>⭐ 651 · Python</sub>
-- [beihaili/Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) - Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP <sub>⭐ 614 · JavaScript</sub>
-- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - A conversational, AI device + software framework for companionship, entertainment, education, healthcare, IoT applications, and DIY robotics. Built with Python, NextJS, Arduino, ESP32, LLMs (GPT-4o)… <sub>⭐ 549 · TypeScript</sub>
-- [buynao/aipath](https://github.com/buynao/aipath) - Interactive AI General Education Course — 30 Lessons, Zero Math <sub>⭐ 513 · JavaScript</sub>
-- [aaryansamanta/ai-ethos](https://github.com/aaryansamanta/ai-ethos) - 501(c)(3) nonprofit delivering ethical, inclusive, multilingual AI tutoring for underserved learners — low-income, rural, multilingual & neurodiverse students. 1,500+ students reached across 7… <sub>⭐ 499 · PHP</sub>
-- [mehmetkahya0/AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains. <sub>⭐ 491 · Shell</sub>
-- [ckaestne/seai](https://github.com/ckaestne/seai) - CMU Lecture: Machine Learning In Production / AI Engineering / Software Engineering for AI-Enabled Systems (SE4AI) <sub>⭐ 454 · Jupyter Notebook</sub>
-- [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications… <sub>⭐ 452 · C++</sub>
-- [omnitool-ai/omnitool](https://github.com/omnitool-ai/omnitool) - Official Omnitool repository <sub>⭐ 450 · TypeScript</sub>
-- [riiid/ednet](https://github.com/riiid/ednet) - EdNet is the dataset of all student-system interactions collected over 2 years by Santa, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web. <sub>⭐ 384</sub>
-- [hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) - AI-powered learning coach with spaced repetition with Claude Code - master any knowledge faster with personalized syllabi and progress tracking <sub>⭐ 380 · Python</sub>
-- [DharminJoshi/Final-Year-Project-Ideas-2025](https://github.com/DharminJoshi/Final-Year-Project-Ideas-2025) - A curated list of 100 innovative and impactful project ideas for final-year students, covering AI, sustainability, health, education, and more—designed to inspire creativity and real-world… <sub>⭐ 367</sub>
-- [minicoohei/ai-agent-camp](https://github.com/minicoohei/ai-agent-camp) - AI Agent Camp — non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex. <sub>⭐ 347 · Python</sub>
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) - Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more. <sub>⭐ 347 · Python</sub>
-- [canyongbs/advisingapp](https://github.com/canyongbs/advisingapp) - Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student… <sub>⭐ 339 · PHP</sub>
-- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - Any source (PDF, video, web, audio, text) to interactive learning package with quizzes, flashcards and spaced repetition. One command, 12-section study guide. <sub>⭐ 336 · Python</sub>
-- [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7. <sub>⭐ 333 · TypeScript</sub>
-- [Paperspace/DinoRunTutorial](https://github.com/Paperspace/DinoRunTutorial) - Accompanying code for Paperspace tutorial "Build an AI to play Dino Run" <sub>⭐ 326 · Jupyter Notebook</sub>
-- [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) - Get AI to teach and answer questions for you - just by typing! <sub>⭐ 323 · Python</sub>
-- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - Create and edit AI video tutorials with illustrated lessons, expressive presenters, distinct voices, and a native timeline. Windows desktop app with local models and cloud providers. <sub>⭐ 313 · Python</sub>
-- [Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero) - This repository provides a comprehensive step-by-step guide to building AI projects using the Raspberry Pi AI Kit. <sub>⭐ 312 · Jupyter Notebook</sub>
-- [aicademyorg/AIcademy](https://github.com/aicademyorg/AIcademy) - A friendly community offering free AI education. <sub>⭐ 308 · TypeScript</sub>
-- [DanielPodolsky/ownyourcode](https://github.com/DanielPodolsky/ownyourcode) - Claude Code workflow for AI-mentored development. Work efficiently with Spec-Driven Development and the 6 Gates. Built to fight cognitive offloading — for developers using AI to grow and maintain… <sub>⭐ 290 · Shell</sub>
-- [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) - Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill + self-hostable web app · 中文优先 苏格拉底式… <sub>⭐ 279 · JavaScript</sub>
-- [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference. <sub>⭐ 276 · Jupyter Notebook</sub>
-- [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) - Git repository for Robocode Tank Royale <sub>⭐ 268 · Kotlin</sub>
-- [CAHLR/OATutor](https://github.com/CAHLR/OATutor) - Open Source Intelligent Tutoring System w/ BKT (ReactJS and Firebase) <sub>⭐ 264 · JavaScript</sub>
-- [ATOM00blue/machine-learning-library](https://github.com/ATOM00blue/machine-learning-library) - Custom APRL machine-learning algorithm + a curated ML knowledge base of 923 papers, lectures, and explainers. NumPy classifier/regressor, tests, benchmarks, provenance, Obsidian, and agent-ready… <sub>⭐ 254 · Python</sub>
-- [kabartay/openunivcourses](https://github.com/kabartay/openunivcourses) - FREE ML Courses from Top Universities <sub>⭐ 253 · HTML</sub>
-- [ai-infra-curriculum/ai-infra-junior-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) - AI Infrastructure Junior Engineer Learning Track - Comprehensive curriculum for entry-level ML infrastructure engineers (0-2 years experience) <sub>⭐ 245 · Python</sub>
-- [dair-ai/dair-ai.github.io](https://github.com/dair-ai/dair-ai.github.io) - Home of DAIR.AI <sub>⭐ 244 · HTML</sub>
-- [towardsai/ai-tutor-rag-system](https://github.com/towardsai/ai-tutor-rag-system) - This is a repository for the course "From Beginner to LLM Developer" by Towards AI. <sub>⭐ 241 · Jupyter Notebook</sub>
-- [SenmuuuuW/universal-diagnostic-tutor-skill](https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill) - One diagnosis-first AI tutor for STEM, AI/CS, and beyond — no mode or command menu. It decides the next useful teaching step, checks understanding, and builds mastery. <sub>⭐ 235</sub>
-- [int64ago/vistep](https://github.com/int64ago/vistep) - Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration. <sub>⭐ 234 · TypeScript</sub>
-- [BelieveDiffusion/tutorials](https://github.com/BelieveDiffusion/tutorials) - A collection of tutorials about training and generating with Stable Diffusion. <sub>⭐ 231</sub>
-- [walkinglabs/modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook) - A hands-on course on modern LLM architectures, training, and inference, with step-by-step PyTorch implementations and runnable notebooks. <sub>⭐ 224 · Jupyter Notebook</sub>
-- [Berserk-hub150/moodle-ai-skill-navigator](https://github.com/Berserk-hub150/moodle-ai-skill-navigator) - AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more. <sub>⭐ 222 · PHP</sub>
-- [GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) - Awesome artificial intelligence (AI) and large language model (LLM) for education papers. <sub>⭐ 220 · Jupyter Notebook</sub>
-- [NiluK/worldmodels101](https://github.com/NiluK/worldmodels101) - Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes. <sub>⭐ 206 · TypeScript</sub>
-- [rsrohan99/rag-stream-intermediate-events-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - Tutorial on how to properly send intermediate LlamaIndex events to vercel ai sdk via server-sent events during RAG. <sub>⭐ 195 · TypeScript</sub>
-- [shakedzy/companion](https://github.com/shakedzy/companion) - Generative-AI-Powered Foreign-Language Private Tutor <sub>⭐ 194 · Python</sub>
-- [jellyfangs/messenger-bot-witai-tutorial](https://github.com/jellyfangs/messenger-bot-witai-tutorial) - Jack up your chat bot using Wit.ai in 30 minutes! <sub>⭐ 193 · JavaScript</sub>
-- [TirendazAcademy/PandasAI-Tutorials](https://github.com/TirendazAcademy/PandasAI-Tutorials) - Tutorials for PandasAI <sub>⭐ 193 · Jupyter Notebook</sub>
-- [MatrixAINetwork/MATRIX_Tutorials](https://github.com/MatrixAINetwork/MATRIX_Tutorials) - Valuable Learning Materials on Blockchain Dev (including Fabric and Ethereum), python imlementation of blockchain_go, AI, deep learning, as well as CN version of "The Way to Go" <sub>⭐ 192 · Go</sub>
-- [read2017/learn-anything-with-AI](https://github.com/read2017/learn-anything-with-AI) - A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and authoritative sources. <sub>⭐ 188 · Python</sub>
-- [amitshekhariitbhu/ai-agents-tutorial](https://github.com/amitshekhariitbhu/ai-agents-tutorial) - Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation. <sub>⭐ 186</sub>
-- [FilippoMB/Diffusion_models_tutorial](https://github.com/FilippoMB/Diffusion_models_tutorial) - Collection of tutorials on diffusion models, step-by-step implementation guide, scripts for generating images with AI, prompt engineering guide, and resources for further learning. <sub>⭐ 186 · Jupyter Notebook</sub>
-- [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) - Turn lecture slides into flashcards and export them to Anki. Uses GPT-5 by OpenAI. AnkiGPT already generated 3,430,876 flashcards. <sub>⭐ 184 · Dart</sub>
-- [Tebs-Lab/intro-to-deep-learning](https://github.com/Tebs-Lab/intro-to-deep-learning) - A collection of materials to help you learn about deep learning <sub>⭐ 184 · Jupyter Notebook</sub>
-- [PreferredAI/tutorials](https://github.com/PreferredAI/tutorials) - A tutorial series by Preferred.AI <sub>⭐ 183 · Jupyter Notebook</sub>
-- [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) - A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools. <sub>⭐ 178 · TypeScript</sub>
-- [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI. <sub>⭐ 175 · TypeScript</sub>
-- [qingsongedu/awesome-AI-tutorials-surveys](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) - A professional list of Tutorials and Surveys on DL, ML, DM, CV, NLP, Speech in top AI conferences and journals. <sub>⭐ 169</sub>
-- [DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals. <sub>⭐ 168</sub>
-- [dcavar/python-tutorial-notebooks](https://github.com/dcavar/python-tutorial-notebooks) - Python tutorials as Jupyter Notebooks for NLP, ML, AI <sub>⭐ 166 · Jupyter Notebook</sub>
-- [flo7up/relataly-public-python-tutorials](https://github.com/flo7up/relataly-public-python-tutorials) - Popular collection of practical Python notebooks for machine learning, deep learning, time series, generative AI, and analytics. <sub>⭐ 162 · Jupyter Notebook</sub>
-- [artnitolog/awesome-agent-learning](https://github.com/artnitolog/awesome-agent-learning) - Guides, courses & reading lists for learning to build autonomous LLM agents <sub>⭐ 160</sub>
-- [steveyeow/Feynman](https://github.com/steveyeow/Feynman) - Read books the way Feynman did — along with a continuously evolving network of agent-simulated great minds <sub>⭐ 160 · Python</sub>
-- [learning-commons-org/knowledge-graph](https://github.com/learning-commons-org/knowledge-graph) - The data layer for smarter educational AI. Integrate trusted instructional content and research directly into your AI-powered tools — improving precision, relevance, and instructional alignment. <sub>⭐ 157 · Python</sub>
-- [aieducations/edumcp](https://github.com/aieducations/edumcp) - EDUMCP is a protocol that integrates the Model Context Protocol (MCP) with applications in the education field, dedicated to achieving seamless interconnection and interoperability among different AI… <sub>⭐ 156 · Python</sub>
-- [zoonk/zoonk](https://github.com/zoonk/zoonk) - Turn any topic into clear, structured lessons <sub>⭐ 156 · TypeScript</sub>
-- [abdallah-ali-abdallah/pydantic-ai-agents-tutorial](https://github.com/abdallah-ali-abdallah/pydantic-ai-agents-tutorial) - Learn Pydantic AI agents, step by step, using local models and ollama <sub>⭐ 151 · Python</sub>
-- [artcc/freelingo](https://github.com/artcc/freelingo) - Open-source, self-hosted AI language learning platform with local or cloud LLMs, CEFR study plans, an AI tutor, voice conversations, flashcards, and spaced repetition. <sub>⭐ 151 · JavaScript</sub>
-- [adrianhajdin/react-native-lingua](https://github.com/adrianhajdin/react-native-lingua) - React Native Duolingo clone with a real-time AI voice teacher. Built with Expo, Stream Voice Agents, Clerk auth, and NativeWind for a complete, interactive mobile learning experience. <sub>⭐ 150 · TypeScript</sub>
-- [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) - Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writing Styles, 9 Text Purposes, 13 Tone Presets, multi-pass… <sub>⭐ 148 · TypeScript</sub>
-- [chipmates/agoracosmica](https://github.com/chipmates/agoracosmica) - A Living Library You Can Talk To. Thirty historical figures, their lives narrated, their ideas open to conversation, in English and German. Nonprofit, open source. <sub>⭐ 145 · TypeScript</sub>
-- [daveebbelaar/pydantic-ai-tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) - Learn how to build AI agents with PydanticAI <sub>⭐ 142 · Python</sub>
-- [IDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation](https://github.com/IDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) - A simple ChatGPT AI tutorial on how to generate images/text/code and its limitations <sub>⭐ 142 · Python</sub>
-- [yuxino/satori](https://github.com/yuxino/satori) - AI PDF reader for macOS and Windows: ask about pages, diagrams and code, with local reading history. AI PDF 阅读器与教材问答。 <sub>⭐ 140 · TypeScript</sub>
-- [opena2a-org/damn-vulnerable-ai-agent](https://github.com/opena2a-org/damn-vulnerable-ai-agent) - Damn Vulnerable AI Agent is a deliberately vulnerable AI agent platform for security testing and education. <sub>⭐ 139 · JavaScript</sub>
-- [serenakeyitan/open-exam-skills](https://github.com/serenakeyitan/open-exam-skills) - A high-quality collection of study skills built for high school and college students, teachers, and TAs. Use it directly in Kael.im for free without installing skills <sub>⭐ 139 · Python</sub>
-- [GetStream/stream-tutorial-projects](https://github.com/GetStream/stream-tutorial-projects) - This repo contains SwiftUI, Jetpack Compose, JS & React Native projects for some of the iOS, Android , and AI tutorial series in the Stream Developers YouTube channel… <sub>⭐ 134 · Swift</sub>
-- [h2oai/tutorials](https://github.com/h2oai/tutorials) - This is a repo for all the tutorials put out by H2O.ai. This includes learning paths for Driverless AI, H2O-3, Sparkling Water and more... <sub>⭐ 134 · Jupyter Notebook</sub>
-- [luxonis/ai-tutorials](https://github.com/luxonis/ai-tutorials) - Some Example Neural Models that we've trained along with the training scripts <sub>⭐ 132 · Jupyter Notebook</sub>
-- [GeminiLight/gen-mentor](https://github.com/GeminiLight/gen-mentor) - (WWW '25 Oral - GenMentor) Official code of our paper "LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System", accepted by WWW 2025 (Industry Track) as an Oral… <sub>⭐ 128 · TypeScript</sub>
-- [zijinz456/OpenTutor](https://github.com/zijinz456/OpenTutor) - The first block-based adaptive learning workspace that runs locally. Upload any material → get AI-generated notes, quizzes, flashcards, and an adaptive tutor. Open source, self-hosted, 10+ LLM… <sub>⭐ 128 · Python</sub>
-- [Happy-Chen-CH/Educational_RAG_System](https://github.com/Happy-Chen-CH/Educational_RAG_System) - End-to-end educational RAG system: dual-engine retrieval (BM25 + BGE-M3 hybrid vector search), adaptive query strategies (HyDE/sub-query/backtracking), BERT intent classification, BGE-Reranker… <sub>⭐ 127 · Python</sub>
-- [nileshhadalgi016/Awesome-ML-AI-Tutorial](https://github.com/nileshhadalgi016/Awesome-ML-AI-Tutorial) - A comprehensive mathematics tutorial for Machine Learning and AI <sub>⭐ 126 · Jupyter Notebook</sub>
-- [shigella520/MindTrain](https://github.com/shigella520/MindTrain) - AI-driven knowledge training platform with pluggable schedulers, Codex Skill integration, and optional Anki/FSRS support. <sub>⭐ 125 · Java</sub>
-- [FrancoisPorcher/awesome-ai-tutorials](https://github.com/FrancoisPorcher/awesome-ai-tutorials) - The best collection of AI tutorials to make you a boss of Data Science! <sub>⭐ 124 · Python</sub>
-- [pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) - Skills for AI agents to process presentations - helpful for teachers and speakers. <sub>⭐ 124 · Python</sub>
-- [webworn/openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) - LLM-powered OpenFOAM MCP server for intelligent CFD education with Socratic questioning and expert error resolution <sub>⭐ 121 · C++</sub>
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources) - Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts. <sub>⭐ 119</sub>
-- [Frisher1/ClaudeCode-Workflow-Lab](https://github.com/Frisher1/ClaudeCode-Workflow-Lab) - Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops <sub>⭐ 117 · HTML</sub>
-- [anandpatikat/guru-latihan-dinamis](https://github.com/anandpatikat/guru-latihan-dinamis) - Revolutionizing Indonesian Exam Prep: AI Teacher Tools 2026 <sub>⭐ 116 · HTML</sub>
-- [jakeprins/nextjs-chatgpt-tutorial](https://github.com/jakeprins/nextjs-chatgpt-tutorial) - Build your own ChatGPT application with Next.js, TypeScript, and TailwindCSS. <sub>⭐ 115 · TypeScript</sub>
-- [ARYPROGRAMMER/Video-Generator-AI](https://github.com/ARYPROGRAMMER/Video-Generator-AI) - This Next.js application generates videos based on client-provided queries. It is designed as a SaaS platform, allowing users to easily create engaging video content for various purposes such as… <sub>⭐ 111 · JavaScript</sub>
-- [MinaPecheux/UnityTutorials-BehaviourTrees](https://github.com/MinaPecheux/UnityTutorials-BehaviourTrees) - The code for a short tutorial on how to create a simple guard AI using behaviour trees in Unity/C# (in text or video format)! <sub>⭐ 109 · C#</sub>
-- [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - "Set & Forget" AI Chatbot for Your Website - It Learns Your Website Automatically <sub>⭐ 109 · JavaScript</sub>
-- [EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor](https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor) - a series of prompts to { generate mnemonics to remember difficult vocabularies in one minute} {analyze difficult vocabulary, sentences, and paragraphs.}{ “use-chatgpt -learn english”, TOEFL, IELTS… <sub>⭐ 108</sub>
-- [obadx/quran-muaalem](https://github.com/obadx/quran-muaalem) - AI Teacher for the Holy Quran <sub>⭐ 108 · Python</sub>
-- [oluiscabral/studorama](https://github.com/oluiscabral/studorama) - AI-powered study sessions to enhance your learning <sub>⭐ 108 · TypeScript</sub>
-- [parz0val0/scan-to-practice](https://github.com/parz0val0/scan-to-practice) - Scan-to-Practice: a field-tested AI skill and methodology for turning scanned learning materials into structured practice products. <sub>⭐ 108</sub>
-- [Open-TutorAi/open-tutor-ai-CE](https://github.com/Open-TutorAi/open-tutor-ai-CE) - An open-source project designed to provide an educational and collaborative AI-powered platform <sub>⭐ 107 · JavaScript</sub>
-- [cxbxmxcx/Nexus](https://github.com/cxbxmxcx/Nexus) - AI Agent Nexus is an open-source platform for developing, testing, and hosting AI Agents, built with Streamlit and Gradio. It offers a user-friendly chat interface and focuses on teaching core… <sub>⭐ 106 · Python</sub>
-- [doomL/langchain-langgraph-tutorial](https://github.com/doomL/langchain-langgraph-tutorial) - Comprehensive tutorials for LangChain, LangGraph, and LangSmith using Groq LLM. Learn to build advanced AI systems, from basics to production-ready applications. Covers key concepts, real-world… <sub>⭐ 105 · Jupyter Notebook</sub>
-- [Haleshot/Deep-ML](https://github.com/Haleshot/Deep-ML) - A platform for deep learning challenges and AI education. Deep-ML is a website dedicated to making deep learning challenges accessible and engaging. It offers a variety of AI-related problems for… <sub>⭐ 102 · Python</sub>
-- [knoxiboy/DoubtDesk](https://github.com/knoxiboy/DoubtDesk) - We built an anonymous, AI-powered doubt-solving platform integrated with classrooms where students can ask questions without fear and get instant answers <sub>⭐ 98 · TypeScript</sub>
-- [stanek-michal/local_AI_code_assistant_tutorial](https://github.com/stanek-michal/local_AI_code_assistant_tutorial) - Guide on how to set up LMStudio and VSCode Continue.dev extension as a local and private coding Copilot. Targeted for 32GB RAM Apple Silicon devices. <sub>⭐ 98</sub>
-- [bigdata-ustc/Agent4Edu](https://github.com/bigdata-ustc/Agent4Edu) - Agent4Edu: Generating Learner Response Data by LLM-based Agents for Intelligent Education Systems (AAAI 2025, Oral Presentation) <sub>⭐ 95 · Python</sub>
-- [shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models](https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models) - A systematic literature review of Retrieval Augmented Generation (RAG) models, covering architectures, retrieval techniques, real world applications, performance improvements, emerging challenges… <sub>⭐ 93</sub>
-- [pittisl/Generative-AI-Tutorial](https://github.com/pittisl/Generative-AI-Tutorial) - A subjective learning guide for generative AI research <sub>⭐ 92</sub>
-- [Deen-Bridge/dnb-frontend](https://github.com/Deen-Bridge/dnb-frontend) - Deen Bridge — Next.js platform for authentic Islamic education (courses, books, spaces, mentorship) with a cited AI assistant and non-custodial Stellar/USDC payments. <sub>⭐ 91 · JavaScript</sub>
-- [Halleck45/OpenPronounce](https://github.com/Halleck45/OpenPronounce) - Open-source phoneme-level English pronunciation assessment (Wav2Vec2 + DTW). Self-hosted alternative to Azure Pronunciation Assessment. <sub>⭐ 91 · Python</sub>
-- [RobotsBuildingEducation/Educate](https://github.com/RobotsBuildingEducation/Educate) - AI Coding Tutor <sub>⭐ 90</sub>
-- [ahmedEid1/lumen](https://github.com/ahmedEid1/lumen) - Lumen — learner-owned AI education platform. Tell the AI what you want to learn: it builds you a private course in ~a minute, tutors you with course-scoped RAG + citations, and lets you share, clone… <sub>⭐ 88 · Python</sub>
-- [braviaprime/proctorai](https://github.com/braviaprime/proctorai) - AI‑powered web exam system with face recognition, webcam, browser, and audio checks ensures integrity in remote assessments. Flask prototype reached ~72% functional accuracy and 90%+ detection rates… <sub>⭐ 88 · HTML</sub>
-- [gopinav/Next.js-AI-Tutorials](https://github.com/gopinav/Next.js-AI-Tutorials) - Source code related to the Next.js AI course video on YouTube <sub>⭐ 87 · TypeScript</sub>
-- [learning-commons-org/evaluators](https://github.com/learning-commons-org/evaluators) - Evaluation for AI outputs against trusted educational rubrics. Measure and improve content quality with research-backed rubrics — ensuring rigor, reliability, and alignment to classroom needs. <sub>⭐ 84 · TypeScript</sub>
-- [dongzhang84/snowboat-blog](https://github.com/dongzhang84/snowboat-blog) - Deep-analysis articles in Chinese, covering AI & business, education, space exploration, and more. <sub>⭐ 83 · Python</sub>
-- [kirill-markin/flashcards-open-source-app](https://github.com/kirill-markin/flashcards-open-source-app) - AI-powered flashcards app built for serious daily study on iOS, Android, and the web. Use it to prepare for exams, learn vocabulary, memorize technical terms and facts, improve your material with AI… <sub>⭐ 83 · TypeScript</sub>
-- [ShawhinT/ai-tutor-skill](https://github.com/ShawhinT/ai-tutor-skill) - Example Claude skill for explaining technical AI concepts. <sub>⭐ 81 · Python</sub>
-- [0xfnzero/AI-Code-Tutorials](https://github.com/0xfnzero/AI-Code-Tutorials) - Bilingual AI coding tutorials for Claude Code and OpenAI Codex: setup, CLI, Codex workflows, MCP, agents, code review, prompt engineering, and web projects. <sub>⭐ 80</sub>
-- [Geralt-Targaryen/Awesome-Education-LLM](https://github.com/Geralt-Targaryen/Awesome-Education-LLM) - A curated list of LLM researches and applications in education. <sub>⭐ 80</sub>
-- [nakafaai/nakafa.com](https://github.com/nakafaai/nakafa.com) - AI Native Free High-Quality Learning Platform (K-12 to University) <sub>⭐ 79 · TypeScript</sub>
-- [nikit0ns/artificial-intelligence-library](https://github.com/nikit0ns/artificial-intelligence-library) - Artificial Intelligence Library — a meticulously curated library featuring over 320 top-tier AI platforms across 16 distinct categories. <sub>⭐ 78</sub>
-- [bermufine/dcmp](https://github.com/bermufine/dcmp) - {"categories":({"name":"Movies","videos":({"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) »… <sub>⭐ 76</sub>
-- [Center-for-AI-Innovation/ai-teaching-assistant-uiuc](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc) - The UX & driver code for the multi-model TA_Chatbot <sub>⭐ 76 · Python</sub>
-- [ai-infra-curriculum/ai-infra-performance-learning](https://github.com/ai-infra-curriculum/ai-infra-performance-learning) - AI Infrastructure Performance Engineer Learning Track - GPU optimization, inference optimization, and cost reduction <sub>⭐ 75 · Python</sub>
-- [bobhaotian/speech-driven-lessons](https://github.com/bobhaotian/speech-driven-lessons) - This is a comprehensive Learning Management System (LMS) designed to revolutionize online education through AI-powered course creation and delivery. The platform empowers educators to create, manage… <sub>⭐ 74 · TypeScript</sub>
-- [HuckleR2003/PC_Workman_HCK](https://github.com/HuckleR2003/PC_Workman_HCK) - System monitor with offline AI (82 intents, 9-layer routing) that learns YOUR PC. TURBO optimization, thermal baselines, voltage SPC, ghost driver detection, 373 process definitions. optimization… <sub>⭐ 74 · Python</sub>
-- [cojudge/cojudge](https://github.com/cojudge/cojudge) - Solve classic LeetCode problems complete offline. No discussion forum, no LLM assistant, not even the internet. Solve the curated list with just you, the problem and the offline judge. <sub>⭐ 72 · Svelte</sub>
-- [RylanSchaeffer/Stanford-AI-Alignment-Double-Descent-Tutorial](https://github.com/RylanSchaeffer/Stanford-AI-Alignment-Double-Descent-Tutorial) - Code for Arxiv Double Descent Demystified: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle <sub>⭐ 72 · Python</sub>
-- [yh2072/edgameclaw](https://github.com/yh2072/edgameclaw) - EdGameClaw: Convert any learning material into a game-based course — powered by AI. <sub>⭐ 71 · Python</sub>
-- [ranausmanai/tinyforge](https://github.com/ranausmanai/tinyforge) - A tiny model that teaches itself to code better. On your laptop. No cloud. No teacher model. No human feedback. <sub>⭐ 70 · Python</sub>
-- [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub) - Resources for learning Python, Machine Learning, and AI. <sub>⭐ 67 · Jupyter Notebook</sub>
-- [HHousen/lecture2notes](https://github.com/HHousen/lecture2notes) - Convert lecture videos to notes using AI & machine learning. Code for the research titled "Lecture2Notes: Summarizing Lecture Videos by Classifying Slides and Analyzing Text using Machine Learning." <sub>⭐ 67 · Jupyter Notebook</sub>
-- [shauryagangrade/awesome-ai-prompts](https://github.com/shauryagangrade/awesome-ai-prompts) - Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess <sub>⭐ 67 · HTML</sub>
-- [cloneofsimo/ptx-tutorial-by-aislop](https://github.com/cloneofsimo/ptx-tutorial-by-aislop) - PTX-Tutorial Written Purely By AIs (Deep Research of Openai and Claude 3.7) <sub>⭐ 66 · TeX</sub>
-- [sid-thephysicskid/leap](https://github.com/sid-thephysicskid/leap) - Leap: AI-powered educational animation generator <sub>⭐ 66 · Jupyter Notebook</sub>
-- [Celebez/tutorial-cloudflare-agents-bot](https://github.com/Celebez/tutorial-cloudflare-agents-bot) - Tutorial lengkap: Cloudflare Workers + Pages + Bindings + AI Agent + Telegram Bot — step by step, no API keys, publik <sub>⭐ 65</sub>
-- [DATANOMIQ/prompt_engineering_guide](https://github.com/DATANOMIQ/prompt_engineering_guide) - Prompt Engineering Workshop @ AI Convention 2025 (IHK Schwaben) <sub>⭐ 65 · Python</sub>
-- [dwhitena/oreilly-ai-k8s-tutorial](https://github.com/dwhitena/oreilly-ai-k8s-tutorial) - Materials for the "AI on Kubernetes" tutorial at O'Reilly AI SF 2018 <sub>⭐ 65 · Python</sub>
-- [098765d/AI_Tutor](https://github.com/098765d/AI_Tutor) - AI-Tutor: LLM and RAG-Enhanced AI Tutoring for Various Courses <sub>⭐ 63 · Python</sub>
-- [amosgyamfi/swiftui_tutorial_projects](https://github.com/amosgyamfi/swiftui_tutorial_projects) - SwiftUI projects for my YouTube tutorials and Medium article. <sub>⭐ 63 · Swift</sub>
-- [A-R007/Multi-Agent-Study-Assistant](https://github.com/A-R007/Multi-Agent-Study-Assistant) - AI-powered learning platform with 6 specialized agents for personalized education. Features adaptive roadmaps, quizzes, tutoring, RAG document Q&A, and learning style adaptation. Built with Phidata… <sub>⭐ 61 · Python</sub>
-- [bijonai/EchoAI](https://github.com/bijonai/EchoAI) - EchoAI: Explore knowledges with your own studymate. <sub>⭐ 61 · TypeScript</sub>
-- [OlimpiadaAI/II-OlimpiadaAI](https://github.com/OlimpiadaAI/II-OlimpiadaAI) - Oficjalne repozytorium drugiej edycji ogólnopolskiej Olimpiady Sztucznej Inteligencji <sub>⭐ 61 · Jupyter Notebook</sub>
-- [Haleshot/marimo-tutorials](https://github.com/Haleshot/marimo-tutorials) - Collection of marimo tutorials which encompass notebook/app examples in varying domains - CS/AI/ML <sub>⭐ 60 · Python</sub>
-- [SirhanMacx/Claw-ED](https://github.com/SirhanMacx/Claw-ED) - Local-first AI teaching assistant for editable lesson drafts, student materials, and slides. Uses your curriculum and chosen model. Teacher-reviewed beta. <sub>⭐ 60 · Python</sub>
-- [AjayJ19/ShadowLens](https://github.com/AjayJ19/ShadowLens) - ShadowLens – Real-Time AI Privacy Inspector for EdTech Platforms A Chrome Extension + Flask-powered AI backend that analyzes educational websites in real time to detect privacy risks, brand… <sub>⭐ 59 · Python</sub>
-- [The-Pocket/PocketFlow-Tutorial-AI-Paul-Graham](https://github.com/The-Pocket/PocketFlow-Tutorial-AI-Paul-Graham) - Pocket Flow Tutorial Project: AI Paul Graham, just in case you don't get in... <sub>⭐ 59 · Python</sub>
-- [NathalyDM/nath.biohack](https://github.com/NathalyDM/nath.biohack) - A community-focused repository dedicated to fostering learning and development in Artificial Intelligence . This project, created by me, @nath.biohack, aims to provide high-quality, accessible, and… <sub>⭐ 58 · Jupyter Notebook</sub>
-- [HumphreySun98/Smart-Study-Agent](https://github.com/HumphreySun98/Smart-Study-Agent) - The AI study agent that learns how you learn — RL picks the action, FSRS picks the timing, the LLM only writes the quizzes. Chrome extension · Anki export · MCP server · runs on Ollama <sub>⭐ 57 · JavaScript</sub>
-- [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) - MCP server for Brightspace (D2L). Check grades, due dates, assignments, announcements, rosters, syllabus & course content via Claude, ChatGPT, Cursor, Windsurf, or any MCP client. Works with any… <sub>⭐ 57 · TypeScript</sub>
-- [wenzhenl/wikitimeline](https://github.com/wenzhenl/wikitimeline) - WikiTimeline: Transform Wikipedia articles into interactive timelines where you can compare historical figures/events and discover surprising connections <sub>⭐ 57 · TypeScript</sub>
-- [clear-nus/CS5340-notebooks](https://github.com/clear-nus/CS5340-notebooks) - Notebooks for CS5340: Uncertainty Modeling in AI at NUS <sub>⭐ 56 · Jupyter Notebook</sub>
-- [AI4Finance-Foundation/AI4Finance-Education](https://github.com/AI4Finance-Foundation/AI4Finance-Education) - education channel <sub>⭐ 55</sub>
-- [heshengtao/exameow](https://github.com/heshengtao/exameow) - AI-powered exam question generator. Upload study materials, get exam questions in seconds. Open source, local-first, cross-platform. <sub>⭐ 55 · TypeScript</sub>
-- [princechhimpachhimpasaab-lang/omega-epsilon-problem-forge](https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge) - Olympiad Problem Generator 2026: Create Infinite Spanish Math Olympiad-Style Challenges <sub>⭐ 55 · HTML</sub>
-- [balavenkatesh3322/free-ai-certification](https://github.com/balavenkatesh3322/free-ai-certification) - Your one-stop repository for 100% free, high-quality AI certifications offered by top universities, companies, and platforms. <sub>⭐ 54 · HTML</sub>
-- [jasp-nerd/canvas-course-downloader](https://github.com/jasp-nerd/canvas-course-downloader) - Chrome extension to download, export, and back up everything from Canvas LMS courses, files, assignments, pages, modules, syllabus, grades, and more. One click, no API keys. Perfect for archiving… <sub>⭐ 54 · JavaScript</sub>
-- [q1sun/Tutorial-AI4SC-SC4AI](https://github.com/q1sun/Tutorial-AI4SC-SC4AI) - Where Scientific Computing Meets Artificial Intellegence <sub>⭐ 54 · Jupyter Notebook</sub>
-- [shaungt1/-open-source-datasets-for-data-science](https://github.com/shaungt1/-open-source-datasets-for-data-science) - Best free, open-source datasets for data science and machine learning projects. Top government data including census, economic, financial, agricultural, image datasets, labeled and unlabeled… <sub>⭐ 54 · Jupyter Notebook</sub>
-- [Tanzania-AI-Community/twiga](https://github.com/Tanzania-AI-Community/twiga) - Twiga is a WhatsApp bot for Tanzanian educators. <sub>⭐ 54 · Python</sub>
-- [deneyapkart/deneyapkart-arduino-core](https://github.com/deneyapkart/deneyapkart-arduino-core) - Arduino Core for Deneyap DevKits <sub>⭐ 53 · C</sub>
-- [ymrohit/openscenesense-ollama](https://github.com/ymrohit/openscenesense-ollama) - OpenSceneSense Ollama is a Python library that harnesses AI for advanced local video analysis, offering customizable frame and audio insights for dynamic applications in media, education, and content… <sub>⭐ 53 · Python</sub>
-- [Queena34/StudyPilot](https://github.com/Queena34/StudyPilot) - Bilingual AI study coach that answers only from your own course material, with citations <sub>⭐ 52 · Python</sub>
-- [ALLENYEUNG365/AI-GO-Community-English-Learning](https://github.com/ALLENYEUNG365/AI-GO-Community-English-Learning) - An AI-enhanced community English learning platform that combines practical language practice, learning habits, AI assistance, and social interaction to create a more accessible and sustainable… <sub>⭐ 51 · TypeScript</sub>
-- [microsoft/StudentSim](https://github.com/microsoft/StudentSim) - StudentSim is a research framework for training and evaluating AI models that simulate how students respond to learning material. The research goal is to give AI tutoring researchers a realistic… <sub>⭐ 51 · HTML</sub>
-- [code-forge-temple/local-llm-npc](https://github.com/code-forge-temple/local-llm-npc) - An interactive educational game built for the Google Gemma 3n Impact Challenge. <sub>⭐ 50 · C#</sub>
-- [Nurkan1/Anatria-3D](https://github.com/Nurkan1/Anatria-3D) - Local-first 3D anatomy atlas with an AI tutor that drives the viewport. Male and female atlases, 3,697 structures, works offline. Free for study and teaching under BSL 1.1; Apache-2.0 from 2030. <sub>⭐ 50 · TypeScript</sub>
-- [sugarforever/OpenAI-Tutorials](https://github.com/sugarforever/OpenAI-Tutorials) - OpenAI tutorials from the basics to advanced <sub>⭐ 50 · Jupyter Notebook</sub>
-- [vimalinx/ArtIflow](https://github.com/vimalinx/ArtIflow) - Android AI study companion with swipe-first learning: left to continue, right to dig deeper, plus image Q&A, LaTeX, voice follow-up, and coaching. <sub>⭐ 50 · Kotlin</sub>
-- [CodeWithJV/ai-tutor](https://github.com/CodeWithJV/ai-tutor) - turn a large language model into a supercharged tutor to learn anything <sub>⭐ 49</sub>
-- [hemansnation/Neurons-To-GenerativeAI](https://github.com/hemansnation/Neurons-To-GenerativeAI) - GenerativeAI, LLM, RAG, and LangChain technical Bootcamp including use cases, case studies, and the GenerativeAI app deployment implementation. 5 sectors → Energy, Healthcare, Finance, EdTech, Supply… <sub>⭐ 49 · Jupyter Notebook</sub>
-- [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) - End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, monitoring, datasets, experiments, and evaluation. <sub>⭐ 49 · TypeScript</sub>
-- [SunFish98/VideoDigestAgent](https://github.com/SunFish98/VideoDigestAgent) - Automatically monitors YouTube channels for new videos, extracts transcripts, auto-detects the content type (stocks, crypto, podcast, tech review, education, news, etc.), generates tailored summaries… <sub>⭐ 49 · Python</sub>
-- [xl631212/AiTA_Personal-AI-College-Tutor](https://github.com/xl631212/AiTA_Personal-AI-College-Tutor) - Your personal AI tutor for college learning / Assist in comprehending lecture materials and question sheets . <sub>⭐ 49 · Python</sub>
-- [Adhhhithya/qb_generator_ai_agent](https://github.com/Adhhhithya/qb_generator_ai_agent) - A full-stack EdTech system for generating, auditing, and managing outcome-aligned assessment questions using Bloom’s Taxonomy, featuring a FastAPI backend, PostgreSQL persistence, and a React-based… <sub>⭐ 48 · Python</sub>
-- [EricHe98/Teacher-Student-Training](https://github.com/EricHe98/Teacher-Student-Training) - This repository stores the files used for my summer internship's work on "teacher-student learning", an experimental method for training deep neural networks using a trained teacher model. <sub>⭐ 48 · Jupyter Notebook</sub>
-- [frankarobotics/the_reference_platform](https://github.com/frankarobotics/the_reference_platform) - A Tutorial on The Reference Platform for AI and Robotics Research and Education <sub>⭐ 48 · C++</sub>
-- [timothywarner-org/prompt-pro](https://github.com/timothywarner-org/prompt-pro) - Master AI prompting for business innovation. O'Reilly Live Learning course by Tim Warner covering ChatGPT, Claude, Copilot, and enterprise prompt engineering with MCP implementation. <sub>⭐ 48 · PowerShell</sub>
-- [dobriban/Principles-of-AI-LLMs](https://github.com/dobriban/Principles-of-AI-LLMs) - Materials for the course Principles of AI: LLMs at UPenn (Stat 9911, Spring 2025). LLM architectures, training paradigms (pre- and post-training, alignment), test-time computation, reasoning, safety… <sub>⭐ 47</sub>
-- [InfinityZero3000/LexiLingo](https://github.com/InfinityZero3000/LexiLingo) - Next-gen AI language tutor utilizing a novel Trace-CAG pipeline for zero-hallucination pedagogical feedback <sub>⭐ 47 · Python</sub>
-- [DigitalHarborFoundation/llm-math-education](https://github.com/DigitalHarborFoundation/llm-math-education) - Retrieval augmented generation for middle-school math question answering and hint generation. <sub>⭐ 46 · Jupyter Notebook</sub>
-- [dlopezyse/AI-for-Bio](https://github.com/dlopezyse/AI-for-Bio) - A free and collaborative space for Machine Learning applied to Biology <sub>⭐ 46 · Jupyter Notebook</sub>
-- [kevindegila/construire-un-llm-de-zero](https://github.com/kevindegila/construire-un-llm-de-zero) - Construire un LLM de zéro, à la main et en français : les notebooks des 22 chapitres, des tenseurs jusqu'aux agents IA. Le livre et ses visualisations interactives : llmdezero.com <sub>⭐ 46 · Jupyter Notebook</sub>
-- [ryannli/immersive-reading](https://github.com/ryannli/immersive-reading) - Turn dense long-form ideas into immersive Reading Editions. <sub>⭐ 46 · JavaScript</sub>
-- [atef-ataya/Large-Language-Models-Tutorial](https://github.com/atef-ataya/Large-Language-Models-Tutorial) - Learn AI, ML, and NLP with interactive Jupyter Notebook tutorials. <sub>⭐ 45 · Jupyter Notebook</sub>
-- [proflead/google-ai-studio-tutorial](https://github.com/proflead/google-ai-studio-tutorial) - Google AI Studio Tutorial for Beginners <sub>⭐ 45</sub>
-- [kaorii-ako/Shiori-v1](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion — Google Classroom sync, Gemini AI plans, SRS flashcards, GPA predictor, AI quiz, MCP server for Claude Code. Try demo at shiori-v1.vercel.app <sub>⭐ 44 · JavaScript</sub>
-- [ArnaudGuiovanna/tutor-mcp](https://github.com/ArnaudGuiovanna/tutor-mcp) - An open-source MCP server that turns any LLM into an Intelligent Tutoring System. 50 years of cognitive science, MIT licensed. <sub>⭐ 43 · Go</sub>
-- [harvard-lil/lawskills-hub](https://github.com/harvard-lil/lawskills-hub) - A collection of AI agent skills for legal education <sub>⭐ 43 · HTML</sub>
-- [mukherjeesrijit/AI-tutorials](https://github.com/mukherjeesrijit/AI-tutorials) - tutorials, resources, and community for AI, its applications, and its foundations. <sub>⭐ 43 · Jupyter Notebook</sub>
-- [ravsau/ai-tutorials](https://github.com/ravsau/ai-tutorials) - code and files that accompany cloudyeti ai tutorials <sub>⭐ 43 · HTML</sub>
-- [romanticamaj/promptasy](https://github.com/romanticamaj/promptasy) - A browser game to learn prompt engineering by playing — explore a world and solve challenges by writing prompts. Techniques from OpenAI, Anthropic, Google & xAI, each cited. <sub>⭐ 43 · JavaScript</sub>
-- [zhangl1001/civil-ai](https://github.com/zhangl1001/civil-ai) - Local-first adaptive tutoring agent foundation reference implementation for iOS and Web, with a civil-service exam application. <sub>⭐ 43 · TypeScript</sub>
-- [liffiton/Gen-Ed](https://github.com/liffiton/Gen-Ed) - Gen-Ed is a framework for building web applications that use generative AI (LLMs) for education. <sub>⭐ 42 · Python</sub>
-- [mirzayasirabdullahbaig07/EduGemma-AI-Tutor](https://github.com/mirzayasirabdullahbaig07/EduGemma-AI-Tutor) - Your adaptive AI tutor, powered by Gemma 4. Ask me anything — I'll explain it at exactly your level, grounded in curriculum knowledge. <sub>⭐ 42 · Jupyter Notebook</sub>
-- [scibly-dev/scibly](https://github.com/scibly-dev/scibly) - Scibly is an open-source, AI-native learning platform. Turn your existing knowledge into interactive learning experiences. <sub>⭐ 42 · TypeScript</sub>
-- [Chloe-MIAOmiao/Sales-Agent](https://github.com/Chloe-MIAOmiao/Sales-Agent) - An enterprise-grade AI Agent platform designed to streamline sales quality assurance, enforce compliance auditing, and automate high-converting follow-up workflows for EdTech and high-ticket service… <sub>⭐ 41 · Python</sub>
-- [musikalkemist/audioDataAugmentationTutorial](https://github.com/musikalkemist/audioDataAugmentationTutorial) - Repository hosting code and slides of the Audio Data Augmentation series on The Sound of AI YT channel. <sub>⭐ 41 · Python</sub>
-- [PakistanAI/Educational_guide](https://github.com/PakistanAI/Educational_guide) - An educational guide on how to get started in ML and AI by Pakistan.ai <sub>⭐ 41</sub>
-- [a-data-odyssey/XAI-tutorial](https://github.com/a-data-odyssey/XAI-tutorial) - A course on explainable AI with Python <sub>⭐ 40 · Jupyter Notebook</sub>
-- [Beckybams/AI-Enhanced-Climate-Education-Tools-](https://github.com/Beckybams/AI-Enhanced-Climate-Education-Tools-) - AI-Enhanced-Climate-Education-Tools uses artificial intelligence to create interactive, personalized learning experiences about climate change. It analyzes learners’ progress, recommends adaptive… <sub>⭐ 40</sub>
-- [cr4yfish/nouv](https://github.com/cr4yfish/nouv) - Free AI & Community powered Learning Experience <sub>⭐ 40 · TypeScript</sub>
-- [intelligencefoundation/SaraswatiAI](https://github.com/intelligencefoundation/SaraswatiAI) - Saraswati AI / Superhuman (AI) Teacher: All of Education, for All <sub>⭐ 40</sub>
-- [MajeedKazemi/code-aid](https://github.com/MajeedKazemi/code-aid) - An AI-powered programming assistant designed to facilitate learning and problem-solving in programming, featuring interactive tools for code writing, debugging, and conceptual understanding, while… <sub>⭐ 40 · TypeScript</sub>
-- [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) - Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own <sub>⭐ 40 · Shell</sub>
-- [Imbad0202/critical-thinking-for-humans](https://github.com/Imbad0202/critical-thinking-for-humans) - A gym for your critical thinking — the AI is the coach, you do the work. Four modes: drill, scene, expedition, detective. <sub>⭐ 39 · JavaScript</sub>
-- [potatoqualitee/dbatools.ai](https://github.com/potatoqualitee/dbatools.ai) - PowerShell Copilot and helpful assistant for SQL Server databases and dbatools. Mostly, though, a teaching tool. <sub>⭐ 39 · Jupyter Notebook</sub>
-- [CogitoNTNU/TutorAI](https://github.com/CogitoNTNU/TutorAI) - TutorAI is a RAG system capable of assisting with learning academic subjects and using the curriculum and citing it. The project revolves around building an application that ingests a textbook in… <sub>⭐ 38 · Python</sub>
-- [FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES) - A detailed AI and ML education repository <sub>⭐ 38 · Jupyter Notebook</sub>
-- [h2oai/driverlessai-tutorials](https://github.com/h2oai/driverlessai-tutorials) - H2OAI Driverless AI Code Samples and Tutorials <sub>⭐ 38 · Jupyter Notebook</sub>
-- [Visual-Studio-Coder/Recap](https://github.com/Visual-Studio-Coder/Recap) - Recap, an iOS and Android app developed by Vaibhav Satishkumar, enables students to generate personalized quizzes from diverse content types, including PDFs, YouTube videos, web links, and images. <sub>⭐ 38 · Swift</sub>
-- [Dicklesworthstone/the_lighthill_debate_on_ai](https://github.com/Dicklesworthstone/the_lighthill_debate_on_ai) - A Full Transcript of the Lighthill Debate on AI from 1973, with Introductory Remarks <sub>⭐ 37</sub>
-- [dmccreary/intelligent-textbooks](https://github.com/dmccreary/intelligent-textbooks) - How to use AI and mkdocs material with education theory to create intelligent textbooks <sub>⭐ 37 · Python</sub>
-- [The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator](https://github.com/The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator) - Danganronpa Simulator: Play Among Us-like Game with AI Agents <sub>⭐ 37 · Python</sub>
-- [guillermoscript/lms-front](https://github.com/guillermoscript/lms-front) - Open-source multi-tenant LMS for creators and schools: sell courses on your own subdomain. Next.js 16 + React 19 + Supabase (RLS) + Stripe Connect, an AI tutor over MCP, gamification, certificates… <sub>⭐ 36 · TypeScript</sub>
-- [LogicTronix/Vitis-AI-Reference-Tutorials](https://github.com/LogicTronix/Vitis-AI-Reference-Tutorials) - Tutorials on Vitis AI Created by LogicTronix! <sub>⭐ 36 · Python</sub>
-- [mscbuild/e-learning-free-courses](https://github.com/mscbuild/e-learning-free-courses) - ᴠɪᴘ Free online Learning with Professional Certifications. Free online courses with certificates in various fields such as Gen AI, Prompt Engineering, Data Science, AI, ML. Welcome to our Online… <sub>⭐ 36</sub>
-- [SaadRahman01/claude-moodle-dev](https://github.com/SaadRahman01/claude-moodle-dev) - Moodle development toolkit for AI coding assistants. Skills for XMLDB, Hooks API, PHPUnit, Behat, AMD, privacy/GDPR, security, accessibility. Native Claude Code plugin + adapters. <sub>⭐ 36 · Python</sub>
-- [Source-Robotics/PAR6-Collaborative-Robot-Arm](https://github.com/Source-Robotics/PAR6-Collaborative-Robot-Arm) - PAR6 is state of the art open source robotic arm with focus on Education, R&D and AI <sub>⭐ 36 · G-code</sub>
-- [TovTechOrg/Tov-learn](https://github.com/TovTechOrg/Tov-learn) - Interactive AI tutor built as a Claude Code skill — teaches with spaced repetition, personalized project examples, and a visual progress dashboard <sub>⭐ 36 · PowerShell</sub>
-- [1024XEngineer/XEngineer](https://github.com/1024XEngineer/XEngineer) - XEngineer (formerly 1024 Bootcamp) — initiated by Qiniu Cloud — is an open, hands-on, and innovative growth platform for engineers. <sub>⭐ 35 · TypeScript</sub>
-- [AdarshNampally/TuberCulosis.Ai](https://github.com/AdarshNampally/TuberCulosis.Ai) - TuberCulosis.Ai is a computer vision application designed to expedite pulmonology referrals while providing educational data for medical professionals. The system uses AI to analyze chest X-ray… <sub>⭐ 35 · JavaScript</sub>
-- [AlexHettle/MeadowPy](https://github.com/AlexHettle/MeadowPy) - Beginner-friendly Python IDE with local AI features, teaching tools, plain-English error help, and step-through debugging. <sub>⭐ 35 · Python</sub>
-- [oaknational/oak-ai-lesson-assistant](https://github.com/oaknational/oak-ai-lesson-assistant) - Oak's AI Projects including our AI Lesson Planning Assistant (Aila) <sub>⭐ 35 · TypeScript</sub>
-- [OcelliQ/ai-tutorial-scraping-prescriptions](https://github.com/OcelliQ/ai-tutorial-scraping-prescriptions) - Simple AI tutorial for automated data extraction. <sub>⭐ 35 · Python</sub>
-- [rosewang2008/tutor-copilot](https://github.com/rosewang2008/tutor-copilot) - Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise <sub>⭐ 35 · Jupyter Notebook</sub>
-- [TetiAI/lucid](https://github.com/TetiAI/lucid) - AI makes users productive — but also cognitively lazy. Lucid detects cognitive dependency in real-time and adapts AI responses to keep users thinking. Drop-in SDK: zero latency, any LLM provider… <sub>⭐ 35 · TypeScript</sub>
-- [akhtyamovpavel/TelegramBotTutorials](https://github.com/akhtyamovpavel/TelegramBotTutorials) - Telegram Bot Tutorials from simple to hardest level (even MiniApps) <sub>⭐ 34</sub>
-- [alikhalilli/linearly](https://github.com/alikhalilli/linearly) - The math of AI, drawn and coded. A free, visual-first linear algebra course following MIT 18.06. <sub>⭐ 34 · MDX</sub>
-- [argonne-lcf/AI4ScienceTutorial](https://github.com/argonne-lcf/AI4ScienceTutorial) - A tutorial for students that surveys basic ML techniques in ipython notebook format. <sub>⭐ 34 · Jupyter Notebook</sub>
-- [ashishbamania/Tutorials-On-Artificial-Intelligence](https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence) - A collection of AI tutorials from Dr. Ashish Bamania <sub>⭐ 34 · Jupyter Notebook</sub>
-- [mac999/LLM-RAG-Agent-Tutorial](https://github.com/mac999/LLM-RAG-Agent-Tutorial) - LLM-RAG-Agent-Tutorial for AI application developers and researchers. <sub>⭐ 34 · Jupyter Notebook</sub>
-- [AI-EDU-LAB/E-EVAL](https://github.com/AI-EDU-LAB/E-EVAL) - Official github repo for E-Eval, a Chinese K12 education evaluation benchmark for LLMs. <sub>⭐ 33 · Python</sub>
-- [BradGroux/ai-dev-days](https://github.com/BradGroux/ai-dev-days) - Public research and education companion to the AI-Native Operating Framework, with reusable events, curriculum, labs, and tool tracks. <sub>⭐ 33 · HTML</sub>
-- [charsyam/pycon2026-tutorial-ai-agents](https://github.com/charsyam/pycon2026-tutorial-ai-agents) - pycon2026-tutorial-ai-agents <sub>⭐ 33 · Python</sub>
-- [scienceetonnante/tangible](https://github.com/scienceetonnante/tangible) - Create narrated interactive lessons with synchronized scenes and optional AI assistance. <sub>⭐ 33 · TypeScript</sub>
-- [Troyanovsky/autonomous_agent_tutorial](https://github.com/Troyanovsky/autonomous_agent_tutorial) - A tutorial for building autonomous agents: with LangChain and from scratch <sub>⭐ 33 · Jupyter Notebook</sub>
-- [yungyun0721/AI_global_forecast_model_for_education](https://github.com/yungyun0721/AI_global_forecast_model_for_education) - with Pangu-weather, FourCastNet v1 v2, GraphCast, and Aurora model <sub>⭐ 33 · Jupyter Notebook</sub>
-- [Ciucky/no-numb](https://github.com/Ciucky/no-numb) - Build with Claude Code without your brain going numb — a plugin that quizzes you on the code it just wrote and gates the session until you pass. <sub>⭐ 32 · Shell</sub>
-- [dsiufl/WorkshopArchive](https://github.com/dsiufl/WorkshopArchive) - Repository hosting a series of educational workshops at the University of Florida for 2023-2026 covering topics such as Data Science, Artificial Intelligence and Machine Learning. <sub>⭐ 32 · Jupyter Notebook</sub>
-- [iuliaferoli/backtoengineering](https://github.com/iuliaferoli/backtoengineering) - I built Back to Engineering to make physical AI and robotics accessible to beginners. It's a tech tree. If you've played Civilization, Satisfactory, or any engineering-adjecent game, you know the… <sub>⭐ 32 · Python</sub>
-- [kaushal0494/UnifyingAITutorEvaluation](https://github.com/kaushal0494/UnifyingAITutorEvaluation) - An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors <sub>⭐ 32</sub>
-- [ndpvt-web/deeptutor-claude-skill](https://github.com/ndpvt-web/deeptutor-claude-skill) - Claude Code skill adapting DeepTutor's graph-enhanced RAG tutoring methodology. Knowledge graphs, dual-loop solving, research reports, adaptive questions. Based on HKUDS/DeepTutor. <sub>⭐ 32 · Python</sub>
-- [1599570912/IELTS-Speaking-AI](https://github.com/1599570912/IELTS-Speaking-AI) - AI-powered IELTS speaking practice: real-time speech recognition, scoring, 210+ questions, local history <sub>⭐ 31 · JavaScript</sub>
-- [AmirhosseinHonardoust/AI-Personal-Study-Tracker](https://github.com/AmirhosseinHonardoust/AI-Personal-Study-Tracker) - An AI-driven productivity tracking app built with Python, Streamlit, SQLite, and Machine Learning. It logs and analyzes study sessions, predicts productivity using Random Forest models, and… <sub>⭐ 31 · Python</sub>
-- [arm-education/RPi-Pico-projects-for-schools](https://github.com/arm-education/RPi-Pico-projects-for-schools) - Project-based book for teaching AI, IoT, and computer science with Raspberry Pi Pico in Python to ages 16-18. (educational) <sub>⭐ 31 · Jupyter Notebook</sub>
-- [inngest/agentkit-render-tutorial](https://github.com/inngest/agentkit-render-tutorial) - Get custom summaries of Hacker News stories in your inbox <sub>⭐ 31 · TypeScript</sub>
-- [jarodise/Language-Transfer](https://github.com/jarodise/Language-Transfer) - AI-powered Spanish tutor using the Language Transfer methodology. Runs inside Gemini CLI or Claude Code. <sub>⭐ 31</sub>
-- [rembertdesigns/Programming-Language-Tutorials](https://github.com/rembertdesigns/Programming-Language-Tutorials) - Multi-language programming tutorials & code guides: web, mobile, backend, DevOps, AI/ML, blockchain. Practical, production-ready examples—patterns, security, infrastructure, accessibility—for devs &… <sub>⭐ 31 · C++</sub>
-- [sjoerdvanderhoorn/kwekken](https://github.com/sjoerdvanderhoorn/kwekken) - Kwekken is a language learning app that helps you learn a foreign language through personalized conversations with an AI teacher powered by OpenAI's ChatGPT. <sub>⭐ 31 · JavaScript</sub>
-- [sunflower0305/ai-kid-tutor](https://github.com/sunflower0305/ai-kid-tutor) - AI-Kid-Tutor never provides direct answers to children. Instead, it asks thought-provoking questions in response, making it an ideal AI tutor for children's education. <sub>⭐ 31 · Python</sub>
-- [TheTavakoli1/PyAI-Tutorials](https://github.com/TheTavakoli1/PyAI-Tutorials) - PyAI-Tutorials — A comprehensive repository for mastering algorithms, Python, data analysis, and AI. It offers structured code examples, tutorials, and projects to help learners deepen their… <sub>⭐ 31 · Python</sub>
-- [towardsai/ai-tutor-app](https://github.com/towardsai/ai-tutor-app) - Agentic RAG tutor for applied AI, LLMs, RAG, and Python: a LangGraph agent (FastAPI + Next.js) grounded in a curated course and library corpus. <sub>⭐ 31 · Python</sub>
-- [chrisreddington/flight-school](https://github.com/chrisreddington/flight-school) - AI-powered coding practice platform built with the GitHub Copilot SDK. Personalized challenges, real-time evaluation, and learning guidance based on your GitHub profile. <sub>⭐ 30 · TypeScript</sub>
-- [Er-luffy-D/SimplifAI](https://github.com/Er-luffy-D/SimplifAI) - AI-powered web app to simplify Education , built with Next.js, Supabase, and Tailwind — open for contributions, Please star the repo before start working on it. <sub>⭐ 30 · TypeScript</sub>
-- [marceld23/Pixel-Pets](https://github.com/marceld23/Pixel-Pets) - Pixel-Pets: A local, open-source virtual pet ecosystem on M5Stack. 100% AI-authored C++ (Claude) by a 10yo maker. Includes Muffin (LLM), Visu & Goo-Goo variants + companion device Pip. Built for… <sub>⭐ 30 · C</sub>
-- [raphaelmansuy/tutorials](https://github.com/raphaelmansuy/tutorials) - A comprehensive collection of practical tutorials focused on cloud computing and DevOps technologies. It primarily covers: Google Cloud Platform (GCP) services Kubernetes container orchestration… <sub>⭐ 30 · Python</sub>
-- [unrealandychan/learn-python-with-ai](https://github.com/unrealandychan/learn-python-with-ai) - This is a repository for self learn Python, ALL the content are generated by AI!. <sub>⭐ 30 · Python</sub>
-- [vdrakopoulou/Sentiment-Analysis_BUS2503_AI-for-Business](https://github.com/vdrakopoulou/Sentiment-Analysis_BUS2503_AI-for-Business) - H&M Seasonal Campaign Sentiment Analysis – Case Study & Replication Package for BUS2503 / AI for Business using KNIME, Python, and LLM ChatGPT as a co‑tutor. <sub>⭐ 30</sub>
-- [1nn0k3sh4/GigaChat-Prompt-Jailbreak](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) - This research identifies a method to bypass safety systems in the GigaChat LLM, enabling the generation of potentially harmful content related to chemical synthesis through a "contextual camouflage"… <sub>⭐ 28</sub>
-- [clduab11/thinkrank](https://github.com/clduab11/thinkrank) - Revolutionizing collaborative thinking and problem-solving through intelligent ranking systems and gamified AI research contribution. A hybrid gaming-educational mobile platform that combines… <sub>⭐ 28 · TypeScript</sub>
-- [evarae/CNN_Tutorial](https://github.com/evarae/CNN_Tutorial) - Hi! Thanks for checking out my tutorial where I walk you through the process of coding a convolutional neural network in java from scratch. After building a network for a university assignment, I… <sub>⭐ 28 · Java</sub>
-- [harrystaley/open-source-data-science-degree-python](https://github.com/harrystaley/open-source-data-science-degree-python) - Curated open-source curriculum offering a comprehensive data science education with Python, covering CS basics, AI, MLOps, and more. <sub>⭐ 28</sub>
-- [Harshal-Bsys27/ai-study-planner](https://github.com/Harshal-Bsys27/ai-study-planner) - AI-powered full-stack study planner built with React & Flask. Generates personalized study plans, tracks progress with analytics, and helps students stay consistent. <sub>⭐ 28 · JavaScript</sub>
-- [ideas-edu/ideas](https://github.com/ideas-edu/ideas) - Feedback services for intelligent tutoring systems <sub>⭐ 28 · Haskell</sub>
-- [jasonkang14/ai-english-tutor](https://github.com/jasonkang14/ai-english-tutor) - Interactive AI English Tutor: Harnessing OpenAI's APIs for an Immersive Language Learning Experience <sub>⭐ 28 · Jupyter Notebook</sub>
-- [koukekoukej-glitch/feynman-tutor](https://github.com/koukekoukej-glitch/feynman-tutor) - AI teaching Skill based on the Feynman Technique — makes YOU teach the AI to expose gaps in your understanding. Works with Claude Code, Cursor, Windsurf, and any LLM agent framework. <sub>⭐ 28 · Python</sub>
-- [timothy-watt/python-for-ai-ml](https://github.com/timothy-watt/python-for-ai-ml) - An open-source guide to Python for AI and Machine Learning <sub>⭐ 28 · Jupyter Notebook</sub>
-- [tryskilly/skilly](https://github.com/tryskilly/skilly) - Skilly : A voice-first AI tutor that watches your screen <sub>⭐ 28 · TypeScript</sub>
-- [vanderbilt-data-science/knowledge-spaces](https://github.com/vanderbilt-data-science/knowledge-spaces) - AI-powered Knowledge Space Theory for adaptive education. 10 Claude Code skills implementing the full KST pipeline — from course materials to knowledge graphs, adaptive assessment, personalized… <sub>⭐ 28 · Python</sub>
-- [Yogapriya2512/A-Simple-Chatbot-](https://github.com/Yogapriya2512/A-Simple-Chatbot-) - A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity)The classic historic early chatbots are ELIZA (1966) and PARRY (1972).More recent… <sub>⭐ 28 · Jupyter Notebook</sub>
-- [emqx/esp32-mcp-mqtt-tutorial](https://github.com/emqx/esp32-mcp-mqtt-tutorial) - Use ESP32 & MCP over MQTT to build smart devices powered by AI. <sub>⭐ 27</sub>
-- [harish303118/Codersnote-web-development-roadmap](https://github.com/harish303118/Codersnote-web-development-roadmap) - Generate personalized courses, learning roadmaps, project and interview prep with AI Tutor Lyra, access 3,000+ free resources with 20+ Tech career Roadmaps and receive personalized daily job alerts… <sub>⭐ 27 · HTML</sub>
-- [Itangalo/AI-Education](https://github.com/Itangalo/AI-Education) - A book about how teachers can use chat bots with discernment. And some notes about background and future for AI. <sub>⭐ 27</sub>
-- [jhammant/ilya-top-30](https://github.com/jhammant/ilya-top-30) - AI-powered learning platform for Ilya Sutskever's legendary AI paper reading list. Master the foundations of modern AI with curated paths, AI tutoring, and gamification. <sub>⭐ 27 · Python</sub>
-- [JigyasuRajput/NeuralMeet](https://github.com/JigyasuRajput/NeuralMeet) - Real-time AI video call platform with role-specific agents (tutor, coach etc) Auto-generated summaries, transcripts, and searchable chat. <sub>⭐ 27 · TypeScript</sub>
-- [jyi/ITSP](https://github.com/jyi/ITSP) - Artifacts of FSE-2017 paper on an Intelligent Tutoring System for Programming <sub>⭐ 27 · C</sub>
-- [MayankR/OpenEdAI-Hackathon](https://github.com/MayankR/OpenEdAI-Hackathon) - A smart document reader to leverage AI for spreading quality education! Grand Prize. <sub>⭐ 27 · Java</sub>
-- [nirholas/lyra-web3-playground](https://github.com/nirholas/lyra-web3-playground) - Free Solidity compiler & Web3 IDE with interactive tutorials. Learn blockchain development, deploy smart contracts to 8+ chains (Ethereum, Polygon, Base, Arbitrum, Solana). Templates for tokens… <sub>⭐ 27 · TypeScript</sub>
-- [NoteHub-official/NoteHub](https://github.com/NoteHub-official/NoteHub) - NoteHub is an online note sharing platform where users can edit notes with a versatile rich-text editor in a real-time collaborative environment. NoteHub also provides notes sharing features between… <sub>⭐ 27 · Vue</sub>
-- [Priyamakeshwari/TeachGPT](https://github.com/Priyamakeshwari/TeachGPT) - An AI Powered teacher that can help you learn your topics faster before exam <sub>⭐ 27 · Python</sub>
-- [rahulkolekardev/free-aiml-learning](https://github.com/rahulkolekardev/free-aiml-learning) - Free AI/ML learning. Code-first courses, labs, and projects plus books, docs, and datasets. Beginner to advanced. Community curated. <sub>⭐ 27</sub>
-- [rembertdesigns/Machine-Learning-AI-Library](https://github.com/rembertdesigns/Machine-Learning-AI-Library) - Curated machine learning and AI roadmap—free, open-access resources spanning foundational math, tutorials, books, frameworks, LLMs, interactive demos, and EdTech tools. Start anywhere, level up… <sub>⭐ 27</sub>
-- [timothywarner-org/context-engineering](https://github.com/timothywarner-org/context-engineering) - Stop building AI that forgets. Master MCP (Model Context Protocol) with production-ready semantic memory, hybrid RAG, and the WARNERCO Schematica teaching app. FastMCP + LangGraph + Vector/Graph… <sub>⭐ 27 · Python</sub>
-- [ymrohit/openscenesense](https://github.com/ymrohit/openscenesense) - OpenSceneSense is a Python library that harnesses AI for advanced video analysis, offering customizable frame and audio insights for dynamic applications in media, education, and content moderation. <sub>⭐ 27 · Python</sub>
-- [aws-samples/sample-multimodal-agent-tutorial](https://github.com/aws-samples/sample-multimodal-agent-tutorial) - Build production-ready AI agents with the Strands Agents SDK and AWS services. This repository demonstrates how you can create multi-modal systems with persistent memory in minimal code. Progress… <sub>⭐ 26 · Jupyter Notebook</sub>
-- [echohive42/o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) - An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic. <sub>⭐ 26 · Python</sub>
-- [HalilCan/codeGPT-assistant-extension](https://github.com/HalilCan/codeGPT-assistant-extension) - An extensible AI assistant extension for Visual Studio Code. Similar to Copilot X. <sub>⭐ 26 · JavaScript</sub>
-- [LearnAIHubC/LearnDeck](https://github.com/LearnAIHubC/LearnDeck) - LearnDeck: AI PPT generator for Codex that turns topics, notes, course material, and outlines into polished, editable PowerPoint decks. <sub>⭐ 26 · JavaScript</sub>
-- [noodlefrenzy/CognitiveServicesTutorial](https://github.com/noodlefrenzy/CognitiveServicesTutorial) - Cognitive Services Tutorial for AI Immersion Workshop 2017 <sub>⭐ 26 · C#</sub>
-- [TiKyisme/bk-lms-downloader](https://github.com/TiKyisme/bk-lms-downloader) - Desktop downloader and sync utility for HCMUT BK-LMS, with local AI Study Pack export. <sub>⭐ 26 · Python</sub>
-- [vlainic/vlainic.github.io](https://github.com/vlainic/vlainic.github.io) - My GitHub blog: things you might be interested, and probably not... <sub>⭐ 26</sub>
-- [ahammadnafiz/EduGen](https://github.com/ahammadnafiz/EduGen) - AI-Powered Science Education Video Generator <sub>⭐ 25 · Python</sub>
-- [buger/homelearnai](https://github.com/buger/homelearnai) - AI-powered homeschool learning management system with spaced repetition, curriculum planning, and multi-child support <sub>⭐ 25 · PHP</sub>
-- [davidmalawey/OpenArm](https://github.com/davidmalawey/OpenArm) - An Open Source Robot Arm <sub>⭐ 25</sub>
-- [dlopezyse/Synthia](https://github.com/dlopezyse/Synthia) - Accelerate knowledge with AI <sub>⭐ 25 · Python</sub>
-- [joosthub/pytorch-nlp-tutorial-ny2018](https://github.com/joosthub/pytorch-nlp-tutorial-ny2018) - PyTorch NLP tutorial, O'Reilly AI NYC 2018 <sub>⭐ 25 · Jupyter Notebook</sub>
-- [kzw-ai/word-learning-system](https://github.com/kzw-ai/word-learning-system) - An intelligent adaptive vocabulary learning system for Chinese as a Foreign Language (CFL) — built from master's thesis research at Peking University. Features AI-driven personalized learning, SM-2… <sub>⭐ 25 · Python</sub>
-- [mmuddinhamza/PalmPoweredCourseGenerator](https://github.com/mmuddinhamza/PalmPoweredCourseGenerator) - Flask application leveraging Palm 2 API to dynamically generate and serve educational content for any given subject or learning topic. <sub>⭐ 25 · HTML</sub>
-- [mwasifanwar/eduadapt-ai](https://github.com/mwasifanwar/eduadapt-ai) - AI-driven adaptive learning system that personalizes educational content based on student performance, learning style, and engagement metrics. Uses reinforcement learning for optimal learning path… <sub>⭐ 25 · Python</sub>
-- [openlanguagemodel/openlanguagemodel](https://github.com/openlanguagemodel/openlanguagemodel) - Readable, composable PyTorch library for language models: build Llama, Qwen, Gemma, DeepSeek, Kimi and 20+ other architectures from plain nn.Modules, then train them on CPU, one GPU, or multi-GPU. <sub>⭐ 25 · Python</sub>
-- [0xff-r4bbit/watchmetype](https://github.com/0xff-r4bbit/watchmetype) - an open-source macOS app that reproduces realistic human typing to expose the limits of AI-detection based on writing process <sub>⭐ 24 · Swift</sub>
-- [ArdentMC/ai-streamliner](https://github.com/ArdentMC/ai-streamliner) - The AI Streamliner Project <sub>⭐ 24 · Batchfile</sub>
-- [arun3676/ai-learning-path-generator](https://github.com/arun3676/ai-learning-path-generator) - An intelligent learning system combining RAG (Retrieval Augmented Generation) with adaptive path generation for personalized AI education <sub>⭐ 24 · Python</sub>
-- [AstraBert/PhiQwenSTEM](https://github.com/AstraBert/PhiQwenSTEM) - A reasoning assistant for your STEM education <sub>⭐ 24 · TypeScript</sub>
-- [devyanshyadav/chaidocs-ai-assistant](https://github.com/devyanshyadav/chaidocs-ai-assistant) - ChaiDocs AI powers ChatGenie, your go-to Chrome extension for instant access to programming docs and blogs from ChaiDocs website. <sub>⭐ 24 · TypeScript</sub>
-- [dokasto/Saidia](https://github.com/dokasto/Saidia) - Offline-first, desktop AI assistant tailored for educators, enabling them to generate questions directly from source materials. <sub>⭐ 24 · TypeScript</sub>
-- [IBM/oic-i-agentic-ai-tutorials](https://github.com/IBM/oic-i-agentic-ai-tutorials) - Create External Tutorials on Agentic AI (AI for Developers and Ecosystem) <sub>⭐ 24 · Python</sub>
-- [idoforgod/Vibe-learning-AgenticWorkflow](https://github.com/idoforgod/Vibe-learning-AgenticWorkflow) - Socratic AI Tutor Builder — 21-step agentic workflow for personalized education system <sub>⭐ 24 · Python</sub>
-- [Jojobeans1981/Ember-Campfire-Edition](https://github.com/Jojobeans1981/Ember-Campfire-Edition) - AI-powered dyslexia intervention platform — adaptive reading exercises that adjust to each learner's specific decoding errors. <sub>⭐ 24 · JavaScript</sub>
-- [m0m0x01d/strata](https://github.com/m0m0x01d/strata) - See why a web vulnerability works, not just how to trigger it — a single-file, zero-dependency security lab that renders a vulnerable app as a 7-layer cross-section. 17 labs, attacker & defender… <sub>⭐ 24 · HTML</sub>
-- [mac999/AI_foundation_tutorial](https://github.com/mac999/AI_foundation_tutorial) - AI foundation and trend seminar tutorial with code <sub>⭐ 24 · Jupyter Notebook</sub>
-- [mytechnotalent/kgpt](https://github.com/mytechnotalent/kgpt) - A GPT-2-class language model trained from scratch on OpenWebText with the intent to augment AI Transformer-model education and reverse engineer GPT models from scratch. <sub>⭐ 24 · Jupyter Notebook</sub>
-- [pmservice/ai-openscale-tutorials](https://github.com/pmservice/ai-openscale-tutorials) - Watson OpenScale tutorials including sample models, notebooks and applications <sub>⭐ 24 · Jupyter Notebook</sub>
-- [SciWhite/university-ai-policy-tracker](https://github.com/SciWhite/university-ai-policy-tracker) - Open, evidence-backed infrastructure for tracking university AI policies worldwide. <sub>⭐ 24 · TypeScript</sub>
-- [sheninthjr/ai-learning-platform](https://github.com/sheninthjr/ai-learning-platform) - AI Learning Platform is a project that focuses on creating an accessible and personalized online education experience using artificial intelligence. <sub>⭐ 24 · TypeScript</sub>
-- [AmirhosseinHonardoust/TFIDF-vs-Word2Vec](https://github.com/AmirhosseinHonardoust/TFIDF-vs-Word2Vec) - A detailed educational guide explaining two essential NLP techniques, TF-IDF and Word2Vec. Learn how text is transformed into numerical vectors, compare their mathematical foundations, explore… <sub>⭐ 23</sub>
-- [casius-connect/limitless-workflow](https://github.com/casius-connect/limitless-workflow) - An understanding machine for Claude Code that turns research into tutoring, memory, and visible knowledge using Oracle AI Database. <sub>⭐ 23 · Python</sub>
-- [john-adeojo/crew_ai_tutorial](https://github.com/john-adeojo/crew_ai_tutorial) - A quick Crew AI tutorial <sub>⭐ 23 · Python</sub>
-- [kasnerz/animated-llm](https://github.com/kasnerz/animated-llm) - Web application explaining how LLMs work using D3.js + GSAP <sub>⭐ 23 · JavaScript</sub>
-- [khalilbenaz/claude-skills-collection](https://github.com/khalilbenaz/claude-skills-collection) - 349 skills open-source pour Claude Code — 34 domaines : dev, agents IA, AI/ML, cloud, database, DevOps, testing, sécurité, networking, Linux, automation, marketing, IoT, communication, data… <sub>⭐ 23 · HTML</sub>
-- [maruf009sultan/AIELTS-WRITING](https://github.com/maruf009sultan/AIELTS-WRITING) - AI-powered writing grader for IELTS and general English writing tasks. Instantly analyze your essays, paragraphs, or stories with detailed band scores, error highlights, and actionable feedback—using… <sub>⭐ 23 · TypeScript</sub>
-- [seehiong/eduvis](https://github.com/seehiong/eduvis) - An open, curriculum-aware schema and reference SVG renderer for educational content. <sub>⭐ 23 · Python</sub>
-- [Sitaram8472/School_Website](https://github.com/Sitaram8472/School_Website) - EduStream is a modern school portal that brings students, teachers, and parents together. It features a real-time notice board, easy resource sharing, and a helpful AI assistant for student… <sub>⭐ 23 · JavaScript</sub>
-- [allenai/aiconf-allennlp-tutorial](https://github.com/allenai/aiconf-allennlp-tutorial) - allennlp tutorial for O'Reilly AI Conference, September 2019 <sub>⭐ 22 · Jupyter Notebook</sub>
-- [avrabyt/OpenAI-WebApps-Youtube-Tutorial](https://github.com/avrabyt/OpenAI-WebApps-Youtube-Tutorial) - OpenAI + Streamlit + Databutton Youtube tutorials <sub>⭐ 22 · Python</sub>
-- [cristianodabc/dialekt](https://github.com/cristianodabc/dialekt) - AI language tutor with CEFR enforcement, formal/informal register, and native-phonetic transliteration <sub>⭐ 22 · Elixir</sub>
-- [joosthub/pytorch-nlp-tutorial-eu2018](https://github.com/joosthub/pytorch-nlp-tutorial-eu2018) - O'Reilly AI training - London 2018 <sub>⭐ 22 · Jupyter Notebook</sub>
-- [JupyterPS/VBAF](https://github.com/JupyterPS/VBAF) - VBAF (Visual AI and Reinforcement Learning Framework) -- Educational AI framework in pure PowerShell 5.1. Neural networks, Q-learning, DQN, PPO, A3C from scratch. No Python. No dependencies. <sub>⭐ 22 · PowerShell</sub>
-- [NickScherbakov/codementor-ai-platform](https://github.com/NickScherbakov/codementor-ai-platform) - AI-powered programming learning platform: adaptive tutoring, real-time code execution, interactive challenges, and learning analytics. <sub>⭐ 22 · TypeScript</sub>
-- [SagarBiswas-MultiHAT/PhishGuard-AI](https://github.com/SagarBiswas-MultiHAT/PhishGuard-AI) - PhishGuard is a fast-paced web game that trains your instincts against email phishing. Powered by a Dual-AI Consensus Engine (OpenRouter & Groq), it generates and verifies highly realistic, unique… <sub>⭐ 22 · Python</sub>
-- [AgustinOberg/NebulAI-APP](https://github.com/AgustinOberg/NebulAI-APP) - NebulAI: A space-themed study assistant that helps you transform your files into multiple-choice questions to enhance your learning journey. <sub>⭐ 21 · TypeScript</sub>
-- [arlanrakh/Nozomio-Education-not-active-](https://github.com/arlanrakh/Nozomio-Education-not-active-) - Nozomio is an online platform that provides free computer science and entrepreneurial resources inspiring the next generation of builders. From ideation to execution, we've got you covered. <sub>⭐ 21</sub>
-- [awslabs/bedrock-vscode-playground](https://github.com/awslabs/bedrock-vscode-playground) - Explore and experiment with large language models (LLMs) available in Amazon Bedrock <sub>⭐ 21 · TypeScript</sub>
-- [gabors-data-analysis/da-w-ai](https://github.com/gabors-data-analysis/da-w-ai) - Data Analysis with AI course <sub>⭐ 21 · HTML</sub>
-- [Hassanmahmood4/edu-chatbot](https://github.com/Hassanmahmood4/edu-chatbot) - AI-powered educational chatbot with local LLM inference, semantic search, and knowledge retrieval for student Q&A and tutoring applications. <sub>⭐ 21 · Python</sub>
-- [jwliao1209/TWLLM-Tutor](https://github.com/jwliao1209/TWLLM-Tutor) - Taiwan-LLM Tutor: Large Language Models for Taiwanese Secondary Education <sub>⭐ 21 · Python</sub>
-- [naufaldi/teacher-exam](https://github.com/naufaldi/teacher-exam) - AI-generated, print-ready exam sheets for Indonesian elementary teachers — Built with Claude Opus 4.7. React 19 + Hono + Effect-TS. <sub>⭐ 21 · TypeScript</sub>
-- [Refaat-alktifan/CodeRanedeer](https://github.com/Refaat-alktifan/CodeRanedeer) - GPT-4 (prompt) AI assists in writing, fixing, or reviewing code by providing suggestions, guidance, and explanations. It can also serve as a pair programming buddy to enhance your coding experience… <sub>⭐ 21</sub>
-- [Sagar0-0/Fluenty](https://github.com/Sagar0-0/Fluenty) - Fluenty: AI-Powered English Tutor <sub>⭐ 21 · Kotlin</sub>
-- [shreyavaidya2311/timetable-generator](https://github.com/shreyavaidya2311/timetable-generator) - Time Table Generator is a dynamic system that schedules the slots and the teachers for a particular subject and day according to given constraints by the user. This project has been built as a part… <sub>⭐ 21 · JavaScript</sub>
-- [StudentSuite/awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - A curated list of Claude Code, Cursor, and Copilot skills and plugins built for students: IB, IGCSE, college-bound, and anyone studying with an AI coding agent at their side. <sub>⭐ 21 · JavaScript</sub>
-- [StudentTraineeCenter/edu-agent](https://github.com/StudentTraineeCenter/edu-agent) - EduAgent is an AI-driven educational platform leveraging LangGraph agents and RAG to convert static documents into dynamic, personalized tutoring environments. The system utilizes principles of… <sub>⭐ 21 · TypeScript</sub>
-- [wilfredpine/Python-Tutorial](https://github.com/wilfredpine/Python-Tutorial) - Notebook tutorials for Python Programming Language (Fundamentals, OOP, MVT, Frameworks, Django, Machine Learning, NLP) <sub>⭐ 21 · Jupyter Notebook</sub>
-- [wywyWang/CoachAI](https://github.com/wywyWang/CoachAI) - Badminton coach ai: A badminton match data analysis platform based on deep learning (Physical Education Journal'20) <sub>⭐ 21 · Python</sub>
-- [bar181/agentic-professor](https://github.com/bar181/agentic-professor) - Gold-standard course design templates for AI-first education by Bradley.Academy. For course designers, instructional developers, and AI agents. Practical first; fundamentals before features; outcomes… <sub>⭐ 20</sub>
-- [hari7261/AI-Tutor](https://github.com/hari7261/AI-Tutor) - A privacy-focused tutoring assistant that explains concepts step-by-step and generates quizzes (MCQs). Works 100% offline with Ollama (Gemma/Llama3). <sub>⭐ 20 · Python</sub>
-- [HYH926/smart-learn](https://github.com/HYH926/smart-learn) - Smart Learn - Claude Code interactive learning skill. Feynman Technique five-step pipeline: concept map + Feynman explanation + self-test + association + summary. Zero dependencies, real-time Word +… <sub>⭐ 20 · Python</sub>
-- [IdkwhatImD0ing/AdaptEd](https://github.com/IdkwhatImD0ing/AdaptEd) - Lectures that talk back. AI tutor with real-time voice conversation, dynamic Gemini-driven slides, and emotion-aware pacing — built at LA Hacks 2024 (Google Gemini Challenge 1st + Fetch.ai… <sub>⭐ 20 · Jupyter Notebook</sub>
-- [Jeba-Jebarsan/insideai](https://github.com/Jeba-Jebarsan/insideai) - Watch a real AI model think - live 3D visualization of a transformer's actual forward pass: tokens, embeddings, attention, neurons, sampling <sub>⭐ 20 · TypeScript</sub>
-- [JulietChinenyeDuru/NaijaLearn-AI](https://github.com/JulietChinenyeDuru/NaijaLearn-AI) - AI-powered multilingual tutor built for Nigerian learners, powered by Claude AI. Supports English, Yoruba, Igbo, Hausa & Nigerian Pidgin. Personalized, accessible learning for underserved communities… <sub>⭐ 20 · HTML</sub>
-- [kj-huang/line-english-teacher](https://github.com/kj-huang/line-english-teacher) - A LINE chatbot powered by OpenAI that helps users practice English through conversational AI <sub>⭐ 20 · JavaScript</sub>
-- [leobeeson/single-file-ai-agent-tutorial](https://github.com/leobeeson/single-file-ai-agent-tutorial) - Python version of "How to Build an Agent" by Thorsten Ball <sub>⭐ 20 · Python</sub>
-- [liondw/Signal-Alignment](https://github.com/liondw/Signal-Alignment) - An initiative to create concise and widely shareable educational resources, infographics, and animated explainers on the latest contributions to the community AI alignment effort. Boosting the signal… <sub>⭐ 20</sub>
-- [michael-borck/study-buddy](https://github.com/michael-borck/study-buddy) - Provides an offline AI tutoring application built with Electron that runs locally on your computer using Ollama or Llama models, ensuring complete privacy without requiring internet connectivity. <sub>⭐ 20 · TypeScript</sub>
-- [nursnaaz/zero-to-genai-engineer](https://github.com/nursnaaz/zero-to-genai-engineer) - A free, open GenAI curriculum built from scratch. Start from zero, build real projects, and work your way up to production AI systems. <sub>⭐ 20 · Jupyter Notebook</sub>
-- [onhexgroup/Tutorials](https://github.com/onhexgroup/Tutorials) - Slides, codes, and materials related to my courses <sub>⭐ 20 · SWIG</sub>
-- [PGM-Lab/probabilisticAI_tutorials](https://github.com/PGM-Lab/probabilisticAI_tutorials) - Repo for the Tutorials of Day1-Day3 of the Nordic Probabilistic AI School 2019 (https://2019.probabilistic.ai/) <sub>⭐ 20 · Jupyter Notebook</sub>
-- [REp007/OpenCV-Tutorials](https://github.com/REp007/OpenCV-Tutorials) - OpenCV-Python image processing tutorial for beginners <sub>⭐ 20 · Python</sub>
-- [saniales/ai-lesson-planner](https://github.com/saniales/ai-lesson-planner) - Chat-first toolkit for teachers to plan complete courses and lessons with multi-agent workflows, template-based artifacts, and MARP slide generation. <sub>⭐ 20 · Shell</sub>
-- [startwithsahitya/vigilant-ai](https://github.com/startwithsahitya/vigilant-ai) - Vigilant AI is a dynamic GitHub project featuring dual logins for teachers and students. Teachers assign tests while students take them, with scores visible to both. Integrated microservices deliver… <sub>⭐ 20 · TypeScript</sub>
-- [5afagy/BashBard](https://github.com/5afagy/BashBard) - An AI-powered Linux shell tutor and command storyteller <sub>⭐ 19 · Python</sub>
-- [Abhijayshah/English-Tutor-AI](https://github.com/Abhijayshah/English-Tutor-AI) - Your Personal English Speaking Coach <sub>⭐ 19 · JavaScript</sub>
-- [abhiram-ar/aicademy-fontend](https://github.com/abhiram-ar/aicademy-fontend) - AIcademy is an LMS platform similar to Udemy, where students can access high-quality courses at affordable rates, and teachers can earn by selling their courses. AIcademy leverages Retrieval… <sub>⭐ 19 · TypeScript</sub>
-- [absterjr/AI-Tutor](https://github.com/absterjr/AI-Tutor) - An AI-Powered Python Script for Teaching Machine Learning Topics <sub>⭐ 19 · Python</sub>
-- [AIMLWG/AIML-tutorials](https://github.com/AIMLWG/AIML-tutorials) - Repository for containing the tutorial series for the AI/ML working group <sub>⭐ 19 · Jupyter Notebook</sub>
-- [AndreCNF/ccai-ss23-ai-monitoring-tutorial](https://github.com/AndreCNF/ccai-ss23-ai-monitoring-tutorial) - Experiments for the Climate Change AI summer school 2023 tutorial on "AI for Monitoring, Reporting, and Verification" <sub>⭐ 19 · HTML</sub>
-- [andrewsavio/Text-to-Speech-WebPage](https://github.com/andrewsavio/Text-to-Speech-WebPage) - Web-based Text-to-Speech Platform powered by Pocket-TTS, featuring a serverless frontend (Netlify/Vercel) and a scalable FastAPI backend for real-time voice generation. Designed for AI demos, EdTech… <sub>⭐ 19 · Python</sub>
-- [computerender/tutorials](https://github.com/computerender/tutorials) - Examples using the computerender API <sub>⭐ 19 · Python</sub>
-- [dineshpiyasamara/generative_ai_tutorial](https://github.com/dineshpiyasamara/generative_ai_tutorial) - Whether you're a beginner exploring LangChain or an advanced practitioner building scalable GenAI applications, this tutorial-style project provides modular examples and hands-on guidance to help you… <sub>⭐ 19 · Jupyter Notebook</sub>
-- [ginkgobioworks/ginkgoai-protein-embedding-tutorial](https://github.com/ginkgobioworks/ginkgoai-protein-embedding-tutorial) - Tutorial on how to use Ginkgo AI embedding APIs for scientific problems <sub>⭐ 19 · Jupyter Notebook</sub>
-- [htlin222/cps-skills](https://github.com/htlin222/cps-skills) - Claude Code skill for multi-persona Bayesian diagnostic reasoning using NEJM Clinical Problem-Solving format with likelihood ratios, evidence-based medicine, and medical AI education <sub>⭐ 19 · Python</sub>
-- [john-hawkins/data-science-first](https://github.com/john-hawkins/data-science-first) - Repository of code examples for the book "Data Science First: Using Language Models in AI-Enabled Applications" -- Broken down into case studies using data from media, education, telecommunications… <sub>⭐ 19 · Jupyter Notebook</sub>
-- [jrobchin/AI-Royale](https://github.com/jrobchin/AI-Royale) - Redefining competitive coding and education with real-time bot battle competitions. (Winner at Hack Western 5) <sub>⭐ 19 · Python</sub>
-- [Law-AI/codscomad2023tutorial](https://github.com/Law-AI/codscomad2023tutorial) - This repository contains links to different Law-AI resources such as datasets and tools. <sub>⭐ 19</sub>
-- [Leonxlnx/tutorialnexora](https://github.com/Leonxlnx/tutorialnexora) - Open-source Nexora AI product studio landing page built with Next.js and React. <sub>⭐ 19 · CSS</sub>
-- [llSourcell/mathvoice](https://github.com/llSourcell/mathvoice) - MathVoice — Voice-first AI math tutor with Socratic engine, built with Next.js and Claude <sub>⭐ 19 · TypeScript</sub>
-- [muhammadawaisshaikh/Edtech-AI](https://github.com/muhammadawaisshaikh/Edtech-AI) - Educational platform utilising Google AI to enhance student learning and note-taking experience. The app will offer features like voice note recording, transcription, image-to-text conversion… <sub>⭐ 19 · HTML</sub>
-- [Nauv357/pickq](https://github.com/Nauv357/pickq) - Turn PDFs, notes & screenshots into your own question bank — practice with spaced repetition & AI, fully offline. Windows desktop app. Free & local-first. <sub>⭐ 19 · Java</sub>
-- [Pairrot-Lore/agent-solarpanels-tutorial](https://github.com/Pairrot-Lore/agent-solarpanels-tutorial) - This repository contains an AI agent built with LangGraph to calculate energy savings for solar panels. The project is designed for use with LangGraph Studio for easy visualization and testing. <sub>⭐ 19 · Python</sub>
-- [pblsketch/k-teacher-skills](https://github.com/pblsketch/k-teacher-skills) - Korean teacher skill pack for lesson design, assessment-first planning, and classroom-context-aware AI workflows <sub>⭐ 19 · Python</sub>
-- [rudra496/devroadmaps](https://github.com/rudra496/devroadmaps) - Developer Roadmaps — 20 career paths, 870+ topics, 1,880+ free resources. PWA, certifications, community-driven. Your free guide from beginner to senior dev. <sub>⭐ 19 · JavaScript</sub>
-- [schullegerhard/500-AI-Agent-Projects](https://github.com/schullegerhard/500-AI-Agent-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation… <sub>⭐ 19 · JavaScript</sub>
-- [testgithubrittttttt/EMOTION-PERSONALITY-DETECTION-SYSTEM](https://github.com/testgithubrittttttt/EMOTION-PERSONALITY-DETECTION-SYSTEM) - Unleash AI with our advanced Facial Emotion and Personality Detection System using TensorFlow. This deep learning project accurately recognizes emotions from facial expressions and predicts… <sub>⭐ 19 · Jupyter Notebook</sub>
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - NOMAD项目是一个离线第一知识和教育服务器。维基百科、数千本书籍、课程、地图和可选的本地AI都运行在不需要互联网的硬件上。 <sub>⭐ 38.9k · TypeScript</sub>
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - 500AI代理项目是集AI代理使用案例于各行业的精密收藏,它展示了实用的应用,并提供开源项目的链接以供实施. . <sub>⭐ 38.2k · Python</sub>
+- [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - 一个GPT-4 AI 教学提示器,用于定制的个性化学习体验. <sub>⭐ 29.6k</sub>
+- [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - 面向中国学生,教师和IT专业人士的AI教材. <sub>⭐ 14.1k · HTML</sub>
+- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - 开发波士顿动力学风格的四脚机器人的开源四面体机器人宠物框架,适合STEM,编码与机器人教育,IoT机器人应用,AI-增强. <sub>⭐ 5.4k · C++</sub>
+- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - 为大语言模型,AI绘画等提供校准辅导及资源. <sub>⭐ 4.5k</sub>
+- [microsoft/AI-System](https://github.com/microsoft/AI-System) - AI教育资源系统. <sub>⭐ 4.4k · Python</sub>
+- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Communitys:免费的,手动的AI课程,在任何地方运行(Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act符合性证据,模型验证,预测维护,文档... <sub>⭐ 4.0k · Python</sub>
+- [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - 多代理系统、内存、规划、推理循环 <sub>⭐ 2.9k · Jupyter Notebook</sub>
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX,稳定扩散,SDXL,SD3,LORA,Fine Tuning,DreamBooth,Training,Autom1111,Forge WebUI,SwarmUI,DeepFake,TTS,动画,文本到视频,教程,指南,讲座,课程... <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch——Google,Meta,Anthropic的65个ML/AI采访问题,真实访谈中出现的问题. Jupyter笔记本,一个自动升级器,以及一个MCP AI导师. <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [penecho/penecho](https://github.com/penecho/penecho) - 与 AI 一起在聊天框之外思考。 一个共享的笔迹、方程式、图表和空间推理画布 。 <sub>⭐ 2.4k · JavaScript</sub>
+- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - 面向每个人的下一代开放源代码学习平台 <sub>⭐ 2.3k · Python</sub>
+- [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - 与Llama 3.1一起建造的AI个人辅导员 <sub>⭐ 2.1k · TypeScript</sub>
+- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - PageLM是NotebookLM & 教育平台的一个社区驱动版本,将学习材料转化为交互资源,如问答、闪卡、笔记和播客。 <sub>⭐ 2.0k · TypeScript</sub>
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI 基础设施工程师学习轨迹-生产 ML 基础设施课程(2-4年经验) <sub>⭐ 1.7k · Python</sub>
+- [DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) - ELI5 — 一个克劳德代码技能,它能向任何人解释任何事情:孩子、管理者、工程师、父母。适应语气、词汇和类比以匹配观众。 <sub>⭐ 1.6k · Python</sub>
+- [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) - 用于STEM教育和AI强化服务的可编程和高度机动的机器人猫. <sub>⭐ 1.4k · C++</sub>
+- [HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor) - ChatTutor:视觉和交互式AI导师 <sub>⭐ 1.3k · Vue</sub>
+- [mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe) - 学习AI写的东西,不只是接受它。克劳德代码技能将AI生成的代码转化为教育深潜。 <sub>⭐ 1.1k · Shell</sub>
+- [towardsai/tutorials](https://github.com/towardsai/tutorials) - 与AI有关的辅导课程。 <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [beltromatti/get-it](https://github.com/beltromatti/get-it) - 读吧,看吧,听吧,GDG AI Hack Milan2026为"学习不同"的赛道而建. <sub>⭐ 961 · JavaScript</sub>
+- [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - AI 教程由思维理论驱动 <sub>⭐ 932 · TypeScript</sub>
+- [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 恩基的开源课程! <sub>⭐ 831</sub>
+- [GarethManning/education-agent-skills](https://github.com/GarethManning/education-agent-skills) - 165 教师、学校领导和EdTech建设者基于证据的人工智能技能——教育学、学习科学、课程、评估和再生。 <sub>⭐ 820 · TypeScript</sub>
+- [maelfabien/Machine_Learning_Tutorials](https://github.com/maelfabien/Machine_Learning_Tutorials) - 我个人博客的代码、练习和辅导! <sub>⭐ 791 · Jupyter Notebook</sub>
+- [RoseCityRobotics/ai-developer-resources](https://github.com/RoseCityRobotics/ai-developer-resources) - 我是Duncan,罗斯城机器人公司的创始人。这个公共仓库是用来方便更新AI开发者的资源清单的,包括技术课程、书籍和关于人工... <sub>⭐ 764</sub>
+- [aaryansamanta/ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) - 高中研究组合:2份同行评审出版物(IEEE, IJHSR)+3个活跃项目,涵盖量子启发的ML,计算生物学,生物医学成像,野火RL,以及. <sub>⭐ 669 · HTML</sub>
+- [i-am-manware/Manware-s-AI-Learning-Toolkit](https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit) - 一个AI工具箱,将代理变成教师,而不是密码窃听机 <sub>⭐ 664</sub>
+- [mlcommons/ck](https://github.com/mlcommons/ck) - 集体知识(CK),集体心智(CM/CMX)和MLPerf自动化:由社区推动的项目,学习如何运行AI,ML,以及其他新出现的工作量更有效率,成本效益更高. . <sub>⭐ 651 · Python</sub>
+- [beihaili/Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) - 开源双语AI-native Web3课程:钱包,Bitcoin,Ethereum,DeFi,L2,DAO,智能账户,llms.txt和MCP <sub>⭐ 614 · JavaScript</sub>
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - 一个对话,AI设备+软件框架,用于伴奏,娱乐,教育,保健,IOT应用,以及DIY机器人. 搭建了Python,NextJS,Arduino,ESP32,LLMs(GPT-4o)...... <sub>⭐ 549 · TypeScript</sub>
+- [buynao/aipath](https://github.com/buynao/aipath) - 交互式AI 普通教育课程——30个课程,零数学 <sub>⭐ 513 · JavaScript</sub>
+- [aaryansamanta/ai-ethos](https://github.com/aaryansamanta/ai-ethos) - 501(c)(3) 非营利机构为得不到充分服务的学习者——低收入、农村、多语言和神经多样化学生提供合乎道德、包容性和多语言的人工智能辅导。 1 500名以上学生通过7个渠道得到帮助.。 <sub>⭐ 499 · PHP</sub>
+- [mehmetkahya0/AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - 庞大的AI模型目录。 一个跨越多个领域的AI工具、平台和资源的完整列表。 <sub>⭐ 491 · Shell</sub>
+- [ckaestne/seai](https://github.com/ckaestne/seai) - CMU讲座:生产/AI工程/AI启用系统的软件工程(SE4AI)中的机器学习 <sub>⭐ 454 · Jupyter Notebook</sub>
+- [PetoiCamp/OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - 一个基于ESP32的开源四重奏机器人宠物框架,用于开发波士顿动力学风格的四脚机器人,适合STEM,编码和机器人教育,IOT机器人应用. . <sub>⭐ 452 · C++</sub>
+- [omnitool-ai/omnitool](https://github.com/omnitool-ai/omnitool) - 官方 Omnitool 仓库 <sub>⭐ 450 · TypeScript</sub>
+- [riiid/ednet](https://github.com/riiid/ednet) - EdNet是圣诞老人在2年中收集的所有学生-系统互动的数据集,这是一个多平台AI辅导服务,韩国有超过780K用户通过Android,iOS和web提供. <sub>⭐ 384</sub>
+- [hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) - AI动力学习教练,与Claude Code进行空格重复 - 用个性化的音节和进度跟踪来掌握更快的知识 <sub>⭐ 380 · Python</sub>
+- [DharminJoshi/Final-Year-Project-Ideas-2025](https://github.com/DharminJoshi/Final-Year-Project-Ideas-2025) - 为毕业学生编写的100个创新和有影响力的项目构想清单,涵盖AI,可持续性,健康,教育,以及更多旨在激励创造力和现实世界的设计. <sub>⭐ 367</sub>
+- [minicoohei/ai-agent-camp](https://github.com/minicoohei/ai-agent-camp) - AI代理Camp——非工程师友好的AI代理培训课程. Claude Code, Cursor, and Codex的课本,技能,命令和钩子. <sub>⭐ 347 · Python</sub>
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) - 由Google的代理开发工具(ADK)所建的AI代理商的破译集:模板、最佳做法和可供研究、商业、自动化、教育等使用的生产范例。 <sub>⭐ 347 · Python</sub>
+- [canyongbs/advisingapp](https://github.com/canyongbs/advisingapp) - 由Canyon GBS 提供Appä的咨询,是一位AI授权的对话助理,为员工,学生成功平台,以及专为大专院校设计的招聘CRM,以增强学生能力. . <sub>⭐ 339 · PHP</sub>
+- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - 任意源(PDF,视频,网络,音频,文本)到交互式学习包,包含问答,闪卡和空格重复. One command, 12section study guide. <sub>⭐ 336 · Python</sub>
+- [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - 一个语音第一AI的病人模拟器,将医疗教育的未来带到你的浏览器,由克劳德·奥普斯4.7建造. <sub>⭐ 333 · TypeScript</sub>
+- [Paperspace/DinoRunTutorial](https://github.com/Paperspace/DinoRunTutorial) - 辅助代码 纸片空间教程 "构建AI来玩Dino Run" <sub>⭐ 326 · Jupyter Notebook</sub>
+- [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) - 让人工智能教你 并回答问题 - 只是打字! <sub>⭐ 323 · Python</sub>
+- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - 创建和编辑 AI 视频教程,并附有插图课、表达式介绍者、不同的声音和本地时间线。 Windows 桌面应用程序与本地模型和云提供商。 <sub>⭐ 313 · Python</sub>
+- [Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero](https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero) - 该寄存器为使用Raspberry Pi AI Kit构建AI项目提供了全面的一步步指南. <sub>⭐ 312 · Jupyter Notebook</sub>
+- [aicademyorg/AIcademy](https://github.com/aicademyorg/AIcademy) - 一个提供免费AI教育的友好社区. <sub>⭐ 308 · TypeScript</sub>
+- [DanielPodolsky/ownyourcode](https://github.com/DanielPodolsky/ownyourcode) - Claude Code 工作流程用于AI-mentored开发. Spec-Driven Development and the 6 Gates. Built to fight 认知卸载——供开发者使用AI生长和维护...... <sub>⭐ 290 · Shell</sub>
+- [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) - 聘请私人AI辅导员来做任何事情——它读到您如何真正学习,并教给你下一课。Bloom的2-Sigma研究是Claude Code技术+可自我接受的网络应用 。 。 。 <sub>⭐ 279 · JavaScript</sub>
+- [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - 包含与奥赖利2017年NYC AI大会上给出的"深度强化学习教程"相关的Jupyter笔记本. <sub>⭐ 276 · Jupyter Notebook</sub>
+- [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) - Robocode Tank Royale 的 Git 仓库 <sub>⭐ 268 · Kotlin</sub>
+- [CAHLR/OATutor](https://github.com/CAHLR/OATutor) - 开源智能调制系统 w/ BKT(ReactJS和Firebase) <sub>⭐ 264 · JavaScript</sub>
+- [ATOM00blue/machine-learning-library](https://github.com/ATOM00blue/machine-learning-library) - 自定义 APRL 机器学习算法 + 一个由923篇论文,讲座,和解释器组成的解析的 ML 知识库. NumPy 分类器/递归器,测试,基准,出处,Obsidian,以及代理准备... <sub>⭐ 254 · Python</sub>
+- [kabartay/openunivcourses](https://github.com/kabartay/openunivcourses) - FREE 顶级大学的ML课程 <sub>⭐ 253 · HTML</sub>
+- [ai-infra-curriculum/ai-infra-junior-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) - AI 基础设施初级工程师学习轨迹 -- -- 基础工程综合课程(0-2年经验) <sub>⭐ 245 · Python</sub>
+- [dair-ai/dair-ai.github.io](https://github.com/dair-ai/dair-ai.github.io) - AIR.AI之家 <sub>⭐ 244 · HTML</sub>
+- [towardsai/ai-tutor-rag-system](https://github.com/towardsai/ai-tutor-rag-system) - 这是面向AI的"从Beginner到LLM开发者"课程的寄存器. <sub>⭐ 241 · Jupyter Notebook</sub>
+- [SenmuuuuW/universal-diagnostic-tutor-skill](https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill) - STEM、AI/CS和更多领域的首个诊断-AI导师——没有模式或命令菜单。它决定了下一个有用的教学步骤,检查理解,建立掌握能力。 <sub>⭐ 235</sub>
+- [int64ago/vistep](https://github.com/int64ago/vistep) - 以AI来视觉"每一步"——双语视觉解释,互动模式和同步叙事. <sub>⭐ 234 · TypeScript</sub>
+- [BelieveDiffusion/tutorials](https://github.com/BelieveDiffusion/tutorials) - 关于培训和与稳定传播有关的生成的教程汇编。 <sub>⭐ 231</sub>
+- [walkinglabs/modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook) - 现代LLM架构的实践课程,培训,和推论,有一步步的PyTorch执行和可操作笔记本. <sub>⭐ 224 · Jupyter Notebook</sub>
+- [Berserk-hub150/moodle-ai-skill-navigator](https://github.com/Berserk-hub150/moodle-ai-skill-navigator) - AI动力的Moodle插件,用于辅导,测试,思维图,RAG课程材料等等. <sub>⭐ 222 · PHP</sub>
+- [GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) - 出色的人工智能(AI)和用于教育论文的大型语言模型(LLM). <sub>⭐ 220 · Jupyter Notebook</sub>
+- [NiluK/worldmodels101](https://github.com/NiluK/worldmodels101) - AI关于世界模型的自由互动课程。 关于预测、潜在动态、规划、JEPA、视频模型和故障模式的九个视觉章节。 <sub>⭐ 206 · TypeScript</sub>
+- [rsrohan99/rag-stream-intermediate-events-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - 关于如何通过服务器发送事件在RAG期间将中间的LlamaIndex事件正确发送到vercel ai sdk的教学. <sub>⭐ 195 · TypeScript</sub>
+- [shakedzy/companion](https://github.com/shakedzy/companion) - Generative-AI 掌权的外国语言私人导师 <sub>⭐ 194 · Python</sub>
+- [jellyfangs/messenger-bot-witai-tutorial](https://github.com/jellyfangs/messenger-bot-witai-tutorial) - 30分钟内用Wit.ai来装你的聊天机器人! <sub>⭐ 193 · JavaScript</sub>
+- [TirendazAcademy/PandasAI-Tutorials](https://github.com/TirendazAcademy/PandasAI-Tutorials) - 熊猫社的教学 <sub>⭐ 193 · Jupyter Notebook</sub>
+- [MatrixAINetwork/MATRIX_Tutorials](https://github.com/MatrixAINetwork/MATRIX_Tutorials) - 关于块链Dev的有价值的学习材料(包括Fabric和Ethereum),python implementation of blockchain_go,AI,深层学习,以及CN版本的"走进之路". <sub>⭐ 192 · Go</sub>
+- [read2017/learn-anything-with-AI](https://github.com/read2017/learn-anything-with-AI) - 通过项目驱动的学习,掌握检查,以及权威来源,可以重新使用AI学习技能,掌握几乎所有科目. <sub>⭐ 188 · Python</sub>
+- [amitshekhariitbhu/ai-agents-tutorial](https://github.com/amitshekhariitbhu/ai-agents-tutorial) - 逐步学习AI代理,从零开始——从调用代理循环到多代理系统,管弦乐,以及评价. <sub>⭐ 186</sub>
+- [FilippoMB/Diffusion_models_tutorial](https://github.com/FilippoMB/Diffusion_models_tutorial) - 收集传播模型的教程,分步实施指南,用AI生成图像的脚本,即时工程指南,以及进一步学习的资源. <sub>⭐ 186 · Jupyter Notebook</sub>
+- [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) - 将讲座幻灯片转换为闪卡,导出到安基。 OpenAI 使用 GPT-5。 AnkiGPT 已经生成 3 430 876 个闪卡 。 <sub>⭐ 184 · Dart</sub>
+- [Tebs-Lab/intro-to-deep-learning](https://github.com/Tebs-Lab/intro-to-deep-learning) - 帮助你学习深层学习的材料集 <sub>⭐ 184 · Jupyter Notebook</sub>
+- [PreferredAI/tutorials](https://github.com/PreferredAI/tutorials) - Preference.AI的教程系列 <sub>⭐ 183 · Jupyter Notebook</sub>
+- [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) - 您 Obsidian 金库的本地学习系统。 学习 Kit 用闪卡、 间距重复、 评论、 测试和 AI 工具将纸条转换为持久知识 。 <sub>⭐ 178 · TypeScript</sub>
+- [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - 使用 OpenAI (ChatGPT), Google (Gemini), Ollama (本地LLMS) 等模型从您的笔记中生成交互式闪卡。 或者手动创建您自己的卡片, 用测试的 UI 使用 。 <sub>⭐ 175 · TypeScript</sub>
+- [qingsongedu/awesome-AI-tutorials-surveys](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) - 关于DL、ML、DM、CV、NLP的教学和调查的专业清单,在高级AI会议和期刊上的演讲。 <sub>⭐ 169</sub>
+- [DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - 在大赦国际高层会议和期刊上发表论文、讲座和《时代系列AI调查》的专业清单。 <sub>⭐ 168</sub>
+- [dcavar/python-tutorial-notebooks](https://github.com/dcavar/python-tutorial-notebooks) - Python 教程作为 NLP, ML, AI 的 Jupyter 注解本 <sub>⭐ 166 · Jupyter Notebook</sub>
+- [flo7up/relataly-public-python-tutorials](https://github.com/flo7up/relataly-public-python-tutorials) - 流行收集实用的Python笔记本,用于机器学习,深层学习,时间序列,基因AI,以及分析. <sub>⭐ 162 · Jupyter Notebook</sub>
+- [artnitolog/awesome-agent-learning](https://github.com/artnitolog/awesome-agent-learning) - 用于学习的指南、课程和读取列表,以构建自主 LLM 代理 <sub>⭐ 160</sub>
+- [steveyeow/Feynman](https://github.com/steveyeow/Feynman) - 阅读费曼的书 以及不断演变的 代理模拟的伟大心灵网络 <sub>⭐ 160 · Python</sub>
+- [learning-commons-org/knowledge-graph](https://github.com/learning-commons-org/knowledge-graph) - 用于智能教育AI的数据层,将可信赖的教学内容和研究直接纳入你的AI动力工具——提高精确度,相关性和教学一致性. <sub>⭐ 157 · Python</sub>
+- [aieducations/edumcp](https://github.com/aieducations/edumcp) - EDUMCP是一种协议,将模式背景协议(MCP)与教育领域的应用整合在一起,致力于实现不同AI之间的无缝互联和互操作性. . <sub>⭐ 156 · Python</sub>
+- [zoonk/zoonk](https://github.com/zoonk/zoonk) - 将任何议题转化为明确、有条理的经验教训 <sub>⭐ 156 · TypeScript</sub>
+- [abdallah-ali-abdallah/pydantic-ai-agents-tutorial](https://github.com/abdallah-ali-abdallah/pydantic-ai-agents-tutorial) - 学习 Pydantic AI 代理, 一步步, 使用本地模型和 ollama <sub>⭐ 151 · Python</sub>
+- [artcc/freelingo](https://github.com/artcc/freelingo) - 开放源代码,自办AI语言学习平台与本地或云端LLMS,CEFR研究计划,AI导师,语音对话,闪卡,以及空位重复. <sub>⭐ 151 · JavaScript</sub>
+- [adrianhajdin/react-native-lingua](https://github.com/adrianhajdin/react-native-lingua) - 与实时AI语音老师一起反应原生Duolingo克隆. 以Expo,Stream Voice Agents, Clerk auth, 以及原生Wind为完整,互动的移动学习体验而构建. <sub>⭐ 150 · TypeScript</sub>
+- [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) - 自由开源AI文本人文化器——绕过GPTZero,Turnitin & AI检测器,并配有16+语言支持. 35个提供者,4个重写关卡,6个写作样式,9个文本目的,13个Tone Presets,多路口... <sub>⭐ 148 · TypeScript</sub>
+- [chipmates/agoracosmica](https://github.com/chipmates/agoracosmica) - 30位历史人物,他们的生活被描述, 他们的想法被开放 对话,英语和德语,非营利,开放的源。 <sub>⭐ 145 · TypeScript</sub>
+- [daveebbelaar/pydantic-ai-tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) - 学习如何用 PydanticAI 构建AI 代理 <sub>⭐ 142 · Python</sub>
+- [IDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation](https://github.com/IDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) - 一个简单的关于如何生成图像/文本/代码及其限制的 ChatGPT AI 教程 <sub>⭐ 142 · Python</sub>
+- [yuxino/satori](https://github.com/yuxino/satori) - macOS和Windows的AI PDF阅读器:询问页面,图表和代码,有本地读取历史. AI PDFQQ <sub>⭐ 140 · TypeScript</sub>
+- [opena2a-org/damn-vulnerable-ai-agent](https://github.com/opena2a-org/damn-vulnerable-ai-agent) - 可恶的弱势AI代理是一个故意脆弱的AI代理平台,用于安全测试和教育. <sub>⭐ 139 · JavaScript</sub>
+- [serenakeyitan/open-exam-skills](https://github.com/serenakeyitan/open-exam-skills) - 为高中和大学学生、教师和助学人员编写的高质量学习技能汇编。不用安装技能即可在Kael.im直接免费使用。 <sub>⭐ 139 · Python</sub>
+- [GetStream/stream-tutorial-projects](https://github.com/GetStream/stream-tutorial-projects) - 此repo包含SwiftUI,Jetpack Compacose,JS & React Independence项目为部分iOS,Android,以及Stream Developers YouTube频道的AI教程系列. . <sub>⭐ 134 · Swift</sub>
+- [h2oai/tutorials](https://github.com/h2oai/tutorials) - 这是H2O.ai推出的所有教程的重播,包括学习无驱动器AI,H2O-3,Sparkling Water等的路径. <sub>⭐ 134 · Jupyter Notebook</sub>
+- [luxonis/ai-tutorials](https://github.com/luxonis/ai-tutorials) - 我们训练过的一些神经模型 以及训练剧本 <sub>⭐ 132 · Jupyter Notebook</sub>
+- [GeminiLight/gen-mentor](https://github.com/GeminiLight/gen-mentor) - (WW '25 口头 - GenMentor) 我们的文件"智能图书系统中面向目标的学习LLM动力多代理框架"的官方代码,被WWW 2025(工业轨道)接受为口头...... <sub>⭐ 128 · TypeScript</sub>
+- [zijinz456/OpenTutor](https://github.com/zijinz456/OpenTutor) - 第一个基于块的适应性学习工作空间在本地运行。 上传任何材料__ 获得AI生成的笔记, 问答, 闪卡, 以及一个适应性辅导员。 开源, 自托管, 10+ LLM... <sub>⭐ 128 · Python</sub>
+- [Happy-Chen-CH/Educational_RAG_System](https://github.com/Happy-Chen-CH/Educational_RAG_System) - 端到端教育RAG系统:双引擎检索(BM25 + BGE-M3混合向量搜索),适应性查询策略(HyDE/sub-query/后跟踪),BERT意图分类,BGE-Ranker. <sub>⭐ 127 · Python</sub>
+- [nileshhadalgi016/Awesome-ML-AI-Tutorial](https://github.com/nileshhadalgi016/Awesome-ML-AI-Tutorial) - 机器学习和人工智能综合数学教程 <sub>⭐ 126 · Jupyter Notebook</sub>
+- [shigella520/MindTrain](https://github.com/shigella520/MindTrain) - AI驱动的知识培训平台有可插件调度器,Codex技能集成,以及可选的Anki/FRS支持. <sub>⭐ 125 · Java</sub>
+- [FrancoisPorcher/awesome-ai-tutorials](https://github.com/FrancoisPorcher/awesome-ai-tutorials) - 最好的AI教程集 让你成为数据科学的老板! <sub>⭐ 124 · Python</sub>
+- [pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) - 人工智能代理人处理演示的技能----对教师和演讲者有帮助。 <sub>⭐ 124 · Python</sub>
+- [webworn/openfoam-mcp-server](https://github.com/webworn/openfoam-mcp-server) - LLM 动力的 OpenFOAM MCP 服务器,用于使用 Socratic 质询和专家错误解析的智能 CFD 教育 <sub>⭐ 121 · C++</sub>
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources) - 每天更新有关AI的资源,涉及多个领域,包括ML,发展,教育,保健,房地产,机器人,密码,网络3等等,由爱好者负责. <sub>⭐ 119</sub>
+- [Frisher1/ClaudeCode-Workflow-Lab](https://github.com/Frisher1/ClaudeCode-Workflow-Lab) - 完整指南 2026: Claude 代码手册 - 工作流程管道和逆向预算环路 <sub>⭐ 117 · HTML</sub>
+- [anandpatikat/guru-latihan-dinamis](https://github.com/anandpatikat/guru-latihan-dinamis) - 革命性印尼考试准备:AI教师工具2026 <sub>⭐ 116 · HTML</sub>
+- [jakeprins/nextjs-chatgpt-tutorial](https://github.com/jakeprins/nextjs-chatgpt-tutorial) - 用 Next.js 、 TypeScript 和 TailwindCSS 构建自己的 ChatGPT 应用程序。 <sub>⭐ 115 · TypeScript</sub>
+- [ARYPROGRAMMER/Video-Generator-AI](https://github.com/ARYPROGRAMMER/Video-Generator-AI) - Next.js应用程序基于客户端提供的查询生成视频,它被设计为一个SaaS平台,允许用户方便地为各种目的创建接触视频内容,例如. <sub>⭐ 111 · JavaScript</sub>
+- [MinaPecheux/UnityTutorials-BehaviourTrees](https://github.com/MinaPecheux/UnityTutorials-BehaviourTrees) - 如何使用Unity/C#(文本或视频格式)中的行为树创建简单的守护AI的短训课程的代码! <sub>⭐ 109 · C#</sub>
+- [The-Pocket/PocketFlow-Tutorial-Website-Chatbot](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot) - 用于您的网站的“ 设置和忘记” AI 聊天台 - 它自动学习您的网站 <sub>⭐ 109 · JavaScript</sub>
+- [EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor](https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor) - {在一分钟内生成纪念困难词汇的映射符}{分析困难词汇,句子,以及段落。}{}“us-chatgpt -learn english”,TOEFL, IELTS... <sub>⭐ 108</sub>
+- [obadx/quran-muaalem](https://github.com/obadx/quran-muaalem) - 《古兰经》教师AI <sub>⭐ 108 · Python</sub>
+- [oluiscabral/studorama](https://github.com/oluiscabral/studorama) - 人工智能推动的学习课程,以加强你的学习 <sub>⭐ 108 · TypeScript</sub>
+- [parz0val0/scan-to-practice](https://github.com/parz0val0/scan-to-practice) - 扫描到实践:一种实地测试的AI技能和方法,将扫描的学习材料转化为结构化的实践产品. <sub>⭐ 108</sub>
+- [Open-TutorAi/open-tutor-ai-CE](https://github.com/Open-TutorAi/open-tutor-ai-CE) - 开放源码项目,旨在提供一个教育与合作的AI动力平台 <sub>⭐ 107 · JavaScript</sub>
+- [cxbxmxcx/Nexus](https://github.com/cxbxmxcx/Nexus) - AI Agent Nexus是一个开发,测试,托管AI Agents的开源平台,由Streamlit和Gradio共同构建,它提供方便用户的聊天界面,并专注于教学核心. . <sub>⭐ 106 · Python</sub>
+- [doomL/langchain-langgraph-tutorial](https://github.com/doomL/langchain-langgraph-tutorial) - 为 LangChain, LangGraph 和 LangSmith 使用 Groq LLM 进行综合辅导。 学习构建先进的AI系统, 从基本到生产准备的应用。 涵盖关键概念, 现实世界... <sub>⭐ 105 · Jupyter Notebook</sub>
+- [Haleshot/Deep-ML](https://github.com/Haleshot/Deep-ML) - 深层学习挑战与AI教育平台. Deep-ML是一个网站,致力于让深层学习挑战无障碍和接触,为.提供各种AI相关问题. <sub>⭐ 102 · Python</sub>
+- [knoxiboy/DoubtDesk](https://github.com/knoxiboy/DoubtDesk) - 我们建了一个匿名的 AI 驱动的疑惑解析平台 整合到教室里 让学生可以毫无恐惧地提问 得到即时的答案 <sub>⭐ 98 · TypeScript</sub>
+- [stanek-michal/local_AI_code_assistant_tutorial](https://github.com/stanek-michal/local_AI_code_assistant_tutorial) - 如何设置 LMStudio 和 VSCode Stephen.dev 扩展作为本地和私人编码的 Copilot。针对32GB RAM Apple硅设备。 <sub>⭐ 98</sub>
+- [bigdata-ustc/Agent4Edu](https://github.com/bigdata-ustc/Agent4Edu) - Agent4Edu:由基于LLM的智能教育系统代理生成学习者响应数据(AAAI 2025,口头介绍) <sub>⭐ 95 · Python</sub>
+- [shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models](https://github.com/shahidazam2020-oss/A-Systematic-Literature-Review-of-Retrieval-Augmented-Generation-RAG-Models) - 对检索增强生成(RAG)模型进行系统的文献审查,涵盖架构,检索技术,现实世界应用,性能改进,新出现的挑战. . <sub>⭐ 93</sub>
+- [pittisl/Generative-AI-Tutorial](https://github.com/pittisl/Generative-AI-Tutorial) - 基因AI研究的主观学习指南 <sub>⭐ 92</sub>
+- [Deen-Bridge/dnb-frontend](https://github.com/Deen-Bridge/dnb-frontend) - Deen Bridge — Next.js 伊斯兰真人教育平台(课程,书籍,空间,导师),由一位引用的AI助手和非监禁Stellar/USDC支付. <sub>⭐ 91 · JavaScript</sub>
+- [Halleck45/OpenPronounce](https://github.com/Halleck45/OpenPronounce) - 开源手机me级英语发音评估(Wav2Vec2 + DTW). 自主办Azure发音评估的替代方案. <sub>⭐ 91 · Python</sub>
+- [RobotsBuildingEducation/Educate](https://github.com/RobotsBuildingEducation/Educate) - AI 编码导师 <sub>⭐ 90</sub>
+- [ahmedEid1/lumen](https://github.com/ahmedEid1/lumen) - Lumen——学习者拥有的AI教育平台. 告诉AI你想学什么:它在~1分钟内为您建造了私人课程,用课程范围RAG+引用来指导您,让你分享,克隆...... <sub>⭐ 88 · Python</sub>
+- [braviaprime/proctorai](https://github.com/braviaprime/proctorai) - AI 具有面部识别,网络摄像头,浏览器和音频检查功能的网络测试系统确保了远程评估的完整性. Flask原型达到了~72%的功能精度和90 的检测率. . <sub>⭐ 88 · HTML</sub>
+- [gopinav/Next.js-AI-Tutorials](https://github.com/gopinav/Next.js-AI-Tutorials) - 与YouTube上的Next.js AI课程视频相关的源代码 <sub>⭐ 87 · TypeScript</sub>
+- [learning-commons-org/evaluators](https://github.com/learning-commons-org/evaluators) - 对人工智能产出的评价与信任的教育主题相对应,用研究支持的主题衡量和提高内容质量——确保严谨、可靠和符合课堂需求。 <sub>⭐ 84 · TypeScript</sub>
+- [dongzhang84/snowboat-blog](https://github.com/dongzhang84/snowboat-blog) - 中文深度分析文章,涵盖AI & 商业,教育,太空探索等. <sub>⭐ 83 · Python</sub>
+- [kirill-markin/flashcards-open-source-app](https://github.com/kirill-markin/flashcards-open-source-app) - 为iOS,Android和网络的日常认真研究而构建的AI动力闪卡应用软件,用它来准备考试,学习词汇,记住技术术语和事实,用AI改进你的材料...... <sub>⭐ 83 · TypeScript</sub>
+- [ShawhinT/ai-tutor-skill](https://github.com/ShawhinT/ai-tutor-skill) - Claude解释技术AI概念的技巧实例。 <sub>⭐ 81 · Python</sub>
+- [0xfnzero/AI-Code-Tutorials](https://github.com/0xfnzero/AI-Code-Tutorials) - Claude Code和OpenAI Codex的双语AI编码教程:设置,CLI,Codex工作流程,MCP,代理,代码审查,即时工程,以及网络项目. <sub>⭐ 80</sub>
+- [Geralt-Targaryen/Awesome-Education-LLM](https://github.com/Geralt-Targaryen/Awesome-Education-LLM) - LLM研究与教育应用目录. <sub>⭐ 80</sub>
+- [nakafaai/nakafa.com](https://github.com/nakafaai/nakafa.com) - AI 土著免费高质量学习平台(K-12至大学) <sub>⭐ 79 · TypeScript</sub>
+- [nikit0ns/artificial-intelligence-library](https://github.com/nikit0ns/artificial-intelligence-library) - 人工智能图书馆——一个精细的馆藏图书馆,共有超过320个顶级AI平台,分为16个不同类别. <sub>⭐ 78</sub>
+- [bermufine/dcmp](https://github.com/bermufine/dcmp) - {"类别":({"名称":"电影",videos):({"描述":"1945年刚果全国广播电视台(La Radio-Télévisione est creée en 1945. Elle prend le nom de'Office zaïrois de radiodifusation and de televisão (OZRT))...... <sub>⭐ 76</sub>
+- [Center-for-AI-Innovation/ai-teaching-assistant-uiuc](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc) - 多型号 TA_ Chatbot 的 UX 驱动码( D) <sub>⭐ 76 · Python</sub>
+- [ai-infra-curriculum/ai-infra-performance-learning](https://github.com/ai-infra-curriculum/ai-infra-performance-learning) - AI 基础设施性能工程师学习轨迹 - GPU优化,推论优化,成本降低 <sub>⭐ 75 · Python</sub>
+- [bobhaotian/speech-driven-lessons](https://github.com/bobhaotian/speech-driven-lessons) - 这是一个综合性的学习管理系统,旨在通过AI驱动的课程创建和提供来革命性地实现在线教育. 该平台赋予教育工作者创造,管理. <sub>⭐ 74 · TypeScript</sub>
+- [HuckleR2003/PC_Workman_HCK](https://github.com/HuckleR2003/PC_Workman_HCK) - 系统显示器使用离线AI(82个意图,9层路由),学习你的PC. TURBO优化,热基线,电压SPC,幽灵驱动程序检测,373流程定义. 优化... <sub>⭐ 74 · Python</sub>
+- [cojudge/cojudge](https://github.com/cojudge/cojudge) - 解决经典的 LeetCode 问题完成离线。 没有讨论论坛、 LLM 助理, 甚至连互联网也没有。 只有你、 问题和离线法官才能解决解析列表 。 <sub>⭐ 72 · Svelte</sub>
+- [RylanSchaeffer/Stanford-AI-Alignment-Double-Descent-Tutorial](https://github.com/RylanSchaeffer/Stanford-AI-Alignment-Double-Descent-Tutorial) - Arxiv 双向解密码: 识别、 解释和模拟深层学习谜题的来源 <sub>⭐ 72 · Python</sub>
+- [yh2072/edgameclaw](https://github.com/yh2072/edgameclaw) - EdGameClaw:将任何学习材料转换成基于游戏的课程——由AI提供动力. <sub>⭐ 71 · Python</sub>
+- [ranausmanai/tinyforge](https://github.com/ranausmanai/tinyforge) - 一个小的模型,教自己更好的密码。在笔记本电脑上。没有云,没有老师模型,没有人类反馈。 <sub>⭐ 70 · Python</sub>
+- [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub) - 学习Python、机器学习和AI的资源。 <sub>⭐ 67 · Jupyter Notebook</sub>
+- [HHousen/lecture2notes](https://github.com/HHousen/lecture2notes) - 将讲座视频转换为使用 AI & 机器学习的注解。 题为“ Lecture2Notes: 通过分类幻灯片和通过机器学习分析文本来总结讲座视频 ” 的研究代码 。 <sub>⭐ 67 · Jupyter Notebook</sub>
+- [shauryagangrade/awesome-ai-prompts](https://github.com/shauryagangrade/awesome-ai-prompts) - 校准复制版的 AI 提示 学生开发者 - 校准的编码代理的规范工作流程,不要猜测 <sub>⭐ 67 · HTML</sub>
+- [cloneofsimo/ptx-tutorial-by-aislop](https://github.com/cloneofsimo/ptx-tutorial-by-aislop) - PTX- Tutorial Writely by AIs (对Openai和克劳德的深度研究) 纯写作(由人工智能编写) <sub>⭐ 66 · TeX</sub>
+- [sid-thephysicskid/leap](https://github.com/sid-thephysicskid/leap) - Leap:AI动力教育动画生成器 <sub>⭐ 66 · Jupyter Notebook</sub>
+- [Celebez/tutorial-cloudflare-agents-bot](https://github.com/Celebez/tutorial-cloudflare-agents-bot) - 教程 lengkap:云浮工人+页面+捆绑+AI代理+Telegram Bot——一步步,没有API键,publik <sub>⭐ 65</sub>
+- [DATANOMIQ/prompt_engineering_guide](https://github.com/DATANOMIQ/prompt_engineering_guide) - 《2025年大赦国际公约》(IHK Schwaben) <sub>⭐ 65 · Python</sub>
+- [dwhitena/oreilly-ai-k8s-tutorial](https://github.com/dwhitena/oreilly-ai-k8s-tutorial) - O'Reilly AI SF 2018 "AI on Kubernetes"教程的材料 <sub>⭐ 65 · Python</sub>
+- [098765d/AI_Tutor](https://github.com/098765d/AI_Tutor) - AI-Tutor:各种课程的LLM和RAG强化的AI导师 <sub>⭐ 63 · Python</sub>
+- [amosgyamfi/swiftui_tutorial_projects](https://github.com/amosgyamfi/swiftui_tutorial_projects) - SwiftUI为我的YouTube教程和中篇文章进行项目. <sub>⭐ 63 · Swift</sub>
+- [A-R007/Multi-Agent-Study-Assistant](https://github.com/A-R007/Multi-Agent-Study-Assistant) - AI动力的学习平台,有6个个人化教育的专门代理. 特色是适应性路线图,测试,辅导,RAG文档QQA,以及学习风格的改造. 建于Phidata... <sub>⭐ 61 · Python</sub>
+- [bijonai/EchoAI](https://github.com/bijonai/EchoAI) - EchoAI:与自己的同学一起探索知识. <sub>⭐ 61 · TypeScript</sub>
+- [OlimpiadaAI/II-OlimpiadaAI](https://github.com/OlimpiadaAI/II-OlimpiadaAI) - oficjalne repozytorium drugiej edycji ogólnopolskiej 奥利姆皮亚迪 Sztucznej Inteligencji 维基语录链接:名人名言 - 文学作品 - 谚语 - 谚语 - 谚语 - 谚语 <sub>⭐ 61 · Jupyter Notebook</sub>
+- [Haleshot/marimo-tutorials](https://github.com/Haleshot/marimo-tutorials) - 收集包含不同领域的笔记本/应用程序实例的marimo教程-CS/AI/ML <sub>⭐ 60 · Python</sub>
+- [SirhanMacx/Claw-ED](https://github.com/SirhanMacx/Claw-ED) - 本地第一AI 教学助理,用于编辑课程草稿、学生材料和幻灯片。使用课程和选择的模型。教师评审了β。 <sub>⭐ 60 · Python</sub>
+- [AjayJ19/ShadowLens](https://github.com/AjayJ19/ShadowLens) - ShadowLens – EdTech平台实时AI隐私检查员 A Chrome扩展+弗拉斯克动力的AI后端分析教育网站实时发现隐私风险,品牌. . <sub>⭐ 59 · Python</sub>
+- [The-Pocket/PocketFlow-Tutorial-AI-Paul-Graham](https://github.com/The-Pocket/PocketFlow-Tutorial-AI-Paul-Graham) - 口袋流导教学项目:AI Paul Graham,以防你进不去... <sub>⭐ 59 · Python</sub>
+- [NathalyDM/nath.biohack](https://github.com/NathalyDM/nath.biohack) - 这个项目由我创建,旨在提供高质量、无障碍和. <sub>⭐ 58 · Jupyter Notebook</sub>
+- [HumphreySun98/Smart-Study-Agent](https://github.com/HumphreySun98/Smart-Study-Agent) - 学会如何学习的人工智能研究代理人——RL选择动作,FSRS选择时间,LLM只写测试. Chrome扩展 ^ Anki导出 → MCP服务器 ~运行在Ollama上. <sub>⭐ 57 · JavaScript</sub>
+- [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) - Brightspace (D2L) 的 MCP 服务器。 通过 Claude, ChatGPT, Cursor, Windsurf 或任何 MCP 客户端检查级别、到期日期、任务、公告、名册、课程大纲和课程内容。 <sub>⭐ 57 · TypeScript</sub>
+- [wenzhenl/wikitimeline](https://github.com/wenzhenl/wikitimeline) - 维基百科中的相关条目: 将维基百科的文章转换成互动时间表,可以比较历史数字/事件,发现令人惊讶的关联 <sub>⭐ 57 · TypeScript</sub>
+- [clear-nus/CS5340-notebooks](https://github.com/clear-nus/CS5340-notebooks) - CS5340的笔记本:在北澳大利亚州AI中的不确定模型 <sub>⭐ 56 · Jupyter Notebook</sub>
+- [AI4Finance-Foundation/AI4Finance-Education](https://github.com/AI4Finance-Foundation/AI4Finance-Education) - 教育渠道 <sub>⭐ 55</sub>
+- [heshengtao/exameow](https://github.com/heshengtao/exameow) - AI动力考试问题生成器 上传学习材料,数秒后获得考试问题. 开源,本地第一,跨平台. <sub>⭐ 55 · TypeScript</sub>
+- [princechhimpachhimpasaab-lang/omega-epsilon-problem-forge](https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge) - 奥运问题发电机 2026年:创造无限西班牙数学奥运-风格挑战 <sub>⭐ 55 · HTML</sub>
+- [balavenkatesh3322/free-ai-certification](https://github.com/balavenkatesh3322/free-ai-certification) - 您的一站式存储器100%免费,高质量的AI认证 由顶级大学,公司,和平台提供. <sub>⭐ 54 · HTML</sub>
+- [jasp-nerd/canvas-course-downloader](https://github.com/jasp-nerd/canvas-course-downloader) - 用于下载、导出和备份 Canvas LMS 课程、文件、任务、页面、模块、教学大纲、成绩等所有内容的 Chrome 扩展。 一击, 没有 API 密钥。 完美可归档... <sub>⭐ 54 · JavaScript</sub>
+- [q1sun/Tutorial-AI4SC-SC4AI](https://github.com/q1sun/Tutorial-AI4SC-SC4AI) - 科学计算与人工智能相交之处 <sub>⭐ 54 · Jupyter Notebook</sub>
+- [shaungt1/-open-source-datasets-for-data-science](https://github.com/shaungt1/-open-source-datasets-for-data-science) - 数据科学和机器学习项目的最佳自由,开源数据集. 顶级政府数据包括人口普查,经济,金融,农业,图像数据集,标签和无标签. <sub>⭐ 54 · Jupyter Notebook</sub>
+- [Tanzania-AI-Community/twiga](https://github.com/Tanzania-AI-Community/twiga) - Twiga是坦桑尼亚教育家的WhatsApp机器人。 <sub>⭐ 54 · Python</sub>
+- [deneyapkart/deneyapkart-arduino-core](https://github.com/deneyapkart/deneyapkart-arduino-core) - Deneyap DevKits 的 Arduino 核心 <sub>⭐ 53 · C</sub>
+- [ymrohit/openscenesense-ollama](https://github.com/ymrohit/openscenesense-ollama) - OpenSceense Ollama是一个Python图书馆,它利用AI进行先进的本地视频分析,为媒体,教育和内容中的动态应用提供可定制的框架和音频见解. . <sub>⭐ 53 · Python</sub>
+- [Queena34/StudyPilot](https://github.com/Queena34/StudyPilot) - 双语AI学习导师,只从自己的课程材料中解答,并引用 <sub>⭐ 52 · Python</sub>
+- [ALLENYEUNG365/AI-GO-Community-English-Learning](https://github.com/ALLENYEUNG365/AI-GO-Community-English-Learning) - AI增强的社区英语学习平台,将实用语言实践,学习习惯,AI援助,以及社会互动结合起来,形成更方便,更可持续的. . <sub>⭐ 51 · TypeScript</sub>
+- [microsoft/StudentSim](https://github.com/microsoft/StudentSim) - StudentSim是模拟学生如何回应学习材料的AI模型的培训和评价研究框架,研究目标是为AI辅导研究人员提供现实的...... <sub>⭐ 51 · HTML</sub>
+- [code-forge-temple/local-llm-npc](https://github.com/code-forge-temple/local-llm-npc) - 为Google Gemma 3n撞击挑战游戏制作的交互式教育游戏. <sub>⭐ 50 · C#</sub>
+- [Nurkan1/Anatria-3D](https://github.com/Nurkan1/Anatria-3D) - 本地首个3D解剖学地图集,并配有AI导师,驱动观光门. 雄性和雌性的地图集,3,697个结构,下线工作,根据BSL 1.1免费学习和教学;从2030年开始,Apache-2.0. <sub>⭐ 50 · TypeScript</sub>
+- [sugarforever/OpenAI-Tutorials](https://github.com/sugarforever/OpenAI-Tutorials) - 从基础到高级的 OpenAI 教程 <sub>⭐ 50 · Jupyter Notebook</sub>
+- [vimalinx/ArtIflow](https://github.com/vimalinx/ArtIflow) - Android AI学习伴奏与刷新第一的学习:左转继续,右转挖掘更深,加上图像QQA,LaTeX,语音后续,以及辅导. <sub>⭐ 50 · Kotlin</sub>
+- [CodeWithJV/ai-tutor](https://github.com/CodeWithJV/ai-tutor) - 将大型语言模型变成超充值的家教,学习任何东西 <sub>⭐ 49</sub>
+- [hemansnation/Neurons-To-GenerativeAI](https://github.com/hemansnation/Neurons-To-GenerativeAI) - GenerativeAI、LLM、RAG和LangChain技术Bootcamp,包括使用案例、案例研究和GenerativeAI应用部署。 <sub>⭐ 49 · Jupyter Notebook</sub>
+- [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) - 使用TypeScript Agent教授AI工程循环的端到端朗福斯工作坊:追踪,即时管理,监测,数据集,实验,以及评价. <sub>⭐ 49 · TypeScript</sub>
+- [SunFish98/VideoDigestAgent](https://github.com/SunFish98/VideoDigestAgent) - 自动监控YouTube频道的新视频,提取记录稿,自动检测内容类型(库存,加密,播客,技术审查,教育,新闻等),生成量身定制的总结. . <sub>⭐ 49 · Python</sub>
+- [xl631212/AiTA_Personal-AI-College-Tutor](https://github.com/xl631212/AiTA_Personal-AI-College-Tutor) - 帮助理解讲座材料和问题表。 <sub>⭐ 49 · Python</sub>
+- [Adhhhithya/qb_generator_ai_agent](https://github.com/Adhhhithya/qb_generator_ai_agent) - 使用Bloom的分类学, 一个用于生成、审计和管理结果匹配的评估问题的全存储式EdTech系统, 其特点是 FastAPI 后端、 PostgreSQL 恒定和基于反应的... <sub>⭐ 48 · Python</sub>
+- [EricHe98/Teacher-Student-Training](https://github.com/EricHe98/Teacher-Student-Training) - 这个寄存处存储了我暑期实习工作所用的关于"师生学习"的文件,这是使用训练有素的教师模型来训练深层神经网络的一种实验方法. <sub>⭐ 48 · Jupyter Notebook</sub>
+- [frankarobotics/the_reference_platform](https://github.com/frankarobotics/the_reference_platform) - 关于AI和机器人研究和教育参考平台的教学 <sub>⭐ 48 · C++</sub>
+- [timothywarner-org/prompt-pro](https://github.com/timothywarner-org/prompt-pro) - AI大师激励企业创新. O'Reilly Live Learning课程由蒂姆·华纳(Tim Warner)负责ChatGPT,克劳德,Copilot,和企业的快速工程,与MCP执行. <sub>⭐ 48 · PowerShell</sub>
+- [dobriban/Principles-of-AI-LLMs](https://github.com/dobriban/Principles-of-AI-LLMs) - AI课程的材料原理:UPenn的LLMs(Stat 9911, Spring 2025). LLM架构,培训范式(培训前后,校对),测试时间计算,推理,安全... <sub>⭐ 47</sub>
+- [InfinityZero3000/LexiLingo](https://github.com/InfinityZero3000/LexiLingo) - 使用小说 Trace-CAG 管道进行零卤化教学反馈的下一代AI语言导师 <sub>⭐ 47 · Python</sub>
+- [DigitalHarborFoundation/llm-math-education](https://github.com/DigitalHarborFoundation/llm-math-education) - 为中学生数学问题回答和提示生成检索增强生成能力. <sub>⭐ 46 · Jupyter Notebook</sub>
+- [dlopezyse/AI-for-Bio](https://github.com/dlopezyse/AI-for-Bio) - 用于生物学的机器学习的自由合作空间 <sub>⭐ 46 · Jupyter Notebook</sub>
+- [kevindegila/construire-un-llm-de-zero](https://github.com/kevindegila/construire-un-llm-de-zero) - 22名牧师的笔记, 紧张主义主义代理人 IA. Le Livre et se svisionismings 交互式:llmdezero.com <sub>⭐ 46 · Jupyter Notebook</sub>
+- [ryannli/immersive-reading](https://github.com/ryannli/immersive-reading) - 将密集的长形思想转变为浸润读物版. <sub>⭐ 46 · JavaScript</sub>
+- [atef-ataya/Large-Language-Models-Tutorial](https://github.com/atef-ataya/Large-Language-Models-Tutorial) - 通过互动的Jupyter Notebook教程学习AI,ML和NLP. <sub>⭐ 45 · Jupyter Notebook</sub>
+- [proflead/google-ai-studio-tutorial](https://github.com/proflead/google-ai-studio-tutorial) - Google AI Studio 初学者教学 <sub>⭐ 45</sub>
+- [kaorii-ako/Shiori-v1](https://github.com/kaorii-ako/Shiori-v1) - 开源AI研究伴奏——谷歌课堂同步,双子AI计划,SRS闪存卡,GPA预测器,AI问答,Claude Code的MCP服务器. Try demo at shiori-v1.vercel.app. <sub>⭐ 44 · JavaScript</sub>
+- [ArnaudGuiovanna/tutor-mcp](https://github.com/ArnaudGuiovanna/tutor-mcp) - 一个开源的MCP服务器,将任何LLM转化为智能图腾系统. 认知科学50年,麻省理工学院获得许可. <sub>⭐ 43 · Go</sub>
+- [harvard-lil/lawskills-hub](https://github.com/harvard-lil/lawskills-hub) - 法律教育的AI代理技能集 <sub>⭐ 43 · HTML</sub>
+- [mukherjeesrijit/AI-tutorials](https://github.com/mukherjeesrijit/AI-tutorials) - AI、其应用及其基础的辅导、资源和社区。 <sub>⭐ 43 · Jupyter Notebook</sub>
+- [ravsau/ai-tutorials](https://github.com/ravsau/ai-tutorials) - youtyeti ai 教程中附带的代码和文件 <sub>⭐ 43 · HTML</sub>
+- [romanticamaj/promptasy](https://github.com/romanticamaj/promptasy) - 一个浏览器游戏,通过播放来学习即时工程——探索一个世界,并通过写出提示来解决挑战. OpenAI,Anthropic,Google & xAI的技巧,各引用了. <sub>⭐ 43 · JavaScript</sub>
+- [zhangl1001/civil-ai](https://github.com/zhangl1001/civil-ai) - 地方首个适应性辅导代理机构为iOS和Web实施参考,并设有公务员考试申请. <sub>⭐ 43 · TypeScript</sub>
+- [liffiton/Gen-Ed](https://github.com/liffiton/Gen-Ed) - Gen-Ed是构建网络应用的框架,使用基因AI(LLM)进行教育. <sub>⭐ 42 · Python</sub>
+- [mirzayasirabdullahbaig07/EduGemma-AI-Tutor](https://github.com/mirzayasirabdullahbaig07/EduGemma-AI-Tutor) - 你的适应性AI导师,由Gemma 4提供动力,问我什么——我会在课程知识的基础上,用你的水平来解释它。 <sub>⭐ 42 · Jupyter Notebook</sub>
+- [scibly-dev/scibly](https://github.com/scibly-dev/scibly) - Scibly是一个开源的AI本土学习平台,将你现有的知识转化为互动的学习体验. <sub>⭐ 42 · TypeScript</sub>
+- [Chloe-MIAOmiao/Sales-Agent](https://github.com/Chloe-MIAOmiao/Sales-Agent) - 一个企业级AI代理平台,旨在简化销售质量保证,实施合规审计,并将高转换后续工作流程自动化,用于EdTech和高盘服务. . <sub>⭐ 41 · Python</sub>
+- [musikalkemist/audioDataAugmentationTutorial](https://github.com/musikalkemist/audioDataAugmentationTutorial) - 在AI YT频道的音效上,音频数据增强系列的存储器主机代码和幻灯片. <sub>⭐ 41 · Python</sub>
+- [PakistanAI/Educational_guide](https://github.com/PakistanAI/Educational_guide) - 巴基斯坦在ML和AI中开设的关于如何开始的教育指南。 <sub>⭐ 41</sub>
+- [a-data-odyssey/XAI-tutorial](https://github.com/a-data-odyssey/XAI-tutorial) - 与 Python 一起开设解释性AI课程 <sub>⭐ 40 · Jupyter Notebook</sub>
+- [Beckybams/AI-Enhanced-Climate-Education-Tools-](https://github.com/Beckybams/AI-Enhanced-Climate-Education-Tools-) - AI-Enhanced-Climate-Education-Tools利用人工智能创造关于气候变化的交互性,个性化的学习经验. 它分析学习者的进步,建议适应性. . <sub>⭐ 40</sub>
+- [cr4yfish/nouv](https://github.com/cr4yfish/nouv) - 免费的 AI 和 社区动力学习体验 <sub>⭐ 40 · TypeScript</sub>
+- [intelligencefoundation/SaraswatiAI](https://github.com/intelligencefoundation/SaraswatiAI) - Saraswati AI/Superhuman(AI) 教师:全民教育 <sub>⭐ 40</sub>
+- [MajeedKazemi/code-aid](https://github.com/MajeedKazemi/code-aid) - 一个AI动力编程助理,旨在便利编程中的学习和解决问题,其特色是交互式工具用于代码写入,调试,以及概念理解,同时. <sub>⭐ 40 · TypeScript</sub>
+- [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) - 将您的AI助手变成导师。 它计划、 显示代码、 评论、 适应学习方式, 帮助您自己完成真正的工程 。 <sub>⭐ 40 · Shell</sub>
+- [Imbad0202/critical-thinking-for-humans](https://github.com/Imbad0202/critical-thinking-for-humans) - 一个适合你批判思维的健身房——人工智能是教练,你来做这个工作。四种模式:钻孔、场景、探险、侦探。 <sub>⭐ 39 · JavaScript</sub>
+- [potatoqualitee/dbatools.ai](https://github.com/potatoqualitee/dbatools.ai) - PowerShell 副驾驶和 SQL 服务器数据库和 dbatools 的帮助助手, 主要是教学工具. <sub>⭐ 39 · Jupyter Notebook</sub>
+- [CogitoNTNU/TutorAI](https://github.com/CogitoNTNU/TutorAI) - TutorAI是一个RAG系统,能够帮助学习学术科目,使用课程并引用课程,项目围绕构建一个应用软件,在. <sub>⭐ 38 · Python</sub>
+- [FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES) - 详细的AI和ML教育资料库 <sub>⭐ 38 · Jupyter Notebook</sub>
+- [h2oai/driverlessai-tutorials](https://github.com/h2oai/driverlessai-tutorials) - H2OAI 无驱动的AI代码样本和教程 <sub>⭐ 38 · Jupyter Notebook</sub>
+- [Visual-Studio-Coder/Recap](https://github.com/Visual-Studio-Coder/Recap) - Recap是Vaibhav Satishkumar开发的iOS和Android应用软件,使学生能够从多种内容类型,包括PDF,YouTube视频,网络链接,以及图像中生成个性化的测试. <sub>⭐ 38 · Swift</sub>
+- [Dicklesworthstone/the_lighthill_debate_on_ai](https://github.com/Dicklesworthstone/the_lighthill_debate_on_ai) - 1973年关于大赦国际的Lighthill辩论全文,并附有导言 <sub>⭐ 37</sub>
+- [dmccreary/intelligent-textbooks](https://github.com/dmccreary/intelligent-textbooks) - 如何使用有教育理论的AI和mkdocs材料来创建智能教科书 <sub>⭐ 37 · Python</sub>
+- [The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator](https://github.com/The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator) - Danganronpa 模拟器: 与 AI 代理游戏一起玩我们这样的游戏 <sub>⭐ 37 · Python</sub>
+- [guillermoscript/lms-front](https://github.com/guillermoscript/lms-front) - 面向创作者和学校的开源多租户LMS:在自己的子域上销售课程. Next.js 16 + React 19 + Supabase (RLS) + Strepe Connect,一个通过MCP的AI导师,游戏化,证书... <sub>⭐ 36 · TypeScript</sub>
+- [LogicTronix/Vitis-AI-Reference-Tutorials](https://github.com/LogicTronix/Vitis-AI-Reference-Tutorials) - 由LogicTronix创建的Vitis AI上的教学! <sub>⭐ 36 · Python</sub>
+- [mscbuild/e-learning-free-courses](https://github.com/mscbuild/e-learning-free-courses) - QQ自由在线学习与专业认证. 免费在线课程,包含Gen AI,即时工程,数据科学,AI,ML等多个领域的证书. Welcome to our Online... <sub>⭐ 36</sub>
+- [SaadRahman01/claude-moodle-dev](https://github.com/SaadRahman01/claude-moodle-dev) - 用于AI编码助理的面条开发工具包. Swills for XMLDB, Hooks API, PHP Unit, Behat, AMD, 隐私/ GDPR, 安全性, 可访问性. 原生Claude代码插件+适配器. <sub>⭐ 36 · Python</sub>
+- [Source-Robotics/PAR6-Collaborative-Robot-Arm](https://github.com/Source-Robotics/PAR6-Collaborative-Robot-Arm) - PAR6是一款以教育、研发和AI为重点的最先进的开源机器人臂 <sub>⭐ 36 · G-code</sub>
+- [TovTechOrg/Tov-learn](https://github.com/TovTechOrg/Tov-learn) - 交互式 AI 教官作为 Claude 代码的技巧而建立——教授空间重复、个性化项目实例和视觉进步仪表板 <sub>⭐ 36 · PowerShell</sub>
+- [1024XEngineer/XEngineer](https://github.com/1024XEngineer/XEngineer) - XEngineer(原1024 Bootcamp)——由奇尼乌·云发起,是一个面向工程师的开放,实事求是,创新的成长平台. <sub>⭐ 35 · TypeScript</sub>
+- [AdarshNampally/TuberCulosis.Ai](https://github.com/AdarshNampally/TuberCulosis.Ai) - TuberCulosis.Ai是一个计算机视觉应用软件,旨在加速肺脏转诊,同时为医疗专业人员提供教育数据. 该系统使用AI分析胸X光... <sub>⭐ 35 · JavaScript</sub>
+- [AlexHettle/MeadowPy](https://github.com/AlexHettle/MeadowPy) - 初学者友好的Python IDE具有本地的AI特性,教学工具,plain-English错误帮助,以及步入调试. <sub>⭐ 35 · Python</sub>
+- [oaknational/oak-ai-lesson-assistant](https://github.com/oaknational/oak-ai-lesson-assistant) - Oak的AI项目,包括我们的AI课程规划助理(Aila). <sub>⭐ 35 · TypeScript</sub>
+- [OcelliQ/ai-tutorial-scraping-prescriptions](https://github.com/OcelliQ/ai-tutorial-scraping-prescriptions) - 用于自动数据提取的简单AI教程. <sub>⭐ 35 · Python</sub>
+- [rosewang2008/tutor-copilot](https://github.com/rosewang2008/tutor-copilot) - 教学者CoPilot:增强实时专门知识的人类-AI方法 <sub>⭐ 35 · Jupyter Notebook</sub>
+- [TetiAI/lucid](https://github.com/TetiAI/lucid) - AI使用户产生生产力——但也有认知懒惰性. Lucid实时检测认知依赖性,并调整AI的响应,让用户保持思考. Drop-in SDK:0 latientency,任意LLM提供者... <sub>⭐ 35 · TypeScript</sub>
+- [akhtyamovpavel/TelegramBotTutorials](https://github.com/akhtyamovpavel/TelegramBotTutorials) - 从简单到最难的电传包( 甚至是迷你Apps) <sub>⭐ 34</sub>
+- [alikhalilli/linearly](https://github.com/alikhalilli/linearly) - 人工智能的数学, 绘制和编码。 一个自由的,视觉的第一个线性代数课程, 之后的MIT 18.06。 <sub>⭐ 34 · MDX</sub>
+- [argonne-lcf/AI4ScienceTutorial](https://github.com/argonne-lcf/AI4ScienceTutorial) - 以ipython笔记本格式调查基本的ML技术的学生的辅导课程。 <sub>⭐ 34 · Jupyter Notebook</sub>
+- [ashishbamania/Tutorials-On-Artificial-Intelligence](https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence) - Ashish Bamania博士的AI教程汇编 <sub>⭐ 34 · Jupyter Notebook</sub>
+- [mac999/LLM-RAG-Agent-Tutorial](https://github.com/mac999/LLM-RAG-Agent-Tutorial) - LLM-RAG-Agent-Tutory供AI应用程序开发者和研究人员使用. <sub>⭐ 34 · Jupyter Notebook</sub>
+- [AI-EDU-LAB/E-EVAL](https://github.com/AI-EDU-LAB/E-EVAL) - E-Eval官方github repo,中国K12教育评价基准LLMS. <sub>⭐ 33 · Python</sub>
+- [BradGroux/ai-dev-days](https://github.com/BradGroux/ai-dev-days) - AI-Native操作框架的公共研究和教育伙伴,包括可重复使用的活动、课程、实验室和工具跟踪。 <sub>⭐ 33 · HTML</sub>
+- [charsyam/pycon2026-tutorial-ai-agents](https://github.com/charsyam/pycon2026-tutorial-ai-agents) - 烟囱2026-托运-艾-剂 <sub>⭐ 33 · Python</sub>
+- [scienceetonnante/tangible](https://github.com/scienceetonnante/tangible) - 创建带有同步场景和可选的AI辅助功能的叙述式互动课目. <sub>⭐ 33 · TypeScript</sub>
+- [Troyanovsky/autonomous_agent_tutorial](https://github.com/Troyanovsky/autonomous_agent_tutorial) - 建置自主代理的教程:与LangChain和从零开始 <sub>⭐ 33 · Jupyter Notebook</sub>
+- [yungyun0721/AI_global_forecast_model_for_education](https://github.com/yungyun0721/AI_global_forecast_model_for_education) - 使用 Pangu-weather, FourCastNet v1 v2, GraphCast, 和 Aurora 模型 <sub>⭐ 33 · Jupyter Notebook</sub>
+- [Ciucky/no-numb](https://github.com/Ciucky/no-numb) - 用Claude代码构建,而不会使你的大脑麻木——这个插件会用它刚刚写的代码来测试你,并打开会话直到你通过. <sub>⭐ 32 · Shell</sub>
+- [dsiufl/WorkshopArchive](https://github.com/dsiufl/WorkshopArchive) - 2023-2026年在佛罗里达大学主办一系列教育讲习班,内容包括数据科学,人工智能和机器学习等专题. <sub>⭐ 32 · Jupyter Notebook</sub>
+- [iuliaferoli/backtoengineering](https://github.com/iuliaferoli/backtoengineering) - 我建造了“回到工程”系统,使物理AI和机器人可以进入初学者。这是技术树。如果你玩过文明、满意或任何工程高级游戏,你知道... <sub>⭐ 32 · Python</sub>
+- [kaushal0494/UnifyingAITutorEvaluation](https://github.com/kaushal0494/UnifyingAITutorEvaluation) - 评估LLM授权AI导师教学能力分类学 <sub>⭐ 32</sub>
+- [ndpvt-web/deeptutor-claude-skill](https://github.com/ndpvt-web/deeptutor-claude-skill) - Claude Code技巧 适应 DeepTutor 的图增强RAG辅导方法 知识图,双循环解析,研究报告,适应性问题 基于 HKUDS/DeepTutor. <sub>⭐ 32 · Python</sub>
+- [1599570912/IELTS-Speaking-AI](https://github.com/1599570912/IELTS-Speaking-AI) - AI-动力IELTS演讲实践:实时语音识别,评分,210+问题,本地历史 <sub>⭐ 31 · JavaScript</sub>
+- [AmirhosseinHonardoust/AI-Personal-Study-Tracker](https://github.com/AmirhosseinHonardoust/AI-Personal-Study-Tracker) - 一个由AI驱动的生产率跟踪应用程序,它与Python,Streamlit,SQLite和Machine Learning一起构建,记录和分析研究会话,使用随机森林模型预测生产率,以及. <sub>⭐ 31 · Python</sub>
+- [arm-education/RPi-Pico-projects-for-schools](https://github.com/arm-education/RPi-Pico-projects-for-schools) - 以项目为基础的书籍,用于在Python教授AI、IoT和计算机科学,16-18岁时使用Raspberry Pi Pico。 (教育) <sub>⭐ 31 · Jupyter Notebook</sub>
+- [inngest/agentkit-render-tutorial](https://github.com/inngest/agentkit-render-tutorial) - 在您的收件箱中获取自定义的 Hacker 新闻故事摘要 <sub>⭐ 31 · TypeScript</sub>
+- [jarodise/Language-Transfer](https://github.com/jarodise/Language-Transfer) - 使用语言传输方法的AI授权西班牙语导师,运行在双子座CLI或克劳德码内部. <sub>⭐ 31</sub>
+- [rembertdesigns/Programming-Language-Tutorials](https://github.com/rembertdesigns/Programming-Language-Tutorials) - 多语言编程教程和代码指南:网络,移动,后端,DevOps,AI/ML,块链. 实用,生产准备的例子——patters,安全,基础设施,可访问性——用于devs &... <sub>⭐ 31 · C++</sub>
+- [sjoerdvanderhoorn/kwekken](https://github.com/sjoerdvanderhoorn/kwekken) - Kwekken是一种语言学习应用,通过与OpenAI的ChatGPT驱动的AI老师进行个性化对话,帮助您学习外语. <sub>⭐ 31 · JavaScript</sub>
+- [sunflower0305/ai-kid-tutor](https://github.com/sunflower0305/ai-kid-tutor) - AI-Kid-Tutor从未为儿童提供直接的答案,而是在回答中提出引人深思的问题,使其成为儿童教育的理想的AI导师. <sub>⭐ 31 · Python</sub>
+- [TheTavakoli1/PyAI-Tutorials](https://github.com/TheTavakoli1/PyAI-Tutorials) - PyAI-Tutorials — 一个用于掌握算法,Python,数据分析,和AI的综合寄存器. 它提供结构化的代码示例,教程,以及帮助学习者深化他们的项目. <sub>⭐ 31 · Python</sub>
+- [towardsai/ai-tutor-app](https://github.com/towardsai/ai-tutor-app) - 应用AI、LLMS、RAG和Python的代理RAG导师:一个LangGraph代理(FastAPI + Next.js),以课程和图书馆目录为基础。 <sub>⭐ 31 · Python</sub>
+- [chrisreddington/flight-school](https://github.com/chrisreddington/flight-school) - AI-动力编码实践平台与GitHub Copilot SDK共同构建. 个性化挑战,实时评价,以及基于您的GitHub简介的学习指导. <sub>⭐ 30 · TypeScript</sub>
+- [Er-luffy-D/SimplifAI](https://github.com/Er-luffy-D/SimplifAI) - AI-power的网络应用简化教育(Education) <sub>⭐ 30 · TypeScript</sub>
+- [marceld23/Pixel-Pets](https://github.com/marceld23/Pixel-Pets) - Pixel-Pets:M5Stack上一个本地,开源的虚拟宠物生态系统. 100%的AI-作者C++ (Claude) 由10yo制造器制作. 包括Muffin(LLM),Visu & Goo-Goo变体+伴设备 Pip. 建于... <sub>⭐ 30 · C</sub>
+- [raphaelmansuy/tutorials](https://github.com/raphaelmansuy/tutorials) - 以云计算和DevOps技术为主的实用教程综合集,主要内容包括: Google云平台(GCP)服务库伯内特斯集装箱管弦乐. . <sub>⭐ 30 · Python</sub>
+- [unrealandychan/learn-python-with-ai](https://github.com/unrealandychan/learn-python-with-ai) - 这是自学Python的寄存器,所有内容都是由AI生成的!. <sub>⭐ 30 · Python</sub>
+- [vdrakopoulou/Sentiment-Analysis_BUS2503_AI-for-Business](https://github.com/vdrakopoulou/Sentiment-Analysis_BUS2503_AI-for-Business) - H&M季节性运动感知分析 — BUS2503 / AI的工商应用软件包的案例研究和复制软件包,使用KNIME, Python, LLM ChatGPT作为共通软件. <sub>⭐ 30</sub>
+- [1nn0k3sh4/GigaChat-Prompt-Jailbreak](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) - 这项研究确定了绕过GigaChat LLM中的安全系统的方法,通过一种"内涵伪装"使得与化学合成相关的潜在有害内容得以产生. . <sub>⭐ 28</sub>
+- [clduab11/thinkrank](https://github.com/clduab11/thinkrank) - 通过智能排名系统以及游戏化AI研究贡献,革命性地将协作思维和问题解决化. 混合游戏-教育移动平台结合. <sub>⭐ 28 · TypeScript</sub>
+- [evarae/CNN_Tutorial](https://github.com/evarae/CNN_Tutorial) - 感谢您检查我的导师课程,我从零开始将一个革命神经网络编译为java。 <sub>⭐ 28 · Java</sub>
+- [harrystaley/open-source-data-science-degree-python](https://github.com/harrystaley/open-source-data-science-degree-python) - Curated开源课程提供与Python的综合性数据科学教育,涵盖CS基础,AI,MLOps等. <sub>⭐ 28</sub>
+- [Harshal-Bsys27/ai-study-planner](https://github.com/Harshal-Bsys27/ai-study-planner) - 用 React & Flask 构建的AI-动力全高架学习计划员,生成个性化学习计划,用分析学跟踪进度,帮助学生保持一致性. <sub>⭐ 28 · JavaScript</sub>
+- [ideas-edu/ideas](https://github.com/ideas-edu/ideas) - 为智能辅导系统提供反馈服务 <sub>⭐ 28 · Haskell</sub>
+- [jasonkang14/ai-english-tutor](https://github.com/jasonkang14/ai-english-tutor) - 交互式AI英语导师:利用OpenAI的API为一门默契语言学习体验 <sub>⭐ 28 · Jupyter Notebook</sub>
+- [koukekoukej-glitch/feynman-tutor](https://github.com/koukekoukej-glitch/feynman-tutor) - AI基于Feynman Technique(英语:Feynman Technique)来教授技能——让你教人工智能揭开你理解中的漏洞。与Claude Code, Cursor, Windsurf(英语:Windsurf)以及任何LM代理框架一起工作. <sub>⭐ 28 · Python</sub>
+- [timothy-watt/python-for-ai-ml](https://github.com/timothy-watt/python-for-ai-ml) - Python AI和机器学习的开源指南 <sub>⭐ 28 · Jupyter Notebook</sub>
+- [tryskilly/skilly](https://github.com/tryskilly/skilly) - 技能: 语音第一AI导师, 监视屏幕 <sub>⭐ 28 · TypeScript</sub>
+- [vanderbilt-data-science/knowledge-spaces](https://github.com/vanderbilt-data-science/knowledge-spaces) - 用于适应性教育的AI动力知识空间理论. 10 Claude Code技能 执行完整的KST管道——从课程材料到知识图,适应性评估,个性化...... <sub>⭐ 28 · Python</sub>
+- [Yogapriya2512/A-Simple-Chatbot-](https://github.com/Yogapriya2512/A-Simple-Chatbot-) - 聊天机器人(又称谈话机器人,聊天机器人,Bot,IM Bot,交互式代理,或人工对话实体) 经典历史早期聊天机器人是ELIZA(1966年)和PARRY(1972年). More nate... <sub>⭐ 28 · Jupyter Notebook</sub>
+- [emqx/esp32-mcp-mqtt-tutorial](https://github.com/emqx/esp32-mcp-mqtt-tutorial) - 使用ESP32和MCP在MQTT上构建由AI提供动力的智能设备. <sub>⭐ 27</sub>
+- [harish303118/Codersnote-web-development-roadmap](https://github.com/harish303118/Codersnote-web-development-roadmap) - 生成个性化课程,学习路线图,与AI Tutor Lyra进行项目和面试准备,通过20+Tech职业路线图访问3000+免费资源,并接受个性化的每日工作提示. . <sub>⭐ 27 · HTML</sub>
+- [Itangalo/AI-Education](https://github.com/Itangalo/AI-Education) - 一本关于教师如何用有辨识力的聊天包的书,以及AI的一些背景和未来的注释。 <sub>⭐ 27</sub>
+- [jhammant/ilya-top-30](https://github.com/jhammant/ilya-top-30) - 为伊利亚·萨特斯克韦尔的传奇AI论文阅读列表提供AI动力学习平台,掌握现代AI的基础,并配有编译路径,AI辅导,游戏. <sub>⭐ 27 · Python</sub>
+- [JigyasuRajput/NeuralMeet](https://github.com/JigyasuRajput/NeuralMeet) - 实时AI视频呼叫平台,设有特定角色代理(tutor,导师等)自动生成摘要,笔录,以及可搜索的聊天. <sub>⭐ 27 · TypeScript</sub>
+- [jyi/ITSP](https://github.com/jyi/ITSP) - 2017年FSE论文关于编程智能调图系统的内容 <sub>⭐ 27 · C</sub>
+- [MayankR/OpenEdAI-Hackathon](https://github.com/MayankR/OpenEdAI-Hackathon) - 一个聪明的文档阅读器来利用AI传播优质教育! 大奖. <sub>⭐ 27 · Java</sub>
+- [nirholas/lyra-web3-playground](https://github.com/nirholas/lyra-web3-playground) - 自由固态编译器 & Web3 IDE 带有交互式教程. 学习块链开发,将智能合同部署到8+链(Ethereum, Polygon, Base, Arbitrum, Solana). Templates for orders... <sub>⭐ 27 · TypeScript</sub>
+- [NoteHub-official/NoteHub](https://github.com/NoteHub-official/NoteHub) - NoteHub是一个在线便笺共享平台,用户可以在实时协作环境下使用多功能的丰富文本编辑器编辑便笺. NoteHub还提供在. <sub>⭐ 27 · Vue</sub>
+- [Priyamakeshwari/TeachGPT](https://github.com/Priyamakeshwari/TeachGPT) - AI Powered的老师,可以帮助您在考试前更快地学习您的话题 <sub>⭐ 27 · Python</sub>
+- [rahulkolekardev/free-aiml-learning](https://github.com/rahulkolekardev/free-aiml-learning) - 免费的 AI/ ML 学习。 代码第一课程、 实验室和项目加书籍、 文档和数据集。 开始高级, 社区管理 。 <sub>⭐ 27</sub>
+- [rembertdesigns/Machine-Learning-AI-Library](https://github.com/rembertdesigns/Machine-Learning-AI-Library) - 解析的机器学习和AI路线图——免费的开放访问资源,涵盖基础数学、教程、书籍、框架、LLMS、交互式演示以及EdTech工具。从任何地方开始,升级... <sub>⭐ 27</sub>
+- [timothywarner-org/context-engineering](https://github.com/timothywarner-org/context-engineering) - 停止建立遗忘的AI. Master MCP(模式背景协议),具有生产准备语义记忆,混合RAG,WARNERCO Schematica教学应用. FastMCP + LangGraph + Vector/Graph... <sub>⭐ 27 · Python</sub>
+- [ymrohit/openscenesense](https://github.com/ymrohit/openscenesense) - OpenSceensense是一个Python图书馆,它利用AI进行高级视频分析,为媒体,教育和内容节制中的动态应用提供定制框架和音频见解. <sub>⭐ 27 · Python</sub>
+- [aws-samples/sample-multimodal-agent-tutorial](https://github.com/aws-samples/sample-multimodal-agent-tutorial) - 以 Strands Agents SDK 和 AWS 服务构建已准备好的 AI 代理 。 此寄存器显示您如何在最小代码中创建具有持久内存的多模式系统 。 进步... <sub>⭐ 26 · Jupyter Notebook</sub>
+- [echohive42/o1-Auto-Teacher](https://github.com/echohive42/o1-Auto-Teacher) - 一个交互式的AI动力学习体验生成器,就任何主题创建全面的多媒体教育内容. <sub>⭐ 26 · Python</sub>
+- [HalilCan/codeGPT-assistant-extension](https://github.com/HalilCan/codeGPT-assistant-extension) - Visual Studio代码的可扩展的AI助手扩展名. 类似于Copilot X. <sub>⭐ 26 · JavaScript</sub>
+- [LearnAIHubC/LearnDeck](https://github.com/LearnAIHubC/LearnDeck) - LearnDeck:用于Codex的AI PPT生成器,将话题,笔记,课程材料和大纲转化为抛光,可编辑的PowerPoint甲板. <sub>⭐ 26 · JavaScript</sub>
+- [noodlefrenzy/CognitiveServicesTutorial](https://github.com/noodlefrenzy/CognitiveServicesTutorial) - 2017年AI Immersion讲习班认知服务教程. <sub>⭐ 26 · C#</sub>
+- [TiKyisme/bk-lms-downloader](https://github.com/TiKyisme/bk-lms-downloader) - HCMUT BK-LMS的桌面下载器和同步工具,与本地AI Research Pack导出. <sub>⭐ 26 · Python</sub>
+- [vlainic/vlainic.github.io](https://github.com/vlainic/vlainic.github.io) - 我的GitHub博客:你可能感兴趣的事,也许不会... <sub>⭐ 26</sub>
+- [ahammadnafiz/EduGen](https://github.com/ahammadnafiz/EduGen) - AI-Powered科学教育视频生成器 <sub>⭐ 25 · Python</sub>
+- [buger/homelearnai](https://github.com/buger/homelearnai) - 由人工智能驱动的家庭学校学习管理系统,包括留级、课程规划和多子女支助 <sub>⭐ 25 · PHP</sub>
+- [davidmalawey/OpenArm](https://github.com/davidmalawey/OpenArm) - 开源机器人臂 <sub>⭐ 25</sub>
+- [dlopezyse/Synthia](https://github.com/dlopezyse/Synthia) - 与大赦国际一起加快知识的普及 <sub>⭐ 25 · Python</sub>
+- [joosthub/pytorch-nlp-tutorial-ny2018](https://github.com/joosthub/pytorch-nlp-tutorial-ny2018) - PyTorch NLP 教程 奥赖利 AI NYC 2018 <sub>⭐ 25 · Jupyter Notebook</sub>
+- [kzw-ai/word-learning-system](https://github.com/kzw-ai/word-learning-system) - 以中文为外语的智能适应性词汇学习系统(CFL)——由北京大学硕士论文研究所建. 特色AI驱动个性化学习,SM-2...... <sub>⭐ 25 · Python</sub>
+- [mmuddinhamza/PalmPoweredCourseGenerator](https://github.com/mmuddinhamza/PalmPoweredCourseGenerator) - Flask应用程序利用Palm 2 API为任何特定主题或学习主题动态生成并服务教育内容. <sub>⭐ 25 · HTML</sub>
+- [mwasifanwar/eduadapt-ai](https://github.com/mwasifanwar/eduadapt-ai) - AI驱动的适应性学习系统,根据学生的成绩,学习风格,以及参与度量标准,将教育内容个性化. 利用强化学习来优化学习路径...... <sub>⭐ 25 · Python</sub>
+- [openlanguagemodel/openlanguagemodel](https://github.com/openlanguagemodel/openlanguagemodel) - 可读,可堆叠的PyTorch库用于语言模型:从plain nn.Modules开始,再在CPU,一个GPU,或多GPU上训练Llama,Quen,Gemma,DeepSeek,Kimi和其他20+架构. <sub>⭐ 25 · Python</sub>
+- [0xff-r4bbit/watchmetype](https://github.com/0xff-r4bbit/watchmetype) - 一个开源的macOS应用程序,它复制了现实的人类打字,以揭示基于写作过程的AI检测极限. <sub>⭐ 24 · Swift</sub>
+- [ArdentMC/ai-streamliner](https://github.com/ArdentMC/ai-streamliner) - AI流线项目 <sub>⭐ 24 · Batchfile</sub>
+- [arun3676/ai-learning-path-generator](https://github.com/arun3676/ai-learning-path-generator) - 智能学习系统,将RAG(检索增强型一代)与适应性路径生成结合起来,用于个性化AI教育 <sub>⭐ 24 · Python</sub>
+- [AstraBert/PhiQwenSTEM](https://github.com/AstraBert/PhiQwenSTEM) - 您的 STEM 教育的推理助理 <sub>⭐ 24 · TypeScript</sub>
+- [devyanshyadav/chaidocs-ai-assistant](https://github.com/devyanshyadav/chaidocs-ai-assistant) - ChaiDocs AI授权查特吉尼,您前往Chrome扩展,用于即时访问来自ChaiDocs网站的编程docs和博客. <sub>⭐ 24 · TypeScript</sub>
+- [dokasto/Saidia](https://github.com/dokasto/Saidia) - 离线第一,桌面AI助理为教育工作者定制,使他们能够直接从源材料中产生问题. <sub>⭐ 24 · TypeScript</sub>
+- [IBM/oic-i-agentic-ai-tutorials](https://github.com/IBM/oic-i-agentic-ai-tutorials) - 在代理 AI (开发者和生态系统的AI) 上创建外部教程 <sub>⭐ 24 · Python</sub>
+- [idoforgod/Vibe-learning-AgenticWorkflow](https://github.com/idoforgod/Vibe-learning-AgenticWorkflow) - 独家人工智能教学建设者——个人化教育系统21步代理工作流程 <sub>⭐ 24 · Python</sub>
+- [Jojobeans1981/Ember-Campfire-Edition](https://github.com/Jojobeans1981/Ember-Campfire-Edition) - AI-动力的脱氧核糖核酸干预平台——适应每个学习者具体解码错误的阅读练习. <sub>⭐ 24 · JavaScript</sub>
+- [m0m0x01d/strata](https://github.com/m0m0x01d/strata) - 看网络脆弱性为什么起作用,而不只是如何触发它——一个单文件零依赖性的安全实验室,使一个脆弱的应用程序成为7层截面. 17个实验室,攻击者与捍卫者...... <sub>⭐ 24 · HTML</sub>
+- [mac999/AI_foundation_tutorial](https://github.com/mac999/AI_foundation_tutorial) - AI 基金会和趋势研讨会教程与代码 <sub>⭐ 24 · Jupyter Notebook</sub>
+- [mytechnotalent/kgpt](https://github.com/mytechnotalent/kgpt) - 一个GPT-2级语言模型从零开始在OpenWebText上培训,意在从零开始增强AI变形器模型教育和逆向工程师GBT模型. <sub>⭐ 24 · Jupyter Notebook</sub>
+- [pmservice/ai-openscale-tutorials](https://github.com/pmservice/ai-openscale-tutorials) - Watson Open Scale 教程,包括样本模型、笔记本和应用 <sub>⭐ 24 · Jupyter Notebook</sub>
+- [SciWhite/university-ai-policy-tracker](https://github.com/SciWhite/university-ai-policy-tracker) - 开放、证据支持的基础设施,以跟踪世界各地大学AI政策。 <sub>⭐ 24 · TypeScript</sub>
+- [sheninthjr/ai-learning-platform](https://github.com/sheninthjr/ai-learning-platform) - AI学习平台是一个专注于利用人工智能创建无障碍和个性化的在线教育体验的项目. <sub>⭐ 24 · TypeScript</sub>
+- [AmirhosseinHonardoust/TFIDF-vs-Word2Vec](https://github.com/AmirhosseinHonardoust/TFIDF-vs-Word2Vec) - 详细的教育指南解释两种基本NLP技术,TF-IDF和Word2Vec. 学习文本如何转化为数字向量,比较其数学基础,探索...... <sub>⭐ 23</sub>
+- [casius-connect/limitless-workflow](https://github.com/casius-connect/limitless-workflow) - 用于克劳德代码的理解机器,利用甲骨文AI数据库将研究转化为辅导,内存,以及可见知识. <sub>⭐ 23 · Python</sub>
+- [john-adeojo/crew_ai_tutorial](https://github.com/john-adeojo/crew_ai_tutorial) - 快速编组AI 教程 <sub>⭐ 23 · Python</sub>
+- [kasnerz/animated-llm](https://github.com/kasnerz/animated-llm) - Web 应用程序解释 LLMS 如何使用 D3. js + GSAP 工作 <sub>⭐ 23 · JavaScript</sub>
+- [khalilbenaz/claude-skills-collection](https://github.com/khalilbenaz/claude-skills-collection) - 349 开源技能 pour Claude Code——34个域: dev,代理 IA,AI/ML,云,数据库 DevOps,测试,证券,网络,Linux,自动化,营销,IoT,通信,数据... <sub>⭐ 23 · HTML</sub>
+- [maruf009sultan/AIELTS-WRITING](https://github.com/maruf009sultan/AIELTS-WRITING) - IELTS 和一般英语写作任务的 AI- power writing 等級器。 即时分析您的散文、 段落或故事, 并附上详细的乐队分数、 错误亮点和可操作的反馈—— 使用... <sub>⭐ 23 · TypeScript</sub>
+- [seehiong/eduvis](https://github.com/seehiong/eduvis) - 一个开放的、了解课程的计划和教学内容参考SVG的制作人。 <sub>⭐ 23 · Python</sub>
+- [Sitaram8472/School_Website](https://github.com/Sitaram8472/School_Website) - EduStream是一个现代的学校门户,将学生,教师和家长聚集在一起,它具有实时通知板,轻松的资源共享,以及帮助学生的AI助手...... <sub>⭐ 23 · JavaScript</sub>
+- [allenai/aiconf-allennlp-tutorial](https://github.com/allenai/aiconf-allennlp-tutorial) - 2019年9月,奥赖利AI会议的Allennlp教程 <sub>⭐ 22 · Jupyter Notebook</sub>
+- [avrabyt/OpenAI-WebApps-Youtube-Tutorial](https://github.com/avrabyt/OpenAI-WebApps-Youtube-Tutorial) - OpenAI + Streamlit + 数据按钮 Youtube 教程 <sub>⭐ 22 · Python</sub>
+- [cristianodabc/dialekt](https://github.com/cristianodabc/dialekt) - CEFR执行、正式/非正式登记和本地语音转写的AI语言辅导员 <sub>⭐ 22 · Elixir</sub>
+- [joosthub/pytorch-nlp-tutorial-eu2018](https://github.com/joosthub/pytorch-nlp-tutorial-eu2018) - 奥赖利AI培训 - 伦敦2018年 <sub>⭐ 22 · Jupyter Notebook</sub>
+- [JupyterPS/VBAF](https://github.com/JupyterPS/VBAF) - VBAF(视觉AI和强化学习框架)——纯PowerShell 5.1. 神经网络,Q学习,DQN,PPO,A3C从零开始,没有Python,没有依赖性. <sub>⭐ 22 · PowerShell</sub>
+- [NickScherbakov/codementor-ai-platform](https://github.com/NickScherbakov/codementor-ai-platform) - AI动力编程学习平台:适应性辅导,实时代码执行,互动挑战,以及学习分析. <sub>⭐ 22 · TypeScript</sub>
+- [SagarBiswas-MultiHAT/PhishGuard-AI](https://github.com/SagarBiswas-MultiHAT/PhishGuard-AI) - PhishGuard是一个快速的网络游戏,它训练你的本能对抗电子邮件的网游。它由双AI共识引擎(OpenRouter & Groq)提供动力,生成并验证了高度现实,独特的... <sub>⭐ 22 · Python</sub>
+- [AgustinOberg/NebulAI-APP](https://github.com/AgustinOberg/NebulAI-APP) - NebulAI:一个空间主题研究助手,帮助您将文件转换成多个选择问题,以加强您的学习旅程. <sub>⭐ 21 · TypeScript</sub>
+- [arlanrakh/Nozomio-Education-not-active-](https://github.com/arlanrakh/Nozomio-Education-not-active-) - 诺佐米奥是一个在线平台,它提供免费的计算机科学和创业资源,激励下一代的建设者。从思想到执行,我们已经覆盖了你们。 <sub>⭐ 21</sub>
+- [awslabs/bedrock-vscode-playground](https://github.com/awslabs/bedrock-vscode-playground) - 探索和实验亚马逊贝德罗克现有的大语言模型(LLM) <sub>⭐ 21 · TypeScript</sub>
+- [gabors-data-analysis/da-w-ai](https://github.com/gabors-data-analysis/da-w-ai) - 人工智能课程的数据分析 <sub>⭐ 21 · HTML</sub>
+- [Hassanmahmood4/edu-chatbot](https://github.com/Hassanmahmood4/edu-chatbot) - AI动力教育聊天员,配有本地LLM推论,语义搜索,以及学生QQA和辅导应用的知识检索. <sub>⭐ 21 · Python</sub>
+- [jwliao1209/TWLLM-Tutor](https://github.com/jwliao1209/TWLLM-Tutor) - 台湾-LLM导师:台湾中等教育大语言模范 <sub>⭐ 21 · Python</sub>
+- [naufaldi/teacher-exam](https://github.com/naufaldi/teacher-exam) - 人工智能为印度尼西亚小学教师制作的、可打印的考试表——由克劳德·奥普斯4.7建造。 <sub>⭐ 21 · TypeScript</sub>
+- [Refaat-alktifan/CodeRanedeer](https://github.com/Refaat-alktifan/CodeRanedeer) - GPT-4(即时)AI通过提供建议,指导和解释来协助撰写,修复或审查代码. 它还可以作为双编程伙伴,增强你的编码经验... <sub>⭐ 21</sub>
+- [Sagar0-0/Fluenty](https://github.com/Sagar0-0/Fluenty) - 流利:AI功率英语导师 <sub>⭐ 21 · Kotlin</sub>
+- [shreyavaidya2311/timetable-generator](https://github.com/shreyavaidya2311/timetable-generator) - 时表生成器是一个动态系统,根据用户的一定限制,为特定科目和天数安排档位和教师。这个项目已经建成,作为其中的一部分... <sub>⭐ 21 · JavaScript</sub>
+- [StudentSuite/awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - 为学生建造的Claude Code, Cursor,以及副驾驶技能和插件的目录:IB,IGCSE,大学范围,以及任何用AI编码代理在自己身边学习的人. <sub>⭐ 21 · JavaScript</sub>
+- [StudentTraineeCenter/edu-agent](https://github.com/StudentTraineeCenter/edu-agent) - EduAgent是一个AI驱动的教育平台,利用LangGraph代理和RAG将静态文档转换成动态的,个性化的辅导环境. 该系统采用. <sub>⭐ 21 · TypeScript</sub>
+- [wilfredpine/Python-Tutorial](https://github.com/wilfredpine/Python-Tutorial) - Python 编程语言(基础、OOP、MVT、框架、Django、机器学习、NLP)的参考书 <sub>⭐ 21 · Jupyter Notebook</sub>
+- [wywyWang/CoachAI](https://github.com/wywyWang/CoachAI) - 羽毛球教练AI:一个基于深层学习的羽毛球比赛数据分析平台(物理教育杂志20). <sub>⭐ 21 · Python</sub>
+- [bar181/agentic-professor](https://github.com/bar181/agentic-professor) - Bradley.Academy为AI-First教育编写的黄金标准课程设计模板。对于课程设计者、教学开发者和AI代理商来说,实用第一;基本知识先于特征;结果...... <sub>⭐ 20</sub>
+- [hari7261/AI-Tutor](https://github.com/hari7261/AI-Tutor) - 一个注重隐私的辅导助理,负责逐步解释概念,并生成问答(MCQs). Works100%与Ollama(Gemma/Llama3)脱线. <sub>⭐ 20 · Python</sub>
+- [HYH926/smart-learn](https://github.com/HYH926/smart-learn) - Smart Learning - Claude Code 交互式学习技巧. Feynman Technique 五步管道:概念地图+Feynman解释+自我测试+关联+摘要,零依赖性,实时Word+... <sub>⭐ 20 · Python</sub>
+- [IdkwhatImD0ing/AdaptEd](https://github.com/IdkwhatImD0ing/AdaptEd) - 回声讲座 AI导师实时语音对话,动态双子座驱动幻灯片,以及情感感知速度——建于LA Hacks 2024(Google Gemini Challenge 1st + Fellow.ai)...... <sub>⭐ 20 · Jupyter Notebook</sub>
+- [Jeba-Jebarsan/insideai](https://github.com/Jeba-Jebarsan/insideai) - 观察真实的AI模型思考 - 变压器实际前传的3D可视化:符号,嵌入物,注意力,神经元,采样 <sub>⭐ 20 · TypeScript</sub>
+- [JulietChinenyeDuru/NaijaLearn-AI](https://github.com/JulietChinenyeDuru/NaijaLearn-AI) - 为尼日利亚学习者建造的AI动力多语言辅导,由Claude AI提供动力. 支持英语,Yoruba,Igbo,Hausa和Nigeria Pidgin.个性化,为服务不足的社区提供无障碍的学习...... <sub>⭐ 20 · HTML</sub>
+- [kj-huang/line-english-teacher](https://github.com/kj-huang/line-english-teacher) - 一个LINE聊天机,由OpenAI提供动力,通过对话AI帮助用户练习英语 <sub>⭐ 20 · JavaScript</sub>
+- [leobeeson/single-file-ai-agent-tutorial](https://github.com/leobeeson/single-file-ai-agent-tutorial) - Python 版本的“如何构建代理”由 Thorsten Ball 制作 <sub>⭐ 20 · Python</sub>
+- [liondw/Signal-Alignment](https://github.com/liondw/Signal-Alignment) - 建立简洁和广泛共享的教育资源、图解和动画解释者对社区AI协调努力的最新贡献的倡议。 <sub>⭐ 20</sub>
+- [michael-borck/study-buddy](https://github.com/michael-borck/study-buddy) - 提供使用 Electron 构建的离线AI 辅导应用程序,该应用程序使用 Ollama 或 Llama 模型在您的计算机上本地运行,确保完全的隐私而无需互联网连接. <sub>⭐ 20 · TypeScript</sub>
+- [nursnaaz/zero-to-genai-engineer](https://github.com/nursnaaz/zero-to-genai-engineer) - 免费开放的 GenAI 课程从零开始,构建真正的项目,并努力建立AI系统。 <sub>⭐ 20 · Jupyter Notebook</sub>
+- [onhexgroup/Tutorials](https://github.com/onhexgroup/Tutorials) - 幻灯片、代码和与课程有关的材料 <sub>⭐ 20 · SWIG</sub>
+- [PGM-Lab/probabilisticAI_tutorials](https://github.com/PGM-Lab/probabilisticAI_tutorials) - 2019年北欧概率主义AI学校Day1-Day3的教程(https://2019.probabilistic.ai/)的复读. <sub>⭐ 20 · Jupyter Notebook</sub>
+- [REp007/OpenCV-Tutorials](https://github.com/REp007/OpenCV-Tutorials) - OpenCV- Python 图像处理教程 <sub>⭐ 20 · Python</sub>
+- [saniales/ai-lesson-planner](https://github.com/saniales/ai-lesson-planner) - 聊天第一工具包,供教师计划完成课程和课程,并配有多代理工作流程,基于模板的文物,以及MARP幻灯片生成. <sub>⭐ 20 · Shell</sub>
+- [startwithsahitya/vigilant-ai](https://github.com/startwithsahitya/vigilant-ai) - 警戒AI是一个动态的GitHub项目,以教师和学生的双重登录为特色,教师在学生接受测试时分配测试,两者都可以看到分数,集成微服务提供...... <sub>⭐ 20 · TypeScript</sub>
+- [5afagy/BashBard](https://github.com/5afagy/BashBard) - 一个由 AI 驱动的 Linux shell 教程和命令讲故事员 <sub>⭐ 19 · Python</sub>
+- [Abhijayshah/English-Tutor-AI](https://github.com/Abhijayshah/English-Tutor-AI) - 你的英语导师 <sub>⭐ 19 · JavaScript</sub>
+- [abhiram-ar/aicademy-fontend](https://github.com/abhiram-ar/aicademy-fontend) - AIcademy是一个类似于Udemy的LMS平台,学生可以以可承受的价格获得高质量的课程,教师可以通过出售课程赚取收入. AIcademy 杠杆检索... <sub>⭐ 19 · TypeScript</sub>
+- [absterjr/AI-Tutor](https://github.com/absterjr/AI-Tutor) - 用于教学机器学习专题的AI- Powered Python脚本 <sub>⭐ 19 · Python</sub>
+- [AIMLWG/AIML-tutorials](https://github.com/AIMLWG/AIML-tutorials) - AI/ML工作组包含教程系列的仓库 <sub>⭐ 19 · Jupyter Notebook</sub>
+- [AndreCNF/ccai-ss23-ai-monitoring-tutorial](https://github.com/AndreCNF/ccai-ss23-ai-monitoring-tutorial) - 气候变化实验AI2023暑期学校"AI关于监测,报告和核查的辅导". <sub>⭐ 19 · HTML</sub>
+- [andrewsavio/Text-to-Speech-WebPage](https://github.com/andrewsavio/Text-to-Speech-WebPage) - 基于网络的文本对语音平台由Pocket-TTS提供动力,其特点是一个没有服务器的前端(Netlify/Vercel)和一个可扩展的FastAPI后端,用于实时语音生成. 设计用于AI演示,EdTech... <sub>⭐ 19 · Python</sub>
+- [computerender/tutorials](https://github.com/computerender/tutorials) - 使用计算机设计师API的示例 <sub>⭐ 19 · Python</sub>
+- [dineshpiyasamara/generative_ai_tutorial](https://github.com/dineshpiyasamara/generative_ai_tutorial) - 无论你是探索LangChain的初学者还是高级实践者建筑可扩展的GenAI应用软件,这个教程式的项目提供了模块化的例子和亲身操作指导来帮助你. . <sub>⭐ 19 · Jupyter Notebook</sub>
+- [ginkgobioworks/ginkgoai-protein-embedding-tutorial](https://github.com/ginkgobioworks/ginkgoai-protein-embedding-tutorial) - 关于如何在科学问题上使用 Ginkgo AI 嵌入 API 的教学 <sub>⭐ 19 · Jupyter Notebook</sub>
+- [htlin222/cps-skills](https://github.com/htlin222/cps-skills) - Claude Code技能 多人贝叶斯诊断推理 使用 NEJM 临床问题解决格式 概率比 循证医学和医学AI教育 <sub>⭐ 19 · Python</sub>
+- [john-hawkins/data-science-first](https://github.com/john-hawkins/data-science-first) - "数据科学第一:在AI-Enabled应用程序中使用语言模型"一书的代码实例存储库——利用媒体,教育,电信的数据将数据破解为案例研究. . <sub>⭐ 19 · Jupyter Notebook</sub>
+- [jrobchin/AI-Royale](https://github.com/jrobchin/AI-Royale) - 以实时机器人战斗比赛重新定义竞争性编码和教育。 (Winner at Hack Western 5) <sub>⭐ 19 · Python</sub>
+- [Law-AI/codscomad2023tutorial](https://github.com/Law-AI/codscomad2023tutorial) - 该存储库包含不同Law-AI资源的链接,如数据集和工具. <sub>⭐ 19</sub>
+- [Leonxlnx/tutorialnexora](https://github.com/Leonxlnx/tutorialnexora) - 开源Nexora AI产品工作室登陆页面与Next.js和React一同建成. <sub>⭐ 19 · CSS</sub>
+- [llSourcell/mathvoice](https://github.com/llSourcell/mathvoice) - MathVoice — Voice- First AI数学导师,使用Socratic引擎,由Next.js和Claude共同建造 <sub>⭐ 19 · TypeScript</sub>
+- [muhammadawaisshaikh/Edtech-AI](https://github.com/muhammadawaisshaikh/Edtech-AI) - 教育平台利用Google AI来增强学生学习和记事经验. app将提供语音音符录音,抄写,图像到文本转换等功能. . <sub>⭐ 19 · HTML</sub>
+- [Nauv357/pickq](https://github.com/Nauv357/pickq) - 将 PDF, 注解和截图转换为您自己的问题库 — 使用空格重复 & AI的练习, 完全下线. Windows桌面app. Free & local- first. <sub>⭐ 19 · Java</sub>
+- [Pairrot-Lore/agent-solarpanels-tutorial](https://github.com/Pairrot-Lore/agent-solarpanels-tutorial) - 这个寄存器包含一个与LangGraph一起建造的AI代理,用于计算太阳能电池板的节能. 该项目设计与LangGraph Studio一起使用,便于可视化和测试. <sub>⭐ 19 · Python</sub>
+- [pblsketch/k-teacher-skills](https://github.com/pblsketch/k-teacher-skills) - 韩国师资技能包 课程设计、评估-第一规划以及课堂-内容-意识AI工作流程 <sub>⭐ 19 · Python</sub>
+- [rudra496/devroadmaps](https://github.com/rudra496/devroadmaps) - 开发者路线图 — 20条职业路径, 870+话题, 1 880+免费资源. PWA, 认证, 社区驱动。 您从初学者到高级 dev的自由指南 。 <sub>⭐ 19 · JavaScript</sub>
+- [schullegerhard/500-AI-Agent-Projects](https://github.com/schullegerhard/500-AI-Agent-Projects) - 500AI代理项目是集AI代理使用案例于各行业的精密收藏,它展示了实用的应用,并提供开源项目的链接以供实施. . <sub>⭐ 19 · JavaScript</sub>
+- [testgithubrittttttt/EMOTION-PERSONALITY-DETECTION-SYSTEM](https://github.com/testgithubrittttttt/EMOTION-PERSONALITY-DETECTION-SYSTEM) - 利用TensorFlow的高级面部情感和个性检测系统解开Leash AI。这个深入的学习项目准确地识别了面部表情的情绪,并预言... <sub>⭐ 19 · Jupyter Notebook</sub>
 
 ## 📝 试卷、题目与批改
 
 > 生成题目、测验并自动批改。
 
-- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. <sub>⭐ 2.5k</sub>
-- [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks. <sub>⭐ 1.6k · Jupyter Notebook</sub>
-- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Enterprise-grade deep research skill for Claude Code with 8-phase pipeline, source credibility scoring, and automated validation. Outperforms OpenAI, Gemini, and Claude Desktop in quality and… <sub>⭐ 1.2k · Python</sub>
-- [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers <sub>⭐ 1.1k · Jupyter Notebook</sub>
-- [ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai) - Question generation using state-of-the-art Natural Language Processing algorithms <sub>⭐ 950 · Python</sub>
-- [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond <sub>⭐ 883 · Python</sub>
-- [Submitty/Submitty](https://github.com/Submitty/Submitty) - Homework Submission, Automated Grading, and TA grading system. <sub>⭐ 799 · PHP</sub>
-- [thedivergentai/GD-Agentic-Skills](https://github.com/thedivergentai/GD-Agentic-Skills) - The official "Long-Term Memory" for Godot 4.7+ AI Agents. A high-density library of 99 expert skills and 27 genre blueprints, providing audited, strictly typed GDScript patterns, automated persona… <sub>⭐ 786 · GDScript</sub>
-- [JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform) - Production-Grade ML System for Automated Unit of Measure Error Detection / 88-92% Accuracy / 94% Autonomy / KNIME Workflow <sub>⭐ 731 · PowerShell</sub>
-- [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) - A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persistent memory, and professional-grade analysis. Built for… <sub>⭐ 643 · Python</sub>
-- [teacherpeterpan/Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List) - A summary of must-read papers for Neural Question Generation (NQG) <sub>⭐ 583</sub>
-- [adrianhajdin/university-library-jsm](https://github.com/adrianhajdin/university-library-jsm) - Learn to build a production-grade University Library Management System with industry-standard practices; from rate-limiting, DDoS protection, caching, optimizations, multi-media uploads, complex db… <sub>⭐ 560 · TypeScript</sub>
-- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) - A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application. <sub>⭐ 502 · TypeScript</sub>
-- [KristiyanVachev/Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning. <sub>⭐ 494 · Jupyter Notebook</sub>
-- [asahi417/lm-question-generation](https://github.com/asahi417/lm-question-generation) - Multilingual/multidomain question generation datasets, models, and python library for question generation. <sub>⭐ 366 · Python</sub>
-- [phoenix-zhou/agent-sweep-engine](https://github.com/phoenix-zhou/agent-sweep-engine) - Built on **Agentic RAG** (Agent-driven Retrieval-Augmented Generation) technology, it not only accurately answers pre-sales and after-sales questions but also generates personalized usage reports and… <sub>⭐ 359 · Python</sub>
-- [xinyadu/nqg](https://github.com/xinyadu/nqg) - neural question generation for reading comprehension <sub>⭐ 343 · Lua</sub>
-- [ivnvxd/hack-interview](https://github.com/ivnvxd/hack-interview) - AI-powered tool for real-time interview question transcription and response generation. <sub>⭐ 330 · Python</sub>
-- [KodCode-AI/kodcode](https://github.com/KodCode-AI/kodcode) - A synthetic dataset generation framework that produces diverse coding questions and verifiable solutions - all in one framwork <sub>⭐ 321 · Python</sub>
-- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table… <sub>⭐ 268</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [CatMuse/HiNote](https://github.com/CatMuse/HiNote) - Add comments to highlighted notes, use AI for thinking, and flashcards for memory. <sub>⭐ 260 · TypeScript</sub>
-- [INGInious/INGInious](https://github.com/INGInious/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS. <sub>⭐ 243 · Python</sub>
-- [bloomsburyai/question-generation](https://github.com/bloomsburyai/question-generation) - Neural text-to-text question generation <sub>⭐ 212 · Python</sub>
-- [MoMoM101/RAG-ReActAgent](https://github.com/MoMoM101/RAG-ReActAgent) - RAG ReAct Agent - A Retrieval-Augmented Generation system with ReAct (Reasoning+Acting) agent loop for intelligent question answering with multi-hop reasoning <sub>⭐ 208 · Python</sub>
-- [indrajithi/genquest](https://github.com/indrajithi/genquest) - Automatic question generation by using NLP <sub>⭐ 205 · Python</sub>
-- [nusnlp/nea](https://github.com/nusnlp/nea) - Neural Essay Assessor: An Automated Essay Scoring System Based on Deep Neural Networks <sub>⭐ 205 · Python</sub>
-- [zeus-12/uxie](https://github.com/zeus-12/uxie) - pdf reader app with note taking, annotations, collaboration, ai features (chat, flashcards generation w. ai-feedbacks), tts and ocr. <sub>⭐ 197 · TypeScript</sub>
-- [flashcards/flashcards.github.io](https://github.com/flashcards/flashcards.github.io) - An open, community-driven library of developer flashcards — powered by Flashcards.io. Contribute Markdown files and instantly turn them into AI-generated flashcards with spaced repetition to level up… <sub>⭐ 184 · HTML</sub>
-- [deeppavlov/question_generation](https://github.com/deeppavlov/question_generation) - It is a question-generator model. It takes text and an answer as input and outputs a question. <sub>⭐ 170 · Python</sub>
-- [edkreuk/FMD_FRAMEWORK](https://github.com/edkreuk/FMD_FRAMEWORK) - The Fabric Metadata-Driven (FMD) Framework is a community-driven accelerator for Microsoft Fabric that provides the foundation for automated, scalable, and enterprise-grade data platforms. By… <sub>⭐ 164 · Python</sub>
-- [snakers4/silero-stress](https://github.com/snakers4/silero-stress) - Silero Stress — pre-trained enterprise-grade automated stress and homograph disambiguation for the Russian language <sub>⭐ 162 · Python</sub>
-- [AnkitNayak-dev/CrawlAI-RAG](https://github.com/AnkitNayak-dev/CrawlAI-RAG) - CrawlAI RAG is an AI-powered website intelligence platform that allows users to crawl entire websites, index their content, and ask natural-language questions using Retrieval-Augmented Generation… <sub>⭐ 157 · Python</sub>
-- [brucewlee/lftk](https://github.com/brucewlee/lftk) - (BEA @ ACL 2023) General-purpose tool for linguistic features extraction; Tested on readability assessment, essay scoring, fake news detection, hate speech detection, etc. <sub>⭐ 150 · Python</sub>
-- [KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation) - Easy to use and understand multiple-choice question generation algorithm using T5 Transformers. <sub>⭐ 139 · Jupyter Notebook</sub>
-- [KuanKongy/StudyFlow](https://github.com/KuanKongy/StudyFlow) - Collaborative study platform with AI-powered summaries and flashcards. Built with React, Node.js, MongoDB, and Auth0. Designed for group learning. <sub>⭐ 139 · TypeScript</sub>
-- [seanie12/neural-question-generation](https://github.com/seanie12/neural-question-generation) - Pytorch implementation of Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks <sub>⭐ 139 · Python</sub>
-- [llmsresearch/llm-flashcards](https://github.com/llmsresearch/llm-flashcards) - 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 cards. <sub>⭐ 138 · MDX</sub>
-- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - Text-to-SQL Generation for Question Answering on Electronic Medical Records <sub>⭐ 137 · Python</sub>
-- [Blueturboguy07/NitroAI](https://github.com/Blueturboguy07/NitroAI) - Free, local-first AI study notes — turn any lecture, PDF, or video into notes, flashcards, quizzes, and a study chat. Runs fully local or with your own API key. <sub>⭐ 129 · TypeScript</sub>
-- [hugochan/RL-based-Graph2Seq-for-NQG](https://github.com/hugochan/RL-based-Graph2Seq-for-NQG) - Code & data accompanying the ICLR 2020 paper "Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation" <sub>⭐ 126 · Python</sub>
-- [QingFei1/LongRAG](https://github.com/QingFei1/LongRAG) - (EMNLP 2024) LongRAG: A Dual-perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering <sub>⭐ 122 · Python</sub>
-- [siyuanzhao/automated-essay-grading](https://github.com/siyuanzhao/automated-essay-grading) - Source code for the paper A Memory-Augmented Neural Model for Automated Grading <sub>⭐ 121 · Python</sub>
-- [ItzmeJan/NarrowMind](https://github.com/ItzmeJan/NarrowMind) - A lightweight statistical language model for question-answering and text generation. <sub>⭐ 113 · Rust</sub>
-- [clovaai/FocusSeq2Seq](https://github.com/clovaai/FocusSeq2Seq) - (EMNLP 2019) Mixture Content Selection for Diverse Sequence Generation (Question Generation / Abstractive Summarization) <sub>⭐ 112 · Python</sub>
-- [sumehta/question-generation](https://github.com/sumehta/question-generation) - Given a sentence automatically generate reading comprehension style factual questions from that sentence, such that the sentence contains answers to those questions. <sub>⭐ 112 · Python</sub>
-- [gauthierdmn/question_generation](https://github.com/gauthierdmn/question_generation) - Neural Question Generation using the SQuAD and NewsQA datasets <sub>⭐ 109 · Python</sub>
-- [ruizguille/tech-trends-chatbot](https://github.com/ruizguille/tech-trends-chatbot) - A Retrieval Augmented Generation (RAG) chatbot implementation with FastAPI, Redis and OpenAI's GPT-4o. The chatbot answers questions about new technology trends. <sub>⭐ 107 · Python</sub>
-- [DevSinghSachan/unsupervised-passage-reranking](https://github.com/DevSinghSachan/unsupervised-passage-reranking) - Code, datasets, and checkpoints for the paper "Improving Passage Retrieval with Zero-Shot Question Generation (EMNLP 2022)" <sub>⭐ 103 · Python</sub>
-- [Qeagle/reporter-engine](https://github.com/Qeagle/reporter-engine) - Modern, real-time test reporting and analytics platform for automated testing workflows. Features REST API integration, multi-project support, interactive dashboards, artifact management, AI-powered… <sub>⭐ 103 · TypeScript</sub>
-- [GyaanFlow/tds-roe-solver-t12026](https://github.com/GyaanFlow/tds-roe-solver-t12026) - TDS Portal Solver is a production-grade, highly secure, browser-based sandbox environment designed for the automated execution of deterministic solver logic. Engineered specifically as a local study… <sub>⭐ 100 · JavaScript</sub>
-- [PragatiVerma18/MLH-Quizzet](https://github.com/PragatiVerma18/MLH-Quizzet) - This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document using NLP. This can be used for self-analysis, question paper generation, and evaluation, thus… <sub>⭐ 97 · Python</sub>
-- [quentin-mckay/AI-Quiz-Generator](https://github.com/quentin-mckay/AI-Quiz-Generator) - GPT-powered multiple choice quiz generator built with Next.js <sub>⭐ 95 · JavaScript</sub>
-- [jkanalakis/deep-recall](https://github.com/jkanalakis/deep-recall) - Enterprise-grade memory framework for LLMs featuring GPU-optimized inference, vector storage, and automated scaling. Enables hyper-personalized responses through efficient context retrieval and… <sub>⭐ 91 · Python</sub>
-- [lucagrippa/md2anki](https://github.com/lucagrippa/md2anki) - md2anki is an open-source web app that uses AI to generate Anki flashcards from Markdown files, making it easier to turn your notes into study materials. <sub>⭐ 91 · TypeScript</sub>
-- [landoncrabtree/applaud](https://github.com/landoncrabtree/applaud) - Applaud is free, private, and open source audio transcription and summarization tool. It's designed to take audio recordings and provide a transcription, as well as common AI use-cases like… <sub>⭐ 90 · TypeScript</sub>
-- [EM-GeekLab/LLMOne](https://github.com/EM-GeekLab/LLMOne) - Enterprise-grade LLM automated deployment tool that makes AI servers truly "plug-and-play". <sub>⭐ 89 · TypeScript</sub>
-- [LexiestLeszek/scrapeGPT](https://github.com/LexiestLeszek/scrapeGPT) - ScrapeGPT is a RAG-based Telegram bot designed to scrape and analyze websites, then answer questions based on the scraped content. The bot utilizes Retrieval Augmented Generation and webscraping to… <sub>⭐ 87 · Python</sub>
-- [vincentkoc/airgapped-offfline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - Secure, locally-run Retrieval-Augmented Generation system for document-based question-answering, utilizing Llama 3, Mistral, and Gemini models with a user-friendly Streamlit interface. <sub>⭐ 87 · Python</sub>
-- [GatorEducator/gatorgrader](https://github.com/GatorEducator/gatorgrader) - Automated Grading Tool that Checks the Work of Writers and Programmers <sub>⭐ 85 · Python</sub>
-- [phoenix-zhou/logistics-industry-RAG](https://github.com/phoenix-zhou/logistics-industry-RAG) - This project is a local knowledge base "Logistics Industry" question-answering system based on the **RAG (Retrieval-Augmented Generation) technology**. <sub>⭐ 85 · Python</sub>
-- [ViiSkor/Anki-decks-deeplearning.ai](https://github.com/ViiSkor/Anki-decks-deeplearning.ai) - This repository contains flashcard decks for DeepLearning.ai courses. <sub>⭐ 84</sub>
-- [ankimcp/anki-mcp-server-addon](https://github.com/ankimcp/anki-mcp-server-addon) - An Anki addon that implements an MCP server, enabling AI assistants to interact with Anki, the spaced repetition flashcard application. <sub>⭐ 81 · Python</sub>
-- [karthik558/setup_hack_env](https://github.com/karthik558/setup_hack_env) - An advanced, enterprise-grade ethical hacking and penetration testing environment automated installer. Fully cross-platform, supporting Windows 10/11, macOS (Apple Silicon & Intel), and all Linux… <sub>⭐ 81 · Python</sub>
-- [yllvar/Kalshi-Quant-TeleBot](https://github.com/yllvar/Kalshi-Quant-TeleBot) - Kalshi Advanced Quantitative Trading Bot is an enterprise-grade automated trading system designed for the Kalshi event-based prediction market. Built with cutting-edge quantitative algorithms and… <sub>⭐ 77 · Python</sub>
-- [YuxiXie/SG-Deep-Question-Generation](https://github.com/YuxiXie/SG-Deep-Question-Generation) - This repository contains code and models for the paper: Semantic Graphs for Generating Deep Questions (ACL 2020). <sub>⭐ 75 · Python</sub>
-- [morningmoni/GAR](https://github.com/morningmoni/GAR) - Code and resources for papers "Generation-Augmented Retrieval for Open-Domain Question Answering" and "Reader-Guided Passage Reranking for Open-Domain Question Answering", ACL 2021 <sub>⭐ 74 · Python</sub>
-- [deepdrdoc/DeepDRiD](https://github.com/deepdrdoc/DeepDRiD) - Automated machine learning can facilitate the early diagnosis and timely treatment of diabetic retinopathy. Following the 1st Diabetic Retinopathy: Segmentation and Grading Challenge held with ISBI… <sub>⭐ 73</sub>
-- [ipeirotis/ReadabilityMetrics](https://github.com/ipeirotis/ReadabilityMetrics) - A web service that computes a set of readability metrics for text. We currently support the following metrics: Automated Readability Index, Coleman-Liau Index, Flesch–Kincaid Grade Level, Flesch… <sub>⭐ 73 · Java</sub>
-- [thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix](https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix) - Using machine learning on your anki collection to enhance the scheduling via semantic clustering and semantic similarity <sub>⭐ 72 · Python</sub>
-- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole, Mackworth & Goebel 1998, p. 1. Russell & Norvig 2003, p. 55. Definition of AI as the study of intelligent agents: Poole, Mackworth & Goebel (1998), which provides the version that is used in… <sub>⭐ 70</sub>
-- [holylovenia/question-answer-generation](https://github.com/holylovenia/question-answer-generation) - Question-answer generation from text <sub>⭐ 70 · Jupyter Notebook</sub>
-- [FaustoS88/Pydantic-AI-Pinescript-Expert](https://github.com/FaustoS88/Pydantic-AI-Pinescript-Expert) - PineScript Expert: A Retrieval-Augmented Generation (RAG) agent using Pydantic AI that provides accurate Pine Script v6 guidance. It answers questions, offers code examples, and generates custom… <sub>⭐ 67 · Python</sub>
-- [kanyesthaker/qgqa-flashcards](https://github.com/kanyesthaker/qgqa-flashcards) - Question Generation - Question Answering for Automatic Flashcards <sub>⭐ 66 · JavaScript</sub>
-- [jtur671/gh-600-study-guide](https://github.com/jtur671/gh-600-study-guide) - Free study materials for the GH-600 GitHub Certified: Agentic AI Developer exam — 67 flashcards, a 41-question mock exam, 6 hands-on labs, concept diagrams, and Anki decks. <sub>⭐ 65 · Python</sub>
-- [pieralukasz/true-recall](https://github.com/pieralukasz/true-recall) - Native spaced repetition for Obsidian: AI-generated flashcards, FSRS v6 scheduling, image occlusion and retention analytics — without leaving your vault. <sub>⭐ 65 · TypeScript</sub>
-- [proyecto26/notebooklm-ai-plugin](https://github.com/proyecto26/notebooklm-ai-plugin) - AI Agent plugin for Google NotebookLM (Claude, OpenClaw, etc) — generate slide decks, audio overviews, videos, mind maps, flashcards, quizzes, infographics, reports, and data tables from your… <sub>⭐ 65 · TypeScript</sub>
-- [sankalpjain99/Automatic-Essay-Scoring](https://github.com/sankalpjain99/Automatic-Essay-Scoring) - Created a web app that can automatically score essays. The grading model was trained using HP Essays Dataset from Kaggle. Used Long Short Term Memory (LSTM) network and machine learning algorithms to… <sub>⭐ 65 · Jupyter Notebook</sub>
-- [Alannikos/edg4llm](https://github.com/Alannikos/edg4llm) - A unified tool to generate fine-tuning datasets for LLMs, including questions, answers, and dialogues. <sub>⭐ 64 · Python</sub>
-- [siat-nlp/TransDG](https://github.com/siat-nlp/TransDG) - Source code for the paper "Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering" (AAAI 2020) <sub>⭐ 64 · Python</sub>
-- [lingochamp/Multi-Scale-BERT-AES](https://github.com/lingochamp/Multi-Scale-BERT-AES) - Demo for the paper "On the Use of BERT for Automated Essay Scoring: Joint Learning of Multi-Scale Essay Representation" <sub>⭐ 63 · Python</sub>
-- [alonw0/llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer) - A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt… <sub>⭐ 61 · Python</sub>
-- [htlin222/robust-lit-review](https://github.com/htlin222/robust-lit-review) - Automated systematic literature review pipeline generating publication-ready manuscripts from Scopus/PubMed/Embase with PRISMA compliance, GRADE evidence synthesis, and DOI validation for clinical… <sub>⭐ 58 · Python</sub>
-- [Turanga1/Automated-Essay-Scoring](https://github.com/Turanga1/Automated-Essay-Scoring) - Kaggle 2012 Hewlett Automated Student Assessment Prize (ASAP) - Automated Essay Scoring <sub>⭐ 58 · Jupyter Notebook</sub>
-- [alfredang/notebooklm-mcp](https://github.com/alfredang/notebooklm-mcp) - Bridge Google NotebookLM with Claude via MCP. Full programmatic access to create notebooks, manage sources, and generate AI-powered content — podcasts, videos, slides, mind maps, quizzes, flashcards… <sub>⭐ 57 · Python</sub>
-- [awslabs/unsupervised-qa](https://github.com/awslabs/unsupervised-qa) - Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering <sub>⭐ 57 · Python</sub>
-- [caomingkai/Online-Exam-System](https://github.com/caomingkai/Online-Exam-System) - A MERN stack online examination application, providing features like JWT authentication random questions generation, timer automatic grading. ##Tech Stack: React/Redux, Node.js, Express, MongoDB… <sub>⭐ 57 · JavaScript</sub>
-- [nyaundid/EC2-AWS-AND-SHELL](https://github.com/nyaundid/EC2-AWS-AND-SHELL) - SEIS 665 Assignment 2: Linux & Git Overview This week we will focus on becoming familiar with launching a Linux server and working with some basic Linux and Git commands. We will use AWS to launch… <sub>⭐ 57 · Shell</sub>
-- [PersistenceForever/Neural-Question-Generation-Survey-List](https://github.com/PersistenceForever/Neural-Question-Generation-Survey-List) - A comprehensive overview of neural question generation across diverse input formats. <sub>⭐ 57</sub>
-- [swiftuiux/coreml-stable-diffusion-swift-example-app](https://github.com/swiftuiux/coreml-stable-diffusion-swift-example-app) - CoreML Image Generate, example app, Swift text to image conversion with CoreML image to image AI Image Processing Text Image CoreML Image Processing CoreML Image Generator Text and generate Image… <sub>⭐ 57 · Swift</sub>
-- [HotpotDesign/api-examples](https://github.com/HotpotDesign/api-examples) - This repository illustrates how to use the Hotpot.ai API. Our API provides Stable Diffusion, image generator, text-to-image generator, background removal, image upscaler, photo restoration, and… <sub>⭐ 55</sub>
-- [VectorInstitute/kg-rag](https://github.com/VectorInstitute/kg-rag) - This project implements a comprehensive framework for Knowledge Graph Retrieval Augmented Generation (KG-RAG). It focuses on financial data from SEC 10-Q filings and explores how knowledge graphs can… <sub>⭐ 55 · Python</sub>
-- [karthikkasirajan/studybuddy-ai](https://github.com/karthikkasirajan/studybuddy-ai) - AI-powered study assistant that transforms PDF notes into quizzes, flashcards, and summaries — built with Streamlit, Groq, and LLaMA 3. <sub>⭐ 54 · Python</sub>
-- [karthikprasad/automated-essay-grader](https://github.com/karthikprasad/automated-essay-grader) - grade an English essay <sub>⭐ 54 · Assembly</sub>
-- [dev-it-with-me/RagUltimateAdvisor](https://github.com/dev-it-with-me/RagUltimateAdvisor) - A complete Retrieval-Augmented Generation (RAG) application that demonstrates modern AI capabilities for answering questions about Ultimate Frisbee rules and strategies. This project showcases how to… <sub>⭐ 53 · Python</sub>
-- [NVIDIA/cosmos-evaluator](https://github.com/NVIDIA/cosmos-evaluator) - NVIDIA Cosmos Evaluator is an automated evaluation & grading system for synthetic video output generated by Cosmos models <sub>⭐ 52 · Python</sub>
-- [yanghoonkim/NQG_ASs2s](https://github.com/yanghoonkim/NQG_ASs2s) - Implementation of by Yanghoon Kim et al., AAAI 2019 <sub>⭐ 52 · Python</sub>
-- [future-agi/futureagi-sdk](https://github.com/future-agi/futureagi-sdk) - Production-grade AI evaluation, prompt management & observability SDK. Automated evaluations with sub-100ms guardrails. No human-in-the-loop required. Python + TypeScript. <sub>⭐ 51 · Python</sub>
-- [hugochan/Graph2Seq-for-KGQG](https://github.com/hugochan/Graph2Seq-for-KGQG) - Code & data accompanying the paper "Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks" <sub>⭐ 51 · Python</sub>
-- [Md-Emon-Hasan/MediGenius](https://github.com/Md-Emon-Hasan/MediGenius) - AI-powered multi-agent medical assistant with a deterministic safety layer — crisis detection, refused-topic hard-stops, dosage grounding, and post-generation diagnosis verification running before… <sub>⭐ 51 · Jupyter Notebook</sub>
-- [zichaow/QG-Net](https://github.com/zichaow/QG-Net) - code for QG-Net: A Data-Driven Question Generation Model for Educational Content <sub>⭐ 50 · Python</sub>
-- [enricollen/rag-conversational-agent](https://github.com/enricollen/rag-conversational-agent) - A simple local Retrieval-Augmented Generation (RAG) chatbot that can answer to questions by acquiring information from personal PDF documents. <sub>⭐ 49 · Python</sub>
-- [Adii2202/RAG-AI-Voice-assistant-](https://github.com/Adii2202/RAG-AI-Voice-assistant-) - Performing a RAG (Retrieval Augmented Generation) assessment using voice-to-voice query resolution. Provide the file containing the queries, ask the questions, and receive the results via voice. <sub>⭐ 48 · Python</sub>
-- [Leon-Sander/langchain_faiss_vectorindex](https://github.com/Leon-Sander/langchain_faiss_vectorindex) - Telegram bot that answers questions over your PDFs using retrieval-augmented generation (LangChain + FAISS). <sub>⭐ 48 · Python</sub>
-- [obss/turkish-question-generation](https://github.com/obss/turkish-question-generation) - Automated question generation and question answering from Turkish texts using text-to-text transformers <sub>⭐ 47 · Python</sub>
-- [fanzeyi/Vulpix](https://github.com/fanzeyi/Vulpix) - Automated code grading system <sub>⭐ 46 · Python</sub>
-- [aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos) - This repository features three demos that can be effortlessly integrated into your AWS environment. They serve as a practical guide to leveraging AWS services for crafting a sophisticated Large… <sub>⭐ 45 · TypeScript</sub>
-- [Gaurav-Pande/AES_DL](https://github.com/Gaurav-Pande/AES_DL) - Automated Essay Scoring using BERT <sub>⭐ 45 · Jupyter Notebook</sub>
-- [robzilla1738/Memorwise](https://github.com/robzilla1738/Memorwise) - A local, open-source alternative to NotebookLM. Chat with your documents using any LLM. <sub>⭐ 45 · TypeScript</sub>
-- [yanghoonkim/neural_question_generation](https://github.com/yanghoonkim/neural_question_generation) - Implementation of by Xinya Du et al. <sub>⭐ 45 · Python</sub>
-- [Enfoirer/Text2GraphRAG](https://github.com/Enfoirer/Text2GraphRAG) - Text2GraphRAG Disease Assistant builds a disease-focused retrieval-augmented generation workflow. It ingests structured Markdown (demo: ophthalmology), extracts entities and relations into Neo4j… <sub>⭐ 44 · Python</sub>
-- [MrpasswordTz/webripper-pro](https://github.com/MrpasswordTz/webripper-pro) - Webripper Pro is a comprehensive, professional-grade web vulnerability scanner that automates the detection of security flaws in websites. It is designed for penetration testers, bug bounty hunters… <sub>⭐ 44 · Python</sub>
-- [Pjha72/AcademixTracker](https://github.com/Pjha72/AcademixTracker) - The Student Result Management System is a web-based tool designed to automate the administration of semester results by tracking students' grades. The system is intended to replace manual work and… <sub>⭐ 44 · JavaScript</sub>
-- [benhamner/ASAP-AES](https://github.com/benhamner/ASAP-AES) - Evaluation Metrics for the Hewlett Foundation's Automated Essay Scoring competition <sub>⭐ 43 · Python</sub>
-- [feidong1991/aes](https://github.com/feidong1991/aes) - A deep neural model for automatic essay scoring <sub>⭐ 43 · Python</sub>
-- [healthy-chicken-saladeers/rag_detective](https://github.com/healthy-chicken-saladeers/rag_detective) - A chatbot utilizing Retrieval Augmented Generation (RAG) to answer questions about company websites. <sub>⭐ 43 · Jupyter Notebook</sub>
-- [Balaji-R-05/askdocs-ai](https://github.com/Balaji-R-05/askdocs-ai) - An AI-powered chatbot that leverages RAG (Retrieval-Augmented Generation) to answer your questions based on the content of uploaded PDFs <sub>⭐ 42 · Python</sub>
-- [PndaMan/cortex](https://github.com/PndaMan/cortex) - Local-first, open-source NotebookLM alternative — a desktop study OS that turns your slides, PDFs and lectures into cheatsheets, flashcards, quizzes and citation-grounded chat. <sub>⭐ 42 · Svelte</sub>
-- [ucrcsedept/galah](https://github.com/ucrcsedept/galah) - An automated grading system geared towards processing computer programming assignments. <sub>⭐ 42 · Python</sub>
-- [justfinethanku/cc_chrome_devtools_mcp_skill](https://github.com/justfinethanku/cc_chrome_devtools_mcp_skill) - This skill enables automated Chrome browser testing and performance analysis using the Chrome DevTools Protocol (CDP) via the chrome-devtools-mcp server. It provides access to 27 professional-grade… <sub>⭐ 41</sub>
-- [NathanielDamours/fastai-flashcards](https://github.com/NathanielDamours/fastai-flashcards) - Flashcards to learn AI <sub>⭐ 41</sub>
-- [piazzatron/anki-smart-notes](https://github.com/piazzatron/anki-smart-notes) - Superchange your anki flashcards with AI <sub>⭐ 41 · Python</sub>
-- [unnikked/NotionRag](https://github.com/unnikked/NotionRag) - Ask question over your Notion Database! A naive Retrieval-Augmented Generation (RAG) pipeline backed by Langchain and Streamlit <sub>⭐ 41 · Python</sub>
-- [dmis-lab/RAG2](https://github.com/dmis-lab/RAG2) - (NAACL 2025) Rationale-Guided Retrieval Augmented Generation for Medical Question Answering <sub>⭐ 40 · Python</sub>
-- [mvkro1/AI-Based-Study-Assistant](https://github.com/mvkro1/AI-Based-Study-Assistant) - An AI-powered study assistant that generates flashcards and quizzes. <sub>⭐ 40</sub>
-- [yuhui-zh15/AutoConverter](https://github.com/yuhui-zh15/AutoConverter) - Official implementation of "Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation" (CVPR 2025) <sub>⭐ 39 · Python</sub>
-- [DeepSQLAI/deepsql](https://github.com/DeepSQLAI/deepsql) - The database agent for Postgres and MySQL - Point it at PostgreSQL or MySQL and ask questions in plain English — schema exploration, query generation, slow query analysis, index recommendations… <sub>⭐ 38 · Java</sub>
-- [gsh199449/productqa](https://github.com/gsh199449/productqa) - Product-Aware Answer Generation in E-Commerce Question-Answering <sub>⭐ 38</sub>
-- [bhaskatripathi/HypothesisHub](https://github.com/bhaskatripathi/HypothesisHub) - An AI Tool for Automated Research Question and Hypothesis Generation from a given Scientific Literature <sub>⭐ 37 · Jupyter Notebook</sub>
-- [codertimo/KorQuAD-Question-Generation](https://github.com/codertimo/KorQuAD-Question-Generation) - question generation model with KorQuAD dataset <sub>⭐ 37 · Python</sub>
-- [Evavic44/quiznote](https://github.com/Evavic44/quiznote) - An AI-powered quiz generator for creating quizes from your notes and textbooks / Powered by Google Gemini <sub>⭐ 37 · TypeScript</sub>
-- [kwanLeeFrmVi/mcp-rag-server](https://github.com/kwanLeeFrmVi/mcp-rag-server) - mcp-rag-server is a Model Context Protocol (MCP) server that enables Retrieval Augmented Generation (RAG) capabilities. It empowers Large Language Models (LLMs) to answer questions based on your… <sub>⭐ 36 · TypeScript</sub>
-- [spider863644/Forensight](https://github.com/spider863644/Forensight) - Forensight is a powerful Image OSINT + Real-time video call inspection tool for digital investigations. It automates image, metadata, and network intelligence gathering with precision tools like… <sub>⭐ 35 · Python</sub>
-- [Farahn/AES](https://github.com/Farahn/AES) - Automatic Essay Scoring <sub>⭐ 34 · Jupyter Notebook</sub>
-- [ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT](https://github.com/ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT) - Generate True or False questions from any content with OpenAI GPT2 text generation, Sentence-BERT semantic search and Berkley constituency parser. <sub>⭐ 34 · Jupyter Notebook</sub>
-- [robert1ridley/cross-prompt-trait-scoring](https://github.com/robert1ridley/cross-prompt-trait-scoring) - This repository contains the code used to produce the results from the paper Automated Cross-prompt Scoring of Essay Traits published in AAAI 2021. <sub>⭐ 34 · Python</sub>
-- [Xiaochr/LLM-AES](https://github.com/Xiaochr/LLM-AES) - (LAK25) Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs <sub>⭐ 34 · Python</sub>
-- [Dev-Salem/quizwiz](https://github.com/Dev-Salem/quizwiz) - Quizwiz is a flashcards app that utilizes the power or AI and Super-Memo algorithm (SM-2) <sub>⭐ 33 · Dart</sub>
-- [iris2hu/L2C-rater](https://github.com/iris2hu/L2C-rater) - Automated Essay Scoring Method for Chinese Second Language Writing <sub>⭐ 33 · Python</sub>
-- [meghabyte/acl2021-education](https://github.com/meghabyte/acl2021-education) - Code for "Question Generation for Adaptive Education", to appear at ACL 2021. <sub>⭐ 33 · Jupyter Notebook</sub>
-- [WarehouseFinds/PSScriptModule](https://github.com/WarehouseFinds/PSScriptModule) - A production-grade PowerShell script module template designed to standardize module development. It integrates automated builds, dependency management, static code analysis, testing, documentation… <sub>⭐ 33 · PowerShell</sub>
-- [aimagelab/ReAG](https://github.com/aimagelab/ReAG) - (CVPR 2026 Highlight) ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering <sub>⭐ 32 · Python</sub>
-- [matatusko/seq2seq](https://github.com/matatusko/seq2seq) - Universal seq2seq model for question generation, text summarization, machine translation etc. written in Python and Tensorflow 1.4 with Tensorflow's Beam Search API decoder <sub>⭐ 32 · Python</sub>
-- [mongodb-developer/mongodb-vector-search-rag](https://github.com/mongodb-developer/mongodb-vector-search-rag) - The Python scripts in this repo use MongoDB Vector Search with Retrieval-Augmented Generation (RAG) architecture to build a Question Answering application. They use the LangChain framework, OpenAI… <sub>⭐ 32 · Python</sub>
-- [shubhpawar/Automated-Essay-Scoring](https://github.com/shubhpawar/Automated-Essay-Scoring) - Automated Essay Scoring on The Hewlett Foundation dataset on Kaggle <sub>⭐ 32 · Jupyter Notebook</sub>
-- [WorkInTheDark/FairytaleQA_QAG_System](https://github.com/WorkInTheDark/FairytaleQA_QAG_System) - The official repository for paper "It is AI’s Turn to Ask Humans a Question: Question-Answer Pair Generation for Children’s Story Books" accepted to ACL 2022 <sub>⭐ 32 · Python</sub>
-- [FUTUREEEEEE/MBA](https://github.com/FUTUREEEEEE/MBA) - COLING 2025: MBA-RAG: a Bandit Approach for Adaptive Retrieval-Augmented Generation through Question Complexity <sub>⭐ 30 · Python</sub>
-- [geekquad/quiz.ai](https://github.com/geekquad/quiz.ai) - An Encrypted Automatic Multiple-Choice Question Generator for Self-Assessment Using Natural Language Processing <sub>⭐ 30 · HTML</sub>
-- [simonw/llm-rag](https://github.com/simonw/llm-rag) - Answer questions against collections stored in LLM using Retrieval Augmented Generation <sub>⭐ 30 · Python</sub>
-- [thiswillbeyourgithub/Voice2Anki](https://github.com/thiswillbeyourgithub/Voice2Anki) - A powerful tool that converts voice recordings into high-quality Anki flashcards using AI-powered transcription and LLM processing, featuring Few-Shot Learning to adapt to your personal style and… <sub>⭐ 30 · Python</sub>
-- [ujjax/question-generation](https://github.com/ujjax/question-generation) - Neural Models for Key Phrase Detection and Question Generation <sub>⭐ 30 · Python</sub>
-- [DataScienceUIBK/TriviaHG](https://github.com/DataScienceUIBK/TriviaHG) - A Dataset for Automatic Hint Generation from Factoid Questions <sub>⭐ 29 · Python</sub>
-- [mkr-infinity/Revision-Master](https://github.com/mkr-infinity/Revision-Master) - Revision Master - A smart, offline-first study app with AI-generated flashcards, mock tests, and a focus timer. <sub>⭐ 29 · TypeScript</sub>
-- [seoneun/KoBART-Question-Generation](https://github.com/seoneun/KoBART-Question-Generation) - KorQuAD Korean domain Question Generation module based on KoBART <sub>⭐ 29 · Python</sub>
-- [YuxiXie/RL-for-Question-Generation](https://github.com/YuxiXie/RL-for-Question-Generation) - This repository contains codes and models for the paper: Exploring Question-Specific Rewards for Generating Deep Questions (COLING 2020). <sub>⭐ 29 · Python</sub>
-- [cognitive-engineering-lab/quizicist](https://github.com/cognitive-engineering-lab/quizicist) - AI-powered quiz generator <sub>⭐ 28 · Python</sub>
-- [hoangsonww/StudySync-Study-Buddy-App](https://github.com/hoangsonww/StudySync-Study-Buddy-App) - StudySync is a productivity app with tools like AI-powered study tips, music recommendations, a Pomodoro timer, and more to help enhance your study routine and stay organized. Welcome to a suite of… <sub>⭐ 28 · Vue</sub>
-- [akajammythakkar/rag-with-gemini](https://github.com/akajammythakkar/rag-with-gemini) - Retrieval-Augmented Generation over PDFs with Google Gemini: chunking, embeddings and grounded question answering in one runnable notebook. 49,000+ views. <sub>⭐ 27 · Jupyter Notebook</sub>
-- [andrisgauracs/Star-Wars-Movie-Expert](https://github.com/andrisgauracs/Star-Wars-Movie-Expert) - A minimal Retrieval-Augmented Generation (RAG) example that scrapes original Star Wars movie scripts, splits them into chunks, stores embeddings in a Qdrant vector store, and answers user questions… <sub>⭐ 27 · Python</sub>
-- [Basant-goswami/eLearning-website](https://github.com/Basant-goswami/eLearning-website) - A comprehensive e-learning platform offering personalized course recommendations and courses like Full Stack Web Development, Java, JavaScript, and React. Features include a real-time chatbot for… <sub>⭐ 27 · JavaScript</sub>
-- [dmis-lab/LIQUID](https://github.com/dmis-lab/LIQUID) - LIQUID: A Framework for List Question Anwering Dataset Generation (AAAI 2023) <sub>⭐ 27 · Python</sub>
-- [EMLab/emlab-generation](https://github.com/EMLab/emlab-generation) - EMlab/emlab-generation is a suite of Agent-Based Models of power generation, dealing with energy and carbon policy questions. There is focus on long-term developments. <sub>⭐ 27 · Java</sub>
-- [faerber-lab/RAGentA](https://github.com/faerber-lab/RAGentA) - Repository for the SIGIR LiveRAG challenge: "RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering" <sub>⭐ 27 · Python</sub>
-- [wenderfl/CardBunny](https://github.com/wenderfl/CardBunny) - AI-Powered Language Learning from Videos with Anki <sub>⭐ 27 · Python</sub>
-- [YuYue71/PWG-Governance](https://github.com/YuYue71/PWG-Governance) - An industrial-grade, zero-redundancy workflow governance layer for LLM integration. Features deterministic context routing, automated convergence gates, and literate programming standards to… <sub>⭐ 27</sub>
-- [hacktronaut/ollama-rag-demo](https://github.com/hacktronaut/ollama-rag-demo) - This application serves as a demonstration of the integration of langchain.js, Ollama, and ChromaDB to showcase question-answering capabilities. With a focus on Retrieval Augmented Generation (RAG)… <sub>⭐ 26 · JavaScript</sub>
-- [NaEs25/studiamo](https://github.com/NaEs25/studiamo) - Turn YouTube videos, PDFs, and notes into AI-generated active-recall flashcards with spaced repetition, fact verification, and Telegram review reminders. <sub>⭐ 26 · Python</sub>
-- [ozcangundes/multitask-question-generation](https://github.com/ozcangundes/multitask-question-generation) - mT5 model for question answering and question generation <sub>⭐ 26 · Python</sub>
-- [subrata-samanta/RL-Self-Improving-RAG](https://github.com/subrata-samanta/RL-Self-Improving-RAG) - This project implements a Reinforcement Learning (RL) enhanced Retrieval-Augmented Generation (RAG) system that optimizes document retrieval for question answering tasks. <sub>⭐ 26 · Jupyter Notebook</sub>
-- [AlexEBall/Automated-Essay-Grading-with-NLP](https://github.com/AlexEBall/Automated-Essay-Grading-with-NLP) - Using machine learning and NLP to automatically grade essays <sub>⭐ 25 · Python</sub>
-- [andrearosasco/BertQuestionGeneration](https://github.com/andrearosasco/BertQuestionGeneration) - BERT-based Seq2Seq architecture trained on SQuAD to generate questions given a text and an answer. <sub>⭐ 25 · Python</sub>
-- [eth-nlped/socratic-generation](https://github.com/eth-nlped/socratic-generation) - Automatic Generation of Scaffolding Questions for Learning Math, EMNLP 2022. RL, REINFORCE <sub>⭐ 25 · Python</sub>
-- [Minokainduwara/RAG-Chatbot](https://github.com/Minokainduwara/RAG-Chatbot) - A Retrieval-Augmented Generation (RAG) chatbot that answers questions from your own documents using local or cloud-based LLMs. <sub>⭐ 25 · Python</sub>
-- [sagor-mollik/Automated-School-Management-System](https://github.com/sagor-mollik/Automated-School-Management-System) - # Automated-School-Management-System ### Welcome to School-Management-System Git Page. This Web Application developed using php,ajax,jquery.Custom Lay Architecture. ###*Admin features * * modify his… <sub>⭐ 25 · PHP</sub>
-- [alam025/ai-voice-assistant-appointment-booking](https://github.com/alam025/ai-voice-assistant-appointment-booking) - Enterprise-grade AI voice assistant for automated appointment scheduling using FastAPI, Twilio, and AWS Polly with natural language processing <sub>⭐ 24 · Python</sub>
-- [Bayer-Group/text-to-sql-epi-ehr-naacl2024](https://github.com/Bayer-Group/text-to-sql-epi-ehr-naacl2024) - Code for Retrieval augmented text-to-SQL generation for epidemiological question answering using electronic health records <sub>⭐ 24 · Python</sub>
-- [bitsandbrainsai/ai-ad-creative-strategist](https://github.com/bitsandbrainsai/ai-ad-creative-strategist) - Advanced, end-to-end, enterprise-grade agentic AI pipeline that automates competitor ad intelligence, performs multimodal creative strategy extraction, enables brand-safe adaptation, and generates AI… <sub>⭐ 24</sub>
-- [cyb3ratul/subtron](https://github.com/cyb3ratul/subtron) - Subtron is a professional grade subdomain enumeration toolkit designed for security researchers, penetration testers, and bug bounty hunters. It automates the discovery of subdomains by integrating… <sub>⭐ 24 · Shell</sub>
-- [dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering](https://github.com/dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering) - code for ACL 2023 paper 'Event Extraction as Question Generation and Answering' <sub>⭐ 24 · Python</sub>
-- [errorfiathck/upload_forge](https://github.com/errorfiathck/upload_forge) - Upload Forge is a powerful, production-grade security tool designed to detect and exploit file upload vulnerabilities in web applications. Built for penetration testers and security researchers, it… <sub>⭐ 24 · Python</sub>
-- [hemantpugaliya/Automatic-Question-Answer-Generation](https://github.com/hemantpugaliya/Automatic-Question-Answer-Generation) - A rule based system system for automatically generating Factoid question Answers based on "A rule based question generation framework to deal with simple and complex sentences" by Das et.al <sub>⭐ 24 · Jupyter Notebook</sub>
-- [rotimi-best/quizify](https://github.com/rotimi-best/quizify) - Quizify is an AI Quiz generator powered by Vercel AI SDK. Built with Sveltekit, OpenAI, and Vercel AI SDK. <sub>⭐ 24 · Svelte</sub>
-- [shravan-kuchkula/udacity-data-eng-proj2](https://github.com/shravan-kuchkula/udacity-data-eng-proj2) - A production-grade data pipeline has been designed to automate the parsing of user search patterns to analyze user engagement. Extract data from S3, apply a series of transformations and load into S3… <sub>⭐ 24 · Jupyter Notebook</sub>
-- [TanayGhanshyam/crispy-octo-guide](https://github.com/TanayGhanshyam/crispy-octo-guide) - We have come a long way since I was a child in the 1960s when all I wanted for Christmas was a slinky and some Rock’Em – Sock’Em Robots. Now imagine we have traveled ten years into the future, and it… <sub>⭐ 24</sub>
-- [ali-faraz-py/CodexQuery](https://github.com/ali-faraz-py/CodexQuery) - RAG-powered chatbot that answers questions about my own codebase, using fastembed + numpy for retrieval and Groq for generation. <sub>⭐ 23 · JavaScript</sub>
-- [christopherjohnogden/CineGen](https://github.com/christopherjohnogden/CineGen) - A professional video editor with AI built in. Multi-track timeline, node-based generation workflows, and an integrated LLM assistant that can search your project, answer questions, and make edits for… <sub>⭐ 23 · JavaScript</sub>
-- [doheejin/ProTACT](https://github.com/doheejin/ProTACT) - This repository is the implementation of the ProTACT architecture, introduced in the paper "Prompt- and Trait Relation-aware Cross-prompt Essay Trait Scoring" (ACL Findings 2023). <sub>⭐ 23 · Python</sub>
-- [rstudio/ggcheck](https://github.com/rstudio/ggcheck) - Inspect ggplot2 Plots for Automated Grading in Learning Exercises <sub>⭐ 23 · R</sub>
-- [semasuka/Talk-to-your-PDF](https://github.com/semasuka/Talk-to-your-PDF) - An application that enable the users to upload PDF files and ask questions regarding their content using Retrieval Augmented Generation (RAG) <sub>⭐ 23 · Python</sub>
-- [SiyuanWangw/PathQG](https://github.com/SiyuanWangw/PathQG) - The source code of Paper "PathQG: Neural Question Generation from Facts". <sub>⭐ 23 · Python</sub>
-- [Vladyslav-Soldatenko/ProcrastiLearn](https://github.com/Vladyslav-Soldatenko/ProcrastiLearn) - Android app that turns doomscrolling into flashcard reps. Pick apps to gate (TikTok, etc.) — opening them triggers a full-screen spaced-repetition vocabulary card you must review first. Anki import… <sub>⭐ 23 · Kotlin</sub>
-- [AmirhosseinHonardoust/Customer-Sentiment-Intelligence-Platform](https://github.com/AmirhosseinHonardoust/Customer-Sentiment-Intelligence-Platform) - An enterprise-grade NLP + Streamlit + SQL platform for analyzing customer feedback. Performs automated sentiment detection, stores labeled reviews in SQLite, and delivers real-time dashboards with… <sub>⭐ 22 · Python</sub>
-- [cRED-f/QuestGen-AI-Agent](https://github.com/cRED-f/QuestGen-AI-Agent) - QuestGen-AI is an advanced exam question generation platform that leverages AI-Agent to automatically create customized question papers from user-uploaded PDF content <sub>⭐ 22 · TypeScript</sub>
-- [junfanz1/Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot) - This project implements an advanced Retrieval Augmented Generation (RAG) workflow to enhance question-answering accuracy and reduce LLM hallucinations. It leverages LangGraph to create a stateful… <sub>⭐ 22 · Python</sub>
-- [narain280493/Automatic-Question-Generation](https://github.com/narain280493/Automatic-Question-Generation) - Generating Questions and Distractors automatically from Multimedia. Undergraduate Thesis work. <sub>⭐ 22 · Java</sub>
-- [prasadus92/parking-lot-problem](https://github.com/prasadus92/parking-lot-problem) - A production-grade, enterprise-level automated parking lot management system built with clean architecture principles. <sub>⭐ 22 · Java</sub>
-- [5uru/Median](https://github.com/5uru/Median) - Median is an open-source flashcard application that leverages the power of spaced repetition and artificial intelligence to transform the learning process. <sub>⭐ 21 · Python</sub>
-- [AmirhosseinHonardoust/Synthetic-Data-Artist](https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist) - A professional, research-grade comparison of Gaussian Copula and Variational Autoencoder (VAE) methods for synthetic tabular data generation. Includes full evaluation pipeline with distribution… <sub>⭐ 21 · Python</sub>
-- [christianbitter/QA_and_QG](https://github.com/christianbitter/QA_and_QG) - An inventory of data sets around Question Generation and Question Answering <sub>⭐ 21</sub>
-- [jameskermode/mograder](https://github.com/jameskermode/mograder) - Semi-automated grading for Marimo notebooks <sub>⭐ 21 · Python</sub>
-- [Lyahn-Huang/FullStackAutoQuant](https://github.com/Lyahn-Huang/FullStackAutoQuant) - Production grade end to end automated quantitative trading system. <sub>⭐ 21 · Python</sub>
-- [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django) - The certificate generation and sending system in python is flexible for generating the certificate of the students who participate or attend the different workshops, webinars, quiz, live project… <sub>⭐ 21 · JavaScript</sub>
-- [RIKEN-DKO/Generation_SPARQL](https://github.com/RIKEN-DKO/Generation_SPARQL) - Code, data and mode for the paper SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over Life Science Knowledge Graphs <sub>⭐ 21 · Jupyter Notebook</sub>
-- [ultranet1/APACHE_AIRFLOW_DATA_PIPELINES](https://github.com/ultranet1/APACHE_AIRFLOW_DATA_PIPELINES) - Project Description: A music streaming company wants to introduce more automation and monitoring to their data warehouse ETL pipelines and they have come to the conclusion that the best tool to… <sub>⭐ 21 · Python</sub>
-- [gabeorlanski/stackoverflow-encourages-cheating](https://github.com/gabeorlanski/stackoverflow-encourages-cheating) - Code for the NLP4Prog workshop paper "Reading StackOverflow Encourages Cheating: Adding Question TextImproves Extractive Code Generation" <sub>⭐ 20 · Python</sub>
-- [lkwate/neural-question-generation](https://github.com/lkwate/neural-question-generation) - Reinforcement Learning Generation-Evaluator Architecture for Neural Question Generation <sub>⭐ 20 · Python</sub>
-- [raunakwete43/QuizCrafter](https://github.com/raunakwete43/QuizCrafter) - AI Quiz Generator: Turn PDFs into Interactive Quizzes! <sub>⭐ 20 · JavaScript</sub>
-- [riggs9162/Source-2-Porting-Kit](https://github.com/riggs9162/Source-2-Porting-Kit) - The Source 2 Porting Kit simplifies the complex process of converting Source 2 assets back to Source 1. Whether you're working with textures, models, materials, or audio files, this toolkit provides… <sub>⭐ 20 · Python</sub>
-- [wangyz1999/sync-video-label](https://github.com/wangyz1999/sync-video-label) - A web-based annotation tool for synchronized multi-video timeline labeling and AI-assisted question generation, built for the GameplayQA benchmark. <sub>⭐ 20 · TypeScript</sub>
-- [x-cod3r/Ai-Anki-Generator](https://github.com/x-cod3r/Ai-Anki-Generator) - This is complete #free app based on #python to use #Ai to generate #Anki Flashcards #medicine #freesource <sub>⭐ 20 · Python</sub>
-- [AbdelhakRazi/flutter-bloc-clean-architecture-skill](https://github.com/AbdelhakRazi/flutter-bloc-clean-architecture-skill) - Agentic AI SKILL for Flutter. Automates production-grade BLoC implementation and enforces strict Clean Architecture standards. <sub>⭐ 19</sub>
-- [adanalvarez/bedrock-secure-questionnaire-automation](https://github.com/adanalvarez/bedrock-secure-questionnaire-automation) - Infrastructure-as-code for a serverless knowledge base using Amazon Bedrock, Aurora PostgreSQL (with pgvector), Lambda, and S3. This setup ingests domain-specific data into a Bedrock Knowledge Base… <sub>⭐ 19 · HCL</sub>
-- [Alphonso84/RayBan_Meta_NoteBuddy](https://github.com/Alphonso84/RayBan_Meta_NoteBuddy) - iOS app that turns Ray-Ban Meta smart glasses into a hands-free study tool. Scan documents, extract text with OCR, generate AI summaries with Apple Foundation Models (Apple's On-Device AI) or online… <sub>⭐ 19 · Swift</sub>
-- [envico801/AI-102-Azure-AI-Engineer-Associate](https://github.com/envico801/AI-102-Azure-AI-Engineer-Associate) - ( Work in progress - Not finished ) AI-102 Personal Study Material - Includes anki flashcards and guides. <sub>⭐ 19</sub>
-- [feelautom/tia-copilot-genai-bridge](https://github.com/feelautom/tia-copilot-genai-bridge) - Industrial-grade MCP bridge for Siemens TIA Portal: Generate SCL, explore PLC structures, and automate engineering with AI (Claude, Cursor, LobeChat). <sub>⭐ 19 · PowerShell</sub>
-- [Joinn99/RocketEval-ICLR](https://github.com/Joinn99/RocketEval-ICLR) - (ICLR '25) RocketEval: Efficient Automated LLM Evaluation via Grading Checklist <sub>⭐ 19 · Python</sub>
-- [Rokeer/co-attention](https://github.com/Rokeer/co-attention) - Code for BEA 13 paper "Co-Attention Based Neural Network for Source-Dependent Essay Scoring" <sub>⭐ 19 · Python</sub>
-- [StephanAkkerman/mnemorai](https://github.com/StephanAkkerman/mnemorai) - Automating language learning with the power of Artificial Intelligence. This repository presents mnemorai, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the… <sub>⭐ 19 · TypeScript</sub>
+- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200+详细闪卡,可用于审查机器学习,计算机视觉,和计算机科学中的主题. <sub>⭐ 2.5k</sub>
+- [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - 此寄存器为复杂的问题回答提供了高级的 Retrival- Augmented Generation (RAG) 解决方案。 它使用复杂的基于图表的算法来处理任务 。 <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Claude Code的企业级深层研究技能,有8个阶段的管道,源可信度评分和自动验证. OpenAI,双子座和Claude桌面在质量和... <sub>⭐ 1.2k · Python</sub>
+- [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - 使用变压器生成神经问题 <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai) - 使用最先进的自然语言处理算法生成问题 <sub>⭐ 950 · Python</sub>
+- [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI驱动工具,用于增强安基闪卡,并配有解释、示意图、插图和医学院内外的适应性学习 <sub>⭐ 883 · Python</sub>
+- [Submitty/Submitty](https://github.com/Submitty/Submitty) - 家庭工作材料、自动分级和TA分级系统。 <sub>⭐ 799 · PHP</sub>
+- [thedivergentai/GD-Agentic-Skills](https://github.com/thedivergentai/GD-Agentic-Skills) - Godot 4.7+AI Agents的官方"长期记忆",一个99位专家技能和27位流派蓝图的高密度库,提供经过审核,严格打入的GDScript模式,自动化人物. . <sub>⭐ 786 · GDScript</sub>
+- [JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform) - 计量错误检测自动化单元生产-分级ML系统 / 88-92%准确度 / 94% 自动化/ KNIME 工作流程 <sub>⭐ 731 · PowerShell</sub>
+- [nuglifeleoji/Options-Analytics-Agent](https://github.com/nuglifeleoji/Options-Analytics-Agent) - 一个基于LangGraph的精密代理,通过Polygon.io的实时数据实现财务选项分析自动化,智能缓存,持续内存,以及专业级分析. <sub>⭐ 643 · Python</sub>
+- [teacherpeterpan/Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List) - 神经问题生成(NQG)必读论文摘要 <sub>⭐ 583</sub>
+- [adrianhajdin/university-library-jsm](https://github.com/adrianhajdin/university-library-jsm) - 学习用行业标准的做法构建生产级大学图书馆管理系统;从限速,DDoS保护,缓存,优化,多媒体上传,复杂db... <sub>⭐ 560 · TypeScript</sub>
+- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) - 一个模型背景协议(MCP)服务器,它使AI助手能够与空格重复闪卡应用程序Anki交互. <sub>⭐ 502 · TypeScript</sub>
+- [KristiyanVachev/Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - 使用 Machine Learning 从文本中生成多个选择问题 。 <sub>⭐ 494 · Jupyter Notebook</sub>
+- [asahi417/lm-question-generation](https://github.com/asahi417/lm-question-generation) - 多语种/多域题生成数据集,模型,以及 python 库用于问题生成. <sub>⭐ 366 · Python</sub>
+- [phoenix-zhou/agent-sweep-engine](https://github.com/phoenix-zhou/agent-sweep-engine) - 它基于**Agenic RAG**(代理驱动的 Retrival-Augmented Generation)技术,不仅准确回答了预售和售后问题,而且还生成个性化的使用报告以及. <sub>⭐ 359 · Python</sub>
+- [xinyadu/nqg](https://github.com/xinyadu/nqg) - 阅读理解的神经问题生成 <sub>⭐ 343 · Lua</sub>
+- [ivnvxd/hack-interview](https://github.com/ivnvxd/hack-interview) - AI-动力工具用于实时采访问题记录和响应生成. <sub>⭐ 330 · Python</sub>
+- [KodCode-AI/kodcode](https://github.com/KodCode-AI/kodcode) - 合成数据集生成框架,产生不同的编码问题和可核查的解决方案——都在一个网格中 <sub>⭐ 321 · Python</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - 跳过到内容 github / docs 代码问题 80 Pull 请求 35 讨论行动项目 2 安全深入观察 分支 'main' 合并到 1862 - Add-Travis - CI - migration - table... <sub>⭐ 268</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [CatMuse/HiNote](https://github.com/CatMuse/HiNote) - 在突出音符中添加注释,使用AI进行思维,以及闪卡进行内存. <sub>⭐ 260 · TypeScript</sub>
+- [INGInious/INGInious](https://github.com/INGInious/INGInious) - INGInious是一个使用你自己测试的安全而自动化的练习评估平台,同时也提供了与你现有的LMS的可插接接口. <sub>⭐ 243 · Python</sub>
+- [bloomsburyai/question-generation](https://github.com/bloomsburyai/question-generation) - 神经文本对文本问题生成 <sub>⭐ 212 · Python</sub>
+- [MoMoM101/RAG-ReActAgent](https://github.com/MoMoM101/RAG-ReActAgent) - RAG ReAct Agent - 一个带有ReAct(Reasoning+Acting)代理循环的检索-增强生成系统,用于智能问答,多跳推理 <sub>⭐ 208 · Python</sub>
+- [indrajithi/genquest](https://github.com/indrajithi/genquest) - 使用 NLP 自动生成问题 <sub>⭐ 205 · Python</sub>
+- [nusnlp/nea](https://github.com/nusnlp/nea) - 神经酶评估员:基于深神经网络的自动酶分解系统 <sub>⭐ 205 · Python</sub>
+- [zeus-12/uxie](https://github.com/zeus-12/uxie) - pdf的读者应用,并附有注意,说明,协作,ai功能(聊天,闪卡生成w. ai-feedbacks), tts和ocr. <sub>⭐ 197 · TypeScript</sub>
+- [flashcards/flashcards.github.io](https://github.com/flashcards/flashcards.github.io) - 一个开放的,由社区驱动的开发者闪卡库——由Flashcards.io提供动力. 提供Markdown文件,并立即将它们变成AI生成的闪卡,空格重复到平级... <sub>⭐ 184 · HTML</sub>
+- [deeppavlov/question_generation](https://github.com/deeppavlov/question_generation) - 这是一个提问生成器模型,它把文本和答案当作输入和输出的问题。 <sub>⭐ 170 · Python</sub>
+- [edkreuk/FMD_FRAMEWORK](https://github.com/edkreuk/FMD_FRAMEWORK) - Fabric元数据驱动框架(FMD)是微软Fabric的一个社区驱动加速器,为自动化,可缩放和企业级的数据平台提供了基础. by... <sub>⭐ 164 · Python</sub>
+- [snakers4/silero-stress](https://github.com/snakers4/silero-stress) - Silero压力——经过预先培训的企业级自动化压力和俄语的同义解析 <sub>⭐ 162 · Python</sub>
+- [AnkitNayak-dev/CrawlAI-RAG](https://github.com/AnkitNayak-dev/CrawlAI-RAG) - CrawlAI RAG是一个AI驱动的网站智能平台,允许用户爬行整个网站,索引其内容,并使用Retrival-Augmented Generation来询问自然语言问题. . <sub>⭐ 157 · Python</sub>
+- [brucewlee/lftk](https://github.com/brucewlee/lftk) - (BEA@ACL 2023) 语言特征提取通用工具; 测试可读性评估,散文评分,假新闻检测,仇恨言论检测等. <sub>⭐ 150 · Python</sub>
+- [KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation) - 容易使用和理解使用T5变形器的多选择问题生成算法. <sub>⭐ 139 · Jupyter Notebook</sub>
+- [KuanKongy/StudyFlow](https://github.com/KuanKongy/StudyFlow) - 协作研究平台,带有AI动力摘要和闪卡. 搭建有React,Node.js,MongoDB,以及Auth0. 为团体学习设计. <sub>⭐ 139 · TypeScript</sub>
+- [seanie12/neural-question-generation](https://github.com/seanie12/neural-question-generation) - Pytorch 与 Maxout 指针和 Gated 自留心网络一起执行段落级神经问题生成 <sub>⭐ 139 · Python</sub>
+- [llmsresearch/llm-flashcards](https://github.com/llmsresearch/llm-flashcards) - 211免费视觉卡关于大型语言模型,从标语化到部署. 全集:376张. <sub>⭐ 138 · MDX</sub>
+- [wangpinggl/TREQS](https://github.com/wangpinggl/TREQS) - 电子医疗记录问答文本对SQL生成 <sub>⭐ 137 · Python</sub>
+- [Blueturboguy07/NitroAI](https://github.com/Blueturboguy07/NitroAI) - 免费,本地首个AI学习笔记——将任何讲座,PDF,或视频变成笔记,闪卡,问答,以及一个研究聊天。运行完全本地或使用自己的API密钥. <sub>⭐ 129 · TypeScript</sub>
+- [hugochan/RL-based-Graph2Seq-for-NQG](https://github.com/hugochan/RL-based-Graph2Seq-for-NQG) - ICLR 2020年论文"以图示为主的强化学习"对自然问题生成序列模型的代码和数据. <sub>⭐ 126 · Python</sub>
+- [QingFei1/LongRAG](https://github.com/QingFei1/LongRAG) - (EMNLP 2024) LongRAG:长文问答的双视角检索增强型一代范式. <sub>⭐ 122 · Python</sub>
+- [siyuanzhao/automated-essay-grading](https://github.com/siyuanzhao/automated-essay-grading) - 用于自动升级的记忆增强神经模型的纸张的源代码 <sub>⭐ 121 · Python</sub>
+- [ItzmeJan/NarrowMind](https://github.com/ItzmeJan/NarrowMind) - 轻量级统计语言模型,用于问答和文本生成. <sub>⭐ 113 · Rust</sub>
+- [clovaai/FocusSeq2Seq](https://github.com/clovaai/FocusSeq2Seq) - (EMNLP 2019) 混合内容选择 异序生成(问题生成/摘要) <sub>⭐ 112 · Python</sub>
+- [sumehta/question-generation](https://github.com/sumehta/question-generation) - 由于一句会自动产生句子中的阅读理解风格的事实问题,因此句子中包含了对这些问题的答案. <sub>⭐ 112 · Python</sub>
+- [gauthierdmn/question_generation](https://github.com/gauthierdmn/question_generation) - 使用 SQuAD 和 NewsQA 数据集生成神经问题 <sub>⭐ 109 · Python</sub>
+- [ruizguille/tech-trends-chatbot](https://github.com/ruizguille/tech-trends-chatbot) - 与 FastAPI, Redis 和 OpenAI 的 GPT-4o 进行检索增强生成(RAG)聊天器执行. 聊天器解答了有关新技术趋势的问题. <sub>⭐ 107 · Python</sub>
+- [DevSinghSachan/unsupervised-passage-reranking](https://github.com/DevSinghSachan/unsupervised-passage-reranking) - 代码,数据集,以及检查点,用于"用零光子问题生成(EMNLP 2022)改进通道检索"的论文. <sub>⭐ 103 · Python</sub>
+- [Qeagle/reporter-engine](https://github.com/Qeagle/reporter-engine) - 现代,实时的测试报告和分析平台用于自动化测试工作流程. Features REST API集成,多项目支持,交互式仪表板,文物管理,AI动力... <sub>⭐ 103 · TypeScript</sub>
+- [GyaanFlow/tds-roe-solver-t12026](https://github.com/GyaanFlow/tds-roe-solver-t12026) - TDS Portal Solver是一个生产级,高度安全,基于浏览器的沙盒环境,设计用于自动执行决定解析逻辑. 工程师特意作为局部研究. <sub>⭐ 100 · JavaScript</sub>
+- [PragatiVerma18/MLH-Quizzet](https://github.com/PragatiVerma18/MLH-Quizzet) - 这是一个智能的Quiz生成器,它从任何使用 NLP 上传的文本/ PDF 文档中生成动态测试。这可用于自我分析、提问纸张生成和评价,因此... <sub>⭐ 97 · Python</sub>
+- [quentin-mckay/AI-Quiz-Generator](https://github.com/quentin-mckay/AI-Quiz-Generator) - GPT 驱动多选择测试生成器, 使用 Next.js 构建 <sub>⭐ 95 · JavaScript</sub>
+- [jkanalakis/deep-recall](https://github.com/jkanalakis/deep-recall) - LLMs 的企业级内存框架,其特点是GPU优化推论,矢量存储和自动缩放. 通过高效上下文检索和. <sub>⭐ 91 · Python</sub>
+- [lucagrippa/md2anki](https://github.com/lucagrippa/md2anki) - md2anki是一个开源网络app,使用AI从Markdown文件中生成安基闪卡,使得你的笔记更容易变成学习材料. <sub>⭐ 91 · TypeScript</sub>
+- [landoncrabtree/applaud](https://github.com/landoncrabtree/applaud) - Applaud是免费的,私人的,和开源音频的录音抄录和总结工具,它旨在收录录音和提供一份抄录,以及常见的AI使用案例如. <sub>⭐ 90 · TypeScript</sub>
+- [EM-GeekLab/LLMOne](https://github.com/EM-GeekLab/LLMOne) - 企业级LLM自动部署工具,使AI服务器真正"插件与游戏". <sub>⭐ 89 · TypeScript</sub>
+- [LexiestLeszek/scrapeGPT](https://github.com/LexiestLeszek/scrapeGPT) - ScrapeGPT是一个基于RAG的Telegrambot,旨在刮去和分析网站,然后根据刮去的内容回答问题. bot利用检索增强生成和网络搜索到... <sub>⭐ 87 · Python</sub>
+- [vincentkoc/airgapped-offfline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - 安全、本地运行的检索-增强生成系统,用于基于文件的问答,使用Llama 3、Mistral和双子座模型,并具有方便用户的Streamlit接口。 <sub>⭐ 87 · Python</sub>
+- [GatorEducator/gatorgrader](https://github.com/GatorEducator/gatorgrader) - 检查作家和程序员工作的自动升级工具 <sub>⭐ 85 · Python</sub>
+- [phoenix-zhou/logistics-industry-RAG](https://github.com/phoenix-zhou/logistics-industry-RAG) - 这个项目是一个基于**RAG(检索-增强生成)技术的本地知识库"物流产业"问答系统**. <sub>⭐ 85 · Python</sub>
+- [ViiSkor/Anki-decks-deeplearning.ai](https://github.com/ViiSkor/Anki-decks-deeplearning.ai) - 这个寄存器包含用于DeepLearning.ai课程的闪卡甲板. <sub>⭐ 84</sub>
+- [ankimcp/anki-mcp-server-addon](https://github.com/ankimcp/anki-mcp-server-addon) - Anki addon执行一个 MCP 服务器,使 AI 助手能够与 Anki 交互,即空格重复闪卡应用程序. <sub>⭐ 81 · Python</sub>
+- [karthik558/setup_hack_env](https://github.com/karthik558/setup_hack_env) - 一个先进的,企业级的伦理黑客和渗透测试环境自动安装器. Fully cross-plaft,支持Windows 10/11,macOS(Apple Silicon & Intel),以及所有Linux... <sub>⭐ 81 · Python</sub>
+- [yllvar/Kalshi-Quant-TeleBot](https://github.com/yllvar/Kalshi-Quant-TeleBot) - 卡尔希高级量产贸易瓶是一个企业级自动化交易系统,为基于卡尔希事件的预测市场所设计. 卡尔希以尖端量产算法和. <sub>⭐ 77 · Python</sub>
+- [YuxiXie/SG-Deep-Question-Generation](https://github.com/YuxiXie/SG-Deep-Question-Generation) - 这个寄存器包含了论文的代码和模型: 生成深层问题的语义图(ACL 2020). <sub>⭐ 75 · Python</sub>
+- [morningmoni/GAR](https://github.com/morningmoni/GAR) - 论文"Generation-Augusted Retrieval for Open-Domain Question Association"和"Reader-Guided Passage requad for Open-Domain Question Association"的代码和资源,ACL 2021 <sub>⭐ 74 · Python</sub>
+- [deepdrdoc/DeepDRiD](https://github.com/deepdrdoc/DeepDRiD) - 自动机器学习可以促进糖尿病复健性病的早期诊断和及时治疗. 遵循第1期糖尿病复健性病:与ISBI举行的分裂和升级挑战. <sub>⭐ 73</sub>
+- [ipeirotis/ReadabilityMetrics](https://github.com/ipeirotis/ReadabilityMetrics) - 计算一套文本可读性计量的网络服务。 目前我们支持以下计量:自动可读性指数、 Coleman-Liau指数、 Flesch - Kincaid Grade Level, Flesch... <sub>⭐ 73 · Java</sub>
+- [thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix](https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix) - 使用机器学习您的 anki 收藏, 通过语义集群和语义相似来增强调度功能 <sub>⭐ 72 · Python</sub>
+- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole,Mackworth & Goebel 1998,第1. Russell & Norvig 2003,第55页. AI的定义是作为智能剂的研究: Poole,Mackworth & Goebel(1998),提供了用于... <sub>⭐ 70</sub>
+- [holylovenia/question-answer-generation](https://github.com/holylovenia/question-answer-generation) - 文本的问答生成 <sub>⭐ 70 · Jupyter Notebook</sub>
+- [FaustoS88/Pydantic-AI-Pinescript-Expert](https://github.com/FaustoS88/Pydantic-AI-Pinescript-Expert) - 松脚本专家:一个使用 Pydantic AI 的检索-增强生成(RAG)代理,提供准确的松脚本 v6 指导,它回答了问题,提供了代码示例,并生成了自定义... <sub>⭐ 67 · Python</sub>
+- [kanyesthaker/qgqa-flashcards](https://github.com/kanyesthaker/qgqa-flashcards) - 问题生成 - 自动闪卡问答 <sub>⭐ 66 · JavaScript</sub>
+- [jtur671/gh-600-study-guide](https://github.com/jtur671/gh-600-study-guide) - GH-600 GitHub认证的免费学习材料:代理AI开发者考试——67个闪卡,41题模拟考试,6个手动实验室,概念图,以及安基甲板. <sub>⭐ 65 · Python</sub>
+- [pieralukasz/true-recall](https://github.com/pieralukasz/true-recall) - Obsidian的原生空间重复:AI生成的闪卡,FRS v6 排程,图像封存和保留分析——不离开你的金库. <sub>⭐ 65 · TypeScript</sub>
+- [proyecto26/notebooklm-ai-plugin](https://github.com/proyecto26/notebooklm-ai-plugin) - Google NotebookLM(Claude,OpenClaw等)的AI代理插件——从您那里生成幻灯片甲板,音频概览,视频,心智图,闪卡,问答,信息图片,报告和数据表...... <sub>⭐ 65 · TypeScript</sub>
+- [sankalpjain99/Automatic-Essay-Scoring](https://github.com/sankalpjain99/Automatic-Essay-Scoring) - 创建了可以自动分数散文的网络应用程序。 分级模型是使用来自 Kaggle 的 HP Essays Dataset 进行训练的。 使用了长短内存( LSTM) 网络和机器学习算法来... <sub>⭐ 65 · Jupyter Notebook</sub>
+- [Alannikos/edg4llm](https://github.com/Alannikos/edg4llm) - 用于为LLMS生成微调数据集的统一工具,包括问题、答案和对话。 <sub>⭐ 64 · Python</sub>
+- [siat-nlp/TransDG](https://github.com/siat-nlp/TransDG) - "通过知识库问答增进知识意识对话生成"(AAAI 2020)论文的源代码. <sub>⭐ 64 · Python</sub>
+- [lingochamp/Multi-Scale-BERT-AES](https://github.com/lingochamp/Multi-Scale-BERT-AES) - 论文"关于利用BERT进行自动测谎:联合学习多尺度测谎代表"的解说. <sub>⭐ 63 · Python</sub>
+- [alonw0/llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer) - 一个 Claude 代码插件,它优化了诸如 Claude, GitHub copilot, 以及其他 LLMs 等 AI 编码助理的文档。 通过 c7 score 优化, llms.txt... <sub>⭐ 61 · Python</sub>
+- [htlin222/robust-lit-review](https://github.com/htlin222/robust-lit-review) - 自动系统文献审查管道生成来自Scopus/PubMed/Embase的已出版手稿,并符合PRISMA要求,GRADE证据综合,以及DOI验证临床. <sub>⭐ 58 · Python</sub>
+- [Turanga1/Automated-Essay-Scoring](https://github.com/Turanga1/Automated-Essay-Scoring) - Kaggle 2012 惠普自动学生评估奖(ASAP) - 自动校勘 <sub>⭐ 58 · Jupyter Notebook</sub>
+- [alfredang/notebooklm-mcp](https://github.com/alfredang/notebooklm-mcp) - Bridge Google NotebookLM与克劳德通过MCP. 全面程序访问,以创建笔记本,管理来源,并生成AI动力内容——播客,视频,幻灯片,心灵地图,问答,闪卡...... <sub>⭐ 57 · Python</sub>
+- [awslabs/unsupervised-qa](https://github.com/awslabs/unsupervised-qa) - 从已检索的句子生成基于模板的问题, 用于改进无监督的提问回答 <sub>⭐ 57 · Python</sub>
+- [caomingkai/Online-Exam-System](https://github.com/caomingkai/Online-Exam-System) - 一个 MERN 堆栈在线测试应用程序,提供JWT认证随机问题生成,定时器自动分级等功能. ^ Tech Stack: React/Redux, Node.js, Express, MongoDB... <sub>⭐ 57 · JavaScript</sub>
+- [nyaundid/EC2-AWS-AND-SHELL](https://github.com/nyaundid/EC2-AWS-AND-SHELL) - SEIS 665 任务 2: Linux & Git Overview 本周我们将专注于熟悉Linux服务器的启动,并使用一些基本的Linux和Git命令. 我们将使用AWS来启动... <sub>⭐ 57 · Shell</sub>
+- [PersistenceForever/Neural-Question-Generation-Survey-List](https://github.com/PersistenceForever/Neural-Question-Generation-Survey-List) - 综合综述不同输入格式的神经质问生成. <sub>⭐ 57</sub>
+- [swiftuiux/coreml-stable-diffusion-swift-example-app](https://github.com/swiftuiux/coreml-stable-diffusion-swift-example-app) - CoreML图像生成,例应用,Swift文本转换成图像,与CoreML图像转换成图像AI图像处理文本 核心ML图像处理 CoreML图像生成器文本并生成图像... <sub>⭐ 57 · Swift</sub>
+- [HotpotDesign/api-examples](https://github.com/HotpotDesign/api-examples) - 这个寄存器演示了如何使用Hotpot.ai API. Our API提供稳定扩散,图像生成器,文本到图像生成器,背景清除,图像提升显示器,照片修复,以及... <sub>⭐ 55</sub>
+- [VectorInstitute/kg-rag](https://github.com/VectorInstitute/kg-rag) - 该项目实施了一个知识图检索增强生成(KG-RAG)的综合框架,其重点是SEC 10Q备案的财务数据,并探索知识图如何能够. <sub>⭐ 55 · Python</sub>
+- [karthikkasirajan/studybuddy-ai](https://github.com/karthikkasirajan/studybuddy-ai) - AI动力研究助理,将PDF笔记转换为问答,闪卡和摘要——用Streamlit,Groq,LLaMA 3. <sub>⭐ 54 · Python</sub>
+- [karthikprasad/automated-essay-grader](https://github.com/karthikprasad/automated-essay-grader) - 英文论文年级 <sub>⭐ 54 · Assembly</sub>
+- [dev-it-with-me/RagUltimateAdvisor](https://github.com/dev-it-with-me/RagUltimateAdvisor) - 一个完整的检索-增强生成(RAG)应用程序,展示了现代AI解答关于Ultimate Frisbee规则和战略的问题的能力. 该项目展示了如何... <sub>⭐ 53 · Python</sub>
+- [NVIDIA/cosmos-evaluator](https://github.com/NVIDIA/cosmos-evaluator) - NVIDIA 宇宙评价员是宇宙模型生成的合成视频输出的自动评价和分级系统 <sub>⭐ 52 · Python</sub>
+- [yanghoonkim/NQG_ASs2s](https://github.com/yanghoonkim/NQG_ASs2s) - Yanghoon Kim 等人,AAAI 2019的执行 <sub>⭐ 52 · Python</sub>
+- [future-agi/futureagi-sdk](https://github.com/future-agi/futureagi-sdk) - 生产级AI评价,即时管理和可观察性 SDK. 带有亚100ms护栏的自动评价,不需要人行走. Python + TypeScript. <sub>⭐ 51 · Python</sub>
+- [hugochan/Graph2Seq-for-KGQG](https://github.com/hugochan/Graph2Seq-for-KGQG) - 与"走向子图指导知识图 带图神经网络的生成问题"论文配套的代码数据 <sub>⭐ 51 · Python</sub>
+- [Md-Emon-Hasan/MediGenius](https://github.com/Md-Emon-Hasan/MediGenius) - AI-动力多代理医疗助理,具有确定性安全层——危机检测,拒绝专题硬阻塞,剂量定点,以及生成后诊断验证在之前运行. . <sub>⭐ 51 · Jupyter Notebook</sub>
+- [zichaow/QG-Net](https://github.com/zichaow/QG-Net) - QG-Net 的代码: 教育内容数据驱动问题生成模型 <sub>⭐ 50 · Python</sub>
+- [enricollen/rag-conversational-agent](https://github.com/enricollen/rag-conversational-agent) - 一个简单的本地 Retrival-Augmented Generation (RAG) 聊天器,可以通过从个人PDF文件中获取信息来回答问题. <sub>⭐ 49 · Python</sub>
+- [Adii2202/RAG-AI-Voice-assistant-](https://github.com/Adii2202/RAG-AI-Voice-assistant-) - 使用语音对语音查询分辨率进行RAG( Retrival Advanceed Generation) 评估。 提供包含查询的文件, 询问问题, 并通过语音接收结果 。 <sub>⭐ 48 · Python</sub>
+- [Leon-Sander/langchain_faiss_vectorindex](https://github.com/Leon-Sander/langchain_faiss_vectorindex) - Telegram bot,它用检索的生成(LangChain + FAISS)来解答您 PDF上的问题. <sub>⭐ 48 · Python</sub>
+- [obss/turkish-question-generation](https://github.com/obss/turkish-question-generation) - 使用文本对文本变压器进行土耳其文本自动问答 <sub>⭐ 47 · Python</sub>
+- [fanzeyi/Vulpix](https://github.com/fanzeyi/Vulpix) - 自动编码分级系统 <sub>⭐ 46 · Python</sub>
+- [aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos) - 这个寄存器的特性是三个演示,可以无劳地融入您的 AWS 环境。它们作为实用指南来利用 AWS 服务来设计一个复杂的 Large... <sub>⭐ 45 · TypeScript</sub>
+- [Gaurav-Pande/AES_DL](https://github.com/Gaurav-Pande/AES_DL) - 使用BERT进行自动扫描 <sub>⭐ 45 · Jupyter Notebook</sub>
+- [robzilla1738/Memorwise](https://github.com/robzilla1738/Memorwise) - 一个本地的开源替代 NotebookLM 。 用任何 LLM 与您的文档聊天 。 <sub>⭐ 45 · TypeScript</sub>
+- [yanghoonkim/neural_question_generation](https://github.com/yanghoonkim/neural_question_generation) - 由新亚·杜等人实施. <sub>⭐ 45 · Python</sub>
+- [Enfoirer/Text2GraphRAG](https://github.com/Enfoirer/Text2GraphRAG) - Text2GraphRAG 疾病助理构建了以疾病为重点的检索增强生成工作流程,它吸收了结构化的Markdown(demo:眼科),将实体和关系提取到Neo4j... <sub>⭐ 44 · Python</sub>
+- [MrpasswordTz/webripper-pro](https://github.com/MrpasswordTz/webripper-pro) - Webripper Pro 是一款综合性的,专业级的网络脆弱性扫描器,可以自动检测网站的安全缺陷,它的设计对象是渗透测试者,bug赏金猎人. . <sub>⭐ 44 · Python</sub>
+- [Pjha72/AcademixTracker](https://github.com/Pjha72/AcademixTracker) - 学生成果管理系统是一个网络工具,旨在通过跟踪学生的成绩,实现学期结果管理自动化,该系统旨在取代体力工作和. <sub>⭐ 44 · JavaScript</sub>
+- [benhamner/ASAP-AES](https://github.com/benhamner/ASAP-AES) - 惠利特基金会自动评估评分竞赛的评价计量 <sub>⭐ 43 · Python</sub>
+- [feidong1991/aes](https://github.com/feidong1991/aes) - 用于自动散文评分的深层神经模型 <sub>⭐ 43 · Python</sub>
+- [healthy-chicken-saladeers/rag_detective](https://github.com/healthy-chicken-saladeers/rag_detective) - 使用 Retrieval Advanceed Generation(RAG) 来解答有关公司网站问题的聊天员. <sub>⭐ 43 · Jupyter Notebook</sub>
+- [Balaji-R-05/askdocs-ai](https://github.com/Balaji-R-05/askdocs-ai) - 一个利用RAG(检索-增强生成)的 AI 驱动聊天器,根据上传的 PDF 内容回答您的问题 <sub>⭐ 42 · Python</sub>
+- [PndaMan/cortex](https://github.com/PndaMan/cortex) - 本地第一,开源的NotebookLM替代品——一个桌面研究OS,将幻灯片,PDF和讲座转换成欺骗表,闪卡,问答和引用基于的聊天. <sub>⭐ 42 · Svelte</sub>
+- [ucrcsedept/galah](https://github.com/ucrcsedept/galah) - 用于处理计算机编程任务的自动分级系统。 <sub>⭐ 42 · Python</sub>
+- [justfinethanku/cc_chrome_devtools_mcp_skill](https://github.com/justfinethanku/cc_chrome_devtools_mcp_skill) - 这种技能可以使用Chrome DevTools协议(CDP)通过chrome-devtools-mcp服务器进行Chrome浏览器的自动化测试和性能分析,它提供了27个专业级的访问权限. . <sub>⭐ 41</sub>
+- [NathanielDamours/fastai-flashcards](https://github.com/NathanielDamours/fastai-flashcards) - 学习AI的闪卡 <sub>⭐ 41</sub>
+- [piazzatron/anki-smart-notes](https://github.com/piazzatron/anki-smart-notes) - 用人工智能 超级换你的安琪闪卡 <sub>⭐ 41 · Python</sub>
+- [unnikked/NotionRag](https://github.com/unnikked/NotionRag) - 向您的“ 概念数据库” 询问问题! 由 Langchain 和 Streamlit 支持的天真检索增强生成( RAG) 管道 <sub>⭐ 41 · Python</sub>
+- [dmis-lab/RAG2](https://github.com/dmis-lab/RAG2) - (NAACL 2025) 医学问题回答理由 - 指导性检索增强生成 <sub>⭐ 40 · Python</sub>
+- [mvkro1/AI-Based-Study-Assistant](https://github.com/mvkro1/AI-Based-Study-Assistant) - 一个AI动力学习助理,生成闪卡和答题. <sub>⭐ 40</sub>
+- [yuhui-zh15/AutoConverter](https://github.com/yuhui-zh15/AutoConverter) - 正式实施"面向远景语言模式评价的自动生成挑战性多选择问题"(CVPR2025). <sub>⭐ 39 · Python</sub>
+- [DeepSQLAI/deepsql](https://github.com/DeepSQLAI/deepsql) - Postgres和MySQL的数据库代理 - 将其指向PostgreSQL或MySQL,并以简单的英语提问——计划探索,查询生成,慢查询分析,索引建议...... <sub>⭐ 38 · Java</sub>
+- [gsh199449/productqa](https://github.com/gsh199449/productqa) - 电子商务中的产品-软件解答生成 <sub>⭐ 38</sub>
+- [bhaskatripathi/HypothesisHub](https://github.com/bhaskatripathi/HypothesisHub) - 用于从某一科学文献中生成自动研究问题和假设的AI工具 <sub>⭐ 37 · Jupyter Notebook</sub>
+- [codertimo/KorQuAD-Question-Generation](https://github.com/codertimo/KorQuAD-Question-Generation) - 带有 KORQuAD 数据集的问题生成模型 <sub>⭐ 37 · Python</sub>
+- [Evavic44/quiznote](https://github.com/Evavic44/quiznote) - 由Google双子座制作 <sub>⭐ 37 · TypeScript</sub>
+- [kwanLeeFrmVi/mcp-rag-server](https://github.com/kwanLeeFrmVi/mcp-rag-server) - mcp-rag-server是一个模式上下文协议(MCP)服务器,它使检索增强生成(RAG)能力成为可能,它赋予大语言模型(LLMS)根据您... <sub>⭐ 36 · TypeScript</sub>
+- [spider863644/Forensight](https://github.com/spider863644/Forensight) - Forensight是一个强大的Image OSINT+实时视频通话检查工具,用于数字化调查. 它将图像,元数据,网络情报收集自动化,并配有精密工具如. <sub>⭐ 35 · Python</sub>
+- [Farahn/AES](https://github.com/Farahn/AES) - 自动 Essay 校对 <sub>⭐ 34 · Jupyter Notebook</sub>
+- [ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT](https://github.com/ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT) - 以 OpenAI GPT2 文本生成、 Pried-BERT 语义搜索和 Berkley 选区解析器生成任何内容的 True 或 False 问题。 <sub>⭐ 34 · Jupyter Notebook</sub>
+- [robert1ridley/cross-prompt-trait-scoring](https://github.com/robert1ridley/cross-prompt-trait-scoring) - 这个寄存器包含了用于生成AAAI 2021上发表的论文"Essay Trits的自动交叉瞬间分解(英语:Assay Trits)"中的结果的代码. <sub>⭐ 34 · Python</sub>
+- [Xiaochr/LLM-AES](https://github.com/Xiaochr/LLM-AES) - (LAK25)人类-AI协作评估:与法学硕士有关的双进程框架 <sub>⭐ 34 · Python</sub>
+- [Dev-Salem/quizwiz](https://github.com/Dev-Salem/quizwiz) - Quizwiz是一个使用电源或AI和Super-Memo算法(SM-2)的闪卡应用. <sub>⭐ 33 · Dart</sub>
+- [iris2hu/L2C-rater](https://github.com/iris2hu/L2C-rater) - 中国第二语言写作的自动校对方法 <sub>⭐ 33 · Python</sub>
+- [meghabyte/acl2021-education](https://github.com/meghabyte/acl2021-education) - "适应性教育问题生成"的代码,出现在ACL 2021. <sub>⭐ 33 · Jupyter Notebook</sub>
+- [WarehouseFinds/PSScriptModule](https://github.com/WarehouseFinds/PSScriptModule) - 一个生产级的PowerShell脚本模块模板,旨在实现模块开发标准化,它集成自动构建,依赖性管理,静态代码分析,测试,文档. <sub>⭐ 33 · PowerShell</sub>
+- [aimagelab/ReAG](https://github.com/aimagelab/ReAG) - (CVPR 2026 高亮) ReAG:基于知识的视觉问题解答的理性-增强生成 <sub>⭐ 32 · Python</sub>
+- [matatusko/seq2seq](https://github.com/matatusko/seq2seq) - 用 Tensorflow 的 Beam 搜索 API 解码器用 Python 和 Tensorflow 1.4 书写的问题生成、文本总称化、机器翻译等通用的 subsem2seq 模型 <sub>⭐ 32 · Python</sub>
+- [mongodb-developer/mongodb-vector-search-rag](https://github.com/mongodb-developer/mongodb-vector-search-rag) - 此 repo 中的 Python 脚本使用 mongoDB 矢量搜索与 Retrieval- Augmented Generation (RAG) 架构来构建一个问答应用程序, 它们使用 LangChain 框架 OpenAI... <sub>⭐ 32 · Python</sub>
+- [shubhpawar/Automated-Essay-Scoring](https://github.com/shubhpawar/Automated-Essay-Scoring) - 在Kaggle上的惠普基金会数据集上的自动扫描 <sub>⭐ 32 · Jupyter Notebook</sub>
+- [WorkInTheDark/FairytaleQA_QAG_System](https://github.com/WorkInTheDark/FairytaleQA_QAG_System) - 官方文献库 "这是AI的转折 问人类一个问题:问题-答对一代 儿童故事书"被ACL2022接受 <sub>⭐ 32 · Python</sub>
+- [FUTUREEEEEE/MBA](https://github.com/FUTUREEEEEE/MBA) - 2025年合作:MBA-RAG:通过问题复杂程度进行适应性检索的强盗方法 <sub>⭐ 30 · Python</sub>
+- [geekquad/quiz.ai](https://github.com/geekquad/quiz.ai) - 使用自然语言处理的自评加密的多选择问题生成器 <sub>⭐ 30 · HTML</sub>
+- [simonw/llm-rag](https://github.com/simonw/llm-rag) - 使用检索增强生成器解答 LLM 存储的收藏问题 <sub>⭐ 30 · Python</sub>
+- [thiswillbeyourgithub/Voice2Anki](https://github.com/thiswillbeyourgithub/Voice2Anki) - 一种强大的工具,使用AI动力的转录和LLM处理,将录音转换成高质量的安基闪卡,其特色是"少Shot Learning"来适应你的个人风格和. <sub>⭐ 30 · Python</sub>
+- [ujjax/question-generation](https://github.com/ujjax/question-generation) - 关键词检测和提问生成神经模型 <sub>⭐ 30 · Python</sub>
+- [DataScienceUIBK/TriviaHG](https://github.com/DataScienceUIBK/TriviaHG) - 用于 Factoid 问题自动提示生成的数据集 <sub>⭐ 29 · Python</sub>
+- [mkr-infinity/Revision-Master](https://github.com/mkr-infinity/Revision-Master) - 修订大师 - 一个智能的离线第一研究应用,配备AI生成的闪卡,模拟测试,以及焦点计时器. <sub>⭐ 29 · TypeScript</sub>
+- [seoneun/KoBART-Question-Generation](https://github.com/seoneun/KoBART-Question-Generation) - KORQuAD 韩国域名问题生成模块基于 KoBART <sub>⭐ 29 · Python</sub>
+- [YuxiXie/RL-for-Question-Generation](https://github.com/YuxiXie/RL-for-Question-Generation) - 这个寄存器包含了论文的代码和模型:探索产生深层问题的特定奖(COLING 2020). <sub>⭐ 29 · Python</sub>
+- [cognitive-engineering-lab/quizicist](https://github.com/cognitive-engineering-lab/quizicist) - AI 功率测试生成器 <sub>⭐ 28 · Python</sub>
+- [hoangsonww/StudySync-Study-Buddy-App](https://github.com/hoangsonww/StudySync-Study-Buddy-App) - 学习同步是一个生产力应用软件,有AI-动力研究提示,音乐推荐,一个Pomodoro计时器等工具,还有更多帮助增强你的学习常规和保持组织。欢迎来到一套... <sub>⭐ 28 · Vue</sub>
+- [akajammythakkar/rag-with-gemini](https://github.com/akajammythakkar/rag-with-gemini) - 检索-增强的世代 超过 PDF 与 Google 双子座: 块化,嵌入和基于问题回答在一个可操作的笔记本中。 49 000+ 视图 。 <sub>⭐ 27 · Jupyter Notebook</sub>
+- [andrisgauracs/Star-Wars-Movie-Expert](https://github.com/andrisgauracs/Star-Wars-Movie-Expert) - 一个最小的检索-增强型世代(RAG)的例子,它将原星球大战电影脚本刮断,分成块,存储嵌入在Qdrant向量商店中,并回答用户的问题. . <sub>⭐ 27 · Python</sub>
+- [Basant-goswami/eLearning-website](https://github.com/Basant-goswami/eLearning-website) - 一个全面的电子学习平台,提供个性化的课程建议和课程,如Full Stack Web Development,Java,JavaScript,以及React. 功能包括一个实时的聊天机器人,用于... <sub>⭐ 27 · JavaScript</sub>
+- [dmis-lab/LIQUID](https://github.com/dmis-lab/LIQUID) - LIQUID: 列表答题数据集生成框架(AAAI 2023) <sub>⭐ 27 · Python</sub>
+- [EMLab/emlab-generation](https://github.com/EMLab/emlab-generation) - EMlab/emlab发电是一套基于物剂的发电模式,涉及能源和碳政策问题,重点是长期发展。 <sub>⭐ 27 · Java</sub>
+- [faerber-lab/RAGentA](https://github.com/faerber-lab/RAGentA) - SIGIR LiveRAG挑战的仓库:"RAGentA:多代理检索-强化生成属性问题回答" <sub>⭐ 27 · Python</sub>
+- [wenderfl/CardBunny](https://github.com/wenderfl/CardBunny) - AI-Powerd语言学习与Anki的视频 <sub>⭐ 27 · Python</sub>
+- [YuYue71/PWG-Governance](https://github.com/YuYue71/PWG-Governance) - 用于LLM集成的产业级零冗余工作流程治理层,功能确定背景路由,自动化汇合闸门,以及识字编程标准到. <sub>⭐ 27</sub>
+- [hacktronaut/ollama-rag-demo](https://github.com/hacktronaut/ollama-rag-demo) - 这个应用程序可以展示langchain.js,Ollama,和ChromaDB的集成,以展示问答能力. 以检索增强生成(RAG)为重点. <sub>⭐ 26 · JavaScript</sub>
+- [NaEs25/studiamo](https://github.com/NaEs25/studiamo) - 将YouTube视频、PDF和笔记转换成AI生成的主动召回闪存卡,并附有间距重复、事实核实和Telegram审查提醒。 <sub>⭐ 26 · Python</sub>
+- [ozcangundes/multitask-question-generation](https://github.com/ozcangundes/multitask-question-generation) - mT5 问答和提问生成模型 <sub>⭐ 26 · Python</sub>
+- [subrata-samanta/RL-Self-Improving-RAG](https://github.com/subrata-samanta/RL-Self-Improving-RAG) - 该项目实施一个强化学习(RL)增强的检索增强生成(RAG)系统,优化文档检索以完成回答问题的任务. <sub>⭐ 26 · Jupyter Notebook</sub>
+- [AlexEBall/Automated-Essay-Grading-with-NLP](https://github.com/AlexEBall/Automated-Essay-Grading-with-NLP) - 使用机器学习和 NLP 自动分级散文 <sub>⭐ 25 · Python</sub>
+- [andrearosasco/BertQuestionGeneration](https://github.com/andrearosasco/BertQuestionGeneration) - 基于BERT的Seq2Seq架构在SQuAD上接受了培训,以生成给出文本和答案的问题. <sub>⭐ 25 · Python</sub>
+- [eth-nlped/socratic-generation](https://github.com/eth-nlped/socratic-generation) - 自动生成脚手架问题用于学习数学,EMNLP 2022. RL,REINFORCE <sub>⭐ 25 · Python</sub>
+- [Minokainduwara/RAG-Chatbot](https://github.com/Minokainduwara/RAG-Chatbot) - 一个 Retrival-Augmented Generation(RAG) 聊天器,它使用本地或基于云的 LLMs 来回答您自己文档中的问题. <sub>⭐ 25 · Python</sub>
+- [sagor-mollik/Automated-School-Management-System](https://github.com/sagor-mollik/Automated-School-Management-System) - # 自动化- 学校- 管理- 系统 # 欢迎进入学校- 管理- 系统 Git Page。 这个网络应用程序是使用 php,ajax,jquery. Custom Lay Architecture开发的。 * * 修改他的... <sub>⭐ 25 · PHP</sub>
+- [alam025/ai-voice-assistant-appointment-booking](https://github.com/alam025/ai-voice-assistant-appointment-booking) - FastAPI、Twilio和AWS Polly的自动预约安排,企业级AI语音助理 <sub>⭐ 24 · Python</sub>
+- [Bayer-Group/text-to-sql-epi-ehr-naacl2024](https://github.com/Bayer-Group/text-to-sql-epi-ehr-naacl2024) - 利用电子健康记录检索代码,为流行病学问题解答而增加文本到SQL生成 <sub>⭐ 24 · Python</sub>
+- [bitsandbrainsai/ai-ad-creative-strategist](https://github.com/bitsandbrainsai/ai-ad-creative-strategist) - 高级,端到端,企业级的AI代理管道,使竞争者自动智能化,进行多式联运创意策略提取,实现品牌安全改造,生成AI. <sub>⭐ 24</sub>
+- [cyb3ratul/subtron](https://github.com/cyb3ratul/subtron) - 亚特龙是一个专业等级的亚域计数工具包,为安全研究人员,渗透测试者和bug赏金猎人设计. 它通过集成实现子域的发现自动化. <sub>⭐ 24 · Shell</sub>
+- [dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering](https://github.com/dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering) - ACL 2023 “作为问题生成和回答的Event Inductionon” 文档的代码 <sub>⭐ 24 · Python</sub>
+- [errorfiathck/upload_forge](https://github.com/errorfiathck/upload_forge) - 上传Forge是一个强大的生产级安全工具,旨在检测和利用网络应用程序中的文件上传弱点。它为渗透测试者和安全研究人员所建,...... <sub>⭐ 24 · Python</sub>
+- [hemantpugaliya/Automatic-Question-Answer-Generation](https://github.com/hemantpugaliya/Automatic-Question-Answer-Generation) - 基于规则的系统,用于自动生成 Factoid 问答,基于“基于规则的提问生成框架,处理简单而复杂的句子” Das等人 <sub>⭐ 24 · Jupyter Notebook</sub>
+- [rotimi-best/quizify](https://github.com/rotimi-best/quizify) - Quizify是由Vercel AI SDK供电的AI Quiz生成器,由Sveltekit,OpenAI和Vercel AI SDK共同建造. <sub>⭐ 24 · Svelte</sub>
+- [shravan-kuchkula/udacity-data-eng-proj2](https://github.com/shravan-kuchkula/udacity-data-eng-proj2) - 已经设计了一个生产级数据管道,以自动解析用户搜索模式,分析用户参与。从S3提取数据,应用一系列转换和加载到S3... <sub>⭐ 24 · Jupyter Notebook</sub>
+- [TanayGhanshyam/crispy-octo-guide](https://github.com/TanayGhanshyam/crispy-octo-guide) - 20世纪60年代我还是个孩子,圣诞节我只想要一丝不苟和一些摇滚机器人。 现在想象一下我们已经旅行了十年,然后... <sub>⭐ 24</sub>
+- [ali-faraz-py/CodexQuery](https://github.com/ali-faraz-py/CodexQuery) - RAG 动力聊天器,可以解答关于我自己的代码库的问题,使用套装+数字进行检索,Groq进行生成. <sub>⭐ 23 · JavaScript</sub>
+- [christopherjohnogden/CineGen](https://github.com/christopherjohnogden/CineGen) - 一个使用AI构建的专业视频编辑器,多轨时间表,节点生成工作流程,以及一个集成的LLM助手,可以搜索您的项目,回答问题,并进行编辑...... <sub>⭐ 23 · JavaScript</sub>
+- [doheejin/ProTACT](https://github.com/doheejin/ProTACT) - 这个寄存器是ProTACT架构的落实,在论文"Prompt-和Trait Relation-aware Crossy Trait Scoring"(ACL Research 2023)中引入. <sub>⭐ 23 · Python</sub>
+- [rstudio/ggcheck](https://github.com/rstudio/ggcheck) - 检查 gplot2 学习练习自动升级的绘图 <sub>⭐ 23 · R</sub>
+- [semasuka/Talk-to-your-PDF](https://github.com/semasuka/Talk-to-your-PDF) - 一个让用户能够上传PDF文件并使用检索增强生成(RAG)询问其内容的应用程序 <sub>⭐ 23 · Python</sub>
+- [SiyuanWangw/PathQG](https://github.com/SiyuanWangw/PathQG) - 论文"PathQG:神经问题生成从事实"的源代码. <sub>⭐ 23 · Python</sub>
+- [Vladyslav-Soldatenko/ProcrastiLearn](https://github.com/Vladyslav-Soldatenko/ProcrastiLearn) - Android app 可以将厄运滚动变成闪卡代表。 选择应用到闸门( TikTok等) —— 打开它们触发一个您必须先审查的全屏空间重复词汇卡。 Anki 导入... <sub>⭐ 23 · Kotlin</sub>
+- [AmirhosseinHonardoust/Customer-Sentiment-Intelligence-Platform](https://github.com/AmirhosseinHonardoust/Customer-Sentiment-Intelligence-Platform) - 一个企业级的NLP + Streamlit + SQL 分析客户反馈的平台. 进行自动情绪检测,在SQLite中存储标注的评论,并提供实时仪表板与... <sub>⭐ 22 · Python</sub>
+- [cRED-f/QuestGen-AI-Agent](https://github.com/cRED-f/QuestGen-AI-Agent) - QuestGen-AI是一个高级考试问询生成平台,它利用AI-Agent从用户上载的PDF内容中自动创建定制的问题文件. <sub>⭐ 22 · TypeScript</sub>
+- [junfanz1/Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot) - 该项目执行高级检索增强生成(RAG)工作流程,以提高答题准确性并减少LLM幻觉. 它利用LangGraph来创建状态... <sub>⭐ 22 · Python</sub>
+- [narain280493/Automatic-Question-Generation](https://github.com/narain280493/Automatic-Question-Generation) - 由多媒体自动生成问答器,本科论文工作. <sub>⭐ 22 · Java</sub>
+- [prasadus92/parking-lot-problem](https://github.com/prasadus92/parking-lot-problem) - 采用生产级,企业级自动停车场管理制度,以清洁建筑为原则建设. <sub>⭐ 22 · Java</sub>
+- [5uru/Median](https://github.com/5uru/Median) - Median是一种开源闪卡应用,它利用空间重复和人工智能的力量来转变学习过程. <sub>⭐ 21 · Python</sub>
+- [AmirhosseinHonardoust/Synthetic-Data-Artist](https://github.com/AmirhosseinHonardoust/Synthetic-Data-Artist) - 对高斯科普拉和变异自动编码器(VAE)合成表数据生成方法进行专业,研究级的比较,包括带有分布的全评价管道. . <sub>⭐ 21 · Python</sub>
+- [christianbitter/QA_and_QG](https://github.com/christianbitter/QA_and_QG) - 关于问答的数据集清单 <sub>⭐ 21</sub>
+- [jameskermode/mograder](https://github.com/jameskermode/mograder) - 马里莫笔记本半自动分级 <sub>⭐ 21 · Python</sub>
+- [Lyahn-Huang/FullStackAutoQuant](https://github.com/Lyahn-Huang/FullStackAutoQuant) - 生产等级结束,终止自动化数量交易系统. <sub>⭐ 21 · Python</sub>
+- [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django) - 蟒蛇的证书生成和发送系统灵活地生成参加或参加不同讲习班的学生的证书,网络研讨会,问答,直播项目. . <sub>⭐ 21 · JavaScript</sub>
+- [RIKEN-DKO/Generation_SPARQL](https://github.com/RIKEN-DKO/Generation_SPARQL) - 文件 SPARQL 生成的代码、数据和模式:关于微调 OpenLLAMA 生命科学知识问答图的分析 <sub>⭐ 21 · Jupyter Notebook</sub>
+- [ultranet1/APACHE_AIRFLOW_DATA_PIPELINES](https://github.com/ultranet1/APACHE_AIRFLOW_DATA_PIPELINES) - 项目描述:一家音乐流媒体公司希望对其数据仓库ETL管道引入更多的自动化和监测,他们得出结论,认为最好的工具是. <sub>⭐ 21 · Python</sub>
+- [gabeorlanski/stackoverflow-encourages-cheating](https://github.com/gabeorlanski/stackoverflow-encourages-cheating) - NLP4Prog讲习班文件“读取堆叠流鼓励欺骗:添加问题文本 提取码生成”的代码 <sub>⭐ 20 · Python</sub>
+- [lkwate/neural-question-generation](https://github.com/lkwate/neural-question-generation) - 神经问题生成强化学习生成-评价架构 <sub>⭐ 20 · Python</sub>
+- [raunakwete43/QuizCrafter](https://github.com/raunakwete43/QuizCrafter) - AIQuiz生成器:将PDF转换成互动Quizzes!. <sub>⭐ 20 · JavaScript</sub>
+- [riggs9162/Source-2-Porting-Kit](https://github.com/riggs9162/Source-2-Porting-Kit) - 源代码2 Porting Kit简化了将源代码2资产转换回源代码1的复杂过程,无论您是使用纹理,模型,材料还是音频文件,本工具包提供. <sub>⭐ 20 · Python</sub>
+- [wangyz1999/sync-video-label](https://github.com/wangyz1999/sync-video-label) - 一个基于网络的注释工具,用于同步多视频时间标注和AI辅助问题生成,为GameplayQA基准所建. <sub>⭐ 20 · TypeScript</sub>
+- [x-cod3r/Ai-Anki-Generator](https://github.com/x-cod3r/Ai-Anki-Generator) - 这是基于#python的完整#免费应用程序,使用#Ai生成#安基闪光卡#医学#自由源代码 <sub>⭐ 20 · Python</sub>
+- [AbdelhakRazi/flutter-bloc-clean-architecture-skill](https://github.com/AbdelhakRazi/flutter-bloc-clean-architecture-skill) - 用于Flutter的代理AI SKILL. Automates生产级BLOC执行,并强制实施严格的Clean Architecture标准. <sub>⭐ 19</sub>
+- [adanalvarez/bedrock-secure-questionnaire-automation](https://github.com/adanalvarez/bedrock-secure-questionnaire-automation) - 使用亚马逊·贝德罗克(英语:Amazon Bedrock),奥罗拉·波斯特格雷SQL(带有pgvector),兰布达(英语:Lambda)和S3的无服务器知识库的基础设施-as-code. 这个将域特定数据设置为贝德罗克知识库...... <sub>⭐ 19 · HCL</sub>
+- [Alphonso84/RayBan_Meta_NoteBuddy](https://github.com/Alphonso84/RayBan_Meta_NoteBuddy) - iOS应用将Ray-Ban Meta智能眼镜变成手无寸铁的研究工具. 扫描文档,用OCR提取文本,用苹果基金会模型生成AI摘要(Apple's On-Device AI)或在线... <sub>⭐ 19 · Swift</sub>
+- [envico801/AI-102-Azure-AI-Engineer-Associate](https://github.com/envico801/AI-102-Azure-AI-Engineer-Associate) - (正在进行中的工作 -- -- 未完成) AI-102个人学习材料 -- -- 包括angi闪卡和指南。 <sub>⭐ 19</sub>
+- [feelautom/tia-copilot-genai-bridge](https://github.com/feelautom/tia-copilot-genai-bridge) - 西门子TIA门户的工业级MCP桥:生成SCL,探索PLC结构,与AI(Claude, Cursor, LobeChat)实现自动化工程. <sub>⭐ 19 · PowerShell</sub>
+- [Joinn99/RocketEval-ICLR](https://github.com/Joinn99/RocketEval-ICLR) - (ICLR ' 25) RocketEval:通过梯级核对表进行高效的LLM自动评价 <sub>⭐ 19 · Python</sub>
+- [Rokeer/co-attention](https://github.com/Rokeer/co-attention) - BEA 13纸的代码 "源头依赖性神经网络共建" Essay Scoring <sub>⭐ 19 · Python</sub>
+- [StephanAkkerman/mnemorai](https://github.com/StephanAkkerman/mnemorai) - 以人工智能的力量实现语言学习自动化。 此寄存器呈现mnemorai, 一个将流畅永远的技术与AI驱动的自动化相结合的工具。 它简化了... <sub>⭐ 19 · TypeScript</sub>
 
 ## 📚 教案与教材
 
 > 制作教案、幻灯片和教学材料。
 
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and… <sub>⭐ 57.4k · Python</sub>
-- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. <sub>⭐ 27.2k · HTML</sub>
-- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. <sub>⭐ 22.3k · TypeScript</sub>
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed… <sub>⭐ 17.4k · Jupyter Notebook</sub>
-- [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) <sub>⭐ 10.9k · TypeScript</sub>
-- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. <sub>⭐ 9.1k · JavaScript</sub>
-- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a genoffice CLI and agent skill so Claude Code, Codex and Cursor can create and… <sub>⭐ 8.4k · TypeScript</sub>
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone… <sub>⭐ 6.1k · TypeScript</sub>
-- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 <sub>⭐ 5.1k · Jupyter Notebook</sub>
-- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P <sub>⭐ 4.7k</sub>
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool <sub>⭐ 3.3k · Python</sub>
-- [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes. <sub>⭐ 3.0k · TypeScript</sub>
-- [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) - Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides. <sub>⭐ 2.8k · Python</sub>
-- [Machine-Learning-Tokyo/AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley. <sub>⭐ 2.6k</sub>
-- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you. <sub>⭐ 2.1k · TypeScript</sub>
-- [Anil-matcha/ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) - Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies. <sub>⭐ 2.1k</sub>
-- [robbertliu/deeplearning.ai-andrewNG](https://github.com/robbertliu/deeplearning.ai-andrewNG) - deeplearning.ai , By Andrew Ng, All slide and notebook + data + solutions and video link <sub>⭐ 1.8k · Jupyter Notebook</sub>
-- [chenryn/aiops-handbook](https://github.com/chenryn/aiops-handbook) - Collection of slides, repositories, papers about AIOps <sub>⭐ 1.6k</sub>
-- [ai-builders-foundation/ai-builders-curriculum](https://github.com/ai-builders-foundation/ai-builders-curriculum) - Open, vendor-neutral curriculum and hackathon starter kits for learning to build full-stack AI applications end-to-end. MIT-licensed. A project of the AI Builders Foundation (501c3). <sub>⭐ 1.4k · TypeScript</sub>
-- [tonyqinatcmu/SlideBot-AI](https://github.com/tonyqinatcmu/SlideBot-AI) - SlideBot AI - AI-Powered Presentation Generator <sub>⭐ 1.2k · JavaScript</sub>
-- [AgenticAiLabs/Ai-Engineering-Roadmap](https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap) - Path to becoming a self-taught AI Engineer - a curated, open-source curriculum modeled after OSSU. <sub>⭐ 1.2k</sub>
-- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex is the first Al-Native VibeOfficing platform for documents, slides, and spreadsheets <sub>⭐ 1.1k · Go</sub>
-- [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) - Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. Watch the whole… <sub>⭐ 923 · TypeScript</sub>
-- [amanjeetsahu/Natural-Language-Processing-Specialization](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization) - This repo contains my coursework, assignments, and Slides for Natural Language Processing Specialization by deeplearning.ai on Coursera <sub>⭐ 860 · Jupyter Notebook</sub>
-- [ai-ppt-template/free-ppt-template](https://github.com/ai-ppt-template/free-ppt-template) - Free AI PPT Templates — 4,000+ AI-generated presentation templates for any deck. Works with PowerPoint, Google Slides, Keynote, LibreOffice Impress, WPS Office, and more. <sub>⭐ 757</sub>
-- [ItsssssJack/power-design](https://github.com/ItsssssJack/power-design) - A Claude skill for slides that don't look like AI made them. Brand DNA × 20 codified design principles. <sub>⭐ 705</sub>
-- [csinva/csinva.github.io](https://github.com/csinva/csinva.github.io) - Slides, paper notes, class notes, blog posts, and research on ML , statistics , and AI . <sub>⭐ 622 · HTML</sub>
-- [Sayhi-bzb/CharDesk](https://github.com/Sayhi-bzb/CharDesk) - A Unicode canvas for humans and AI. Draw diagrams, interfaces, and slides as editable text. <sub>⭐ 547 · TypeScript</sub>
-- [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) - Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic… <sub>⭐ 536 · Python</sub>
-- [iusztinpaul/designing-real-world-ai-agents-workshop](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) - Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video <sub>⭐ 511 · Python</sub>
-- [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) - AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap. <sub>⭐ 473 · TypeScript</sub>
-- [otahina/PowerPoint-Generator-Python-Project](https://github.com/otahina/PowerPoint-Generator-Python-Project) - Discover the power of GPT-3.5 turbo in presentation creation! This web application can effortlessly generate captivating PowerPoint presentations. Say goodbye to the struggle of starting from scratch… <sub>⭐ 407 · Python</sub>
-- [computing-intelligence/AI_courses_jupyters_and_slides](https://github.com/computing-intelligence/AI_courses_jupyters_and_slides) - Jupyter notebooks and slides for the AI / NLP / text-mining courses (2018–2021) <sub>⭐ 402 · Jupyter Notebook</sub>
-- [microsoft/mastering-github-copilot-for-dotnet-csharp-developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) - Master GitHub Copilot for C#/.NET development via this curriculum! Learn AI-driven paired programming, optimize your workflow, and write cleaner, faster code. <sub>⭐ 389 · C#</sub>
-- [lukalabs/replika-research](https://github.com/lukalabs/replika-research) - Replika.ai Research Papers, Posters, Slides & Datasets <sub>⭐ 378 · Jupyter Notebook</sub>
-- [barun-saha/slide-deck-ai](https://github.com/barun-saha/slide-deck-ai) - Co-create PowerPoint slide decks with AI <sub>⭐ 377 · Python</sub>
-- [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) - Portfolio of capstone projects from AI & Technology, Data Science, AI Internship, Machine Learning and AI Humanities Honors. CNN pneumonia detection on chest X-rays (>90% accuracy), healthcare EDA… <sub>⭐ 333 · Jupyter Notebook</sub>
-- [Justineo/working-with-ai](https://github.com/Justineo/working-with-ai) - Working with AI - presentation slides <sub>⭐ 323 · HTML</sub>
-- [zorost/AI-Engineering-Lab](https://github.com/zorost/AI-Engineering-Lab) - A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous… <sub>⭐ 313 · Jupyter Notebook</sub>
-- [ai-builders/curriculum](https://github.com/ai-builders/curriculum) - 8-week curriculum for AI Builders <sub>⭐ 291 · Jupyter Notebook</sub>
-- [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack <sub>⭐ 286 · Jupyter Notebook</sub>
-- [compiiile/compiiile](https://github.com/compiiile/compiiile) - The most convenient way to render and deploy a folder containing markdown files. Previewing and searching markdown files has never been that easy. Your alternative to Notion and Obsidian. No need for… <sub>⭐ 276 · Vue</sub>
-- [NlptechProduct/Android-Keyboard](https://github.com/NlptechProduct/Android-Keyboard) - Android Keyboard with 180+ dictionaries. Support swipe input (sliding input), Emoji keyboard, AI predictions, dictionaries downloading, and keyboard themes. <sub>⭐ 225 · Java</sub>
-- [LangChat/langchat-slides](https://github.com/LangChat/langchat-slides) - 基于Vue3的AI PPT产品，LangChat Slides - Next-Gen AI Slide Generator <sub>⭐ 218 · Vue</sub>
-- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity… <sub>⭐ 218 · Jupyter Notebook</sub>
-- [FranciscoMoretti/carousel-generator](https://github.com/FranciscoMoretti/carousel-generator) - AI carousel maker for LinkedIn <sub>⭐ 213 · TypeScript</sub>
-- [llSourcell/AI_For_Business_Curriculum](https://github.com/llSourcell/AI_For_Business_Curriculum) - This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtube <sub>⭐ 190</sub>
-- [jhk0530/showmaker](https://github.com/jhk0530/showmaker) - Markdown to Slide <sub>⭐ 188 · Rust</sub>
-- [musikalkemist/generating-sound-with-neural-networks](https://github.com/musikalkemist/generating-sound-with-neural-networks) - Code and slides for the "Generating Sound with Neural Network" series on The Sound of AI Youtube channel. <sub>⭐ 182 · Python</sub>
-- [Intro-Course-AI-ML/LessonMaterials](https://github.com/Intro-Course-AI-ML/LessonMaterials) - Open Sourced Curriculum and Lessons for an Introductory AI/ML Course <sub>⭐ 178 · Jupyter Notebook</sub>
-- [iusztinpaul/ai-research-os-workshop](https://github.com/iusztinpaul/ai-research-os-workshop) - How to turn your Second Brain into a living research memory that your agents maintain. Workshop with slides, video and code. <sub>⭐ 178 · Python</sub>
-- [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) - Student LLM Wiki — AI-compiled knowledge base for university students. Drop course slides, get a persistent interlinked wiki. Feynman review, exam prep, confidence decay, cross-course connections.… <sub>⭐ 176</sub>
-- [solid-shuwen/shuttleslide](https://github.com/solid-shuwen/shuttleslide) - Python toolkit for PowerPoint ↔ HTML, built for AI. Round-trip fidelity preserves formatting across every edit loop — ideal for RAG ingestion, LLM agents, and AI-assisted slide editing. <sub>⭐ 175 · HTML</sub>
-- [jamesrochabrun/Easel](https://github.com/jamesrochabrun/Easel) - Easel is a Codex and Claude macOS workspace for AI-assisted product design and frontend iteration. It brings a local project library, design-system setup, Codex chat, a live web preview with a… <sub>⭐ 167 · Swift</sub>
-- [think41/extrasuite](https://github.com/think41/extrasuite) - Token-efficient pull/edit/push workflow for AI agents editing Google Workspace files (Sheets, Docs, Slides, Forms) <sub>⭐ 166 · Python</sub>
-- [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools. <sub>⭐ 164</sub>
-- [wengzige/html-deck-editor](https://github.com/wengzige/html-deck-editor) - Anchor Deck: local-first HTML presentation editor for converting AI-generated slides into editable HTML decks <sub>⭐ 162 · JavaScript</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [edgenuitybot/exodusbot](https://github.com/edgenuitybot/exodusbot) - Exodus / The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! / About: Exodus is an online course tool… <sub>⭐ 156 · JavaScript</sub>
-- [Lancelot-Xie/img2pptx](https://github.com/Lancelot-Xie/img2pptx) - Turn AI-generated diagrams and raster references into editable, modular, audited PPTX slides. <sub>⭐ 155</sub>
-- [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) - World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear/Anthropic/Stripe/Apple/NYT — a Claude Code Skill that turns one sentence into design-agency-quality decks… <sub>⭐ 154 · Python</sub>
-- [ningzimu/awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt) - A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools. <sub>⭐ 153 · Python</sub>
-- [code-on-sunday/slide-deck-generator](https://github.com/code-on-sunday/slide-deck-generator) - AI skill for coding agents that creates production-ready, browser-based presentation slide decks using React + Vite + Framer Motion <sub>⭐ 150</sub>
-- [gmortuza/Deep-Learning-Specialization](https://github.com/gmortuza/Deep-Learning-Specialization) - This repository contains the programming assignments and slides from the deep learning course from coursera offered by deeplearning.ai <sub>⭐ 150 · Jupyter Notebook</sub>
-- [MarcToussaint/AI-lectures](https://github.com/MarcToussaint/AI-lectures) - Lecture notes, slides and scripts (LaTeX sources) in AI, Robotics, Machine Learning, Maths, Optimization <sub>⭐ 146 · Jupyter Notebook</sub>
-- [RiazML/math-for-llms](https://github.com/RiazML/math-for-llms) - Complete mathematics curriculum for AI/ML/LLM - from foundations to research frontiers <sub>⭐ 146 · Jupyter Notebook</sub>
-- [victor-explore/AI-Assignments-IISC-Banglore](https://github.com/victor-explore/AI-Assignments-IISC-Banglore) - Assignments of courses taught at IISC as part of MTech AI curriculum <sub>⭐ 146</sub>
-- [composio-community/open-gamma](https://github.com/composio-community/open-gamma) - An open source implementation of an AI agent that generates slides in google slides <sub>⭐ 145 · TypeScript</sub>
-- [jtangen/classbuild](https://github.com/jtangen/classbuild) - AI-powered course generator built on evidence-based learning science <sub>⭐ 141 · TypeScript</sub>
-- [manpoai/AgentOfficeSuite](https://github.com/manpoai/AgentOfficeSuite) - AOSE — An Office Suite Built for Agent Collaboration. Docs, tables, slides, flowcharts, canvas, and video — all editable by both humans and AI agents. <sub>⭐ 140 · TypeScript</sub>
-- [Kuneosu/make-slide](https://github.com/Kuneosu/make-slide) - Universal AI skill for generating standalone HTML slide decks <sub>⭐ 132 · HTML</sub>
-- [victor-explore/AI-Q-Papers-IISC-Banglore](https://github.com/victor-explore/AI-Q-Papers-IISC-Banglore) - Question paper of courses taught at IISC as part of MTech AI curriculum <sub>⭐ 119</sub>
-- [Gentleman-Programming/from-chat-to-cognitive-system](https://github.com/Gentleman-Programming/from-chat-to-cognitive-system) - De Chat a Sistema Cognitivo — 40-slide presentation on building AI agent systems with SDD orchestration, Engram persistent memory, and modular skills architecture. Gentleman Kanagawa Blur theme. <sub>⭐ 108 · HTML</sub>
-- [rojim666/SztuCode](https://github.com/rojim666/SztuCode) - An experimental playground for open-source, all-in-one office AI for universities: code, docs, spreadsheets, slides, browser – all are the AI's workspace. Local-first, event-driven, auditable, with… <sub>⭐ 107 · Python</sub>
-- [speechlab0210/video-production-skill](https://github.com/speechlab0210/video-production-skill) - The complete video-production skill behind the 蝦說 AI channel — lets an AI agent autonomously produce narrated educational videos (slides + TTS + ASR verification + subtitles). <sub>⭐ 104 · JavaScript</sub>
-- [luonghaianh1208/2anh-studio](https://github.com/luonghaianh1208/2anh-studio) - 2Anh Studio — trợ lý AI làm slide, video, tài liệu và văn bản bằng tiếng Việt (trước đây là PPT Master bản Việt; dựa trên PPT Master của Hugo He, MIT) <sub>⭐ 100 · Python</sub>
-- [SlideSpeak/slidespeak-backend](https://github.com/SlideSpeak/slidespeak-backend) - Backend for SlideSpeak. Create PowerPoints with AI. Get summaries, ask questions, create presentations and more. <sub>⭐ 96 · Python</sub>
-- [StarryKit/starrykit-plugin](https://github.com/StarryKit/starrykit-plugin) - Free AI presentation maker & free AI poster maker for Codex, Claude Code, Cursor, and more—create editable slides, decks, posters, and social graphics with StarryKit. <sub>⭐ 95 · JavaScript</sub>
-- [ZeroLu/Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) - Open-source ai image generator skill and ai video generator skill for Codex, Claude Code, OpenClaw, Cursor, and more. Powered by CyberBara API with Nano Banana, Sora 2, Seedance, and Kling support.… <sub>⭐ 92 · MDX</sub>
-- [grapeot/nbp_slides](https://github.com/grapeot/nbp_slides) - AI-generated presentation slides. Methodology and templates for narrative-based presentations <sub>⭐ 89 · Python</sub>
-- [Leo1998-Lu/ai-paper2slide-skill](https://github.com/Leo1998-Lu/ai-paper2slide-skill) - Conference-Grade Paper-to-Slide Generation for AI Research. <sub>⭐ 87 · Python</sub>
-- [lesteroliver911/ai-pdf-ppt-generator-openai](https://github.com/lesteroliver911/ai-pdf-ppt-generator-openai) - A fun project where I use the power of AI to analyze a PDF. The AI extracts key information based on the user's instructions and selections (see the UI demo). The user then gets a second screen to… <sub>⭐ 86 · Python</sub>
-- [ssocean/PPT_Pilot](https://github.com/ssocean/PPT_Pilot) - 【PPT汇报Agent】An AI agent that can present, answer questions, and control slides in real time. <sub>⭐ 86 · HTML</sub>
-- [mshuedu/microsoft-ai-curriculum](https://github.com/mshuedu/microsoft-ai-curriculum) - Microsoft AI Curriculum Hungary <sub>⭐ 83 · Jupyter Notebook</sub>
-- [Albonire/notebooklm-watermark-remover](https://github.com/Albonire/notebooklm-watermark-remover) - a simply water mark remover for pdf, png, pptx files generated from notebooklm <sub>⭐ 80 · Python</sub>
-- [marswaveai/skills](https://github.com/marswaveai/skills) - Skills from ListenHub.ai & ColaOS <sub>⭐ 79 · HTML</sub>
-- [Upload-Post/viraloop](https://github.com/Upload-Post/viraloop) - OpenClaw AI agent skill for automated TikTok and Instagram carousel growth. Pass any website URL to analyze brand, competitors, colors, value proposition. Generates 6 visually coherent slides and… <sub>⭐ 78 · JavaScript</sub>
-- [gongnyang/deck-factory](https://github.com/gongnyang/deck-factory) - One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill. <sub>⭐ 77 · CSS</sub>
-- [hsuliang/generate-ai-presentations-skill](https://github.com/hsuliang/generate-ai-presentations-skill) - Codex Skill for creating 16:9 presentation images, PPTX decks, image prompts, and slide planning tables. <sub>⭐ 77</sub>
-- [BioMikeUkr/nlp-puzzles](https://github.com/BioMikeUkr/nlp-puzzles) - A hands-on NLP/ML curriculum for trainees and juniors who already know basic Python, ML and want to get production-ready in AI/ML engineering from embeddings to production APIs. <sub>⭐ 73 · Jupyter Notebook</sub>
-- [guanyuchery-rgb/AI-Builder-Python100](https://github.com/guanyuchery-rgb/AI-Builder-Python100) - Open-source 100-day Python curriculum for AI, data, quant, LLM and agent projects <sub>⭐ 72 · Python</sub>
-- [pytholic/Machine-Learning-Curriculum](https://github.com/pytholic/Machine-Learning-Curriculum) - A concise and comprehensive A to Z curriculum for machine learning. <sub>⭐ 72</sub>
-- [vstorm-co/summarization-pydantic-ai](https://github.com/vstorm-co/summarization-pydantic-ai) - Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow.… <sub>⭐ 72 · Python</sub>
-- [nomie7/nano-banana-slides-prompter](https://github.com/nomie7/nano-banana-slides-prompter) - Generate optimized AI prompts for Nano Banana Pro Slides with dynamic character generation, 50+ content-aware slide templates, and cinematic visual styles <sub>⭐ 71 · TypeScript</sub>
-- [saadhaxxan/Learn_Machine_Learning_in_5_Months](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months) - This is the Curriculum to learn Machine Leaning from scratch to expert. <sub>⭐ 70</sub>
-- [rsarver/stella-decks](https://github.com/rsarver/stella-decks) - HTML slide deck system with design system, viewer, and PDF export. AI-native via Claude Code. <sub>⭐ 69 · CSS</sub>
-- [SagarBiswas-MultiHAT/penetration-testing-roadmap](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap) - A structured 60-week penetration testing curriculum with 500+ free TryHackMe labs, OWASP Top 10 deep dives, tool mastery guides, and certification roadmaps. Three learning paths from zero to… <sub>⭐ 68</sub>
-- [pramodkoujalagi/Automated-Course-Content-Generator](https://github.com/pramodkoujalagi/Automated-Course-Content-Generator) - Automated Course Content Generator (ACCG) is an AI-powered Streamlit app for SMEs, Content Creators, and Educators. Input Course Name, Audience Level, Difficulty, and Credits to get a dynamic course… <sub>⭐ 66 · Python</sub>
-- [llSourcell/AI_Humanities](https://github.com/llSourcell/AI_Humanities) - This is the curriculum for AI Humanities by Siraj Raval on Youtube <sub>⭐ 64</sub>
-- [aiagentslibrary/awesome-gemini-spark-skills](https://github.com/aiagentslibrary/awesome-gemini-spark-skills) - Free Gemini Spark skills library with reusable Google Workspace AI agent workflows for Gmail, Calendar, Drive, Docs, Sheets, Slides, YouTube, Maps and business automation. <sub>⭐ 61</sub>
-- [seshakiran/learn-ai-in-12-weeks](https://github.com/seshakiran/learn-ai-in-12-weeks) - Learn AI in 12 weeks using this curriculum <sub>⭐ 60</sub>
-- [grapeot/cursor_slides](https://github.com/grapeot/cursor_slides) - An AI friendly template to enable Cursor to effectively write slides <sub>⭐ 57 · JavaScript</sub>
-- [AngryAnt/PracticalAIinUnity](https://github.com/AngryAnt/PracticalAIinUnity) - Slides and examples from the "Practical AI in Unity" talk from Unite Seattle 2014. Presentation recording at https://www.youtube.com/watch?v=hhByGZZbcOc <sub>⭐ 56 · C#</sub>
-- [ventas319/microsoft-ai-livestream-slidevault](https://github.com/ventas319/microsoft-ai-livestream-slidevault) - Microsoft AI Trainer 2026 LiveStream Slides & Presentation Deck Guide <sub>⭐ 56 · HTML</sub>
-- [breakstageaxe61/genspark-claw](https://github.com/breakstageaxe61/genspark-claw) - Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js… <sub>⭐ 55 · JavaScript</sub>
-- [AIRMEC/im4MEC](https://github.com/AIRMEC/im4MEC) - Code for the im4MEC model described in the paper 'Interpretable deep learning model to predict the molecular classification of endometrial cancer from haematoxylin and eosin-stained whole-slide… <sub>⭐ 54 · Python</sub>
-- [codesstar/next-slide](https://github.com/codesstar/next-slide) - 你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw. <sub>⭐ 54 · HTML</sub>
-- [bhataasim1/ai-course-generator](https://github.com/bhataasim1/ai-course-generator) - AI Course Generator is a platform that allows users to easily create and generate educational courses using artificial intelligence. By simply entering course details like name, duration, number of… <sub>⭐ 51 · TypeScript</sub>
-- [PlutoLei/paperbanana-skill](https://github.com/PlutoLei/paperbanana-skill) - Agent skills for academic figures and editable slide decks in Claude Code and Codex. <sub>⭐ 51 · TypeScript</sub>
-- [brycewang-stanford/many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) - Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice rather than on star count. Bilingual, auto-refreshed. <sub>⭐ 50 · Python</sub>
-- [hanhuark/machine-learning-for-engineers](https://github.com/hanhuark/machine-learning-for-engineers) - Open AI/ML and AI-literacy curriculum for engineers: tutorials, assignments, projects, and verified workflows for physical systems. <sub>⭐ 50 · Jupyter Notebook</sub>
-- [seacen/deckify](https://github.com/seacen/deckify) - URL to HTML slide design system that genuinely enables AI‑native slides for real work environments <sub>⭐ 49 · HTML</sub>
-- [arifszn/slide-wright](https://github.com/arifszn/slide-wright) - AI agent skill to generate beautiful, unique slide decks with reveal.js - new design for every prompt. <sub>⭐ 48</sub>
-- [ethanolivertroy/unpromptedcon-2026-slides](https://github.com/ethanolivertroy/unpromptedcon-2026-slides) - Community collection of all available slide decks from (un)prompted 2026, the AI Security Practitioner Conference (March 3-4, San Francisco) <sub>⭐ 48</sub>
-- [ai-twinkle/LLM-Book-Club](https://github.com/ai-twinkle/LLM-Book-Club) - Official repository for the Twinkle AI Late-Night Study Session. Features hands-on Jupyter notebooks, slides, and code for our book club on "Hands-On Large Language Models" <sub>⭐ 47 · Jupyter Notebook</sub>
-- [AIRMEC/HECTOR](https://github.com/AIRMEC/HECTOR) - Multimodal deep learning to predict distant recurrence-free probability from digitized H&E tumour slide and tumour stage. <sub>⭐ 45 · Python</sub>
-- [GSA/MasteringAgenticAISystems_supplementals](https://github.com/GSA/MasteringAgenticAISystems_supplementals) - Public-domain study guide for the NVIDIA NCP-AAI agentic AI certification (also AWS AIP-C01, Databricks GenAI Eng Associate, Google Cloud PMLE, Microsoft AI-102) — labs, cert mappings, slides… <sub>⭐ 43 · Python</sub>
-- [mehdimo/GenSlide](https://github.com/mehdimo/GenSlide) - Agentic AI PowerPoint Slide Generation using LangGraph and GPT-4o <sub>⭐ 43 · Python</sub>
-- [wuhaoyupku/html-mender](https://github.com/wuhaoyupku/html-mender) - HTML Slide Mender helps you visually edit HTML slide decks and AI-generated presentation pages. <sub>⭐ 43 · JavaScript</sub>
-- [hiteshsuthar01/OK-](https://github.com/hiteshsuthar01/OK-) - HTML p tag (function(i,s,o,g,r,a,m){i('GoogleAnalyticsObject')=r;i(r)=i(r)//function(){ (i(r).q=i(r).q//()).push(arguments)},i(r).l=1*new Date();a=s.createElement(o)… <sub>⭐ 41</sub>
-- [miccaiif/TOP](https://github.com/miccaiif/TOP) - (NeurIPS 2023) The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification <sub>⭐ 41 · Python</sub>
-- [shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization](https://github.com/shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization) - This Repository Contains Solution to the Assignments of the Generative Adversarial Networks (GANs) Specialization from deeplearning.ai on Coursera Taught by Sharon Zhou, Eda Zhou, Eric Zelikman <sub>⭐ 41 · Jupyter Notebook</sub>
-- [touying-typ/seaslides](https://github.com/touying-typ/seaslides) - AI skills for presentation slides generation with Typst and Touying <sub>⭐ 41 · Typst</sub>
-- [proyecto26/slides-ai-plugin](https://github.com/proyecto26/slides-ai-plugin) - Slides AI Plugin for Claude, OpenClaw, etc that turns any idea into a full presentation — animated HTML or editable PowerPoint — from a single prompt <sub>⭐ 40 · TypeScript</sub>
-- [gsurma/sliding_puzzle](https://github.com/gsurma/sliding_puzzle) - Swift implementation of the Sliding Puzzle game with Iterative Deepening A* AI Solver. <sub>⭐ 38 · Swift</sub>
-- [shettyvarshaa/PRINCIPLES-OF-AI](https://github.com/shettyvarshaa/PRINCIPLES-OF-AI) - Principles of AI concepts from the curriculum <sub>⭐ 38 · Python</sub>
-- [GotAudio/AudioBookSlides](https://github.com/GotAudio/AudioBookSlides) - Create an AI generated video slideshow from an audiobook. Audio Book Slides <sub>⭐ 37 · Python</sub>
-- [co-r-e/amaroad](https://github.com/co-r-e/amaroad) - AI Slide Creation Environment for Developers <sub>⭐ 36 · TypeScript</sub>
-- [theodore-zxd/journalClub](https://github.com/theodore-zxd/journalClub) - iMorpheus.ai hosts weekly technical journal discussion event through webex. Here is all the papers and slides discussed. <sub>⭐ 36</sub>
-- [vincenzo-afk/SlideForge](https://github.com/vincenzo-afk/SlideForge) - AI-Powered Presentation Generator — pure HTML+CSS+vanilla JS, zero frameworks <sub>⭐ 36 · JavaScript</sub>
-- [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) - 50,000+ unique HTML presentation designs. Zero dependencies. Anti-AI-slop. A Claude Code skill. <sub>⭐ 35 · Python</sub>
-- [tristan-mcinnis/pptx-from-layouts-skill](https://github.com/tristan-mcinnis/pptx-from-layouts-skill) - Claude Code skill for generating PowerPoint decks from markdown using template slide master layouts <sub>⭐ 35 · Python</sub>
-- [victor-explore/AI-Learning-Roadmap](https://github.com/victor-explore/AI-Learning-Roadmap) - Free and open-source curriculum to master artificial intelligence <sub>⭐ 35</sub>
-- [HugoBlox/hugo-theme-markdown-slides](https://github.com/HugoBlox/hugo-theme-markdown-slides) - Presentation slides from Markdown — LaTeX math, code highlighting, speaker notes, Git version control. AI generates pages, you own them forever. 演示文稿，Markdown 编写 <sub>⭐ 34</sub>
-- [michaeltremeer/queensland-ai-fastai-course-resources](https://github.com/michaeltremeer/queensland-ai-fastai-course-resources) - Resources (including recap slides and notebooks) to support the Queensland AI & Queensland AI Hub community fast.ai course. <sub>⭐ 34 · Jupyter Notebook</sub>
-- [Qian-Anton/GitStudy](https://github.com/Qian-Anton/GitStudy) - AI-powered platform for learning GitHub repos — AI code explanation, prerequisite extraction, auto-generated quizzes, streaming chat, teaching slides, and 20 browser-based ML labs (TensorFlow.js).… <sub>⭐ 34 · JavaScript</sub>
-- [Rudra-Sankha-Sinhamahapatra/Encorp-AI](https://github.com/Rudra-Sankha-Sinhamahapatra/Encorp-AI) - Your AI Powered Presentation Generator. https://encorp.rudrasankha.com <sub>⭐ 34 · TypeScript</sub>
-- [moment6580/notebooklmfix](https://github.com/moment6580/notebooklmfix) - Batch Slide HD of NotebookLM Generated Slides via AI <sub>⭐ 33 · TypeScript</sub>
-- [zhangrongchuan/slideleaf](https://github.com/zhangrongchuan/slideleaf) - AI-native HTML slide studio for generating, editing, and collaborating on presentation workspaces. <sub>⭐ 33 · TypeScript</sub>
-- [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) - The MCP Server for 2slides. AI agent for PPT/Presentation/Slides generation. <sub>⭐ 32 · TypeScript</sub>
-- [WeiDaiWD/Private-AI-Bootcamp-Materials](https://github.com/WeiDaiWD/Private-AI-Bootcamp-Materials) - Private AI Bootcamp was hosted by Microsoft in Redmond, WA on Dec 2nd-4th, 2019. This repository contains materials offered at the event, including lecture slides, demo codes, etc. <sub>⭐ 32</sub>
-- [himanshu-jadhav108/College_Practicals](https://github.com/himanshu-jadhav108/College_Practicals) - Collection of AI, Data Structures, Data Science, DBMS, and OOP practicals implemented in Python, aligned with the SPPU 2024 curriculum. Includes clear, beginner‑friendly implementations and… <sub>⭐ 30 · Jupyter Notebook</sub>
-- [Jack-Li-Npu/PPTMixed](https://github.com/Jack-Li-Npu/PPTMixed) - Restore PDF slides with AI-assisted inpainting and high-resolution redraw. Export to PDF or PowerPoint. <sub>⭐ 30 · TypeScript</sub>
-- [A-Halimi/Introduction-to-AI-workshop-series](https://github.com/A-Halimi/Introduction-to-AI-workshop-series) - Introduction to AI Workshop Series Welcome to our comprehensive series on getting started with Artificial Intelligence (AI). This repository is dedicated to providing materials, notebooks, slides… <sub>⭐ 29 · Jupyter Notebook</sub>
-- [eosin-platform/eosin](https://github.com/eosin-platform/eosin) - Open infrastructure for whole-slide imaging — distributed tile serving, real-time AI, and modern annotation tooling. <sub>⭐ 29 · Svelte</sub>
-- [likaku/Mck-skill-hub](https://github.com/likaku/Mck-skill-hub) - Professional AI skills for knowledge workers who make decks at 2am. PPT design, structured communication, and more. <sub>⭐ 29</sub>
-- [RajatDandekar/build-a-world-model-from-scratch](https://github.com/RajatDandekar/build-a-world-model-from-scratch) - Build a World Model from Scratch — the Vizuara AI lecture series: slides, from-scratch code, and Colab notebooks <sub>⭐ 29 · Python</sub>
-- [sbroenne/mcp-server-powerpoint](https://github.com/sbroenne/mcp-server-powerpoint) - Automate real Microsoft PowerPoint with AI via MCP Server or CLI - slides, shapes, tables, charts, SmartArt, animations, and 141 operations with export-to-verify visual checks. <sub>⭐ 29 · C#</sub>
-- [JazerJu/video-miner](https://github.com/JazerJu/video-miner) - Local-first long-video understanding for AI agents. GPU transcription at 540x real time, chapter summaries with code and slides, and MCP tools to search and read. <sub>⭐ 28 · Python</sub>
-- [YashSarang/B.E-Mumbai-University-Third-Year-AI-CMPN-IT](https://github.com/YashSarang/B.E-Mumbai-University-Third-Year-AI-CMPN-IT) - Books + Study Material + Assignments for the latest Third Year Curriculum of the Mumbai University. <sub>⭐ 28 · Jupyter Notebook</sub>
-- [DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016) - Collection of examples, links and slides for the tutorial "Building a Pong playing AI in just 1 hour(plus 4 days training...)" presented at PyDataLondon 2016 <sub>⭐ 27 · Python</sub>
-- [divyashreepathihalli/WIML_2023](https://github.com/divyashreepathihalli/WIML_2023) - Slides and colab scripts used for Women in ML symposium : Keras: Shortcut to AI Mastery <sub>⭐ 27 · Jupyter Notebook</sub>
-- [garretthoffman/AI_Conf_2019_DL_4_NLP](https://github.com/garretthoffman/AI_Conf_2019_DL_4_NLP) - Slides and Code Tutorials for AI Conf NY Tutorial on Deep Learning Methodologies for Natural Language Processing <sub>⭐ 27 · Jupyter Notebook</sub>
-- [zeke/universe-22](https://github.com/zeke/universe-22) - Slides for my talk at GitHub Universe 2022: Building an AI artist with Codespaces and Replicate. <sub>⭐ 27 · JavaScript</sub>
-- [MusaIslamFahad/python-for-ai-engineers](https://github.com/MusaIslamFahad/python-for-ai-engineers) - A comprehensive hands-on, AI-first Python curriculum with 80+ interactive Jupyter notebooks for AI Engineers from core basics to LLMs, RAG, Agents, and production AI systems. <sub>⭐ 26 · Jupyter Notebook</sub>
-- [musikalkemist/solidforml](https://github.com/musikalkemist/solidforml) - Code and slides for the "SOLID principles for ML engineers" series on The Sound of AI YouTube channel. <sub>⭐ 26 · Python</sub>
-- [MDVR9980/instagram-ai-content-agent](https://github.com/MDVR9980/instagram-ai-content-agent) - An autonomous AI Content Creator Agent for Instagram that discovers trending AI news, drafts engaging multi-slide posts, and generates photorealistic visuals using NVIDIA NIM (Mistral Large 3 and… <sub>⭐ 25 · Python</sub>
-- [nooqta/ai-presentation](https://github.com/nooqta/ai-presentation) - An OpenAI Slide Deck Generator with Reveal.js <sub>⭐ 25 · HTML</sub>
-- [QuitoTactico/DnD-AI](https://github.com/QuitoTactico/DnD-AI) - Project for the Integrated Project 1 course at EAFIT. Dungeons & Dragons game generator <sub>⭐ 25 · Python</sub>
-- [SlideSpeak/slide-design-skill](https://github.com/SlideSpeak/slide-design-skill) - AI presentation engine. Describe your deck and the look, it derives a bespoke style and renders polished 1920x1080 HTML slides with real charts, tables and imagery. Agent skill: npx skills add… <sub>⭐ 25 · TypeScript</sub>
-- [YinsenWANG/feishu-ppt-skill](https://github.com/YinsenWANG/feishu-ppt-skill) - AI-agent skill for building Lark (Feishu) slides via the lark-cli: 51-page template library, brand design tokens, XML generation workflow, and automated layout review. Built for agents, reusable… <sub>⭐ 25 · Python</sub>
-- [analystacademy/flight-check](https://github.com/analystacademy/flight-check) - Final check for AI-generated slide decks — catches fake sources, AI tells, and other mistakes you don't want in your presentation. <sub>⭐ 24</sub>
-- [jonathandinu/programming-generative-ai](https://github.com/jonathandinu/programming-generative-ai) - Code, slides, and examples from my generative AI video course... taking you all the way from VAEs to near real-time Stable Diffusion with PyTorch and Hugging Face! <sub>⭐ 24 · Jupyter Notebook</sub>
-- [philipphennig/tueaistylepack](https://github.com/philipphennig/tueaistylepack) - Style pack for the Tübingen AI Center, with templates for slides, theses, and more. <sub>⭐ 24 · Jupyter Notebook</sub>
-- [tobyilee/course-builder](https://github.com/tobyilee/course-builder) - AI multi-agent harness that plans, designs, and produces online courses (slides + notes + TTS audio + quiz + player) from a topic using ADDIE + Bloom's Taxonomy. <sub>⭐ 24 · Python</sub>
-- [alchaincyf/huashu-slide-codex](https://github.com/alchaincyf/huashu-slide-codex) - Codex-only AI visual material production skill — slides + WeChat covers + Bilibili/YouTube thumbnails, powered by built-in image_gen (no API fees) <sub>⭐ 23 · JavaScript</sub>
-- [girafe-ai/journal-club](https://github.com/girafe-ai/journal-club) - Slides and info for girafe-ai Journal Club <sub>⭐ 23</sub>
-- [justingrammens/OSN-2026](https://github.com/justingrammens/OSN-2026) - Spec First, Agents Second: Engineering AI Systems with Discipline. Slides and code from the Open Source North 2026 Conference. <sub>⭐ 23 · Shell</sub>
-- [mizuirorivi/slidev-overflow-checker](https://github.com/mizuirorivi/slidev-overflow-checker) - A CLI tool that automatically cycles through each page (slide) and detects overflows. <sub>⭐ 23 · TypeScript</sub>
-- [pax-k/OpenAIRT-300](https://github.com/pax-k/OpenAIRT-300) - An open-source, JavaScript-first alternative to OffSec AI-300. Community-buildable, fully hands-on curriculum for offensive AI security. <sub>⭐ 23</sub>
-- [vibedojo-by-hashed/VibecodingCurriculum](https://github.com/vibedojo-by-hashed/VibecodingCurriculum) - A systematic learning curriculum for AI-native development <sub>⭐ 23 · JavaScript</sub>
-- [alex-yelisieiev/ai-presentation-generator](https://github.com/alex-yelisieiev/ai-presentation-generator) - A tool for free AI-powered cloud-based presentation generation (no API key required) <sub>⭐ 22 · Python</sub>
-- [huisezhiyin/symphlo](https://github.com/huisezhiyin/symphlo) - Local-first runtime for observable, debuggable AI-agent workflows with slidable autonomy and multi-agent/tool orchestration. <sub>⭐ 22 · Python</sub>
-- [maranone/MemoryLLM](https://github.com/maranone/MemoryLLM) - A conversational AI system using Ollama with persistent memory capabilities. Features hybrid context management (sliding window + vector database), async memory extraction, and dynamic tone matching. <sub>⭐ 22 · Python</sub>
-- [GeoDS/GeoAIHandbook](https://github.com/GeoDS/GeoAIHandbook) - Chapter Slides for Handbook of Geospatial Artificial Intelligence <sub>⭐ 21</sub>
-- [andreworia/claude-powerpoint-skills](https://github.com/andreworia/claude-powerpoint-skills) - 12 Claude skills for building board-ready PowerPoint decks: storyline, action titles, chart selection and partner-grade review. Built by Oria — AI for complex professional slides. <sub>⭐ 20</sub>
-- [CandleLabAI/ComputerArchitectureForAI_Slides_DrSparshMittal](https://github.com/CandleLabAI/ComputerArchitectureForAI_Slides_DrSparshMittal) - Slides of Dr Sparsh Mittal on "Computer Architecture for AI" (aka Hardware Architecture for Deep Learning) Course <sub>⭐ 20</sub>
-- [Heron4gf/ai-slides](https://github.com/Heron4gf/ai-slides) - Create slides with AI <sub>⭐ 20 · Python</sub>
-- [t-redactyl/ai-is-having-its-moment-again](https://github.com/t-redactyl/ai-is-having-its-moment-again) - Sources and slides for my keynote: "AI is having its moment ... again" <sub>⭐ 20</sub>
-- [tertiarycourses/TGS-2021008700-AI-Vibe-Coding-for-Excel-VBA](https://github.com/tertiarycourses/TGS-2021008700-AI-Vibe-Coding-for-Excel-VBA) - WSQ courseware for AI-assisted Excel VBA: 31 labs, embedded macro-enabled workbooks, slides, Learner Guide and Lesson Plan. <sub>⭐ 20 · VBA</sub>
-- [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations. <sub>⭐ 20 · TypeScript</sub>
-- [victor-explore/Machine-Learning-Notes-IISC-Banglore](https://github.com/victor-explore/Machine-Learning-Notes-IISC-Banglore) - Notes of PRNN course taught at IISC as part of MTech AI curriculum <sub>⭐ 20</sub>
-- [AISDLC/curriculum](https://github.com/AISDLC/curriculum) - Open-Source AI Governance Frameworks & Compliance SOPs for responsible AI development, risk mitigation, and ethical oversight. Ensuring trust, transparency, and accountability in AI systems. <sub>⭐ 19 · HTML</sub>
-- [atharva9167j/preso](https://github.com/atharva9167j/preso) - Preso is a high-fidelity, AI-driven presentation platform that allows users to transform simple prompts, raw text, or complex documents into stunning, production-ready slide decks in seconds. Built… <sub>⭐ 19 · TypeScript</sub>
-- [hanlulong/econ-slides-skill](https://github.com/hanlulong/econ-slides-skill) - Turn an economics paper into a seminar-ready Beamer talk with a timed speaker script — conference, job-market and discussant slides. Agent Skill for Claude Code & Codex. <sub>⭐ 19 · TeX</sub>
-- [jcatanza/Fastai-A-Code-First-Introduction-To-Natural-Language-Processing-TWiML-Study-Group](https://github.com/jcatanza/Fastai-A-Code-First-Introduction-To-Natural-Language-Processing-TWiML-Study-Group) - For the TWiML NLP Study Group. We review the fast.ai course "A Code-First Introduction to Natural Language Processing", created by Rachel Thomas, of The Data Institute / University of San Francisco.… <sub>⭐ 19 · Jupyter Notebook</sub>
-- [LRriver/AIPPT](https://github.com/LRriver/AIPPT) - Open-source AI PPT workbench featuring controllable end-to-end generation, per-slide editing, and editable PPTX export. <sub>⭐ 19 · Python</sub>
-- [piaic-official/AI-Q1-learning-resources](https://github.com/piaic-official/AI-Q1-learning-resources) - Learning resources for AI Q1 students. includes slides, training material, sample codes, practice assignments etc. <sub>⭐ 19</sub>
-- [smelukov/WeightRoom](https://github.com/smelukov/WeightRoom) - Estimate RAM, storage and token throughput for running LLMs locally or in the cloud. Supports all major architectures (Standard GQA, Sliding Window, MLA, Linear+Full), HuggingFace import, compare… <sub>⭐ 19 · TypeScript</sub>
-- [ysskrishna/ai-ppt-slide-generator](https://github.com/ysskrishna/ai-ppt-slide-generator) - AI-powered FastAPI backend to generate and customize PowerPoint (PPTX) presentations using Google Gemini. Supports custom layouts, fonts, colors and programmatic downloads. <sub>⭐ 19 · Python</sub>
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI将文档或主题变成真实的,本土的PowerPoint甲板——带有本土形状,过渡和动画,数据备份图表和按需表格,语音说明的音频解说,以及. <sub>⭐ 57.4k · Python</sub>
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - 生成抛光的 HTML 幻灯片甲板的AI-agent Skill:编辑杂志和瑞士版面,图像提示,社交封面,以及WebGL/低功率演示运行时间. <sub>⭐ 27.2k · HTML</sub>
+- [dream-num/univer](https://github.com/dream-num/univer) - 办公室对AI代理的利用——电子表格、文档、幻灯片、帆布、关系表和PDF在一次运行中。 <sub>⭐ 22.3k · TypeScript</sub>
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - 这个开源课程通过现实世界,跨语言实例在.NET,Java,TypeScript,JavaScript,Rust和Python中引入了模型背景协议(MCP)的基本要素. 设计. <sub>⭐ 17.4k · Jupyter Notebook</sub>
+- [presenton/presenton](https://github.com/presenton/presenton) - 开源AI演示文稿生成器和API(Gamma, Canva, Beautiful AI, Decktopus, Speaments AI 替代) 互联网档案馆的存檔,存档日期2013-09-21. <sub>⭐ 10.9k · TypeScript</sub>
+- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - 一种AI代理技能,从多个视觉主题生成浏览器编译演示文稿,可导出到HTML,PDF和PPTX. <sub>⭐ 9.1k · JavaScript</sub>
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - 自由,开源的AI Office套件: Docs, Sheets,幻灯片,PDF,Markdown和HTML编辑器,内置AI代理,外加genoffice CLI和代理技能,这样Claude Code,Codex和Cursor就可以创建和. <sub>⭐ 8.4k · TypeScript</sub>
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - 开源的桌面级AI代理,可以完成真正的工作——数据分析,幻灯片,文件,视频和网络研究. 建在OpenClaw上;运行工具在您真正的桌面上,并从您的手机中获取命令... <sub>⭐ 6.1k · TypeScript</sub>
+- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 学术组合可以促进引用。 AI 生成页面, 您拥有 Markdown 。 BibTeX 自动导入、 Jupyter 、 LaTeX 、 幻灯片、 视觉块编辑器 —— 永远可以免费主机 。 @ @ info, AI , Markdown ^ <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - 一个最强的NotebookLM幻灯片的全集, 提示来自真正创意的地下。 您为 AI Powerpoint 提供的资源 : P <sub>⭐ 4.7k</sub>
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 控制 Gmail, Google 日历, Docs, 工作表, 幻灯片, 聊天, 形式, 任务, 搜索和驱动 与 AI - 全面的 Google 工作空间 MCP 服务器和 CLI 工具 <sub>⭐ 3.3k · Python</sub>
+- [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - AllWEONE 开源 AI 演示生成器 Gamma 替代程序。 在分钟内创建具有自定义主题和 AI 生成内容的专业幻灯片 。 <sub>⭐ 3.0k · TypeScript</sub>
+- [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) - 将纸张/文本/专题转换成可编辑的研究数字、技术路线图和演示幻灯片。 <sub>⭐ 2.8k · Python</sub>
+- [Machine-Learning-Tokyo/AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - 开放深层学习和强化学习讲座,来自斯坦福,麻省理工学院,UC伯克利大学等顶级大学. <sub>⭐ 2.6k</sub>
+- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - 描述一下你需要什么,一个演示、课程或故事, 让人工智能为您建立干净,美丽的 HTML 幻灯片。本地第一。工作离线,为你工作。 <sub>⭐ 2.1k · TypeScript</sub>
+- [Anil-matcha/ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) - 自由开放源代码课程,用于以基因AI形象,视频和音频赚钱——面向创作者和机构. <sub>⭐ 2.1k</sub>
+- [robbertliu/deeplearning.ai-andrewNG](https://github.com/robbertliu/deeplearning.ai-andrewNG) - 由Andrew Ng所著, 所有幻灯片和笔记本+数据+解决方案及视频链接 <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [chenryn/aiops-handbook](https://github.com/chenryn/aiops-handbook) - 收集幻灯片、寄存器、关于AIOps的文件 <sub>⭐ 1.6k</sub>
+- [ai-builders-foundation/ai-builders-curriculum](https://github.com/ai-builders-foundation/ai-builders-curriculum) - 开放的,供应商中立的课程和hackathon启动器包,用于学习建立全存储的AI应用程序端到端. MIT许可. AI构建者基金会的一个项目(501c3). <sub>⭐ 1.4k · TypeScript</sub>
+- [tonyqinatcmu/SlideBot-AI](https://github.com/tonyqinatcmu/SlideBot-AI) - 幻灯片Bot AI - AI- Powerd 演示文稿生成器 <sub>⭐ 1.2k · JavaScript</sub>
+- [AgenticAiLabs/Ai-Engineering-Roadmap](https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap) - 成为自学的AI工程师之路——以OSSU为模式的全方位开放源代码课程. <sub>⭐ 1.2k</sub>
+- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex 是首个用于文档、幻灯片和电子表格的 Al-Native VibeOfficing 平台 <sub>⭐ 1.1k · Go</sub>
+- [nexu-io/codex-slides](https://github.com/nexu-io/codex-slides) - 开源AI幻灯片工作室在Codex内部:图像内置甲板,每张幻灯片都有一个完整的视觉画布. 10+高品质的幻灯片在~4–5分钟内——快速模式使每个页面并行. 观察整个... <sub>⭐ 923 · TypeScript</sub>
+- [amanjeetsahu/Natural-Language-Processing-Specialization](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization) - 内容包括我的课程、任务和自然语言处理幻灯片 <sub>⭐ 860 · Jupyter Notebook</sub>
+- [ai-ppt-template/free-ppt-template](https://github.com/ai-ppt-template/free-ppt-template) - 免费AI PPT模板——4000+AI生成的任何甲板的演示文稿模板. Works with PowerPoint,Google幻灯片,基调,LibreOffice Impress,WPS Office等. <sub>⭐ 757</sub>
+- [ItsssssJack/power-design](https://github.com/ItsssssJack/power-design) - Claude的幻灯技巧看起来不像AI制作的,品牌DNA×20编译设计原理. <sub>⭐ 705</sub>
+- [csinva/csinva.github.io](https://github.com/csinva/csinva.github.io) - 影片、纸条、课前笔记、博客文章 <sub>⭐ 622 · HTML</sub>
+- [Sayhi-bzb/CharDesk](https://github.com/Sayhi-bzb/CharDesk) - 用于人类和AI的Unicode画布。绘制图表、界面和幻灯片作为可编辑文本。 <sub>⭐ 547 · TypeScript</sub>
+- [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) - 将论文、代码和文件转换成可演示的,在Codex/Claude代码中可以本土编辑的PPTX。原生图表和方程式,演讲笔记,点击构建动画,以及独立评论家... <sub>⭐ 536 · Python</sub>
+- [iusztinpaul/designing-real-world-ai-agents-workshop](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) - 手动工作坊:从零开始构建多代理AI系统——深层研究代理+写入工作流作为MCP服务器服务. 包括代码,幻灯片和视频 <sub>⭐ 511 · Python</sub>
+- [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) - AI- powered Instagram 旋转木马构建器。 与 Claude 聊天以设计幻灯片; 在精确的 Instagram 维度导出为 PNG。 Type / start in Claude Code to bootstrap 。 <sub>⭐ 473 · TypeScript</sub>
+- [otahina/PowerPoint-Generator-Python-Project](https://github.com/otahina/PowerPoint-Generator-Python-Project) - 发现 GPT- 3.5 涡轮在演示文稿创建中的功率! 这个网络应用程序可以不费力地生成吸引PowerPoint 演示文稿。 告别从头开始的斗争... <sub>⭐ 407 · Python</sub>
+- [computing-intelligence/AI_courses_jupyters_and_slides](https://github.com/computing-intelligence/AI_courses_jupyters_and_slides) - AI/NLP/文本挖掘课程的Jupyter笔记本和幻灯片(2018-2021) <sub>⭐ 402 · Jupyter Notebook</sub>
+- [microsoft/mastering-github-copilot-for-dotnet-csharp-developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) - 通过此课程为 C#/. NET 开发的 GitHub 硕士副驾驶! 学习 AI 驱动的配对编程, 优化您的工作流程, 并写入更干净,更快的代码 。 <sub>⭐ 389 · C#</sub>
+- [lukalabs/replika-research](https://github.com/lukalabs/replika-research) - Replika.ai 研究论文、海报、幻灯片和数据集 <sub>⭐ 378 · Jupyter Notebook</sub>
+- [barun-saha/slide-deck-ai](https://github.com/barun-saha/slide-deck-ai) - 与AI共同创建 PowerPoint 幻灯片甲板 <sub>⭐ 377 · Python</sub>
+- [aaryansamanta/advanced-ai-curriculum](https://github.com/aaryansamanta/advanced-ai-curriculum) - 来自AI & Technology,Data Sciences,AI Internship,机器学习和AI Humanities荣誉的封顶石项目组合. CNN肺炎在胸部X光(>90%精度)检测,保健EDA... <sub>⭐ 333 · Jupyter Notebook</sub>
+- [Justineo/working-with-ai](https://github.com/Justineo/working-with-ai) - 与AI合作 - 演示文稿幻灯片 <sub>⭐ 323 · HTML</sub>
+- [zorost/AI-Engineering-Lab](https://github.com/zorost/AI-Engineering-Lab) - 免费的,自定节奏的24周AI工程课程:Python,机器学习,LLMS,RAG,微调,代理和MCP,Azure and Vertex和Bedrock,以及Databricks. 43本可操作笔记本,1本连续... <sub>⭐ 313 · Jupyter Notebook</sub>
+- [ai-builders/curriculum](https://github.com/ai-builders/curriculum) - 人工智能构建者8周课程 <sub>⭐ 291 · Jupyter Notebook</sub>
+- [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - 滑动甲板、编码练习和快速参考,用于学习JAX AI Stack <sub>⭐ 286 · Jupyter Notebook</sub>
+- [compiiile/compiiile](https://github.com/compiiile/compiiile) - 最方便的渲染和部署包含标记下文件的文件夹的方法。 预览和搜索标记下文件从未那么容易。 您可以选择“ 名称” 和“ obsidian ” 。 无需... <sub>⭐ 276 · Vue</sub>
+- [NlptechProduct/Android-Keyboard](https://github.com/NlptechProduct/Android-Keyboard) - Android keyboard with 180+字典. 支持刷新输入(滑动输入),Emoji键盘,AI预测,词典下载,以及键盘主题. <sub>⭐ 225 · Java</sub>
+- [LangChat/langchat-slides](https://github.com/LangChat/langchat-slides) - $HuVue3 CHALAI PPTESTI, LangChat 幻灯片 - 下Gen AI 幻灯片生成器 <sub>⭐ 218 · Vue</sub>
+- [piyushpathak03/Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) - 建议系统 这是一个关于使用机器学习和深层学习技术来构建建议System理论的研讨会: ML & DL 配制, President vs. Ranking, Simililary... <sub>⭐ 218 · Jupyter Notebook</sub>
+- [FranciscoMoretti/carousel-generator](https://github.com/FranciscoMoretti/carousel-generator) - LinkedIn 的人工智能旋转木马制造器 <sub>⭐ 213 · TypeScript</sub>
+- [llSourcell/AI_For_Business_Curriculum](https://github.com/llSourcell/AI_For_Business_Curriculum) - 这是由Siraj Raval在Youtube上举办的“AI为商业”课程的课程 <sub>⭐ 190</sub>
+- [jhk0530/showmaker](https://github.com/jhk0530/showmaker) - 下标为幻灯片 <sub>⭐ 188 · Rust</sub>
+- [musikalkemist/generating-sound-with-neural-networks](https://github.com/musikalkemist/generating-sound-with-neural-networks) - AI Youtube频道的"Generating Sound with Neural Network"系列的代码和幻灯片. <sub>⭐ 182 · Python</sub>
+- [Intro-Course-AI-ML/LessonMaterials](https://github.com/Intro-Course-AI-ML/LessonMaterials) - AI/ML入门课程的开放源代码课程和课程 <sub>⭐ 178 · Jupyter Notebook</sub>
+- [iusztinpaul/ai-research-os-workshop](https://github.com/iusztinpaul/ai-research-os-workshop) - 如何将你的第二脑变成一个活的研究记忆,由你的特工们维护。 <sub>⭐ 178 · Python</sub>
+- [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) - 学生LLM Wiki — AI编译的大学生知识库. 放下课程幻灯片,获得一个持久的互联维基. 费曼评论,考试准备,信心衰减,跨课程连接...... <sub>⭐ 176</sub>
+- [solid-shuwen/shuttleslide](https://github.com/solid-shuwen/shuttleslide) - Python工具包用于PowerPoint QQ HTML,为AI所建. 圆通忠义保留了每个编辑循环的格式——理想的RAG摄入,LLM代理,以及AI辅助的幻灯片编辑. <sub>⭐ 175 · HTML</sub>
+- [jamesrochabrun/Easel](https://github.com/jamesrochabrun/Easel) - Easel是用于AI辅助产品设计和前端迭代的Codex和Claude macOS工作空间,它带来一个本地项目库,设计-系统设置,Codex聊天,一个带有... <sub>⭐ 167 · Swift</sub>
+- [think41/extrasuite](https://github.com/think41/extrasuite) - 用于编辑 Google 工作空间文件( Sheets, Docs, 幻灯片, 表格) 的 AI 代理服务器的托肯高效拉动/编辑/推动工作流程 <sub>⭐ 166 · Python</sub>
+- [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) - 免费演示幻灯片设计. md 您可以粘贴到ChatGPT,克劳德或任何你的AI工具中. <sub>⭐ 164</sub>
+- [wengzige/html-deck-editor](https://github.com/wengzige/html-deck-editor) - Anchor Deck: 将 AI 生成的幻灯片转换成可编辑的 HTML 甲板的本地首个 HTML 演示文稿编辑器 <sub>⭐ 162 · JavaScript</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C战略要闻 2019年9月 本报是为2019年9月W3C咨询委员会会议编写的(W3C成员链接),参见所附的W3C概况介绍——2019年9月. <sub>⭐ 160</sub>
+- [edgenuitybot/exodusbot](https://github.com/edgenuitybot/exodusbot) - Exodus / The # 1 Edgenuity Bot for Quizes, Tests, and Exams. 包括自动回答,自动延迟,在AI Answers中构建,自动提交,EdgeEX支持和 More! / 关于:Exodus是一个在线课程工具... <sub>⭐ 156 · JavaScript</sub>
+- [Lancelot-Xie/img2pptx](https://github.com/Lancelot-Xie/img2pptx) - 将AI生成的图表和光栅参考书变为可编辑,模块化,经审计的PPTX幻灯片. <sub>⭐ 155</sub>
+- [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) - 世界级的AI演示生成器 26种风格 18张图表 以 Linear/Anthropic/Stripe/Apple/NYT为基准——一个克劳德代码技能,将一句变为设计-机构质量的甲板...... <sub>⭐ 154 · Python</sub>
+- [ningzimu/awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt) - AI PPT,PowerPoint自动化,PPTX编辑,以及幻灯片工作流程工具的目录. <sub>⭐ 153 · Python</sub>
+- [code-on-sunday/slide-deck-generator](https://github.com/code-on-sunday/slide-deck-generator) - 使用 React + Vite + Framer Motion 创建生产准备的基于浏览器的演示幻灯片甲板的编码代理机的AI技能 <sub>⭐ 150</sub>
+- [gmortuza/Deep-Learning-Specialization](https://github.com/gmortuza/Deep-Learning-Specialization) - 这个存储库包含编程任务和从深层学习提供的课程中的深层学习课程幻灯片。 <sub>⭐ 150 · Jupyter Notebook</sub>
+- [MarcToussaint/AI-lectures](https://github.com/MarcToussaint/AI-lectures) - AI,机器人学,机器学习,数学,优化的讲座笔记,幻灯片和脚本(LaTeX来源) <sub>⭐ 146 · Jupyter Notebook</sub>
+- [RiazML/math-for-llms](https://github.com/RiazML/math-for-llms) - 完成AI/ML/LLM的数学课程 -- -- 从基金会到研究领域 <sub>⭐ 146 · Jupyter Notebook</sub>
+- [victor-explore/AI-Assignments-IISC-Banglore](https://github.com/victor-explore/AI-Assignments-IISC-Banglore) - 作为MTech AI课程的一部分,在国际科学学院教授的课程 <sub>⭐ 146</sub>
+- [composio-community/open-gamma](https://github.com/composio-community/open-gamma) - 一个在 google 幻灯片中生成幻灯片的 AI 代理软件的开源执行 <sub>⭐ 145 · TypeScript</sub>
+- [jtangen/classbuild](https://github.com/jtangen/classbuild) - 以循证学习科学为基础的AI动力课程生成器 <sub>⭐ 141 · TypeScript</sub>
+- [manpoai/AgentOfficeSuite](https://github.com/manpoai/AgentOfficeSuite) - AOSE — 为代理协作构建的办公套件, Docs, tables, 幻灯片, 流程图, 帆布和视频, 都可由人类和AI代理编辑 。 <sub>⭐ 140 · TypeScript</sub>
+- [Kuneosu/make-slide](https://github.com/Kuneosu/make-slide) - 生成独立 HTML 幻灯片甲板的通用 AI 技能 <sub>⭐ 132 · HTML</sub>
+- [victor-explore/AI-Q-Papers-IISC-Banglore](https://github.com/victor-explore/AI-Q-Papers-IISC-Banglore) - 作为MTech AI课程的一部分,在国际科学研究院教授的课程问题文件 <sub>⭐ 119</sub>
+- [Gentleman-Programming/from-chat-to-cognitive-system](https://github.com/Gentleman-Programming/from-chat-to-cognitive-system) - De Chat a Sistema Cognitivo——关于用SDD管弦法构建AI代理系统,Engram持久记忆和模块技能架构的40个滑坡演示. Gentleman Kanagawa Blur主题 <sub>⭐ 108 · HTML</sub>
+- [rojim666/SztuCode](https://github.com/rojim666/SztuCode) - 一个实验性游乐场,面向大学的全源办公AI:代码,文件,电子表格,幻灯片,浏览器 — — 都属于AI的工作空间. 本地第一,事件驱动,可审计,有... <sub>⭐ 107 · Python</sub>
+- [speechlab0210/video-production-skill](https://github.com/speechlab0210/video-production-skill) - QQAI频道背后的完整视频制作技巧——让AI代理自动制作叙事教育视频(滑板+TTS+ASR校验+字幕). <sub>⭐ 104 · JavaScript</sub>
+- [luonghaianh1208/2anh-studio](https://github.com/luonghaianh1208/2anh-studio) - 2Anh工作室-三台 <sub>⭐ 100 · Python</sub>
+- [SlideSpeak/slidespeak-backend](https://github.com/SlideSpeak/slidespeak-backend) - SlideSpeak 的后端。 用 AI 创建 PowerPoints 。 获取摘要、 提问、 创建演示文稿等 。 <sub>⭐ 96 · Python</sub>
+- [StarryKit/starrykit-plugin](https://github.com/StarryKit/starrykit-plugin) - 免费的AI演示制作器和免费的AI海报制作器,用于Codex,Claude Code,cursor,以及更多-与StarryKit一起创建可编辑的幻灯片,甲板,海报,以及社交图形. <sub>⭐ 95 · JavaScript</sub>
+- [ZeroLu/Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) - 开源AI图像生成器技能和Ai视频生成器技能,用于Codex,Claude Code,OpenClaw,cursor等. 由CyberBara API提供纳米香蕉,Sora 2,种子和Kling支持的动力. . <sub>⭐ 92 · MDX</sub>
+- [grapeot/nbp_slides](https://github.com/grapeot/nbp_slides) - AI生成的演示文稿幻灯片. 基于叙事的演示文稿的方法和模板 <sub>⭐ 89 · Python</sub>
+- [Leo1998-Lu/ai-paper2slide-skill](https://github.com/Leo1998-Lu/ai-paper2slide-skill) - Conference-Grade Paper-to-Slide Crowth for AI Research. 互联网档案馆的存檔,存档日期2013-09-21. AI研究论文集 互联网档案馆的存檔,存档日期2013-10-02. <sub>⭐ 87 · Python</sub>
+- [lesteroliver911/ai-pdf-ppt-generator-openai](https://github.com/lesteroliver911/ai-pdf-ppt-generator-openai) - 一个有趣的项目,我用AI的力量来分析一个PDF. AI根据用户的指令和选择提取关键信息(参见UI演示),然后用户得到第二个屏幕... <sub>⭐ 86 · Python</sub>
+- [ssocean/PPT_Pilot](https://github.com/ssocean/PPT_Pilot) - (PPT Agent)一个AI代理,可以实时呈现,回答问题,并控制幻灯片. <sub>⭐ 86 · HTML</sub>
+- [mshuedu/microsoft-ai-curriculum](https://github.com/mshuedu/microsoft-ai-curriculum) - Microsoft AI 匈牙利课程 <sub>⭐ 83 · Jupyter Notebook</sub>
+- [Albonire/notebooklm-watermark-remover](https://github.com/Albonire/notebooklm-watermark-remover) - 一个简单的 pdf, png, pptx 文件的水标记清除器, 使用笔记本生成 <sub>⭐ 80 · Python</sub>
+- [marswaveai/skills](https://github.com/marswaveai/skills) - 来自 ListenHub.ai & ColaOS 的技能 <sub>⭐ 79 · HTML</sub>
+- [Upload-Post/viraloop](https://github.com/Upload-Post/viraloop) - OpenClaw AI 代理技能,用于自动化的 TikTok 和 Instagram 旋转木马生长。通过任何网站 URL 来分析品牌、竞争者、颜色、值命题。生成6个视觉连贯的幻灯片和... <sub>⭐ 78 · JavaScript</sub>
+- [gongnyang/deck-factory](https://github.com/gongnyang/deck-factory) - 一行意图 — 一个演示级, 暗版 HTML 甲板. A Claude Code 技能. <sub>⭐ 77 · CSS</sub>
+- [hsuliang/generate-ai-presentations-skill](https://github.com/hsuliang/generate-ai-presentations-skill) - 用于创建16:9演示图像,PPTX甲板,图像提示和幻灯片规划表的 Codex Skill. <sub>⭐ 77</sub>
+- [BioMikeUkr/nlp-puzzles](https://github.com/BioMikeUkr/nlp-puzzles) - 面向已经了解基本Python,ML并希望从嵌入到生产API的AI/ML工程制作的学员和初级学员的实践NLP/ML课程. <sub>⭐ 73 · Jupyter Notebook</sub>
+- [guanyuchery-rgb/AI-Builder-Python100](https://github.com/guanyuchery-rgb/AI-Builder-Python100) - 用于AI、数据、量子、LLM和代理项目的开源百日Python课程 <sub>⭐ 72 · Python</sub>
+- [pytholic/Machine-Learning-Curriculum](https://github.com/pytholic/Machine-Learning-Curriculum) - 用于机器学习的简明而全面的A至Z课程. <sub>⭐ 72</sub>
+- [vstorm-co/summarization-pydantic-ai](https://github.com/vstorm-co/summarization-pydantic-ai) - 用于 Pydantic AI 代理的上下文管理处理器,提供 LLM 动力的summarization 或者零成本的滑动窗口裁剪处理,以处理无限/长运行的对话而不会出现上下文溢出. . <sub>⭐ 72 · Python</sub>
+- [nomie7/nano-banana-slides-prompter](https://github.com/nomie7/nano-banana-slides-prompter) - 生成 Nano Banana Pro 幻灯片的优化 AI 提示,其中包含动态字符生成、50+ 内容感知幻灯片模板以及电影视觉风格 <sub>⭐ 71 · TypeScript</sub>
+- [saadhaxxan/Learn_Machine_Learning_in_5_Months](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months) - 这是从头到尾学习机器精选的课程 <sub>⭐ 70</sub>
+- [rsarver/stella-decks](https://github.com/rsarver/stella-decks) - HTML 滑动甲板系统,带有设计系统,查看器,和PDF导出. AI-native通过Claude Code. <sub>⭐ 69 · CSS</sub>
+- [SagarBiswas-MultiHAT/penetration-testing-roadmap](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap) - 一个结构化的60周渗透测试课程,包含500+免费TryHackMe实验室,OWASP Top 10深度潜水,工具掌握指南和认证路线图. 三条从零到... <sub>⭐ 68</sub>
+- [pramodkoujalagi/Automated-Course-Content-Generator](https://github.com/pramodkoujalagi/Automated-Course-Content-Generator) - 自动课程内容生成器(ACCG)是面向中小企业,内容创建者,以及教育者的AI驱动的简化应用程序. Inform Course Name, Auditence level, Standardy, and Credits to get a 动态课程. <sub>⭐ 66 · Python</sub>
+- [llSourcell/AI_Humanities](https://github.com/llSourcell/AI_Humanities) - 这是Siraj Raval在Youtube上为AI人文课程。 <sub>⭐ 64</sub>
+- [aiagentslibrary/awesome-gemini-spark-skills](https://github.com/aiagentslibrary/awesome-gemini-spark-skills) - 免费双子座 Spark技能库,具有可重复使用的Google Workspace AI代理工作流程,用于Gmail,Calendar,Drive,Docs,Speeds,幻灯片,YouTube,Maps和商务自动化. <sub>⭐ 61</sub>
+- [seshakiran/learn-ai-in-12-weeks](https://github.com/seshakiran/learn-ai-in-12-weeks) - 使用这一课程在12周内学习AI <sub>⭐ 60</sub>
+- [grapeot/cursor_slides](https://github.com/grapeot/cursor_slides) - AI 友好模板,使光标能够有效写入幻灯片 <sub>⭐ 57 · JavaScript</sub>
+- [AngryAnt/PracticalAIinUnity](https://github.com/AngryAnt/PracticalAIinUnity) - 2014年Unite Seattle的"团结实用AI"演讲的幻灯片和示例. 演示录制于https://www.youtube.com/watch?v=hhByGZZbcOc <sub>⭐ 56 · C#</sub>
+- [ventas319/microsoft-ai-livestream-slidevault](https://github.com/ventas319/microsoft-ai-livestream-slidevault) - Microsoft AI 训练员 2026 LiveStream 幻灯片和演示底片指南 <sub>⭐ 56 · HTML</sub>
+- [breakstageaxe61/genspark-claw](https://github.com/breakstageaxe61/genspark-claw) - Genspark Claw,OpenClaw & Hermes代理商的社区技能包和CLI——5种制作准备的SKILL.md技能(深度研究,报告,幻灯片,浏览器自动化,AI呼叫预发),零依赖节点(Node.js... <sub>⭐ 55 · JavaScript</sub>
+- [AIRMEC/im4MEC](https://github.com/AIRMEC/im4MEC) - 论文"解释性深层学习模型"中描述的im4MEC模型的代码,用于预测血氧素和含eosin的全滑产生的内环癌分子分类. . <sub>⭐ 54 · Python</sub>
+- [codesstar/next-slide](https://github.com/codesstar/next-slide) - QQ幻灯片,PPT — AI- power HTML演示文稿. 26+风格,零依赖性,双语. Works with Claude Code & OpenClaw. <sub>⭐ 54 · HTML</sub>
+- [bhataasim1/ai-course-generator](https://github.com/bhataasim1/ai-course-generator) - AI Course Generator是一个平台,用户可以方便地使用人工智能创建和生成教育课程. 只需输入诸如名称,持续时间,数量等课程细节. <sub>⭐ 51 · TypeScript</sub>
+- [PlutoLei/paperbanana-skill](https://github.com/PlutoLei/paperbanana-skill) - Claude Code和Codex中的学术人物和可编辑的幻灯片甲板代理技能. <sub>⭐ 51 · TypeScript</sub>
+- [brycewang-stanford/many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) - 每个AI滑板技能都值得了解,在一页上——HTML和本地-PPTX的路线,比较实际决定选择的是什么而不是明星数。双语、自动更新。 <sub>⭐ 50 · Python</sub>
+- [hanhuark/machine-learning-for-engineers](https://github.com/hanhuark/machine-learning-for-engineers) - 为工程师开放AI/ML和AI-识字课程:辅导、任务、项目和经核实的物理系统工作流程。 <sub>⭐ 50 · Jupyter Notebook</sub>
+- [seacen/deckify](https://github.com/seacen/deckify) - URL 到 HTML 幻灯片设计系统, 能真正为真实的工作环境提供 AI_ 内在幻灯片 <sub>⭐ 49 · HTML</sub>
+- [arifszn/slide-wright](https://github.com/arifszn/slide-wright) - AI代理技能生成美丽,独特的滑动甲板,并带有启示.js - 每个提示的新设计. <sub>⭐ 48</sub>
+- [ethanolivertroy/unpromptedcon-2026-slides](https://github.com/ethanolivertroy/unpromptedcon-2026-slides) - 社区收集来自(未)2026年AI安全从业人员会议的所有可用幻灯片甲板(3月3日至4日,旧金山) <sub>⭐ 48</sub>
+- [ai-twinkle/LLM-Book-Club](https://github.com/ai-twinkle/LLM-Book-Club) - Twinkle AI晚夜研究会官方寄存器. Featatures hands-On Ligh Language Models上的Jupyter笔记本,幻灯片和我们书社的代码 <sub>⭐ 47 · Jupyter Notebook</sub>
+- [AIRMEC/HECTOR](https://github.com/AIRMEC/HECTOR) - 多模式深层学习,预测数字化H&E肿瘤滑行和肿瘤阶段的远期无复发概率. <sub>⭐ 45 · Python</sub>
+- [GSA/MasteringAgenticAISystems_supplementals](https://github.com/GSA/MasteringAgenticAISystems_supplementals) - NVIDIA NCP-AAI代理AI认证(亦为AWS AIP-C01,Databricks GenAI Eng Associate,Google Cloud PMLE,Microsoft AI-102)的公域研究指南——实验室,证书映射,幻灯片...... <sub>⭐ 43 · Python</sub>
+- [mehdimo/GenSlide](https://github.com/mehdimo/GenSlide) - 使用 LangGraph 和 GPT-4o 的代理 AI PowerPoint 幻灯片生成 <sub>⭐ 43 · Python</sub>
+- [wuhaoyupku/html-mender](https://github.com/wuhaoyupku/html-mender) - HTML 幻灯片渲染器帮助您视觉编辑 HTML 幻灯片甲板和 AI 生成的演示文稿页面. <sub>⭐ 43 · JavaScript</sub>
+- [hiteshsuthar01/OK-](https://github.com/hiteshsuthar01/OK-) - HTML p标签 (函数( i, s, o, g, r, a, m){i ('GoogleAnalystics Object')=r;i(r)=i(r)/功能( ){(i(r.q/))i(r.q/))},i(r).l=1*新日期();a=s.createElement(o)... <sub>⭐ 41</sub>
+- [miccaiif/TOP](https://github.com/miccaiif/TOP) - (NeurIPS 2023). AI语言病理学家的崛起:探索双层快速学习 少拍弱监督的全幻灯片图像分类 <sub>⭐ 41 · Python</sub>
+- [shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization](https://github.com/shantanu1109/Coursera-DeepLearning.AI-GANs-Specialization) - 本存储库包含基因对抗网络(GANs)任务解决方案,专业来自深奥学习. ai关于Coursera的教学,由Sharon Zhou, Eda Zhou, Eric Zelikman编写 . <sub>⭐ 41 · Jupyter Notebook</sub>
+- [touying-typ/seaslides](https://github.com/touying-typ/seaslides) - Typst 和 Touying 演示幻灯片生成的AI 技能 <sub>⭐ 41 · Typst</sub>
+- [proyecto26/slides-ai-plugin](https://github.com/proyecto26/slides-ai-plugin) - 将 Claude, OpenClaw 等的 AI 插件幻灯片化为完整演示文稿—— 动画 HTML 或者可编辑的 PowerPoint —— 从一个提示 <sub>⭐ 40 · TypeScript</sub>
+- [gsurma/sliding_puzzle](https://github.com/gsurma/sliding_puzzle) - 与Literative Deepning A * AI Solver一起快速执行滑动谜游戏. <sub>⭐ 38 · Swift</sub>
+- [shettyvarshaa/PRINCIPLES-OF-AI](https://github.com/shettyvarshaa/PRINCIPLES-OF-AI) - 课程中AI概念的原则 <sub>⭐ 38 · Python</sub>
+- [GotAudio/AudioBookSlides](https://github.com/GotAudio/AudioBookSlides) - 创建 AI 从音频书生成的视频幻灯片放映。 Audio Book 幻灯片 <sub>⭐ 37 · Python</sub>
+- [co-r-e/amaroad](https://github.com/co-r-e/amaroad) - 开发者的 AI 幻灯片创建环境 <sub>⭐ 36 · TypeScript</sub>
+- [theodore-zxd/journalClub](https://github.com/theodore-zxd/journalClub) - iMorpheus.ai通过webex主持每周一次的技术期刊讨论活动,这里是讨论过的所有论文和幻灯片. <sub>⭐ 36</sub>
+- [vincenzo-afk/SlideForge](https://github.com/vincenzo-afk/SlideForge) - AI-Powered演示文稿生成器——纯HTML+CSS+vanilla JS,零框架 <sub>⭐ 36 · JavaScript</sub>
+- [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) - 50000+ 独有的 HTML 演示设计, 0 依赖性, Anti-AI- slop. A Claude Code skills. <sub>⭐ 35 · Python</sub>
+- [tristan-mcinnis/pptx-from-layouts-skill](https://github.com/tristan-mcinnis/pptx-from-layouts-skill) - Claude 代码技能,用于使用模板幻灯片主版式从下调生成 PowerPoint 甲板 <sub>⭐ 35 · Python</sub>
+- [victor-explore/AI-Learning-Roadmap](https://github.com/victor-explore/AI-Learning-Roadmap) - 掌握人工智能的自由开放源码课程 <sub>⭐ 35</sub>
+- [HugoBlox/hugo-theme-markdown-slides](https://github.com/HugoBlox/hugo-theme-markdown-slides) - 来自Markdown的演示幻灯片 — LaTeX 数学, 代码突出显示, 扬声器, Git 版本控制。 AI 生成页面, 您永远拥有它们 。 @ @ info, Markdown QQ <sub>⭐ 34</sub>
+- [michaeltremeer/queensland-ai-fastai-course-resources](https://github.com/michaeltremeer/queensland-ai-fastai-course-resources) - 支持昆士兰AI和昆士兰AI Hub社区快速.ai课程的资源(包括复刻幻灯片和笔记本). <sub>⭐ 34 · Jupyter Notebook</sub>
+- [Qian-Anton/GitStudy](https://github.com/Qian-Anton/GitStudy) - 学习GitHub repos的AI动力平台——AI代码解释,先决条件提取,自动生成的问答,流畅聊天,教学幻灯片,以及20个基于浏览器的ML实验室(TensorFlow.js). <sub>⭐ 34 · JavaScript</sub>
+- [Rudra-Sankha-Sinhamahapatra/Encorp-AI](https://github.com/Rudra-Sankha-Sinhamahapatra/Encorp-AI) - 您的AI Powered演示文稿生成器. https://encorp.rudrasankha.com <sub>⭐ 34 · TypeScript</sub>
+- [moment6580/notebooklmfix](https://github.com/moment6580/notebooklmfix) - 通过 AI 生成的 Slide HD 批量幻灯片 LM <sub>⭐ 33 · TypeScript</sub>
+- [zhangrongchuan/slideleaf](https://github.com/zhangrongchuan/slideleaf) - 用于生成,编辑和协作演示工作空间的AI-内置HTML幻灯片工作室. <sub>⭐ 33 · TypeScript</sub>
+- [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) - 2slips的MCP服务器. PPT/Presentation/Slides生成的AI代理. <sub>⭐ 32 · TypeScript</sub>
+- [WeiDaiWD/Private-AI-Bootcamp-Materials](https://github.com/WeiDaiWD/Private-AI-Bootcamp-Materials) - Private AI Bootcamp由微软在Redmond,WA于2019年12月2日-4日主持,该寄存器包含了活动提供的材料,包括讲座幻灯片,演示代码等. <sub>⭐ 32</sub>
+- [himanshu-jadhav108/College_Practicals](https://github.com/himanshu-jadhav108/College_Practicals) - 收集在Python实施的AI、数据结构、数据科学、DBMS和OOP实用软件,与SPPU 2024课程保持一致。包括清晰、初学者友好的执行和. <sub>⭐ 30 · Jupyter Notebook</sub>
+- [Jack-Li-Npu/PPTMixed](https://github.com/Jack-Li-Npu/PPTMixed) - 恢复 PDF 幻灯片,使用 AI 辅助的印画和高分辨率重绘。导出到 PDF 或 PowerPoint 。 <sub>⭐ 30 · TypeScript</sub>
+- [A-Halimi/Introduction-to-AI-workshop-series](https://github.com/A-Halimi/Introduction-to-AI-workshop-series) - AI工作室系列简介 欢迎收看关于人工智能(AI)开始的综合性系列,这个寄存器专门提供材料,笔记本,幻灯片...... <sub>⭐ 29 · Jupyter Notebook</sub>
+- [eosin-platform/eosin](https://github.com/eosin-platform/eosin) - 全滑成像的开放基础设施——分布式瓦片服务,实时AI,以及现代注解工具. <sub>⭐ 29 · Svelte</sub>
+- [likaku/Mck-skill-hub](https://github.com/likaku/Mck-skill-hub) - 知识工作者在2点做甲板的专业AI技能. PPT设计,结构化交流,等等. <sub>⭐ 29</sub>
+- [RajatDandekar/build-a-world-model-from-scratch](https://github.com/RajatDandekar/build-a-world-model-from-scratch) - 从Scratch中构建一个世界模型——Vizuara AI系列讲座:幻灯片,从scratch代码,和Colab笔记本 <sub>⭐ 29 · Python</sub>
+- [sbroenne/mcp-server-powerpoint](https://github.com/sbroenne/mcp-server-powerpoint) - 通过 MCP Server 或 CLI 自动实现 Microsoft PowerPoint 真实的微软Point - 幻灯片,形状,表格,图表,SmartArt,动画,以及141个带有导出到验证的视觉检查的操作. <sub>⭐ 29 · C#</sub>
+- [JazerJu/video-miner](https://github.com/JazerJu/video-miner) - 本地首个对AI代理的长视频理解. GPU实时540x的转录,带有代码和幻灯片的章节摘要,以及搜索和阅读的MCP工具. <sub>⭐ 28 · Python</sub>
+- [YashSarang/B.E-Mumbai-University-Third-Year-AI-CMPN-IT](https://github.com/YashSarang/B.E-Mumbai-University-Third-Year-AI-CMPN-IT) - 孟买大学最新三年级课程的书籍+学习材料+任务。 <sub>⭐ 28 · Jupyter Notebook</sub>
+- [DanielSlater/PyDataLondon2016](https://github.com/DanielSlater/PyDataLondon2016) - 为PyData London 2016 上映的“在1小时(加上4天训练.)内建立一庞玩AI”课程收集实例、链接和幻灯片。 <sub>⭐ 27 · Python</sub>
+- [divyashreepathihalli/WIML_2023](https://github.com/divyashreepathihalli/WIML_2023) - ML 研讨会中用于女性的幻灯片和colab脚本: Keras: 快捷到 AI Mastery <sub>⭐ 27 · Jupyter Notebook</sub>
+- [garretthoffman/AI_Conf_2019_DL_4_NLP](https://github.com/garretthoffman/AI_Conf_2019_DL_4_NLP) - AI Conf NY关于自然语言处理深层学习方法的幻灯片和代码教程 <sub>⭐ 27 · Jupyter Notebook</sub>
+- [zeke/universe-22](https://github.com/zeke/universe-22) - GitHub University 2022的演讲幻灯片:用密码空间和复制来打造一个AI艺人. <sub>⭐ 27 · JavaScript</sub>
+- [MusaIslamFahad/python-for-ai-engineers](https://github.com/MusaIslamFahad/python-for-ai-engineers) - 一套综合实用的AI-First Python课程,配有80+交互式Jupyter笔记本,供AI工程师从核心基础到LLMs,RAG,Agents,以及生产AI系统. <sub>⭐ 26 · Jupyter Notebook</sub>
+- [musikalkemist/solidforml](https://github.com/musikalkemist/solidforml) - 在AI YouTube频道的Sound上为"SOLID原理为ML工程师"系列制作代码和幻灯片. <sub>⭐ 26 · Python</sub>
+- [MDVR9980/instagram-ai-content-agent](https://github.com/MDVR9980/instagram-ai-content-agent) - 一个自主的AI内容创建者代理Instagram,它发现了AI新闻的潮流,起草涉及多滑坡帖子,并使用NVIDIA NIM(Mistral Large 3 and...)生成光现实主义视觉. <sub>⭐ 25 · Python</sub>
+- [nooqta/ai-presentation](https://github.com/nooqta/ai-presentation) - 带有 Revaal.js 的 OpenAI 幻灯片底板生成器 <sub>⭐ 25 · HTML</sub>
+- [QuitoTactico/DnD-AI](https://github.com/QuitoTactico/DnD-AI) - EAFIT. Dungeons & Dragons 游戏生成器综合项目1课程项目 <sub>⭐ 25 · Python</sub>
+- [SlideSpeak/slide-design-skill](https://github.com/SlideSpeak/slide-design-skill) - AI 演示引擎。 描述您的甲板和外观, 它会获得一种标语样式, 并让1920x1080 HTML 幻灯片被抛光, 有真实的图表、 表格和图像。 Agent technology: npx skills add... <sub>⭐ 25 · TypeScript</sub>
+- [YinsenWANG/feishu-ppt-skill](https://github.com/YinsenWANG/feishu-ppt-skill) - AI-代理技能通过lark-cli构建 Lark (Feishu) 幻灯片:51页模板库,品牌设计标志,XML生成工作流程,以及自动版式审查. 建为代理,可重复使用... <sub>⭐ 25 · Python</sub>
+- [analystacademy/flight-check](https://github.com/analystacademy/flight-check) - 最后检查AI产生的滑板——捕捉假消息源,AI告诉,以及您在演示中不希望的其他错误. <sub>⭐ 24</sub>
+- [jonathandinu/programming-generative-ai](https://github.com/jonathandinu/programming-generative-ai) - 密码、幻灯片和我的基因AI视频课程中的例子... 把你从VAEs一路带到了PyTorch和Hugging Face的近实时稳定扩散! <sub>⭐ 24 · Jupyter Notebook</sub>
+- [philipphennig/tueaistylepack](https://github.com/philipphennig/tueaistylepack) - Tübingen AI中心的样式包,有幻灯片、本片和其他模板。 <sub>⭐ 24 · Jupyter Notebook</sub>
+- [tobyilee/course-builder](https://github.com/tobyilee/course-builder) - AI多代理机从一个使用ADDIE + Bloom分类学的话题出发,来规划,设计和制作在线课程(滑动+注释+TTS音频+测试+播放器). <sub>⭐ 24 · Python</sub>
+- [alchaincyf/huashu-slide-codex](https://github.com/alchaincyf/huashu-slide-codex) - 只使用 Codex 的 AI 视觉素材制作技能——幻灯片 + WeChat 覆盖 +bilibili/ YouTube 缩略图,由内置图像_gen(无API收费)提供动力. <sub>⭐ 23 · JavaScript</sub>
+- [girafe-ai/journal-club](https://github.com/girafe-ai/journal-club) - Girafe-ai 期刊俱乐部幻灯片和信息 <sub>⭐ 23</sub>
+- [justingrammens/OSN-2026](https://github.com/justingrammens/OSN-2026) - Spec First, Agents Second: 工程AI系统与纪律. 幻灯片和代码来自开源北2026年会议. <sub>⭐ 23 · Shell</sub>
+- [mizuirorivi/slidev-overflow-checker](https://github.com/mizuirorivi/slidev-overflow-checker) - 一个CLI工具,可以自动循环通过每个页面(滑坡)并检测溢出. <sub>⭐ 23 · TypeScript</sub>
+- [pax-k/OpenAIRT-300](https://github.com/pax-k/OpenAIRT-300) - 一个开源的JavaScript-第一替代OffSec AI-300. 社区可建设,全面操作课程用于攻击性AI安全. <sub>⭐ 23</sub>
+- [vibedojo-by-hashed/VibecodingCurriculum](https://github.com/vibedojo-by-hashed/VibecodingCurriculum) - 系统化的学习课程,促进人工智能的发展; <sub>⭐ 23 · JavaScript</sub>
+- [alex-yelisieiev/ai-presentation-generator](https://github.com/alex-yelisieiev/ai-presentation-generator) - 免费的 AI 驱动云演示文稿生成工具( 不需要 API 密钥) <sub>⭐ 22 · Python</sub>
+- [huisezhiyin/symphlo](https://github.com/huisezhiyin/symphlo) - 可观测、可调试的AI代理工作流程,具有可滑动自主性和多代理/工具协调的本地第一运行时间。 <sub>⭐ 22 · Python</sub>
+- [maranone/MemoryLLM](https://github.com/maranone/MemoryLLM) - 使用Ollama的对讲AI系统,具有持续的内存能力. 特性混合上下文管理(滑动窗口+矢量数据库),Aync内存提取,以及动态音调匹配. <sub>⭐ 22 · Python</sub>
+- [GeoDS/GeoAIHandbook](https://github.com/GeoDS/GeoAIHandbook) - 地理空间人工智能手册的章节幻灯片 <sub>⭐ 21</sub>
+- [andreworia/claude-powerpoint-skills](https://github.com/andreworia/claude-powerpoint-skills) - 12 Claude 建造机板准备的PowerPoint甲板的技能:故事线,动作标题,图表选择和合作伙伴级审查. Oria 所建——AI为复杂的专业幻灯片. <sub>⭐ 20</sub>
+- [CandleLabAI/ComputerArchitectureForAI_Slides_DrSparshMittal](https://github.com/CandleLabAI/ComputerArchitectureForAI_Slides_DrSparshMittal) - Sparsh Mittal博士关于“计算机建筑为AI”的幻灯片(高级硬件建筑为深层学习)课程 <sub>⭐ 20</sub>
+- [Heron4gf/ai-slides](https://github.com/Heron4gf/ai-slides) - 使用 AI 创建幻灯片 <sub>⭐ 20 · Python</sub>
+- [t-redactyl/ai-is-having-its-moment-again](https://github.com/t-redactyl/ai-is-having-its-moment-again) - 我主旨的源头和幻灯片: "AI再次拥有它的时刻..." <sub>⭐ 20</sub>
+- [tertiarycourses/TGS-2021008700-AI-Vibe-Coding-for-Excel-VBA](https://github.com/tertiarycourses/TGS-2021008700-AI-Vibe-Coding-for-Excel-VBA) - AI辅助的Excel VBA的WSQ课程软件:31个实验室,嵌入式宏辅助工作手册,幻灯片,学习者指南和学习计划. <sub>⭐ 20 · VBA</sub>
+- [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - 一个灵活的CLI工具,它使用Google的双子座API处理带有自定义提示的图像. 完美地用于批量处理幻灯片,照片,以及具有AI动力转换的其他图像. <sub>⭐ 20 · TypeScript</sub>
+- [victor-explore/Machine-Learning-Notes-IISC-Banglore](https://github.com/victor-explore/Machine-Learning-Notes-IISC-Banglore) - 说明作为MTech AI课程的一部分,在国际科学研究院教授的PRNN课程 <sub>⭐ 20</sub>
+- [AISDLC/curriculum](https://github.com/AISDLC/curriculum) - 开放源码AI治理框架和合规标准操作程序负责AI的开发,风险缓解和道德监督. 确保AI系统的信任,透明度和问责制. <sub>⭐ 19 · HTML</sub>
+- [atharva9167j/preso](https://github.com/atharva9167j/preso) - Preso是一个高纯度,AI驱动的演示文稿平台,允许用户将简单的提示,原始文本,或复杂的文档转换成惊人的,生产准备的滑动甲板,以秒计. built... <sub>⭐ 19 · TypeScript</sub>
+- [hanlulong/econ-slides-skill](https://github.com/hanlulong/econ-slides-skill) - 将经济学论文变成一个研讨会准备的Beamer演讲,并配有计时的演讲稿——会议、就业市场和讨论者幻灯片。Agent Skill for Claude Code & Codex. <sub>⭐ 19 · TeX</sub>
+- [jcatanza/Fastai-A-Code-First-Introduction-To-Natural-Language-Processing-TWiML-Study-Group](https://github.com/jcatanza/Fastai-A-Code-First-Introduction-To-Natural-Language-Processing-TWiML-Study-Group) - 为TWIML NLP研究组. 我们回顾由旧金山大学数据研究所Rachel Thomas创建的fast.ai课程"自然语言处理的代码-第一介绍". <sub>⭐ 19 · Jupyter Notebook</sub>
+- [LRriver/AIPPT](https://github.com/LRriver/AIPPT) - 开源AI PPT工作台,以可控端对端生成,每滑坡编辑,可编辑的PPTX导出为特色. <sub>⭐ 19 · Python</sub>
+- [piaic-official/AI-Q1-learning-resources](https://github.com/piaic-official/AI-Q1-learning-resources) - 为AI Q1学生提供的学习资源包括幻灯片,培训材料,样本代码,练习任务等. <sub>⭐ 19</sub>
+- [smelukov/WeightRoom](https://github.com/smelukov/WeightRoom) - 估计本地或云中运行 LLMS 的 RAM, 存储和令牌吞吐量。 支持所有主要架构( 标准 GQA, 滑动窗口, MLA, Linear+ Full), HuggingFace 导入, 比较... <sub>⭐ 19 · TypeScript</sub>
+- [ysskrishna/ai-ppt-slide-generator](https://github.com/ysskrishna/ai-ppt-slide-generator) - AI驱动的FastAPI后端使用Google双子座生成并自定义PowerPoint(PPTX)演示文稿,支持自定义布局,字体,颜色和程序下载. <sub>⭐ 19 · Python</sub>
 
 ## 🎥 视频课程与讲解
 
 > 生成教学视频、动画和摘要。
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL. <sub>⭐ 17.7k · TypeScript</sub>
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from YouTube , TikTok , Twitter , Instagram , Facebook , Twitch , Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then… <sub>⭐ 10.7k · TypeScript</sub>
-- [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library. <sub>⭐ 3.5k · Python</sub>
-- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages. <sub>⭐ 3.3k · Python</sub>
-- [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) - Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time… <sub>⭐ 2.6k · TypeScript</sub>
-- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. <sub>⭐ 2.1k · Python</sub>
-- [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more! <sub>⭐ 1.9k · Python</sub>
-- [TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) - Official Repo for "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding" (ACL 2025 oral) <sub>⭐ 1.5k · Python</sub>
-- [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) - Agent skills for Manim to create 3Blue1Brown style animations. <sub>⭐ 1.1k · Python</sub>
-- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - GPT for video generation <sub>⭐ 924 · Python</sub>
-- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By… <sub>⭐ 657 · HTML</sub>
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time. <sub>⭐ 617 · Python</sub>
-- [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI) - CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and… <sub>⭐ 529 · Jupyter Notebook</sub>
-- [llSourcell/How_to_make_a_text_summarizer](https://github.com/llSourcell/How_to_make_a_text_summarizer) - This is the code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube <sub>⭐ 496 · Jupyter Notebook</sub>
-- [ChaitanyaEswarRajeshJakki/gemini-youtube-automation](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) - A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube. <sub>⭐ 352 · Python</sub>
-- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. <sub>⭐ 317 · JavaScript</sub>
-- [ManimCommunity/manim-voiceover](https://github.com/ManimCommunity/manim-voiceover) - Manim plugin for all things voiceover <sub>⭐ 316 · Python</sub>
-- [rohitg00/manim-video-generator](https://github.com/rohitg00/manim-video-generator) - This application allows you to generate mathematical animations using natural language descriptions. It uses OpenAI's GPT model to convert your descriptions into Manim code, which is then used to… <sub>⭐ 305 · TypeScript</sub>
-- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - using Neural Networks (SSD) on Tensorflow. This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive… <sub>⭐ 282 · Python</sub>
-- [Milkshiift/YouTubeTLDR](https://github.com/Milkshiift/YouTubeTLDR) - A lightweight, self-hosted YouTube video summarizer with Gemini AI <sub>⭐ 253 · Rust</sub>
-- [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos. <sub>⭐ 234 · Python</sub>
-- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude… <sub>⭐ 231 · Python</sub>
-- [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - Video AI summarization from multiple sources (YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, and local files). <sub>⭐ 225 · Python</sub>
-- [vivek3141/dl-visualization](https://github.com/vivek3141/dl-visualization) - This is the source code for the animations in the series "Visualizing Deep Learning" <sub>⭐ 217 · Jupyter Notebook</sub>
-- [DevRico003/youtube_summarizer](https://github.com/DevRico003/youtube_summarizer) - A modern Next.js-based tool for AI-powered YouTube video summarization. Features smart chapter detection with clickable timestamps, multi-language support (EN, DE, FR, ES, IT), visual chapter… <sub>⭐ 216 · TypeScript</sub>
-- [talosross/SummaryYou](https://github.com/talosross/SummaryYou) - Summarize YouTube-Videos, Articles, Images and Documents with AI <sub>⭐ 202 · Kotlin</sub>
-- [Yusuke710/manim-skill](https://github.com/Yusuke710/manim-skill) - SKILL.md for creating animations with Manim. Coding Agent autonomously plans scenes, writes Manim code, renders videos, and refines based on feedback. <sub>⭐ 159 · HTML</sub>
-- [dmmiller612/lecture-summarizer](https://github.com/dmmiller612/lecture-summarizer) - Lecture summarization with BERT <sub>⭐ 152 · Python</sub>
-- [JimmyLv/bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - Video summarizer agent skill for Claude Code, Codex, ChatGPT & OpenClaw — YouTube/Bilibili/podcast via BibiGPT CLI/MCP/API (bibi) <sub>⭐ 128 · JavaScript</sub>
-- [cobanov/websum](https://github.com/cobanov/websum) - Summarize web pages and YouTube videos with pluggable LLM backends (Ollama, OpenAI). CLI, library, and Gradio UI. <sub>⭐ 126 · Python</sub>
-- [HariTrigger/OllamaYTSumm](https://github.com/HariTrigger/OllamaYTSumm) - A simple youtube summarizer using a local AI ollama server <sub>⭐ 123 · Python</sub>
-- [Kuberwastaken/sweeta](https://github.com/Kuberwastaken/sweeta) - Remove Watermarks from SORA 2 Video Generations with LaMA inpainting. (RESEARCH AND EDUCATIONAL USE ONLY) <sub>⭐ 120 · Python</sub>
-- [makefinks/manim-generator](https://github.com/makefinks/manim-generator) - Automatic LLM-based video generation using the manim library. Usage of a code-writer and code-reviewer feedback loop with execution logs. <sub>⭐ 118 · Python</sub>
-- [julianyulu/Machine-Learning-Notes](https://github.com/julianyulu/Machine-Learning-Notes) - Lecture Notes of Andrew Ng's Machine Learning Course <sub>⭐ 112</sub>
-- [mhss1/AIStudyAssistant](https://github.com/mhss1/AIStudyAssistant) - AI chatbot, Lecture Summarizer, Essay Writer and Questions Generator. <sub>⭐ 112 · Kotlin</sub>
-- [kyon-eth/podcast-summarizer](https://github.com/kyon-eth/podcast-summarizer) - Summarises podcasts from Youtube or Spotify using the new Whisper and GPT3 chat APIs from OpenAI <sub>⭐ 109 · Python</sub>
-- [IFRIT-Zhou/One-Click-VidGen](https://github.com/IFRIT-Zhou/One-Click-VidGen) - An AI-powered desktop workflow that turns scripts into narrated story or explainer videos with voiceover, AI-planned storyboards, generated visuals, captions, and editable re-rendering. <sub>⭐ 107 · Python</sub>
-- [drpwchen/lecture-to-notes](https://github.com/drpwchen/lecture-to-notes) - Lecture recordings → structured grounded notes + a synced HTML viewer: video, timestamped transcript and curated summary on one page. Local GPU pipeline (Whisper ASR · slide extraction · OCR · VLM… <sub>⭐ 106 · Python</sub>
-- [siddharthsky/AI-Video-Summarizer](https://github.com/siddharthsky/AI-Video-Summarizer) - Summarize Youtube Videos and Generate Timestamps Efficiently using LLM (Google Gemini Pro, OpenAI GPT) <sub>⭐ 98 · Python</sub>
-- [Hamagistral/GPTube](https://github.com/Hamagistral/GPTube) - Youtube Video Summarizer and Question Answering App Using Whisper and Langchain <sub>⭐ 97 · Python</sub>
-- [amicalhq/prismical](https://github.com/amicalhq/prismical) - Open-source AI note taker - Transcribe meetings, lectures, and voice notes — with local AI and without invasive bots. AI keeps everything structured, organized, and actionable. Free forever. <sub>⭐ 96 · TypeScript</sub>
-- [GenAISHAP/TokenSHAP](https://github.com/GenAISHAP/TokenSHAP) - A framework for interpreting modern AI systems using Monte Carlo Shapley value estimation. Model-agnostic explainability across language models, vision-language models, video understanding, and… <sub>⭐ 89 · Jupyter Notebook</sub>
-- [sabber-slt/youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram bot designed to summaries youtube video contents with ChatGPT. <sub>⭐ 88 · TypeScript</sub>
-- [wilwaldon/Claude-Code-Video-Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) - Skills, MCP servers, and tools for producing video with Claude Code. Covers programmatic video (Remotion, Manim), screen recording, YouTube clipping, and FFmpeg post-processing. <sub>⭐ 88</sub>
-- [COPPSARY/Motify](https://github.com/COPPSARY/Motify) - AI tool that makes SaaS explainers and launch videos. <sub>⭐ 87 · HTML</sub>
-- [jonaskahn/asktube](https://github.com/jonaskahn/asktube) - AskTube - An AI-powered YouTube video summarizer and QA assistant powered by Retrieval Augmented Generation (RAG) . Run it entirely on your local machine with Ollama, or cloud-based models like… <sub>⭐ 87 · Python</sub>
-- [wildlifechorus/condenseit](https://github.com/wildlifechorus/condenseit) - Self-hosted AI news digest. Collect RSS feeds, YouTube channels, website diffs, Google News searches, Hacker News, Reddit, GitHub Releases, and podcasts, summarize with a local LLM (Ollama)… <sub>⭐ 86 · Python</sub>
-- [qnguyen3/STEMViz](https://github.com/qnguyen3/STEMViz) - AI-powered tool that transforms STEM concepts into narrated educational animations using Manim, LLMs, and multimodal AI <sub>⭐ 81 · Python</sub>
-- [atilaahmettaner/youtube-subtitle-summarizer](https://github.com/atilaahmettaner/youtube-subtitle-summarizer) - Youtube Summarizer is a web-based tool that uses ChatGPT to automatically generate summaries of YouTube videos. It lets you learn key points quickly and easily without having to watch entire lengthy… <sub>⭐ 80 · JavaScript</sub>
-- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - What is C#? C# is pronounced "C-Sharp". It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the language is close… <sub>⭐ 80</sub>
-- [HyperCluster-Tech/manimator](https://github.com/HyperCluster-Tech/manimator) - Transform research papers and mathematical concepts into stunning visual explanations (using the manim engine), powered by AI <sub>⭐ 75 · Python</sub>
-- [philip-murray/reactive-manim](https://github.com/philip-murray/reactive-manim) - A component library for ManimCE, supporting component composition and automatic animation. Supports declarative syntax for writing components inspired by React.js. <sub>⭐ 75 · Python</sub>
-- [discus0434/minutes-maker](https://github.com/discus0434/minutes-maker) - A web app that automatically generates transcripts and summaries of meetings or lectures. <sub>⭐ 68 · Python</sub>
-- [destinyfrancis/openclaw-knowledge-distiller](https://github.com/destinyfrancis/openclaw-knowledge-distiller) - Open CLAW Knowledge Distiller · 龍蝦知識蒸餾器 — Turn YouTube/Bilibili videos into structured knowledge articles. Local Qwen3-ASR MLX + AI summarization. MCP server for Claude Code / Open CLAW agents. <sub>⭐ 63 · Python</sub>
-- [badboysm890/WordPilot](https://github.com/badboysm890/WordPilot) - WordPilot is a tool that converts YouTube videos into written blog format, with images and export options. It uses natural language processing to automatically transcribe and summarize video content.… <sub>⭐ 62 · Svelte</sub>
-- [AIAnytime/YouTube-Video-Summarization-App](https://github.com/AIAnytime/YouTube-Video-Summarization-App) - YouTube Video Summarization App built using open source LLM and Framework like Llama 2, Haystack, Whisper, and Streamlit. This app smoothly runs on CPU as Llama 2 model is in GGUF format loaded… <sub>⭐ 58 · Python</sub>
-- [JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models](https://github.com/JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models) - This project extracts audio from YouTube videos, converts speech to text using OpenAI Whisper, and summarizes the content using transformer-based NLP models to save time and improve content… <sub>⭐ 57 · Python</sub>
-- [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install. <sub>⭐ 57 · Python</sub>
-- [yizhiyanhua-ai/youtube-ai-digest](https://github.com/yizhiyanhua-ai/youtube-ai-digest) - Claude Code Skill: Browse, summarize and capture AI-related YouTube videos <sub>⭐ 57 · Python</sub>
-- [liang121/video-summarizer](https://github.com/liang121/video-summarizer) - Download videos from YouTube, Bilibili, Twitter/X and 1800+ platforms. Outputs MP4, MP3, subtitles, transcript and AI summary - Claude Code skill <sub>⭐ 55 · Python</sub>
-- [AnujK2901/yt-sum-flask](https://github.com/AnujK2901/yt-sum-flask) - YouTube Transcript Summarization over Flask: This back-end uses Flask framework to receive API calls from the client and then respond with the summarized text response. This API can work only on… <sub>⭐ 53 · Python</sub>
-- [grayhatdevelopers/vidxp](https://github.com/grayhatdevelopers/vidxp) - VidXP (Video eXPlain) - Video Indexing Engine. Search in videos in natural language. Connect your Hermes / Claude / OpenClaw agents, allow them to understand videos with low token cost. <sub>⭐ 53 · Python</sub>
-- [rkindi/vidDistill](https://github.com/rkindi/vidDistill) - Automated (YouTube) Video Summarization Using Captions <sub>⭐ 53 · Python</sub>
-- [Toy-97/Chat-WebUI](https://github.com/Toy-97/Chat-WebUI) - Chat WebUI is an easy-to-use user interface for interacting with AI, and it comes with multiple useful built-in tools such as web search and youtube summarizer. <sub>⭐ 53 · JavaScript</sub>
-- [ec175/spectrometry_public](https://github.com/ec175/spectrometry_public) - The open-source engines behind the spectrometry.mp4 videos: fluid sims, field lines, particle swarms, a simulated CRT and molecule spectra, made with Python + ffmpeg. Free to use (MIT). <sub>⭐ 49 · Python</sub>
-- [oztrkoguz/SubtitleAI](https://github.com/oztrkoguz/SubtitleAI) - An AI-powered tool for summarizing YouTube videos by generating scene descriptions, translating them, and creating subtitled videos with text-to-speech narration <sub>⭐ 49 · Python</sub>
-- [ArmanShirzad/SocialMediaContentCreationAndPostingAutomationPlatform](https://github.com/ArmanShirzad/SocialMediaContentCreationAndPostingAutomationPlatform) - This is an automated content pipeline that scrapes, curates, and summarizes data from a source, then generates and publishes ready-to-post content to Telegram channels, X (Twitter), and Instagram… <sub>⭐ 48 · Python</sub>
-- [walksoda/crawl-mcp](https://github.com/walksoda/crawl-mcp) - Crawl4AI MCP Server: Extract content from web pages, PDFs, Office docs, YouTube videos with AI-powered summarization. 17 tools, token reduction, production-ready. <sub>⭐ 48 · Python</sub>
-- [benelot/eth-machine-learning-summary](https://github.com/benelot/eth-machine-learning-summary) - We cherry-pick the most understandable explanations and definitions into one summary to summarize the content of the lecture about Machine Learning of Prof. Joachim Buhmann. <sub>⭐ 44 · TeX</sub>
-- [Fonction-Labs/yt-chat](https://github.com/Fonction-Labs/yt-chat) - yt-chat is an AI skill for summarizing YouTube videos and answering questions about them in Codex or Claude Code. <sub>⭐ 44 · Python</sub>
-- [mbramani/obsidian-yt-video-summarizer](https://github.com/mbramani/obsidian-yt-video-summarizer) - Generate AI-powered summaries of YouTube videos directly in Obsidian using Google's Gemini AI. <sub>⭐ 43 · TypeScript</sub>
-- [nicktill/YTRecap](https://github.com/nicktill/YTRecap) - Summarize any youtube video in seconds <sub>⭐ 43 · CSS</sub>
-- [eduly-ai/eduly](https://github.com/eduly-ai/eduly) - Manim Coding Agent <sub>⭐ 41 · Python</sub>
-- [anirudhsengar/MathVizAI](https://github.com/anirudhsengar/MathVizAI) - A complete end-to-end system that takes mathematical problems and automatically generates polished educational videos <sub>⭐ 40 · Python</sub>
-- [AugustusW/audio-tldr-skill](https://github.com/AugustusW/audio-tldr-skill) - Claude Code skill: summarize videos, audio & podcasts with local cached transcription <sub>⭐ 39 · Python</sub>
-- [AmitSubhash/3brown1blue](https://github.com/AmitSubhash/3brown1blue) - First-principles Manim skill for Claude Code — mathematical animation from scratch, paper-explainer patterns, 21 rule files. <sub>⭐ 36 · Python</sub>
-- [HoltzTomas/claiss](https://github.com/HoltzTomas/claiss) - Transform ideas into visual learning with AI-powered educational videos. Create stunning Manim animations from simple prompts for algorithms, math concepts, and more. <sub>⭐ 35 · TypeScript</sub>
-- [mateolafalce/topic2manim](https://github.com/mateolafalce/topic2manim) - Automatic educational video generator using AI and Manim. Converts any topic into a professional animated video with narration and mathematical visualizations. <sub>⭐ 35 · Python</sub>
-- [mirabdullahyaser/Summarizing-Youtube-Videos-with-OpenAI-Whisper-and-GPT-3](https://github.com/mirabdullahyaser/Summarizing-Youtube-Videos-with-OpenAI-Whisper-and-GPT-3) - YouTube video summarization using Whisper audio transcription and GPT-based summaries. <sub>⭐ 32 · Python</sub>
-- [akashe/YoutubeSummarizer](https://github.com/akashe/YoutubeSummarizer) - Repo to summarize youtube videos. Get summary of multiple videos at one go. Summarize videos released by a channel in past weeks. Ask any question from videos <sub>⭐ 31 · Python</sub>
-- [iPrinka/comments-summary-ml-project](https://github.com/iPrinka/comments-summary-ml-project) - This is a Youtube Comments Summarizer which I built using Streamlit and Open AI/Gemini APIs. <sub>⭐ 31 · Python</sub>
-- [tomiholtz/claiss](https://github.com/tomiholtz/claiss) - Transform ideas into visual learning with AI-powered educational videos. Create stunning Manim animations from simple prompts for algorithms, math concepts, and more. <sub>⭐ 31 · Go</sub>
-- [dotanminh/youtube-learn-skill](https://github.com/dotanminh/youtube-learn-skill) - Belief Archaeology - An AI Agent skill that excavates hidden worldviews from YouTube videos instead of summarizing them. For Antigravity / Gemini CLI. <sub>⭐ 30 · Python</sub>
-- [neuron-core/youtube-ai-agent](https://github.com/neuron-core/youtube-ai-agent) - AI Agents summarizing YouTube videos - built with Neuron PHP AI framework. <sub>⭐ 30 · PHP</sub>
-- [ledmaster/gpt-summarizer](https://github.com/ledmaster/gpt-summarizer) - A scrappy Jupyter notebook to summarize long podcasts, youtube videos, etc <sub>⭐ 29 · Jupyter Notebook</sub>
-- [casedone/youtube-summarizer-ollama](https://github.com/casedone/youtube-summarizer-ollama) - Build YouTube Summarizer using Ollama, Llama, LangChain, and Gradio <sub>⭐ 28 · Python</sub>
-- [rami-maalouf/snipTube](https://github.com/rami-maalouf/snipTube) - A browser extension that allows you to highlight, tag, annotate, and export the best parts of your favorite YouTube videos and summarize these snips with the power of AI. Winner of Boost Hacks <sub>⭐ 28 · TypeScript</sub>
-- [vaibhav-malpani/ComicAI](https://github.com/vaibhav-malpani/ComicAI) - AI-powered comics & animated videos using Google’s Gemini, Imagen & Veo 3. Create humorous, educational, or inspirational stories through a simple web interface. <sub>⭐ 28 · JavaScript</sub>
-- [GURPREETKAURJETHRA/Youtube-Video-Transcribe-Summarizer-LLM-App](https://github.com/GURPREETKAURJETHRA/Youtube-Video-Transcribe-Summarizer-LLM-App) - YouTube Video Summarization App built using open source LLM and Framework like Llama 2, Haystack, Whisper, and Streamlit. This app smoothly runs on CPU as Llama 2 model is in GGUF format loaded… <sub>⭐ 27 · Python</sub>
-- [Mo7ammedd/youtube-summary](https://github.com/Mo7ammedd/youtube-summary) - Summarize YouTube videos based on the URL <sub>⭐ 27 · Python</sub>
-- [GoldLegendW80/llm-video-maker](https://github.com/GoldLegendW80/llm-video-maker) - Turn one prompt into a finished MP4. An AI agent skill for Claude Code, Cursor, Codex & Windsurf that generates TikTok/Reels/Shorts, YouTube intros, startup hero loops & data explainers — with AI… <sub>⭐ 26 · JavaScript</sub>
-- [HazWahb8080/chatvideoyt](https://github.com/HazWahb8080/chatvideoyt) - summarize and chat with any youtube video with AI <sub>⭐ 26 · JavaScript</sub>
-- [ps1899/YouTube-Transcript-Summarizer](https://github.com/ps1899/YouTube-Transcript-Summarizer) - Chrome Extension which makes a request to a Backend REST API to perform NLP and respond with a summarized version of a YouTube transcript. <sub>⭐ 26 · Python</sub>
-- [nasqret/live-workshop-skill](https://github.com/nasqret/live-workshop-skill) - Claude Code skill: Turn any lecture into a structured, searchable knowledge base with live Whisper transcription <sub>⭐ 25 · Python</sub>
-- [ringger/transcribe-critic](https://github.com/ringger/transcribe-critic) - Multi-source transcript merging inspired by textual criticism — LLM adjudicates multiple Whisper, YouTube captions & external transcripts for higher quality. Includes speaker diarization and… <sub>⭐ 25 · Python</sub>
-- [maximusolution/youtube-summarizer](https://github.com/maximusolution/youtube-summarizer) - A powerful web application that automatically generates comprehensive summaries of YouTube videos <sub>⭐ 24 · TypeScript</sub>
-- [AiGptCode/YDS-YOUTUBE-DOWNLOADER-AND-SUMMERIZE](https://github.com/AiGptCode/YDS-YOUTUBE-DOWNLOADER-AND-SUMMERIZE) - This is a Telegram bot that can download audio from YouTube videos and summarize the content using OpenAI's GPT-3 engine. It's a handy tool for quickly extracting insights from YouTube content. <sub>⭐ 23 · Python</sub>
-- [chrisrichardf/Smart-Lecture-Notes-Generator](https://github.com/chrisrichardf/Smart-Lecture-Notes-Generator) - The proposed system uses Natural Language Processing, Machine Learning, and Text Summarization techniques to generate concise lecture notes from educational videos quickly and accurately. It… <sub>⭐ 22 · HTML</sub>
-- [Harshit-shrivastav/YouTube-Summarizer-Bot](https://github.com/Harshit-shrivastav/YouTube-Summarizer-Bot) - A telegram bot that can Summarize youtube video using AI <sub>⭐ 22 · Python</sub>
-- [SuienS/manim-trainer](https://github.com/SuienS/manim-trainer) - A toolkit for fine-tuning Large Language Models (LLMs) to generate Manim animation code using Supervised Fine-Tuning (SFT) and Visually Grounded Reinforcement Learning using Group Relative Policy… <sub>⭐ 22 · Python</sub>
-- [ApliroAI/manim-video-lab](https://github.com/ApliroAI/manim-video-lab) - Agent skill for production-quality Manim animation workflows <sub>⭐ 21 · PowerShell</sub>
-- [veeravignesh1/YouTube-Summarizer](https://github.com/veeravignesh1/YouTube-Summarizer) - Using NLP and Summarization Techniques to extract the key information of the video <sub>⭐ 21 · Jupyter Notebook</sub>
-- [mayooear/free-ai-youtube-summarizer](https://github.com/mayooear/free-ai-youtube-summarizer) - Free AI Youtube Summarizer on your computer using mistral-instruct-v0.2, langchain and llama_index <sub>⭐ 20 · Jupyter Notebook</sub>
-- [paulnegz/manim-mcp](https://github.com/paulnegz/manim-mcp) - Text-to-video animation via Manim. Text → Code → Video. CLI, agent mode, and MCP server <sub>⭐ 20 · Python</sub>
-- [sadekxD/vox-style-collage-video-skill](https://github.com/sadekxD/vox-style-collage-video-skill) - Agent skill that turns scripts or fact lists into Vox-style paper-collage explainer videos — narration-first pipeline with AI-generated cutout imagery, limited-frame animation, music, and ffmpeg… <sub>⭐ 20</sub>
-- [sid-sr/K-Means-Visualiser](https://github.com/sid-sr/K-Means-Visualiser) - Animating K-Means Clustering using 3Blue1Brown's manim engine <sub>⭐ 20 · Jupyter Notebook</sub>
-- [vakovalskii/nd-video-studio](https://github.com/vakovalskii/nd-video-studio) - Explainer videos from HTML (HyperFrames → MP4) with AI narrator, music and mixing — Claude Code / Codex skills on NeuralDeep models <sub>⭐ 20 · Python</sub>
-- [assafkip/claude-video-editor](https://github.com/assafkip/claude-video-editor) - Edit videos by talking to Claude — or generate them from nothing. Cut, caption, grade real footage; or AI keyframes + image-to-video + v3 voiceover for fully generated explainers. <sub>⭐ 19 · Python</sub>
-- [holy-templar/vox-animated-ad-mcp](https://github.com/holy-templar/vox-animated-ad-mcp) - Vox-style paper-collage animated video skill for AI agents — Claude + MaxFusion AI MCP (Google Omni). One sentence in, a full explainer or ad out, entirely from chat. <sub>⭐ 19</sub>
-- [igreat/animations](https://github.com/igreat/animations) - Here is where I will put all the code I use to generate my explanatory videos! <sub>⭐ 19 · Python</sub>
-- [Mng-dev-ai/explainer-video](https://github.com/Mng-dev-ai/explainer-video) - AI skill that turns any topic into an animated narrated explainer video. Runs locally, free, works with Claude Code / Codex / Cursor. <sub>⭐ 19 · JavaScript</sub>
-- [shreyanspagariya/sankshep](https://github.com/shreyanspagariya/sankshep) - Video Summarization - Summarized a video lecture and converted it to a slideshow using Speech-to-text, Keyword extraction and OpenCV Shot detection. <sub>⭐ 19 · Shell</sub>
-- [wstcpyt/manim-mcp](https://github.com/wstcpyt/manim-mcp) - manim mcp server for math animation <sub>⭐ 19 · Python</sub>
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - 可视化任何 GitHub 代码库: 免费交互式架构图和一分钟解释视频。 在任意 GitHub URL 中将“ hub” 替换为“ diagram ”。 <sub>⭐ 17.7k · TypeScript</sub>
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - 从YouTube、TikTok、Twitter、Instagram、Facebook、Twitch、bilibili和1000+网站下载视频和音频,或导入本地媒体。然后在你的电脑上创建可搜索的记录稿... <sub>⭐ 10.7k · TypeScript</sub>
+- [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML是一个与Manim社区图书馆合作,专注于提供普通机器学习概念的动画和视觉化的项目. <sub>⭐ 3.5k · Python</sub>
+- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - 使用AI. Open-source,多平台,并支援多种语言的转录和总结视频和播客. <sub>⭐ 3.3k · Python</sub>
+- [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) - 本地化——免费开源AI会议助理,采访副驾驶,以及笔记收录者. 克吕利,奥特尔,格拉诺拉,最终回合AI,萤火虫,和访谈编码器的最佳替代方案. Real-time... <sub>⭐ 2.6k · TypeScript</sub>
+- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) - 将一个话题变成一个完成的Vox风格纸库解释器/ad视频——自动端端到Atlas Cloud+ffmpeg上结束. 一种代理技能. <sub>⭐ 2.1k · Python</sub>
+- [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - 一个全能的Discord GPT接口. ChatGPT 风格的对话,图像生成,AI-调制,自定义索引/知识库,Youtube摘要器等! <sub>⭐ 1.9k · Python</sub>
+- [TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) - "定理解释代理人:走向基于视频的多式联运解释,以了解LLM定理"(ACL 2025口述)的官方回执. <sub>⭐ 1.5k · Python</sub>
+- [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) - 马尼姆的代理技能可以创作3部Blue1Brown风格动画. <sub>⭐ 1.1k · Python</sub>
+- [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 用于视频生成的 GPT <sub>⭐ 924 · Python</sub>
+- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - 50种开源技能,教你们AI编码代理制作运动图形,动画和视频——动画打字,数据维兹,解说员,TikTok/Reels,WebGL,Manim. 14个可安装包. <sub>⭐ 657 · HTML</sub>
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot来验证用户加入一个组是否为人. Bot向每个新用户发送一个cabtcha挑战,并删除在指定时间内未能解决的用户. <sub>⭐ 617 · Python</sub>
+- [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI) - ComexcialAI是一个模块化,开发者友好的研究助手框架。它使您能够使用LLMS,网络搜索,Reddit,YouTube和. <sub>⭐ 529 · Jupyter Notebook</sub>
+- [llSourcell/How_to_make_a_text_summarizer](https://github.com/llSourcell/How_to_make_a_text_summarizer) - 这是Siraj Raval在Youtube上的“如何编写文本摘要——深入学习的入门10”的代码。 <sub>⭐ 496 · Jupyter Notebook</sub>
+- [ChaitanyaEswarRajeshJakki/gemini-youtube-automation](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) - 一个完全自主的AI Agent/Python管道,利用双子座等大语言模型(LLM)生成内容,制作视频,并自动上传教育视频到YouTube. <sub>⭐ 352 · Python</sub>
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - 由您的AI代理制作的解释视频和产品演示. Free and open source:一个本地语音(Kokoro),一个字段计时(Whisper)和一个画布渲染器将一个脚本变成一个被描述的MP4. <sub>⭐ 317 · JavaScript</sub>
+- [ManimCommunity/manim-voiceover](https://github.com/ManimCommunity/manim-voiceover) - Manim 插件, 用于所有事务 <sub>⭐ 316 · Python</sub>
+- [rohitg00/manim-video-generator](https://github.com/rohitg00/manim-video-generator) - 这个应用程序允许您使用自然语言描述生成数学动画,它使用OpenAI的GPT模型将您的描述转换为Manim代码,然后用于. <sub>⭐ 305 · TypeScript</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - 使用 Tensorflow 上的神经网络( SSD) 。 此回波文件记录了用于使用 Tensorflow (Object Detection API) 训练手动探测器的步骤和脚本。 与基于 DNN 的任务一样, 最昂贵的... <sub>⭐ 282 · Python</sub>
+- [Milkshiift/YouTubeTLDR](https://github.com/Milkshiift/YouTubeTLDR) - 一个轻量级的自办YouTube视频总结器,配有双子座AI <sub>⭐ 253 · Rust</sub>
+- [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一个AI动力的文本汇总Telegram bot,生成文本,URL,PDF和YouTube视频的简明摘要. <sub>⭐ 234 · Python</sub>
+- [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) - 将任何话题都变成一个完成的 Vox 风格的纸库解说器/ 运动图形视频——脚本,拼接键框,动画,语音,音乐和字幕,全部自动化. Claude 的一种代理技能... <sub>⭐ 231 · Python</sub>
+- [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - 来自多个来源的视频 AI summarization(YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, 和当地文件). <sub>⭐ 225 · Python</sub>
+- [vivek3141/dl-visualization](https://github.com/vivek3141/dl-visualization) - 这是系列"视觉深层学习"中动画的源代码. <sub>⭐ 217 · Jupyter Notebook</sub>
+- [DevRico003/youtube_summarizer](https://github.com/DevRico003/youtube_summarizer) - 一个基于AI-powered YouTube视频汇总的现代Next.js工具. 功能智能章节检测,带有可点击的时间戳,多语言支持(EN,DE,FR,ES,IT),视觉章节... <sub>⭐ 216 · TypeScript</sub>
+- [talosross/SummaryYou](https://github.com/talosross/SummaryYou) - 与AI一起总结YouTube-Videos、文章、图像和文件 <sub>⭐ 202 · Kotlin</sub>
+- [Yusuke710/manim-skill](https://github.com/Yusuke710/manim-skill) - SKILL.md)用于与Manim一起创作动画,编码代理自主规划场景,写Manim代码,制作视频,并根据反馈进行精细化. <sub>⭐ 159 · HTML</sub>
+- [dmmiller612/lecture-summarizer](https://github.com/dmmiller612/lecture-summarizer) - 与BERT的讲座总结 <sub>⭐ 152 · Python</sub>
+- [JimmyLv/bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - Claude Code、Codex、ChatGPT和OpenClaw的视频摘要代理技能——YouTube/Bilibili/通过BibiGPT CLI/MCP/API(bibi)播放的节目 <sub>⭐ 128 · JavaScript</sub>
+- [cobanov/websum](https://github.com/cobanov/websum) - 概括网页和YouTube视频,并配有可插件的LLM后端(Ollama, OpenAI). CLI,库,以及Gradio UI. <sub>⭐ 126 · Python</sub>
+- [HariTrigger/OllamaYTSumm](https://github.com/HariTrigger/OllamaYTSumm) - 使用本地 AI ollama 服务器的简单 Youtube 总结器 <sub>⭐ 123 · Python</sub>
+- [Kuberwastaken/sweeta](https://github.com/Kuberwastaken/sweeta) - 从 SORA 2 中删除带有 LaMA 插画的视频世代( 仅使用研究与教育) <sub>⭐ 120 · Python</sub>
+- [makefinks/manim-generator](https://github.com/makefinks/manim-generator) - 使用 manim 库自动生成基于 LLM 的视频。 使用一个带有执行日志的代码写入器和代码审查器反馈循环 。 <sub>⭐ 118 · Python</sub>
+- [julianyulu/Machine-Learning-Notes](https://github.com/julianyulu/Machine-Learning-Notes) - 安德鲁·恩格机器学习课程的讲座说明 <sub>⭐ 112</sub>
+- [mhss1/AIStudyAssistant](https://github.com/mhss1/AIStudyAssistant) - AI聊天员,讲座总结者,Essay Writer和问题生成器. <sub>⭐ 112 · Kotlin</sub>
+- [kyon-eth/podcast-summarizer](https://github.com/kyon-eth/podcast-summarizer) - 使用来自OpenAI的新Whisper和GPT3聊天API来汇总Youtube或Spotify的播客 <sub>⭐ 109 · Python</sub>
+- [IFRIT-Zhou/One-Click-VidGen](https://github.com/IFRIT-Zhou/One-Click-VidGen) - AI驱动的桌面工作流程,将脚本变成叙述式故事或解说式视频,并配有语音翻唱,AI计划的故事板,生成视觉,字幕,以及可编辑的重播. <sub>⭐ 107 · Python</sub>
+- [drpwchen/lecture-to-notes](https://github.com/drpwchen/lecture-to-notes) - 讲座录音 — 结构化的禁制笔记+ 同步的 HTML 查看器: 视频, 时间戳记录和一页的编译摘要. 本地 GPU 管道( Whisper ASR – 幻灯片提取 → OCR ~ VLM...) <sub>⭐ 106 · Python</sub>
+- [siddharthsky/AI-Video-Summarizer](https://github.com/siddharthsky/AI-Video-Summarizer) - 总结Youtube视频和生成时标高效使用LLM(Google双子公司,OpenAI GPT) <sub>⭐ 98 · Python</sub>
+- [Hamagistral/GPTube](https://github.com/Hamagistral/GPTube) - YouTube 视频总结和问答 应用 Whisper 和 Langchain <sub>⭐ 97 · Python</sub>
+- [amicalhq/prismical](https://github.com/amicalhq/prismical) - 开放源代码AI的笔记接收器 — — 转录会议、讲座和语音笔记 — — 与当地的AI一起,并且没有入侵的bots。 AI保持一切结构,组织,可操作性,永远自由。 <sub>⭐ 96 · TypeScript</sub>
+- [GenAISHAP/TokenSHAP](https://github.com/GenAISHAP/TokenSHAP) - 使用Monte Carlo Shapley值估计来解释现代AI系统的框架。模型-不可知性跨语言模型、视觉语言模型、视频理解和. <sub>⭐ 89 · Jupyter Notebook</sub>
+- [sabber-slt/youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram bot)设计,旨在与ChatGPT一起总结Youtube视频内容. <sub>⭐ 88 · TypeScript</sub>
+- [wilwaldon/Claude-Code-Video-Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) - 技能,MCP服务器,以及用克劳德代码制作视频的工具. 覆盖程序视频(Remotion,Manim),屏幕录制,YouTube剪辑和FFmpeg后处理. <sub>⭐ 88</sub>
+- [COPPSARY/Motify](https://github.com/COPPSARY/Motify) - AI工具让SaaS解释和发布视频. <sub>⭐ 87 · HTML</sub>
+- [jonaskahn/asktube](https://github.com/jonaskahn/asktube) - AskTube - 一个由人工智能驱动的YouTube视频总结器和QA助手由 Retrieval Advanceed Generation(RAG)提供动力. 完全运行在你的本地机器上,与Ollama一起运行,或者像云基模型一样. <sub>⭐ 87 · Python</sub>
+- [wildlifechorus/condenseit](https://github.com/wildlifechorus/condenseit) - 自办AI新闻摘要. 收集RSS的素材,YouTube频道,网站diffs,Google新闻搜索,Hacker新闻,Reddit,GitHub Releases,以及播客,以本地LLM(Ollama)进行总结....... <sub>⭐ 86 · Python</sub>
+- [qnguyen3/STEMViz](https://github.com/qnguyen3/STEMViz) - AI-动力工具,将STEM概念转化为使用Manim,LLMS,和多模式AI的叙述性教育动画 <sub>⭐ 81 · Python</sub>
+- [atilaahmettaner/youtube-subtitle-summarizer](https://github.com/atilaahmettaner/youtube-subtitle-summarizer) - Youtube Summmarizer是一个基于网络的工具,使用ChatGPT自动生成YouTube视频摘要,它让你快速和轻松地学习关键点,而无需观看整个冗长. . <sub>⭐ 80 · JavaScript</sub>
+- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - C#是什么?C#是发音"C-Sharp",是一种由微软创建的面向对象的编程语言,运行在.NET框架上.C#有来自C家族的根基,语言接近...... <sub>⭐ 80</sub>
+- [HyperCluster-Tech/manimator](https://github.com/HyperCluster-Tech/manimator) - 将研究论文和数学概念转化为惊人的视觉解释(使用manim引擎),由AI提供动力 <sub>⭐ 75 · Python</sub>
+- [philip-murray/reactive-manim](https://github.com/philip-murray/reactive-manim) - ManimCE的组件库,支持组件组成和自动动画. 支持由React.js启发的写入组件的宣语法. <sub>⭐ 75 · Python</sub>
+- [discus0434/minutes-maker](https://github.com/discus0434/minutes-maker) - 一个自动生成会议或讲座记录誊本和摘要的网络应用程序. <sub>⭐ 68 · Python</sub>
+- [destinyfrancis/openclaw-knowledge-distiller](https://github.com/destinyfrancis/openclaw-knowledge-distiller) - 开放 CLAW知识 Distiller _______将YouTube/bilibili视频转换为结构化的知识文章. local Qune3-ASR MLX + AI summarization. Claude Code / Open CLAW代理的MCP服务器. <sub>⭐ 63 · Python</sub>
+- [badboysm890/WordPilot](https://github.com/badboysm890/WordPilot) - WordPilot是一个将YouTube视频转换成书面博客格式,带有图像和导出选项的工具,它使用自然语言处理来自动转录和总结视频内容. . <sub>⭐ 62 · Svelte</sub>
+- [AIAnytime/YouTube-Video-Summarization-App](https://github.com/AIAnytime/YouTube-Video-Summarization-App) - YouTube Video Summmarization App 使用Llama 2, Haystack, Whisper 和 Streamlit 等开源LLM和Framews 构建. 本应用程序在CPU上顺利运行,因为Llama 2 型号以 GGUF 格式加载. . <sub>⭐ 58 · Python</sub>
+- [JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models](https://github.com/JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models) - 这个项目从YouTube视频中提取音频,使用OpenAI Whisper将语音转换为文本,并使用基于变压器的NLP模型总结内容以节省时间和改进内容. . <sub>⭐ 57 · Python</sub>
+- [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - 磁盘渲染瓶。 需要安装一个可操作的磁盘 。 <sub>⭐ 57 · Python</sub>
+- [yizhiyanhua-ai/youtube-ai-digest](https://github.com/yizhiyanhua-ai/youtube-ai-digest) - Claude Code Skill:浏览,总结和捕获与AI相关的YouTube视频 <sub>⭐ 57 · Python</sub>
+- [liang121/video-summarizer](https://github.com/liang121/video-summarizer) - 从YouTube、bilibili、Twitter/X和1800+平台下载视频。 输出 MP4、MP3、字幕、记录稿和AI摘要 - Claude Code技能 <sub>⭐ 55 · Python</sub>
+- [AnujK2901/yt-sum-flask](https://github.com/AnujK2901/yt-sum-flask) - YouTube Transcription over Flask:这个后端使用Flask框架接收客户端的API呼叫,然后用摘要文本响应来回复. 这个API只能工作在... <sub>⭐ 53 · Python</sub>
+- [grayhatdevelopers/vidxp](https://github.com/grayhatdevelopers/vidxp) - VidXP (Video eXPlain) - 视频索引引擎。 以自然语言搜索视频。 连接您的 Hermes / Claude / OpenClaw 代理商, 让他们能够以低价理解视频 。 <sub>⭐ 53 · Python</sub>
+- [rkindi/vidDistill](https://github.com/rkindi/vidDistill) - 自动( YouTube) 视频摘要 <sub>⭐ 53 · Python</sub>
+- [Toy-97/Chat-WebUI](https://github.com/Toy-97/Chat-WebUI) - Chat WebUI是一个与AI互动的容易使用的用户界面,它同时出现多个有用的内置工具,如web搜索和Youtube摘要器. <sub>⭐ 53 · JavaScript</sub>
+- [ec175/spectrometry_public](https://github.com/ec175/spectrometry_public) - 光谱.mp4视频背后的开源引擎:流体sims,野线,粒子群,一个模拟的CRT和分子光谱,用Python + ffmpeg. Free to use (MIT)制作. <sub>⭐ 49 · Python</sub>
+- [oztrkoguz/SubtitleAI](https://github.com/oztrkoguz/SubtitleAI) - AI驱动工具,通过生成场景描述,翻译视频,以及制作字幕视频并配有文字对语音的描述来总结YouTube视频 <sub>⭐ 49 · Python</sub>
+- [ArmanShirzad/SocialMediaContentCreationAndPostingAutomationPlatform](https://github.com/ArmanShirzad/SocialMediaContentCreationAndPostingAutomationPlatform) - 这是一个自动内容管道,它从一个来源刮去,整理,总结数据,然后生成并发布即时发布的内容到Telegram频道,X(Twitter)和Instagram... <sub>⭐ 48 · Python</sub>
+- [walksoda/crawl-mcp](https://github.com/walksoda/crawl-mcp) - Crawl4AI MCP Server:从网页,PDFs,Office Docs,YouTube视频中提取内容,并带有AI动力的汇总. 17种工具,符号减少,制作准备. <sub>⭐ 48 · Python</sub>
+- [benelot/eth-machine-learning-summary](https://github.com/benelot/eth-machine-learning-summary) - 我们挑出最可以理解的解释和定义,作为一份摘要,总结约阿希姆·布赫曼教授关于机器学习的讲座内容。 <sub>⭐ 44 · TeX</sub>
+- [Fonction-Labs/yt-chat](https://github.com/Fonction-Labs/yt-chat) - yt-chat是一种AI技能,用于总结YouTube视频,并在Codex或Claude Code中解答有关这些视频的问题. <sub>⭐ 44 · Python</sub>
+- [mbramani/obsidian-yt-video-summarizer](https://github.com/mbramani/obsidian-yt-video-summarizer) - 使用Google的双子星AI直接在Obsidian生成对YouTube视频的AI-power摘要. <sub>⭐ 43 · TypeScript</sub>
+- [nicktill/YTRecap](https://github.com/nicktill/YTRecap) - 以秒计汇总任何 Youtube 视频 <sub>⭐ 43 · CSS</sub>
+- [eduly-ai/eduly](https://github.com/eduly-ai/eduly) - Manim 编码代理 <sub>⭐ 41 · Python</sub>
+- [anirudhsengar/MathVizAI](https://github.com/anirudhsengar/MathVizAI) - 一个完整的端到端系统,它需要数学问题并自动生成抛光的教育视频 <sub>⭐ 40 · Python</sub>
+- [AugustusW/audio-tldr-skill](https://github.com/AugustusW/audio-tldr-skill) - Claude Code 技能: 以本地缓存的转录方式总结视频、音频和播客 <sub>⭐ 39 · Python</sub>
+- [AmitSubhash/3brown1blue](https://github.com/AmitSubhash/3brown1blue) - 第一原理 克劳德代码的马尼姆技巧——从零开始的数学动画,纸质解释器图案,21个规则文件. <sub>⭐ 36 · Python</sub>
+- [HoltzTomas/claiss](https://github.com/HoltzTomas/claiss) - 用AI 驱动的教育视频将想法转化为视觉学习。从简单的提示中创建出惊人的Manim动画,用于算法、数学概念等等。 <sub>⭐ 35 · TypeScript</sub>
+- [mateolafalce/topic2manim](https://github.com/mateolafalce/topic2manim) - 使用AI和Manim的自动教育视频生成器,将任何主题转换为专业动画视频,并配有叙述和数学可视化功能. <sub>⭐ 35 · Python</sub>
+- [mirabdullahyaser/Summarizing-Youtube-Videos-with-OpenAI-Whisper-and-GPT-3](https://github.com/mirabdullahyaser/Summarizing-Youtube-Videos-with-OpenAI-Whisper-and-GPT-3) - YouTube视频总结使用Whisper音频转录和基于GPT的汇总. <sub>⭐ 32 · Python</sub>
+- [akashe/YoutubeSummarizer](https://github.com/akashe/YoutubeSummarizer) - 重播以总结 Youtube 视频。 一次获取多个视频的汇总。 汇总频道在过去几周发布的视频。 请询问视频中的任何问题 。 <sub>⭐ 31 · Python</sub>
+- [iPrinka/comments-summary-ml-project](https://github.com/iPrinka/comments-summary-ml-project) - 这是YouTube评论总结器,我用Streamlit和Open AI/Gemini API来制作。 <sub>⭐ 31 · Python</sub>
+- [tomiholtz/claiss](https://github.com/tomiholtz/claiss) - 用AI 驱动的教育视频将想法转化为视觉学习。从简单的提示中创建出惊人的Manim动画,用于算法、数学概念等等。 <sub>⭐ 31 · Go</sub>
+- [dotanminh/youtube-learn-skill](https://github.com/dotanminh/youtube-learn-skill) - 信仰考古学——一种AI代理技能,从YouTube视频中挖掘隐藏的世界观而不是对其进行总结. For Antigravity / Gemini CLI. <sub>⭐ 30 · Python</sub>
+- [neuron-core/youtube-ai-agent](https://github.com/neuron-core/youtube-ai-agent) - AI Agencys总结YouTube视频 - 用Neuron PHP AI框架构建. <sub>⭐ 30 · PHP</sub>
+- [ledmaster/gpt-summarizer](https://github.com/ledmaster/gpt-summarizer) - 一个垃圾的Jupyter笔记本 总结长播客,Youtube视频等 <sub>⭐ 29 · Jupyter Notebook</sub>
+- [casedone/youtube-summarizer-ollama](https://github.com/casedone/youtube-summarizer-ollama) - 使用 Ollama、Llama、LangChain 和 Gradio 构建YouTube 汇总器 <sub>⭐ 28 · Python</sub>
+- [rami-maalouf/snipTube](https://github.com/rami-maalouf/snipTube) - 一个浏览器扩展,允许您突出显示、标记、注释和导出您最喜欢的YouTube视频中的最佳部分,并用AI的力量对这些片段进行总结。 Winner of Boost Hacks <sub>⭐ 28 · TypeScript</sub>
+- [vaibhav-malpani/ComicAI](https://github.com/vaibhav-malpani/ComicAI) - AI动漫与动画视频使用Google的双子座,Imingn & Veo 3. 通过简单的网络界面创造幽默,教育,或启发性的故事. <sub>⭐ 28 · JavaScript</sub>
+- [GURPREETKAURJETHRA/Youtube-Video-Transcribe-Summarizer-LLM-App](https://github.com/GURPREETKAURJETHRA/Youtube-Video-Transcribe-Summarizer-LLM-App) - YouTube Video Summmarization App 使用Llama 2, Haystack, Whisper 和 Streamlit 等开源LLM和Framews 构建. 本应用程序在CPU上顺利运行,因为Llama 2 型号以 GGUF 格式加载. . <sub>⭐ 27 · Python</sub>
+- [Mo7ammedd/youtube-summary](https://github.com/Mo7ammedd/youtube-summary) - 基于 URL 的 YouTube 视频摘要 <sub>⭐ 27 · Python</sub>
+- [GoldLegendW80/llm-video-maker](https://github.com/GoldLegendW80/llm-video-maker) - 将一个提示转换成一个完成的 MP4. Claude Code, cursor, Codex & Windsurf 的AI代理技能,生成TikTok/Reels/Shorts,YouTube内置,启动英雄循环和数据解释器——与AI... <sub>⭐ 26 · JavaScript</sub>
+- [HazWahb8080/chatvideoyt](https://github.com/HazWahb8080/chatvideoyt) - 与 AI 的 Youtube 视频进行总结和聊天 <sub>⭐ 26 · JavaScript</sub>
+- [ps1899/YouTube-Transcript-Summarizer](https://github.com/ps1899/YouTube-Transcript-Summarizer) - Chrome Extension向后端 REST API 请求执行 NLP 并使用 YouTube 记录片的概要版本进行回复。 <sub>⭐ 26 · Python</sub>
+- [nasqret/live-workshop-skill](https://github.com/nasqret/live-workshop-skill) - Claude Code技能: 将任何讲座变成一个结构化的,可搜索的知识库,并使用现场Whisper转录 <sub>⭐ 25 · Python</sub>
+- [ringger/transcribe-critic](https://github.com/ringger/transcribe-critic) - 多源语录合并受文字批评启发——LLM判定多Whiper,YouTube字幕和外部语录质量更高. 包括扬声器的对称化和. <sub>⭐ 25 · Python</sub>
+- [maximusolution/youtube-summarizer](https://github.com/maximusolution/youtube-summarizer) - 一个能够自动生成YouTube视频综合摘要的强大的网络应用程序 <sub>⭐ 24 · TypeScript</sub>
+- [AiGptCode/YDS-YOUTUBE-DOWNLOADER-AND-SUMMERIZE](https://github.com/AiGptCode/YDS-YOUTUBE-DOWNLOADER-AND-SUMMERIZE) - 这是一个Telegram bot,可以从YouTube视频下载音频,并使用OpenAI的GPT-3引擎对内容进行总结,是快速从YouTube内容中提取见解的实用工具. <sub>⭐ 23 · Python</sub>
+- [chrisrichardf/Smart-Lecture-Notes-Generator](https://github.com/chrisrichardf/Smart-Lecture-Notes-Generator) - 拟议的系统使用自然语言处理,机器学习,和文本总结技术,从教育视频中快速准确地生成简明的讲座笔记. It... <sub>⭐ 22 · HTML</sub>
+- [Harshit-shrivastav/YouTube-Summarizer-Bot](https://github.com/Harshit-shrivastav/YouTube-Summarizer-Bot) - 一个电报机器人,可以使用AI来总结Youtube的视频 <sub>⭐ 22 · Python</sub>
+- [SuienS/manim-trainer](https://github.com/SuienS/manim-trainer) - 一个用于微调大语言模型(LLMs)的工具包,使用监督精度调图(SFT)和可视定位强化学习使用集团相对政策生成Manim动画代码. . <sub>⭐ 22 · Python</sub>
+- [ApliroAI/manim-video-lab](https://github.com/ApliroAI/manim-video-lab) - 制作质量的Manim动画工作流程的代理技能 <sub>⭐ 21 · PowerShell</sub>
+- [veeravignesh1/YouTube-Summarizer](https://github.com/veeravignesh1/YouTube-Summarizer) - 利用NLP和总结技术提取视频的关键信息 <sub>⭐ 21 · Jupyter Notebook</sub>
+- [mayooear/free-ai-youtube-summarizer](https://github.com/mayooear/free-ai-youtube-summarizer) - 使用错误指令- v0.2、langchain和lama_index在您的计算机上免费使用 AI Youtube 汇总器 <sub>⭐ 20 · Jupyter Notebook</sub>
+- [paulnegz/manim-mcp](https://github.com/paulnegz/manim-mcp) - 通过 Manim. Text → Code → Video. CLI,代理模式和 MCP 服务器的文本到视频动画 <sub>⭐ 20 · Python</sub>
+- [sadekxD/vox-style-collage-video-skill](https://github.com/sadekxD/vox-style-collage-video-skill) - 代理技能将脚本或事实列表转换成Vox风格的纸库解说视频——以AI生成的剪切图像,有限范围动画,音乐,和ffmpeg为首的管道. . <sub>⭐ 20</sub>
+- [sid-sr/K-Means-Visualiser](https://github.com/sid-sr/K-Means-Visualiser) - 使用3 Blue1Brown 的manim引擎制作动画 K- Means 集群 <sub>⭐ 20 · Jupyter Notebook</sub>
+- [vakovalskii/nd-video-studio](https://github.com/vakovalskii/nd-video-studio) - HTML(HyperFrames → MP4)的解说视频与AI 旁白,音乐和混音——克劳德代码/关于神经深层模型的Codex技巧 <sub>⭐ 20 · Python</sub>
+- [assafkip/claude-video-editor](https://github.com/assafkip/claude-video-editor) - 通过和克劳德交谈来编辑视频,或者从无到有生成视频。剪辑、字幕、分级真实镜头;或者 AI 键框+图像到视频+ v3 语音转换,供完全生成的解说者使用 。 <sub>⭐ 19 · Python</sub>
+- [holy-templar/vox-animated-ad-mcp](https://github.com/holy-templar/vox-animated-ad-mcp) - Vox风格的纸曲动画为AI代理商制作的视频技巧——Claude + MaxFusion AI MCP(Google Omni). 1句中,一个完整的解释器或广告出局,完全来自聊天. <sub>⭐ 19</sub>
+- [igreat/animations](https://github.com/igreat/animations) - 我在这里会把所有代码 用来制作我的解释性视频! <sub>⭐ 19 · Python</sub>
+- [Mng-dev-ai/explainer-video](https://github.com/Mng-dev-ai/explainer-video) - AI 技能将任何话题变成动画解说视频。 运行于本地, 免费, 与 Claude Code / Codex / Cursor 合作 。 <sub>⭐ 19 · JavaScript</sub>
+- [shreyanspagariya/sankshep](https://github.com/shreyanspagariya/sankshep) - Video Summalization - 将一个视频讲座进行总结,并将其转换为使用Speak-to-text,Keyword提取和OpenCV Shot检测的幻灯片放映. <sub>⭐ 19 · Shell</sub>
+- [wstcpyt/manim-mcp](https://github.com/wstcpyt/manim-mcp) - 用于数学动画的 manim mcp 服务器 <sub>⭐ 19 · Python</sub>
 
 ## 🏫 平台与课堂
 
 > 学习环境和课堂工具。
 
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. (NeurIPS 2024) <sub>⭐ 20.5k · Python</sub>
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and… <sub>⭐ 2.7k · Python</sub>
-- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs. <sub>⭐ 2.0k · Java</sub>
-- [mozilla/bugbug](https://github.com/mozilla/bugbug) - Platform for Machine Learning projects on Software Engineering <sub>⭐ 571 · Python</sub>
-- [Rivflyyy/HappyTorch](https://github.com/Rivflyyy/HappyTorch) - A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more A friendly environment to help you deeply understand deep learning components through hands-on practice. Like LeetCode… <sub>⭐ 462 · Jupyter Notebook</sub>
-- [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions. <sub>⭐ 445 · TypeScript</sub>
-- [dodona-edu/dolos](https://github.com/dodona-edu/dolos) - Source code plagiarism detection <sub>⭐ 350 · TypeScript</sub>
-- [blingenf/copydetect](https://github.com/blingenf/copydetect) - Code plagiarism detection tool <sub>⭐ 327 · Python</sub>
-- [ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) - Multi-agent demo platform for Titans (arXiv:2501.00663) — neural networks that learn to memorize at test time. 7 AI agents, native desktop UI. <sub>⭐ 289 · Python</sub>
-- [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - Code and Data artifact for NeurIPS 2023 paper - "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context". multispy is a lsp client library in Python intended to be used to… <sub>⭐ 280 · Python</sub>
-- [cs50/compare50](https://github.com/cs50/compare50) - This is compare50, a fast and extensible plagiarism-detection tool. <sub>⭐ 231 · Python</sub>
-- [fyrestone/pycode_similar](https://github.com/fyrestone/pycode_similar) - A simple plagiarism detection tool for python code <sub>⭐ 191 · Python</sub>
-- [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - A small utility to use Ollama models in LM Studio (and vice versa via symlinking) without duplicating disk space <sub>⭐ 170 · Go</sub>
-- [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - Let's be honest, who really knows how to use ffmpeg. Its that tool that is so helpful but not needed enough to justify learning all of its inner workings. The days of scrolling through stackoverflow… <sub>⭐ 147 · Python</sub>
-- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - Personal Multi-agent AI assistant platform, written in Rust — multi-agent, self-learning skills, RAG, MCP, and agentskills.io compatible <sub>⭐ 143 · Rust</sub>
-- [X-isdoingreat/canvas-pilot](https://github.com/X-isdoingreat/canvas-pilot) - Local-first Canvas LMS AI agent that learns each course's recurring assignment workflow and reuses it through scan -> approval -> execute with student review. <sub>⭐ 125 · Python</sub>
-- [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool <sub>⭐ 94 · Java</sub>
-- [edmozley/freeitsm](https://github.com/edmozley/freeitsm) - A completely free ITSM tool <sub>⭐ 92 · PHP</sub>
-- [Selleo/mentingo](https://github.com/Selleo/mentingo) - White-label AI-mentor LMS platform for enterprise L&D <sub>⭐ 90 · TypeScript</sub>
-- [NoplagLabs/noplag-engine](https://github.com/NoplagLabs/noplag-engine) - Open-source plagiarism detection engine — verbatim & near-verbatim matching you can read, fork, and run on your own hardware. Apache-2.0. <sub>⭐ 83 · Python</sub>
-- [AGI-Eval-Official/CATArena](https://github.com/AGI-Eval-Official/CATArena) - CATArena is an engineering-level tournament evaluation platform for Large Language Model-driven code agents (LLM-driven code agents), based on an iterative competitive peer learning framework. <sub>⭐ 69 · Python</sub>
-- [bijonai/ChalkAI](https://github.com/bijonai/ChalkAI) - ChalkAI: AI-powered interactive lesson generator, to make your creative classroom. <sub>⭐ 63 · TypeScript</sub>
-- [RitechSolutions/genassist](https://github.com/RitechSolutions/genassist) - GenAssist combines orchestration, runtime, analytics, and learning — in one open platform. <sub>⭐ 61 · Python</sub>
-- [Wazzabeee/copy-spotter](https://github.com/Wazzabeee/copy-spotter) - Make plagiarism detection easier. This script will find similar sentences between given files and highlight them in a side by side comparison. <sub>⭐ 58 · Python</sub>
-- [5h3rd1l/zen-os](https://github.com/5h3rd1l/zen-os) - ZEN-OS is a modern Obsidian command center with Google Classroom sync, AI assistant, CTF tracker, Pomodoro timer, and quick links in a single dashboard. <sub>⭐ 57</sub>
-- [autogame-17/scribe-studio](https://github.com/autogame-17/scribe-studio) - Scribe — multi-platform video → local Whisper transcription → LLM proofread with Typeless-style glossary learning. Wails v2 desktop app for macOS & Windows. <sub>⭐ 57 · Go</sub>
-- [moodlehq/wiki-rag](https://github.com/moodlehq/wiki-rag) - An experimental Retrieval-Augmented Generation (RAG) system specialised in ingesting MediaWiki sites via their API and providing an OpenAI API interface to interact with them. <sub>⭐ 54 · Python</sub>
-- [thu-cs-lab/jieplag](https://github.com/thu-cs-lab/jieplag) - Plagiarism detection tool in Rust (inspired by Stanford Moss) <sub>⭐ 54 · Rust</sub>
-- [aligorithm/Zero-Health](https://github.com/aligorithm/Zero-Health) - Zero trust. Zero security. Total exposure. A deliberately vulnerable health tech platform with AI Chatbot for learning about application security and ethical hacking. It contains vulnerabilities from… <sub>⭐ 49 · JavaScript</sub>
-- [Limekiller/moodle-block_openai_chat](https://github.com/Limekiller/moodle-block_openai_chat) - An AI chat block for Moodle <sub>⭐ 42 · PHP</sub>
-- [zzhang-cn/LLM4LLM](https://github.com/zzhang-cn/LLM4LLM) - A flipped classroom series on understanding LLMs for non-CS/AI students <sub>⭐ 42</sub>
-- [suyash248/plagiarism_detection](https://github.com/suyash248/plagiarism_detection) - Plagiarism detection using TF-IDF and cosine similarity algorithms. <sub>⭐ 40 · Python</sub>
-- [maggike/Full-Stack-AI-Course-Creator-Learning-Journey](https://github.com/maggike/Full-Stack-AI-Course-Creator-Learning-Journey) - Learning journey - Your ultimate 1-stop learning platform to generate the best learning courses tailored to your needs using Open AI's immensely powerful LLM - GPT4 <sub>⭐ 38 · TypeScript</sub>
-- [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) - How many bugs can LMs find & fix in large codebases? <sub>⭐ 37 · Python</sub>
-- [aisummerofcode/aisoc-season-2](https://github.com/aisummerofcode/aisoc-season-2) - The world's no 1 classroom for incubating AI talent. 4 months of hands-on, no-BS technical training in ML, LLMs and Production AI engineering. <sub>⭐ 35 · Jupyter Notebook</sub>
-- [marcusgreen/moodle-qtype_aitext](https://github.com/marcusgreen/moodle-qtype_aitext) - Moodle AIText question type that uses a Large Language Model for feedback <sub>⭐ 33 · PHP</sub>
-- [MonishRaman/Placify-Smarter_Placements-Sharper_Talent](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent) - Placify is an AI-powered recruitment and skill-assessment platform that streamlines 60–70% of campus placements by automating resume screening, adaptive assessments, and personalized feedback. It… <sub>⭐ 33 · JavaScript</sub>
-- [stef41/lmscan](https://github.com/stef41/lmscan) - Detect AI-generated text and fingerprint which LLM wrote it. Open-source GPTZero alternative. Zero dependencies, works offline. <sub>⭐ 33 · Python</sub>
-- [timfel/moss.rb](https://github.com/timfel/moss.rb) - A plagiarism detection engine based on Stanford's MOSS(Measure of Software Similarity) <sub>⭐ 31 · Ruby</sub>
-- [AMAAI-Lab/MelodySim](https://github.com/AMAAI-Lab/MelodySim) - MelodySim: Measuring Melody-aware Music Similarity for Plagiarism Detection <sub>⭐ 29 · Python</sub>
-- [EduBase/MCP](https://github.com/EduBase/MCP) - The EduBase MCP server enables Claude and other LLMs to interact with EduBase's comprehensive e-learning platform through the Model Context Protocol (MCP). <sub>⭐ 29 · TypeScript</sub>
-- [harirakul/Plagiarism-Detection](https://github.com/harirakul/Plagiarism-Detection) - Online tool to check for plagiarism of inputted text. <sub>⭐ 29 · Python</sub>
-- [Poetrynan/Muster](https://github.com/Poetrynan/Muster) - Desktop app that aggregates your Monash Moodle data — courses, deadlines, quizzes, announcements and resources in one beaufiul dashboard, with due-date reminders and AI summaries. <sub>⭐ 29 · TypeScript</sub>
-- [sonuoffsec/DVAP](https://github.com/sonuoffsec/DVAP) - An OWASP-aligned intentionally vulnerable platform for learning and testing AI, LLM, RAG, MCP, and Agentic AI security. <sub>⭐ 29 · TypeScript</sub>
-- [bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude](https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude) - Autonomous self-learning agent plugin for Claude Code — 36 specialized subagents in a 4-tier architecture (analysis, planning, execution, validation), 27 skills, 41 slash commands across 10… <sub>⭐ 28 · Python</sub>
-- [prudentsurfa/aweone-eino-learn](https://github.com/prudentsurfa/aweone-eino-learn) - Eino Learn is a free and open-source learning platform that provides a wide range of educational resources and tools for learners of all ages. It offers a variety of courses, tutorials, and… <sub>⭐ 28 · Go</sub>
-- [zenUnicorn/AI-Powered-Learning-Management-System](https://github.com/zenUnicorn/AI-Powered-Learning-Management-System) - AI-Powered LMS — Ollama + Mistral Demo A fully local AI Learning Management System. No cloud API keys required <sub>⭐ 28 · JavaScript</sub>
-- [savvides/idstack](https://github.com/savvides/idstack) - Evidence-based instructional design skills for Claude Code. 11 AI skills that check alignment, accessibility, cognitive load, and evidence strength. Import from any LMS or authoring tool. <sub>⭐ 27 · Go Template</sub>
-- [TristanPerry/plagiarism-detection-software](https://github.com/TristanPerry/plagiarism-detection-software) - Plagiarism detection software written in Python 3 and Django <sub>⭐ 27 · HTML</sub>
-- [gauravansal/Plagiarism-Detection](https://github.com/gauravansal/Plagiarism-Detection) - In this project, we will be building a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that… <sub>⭐ 26 · Jupyter Notebook</sub>
-- [Kunal30/Non-Intrusive-Attendance-Marking-System-using-AI](https://github.com/Kunal30/Non-Intrusive-Attendance-Marking-System-using-AI) - The project that we worked on this summer internship falls in the domain of research in IoT (Internet of Things). Initially, the mentor asked us to find real-life problems, which we would attempt to… <sub>⭐ 26 · Python</sub>
-- [meshackbahati/plagiarism-detection](https://github.com/meshackbahati/plagiarism-detection) - Plagiarism and AI-generated content detection system with text and image comparison,. <sub>⭐ 26 · Python</sub>
-- [tomabai/llm-sec](https://github.com/tomabai/llm-sec) - A hands-on learning platform for understanding and testing LLM security vulnerabilities <sub>⭐ 26 · TypeScript</sub>
-- [ilesoviy/OpenAI_LMS](https://github.com/ilesoviy/OpenAI_LMS) - OpenEDX forked LMS integrated with OpenAI <sub>⭐ 25 · Python</sub>
-- [oscarkarnalim/sourcecodeplagiarismdataset](https://github.com/oscarkarnalim/sourcecodeplagiarismdataset) - The dataset can be used to evaluate the effectiveness of source code plagiarism detection. Unique to this dataset, both intention to plagiarise and advanced plagiarism attacks are considered in its… <sub>⭐ 25</sub>
-- [renee-jia/alpha-agent](https://github.com/renee-jia/alpha-agent) - An AI-driven multi-agent trading platform for options trading and stock trends analysis. This project leverages advanced machine learning, real-time market data, and a modular multi-agent framework. <sub>⭐ 24 · Python</sub>
-- [jgera/plagiarism](https://github.com/jgera/plagiarism) - Plagiarism detection <sub>⭐ 23 · Python</sub>
-- [Copyleaks/ng-web-report](https://github.com/Copyleaks/ng-web-report) - Copyleaks Web Report is an easy-to-use Angular module from Copyleaks for quick plagiarism and AI detection. It offers a simple and adaptable way to show how original submitted texts or files are… <sub>⭐ 22 · TypeScript</sub>
-- [duggal1/cognitica](https://github.com/duggal1/cognitica) - Open source AI LMS enterprise software <sub>⭐ 22 · TypeScript</sub>
-- [joepetrakovich/obsidian-lmstudio-connect](https://github.com/joepetrakovich/obsidian-lmstudio-connect) - An Obsidian plugin to connect and chat with AI running on an LM Studio instance. <sub>⭐ 22 · TypeScript</sub>
-- [ThanhHung2112/LMS_NextGen](https://github.com/ThanhHung2112/LMS_NextGen) - An AI assistant for a Learning Management System (LMS) <sub>⭐ 22 · PHP</sub>
-- [a-nikolaev/study-in-scarlet](https://github.com/a-nikolaev/study-in-scarlet) - A simple Unix-friendly toolkit for plagiarism detection. <sub>⭐ 21 · Ruby</sub>
-- [hhhhhhhhhn/HookeJs](https://github.com/hhhhhhhhhn/HookeJs) - A simple plagiarism detection library <sub>⭐ 21 · JavaScript</sub>
-- [theringsofsaturn/3D-ai-school-threejs](https://github.com/theringsofsaturn/3D-ai-school-threejs) - Immersive 3D AI classroom using Three.js, React Three Fiber, and the OpenAI API. <sub>⭐ 21 · JavaScript</sub>
-- [BlinkZer0/LM-Studio-IDE-Plugin](https://github.com/BlinkZer0/LM-Studio-IDE-Plugin) - A Plugin that Integrades LM Studio with VS Code and Windsurf <sub>⭐ 20 · TypeScript</sub>
-- [Chris00/ocaml-moss](https://github.com/Chris00/ocaml-moss) - Client for the MOSS plagiarism detection service <sub>⭐ 20 · OCaml</sub>
-- [Manavalan2517/ai-lms](https://github.com/Manavalan2517/ai-lms) - This project is an AI-powered Learning Management System (AI LMS) built using Next.js, Clerk for authentication, Inngest for function orchestration, Drizzle ORM for database interaction, and Google… <sub>⭐ 20 · JavaScript</sub>
-- [alfredang/AI-LMS-TMS](https://github.com/alfredang/AI-LMS-TMS) - Self-hosted AI-powered Learning & Training Management System for Singapore's SkillsFuture ecosystem. Features SSG/TPGateway API integration, multi-role access, OTP login, QuickBooks finance… <sub>⭐ 19 · TypeScript</sub>
-- [madhanio/AI-in-LMS](https://github.com/madhanio/AI-in-LMS) - Production-ready RAG assistant for Moodle — containerized with Jenkins CI/CD on AWS. <sub>⭐ 19 · Dart</sub>
-- [thaochu05/AI-Personal-Trainer](https://github.com/thaochu05/AI-Personal-Trainer) - An easy-to-use platform for your real-time gym posture correction and weekly personalized work-out plans using machine learning algorithms and Streamlit <sub>⭐ 19 · Python</sub>
-- [0x03c1/ClassRoom](https://github.com/0x03c1/ClassRoom) - O repositório reúne os materiais utilizados em disciplinas que ministrei e ministro em diferentes instituições de ensino superior. <sub>⭐ 18 · C</sub>
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent使用一个 GitHub 问题,并尝试用您所选择的 LM 来自动修复它,也可以用于攻击性网络安全或竞争性编码挑战。 (NeurIPS 2024) <sub>⭐ 20.5k · Python</sub>
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI使用声波分析来重新发现被遗忘的歌曲,在您的音乐库中发现隐藏的连接,并为纳维德罗姆,杰利芬,LMS,Lyrion,Emby和. <sub>⭐ 2.7k · Python</sub>
+- [jplag/JPlag](https://github.com/jplag/JPlag) - 艺术源代码 Plagiarism 和 Collaction 检测。 请检查一组程序中的盗版 。 <sub>⭐ 2.0k · Java</sub>
+- [mozilla/bugbug](https://github.com/mozilla/bugbug) - 软件工程机器学习项目平台 <sub>⭐ 571 · Python</sub>
+- [Rivflyyy/HappyTorch](https://github.com/Rivflyyy/HappyTorch) - 一个PyTorch编码练习平台——涵盖LLM,Difmusion,PEFT,以及更友好的环境,帮助您通过亲身实践深入了解深层学习组件. LietCode... <sub>⭐ 462 · Jupyter Notebook</sub>
+- [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS应用软件,主要使用Next.js,Supabase和Strede进行用户认证,订阅和支付——还整合了Vapi AI语音代理,用于无缝,互动的学习课程. <sub>⭐ 445 · TypeScript</sub>
+- [dodona-edu/dolos](https://github.com/dodona-edu/dolos) - 源代码盗版检测 <sub>⭐ 350 · TypeScript</sub>
+- [blingenf/copydetect](https://github.com/blingenf/copydetect) - 密码盗版检测工具 <sub>⭐ 327 · Python</sub>
+- [ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) - 泰坦斯的多代理演示平台(arXiv:2501.00663)——在测试时学会记忆的神经网络. 7AI代理,本土桌面UI. <sub>⭐ 289 · Python</sub>
+- [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - NeurIPS 2023纸的代码和数据文物——"监控-引导代码LMs的解码与存储背景的静态分析". 多spy是Python的一个ISp客户端库,意在用于. <sub>⭐ 280 · Python</sub>
+- [cs50/compare50](https://github.com/cs50/compare50) - 这是比较50,一种快速和可扩展的盗版-探测工具. <sub>⭐ 231 · Python</sub>
+- [fyrestone/pycode_similar](https://github.com/fyrestone/pycode_similar) - 用于 Python 代码的简单 plagiarism 检测工具 <sub>⭐ 191 · Python</sub>
+- [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - 在LM Studio中使用Ollama模型(反之亦然通过连锁)而无需复制磁盘空间的小型工具 <sub>⭐ 170 · Go</sub>
+- [gstrenge/llmpeg](https://github.com/gstrenge/llmpeg) - 老实说,谁真正知道如何使用ffmpeg。它的工具虽然很有帮助,但并不足以证明学习它的所有内部工作是正当的。 <sub>⭐ 147 · Python</sub>
+- [opencrust-org/opencrust](https://github.com/opencrust-org/opencrust) - 个人多代理AI助手平台,用Rust写成——多代理,自学技能,RAG,MCP,和代理技能.io兼容 <sub>⭐ 143 · Rust</sub>
+- [X-isdoingreat/canvas-pilot](https://github.com/X-isdoingreat/canvas-pilot) - 本地第一Canvas LMS AI代理,学习每门课程的经常性任务工作流程,并通过扫描 - > 批准 - > 与学生审查一起执行. <sub>⭐ 125 · Python</sub>
+- [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - 源代码 plagiarism 检测工具 <sub>⭐ 94 · Java</sub>
+- [edmozley/freeitsm](https://github.com/edmozley/freeitsm) - 一个完全自由的ITSM工具 <sub>⭐ 92 · PHP</sub>
+- [Selleo/mentingo](https://github.com/Selleo/mentingo) - 企业L&D的白标签AI-mentor LMS平台 <sub>⭐ 90 · TypeScript</sub>
+- [NoplagLabs/noplag-engine](https://github.com/NoplagLabs/noplag-engine) - 开源plagiarism检测引擎——逐字加近verbatim匹配,您可以读取,叉子并运行在自己的硬件上. Apache-2.0. <sub>⭐ 83 · Python</sub>
+- [AGI-Eval-Official/CATArena](https://github.com/AGI-Eval-Official/CATArena) - CATArena是大型语言模型驱动代码代理(LLM驱动代码代理)的工程级锦标赛评价平台,基于迭代竞争同行学习框架. <sub>⭐ 69 · Python</sub>
+- [bijonai/ChalkAI](https://github.com/bijonai/ChalkAI) - Chalkai:人工智能互动教学生成器, 让你的创意教室。 <sub>⭐ 63 · TypeScript</sub>
+- [RitechSolutions/genassist](https://github.com/RitechSolutions/genassist) - GenAsist将管弦乐,运行时间,分析,以及学习结合起来——在一个开放的平台上. <sub>⭐ 61 · Python</sub>
+- [Wazzabeee/copy-spotter](https://github.com/Wazzabeee/copy-spotter) - 使盗版检测更加容易。 此脚本会在给定文件之间找到类似的句子, 并用并排比较来突出它们 。 <sub>⭐ 58 · Python</sub>
+- [5h3rd1l/zen-os](https://github.com/5h3rd1l/zen-os) - ZEN-OS是一个现代的Obsidian指挥中心,拥有Google课堂同步,AI助手,CTF跟踪器,Pomodoro计时器,以及一个单一仪表板中的快速链接. <sub>⭐ 57</sub>
+- [autogame-17/scribe-studio](https://github.com/autogame-17/scribe-studio) - Scribe——多平台视频 – 本地Whisper翻譯版 → LLM校对,使用Typeles风格的词汇学习. Wails v2桌面应用程序 macOS & Windows. <sub>⭐ 57 · Go</sub>
+- [moodlehq/wiki-rag](https://github.com/moodlehq/wiki-rag) - 一个实验性的检索-增强生成(RAG)系统,专门通过MediaWiki网站的API进行摄取,并提供OpenAI API接口与它们互动. <sub>⭐ 54 · Python</sub>
+- [thu-cs-lab/jieplag](https://github.com/thu-cs-lab/jieplag) - 普拉吉亚主义在Rust的检测工具(由斯坦福·莫斯(英语:Stanford Moss)的启发) <sub>⭐ 54 · Rust</sub>
+- [aligorithm/Zero-Health](https://github.com/aligorithm/Zero-Health) - 零信任,零安全,完全暴露,与AI Chatbot合作的故意脆弱的健康技术平台,用于学习应用安全和道德黑客,它包含了来自... <sub>⭐ 49 · JavaScript</sub>
+- [Limekiller/moodle-block_openai_chat](https://github.com/Limekiller/moodle-block_openai_chat) - Moodle 的 AI 聊天块 <sub>⭐ 42 · PHP</sub>
+- [zzhang-cn/LLM4LLM](https://github.com/zzhang-cn/LLM4LLM) - 面向非CS/AI学生的关于理解LLMs的翻转课堂系列 <sub>⭐ 42</sub>
+- [suyash248/plagiarism_detection](https://github.com/suyash248/plagiarism_detection) - 利用TF-IDF和余弦相似性算法进行等离子体探测. <sub>⭐ 40 · Python</sub>
+- [maggike/Full-Stack-AI-Course-Creator-Learning-Journey](https://github.com/maggike/Full-Stack-AI-Course-Creator-Learning-Journey) - 学习之旅 - 您的终极一站式学习平台,使用开放AI的极强LLM - GPT4来制作适合您需要的最佳学习课程. <sub>⭐ 38 · TypeScript</sub>
+- [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) - LMs 在大型代码库中能找到多少个错误( F) ? <sub>⭐ 37 · Python</sub>
+- [aisummerofcode/aisoc-season-2](https://github.com/aisummerofcode/aisoc-season-2) - 世界上没有1个教室可以孵化AI人才. 4个月实践,无BS技术培训ML,LLM和Production AI工程. <sub>⭐ 35 · Jupyter Notebook</sub>
+- [marcusgreen/moodle-qtype_aitext](https://github.com/marcusgreen/moodle-qtype_aitext) - 使用大语言模型进行反馈的 Moodle AIText 问题类型 <sub>⭐ 33 · PHP</sub>
+- [MonishRaman/Placify-Smarter_Placements-Sharper_Talent](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent) - Placify是一个人工智能强力的招聘和技能评估平台,通过自动化的恢复筛选、适应性评估和个性化反馈来精简60-70%的校园安置。 <sub>⭐ 33 · JavaScript</sub>
+- [stef41/lmscan](https://github.com/stef41/lmscan) - 检测 LLM 所写的 AI 生成的文本和指纹。 开源 GPTZero 替代品。 0 依赖性, 工作离线 。 <sub>⭐ 33 · Python</sub>
+- [timfel/moss.rb](https://github.com/timfel/moss.rb) - 基于 Stanford 的 MOSS( 软件相似度测量) 的 盗版检测引擎 <sub>⭐ 31 · Ruby</sub>
+- [AMAAI-Lab/MelodySim](https://github.com/AMAAI-Lab/MelodySim) - MelodySim:测量Melody-aware 音乐的相似性,用于等离子论检测 <sub>⭐ 29 · Python</sub>
+- [EduBase/MCP](https://github.com/EduBase/MCP) - EduBase MCP服务器使得克劳德和其他LLMs能够通过模型背景协议(MCP)与EduBase的综合电子学习平台互动. <sub>⭐ 29 · TypeScript</sub>
+- [harirakul/Plagiarism-Detection](https://github.com/harirakul/Plagiarism-Detection) - 在线工具,用于检查输入文本的操纵性。 <sub>⭐ 29 · Python</sub>
+- [Poetrynan/Muster](https://github.com/Poetrynan/Muster) - 桌面应用程序将您的 Monash Moodle 数据汇总到一个beaufiul 仪表板中,其中包含日期提醒和AI摘要。 <sub>⭐ 29 · TypeScript</sub>
+- [sonuoffsec/DVAP](https://github.com/sonuoffsec/DVAP) - OWASP与故意脆弱的平台相配合,用于学习和测试AI、LLM、RAG、MCP和Agentic AI安全。 <sub>⭐ 29 · TypeScript</sub>
+- [bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude](https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude) - Claude Code的自主自学代理插件——四级架构(分析,规划,执行,验证)中的36个专业副代理,27个技能,41个斜线指令横跨10个... <sub>⭐ 28 · Python</sub>
+- [prudentsurfa/aweone-eino-learn](https://github.com/prudentsurfa/aweone-eino-learn) - Eino Learn是一个免费的开放源代码学习平台,为各个年龄段的学习者提供广泛的教育资源和工具,提供各种课程,辅导,以及. <sub>⭐ 28 · Go</sub>
+- [zenUnicorn/AI-Powered-Learning-Management-System](https://github.com/zenUnicorn/AI-Powered-Learning-Management-System) - AI-Powered LMS — Ollama + Mistral Demo A 完全本地的 AI 学习管理系统。不需要云 API 键 <sub>⭐ 28 · JavaScript</sub>
+- [savvides/idstack](https://github.com/savvides/idstack) - Claude Code基于证据的教学设计技能。 11 AI 技能可以检查校正、可访问性、认知负载和证据强度。 从任何 LMS 或作者工具导入 。 <sub>⭐ 27 · Go Template</sub>
+- [TristanPerry/plagiarism-detection-software](https://github.com/TristanPerry/plagiarism-detection-software) - Python 3 和 Django 编写的等离子体检测软件 <sub>⭐ 27 · HTML</sub>
+- [gauravansal/Plagiarism-Detection](https://github.com/gauravansal/Plagiarism-Detection) - 在这个项目中,我们将建造一个检测器,检查文本文件,并进行二进制分类;将该文件标注为是否被标记,取决于其相似性如何. . <sub>⭐ 26 · Jupyter Notebook</sub>
+- [Kunal30/Non-Intrusive-Attendance-Marking-System-using-AI](https://github.com/Kunal30/Non-Intrusive-Attendance-Marking-System-using-AI) - 我们这个暑期实习项目属于IOT(物联网)的研究领域。 最初,导师要求我们找出现实生活中的问题,我们将试图... <sub>⭐ 26 · Python</sub>
+- [meshackbahati/plagiarism-detection](https://github.com/meshackbahati/plagiarism-detection) - Plagiarism和AI生成的内容检测系统,有文本和图像对比,. <sub>⭐ 26 · Python</sub>
+- [tomabai/llm-sec](https://github.com/tomabai/llm-sec) - 了解和测试LLM安全脆弱性的实践学习平台 <sub>⭐ 26 · TypeScript</sub>
+- [ilesoviy/OpenAI_LMS](https://github.com/ilesoviy/OpenAI_LMS) - OpenEDX 福尔德LMS 与 OpenAI 集成 <sub>⭐ 25 · Python</sub>
+- [oscarkarnalim/sourcecodeplagiarismdataset](https://github.com/oscarkarnalim/sourcecodeplagiarismdataset) - 该数据集可用于评价源代码盗版侦测的有效性. 本数据集的独特性,既有意盗版,又有意高级盗版攻击,都在其... <sub>⭐ 25</sub>
+- [renee-jia/alpha-agent](https://github.com/renee-jia/alpha-agent) - 一个AI驱动的多代理交易平台,用于期权交易和股票趋势分析. 这个项目利用了先进的机器学习,实时市场数据,以及模块化的多代理框架. <sub>⭐ 24 · Python</sub>
+- [jgera/plagiarism](https://github.com/jgera/plagiarism) - 普拉吉亚主义检测 <sub>⭐ 23 · Python</sub>
+- [Copyleaks/ng-web-report](https://github.com/Copyleaks/ng-web-report) - Copyleaks Web Report是来自Copyleaks的易于使用的Angular模块,用于快速的盗版和AI检测,它提供了一种简单且适应性化的方法,以显示所提交的原始文本或文件是如何...... <sub>⭐ 22 · TypeScript</sub>
+- [duggal1/cognitica](https://github.com/duggal1/cognitica) - 开源AI LMS 企业软件 <sub>⭐ 22 · TypeScript</sub>
+- [joepetrakovich/obsidian-lmstudio-connect](https://github.com/joepetrakovich/obsidian-lmstudio-connect) - 一个在 LM Studio 实例中运行的 AI 连接和聊天的 Obsidian 插件 。 <sub>⭐ 22 · TypeScript</sub>
+- [ThanhHung2112/LMS_NextGen](https://github.com/ThanhHung2112/LMS_NextGen) - 学习管理系统助理 <sub>⭐ 22 · PHP</sub>
+- [a-nikolaev/study-in-scarlet](https://github.com/a-nikolaev/study-in-scarlet) - 一个简单的Unix友好工具箱,用于盗版检测. <sub>⭐ 21 · Ruby</sub>
+- [hhhhhhhhhn/HookeJs](https://github.com/hhhhhhhhhn/HookeJs) - 一个简单的盗版检测库 <sub>⭐ 21 · JavaScript</sub>
+- [theringsofsaturn/3D-ai-school-threejs](https://github.com/theringsofsaturn/3D-ai-school-threejs) - immersive 3D AI教室使用Tree.js,React Three Fiber,以及OpenAI API. <sub>⭐ 21 · JavaScript</sub>
+- [BlinkZer0/LM-Studio-IDE-Plugin](https://github.com/BlinkZer0/LM-Studio-IDE-Plugin) - 一个将 LM 工作室与 VS 代码和 Windsurf 合并的插件 <sub>⭐ 20 · TypeScript</sub>
+- [Chris00/ocaml-moss](https://github.com/Chris00/ocaml-moss) - 最低业务安全标准检测服务客户端 <sub>⭐ 20 · OCaml</sub>
+- [Manavalan2517/ai-lms](https://github.com/Manavalan2517/ai-lms) - 这个项目是一个AI动力的学习管理系统(AI LMS),它使用Next.js,Clarks进行认证,Inngest用于函数管弦乐,Drizzle ORM用于数据库交互,以及Google... <sub>⭐ 20 · JavaScript</sub>
+- [alfredang/AI-LMS-TMS](https://github.com/alfredang/AI-LMS-TMS) - 新加坡技能未来生态系统自办AI动力学习和培训管理系统. 地物SSG/TPGateway API集成,多功能访问,OTP登录,QuickBooks财务... <sub>⭐ 19 · TypeScript</sub>
+- [madhanio/AI-in-LMS](https://github.com/madhanio/AI-in-LMS) - 生产准备的面条RAG助理——与Jenkins CI/CD装在AWS上。 <sub>⭐ 19 · Dart</sub>
+- [thaochu05/AI-Personal-Trainer](https://github.com/thaochu05/AI-Personal-Trainer) - 一个方便使用的平台,用于您实时健身姿势校正,以及每周使用机器学习算法和Stremplit的个性化解决计划 <sub>⭐ 19 · Python</sub>
+- [0x03c1/ClassRoom](https://github.com/0x03c1/ClassRoom) - 该资料库收集了我在不同高等教育机构提供和担任部长的学科所用材料。 <sub>⭐ 18 · C</sub>
 
 ---
 [⬆️ 返回顶部](#-教师与教育工作者-的-ai) · [← 按职业划分的 AI 仓库](./README.md)

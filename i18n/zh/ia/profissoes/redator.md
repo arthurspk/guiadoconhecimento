@@ -20,1026 +20,1026 @@
 
 > 用于撰写、审校和改写文本的编辑器与助手。
 
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui <sub>⭐ 16.6k · TypeScript</sub>
-- [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - A Canvas/SVG-based rich text editor <sub>⭐ 5.2k · TypeScript</sub>
-- [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more. <sub>⭐ 2.5k · Swift</sub>
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A high-performance, cross-platform editor that supports WYSIWYG Markdown and general text editing. <sub>⭐ 2.4k · TypeScript</sub>
-- [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support. <sub>⭐ 2.3k · TypeScript</sub>
-- [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content <sub>⭐ 2.3k · Python</sub>
-- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. <sub>⭐ 1.8k · Python</sub>
-- [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor is a next-generation rich text editor for AI. <sub>⭐ 1.8k · TypeScript</sub>
-- [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps. <sub>⭐ 1.4k · Python</sub>
-- [AgriciDaniel/compass](https://github.com/AgriciDaniel/compass) - Compass: run your whole life out of Obsidian. Daily questions, quarterly retreats, planning, habits, tasks, writing, and an AI assistant in the vault. <sub>⭐ 888 · JavaScript</sub>
-- [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Text Correction library written in Rust. <sub>⭐ 675 · Rust</sub>
-- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) - An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills - benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity… <sub>⭐ 672 · Python</sub>
-- [GeekyWizKid/writing-helper](https://github.com/GeekyWizKid/writing-helper) - A Next.js-based AI writing assistant supporting multiple LLM APIs (OpenAI, Claude, Gemini, etc.) with rich style customization features to help content creators improve quality and efficiency. <sub>⭐ 646 · TypeScript</sub>
-- [hanlulong/econ-writing-skill](https://github.com/hanlulong/econ-writing-skill) - Agent Skill that transforms AI assistants into expert economics paper writers. Synthesizes 50+ guides by Cochrane, McCloskey, Shapiro, Head, Bellemare, Goldin, Kremer. Compatible with Claude Code and… <sub>⭐ 635 · Python</sub>
-- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) - AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning <sub>⭐ 593 · Python</sub>
-- [heider-x/vela](https://github.com/heider-x/vela) - AI-powered IDE for novel writing — local LLM + RAG, privacy-first, BYOK. For web fiction authors and creative writers. <sub>⭐ 576 · TypeScript</sub>
-- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion) - End-to-end humanities writing assistant — an Agent Skill (open SKILL.md format). 11 modes from Socratic research-question sharpening through AI-use disclosure. Bilingual (EN/中文), discipline-aware… <sub>⭐ 427 · Python</sub>
-- [indentlabs/notebook](https://github.com/indentlabs/notebook) - Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them. <sub>⭐ 410 · HTML</sub>
-- [adamwlarson/ai-book-writer](https://github.com/adamwlarson/ai-book-writer) - Experimenting with AutoGen to see if an entire book can be written with AI agents <sub>⭐ 398 · Python</sub>
-- [iLearn-Lab/NovelClaw](https://github.com/iLearn-Lab/NovelClaw) - Dynamic-memory-first collaborative AI framework for long-form story generation, chapter planning, and coherent narrative writing <sub>⭐ 377 · Python</sub>
-- [Doriandarko/gemini-writer](https://github.com/Doriandarko/gemini-writer) - AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning <sub>⭐ 339 · Python</sub>
-- [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop <sub>⭐ 315 · TypeScript</sub>
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) - ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it… <sub>⭐ 313 · Python</sub>
-- [PAIR-code/wordcraft](https://github.com/PAIR-code/wordcraft) - Wordcraft is an AI-powered text editor with an emphasis on short story writing <sub>⭐ 308 · TypeScript</sub>
-- [EvolvingLMMs-Lab/lmms-lab-writer](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer) - Agentic LaTeX Writer - Local-first editor for AI-assisted academic writing <sub>⭐ 275 · TypeScript</sub>
-- [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques. <sub>⭐ 271 · Python</sub>
-- [poloclub/wordflow](https://github.com/poloclub/wordflow) - Social and customizable AI writing assistant! <sub>⭐ 271 · TypeScript</sub>
-- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Open-source AI-powered text-based video editor. Edit video by editing text. <sub>⭐ 261 · TypeScript</sub>
-- [datacrystals/AIStoryWriter](https://github.com/datacrystals/AIStoryWriter) - LLM story writer with a focus on high-quality long output based on a user provided prompt. <sub>⭐ 258 · Python</sub>
-- [kanyun-inc/fairseq-gec](https://github.com/kanyun-inc/fairseq-gec) - Source code for paper: Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data <sub>⭐ 251 · Python</sub>
-- [unlayer/react-image-editor](https://github.com/unlayer/react-image-editor) - Image Editor Component for React — crop, resize, filters, draw, text, shapes, stickers, frames, and an AI Assistant <sub>⭐ 251 · TypeScript</sub>
-- [talkstream/ru-text](https://github.com/talkstream/ru-text) - Russian text quality for AI agents — neuroslop cleanup, typography, information style, editorial standards, UX writing, business correspondence. Scores text 0–10. 2,000+ linguistic atoms. <sub>⭐ 245 · Shell</sub>
-- [Hellisotherpeople/Constrained-Text-Generation-Studio](https://github.com/Hellisotherpeople/Constrained-Text-Generation-Studio) - Code repo for "Most Language Models can be Poets too: An AI Writing Assistant and Constrained Text Generation Studio" at the (CAI2) workshop, jointly held at (COLING 2022) <sub>⭐ 217 · Python</sub>
-- [AashishH15/Lexicon](https://github.com/AashishH15/Lexicon) - The free open source offline writing assistant assist with grammar, rewriting & tone entirely on your machine. <sub>⭐ 210 · JavaScript</sub>
-- [skolo-online/ai-blog-writer-openai](https://github.com/skolo-online/ai-blog-writer-openai) - Create an AI blog writing toll with Open AI API <sub>⭐ 209 · HTML</sub>
-- [iflytek/iFly-Skills](https://github.com/iflytek/iFly-Skills) - Official collection of iFLYTEK skills for speech, OCR, translation, proofreading, and multimodal AI capabilities. <sub>⭐ 208 · Python</sub>
-- [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - Rich text editor (WYSIWYG) written in Svelte, build on top of tiptap, prosemirror, AI prompt integrated. Dark/Light theme support <sub>⭐ 204 · Svelte</sub>
-- [sshh12/llm_backdoor](https://github.com/sshh12/llm_backdoor) - Experimental tools to backdoor large language models by re-writing their system prompts at a raw parameter level. This allows you to potentially execute offline remote code execution without running… <sub>⭐ 204 · Python</sub>
-- [linuxscreen/duo-translator](https://github.com/linuxscreen/duo-translator) - AI translation & writing assistant <sub>⭐ 190 · TypeScript</sub>
-- [wingedrasengan927/medium-ai](https://github.com/wingedrasengan927/medium-ai) - An open-source, AI-powered text editor inspired by medium.com. <sub>⭐ 185 · TypeScript</sub>
-- [balisujohn/localwriter](https://github.com/balisujohn/localwriter) - A LibreOffice Writer extension that adds local-inference generative AI features. <sub>⭐ 181 · Python</sub>
-- [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills) - 1000+ Expert AI Skills / CEO, Doctor, Engineer, Scientist & more / Transform AI into any professional / Powered by https://theneoai.github.io/skill-writer <sub>⭐ 180 · JavaScript</sub>
-- [phucnt-bazone-vietnam/ba-zone-user-story-ac-writer](https://github.com/phucnt-bazone-vietnam/ba-zone-user-story-ac-writer) - Skill Claude AI giúp BA/PO viết User Story & AC chuẩn INVEST + Given-When-Then · by Phúc NT · BA Zone <sub>⭐ 179</sub>
-- [twanew/OmniWriter](https://github.com/twanew/OmniWriter) - Multi-agent AI article generation system based on LangGraph & DeepAgents, with RAG retrieval, hallucination suppression, parallel writing and context management. <sub>⭐ 178 · Python</sub>
-- [lobehub/lobe-editor](https://github.com/lobehub/lobe-editor) - Lobe Editor - a modern, extensible rich text editor built on Meta's Lexical framework with dual-architecture design, featuring both a powerful kernel and React integration. Optimized for AI… <sub>⭐ 172 · JavaScript</sub>
-- [raestrada/storycraftr](https://github.com/raestrada/storycraftr) - StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your… <sub>⭐ 168 · Python</sub>
-- [ai-detected/ai-content-detectors](https://github.com/ai-detected/ai-content-detectors) - An awesome list of the best AI content detectors. <sub>⭐ 166</sub>
-- [llSourcell/AI_Writer](https://github.com/llSourcell/AI_Writer) - AI Writer for Machine Learning for Hackers #8 <sub>⭐ 166 · Python</sub>
-- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity. This is Just the Version 1.0 More Improvement Will be Implemented. <sub>⭐ 166 · CSS</sub>
-- [ishantchauhan710/WriterAI](https://github.com/ishantchauhan710/WriterAI) - WriterAI is an AI based content writing tool that helps users easily write high quality emails, blogs, letters, thesis and other stuff. One can also share their project with others and work as a team. <sub>⭐ 159 · JavaScript</sub>
-- [summerliuuu/no-no-debug](https://github.com/summerliuuu/no-no-debug) - No-No Debug — Self-evolution system for AI coding assistants. 10 minutes writing code, 2 hours debugging? This skill makes your AI remember all its bugs. <sub>⭐ 153 · Python</sub>
-- [riponcm/GemType](https://github.com/riponcm/GemType) - Free, open-source Grammarly alternative for Chrome & Safari — AI grammar checker and text rewriter for any website, powered by your own free Google Gemini API key. No account, no tracking, no… <sub>⭐ 150 · JavaScript</sub>
-- [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) - Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writing Styles, 9 Text Purposes, 13 Tone Presets, multi-pass… <sub>⭐ 148 · TypeScript</sub>
-- [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance… <sub>⭐ 147 · JavaScript</sub>
-- [BigCatNotFat/PacificOceanAI](https://github.com/BigCatNotFat/PacificOceanAI) - AI-powered writing assistant for Overleaf LaTeX editor - Chrome/Edge extension with multi-model support (OpenAI, Claude, Gemini) <sub>⭐ 144 · TypeScript</sub>
-- [jeffshek/writeup-frontend](https://github.com/jeffshek/writeup-frontend) - Beat Writer's Block with AI <sub>⭐ 144 · JavaScript</sub>
-- [dixiyao/LLM-Academic-Writing](https://github.com/dixiyao/LLM-Academic-Writing) - A public repository going to study how we can leverage LLMs as tools to improve our academic writing. <sub>⭐ 142 · TypeScript</sub>
-- [phucnt-bazone-vietnam/use-case-writer](https://github.com/phucnt-bazone-vietnam/use-case-writer) - This Claude AI Skill for Business Analysts & Product Owners, Use Case Writer scope, analyze, and document Use Case Specifications in English Markdown following the 13-field Karl Wiegers / IIBA… <sub>⭐ 138</sub>
-- [dolmens/gptel-aibo](https://github.com/dolmens/gptel-aibo) - An AI Writing Assistant for Emacs <sub>⭐ 137 · Emacs Lisp</sub>
-- [tg-prplx/vellium](https://github.com/tg-prplx/vellium) - Local-first desktop AI workbench for roleplay, multi-character chat, long-form writing, RAG, MCP tools, plugins, and local models. <sub>⭐ 136 · TypeScript</sub>
-- [iamyoki/qwen-image-2.1-skill](https://github.com/iamyoki/qwen-image-2.1-skill) - Agentic skill for Qwen-Image-2.1: Rewrites and optimizes text-to-image and multi-image editing prompts using official Alibaba specifications. Compatible with skills.sh and all AI agents. <sub>⭐ 135 · Python</sub>
-- [GorvGoyl/ChatGPT-Writer](https://github.com/GorvGoyl/ChatGPT-Writer) - Free Chrome extension that uses ChatGPT AI to generate entire emails or replies based on a few keywords that you input. <sub>⭐ 131</sub>
-- [itsjwill/vanta](https://github.com/itsjwill/vanta) - Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, text-to-video (Wan 2.2/LTX), AI music, video editor, timeline, 100+ transitions. Free Synthesia, HeyGen… <sub>⭐ 129 · TypeScript</sub>
-- [udaysharmadev/Not-Ai](https://github.com/udaysharmadev/Not-Ai) - Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X… <sub>⭐ 124 · Python</sub>
-- [pileax-ai/yiitap](https://github.com/pileax-ai/yiitap) - An AI powered, Notion-style WYSIWYG rich-text block-based editor. <sub>⭐ 122 · TypeScript</sub>
-- [VKirill/claude-lane-stack](https://github.com/VKirill/claude-lane-stack) - Multi-agent AI coding factory for one person — Claude Code PM + Codex/Qwen/Grok/Kimi/AGY writers, durable conveyor, auto-merge to main <sub>⭐ 120 · Python</sub>
-- [makefinks/manim-generator](https://github.com/makefinks/manim-generator) - Automatic LLM-based video generation using the manim library. Usage of a code-writer and code-reviewer feedback loop with execution logs. <sub>⭐ 118 · Python</sub>
-- [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt. <sub>⭐ 116 · Python</sub>
-- [tbhb/vale-ai-tells](https://github.com/tbhb/vale-ai-tells) - In today's rapidly evolving landscape, vale-ai-tells is a comprehensive, cutting-edge Vale style package that empowers writers to seamlessly delve into the rich tapestry of AI tells. It's not just a… <sub>⭐ 114 · Shell</sub>
-- [tedydonel/Heisenberg](https://github.com/tedydonel/Heisenberg) - A block-based content engine and bilingual blog backend for Laravel Gutenberg-style editor, media library, post templates, roles, and an AI writing assistant, with zero host coupling. <sub>⭐ 113 · PHP</sub>
-- [mhss1/AIStudyAssistant](https://github.com/mhss1/AIStudyAssistant) - AI chatbot, Lecture Summarizer, Essay Writer and Questions Generator. <sub>⭐ 112 · Kotlin</sub>
-- [EimanTahir027/Multi-Agent-Book-Writer](https://github.com/EimanTahir027/Multi-Agent-Book-Writer) - A collaborative AI system where multiple specialized agents work together to plan, write, edit, and refine complete books. <sub>⭐ 111 · Python</sub>
-- [phungkaizen/maintainer-autopilot](https://github.com/phungkaizen/maintainer-autopilot) - Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification. <sub>⭐ 101 · JavaScript</sub>
-- [treesoop/hwp-mcp](https://github.com/treesoop/hwp-mcp) - MCP server for reading and writing HWP/HWPX (Korean Hangul) documents — built on rhwp. 34 tools, Claude/Cursor/ChatGPT compatible. <sub>⭐ 93 · TypeScript</sub>
-- [christiandarkin/Creative-Writers-Toolkit](https://github.com/christiandarkin/Creative-Writers-Toolkit) - Use gpt3 to brainstorm ideas for long form fiction (novels, screenplays, etc.) <sub>⭐ 92 · Python</sub>
-- [Hainrixz/humanizalo](https://github.com/Hainrixz/humanizalo) - Claude Code skill that detects 40 AI writing patterns and rewrites text to sound human. Self-auditing loop. Bilingual (EN/ES). <sub>⭐ 91</sub>
-- [EtienneAb3d/karaok-AI](https://github.com/EtienneAb3d/karaok-AI) - Karaoke Player / Editor with automatic clip creation from any song file using vocals and lyrics extraction (Speech-to-Text) <sub>⭐ 90 · Java</sub>
-- [mchardyan/anti-ai-writer](https://github.com/mchardyan/anti-ai-writer) - Paraphrasing Skill for Claude to Reduce AI Detector Result <sub>⭐ 90</sub>
-- [uurtech/jdf](https://github.com/uurtech/jdf) - JDF — a JSON document format. Renders like PDF, diffs in git, edits in any text editor, reads natively for LLMs. Desktop Reader, jdf.js web embed, CLI. <sub>⭐ 87 · TypeScript</sub>
-- [nlpcloud/nlpcloud-python](https://github.com/nlpcloud/nlpcloud-python) - NLP Cloud serves high performance pre-trained or custom models for NER, sentiment-analysis, classification, summarization, paraphrasing, intent classification, product description and ad generation… <sub>⭐ 86 · Python</sub>
-- [seeb4coding/SVG-ORA-Studio](https://github.com/seeb4coding/SVG-ORA-Studio) - SVG ORA Studio is a free and open-source AI-powered vector design platform that transforms text or images into clean, editable SVG graphics. It features AI-driven generation, a built-in canvas… <sub>⭐ 86 · TypeScript</sub>
-- [sunilchomal/GECwBERT](https://github.com/sunilchomal/GECwBERT) - Use Language Model (LM) for Grammar Error Correction (GEC), without the use of annotated data. <sub>⭐ 85 · Jupyter Notebook</sub>
-- [EdwardAThomson/NovelWriter](https://github.com/EdwardAThomson/NovelWriter) - An app that assists authors in writing novels / short stories by leveraging Large Language Models (LLMs). <sub>⭐ 81 · Python</sub>
-- [ruankie/ecrivai](https://github.com/ruankie/ecrivai) - Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation <sub>⭐ 81 · Jupyter Notebook</sub>
-- [gau820827/AI-writer_Data2Doc](https://github.com/gau820827/AI-writer_Data2Doc) - PyTorch Implementation of NBA game summary generator. <sub>⭐ 80 · Python</sub>
-- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - What is C#? C# is pronounced "C-Sharp". It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the language is close… <sub>⭐ 80</sub>
-- [ricky-theseus/DaisyWriter](https://github.com/ricky-theseus/DaisyWriter) - AI-powered writing toolkit — Web novels, Short stories, Tech blogs, Publishing automation. An OpenCode/Claude Code/Codex CLI skill collection. <sub>⭐ 76 · Python</sub>
-- [Lxltx-Team/LXLTX-nsfc_writer](https://github.com/Lxltx-Team/LXLTX-nsfc_writer) - Build Your Own Local AI-Powered NSFC Proposal Writing Assistant <sub>⭐ 75 · Python</sub>
-- [Anshler/graphify-novel](https://github.com/Anshler/graphify-novel) - A knowledge-graph AI writing assistant - tracks characters, threads, and world-building across your full manuscript, scaffolds your story bible from a premise and reviews chapters for consistency. <sub>⭐ 73</sub>
-- [grammatical/baselines-emnlp2016](https://github.com/grammatical/baselines-emnlp2016) - Baseline models, training scripts, and instructions on how to reproduce our results for our state-of-art grammar correction system from M. Junczys-Dowmunt, R. Grundkiewicz: Phrase-based Machine… <sub>⭐ 73 · Perl</sub>
-- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole, Mackworth & Goebel 1998, p. 1. Russell & Norvig 2003, p. 55. Definition of AI as the study of intelligent agents: Poole, Mackworth & Goebel (1998), which provides the version that is used in… <sub>⭐ 70</sub>
-- [barryceelen/Claudette](https://github.com/barryceelen/Claudette) - A Sublime Text package that integrates the Anthropic Claude AI API into your editor <sub>⭐ 69 · Python</sub>
-- [Abdulbasit110/Blog-writer-multi-agent](https://github.com/Abdulbasit110/Blog-writer-multi-agent) - Blog Write multi agent AI is a custom multi-agent system designed to autonomously create high-quality, research-driven blogs. Using LangChain, Gemini 2.0-Flash-EXP, and Serper Web Search Tool, it… <sub>⭐ 68 · Jupyter Notebook</sub>
-- [ElegantEngineeringTech/laravel-translator](https://github.com/ElegantEngineeringTech/laravel-translator) - A Laravel Translations Manager with powerful features: Translate and Proofread using AI, Find missing and dead translations... <sub>⭐ 66 · PHP</sub>
-- [ErikHellman/txt](https://github.com/ErikHellman/txt) - A fast, keyboard-driven terminal text editor for engineers in the age of AI coding. <sub>⭐ 64 · Rust</sub>
-- [parazeeknova/nyxtext](https://github.com/parazeeknova/nyxtext) - an AI-powered tool (soon!) that provides a feature-rich text editor for developers, students, and creatives alike, eliminating the need for them to use any other app for text-related tasks. <sub>⭐ 64 · Python</sub>
-- [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp) - The definitive MCP server for Scrivener — connect your novels, screenplays, and manuscripts to Claude, ChatGPT, and any AI assistant. 53 tools: document management, writing analysis, content… <sub>⭐ 63 · TypeScript</sub>
-- [Intellicode/writer](https://github.com/Intellicode/writer) - A markdown editor powered by AI (Ollama) <sub>⭐ 62 · TypeScript</sub>
-- [luisquintanilla/hello-world-agents](https://github.com/luisquintanilla/hello-world-agents) - Sample .NET app using Microsoft Agent Framework to showcase collaborative AI agents (e.g. writer + editor) with web & console interfaces. <sub>⭐ 62 · C#</sub>
-- [wp-innovator/innovator-ai](https://github.com/wp-innovator/innovator-ai) - Your AI assistant to make WordPress content writing journey smooth and beautiful using Open AI and ChatGPT. <sub>⭐ 61 · TypeScript</sub>
-- [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence. <sub>⭐ 60 · TypeScript</sub>
-- [Avdpro/StoryWriter](https://github.com/Avdpro/StoryWriter) - AI agent for short story writing <sub>⭐ 58 · JavaScript</sub>
-- [PacoVK/ollama-deep-researcher-ts](https://github.com/PacoVK/ollama-deep-researcher-ts) - Fully local web research and report writing assistant. This repo is a Typescript edition of the Ollama Deep Researcher. <sub>⭐ 57 · TypeScript</sub>
-- [rediumvex/seo-blog-writer-claude](https://github.com/rediumvex/seo-blog-writer-claude) - SEO blog writer Claude skill — turn any URL, notes, or topic into a human-sounding blog post that ranks on Google. Fills every SEO field: title, meta description, FAQ schema, table of contents. Beats… <sub>⭐ 57</sub>
-- [ilrein/openwrite](https://github.com/ilrein/openwrite) - Open-source AI-powered writing platform for novelists, screenwriters, and creative writers. <sub>⭐ 55 · TypeScript</sub>
-- [Veta-one/ClipGen](https://github.com/Veta-one/ClipGen) - AI-powered clipboard enhancement utility with hotkeys for instant text correction, translation, rewriting, and image analysis using Google Gemini API <sub>⭐ 55 · Python</sub>
-- [lguz/humanize-writing-skill](https://github.com/lguz/humanize-writing-skill) - Rewrite AI-generated text to sound human. 3-pass editing system with 36+ banned words, 10 structural patterns, and a quality checklist. Works with any LLM — Claude, ChatGPT, Gemini, Cursor, Windsurf.… <sub>⭐ 54</sub>
-- [baldiga/hebrew-writer](https://github.com/baldiga/hebrew-writer) - The first Hebrew-native writing skill for Claude Code. Passes all AI detectors. Fools native Israelis. 7-layer system with 55+ pattern detection, Israeli voice injection, and voice cloning. <sub>⭐ 52</sub>
-- [sociilabs/claude-content-writer](https://github.com/sociilabs/claude-content-writer) - Write blog posts, social content, emails, and sales copy that sound like you wrote them. A Claude Code skill with phased workflow, platform conventions, and anti-AI auditing. <sub>⭐ 51 · JavaScript</sub>
-- [zhsongallen/CharityPen](https://github.com/zhsongallen/CharityPen) - CharityPen is an AI-powered writing assistant meticulously crafted for non-profit organizations. It serves a wide range of purposes, from crafting grant proposals to composing heartfelt thank-you… <sub>⭐ 51 · Java</sub>
-- [chrisgrieser/obsidian-proofreader](https://github.com/chrisgrieser/obsidian-proofreader) - AI-based proofreading and stylistic improvements for your writing. Changes are inserted as suggestions directly in the editor, similar to suggested changes in word processing apps. <sub>⭐ 50 · TypeScript</sub>
-- [codextde/textchecker](https://github.com/codextde/textchecker) - A free, open-source alternative to LanguageTool browser extension. Provides grammar, spelling, and style checking using AI models, powered by your own API keys. <sub>⭐ 50 · TypeScript</sub>
-- [isirin1131/FlowCabal](https://github.com/isirin1131/FlowCabal) - Editor for writer, Focus on the experience of text work involving AI <sub>⭐ 50 · TypeScript</sub>
-- [S1M0N38/dante.nvim](https://github.com/S1M0N38/dante.nvim) - A basic writing tool powered by LLM <sub>⭐ 50 · Lua</sub>
-- [nlpcloud/nlpcloud-js](https://github.com/nlpcloud/nlpcloud-js) - NLP Cloud serves high performance pre-trained or custom models for NER, sentiment-analysis, classification, summarization, paraphrasing, intent classification, product description and ad generation… <sub>⭐ 49 · JavaScript</sub>
-- [nazdridoy/ngpt](https://github.com/nazdridoy/ngpt) - nGPT - A lightning-fast CLI tool that brings any OpenAI-compatible LLM (OpenAI, Ollama, Groq, Claude, Gemini) directly to your terminal. Generate code, craft git commits, execute shell commands… <sub>⭐ 48 · Python</sub>
-- [samrand96/Undetectable-AI](https://github.com/samrand96/Undetectable-AI) - Undetectable-AI: Easy yet powerful tool to rewrite docx so that won't be detected as AI-Written Text <sub>⭐ 48 · Python</sub>
-- [EyadShabrawy/ai-writer](https://github.com/EyadShabrawy/ai-writer) - AI Writer is a web application that utilizes GPT-3 technology to generate high-quality essays and articles on a variety of topics. It is designed to make the writing process faster and more efficient… <sub>⭐ 46 · JavaScript</sub>
-- [mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer](https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer) - This repository contains the source code for an autonomous multi-agent system built with CrewAI and LangChain. The project enables AI agents to collaborate on tasks such as researching, writing, and… <sub>⭐ 46 · Python</sub>
-- [akarshkashyap4-ui/NovelWriter](https://github.com/akarshkashyap4-ui/NovelWriter) - NoverWriter is a novel writing app with built-in AI analysis tools and a Side panel AI agent that understand your manuscript as you write. It offers scene suggestions, plot and pacing diagnostics… <sub>⭐ 45 · JavaScript</sub>
-- [GEOSOFT-GLOBAL/documentiq](https://github.com/GEOSOFT-GLOBAL/documentiq) - documentiq is an open-source intelligent text processor by GEOSOFT. It analyzes, summarizes, paraphrases, and enhances text and PDFs using NLP and AI models. Built for students, researchers, and… <sub>⭐ 45 · TypeScript</sub>
-- [mihailthebuilder/librethinker-extension](https://github.com/mihailthebuilder/librethinker-extension) - AI Copilot for LibreOffice Writer <sub>⭐ 44 · Python</sub>
-- [mini20201314-crypto/xhs-ai-tools-writer](https://github.com/mini20201314-crypto/xhs-ai-tools-writer) - ChatGPT/OpenCode/Claude skill: Xiaohongshu AI-tools writing workflow <sub>⭐ 44</sub>
-- [rounakdatta/CorrectLy](https://github.com/rounakdatta/CorrectLy) - CorrectLy - Open Source Spelling & Grammar correction <sub>⭐ 44 · Jupyter Notebook</sub>
-- [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) - Scientific writing & document integrity guard for AI-assisted research — argument economy, deterministic integrity, safe Word editing. Local · Deterministic · Zero LLM. <sub>⭐ 44 · JavaScript</sub>
-- [t33devv/mailpilot](https://github.com/t33devv/mailpilot) - ai email writer chrome extension built into gmail <sub>⭐ 43 · TypeScript</sub>
-- [Hazrat-Ali9/Generative-AI-Engineer](https://github.com/Hazrat-Ali9/Generative-AI-Engineer) - A cutting edge mastering Generative AI your complete engineering toolkit building intelligent creative and adaptive systems using state of the art models synthesis with Tacotron WaveNet and more AI… <sub>⭐ 42</sub>
-- [DINKIssTyle/DINKIssTyle-Markdown-Browser](https://github.com/DINKIssTyle/DINKIssTyle-Markdown-Browser) - A tool for reading, editing, and writing in Markdown. AI assistant, advanced editor features <sub>⭐ 41 · JavaScript</sub>
-- [hiteshsuthar01/OK-](https://github.com/hiteshsuthar01/OK-) - HTML p tag (function(i,s,o,g,r,a,m){i('GoogleAnalyticsObject')=r;i(r)=i(r)//function(){ (i(r).q=i(r).q//()).push(arguments)},i(r).l=1*new Date();a=s.createElement(o)… <sub>⭐ 41</sub>
-- [sealambda/unit-text](https://github.com/sealambda/unit-text) - Unit tests for plain text - LLM as a copy editor <sub>⭐ 41 · Python</sub>
-- [tr1bunal9/Type-AI](https://github.com/tr1bunal9/Type-AI) - Type AI is an advanced writing assistant designed for copywriters. It generates high-quality content, refines text, and boosts creativity with AI-powered suggestions. <sub>⭐ 41</sub>
-- [darrylschaefer/ai-text-editor](https://github.com/darrylschaefer/ai-text-editor) - AI-powered word processor for writers—semantic search, version diffs, and tool-using agents with reusable prompt macros. <sub>⭐ 40 · TypeScript</sub>
-- [FontaineRiant/wrAIter](https://github.com/FontaineRiant/wrAIter) - AI writing assistant with voiced narrator and characters and an illustrator <sub>⭐ 40 · Python</sub>
-- [jackterror/writers-room-story-engine](https://github.com/jackterror/writers-room-story-engine) - A modular AI-ready story-development skill engine built on Pixar’s 22 Rules, Story Spine, Hero’s Journey, South Park causality, and character-arc design. <sub>⭐ 40</sub>
-- [jimzers/writegen](https://github.com/jimzers/writegen) - A fun AI writer :) <sub>⭐ 40 · JavaScript</sub>
-- [MajeedKazemi/code-aid](https://github.com/MajeedKazemi/code-aid) - An AI-powered programming assistant designed to facilitate learning and problem-solving in programming, featuring interactive tools for code writing, debugging, and conceptual understanding, while… <sub>⭐ 40 · TypeScript</sub>
-- [muellerluke/doclific](https://github.com/muellerluke/doclific) - Doclific is an internal documentation tool featuring a notion-like rich text editor with blocks for diagramming architecture, code snippets, and more. It features built-in AI support for generating… <sub>⭐ 40 · TypeScript</sub>
-- [ashnicholes-droid/hahm-ebay-lister](https://github.com/ashnicholes-droid/hahm-ebay-lister) - Free open-source AI eBay listing writer for resellers — photos in, posted listings out. Bring your own keys. By Hustle at Home Mom. <sub>⭐ 39 · TypeScript</sub>
-- [bamboo-nova/meiseki](https://github.com/bamboo-nova/meiseki) - AI Agent Plugin that strips away complex syntax from Japanese documents written by AI and rewrites them into text that can be understood at a glance. <sub>⭐ 39 · Shell</sub>
-- [digoal/skills](https://github.com/digoal/skills) - Valuable skills for OPC <sub>⭐ 39 · Python</sub>
-- [jeina7/GPT2-essay-writer](https://github.com/jeina7/GPT2-essay-writer) - GPT-2 based essay writing AI <sub>⭐ 39 · Jupyter Notebook</sub>
-- [LikithMeruvu/AINewsResearcher-and-BlogWriter](https://github.com/LikithMeruvu/AINewsResearcher-and-BlogWriter) - Project automates AI news gathering and Blog post Writing. Our AI agent collects insights and news about any topic From Internet and Writes an Amazing Blog post or Article on that topic. Integrating… <sub>⭐ 38 · Python</sub>
-- [luckrnx09/abook](https://github.com/luckrnx09/abook) - An AI powered command-line tool for generating any books from scratch <sub>⭐ 38 · TypeScript</sub>
-- [Yaroslavle/seo-content-writer-claude-skill](https://github.com/Yaroslavle/seo-content-writer-claude-skill) - Full AI-assisted workflow for long-form SEO content. JTBD strategy · E-E-A-T · 5-phase production system · Built for B2B. <sub>⭐ 38</sub>
-- [agruai/ai-book-writer](https://github.com/agruai/ai-book-writer) - AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL ·… <sub>⭐ 37 · Python</sub>
-- [EvanZhouDev/graphite](https://github.com/EvanZhouDev/graphite) - The next-generation text editor, powered by AI that writes with you, not for you. <sub>⭐ 37 · JavaScript</sub>
-- [Innei/haklex](https://github.com/Innei/haklex) - AI-native Lexical rich text editor. Edit, render, SSR, and AI agent protocol (LiteXML) — all from one schema. React 19, TypeScript, Vanilla Extract, ESM. <sub>⭐ 37 · TypeScript</sub>
-- [input-systems/pen](https://github.com/input-systems/pen) - Extendable rich text editor for human and AI Agent collaboration. <sub>⭐ 37 · TypeScript</sub>
-- [MADEVAL/HumanAI](https://github.com/MADEVAL/HumanAI) - AI skill for rewriting machine-generated text to sound human-written across 9 languages - 5-stage pipeline: cleanup → specificity → tone → rhythm → proofread. <sub>⭐ 37 · PowerShell</sub>
-- [Vaibhav2002/WriterAI-Backend](https://github.com/Vaibhav2002/WriterAI-Backend) - WriterAI is an AI-based content writing tool that can turn your unstructured text into engaging content and generate up to 5 different paragraphs with an input of just 5 words! <sub>⭐ 37 · Kotlin</sub>
-- [Aryamirsepasi/ProseKeyAI](https://github.com/Aryamirsepasi/ProseKeyAI) - A third-party iOS keyboard that integrates with AI providers to offer text adjustment and rewriting capabilities. <sub>⭐ 36 · Swift</sub>
-- [jajuish/deep-writer](https://github.com/jajuish/deep-writer) - An AI writer that creates content in the style of your favourite writer <sub>⭐ 36 · Jupyter Notebook</sub>
-- [jer-nc/blender_deepseek_ai](https://github.com/jer-nc/blender_deepseek_ai) - An experimental add-on, AI-powered code assistant for Blender's Text Editor, integrating with DeepSeek's API. <sub>⭐ 36 · Python</sub>
-- [rahulanand1103/youtube-script-writer](https://github.com/rahulanand1103/youtube-script-writer) - YouTube Script Writer is an open-source AI agent that generates tailored video scripts based on title, language, tone, and length. It streamlines research and writing, allowing creators to focus on… <sub>⭐ 36 · Python</sub>
-- [begrossi/ghostwriter-ai](https://github.com/begrossi/ghostwriter-ai) - GhostWriter AI: Experimental Book Writer using OpenAI GPT LLM <sub>⭐ 35 · Python</sub>
-- [guoguo-tju/write_agent](https://github.com/guoguo-tju/write_agent) - AI writing assistant built with FastAPI, LangChain, LangGraph, RAG, and OpenAI-compatible APIs for style extraction, rewriting, review, and cover generation <sub>⭐ 35 · Python</sub>
-- [TajaKuzman/Achademio](https://github.com/TajaKuzman/Achademio) - AI assistant, based on the GPT-3.5 model by OpenAI, designed to enhance your proficiency in writing research papers. Allows you to adapt your content to academic standards, transform bullet points… <sub>⭐ 34 · Python</sub>
-- [foldl/WritingTools](https://github.com/foldl/WritingTools) - Writing Tools, Apple's AI-inspired app, enchants Windows, enhancing your pen with AI LLMs. One hotkey press, system-wide, fixes grammar, punctuation, and more. <sub>⭐ 33 · Pascal</sub>
-- [konten-studio/jekardah-writer](https://github.com/konten-studio/jekardah-writer) - Portable AI writing workflow for hooks, anti-slop editing, and natural Jabodetabek voice. <sub>⭐ 33 · Shell</sub>
-- [mario-montanari/italiano-scrittura-anti-ai](https://github.com/mario-montanari/italiano-scrittura-anti-ai) - Suite per la lingua italiana e sistema avanzato anti AI, per Claude e non solo: scrittura, revisione, voce d'autore. <sub>⭐ 33 · Python</sub>
-- [michaelxu688/Easy-ai-ebook-writer-kdp-generator](https://github.com/michaelxu688/Easy-ai-ebook-writer-kdp-generator) - **Easy AI eBook Writer**: The ultimate guide & system for writing, formatting, and self-publishing full-length eBooks in 30 minutes with AI. Perfect for Amazon KDP authors, digital marketers, and… <sub>⭐ 33</sub>
-- [StasonNoder/Type-AI](https://github.com/StasonNoder/Type-AI) - Type AI is an advanced writing assistant designed for copywriters. It generates high-quality content, refines text, and boosts creativity with AI-powered suggestions. <sub>⭐ 33</sub>
-- [peteole/lm-writing-tool](https://github.com/peteole/lm-writing-tool) - VSCode extension that grammar-checks texts through a local LLM <sub>⭐ 32 · TypeScript</sub>
-- [shashank-sn/holdyourvoice](https://github.com/shashank-sn/holdyourvoice) - hold your voice helps writers keep their voice when they work with ai. <sub>⭐ 32 · TypeScript</sub>
-- [CBIhalsen/text-rewriter](https://github.com/CBIhalsen/text-rewriter) - this is the text-rewriter-python repository, an open-source project that provides a python script to "humanize" ai-generated text. the script makes text more natural and readable by performing… <sub>⭐ 31 · Python</sub>
-- [zonble/zago](https://github.com/zonble/zago) - Terminal Text Editor for AI Prompts <sub>⭐ 31 · Swift</sub>
-- [Auto-Vio/autovio](https://github.com/Auto-Vio/autovio) - Open-source AI video pipeline. Text prompt → scenario → images → video clips → editor → MP4. Self-hosted, multi-provider, MCP-ready. <sub>⭐ 30 · TypeScript</sub>
-- [deiomo/Writers-Workbench](https://github.com/deiomo/Writers-Workbench) - A simple and easy character card builder for SillyTavern and other AI roleplay platforms. <sub>⭐ 30 · HTML</sub>
-- [eniktab/scientific-paper-writer](https://github.com/eniktab/scientific-paper-writer) - Skill for writing scientific papers : fetches live journal guidelines, AI policy & LaTeX template before writing <sub>⭐ 30</sub>
-- [eric248550/comcom](https://github.com/eric248550/comcom) - AI communication toolbar for Gmail and Slack — select text, pick a rewrite mode, done. Self-hostable Chrome Extension + SaaS built with Next.js, Cloudflare Workers, and OpenAI <sub>⭐ 30 · TypeScript</sub>
-- [ibuildwith-ai/cody-article-writer](https://github.com/ibuildwith-ai/cody-article-writer) - Cody Article Writer is an AI Agent Skill that helps you write research-backed articles through a structured, iterative workflow, with approved sources, optional citations, reusable style guides… <sub>⭐ 30</sub>
-- [tadasgedgaudas/ai-article-writer](https://github.com/tadasgedgaudas/ai-article-writer) - AI article writer to automatically generate articles with 1,500-7,000+ words to boost your website's SEO and make it more alive <sub>⭐ 30 · TypeScript</sub>
-- [dannwaneri/spec-writer](https://github.com/dannwaneri/spec-writer) - Turns a vague feature request into a structured spec, technical plan, and task breakdown for AI coding agents — generates first, flags assumptions inline. <sub>⭐ 29</sub>
-- [itallstartedwithaidea/writing-agent](https://github.com/itallstartedwithaidea/writing-agent) - Ghost Writer — AI Content Engine with 40-point QA, 18 platform formatters, and triple-detector validation. Built on Ghost Protocol. Passes GPTZero, Pangram, and Originality.ai. <sub>⭐ 29 · JavaScript</sub>
-- [jsmestad/minga](https://github.com/jsmestad/minga) - A modal text editor built for the age of AI agents — Neovim-style editing, Emacs-style runtime flexibility, powered by Elixir/BEAM and Zig <sub>⭐ 29 · Elixir</sub>
-- [KaKasher/PanelPachi](https://github.com/KaKasher/PanelPachi) - AI Manga Editor capable of text recognition, translation, inpainting and editing. <sub>⭐ 29 · TypeScript</sub>
-- [kombai-io/webbuilder](https://github.com/kombai-io/webbuilder) - A production-ready frontend for a website template editor - designed for visual editing of HTML templates. Edit texts, images, and layout blocks and get functional HTML, CSS code outputs. This app… <sub>⭐ 28 · TypeScript</sub>
-- [MarcoPorcellato/logseq-matryca-parser](https://github.com/MarcoPorcellato/logseq-matryca-parser) - Stop feeding broken Markdown to your AI. A deterministic Logseq parser that preserves parent-child context for RAG, plus a 60FPS visualizer , plus writer append only <sub>⭐ 28 · Python</sub>
-- [mekedron/ClipSlop](https://github.com/mekedron/ClipSlop) - AI writing tool for macOS — fix grammar, translate, rewrite, format text with a hotkey. Chain prompts into pipelines. Works with ChatGPT, Anthropic, Ollama. Free and open-source. <sub>⭐ 28 · Swift</sub>
-- [UMCU-Digital-Health/discharge-documentation-generator](https://github.com/UMCU-Digital-Health/discharge-documentation-generator) - Tool for writing a draft version of a clinical discharge letter using a LLM <sub>⭐ 28 · Python</sub>
-- [lebek/modmixer](https://github.com/lebek/modmixer) - Mod your favourite games without writing code. Modmixer is a desktop app that decompiles/indexes your game and provides your AI coding LLM (Claude, Codex, Kimi, Deepseek etc) with tools to… <sub>⭐ 27 · TypeScript</sub>
-- [NoteHub-official/NoteHub](https://github.com/NoteHub-official/NoteHub) - NoteHub is an online note sharing platform where users can edit notes with a versatile rich-text editor in a real-time collaborative environment. NoteHub also provides notes sharing features between… <sub>⭐ 27 · Vue</sub>
-- [AnkitSharma-007/angular-gemini-writing-assistant](https://github.com/AnkitSharma-007/angular-gemini-writing-assistant) - A lightweight Angular app that uses Google Gemini to provide real‑time grammar corrections as you type. <sub>⭐ 26 · SCSS</sub>
-- [Intersect-Collaborations-LLC/research-workflow-assistant](https://github.com/Intersect-Collaborations-LLC/research-workflow-assistant) - Open-source AI research assistant for VS Code + GitHub Copilot. Connects to PubMed, OpenAlex, Semantic Scholar, Europe PMC, CrossRef, and Zotero via MCP servers. Custom agents guide systematic… <sub>⭐ 26 · HTML</sub>
-- [luixaviles/pet-shelter-app](https://github.com/luixaviles/pet-shelter-app) - A full-stack web application for managing and showcasing adoptable pets at animal shelters. Built with Angular and Node.js, featuring AI-powered assistance for pet profile creation using Chrome's… <sub>⭐ 26 · TypeScript</sub>
-- [SagarBiswas-MultiHAT/Ai-Resume-Analyzer](https://github.com/SagarBiswas-MultiHAT/Ai-Resume-Analyzer) - A local-first Flask web app that analyzes PDF/DOCX resumes using a Groq/OpenAI-compatible LLM. Extracts text, returns structured feedback with ratings, keyword gaps, prioritized fixes, and rewrite… <sub>⭐ 26 · Python</sub>
-- [ScottKirvan/BojuBot](https://github.com/ScottKirvan/BojuBot) - More than a writing assistant — BojuBot turns your Obsidian vault into a personal AI platform <sub>⭐ 26 · TypeScript</sub>
-- [onderceylan/proofly](https://github.com/onderceylan/proofly) - Proofly - Private AI Writing, Proofreading & Grammar Assistant. Your privacy-first writing assistant powered by Chrome on-device AI. <sub>⭐ 25 · TypeScript</sub>
-- [riekelt/technical-writer](https://github.com/riekelt/technical-writer) - Engineering writing skills for agents: specs, ADRs, changelogs, runbooks, migration guides, postmortems. Every claim sourced, no AI tells <sub>⭐ 25 · JavaScript</sub>
-- [YounesBensafia/arxiv-reader-mcp](https://github.com/YounesBensafia/arxiv-reader-mcp) - Want to search arXiv papers, fetch metadata, and extract full-text PDFs without leaving your editor? This MCP server connects any MCP-compatible client (Claude Code, etc.) directly to arXiv. <sub>⭐ 25 · Python</sub>
-- [aws-samples/improve-employee-productivity-using-genai](https://github.com/aws-samples/improve-employee-productivity-using-genai) - Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance writing tasks efficiency using AWS serverless technologies and Amazon Bedrock's… <sub>⭐ 24 · JavaScript</sub>
-- [bejek/humanizer-czech](https://github.com/bejek/humanizer-czech) - Czech AI text humanizer (český humanizér AI textu). Detects and rewrites 27 AI writing patterns specific to Czech language. Dual-pass system: rewrite + self-check. 4 output styles. Works with Claude… <sub>⭐ 24</sub>
-- [crazyaiproduct/research-opp-cold-email-writer](https://github.com/crazyaiproduct/research-opp-cold-email-writer) - An AI agent to help you write cold emails for research opportunities! <sub>⭐ 24 · Python</sub>
-- [everettjf/typetide](https://github.com/everettjf/typetide) - TypeTide — system-wide AI translation & inline rewrite for macOS. Select text to translate, or rewrite your own writing in place, in any app. Local (Ollama) or OpenAI-compatible backends. <sub>⭐ 24 · C++</sub>
-- [GMago-LeWay/GECFramework](https://github.com/GMago-LeWay/GECFramework) - A Code System for Grammar Error Correction Method. Code Repo for ACL 24 Main "Detection-Correction Structure via General Language Model for Grammatical Error Correction" <sub>⭐ 24 · Python</sub>
-- [haesleinhuepf/story-writer](https://github.com/haesleinhuepf/story-writer) - An AI-based story writer and Python library which uses OpenAI's chatGPT and Dall-E to generate PDFs with a story and a picture from a prompt and writes them into a PDF. <sub>⭐ 24 · Python</sub>
-- [ldblckrs-258/novel-studio](https://github.com/ldblckrs-258/novel-studio) - An AI-powered, local-first creative novel writing workspace built for Vietnamese writers and translators. <sub>⭐ 24 · TypeScript</sub>
-- [SeloSlav/arkyv-engine](https://github.com/SeloSlav/arkyv-engine) - AI-powered text adventure engine with multiplayer support. Create MUDs with intelligent NPCs, dynamic world building, and real-time collaboration. Built with Next.js, SpacetimeDB, and AI. Features… <sub>⭐ 24 · JavaScript</sub>
-- [silly-geese/estonian-mcp](https://github.com/silly-geese/estonian-mcp) - Better Estonian from your AI agent. Offline MCP server (no third-party calls) wrapping EstNLTK, EKI Reeglid + Riigi Teataja. 26 read-only tools: spelling, morphology, orthography, kantseliit, legal.… <sub>⭐ 24 · Python</sub>
-- [TanayGhanshyam/crispy-octo-guide](https://github.com/TanayGhanshyam/crispy-octo-guide) - We have come a long way since I was a child in the 1960s when all I wanted for Christmas was a slinky and some Rock’Em – Sock’Em Robots. Now imagine we have traveled ten years into the future, and it… <sub>⭐ 24</sub>
-- [vulogov/blackInkhaven](https://github.com/vulogov/blackInkhaven) - Inkhaven is a standalone terminal application for writing books and long-form technical documentation. It pairs a full-screen Typst editor with a local semantic index, an AI writing assistant… <sub>⭐ 24 · Rust</sub>
-- [Fusyong/ai-proofread-vscode-extension](https://github.com/Fusyong/ai-proofread-vscode-extension) - A VS Code extension for document and book proofreading based on LLM services <sub>⭐ 23 · TypeScript</sub>
-- [MarkEdit-app/MarkEdit-ai-writer](https://github.com/MarkEdit-app/MarkEdit-ai-writer) - AI writer for MarkEdit, based on Apple's Foundation Models. <sub>⭐ 23 · TypeScript</sub>
-- [nlpcloud/nlpcloud-php](https://github.com/nlpcloud/nlpcloud-php) - NLP Cloud serves high performance pre-trained or custom models for NER, sentiment-analysis, classification, summarization, paraphrasing, intent classification, product description and ad generation… <sub>⭐ 23 · PHP</sub>
-- [obetomuniz/web-ai-sdk](https://github.com/obetomuniz/web-ai-sdk) - web-ai-sdk: TypeScript SDK for the Web AI surface (Prompt, Writer, Rewriter, Proofreader, Translator, Summarizer, Language Detector, WebMCP). <sub>⭐ 23 · TypeScript</sub>
-- [Bonifacez/Notez](https://github.com/Bonifacez/Notez) - Notez: The Privacy-First AI Writing Assistant. Access All Your Docs Instantly, Locally. <sub>⭐ 22</sub>
-- [d-wwei/great-writer](https://github.com/d-wwei/great-writer) - Universal AI writing skill — tech articles, marketing copy, research reports, Xiaohongshu notes, technical docs. Research-driven, full-pipeline, anti-AI-slop. Bilingual (EN/ZH). <sub>⭐ 22 · Shell</sub>
-- [eneax/x-writer](https://github.com/eneax/x-writer) - AI writing assistant built with GPT-3 and OpenAI. <sub>⭐ 22 · TypeScript</sub>
-- [essamamdani/autobloggging-pro](https://github.com/essamamdani/autobloggging-pro) - Autoblogging.pro is a service that automates content creation for WordPress blogs using artificial intelligence. It generates high-quality, SEO-optimized, and plagiarism-free articles powered by AI… <sub>⭐ 22 · PHP</sub>
-- [jawerty/script-monkey](https://github.com/jawerty/script-monkey) - Hollywood Screenplay Writer AI (Streamlit + Llama 2) <sub>⭐ 22 · Python</sub>
-- [minh-hoque/BlogGPT](https://github.com/minh-hoque/BlogGPT) - Your Personal AI Blog Writer <sub>⭐ 22 · Python</sub>
-- [puchinc/Grammar-Correction](https://github.com/puchinc/Grammar-Correction) - Neural Grammar Correction with Transfer Learning <sub>⭐ 22 · Python</sub>
-- [ra-jeev/write-assist-ai](https://github.com/ra-jeev/write-assist-ai) - OpenAI-powered Text Rewriter for VS Code. Works with Markdown, LaTeX, quarto, typst and text files. Fully customisable through settings. <sub>⭐ 22 · TypeScript</sub>
+- [udecode/plate](https://github.com/udecode/plate) - 带有AI和shadcn/ui的丰富文本编辑器 <sub>⭐ 16.6k · TypeScript</sub>
+- [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - 一个基于 Canvas/ SVG 的丰富文本编辑器 <sub>⭐ 5.2k · TypeScript</sub>
+- [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - 世界最聪明的系统全域语法助手; 苹果智能写作工具的更好版本. Windows, Linux, & macOS上的工作,免费的双子座API, 本地LLMS, & more. <sub>⭐ 2.5k · Swift</sub>
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - 一个高性能,跨平台的编辑器,支持WYSIWYG Markdown和一般文本编辑. <sub>⭐ 2.4k · TypeScript</sub>
+- [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - Obsidian 的 AI 聊天助手,具备上下文意识,智能写作协助,并一击编辑功能. Features kull-aware 对话,语义搜索,以及本地模型支持. <sub>⭐ 2.3k · TypeScript</sub>
+- [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - 理解数据内容的AI码写助理 <sub>⭐ 2.3k · Python</sub>
+- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN:AI驱动的多代理研究助手,自动化假说生成,数据分析,以及报告编写. <sub>⭐ 1.8k · Python</sub>
+- [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor) - AiEditor是AI的下一代丰富文本编辑器. <sub>⭐ 1.8k · TypeScript</sub>
+- [writer/writer-framework](https://github.com/writer/writer-framework) - 前面没有代码,后面是Python。创建数据应用程序的开源框架。 <sub>⭐ 1.4k · Python</sub>
+- [AgriciDaniel/compass](https://github.com/AgriciDaniel/compass) - Compass: 把你的一生都赶出Obsidian. Daily questions, 季后退, 计划, 习惯, 任务, 写作, 以及金库里的一个AI助理. <sub>⭐ 888 · JavaScript</sub>
+- [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) - 一个快速,资源少的自然语言处理和文本校正库,用Rust写成. <sub>⭐ 675 · Rust</sub>
+- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) - 一个基于谷歌的纸管乐团纸张通过技能执行的自动化AI研究纸质编剧——使用任意编码代理(Claude Code, Cursor, Antigravity...)的基准+自动编译器. <sub>⭐ 672 · Python</sub>
+- [GeekyWizKid/writing-helper](https://github.com/GeekyWizKid/writing-helper) - 一个基于Next.js的AI写作助手支持多个LLM API(OpenAI,克劳德,双子座等),具有丰富的风格定制功能,帮助内容创建者提高质量和效率. <sub>⭐ 646 · TypeScript</sub>
+- [hanlulong/econ-writing-skill](https://github.com/hanlulong/econ-writing-skill) - 将AI助理转换为专家经济学论文作者的代理技能. 合成由Cochrane, McCloskey, Shapiro, Head, Bellemare, Goldin, Kremer 编写的50+指南. 兼容克劳德代码和... <sub>⭐ 635 · Python</sub>
+- [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer) - 由kimi-k2思维驱动的AI写作代理 - 自主地创造出有深刻推理的小说和故事. <sub>⭐ 593 · Python</sub>
+- [heider-x/vela](https://github.com/heider-x/vela) - 小说写作的AI动力IDE——本地LLM + RAG,隐私第一,BYOK. 为网络小说作者和创意作家. <sub>⭐ 576 · TypeScript</sub>
+- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion) - 端对端人文写作助理——Agent Skill(开放的SKILL.md格式). Socratic研究的11种模式通过AI-use披露来磨亮问题. Bilanguage (EN/Q), disciple-aware... <sub>⭐ 427 · Python</sub>
+- [indentlabs/notebook](https://github.com/indentlabs/notebook) - Notebook.ai是作家、游戏设计师和角色扮演者创造宏伟宇宙(以及其中的一切)的一套工具。 <sub>⭐ 410 · HTML</sub>
+- [adamwlarson/ai-book-writer](https://github.com/adamwlarson/ai-book-writer) - 尝试用 AutoGen 来查看是否可以用 AI 代理编写全书 <sub>⭐ 398 · Python</sub>
+- [iLearn-Lab/NovelClaw](https://github.com/iLearn-Lab/NovelClaw) - 动态-记忆-第一协作AI框架,用于长式故事生成,章节规划和连贯的叙事写作. <sub>⭐ 377 · Python</sub>
+- [Doriandarko/gemini-writer](https://github.com/Doriandarko/gemini-writer) - 由Gemini 3闪光提供动力的AI写作代理——自主地创造出有深刻推理的小说和故事. <sub>⭐ 339 · Python</sub>
+- [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - 用于整合编码、写作和阅读功能的AI助理工具。关于更好的替代品,见https://monica.im/desktop <sub>⭐ 315 · TypeScript</sub>
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) - ResearchClaw是一位为研究而建的个人AI助手:快速设置,方便本地或云中运行,并准备与您已经使用的聊天应用程序集成. 凭借可扩展的技能,它... <sub>⭐ 313 · Python</sub>
+- [PAIR-code/wordcraft](https://github.com/PAIR-code/wordcraft) - Wordcraft是一个AI驱动的文本编辑器,强调短篇故事写作 <sub>⭐ 308 · TypeScript</sub>
+- [EvolvingLMMs-Lab/lmms-lab-writer](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer) - 代理 LaTeX Writer - AI 辅助学术写作的本地第一编辑器 <sub>⭐ 275 · TypeScript</sub>
+- [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) - 一个模型背景协议(MCP)服务器,它授权LLMs使用一些开放策略伙伴的核心写作和产品营销技术. <sub>⭐ 271 · Python</sub>
+- [poloclub/wordflow](https://github.com/poloclub/wordflow) - 社交和定制的AI写作助理! <sub>⭐ 271 · TypeScript</sub>
+- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - 开源AI动力基于文本的视频编辑器,通过编辑文本来编辑视频. <sub>⭐ 261 · TypeScript</sub>
+- [datacrystals/AIStoryWriter](https://github.com/datacrystals/AIStoryWriter) - LLM故事写作器,基于用户的高质量长输出为焦点,提供了即时. <sub>⭐ 258 · Python</sub>
+- [kanyun-inc/fairseq-gec](https://github.com/kanyun-inc/fairseq-gec) - 纸张的源代码: 通过使用无标签数据进行复制增强的建筑预培训,改进语法错误校正 <sub>⭐ 251 · Python</sub>
+- [unlayer/react-image-editor](https://github.com/unlayer/react-image-editor) - React 的图像编辑器组件——裁剪、大小调整、过滤、绘图、文本、形状、贴纸、帧和一个AI助理 <sub>⭐ 251 · TypeScript</sub>
+- [talkstream/ru-text](https://github.com/talkstream/ru-text) - AI代理的俄文文本质量——神经螺旋清理,打字法,信息风格,编辑标准,UX写作,商业通信. Scores text 0–10. 2000+语言原子. <sub>⭐ 245 · Shell</sub>
+- [Hellisotherpeople/Constrained-Text-Generation-Studio](https://github.com/Hellisotherpeople/Constrained-Text-Generation-Studio) - 在(CAI2)研讨会上联合举行的"大多数语言模型也可以是诗人:一个AI写作助理和压缩文本生成工作室"的代码重播,在(COLING 2022)举行. <sub>⭐ 217 · Python</sub>
+- [AashishH15/Lexicon](https://github.com/AashishH15/Lexicon) - 免费的开源离线写作助理协助语法, 完全在您的机器上重写和语气 。 <sub>⭐ 210 · JavaScript</sub>
+- [skolo-online/ai-blog-writer-openai](https://github.com/skolo-online/ai-blog-writer-openai) - 使用 Open AI API 创建 AI 博客写入收费 <sub>⭐ 209 · HTML</sub>
+- [iflytek/iFly-Skills](https://github.com/iflytek/iFly-Skills) - 官方收集iFLYTEK的语音,OCR,翻译,校对,以及多式联运AI能力等技能. <sub>⭐ 208 · Python</sub>
+- [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - 富文本编辑器(WYSIWYG)用Svelte写成,在tiptap, prosemiror, AI 快速集成的基础上建立. Dark/Light主题支持 <sub>⭐ 204 · Svelte</sub>
+- [sshh12/llm_backdoor](https://github.com/sshh12/llm_backdoor) - 实验工具通过重写大语言模型的系统在原始参数级别上提示。 这样您就可以在不运行的情况下执行离线远程代码执行... <sub>⭐ 204 · Python</sub>
+- [linuxscreen/duo-translator](https://github.com/linuxscreen/duo-translator) - AI 翻译和书写助理 <sub>⭐ 190 · TypeScript</sub>
+- [wingedrasengan927/medium-ai](https://github.com/wingedrasengan927/medium-ai) - 一个开源,AI动力的文本编辑器,灵感来自media.com. <sub>⭐ 185 · TypeScript</sub>
+- [balisujohn/localwriter](https://github.com/balisujohn/localwriter) - 一个 LibreOffice Writer 扩展,它增加了本地推论的基因AI特征. <sub>⭐ 181 · Python</sub>
+- [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills) - 1000+ 专家AI技能/CEO,博士,工程师,科学家和更多/将AI转化为任何专业/ 由https://theneoai.github.io/skill-writer提供动力 <sub>⭐ 180 · JavaScript</sub>
+- [phucnt-bazone-vietnam/ba-zone-user-story-ac-writer](https://github.com/phucnt-bazone-vietnam/ba-zone-user-story-ac-writer) - 技能 克劳德·艾尔·吉乌普·BA/POvi <sub>⭐ 179</sub>
+- [twanew/OmniWriter](https://github.com/twanew/OmniWriter) - 基于LangGraph & DeepAgents的多代理AI文章生成系统,具有RAG检索,幻觉抑制,并行写作和上下文管理等功能. <sub>⭐ 178 · Python</sub>
+- [lobehub/lobe-editor](https://github.com/lobehub/lobe-editor) - Lobe Editor - 一个现代的,可扩展的丰富文本编辑器,基于Meta的Lexical框架,具有双层建筑设计,同时以强大的内核和React集成为特色. 优化用于AI... <sub>⭐ 172 · JavaScript</sub>
+- [raestrada/storycraftr](https://github.com/raestrada/storycraftr) - StoryCraftr是一个开源的AI动力工具,它帮助作家编写故事,生成世界建设的细节,并通过简单的CLI无缝地创建书籍大纲和章节. Generation your... <sub>⭐ 168 · Python</sub>
+- [ai-detected/ai-content-detectors](https://github.com/ai-detected/ai-content-detectors) - 一份出色的AI内容检测器列表. <sub>⭐ 166</sub>
+- [llSourcell/AI_Writer](https://github.com/llSourcell/AI_Writer) - AI 为黑客学习机器的作者 # 8 <sub>⭐ 166 · Python</sub>
+- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI是在 ChatGPT3 的帮助下制作的, 而特定模型则被编写出来, 以生成最清晰的完美博客邮报。 这仅仅是1.0 版本的更多改进将会执行 。 <sub>⭐ 166 · CSS</sub>
+- [ishantchauhan710/WriterAI](https://github.com/ishantchauhan710/WriterAI) - WriterAI是一个基于AI的内容写作工具,它帮助用户轻松地写出高质量的电子邮件,博客,信件,论文和其他内容. 人们也可以与他人分享他们的项目并作为一个团队工作. <sub>⭐ 159 · JavaScript</sub>
+- [summerliuuu/no-no-debug](https://github.com/summerliuuu/no-no-debug) - 不调试 — AI 编码助理的自演化系统. 10分钟写代码, 2小时调试? 这种技巧让你的AI能记住它的所有错误. <sub>⭐ 153 · Python</sub>
+- [riponcm/GemType](https://github.com/riponcm/GemType) - Chrome & Safari的免费、开源语法替代方案——任何网站的AI语法检查器和文本重写器,由您自己的免费Google双子座API密钥提供动力。没有账户,没有跟踪,没有... <sub>⭐ 150 · JavaScript</sub>
+- [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) - 自由开源AI文本人文化器——绕过GPTZero,Turnitin & AI检测器,并配有16+语言支持. 35个提供者,4个重写关卡,6个写作样式,9个文本目的,13个Tone Presets,多路口... <sub>⭐ 148 · TypeScript</sub>
+- [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - 开源,双语AI视频即时技巧——将想法重写成模型准备的文本到视频提示. 便携式代理技能(Claude Code, Codex, OpenClaw, Hermes);通过Atlas Cloud——种子生成...... <sub>⭐ 147 · JavaScript</sub>
+- [BigCatNotFat/PacificOceanAI](https://github.com/BigCatNotFat/PacificOceanAI) - Overleaf LaTeX 编辑器的AI动力编写助手 - Chrome/Edge扩展,多模式支持(OpenAI,Claude,双子座) <sub>⭐ 144 · TypeScript</sub>
+- [jeffshek/writeup-frontend](https://github.com/jeffshek/writeup-frontend) - 与AI合作的Beat Writer 块 <sub>⭐ 144 · JavaScript</sub>
+- [dixiyao/LLM-Academic-Writing](https://github.com/dixiyao/LLM-Academic-Writing) - 一个公共文献库将研究我们如何利用LLMs作为工具来改进我们的学术著作. <sub>⭐ 142 · TypeScript</sub>
+- [phucnt-bazone-vietnam/use-case-writer](https://github.com/phucnt-bazone-vietnam/use-case-writer) - 这个Claude AI Skill for Business Analysis & Product Owners, 使用 case Writer 范围, 分析, 并在 13-field Karl Wiegers / IIBA 之后, 以英语 Markdown 的 使用 case 规格文档 . <sub>⭐ 138</sub>
+- [dolmens/gptel-aibo](https://github.com/dolmens/gptel-aibo) - Emacs 的人工智能写作助理 <sub>⭐ 137 · Emacs Lisp</sub>
+- [tg-prplx/vellium](https://github.com/tg-prplx/vellium) - 本地首个桌面AI工作台用于角色扮演,多字符聊天,长形写法,RAG,MCP工具,插件,以及本地模型. <sub>⭐ 136 · TypeScript</sub>
+- [iamyoki/qwen-image-2.1-skill](https://github.com/iamyoki/qwen-image-2.1-skill) - Quen-Image-2.1的代理技能:使用官方的Alibaba规范重写并优化文本对图像和多图像编辑提示. compatibility with half.sh and all AI agents. <sub>⭐ 135 · Python</sub>
+- [GorvGoyl/ChatGPT-Writer](https://github.com/GorvGoyl/ChatGPT-Writer) - 免费 Chrome扩展名使用 ChatGPT AI 生成基于您输入的几个关键字的完整电子邮件或回复. <sub>⭐ 131</sub>
+- [itsjwill/vanta](https://github.com/itsjwill/vanta) - 开源AI视频引擎基于Remotion. Voice Clone,AIavatars,动画字幕,文本到视频(Wan 2.2/LTX),AI音乐,视频编辑器,时间线,100+过渡. Free Synthesia, HeyGen... <sub>⭐ 129 · TypeScript</sub>
+- [udaysharmadev/Not-Ai](https://github.com/udaysharmadev/Not-Ai) - Ai并不只是绕过AI探测器。 它把好写作放在首位, 创造出由人类写作标准塑造的清晰而诚实的传言。 这非常适合大学和学校项目, LinkedIn/X. <sub>⭐ 124 · Python</sub>
+- [pileax-ai/yiitap](https://github.com/pileax-ai/yiitap) - 一个AI的动力,Notion风格的WYSIWYG丰富文本块编辑器. <sub>⭐ 122 · TypeScript</sub>
+- [VKirill/claude-lane-stack](https://github.com/VKirill/claude-lane-stack) - 一人的多代理AI编码工厂——Claude Code PM + Codex/Quen/Grok/Kimi/AGY作家,耐用传送器,自动化为主 <sub>⭐ 120 · Python</sub>
+- [makefinks/manim-generator](https://github.com/makefinks/manim-generator) - 使用 manim 库自动生成基于 LLM 的视频。 使用一个带有执行日志的代码写入器和代码审查器反馈循环 。 <sub>⭐ 118 · Python</sub>
+- [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor) - GPTAuthor是AI用于写作长形式,多章故事的工具,给出了故事的提示. <sub>⭐ 116 · Python</sub>
+- [tbhb/vale-ai-tells](https://github.com/tbhb/vale-ai-tells) - 在今天迅速演变的景观中,vale-ai-tells是一个综合的,尖端的Vale风格套装,它使作家们能够无缝地探索AI所讲述的丰富的挂毯. <sub>⭐ 114 · Shell</sub>
+- [tedydonel/Heisenberg](https://github.com/tedydonel/Heisenberg) - 一个基于块的内容引擎和双语博客后端,用于Laravel Gutenberg风格的编辑器,媒体库,邮递模板,角色,以及一个AI写作助理,主机组合为零. <sub>⭐ 113 · PHP</sub>
+- [mhss1/AIStudyAssistant](https://github.com/mhss1/AIStudyAssistant) - AI聊天员,讲座总结者,Essay Writer和问题生成器. <sub>⭐ 112 · Kotlin</sub>
+- [EimanTahir027/Multi-Agent-Book-Writer](https://github.com/EimanTahir027/Multi-Agent-Book-Writer) - 协作AI系统,由多个专业代理商合作规划,写作,编辑,精细完善完整的书籍. <sub>⭐ 111 · Python</sub>
+- [phungkaizen/maintainer-autopilot](https://github.com/phungkaizen/maintainer-autopilot) - 本地第一,可回收的AI维护管道,具有单机安全性和定型性验证性. <sub>⭐ 101 · JavaScript</sub>
+- [treesoop/hwp-mcp](https://github.com/treesoop/hwp-mcp) - MCP服务器用于读写HWP/HWPX(韩语: )文档——基于rhwp. 34工具,Claude/Cursor/ChatGPT兼容. <sub>⭐ 93 · TypeScript</sub>
+- [christiandarkin/Creative-Writers-Toolkit](https://github.com/christiandarkin/Creative-Writers-Toolkit) - 使用 gpt3 来为长形式小说( 小说,剧本等) 集思广益的想法 <sub>⭐ 92 · Python</sub>
+- [Hainrixz/humanizalo](https://github.com/Hainrixz/humanizalo) - Claude Code技能,能检测40个AI写字模式,并将文本重写为声音人性. Self-auditing roop. Bilantics (EN/ES). <sub>⭐ 91</sub>
+- [EtienneAb3d/karaok-AI](https://github.com/EtienneAb3d/karaok-AI) - Karaoke Player / 编辑器, 使用声调和歌词提取自任意歌曲文件中自动创建的剪辑( Speech- to- Text) <sub>⭐ 90 · Java</sub>
+- [mchardyan/anti-ai-writer](https://github.com/mchardyan/anti-ai-writer) - Claude 降低AI检测结果的示范技能 <sub>⭐ 90</sub>
+- [uurtech/jdf](https://github.com/uurtech/jdf) - JDF — 一个JSON文档格式. PDF, diffs in git, 在任意文本编辑器中编辑, 为 LLMs 本地读取. Desktop Reader, jdf.js web 嵌入, CLI. <sub>⭐ 87 · TypeScript</sub>
+- [nlpcloud/nlpcloud-python](https://github.com/nlpcloud/nlpcloud-python) - NLP Cloud为NER,情绪分析,分类,归纳,诠释,意图分类,产品描述和广告生成等高性能预训或定制模型服务. . <sub>⭐ 86 · Python</sub>
+- [seeb4coding/SVG-ORA-Studio](https://github.com/seeb4coding/SVG-ORA-Studio) - SVG ORA Studio是一个自由开放源代码的AI动力矢量设计平台,将文本或图像转化为干净,可编辑的SVG图形,它具有AI驱动生成,内置画布的特色. . <sub>⭐ 86 · TypeScript</sub>
+- [sunilchomal/GECwBERT](https://github.com/sunilchomal/GECwBERT) - 使用语言模型(LM)进行语法错误校正(GEC),不使用注释数据. <sub>⭐ 85 · Jupyter Notebook</sub>
+- [EdwardAThomson/NovelWriter](https://github.com/EdwardAThomson/NovelWriter) - 一个通过利用大语言模型(LLMs)帮助作者写小说/短篇故事的应用. <sub>⭐ 81 · Python</sub>
+- [ruankie/ecrivai](https://github.com/ruankie/ecrivai) - 完全自动的 AI 博客作者,使用 LangChain 和 GPT 类型 LLMS 进行主题选择和内容生成 <sub>⭐ 81 · Jupyter Notebook</sub>
+- [gau820827/AI-writer_Data2Doc](https://github.com/gau820827/AI-writer_Data2Doc) - PyTorch 执行 NBA 游戏摘要生成器. <sub>⭐ 80 · Python</sub>
+- [sanusanth/c-basic-programs](https://github.com/sanusanth/c-basic-programs) - C#是什么?C#是发音"C-Sharp",是一种由微软创建的面向对象的编程语言,运行在.NET框架上.C#有来自C家族的根基,语言接近...... <sub>⭐ 80</sub>
+- [ricky-theseus/DaisyWriter](https://github.com/ricky-theseus/DaisyWriter) - AI动力写作工具包——网络小说,短篇故事,技术博客,出版自动化. OpenCode/Claude Code/Codex CLI技能集. <sub>⭐ 76 · Python</sub>
+- [Lxltx-Team/LXLTX-nsfc_writer](https://github.com/Lxltx-Team/LXLTX-nsfc_writer) - 构建本地AI- Powered NSFC 提案撰写助理 <sub>⭐ 75 · Python</sub>
+- [Anshler/graphify-novel](https://github.com/Anshler/graphify-novel) - 一个知识图AI写作助手 - 跟踪字符,线条,和世界建设 在你的完整手稿,脚手架你的故事圣经 从前提并审查章节的一致性。 <sub>⭐ 73</sub>
+- [grammatical/baselines-emnlp2016](https://github.com/grammatical/baselines-emnlp2016) - 基线模型,训练脚本,以及如何复制我们最先进的语法校正系统的结果的指示,来自M. Junczys-Dowmunt, R. Grundkiewicz: Phase-based Machine... <sub>⭐ 73 · Perl</sub>
+- [Aryia-Behroziuan/References](https://github.com/Aryia-Behroziuan/References) - Poole,Mackworth & Goebel 1998,第1. Russell & Norvig 2003,第55页. AI的定义是作为智能剂的研究: Poole,Mackworth & Goebel(1998),提供了用于... <sub>⭐ 70</sub>
+- [barryceelen/Claudette](https://github.com/barryceelen/Claudette) - 一个将 Anthropic Claude AI API 集成到您的编辑器的 Sublime 文本包 <sub>⭐ 69 · Python</sub>
+- [Abdulbasit110/Blog-writer-multi-agent](https://github.com/Abdulbasit110/Blog-writer-multi-agent) - Blog Write多代理AI是一个自定义的多代理系统,旨在自主创建高质量,研究驱动的博客. 使用LangChain,双子座2.0-Flash-EXP和Serper Web搜索工具,它. <sub>⭐ 68 · Jupyter Notebook</sub>
+- [ElegantEngineeringTech/laravel-translator](https://github.com/ElegantEngineeringTech/laravel-translator) - 一个具有强大功能的Laravel翻译管理器:使用AI,Find missing and dead transformation... <sub>⭐ 66 · PHP</sub>
+- [ErikHellman/txt](https://github.com/ErikHellman/txt) - AI编码时代工程师的快速,键盘驱动终端文本编辑器. <sub>⭐ 64 · Rust</sub>
+- [parazeeknova/nyxtext](https://github.com/parazeeknova/nyxtext) - 一个AI驱动的工具(soon!),它为开发者,学生和创作者提供内容丰富的文本编辑器,从而消除了他们使用任何其他应用程序执行文本相关任务的必要性. <sub>⭐ 64 · Python</sub>
+- [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp) - Scrivener的确定MCP服务器——将您的小说,剧本和手稿与克劳德,ChatGPT,以及任何AI助手连接起来. 53个工具:文档管理,写作分析,内容... <sub>⭐ 63 · TypeScript</sub>
+- [Intellicode/writer](https://github.com/Intellicode/writer) - 由AI(奥拉马)驱动的减速编辑器 <sub>⭐ 62 · TypeScript</sub>
+- [luisquintanilla/hello-world-agents](https://github.com/luisquintanilla/hello-world-agents) - 样本.NET应用使用微软代理框架显示协作AI代理(如编剧+编辑),并配有网页和控制台接口. <sub>⭐ 62 · C#</sub>
+- [wp-innovator/innovator-ai](https://github.com/wp-innovator/innovator-ai) - 您的人工智能助手将 WordPress 内容写作旅程 平滑而美丽 使用 Open AI 和 ChatGPT. <sub>⭐ 61 · TypeScript</sub>
+- [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - 在OpenAI的帮助下,英语语法修饰者:只需粘贴您的文本并复制语法修饰的句子. <sub>⭐ 60 · TypeScript</sub>
+- [Avdpro/StoryWriter](https://github.com/Avdpro/StoryWriter) - 写短篇故事的AI代理 <sub>⭐ 58 · JavaScript</sub>
+- [PacoVK/ollama-deep-researcher-ts](https://github.com/PacoVK/ollama-deep-researcher-ts) - 完全本地网络研究和报告编写助理. 此Repo是奥拉玛深层研究员的Typescript版. <sub>⭐ 57 · TypeScript</sub>
+- [rediumvex/seo-blog-writer-claude](https://github.com/rediumvex/seo-blog-writer-claude) - SEO博客作家Claude技巧——将任何URL,注释或话题变成一个在Google上排行榜的人声博客文章. 填充每个SEO领域:标题,元描述,FAQ schema,目录. Beats... <sub>⭐ 57</sub>
+- [ilrein/openwrite](https://github.com/ilrein/openwrite) - 为小说家,编剧,创作作家提供开源AI动力写作平台. <sub>⭐ 55 · TypeScript</sub>
+- [Veta-one/ClipGen](https://github.com/Veta-one/ClipGen) - AI 驱动的剪贴板增强功能, 使用 Google 双米尼 API 进行即时文本校正、翻译、重写和图像分析 <sub>⭐ 55 · Python</sub>
+- [lguz/humanize-writing-skill](https://github.com/lguz/humanize-writing-skill) - 重写 AI 生成的文本给健全的人. 3- pass 编辑系统,包含36+禁词,10个结构模式,以及质量检查表. Works with any LLM — Claude, ChatGPT, Gemini, Cursor, Windsurf... <sub>⭐ 54</sub>
+- [baldiga/hebrew-writer](https://github.com/baldiga/hebrew-writer) - Claude Code的首个希伯来本土写作技巧。 传遍了所有AI探测器、 愚人以色列本土。 7层系统, 有55+图案检测、 以色列语音注射和语音克隆。 <sub>⭐ 52</sub>
+- [sociilabs/claude-content-writer](https://github.com/sociilabs/claude-content-writer) - 写博客文章、社交内容、电子邮件和销售副本,听起来像你写的一样。 Claude Code的技巧包括分阶段工作流程、平台惯例和反AI审计。 <sub>⭐ 51 · JavaScript</sub>
+- [zhsongallen/CharityPen](https://github.com/zhsongallen/CharityPen) - CharityPen是一位由AI授权的书写助理,为非营利组织精心设计,服务于广泛的目的,从设计赠款提案到组织衷心感谢... <sub>⭐ 51 · Java</sub>
+- [chrisgrieser/obsidian-proofreader](https://github.com/chrisgrieser/obsidian-proofreader) - 基于 AI 的校对和对您写作的风格改进。 修改会直接作为建议插入到编辑器中, 类似于文字处理应用中的建议修改 。 <sub>⭐ 50 · TypeScript</sub>
+- [codextde/textchecker](https://github.com/codextde/textchecker) - 语言工具浏览器扩展的免费开源替代。 它提供语法、拼写和风格检查,使用AI模型,由您自己的 API 密钥提供动力。 <sub>⭐ 50 · TypeScript</sub>
+- [isirin1131/FlowCabal](https://github.com/isirin1131/FlowCabal) - 作者编辑,关注AI的文本工作经验 <sub>⭐ 50 · TypeScript</sub>
+- [S1M0N38/dante.nvim](https://github.com/S1M0N38/dante.nvim) - 一个LLM 驱动的基本写工具 <sub>⭐ 50 · Lua</sub>
+- [nlpcloud/nlpcloud-js](https://github.com/nlpcloud/nlpcloud-js) - NLP Cloud为NER,情绪分析,分类,归纳,诠释,意图分类,产品描述和广告生成等高性能预训或定制模型服务. . <sub>⭐ 49 · JavaScript</sub>
+- [nazdridoy/ngpt](https://github.com/nazdridoy/ngpt) - nGPT - 一个闪电快的CLI工具,将任何OpenAI兼容的LLM(OpenAI, Ollama, Groq, Claude, 双子座)直接带入您的终端. 生成代码, 飞船 git 承诺, 执行 shell 命令... <sub>⭐ 48 · Python</sub>
+- [samrand96/Undetectable-AI](https://github.com/samrand96/Undetectable-AI) - 无法检测到的- AI: 容易但强大的工具来重写 docx, 这样不会被检测为 AI- Written Text <sub>⭐ 48 · Python</sub>
+- [EyadShabrawy/ai-writer](https://github.com/EyadShabrawy/ai-writer) - AI Writer是一个网络应用程序,利用GPT-3技术生成关于各种主题的高质量散文和文章,旨在让写作过程更快,效率更高. . <sub>⭐ 46 · JavaScript</sub>
+- [mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer](https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer) - 此寄存器包含由CrewaI和LangChain共同构建的自主多代理系统的源代码,该项目使AI代理能够合作完成研究,写作等任务以及. <sub>⭐ 46 · Python</sub>
+- [akarshkashyap4-ui/NovelWriter](https://github.com/akarshkashyap4-ui/NovelWriter) - NoverWriter是一个带有内置AI分析工具的小说写作应用程序和一个侧面面板AI代理,能理解您所写的手稿. 它提供场景建议,情节和节奏诊断...... <sub>⭐ 45 · JavaScript</sub>
+- [GEOSOFT-GLOBAL/documentiq](https://github.com/GEOSOFT-GLOBAL/documentiq) - 文档iq是GEOSOFT的开源智能文本处理器。它使用 NLP 和 AI 模型分析、归纳、解译和增强文本和 PDF。为学生、研究人员和... <sub>⭐ 45 · TypeScript</sub>
+- [mihailthebuilder/librethinker-extension](https://github.com/mihailthebuilder/librethinker-extension) - LibreOffice Writer 的 AI 代理驾驶员 <sub>⭐ 44 · Python</sub>
+- [mini20201314-crypto/xhs-ai-tools-writer](https://github.com/mini20201314-crypto/xhs-ai-tools-writer) - ChatGPT/OpenCode/Claude技巧:小洪修AI工具编写工作流程 <sub>⭐ 44</sub>
+- [rounakdatta/CorrectLy](https://github.com/rounakdatta/CorrectLy) - 正确的Ly - 开源拼写和语法校正 <sub>⭐ 44 · Jupyter Notebook</sub>
+- [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) - 为AI辅助研究提供科学写作和文件完整性保护——辩证经济,决定性完整性,安全文字编辑. local_deterministic_零LLM. <sub>⭐ 44 · JavaScript</sub>
+- [t33devv/mailpilot](https://github.com/t33devv/mailpilot) - ai 电子邮件写入 chrome 扩展内容包含在 gmail 中 <sub>⭐ 43 · TypeScript</sub>
+- [Hazrat-Ali9/Generative-AI-Engineer](https://github.com/Hazrat-Ali9/Generative-AI-Engineer) - 一个精锐掌握Generative AI的你完整的工程工具箱,利用与Tacotron WaveNet的艺术模型合成以及更多的AI,构建智能的创意和适应性系统. . <sub>⭐ 42</sub>
+- [DINKIssTyle/DINKIssTyle-Markdown-Browser](https://github.com/DINKIssTyle/DINKIssTyle-Markdown-Browser) - 一个在 Markdown 中读取、编辑和写作的工具。 AI 助手,高级编辑器功能 <sub>⭐ 41 · JavaScript</sub>
+- [hiteshsuthar01/OK-](https://github.com/hiteshsuthar01/OK-) - HTML p标签 (函数( i, s, o, g, r, a, m){i ('GoogleAnalystics Object')=r;i(r)=i(r)/功能( ){(i(r.q/))i(r.q/))},i(r).l=1*新日期();a=s.createElement(o)... <sub>⭐ 41</sub>
+- [sealambda/unit-text](https://github.com/sealambda/unit-text) - 单位测试纯文本 - LLM 作为复制编辑器 <sub>⭐ 41 · Python</sub>
+- [tr1bunal9/Type-AI](https://github.com/tr1bunal9/Type-AI) - Type AI是为抄写员设计的高级写作助手,它能生成高质量的内容,精炼文本,并以AI的动力建议来提升创造力. <sub>⭐ 41</sub>
+- [darrylschaefer/ai-text-editor](https://github.com/darrylschaefer/ai-text-editor) - 作者的AI- 动力单词处理器—— 语义搜索, 版本 diffs, 以及工具使用代理, 可重用 exactly macro. <sub>⭐ 40 · TypeScript</sub>
+- [FontaineRiant/wrAIter](https://github.com/FontaineRiant/wrAIter) - AI写作助理 与表达的旁白和人物 和一个插画家 <sub>⭐ 40 · Python</sub>
+- [jackterror/writers-room-story-engine](https://github.com/jackterror/writers-room-story-engine) - 一个模块化的AI-ready故事开发技能引擎,它建立在皮克斯的22规则,Story Spine,英雄之旅,南方公园因果,以及人物-arc设计之上. <sub>⭐ 40</sub>
+- [jimzers/writegen](https://github.com/jimzers/writegen) - 一个有趣的AI作家:) <sub>⭐ 40 · JavaScript</sub>
+- [MajeedKazemi/code-aid](https://github.com/MajeedKazemi/code-aid) - 一个AI动力编程助理,旨在便利编程中的学习和解决问题,其特色是交互式工具用于代码写入,调试,以及概念理解,同时. <sub>⭐ 40 · TypeScript</sub>
+- [muellerluke/doclific](https://github.com/muellerluke/doclific) - Doclific是一个内部文档工具,其特点是一个概念般丰富的文本编辑器,其中包含用于图解架构的块,代码片段,以及更多的块. 它具有内置的 AI 支持生成功能. <sub>⭐ 40 · TypeScript</sub>
+- [ashnicholes-droid/hahm-ebay-lister](https://github.com/ashnicholes-droid/hahm-ebay-lister) - 免费开源的 AI eBay 列出转售商的写作员——照片输入,张贴上市。 带上你自己的钥匙。 by Hustle at Home Mom. <sub>⭐ 39 · TypeScript</sub>
+- [bamboo-nova/meiseki](https://github.com/bamboo-nova/meiseki) - AI Agent插件,它从AI编写的日本文档中剥离复杂的语法,并将其重写成可以一目了然的文本. <sub>⭐ 39 · Shell</sub>
+- [digoal/skills](https://github.com/digoal/skills) - OPC的宝贵技能 <sub>⭐ 39 · Python</sub>
+- [jeina7/GPT2-essay-writer](https://github.com/jeina7/GPT2-essay-writer) - 基于 GPT-2 的散文编写 AI <sub>⭐ 39 · Jupyter Notebook</sub>
+- [LikithMeruvu/AINewsResearcher-and-BlogWriter](https://github.com/LikithMeruvu/AINewsResearcher-and-BlogWriter) - 项目自动化 AI 新闻收集和博客写作。 我们的 AI 代理收集任何话题的见解和新闻 。 并撰写关于该主题的惊人博客文章或文章 。 整合... <sub>⭐ 38 · Python</sub>
+- [luckrnx09/abook](https://github.com/luckrnx09/abook) - 用于从零生成任何书籍的 AI 授权命令行工具 <sub>⭐ 38 · TypeScript</sub>
+- [Yaroslavle/seo-content-writer-claude-skill](https://github.com/Yaroslavle/seo-content-writer-claude-skill) - 用于长式SEO内容的全AI辅助工作流程. JTBD战略 → E-E-A-T → 五相生产系统 – 为B2B建造. <sub>⭐ 38</sub>
+- [agruai/ai-book-writer](https://github.com/agruai/ai-book-writer) - AI动力书写系统,在数小时内将想法转换成完整的手稿,与多代理协作,实时流线,以及内置成本控制. Tech Stack: FastAPI → PostgreSQL... <sub>⭐ 37 · Python</sub>
+- [EvanZhouDev/graphite](https://github.com/EvanZhouDev/graphite) - 下一代的文本编辑器,由与你一起写作的AI提供动力,而不是为你. <sub>⭐ 37 · JavaScript</sub>
+- [Innei/haklex](https://github.com/Innei/haklex) - AI-内在的 Lexical 丰富的文本编辑器。编辑、渲染、SSR和AI代理协议(LiteXML)——都来自一个计划。反应19, TypeScript, Vanilla Extraction, 无害环境管理。 <sub>⭐ 37 · TypeScript</sub>
+- [input-systems/pen](https://github.com/input-systems/pen) - 可扩展的丰富文本编辑器用于人类和AI Agent合作. <sub>⭐ 37 · TypeScript</sub>
+- [MADEVAL/HumanAI](https://github.com/MADEVAL/HumanAI) - AI技能 重写机器生成的文字,以声音为人书写,跨越9种语言 - 5级管道:清理~特异性→音调~节奏~校对. <sub>⭐ 37 · PowerShell</sub>
+- [Vaibhav2002/WriterAI-Backend](https://github.com/Vaibhav2002/WriterAI-Backend) - WriterAI是一个基于AI的内容书写工具,可以将您的无结构文本变成内容参与,并生成最多5个不同段落,只有5个字输入! <sub>⭐ 37 · Kotlin</sub>
+- [Aryamirsepasi/ProseKeyAI](https://github.com/Aryamirsepasi/ProseKeyAI) - 一个第三方iOS键盘,与AI供应商集成,提供文本调整和重写能力. <sub>⭐ 36 · Swift</sub>
+- [jajuish/deep-writer](https://github.com/jajuish/deep-writer) - 一个以你最喜欢的作家风格创造内容的AI作家 <sub>⭐ 36 · Jupyter Notebook</sub>
+- [jer-nc/blender_deepseek_ai](https://github.com/jer-nc/blender_deepseek_ai) - Blender的文本编辑器实验性加载,AI动力代码助手,与DeepSeek的API集成. <sub>⭐ 36 · Python</sub>
+- [rahulanand1103/youtube-script-writer](https://github.com/rahulanand1103/youtube-script-writer) - YouTube Script Writer是一个开源AI代理,基于标题,语言,语气和长度生成定制的视频脚本,它精简了研究和写作,使创作者能够专注于. <sub>⭐ 36 · Python</sub>
+- [begrossi/ghostwriter-ai](https://github.com/begrossi/ghostwriter-ai) - GhostWriter AI: 实验书作家使用 OpenAI GPT LLM <sub>⭐ 35 · Python</sub>
+- [guoguo-tju/write_agent](https://github.com/guoguo-tju/write_agent) - 用 FastAPI, LangChain, LangGraph, RAG 和 OpenAI 兼容的 API 构建的AI 写助手,用于样式提取,重写,审查和覆盖生成 <sub>⭐ 35 · Python</sub>
+- [TajaKuzman/Achademio](https://github.com/TajaKuzman/Achademio) - AI助手,基于OpenAI的GPT-3.5模型,旨在提升你写研究论文的熟练程度. 允许您根据学术标准调整内容,转换弹点...... <sub>⭐ 34 · Python</sub>
+- [foldl/WritingTools](https://github.com/foldl/WritingTools) - 写作工具,苹果的AI启发应用,魔法Windows,用AI LLM来增强你的笔. One hotkey pression, system-wide,修正语法,标点等等. <sub>⭐ 33 · Pascal</sub>
+- [konten-studio/jekardah-writer](https://github.com/konten-studio/jekardah-writer) - 手提式AI写作工作流程用于钩子,反斜坡编辑,以及天然的Jabodetabek语音. <sub>⭐ 33 · Shell</sub>
+- [mario-montanari/italiano-scrittura-anti-ai](https://github.com/mario-montanari/italiano-scrittura-anti-ai) - (原始内容存档于2018-09-21). Suite per la langua Italiana e sistema avanzato anti AI, proclaude e non solo:scrittura, revictive, vodo d'authore. <sub>⭐ 33 · Python</sub>
+- [michaelxu688/Easy-ai-ebook-writer-kdp-generator](https://github.com/michaelxu688/Easy-ai-ebook-writer-kdp-generator) - ** Easy AI eBook Writer**:与AI在30分钟内完成写作,格式化,以及自发出版全长的eBook的终极指南和系统. Perfect for Amazon KDP作者,数字营销商, and... <sub>⭐ 33</sub>
+- [StasonNoder/Type-AI](https://github.com/StasonNoder/Type-AI) - Type AI是为抄写员设计的高级写作助手,它能生成高质量的内容,精炼文本,并以AI的动力建议来提升创造力. <sub>⭐ 33</sub>
+- [peteole/lm-writing-tool](https://github.com/peteole/lm-writing-tool) - VSCode 扩展语法通过本地 LLM 检查文本 <sub>⭐ 32 · TypeScript</sub>
+- [shashank-sn/holdyourvoice](https://github.com/shashank-sn/holdyourvoice) - 保持你的声音 帮助作家保持他们的声音 当他们与AI合作。 <sub>⭐ 32 · TypeScript</sub>
+- [CBIhalsen/text-rewriter](https://github.com/CBIhalsen/text-rewriter) - 这是文本重写-python寄存器,是一个开源项目,提供python脚本来"人性化"AI生成的文本. 脚本通过表演使文本更加自然和可读...... <sub>⭐ 31 · Python</sub>
+- [zonble/zago](https://github.com/zonble/zago) - AI 提示的终端文本编辑器 <sub>⭐ 31 · Swift</sub>
+- [Auto-Vio/autovio](https://github.com/Auto-Vio/autovio) - 开源AI视频管道. 文本即时_场景_图像_视频剪辑_编辑_MP4. 自办,多供应商,MCP备妥. <sub>⭐ 30 · TypeScript</sub>
+- [deiomo/Writers-Workbench](https://github.com/deiomo/Writers-Workbench) - 一个简单易行的人物卡片构建者,用于SillyTavern和其他AI角色扮演平台. <sub>⭐ 30 · HTML</sub>
+- [eniktab/scientific-paper-writer](https://github.com/eniktab/scientific-paper-writer) - 撰写科学论文的技能:在撰写前获取实时日记指南、 AI 政策和 LaTeX 模板 <sub>⭐ 30</sub>
+- [eric248550/comcom](https://github.com/eric248550/comcom) - Gmail 和 Slack 的 AI 通讯工具栏 — 选择文本, 选择重写模式, 完成。 自宿的 Chrome 扩展 + SaaS 与 Next.js 、 Cloudflare Workers 和 OpenAI 一起构建 <sub>⭐ 30 · TypeScript</sub>
+- [ibuildwith-ai/cody-article-writer](https://github.com/ibuildwith-ai/cody-article-writer) - Cody Article Writer是一个AI Agent Skill,帮助你通过结构化的,迭代的工作流程来撰写研究后支持的文章,有经过批准的源,可选引用,可重复使用的样式指南. . <sub>⭐ 30</sub>
+- [tadasgedgaudas/ai-article-writer](https://github.com/tadasgedgaudas/ai-article-writer) - AI文章作者自动生成1500-7,000+字的文章,以提升您网站的SEO,使其更加生动. <sub>⭐ 30 · TypeScript</sub>
+- [dannwaneri/spec-writer](https://github.com/dannwaneri/spec-writer) - 将模糊的特征请求变成结构化的光谱,技术计划,以及AI编码代理的任务分解——首先生成旗帜假设内含. <sub>⭐ 29</sub>
+- [itallstartedwithaidea/writing-agent](https://github.com/itallstartedwithaidea/writing-agent) - Ghost Writer — AI Content Engine,拥有40点QA,18个平台格式化器,以及三重检测器验证. Built on Ghost Protocol. Popts GPTZero, Pangram, and Independentity.ai. <sub>⭐ 29 · JavaScript</sub>
+- [jsmestad/minga](https://github.com/jsmestad/minga) - 为AI代理时代而建的模式文本编辑器——Neovim风格的编辑,Emacs风格的运行时间灵活性,由Elixir/BEAM和Zig提供动力 <sub>⭐ 29 · Elixir</sub>
+- [KaKasher/PanelPachi](https://github.com/KaKasher/PanelPachi) - AI Manga编辑器能够进行文本识别,翻译,印画和编辑. <sub>⭐ 29 · TypeScript</sub>
+- [kombai-io/webbuilder](https://github.com/kombai-io/webbuilder) - 一个网站模板编辑器的制作准备前端 - 用于 HTML 模板的视觉编辑。 编辑文本、 图像和布局块, 并获得功能性的 HTML, CSS 代码输出。 此应用程序... <sub>⭐ 28 · TypeScript</sub>
+- [MarcoPorcellato/logseq-matryca-parser](https://github.com/MarcoPorcellato/logseq-matryca-parser) - 停止将破碎的Markdown输入到你的AI。一个定时逻辑解析器为RAG保留父子背景,外加60FPS可视化器,外加只保留编剧附件 <sub>⭐ 28 · Python</sub>
+- [mekedron/ClipSlop](https://github.com/mekedron/ClipSlop) - macOS的AI写入工具——固定语法,翻译,重写,格式文本带有热键. chain提示为管道. Works with ChatGPT, Anthropic, Ollama. Free and open-source. <sub>⭐ 28 · Swift</sub>
+- [UMCU-Digital-Health/discharge-documentation-generator](https://github.com/UMCU-Digital-Health/discharge-documentation-generator) - 使用 LLM 编写临床出院书草稿的工具 <sub>⭐ 28 · Python</sub>
+- [lebek/modmixer](https://github.com/lebek/modmixer) - 修改您最喜欢的游戏而不写入代码。 Modmixer 是用于解编/索引您的游戏的桌面应用程序,并为您的AI编码 LLM(Claude, Codex, Kimi, Deepseek等)提供工具以... <sub>⭐ 27 · TypeScript</sub>
+- [NoteHub-official/NoteHub](https://github.com/NoteHub-official/NoteHub) - NoteHub是一个在线便笺共享平台,用户可以在实时协作环境下使用多功能的丰富文本编辑器编辑便笺. NoteHub还提供在. <sub>⭐ 27 · Vue</sub>
+- [AnkitSharma-007/angular-gemini-writing-assistant](https://github.com/AnkitSharma-007/angular-gemini-writing-assistant) - 一个轻量级的Angular应用程序,它使用Google双子座来提供实时语法校正,就像您输入的一样. <sub>⭐ 26 · SCSS</sub>
+- [Intersect-Collaborations-LLC/research-workflow-assistant](https://github.com/Intersect-Collaborations-LLC/research-workflow-assistant) - VS代码+GitHub Copilot的开源AI研究助手. 连接到PubMed,OpenAlex,语义学者,欧洲PMC,CrossRef,和Zotero 通过MCP服务器. Customatics agents 系统化地指导... <sub>⭐ 26 · HTML</sub>
+- [luixaviles/pet-shelter-app](https://github.com/luixaviles/pet-shelter-app) - 在动物避难所管理和展示可收养宠物的全网应用。 以Angular和Node.js为主建的, 由AI提供动力协助, 用Chrome的... <sub>⭐ 26 · TypeScript</sub>
+- [SagarBiswas-MultiHAT/Ai-Resume-Analyzer](https://github.com/SagarBiswas-MultiHAT/Ai-Resume-Analyzer) - 一个本地首个Flask网络应用程序,它使用一个Groq/OpenAI兼容的LLM来分析PDF/DOCX恢复. 提取文本,返回结构化反馈,并带有评分,关键词缺口,优先级修正,以及重写... <sub>⭐ 26 · Python</sub>
+- [ScottKirvan/BojuBot](https://github.com/ScottKirvan/BojuBot) - 不只是写作助理——BojuBot将你的Obsidian金库变成个人AI平台. <sub>⭐ 26 · TypeScript</sub>
+- [onderceylan/proofly](https://github.com/onderceylan/proofly) - 证明 - 私人 AI 写作, 校对和语法助理。 您的隐私第一写作助理由 Chrome 在设备上 AI 提供动力 。 <sub>⭐ 25 · TypeScript</sub>
+- [riekelt/technical-writer](https://github.com/riekelt/technical-writer) - 代理商的工程写作技能:Specs, ADRs, changelogs, runbook, 迁移指南, 尸检。 <sub>⭐ 25 · JavaScript</sub>
+- [YounesBensafia/arxiv-reader-mcp](https://github.com/YounesBensafia/arxiv-reader-mcp) - 要搜索 arXiv 文件,获取元数据, 并提取 PDF 全文而不离开编辑器吗 ? 这个 MCP 服务器将任何 MCP 兼容客户端( Claude Code等) 直接连接到 arXiv 。 <sub>⭐ 25 · Python</sub>
+- [aws-samples/improve-employee-productivity-using-genai](https://github.com/aws-samples/improve-employee-productivity-using-genai) - 员工生产率GenAI Application Employment是一种创新的代码样本和架构模式,旨在利用AWS无服务器技术和亚马逊贝德罗克的. <sub>⭐ 24 · JavaScript</sub>
+- [bejek/humanizer-czech](https://github.com/bejek/humanizer-czech) - 捷克 AI 文本人文化器(český humanizér AI textu). 检测和改写 27 AI 特指捷克语的写法模式. 双传系统:重写+自查. 4 输出风格,与 Claude 共事... <sub>⭐ 24</sub>
+- [crazyaiproduct/research-opp-cold-email-writer](https://github.com/crazyaiproduct/research-opp-cold-email-writer) - 一个AI代理 帮助你写冷电子邮件 为研究机会! <sub>⭐ 24 · Python</sub>
+- [everettjf/typetide](https://github.com/everettjf/typetide) - TypeTide — 全系统的 AI 翻译和内置重写 macOS。 选择要翻译的文本, 或者在任何应用程序中重写你自己的书写 。 本地( Ollama) 或 OpenAI 兼容后端 。 <sub>⭐ 24 · C++</sub>
+- [GMago-LeWay/GECFramework](https://github.com/GMago-LeWay/GECFramework) - 语法错误校正方法的代码系统。 ACL 24主“ 通过通用语言模型检测-校正结构用于语法错误校正” 的代码Repo <sub>⭐ 24 · Python</sub>
+- [haesleinhuepf/story-writer](https://github.com/haesleinhuepf/story-writer) - 一个基于AI的故事作家和Python库,它使用OpenAI的CharpGPT和Dall-E生成PDF,其中包含一个故事和一个来自一个提示的图片,并将其写入一个PDF. <sub>⭐ 24 · Python</sub>
+- [ldblckrs-258/novel-studio](https://github.com/ldblckrs-258/novel-studio) - 为越南作家和翻译者建造的AI动力的,本地首部创意小说写作工作空间. <sub>⭐ 24 · TypeScript</sub>
+- [SeloSlav/arkyv-engine](https://github.com/SeloSlav/arkyv-engine) - AI 驱动的文本冒险引擎, 并有多人支持. 创建有智能NPC的MUD, 动态世界建筑, 以及实时协作. 与 Next.js, SpacetimeDB, 和 AI. 功能... <sub>⭐ 24 · JavaScript</sub>
+- [silly-geese/estonian-mcp](https://github.com/silly-geese/estonian-mcp) - 更好的爱沙尼亚语来自你的AI代理。 离线的 MCP 服务器( 没有第三方呼叫) 包装 EstNLTK, EKI Reeglid + Riigi Teataja。 26个只读工具:拼写、形态学、整形学、 kantseliit、 合法... <sub>⭐ 24 · Python</sub>
+- [TanayGhanshyam/crispy-octo-guide](https://github.com/TanayGhanshyam/crispy-octo-guide) - 20世纪60年代我还是个孩子,圣诞节我只想要一丝不苟和一些摇滚机器人。 现在想象一下我们已经旅行了十年,然后... <sub>⭐ 24</sub>
+- [vulogov/blackInkhaven](https://github.com/vulogov/blackInkhaven) - Inkhaven是写书和长式技术文档的独立终端应用程序,它将一个全屏幕的Typst编辑器与本地语义索引,一个AI编写助理配对. . <sub>⭐ 24 · Rust</sub>
+- [Fusyong/ai-proofread-vscode-extension](https://github.com/Fusyong/ai-proofread-vscode-extension) - 基于 LLM 服务的文档校对和书籍校对的 VS 代码扩展 <sub>⭐ 23 · TypeScript</sub>
+- [MarkEdit-app/MarkEdit-ai-writer](https://github.com/MarkEdit-app/MarkEdit-ai-writer) - MarkEdit的AI编剧,基于苹果公司的基础模型. <sub>⭐ 23 · TypeScript</sub>
+- [nlpcloud/nlpcloud-php](https://github.com/nlpcloud/nlpcloud-php) - NLP Cloud为NER,情绪分析,分类,归纳,诠释,意图分类,产品描述和广告生成等高性能预训或定制模型服务. . <sub>⭐ 23 · PHP</sub>
+- [obetomuniz/web-ai-sdk](https://github.com/obetomuniz/web-ai-sdk) - web-ai-sdk:用于Web AI表面的TypeScript SDK(Prompt, Writer, Rewriter,Proofreader,翻译器,总结器,语言探测器,WebMCP). <sub>⭐ 23 · TypeScript</sub>
+- [Bonifacez/Notez](https://github.com/Bonifacez/Notez) - 注: 隐私- 第一人工智能写作助理。 请立即、 本地访问所有文档 。 <sub>⭐ 22</sub>
+- [d-wwei/great-writer](https://github.com/d-wwei/great-writer) - 通用AI写作技巧——技术文章,营销副本,研究报告,小洪修笔记,技术文献. 研究驱动,全管式,反AI-slop.bilantic(EN/ZH). <sub>⭐ 22 · Shell</sub>
+- [eneax/x-writer](https://github.com/eneax/x-writer) - AI写作助手由GPT-3和OpenAI共同建造. <sub>⭐ 22 · TypeScript</sub>
+- [essamamdani/autobloggging-pro](https://github.com/essamamdani/autobloggging-pro) - Autoblogg.pro是使用人工智能为WordPress博客实现内容创建自动化的服务,它生成高质量,SEO优化,以及AI驱动的无盗版文章. . <sub>⭐ 22 · PHP</sub>
+- [jawerty/script-monkey](https://github.com/jawerty/script-monkey) - 好莱坞剧本作家AI (Streamlit + Llama 2). <sub>⭐ 22 · Python</sub>
+- [minh-hoque/BlogGPT](https://github.com/minh-hoque/BlogGPT) - 您的个人 AI 博客作家 <sub>⭐ 22 · Python</sub>
+- [puchinc/Grammar-Correction](https://github.com/puchinc/Grammar-Correction) - 神经语法校正与转移学习 <sub>⭐ 22 · Python</sub>
+- [ra-jeev/write-assist-ai](https://github.com/ra-jeev/write-assist-ai) - OpenAI 驱动的 VS 代码文本重写器。 与 Markdown、 LaTeX、 quarto、 打印和文本文件一起工作。 通过设置可以完全自定义 。 <sub>⭐ 22 · TypeScript</sub>
 
 ## 📰 博客、SEO 与内容
 
 > 文章生成、优化内容和选题。
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT… <sub>⭐ 29.5k · JavaScript</sub>
-- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI engineering & system design, join this newsletter <sub>⭐ 29.3k</sub>
-- [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) - Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates. <sub>⭐ 3.7k · PHP</sub>
-- [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation <sub>⭐ 3.6k · Python</sub>
-- [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! OpenAI-Compatible. Streaming &… <sub>⭐ 2.9k · Python</sub>
-- [zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude) - AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and… <sub>⭐ 2.7k · Python</sub>
-- [hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey) - Collecting awesome papers of RAG for AIGC. We propose a taxonomy of RAG foundations, enhancements, and applications in paper "Retrieval-Augmented Generation for AI-Generated Content: A Survey". <sub>⭐ 1.8k</sub>
-- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and video, up to 5x faster than OpenAI CLIP and LLaVA & <sub>⭐ 1.3k · Python</sub>
-- [ALwrity/ALwrity](https://github.com/ALwrity/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP <sub>⭐ 1.2k · Python</sub>
-- [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) - An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - grounded in brand context, human approval, and verifiable outputs. <sub>⭐ 843 · Python</sub>
-- [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) - 77 open-source marketing skills for Claude Code, Codex, and other AI coding agents. SEO, content, email, ads, analytics, and growth. <sub>⭐ 705 · JavaScript</sub>
-- [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, build landing pages, deploy — full flywheel with social intelligence. Works with… <sub>⭐ 689 · HTML</sub>
-- [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata) - Public free starter pack for Lenny's Podcast transcripts and Lenny's Newsletter posts, in AI-friendly markdown. <sub>⭐ 664</sub>
-- [business-science/free-ai-tips](https://github.com/business-science/free-ai-tips) - Free AI-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized Python AI for Business tutorials every week. Sign up here <sub>⭐ 650 · Python</sub>
-- [Anil-matcha/Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) - Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation. <sub>⭐ 533 · JavaScript</sub>
-- [AgriciDaniel/claude-youtube](https://github.com/AgriciDaniel/claude-youtube) - Claude Code skill for YouTube creators — channel audits, video SEO, retention scripts, thumbnails, content strategy, Shorts optimization, analytics, monetization, and more. <sub>⭐ 413 · Python</sub>
-- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) - AI ContentCraft is an all-in-one content creation suite that helps creators generate stories, podcast scripts, and multimedia content using AI-powered text generation, speech synthesis, and image… <sub>⭐ 400 · HTML</sub>
-- [alternbits/awesome-ai-newsletters](https://github.com/alternbits/awesome-ai-newsletters) - A curated list of top best AI Related Newsletters and ai agents newsletters <sub>⭐ 398</sub>
-- [Mwaseemzakir/awesome-dotnet-resources](https://github.com/Mwaseemzakir/awesome-dotnet-resources) - A hand-picked list of .NET and C# resources including books, courses, blogs, tools, AI tools, newsletters, podcasts, and interview prep. <sub>⭐ 349 · HTML</sub>
-- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software… <sub>⭐ 266 · Jupyter Notebook</sub>
-- [CopywriterPro-ai/copywriterproai-backend](https://github.com/CopywriterPro-ai/copywriterproai-backend) - World’s first Open Source AI content writing platform that empowers users to create SEO-friendly blog posts, ad copy for social media, website landing pages, and more. <sub>⭐ 220 · JavaScript</sub>
-- [NVIDIA-Omniverse/usd-content-agents](https://github.com/NVIDIA-Omniverse/usd-content-agents) - AI-powered agents for automating 3D content workflows using Vision-Language Models (VLMs). Content Agents analyze 3D assets and automate material assignment, physics property classification, and… <sub>⭐ 214 · Python</sub>
-- [cporter202/ai-growth-stack](https://github.com/cporter202/ai-growth-stack) - A curated collection of my top AI-powered APIs for website optimization, SEO, conversions, and social media growth. This stack covers everything from data extraction and copywriting to landing page… <sub>⭐ 212</sub>
-- [Bomx/distribb-skill](https://github.com/Bomx/distribb-skill) - Distribb CLI, Claude, Codex, Hermes, OpenClaw skill for AI-powered SEO. Write content with your own AI, publish through Distribb's backlink network. <sub>⭐ 197 · Python</sub>
-- [mverab/eGEOagents](https://github.com/mverab/eGEOagents) - Open-source Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) toolkit — optimize content to rank in ChatGPT, Perplexity, Gemini & Claude. AI SEO / LLM SEO. CLI, Claude Code, MCP. <sub>⭐ 196 · Python</sub>
-- [Colinjqq/content-forecast](https://github.com/Colinjqq/content-forecast) - A creator-first AI skill for topic generation, script review, filming guidance, and view forecasting. <sub>⭐ 189 · Python</sub>
-- [PNGTRID/AnvilWiki](https://github.com/PNGTRID/AnvilWiki) - Open-source game wiki template. Astro + Cloudflare Pages. Free, fast, beginner-friendly. Static-first, zero-JS, AI-native content workflow, unlimited bandwidth. <sub>⭐ 177 · TypeScript</sub>
-- [brightdata/geo-ai-agent](https://github.com/brightdata/geo-ai-agent) - AI-powered tool to audit and optimize website content by crawling URLs, analyzing H1s, and generating actionable GEO recommendations with CrewAI. <sub>⭐ 170 · Python</sub>
-- [yaojingang/GEOHub](https://github.com/yaojingang/GEOHub) - GEOHub: open, evidence-bounded GEO and SEO agent skills for AI Search, with research-grounded discovery, diagnosis, content, measurement, and one-line SEO planning. <sub>⭐ 164 · HTML</sub>
-- [AnkitNayak-dev/CrawlAI-RAG](https://github.com/AnkitNayak-dev/CrawlAI-RAG) - CrawlAI RAG is an AI-powered website intelligence platform that allows users to crawl entire websites, index their content, and ask natural-language questions using Retrieval-Augmented Generation… <sub>⭐ 157 · Python</sub>
-- [AgriciDaniel/claude-repurpose](https://github.com/AgriciDaniel/claude-repurpose) - Content Repurposing Engine for Claude Code. Turn 1 piece of content into 10+ platform-optimized posts for Twitter, LinkedIn, Instagram, Facebook, YouTube, Skool, Reddit, and newsletters. <sub>⭐ 156 · Python</sub>
-- [seranking/seo-skills](https://github.com/seranking/seo-skills) - Claude SEO Skills — production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voice, audits, backlink gaps, keyword clusters, schema, sitemap, GEO, and more. <sub>⭐ 155 · Python</sub>
-- [ruvnet/guardrail](https://github.com/ruvnet/guardrail) - GuardRail: Advanced tool for data analysis and AI content generation using OpenAI GPT models. Features sentiment analysis, content classification, trend analysis, and tailored GPT model usage. Ideal… <sub>⭐ 154 · Python</sub>
-- [AthenaCore/AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) - A curated list of awesome academic research, books, code of ethics, courses, databases, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, reports… <sub>⭐ 152</sub>
-- [JoshithReddyAleti/AI_Engineer_Interview_Prep](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep) - MAANG-level AI Engineer interview prep mapped to the AI Engineering Roadmap 2026 newsletter. Deep conceptual, coding, system design & behavioral questions with detailed answers. Covers LLMs, Python… <sub>⭐ 148</sub>
-- [Suganthan-Mohanadasan/Suganthans-GSC-MCP](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) - An MCP server for Google Search Console. Ask Claude questions about your search data and get real answers. 29 tools: quick wins, cannibalisation, content decay, CTR benchmarking, image SEO, AI… <sub>⭐ 144 · TypeScript</sub>
-- [CopywriterPro-ai/copywriterproai-frontend](https://github.com/CopywriterPro-ai/copywriterproai-frontend) - World’s first Open Source AI content writing platform that empowers users to create SEO-friendly blog posts, ad copy for social media, website landing pages, and more. <sub>⭐ 140 · JavaScript</sub>
-- [luka2chat/awesome-geo](https://github.com/luka2chat/awesome-geo) - A curated list of awesome resources for Generative Engine Optimization (GEO) - optimizing content for AI search engines like ChatGPT, Perplexity, Claude, and Google AI Overviews. <sub>⭐ 130</sub>
-- [ansvisor/ansvisor](https://github.com/ansvisor/ansvisor) - Open-source AI Search Intelligence Platform — track, analyze, and improve AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI… <sub>⭐ 127 · TypeScript</sub>
-- [HiFoxAI/HiFox](https://github.com/HiFoxAI/HiFox) - All-in-one AI platform for Content Creation, Copywriting, Q&A, Image/Video/Voice Generation, Intelligent Agents, Automated Workflows, and Custom AI Apps. <sub>⭐ 114</sub>
-- [insideout10/wordlift-plugin](https://github.com/insideout10/wordlift-plugin) - WordLift brings the power of Artificial Intelligence to beautifully organize content. Attract new readers and get their true attention. <sub>⭐ 112 · PHP</sub>
-- [Machine-Learning-Tokyo/AI-ML-Newsletter](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter) - AI Digest: Monthly updates on AI and ML topics <sub>⭐ 104</sub>
-- [TheMattBerman/seo-kit](https://github.com/TheMattBerman/seo-kit) - AI agent that finds keywords, writes content, monitors rankings, and self-improves. Two OpenClaw skills that chain into a compounding SEO loop. <sub>⭐ 97 · Shell</sub>
-- [AgriciDaniel/linkedin-content-creator](https://github.com/AgriciDaniel/linkedin-content-creator) - AI-powered LinkedIn content generator with text, image & carousel posts. Features smart AI research, content calendar, batch generation, and direct LinkedIn posting via OAuth. Built with React… <sub>⭐ 96 · TypeScript</sub>
-- [Genaker/AgentoAI](https://github.com/Genaker/AgentoAI) - AgentoAI: Magento MCP AI Agent and AI features for Magento: - product content creation, report generation, grid filters, product promotion image creation, product video creation. AI analytics. <sub>⭐ 91 · PHP</sub>
-- [developer2013/bricks-mcp-open](https://github.com/developer2013/bricks-mcp-open) - The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more. <sub>⭐ 90 · PHP</sub>
-- [blue68/ai-hottopics](https://github.com/blue68/ai-hottopics) - Open-source hot topic tracking, analysis, content generation, and push workflow. <sub>⭐ 79 · JavaScript</sub>
-- [BunnySoCrazy/Awesome-3D-Generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation) - A curated list of awesome 3D generation resources, papers, and tools for AI-powered 3D content creation. <sub>⭐ 79 · HTML</sub>
-- [vicperdana/SemantiClip](https://github.com/vicperdana/SemantiClip) - SemantiClip is an intelligent video processing application that transforms video content into rich, structured written formats. Built with Microsoft Agent Framework, SemantiClip automates the… <sub>⭐ 79 · C#</sub>
-- [LEON-gittech/Skill2Poster](https://github.com/LEON-gittech/Skill2Poster) - Codex skills for academic poster generation: turn paper content into accurate A0 HTML/PDF posters via AI design mockups. <sub>⭐ 77 · TeX</sub>
-- [Madhumethra/AI-RECIPE-GENERATION](https://github.com/Madhumethra/AI-RECIPE-GENERATION) - Recipe Generation from Food Image– Developed a CNN-based image classification model achieving 94% accuracy across 100+ ingredients.– Integrated LLM-based automation for recipe generation, reducing… <sub>⭐ 77</sub>
-- [akii-technologies-ltd/akii-seo-ai-search-optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free Claude Code plugin for SEO, AEO, and GEO. Audit sites, optimize content, generate schema, and track AI visibility across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Google AI Overviews. <sub>⭐ 76 · Markdown</sub>
-- [EthicalML/awesome-agentic-engineering-resources](https://github.com/EthicalML/awesome-agentic-engineering-resources) - A curated list of high-signal resources — articles, books, courses, cookbooks, papers, playbooks, benchmarks, talks, podcasts, and newsletters — for agentic engineering and AI engineering. <sub>⭐ 76</sub>
-- [khshanovskyi/ai-dial-content-generation](https://github.com/khshanovskyi/ai-dial-content-generation) - Task to work with different content generation via DIAL API <sub>⭐ 74 · Python</sub>
-- [0xneobyte/VaultAI](https://github.com/0xneobyte/VaultAI) - An AI chatbot plugin for Obsidian using the Gemini API for note summarization, content generation, and more. Enhance your workflow with AI assistance like the Notion AI bot. <sub>⭐ 71 · TypeScript</sub>
-- [nomie7/nano-banana-slides-prompter](https://github.com/nomie7/nano-banana-slides-prompter) - Generate optimized AI prompts for Nano Banana Pro Slides with dynamic character generation, 50+ content-aware slide templates, and cinematic visual styles <sub>⭐ 71 · TypeScript</sub>
-- [HuyLe82US/awesome-seedance-prompts](https://github.com/HuyLe82US/awesome-seedance-prompts) - Seedance 2.0 prompt vault & resource hub for high-fidelity AI video generation. Curated, proven templates plus practical workflows to go from idea → production-ready outputs fast-covering cinematic… <sub>⭐ 69</sub>
-- [Hemanthk-source/ai-based-content-generation-system](https://github.com/Hemanthk-source/ai-based-content-generation-system) - ai-based-content-generation-system <sub>⭐ 66 · Python</sub>
-- [TangSY/dailydawn](https://github.com/TangSY/dailydawn) - Daily AI brief for indie builders — what to ship, what to skip, who's eating whose lunch. Bilingual. <sub>⭐ 66 · Python</sub>
-- [KentaHomma/kamuicode-workflow](https://github.com/KentaHomma/kamuicode-workflow) - Claude Code SDK & kamuicode MCP workflow templates for AI content generation <sub>⭐ 64</sub>
-- [dageno-agents/seo-geo-content-engine](https://github.com/dageno-agents/seo-geo-content-engine) - Professional SEO and GEO content workflows for brands, SaaS teams, SEO operators, agencies, and AI-search growth teams. <sub>⭐ 61</sub>
-- [Tools2U/AI-Website-Audit-CLI](https://github.com/Tools2U/AI-Website-Audit-CLI) - Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis. <sub>⭐ 61 · Python</sub>
-- [marketinguys/awesome-email-marketing](https://github.com/marketinguys/awesome-email-marketing) - A curated list of tools, templates, platforms, and resources for email marketing, covering newsletter creation, automation, analytics, deliverability, AI copywriting, and more. <sub>⭐ 60</sub>
-- [2404589803/hf-daily-paper-newsletter-chinese](https://github.com/2404589803/hf-daily-paper-newsletter-chinese) - Your Daily Dose of AI Research from Hugging Face Stay updated with the latest AI breakthroughs! This bot automatically collects and analyzes papers from Hugging Face's daily papers, providing Chinese… <sub>⭐ 59 · HTML</sub>
-- [YounesBensafia/overleaf-mcp-server](https://github.com/YounesBensafia/overleaf-mcp-server) - MCP server for Overleaf projects. Syncs LaTeX files via Git, parses sections, equations, and citations, and exposes them to AI clients for assisted paper review, LaTeX fixes, and content generation. <sub>⭐ 58 · Python</sub>
-- [shubcodes/fireworksai-browseruse](https://github.com/shubcodes/fireworksai-browseruse) - A powerful AI agent for browser-based interactions powered by Fireworks AI models. Navigate the web, extract content, analyze websites, and provide intelligent feedback based on what it sees.… <sub>⭐ 57 · Python</sub>
-- [pgEdge/pgedge-rag-server](https://github.com/pgEdge/pgedge-rag-server) - A simple API server for performing Retrieval-Augmented Generation (RAG) of text based on content from a PostgreSQL database using pgvector. <sub>⭐ 56 · Go</sub>
-- [rahulanand1103/rag-citation](https://github.com/rahulanand1103/rag-citation) - RAG Citation enhances Retrieval-Augmented Generation (RAG) by automatically generating relevant citations for AI-generated content. It ensures credibility by backing responses with accurate… <sub>⭐ 56 · Python</sub>
-- [badboysm890/Youtube2Blog](https://github.com/badboysm890/Youtube2Blog) - Transform your YouTube content into engaging blog posts effortlessly with our AI-powered Youtube to Blog conversion tool. Optimize your reach and unlock the potential of SEO for your videos. Get… <sub>⭐ 54 · JavaScript</sub>
-- [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) - Open-source marketing harness for Claude Code and Codex: skills for SEO, content, email, ads, launches, CRO and AI-search visibility. Run as a service by Talk To Gina. <sub>⭐ 54 · Python</sub>
-- [MarsX-dev/seobot-nextjs-blog](https://github.com/MarsX-dev/seobot-nextjs-blog) - Integrate SEObot API into Your Next.js Website Elevate your website's SEO with dynamic, real-time blog content using SEObot. Our Next.js integration sample code makes it incredibly easy to pull in… <sub>⭐ 54 · TypeScript</sub>
-- [mindori/linkpress](https://github.com/mindori/linkpress) - Turn your Slack links into a personal tech magazine with AI-powered summaries <sub>⭐ 54 · TypeScript</sub>
-- [Cripacx/mediagen](https://github.com/Cripacx/mediagen) - AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking. <sub>⭐ 52 · TypeScript</sub>
-- [norahe0304-art/30x-seo](https://github.com/norahe0304-art/30x-seo) - 23 production-ready SEO skills for Claude Code. Technical SEO, content optimization, keyword research, backlink analysis, and AI visibility monitoring. <sub>⭐ 52 · Python</sub>
-- [OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator) - SEO content creator and Humanizer for WordPress using OpenAI, Anthropic Claude and Gemini, with editable prompts, images and Opace AI Hub. <sub>⭐ 52 · PHP</sub>
-- [RankSpotAI/awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills) - A curated list of Agent Skills for SEO. Technical audits, keyword research, content briefs, schema, GEO and AI visibility, for Claude Code, Codex, Cursor and OpenClaw. <sub>⭐ 52 · Python</sub>
-- [xinsuifan-web/Cloud-Platform-for-Construction-Project-Bidding](https://github.com/xinsuifan-web/Cloud-Platform-for-Construction-Project-Bidding) - A SaaS collaboration platform for construction project bidding, covering bid document preparation, knowledge base management, compliance review, workflow coordination, and AI-assisted content… <sub>⭐ 51 · Python</sub>
-- [ckt1031/obsidian-wordwise-plugin](https://github.com/ckt1031/obsidian-wordwise-plugin) - Writing companion for AI content generation. <sub>⭐ 49 · TypeScript</sub>
-- [qtecsolution/AI-Content-Image-Generator-SaaS](https://github.com/qtecsolution/AI-Content-Image-Generator-SaaS) - AI-powered content and image generation SaaS platform built with Laravel, featuring a chat interface with AI. This project enables users to interact with AI for content creation, image generation… <sub>⭐ 49 · Blade</sub>
-- [eladlaor/langrag](https://github.com/eladlaor/langrag) - The Whatsapp analysis & newsletter solution adopted by Israel's leading AI communities <sub>⭐ 48 · Python</sub>
-- [IamRamgarhia/All-In-One-Free-SEO-Tool](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool) - Free SEO tool — open-source, self-hosted alternative to Ahrefs, Semrush & Moz. 99 tools: site audits, rank tracking, keyword research, AI search visibility (ChatGPT, Perplexity, Gemini, AI… <sub>⭐ 47 · TypeScript</sub>
-- [laiso/xpaper](https://github.com/laiso/xpaper) - A Chrome extension that turns your X (Twitter) timeline into an AI-curated newsletter. <sub>⭐ 47 · TypeScript</sub>
-- [TalEliyahu/AI-Security-Newsletter](https://github.com/TalEliyahu/AI-Security-Newsletter) - AI Security Newsletter - A monthly digest of AI security research, insights, reports, upcoming events, and tools & resources <sub>⭐ 47</sub>
-- [trgkyle/veo-automation-user-guide](https://github.com/trgkyle/veo-automation-user-guide) - A powerful Chrome extension that automates batch video and image generation on Google Flow AI VEO3. Process multiple prompts simultaneously, configure your workflow, and automatically download… <sub>⭐ 47</sub>
-- [199-biotechnologies/claude-skill-seo-geo-optimizer](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer) - Production-ready Claude skill for comprehensive SEO/GEO optimization. Analyzes content for traditional search engines + AI platforms (ChatGPT, Perplexity, Claude, Gemini). Includes entity extraction… <sub>⭐ 46 · Python</sub>
-- [athrala/AI-SaaS-Content-Generation-Platform](https://github.com/athrala/AI-SaaS-Content-Generation-Platform) - A user-centric AI SaaS Platform, powered by Next.js 13 App Router. It can function as chatbot, image, music, code, and video generators <sub>⭐ 45 · TypeScript</sub>
-- [aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos) - This repository features three demos that can be effortlessly integrated into your AWS environment. They serve as a practical guide to leveraging AWS services for crafting a sophisticated Large… <sub>⭐ 45 · TypeScript</sub>
-- [AICrafterZheng/AI-Frontiers-Digest](https://github.com/AICrafterZheng/AI-Frontiers-Digest) - AI Frontiers Digest leverages LLMs to intelligently curate and summarize the latest developments in AI, while also generating engaging Podcasts. <sub>⭐ 43 · Python</sub>
-- [chris-short/devopsish.com](https://github.com/chris-short/devopsish.com) - DevOps, Cloud Native, Hybrid Cloud, Open Source, AI, industry news, culture, and the ‘ish between. <sub>⭐ 43 · HTML</sub>
-- [Balaji-R-05/askdocs-ai](https://github.com/Balaji-R-05/askdocs-ai) - An AI-powered chatbot that leverages RAG (Retrieval-Augmented Generation) to answer your questions based on the content of uploaded PDFs <sub>⭐ 42 · Python</sub>
-- [Arnav3241/Jarvis-v13](https://github.com/Arnav3241/Jarvis-v13) - Jarvis v13 is a Python-based personal assistant powered by Gemini, designed to automate tasks, answer queries, and assist with creative content generation. <sub>⭐ 41 · Python</sub>
-- [SoCloseSociety/MiloAgent](https://github.com/SoCloseSociety/MiloAgent) - MiloAgent — Autonomous AI Growth Agent for Reddit, Twitter/X & Telegram. Self-learning bot with LLM-powered content generation, multi-account management, community automation, and A/B testing. Zero… <sub>⭐ 41 · Python</sub>
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - AI视频平台的不受限制的开源替代——免费AI图像和视频生成工作室,配有600+模型(Flux,Midjourney,Kling,Sora,Veo). 无内容过滤器. 自办,MIT... <sub>⭐ 29.5k · JavaScript</sub>
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - 如果你想在AI工程和系统设计上表现得更好,请加入这份通讯 <sub>⭐ 29.3k</sub>
+- [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) - 开源GEO内容工程和多站发布平台,并设有AI质量检查,显示管理员帮助,主机网站,浏览器辅助出版,并签名更新. <sub>⭐ 3.7k · PHP</sub>
+- [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - 开放源代码AI营销技能——成长实验,销售管道,内容操作,外出,SEO,以及财务自动化 <sub>⭐ 3.6k · Python</sub>
+- [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 代码生成:DeepSeek r1 + Claude 3.7 Sonnet - 无与伦比的性能! 内容创建:DeepSeek r1 + 双子座2.5 Pro - 高级质量! OpenAI - 兼容性,流化 &... <sub>⭐ 2.9k · Python</sub>
+- [zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude) - AI Marketing Suite for Claude Code. 15个营销技能与平行的子代理——审计任何网站,生成副本,电子邮件序列,广告宣传,内容日历,竞争性智能,以及... <sub>⭐ 2.7k · Python</sub>
+- [hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey) - 收集RAG为AIGC撰写的令人赞叹的论文。 我们提议在“获取-强化生成AI-Generated内容:调查”的论文中,对RAG的基础、增强和应用程序进行分类。 <sub>⭐ 1.8k</sub>
+- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - Pocket-Sized 多式联运AI,用于跨多语种文本、图像和视频的内容理解和生成,比OpenAI CLIP和LLaVA & 更快达5x <sub>⭐ 1.3k · Python</sub>
+- [ALwrity/ALwrity](https://github.com/ALwrity/ALwrity) - ALLRITY - 第一数字营销平台. AI内容策略与规划,多式联运内容生成,出版,分析,AI SEO,连接和管理社会账户. Marketing OS - WIP <sub>⭐ 1.2k · Python</sub>
+- [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) - 一个开放源码的AI营销操作系统,用于战略、SEO、AEO/GEO、付费媒体、内容、客户关系管理和分析----基于品牌背景、人类认可和可核实的产出。 <sub>⭐ 843 · Python</sub>
+- [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) - 77个开源营销技能为Claude Code,Codex,以及其他AI编码代理. SIO,内容,电子邮件,广告,分析,以及成长. <sub>⭐ 705 · JavaScript</sub>
+- [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 50 AI代理技能用于子公司营销. 研究趋势内容,撰写数据支持帖子,生成信息图,建立登陆页,部署——全飞轮与社会智能. <sub>⭐ 689 · HTML</sub>
+- [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata) - 公开免费的首发包,为兰尼的Podcast录音笔录和兰尼的通讯帖子,以AI友好的马克下架. <sub>⭐ 664</sub>
+- [business-science/free-ai-tips](https://github.com/business-science/free-ai-tips) - 免费AI-Tips是商业科学提供的FREE通讯,每周都会有比特大小的Python AI用于商业辅导。请在这里注册 。 <sub>⭐ 650 · Python</sub>
+- [Anil-matcha/Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) - 免费开源AI社交媒体调度器——自带的替代Postiz,Buffer,和Hootsweet带有内置的AI内容生成. <sub>⭐ 533 · JavaScript</sub>
+- [AgriciDaniel/claude-youtube](https://github.com/AgriciDaniel/claude-youtube) - Claude Code为YouTube创作者提供的技能——频道审核,视频SIO,保留脚本,缩略图,内容策略,Shorts优化,分析,货币化等等. <sub>⭐ 413 · Python</sub>
+- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) - AI ContentCraft是一个全集内容创建套件,它帮助创作者利用AI的动力文本生成,语音合成,和图像生成故事,播客脚本,以及多媒体内容. . <sub>⭐ 400 · HTML</sub>
+- [alternbits/awesome-ai-newsletters](https://github.com/alternbits/awesome-ai-newsletters) - 最佳AI相关通讯和代理通讯的目录 <sub>⭐ 398</sub>
+- [Mwaseemzakir/awesome-dotnet-resources](https://github.com/Mwaseemzakir/awesome-dotnet-resources) - 手取的. NET和C#资源列表,包括书籍、课程、博客、工具、AI工具、通讯、播客和采访准备。 <sub>⭐ 349 · HTML</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - 麻省理工学院深层学习(6.S191)简介 教官:亚历山大·阿米尼和阿瓦·索莱曼尼课程信息概要 预设课程表 实验室,最终项目,分级,以及奖项软件... <sub>⭐ 266 · Jupyter Notebook</sub>
+- [CopywriterPro-ai/copywriterproai-backend](https://github.com/CopywriterPro-ai/copywriterproai-backend) - 世界第一个开放源码AI内容写作平台, 授权用户创建SEO友好的博客帖子 <sub>⭐ 220 · JavaScript</sub>
+- [NVIDIA-Omniverse/usd-content-agents](https://github.com/NVIDIA-Omniverse/usd-content-agents) - 使用Vision-Language Models(VLMs)实现3D内容工作流程自动化的AI动力代理. 内容代理分析3D资产和自动化物质分配,物理属性分类,以及. <sub>⭐ 214 · Python</sub>
+- [cporter202/ai-growth-stack](https://github.com/cporter202/ai-growth-stack) - 由我顶级的AI驱动的API用于网站优化,SIO,转换,以及社交媒体的成长。这堆文件涵盖了从数据提取和复制到登陆页面的所有内容... <sub>⭐ 212</sub>
+- [Bomx/distribb-skill](https://github.com/Bomx/distribb-skill) - Distrib CLI,Claude, Codex, Hermes, OpenClaw 技能用于AI-powered SEO. 使用自己的AI写内容,通过Distrib的后链路网络发布. <sub>⭐ 197 · Python</sub>
+- [mverab/eGEOagents](https://github.com/mverab/eGEOagents) - 开源基因引擎优化(GEO)与答录引擎优化(AEO)工具包——优化内容排序于ChatGPT,Perflexity,双子座和克劳德. AI SIO / LLM SEO. CLI, Claude Code, MCP. <sub>⭐ 196 · Python</sub>
+- [Colinjqq/content-forecast](https://github.com/Colinjqq/content-forecast) - 创作者-首个AI技能,用于主题生成,剧本评论,拍摄指导,以及景色预测. <sub>⭐ 189 · Python</sub>
+- [PNGTRID/AnvilWiki](https://github.com/PNGTRID/AnvilWiki) - 开源游戏维基模板. Astro + Cloudflare Pages,自由快速,初学者友好,静态第一,零JS,AI-内置内容工作流程,无限带宽. <sub>⭐ 177 · TypeScript</sub>
+- [brightdata/geo-ai-agent](https://github.com/brightdata/geo-ai-agent) - 通过爬行URL,分析H1s,以及生成与CrewAI的可操作的GEO建议,AI授权工具来审计和优化网站内容. <sub>⭐ 170 · Python</sub>
+- [yaojingang/GEOHub](https://github.com/yaojingang/GEOHub) - GEOHub:面向AI搜索的开放,有证据约束的GEO和SEO代理技能,具有基于研究的发现,诊断,内容,测量,以及一线的SEO规划. <sub>⭐ 164 · HTML</sub>
+- [AnkitNayak-dev/CrawlAI-RAG](https://github.com/AnkitNayak-dev/CrawlAI-RAG) - CrawlAI RAG是一个AI驱动的网站智能平台,允许用户爬行整个网站,索引其内容,并使用Retrival-Augmented Generation来询问自然语言问题. . <sub>⭐ 157 · Python</sub>
+- [AgriciDaniel/claude-repurpose](https://github.com/AgriciDaniel/claude-repurpose) - Claude Code 的内容重新设计引擎。 将 1 个内容转换为 10+ 平台优化的 Twitter、linkedIn、Instagram、Facebook、YouTube、Skool、Reddit和通讯。 <sub>⭐ 156 · Python</sub>
+- [seranking/seo-skills](https://github.com/seranking/seo-skills) - Claude SEO技能——为SE Ranking MCP服务器制作Claude Agent Swills. 内容简介,AI搜索语音份额,审计,回路漏洞,关键词组,计划,网站地图,GEO等等. <sub>⭐ 155 · Python</sub>
+- [ruvnet/guardrail](https://github.com/ruvnet/guardrail) - GuardRail: 使用OpenAI GPT模型进行数据分析和AI内容生成的高级工具. 特质情绪分析,内容分类,趋势分析,以及定制的GPT模型用法. Ideal... <sub>⭐ 154 · Python</sub>
+- [AthenaCore/AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) - 整理的学术研究清单 书籍 道德守则 课程 数据库 数据集 框架 研究所 成熟模型 通讯 原则 播客 规章 报告... <sub>⭐ 152</sub>
+- [JoshithReddyAleti/AI_Engineer_Interview_Prep](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep) - MAANG级AI Engineer的采访预图为AI Engineering路线图2026通讯. 深概念,编码,系统设计和行为问题都有详细答案. Covers LLMS, Python... <sub>⭐ 148</sub>
+- [Suganthan-Mohanadasan/Suganthans-GSC-MCP](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) - 用于Google搜索控制台的MCP服务器。询问克劳德有关搜索数据的问题并获得真正的答案。29种工具:速胜、食人、内容衰减、CTR基准、图像 SIO、AI... <sub>⭐ 144 · TypeScript</sub>
+- [CopywriterPro-ai/copywriterproai-frontend](https://github.com/CopywriterPro-ai/copywriterproai-frontend) - 世界第一个开放源码AI内容写作平台, 授权用户创建SEO友好的博客帖子 <sub>⭐ 140 · JavaScript</sub>
+- [luka2chat/awesome-geo](https://github.com/luka2chat/awesome-geo) - Generative Engine Optimation(GEO)的出色资源目录——优化ChatGPT,Perflexity,Claude等AI搜索引擎的内容,以及Google AI Overviews. <sub>⭐ 130</sub>
+- [ansvisor/ansvisor](https://github.com/ansvisor/ansvisor) - 开源AI搜索智能平台——追踪,分析,并改进AI的知名度,引用,提示,竞争者,以及ChatGPT,克劳德,双子座,谷歌AI的内容机会. . <sub>⭐ 127 · TypeScript</sub>
+- [HiFoxAI/HiFox](https://github.com/HiFoxAI/HiFox) - 内容创建,复制,QQA,图像/视频/声音生成,智能代理,自动工作流程,以及自定义AI Apps全功能AI平台. <sub>⭐ 114</sub>
+- [insideout10/wordlift-plugin](https://github.com/insideout10/wordlift-plugin) - WordLift)带来了人工智能的力量,以优美地组织内容. 吸引新读者并获得他们真正的关注. <sub>⭐ 112 · PHP</sub>
+- [Machine-Learning-Tokyo/AI-ML-Newsletter](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter) - AI 摘要:关于AI和ML专题的每月最新情况 <sub>⭐ 104</sub>
+- [TheMattBerman/seo-kit](https://github.com/TheMattBerman/seo-kit) - AI代理搜索关键词,写内容,监视排名,以及自译自审。两个OpenClaw技能将链条连入一个复合的SEO循环。 <sub>⭐ 97 · Shell</sub>
+- [AgriciDaniel/linkedin-content-creator](https://github.com/AgriciDaniel/linkedin-content-creator) - AI- poweredLinkedIn 内容生成器与文本,图像 & 旋转木偶帖. 功能化的智能AI研究,内容日历,批量生成,并通过 OAuth 直接LinkedIn 发布. Built with React... <sub>⭐ 96 · TypeScript</sub>
+- [Genaker/AgentoAI](https://github.com/Genaker/AgentoAI) - AgentoAI: Magento MCP AI Agent和Magento的AI功能: - 产品内容创建,报告生成,网格过滤,产品推广图像创建,产品视频创建. AI分析. <sub>⭐ 91 · PHP</sub>
+- [developer2013/bricks-mcp-open](https://github.com/developer2013/bricks-mcp-open) - Bricks Builder最全面的开源MCP服务器——105个工具用于页面,模板,样式,SIO,内容等. <sub>⭐ 90 · PHP</sub>
+- [blue68/ai-hottopics](https://github.com/blue68/ai-hottopics) - 开源热门话题跟踪,分析,内容生成,推动工作流程. <sub>⭐ 79 · JavaScript</sub>
+- [BunnySoCrazy/Awesome-3D-Generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation) - 由人工智能驱动的3D内容创建软件 和工具组成的3D生成资源、论文和工具目录。 <sub>⭐ 79 · HTML</sub>
+- [vicperdana/SemantiClip](https://github.com/vicperdana/SemantiClip) - SemantiClip是一个智能视频处理应用程序,将视频内容转化为丰富,结构化的书面格式. SemantiClip以微软代理框架构建,SemantiClip将... <sub>⭐ 79 · C#</sub>
+- [LEON-gittech/Skill2Poster](https://github.com/LEON-gittech/Skill2Poster) - 学术海报生成的Codex技能:通过AI设计模型将纸张内容转化为准确的A0 HTML/PDF海报. <sub>⭐ 77 · TeX</sub>
+- [Madhumethra/AI-RECIPE-GENERATION](https://github.com/Madhumethra/AI-RECIPE-GENERATION) - 食谱生成(Repipe Crowth from Food Image – 开发了基于CNN的图像分类模型,在100+成份中达到94%的精度. ) – 基于LLM的综合自动化用于食谱生成,减少... <sub>⭐ 77</sub>
+- [akii-technologies-ltd/akii-seo-ai-search-optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - SEO、AEO和GEO的免费Claude代码插件。 审计站点优化内容,生成计划,并追踪整个ChatGPT、Claude、双子座、迷惑、联合驾驶和Google AI Overviews的AI能见度。 <sub>⭐ 76 · Markdown</sub>
+- [EthicalML/awesome-agentic-engineering-resources](https://github.com/EthicalML/awesome-agentic-engineering-resources) - 高标志资源目录——文章,图书,课程,烹饪书籍,论文,游戏手册,基准,谈话,播客,通讯——用于代理工程和AI工程. <sub>⭐ 76</sub>
+- [khshanovskyi/ai-dial-content-generation](https://github.com/khshanovskyi/ai-dial-content-generation) - 通过 DIAL API 与不同内容生成工作的任务 <sub>⭐ 74 · Python</sub>
+- [0xneobyte/VaultAI](https://github.com/0xneobyte/VaultAI) - Obsidian 的 AI 聊天器插件,使用双子体 API 来进行笔记汇总、内容生成和更多。您的工作流程在 AI 帮助下增强,比如 Notion AI bot 。 <sub>⭐ 71 · TypeScript</sub>
+- [nomie7/nano-banana-slides-prompter](https://github.com/nomie7/nano-banana-slides-prompter) - 生成 Nano Banana Pro 幻灯片的优化 AI 提示,其中包含动态字符生成、50+ 内容感知幻灯片模板以及电影视觉风格 <sub>⭐ 71 · TypeScript</sub>
+- [HuyLe82US/awesome-seedance-prompts](https://github.com/HuyLe82US/awesome-seedance-prompts) - 种子 2.0 快速库和资源中心用于高真性 AI 视频生成。 已验证的模板加上实用的工作流程从想法开始 —— 制作准备的产品快速覆盖影院... <sub>⭐ 69</sub>
+- [Hemanthk-source/ai-based-content-generation-system](https://github.com/Hemanthk-source/ai-based-content-generation-system) - ii 基于内容的生成系统 <sub>⭐ 66 · Python</sub>
+- [TangSY/dailydawn](https://github.com/TangSY/dailydawn) - 每日AI为印地安建筑商作简报——什么是船,什么是跳过,谁吃谁的午餐. 双语. <sub>⭐ 66 · Python</sub>
+- [KentaHomma/kamuicode-workflow](https://github.com/KentaHomma/kamuicode-workflow) - Claude Code SDK & kamuicode MCP 工作流程模板,用于AI内容生成 <sub>⭐ 64</sub>
+- [dageno-agents/seo-geo-content-engine](https://github.com/dageno-agents/seo-geo-content-engine) - 为品牌,SaaS团队,SEO运营商,机构以及AI搜索增长团队提供专业的SIO和GEO内容工作流程. <sub>⭐ 61</sub>
+- [Tools2U/AI-Website-Audit-CLI](https://github.com/Tools2U/AI-Website-Audit-CLI) - 开放源代码AI驱动网站审计CLI使用OpenAI API用于SEO,UX,访问,性能,信任,以及内容分析. <sub>⭐ 61 · Python</sub>
+- [marketinguys/awesome-email-marketing](https://github.com/marketinguys/awesome-email-marketing) - 包括通讯创建、自动化、分析、可交付性、AI复制等。 <sub>⭐ 60</sub>
+- [2404589803/hf-daily-paper-newsletter-chinese](https://github.com/2404589803/hf-daily-paper-newsletter-chinese) - "你的AI研究"的Daily Dose from Hugging Face Stay 更新了最新的AI突破!这款机器人自动收集和分析Hugging Face日报的论文,提供中文...... <sub>⭐ 59 · HTML</sub>
+- [YounesBensafia/overleaf-mcp-server](https://github.com/YounesBensafia/overleaf-mcp-server) - 为 Overleaf 工程提供 MCP 服务器。 通过 Git 、 剖析段、 方程式和引用同步 LaTeX 文件, 并将其曝光到 AI 客户端, 用于辅助纸张审查、 LaTeX 修正和内容生成 。 <sub>⭐ 58 · Python</sub>
+- [shubcodes/fireworksai-browseruse](https://github.com/shubcodes/fireworksai-browseruse) - 一个强大的基于浏览器的交互的AI代理,由Fireworks AI模型提供动力. 导航网页,提取内容,分析网站,并根据它所看到的内容提供智能反馈. <sub>⭐ 57 · Python</sub>
+- [pgEdge/pgedge-rag-server](https://github.com/pgEdge/pgedge-rag-server) - 一个简单的API服务器,用于执行基于PostgreSQL数据库使用pgvector的内容的文字检索-增强生成(RAG). <sub>⭐ 56 · Go</sub>
+- [rahulanand1103/rag-citation](https://github.com/rahulanand1103/rag-citation) - RAG 引用通过自动生成AI生成内容的相关引用来增强 Retrival-Augmented Generation(RAG),它通过支持准确的响应来确保可信度. <sub>⭐ 56 · Python</sub>
+- [badboysm890/Youtube2Blog](https://github.com/badboysm890/Youtube2Blog) - 将您的YouTube内容转换成无心使用 AI 驱动的YouTube 到博客转换工具的博客文章。 优化您的访问范围, 并解开视频的 SEO 潜力 。 获取... <sub>⭐ 54 · JavaScript</sub>
+- [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) - Claude Code和Codex的开源营销工具:SEO的技能,内容,电子邮件,广告,发布,CRO和AI-search能见度. Run as a service by Talk To Gina. <sub>⭐ 54 · Python</sub>
+- [MarsX-dev/seobot-nextjs-blog](https://github.com/MarsX-dev/seobot-nextjs-blog) - 将 SEObot API 整合到 Your Next.js Website 以动态的实时博客内容使用 SEObot 来提升您网站的 SIO 。 我们的 Next.js 集成样本代码使得它非常容易拉入... <sub>⭐ 54 · TypeScript</sub>
+- [mindori/linkpress](https://github.com/mindori/linkpress) - 把你的Slack链接变成个人技术杂志 里面有AI的功能摘要 <sub>⭐ 54 · TypeScript</sub>
+- [Cripacx/mediagen](https://github.com/Cripacx/mediagen) - Claude Code和其他编码代理商的AI图像和视频生成技能——一个CLI和MCP服务器背后的双子座,OpenAI和Kie AI,带有欧盟AI Act内容标记. <sub>⭐ 52 · TypeScript</sub>
+- [norahe0304-art/30x-seo](https://github.com/norahe0304-art/30x-seo) - Claude Code的23个制作准备的SEO技能,技术SEO,内容优化,关键词研究,回路分析,以及AI的能见度监测. <sub>⭐ 52 · Python</sub>
+- [OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator) - 使用OpenAI,Anthropic Claude和双子座的SEO内容创建者和WordPress的人文化者,有可编辑的提示,图像和Opace AI Hub. <sub>⭐ 52 · PHP</sub>
+- [RankSpotAI/awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills) - SIO的代理技能目录,技术审计,关键词研究,内容简报,计划,GEO和AI的能见度,用于Claude Code, Codex, Cursor and OpenClaw. <sub>⭐ 52 · Python</sub>
+- [xinsuifan-web/Cloud-Platform-for-Construction-Project-Bidding](https://github.com/xinsuifan-web/Cloud-Platform-for-Construction-Project-Bidding) - 一个SaaS建筑项目招标合作平台,涵盖招标文件编制,知识库管理,合规审查,工作流程协调,以及AI辅助内容. <sub>⭐ 51 · Python</sub>
+- [ckt1031/obsidian-wordwise-plugin](https://github.com/ckt1031/obsidian-wordwise-plugin) - 为 AI 内容生成编写同伴 。 <sub>⭐ 49 · TypeScript</sub>
+- [qtecsolution/AI-Content-Image-Generator-SaaS](https://github.com/qtecsolution/AI-Content-Image-Generator-SaaS) - AI驱动的内容和图像生成 SaaS平台与Laravel一起构建,其特色是与AI的聊天界面. 这个项目使用户能够与AI互动,用于内容创建,图像生成...... <sub>⭐ 49 · Blade</sub>
+- [eladlaor/langrag](https://github.com/eladlaor/langrag) - 以色列主要AI社区采用的Whatsapp分析和通讯解决方案 <sub>⭐ 48 · Python</sub>
+- [IamRamgarhia/All-In-One-Free-SEO-Tool](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool) - 自由SEO工具——开源,自托管替代Ahrefs,Semrush & Moz. 99个工具:站点审计,排位跟踪,关键词研究,AI搜索能见度(ChatGPT,Perplexity,双子座,AI... <sub>⭐ 47 · TypeScript</sub>
+- [laiso/xpaper](https://github.com/laiso/xpaper) - 一个Chrome扩展,将您的 X (Twitter) 时间线变成AI 校准的通讯. <sub>⭐ 47 · TypeScript</sub>
+- [TalEliyahu/AI-Security-Newsletter](https://github.com/TalEliyahu/AI-Security-Newsletter) - AI安全通讯 - AI安全研究、见解、报告、即将到来的事件以及工具和资源的月度摘要 <sub>⭐ 47</sub>
+- [trgkyle/veo-automation-user-guide](https://github.com/trgkyle/veo-automation-user-guide) - 一个强大的Chrome扩展,在Google Flow AI VEO3上将批量视频和图像生成自动化. 处理多个提示同时进行,配置您的工作流程,并自动下载... <sub>⭐ 47</sub>
+- [199-biotechnologies/claude-skill-seo-geo-optimizer](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer) - Claude为综合的SIO/GEO优化而准备制作的技能. 分析传统搜索引擎+AI平台的内容(ChatGPT, Perplexity, Claude, Gemini). 包括实体提取... <sub>⭐ 46 · Python</sub>
+- [athrala/AI-SaaS-Content-Generation-Platform](https://github.com/athrala/AI-SaaS-Content-Generation-Platform) - 一个以用户为中心的AI SaaS平台,由Next.js 13 App Router提供动力,它可以作为聊天机、图像、音乐、代码和视频生成器等功能 <sub>⭐ 45 · TypeScript</sub>
+- [aws-samples/pace-genai-demos](https://github.com/aws-samples/pace-genai-demos) - 这个寄存器的特性是三个演示,可以无劳地融入您的 AWS 环境。它们作为实用指南来利用 AWS 服务来设计一个复杂的 Large... <sub>⭐ 45 · TypeScript</sub>
+- [AICrafterZheng/AI-Frontiers-Digest](https://github.com/AICrafterZheng/AI-Frontiers-Digest) - AI Frontiers Digests利用LLMs对AI进行明智的整理和总结最新发展,同时产生与Podcasts的接触。 <sub>⭐ 43 · Python</sub>
+- [chris-short/devopsish.com](https://github.com/chris-short/devopsish.com) - DevOps,云土著,混合云,开源,AI,行业新闻,文化,以及‘ish之间'. <sub>⭐ 43 · HTML</sub>
+- [Balaji-R-05/askdocs-ai](https://github.com/Balaji-R-05/askdocs-ai) - 一个利用RAG(检索-增强生成)的 AI 驱动聊天器,根据上传的 PDF 内容回答您的问题 <sub>⭐ 42 · Python</sub>
+- [Arnav3241/Jarvis-v13](https://github.com/Arnav3241/Jarvis-v13) - Jarvis v13是一个基于Python的个人助手,由双子座提供动力,旨在自动化任务,回答询问,并协助创作内容生成. <sub>⭐ 41 · Python</sub>
+- [SoCloseSociety/MiloAgent](https://github.com/SoCloseSociety/MiloAgent) - MiloAgent — Reddit, Twitter/ X & Telegram 的自主AI Growth Agent. 自学机器人,其LLM驱动的内容生成,多账户管理,社区自动化,以及A/B测试. 0... <sub>⭐ 41 · Python</sub>
 - [IJONIS/geo-lint](https://github.com/IJONIS/geo-lint) - 第一台开源GEO linter. 92规则SEO,GEO,和内容质量——为AI代理自动运行,阅读,固定,再lint而建. <sub>⭐ 40 · TypeScript</sub>
-- [prabhjotschugh/Genius-AI-SaaS](https://github.com/prabhjotschugh/Genius-AI-SaaS) - "Genius AI" is a creative content generation platform powered by advanced artificial intelligence, enabling users to effortlessly create images, videos, music, code, and text chat with innovative… <sub>⭐ 40 · TypeScript</sub>
-- [sonnysangha/AI-rss-newsletter-saas-openai-mongodb-prisma-clerk-nextjs-16](https://github.com/sonnysangha/AI-rss-newsletter-saas-openai-mongodb-prisma-clerk-nextjs-16) - AI-powered newsletter generator for content creators. Transform RSS feeds into professionally curated newsletters in seconds with GPT-4. Features intelligent caching, real-time streaming, and article… <sub>⭐ 40 · TypeScript</sub>
-- [bjornfix/mcp-expose-abilities](https://github.com/bjornfix/mcp-expose-abilities) - Let AI agents do real WordPress work via MCP. 61 core abilities, 12 add-ons, 280+ ecosystem abilities for content, builders, SEO, security, files, and operations. <sub>⭐ 39 · PHP</sub>
-- [iamadhee/llm-influencer](https://github.com/iamadhee/llm-influencer) - AI-driven social media content generation <sub>⭐ 38 · Python</sub>
-- [mangollc/claude-seo-skill](https://github.com/mangollc/claude-seo-skill) - Comprehensive SEO & AEO Claude Code plugin for agencies. Keyword research, technical audits, content optimization, local SEO, backlinks, and AI search optimization. <sub>⭐ 38</sub>
-- [metehan777/screaming-frog-query-fan-out](https://github.com/metehan777/screaming-frog-query-fan-out) - A custom JavaScript extraction that uses Google's Gemini AI to analyze how your content performs in Google's AI Mode search by predicting query fan-out patterns. <sub>⭐ 38 · JavaScript</sub>
-- [antoineross/autogen-article-generator](https://github.com/antoineross/autogen-article-generator) - Article Generation using Microsofts Autogen + OpenAI GPT-4/Any other LLM <sub>⭐ 37 · Python</sub>
-- [JonImmsWordpressDev/stratawp-seo](https://github.com/JonImmsWordpressDev/stratawp-seo) - Four SEO products in one free WordPress plugin: an AI content engine on your own key (Claude, GPT, Gemini, Grok), a complete technical SEO suite, an AEO layer that tracks whether AI answer engines… <sub>⭐ 37 · PHP</sub>
-- [metehan777/embedding-analysis-with-gemini-claude](https://github.com/metehan777/embedding-analysis-with-gemini-claude) - Run a content embedding analysis with Gemini's 3k dimensions model with Claude 3.7 Sonnet Thinking <sub>⭐ 37 · Python</sub>
-- [aaron-he-zhu/core-eeat-content-benchmark](https://github.com/aaron-he-zhu/core-eeat-content-benchmark) - CORE-EEAT Content Benchmark: 8 dimensions × 10 items = 80 evaluation criteria for AI-era content visibility optimization (GEO + SEO) <sub>⭐ 36</sub>
-- [christancho/Blogging-with-N8N](https://github.com/christancho/Blogging-with-N8N) - AI-Powered Blog Automation Suite - Complete N8N workflow for automated content creation, research, SEO optimization, and publishing to Ghost CMS. <sub>⭐ 36</sub>
-- [Glimor/Glimors-Wordpress-Article-Generator](https://github.com/Glimor/Glimors-Wordpress-Article-Generator) - Unleash the power of AI in content creation with this AI-powered WordPress Article Generator. This tool leverages advanced GPT technology to automatically generate, customize, and publish content on… <sub>⭐ 36 · Python</sub>
-- [LeadCMS/leadcms.core](https://github.com/LeadCMS/leadcms.core) - AI-powered CMS & CRM for SaaS teams to rapidly build landing pages, manage content, and boost lead generation. <sub>⭐ 36 · C#</sub>
-- [inbharatai/SocialFlow](https://github.com/inbharatai/SocialFlow) - Open-source AI social-media workflow engine for planning, drafting, brand voice, image generation, and platform-aware content automation. <sub>⭐ 35 · Python</sub>
-- [jroakes/SEODP](https://github.com/jroakes/SEODP) - The SEO Data Platform automates SEO analysis, aggregating data from Google Analytics 4, Search Console, Page Speed Insights, and rendered content. Powered by Google Gemini AI, it emails actionable… <sub>⭐ 35 · Python</sub>
-- [benjamingibert/dirty-hands-gtm](https://github.com/benjamingibert/dirty-hands-gtm) - Tactical AI systems for go-to-market operators. Companion repo to the Dirty Hands newsletter. <sub>⭐ 34</sub>
-- [KalyanM45/Multi-Agentic-Blog-Generation](https://github.com/KalyanM45/Multi-Agentic-Blog-Generation) - This project is a fully automated AI blogging platform built with LangGraph and Groq’s LLM. It generates and publishes technical blog posts automatically to a modern, responsive website. The system… <sub>⭐ 34 · Python</sub>
-- [ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT](https://github.com/ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT) - Generate True or False questions from any content with OpenAI GPT2 text generation, Sentence-BERT semantic search and Berkley constituency parser. <sub>⭐ 34 · Jupyter Notebook</sub>
-- [tentenco/awesome-geo](https://github.com/tentenco/awesome-geo) - Everything you need to know about Generative engine optimisation (GEO) & AI SEO. DOMINATE AI SEARCH RESULTS Future-proof your business with expert Generative Engine Optimization (GEO). Get discovered… <sub>⭐ 34</sub>
-- [fenjo26/OpenGSC](https://github.com/fenjo26/OpenGSC) - Self-hosted Google Search Console dashboard — rank tracking, keyword research, AI-visibility audits and an AI SEO content suite. Includes a 73-tool MCP server, so Claude Code or Cursor works with… <sub>⭐ 33 · TypeScript</sub>
-- [ur-grue/autopunk-media-skills](https://github.com/ur-grue/autopunk-media-skills) - 400+ free AI skills and 9 agents for media professionals — journalists, producers, podcasters, YouTubers. Quality-tested. Works with Claude, ChatGPT, Cursor, any MCP client, and more. <sub>⭐ 33 · Python</sub>
-- [erpnextai/next_ai](https://github.com/erpnextai/next_ai) - NextAI is an AI-powered app for Frappe and ERPNext, delivering seamless content generation, automation, and productivity enhancements. <sub>⭐ 32 · Python</sub>
-- [travsteward/openwriter](https://github.com/travsteward/openwriter) - The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, you accept or reject. <sub>⭐ 32 · TypeScript</sub>
-- [Jeffallan/writing-with-agents](https://github.com/Jeffallan/writing-with-agents) - Claude Code skill plugin implementing Betty Flowers' Madman-Architect-Carpenter-Judge writing framework with collaborative AI-human oscillation, SEO optimization, and multi-article content strategy. <sub>⭐ 31 · Python</sub>
-- [MADEVAL/AngleCraft](https://github.com/MADEVAL/AngleCraft) - Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language. <sub>⭐ 31</sub>
-- [theone-ctrl/ai-content-automation-n8n](https://github.com/theone-ctrl/ai-content-automation-n8n) - An end-to-end AI workflow built with n8n for automating social media content creation, including script generation, text-to-speech, image generation, and video production. <sub>⭐ 31</sub>
-- [zubair-trabzada/ai-restaurant-claude](https://github.com/zubair-trabzada/ai-restaurant-claude) - AI restaurant marketing & operations engine for Claude Code. Multi-platform review analysis, menu engineering, local SEO, social content calendars, ad copy & PDF reports. 14 skills, 5 parallel… <sub>⭐ 31 · Python</sub>
-- [hoangsonww/AI-Gov-Content-Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator) - An end-to-end solution for aggregating, summarizing, and displaying news articles using an AI-powered backend, an automated CRON crawler & newsletter emailer, and a responsive Next.js frontend. It… <sub>⭐ 30 · TypeScript</sub>
-- [hrishi-008/SummarAI](https://github.com/hrishi-008/SummarAI) - A tool for summarizing search results and website content using FAISS, LLMs, and the Retrieval-Augmented Generation (RAG) technique. <sub>⭐ 30 · Python</sub>
-- [Readplace/readplace.com](https://github.com/Readplace/readplace.com) - Save articles, AI research sources, and newsletter email links. Read them when you're ready. No third-party tracking. Built by the creator of js-cookie from a 10-year personal reading system. <sub>⭐ 30 · TypeScript</sub>
-- [tropk-ai/mcp-for-wordpress](https://github.com/tropk-ai/mcp-for-wordpress) - Connect WordPress to Claude.ai, Lovable, Cursor, Windsurf. 500+ pre-built tools across content, Elementor, Rank Math SEO, ACF, WooCommerce and ops. OAuth 2.1 with dynamic client registration — no API… <sub>⭐ 30 · PHP</sub>
-- [XiaomingX/awesome-ai-tools-for-game-dev](https://github.com/XiaomingX/awesome-ai-tools-for-game-dev) - Awesome AI Tools for Game Development: A curated collection of the best AI tools, libraries, and resources to enhance game development workflows. From procedural content generation to NPC behavior… <sub>⭐ 30</sub>
-- [Bhavik-Jikadara/Content-Generation-Workflow](https://github.com/Bhavik-Jikadara/Content-Generation-Workflow) - Implementing a scalable content team using AI involves creating a framework that blends the strengths of AI technologies with the creative and supervisory capabilities of human team members. This… <sub>⭐ 29 · Jupyter Notebook</sub>
-- [brayden-s-haws/pm_am_newsletter](https://github.com/brayden-s-haws/pm_am_newsletter) - This is code generates a daily, automated newsletter. It uses crowd-sourced content, combined with OpenAI GPT to curate the email contents. (The prompts and sources could easily be tweaked to cover… <sub>⭐ 29 · Python</sub>
-- [cdeistopened/skill-stack](https://github.com/cdeistopened/skill-stack) - AI skills marketplace + newsletter for creative intelligence <sub>⭐ 29 · TypeScript</sub>
-- [felixggj/multi-agent-ai-newsletter](https://github.com/felixggj/multi-agent-ai-newsletter) - Multi-Agent AI system that automatically retrieves the latest Football news and creates a newsletter <sub>⭐ 29 · Python</sub>
-- [MADEVAL/RankWise](https://github.com/MADEVAL/RankWise) - SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: generate, rewrite, and audit content against 49 ranking factors with… <sub>⭐ 29 · Python</sub>
-- [1nn0k3sh4/GigaChat-Prompt-Jailbreak](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) - This research identifies a method to bypass safety systems in the GigaChat LLM, enabling the generation of potentially harmful content related to chemical synthesis through a "contextual camouflage"… <sub>⭐ 28</sub>
-- [wulaosiji/skills](https://github.com/wulaosiji/skills) - AI agent skills for workflow automation — Feishu integration, content generation, data processing, and media tools by UniqueClub <sub>⭐ 28 · Python</sub>
-- [aws-samples/generative-ai-marketing-portal](https://github.com/aws-samples/generative-ai-marketing-portal) - CDK Deployment for a sample marketing portal using generative AI for content generation and distribution <sub>⭐ 27 · Python</sub>
-- [Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine) - Multi-channel social media platform. Manage Facebook, Instagram, LinkedIn, TikTok, and X from one dashboard. AI content generation, approval workflows, 17 content skills, scales to 100 pages. <sub>⭐ 27 · Python</sub>
-- [SharathKumarS/Open-Generative-AI](https://github.com/SharathKumarS/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No… <sub>⭐ 27</sub>
-- [khaoss85/youtube-autopilot](https://github.com/khaoss85/youtube-autopilot) - AI-powered end-to-end YouTube content automation: trend detection, multi-agent editorial system, AI video generation (Veo), and scheduled publishing. Zero external dependencies. <sub>⭐ 26 · Python</sub>
-- [Mr-Asante/AI-Automations](https://github.com/Mr-Asante/AI-Automations) - A collection of Make.com AI automation blueprints for marketing, sales, and productivity — featuring automated workflows for content generation, email, social media, lead management, and more. <sub>⭐ 26</sub>
-- [Ravi-Teja-konda/AudioInsightsGenerator](https://github.com/Ravi-Teja-konda/AudioInsightsGenerator) - Unlock AI power with AudioInsightsGenerator! From audio to summaries, emotion analysis, idea generation, narratives, and content filtering. Explore your audio's hidden dimensions! <sub>⭐ 26 · Jupyter Notebook</sub>
-- [bhaskarblur/Sync-RealtimeContentCollaboration](https://github.com/bhaskarblur/Sync-RealtimeContentCollaboration) - Sync is a realtime content collaboration app with multiple people developed in Kotlin with Firebase realtime database, offers undo-redo changes and realtime collaborative AI Content generation and… <sub>⭐ 25 · Kotlin</sub>
-- [followanton/sleepwalker](https://github.com/followanton/sleepwalker) - Use Sleepwalker to access AI visibility data (prompts, answers, citations) and Content Intelligence insights (trends, opportunities). Available via MCP, API, CLI and Sleepwalker App. <sub>⭐ 25 · JavaScript</sub>
-- [gaurav18115/blogen](https://github.com/gaurav18115/blogen) - BLOGEN - Your Blog Generation Companion! Effortlessly create captivating blog posts with AI-driven content generation. Input primary keywords, choose writing tones, and generate tailor-made content.… <sub>⭐ 25 · Python</sub>
-- [IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio](https://github.com/IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio) - Open-source AI SEO content studio. Free, self-hosted. Replaces Surfer, Ahrefs, Clearscope, Screaming Frog, AlsoAsked, MarketMuse — one AI key, 39 modules, 45 methodologies, MIT. <sub>⭐ 25 · TypeScript</sub>
-- [narender-rk10/marketing-ai-studio](https://github.com/narender-rk10/marketing-ai-studio) - AI-native multi-agent marketing platform developed with FastAPI, Google ADK, and React JS. Orchestrate 70+ specialized agents powered by Gemini 3.1 and Veo 3 for automated branding, SEO, and… <sub>⭐ 25 · TypeScript</sub>
-- [astronomer/gen-ai-fine-tune-rag-use-case](https://github.com/astronomer/gen-ai-fine-tune-rag-use-case) - GenAI + Airflow. Fine-tuning + RAG pipeline for content generation. <sub>⭐ 24 · Python</sub>
-- [charlie947/agent-harness-starter](https://github.com/charlie947/agent-harness-starter) - Scaffold for setting up an agent harness in Claude Code or Cowork. Companion to the MarTech AI newsletter. <sub>⭐ 24 · Shell</sub>
-- [focusreactive/payload-plugins](https://github.com/focusreactive/payload-plugins) - Open-source Payload CMS plugins: A/B testing, GA4 analytics, live SEO analysis, content presets, inline comments, AI translation and scheduled publishing, plus the Ideal CMS starter. <sub>⭐ 24 · TypeScript</sub>
-- [giftedunicorn/ai-news-bot](https://github.com/giftedunicorn/ai-news-bot) - Automated AI news digest generator with Claude/DeepSeek, RSS feeds, HTML emails, and multilingual support <sub>⭐ 24 · Python</sub>
-- [KalyanM45/Medicine-Recognition-System](https://github.com/KalyanM45/Medicine-Recognition-System) - This Flask web application utilizes Google's Generative AI models to generate detailed medical descriptions for uploaded images. The project, which focuses on medical content generation, incorporates… <sub>⭐ 24 · Python</sub>
-- [rohanmistry231/AI-Wallpapers-Frontend](https://github.com/rohanmistry231/AI-Wallpapers-Frontend) - A React-based frontend for an AI-powered wallpaper generation platform, offering a responsive interface to browse, customize, and download AI-generated wallpapers. Built with TypeScript and Tailwind… <sub>⭐ 24 · JavaScript</sub>
-- [rohanmistry231/AI-WebStudio](https://github.com/rohanmistry231/AI-WebStudio) - A full-stack web application leveraging AI to create dynamic, personalized web content, built with React for the frontend and Node.js with MongoDB for the backend. Features AI-driven content… <sub>⭐ 24 · TypeScript</sub>
-- [verygoodplugins/llm-url-solution](https://github.com/verygoodplugins/llm-url-solution) - Automatically generate SEO-optimized content for 404 URLs that originate from AI chatbot searches like ChatGPT, Claude, and others. <sub>⭐ 24 · PHP</sub>
-- [enzoemir1/n8n-prompt-library](https://github.com/enzoemir1/n8n-prompt-library) - 20 production-ready AI prompts optimized for n8n workflows. Copy-paste system prompts with model recommendations, cost estimates, and integration tips. Content generation, data processing, email… <sub>⭐ 23</sub>
-- [GaloisField2718/tldr_news](https://github.com/GaloisField2718/tldr_news) - This repo contains TLDR newsletter received in my mailbox and save each email in Markdown format with corresponding article. In a near future, we can use AI to name each file and make indexes. <sub>⭐ 23 · Python</sub>
-- [kaiban-ai/kaiban-agents-aggregator](https://github.com/kaiban-ai/kaiban-agents-aggregator) - A powerful AI-powered newsletter aggregator built with KaibanJS and React. <sub>⭐ 23 · TypeScript</sub>
-- [semasuka/Talk-to-your-PDF](https://github.com/semasuka/Talk-to-your-PDF) - An application that enable the users to upload PDF files and ask questions regarding their content using Retrieval Augmented Generation (RAG) <sub>⭐ 23 · Python</sub>
-- [acnlabs/awesome-spec-kits](https://github.com/acnlabs/awesome-spec-kits) - A curated list of specification toolkits (speckits) built with MetaSpec for defining, validating specs and driving AI content generation. <sub>⭐ 22 · Python</sub>
-- [ananeridev/newsletter-agent](https://github.com/ananeridev/newsletter-agent) - Using agents from crew ai to create newsletter <sub>⭐ 22 · Python</sub>
-- [beenruuu/Mentha](https://github.com/beenruuu/Mentha) - Mentha is an AEO/GEO platform that audits, measures, and optimizes how conversational AIs talk about your brand. It doesn't do traditional SEO. It doesn't generate "SEO content". It controls your… <sub>⭐ 22 · TypeScript</sub>
-- [cRED-f/QuestGen-AI-Agent](https://github.com/cRED-f/QuestGen-AI-Agent) - QuestGen-AI is an advanced exam question generation platform that leverages AI-Agent to automatically create customized question papers from user-uploaded PDF content <sub>⭐ 22 · TypeScript</sub>
-- [doepking/gemini_multimodal_demo](https://github.com/doepking/gemini_multimodal_demo) - A demo multimodal AI chat application built with Streamlit and Google's Gemini model. Features include: secure Google OAuth, persistent data storage with Cloud SQL (PostgreSQL), and intelligent… <sub>⭐ 22 · Python</sub>
-- [jadedagher/seo-agent-stack](https://github.com/jadedagher/seo-agent-stack) - Complete open-source system of AI agents for SEO — built for Claude Code. Analyze, plan, write, QC, and publish SEO content to Webflow CMS. <sub>⭐ 22</sub>
-- [kliewerdaniel/autoblog01](https://github.com/kliewerdaniel/autoblog01) - A professional Next.js blogging platform with advanced AI-driven content generation. Auto-Blog leverages RSS feed analysis and Retrieval-Augmented Generation (RAG) to create high-quality… <sub>⭐ 22 · Python</sub>
-- [opensass/aibook](https://github.com/opensass/aibook) - Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB. <sub>⭐ 22 · Rust</sub>
-- [ovesio/content-ai-wordpress-plugin](https://github.com/ovesio/content-ai-wordpress-plugin) - Ovesio Translate, Content & SEO Generator module for Wordpress & WooCommerce <sub>⭐ 22 · PHP</sub>
+- [prabhjotschugh/Genius-AI-SaaS](https://github.com/prabhjotschugh/Genius-AI-SaaS) - "Genius AI"是一个由高级人工智能提供动力的创意内容生成平台,使用户能够无心创作图像,视频,音乐,代码,以及以创新方式进行文字聊天. . <sub>⭐ 40 · TypeScript</sub>
+- [sonnysangha/AI-rss-newsletter-saas-openai-mongodb-prisma-clerk-nextjs-16](https://github.com/sonnysangha/AI-rss-newsletter-saas-openai-mongodb-prisma-clerk-nextjs-16) - 为内容创建者提供AI-动力通讯生成器。 将 RSS 与 GPT-4 同步转换成专业化的通讯。 功能是智能缓存、实时流媒体和文章... <sub>⭐ 40 · TypeScript</sub>
+- [bjornfix/mcp-expose-abilities](https://github.com/bjornfix/mcp-expose-abilities) - 让AI代理通过MCP做真正的WordPress工作. 61个核心能力,12个加载,280+生态系统能力用于内容,构建者,SEO,安全,文件,以及操作. <sub>⭐ 39 · PHP</sub>
+- [iamadhee/llm-influencer](https://github.com/iamadhee/llm-influencer) - AI驱动的社交媒体内容生成 <sub>⭐ 38 · Python</sub>
+- [mangollc/claude-seo-skill](https://github.com/mangollc/claude-seo-skill) - 面向各机构的综合SEO & AEO Claude代码插件. 关键词研究,技术审核,内容优化,本地SEO,回路链接,以及AI搜索优化. <sub>⭐ 38</sub>
+- [metehan777/screaming-frog-query-fan-out](https://github.com/metehan777/screaming-frog-query-fan-out) - 一个自定义的JavaScript提取,它使用Google的双子座AI来分析您的内容如何通过预测查询扇出模式在Google的AI模式搜索中表现. <sub>⭐ 38 · JavaScript</sub>
+- [antoineross/autogen-article-generator](https://github.com/antoineross/autogen-article-generator) - 使用Microsofts Autgen + OpenAI GPT-4/ 任何其他 LLM 生成文章 <sub>⭐ 37 · Python</sub>
+- [JonImmsWordpressDev/stratawp-seo](https://github.com/JonImmsWordpressDev/stratawp-seo) - 一个免费WordPress插件中的4个SIO产品:在您自己的密钥上安装一个AI内容引擎(Claude,GPT,双子座,Grok),一个完整的技术SEO套件,一个跟踪AI回答引擎是否的AEO层. . <sub>⭐ 37 · PHP</sub>
+- [metehan777/embedding-analysis-with-gemini-claude](https://github.com/metehan777/embedding-analysis-with-gemini-claude) - 用双子座的3k维度模型运行内容嵌入分析 克劳德·3.7 Sonnet Thinking <sub>⭐ 37 · Python</sub>
+- [aaron-he-zhu/core-eeat-content-benchmark](https://github.com/aaron-he-zhu/core-eeat-content-benchmark) - CORE-EEAT 内容基准:8维×10项=80项AI时代内容能见度优化评价标准(GEO+SEO). <sub>⭐ 36</sub>
+- [christancho/Blogging-with-N8N](https://github.com/christancho/Blogging-with-N8N) - AI-Powered Blog Automation Suite - 完成N8N工作流程,用于自动化内容创建,研究,SEO优化,并发布给Ghost CMS. <sub>⭐ 36</sub>
+- [Glimor/Glimors-Wordpress-Article-Generator](https://github.com/Glimor/Glimors-Wordpress-Article-Generator) - 用这个 AI 的 WordPress 文章生成器来解开 AI 在内容创建中的力量。 这个工具可以利用先进的 GBT 技术自动生成、定制和发布内容 。 。 <sub>⭐ 36 · Python</sub>
+- [LeadCMS/leadcms.core](https://github.com/LeadCMS/leadcms.core) - AI驱动的CMS & CRM,供SaaS团队快速构建登陆页面,管理内容,推动铅生成. <sub>⭐ 36 · C#</sub>
+- [inbharatai/SocialFlow](https://github.com/inbharatai/SocialFlow) - 开源AI社交媒体工作流程引擎用于规划,起草,品牌语音,图像生成,以及平台感知内容自动化. <sub>⭐ 35 · Python</sub>
+- [jroakes/SEODP](https://github.com/jroakes/SEODP) - SEO数据平台将SEO分析自动化,汇总来自Google分析4,搜索控制台,Page speed Insights的数据,并提供了内容. 由Google双子座AI提供动力,它发送了可操作的电子邮件... <sub>⭐ 35 · Python</sub>
+- [benjamingibert/dirty-hands-gtm](https://github.com/benjamingibert/dirty-hands-gtm) - 上市运营商的战术人工智能系统,《肮脏手》通讯的连线。 <sub>⭐ 34</sub>
+- [KalyanM45/Multi-Agentic-Blog-Generation](https://github.com/KalyanM45/Multi-Agentic-Blog-Generation) - 这个项目是一个完全自动化的AI博客平台,由LangGraph和Groq的LLM所建。它自动生成并发布技术博客文章到一个现代化的、反应迅速的网站。 <sub>⭐ 34 · Python</sub>
+- [ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT](https://github.com/ramsrigouthamg/Generate_True_or_False_OpenAI_GPT2_Sentence_BERT) - 以 OpenAI GPT2 文本生成、 Pried-BERT 语义搜索和 Berkley 选区解析器生成任何内容的 True 或 False 问题。 <sub>⭐ 34 · Jupyter Notebook</sub>
+- [tentenco/awesome-geo](https://github.com/tentenco/awesome-geo) - 你需要了解的关于Generative引擎优化(GEO)和AI SIO. DOMINATE AI SEARCH RESULTS 您与专家Generative引擎优化(GEO)合作的生意,找到... <sub>⭐ 34</sub>
+- [fenjo26/OpenGSC](https://github.com/fenjo26/OpenGSC) - 自办的Google搜索控制台仪表板——排名跟踪,关键词研究,AI可见度审计和AI SEO内容套件. 包括一个73个工具的MCP服务器,因此克劳德代码或Cursor与. <sub>⭐ 33 · TypeScript</sub>
+- [ur-grue/autopunk-media-skills](https://github.com/ur-grue/autopunk-media-skills) - 400+免费AI技能和媒体专业人士的9名代理——记者,制作人,播客,YouTubers. 质素测试,与克劳德,ChatGPT,Cursor,任何MCP客户端等合作. <sub>⭐ 33 · Python</sub>
+- [erpnextai/next_ai](https://github.com/erpnextai/next_ai) - NextAI是Frappe和ERPNext的AI动力应用软件,提供无缝的内容生成,自动化和生产力提升. <sub>⭐ 32 · Python</sub>
+- [travsteward/openwriter](https://github.com/travsteward/openwriter) - AI代理的开源写入表层. Markdown-native编辑器, 附带待修改审查—— 您的代理写, 您接受或拒绝 。 <sub>⭐ 32 · TypeScript</sub>
+- [Jeffallan/writing-with-agents](https://github.com/Jeffallan/writing-with-agents) - Claude Code 技能插件 执行 Betty Flowers的 Madman-Architect-Carpenter-Judge 书写框架 与 AI - 人类振荡, SEO 优化,以及多条内容策略. <sub>⭐ 31 · Python</sub>
+- [MADEVAL/AngleCraft](https://github.com/MADEVAL/AngleCraft) - 将干专家专题转换成高参与度内容, 包含7+2 的新闻角度类型。 任何 LLM 、 任何优势、 任何语言的 AI 技能 。 <sub>⭐ 31</sub>
+- [theone-ctrl/ai-content-automation-n8n](https://github.com/theone-ctrl/ai-content-automation-n8n) - 由n8n构建的端到端AI工作流程,用于实现社交媒体内容创建自动化,包括脚本生成,文本对语音,图像生成,以及视频制作. <sub>⭐ 31</sub>
+- [zubair-trabzada/ai-restaurant-claude](https://github.com/zubair-trabzada/ai-restaurant-claude) - Claude Code的AI餐厅营销与操作引擎. 多平台审查分析,菜单工程,本地SEO,社交内容日历,广告复制 & PDF 报告. 14个技能,5个平行... <sub>⭐ 31 · Python</sub>
+- [hoangsonww/AI-Gov-Content-Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator) - 一个端到端的解决方案,用于使用AI驱动的后端,自动CRON爬行器和通讯电子邮件以及响应Next.js前端来汇总、归纳和显示新闻文章。它... <sub>⭐ 30 · TypeScript</sub>
+- [hrishi-008/SummarAI](https://github.com/hrishi-008/SummarAI) - 使用FAISS,LLMS,以及检索-增强生成(RAG)技术来总结搜索结果和网站内容的工具. <sub>⭐ 30 · Python</sub>
+- [Readplace/readplace.com](https://github.com/Readplace/readplace.com) - 保存文章、 AI 研究来源和通讯电子邮件链接。 准备好就读, 没有第三方跟踪。 由 js- cookie 创建者从一个十年的个人阅读系统创建 。 <sub>⭐ 30 · TypeScript</sub>
+- [tropk-ai/mcp-for-wordpress](https://github.com/tropk-ai/mcp-for-wordpress) - 连接 WordPress 到 Claude.ai,Loveable,Cursor,Windsurf. 500+ 预建工具横跨内容,元素器,Rank Math SIO,ACF,WooCommerce 和 ops. OAuth 2.1 有动态客户端注册——没有 API... <sub>⭐ 30 · PHP</sub>
+- [XiaomingX/awesome-ai-tools-for-game-dev](https://github.com/XiaomingX/awesome-ai-tools-for-game-dev) - 游戏开发的出色AI工具:集精美的AI工具,库和资源于一身,以加强游戏开发工作流程. 从程序内容生成到NPC行为... <sub>⭐ 30</sub>
+- [Bhavik-Jikadara/Content-Generation-Workflow](https://github.com/Bhavik-Jikadara/Content-Generation-Workflow) - 使用AI执行可扩展内容团队,涉及建立一个框架,将AI技术的优势与人类团队成员的创造和监督能力相结合. this... <sub>⭐ 29 · Jupyter Notebook</sub>
+- [brayden-s-haws/pm_am_newsletter](https://github.com/brayden-s-haws/pm_am_newsletter) - 这是代码生成每日的自动化通讯, 它使用众源内容, 结合 OpenAI GPT 来管理电子邮件内容 。 (提示和源可以很容易地被调整以覆盖... <sub>⭐ 29 · Python</sub>
+- [cdeistopened/skill-stack](https://github.com/cdeistopened/skill-stack) - AI 技能市场+ 创意智能通讯 <sub>⭐ 29 · TypeScript</sub>
+- [felixggj/multi-agent-ai-newsletter](https://github.com/felixggj/multi-agent-ai-newsletter) - 多代理AI系统,可以自动检索最新的Football新闻并创建通讯 <sub>⭐ 29 · Python</sub>
+- [MADEVAL/RankWise](https://github.com/MADEVAL/RankWise) - LLMs的SEO内容引擎 - 一个将任何有能力的AI转化为世界级的SEO战略员的即时工程系统:生成,改写,以及针对49个排名因素的审计内容,带有. <sub>⭐ 29 · Python</sub>
+- [1nn0k3sh4/GigaChat-Prompt-Jailbreak](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) - 这项研究确定了绕过GigaChat LLM中的安全系统的方法,通过一种"内涵伪装"使得与化学合成相关的潜在有害内容得以产生. . <sub>⭐ 28</sub>
+- [wulaosiji/skills](https://github.com/wulaosiji/skills) - 工作流程自动化的AI代理技能——由UniqueClub制作的Feishu集成,内容生成,数据处理,以及媒体工具 <sub>⭐ 28 · Python</sub>
+- [aws-samples/generative-ai-marketing-portal](https://github.com/aws-samples/generative-ai-marketing-portal) - CDK 应用基因AI进行内容生成和分发的样本营销门户部署 <sub>⭐ 27 · Python</sub>
+- [Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine) - 多频道社交媒体平台. 管理Facebook,Instagram,LinkedIn,TikTok,以及一个仪表板上的X. AI内容生成,批准工作流程,17个内容技能,规模到100页. <sub>⭐ 27 · Python</sub>
+- [SharathKumarS/Open-Generative-AI](https://github.com/SharathKumarS/Open-Generative-AI) - 未经审查,Higgsfield AI,Freepik AI,Krea AI,Openart AI——免费,不受限制的AI图像和视频生成工作室,拥有200+型号(Flux,Midjourney,Kling,Sora,Veo). No... <sub>⭐ 27</sub>
+- [khaoss85/youtube-autopilot](https://github.com/khaoss85/youtube-autopilot) - AI动力端对端YouTube内容自动化:趋势检测,多代理编辑系统,AI视频生成(Veo),以及计划发布. 0外部依赖性. <sub>⭐ 26 · Python</sub>
+- [Mr-Asante/AI-Automations](https://github.com/Mr-Asante/AI-Automations) - Make.com的集成 AI 自动化蓝图,用于营销,销售和生产力——主要以内容生成,电子邮件,社交媒体,领导管理等自动化工作流程为主. <sub>⭐ 26</sub>
+- [Ravi-Teja-konda/AudioInsightsGenerator](https://github.com/Ravi-Teja-konda/AudioInsightsGenerator) - 用 Audio Insights Generator 解锁AI 的电源! 从音频到摘要, 情感分析, 想法生成, 叙事和内容过滤。 探索您音频的隐藏维度 ! <sub>⭐ 26 · Jupyter Notebook</sub>
+- [bhaskarblur/Sync-RealtimeContentCollaboration](https://github.com/bhaskarblur/Sync-RealtimeContentCollaboration) - Sync是一个实时内容协作应用程序,与Kotlin开发的多个人一起使用Firebase实时数据库,提供撤销-redo更改和实时合作AI Content生成以及. <sub>⭐ 25 · Kotlin</sub>
+- [followanton/sleepwalker](https://github.com/followanton/sleepwalker) - 使用梦游者访问AI的能见度数据(即时,答案,引用)和内容智能洞察(趋势,机会). 通过MCP,API,CLI和梦游者App提供. <sub>⭐ 25 · JavaScript</sub>
+- [gaurav18115/blogen](https://github.com/gaurav18115/blogen) - BLOGEN - Your Blog Generation Companion! 以AI驱动的内容生成的方式, 努力创建吸引人的博客帖子。 输入主关键字, 选择写音量, 并生成定制内容... <sub>⭐ 25 · Python</sub>
+- [IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio](https://github.com/IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio) - 开放源代码AI SEO内容工作室,免费自办,替换Surfer,Ahrefs,Clearscope,尖叫蛙,Assoked,MarketMuse——一个AI密钥,39个模块,45个方法,麻省理工学院. <sub>⭐ 25 · TypeScript</sub>
+- [narender-rk10/marketing-ai-studio](https://github.com/narender-rk10/marketing-ai-studio) - AI-本土多代理营销平台与FastAPI,Google ADK,以及React JS开发. Orchestrate 70+ 专业代理由双子座3.1和Veo 3为自动化品牌,SEO提供动力,以及. <sub>⭐ 25 · TypeScript</sub>
+- [astronomer/gen-ai-fine-tune-rag-use-case](https://github.com/astronomer/gen-ai-fine-tune-rag-use-case) - GenAI + Airflow. 精调+RAG管道用于内容生成. <sub>⭐ 24 · Python</sub>
+- [charlie947/agent-harness-starter](https://github.com/charlie947/agent-harness-starter) - 在Claude Code或Cowork中设立代理吊带的脚手架。 <sub>⭐ 24 · Shell</sub>
+- [focusreactive/payload-plugins](https://github.com/focusreactive/payload-plugins) - 开源的Beadload CMS插件:A/B测试,GA4分析,现场SEO分析,内容预设,内置评论,AI翻译和预定出版,加上Ideal CMS启动器. <sub>⭐ 24 · TypeScript</sub>
+- [giftedunicorn/ai-news-bot](https://github.com/giftedunicorn/ai-news-bot) - 自动AI新闻摘要生成器,配备 Claude/DeepSeek、RSS feed、HTML电子邮件和多语种支持 <sub>⭐ 24 · Python</sub>
+- [KalyanM45/Medicine-Recognition-System](https://github.com/KalyanM45/Medicine-Recognition-System) - 这个弗拉斯克网络应用程序利用Google的Generative AI模型为上传的图像生成详细的医学描述. 该项目侧重于医疗内容生成,包含. <sub>⭐ 24 · Python</sub>
+- [rohanmistry231/AI-Wallpapers-Frontend](https://github.com/rohanmistry231/AI-Wallpapers-Frontend) - AI动力壁纸生成平台的React-based前端,为浏览,自定义和下载AI生成的壁纸提供响应界面. 使用TypeScript和Tailwind搭建... <sub>⭐ 24 · JavaScript</sub>
+- [rohanmistry231/AI-WebStudio](https://github.com/rohanmistry231/AI-WebStudio) - 全网应用利用AI创建动态,个性化的网页内容,由React为前端打造,Node.js为后端MongoDB构建. Features AI驱动的内容... <sub>⭐ 24 · TypeScript</sub>
+- [verygoodplugins/llm-url-solution](https://github.com/verygoodplugins/llm-url-solution) - 自动生成来自ChatGPT,Claude等AI聊天机器人搜索的404个URL的SEO优化内容. <sub>⭐ 24 · PHP</sub>
+- [enzoemir1/n8n-prompt-library](https://github.com/enzoemir1/n8n-prompt-library) - 20 个已制作准备的AI 提示优化了 n8n 工作流程。 复制粘贴系统提示模式推荐、 成本估算和集成提示。 内容生成、 数据处理、 电子邮件... <sub>⭐ 23</sub>
+- [GaloisField2718/tldr_news](https://github.com/GaloisField2718/tldr_news) - 此回函包含我邮箱收到的TLDR通讯, 并保存每封以Markdown格式发送的邮件, 以及相应的文章。 在不久的将来, 我们可以使用 AI 来命名每个文件并制作索引 。 <sub>⭐ 23 · Python</sub>
+- [kaiban-ai/kaiban-agents-aggregator](https://github.com/kaiban-ai/kaiban-agents-aggregator) - 与KaibanJS和React共同打造的强大的AI动力通讯聚合器. <sub>⭐ 23 · TypeScript</sub>
+- [semasuka/Talk-to-your-PDF](https://github.com/semasuka/Talk-to-your-PDF) - 一个让用户能够上传PDF文件并使用检索增强生成(RAG)询问其内容的应用程序 <sub>⭐ 23 · Python</sub>
+- [acnlabs/awesome-spec-kits](https://github.com/acnlabs/awesome-spec-kits) - 与MetaSpec共同构建的规格工具包(speckits)目录,用于定义,验证规格和驱动AI内容生成. <sub>⭐ 22 · Python</sub>
+- [ananeridev/newsletter-agent](https://github.com/ananeridev/newsletter-agent) - 利用Ai机组的特工来制作通讯 <sub>⭐ 22 · Python</sub>
+- [beenruuu/Mentha](https://github.com/beenruuu/Mentha) - Mentha是一个AEO/GEO平台,负责审计,测量,并优化对话AI如何谈论你的品牌,它不做传统的SEO,也不产生"SEO内容",它控制你... <sub>⭐ 22 · TypeScript</sub>
+- [cRED-f/QuestGen-AI-Agent](https://github.com/cRED-f/QuestGen-AI-Agent) - QuestGen-AI是一个高级考试问询生成平台,它利用AI-Agent从用户上载的PDF内容中自动创建定制的问题文件. <sub>⭐ 22 · TypeScript</sub>
+- [doepking/gemini_multimodal_demo](https://github.com/doepking/gemini_multimodal_demo) - 用Streamlit和Google双子模型构建的演示式 AI 聊天应用程序,其特性包括:安全的 Google OAuth,持续使用 Cloud SQL (PostgreSQL)存储数据,以及智能... <sub>⭐ 22 · Python</sub>
+- [jadedagher/seo-agent-stack](https://github.com/jadedagher/seo-agent-stack) - 完整的SIO的AI代理开源系统——为Claude Code所建. Analysis, planing, write,QC,并发布SIO内容到Webflow CMS. <sub>⭐ 22</sub>
+- [kliewerdaniel/autoblog01](https://github.com/kliewerdaniel/autoblog01) - 一个专业的Next.js博客平台,拥有高级AI驱动的内容生成. Auto-Blog 杠杆 RSS feed 分析以及 Retrieval-Augmented Generation (RAG) 来创建高质量的... <sub>⭐ 22 · Python</sub>
+- [opensass/aibook](https://github.com/opensass/aibook) - 完整堆栈内容生成SaaS平台由Dioxus,Dioxus服务器函数,Axum,Unsplash,双子AI & MongoDB提供动力. <sub>⭐ 22 · Rust</sub>
+- [ovesio/content-ai-wordpress-plugin](https://github.com/ovesio/content-ai-wordpress-plugin) - Ovesio 翻译、 内容和 SEO 生成器模块, 用于 Wordpress & WooCommerce <sub>⭐ 22 · PHP</sub>
 
 ## 📖 小说、书籍与剧本
 
 > 借助 AI 进行创意写作、长篇小说、世界观构建和剧本创作。
 
-- [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) - Professional agent skills for screenwriting, television writing and dramaturgy <sub>⭐ 1.5k · Python</sub>
-- [mind-protocol/terminal-velocity](https://github.com/mind-protocol/terminal-velocity) - A novel created autonomously by a team of 10 AI agents <sub>⭐ 1.1k · Python</sub>
-- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video.… <sub>⭐ 986 · JavaScript</sub>
-- [TencentARC/SEED-Story](https://github.com/TencentARC/SEED-Story) - SEED-Story: Multimodal Long Story Generation with Large Language Model <sub>⭐ 884 · Python</sub>
-- [alfredxw/denova](https://github.com/alfredxw/denova) - An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control. <sub>⭐ 854 · Go</sub>
-- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - Verbalized Sampling, a training-free prompting strategy to mitigate mode collapse in LLMs by requesting responses with probabilities. Achieves 2-3x diversity improvement while maintaining quality.… <sub>⭐ 813 · Python</sub>
-- [FireRedTeam/StoryMaker](https://github.com/FireRedTeam/StoryMaker) - StoryMaker: Towards consistent characters in text-to-image generation <sub>⭐ 720 · Python</sub>
-- [notnotype/neuro-book](https://github.com/notnotype/neuro-book) - An AI-powered IDE for long-form fiction writing, combining software engineering workflows, modern storytelling methodologies, and multi-agent systems. <sub>⭐ 716 · TypeScript</sub>
-- [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs). <sub>⭐ 660 · Python</sub>
-- [Nigh/show-me-the-story](https://github.com/Nigh/show-me-the-story) - Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese & English. <sub>⭐ 607 · Go</sub>
-- [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story <sub>⭐ 449</sub>
-- [taruma/SceneFlow](https://github.com/taruma/SceneFlow) - Sync screenplays with video. Evaluate AI-generated footage. Analyze script-to-screen fidelity. <sub>⭐ 337 · TypeScript</sub>
-- [byliutao/1Prompt1Story](https://github.com/byliutao/1Prompt1Story) - ICLR 2025 (Spotlight) One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt <sub>⭐ 322 · Python</sub>
-- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - AI-powered data-to-video generation. Upload a table, get a narrated animated data story. <sub>⭐ 274 · TypeScript</sub>
-- [DavidDinkevich/Story2Board](https://github.com/DavidDinkevich/Story2Board) - Official implementation for "Story2Board: A Training‑Free Approach for Expressive Storyboard Generation" <sub>⭐ 269 · Python</sub>
-- [p-e-w/arrows](https://github.com/p-e-w/arrows) - A frontend for creative writing with LLMs <sub>⭐ 171 · TypeScript</sub>
-- [fangleai/TransformerCVAE](https://github.com/fangleai/TransformerCVAE) - Transformer-based Conditional Variational Autoencoder for Controllable Story Generation <sub>⭐ 164 · Python</sub>
-- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C Strategic Highlights September 2019 This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the… <sub>⭐ 160</sub>
-- [the-crypt-keeper/LLooM](https://github.com/the-crypt-keeper/LLooM) - Experimental LLM Inference UX to aid in creative writing <sub>⭐ 128 · Python</sub>
-- [CyberJ0605/cinematic-video-prompt-engineer-skill](https://github.com/CyberJ0605/cinematic-video-prompt-engineer-skill) - A Codex skill for turning plot summaries into cinematic AI video prompts. It diagnoses story, emotion, structure, shot design, micro-expressions, sound, reference image prompts, and continuation… <sub>⭐ 124</sub>
-- [sidhantabarik37/StrawVerse-Orbit](https://github.com/sidhantabarik37/StrawVerse-Orbit) - StrawVerse AI: Next Gen Interactive Fiction Engine 2026 <sub>⭐ 115 · HTML</sub>
-- [Lanerra/saga](https://github.com/Lanerra/saga) - Autonomous, agentic, creative story writing system that incorporates stored embeddings and Knowledge Graphs. <sub>⭐ 113 · Python</sub>
-- [Picrew/awesome-llm-story-generation](https://github.com/Picrew/awesome-llm-story-generation) - A curated list of LLM papers and open-source projects for story, novel, and script generation. <sub>⭐ 112</sub>
-- [TaylliSun/worldcraft-codex](https://github.com/TaylliSun/worldcraft-codex) - A local-first desktop workspace for worldbuilding, game narrative, quests, maps, relationships, novels, scripts, and AI-assisted writing. <sub>⭐ 104 · JavaScript</sub>
-- [thu-coai/CommonsenseStoryGen](https://github.com/thu-coai/CommonsenseStoryGen) - Implementation for paper "A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation" <sub>⭐ 102 · Python</sub>
-- [MangoLion/plotbunni](https://github.com/MangoLion/plotbunni) - FOSS Novel Writing Suite with AI Assistance <sub>⭐ 101 · JavaScript</sub>
-- [hassancs91/claude-image-generation](https://github.com/hassancs91/claude-image-generation) - Connect Claude to image generation with Agent Skills. Three levels: a zero-cost code-based design engine, a Three.js 3D renderer, and a real diffusion model on Cloudflare. Plus an AI Storybook… <sub>⭐ 98 · HTML</sub>
-- [teangtang1122/siming-ai](https://github.com/teangtang1122/siming-ai) - Local novel writing AI workspace with packaged Windows launcher. <sub>⭐ 94 · Python</sub>
-- [facebookresearch/doc-storygen-v2](https://github.com/facebookresearch/doc-storygen-v2) - Codebase for LLM story generation; updated version of https//github.com/yangkevin2/doc-story-generation <sub>⭐ 93 · Python</sub>
-- [blackzhanzhan/novel_agent](https://github.com/blackzhanzhan/novel_agent) - Git-native AI novel writing workbench with Dify agents <sub>⭐ 90 · Python</sub>
-- [Ergosign/storybook-addon-pseudo-states](https://github.com/Ergosign/storybook-addon-pseudo-states) - Storybook Add-on to enable automatic generation and displaying of CSS pseudo states for components. <sub>⭐ 79 · TypeScript</sub>
-- [abisee/story-generation-eval](https://github.com/abisee/story-generation-eval) - Code for the paper "Do Massively Pretrained Language Models Make Better Storytellers?" <sub>⭐ 75 · Jupyter Notebook</sub>
-- [adithya-s-k/Storyblocks](https://github.com/adithya-s-k/Storyblocks) - Experience the enchantment of Story Blocks: an open-source project merging AI text generation and image synthesis to create captivating video narratives. Watch as your text prompts come to life with… <sub>⭐ 72 · Jupyter Notebook</sub>
-- [zxerai/novelix](https://github.com/zxerai/novelix) - novelix— Autonomous novel writing AI agent. 10-agent pipeline for fiction writing with Studio web workbench, TUI, and CLI. <sub>⭐ 71 · TypeScript</sub>
-- [bybren-llc/story-systems-template](https://github.com/bybren-llc/story-systems-template) - Creative project template for screenplays, novels, and film production. Multi-AI harness with upstream sync. <sub>⭐ 68 · JavaScript</sub>
-- [HenryZ838978/Seedance2.0-Storyboard-Planner](https://github.com/HenryZ838978/Seedance2.0-Storyboard-Planner) - Capability-layer harness: storyboard planning that gives AI video generation the shot structure it can't hold on its own (Vue3 + FastAPI). <sub>⭐ 65 · Vue</sub>
-- [junjiehe96/AnyStory](https://github.com/junjiehe96/AnyStory) - AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation <sub>⭐ 64 · Python</sub>
-- [wanshuiyin/ARIS-Movie-Director](https://github.com/wanshuiyin/ARIS-Movie-Director) - Agentic, long-horizon visual generation: a fuzzy story → a cross-model-audited image-based movie. Brings ARIS's research-wiki + multi-agent debate to multimodal generation (intelligence lives in the… <sub>⭐ 64 · Python</sub>
-- [lancopku/Skeleton-Based-Generation-Model](https://github.com/lancopku/Skeleton-Based-Generation-Model) - Code for "A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation" (EMNLP 2018) <sub>⭐ 62 · Python</sub>
-- [muzishen/RCDMs](https://github.com/muzishen/RCDMs) - (AAAI 2025) RCDMs : Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models. RCDMs improve story generation with strong semantic and temporal consistency… <sub>⭐ 62 · Python</sub>
-- [Rain-31/novelbox](https://github.com/Rain-31/novelbox) - A professional novel writing application with AI assistance, chapter management, and intelligent writing features <sub>⭐ 62 · Vue</sub>
-- [smthemex/ComfyUI_JoyAI_Echo](https://github.com/smthemex/ComfyUI_JoyAI_Echo) - Pushing the Frontier of Long Video Generation Standalone, inference-only release for minute-level multi-shot audio-video generation with a distilled DMD generator, paired cross-modal memory, and… <sub>⭐ 57 · Python</sub>
-- [62656456/ai-film-skills](https://github.com/62656456/ai-film-skills) - Open Film Skills: 21 independent modules for story, directing, visual assets and AI-film production, with research galleries and playable 3D previs. <sub>⭐ 56 · Python</sub>
-- [ackness/covel](https://github.com/ackness/covel) - (Agentic AI-RPG) Agentic AI role-playing game framework — narration, NPCs, lore, and character creation are autonomous plugin agents. Build interactive fiction with DeepSeek / OpenAI / Anthropic /… <sub>⭐ 53 · TypeScript</sub>
-- [wassermanproductions/scriptbreak](https://github.com/wassermanproductions/scriptbreak) - Screenplay breakdown & AI prompt-pack studio — import a script, get scenes, elements, bibles, shot lists & a timeline, then export self-executing prompt packs for any LLM and any video/image… <sub>⭐ 53 · HTML</sub>
-- [takuma-ru/auto-story-generator](https://github.com/takuma-ru/auto-story-generator) - Automatic real-time story file generation from React, Vue, and Lit component files <sub>⭐ 51 · TypeScript</sub>
-- [GAIR-NLP/MoPS](https://github.com/GAIR-NLP/MoPS) - (ACL 2024) Code for "MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation" <sub>⭐ 47 · Jupyter Notebook</sub>
-- [basiclab/CPCStoryVisualization-Pytorch](https://github.com/basiclab/CPCStoryVisualization-Pytorch) - Character-Preserving Coherent Story Visualization, ECCV 2020 <sub>⭐ 42 · Python</sub>
-- [calclavia/story-generation](https://github.com/calclavia/story-generation) - Code for Improving Neural Story Generation by Targeted Common Sense Grounding <sub>⭐ 42 · Python</sub>
-- [dojoteef/storium-gpt2](https://github.com/dojoteef/storium-gpt2) - Source code for the GPT-2 story generation models in the EMNLP 2020 paper "STORIUM: A Dataset and Evaluation Platform for Human-in-the-Loop Story Generation" <sub>⭐ 40 · Python</sub>
-- [tjusenchen/StoryDroid](https://github.com/tjusenchen/StoryDroid) - Automated Storyboard Generation for Android Apps <sub>⭐ 37 · Python</sub>
-- [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements) - Tracery grammars for building creative Twitterbots. Contains generative grammars for story-telling, metaphor generation, ironic put-downs, Trumpisms, short poems, etc. <sub>⭐ 36</sub>
-- [Sri01729/template-ai-storyboard-consistent-character](https://github.com/Sri01729/template-ai-storyboard-consistent-character) - A comprehensive AI-powered storyboard generation system built with Mastra that creates visual storyboards with consistent character appearances across all scenes. Features multi-agent architecture… <sub>⭐ 36 · TypeScript</sub>
-- [easyeye163/vimax-agnes](https://github.com/easyeye163/vimax-agnes) - Agentic Video Generation powered entirely by Agnes AI. Idea → Story → Script → Images → Video. Free & unlimited. <sub>⭐ 34 · Python</sub>
-- [bei666qi-pan/VerseCraft](https://github.com/bei666qi-pan/VerseCraft) - AI-powered interactive fiction engine: players write actions, and a living story world resolves the consequences. <sub>⭐ 33 · TypeScript</sub>
-- [jblemee/bmad-book-builder](https://github.com/jblemee/bmad-book-builder) - AI-Assisted Novel Development System - A BMAD module for writing novels with 8 specialized agents and 17 workflows <sub>⭐ 33</sub>
-- [seraphinatarrant/plan-write-revise](https://github.com/seraphinatarrant/plan-write-revise) - Code for a web demo of Plan, Write, and Revise: a neural system for interactive open-domain story generation <sub>⭐ 33 · Python</sub>
-- [WorkInTheDark/FairytaleQA_QAG_System](https://github.com/WorkInTheDark/FairytaleQA_QAG_System) - The official repository for paper "It is AI’s Turn to Ask Humans a Question: Question-Answer Pair Generation for Children’s Story Books" accepted to ACL 2022 <sub>⭐ 32 · Python</sub>
-- [breakstring/Agentic_Story_Book_Workflow](https://github.com/breakstring/Agentic_Story_Book_Workflow) - An agentic workflow for story book generation <sub>⭐ 31 · Python</sub>
-- [IllgamhoDuck/ko_novel_generator](https://github.com/IllgamhoDuck/ko_novel_generator) - Deep learning model writing korean novel / Won at the AI event, 2019 Just model it, hosted by BackendAI & Nvidia <sub>⭐ 29 · Python</sub>
-- [raphaotten/claude-interview-coach](https://github.com/raphaotten/claude-interview-coach) - Personalized CV generation and adaptive interview coaching. Learns your story, tracks your progress. All you need is Claude Code. <sub>⭐ 29 · Python</sub>
-- [lechmazur/writing_styles](https://github.com/lechmazur/writing_styles) - Documents the style side of the short-story Creative Writing LLM benchmark: we generated many short stories with a range of LLMs, then analyzed those stories for stylistic fingerprints and… <sub>⭐ 27</sub>
-- [ShadowLoveElysia/ElyHa](https://github.com/ShadowLoveElysia/ElyHa) - AI-powered visual novel writing studio with multi-agent collaboration, node-based plotting, branches, and human-in-the-loop editing. Built with Tauri + ReactFlow. 开源长篇小说创作工具 <sub>⭐ 27 · Python</sub>
-- [lara-martin/ASTER](https://github.com/lara-martin/ASTER) - Automated Story-Telling using Event Representations (ASTER) from the AAAI 2018 paper "Event Representations for Automated Story Generation with Deep Neural Nets" <sub>⭐ 25 · Python</sub>
-- [adaumann/speckit-preset-fiction-book-writing](https://github.com/adaumann/speckit-preset-fiction-book-writing) - Fiction-book-writing preset for AI GitHub Spec Kit. Stackable, priority-ordered collections of template and command overrides for Spec Kit writing complex fiction novel books (single POV and multi… <sub>⭐ 24 · Python</sub>
-- [JianGuanTHU/CommonsenseStoryGen](https://github.com/JianGuanTHU/CommonsenseStoryGen) - Implementation for paper "A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation" <sub>⭐ 24 · Python</sub>
-- [leemjnnkdzuy/auto-voice-over-tool](https://github.com/leemjnnkdzuy/auto-voice-over-tool) - AI-powered toolkit for creating narrated videos from comics, manga, webtoons, and image stories using AI script generation, text-to-speech, subtitles, and automated video rendering. <sub>⭐ 24 · TypeScript</sub>
-- [that-one-arab/gpt-interactive-novel](https://github.com/that-one-arab/gpt-interactive-novel) - A customizable interactive fiction novel that utilizes GPT. Playable straight from your terminal! <sub>⭐ 24 · Python</sub>
-- [geobond13/fiction-forge](https://github.com/geobond13/fiction-forge) - Prose pattern scanner + MCP context server for editing AI-assisted novels. Detects 24 AI writing fingerprints. Battle-tested on 286k words. <sub>⭐ 23 · Python</sub>
-- [techinAI/DeepLearning.AI](https://github.com/techinAI/DeepLearning.AI) - In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about… <sub>⭐ 22</sub>
+- [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) - 从事编剧、电视写作和戏剧制作的专业代理技能 <sub>⭐ 1.5k · Python</sub>
+- [mind-protocol/terminal-velocity](https://github.com/mind-protocol/terminal-velocity) - 由十位AI代理团队自主创作的小说 <sub>⭐ 1.1k · Python</sub>
+- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI辅助的故事板和视频生成工具. 使用双子座生成故事板文本和帧,Vertex AI Veo生成过渡剪辑,ffmpeg用于缝合最终视频. . <sub>⭐ 986 · JavaScript</sub>
+- [TencentARC/SEED-Story](https://github.com/TencentARC/SEED-Story) - SEED-故事:多式长篇故事生成与大语言模型 <sub>⭐ 884 · Python</sub>
+- [alfredxw/denova](https://github.com/alfredxw/denova) - 一个用于小说写作的AI创意平台和AI生成了RPG,内置支持AI代理,技能,子代理工作流程,自动化,图像生成,以及版本控制. <sub>⭐ 854 · Go</sub>
+- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - 虚拟采样(Verbalized Sampling),是一种无培训的激励策略,通过请求概率反应来缓解LLMs模式崩溃.在保持质量的同时实现2-3x多样性的改善. <sub>⭐ 813 · Python</sub>
+- [FireRedTeam/StoryMaker](https://github.com/FireRedTeam/StoryMaker) - StoryMaker:在文本到图像生成中向着一致的字符 <sub>⭐ 720 · Python</sub>
+- [notnotype/neuro-book](https://github.com/notnotype/neuro-book) - 用于长式虚构写作的AI动力IDE,结合了软件工程工作流程,现代讲故事方法,以及多代理系统. <sub>⭐ 716 · TypeScript</sub>
+- [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - 这个寄存器收集了大量关于"故事生成/故事解说"的精彩论文列表,专门关注大语言模型(LLM)时代. <sub>⭐ 660 · Python</sub>
+- [Nigh/show-me-the-story](https://github.com/Nigh/show-me-the-story) - 自办AI小说生成器:单Go二进制+网络UI. OpenAI兼容API –大纲~逐章写作,附有评论,预告,事实检查,以及全书抛光. 中英文版. <sub>⭐ 607 · Go</sub>
+- [lechmazur/writing](https://github.com/lechmazur/writing) - 这一基准测试了LLMS如何在短篇创意故事中融入了一组十种必修的故事要素(人物,对象,核心概念,属性,动机等). <sub>⭐ 449</sub>
+- [taruma/SceneFlow](https://github.com/taruma/SceneFlow) - 与视频同步剧本。 评估 AI 生成的镜头。 分析脚本至屏幕的忠诚度 。 <sub>⭐ 337 · TypeScript</sub>
+- [byliutao/1Prompt1Story](https://github.com/byliutao/1Prompt1Story) - ICLR 2025 (Spotlight) 单程-一程: 使用单程提示的 Free-Lunch 一致文本到图像生成 <sub>⭐ 322 · Python</sub>
+- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - AI 驱动数据到视频生成。 上传一个表格, 获得一个描述性的数据动画故事 。 <sub>⭐ 274 · TypeScript</sub>
+- [DavidDinkevich/Story2Board](https://github.com/DavidDinkevich/Story2Board) - 官方实施"故事2宝库:为表达式故事板生成提供训练的免费方法". <sub>⭐ 269 · Python</sub>
+- [p-e-w/arrows](https://github.com/p-e-w/arrows) - 使用 LLMS 编写创意的前端 <sub>⭐ 171 · TypeScript</sub>
+- [fangleai/TransformerCVAE](https://github.com/fangleai/TransformerCVAE) - 基于变形器的可控故事生成条件变量自动编码器 <sub>⭐ 164 · Python</sub>
+- [jettbrains/-L-](https://github.com/jettbrains/-L-) - W3C战略要闻 2019年9月 本报是为2019年9月W3C咨询委员会会议编写的(W3C成员链接),参见所附的W3C概况介绍——2019年9月. <sub>⭐ 160</sub>
+- [the-crypt-keeper/LLooM](https://github.com/the-crypt-keeper/LLooM) - LLM 实验推论 UX 用于帮助创造性写作 <sub>⭐ 128 · Python</sub>
+- [CyberJ0605/cinematic-video-prompt-engineer-skill](https://github.com/CyberJ0605/cinematic-video-prompt-engineer-skill) - 将情节摘要转换成电影AI视频提示的Codex技能,它诊断故事,情感,结构,镜头设计,微表情,声音,参考图像提示,以及续作...... <sub>⭐ 124</sub>
+- [sidhantabarik37/StrawVerse-Orbit](https://github.com/sidhantabarik37/StrawVerse-Orbit) - StrawVerse AI:下一部Gen 交互式小说引擎 2026 <sub>⭐ 115 · HTML</sub>
+- [Lanerra/saga](https://github.com/Lanerra/saga) - 自主的,代理的,创造性的故事写作系统,其中包含了存储的嵌入和知识图. <sub>⭐ 113 · Python</sub>
+- [Picrew/awesome-llm-story-generation](https://github.com/Picrew/awesome-llm-story-generation) - LLM论文和开源项目目录,用于故事,小说,和剧本的生成. <sub>⭐ 112</sub>
+- [TaylliSun/worldcraft-codex](https://github.com/TaylliSun/worldcraft-codex) - 一个本地首个桌面工作空间,用于世界建设,游戏叙事,探求,地图,关系,小说,剧本,以及AI辅助的写作. <sub>⭐ 104 · JavaScript</sub>
+- [thu-coai/CommonsenseStoryGen](https://github.com/thu-coai/CommonsenseStoryGen) - 论文"常识故事生成知识强化预训模式"实施. <sub>⭐ 102 · Python</sub>
+- [MangoLion/plotbunni](https://github.com/MangoLion/plotbunni) - FOSS 小说写作套件与AI协助 <sub>⭐ 101 · JavaScript</sub>
+- [hassancs91/claude-image-generation](https://github.com/hassancs91/claude-image-generation) - 用代理技能连接克劳德到图像生成. 三级: 一个零成本的基于代码的设计引擎, 一个Tree.js 3D渲染器, 以及 Cloudflare 上的一个真正的传播模型。 加上 AI Storybook... <sub>⭐ 98 · HTML</sub>
+- [teangtang1122/siming-ai](https://github.com/teangtang1122/siming-ai) - 本地小说用包装的Windows发射器写AI工作空间. <sub>⭐ 94 · Python</sub>
+- [facebookresearch/doc-storygen-v2](https://github.com/facebookresearch/doc-storygen-v2) - LLM故事生成的代码库; https//github.com/yangkevin2/doc-sory-generation的更新版本 <sub>⭐ 93 · Python</sub>
+- [blackzhanzhan/novel_agent](https://github.com/blackzhanzhan/novel_agent) - Git-native AI 小说写作工作 与 Dify 代理 <sub>⭐ 90 · Python</sub>
+- [Ergosign/storybook-addon-pseudo-states](https://github.com/Ergosign/storybook-addon-pseudo-states) - 故事集加载,可以自动生成和显示组件的CSS伪态. <sub>⭐ 79 · TypeScript</sub>
+- [abisee/story-generation-eval](https://github.com/abisee/story-generation-eval) - 论文的代码"做大规模预训语言模型 使更好的故事讲解者?" <sub>⭐ 75 · Jupyter Notebook</sub>
+- [adithya-s-k/Storyblocks](https://github.com/adithya-s-k/Storyblocks) - 体验故事块的魔力:一个将AI文本生成和图像合成合并的开源项目,以创建吸引视频叙事。 注意你的文本提示与... <sub>⭐ 72 · Jupyter Notebook</sub>
+- [zxerai/novelix](https://github.com/zxerai/novelix) - 小说——自主小说写AI代理. Sudio Web workbench, TUI,和CLI的10 Agent profile用于虚构写作. <sub>⭐ 71 · TypeScript</sub>
+- [bybren-llc/story-systems-template](https://github.com/bybren-llc/story-systems-template) - 用于剧本,小说和电影制作的创意项目模板. Multi-AI cape with 上游同步. <sub>⭐ 68 · JavaScript</sub>
+- [HenryZ838978/Seedance2.0-Storyboard-Planner](https://github.com/HenryZ838978/Seedance2.0-Storyboard-Planner) - 能力层拉带:故事板规划,使AI视频生成它自己无法持有的镜头结构(Vue3 + FastAPI). <sub>⭐ 65 · Vue</sub>
+- [junjiehe96/AnyStory](https://github.com/junjiehe96/AnyStory) - AnyStory:在文本到图像生成中实现单一和多个主题的统一个性化 <sub>⭐ 64 · Python</sub>
+- [wanshuiyin/ARIS-Movie-Director](https://github.com/wanshuiyin/ARIS-Movie-Director) - 代理,长视代:模糊的故事_跨模型审计的影像电影. 将ARIS的研究-wiki+多代理辩论带到多式联运代(Intelligence live in the... <sub>⭐ 64 · Python</sub>
+- [lancopku/Skeleton-Based-Generation-Model](https://github.com/lancopku/Skeleton-Based-Generation-Model) - "在叙事故事生成中促进判决一致性的基于Skeleton的模型"(EMNLP 2018)的代码. <sub>⭐ 62 · Python</sub>
+- [muzishen/RCDMs](https://github.com/muzishen/RCDMs) - (AAAI 2025) 刚果民盟运动:用丰富的文字条件扩散模型促进故事视觉的一致性.刚果民盟运动以强烈的语义和时间一致性改进故事的生成...... <sub>⭐ 62 · Python</sub>
+- [Rain-31/novelbox](https://github.com/Rain-31/novelbox) - 在AI协助下的专业小说写作应用程序,章节管理,以及智能写作功能 <sub>⭐ 62 · Vue</sub>
+- [smthemex/ComfyUI_JoyAI_Echo](https://github.com/smthemex/ComfyUI_JoyAI_Echo) - 推进长视频世代的前沿独立化,推论仅发布,用于微量多镜头音频视频生成,并配有蒸馏DMD生成器,对齐跨模式内存,以及. <sub>⭐ 57 · Python</sub>
+- [62656456/ai-film-skills](https://github.com/62656456/ai-film-skills) - Open Film Swills:21个独立模块,用于故事,导演,视觉资产和AI-film制作,设有研究画廊和可播放的3D预告片. <sub>⭐ 56 · Python</sub>
+- [ackness/covel](https://github.com/ackness/covel) - (Agentic AI-RPG)代理AI角色扮演游戏框架——叙述,NPC,lore,和字符创建都是自主插件代理. 构建与DeepSeek/OpenAI/Anthropic/的交互式虚构. <sub>⭐ 53 · TypeScript</sub>
+- [wassermanproductions/scriptbreak](https://github.com/wassermanproductions/scriptbreak) - 剧本分解 & AI 即时包装工作室——导入脚本,获得场景,元素,圣经,镜头列表和时间表,然后导出任何LLM和任何视频/图像的自启动即时包. . <sub>⭐ 53 · HTML</sub>
+- [takuma-ru/auto-story-generator](https://github.com/takuma-ru/auto-story-generator) - 从 React 、 Vue 和 Lit 组件文件自动生成故事文件 <sub>⭐ 51 · TypeScript</sub>
+- [GAIR-NLP/MoPS](https://github.com/GAIR-NLP/MoPS) - (ACL 2024)"MoPS:模块化故事精密合成,用于开放式自动故事生成"的代码. <sub>⭐ 47 · Jupyter Notebook</sub>
+- [basiclab/CPCStoryVisualization-Pytorch](https://github.com/basiclab/CPCStoryVisualization-Pytorch) - 字符-保留一致的故事可视化,ECCV2020 <sub>⭐ 42 · Python</sub>
+- [calclavia/story-generation](https://github.com/calclavia/story-generation) - 通过定向共同感知定位来改进神经故事生成的代码 <sub>⭐ 42 · Python</sub>
+- [dojoteef/storium-gpt2](https://github.com/dojoteef/storium-gpt2) - 在EMNLP 2020年论文"STORIUM:环球故事生成人数据集与评价平台"中GPT-2故事生成模型的源代码. <sub>⭐ 40 · Python</sub>
+- [tjusenchen/StoryDroid](https://github.com/tjusenchen/StoryDroid) - Android Apps 的自动故事板生成 <sub>⭐ 37 · Python</sub>
+- [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements) - 用于构建创意的Twitterbot的追寻语法,包含故事讲解的基因语法,比喻代词,讽刺式推倒语法,特朗普主义,短诗等. <sub>⭐ 36</sub>
+- [Sri01729/template-ai-storyboard-consistent-character](https://github.com/Sri01729/template-ai-storyboard-consistent-character) - 与马斯特拉共同构建的AI动力故事板综合生成系统,它创建了视觉故事板,在所有场景中具有一致的角色外观. 特徵多代理架构...... <sub>⭐ 36 · TypeScript</sub>
+- [easyeye163/vimax-agnes](https://github.com/easyeye163/vimax-agnes) - 代理视频生成完全由艾格尼丝AI. Idea → Story → Script → Images → Video. Free & 无限电源. <sub>⭐ 34 · Python</sub>
+- [bei666qi-pan/VerseCraft](https://github.com/bei666qi-pan/VerseCraft) - AI动力互动小说引擎:玩家写动作,一个活生生的故事世界解决后果. <sub>⭐ 33 · TypeScript</sub>
+- [jblemee/bmad-book-builder](https://github.com/jblemee/bmad-book-builder) - AI-Assisted小说开发系统 - BMAD模块,用于写作小说,拥有8个专业代理和17个工作流程. <sub>⭐ 33</sub>
+- [seraphinatarrant/plan-write-revise](https://github.com/seraphinatarrant/plan-write-revise) - Plan, Write, and Revolution的网络演示代码:交互式开放域故事生成的神经系统 <sub>⭐ 33 · Python</sub>
+- [WorkInTheDark/FairytaleQA_QAG_System](https://github.com/WorkInTheDark/FairytaleQA_QAG_System) - 官方文献库 "这是AI的转折 问人类一个问题:问题-答对一代 儿童故事书"被ACL2022接受 <sub>⭐ 32 · Python</sub>
+- [breakstring/Agentic_Story_Book_Workflow](https://github.com/breakstring/Agentic_Story_Book_Workflow) - 故事书生成的代理工作流程 <sub>⭐ 31 · Python</sub>
+- [IllgamhoDuck/ko_novel_generator](https://github.com/IllgamhoDuck/ko_novel_generator) - 深层学习模式写韩国小说/在AI活动上元,2019年 仅建模,由BackendAI & Nvidia主持 <sub>⭐ 29 · Python</sub>
+- [raphaotten/claude-interview-coach](https://github.com/raphaotten/claude-interview-coach) - 个性化的CV世代和适应性化的面试指导。学习你的故事,跟踪你的进展。你只需要克劳德代码。 <sub>⭐ 29 · Python</sub>
+- [lechmazur/writing_styles](https://github.com/lechmazur/writing_styles) - 记录短篇创意写作LLM基准的风格方面:我们用一系列LLMS生成了许多短篇故事,然后分析这些故事以获得风格指纹和. <sub>⭐ 27</sub>
+- [ShadowLoveElysia/ElyHa](https://github.com/ShadowLoveElysia/ElyHa) - AI动力视觉小说写作室与多代理合作,节点图案,分机,以及人行编辑. Built with Tauri + ReactFlow. XQ <sub>⭐ 27 · Python</sub>
+- [lara-martin/ASTER](https://github.com/lara-martin/ASTER) - AAAI 2018年论文"用深神经网进行自动化故事生成的Eventations for Automotive Story Crowth with Deep Neural Nets"中的用事件表示(ASTER)进行自动故事讲述. <sub>⭐ 25 · Python</sub>
+- [adaumann/speckit-preset-fiction-book-writing](https://github.com/adaumann/speckit-preset-fiction-book-writing) - 虚构-书写预设为AI GitHub Spec Kit. 可叠装,优先排序的模板集和命令覆盖为Spec Kit编写复杂小说书籍(单POV和多... <sub>⭐ 24 · Python</sub>
+- [JianGuanTHU/CommonsenseStoryGen](https://github.com/JianGuanTHU/CommonsenseStoryGen) - 论文"常识故事生成知识强化预训模式"实施. <sub>⭐ 24 · Python</sub>
+- [leemjnnkdzuy/auto-voice-over-tool](https://github.com/leemjnnkdzuy/auto-voice-over-tool) - AI动力工具箱用于创建漫画,漫威,网络音标等叙事视频,以及使用AI脚本生成,文字对语音,字幕,自动视频渲染等图像故事. <sub>⭐ 24 · TypeScript</sub>
+- [that-one-arab/gpt-interactive-novel](https://github.com/that-one-arab/gpt-interactive-novel) - 使用 GPT 的自定义交互式小说。 可以从终端直接播放 ! <sub>⭐ 24 · Python</sub>
+- [geobond13/fiction-forge](https://github.com/geobond13/fiction-forge) - Prose图案扫描器+MCP上下文服务器用于编辑AI辅助小说. Detective 24 AI写指纹. Battle - tested on 286k words. <sub>⭐ 23 · Python</sub>
+- [techinAI/DeepLearning.AI](https://github.com/techinAI/DeepLearning.AI) - 在五个课程中,你会学习深层学习的基础,了解如何建立神经网络,并学习如何领导成功的机器学习项目。你会学习... <sub>⭐ 22</sub>
 
 ## 📣 Copywriting 与营销
 
 > 销售文案、邮件、广告和社交媒体文本。
 
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. <sub>⭐ 52.4k · JavaScript</sub>
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code. <sub>⭐ 4.3k · JavaScript</sub>
-- [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. <sub>⭐ 1.2k · Python</sub>
-- [LeoYeAI/openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) - 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai <sub>⭐ 1.0k</sub>
-- [ALBEDO-TABAI/video-copy-analyzer](https://github.com/ALBEDO-TABAI/video-copy-analyzer) - Video Copy Analyzer - AI-powered video transcription and copywriting analysis skill <sub>⭐ 209 · Python</sub>
-- [Cesarjoquin/Marketing-Skills](https://github.com/Cesarjoquin/Marketing-Skills) - AI agent Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, ai agent, and growth engineering, ai agent <sub>⭐ 196 · TypeScript</sub>
-- [bilalnawaz072/AI-Prompts-200-Ideas](https://github.com/bilalnawaz072/AI-Prompts-200-Ideas) - Here is over 200 AI prompts that covers Blog Writing, Email Marketing , YouTube Ad Scripts, Facebook Ad,YouTube Video Ideas,Twitter Thread ,Cold DM Ideas,Influencer Marketing and Copywriting and… <sub>⭐ 126</sub>
-- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusable workflows for Claude Code and Codex, plus code review, app delivery, and… <sub>⭐ 126 · JavaScript</sub>
-- [oguzhankayan/turkish-native](https://github.com/oguzhankayan/turkish-native) - Agent skill for writing native Turkish and removing translationese from AI and localized copy. <sub>⭐ 88 · Python</sub>
-- [superamped/ai-marketing-skills](https://github.com/superamped/ai-marketing-skills) - Open-source AI marketing skills for coding agents like Claude Code, Cursor, and Codex. Do SEO, copywriting, competitor research, ad campaigns, marketing strategy, and more. <sub>⭐ 72 · Python</sub>
-- [Danielopol/Claude-Code-Playbooks](https://github.com/Danielopol/Claude-Code-Playbooks) - Free, open-source library of 1,179+ copy-paste CLAUDE.md playbooks for Claude Code — covering finance, marketing, dev tools, legal, HR, and more. <sub>⭐ 63 · MDX</sub>
-- [rodaddy/ai-marketing-panel](https://github.com/rodaddy/ai-marketing-panel) - Synthetic customer panel: test marketing copy against a calibrated panel of AI personas before it ships. MIT. <sub>⭐ 53 · TypeScript</sub>
-- [Ronald106/Surviv.io](https://github.com/Ronald106/Surviv.io) - surviv.io - 2d battle royale game window.adsBlocked = false; window.adBlockDetected = function() { window.adsBlocked = true; } window.alert = function() { } /* Cookie consent */ var cfg = {}; var… <sub>⭐ 53</sub>
-- [best-of-ai/awesome-ai-copyrighting](https://github.com/best-of-ai/awesome-ai-copyrighting) - A curated list of AI tools, libraries, prompts, and resources for high-quality, automated copywriting. Covers blog posts, ad copy, product descriptions, email marketing, and more. <sub>⭐ 51</sub>
-- [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) - An AI prompt-skill that turns 20 cognitive biases into high-converting marketing copy. Includes playbooks for ads, landing pages, email sequences, social posts, webinars, and product launches.… <sub>⭐ 49</sub>
-- [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) - HEDGEHOG codes Cleaner, Faster and with Fewer Tokens. Hedgehog's AI-driven development builds a task dependency graph from your spec-driven, BMAD-METHOD plan, so Claude Code, Cursor & Gemini CLI stay… <sub>⭐ 43 · JavaScript</sub>
-- [rediumvex/ai-marketing-claude](https://github.com/rediumvex/ai-marketing-claude) - Marketing operations toolkit for Claude Code — 12 skills, 5 specialist subagents, and Python scripts for audits, CRO, SEO, copy, emails, ads, and client reports. <sub>⭐ 39 · Python</sub>
-- [onatvural/claude-code-ask-gemini](https://github.com/onatvural/claude-code-ask-gemini) - A Claude Code slash command that delegates prompts to Google Gemini — ideal for non-English copywriting where Gemini's tokenizer outperforms Claude's. <sub>⭐ 33</sub>
-- [peaberry-studio/arche](https://github.com/peaberry-studio/arche) - Arche is an AI agent platform that lets teams deploy specialized assistants — for support, copywriting, SEO, marketing, and more — each with access to a shared knowledge base and its own isolated… <sub>⭐ 27 · TypeScript</sub>
-- [eralpozcan/storeshots](https://github.com/eralpozcan/storeshots) - Generate professional App Store & Google Play screenshots with AI-powered copywriting, device mockups, drag & drop ordering, and one-click export. Built with Nuxt 4. <sub>⭐ 24 · Vue</sub>
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Claude Code和AI代理商的营销技能,CRO,抄写,SEO,分析,以及生长工程. <sub>⭐ 52.4k · JavaScript</sub>
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - AI编码代理过滤通用AI生成的UI设计,文本和代码的规则. <sub>⭐ 4.3k · JavaScript</sub>
+- [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) - 一个使用真实抄写技能的AI抄写机+真实的具有人类语气的营销知识. <sub>⭐ 1.2k · Python</sub>
+- [LeoYeAI/openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) - OpenClaw代理商33个经战斗测试的营销技能——由MyClaw公司提供动力.ai <sub>⭐ 1.0k</sub>
+- [ALBEDO-TABAI/video-copy-analyzer](https://github.com/ALBEDO-TABAI/video-copy-analyzer) - 视频复制分析器 - 人工智能的视频复制和复制分析技能 <sub>⭐ 209 · Python</sub>
+- [Cesarjoquin/Marketing-Skills](https://github.com/Cesarjoquin/Marketing-Skills) - AI代理Claude Code和AI代理的营销技能. CRO,抄写,SIO,分析,AI代理,以及生长工程,AI代理 <sub>⭐ 196 · TypeScript</sub>
+- [bilalnawaz072/AI-Prompts-200-Ideas](https://github.com/bilalnawaz072/AI-Prompts-200-Ideas) - 包括博客写作、电子邮件营销、YouTube Ad Scripts、Facebook Ad、YouTube视频创意、Twitter Thread、Cold DM创意、影响者营销和复制以及... <sub>⭐ 126</sub>
+- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - SEO的开源AI技能,AI搜索可见度,转换复制,营销策略,以及业务操作. Claude Code和Codex的可重复使用的工作流程,加上代码审查,应用程序交付,以及. <sub>⭐ 126 · JavaScript</sub>
+- [oguzhankayan/turkish-native](https://github.com/oguzhankayan/turkish-native) - 代理技能,写土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语土语… <sub>⭐ 88 · Python</sub>
+- [superamped/ai-marketing-skills](https://github.com/superamped/ai-marketing-skills) - Claude Code,Cursor,Codex等编码代理商的开源AI营销技能. Do SIO,抄写,竞争者研究,广告宣传,营销策略等等. <sub>⭐ 72 · Python</sub>
+- [Danielopol/Claude-Code-Playbooks](https://github.com/Danielopol/Claude-Code-Playbooks) - 免费开放源代码库 1,179+复制版的CLAUDE.md游戏本为克劳德密码——涵盖金融,营销,dev工具,法律,HR等. <sub>⭐ 63 · MDX</sub>
+- [rodaddy/ai-marketing-panel](https://github.com/rodaddy/ai-marketing-panel) - 合成客户面板:测试营销拷贝,测试其上船前的AI人物面板. MIT. <sub>⭐ 53 · TypeScript</sub>
+- [Ronald106/Surviv.io](https://github.com/Ronald106/Surviv.io) - surviv.io - 2d战斗王牌游戏窗口.adsBlocked = false; window.adsBlockd =函数 (){窗口.adsBlocke= true;}窗口.alert =函数 (){}/* Cookie 同意 */ var cfg = ; var... <sub>⭐ 53</sub>
+- [best-of-ai/awesome-ai-copyrighting](https://github.com/best-of-ai/awesome-ai-copyrighting) - 包括AI工具、库、提示以及高质量、自动复制资源。 <sub>⭐ 51</sub>
+- [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) - AI的即时技能将20种认知偏差转化为高翻版的营销副本。 包括广告、登陆页、电子邮件序列、社交帖子、网络研讨会和产品发布等游戏本. <sub>⭐ 49</sub>
+- [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) - HEDGEHOG代码更清洁,更快,且与更少的托肯. Hedichog的AI驱动开发从您的Spec驱动的BMAD-METHOD计划中构建了任务依赖图,因此Claude Code, Cursor & Gemini CLI 保留. <sub>⭐ 43 · JavaScript</sub>
+- [rediumvex/ai-marketing-claude](https://github.com/rediumvex/ai-marketing-claude) - Claude Code的营销业务工具包——12个技能,5个专业副代理,以及用于审计的Python脚本,CRO,SEO,副本,电子邮件,广告和客户报告. <sub>⭐ 39 · Python</sub>
+- [onatvural/claude-code-ask-gemini](https://github.com/onatvural/claude-code-ask-gemini) - 一个克劳德代码斜线命令,代表们提示给谷歌双子座——理想的是,在双子座的标致器超过克劳德的状态下,非英语复制写作. <sub>⭐ 33</sub>
+- [peaberry-studio/arche](https://github.com/peaberry-studio/arche) - Arche是一个AI代理平台,让团队部署专业助理——用于支持,抄写,SEO,市场营销,以及更多——每个都能够访问共享的知识库和自己的孤立. . <sub>⭐ 27 · TypeScript</sub>
+- [eralpozcan/storeshots](https://github.com/eralpozcan/storeshots) - 生成专业的 App Store & Google Play 截图,并带有AI 驱动的复制写、设备模型、拖放命令和一击导出。 以 Nuxt 4 构建 。 <sub>⭐ 24 · Vue</sub>
 
 ## 🌍 翻译、摘要与研究
 
 > 翻译、摘要、文本润色和研究辅助。
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI… <sub>⭐ 37.6k · Python</sub>
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - 您的人工智能第二脑, 可以自我接受。 从网络或文档中获取答案 。 构建自定义代理, 调度自动化, 做深入的研究 。 将任何在线或本地的 LLM 转换为您个人的、 自主的 人工智能... <sub>⭐ 37.6k · Python</sub>
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - 用于代理,助手和企业搜索的私人AI平台. Build-in Agent Builder, Deep Research, Document analysis, 多模式支持,以及代理的API连接. <sub>⭐ 18.3k · Python</sub>
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking… <sub>⭐ 15.3k · Python</sub>
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - 自动组织 Obsidian + Claude 代码的 AI 第二脑。 放下任何源头, Claude 读取、链接和归档到您拥有的 Plain Markdown 的连接知识图中。 AI 注意... <sub>⭐ 15.3k · Python</sub>
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - 一个Python库,用于跨表格,时间序列,图表,文本,图像,和音频数据的异常检测. 60+探测器,基准支撑的ADEngine编曲,以及AI代理的代理工作流程. <sub>⭐ 10.0k · Python</sub>
-- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust. <sub>⭐ 5.7k · Rust</sub>
-- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more! <sub>⭐ 4.3k · C#</sub>
-- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another. <sub>⭐ 4.2k · TypeScript</sub>
-- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages. <sub>⭐ 3.7k · Python</sub>
-- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs <sub>⭐ 3.1k · Python</sub>
-- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc). <sub>⭐ 3.0k · Python</sub>
-- [hydropix/TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) - Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits. <sub>⭐ 2.5k · Python</sub>
-- [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? / 关于 Ai 绘画的Wiki / Wiki about Ai painting / Prompts Engineering/ 指南 Guide / Seeking Maintainer&Translator <sub>⭐ 2.0k · HTML</sub>
-- [MojoJolo/textteaser](https://github.com/MojoJolo/textteaser) - TextTeaser is an automatic summarization algorithm. <sub>⭐ 2.0k · Scala</sub>
-- [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - "Your Fully-Automated Personal AI Assistant" <sub>⭐ 1.7k · Python</sub>
-- [dipanjanS/text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python) - Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text… <sub>⭐ 1.7k · Jupyter Notebook</sub>
-- [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔ Translate subtitle using LLM <sub>⭐ 1.7k · TypeScript</sub>
-- [lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets. <sub>⭐ 1.5k</sub>
-- [dmmiller612/bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer) - Easy to use extractive text summarization with BERT <sub>⭐ 1.5k · Python</sub>
-- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) +… <sub>⭐ 1.4k · TypeScript</sub>
-- [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA… <sub>⭐ 1.3k · JavaScript</sub>
-- [icoxfog417/awesome-text-summarization](https://github.com/icoxfog417/awesome-text-summarization) - The guide to tackle with the Text Summarization <sub>⭐ 1.3k</sub>
-- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes. <sub>⭐ 1.3k · TypeScript</sub>
-- [summanlp/textrank](https://github.com/summanlp/textrank) - TextRank implementation for Python 3. <sub>⭐ 1.3k · Python</sub>
-- [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) - GenAI powered multi-agentic medical diagnostics and healthcare research assistance chatbot. Designed for healthcare professionals, researchers and patients. <sub>⭐ 981 · Python</sub>
-- [PrithivirajDamodaran/Parrot_Paraphraser](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - A practical and feature-rich paraphrasing framework to augment human intents in text form to build robust NLU models for conversational engines. Created by Prithiviraj Damodaran. Open to pull… <sub>⭐ 921 · Python</sub>
-- [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000) <sub>⭐ 868 · TypeScript</sub>
-- [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language… <sub>⭐ 856 · Python</sub>
-- [SociallyIneptWeeb/LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI) - Your Personal Multilingual AI Translator <sub>⭐ 840 · Jupyter Notebook</sub>
-- [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) - Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours. <sub>⭐ 829 · Python</sub>
-- [davidadamojr/TextRank](https://github.com/davidadamojr/TextRank) - Python implementation of TextRank algorithm for automatic keyword extraction and summarization using Levenshtein distance as relation between text units. This project is based on the paper "TextRank… <sub>⭐ 798 · Python</sub>
-- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) - ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security… <sub>⭐ 669 · Python</sub>
-- [20000419/fauxnix](https://github.com/20000419/fauxnix) - Run Linux-style commands on Windows via deterministic bash→PowerShell translation. No VM, no WSL. MCP server + CLI built for AI agents (Claude Code, Codex, OpenCode...). GNU-style output, bash-style… <sub>⭐ 667 · TypeScript</sub>
-- [infiolab/infio-copilot](https://github.com/infiolab/infio-copilot) - A Cursor-inspired AI assistant for Obsidian that offers smart autocomplete and interactive chat with your selected notes <sub>⭐ 660 · TypeScript</sub>
-- [thanhkeke97/RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - Real-time Game Translation Tool / OCR + AI Translation / Windows Gaming / Open Source <sub>⭐ 660 · C#</sub>
-- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian <sub>⭐ 659 · TypeScript</sub>
-- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to transcribe and translate subtitles (SRT, SSA/ASS, VTT) <sub>⭐ 657 · Python</sub>
-- [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with LLM. <sub>⭐ 639 · Python</sub>
-- [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator) - Turn PDFs and EPUBs into audiobooks; subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, including voice-cloning (instant, RVC-enhanced… <sub>⭐ 630 · Python</sub>
-- [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization. <sub>⭐ 626 · Python</sub>
-- [docsagent/docsagent](https://github.com/docsagent/docsagent) - DocsAgent — give your AI agents instant, private access to your personal knowledge base (Zotero, Obsidian, Apple Notes supported now, local docs on the road). Native C++ search core: BM25 + passage… <sub>⭐ 625 · TypeScript</sub>
-- [cognitivetech/ollama-ebook-summary](https://github.com/cognitivetech/ollama-ebook-summary) - LLM for Long Text Summary (Comprehensive Bulleted Notes) <sub>⭐ 624 · Python</sub>
-- [mololab/json-translator](https://github.com/mololab/json-translator) - jsontt - AI JSON Translator with GPT / Gemma / Mixtral / llama + other FREE translation modules to translate your json/yaml files into other languages Check Readme Supports GPT / Gemma / Mixtral /… <sub>⭐ 613 · TypeScript</sub>
-- [fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA) - State-of-the-art LLM-based translation models. <sub>⭐ 592 · Ruby</sub>
-- [mx-space/core](https://github.com/mx-space/core) - AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows. <sub>⭐ 564 · TypeScript</sub>
-- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured… <sub>⭐ 561 · Python</sub>
-- [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing. <sub>⭐ 556 · Python</sub>
-- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI, and more for Obsidian. <sub>⭐ 532 · TypeScript</sub>
-- [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI) - CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and… <sub>⭐ 529 · Jupyter Notebook</sub>
-- [harshaneel/humanize](https://github.com/harshaneel/humanize) - Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature. <sub>⭐ 511 · HTML</sub>
-- [llSourcell/How_to_make_a_text_summarizer](https://github.com/llSourcell/How_to_make_a_text_summarizer) - This is the code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube <sub>⭐ 496 · Jupyter Notebook</sub>
-- [YuchuanTian/AIGC_text_detector](https://github.com/YuchuanTian/AIGC_text_detector) - (ICLR'24 Spotlight) The official codes of our work on AIGC detection: "Multiscale Positive-Unlabeled Detection of AI-Generated Texts" <sub>⭐ 472 · Python</sub>
-- [SamirPaulb/real-time-voice-translator](https://github.com/SamirPaulb/real-time-voice-translator) - A desktop application that uses AI to translate voice between languages in real time, while preserving the speaker's tone and emotion. <sub>⭐ 440 · Tcl</sub>
-- [project-codeguard/rules](https://github.com/project-codeguard/rules) - Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules… <sub>⭐ 424 · Python</sub>
-- [vsuthichai/paraphraser](https://github.com/vsuthichai/paraphraser) - Sentence paraphrase generation at the sentence level <sub>⭐ 407 · Python</sub>
-- [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Token efficient translation tool based on ChatGPT or any OpenAI compatible LLM chat completion API <sub>⭐ 390 · JavaScript</sub>
-- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface. <sub>⭐ 359 · TypeScript</sub>
-- [lorniu/gt.el](https://github.com/lorniu/gt.el) - Translator on Emacs. Support multiple engines such as Google, Bing, deepL, StarDict and Youdao, also support LLMs like ChatGPT, DeepSeek and so on. <sub>⭐ 358 · Emacs Lisp</sub>
-- [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate) - A Multilingual Translation Model Family <sub>⭐ 357 · Python</sub>
-- [MaKTaiL/gemini-srt-translator](https://github.com/MaKTaiL/gemini-srt-translator) - Python tool for translating subtitles using Google Gemini AI <sub>⭐ 357 · Python</sub>
-- [iansinnott/obsidian-claude-code-mcp](https://github.com/iansinnott/obsidian-claude-code-mcp) - Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP) <sub>⭐ 355 · TypeScript</sub>
-- [friendmine/llm-course-chn](https://github.com/friendmine/llm-course-chn) - chinese translation of llm-course <sub>⭐ 353 · Jupyter Notebook</sub>
-- [nerdai/llms-from-scratch-rs](https://github.com/nerdai/llms-from-scratch-rs) - A comprehensive Rust translation of the code from Sebastian Raschka's Build an LLM from Scratch book. <sub>⭐ 336 · Rust</sub>
-- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - A hands-free mini walkie-talkie powered by embedded AI, featuring automatic voice detection, keyword-triggered animations, and real-time speech-to-text display. <sub>⭐ 336 · C</sub>
-- [meangrinch/MangaTranslator](https://github.com/meangrinch/MangaTranslator) - Manga translation app powered by AI <sub>⭐ 334 · Python</sub>
-- [Sharrnah/whispering-ui](https://github.com/Sharrnah/whispering-ui) - Native UI for the Whispering Tiger project - https://github.com/Sharrnah/whispering (live transcription / translation) <sub>⭐ 329 · Go</sub>
-- [rohithreddy024/Text-Summarizer-Pytorch](https://github.com/rohithreddy024/Text-Summarizer-Pytorch) - Pytorch implementation of "A Deep Reinforced Model for Abstractive Summarization" paper and pointer generator network <sub>⭐ 321 · Python</sub>
-- [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes <sub>⭐ 320 · Python</sub>
-- [Vamsi995/Paraphrase-Generator](https://github.com/Vamsi995/Paraphrase-Generator) - A paraphrase generator built using the T5 model which produces paraphrased English sentences. <sub>⭐ 320 · Jupyter Notebook</sub>
-- [Aspirin0000/zhouli-translator](https://github.com/Aspirin0000/zhouli-translator) - 合乎周礼：DeepSeek-powered Zhouli-style Chinese translator, web app, and distributable Skill package. <sub>⭐ 319 · TypeScript</sub>
-- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB. <sub>⭐ 312 · Python</sub>
-- [YANG-Haruka/LinguaHaru](https://github.com/YANG-Haruka/LinguaHaru) - Next-Gen AI Translation Tool Powered by LLM. Support Office documents, PDF, TXT, and more format with just one click. <sub>⭐ 293 · Python</sub>
-- [nanoAgentTeam/research-claw](https://github.com/nanoAgentTeam/research-claw) - A self-hosted AI assistant for academic research — manages your papers, searches literature, tracks deadlines, and answers you on the channels you already use. <sub>⭐ 292 · Python</sub>
-- [Yale-LILY/SummerTime](https://github.com/Yale-LILY/SummerTime) - An open-source text summarization toolkit for non-experts. EMNLP'2021 Demo <sub>⭐ 282 · Python</sub>
-- [johnfkoo951/cmds-system-files](https://github.com/johnfkoo951/cmds-system-files) - Knowledge architecture for a 10,000-note Obsidian vault — 5 system files + 7 shared rules + 8 slash commands, shared openly with humans and AI agents. Live: https://system.cmdspace.work <sub>⭐ 274 · HTML</sub>
-- [kytmanov/synto](https://github.com/kytmanov/synto) - More than just Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours. <sub>⭐ 259 · Python</sub>
-- [Qetesh/miniflux-ai](https://github.com/Qetesh/miniflux-ai) - Miniflux with AI. Add AI summaries, translations, and AI news based on RSS content <sub>⭐ 257 · Python</sub>
-- [abelriboulot/onnxt5](https://github.com/abelriboulot/onnxt5) - Summarization, translation, sentiment-analysis, text-generation and more at blazing speed using a T5 version implemented in ONNX. <sub>⭐ 255 · Python</sub>
-- [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) - High quality automatic translate your language files into many languages using AI like Claude, GPT and etc. <sub>⭐ 250 · PHP</sub>
-- [DavidBelicza/PHP-Science-TextRank](https://github.com/DavidBelicza/PHP-Science-TextRank) - TextRank (resource-efficient and low-cost automatic text summarisation) for PHP <sub>⭐ 245 · PHP</sub>
-- [Imalwayshere/Open-Detector](https://github.com/Imalwayshere/Open-Detector) - BERT-based AI-generated academic text detection model <sub>⭐ 244 · Python</sub>
-- [praetorian-inc/julius](https://github.com/praetorian-inc/julius) - Simple LLM service identification - translate IP:Port to Ollama, vLLM, LiteLLM, or 60+ other AI services in seconds <sub>⭐ 243 · Go</sub>
-- [neopunisher/Open-Text-Summarizer](https://github.com/neopunisher/Open-Text-Summarizer) - Automatic text summarization <sub>⭐ 242 · Shell</sub>
-- [clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) - AI-powered journaling plugin for your Obsidian notes, inspired by cognitive behavioral therapy <sub>⭐ 240 · TypeScript</sub>
-- [iTzArshia/GPT-Discord-Bot](https://github.com/iTzArshia/GPT-Discord-Bot) - Example Discord Bot written in JavaScript that uses OpenAIs models such as ,GPT 4, GPT-3.5-Turbo, Dall-E, and Text-Moderation-Stable with many features such as ChatGPT-Style Conversation… <sub>⭐ 236 · JavaScript</sub>
-- [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos. <sub>⭐ 234 · Python</sub>
-- [ikergarcia1996/Easy-Translate](https://github.com/ikergarcia1996/Easy-Translate) - Easy-Translate is a script for translating large text files with a SINGLE COMMAND. Easy-Translate is designed to be as easy as possible for beginners and as seamlesscustomizable and as possible for… <sub>⭐ 231 · Python</sub>
-- [Currie32/Text-Summarization-with-Amazon-Reviews](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews) - A seq2seq model that can generate summaries from fine food reviews on Amazon. <sub>⭐ 230 · HTML</sub>
-- [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair) <sub>⭐ 230 · Python</sub>
-- [chriskonnertz/DeepLy](https://github.com/chriskonnertz/DeepLy) - PHP client for the DeepL.com translation API (unofficial) <sub>⭐ 229 · PHP</sub>
-- [dannymcc/Granola-to-Obsidian](https://github.com/dannymcc/Granola-to-Obsidian) - An Obsidian plugin to automatically sync notes from Granola AI <sub>⭐ 228 · JavaScript</sub>
-- [wasiahmad/paraphrase_identification](https://github.com/wasiahmad/paraphrase_identification) - Examine two sentences and determine whether they have the same meaning. <sub>⭐ 224 · HTML</sub>
-- [kavgan/ROUGE-2.0](https://github.com/kavgan/ROUGE-2.0) - ROUGE automatic summarization evaluation toolkit. Support for ROUGE-(N, L, S, SU), stemming and stopwords in different languages, unicode text evaluation, CSV output. <sub>⭐ 222 · Java</sub>
-- [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian… <sub>⭐ 222 · TypeScript</sub>
-- [Valdecy/pybibx](https://github.com/Valdecy/pybibx) - A Bibliometric and Scientometric Python Library Powered with Artificial Intelligence Tools <sub>⭐ 221 · Python</sub>
-- [liamdugan/raid](https://github.com/liamdugan/raid) - RAID is the largest and most challenging benchmark for AI-generated text detection. (ACL 2024) <sub>⭐ 217 · Python</sub>
-- [aravindpai/How-to-build-own-text-summarizer-using-deep-learning](https://github.com/aravindpai/How-to-build-own-text-summarizer-using-deep-learning) - In this notebook, we will build an abstractive based text summarizer using deep learning from the scratch in python using keras <sub>⭐ 208 · Jupyter Notebook</sub>
-- [jparkerweb/pixel-banner](https://github.com/jparkerweb/pixel-banner) - Enhance your Obsidian notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that… <sub>⭐ 208 · JavaScript</sub>
-- [martiansideofthemoon/ai-detection-paraphrases](https://github.com/martiansideofthemoon/ai-detection-paraphrases) - Official repository for our NeurIPS 2023 paper "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense" (https://arxiv.org/abs/2303.13408). <sub>⭐ 205 · Python</sub>
-- [LibreTranslate/LTEngine](https://github.com/LibreTranslate/LTEngine) - Local AI Machine Translation. Powered by LLMs. LibreTranslate compatible. <sub>⭐ 203 · Rust</sub>
-- [hyperai/vllm-cn](https://github.com/hyperai/vllm-cn) - vLLM Documentation in Chinese Simplified / vLLM 中文文档 <sub>⭐ 196 · TypeScript</sub>
-- [SystemSculpt/obsidian-systemsculpt-ai](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) - Enhance your Obsidian App experience with AI-powered tools for note-taking, task management, and much, MUCH more. <sub>⭐ 195 · TypeScript</sub>
-- [ykhli/AI-RPi-detection](https://github.com/ykhli/AI-RPi-detection) - AI Raspberry Pi cat detection and notification: get a text when your cat does something it's not supposed to do, and have AI narrate what it sees. Generalizable across other use cases outside of cats <sub>⭐ 195 · Python</sub>
-- [ramsrigouthamg/Paraphrase-any-question-with-T5-Text-To-Text-Transfer-Transformer-](https://github.com/ramsrigouthamg/Paraphrase-any-question-with-T5-Text-To-Text-Transfer-Transformer-) - Paraphrase any question with T5 (Text-To-Text Transfer Transformer) - Pretrained model and training script provided <sub>⭐ 187 · Python</sub>
-- [tlatkowski/multihead-siamese-nets](https://github.com/tlatkowski/multihead-siamese-nets) - Implementation of Siamese Neural Networks built upon multihead attention mechanism for text semantic similarity task. <sub>⭐ 184 · Jupyter Notebook</sub>
-- [abdallah-ali-abdallah/turjuman-book-translator](https://github.com/abdallah-ali-abdallah/turjuman-book-translator) - Translate full books and large texts with LLM autonomously <sub>⭐ 182 · Python</sub>
-- [prateekjoshi565/textrank_text_summarization](https://github.com/prateekjoshi565/textrank_text_summarization) - A tutorial for Automatic Text Summarization using TextRank algorithm. <sub>⭐ 182 · Jupyter Notebook</sub>
-- [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) - A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools. <sub>⭐ 178 · TypeScript</sub>
-- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - The ParroT framework to enhance and regulate the Translation Abilities during Chat based on open-sourced LLMs (e.g., LLaMA-7b, Bloomz-7b1-mt) and human written translation and evaluation data. <sub>⭐ 177 · Python</sub>
-- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - A tool that transforms audio or video files into text transcripts and generates concise meeting minutes. Stay organized and efficient in your meetings, and get ready for Phase 2 where we'll be open… <sub>⭐ 175 · Python</sub>
-- [iamaaditya/neural-paraphrase-generation](https://github.com/iamaaditya/neural-paraphrase-generation) - Neural Paraphrase Generation <sub>⭐ 174 · Python</sub>
-- [rojagtap/transformer-abstractive-summarization](https://github.com/rojagtap/transformer-abstractive-summarization) - Abstractive Text Summarization using Transformer <sub>⭐ 167 · Jupyter Notebook</sub>
-- [jiacheng-xu/DiscoBERT](https://github.com/jiacheng-xu/DiscoBERT) - Code for paper "Discourse-Aware Neural Extractive Text Summarization" (ACL20) <sub>⭐ 166 · Python</sub>
-- [FunnySaltyFish/Transtation-KMP](https://github.com/FunnySaltyFish/Transtation-KMP) - A translation app on Android/Desktop built by Kotlin Multiplatform + Compose Multiplatform, enjoy amazing experience with LLMs' support <sub>⭐ 162 · Kotlin</sub>
-- [StanfordMIMI/clin-summ](https://github.com/StanfordMIMI/clin-summ) - Clinical text summarization by adapting large language models <sub>⭐ 161 · Python</sub>
-- [awnist/slop-cop](https://github.com/awnist/slop-cop) - AI text slop detection, 100% in browser <sub>⭐ 160 · TypeScript</sub>
-- [tshi04/NATS](https://github.com/tshi04/NATS) - Neural Abstractive Text Summarization with Sequence-to-Sequence Models <sub>⭐ 159 · Python</sub>
-- [yaoxiaoyuan/mimix](https://github.com/yaoxiaoyuan/mimix) - Mimix: A Text Generation Tool and Pretrained Chinese Models <sub>⭐ 158 · Python</sub>
-- [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization. <sub>⭐ 155 · TypeScript</sub>
-- [Shark-NLP/CoNT](https://github.com/Shark-NLP/CoNT) - (NeurIPS'22 Spotlight) Data and code for our paper CoNT: Contrastive Neural Text Generation <sub>⭐ 152 · Python</sub>
-- [johngai19/TextDistiller](https://github.com/johngai19/TextDistiller) - AI-powered document summarization engine that transforms lengthy texts into crystallized insights <sub>⭐ 146 · Python</sub>
-- [zwhe99/MAPS-mt](https://github.com/zwhe99/MAPS-mt) - (TACL 2024) MAPS enables LLMs to mimic the human translation process. <sub>⭐ 146 · Python</sub>
-- [surmenok/TextSum](https://github.com/surmenok/TextSum) - Preparing a dataset for TensorFlow text summarization (TextSum) model. <sub>⭐ 145 · Python</sub>
-- [didasy/tldr](https://github.com/didasy/tldr) - Text summarizer for golang using LexRank <sub>⭐ 139 · Go</sub>
-- [ai8hyf/OpenResearchAssistant](https://github.com/ai8hyf/OpenResearchAssistant) - An automated tool for discovering insights from research papaer corpora <sub>⭐ 138 · HTML</sub>
-- [drshahizan/obsidian](https://github.com/drshahizan/obsidian) - Obsidian.md stands out as an exceptional note-taking application tailored specifically for academic writing. This repository is part of the activities for the Systematic Literature Review using AI… <sub>⭐ 137 · HTML</sub>
-- [iwangjian/textsum-gan](https://github.com/iwangjian/textsum-gan) - Tensorflow re-implementation of GAN for text summarization <sub>⭐ 136 · Python</sub>
-- [lancopku/superAE](https://github.com/lancopku/superAE) - Code for "Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization" <sub>⭐ 135 · Python</sub>
-- [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API to easily summarize text-based files with transformers <sub>⭐ 134 · Python</sub>
-- [ckanner/jta](https://github.com/ckanner/jta) - AI-powered JSON translation tool with agentic reflection using OpenAI, Anthropic, and Gemini APIs <sub>⭐ 132 · Go</sub>
-- [lilakk/BooookScore](https://github.com/lilakk/BooookScore) - A package to generate summaries of long-form text and evaluate the coherence of these summaries. Official package for our ICLR 2024 paper, "BooookScore: A systematic exploration of book-length… <sub>⭐ 131 · Python</sub>
-- [obaskly/AiTextDetectionBypass](https://github.com/obaskly/AiTextDetectionBypass) - Bypass Ai detection using undetectable.ai <sub>⭐ 131 · Python</sub>
-- [Amine-LG/Obsidian-Text-Transformer-LocalAI](https://github.com/Amine-LG/Obsidian-Text-Transformer-LocalAI) - Transform your .txt and .md notes into visually appealing and well-structured Markdown for Obsidian, powered by local LLMs using Ollama. <sub>⭐ 129 · Python</sub>
-- [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian <sub>⭐ 129 · TypeScript</sub>
-- [fangpings/BERT-Transformer-for-Summarization](https://github.com/fangpings/BERT-Transformer-for-Summarization) - A BERT-Transformer network for abstractive text summarization <sub>⭐ 129 · Python</sub>
-- [Mossy1022/Smart-Connections-Visualizer](https://github.com/Mossy1022/Smart-Connections-Visualizer) - Visualize your notes and see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3 <sub>⭐ 126 · CSS</sub>
-- [fancydirty/subtitle-scout](https://github.com/fancydirty/subtitle-scout) - A self-hosted subtitle automation system with an LLM agent at its core — it identifies your media, judges whether each candidate belongs to the exact episode, installs the one that fits, and… <sub>⭐ 123 · TypeScript</sub>
-- [Vasallo94/ObsidianRAG](https://github.com/Vasallo94/ObsidianRAG) - Ask questions about your Obsidian notes using local AI. Privacy-first RAG with Ollama, LM Studio, or any OpenAI-compatible server. Obsidian plugin + Docker + PyPI. <sub>⭐ 123 · Python</sub>
-- [HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) - AI Chatbot, Image Generator & Language Translator App / OpenAI ChatGPT / AI Assistant / Dart 3 & Flutter 3.13 with Free OpenAI Trial <sub>⭐ 122 · Dart</sub>
-- [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - Supercharge your Obsidian note-taking through AI-powered insights and suggestions <sub>⭐ 121 · TypeScript</sub>
-- [ChinmayShringi/MicroFish-En](https://github.com/ChinmayShringi/MicroFish-En) - English translation of MiroFish (github.com/666ghj/MiroFish) - A concise and universal swarm intelligence engine for predicting everything. <sub>⭐ 121 · Python</sub>
-- [FranxYao/dgm_latent_bow](https://github.com/FranxYao/dgm_latent_bow) - Implementation of NeurIPS 19 paper: Paraphrase Generation with Latent Bag of Words <sub>⭐ 121 · Python</sub>
-- [Mengqi-Lei/texglot](https://github.com/Mengqi-Lei/texglot) - Translate arXiv papers and LaTeX projects with your own LLM API, preserving equations, citations, and document structure. Generate translated PDFs and editable source through a local app or batch CLI. <sub>⭐ 119 · Python</sub>
-- [daidr/fancy-translator](https://github.com/daidr/fancy-translator) - Fancy Translator uses the Translator API to provide fast, secure translations that run entirely in the browser. <sub>⭐ 118 · Vue</sub>
-- [kapitalismho/PuriPuly-heart](https://github.com/kapitalismho/PuriPuly-heart) - Real-time two-way voice translator for VRChat — LLM-based, VR subtitle overlay & OSC <sub>⭐ 117 · Python</sub>
-- [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using LLM api, support openai/anthropic/google models <sub>⭐ 117 · TypeScript</sub>
-- [SethRobinson/UGTLive](https://github.com/SethRobinson/UGTLive) - Live AI-powered screen translation via LLMs & GPU OCR. 26 languages, manga support, PDF/CBZ conversion, audio reading, cloud or fully local operation. For gamers, manga readers, and language learners. <sub>⭐ 117 · C#</sub>
-- [cLin-c/paper-skill](https://github.com/cLin-c/paper-skill) - Claude Code skill — AI prompt library for academic paper writing, polishing, reviewing, translating and submitting to SCI/IEEE/Nature/TRO journals <sub>⭐ 113 · Python</sub>
-- [gaetangate/text-summarizer](https://github.com/gaetangate/text-summarizer) - Python Framework for Extractive Text Summarization <sub>⭐ 111 · Python</sub>
-- [KazKozDev/book-translator](https://github.com/KazKozDev/book-translator) - Offline AI book translator for EPUB, PDF, and TXT. Translate entire books and novels locally with Ollama, document glossaries, refinement, and side-by-side review. <sub>⭐ 110 · Python</sub>
-- [VjayC/SRT-Subtitle-Translator-Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - A cross-platform desktop and web app to translate and validate SRT subtitles using your existing LLM subscriptions (Gemini, ChatGPT, Claude, etc.) via CLIProxyAPI - no API keys needed. <sub>⭐ 110 · TypeScript</sub>
-- [wtfzambo/speak-like-you-eat](https://github.com/wtfzambo/speak-like-you-eat) - Translate AI garbage to human language. A Pi package for plain-language rewrites. <sub>⭐ 109 · TypeScript</sub>
-- [goobolabs/somali-language-standard](https://github.com/goobolabs/somali-language-standard) - The open, machine-readable standard for the Somali language — orthography, grammar, terminology, translation, and AI/benchmark resources, as a versioned, citable RFC-style catalog. <sub>⭐ 108 · Rust</sub>
-- [tuzhucheng/sentence-similarity](https://github.com/tuzhucheng/sentence-similarity) - PyTorch implementations of various deep learning models for paraphrase detection, semantic similarity, and textual entailment <sub>⭐ 107 · Python</sub>
-- [Agents365-ai/obsidian-ai-tagger-universe](https://github.com/Agents365-ai/obsidian-ai-tagger-universe) - An intelligent Obsidian plugin that leverages AI to automatically analyze note content and suggest relevant tags, supporting both local and cloud-based LLM services. <sub>⭐ 106 · TypeScript</sub>
-- [kedz/nnsum](https://github.com/kedz/nnsum) - An extractive neural network text summarization library for the EMNLP 2018 paper "Content Selection in Deep Learning Models of Summarization" (https://arxiv.org/abs/1810.12343). <sub>⭐ 106 · Python</sub>
-- [HurricaHjz/second-yourself](https://github.com/HurricaHjz/second-yourself) - Second yourself. One agent that remembers you, with many hands to act for you: a multi-agent harness (Claude Code, with Codex helpers), a self-maintaining local wiki as its long-term memory, and the… <sub>⭐ 105 · Python</sub>
-- [KIRVO-REPORTING/video-to-notes](https://github.com/KIRVO-REPORTING/video-to-notes) - Local-first video-to-notes CLI for YouTube/Bilibili transcripts, Whisper fallback, timestamped AI summaries, and Notion/Obsidian export. <sub>⭐ 105 · Python</sub>
-- [MrPeterJin/researchgpt](https://github.com/MrPeterJin/researchgpt) - An open-source LLM based research assistant that allows you to have a conversation with a research paper <sub>⭐ 105 · Python</sub>
-- [AndrewRao114/vault-activity-heatmap](https://github.com/AndrewRao114/vault-activity-heatmap) - Cross-device Obsidian activity heatmap with mobile tasks, edit timelines, AI summaries, and customizable panel themes <sub>⭐ 104 · TypeScript</sub>
-- [deusjin/subforge](https://github.com/deusjin/subforge) - Rust CLI for AI subtitle workflows: transcribe, segment, translate, evaluate, and burn or mux subtitles. <sub>⭐ 104 · Rust</sub>
-- [drpwchen/textbook-to-note](https://github.com/drpwchen/textbook-to-note) - Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal. <sub>⭐ 104 · Python</sub>
-- [efe/dj-translatemessages](https://github.com/efe/dj-translatemessages) - LLM-powered Django translations Just call me "python manage.py translatemessages" <sub>⭐ 103 · Python</sub>
-- [tshi04/LeafNATS](https://github.com/tshi04/LeafNATS) - Learning Framework for Neural Abstractive Text Summarization <sub>⭐ 103 · Python</sub>
-- [Jihuai-wpy/SeqXGPT](https://github.com/Jihuai-wpy/SeqXGPT) - SeqXGPT: An advance method for sentence-level AI-generated text detection. <sub>⭐ 101 · Python</sub>
-- [pmacro/AITranslate](https://github.com/pmacro/AITranslate) - A tool to translate Xcode xcstrings files using ChatGPT AI/LLM <sub>⭐ 101 · Swift</sub>
-- [taahamahdi/i18n-ai-translate](https://github.com/taahamahdi/i18n-ai-translate) - Auto-translate i18n locale files with AI. Translate i18next JSON, Gettext PO, Java .properties, iOS .strings, Rails YAML, and TS/JS catalogues using ChatGPT, Claude, Gemini, or local Ollama models.… <sub>⭐ 101 · TypeScript</sub>
-- [DjangoPeng/openai-translator](https://github.com/DjangoPeng/openai-translator) - A versatile AI translation tool powered by LLMs. <sub>⭐ 100 · Python</sub>
-- [IvenKooLab/loci](https://github.com/IvenKooLab/loci) - A queryable second brain over your scattered notes and docs - hybrid retrieval (vector + BM25), section-level citations, and an MCP server so AI agents can use it. ~300 lines, no LangChain. <sub>⭐ 100 · Python</sub>
-- [rayliuca/T-Ragx](https://github.com/rayliuca/T-Ragx) - Enhancing Translation with RAG-Powered Large Language Models <sub>⭐ 100 · Python</sub>
-- [AttackIQ/SigmAIQ](https://github.com/AttackIQ/SigmAIQ) - A pySigma wrapper and langchain toolkit for automatic rule creation/translation <sub>⭐ 98 · Python</sub>
-- [UBC-NLP/araT5](https://github.com/UBC-NLP/araT5) - AraT5: Text-to-Text Transformers for Arabic Language Understanding <sub>⭐ 98</sub>
-- [ayushoriginal/Consensus-Based-Summarizer](https://github.com/ayushoriginal/Consensus-Based-Summarizer) - RESEARCH (NLP ) This is an implementation of "Automatic Consensus-Based Text Summarizer" along with text-organizing capabilities that can generate genre-specific, generic or user-configured summaries… <sub>⭐ 97 · C++</sub>
-- [jakobap/aaron](https://github.com/jakobap/aaron) - Step-by-step challenge lab repo to build your custom LLM Deep Researcher Assistant using Genkit <sub>⭐ 97 · TypeScript</sub>
-- [luopeixiang/awesome-text-summarization](https://github.com/luopeixiang/awesome-text-summarization) - Text summarization starting from scratch. <sub>⭐ 96</sub>
-- [poppanda/LLM_PDF_Translator](https://github.com/poppanda/LLM_PDF_Translator) - Use LLM (ollama, QWEN, ChatGPT) to translate the pdf inplacely <sub>⭐ 95 · Python</sub>
-- [websymphony/paraphrasing-tool](https://github.com/websymphony/paraphrasing-tool) - Free paraphrasing tool / article rewriter <sub>⭐ 94 · TypeScript</sub>
-- [abhishek305/PyBot-A-ChatBot-For-Answering-Python-Queries-Using-NLP](https://github.com/abhishek305/PyBot-A-ChatBot-For-Answering-Python-Queries-Using-NLP) - Pybot can change the way learners try to learn python programming language in a more interactive way. This chatbot will try to solve or provide answer to almost every python related issues or queries… <sub>⭐ 93 · Python</sub>
-- [Menci/Floway](https://github.com/Menci/Floway) - Serverless LLM API gateway with telemetry, full protocol translation and Stateful Responses support. Use any LLM from any client and get OpenAI/Anthropic 1P-like experience of Codex/Claude on 3P API… <sub>⭐ 91 · TypeScript</sub>
-- [Huzaifa785/context-compressor](https://github.com/Huzaifa785/context-compressor) - AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 50-60% while preserving semantic meaning with advanced compression strategies. <sub>⭐ 90 · Python</sub>
-- [translate-tools/core](https://github.com/translate-tools/core) - A translator's kit that uses the free APIs of Google Translate, Yandex, Bing, ChatGPT, and other LLMs <sub>⭐ 90 · TypeScript</sub>
-- [drpedapati/sciclaw](https://github.com/drpedapati/sciclaw) - Paired-scientist AI assistant for reproducible research — lightweight Go runtime, lifecycle hooks, manuscript integration, 12 baseline scientific skills. PicoClaw-compatible. <sub>⭐ 89 · Go</sub>
-- [skoowoo/hylo](https://github.com/skoowoo/hylo) - Hylo: AI-native note-taking app compatible with Obsidian. AI agents organize and help you use your notes. <sub>⭐ 89 · Go</sub>
-- [trieuntu/VietAIDetector](https://github.com/trieuntu/VietAIDetector) - VietAIDetector: A robust, zero-shot AI-generated text detection system for Vietnamese. Built on the VietBinoculars algorithm with PhoGPT-4B and featuring Vintern-1B VLM for scanned PDF OCR. Optimized… <sub>⭐ 89 · Python</sub>
-- [ymoslem/Adaptive-MT-LLM-Fine-tuning](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning) - Fine-tuning Open-Source LLMs for Adaptive Machine Translation <sub>⭐ 89 · Jupyter Notebook</sub>
-- [jb41/translate-book](https://github.com/jb41/translate-book) - Translate epub books using GPT-4 LLM <sub>⭐ 88 · Python</sub>
-- [OpenDataBox/CrackSQL](https://github.com/OpenDataBox/CrackSQL) - LLM-based Dialect Translation System <sub>⭐ 87 · Python</sub>
-- [aj-naik/Text-Summarization](https://github.com/aj-naik/Text-Summarization) - Abstractive and Extractive Text summarization using Transformers. <sub>⭐ 86 · Jupyter Notebook</sub>
-- [IBM/iac-spec-kit](https://github.com/IBM/iac-spec-kit) - AI-assisted workflows for translating business requirements into infrastructure code <sub>⭐ 86 · Python</sub>
-- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero core deps.… <sub>⭐ 86 · Python</sub>
-- [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools. <sub>⭐ 85 · Python</sub>
-- [subev/libratory](https://github.com/subev/libratory) - Your free book and audiobook laboratory. Turn the PDFs you own into chapter-marked M4B audiobooks and read-along books, on your own machine. Local TTS, AI cleanup, translations and rewrites, RAG chat… <sub>⭐ 85 · TypeScript</sub>
-- [dahlia/yoyak](https://github.com/dahlia/yoyak) - An LLM-powered CLI tool for summarizing web pages <sub>⭐ 84 · TypeScript</sub>
-- [manimohans/obsidian-local-llm-helper](https://github.com/manimohans/obsidian-local-llm-helper) - An Obsidian plugin to process text, chat with AI, and semantically search your notes — works with any OpenAI-compatible LLM server (Ollama, LM Studio, vLLM, and more). <sub>⭐ 84 · TypeScript</sub>
-- [DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-](https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-) - A bidirectional encoder-decoder LSTM neural network is trained for text summarization on the cnn/dailymail dataset. (MIT808 project) <sub>⭐ 82 · Python</sub>
-- [ksanyok/TextHumanize](https://github.com/ksanyok/TextHumanize) - Transform AI-generated text into natural human-like content. 100% offline · 25 languages · Zero dependencies · PHANTOM™ · ASH™ · Python/PHP/TypeScript <sub>⭐ 81 · Python</sub>
-- [richawo/chain-of-density](https://github.com/richawo/chain-of-density) - Implementing the Chain Of Density text summarisation technique from recent NLP research by researchers at Salesforce, MIT, Columbia, etc. Takes a long text input and iteratively generates… <sub>⭐ 80 · Python</sub>
-- [wyu-du/Reinforce-Paraphrase-Generation](https://github.com/wyu-du/Reinforce-Paraphrase-Generation) - This repository contains the data and code for the paper "An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation" (EMNLP2019). <sub>⭐ 80 · Python</sub>
-- [caca2331/finesub](https://github.com/caca2331/finesub) - Pipeline that turns audio/video into Chinese subtitles: vocal separation → VAD/ASR → optional LLM correction, translation, and knowledge-assisted polish. <sub>⭐ 79 · Python</sub>
-- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - Welcome to the Natural Language to SQL demo project using LlamaIndex! This application is designed to demonstrate the innovative use of Large Language Models (LLMs) in translating natural language… <sub>⭐ 78 · Python</sub>
-- [IBM/RADAR](https://github.com/IBM/RADAR) - Code for our NeurIPS2023 accepted paper: RADAR: Robust AI-Text Detection via Adversarial Learning. We tested RADAR on 8 LLMs including Vicuna and LLaMA. The results show that RADAR can attain good… <sub>⭐ 78 · Jupyter Notebook</sub>
-- [jananiarunachalam/Research-Paper-Summarization](https://github.com/jananiarunachalam/Research-Paper-Summarization) - Text Summarization for Research Papers <sub>⭐ 78 · Jupyter Notebook</sub>
-- [Sophomoresty/zhuque](https://github.com/Sophomoresty/zhuque) - Tencent Zhuque AI detection CLI — text and image, batch serial, auto-cooldown <sub>⭐ 78 · Python</sub>
-- [ucx0204/CarrotMangaTranslator](https://github.com/ucx0204/CarrotMangaTranslator) - Open-source desktop OCR, AI translation, editing and inpainting tool for user-provided manga and comic images. <sub>⭐ 78 · TypeScript</sub>
-- [zwc12/Summarization](https://github.com/zwc12/Summarization) - A sequence to sequence model for abstractive text summarization <sub>⭐ 78 · Python</sub>
-- [qcf-568/OSTF](https://github.com/qcf-568/OSTF) - (AAAI2025) Revisiting Tampered Scene Text Detection in the Era of Generative AI <sub>⭐ 77 · Jupyter Notebook</sub>
-- [Bavatharanivethamani/-EmotionSense-AI-Multimodal-Human-Emotion-and-Stress-Detection-Using-Computer-Vision-and-NLP-](https://github.com/Bavatharanivethamani/-EmotionSense-AI-Multimodal-Human-Emotion-and-Stress-Detection-Using-Computer-Vision-and-NLP-) - An AI-based multimodal emotion and stress detection system leveraging computer vision for facial expression recognition and natural language processing for text analysis. Designed for real-time… <sub>⭐ 76 · Python</sub>
-- [lucidrains/marge-pytorch](https://github.com/lucidrains/marge-pytorch) - Implementation of Marge, Pre-training via Paraphrasing, in Pytorch <sub>⭐ 76 · Python</sub>
-- [tomkam1702/OCR-Translator](https://github.com/tomkam1702/OCR-Translator) - Real-time game subtitle translator with AI-powered OCR. Context-aware translation for 20+ languages. Free offline models + dirt cheap APIs. Perfect for gaming in foreign languages! <sub>⭐ 76 · Python</sub>
-- [Vidhi1290/LLM---Detect-AI-Generated-Text](https://github.com/Vidhi1290/LLM---Detect-AI-Generated-Text) - AI-Generated Text Detection: A BERT-powered solution for accurately identifying AI-generated text. Seamlessly integrated, highly accurate, and user-friendly. <sub>⭐ 76 · Jupyter Notebook</sub>
-- [alberto-solano/open-source-LLM-translation-tool](https://github.com/alberto-solano/open-source-LLM-translation-tool) - This project use the Meta NLLB-200 translation model through the Hugging Face transformers library. <sub>⭐ 75 · Python</sub>
-- [kata-ai/indosum](https://github.com/kata-ai/indosum) - A benchmark dataset for Indonesian text summarization. <sub>⭐ 75 · Python</sub>
-- [paulx3/keras_generative_pg](https://github.com/paulx3/keras_generative_pg) - A Deep Generative Framework for Paraphrase Generation Implementaion <sub>⭐ 75 · Python</sub>
-- [tagoyal/sow-reap-paraphrasing](https://github.com/tagoyal/sow-reap-paraphrasing) - Contains data/code for the paper "Neural Syntactic Preordering for Controlled Paraphrase Generation" (ACL 2020). <sub>⭐ 75 · Python</sub>
-- [DjordjePetrovic/react-native-camera-translator](https://github.com/DjordjePetrovic/react-native-camera-translator) - A Small weekend idea inspired by Google's "Giorgio Cam" AI Experiment, Using Google's Vision and Translate APIs <sub>⭐ 74 · JavaScript</sub>
-- [IBM/quality-controlled-paraphrase-generation](https://github.com/IBM/quality-controlled-paraphrase-generation) - Quality Controlled Paraphrase Generation (ACL 2022) <sub>⭐ 74 · Python</sub>
-- [pemagrg1/NLP-Flask-Website](https://github.com/pemagrg1/NLP-Flask-Website) - A simple Flask website for all NLP tasks which includes Text Preprocessing, Keyword Extraction, Text Summarization etc. Created Date: 30 Jan 2019 <sub>⭐ 74 · HTML</sub>
-- [Ranjith00005/LawLens](https://github.com/Ranjith00005/LawLens) - AI-powered legal research assistant providing legal advisory, case outcome prediction, and report generation from PDF documents using FastAPI, Streamlit, and Groq LLM. <sub>⭐ 74 · Python</sub>
-- [daekeun-ml/ppt-translator](https://github.com/daekeun-ml/ppt-translator) - A powerful PowerPoint translation tool that leverages Amazon Bedrock models for high-quality translation. This service can be used both as a standalone command-line tool and as a MCP for integration… <sub>⭐ 72 · Python</sub>
-- [Foysal87/Bangla-NLP-Dataset](https://github.com/Foysal87/Bangla-NLP-Dataset) - Bangla NLP dataset. Bangla NER,POStag, text summarization, stopword, translate, sentiment analysis, wiki articles, root word, dataset etc. <sub>⭐ 72</sub>
-- [abner-wong/textrank](https://github.com/abner-wong/textrank) - keyword extraction and summarization for Chinese text by TextRank <sub>⭐ 71 · Python</sub>
-- [IEvangelist/resource-translator](https://github.com/IEvangelist/resource-translator) - A GitHub Action that automatically creates machine-translated PRs of translation files. Supported file formats include, .ini, .po, .restext, .resx, .xliff .json. <sub>⭐ 71 · TypeScript</sub>
-- [leancodepl/arb_translate](https://github.com/leancodepl/arb_translate) - A command-line tool for automatically adding missing message translations to ARB files using Google Gemini LLM by LeanCode <sub>⭐ 71 · Dart</sub>
-- [ColinLu50/Evade-GPT-Detector](https://github.com/ColinLu50/Evade-GPT-Detector) - Official repo for paper "Large Language Models can be Guided to Evade AI-Generated Text Detection" in TMLR 2024. <sub>⭐ 70 · Python</sub>
-- [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) - Laravel Gemini AI Translation Extractor scans your Laravel project for translation keys, uses Google Gemini AI for translations, and generates language files automatically—streamlining and… <sub>⭐ 70 · PHP</sub>
-- [petermartens98/OpenAI-Whisper-Audio-Transcription-And-Summarization-Chatbot](https://github.com/petermartens98/OpenAI-Whisper-Audio-Transcription-And-Summarization-Chatbot) - Web app enabling users to either record or upload audio files. Then utilizing OpenAI API (Whisper, GPT4) generates transcriptions, summaries, fact checks, sentiment analysis, and text metrics. Users… <sub>⭐ 70 · Python</sub>
-- [florian-kalisch/auto-mindmapping](https://github.com/florian-kalisch/auto-mindmapping) - Revolutionize your mind mapping with this repo, combining mermaid and GPT-3.5-turbo / GPT-4! Craft captivating mindmaps for brainstorming and text summarization, unlocking creativity and… <sub>⭐ 69 · JavaScript</sub>
-- [gujord/OpenAPI-MCP](https://github.com/gujord/OpenAPI-MCP) - The OpenAPI-MCP proxy translates OpenAPI specs into MCP tools, enabling AI agents to access external APIs without custom wrappers! <sub>⭐ 69 · Python</sub>
-- [ngwgsang/vietquill](https://github.com/ngwgsang/vietquill) - VietQuill is a unified framework for Vietnamese paraphrase generation, evaluation, and quality control, supporting both research and production applications. We are committed to advancing Vietnamese… <sub>⭐ 69 · Python</sub>
-- [BatsResearch/planetarium](https://github.com/BatsResearch/planetarium) - Dataset and benchmark for assessing LLMs in translating natural language descriptions of planning problems into PDDL <sub>⭐ 68 · Python</sub>
-- [ctxinf/webpage-summary](https://github.com/ctxinf/webpage-summary) - Browser extension for summarizing webpage text content with AI (with your own Apikey) <sub>⭐ 68 · TypeScript</sub>
-- [fzp0424/MT-R1-Zero](https://github.com/fzp0424/MT-R1-Zero) - (EMNLP'25) Code for paper "MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning" <sub>⭐ 68 · Python</sub>
-- [kharazi/moujez](https://github.com/kharazi/moujez) - Persian Text Summarization Agent <sub>⭐ 68 · JavaScript</sub>
-- [oneai-nlp/oneai-node](https://github.com/oneai-nlp/oneai-node) - Natural language processing - summarization, sentiment analysis, topic detection and more. <sub>⭐ 68 · TypeScript</sub>
-- [ritun16/llm-text-summarization](https://github.com/ritun16/llm-text-summarization) - A comprehensive guide and codebase for text summarization using Large Language Models (LLMs). Dive into techniques, from chunking to clustering, and harness the power of LLMs like GPT-3.5 and GPT-4. <sub>⭐ 68 · Python</sub>
-- [yyaadet/autosrt_page](https://github.com/yyaadet/autosrt_page) - AutoSRT is an macOS app that automatically generates dual language subtitles from video files. <sub>⭐ 68 · Swift</sub>
-- [calmstate/polyglot](https://github.com/calmstate/polyglot) - Polyglot is a fast, elegant, and free translation tool using AI. <sub>⭐ 67 · JavaScript</sub>
-- [HHousen/lecture2notes](https://github.com/HHousen/lecture2notes) - Convert lecture videos to notes using AI & machine learning. Code for the research titled "Lecture2Notes: Summarizing Lecture Videos by Classifying Slides and Analyzing Text using Machine Learning." <sub>⭐ 67 · Jupyter Notebook</sub>
-- [Pickle-Pixel/HydraTeams](https://github.com/Pickle-Pixel/HydraTeams) - Translation proxy that makes Claude Code Agent Teams model-agnostic. Any model as a teammate — GPT, Gemini, Ollama — with full Claude Code tooling. <sub>⭐ 67 · TypeScript</sub>
-- [vishnu45/NLP-Extractive-NEWS-summarization-using-MMR](https://github.com/vishnu45/NLP-Extractive-NEWS-summarization-using-MMR) - A simple python implementation of the Maximal Marginal Relevance (MMR) baseline system for text summarization. <sub>⭐ 67 · Python</sub>
-- [denven/mediascribe](https://github.com/denven/mediascribe) - CLI for audio, video, and text transcription with ASR providers and LLM-powered summarization via local or cloud backends. <sub>⭐ 66 · Python</sub>
-- [geoffsmith82/Symposium2023](https://github.com/geoffsmith82/Symposium2023) - Demonstrates Voice Recognition, Text to Speech, Language Translation, OAuth2, Image Generation, Face Detection and Voice Chatbot. <sub>⭐ 66 · Pascal</sub>
-- [jgw96/web-ai-toolkit](https://github.com/jgw96/web-ai-toolkit) - The Web AI Toolkit is a powerful, privacy-first JavaScript library that brings advanced AI capabilities directly to your web applications. Run OCR, speech-to-text, text summarization, image… <sub>⭐ 66 · TypeScript</sub>
-- [lyq9797/aigc_web](https://github.com/lyq9797/aigc_web) - The AI text detection system assists users in conducting fine-grained detection of AI-generated content within mixed texts <sub>⭐ 66 · Python</sub>
-- [MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator) - The Conversational Azure OpenAI (ChatGPT) Accelerator, from Microsoft partner Zammo.ai, uses OpenAI to improve customer experience by automating conversations and summarizations. This leverages Azure… <sub>⭐ 65</sub>
-- [kiycoh/silica-core](https://github.com/kiycoh/silica-core) - Retrieval tools for coding agents, no model in the loop: files, search, read, code_pack and write_note over the folder your session is opened in, served over MCP. <sub>⭐ 64 · Python</sub>
-- [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) - Give your AI assistant real web search, full-page reading, and multi-source research with citations that are never fabricated. <sub>⭐ 63 · Go</sub>
-- [bayradion/rabbitmap](https://github.com/bayradion/rabbitmap) - An infinite canvas plugin for Obsidian with AI chat nodes. Create visual workspaces where you can have multiple LLM conversations alongside your notes — with easy drag & drop context management from… <sub>⭐ 62 · TypeScript</sub>
-- [fbgallet/roam-extension-live-ai-assistant](https://github.com/fbgallet/roam-extension-live-ai-assistant) - Powerful AI Assistant in Roam Research <sub>⭐ 62 · TypeScript</sub>
-- [ServerKarma/ObsidianPrivateAI](https://github.com/ServerKarma/ObsidianPrivateAI) - Effortlessly chat with your Obsidian notes using a privacy first LLM. Private by design, your notes never leave the device and use local processing only. <sub>⭐ 62 · TypeScript</sub>
-- [stevibe/SparklingKit](https://github.com/stevibe/SparklingKit) - Local-first AI workbench for OCR, transcription, translation, image generation, mind maps and composable workflows. Built for DGX Spark. <sub>⭐ 62 · TypeScript</sub>
-- [vibheksoni/UniClaudeProxy](https://github.com/vibheksoni/UniClaudeProxy) - Use any LLM with Claude Code — proxy that translates Anthropic API to OpenAI, Gemini, DeepSeek, Ollama, and more. Full tool calling, streaming, ReAct XML fallback, hot-reload config. <sub>⭐ 62 · Python</sub>
-- [beingamanforever/LLM-Text-Detection](https://github.com/beingamanforever/LLM-Text-Detection) - A complete overview and insights into AI-Text detection using the powerful BERT(Bi-directional encoder representation transformer) to predict if a text is AI-generated or Human-authored <sub>⭐ 61 · Jupyter Notebook</sub>
-- [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and Semantical Text Summarizer in Persian Language <sub>⭐ 61 · Python</sub>
-- [travisvn/obsidian-vision-recall](https://github.com/travisvn/obsidian-vision-recall) - Transform screenshots into searchable Obsidian notes using AI vision and text analysis <sub>⭐ 61 · TypeScript</sub>
-- [Lifailon/multranslate](https://github.com/Lifailon/multranslate) - A TUI for translating text in multiple translators simultaneously as well as OpenAI and local LLM, with support for translation history and automatic language detection. <sub>⭐ 60 · JavaScript</sub>
-- [zhouying20/HMGC](https://github.com/zhouying20/HMGC) - COLING'24 Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack <sub>⭐ 60 · Python</sub>
-- [hashbangCoder/Text-Summarization](https://github.com/hashbangCoder/Text-Summarization) - Text Summarization using Pointer Attention Models <sub>⭐ 59 · Python</sub>
-- [MuzeAnisichael/LinguaRelay](https://github.com/MuzeAnisichael/LinguaRelay) - Real-time Windows system-audio translation captions for Chinese, Japanese, English, and Korean, with optional LLM revision. <sub>⭐ 59 · Python</sub>
-- [Nicozwy/AIGTD-Survey](https://github.com/Nicozwy/AIGTD-Survey) - ESWA: The Imitation Game Revisited: A Comprehensive Survey on Recent Advances in AI-generated Text Detection <sub>⭐ 59</sub>
-- [Text2Go/ai-humanizer-mcp-server](https://github.com/Text2Go/ai-humanizer-mcp-server) - A powerful Model Context Protocol (MCP) server that helps refine AI-generated content to sound more natural and human-like. Built with advanced AI detection and text enhancement capabilities. <sub>⭐ 59 · JavaScript</sub>
-- [toru34/li_emnlp_2017](https://github.com/toru34/li_emnlp_2017) - Deep Recurrent Generative Decoder for Abstractive Text Summarization in DyNet <sub>⭐ 59 · Python</sub>
-- [Nygosaki/AI-Writing-Detection](https://github.com/Nygosaki/AI-Writing-Detection) - This tool will parse the inputted text into many different existing AI writing detection tools and return the results to you. This is to be able to scan text with as many tools as possible without… <sub>⭐ 58 · Python</sub>
-- [antonyronlado/Fake_News_Detector](https://github.com/antonyronlado/Fake_News_Detector) - A Real Time Fake News Detection System With Text Summarization and Online Bot With it <sub>⭐ 57 · HTML</sub>
-- [FMXExpress/AI-Code-Translator](https://github.com/FMXExpress/AI-Code-Translator) - Translate source code from languages like C++, Python, and C# to Delphi using ChatGPT. <sub>⭐ 57 · Pascal</sub>
-- [JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models](https://github.com/JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models) - This project extracts audio from YouTube videos, converts speech to text using OpenAI Whisper, and summarizes the content using transformer-based NLP models to save time and improve content… <sub>⭐ 57 · Python</sub>
-- [RainerSeventeen/paper-tracker](https://github.com/RainerSeventeen/paper-tracker) - Keyword-based academic paper tracker supporting arXiv & OpenAlex, with LLM-powered translation and multi-format output (JSON/Markdown/HTML). <sub>⭐ 57 · Python</sub>
-- [RussianNLP/russian_paraphrasers](https://github.com/RussianNLP/russian_paraphrasers) - Russian paraphrasers. Generate paraphrases with mt5, gpt2, etc. <sub>⭐ 57 · Python</sub>
-- [Supervertaler/Supervertaler-Workbench](https://github.com/Supervertaler/Supervertaler-Workbench) - Free, open-source standalone CAT tool: editor, AI translation, termbases, TMs, plus system-wide clipboard manager, SuperLookup, QuickTrans and voice dictation. See Supervertaler-for-Trados for the… <sub>⭐ 57 · Python</sub>
-- [Xia-Ataraxia/obsidian-metadata-auto-classifier](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) - Obsidian plugin that uses AI providers to generate tags and frontmatter metadata for your notes. <sub>⭐ 57 · TypeScript</sub>
-- [ceshine/textrank_demo](https://github.com/ceshine/textrank_demo) - A simple website demonstrating TextRank's extractive summarization capability. <sub>⭐ 56 · HTML</sub>
-- [gjha133/ChatGPT-clone-mern](https://github.com/gjha133/ChatGPT-clone-mern) - ChatGPT (GPT-3) Clone with additional features like Text Summarization, Paragraph Generator, Code Converter and AI Image Generator using OpenAI API. MERN App with auth. Check README for update <sub>⭐ 56 · JavaScript</sub>
-- [google-marketing-solutions/description_genius](https://github.com/google-marketing-solutions/description_genius) - Easily generate and translate captivating product descriptions using product features and additional sources of information like customer reviews or usage instructions. <sub>⭐ 56 · Python</sub>
-- [InterfazeAI/postgres-llm](https://github.com/InterfazeAI/postgres-llm) - A dynamic Postgres trigger function that runs an LLM request directly in your database for use cases like translation, classification, summarization and more <sub>⭐ 56 · PLpgSQL</sub>
-- [KeloYuan/Niki-AI](https://github.com/KeloYuan/Niki-AI) - Obsidian plugin that embeds Claude Code as an AI writing companion — smart context, undo, diff preview, multi-thread chat. <sub>⭐ 56 · JavaScript</sub>
-- [gunesmes/Translate-subtitles-with-AI](https://github.com/gunesmes/Translate-subtitles-with-AI) - CLI and package for flawless translation. Transitle is a AI-based subtitle translator. It allows you to translate subtitles in a directory flawlessly with your favorite translator. Translate bunch of… <sub>⭐ 55 · Python</sub>
-- [kedz/sumpy](https://github.com/kedz/sumpy) - SUMPY: a python automatic text summarization library <sub>⭐ 55 · Python</sub>
-- [Rico00121/hugo-translator](https://github.com/Rico00121/hugo-translator) - LLM-driven article translator that automatically translates and creates new (name).(lng).md files <sub>⭐ 55 · Python</sub>
-- [adamfabish/Reduction](https://github.com/adamfabish/Reduction) - Reduction is a python script which automatically summarizes a text by extracting the sentences which are deemed to be most important. <sub>⭐ 54 · Python</sub>
-- [assafelovic/nlp_url_summarizer](https://github.com/assafelovic/nlp_url_summarizer) - URL articles text summarizer using Web Crawling and NLP (written in Python) <sub>⭐ 54 · Python</sub>
-- [Ighina/DeepTiling](https://github.com/Ighina/DeepTiling) - A TextTiling-based algorithm for text segmentation (aka topic segmentation) that uses neural sentence encoders, as well as extractive summarization and semantic search applications built on top of it. <sub>⭐ 54 · Python</sub>
-- [lengff123/cursor-bridge](https://github.com/lengff123/cursor-bridge) - Seamlessly bridge Obsidian and Cursor, the AI-powered code editor. Elevate your coding workflow by opening notes directly in Cursor, bringing the power of AI to your knowledge base. <sub>⭐ 54 · TypeScript</sub>
-- [macanv/MQNLP](https://github.com/macanv/MQNLP) - 自然语言处理相关实验实现 some experiment of natural language processing, Like text classification, named entity recognition, pos-tags, segment, key words extractor, auto summarize etc. <sub>⭐ 54 · Jupyter Notebook</sub>
-- [AnujK2901/yt-sum-flask](https://github.com/AnujK2901/yt-sum-flask) - YouTube Transcript Summarization over Flask: This back-end uses Flask framework to receive API calls from the client and then respond with the summarized text response. This API can work only on… <sub>⭐ 53 · Python</sub>
-- [mittumelinda/AI-text-Summarizer](https://github.com/mittumelinda/AI-text-Summarizer) - Lightweight NLP text summarizer using Streamlit and TF-IDF. Summarize long texts instantly! <sub>⭐ 53 · Python</sub>
-- [pinkglow/FoxAI-Extension](https://github.com/pinkglow/FoxAI-Extension) - Write emails & messages, fix grammar mistakes, rephrase text, summarize text, translation and much more using Gemini or ChatGPT AI. Works on all sites. <sub>⭐ 53 · JavaScript</sub>
-- [realies/translategemma-ui](https://github.com/realies/translategemma-ui) - Web interface for TranslateGemma, Google's open translation model <sub>⭐ 53 · TypeScript</sub>
-- [vieiraae/obsidian-sidekick](https://github.com/vieiraae/obsidian-sidekick) - Meet your AI sidekick — a second brain that brings agents, tools, skills, autocompletion, and smart workflows directly into your notes <sub>⭐ 53 · TypeScript</sub>
-- [Austin-AS/AI_Emotional_Mirror](https://github.com/Austin-AS/AI_Emotional_Mirror) - AI Emotional Mirror is an AI/ML project that analyzes free-form text to summarize thoughts, detect emotions, and generate calm, non-judgmental emotional reflections using NLP, transformers, and… <sub>⭐ 52 · Python</sub>
-- [badripatro/PQG](https://github.com/badripatro/PQG) - Code for paper title "Learning Semantic Sentence Embeddings using Pair-wise Discriminator" COLING-2018 <sub>⭐ 52 · Jupyter Notebook</sub>
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents. <sub>⭐ 52 · Rust</sub>
-- [dynamiccreator/voice-text-reader](https://github.com/dynamiccreator/voice-text-reader) - Realtime tts reading of large textfiles by your favourite voice. +Translation via LLM (Python script) <sub>⭐ 52 · Python</sub>
-- [lipiji/DRGD-LCSTS](https://github.com/lipiji/DRGD-LCSTS) - code for "Deep Recurrent Generative Decoder for Abstractive Text Summarization" <sub>⭐ 52 · Python</sub>
-- [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) - An AI-powered literature review assistant for researchers <sub>⭐ 52 · Python</sub>
-- [nakhunchumpolsathien/ThaiSum](https://github.com/nakhunchumpolsathien/ThaiSum) - A Dataset for Thai text summarization from Thairath, ThaiPBS, Prachathai and The Standard with over 350,000 articles. Trained models are provided. <sub>⭐ 52 · Jupyter Notebook</sub>
-- [Satissss/Squrve](https://github.com/Satissss/Squrve) - Squrve is a lightweight yet powerful framework for translating natural language into SQL over complex databases. <sub>⭐ 52 · Python</sub>
-- [sgoedecke/deckard](https://github.com/sgoedecke/deckard) - Local AI-text detection for your browser. <sub>⭐ 52 · JavaScript</sub>
-- [chengez/Adversarial-Paraphrasing](https://github.com/chengez/Adversarial-Paraphrasing) - (NeurIPS 2025) Implementation for paper "Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text" <sub>⭐ 51 · Python</sub>
-- [CyrusCKF/translator](https://github.com/CyrusCKF/translator) - Context-aware LLM Translator (CALT) <sub>⭐ 51 · TypeScript</sub>
-- [dipanjanS/adv_nlp_workshop_odsc_europe22](https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22) - Extensive tutorials for the Advanced NLP Workshop in Open Data Science Conference Europe 2020. We will leverage deep learning and deep transfer learning to solve popular tasks in NLP including… <sub>⭐ 51 · Jupyter Notebook</sub>
-- [fzp0424/self_correct_mt](https://github.com/fzp0424/self_correct_mt) - (NAACL'25) TEaR framework for paper "TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement" <sub>⭐ 51 · Ruby</sub>
-- [ZAYUVALYA/AI-Text-Humanizer](https://github.com/ZAYUVALYA/AI-Text-Humanizer) - ZAYUVALYA - AI Humanizer is a developing tool designed to rephrase AI-generated text to make it more natural and reduce detection by AI content detectors. Currently in its early stages, the project… <sub>⭐ 51 · HTML</sub>
-- [zh30/native-translate](https://github.com/zh30/native-translate) - Private, local‑first translation using Chrome's built‑in AI Translator & Language Detector. No cloud calls, no telemetry — your content never leaves the browser. <sub>⭐ 51 · TypeScript</sub>
-- [louisfb01/obsidian-agent-vault-template](https://github.com/louisfb01/obsidian-agent-vault-template) - A ready-to-use Obsidian vault for running an AI agent (Claude, Codex, etc.) as a personal OS: skills, grounding notes, and a self-improving feedback loop. Clone and open as a vault. <sub>⭐ 50</sub>
-- [yunwei37/OpenAI-Continuous-Translator](https://github.com/yunwei37/OpenAI-Continuous-Translator) - Translate with OpenAI in Github Actions for multiple format <sub>⭐ 50 · Python</sub>
-- [Aniruddha-Tapas/How-to-use-SyntaxNet](https://github.com/Aniruddha-Tapas/How-to-use-SyntaxNet) - Demo code to use SyntaxNet for basic paraphrasing. <sub>⭐ 49 · Python</sub>
-- [humanizerai/agent-skills](https://github.com/humanizerai/agent-skills) - HumanizerAI Agent Skills for Claude Code and Codex - AI detection and text humanization <sub>⭐ 49</sub>
-- [InternScience/ResearchHarness](https://github.com/InternScience/ResearchHarness) - A lightweight, general-purpose harness for tool-using LLM agents, fair benchmark evaluation, harness baselines, and personal assistant workflows. <sub>⭐ 49 · Python</sub>
-- [IwasakiYuuki/Bert-abstractive-text-summarization](https://github.com/IwasakiYuuki/Bert-abstractive-text-summarization) - Japanese Sentence Summarization with BERT <sub>⭐ 49 · Python</sub>
-- [LetovKai/call-translator](https://github.com/LetovKai/call-translator) - Real-time voice translator for video calls. Speak your language on Google Meet, Zoom, or any call app — the other person hears translated speech instantly. Speech-to-speech translation with Deepgram… <sub>⭐ 49 · Rust</sub>
-- [licon/ez-translate](https://github.com/licon/ez-translate) - EZ Translate: A chrome extension using AI LLMs (e.g., Gemini, Gemma, QWEN) for on-page, screenshot and popup translations. <sub>⭐ 49 · JavaScript</sub>
-- [Nuo27/Potplayer-Ollama-Translate](https://github.com/Nuo27/Potplayer-Ollama-Translate) - A live translation plugin for Potplayer, native ollama and custom api supported <sub>⭐ 49 · AngelScript</sub>
-- [oztrkoguz/SubtitleAI](https://github.com/oztrkoguz/SubtitleAI) - An AI-powered tool for summarizing YouTube videos by generating scene descriptions, translating them, and creating subtitled videos with text-to-speech narration <sub>⭐ 49 · Python</sub>
-- [simonkarl250/Paraphraser_AI_text_Humanizer_Zero_percent](https://github.com/simonkarl250/Paraphraser_AI_text_Humanizer_Zero_percent) - converts an AI generated text from 100% AI to Z0% AI, in short it humanizes the text <sub>⭐ 49 · Python</sub>
-- [cau-hai-lab/LIBERO-Para](https://github.com/cau-hai-lab/LIBERO-Para) - Official code for "LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models" (EMNLP 2026 Main, Oral). <sub>⭐ 48 · Python</sub>
-- [Snap-Mind/snap-mind](https://github.com/Snap-Mind/snap-mind) - A cross-platform desktop AI assistant that lets you translate, rewrite, summarize, and brainstorm with just a hotkey. <sub>⭐ 48 · TypeScript</sub>
-- [spencermarx/obsidian-ai](https://github.com/spencermarx/obsidian-ai) - Bring your own AI environment to Obsidian. For note/doc creation, refinement, search, organization, management, you name it! <sub>⭐ 48 · TypeScript</sub>
-- [TTomas65/Subtitle-Translator-for-LM-Studio](https://github.com/TTomas65/Subtitle-Translator-for-LM-Studio) - This application is a simple but powerful web tool for translating subtitle files in .srt format. To translate files, use the LM Studio AI model running on your local machine or of the online models… <sub>⭐ 48 · JavaScript</sub>
-- [xjtupanda/Sparrow](https://github.com/xjtupanda/Sparrow) - Repo for paper "T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs" <sub>⭐ 48</sub>
-- [AliAkrami1375/Li-Translate](https://github.com/AliAkrami1375/Li-Translate) - Open-source AI-powered subtitle generation and natural language translation platform for video and audio. <sub>⭐ 47 · Vue</sub>
-- [CosmicResearchCenter/chat2note](https://github.com/CosmicResearchCenter/chat2note) - This is a tool that can automatically translate the chat log into a note using LLM API <sub>⭐ 47 · Python</sub>
-- [dev-chauhan/PQG-pytorch](https://github.com/dev-chauhan/PQG-pytorch) - Paraphrase Generation model using pair-wise discriminator loss <sub>⭐ 47 · Python</sub>
-- [gorschal/wanish](https://github.com/gorschal/wanish) - Summarize web articles: extract clean content, title, image, language, and generate text summaries <sub>⭐ 47 · Python</sub>
-- [pescheckit/python-gpt-po](https://github.com/pescheckit/python-gpt-po) - AI-powered translator for gettext .po files using OpenAI, Azure OpenAI, Claude, DeepSeek and Ollama, supports bulk, fuzzy cleanup, and language auto-detection. <sub>⭐ 47 · Python</sub>
-- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first. <sub>⭐ 47 · Python</sub>
-- [Abrechen2/sublarr](https://github.com/Abrechen2/sublarr) - Self-hosted subtitle manager & LLM translator for anime and media — *arr-compatible, fully local <sub>⭐ 46 · Python</sub>
-- [Krishna18062005/Research-paper-Summary](https://github.com/Krishna18062005/Research-paper-Summary) - The Research Paper Summary Project automates the summarization of research papers using Python and Natural Language Processing (NLP). It extracts key information, generates concise summaries… <sub>⭐ 46 · Jupyter Notebook</sub>
-- [shamspias/lexsublm-lite](https://github.com/shamspias/lexsublm-lite) - A laptop‑friendly toolkit for context‑aware single‑word paraphrasing and lexical‑substitution benchmarking <sub>⭐ 46 · Python</sub>
-- [Ho3seinTork/Subtitle-Translator-with-LLMs](https://github.com/Ho3seinTork/Subtitle-Translator-with-LLMs) - Custom Subtitle Translator – Local HTML App A lightweight local HTML tool that fetches subtitle files via API and translates them using customizable settings. It offers full control over translation… <sub>⭐ 45 · HTML</sub>
-- [jaijuneja/PyTLDR](https://github.com/jaijuneja/PyTLDR) - A python module that automatically summarizes text documents and web pages <sub>⭐ 45 · Python</sub>
-- [purecodework/bookllm](https://github.com/purecodework/bookllm) - Translate books and documents with LLMs, featuring glossary extraction, review, and polishing pipelines. <sub>⭐ 45 · TypeScript</sub>
-- [SwapnikKatkoori/node-summarizer](https://github.com/SwapnikKatkoori/node-summarizer) - A simple node module that allows users to summarize text <sub>⭐ 45 · JavaScript</sub>
-- [vered1986/Chirps](https://github.com/vered1986/Chirps) - A Large Automatically-Constructed Resource of Predicate Paraphrases <sub>⭐ 45 · Python</sub>
-- [dsdanielpark/hf-transllm](https://github.com/dsdanielpark/hf-transllm) - LLMtranslator translates and generates text in multiple languages. <sub>⭐ 44 · Jupyter Notebook</sub>
-- [sukamenev/booktrans](https://github.com/sukamenev/booktrans) - Whole-book translation pipeline — scouts the book, translates in context, edits, adds footnotes. epub, fb2, pdf, txt, html in; epub, fb2, html, txt out. <sub>⭐ 44 · Python</sub>
-- [totocaster/arrowhead](https://github.com/totocaster/arrowhead) - Fast Obsidian-aware search and discovery that makes AI agents or OpenClaw your true knowledge assistant. <sub>⭐ 44 · Rust</sub>
-- [blurryface13/asteria-agent](https://github.com/blurryface13/asteria-agent) - Local-first AI research assistant: plans sub-queries, searches the web, and writes fully cited reports. LangChain + LangGraph multi-agent + FastAPI + Next.js, with email-OTP auth and per-user… <sub>⭐ 43 · Python</sub>
-- [JoramMillenaar/obsidian-similarity](https://github.com/JoramMillenaar/obsidian-similarity) - Search, explore and see related notes based on their meaning. Using a tiny AI running fully on-device: data never leaves your machine, no API keys needed. Great for journaling, or a second brain. <sub>⭐ 43 · TypeScript</sub>
-- [AmritaBh/ConDA-gen-text-detection](https://github.com/AmritaBh/ConDA-gen-text-detection) - Code for the paper: ConDA: Contrastive Domain Adaptation for AI-generated Text Detection <sub>⭐ 42 · Python</sub>
-- [charyan/osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh) : English to Unix-like Shell Commands translation using Local LLMs with Ollama <sub>⭐ 42 · Python</sub>
-- [deepaksood619/deepaksood619.github.io](https://github.com/deepaksood619/deepaksood619.github.io) - Deep Notes / Second Brain <sub>⭐ 42 · JavaScript</sub>
-- [FellowTraveler/ngest](https://github.com/FellowTraveler/ngest) - Python script for ingesting various files into a semantic graph. For text, images, cpp, python, rust, javascript, and PDFs. <sub>⭐ 42 · Python</sub>
-- [luckylykkk/LocalAItable](https://github.com/luckylykkk/LocalAItable) - By invoking local large language models, this tool processes spreadsheets similar to multi-dimensional tables. It can batch-generate content for Excel/CSV data using AI. The tool supports… <sub>⭐ 42 · Python</sub>
-- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - LLM as your translator, with DeepLX-compatible API. <sub>⭐ 42 · TypeScript</sub>
-- [Olcmyk/Meowth-GBA-Translator](https://github.com/Olcmyk/Meowth-GBA-Translator) - A fully automated GBA Pokémon ROM translator powered by LLMs. Seamlessly Extract → Translate → Build across 6 languages (EN, ZH, FR, DE, IT, ES) with one click via GUI or CLI. <sub>⭐ 42 · Python</sub>
-- [pink-doublethink/PromptAtoms](https://github.com/pink-doublethink/PromptAtoms) - A collection of atomic notes summarizing Telegram posts from the AI Projects. All content is in Russian. <sub>⭐ 42</sub>
-- [Amey-Thakur/TEXT-SUMMARIZER](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) - Machine Learning Project to Compare and Evaluate Text Summarization Algorithms Using SpaCy, NLTK, Gensim, and Sumy. <sub>⭐ 41 · HTML</sub>
-- [everydaycodings/Text-Summarization-using-NLP](https://github.com/everydaycodings/Text-Summarization-using-NLP) - Text Summarization using NLP to fetch BBC News Article and summarize its text and also it includes custom article Summarization <sub>⭐ 41 · Python</sub>
-- [hkoziolek/Spec2Control](https://github.com/hkoziolek/Spec2Control) - LLM-workflow to translate control narratives into IEC 61131-3 function block diagrams (FBDs). <sub>⭐ 41 · Python</sub>
-- [itsKayWat/ChatGPT-Recipe_Studio](https://github.com/itsKayWat/ChatGPT-Recipe_Studio) - ChatGPT Recipe Studiois for creating and managing ChatGPT "recipes" - preset text processing patterns for rephrasing, summarizing, replying, and email creation. Built with Python & PyQt6, it offers a… <sub>⭐ 41 · Python</sub>
-- [lancopku/SRB](https://github.com/lancopku/SRB) - Code for "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization" <sub>⭐ 41 · Python</sub>
-- [RxNLP/PyRXNLP](https://github.com/RxNLP/PyRXNLP) - Build intelligent data-driven applications with minimal effort. Sentence Clustering, Topics Extraction, Text Similarity, Opinion Summarization, and more. <sub>⭐ 41 · Python</sub>
-- [theognis1002/mcp-gateway](https://github.com/theognis1002/mcp-gateway) - Model Context Protocol (MCP) Gateway & Registry - Central hub for managing tools, resources, and prompts for MCP-compatible LLMs. Translates REST APIs into MCP, builds virtual MCP servers with… <sub>⭐ 41 · Go</sub>
-- [yaserkl/TransferRL](https://github.com/yaserkl/TransferRL) - Deep Transfer Reinforcement Learning for Text Summarization <sub>⭐ 41 · Python</sub>
-- [ayushoriginal/Ngram-Graphs](https://github.com/ayushoriginal/Ngram-Graphs) - RESEARCH (NLP) Analysis of N-gram Graphs and their applications in the domain of Text Classification and Extraction based Summarization <sub>⭐ 40 · Java</sub>
-- [irbull/obsidian-ai-summary](https://github.com/irbull/obsidian-ai-summary) - An Obsidian plugin that uses ChatGPT to generate a summary of referenced notes <sub>⭐ 40 · TypeScript</sub>
-- [moonlin1213/cove-book-forge-mcp](https://github.com/moonlin1213/cove-book-forge-mcp) - Turn PDF and EPUB books into cached AI analysis, Obsidian notes, and installable Codex/Claude Agent Skills through an open MCP server. <sub>⭐ 40 · Python</sub>
-- [never13254/GhostType](https://github.com/never13254/GhostType) - macOS voice productivity app — built-in dictation, AI rewrite, and translation. Powered by local Whisper + LLM. <sub>⭐ 40 · Swift</sub>
-- [tronghieu/lumina-wiki](https://github.com/tronghieu/lumina-wiki) - An AI-powered research assistant for reading, understanding, organizing, and connecting knowledge, implementation of Karpathy's LLM Wiki <sub>⭐ 40 · JavaScript</sub>
-- [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - Curated Dify workflow DSL files and templates for RAG, agents, search, translation, deep research, SEO and automation. <sub>⭐ 39</sub>
-- [BarakOshri/TextualReconstructor](https://github.com/BarakOshri/TextualReconstructor) - Training autoencoders to reconstruct text to generate valuable summarizations of sentences or paragraphs <sub>⭐ 39 · Python</sub>
-- [dataprofessor/langchain-text-summarization](https://github.com/dataprofessor/langchain-text-summarization) - Text Summarization App built using Langchain and Streamlit <sub>⭐ 39 · Python</sub>
-- [echo-saurav/obsidian-ai-note-suggestion](https://github.com/echo-saurav/obsidian-ai-note-suggestion) - An plugin for Obsidian.md for effortlessly get note suggestions base on semantic meaning as you type, eliminating the need for complex tagging. Simplifying note-taking <sub>⭐ 39 · TypeScript</sub>
-- [hxcm-cre/scholar-agent](https://github.com/hxcm-cre/scholar-agent) - Scholar-Agent Intelligent Research Assistant, Literature Search, Metric Extraction, AI Analysis <sub>⭐ 39 · Python</sub>
-- [hyukkyukang/table-to-text](https://github.com/hyukkyukang/table-to-text) - Table-to-Text Summarization Model <sub>⭐ 39 · Python</sub>
-- [jiacheng-xu/neu-compression-sum](https://github.com/jiacheng-xu/neu-compression-sum) - Joint Extraction & Compression text Summarization <sub>⭐ 39 · Python</sub>
-- [khwerhahn/MindMatrix](https://github.com/khwerhahn/MindMatrix) - Obsidian plugin to push vault notes to a postgres vector database to use in personal ai assistants <sub>⭐ 39 · TypeScript</sub>
-- [nsi319/Finetune-Transformers](https://github.com/nsi319/Finetune-Transformers) - Abstractive text summarization by fine-tuning seq2seq models. <sub>⭐ 39 · Python</sub>
-- [saidziani/Sumrized](https://github.com/saidziani/Sumrized) - Automatic Text Summarization (English/Arabic). <sub>⭐ 39 · Jupyter Notebook</sub>
-- [theRizwan/llm7-codex-proxy](https://github.com/theRizwan/llm7-codex-proxy) - Python proxy that lets the Codex app talk to LLM7 through an OpenAI-compatible local endpoint. Translates Responses API requests into chat completions, preserves tool definitions, and streams… <sub>⭐ 39 · Python</sub>
-- [tuan3w/obsidian-vault-agent](https://github.com/tuan3w/obsidian-vault-agent) - Claude Code plugin: AI agent for your Obsidian vault — process books, courses, papers, YouTube into connected notes <sub>⭐ 39 · Python</sub>
-- [ajinkya933/ClearText](https://github.com/ajinkya933/ClearText) - ClearText is an AI-powered text detection and enhancement tool that helps make text in images more readable and clearer. Perfect for improving the legibility of text in scanned documents, photos, and… <sub>⭐ 38 · Python</sub>
-- [oneai-nlp/oneai-python](https://github.com/oneai-nlp/oneai-python) - Python SDK for One AI APIs. One AI is an NLP-as-a-service platform. Our APIs enables language comprehension in context, transforming texts from any source into structured data to use in code. <sub>⭐ 38 · Python</sub>
-- [orion-gz/EasyPaper](https://github.com/orion-gz/EasyPaper) - Workspace for documents with AI <sub>⭐ 38 · JavaScript</sub>
-- [WING-NUS/SWING](https://github.com/WING-NUS/SWING) - The Summarizer from the Web IR / NLP Group (WING), hence SWING, is a modular, state-of-the-art automatic extractive text summarization system. It is used as the basis for summarization research at… <sub>⭐ 38 · Ruby</sub>
-- [ArGintum/GPTID](https://github.com/ArGintum/GPTID) - Official code repository for article Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts <sub>⭐ 37 · Jupyter Notebook</sub>
-- [AudayBerro/automatedParaphrase](https://github.com/AudayBerro/automatedParaphrase) - Automated paraphrases Generation <sub>⭐ 37 · Python</sub>
-- [bramses/summarize-with-gpt3-obsidian](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian (progressive summarization) <sub>⭐ 37 · TypeScript</sub>
-- [CristiVlad25/chromeGPT](https://github.com/CristiVlad25/chromeGPT) - A chrome extension that uses GPT3 to summarize highlighted text. <sub>⭐ 37 · JavaScript</sub>
-- [G9KBytes-Labs/Plaud-Claude-Obsidian](https://github.com/G9KBytes-Labs/Plaud-Claude-Obsidian) - Plaud → Claude → Obsidian Audio Pipeline An automated pipeline that transcribes audio recordings from a Plaud device and converts them into structured Obsidian notes using AI. <sub>⭐ 37 · Python</sub>
-- [hummat/paperpipe](https://github.com/hummat/paperpipe) - Extract equations and context from research papers for LLM coding assistants (arXiv, LaTeX, RAG) <sub>⭐ 37 · Python</sub>
-- [magefan/module-translation](https://github.com/magefan/module-translation) - Magento 2 Translation Extension is a solution that allows you to override and translate all pages in your store directly from the admin panel using manual translation forms or automatically with the… <sub>⭐ 37 · PHP</sub>
-- [microsoft/Text2Grad](https://github.com/microsoft/Text2Grad) - Text2Grad: Converting natural language feedback into gradient signals for precise model optimization. Revolutionizing RLHF with span-level rewards and targeted improvements across code generation… <sub>⭐ 37 · Python</sub>
-- [tsundereraws/aisub-translator](https://github.com/tsundereraws/aisub-translator) - A Python-based tool that translates subtitle files (.ass, .srt) using AI APIs from OpenAI, Anthropic's Claude, OpenRouter, MistralAI and DeepSeek. <sub>⭐ 37 · Python</sub>
-- [Azure-Samples/sonic-brief](https://github.com/Azure-Samples/sonic-brief) - Sonic Brief Project is an Azure-based system that transcribes and summarizes voice recordings using Azure Speech-to-Text and GPT-4o, streamlining workflows for businesses, healthcare, and legal use… <sub>⭐ 36 · TypeScript</sub>
-- [hclivess/ollama-batch-processor](https://github.com/hclivess/ollama-batch-processor) - Batch processor to enable large content be digested by Ollama, focused around book processing and translations by default, fully configurable through json. <sub>⭐ 36 · Python</sub>
-- [hugomossberg/Babel](https://github.com/hugomossberg/Babel) - Automated AI subtitle extractor, SDH-cleaner and translator. <sub>⭐ 36 · Python</sub>
-- [kaminoguo/xiaoniao](https://github.com/kaminoguo/xiaoniao) - Lightweight AI-powered typing translator - translate as you type with clipboard monitoring <sub>⭐ 36 · Go</sub>
-- [nicolaischneider/obsidianRAGsody](https://github.com/nicolaischneider/obsidianRAGsody) - CLI tool for intelligent Obsidian vault interaction using RAG. Query your notes with natural language and convert URLs to markdown files with AI-powered content extraction. <sub>⭐ 36 · Python</sub>
-- [NucleusFramework/EdgeTranslator](https://github.com/NucleusFramework/EdgeTranslator) - Offline Ai translator for desktop <sub>⭐ 36 · Kotlin</sub>
-- [prakhar21/T5-Text-to-Text-Transfer-Transformer](https://github.com/prakhar21/T5-Text-to-Text-Transfer-Transformer) - Demo of the T5 model for various pre-trained task. <sub>⭐ 36 · Jupyter Notebook</sub>
-- [xuzhe35/LLM-Subtitles](https://github.com/xuzhe35/LLM-Subtitles) - Automatic subtitle generation and translation tool with vulnerability fixes. <sub>⭐ 36 · Python</sub>
-- [yigitkonur/cli-localize](https://github.com/yigitkonur/cli-localize) - AI-powered localization CLI — SRT, JSON, PO, XML, ARB with token-aware batching <sub>⭐ 36 · Python</sub>
-- [andersondanieln/polyglot](https://github.com/andersondanieln/polyglot) - Desktop application for instant AI-powered text transformation. Translate, correct, summarize, and change the tone of any text, anywhere, using your local AI instance. <sub>⭐ 35 · TypeScript</sub>
-- [athina-ai/ariadne](https://github.com/athina-ai/ariadne) - LLM Evals for Text Summarization and RAG use-cases. <sub>⭐ 35 · Python</sub>
-- [kariminf/allsummarizer](https://github.com/kariminf/allsummarizer) - Multilingual automatic text summarizer using statistical approach and extraction <sub>⭐ 35 · Java</sub>
-- [L0Z1K/para-Kor](https://github.com/L0Z1K/para-Kor) - Create paraphrasing korean sentence with GPT-3 <sub>⭐ 35 · Python</sub>
-- [laurensent/InstantLingua](https://github.com/laurensent/InstantLingua) - InstantLingua – LLM-Driven PopClip Extension for Translation & Writing. Supports AI from OpenAI, Claude, Grok, and Gemini. <sub>⭐ 35 · TypeScript</sub>
-- [lehuyqq/Manga-Translator-Extension](https://github.com/lehuyqq/Manga-Translator-Extension) - Browser extension for translating manga pages in-browser using your own LLM provider, with page scanning, auto-translate, outside-text detection, and a local FastAPI backend. <sub>⭐ 35 · Python</sub>
-- [P4ST4S/AutoScanlate-AI](https://github.com/P4ST4S/AutoScanlate-AI) - A fully local, GPU-accelerated pipeline to automatically translate manga/comics. Features YOLO detection, MangaOCR, LLM translation (Qwen), and smart typesetting. No external APIs. <sub>⭐ 35 · Go</sub>
-- [aalobaidi/ggRMCP](https://github.com/aalobaidi/ggRMCP) - ggRMCP is a gateway that converts gRPC services into MCP-compatible tools, allowing AI models like Claude to directly call your gRPC services. It acts as a translator between the gRPC world and the… <sub>⭐ 34 · Go</sub>
-- [bmen25124/SillyTavern-Magic-Translation](https://github.com/bmen25124/SillyTavern-Magic-Translation) - A SillyTavern extension that translates chat with your favorite LLM. <sub>⭐ 34 · TypeScript</sub>
-- [daniel3303/AgentQL](https://github.com/daniel3303/AgentQL) - Reusable .NET library that translates EF Core models into LLM-friendly schema descriptions and provides safe SQL query execution for AI agents. <sub>⭐ 34 · C#</sub>
-- [eugeneyan/discord-llm](https://github.com/eugeneyan/discord-llm) - Experimenting with LLMs to Research, Reflect, and Plan (LLM assistants, retrieval, and Discord integration) <sub>⭐ 34 · Jupyter Notebook</sub>
-- [HugoBlox/hugo-theme-markdown-slides](https://github.com/HugoBlox/hugo-theme-markdown-slides) - Presentation slides from Markdown — LaTeX math, code highlighting, speaker notes, Git version control. AI generates pages, you own them forever. 演示文稿，Markdown 编写 <sub>⭐ 34</sub>
-- [KazKozDev/live-translation](https://github.com/KazKozDev/live-translation) - Local, real-time system-audio captioner + translator for macOS — Whisper + a local LLM + a glass overlay. Fully offline. <sub>⭐ 34 · Python</sub>
-- [morningmoni/CiteSum](https://github.com/morningmoni/CiteSum) - Dataset, models, and code for paper "CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation", EMNLP 2022 <sub>⭐ 34 · Python</sub>
-- [onekapisch/easy-write](https://github.com/onekapisch/easy-write) - Translate & rewrite text anywhere on your Mac — formal or informal — 100% on-device with Apple Intelligence. No accounts, no API keys, no cloud. A free, open-source DeepL / Google Translate… <sub>⭐ 34 · Swift</sub>
-- [Travvy88/DocumentGenerator_DoGe](https://github.com/Travvy88/DocumentGenerator_DoGe) - Synthetic Document Generator for Document AI. Creates document images annotated with text and bounding boxes of each word. Images contain headings, tables, paragraphs with different formatting and… <sub>⭐ 34 · Python</sub>
-- [ayushgptaa/Cruxe-Extension](https://github.com/ayushgptaa/Cruxe-Extension) - A google Chrome extension for summarizing text on a web page <sub>⭐ 33 · CSS</sub>
-- [combobulativedesigns/gptwntranslator](https://github.com/combobulativedesigns/gptwntranslator) - A web novel translator using OpenAI's GPT AI models <sub>⭐ 33 · Python</sub>
-- [dahlia/vertana](https://github.com/dahlia/vertana) - LLM-powered agentic translation library for JavaScript/TypeScript <sub>⭐ 33 · TypeScript</sub>
-- [EricXu20266/llm-proxy](https://github.com/EricXu20266/llm-proxy) - Codex + Claude → DeepSeek or other llm 本地代理 / Agent Protocol Translation Proxy <sub>⭐ 33</sub>
-- [instadeepai/DEgym](https://github.com/instadeepai/DEgym) - A LLM-friendly framework for translating dynamical equations to gymnasium-compatible RL environments. <sub>⭐ 33 · Python</sub>
-- [letuhao/lore-weave](https://github.com/letuhao/lore-weave) - Open-source AI co-author for novelists & world-builders. Canon-safe writing · RAG lore glossary · polyglot translation · BYOK multi-LLM. Living-world MMO RPG extension — step inside the worlds you… <sub>⭐ 33 · Python</sub>
-- [ngockhanh5110/nlp-vietnamese-text-summarization](https://github.com/ngockhanh5110/nlp-vietnamese-text-summarization) - Deploy PhoBERT for Abstractive Text Summarization as REST API using StreamLit, Transformers by Hugging Face and PyTorch <sub>⭐ 33 · Jupyter Notebook</sub>
-- [Sun-Yize/ThinkLingo](https://github.com/Sun-Yize/ThinkLingo) - Multilingual LLM chat that standardizes reasoning quality by translating to a chosen processing language before inference. <sub>⭐ 33 · TypeScript</sub>
-- [tristan-mcinnis/PPT-Translator-Formatting-Intact-with-LLMs](https://github.com/tristan-mcinnis/PPT-Translator-Formatting-Intact-with-LLMs) - A powerful PowerPoint translation tool that preserves all formatting while translating content using the Deepseek API. This tool maintains fonts, colors, layouts, and other styling elements while… <sub>⭐ 33 · Python</sub>
-- [bjoernpl/GermanBenchmark](https://github.com/bjoernpl/GermanBenchmark) - A repository containing the code for translating popular LLM benchmarks to German. <sub>⭐ 32 · Python</sub>
-- [Electricitysheep/ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - AI Agent engineering and quantitative finance knowledge base: source-level architecture analysis, Agent-to-Agent protocol research, runnable code experiments, industry insights. Obsidian vault, ready… <sub>⭐ 32 · Python</sub>
-- [Frzgunr1/SakuraDict](https://github.com/Frzgunr1/SakuraDict) - A dict for llm translation model. <sub>⭐ 32 · Python</sub>
-- [gazalpatel/AI-Chat-Bot](https://github.com/gazalpatel/AI-Chat-Bot) - This repository includes Artificial Intelligence implementation in java language to create chatbot. Chat bot is created in Core Java and Swing Project using Eclipse IDE. Projects can be run on other… <sub>⭐ 32 · Java</sub>
-- [goobolabs/SomNLP-Translate](https://github.com/goobolabs/SomNLP-Translate) - SomNLP-Translate is an open, high-quality English–Somali parallel dataset designed to support research and development in machine translation, Natural Language Processing (NLP), Large Language Models… <sub>⭐ 32 · Rust</sub>
-- [hetpandya/paraphrase-datasets-pretrained-models](https://github.com/hetpandya/paraphrase-datasets-pretrained-models) - A collection of preprocessed datasets and pretrained models for generating paraphrases. <sub>⭐ 32</sub>
-- [hussam123/Text-Summarization](https://github.com/hussam123/Text-Summarization) - Abstractive and Extractive Deep Learning Methods for Text Summarisation <sub>⭐ 32</sub>
-- [juan-csv/GPT3-text-summarization](https://github.com/juan-csv/GPT3-text-summarization) - Summarization, topic generation using GPT3 <sub>⭐ 32 · Jupyter Notebook</sub>
-- [matatusko/seq2seq](https://github.com/matatusko/seq2seq) - Universal seq2seq model for question generation, text summarization, machine translation etc. written in Python and Tensorflow 1.4 with Tensorflow's Beam Search API decoder <sub>⭐ 32 · Python</sub>
-- [mlverse/lang](https://github.com/mlverse/lang) - Uses LLMs to translate R help docs on the fly <sub>⭐ 32 · R</sub>
-- [NainiShah/News-Headline-Generation](https://github.com/NainiShah/News-Headline-Generation) - Our goal is to implement text summarization by generating headline for a news body using recurrent neural networks. We attempt to reproduce the results in the paper… <sub>⭐ 32 · Jupyter Notebook</sub>
-- [snrazavi/Deep-Learning-for-NLP](https://github.com/snrazavi/Deep-Learning-for-NLP) - Contains different course tutorials and jupyter notebook file for applying different Deep Learning models in different NLP tasks such as text classification, summarization, translation, etc. <sub>⭐ 32 · Jupyter Notebook</sub>
-- [tmu-nlp/simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - A paraphrase database for Japanese text simplification <sub>⭐ 32 · Python</sub>
-- [vmr2323/AI-Text-Summarizer-](https://github.com/vmr2323/AI-Text-Summarizer-) - AI Text Summarizer is a web application that uses artificial intelligence to generate concise summaries of long texts. It helps users quickly extract key information from articles, research papers… <sub>⭐ 32</sub>
-- [EasyMetaAu/helm-api](https://github.com/EasyMetaAu/helm-api) - Self-hosted LLM gateway — route OpenAI/Anthropic/Gemini traffic by config, not code. Fallback, protocol translation, telemetry. <sub>⭐ 31 · TypeScript</sub>
-- [Eldoprano/offline-browser-translate](https://github.com/Eldoprano/offline-browser-translate) - Privacy-focused translation using local LLMs (Ollama, LMStudio). <sub>⭐ 31 · JavaScript</sub>
-- [marco0antonio0/translate-manga-br](https://github.com/marco0antonio0/translate-manga-br) - Local-first manga translator with AI-powered bubble detection, OCR, automatic translation, an editable web reader, browser extension, and local persistence. <sub>⭐ 31 · TypeScript</sub>
-- [OthmanAdi/promptfusion](https://github.com/OthmanAdi/promptfusion) - Three-layer prompt composition system for AI agents. Translates numerical weights into semantic priorities that LLMs actually follow. Framework-agnostic, open source, built for production multi-agent… <sub>⭐ 31 · JavaScript</sub>
-- [ymoslem/Adaptive-MT-LLM](https://github.com/ymoslem/Adaptive-MT-LLM) - Adaptive Machine Translation with Large Language Models <sub>⭐ 31 · JavaScript</sub>
-- [ComfyUI-Kelin/ComfyUI-LLMs-Toolkit](https://github.com/ComfyUI-Kelin/ComfyUI-LLMs-Toolkit) - ComfyUI custom nodes for DeepSeek, Qwen, GPT, and other OpenAI-compatible LLM APIs, with tools for chat, translation, vision, and JSON workflows. <sub>⭐ 30 · Python</sub>
-- [heuwels/lector](https://github.com/heuwels/lector) - Language-learning reader: EPUB and YouTube, click-to-translate, cloze SRS, Anki sync. Free for self-hosting with a cloud option. <sub>⭐ 30 · TypeScript</sub>
-- [himanshujindal/Automatic-Text-Summarizer](https://github.com/himanshujindal/Automatic-Text-Summarizer) - Automatic Document Summarizer using Bipartite HITS, Natural Language Processing (NLP) <sub>⭐ 30 · Shell</sub>
-- [HydraRobot/attention_RNN_for_textsum](https://github.com/HydraRobot/attention_RNN_for_textsum) - This is to reproduce article <sub>⭐ 30 · Python</sub>
-- [jiacheng-xu/text-sum-uncertainty](https://github.com/jiacheng-xu/text-sum-uncertainty) - Code for "Understanding Neural Abstractive Summarization Models via Uncertainty" (EMNLP20) <sub>⭐ 30 · Python</sub>
-- [jwieting/paragram-word](https://github.com/jwieting/paragram-word) - Python code for training Paragram word embeddings. These achieve human-level performance on some word similiarty tasks including SimLex-999.This code was used to obtain results in the appendix of our… <sub>⭐ 30 · Python</sub>
-- [omaaartamer/ScientificPaperAgent](https://github.com/omaaartamer/ScientificPaperAgent) - A LangGraph-based research assistant that helps find, analyze, and summarize scientific papers. Built with Mistral LLM (via Ollama) and Flask, this agent can search papers through CORE API, process… <sub>⭐ 30 · Python</sub>
-- [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) - The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window. Filesystem-direct, single-digit-ms search, ~2 KB payloads, 17 tools. <sub>⭐ 30 · TypeScript</sub>
-- [danielrosehill/Hebrew-AI-Models](https://github.com/danielrosehill/Hebrew-AI-Models) - A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more <sub>⭐ 29</sub>
-- [daqing/gpt-translator](https://github.com/daqing/gpt-translator) - Translate markdown files using GPT-4 model <sub>⭐ 29 · Python</sub>
-- [forsatus/Subtitle-AI-Translator](https://github.com/forsatus/Subtitle-AI-Translator) - AI-powered tool for seamless subtitle translation, enabling cross-language accessibility for video content. <sub>⭐ 29 · Python</sub>
-- [g-hano/Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant) - A study assistant powered by Claude Opus. It provides various tools to assist with different tasks, such as researching,coding,note-taking and more. <sub>⭐ 29 · Python</sub>
-- [LunaticPrakash/Text-Summarization](https://github.com/LunaticPrakash/Text-Summarization) - Using Spacy and NLTK module with Tf-Idf algorithm for text-summarisation. This code will give you the summary of inputted article. You can input text directly or from .txt file, .pdf file or from… <sub>⭐ 29 · Python</sub>
-- [MarkGHX/BiScope](https://github.com/MarkGHX/BiScope) - Official Implementation of NeurIPS 2024 paper - BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens <sub>⭐ 29 · Python</sub>
-- [nikhilcss97/Text-Summarization](https://github.com/nikhilcss97/Text-Summarization) - Jupyter notebooks for text summarization using Deep Learning techniques <sub>⭐ 29 · Jupyter Notebook</sub>
-- [safakkbilici/Academic-Paper-Title-Recommendation](https://github.com/safakkbilici/Academic-Paper-Title-Recommendation) - Supervised text summarization (title generation/recommendation) based on academic paper abstracts, with Seq2Seq LSTM and T5. <sub>⭐ 29 · Python</sub>
-- [samrahimi/synthia-new](https://github.com/samrahimi/synthia-new) - chatbot framework that allows for the creation of highly customized models using structured prompts against the base text-davinci models... extends context window via summarization. Donate if you… <sub>⭐ 29 · CSS</sub>
-- [Alex-Programs/nuenki-consensus-translate](https://github.com/Alex-Programs/nuenki-consensus-translate) - Use an appropriate mix of LLMs based on https://nuenki.app/blog research to translate languages better than any one tool. <sub>⭐ 28 · Rust</sub>
-- [AmrHendy/programming-language-translator](https://github.com/AmrHendy/programming-language-translator) - An easy way to use the released TransCoder by Facebook AI Research to convert code from one programming language to another using unsupervised neural machine translation (NMT) systems that use… <sub>⭐ 28 · Jupyter Notebook</sub>
-- [EutropicAI/yuisub](https://github.com/EutropicAI/yuisub) - Auto translation of new anime episodes based on Yui-MHCP001 <sub>⭐ 28 · Python</sub>
-- [LAB02-Research/DeepL-Translator](https://github.com/LAB02-Research/DeepL-Translator) - Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages. <sub>⭐ 28 · C#</sub>
-- [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - Proxy and universal translation server to Argo API, OpenAI (Chat+Responses), Anthropic (Messages), Google (GenAI) format compatible. This is for Argonne User ONLY. For general purpose version, please… <sub>⭐ 28 · Python</sub>
-- [Plumbiu/ai-translator](https://github.com/Plumbiu/ai-translator) - Google AI Translator extension, using Google Chrome's built-in AI. <sub>⭐ 28 · TypeScript</sub>
-- [retkowsky/azure-ai-translator](https://github.com/retkowsky/azure-ai-translator) - Azure AI Translator demos <sub>⭐ 28 · Jupyter Notebook</sub>
-- [sentientsergio/COBOL-Legacy-Benchmark-Suite](https://github.com/sentientsergio/COBOL-Legacy-Benchmark-Suite) - A production-grade implementation of an Investment Portfolio Management System created for testing LLM translation of real world legacy applications. <sub>⭐ 28 · COBOL</sub>
-- [shradha-khapra/Summarizer-HF](https://github.com/shradha-khapra/Summarizer-HF) - Text Summarizer App - Transformer Minor Project (using HuggingFace & FastAPI) <sub>⭐ 28 · HTML</sub>
-- [shyhirt/AutoDub](https://github.com/shyhirt/AutoDub) - Automatic video translator and dubber using Whisper, XTTS v2 for voice cloning, and Ollama for local LLM translation. Supports 100+ languages. <sub>⭐ 28 · Python</sub>
-- [trashhalo/logseq-summarizer](https://github.com/trashhalo/logseq-summarizer) - Logseq plugin to summarize text <sub>⭐ 28 · JavaScript</sub>
-- [Ankur2606/Low-latency-AI-Voice-Assistant](https://github.com/Ankur2606/Low-latency-AI-Voice-Assistant) - End-to-End AI Voice Assistant pipeline with Whisper for Speech-to-Text, Hugging Face LLM for response generation, and Edge-TTS for Text-to-Speech. Features include Voice Activity Detection (VAD)… <sub>⭐ 27 · Jupyter Notebook</sub>
-- [cmots/STEB](https://github.com/cmots/STEB) - A Speech-to-Speech Translation Expressiveness Benchmark. Evaluate emotion, scenario style, NV preservation in S2ST with LLM-as-a-judge. <sub>⭐ 27 · Python</sub>
-- [denocris/NLP-Workshop-MLMilan](https://github.com/denocris/NLP-Workshop-MLMilan) - Advanced NLP Workshop: word-sense disambiguation with RoBERTa and text summarization with BART (Machine Learning Milan) <sub>⭐ 27 · Jupyter Notebook</sub>
-- [IBM/MAX-Text-Summarizer](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text <sub>⭐ 27 · Python</sub>
-- [Misaghlb/EV-Translator-AI](https://github.com/Misaghlb/EV-Translator-AI) - A Chrome extension to translate any text and tweets to any language (Persian by default) using Gemini AI. <sub>⭐ 27 · JavaScript</sub>
-- [Ner-Kun/Lorebook-Gemini-Translator](https://github.com/Ner-Kun/Lorebook-Gemini-Translator) - Аpplication designed to help translate LORE-book keys/triggers from one language to another using AI. <sub>⭐ 27 · Python</sub>
-- [nicknochnack/Hugging-Face-Transformers-Summarization](https://github.com/nicknochnack/Hugging-Face-Transformers-Summarization) - A super fast walkthrough of NLP Text Summarization with Hugging Face Transformers. <sub>⭐ 27 · Jupyter Notebook</sub>
-- [nmdra/notebrain-cli](https://github.com/nmdra/notebrain-cli) - A local-first CLI that makes your Obsidian vault (or Markdown Notes) searchable and AI-Agents queryable with semantic search and hidden connections. <sub>⭐ 27 · Go</sub>
-- [Yeq6X/mazelingo](https://github.com/Yeq6X/mazelingo) - Sentence-level bilingual mix translator — Chrome extension (MV3). Read the web with your two languages mixed sentence by sentence. <sub>⭐ 27 · TypeScript</sub>
-- [Drlinglong/Remis](https://github.com/Drlinglong/Remis) - AI-powered desktop localization for game mods: Paradox games and Surviving Mars: Relaunched, with RimWorld and Project Zomboid in preview. Local-first projects, format validation, translation… <sub>⭐ 26 · Python</sub>
-- [ginking/archimedes-1](https://github.com/ginking/archimedes-1) - Archimedes 1 is a bot based sentient based trader, heavily influenced on forked existing bots, with a few enhancements here or there, this was completed to understand how the bots worked to roll the… <sub>⭐ 26 · Python</sub>
-- [meshackbahati/plagiarism-detection](https://github.com/meshackbahati/plagiarism-detection) - Plagiarism and AI-generated content detection system with text and image comparison,. <sub>⭐ 26 · Python</sub>
-- [nazarli-shabnam/ReadAble](https://github.com/nazarli-shabnam/ReadAble) - Mobile assistive reading app that uses on-device OCR, summarization, and TTS to make printed text easier to read for people with dyslexia and reading difficulties. <sub>⭐ 26 · JavaScript</sub>
-- [ranahaani/polyglot](https://github.com/ranahaani/polyglot) - Polyglot is a web-based code translator that Use AI to translate code from one language to another. <sub>⭐ 26 · TypeScript</sub>
-- [rufeng0411/Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share multi-agent research desk: 15-agent debate, optional Tushare Level-2 order queue, K-line workstation with AI insight, and a signal translation layer so models read conclusions —… <sub>⭐ 26 · Python</sub>
-- [SilverSolver/ai_boundary_detection](https://github.com/SilverSolver/ai_boundary_detection) - AI-generated text boundary detection with RoFT <sub>⭐ 26 · Jupyter Notebook</sub>
-- [zuuzii-org/token-share](https://github.com/zuuzii-org/token-share) - Token-Share: A native macOS menu bar LLM API gateway — translate and stream between OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages protocols locally. <sub>⭐ 26 · Swift</sub>
-- [ahmedheakl/ArzEn-LLM](https://github.com/ahmedheakl/ArzEn-LLM) - Code-Switched translations with Large Language models <sub>⭐ 25 · Python</sub>
-- [aialamin/Summarize-a-PDF-using-chat-gpt-and-python](https://github.com/aialamin/Summarize-a-PDF-using-chat-gpt-and-python) - Using Python and Chat GPT-3, convert a PDF to text, slice and summarize it, create a new summary and key notes, and a step-by-step guide. Summarize the essentials, write a blog post, and make… <sub>⭐ 25 · Python</sub>
-- [Arthur-Ficial/translate](https://github.com/Arthur-Ficial/translate) - On-device translator for macOS Tahoe — UNIX filter + drop-in HTTP server compatible with DeepL, LibreTranslate, and Google v2. 100% on-device, no cloud, no LLM, no API keys. <sub>⭐ 25 · Swift</sub>
-- [bhattbhavesh91/text-summarizer-using-BERT](https://github.com/bhattbhavesh91/text-summarizer-using-BERT) - Text summarization with BERT using bert-extractive-summarizer <sub>⭐ 25 · Jupyter Notebook</sub>
-- [BioTextSumm/BERT-based-Summ](https://github.com/BioTextSumm/BERT-based-Summ) - BERT-based Biomedical Text Summarizer <sub>⭐ 25</sub>
-- [BrsDincer/Psychological-Assistant](https://github.com/BrsDincer/Psychological-Assistant) - Within the scope of psychology, it is an LLM AI-Bot research aimed at increasing human interaction with AI. <sub>⭐ 25 · Python</sub>
-- [ckmtools/textlens](https://github.com/ckmtools/textlens) - Zero-dependency TypeScript text analysis and readability toolkit. 8 readability formulas, sentiment analysis, keyword extraction, SEO scoring, summarization, and CLI. <sub>⭐ 25 · TypeScript</sub>
-- [djethino/UnityGameTranslator](https://github.com/djethino/UnityGameTranslator) - Universal Unity games automatic local AI translation and communtity sharing and improvments <sub>⭐ 25 · C#</sub>
-- [erickrf/ppdb](https://github.com/erickrf/ppdb) - Interface for reading the Paraphrase Database (PPDB) <sub>⭐ 25 · Python</sub>
-- [genesis-ai-dev/codex-editor](https://github.com/genesis-ai-dev/codex-editor) - Codex Translation Editor and Translator's Copilot <sub>⭐ 25 · TypeScript</sub>
-- [gettranslatebot/translatebot-django](https://github.com/gettranslatebot/translatebot-django) - Translate Django .po files and model fields with AI. Repeatable, consistent, and pennies per language. <sub>⭐ 25 · Python</sub>
-- [HongjianTang/obsidian-insighta](https://github.com/HongjianTang/obsidian-insighta) - InsightA is an Obsidian plugin, can transform long articles into concise, atomic notes, and create well-organized Map of Content (MOC) for notes using LLM. This tool is ideal for anyone aiming to… <sub>⭐ 25 · TypeScript</sub>
-- [jnMetaCode/agency-agents-id](https://github.com/jnMetaCode/agency-agents-id) - 187 plug-and-play AI agent personas dalam Bahasa Indonesia — Indonesian translation of agency-agents + 3 Indonesian-market originals (Tokopedia/Gojek/WhatsApp Business ID) <sub>⭐ 25 · Shell</sub>
-- [kouhxp/fftext](https://github.com/kouhxp/fftext) - Summarize, explain, fact-check, or translate any text, URL, or file. No GPU. No cloud. One command <sub>⭐ 25 · Python</sub>
-- [L-Zhe/CoRPG](https://github.com/L-Zhe/CoRPG) - Code for paper Document-Level Paraphrase Generation with Sentence Rewriting and Reordering by Zhe Lin, Yitao Cai and Xiaojun Wan. This paper is accepted by Findings of EMNLP'21. <sub>⭐ 25 · Python</sub>
-- [louisteo9/t5-text-summarizer](https://github.com/louisteo9/t5-text-summarizer) - Use Google's state-of-the-art T5 pre-train model to create human-like summarization <sub>⭐ 25 · Jupyter Notebook</sub>
-- [shibing624/title-generator](https://github.com/shibing624/title-generator) - Automatic Text Summarization and Title Generation. <sub>⭐ 25 · Python</sub>
-- [tdopierre/ProtAugment](https://github.com/tdopierre/ProtAugment) - Code for ProtAugment: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning <sub>⭐ 25 · Python</sub>
-- [AstraBert/PhiQwenSTEM](https://github.com/AstraBert/PhiQwenSTEM) - A reasoning assistant for your STEM education <sub>⭐ 24 · TypeScript</sub>
-- [gerfalcon/offline_menu_translator](https://github.com/gerfalcon/offline_menu_translator) - Flutter app demonstrating on-device AI with Gemma 3N <sub>⭐ 24 · C++</sub>
-- [hhprojects/dive-into-llms-en](https://github.com/hhprojects/dive-into-llms-en) - Dive into LLMs — English translation of Lordog/dive-into-llms <sub>⭐ 24 · Jupyter Notebook</sub>
-- [Ho3seinTork/Translator-Telegram-Bot-with-LLMs](https://github.com/Ho3seinTork/Translator-Telegram-Bot-with-LLMs) - A Telegram bot for high-quality text translation using the Deepseek LLM. Supports multiple languages and integrates with the Telegram Bot API for seamless translations. <sub>⭐ 24 · Python</sub>
-- [Moeinh77/Transformers-for-abstractive-summarization](https://github.com/Moeinh77/Transformers-for-abstractive-summarization) - Abstractive Text Summarization with Transformer networks implemented (from scratch) using Keras and Tensorflow <sub>⭐ 24 · Jupyter Notebook</sub>
-- [N0iire/Image-to-text-Translate](https://github.com/N0iire/Image-to-text-Translate) - Image to text translator using Open AI API & Tesseract <sub>⭐ 24 · Python</sub>
-- [Parithosh-Varma/zen-proxy](https://github.com/Parithosh-Varma/zen-proxy) - zen-proxy is a local translation proxy that bridges Claude Code's Anthropic Messages API with OpenCode Zen's OpenAI‑compatible Chat Completions endpoint (https://opencode.ai/zen/v1). It forwards… <sub>⭐ 24 · JavaScript</sub>
-- [richawo/llm-translator](https://github.com/richawo/llm-translator) - Translate Markdown files from one language to another using OpenAI's API while retaining original formatting. This Jupyter notebook tokenizes input text, splits into chunks, translates with OpenAI… <sub>⭐ 24 · Jupyter Notebook</sub>
-- [Swadeshswami/FineSurE](https://github.com/Swadeshswami/FineSurE) - FineSurE is a multi-dimensional, fine-grained automated evaluation framework for text summarization. It covers there distinctive evaluation dimensions, namely faithfulness, completeness, and… <sub>⭐ 24 · Python</sub>
-- [avidale/dependency-paraphraser](https://github.com/avidale/dependency-paraphraser) - A sentence paraphraser based on dependency parsing and word embedding similarity. <sub>⭐ 23 · Python</sub>
-- [Cs4K1Sr4C/ATi18n](https://github.com/Cs4K1Sr4C/ATi18n) - AI driven interactive and autonomous i18n extractor and translator for projects with i18n internationalization modules <sub>⭐ 23 · TypeScript</sub>
-- [deveworld/KorT](https://github.com/deveworld/KorT) - Korean Translation Benchmark, LLM-as-a-judge <sub>⭐ 23 · Python</sub>
-- [fzp0424/MT-Ladder](https://github.com/fzp0424/MT-Ladder) - (EMNLP'24) Code and data for paper "Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level" <sub>⭐ 23 · Python</sub>
-- [ICTMCG/POGER](https://github.com/ICTMCG/POGER) - Official Repository for "Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling", IJCAI 2024. <sub>⭐ 23 · Python</sub>
-- [jatinarora2702/Research-Text-Summarization](https://github.com/jatinarora2702/Research-Text-Summarization) - System for extractive summarization of research text using deep learning <sub>⭐ 23 · HTML</sub>
-- [JichengTech/LLM-Detector](https://github.com/JichengTech/LLM-Detector) - This is an official implementation of paper "LLM-Detector: Improving AI-Generated Chinese Text Detection with Open-Source LLM Instruction Tuning" <sub>⭐ 23</sub>
-- [lancopku/HSSC](https://github.com/lancopku/HSSC) - Code for "A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification" (IJCAI 2018) <sub>⭐ 23 · Python</sub>
-- [menachem-dadon/APK-Translator-AI](https://github.com/menachem-dadon/APK-Translator-AI) - Automatic translation of Android apps in a click using advanced AI models <sub>⭐ 23 · Python</sub>
-- [nguyenvanduocit/epubtrans](https://github.com/nguyenvanduocit/epubtrans) - quickly translate epub books into a bilingual book using Anthropic LLMs <sub>⭐ 23 · Go</sub>
-- [smahdink/LLMTranslate](https://github.com/smahdink/LLMTranslate) - Translate your large PDF files with ease using the power of Large Language Models! <sub>⭐ 23 · Python</sub>
-- [VincentK16/azure-ai-services-webapp](https://github.com/VincentK16/azure-ai-services-webapp) - This repository contains code designed to faciliate your experimentation and epxloration with the Azure AI Services such as Azure AI Language, Azure AI Speech, Azure AI Translator, and etc... <sub>⭐ 23 · HTML</sub>
-- [arpit3043/Extractive-Text-Summerization](https://github.com/arpit3043/Extractive-Text-Summerization) - Summarization systems often have additional evidence they can utilize in order to specify the most important topics of document(s). For example, when summarizing blogs, there are discussions or… <sub>⭐ 22 · Jupyter Notebook</sub>
-- [arupdas0825/ai-code-translator](https://github.com/arupdas0825/ai-code-translator) - AI Code Translator is a TypeScript-based tool designed to translate code across multiple programming languages using artificial intelligence. The project combines various technologies including… <sub>⭐ 22 · TypeScript</sub>
-- [BH-So/unsupervised-paraphrase-generation](https://github.com/BH-So/unsupervised-paraphrase-generation) - "Unsupervised Paraphrase Generation using Pre-trained Language Model." <sub>⭐ 22 · Python</sub>
-- [chaosen315/AIwork4translator](https://github.com/chaosen315/AIwork4translator) - AI-powered translation tool for professionals handling technical documents, long texts, novels, and rulebooks. Optimizes proper noun accuracy with 35% higher recognition rate and 99% token savings vs… <sub>⭐ 22 · Jupyter Notebook</sub>
-- [chrisrichardf/Smart-Lecture-Notes-Generator](https://github.com/chrisrichardf/Smart-Lecture-Notes-Generator) - The proposed system uses Natural Language Processing, Machine Learning, and Text Summarization techniques to generate concise lecture notes from educational videos quickly and accurately. It… <sub>⭐ 22 · HTML</sub>
-- [Copyleaks/ng-web-report](https://github.com/Copyleaks/ng-web-report) - Copyleaks Web Report is an easy-to-use Angular module from Copyleaks for quick plagiarism and AI detection. It offers a simple and adaptable way to show how original submitted texts or files are… <sub>⭐ 22 · TypeScript</sub>
-- [FezVrasta/ha-notes-vault](https://github.com/FezVrasta/ha-notes-vault) - A note on every entity, device and area, stored as an Obsidian vault you can sync over WebDAV. Your AI assistant writes down what it learns about the house and reads it back next time. <sub>⭐ 22 · Python</sub>
-- [idanmoradarthas/text-summarization](https://github.com/idanmoradarthas/text-summarization) - Summarizer in python with Spacy and Universal Sentence Encoder build on Flask framework <sub>⭐ 22 · Python</sub>
-- [jackmleitch/EssayCompanion](https://github.com/jackmleitch/EssayCompanion) - An NLP powered Google Chrome extension to summarize, paraphrase, get named entities, and find keyword synonyms from highlighted text. <sub>⭐ 22 · Python</sub>
-- [jhkchan/translategemma-cli](https://github.com/jhkchan/translategemma-cli) - Local CLI for Google's TranslateGemma translation models with multi-platform support (MLX for Apple Silicon, PyTorch for CUDA/CPU). <sub>⭐ 22 · Python</sub>
-- [lanwuwei/Subword-PWIM](https://github.com/lanwuwei/Subword-PWIM) - Subword based Pairwise Word Interaction Model for Paraphrase Identification <sub>⭐ 22 · Python</sub>
-- [Nodewarrior/spine](https://github.com/Nodewarrior/spine) - Spine Architecture — A self-developing knowledge management system for Claude Code. Bridges AI memory to an Obsidian vault with feature-organized spine notes, auto-capture skills, and color-coded… <sub>⭐ 22 · Shell</sub>
-- [TheCleverIdiott/summarizer](https://github.com/TheCleverIdiott/summarizer) - A text and document summarizer made in python with the txtai library and hosted on Streamlit. <sub>⭐ 22 · Python</sub>
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI动力漫画翻译,用Rust写成. <sub>⭐ 5.7k · Rust</sub>
+- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - 语言学习的媒体播放器,配有双字幕,AI生成字幕,实时翻译等!. <sub>⭐ 4.3k · C#</sub>
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - 使用AI将代码从一种语言翻译到另一种语言. <sub>⭐ 4.2k · TypeScript</sub>
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - 文本文档和HTML页面自动归纳模块。 <sub>⭐ 3.7k · Python</sub>
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - (M)LLLMs的基础架构 <sub>⭐ 3.1k · Python</sub>
+- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI漫画和漫威翻译的app/浏览器扩展,用于自动翻译漫画,漫威,漫威,BD,fumetti等多种语言和格式的更多(偶像,PDF,EPUB,CBR,CBZ等). <sub>⭐ 3.0k · Python</sub>
+- [hydropix/TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) - 用 Ollama 、 OpenAI 兼容性、双子座、 Mistral 、 Deep Seek、 Poe 或 OpenRouter 翻译全长的书籍和文件。 保存格式化, 保留您所剩位置的续集。 没有文件大小限制 。 <sub>⭐ 2.5k · Python</sub>
+- [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - 我们如何将AI生成工具融入当前工作? <sub>⭐ 2.0k · HTML</sub>
+- [MojoJolo/textteaser](https://github.com/MojoJolo/textteaser) - TextTeaser是一种自动归纳算法. <sub>⭐ 2.0k · Scala</sub>
+- [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - "你的全自动个人人工智能助理" <sub>⭐ 1.7k · Python</sub>
+- [dipanjanS/text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python) - 学习如何用 Python 的力量处理、分类、集群、总结、理解语法、语义和文字数据的情绪! 此寄存器包含我书 "Text... <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 使用 LLM 翻译字幕 <sub>⭐ 1.7k · TypeScript</sub>
+- [lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - 汇总现有具有代表性的LLMS文本数据集. <sub>⭐ 1.5k</sub>
+- [dmmiller612/bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer) - 易于使用与 BERT 的采掘文本汇总 <sub>⭐ 1.5k · Python</sub>
+- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - 双语会议实时双向语音翻译——自动检测口语,并翻译双向,云或全线断开的声调. Desktop (Windows ^ macOS ~ Linux)+... <sub>⭐ 1.4k · TypeScript</sub>
+- [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - 鼠标翻转任意语言一次 - Chrome扩展:PDF翻译,EBOOK,EPUB,OCR,TTS,NETFLIX,YouTUBE DUBAL SUBITLES,GOGLE DOCS,AI,VIEWER,GMAL,WRIGING,IMAGE,DUALSubS,MANGA... <sub>⭐ 1.3k · JavaScript</sub>
+- [icoxfog417/awesome-text-summarization](https://github.com/icoxfog417/awesome-text-summarization) - 文本摘要指南 <sub>⭐ 1.3k</sub>
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - 一个自由,开源的Obsidian插件,可以使您的金库更聪明:更好的搜索,交互式的知识图,以及一个知道你的笔记的AI助手. <sub>⭐ 1.3k · TypeScript</sub>
+- [summanlp/textrank](https://github.com/summanlp/textrank) - Python 3 的文本朗克执行 <sub>⭐ 1.3k · Python</sub>
+- [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) - GenAI为多剂医疗诊断和保健研究援助聊天机提供动力,设计对象是保健专业人员、研究人员和病人。 <sub>⭐ 981 · Python</sub>
+- [PrithivirajDamodaran/Parrot_Paraphraser](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - 一个实用且内容丰富的诠释框架,以在文字形式上增强人类的意向,为对话引擎构建强大的NLU模型. Prithiviraj Damodaran创建. Open to pull... <sub>⭐ 921 · Python</sub>
+- [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - 注 伴 : Obsidian 的AI助手, 不只是聊天(Prev File Organizationer 2000). <sub>⭐ 868 · TypeScript</sub>
+- [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - 使用大语言模型翻译 EPUB 书籍,同时保留原文本. 翻译的内容与原文本并列显示,创建了适合语言的双语图书...... <sub>⭐ 856 · Python</sub>
+- [SociallyIneptWeeb/LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI) - 您的个人多语言 AI 翻译 <sub>⭐ 840 · Jupyter Notebook</sub>
+- [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) - Karpaths的LLM Wiki, 100%本地化的Ollama。 放下Markdown笔记 – AI提取概念 – 您的 Obsidian wiki 自动链接并成长。 零共享。 您的笔记保留您的功能 。 <sub>⭐ 829 · Python</sub>
+- [davidadamojr/TextRank](https://github.com/davidadamojr/TextRank) - Python 执行 TextRank 算法,用于自动关键字提取和归纳,使用 Levenshtein 距离作为文本单位之间的关系。本项目基于“ TextRank...” 文件。 <sub>⭐ 798 · Python</sub>
+- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) - ScienceClaw是一名个人研究助理,由LangChain DeepAgents和AIO Sandbox基础设施建造,采用OpenClaw以外的全新的建筑,它提供了更强大的安全性. . <sub>⭐ 669 · Python</sub>
+- [20000419/fauxnix](https://github.com/20000419/fauxnix) - 在 Windows 上运行 Linux 风格的命令, 通过确定性 bash_PowerShell 翻译. no VM, no WSL. MCP服务器 + CLI 为AI 代理商(Claude Code, Codex, OpenCode...) 建造的 GNU 风格的输出, bash 风格... <sub>⭐ 667 · TypeScript</sub>
+- [infiolab/infio-copilot](https://github.com/infiolab/infio-copilot) - 一个为 Obsidian 提供的 Cursor 启发的 AI 助手,该助手提供智能自动完成和与您所选注释交互聊天 <sub>⭐ 660 · TypeScript</sub>
+- [thanhkeke97/RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 实时游戏翻译工具 / OCR + AI 翻译 / Windows Gaming / 开源 <sub>⭐ 660 · C#</sub>
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - 快速格式化您的笔记, 使用 Obsidian 的 ChatGPT <sub>⭐ 659 · TypeScript</sub>
+- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - 使用LLMs来翻译和翻译字幕的开源项目(SRT,SSA/ASS,VTT) <sub>⭐ 657 · Python</sub>
+- [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 通过将多个OCR引擎(EasyOCR,魔方和Pororo)与LLM结合,更好的文本检测. <sub>⭐ 639 · Python</sub>
+- [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator) - 将 PDF 和 EPUB 转换成音频图书;字幕或视频转换成被誉的视频(包括翻译),等等. 免费. Pandrator 使用本地模式,包括语音克隆(即时,RVC增强. <sub>⭐ 630 · Python</sub>
+- [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - 文本汇总测试良好和多种语言评价框架. <sub>⭐ 626 · Python</sub>
+- [docsagent/docsagent](https://github.com/docsagent/docsagent) - DocsAgent – 让你的AI代理即时,私人访问你的个人知识库(Zotero, Obsidian,苹果笔记现在支持,路面上本地的docs). 原生C++搜索核心:BM25+通过... <sub>⭐ 625 · TypeScript</sub>
+- [cognitivetech/ollama-ebook-summary](https://github.com/cognitivetech/ollama-ebook-summary) - 长文本摘要的 LLM( 综合符号说明) <sub>⭐ 624 · Python</sub>
+- [mololab/json-translator](https://github.com/mololab/json-translator) - jsont - AI JSON 使用 GPT / gemma / mixtral / lama + 其他 FREE 翻译模块将您的 json/ yaml 文件翻译成其他语言 检查 Readme 支持 GBT / Gemma / mixtral /... <sub>⭐ 613 · TypeScript</sub>
+- [fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA) - 以LLM为基础的最新译名模式。 <sub>⭐ 592 · Ruby</sub>
+- [mx-space/core](https://github.com/mx-space/core) - AI为个人博客和创作网站提供AI动力的CMS核心,包括AI摘要,翻译,节制,以及写作工作流程. <sub>⭐ 564 · TypeScript</sub>
+- [Flame-Code-VLM/Flame-Code-VLM](https://github.com/Flame-Code-VLM/Flame-Code-VLM) - Flame是一个开源的多模式AI系统,旨在将UI设计模型翻译为高质量的React代码,它利用视觉语言的建模,自动化的数据合成,以及结构化. . <sub>⭐ 561 · Python</sub>
+- [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - 通用LLM Gateway:一个API,每个LLM. OpenAI/Anthropic兼容端点与多提供翻译和智能负载平衡. <sub>⭐ 556 · Python</sub>
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - 生成和脑暴的想法,同时使用Ollama、LM Studio、Anthropic、Google双子座、Mistral AI、OpenAI等Obsidian的大型语言模型(LLMs)创建你的笔记。 <sub>⭐ 532 · TypeScript</sub>
+- [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI) - ComexcialAI是一个模块化,开发者友好的研究助手框架。它使您能够使用LLMS,网络搜索,Reddit,YouTube和. <sub>⭐ 529 · Jupyter Notebook</sub>
+- [harshaneel/humanize](https://github.com/harshaneel/humanize) - 最佳静态AI文字人文化者,两种研究基础的LLM-不可知性技能,使AI写作有声音的人文和可重塑性. 九杠杆,50+同行评审来源,2024-2026年检测文献. <sub>⭐ 511 · HTML</sub>
+- [llSourcell/How_to_make_a_text_summarizer](https://github.com/llSourcell/How_to_make_a_text_summarizer) - 这是Siraj Raval在Youtube上的“如何编写文本摘要——深入学习的入门10”的代码。 <sub>⭐ 496 · Jupyter Notebook</sub>
+- [YuchuanTian/AIGC_text_detector](https://github.com/YuchuanTian/AIGC_text_detector) - (ICLR'24 Spotlight) 我们关于AIGC检测工作的官方代码: "多尺度正无标签检测AI-Gened Texts". <sub>⭐ 472 · Python</sub>
+- [SamirPaulb/real-time-voice-translator](https://github.com/SamirPaulb/real-time-voice-translator) - 一个使用AI在语言间实时翻译语音的桌面应用程序,同时保留演讲者的语气和情感. <sub>⭐ 440 · Tcl</sub>
+- [project-codeguard/rules](https://github.com/project-codeguard/rules) - 项目代码守护(Project CodeGuard)是一个AI模型不可知的安全框架和规则集,将安全逐一设定的做法嵌入AI编码工作流程(生成和审查)中. 它传送核心安全规则... <sub>⭐ 424 · Python</sub>
+- [vsuthichai/paraphraser](https://github.com/vsuthichai/paraphraser) - 句子的句子生成 <sub>⭐ 407 · Python</sub>
+- [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - 基于 ChatGPT 或 OpenAI 兼容的 LLM 聊天补全 API 的有效翻译工具 <sub>⭐ 390 · JavaScript</sub>
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - 通过类似副驾驶的接口,自动完成您与AI的辅音笔记,包括ChatGPT. <sub>⭐ 359 · TypeScript</sub>
+- [lorniu/gt.el](https://github.com/lorniu/gt.el) - 在Emacs上翻译. 支持Google,Bing,DeepL,StarDict和Youdao等多个引擎,也支持ChatGPT,DeepSeek等LLMs. <sub>⭐ 358 · Emacs Lisp</sub>
+- [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate) - 多语言翻译模式家庭 <sub>⭐ 357 · Python</sub>
+- [MaKTaiL/gemini-srt-translator](https://github.com/MaKTaiL/gemini-srt-translator) - 使用 Google 双子座AI 翻译字幕的 Python 工具 <sub>⭐ 357 · Python</sub>
+- [iansinnott/obsidian-claude-code-mcp](https://github.com/iansinnott/obsidian-claude-code-mcp) - 使用模式上下文协议(MCP)将 Claude 代码和其他AI工具连接到你的 Obsidian 注释 <sub>⭐ 355 · TypeScript</sub>
+- [friendmine/llm-course-chn](https://github.com/friendmine/llm-course-chn) - 中国语言的汉语翻译 ltm-course <sub>⭐ 353 · Jupyter Notebook</sub>
+- [nerdai/llms-from-scratch-rs](https://github.com/nerdai/llms-from-scratch-rs) - 塞巴斯蒂安·拉斯奇卡的"Build a LLM"中代码的全面Rust翻译. Scratch book. <sub>⭐ 336 · Rust</sub>
+- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - 一个由嵌入式AI提供动力的无手迷你对讲机,其特点是自动语音检测,关键词触发动画,以及实时语音到文本显示. <sub>⭐ 336 · C</sub>
+- [meangrinch/MangaTranslator](https://github.com/meangrinch/MangaTranslator) - 由AI提供动力的漫威翻译应用 <sub>⭐ 334 · Python</sub>
+- [Sharrnah/whispering-ui](https://github.com/Sharrnah/whispering-ui) - 怀柔虎项目的土著UI-https://github.com/Sharrnah/whispering(活的抄本/翻译) 维基百科中的相关条目: 怀柔虎 <sub>⭐ 329 · Go</sub>
+- [rohithreddy024/Text-Summarizer-Pytorch](https://github.com/rohithreddy024/Text-Summarizer-Pytorch) - Pytorch 实施"一个深度强化的抽象总结模型"纸和指针生成器网络 <sub>⭐ 321 · Python</sub>
+- [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - 检索、汇总、过滤、评价、重写和服务 RSS 种子,使用大语言模型进行游戏、研究和学习 <sub>⭐ 320 · Python</sub>
+- [Vamsi995/Paraphrase-Generator](https://github.com/Vamsi995/Paraphrase-Generator) - 使用 T5 模型构建的参数化生成器,该模型产生参数化的英语句子. <sub>⭐ 320 · Jupyter Notebook</sub>
+- [Aspirin0000/zhouli-translator](https://github.com/Aspirin0000/zhouli-translator) - QQ:DeepSeek动力周利风格中文翻译,网络应用,以及可分配的"技能包". <sub>⭐ 319 · TypeScript</sub>
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - 一个完全私人的,当地运营的Ai A助理/Chatbot/Sub-Agent Framework,具有现实的长期内存和思想形成,使用开源LLM. Qdrant用于矢量DB. <sub>⭐ 312 · Python</sub>
+- [YANG-Haruka/LinguaHaru](https://github.com/YANG-Haruka/LinguaHaru) - Next-Gen AI翻译工具由LLM提供动力,支持办公室文档,PDF,TXT,以及更多格式只需点击一次即可. <sub>⭐ 293 · Python</sub>
+- [nanoAgentTeam/research-claw](https://github.com/nanoAgentTeam/research-claw) - 一个自办的学术研究AI助理——管理你的论文,搜索文献,追踪最后期限,并在你已经使用的频道上回答你. <sub>⭐ 292 · Python</sub>
+- [Yale-LILY/SummerTime](https://github.com/Yale-LILY/SummerTime) - 面向非专家的开源文本汇总工具包. EMNLP'2021 Demo <sub>⭐ 282 · Python</sub>
+- [johnfkoo951/cmds-system-files](https://github.com/johnfkoo951/cmds-system-files) - 10000兆元的Obsidian金库的知识架构——5个系统文件+7个共享规则+8个斜线命令,公开与人类和AI代理共享. Live //system.cmdspace.work. <sub>⭐ 274 · HTML</sub>
+- [kytmanov/synto](https://github.com/kytmanov/synto) - 不仅仅是Karopathy的LLM Wiki, 100%的本地人和Olama。 放下Markdown笔记 — AI 提取概念 — — 您的 Obsidian 维基自动链接并成长。 零共享。 您的笔记将保留在您的名下 。 <sub>⭐ 259 · Python</sub>
+- [Qetesh/miniflux-ai](https://github.com/Qetesh/miniflux-ai) - 与AI的迷你流. 添加AI摘要,翻译,以及基于RSS内容的AI新闻 <sub>⭐ 257 · Python</sub>
+- [abelriboulot/onnxt5](https://github.com/abelriboulot/onnxt5) - 使用ONNX中执行的T5版本进行总结,翻译,情绪分析,文本生成和更多闪烁速度. <sub>⭐ 255 · Python</sub>
+- [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) - 高质量的自动将您的语言文件翻译为多种语言,使用AI如克劳德,GPT等. <sub>⭐ 250 · PHP</sub>
+- [DavidBelicza/PHP-Science-TextRank](https://github.com/DavidBelicza/PHP-Science-TextRank) - PHP 文本朗克(资源节约型和低成本自动文本总和) <sub>⭐ 245 · PHP</sub>
+- [Imalwayshere/Open-Detector](https://github.com/Imalwayshere/Open-Detector) - 基于 BERT 的 AI 生成的学术文本检测模型 <sub>⭐ 244 · Python</sub>
+- [praetorian-inc/julius](https://github.com/praetorian-inc/julius) - 简单的 LLM 服务识别 - 在秒内将 IP: Port 翻译为 Ollama, vLLM, LiteLLM, 或 60+ 其他 AI 服务 <sub>⭐ 243 · Go</sub>
+- [neopunisher/Open-Text-Summarizer](https://github.com/neopunisher/Open-Text-Summarizer) - 自动文本总和 <sub>⭐ 242 · Shell</sub>
+- [clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) - 在认知行为疗法的启发下,您 Obsidian 笔记的 AI 动力日记插件 <sub>⭐ 240 · TypeScript</sub>
+- [iTzArshia/GPT-Discord-Bot](https://github.com/iTzArshia/GPT-Discord-Bot) - 用 JavaScript 写成的例子 Discord Bot 使用 OpenAIs 模型,例如 GPT 4, GPT-3.5- Turbo, Dall- E,以及 Text-Moderation-Setable , 具有许多特性,例如 ChatGPT-Style conversation... <sub>⭐ 236 · JavaScript</sub>
+- [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一个AI动力的文本汇总Telegram bot,生成文本,URL,PDF和YouTube视频的简明摘要. <sub>⭐ 234 · Python</sub>
+- [ikergarcia1996/Easy-Translate](https://github.com/ikergarcia1996/Easy-Translate) - Easy-Translate是用SINGLE Command翻译大文本文件的脚本. Easy-Translate的设计尽可能方便初学者,并且尽可能无缝的定制,并尽可能方便. <sub>⭐ 231 · Python</sub>
+- [Currie32/Text-Summarization-with-Amazon-Reviews](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews) - 亚马逊的精细食物评论可以生成摘要的以下2seq模型. <sub>⭐ 230 · HTML</sub>
+- [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a 上下文、可偏倚、文字或判决或段落的采掘摘要,由文本嵌入的最新文本提供动力(Bert、通用句码、火焰) <sub>⭐ 230 · Python</sub>
+- [chriskonnertz/DeepLy](https://github.com/chriskonnertz/DeepLy) - DeepL.com 翻译 API (非官方) PHP 客户端 <sub>⭐ 229 · PHP</sub>
+- [dannymcc/Granola-to-Obsidian](https://github.com/dannymcc/Granola-to-Obsidian) - 一个自动同步 Granola AI 的音符的 Obsidian 插件 <sub>⭐ 228 · JavaScript</sub>
+- [wasiahmad/paraphrase_identification](https://github.com/wasiahmad/paraphrase_identification) - 审查两句,确定两句是否具有相同的含义. <sub>⭐ 224 · HTML</sub>
+- [kavgan/ROUGE-2.0](https://github.com/kavgan/ROUGE-2.0) - ROUGE自动汇总评价工具包. 支持ROUGE-(N,L,S,SU),不同语言的词源和句子,unicode文本评价,CSV输出. <sub>⭐ 222 · Java</sub>
+- [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver是一个 Obsidian 插件,将类似 ChatGPT 的接口集成到您的记事工作流程中。 这个插件使得在 Obsidian 内部很容易访问 AI 生成的建议和见解... <sub>⭐ 222 · TypeScript</sub>
+- [Valdecy/pybibx](https://github.com/Valdecy/pybibx) - 配备人工智能工具的生物测量和科学比通库 <sub>⭐ 221 · Python</sub>
+- [liamdugan/raid](https://github.com/liamdugan/raid) - RAID是AI生成文本检测的最大和最具挑战性的基准。 (ACL 2024) <sub>⭐ 217 · Python</sub>
+- [aravindpai/How-to-build-own-text-summarizer-using-deep-learning](https://github.com/aravindpai/How-to-build-own-text-summarizer-using-deep-learning) - 在这个笔记本中,我们将利用用喀拉斯从python的划痕中汲取的深刻教训,构建一个抽象的文字总结器。 <sub>⭐ 208 · Jupyter Notebook</sub>
+- [jparkerweb/pixel-banner](https://github.com/jparkerweb/pixel-banner) - 用自定义的横幅图像增强您的 Obsidian 笔记, 包括 AI 生成的设计以及可下载横幅的全库。 将您的工作空间转换为可视化的令人惊叹的标题, 以... <sub>⭐ 208 · JavaScript</sub>
+- [martiansideofthemoon/ai-detection-paraphrases](https://github.com/martiansideofthemoon/ai-detection-paraphrases) - 我们的NeurIPS 2023论文"Paraphrasing逃避AI生成文本的探测器,但检索是一种有效的防御"(https://arxiv.org/abs/2303.13408)的官方存放处. <sub>⭐ 205 · Python</sub>
+- [LibreTranslate/LTEngine](https://github.com/LibreTranslate/LTEngine) - 本地AI机器翻译,由LLMs. LibreTranslate兼容提供动力. <sub>⭐ 203 · Rust</sub>
+- [hyperai/vllm-cn](https://github.com/hyperai/vllm-cn) - vLLM 中文文档简化/vLLMQX <sub>⭐ 196 · TypeScript</sub>
+- [SystemSculpt/obsidian-systemsculpt-ai](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) - 增强你的Absidian App在人工智能工具方面的经验 用于记录、任务管理 以及更多 <sub>⭐ 195 · TypeScript</sub>
+- [ykhli/AI-RPi-detection](https://github.com/ykhli/AI-RPi-detection) - AI Raspberry Pi猫的检测和通知:当你的猫做不该做的事时,获得一个文本,并让AI描述它所看到的。在猫以外的其他使用案例中可以泛指。 <sub>⭐ 195 · Python</sub>
+- [ramsrigouthamg/Paraphrase-any-question-with-T5-Text-To-Text-Transfer-Transformer-](https://github.com/ramsrigouthamg/Paraphrase-any-question-with-T5-Text-To-Text-Transfer-Transformer-) - 用 T5( Text- to- Text Transform 变形器) 解释任何问题 - 提供预训模型和培训脚本 <sub>⭐ 187 · Python</sub>
+- [tlatkowski/multihead-siamese-nets](https://github.com/tlatkowski/multihead-siamese-nets) - 实施暹罗神经网络基于文字语义相似性任务的多头关注机制. <sub>⭐ 184 · Jupyter Notebook</sub>
+- [abdallah-ali-abdallah/turjuman-book-translator](https://github.com/abdallah-ali-abdallah/turjuman-book-translator) - 用 LLM 自动翻译完整书籍和大文本 <sub>⭐ 182 · Python</sub>
+- [prateekjoshi565/textrank_text_summarization](https://github.com/prateekjoshi565/textrank_text_summarization) - 使用 TextRank 算法进行自动文本汇总的教程 。 <sub>⭐ 182 · Jupyter Notebook</sub>
+- [ctrlaltwill/LearnKit](https://github.com/ctrlaltwill/LearnKit) - 您 Obsidian 金库的本地学习系统。 学习 Kit 用闪卡、 间距重复、 评论、 测试和 AI 工具将纸条转换为持久知识 。 <sub>⭐ 178 · TypeScript</sub>
+- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - 以开放源代码LLMS(如LLaMA-7b,Bloomz-7b1-mt)和人文书面翻译和评价数据为基础,加强和规范聊天期间翻译能力ParroT框架. <sub>⭐ 177 · Python</sub>
+- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - 一个将音频或视频文件转换成文字记录并生成简明会议记录的工具。在您的会议中保持组织有序和高效,并为第二阶段做好准备,届时我们将开放... <sub>⭐ 175 · Python</sub>
+- [iamaaditya/neural-paraphrase-generation](https://github.com/iamaaditya/neural-paraphrase-generation) - 神经元参数生成 <sub>⭐ 174 · Python</sub>
+- [rojagtap/transformer-abstractive-summarization](https://github.com/rojagtap/transformer-abstractive-summarization) - 使用变形器的抽象文本摘要 <sub>⭐ 167 · Jupyter Notebook</sub>
+- [jiacheng-xu/DiscoBERT](https://github.com/jiacheng-xu/DiscoBERT) - 纸张“Discour-Aware神经提取文本摘要”(ACL20)的编码 <sub>⭐ 166 · Python</sub>
+- [FunnySaltyFish/Transtation-KMP](https://github.com/FunnySaltyFish/Transtation-KMP) - 由Kotlin Multiplatform + Compose Multiplatform 打造的Android/Desktop上的翻译应用程序,在LLMs的支持下享受惊人的经验 <sub>⭐ 162 · Kotlin</sub>
+- [StanfordMIMI/clin-summ](https://github.com/StanfordMIMI/clin-summ) - 通过调整大型语言模型进行临床文本总结 <sub>⭐ 161 · Python</sub>
+- [awnist/slop-cop](https://github.com/awnist/slop-cop) - AI 文本斜坡检测, 浏览器中100% <sub>⭐ 160 · TypeScript</sub>
+- [tshi04/NATS](https://github.com/tshi04/NATS) - 神经抽象文本总结与序列对序列模型 <sub>⭐ 159 · Python</sub>
+- [yaoxiaoyuan/mimix](https://github.com/yaoxiaoyuan/mimix) - Mimix:一个文本生成工具和预训中国模式 <sub>⭐ 158 · Python</sub>
+- [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - 简化 Obsidian 的标记。 立即分析您的文档, 并用一击标记, 以高效的注释组织 。 <sub>⭐ 155 · TypeScript</sub>
+- [Shark-NLP/CoNT](https://github.com/Shark-NLP/CoNT) - (NeurIPS'22 Spotlight) 我们的论文 CONT 的数据和代码: 矛盾神经文本生成 <sub>⭐ 152 · Python</sub>
+- [johngai19/TextDistiller](https://github.com/johngai19/TextDistiller) - AI 驱动文件汇总引擎,将冗长的文本转化为具体化的见解 <sub>⭐ 146 · Python</sub>
+- [zwhe99/MAPS-mt](https://github.com/zwhe99/MAPS-mt) - (TACL 2024) MAPS使LLMs能够模仿人类翻译过程. <sub>⭐ 146 · Python</sub>
+- [surmenok/TextSum](https://github.com/surmenok/TextSum) - 为 TensorFlow 文本汇总模型(TextsSum)编写数据集。 <sub>⭐ 145 · Python</sub>
+- [didasy/tldr](https://github.com/didasy/tldr) - 使用 LexRank 的 Golang 文本摘要 <sub>⭐ 139 · Go</sub>
+- [ai8hyf/OpenResearchAssistant](https://github.com/ai8hyf/OpenResearchAssistant) - 一个从研究中发现真知灼见的自动化工具 <sub>⭐ 138 · HTML</sub>
+- [drshahizan/obsidian](https://github.com/drshahizan/obsidian) - Absidian.md是专为学术写作而专门设计的特别笔记应用,这个寄存器是系统文学评论活动的一部分,使用AI... <sub>⭐ 137 · HTML</sub>
+- [iwangjian/textsum-gan](https://github.com/iwangjian/textsum-gan) - Tensorflow 重新执行 GAN 文本汇总 <sub>⭐ 136 · Python</sub>
+- [lancopku/superAE](https://github.com/lancopku/superAE) - "Autoencoder作为助理监理员:改进中国社会媒体文字概括的文字代表"的代码. <sub>⭐ 135 · Python</sub>
+- [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API 用变压器轻松总结基于文本的文件 <sub>⭐ 134 · Python</sub>
+- [ckanner/jta](https://github.com/ckanner/jta) - AI- power JSON 翻译工具, 并使用 OpenAI, Anthropic 和双子座 API 进行代理反射 <sub>⭐ 132 · Go</sub>
+- [lilakk/BooookScore](https://github.com/lilakk/BooookScore) - 一个生成长式文本摘要和评价这些摘要一致性的软件包. Official profile for our ICLR 2024 文件"BooookScore:对书长的系统探索...... <sub>⭐ 131 · Python</sub>
+- [obaskly/AiTextDetectionBypass](https://github.com/obaskly/AiTextDetectionBypass) - 利用无法探测的Ai旁路探测器 <sub>⭐ 131 · Python</sub>
+- [Amine-LG/Obsidian-Text-Transformer-LocalAI](https://github.com/Amine-LG/Obsidian-Text-Transformer-LocalAI) - 将你的.txt和.md音符转换成视觉上吸引人和结构精良的Obsidian的Markdown,由当地LLMs使用Ollama提供动力. <sub>⭐ 129 · Python</sub>
+- [deepfates/silicon](https://github.com/deepfates/silicon) - 在你的笔记中加入一些情报 与硅AI的 Obsidian <sub>⭐ 129 · TypeScript</sub>
+- [fangpings/BERT-Transformer-for-Summarization](https://github.com/fangpings/BERT-Transformer-for-Summarization) - BERT- 抽象文本摘要转换网络 <sub>⭐ 129 · Python</sub>
+- [Mossy1022/Smart-Connections-Visualizer](https://github.com/Mossy1022/Smart-Connections-Visualizer) - 可视化您的笔记, 并用 AI 嵌入查看相关内容的链接。 使用本地模式或通过 Claude, Gemini, ChatGPT & Llama 3 等 API <sub>⭐ 126 · CSS</sub>
+- [fancydirty/subtitle-scout](https://github.com/fancydirty/subtitle-scout) - 一个以LLM代理为核心的自办字幕自动化系统——它可以识别你的媒体,判断每个候选人是否属于准确的插曲,安装适合的插曲,以及. <sub>⭐ 123 · TypeScript</sub>
+- [Vasallo94/ObsidianRAG](https://github.com/Vasallo94/ObsidianRAG) - 使用本地的 AI. Privity- first RAG 与 Ollama, LM Studio 或任何 OpenAI 兼容服务器询问您的 Obsidian 笔记。 Obsidian 插件 + Docker + PyPI 。 <sub>⭐ 123 · Python</sub>
+- [HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt) - AI Chatbot,图像生成器和语言翻译 App/OpenAI ChatGPT / AI助理 / Dart 3 & Flutter 3.13 与自由 OpenAI 试运行 <sub>⭐ 122 · Dart</sub>
+- [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - 通过人工智能的洞察力和建议 向您的女仆收取超额费用 <sub>⭐ 121 · TypeScript</sub>
+- [ChinmayShringi/MicroFish-En](https://github.com/ChinmayShringi/MicroFish-En) - MiroFish(github.com/666ghj/MiroFish)的英文译名——预测万物的简洁而通用的swarm智能引擎. <sub>⭐ 121 · Python</sub>
+- [FranxYao/dgm_latent_bow](https://github.com/FranxYao/dgm_latent_bow) - 执行NeurIPS 19号文件:用Latent Bag语句的配词生成 <sub>⭐ 121 · Python</sub>
+- [Mengqi-Lei/texglot](https://github.com/Mengqi-Lei/texglot) - 用您自己的 LLM API 翻译 arXiv 文件和 LaTeX 项目, 保存方程式、 引用和文档结构。 通过本地应用程序或批量 CLI 生成已翻译的 PDF 和可编辑源 。 <sub>⭐ 119 · Python</sub>
+- [daidr/fancy-translator](https://github.com/daidr/fancy-translator) - Fancy Translate使用翻译API来提供完全运行在浏览器中的快速,安全的翻译. <sub>⭐ 118 · Vue</sub>
+- [kapitalismho/PuriPuly-heart](https://github.com/kapitalismho/PuriPuly-heart) - VRChat 的实时双向语音翻译器——基于 LLM, VR 字幕覆盖和 OSC <sub>⭐ 117 · Python</sub>
+- [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - 使用 LLM api 翻译 po 文件的命令工具, 支持openai/ harmic/ google 模型 <sub>⭐ 117 · TypeScript</sub>
+- [SethRobinson/UGTLive](https://github.com/SethRobinson/UGTLive) - 通过 LLMS & GPU OCR 进行 AI 动力屏幕翻译 26 种语言, 漫游支持, PDF/ CBZ 转换, 音频读取, 云或完全本地操作 。 对于游戏者, 漫游阅读者和语言学习者。 <sub>⭐ 117 · C#</sub>
+- [cLin-c/paper-skill](https://github.com/cLin-c/paper-skill) - Claude Code技巧——AI 即时图书馆,用于学术论文的编写、抛光、审查、翻译和提交SCI/IEEE/Nature/TRO期刊 <sub>⭐ 113 · Python</sub>
+- [gaetangate/text-summarizer](https://github.com/gaetangate/text-summarizer) - 提取文本摘要的 Python 框架 <sub>⭐ 111 · Python</sub>
+- [KazKozDev/book-translator](https://github.com/KazKozDev/book-translator) - EPUB,PDF和TXT的离线AI书翻译器. 与Ollama一起在当地翻译整本书籍和小说,文档词汇,精细化,并进行侧面审查. <sub>⭐ 110 · Python</sub>
+- [VjayC/SRT-Subtitle-Translator-Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - 一个跨平台桌面和网络应用,通过CLIProxyAPI,使用您现有的LLM订阅(Gemini, ChatGPT, Claude等)翻译和验证SRT字幕 - 不需要API密钥. <sub>⭐ 110 · TypeScript</sub>
+- [wtfzambo/speak-like-you-eat](https://github.com/wtfzambo/speak-like-you-eat) - 将AI垃圾翻译为人类语言,一个Pi包用于普通语重写. <sub>⭐ 109 · TypeScript</sub>
+- [goobolabs/somali-language-standard](https://github.com/goobolabs/somali-language-standard) - 索马里语言的公开、机器可读标准——正文、语法、术语、翻译和AI/基准资源,作为一个版本的、可读的RFC式目录。 <sub>⭐ 108 · Rust</sub>
+- [tuzhucheng/sentence-similarity](https://github.com/tuzhucheng/sentence-similarity) - PyTorch 执行各种深层学习模型,用于解说检测、语义相似性以及文字内涵 <sub>⭐ 107 · Python</sub>
+- [Agents365-ai/obsidian-ai-tagger-universe](https://github.com/Agents365-ai/obsidian-ai-tagger-universe) - 一个智能的Obsidian插件,利用AI自动分析注释内容并提出相关标记,支持本地和云基LLM服务. <sub>⭐ 106 · TypeScript</sub>
+- [kedz/nnsum](https://github.com/kedz/nnsum) - 一个采掘神经网络文本摘要库,为EMNLP 2018年论文"在深层学习模式中选择总结"(https://arxiv.org/abs/1810.12343). <sub>⭐ 106 · Python</sub>
+- [HurricaHjz/second-yourself](https://github.com/HurricaHjz/second-yourself) - 第二,一个记得你的特工, 有很多手为你行动: 多代理的绳索(Claude Code,有Codex帮助者), 一个自我维护的地方维基作为它的长期记忆, 还有... <sub>⭐ 105 · Python</sub>
+- [KIRVO-REPORTING/video-to-notes](https://github.com/KIRVO-REPORTING/video-to-notes) - 本地首个视频对音CLI为YouTube/Bilibili的文字记录,Whisper回落,时间戳AI摘要,Notion/Obsidian输出. <sub>⭐ 105 · Python</sub>
+- [MrPeterJin/researchgpt](https://github.com/MrPeterJin/researchgpt) - 一个基于LLM的开源研究助理,允许您与研究论文对话 <sub>⭐ 105 · Python</sub>
+- [AndrewRao114/vault-activity-heatmap](https://github.com/AndrewRao114/vault-activity-heatmap) - 跨设备 Obsidian 活动热映射,带有移动任务、编辑时间表、AI摘要和自定义的面板主题 <sub>⭐ 104 · TypeScript</sub>
+- [deusjin/subforge](https://github.com/deusjin/subforge) - 用于AI字幕工作流程的 Rust CLI:转录,片段,翻译,评价,以及烧制或mus字幕. <sub>⭐ 104 · Rust</sub>
+- [drpwchen/textbook-to-note](https://github.com/drpwchen/textbook-to-note) - 将自己的PDF教科书变成一个可搜索的AI知识库,并有条理地,充分引用的注释——包括数字。 <sub>⭐ 104 · Python</sub>
+- [efe/dj-translatemessages](https://github.com/efe/dj-translatemessages) - LLM 驱动的 Django 翻译 叫我"python management.py 翻译" <sub>⭐ 103 · Python</sub>
+- [tshi04/LeafNATS](https://github.com/tshi04/LeafNATS) - 神经抽象文字总结学习框架 <sub>⭐ 103 · Python</sub>
+- [Jihuai-wpy/SeqXGPT](https://github.com/Jihuai-wpy/SeqXGPT) - SeqXGPT:用于句子级AI生成文本检测的提前方法. <sub>⭐ 101 · Python</sub>
+- [pmacro/AITranslate](https://github.com/pmacro/AITranslate) - 一个使用 ChatGPT AI/LLM 翻译 Xcode xcstrings 文件的工具 <sub>⭐ 101 · Swift</sub>
+- [taahamahdi/i18n-ai-translate](https://github.com/taahamahdi/i18n-ai-translate) - 自动翻译i18n locale文件,使用AI. Translate i18next JSON,Gettext PO,Java.properties,iOS.strings,Rails YAML,以及TS/JS目录使用ChatGPT,克劳德,双子座或本地Ollama模型. <sub>⭐ 101 · TypeScript</sub>
+- [DjangoPeng/openai-translator](https://github.com/DjangoPeng/openai-translator) - 由LLMs提供动力的多功能AI翻译工具. <sub>⭐ 100 · Python</sub>
+- [IvenKooLab/loci](https://github.com/IvenKooLab/loci) - 一个可查询的第二脑在您分散的音符和docs之上——混合检索(vector + BM25),分区级引用,以及一个MCP服务器,以便AI代理可以使用. ~300行,没有LangChain. <sub>⭐ 100 · Python</sub>
+- [rayliuca/T-Ragx](https://github.com/rayliuca/T-Ragx) - 使用RAG 功率大语言模型加强翻译 <sub>⭐ 100 · Python</sub>
+- [AttackIQ/SigmAIQ](https://github.com/AttackIQ/SigmAIQ) - 用于自动创建/翻译规则的 pySigma 包装器和 Langchain 工具包 <sub>⭐ 98 · Python</sub>
+- [UBC-NLP/araT5](https://github.com/UBC-NLP/araT5) - AraT5:阿拉伯语理解的文本对文本变换器 <sub>⭐ 98</sub>
+- [ayushoriginal/Consensus-Based-Summarizer](https://github.com/ayushoriginal/Consensus-Based-Summarizer) - RESEARCH(NLP) 这是"基于自动共识的文本汇总器"的实施,同时具备能够生成流派特异性,通用或用户配置的总结的文本组织能力. . <sub>⭐ 97 · C++</sub>
+- [jakobap/aaron](https://github.com/jakobap/aaron) - 一步步挑战实验室重播 使用 Genkit 构建您的自定义 LLM 深层研究者助理 <sub>⭐ 97 · TypeScript</sub>
+- [luopeixiang/awesome-text-summarization](https://github.com/luopeixiang/awesome-text-summarization) - 文字总结从零开始。 <sub>⭐ 96</sub>
+- [poppanda/LLM_PDF_Translator](https://github.com/poppanda/LLM_PDF_Translator) - 使用 LLM( ollama, QWEN, ChatGPT) 来翻译 pdf 的位置 <sub>⭐ 95 · Python</sub>
+- [websymphony/paraphrasing-tool](https://github.com/websymphony/paraphrasing-tool) - 免费的解析工具/ 文章重写器 <sub>⭐ 94 · TypeScript</sub>
+- [abhishek305/PyBot-A-ChatBot-For-Answering-Python-Queries-Using-NLP](https://github.com/abhishek305/PyBot-A-ChatBot-For-Answering-Python-Queries-Using-NLP) - Pybot 可以改变学习者尝试以更具互动性的方式学习python编程语言的方式. 此聊天员将尝试解决或回答几乎所有python相关问题或查询. <sub>⭐ 93 · Python</sub>
+- [Menci/Floway](https://github.com/Menci/Floway) - 无服务器 LLM API 网关带有遥测,全协议翻译和状态响应支持. 使用任何客户端的任何LLM,并在3P API上获得OpenAI/Anthropic 1P类的 Codex/Claude体验... <sub>⭐ 91 · TypeScript</sub>
+- [Huzaifa785/context-compressor](https://github.com/Huzaifa785/context-compressor) - RAG 系统和 API 调用 的 AI 驱动文本压缩库。 在保留高级压缩策略的语义性的同时, 将符号使用率降低最多 50%- 60% 。 <sub>⭐ 90 · Python</sub>
+- [translate-tools/core](https://github.com/translate-tools/core) - 一个使用 Google Translate, Yandex, Bing, ChatGPT 等LLMs 免费API的翻译工具包 <sub>⭐ 90 · TypeScript</sub>
+- [drpedapati/sciclaw](https://github.com/drpedapati/sciclaw) - 派尔德-科学家AI的可复制研究助理——轻量级Go运行时间,生命周期钩,手稿集成,12个基线科学技能. PicoClaw-compatibility. <sub>⭐ 89 · Go</sub>
+- [skoowoo/hylo](https://github.com/skoowoo/hylo) - Hylo:与Obsidian兼容的AI-内置笔记的应用程序,AI代理组织并帮助您使用笔记. <sub>⭐ 89 · Go</sub>
+- [trieuntu/VietAIDetector](https://github.com/trieuntu/VietAIDetector) - VietAI探测器:一个为越南人制造的强力零镜头AI生成的文本检测系统. 使用PhoGPT-4B在VietBinocules算法上构建,并具有Vintern-1B VLM作为扫描PDF OCR的特色. 优化... <sub>⭐ 89 · Python</sub>
+- [ymoslem/Adaptive-MT-LLM-Fine-tuning](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning) - 适应性机器翻译的微调开源LLMs <sub>⭐ 89 · Jupyter Notebook</sub>
+- [jb41/translate-book](https://github.com/jb41/translate-book) - 使用 GPT-4 LLM 翻译 epub 书籍 <sub>⭐ 88 · Python</sub>
+- [OpenDataBox/CrackSQL](https://github.com/OpenDataBox/CrackSQL) - 基于 LLM 的读音翻译系统 <sub>⭐ 87 · Python</sub>
+- [aj-naik/Text-Summarization](https://github.com/aj-naik/Text-Summarization) - 使用变形器进行摘要和提炼文本归纳。 <sub>⭐ 86 · Jupyter Notebook</sub>
+- [IBM/iac-spec-kit](https://github.com/IBM/iac-spec-kit) - 人工智能辅助工作流程,将业务要求转化为基础设施代码 <sub>⭐ 86 · Python</sub>
+- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - 制作准备的LLM API翻译层——通过集线器和发音的IR. option API网关在OpenAI,Anthropic和Google格式之间双向转换. Streaming & no-streaming. 0核心解析... <sub>⭐ 86 · Python</sub>
+- [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault是一个命令行工具,它将您的Claude AI对话 & Claude Code同步到精美格式化的Markdown文件中,与Obsidian和其他记号工具无缝地融合. <sub>⭐ 85 · Python</sub>
+- [subev/libratory](https://github.com/subev/libratory) - 您的免费书籍和音频书实验室。 将您拥有的 PDF 转换为分章标记的 M4B 音频书和读本, 在您自己的机器上。 本地 TTS、 AI清理、 翻译和重写、 RAG 聊天... <sub>⭐ 85 · TypeScript</sub>
+- [dahlia/yoyak](https://github.com/dahlia/yoyak) - 用于总结网页的LLM驱动CLI工具 <sub>⭐ 84 · TypeScript</sub>
+- [manimohans/obsidian-local-llm-helper](https://github.com/manimohans/obsidian-local-llm-helper) - 一个处理文本,与AI聊天的 Obsidian 插件,并精密地搜索您的笔记——与任何OpenAI兼容的LLM服务器(Ollama,LM Studio,vLLM等)合作. <sub>⭐ 84 · TypeScript</sub>
+- [DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-](https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-) - 一个双向编码器-解码器LSTM神经网络在cnn/dailymail数据集上接受了文本汇总培训。 (MIT808项目) <sub>⭐ 82 · Python</sub>
+- [ksanyok/TextHumanize](https://github.com/ksanyok/TextHumanize) - 将人工智能生成的文本转换成自然的人类内容。 100% 离线 25种语言 零依赖 / PHANTOMTM / Python/PHP/ TypeScript <sub>⭐ 81 · Python</sub>
+- [richawo/chain-of-density](https://github.com/richawo/chain-of-density) - 执行来自 Salesforce, MIT,哥伦比亚等地研究人员最近的NLP研究的链式密度文本总结技术,需要较长的文本输入和迭代生成. . <sub>⭐ 80 · Python</sub>
+- [wyu-du/Reinforce-Paraphrase-Generation](https://github.com/wyu-du/Reinforce-Paraphrase-Generation) - 这个寄存器包含了论文"仿真学习与强化学习的实证比较,用于参数生成"(EMNLP2019)的数据和代码. <sub>⭐ 80 · Python</sub>
+- [caca2331/finesub](https://github.com/caca2331/finesub) - 将音频/视频转换成中文字幕的管道:声乐分离_VAD/ASR→可选LLM校正,翻译,以及知识辅助抛光. <sub>⭐ 79 · Python</sub>
+- [AI-ANK/Na2SQL](https://github.com/AI-ANK/Na2SQL) - 欢迎使用 LlamaIndex 加入 Natural Language 到 SQL 演示项目! 此应用程序旨在展示在翻译自然语言时对大语言模型(LLMs)的创新使用... <sub>⭐ 78 · Python</sub>
+- [IBM/RADAR](https://github.com/IBM/RADAR) - 我们的NeurIPS2023接受文件的代码: RADAR: 通过横向学习进行强力的AI-Text检测。 我们在包括Vicuna和LLaMA在内的8个LLMs上测试了RADAR。 结果显示,RADAR能够取得好... <sub>⭐ 78 · Jupyter Notebook</sub>
+- [jananiarunachalam/Research-Paper-Summarization](https://github.com/jananiarunachalam/Research-Paper-Summarization) - 研究论文的文本摘要 <sub>⭐ 78 · Jupyter Notebook</sub>
+- [Sophomoresty/zhuque](https://github.com/Sophomoresty/zhuque) - Tencent Zhuque AI 检测 CLI——文本和图像,批量序列,自动冷却 <sub>⭐ 78 · Python</sub>
+- [ucx0204/CarrotMangaTranslator](https://github.com/ucx0204/CarrotMangaTranslator) - 开源桌面OCR,AI翻译,编辑和插画工具,用于用户提供的漫畫和漫画图像. <sub>⭐ 78 · TypeScript</sub>
+- [zwc12/Summarization](https://github.com/zwc12/Summarization) - 抽象文本归纳序列模型 <sub>⭐ 78 · Python</sub>
+- [qcf-568/OSTF](https://github.com/qcf-568/OSTF) - (AAAI2025) 重审Generative AI时代的坦佩雷景色文字检测 <sub>⭐ 77 · Jupyter Notebook</sub>
+- [Bavatharanivethamani/-EmotionSense-AI-Multimodal-Human-Emotion-and-Stress-Detection-Using-Computer-Vision-and-NLP-](https://github.com/Bavatharanivethamani/-EmotionSense-AI-Multimodal-Human-Emotion-and-Stress-Detection-Using-Computer-Vision-and-NLP-) - 基于AI的多模式情感和压力检测系统,利用计算机视觉进行面部表情识别和文字分析的自然语言处理. 设计为实时... <sub>⭐ 76 · Python</sub>
+- [lucidrains/marge-pytorch](https://github.com/lucidrains/marge-pytorch) - 在Pytorch通过 Paraphrasing 进行Marge预训 <sub>⭐ 76 · Python</sub>
+- [tomkam1702/OCR-Translator](https://github.com/tomkam1702/OCR-Translator) - 实时游戏字幕翻译,使用AI-power OCR. Context-aware 翻译20+语言. 免费离线模型+脏便宜API. 完美外语游戏! <sub>⭐ 76 · Python</sub>
+- [Vidhi1290/LLM---Detect-AI-Generated-Text](https://github.com/Vidhi1290/LLM---Detect-AI-Generated-Text) - AI-Genered Text Detection:一个BERT驱动的解决方案,用于准确识别AI生成的文本. Separmunication, 高度精密, 方便用户使用. <sub>⭐ 76 · Jupyter Notebook</sub>
+- [alberto-solano/open-source-LLM-translation-tool](https://github.com/alberto-solano/open-source-LLM-translation-tool) - 这个项目通过Hugging Face变压器库使用Meta NLLB-200的翻译模型. <sub>⭐ 75 · Python</sub>
+- [kata-ai/indosum](https://github.com/kata-ai/indosum) - 印度尼西亚文本汇总的基准数据集。 <sub>⭐ 75 · Python</sub>
+- [paulx3/keras_generative_pg](https://github.com/paulx3/keras_generative_pg) - 参数生成执行的深基因框架 <sub>⭐ 75 · Python</sub>
+- [tagoyal/sow-reap-paraphrasing](https://github.com/tagoyal/sow-reap-paraphrasing) - 包含"受控参数生成神经系统预序"(ACL 2020)论文的数据/代码. <sub>⭐ 75 · Python</sub>
+- [DjordjePetrovic/react-native-camera-translator](https://github.com/DjordjePetrovic/react-native-camera-translator) - 由Google的"Giorgio Cam"AI实验启发而来的一个小周末想法,使用Google的视野和翻译API <sub>⭐ 74 · JavaScript</sub>
+- [IBM/quality-controlled-paraphrase-generation](https://github.com/IBM/quality-controlled-paraphrase-generation) - 质量控制参数生成(ACL 2022) <sub>⭐ 74 · Python</sub>
+- [pemagrg1/NLP-Flask-Website](https://github.com/pemagrg1/NLP-Flask-Website) - 用于所有NLP任务的简易Flask网站,包括文本预处理,关键词提取,文本汇总等. Created Date:30 Jan 2019 <sub>⭐ 74 · HTML</sub>
+- [Ranjith00005/LawLens](https://github.com/Ranjith00005/LawLens) - 由AI授权的法律研究助理提供法律咨询、案件结果预测,以及利用FastAPI、Stremplit和Groq LLM从PDF文件生成报告。 <sub>⭐ 74 · Python</sub>
+- [daekeun-ml/ppt-translator](https://github.com/daekeun-ml/ppt-translator) - 一种强大的PowerPoint翻译工具,它利用亚马逊贝德罗克模型进行高质量的翻译. 这种服务既可以作为独立的命令行工具,也可以作为集成的MCP. . <sub>⭐ 72 · Python</sub>
+- [Foysal87/Bangla-NLP-Dataset](https://github.com/Foysal87/Bangla-NLP-Dataset) - Bangla NLP数据集. Bangla NER,POStag,文本总称化,句法,翻译,情绪分析,维基文章,根词,数据集等. <sub>⭐ 72</sub>
+- [abner-wong/textrank](https://github.com/abner-wong/textrank) - TextRank 的中文文本关键词提取和摘要 <sub>⭐ 71 · Python</sub>
+- [IEvangelist/resource-translator](https://github.com/IEvangelist/resource-translator) - 自动创建翻译文件的机器翻译 PR的 GitHub 动作。 支持的文件格式包括:.ini、.po、.restext、.resx、.xliff.json。 <sub>⭐ 71 · TypeScript</sub>
+- [leancodepl/arb_translate](https://github.com/leancodepl/arb_translate) - 由 LeanCode 使用 Google 双子计算机 LLM 自动添加缺失消息翻译到 ARB 文件的命令行工具 <sub>⭐ 71 · Dart</sub>
+- [ColinLu50/Evade-GPT-Detector](https://github.com/ColinLu50/Evade-GPT-Detector) - 官方为纸作"Large Language Models可以指导Evade AI-Generated Text Reference",载于TMLR 2024. <sub>⭐ 70 · Python</sub>
+- [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) - Laravel 双子座 AI 翻译解析器扫描您的 Laravel 工程以获取翻译密钥,使用 Google 双子座 AI 进行翻译,并生成语言文件自动流化和. <sub>⭐ 70 · PHP</sub>
+- [petermartens98/OpenAI-Whisper-Audio-Transcription-And-Summarization-Chatbot](https://github.com/petermartens98/OpenAI-Whisper-Audio-Transcription-And-Summarization-Chatbot) - 网络应用程序允许用户记录或上传音频文件。 然后使用 OpenAI API( Whisper, GPT4) 生成复制、摘要、事实检查、情绪分析以及文本参数。 用户... <sub>⭐ 70 · Python</sub>
+- [florian-kalisch/auto-mindmapping](https://github.com/florian-kalisch/auto-mindmapping) - 将你的心灵映射与这回波革命化,结合美人鱼和GPT-3.5-turbo / GPT-4! 手动吸引心灵图用于集思广益和文本总结,解锁创造力和. <sub>⭐ 69 · JavaScript</sub>
+- [gujord/OpenAPI-MCP](https://github.com/gujord/OpenAPI-MCP) - OpenAPI-MCP代理将OpenAPI的规格翻译为MCP工具,使得AI代理可以访问外部API而无需自定义包装! <sub>⭐ 69 · Python</sub>
+- [ngwgsang/vietquill](https://github.com/ngwgsang/vietquill) - 越国是越南语的释义生成,评价,质量控制的统一框架,支持研究和生产应用. 我们致力于推进越国. <sub>⭐ 69 · Python</sub>
+- [BatsResearch/planetarium](https://github.com/BatsResearch/planetarium) - 将规划问题的自然语言描述翻译成项目设计书,用于评估法学硕士的数据集和基准 <sub>⭐ 68 · Python</sub>
+- [ctxinf/webpage-summary](https://github.com/ctxinf/webpage-summary) - 浏览器扩展, 以 AI (用您自己的 Apikey) 来概括网页文本内容 <sub>⭐ 68 · TypeScript</sub>
+- [fzp0424/MT-R1-Zero](https://github.com/fzp0424/MT-R1-Zero) - (EMNLP'25) 纸张"MT-R1-Zero:通过R1-Zero类强化学习推进基于LLM的机器翻译"的代码. <sub>⭐ 68 · Python</sub>
+- [kharazi/moujez](https://github.com/kharazi/moujez) - 波斯文本摘要代理 <sub>⭐ 68 · JavaScript</sub>
+- [oneai-nlp/oneai-node](https://github.com/oneai-nlp/oneai-node) - 自然语言处理 - 概括,情绪分析,话题检测等等. <sub>⭐ 68 · TypeScript</sub>
+- [ritun16/llm-text-summarization](https://github.com/ritun16/llm-text-summarization) - 使用大语言模型(LLMs)进行文本归纳的综合指南和代码库。从块化到集群化,并利用GPT-3.5和GPT-4等LLMs的力量。 <sub>⭐ 68 · Python</sub>
+- [yyaadet/autosrt_page](https://github.com/yyaadet/autosrt_page) - AutoSRT是一个macOS应用程序,自动生成视频文件中的双语言字幕. <sub>⭐ 68 · Swift</sub>
+- [calmstate/polyglot](https://github.com/calmstate/polyglot) - Polyglot是一个使用AI的快速,优雅和免费的翻译工具. <sub>⭐ 67 · JavaScript</sub>
+- [HHousen/lecture2notes](https://github.com/HHousen/lecture2notes) - 将讲座视频转换为使用 AI & 机器学习的注解。 题为“ Lecture2Notes: 通过分类幻灯片和通过机器学习分析文本来总结讲座视频 ” 的研究代码 。 <sub>⭐ 67 · Jupyter Notebook</sub>
+- [Pickle-Pixel/HydraTeams](https://github.com/Pickle-Pixel/HydraTeams) - 翻译代理使克劳德代码代理团队模型不可知论,任何作为队友的模型——GPT,双子座,Ollama——都有完整的克劳德代码工具. <sub>⭐ 67 · TypeScript</sub>
+- [vishnu45/NLP-Extractive-NEWS-summarization-using-MMR](https://github.com/vishnu45/NLP-Extractive-NEWS-summarization-using-MMR) - 简便的python 执行文本总和的 最大边际相关性(MMR)基线系统. <sub>⭐ 67 · Python</sub>
+- [denven/mediascribe](https://github.com/denven/mediascribe) - CLI用于音频,视频和文本的转录,与ASR提供商通过本地或云后端进行LLM动力的汇总. <sub>⭐ 66 · Python</sub>
+- [geoffsmith82/Symposium2023](https://github.com/geoffsmith82/Symposium2023) - 演示语音识别,文本到语音,语言翻译,OAuth2,图像生成,面部检测和语音聊天台. <sub>⭐ 66 · Pascal</sub>
+- [jgw96/web-ai-toolkit](https://github.com/jgw96/web-ai-toolkit) - Web AI工具箱是一个强大的,隐私的第一台JavaScript库,它直接将高级的AI能力带给您的网络应用程序. 运行 OCR,语音对文本,文本概括,图像... <sub>⭐ 66 · TypeScript</sub>
+- [lyq9797/aigc_web](https://github.com/lyq9797/aigc_web) - AI文本检测系统协助用户在混合文本中对AI生成的内容进行精细检测. <sub>⭐ 66 · Python</sub>
+- [MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator) - 来自微软伙伴Zammo.ai的Conversational Azure OpenAI(ChatGPT)加速器使用OpenAI通过自动化对话与总结来改进客户体验,这杠杆作用于Azure... <sub>⭐ 65</sub>
+- [kiycoh/silica-core](https://github.com/kiycoh/silica-core) - 编码代理的检索工具, 循环中没有模型: 文件、 搜索、 读取、 代码_ pack and write_ note 在您的会话的文件夹上打开, 通过 MCP 服务 。 <sub>⭐ 64 · Python</sub>
+- [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) - 给你的AI助手提供真实的网页搜索,全页阅读,以及多源研究,其中引用从未捏造过. <sub>⭐ 63 · Go</sub>
+- [bayradion/rabbitmap](https://github.com/bayradion/rabbitmap) - Obsidian 无限画布插件,带有 AI 聊天节点。创建视觉工作空间,您可以在此与您的笔记一起进行多个 LLM 对话—— 并使用来自... 的简单拖放上下文管理 。 <sub>⭐ 62 · TypeScript</sub>
+- [fbgallet/roam-extension-live-ai-assistant](https://github.com/fbgallet/roam-extension-live-ai-assistant) - Roam研究中强大的AI助理 <sub>⭐ 62 · TypeScript</sub>
+- [ServerKarma/ObsidianPrivateAI](https://github.com/ServerKarma/ObsidianPrivateAI) - 与您的 Obsidian 笔记进行无奈的聊天, 首先使用一个隐私 LLM 。 私人设计时, 您的笔记不会离开设备, 只使用本地处理 。 <sub>⭐ 62 · TypeScript</sub>
+- [stevibe/SparklingKit](https://github.com/stevibe/SparklingKit) - 本地首款AI工作台用于OCR,转录,翻译,图像生成,心智图和可堆叠的工作流程. DGX Spark的构建. <sub>⭐ 62 · TypeScript</sub>
+- [vibheksoni/UniClaudeProxy](https://github.com/vibheksoni/UniClaudeProxy) - 使用 Claude 代码的 LLM —— 将 Anthropic API 翻译为 OpenAI, 双子座, DeepSeek, Ollama 等的代理 。 完整的工具调用、 流动、 ReAct XML 倒置、 热重装配置 。 <sub>⭐ 62 · Python</sub>
+- [beingamanforever/LLM-Text-Detection](https://github.com/beingamanforever/LLM-Text-Detection) - 利用强大的BERT(双向编码器代表变压器)对AI-Text检测进行完整综述和深入了解,以预测文本是AI生成的还是Human授权的 <sub>⭐ 61 · Jupyter Notebook</sub>
+- [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - 波斯语统计学和语义学文本摘要 <sub>⭐ 61 · Python</sub>
+- [travisvn/obsidian-vision-recall](https://github.com/travisvn/obsidian-vision-recall) - 使用 AI 视觉和文本分析将截图转换为可搜索 Obsidian 注释 <sub>⭐ 61 · TypeScript</sub>
+- [Lifailon/multranslate](https://github.com/Lifailon/multranslate) - 一个TUI,用于同时翻译多个译者以及OpenAI和当地LLM的文本,支持翻译历史和自动语言检测. <sub>⭐ 60 · JavaScript</sub>
+- [zhouying20/HMGC](https://github.com/zhouying20/HMGC) - COLLING'24 人性化机器-带原内容:通过逆袭逃出AI-Text检测 <sub>⭐ 60 · Python</sub>
+- [hashbangCoder/Text-Summarization](https://github.com/hashbangCoder/Text-Summarization) - 使用指针注意模型进行文本总结 <sub>⭐ 59 · Python</sub>
+- [MuzeAnisichael/LinguaRelay](https://github.com/MuzeAnisichael/LinguaRelay) - 中文,日文,英文和韩文的实时Windows系统-音频翻译标题,可选LLM修订版. <sub>⭐ 59 · Python</sub>
+- [Nicozwy/AIGTD-Survey](https://github.com/Nicozwy/AIGTD-Survey) - ESWA:模仿游戏重审:AI生成的文本检测中最近进展的综合调查 <sub>⭐ 59</sub>
+- [Text2Go/ai-humanizer-mcp-server](https://github.com/Text2Go/ai-humanizer-mcp-server) - 一个强大的模型背景协议(MCP)服务器,它帮助精炼AI生成的内容,以听起来更自然和人性化. 构建时具有先进的AI检测和文本增强能力. <sub>⭐ 59 · JavaScript</sub>
+- [toru34/li_emnlp_2017](https://github.com/toru34/li_emnlp_2017) - DyNet 中抽象文本摘要的深源代码 <sub>⭐ 59 · Python</sub>
+- [Nygosaki/AI-Writing-Detection](https://github.com/Nygosaki/AI-Writing-Detection) - 此工具将把输入的文本解析成许多不同的现有的 AI 写入检测工具, 并将结果返回给您。 这样就可以用尽可能多的工具扫描文本而不... <sub>⭐ 58 · Python</sub>
+- [antonyronlado/Fake_News_Detector](https://github.com/antonyronlado/Fake_News_Detector) - 实时假新闻侦测系统,其中包含文字摘要和在线装瓶 <sub>⭐ 57 · HTML</sub>
+- [FMXExpress/AI-Code-Translator](https://github.com/FMXExpress/AI-Code-Translator) - 使用ChatGPT将源代码从C++,Python,和C#等语言翻译到Delphi. <sub>⭐ 57 · Pascal</sub>
+- [JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models](https://github.com/JESWANTH1421/Automatic-Video-Summarization-Using-Whisper-and-Transformer-Models) - 这个项目从YouTube视频中提取音频,使用OpenAI Whisper将语音转换为文本,并使用基于变压器的NLP模型总结内容以节省时间和改进内容. . <sub>⭐ 57 · Python</sub>
+- [RainerSeventeen/paper-tracker](https://github.com/RainerSeventeen/paper-tracker) - 基于关键词的学术纸质跟踪器支持arXiv & OpenAlex,具有LLM动力翻译和多格式输出(JSON/Markdown/HTML). <sub>⭐ 57 · Python</sub>
+- [RussianNLP/russian_paraphrasers](https://github.com/RussianNLP/russian_paraphrasers) - 俄语解译器。 生成带有 mt5, gpt2 的解译器 。 <sub>⭐ 57 · Python</sub>
+- [Supervertaler/Supervertaler-Workbench](https://github.com/Supervertaler/Supervertaler-Workbench) - 自由,开源的独立CAT工具:编辑器,AI翻译,termbase,TMS,加上全系统剪贴板管理器,Super Lookup,QuickTrans and voice dictation. 见Supervertaler-for-Trados for the... <sub>⭐ 57 · Python</sub>
+- [Xia-Ataraxia/obsidian-metadata-auto-classifier](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) - 使用 AI 提供者为您的笔记生成标记和前题元数据 的 Obsidian 插件 。 <sub>⭐ 57 · TypeScript</sub>
+- [ceshine/textrank_demo](https://github.com/ceshine/textrank_demo) - 一个展示TextRank采掘总结能力的简单网站. <sub>⭐ 56 · HTML</sub>
+- [gjha133/ChatGPT-clone-mern](https://github.com/gjha133/ChatGPT-clone-mern) - ChatGPT( GPT-3) 克隆, 具有文本总览、 段落生成器、 代码转换器和 AI 图像生成器等额外功能, 使用 OpenAI API. MAN App with auth。 请检查 README 是否更新 <sub>⭐ 56 · JavaScript</sub>
+- [google-marketing-solutions/description_genius](https://github.com/google-marketing-solutions/description_genius) - 利用产品特性和客户审查或使用说明等额外信息来源,容易生成和翻译吸引性产品描述。 <sub>⭐ 56 · Python</sub>
+- [InterfazeAI/postgres-llm](https://github.com/InterfazeAI/postgres-llm) - 一个动态 Postgres 触发函数,在您的数据库中直接运行 LLM 请求,用于翻译、分类、归纳等更多案例 <sub>⭐ 56 · PLpgSQL</sub>
+- [KeloYuan/Niki-AI](https://github.com/KeloYuan/Niki-AI) - 将克劳德代码嵌入为AI写作同伴的Obsidian插件——智能上下文,撤销,diff预览,多线程聊天. <sub>⭐ 56 · JavaScript</sub>
+- [gunesmes/Translate-subtitles-with-AI](https://github.com/gunesmes/Translate-subtitles-with-AI) - CLI 和包,用于无瑕疵翻译。 Transitle 是基于AI的字幕翻译。 它允许您在目录中翻译字幕, 与您最喜爱的翻译不瑕疵。 翻译一堆... <sub>⭐ 55 · Python</sub>
+- [kedz/sumpy](https://github.com/kedz/sumpy) - SUMPY:一个蟒蛇自动文本汇总库 <sub>⭐ 55 · Python</sub>
+- [Rico00121/hugo-translator](https://github.com/Rico00121/hugo-translator) - LLM 驱动的文章翻译器,可以自动翻译并创建新文件(名称). (lng.md 文件) <sub>⭐ 55 · Python</sub>
+- [adamfabish/Reduction](https://github.com/adamfabish/Reduction) - 缩写是一种蟒蛇脚本,它通过提取被认为最重要的句子而自动总结一个文本. <sub>⭐ 54 · Python</sub>
+- [assafelovic/nlp_url_summarizer](https://github.com/assafelovic/nlp_url_summarizer) - 使用 Web Crawling 和 NLP( 用 Python 写) 的 URL 文章文本摘要 <sub>⭐ 54 · Python</sub>
+- [Ighina/DeepTiling](https://github.com/Ighina/DeepTiling) - 一个基于文本分割(aka people specification)的基于文本分割的算法,它使用神经句编码器,以及在其上方构建的提取归纳和语义搜索应用程序. <sub>⭐ 54 · Python</sub>
+- [lengff123/cursor-bridge](https://github.com/lengff123/cursor-bridge) - 无缝桥 Obsidian 和 Cursor, AI 驱动的代码编辑器。 通过直接在 Cursor 中打开注释来提升您的编码工作流程, 将 AI 的力量带入您的知识库 。 <sub>⭐ 54 · TypeScript</sub>
+- [macanv/MQNLP](https://github.com/macanv/MQNLP) - QQ 自然语言处理的一些实验,如文本分类,命名实体识别,pos-tags,段,关键词提取器,自动总结等. <sub>⭐ 54 · Jupyter Notebook</sub>
+- [AnujK2901/yt-sum-flask](https://github.com/AnujK2901/yt-sum-flask) - YouTube Transcription over Flask:这个后端使用Flask框架接收客户端的API呼叫,然后用摘要文本响应来回复. 这个API只能工作在... <sub>⭐ 53 · Python</sub>
+- [mittumelinda/AI-text-Summarizer](https://github.com/mittumelinda/AI-text-Summarizer) - 使用 Streamlit 和 TF- IDF 的轻量级 NLP 文本摘要。 即时总结长文本 ! <sub>⭐ 53 · Python</sub>
+- [pinkglow/FoxAI-Extension](https://github.com/pinkglow/FoxAI-Extension) - 写邮件和信件,修补语法错误,重述文字,总结文本,翻译,并更多使用双子座或ChatGPT AI. Works on all sites. <sub>⭐ 53 · JavaScript</sub>
+- [realies/translategemma-ui](https://github.com/realies/translategemma-ui) - TranslateGemma的网络界面, Google 的开放翻译模式 <sub>⭐ 53 · TypeScript</sub>
+- [vieiraae/obsidian-sidekick](https://github.com/vieiraae/obsidian-sidekick) - 参见你的AI侧写——第二脑将代理,工具,技能,自动补全和智能工作流程直接带入你的笔记中. <sub>⭐ 53 · TypeScript</sub>
+- [Austin-AS/AI_Emotional_Mirror](https://github.com/Austin-AS/AI_Emotional_Mirror) - AI情感镜是一个AI/ML项目,它分析自由形式文本,以总结思想,检测情绪,并利用NLP,变压器产生平静的非判断性的情感反射和. <sub>⭐ 52 · Python</sub>
+- [badripatro/PQG](https://github.com/badripatro/PQG) - 纸质标题"学习语义判词使用对等-明智歧视者嵌入"(COLING-2018)的代码. <sub>⭐ 52 · Jupyter Notebook</sub>
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - 自动托管、代理- 本地网络应用程序和 MCP 服务器, 用于您的 Obsidian 风格的 Markdown 金库。 浏览、 搜索和编辑一个快速的 UI 或 AI 代理的笔记 。 <sub>⭐ 52 · Rust</sub>
+- [dynamiccreator/voice-text-reader](https://github.com/dynamiccreator/voice-text-reader) - 实时 tts 通过您最喜欢的声音读取大文本文件。 + 通过 LLM( Python 脚本) 翻译 <sub>⭐ 52 · Python</sub>
+- [lipiji/DRGD-LCSTS](https://github.com/lipiji/DRGD-LCSTS) - “摘要文字的深层经常性编解码器”的代码 <sub>⭐ 52 · Python</sub>
+- [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) - 为研究人员提供人工智能文献审查助理 <sub>⭐ 52 · Python</sub>
+- [nakhunchumpolsathien/ThaiSum](https://github.com/nakhunchumpolsathien/ThaiSum) - 泰国文字汇总数据集,来自泰国文、泰国文、PBS、Prachathai和The Standard,有35万多篇文章,提供了训练有素的模型。 <sub>⭐ 52 · Jupyter Notebook</sub>
+- [Satissss/Squrve](https://github.com/Satissss/Squrve) - Squrve是一个轻量级但强大的框架,用于在复杂的数据库中将自然语言翻译为SQL. <sub>⭐ 52 · Python</sub>
+- [sgoedecke/deckard](https://github.com/sgoedecke/deckard) - 您浏览器的本地 AI- text 检测 。 <sub>⭐ 52 · JavaScript</sub>
+- [chengez/Adversarial-Paraphrasing](https://github.com/chengez/Adversarial-Paraphrasing) - (NeurIPS 2025) 论文"反义辞典:对人性化AI-Generated文本的普遍攻击"的执行. <sub>⭐ 51 · Python</sub>
+- [CyrusCKF/translator](https://github.com/CyrusCKF/translator) - 了解背景的 LLM 翻译( CALT) <sub>⭐ 51 · TypeScript</sub>
+- [dipanjanS/adv_nlp_workshop_odsc_europe22](https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22) - 为2020年欧洲开放数据科学会议高级NLP讲习班提供广泛的辅导,我们将利用深入的学习和深入的转移学习来解决NLP中的流行任务,包括. <sub>⭐ 51 · Jupyter Notebook</sub>
+- [fzp0424/self_correct_mt](https://github.com/fzp0424/self_correct_mt) - (NAACL'25) TEAR框架为论文"TEAR:以系统自译法改进基于LLM的机器翻译". <sub>⭐ 51 · Ruby</sub>
+- [ZAYUVALYA/AI-Text-Humanizer](https://github.com/ZAYUVALYA/AI-Text-Humanizer) - ZAYUVALYA - AI Humanizer是一个开发工具,旨在重写AI生成的文本,使其更自然,并减少AI内容检测器的检测. 目前处于早期阶段,项目... <sub>⭐ 51 · HTML</sub>
+- [zh30/native-translate](https://github.com/zh30/native-translate) - 使用 Chrome 构建的 AI 翻译和语言检测器进行私有、本地的首个翻译。 没有云调音, 没有遥测 —— 您的内容永远不会离开浏览器 。 <sub>⭐ 51 · TypeScript</sub>
+- [louisfb01/obsidian-agent-vault-template](https://github.com/louisfb01/obsidian-agent-vault-template) - 用于运行AI代理(Claude,Codex等)的即时使用Obsidian金库作为个人OS:技能,地盘笔记,以及自我改进的反馈循环. Clone和打开作为金库. <sub>⭐ 50</sub>
+- [yunwei37/OpenAI-Continuous-Translator](https://github.com/yunwei37/OpenAI-Continuous-Translator) - 在 Github 中以 OpenAI 翻译多种格式动作 <sub>⭐ 50 · Python</sub>
+- [Aniruddha-Tapas/How-to-use-SyntaxNet](https://github.com/Aniruddha-Tapas/How-to-use-SyntaxNet) - 演示码用于基本的解析法使用语法网. <sub>⭐ 49 · Python</sub>
+- [humanizerai/agent-skills](https://github.com/humanizerai/agent-skills) - Claude Code和Codex的 HumanizerAI 代理技能 - 人工智能检测和文本人性化 <sub>⭐ 49</sub>
+- [InternScience/ResearchHarness](https://github.com/InternScience/ResearchHarness) - 一种轻量级、通用的LLM代理工具、公平基准评估、利用基线和个人助理工作流程。 <sub>⭐ 49 · Python</sub>
+- [IwasakiYuuki/Bert-abstractive-text-summarization](https://github.com/IwasakiYuuki/Bert-abstractive-text-summarization) - 日本语句与 BERT 的总结 <sub>⭐ 49 · Python</sub>
+- [LetovKai/call-translator](https://github.com/LetovKai/call-translator) - 视频通话的实时语音翻译。 在 Google Meet, Zoom 或任何调用应用程序上说出您的语言—— 对方即时听到翻译的演讲。 用 Deepgram 的语音对语音翻译... <sub>⭐ 49 · Rust</sub>
+- [licon/ez-translate](https://github.com/licon/ez-translate) - EZ Translate:一个使用AI LLM(如双子座,Gemma,QWEN)的铬扩展,用于页面,截图和弹出翻译. <sub>⭐ 49 · JavaScript</sub>
+- [Nuo27/Potplayer-Ollama-Translate](https://github.com/Nuo27/Potplayer-Ollama-Translate) - Potplayer、 本地 ollama 和自定义 api 的实时翻译插件支持 <sub>⭐ 49 · AngelScript</sub>
+- [oztrkoguz/SubtitleAI](https://github.com/oztrkoguz/SubtitleAI) - AI驱动工具,通过生成场景描述,翻译视频,以及制作字幕视频并配有文字对语音的描述来总结YouTube视频 <sub>⭐ 49 · Python</sub>
+- [simonkarl250/Paraphraser_AI_text_Humanizer_Zero_percent](https://github.com/simonkarl250/Paraphraser_AI_text_Humanizer_Zero_percent) - 将一个AI生成的文本从100%的AI转换为Z0%的AI,简言之,它使文本具有人性化. <sub>⭐ 49 · Python</sub>
+- [cau-hai-lab/LIBERO-Para](https://github.com/cau-hai-lab/LIBERO-Para) - "LIBERO-Para:VLA模型中解释强健性的诊断基准和量子"的官方代码(EMNLP 2026 Main, Orver). <sub>⭐ 48 · Python</sub>
+- [Snap-Mind/snap-mind](https://github.com/Snap-Mind/snap-mind) - 一个跨平台的桌面AI助手,可以让你用一个热键来翻译,重写,总结和脑暴. <sub>⭐ 48 · TypeScript</sub>
+- [spencermarx/obsidian-ai](https://github.com/spencermarx/obsidian-ai) - 把自己的AI环境带到Obsidian,用于注释/doc的创建,精细化,搜索,组织,管理,你取名! <sub>⭐ 48 · TypeScript</sub>
+- [TTomas65/Subtitle-Translator-for-LM-Studio](https://github.com/TTomas65/Subtitle-Translator-for-LM-Studio) - 这个应用程序是一个简单但强大的网络工具,用于以.srt格式翻译字幕文件. 要翻译文件,请使用运行在您本地机器上的LM Studio AI模型或在线模型中. <sub>⭐ 48 · JavaScript</sub>
+- [xjtupanda/Sparrow](https://github.com/xjtupanda/Sparrow) - "T2Vid:将长文本翻译成多图像是视频-LLMs的催化剂" <sub>⭐ 48</sub>
+- [AliAkrami1375/Li-Translate](https://github.com/AliAkrami1375/Li-Translate) - 开源AI动力字幕生成和视频音频自然语言翻译平台. <sub>⭐ 47 · Vue</sub>
+- [CosmicResearchCenter/chat2note](https://github.com/CosmicResearchCenter/chat2note) - 这是一个工具, 可以使用 LLM API 自动将聊天日志翻译为注释 <sub>⭐ 47 · Python</sub>
+- [dev-chauhan/PQG-pytorch](https://github.com/dev-chauhan/PQG-pytorch) - 使用对等歧义损失的生成模型 <sub>⭐ 47 · Python</sub>
+- [gorschal/wanish](https://github.com/gorschal/wanish) - 总结网络文章:提取干净的内容,标题,图像,语言,并生成文本摘要 <sub>⭐ 47 · Python</sub>
+- [pescheckit/python-gpt-po](https://github.com/pescheckit/python-gpt-po) - 使用OpenAI,Azure OpenAI,Claude,DeepSeek和Ollama的Getext.po文件的AI动力翻译支持批量,模糊清理,语言自动检测. <sub>⭐ 47 · Python</sub>
+- [raphasouthall/neurostack](https://github.com/raphasouthall/neurostack) - 本地RAG层和优化您的Markdown知识库. CLI + MCP服务器:任何AI客户端的被禁答案, stale-note检测,会话收录到记忆中. local-first. <sub>⭐ 47 · Python</sub>
+- [Abrechen2/sublarr](https://github.com/Abrechen2/sublarr) - 自动托管的动漫和媒体字幕管理器和LLM翻译——* 与本地完全兼容 <sub>⭐ 46 · Python</sub>
+- [Krishna18062005/Research-paper-Summary](https://github.com/Krishna18062005/Research-paper-Summary) - 研究论文摘要项目将使用Python和自然语言处理(NLP)的研究论文的总结自动化,它提取关键信息,生成简明摘要. . <sub>⭐ 46 · Jupyter Notebook</sub>
+- [shamspias/lexsublm-lite](https://github.com/shamspias/lexsublm-lite) - 方便手提电脑的工具包,用于上下文的“认识到”单词解释和“替代词汇”基准 <sub>⭐ 46 · Python</sub>
+- [Ho3seinTork/Subtitle-Translator-with-LLMs](https://github.com/Ho3seinTork/Subtitle-Translator-with-LLMs) - 自定义子标题翻译 – 本地 HTML App 一个轻量级的本地 HTML 工具,通过 API 获取字幕文件,并使用自定义的设置进行翻译. 它提供了对翻译的全面控制... <sub>⭐ 45 · HTML</sub>
+- [jaijuneja/PyTLDR](https://github.com/jaijuneja/PyTLDR) - 自动总结文本文档和网页的 python 模块 <sub>⭐ 45 · Python</sub>
+- [purecodework/bookllm](https://github.com/purecodework/bookllm) - 与法学硕士翻译书籍和文件,主要内容是词汇提取、审查以及抛光管道。 <sub>⭐ 45 · TypeScript</sub>
+- [SwapnikKatkoori/node-summarizer](https://github.com/SwapnikKatkoori/node-summarizer) - 一个简单的节点模块,允许用户对文本进行总结 <sub>⭐ 45 · JavaScript</sub>
+- [vered1986/Chirps](https://github.com/vered1986/Chirps) - 一个大型自动构建的预设参数资源 <sub>⭐ 45 · Python</sub>
+- [dsdanielpark/hf-transllm](https://github.com/dsdanielpark/hf-transllm) - LLM翻译器以多种语言翻译并生成文本. <sub>⭐ 44 · Jupyter Notebook</sub>
+- [sukamenev/booktrans](https://github.com/sukamenev/booktrans) - 全书翻译管道——探查本书,翻译上下文,编辑,增加脚注. epub, fb2, pdf, txt, html in; epub, fb2, html, txt out. <sub>⭐ 44 · Python</sub>
+- [totocaster/arrowhead](https://github.com/totocaster/arrowhead) - 快速Absidian-aware搜索和发现,使得AI代理或OpenClaw成为真正的知识助理. <sub>⭐ 44 · Rust</sub>
+- [blurryface13/asteria-agent](https://github.com/blurryface13/asteria-agent) - 本地首个AI研究助理:计划子清点,搜索网络,并写出充分引用的报告. LangChain + LangGraph 多代理 + FastAPI + Next.js,并带有电子邮件-OTP auth和每个用户... <sub>⭐ 43 · Python</sub>
+- [JoramMillenaar/obsidian-similarity](https://github.com/JoramMillenaar/obsidian-similarity) - 搜索、 探索和查看基于其含义的相关笔记。 使用一个完全运行在设备上的小AI: 数据永远不会离开您的机器, 没有需要的 API 密钥 。 对日记或第二个大脑都有好处 。 <sub>⭐ 43 · TypeScript</sub>
+- [AmritaBh/ConDA-gen-text-detection](https://github.com/AmritaBh/ConDA-gen-text-detection) - 论文代码: ConDA:用于AI生成文本检测的对比域适应 <sub>⭐ 42 · Python</sub>
+- [charyan/osh](https://github.com/charyan/osh) - Ollama Shell Helper( osh):英文至Unix类 Shell Commands 翻译,使用本地 LLMs 与 Ollama 一起翻译 <sub>⭐ 42 · Python</sub>
+- [deepaksood619/deepaksood619.github.io](https://github.com/deepaksood619/deepaksood619.github.io) - 深音符/ 第二脑 <sub>⭐ 42 · JavaScript</sub>
+- [FellowTraveler/ngest](https://github.com/FellowTraveler/ngest) - 用于将各种文件输入语义图的 Python 脚本。 对于文本、图像、 cpp、 python、 锈蚀、 javascript, 以及 PDF 。 <sub>⭐ 42 · Python</sub>
+- [luckylykkk/LocalAItable](https://github.com/luckylykkk/LocalAItable) - 通过引用本地大语言模型,这个工具处理类似于多维表格的电子表格,它可以使用AI对Excel/CSV数据进行批量生成内容. 该工具支持. <sub>⭐ 42 · Python</sub>
+- [moeru-ai/arpk](https://github.com/moeru-ai/arpk) - LLM作为你的翻译,与DeepLX兼容的API. <sub>⭐ 42 · TypeScript</sub>
+- [Olcmyk/Meowth-GBA-Translator](https://github.com/Olcmyk/Meowth-GBA-Translator) - 一个完全自动化的GBA Pokémon ROM翻译器,由LLMs. Semmlesservation → Translate → 构建6种语言(EN, ZH, FR, DE, IT, ES)提供动力,通过GUI或CLI点击一击. <sub>⭐ 42 · Python</sub>
+- [pink-doublethink/PromptAtoms](https://github.com/pink-doublethink/PromptAtoms) - 集原子笔记,总结AI项目中的Telegram文章。所有内容都用俄语。 <sub>⭐ 42</sub>
+- [Amey-Thakur/TEXT-SUMMARIZER](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) - 利用SpaCy,NLTK,Gensim和Sumy进行文字归纳算法比较和评估的机器学习项目. <sub>⭐ 41 · HTML</sub>
+- [everydaycodings/Text-Summarization-using-NLP](https://github.com/everydaycodings/Text-Summarization-using-NLP) - 文本摘要使用 NLP 获取 BBC 新闻文章并摘要其文本, 也包括自定义文章摘要 <sub>⭐ 41 · Python</sub>
+- [hkoziolek/Spec2Control](https://github.com/hkoziolek/Spec2Control) - LLM-工作流将控制叙事翻译为IEC 61131-3函数块图(FBD). <sub>⭐ 41 · Python</sub>
+- [itsKayWat/ChatGPT-Recipe_Studio](https://github.com/itsKayWat/ChatGPT-Recipe_Studio) - ChatGPT Recipe Studiois 用于创建和管理 ChatGPT "recipes" - 预设文本处理模式用于重写,总结,回复和电子邮件创建。它以 Python & PyQt6 构建 。 它提供了一个... <sub>⭐ 41 · Python</sub>
+- [lancopku/SRB](https://github.com/lancopku/SRB) - "改进语义相关性,以序列为序学习中国社会媒体文字总结"的代码. <sub>⭐ 41 · Python</sub>
+- [RxNLP/PyRXNLP](https://github.com/RxNLP/PyRXNLP) - 建立智能数据驱动的应用程序,尽量少费力气。句子组合、专题提取、文本相似性、意见总结等等。 <sub>⭐ 41 · Python</sub>
+- [theognis1002/mcp-gateway](https://github.com/theognis1002/mcp-gateway) - 模式上下文协议(MCP)Gateway & Register - 管理工具,资源的中央中心枢纽,以及用于MCP兼容的LLMS的提示. Translates REST APIs into MCP, 构建虚拟MCP服务器,使用... <sub>⭐ 41 · Go</sub>
+- [yaserkl/TransferRL](https://github.com/yaserkl/TransferRL) - 深传输强化学习,用于文本总结 <sub>⭐ 41 · Python</sub>
+- [ayushoriginal/Ngram-Graphs](https://github.com/ayushoriginal/Ngram-Graphs) - N-gm图及其在文本分类和基于摘要的提取领域的应用分析 <sub>⭐ 40 · Java</sub>
+- [irbull/obsidian-ai-summary](https://github.com/irbull/obsidian-ai-summary) - 使用 ChatGPT 生成引用注释摘要的 Obsidian 插件 <sub>⭐ 40 · TypeScript</sub>
+- [moonlin1213/cove-book-forge-mcp](https://github.com/moonlin1213/cove-book-forge-mcp) - 通过开放的MCP服务器,将PDF和EPUB账簿转换为缓存的AI分析,Obsidian笔记,以及可安装的Codex/Claude Agent Swills. <sub>⭐ 40 · Python</sub>
+- [never13254/GhostType](https://github.com/never13254/GhostType) - macOS语音生产率app——内置的拼写,AI重写,和翻译. Powered by local Whisper + LLM. <sub>⭐ 40 · Swift</sub>
+- [tronghieu/lumina-wiki](https://github.com/tronghieu/lumina-wiki) - AI授权研究助理,负责阅读、理解、组织和连接知识,执行Karopathy的LLM Wiki <sub>⭐ 40 · JavaScript</sub>
+- [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - Curfied Dify工作流程DSL文件和模板,用于RAG,代理,搜索,翻译,深度研究,SIO和自动化. <sub>⭐ 39</sub>
+- [BarakOshri/TextualReconstructor](https://github.com/BarakOshri/TextualReconstructor) - 培训自动编码器,以重建文本,生成宝贵的句子或段落的汇总 <sub>⭐ 39 · Python</sub>
+- [dataprofessor/langchain-text-summarization](https://github.com/dataprofessor/langchain-text-summarization) - 使用 Langchain 和 Streamlit 构建的文本摘要化 App <sub>⭐ 39 · Python</sub>
+- [echo-saurav/obsidian-ai-note-suggestion](https://github.com/echo-saurav/obsidian-ai-note-suggestion) - 为 obsidian.md 设置一个插件,用于不费力地在您输入时获得语义含义的注解建议基础,从而不需要复杂的标记。简化记号。 <sub>⭐ 39 · TypeScript</sub>
+- [hxcm-cre/scholar-agent](https://github.com/hxcm-cre/scholar-agent) - 学者 - 代理情报研究助理,文学搜索,量子提取,AI分析 <sub>⭐ 39 · Python</sub>
+- [hyukkyukang/table-to-text](https://github.com/hyukkyukang/table-to-text) - 表格对图文摘要模型 <sub>⭐ 39 · Python</sub>
+- [jiacheng-xu/neu-compression-sum](https://github.com/jiacheng-xu/neu-compression-sum) - 联合采掘和压缩文本摘要 <sub>⭐ 39 · Python</sub>
+- [khwerhahn/MindMatrix](https://github.com/khwerhahn/MindMatrix) - 将金库笔记推向 postgres 矢量数据库的 Obsidian 插件, 用于个人助理 <sub>⭐ 39 · TypeScript</sub>
+- [nsi319/Finetune-Transformers](https://github.com/nsi319/Finetune-Transformers) - 通过微调以下2seq模型进行抽象文本概括. <sub>⭐ 39 · Python</sub>
+- [saidziani/Sumrized](https://github.com/saidziani/Sumrized) - 自动文本汇总(英文/阿拉伯文). <sub>⭐ 39 · Jupyter Notebook</sub>
+- [theRizwan/llm7-codex-proxy](https://github.com/theRizwan/llm7-codex-proxy) - Python 代理让 Codex app通过一个兼容本地端点与 LLM7 交谈。 将响应 API 请求翻译为聊天补全, 保存工具定义和流... <sub>⭐ 39 · Python</sub>
+- [tuan3w/obsidian-vault-agent](https://github.com/tuan3w/obsidian-vault-agent) - Claude Code 插件:您的 Obsidian 保险库的 AI 代理 —— 处理书籍、课程、论文、 YouTube 输入连接的注释 <sub>⭐ 39 · Python</sub>
+- [ajinkya933/ClearText](https://github.com/ajinkya933/ClearText) - ClearText是一个AI驱动的文本检测和增强工具,它有助于使图像中的文本更可读和更清晰. 完美地提高了扫描文档,照片中文本的清晰度以及... <sub>⭐ 38 · Python</sub>
+- [oneai-nlp/oneai-python](https://github.com/oneai-nlp/oneai-python) - Python SDK for One AI API. One AI是一个 NLP-as- a- service平台. 我们的API使语言在上下文中理解,将来自任意来源的文本转换为结构化数据,用于代码. <sub>⭐ 38 · Python</sub>
+- [orion-gz/EasyPaper](https://github.com/orion-gz/EasyPaper) - 使用 AI 文档的工作空间 <sub>⭐ 38 · JavaScript</sub>
+- [WING-NUS/SWING](https://github.com/WING-NUS/SWING) - 来自Web IR/NLP Group(WING)的汇总器,因此SWING是一个模块化,最先进的自动采掘文本汇总系统,被用作在.进行汇总研究的基础. <sub>⭐ 38 · Ruby</sub>
+- [ArGintum/GPTID](https://github.com/ArGintum/GPTID) - 用于强力检测AI-Generated文本的 Intrinsic 维度估计的官方代码寄存器 <sub>⭐ 37 · Jupyter Notebook</sub>
+- [AudayBerro/automatedParaphrase](https://github.com/AudayBerro/automatedParaphrase) - 自动解释生成 <sub>⭐ 37 · Python</sub>
+- [bramses/summarize-with-gpt3-obsidian](https://github.com/bramses/summarize-with-gpt3-obsidian) - 以 Obsidian (渐进式归纳) 简写为 GPT-3 <sub>⭐ 37 · TypeScript</sub>
+- [CristiVlad25/chromeGPT](https://github.com/CristiVlad25/chromeGPT) - 一个使用GPT3来总结突出显示文本的铬扩展. <sub>⭐ 37 · JavaScript</sub>
+- [G9KBytes-Labs/Plaud-Claude-Obsidian](https://github.com/G9KBytes-Labs/Plaud-Claude-Obsidian) - Plaud → Claude → Obsidian Audio Pipeline A自动管道,将录音从Plaud设备中转录出来,并使用AI将其转换成结构化的Obsidian音符. <sub>⭐ 37 · Python</sub>
+- [hummat/paperpipe](https://github.com/hummat/paperpipe) - 从LLM编码助理(arXiv、LaTeX、RAG)的研究论文中提取方程式和上下文 <sub>⭐ 37 · Python</sub>
+- [magefan/module-translation](https://github.com/magefan/module-translation) - Magento 2 翻译扩展是一个解决方案,允许您直接从管理员面板上覆盖和翻译存储中的所有页面,使用手动翻译表或自动与. <sub>⭐ 37 · PHP</sub>
+- [microsoft/Text2Grad](https://github.com/microsoft/Text2Grad) - Text2Grad: 将自然语言反馈转换为梯度信号, 以精确的模型优化。 革命性地将 RLHF 进行跨级别奖励, 并在整个代码生成过程中有针对性地改进... <sub>⭐ 37 · Python</sub>
+- [tsundereraws/aisub-translator](https://github.com/tsundereraws/aisub-translator) - 一个基于Python的工具,使用来自OpenAI,Anthropic's Claude,OpenRouter,Mistrali和DeepSeek的AI API来翻译字幕文件(.ass,.srt). <sub>⭐ 37 · Python</sub>
+- [Azure-Samples/sonic-brief](https://github.com/Azure-Samples/sonic-brief) - 索尼奇简讯计划(Sonic Brief Project)是一个基于Azure的系统,使用Azure Speech to-Text和GPT-4o对录音进行转录和总结,精简企业的工作流程,医疗保健,以及法律用途. . <sub>⭐ 36 · TypeScript</sub>
+- [hclivess/ollama-batch-processor](https://github.com/hclivess/ollama-batch-processor) - 批量处理器可以使大量内容被奥拉马消化,其重点是书籍处理和默认的翻译,通过json可以完全配置. <sub>⭐ 36 · Python</sub>
+- [hugomossberg/Babel](https://github.com/hugomossberg/Babel) - 自动AI字幕提取器,SDH清洁器和翻译. <sub>⭐ 36 · Python</sub>
+- [kaminoguo/xiaoniao](https://github.com/kaminoguo/xiaoniao) - 轻量级AI 驱动打字翻译器 - 用剪贴板监视器键入时进行翻译 <sub>⭐ 36 · Go</sub>
+- [nicolaischneider/obsidianRAGsody](https://github.com/nicolaischneider/obsidianRAGsody) - CLI 智能 Obsidian 库式交互工具,使用 RAG. 查询您的笔记与自然语言,并转换 URL 以 AI 驱动的内容提取标记下的文件. <sub>⭐ 36 · Python</sub>
+- [NucleusFramework/EdgeTranslator](https://github.com/NucleusFramework/EdgeTranslator) - 桌面的离线翻译 <sub>⭐ 36 · Kotlin</sub>
+- [prakhar21/T5-Text-to-Text-Transfer-Transformer](https://github.com/prakhar21/T5-Text-to-Text-Transfer-Transformer) - T5型机车的解调,用于各种预训任务. <sub>⭐ 36 · Jupyter Notebook</sub>
+- [xuzhe35/LLM-Subtitles](https://github.com/xuzhe35/LLM-Subtitles) - 自动字幕生成和翻译工具,并有脆弱性修正。 <sub>⭐ 36 · Python</sub>
+- [yigitkonur/cli-localize](https://github.com/yigitkonur/cli-localize) - AI-动力本地化 CLI — SRT, JSON, PO, XML, ARB 带有符号意识的批量 <sub>⭐ 36 · Python</sub>
+- [andersondanieln/polyglot](https://github.com/andersondanieln/polyglot) - 桌面应用程序用于即时的 AI 驱动文本转换 。 使用本地 AI 实例翻译、 校正、 概括和更改任意文本的语气 。 <sub>⭐ 35 · TypeScript</sub>
+- [athina-ai/ariadne](https://github.com/athina-ai/ariadne) - LLM Evals for Text Summalization and RAG use-case. 互联网档案馆的存檔,存档日期2013-09-04., p. <sub>⭐ 35 · Python</sub>
+- [kariminf/allsummarizer](https://github.com/kariminf/allsummarizer) - 使用统计方法和提取的多语言自动文本摘要 <sub>⭐ 35 · Java</sub>
+- [L0Z1K/para-Kor](https://github.com/L0Z1K/para-Kor) - 用 GPT-3 创建参数化韩语句 <sub>⭐ 35 · Python</sub>
+- [laurensent/InstantLingua](https://github.com/laurensent/InstantLingua) - InstantLingua – LLM- Driven PopClip扩展用于翻译和写作. 支持来自OpenAI,克劳德,格罗克和双子座的AI. <sub>⭐ 35 · TypeScript</sub>
+- [lehuyqq/Manga-Translator-Extension](https://github.com/lehuyqq/Manga-Translator-Extension) - 浏览器扩展用于使用您自己的 LLM 提供者在浏览器中翻译manga 页面,其中包含页面扫描,自动翻译,外部文本检测,以及本地FastAPI后端. <sub>⭐ 35 · Python</sub>
+- [P4ST4S/AutoScanlate-AI](https://github.com/P4ST4S/AutoScanlate-AI) - 一个完全本地化,GPU加速的管道,可以自动翻译漫畫/動漫. Features YOLO detection, MangaOCR, LLM transfer (Quen), 以及智能排版. 没有外部API. <sub>⭐ 35 · Go</sub>
+- [aalobaidi/ggRMCP](https://github.com/aalobaidi/ggRMCP) - ggRMCP是将gRPC服务转换为MCP兼容工具的网关,允许克劳德等AI模型直接调用您的gRPC服务. 它充当gRPC世界与... <sub>⭐ 34 · Go</sub>
+- [bmen25124/SillyTavern-Magic-Translation](https://github.com/bmen25124/SillyTavern-Magic-Translation) - 一个傻酒馆的扩展 翻译聊天与你最喜欢的 LLM。 <sub>⭐ 34 · TypeScript</sub>
+- [daniel3303/AgentQL](https://github.com/daniel3303/AgentQL) - 可重复使用的.NET库,将EF Core模型翻译为LLM友好的schema描述,并为AI代理提供安全的SQL查询执行. <sub>⭐ 34 · C#</sub>
+- [eugeneyan/discord-llm](https://github.com/eugeneyan/discord-llm) - 研究、反思和计划(LLM助理、检索和Discord集成) <sub>⭐ 34 · Jupyter Notebook</sub>
+- [HugoBlox/hugo-theme-markdown-slides](https://github.com/HugoBlox/hugo-theme-markdown-slides) - 来自Markdown的演示幻灯片 — LaTeX 数学, 代码突出显示, 扬声器, Git 版本控制。 AI 生成页面, 您永远拥有它们 。 @ @ info, Markdown QQ <sub>⭐ 34</sub>
+- [KazKozDev/live-translation](https://github.com/KazKozDev/live-translation) - 本地,实时的系统-音频字幕机+macOS的翻译器——Whisper+本地LLM+玻璃覆盖. Fullly offline. <sub>⭐ 34 · Python</sub>
+- [morningmoni/CiteSum](https://github.com/morningmoni/CiteSum) - 数据集,模型,以及论文"CiteSum:引文指导科学极端总结和低资源域适应"的代码,EMNLP 2022 <sub>⭐ 34 · Python</sub>
+- [onekapisch/easy-write](https://github.com/onekapisch/easy-write) - 在您的 Mac 上任意位置翻译并重写文本 — 正式或非正式的 — 100% 与 Apple Intelligence 一起进行。 没有账户, 没有 API 密钥, 没有云。 一个免费的开源 DeepL / Google Translate... <sub>⭐ 34 · Swift</sub>
+- [Travvy88/DocumentGenerator_DoGe](https://github.com/Travvy88/DocumentGenerator_DoGe) - 文档 AI 的合成文档生成器。创建文档图像,并附加每个字的文本框和边框。图像包含标题、表格、段落,格式和... <sub>⭐ 34 · Python</sub>
+- [ayushgptaa/Cruxe-Extension](https://github.com/ayushgptaa/Cruxe-Extension) - 网页文本摘要的google Chrome扩展名 <sub>⭐ 33 · CSS</sub>
+- [combobulativedesigns/gptwntranslator](https://github.com/combobulativedesigns/gptwntranslator) - 使用OpenAI的GPT AI模型的网络小说翻译 <sub>⭐ 33 · Python</sub>
+- [dahlia/vertana](https://github.com/dahlia/vertana) - JavaScript/ TypeScript 的 LLM 驱动代理翻译库 <sub>⭐ 33 · TypeScript</sub>
+- [EricXu20266/llm-proxy](https://github.com/EricXu20266/llm-proxy) - 代码 + Claude → DeepSeek 或其他 llm → / Agent 协议翻译代理 <sub>⭐ 33</sub>
+- [instadeepai/DEgym](https://github.com/instadeepai/DEgym) - 一个LLM友好框架,用于将动态方程翻译为与体操兼容的RL环境. <sub>⭐ 33 · Python</sub>
+- [letuhao/lore-weave](https://github.com/letuhao/lore-weave) - 开源AI为小说家和世界建设者共同撰写. Canon-safe write → RAG lore词汇表 – 多格洛特翻译 BYOK multive-LLM. Living-world MMO RPG扩展——踏入世界... <sub>⭐ 33 · Python</sub>
+- [ngockhanh5110/nlp-vietnamese-text-summarization](https://github.com/ngockhanh5110/nlp-vietnamese-text-summarization) - 将 PhoBERT 用于抽象文本摘要化 , 作为 REST API , 使用 StreamLit, 由 Hugging Face 和 PyTorch 转换器 <sub>⭐ 33 · Jupyter Notebook</sub>
+- [Sun-Yize/ThinkLingo](https://github.com/Sun-Yize/ThinkLingo) - 多语言的LLM聊天,通过在推论前翻译为选择的处理语言来规范推理质量. <sub>⭐ 33 · TypeScript</sub>
+- [tristan-mcinnis/PPT-Translator-Formatting-Intact-with-LLMs](https://github.com/tristan-mcinnis/PPT-Translator-Formatting-Intact-with-LLMs) - 一个强大的PowerPoint翻译工具,在使用 Deepseek API 翻译内容时保留所有格式。这个工具维护字体、颜色、布局和其他样式元素,同时... <sub>⭐ 33 · Python</sub>
+- [bjoernpl/GermanBenchmark](https://github.com/bjoernpl/GermanBenchmark) - 包含将流行的LLM基准翻译为德语的代码的寄存器. <sub>⭐ 32 · Python</sub>
+- [Electricitysheep/ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - AI代理工程与定量融资知识库:源层架构分析,代理对代理协议研究,可运行代码实验,行业洞察. Obsidian vacil, ready... <sub>⭐ 32 · Python</sub>
+- [Frzgunr1/SakuraDict](https://github.com/Frzgunr1/SakuraDict) - 一种为illm翻译模型的指令. <sub>⭐ 32 · Python</sub>
+- [gazalpatel/AI-Chat-Bot](https://github.com/gazalpatel/AI-Chat-Bot) - 此寄存器包括人工智能执行的java语言创建聊天机器人. Chat bot在Core Java和Swing Project中创建,使用Eclipse IDE. Projects可以运行在其他. <sub>⭐ 32 · Java</sub>
+- [goobolabs/SomNLP-Translate](https://github.com/goobolabs/SomNLP-Translate) - SomNLP-Translate是一个开放的,高质量的英语–Somali并行数据集,旨在支持机器翻译,自然语言处理(NLP),大语言模型的研究与开发. . <sub>⭐ 32 · Rust</sub>
+- [hetpandya/paraphrase-datasets-pretrained-models](https://github.com/hetpandya/paraphrase-datasets-pretrained-models) - 用于生成参数的预处理数据集和预训练模型的集合. <sub>⭐ 32</sub>
+- [hussam123/Text-Summarization](https://github.com/hussam123/Text-Summarization) - 文字总结的抽象和提取的深入学习方法 <sub>⭐ 32</sub>
+- [juan-csv/GPT3-text-summarization](https://github.com/juan-csv/GPT3-text-summarization) - 总结, 使用 GPT3 生成主题 <sub>⭐ 32 · Jupyter Notebook</sub>
+- [matatusko/seq2seq](https://github.com/matatusko/seq2seq) - 用 Tensorflow 的 Beam 搜索 API 解码器用 Python 和 Tensorflow 1.4 书写的问题生成、文本总称化、机器翻译等通用的 subsem2seq 模型 <sub>⭐ 32 · Python</sub>
+- [mlverse/lang](https://github.com/mlverse/lang) - 使用 LLMS 翻译苍蝇上的 R 帮助文件 <sub>⭐ 32 · R</sub>
+- [NainiShah/News-Headline-Generation](https://github.com/NainiShah/News-Headline-Generation) - 我们的目标是通过为新闻机构生成头条来实施文字总结,我们试图在报纸上转载结果...... <sub>⭐ 32 · Jupyter Notebook</sub>
+- [snrazavi/Deep-Learning-for-NLP](https://github.com/snrazavi/Deep-Learning-for-NLP) - 包含不同的课程教程和jupyter笔记本文件,用于在不同的NLP任务中应用不同的深学习模型,如文本分类,总结,翻译等. <sub>⭐ 32 · Jupyter Notebook</sub>
+- [tmu-nlp/simple-jppdb](https://github.com/tmu-nlp/simple-jppdb) - 简化日文文字的参数数据库 <sub>⭐ 32 · Python</sub>
+- [vmr2323/AI-Text-Summarizer-](https://github.com/vmr2323/AI-Text-Summarizer-) - AI Text Summarizer是一个网络应用程序,它利用人工智能生成长文本的简明摘要,帮助用户快速从文章,研究论文中提取关键信息. . <sub>⭐ 32</sub>
+- [EasyMetaAu/helm-api](https://github.com/EasyMetaAu/helm-api) - 自办LLM网关——路由OpenAI/Anthropic/Gemini通过配置而不是代码进行交通. Fallback,协议翻译,遥测. <sub>⭐ 31 · TypeScript</sub>
+- [Eldoprano/offline-browser-translate](https://github.com/Eldoprano/offline-browser-translate) - 使用本地LLMS(Ollama, LMStudio)进行注重隐私的翻译. <sub>⭐ 31 · JavaScript</sub>
+- [marco0antonio0/translate-manga-br](https://github.com/marco0antonio0/translate-manga-br) - 本地第一漫画翻译,拥有AI动力气泡检测,OCR,自动翻译,可编辑的网页阅读器,浏览器扩展,以及本地的持久性. <sub>⭐ 31 · TypeScript</sub>
+- [OthmanAdi/promptfusion](https://github.com/OthmanAdi/promptfusion) - AI 代理的三层即时构成系统。 将数值权重转换成 LLMs 实际遵循的语义优先级。 框架- 不可知性, 开源, 为生产多代理而建... <sub>⭐ 31 · JavaScript</sub>
+- [ymoslem/Adaptive-MT-LLM](https://github.com/ymoslem/Adaptive-MT-LLM) - 使用大语言模型的适应性机器翻译 <sub>⭐ 31 · JavaScript</sub>
+- [ComfyUI-Kelin/ComfyUI-LLMs-Toolkit](https://github.com/ComfyUI-Kelin/ComfyUI-LLMs-Toolkit) - ComfyUI自定义节点用于DeepSeek,Quen,GPT等兼容OpenAI的LLM API,并配有聊天,翻译,视觉和JSON工作流程的工具. <sub>⭐ 30 · Python</sub>
+- [heuwels/lector](https://github.com/heuwels/lector) - 语言学习阅读器:EPUB和YouTube,点击到翻译,cluze SRS,Anki同步. Free for myself-hosting with a loud option. <sub>⭐ 30 · TypeScript</sub>
+- [himanshujindal/Automatic-Text-Summarizer](https://github.com/himanshujindal/Automatic-Text-Summarizer) - 使用 Bipartite HITS, 自然语言处理( NLP) 自动文档总览器 <sub>⭐ 30 · Shell</sub>
+- [HydraRobot/attention_RNN_for_textsum](https://github.com/HydraRobot/attention_RNN_for_textsum) - 这是转载文章 <sub>⭐ 30 · Python</sub>
+- [jiacheng-xu/text-sum-uncertainty](https://github.com/jiacheng-xu/text-sum-uncertainty) - “通过不确定性理解神经摘要模型”的代码(EMNLP20) <sub>⭐ 30 · Python</sub>
+- [jwieting/paragram-word](https://github.com/jwieting/paragram-word) - 用于训练的 Python 代码 Paragram 字词嵌入。 这些在 SimLex-999. 等一些单词的similarty 任务上实现了人级的性能。 这个代码被用来获得我们... <sub>⭐ 30 · Python</sub>
+- [omaaartamer/ScientificPaperAgent](https://github.com/omaaartamer/ScientificPaperAgent) - 一个基于LangGraph的研究助理,帮助查找、分析和总结科学论文。通过Mistral LLM(通过Ollama)和Flask,这个代理可以通过CORE API搜索文件,处理... <sub>⭐ 30 · Python</sub>
+- [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) - 不需要插件的 Obsidian MCP 服务器, 没有运行的 Obsidian app —— 而且不会吹动您的上下文窗口. Filesystem- direct, single-digital-ms search, ~2 KB 有效载荷, 17个工具. <sub>⭐ 30 · TypeScript</sub>
+- [danielrosehill/Hebrew-AI-Models](https://github.com/danielrosehill/Hebrew-AI-Models) - 希伯来语的AI模型目录——LLMS、STT、TTS、NLP、嵌入、翻译等等 <sub>⭐ 29</sub>
+- [daqing/gpt-translator](https://github.com/daqing/gpt-translator) - 使用 GPT-4 模式翻译标记下的文件 <sub>⭐ 29 · Python</sub>
+- [forsatus/Subtitle-AI-Translator](https://github.com/forsatus/Subtitle-AI-Translator) - AI动力无缝字幕翻译工具,实现视频内容的跨语言无障碍. <sub>⭐ 29 · Python</sub>
+- [g-hano/Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant) - 由克劳德·奥普斯(Claude Opus)担任助学员,提供各种工具协助完成不同的任务,如研究,编码,记笔等. <sub>⭐ 29 · Python</sub>
+- [LunaticPrakash/Text-Summarization](https://github.com/LunaticPrakash/Text-Summarization) - 使用带有 Tf- Idf 算法的 Spacy 和 NLTK 模块进行文本摘要化。 此代码会给出输入文章的摘要 。 您可以直接或从. txt 文件、. pdf 文件或... <sub>⭐ 29 · Python</sub>
+- [MarkGHX/BiScope](https://github.com/MarkGHX/BiScope) - NeurIPS 2024纸的正式执行 - BiScope:通过检查预留托肯斯的记忆生成文本检测 <sub>⭐ 29 · Python</sub>
+- [nikhilcss97/Text-Summarization](https://github.com/nikhilcss97/Text-Summarization) - 使用深层学习技术进行文字总结的Jupyter笔记本 <sub>⭐ 29 · Jupyter Notebook</sub>
+- [safakkbilici/Academic-Paper-Title-Recommendation](https://github.com/safakkbilici/Academic-Paper-Title-Recommendation) - 基于学术论文摘要的监管文本汇总(标题生成/建议),包含Seq2Seq LSTM和T5. <sub>⭐ 29 · Python</sub>
+- [samrahimi/synthia-new](https://github.com/samrahimi/synthia-new) - 聊天机框架允许使用结构化的提示来创建高度定制的模型,以对抗基础文本-davinci模型. 通过summarization扩展上下文窗口。如果您... <sub>⭐ 29 · CSS</sub>
+- [Alex-Programs/nuenki-consensus-translate](https://github.com/Alex-Programs/nuenki-consensus-translate) - 使用基于https://nuenki.app/blog研究的LLMs适当组合,比任何一种工具更好地翻译语言. <sub>⭐ 28 · Rust</sub>
+- [AmrHendy/programming-language-translator](https://github.com/AmrHendy/programming-language-translator) - 使用Facebook AI Research发布的TransCoder,将代码从一种编程语言转换为另一种使用使用无监督神经机翻译(NMT)系统使用的简单方法. <sub>⭐ 28 · Jupyter Notebook</sub>
+- [EutropicAI/yuisub](https://github.com/EutropicAI/yuisub) - 基于 Yui-MHCP001 的新动画集的自动翻译 <sub>⭐ 28 · Python</sub>
+- [LAB02-Research/DeepL-Translator](https://github.com/LAB02-Research/DeepL-Translator) - 用于 DeepL 翻译 API 的 Windows GUI 客户端,包括免费和pro. 支持文本,文档和网页. <sub>⭐ 28 · C#</sub>
+- [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - 代理和通用翻译服务器到Argo API、OpenAI(Chat+Respons)、Anthropic(Messages),Google(GenAI)格式兼容。仅供Argonne用户使用。对于一般目的版本,请... <sub>⭐ 28 · Python</sub>
+- [Plumbiu/ai-translator](https://github.com/Plumbiu/ai-translator) - Google AI翻译扩展,使用Google Chrome的内置AI. <sub>⭐ 28 · TypeScript</sub>
+- [retkowsky/azure-ai-translator](https://github.com/retkowsky/azure-ai-translator) - Azure AI 翻译演示 <sub>⭐ 28 · Jupyter Notebook</sub>
+- [sentientsergio/COBOL-Legacy-Benchmark-Suite](https://github.com/sentientsergio/COBOL-Legacy-Benchmark-Suite) - 为测试真实世界遗留应用软件的LLM翻译而创建的投资组合管理系统以生产级方式实施。 <sub>⭐ 28 · COBOL</sub>
+- [shradha-khapra/Summarizer-HF](https://github.com/shradha-khapra/Summarizer-HF) - 文本摘要 App - 变形器小工程( 使用 HuggingFace & FastAPI) <sub>⭐ 28 · HTML</sub>
+- [shyhirt/AutoDub](https://github.com/shyhirt/AutoDub) - 使用Whisper,XTTS v2进行语音克隆的自动视频翻译和杜伯,以及Ollama进行本地LLM翻译. 支持100+语言. <sub>⭐ 28 · Python</sub>
+- [trashhalo/logseq-summarizer](https://github.com/trashhalo/logseq-summarizer) - 总结文本的日志插件 <sub>⭐ 28 · JavaScript</sub>
+- [Ankur2606/Low-latency-AI-Voice-Assistant](https://github.com/Ankur2606/Low-latency-AI-Voice-Assistant) - 端到端的AI语音助理管道,配有Whisper for Speak-to-Text,Hugging Face LLM用于响应生成,Edge-TTS用于文本对语言. 功能包括语音活动检测(VAD)...... <sub>⭐ 27 · Jupyter Notebook</sub>
+- [cmots/STEB](https://github.com/cmots/STEB) - 语音对语音翻译表达性基准。 评估情感、 情景风格、 NV 保存在 S2ST 中, LLM- as- a judge。 <sub>⭐ 27 · Python</sub>
+- [denocris/NLP-Workshop-MLMilan](https://github.com/denocris/NLP-Workshop-MLMilan) - NLP高级讲习班:与RoBERTa的字语解析和与BART(米兰大学)的文本归纳 <sub>⭐ 27 · Jupyter Notebook</sub>
+- [IBM/MAX-Text-Summarizer](https://github.com/IBM/MAX-Text-Summarizer) - 生成对文本的概述 <sub>⭐ 27 · Python</sub>
+- [Misaghlb/EV-Translator-AI](https://github.com/Misaghlb/EV-Translator-AI) - 使用双子座AI将任何文本和微博翻译到任何语言(默认为Persian)的Chrome扩展. <sub>⭐ 27 · JavaScript</sub>
+- [Ner-Kun/Lorebook-Gemini-Translator](https://github.com/Ner-Kun/Lorebook-Gemini-Translator) - 使用AI将LORE-book密钥/触发器从一种语言翻译到另一种语言。 <sub>⭐ 27 · Python</sub>
+- [nicknochnack/Hugging-Face-Transformers-Summarization](https://github.com/nicknochnack/Hugging-Face-Transformers-Summarization) - NLP文字摘要的超快穿行,配有哈鬼面部变形器. <sub>⭐ 27 · Jupyter Notebook</sub>
+- [nmdra/notebrain-cli](https://github.com/nmdra/notebrain-cli) - 一个本地首个CLI,它使您的 Obsidian 保险库(或 Markdown Notes) 可以搜索, 和 AI- Agents 可使用语义搜索和隐藏连接查询. <sub>⭐ 27 · Go</sub>
+- [Yeq6X/mazelingo](https://github.com/Yeq6X/mazelingo) - 句子级双语混合翻译——Chrome扩展(MV3). 以句子读取网友的两种语言混合句子. <sub>⭐ 27 · TypeScript</sub>
+- [Drlinglong/Remis](https://github.com/Drlinglong/Remis) - 游戏 Mods 的 AI 驱动桌面本地化: Paradox 游戏和 Surviviving Mars: 重新发射, 预览有 RimWorld 和 Project Zomboid. 本地第一项目,格式验证,翻译... <sub>⭐ 26 · Python</sub>
+- [ginking/archimedes-1](https://github.com/ginking/archimedes-1) - Archimedes 1是一个以机器人为主的基于哨点的商人,在高架现有bots上受到很大影响,这里或那里有一些增强,这个完成是为了了解bots是如何工作来滚动. . <sub>⭐ 26 · Python</sub>
+- [meshackbahati/plagiarism-detection](https://github.com/meshackbahati/plagiarism-detection) - Plagiarism和AI生成的内容检测系统,有文本和图像对比,. <sub>⭐ 26 · Python</sub>
+- [nazarli-shabnam/ReadAble](https://github.com/nazarli-shabnam/ReadAble) - 移动辅助读取应用,使用在device OCR,summarization,以及TTS等功能,使印刷文本更容易为有阅读困难的阅读障碍的人所读取. <sub>⭐ 26 · JavaScript</sub>
+- [ranahaani/polyglot](https://github.com/ranahaani/polyglot) - Polyglot是一个基于网络的代码翻译,使用AI将代码从一种语言翻译到另一种语言. <sub>⭐ 26 · TypeScript</sub>
+- [rufeng0411/Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - 自办的A-share多代理研究台:15代理辩论,可选图沙雷二级顺序排队,K线工作站有AI洞察力,信号翻译层如此模型读结论——...... <sub>⭐ 26 · Python</sub>
+- [SilverSolver/ai_boundary_detection](https://github.com/SilverSolver/ai_boundary_detection) - 使用 RoFT 生成的 AI 文本边界检测 <sub>⭐ 26 · Jupyter Notebook</sub>
+- [zuuzii-org/token-share](https://github.com/zuuzii-org/token-share) - Token-Share:一个本地的macOS菜单栏LLM API网关——在本地的OpenAI Chat Finishs,OpenAI Response,和Anthropic Messages协议之间翻译和流. <sub>⭐ 26 · Swift</sub>
+- [ahmedheakl/ArzEn-LLM](https://github.com/ahmedheakl/ArzEn-LLM) - 使用大语言模型的代码切换翻译 <sub>⭐ 25 · Python</sub>
+- [aialamin/Summarize-a-PDF-using-chat-gpt-and-python](https://github.com/aialamin/Summarize-a-PDF-using-chat-gpt-and-python) - 使用 Python 和 Chat GPT-3, 将 PDF 转换成文本, 切片并摘要, 创建新的摘要和关键注释, 以及一个分步骤的指南。 概括基本内容, 写博客文章, 并制作... <sub>⭐ 25 · Python</sub>
+- [Arthur-Ficial/translate](https://github.com/Arthur-Ficial/translate) - macOS Tahoe的On-device翻译器——UNIX滤波器+滴入式HTTP服务器兼容DeepL,LibreTranslate,以及Google v2. 100% on-device,无云,无LLM,无API密钥. <sub>⭐ 25 · Swift</sub>
+- [bhattbhavesh91/text-summarizer-using-BERT](https://github.com/bhattbhavesh91/text-summarizer-using-BERT) - 使用 bert- 提取式概括器与 BERT 进行文本归纳 <sub>⭐ 25 · Jupyter Notebook</sub>
+- [BioTextSumm/BERT-based-Summ](https://github.com/BioTextSumm/BERT-based-Summ) - 基于BERT的生物医学文本总结器 <sub>⭐ 25</sub>
+- [BrsDincer/Psychological-Assistant](https://github.com/BrsDincer/Psychological-Assistant) - 在心理学范围内,这是LLM AI-Bot研究,旨在增加人类与AI的互动. <sub>⭐ 25 · Python</sub>
+- [ckmtools/textlens](https://github.com/ckmtools/textlens) - 零依赖性 TypeScript文本分析和可读性工具包. 8可读性公式,情绪分析,关键词提取,SEO评分,汇总,和CLI. <sub>⭐ 25 · TypeScript</sub>
+- [djethino/UnityGameTranslator](https://github.com/djethino/UnityGameTranslator) - University游戏自动本地AI翻译和共通共享及即兴游戏 <sub>⭐ 25 · C#</sub>
+- [erickrf/ppdb](https://github.com/erickrf/ppdb) - 读取参数数据库( PPDB) 的接口 <sub>⭐ 25 · Python</sub>
+- [genesis-ai-dev/codex-editor](https://github.com/genesis-ai-dev/codex-editor) - Codex 翻译编辑和翻译副驾驶 <sub>⭐ 25 · TypeScript</sub>
+- [gettranslatebot/translatebot-django](https://github.com/gettranslatebot/translatebot-django) - 用AI翻译 Django .po 的文件和模型字段,每个语言可重复,一致,便士. <sub>⭐ 25 · Python</sub>
+- [HongjianTang/obsidian-insighta](https://github.com/HongjianTang/obsidian-insighta) - InsightA是一个Obsidian插件,可以将长文章转化为简洁的原子注释,并为使用LLM的注释创建组织良好的内容地图(MOC). 这个工具对于任何旨在...... <sub>⭐ 25 · TypeScript</sub>
+- [jnMetaCode/agency-agents-id](https://github.com/jnMetaCode/agency-agents-id) - 187插件和游戏AI代理 personas dalam Bahasa Indonesia——印尼翻译代理代理+3印度尼西亚市场原版(Tokopedia/Gojek/WhatsApp Business ID) <sub>⭐ 25 · Shell</sub>
+- [kouhxp/fftext](https://github.com/kouhxp/fftext) - 汇总、解释、检查事实或翻译任何文本、 URL 或文件。没有 GPU。 没有云。 一个命令 <sub>⭐ 25 · Python</sub>
+- [L-Zhe/CoRPG](https://github.com/L-Zhe/CoRPG) - 纸质文档级别参数生成码,由浙林,怡涛蔡和小军万重排重排句子,本文为EMNLP'21的"发现"所接受. <sub>⭐ 25 · Python</sub>
+- [louisteo9/t5-text-summarizer](https://github.com/louisteo9/t5-text-summarizer) - 使用Google最先进的T5预选赛模式来创建人型的总结 <sub>⭐ 25 · Jupyter Notebook</sub>
+- [shibing624/title-generator](https://github.com/shibing624/title-generator) - 自动文本摘要和标题生成 。 <sub>⭐ 25 · Python</sub>
+- [tdopierre/ProtAugment](https://github.com/tdopierre/ProtAugment) - ProtAugment的代码:无监督的用于意向检测元学习的多种短文 <sub>⭐ 25 · Python</sub>
+- [AstraBert/PhiQwenSTEM](https://github.com/AstraBert/PhiQwenSTEM) - 您的 STEM 教育的推理助理 <sub>⭐ 24 · TypeScript</sub>
+- [gerfalcon/offline_menu_translator](https://github.com/gerfalcon/offline_menu_translator) - Flustter 应用程序, 与 Gemma 3N 一起演示设备上的AI <sub>⭐ 24 · C++</sub>
+- [hhprojects/dive-into-llms-en](https://github.com/hhprojects/dive-into-llms-en) - 进入LLMS——Lordog/dive-into-llms的英文翻译 <sub>⭐ 24 · Jupyter Notebook</sub>
+- [Ho3seinTork/Translator-Telegram-Bot-with-LLMs](https://github.com/Ho3seinTork/Translator-Telegram-Bot-with-LLMs) - 使用 Deepseek LLM 进行高质量文本翻译的Telegram bot. 支持多种语言并与Telegram Bot API集成,用于无缝翻译. <sub>⭐ 24 · Python</sub>
+- [Moeinh77/Transformers-for-abstractive-summarization](https://github.com/Moeinh77/Transformers-for-abstractive-summarization) - 使用 Keras 和 Tensorflow 执行( 从零开始) 带有变形器网络的抽象文本摘要 <sub>⭐ 24 · Jupyter Notebook</sub>
+- [N0iire/Image-to-text-Translate](https://github.com/N0iire/Image-to-text-Translate) - 使用 Open AI API & Tefferact 向文本翻译者图像 <sub>⭐ 24 · Python</sub>
+- [Parithosh-Varma/zen-proxy](https://github.com/Parithosh-Varma/zen-proxy) - zen-proxy是一个本地翻译代理,它将克劳德代码的Anthropic Messages API与OpenCode Zen的OpenAI 兼容的聊天补全端点(https://opencode.ai/zen/v1)连接起来. . <sub>⭐ 24 · JavaScript</sub>
+- [richawo/llm-translator](https://github.com/richawo/llm-translator) - 使用 OpenAI 的 API 将 Markdown 文件从一种语言翻译为另一种语言,同时保留原始格式。 此 Jupyter 笔记本对输入文本进行符号化, 分割成块, 用 OpenAI 翻译... <sub>⭐ 24 · Jupyter Notebook</sub>
+- [Swadeshswami/FineSurE](https://github.com/Swadeshswami/FineSurE) - FineSurE是一个多维,精细的文本归纳自动评价框架,涵盖了独特的评价层面,即忠诚度,完整性和. <sub>⭐ 24 · Python</sub>
+- [avidale/dependency-paraphraser](https://github.com/avidale/dependency-paraphraser) - 基于依赖性解析和嵌入词相似性的句子解释器. <sub>⭐ 23 · Python</sub>
+- [Cs4K1Sr4C/ATi18n](https://github.com/Cs4K1Sr4C/ATi18n) - AI驱动具有i18n国际化模块的项目的交互式和自主的i18n提取器和翻译器 <sub>⭐ 23 · TypeScript</sub>
+- [deveworld/KorT](https://github.com/deveworld/KorT) - 韩国语翻译基准,LLM-as-a-judge <sub>⭐ 23 · Python</sub>
+- [fzp0424/MT-Ladder](https://github.com/fzp0424/MT-Ladder) - (EMNLP'24)代码和数据用于纸张"Ladder:一个模型-不可知框架促进基于LLM的机器翻译到下一个关卡". <sub>⭐ 23 · Python</sub>
+- [ICTMCG/POGER](https://github.com/ICTMCG/POGER) - 官方寄存器"十句只帮助:通过代理Guided高效再抽样改进黑盒AI-Gened文本检测",IJCAI 2024. <sub>⭐ 23 · Python</sub>
+- [jatinarora2702/Research-Text-Summarization](https://github.com/jatinarora2702/Research-Text-Summarization) - 利用深入学习对研究文本进行采掘归纳的系统 <sub>⭐ 23 · HTML</sub>
+- [JichengTech/LLM-Detector](https://github.com/JichengTech/LLM-Detector) - 这是"LLM-检测器:用开源LLM指令图灵改进AI-Generated中文文本检测"论文的正式执行. <sub>⭐ 23</sub>
+- [lancopku/HSSC](https://github.com/lancopku/HSSC) - "联合改进文本汇总和感官分类的分级端对端模式"(IJCAI 2018)代码. <sub>⭐ 23 · Python</sub>
+- [menachem-dadon/APK-Translator-AI](https://github.com/menachem-dadon/APK-Translator-AI) - 使用高级AI模型点击自动翻译 Android apps <sub>⭐ 23 · Python</sub>
+- [nguyenvanduocit/epubtrans](https://github.com/nguyenvanduocit/epubtrans) - 使用 Anthropic LLMs 将 epub 书籍翻译成双语 <sub>⭐ 23 · Go</sub>
+- [smahdink/LLMTranslate](https://github.com/smahdink/LLMTranslate) - 使用大语言模型的力量轻松翻译您的 PDF 大文件! <sub>⭐ 23 · Python</sub>
+- [VincentK16/azure-ai-services-webapp](https://github.com/VincentK16/azure-ai-services-webapp) - 这个寄存器包含一些代码,旨在为您与Azure AI服务(英语:Azure AI Language),Azure AI Speech,Azure AI Extransition等进行实验和精密化设计. . <sub>⭐ 23 · HTML</sub>
+- [arpit3043/Extractive-Text-Summerization](https://github.com/arpit3043/Extractive-Text-Summerization) - 总结系统往往有它们可以利用的额外证据,以便指定文件最重要的主题。例如,在总结博客时,会有讨论或. <sub>⭐ 22 · Jupyter Notebook</sub>
+- [arupdas0825/ai-code-translator](https://github.com/arupdas0825/ai-code-translator) - AI代码翻译是一种基于TypeScript的工具,旨在使用人工智能跨多个编程语言翻译代码. 该项目结合了各种技术,包括. <sub>⭐ 22 · TypeScript</sub>
+- [BH-So/unsupervised-paraphrase-generation](https://github.com/BH-So/unsupervised-paraphrase-generation) - "无监督的用预训语言模型的参数生成". <sub>⭐ 22 · Python</sub>
+- [chaosen315/AIwork4translator](https://github.com/chaosen315/AIwork4translator) - 为处理技术文件、长文、小说和规则书的专业人员提供AI动力翻译工具。优化适当的名词准确性,提高35%的识别率和99%的象征性储蓄对... <sub>⭐ 22 · Jupyter Notebook</sub>
+- [chrisrichardf/Smart-Lecture-Notes-Generator](https://github.com/chrisrichardf/Smart-Lecture-Notes-Generator) - 拟议的系统使用自然语言处理,机器学习,和文本总结技术,从教育视频中快速准确地生成简明的讲座笔记. It... <sub>⭐ 22 · HTML</sub>
+- [Copyleaks/ng-web-report](https://github.com/Copyleaks/ng-web-report) - Copyleaks Web Report是来自Copyleaks的易于使用的Angular模块,用于快速的盗版和AI检测,它提供了一种简单且适应性化的方法,以显示所提交的原始文本或文件是如何...... <sub>⭐ 22 · TypeScript</sub>
+- [FezVrasta/ha-notes-vault](https://github.com/FezVrasta/ha-notes-vault) - 在WebDAV上可以同步存储的每个实体、设备和区域的说明。你的AI助手记录了它了解的房子情况,并下次读回来。 <sub>⭐ 22 · Python</sub>
+- [idanmoradarthas/text-summarization](https://github.com/idanmoradarthas/text-summarization) - 以 Spacy 和 Universal Encoder 为基础的 Python 中归纳器 <sub>⭐ 22 · Python</sub>
+- [jackmleitch/EssayCompanion](https://github.com/jackmleitch/EssayCompanion) - 一个NLP为Google Chrome扩展提供了动力,用于概括,解译,获取被命名的实体,并从突出显示的文本中找到关键词同义词. <sub>⭐ 22 · Python</sub>
+- [jhkchan/translategemma-cli](https://github.com/jhkchan/translategemma-cli) - 本地CLI用于Google拥有多平台支持的TranslateGemma翻译模型(MLX用于苹果硅,PyTorch用于CUDA/CPU). <sub>⭐ 22 · Python</sub>
+- [lanwuwei/Subword-PWIM](https://github.com/lanwuwei/Subword-PWIM) - 基于子词的对等词词交互模型 <sub>⭐ 22 · Python</sub>
+- [Nodewarrior/spine](https://github.com/Nodewarrior/spine) - Spine Architecture — Claude Code 的自开发知识管理系统. 将AI内存连接到一个Obsidian金库,里面有特征排列的脊椎笔记,自动抓取技能,以及颜色编码...... <sub>⭐ 22 · Shell</sub>
+- [TheCleverIdiott/summarizer](https://github.com/TheCleverIdiott/summarizer) - 与 txtai 库一起用 python 制作的文本和文件摘要,并在 Streamlit 上托管. <sub>⭐ 22 · Python</sub>
 
 ---
 [⬆️ 返回顶部](#️-撰稿人文案与作家-的-ai) · [← 按职业划分的 AI 仓库](./README.md)
