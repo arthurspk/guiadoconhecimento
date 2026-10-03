@@ -1,254 +1,230 @@
 #!/usr/bin/env python3
-"""Gera o repositório navegável a partir de data/: README.md, areas/, trilhas/,
-docs/07-fontes-e-licencas.md e data/links.csv.
+"""Gera o repositório navegável a partir de data/, em todos os idiomas de base.IDIOMAS:
+README, areas/, trilhas/, ia/ (português na raiz; os outros em README.<idioma>.md e i18n/<idioma>/),
+mais docs/07-fontes-e-licencas.md e data/links.csv.
 
 Só usa a stdlib. Rodar de novo produz os mesmos arquivos (saída determinística).
-Uso: python3 scripts/gerar.py
+Uso: python3 scripts/gerar.py [--idiomas pt,en]
 """
-import collections, csv, json, os, re, sys, unicodedata
+import argparse, collections, csv, json, os, shutil, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from base import (CODIGOS, IDIOMAS, J, TIPO_EMOJI, TIPOS_COM_ROTULO, Ctx, carregar, emoji_topico, esc, escrever, gh_anchor,
+                  limpa, textos_pt)
+from gerar_ia import pagina_ia, paginas_profissoes
 from selecionar import chave
-from urllib.parse import urlsplit
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-J = lambda *p: os.path.join(RAIZ, *p)
-CFG = json.load(open(J('data', 'config.json'), encoding='utf-8'))
-TAX = json.load(open(J('data', 'taxonomia.json'), encoding='utf-8'))
-TRI = json.load(open(J('data', 'trilhas.json'), encoding='utf-8'))['trilhas']
+CFG = carregar('config.json')
+TAX = carregar('taxonomia.json')
+TRI = carregar('trilhas.json')['trilhas']
 LINKS = [json.loads(l) for l in open(J('data', 'links.jsonl'), encoding='utf-8')]
-FONTES = json.load(open(J('data', 'fontes.json'), encoding='utf-8')) + json.load(open(J('data', 'fontes-guias.json'), encoding='utf-8'))
+FONTES = carregar('fontes.json') + carregar('fontes-guias.json')
+ARQ_REPOS = J('data', 'repos-ia.jsonl')
+REPOS = [json.loads(l) for l in open(ARQ_REPOS, encoding='utf-8')] if os.path.exists(ARQ_REPOS) else []
 
 AREA = {a['slug']: dict(a, setor=s['slug']) for s in TAX['setores'] for a in s['areas']}
 SETOR = {s['slug']: s for s in TAX['setores']}
 POR_AREA = collections.defaultdict(list)
 for x in LINKS:
     POR_AREA[x['area']].append(x)
-TIPO_ROTULO = {'site': 'site', 'repositorio': 'repositório', 'awesome': 'lista awesome', 'curso': 'curso', 'canal': 'canal',
-               'video': 'vídeo', 'livro': 'livro', 'comunidade': 'comunidade', 'documentacao': 'documentação',
-               'ferramenta': 'ferramenta', 'app': 'app', 'artigo': 'artigo científico'}
-MIN_TOPICO = 6  # tópicos com menos itens vão para "Mais links"
+MIN_TOPICO = 6    # tópicos com menos itens vão para "Mais links"
 MAX_TOPICOS = 15  # no máximo 15 seções de tópico por página (o resto vai para "Mais links")
+SEM_IA_PROPRIA = ('ia-generativa', 'ferramentas-ia')
+DADOS = {'TAX': TAX, 'TRI': TRI, 'AREA': AREA, 'POR_AREA': POR_AREA, 'REPOS': REPOS, 'SEM_IA_PROPRIA': SEM_IA_PROPRIA}
 
-def gh_anchor(texto, usados):
-    """Âncora no formato do GitHub (emoji some, espaço vira hífen)."""
-    t = texto.strip().lower()
-    t = ''.join(c for c in t if c in ' -_' or unicodedata.category(c)[0] in 'LMN' or unicodedata.category(c) == 'Pc')
-    t = t.replace(' ', '-')
-    base, n = t, 1
-    while t in usados:
-        t = f'{base}-{n}'; n += 1
-    usados.add(t)
-    return t
 
-def esc(s):
-    return s.replace('[', '(').replace(']', ')').replace('|', '/').strip()
-
-def item_md(x):
-    d = x['descricao'].strip()
+def item_md(c: Ctx, x: dict) -> str:
+    d = c.d(limpa(x['descricao']))
     extra = []
+    if x.get('tipo') in TIPOS_COM_ROTULO:
+        extra.append(f"{TIPO_EMOJI[x['tipo']]} {c.t('tipo.' + x['tipo'])}")
     if x.get('idioma') == 'pt':
-        extra.append('pt-BR')
-    if x.get('tipo') in ('curso', 'canal', 'livro', 'awesome', 'comunidade', 'app', 'artigo'):
-        extra.append(TIPO_ROTULO[x['tipo']])
+        extra.append('🇧🇷 pt-BR')
     sufixo = f" <sub>{' · '.join(extra)}</sub>" if extra else ''
     return f"- [{esc(x['nome'])}]({x['url']})" + (f" - {d}" if d else '') + sufixo
 
-def rel(de, para):
-    return os.path.relpath(J(para), os.path.dirname(J(de))).replace(os.sep, '/')
 
-def escrever(caminho, texto):
-    os.makedirs(os.path.dirname(J(caminho)), exist_ok=True)
-    open(J(caminho), 'w', encoding='utf-8').write(texto.rstrip() + '\n')
+def nome_area(c: Ctx, slug: str) -> str:
+    return c.t(f'area.{slug}.nome')
 
-def titulo_ia(slug):
-    return f"🤖 IA para {AREA[slug]['nome']}"
 
-def ancora_ia(slug):
-    return gh_anchor(titulo_ia(slug), set())
+def titulo_ia(c: Ctx, slug: str) -> str:
+    return c.t('ia_area.titulo', area=nome_area(c, slug))
 
-def pagina_area(slug):
+
+def ancora_ia(c: Ctx, slug: str) -> str:
+    return gh_anchor(titulo_ia(c, slug), set())
+
+
+def link_area(c: Ctx, de: str, slug: str) -> str:
+    return c.rel(de, f"areas/{AREA[slug]['setor']}/{slug}.md")
+
+
+def pagina_area(c: Ctx, slug: str) -> None:
     a = AREA[slug]; s = SETOR[a['setor']]
     cam = f"areas/{s['slug']}/{slug}.md"
+    nome, nome_setor = nome_area(c, slug), c.t(f"setor.{s['slug']}.nome")
     itens = POR_AREA.get(slug, [])
     ess = [x for x in itens if x['essencial'] and not x.get('ia')]
+    ess_inicio = [x for x in ess if x['topico'] == 'Comece por aqui']
+    ess_tema = collections.OrderedDict()   # essenciais com tópico próprio viram seções da curadoria
+    for x in ess:
+        if x['topico'] != 'Comece por aqui':
+            ess_tema.setdefault(x['topico'], []).append(x)
     ia_ess = [x for x in itens if x['essencial'] and x.get('ia')]
     ia_col = [x for x in itens if not x['essencial'] and x.get('ia')]
     resto = [x for x in itens if not x['essencial'] and not x.get('ia')]
     fontes = sorted({x['fonte'] for x in resto + ia_col})
-    usados = set(); L = []
-    L.append(f"# {a['emoji']} {a['nome']}\n")
-    L.append(f"> {a['descricao']} **{len(itens)} links** nesta área: {len(ess)} essenciais escolhidos a dedo, "
-             f"{len(ia_ess) + len(ia_col)} de inteligência artificial e {len(resto)} reunidos de {len(fontes)} listas curadas.\n")
-    L.append(f"[← {s['emoji']} {s['nome']}]({rel(cam, f'areas/{s['slug']}/README.md')}) · "
-             f"[🗂️ Catálogo completo]({rel(cam, 'areas/CATALOGO.md')}) · [🏠 Início]({rel(cam, 'README.md')})\n")
-    blocos = []  # (titulo, nivel, itens)
-    if ess:
-        blocos.append(('⭐ Comece por aqui', 2, ess))
+    titulo = f"{a['emoji']} {nome}"
+    L = [f"# {titulo}\n",
+         '> ' + c.t(f'area.{slug}.descricao') + ' ' + c.t('area.resumo', n=len(itens), ess=len(ess), ia=len(ia_ess) + len(ia_col),
+                                                         resto=len(resto), fontes=len(fontes)) + '\n',
+         f"[← {s['emoji']} {nome_setor}]({c.rel(cam, f'areas/{s['slug']}/README.md')}) · "
+         f"[🗂️ {c.t('nav.catalogo')}]({c.rel(cam, 'areas/CATALOGO.md')}) · [🏠 {c.t('nav.inicio')}]({c.rel(cam, 'README.md')})\n",
+         c.seletor(cam)]
+    blocos = []  # (titulo, descricao, itens, tipo)
+    if ess_inicio:
+        blocos.append((c.t('comece.titulo'), c.t('comece.desc', area=nome), ess_inicio, 'lista'))
+    for t, its in ess_tema.items():
+        nt = c.d(t)
+        blocos.append((f'{emoji_topico(t)} {nt}', c.t('curado.desc', topico=nt, area=nome), its, 'lista'))
     if ia_ess or ia_col:
-        blocos.append((titulo_ia(slug), 2, ia_ess + ia_col))
+        blocos.append((titulo_ia(c, slug), c.t('ia_area.desc', area=nome, link=c.rel(cam, 'ia/README.md')), ia_ess + ia_col, 'ia'))
     if slug == 'linguagens':
         por_grupo = collections.defaultdict(list)
         for x in resto:
             por_grupo[x['grupo'] or 'Geral'].append(x)
         for g in sorted(por_grupo, key=lambda g: (-len(por_grupo[g]), g)):
-            blocos.append((f'🔤 {g}', 2, por_grupo[g]))
+            blocos.append((f'🔤 {g}', c.t('linguagem.desc', n=len(por_grupo[g]), linguagem=g), por_grupo[g], 'grupo'))
     else:
         por_top = collections.defaultdict(list)
         for x in resto:
             por_top[x['topico']].append(x)
         grandes = sorted([t for t in por_top if len(por_top[t]) >= MIN_TOPICO and t not in ('Geral', 'Outros', 'Diversos')],
-                         key=lambda t: (-len(por_top[t]), t.lower()))[:MAX_TOPICOS]
+                         key=lambda t: (-len(por_top[t]), t.lower()))[:MAX_TOPICOS - len(ess_tema)]
         miudos = [x for t in por_top if t not in grandes for x in por_top[t]]
-        for t in sorted(grandes, key=lambda t: (-len(por_top[t]), t.lower())):
-            blocos.append((f'◾ {t}', 2, por_top[t]))
+        for t in grandes:
+            nt = c.d(t)
+            blocos.append((f'{emoji_topico(t)} {nt}', c.t('topico.desc', n=len(por_top[t]), topico=nt, area=nome), por_top[t], 'lista'))
         if miudos:
-            blocos.append(('◾ Mais links', 2, miudos))
-    L.append('## 📚 Índice\n')
-    ancoras = []
-    for titulo, _, its in blocos:
-        anc = gh_anchor(titulo, usados)
-        ancoras.append(anc)
-        L.append(f"[{titulo}](#{anc}) <sub>{len(its)}</sub> <br>")
-    L.append(f"[🧾 Fontes desta área](#{gh_anchor('🧾 Fontes desta área', set(usados))})\n")
-    for (titulo, nivel, its) in blocos:
-        L.append(f"{'#' * nivel} {titulo}\n")
-        if titulo.startswith('🤖'):
-            L.append(f"> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com {a['nome'].lower()}. "
-                     f"Veja também [🤖 IA para todas as áreas]({rel(cam, 'ia/README.md')}).\n")
-            ie = [x for x in its if x['essencial']]; ic = [x for x in its if not x['essencial']]
-            if ie:
-                L.append('### Essenciais de IA\n'); L += [item_md(x) for x in ie]; L.append('')
-            if ic:
-                L.append('### Mais ferramentas e recursos de IA\n'); L += [item_md(x) for x in ic]; L.append('')
-        elif slug == 'linguagens' and titulo.startswith('🔤'):
+            blocos.append((c.t('mais.titulo'), c.t('mais.desc', area=nome), miudos, 'lista'))
+    usados = set(); gh_anchor(titulo, usados); gh_anchor(c.t('indice.titulo'), usados)
+    L += [f"## {c.t('indice.titulo')}\n", f"> {c.t('indice.desc')}\n"]
+    for tit, _, its, _ in blocos:
+        L.append(f"[{tit}](#{gh_anchor(tit, usados)}) <sub>{len(its)}</sub> <br>")
+    L.append(f"[{c.t('fontes_area.titulo')}](#{gh_anchor(c.t('fontes_area.titulo'), usados)})\n")
+    for tit, desc, its, tipo in blocos:
+        L += [f"## {tit}\n", f"> {desc}\n"]
+        if tipo == 'ia':
+            for sub, grupo in ((c.t('ia_area.essenciais'), [x for x in its if x['essencial']]),
+                               (c.t('ia_area.mais'), [x for x in its if not x['essencial']])):
+                if grupo:
+                    L += [f"### {sub}\n"] + [item_md(c, x) for x in grupo] + ['']
+        elif tipo == 'grupo':
             sub = collections.defaultdict(list)
-            for x in its: sub[x['topico']].append(x)
+            for x in its:
+                sub[x['topico']].append(x)
             ordem = sorted(sub, key=lambda t: (-len(sub[t]), t.lower()))
             outros = [x for t in ordem if len(sub[t]) < MIN_TOPICO for x in sub[t]]
             for t in [t for t in ordem if len(sub[t]) >= MIN_TOPICO]:
-                L.append(f"### {t}\n")
-                L += [item_md(x) for x in sub[t]]; L.append('')
+                L += [f"### {emoji_topico(t)} {c.d(t)}\n"] + [item_md(c, x) for x in sub[t]] + ['']
             if outros:
-                L.append("### Mais links\n"); L += [item_md(x) for x in outros]; L.append('')
+                L += [f"### {c.t('mais.titulo')}\n"] + [item_md(c, x) for x in outros] + ['']
         else:
-            L += [item_md(x) for x in its]; L.append('')
-    L.append('## 🧾 Fontes desta área\n')
-    L.append('Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.\n')
+            L += [item_md(c, x) for x in its] + ['']
+    L += [f"## {c.t('fontes_area.titulo')}\n", f"> {c.t('fontes_area.desc')}\n"]
     lic = {(f['repo'], f['area']): f for f in FONTES}
     for f in fontes:
         meta = lic.get((f, slug)) or next((v for (r, _), v in lic.items() if r == f), {})
-        n = sum(1 for x in resto if x['fonte'] == f)
-        L.append(f"- [{f}](https://github.com/{f}) <sub>{n} links · licença {meta.get('licenca', '?')}</sub>")
-    L.append(f"\n---\n[⬆️ Voltar ao topo](#{gh_anchor(L[0][2:].strip(), set())}) · [← {s['nome']}]({rel(cam, f'areas/{s['slug']}/README.md')})")
-    escrever(cam, '\n'.join(L))
-    return cam
+        n = sum(1 for x in resto + ia_col if x['fonte'] == f)
+        L.append(f"- [{f}](https://github.com/{f}) <sub>🔗 {n} · ⚖️ {meta.get('licenca', '?')}</sub>")
+    L.append(f"\n---\n[⬆️ {c.t('nav.topo')}](#{gh_anchor(titulo, set())}) · [← {nome_setor}]({c.rel(cam, f'areas/{s['slug']}/README.md')})")
+    c.escrever(cam, L)
 
-def pagina_setor(s):
+
+def pagina_setor(c: Ctx, s: dict) -> None:
     cam = f"areas/{s['slug']}/README.md"
-    L = [f"# {s['emoji']} {s['nome']}\n", f"> {s['descricao']}\n",
-         f"[🗂️ Catálogo completo]({rel(cam, 'areas/CATALOGO.md')}) · [🏠 Início]({rel(cam, 'README.md')})\n",
-         '| Área | O que cobre | Links | Essenciais |', '|---|---|:--:|:--:|']
+    L = [f"# {s['emoji']} {c.t(f'setor.{s['slug']}.nome')}\n", f"> {c.t(f'setor.{s['slug']}.descricao')}\n",
+         f"[🗂️ {c.t('nav.catalogo')}]({c.rel(cam, 'areas/CATALOGO.md')}) · [🏠 {c.t('nav.inicio')}]({c.rel(cam, 'README.md')})\n", c.seletor(cam),
+         f"| {c.t('tab.area')} | {c.t('tab.cobre')} | 🔗 {c.t('tab.links')} | ⭐ {c.t('tab.essenciais')} |", '|---|---|:--:|:--:|']
     for a in s['areas']:
         its = POR_AREA.get(a['slug'], [])
-        L.append(f"| [{a['emoji']} **{a['nome']}**](./{a['slug']}.md) | {a['descricao']} | {len(its)} | {sum(x['essencial'] for x in its)} |")
-    L.append('\n## ⭐ Um gostinho de cada área\n')
+        L.append(f"| [{a['emoji']} **{nome_area(c, a['slug'])}**](./{a['slug']}.md) | {c.t(f'area.{a['slug']}.descricao')} | {len(its)} | {sum(x['essencial'] for x in its)} |")
+    L += [f"\n## {c.t('gostinho.titulo')}\n", f"> {c.t('gostinho.desc')}\n"]
     for a in s['areas']:
         ess = [x for x in POR_AREA.get(a['slug'], []) if x['essencial']][:5]
-        if not ess: continue
-        L.append(f"### {a['emoji']} {a['nome']}\n")
-        L += [item_md(x) for x in ess]
-        L.append(f"\n→ [Ver todos os {len(POR_AREA[a['slug']])} links de {a['nome']}](./{a['slug']}.md)\n")
-    escrever(cam, '\n'.join(L))
+        if not ess:
+            continue
+        L += [f"### {a['emoji']} {nome_area(c, a['slug'])}\n"] + [item_md(c, x) for x in ess]
+        L.append(f"\n→ [{c.t('gostinho.ver', n=len(POR_AREA[a['slug']]), area=nome_area(c, a['slug']))}](./{a['slug']}.md)\n")
+    c.escrever(cam, L)
 
-def pagina_ia():
-    cam = 'ia/README.md'
-    n_ia = sum(1 for x in LINKS if x.get('ia'))
-    n_ess = sum(1 for x in LINKS if x.get('ia') and x['essencial'])
-    L = ['# 🤖 IA para todas as áreas\n',
-         f"> A inteligência artificial já mudou o trabalho em quase toda profissão. Este guia tem **{n_ia} links de IA**, sendo **{n_ess} essenciais escolhidos a dedo** "
-         "com descrição em português, distribuídos pelas áreas: cada página de área tem uma seção **🤖 IA para <área>** com ferramentas, skills, MCPs, cursos, "
-         "guias de prompt e páginas de uso responsável daquela profissão.\n",
-         f"[🏠 Início]({rel(cam, 'README.md')}) · [🗂️ Catálogo de áreas]({rel(cam, 'areas/CATALOGO.md')}) · [📖 Como usar IA com responsabilidade]({rel(cam, 'docs/09-ia-em-todas-as-areas.md')})\n",
-         '## 📚 Índice\n', '[⭐ Por onde começar](#-por-onde-começar) <br>']
-    usados = set(); gh_anchor('⭐ Por onde começar', usados)
-    for s in TAX['setores']:
-        L.append(f"[{s['emoji']} {s['nome']}](#{gh_anchor(s['emoji'] + ' ' + s['nome'], usados)}) <br>")
-    L.append('')
-    L.append('## ⭐ Por onde começar\n')
-    L.append('> Primeiros passos com IA, para qualquer pessoa: guias oficiais, cursos gratuitos e ferramentas gerais.\n')
-    for slug in ('ia-generativa', 'ferramentas-ia'):
-        L += [item_md(x) for x in POR_AREA.get(slug, []) if x.get('ia') and x['essencial']]
-    L.append(f"\nPara ir fundo: [✨ IA Generativa e LLMs]({rel(cam, 'areas/dados-ia/ia-generativa.md')}) e [🪄 Ferramentas de IA]({rel(cam, 'areas/ferramentas/ferramentas-ia.md')}).\n")
-    for s in TAX['setores']:
-        L.append(f"## {s['emoji']} {s['nome']}\n")
-        L.append('| Área | Links de IA | Ver a seção |'); L.append('|---|:--:|---|')
-        for ar in s['areas']:
-            if ar['slug'] in ('ia-generativa', 'ferramentas-ia'): continue
-            n = sum(1 for x in POR_AREA.get(ar['slug'], []) if x.get('ia'))
-            L.append(f"| {ar['emoji']} {ar['nome']} | {n} | [{titulo_ia(ar['slug'])}]({rel(cam, f'areas/{s['slug']}/{ar['slug']}.md')}#{ancora_ia(ar['slug'])}) |")
-        L.append('\n<details><summary>Os 3 primeiros de cada área</summary>\n')
-        for ar in s['areas']:
-            if ar['slug'] in ('ia-generativa', 'ferramentas-ia'): continue
-            top = [x for x in POR_AREA.get(ar['slug'], []) if x.get('ia') and x['essencial']][:3]
-            if top:
-                L.append(f"**{ar['emoji']} {ar['nome']}**\n"); L += [item_md(x) for x in top]; L.append('')
-        L.append('</details>\n')
-    escrever(cam, '\n'.join(L))
 
-def catalogo():
+def catalogo(c: Ctx) -> None:
     cam = 'areas/CATALOGO.md'
     total = len(LINKS); unicos = len({chave(x['url']) for x in LINKS})
-    L = [f"# 🗂️ Catálogo de áreas\n",
-         f"> **{total} links** ({unicos} URLs únicas) em **{len(AREA)} áreas** de **{len(SETOR)} setores**. Clique numa área para abrir a página dela.\n",
-         f"[🏠 Início]({rel(cam, 'README.md')}) · [🧭 Trilhas por profissão]({rel(cam, 'trilhas/README.md')})\n"]
+    L = [f"# 🗂️ {c.t('nav.catalogo')}\n", '> ' + c.t('catalogo.resumo', total=total, unicos=unicos, areas=len(AREA), setores=len(SETOR)) + '\n',
+         f"[🏠 {c.t('nav.inicio')}]({c.rel(cam, 'README.md')}) · [🧭 {c.t('nav.trilhas')}]({c.rel(cam, 'trilhas/README.md')}) · "
+         f"[🤖 {c.t('nav.ia')}]({c.rel(cam, 'ia/README.md')})\n", c.seletor(cam)]
     for s in TAX['setores']:
         n = sum(len(POR_AREA.get(a['slug'], [])) for a in s['areas'])
-        L.append(f"## {s['emoji']} {s['nome']}\n")
-        L.append(f"{s['descricao']} **{n} links.** [Abrir o setor](./{s['slug']}/README.md)\n")
-        L.append('| Área | Links | Essenciais |'); L.append('|---|:--:|:--:|')
+        L += [f"## {s['emoji']} {c.t(f'setor.{s['slug']}.nome')}\n",
+              f"> {c.t(f'setor.{s['slug']}.descricao')} **🔗 {n}** · [{c.t('catalogo.abrir')}](./{s['slug']}/README.md)\n",
+              f"| {c.t('tab.area')} | {c.t('tab.cobre')} | 🔗 {c.t('tab.links')} | ⭐ {c.t('tab.essenciais')} |", '|---|---|:--:|:--:|']
         for a in s['areas']:
             its = POR_AREA.get(a['slug'], [])
-            L.append(f"| [{a['emoji']} {a['nome']}](./{s['slug']}/{a['slug']}.md) | {len(its)} | {sum(x['essencial'] for x in its)} |")
+            L.append(f"| [{a['emoji']} {nome_area(c, a['slug'])}](./{s['slug']}/{a['slug']}.md) | {c.t(f'area.{a['slug']}.descricao')} | {len(its)} | {sum(x['essencial'] for x in its)} |")
         L.append('')
-    escrever(cam, '\n'.join(L))
+    c.escrever(cam, L)
 
-def trilhas():
+
+def titulo_trilha(c: Ctx, t: dict) -> str:
+    return f"{t['emoji']} {c.t(f'trilha.{t['slug']}.nome')}"
+
+
+def trilhas(c: Ctx) -> None:
     cam = 'trilhas/README.md'
-    L = ['# 🧭 Trilhas por profissão\n',
-         '> Não sabe por onde começar? Escolha a sua profissão (ou a que você quer ter). Cada trilha junta as áreas que importam, na ordem em que vale a pena estudar, e mostra os primeiros links de cada uma.\n',
-         f"[🏠 Início]({rel(cam, 'README.md')}) · [🗂️ Catálogo de áreas]({rel(cam, 'areas/CATALOGO.md')})\n", '## 📚 Índice\n']
-    usados = set()
+    L = [f"# 🧭 {c.t('nav.trilhas')}\n", f"> {c.t('trilhas.intro')}\n",
+         f"[🏠 {c.t('nav.inicio')}]({c.rel(cam, 'README.md')}) · [🗂️ {c.t('nav.catalogo')}]({c.rel(cam, 'areas/CATALOGO.md')}) · "
+         f"[🧠 {c.t('nav.profissoes')}]({c.rel(cam, 'ia/profissoes/README.md')})\n", c.seletor(cam),
+         f"## {c.t('indice.titulo')}\n", f"> {c.t('trilhas.indice')}\n"]
+    usados = set(); gh_anchor(c.t('indice.titulo'), usados)
     for t in TRI:
-        L.append(f"[{t['emoji']} {t['nome']}](#{gh_anchor(t['emoji'] + ' ' + t['nome'], usados)}) <br>")
+        L.append(f"[{titulo_trilha(c, t)}](#{gh_anchor(titulo_trilha(c, t), usados)}) <br>")
     L.append('')
     for t in TRI:
-        L.append(f"## {t['emoji']} {t['nome']}\n")
-        L.append(f"> {t['resumo']}\n")
+        L += [f"## {titulo_trilha(c, t)}\n", f"> {c.t(f'trilha.{t['slug']}.resumo')}\n"]
         for i, slug in enumerate(t['areas'], 1):
-            a = AREA[slug]
-            L.append(f"{i}. **[{a['emoji']} {a['nome']}]({rel(cam, f'areas/{a['setor']}/{slug}.md')})**: {a['descricao']}")
-        L.append('\n🤖 **IA nesta trilha:**\n')
-        L += [f"- [{AREA[s_]['nome']}]({rel(cam, f'areas/{AREA[s_]['setor']}/{s_}.md')}#{ancora_ia(s_)})" for s_ in t['areas'] if s_ not in ('ia-generativa', 'ferramentas-ia')]
-        L.append('\n<details><summary>Primeiros links desta trilha</summary>\n')
+            L.append(f"{i}. **[{AREA[slug]['emoji']} {nome_area(c, slug)}]({link_area(c, cam, slug)})**: {c.t(f'area.{slug}.descricao')}")
+        L.append(f"\n🤖 **{c.t('trilhas.ia')}**\n")
+        L += [f"- [{nome_area(c, s_)}]({link_area(c, cam, s_)}#{ancora_ia(c, s_)})" for s_ in t['areas'] if s_ not in SEM_IA_PROPRIA]
+        if REPOS:
+            n = sum(1 for r in REPOS if r['trilha'] == t['slug'])
+            L.append(f"\n🧠 **[{c.t('trilhas.repos', n=n)}]({c.rel(cam, f'ia/profissoes/{t['slug']}.md')})**")
+        L.append(f"\n<details><summary>📌 {c.t('trilhas.primeiros')}</summary>\n")
         for slug in t['areas'][:4]:
-            ess = [x for x in POR_AREA.get(slug, []) if x['essencial'] and not x.get('ia')][:3]
-            L += [item_md(x) for x in ess]
+            L += [item_md(c, x) for x in [x for x in POR_AREA.get(slug, []) if x['essencial'] and not x.get('ia')][:3]]
         L.append('\n</details>\n')
-    escrever(cam, '\n'.join(L))
+    c.escrever(cam, L)
 
-def fontes_doc():
-    cam = 'docs/07-fontes-e-licencas.md'
+
+def fontes_doc() -> None:
     usadas = collections.Counter((x['fonte'], x['area']) for x in LINKS if not x['essencial'])
     lic = collections.Counter()
     L = ['# 07 · Fontes e licenças\n',
          '> Este guia existe porque milhares de pessoas mantêm listas curadas no GitHub. Esta página dá o crédito a cada uma e explica como as licenças foram respeitadas.\n',
-         '## Como as licenças foram tratadas\n',
+         '## ⚖️ Como as licenças foram tratadas\n',
+         '> As regras que decidem o que entra de cada fonte e com que texto.\n',
          '- **Links e nomes** são fatos: entram de qualquer fonte, sempre com crédito.',
          '- **Descrições** são texto autoral: só foram reaproveitadas de fontes com licença que permite (CC0, CC-BY, CC-BY-SA, MIT, Unlicense e afins). '
-         'De fontes **sem licença**, **GPL** ou **não comerciais (NC)**, entram só nome e link, sem a descrição.',
+         'De fontes **sem licença**, **GPL** ou **não comerciais (NC)**, o texto da lista não é copiado.',
+         '- **Todo link tem descrição.** Quando a descrição da lista não pode ser usada, entra a descrição pública que o próprio projeto publica '
+         '(o campo "About" do repositório no GitHub) ou uma descrição escrita pela curadoria deste guia, guardada em `data/descricoes.json`. Link sem descrição não entra.',
+         '- **Repositórios de IA por profissão** (`data/repos-ia.jsonl`) vêm da busca pública do GitHub; a descrição é a que o próprio repositório publica.',
+         '- **Traduções** das descrições são automáticas (Argos Translate, modelos abertos, rodando offline) e ficam em `data/i18n/`. Correções são bem-vindas.',
          '- Por incluir material CC-BY-SA, o **conteúdo** deste guia é distribuído sob **CC BY-SA 4.0**. Os **scripts** são MIT.',
          '- Os **essenciais** ("Comece por aqui") foram escolhidos e descritos pela curadoria deste guia.\n',
-         '## Fontes usadas\n', '| Fonte | Área | Links usados | Licença |', '|---|---|:--:|---|']
+         '## 🧾 Fontes usadas\n', '> Cada lista curada, a área em que foi usada, quantos links entraram e a licença.\n',
+         '| Fonte | Área | Links usados | Licença |', '|---|---|:--:|---|']
     for f in sorted(FONTES, key=lambda f: (f['area'], f['repo'])):
         if f['area'] == '_mapa':
             n = sum(v for (r, _), v in usadas.items() if r == f['repo']); area = 'várias'
@@ -256,119 +232,94 @@ def fontes_doc():
             n = usadas.get((f['repo'], f['area']), 0); area = AREA[f['area']]['nome']
         lic[f.get('licenca', '?')] += 1
         L.append(f"| [{f['repo']}](https://github.com/{f['repo']}) | {area} | {n} | {f.get('licenca', '?')} |")
-    L.append('\n## Resumo das licenças das fontes\n')
+    L += ['\n## 📊 Resumo das licenças das fontes\n', '> Quantas fontes há em cada licença.\n']
     L += [f"- {k}: {v} fontes" for k, v in lic.most_common()]
-    escrever(cam, '\n'.join(L))
+    escrever('docs/07-fontes-e-licencas.md', '\n'.join(L))
 
-def readme():
+
+def readme(c: Ctx) -> None:
     cam = 'README.md'
     total = len(LINKS); unicos = len({chave(x['url']) for x in LINKS}); ness = sum(x['essencial'] for x in LINKS)
     nfontes = len({x['fonte'] for x in LINKS if not x['essencial']})
     tipos = collections.Counter(x['tipo'] for x in LINKS)
-    pt = sum(1 for x in LINKS if x.get('idioma') == 'pt')
+    n_ia = sum(1 for x in LINKS if x.get('ia')); n_ia_ess = sum(1 for x in LINKS if x.get('ia') and x['essencial'])
+    n_repos, n_repos_unicos = len(REPOS), len({r['url'] for r in REPOS})
     nome, repo = CFG['nome'], CFG['repo']
-    L = ['<p align="center">\n  <img src="./images/logo.svg" alt="' + nome + '" width="160" height="160">\n</p>\n',
-         f'<h1 align="center">{nome}</h1>\n', '## :dart: A proposta\n',
-         f"> O **{nome}** é um mapa de conhecimento aberto e gratuito: **{total} links** ({unicos} URLs únicas) organizados em **{len(SETOR)} setores**, "
-         f"**{len(AREA)} áreas** e centenas de tópicos, para que **qualquer pessoa** encontre os melhores sites, cursos, ferramentas, repositórios, listas awesome, "
-         "comunidades e utilitários da sua área: desenvolvimento, dados, segurança, design, edição de vídeo, cinema, fotografia, música, marketing, tráfego pago, "
-         "vendas, finanças, direito, saúde, ciência, educação, idiomas e muito mais. Cada área começa com **essenciais escolhidos a dedo e descritos em português**, traz uma seção de **inteligência artificial aplicada àquela profissão** "
-         "e segue com os links reunidos das melhores listas curadas da comunidade, com crédito a cada uma.\n",
-         f"- 🗂️ [Catálogo de áreas](areas/CATALOGO.md): todas as {len(AREA)} áreas, por setor, com a contagem de links.",
-         f"- 🧭 [Trilhas por profissão](trilhas/README.md): {len(TRI)} trilhas, de desenvolvedor(a) front-end a filmmaker, de gestor(a) de tráfego a professor(a).\n",
-         '## 💡 Como este guia é organizado\n',
-         '> Três níveis, do geral ao específico: **setor** (ex.: Design e Criação) → **área** (ex.: Edição de Vídeo) → **tópico** (ex.: Non-Linear Editors). '
-         'Cada área é uma página com índice, uma seção **⭐ Comece por aqui** e os tópicos ordenados do maior para o menor. Tudo vem de uma base de dados aberta '
-         '(`data/links.jsonl`) e é gerado por scripts em Python, então o guia inteiro pode ser regenerado, validado e ampliado. A organização segue a dos guias '
-         '[guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) e [guiadomaestri](https://github.com/arthurspk/guiadomaestri). Detalhes em [docs/02](docs/02-organizacao-e-taxonomia.md).\n',
-         '## 🌍 Tradução\n',
-         '> O guia está em **português (Brasil)**. As descrições dos essenciais e dos guias de origem brasileira estão em pt-BR; boa parte das demais vem das listas originais, em inglês. '
-         'Quer traduzir o guia ou as descrições? Veja [docs/08 · Como contribuir](docs/08-como-contribuir.md).\n',
-         '🇧🇷・**Português (Brasil) —** [este arquivo](README.md)<br>\n',
-         '## 📚 Índice\n',
-         '[⭐ Comece por aqui](#-comece-por-aqui) — o caminho mais curto até o que você procura. <br>',
-         '[📖 Documentação](#-documentação) — como usar, como é organizado, como contribuir. <br>',
-         '[🗂️ Setores e áreas](#️-setores-e-áreas) — os 9 setores e todas as áreas. <br>',
-         '[🧭 Trilhas por profissão](#-trilhas-por-profissão) — por onde começar na sua carreira. <br>',
-         '[🤖 IA em todas as áreas](#-ia-em-todas-as-áreas) — inteligência artificial aplicada a cada profissão. <br>',
-         '[🔢 O guia em números](#-o-guia-em-números) — quantos links, de que tipo, de onde. <br>',
-         '[📜 Scripts disponíveis](#-scripts-disponíveis) — coletores, gerador e validadores em Python. <br>',
-         '[🛠️ Regenerar e validar](#️-regenerar-e-validar) — reconstruir e conferir tudo. <br>',
-         '[🤝 Contribuição](#-contribuição) — como sugerir links, áreas e traduções. <br>',
-         '[⚖️ Licenças e créditos](#️-licenças-e-créditos) — de onde vem cada link. <br>',
-         '[⚠️ Aviso](#️-aviso) — sobre links externos. <br>',
-         '[⭐ Star History](#-star-history) — o gráfico de estrelas do repositório. <br>\n',
-         '## ⭐ Comece por aqui\n',
-         '> Cinco atalhos, conforme o que você tem em mente.\n',
-         '- [🧭 **Sei a minha profissão**](trilhas/README.md): abra a trilha dela e siga as áreas na ordem.',
-         '- [🗂️ **Sei o assunto**](areas/CATALOGO.md): abra o catálogo e vá direto à área.',
-         '- [🤖 **Quero usar IA no meu trabalho**](ia/README.md): a seção de IA de cada profissão, num lugar só.',
-         '- [🧰 **Quero só boas ferramentas**](areas/ferramentas/README.md): ferramentas online, apps por sistema, extensões, APIs e recursos gratuitos.',
-         '- 🔎 **Procurando algo específico?** Use `Ctrl+F` na página da área, ou a busca do GitHub neste repositório. A base completa está em [`data/links.csv`](data/links.csv) para abrir em qualquer planilha.\n',
-         '## 📖 Documentação\n',
-         '> Os documentos do guia. Comece pelo 01 se é a sua primeira vez aqui.\n',
-         '- [🧭 01 · **Como usar este guia**](docs/01-como-usar.md) — navegação, símbolos e como estudar com ele.',
-         '- [🗺️ 02 · **Organização e taxonomia**](docs/02-organizacao-e-taxonomia.md) — setores, áreas, tópicos e por que estão assim.',
-         '- [🧭 03 · **Trilhas por profissão**](docs/03-trilhas-por-profissao.md) — como usar e criar trilhas; a lista está em [trilhas/](trilhas/README.md).',
-         '- [📐 04 · **Formato dos dados**](docs/04-formato-dos-dados.md) — os campos de `links.jsonl`, `fontes.json` e `essenciais.json`.',
-         '- [🕷️ 05 · **Coleta com Scrapling**](docs/05-coleta-com-scrapling.md) — como os links são coletados, verificados e atualizados.',
-         '- [🔍 06 · **Curadoria e qualidade**](docs/06-curadoria-e-qualidade.md) — critérios de entrada, saída, deduplicação e tetos por área.',
-         '- [⚖️ 07 · **Fontes e licenças**](docs/07-fontes-e-licencas.md) — todas as fontes, com crédito e licença.',
-         '- [🤝 08 · **Como contribuir**](docs/08-como-contribuir.md) — sugerir links, áreas, trilhas e traduções.',
-         '- [🤖 09 · **IA em todas as áreas**](docs/09-ia-em-todas-as-areas.md) — como a camada de IA é montada e como usar IA com responsabilidade.\n',
-         '## 🗂️ Setores e áreas\n',
-         f"> {len(SETOR)} setores e {len(AREA)} áreas. Cada setor tem uma página com o resumo das áreas e os primeiros essenciais de cada uma.\n"]
+    doc = lambda n: c.rel(cam, f'docs/{n}.md')
+    v = dict(nome=nome, total=total, unicos=unicos, setores=len(SETOR), areas=len(AREA), trilhas=len(TRI), ia=n_ia, ia_ess=n_ia_ess,
+             repos=n_repos, repos_unicos=n_repos_unicos, fontes=nfontes, idiomas=len(IDIOMAS), tudo=total + n_repos)
+    secoes = ['comece', 'docs', 'setores', 'trilhas', 'ia', 'repos', 'numeros', 'scripts', 'regenerar', 'contribuir', 'licencas', 'aviso', 'stars']
+    usados = set()
+    anc = {k: gh_anchor(c.t(f'readme.{k}.titulo'), usados) for k in ['proposta', 'organizacao', 'traducao', 'indice'] + secoes}
+    sec = lambda k: [f"## {c.t(f'readme.{k}.titulo')}\n", '> ' + c.t(f'readme.{k}.desc', **v) + '\n']
+    L = [f'<p align="center">\n  <img src="{c.rel(cam, "images/logo.svg")}" alt="{nome}" width="160" height="160">\n</p>\n',
+         f'<h1 align="center">{nome}</h1>\n', f"## {c.t('readme.proposta.titulo')}\n", '> ' + c.t('readme.proposta.desc', **v) + '\n',
+         f"- 🗂️ [{c.t('nav.catalogo')}]({c.rel(cam, 'areas/CATALOGO.md')}): {c.t('readme.atalho.catalogo', **v)}",
+         f"- 🧭 [{c.t('nav.trilhas')}]({c.rel(cam, 'trilhas/README.md')}): {c.t('readme.atalho.trilhas', **v)}",
+         f"- 🧠 [{c.t('nav.profissoes')}]({c.rel(cam, 'ia/profissoes/README.md')}): {c.t('readme.atalho.profissoes', **v)}\n"]
+    L += sec('organizacao') + sec('traducao')
+    for cod, band, nome_id, clique, _ in IDIOMAS:
+        alvo = os.path.relpath(J(Ctx.p_de(cod, cam)), os.path.dirname(J(c.p(cam)))).replace(os.sep, '/')
+        L.append(f"{band}・**{nome_id} —** [{c.t('readme.traducao.este') if cod == c.lang else clique}]({alvo})<br>")
+    L += ['', f"## {c.t('readme.indice.titulo')}\n", '> ' + c.t('readme.indice.desc') + '\n']
+    L += [f"[{c.t(f'readme.{k}.titulo')}](#{anc[k]}) — {c.t(f'readme.{k}.indice')} <br>" for k in secoes]
+    L += [''] + sec('comece')
+    L += [f"- [🧭 **{c.t('readme.comece.profissao')}**]({c.rel(cam, 'trilhas/README.md')}): {c.t('readme.comece.profissao.desc')}",
+          f"- [🗂️ **{c.t('readme.comece.assunto')}**]({c.rel(cam, 'areas/CATALOGO.md')}): {c.t('readme.comece.assunto.desc')}",
+          f"- [🤖 **{c.t('readme.comece.ia')}**]({c.rel(cam, 'ia/README.md')}): {c.t('readme.comece.ia.desc')}",
+          f"- [🧠 **{c.t('readme.comece.repos')}**]({c.rel(cam, 'ia/profissoes/README.md')}): {c.t('readme.comece.repos.desc')}",
+          f"- [🎬 **{c.t('readme.comece.audiovisual')}**]({c.rel(cam, 'areas/criacao/recursos-audiovisuais.md')}): {c.t('readme.comece.audiovisual.desc')}",
+          f"- [🧰 **{c.t('readme.comece.ferramentas')}**]({c.rel(cam, 'areas/ferramentas/README.md')}): {c.t('readme.comece.ferramentas.desc')}",
+          f"- 🔎 {c.t('readme.comece.busca', csv=c.rel(cam, 'data/links.csv'))}\n"]
+    L += sec('docs')
+    for emoji, n, arq in (('🧭', '01', '01-como-usar'), ('🗺️', '02', '02-organizacao-e-taxonomia'), ('🥾', '03', '03-trilhas-por-profissao'),
+                          ('📐', '04', '04-formato-dos-dados'), ('🕷️', '05', '05-coleta-com-scrapling'), ('🔍', '06', '06-curadoria-e-qualidade'),
+                          ('⚖️', '07', '07-fontes-e-licencas'), ('🤝', '08', '08-como-contribuir'), ('🤖', '09', '09-ia-em-todas-as-areas')):
+        L.append(f"- [{emoji} {n} · **{c.t(f'readme.doc.{n}')}**]({doc(arq)}) — {c.t(f'readme.doc.{n}.desc')}")
+    L += [''] + sec('setores')
     for s in TAX['setores']:
         n = sum(len(POR_AREA.get(a['slug'], [])) for a in s['areas'])
-        areas = ' · '.join(f"[{a['nome']}](areas/{s['slug']}/{a['slug']}.md)" for a in s['areas'])
-        L.append(f"- [{s['emoji']} **{s['nome']}**](areas/{s['slug']}/README.md) — {n} links · {areas}.")
-    L += ['', '## 🧭 Trilhas por profissão\n',
-          '> Cada trilha junta as áreas que importam para uma profissão, na ordem em que vale a pena estudar.\n']
-    L += [f"- [{t['emoji']} {t['nome']}](trilhas/README.md#{gh_anchor(t['emoji'] + ' ' + t['nome'], set())})" for t in TRI]
-    L.append('')
-    n_ia = sum(1 for x in LINKS if x.get('ia')); n_ia_ess = sum(1 for x in LINKS if x.get('ia') and x['essencial'])
-    L += ['## 🤖 IA em todas as áreas\n',
-          f"> Toda página de área tem uma seção **🤖 IA para <área>**: {n_ia} links de IA no total, {n_ia_ess} deles essenciais escolhidos a dedo e descritos em português. "
-          "Ferramentas da profissão, skills, plugins e MCPs para agentes (Claude, ChatGPT, Codex), cursos gratuitos, guias de prompt, regulação e uso responsável.\n",
-          '- [🤖 **IA para todas as áreas**](ia/README.md): a seção de IA de cada área, por setor, num lugar só.',
-          '- Exemplos: ' + ' · '.join(f"[{AREA[s_]['nome']}](areas/{AREA[s_]['setor']}/{s_}.md#{ancora_ia(s_)})" for s_ in
-                                      ('edicao-de-video', 'trafego-pago', 'juridico', 'saude', 'educacao', 'qa-testes', 'contabilidade', 'design-ui-ux')) + '.\n']
-    L += ['## 🔢 O guia em números\n', '| Indicador | Valor |', '|---|---|',
-          f'| Links no total | {total} |', f'| URLs únicas | {unicos} |', f'| Setores / áreas | {len(SETOR)} / {len(AREA)} |',
-          f'| Essenciais escolhidos a dedo (pt-BR) | {ness} |', f"| Links de IA (seções 🤖 nas áreas) | {sum(1 for x in LINKS if x.get('ia'))} |", f'| Listas curadas usadas como fonte | {nfontes} |',
-          f'| Links marcados como conteúdo em português | {pt} |',
-          '| Por tipo | ' + ' · '.join(f"{TIPO_ROTULO.get(k, k)} {v}" for k, v in tipos.most_common()) + ' |', '',
-          '| Setor | Áreas | Links |', '|---|:--:|:--:|']
+        L.append(f"- [{s['emoji']} **{c.t(f'setor.{s['slug']}.nome')}**]({c.rel(cam, f'areas/{s['slug']}/README.md')}) — 🔗 {n}")
+        L += [f"  - [{a['emoji']} {nome_area(c, a['slug'])}]({c.rel(cam, f'areas/{s['slug']}/{a['slug']}.md')}) — {c.t(f'area.{a['slug']}.descricao')}"
+              for a in s['areas']]
+    L += [''] + sec('trilhas')
+    L += [f"- [{titulo_trilha(c, t)}]({c.rel(cam, 'trilhas/README.md')}#{gh_anchor(titulo_trilha(c, t), set())}) — {c.t(f'trilha.{t['slug']}.resumo')}" for t in TRI]
+    L += [''] + sec('ia')
+    L += [f"- [🤖 **{c.t('nav.ia')}**]({c.rel(cam, 'ia/README.md')}): {c.t('readme.ia.central')}",
+          f"- 💡 {c.t('readme.ia.exemplos')} " + ' · '.join(f"[{nome_area(c, s_)}]({link_area(c, cam, s_)}#{ancora_ia(c, s_)})" for s_ in
+                                                           ('edicao-de-video', 'trafego-pago', 'juridico', 'saude', 'educacao', 'qa-testes', 'contabilidade', 'design-ui-ux')) + '.\n']
+    L += sec('repos')
+    L += [f"- [{t['emoji']} {c.t(f'trilha.{t['slug']}.nome')}]({c.rel(cam, f'ia/profissoes/{t['slug']}.md')})" for t in TRI if REPOS]
+    L += [''] + sec('numeros')
+    L += [f"| {c.t('num.indicador')} | {c.t('num.valor')} |", '|---|---|',
+          f"| 🔗 {c.t('num.total')} | {total} |", f"| 🧬 {c.t('num.unicos')} | {unicos} |", f"| 🗂️ {c.t('num.setores')} | {len(SETOR)} / {len(AREA)} |",
+          f"| ⭐ {c.t('num.essenciais')} | {ness} |", f"| 🤖 {c.t('num.ia')} | {n_ia} |", f"| 🧠 {c.t('num.repos')} | {n_repos} ({n_repos_unicos}) |",
+          f"| 📋 {c.t('num.fontes')} | {nfontes} |", f"| 🌍 {c.t('num.idiomas')} | {len(IDIOMAS)} |",
+          f"| 🧾 {c.t('num.tipos')} | " + ' · '.join(f"{TIPO_EMOJI.get(k, '🔗')} {c.t('tipo.' + k)} {n}" for k, n in tipos.most_common()) + ' |', '',
+          f"| {c.t('tab.setor')} | {c.t('tab.cobre')} | {c.t('tab.areas')} | 🔗 {c.t('tab.links')} |", '|---|---|:--:|:--:|']
     for s in TAX['setores']:
-        L.append(f"| {s['emoji']} {s['nome']} | {len(s['areas'])} | {sum(len(POR_AREA.get(a['slug'], [])) for a in s['areas'])} |")
-    L += ['', '## 📜 Scripts disponíveis\n', '> Tudo é gerado por Python. Detalhes em [`scripts/README.md`](scripts/README.md).\n',
-          '| Script | Tipo | O que faz |', '|---|---|---|',
-          '| [`scripts/coletar.py`](scripts/coletar.py) | coletor | Baixa as listas curadas (Scrapling, com git como reserva) e extrai cada link com nome, descrição e tópico. |',
-          '| [`scripts/selecionar.py`](scripts/selecionar.py) | curadoria | Normaliza, deduplica, aplica a política de licenças e escolhe os links de cada área com teto e rodízio entre fontes. |',
-          '| [`scripts/gerar.py`](scripts/gerar.py) | gerador | Gera este README, as páginas de setor e de área, as trilhas, o catálogo e o CSV. |',
-          '| [`scripts/checar_links.py`](scripts/checar_links.py) | verificação | Confere se os links respondem (Scrapling ou urllib) e marca os quebrados. |',
-          '| [`tests/validar.py`](tests/validar.py) | validação | Confere dados, páginas, âncoras, duplicados e contagens. |', '',
-          '## 🛠️ Regenerar e validar\n',
-          '> Só a stdlib do Python 3 é obrigatória. O Scrapling (`pip install "scrapling[fetchers]"`) deixa a coleta e a checagem de links mais robustas.\n',
-          '```bash', 'python3 scripts/coletar.py        # → data/brutos.jsonl.gz (todas as fontes)',
-          'python3 scripts/selecionar.py     # → data/links.jsonl (base final)', 'python3 scripts/gerar.py          # → README, areas/, trilhas/, docs/07, data/links.csv',
-          'python3 scripts/checar_links.py   # → data/status-links.json (opcional, demora)', 'python3 tests/validar.py          # → "OK" se tudo estiver consistente', '```\n',
-          '## 🤝 Contribuição\n',
-          '> Sugestões são muito bem-vindas: um link que faltou, uma área nova, uma trilha, uma tradução.\n',
-          '- **Link novo:** adicione em `data/essenciais.json` (se é essencial da área) ou sugira uma **lista curada** em `data/fontes.json`. Depois rode o gerador.',
-          '- **Link quebrado ou ruim:** abra uma issue com o endereço da página e o link.',
-          '- Passo a passo em [docs/08 · Como contribuir](docs/08-como-contribuir.md) e em [CONTRIBUTING.md](CONTRIBUTING.md).\n',
-          '## ⚖️ Licenças e créditos\n',
-          f"> Os links vêm de **{nfontes} listas curadas** mantidas pela comunidade, listadas com licença em [docs/07](docs/07-fontes-e-licencas.md) e no rodapé de cada área. "
-          'O conteúdo deste guia é **CC BY-SA 4.0** e os scripts são **MIT** (veja [LICENSE](LICENSE)). Descrições de fontes sem licença, GPL ou não comerciais não foram copiadas.\n',
-          '## ⚠️ Aviso\n',
-          '> Este guia aponta para sites de terceiros. Não há afiliação com nenhum deles, e o conteúdo de cada site é responsabilidade de quem o mantém. '
-          'Links mudam: se encontrar um quebrado, avise. Conteúdo de segurança ofensiva é para estudo e uso **somente em escopo autorizado**.\n',
-          '## ⭐ Star History\n',
-          f"[![Star History Chart](https://api.star-history.com/svg?repos={repo}&type=Date)](https://star-history.com/#{repo}&Date)"]
-    escrever(cam, '\n'.join(L))
+        L.append(f"| [{s['emoji']} {c.t(f'setor.{s['slug']}.nome')}]({c.rel(cam, f'areas/{s['slug']}/README.md')}) | {c.t(f'setor.{s['slug']}.descricao')} | "
+                 f"{len(s['areas'])} | {sum(len(POR_AREA.get(a['slug'], [])) for a in s['areas'])} |")
+    L += [''] + sec('scripts')
+    L += [f"| {c.t('tab.script')} | {c.t('tab.faz')} |", '|---|---|']
+    for sc in ('coletar', 'selecionar', 'coletar_repos_ia', 'descrever', 'traduzir', 'gerar', 'checar_links', 'validar'):
+        arq = 'tests/validar.py' if sc == 'validar' else f'scripts/{sc}.py'
+        L.append(f"| [`{arq}`]({c.rel(cam, arq)}) | {c.t(f'readme.script.{sc}')} |")
+    L += [''] + sec('regenerar')
+    L += ['```bash', 'python3 scripts/coletar.py            # → data/brutos.jsonl.gz', 'python3 scripts/descrever.py          # → data/descricoes.json',
+          'python3 scripts/selecionar.py         # → data/links.jsonl', 'python3 scripts/coletar_repos_ia.py   # → data/repos-ia.jsonl',
+          'python3 scripts/traduzir.py           # → data/i18n/desc.<idioma>.json.gz', 'python3 scripts/gerar.py              # → README*, areas/, trilhas/, ia/, i18n/',
+          'python3 tests/validar.py              # → "OK"', '```\n']
+    L += sec('contribuir')
+    L += [f"- {c.t('readme.contribuir.novo')}", f"- {c.t('readme.contribuir.quebrado')}",
+          f"- {c.t('readme.contribuir.passo', doc=doc('08-como-contribuir'), contributing=c.rel(cam, 'CONTRIBUTING.md'))}\n"]
+    L += [f"## {c.t('readme.licencas.titulo')}\n", '> ' + c.t('readme.licencas.desc', doc=doc('07-fontes-e-licencas'), licenca=c.rel(cam, 'LICENSE'), **v) + '\n']
+    L += sec('aviso') + sec('stars')
+    L.append(f"[![Star History Chart](https://api.star-history.com/svg?repos={repo}&type=Date)](https://star-history.com/#{repo}&Date)")
+    c.escrever(cam, L)
 
-def csv_out():
+
+def csv_out() -> None:
     with open(J('data', 'links.csv'), 'w', encoding='utf-8', newline='') as f:
         w = csv.writer(f)
         w.writerow(['setor', 'area', 'topico', 'nome', 'url', 'descricao', 'tipo', 'idioma', 'essencial', 'fonte'])
@@ -376,13 +327,25 @@ def csv_out():
             w.writerow([AREA[x['area']]['setor'], x['area'], x['grupo'] or x['topico'], x['nome'], x['url'], x['descricao'],
                         x['tipo'], x.get('idioma', ''), 'sim' if x['essencial'] else '', x['fonte']])
 
-def main():
-    for s in TAX['setores']:
-        for a in s['areas']:
-            pagina_area(a['slug'])
-        pagina_setor(s)
-    catalogo(); trilhas(); pagina_ia(); fontes_doc(); readme(); csv_out()
-    print(f"Gerado: {len(AREA)} páginas de área, {len(SETOR)} setores, {len(TRI)} trilhas, {len(LINKS)} links.")
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
+    ap.add_argument('--idiomas', default=','.join(CODIGOS), help='códigos separados por vírgula (padrão: todos)')
+    idiomas = [i for i in ap.parse_args().idiomas.split(',') if i in CODIGOS]
+    pt = textos_pt()
+    for lang in idiomas:
+        if lang != 'pt':
+            shutil.rmtree(J('i18n', lang), ignore_errors=True)
+        c = Ctx(lang, pt)
+        for s in TAX['setores']:
+            for a in s['areas']:
+                pagina_area(c, a['slug'])
+            pagina_setor(c, s)
+        catalogo(c); trilhas(c); pagina_ia(c, DADOS, item_md); paginas_profissoes(c, DADOS); readme(c)
+    fontes_doc(); csv_out()
+    print(f"Gerado em {len(idiomas)} idioma(s): {len(AREA)} páginas de área, {len(SETOR)} setores, {len(TRI)} trilhas, "
+          f"{len(LINKS)} links, {len(REPOS)} repositórios de IA por profissão.")
+
 
 if __name__ == '__main__':
     main()

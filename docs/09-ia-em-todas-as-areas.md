@@ -30,3 +30,7 @@ As áreas *IA Generativa e LLMs* e *Ferramentas de IA* já são inteiras sobre I
 - Lista de IA de um domínio: em `data/fontes.json`, com `"ia": true`.
 - Categoria nova de uma lista geral de IA: ajuste o `mapa` da fonte em `data/fontes-guias.json`.
 - Depois: `python3 scripts/coletar.py && python3 scripts/selecionar.py && python3 scripts/gerar.py && python3 tests/validar.py`.
+
+## Repositórios de IA por profissão
+
+Além da seção 🤖 de cada área, cada trilha tem uma página com **1000 repositórios de IA** daquele ofício, separados por tema e ordenados por estrelas: veja [🧠 Repositórios de IA por profissão](../ia/profissoes/README.md). A lista é montada por `scripts/coletar_repos_ia.py` a partir das consultas em `data/repos-ia-consultas.json`. Para melhorar a lista de uma profissão, ajuste as consultas do tema e rode `python3 scripts/coletar_repos_ia.py --trilha <slug>`. Quando os temas da profissão não rendem 1000 repositórios, o restante vem do tema "IA e automação de uso geral", e a página mostra isso numa seção separada.

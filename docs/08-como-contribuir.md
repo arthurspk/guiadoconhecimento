@@ -20,7 +20,12 @@ Adicione em [`data/fontes.json`](../data/fontes.json) com `repo`, `arquivos`, `a
 Edite [`data/taxonomia.json`](../data/taxonomia.json) ou [`data/trilhas.json`](../data/trilhas.json) e explique no pull request por que a área não cabe nas existentes.
 
 ## Traduzir
-As descrições em inglês vêm das listas originais. Traduções são bem-vindas nos essenciais e em blocos por área; abra um PR por área.
+O guia sai em 12 idiomas. Há dois tipos de texto:
+
+- **Textos da interface** (títulos, descrições de seção, nomes de áreas e profissões): ficam em `data/i18n/textos.<idioma>.json`. Corrija ali e rode `python3 scripts/conferir_textos.py <idioma>`.
+- **Descrições dos links e nomes de tópico**: são traduzidas automaticamente por `scripts/traduzir.py` e ficam em `data/i18n/desc.<idioma>.json.gz`. Se uma tradução ficou ruim, abra uma issue com a página e o link.
+
+Nunca edite as páginas em `i18n/`: elas são geradas.
 
 ## Antes de enviar
 

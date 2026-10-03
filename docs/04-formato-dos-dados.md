@@ -47,3 +47,17 @@ Gerado por `scripts/checar_links.py`: para cada URL, `status` (`ok`, `quebrado`,
 
 ## `data/trilhas.json`
 As trilhas por profissão: `nome`, `emoji`, `resumo` e a lista ordenada de `areas`.
+
+## `data/descricoes.json`
+Gerado por `scripts/descrever.py`: `{url: descrição}` com a descrição pública (campo "About") dos repositórios do GitHub cuja lista de origem não tem descrição ou não permite copiar o texto. O `selecionar.py` usa esse arquivo; link que continua sem descrição não entra no guia.
+
+## `data/repos-ia-consultas.json`
+As consultas da busca do GitHub para os repositórios de IA de cada profissão. Em `trilhas`, cada slug de trilha tem uma lista de temas no formato `[emoji, nome, descrição, [consultas]]`. Em `geral` fica o tema de uso geral, que completa a lista quando os temas da profissão não chegam a 1000.
+
+## `data/repos-ia.jsonl`
+Gerado por `scripts/coletar_repos_ia.py`: uma linha por repositório e por profissão, com `trilha`, `tema` (índice do tema; `-1` é o tema geral), `nome` (`dono/repo`), `url`, `descricao`, `estrelas`, `linguagem`, `licenca` e `atualizado`. São exatamente 1000 linhas por trilha. O resumo da coleta fica em `data/repos-ia-meta.json`.
+
+## `data/i18n/`
+- `textos.pt.json`: os textos da interface (títulos, descrições de seção, rótulos) em português, com marcadores como `{n}` e `{area}`. Os nomes e descrições de setores, áreas, trilhas e temas vêm dos próprios dados.
+- `textos.<idioma>.json`: a tradução de todos esses textos. `scripts/conferir_textos.py` confere chaves, marcadores e marcação.
+- `desc.<idioma>.json.gz`: gerado por `scripts/traduzir.py`. `{hash: tradução}` das descrições e dos nomes de tópico, onde o hash são os 14 primeiros caracteres do SHA-1 do texto original já limpo.

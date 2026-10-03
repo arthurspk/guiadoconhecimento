@@ -8,7 +8,9 @@
 
 - **Essenciais:** de 12 a 20 por área, escolhidos à mão, com descrição objetiva em português, preferindo conteúdo gratuito, oficial e brasileiro quando bom. Na curadoria, cada URL foi aberta ou confirmada em listas curadas; a checagem automática contínua é feita pelo `checar_links.py`.
 - **Fontes curadas:** listas do GitHub mantidas (atividade recente), focadas na área e com licença registrada.
-- **Links das fontes:** a seleção faz rodízio entre os tópicos de cada lista (até 6 por tópico a cada volta), respeitando a ordem da lista dentro do tópico e dando prioridade aos itens com descrição. Assim a área cobre a lista inteira, não só o começo.
+- **Links das fontes:** a seleção faz rodízio entre os tópicos de cada lista (até 6 por tópico a cada volta), respeitando a ordem da lista dentro do tópico e respeitando a ordem da lista. Assim a área cobre a lista inteira, não só o começo.
+- **Todo link tem descrição.** Se a lista de origem não tem descrição, ou a licença dela não permite copiar o texto, vale a descrição pública do próprio repositório no GitHub (`data/descricoes.json`). Sem nenhuma das duas, o link não entra.
+- **Repositórios de IA por profissão:** 1000 por trilha, vindos da busca do GitHub com as consultas de `data/repos-ia-consultas.json`. Só entram repositórios ativos, com pelo menos 3 estrelas, descrição em alfabeto latino, sinal claro de IA no nome, na descrição ou nos tópicos, e fora de uma lista de bloqueio (conteúdo adulto, pirataria, trapaça). A ordem é por estrelas.
 
 ## O que não entra
 
