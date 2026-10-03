@@ -1,273 +1,233 @@
 # 🎥 Filmmaking e Cinema
 
-> Roteiro, direção, fotografia de cinema, produção e distribuição. **193 links** nesta área: 14 essenciais escolhidos a dedo, 42 de inteligência artificial e 137 reunidos de 4 listas curadas.
+> Roteiro, direção, fotografia de cinema, produção e distribuição. **149 links** nesta área: 14 essenciais escolhidos a dedo, 42 de inteligência artificial e 93 reunidos de 4 listas curadas.
 
-[← 🎬 Design e Criação](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🎬 Design e Criação](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/criacao/filmmaking.md) · 🇪🇸 [Español](../../i18n/es/areas/criacao/filmmaking.md) · 🇨🇳 [中文](../../i18n/zh/areas/criacao/filmmaking.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/criacao/filmmaking.md) · 🇸🇦 [العربية](../../i18n/ar/areas/criacao/filmmaking.md) · 🇫🇷 [Français](../../i18n/fr/areas/criacao/filmmaking.md) · 🇮🇹 [Italiano](../../i18n/it/areas/criacao/filmmaking.md) · 🇰🇷 [한국어](../../i18n/ko/areas/criacao/filmmaking.md) · 🇷🇺 [Русский](../../i18n/ru/areas/criacao/filmmaking.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/criacao/filmmaking.md) · 🇯🇵 [日本語](../../i18n/ja/areas/criacao/filmmaking.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>14</sub> <br>
 [🤖 IA para Filmmaking e Cinema](#-ia-para-filmmaking-e-cinema) <sub>42</sub> <br>
-[◾ Lighting](#-lighting) <sub>16</sub> <br>
-[◾ Recursos de aprendizado](#-recursos-de-aprendizado) <sub>12</sub> <br>
-[◾ Recursos](#-recursos) <sub>11</sub> <br>
-[◾ Royalty-free music](#-royalty-free-music) <sub>9</sub> <br>
-[◾ Editing software](#-editing-software) <sub>8</sub> <br>
-[◾ VFX software](#-vfx-software) <sub>8</sub> <br>
-[◾ Áudio](#-áudio) <sub>8</sub> <br>
-[◾ Drones & Camera Systems](#-drones--camera-systems) <sub>6</sub> <br>
-[◾ Official Resources](#-official-resources) <sub>6</sub> <br>
-[◾ Timecode](#-timecode) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>47</sub> <br>
+[🔶 Iluminação.](#-iluminação) <sub>15</sub> <br>
+[🎁 Recursos.](#-recursos) <sub>11</sub> <br>
+[🔹 Programa de edição](#-programa-de-edição) <sub>8</sub> <br>
+[✨ Software VFX](#-software-vfx) <sub>8</sub> <br>
+[🎵 Áudio](#-áudio) <sub>8</sub> <br>
+[⏱️ Código de tempo](#️-código-de-tempo) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>37</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
+> Os essenciais de Filmmaking e Cinema, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
 - [StudioBinder - Blog](https://www.studiobinder.com/blog/) - Guias detalhados sobre roteiro, linguagem de câmera, direção e produção.
 - [No Film School](https://nofilmschool.com/) - Notícias, tutoriais e podcast sobre fazer cinema de forma independente.
-- [Lessons from the Screenplay](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw) - Canal de vídeo-ensaios que analisam roteiros de filmes conhecidos. <sub>canal</sub>
+- [Lessons from the Screenplay](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw) - Canal de vídeo-ensaios que analisam roteiros de filmes conhecidos. <sub>📺 canal</sub>
 - [American Cinematographer (ASC)](https://theasc.com/) - Revista e site da American Society of Cinematographers sobre direção de fotografia.
-- [Fountain](https://fountain.io/) - Linguagem de marcação em texto simples para escrever roteiros no formato padrão.
+- [Fountain](https://fountain.io/) - Linguagem de marcação em texto simples para escrever roteiros no formato padrão. <sub>📖 documentação</sub>
 - [Scrite](https://www.scrite.io/) - Software de roteiro open source com estrutura de cenas e formatação padrão.
 - [Storyboarder](https://wonderunit.com/storyboarder/) - Ferramenta gratuita e open source para criar storyboards rapidamente.
 - [FilmGrab](https://film-grab.com/) - Acervo de frames de filmes para estudar fotografia, enquadramento e cor.
 - [FilmFreeway](https://filmfreeway.com/) - Plataforma para inscrever filmes e roteiros em festivais do mundo todo.
 - [Indie Film Hustle](https://indiefilmhustle.com/) - Podcast e blog sobre produção, financiamento e distribuição de filmes independentes.
-- [Projeto Paradiso](https://www.projetoparadiso.org.br/) - Instituto brasileiro que oferece bolsas e programas de formação para profissionais do audiovisual. <sub>pt-BR</sub>
-- [ANCINE](https://www.gov.br/ancine/pt-br) - Agência Nacional do Cinema: regulação, fomento, editais e dados do audiovisual brasileiro. <sub>pt-BR</sub>
-- [Spcine](https://spcine.com.br/) - Empresa de cinema e audiovisual de São Paulo com editais, film commission e dados do setor. <sub>pt-BR</sub>
-- [Rod Cauhi](https://www.youtube.com/c/RodCauhiOficial) - Canal brasileiro sobre cinema, audiovisual e o dia a dia de produção. <sub>pt-BR · canal</sub>
+- [Projeto Paradiso](https://www.projetoparadiso.org.br/) - Instituto brasileiro que oferece bolsas e programas de formação para profissionais do audiovisual. <sub>🇧🇷 pt-BR</sub>
+- [ANCINE](https://www.gov.br/ancine/pt-br) - Agência Nacional do Cinema: regulação, fomento, editais e dados do audiovisual brasileiro. <sub>🇧🇷 pt-BR</sub>
+- [Spcine](https://spcine.com.br/) - Empresa de cinema e audiovisual de São Paulo com editais, film commission e dados do setor. <sub>🇧🇷 pt-BR</sub>
+- [Rod Cauhi](https://www.youtube.com/c/RodCauhiOficial) - Canal brasileiro sobre cinema, audiovisual e o dia a dia de produção. <sub>📺 canal · 🇧🇷 pt-BR</sub>
 
 ## 🤖 IA para Filmmaking e Cinema
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com filmmaking e cinema. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Filmmaking e Cinema. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Google Flow](https://flow.google.com/) - Estúdio de IA do Google para criar cenas e planos cinematográficos com o modelo Veo, com controle de câmera e continuidade entre tomadas; uso amplo depende de plano pago.
 - [Runway](https://runway.com/) - Plataforma de vídeo generativo (modelo Gen-4.5) para gerar, estender e editar planos, com referências de personagem e cena; teste gratuito e planos pagos.
-- [Runway Academy](https://academy.runwayml.com/) - Cursos e tutoriais gratuitos da Runway sobre produção de vídeo com IA, de prompts a fluxos de pré-visualização e pós-produção. <sub>curso</sub>
+- [Runway Academy](https://academy.runwayml.com/) - Cursos e tutoriais gratuitos da Runway sobre produção de vídeo com IA, de prompts a fluxos de pré-visualização e pós-produção. <sub>🎓 curso</sub>
 - [Kling AI](https://kling.ai/) - Gerador de vídeo e imagem com controle de movimento, referências e saída em 4K, muito usado em curtas e clipes; tem uso gratuito e planos pagos.
 - [Luma (Dream Machine)](https://lumalabs.ai/dream-machine) - Plataforma da Luma AI com agentes criativos para planejar, gerar e iterar vídeos e imagens; teste gratuito, planos a partir de US$ 30/mês.
 - [LTX Studio](https://ltx.io/studio) - Plataforma de pré-produção e produção com IA: roteiro, storyboard, personagens consistentes e geração de planos de vídeo; plano gratuito e pagos.
 - [Autodesk Flow Studio (ex-Wonder Studio)](https://www.autodesk.com/products/flow-studio/overview) - Ferramenta na nuvem que substitui atores filmados por personagens 3D animados, com captura de movimento e iluminação automáticas; plano gratuito e pagos.
 - [Wan 2.2](https://github.com/Wan-Video/Wan2.2) - Modelo aberto de geração de vídeo (texto e imagem para vídeo) sob licença Apache 2.0, roda localmente ou via ComfyUI.
 - [LTX-Video](https://github.com/Lightricks/LTX-Video) - Modelo aberto de vídeo da Lightricks (Apache 2.0) com geração rápida e controle por imagem e vídeo, integrável ao ComfyUI.
-- [Curious Refuge](https://curiousrefuge.com/) - Escola online de cinema com IA (direção, publicidade, animação, VFX e roteiro) ligada a um estúdio de Hollywood; assinatura paga com teste. <sub>curso</sub>
-- [SAG-AFTRA: Artificial Intelligence](https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence) - Central do sindicato de atores dos EUA sobre IA: consentimento, remuneração e regras de réplicas digitais nos contratos de cinema e TV.
-- [WGA: Artificial Intelligence](https://www.wga.org/contracts/know-your-rights/artificial-intelligence) - Regras do sindicato de roteiristas dos EUA sobre IA: IA não é considerada autora, uso não pode ser imposto e material gerado precisa ser informado.
+- [Curious Refuge](https://curiousrefuge.com/) - Escola online de cinema com IA (direção, publicidade, animação, VFX e roteiro) ligada a um estúdio de Hollywood; assinatura paga com teste. <sub>🎓 curso</sub>
+- [SAG-AFTRA: Artificial Intelligence](https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence) - Central do sindicato de atores dos EUA sobre IA: consentimento, remuneração e regras de réplicas digitais nos contratos de cinema e TV. <sub>📖 documentação</sub>
+- [WGA: Artificial Intelligence](https://www.wga.org/contracts/know-your-rights/artificial-intelligence) - Regras do sindicato de roteiristas dos EUA sobre IA: IA não é considerada autora, uso não pode ser imposto e material gerado precisa ser informado. <sub>📖 documentação</sub>
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [runwayml.com](https://runwayml.com/) - Professional creators
-- [DJI LightCut](https://www.dji.com/lightcut) - AI-driven editing app.
-- [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
-- [voicetoinstrument.com](https://voicetoinstrument.com/) - Convert voice to instrumental tracks using AI
-- [klingai.com](https://klingai.com/) - Motion-heavy / cinematic
-- [Video Copilot](https://www.youtube.com/user/videocopilot) - Visual effects tutorials, mostly for Adobe After Effects. <sub>canal</sub>
+- [runwayml.com](https://runwayml.com/) - Criadores profissionais
+- [DJI LightCut](https://www.dji.com/lightcut) - Aplicativo de edição guiado por IA.
+- [Video Copilot](http://www.videocopilot.net/) - Tutoriais de efeitos visuais, principalmente para Adobe After Effects.
+- [voicetoinstrument.com](https://voicetoinstrument.com/) - Converta voz em faixas instrumentais usando IA.
+- [klingai.com](https://klingai.com/) - Moção-pesada/cinemática
+- [Awesome UAV & Drone AI](https://github.com/brandonhimpfen/awesome-uav-drone-ai) - Uma lista de IA, aprendizado de máquina, visão computacional e recursos de autonomia para veículos aéreos não tripulados (UAVs), drones, quadricoptores e robótica aérea. <sub>📋 lista awesome</sub>
+- [Video Copilot](https://www.youtube.com/user/videocopilot) - Tutoriais de efeitos visuais, principalmente para Adobe After Effects. <sub>📺 canal</sub>
 - [deepmind.google](https://deepmind.google/technologies/veo/) - Google DeepMind
-- [lumalabs.ai](https://lumalabs.ai/) - Action / sports / physics
-- [hailuoai.video](https://hailuoai.video/) - Realistic humans / prompt adherence
-- [minimax3.org](https://minimax3.org/) - MiniMax3.org (independent)
-- [deepbrain.io](https://www.deepbrain.io/) - DeepBrain AI
-- [heygen.com](https://www.heygen.com/) - AI avatars / translation
-- [elai.io](https://elai.io/) - Document-to-video automation
-- [d-id.com](https://www.d-id.com/) - Talking photos / short outreach
-- [hourone.ai](https://hourone.ai/) - Enterprise presentations
-- [vidnoz.com](https://www.vidnoz.com/) - Budget avatar videos / training
-- [krea.ai](https://www.krea.ai/) - Model-agnostic access
-- [morphic.com](https://www.morphic.com/) - Morph Studio
-- [invideo.io](https://invideo.io/) - Social media / marketing
-- [yumcut.com](https://yumcut.com/) - Self-hosted vertical shorts
-- [creatify.ai](https://creatify.ai/) - UGC-style ad generation
-- [vivideo.ai](https://vivideo.ai/) - Model-agnostic short-video creation
-- [github.com/Jellypod-Inc/podframes](https://github.com/Jellypod-Inc/podframes) - Generates two-host AI podcast videos with scripted dialogue, voices, lip-sync, and captions.
-- [tubeprompter.com](https://tubeprompter.com/) - Converts existing videos into optimized text-to-video prompts for Sora, Veo, Runway, etc.
-- [vadoo.tv](https://vadoo.tv/) - AI shorts automation platform for faceless channels and social clips.
-- [github.com/WayneJin0918/Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) - Open agentic prompt-expansion harness for image/video model dialects (schema + validation + bounded repair; expand ≠ generate).
-- [github.com/BeatAPI/BeatDesign](https://github.com/BeatAPI/BeatDesign) - Open-source, local-first AI media workbench combining a Canvas, short-form video editor, shared Assets, and MCP control for image and video workflows.
-- [github.com/yangzhou-chaofan/minimax-h3-1000-prompts](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) - Curated index of the MiniMax H3 1K prompt dataset: 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. Interactive atlas of all 1,000 clips.
-- [/ Wan 2.2 /](https://opengraph.githubassets.com/1/Wan-Video/Wan2.2) - 27B (14B active) / 5B
-- [/ HunyuanVideo 1.5 /](https://opengraph.githubassets.com/1/Tencent-Hunyuan/HunyuanVideo) - Fast iteration, efficient quality, bilingual
+- [lumalabs.ai](https://lumalabs.ai/) - Ação / esportes / física
+- [hailuoai.video](https://hailuoai.video/) - Humanos realistas, rápida adesão.
+- [minimax3.org](https://minimax3.org/) - MiniMax3.org (independente)
+- [deepbrain.io](https://www.deepbrain.io/) - AI DeepBrain
+- [heygen.com](https://www.heygen.com/) - AI avatars / tradução
+- [elai.io](https://elai.io/) - Automatização de documento para vídeo.
+- [d-id.com](https://www.d-id.com/) - Fotos falantes, curto alcance.
+- [hourone.ai](https://hourone.ai/) - Apresentações da empresa
+- [vidnoz.com](https://www.vidnoz.com/) - Orçamento, vídeos de avatar / treinamento
+- [krea.ai](https://www.krea.ai/) - Acesso diagnóstico-modelo
+- [morphic.com](https://www.morphic.com/) - Estúdio Morph
+- [invideo.io](https://invideo.io/) - Redes sociais / marketing
+- [yumcut.com](https://yumcut.com/) - Calções verticais auto hospedados.
+- [creatify.ai](https://creatify.ai/) - Geração de anúncios estilo UGC
+- [vivideo.ai](https://vivideo.ai/) - Criação de curta-vídeo modelo-agnóstico
+- [github.com/Jellypod-Inc/podframes](https://github.com/Jellypod-Inc/podframes) - Gera vídeos de dois apresentadores com diálogos, vozes, sincronia labial e legendas.
+- [tubeprompter.com](https://tubeprompter.com/) - Converte vídeos existentes em prompts de texto para vídeo otimizados para Sora, Veo, Runway, etc.
+- [vadoo.tv](https://vadoo.tv/) - Plataforma de automação de calções para canais sem rosto e clipes sociais.
+- [github.com/WayneJin0918/Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) - Arnês de expansão rápida para dialetos de imagens/modelos de vídeo (esquema + validação + reparo limitado; expandir geração).
+- [github.com/BeatAPI/BeatDesign](https://github.com/BeatAPI/BeatDesign) - Banco de mídia em código aberto, primeiro banco local de IA combinando uma tela, editor de vídeo de formato curto, ativos compartilhados e controle MCP para fluxos de trabalho de imagem e vídeo.
+- [github.com/yangzhou-chaofan/minimax-h3-1000-prompts](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) - Índice curado do conjunto de dados imediatos MiniMax H3 1K: anatomia rápida de 3 campos, 10 prompts reutilizáveis escolhidos a mão e uma comparação modelo.
+- [/ Wan 2.2 /](https://opengraph.githubassets.com/1/Wan-Video/Wan2.2) - 27B (14B ativo) / 5B
 
-## ◾ Lighting
+## 🔶 Iluminação.
 
-- [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. not free.
-- [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
-- [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
-- [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
-- [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - Software for ETC's EOS-family consoles. freemium.
-- [Freestyler](http://www.freestylerdmx.be/) - Free lightning control software
-- [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free. freemium.
-- [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the new GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free. freemium.
-- [Hog 4 software](https://www.highend.com/products/consoles/) - Free, offline software for the Hog 4 lighting console. Includes Hog 4 pc. Does not output DMX for free. freemium.
-- [LightFactory](https://www.lightfactory.net/) - PC Lighting Control software witch also is the backend of the NEO Console. not free.
-- [ONYX](https://obsidiancontrol.com/onyx) - Modern lighting control system with alot of features.
-- [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. Source Code open-source.
-- [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. Source Code open-source.
-- [Capture](https://www.capture.se/) - Documentation and visualisation software. Capture is a native macOS and Windows application that lets you work with lighting, video, laser, moving scenery and water effects. Does have a free Student Edition. freemium.
-- [Depence²](https://www.syncronorm.com/products/depence2/overview/) - Depence² is a unique application, which combines the design and visualization process with the potential to control the real show. not free.
-- [wysiwyg](https://cast-soft.com/wysiwyg-lighting-design/) - wysiwyg is an all-in-one lighting design software with fully integrated CAD, plots, data, visualization and virtual show control. not free.
+> 15 links de Iluminação. em Filmmaking e Cinema, reunidos das listas curadas da comunidade.
 
-## ◾ Recursos de aprendizado
+- [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - Versão PC do software Titan que funciona na mesa Avolites, livre para usar até a versão 11.4, embora cospe dados aleatórios de vez em quando.
+- [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ é um software de iluminação profissional que fornece até 64 universos Artnet de graça, inclui recursos poderosos como mapeamento de pixels 2D/3D, gerador de efeitos, servidor de mídia e…
+- [Daslight](https://www.daslight.com/) - Software de iluminação DMX para PC e Mac.
+- [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Software livre e offline para os consoles Dot2, incluindo Dot2 onPC e Dot2 3D.
+- [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - Software para os consoles da família EOS. Freemium.
+- [Freestyler](http://www.freestylerdmx.be/) - Software livre de controle de raios.
+- [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Software livre e offline para o console de iluminação GrandMA2, incluindo GrandMA2 OnPC e MA3D, não produz DMX grátis.
+- [Hog 4 software](https://www.highend.com/products/consoles/) - Software livre e offline para o console de iluminação Hog 4, incluindo Hog 4 PC, não produz DMX grátis.
+- [LightFactory](https://www.lightfactory.net/) - O PC Lighting Control também é a infra-estrutura da NEO Console. Não é grátis.
+- [ONYX](https://obsidiancontrol.com/onyx) - Sistema moderno de controle de iluminação com muitas características.
+- [QLC+](https://www.qlcplus.org/) - QLC+ é um software livre e multi-plataforma para controlar DMX ou sistemas de iluminação analógicos como cabeças móveis, dimmers, scanners etc Código fonte código aberto.
+- [xLights](https://xlights.org/) - É uma ótima maneira de sincronizar luzes com música em um orçamento.
+- [Capture](https://www.capture.se/) - A captura é uma aplicação nativa do MacOS e Windows que permite trabalhar com iluminação, vídeo, laser, paisagens móveis e efeitos de água.
+- [Depence²](https://www.syncronorm.com/products/depence2/overview/) - A Depence2 é uma aplicação única, que combina o processo de design e visualização com o potencial para controlar o show real.
+- [wysiwyg](https://cast-soft.com/wysiwyg-lighting-design/) - Wysiwyg é um software de design de iluminação totalmente integrado com CAD, gráficos, dados, visualização e controle virtual.
 
-- [DSLRguide](https://www.youtube.com/user/DSLRguide) - Tutorials and inspiring videos about cinematography. <sub>canal</sub>
-- [Film Riot](https://www.youtube.com/user/filmriot) - Weekly show about filmmaking. <sub>canal</sub>
-- [Philip Bloom](https://www.youtube.com/user/philipbloom) - Filmmaker, mostly known for in-depth camera reviews. <sub>canal</sub>
-- [Dave Dugdale](https://www.youtube.com/user/drumat5280) <sub>canal</sub>
-- [Onyx Cinema](https://www.youtube.com/user/onyxcinemainc) <sub>canal</sub>
-- [DJI Tutorials](https://www.dji.com/tutorials)
-- [Drone Film Guide (YouTube)](https://www.youtube.com/c/DroneFilmGuide) <sub>canal</sub>
-- [Jeven Dovey](https://www.youtube.com/c/jevendovey) <sub>canal</sub>
-- [Peter McKinnon](https://www.youtube.com/user/petermckinnon24) <sub>canal</sub>
-- [r/drones](https://www.reddit.com/r/drones/) <sub>comunidade</sub>
-- [DJI Forums](https://forum.dji.com/) <sub>comunidade</sub>
-- [Skydio Community](https://community.skydio.com/)
+## 🎁 Recursos.
 
-## ◾ Recursos
+> 11 links de Recursos. em Filmmaking e Cinema, reunidos das listas curadas da comunidade.
 
-- [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
-- [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials. <sub>canal</sub>
-- [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
-- [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
-- [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
-- [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio. <sub>lista awesome</sub>
-- [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
-- [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide. <sub>comunidade</sub>
-- [/r/techtheatre](https://reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians <sub>comunidade</sub>
-- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
-- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
+- [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - O melhor lugar para encontrar informações sobre consoles e software Chamsys.
+- [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - O canal do YouTube sobre iluminação de concertos também tem ótimos tutoriais. <sub>📺 canal</sub>
+- [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Coleta de padrões técnicos na indústria de tecnologia de entretenimento.
+- [Geezers of Gear](https://geezersofgear.libsyn.com/) - Veterano da indústria de produção de entretenimento falando sobre pró-áudio, iluminação, encenação, vídeo + as pessoas e empresas que trabalham nesta grande indústria.
+- [@limelightwired](https://www.instagram.com/limelightwired/) - Iluminação da comunidade de produção no Instagram.
+- [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - Uma lista incrível com todas as coisas de áudio Linux. <sub>📋 lista awesome</sub>
+- [QLab Cookbook](https://qlab.app/cookbook/) - O livro de receitas é uma coleção de projetos, exemplos e experimentos usando uma ampla gama de técnicas de programação QLab incluindo AppleScript, OSC, controle externo usando QLab Remote, MIDI de…
+- [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - A comunidade Reddit para designers de iluminação em todo o mundo. <sub>👥 comunidade</sub>
+- [/r/techtheatre](https://reddit.com/r/techtheatre/) - A comunidade Reddit para todos os designers de produção e técnicos <sub>👥 comunidade</sub>
+- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog do Designer de Iluminação Mike Wood.
+- [notelek.com/blog/](http://notelek.com/blog/) - Blog de Tecnologia do Estágio LXR.
 
-## ◾ Royalty-free music
+## 🔹 Programa de edição
 
-- [BySFX](https://bysfx.com/) - Pay-once royalty-free sound effects, logo idents and music. Own the license forever, no subscription.
-- [Bensound](http://www.bensound.com/)
-- [CCMixter](http://ccmixter.org/)
-- [Free Music Archive](http://freemusicarchive.org/)
-- [Freesound](http://www.freesound.org/browse/tags/music/)
-- [Incompetech](http://incompetech.com/music/royalty-free/)
-- [Audio Network](http://www.audionetwork.com/)
-- [Epidemic Sound](http://www.epidemicsound.com/)
-- [The Music Bed](https://www.musicbed.com/)
+> 8 links de Programa de edição em Filmmaking e Cinema, reunidos das listas curadas da comunidade.
 
-## ◾ Editing software
+- [Avid Media Composer First](http://www.avid.com/media-composer-first) - Versão gratuita do Avids Media Composer
+- [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Poderosa classificação de cores e software de edição da Blackmagic Design, precisa de muitos recursos.
+- [HitFilm Express](https://hitfilm.com/express) - Versão gratuita do HitFilm, limitada, mas perfeita para iniciantes.
+- [Adobe Premiere Pro CC](http://www.adobe.com/de/products/premiere.html) - Poderoso INE da Adobe, parte da Creative Cloud.
+- [Apple Final Cut Pro X](https://www.apple.com/de/final-cut-pro/) - Poderoso e barato software de edição pela Apple, só disponível para MacOS.
+- [Avid Media Composer](https://www.avid.com/de/media-composer) - O padrão da indústria NLE por Avid.
+- [Catalyst Edit](http://www.sonycreativesoftware.com/de/catalystedit) - Programa de edição da Sony, antiga Sony Vegas.
+- [HitFilm Pro](https://hitfilm.com/pro) - Versão pro do HitFilm, também inclui características de composição.
 
-- [Avid Media Composer First](http://www.avid.com/media-composer-first) - Free version of Avids Media Composer
-- [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Powerful color grading and editing software by Blackmagic Design, needs a lot of ressources.
-- [HitFilm Express](https://hitfilm.com/express) - Free version of HitFilm; limited, but perfect for beginners.
-- [Adobe Premiere Pro CC](http://www.adobe.com/de/products/premiere.html) - Powerful NLE by Adobe, part of Creative Cloud.
-- [Apple Final Cut Pro X](https://www.apple.com/de/final-cut-pro/) - Powerful and cheap editing software by Apple, only available for MacOS.
-- [Avid Media Composer](https://www.avid.com/de/media-composer) - Industry-standard NLE by Avid.
-- [Catalyst Edit](http://www.sonycreativesoftware.com/de/catalystedit) - Editing software by Sony, former Sony Vegas.
-- [HitFilm Pro](https://hitfilm.com/pro) - Pro version of HitFilm, also includes compositing features.
+## ✨ Software VFX
 
-## ◾ VFX software
+> 8 links de Software VFX em Filmmaking e Cinema, reunidos das listas curadas da comunidade.
 
-- [3ds Max](https://www.autodesk.de/products/3ds-max/overview) - 3D modelling and animation software by Autodesk.
-- [Blender](https://www.blender.org/) - Open source 3D software.
-- [Maya](https://www.autodesk.de/products/maya/overview) - Another 3D modelling and animation software by Autodesk.
-- [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit (live tween, motion trails, pose library, Mixamo-to-Unreal retarget); an affordable animBot alternative with full Python source.
-- [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.
-- [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Free node-based compositing software from Blackmagic Design.
-- [Natron](https://natron.fr/) - Open source node-based compositing software.
-- [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
+- [3ds Max](https://www.autodesk.de/products/3ds-max/overview) - Software de modelagem e animação 3D da Autodesk.
+- [Blender](https://www.blender.org/) - Software 3D de código aberto.
+- [Maya](https://www.autodesk.de/products/maya/overview) - Outro software de modelagem e animação 3D da Autodesk.
+- [AnimKit](https://www.nasrtech.dev/animkit) - Kit de ferramentas de animação Maya (toolkit ao vivo, trilhas de movimento, biblioteca de poses, mixamo-para-unreal retarde); uma alternativa animBot acessível com fonte Python completa.
+- [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Software de composição baseado em camadas, parte da Creative Cloud.
+- [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Software de composição baseado em nós da Blackmagic Design.
+- [Natron](https://natron.fr/) - Software de composição baseado em nó aberto.
+- [Nuke](https://www.foundry.com/products/nuke) - O software de composição baseado em nós padrão da indústria pela Fundação, tem uma versão gratuita para uso não comercial.
 
-## ◾ Áudio
+## 🎵 Áudio
 
-- [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. open-source. <sub>curso</sub>
-- [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. Source Code open-source.
-- [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
-- [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. Source Code open-source.
-- [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. freemium.
-- [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. freemium.
-- [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis.
-- [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
+> 8 links de Áudio em Filmmaking e Cinema, reunidos das listas curadas da comunidade.
 
-## ◾ Drones & Camera Systems
+- [Audacity](https://www.audacityteam.org/) - Editor de áudio e ferramenta de análise, ótimo para cortar efeitos sonoros e músicas. <sub>🎓 curso</sub>
+- [Ardour](https://ardour.org/) - Uma suíte de gravação e edição de áudio em tempo real.
+- [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay é um programa baseado em Windows projetado para reproduzir pistas de áudio para teatro ou uso corporativo.
+- [Linux Show Player](https://www.linux-show-player.org/) - Leitor livre projetado para produções de palco, código fonte código aberto.
+- [QLab](https://qlab.app/) - QLab é controle de som, vídeo e iluminação para macOS. Freemium.
+- [REAPER](https://www.reaper.fm/) - REAPER é uma completa aplicação de produção digital de áudio para computadores, oferecendo um áudio multitrack completo e gravação MIDI, edição, processamento, mixagem e masterização toolset.…
+- [ARTA](http://www.artalabs.hr/) - Uma coleção de programas para medições e análises de áudio.
+- [REW](https://www.roomeqwizard.com/) - REW é software de análise acústica para medir e analisar respostas de sala e alto-falante.
 
-- [DJI Air Series](https://www.dji.com/air) - Lightweight, portable aerial cameras.
-- [DJI Mavic Series](https://www.dji.com/mavic) - Professional portable drones.
-- [DJI Mini Series](https://www.dji.com/mini) - Sub-250g drones ideal for travel.
-- [DJI Inspire Series](https://www.dji.com/inspire-3) - Cinema-grade aerial platforms.
-- [Skydio 2+](https://www.skydio.com/skydio-2-plus) - Autonomous tracking cinematography.
-- [Autel Evo Series](https://auteldrones.com/collections/evo-series)
+## ⏱️ Código de tempo
 
-## ◾ Official Resources
+> 6 links de Código de tempo em Filmmaking e Cinema, reunidos das listas curadas da comunidade.
 
-- [DJI](https://www.dji.com/) - Leading drone manufacturer.
-- [Autel Robotics](https://auteldrones.com/)
-- [Skydio](https://www.skydio.com/)
-- [Transport Canada Drone Rules](https://tc.canada.ca/en/aviation/drone-safety)
-- [FAA UAS Regulations](https://www.faa.gov/uas)
-- [EASA Drone Regulations](https://www.easa.europa.eu/domains/civil-drones-rpas)
+- [El-Tee-See](http://elteesee.pehrhovey.net/) - Gerador de arquivos LTC wav.
+- [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Marcador de tempo para o GrandMA2 CT Generator. Código aberto.
+- [Timecode](https://github.com/MrExplode/Timecode) - ArtNet e LTC, gerador de códigos de tempo, feito com Java. código aberto.
+- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - Uma ferramenta gratuita para enviar dados de tempo para DasLight (via MIDI).
+- [TimelordMTC](https://timelord-mtc.com/) - Ferramenta avançada de gerenciamento de código temporal. Não é grátis.
+- [M2Q](https://github.com/lorenzofattori/M2Q) - Aplicação Python capaz de ativar Consoles Chamsys via MIDI para programas sincronizados avançados.
 
-## ◾ Timecode
+## 🧺 Mais links
 
-- [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC wav file generator.
-- [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. open-source.
-- [Timecode](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. open-source.
-- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). open-source.
-- [TimelordMTC](https://timelord-mtc.com/) - Advanced timecode management tool. not free.
-- [M2Q](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. open-source.
+> Links de Filmmaking e Cinema que vêm de tópicos pequenos demais para ter uma seção própria.
 
-## ◾ Mais links
-
-- [Gyroflow](https://gyroflow.xyz/) - Video stabilization for drones.
-- [LUTs for D-Log & HLG](https://luts.iwltbap.com/)
-- [Pix4D](https://www.pix4d.com/) - Photogrammetry & 3D modeling.
-- [DroneDeploy](https://www.dronedeploy.com/) - Mapping + inspection workflow.
-- [WebODM](https://github.com/OpenDroneMap/WebODM) - Open-source mapping toolkit.
-- [RealityCapture](https://www.capturingreality.com/)
-- [FrameCoach](https://framecoach.io/) - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
-- [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. open-source.
-- [Ontime](https://github.com/cpvalente/ontime) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. open-source.
-- [Remove Audio](https://remove-audio.com/) - Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
-- [RunCue](https://runcue.fly.dev/) - not free Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
-- [stagetimer.io](https://stagetimer.io/) - Browser-based remote-controlled countdown timer. freemium.
-- [PolarPro ND Filters](https://www.polarprofilters.com/)
-- [Freewell ND & Polarizer Kits](https://www.freewellgear.com/)
-- [PGYTECH Accessories](https://www.pgytech.com/)
-- [AutoCAD](https://www.autodesk.com/products/autocad) - AutoCAD® is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings. not free.
-- [Vectorworks](https://www.vectorworks.net/) - Vectorworks is a versatile, on-premise application that provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for your architectural and landscape design needs. Also had a special entertainment version: Vectorworks Spotlight. not free.
-- [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
-- [Capture One](https://www.captureone.com/)
-- [Luminar Neo](https://skylum.com/luminar)
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
-- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
-- [Final Cut Pro](https://www.apple.com/final-cut-pro/)
-- [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. open-source.
-- [meters.lv2](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. open-source.
-- [Open Sound Meter](https://opensoundmeter.com/) - Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more. open-source.
-- [AirMap](https://www.airmap.com/)
-- [B4UFLY (FAA)](https://www.faa.gov/uas/getting_started/b4ufly)
-- [NAV Drone (Canada)](https://www.navcanada.ca/en/drone-operations.aspx)
-- [OpenAIP](https://www.openaip.net/)
-- [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. Source Code
-- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. nodejs open-source.
-- [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. nodejs.
-- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. java.
-- [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for Linux, Windows, and macOS.
-- [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
-- [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. not free
-- [Awesome UAV & Drone AI](https://github.com/brandonhimpfen/awesome-uav-drone-ai) <sub>lista awesome</sub>
-- [Awesome Photography](https://github.com/brandonhimpfen/awesome-photography) <sub>lista awesome</sub>
-- [Awesome Videography](https://github.com/brandonhimpfen/awesome-videography) <sub>lista awesome</sub>
-- [Awesome Cinematography](https://github.com/brandonhimpfen/awesome-cinematography) <sub>lista awesome</sub>
-- [Awesome Travel Filmmaking](https://github.com/brandonhimpfen/awesome-travel-filmmaking) <sub>lista awesome</sub>
-- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - A tutorial for how to add a colour picker in GrandMA2.
-- [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. open-source.
-- [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is…
-- [MIDI Monster](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. open-source.
-- [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
+- [DJI](https://www.dji.com/) - Líder fabricante de drones.
+- [DJI Air Series](https://www.dji.com/air) - Câmeras aéreas leves e portáteis.
+- [DJI Mavic Series](https://www.dji.com/mavic) - drones portáteis profissionais.
+- [DJI Mini Series](https://www.dji.com/mini) - drones sub250g ideais para viagens.
+- [DJI Inspire Series](https://www.dji.com/inspire-3) - Plataformas aéreas de cinema.
+- [Skydio 2+](https://www.skydio.com/skydio-2-plus) - Cinematografia de rastreamento autônomo.
+- [Gyroflow](https://gyroflow.xyz/) - Estabilização de vídeo para drones.
+- [Pix4D](https://www.pix4d.com/) - Fotogrametria e modelagem 3D.
+- [DroneDeploy](https://www.dronedeploy.com/) - Mapeamento + fluxo de trabalho de inspeção.
+- [WebODM](https://github.com/OpenDroneMap/WebODM) - Kit de ferramentas para mapeamento aberto.
+- [FrameCoach](https://framecoach.io/) - Aplicativo de treinamento de câmera em tempo real para cineastas, te treina através de configurações de câmera, composição e escolhas de filmagem no set.
+- [Livescript](https://github.com/Netlob/livescript) - Insira um roteiro musical/teatro do Google Docs e use isso para um "autocue" ao vivo e roller com todos no site.
+- [Ontime](https://github.com/cpvalente/ontime) - Planeja, rastreia sua agenda, gerencia automação e cross-department mostra informações em um só lugar.
+- [Remove Audio](https://remove-audio.com/) - Removedor de áudio gratuito baseado em navegador para arquivos de vídeo, usa WebAssembly para processamento local, sem carregamentos necessários, suporta o modo em lote para até 20 clipes.
+- [RunCue](https://runcue.fly.dev/) - Não é um temporizador baseado em navegador gratuito para produtores webinars com controle separado, alto-falantes e links de audiência mais dicas privadas.
+- [stagetimer.io](https://stagetimer.io/) - Temporizador de contagem regressiva remoto baseado em navegador. Freemium.
+- [BySFX](https://bysfx.com/) - Os efeitos sonoros, os logotipos e a música são pagos uma vez.
+- [DSLRguide](https://www.youtube.com/user/DSLRguide) - Tutoriais e vídeos inspiradores sobre cinematografia. <sub>📺 canal</sub>
+- [Film Riot](https://www.youtube.com/user/filmriot) - Um programa semanal sobre cinema. <sub>📺 canal</sub>
+- [Philip Bloom](https://www.youtube.com/user/philipbloom) - Filme, mais conhecido por revisões de câmeras. <sub>📺 canal</sub>
+- [AutoCAD](https://www.autodesk.com/products/autocad) - AutoCAD® é um software de design assistido por computador (CAD) que arquitetos, engenheiros e profissionais da construção dependem para criar desenhos precisos em 2D e 3D.
+- [Vectorworks](https://www.vectorworks.net/) - Vectorworks é uma aplicação versátil que fornece extensa elaboração 2D, modelagem 3D, BIM e capacidade de renderização para suas necessidades de arquitetura e design paisagístico.
+- [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - Servidor que recebe um fluxo de áudio AES67 e apresenta uma página com medidores. código aberto.
+- [meters.lv2](https://github.com/x42/meters.lv2) - medidores.lv2 é uma coleção de medidores de nível de áudio com GUI em formato de plugin LV2.
+- [Open Sound Meter](https://opensoundmeter.com/) - Medidor de som limpo, aberto, suporta RTA, magnitude, fase e impulso, coerência, atraso do grupo e muito mais.
+- [Open Lighting Architecture](https://www.openlighting.org/ola/) - Um framework para informações de controle de iluminação... suporta vários protocolos e mais de uma dúzia de dispositivos USB.
+- [node-dmx](https://github.com/node-dmx/dmx) - Biblioteca de controladores DMX para Node.js. nodejs código aberto.
+- [artnet](https://github.com/hobbyquaker/artnet) - Módulo Node.js que pode ser usado para enviar pacotes ArtDMX para um nó Art-Net.
+- [artnet4j](https://github.com/cansik/artnet4j) - Biblioteca Art-Net para Java e Processamento.
+- [GIMP](https://www.gimp.org/) - GIMP é um editor de imagens multiplataforma disponível para Linux, Windows e MacOS.
+- [Inkscape](https://inkscape.org/) - Inkscape é um editor profissional de gráficos vetoriais para Linux, Windows e macOS.
+- [Rentman](https://rentman.io/) - Software de aluguel em nuvem para empresas de AV & Event.
+- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - Um tutorial para como adicionar um seletor de cores no GrandMA2. <sub>🎬 vídeo</sub>
+- [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Roteiro Blender para enviar dados da ArtNet para as luzes de Evee, roda a 30fps com renderização de Evee no viewport.
+- [Linux](https://en.wikipedia.org/wiki/Linux) - Um sistema operacional livre que pode funcionar em praticamente todo tipo de computador e é ótimo para respirar uma nova vida em computadores antigos que não são suportados pelas novas edições do…
+- [MIDI Monster](https://github.com/cbdevnet/midimonster/) - MIDIMonster é uma ferramenta universal de controle e tradução que pode traduzir entre vários protocolos diferentes, como MIDI, Artnet, SACN e OSC.
+- [UsedLighting](https://www.usedlighting.com/) - Mercado para comprar e vender hardware de iluminação usado.
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [brandonhimpfen/awesome-drone-photography-cinematography](https://github.com/brandonhimpfen/awesome-drone-photography-cinematography) <sub>43 links · licença CC-BY-SA-4.0</sub>
-- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) <sub>0 links · licença Apache-2.0</sub>
-- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking) <sub>31 links · licença CC0-1.0</sub>
-- [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) <sub>63 links · licença CC0-1.0</sub>
+- [brandonhimpfen/awesome-drone-photography-cinematography](https://github.com/brandonhimpfen/awesome-drone-photography-cinematography) <sub>🔗 12 · ⚖️ CC-BY-SA-4.0</sub>
+- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) <sub>🔗 25 · ⚖️ Apache-2.0</sub>
+- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking) <sub>🔗 23 · ⚖️ CC0-1.0</sub>
+- [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) <sub>🔗 63 · ⚖️ CC0-1.0</sub>
 
 ---
 [⬆️ Voltar ao topo](#-filmmaking-e-cinema) · [← Design e Criação](README.md)

@@ -2,37 +2,41 @@
 
 > Redação, copywriting, escrita técnica, revisão e publicação. **211 links** nesta área: 18 essenciais escolhidos a dedo, 41 de inteligência artificial e 152 reunidos de 12 listas curadas.
 
-[← 🎬 Design e Criação](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🎬 Design e Criação](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/criacao/escrita.md) · 🇪🇸 [Español](../../i18n/es/areas/criacao/escrita.md) · 🇨🇳 [中文](../../i18n/zh/areas/criacao/escrita.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/criacao/escrita.md) · 🇸🇦 [العربية](../../i18n/ar/areas/criacao/escrita.md) · 🇫🇷 [Français](../../i18n/fr/areas/criacao/escrita.md) · 🇮🇹 [Italiano](../../i18n/it/areas/criacao/escrita.md) · 🇰🇷 [한국어](../../i18n/ko/areas/criacao/escrita.md) · 🇷🇺 [Русский](../../i18n/ru/areas/criacao/escrita.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/criacao/escrita.md) · 🇯🇵 [日本語](../../i18n/ja/areas/criacao/escrita.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>18</sub> <br>
 [🤖 IA para Escrita e Redação](#-ia-para-escrita-e-redação) <sub>41</sub> <br>
-[◾ Speaker Decks](#-speaker-decks) <sub>15</sub> <br>
-[◾ Universal](#-universal) <sub>14</sub> <br>
-[◾ Ferramentas](#-ferramentas) <sub>10</sub> <br>
-[◾ Style Guides](#-style-guides) <sub>7</sub> <br>
-[◾ API](#-api) <sub>6</sub> <br>
-[◾ AsciiDoc](#-asciidoc) <sub>6</sub> <br>
-[◾ Word Processors](#-word-processors) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>88</sub> <br>
+[🔵 Decks de alto-falantes](#-decks-de-alto-falantes) <sub>15</sub> <br>
+[🟤 Universal.](#-universal) <sub>14</sub> <br>
+[🛠️ Ferramentas.](#️-ferramentas) <sub>9</sub> <br>
+[🔷 Ação GitHub](#-ação-github) <sub>6</sub> <br>
+[🟡 Processadores de palavras](#-processadores-de-palavras) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>102</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
+> Os essenciais de Escrita e Redação, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
 - [LanguageTool](https://languagetool.org/) - Corretor gramatical e de estilo com suporte a português do Brasil.
 - [Hemingway Editor](https://hemingwayapp.com/) - Destaca frases longas e construções confusas para deixar o texto mais claro.
-- [Google Technical Writing](https://developers.google.com/tech-writing) - Cursos gratuitos do Google de escrita técnica para pessoas desenvolvedoras e redatores. <sub>curso</sub>
-- [Google Developer Documentation Style Guide](https://developers.google.com/style) - Guia de estilo do Google para documentação técnica clara e consistente.
-- [Write the Docs](https://www.writethedocs.org/) - Comunidade global de documentação com guia, conferências e Slack. <sub>comunidade</sub>
-- [Diátaxis](https://diataxis.fr/) - Framework para organizar documentação em tutoriais, guias, referência e explicação.
+- [Google Technical Writing](https://developers.google.com/tech-writing) - Cursos gratuitos do Google de escrita técnica para pessoas desenvolvedoras e redatores. <sub>🎓 curso</sub>
+- [Google Developer Documentation Style Guide](https://developers.google.com/style) - Guia de estilo do Google para documentação técnica clara e consistente. <sub>📖 documentação</sub>
+- [Write the Docs](https://www.writethedocs.org/) - Comunidade global de documentação com guia, conferências e Slack. <sub>👥 comunidade</sub>
+- [Diátaxis](https://diataxis.fr/) - Framework para organizar documentação em tutoriais, guias, referência e explicação. <sub>📖 documentação</sub>
 - [Obsidian](https://obsidian.md/) - Editor de notas em Markdown local, útil para pesquisa e organização de textos.
 - [Zotero](https://www.zotero.org/) - Gerenciador de referências gratuito e open source para trabalhos acadêmicos.
 - [Amazon KDP](https://kdp.amazon.com/) - Plataforma da Amazon para autopublicar e-books e livros impressos, disponível no Brasil.
 - [Reedsy](https://reedsy.com/) - Editor de livros, cursos gratuitos e marketplace de revisores e designers para autores.
-- [VOLP - Academia Brasileira de Letras](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario) - Vocabulário Ortográfico oficial da língua portuguesa para tirar dúvidas de grafia. <sub>pt-BR</sub>
-- [Dicionário Priberam](https://dicionario.priberam.org/) - Dicionário online gratuito com sinônimos, conjugação e variantes do português do Brasil e de Portugal. <sub>pt-BR</sub>
-- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/) - Consultório online que responde dúvidas de gramática e uso do português desde 1997. <sub>pt-BR</sub>
+- [VOLP - Academia Brasileira de Letras](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario) - Vocabulário Ortográfico oficial da língua portuguesa para tirar dúvidas de grafia. <sub>🇧🇷 pt-BR</sub>
+- [Dicionário Priberam](https://dicionario.priberam.org/) - Dicionário online gratuito com sinônimos, conjugação e variantes do português do Brasil e de Portugal. <sub>🇧🇷 pt-BR</sub>
+- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/) - Consultório online que responde dúvidas de gramática e uso do português desde 1997. <sub>🇧🇷 pt-BR</sub>
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) - Editor para projetos longos como livros, roteiros e teses, com organização por blocos.
 - [Substack](https://substack.com/) - Plataforma para publicar newsletters e textos com assinantes, gratuita para começar.
 - [WordPress](https://wordpress.org/) - Sistema open source mais usado para blogs e sites de conteúdo.
@@ -41,247 +45,253 @@
 
 ## 🤖 IA para Escrita e Redação
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com escrita e redação. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Escrita e Redação. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
-- [LanguageTool](https://languagetool.org/pt-BR) - Corretor gramatical e de estilo com IA, com bom suporte ao português e núcleo open source; versão gratuita e premium. <sub>pt-BR</sub>
-- [DeepL Write](https://www.deepl.com/pt-BR/write) - Reescreve textos para melhorar clareza, gramática e tom, com suporte ao português do Brasil; versão gratuita e Pro paga. <sub>pt-BR</sub>
+- [LanguageTool](https://languagetool.org/pt-BR) - Corretor gramatical e de estilo com IA, com bom suporte ao português e núcleo open source; versão gratuita e premium. <sub>🇧🇷 pt-BR</sub>
+- [DeepL Write](https://www.deepl.com/pt-BR/write) - Reescreve textos para melhorar clareza, gramática e tom, com suporte ao português do Brasil; versão gratuita e Pro paga. <sub>🇧🇷 pt-BR</sub>
 - [Grammarly](https://www.grammarly.com/) - Assistente de escrita em inglês com correção, ajuste de tom e geração de texto em vários aplicativos; plano gratuito e Pro pago.
 - [Sudowrite](https://www.sudowrite.com/) - Ferramenta de IA para ficção: brainstorming, expansão de cenas, descrições e revisão de manuscritos; teste gratuito, depois assinatura.
 - [Novelcrafter](https://www.novelcrafter.com/) - Ambiente para escrever romances com planejamento, codex de personagens e mundo e IA usando a sua própria chave de modelo; teste de 21 dias e planos pagos.
 - [Humanizer (skill)](https://github.com/blader/humanizer) - Skill para Claude Code e Codex que revisa textos removendo 26 padrões típicos de escrita de IA, sem mudar o conteúdo.
 - [doc-coauthoring (skill da Anthropic)](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) - Skill oficial do Claude com fluxo estruturado de coautoria para propostas, especificações e documentos longos.
-- [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) - Guia dos editores da Wikipedia com os sinais mais comuns de texto gerado por IA, útil para revisar e evitar vícios de estilo.
-- [Authors Guild: AI Best Practices for Authors](https://authorsguild.org/resource/ai-best-practices-for-authors/) - Recomendações da associação de autores dos EUA sobre uso ético e legal de IA: autoria, divulgação, contratos e riscos de plágio.
-- [Meio & Mensagem: políticas de IA das redações](https://www.meioemensagem.com.br/midia/como-sao-as-politicas-e-diretrizes-de-ia-das-redacoes) - Reportagem que resume as diretrizes de IA de Globo, Estadão, Folha, O Tempo e Ajor: supervisão humana, transparência e direitos autorais. <sub>pt-BR</sub>
-- [Lei de Direitos Autorais (Lei 9.610/1998)](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm) - Texto oficial da lei brasileira de direitos autorais, referência para avaliar autoria, citação e uso de obras de terceiros em textos feitos com IA. <sub>pt-BR</sub>
+- [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) - Guia dos editores da Wikipedia com os sinais mais comuns de texto gerado por IA, útil para revisar e evitar vícios de estilo. <sub>📖 documentação</sub>
+- [Authors Guild: AI Best Practices for Authors](https://authorsguild.org/resource/ai-best-practices-for-authors/) - Recomendações da associação de autores dos EUA sobre uso ético e legal de IA: autoria, divulgação, contratos e riscos de plágio. <sub>📖 documentação</sub>
+- [Meio & Mensagem: políticas de IA das redações](https://www.meioemensagem.com.br/midia/como-sao-as-politicas-e-diretrizes-de-ia-das-redacoes) - Reportagem que resume as diretrizes de IA de Globo, Estadão, Folha, O Tempo e Ajor: supervisão humana, transparência e direitos autorais. <sub>🇧🇷 pt-BR</sub>
+- [Lei de Direitos Autorais (Lei 9.610/1998)](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm) - Texto oficial da lei brasileira de direitos autorais, referência para avaliar autoria, citação e uso de obras de terceiros em textos feitos com IA. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [2024 AI Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline) - a Hugging Face Space by reach-vb
-- [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
-- [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
-- [(paper)](https://arxiv.org/abs/2608.08160) - Yingpeng Ma, Jianhao Yan, Bei-Ning Shi, Karim Kam, Runnan Wang, Xue-Bo Liu, Yulong Chen, Yue Zhang, Derek F. Wong <sub>artigo científico</sub>
-- [Notion AI](https://otion.so/product/ai) - Leverage the limitless power of AI in any Notion page, write faster and augment your creativity.
-- [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
-- [Ezoic](https://www.ezoic.com/) - An AI-driven platform for optimizing ad placements and increasing revenue.
-- [Cartography of generative AI](https://cartography-of-generative-ai.net/) - "What set of extractions, agencies, and resources allow us to converse online with a text-generating tool or to obtain images in a matter of seconds?"
-- [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
-- [wordtune](https://www.wordtune.com/) - Personal writing assistant.
-- [(paper)](https://arxiv.org/abs/2605.08503) - Yue Huang, Yu-Chen Ma, Jiayi Ye, Wen-Jie Wang, Zi-Peng Ling, Xing Hu, Yuexing Hao, Zi-Chen Chen, Zhangchen Xu, Yun-Hong He, et al. <sub>artigo científico</sub>
-- [ChatGPT](https://chat.openai.com/) - A conversational chatbot that can generate human-like responses to natural language prompts.
-- [The Rise of Generative AI Large Language Models (LLMs)](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) - interactive timeline visualization made by Information Is Beautiful
-- [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
-- [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
-- [(paper)](https://arxiv.org/abs/2601.11007) - Zhenhua Xu, Dongsheng Chen, Shuo Wang, Jian Li, Chengjie Wang, Meng Han, Ya-Biao Wang <sub>artigo científico</sub>
-- [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
-- [FirstMark / 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/) - Full Steam Ahead The 2024 MAD (Machine Learning, AI & Data) Landscape
-- [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
-- [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
-- [(paper)](https://openreview.net/pdf?id=MKwW04UHW1) - Shu-Fan Jiang, Si-Zhou Chen, Chios Chen, Chi Zhang, Xiao-Lei Zhang, Xue-Long Li <sub>artigo científico</sub>
-- [Slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
-- [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023) - "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
-- [AI Poem Generator](https://www.aipoemgenerator.org/) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
-- [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
-- [(paper)](https://arxiv.org/abs/2502.17878) - Hongqiu Wu, Weiqi Wu, Tianyang Xu, Jiameng Zhang, Hai Zhao <sub>artigo científico</sub>
-- [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width Unicode).
-- [GenAI Prism Infographic by Brian Solis](https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/) - A Framework for Collaborating with Generative AI
-- [Never Jobless LinkedIn Message Generator](https://neverjobless.com/) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
-- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [2024 AI Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline) - Um espaço de rosto abraçado por alcance-vb
+- [Jasper](https://www.jasper.ai/) - Criar conteúdo mais rápido com inteligência artificial.
+- [Compose AI](https://www.compose.ai/) - Compose IA é uma extensão gratuita do Chrome que reduz seu tempo de escrita em 40% com autocompletação alimentada por IA.
+- [(paper)](https://arxiv.org/abs/2608.08160) - Yingpeng Ma, Jianhao Yan, Bei-Ning Shi, Karim Kam, Runnan Wang, Xue-Bo Liu, Yulong Chen, Yue Zhang, Derek F. Wong <sub>📄 artigo científico</sub>
+- [Notion AI](https://otion.so/product/ai) - Aproveite o poder ilimitado da IA em qualquer página de Noção, escreva mais rápido e aumente sua criatividade.
+- [Writefull](https://www.writefull.com/) - Um editor que ajuda você a revisar seu texto usando IA.
+- [Ezoic](https://www.ezoic.com/) - Uma plataforma orientada por IA para otimizar anúncios e aumentar a receita.
+- [The code resides on GitHub](https://github.com/iwe-org/iwe) - LSP para seu editor, CLI + memória MCP para seus agentes de IA
+- [Cortex](https://github.com/cortex-docs/cortex) - Cortex - Gera documentação interativa de API, SDKs digitados e servidores MCP do OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC e Markdown.
+- [Cartography of generative AI](https://cartography-of-generative-ai.net/) - "Que conjunto de extrações, agências e recursos nos permitem conversar online com uma ferramenta geradora de texto ou obter imagens em questão de segundos?"
+- [Rytr](https://rytr.me/) - Rytr é um assistente de escrita que ajuda a criar conteúdo de alta qualidade.
+- [wordtune](https://www.wordtune.com/) - Assistente de escrita pessoal.
+- [(paper)](https://arxiv.org/abs/2605.08503) - Yue Huang, Yu-Chen Ma, Jiayi Ye, Wen-Jie Wang, Zi-Peng Ling, Xing Hu, Yuexing Hao, Zi-Chen Chen, Zhangchen Xu, Yun-Hong He, et al. <sub>📄 artigo científico</sub>
+- [ChatGPT](https://chat.openai.com/) - Um chatbot conversador que pode gerar respostas humanas para as necessidades da linguagem natural.
+- [notabene](https://github.com/z29k/notabene) - Deixe notas nas margens dos documentos do seu acordo, então deixe seu agente de IA aplicá-las, resolver os tópicos, e diário o que mudou & por quê.
+- [The Rise of Generative AI Large Language Models (LLMs)](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) - Visualização interativa da linha do tempo feita pela Informação É Bonita
+- [HyperWrite](https://hyperwriteai.com/) - HyperWrite ajuda você a escrever com confiança e fazer seu trabalho mais rápido da ideia para o rascunho final.
+- [Moonbeam](https://www.gomoonbeam.com/) - Melhor blogs em uma fração do tempo.
+- [(paper)](https://arxiv.org/abs/2601.11007) - Zhenhua Xu, Dongsheng Chen, Shuo Wang, Jian Li, Chengjie Wang, Meng Han, Ya-Biao Wang <sub>📄 artigo científico</sub>
+- [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Suplemento para Microsoft Word que integra perfeitamente ferramentas de IA essenciais, incluindo geração de texto, revisão e muito mais, diretamente na interface do usuário.
+- [reqlan](https://github.com/littletuna4/reqlan) - Linguagem / Extensão / CLI / MCP / LLM-primeira ferramenta de gerenciamento de contexto.
+- [FirstMark / 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/) - A todo vapor à frente, 2024 MAD (Machine Learning, IA & Data) Paisagem
+- [Nexus AI](https://mynexusai.com/) - Nexus AI é uma plataforma de IA generativa de ponta para escrita, codificação, narrações, pesquisa, criação de imagens e além.
+- [EmailTriager](https://www.emailtriager.com/) - Use IA para redigir respostas de e-mail automaticamente no fundo.
+- [(paper)](https://openreview.net/pdf?id=MKwW04UHW1) - Shu-Fan Jiang, Si-Zhou Chen, Chios Chen, Chi Zhang, Xiao-Lei Zhang, Xue-Long Li <sub>📄 artigo científico</sub>
+- [Slopless](https://github.com/seochecks-ai/slopless) - Textlint determinístico predefinido e CLI para bandeira Al-gerado e acolchoado prosa inglesa sem chamar um LLM.
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Uma wiki de base de código para agentes codificadores de IA, captura o que o código não pode dizer: decisões, fluxos, invariantes, Gotchas.
+- [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023) - "Recapitulação dos itens de topo para o Engenheiro da IA de dezembro de 2023" ("As Guerras de Dados, A Guerra do Rico/Pobre GPU, A Guerra Multimodalidade, A Guerra RAG/Ops")
+- [AI Poem Generator](https://www.aipoemgenerator.org/) - O Gerador de Poemas escreve um belo poema para você sobre qualquer assunto, dado um aviso de texto.
+- [copy.ai](https://www.copy.ai/) - Escreva melhor cópia de marketing e conteúdo com IA.
 
-## ◾ Speaker Decks
+## 🔵 Decks de alto-falantes
 
-- [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
-- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
-- [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
-- [HackMD](https://hackmd.io/) - Real-time collaboration on technical documentation in Markdown.
-- [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document editing.
-- [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
-- [Canva](https://canva.com/) - A graphic design platform that allows you to create social media graphics and other visual content.
-- [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG image compression.
-- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window. <sub>app</sub>
-- [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen capture full-page screenshot and recorder for screencast. <sub>app</sub>
-- [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
-- [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated GIF picture from the browser. <sub>app</sub>
-- [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
-- [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
-- [Crosspost](https://trycrosspost.com/) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
+> 15 links de Decks de alto-falantes em Escrita e Redação, reunidos das listas curadas da comunidade.
 
-## ◾ Universal
+- [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - Um modelo de amostra com diretrizes para escrever artigos técnicos.
+- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - Uma lista de empresas que pagaram programas de escritor comunitário.
+- [HackMD](https://hackmd.io/) - Colaboração em tempo real na documentação técnica de Markdown.
+- [Dropbox Paper](https://dropbox.com/paper) - Um espaço de trabalho flexível para edição colaborativa de documentos.
+- [Google Docs](https://docs.google.com/) - Ferramentas inteligentes de edição e estilo para ajudá-lo a formatar textos e parágrafos. <sub>📖 documentação</sub>
+- [Canva](https://canva.com/) - Uma plataforma de design gráfico que permite criar gráficos de mídia social e outros conteúdos visuais.
+- [TinyPNG](https://tinypng.com/) - PNG inteligente e compressão de imagem JPEG.
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - A maneira mais simples de tirar uma imagem da página inteira do seu navegador atual. <sub>📱 app</sub>
+- [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Captura de tela, captura de tela e gravador para o screencast. <sub>📱 app</sub>
+- [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI que gera belos arquivos README.MD.
+- [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Grave o conteúdo das páginas para uma imagem GIF animada do navegador. <sub>📱 app</sub>
+- [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Ortografia, gramática e sugestões inteligentes para ajudá-lo através de documentos, e-mail, e na web.
+- [Log4brains](https://github.com/thomvaill/log4brains) - Base de conhecimento Docs-as-code para gerenciar Registros de Decisão da Arquitetura (ADR) para o seu projeto e publicá-los automaticamente como um site estático.
+- [adoc Studio](https://adoc-studio.app/) - Adoc Studio é um ambiente de escrita integrado para textos estruturados usando AsciiDoc.
+- [Crosspost](https://trycrosspost.com/) - Crosspost ajuda você a escrever, importar e publicar artigos para várias plataformas como Medium, Ghost, Hashnode, Dev.to e mais de uma vez.
 
-- [Caret](https://caret.io/) - ($29 for continued use)
+## 🟤 Universal.
+
+> 14 links de Universal. em Escrita e Redação, reunidos das listas curadas da comunidade.
+
+- [Caret](https://caret.io/) - (29 dólares para uso contínuo)
 - [Ferrite](https://getferrite.dev/) - (FREE, open source @ github OlaProeis/Ferrite)
-- [GeekDown](https://github.com/fearlessgeekmedia/geekdown) - (FREE, open source)
-- [Inkwell](https://github.com/4worlds4w-svg/inkwell) - (one time license to buy for paid component, open source @ github 4worlds4w-svg/inkwell)
-- [Kindling](https://kindlingwriter.com/) - (FREE, open source @ github smith-and-web/kindling)
-- [KeenWrite](https://gitlab.com/DaveJarvis/keenwrite) - (FREE, open source)
-- [Markpad](https://markpad.sftwr.dev/) - (FREE, open source)
-- [Splitmark](https://splitmark.app/) - (FREE, open source, Paid Syncing Option)
-- [Tangent](https://www.tangentnotes.com/) - (FREE, open source)
-- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - (FREE, open source)
-- [Yank Note](https://github.com/purocean/yn) - (FREE, open source)
-- [QOwnNotes](https://github.com/pbek/QOwnNotes) - (FREE, open source)
-- [Visual Studio Code](https://code.visualstudio.com/) - (FREE, open source)
-- [Zettlr](https://www.zettlr.com/) - (FREE, open source)
+- [GeekDown](https://github.com/fearlessgeekmedia/geekdown) - (FREE, código aberto)
+- [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Uma licença para comprar o componente pago, código aberto.
+- [Kindling](https://kindlingwriter.com/) - (FREE, open source @ github smith-and-web/kingling)
+- [KeenWrite](https://gitlab.com/DaveJarvis/keenwrite) - (FREE, código aberto)
+- [Markpad](https://markpad.sftwr.dev/) - (FREE, código aberto)
+- [Splitmark](https://splitmark.app/) - (Open source, Opção de Sincronia Paga)
+- [Tangent](https://www.tangentnotes.com/) - (FREE, código aberto)
+- [The code resides on GitHub](https://github.com/suchnsuch/Tangent) - O monorepo Tangent.
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - (FREE, código aberto)
+- [Yank Note](https://github.com/purocean/yn) - (FREE, código aberto)
+- [QOwnNotes](https://github.com/pbek/QOwnNotes) - (FREE, código aberto)
+- [Visual Studio Code](https://code.visualstudio.com/) - (FREE, código aberto)
 
-## ◾ Ferramentas
+## 🛠️ Ferramentas.
 
-- [Antidote](https://www.antidote.info/) - A writing corrector analyzes your text and flags any detections.
-- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko.
-- [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
-- [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
-- [Academic Markdown](https://github.com/smathot/academicmarkdown) - A Python wrapper over Pandoc with specialized extensions to parse certain
-- [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
-- [Vale](https://github.com/errata-ai/vale) - A customizable linting through customized style rules.
-- [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
-- [OneLook](https://www.onelook.com/) - A collection of tools for improving your writing. It includes a thesaurus, reverse dictionary, and related words search.
-- [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - A list of
+> 9 links de Ferramentas. em Escrita e Redação, reunidos das listas curadas da comunidade.
 
-## ◾ Style Guides
+- [Antidote](https://www.antidote.info/) - Um corretor de escrita analisa seu texto e sinaliza qualquer detecção.
+- [Expresso App](https://github.com/mikpanko/expresso) - Uma ferramenta interativa para analisar, editar e comparar estilos de texto em inglês criado por Mikhail Panko.
+- [Proselint](https://github.com/amperser/proselint) - Um utilitário de linha de comando que coleta boas práticas e erros de escrita comuns de vários guias diferentes.
+- [Pandoc](https://pandoc.org/MANUAL) - Uma biblioteca Haskell para converter de
+- [Academic Markdown](https://github.com/smathot/academicmarkdown) - Uma embalagem Python sobre Pandoc com extensões especializadas para analisar certos
+- [Panflute](http://scorreia.com/software/panflute/) - Alternativa Pythonic
+- [Vale](https://github.com/errata-ai/vale) - Um linting personalizável através de regras personalizadas.
+- [Alex](https://github.com/get-alex/alex) - Um utilitário de linha de comando que acha o gênero favorável, polarizado, relacionado com raça, sem consideração religiosa ou outra frase desigual no texto.
+- [OneLook](https://www.onelook.com/) - Uma coleção de ferramentas para melhorar sua escrita, incluindo um dicionário reverso e busca por palavras relacionadas.
 
-- [Material's Communication Principles: Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance) - (Google Developers Codelabs)
-- [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) - for Different Languages
-- [Plain Language Guidelines](https://www.plainlanguage.gov/)
-- [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
-- [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html)
-- [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
-- [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+## 🔷 Ação GitHub
 
-## ◾ API
+> 6 links de Ação GitHub em Escrita e Redação, reunidos das listas curadas da comunidade.
 
-- [API Guidelines](https://dret.github.io/guidelines/)
-- [Bruno](https://www.usebruno.com/)
-- [Bump.sh](https://bump.sh/)
-- [Cortex](https://github.com/cortex-docs/cortex)
-- [Document360 API Documentation](https://document360.com/solutions/api-documentation/)
-- [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
+- [Alex Action](https://github.com/theashraf/alex-action) - Ação GitHub para Alex
+- [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) - GitHub Action que usa os arquivos de constituição do agente no estilo CLAUDE.MD por falta de guardiões operacionais: limite de gastos, defesa contra injeção, caminhos de escalada, regras secretas
+- [DocPulse](https://github.com/YoniRaviv/DocPulse) - Auto-cura de documentos técnicos em IC, uma ação GitHub que detecta documentação inválida pelo código da RP e compromete correções cirúrgicas e preservadoras de estilo na filial.
+- [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) - URLs de auditoria usando Farol e teste de desempenho com Lighthouse CI.
+- [readme-ci](https://github.com/ondraulehla/readme-ci) - Execute os blocos de código no seu README e falhe em IC quando o seu início rápido quebra
+- [relnote](https://github.com/loki-inu/relnote) - Ação Offline CLI e GitHub para notas de lançamento convencionais.
 
-## ◾ AsciiDoc
+## 🟡 Processadores de palavras
 
-- [adoc Studio](https://adoc-studio.app/)
-- [AdocEditor](https://adoceditor.com/)
-- [Asciidoctor](https://asciidoctor.org/)
-- [AsciiDoc Alive](https://asciidocalive.docswriter.com/)
-- [IntelliJ AsciiDoc Plugin](https://intellij-asciidoc-plugin.ahus1.de/)
-- [Asciidoc FX](https://www.asciidocfx.com/)
+> 6 links de Processadores de palavras em Escrita e Redação, reunidos das listas curadas da comunidade.
 
-## ◾ Word Processors
+- [Marktext](https://github.com/marktext/marktext) - Editor de texto marcado.
+- [bookdown](https://github.com/rstudio/bookdown) - Pacote R para facilitar a escrita de livros e artigos longos, relatórios com R Markdown.
+- [R Markdown](https://rmarkdown.rstudio.com/) - Pacote R para escrever R ao lado de Markdown.
+- [Vim](https://www.vim.org/) - Editor de texto da linha de comando.
+- [fzf-bibtex](https://github.com/msprev/fzf-bibtex/) - Fonte BibTeX
+- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Integração Pandoc e utilidades para Vim.
 
-- [Marktext](https://github.com/marktext/marktext) - Markdown text editor.
-- [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown .
-- [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown .
-- [Vim](https://www.vim.org/) - Command line text editor.
-- [fzf-bibtex](https://github.com/msprev/fzf-bibtex/) - BibTeX source
-- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
+## 🧺 Mais links
 
-## ◾ Mais links
+> Links de Escrita e Redação que vêm de tópicos pequenos demais para ter uma seção própria.
 
-- [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
-- [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
-- [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
-- [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers' skills used in the open data movement.
-- [Ghost](https://ghost.org/) - A modern, open-source platform for professional publishing.
-- [Blogger](https://www.blogger.com/) - A free platform by Google, ideal for beginners.
-- [Jekyll](https://jekyllrb.com/) - A static site generator, perfect for developers who prefer writing in Markdown.
-- [Medium](https://medium.com/) - A popular platform for sharing articles and stories with a built-in audience.
-- [Nieman Lab](https://www.niemanlab.org/) - Reporting on journalism innovation and the future of news.
-- [Journalist’s Resource](https://journalistsresource.org/) - Research summaries for journalists from Harvard’s Shorenstein Center.
-- [Poynter Institute](https://www.poynter.org/) - Journalism education, ethics, and media literacy training.
-- [Draft2Digital](https://www.draft2digital.com/) - Distribute eBooks to multiple retailers.
-- [Smashwords](https://www.smashwords.com/) - eBook publishing and distribution platform.
-- [Lulu](https://www.lulu.com/) - Publish and print books, calendars, and more.
-- [Apple Books for Authors](https://authors.apple.com/) - Publish directly to Apple Books.
-- [Google Play Books Partner Center](https://play.google.com/books/publish/) - Publish eBooks for Android users. <sub>app</sub>
-- [AXE-CLI](https://github.com/dequelabs/axe-cli)
-- [Contrastchecker](https://webaim.org/resources/contrastchecker/)
-- [Image Alt text best practices](https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices)
-- [Lumberjack](https://github.com/JakePartusch/lumberjack)
-- [Pa11y](https://pa11y.org/)
-- [Markdown](https://daringfireball.net/projects/markdown/) - (and its many flavours),
-- [I'd Rather Be Writing](http://idratherbewriting.com/) - A blog about technical writing.
-- [Every Page is Page One](https://everypageispageone.com/) - Mark Baker's content strategy and technical communication blog.
-- [Knight Center for Journalism in the Americas](https://journalismcourses.org/) - Free and low-cost online journalism courses.
-- [Coursera – Journalism Courses](https://www.coursera.org/courses?query=journalism) - Various journalism topics from leading institutions. <sub>curso</sub>
-- [BBC Academy](https://www.bbc.co.uk/academy) - Training for journalists on storytelling, ethics, and reporting.
-- [ThemeForest](https://themeforest.net/category/blogging) - A marketplace for premium blog themes for various platforms.
-- [GeneratePress](https://generatepress.com/) - A lightweight WordPress theme designed for speed and usability.
-- [Hugo Themes](https://themes.gohugo.io/) - A collection of themes for the Hugo static site generator.
-- [Bootstrap Blog Templates](https://startbootstrap.com/themes/blog/) - Free and premium blog templates built with Bootstrap.
-- [IngramSpark](https://www.ingramspark.com/) - Global print and distribution services.
-- [BookBaby](https://www.bookbaby.com/) - POD, eBook conversion, and distribution.
-- [Blurb](https://www.blurb.com/) - Custom photo and trade books with print-on-demand.
-- [International Center for Journalists (ICFJ)](https://www.icfj.org/) - Supports early-career and veteran journalists with training and fellowships.
-- [Committee to Protect Journalists (CPJ)](https://cpj.org/) - Defends journalists' rights to report the news safely and without fear.
-- [Reporters Without Borders (RSF)](https://rsf.org/en) - Advocates for press freedom and tracks censorship worldwide.
-- [Society of Professional Journalists (SPJ)](https://www.spj.org/) - Promotes high standards and ethical behavior in journalism.
-- [Investigative Reporters and Editors (IRE)](https://www.ire.org/) - Supports investigative journalism through training and networking.
-- [12 Best Markdown Editors for Linux](http://bettertechtips.com/linux/markdown-editor-linux) - Better Tech Tips, July 2017
+- [Dutch Style Guide](https://github.com/lboshuizen/dutch-style-guide) - Diretriz de escrita holandesa concisa - 37 regras práticas para texto holandês claro e profissional
+- [Material's Communication Principles: Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance) - (Google Developers Codelabs) <sub>📖 documentação</sub>
+- [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) - Para diferentes idiomas
+- [Ghost](https://ghost.org/) - Uma moderna plataforma de código aberto para publicação profissional.
+- [Blogger](https://www.blogger.com/) - Uma plataforma gratuita do Google, ideal para iniciantes.
+- [Jekyll](https://jekyllrb.com/) - Um gerador estático, perfeito para desenvolvedores que preferem escrever em Markdown.
+- [Medium](https://medium.com/) - Uma plataforma popular para compartilhar artigos e histórias com uma audiência integrada.
+- [Nieman Lab](https://www.niemanlab.org/) - Reportando sobre a inovação no jornalismo e o futuro das notícias.
+- [Journalist’s Resource](https://journalistsresource.org/) - Resumos de pesquisa para jornalistas do Centro Shorenstein de Harvard.
+- [Poynter Institute](https://www.poynter.org/) - Educação de Jornalismo, ética e formação em alfabetização na mídia.
+- [Draft2Digital](https://www.draft2digital.com/) - Distribua eBooks para vários varejistas.
+- [Smashwords](https://www.smashwords.com/) - Plataforma de publicação e distribuição de eBooks.
+- [Lulu](https://www.lulu.com/) - Publicar e imprimir livros, calendários e muito mais.
+- [Apple Books for Authors](https://authors.apple.com/) - Publique diretamente no Apple Books.
+- [Google Play Books Partner Center](https://play.google.com/books/publish/) - Publique eBooks para usuários Android. <sub>📱 app</sub>
+- [AXE-CLI](https://github.com/dequelabs/axe-cli) - Uma interface de linha de comando para o motor de teste de acessibilidade aXe
+- [Lumberjack](https://github.com/JakePartusch/lumberjack) - Um scanner de acessibilidade automatizado e cli.
+- [Markdown](https://daringfireball.net/projects/markdown/) - (e seus muitos sabores)
+- [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - A interseção da escrita e o desenvolvimento de produtos tecnológicos.
+- [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Entrevistas com agentes e editores, dicas de como fazer, e por trás das cenas, olham para a criação da Academia.
+- [Write the Docs Podcast](https://podcast.writethedocs.org/) - O "Write the Docs Podcast" publica podcasts de discussão com foco em tópicos relacionados à comunidade "Write the Docs".
+- [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - O Podcast do Escritor de Tecnologias Não Enjoos introduz habilidades técnicas dos escritores usadas no movimento aberto de dados.
+- [I'd Rather Be Writing](http://idratherbewriting.com/) - Um blog sobre escrita técnica.
+- [Every Page is Page One](https://everypageispageone.com/) - Estratégia de conteúdo de Mark Baker e blogues técnicos de comunicação.
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Ecossistema de Desenvolvimento da API Open-Source • https://hoppscotch.io • Desligado, On-Prem & Cloud • Web, Desktop & CLI • Alternativa Open-Source para Postman, Insônia
+- [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker) - Verifique a sensibilidade de seus documentos do esquema JSON (incluindo OpenAPI!)
+- [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) - O CLI torna o OpenAPI mais fácil, com lint/validate a qualquer padrão, gerando belos documentos e muito mais.
+- [Redoc-Editor](https://github.com/pointnet/redoc-editor) - Editar e compartilhar configurações ReDoc/tema
+- [Speccy](https://github.com/wework/speccy) - Bem, espectualmente, force regras de qualidade nas especificações do OpenAPI 3.0.x.
+- [Knight Center for Journalism in the Americas](https://journalismcourses.org/) - Cursos de jornalismo on-line gratuitos e de baixo custo.
+- [Coursera – Journalism Courses](https://www.coursera.org/courses?query=journalism) - Vários temas de jornalismo das principais instituições. <sub>🎓 curso</sub>
+- [BBC Academy](https://www.bbc.co.uk/academy) - Treinando para jornalistas em histórias, ética e reportagens.
+- [ThemeForest](https://themeforest.net/category/blogging) - Um mercado de blogs premium para várias plataformas.
+- [GeneratePress](https://generatepress.com/) - Um tema WordPress leve projetado para velocidade e usabilidade.
+- [Hugo Themes](https://themes.gohugo.io/) - Uma coleção de temas para o gerador estático Hugo.
+- [Bootstrap Blog Templates](https://startbootstrap.com/themes/blog/) - Modelos de blog gratuitos e premium construídos com Bootstrap.
+- [IngramSpark](https://www.ingramspark.com/) - Serviços globais de impressão e distribuição.
+- [BookBaby](https://www.bookbaby.com/) - Pod, conversão do eBook e distribuição.
+- [Blurb](https://www.blurb.com/) - Foto personalizada e livros comerciais com impressão sob demanda.
+- [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/) - Uma coleção de editores, publicações e agências que pagam taxas justas por conteúdo técnico de alta qualidade.
+- [International Center for Journalists (ICFJ)](https://www.icfj.org/) - Apoia jornalistas veteranos com treinamento e bolsas.
+- [Committee to Protect Journalists (CPJ)](https://cpj.org/) - Defende os direitos dos jornalistas de relatar as notícias com segurança e sem medo.
+- [Reporters Without Borders (RSF)](https://rsf.org/en) - Advogados pela liberdade de imprensa e rastreiam a censura em todo o mundo.
+- [Society of Professional Journalists (SPJ)](https://www.spj.org/) - Promove altos padrões e comportamento ético no jornalismo.
+- [Investigative Reporters and Editors (IRE)](https://www.ire.org/) - Apoia jornalismo investigativo através de treinamento e redes.
+- [12 Best Markdown Editors for Linux](http://bettertechtips.com/linux/markdown-editor-linux) - Melhores dicas técnicas, julho de 2017
 - [Markdown Shell Extensions](https://github.com/EtheaDev/MarkdownShellExtensions) - (FREE - Open Source)
 - [Markdown Help Viewer](https://github.com/EtheaDev/MarkdownHelpViewer) - (FREE - Open Source)
-- [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
-- [citecheck](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
-- [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
-- [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
-- [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) - Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.
-- [Evernote](https://evernote.com/) - A powerful note-taking tool for organizing blog ideas.
-- [Notion](https://www.notion.so/) - An all-in-one workspace for planning, writing, and organizing content.
-- [Reedsy Book Editor](https://reedsy.com/write-a-book) - Free online book formatting tool.
-- [Atticus](https://atticus.io/) - Writing and formatting tool for eBooks and print.
-- [Calibre](https://calibre-ebook.com/) - Open-source eBook management and conversion.
-- [Ink MD (LitSquare Ink MD)](https://ink.litsquare.com/) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional "Show Invisibles" overlay.
-- [Nota](https://nota.md/) - ($29 for continued use)
-- [SEMrush](https://www.semrush.com/) - A comprehensive tool for SEO, content marketing, and social media.
-- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - A popular WordPress plugin for on-page SEO optimization.
-- [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/) - A tool for finding the right keywords to target.
-- [Moz](https://moz.com/) - An SEO platform with tools for keyword research, link building, and site audits.
-- [The Intercept](https://theintercept.com/) - Investigative journalism on power and accountability.
-- [ProPublica](https://www.propublica.org/) - Nonprofit newsroom for investigative journalism.
-- [Global Investigative Journalism Network (GIJN)](https://gijn.org/) - International association of investigative journalists and organizations.
-- [Center for Investigative Reporting – Reveal](https://revealnews.org/) - Produces investigative reporting and radio storytelling.
-- [BookBrush](https://bookbrush.com/) - Cover creator and marketing graphics for authors.
-- [99designs](https://99designs.com/book-cover-design) - Custom book cover contests and designers.
-- [app.diagrams.net](https://app.diagrams.net/) - Open source, online, desktop and
-- [graphviz](https://graphviz.org/) - Visualization software for graphs and
-- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
-- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
-- [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
-- [BookBub Partners](https://partners.bookbub.com/) - Promotions for eBooks and new releases.
-- [StoryOrigin](https://storyoriginapp.com/) - Cross-promotions, email list growth, and ARC distribution.
-- [BookFunnel](https://bookfunnel.com/) - Deliver ARCs, grow your newsletter, and promote books.
-- [Booksprout](https://booksprout.co/) - ARC and review management platform.
-- [Goodreads](https://www.goodreads.com/author/program) - Author profile and community engagement. <sub>livro</sub>
-- [Google Analytics](https://analytics.google.com/) - The industry standard for tracking website traffic and user behavior.
-- [Matomo](https://matomo.org/) - An open-source web analytics platform that respects user privacy.
-- [Hotjar](https://www.hotjar.com/) - A tool for understanding user behavior through heatmaps and session recordings.
-- [Clicky](https://clicky.com/) - A real-time web analytics platform with comprehensive reporting features.
-- [DataJournalism.com](https://datajournalism.com/) - Resources and tools for data-driven storytelling.
-- [The Data Journalism Handbook](https://datajournalismhandbook.org/) - Open guide to data journalism.
-- [OpenNews](https://opennews.org/) - Connects developers and journalists through code, design, and community.
-- [QuillBot](https://quillbot.com/)
-- [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
-- [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
-- [Google AdSense](https://www.google.com/adsense/start/) - A popular platform for monetizing your blog with ads.
-- [Tow Center for Digital Journalism](https://www.cjr.org/tow_center/) - Columbia University's research on digital journalism.
-- [PublishDrive](https://publishdrive.com/) - Global distribution for eBooks, print, and audiobooks.
-- [Agent QA](https://github.com/vostride/agent-qa)
+- [Agent QA](https://github.com/vostride/agent-qa) - Um teste com memória, escrever testes em linguagem natural para web e mobile, o agente-qa aprende a cada corrida, se adapta às mudanças de UI e...
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - API JavaScript para Chrome e Firefox
+- [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Multidões.
+- [citecheck](https://github.com/tobiasosDev/citecheck) - Ferramenta de linha de comando que combina com as referências de BibTeX, RIS e CSL-JSON contra Crossref e OpenAlex e retrações de bandeiras relatadas por Crossref.
+- [JabRef](https://www.jabref.org/) - Gerente de referência em bibliografias.
+- [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Converta estilos de citação.
+- [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) - Plugin que faz PDFs digitalizados com Tesseract OCR e Poppler.
+- [Evernote](https://evernote.com/) - Uma poderosa ferramenta de anotações para organizar ideias do blog.
+- [Notion](https://www.notion.so/) - Um espaço de trabalho único para planejar, escrever e organizar conteúdo.
+- [Reedsy Book Editor](https://reedsy.com/write-a-book) - Ferramenta de formatação de livros online grátis.
+- [Atticus](https://atticus.io/) - Ferramenta de escrita e formatação para eBooks e impressão.
+- [Calibre](https://calibre-ebook.com/) - Gestão de eBooks em código aberto e conversão.
+- [Ink MD (LitSquare Ink MD)](https://ink.litsquare.com/) - Editor Markdown nativo do macOS (SwiftUI/AppKit, TextKit 2) com edição de estilo, navegação em espaço de trabalho, visualização ao vivo (markdown-it + highlight.js + KaTeX), cópia/exportação de texto…
+- [Nota](https://nota.md/) - (29 dólares para uso contínuo)
+- [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - Um editor nativo do MacOS Markdown para escrita acadêmica, com um gerente integrado de bibliografia amigo da Zotero, bancos de dados de planilhas e rastreamento de tarefas.
+- [Lapce](https://github.com/lapce/lapce) - Relâmpago rápido e poderoso editor de código escrito em Rust
+- [SEMrush](https://www.semrush.com/) - Uma ferramenta abrangente para SEO, marketing de conteúdo e mídia social.
+- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - Um popular plugin WordPress para otimização de SEO na página.
+- [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/) - Uma ferramenta para encontrar as palavras-chave certas.
+- [Moz](https://moz.com/) - Uma plataforma de SEO com ferramentas para pesquisa de palavras-chave, construção de links e auditorias de sites.
+- [Papercups](https://github.com/papercups-io/papercups) - Conversa ao vivo com o cliente.
+- [The Intercept](https://theintercept.com/) - Jornalismo investigativo sobre poder e responsabilidade.
+- [ProPublica](https://www.propublica.org/) - Sala de imprensa sem fins lucrativos para jornalismo investigativo.
+- [Global Investigative Journalism Network (GIJN)](https://gijn.org/) - Associação internacional de jornalistas e organizações investigativas.
+- [Center for Investigative Reporting – Reveal](https://revealnews.org/) - Produz relatórios investigativos e narração de histórias.
+- [BookBrush](https://bookbrush.com/) - Cobrir criador e gráficos de marketing para autores.
+- [99designs](https://99designs.com/book-cover-design) - Concursos personalizados de capa de livros e designers.
+- [app.diagrams.net](https://app.diagrams.net/) - Código aberto, on-line, desktop e
+- [graphviz](https://graphviz.org/) - Software de visualização para gráficos e
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Defina diagramas simples em vez de desenhar.
+- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Defina gráficos e diagramas mais complexos.
+- [PlantUML](https://plantuml.com/) - Defina diagramas UML em vez de desenhar.
+- [BookBub Partners](https://partners.bookbub.com/) - Promoções para eBooks e novos lançamentos.
+- [StoryOrigin](https://storyoriginapp.com/) - Promoções cruzadas, crescimento da lista de e-mails e distribuição do ARC.
+- [BookFunnel](https://bookfunnel.com/) - Entregue ARCs, aumente seu boletim e promova livros.
+- [Booksprout](https://booksprout.co/) - ARC e plataforma de gerenciamento de revisão.
+- [Goodreads](https://www.goodreads.com/author/program) - Perfil de autor e compromisso comunitário. <sub>📚 livro</sub>
+- [Google Analytics](https://analytics.google.com/) - O padrão da indústria para rastrear o tráfego do site e o comportamento do usuário.
+- [Matomo](https://matomo.org/) - Uma plataforma de análise da web que respeita a privacidade do usuário.
+- [Hotjar](https://www.hotjar.com/) - Uma ferramenta para entender o comportamento do usuário através de mapas térmicos e gravações de sessão.
+- [Clicky](https://clicky.com/) - Uma plataforma de análise web em tempo real com recursos abrangentes de relatórios.
+- [DataJournalism.com](https://datajournalism.com/) - Recursos e ferramentas para contar histórias.
+- [The Data Journalism Handbook](https://datajournalismhandbook.org/) - Guia aberto para jornalismo de dados.
+- [OpenNews](https://opennews.org/) - Conecta desenvolvedores e jornalistas através de código, design e comunidade.
+- [wiki](https://github.com/plasma-ai/wiki) - Bases de conhecimento indexadas com ferramentas de linha de comando para agentes.
+- [Cicero](https://cicero.xyz/) - Pacote Python que faz apresentações HTML
+- [docutils](https://docutils.sourceforge.io/docs/) - Pacote Python que pode <sub>📖 documentação</sub>
+- [Google AdSense](https://www.google.com/adsense/start/) - Uma plataforma popular para rentabilizar seu blog com anúncios.
+- [Amazon Associates](https://affiliate-program.amazon.com/) - Um programa de marketing afiliado da Amazon. <sub>📚 livro</sub>
+- [Tow Center for Digital Journalism](https://www.cjr.org/tow_center/) - Pesquisa da Universidade de Columbia sobre jornalismo digital.
+- [First Draft](https://firstdraftnews.org/) - Recursos para verificar conteúdo online e combater desinformação.
+- [PublishDrive](https://publishdrive.com/) - Distribuição global para eBooks, impressão e audiolivros.
+- [StreetLib](https://www.streetlib.com/) - Distribuição de e-livros, impressos e audiolivros.
+- [Animockup](https://github.com/alyssaxuu/animockup) - Crie modelos animados no navegador.
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) <sub>19 links · licença CC-BY-SA-4.0</sub>
-- [armstrongl/awesome-writing](https://github.com/armstrongl/awesome-writing) <sub>19 links · licença CC0-1.0</sub>
-- [brandonhimpfen/awesome-blogging](https://github.com/brandonhimpfen/awesome-blogging) <sub>19 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-journalism](https://github.com/brandonhimpfen/awesome-journalism) <sub>19 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-self-publishing](https://github.com/brandonhimpfen/awesome-self-publishing) <sub>19 links · licença CC-BY-SA-4.0</sub>
-- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) <sub>0 links · licença CC0-1.0</sub>
-- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) <sub>0 links · licença MIT</sub>
-- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) <sub>19 links · licença CC0-1.0</sub>
-- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <sub>0 links · licença CC0-1.0</sub>
-- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) <sub>19 links · licença CC-BY-NC-4.0</sub>
-- [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) <sub>19 links · licença CC0-1.0</sub>
-- [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) <sub>0 links · licença CC-BY-4.0</sub>
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) <sub>🔗 24 · ⚖️ CC-BY-SA-4.0</sub>
+- [armstrongl/awesome-writing](https://github.com/armstrongl/awesome-writing) <sub>🔗 15 · ⚖️ CC0-1.0</sub>
+- [brandonhimpfen/awesome-blogging](https://github.com/brandonhimpfen/awesome-blogging) <sub>🔗 21 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-journalism](https://github.com/brandonhimpfen/awesome-journalism) <sub>🔗 20 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-self-publishing](https://github.com/brandonhimpfen/awesome-self-publishing) <sub>🔗 20 · ⚖️ CC-BY-SA-4.0</sub>
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) <sub>🔗 5 · ⚖️ CC0-1.0</sub>
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) <sub>🔗 5 · ⚖️ MIT</sub>
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) <sub>🔗 21 · ⚖️ CC0-1.0</sub>
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <sub>🔗 5 · ⚖️ CC0-1.0</sub>
+- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) <sub>🔗 23 · ⚖️ CC-BY-NC-4.0</sub>
+- [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) <sub>🔗 19 · ⚖️ CC0-1.0</sub>
+- [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) <sub>🔗 4 · ⚖️ CC-BY-4.0</sub>
 
 ---
 [⬆️ Voltar ao topo](#️-escrita-e-redação) · [← Design e Criação](README.md)

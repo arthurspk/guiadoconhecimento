@@ -1,0 +1,1045 @@
+# 🧠 IA per Data Scientist e ML Engineer
+
+> Modella i dati con statistica e machine learning. **1000 repository di IA** in 5 temi, ordinati per stelle all'interno di ogni tema.
+
+[← 🧠 Repository di IA per professione](./README.md) · [🧭 Percorso di questa professione](../../trilhas/README.md#-data-scientist-e-ml-engineer) · [🏠 Home](../../../../README.it.md)
+
+🌍 🇧🇷 [Português (Brasil)](../../../../ia/profissoes/cientista-de-dados.md) · 🇺🇸 [English](../../../en/ia/profissoes/cientista-de-dados.md) · 🇪🇸 [Español](../../../es/ia/profissoes/cientista-de-dados.md) · 🇨🇳 [中文](../../../zh/ia/profissoes/cientista-de-dados.md) · 🇮🇳 [हिन्दी](../../../hi/ia/profissoes/cientista-de-dados.md) · 🇸🇦 [العربية](../../../ar/ia/profissoes/cientista-de-dados.md) · 🇫🇷 [Français](../../../fr/ia/profissoes/cientista-de-dados.md) · 🇮🇹 **Italiano** · 🇰🇷 [한국어](../../../ko/ia/profissoes/cientista-de-dados.md) · 🇷🇺 [Русский](../../../ru/ia/profissoes/cientista-de-dados.md) · 🇩🇪 [Deutsch](../../../de/ia/profissoes/cientista-de-dados.md) · 🇯🇵 [日本語](../../../ja/ia/profissoes/cientista-de-dados.md)
+
+## 📚 Indice
+
+> Vai direttamente alla sezione che ti interessa; il numero accanto è la quantità di link.
+
+[🧠 Framework e librerie di ML](#-framework-e-librerie-di-ml) <sub>487</sub> <br>
+[🎯 Training e fine-tuning](#-training-e-fine-tuning) <sub>107</sub> <br>
+[🤖 AutoML e agenti di data science](#-automl-e-agenti-di-data-science) <sub>57</sub> <br>
+[🧪 MLOps, esperimenti e valutazione](#-mlops-esperimenti-e-valutazione) <sub>206</sub> <br>
+[🔍 Interpretabilità e ML applicato](#-interpretabilità-e-ml-applicato) <sub>143</sub> <br>
+
+## 🧠 Framework e librerie di ML
+
+> Le basi del machine learning e del deep learning.
+
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone <sub>⭐ 200.7k · C++</sub>
+- [huggingface/transformers](https://github.com/huggingface/transformers) - Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <sub>⭐ 166.9k · Python</sub>
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI <sub>⭐ 165.2k · Python</sub>
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Il modello di diffusione più potente e modulare GUI, api e backend con un'interfaccia grafica/nodi. <sub>⭐ 135.9k · Python</sub>
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step <sub>⭐ 105.9k · Jupyter Notebook</sub>
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensori e reti neurali dinamiche in Python con forte accelerazione GPU <sub>⭐ 103.6k · Python</sub>
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs <sub>⭐ 93.1k · Python</sub>
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all <sub>⭐ 91.2k · Jupyter Notebook</sub>
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - Una lista curata di quadri, librerie e software di Machine Learning impressionante. <sub>⭐ 74.5k · Python</sub>
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 60+ Implementations/tutorials of deep learning papers with side-by-side notes ; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...)… <sub>⭐ 67.5k · Python</sub>
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python <sub>⭐ 67.5k · Python</sub>
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans <sub>⭐ 64.3k · Python</sub>
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking <sub>⭐ 62.2k · Python</sub>
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time <sub>⭐ 60.2k · Python</sub>
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export. <sub>⭐ 58.1k · Python</sub>
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding <sub>⭐ 51.9k</sub>
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. <sub>⭐ 51.1k · Python</sub>
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications. <sub>⭐ 49.7k · Jupyter Notebook</sub>
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production <sub>⭐ 46.1k · Python</sub>
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. <sub>⭐ 44.0k · Python</sub>
+- [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. <sub>⭐ 43.2k · Python</sub>
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning <sub>⭐ 38.3k · Python</sub>
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. <sub>⭐ 37.7k · Python</sub>
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer… <sub>⭐ 37.2k · Python</sub>
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - Clone a voice in 5 seconds to generate arbitrary speech in real-time <sub>⭐ 36.9k · Python</sub>
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more <sub>⭐ 36.4k · Python</sub>
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. <sub>⭐ 34.6k · Python</sub>
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizzatore per reti neurali, modelli di apprendimento profondo e machine learning <sub>⭐ 33.5k · JavaScript</sub>
+- [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark <sub>⭐ 33.0k · Python</sub>
+- [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial per i ricercatori di deep learning <sub>⭐ 32.5k · Python</sub>
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. <sub>⭐ 31.4k · Python</sub>
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per… <sub>⭐ 30.2k · Python</sub>
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. <sub>⭐ 30.0k · Python</sub>
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project <sub>⭐ 29.9k · Python</sub>
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. <sub>⭐ 29.8k · Python</sub>
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials… <sub>⭐ 29.4k · Python</sub>
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow <sub>⭐ 28.8k · C++</sub>
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library <sub>⭐ 28.2k · Jupyter Notebook</sub>
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks. <sub>⭐ 26.5k · Python</sub>
+- [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc. <sub>⭐ 26.4k · Python</sub>
+- [ageron/handson-ml](https://github.com/ageron/handson-ml) - DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead. <sub>⭐ 25.6k · Jupyter Notebook</sub>
+- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch <sub>⭐ 25.5k · Python</sub>
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf <sub>⭐ 25.4k · Python</sub>
+- [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch <sub>⭐ 25.3k · Python</sub>
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training <sub>⭐ 24.9k · Python</sub>
+- [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch <sub>⭐ 24.1k · Python</sub>
+- [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc. <sub>⭐ 24.1k · Python</sub>
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform <sub>⭐ 23.9k · C++</sub>
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly. <sub>⭐ 23.8k</sub>
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable… <sub>⭐ 23.7k · Jupyter Notebook</sub>
+- [huggingface/datasets](https://github.com/huggingface/datasets) - The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools <sub>⭐ 22.0k · Python</sub>
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator <sub>⭐ 22.0k · C++</sub>
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. <sub>⭐ 21.9k · C++</sub>
+- [huggingface/peft](https://github.com/huggingface/peft) - PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. <sub>⭐ 21.7k · Python</sub>
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability <sub>⭐ 21.6k · Python</sub>
+- [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants <sub>⭐ 21.3k · Python</sub>
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models! Revolutionize We release the trained model on HuggingFace. <sub>⭐ 21.3k · Jupyter Notebook</sub>
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving. <sub>⭐ 20.6k · Python</sub>
+- [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. <sub>⭐ 19.1k · Jupyter Notebook</sub>
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book <sub>⭐ 19.1k · Python</sub>
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning… <sub>⭐ 18.8k · C++</sub>
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model… <sub>⭐ 18.6k · Jupyter Notebook</sub>
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Piattaforma AI privata per agenti, assistenti e ricerca aziendale. Costruttore di agente integrato, Ricerca Profonda, analisi dei documenti, supporto multi-model e connettività API per gli agenti. <sub>⭐ 18.3k · Python</sub>
+- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - (NeurIPS 2022) Towards Robust Blind Face Restoration with Codebook Lookup Transformer <sub>⭐ 18.2k · Python</sub>
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API <sub>⭐ 17.8k · Jupyter Notebook</sub>
+- [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means… <sub>⭐ 17.6k · C++</sub>
+- [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks. <sub>⭐ 17.5k · Python</sub>
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling… <sub>⭐ 16.9k · Python</sub>
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc. <sub>⭐ 16.7k</sub>
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code. <sub>⭐ 16.6k · Python</sub>
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability. <sub>⭐ 16.0k · Rust</sub>
+- [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab <sub>⭐ 15.9k · Jupyter Notebook</sub>
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform <sub>⭐ 15.9k</sub>
+- [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral) <sub>⭐ 15.7k · Python</sub>
+- [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning. <sub>⭐ 15.0k · Jupyter Notebook</sub>
+- [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers <sub>⭐ 14.9k · Jupyter Notebook</sub>
+- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature. <sub>⭐ 14.9k · Python</sub>
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure. <sub>⭐ 14.9k · Jupyter Notebook</sub>
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT… <sub>⭐ 14.8k · Python</sub>
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN… <sub>⭐ 14.7k · Python</sub>
+- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! Register here <sub>⭐ 14.7k · Jupyter Notebook</sub>
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP) <sub>⭐ 14.4k · Python</sub>
+- [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math… <sub>⭐ 14.3k · Java</sub>
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. <sub>⭐ 14.3k · Jupyter Notebook</sub>
+- [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - Un'implementazione open source di CLIP. <sub>⭐ 14.2k · Python</sub>
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors <sub>⭐ 14.2k · Jupyter Notebook</sub>
+- [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing <sub>⭐ 14.0k · C++</sub>
+- [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. <sub>⭐ 13.9k · Python</sub>
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models" <sub>⭐ 13.8k · Python</sub>
+- [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework <sub>⭐ 13.8k · Python</sub>
+- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method. <sub>⭐ 13.4k · Jupyter Notebook</sub>
+- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Advanced AI Explainability for computer vision. Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more. <sub>⭐ 13.0k · Python</sub>
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Scalable embedding, reasoning, ranking for images and sentences with CLIP <sub>⭐ 12.8k · Python</sub>
+- [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource <sub>⭐ 12.7k · Jupyter Notebook</sub>
+- [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. <sub>⭐ 12.7k</sub>
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs <sub>⭐ 12.0k · Python</sub>
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer <sub>⭐ 11.9k · Python</sub>
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit <sub>⭐ 11.9k · Python</sub>
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models <sub>⭐ 11.8k · Python</sub>
+- [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace. <sub>⭐ 11.8k · Jupyter Notebook</sub>
+- [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones. <sub>⭐ 11.8k · Python</sub>
+- [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images <sub>⭐ 11.7k · Python</sub>
+- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3 <sub>⭐ 11.5k · Jupyter Notebook</sub>
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI <sub>⭐ 11.4k · Python</sub>
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch <sub>⭐ 11.3k · Python</sub>
+- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. <sub>⭐ 11.3k · Python</sub>
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. <sub>⭐ 11.1k · Python</sub>
+- [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library. <sub>⭐ 11.0k · Python</sub>
+- [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code <sub>⭐ 10.8k · Python</sub>
+- [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course <sub>⭐ 10.7k · Python</sub>
+- [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch <sub>⭐ 10.7k · Python</sub>
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io <sub>⭐ 10.7k · Python</sub>
+- [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export. <sub>⭐ 10.6k · Python</sub>
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding <sub>⭐ 10.6k · Jupyter Notebook</sub>
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading <sub>⭐ 10.6k · Python</sub>
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) <sub>⭐ 10.5k · Python</sub>
+- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector <sub>⭐ 10.3k · Python</sub>
+- [fossasia/visdom](https://github.com/fossasia/visdom) - Tool for real-time visualization, monitoring and collaborative analysis of AI/ML experiments and live data. Supports Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev <sub>⭐ 10.3k · Python</sub>
+- [advimman/lama](https://github.com/advimman/lama) - LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 <sub>⭐ 10.3k · Jupyter Notebook</sub>
+- [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery <sub>⭐ 10.3k</sub>
+- [mozilla/TTS](https://github.com/mozilla/TTS) - Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts) <sub>⭐ 10.2k · Jupyter Notebook</sub>
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <sub>⭐ 10.1k · Jupyter Notebook</sub>
+- [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series <sub>⭐ 10.1k · Python</sub>
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server <sub>⭐ 10.0k · Python</sub>
+- [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit <sub>⭐ 10.0k · Python</sub>
+- [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data <sub>⭐ 10.0k · Python</sub>
+- [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark. <sub>⭐ 10.0k · Python</sub>
+- [huggingface/accelerate](https://github.com/huggingface/accelerate) - A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support <sub>⭐ 9.9k · Python</sub>
+- [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. <sub>⭐ 9.9k · Python</sub>
+- [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - A PyTorch implementation of the Transformer model in "Attention is All You Need". <sub>⭐ 9.8k · Python</sub>
+- [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3… <sub>⭐ 9.7k · Jupyter Notebook</sub>
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others) <sub>⭐ 9.6k · Python</sub>
+- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified… <sub>⭐ 9.6k · Python</sub>
+- [tflearn/tflearn](https://github.com/tflearn/tflearn) - Libreria di apprendimento profonda con un'API di livello superiore per TensorFlow. <sub>⭐ 9.6k · Python</sub>
+- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! <sub>⭐ 9.5k · Python</sub>
+- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source. <sub>⭐ 9.5k · Python</sub>
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning <sub>⭐ 9.5k · Go</sub>
+- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection. <sub>⭐ 9.4k · C</sub>
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM! <sub>⭐ 9.4k · Python</sub>
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET. <sub>⭐ 9.4k · C#</sub>
+- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features. <sub>⭐ 9.3k · Python</sub>
+- [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning <sub>⭐ 9.3k · Python</sub>
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake è AI Data Runtime per gli agenti, fornisce postgres senza server con un datalake multimodale che consente il recupero scalabile e la formazione. <sub>⭐ 9.2k · C++</sub>
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer <sub>⭐ 9.2k · Python</sub>
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports… <sub>⭐ 9.1k · C++</sub>
+- [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc. <sub>⭐ 9.1k · Python</sub>
+- [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch <sub>⭐ 9.1k · Python</sub>
+- [MITDeepLearning/introtodeeplearning](https://github.com/MITDeepLearning/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning <sub>⭐ 8.8k · Jupyter Notebook</sub>
+- [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging <sub>⭐ 8.7k · Python</sub>
+- [ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard <sub>⭐ 8.7k · Jupyter Notebook</sub>
+- [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice : a Multi-Voice and Prompt-Controlled TTS Engine <sub>⭐ 8.5k · Python</sub>
+- [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch. <sub>⭐ 8.5k · Python</sub>
+- [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning <sub>⭐ 8.5k · Python</sub>
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All. <sub>⭐ 8.5k · Python</sub>
+- [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch <sub>⭐ 8.4k · Python</sub>
+- [utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - Pytorch implementation of convolutional neural network visualization techniques <sub>⭐ 8.2k · Python</sub>
+- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet <sub>⭐ 8.2k · Python</sub>
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models <sub>⭐ 8.2k · Python</sub>
+- [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn <sub>⭐ 8.1k · Python</sub>
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source. <sub>⭐ 8.1k · Python</sub>
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. <sub>⭐ 8.0k · Python</sub>
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch. <sub>⭐ 8.0k · Python</sub>
+- [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...) <sub>⭐ 8.0k · Python</sub>
+- [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech <sub>⭐ 7.9k · Python</sub>
+- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages <sub>⭐ 7.9k · Python</sub>
+- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM <sub>⭐ 7.9k · Python</sub>
+- [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion <sub>⭐ 7.7k · Jupyter Notebook</sub>
+- [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering <sub>⭐ 7.7k · Python</sub>
+- [AntixK/PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE) - A Collection of Variational Autoencoders (VAE) in PyTorch. <sub>⭐ 7.7k · Python</sub>
+- [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - 2D and 3D Face alignment library build using pytorch <sub>⭐ 7.5k · Python</sub>
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code. <sub>⭐ 7.5k · Python</sub>
+- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net)… <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [wiseodd/generative-models](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow. <sub>⭐ 7.5k · Python</sub>
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic : Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image… <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3 <sub>⭐ 7.4k · Python</sub>
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers <sub>⭐ 7.4k · Python</sub>
+- [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing <sub>⭐ 7.4k · Python</sub>
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool <sub>⭐ 7.3k · TypeScript</sub>
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. <sub>⭐ 7.3k · Jupyter Notebook</sub>
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI <sub>⭐ 7.3k · Shell</sub>
+- [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource <sub>⭐ 7.2k · Jupyter Notebook</sub>
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning. <sub>⭐ 7.2k · Python</sub>
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy <sub>⭐ 7.2k · Jupyter Notebook</sub>
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework <sub>⭐ 7.2k · Python</sub>
+- [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and… <sub>⭐ 7.1k · Rust</sub>
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models <sub>⭐ 7.0k · Python</sub>
+- [OpenNMT/OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Traduzione e (Large) Modelli di lingua in PyTorch <sub>⭐ 7.0k · Python</sub>
+- [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots. <sub>⭐ 7.0k · Python</sub>
+- [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning. <sub>⭐ 7.0k · C++</sub>
+- [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs <sub>⭐ 6.9k · Python</sub>
+- [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020 <sub>⭐ 6.8k · Jupyter Notebook</sub>
+- [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. <sub>⭐ 6.7k · Python</sub>
+- [FoundationVision/ByteTrack](https://github.com/FoundationVision/ByteTrack) - (ECCV 2022) ByteTrack: Multi-Object Tracking by Associating Every Detection Box <sub>⭐ 6.7k · Python</sub>
+- [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild <sub>⭐ 6.6k · Jupyter Notebook</sub>
+- [open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection. <sub>⭐ 6.5k · Python</sub>
+- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving <sub>⭐ 6.5k · Cuda</sub>
+- [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation <sub>⭐ 6.5k · Python</sub>
+- [zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021. <sub>⭐ 6.5k · Python</sub>
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT <sub>⭐ 6.5k · C++</sub>
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku <sub>⭐ 6.4k · Python</sub>
+- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k. <sub>⭐ 6.4k · Python</sub>
+- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models <sub>⭐ 6.4k · Python</sub>
+- [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning <sub>⭐ 6.4k · Python</sub>
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch. <sub>⭐ 6.3k · Python</sub>
+- [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning. <sub>⭐ 6.3k · TypeScript</sub>
+- [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds. <sub>⭐ 6.3k · Python</sub>
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — An easy-to-use & supercharged open-source experiment tracker. <sub>⭐ 6.3k · Python</sub>
+- [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus Super fast and lightweight anchor-free object detection model. Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone <sub>⭐ 6.3k · Python</sub>
+- [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. <sub>⭐ 6.3k · Python</sub>
+- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch <sub>⭐ 6.2k · Jupyter Notebook</sub>
+- [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch is delicious, just eat it! <sub>⭐ 6.2k · Jupyter Notebook</sub>
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple <sub>⭐ 6.1k · Jupyter Notebook</sub>
+- [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Python Pytorch fastai / State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai <sub>⭐ 6.1k · Jupyter Notebook</sub>
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes <sub>⭐ 6.1k · Go</sub>
+- [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results. <sub>⭐ 6.1k · Python</sub>
+- [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation. <sub>⭐ 6.0k · Jupyter Notebook</sub>
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - A programmable Mixture-of-Models router for heterogeneous LLM inference <sub>⭐ 6.0k · Go</sub>
+- [p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments <sub>⭐ 5.9k · Python</sub>
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. <sub>⭐ 5.9k · Jupyter Notebook</sub>
+- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters <sub>⭐ 5.8k · Jupyter Notebook</sub>
+- [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK… <sub>⭐ 5.8k · Python</sub>
+- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native platform for training generative AI models <sub>⭐ 5.8k · Python</sub>
+- [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. <sub>⭐ 5.8k · C++</sub>
+- [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection. <sub>⭐ 5.7k · Python</sub>
+- [biolab/orange3](https://github.com/biolab/orange3) - Orange: Interactive data analysis <sub>⭐ 5.7k · Python</sub>
+- [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText. <sub>⭐ 5.7k · Jupyter Notebook</sub>
+- [meta-pytorch/captum](https://github.com/meta-pytorch/captum) - Model interpretability and understanding for PyTorch <sub>⭐ 5.7k · Python</sub>
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai. <sub>⭐ 5.7k · Python</sub>
+- [idealo/imagededup](https://github.com/idealo/imagededup) - Finding duplicate images made easy! <sub>⭐ 5.7k · Python</sub>
+- [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) <sub>⭐ 5.6k · Python</sub>
+- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch <sub>⭐ 5.6k · Python</sub>
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML: Una piattaforma AI da Pipelines agli Agenti. https://zenml.io. <sub>⭐ 5.6k · Python</sub>
+- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - (CVPR 2024) Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. <sub>⭐ 5.6k · Python</sub>
+- [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots <sub>⭐ 5.5k · Python</sub>
+- [udacity/deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101 <sub>⭐ 5.5k · Jupyter Notebook</sub>
+- [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training <sub>⭐ 5.5k · Python</sub>
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI <sub>⭐ 5.5k · Python</sub>
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch. <sub>⭐ 5.5k · Rust</sub>
+- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation. <sub>⭐ 5.4k · Python</sub>
+- [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn <sub>⭐ 5.4k · Jupyter Notebook</sub>
+- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation. <sub>⭐ 5.4k · Python</sub>
+- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step <sub>⭐ 5.3k · Jupyter Notebook</sub>
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Quadro end-to-end per la costruzione di applicazioni e agenti AI personalizzati. <sub>⭐ 5.3k · Python</sub>
+- [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference <sub>⭐ 5.3k · Jupyter Notebook</sub>
+- [yunjey/stargan](https://github.com/yunjey/stargan) - StarGAN - Official PyTorch Implementation (CVPR 2018) <sub>⭐ 5.3k · Python</sub>
+- [awslabs/gluonts](https://github.com/awslabs/gluonts) - Probabilistic time series modeling in Python <sub>⭐ 5.2k · Python</sub>
+- [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit <sub>⭐ 5.2k · Python</sub>
+- [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation. <sub>⭐ 5.2k · Python</sub>
+- [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann. <sub>⭐ 5.2k · Jupyter Notebook</sub>
+- [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights. <sub>⭐ 5.2k · Jupyter Notebook</sub>
+- [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector <sub>⭐ 5.2k · Python</sub>
+- [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model! <sub>⭐ 5.2k · Python</sub>
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research <sub>⭐ 5.2k · Python</sub>
+- [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program <sub>⭐ 5.2k · Jupyter Notebook</sub>
+- [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models <sub>⭐ 5.2k · Python</sub>
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for… <sub>⭐ 5.2k · Python</sub>
+- [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2) - OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark <sub>⭐ 5.2k · Python</sub>
+- [victoresque/pytorch-template](https://github.com/victoresque/pytorch-template) - PyTorch deep learning projects made easy. <sub>⭐ 5.1k · Python</sub>
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model. <sub>⭐ 5.1k · Python</sub>
+- [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset <sub>⭐ 5.1k · Python</sub>
+- [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch <sub>⭐ 5.1k · Python</sub>
+- [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - The "Python Machine Learning (3rd edition)" book code repository <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques. <sub>⭐ 5.0k · Jupyter Notebook</sub>
+- [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) - Time series forecasting with PyTorch <sub>⭐ 5.0k · Python</sub>
+- [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch) - PointNet and PointNet++ implemented by pytorch (pure python) and on ModelNet, ShapeNet and S3DIS. <sub>⭐ 5.0k · Python</sub>
+- [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research <sub>⭐ 4.9k · Python</sub>
+- [KaiyangZhou/deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) - Torchreid: Deep learning person re-identification in PyTorch. <sub>⭐ 4.9k · Python</sub>
+- [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai <sub>⭐ 4.9k · Jupyter Notebook</sub>
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning. <sub>⭐ 4.9k · Python</sub>
+- [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced… <sub>⭐ 4.9k</sub>
+- [jonkrohn/ML-foundations](https://github.com/jonkrohn/ML-foundations) - Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science <sub>⭐ 4.9k · Jupyter Notebook</sub>
+- [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter <sub>⭐ 4.9k · Python</sub>
+- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T <sub>⭐ 4.9k · Jupyter Notebook</sub>
+- [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java <sub>⭐ 4.9k · Java</sub>
+- [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. <sub>⭐ 4.8k · Python</sub>
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models <sub>⭐ 4.8k · Go</sub>
+- [weiaicunzai/pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100) - Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet… <sub>⭐ 4.8k · Python</sub>
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering <sub>⭐ 4.8k · Python</sub>
+- [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) <sub>⭐ 4.8k · Python</sub>
+- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework. <sub>⭐ 4.8k · Rust</sub>
+- [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox <sub>⭐ 4.8k · Python</sub>
+- [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video. <sub>⭐ 4.7k · Python</sub>
+- [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. <sub>⭐ 4.7k · PowerShell</sub>
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU. <sub>⭐ 4.7k · Jupyter Notebook</sub>
+- [hyunwoongko/transformer](https://github.com/hyunwoongko/transformer) - Transformer: PyTorch Implementation of "Attention Is All You Need" <sub>⭐ 4.7k · Python</sub>
+- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its… <sub>⭐ 4.7k · C++</sub>
+- [sweetice/Deep-reinforcement-learning-with-pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch) - PyTorch implementation of DQN, AC, ACER, A2C, A3C, PG, DDPG, TRPO, PPO, SAC, TD3 and .... <sub>⭐ 4.7k · Python</sub>
+- [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper. <sub>⭐ 4.7k · Jupyter Notebook</sub>
+- [duoan/TorchCode](https://github.com/duoan/TorchCode) - LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online. <sub>⭐ 4.6k · Jupyter Notebook</sub>
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8)… <sub>⭐ 4.6k · Python</sub>
+- [bentrevett/pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) - Tutorials on getting started with PyTorch and TorchText for sentiment analysis. <sub>⭐ 4.6k · Jupyter Notebook</sub>
+- [tensorflow/datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ... <sub>⭐ 4.6k · Python</sub>
+- [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library <sub>⭐ 4.6k · Python</sub>
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework <sub>⭐ 4.5k · C++</sub>
+- [modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) - An AI-Powered Speech Processing Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Enhancement, Separation, and Target Speaker Extraction, etc. <sub>⭐ 4.5k · Python</sub>
+- [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device <sub>⭐ 4.5k · C++</sub>
+- [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4 <sub>⭐ 4.5k · Python</sub>
+- [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more <sub>⭐ 4.5k · Jupyter Notebook</sub>
+- [nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2) - (ICCV 2019) Monocular depth estimation from a single image <sub>⭐ 4.5k · Jupyter Notebook</sub>
+- [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. <sub>⭐ 4.5k · Python</sub>
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - (EMNLP 2022) An Open Toolkit for Knowledge Graph Extraction and Construction <sub>⭐ 4.5k · Python</sub>
+- [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation" <sub>⭐ 4.5k · Cuda</sub>
+- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning and physics-informed learning <sub>⭐ 4.4k · Python</sub>
+- [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. <sub>⭐ 4.4k · Python</sub>
+- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP. <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [janhuenermann/neurojs](https://github.com/janhuenermann/neurojs) - A JavaScript deep learning and reinforcement learning library. <sub>⭐ 4.4k · JavaScript</sub>
+- [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit. <sub>⭐ 4.0k · C++</sub>
+- [danijar/dreamerv3](https://github.com/danijar/dreamerv3) - Mastering Diverse Domains through World Models <sub>⭐ 3.8k · Python</sub>
+- [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond <sub>⭐ 3.8k · Python</sub>
+- [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series <sub>⭐ 3.8k · Jupyter Notebook</sub>
+- [astroautomata/PySR](https://github.com/astroautomata/PySR) - Symbolic Learning in Python and Julia <sub>⭐ 3.8k · Python</sub>
+- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - Articles I wrote about machine learning, archived from MachineCurve.com. <sub>⭐ 3.7k</sub>
+- [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python. <sub>⭐ 3.6k</sub>
+- [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research. <sub>⭐ 3.6k · Python</sub>
+- [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance… <sub>⭐ 3.6k · Python</sub>
+- [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning <sub>⭐ 3.6k · Python</sub>
+- [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - IDE basato su web all-in-one specializzato per l'apprendimento automatico e la scienza dei dati. <sub>⭐ 3.5k · Jupyter Notebook</sub>
+- [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference. <sub>⭐ 3.5k · Python</sub>
+- [fnnx-ai/scikit-llm](https://github.com/fnnx-ai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn. <sub>⭐ 3.5k · Python</sub>
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation. <sub>⭐ 3.5k · Python</sub>
+- [hmmlearn/hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API <sub>⭐ 3.4k · Python</sub>
+- [tirthajyoti/Machine-Learning-with-Python](https://github.com/tirthajyoti/Machine-Learning-with-Python) - Practice and tutorial-style notebooks covering wide variety of machine learning techniques <sub>⭐ 3.3k · Jupyter Notebook</sub>
+- [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation <sub>⭐ 3.3k · Python</sub>
+- [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku) - JAX-based neural network library <sub>⭐ 3.3k · Python</sub>
+- [fchollet/keras-resources](https://github.com/fchollet/keras-resources) - Directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library <sub>⭐ 3.3k</sub>
+- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware. <sub>⭐ 3.2k · Jupyter Notebook</sub>
+- [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place <sub>⭐ 3.2k</sub>
+- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023 <sub>⭐ 3.2k · Jupyter Notebook</sub>
+- [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation. <sub>⭐ 3.2k · Jupyter Notebook</sub>
+- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code <sub>⭐ 3.1k · Python</sub>
+- [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Trasforma i modelli ML in un codice nativo (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F #, Rust) con zero dipendenze <sub>⭐ 3.0k · Python</sub>
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox <sub>⭐ 3.0k · Python</sub>
+- [bethgelab/foolbox](https://github.com/bethgelab/foolbox) - A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX <sub>⭐ 3.0k · Python</sub>
+- [explosion/thinc](https://github.com/explosion/thinc) - A refreshing functional take on deep learning, compatible with your favorite libraries <sub>⭐ 2.9k · Python</sub>
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [susanli2016/NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU. <sub>⭐ 2.8k · Python</sub>
+- [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions. <sub>⭐ 2.7k · Python</sub>
+- [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning <sub>⭐ 2.7k · Python</sub>
+- [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX <sub>⭐ 2.7k · Python</sub>
+- [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old. <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. <sub>⭐ 2.5k · Python</sub>
+- [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn <sub>⭐ 2.5k · Python</sub>
+- [google-parfait/tensorflow-federated](https://github.com/google-parfait/tensorflow-federated) - An open-source framework for machine learning and other computations on decentralized data. <sub>⭐ 2.5k · Python</sub>
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant, and scalable Jax LLM! <sub>⭐ 2.4k · Python</sub>
+- [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects. <sub>⭐ 2.4k · Python</sub>
+- [dipanjanS/practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system. <sub>⭐ 2.4k · Jupyter Notebook</sub>
+- [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library <sub>⭐ 2.4k · Python</sub>
+- [modAL-python/modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python <sub>⭐ 2.4k · Python</sub>
+- [google-deepmind/optax](https://github.com/google-deepmind/optax) - Optax is a gradient processing and optimization library for JAX. <sub>⭐ 2.3k · Python</sub>
+- [achillesrasquinha/bulbea](https://github.com/achillesrasquinha/bulbea) - Deep Learning based Python Library for Stock Market Prediction and Modelling <sub>⭐ 2.3k · Python</sub>
+- [AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast) - Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting). <sub>⭐ 2.3k · Python</sub>
+- [feature-engine/feature_engine](https://github.com/feature-engine/feature_engine) - Feature engineering and selection open-source Python library compatible with sklearn. <sub>⭐ 2.3k · Python</sub>
+- [azavea/raster-vision](https://github.com/azavea/raster-vision) - An open source library and framework for deep learning on satellite and aerial imagery. <sub>⭐ 2.2k · Python</sub>
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and LLM Fine-Tuning on Kubernetes <sub>⭐ 2.2k · Go</sub>
+- [thu-ml/zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow <sub>⭐ 2.2k · Python</sub>
+- [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language. <sub>⭐ 2.2k · PHP</sub>
+- [tensorflow/quantum](https://github.com/tensorflow/quantum) - An open-source Python framework for hybrid quantum-classical machine learning. <sub>⭐ 2.2k · Python</sub>
+- [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources https://github.com/google/jax <sub>⭐ 2.2k</sub>
+- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax <sub>⭐ 2.1k · Python</sub>
+- [ageron/handson-mlp](https://github.com/ageron/handson-mlp) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries. <sub>⭐ 2.1k · Jupyter Notebook</sub>
+- [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS) - A Python toolkit/library for reality-centric machine/deep learning & data mining on partially-observed time series, with 50+ SOTA neural network models for scientific analysis tasks (imputation… <sub>⭐ 2.1k · Python</sub>
+- [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit) - A deep learning package for many-body potential energy representation and molecular dynamics <sub>⭐ 2.1k · Python</sub>
+- [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research <sub>⭐ 2.0k · Python</sub>
+- [robertmartin8/MachineLearningStocks](https://github.com/robertmartin8/MachineLearningStocks) - Using python and scikit-learn to make stock predictions <sub>⭐ 2.0k · Python</sub>
+- [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework <sub>⭐ 1.9k · Julia</sub>
+- [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning <sub>⭐ 1.9k · Python</sub>
+- [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request. <sub>⭐ 1.9k · Python</sub>
+- [szilard/benchm-ml](https://github.com/szilard/benchm-ml) - A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning… <sub>⭐ 1.9k · R</sub>
+- [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch… <sub>⭐ 1.9k · Python</sub>
+- [stanfordmlgroup/ngboost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [trevorstephens/gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python, with a scikit-learn inspired API <sub>⭐ 1.9k · Python</sub>
+- [yang-song/score_sde](https://github.com/yang-song/score_sde) - Official code for Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021, Oral) <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [GauravBh1010tt/DeepLearn](https://github.com/GauravBh1010tt/DeepLearn) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn. <sub>⭐ 1.8k · Python</sub>
+- [edyoda/data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial) - For extensive instructor led learning <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [THUDM/CogDL](https://github.com/THUDM/CogDL) - CogDL: A Comprehensive Library for Graph Deep Learning (WWW 2023) <sub>⭐ 1.8k · Python</sub>
+- [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime) - Magenta RealTime 2: An Open-Weights Live Music Model <sub>⭐ 1.8k · Python</sub>
+- [KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost](https://github.com/KEV0143/Comparative-analysis-of-hourly-load-forecasting-using-PatchTST-TFT-NHiTS-and-CatBoost) - A comprehensive time-series benchmark evaluating state-of-the-art deep learning architectures (PatchTST, TFT, N-HiTS) against traditional gradient boosting (CatBoost) for accurate 24-hour load… <sub>⭐ 1.8k · Python</sub>
+- [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - 50 scikit-learn tips <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning (SIGGRAPH 2020) <sub>⭐ 1.7k · Python</sub>
+- [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes <sub>⭐ 1.7k · Python</sub>
+- [dipanjanS/text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python) - Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text… <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [tensorly/tensorly](https://github.com/tensorly/tensorly) - TensorLy: Tensor Learning in Python. <sub>⭐ 1.7k · Python</sub>
+- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and… <sub>⭐ 1.7k · Julia</sub>
+- [takuseno/d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library <sub>⭐ 1.7k · Python</sub>
+- [mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum) - A PyTorch-based framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum… <sub>⭐ 1.7k · Jupyter Notebook</sub>
+- [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - (UNMAINTAINED) Automated machine learning for analytics & production <sub>⭐ 1.7k · Python</sub>
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go <sub>⭐ 1.6k · Go</sub>
+- [csinva/imodels](https://github.com/csinva/imodels) - Interpretable ML package for concise, transparent, and accurate predictive modeling (sklearn-compatible). <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [justmarkham/DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [scikit-learn-contrib/MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - A scikit-learn-compatible library for estimating prediction intervals and controlling risks, based on conformal predictions. <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [ogrisel/parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial) - Tutorial on scikit-learn and IPython for parallel machine learning <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production <sub>⭐ 1.5k · Scala</sub>
+- [DeqianBai/Hands-on-Machine-Learning](https://github.com/DeqianBai/Hands-on-Machine-Learning) - A series of Jupyter notebooks with Chinese comment that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [skforecast/skforecast](https://github.com/skforecast/skforecast) - Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models <sub>⭐ 1.5k · Python</sub>
+- [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models <sub>⭐ 1.5k · Python</sub>
+- [jax-ml/scaling-book](https://github.com/jax-ml/scaling-book) - Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs <sub>⭐ 1.5k · SCSS</sub>
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for time series machine learning and deep learning <sub>⭐ 1.5k · Python</sub>
+- [zama-ai/concrete-ml](https://github.com/zama-ai/concrete-ml) - Concrete ML: Privacy Preserving ML framework using Fully Homomorphic Encryption (FHE), built on top of Concrete, with bindings to traditional ML frameworks. <sub>⭐ 1.5k · Python</sub>
+- [scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric learning algorithms in Python <sub>⭐ 1.4k · Python</sub>
+- [sajal2692/data-science-portfolio](https://github.com/sajal2692/data-science-portfolio) - Portfolio of data science projects completed by me for academic, self learning, and hobby purposes. <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [apple-aiml-research/ml-aim](https://github.com/apple-aiml-research/ml-aim) - This repository provides the code and model checkpoints for AIMv1 and AIMv2 research projects. <sub>⭐ 1.4k · Python</sub>
+- [INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc) - Machine learning in Python with scikit-learn MOOC <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [koaning/scikit-lego](https://github.com/koaning/scikit-lego) - Extra blocks for scikit-learn pipelines. <sub>⭐ 1.4k · Python</sub>
+- [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends <sub>⭐ 1.4k · Nim</sub>
+- [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - A web app to generate template code for machine learning <sub>⭐ 1.4k · Python</sub>
+- [kengz/SLM-Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book "Foundations of Deep Reinforcement Learning". <sub>⭐ 1.4k · Python</sub>
+- [uxlfoundation/scikit-learn-intelex](https://github.com/uxlfoundation/scikit-learn-intelex) - Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application <sub>⭐ 1.4k · Python</sub>
+- [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star If it helps you. BONUS: Interview Bank coming up..! <sub>⭐ 1.3k · Python</sub>
+- [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn <sub>⭐ 1.3k · Python</sub>
+- [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors <sub>⭐ 1.3k · C++</sub>
+- [nok/sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others. <sub>⭐ 1.3k · Python</sub>
+- [pfnet/pfrl](https://github.com/pfnet/pfrl) - PFRL: a PyTorch-based deep reinforcement learning library <sub>⭐ 1.3k · Python</sub>
+- [amaiya/ktrain](https://github.com/amaiya/ktrain) - ktrain is a Python library that makes deep learning and AI more accessible and easier to apply <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [reiinakano/xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python. <sub>⭐ 1.3k · Python</sub>
+- [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python <sub>⭐ 1.3k · Python</sub>
+- [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) - HackGPT Enterprise is a production-ready, cloud-native AI-powered penetration testing platform designed for enterprise security teams. It combines advanced AI, machine learning, microservices… <sub>⭐ 1.3k · Python</sub>
+- [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow <sub>⭐ 1.2k · Python</sub>
+- [pdebench/PDEBench](https://github.com/pdebench/PDEBench) - PDEBench: An Extensive Benchmark for Scientific Machine Learning <sub>⭐ 1.2k · Python</sub>
+- [chainer/chainerrl](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer. <sub>⭐ 1.2k · Python</sub>
+- [kkyon/botflow](https://github.com/kkyon/botflow) - Python Fast Dataflow programming framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc) <sub>⭐ 1.2k · Python</sub>
+- [ashishpatel26/Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [VoltaML/voltaML](https://github.com/VoltaML/voltaML) - VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM. <sub>⭐ 1.2k · Python</sub>
+- [onnx/onnxmltools](https://github.com/onnx/onnxmltools) - ONNXMLTools enables conversion of models to ONNX <sub>⭐ 1.2k · Python</sub>
+- [SuperBruceJia/EEG-DL](https://github.com/SuperBruceJia/EEG-DL) - A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow. <sub>⭐ 1.2k · Python</sub>
+- [hannes-brt/hebel](https://github.com/hannes-brt/hebel) - Libreria di apprendimento approfondito su GPU-Accelerated in Python <sub>⭐ 1.2k · Python</sub>
+- [alexandre01/deepsvg](https://github.com/alexandre01/deepsvg) - (NeurIPS 2020) Official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation". Includes a PyTorch library for deep learning with SVG data. <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits <sub>⭐ 1.2k · C++</sub>
+- [extropic-ai/thrml](https://github.com/extropic-ai/thrml) - Thermodynamic Hypergraphical Model Library in JAX <sub>⭐ 1.2k · Python</sub>
+- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications <sub>⭐ 1.2k · Assembly</sub>
+- [andrewkirillov/AForge.NET](https://github.com/andrewkirillov/AForge.NET) - AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms… <sub>⭐ 1.2k · C#</sub>
+- [NVIDIA-Merlin/NVTabular](https://github.com/NVIDIA-Merlin/NVTabular) - NVTabular is a feature engineering and preprocessing library for tabular data designed to quickly and easily manipulate terabyte scale datasets used to train deep learning based recommender systems. <sub>⭐ 1.2k · Python</sub>
+- [lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn <sub>⭐ 1.1k · Python</sub>
+- [THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs. <sub>⭐ 1.1k · Python</sub>
+- [fff-rs/juice](https://github.com/fff-rs/juice) - The Hacker's Machine Learning Engine <sub>⭐ 1.1k · Rust</sub>
+- [microsoft/Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning) - Samples and Tools for Windows ML. <sub>⭐ 1.1k · C++</sub>
+- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations <sub>⭐ 1.1k · Python</sub>
+- [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research. <sub>⭐ 1.1k · Python</sub>
+- [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, MuJoCo Playground and other environments <sub>⭐ 1.1k · Python</sub>
+- [agi-brain/xuance](https://github.com/agi-brain/xuance) - XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library <sub>⭐ 1.1k · Python</sub>
+- [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework) - Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications. <sub>⭐ 1.1k · Java</sub>
+- [Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow) - Notes & exercise solutions of Part I from the book: "Hands-On ML with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems" by Aurelien Geron <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [google/jaxopt](https://github.com/google/jaxopt) - Hardware accelerated, batchable and differentiable optimizers in JAX. <sub>⭐ 1.1k · Python</sub>
+- [dataprofessor/code](https://github.com/dataprofessor/code) - Compilation of R and Python programming codes on the Data Professor YouTube channel. <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [benedekrozemberczki/awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations. <sub>⭐ 1.1k · Python</sub>
+- [Kismuz/btgym](https://github.com/Kismuz/btgym) - Scalable, event-driven, deep-learning-friendly backtesting library <sub>⭐ 1.0k · Python</sub>
+- [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library <sub>⭐ 1.0k · C++</sub>
+- [probml/dynamax](https://github.com/probml/dynamax) - A Python package for probabilistic state space modeling with JAX <sub>⭐ 1.0k · Python</sub>
+- [mni-ml/framework](https://github.com/mni-ml/framework) - A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU compatibility. Built to understand how ML frameworks and models work internally. <sub>⭐ 1.0k · Rust</sub>
+- [giotto-ai/giotto-tda](https://github.com/giotto-ai/giotto-tda) - A high-performance topological machine learning toolbox in Python <sub>⭐ 1.0k · Python</sub>
+- [keras-team/keras-hub](https://github.com/keras-team/keras-hub) - Pretrained model hub for Keras 3. <sub>⭐ 992 · Python</sub>
+- [piEsposito/blitz-bayesian-deep-learning](https://github.com/piEsposito/blitz-bayesian-deep-learning) - A simple and extensible library to create Bayesian Neural Network layers on PyTorch. <sub>⭐ 986 · Python</sub>
+- [libxsmm/libxsmm](https://github.com/libxsmm/libxsmm) - Library for specialized dense and sparse matrix operations, and deep learning primitives. <sub>⭐ 978 · C</sub>
+- [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. Facebook AI Hackathon winner #1 Trending on MadeWithML.com #4 Trending JavaScript Project on GitHub #15 Trending (All Languages)… <sub>⭐ 976 · JavaScript</sub>
+- [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility. <sub>⭐ 955 · C++</sub>
+- [scikit-multilearn/scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification <sub>⭐ 954 · Python</sub>
+- [dnouri/nolearn](https://github.com/dnouri/nolearn) - Combines the ease of use of scikit-learn with the power of Theano/Lasagne <sub>⭐ 951 · Python</sub>
+- [instadeepai/Mava](https://github.com/instadeepai/Mava) - A research-friendly codebase for fast experimentation of multi-agent reinforcement learning in JAX <sub>⭐ 937 · Python</sub>
+- [ekzhang/jax-js](https://github.com/ekzhang/jax-js) - JAX in JavaScript – ML library for the web, running on WebGPU & Wasm <sub>⭐ 936 · TypeScript</sub>
+- [dusty-nv/jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement) - Deep reinforcement learning GPU libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator. <sub>⭐ 933 · C++</sub>
+- [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred) - alfred-py: A deep learning utility library for **human**, more detail about the usage of lib to: https://zhuanlan.zhihu.com/p/341446046 <sub>⭐ 914 · Python</sub>
+- [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin) - NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in… <sub>⭐ 908 · Python</sub>
+- [AmoDinho/datacamp-python-data-science-track](https://github.com/AmoDinho/datacamp-python-data-science-track) - All the slides, accompanying code and exercises all stored in this repo. <sub>⭐ 902 · Python</sub>
+- [mosecorg/mosec](https://github.com/mosecorg/mosec) - A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine <sub>⭐ 902 · Python</sub>
+- [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more <sub>⭐ 901 · Python</sub>
+- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework <sub>⭐ 900 · Python</sub>
+- [mila-iqia/fuel](https://github.com/mila-iqia/fuel) - A data pipeline framework for machine learning <sub>⭐ 871 · Python</sub>
+- [instadeepai/jumanji](https://github.com/instadeepai/jumanji) - A diverse suite of scalable reinforcement learning environments in JAX <sub>⭐ 865 · Python</sub>
+- [kymatio/kymatio](https://github.com/kymatio/kymatio) - Wavelet scattering transforms in Python with GPU acceleration <sub>⭐ 856 · Python</sub>
+- [bold-lab-ai/JaxMARL](https://github.com/bold-lab-ai/JaxMARL) - Multi-Agent Reinforcement Learning with JAX <sub>⭐ 854 · Python</sub>
+- [gmonce/scikit-learn-book](https://github.com/gmonce/scikit-learn-book) - Source code for the "Learning scikit-learn: Machine Learning in Python" <sub>⭐ 852 · Jupyter Notebook</sub>
+- [imageprocessor/cv4j](https://github.com/imageprocessor/cv4j) - The target is to set up a high quality and real-time image process and machine learning library which is implemented in pure java. The framework can run application on java desktop and android… <sub>⭐ 846 · Java</sub>
+- [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea. <sub>⭐ 833 · Jupyter Notebook</sub>
+- [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning <sub>⭐ 822 · Python</sub>
+- [maks-sh/scikit-uplift](https://github.com/maks-sh/scikit-uplift) - uplift modeling in scikit-learn style in python <sub>⭐ 818 · Python</sub>
+- [smellslikeml/ActionAI](https://github.com/smellslikeml/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints <sub>⭐ 812 · Python</sub>
+- [ashishpatel26/Amazing-Feature-Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering) - Feature engineering is the process of using domain knowledge to extract features from raw data via data mining techniques. These features can be used to improve the performance of machine learning… <sub>⭐ 809 · Jupyter Notebook</sub>
+- [parrt/tensor-sensor](https://github.com/parrt/tensor-sensor) - The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. <sub>⭐ 806 · Jupyter Notebook</sub>
+- [pyg-team/pytorch-frame](https://github.com/pyg-team/pytorch-frame) - Tabular Deep Learning Library for PyTorch <sub>⭐ 799 · Python</sub>
+- [scikit-multiflow/scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning package for streaming data in Python. The other ancestor of River. <sub>⭐ 798 · Python</sub>
+- [neoml-lib/neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms <sub>⭐ 797 · C++</sub>
+- [DoubleML/doubleml-for-py](https://github.com/DoubleML/doubleml-for-py) - DoubleML - Double Machine Learning in Python <sub>⭐ 792 · Python</sub>
+- [gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX) - The purpose of this repo is to make it easy to get started with JAX, Flax, and Haiku. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as… <sub>⭐ 790 · Jupyter Notebook</sub>
+- [google/grain](https://github.com/google/grain) - Library for reading and processing ML training data. <sub>⭐ 786 · Python</sub>
+- [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022) <sub>⭐ 785 · Python</sub>
+- [bayesflow-org/bayesflow](https://github.com/bayesflow-org/bayesflow) - A Python library for simulation-based inference with deep learning <sub>⭐ 773 · Python</sub>
+- [ankandrew/fast-plate-ocr](https://github.com/ankandrew/fast-plate-ocr) - Lightweight & fast OCR models for license plate text recognition. <sub>⭐ 767 · Python</sub>
+
+## 🎯 Training e fine-tuning
+
+> Fine-tuning di LLM, training distribuito e ottimizzazione.
+
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. <sub>⭐ 77.1k · Python</sub>
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Fine-Tuning unificato di 100+ LLM e VLM (ACL 2024) <sub>⭐ 75.3k · Python</sub>
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex è la piattaforma di elaborazione dei documenti per AI <sub>⭐ 52.4k · Python</sub>
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations <sub>⭐ 19.6k · Python</sub>
+- [xming521/WeClone](https://github.com/xming521/WeClone) - One-stop solution for creating your AI twin from chat history Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. <sub>⭐ 18.3k · Python</sub>
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval <sub>⭐ 15.0k · JavaScript</sub>
+- [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework <sub>⭐ 14.9k · Python</sub>
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. <sub>⭐ 12.6k · Python</sub>
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions <sub>⭐ 12.5k · Python</sub>
+- [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs <sub>⭐ 11.0k · Jupyter Notebook</sub>
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads. <sub>⭐ 10.3k · C++</sub>
+- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. <sub>⭐ 8.8k · C</sub>
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. <sub>⭐ 7.6k · Go</sub>
+- [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models. <sub>⭐ 7.6k · Jupyter Notebook</sub>
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. <sub>⭐ 6.1k · C++</sub>
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. <sub>⭐ 6.1k · Python</sub>
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. <sub>⭐ 5.6k · Python</sub>
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio <sub>⭐ 5.2k · Python</sub>
+- [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications. <sub>⭐ 5.0k</sub>
+- [amanchadha/coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep… <sub>⭐ 4.4k · Jupyter Notebook</sub>
+- [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models. <sub>⭐ 4.1k · Python</sub>
+- [FedML-AI/FedML](https://github.com/FedML-AI/FedML) - FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on… <sub>⭐ 4.1k · Python</sub>
+- [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - (ICLR2025, ICML2025, NeurIPS2025 Spotlight) Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models. <sub>⭐ 4.0k · Cuda</sub>
+- [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) - State-of-the-art LLM compression, built for production inference with vLLM <sub>⭐ 3.8k · Python</sub>
+- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <sub>⭐ 3.8k · Python</sub>
+- [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) - (MLSys 2024 Best Paper Award) AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration <sub>⭐ 3.6k · Python</sub>
+- [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master <sub>⭐ 3.5k · Python</sub>
+- [PaddlePaddle/PARL](https://github.com/PaddlePaddle/PARL) - A high-performance distributed training framework for Reinforcement Learning <sub>⭐ 3.5k · Python</sub>
+- [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - Just talk to your agent — it learns and EVOLVES . <sub>⭐ 3.5k · Python</sub>
+- [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods <sub>⭐ 3.3k · Python</sub>
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined è una piattaforma di apprendimento automatico open source che semplifica la formazione distribuita, l'ottimizzazione iperparametrica, il monitoraggio degli esperimenti e la gestione delle… <sub>⭐ 3.2k · Go</sub>
+- [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo <sub>⭐ 3.1k · Python</sub>
+- [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques. <sub>⭐ 3.1k · Jupyter Notebook</sub>
+- [ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [DLR-RM/rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) - A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included. <sub>⭐ 2.9k · Python</sub>
+- [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models <sub>⭐ 2.8k · TypeScript</sub>
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses… <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime <sub>⭐ 2.7k · Python</sub>
+- [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community… <sub>⭐ 2.7k · Python</sub>
+- [Memento-Teams/Memento](https://github.com/Memento-Teams/Memento) - Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs <sub>⭐ 2.6k · Python</sub>
+- [automl/Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch <sub>⭐ 2.5k · Python</sub>
+- [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) - A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and… <sub>⭐ 2.5k</sub>
+- [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time <sub>⭐ 2.4k · Jupyter Notebook</sub>
+- [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops <sub>⭐ 2.3k · Python</sub>
+- [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni) - VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo <sub>⭐ 2.2k · Python</sub>
+- [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM <sub>⭐ 2.2k · C</sub>
+- [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications <sub>⭐ 2.1k · Python</sub>
+- [cfregly/ai-performance-engineering](https://github.com/cfregly/ai-performance-engineering) - Code, labs, and resources for O'Reilly AI Systems Performance Engineering: GPU optimization, distributed training, inference scaling, and full-stack tuning. <sub>⭐ 2.0k · Python</sub>
+- [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance in Text-to-SQL <sub>⭐ 2.0k · Python</sub>
+- [flexflow/flexflow-train](https://github.com/flexflow/flexflow-train) - Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training <sub>⭐ 1.9k · C++</sub>
+- [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - (ICLR 2025) LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs <sub>⭐ 1.9k · Python</sub>
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production. <sub>⭐ 1.9k · Jupyter Notebook</sub>
+- [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Ultrafast serverless GPU inference, sandboxes, and background jobs <sub>⭐ 1.8k · Go</sub>
+- [NVIDIA-NeMo/Curator](https://github.com/NVIDIA-NeMo/Curator) - Scalable data pre processing and curation toolkit for LLMs <sub>⭐ 1.8k · Python</sub>
+- [0xSero/turboquant](https://github.com/0xSero/turboquant) - TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration <sub>⭐ 1.8k · Python</sub>
+- [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction <sub>⭐ 1.7k · Python</sub>
+- [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. <sub>⭐ 1.7k · Python</sub>
+- [google/vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service. <sub>⭐ 1.7k · Python</sub>
+- [LlamaEdge/LlamaEdge](https://github.com/LlamaEdge/LlamaEdge) - The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge <sub>⭐ 1.7k · Rust</sub>
+- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. PyTorch Ecosystem. 26 knowledge distillation methods presented at TPAMI, CVPR, ICLR, ECCV, NeurIPS, ICCV, AAAI, etc… <sub>⭐ 1.6k · Python</sub>
+- [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model <sub>⭐ 1.6k · C++</sub>
+- [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3) - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs <sub>⭐ 1.6k · Python</sub>
+- [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API. <sub>⭐ 1.4k · Python</sub>
+- [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI <sub>⭐ 1.4k · Python</sub>
+- [RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate token/s & GPU memory requirement for any LLM. Supports llama.cpp/ggml/bnb/QLoRA quantization <sub>⭐ 1.4k · JavaScript</sub>
+- [opendilab/DI-star](https://github.com/opendilab/DI-star) - An artificial intelligence platform for the StarCraft II with large-scale distributed training and grand-master agents. <sub>⭐ 1.4k · Python</sub>
+- [AutoArk/TinyEngram](https://github.com/AutoArk/TinyEngram) - Research of DeepSeek Engram Architecture based on Qwen-3 and Stable Diffusion series. <sub>⭐ 1.4k · Python</sub>
+- [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear) <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for… <sub>⭐ 1.3k · Python</sub>
+- [SakanaAI/text-to-lora](https://github.com/SakanaAI/text-to-lora) - Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input <sub>⭐ 1.3k · Python</sub>
+- [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel) - LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang. <sub>⭐ 1.3k · Python</sub>
+- [thu-ml/SpargeAttn](https://github.com/thu-ml/SpargeAttn) - (ICML2025) SpargeAttention: A training-free sparse attention that accelerates any model inference. <sub>⭐ 1.3k · Cuda</sub>
+- [automl/SMAC3](https://github.com/automl/SMAC3) - SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization <sub>⭐ 1.3k · Python</sub>
+- [KhoomeiK/LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine-tune LLM agents with online reinforcement learning <sub>⭐ 1.3k · Python</sub>
+- [AGI-Edgerunners/LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters) - Code for our EMNLP 2023 Paper: "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models" <sub>⭐ 1.2k · Python</sub>
+- [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra. <sub>⭐ 1.2k · Python</sub>
+- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation <sub>⭐ 1.2k · Python</sub>
+- [Bolin97/GongBU](https://github.com/Bolin97/GongBU) - Paper accepted by CIKM 2024. Codes of GongBU, a LLM fine-tuning platform for domain-specific adaptation. <sub>⭐ 1.2k · Svelte</sub>
+- [yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web… <sub>⭐ 1.2k · C</sub>
+- [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) - Neural Network Compression Framework for enhanced OpenVINO™ inference <sub>⭐ 1.2k · Python</sub>
+- [verl-project/verl-omni](https://github.com/verl-project/verl-omni) - Multimodal RL training framework for diffusion & omni models <sub>⭐ 1.2k · Python</sub>
+- [IST-DASLab/marlin](https://github.com/IST-DASLab/marlin) - FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 16-32 tokens. <sub>⭐ 1.2k · Python</sub>
+- [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of RAG Retrieval, including Embedding, ColBERT, ReRanker. <sub>⭐ 1.1k · Python</sub>
+- [datadreamer-dev/DataDreamer](https://github.com/datadreamer-dev/DataDreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models. <sub>⭐ 1.1k · Python</sub>
+- [Tencent/TencentPretrain](https://github.com/Tencent/TencentPretrain) - Tencent Pre-training framework in PyTorch & Pre-trained Model Zoo <sub>⭐ 1.1k · Python</sub>
+- [open-gigaai/giga-train](https://github.com/open-gigaai/giga-train) - GigaTrain: An Efficient and Scalable Training Framework for AI Models <sub>⭐ 1.1k · Python</sub>
+- [volcengine/veScale](https://github.com/volcengine/veScale) - Byted PyTorch Distributed for Hyperscale Training of LLMs and RLs <sub>⭐ 1.0k · Python</sub>
+- [allegro/allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch. <sub>⭐ 1.0k · Python</sub>
+- [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support <sub>⭐ 989 · Python</sub>
+- [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques! <sub>⭐ 983</sub>
+- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs <sub>⭐ 978 · Jupyter Notebook</sub>
+- [mit-han-lab/TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) - TinyChatEngine: On-Device LLM Inference Library <sub>⭐ 967 · C++</sub>
+- [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) - A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking. <sub>⭐ 966 · HTML</sub>
+- [dropbox/hqq](https://github.com/dropbox/hqq) - Official implementation of Half-Quadratic Quantization (HQQ) <sub>⭐ 960 · Python</sub>
+- [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x faster training through evolutionary hyperparameter optimization. <sub>⭐ 955 · Python</sub>
+- [OpenGVLab/OmniQuant](https://github.com/OpenGVLab/OmniQuant) - (ICLR2024 spotlight) OmniQuant is a simple and powerful quantization technique for LLMs. <sub>⭐ 955 · Python</sub>
+- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma… <sub>⭐ 946 · Jupyter Notebook</sub>
+- [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - Toolkit for fine-tuning, ablating and unit-testing open-source LLMs. <sub>⭐ 870 · Python</sub>
+- [dvgodoy/FineTuningLLMs](https://github.com/dvgodoy/FineTuningLLMs) - Official repository of my book "A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face" <sub>⭐ 869 · Jupyter Notebook</sub>
+- [mit-han-lab/omniserve](https://github.com/mit-han-lab/omniserve) - (MLSys'25) QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; (MLSys'25) LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention <sub>⭐ 862 · C++</sub>
+- [guan-yuan/Awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/Awesome-AutoML-and-Lightweight-Models) - A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.)… <sub>⭐ 855</sub>
+- [PrimeIntellect-ai/prime-diloco](https://github.com/PrimeIntellect-ai/prime-diloco) - prime is a framework for efficient, globally distributed training of AI models over the internet. <sub>⭐ 854 · Python</sub>
+- [invergent-ai/surogate](https://github.com/invergent-ai/surogate) - Train and serve LLMs at extreme speed and massive throughput. <sub>⭐ 846 · C++</sub>
+- [CHATS-lab/verbalized-sampling](https://github.com/CHATS-lab/verbalized-sampling) - Verbalized Sampling, a training-free prompting strategy to mitigate mode collapse in LLMs by requesting responses with probabilities. Achieves 2-3x diversity improvement while maintaining quality.… <sub>⭐ 813 · Python</sub>
+- [whitecircle/halo](https://github.com/whitecircle/halo) - Halo is an open-source framework built by White Circle for training large language and multimodal models <sub>⭐ 809 · Python</sub>
+- [Optim-Agent/optim-agent](https://github.com/Optim-Agent/optim-agent) - LLM agents as your hyperparameter optimizer. <sub>⭐ 800 · Python</sub>
+- [DaoyuanLi2816/can-i-finetune-this](https://github.com/DaoyuanLi2816/can-i-finetune-this) - Estimate whether a Hugging Face model fits and fine-tunes on your local GPU. <sub>⭐ 792 · Python</sub>
+
+## 🤖 AutoML e agenti di data science
+
+> Modellazione automatizzata e agenti che conducono esperimenti.
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering… <sub>⭐ 47.4k · Python</sub>
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery <sub>⭐ 14.6k · Jupyter Notebook</sub>
+- [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. <sub>⭐ 7.7k</sub>
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search <sub>⭐ 7.3k · Python</sub>
+- [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - PaperBanana: Automating Academic Illustration For AI Scientists <sub>⭐ 7.1k · Python</sub>
+- [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster. <sub>⭐ 5.4k · Python</sub>
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning <sub>⭐ 5.0k · Python</sub>
+- [EvoScientist/EvoScientist](https://github.com/EvoScientist/EvoScientist) - Harness Vibe Research with Self-evolving AI Scientists <sub>⭐ 5.0k · Python</sub>
+- [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models. <sub>⭐ 4.9k · Python</sub>
+- [py-why/EconML](https://github.com/py-why/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) è un progetto di Microsoft Research volto ad applicare concetti di intelligenza artificiale al processo decisionale… <sub>⭐ 4.8k · Jupyter Notebook</sub>
+- [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects <sub>⭐ 4.2k</sub>
+- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act conformity evidence, model validation, predictive maintenance, document… <sub>⭐ 4.0k · Python</sub>
+- [quark0/darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks <sub>⭐ 4.0k · Python</sub>
+- [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning <sub>⭐ 3.4k · Python</sub>
+- [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future. <sub>⭐ 3.3k · TypeScript</sub>
+- [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - A Hyperparameter Tuning Library for Keras <sub>⭐ 2.9k · Python</sub>
+- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications. <sub>⭐ 2.9k · Python</sub>
+- [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine <sub>⭐ 2.4k · Scala</sub>
+- [DeepInsight-AI/DeepBI](https://github.com/DeepInsight-AI/DeepBI) - LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI. <sub>⭐ 2.4k · Python</sub>
+- [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms. <sub>⭐ 2.4k · Python</sub>
+- [D-X-Y/Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) - Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis) <sub>⭐ 2.3k · Python</sub>
+- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning <sub>⭐ 2.3k · Scala</sub>
+- [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all) - (ICLR 2020) Once for All: Train One Network and Specialize it for Efficient Deployment <sub>⭐ 2.0k · Python</sub>
+- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) - Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. <sub>⭐ 2.0k · Python</sub>
+- [GoogleCloudPlatform/java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com <sub>⭐ 1.9k · Java</sub>
+- [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it. <sub>⭐ 1.9k · Python</sub>
+- [microsoft/Cream](https://github.com/microsoft/Cream) - This is a collection of our NAS and Vision Transformer work. <sub>⭐ 1.8k · Python</sub>
+- [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Democratizing AI scientists with ToolUniverse <sub>⭐ 1.7k · Python</sub>
+- [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System <sub>⭐ 1.7k · Python</sub>
+- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch. <sub>⭐ 1.6k · Python</sub>
+- [business-science/awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist) - A curated list of 100+ resources for building and deploying generative AI specifically focusing on helping you become a Generative AI Data Scientist with LLMs <sub>⭐ 1.6k</sub>
+- [D-X-Y/AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch. <sub>⭐ 1.6k · Python</sub>
+- [tobegit3hub/advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - An agentic Machine Learning Engineer <sub>⭐ 1.6k · Python</sub>
+- [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. <sub>⭐ 1.5k · Python</sub>
+- [sb-ai-lab/LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - Fast and customizable framework for automatic ML model creation (AutoML) <sub>⭐ 1.5k · Python</sub>
+- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models. <sub>⭐ 1.5k · Rust</sub>
+- [mit-han-lab/proxylessnas](https://github.com/mit-han-lab/proxylessnas) - (ICLR 2019) ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware <sub>⭐ 1.4k · C++</sub>
+- [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS) - Automated Time Series Forecasting <sub>⭐ 1.4k · Python</sub>
+- [MedMNIST/MedMNIST](https://github.com/MedMNIST/MedMNIST) - (pip install medmnist) 18x Standardized Datasets for 2D and 3D Biomedical Image Classification <sub>⭐ 1.4k · Python</sub>
+- [open-edge-platform/geti](https://github.com/open-edge-platform/geti) - Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported). <sub>⭐ 1.3k · Python</sub>
+- [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) - An AI co-scientist running on your desktop. Claude Science but better. <sub>⭐ 1.3k · TypeScript</sub>
+- [DeepWisdom/AutoDL](https://github.com/DeepWisdom/AutoDL) - Automated Deep Learning without ANY human intervention. 1'st Solution for AutoDL challenge@NeurIPS. <sub>⭐ 1.2k · Python</sub>
+- [polyuiislab/infiAgent](https://github.com/polyuiislab/infiAgent) - Build your own Cowork, AI Scientist and other SoTA Agents just by editing config files. Support anthropic skills. An infinite-horizon agent framework designed for long-running, complex tasks. <sub>⭐ 1.2k · Python</sub>
+- [serengil/tensorflow-101](https://github.com/serengil/tensorflow-101) - TensorFlow 101: Introduction to Deep Learning <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) - LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists) <sub>⭐ 1.1k</sub>
+- [google-research/morph-net](https://github.com/google-research/morph-net) - Fast & Simple Resource-Constrained Learning of Deep Network Structure <sub>⭐ 1.0k · Python</sub>
+- [joeddav/devol](https://github.com/joeddav/devol) - Early POC of genetic neural architecture search <sub>⭐ 953 · Python</sub>
+- [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources <sub>⭐ 944</sub>
+- [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product… <sub>⭐ 920 · Python</sub>
+- [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) - A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. <sub>⭐ 907 · TypeScript</sub>
+- [alteryx/evalml](https://github.com/alteryx/evalml) - EvalML is an AutoML library written in python. <sub>⭐ 850 · Python</sub>
+- [huawei-noah/vega](https://github.com/huawei-noah/vega) - AutoML tools chain <sub>⭐ 848 · Python</sub>
+- [zillow/luminaire](https://github.com/zillow/luminaire) - Luminaire is a python package that provides ML driven solutions for monitoring time series data. <sub>⭐ 811 · Python</sub>
+- [astroautomata/SymbolicRegression.jl](https://github.com/astroautomata/SymbolicRegression.jl) - Distributed High-Performance Symbolic Regression in Julia <sub>⭐ 806 · Julia</sub>
+- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines <sub>⭐ 799 · Jupyter Notebook</sub>
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. <sub>⭐ 792 · Jupyter Notebook</sub>
+
+## 🧪 MLOps, esperimenti e valutazione
+
+> Tracciamento degli esperimenti, versionamento e valutazione dei modelli.
+
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows <sub>⭐ 47.0k · Python</sub>
+- [PostHog/posthog](https://github.com/PostHog/posthog) - PostHog è la piattaforma leader per la costruzione di prodotti self-driving. I nostri strumenti di sviluppo – osservabilità AI, analisi, ripetizione delle sessioni, bandiere, esperimenti… <sub>⭐ 40.1k · Python</sub>
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. <sub>⭐ 39.6k · Python</sub>
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. <sub>⭐ 35.3k · TypeScript</sub>
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io <sub>⭐ 34.9k · Rust</sub>
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. <sub>⭐ 31.8k · Go</sub>
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format <sub>⭐ 28.4k · TypeScript</sub>
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while… <sub>⭐ 28.2k · Python</sub>
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line… <sub>⭐ 25.7k · TypeScript</sub>
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. <sub>⭐ 22.3k · Python</sub>
+- [jina-ai/serve](https://github.com/jina-ai/serve) - Build multimodal AI applications with cloud-native stack <sub>⭐ 21.9k · Python</sub>
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 21.7k · Python</sub>
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. <sub>⭐ 21.5k · Jupyter Notebook</sub>
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - Una lista curata di librerie open source impressionante per distribuire, monitorare, versione e scalare il vostro machine learning <sub>⭐ 21.0k</sub>
+- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. <sub>⭐ 19.5k · Python</sub>
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. <sub>⭐ 19.4k · Python</sub>
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework <sub>⭐ 18.6k · Python</sub>
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents. <sub>⭐ 18.6k · Python</sub>
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes <sub>⭐ 17.0k · Go</sub>
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a… <sub>⭐ 16.9k · Go</sub>
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets. <sub>⭐ 16.2k · Python</sub>
+- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced… <sub>⭐ 16.2k · Python</sub>
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations <sub>⭐ 15.9k · Python</sub>
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club. Register here to get notified about the next cohort <sub>⭐ 15.4k · Jupyter Notebook</sub>
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps <sub>⭐ 14.2k</sub>
+- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models. <sub>⭐ 14.1k · Python</sub>
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls) <sub>⭐ 13.0k · Python</sub>
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation… <sub>⭐ 12.0k · Python</sub>
+- [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data. <sub>⭐ 11.9k · Python</sub>
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable… <sub>⭐ 11.0k · Python</sub>
+- [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using Amazon SageMaker. <sub>⭐ 11.0k · Jupyter Notebook</sub>
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems", which is dmls-book <sub>⭐ 10.7k · HTML</sub>
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster. <sub>⭐ 10.7k · Python</sub>
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems <sub>⭐ 10.3k · Python</sub>
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! <sub>⭐ 8.9k · Python</sub>
+- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 8.8k · Go</sub>
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. <sub>⭐ 8.0k · Jupyter Notebook</sub>
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding… <sub>⭐ 7.5k · Python</sub>
+- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML <sub>⭐ 7.3k · Python</sub>
+- [clearml/clearml](https://github.com/clearml/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution <sub>⭐ 6.9k · Python</sub>
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. <sub>⭐ 6.7k · Python</sub>
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. <sub>⭐ 6.6k · Python</sub>
+- [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI) <sub>⭐ 6.5k · Python</sub>
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools <sub>⭐ 6.3k</sub>
+- [Helicone/helicone](https://github.com/Helicone/helicone) - Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 <sub>⭐ 6.2k · TypeScript</sub>
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers <sub>⭐ 6.0k · Shell</sub>
+- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - Open-Source Evaluation & Testing library for LLM Agents <sub>⭐ 5.9k · Python</sub>
+- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - (ICLR'24 spotlight) An open platform for training, serving, and evaluating large language model for tool learning. <sub>⭐ 5.8k · Python</sub>
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality <sub>⭐ 5.6k · Python</sub>
+- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices <sub>⭐ 5.4k · Python</sub>
+- [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - A curated list of awesome MLOps tools <sub>⭐ 5.3k · Python</sub>
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters. <sub>⭐ 5.2k · Python</sub>
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets <sub>⭐ 5.1k · Python</sub>
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing <sub>⭐ 4.9k · TypeScript</sub>
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated. <sub>⭐ 4.8k · Python</sub>
+- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks <sub>⭐ 4.4k · Python</sub>
+- [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension… <sub>⭐ 4.3k · TypeScript</sub>
+- [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE) - 中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard <sub>⭐ 4.3k · Python</sub>
+- [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift /… <sub>⭐ 4.2k · Python</sub>
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow <sub>⭐ 4.2k · Go</sub>
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and… <sub>⭐ 4.1k · Python</sub>
+- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support <sub>⭐ 3.9k · Python</sub>
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator <sub>⭐ 3.8k · Java</sub>
+- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) <sub>⭐ 3.8k · Python</sub>
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane <sub>⭐ 3.7k · MDX</sub>
+- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models. <sub>⭐ 3.7k · Jupyter Notebook</sub>
+- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents <sub>⭐ 3.6k · Python</sub>
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. <sub>⭐ 3.5k · Python</sub>
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications. <sub>⭐ 3.4k · Jupyter Notebook</sub>
+- [openai/human-eval](https://github.com/openai/human-eval) - Code for the paper "Evaluating Large Language Models Trained on Code" <sub>⭐ 3.4k · Python</sub>
+- [superlinked/sie](https://github.com/superlinked/sie) - Open-source inference server and production cluster for all the models your agent needs. <sub>⭐ 3.4k · Python</sub>
+- [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2) - This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction <sub>⭐ 3.3k · Jupyter Notebook</sub>
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs. <sub>⭐ 3.0k · TypeScript</sub>
+- [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models. <sub>⭐ 2.9k · Python</sub>
+- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent… <sub>⭐ 2.9k · Python</sub>
+- [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations <sub>⭐ 2.9k · Python</sub>
+- [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Huawei Ascend <sub>⭐ 2.9k · Python</sub>
+- [OpenDCAI/DataFlex](https://github.com/OpenDCAI/DataFlex) - (NeurIPS 2026) DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models <sub>⭐ 2.9k · Python</sub>
+- [whylabs/whylogs](https://github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. Provides visibility into data quality & model performance over time. Supports privacy-preserving data collection… <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure <sub>⭐ 2.8k · Python</sub>
+- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL. <sub>⭐ 2.8k · TypeScript</sub>
+- [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - Build a machine learning model from a prompt <sub>⭐ 2.6k · Python</sub>
+- [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton aiuta gli scienziati e gli ingegneri a definire flussi di dati testabili, modulari, auto-documentanti, che codificano lignaggio/tracciamento e metadati. <sub>⭐ 2.6k · Jupyter Notebook</sub>
+- [apache/burr](https://github.com/apache/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure. <sub>⭐ 2.6k · Python</sub>
+- [huggingface/lighteval](https://github.com/huggingface/lighteval) - Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends <sub>⭐ 2.5k · Python</sub>
+- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project) <sub>⭐ 2.5k</sub>
+- [huggingface/evaluate](https://github.com/huggingface/evaluate) - Evaluate: A library for easily evaluating machine learning models and datasets. <sub>⭐ 2.5k · Python</sub>
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines. <sub>⭐ 2.4k · C++</sub>
+- [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) - A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数). <sub>⭐ 2.4k · Python</sub>
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - Self-Modifying Framework from the Future World's First AMS <sub>⭐ 2.3k · Python</sub>
+- [labmlai/labml](https://github.com/labmlai/labml) - Monitor deep learning model training and hardware usage from your mobile phone <sub>⭐ 2.3k · Python</sub>
+- [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets. <sub>⭐ 2.3k · Python</sub>
+- [Sahir619/fable-method](https://github.com/Sahir619/fable-method) - The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove. <sub>⭐ 2.3k · Python</sub>
+- [tensorchord/envd](https://github.com/tensorchord/envd) - Reproducible development environment for humans and agents <sub>⭐ 2.2k · Go</sub>
+- [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation <sub>⭐ 2.2k · Python</sub>
+- [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines <sub>⭐ 2.2k · Python</sub>
+- [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - Must-read papers and blogs on LLM based Long Context Modeling <sub>⭐ 2.2k</sub>
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python <sub>⭐ 2.2k · Python</sub>
+- [huggingface/evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook) - Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval! <sub>⭐ 2.1k · Jupyter Notebook</sub>
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0. <sub>⭐ 2.1k · Python</sub>
+- [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) - Local typed decisions, contrastive data curation, and model evaluation. <sub>⭐ 2.0k · Python</sub>
+- [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast. <sub>⭐ 2.0k · Jupyter Notebook</sub>
+- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. <sub>⭐ 2.0k · Go</sub>
+- [deer-flow/llm-space](https://github.com/deer-flow/llm-space) - A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. <sub>⭐ 2.0k · TypeScript</sub>
+- [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise <sub>⭐ 1.9k · Scala</sub>
+- [valqore/valqore](https://github.com/valqore/valqore) - Safety-first guardrails for AI-driven cloud and Kubernetes operations <sub>⭐ 1.9k · Python</sub>
+- [hkust-nlp/ceval](https://github.com/hkust-nlp/ceval) - Official github repo for C-Eval, a Chinese evaluation suite for foundation models (NeurIPS 2023) <sub>⭐ 1.9k · Python</sub>
+- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and… <sub>⭐ 1.8k · TypeScript</sub>
+- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. <sub>⭐ 1.8k · Go</sub>
+- [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024 <sub>⭐ 1.8k · Python</sub>
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems. <sub>⭐ 1.8k</sub>
+- [onestardao/WFGY](https://github.com/onestardao/WFGY) - WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV… <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - 心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG, with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models <sub>⭐ 1.8k · Python</sub>
+- [ChineseGLUE/ChineseGLUE](https://github.com/ChineseGLUE/ChineseGLUE) - Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard <sub>⭐ 1.8k · Python</sub>
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience) <sub>⭐ 1.7k · Python</sub>
+- [google/adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.7k · Java</sub>
+- [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference. <sub>⭐ 1.7k · C++</sub>
+- [mattpocock/evalite](https://github.com/mattpocock/evalite) - Evaluate your LLM-powered apps with TypeScript <sub>⭐ 1.7k · TypeScript</sub>
+- [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates… <sub>⭐ 1.7k · Python</sub>
+- [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. <sub>⭐ 1.7k</sub>
+- [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs <sub>⭐ 1.7k · Python</sub>
+- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation <sub>⭐ 1.6k · TeX</sub>
+- [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - Real-time NVIDIA GPU dashboard <sub>⭐ 1.6k · JavaScript</sub>
+- [MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey) - The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models". <sub>⭐ 1.6k</sub>
+- [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - MLE-Agent: Your intelligent companion for seamless AI engineering and research. Integrate with arxiv and paper with code to provide better code/research plans OpenAI, Anthropic, Gemini, Ollama, etc… <sub>⭐ 1.6k · Python</sub>
+- [iam-veeramalla/mlops-zero-to-hero](https://github.com/iam-veeramalla/mlops-zero-to-hero) - Notes for my MLOps Zero to Hero Udemy course. <sub>⭐ 1.5k</sub>
+- [mbzuai-oryx/Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - (ACL 2024 ) Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for… <sub>⭐ 1.5k · Python</sub>
+- [SkyworkAI/Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation… <sub>⭐ 1.5k · Python</sub>
+- [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [Time-Appliances-Project/Time-Card](https://github.com/Time-Appliances-Project/Time-Card) - Develop an end-to-end hypothetical reference model, network architectures, precision time tools, performance objectives and the methods to distribute, operate, monitor time synchronization within… <sub>⭐ 1.5k · C</sub>
+- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. <sub>⭐ 1.5k · Swift</sub>
+- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C. <sub>⭐ 1.5k · Rust</sub>
+- [MLReef/mlreef](https://github.com/MLReef/mlreef) - The collaboration workspace for Machine Learning <sub>⭐ 1.5k · Kotlin</sub>
+- [google/adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. <sub>⭐ 1.4k · TypeScript</sub>
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact. <sub>⭐ 1.4k · Go</sub>
+- [fmind/mlops-python-package](https://github.com/fmind/mlops-python-package) - A comprehensive Python package template to kickstart and standardize your MLOps initiatives and data pipelines. <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) - Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0. <sub>⭐ 1.4k · Python</sub>
+- [google/visualblocks](https://github.com/google/visualblocks) - Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting… <sub>⭐ 1.4k · TypeScript</sub>
+- [pinchbench/skill](https://github.com/pinchbench/skill) - PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with by the humans at https://kilo.ai <sub>⭐ 1.4k · Python</sub>
+- [ebhy/budgetml](https://github.com/ebhy/budgetml) - Deploy a ML inference service on a budget in less than 10 lines of code. <sub>⭐ 1.3k · Python</sub>
+- [shuyu-labs/AntSK](https://github.com/shuyu-labs/AntSK) - An AI knowledge base/agent built with .Net 9, AntBlazor, Semantic Kernel, and Kernel Memory, supporting local offline AI large models. It can run offline without an internet connection. Supports… <sub>⭐ 1.3k · CSS</sub>
+- [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store <sub>⭐ 1.3k · Java</sub>
+- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) - An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. <sub>⭐ 1.3k · Python</sub>
+- [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability… <sub>⭐ 1.3k · Rust</sub>
+- [ScalingIntelligence/KernelBench](https://github.com/ScalingIntelligence/KernelBench) - KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs) <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) - Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples. <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [aws-solutions-library-samples/guidance-for-training-an-aws-deepracer-model-using-amazon-sagemaker](https://github.com/aws-solutions-library-samples/guidance-for-training-an-aws-deepracer-model-using-amazon-sagemaker) - DeepRacer workshop content. This Guidance demonstrates how software developers can use an Amazon SageMaker Notebook instance to directly train and evaluate AWS DeepRacer models with full control <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs… <sub>⭐ 1.2k · TypeScript</sub>
+- [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) - Evaluate and improve models and agents using environments <sub>⭐ 1.2k · Python</sub>
+- [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - Readymade evaluators for your LLM apps <sub>⭐ 1.2k · Python</sub>
+- [toshas/torch-fidelity](https://github.com/toshas/torch-fidelity) - High-fidelity performance metrics for generative models in PyTorch <sub>⭐ 1.2k · Python</sub>
+- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series <sub>⭐ 1.2k · Python</sub>
+- [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio <sub>⭐ 1.2k · Python</sub>
+- [rudrankriyam/Foundation-Models-Framework-Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) - A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework. <sub>⭐ 1.2k · Swift</sub>
+- [open-gigaai/giga-world-1](https://github.com/open-gigaai/giga-world-1) - A Roadmap to Build World Models for Robot Policy Evaluation <sub>⭐ 1.2k · Python</sub>
+- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub <sub>⭐ 1.1k · Python</sub>
+- [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra. <sub>⭐ 1.1k</sub>
+- [prometheus-eval/prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus and GPT4 <sub>⭐ 1.1k · Python</sub>
+- [rlancemartin/auto-evaluator](https://github.com/rlancemartin/auto-evaluator) - Evaluation tool for LLM QA chains <sub>⭐ 1.1k · Python</sub>
+- [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate… <sub>⭐ 1.1k · Python</sub>
+- [microsoft/Biodiversity](https://github.com/microsoft/Biodiversity) - Microsoft AI for Good Lab — Biodiversity research hub. Open-source AI models, edge devices, and tools for biodiversity monitoring and conservation. Your source for MegaDetector, SPARROW… <sub>⭐ 1.1k · Python</sub>
+- [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve. <sub>⭐ 1.1k · Python</sub>
+- [rogue-security/rogue](https://github.com/rogue-security/rogue) - AI Agent Evaluator & Red Team Platform <sub>⭐ 1.1k · Python</sub>
+- [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models. <sub>⭐ 1.1k · Python</sub>
+- [braintrustdata/autoevals](https://github.com/braintrustdata/autoevals) - AutoEvals is a tool for quickly and easily evaluating AI model outputs using best practices. <sub>⭐ 1.0k · Python</sub>
+- [mryab/efficient-dl-systems](https://github.com/mryab/efficient-dl-systems) - Efficient Deep Learning Systems course materials <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development platform <sub>⭐ 1.0k · Python</sub>
+- [whylabs/langkit](https://github.com/whylabs/langkit) - LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security. Features include text quality, relevance metrics, &… <sub>⭐ 997 · Jupyter Notebook</sub>
+- [paiml/practical-mlops-book](https://github.com/paiml/practical-mlops-book) - (Book-2021) Practical MLOps O'Reilly Book <sub>⭐ 987 · Jupyter Notebook</sub>
+- [codeproject/CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI. <sub>⭐ 984 · C#</sub>
+- [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent) - (ICLR 2026) LLM/VLM gaming agents and model evaluation through games. <sub>⭐ 984 · Python</sub>
+- [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - A collection of resources to learn about MLOPs. <sub>⭐ 973</sub>
+- [LiveCodeBench/LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - Official repository for the paper "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code" <sub>⭐ 955 · Python</sub>
+- [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React. <sub>⭐ 954 · TypeScript</sub>
+- [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) - A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow. <sub>⭐ 951</sub>
+- [DocAILab/XRAG](https://github.com/DocAILab/XRAG) - XRAG: eXamining the Core - Benchmarking Foundational Component Modules in Advanced Retrieval-Augmented Generation <sub>⭐ 935 · Python</sub>
+- [TIGER-AI-Lab/ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open-source benchmark for browser AI agents on daily tasks. <sub>⭐ 918 · Python</sub>
+- [getmetal/motorhead](https://github.com/getmetal/motorhead) - Motorhead is a memory and information retrieval server for LLMs. <sub>⭐ 917 · Rust</sub>
+- [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools <sub>⭐ 909 · Python</sub>
+- [lanterndata/lantern](https://github.com/lanterndata/lantern) - PostgreSQL vector database extension for building AI applications <sub>⭐ 895 · Rust</sub>
+- [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) - LightlyStudio - The Unified Data Platform for Multimodal ML <sub>⭐ 892 · Python</sub>
+- [The-FinAI/PIXIU](https://github.com/The-FinAI/PIXIU) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess… <sub>⭐ 891 · Jupyter Notebook</sub>
+- [Paulescu/hands-on-train-and-deploy-ml](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train and Deploy an ML REST API to predict crypto prices, in 10 steps <sub>⭐ 890 · Python</sub>
+- [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo) - A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. <sub>⭐ 889 · Python</sub>
+- [xlang-ai/Spider2](https://github.com/xlang-ai/Spider2) - (ICLR 2025 Oral) Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows <sub>⭐ 874 · HTML</sub>
+- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale. <sub>⭐ 869 · Python</sub>
+- [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) - OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards <sub>⭐ 861 · Python</sub>
+- [vllm-project/speculators](https://github.com/vllm-project/speculators) - A unified library for building, evaluating, and storing speculative decoding algorithms for LLM inference in vLLM <sub>⭐ 860 · Python</sub>
+- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. <sub>⭐ 848 · Python</sub>
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes <sub>⭐ 837 · Python</sub>
+- [BiomedSciAI/causallib](https://github.com/BiomedSciAI/causallib) - A Python package for modular causal inference analysis and model evaluations <sub>⭐ 836 · Python</sub>
+- [OpenBMB/AgentCPM](https://github.com/OpenBMB/AgentCPM) - An End-to-End Infrastructure for Training and Evaluating Various LLM Agents <sub>⭐ 832 · Python</sub>
+- [zszazi/Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - List of Deep Learning Cloud Providers <sub>⭐ 828</sub>
+- [suyoumo/ClawProBench](https://github.com/suyoumo/ClawProBench) - ClawProBench is a live-first benchmark harness for evaluating LLM agents in the OpenClaw runtime with deterministic grading and repeated-trial reliability. <sub>⭐ 824 · Rust</sub>
+- [groq/openbench](https://github.com/groq/openbench) - Provider-agnostic, open-source evaluation infrastructure for language models <sub>⭐ 820 · Python</sub>
+- [LAION-AI/CLIP_benchmark](https://github.com/LAION-AI/CLIP_benchmark) - CLIP-like model evaluation <sub>⭐ 816 · Python</sub>
+- [tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey. <sub>⭐ 809</sub>
+- [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) - Exercises and supplementary material for the machine learning operations course at DTU. <sub>⭐ 806 · Python</sub>
+- [MIND-Lab/OCTIS](https://github.com/MIND-Lab/OCTIS) - OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track) <sub>⭐ 805 · Python</sub>
+- [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) - (EMNLP 2026) MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online… <sub>⭐ 802 · Python</sub>
+- [MME-Benchmarks/Video-MME](https://github.com/MME-Benchmarks/Video-MME) - (CVPR 2025) Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis <sub>⭐ 798</sub>
+- [OpenLMLab/GAOKAO-Bench](https://github.com/OpenLMLab/GAOKAO-Bench) - GAOKAO-Bench is an evaluation framework that utilizes GAOKAO questions as a dataset to evaluate large language models. <sub>⭐ 798 · Python</sub>
+- [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo… <sub>⭐ 792 · Python</sub>
+- [claw-eval/claw-eval](https://github.com/claw-eval/claw-eval) - Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans. <sub>⭐ 778 · Python</sub>
+- [facebookresearch/CodeGen](https://github.com/facebookresearch/CodeGen) - Reference implementation of code generation projects from Facebook AI Research. General toolkit to apply machine learning to code, from dataset creation to model training and evaluation. Comes with… <sub>⭐ 776 · Python</sub>
+- [open-compass/MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI <sub>⭐ 769 · Python</sub>
+
+## 🔍 Interpretabilità e ML applicato
+
+> Explainability, serie temporali, visione, linguaggio e raccomandazione.
+
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library <sub>⭐ 91.0k · C++</sub>
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. <sub>⭐ 38.9k · Python</sub>
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your… <sub>⭐ 28.3k · Java</sub>
+- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. <sub>⭐ 25.8k · Jupyter Notebook</sub>
+- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Migliori Pratiche sui Sistemi di Raccomandazione <sub>⭐ 21.9k · Python</sub>
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL. <sub>⭐ 17.7k · TypeScript</sub>
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo. <sub>⭐ 13.0k · Python</sub>
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding <sub>⭐ 9.8k · Go</sub>
+- [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas <sub>⭐ 9.3k</sub>
+- [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities <sub>⭐ 8.9k · Python</sub>
+- [MaartenGr/BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics. <sub>⭐ 7.9k · Python</sub>
+- [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library <sub>⭐ 7.2k · C++</sub>
+- [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems <sub>⭐ 6.8k · Python</sub>
+- [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more <sub>⭐ 6.6k · JavaScript</sub>
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step. <sub>⭐ 6.6k · Python</sub>
+- [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion. <sub>⭐ 6.6k · C++</sub>
+- [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Libreria di traduzione offline open source scritta in Python <sub>⭐ 6.5k · Python</sub>
+- [hongleizhang/RSPapers](https://github.com/hongleizhang/RSPapers) - RSTutorials: A Curated List of Must-read Papers on Recommender System. <sub>⭐ 6.5k</sub>
+- [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning <sub>⭐ 5.4k · Jupyter Notebook</sub>
+- [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by… <sub>⭐ 5.1k · Shell</sub>
+- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS. <sub>⭐ 5.1k · Jupyter Notebook</sub>
+- [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools. <sub>⭐ 4.9k · Python</sub>
+- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English. <sub>⭐ 4.9k · TypeScript</sub>
+- [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data. <sub>⭐ 4.9k · C</sub>
+- [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources <sub>⭐ 4.8k</sub>
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: La libreria per costruire e ottimizzare automaticamente le applicazioni LLM. <sub>⭐ 4.2k · Python</sub>
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN <sub>⭐ 4.1k · Python</sub>
+- [jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome responsible machine learning resources. <sub>⭐ 4.1k</sub>
+- [snipsco/snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text <sub>⭐ 4.0k · Python</sub>
+- [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models <sub>⭐ 3.9k · Python</sub>
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface. <sub>⭐ 3.7k · TypeScript</sub>
+- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models <sub>⭐ 3.3k · Jupyter Notebook</sub>
+- [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems, see <sub>⭐ 3.3k · Java</sub>
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. <sub>⭐ 3.2k · C++</sub>
+- [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) - Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install. <sub>⭐ 3.1k · Python</sub>
+- [jdkato/prose](https://github.com/jdkato/prose) - A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. <sub>⭐ 3.1k · Go</sub>
+- [stellargraph/stellargraph](https://github.com/stellargraph/stellargraph) - StellarGraph - Machine Learning on Graphs <sub>⭐ 3.1k · Python</sub>
+- [robi56/Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) - This repository contains Deep Learning based articles , paper and repositories for Recommender Systems <sub>⭐ 2.9k</sub>
+- [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment) <sub>⭐ 2.9k · Python</sub>
+- [adapter-hub/adapters](https://github.com/adapter-hub/adapters) - A Unified Library for Parameter-Efficient and Modular Transfer Learning <sub>⭐ 2.8k · Python</sub>
+- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [wzhe06/SparrowRecSys](https://github.com/wzhe06/SparrowRecSys) - A Deep Learning Recommender System <sub>⭐ 2.8k · Python</sub>
+- [inspirit/jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library. <sub>⭐ 2.8k · JavaScript</sub>
+- [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision. <sub>⭐ 2.7k · C++</sub>
+- [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models <sub>⭐ 2.6k · Python</sub>
+- [guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) - Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Pre-Ranking, Ranking, Post Ranking, Relevance, LLM and RL. Please cite our… <sub>⭐ 2.6k · Python</sub>
+- [oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models. <sub>⭐ 2.5k · Python</sub>
+- [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM… <sub>⭐ 2.5k · Jupyter Notebook</sub>
+- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app <sub>⭐ 2.4k · Python</sub>
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. Please consider supporting this project by giving it a star. <sub>⭐ 2.4k</sub>
+- [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - A modular RL library to fine-tune language models to human preferences <sub>⭐ 2.4k · Python</sub>
+- [WLiK/LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) - A list of awesome papers and resources of recommender system on large language model (LLM). <sub>⭐ 2.3k</sub>
+- [frgfm/torch-cam](https://github.com/frgfm/torch-cam) - Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM, Finer-CAM, LeGrad, RefineCAM) <sub>⭐ 2.3k · Python</sub>
+- [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets. <sub>⭐ 2.3k · Python</sub>
+- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. <sub>⭐ 2.1k · Python</sub>
+- [tensorflow/recommenders](https://github.com/tensorflow/recommenders) - TensorFlow Recommenders is a library for building recommender system models using TensorFlow. <sub>⭐ 2.0k · Python</sub>
+- [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) - FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai <sub>⭐ 2.0k</sub>
+- [hila-chefer/Transformer-Explainability](https://github.com/hila-chefer/Transformer-Explainability) - (CVPR 2021) Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks. <sub>⭐ 2.0k · Jupyter Notebook</sub>
+- [apple-aiml-research/ml-cvnets](https://github.com/apple-aiml-research/ml-cvnets) - CVNets: A library for training computer vision networks <sub>⭐ 2.0k · Python</sub>
+- [appvision-ai/fast-bert](https://github.com/appvision-ai/fast-bert) - Super easy library for BERT based NLP models <sub>⭐ 1.9k · Python</sub>
+- [explosion/spacy-models](https://github.com/explosion/spacy-models) - Models for the spaCy Natural Language Processing (NLP) library <sub>⭐ 1.9k · Python</sub>
+- [mpatacchiola/deepgaze](https://github.com/mpatacchiola/deepgaze) - Computer Vision library for human-computer interaction. It implements Head Pose and Gaze Direction Estimation Using Convolutional Neural Networks, Skin Detection through Backprojection, Motion… <sub>⭐ 1.9k · Python</sub>
+- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go <sub>⭐ 1.9k · Go</sub>
+- [rentruewang/aioway](https://github.com/rentruewang/aioway) - AI on the way. An auto deep learning pipe dream. An RDBMS approach to deep learning. Declarative, explainable, scalable, optimizable, easy to deploy, all that good stuff. <sub>⭐ 1.8k · Python</sub>
+- [Trusted-AI/AIX360](https://github.com/Trusted-AI/AIX360) - Interpretability and explainability of data and machine learning models <sub>⭐ 1.8k · Python</sub>
+- [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text <sub>⭐ 1.8k · Python</sub>
+- [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable) <sub>⭐ 1.8k · C</sub>
+- [harskish/ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls (NeurIPS 2020) <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [graph4ai/graph4nlp](https://github.com/graph4ai/graph4nlp) - Graph4nlp is the library for the easy use of Graph Neural Networks for NLP. Welcome to visit our DLG4NLP website (https://dlg4nlp.github.io/index.html) for various learning resources! <sub>⭐ 1.7k · Python</sub>
+- [ramprs/grad-cam](https://github.com/ramprs/grad-cam) - (ICCV 2017) Torch code for Grad-CAM <sub>⭐ 1.7k · Lua</sub>
+- [hfawaz/dl-4-tsc](https://github.com/hfawaz/dl-4-tsc) - Deep Learning for Time Series Classification <sub>⭐ 1.7k · Python</sub>
+- [wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - A collection of research materials on explainable AI/ML <sub>⭐ 1.7k · Markdown</sub>
+- [JShollaj/awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources. <sub>⭐ 1.6k</sub>
+- [vlfeat/vlfeat](https://github.com/vlfeat/vlfeat) - An open library of computer vision algorithms <sub>⭐ 1.6k · C</sub>
+- [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based) <sub>⭐ 1.6k · Python</sub>
+- [datamade/usaddress](https://github.com/datamade/usaddress) - a python library for parsing unstructured United States address strings into address components <sub>⭐ 1.6k · Python</sub>
+- [repplus/rep-chrome](https://github.com/repplus/rep-chrome) - rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks <sub>⭐ 1.6k · JavaScript</sub>
+- [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows. <sub>⭐ 1.6k · Python</sub>
+- [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results <sub>⭐ 1.6k · Python</sub>
+- [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - Stanford NLP Python library for Representation Finetuning (ReFT) <sub>⭐ 1.6k · Python</sub>
+- [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python <sub>⭐ 1.6k · Python</sub>
+- [CHIANGEL/Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) - Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics. <sub>⭐ 1.6k</sub>
+- [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more. <sub>⭐ 1.5k · Python</sub>
+- [ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation <sub>⭐ 1.5k · Python</sub>
+- [ocelma/python-recsys](https://github.com/ocelma/python-recsys) - A python library for implementing a recommender system <sub>⭐ 1.5k · Python</sub>
+- [jihoo-kim/awesome-RecSys](https://github.com/jihoo-kim/awesome-RecSys) - A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos) <sub>⭐ 1.5k</sub>
+- [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) - A curated collection of papers, explainers, and resources on World Action Models for embodied AI <sub>⭐ 1.4k · HTML</sub>
+- [fergiemcdowall/search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js <sub>⭐ 1.4k · JavaScript</sub>
+- [oracle/tribuo](https://github.com/oracle/tribuo) - Tribuo - A Java machine learning library <sub>⭐ 1.4k · Java</sub>
+- [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers. Explain your transformers model in just 2 lines of code. <sub>⭐ 1.4k · Jupyter Notebook</sub>
+- [DrJonaC/Pensieve](https://github.com/DrJonaC/Pensieve) - Observe how memory shapes an answer. Pensieve is an interactive system for visualizing, interpreting, and managing how Large Language Models (LLMs) “remember” a user. It bridges the gap between… <sub>⭐ 1.4k · TypeScript</sub>
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text <sub>⭐ 1.4k · Go</sub>
+- [atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing) - OpenCV for Processing. A creative coding computer vision library based on the official OpenCV Java API <sub>⭐ 1.4k · Java</sub>
+- [cvzone/cvzone](https://github.com/cvzone/cvzone) - This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries. <sub>⭐ 1.3k · Python</sub>
+- [SelfExplainML/PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) - PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) - A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software <sub>⭐ 1.3k</sub>
+- [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation and works with PyTorch. <sub>⭐ 1.3k · Python</sub>
+- [EthicalML/xai](https://github.com/EthicalML/xai) - XAI - An eXplainability toolbox for machine learning <sub>⭐ 1.3k · Python</sub>
+- [RUCAIBox/RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets) - This is a repository of public data sources for Recommender Systems (RS). <sub>⭐ 1.3k · Python</sub>
+- [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library for SFM, calibration, fiducials, tracking, image processing, and more. <sub>⭐ 1.2k · Java</sub>
+- [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System. <sub>⭐ 1.2k · Jupyter Notebook</sub>
+- [rasbt/mini-coding-agent](https://github.com/rasbt/mini-coding-agent) - Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents. <sub>⭐ 1.2k · Python</sub>
+- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform <sub>⭐ 1.2k · TypeScript</sub>
+- [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for short text and mixed-language text <sub>⭐ 1.1k · Rust</sub>
+- [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - The nnsight package enables interpreting and manipulating the internals of deep learned models. <sub>⭐ 1.1k · Python</sub>
+- [caserec/Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems) - This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS) <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [SimpleITK/SimpleITK](https://github.com/SimpleITK/SimpleITK) - SimpleITK: a layer built on top of the Insight Toolkit (ITK), intended to simplify and facilitate ITK's use in rapid prototyping, education and interpreted languages. <sub>⭐ 1.1k · C++</sub>
+- [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org <sub>⭐ 1.1k · Rust</sub>
+- [tsinghua-fib-lab/GNN-Recommender-Systems](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) - An index of recommendation algorithms that are based on Graph Neural Networks. (TORS) <sub>⭐ 1.1k</sub>
+- [curiousily/Deep-Learning-For-Hackers](https://github.com/curiousily/Deep-Learning-For-Hackers) - Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tuning, Data preprocessing, Bias-variance tradeoff, Anomaly Detection… <sub>⭐ 1.1k · Jupyter Notebook</sub>
+- [mihail911/nlp-library](https://github.com/mihail911/nlp-library) - curated collection of papers for the nlp practitioner <sub>⭐ 1.1k</sub>
+- [PreferredAI/cornac](https://github.com/PreferredAI/cornac) - A Comparative Framework for Multimodal Recommender Systems <sub>⭐ 1.1k · Python</sub>
+- [thunlp/OpenDelta](https://github.com/thunlp/OpenDelta) - A plug-and-play library for parameter-efficient-tuning (Delta Tuning) <sub>⭐ 1.0k · Python</sub>
+- [sicara/tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x <sub>⭐ 1.0k · Python</sub>
+- [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) - WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models… <sub>⭐ 1.0k · Python</sub>
+- [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources for Japanese natural language processing (NLP): Python libraries, LLMs, dictionaries, corpora, and datasets. Includes Claude Code and Codex skills to search resources. <sub>⭐ 1.0k</sub>
+- [jc2744-fintech/taxguard-xai](https://github.com/jc2744-fintech/taxguard-xai) - Interpretable AI framework for compliance risk screening on IRS Form 990 filings — transformers, GNNs, and temporal models with built-in explainability. <sub>⭐ 1.0k · Python</sub>
+- [RUCAIBox/Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers) - Recommender System Papers <sub>⭐ 982</sub>
+- [salesforce/OmniXAI](https://github.com/salesforce/OmniXAI) - OmniXAI: A Library for eXplainable AI <sub>⭐ 975 · Jupyter Notebook</sub>
+- [practical-recommender-systems/moviegeek](https://github.com/practical-recommender-systems/moviegeek) - A django website used in the book Practical Recommender Systems to illustrate how recommender algorithms can be implemented. <sub>⭐ 941 · Python</sub>
+- [hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability) - (ICCV 2021- Oral) Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any… <sub>⭐ 914 · Jupyter Notebook</sub>
+- [philipperemy/n-beats](https://github.com/philipperemy/n-beats) - Keras/Pytorch implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. <sub>⭐ 905 · Python</sub>
+- [stanfordnlp/pyvene](https://github.com/stanfordnlp/pyvene) - Stanford NLP Python library for understanding and improving PyTorch models via interventions <sub>⭐ 903 · Python</sub>
+- [aws/context-ontology-accelerator](https://github.com/aws/context-ontology-accelerator) - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions. <sub>⭐ 891 · Python</sub>
+- [explosion/curated-transformers](https://github.com/explosion/curated-transformers) - A PyTorch library of curated Transformer models and their composable components <sub>⭐ 890 · Python</sub>
+- [LongxingTan/Time-series-prediction](https://github.com/LongxingTan/Time-series-prediction) - tfts: Time Series Deep Learning Models in TensorFlow <sub>⭐ 890 · Python</sub>
+- [kundajelab/deeplift](https://github.com/kundajelab/deeplift) - Public facing deeplift repo <sub>⭐ 882 · Python</sub>
+- [megagonlabs/ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies <sub>⭐ 873 · Python</sub>
+- [shubhomoydas/ad_examples](https://github.com/shubhomoydas/ad_examples) - A collection of anomaly detection methods (iid/point-based, graph and time series) including active learning for anomaly detection/discovery, bayesian rule-mining, description for… <sub>⭐ 871 · Python</sub>
+- [airctic/icevision](https://github.com/airctic/icevision) - An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come <sub>⭐ 867 · Python</sub>
+- [pbiecek/xai_resources](https://github.com/pbiecek/xai_resources) - Interesting resources related to XAI (Explainable Artificial Intelligence) <sub>⭐ 864 · R</sub>
+- [curiosity-ai/catalyst](https://github.com/curiosity-ai/catalyst) - Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and… <sub>⭐ 860 · C#</sub>
+- [patrickschur/language-detection](https://github.com/patrickschur/language-detection) - A language detection library for PHP. Detects the language from a given text string. <sub>⭐ 858 · PHP</sub>
+- [EdoardoBotta/RQ-VAE-Recommender](https://github.com/EdoardoBotta/RQ-VAE-Recommender) - (Pytorch) Generative retrieval model using semantic IDs from "Recommender Systems with Generative Retrieval" <sub>⭐ 849 · Python</sub>
+- [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLO is a MIT licensed open source computer vision library <sub>⭐ 847 · Python</sub>
+- [pemistahl/lingua](https://github.com/pemistahl/lingua) - The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike <sub>⭐ 825 · Kotlin</sub>
+- [allenai/papermage](https://github.com/allenai/papermage) - library supporting NLP and CV research on scientific papers <sub>⭐ 812 · Python</sub>
+- [chocoluffy/deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system) - key Deep Learning engineering tricks in recsys <sub>⭐ 805 · Jupyter Notebook</sub>
+- [DaoSword/Time-Series-Forecasting-and-Deep-Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) - Resources about time series forecasting and deep learning. <sub>⭐ 805 · Python</sub>
+- [castorini/daam](https://github.com/castorini/daam) - Diffusion attentive attribution maps for interpreting Stable Diffusion. <sub>⭐ 803 · Jupyter Notebook</sub>
+- [jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection](https://github.com/jiyuanwang-afk/Explainable-AI-in-Financial-Fraud-and-Anomaly-Detection) - This repository explores explainable deep learning models for financial fraud detection and anomaly analysis. It integrates Graph Neural Networks (GNNs), Autoencoders, and SHAP-based explainability… <sub>⭐ 797 · Python</sub>
+- [mmschlk/shapiq](https://github.com/mmschlk/shapiq) - Shapley Interactions and Shapley Values for Machine Learning <sub>⭐ 787 · Python</sub>
+- [kmeng01/rome](https://github.com/kmeng01/rome) - Locating and editing factual associations in GPT (NeurIPS 2022) <sub>⭐ 780 · Python</sub>
+
+---
+[⬆️ Torna su](#-ia-per-data-scientist-e-ml-engineer) · [← Repository di IA per professione](./README.md)

@@ -2,56 +2,62 @@
 
 > Engines, gráficos, game design, assets e programação de jogos. **213 links** nesta área: 18 essenciais escolhidos a dedo, 43 de inteligência artificial e 152 reunidos de 8 listas curadas.
 
-[← 💻 Tecnologia e Desenvolvimento](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 💻 Tecnologia e Desenvolvimento](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/tecnologia/games.md) · 🇪🇸 [Español](../../i18n/es/areas/tecnologia/games.md) · 🇨🇳 [中文](../../i18n/zh/areas/tecnologia/games.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/tecnologia/games.md) · 🇸🇦 [العربية](../../i18n/ar/areas/tecnologia/games.md) · 🇫🇷 [Français](../../i18n/fr/areas/tecnologia/games.md) · 🇮🇹 [Italiano](../../i18n/it/areas/tecnologia/games.md) · 🇰🇷 [한국어](../../i18n/ko/areas/tecnologia/games.md) · 🇷🇺 [Русский](../../i18n/ru/areas/tecnologia/games.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/tecnologia/games.md) · 🇯🇵 [日本語](../../i18n/ja/areas/tecnologia/games.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>18</sub> <br>
 [🤖 IA para Desenvolvimento de Jogos](#-ia-para-desenvolvimento-de-jogos) <sub>43</sub> <br>
-[◾ AI](#-ai) <sub>9</sub> <br>
-[◾ Camera](#-camera) <sub>8</sub> <br>
-[◾ 2D](#-2d) <sub>6</sub> <br>
-[◾ 3D](#-3d) <sub>6</sub> <br>
-[◾ Agile Project Management](#-agile-project-management) <sub>6</sub> <br>
-[◾ Animation](#-animation) <sub>6</sub> <br>
-[◾ Assets/Placeholders](#-assetsplaceholders) <sub>6</sub> <br>
-[◾ Bitmap Compression](#-bitmap-compression) <sub>6</sub> <br>
-[◾ Character Movement](#-character-movement) <sub>6</sub> <br>
-[◾ Game Producer Role and Skills](#-game-producer-role-and-skills) <sub>6</sub> <br>
-[◾ Godot 2](#-godot-2) <sub>6</sub> <br>
-[◾ Godot 3](#-godot-3) <sub>6</sub> <br>
-[◾ Godot 4](#-godot-4) <sub>6</sub> <br>
-[◾ Graphics](#-graphics) <sub>6</sub> <br>
-[◾ Livros](#-livros) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>57</sub> <br>
+[🤖 AI](#-ai) <sub>9</sub> <br>
+[🟢 Câmera](#-câmera) <sub>8</sub> <br>
+[🔹 2D](#-2d) <sub>6</sub> <br>
+[🧊 3D](#-3d) <sub>6</sub> <br>
+[🗂️ Gestão de Projetos Ágil.](#️-gestão-de-projetos-ágil) <sub>6</sub> <br>
+[✨ Animação](#-animação) <sub>6</sub> <br>
+[🟠 Activos/Positários](#-activospositários) <sub>6</sub> <br>
+[🟢 Compressão de Bitmap](#-compressão-de-bitmap) <sub>6</sub> <br>
+[🔶 Movimento de Caracteres](#-movimento-de-caracteres) <sub>6</sub> <br>
+[🎮 Produtor de Jogos Papel e Habilidades](#-produtor-de-jogos-papel-e-habilidades) <sub>6</sub> <br>
+[🎮 Godot 2](#-godot-2) <sub>6</sub> <br>
+[🎮 Godot 3](#-godot-3) <sub>6</sub> <br>
+[🎮 Godot 4](#-godot-4) <sub>6</sub> <br>
+[🔸 Gráficos](#-gráficos) <sub>6</sub> <br>
+[📚 Livros.](#-livros) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>57</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
-- [Godot Docs (pt-BR)](https://docs.godotengine.org/pt-br/4.x/) - Documentação da engine livre Godot em português, com primeiros jogos 2D e 3D. <sub>pt-BR</sub>
-- [Unity Learn](https://learn.unity.com/) - Plataforma gratuita de cursos e trilhas oficiais da Unity. <sub>curso</sub>
-- [Unreal Engine Learning](https://dev.epicgames.com/community/unreal-engine/learning) - Tutoriais e cursos oficiais e da comunidade sobre Unreal Engine. <sub>curso</sub>
+> Os essenciais de Desenvolvimento de Jogos, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
+- [Godot Docs (pt-BR)](https://docs.godotengine.org/pt-br/4.x/) - Documentação da engine livre Godot em português, com primeiros jogos 2D e 3D. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Unity Learn](https://learn.unity.com/) - Plataforma gratuita de cursos e trilhas oficiais da Unity. <sub>🎓 curso</sub>
+- [Unreal Engine Learning](https://dev.epicgames.com/community/unreal-engine/learning) - Tutoriais e cursos oficiais e da comunidade sobre Unreal Engine. <sub>🎓 curso</sub>
 - [Bevy](https://bevy.org/) - Engine de jogos em Rust orientada a dados (ECS), livre e de código aberto.
 - [raylib](https://www.raylib.com/) - Biblioteca simples em C para programar jogos, com bindings para dezenas de linguagens.
 - [Phaser](https://phaser.io/) - Framework JavaScript para jogos 2D no navegador.
-- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Livro gratuito na web sobre padrões de código para jogos. <sub>livro</sub>
-- [LearnOpenGL](https://learnopengl.com/) - Tutoriais de OpenGL moderno, de janela a renderização PBR. <sub>curso</sub>
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Livro gratuito na web sobre padrões de código para jogos. <sub>📚 livro</sub>
+- [LearnOpenGL](https://learnopengl.com/) - Tutoriais de OpenGL moderno, de janela a renderização PBR. <sub>🎓 curso</sub>
 - [Red Blob Games](https://www.redblobgames.com/) - Explicações interativas de algoritmos usados em jogos, como A* e grids hexagonais.
-- [itch.io Game Jams](https://itch.io/jams) - Agenda de game jams abertas para participar ou organizar. <sub>comunidade</sub>
-- [Global Game Jam](https://globalgamejam.org/) - Maior game jam do mundo, com sedes no Brasil. <sub>comunidade</sub>
+- [itch.io Game Jams](https://itch.io/jams) - Agenda de game jams abertas para participar ou organizar. <sub>👥 comunidade</sub>
+- [Global Game Jam](https://globalgamejam.org/) - Maior game jam do mundo, com sedes no Brasil. <sub>👥 comunidade</sub>
 - [OpenGameArt](https://opengameart.org/) - Arte, músicas e efeitos sonoros com licenças livres para jogos.
 - [Kenney Assets](https://kenney.nl/assets) - Pacotes de assets 2D, 3D, UI e áudio em domínio público.
 - [Lospec](https://lospec.com/) - Paletas, tutoriais e ferramentas de pixel art.
-- [Game Maker's Toolkit](https://www.youtube.com/@GMTK) - Canal com análises de game design e level design. <sub>canal</sub>
-- [Brackeys](https://www.youtube.com/@Brackeys) - Canal com tutoriais gratuitos de Unity, Godot e programação de jogos. <sub>canal</sub>
+- [Game Maker's Toolkit](https://www.youtube.com/@GMTK) - Canal com análises de game design e level design. <sub>📺 canal</sub>
+- [Brackeys](https://www.youtube.com/@Brackeys) - Canal com tutoriais gratuitos de Unity, Godot e programação de jogos. <sub>📺 canal</sub>
 - [GDC Vault](https://gdcvault.com/) - Palestras da Game Developers Conference, com parte do acervo gratuita.
-- [Abragames](https://www.abragames.org/) - Associação brasileira das desenvolvedoras de jogos, com dados e programas do setor. <sub>pt-BR · comunidade</sub>
+- [Abragames](https://www.abragames.org/) - Associação brasileira das desenvolvedoras de jogos, com dados e programas do setor. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
 
 ## 🤖 IA para Desenvolvimento de Jogos
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com desenvolvimento de jogos. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Desenvolvimento de Jogos. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Unity AI](https://unity.com/products/ai) - Ferramentas de IA da Unity: assistente no editor, CLI, servidor MCP e plugins; assistente exige créditos ou plano.
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) - Toolkit open source para treinar NPCs e agentes com aprendizado por reforço e imitação dentro da Unity.
@@ -64,254 +70,286 @@
 - [Meshy](https://www.meshy.ai/) - Gera modelos 3D texturizados a partir de texto ou imagem para uso em engines.
 - [Ludo.ai](https://ludo.ai/) - Ferramenta de pesquisa de mercado, ideação e geração de assets para game design; paga com teste.
 - [Rosebud AI](https://rosebud.ai) - Cria jogos 2D e 3D jogáveis no navegador a partir de descrições em linguagem natural.
-- [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) - Curso gratuito de aprendizado por reforço com agentes treinados em jogos e ambientes como Godot RL Agents. <sub>curso</sub>
+- [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) - Curso gratuito de aprendizado por reforço com agentes treinados em jogos e ambientes como Godot RL Agents. <sub>🎓 curso</sub>
 - [AI Game DevTools](https://github.com/Yuan-ManX/ai-game-devtools) - Catálogo extenso de ferramentas de IA por etapa da produção de jogos.
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
-- [Pixanima](https://pixanima.app/) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
-- [Beehave](https://github.com/bitbrain/beehave) - Enables you to create robust NPC AI systems using behavior trees.
-- [Reasonable Planning AI](https://github.com/hollsteinm/ReasonablePlanningAI) - Reasonable Planning AI, Utility Reasoning with Goal Oriented Action Planning execution. Data driven with C++ and Blueprint Support.
-- [FluadHTN](https://github.com/Safebox36/OdaiHTN) - A powerful hierarchical task network for AI planning.
-- [Game AI Pro](http://www.gameaipro.com/) - Three (3) free books (or more accurately, volumes of short papers) on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
-- [ChatGPT](https://chat.openai.com/) - Every time you are about to Google something, I would strongly advice first to ask ChatGPT your question. We, producers, might often need to reference or look up a term or a concept, which is where ChatGPT shines.
-- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
-- [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. Source
-- [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
-- [ALIS](https://github.com/fallintodusk/alis) - Open-source UE5 survival game with modular C++ gameplay and editor plugins, data-driven JSON definitions, AI-agent-friendly flows.
-- [AI Game Dev.com](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/) - An AI development community with lots of resources. It only exists on the internet archive, so be wary of outdated knowledge and broken links.
-- [GPT for Google Sheets and Docs](https://gptforwork.com/) - An awesome Google Workspace extension, that allows querying ChatGPT from within sheets or docs. You can generate data and modify any data tables or just text in any way using forumulas and functions directly in the documents.
-- [AIOS](https://github.com/agiresearch/AIOS) - LLM Agent Operating System.
-- [GameFrameX](https://github.com/GameFrameX/GameFrameX) - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
-- [GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
-- [MiaIA Studio](https://github.com/Agosillo/MiaIA) - An open-source Unreal Engine 5 IDE for visualizing, inspecting, and debugging neural networks in interactive 2D and 3D.
-- [AI Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery.
-- [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
-- [Godot Awesome Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - Community-curated list of Godot software that provides methods for scientific methods, machine learning, and hyperoptimized computation. <sub>lista awesome</sub>
-- [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) - Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
-- [Assistant CLI](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service
-- [VNovels](https://vnovels.com/) - A browser-based visual novel maker. You build branching, choice-based stories in a visual scene and graph editor, with an AI assistant that helps write scenes and can generate backgrounds, character art, music and sound. Publish playable visual novels, no coding required.
-- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
-- [Auferet](https://auferet.com/) - An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory of your story and your own uploaded lore.
-- [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - Unity Editor and Unity Runtime AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
-- [Cambrian-1](https://github.com/cambrian-mllm/cambrian) - Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs.
-- [Coplay](https://coplay.dev/) - AI Copilot for Unity
-- [CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Reúna, configure e implante agentes de IA autônomos no seu navegador.
+- [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal é uma estrutura de IA rápida, escalável e extensível para C# e Unity.
+- [Pixanima](https://pixanima.app/) - Editor de pixels e animação com camadas, linha do tempo da moldura, exportação GIF/sprite-sheet, e assistente opcional de IA.
+- [Beehave](https://github.com/bitbrain/beehave) - Permite criar sistemas de IA NPC robustos usando árvores de comportamento.
+- [Reasonable Planning AI](https://github.com/hollsteinm/ReasonablePlanningAI) - AI de Planejamento Razoável, Raciocínio da Utilidade com a execução do Plano de Ação Orientado.
+- [FluadHTN](https://github.com/Safebox36/OdaiHTN) - Uma poderosa rede de tarefas hierárquicas para o planejamento da IA.
+- [Game AI Pro](http://www.gameaipro.com/) - Três (3) livros grátis (ou mais precisamente, volumes de artigos curtos) sobre o jogo IA.
+- [ChatGPT](https://chat.openai.com/) - Toda vez que você está prestes a pesquisar alguma coisa, eu aconselharia fortemente primeiro para perguntar ao ChatGPT sua pergunta. nós, produtores, muitas vezes precisamos de referência ou procurar…
+- [AICommand](https://github.com/keijiro/AICommand) - Integração do ChatGPT com o Editor Unity.
+- [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Converta arte de pixels gerada por IA em verdadeira e perfeita arte de pixels.
+- [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - Modelos de linguagem grandes locais para o diálogo NPC movido por IA.
+- [ALIS](https://github.com/fallintodusk/alis) - Jogo de sobrevivência da UE5 com código aberto, jogabilidade modular em C++ e plugins de editor, definições JSON orientadas por dados, fluxos amigáveis ao agente AI.
+- [AI Game Dev.com](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/) - Só existe no arquivo da internet, então tenha cuidado com conhecimento ultrapassado e links quebrados.
+- [GPT for Google Sheets and Docs](https://gptforwork.com/) - Uma extensão incrível do Google Workspace, que permite consultar ChatGPT de dentro de folhas ou documentos, você pode gerar dados e modificar tabelas de dados ou apenas texto de qualquer forma usando…
+- [AIOS](https://github.com/agiresearch/AIOS) - Sistema operacional LLM.
+- [GameFrameX](https://github.com/GameFrameX/GameFrameX) - Uma estrutura de jogos entre motores, Unity e Godot em um único servidor .NET modelo ator, compartilhando um contrato com Protobuf e o gasoduto LuBan.
+- [GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - Faça do seu projeto Godot um ambiente OpenAI Gym para treinar modelos RL com PyTorch.
+- [MiaIA Studio](https://github.com/Agosillo/MiaIA) - Um IDE Unreal Engine 5 de código aberto para visualizar, inspecionar e depurar redes neurais em 2D e 3D interativos.
+- [AI Scientist](https://github.com/SakanaAI/AI-Scientist) - O cientista da IA, rumo a uma descoberta científica totalmente automatizada.
+- [NodeBox](https://www.nodebox.net/) - Uma família de ferramentas Python para criar design generativo.
+- [Godot Awesome Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - Lista de softwares Godot que fornecem métodos para métodos científicos, aprendizado de máquina e computação hiperotimizada. <sub>📋 lista awesome</sub>
+- [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) - Plug-in de reconhecimento de fala para Unreal Engine baseado na tecnologia Whisper OpenAI, sussurre.
+- [Assistant CLI](https://github.com/diciaup/assistant-cli) - Uma confortável ferramenta CLI para usar serviço ChatGPT
+- [VNovels](https://vnovels.com/) - Você constrói histórias de ramificação e escolha em uma cena visual e editor de gráficos, com um assistente de IA que ajuda a escrever cenas e pode gerar backgrounds, caráter...
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Servidor MCP de código aberto conectando agentes de IA (Claude, Cursor, GitHub Copilot, Gemini e muito mais) ao Unreal Engine 5.7, editor e tempo de execução (plugin C++ + .NET sidecar).
+- [Auferet](https://auferet.com/) - Um mestre em jogos de IA para aventuras de texto solo e RPGs estilo mesa, com memória persistente da sua história e seu próprio conhecimento carregado.
+- [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - Unity Editor e Unity Runtime AI integração, teste de unidade, codificação, C# Roslyn, reflexão, ativos, ajuda a criar jogos com IA e ajuda a executar lógica da IA durante o jogo.
+- [Cambrian-1](https://github.com/cambrian-mllm/cambrian) - Cambrian-1: uma exploração totalmente aberta e centrífuga de LLMs multimodais.
+- [Coplay](https://coplay.dev/) - Copiloto de IA para a Unidade
+- [CogVLM2](https://github.com/THUDM/CogVLM2) - Modelo multimodal de código aberto GPT4V baseado no Llama3-8B.
 
-## ◾ AI
+## 🤖 AI
 
-- [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
-- [charisma-sdk-unreal](https://github.com/charisma-ai/charisma-sdk-unreal) - Charisma SDK for Unreal Engine 4.
-- [A Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
-- [astar](https://github.com/xiejiangzhi/astar) - An other A library. Any map (grid, point, mesh or infinite map) and support path cost.
-- [Apex Path (Paid)](https://assetstore.unity.com/packages/tools/ai/apex-path-17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
-- [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
-- [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
-- [LÖVElyTrees](https://github.com/Nrosa01/LOVElyTrees) - Fully featured behaviour tree implementation with tree rendering.
-- [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A path finding.
+> 9 links de AI em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-## ◾ Camera
+- [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extensão para o sistema de árvore do comportamento dos motores, adicionando nós de seleção baseados em utilitários - versão Plugin
+- [charisma-sdk-unreal](https://github.com/charisma-ai/charisma-sdk-unreal) - Carisma SDK para Unreal Engine 4.
+- [A Pathfinding Project](http://arongranberg.com/astar/) - Rastreamento rápido com algoritmos altamente otimizados e um grande conjunto de recursos.
+- [astar](https://github.com/xiejiangzhi/astar) - Qualquer mapa (grid, ponto, malha ou infinito) e custo do caminho de suporte.
+- [Apex Path (Paid)](https://assetstore.unity.com/packages/tools/ai/apex-path-17943) - Apex Path lida com a busca dinâmica, incluindo direção de evitação local e obstáculos dinâmicos.
+- [beehive.lua](https://github.com/drhayes/beehive.lua) - Uma implementação de árvore funcional.
+- [Jumper](https://github.com/Yonaba/Jumper) - Biblioteca de busca baseada em grades.
+- [LÖVElyTrees](https://github.com/Nrosa01/LOVElyTrees) - Implementação de árvores com comportamento totalmente caracterizado com renderização.
+- [Lua-star](https://github.com/wesleywerner/lua-star) - Fácil e pura Lua. Um caminho para encontrar.
 
-- [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
-- [Editor-Camera-Position](https://github.com/zompi2/EditorCameraPositionUE4) - Editor plugin for convenient control of camera position in the editor view
-- [UFPS (Paid)](https://assetstore.unity.com/packages/templates/systems/ufps-ultimate-fps-2943) - Provides camera, controllers, and other effects for use in FPS games.
-- [Brady](https://github.com/davisdude/Brady) - Camera library with parallax scrolling.
-- [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
-- [gamera](https://github.com/kikito/gamera) - Camera system.
-- [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation.
-- [parallax](https://github.com/idbrii/love-parallax) - Scrolling library for any camera system; seamlessly tile background images.
+## 🟢 Câmera
 
-## ◾ 2D
+> 8 links de Câmera em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-- [2D Rope System (Paid)](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
-- [Ferr2D Terrain Tool (Paid)](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) - Quickly create handcrafted 2D landscapes and levels.
-- [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
-- [Spine (Paid)](http://esotericsoftware.com/) - A skeletal animation editor with a Unity library.
-- [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your Tiled files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
-- [Unity Anima2D](https://assetstore.unity.com/packages/2d/characters/anima2d-no-longer-supported-replaced-by-2d-animation-79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
+- [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Componente avançado da câmera do jogador
+- [Editor-Camera-Position](https://github.com/zompi2/EditorCameraPositionUE4) - Plug-in do editor para controle conveniente da posição da câmera na visão do editor
+- [UFPS (Paid)](https://assetstore.unity.com/packages/templates/systems/ufps-ultimate-fps-2943) - Fornece câmera, controladores e outros efeitos para uso em jogos FPS.
+- [Brady](https://github.com/davisdude/Brady) - Biblioteca de câmeras com paralaxe.
+- [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera e HUMP compativeis com grade de escala.
+- [gamera](https://github.com/kikito/gamera) - Sistema de câmera.
+- [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Biblioteca de câmeras com travamento de janelas e interpolação suave do movimento da câmera.
+- [parallax](https://github.com/idbrii/love-parallax) - Biblioteca de rolagem para qualquer sistema de câmera, imagens de fundo perfeitas.
 
-## ◾ 3D
+## 🔹 2D
 
-- [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
-- [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE).
-- [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z).
-- [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
-- [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
-- [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text).
+> 6 links de 2D em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-## ◾ Agile Project Management
+- [2D Rope System (Paid)](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts para criar qualquer tipo de corda 2D no editor ou durante o tempo de execução.
+- [Ferr2D Terrain Tool (Paid)](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) - Crie rapidamente paisagens 2D artesanais e níveis.
+- [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - Uma câmera perfeita com opções de escala para jogos 2D.
+- [Spine (Paid)](http://esotericsoftware.com/) - Um editor de animação esquelética com uma biblioteca Unity.
+- [Tiled2Unity](http://www.seanba.com/tiled2unity) - A colisão complexa é suportada pela classe PolygonCollider2D da Unity.
+- [Unity Anima2D](https://assetstore.unity.com/packages/2d/characters/anima2d-no-longer-supported-replaced-by-2d-animation-79840) - Editor avançado de animação esquelética com suporte tanto para a animação por objeto quanto pelada com uma ferramenta integrada de esfolar.
 
-- [User Story Mapping for Games - An Example](https://web.archive.org/web/20230201152834/https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a very brief explanation and provides and example. Replaced original link with Web Archive version, as it became unavailable.
-- [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Thesis (theoretical) on the AgileEVM - adaptation of the classic EVM, that uses Scrum's key values.
-- [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - A little bit more practical article on how to actually calculate AgileEVM.
-- [Writing Good User Stories](https://www.easyagile.com/training/writing-good-user-stories.pdf) - A concise and easy to understand explanation of the user story and acceptance criteria concepts. Some theses might be arguable, but still worth bookmarking as a hands-on (PDF).
-- [Basics of User Story Mapping](https://www.easyagile.com/training/introduction-to-user-story-mapping.pdf) - Same as above, a very concise and well explained user story mapping technique (PDF).
-- [Building an Agile User Story Map](https://www.easyagile.com/training/building-user-story-maps.pdf) - Hands-on guide to building a user story map (PDF).
+## 🧊 3D
 
-## ◾ Animation
+> 6 links de 3D em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-- [andross](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
-- [anim8](https://github.com/kikito/anim8) - Animation library.
-- [animx](https://github.com/besnoi/animX) - A featureful Animation library for loading animations from XML files!.
-- [Aseprite loader](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
-- [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around Spine.
-- [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
+- [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Um motor 3D incrível para LÖVE.
+- [anim9](https://github.com/excessive/anim9) - Biblioteca de animação esquelética 3D (design a ser usado com QIM e QIE).
+- [Brinevector3D](https://github.com/flamendless/brinevector3D) - Biblioteca vetorial habilitada para FFI para 3D (x,y,z).
+- [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - Uma biblioteca de detecção de colisão 3D para Lua.
+- [g3d](https://github.com/groverburger/g3d) - Motor 3D simples e fácil para LÖVE.
+- [IQE](https://github.com/excessive/iqe) - Carregador de exportação inter-Quake (texto).
 
-## ◾ Assets/Placeholders
+## 🗂️ Gestão de Projetos Ágil.
 
-- [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
-- [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
-- [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
-- [CGTextures](http://www.textures.com/) - A large collection of textures.
-- [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
-- [Games-Icons Set](http://game-icons.net/) - free icons for your games.
+> 6 links de Gestão de Projetos Ágil. em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-## ◾ Bitmap Compression
+- [User Story Mapping for Games - An Example](https://web.archive.org/web/20230201152834/https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - Se usar Agile em seu projeto, o mapeamento de histórias do usuário pode ajudar a priorizar e planejar lançamentos.
+- [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Tese (teórica) sobre o AgileEVM - adaptação do clássico EVM, que usa os valores chave de Scrum.
+- [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - Um artigo mais prático sobre como calcular AgileEVM.
+- [Writing Good User Stories](https://www.easyagile.com/training/writing-good-user-stories.pdf) - Algumas teses podem ser discutíveis, mas ainda vale a pena marcar como um manual (PDF).
+- [Basics of User Story Mapping](https://www.easyagile.com/training/introduction-to-user-story-mapping.pdf) - O mesmo que acima, uma técnica muito concisa e bem explicada de mapeamento da história do usuário (PDF).
+- [Building an Agile User Story Map](https://www.easyagile.com/training/building-user-story-maps.pdf) - Guia prático para construir um mapa de histórias do usuário (PDF).
 
-- [ImageAlpha](http://pngmini.com/) - Mac OS X GUI for pngquant and other tools
-- [Photo Resizer In KB](https://photoresizerinkb.com/) - Resize photos easily and free to use
-- [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
-- [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
-- [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
-- [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+## ✨ Animação
 
-## ◾ Character Movement
+> 6 links de Animação em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-- [SMN2](https://github.com/Reddy-dev/SMN2) - Character Movement Network Prediction easily accessible in UE5 Blueprints
+- [andross](https://github.com/pfirsich/andross) - Uma biblioteca Lua para animações ósseas 2D com uma infraestrutura Löve.
+- [anim8](https://github.com/kikito/anim8) - Biblioteca de animação.
+- [animx](https://github.com/besnoi/animX) - Uma biblioteca de animação para carregar animações de arquivos XML!
+- [Aseprite loader](https://github.com/elloramir/love-ase) - Carregador de arquivos completo, sem Json.
+- [chiro](https://github.com/bjornbytes/chiro) - Embrulho de conveniência ao redor da Espinha.
+- [lovanim](https://github.com/patrixr/love-animation) - Uma biblioteca de animação mínima.
+
+## 🟠 Activos/Positários
+
+> 6 links de Activos/Positários em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
+
+- [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - O pacote de recursos da interface do usuário dos desenhos animados vem como um arquivo PSD em camadas.
+- [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Conjunto de 420 ícones RPG, grátis para uso comercial.
+- [Blender 3D models](https://www.blender-models.com/) - Modelos 3D, sistemas de partículas / efeitos
+- [CGTextures](http://www.textures.com/) - Uma grande coleção de texturas.
+- [GameDev Market](https://www.gamedevmarket.net/) - Um mercado baseado na comunidade que conecta desenvolvedores de jogos indie com criadores talentosos.
+- [Games-Icons Set](http://game-icons.net/) - Ícones grátis para seus jogos.
+
+## 🟢 Compressão de Bitmap
+
+> 6 links de Compressão de Bitmap em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
+
+- [ImageAlpha](http://pngmini.com/) - Mac OS X GUI para pngquant e outras ferramentas
+- [Photo Resizer In KB](https://photoresizerinkb.com/) - Redimensionar fotos facilmente e livre para usar.
+- [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs para sites mais rápidos
+- [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Interface do Windows para conversão em lote.
+- [Pngyu](http://nukesaq88.github.io/Pngyu/) - Ferramenta simples de compressão de arquivos de imagem PNG.
+- [TinyPNG](https://tinypng.com/) - Compressão avançada para imagens PNG que preservam total transparência alfa.
+
+## 🔶 Movimento de Caracteres
+
+> 6 links de Movimento de Caracteres em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
+
+- [SMN2](https://github.com/Reddy-dev/SMN2) - Previsão da rede de movimentos de caracteres facilmente acessível em UE5 Blueprints
 - [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - https://github.com/ProjectBorealis/PBCharacterMovement
-- [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
-- [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
-- [ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4.
-- [PredictedMovement](https://github.com/Vaei/PredictedMovement) - CMC extended for predicted abilities
+- [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Versão comunitária replicada e otimizada do sistema avançado de locomoção V4 para o Unreal Engine 4.26 com correções adicionais de bugs.
+- [ALS_Component](https://github.com/oivio/ALS_Component) - Baseado no ALSv4 este é o Componente.
+- [ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completamente reformulada e melhorada versão C++ do Sistema de Locomoção Avançado V4.
+- [PredictedMovement](https://github.com/Vaei/PredictedMovement) - CMC estendido para habilidades previstas.
 
-## ◾ Game Producer Role and Skills
+## 🎮 Produtor de Jogos Papel e Habilidades
 
-- [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
-- [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) - The article explains what a video game producer does, their career path and title development, and the key skills required to become one.
-- [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) - Focuses on the skillset of a video game producer, which includes project management methods and tools, communication and people skills, problem solving, technical skills, and a genuine interest in playing and knowing about video games.
-- [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) - Provides five steps for landing a job as a video game producer, including identifying your realistic career level, optimizing your resume and cover letter, applying to multiple companies, preparing for interviews, and networking with recruiters.
-- [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - Explores the qualities and skills that make for a successful game producer, including leadership, communication, and adaptability, with insights from experienced industry professionals.
-- [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2) - Delves deeper into the role of a game producer, including project management, risk assessment, and team coordination, and provides tips for aspiring producers on how to develop their skills and excel in the role.
+> 6 links de Produtor de Jogos Papel e Habilidades em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-## ◾ Godot 2
+- [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - Um bom resumo de Jason Schreier, o cara que você deveria seguir.
+- [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) - O artigo explica o que um produtor de videogames faz, sua carreira e desenvolvimento do título, e as habilidades essenciais necessárias para se tornar um.
+- [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) - Foca na habilidade de um produtor de videogame, que inclui métodos e ferramentas de gerenciamento de projetos, comunicação e habilidades das pessoas, resolução de problemas, habilidades técnicas e…
+- [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) - Fornece cinco passos para conseguir um emprego como produtor de videogames, incluindo identificar seu nível realístico de carreira, otimizar seu currículo e carta de apresentação, se candidatar a…
+- [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - Explora as qualidades e habilidades que fazem para um produtor de jogos bem sucedido, incluindo liderança, comunicação e adaptabilidade, com insights de profissionais experientes da indústria. <sub>📖 documentação</sub>
+- [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2) - Investiga mais profundamente o papel de um produtor de jogos, incluindo gerenciamento de projetos, avaliação de risco e coordenação da equipe, e fornece dicas para aspirantes a produtores sobre como… <sub>📖 documentação</sub>
 
-- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
-- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
-- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
+## 🎮 Godot 2
 
-## ◾ Godot 3
+> 6 links de Godot 2 em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-- [Blipshift](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game.
-- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game.
-- [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
-- [Everplast](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
-- [Falling Square](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
-- [Flappy Race](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
+- [BlockPop](https://github.com/vnen/blockpop) - Um simples clone Breakout.
+- [Bombs](https://github.com/randyyaj/Bombs) - Um simples jogo móvel, precisa tocar bombas para desarmá-las.
+- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Plataformas exploratórias em um mundo detalhado, voltadas para jogadores mais jovens.
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Jogo de plataforma feito para o jogo A por capa 2015 Game Jam.
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone em um universo de fantasia.
+- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entrada feita em 48 horas.
 
-## ◾ Godot 4
+## 🎮 Godot 3
 
-- [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
-- [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
-- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
-- [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
-- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
-- [Worlds Upon The Wind](https://github.com/max99x/wutw-public) - A commercial roguelite deckbuilder released as public domain.
+> 6 links de Godot 3 em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-## ◾ Graphics
+- [Blipshift](https://github.com/GaidamakUA/blipshift) - Simples jogo de plataformas em movimento.
+- [Breakable](https://github.com/didier-v/breakable) - Um jogo de fuga.
+- [Circle Jump](https://github.com/kidscancode/circle_jump) - Um jogo de fliperama móvel, viciante e agradável, um tutorial sobre como fazer está disponível para que você possa recriar e aprender Godot.
+- [Everplast](https://github.com/WraithWinterly/Everplast) - Experiência única em plataformas 2D, cheia de raiva, velocidade, e spray.
+- [Falling Square](https://github.com/EmilienLeroy/FallingSquare) - Um simples jogo móvel para testar seu reflexo.
+- [Flappy Race](https://github.com/Jibby-Games/Flappy-Race) - Um jogo online de multijogador 2D inspirado em Flappy Bird e Mario Kart para desktop e HTML5.
 
-- [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) - Another awesome list specifically tailored to this topic, albeit not games-focused. <sub>lista awesome</sub>
-- [Graphics](https://guerilla-tactics.com/hats/graphics/) - A Megalist of Graphics Programming and Tech Art resources.
-- [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) - An overview of graphics programming and a collection of resources tailored to beginners learning graphics programming.
-- [WebGLFundamentals](https://webglfundamentals.org/) - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
-- [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
-- [Render Hell](http://simonschreibt.de/gat/renderhell/) - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
+## 🎮 Godot 4
 
-## ◾ Livros
+> 6 links de Godot 4 em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
 
-- [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521) - The book provides detailed explanations and real-world examples of how SCRUM can be used to increase productivity, improve communication, and deliver high-quality games on time and within budget. <sub>livro</sub>
-- [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817) - Comprehensive guide to implementing agile methodologies in game development, covering topics from team dynamics to production processes. The book features case studies, practical tips, and exercises that provide readers with a hands-on approach to creating successful games with agility. <sub>livro</sub>
-- [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234) - A behind-the-scenes look at the making of several popular video games, detailing the challenges faced by game developers and the intense pressures of the industry. <sub>livro</sub>
-- [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678) - Highlights the challenges Garcia faced as a woman of color in a male-dominated industry, and provides valuable insights into leadership, innovation, and diversity in the tech industry. <sub>livro</sub>
-- [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client. <sub>livro</sub>
-- [The Game Production Handbook](https://amazon.com/dp/1449688098) - Comprehensive guide to game production, covering topics such as project management, team building, and production processes. The book includes real-world examples and case studies from successful game studios, and provides practical tips and advice for game developers at all levels. <sub>livro</sub>
+- [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - Um simples jogo de gerenciamento de equipe grátis/libre Futsal.
+- [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) - Jogo incremental minimalista inspirado em "A Dark Room".
+- [Librerama](https://codeberg.org/Yeldham/librerama) - Uma coleção de mini-jogos rápido e livre.
+- [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Jogo simples de gerenciamento de recursos.
+- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Reimplementação oficial em andamento de horizontes desconhecidos.
+- [Worlds Upon The Wind](https://github.com/max99x/wutw-public) - Uma construtora comercial de Deck, lançada como domínio público.
 
-## ◾ Mais links
+## 🔸 Gráficos
 
-- [RemAbilityUtility](https://github.com/RemRemRemRe/RemAbilityUtility) - Utilities for gameplay ability system
-- [Artillery](https://github.com/OversizedSunCoreDev/ArtilleryEco) - Determinism, abilities, threaded input processing, and state management primitives married to a core set of basic tools used to bind to a weapon, character, entity, effect, or actor in a compositional and elegant way.
-- ["The Door Problem"](https://lizengland.com/blog/2014/04/the-door-problem/) - A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job
-- [Video game development](https://en.wikipedia.org/wiki/Video_game_development) - (or production) is a process of developing a video game by a single person or a team of developers, not necessarily professionals or employed by someone to do so. This list is focused on game producer's role - a person, who manages and orchestrates the game production process in multitude of…
-- [My mega-playlist of great gamedev videos](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn) - Conference talks, tutorials, analyses, etc
-- [GameDev Contacts](https://web.archive.org/web/20250130103712/https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter.
-- [MIT Open Courseware](https://ocw.mit.edu/) - classes and materials from MIT (free to access)
-- [Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Another mega-list of game development videos (primarily aimed at game design and programming)
-- [FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
-- [SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin) - Secure-Client; Anti-Cheat Plugin for Unreal Engine 4.
-- [SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) - SCUE updated to Unreal 5.
-- [Meta Cheat Manager](https://github.com/JanSeliv/MetaCheatManager) - A plugin that allows to call cheats with custom meta names from the console command.
-- [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
-- [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
-- [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
-- [Littera](http://kvazars.com/littera) - Bitmap font generator
-- [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
-- [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
-- [The Open Source University](https://github.com/ossu/computer-science) - A complete study plan for a computer science education.
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
-- [Professional Programming](https://github.com/charlax/professional-programming) - An expansive list of resources and other lists of resources intended to make you a more proficient programmer at a professional level.
-- [How Game Engines Work](https://interestingengineering.com/innovation/how-game-engines-work) - A blog and video explaining the game engine, or a tool/framework used to create games.
-- [Complete Godot 4 Game Deveoper by GameDev.tv](https://www.gamedev.tv/p/godot-complete-2d/?coupon_code=BLIMEY) - A fantastic way to learn Godot, a free and open source game engine. Gamedev.tv are an invaluable resource for learning game engines and tools, and I cannot recommend their courses enough. They are more than worth the $15.
-- [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Same as above, but with Unreal 5, a popular and powerful game engine. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up. <sub>curso</sub>
-- [game-ci](https://github.com/game-ci) - Open-source CI/CD tooling covering Unreal Engine (via RunUAT/BuildCookRun against your own licensed image), Unity, and Godot: GitHub Actions, a multi-provider build orchestrator (self-hosted, AWS, Kubernetes, and more), and a CLI.
-- [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity%3Aunity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
-- [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
-- [SteamVR Unity Toolkit](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
-- [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
-- [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
-- [Get Into Game Dev](https://www.mrventures.net/get-into-gamedev.html) - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview.
-- [Breaking The Wheel](https://www.breakingthewheel.com/getting-started-breaking-wheel/) - Justin Fischer's absolutely awesome collection of best practices and tips to leading game production. Must read.
-- [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
-- [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
-- [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
-- [uFrame (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/uframe-game-framework-14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
-- [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
-- [myo-ue4](https://github.com/getnamo/myo-ue4) - Myo Plugin for Unreal Engine 4
-- [Swipe](https://github.com/getsetgames/Swipe) - A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
-- [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-- [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
-- [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
-- [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
-- [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
-- [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
-- [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
-- [PixelChart Normal Map Generator](https://pixelchart.app/tools/normal-map-generator/) - Turns an image into normal, height and ambient occlusion maps with a live WebGL lit preview. Exports PNG or ZIP, runs entirely in the browser.
-- [Arrow](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
-- [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop
-- [GodSVG](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
-- [Lorien](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
-- [Pawn](https://github.com/BoredEngineer/MMT_Plugin) - Machinery Modelling Toolkit (Plugin for UE4)
-- [Morphs Player](https://github.com/JanSeliv/MorphsPlayer) - A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
-- [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. <sub>curso</sub>
-- [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up. <sub>curso</sub>
-- [Nearly Universal Principles of Projects](https://nupp.guide/) - NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use, to maximize our success.
-- [Box3DUnreal](https://github.com/alattanzio/Box3DUnreal) - Box3DUnreal: Box3D Physics for Unreal Engine
+> 6 links de Gráficos em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
+
+- [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) - Outra lista incrível especificamente adaptada para este tópico, embora não focada em jogos. <sub>📋 lista awesome</sub>
+- [Graphics](https://guerilla-tactics.com/hats/graphics/) - Uma Megalista de Programação Gráfica e Recursos de Arte Tecnológica.
+- [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) - Uma visão geral da programação gráfica e uma coleção de recursos adaptados para iniciantes aprendendo a programação gráfica.
+- [WebGLFundamentals](https://webglfundamentals.org/) - Uma introdução ao WebGL, um mecanismo de rasterização baseado na web, o WebGL é uma boa ferramenta para se aprender os fundamentos antes de mergulhar em estruturas mais complexas como Vulkan ou…
+- [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Três (3) livros grátis da Nvidia sobre programação e arquitetura da GPU. <sub>📖 documentação</sub>
+- [Render Hell](http://simonschreibt.de/gat/renderhell/) - Uma visão geral dos gráficos e tudo o que é renderizado para programadores, cobre uma visão geral, com muitas referências a livros e outros recursos para leitura mais profunda.
+
+## 📚 Livros.
+
+> 6 links de Livros. em Desenvolvimento de Jogos, reunidos das listas curadas da comunidade.
+
+- [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521) - O livro fornece explicações detalhadas e exemplos do mundo real de como o SCRUM pode ser usado para aumentar a produtividade, melhorar a comunicação, e entregar jogos de alta qualidade no tempo e… <sub>📚 livro</sub>
+- [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817) - Guia abrangente para implementar metodologias ágeis no desenvolvimento de jogos, cobrindo tópicos da dinâmica da equipe aos processos de produção. <sub>📚 livro</sub>
+- [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234) - Um olhar de trás das cenas sobre a criação de vários jogos populares, detalhando os desafios enfrentados pelos desenvolvedores de jogos e as pressões intensas da indústria. <sub>📚 livro</sub>
+- [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678) - Destaca os desafios que Garcia enfrentou como uma mulher de cor em uma indústria dominada por homens, e fornece informações valiosas sobre liderança, inovação e diversidade na indústria tecnológica. <sub>📚 livro</sub>
+- [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - Se você está mudando para um papel de gestão do design de jogos, as chances são que tenha lido este. <sub>📚 livro</sub>
+- [The Game Production Handbook](https://amazon.com/dp/1449688098) - Guia abrangente para a produção de jogos, cobrindo tópicos como gerenciamento de projetos, construção de equipes e processos de produção. <sub>📚 livro</sub>
+
+## 🧺 Mais links
+
+> Links de Desenvolvimento de Jogos que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [RemAbilityUtility](https://github.com/RemRemRemRe/RemAbilityUtility) - Utilitários para o sistema de habilidade de jogo.
+- [Artillery](https://github.com/OversizedSunCoreDev/ArtilleryEco) - Determinismo, habilidades, processamento de entrada roscado e primitivos gestores do estado casados com um conjunto central de ferramentas básicas usadas para se ligar a uma arma, caráter, entidade…
+- ["The Door Problem"](https://lizengland.com/blog/2014/04/the-door-problem/) - Um resumo de uma frase dos papéis mais importantes em um grande estúdio, e uma explicação maior do trabalho de um designer de jogos
+- [Video game development](https://en.wikipedia.org/wiki/Video_game_development) - (ou produção) é um processo de desenvolvimento de um vídeo game por uma única pessoa ou uma equipe de desenvolvedores, não necessariamente profissionais ou empregados por alguém para fazê-lo.
+- [My mega-playlist of great gamedev videos](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn) - Conferências, tutoriais, análises, etc. <sub>🎬 vídeo</sub>
+- [GameDev Contacts](https://web.archive.org/web/20250130103712/https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) - Uma lista enorme de desenvolvedores profissionais de jogos que você pode contatar para obter conselhos!
+- [MIT Open Courseware](https://ocw.mit.edu/) - Aulas e materiais do MIT (livre acesso)
+- [Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Outra mega-lista de vídeos de desenvolvimento de jogos (principalmente voltados para design e programação de jogos) <sub>🎬 vídeo</sub>
+- [FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - Uma lista de software livre e aberto para todos os aspectos do gamedev <sub>📖 documentação</sub>
+- [SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin) - Plugin anti-choque para Unreal Engine 4.
+- [SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) - SCUE atualizado para Unreal 5.
+- [Meta Cheat Manager](https://github.com/JanSeliv/MetaCheatManager) - Um plugin que permite chamar trapaças com meta nomes personalizados do comando console.
+- [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - Alta eficiência e rápida ferramenta de embalagem 2D
+- [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) - Cria folhas de imagens de GIFs animados e muito mais
+- [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Textura Packer construída em Libgdx
+- [Littera](http://kvazars.com/littera) - Gerador de fontes Bitmap
+- [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Embalar quadros em uma folha com um atlas JSON, fatiar folhas de volta em PNGs e converter entre folhas e GIFs animados.
+- [ShoeBox](http://renderhjs.net/shoebox/) - App baseado em Adobe Air com ferramentas relacionadas ao jogo e ui.
+- [The Open Source University](https://github.com/ossu/computer-science) - Um plano de estudo completo para uma educação em ciência da computação.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Outro plano de estudo completo destinado a engenheiros de software.
+- [Professional Programming](https://github.com/charlax/professional-programming) - Uma lista ampla de recursos e outras listas de recursos... destinadas a torná-lo um programador mais eficiente em nível profissional.
+- [How Game Engines Work](https://interestingengineering.com/innovation/how-game-engines-work) - Um blog e vídeo explicando o motor do jogo, ou uma ferramenta/framework usada para criar jogos.
+- [Complete Godot 4 Game Deveoper by GameDev.tv](https://www.gamedev.tv/p/godot-complete-2d/?coupon_code=BLIMEY) - Uma maneira fantástica de aprender Godot, um motor de jogo livre e aberto, Gamedev.tv é um recurso inestimável para aprender motores e ferramentas de jogos, e não posso recomendar seus cursos o…
+- [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Esse curso é inestimável, conheço vários desenvolvedores em tempo integral que aprenderam com gamedev.tv, eles são uma jóia. <sub>🎓 curso</sub>
+- [game-ci](https://github.com/game-ci) - Ferramentas de código aberto CI/CD cobrindo Unreal Engine (via RunUAT/BuildCookRun contra sua própria imagem licenciada), Unity, e Godot: GitHub Actions, um orquestrador multi-fornecedor construir…
+- [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity%3Aunity_about) - Realidade Aumentada SDK que inclui bibliotecas, utilitários e exemplos.
+- [Google VR SDK](https://developers.google.com/vr/unity) - Roteiros e pré-fabricados para ajudar no desenvolvimento de aplicativos do Google Daydream e Cardboard para Android e iOS. <sub>📖 documentação</sub>
+- [SteamVR Unity Toolkit](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131) - Scripts e ótimos exemplos para abstrair o uso de ações de controle VR na Unity.
+- [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Estrutura de Realidade Virtual que permite interações poderosas, locomoção e efeitos visuais.
+- [Vuforia](https://vuforia.com/) - Realidade Aumentada SDK com reconhecimento de imagem e objeto, terreno inteligente e recursos de rastreamento estendidos.
+- [Get Into Game Dev](https://www.mrventures.net/get-into-gamedev.html) - Perfeito para programadores intermediários que querem reforçar seu conhecimento técnico para se prepararem para uma entrevista.
+- [Breaking The Wheel](https://www.breakingthewheel.com/getting-started-breaking-wheel/) - Justin Fischer é uma coleção incrível de melhores práticas e dicas para a produção principal de jogos.
+- [CharacterController2D](https://github.com/prime31/CharacterController2D) - Um controlador 2D que se comporta de forma muito similar ao componente Unity's CharacterController.
+- [Fungus](https://github.com/snozbot/fungus) - Uma biblioteca 3D fácil de usar para criar jogos interativos ilustrados.
+- [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange é uma estrutura super leve e altamente extensível de inversão de controle (IoC), escrita especificamente para C# e Unity.
+- [uFrame (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/uframe-game-framework-14381) - Crie jogos manuváveis mais rápido, melhor, mais estável e consistente do que nunca.
+- [LeapUnreal](https://github.com/leapmotion/leapunreal) - Movimento de Salto SDK para o Motor Unreal
+- [myo-ue4](https://github.com/getnamo/myo-ue4) - Plugin Myo para Unreal Engine 4
+- [Swipe](https://github.com/getsetgames/Swipe) - Um plugin para Unreal Engine 4 que expõe furtos em dispositivos móveis como eventos no projeto.
+- [InControl](https://github.com/pbhogan/InControl) - Um gerenciador de entrada que doma faz o manipulador multi-plataforma. Entrada controlador fácil.
+- [InputBinder](https://github.com/RyanNielson/InputBinder) - Inserção de jogos para métodos via código ou usando o inspetor para adicionar a entrada conduzida pelo evento ao seu projeto.
+- [TouchKit](https://github.com/prime31/TouchKit) - Facilita reconhecer gestos e outros toques.
+- [TouchScript](https://github.com/TouchScript/TouchScript) - Torna o manuseio de complexas interações gestuais em qualquer superfície de toque muito mais fácil.
+- [FilterForge](https://www.filterforge.com/) - Um plugin para Adobe Photoshop que permite construir seus próprios filtros.
+- [Live Normal](https://tenebrislab.github.io/livenormal/) - Um aplicativo Android e iOS para gerar materiais sem costura em movimento, você tira uma foto, e Live Normal cria uma textura de azulejos e gera mapas de textura prontos para um motor PBR de sua…
+- [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Gerador de fundo de nebulosa baseado em navegação com controles ajustáveis e exportação PNG.
+- [PixelChart Normal Map Generator](https://pixelchart.app/tools/normal-map-generator/) - Transformou uma imagem em mapas normais, de altura e oclusão ambiente com uma visualização ao vivo do WebGL, exporta PNG ou ZIP, é totalmente executado no navegador.
+- [Arrow](https://github.com/mhgolkar/Arrow) - Uma ferramenta para desenhar narrativas de jogos com nós.
+- [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - Transforme qualquer página em um audiolivro, trabalha no fundo na área de trabalho.
+- [GodSVG](https://github.com/MewPurPur/GodSVG) - Ferramenta para criar arquivos gráficos de vetor escalável otimizados.
+- [Lorien](https://github.com/mbrlabs/Lorien) - Aplicativo de desenho/banco infinito para Windows, Linux e MacOS.
+- [Pawn](https://github.com/BoredEngineer/MMT_Plugin) - Kit de ferramentas de modelagem de máquinas (Plugin para UE4)
+- [Morphs Player](https://github.com/JanSeliv/MorphsPlayer) - Um plugin que permite jogar Morph Targets diretamente na faixa de animação da sua malha esquelética.
+- [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) - Um curso sobre multijogador e networking na Unreal. <sub>🎓 curso</sub>
+- [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) - Um curso sobre multijogador e redes na Unity, espere que ele vá à venda e pegue isso. <sub>🎓 curso</sub>
+- [Nearly Universal Principles of Projects](https://nupp.guide/) - NUPP é uma coleção de princípios quase universais de projetos: aqueles que faríamos bem em seguir em todos os projetos, independentemente das metodologias e abordagens que usamos, para maximizar…
+- [Box3DUnreal](https://github.com/alattanzio/Box3DUnreal) - Box3DUnreal: Box3D Physics for Unreal Motor
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) <sub>22 links · licença CC0-1.0</sub>
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) <sub>0 links · licença MIT</sub>
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) <sub>22 links · licença MIT</sub>
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) <sub>22 links · licença CC-BY-4.0</sub>
-- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal) <sub>22 links · licença Unlicense</sub>
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) <sub>22 links · licença CC0-1.0</sub>
-- [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) <sub>21 links · licença CC0-1.0</sub>
-- [vhladiienko/awesome-game-production](https://github.com/vhladiienko/awesome-game-production) <sub>21 links · licença CC0-1.0</sub>
+- [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) <sub>🔗 23 · ⚖️ CC0-1.0</sub>
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) <sub>🔗 8 · ⚖️ MIT</sub>
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) <sub>🔗 29 · ⚖️ MIT</sub>
+- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) <sub>🔗 26 · ⚖️ CC-BY-4.0</sub>
+- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal) <sub>🔗 27 · ⚖️ Unlicense</sub>
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) <sub>🔗 23 · ⚖️ CC0-1.0</sub>
+- [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) <sub>🔗 23 · ⚖️ CC0-1.0</sub>
+- [vhladiienko/awesome-game-production](https://github.com/vhladiienko/awesome-game-production) <sub>🔗 23 · ⚖️ CC0-1.0</sub>
 
 ---
 [⬆️ Voltar ao topo](#-desenvolvimento-de-jogos) · [← Tecnologia e Desenvolvimento](README.md)

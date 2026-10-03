@@ -1,39 +1,43 @@
 # 🩺 Medicina e Saúde
 
-> Medicina, saúde pública, saúde digital e bem-estar. **191 links** nesta área: 18 essenciais escolhidos a dedo, 21 de inteligência artificial e 152 reunidos de 5 listas curadas.
+> Medicina, saúde pública, saúde digital e bem-estar. **196 links** nesta área: 18 essenciais escolhidos a dedo, 26 de inteligência artificial e 152 reunidos de 5 listas curadas.
 
-[← 🔬 Ciência, Saúde e Educação](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🔬 Ciência, Saúde e Educação](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/ciencia-educacao/saude.md) · 🇪🇸 [Español](../../i18n/es/areas/ciencia-educacao/saude.md) · 🇨🇳 [中文](../../i18n/zh/areas/ciencia-educacao/saude.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/ciencia-educacao/saude.md) · 🇸🇦 [العربية](../../i18n/ar/areas/ciencia-educacao/saude.md) · 🇫🇷 [Français](../../i18n/fr/areas/ciencia-educacao/saude.md) · 🇮🇹 [Italiano](../../i18n/it/areas/ciencia-educacao/saude.md) · 🇰🇷 [한국어](../../i18n/ko/areas/ciencia-educacao/saude.md) · 🇷🇺 [Русский](../../i18n/ru/areas/ciencia-educacao/saude.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/ciencia-educacao/saude.md) · 🇯🇵 [日本語](../../i18n/ja/areas/ciencia-educacao/saude.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>18</sub> <br>
-[🤖 IA para Medicina e Saúde](#-ia-para-medicina-e-saúde) <sub>21</sub> <br>
-[◾ Artigos](#-artigos) <sub>12</sub> <br>
-[◾ Livros](#-livros) <sub>11</sub> <br>
-[◾ Datasets](#-datasets) <sub>10</sub> <br>
-[◾ Bibliotecas](#-bibliotecas) <sub>6</sub> <br>
-[◾ EHR](#-ehr) <sub>6</sub> <br>
-[◾ Frameworks](#-frameworks) <sub>6</sub> <br>
-[◾ Global Systems](#-global-systems) <sub>6</sub> <br>
-[◾ Imaging](#-imaging) <sub>6</sub> <br>
-[◾ Journals & Publications](#-journals--publications) <sub>6</sub> <br>
-[◾ Packages](#-packages) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>77</sub> <br>
+[🤖 IA para Medicina e Saúde](#-ia-para-medicina-e-saúde) <sub>26</sub> <br>
+[🧱 Pacotes.](#-pacotes) <sub>10</sub> <br>
+[🟢 EHR](#-ehr) <sub>9</sub> <br>
+[🖥️ Sistemas Globais](#️-sistemas-globais) <sub>7</sub> <br>
+[🧱 Bibliotecas.](#-bibliotecas) <sub>6</sub> <br>
+[📊 Dados.](#-dados) <sub>6</sub> <br>
+[🧱 Quadros.](#-quadros) <sub>6</sub> <br>
+[🟣 Imagem](#-imagem) <sub>6</sub> <br>
+[🟤 Diários e Publicações](#-diários-e-publicações) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>96</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
-- [Fiocruz](https://fiocruz.br/) - Fundação Oswaldo Cruz, principal instituição de pesquisa e ensino em saúde pública do Brasil. <sub>pt-BR</sub>
-- [Campus Virtual Fiocruz](https://campusvirtual.fiocruz.br/) - Cursos livres e de atualização em saúde oferecidos pela Fiocruz a distância. <sub>pt-BR · curso</sub>
-- [UNA-SUS](https://www.unasus.gov.br/) - Universidade Aberta do SUS, com cursos gratuitos para profissionais de saúde. <sub>pt-BR · curso</sub>
-- [AVASUS](https://avasus.ufrn.br/) - Ambiente virtual com cursos abertos em saúde do Ministério da Saúde e da UFRN. <sub>pt-BR · curso</sub>
+> Os essenciais de Medicina e Saúde, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
+- [Fiocruz](https://fiocruz.br/) - Fundação Oswaldo Cruz, principal instituição de pesquisa e ensino em saúde pública do Brasil. <sub>🇧🇷 pt-BR</sub>
+- [Campus Virtual Fiocruz](https://campusvirtual.fiocruz.br/) - Cursos livres e de atualização em saúde oferecidos pela Fiocruz a distância. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [UNA-SUS](https://www.unasus.gov.br/) - Universidade Aberta do SUS, com cursos gratuitos para profissionais de saúde. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [AVASUS](https://avasus.ufrn.br/) - Ambiente virtual com cursos abertos em saúde do Ministério da Saúde e da UFRN. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
 - [BVS - Biblioteca Virtual em Saúde](https://bvsalud.org/) - Portal regional que reúne LILACS, MEDLINE e outras bases de evidências em saúde.
-- [DATASUS](https://datasus.saude.gov.br/) - Departamento de informática do SUS, com acesso a dados e sistemas de saúde (TabNet). <sub>pt-BR</sub>
-- [Ministério da Saúde](https://www.gov.br/saude/pt-br) - Informações oficiais sobre o SUS, vacinação, campanhas e políticas de saúde. <sub>pt-BR</sub>
-- [Anvisa](https://www.gov.br/anvisa/pt-br) - Agência que regula medicamentos, alimentos, cosméticos e dispositivos médicos no Brasil. <sub>pt-BR</sub>
-- [TelessaúdeRS-UFRGS](https://www.ufrgs.br/telessauders/) - Teleconsultoria, protocolos e materiais educativos para a atenção primária. <sub>pt-BR</sub>
-- [Manuais MSD (versão em português)](https://www.msdmanuals.com/pt/) - Referência médica gratuita com edições para profissionais e para o público. <sub>pt-BR · livro</sub>
-- [OPAS/OMS](https://www.paho.org/pt) - Organização Pan-Americana da Saúde, com dados, guias e notícias para as Américas. <sub>pt-BR</sub>
+- [DATASUS](https://datasus.saude.gov.br/) - Departamento de informática do SUS, com acesso a dados e sistemas de saúde (TabNet). <sub>🇧🇷 pt-BR</sub>
+- [Ministério da Saúde](https://www.gov.br/saude/pt-br) - Informações oficiais sobre o SUS, vacinação, campanhas e políticas de saúde. <sub>🇧🇷 pt-BR</sub>
+- [Anvisa](https://www.gov.br/anvisa/pt-br) - Agência que regula medicamentos, alimentos, cosméticos e dispositivos médicos no Brasil. <sub>🇧🇷 pt-BR</sub>
+- [TelessaúdeRS-UFRGS](https://www.ufrgs.br/telessauders/) - Teleconsultoria, protocolos e materiais educativos para a atenção primária. <sub>🇧🇷 pt-BR</sub>
+- [Manuais MSD (versão em português)](https://www.msdmanuals.com/pt/) - Referência médica gratuita com edições para profissionais e para o público. <sub>📚 livro · 🇧🇷 pt-BR</sub>
+- [OPAS/OMS](https://www.paho.org/pt) - Organização Pan-Americana da Saúde, com dados, guias e notícias para as Américas. <sub>🇧🇷 pt-BR</sub>
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Base com mais de 40 milhões de citações da literatura biomédica.
 - [Cochrane Library](https://www.cochranelibrary.com/) - Revisões sistemáticas de referência para a medicina baseada em evidências.
 - [Organização Mundial da Saúde](https://www.who.int/) - Dados, diretrizes e relatórios globais de saúde da OMS.
@@ -44,229 +48,246 @@
 
 ## 🤖 IA para Medicina e Saúde
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com medicina e saúde. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Medicina e Saúde. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
-- [OMS - Ética e governança da IA para a saúde](https://www.who.int/publications/i/item/9789240029200) - Guia da Organização Mundial da Saúde com seis princípios para uso ético da IA em saúde; download gratuito.
-- [OMS - Orientações sobre grandes modelos multimodais (LMMs)](https://www.who.int/publications/i/item/9789240084759) - Orientações da OMS sobre IA generativa na saúde, com recomendações para governos, desenvolvedores e serviços; disponível também em português.
-- [Resolução CFM nº 2.454/2026](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/br/2026/2454) - Norma do Conselho Federal de Medicina que regulamenta o uso de inteligência artificial na prática médica no Brasil. <sub>pt-BR</sub>
+- [OMS - Ética e governança da IA para a saúde](https://www.who.int/publications/i/item/9789240029200) - Guia da Organização Mundial da Saúde com seis princípios para uso ético da IA em saúde; download gratuito. <sub>📖 documentação</sub>
+- [OMS - Orientações sobre grandes modelos multimodais (LMMs)](https://www.who.int/publications/i/item/9789240084759) - Orientações da OMS sobre IA generativa na saúde, com recomendações para governos, desenvolvedores e serviços; disponível também em português. <sub>📖 documentação</sub>
+- [Resolução CFM nº 2.454/2026](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/br/2026/2454) - Norma do Conselho Federal de Medicina que regulamenta o uso de inteligência artificial na prática médica no Brasil. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 - [OpenEvidence](https://www.openevidence.com/) - Mecanismo de busca com IA que sintetiza literatura biomédica para responder perguntas clínicas com referências.
-- [Voa Health](https://voa.health/) - Plataforma brasileira que transcreve consultas, gera documentação clínica e oferece apoio baseado em evidências; freemium. <sub>pt-BR</sub>
+- [Voa Health](https://voa.health/) - Plataforma brasileira que transcreve consultas, gera documentação clínica e oferece apoio baseado em evidências; freemium. <sub>🇧🇷 pt-BR</sub>
 - [Abridge](https://www.abridge.com/) - IA ambiente que transforma a conversa da consulta em nota clínica estruturada; solução paga para instituições.
 - [Microsoft Dragon Copilot](https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot) - Assistente clínico da Microsoft para documentação por voz e automação de tarefas de médicos, enfermagem e radiologia; pago.
 - [Glass Health](https://glass.health/) - Plataforma de IA clínica para apoio a diagnóstico diferencial e planos de cuidado.
-- [AI for Medicine (DeepLearning.AI)](https://www.coursera.org/specializations/ai-for-medicine) - Especialização em três cursos sobre diagnóstico por imagem, prognóstico e NLP clínico com aprendizado de máquina; pago, com auxílio financeiro. <sub>curso</sub>
-- [CONSORT-AI (EQUATOR Network)](https://www.equator-network.org/reporting-guidelines/consort-artificial-intelligence/) - Diretriz para relatar ensaios clínicos com intervenções de IA; tem tradução para português.
-- [FDA - Dispositivos médicos com IA](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices) - Lista oficial e atualizada dos dispositivos médicos com IA autorizados pela FDA, útil para checar regulação de produtos.
+- [AI for Medicine (DeepLearning.AI)](https://www.coursera.org/specializations/ai-for-medicine) - Especialização em três cursos sobre diagnóstico por imagem, prognóstico e NLP clínico com aprendizado de máquina; pago, com auxílio financeiro. <sub>🎓 curso</sub>
+- [CONSORT-AI (EQUATOR Network)](https://www.equator-network.org/reporting-guidelines/consort-artificial-intelligence/) - Diretriz para relatar ensaios clínicos com intervenções de IA; tem tradução para português. <sub>📖 documentação</sub>
+- [FDA - Dispositivos médicos com IA](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices) - Lista oficial e atualizada dos dispositivos médicos com IA autorizados pela FDA, útil para checar regulação de produtos. <sub>📖 documentação</sub>
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Version 6](https://arxiv.org/abs/2311.05112) - Thank you all for your support <sub>artigo científico</sub>
-- [DeepMind Health](https://deepmind.google/health/) - AI research initiatives focused on clinical and healthcare applications.
-- [OpenWearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
-- [Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks](https://www.nature.com/articles/s41591-019-0715-9) - Nature Medicine - 2020
-- [MONAI](https://monai.io/) - Open-source framework for medical imaging AI.
-- [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
-- [NVIDIA Clara](https://developer.nvidia.com/clara) - AI computing platform for medical imaging and genomics.
-- [Healthcare.ai](https://healthcare.ai/) - Python and R tools for healthcare machine learning.
-- [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
-- [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
+- [Version 6](https://arxiv.org/abs/2311.05112) - Obrigado a todos pelo apoio. <sub>📄 artigo científico</sub>
+- [DeepMind Health](https://deepmind.google/health/) - Iniciativas de pesquisa da IA focadas em aplicações clínicas e de saúde.
+- [OpenWearables](https://github.com/the-momentum/open-wearables) - Plataforma auto-hospedada para unificar dados de saúde wearable através de uma API pronta para IA.
+- [healthcareai: R tools for healthcare machine learning](https://github.com/HealthCatalyst/healthcareai-r) - R ferramentas para o aprendizado de máquina de saúde
+- [repo](https://github.com/cambridgeltl/visual-med-alpaca) - Visual Med-Alpaca é um modelo de fundação multimodal aberto projetado especificamente para o domínio biomédico, construído na LLaMa-7B.
+- [MONAI](https://monai.io/) - Framework de código aberto para imagem médica IA.
+- [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - Lista de dados médicos para aprendizado de máquina.
+- [nilearn: machine learning for neuroimaging in Python](https://github.com/nilearn/nilearn) - Aprendizado de máquina para a NeuroImagem em Python
+- [(code)](https://github.com/shmlkv/dna-claude-analysis) - Execute roteiros, explore seu genoma, e obtenha explicações personalizadas - tudo em diálogo natural.
+- [NVIDIA Clara](https://developer.nvidia.com/clara) - Plataforma de computação IA para imagem médica e genômica. <sub>📖 documentação</sub>
+- [Healthcare.ai](https://healthcare.ai/) - Python e R ferramentas para aprendizado de máquina de saúde.
+- [Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks](https://www.nature.com/articles/s41591-019-0715-9) - Medicina da Natureza - 2020
+- [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Treinando seu próprio modelo médico GPT com ChatGPT Training Pipeline.
+- [ProteinNet: a standardized data set for machine learning of protein structure](https://github.com/aqlaboratory/proteinnet) - Conjunto de dados padronizados para aprendizado de máquina da estrutura proteica.
+- [MONAI](https://github.com/Project-MONAI/MONAI) - Al Toolkit para imagem de saúde.
 
-## ◾ Artigos
+## 🧱 Pacotes.
 
-- [Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities](https://arxiv.org/abs/2104.04883v1) - 2021 <sub>artigo científico</sub>
-- [Adversarial attacks on medical AI: A health policy challenge](https://cyber.harvard.edu/story/2019-03/adversarial-attacks-medical-ai-health-policy-challenge) - 2019
-- [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208) - 2019 <sub>artigo científico</sub>
-- [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - 2019
-- [Big data and machine learning in health care](https://www.dropbox.com/s/q1cixzmsdugq3vy/Beam_BigData_ML.pdf?dl=0) - 2018
-- [Opportunities in Machine Learning for Healthcare](https://arxiv.org/abs/1806.00388) - 2018 <sub>artigo científico</sub>
-- [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747) - 2017 <sub>artigo científico</sub>
-- [Translating Artificial Intelligence Into Clinical Care](https://www.dropbox.com/s/4o1va07tqwvrxsn/Beam_TranslatingAI_2016.pdf?dl=0) - 2016
-- [Getting to the Heart of it: How Deep Learning is Transforming Cardiac Imaging](https://medium.com/stanford-ai-for-healthcare/getting-to-the-heart-of-it-how-deep-learning-is-transforming-cardiac-imaging-22d34bf91a4e) - 2018
-- [Artificial Intelligence in Cardiology](https://www.sciencedirect.com/science/article/pii/S0735109718344085) - 2018
-- [Cardiac imaging: working towards fully-automated machine analysis & interpretation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450918/) - 2017
-- [Artificial Intelligence in Public Health and Epidemiology](https://www.ncbi.nlm.nih.gov/pubmed/30157525) - 2018
+> 10 links de Pacotes. em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-## ◾ Livros
+- [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare) - Uma lista de softwares, bibliotecas, ferramentas e recursos de código aberto. <sub>📋 lista awesome</sub>
+- [Image Segmentation with Pytorch](https://github.com/LeeJunHyun/Image_Segmentation) - Implementação de U-Net, R2U-Net, Atenção U-Net e Atenção R2U-Net.
+- [medpy: medical image processing in Python](https://github.com/loli/medpy) - Processamento de imagens médicas em Python.
+- [cardIO: data science research of heart signals in Python](https://github.com/analysiscenter/cardio) - Cardio é uma biblioteca para pesquisa de dados científicos sobre sinais cardíacos.
+- [epipy: python tools for epidemiology](https://github.com/cmrivers/epipy) - Ferramentas Python para epidemiologia
+- [biopython: python tools for computational molecular biology](https://github.com/biopython/biopython) - Repositório git oficial para Biopython (originalmente convertido do CVS)
+- [pyGeno: personalized Genomics and Proteomics](https://github.com/tariqdaouda/pyGeno) - Dieta principal: Ensembl, pratos laterais: SNPs
+- [MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python](https://github.com/mne-tools/mne-python) - Magnetoencefalografia (MEG) e eletroencefalografia (EEG) em Python
+- [visbrain: brain data visualization in Python](https://github.com/EtienneCmb/visbrain) - Uma suíte de fonte aberta acelerada por GPU para visualização de dados cerebrais.
+- [MiniFold](https://github.com/EricAlcaide/MiniFold) - Aprendizado Profundo para a Predição de Estrutura Proteica Inspirada no algoritmo DeepMind AlphaFold
 
-- [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=sr_1_1?ie=UTF8&qid=1547245092&sr=8-1) <sub>livro</sub>
-- [The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine’s Computer Age](https://www.amazon.com/Digital-Doctor-Hope-Medicines-Computer/dp/0071849467/ref=sr_1_1?ie=UTF8&qid=1547245287&sr=8-1) <sub>livro</sub>
-- [ECG Signal Processing, Classification and Interpretation: A Comprehensive Framework of Computational Intelligence](https://www.amazon.com/Signal-Processing-Classification-Interpretation-Comprehensive/dp/0857298674/ref=sr_1_8?ie=UTF8&qid=1547309109&sr=8-8) <sub>livro</sub>
-- [Epidemiology: Study Design and Data Analysis](https://www.amazon.com/Epidemiology-Analysis-Chapman-Statistical-Science/dp/1439839700/ref=sr_1_7?ie=UTF8&qid=1547310088&sr=8-7) <sub>livro</sub>
-- [Statistics in Human Genetics](https://www.amazon.com/Statistics-Human-Genetics-Pak-Sham/dp/0470689285/ref=sr_1_6?ie=UTF8&qid=1547310890&sr=8-6) <sub>livro</sub>
-- [Advanced Data Analysis in Neuroscience: Integrating Statistical and Computational Models](https://www.amazon.com/Advanced-Data-Analysis-Neuroscience-Computational/dp/3319599747/ref=sr_1_15?ie=UTF8&qid=1547312406&sr=8-15) <sub>livro</sub>
-- [Computational Neurology and Psychiatry](https://www.amazon.com/Computational-Neurology-Psychiatry-Springer-Neuroinformatics-ebook/dp/B01N4UFZJ7/ref=sr_1_1?ie=UTF8&qid=1547312382&sr=8-1) <sub>livro</sub>
-- [Handbook of Functional MRI Data Analysis](https://www.amazon.com/Handbook-Functional-MRI-Data-Analysis-ebook/dp/B009019PHY/ref=sr_1_8?ie=UTF8&qid=1547312474&sr=8-8) <sub>livro</sub>
-- [Neural Data Science: A Primer with MATLAB and Python](https://www.amazon.com/Neural-Data-Science-MATLAB%C2%AE-PythonTM-ebook/dp/B06XCW39WX/ref=sr_1_10?ie=UTF8&qid=1547312474&sr=8-10) <sub>livro</sub>
-- [The Statistical Analysis of Functional MRI Data](https://www.amazon.com/Statistical-Analysis-Functional-Statistics-Biology/dp/0387781900/ref=sr_1_3?ie=UTF8&qid=1547312474&sr=8-3) <sub>livro</sub>
-- [Visual Cortex and Deep Networks: Learning Invariant Representations](https://www.amazon.com/Visual-Cortex-Deep-Networks-Representations-ebook/dp/B01M15Z4VN/ref=sr_1_6?ie=UTF8&qid=1547312406&sr=8-6) <sub>livro</sub>
+## 🟢 EHR
 
-## ◾ Datasets
+> 9 links de EHR em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-- [CheXpert: A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
-- [Medical Image Net](http://langlotzlab.stanford.edu/projects/medical-image-net/)
-- [Cardiac MRI dataset](http://www.cse.yorku.ca/~mridataset/)
-- [Congenital Heart Disease (CHD)](https://data.gov.uk/dataset/f13fbd0e-fc8a-4d42-82ef-d40f930e4b70/congenital-heart-disease-chd)
-- [SPECT - Heart Dataset](http://archive.ics.uci.edu/ml/datasets/SPECT+Heart)
-- [Stanford’s South African Heart Disease Dataset](https://web.stanford.edu/~hastie/ElemStatLearn//datasets/SAheart.data)
-- [Sunnybrook Cardiac Data](http://www.cardiacatlas.org/studies/sunnybrook-cardiac-data/)
-- [UCI - Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
-- [University Library: Epidemiology and Health Statistics](https://researchguides.uic.edu/c.php?g=252253&p=1683071)
-- [Clinical Genomic Database](https://research.nhgri.nih.gov/CGD/)
+- [Akello](https://akello.io/) - Infraestrutura Integrada de Saúde Mental
+- [Bahmni](https://www.bahmni.org/) - Registro Médico Eletrônico e Sistema Hospitalar.
+- [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Software eletrônico de registro médico projetado por médicos.
+- [GNU Health](https://www.gnuhealth.org/) - Registro Médico Eletrônico, Gestão Hospitalar e Sistema de Informação em Saúde.
+- [GNUmed](https://www.gnumed.de/documentation/) - Software de registro médico eletrônico.
+- [EHRBase](https://ehrbase.org/) - Repositório de dados clínicos do OpenEHR.
+- [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
+- [ERPNext](https://github.com/frappe/erpnext) - Módulos que ajudam a gerenciar pacientes, consultas, exames de laboratório e faturamento.
+- [FreeMedForms EMR](https://freemedforms.com/fr/start) - Software de registro médico eletrônico.
 
-## ◾ Bibliotecas
+## 🖥️ Sistemas Globais
 
-- [Android FHIR SDK](https://github.com/google/android-fhir) - The Android FHIR SDK
-- [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
-- [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
-- [Datamol](https://github.com/datamol-io/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
-- [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-- [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+> 7 links de Sistemas Globais em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-## ◾ EHR
+- [WHO Global Outbreak Alert and Response Network (GOARN)](https://www.who.int/emergencies/goarn) - Coordenação internacional de resposta a surtos.
+- [WHO Global Influenza Surveillance and Response System (GISRS)](https://www.who.int/initiatives/global-influenza-surveillance-and-response-system) - Rastreamento de vírus da gripe para o desenvolvimento da vacina.
+- [WHO Global Antimicrobial Resistance Surveillance System (GLASS)](https://www.who.int/initiatives/glass) - Coleta e análise de dados da AMR.
+- [HealthMap](https://www.healthmap.org/) - Monitoramento automático de surtos de doenças de fontes online.
+- [ProMED-mail](https://promedmail.org/) - Sistema de notificação de surtos de doenças baseado na internet.
+- [GPHIN (Global Public Health Intelligence Network)](https://gphin.canada.ca/) - Sistema de alerta precoce associado à OMS escaneando fontes web.
+- [Hantascan](https://hantascan.com/) - Mapa global de hantavírus mostrando casos, mortes, totais do país e locais de surto.
 
-- [Akello](https://akello.io/) - Integrated Mental Health Infrastructure
-- [Bahmni](https://www.bahmni.org/) - Electronic Medical Record and hospital system.
-- [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
-- [GNU Health](https://www.gnuhealth.org/) - Electronic Medical Record, Hospital Management, and Health Information System.
-- [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
-- [EHRBase](https://ehrbase.org/) - OpenEHR Clinical Data Repository.
+## 🧱 Bibliotecas.
 
-## ◾ Frameworks
+> 6 links de Bibliotecas. em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-- [API Server](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
-- [Blaze](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
-- [CareKit](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
-- [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
-- [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
-- [CyclOps](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
+- [Android FHIR SDK](https://github.com/google/android-fhir) - O Android FHIR SDK
+- [Archie](https://github.com/openehr/archie) - Biblioteca OpenEHR escrita em Java.
+- [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - Uma implementação segura para a especificação HL7 FHIR.
+- [Datamol](https://github.com/datamol-io/datamol) - Manipulação molecular feita fácil, uma embalagem Python leve construída em cima de RDKit.
+- [DCMTK](https://dicom.offis.de/dcmtk.php.en) - Kit de ferramentas DICOM.
+- [dicom](https://github.com/suyashkumar/dicom) - Parser de Imagens Médicas DICOM em GoLang.
 
-## ◾ Global Systems
+## 📊 Dados.
 
-- [WHO Global Outbreak Alert and Response Network (GOARN)](https://www.who.int/emergencies/goarn) - International outbreak response coordination.
-- [WHO Global Influenza Surveillance and Response System (GISRS)](https://www.who.int/initiatives/global-influenza-surveillance-and-response-system) - Influenza virus tracking for vaccine development.
-- [WHO Global Antimicrobial Resistance Surveillance System (GLASS)](https://www.who.int/initiatives/glass) - AMR data collection and analysis.
-- [HealthMap](https://www.healthmap.org/) - Automated disease outbreak monitoring from online sources.
-- [ProMED-mail](https://promedmail.org/) - Internet-based disease outbreak reporting system.
-- [GPHIN (Global Public Health Intelligence Network)](https://gphin.canada.ca/) - WHO-partnered early warning system scanning web sources.
+> 6 links de Dados. em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-## ◾ Imaging
+- [Atlas BI Library](https://github.com/atlas-bi/Library) - A biblioteca de relatórios unificados.
+- [Caisis](http://www.caisis.org/) - Software de pesquisa em oncologia com um sistema de gerenciamento de dados.
+- [Cedar](https://github.com/mitre/cedar) - Ferramenta de código aberto para testar a força da Medida Eletrônica de Qualidade Clínica.
+- [cTAKES](https://ctakes.apache.org/) - Sistema de Processamento de Linguagem Natural para extração de informações do Registro Médico Eletrônico texto livre.
+- [EDS_NLP](https://github.com/aphp/edsnlp) - fornece um conjunto de componentes spaCy para extrair informações de notas clínicas escritas em francês
+- [eds-scikit](https://github.com/aphp/eds-scikit) - Uma ferramenta para ajudar os cientistas de dados trabalhando no Depósito de Dados Clínicos da AP-HP.
 
-- [3D Slicer](https://www.slicer.org/) - Cross-platform application for analyzing, visualizing and understanding medical image data.
-- [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
-- [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
-- [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
-- [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
-- [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+## 🧱 Quadros.
 
-## ◾ Journals & Publications
+> 6 links de Quadros. em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-- [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/) - Open access, includes disease modeling papers.
-- [Epidemics](https://www.sciencedirect.com/journal/epidemics) - Elsevier journal focused on infectious disease dynamics.
-- [Journal of Theoretical Biology](https://www.sciencedirect.com/journal/journal-of-theoretical-biology) - Mathematical biology including epidemiology.
-- [Eurosurveillance](https://www.eurosurveillance.org/) - European CDC journal on communicable disease epidemiology and control.
-- [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) - CDC monthly open-access journal.
-- [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) - High-impact clinical and public health research.
+- [API Server](https://github.com/smart-on-fhir/api-server) - Servidor FHIR para apoiar aplicativos voltados para pacientes e clínicos.
+- [Blaze](https://github.com/samply/blaze) - Uma loja FHIR com motor de avaliação CQL interno e rápido.
+- [CareKit](https://github.com/carekit-apple/CareKit/) - Framework de software aberto para criar aplicativos que ajudam as pessoas a entender e gerenciar sua saúde.
+- [Clinical Meteor project](https://github.com/clinical-meteor) - Meteoro para aplicações compatíveis com FDA, HIPAA e HL7.
+- [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Linguagem de Qualidade Clínica é um padrão HL7 para a expressão do conhecimento clínico.
+- [CyclOps](https://github.com/VectorInstitute/cyclops) - Framework para implementação da ML de saúde.
 
-## ◾ Packages
+## 🟣 Imagem
 
-- [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare) <sub>lista awesome</sub>
-- [healthcareai: R tools for healthcare machine learning](https://github.com/HealthCatalyst/healthcareai-r)
-- [Image Segmentation with Pytorch](https://github.com/LeeJunHyun/Image_Segmentation)
-- [medpy: medical image processing in Python](https://github.com/loli/medpy)
-- [cardIO: data science research of heart signals in Python](https://github.com/analysiscenter/cardio)
-- [epipy: python tools for epidemiology](https://github.com/cmrivers/epipy)
+> 6 links de Imagem em Medicina e Saúde, reunidos das listas curadas da comunidade.
 
-## ◾ Mais links
+- [3D Slicer](https://www.slicer.org/) - Aplicação de plataforma cruzada para analisar, visualizar e entender dados de imagem médica.
+- [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Projeto de código aberto com o objetivo de entregar uma plataforma completa de imagem médica baseada na web.
+- [dcm4che](https://www.dcm4che.org/) - Imagem clínica e gerenciamento de objetos.
+- [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle é um PACS extensível, independente da plataforma e de código aberto.
+- [Drishti](https://github.com/nci/drishti/wiki) - Tomografia e visualização de dados de microscopia eletrônica para cientistas e leigos.
+- [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - Um servidor independente da DICOMweb com implementação do serviço DICOMweb/WADO.
 
-- [Mathematical models](https://en.wikipedia.org/wiki/Mathematical_model) - can project how infectious diseases progress to show the likely outcome of an epidemic (including in plants) and help inform public health and plant health interventions. Models use basic assumptions or collected statistics along with mathematics to find parameters for various infectious…
-- [Unsplash License](https://unsplash.com/license) - i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: . Image Description: "This digitally-colorized, negative-stained transmission electron microscopic (TEM) image depicted…
-- [Epic Systems](https://www.epic.com/) - Enterprise electronic health record platform used by hospitals and healthcare systems.
-- [OpenEMR](https://www.open-emr.org/) - Open-source electronic medical record and practice management system.
-- [OpenMRS](https://openmrs.org/) - Open-source platform for building medical record systems in resource-constrained environments.
-- [Oracle Health (Cerner)](https://www.oracle.com/health/) - EHR and healthcare IT solutions for clinical and operational workflows.
-- [Deep Learning for Detection of Diabetic Eye Disease](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html) - Google - 2016.
-- [EpiModel](https://epimodel.github.io/EpiModel/) - Mathematical models of infectious disease dynamics (deterministic compartmental, stochastic individual-contact, network models using ERGMs).
-- [EpiEstim](https://cran.r-project.org/package=EpiEstim) - Real-time reproduction number (Rt) estimation.
-- [surveillance](https://cran.r-project.org/package=surveillance) - Temporal and spatio-temporal outbreak detection.
-- [FHIR (Fast Healthcare Interoperability Resources)](https://www.hl7.org/fhir/) - Standard for exchanging healthcare information electronically.
-- [HL7](https://www.hl7.org/) - International standards organization for healthcare data exchange.
-- [LOINC](https://loinc.org/) - Standard for identifying medical laboratory observations.
-- [SNOMED CT](https://www.snomed.org/) - Comprehensive clinical terminology for healthcare data.
-- [STEM (Spatiotemporal Epidemiological Modeler)](https://www.eclipse.org/stem/) - Eclipse Foundation open-source platform for global disease spread modeling.
-- [EPIMOD](https://epimod.org/) - Agent-based modeling framework.
-- [OpenMalaria](https://github.com/SwissTPH/openmalaria) - Microsimulation model of malaria epidemiology and control.
-- [GLEAM (Global Epidemic and Mobility Model)](http://www.gleamviz.org/) - Large-scale epidemic modeling with human mobility data.
-- [OpenScribe](https://github.com/sammargolis/OpenScribe) - Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.
-- [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
-- [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
-- [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases.
-- [OpenEHR](https://www.openehr.org/) - Open specification upon which software can be built.
-- [Apache Superset](https://superset.apache.org/) - Open-source data exploration and visualization platform used in healthcare analytics.
-- [Google Cloud Healthcare API](https://cloud.google.com/healthcare-api) - Managed services for storing and analyzing healthcare data.
-- [OHDSI (Observational Health Data Sciences and Informatics)](https://ohdsi.org/) - Collaborative analytics ecosystem for observational health data.
-- [EPIDEMIA](https://github.com/ImperialCollegeLondon/epidemia) - Bayesian hierarchical models for epidemic data.
-- [Metaculus COVID-19 Models](https://www.metaculus.com/questions/covid-19/) - Community forecasting platform.
-- [HIPAA](https://www.hhs.gov/hipaa/index.html) - U.S. regulation for protecting patient health information.
-- [ISO/IEC 27799](https://www.iso.org/standard/62777.html) - Information security standard for healthcare organizations.
-- [OpenSSL](https://www.openssl.org/) - Cryptographic library used to secure healthcare systems and communications.
-- [open-eObs](https://openeobs.github.io/) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
-- [Machine Learning for Healthcare - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/)
-- [CDC Data & Surveillance](https://data.cdc.gov/) - Public health datasets and surveillance systems.
-- [Global Health Observatory (WHO)](https://www.who.int/data/gho) - Global health statistics and indicators.
-- [Amwell](https://business.amwell.com/) - Telehealth platform for virtual care delivery.
-- [Doxy.me](https://doxy.me/) - Browser-based telemedicine platform for clinicians and patients.
-- [Teladoc Health](https://www.teladochealth.com/) - Global provider of virtual healthcare services.
-- [CDC National Notifiable Diseases Surveillance System (NNDSS)](https://www.cdc.gov/nndss/about/index.html) - U.S. disease case surveillance from all states.
-- [CDC WONDER](https://wonder.cdc.gov/) - Public health data query system (mortality, natality, cancer, TB, vaccinations).
-- [FluView](https://www.cdc.gov/flu/weekly/) - CDC weekly influenza surveillance reports.
-- [COVID-19 Forecast Hub](https://covid19forecasthub.org/) - Ensemble forecasts from multiple modeling teams.
-- [Open Dental](https://www.opendental.com/) - Dental Practice Management Software.
-- [OpenMolar](https://openmolar.com/) - Dental Practice Management Software.
-- [Apple HealthKit](https://developer.apple.com/healthkit/) - Framework for integrating health and fitness data on iOS.
-- [CareClinic](https://careclinic.io/) - Patient-centered platform for tracking symptoms, medications, mood, sleep, and health trends.
-- [Fitbit Platform](https://dev.fitbit.com/) - APIs and tools for wearable health tracking.
-- [Google Fit](https://developers.google.com/fit) - Platform for collecting and analyzing fitness and health data.
-- [OpenELIS](https://openelis-global.org/) - Laboratory Information System for Global Health.
-- [SENAITE](https://www.senaite.com/) - Laboratory Information Management System.
-- [CORDS (Connecting Organisations for Regional Disease Surveillance)](https://www.cordsnetwork.org/) - Six regional networks in 28 countries (Africa, Asia, Middle East, Europe).
-- [WHO Data Collections](https://www.who.int/data/collections) - Disease-specific data (TB, HIV, malaria, NCDs).
-- [CDC Surveillance Systems](https://www.cdc.gov/surveillance/surveillance-systems/index.html) - Multiple disease-specific surveillance networks.
-- [European CDC Surveillance Portal](https://www.ecdc.europa.eu/en/surveillance-and-disease-data) - EU/EEA communicable disease data.
-- [Institute for Disease Modeling (IDM)](https://www.idmod.org/) - Bill & Melinda Gates Foundation research institute developing freely available modeling tools.
-- [MIDAS (Models of Infectious Disease Agent Study)](https://midasnetwork.us/) - NIH-funded network of researchers, software, and data.
-- [CEID (Center for Infectious Disease Dynamics)](https://www.huck.psu.edu/institutes-and-centers/center-for-infectious-disease-dynamics) - Penn State research center.
-- [Task Force for Global Health - Disease Surveillance](https://www.taskforce.org/disease-surveillance/) - SONAR program strengthening outbreak notification in LMICs.
-- [Improved Grading of Prostate Cancer Using Deep Learning](https://ai.googleblog.com/2018/11/improved-grading-of-prostate-cancer.html) - 2018
-- [Vertebral Column Data Set](http://archive.ics.uci.edu/ml/datasets/vertebral+column)
-- [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
-- [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
-- [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
-- [Coursera Epidemiology Specialization](https://www.coursera.org/specializations/epidemiology) - University of North Carolina at Chapel Hill. <sub>curso</sub>
-- [Johns Hopkins Epidemiology in Public Health Practice](https://www.coursera.org/specializations/epidemic-models) - Modeling infectious diseases specialization. <sub>curso</sub>
-- [Imperial College London Infectious Disease Modeling](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/training/) - Short courses and workshops.
-- [EpiModel Tutorials](https://epimodel.org/tut.html) - Step-by-step R package tutorials.
-- [STEM Documentation](https://wiki.eclipse.org/STEM) - Spatiotemporal Epidemiological Modeler guides.
-- [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
-- [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
-- [HealthLocker](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
-- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - Computational biology resources. <sub>lista awesome</sub>
-- [Awesome Parasite](https://github.com/ecohealthalliance/awesome-parasite) - Host-parasite information and resources. <sub>lista awesome</sub>
-- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Bioinformatics libraries and software. <sub>lista awesome</sub>
-- [Healthcare worker at home](https://hcw-at-home.com/) - ​ Open Source Telehealth software
-- [i2b2](https://www.i2b2.org/) - Research data warehouse.
-- [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
+## 🟤 Diários e Publicações
+
+> 6 links de Diários e Publicações em Medicina e Saúde, reunidos das listas curadas da comunidade.
+
+- [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/) - Acesso aberto, inclui trabalhos de modelagem de doenças.
+- [Epidemics](https://www.sciencedirect.com/journal/epidemics) - O diário Elsevier focou-se na dinâmica das doenças infecciosas.
+- [Journal of Theoretical Biology](https://www.sciencedirect.com/journal/journal-of-theoretical-biology) - Biologia matemática, incluindo epidemiologia.
+- [Eurosurveillance](https://www.eurosurveillance.org/) - Revista Europeia do CDC sobre epidemiologia e controle de doenças transmissíveis.
+- [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) - Diário mensal de acesso aberto do CCD.
+- [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) - Pesquisa clínica e de saúde pública de alto impacto.
+
+## 🧺 Mais links
+
+> Links de Medicina e Saúde que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [Mathematical models](https://en.wikipedia.org/wiki/Mathematical_model) - Os modelos usam suposições básicas para o desenvolvimento de uma epidemia, que pode projetar como doenças infecciosas progridem para mostrar o provável resultado de uma epidemia (incluindo em…
+- [Unsplash License](https://unsplash.com/license) - Ou seja, "Todas as imagens podem ser baixadas e usadas de graça", "Propósitos comerciais e não comerciais" e "Nenhuma permissão é necessária (embora a atribuição seja apreciada!)".
+- [Epic Systems](https://www.epic.com/) - Plataforma eletrônica de registro de saúde usada por hospitais e sistemas de saúde.
+- [OpenEMR](https://www.open-emr.org/) - Registro médico eletrônico de código aberto e sistema de gestão prática.
+- [OpenMRS](https://openmrs.org/) - Plataforma de código aberto para construir sistemas de registro médico em ambientes restritos a recursos.
+- [Oracle Health (Cerner)](https://www.oracle.com/health/) - EHR e soluções de TI em saúde para fluxos clínicos e operacionais.
+- [EpiModel](https://epimodel.github.io/EpiModel/) - Modelos matemáticos de dinâmica das doenças infecciosas (determinística compartimental, estocástica contato individual, modelos de rede usando ERGMs).
+- [EpiEstim](https://cran.r-project.org/package=EpiEstim) - Número de reprodução em tempo real.
+- [surveillance](https://cran.r-project.org/package=surveillance) - Detecção de surtos temporais e espaciais.
+- [FHIR (Fast Healthcare Interoperability Resources)](https://www.hl7.org/fhir/) - Padrão para trocar informações de saúde eletronicamente.
+- [HL7](https://www.hl7.org/) - Organização de padrões internacionais para intercâmbio de dados de saúde.
+- [LOINC](https://loinc.org/) - Padrão para identificar observações de laboratório médico.
+- [SNOMED CT](https://www.snomed.org/) - Terminologia clínica abrangente para dados de saúde.
+- [STEM (Spatiotemporal Epidemiological Modeler)](https://www.eclipse.org/stem/) - Plataforma de código aberto da Fundação Eclipse para modelagem global de doenças.
+- [EPIMOD](https://epimod.org/) - Framework de modelagem baseado em agentes.
+- [OpenMalaria](https://github.com/SwissTPH/openmalaria) - Modelo de microsimulação da epidemiologia e controle da malária.
+- [GLEAM (Global Epidemic and Mobility Model)](http://www.gleamviz.org/) - Modelo epidêmico em grande escala com dados de mobilidade humana.
+- [Deep Learning for Detection of Diabetic Eye Disease](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html) - Em 2016.
+- [OpenScribe](https://github.com/sammargolis/OpenScribe) - Fonte aberta, plataforma médica local para gravar encontros clínicos, transcrever áudio e gerar notas clínicas estruturadas.
+- [The Databases for Drug Discovery](https://github.com/LeeJunHyun/The-Databases-for-Drug-Discovery) - Os bancos de dados para a descoberta de drogas (DDD)
+- [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuidade das especificações do documento de cuidados
+- [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Fornece uma maneira eficaz de aprender o padrão DICOM e inspecionar os atributos DICOM.
+- [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - Modelo de dados padronizados para muitos conceitos de saúde, presença incrível do Github incluindo roteiros para muitas grandes bases de dados relacionais.
+- [OpenEHR](https://www.openehr.org/) - Especificação aberta sobre qual software pode ser construído.
+- [Apache Superset](https://superset.apache.org/) - Plataforma de exploração e visualização de dados em código aberto usada na análise da saúde.
+- [Google Cloud Healthcare API](https://cloud.google.com/healthcare-api) - Serviços gerenciados para armazenar e analisar dados de saúde.
+- [OHDSI (Observational Health Data Sciences and Informatics)](https://ohdsi.org/) - Ecossistema de análise colaborativa para dados observacionais de saúde.
+- [EPIDEMIA](https://github.com/ImperialCollegeLondon/epidemia) - Modelos hierárquicos bayesianos para dados epidêmicos.
+- [Metaculus COVID-19 Models](https://www.metaculus.com/questions/covid-19/) - Plataforma de previsão comunitária.
+- [HIPAA](https://www.hhs.gov/hipaa/index.html) - Regulamento dos EUA para proteger informações de saúde do paciente.
+- [ISO/IEC 27799](https://www.iso.org/standard/62777.html) - Padrões de segurança da informação para organizações de saúde.
+- [OpenSSL](https://www.openssl.org/) - Biblioteca criptográfica usada para proteger sistemas de saúde e comunicações.
+- [open-eObs](https://openeobs.github.io/) - Plataforma de observação e avaliação clínica que oferece uma visão em tempo real de todos os pacientes em uma enfermaria.
+- [CDC Data & Surveillance](https://data.cdc.gov/) - Conjuntos de dados de saúde pública e sistemas de vigilância.
+- [Global Health Observatory (WHO)](https://www.who.int/data/gho) - Estatísticas e indicadores globais de saúde.
+- [Amwell](https://business.amwell.com/) - Plataforma de telessaúde para atendimento virtual.
+- [Doxy.me](https://doxy.me/) - Plataforma de telemedicina baseada em navegadores para clínicos e pacientes.
+- [Teladoc Health](https://www.teladochealth.com/) - Prestador global de serviços de saúde virtuais.
+- [CDC National Notifiable Diseases Surveillance System (NNDSS)](https://www.cdc.gov/nndss/about/index.html) - Vigilância de casos de doenças dos EUA de todos os estados.
+- [CDC WONDER](https://wonder.cdc.gov/) - Sistema de consulta de dados de saúde pública (mortalidade, natalidade, câncer, TB, vacinas).
+- [FluView](https://www.cdc.gov/flu/weekly/) - Relatórios semanais de vigilância da gripe do CDC.
+- [COVID-19 Forecast Hub](https://covid19forecasthub.org/) - Reúna previsões de várias equipes de modelos.
+- [Open Dental](https://www.opendental.com/) - Software de Gestão de Prática Dentária.
+- [OpenMolar](https://openmolar.com/) - Software de Gestão de Prática Dentária.
+- [Apple HealthKit](https://developer.apple.com/healthkit/) - Framework para integrar dados de saúde e fitness no iOS. <sub>📖 documentação</sub>
+- [CareClinic](https://careclinic.io/) - Plataforma centrada no paciente para rastrear sintomas, medicamentos, humor, sono e tendências de saúde.
+- [Fitbit Platform](https://dev.fitbit.com/) - APIs e ferramentas para rastreamento de saúde.
+- [Google Fit](https://developers.google.com/fit) - Plataforma para coletar e analisar dados de aptidão e saúde. <sub>📖 documentação</sub>
+- [OpenELIS](https://openelis-global.org/) - Sistema de Informação Laboratorial para Saúde Global.
+- [SENAITE](https://www.senaite.com/) - Sistema de Gestão de Informação do Laboratório.
+- [CORDS (Connecting Organisations for Regional Disease Surveillance)](https://www.cordsnetwork.org/) - Seis redes regionais em 28 países (África, Ásia, Oriente Médio, Europa).
+- [WHO Data Collections](https://www.who.int/data/collections) - Dados específicos da doença (TB, HIV, malária, DCNT).
+- [CDC Surveillance Systems](https://www.cdc.gov/surveillance/surveillance-systems/index.html) - Múltiplas redes de vigilância específicas.
+- [European CDC Surveillance Portal](https://www.ecdc.europa.eu/en/surveillance-and-disease-data) - Dados de doenças transmissíveis UE/EEE.
+- [Institute for Disease Modeling (IDM)](https://www.idmod.org/) - Instituto de Pesquisa da Fundação Bill & Melinda Gates desenvolvendo ferramentas de modelagem disponíveis.
+- [MIDAS (Models of Infectious Disease Agent Study)](https://midasnetwork.us/) - Rede de pesquisadores, software e dados financiada pelo NIH.
+- [CEID (Center for Infectious Disease Dynamics)](https://www.huck.psu.edu/institutes-and-centers/center-for-infectious-disease-dynamics) - Centro de pesquisa da Penn State.
+- [Task Force for Global Health - Disease Surveillance](https://www.taskforce.org/disease-surveillance/) - Programa SONAR fortalecendo a notificação de surtos em LMICs.
+- [Intervention Engine](https://github.com/intervention-engine/ie) - Fornece uma aplicação na web para grupos de equipes orientadas a dados.
+- [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Gráficos de crescimento pediátrico.
+- [Simple](https://github.com/simpledotorg/) - Para os clínicos rastrearem pacientes com pressão alta.
+- [Coursera Epidemiology Specialization](https://www.coursera.org/specializations/epidemiology) - Universidade da Carolina do Norte em Chapel Hill. <sub>🎓 curso</sub>
+- [Johns Hopkins Epidemiology in Public Health Practice](https://www.coursera.org/specializations/epidemic-models) - Modelando especialização em doenças infecciosas. <sub>🎓 curso</sub>
+- [Imperial College London Infectious Disease Modeling](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/training/) - Cursos curtos e oficinas.
+- [EpiModel Tutorials](https://epimodel.org/tut.html) - Tutoriais passo-a-passo do pacote R.
+- [STEM Documentation](https://wiki.eclipse.org/STEM) - Guias Epidemiológicos Espaciais.
+- [Fasten Health](https://github.com/fastenhealth/fasten-onprem) - Agregador de registros médicos eletrônicos pessoais/familiares
+- [Tidepool](https://github.com/tidepool-org) - Plataforma de dados para reduzir o peso da Diabetes Tipo 1.
+- [HealthLocker](https://github.com/healthlocker/healthlocker) - Registro de saúde pessoal baseado em Elixir.
+- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - Recursos de biologia computacional. <sub>📋 lista awesome</sub>
+- [Awesome Parasite](https://github.com/ecohealthalliance/awesome-parasite) - Informações e recursos de parasitas. <sub>📋 lista awesome</sub>
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Bibliotecas de Bioinformática e software. <sub>📋 lista awesome</sub>
+- [Healthcare worker at home](https://hcw-at-home.com/) - Software de Telessaúde Código Aberto
+- [i2b2](https://www.i2b2.org/) - Depósito de dados de pesquisa.
+- [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Plataforma de Pesquisa Translacional.
+- [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - Um projeto de código aberto que permite a conversão de dados de saúde de formatos legados para FHIR.
+- [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - Um motor que converte dados de uma estrutura em outra.
+- [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - A faca do exército suíço de integração da saúde.
+- [Open eHealth Integration Platform](https://github.com/oehf/ipf) - Uma extensão do motor Apache Camel e mediação.
+- [OpenHIM](http://openhim.org/) - Mediador de informações sobre saúde.
+- [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Kit de desenvolvimento de imagem ultra-som.
+- [OpenAPS](https://openaps.org/) - O projeto do Sistema de Pancreas Artificiais Abertas é um esforço aberto e transparente para tornar seguro e eficaz o sistema básico de Pancreas Artificiais.
+- [ADAM](https://github.com/bigdatagenomics/adam) - Plataforma de análise genômica.
+- [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validada, escalável, comunidade desenvolvida variante chamada, RNA-seq e análise de pequeno RNA.
+- [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - Desconvolução da transcriptômica espacial de alto desempenho para mapeamento do tipo celular em amostras de tecido.
+- [Galaxy](https://galaxyproject.org/) - Plataforma aberta baseada na web para pesquisa biomédica intensiva de dados.
+- [Wregex](https://ehubio.ehu.eus/wregex/) - Software de busca por motivos de ácido amino com opcional "Position-Especific Scoring Matrix".
+- [Inspired EHRs](https://github.com/goinvo/EHR) - Idéias, desenhos e técnicas para projetar um registro eletrônico de saúde (REH).
+- [Determinants of Health](https://github.com/goinvo/HealthDeterminants) - Determinantes da Visualização Sanitária.
+- [Health Icons](https://github.com/resolvetosavelives/healthicons) - Uma coleção de ícones de código aberto para projetos de saúde pública.
+- [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - A implementação do EMPI no registro de clientes da Faculdade Mohawk MARC-HI/MEDIC.
+- [PyHealth](https://github.com/sunlabuiuc/PyHealth) - Um kit de ferramentas Python para aplicação em saúde.
+- [Tapirx](https://github.com/virtalabs/tapirx) - Descobrimento e identificação de dispositivos médicos em rede.
+- [ID3C](https://github.com/seattleflu/id3c) - Sistema de logística de dados permitindo epidemiologia genômica em tempo real.
+- [OpenBoxes](https://github.com/openboxes/openboxes) - Um sistema de gerenciamento de fonte aberta e cadeia de suprimentos.
+- [OpenLMIS](https://openlmis.org/) - Software de código aberto, baseado na web, sistema eletrônico de informações de gerenciamento de logística (LMIS), criado para gerenciar cadeias de suprimentos de produtos de saúde.
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) <sub>0 links · licença MIT</sub>
-- [O957/awesome-infectious-disease-modeling](https://github.com/O957/awesome-infectious-disease-modeling) <sub>43 links · licença CC0-1.0</sub>
-- [brandonhimpfen/awesome-digital-health](https://github.com/brandonhimpfen/awesome-digital-health) <sub>23 links · licença CC-BY-SA-4.0</sub>
-- [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) <sub>43 links · licença CC0-1.0</sub>
-- [leandromineti/awesome-healthmetrics](https://github.com/leandromineti/awesome-healthmetrics) <sub>43 links · licença MIT</sub>
+- [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) <sub>🔗 3 · ⚖️ MIT</sub>
+- [O957/awesome-infectious-disease-modeling](https://github.com/O957/awesome-infectious-disease-modeling) <sub>🔗 44 · ⚖️ CC0-1.0</sub>
+- [brandonhimpfen/awesome-digital-health](https://github.com/brandonhimpfen/awesome-digital-health) <sub>🔗 26 · ⚖️ CC-BY-SA-4.0</sub>
+- [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) <sub>🔗 78 · ⚖️ CC0-1.0</sub>
+- [leandromineti/awesome-healthmetrics](https://github.com/leandromineti/awesome-healthmetrics) <sub>🔗 16 · ⚖️ MIT</sub>
 
 ---
 [⬆️ Voltar ao topo](#-medicina-e-saúde) · [← Ciência, Saúde e Educação](README.md)

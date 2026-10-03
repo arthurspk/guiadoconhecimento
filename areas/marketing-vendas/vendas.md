@@ -1,34 +1,39 @@
 # 🤝 Vendas e CRM
 
-> Prospecção, negociação, CRM e operações de vendas. **188 links** nesta área: 15 essenciais escolhidos a dedo, 39 de inteligência artificial e 134 reunidos de 4 listas curadas.
+> Prospecção, negociação, CRM e operações de vendas. **174 links** nesta área: 15 essenciais escolhidos a dedo, 39 de inteligência artificial e 120 reunidos de 4 listas curadas.
 
-[← 📈 Marketing e Vendas](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 📈 Marketing e Vendas](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/marketing-vendas/vendas.md) · 🇪🇸 [Español](../../i18n/es/areas/marketing-vendas/vendas.md) · 🇨🇳 [中文](../../i18n/zh/areas/marketing-vendas/vendas.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/marketing-vendas/vendas.md) · 🇸🇦 [العربية](../../i18n/ar/areas/marketing-vendas/vendas.md) · 🇫🇷 [Français](../../i18n/fr/areas/marketing-vendas/vendas.md) · 🇮🇹 [Italiano](../../i18n/it/areas/marketing-vendas/vendas.md) · 🇰🇷 [한국어](../../i18n/ko/areas/marketing-vendas/vendas.md) · 🇷🇺 [Русский](../../i18n/ru/areas/marketing-vendas/vendas.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/marketing-vendas/vendas.md) · 🇯🇵 [日本語](../../i18n/ja/areas/marketing-vendas/vendas.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>15</sub> <br>
 [🤖 IA para Vendas e CRM](#-ia-para-vendas-e-crm) <sub>39</sub> <br>
-[◾ Technical Blogs](#-technical-blogs) <sub>15</sub> <br>
-[◾ Official Resources](#-official-resources) <sub>9</sub> <br>
-[◾ Official Salesforce Twitter Accounts](#-official-salesforce-twitter-accounts) <sub>9</sub> <br>
-[◾ ETL Tools](#-etl-tools) <sub>7</sub> <br>
-[◾ Analytics & Monitoring](#-analytics--monitoring) <sub>6</sub> <br>
-[◾ APIs & Developer Tools](#-apis--developer-tools) <sub>6</sub> <br>
-[◾ CRM & Customer Support Integrations](#-crm--customer-support-integrations) <sub>6</sub> <br>
-[◾ Related Awesome Lists](#-related-awesome-lists) <sub>6</sub> <br>
-[◾ WhatsApp Business Platforms](#-whatsapp-business-platforms) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>64</sub> <br>
+[📰 Blogs técnicos](#-blogs-técnicos) <sub>15</sub> <br>
+[🎁 Recursos Oficiais](#-recursos-oficiais) <sub>9</sub> <br>
+[📊 Análise e monitoramento](#-análise-e-monitoramento) <sub>6</sub> <br>
+[🔌 APIs e Ferramentas de Desenvolvimento](#-apis-e-ferramentas-de-desenvolvimento) <sub>6</sub> <br>
+[🔌 Integração CRM e Suporte ao Cliente](#-integração-crm-e-suporte-ao-cliente) <sub>6</sub> <br>
+[🛠️ Ferramentas ETL](#️-ferramentas-etl) <sub>6</sub> <br>
+[🟡 Listas impressionantes relacionadas](#-listas-impressionantes-relacionadas) <sub>6</sub> <br>
+[🚀 Plataformas de Negócios WhatsApp](#-plataformas-de-negócios-whatsapp) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>60</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
+> Os essenciais de Vendas e CRM, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
 - [HubSpot Sales Blog](https://blog.hubspot.com/sales) - Artigos sobre prospecção, negociação, gestão de pipeline e CRM.
-- [Pipedrive Blog](https://www.pipedrive.com/pt/blog) - Conteúdo em português sobre processo comercial, funil e CRM. <sub>pt-BR</sub>
-- [Meetime Blog](https://meetime.com.br/blog/) - Blog brasileiro sobre inside sales, prospecção e cadências. <sub>pt-BR</sub>
-- [RD Station CRM](https://www.rdstation.com/produtos/crm/) - CRM brasileiro com plano gratuito para organizar funil e negociações. <sub>pt-BR</sub>
+- [Pipedrive Blog](https://www.pipedrive.com/pt/blog) - Conteúdo em português sobre processo comercial, funil e CRM. <sub>🇧🇷 pt-BR</sub>
+- [Meetime Blog](https://meetime.com.br/blog/) - Blog brasileiro sobre inside sales, prospecção e cadências. <sub>🇧🇷 pt-BR</sub>
+- [RD Station CRM](https://www.rdstation.com/produtos/crm/) - CRM brasileiro com plano gratuito para organizar funil e negociações. <sub>🇧🇷 pt-BR</sub>
 - [HubSpot CRM](https://www.hubspot.com/products/crm) - CRM com plano gratuito para contatos, negócios e tarefas de vendas.
-- [Agendor](https://www.agendor.com.br/) - CRM brasileiro voltado a pequenas e médias empresas. <sub>pt-BR</sub>
-- [Salesforce Trailhead](https://trailhead.salesforce.com/pt-BR/) - Trilhas gratuitas da Salesforce sobre CRM, vendas e atendimento. <sub>pt-BR · curso</sub>
+- [Agendor](https://www.agendor.com.br/) - CRM brasileiro voltado a pequenas e médias empresas. <sub>🇧🇷 pt-BR</sub>
+- [Salesforce Trailhead](https://trailhead.salesforce.com/pt-BR/) - Trilhas gratuitas da Salesforce sobre CRM, vendas e atendimento. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
 - [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - Ferramenta do LinkedIn para prospecção B2B e social selling.
 - [Twenty](https://twenty.com/) - CRM open source e moderno, alternativa ao Salesforce.
 - [Gong Blog](https://www.gong.io/blog/) - Análises baseadas em dados de chamadas de vendas, com dicas de discovery e fechamento.
@@ -36,229 +41,230 @@
 - [Apollo.io](https://www.apollo.io/) - Base de contatos B2B e sequências de prospecção com plano gratuito.
 - [Hunter](https://hunter.io/) - Encontra e verifica e-mails corporativos para prospecção (plano gratuito limitado).
 - [WhatsApp Business](https://whatsappbusiness.com/) - Aplicativo e plataforma do WhatsApp para vendas e atendimento.
-- [Sebrae](https://sebrae.com.br/sites/PortalSebrae) - Cursos gratuitos e conteúdos sobre vendas, marketing e gestão para pequenos negócios. <sub>pt-BR</sub>
+- [Sebrae](https://sebrae.com.br/sites/PortalSebrae) - Cursos gratuitos e conteúdos sobre vendas, marketing e gestão para pequenos negócios. <sub>🇧🇷 pt-BR</sub>
 
 ## 🤖 IA para Vendas e CRM
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com vendas e crm. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Vendas e CRM. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Plugin de Vendas (Anthropic Knowledge Work Plugins)](https://github.com/anthropics/knowledge-work-plugins/tree/main/sales) - Plugin oficial para Claude com skills de pesquisa de conta, preparação de call, resumo de reunião, revisão de pipeline, forecast e outreach; gratuito (Apache-2.0).
-- [Salesforce Agentforce](https://www.salesforce.com/br/agentforce/) - Plataforma de agentes de IA da Salesforce para qualificação de leads, vendas e atendimento integrados ao CRM; paga, com início gratuito limitado. <sub>pt-BR</sub>
-- [Noções básicas de IA (Trailhead)](https://trailhead.salesforce.com/pt-BR/content/learn/modules/artificial-intelligence-fundamentals) - Módulo gratuito em português da Salesforce com conceitos básicos de IA aplicados ao CRM. <sub>pt-BR · curso</sub>
-- [Assistente de vendas com IA (Pipedrive)](https://www.pipedrive.com/pt/features/ai-sales-assistant) - IA do Pipedrive que analisa o funil, prevê fechamentos, sugere próximas ações e escreve e-mails; nos planos pagos. <sub>pt-BR</sub>
-- [RD Station: IA em marketing e vendas](https://www.rdstation.com/inteligencia-artificial/) - Recursos de IA da RD Station (marketing, CRM e conversas) para automatizar tarefas e gerar insights; plataforma brasileira paga. <sub>pt-BR</sub>
+- [Salesforce Agentforce](https://www.salesforce.com/br/agentforce/) - Plataforma de agentes de IA da Salesforce para qualificação de leads, vendas e atendimento integrados ao CRM; paga, com início gratuito limitado. <sub>🇧🇷 pt-BR</sub>
+- [Noções básicas de IA (Trailhead)](https://trailhead.salesforce.com/pt-BR/content/learn/modules/artificial-intelligence-fundamentals) - Módulo gratuito em português da Salesforce com conceitos básicos de IA aplicados ao CRM. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Assistente de vendas com IA (Pipedrive)](https://www.pipedrive.com/pt/features/ai-sales-assistant) - IA do Pipedrive que analisa o funil, prevê fechamentos, sugere próximas ações e escreve e-mails; nos planos pagos. <sub>🇧🇷 pt-BR</sub>
+- [RD Station: IA em marketing e vendas](https://www.rdstation.com/inteligencia-artificial/) - Recursos de IA da RD Station (marketing, CRM e conversas) para automatizar tarefas e gerar insights; plataforma brasileira paga. <sub>🇧🇷 pt-BR</sub>
 - [Gong](https://www.gong.io/) - Plataforma de IA que grava e analisa chamadas de vendas, prevê receita e automatiza follow-ups com agentes; paga.
 - [Lavender](https://lavender.ai) - Coach de IA para escrever e-mails de prospecção mais curtos e com maior taxa de resposta; tem opção gratuita.
 - [Skill de cold email (Marketing Skills)](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cold-email) - Skill para agentes de IA escreverem sequências de e-mail frio personalizadas; gratuita (MIT).
 - [Skill de prospecção (Marketing Skills)](https://github.com/coreyhaines31/marketingskills/tree/main/skills/prospecting) - Skill para agentes de IA pesquisarem contas e montarem listas de prospecção; gratuita (MIT).
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [11x (Alice & Jordan)](https://www.11x.ai/) - AI agents for outbound sales development. Alice handles prospecting, email outreach, reply handling, and meeting booking; Jordan is a phone agent that makes and receives calls to qualify leads.
-- [HireEZ](https://hireez.com/) - AI-powered recruitment tool with LinkedIn sourcing integration.
-- [Botpress](https://botpress.com/) - Conversational AI platform with WhatsApp integrations.
-- [Artisan (Ava)](https://www.artisan.co/) - Outbound sales platform with an AI assistant called Ava that searches a database of 300M+ B2B contacts, generates personalized email and LinkedIn sequences, and manages email deliverability.
-- [Rasa](https://rasa.com/) - Open-source conversational AI framework.
-- [AiSDR](https://aisdr.com/) - Automates sales outreach across email, LinkedIn, and SMS using a 700M+ contact database. Generates messages based on LinkedIn activity and CRM data, handles follow-ups, and supports multiple languages.
-- [Botpress](https://github.com/botpress/botpress) - Open-source conversational AI platform.
-- [Regie.ai](https://www.regie.ai/) - Sales engagement platform combining a sequencing tool, 220M+ contact database, AI dialer, and AI agents that run outbound email and LinkedIn campaigns. Integrates with Salesforce and Outreach.
-- [Rasa](https://github.com/RasaHQ/rasa) - Open-source conversational AI framework.
-- [Salesforce Agentforce SDR](https://www.salesforce.com/sales/ai-sales-agent/ai-sdr/) - AI agent within Salesforce Sales Cloud that responds to inbound leads, answers product questions, handles objections, and books meetings via email and WhatsApp using CRM data.
-- [Botpress Academy](https://botpress.com/academy) - Conversational AI training resources.
-- [Landbase](https://www.landbase.com/) - Go-to-market platform combining a 300M+ B2B contact database, intent signal detection from 1,500+ sources, and AI-generated outbound messaging using models trained on B2B campaign data.
-- [Rasa Learning Center](https://learning.rasa.com/) - Educational content for conversational AI.
-- [Monaco](https://www.monaco.com/) - Sales platform for startups that combines CRM, prospecting, and outreach into a single system. Automates building target account lists, recording meetings, drafting follow-ups, and updating deal records, with human sales experts reviewing AI output.
-- [Rasa Community](https://forum.rasa.com/) - Conversational AI and automation discussions. <sub>comunidade</sub>
-- [Pocus](https://www.pocus.com/) - Sales intelligence platform that aggregates CRM, product usage, email, and call data to surface high-intent accounts and recommend which prospects to contact. Generates account plans and suggests outreach messaging.
-- [Awesome AI Agents](https://github.com/brandonhimpfen/awesome-ai-agents) - Frameworks, tools, and resources for AI agents. <sub>lista awesome</sub>
-- [Sybill](https://www.sybill.ai/) - Sales assistant that records and summarizes calls, tracks buyer engagement during conversations, automates CRM updates and follow-up emails, and scores deals with suggested next steps based on call and email history.
-- [Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering) - Resources and tools for working with AI systems. <sub>lista awesome</sub>
-- [Glyphic](https://www.glyphic.ai/) - Conversation intelligence tool that transcribes and analyzes sales calls, auto-updates CRM records, scores deals against frameworks like MEDDIC and BANT, and provides coaching metrics such as talk-to-listen ratio and speaking speed.
-- [Clari Copilot](https://www.clari.com/products/copilot/) - Conversation intelligence tool (formerly Wingman) providing real-time call transcription, live battlecards during calls, automated CRM field updates from meeting content, and deal summaries fed into Clari's forecasting workflows.
-- [Momentum](https://www.momentum.io/) - Automation layer connecting sales call recorders (like Gong), Salesforce, and Slack. Automatically updates CRM fields, sends deal alerts to Slack, generates call summaries, and creates Slack-based deal rooms synced with Salesforce.
-- [Sitefire](https://sitefire.ai/) - Analyzes how AI models (ChatGPT, Gemini, etc.) source and cite web content, then generates optimized pages and identifies third-party sites to increase brand visibility in AI-generated answers.
-- [Profound](https://www.tryprofound.com/) - Tracks brand visibility across AI answer engines (ChatGPT, Perplexity, Google AI Overviews), monitors real user prompts, analyzes citations, and generates content briefs to improve how a brand appears in AI search results.
-- [Frase](https://www.frase.io/) - Researches top-ranking pages for a given topic, provides a content editor with real-time SEO scoring, and includes a GEO score for optimizing content to be cited by AI platforms like ChatGPT and Perplexity.
-- [Mutiny](https://www.mutinyhq.com/) - No-code B2B website personalization platform that uses visitor data (industry, company size, CRM records) to dynamically swap page content, headlines, and CTAs for different audience segments and target accounts.
-- [Intellimize (Webflow Optimize)](https://www.intellimize.com/) - Runs multivariate experiments on website pages and uses AI to automatically allocate traffic toward the best-performing content variations for each visitor segment.
-- [Personify XP](https://www.personifyxp.com/) - Personalizes website content in real time for anonymous visitors by interpreting on-site behavior and inferring visit intent, without relying on cookies or personal data. Now part of Aprimo.
-- [Chorus (ZoomInfo)](https://www.chorus.ai/) - Records, transcribes, and analyzes sales calls and meetings to surface conversation insights such as talk time, competitor mentions, and deal risk signals. Part of ZoomInfo, integrating conversation data with its B2B contact database.
-- [Fireflies.ai](https://fireflies.ai/) - Joins and records meetings on Zoom, Google Meet, and Microsoft Teams, then generates transcripts, summaries, and action items. Includes speaker talk time and sentiment analytics, and syncs notes to CRMs.
+- [11x (Alice & Jordan)](https://www.11x.ai/) - Alice lida com prospecção, e-mail, tratamento de resposta e reserva de reunião, Jordan é uma agente telefônica que faz e recebe ligações para qualificar pistas.
+- [HireEZ](https://hireez.com/) - Ferramenta de recrutamento com tecnologia de inteligência artificial com integração de fornecimentos do LinkedIn.
+- [Botpress](https://botpress.com/) - Plataforma de IA conversacional com integrações do WhatsApp.
+- [Artisan (Ava)](https://www.artisan.co/) - Plataforma de vendas com uma assistente chamada Ava que busca um banco de dados de contatos 300M+ B2B, gera e-mails personalizados e sequências do LinkedIn, e gerencia entregabilidade de email.
+- [Rasa](https://rasa.com/) - Estrutura de IA de conversação aberta.
+- [AiSDR](https://aisdr.com/) - Gera mensagens baseadas na atividade do LinkedIn e dados de CRM, lida com acompanhamentos e suporta múltiplos...
+- [Botpress](https://github.com/botpress/botpress) - Plataforma de IA com fonte aberta.
+- [Regie.ai](https://www.regie.ai/) - Plataforma de engajamento de vendas combinando uma ferramenta de sequenciamento, banco de dados de contatos 220M+, discador de IA e agentes de IA que executam campanhas de email e LinkedIn.
+- [Rasa](https://github.com/RasaHQ/rasa) - Estrutura de IA de conversação aberta.
+- [Salesforce Agentforce SDR](https://www.salesforce.com/sales/ai-sales-agent/ai-sdr/) - Agente de IA dentro da Salesforce Sales Cloud que responde a leads de entrada, responde perguntas sobre produtos, lida com objeções e reuniões de livros via email e WhatsApp usando dados de CRM.
+- [Botpress Academy](https://botpress.com/academy) - Recursos de treinamento de IA conversacional.
+- [Landbase](https://www.landbase.com/) - Plataforma ir ao mercado combinando um banco de dados de contato 300M+B2B, detecção de sinal de intenção de mais de 1.500 fontes, e mensagens de saída geradas por IA usando modelos treinados em dados…
+- [Rasa Learning Center](https://learning.rasa.com/) - Conteúdo educacional para IA conversacional.
+- [Monaco](https://www.monaco.com/) - Plataforma de vendas para startups que combina CRM, prospecção e divulgação em um único sistema.
+- [Rasa Community](https://forum.rasa.com/) - AI conversacional e discussões de automação. <sub>👥 comunidade</sub>
+- [Pocus](https://www.pocus.com/) - Plataforma de inteligência de vendas que agrega CRM, uso do produto, e-mail e dados de chamadas para contas de alta intensidade à superfície e recomenda quais prospectos contatar.
+- [Awesome AI Agents](https://github.com/brandonhimpfen/awesome-ai-agents) - Frameworks, ferramentas e recursos para agentes de IA. <sub>📋 lista awesome</sub>
+- [Sybill](https://www.sybill.ai/) - Assistente de vendas que grava e resume chamadas, rastreia o engajamento do comprador durante conversas, automatiza atualizações de CRM e e-mails de seguimento, e marca acordos com os próximos passos…
+- [Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering) - Recursos e ferramentas para trabalhar com sistemas de IA. <sub>📋 lista awesome</sub>
+- [Glyphic](https://www.glyphic.ai/) - Ferramenta de inteligência de conversação que transcreve e analisa chamadas de vendas, auto-atualiza registros de CRM, marca acordos contra frameworks como MEDDIC e BANT, e fornece métricas de…
+- [Clari Copilot](https://www.clari.com/products/copilot/) - Ferramenta de inteligência de conversação (anteriormente Wingman) fornecendo transcrição em tempo real, cartões de batalha ao vivo durante as chamadas, atualizações automatizadas do campo de CRM de…
+- [Momentum](https://www.momentum.io/) - Automation layer conectando gravadores de chamadas de vendas (como Gong), Salesforce, e Slack. Atualiza automaticamente campos CRM, envia alertas de acordo para Slack, gera resumos de chamadas, e…
+- [Sitefire](https://sitefire.ai/) - Analisa como os modelos de IA (ChatGPT, Gemini, etc.) fonte e citar conteúdo web, em seguida, gera páginas otimizadas e identifica sites de terceiros para aumentar a visibilidade da marca em…
+- [Profound](https://www.tryprofound.com/) - Rastreia a visibilidade da marca através dos motores de resposta AI (ChatGPT, Perplexity, Visão Geral do Google AI), monitora os pedidos reais do usuário, analisa citações e gera resumos de conteúdo…
+- [Frase](https://www.frase.io/) - Pesquisa páginas de topo para um determinado tópico, fornece um editor de conteúdo com pontuação em SEO em tempo real, e inclui uma pontuação GEO para otimizar o conteúdo a ser citado por plataformas…
+- [Mutiny](https://www.mutinyhq.com/) - Plataforma de personalização do site B2B sem código que usa dados de visitantes (indústria, tamanho da empresa, registros CRM) para trocar dinamicamente conteúdo de página, manchetes e CTAs para…
+- [Intellimize (Webflow Optimize)](https://www.intellimize.com/) - Executa experimentos multivariados em páginas do site e usa IA para alocar automaticamente o tráfego para as variações de conteúdo mais eficientes para cada segmento de visitantes.
+- [Personify XP](https://www.personifyxp.com/) - Personaliza o conteúdo do site em tempo real para visitantes anônimos interpretando comportamento no local e inferindo intenção de visita, sem depender de cookies ou dados pessoais.
+- [Chorus (ZoomInfo)](https://www.chorus.ai/) - Registros, transcritos e analisa chamadas de vendas e reuniões para conversas superficiais como tempo de conversação, menções de concorrentes e sinais de risco.
+- [Fireflies.ai](https://fireflies.ai/) - Junta-se e registra reuniões em Zoom, Google Meet e Microsoft Teams, então gera transcrições, resumos e itens de ação.
 
-## ◾ Technical Blogs
+## 📰 Blogs técnicos
 
-- [Salesforce Developer Relations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
-- [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
-- [Andrew Fawcett](http://andyinthecloud.com/) - CTO at Financialforce.com, Author and known for his outstanding contribution to Salesforce Community. Read More
-- [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com/) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
-- [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, Read More
-- [Harshit Pandey -(Oyecode)](http://www.oyecode.dev/) - Harshit Pandey is Principal Technical Architect at Intuitive Surgical, previously Technical Architect at Salesforce.com Developer Relations Team and build Trailhead while at Salesforce, love to expriement with ever evoloving capacities of Salesforce Read More
-- [Jeff Doughlas](http://blog.jeffdouglas.com/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. Read More
-- [Keir Bowden](http://bobbuzzard.blogspot.com/) - Also known as Keir Bowden and Keir is Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.Read More
-- [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - Also known as Enreeco or ForceLogic.Ultra geek tech lover mercenary software developer and Salesforce enthusiast. Read More
-- [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. Read More
-- [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/) - Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting Read More
-- [Jitendra Zaa](http://www.jitendrazaa.com/blog/) - 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 Read More
-- [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/) - Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in stackexchange owns 9x Salesforce certification.
-- [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
-- [WIPDeveloper.com](https://wipdeveloper.com/) - WIPDevloper.com is where content created by Brett Nelson exploring areas of development in the Salesforce ecosystem is hosted.
+> 15 links de Blogs técnicos em Vendas e CRM, reunidos das listas curadas da comunidade.
 
-## ◾ Official Resources
+- [Salesforce Developer Relations Blog](https://developer.salesforce.com/blogs/) - Gerenciado pela Salesforce Developer Relations Team, você vai encontrar mais legais de atualizações no mundo da Salesforce, principalmente experiências, recursos e desenvolvedor oficial do blog deste… <sub>📖 documentação</sub>
+- [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Abrange a última atualização da equipe de engenharia, você encontrará atualizações sobre engenharia central e produto releated post e algumas pessoas incríveis para seguir <sub>📖 documentação</sub>
+- [Andrew Fawcett](http://andyinthecloud.com/) - CTO em Financialforce.com, Autor e conhecido por sua excelente contribuição para a Comunidade Salesforce.
+- [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com/) - Artigos sobre componentes de relâmpagos, Apex, Visualforce, Force.com e Salesforce em geral.
+- [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets é um evangelista de desenvolvimento para Salesforce.com onde ele se concentra no desenvolvimento de aplicativos móveis, Leia mais
+- [Harshit Pandey -(Oyecode)](http://www.oyecode.dev/) - Harshit Pandey é o Arquiteto Técnico Diretor da Intuitive Surgical, antes do Arquiteto Técnico da Salesforce.com Equipe de Relações com Desenvolvedores e construir Trailhead enquanto estiver na…
+- [Jeff Doughlas](http://blog.jeffdouglas.com/) - Consultora Técnica Sênior da Appirio & Developer Evangelist Architect no Topcoder especializado em APIs baseadas na nuvem e aplicativos móveis.
+- [Keir Bowden](http://bobbuzzard.blogspot.com/) - Também conhecido como Keir Bowden e Keir é o Diretor Técnico Chefe da BrightGen, um parceiro de Platina Salesforce, no Reino Unido.Leia mais
+- [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - Também conhecido como Enreeco ou ForceLogic.Ultra nerd amante de tecnologia desenvolvedor de software mercenário e entusiasta da Salesforce.
+- [Peter Knolle](http://peterknolle.com/) - Peter Knolle gosta de trabalhar com todos os tipos de tecnologias diferentes.
+- [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/) - Force.com MVP & Architect - Apaixonado por S1 & Javascript, Arquiteto da Profissão e agora proprietário de sua empresa com foco em Salesforce Consulting Leia mais
+- [Jitendra Zaa](http://www.jitendrazaa.com/blog/) - 7 Certificados da Salesforce, MVP e Arquiteto Técnico trabalhando na plataforma desde 2008 Leia mais
+- [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/) - Mohit é da CodeScience em Codescience.com, conhecido por sua valiosa contribuição na StackExchange possui certificação 9x Salesforce.
+- [The Wizard News](https://thewizardnews.com/) - The Wizard News é um local central para blogs, vídeos e podcasts criados por Brian Kwong, conhecido como Salesforce Wizard.
+- [WIPDeveloper.com](https://wipdeveloper.com/) - WIPDEVLOPER.com é onde o conteúdo criado por Brett Nelson explorando áreas de desenvolvimento no ecossistema Salesforce é hospedado. <sub>📖 documentação</sub>
 
-- [LinkedIn Developer Portal](https://developer.linkedin.com/) - Official documentation, APIs, and SDKs.
-- [WhatsApp](https://www.whatsapp.com/) - Official WhatsApp messaging platform.
-- [LinkedIn Marketing Solutions](https://business.linkedin.com/marketing-solutions) - Advertising and content marketing tools.
-- [WhatsApp Business](https://www.whatsapp.com/business/) - Business-focused WhatsApp platform.
-- [LinkedIn Help Center](https://www.linkedin.com/help/linkedin) - Platform guides and support.
-- [WhatsApp Business Platform](https://developers.facebook.com/docs/whatsapp/) - Official API documentation and developer resources.
-- [Meta for Developers](https://developers.facebook.com/) - Meta developer ecosystem and APIs.
-- [WhatsApp Business App](https://www.whatsapp.com/business/app) - Small business communication application.
-- [Meta Business Help Center](https://www.facebook.com/business/help) - Official support and guidance.
+## 🎁 Recursos Oficiais
 
-## ◾ Official Salesforce Twitter Accounts
+> 9 links de Recursos Oficiais em Vendas e CRM, reunidos das listas curadas da comunidade.
 
-- [Salesforce Developers](https://twitter.com/SalesforceDevs)
-- [Salesforce Docs](https://twitter.com/salesforcedocs)
-- [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
-- [Salesforce Service Cloud](https://twitter.com/ServiceCloud)
-- [Salesforce ForceDotComLabs](https://twitter.com/ForceDotComLabs)
-- [Salesforce SalesforceLive](https://twitter.com/SalesforceLive)
-- [Salesforce Engineering](https://twitter.com/SalesforceEng)
-- [Salesforce UX](https://twitter.com/SalesforceUX)
-- [Salesforce PartnerForce](https://twitter.com/partnerforce)
+- [LinkedIn Developer Portal](https://developer.linkedin.com/) - Documentação oficial, APIs e SDKs. <sub>📖 documentação</sub>
+- [WhatsApp](https://www.whatsapp.com/) - Plataforma de mensagens oficial do WhatsApp.
+- [LinkedIn Marketing Solutions](https://business.linkedin.com/marketing-solutions) - Publicidade e ferramentas de marketing de conteúdo.
+- [WhatsApp Business](https://www.whatsapp.com/business/) - Plataforma WhatsApp focada em negócios.
+- [LinkedIn Help Center](https://www.linkedin.com/help/linkedin) - Guias de plataforma e suporte.
+- [WhatsApp Business Platform](https://developers.facebook.com/docs/whatsapp/) - Documentação oficial da API e recursos de desenvolvimento. <sub>📖 documentação</sub>
+- [Meta for Developers](https://developers.facebook.com/) - Ecossistema Meta-Desenvolvedor e APIs. <sub>📖 documentação</sub>
+- [WhatsApp Business App](https://www.whatsapp.com/business/app) - Aplicação de comunicação para pequenos negócios.
+- [Meta Business Help Center](https://www.facebook.com/business/help) - Apoio oficial e orientação.
 
-## ◾ ETL Tools
+## 📊 Análise e monitoramento
 
-- [Data Loader](https://developer.salesforce.com/page/Data_Loader) - Is an easy to use graphical tool that helps you to get your data into Salesforce objects.
-- [SFXOrgData](https://www.sfapex.com/) - Copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes.
-- [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - Migrate related sets of data between Orgs.
-- [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
-- [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
-- [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
-- [awesome-etl list](https://github.com/pawl/awesome-etl) <sub>lista awesome</sub>
+> 6 links de Análise e monitoramento em Vendas e CRM, reunidos das listas curadas da comunidade.
 
-## ◾ Analytics & Monitoring
+- [Datadog](https://www.datadoghq.com/) - Plataforma de monitoramento e observação.
+- [Grafana](https://grafana.com/) - Plataforma de visualização e monitoramento.
+- [New Relic](https://newrelic.com/) - Plataforma de monitoramento e análise de aplicativos.
+- [Looker Studio](https://lookerstudio.google.com/) - Plataforma de dados e relatórios.
+- [Power BI](https://powerbi.microsoft.com/) - Inteligência de negócios e plataforma de relatórios.
+- [Tableau](https://www.tableau.com/) - Plataforma de análise e visualização de dados.
 
-- [Datadog](https://www.datadoghq.com/) - Monitoring and observability platform.
-- [Grafana](https://grafana.com/) - Metrics visualization and monitoring platform.
-- [New Relic](https://newrelic.com/) - Application monitoring and analytics platform.
-- [Looker Studio](https://lookerstudio.google.com/) - Dashboarding and reporting platform.
-- [Power BI](https://powerbi.microsoft.com/) - Business intelligence and reporting platform.
-- [Tableau](https://www.tableau.com/) - Data analytics and visualization platform.
+## 🔌 APIs e Ferramentas de Desenvolvimento
 
-## ◾ APIs & Developer Tools
+> 6 links de APIs e Ferramentas de Desenvolvimento em Vendas e CRM, reunidos das listas curadas da comunidade.
 
-- [WhatsApp Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api/) - Official cloud-hosted WhatsApp API.
-- [Twilio Messaging API](https://www.twilio.com/docs/whatsapp) - Messaging API supporting WhatsApp.
-- [Baileys](https://github.com/WhiskeySockets/Baileys) - TypeScript and JavaScript WhatsApp Web API library.
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - Node.js client library for WhatsApp Web.
-- [OpenWA](https://github.com/open-wa/wa-automate-nodejs) - WhatsApp automation framework for Node.js.
-- [Venom Bot](https://github.com/orkestral/venom) - WhatsApp automation framework.
+- [WhatsApp Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api/) - API oficial do WhatsApp hospedada na nuvem. <sub>📖 documentação</sub>
+- [Twilio Messaging API](https://www.twilio.com/docs/whatsapp) - Mensagem de API apoiando WhatsApp. <sub>📖 documentação</sub>
+- [Baileys](https://github.com/WhiskeySockets/Baileys) - TipoScript e JavaScript WhatsApp Web API biblioteca.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - Biblioteca de clientes Node.js para WhatsApp Web.
+- [OpenWA](https://github.com/open-wa/wa-automate-nodejs) - Estrutura de automação WhatsApp para Node.js.
+- [Venom Bot](https://github.com/orkestral/venom) - Estrutura de automação WhatsApp.
 
-## ◾ CRM & Customer Support Integrations
+## 🔌 Integração CRM e Suporte ao Cliente
 
-- [HubSpot](https://www.hubspot.com/) - CRM platform with WhatsApp integrations.
-- [Salesforce](https://www.salesforce.com/) - Customer management platform supporting WhatsApp workflows.
-- [Zendesk](https://www.zendesk.com/) - Customer support platform with WhatsApp support.
-- [Freshdesk](https://www.freshworks.com/freshdesk/) - Customer service and support platform.
-- [Zoho CRM](https://www.zoho.com/crm/) - CRM platform with WhatsApp integrations.
-- [Intercom](https://www.intercom.com/) - Customer communication platform.
+> 6 links de Integração CRM e Suporte ao Cliente em Vendas e CRM, reunidos das listas curadas da comunidade.
 
-## ◾ Related Awesome Lists
+- [HubSpot](https://www.hubspot.com/) - Plataforma de CRM com integrações WhatsApp.
+- [Salesforce](https://www.salesforce.com/) - Plataforma de gerenciamento do cliente que suporta fluxos de trabalho WhatsApp.
+- [Zendesk](https://www.zendesk.com/) - Plataforma de suporte ao cliente com suporte WhatsApp.
+- [Freshdesk](https://www.freshworks.com/freshdesk/) - Atendimento ao cliente e plataforma de suporte.
+- [Zoho CRM](https://www.zoho.com/crm/) - Plataforma de CRM com integrações WhatsApp.
+- [Intercom](https://www.intercom.com/) - Plataforma de comunicação do cliente.
 
-- [Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media) <sub>lista awesome</sub>
-- [Awesome Digital Marketing](https://github.com/brandonhimpfen/awesome-digital-marketing) <sub>lista awesome</sub>
-- [Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint) <sub>lista awesome</sub>
-- [Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom) <sub>lista awesome</sub>
-- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis) - High-quality APIs, SDKs, and developer tools. <sub>lista awesome</sub>
-- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas) - SaaS tools, platforms, and learning resources. <sub>lista awesome</sub>
+## 🛠️ Ferramentas ETL
 
-## ◾ WhatsApp Business Platforms
+> 6 links de Ferramentas ETL em Vendas e CRM, reunidos das listas curadas da comunidade.
 
-- [Twilio WhatsApp](https://www.twilio.com/whatsapp) - WhatsApp messaging through Twilio APIs.
-- [360dialog](https://www.360dialog.com/) - WhatsApp Business API provider.
-- [Infobip](https://www.infobip.com/) - Customer communication platform supporting WhatsApp.
-- [Sinch](https://sinch.com/) - Messaging and conversational platform.
-- [MessageBird](https://www.messagebird.com/) - Omnichannel communications platform.
-- [Vonage Communications APIs](https://www.vonage.com/) - Messaging APIs including WhatsApp support.
+- [Data Loader](https://developer.salesforce.com/page/Data_Loader) - É uma ferramenta gráfica fácil de usar que ajuda você a colocar seus dados em objetos da Salesforce. <sub>📖 documentação</sub>
+- [SFXOrgData](https://www.sfapex.com/) - Copie dados de seu ambiente de produção ou Sandbox Full para caixas de areia Developer/Dev Pro.
+- [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - Migrar conjuntos de dados relacionados entre Orgs.
+- [Jitterbit](http://www.jitterbit.com/) - Produto de integração de software comercial que facilita o transporte entre legado, empresa e aplicações informáticas sob demanda.
+- [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - A mais popular ferramenta gráfica de código aberto.
+- [Talend](https://www.talend.com/products/talend-open-studio) - Um aplicativo de código aberto para integração de dados design de trabalho com um ambiente gráfico desenvolvimento.
 
-## ◾ Mais links
+## 🟡 Listas impressionantes relacionadas
 
-- [findsf](http://findsf.info/) - Google Custom Search of Salesforce related sites
-- [Search The Force.com](http://searchtheforce.com/) - Google custom search of Salesforce related sites with OpenSearch support
-- [GitIgnore for Salesforce](https://github.com/mailtoharshit/gitignore) - Reusable .gitIgnore file for Salesforce or Force.com Projects
-- [LinkedIn REST API](https://learn.microsoft.com/en-us/linkedin/) - Official LinkedIn API for accessing profile, connections, jobs, and more.
-- [LinkedIn JavaScript SDK](https://learn.microsoft.com/en-us/linkedin/shared/authentication/javascript-sdk) - Client-side integration for login and sharing.
-- [pyLinkedIn](https://github.com/ozgur/python-linkedin) - Python library for LinkedIn REST APIs (Unofficial).
-- [linkedin-api](https://github.com/tomquirk/linkedin-api) - Unofficial Python library for LinkedIn API interactions.
-- [linkedin-private-api](https://github.com/eilonmore/linkedin-private-api) - Node.js wrapper for LinkedIn's private API (Unofficial).
-- [Postman LinkedIn API Collection](https://www.postman.com/) - Explore LinkedIn API endpoints (user-generated collections available).
-- [OAuth 2.0 Tester](https://www.linkedin.com/developers/tools/oauth) - LinkedIn OAuth token generation tool.
-- [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting) - Awesome Contents for Salesforce Lightning Framework <sub>lista awesome</sub>
-- [LinkedIn Analytics](https://www.linkedin.com/help/linkedin/answer/4499) - Official analytics dashboard for profiles, pages, and posts.
-- [Shield Analytics](https://shieldapp.ai/) - Analytics for personal LinkedIn accounts.
-- [Socialinsider LinkedIn Analytics](https://www.socialinsider.io/) - LinkedIn Page performance tracking.
-- [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce) - Collection of Awesome Browser Extensions for Salesforce <sub>lista awesome</sub>
-- [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) - If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
-- [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows) - Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core…
-- [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android) - Source repository for the Salesforce Mobile SDK for Android.
-- [LinkedIn Ads](https://www.linkedin.com/campaignmanager/) - Self-serve ad platform.
-- [Hootsuite](https://hootsuite.com/) - Schedule and manage LinkedIn content.
-- [Buffer](https://buffer.com/) - Social media management tool with LinkedIn support.
-- [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) - Design professional LinkedIn posts and banners.
-- [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) - Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
-- [Tweet](https://twitter.com/hashtag/askforce) - Force.com community is pretty active on Twitter, tweet your question with hash #askforce
-- [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce) - Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
-- [StackExchange](http://salesforce.stackexchange.com/) - Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required.
-- [salesforce-developer.ru](https://salesforce-developer.ru/) - Russian-speaking Salesforce community: there are developer's and admin's forum and blog.
-- [LinkedIn Talent Solutions](https://business.linkedin.com/talent-solutions) - Official LinkedIn recruitment products.
-- [PhantomBuster LinkedIn Automations](https://phantombuster.com/phantoms/linkedin) - Automate LinkedIn outreach and data scraping.
-- [ManyChat](https://manychat.com/) - Marketing automation platform supporting WhatsApp.
-- [Landbot](https://landbot.io/) - No-code chatbot builder.
-- [Flow XO](https://flowxo.com/) - Chatbot and workflow automation platform.
-- [Zapier](https://zapier.com/) - Workflow automation platform supporting WhatsApp integrations.
-- [r/LinkedIn](https://www.reddit.com/r/LinkedIn/) - Reddit community about LinkedIn topics. <sub>comunidade</sub>
-- [r/LinkedInMarketing](https://www.reddit.com/r/LinkedInMarketing/) - LinkedIn marketing and content strategy discussions. <sub>comunidade</sub>
-- [Stack Overflow: LinkedIn API](https://stackoverflow.com/questions/tagged/linkedin) - Technical Q&A for LinkedIn APIs.
-- [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
-- [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code. <sub>curso</sub>
-- [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - A crash course on how to code Apex taught by four time Salesforce MVP David Liu.
-- [Focus on Force](https://focusonforce.com/) - This inexpensive learning resource provides platform courses, study guides, and practice exams for several certification paths including Admin, Advanced Admin, App Builder, Platform Developer I, Platform Developer II, among others.
-- [Salesforce Platform App Builder](http://certification.salesforce.com/app-builders) - Salesforce Platform Developer I, and Salesforce Platform Developer II.
-- [Click Here](http://certification.salesforce.com/verification)
-- [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE)
-- [Respond.io](https://respond.io/) - Omnichannel messaging and engagement platform.
-- [WATI](https://wati.io/) - WhatsApp marketing and customer engagement tools.
-- [Callbell](https://www.callbell.eu/) - WhatsApp communication and customer support platform.
-- [Trengo](https://trengo.com/) - Customer engagement and messaging platform.
-- [Bird](https://bird.com/) - Customer communication platform supporting WhatsApp.
-- [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
-- [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
-- [Salesforce Posse](https://salesforceposse.com/) - The Salesforce Posse podcast was created to tell the world about Salesforce development and architecture best practice and news from the Salesforce eco-system.
-- [Code Coverage](https://www.codecoverage.org/) - Code Coverage is a podcast for developers on the force.com platform, in each episode we talk to a developer about how they got involved with the platform, what they’re working on, technologies they like and what they consider to be their most ‘creative’ solution.
-- [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) - then click on save and submit a PR. Github does this automatically in 8 steps.
-- [Waxum](https://github.com/imtaqin/waxum) - MIT-licensed WhatsApp gateway in Rust, shipped as a single binary with a REST API and webhooks.
-- [Meta Blueprint](https://www.facebook.com/business/learn) - Training and certification resources.
-- [360dialog Documentation](https://docs.360dialog.com/) - API guides and implementation resources.
-- [Meta Developer Community](https://developers.facebook.com/community/) - Developer discussions and support.
-- [Stack Overflow WhatsApp Tag](https://stackoverflow.com/questions/tagged/whatsapp) - Technical Q&A and troubleshooting.
-- [Botpress Discord](https://discord.gg/botpress) - Community for Botpress users and developers. <sub>comunidade</sub>
-- [Twilio Community](https://www.twilio.com/community) - Messaging and API development discussions.
-- [Reddit WhatsApp](https://www.reddit.com/r/whatsapp/) - Community discussions related to WhatsApp. <sub>comunidade</sub>
-- [Salesforce](https://login.salesforce.com/)
-- [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md) <sub>lista awesome</sub>
-- [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) <sub>lista awesome</sub>
+> 6 links de Listas impressionantes relacionadas em Vendas e CRM, reunidos das listas curadas da comunidade.
+
+- [Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media) - Uma lista de recursos e dicas para nivelar seu jogo de mídia social! <sub>📋 lista awesome</sub>
+- [Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint) - Uma lista de ferramentas, recursos e técnicas para investigações, jornalismo, segurança cibernética e muito mais. <sub>📋 lista awesome</sub>
+- [Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom) - Uma lista de ferramentas, plataformas, organizações e recursos que suportam acesso livre, aberto e seguro à internet. <sub>📋 lista awesome</sub>
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis) - APIs de alta qualidade, SDKs e ferramentas de desenvolvimento. <sub>📋 lista awesome</sub>
+- [Awesome Digital Marketing](https://github.com/brandonhimpfen/awesome-digital-marketing) - Ferramentas de marketing, plataformas e estratégias. <sub>📋 lista awesome</sub>
+- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas) - Ferramentas SaaS, plataformas e recursos de aprendizagem. <sub>📋 lista awesome</sub>
+
+## 🚀 Plataformas de Negócios WhatsApp
+
+> 6 links de Plataformas de Negócios WhatsApp em Vendas e CRM, reunidos das listas curadas da comunidade.
+
+- [Twilio WhatsApp](https://www.twilio.com/whatsapp) - WhatsApp mensagens através de APIs Twilio.
+- [360dialog](https://www.360dialog.com/) - WhatsApp fornecedor de API de negócios.
+- [Infobip](https://www.infobip.com/) - Plataforma de comunicação do cliente apoiando WhatsApp.
+- [Sinch](https://sinch.com/) - Mensagem e plataforma de conversa.
+- [MessageBird](https://www.messagebird.com/) - Plataforma de comunicação Omnicanal.
+- [Vonage Communications APIs](https://www.vonage.com/) - Mensagens de APIs, incluindo suporte ao WhatsApp.
+
+## 🧺 Mais links
+
+> Links de Vendas e CRM que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting) - Uma lista de deliciosos recursos da Salesforce Lightning. <sub>📋 lista awesome</sub>
+- [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku) - Uma lista de deliciosos recursos da Plataforma Heroku. <sub>📋 lista awesome</sub>
+- [findsf](http://findsf.info/) - Pesquisa personalizada Google de sites relacionados à Salesforce
+- [Search The Force.com](http://searchtheforce.com/) - Pesquisa personalizada no Google de sites relacionados à Salesforce com suporte ao OpenSearch
+- [LinkedIn REST API](https://learn.microsoft.com/en-us/linkedin/) - API oficial do LinkedIn para acessar perfil, conexões, empregos e muito mais.
+- [LinkedIn JavaScript SDK](https://learn.microsoft.com/en-us/linkedin/shared/authentication/javascript-sdk) - Integração do lado cliente para login e compartilhamento.
+- [pyLinkedIn](https://github.com/ozgur/python-linkedin) - Biblioteca Python para as APIs do LinkedIn REST (não oficial).
+- [linkedin-api](https://github.com/tomquirk/linkedin-api) - Biblioteca Python não oficial para interações com a API do LinkedIn.
+- [linkedin-private-api](https://github.com/eilonmore/linkedin-private-api) - Node.js embrulho para API privada do LinkedIn (não oficial).
+- [GitIgnore for Salesforce](https://github.com/mailtoharshit/gitignore) - Arquivo gitIgnore reutilizável para Salesforce ou Projetos Force.com
+- [Postman LinkedIn API Collection](https://www.postman.com/) - Explore os endpoints da API do LinkedIn (coleções geradas pelo usuário disponíveis).
+- [OAuth 2.0 Tester](https://www.linkedin.com/developers/tools/oauth) - Ferramenta de geração de fichas do LinkedIn OAuth.
+- [LinkedIn Analytics](https://www.linkedin.com/help/linkedin/answer/4499) - Painel de análise oficial para perfis, páginas e postagens.
+- [Shield Analytics](https://shieldapp.ai/) - Análise para contas pessoais do LinkedIn.
+- [Socialinsider LinkedIn Analytics](https://www.socialinsider.io/) - Rastreamento de desempenho da página do LinkedIn.
+- [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce) - Coleção de extensões de navegador impressionantes para a Salesforce <sub>📋 lista awesome</sub>
+- [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) - Se você quiser trabalhar com o código fonte do SDK em si, você veio ao lugar certo!
+- [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows) - Construir o projeto normalmente no Visual Studio, tudo deve ser construído bem.
+- [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android) - Repositório fonte para o Salesforce Mobile SDK para Android.
+- [LinkedIn Ads](https://www.linkedin.com/campaignmanager/) - Auto-servir plataforma de anúncios.
+- [Hootsuite](https://hootsuite.com/) - Agende e gerencie o conteúdo do LinkedIn.
+- [Buffer](https://buffer.com/) - Ferramenta de gerenciamento de mídia social com suporte ao LinkedIn.
+- [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) - Design de posts e banners profissionais do LinkedIn.
+- [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) - Há uma variedade de quadros disponíveis para discutir quase tudo sobre plataforma, localizar o tabuleiro correto.
+- [Tweet](https://twitter.com/hashtag/askforce) - A comunidade Force.com está ativa no Twitter, tuite sua pergunta com hash #askforce
+- [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce) - Publique suas perguntas com etiquetas certas como ápice, força visual e força de vendas para obter uma resposta rápida.
+- [StackExchange](http://salesforce.stackexchange.com/) - Salesforce Stack Exchange é um site de perguntas e respostas para administradores da Salesforce, especialistas em implementação, desenvolvedores e qualquer pessoa no meio.
+- [salesforce-developer.ru](https://salesforce-developer.ru/) - Comunidade de Salesforce falante de russo: há fórum e blog do desenvolvedor e administrador. <sub>📖 documentação</sub>
+- [LinkedIn Talent Solutions](https://business.linkedin.com/talent-solutions) - Produtos oficiais de recrutamento do LinkedIn.
+- [PhantomBuster LinkedIn Automations](https://phantombuster.com/phantoms/linkedin) - Automatize o alcance do LinkedIn e rastreie os dados.
+- [ManyChat](https://manychat.com/) - Plataforma de automação de marketing apoiando WhatsApp.
+- [Landbot](https://landbot.io/) - Construtor de chatbots sem código.
+- [Flow XO](https://flowxo.com/) - Chatbot e plataforma de automação de fluxo de trabalho.
+- [Zapier](https://zapier.com/) - Plataforma de automação de fluxo de trabalho suportando integrações do WhatsApp.
+- [r/LinkedIn](https://www.reddit.com/r/LinkedIn/) - Comunidade Reddit sobre temas do LinkedIn. <sub>👥 comunidade</sub>
+- [r/LinkedInMarketing](https://www.reddit.com/r/LinkedInMarketing/) - Marketing LinkedIn e discussões de estratégia de conteúdo. <sub>👥 comunidade</sub>
+- [Stack Overflow: LinkedIn API](https://stackoverflow.com/questions/tagged/linkedin) - Perguntas técnicas para APIs do LinkedIn.
+- [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead te ensina como construir aplicativos na nuvem de graça com tutoriais interativos e divertidos. <sub>📖 documentação</sub>
+- [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - Essa aula ensina como construir poderosos aplicativos web e móveis e hospedá-los na nuvem, sem escrever uma linha de código. <sub>🎓 curso</sub>
+- [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - Um curso intensivo sobre como codificar Apex ensinado por quatro vezes o MVP da Salesforce David Liu.
+- [Focus on Force](https://focusonforce.com/) - Este recurso de aprendizagem barato fornece cursos de plataforma, guias de estudo, e exames de prática para vários caminhos de certificação, incluindo Admin, Advanced Admin, App Builder, Platform…
+- [Salesforce Platform App Builder](http://certification.salesforce.com/app-builders) - Desenvolvedor da Plataforma Salesforce I, e desenvolvedor II.
+- [Respond.io](https://respond.io/) - Mensagem Omnicanal e plataforma de engajamento.
+- [WATI](https://wati.io/) - WhatsApp marketing e ferramentas de engajamento do cliente.
+- [Callbell](https://www.callbell.eu/) - WhatsApp comunicação e plataforma de suporte ao cliente.
+- [Trengo](https://trengo.com/) - Plataforma de engajamento e mensagens do cliente.
+- [Bird](https://bird.com/) - Plataforma de comunicação do cliente apoiando WhatsApp.
+- [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - Uma tecnologia semanal e um pós-desenvolvimento suave, com um forte foco na plataforma de segurança.
+- [SalesforceWay Podcast](https://salesforceway.com/podcast) - Uma força de vendas semanal developer alvo podast.
+- [Salesforce Posse](https://salesforceposse.com/) - O podcast Salesforce Posse foi criado para contar ao mundo sobre o desenvolvimento da Salesforce e as melhores práticas de arquitetura e notícias do ecossistema Salesforce.
+- [Code Coverage](https://www.codecoverage.org/) - Coverage de código é um podcast para desenvolvedores na plataforma force.com, em cada episódio falamos com um desenvolvedor sobre como eles se envolveram com a plataforma, no que estão trabalhando…
+- [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) - Github faz isso automaticamente em 8 passos.
+- [Waxum](https://github.com/imtaqin/waxum) - Gateway WhatsApp licenciado pelo MIT em Rust, enviado como um único binário com uma API REST e webhooks.
+- [Meta Blueprint](https://www.facebook.com/business/learn) - Recursos de treinamento e certificação.
+- [360dialog Documentation](https://docs.360dialog.com/) - Guias API e recursos de implementação. <sub>📖 documentação</sub>
+- [Meta Developer Community](https://developers.facebook.com/community/) - Debates de desenvolvedores e apoio. <sub>📖 documentação</sub>
+- [Stack Overflow WhatsApp Tag](https://stackoverflow.com/questions/tagged/whatsapp) - Perguntas técnicas e solução de problemas.
+- [Botpress Discord](https://discord.gg/botpress) - Comunidade para usuários de Botpress e desenvolvedores. <sub>👥 comunidade</sub>
+- [Twilio Community](https://www.twilio.com/community) - Mensagens e discussões de desenvolvimento da API.
+- [Reddit WhatsApp](https://www.reddit.com/r/whatsapp/) - Conversas comunitárias relacionadas ao WhatsApp. <sub>👥 comunidade</sub>
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [brandonhimpfen/awesome-linkedin](https://github.com/brandonhimpfen/awesome-linkedin) <sub>26 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-whatsapp](https://github.com/brandonhimpfen/awesome-whatsapp) <sub>49 links · licença CC-BY-SA-4.0</sub>
-- [mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) <sub>59 links · licença CC0-1.0</sub>
-- [ong/awesome-ai-gtm](https://github.com/ong/awesome-ai-gtm) <sub>0 links · licença sem licença declarada</sub>
+- [brandonhimpfen/awesome-linkedin](https://github.com/brandonhimpfen/awesome-linkedin) <sub>🔗 26 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-whatsapp](https://github.com/brandonhimpfen/awesome-whatsapp) <sub>🔗 59 · ⚖️ CC-BY-SA-4.0</sub>
+- [mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) <sub>🔗 45 · ⚖️ CC0-1.0</sub>
+- [ong/awesome-ai-gtm](https://github.com/ong/awesome-ai-gtm) <sub>🔗 20 · ⚖️ sem licença declarada</sub>
 
 ---
 [⬆️ Voltar ao topo](#-vendas-e-crm) · [← Marketing e Vendas](README.md)

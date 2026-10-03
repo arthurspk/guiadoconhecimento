@@ -2,9 +2,11 @@
 
 > Ferramentas online, apps por sistema, self-hosting, APIs e recursos gratuitos.
 
-[🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
 
-| Área | O que cobre | Links | Essenciais |
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/ferramentas/README.md) · 🇪🇸 [Español](../../i18n/es/areas/ferramentas/README.md) · 🇨🇳 [中文](../../i18n/zh/areas/ferramentas/README.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/ferramentas/README.md) · 🇸🇦 [العربية](../../i18n/ar/areas/ferramentas/README.md) · 🇫🇷 [Français](../../i18n/fr/areas/ferramentas/README.md) · 🇮🇹 [Italiano](../../i18n/it/areas/ferramentas/README.md) · 🇰🇷 [한국어](../../i18n/ko/areas/ferramentas/README.md) · 🇷🇺 [Русский](../../i18n/ru/areas/ferramentas/README.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/ferramentas/README.md) · 🇯🇵 [日本語](../../i18n/ja/areas/ferramentas/README.md)
+
+| Área | O que cobre | 🔗 Links | ⭐ Essenciais |
 |---|---|:--:|:--:|
 | [🌍 **Ferramentas Online**](./ferramentas-online.md) | Conversores, geradores, editores e utilitários no navegador. | 297 | 22 |
 | [🪄 **Ferramentas de IA**](./ferramentas-ia.md) | Apps de IA para texto, imagem, vídeo, áudio e produtividade. | 268 | 27 |
@@ -18,10 +20,12 @@
 
 ## ⭐ Um gostinho de cada área
 
+> Os primeiros essenciais de cada área deste setor, para você sentir o que há em cada página.
+
 ### 🌍 Ferramentas Online
 
-- [iLovePDF](https://www.ilovepdf.com/pt) - Ferramentas online para juntar, dividir, comprimir e converter PDFs. <sub>pt-BR</sub>
-- [PDF24 Tools](https://tools.pdf24.org/pt/) - Coleção gratuita de ferramentas de PDF no navegador, sem limites artificiais. <sub>pt-BR</sub>
+- [iLovePDF](https://www.ilovepdf.com/pt) - Ferramentas online para juntar, dividir, comprimir e converter PDFs. <sub>🇧🇷 pt-BR</sub>
+- [PDF24 Tools](https://tools.pdf24.org/pt/) - Coleção gratuita de ferramentas de PDF no navegador, sem limites artificiais. <sub>🇧🇷 pt-BR</sub>
 - [CloudConvert](https://cloudconvert.com/) - Conversor de arquivos online com suporte a mais de 200 formatos.
 - [TinyPNG](https://tinypng.com/) - Comprime imagens PNG, JPEG e WebP mantendo a qualidade visual.
 - [Squoosh](https://squoosh.app/) - Compressor de imagens do Google que roda localmente no navegador.
@@ -42,7 +46,7 @@
 
 - [awesome-selfhosted.net](https://awesome-selfhosted.net/) - Versão navegável da principal lista de software para hospedar você mesmo.
 - [selfh.st](https://selfh.st/) - Newsletter semanal e diretório de apps self-hosted.
-- [Docker Docs](https://docs.docker.com/) - Documentação oficial do Docker, base da maioria das instalações self-hosted.
+- [Docker Docs](https://docs.docker.com/) - Documentação oficial do Docker, base da maioria das instalações self-hosted. <sub>📖 documentação</sub>
 - [LinuxServer.io](https://www.linuxserver.io/) - Imagens Docker padronizadas e documentadas para dezenas de apps.
 - [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview) - Plataforma de virtualização aberta para servidores domésticos e empresariais.
 
@@ -52,7 +56,7 @@
 
 - [AlternativeTo](https://alternativeto.net/) - Encontra alternativas a qualquer programa, filtrando por sistema e licença.
 - [Homebrew](https://brew.sh/) - Gerenciador de pacotes para macOS e Linux.
-- [WinGet](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes oficial do Windows pela linha de comando. <sub>pt-BR</sub>
+- [WinGet](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes oficial do Windows pela linha de comando. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 - [Scoop](https://scoop.sh/) - Instalador de programas para Windows via linha de comando, sem UAC.
 - [Ninite](https://ninite.com/) - Instala e atualiza vários programas do Windows de uma vez, sem toolbars.
 
@@ -81,20 +85,20 @@
 ### 🔗 APIs Públicas
 
 - [Public APIs](https://github.com/public-apis/public-apis) - A lista de APIs gratuitas mais conhecida, organizada por categoria.
-- [BrasilAPI](https://brasilapi.com.br/) - API gratuita com CEP, CNPJ, bancos, feriados, FIPE e outros dados brasileiros. <sub>pt-BR</sub>
-- [ViaCEP](https://viacep.com.br/) - Webservice gratuito de consulta de CEP em JSON ou XML. <sub>pt-BR</sub>
-- [Dados Abertos do Banco Central](https://dadosabertos.bcb.gov.br/) - Séries de câmbio, Selic, Pix e crédito com acesso via API. <sub>pt-BR</sub>
-- [Portal Brasileiro de Dados Abertos](https://dados.gov.br/) - Catálogo de conjuntos de dados abertos do governo federal. <sub>pt-BR</sub>
+- [BrasilAPI](https://brasilapi.com.br/) - API gratuita com CEP, CNPJ, bancos, feriados, FIPE e outros dados brasileiros. <sub>🇧🇷 pt-BR</sub>
+- [ViaCEP](https://viacep.com.br/) - Webservice gratuito de consulta de CEP em JSON ou XML. <sub>🇧🇷 pt-BR</sub>
+- [Dados Abertos do Banco Central](https://dadosabertos.bcb.gov.br/) - Séries de câmbio, Selic, Pix e crédito com acesso via API. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Portal Brasileiro de Dados Abertos](https://dados.gov.br/) - Catálogo de conjuntos de dados abertos do governo federal. <sub>🇧🇷 pt-BR</sub>
 
 → [Ver todos os 298 links de APIs Públicas](./apis-publicas.md)
 
 ### 🎁 Recursos Gratuitos
 
 - [Unsplash](https://unsplash.com/) - Fotos de alta qualidade gratuitas para qualquer uso.
-- [Pexels](https://www.pexels.com/pt-br/) - Fotos e vídeos gratuitos sem necessidade de atribuição. <sub>pt-BR</sub>
-- [Pixabay](https://pixabay.com/pt/) - Fotos, vetores, vídeos, músicas e efeitos sonoros livres para uso comercial. <sub>pt-BR</sub>
+- [Pexels](https://www.pexels.com/pt-br/) - Fotos e vídeos gratuitos sem necessidade de atribuição. <sub>🇧🇷 pt-BR</sub>
+- [Pixabay](https://pixabay.com/pt/) - Fotos, vetores, vídeos, músicas e efeitos sonoros livres para uso comercial. <sub>🇧🇷 pt-BR</sub>
 - [Mixkit](https://mixkit.co/) - Vídeos, músicas, efeitos sonoros e templates gratuitos para vídeo.
-- [Agência Brasil Fotos](https://agenciabrasil.ebc.com.br/fotos) - Acervo de fotojornalismo da empresa pública EBC; confira as regras de crédito. <sub>pt-BR</sub>
+- [Agência Brasil Fotos](https://agenciabrasil.ebc.com.br/fotos) - Acervo de fotojornalismo da empresa pública EBC; confira as regras de crédito. <sub>🇧🇷 pt-BR</sub>
 
 → [Ver todos os 288 links de Recursos Gratuitos](./recursos-gratuitos.md)
 

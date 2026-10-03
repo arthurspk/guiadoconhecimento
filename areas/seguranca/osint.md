@@ -1,37 +1,44 @@
 # 🔎 OSINT e Investigação
 
-> Inteligência de fontes abertas e técnicas de investigação. **204 links** nesta área: 20 essenciais escolhidos a dedo, 34 de inteligência artificial e 150 reunidos de 4 listas curadas.
+> Inteligência de fontes abertas e técnicas de investigação. **205 links** nesta área: 20 essenciais escolhidos a dedo, 35 de inteligência artificial e 150 reunidos de 4 listas curadas.
 
-[← 🔒 Segurança e Privacidade](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🔒 Segurança e Privacidade](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/seguranca/osint.md) · 🇪🇸 [Español](../../i18n/es/areas/seguranca/osint.md) · 🇨🇳 [中文](../../i18n/zh/areas/seguranca/osint.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/seguranca/osint.md) · 🇸🇦 [العربية](../../i18n/ar/areas/seguranca/osint.md) · 🇫🇷 [Français](../../i18n/fr/areas/seguranca/osint.md) · 🇮🇹 [Italiano](../../i18n/it/areas/seguranca/osint.md) · 🇰🇷 [한국어](../../i18n/ko/areas/seguranca/osint.md) · 🇷🇺 [Русский](../../i18n/ru/areas/seguranca/osint.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/seguranca/osint.md) · 🇯🇵 [日本語](../../i18n/ja/areas/seguranca/osint.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>20</sub> <br>
-[🤖 IA para OSINT e Investigação](#-ia-para-osint-e-investigação) <sub>34</sub> <br>
-[◾ Dark Web Search Engine Tools](#-dark-web-search-engine-tools) <sub>9</sub> <br>
-[◾ Tools to crawl data from the Dark Web](#-tools-to-crawl-data-from-the-dark-web) <sub>7</sub> <br>
-[◾ Data Breach Search Engines](#-data-breach-search-engines) <sub>6</sub> <br>
-[◾ Email addresses](#-email-addresses) <sub>6</sub> <br>
-[◾ General Search](#-general-search) <sub>6</sub> <br>
-[◾ Images & Video Analysis](#-images--video-analysis) <sub>6</sub> <br>
-[◾ Intelligence](#-intelligence) <sub>6</sub> <br>
-[◾ Live Cyber Threat Maps](#-live-cyber-threat-maps) <sub>6</sub> <br>
-[◾ Privacy Focused Search Engines](#-privacy-focused-search-engines) <sub>6</sub> <br>
-[◾ Speciality Search Engines](#-speciality-search-engines) <sub>6</sub> <br>
-[◾ Threat Actor Search](#-threat-actor-search) <sub>6</sub> <br>
-[◾ URLs](#-urls) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>74</sub> <br>
+[🤖 IA para OSINT e Investigação](#-ia-para-osint-e-investigação) <sub>35</sub> <br>
+[🟠 Busca de apelidos.](#-busca-de-apelidos) <sub>12</sub> <br>
+[🟢 SubDomain.](#-subdomain) <sub>10</sub> <br>
+[🔸 URLs](#-urls) <sub>8</sub> <br>
+[📊 Ferramentas para rastrear dados da Dark Web](#-ferramentas-para-rastrear-dados-da-dark-web) <sub>7</sub> <br>
+[📊 Mecanismos de busca de dados](#-mecanismos-de-busca-de-dados) <sub>6</sub> <br>
+[🔹 Pesquisa de arquivos](#-pesquisa-de-arquivos) <sub>6</sub> <br>
+[🔶 Busca Geral](#-busca-geral) <sub>6</sub> <br>
+[🎞️ Imagens e Análise de Vídeo](#️-imagens-e-análise-de-vídeo) <sub>6</sub> <br>
+[🔵 Mapas de Ameaça Cibernética ao Vivo](#-mapas-de-ameaça-cibernética-ao-vivo) <sub>6</sub> <br>
+[🟢 Pastebins.](#-pastebins) <sub>6</sub> <br>
+[🔒 Privacidade Focada em Buscas](#-privacidade-focada-em-buscas) <sub>6</sub> <br>
+[🟤 Motores de Busca Especiais.](#-motores-de-busca-especiais) <sub>6</sub> <br>
+[🔵 Ator de Ameaça Procura](#-ator-de-ameaça-procura) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>59</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
+
+> Os essenciais de OSINT e Investigação, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
 
 - [OSINT Framework](https://github.com/lockfale/osint-framework) - Mapa interativo de ferramentas OSINT organizadas por tipo de dado investigado.
 - [Bellingcat](https://www.bellingcat.com/) - Organização de jornalismo investigativo que é referência mundial em investigações de fontes abertas.
 - [Bellingcat Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) - Catálogo comentado de ferramentas de investigação, com guias de uso.
 - [Guias da Bellingcat](https://www.bellingcat.com/category/resources/how-tos/) - Tutoriais práticos de geolocalização, imagens de satélite e verificação.
-- [Abraji](https://abraji.org.br/) - Associação Brasileira de Jornalismo Investigativo, com cursos e guias de apuração. <sub>pt-BR · comunidade</sub>
+- [Abraji](https://abraji.org.br/) - Associação Brasileira de Jornalismo Investigativo, com cursos e guias de apuração. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
 - [IntelTechniques](https://inteltechniques.com/) - Site de Michael Bazzell com livros, treinamentos e recursos de OSINT e privacidade.
-- [Trace Labs](https://www.tracelabs.org/) - ONG que organiza investigações OSINT colaborativas e CTFs para encontrar pessoas desaparecidas. <sub>comunidade</sub>
+- [Trace Labs](https://www.tracelabs.org/) - ONG que organiza investigações OSINT colaborativas e CTFs para encontrar pessoas desaparecidas. <sub>👥 comunidade</sub>
 - [Sector035 - Week in OSINT](https://sector035.nl/) - Resumo semanal de ferramentas, técnicas e artigos de OSINT.
 - [OSINTCurio.us](https://osintcurio.us/) - Arquivo do projeto OSINT Curious com tutoriais e técnicas de investigação (encerrado em 2023).
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Ferramenta que procura um nome de usuário em centenas de redes sociais.
@@ -48,9 +55,9 @@
 
 ## 🤖 IA para OSINT e Investigação
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com osint e investigação. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com OSINT e Investigação. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Have LLMs Finally Mastered Geolocation? (Bellingcat)](https://www.bellingcat.com/resources/how-tos/2025/06/06/have-llms-finally-mastered-geolocation/) - Teste da Bellingcat com 20 modelos de IA em geolocalização de fotos, mostrando acertos, alucinações e limites frente ao Google Lens.
 - [Pinpoint (Google Journalist Studio)](https://journaliststudio.google.com/pinpoint/about) - Ferramenta do Google para jornalistas pesquisarem, transcreverem e organizarem grandes coleções de documentos, áudios e vídeos com IA.
@@ -58,235 +65,267 @@
 - [Content Credentials Verify](https://verify.contentauthenticity.org/) - Verificador gratuito de credenciais de conteúdo (C2PA) que mostra origem e histórico de edição de uma imagem, incluindo uso de IA.
 - [SynthID Detector (Google DeepMind)](https://deepmind.google/models/synthid/) - Página do SynthID, marca d'água do Google em conteúdo gerado por IA, e do portal de verificação para jornalistas (acesso por lista de espera).
 - [Picarta](https://picarta.ai) - Geolocalização de fotos por IA a partir de elementos visuais, mesmo sem metadados EXIF; recursos completos pagos.
-- [Fátima (Aos Fatos)](https://www.aosfatos.org/fatima/) - Robô de checagem do Aos Fatos que ajuda a verificar se uma informação é verdadeira, em português e via apps de mensagem. <sub>pt-BR</sub>
+- [Fátima (Aos Fatos)](https://www.aosfatos.org/fatima/) - Robô de checagem do Aos Fatos que ajuda a verificar se uma informação é verdadeira, em português e via apps de mensagem. <sub>🇧🇷 pt-BR</sub>
 - [The Essential AI Toolkit (Journalists on HF)](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - Coleção gratuita e aberta de ferramentas de IA para jornalistas: transcrição, processamento de vídeo e extração de dados.
 - [Whisper](https://github.com/openai/whisper) - Modelo aberto de reconhecimento de fala da OpenAI para transcrever e traduzir áudios e vídeos localmente, inclusive em português.
 - [Robin](https://github.com/apurvsinghgautam/robin) - Ferramenta de OSINT com IA para buscar e resumir conteúdo da dark web via Tor; uso ético e legal.
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Perplexity](https://www.perplexity.ai/) - AI-powered search engine with source citations.
-- [Phind](https://phindai.org/) - AI search engine optimized for developers and technical questions.
-- [YOU](https://you.com/) - AI search engine.
-- [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
-- [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
-- [SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
-- [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
-- [NEUROAUTOSEARCH](https://t.me/noblackAuto_bot) - Car DB search + neural networks. <sub>comunidade</sub>
-- [Trace](https://trace.manus.space/) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
-- [Offendersearch](https://offendersearch.app/) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
-- [VerifiedHer](https://verifiedher.com/) - Free registry of online creators and influencers answering "is she real?" — per-person pages with sourced verdicts (real / AI persona / unverified), documented official accounts, and known impersonations.
-- [WhiteIntel](https://whiteintel.dev/) - Free corporate and offshore ownership graph: trace a company to its beneficial owners across 31 public registries (Companies House, GLEIF, ICIJ Offshore Leaks, OpenSanctions, SEC EDGAR), with sanctions screening and fully cited dossiers. Queryable by AI agents over MCP.
-- [HoneyLabs](https://honeylabs.net/) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, JA4/JA4H/HASSH client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
-- [IntoDNS.ai](https://intodns.ai/) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
-- [GeoSpyer](https://github.com/atiilla/geospy) - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
-- [GeoSpy](https://geospy.web.app/) - AI based image osint tool
-- [ReverseImageLocation](https://reverseimagelocation.com/) - AI-powered geolocation tool for identifying locations from images.
-- [Nodebox](https://www.nodebox.net/) - a family of tools gives you the leverage to create generative design the way you want.
-- [Amass](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic…
-- [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.
-- [IntellyWeave](https://github.com/vericle/intellyweave) - AI-powered OSINT platform with GLiNER entity extraction, Mapbox 3D geospatial visualization, and multi-agent archive research across 30+ international archives.
-- [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
-- [Pharos AI](https://conflicts.app/) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
-- [Taranis AI](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
+- [Perplexity](https://www.perplexity.ai/) - Um motor de busca com fontes.
+- [SubGPT](https://github.com/s0md3v/SubGPT) - Encontre subdomínios com GPT, de graça.
+- [Phind](https://phindai.org/) - Mecanismo de busca IA otimizado para desenvolvedores e perguntas técnicas.
+- [YOU](https://you.com/) - Al Search Engine.
+- [DorkGenius](https://dorkgenius.com/) - DorkGenius é a melhor ferramenta para gerar pesquisas personalizadas para o Google, Bing e Google.
+- [DorkGPT](https://www.dorkgpt.com/) - Gere o Google Idiotas com IA.
+- [SearchDorks](https://kriztalz.sh/search-dorks/) - Gerar motor de busca (Google, FOFA, Shodan, Censys, ZoomEye) idiotas usando IA.
+- [OSINTNova](https://app.osintnova.com/) - Plataforma OSINT para investigações digitais avançadas e análise de inteligência.
+- [NEUROAUTOSEARCH](https://t.me/noblackAuto_bot) - Busca de carro DB + redes neurais. <sub>👥 comunidade</sub>
+- [Trace](https://trace.manus.space/) - Plataforma OSINT em tempo real para procurar nomes de usuário, e-mails, números de telefone e nomes completos em 600+ plataformas com detecção de violação e pontuação de risco de IA.
+- [Offendersearch](https://offendersearch.app/) - Procurem todos os 58 registros de criminosos sexuais dos EUA em uma consulta, resultados sem duplicidade com um link para o registro oficial por trás de cada jogo.
+- [VerifiedHer](https://verifiedher.com/) - Registro grátis de criadores e influenciadores online respondendo "ela é real?" - páginas por pessoa com vereditos fontes (real / Al persona / não verificada), contas oficiais documentadas, e…
+- [WhiteIntel](https://whiteintel.dev/) - Gráfico de propriedade livre corporativa e offshore: Rastreie uma empresa para seus proprietários benéficos em 31 registros públicos (Companies House, GLEIF, ICIJ Offshore Leaks, OpenSanctions, SEC…
+- [HoneyLabs](https://honeylabs.net/) - Relatórios grátis por IP de uma rede distribuída de honeypot: o que um IP escaneou, combinou caminhos de exploração CVE, impressões digitais do cliente JA4/JA4H/HASSH, cargas capturadas e malware…
+- [IntoDNS.ai](https://intodns.ai/) - DNS e scanner de segurança por e-mail com SPF, DKIM, DMARC, DNSSEC checa e conserta sugestões.
+- [GeoSpyer](https://github.com/atiilla/geospy) - Ferramenta Python usando o serviço de localização geográfica da Graylark para descobrir onde as fotos foram tiradas.
+- [GeoSpy](https://geospy.web.app/) - Ferramenta de imagem baseada em IA Osint
+- [ReverseImageLocation](https://reverseimagelocation.com/) - Ferramenta de geolocalização para identificar locais de imagens.
+- [Nodebox](https://www.nodebox.net/) - Uma família de ferramentas lhe dá a vantagem de criar um design generativo como você quer.
+- [Amass](https://github.com/owasp-amass/amass) - A ferramenta de aglomeração pesquisa fontes de dados da Internet, executa força bruta subdomínio enumeração, busca arquivos web, e usa aprendizado de máquina para gerar suposições adicionais do nome…
+- [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Primeiro documento de inteligência local com RAG offline, detecção de contradição, gráficos de conhecimento e extração da mesa de IA.
+- [IntellyWeave](https://github.com/vericle/intellyweave) - Plataforma OSINT com energia de IA com extração de entidade GLiNER, visualização geoespacial do Mapbox 3D e pesquisa em arquivos multi-agentes em mais de 30 arquivos internacionais.
+- [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - AI Powered Ferramenta de Investigação
+- [Pharos AI](https://conflicts.app/) - Painel de inteligência em tempo real para rastreamento de conflitos com visualização geoespacial interativa, monitoramento RSS multi-fonte e dossiês de atores.
+- [Taranis AI](https://github.com/taranis-ai/taranis-ai) - Plataforma OSINT de código aberto para coletar, enriquecer, analisar e publicar informações da web, RSS, e-mail e outras fontes com fluxos de trabalho assistidos por AI/NLP.
 
-## ◾ Dark Web Search Engine Tools
+## 🟠 Busca de apelidos.
 
-- [github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana)
-- [github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
-- [github.com/josh0xA/darkdump](https://github.com/josh0xA/darkdump)
-- [ahmia.fi](http://ahmia.fi/)
-- [github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus)
-- [onionengine.com](https://onionengine.com/)
-- [iaca-darkweb-tools.com](https://iaca-darkweb-tools.com/)
-- [4thehidden.wiki](https://4thehidden.wiki/)
-- [github.com/aryanguenthner/darkfox](https://github.com/aryanguenthner/darkfox)
+> 12 links de Busca de apelidos. em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-## ◾ Tools to crawl data from the Dark Web
+- [Social analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI e Web App para analisar e encontrar o perfil de uma pessoa em 1000 redes sociais \ sites
+- [nexfil](https://github.com/thewhiteh4t/nexfil) - Ferramenta OSINT para encontrar perfis por usuário
+- [userrecon](https://github.com/wishihab/userrecon) - Encontre nomes de usuário em mais de 75 redes sociais.
+- [NicknameFinder](https://github.com/restanse/NicknameFinder) - Ferramenta OSINT para busca por apelido
+- [gideon](https://github.com/YouVBeenHacked/gideon) - Ferramenta simples para pesquisar e coletar informações.
+- [Arina-OSINT](https://github.com/AlexC-ux/Arina-OSINT) - Ferramenta OSINT para encontrar informações sobre suas páginas antigas.
+- [netizenship](https://github.com/rahulrajpl/netizenship) - Uma ferramenta #OSINT para encontrar a presença online de um nome de usuário em sites populares de mídia social como Facebook, Instagram, Twitter, etc.
+- [Search4](https://github.com/0xknown/Search4) - Procure pessoas na internet.
+- [socialscan](https://github.com/iojw/socialscan) - Biblioteca Python para consultar com precisão o nome de usuário e uso de email em plataformas on-line
+- [Sherlock](https://github.com/mesuutt/sherlock) - Encontre nomes de usuário nas redes sociais.
+- [recon-ng](https://github.com/lanmaster53/recon-ng/) - Ferramenta de coleta da Inteligência Open Source para reduzir o tempo gasto colhendo informações de fontes abertas.
+- [SocialPath](https://github.com/woj-ciech/SocialPath) - Rastreie usuários através da plataforma de mídia social.
 
-- [github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
-- [github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py)
-- [github.com/andreyglauzer/VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)
-- [github.com/danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor)
-- [github.com/JarryShaw/darc](https://github.com/JarryShaw/darc)
-- [github.com/RicYaben/midnight_sea](https://github.com/RicYaben/midnight_sea)
-- [github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
+## 🟢 SubDomain.
 
-## ◾ Data Breach Search Engines
+> 10 links de SubDomain. em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-- [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
-- [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
-- [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
-- [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
-- [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
-- [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
+- [Bbot](https://github.com/blacklanternsecurity/bbot) - O scanner recursivo para hackers.
+- [Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominador ajuda você a descobrir subdomínios associados com um domínio alvo de forma eficiente e com impacto mínimo para seu Bug Bounty.
+- [sub.Monitor](https://github.com/e1abrador/sub.Monitor) - Auto-hospedado passivo subdomínio continous ferramenta de monitoramento.
+- [Sudomy](https://github.com/screetsec/Sudomy) - Sudomy é uma ferramenta de enumeração subdomínio para coletar subdomínios e analisar domínios realizando reconhecimento automático (recon) para caça de insetos / penteling
+- [Amass](https://github.com/OWASP/Amass) - Mapeamento da superfície de ataque profundo e descoberta de ativos
+- [subchase](https://github.com/tokiakasu/subchase) - Perseguir subdomínios analisando os resultados da pesquisa do Google e Yandex.
+- [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz é uma ferramenta para executar fuzzing com uma abordagem OSINT, conseguindo enumerar diretórios, arquivos, subdomínios ou parâmetros sem deixar evidências no servidor do alvo e por meio de...
+- [alterx](https://github.com/projectdiscovery/alterx) - Gerador rápido e personalizável da lista de palavras usando DSL
+- [Photon](https://github.com/s0md3v/Photon) - Rastreador incrivelmente rápido projetado para OSINT.
+- [subdomain-enum](https://github.com/chaitanyakrishna/subdomain-enum) - Subdomínio Enumeração usando a API de Segurança
 
-## ◾ Email addresses
+## 🔸 URLs
 
-- [Prospeo.io](https://app.prospeo.io/domain-search)
-- [Hunter.io](https://hunter.io/)
-- [Snov.io](https://snov.io/)
-- [Phonebook](https://phonebook.cz/)
-- [findemail.io](https://findemail.io/)
-- [Omail](https://omail.io/leads/download.html)
+> 8 links de URLs em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-## ◾ General Search
+- [Gau](https://github.com/lc/gau) - Consiga URLs conhecidas da Bolsa de Ameaça Aberta do AlienVault, a Máquina do Caminho e o Rastejo Comum.
+- [Xurlfind3r](https://github.com/hueristiq/xurlfind3r) - Um utilitário de linha de comando projetado para descobrir URLs para um determinado domínio de uma forma simples e eficiente, que funciona coletando informações de várias fontes passivas, o que…
+- [Unja](https://github.com/ninjhacks/unja) - Obter & Filtrar URLs conhecidas
+- [Urlfinder](https://github.com/projectdiscovery/urlfinder) - Uma ferramenta de alta velocidade para coletar URLs passivamente, otimizada para uma descoberta eficiente e abrangente de ativos da web sem digitalização ativa.
+- [urlhunter](https://github.com/utkusen/urlhunter) - uma ferramenta de reconhecimento que permite pesquisar em URLs que são expostas através de serviços de encurtamento
+- [Waymore](https://github.com/xnl-h4ck3r/waymore) - Ache muito mais da Máquina do Caminho, Rastejo Comum, Vault alienígena OTX, URLScan, VirusTotal, GhostArchive e Inteligência X!
+- [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Mergulhe mais fundo na web com essa poderosa ferramenta de código aberto, extraia informações valiosas com facilidade e eficiência, tanto da superfície quanto de fontes web profundas.
+- [Ominis-Osint](https://github.com/AnonCatalyst/Ominis-Osint) - Este aplicativo Python é uma ferramenta OSINT (Open Source Intelligence) chamada "Ominis OSINT - Web Hunter". Ele realiza coleta de informações on-line consultando o Google para resultados de…
 
-- [Aol](https://search.aol.com/) - The web for America.
-- [Bing](https://www.bing.com/) - Microsoft´s search engine.
-- [Brave](https://search.brave.com/) - a private, independent, and transparent search engine.
-- [Goodsearch](https://www.goodsearch.com/) - a search engine for shopping deals online.
-- [Google Search](https://www.google.com/) - Most popular search engine.
-- [Instya](https://www.instya.com/) - You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
+## 📊 Ferramentas para rastrear dados da Dark Web
 
-## ◾ Images & Video Analysis
+> 7 links de Ferramentas para rastrear dados da Dark Web em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-- [Google Images](https://images.google.com/) - Reverse image search.
-- [Yandex Images](https://yandex.com/images/) - Alternative reverse image search with strong face-recognition capabilities.
-- [Surfface](https://surfface.com/) - Face search and people finder that indexes social profiles and other public media.
-- [ExifTool](https://exiftool.org/) - Extract metadata (EXIF, GPS, timestamps) from photos and videos.
-- [Jimpl EXIF Viewer](https://jimpl.com/) - Simple online tool for checking image metadata (no install required).
-- [FFmpeg](https://ffmpeg.org/) - Multimedia framework for extracting and processing video/audio.
+- [github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Ferramenta Dark Web OSINT
+- [github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Rasteje e extraia (regular ou cebola) páginas web através da rede TOR
+- [github.com/andreyglauzer/VigilantOnion](https://github.com/andreyglauzer/VigilantOnion) - Crawler em sites de rede, procurando por palavras-chave.
+- [github.com/danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor) - Uma ferramenta extensível para coletar, rastejar e monitorar sites de cebola na rede tor e índice coletado informações sobre Elasticsearch
+- [github.com/JarryShaw/darc](https://github.com/JarryShaw/darc) - Projeto Darkweb Crawler
+- [github.com/RicYaben/midnight_sea](https://github.com/RicYaben/midnight_sea) - Mar Meia-Noite: navegando nas águas de mercados web escuros
+- [github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep) - Uma ferramenta OSINT para coletar informações na teia escura.
 
-## ◾ Intelligence
+## 📊 Mecanismos de busca de dados
 
-- [TI.defender.microsoft](https://ti.defender.microsoft.com/)
-- [Securitytrails](https://securitytrails.com/)
-- [Pulsedive](https://pulsedive.com/)
-- [ThreatBook](https://threatbook.io/)
-- [Alienvault](https://otx.alienvault.com/)
-- [DomScan](https://domscan.net/tools/security)
+> 6 links de Mecanismos de busca de dados em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-## ◾ Live Cyber Threat Maps
+- [CheckLeaked](https://checkleaked.cc/) - Verifique se um e-mail, nome de usuário ou telefone aparece em uma violação de dados, mostrando as fontes; buscas gratuitas, API do desenvolvedor e bots de chat.
+- [CredenShow](https://credenshow.com/) - Identifique suas credenciais comprometidas antes de outros.
+- [HIB Ransomed](https://haveibeenransom.com/) - Porque as pessoas têm o direito de saber se seus dados foram vazados.
+- [HEROIC.NOW](https://heroic.com/) - Seus dados foram vazados na internet escura?
+- [IKnowYour.Dad](https://iknowyour.dad/) - Motor de Busca por Violação de Dados.
+- [Leaker](https://github.com/vflame6/leaker) - Ferramenta de enumeração passiva de vazamentos que procura em 10 bancos de dados simultaneamente.
 
-- [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by Bitdefender.
-- [BunkerWeb Live Cyber Attack Threat Map](https://threatmap.bunkerweb.io/) - Live cyber attack blocked by BunkerWeb, the open source and next generation Web Application Firewall.
-- [Check Point Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Explore the top cyber threats of 2025, including ransomware, infostealers, and cloud vulnerabilities.
-- [Fortiguard Labs](https://fortiguard.fortinet.com/threat-map) - FortiGuard Outbreak Alerts provides key information about on-going cybersecurity attack with significant ramifications affecting numerous companies, organizations and industries.
-- [HCL Threat Map](https://www.hcltech.com/hcl-threat-map) - Cyber Threat Map by HCLTech.
-- [Imperva Live Threat Map](https://www.imperva.com/cyber-threat-attack-map/) - A real-time global view of DDoS attacks, hacking attempts, and bot assaults mitigated by Imperva security services.
+## 🔹 Pesquisa de arquivos
 
-## ◾ Privacy Focused Search Engines
+> 6 links de Pesquisa de arquivos em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-- [DuckDuckGo](https://duckduckgo.com/) - an Internet search engine that emphasizes protecting searchers' privacy.
-- [Disconnect Search](https://search.disconnect.me/) - Stop search engines from tracking your searches. <sub>comunidade</sub>
-- [Gibiru](https://gibiru.com/) - Gibiru provides “uncensored search results” without collecting personal data like logging users’ IP addresses or search queries.
-- [Kagi Search](https://kagi.com/) - Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.
-- [Mojeek](https://www.mojeek.com/) - Mojeek is a growing independent search engine which does not track you.
-- [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
+- [eyedex](https://www.eyedex.org/) - Abra o motor de busca de diretórios.
+- [de digger](https://www.dedigger.com/) - É um site que permite encontrar qualquer tipo de arquivos que estão disponíveis publicamente em uma unidade do Google.
+- [Filesec.io](https://filesec.io/) - Recursos centrais catalogando extensões de arquivos maliciosos, seus riscos, SO e mitigação.
+- [Find Security Contacts](https://findsecuritycontacts.com/) - Índice público listando contatos de segurança (e-mails, políticas, etc.) extraídos dos arquivos do domínio segurança.txt.
+- [Meawfy](https://meawfy.com/) - Motor de busca avançada de arquivos Mega.
+- [ODCrawler](https://odcrawler.xyz/) - Um motor de busca por diretórios abertos.
 
-## ◾ Speciality Search Engines
+## 🔶 Busca Geral
 
-- [Abusech](https://hunting.abuse.ch/) - Hunt across all abuse.ch platforms with one simple query
-- [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
-- [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
-- [BGP.tools](https://bgp.tools/) - Modern BGP toolkit for network reconnaissance and analysis.
-- [BGP.he.net](https://bgp.he.net/) - Free BGP and network intelligence toolkit
-- [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
+> 6 links de Busca Geral em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-## ◾ Threat Actor Search
+- [Aol](https://search.aol.com/) - A teia para a América.
+- [Bing](https://www.bing.com/) - O motor de busca da Microsoft.
+- [Brave](https://search.brave.com/) - um motor de busca privado, independente e transparente.
+- [Goodsearch](https://www.goodsearch.com/) - Um motor de busca para compras online.
+- [Google Search](https://www.google.com/) - O motor de busca mais popular.
+- [Instya](https://www.instya.com/) - Você pode procurar sites de compras, dicionários, sites de respostas, notícias, imagens, vídeos e muito mais.
 
-- [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
-- [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
-- [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
-- [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
-- [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
-- [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
+## 🎞️ Imagens e Análise de Vídeo
 
-## ◾ URLs
+> 6 links de Imagens e Análise de Vídeo em OSINT e Investigação, reunidos das listas curadas da comunidade.
 
-- [Gau](https://github.com/lc/gau)
-- [Xurlfind3r](https://github.com/hueristiq/xurlfind3r)
-- [Unja](https://github.com/ninjhacks/unja)
-- [Urlfinder](https://github.com/projectdiscovery/urlfinder)
-- [urlhunter](https://github.com/utkusen/urlhunter)
-- [Waymore](https://github.com/xnl-h4ck3r/waymore)
+- [Google Images](https://images.google.com/) - Pesquisa de imagem reversa.
+- [Yandex Images](https://yandex.com/images/) - Pesquisa alternativa de imagem reversa com forte reconhecimento facial.
+- [Surfface](https://surfface.com/) - Procure pessoas que indexam perfis sociais e outras mídias públicas.
+- [ExifTool](https://exiftool.org/) - Extrair metadados (EXIF, GPS, horários) de fotos e vídeos.
+- [Jimpl EXIF Viewer](https://jimpl.com/) - Ferramenta on-line simples para verificar metadados de imagem (sem instalação necessária).
+- [FFmpeg](https://ffmpeg.org/) - Estrutura multimídia para extrair e processar vídeo/áudio.
 
-## ◾ Mais links
+## 🔵 Mapas de Ameaça Cibernética ao Vivo
 
-- [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) - is intelligence collected from publicly available sources.
-- [Buster](https://github.com/sham00n/buster) - Advanced tool for email reconnaissance.
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email address has been exposed in a data breach.
-- [Censys](https://censys.io/)
-- [Greynoise.io](https://viz.greynoise.io/)
-- [ZoomEye](https://www.zoomeye.org/)
-- [Onyphe](https://www.onyphe.io/)
-- [Fofa](https://fofa.info/)
-- [Maltego](https://www.maltego.com/) - Provides a library of transforms for OSINT discovery and visualizes information in graph format for link analysis.
-- [WhatsMyName](https://whatsmyname.app/) - Search usernames across hundreds of websites.
-- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) - Browser extension that captures full web page screens and videos <sub>app</sub>
-- [Instaloader](https://instaloader.github.io/) - Download Instagram photos, videos, captions, and metadata.
-- [tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)
-- [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion/)
-- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers.
-- [Truecaller](https://www.truecaller.com/) - Caller ID and spam lookup service (commercial).
-- [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas)
-- [AtDork](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
-- [DorkCraft](https://github.com/juandresrodca/DorkCraft) - Google dork generator that builds advanced search queries for OSINT and reconnaissance.
-- [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
-- [github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)
-- [github.com/k4m4/onioff](https://github.com/k4m4/onioff)
-- [github.com/milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap)
-- [Alleba (Philippines)](https://www.alleba.com/) - Philippines search engine
-- [Baidu (China)](https://www.baidu.com/) - The major search engine used in China
-- [Bbot](https://github.com/blacklanternsecurity/bbot)
-- [Subdominator](https://github.com/RevoltSecurities/Subdominator)
-- [sub.Monitor](https://github.com/e1abrador/sub.Monitor)
-- [Sudomy](https://github.com/screetsec/Sudomy)
-- [Amass](https://github.com/OWASP/Amass)
-- [Qwant](https://www.qwant.com/) - French search engine that relies on Microsoft Bing.
-- [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
-- [GoWitness](https://github.com/sensepost/gowitness) - CLI tool to take screenshots of web pages for evidence collection.
-- [Wayback Machine](https://archive.org/web/) - Browse historical snapshots of websites.
-- [Google Maps](https://maps.google.com/) - Street view and satellite imagery.
-- [Mapillary](https://www.mapillary.com/) - Crowdsourced street-level imagery.
-- [github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
-- [Censys](https://censys.com/) - Internet-wide scanning and intelligence platform.
-- [WiGLE](https://wigle.net/) - Wireless network mapping database.
-- [Translate Shell](https://github.com/soimort/translate-shell) - Command-line translator powered by Google, Bing, Yandex, and more.
-- [DeepL](https://www.deepl.com/) - High-quality translation service with strong support for European and Asian languages.
-- [Publicwww](https://publicwww.com/)
-- [Nerdydata](https://www.nerdydata.com/)
-- [Searchcode](https://searchcode.com/)
-- [Grep.app](https://grep.app/)
-- [Carrot2](https://search.carrot2.org/) - Organizes your search results into topics.
-- [whoistory](http://whoistory.com/)
-- [Asnlookup](https://asnlookup.com/)
-- [centralops](http://centralops.net/)
-- [Myip](https://myip.ms/)
-- [SimilarSites](https://www.similarsites.com/) - Discover websites that are similar to each other
-- [SitesLike](https://www.siteslike.com/) - Find similar websites by category
-- [DocumentCloud](https://www.documentcloud.org/) - Platform for analyzing, annotating, and publishing documents.
-- [Epstein Exposed](https://epsteinexposed.com/) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
-- [RECAP Archive](https://www.courtlistener.com/recap/) - Public archive of PACER court documents.
-- [Bigdomaindata](https://bigdomaindata.com/)
-- [Dnshistory](https://dnshistory.org/)
-- [Viewdns](https://viewdns.info/)
-- [Crt.sh](https://crt.sh/)
-- [Web-check](https://github.com/Lissy93/web-check)
-- [Searchftps](https://www.searchftps.net/)
-- [Smap](https://github.com/s0md3v/Smap)
-- [Nmap-censys](https://github.com/censys/nmap-censys)
-- [ExchangeFinder](https://github.com/mhaskar/ExchangeFinder)
-- [Telepathy](https://github.com/jordanwildon/Telepathy)
-- [Pagodo](https://github.com/opsdisk/pagodo)
-- [Recruitin](https://recruitin.net/)
-- [Search](https://github.com/pbkompasz/search)
-- [Social analyzer](https://github.com/qeeqbox/social-analyzer)
-- [nexfil](https://github.com/thewhiteh4t/nexfil)
-- [snoop](https://github.com/snooppr/snoop)
-- [eyedex](https://www.eyedex.org/) - Open directory search engine.
-- [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
-- [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
+> 6 links de Mapas de Ameaça Cibernética ao Vivo em OSINT e Investigação, reunidos das listas curadas da comunidade.
+
+- [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Cyberameaça Mapa em tempo real de Bitdefender.
+- [BunkerWeb Live Cyber Attack Threat Map](https://threatmap.bunkerweb.io/) - Ataque cibernético ao vivo bloqueado por BunkerWeb, o código aberto e a próxima geração de Firewall da Aplicação Web.
+- [Check Point Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Explore as principais ameaças cibernéticas de 2025, incluindo ransomware, roubos de informações e vulnerabilidades na nuvem.
+- [Fortiguard Labs](https://fortiguard.fortinet.com/threat-map) - FortiGuard Outbreak Alerts fornece informações importantes sobre ataque de segurança cibernética em andamento com ramificações significativas afetando inúmeras empresas, organizações e indústrias.
+- [HCL Threat Map](https://www.hcltech.com/hcl-threat-map) - Mapa de Ameaça Cibernética da HCLTech.
+- [Imperva Live Threat Map](https://www.imperva.com/cyber-threat-attack-map/) - Uma visão global em tempo real de ataques DDoS, hackeamentos e ataques a robôs atenuados pelos serviços de segurança Imperva.
+
+## 🟢 Pastebins.
+
+> 6 links de Pastebins. em OSINT e Investigação, reunidos das listas curadas da comunidade.
+
+- [BeanPaste](https://beanpaste.fun/) - Um pequeno jeito de compartilhar mensagens.
+- [bpaste](https://bpa.st/) - Bem-vindo ao Bpaste, este site é uma pasta que permite compartilhar códigos com outros.
+- [CentOS Pastebin Service](https://paste.centos.org/) - Stikked é um pastebin PHP de código aberto, com o objetivo de manter uma interface simples e fácil de usar.
+- [cl1p](https://cl1p.net/) - A Área de Transferência da Internet.
+- [commie](https://commie.io/) - Commie é um script de pasta com suporte para comentários em linha.
+- [Context](https://ctxt.io/) - Compartilhe o que vê com os outros em segundos.
+
+## 🔒 Privacidade Focada em Buscas
+
+> 6 links de Privacidade Focada em Buscas em OSINT e Investigação, reunidos das listas curadas da comunidade.
+
+- [DuckDuckGo](https://duckduckgo.com/) - Um motor de busca na internet que enfatiza a proteção da privacidade dos pesquisadores.
+- [Disconnect Search](https://search.disconnect.me/) - Impedir que os motores de busca rastreiem suas pesquisas. <sub>👥 comunidade</sub>
+- [Gibiru](https://gibiru.com/) - Gibiru fornece "resultados de pesquisa sem censura" sem coletar dados pessoais, como registrar endereços IP dos usuários ou pesquisas.
+- [Kagi Search](https://kagi.com/) - Liberte sua busca, livre de anúncios, sem vigilância, seu tempo respeitado, você é o cliente, nunca o produto.
+- [Mojeek](https://www.mojeek.com/) - Mojeek é um motor de busca independente que não te rastreia.
+- [Presearch](https://presearch.com/) - A pré-pesquisa é um mecanismo de busca descentralizada que protege sua privacidade e te recompensa quando você procura.
+
+## 🟤 Motores de Busca Especiais.
+
+> 6 links de Motores de Busca Especiais. em OSINT e Investigação, reunidos das listas curadas da comunidade.
+
+- [Abusech](https://hunting.abuse.ch/) - Procure em todas as plataformas de abuso.
+- [Abuseipdb](https://www.abuseipdb.com/) - Repositório de abusos reportados por administradores do sistema para IPs, Domínios e sub-redes
+- [BeVigil](https://bevigil.com/search) - Procure por ativos como Subdomínios, URLs, Parâmetros em aplicativos móveis.
+- [BGP.tools](https://bgp.tools/) - Moderno kit de ferramentas BGP para reconhecimento e análise da rede.
+- [BGP.he.net](https://bgp.he.net/) - BGP livre e kit de inteligência de rede
+- [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Verifica a reputação, categoria e potenciais ameaças associadas com um URL ou endereço IP.
+
+## 🔵 Ator de Ameaça Procura
+
+> 6 links de Ator de Ameaça Procura em OSINT e Investigação, reunidos das listas curadas da comunidade.
+
+- [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1) - Conheça os Atores de Ameaça, países patrocinados, suas ferramentas, métodos, etc. <sub>📖 documentação</sub>
+- [Bi.Zone](https://gti.bi.zone/) - 148 grupos de ameaça com TTPs detalhados.
+- [BreachHQ](https://breach-hq.com/threat-actors) - Fornece uma lista de todos os atores conhecidos da ameaça cibernética também referidos como atores maliciosos, grupos APT ou hackers.
+- [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Rastreando 854 Atores de Ameaça a 29 de maio de 2025.
+- [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Procurem por grupos de atores e suas ferramentas.
+- [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Alimentado pela FortiGuard Labs, nossa Enciclopédia de Atores de Ameaça fornece insights acionáveis, ajudando equipes de segurança a preparar e simplificar a caça e resposta avançadas.
+
+## 🧺 Mais links
+
+> Links de OSINT e Investigação que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana) - Ferramenta Python que lhe dá a capacidade de executar Advanced Google Queries (conhecido como Google Dorks - Google Dorking)
+- [github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch é um roteiro que raspa urls em diferentes motores de busca.
+- [github.com/josh0xA/darkdump](https://github.com/josh0xA/darkdump) - Interface de Inteligência Código Aberto para Raspamento Deep Web
+- [github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus) - Um pesquisador de sites da Onion.
+- [github.com/aryanguenthner/darkfox](https://github.com/aryanguenthner/darkfox) - CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research.
+- [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) - é a inteligência coletada de fontes publicamente disponíveis.
+- [Buster](https://github.com/sham00n/buster) - Ferramenta avançada para reconhecimento por e-mail.
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Verifique se um endereço de e-mail foi exposto em uma violação de dados.
+- [Eyes](https://github.com/N0rz3/Eyes) - Ferramenta de e-mail Osint
+- [Poastal](https://github.com/jakecreps/poastal) - Poastal, a ferramenta de E-mail OSINT.
+- [h8mail](https://github.com/khast3x/h8mail) - E-mail OSINT & Password quebra ferramenta de caça, localmente ou usando serviços premium.
+- [EmailFinder](https://github.com/Josue87/EmailFinder) - Procure e-mails de um domínio através de motores de busca
+- [ronin-recon](https://github.com/ronin-rb/ronin-recon) - Um micro-quadro e ferramenta para realizar reconhecimento.
+- [Maltego](https://www.maltego.com/) - Fornece uma biblioteca de transformadas para a descoberta da OSINT e visualiza informações em formato gráfico para análise de links.
+- [WhatsMyName](https://whatsmyname.app/) - Procure nomes de usuário em centenas de sites.
+- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) - Extensão do navegador que captura telas e vídeos da página inteira. <sub>📱 app</sub>
+- [github.com/s-rah/onionscan](https://github.com/s-rah/onionscan) - O OnionScan é uma ferramenta livre e de código aberto para investigar a Dark Web.
+- [github.com/k4m4/onioff](https://github.com/k4m4/onioff) - Um inspetor de url de cebola para inspecionar links da web.
+- [github.com/milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap) - Digitalize serviços ocultos com Nmap usando Tor, Proxychains e Dnsmasq em um recipiente mínimo alpino Docker.
+- [Instaloader](https://instaloader.github.io/) - Baixe fotos, vídeos, legendas e metadados do Instagram.
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) - Estrutura de coleta de informações para números de telefone.
+- [Truecaller](https://www.truecaller.com/) - Identificador de chamadas e serviço de pesquisa de spam (comercial).
+- [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - Ferramenta OSINT para extrair informações de contato de páginas brancas espanholas (Paginas Blancas)
+- [GhostTrack](https://github.com/HunxByts/GhostTrack) - Ferramenta útil para rastrear localização ou número de celular.
+- [AtDork](https://github.com/amnottdevv/atdork) - Ferramenta profissional do OSINT com atraso adaptativo, disjuntor e retrocesso automático para evitar proibições de IP e limites de taxa.
+- [DorkCraft](https://github.com/juandresrodca/DorkCraft) - Gerador de idiotas do Google que constrói pesquisas avançadas para OSINT e reconhecimento.
+- [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - O GHDB é um índice de buscas (chamamos-lhes idiotas) usado para encontrar informações publicamente disponíveis, destinadas a pesquisadores de segurança.
+- [Alleba (Philippines)](https://www.alleba.com/) - Filipinas motor de busca
+- [Baidu (China)](https://www.baidu.com/) - O principal motor de busca usado na China.
+- [Qwant](https://www.qwant.com/) - O motor de busca francês que depende da Microsoft Bing.
+- [SearXNG](https://searxng.org/) - Um mecanismo de meta-pesquisa que respeita a privacidade.
+- [github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Coleta de fontes da Inteligência de Ameaça Cibernética da teia profunda e escura
+- [GoWitness](https://github.com/sensepost/gowitness) - Ferramenta CLI para tirar imagens de páginas da web para coleta de evidências.
+- [Wayback Machine](https://archive.org/web/) - Navegue por fotos históricas de sites.
+- [Google Maps](https://maps.google.com/) - Vista de rua e imagens de satélite.
+- [Mapillary](https://www.mapillary.com/) - Imagens de rua.
+- [Web-check](https://github.com/Lissy93/web-check) - Tudo em um OSINT ferramenta para analisar qualquer site
+- [Smap](https://github.com/s0md3v/Smap) - Um substituto para Nmap alimentado por Shodan.
+- [Nmap-censys](https://github.com/censys/nmap-censys) - Script NSE que aproveita a API de busca da Censys para coleta passiva de dados.
+- [Censys](https://censys.com/) - Plataforma de varredura e inteligência na internet.
+- [WiGLE](https://wigle.net/) - Banco de dados de mapeamento de rede sem fio.
+- [ExchangeFinder](https://github.com/mhaskar/ExchangeFinder) - Encontre o exemplo do Microsoft Exchange para um determinado domínio e identifique a versão exata.
+- [Translate Shell](https://github.com/soimort/translate-shell) - Tradutor de linha de comando alimentado pelo Google, Bing, Yandex, e muito mais.
+- [DeepL](https://www.deepl.com/) - Serviço de tradução de alta qualidade com forte apoio para línguas européias e asiáticas.
+- [Telepathy](https://github.com/jordanwildon/Telepathy) - Lançamento público de Telepatia, um kit de ferramentas OSINT para investigar conversas com o Telegram.
+- [Pagodo](https://github.com/opsdisk/pagodo) - Pagodo (Passive Google Dork) - Automate Google Hacking Database raspando e pesquisando
+- [Gasmask](https://github.com/twelvesec/gasmask) - Ferramenta de coleta de informações - OSINT
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Melhor ferramenta para coleta de informações.
+- [WhereToGo](https://github.com/valeriyshevchenko90/WhereToGo) - WhereToGo - é uma lista de serviços populares que podem ser usados em organizações, por ter uma conta do usuário - você pode tentar encontrar pontos de entrada para os dados da organização.
+- [Cloud OSINT](https://github.com/7WaySecurity/cloud_osint) - Recursos curados da Cloud OSINT: idiotas, ferramentas e técnicas para AWS, Azure, GCP, Oracle Cloud e outros principais fornecedores de reconhecimento
+- [Information Disclosure Write-Ups And PoCs](https://github.com/soxoj/information-disclosure-writeups-and-pocs) - A lista de registros, artigos, e PoC de vários interessantes no contexto da OSINT
+- [Carrot2](https://search.carrot2.org/) - Organiza seus resultados de busca em tópicos.
+- [SimilarSites](https://www.similarsites.com/) - Descubra sites que são semelhantes uns aos outros.
+- [SitesLike](https://www.siteslike.com/) - Encontre sites similares por categoria.
+- [DocumentCloud](https://www.documentcloud.org/) - Plataforma para analisar, anotar e publicar documentos.
+- [Epstein Exposed](https://epsteinexposed.com/) - Banco de dados abrangentes de documentos do DOJ Epstein, 1.700 pessoas, registros de voo, e-mails e visualização de gráficos em rede.
+- [RECAP Archive](https://www.courtlistener.com/recap/) - Arquivo público de documentos judiciais do PACER.
+- [AnalyzeID](https://analyzeid.com/) - Encontre outros sites de propriedade da mesma pessoa.
+- [Code Finder](https://codefinder.dev/) - O motor de busca final para encontrar repositórios GitHub
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) <sub>22 links · licença sem-licenca</sub>
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) <sub>53 links · licença CC-BY-SA-4.0</sub>
-- [tracelabs/awesome-osint](https://github.com/tracelabs/awesome-osint) <sub>22 links · licença MPL-2.0</sub>
-- [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) <sub>53 links · licença sem-licenca</sub>
+- [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) <sub>🔗 16 · ⚖️ sem-licenca</sub>
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) <sub>🔗 88 · ⚖️ CC-BY-SA-4.0</sub>
+- [tracelabs/awesome-osint](https://github.com/tracelabs/awesome-osint) <sub>🔗 22 · ⚖️ MPL-2.0</sub>
+- [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) <sub>🔗 49 · ⚖️ sem-licenca</sub>
 
 ---
 [⬆️ Voltar ao topo](#-osint-e-investigação) · [← Segurança e Privacidade](README.md)

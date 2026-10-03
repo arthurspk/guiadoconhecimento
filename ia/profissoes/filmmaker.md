@@ -1,0 +1,1045 @@
+# 🎥 IA para Filmmaker e Cineasta
+
+> Escreve, filma, dirige e distribui filmes e vídeos. **1000 repositórios de IA** em 5 temas, ordenados por estrelas dentro de cada tema.
+
+[← 🧠 Repositórios de IA por profissão](./README.md) · [🧭 Trilha desta profissão](../../trilhas/README.md#-filmmaker-e-cineasta) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/ia/profissoes/filmmaker.md) · 🇪🇸 [Español](../../i18n/es/ia/profissoes/filmmaker.md) · 🇨🇳 [中文](../../i18n/zh/ia/profissoes/filmmaker.md) · 🇮🇳 [हिन्दी](../../i18n/hi/ia/profissoes/filmmaker.md) · 🇸🇦 [العربية](../../i18n/ar/ia/profissoes/filmmaker.md) · 🇫🇷 [Français](../../i18n/fr/ia/profissoes/filmmaker.md) · 🇮🇹 [Italiano](../../i18n/it/ia/profissoes/filmmaker.md) · 🇰🇷 [한국어](../../i18n/ko/ia/profissoes/filmmaker.md) · 🇷🇺 [Русский](../../i18n/ru/ia/profissoes/filmmaker.md) · 🇩🇪 [Deutsch](../../i18n/de/ia/profissoes/filmmaker.md) · 🇯🇵 [日本語](../../i18n/ja/ia/profissoes/filmmaker.md)
+
+## 📚 Índice
+
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
+[📝 Roteiro e pré-produção](#-roteiro-e-pré-produção) <sub>20</sub> <br>
+[🎬 Geração de vídeo e cenas](#-geração-de-vídeo-e-cenas) <sub>262</sub> <br>
+[🎥 Câmera, movimento e VFX](#-câmera-movimento-e-vfx) <sub>318</sub> <br>
+[🗣️ Voz, dublagem e som](#️-voz-dublagem-e-som) <sub>354</sub> <br>
+[🎞️ Pós-produção e restauração](#️-pós-produção-e-restauração) <sub>46</sub> <br>
+
+## 📝 Roteiro e pré-produção
+
+> Escrita de roteiro, decupagem e planejamento com apoio de modelos.
+
+- [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - Primeiro a plataforma de AI Agent profissional da indústria para filmes e produção de vídeo controláveis, desde shorts até live-action com fluxos de trabalho padrão Hollywood. <sub>⭐ 14.3k · TypeScript</sub>
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Criação de História AI Agente para romances, roteiros, traduções, jogos interativos e conteúdo IP <sub>⭐ 10.1k · TypeScript</sub>
+- [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) - Um espaço de produção completo para pequenos dramas gerados por IA, desde a entrada do roteiro até o storyboard estruturado, gerenciamento de consistência, preparação para filmagem, geração de vídeo… <sub>⭐ 6.6k · Python</sub>
+- [LingyiChen-AI/AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - Gerador de quadrinhos animados movidos por IA: transformar scripts em vídeos totalmente animados com design, storyboarding e síntese de vídeo guiados por IA. <sub>⭐ 1.9k · TypeScript</sub>
+- [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) - Habilidades de agente profissional para roteiro, escrita na televisão e dramaturgia. <sub>⭐ 1.5k · Python</sub>
+- [RevoltDevScript/Revolt-Script](https://github.com/RevoltDevScript/Revolt-Script) - Revolta é a primeira ferramenta de automação Edgenuity com Auto Quiz, Ensaio Automático, Avanço Automático, Escrita AI com humanização, Vocabulário Automático, Jornal Automático e muito mais. <sub>⭐ 1.3k</sub>
+- [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - Um storyboard assistido por IA e ferramenta de geração de vídeo, usa Gemini para gerar textos e quadros de storyboard, Vertex AI Veo para gerar clipes de transição e ffmpeg para costurar o vídeo… <sub>⭐ 986 · JavaScript</sub>
+- [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) - Software de código aberto no navegador: bloquear uma cena, posar personagens, câmera do autor se move e corta, em seguida, tirar as mesmas fotos para um modelo de vídeo IA. <sub>⭐ 749 · JavaScript</sub>
+- [yingpengma/Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation) - Este repositório coleta uma extensa lista de artigos incríveis sobre Geração de Histórias / Contação de histórias, exclusivamente focando na era dos Modelos de Línguas Grandes (LMLs). <sub>⭐ 660 · Python</sub>
+- [ChrisChen667788/wind-comic](https://github.com/ChrisChen667788/wind-comic) - Oleoduto de IA multi-agente que transforma uma linha de texto em um drama finalizado: roteiro, storyboards cinematográficos, vídeo consistente com personagens. <sub>⭐ 594 · TypeScript</sub>
+- [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - Traga qualquer modelo ou seu ComfyUI local, e deixe Claude Code / Codex / Cursor direciona-lo sobre MCP - storyboard, referências, geração, editável primeiro corte em um real... <sub>⭐ 542 · TypeScript</sub>
+- [Anil-matcha/Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) - Um pequeno gerador de vídeo drama e micro-drama, transforma qualquer ideia em um drama de curta duração usando o pipeline de IA multi-agente (roteirista → storyboard → frames → video). <sub>⭐ 521 · Python</sub>
+- [AgriciDaniel/youtubepro](https://github.com/AgriciDaniel/youtubepro) - Pesquisa local no YouTube, insights de IA fundamentados, escrita de roteiro e criação de miniaturas. <sub>⭐ 409 · TypeScript</sub>
+- [iLearn-Lab/NovelClaw](https://github.com/iLearn-Lab/NovelClaw) - Primeiro framework colaborativo de IA para geração de histórias, planejamento de capítulos e escrita narrativa coerente. <sub>⭐ 377 · Python</sub>
+- [estebanstifli/LocalText2Voice](https://github.com/estebanstifli/LocalText2Voice) - Aplicativo de desktop livre de código aberto para audiolivros, podcasts, documentários, filmes e vídeos animados com modelos locais, APIs em nuvem e storyboards editáveis. <sub>⭐ 370 · Python</sub>
+- [taruma/SceneFlow](https://github.com/taruma/SceneFlow) - Sincronizar roteiros com vídeo, avaliar imagens geradas por IA, analisar fidelidade de script para tela. <sub>⭐ 337 · TypeScript</sub>
+- [rolfie-han/YoLuster-shorts](https://github.com/rolfie-han/YoLuster-shorts) - Um espaço de trabalho desenvolvido independentemente para a criação de AI, desde ideias iniciais até roteiros de storyboard, imagens, vídeos e gerenciamento de ativos reutilizáveis. <sub>⭐ 289 · HTML</sub>
+- [HKUSTDial/DataMagic](https://github.com/HKUSTDial/DataMagic) - Geração de dados para vídeo, enviar uma tabela, ter uma história animada narrada. <sub>⭐ 274 · TypeScript</sub>
+- [jeffstric/ZJT](https://github.com/jeffstric/ZJT) - ZhiJuTong (ZJT) é uma plataforma de código aberto com tecnologia artificial projetada especificamente para criar pequenos dramas profissionais, automatiza todo o gasoduto de produção, a partir da… <sub>⭐ 224 · Python</sub>
+- [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - 100+ Seedance 2.5 prompts com pré-visualizações de vídeo reais, além de uma habilidade instalável que otimiza alertas, cria storyboards e gera vídeos através de modelos Seedance. <sub>⭐ 221 · TypeScript</sub>
+
+## 🎬 Geração de vídeo e cenas
+
+> Modelos de texto para vídeo, consistência de personagem e cenas.
+
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - Modelos de difusão de última geração para geração de imagens, vídeos e áudio em PyTorch. <sub>⭐ 34.6k · Python</sub>
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Alternativa de código aberto sem restrições para plataformas de vídeo IA, estúdio gratuito de geração de imagens e vídeos com 600+ modelos (Flux, Midjourney, Kling, Sora, Veo), sem filtros de… <sub>⭐ 29.5k · JavaScript</sub>
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Vamos tornar a difusão de vídeo prática! <sub>⭐ 17.3k · Python</sub>
+- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - CogVideoX (2024) e CogVideo (ICLR 2023) <sub>⭐ 13.1k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: um quadro sistemático para grande modelo de geração de vídeo <sub>⭐ 12.6k · Python</sub>
+- [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Retrato Vivo: Gerando Vídeos Expressivos Retratos com Modelo de Difusão de Áudio2Vídeo em Condições Fracas <sub>⭐ 7.6k</sub>
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Desbloqueie a magia: Generative-AI (AIGC), APIs fáceis de usar, modelo maravilhoso zoológico, modelos de difusão, para… <sub>⭐ 7.5k · Jupyter Notebook</sub>
+- [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - Uma lista de modelos de difusão recentes para geração de vídeo, edição e várias outras aplicações. <sub>⭐ 5.8k</sub>
+- [AILab-CVC/VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter2: Superando limitações de dados para modelos de alta qualidade de difusão de vídeo <sub>⭐ 5.1k · Python</sub>
+- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Crie vídeos com Difusão Estável explorando o espaço latente e transformando-se entre os pedidos de texto. <sub>⭐ 4.7k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: um modelo de geração de vídeo leve líder <sub>⭐ 4.6k · Python</sub>
+- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - (ICCV 2023) Tune-A-Video: Um tiro sintonizando os modelos de difusão de imagem para geração de texto para vídeo <sub>⭐ 4.4k · Python</sub>
+- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Modelos de Difusão de Texto para Imagens são Geradores de Vídeo Zero-Shot <sub>⭐ 4.2k · Python</sub>
+- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni é um modelo multimodal de ponta a ponta da equipe Qwen na Alibaba Cloud, capaz de entender texto, áudio, visão, vídeo e executar geração de fala em tempo real. <sub>⭐ 4.1k · Jupyter Notebook</sub>
+- [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni é um LLM nativo de ponta a ponta, omnimodal desenvolvido pela equipe Qwen em Alibaba Cloud, capaz de entender texto, áudio, imagens e vídeo, bem como gerar fala em tempo real. <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) - Um estúdio para geração de imagens e vídeos, uma barra rápida, as configurações de cada modelo, e cada execução acabada em uma galeria. <sub>⭐ 4.0k · TypeScript</sub>
+- [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDifusão: 100-200× Aceleração para modelos de difusão de vídeo <sub>⭐ 3.9k · Python</sub>
+- [genmoai/mochi](https://github.com/genmoai/mochi) - Os melhores modelos de geração de vídeo da OSS, criados por Genmo <sub>⭐ 3.7k · Python</sub>
+- [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing) - Base oficial de códigos para "Auto-Forcing: Bridging Training and Inference in Autoregressive Video Diffusion" (Neurips 2025 Spotlight) <sub>⭐ 3.5k · Python</sub>
+- [ali-vilab/VGen](https://github.com/ali-vilab/VGen) - Reparo oficial para VGen: um ecossistema de geração de vídeo holístico para geração de vídeo, construído em modelos de difusão. <sub>⭐ 3.2k · Python</sub>
+- [Doubiiu/DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - Animando imagens de domínio aberto com Priores de Difusão de Vídeo <sub>⭐ 3.0k · Python</sub>
+- [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - Tradução para vídeo <sub>⭐ 3.0k · Jupyter Notebook</sub>
+- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - Um kit de ajuste fino para modelos de difusão de imagens/vídeo/áudio. <sub>⭐ 2.9k · Python</sub>
+- [Saiyan-World/goku](https://github.com/Saiyan-World/goku) - Fundação de Geração de Vídeo Modelos: https://saiyan-world.github.io/goku <sub>⭐ 2.9k · Python</sub>
+- [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Geração de Vídeo Virtual Humano Infinito e Alta Fidelidade com Paralelo Visual Condicionado Denoising <sub>⭐ 2.8k · Python</sub>
+- [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Difusão Estável, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Treino, Automático1111, Forja WebUI, SwarmUI, DeepFake, TTS, Animação, Texto para Vídeo, Tutoriais, Guias, Palestras, Cursos... <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - Descubra Seedance 2.0 como usar para filme cinematográfico, anime, UGC, mídia social, meme e publicidade. <sub>⭐ 2.6k · Shell</sub>
+- [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra) - Projeto Lyra: Modelos Mundial 3D de Geração Livre <sub>⭐ 2.5k · Python</sub>
+- [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui é uma cliente web de código aberto da Sora, permitindo que usuários criem vídeos facilmente a partir de texto com o modelo Sora da OpenAI. <sub>⭐ 2.4k · TypeScript</sub>
+- [ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) - Uma pesquisa sobre modelos de difusão de vídeo <sub>⭐ 2.3k</sub>
+- [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - Uma solução de fim-a-fim para alta resolução e geração longa de vídeo baseada na difusão do transformador <sub>⭐ 2.3k · Python</sub>
+- [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios) - Modelo de Geração de Vídeo Real em Tempo Real <sub>⭐ 2.2k · Python</sub>
+- [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) - 2000+ Prompts de geração de vídeo Seedance 2.0: cinema, anime, UGC, anúncios, estilos de meme, incluindo guias API Seedance, dicas de consistência de caracteres e fluxos de trabalho avançados de… <sub>⭐ 2.1k · TypeScript</sub>
+- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - Uma lista abrangente de artigos para a definição de Modelos Mundiais e usando Modelos Mundiais para Geração de Vídeo Geral, IA encorpado e Condução Autônoma, incluindo documentos, códigos e… <sub>⭐ 2.0k · Python</sub>
+- [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementação de Make-A-Video, novo texto SOTA para gerador de vídeo da Meta AI, em Pytorch <sub>⭐ 2.0k · Python</sub>
+- [Vchitect/Latte](https://github.com/Vchitect/Latte) - Transformador de Difusão Latente para Geração de Vídeo. <sub>⭐ 1.9k · Python</sub>
+- [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - Edição de vídeo em tempo real com Difusão Autoregressiva <sub>⭐ 1.9k · Python</sub>
+- [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - (CVPR 2026) Em direção a um vídeo de difusão baseado em tempo real Super-Resolução: uma eficiente estrutura de difusão de um passo para transmitir VSR com pouca atenção restrita à localidade e uma… <sub>⭐ 1.9k · Python</sub>
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Traduz automaticamente o texto de um vídeo baseado em um arquivo de legendas, e então usa os serviços de voz da IA para criar uma nova faixa de áudio dublada e traduzida onde o discurso é… <sub>⭐ 1.7k · Python</sub>
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Servidor de inferência LLM nativo para Apple Silicon, OpenAI + API antrópica compatível, sem Python, backend Zig, aplicativo MacOS frontal Swift com bate-papo, música, voz, geração de vídeo. <sub>⭐ 1.7k · Zig</sub>
+- [omerbt/TokenFlow](https://github.com/omerbt/TokenFlow) - Implementação oficial do Pytorch para "TokenFlow: Características de Difusão Consistente para Edição de Vídeo Consistente" apresentando "TokenFlow" (ICLR 2024) <sub>⭐ 1.7k · Python</sub>
+- [Drexubery/ViewCrafter](https://github.com/Drexubery/ViewCrafter) - Modelos de Difusão de Vídeo para Síntese da Visão de Romance de Alta Fidelidade <sub>⭐ 1.6k · Python</sub>
+- [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager é um modelo interativo de geração de vídeo RGBD condicionado à entrada da câmera, e suporta reconstrução 3D em tempo real. <sub>⭐ 1.6k · Python</sub>
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Servidor oficial do MiniMax Model Context Protocol (MCP) que permite interação com poderosas APIs de geração de texto para fala, imagem e vídeo. <sub>⭐ 1.6k · Python</sub>
+- [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM — um estúdio de filmes generativos da IA, perfeitamente integrado ao Blender Video Editor (VSE), permitindo a produção final-a-final do script para tela e volta. <sub>⭐ 1.5k · Python</sub>
+- [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Texto para Síntese de Vídeo Colab <sub>⭐ 1.5k · Jupyter Notebook</sub>
+- [NJU-PCALab/STAR](https://github.com/NJU-PCALab/STAR) - Aumento temporal-espacial com modelos de texto para vídeo real-mundo Super-Resolução <sub>⭐ 1.5k · Python</sub>
+- [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - (CVPR 2024) Upscale-A-Video: Modelo de Difusão Temporal-Consistente para Super-Resolução de Vídeo do Mundo Real <sub>⭐ 1.5k · Python</sub>
+- [tianweiy/CausVid](https://github.com/tianweiy/CausVid) - (CVPR 2025) De lenta bidirecional para rápida diferenciação de vídeo autorregressiva <sub>⭐ 1.4k · Python</sub>
+- [wenhaochai/StableVideo](https://github.com/wenhaochai/StableVideo) - Edição de vídeo com consistência consciente de texto <sub>⭐ 1.4k · Python</sub>
+- [Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator) - (CVPR2025) Apresentamos Stable Animator, o primeiro framework de difusão de vídeo que preserva IDs, que sintetiza vídeos de alta qualidade sem pós-processamento, condicionado a uma imagem de… <sub>⭐ 1.4k · Python</sub>
+- [fudan-generative-vision/hallo3](https://github.com/fudan-generative-vision/hallo3) - Animação Retrato de Imagem Altamente Dinâmica e Realista com Transformador de Difusão de Vídeo <sub>⭐ 1.4k · Python</sub>
+- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Implementação de modelos de difusão de vídeo, o novo papel de Jonathan Ho estendendo DDPMs para geração de vídeo em Pytorch <sub>⭐ 1.4k · Python</sub>
+- [ali-vilab/TeaCache](https://github.com/ali-vilab/TeaCache) - Hora de fazer um cache para o modelo de difusão de vídeo. <sub>⭐ 1.4k · Python</sub>
+- [mayuelala/FollowYourPose](https://github.com/mayuelala/FollowYourPose) - Este acordo é a implementação oficial de "Seguir-Sua-Pose" geração de texto para vídeo usando vídeos livres de pose" <sub>⭐ 1.4k · Python</sub>
+- [bytedance/Lance](https://github.com/bytedance/Lance) - Um modelo multimodal nativo de 3B-parametro ativo para compreensão de imagem e vídeo, geração e edição. <sub>⭐ 1.3k · Python</sub>
+- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime, modelos de geração de vídeo como simuladores metamórficos. <sub>⭐ 1.3k · Python</sub>
+- [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - Crie qualquer cena 3D e 4D de uma única imagem com difusão de vídeo controlável <sub>⭐ 1.3k · Python</sub>
+- [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video) - Extensão Auto1111 implementando modelos de difusão de vídeo (como ModelScope ou VideoCrafter) usando apenas dependências Webui Auto1111 <sub>⭐ 1.3k · Python</sub>
+- [Francis-Rings/StableAvatar](https://github.com/Francis-Rings/StableAvatar) - (Neurips2026) Apresentamos StableAvatar, o primeiro transformador de difusão de vídeo de ponta a ponta, que sintetiza vídeos de avatar de áudio de alta qualidade sem pós-processamento... <sub>⭐ 1.3k · Python</sub>
+- [unum-cloud/UForm](https://github.com/unum-cloud/UForm) - IA multimodal de bolso para compreensão e geração de conteúdo através de textos, imagens e vídeo multilingues, até 5x mais rápido que OpenAI CLIP e LLaVA & <sub>⭐ 1.3k · Python</sub>
+- [alibaba/Tora](https://github.com/alibaba/Tora) - Transformador de diffusão orientado para trajetórias para geração de vídeo <sub>⭐ 1.2k · Python</sub>
+- [ali-vilab/UniAnimate](https://github.com/ali-vilab/UniAnimate) - Código para o papel SCIS-2025 "Unianimate: domar modelos unificados de difusão de vídeo para animação consistente de imagens humanas". <sub>⭐ 1.2k · Python</sub>
+- [CyberAgentAILab/TANGO](https://github.com/CyberAgentAILab/TANGO) - Reencenação de vídeo gestual em co-fala com a Interpolização Hierárquica de Moção de Áudio e Difusão <sub>⭐ 1.2k · Python</sub>
+- [showlab/Show-1](https://github.com/showlab/Show-1) - "Casando com Pixel e Modelos de Difusão Latente para Geração Texto-Vídeo" <sub>⭐ 1.1k · Python</sub>
+- [rhymes-ai/Allegro](https://github.com/rhymes-ai/Allegro) - Allegro é um poderoso modelo de texto para vídeo que gera vídeos de alta qualidade até 6 segundos em 15 FPS e 720p resolução a partir de simples entrada de texto. <sub>⭐ 1.1k · Python</sub>
+- [Eyeline-Labs/Go-with-the-Flow](https://github.com/Eyeline-Labs/Go-with-the-Flow) - A implementação oficial do CVPR'25 Oral paper "Vá com o fluxo, controle de movimento, modelos de difusão de vídeo usando ruído warped em tempo real" <sub>⭐ 1.1k · Python</sub>
+- [memoavatar/memo](https://github.com/memoavatar/memo) - Difusão Guiada pela Memória para Geração Expressiva de Vídeo Falante <sub>⭐ 1.1k · Python</sub>
+- [uTox/uTox](https://github.com/uTox/uTox) - μTox, o cliente mais leve e macio da Tox. <sub>⭐ 1.1k · C</sub>
+- [showlab/MotionDirector](https://github.com/showlab/MotionDirector) - MotionDirector: personalização de movimentos de modelos de difusão texto-vídeo. <sub>⭐ 1.1k · Python</sub>
+- [Tencent-Hunyuan/HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) - Difusão Multimodal com Alinhamento de Representação para Geração de Áudio Foley de Alta Fidelidade. <sub>⭐ 1.1k · Python</sub>
+- [SnapXL/SnapX](https://github.com/SnapXL/SnapX) - SnapX é uma ferramenta livre, de código aberto, multi-plataforma que permite capturar ou gravar qualquer área da tela e compartilhar instantaneamente com um único keypress. <sub>⭐ 1.0k · C#</sub>
+- [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Implementação oficial de "DreamPose: Fashion Image-to-Video Synthesis via Difusão estável" <sub>⭐ 1.0k · Python</sub>
+- [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing) - (ICML 2026) Codebase oficial para "Causal Forcing: Autoregressive Diffusion Disttilation Done Right for High-Quality Real-Time Interactive Video Generation" e Força Causal++ <sub>⭐ 985 · Python</sub>
+- [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - Modelo de Difusão de Vídeo Curto a Longo para Transição Gerativa e Predição <sub>⭐ 966 · Python</sub>
+- [echris6/motion-video-kit](https://github.com/echris6/motion-video-kit) - Claude Code kit de habilidade para vídeos de negócios premium assistidos por IA: laço crítico independente, princípios de movimento de 28 filmes de lançamento, bar de qualidade, design de som… <sub>⭐ 960 · Python</sub>
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Texto para gerador de vídeo na forma de brainrot, aprenda sobre qualquer assunto com suas personalidades favoritas. <sub>⭐ 958 · Python</sub>
+- [FoundationVision/Waver](https://github.com/FoundationVision/Waver) - Modelo de fundação de vídeo em nível industrial para geração unificada de texto para vídeo (T2V) e imagem para vídeo (I2V). <sub>⭐ 954</sub>
+- [Vchitect/LaVie](https://github.com/Vchitect/LaVie) - Geração de vídeo de alta qualidade com modelos de diferenciação latente Cascaded <sub>⭐ 953 · Python</sub>
+- [noahlevenson/stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Vencedor do prêmio de 50 mil dólares da Mozilla por IA. <sub>⭐ 927 · JavaScript</sub>
+- [Vchitect/Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) - Vchitect-2.0: Transformador paralelo para modelos de difusão de vídeo <sub>⭐ 921 · Python</sub>
+- [flatkey-ai/flatkey-cli](https://github.com/flatkey-ai/flatkey-cli) - Geração de mídias planas CLI para imagens, vídeos, áudio, texto, créditos e descoberta de modelos. <sub>⭐ 910 · JavaScript</sub>
+- [IceClear/SeedVR2](https://github.com/IceClear/SeedVR2) - (ICLR2026) SeedVR2: Restauração de vídeo de um passo via Difusão Adversária Pós-Treinamento <sub>⭐ 891</sub>
+- [TrajectoryCrafter/TrajectoryCrafter](https://github.com/TrajectoryCrafter/TrajectoryCrafter) - Redirecionando a trajetória da câmera para vídeos monoculares via modelos de difusão <sub>⭐ 880 · Python</sub>
+- [PKU-YuanGroup/ConsisID](https://github.com/PKU-YuanGroup/ConsisID) - (CVPR 2025 Destaque) Identidade-Preservando Texto para Vídeo Geração por Descomposição de Frequência <sub>⭐ 862 · Python</sub>
+- [YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo) - Implementação oficial de pitorca do "ControlVideo: Geração livre de treinamento Controlável de Texto para Vídeo" <sub>⭐ 862 · Python</sub>
+- [ali-vilab/UniAnimate-DiT](https://github.com/ali-vilab/UniAnimate-DiT) - UniAnimato-DiT: Animação de Imagem Humana com Transformador de Difusão de Vídeo de Grande Escala <sub>⭐ 854 · Python</sub>
+- [nv-tlabs/cosmos-transfer1-diffusion-renderer](https://github.com/nv-tlabs/cosmos-transfer1-diffusion-renderer) - Cosmos-Transfer1-DifusionRenderer: vídeo de alta qualidade de iluminação e re-iluminação baseado na estrutura de difusão de vídeo da Cosmos <sub>⭐ 846 · Jupyter Notebook</sub>
+- [IGL-HKUST/DiffusionAsShader](https://github.com/IGL-HKUST/DiffusionAsShader) - Difusão como Shader: Difusão de Vídeo em 3D para Controle Versátil de Geração de Vídeo <sub>⭐ 844 · Python</sub>
+- [SamurAIGPT/Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) - Gere vídeo de texto usando IA. <sub>⭐ 835 · Jupyter Notebook</sub>
+- [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5) - Uma família de modelos de difusão para geração de vídeo e imagem. <sub>⭐ 829 · Python</sub>
+- [thu-ml/DiT-Extrapolation](https://github.com/thu-ml/DiT-Extrapolation) - Implementação oficial para "RIFLEx: Almoço gratuito por extrapolação de comprimento em Transformadores de Difusão de Vídeo" (ICML 2025), UltraViCo (ICLR 2026) e UltraImage <sub>⭐ 829 · Python</sub>
+- [NVlabs/rcm](https://github.com/NVlabs/rcm) - Algoritmos e Infraestruturas para a Destilação Bidirecional/Autoregressiva de Vídeo em Escala <sub>⭐ 814 · Python</sub>
+- [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementação do vídeo Phenaki, que usa Mask GIT para produzir vídeos guiados por texto de até 2 minutos de duração, em Pytorch <sub>⭐ 789 · Python</sub>
+- [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = texto para imagem/vídeo <sub>⭐ 788 · Python</sub>
+- [williamyang1991/FRESCO](https://github.com/williamyang1991/FRESCO) - Correspondência espaço-temporal para tradução de vídeo Zero-Shot <sub>⭐ 783 · Jupyter Notebook</sub>
+- [MyNiuuu/MOFA-Video](https://github.com/MyNiuuu/MOFA-Video) - (ECCV 2024) MOFA-Vídeo: Animação de imagem controlável via Adaptações de Campo de Movimento Generativo em Modelo Congelado de Difusão Imagem-Vídeo. <sub>⭐ 768 · Python</sub>
+- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - Uma pesquisa sobre geração de texto para vídeo/síntese. <sub>⭐ 746 · Python</sub>
+- [pixeli99/SVD_Xtend](https://github.com/pixeli99/SVD_Xtend) - Código de Treinamento e Extensões de Difusão de Vídeo Estável. <sub>⭐ 733 · Python</sub>
+- [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM) - Dados abertos e treinamento escalável para modelos de vídeo de longo horizonte. <sub>⭐ 732 · Python</sub>
+- [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) - Uma lista com curadoria de modelos mundiais incríveis de vídeo com diferenças de AR, algoritmos de cobertura, aplicações e infraestrutura, destinados a servir como um recurso abrangente para… <sub>⭐ 713 · TeX</sub>
+- [SkyworkAI/SkyReels-A2](https://github.com/SkyworkAI/SkyReels-A2) - SkyReels-A2: Componha qualquer coisa em transformadores de vídeo. <sub>⭐ 712 · Python</sub>
+- [THU-SI/ReconX](https://github.com/THU-SI/ReconX) - Reconstruir qualquer cena de vistas esparsas com vídeo modelo de difusão <sub>⭐ 711</sub>
+- [kwsong0113/diffusion-forcing-transformer](https://github.com/kwsong0113/diffusion-forcing-transformer) - Implementação Oficial de PyTorch da Difusão de Vídeo Guiada pela História <sub>⭐ 710 · Python</sub>
+- [svg-project/Sparse-VideoGen](https://github.com/svg-project/Sparse-VideoGen) - Vídeo esparsoGen 1 & 2: Transformadores de Difusão de Vídeo Acelerando com Atenção Esparsa <sub>⭐ 709 · Python</sub>
+- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Criador de vídeo totalmente automatizado usando gráficos de movimento e síntese de texto para falar para transformar newsletters em vídeos diários do YouTube. <sub>⭐ 707 · TypeScript</sub>
+- [lixiaowen-xw/DiffuEraser](https://github.com/lixiaowen-xw/DiffuEraser) - DiffuEraser é um modelo de difusão para pintura em vídeo, que executa grande conteúdo completude e consistência temporal mantendo a eficiência aceitável. <sub>⭐ 695 · Python</sub>
+- [SpenserCai/sd-webui-deoldify](https://github.com/SpenserCai/sd-webui-deoldify) - DeOldificy para Difusão Estável WebUI: Esta é uma extensão para Automatic1111 web-ui que permite colorir fotos antigas e vídeos antigos. <sub>⭐ 695 · Python</sub>
+- [Blizaine/Maestro](https://github.com/Blizaine/Maestro) - Um vídeo, imagem e estúdio de música 100% local, com o modo diretor planejando vídeos completos e curtas-metragens de um único prompt, construído no gasoduto WanGP, instalado via Pinokio. <sub>⭐ 686 · Python</sub>
+- [Yaofang-Liu/Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Milhares de passos no tempo Vídeo Difusão Modelo <sub>⭐ 685 · Python</sub>
+- [bytedance/DreamID-V](https://github.com/bytedance/DreamID-V) - Bridging the Image-to-Video Gap for High-Fidelity Face Swapping by Diffusion Transformer <sub>⭐ 683 · Python</sub>
+- [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - Uma série de 3 programas que receberão automaticamente scripts do Reddit, permitirão que o usuário os edite, então serão enviados para um gerador de vídeo onde serão carregados automaticamente para o… <sub>⭐ 679 · Python</sub>
+- [OSideMedia/higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) - Claude Al habilidade para cinema Higgsfield AI prompts - 32 sub-skills cobrindo Seedance 2.5 (omni-referência, edição de vídeo + extensão) e 2.0, o lineline do filme Hell Grind, um sistema de… <sub>⭐ 676 · Python</sub>
+- [tetherto/qvac](https://github.com/tetherto/qvac) - Open-source local AI SDK - executar IA on-dispositivo sem nuvem, sem chaves API. Suporta GGUF, RAG, imagem, música, e geração de vídeo, discurso para texto, inferência P2P, e muito mais. <sub>⭐ 661 · TypeScript</sub>
+- [zju3dv/Diffuman4D](https://github.com/zju3dv/Diffuman4D) - (ICCV 2025) Diffuman4D: 4D Consistente Humana Ver Síntese de Vídeo em Esparse-View com Modelos de Difusão Espaço-Temporal <sub>⭐ 640 · Python</sub>
+- [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) - MAGI-2-preview: Modelos de Geração de Vídeo em Escala Eficientemente <sub>⭐ 634 · Python</sub>
+- [prs-eth/RollingDepth](https://github.com/prs-eth/RollingDepth) - Profundidade de vídeo sem modelos de vídeo <sub>⭐ 611 · Python</sub>
+- [linzhiqiu/t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - Avaliando modelos de texto para imagem/vídeo/3D com VQAScore <sub>⭐ 603 · Python</sub>
+- [vivoCameraResearch/Magic-TryOn](https://github.com/vivoCameraResearch/Magic-TryOn) - MagicTryOn é um vídeo virtual try-on framework baseado em um transformador de difusão de vídeo em grande escala. <sub>⭐ 595 · Python</sub>
+- [SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1) - SkyReels-A1: Animação Retrato Expressiva em Transformadores de Difusão de Vídeo <sub>⭐ 580 · Python</sub>
+- [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) - SkyReels V3: Modelo de geração de vídeo multimodal <sub>⭐ 575 · Python</sub>
+- [alibaba-yuanjing-aigclab/ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - Vídeo Virtual Try-on usando modelos de difusão <sub>⭐ 568 · Python</sub>
+- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - (ECCV 2024) Oficialmente implementar o papel "DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model". <sub>⭐ 565 · Python</sub>
+- [VideoVerses/VideoTuna](https://github.com/VideoVerses/VideoTuna) - Vamos refinar modelos de geração de vídeo! <sub>⭐ 555 · Python</sub>
+- [justUmen/Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) - ComfyUI: 163 nós, exibir, manipular e editar texto, imagens, vídeos, loras e muito mais. <sub>⭐ 550 · Python</sub>
+- [lucidrains/nuwa-pytorch](https://github.com/lucidrains/nuwa-pytorch) - Implementação da NÜWA, rede de atenção do estado da arte para síntese de texto para vídeo, em Pytorch <sub>⭐ 547 · Python</sub>
+- [TianxingWu/FreeInit](https://github.com/TianxingWu/FreeInit) - (ECCV 2024) FreeInit: Bridging Inicialization Gap em modelos de difusão de vídeo <sub>⭐ 543 · Python</sub>
+- [heheyas/V3D](https://github.com/heheyas/V3D) - Modelos de Difusão de Vídeo são Geradores 3D eficazes <sub>⭐ 523 · Python</sub>
+- [ziqihuangg/Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) - Uma lista de trabalhos em geração de vídeo para modelo mundial. <sub>⭐ 520</sub>
+- [YingqingHe/LVDM](https://github.com/YingqingHe/LVDM) - Modelos de Difusão por Vídeo Latente para Geração de Vídeo Longo de Alta Fidelidade <sub>⭐ 506 · Python</sub>
+- [TaoLiveAIGC/TaoMate](https://github.com/TaoLiveAIGC/TaoMate) - Um modelo humano digital em tempo real para geração de áudio e vídeo. <sub>⭐ 496 · Python</sub>
+- [SamurAIGPT/Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) - Embrulho Python para a Seedance 2.5 da ByteDance API: Texto-para-Vídeo, Imagem-para-Vídeo, rostos humanos realistas, 4K nativos, geração de caráter consistente. <sub>⭐ 487 · Python</sub>
+- [jjihwan/FIFO-Diffusion_public](https://github.com/jjihwan/FIFO-Diffusion_public) - Implementação oficial da FIFO-Difusão: Gerando Vídeos Infinitos de Texto sem Treinamento (Neurips 2024) <sub>⭐ 486 · Python</sub>
+- [Francis-Rings/FlashPortrait](https://github.com/Francis-Rings/FlashPortrait) - (CVPR2026) Apresentamos o FlashRetrato, um transformador de difusão de vídeo de ponta a ponta capaz de sintetizar vídeos de preservação da identidade e comprimento infinito enquanto alcança até… <sub>⭐ 479 · Python</sub>
+- [Correr-Zhou/OmniShow](https://github.com/Correr-Zhou/OmniShow) - (ICML 2026) ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation <sub>⭐ 475 · Python</sub>
+- [NJU-PCALab/OpenVid-1M](https://github.com/NJU-PCALab/OpenVid-1M) - Um conjunto de dados de alta qualidade para geração de texto-vídeo <sub>⭐ 471 · Python</sub>
+- [nihaomiao/CVPR23_LFDM](https://github.com/nihaomiao/CVPR23_LFDM) - A implementação do nosso trabalho CVPR 2023 "Geração de imagens para vídeos com modelos de difusão de fluxo latente" <sub>⭐ 470 · Python</sub>
+- [smixs/visual-skills](https://github.com/smixs/visual-skills) - Habilidades de diretor cinematográfico para agentes: dramaturgia cinematográfica (Murch, bloqueio, montagem) + sintaxe imediata exata para Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2… <sub>⭐ 469</sub>
+- [harlanhong/ACTalker](https://github.com/harlanhong/ACTalker) - ICCV 2025 ATALKER: um quadro de difusão de vídeo para sintetizar cabeças falantes que suporta controle de único e multi-sinal (por exemplo, áudio, expressão). <sub>⭐ 465 · Python</sub>
+- [lcy362/agnes-video-generator](https://github.com/lcy362/agnes-video-generator) - Um gerador de vídeo com fonte aberta, auto-hospedado, totalmente grátis. <sub>⭐ 461 · Python</sub>
+- [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) - Este é o repo de código oficial para DiT4DiT, uma estrutura Vision-Action-Model (VM) que combina modelo de geração de vídeo com previsão de ação baseada em fluxo-combinação para robótica… <sub>⭐ 461 · Python</sub>
+- [TencentARC/RollingForcing](https://github.com/TencentARC/RollingForcing) - (ICLR 2026) Repo oficial de Rolling Forcing: auto-regressivo Long Video Difusão em tempo real <sub>⭐ 461 · Python</sub>
+- [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me) - Códigos para Difusão Personalizada por Vídeo Específico <sub>⭐ 459 · Python</sub>
+- [TencentARC/GeometryCrafter](https://github.com/TencentARC/GeometryCrafter) - Estimação de Geometria Consistente para Vídeos em Mundo Aberto com Priores de Difusão <sub>⭐ 458 · Python</sub>
+- [FoundationVision/Alive](https://github.com/FoundationVision/Alive) - Um modelo unificado de geração de áudio e vídeo <sub>⭐ 457</sub>
+- [researchmm/MM-Diffusion](https://github.com/researchmm/MM-Diffusion) - Modelos de Difusão Multi-Modal para Produção Conjunta de Áudio e Vídeo <sub>⭐ 453 · Python</sub>
+- [jnMetaCode/ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Claude Code Skill que transforma qualquer ideia em um prompt de vídeo cinematográfico, modelo pronto - Sora · Kling · Veo · Seedance. 21 modelos de gênero, estrutura de 5 estágios, teste eval. <sub>⭐ 450 · Python</sub>
+- [NVlabs/AnyFlow](https://github.com/NVlabs/AnyFlow) - Flow Map OPD para Difusão de Vídeo AnyStep <sub>⭐ 435 · Python</sub>
+- [microsoft/World-R1](https://github.com/microsoft/World-R1) - (ICML 2026) Mundo-R1: Reforçando restrições 3D para geração de texto para vídeo <sub>⭐ 427 · Python</sub>
+- [nv-tlabs/diffusion-renderer](https://github.com/nv-tlabs/diffusion-renderer) - Implementação oficial para "DifusionRenderer: Neural Inverse and Forward Rendering with Video Difusion Models" <sub>⭐ 427 · Python</sub>
+- [zai-org/VisionReward](https://github.com/zai-org/VisionReward) - (AAAI 2026) VisãoRecompensa: Multi-dimensional multi-dimensional Aprendizado de Preferências Humanas para Geração de Imagens e Vídeo <sub>⭐ 427 · Python</sub>
+- [OmniCustom-project/OmniCustom](https://github.com/OmniCustom-project/OmniCustom) - Implementação Oficial de 'OmniCustom: Sincronização Audio-Video Personalização Via Modelo Conjunto de Geração de Áudio-Vídeo' <sub>⭐ 425 · Python</sub>
+- [WeChatCV/Wan-Alpha](https://github.com/WeChatCV/Wan-Alpha) - (CVPR 2026 Destaque) Geração de texto para vídeo de alta qualidade com Canal Alfa <sub>⭐ 420 · Python</sub>
+- [TheDesignFounder/DreamLayer-Eval](https://github.com/TheDesignFounder/DreamLayer-Eval) - DreamLayer Eval, benchmarking de código aberto para modelos de difusão de imagens e vídeo, automatize prompts, sementes e métricas para resultados reprodutíveis, um projeto de pesquisa da DreamLayer… <sub>⭐ 413 · Python</sub>
+- [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - (SIGGRAPH Asia 2026) AnyRecon: Reconstrução 3D de visualização arbitrária com modelo de difusão de vídeo <sub>⭐ 407 · Python</sub>
+- [YBYBZhang/FramePainter](https://github.com/YBYBZhang/FramePainter) - "FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors" <sub>⭐ 406 · Python</sub>
+- [Weifeng-Chen/control-a-video](https://github.com/Weifeng-Chen/control-a-video) - Implementação Oficial de "Controle-A-Vídeo: Geração Controlável de Texto para Vídeo com Modelos de Difusão" <sub>⭐ 405 · Python</sub>
+- [smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR) - Em direção a uma super-resolução de transmissão baseada em difusão em tempo real, você pode usá-la com conforto. <sub>⭐ 397 · Python</sub>
+- [gaomingqi/sam-body4d](https://github.com/gaomingqi/sam-body4d) - Recuperação de malha humana livre de treinamento dos vídeos, baseado em SAM-3, Difusão-VAS e Corpo SAM-3D. <sub>⭐ 396 · Python</sub>
+- [rewbs/sd-parseq](https://github.com/rewbs/sd-parseq) - Seqüenciador de parâmetros para Difusão Estável <sub>⭐ 388 · TypeScript</sub>
+- [thecooltechguy/ComfyUI-Stable-Video-Diffusion](https://github.com/thecooltechguy/ComfyUI-Stable-Video-Diffusion) - Nodos ComfyUI para Difusão de Vídeo Estável <sub>⭐ 374 · Python</sub>
+- [voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch) - Implementação oficial do MCVD: Mascarado Difusão de Vídeo Condicional para Previsão, Geração e Interpolação (https://arxiv.org/abs/2205.09853) <sub>⭐ 371 · Python</sub>
+- [scopeInfinity/Video2Description](https://github.com/scopeInfinity/Video2Description) - Gerador de descrição de linguagem natural para algum vídeo dado. <sub>⭐ 363 · Python</sub>
+- [wassermanproductions/motion-previs-studio](https://github.com/wassermanproductions/motion-previs-studio) - Um aplicativo de desktop aberto para movimento, profundidade, pose e pré-visualização.Sugerido doação de $30 se puder me ajudar a continuar fazendo essas ferramentas.https://ko-fi.com/samwasserman <sub>⭐ 361 · JavaScript</sub>
+- [yjsunnn/DLoRAL](https://github.com/yjsunnn/DLoRAL) - (Neurips'25) Difusão de um passo para Detalhe-Rich e Temporally consistente vídeo Super-Resolução <sub>⭐ 357 · Python</sub>
+- [yujiwen/AnimateZero](https://github.com/yujiwen/AnimateZero) - Implementação oficial da PyTorch para o papel "AnimateZero: Video Difusion Models are Zero-Shot Image Animator" <sub>⭐ 357</sub>
+- [baaivision/vid2vid-zero](https://github.com/baaivision/vid2vid-zero) - Edição de Vídeo Zero-Shot Usando Modelos de Difusão de Imagens Off-The-Shelf <sub>⭐ 356 · Python</sub>
+- [zliucz/animate-your-word](https://github.com/zliucz/animate-your-word) - Implementação Oficial para Papel Dinâmica Tipografia: Trazendo Texto para a Vida via Vídeo Difusão Prior <sub>⭐ 355 · Python</sub>
+- [THU-SI/VideoScene](https://github.com/THU-SI/VideoScene) - Modelo de Difusão de Vídeo Destilando para Gerar Cenas 3D em Um Passo <sub>⭐ 354 · Python</sub>
+- [Anil-matcha/Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) - Embrulho Python para a Seedance 2.0 da ByteDance, Seedance 2.5 e Seedance 2 Mini API - Texto-para-Video, Imagem-para-Video, rostos humanos realistas, 1080p, geração de caráter consistente. <sub>⭐ 352 · Python</sub>
+- [VITA-Group/Diffusion4D](https://github.com/VITA-Group/Diffusion4D) - Difusão 4D: rápida geração de 4D por meio de modelos de difusão de vídeo <sub>⭐ 347 · Python</sub>
+- [zai-org/RealVideo](https://github.com/zai-org/RealVideo) - Um sistema de vídeo conversacional em tempo real que transforma interações textuais em respostas contínuas e de alta fidelidade usando difusão autorregressiva. <sub>⭐ 344 · Python</sub>
+- [SYuan03/Skill-Anything](https://github.com/SYuan03/Skill-Anything) - Qualquer fonte (PDF, vídeo, web, áudio, texto) para o pacote de aprendizado interativo com questionários, flashcards e repetição espaçada. <sub>⭐ 336 · Python</sub>
+- [zju3dv/street_crafter](https://github.com/zju3dv/street_crafter) - Veja a síntese com modelos de difusão de vídeo controláveis <sub>⭐ 335 · Python</sub>
+- [apiframe-ai/seedance-2.0-api](https://github.com/apiframe-ai/seedance-2.0-api) - API Seedance 2.0 - texto para vídeo e exemplos de imagem para vídeo <sub>⭐ 330</sub>
+- [yanghb22-fdu/Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - (MM24) Códigos oficiais e conjuntos de dados para o papel ACM MM24 "Hi3D: Prosseguindo a Geração de Imagens em 3D com Modelos de Difusão de Vídeo". <sub>⭐ 327 · Python</sub>
+- [TencentARC/DiTCtrl](https://github.com/TencentARC/DiTCtrl) - Código oficial de "DiTCtrl: Explorando Controle de Atenção em Transformador de Difusão Multi-Modal para Geração de Vídeo Multi-Prompt Livre" <sub>⭐ 326 · Python</sub>
+- [zhouwei713/seedance-prompt](https://github.com/zhouwei713/seedance-prompt) - Habilidades Hermes para vídeos de IA realistas para modelos de Seedance e texto-para-vídeo. <sub>⭐ 326</sub>
+- [zibojia/COCOCO](https://github.com/zibojia/COCOCO) - Este é o código de inferência do nosso papel CoCoCo, melhorando a pintura de vídeo guiado por texto para melhor consistência, controlabilidade e compatibilidade. <sub>⭐ 325 · Python</sub>
+- [sihyun-yu/PVDM](https://github.com/sihyun-yu/PVDM) - Modelos de Difusão Probabilística em Espaço Latente Projectado <sub>⭐ 323 · Python</sub>
+- [ZHU-Zhiyu/NVS_Solver](https://github.com/ZHU-Zhiyu/NVS_Solver) - Código-fonte do papel "NVS-Solver: Video Difusion Model como Zero-Shot Novel View Synthesizer" <sub>⭐ 322 · Python</sub>
+- [lukasHoel/video_to_world](https://github.com/lukasHoel/video_to_world) - Nosso método reconstrói mundos 3D de modelos de difusão de vídeo usando alinhamento não-rígido para resolver inconsistências 3D inerentes nas sequências geradas. <sub>⭐ 318 · Python</sub>
+- [mihirp1998/VADER](https://github.com/mihirp1998/VADER) - Alinhamento de Difusão de Vídeo via Gradientes de Recompensa, melhoramos uma variedade de modelos de difusão de vídeo como VideoCrafter, OpenSora, ModelScope e StableVideoDiffusion por afinar eles… <sub>⭐ 318 · Python</sub>
+- [jamichss/Stream-DiffVSR](https://github.com/jamichss/Stream-DiffVSR) - O repositório oficial de papel "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolução via Auto-Regressivo Difusão" <sub>⭐ 317 · Python</sub>
+- [RehgLab/RAVE](https://github.com/RehgLab/RAVE) - Ruído aleatório para edição rápida e consistente de vídeo com modelos de difusão (CVPR 2024) <sub>⭐ 313 · Python</sub>
+- [Vchitect/VideoBooth](https://github.com/Vchitect/VideoBooth) - Geração de vídeo baseada em difusão com Prompts de Imagem <sub>⭐ 310 · Python</sub>
+- [G-U-N/Gen-L-Video](https://github.com/G-U-N/Gen-L-Video) - A implementação oficial para "Gen-L-Video: Multi-Texto para Longa Geração de Vídeo via Co-Denoise Temporal". <sub>⭐ 307 · Jupyter Notebook</sub>
+- [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - O MLX-Video é o melhor pacote para inferência e ajuste de modelos de geração de imagens em seu Mac usando o MLX. <sub>⭐ 306 · Python</sub>
+- [THU-SI/LangScene-X](https://github.com/THU-SI/LangScene-X) - Reconstruir cenas de linguagem 3D embutidas com vídeo TriMap Difusão <sub>⭐ 303 · Python</sub>
+- [anima-x/anima-x](https://github.com/anima-x/anima-x) - Implementação Oficial de (AnimaX: Animando o Inanimado em 3D com Modelos Conjuntos de Difusão por Vídeo Poses) <sub>⭐ 300</sub>
+- [H-EmbodVis/EasyCache](https://github.com/H-EmbodVis/EasyCache) - Aceleração da difusão de vídeo livre de treinamento via Caching Adaptivo em Runtime <sub>⭐ 300 · Python</sub>
+- [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) - Classificação - Aprendizado de máquina Este é o tutorial "Classificação" que faz parte do curso de aprendizagem de máquina oferecido por Simplilearn. <sub>⭐ 300 · Python</sub>
+- [bytedance/Valley](https://github.com/bytedance/Valley) - Valley é um modelo de ponta multimodal grande projetado para lidar com uma variedade de tarefas envolvendo texto, imagens, vídeo e dados de áudio. <sub>⭐ 297 · Python</sub>
+- [wenhao728/awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) - Uma coleção de papel sobre edição baseada em modelos de difusão, ou seja, tradução vídeo-vídeo (V2V) e um código de referência para edição de vídeo. <sub>⭐ 291 · Python</sub>
+- [jolibrain/joliGEN](https://github.com/jolibrain/joliGEN) - Imagem e Video Toolset de IA Generativa com GANs e Difusão para Aplicações do Mundo Real <sub>⭐ 290 · Python</sub>
+- [aejion/AccVideo](https://github.com/aejion/AccVideo) - Código oficial para o AccVideo: acelerando o modelo de difusão de vídeo com dataset sintético <sub>⭐ 287 · Python</sub>
+- [RQ-Wu/LAMP](https://github.com/RQ-Wu/LAMP) - Aprenda um padrão de movimento para a geração de vídeos baseados em poucos tiros. <sub>⭐ 284 · Python</sub>
+- [jiahao-shao1/ChronoDepth](https://github.com/jiahao-shao1/ChronoDepth) - CronoDepth: aprendendo a profundidade de vídeo temporariamente consistente dos priores de difusão de vídeo <sub>⭐ 281 · Python</sub>
+- [lucidrains/lumiere-pytorch](https://github.com/lucidrains/lumiere-pytorch) - Implementação de Lumiere, SOTA geração de texto para vídeo do Google Deepmind, em Pytorch <sub>⭐ 281 · Python</sub>
+- [smthemex/ComfyUI_DiffuEraser](https://github.com/smthemex/ComfyUI_DiffuEraser) - DiffuEraser é um modelo de difusão para vídeo Inpinting, você pode usá-lo em ComfyUI <sub>⭐ 280 · Python</sub>
+- [360CVGroup/WISA](https://github.com/360CVGroup/WISA) - Assistente de Simulador Mundial para a Geração de Textos em Vídeo. <sub>⭐ 279 · Python</sub>
+- [MingXiangL/DEVIL](https://github.com/MingXiangL/DEVIL) - Avaliação de Modelos de Geração Texto-Video: Uma Perspectiva Dinâmica (Neurips 2024). <sub>⭐ 274 · Python</sub>
+- [GongyeLiu/StyleCrafter](https://github.com/GongyeLiu/StyleCrafter) - Melhorando a Geração de Texto Estilizado para Vídeo com Adaptador de Estilo <sub>⭐ 273 · Python</sub>
+- [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) - Modelos mundiais melhorados para a geração de vídeos de condução inversa <sub>⭐ 270 · Python</sub>
+- [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney) - Clone de código aberto da interface web MidJourney com imagens reais de IA e geração de vídeo alimentados pelo Google Gemini SDK. Use Imagen 4 para gerar imagens e Veo 2 e 3 para imagem e texto… <sub>⭐ 269 · TypeScript</sub>
+- [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - Skip to content github / docs Code Issues 80 Pull requisitions 35 Discussões Ações Projetos 2 Segurança Insights Mesclar a filial 'main' em 1862-Add-Travis-CI-migration-table... <sub>⭐ 268</sub>
+- [Vchitect/FasterCache](https://github.com/Vchitect/FasterCache) - Modelo de difusão de vídeo livre de treinamento Aceleração com alta qualidade <sub>⭐ 268 · Python</sub>
+- [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) - MIT Introdução ao Deep Learning (6.S191) Instrutores: Alexander Amini e Ava Solimany Curso de Informação Resumo Pré-requisitos Agendar Palestras Laboratórios, Projetos Finais, Grading, e Prêmios… <sub>⭐ 266 · Jupyter Notebook</sub>
+- [Curated-Awesome-Lists/Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) - Sora AI Impressionante List – Seu centro de recursos para todas as coisas Sora AI, modelo inovador da OpenAI para criar cenas realistas de texto. <sub>⭐ 260</sub>
+- [HITsz-TMG/Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - Geração de vídeo de animação controlável com grandes modelos baseados em agentes multimodais <sub>⭐ 260 · Jupyter Notebook</sub>
+- [Binyr/NormalCrafter](https://github.com/Binyr/NormalCrafter) - Aprendendo o Vídeo Normal Temporariamente Consistente com os Priores de Difusão de Vídeo <sub>⭐ 258 · Python</sub>
+- [thu-ml/cond-image-leakage](https://github.com/thu-ml/cond-image-leakage) - Implementação oficial para "Identificar e Resolver Vazamento Condicional de Imagem no Modelo de Difusão de Imagens em Vídeo" (Neurips 2024) <sub>⭐ 258</sub>
+- [yanqinJiang/Animate3D](https://github.com/yanqinJiang/Animate3D) - Animando qualquer modelo 3D com difusão de vídeo multi-visão <sub>⭐ 258 · Python</sub>
+- [houyuanchen111/UniVidX](https://github.com/houyuanchen111/UniVidX) - Código oficial do jornal "UniVidX: Um Framework Multimodal Unificado para Geração de Vídeo Versátil via Priores de Difusão". <sub>⭐ 257 · Python</sub>
+- [RERV/VDT](https://github.com/RERV/VDT) - (ICLR2024) A implementação oficial do papel "VDT: Transformadores de Difusão em Vídeo Geral por Modelo de Máscara", de Haoyu Lu, Guoxing Yang, Nanyi Fei, Yuqi Huo, Zhiwu Lu, Ping Luo, Mingyu Ding. <sub>⭐ 257 · Jupyter Notebook</sub>
+- [soraw-ai/Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) - Uma lista de texto para vídeo, imagem para vídeo funciona. <sub>⭐ 257</sub>
+- [WEIRDLabUW/unified-world-model](https://github.com/WEIRDLabUW/unified-world-model) - Modelos Mundiais Não-Conforme: Acoplamento de Vídeo e Difusão de Ação para Pré-treinamento em grandes conjuntos de dados robóticos <sub>⭐ 256 · Python</sub>
+- [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) - Uma lista de projetos práticos que qualquer um pode resolver em qualquer linguagem de programação (ver soluções), esses projetos são divididos em várias categorias, e cada categoria tem sua própria… <sub>⭐ 254</sub>
+- [harshalbenake/hbworkspace2-100](https://github.com/harshalbenake/hbworkspace2-100) - (1) Nome:-ActionBarSearchView Descrição :- Action bar view search. (2) Nome:- Adsfree Descrição:- Inserção Admob. (3) Nome:- AndroidDayDreamDemo Descrição:- Dia sonho demonstração. (4) Nome... <sub>⭐ 252 · Java</sub>
+- [yuxuant2025/vision-video-in-a-weekend](https://github.com/yuxuant2025/vision-video-in-a-weekend) - Envie um vídeo de 2-3 minutos de visão do produto em um fim de semana, usando apenas ferramentas de IA, sem filmagens, nenhuma suíte de edição, sem cortes de design necessários. <sub>⭐ 248 · TypeScript</sub>
+- [csbhr/Vivid-VR](https://github.com/csbhr/Vivid-VR) - O repositório oficial do nosso jornal ICLR 2026 "Vivid-VR: Destilando Conceitos de Transformador de Difusão Texto-Vídeo para Restauração de Vídeo Fotorrealista". <sub>⭐ 246 · Python</sub>
+- [Francis-Rings/MotionFollower](https://github.com/Francis-Rings/MotionFollower) - Editando o vídeo Motion via Difusão Guiada por Pontuações Leves <sub>⭐ 246 · Python</sub>
+- [LynnReal-AI/LynnReal-Omni](https://github.com/LynnReal-AI/LynnReal-Omni) - LynnReal-Omni traz texto para vídeo, imagem para vídeo, geração guiada humana e mão-pose, controle estrutural, geração de omni-referência, transferência de estilo, edição de vídeo, restauração de… <sub>⭐ 246 · Python</sub>
+- [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - O Selo de Conteúdo é uma estrutura moderna para marca d'água invisível e robusta em todas as modalidades áudio, imagem, vídeo e texto. <sub>⭐ 242 · HTML</sub>
+- [THU-SI/Physics3D](https://github.com/THU-SI/Physics3D) - Implementação oficial da Física3D: Aprender Propriedades Físicas de Gaussianos 3D via Difusão de Vídeo <sub>⭐ 242 · Python</sub>
+- [YangLing0818/VideoTetris](https://github.com/YangLing0818/VideoTetris) - Em direção à geração de texto composicional para vídeo. <sub>⭐ 237 · Python</sub>
+- [chengzhag/UCPE](https://github.com/chengzhag/UCPE) - (CVPR'26) Geração controlada por câmera de texto para vídeo, agora com intrínsecas, distorção e controle de orientação! <sub>⭐ 236 · Python</sub>
+- [FareedKhan-dev/AI-text-to-video-model-from-scratch](https://github.com/FareedKhan-dev/AI-text-to-video-model-from-scratch) - Neste blog, vamos construir um modelo de texto para vídeo em pequena escala do zero. <sub>⭐ 236 · Jupyter Notebook</sub>
+- [SOTAMak1r/DeepVerse](https://github.com/SOTAMak1r/DeepVerse) - DeepVerse: Geração de vídeo 4D autorregressiva como um modelo mundial <sub>⭐ 233 · Python</sub>
+- [tyhuang0428/DreamPhysics](https://github.com/tyhuang0428/DreamPhysics) - A física dos sonhos: aprender dinâmicas 3D baseadas em física com antecedentes de difusão de vídeo <sub>⭐ 233 · Python</sub>
+- [Hanbo-Cheng/DAWN-pytorch](https://github.com/Hanbo-Cheng/DAWN-pytorch) - Implementação Offical do Avatar de Quadro Dinâmico com Framework de Difusão Não-Autoregressivo para Geração de Videos Falantes <sub>⭐ 232 · Python</sub>
+- [KlingAIResearch/I2V-Adapter](https://github.com/KlingAIResearch/I2V-Adapter) - Adaptador de imagem geral para modelos de difusão <sub>⭐ 231 · Python</sub>
+- [thu-ml/controlvideo](https://github.com/thu-ml/controlvideo) - Implementação oficial para o "ControlVideo: Adicionando Controle Condicional para Edição de Texto em Vídeo" <sub>⭐ 230 · Python</sub>
+- [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Ferramenta Python API e linha de comando para transcrever arquivos de vídeo baseados em fala facilmente em texto limpo <sub>⭐ 229 · Jupyter Notebook</sub>
+- [DanBigioi/DiffusionVideoEditing](https://github.com/DanBigioi/DiffusionVideoEditing) - Projeto oficial para o papel "Editação de Vídeo Diferenciada por Voz" <sub>⭐ 228 · Python</sub>
+- [dvirsamuel/OmnimatteZero](https://github.com/dvirsamuel/OmnimatteZero) - OmnimatteZero: omnimatte livre de treinamento rápido com modelos de difusão de vídeo pré-treinados <sub>⭐ 228 · Python</sub>
+- [CIntellifusion/GeometryForcing](https://github.com/CIntellifusion/GeometryForcing) - (ICLR26) Implementação oficial da Geometria Forçando: Casar com Difusão de Vídeo e Representação 3D para Modelos Mundiais Consistentes <sub>⭐ 227 · Python</sub>
+- [DN6/giffusion](https://github.com/DN6/giffusion) - Crie GIFs e Vídeos usando Difusão Estável <sub>⭐ 225 · Python</sub>
+- [JittorRepos/JDiffusion](https://github.com/JittorRepos/JDiffusion) - JDifusion é uma biblioteca de modelos de difusão para gerar imagens ou vídeos baseados em Diffusers e Jittor. <sub>⭐ 225 · Python</sub>
+- [yjsunnn/Awesome-video-super-resolution-diffusion](https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion) - Uma lista de recursos para super-resolução de vídeo usando modelos de difusão. <sub>⭐ 224</sub>
+- [zhengchen1999/DOVE](https://github.com/zhengchen1999/DOVE) - Modelo eficiente de difusão de um passo para super resolução de vídeo do mundo real <sub>⭐ 222 · Python</sub>
+- [gulucaptain/CameraNoise](https://github.com/gulucaptain/CameraNoise) - (ICML'26) CameraNoise ajuda a controlar o movimento da câmera fiel na difusão de vídeo. <sub>⭐ 220 · Python</sub>
+- [Eyeline-Labs/CineScale](https://github.com/Eyeline-Labs/CineScale) - Geração de vídeo 4K grátis para sintonizar <sub>⭐ 215 · Python</sub>
+- [I2V-Adapter/I2V-Adapter-repo](https://github.com/I2V-Adapter/I2V-Adapter-repo) - Adaptador de imagem geral para vídeo para modelos de difusão <sub>⭐ 213</sub>
+- [PKU-YuanGroup/ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) - ChronoMagic-Bench: uma marca para avaliação metamórfica da geração de vídeo texto-tempo-lapso <sub>⭐ 213 · Python</sub>
+- [yrcong/flatten](https://github.com/yrcong/flatten) - Implementação de Pítorquia FLATTEN: ATENÇÃO Óptica Guiada por Flow para edição consistente de texto-para-vídeo (ICLR 2024) <sub>⭐ 212 · Python</sub>
+- [Daniellli/DKT](https://github.com/Daniellli/DKT) - (ICRA2026) Implementação oficial de "Difusão Sabe Transparência: Repurposing Video Difusão para Profundidade de Objetos Transparentes e Estimação Normal" <sub>⭐ 211 · Python</sub>
+- [AI-Efficiency/Awesome-Efficient-Diffusion](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) - Uma lista de documentos e códigos sobre modelos de difusão eficientes para imagem, vídeo, modelagem mundial e geração de linguagem cobrindo aceleração, quantização, compressão, cache e destilação. <sub>⭐ 209</sub>
+- [aHapBean/VideoREPA](https://github.com/aHapBean/VideoREPA) - Aprendendo Física para Geração de Vídeo através do Alinhamento Relacional com Modelos da Fundação <sub>⭐ 208 · Python</sub>
+- [JeffWang987/WorldDreamer](https://github.com/JeffWang987/WorldDreamer) - "Worlddreamer: Rumo a Modelos Mundiais Gerais para Geração de Vídeo" <sub>⭐ 208</sub>
+- [Vchitect/DCM](https://github.com/Vchitect/DCM) - Modelo de Consistência Dual-Expert para Geração de Vídeo Eficiente e de Alta Qualidade <sub>⭐ 207 · Python</sub>
+- [luosiallen/Diff-Foley](https://github.com/luosiallen/Diff-Foley) - Síntese de vídeo para áudio sincronizada com modelos de diferenciação latente <sub>⭐ 206 · Python</sub>
+- [PKU-YuanGroup/WF-VAE](https://github.com/PKU-YuanGroup/WF-VAE) - Melhorando o vídeo VAE por Wavelet-Driven Energy Flow para Modelo de Difusão de Vídeo Latente <sub>⭐ 206 · Python</sub>
+- [antoine77340/S3D_HowTo100M](https://github.com/antoine77340/S3D_HowTo100M) - Modelo S3D de vídeo treinado em HowTo100M usando MIL-NCE <sub>⭐ 200 · Python</sub>
+- [HyeonHo99/Video-Motion-Customization](https://github.com/HyeonHo99/Video-Motion-Customization) - VMC: Personalização de movimento em vídeo usando adaptação de atenção temporal para modelos de difusão texto-vídeo (CVPR 2024) <sub>⭐ 200 · Python</sub>
+- [luckyhzt/LVCD](https://github.com/luckyhzt/LVCD) - O código oficial de papel "LVCD: Lineart baseado em referência Colorização de vídeo com modelos de difusão" <sub>⭐ 200 · Python</sub>
+- [Anil-matcha/awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) - A comparação mais completa e atualizada dos modelos de geração de vídeo da IA, qual modelo, através de qual API, a que preço, e quão rápido. <sub>⭐ 199</sub>
+- [NevSNev/FloED-main](https://github.com/NevSNev/FloED-main) - Vídeo Coerente Inpintura Usando Difusão Óptica Guiada por Fluxo Eficiente <sub>⭐ 199 · Python</sub>
+- [open-mmlab/Live2Diff](https://github.com/open-mmlab/Live2Diff) - Live2Diff: uma linha que processa transmissões de vídeo ao vivo por um modelo unidirecional de difusão de vídeo. <sub>⭐ 199 · Python</sub>
+- [AMAAI-Lab/Video2Music](https://github.com/AMAAI-Lab/Video2Music) - Video2Music: Geração de Música Apropriada de Vídeos usando um modelo de Transformador Multimodal Afetivo <sub>⭐ 198 · Python</sub>
+- [OmniForcing/OmniForcing](https://github.com/OmniForcing/OmniForcing) - A OmniForcing é a primeira estrutura para destilar bidirecional... <sub>⭐ 198 · Python</sub>
+- [evalcrafter/EvalCrafter](https://github.com/evalcrafter/EvalCrafter) - EvalCrafter, benchmarking e avaliação de grandes modelos de geração de vídeo <sub>⭐ 196 · Jupyter Notebook</sub>
+
+## 🎥 Câmera, movimento e VFX
+
+> Captura de movimento, estimativa de profundidade, tracking e efeitos.
+
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Implementação de referência original de 3D Gaussian Splatting para Renderização de Campo de Radiância em Tempo Real. <sub>⭐ 24.1k · Python</sub>
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Gráficos neurais instantâneos primitivos: NeRF rápido e mais <sub>⭐ 17.6k · Cuda</sub>
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Um estúdio de colaboração para NeRFs <sub>⭐ 12.0k · Python</sub>
+- [bmild/nerf](https://github.com/bmild/nerf) - Liberação de código para NeRF (Campos de Radiância Neurais) <sub>⭐ 10.9k · Jupyter Notebook</sub>
+- [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Em tempo real, transmissão interativa de humanos digitais. <sub>⭐ 9.7k · Python</sub>
+- [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Vídeo robusto em PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! <sub>⭐ 9.5k · Python</sub>
+- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Lista de documentos e recursos focados em Gaussian Splatting 3D, com a intenção de acompanhar o aumento antecipado da pesquisa nos próximos meses. <sub>⭐ 8.9k · Python</sub>
+- [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Um modelo de fundação mais capaz para a estimativa monocular da profundidade. <sub>⭐ 8.9k · Python</sub>
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation com NeRF + Difusão. <sub>⭐ 8.9k · Python</sub>
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Modelo da Fundação para Estimação Monocular de Profundidade <sub>⭐ 8.2k · Python</sub>
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - Uma lista de incríveis campos de radiação neural. <sub>⭐ 6.8k · TeX</sub>
+- [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - Uma implementação da PyTorch do NeRF (Neural Radiance Fields) que reproduz os resultados. <sub>⭐ 6.1k · Python</sub>
+- [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - Rápido, direto LiDAR-Inercial-Visual Odometria <sub>⭐ 4.7k · C++</sub>
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Sistema de rede neural C++/CUDA rápido. <sub>⭐ 4.5k · C++</sub>
+- [nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2) - (ICCV 2019) Estimativa de profundidade monocular a partir de uma única imagem <sub>⭐ 4.5k · Jupyter Notebook</sub>
+- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - (ICLR 2024 Oral) Gerativa Gaussian Splatting para criação eficiente de conteúdo 3D <sub>⭐ 4.4k · Python</sub>
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - (CVPR 2024) 4D Gaussian Splatting para renderização de cena dinâmica em tempo real <sub>⭐ 4.0k · Jupyter Notebook</sub>
+- [MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - Uma extensa suíte de nós que permite à ComfyUI processar entradas 3D (Mesh & Textura UV, etc) usando algoritmos de ponta (3DGS, NeRF, etc.) <sub>⭐ 3.9k · Python</sub>
+- [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - Treinar, inspecionar, editar, automatizar e exportar cenas Gaussianas 3D de uma única aplicação nativa. <sub>⭐ 3.8k · C++</sub>
+- [Anttwo/SuGaR](https://github.com/Anttwo/SuGaR) - (CVPR 2024) Implementação oficial de PyTorch da SuGAR: Splatting Gaussiano Alinhado à Superfície para Reconstrução Eficiente de Mesh 3D e Renderização de Mesh de Alta Qualidade <sub>⭐ 3.5k · C++</sub>
+- [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Difusion-Based Image Generators for Monocular Propth Estimation <sub>⭐ 3.2k · Python</sub>
+- [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Ligeira biblioteca WebGL & JavaScript para detecção multiface em tempo real, rastreamento e aumento de realidade filtros faciais. Suporta rotação, abertura da boca e integra com Three.js… <sub>⭐ 2.9k · JavaScript</sub>
+- [MaximeVandegar/Papers-in-100-Lines-of-Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) - Implementação de documentos em 100 linhas de código. <sub>⭐ 2.9k · Python</sub>
+- [kwea123/nerf_pl](https://github.com/kwea123/nerf_pl) - NeRF (Campos de Radiância Neurais) e NeRF no Selvagem usando pitorque-iluminação <sub>⭐ 2.8k · Jupyter Notebook</sub>
+- [yerfor/GeneFace](https://github.com/yerfor/GeneFace) - GeneFace, síntese de rostos falantes 3D generalizados e de alta fidelidade, ICLR 2023, código oficial <sub>⭐ 2.7k · Python</sub>
+- [DepthAnything/Video-Depth-Anything](https://github.com/DepthAnything/Video-Depth-Anything) - (CVPR 2025 Destaque) Vídeo Profundidade Qualquer coisa: Estimação consistente de profundidade para vídeos super longos <sub>⭐ 2.2k · Python</sub>
+- [ashawkey/torch-ngp](https://github.com/ashawkey/torch-ngp) - Uma implementação de extensão CUDA pytorch da ngp instantânea (SDF e Nerf), com uma GUI. <sub>⭐ 2.2k · Python</sub>
+- [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - Splat, Track & Map Gaussians 3D para Densa RGB-D SLAM (CVPR 2024) <sub>⭐ 2.2k · Python</sub>
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - (CVPR'24 Highlight & Best Demo Award) Gaussian Splatting SLAM <sub>⭐ 2.2k · Python</sub>
+- [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - Uma lista abrangente de representações implícitas, documentos da NeRF e Gaussian 3D relacionados ao domínio SLAM/Robotics, incluindo papéis, vídeos, códigos e sites relacionados. <sub>⭐ 2.1k</sub>
+- [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - Um quadro unificado para reconstrução de superfície <sub>⭐ 2.1k · Python</sub>
+- [tinghuiz/SfMLearner](https://github.com/tinghuiz/SfMLearner) - Uma estrutura de aprendizagem não supervisionada para a profundidade e estimativa do ego-moção de vídeos monoculares <sub>⭐ 2.0k · Jupyter Notebook</sub>
+- [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, Captura de Movimentos com Corpo Total baseado em IA e solução Realidade Extendida (XR), alimentado por Sistema Animador Online <sub>⭐ 1.9k · JavaScript</sub>
+- [junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D) - Criação em 3D de alta fidelidade a partir de uma única imagem com Prior de Difusão <sub>⭐ 1.9k · Python</sub>
+- [yerfor/GeneFacePlusPlus](https://github.com/yerfor/GeneFacePlusPlus) - GeneFace++: Geralizado e Estável Real-Time 3D Talking Face Geration; Código Oficial <sub>⭐ 1.8k · Python</sub>
+- [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - Um Framework Modular para Gaussian 3D Splatting e Além <sub>⭐ 1.8k · Jupyter Notebook</sub>
+- [One-2-3-45/One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - Código oficial de "One-2-3-45: qualquer imagem a malha 3D em 45 segundos sem optimização por forma" <sub>⭐ 1.7k · Python</sub>
+- [roryclear/clearcam](https://github.com/roryclear/clearcam) - Adicione detecção de objetos, rastreamento, notificações móveis e procure em qualquer câmera de segurança. <sub>⭐ 1.6k · Python</sub>
+- [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - Estimação de Profundidade Monocular de Alta Qualidade através do aprendizado da transferência <sub>⭐ 1.6k · Jupyter Notebook</sub>
+- [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - Uma lista abrangente de representações implícitas e artigos da NeRF relacionados ao domínio Robotics/RL, incluindo documentos, códigos e sites relacionados. <sub>⭐ 1.6k</sub>
+- [thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer) - Prolífico sonhador: geração de texto para 3D com alta fidelidade e diversidade com Destilação Variacional da Pontuação (Neurips 2023 Spotlight) <sub>⭐ 1.6k · Python</sub>
+- [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp é uma biblioteca PyTorch alimentada pelo núcleo de caulino NVIDIA para trabalhar com campos neurais (incluindo NeRFs, GNGLOD, ngp instantâneo e VQAD). <sub>⭐ 1.5k · Python</sub>
+- [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - Atualizar automaticamente CV Papers diariamente usando ações de Github <sub>⭐ 1.5k · Python</sub>
+- [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - Melhor papel estudantil do CVPR24, desfibrilador 3D Gaussian livre de nomes. <sub>⭐ 1.5k · Python</sub>
+- [sxyu/pixel-nerf](https://github.com/sxyu/pixel-nerf) - Repositório Oficial PixelNeRF <sub>⭐ 1.5k · Python</sub>
+- [buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor) - Edição rápida e controlável em 3D com o Gaussian Splatting <sub>⭐ 1.5k · C++</sub>
+- [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc) - Uma caixa de ferramentas de aceleração NeRF em PyTorch. <sub>⭐ 1.5k · Python</sub>
+- [autonomousvision/unimatch](https://github.com/autonomousvision/unimatch) - (TPAMI'23) Unificando Fluxo, Estéreo e Estimação de Profundidade <sub>⭐ 1.4k · Python</sub>
+- [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) - Treinador Gaussiano 3D - vídeo para malhar, Vulkan ou CUDA. <sub>⭐ 1.4k · C++</sub>
+- [sjtuytc/UnboundedNeRFPytorch](https://github.com/sjtuytc/UnboundedNeRFPytorch) - De última geração, simples e rápido sem limites/NeRFs em larga escala. <sub>⭐ 1.3k · Python</sub>
+- [nv-tlabs/Difix3D](https://github.com/nv-tlabs/Difix3D) - Melhorando as Reconstruções 3D com Modelos de Difusão de Passo Único <sub>⭐ 1.3k · Python</sub>
+- [kwea123/ngp_pl](https://github.com/kwea123/ngp_pl) - Instant-ngp em pytorch+cuda treinado com pitorch-lightning (alta qualidade com alta velocidade, com apenas poucas linhas de código legível) <sub>⭐ 1.3k · Jupyter Notebook</sub>
+- [TRI-ML/packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - Repositório de Estimação Monocular da Profundidade TRI-ML <sub>⭐ 1.3k · Python</sub>
+- [lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Estimação Monocular Universal de Profundidade Metrica <sub>⭐ 1.3k · Python</sub>
+- [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: SLAM Monocular densa em tempo real com campos de radiação neural. https://arxiv.org/abs/2210.13641 + Sigma-Fusion: Fusão volumétrica probabilística para SLAM monocular densa... <sub>⭐ 1.3k · Python</sub>
+- [Fictionarry/ER-NeRF](https://github.com/Fictionarry/ER-NeRF) - (ICCV'23) Campo de Radiância Neural Inteligente Região-Aware para High-Fidelidade Falando Retrato Síntese <sub>⭐ 1.3k · Python</sub>
+- [autonomousvision/giraffe](https://github.com/autonomousvision/giraffe) - Este repositório contém o código para o CVPR 2021 papel "GIRAFFE: Representando Cenas como Composicional Generative Neural Feature Fields" <sub>⭐ 1.2k · Python</sub>
+- [dendenxu/fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - Um CUDA global baseado em geometria, organizado de alto desempenho 3D Gaussian Splatting Rasterizador pode alcançar uma velocidade de 5-10x em renderização comparado com a vanialla… <sub>⭐ 1.2k · Python</sub>
+- [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Foto-realista Dense SLAM com Gaussian Splatting <sub>⭐ 1.2k · Python</sub>
+- [Xharlie/pointnerf](https://github.com/Xharlie/pointnerf) - Campo de Radiância Neural baseado em pontos <sub>⭐ 1.2k · Python</sub>
+- [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - Tráfego ao vivo e objeto contando com YOLO v4, Deep SORT, e Flask. <sub>⭐ 1.1k · Python</sub>
+- [aim-uofa/AdelaiDepth](https://github.com/aim-uofa/AdelaiDepth) - Este relatório contém os projetos: 'Virtual Normal', 'DiverseDepth' e '3D Scene Shape'. <sub>⭐ 1.1k · Python</sub>
+- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - Geração e Animação de Avatares 3D <sub>⭐ 1.1k · Python</sub>
+- [THU-LYJ-Lab/T3Bench](https://github.com/THU-LYJ-Lab/T3Bench) - T3Bench: Benchmarking Progresso atual na geração de texto para 3D <sub>⭐ 1.1k · Python</sub>
+- [jeeliz/jeelizWeboji](https://github.com/jeeliz/jeelizWeboji) - WebGL em tempo real e biblioteca JavaScript para rastreamento de rosto, detecção de expressão e emoticons animados no navegador, com ambos SVG e três.js demos incluídos <sub>⭐ 1.1k · JavaScript</sub>
+- [zju3dv/InfiniDepth](https://github.com/zju3dv/InfiniDepth) - (CVPR 2026) InfiniDepth: Arbitrária-Resolução e Estimação de Profundidade Fina-Grained com Campos Implícitos Neurais <sub>⭐ 1.1k · Python</sub>
+- [yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait) - Real3D-Retrato: Retrato 3D realista falando síntese, ICLR 2024 Spotlight, código oficial <sub>⭐ 1.1k · Python</sub>
+- [sunset1995/DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) - Otimização direta da grade de voxels para reconstrução rápida do campo de radiação. <sub>⭐ 1.1k · Python</sub>
+- [YudongGuo/AD-NeRF](https://github.com/YudongGuo/AD-NeRF) - Este repositório contém uma implementação PyTorch de "AD-NeRF: Campo de Radiância Neural Dirigido por Áudio para Síntese Cabeça Falante". <sub>⭐ 1.1k · Python</sub>
+- [yashbhalgat/HashNeRF-pytorch](https://github.com/yashbhalgat/HashNeRF-pytorch) - Puro PyTorch Implementação do artigo da NVIDIA sobre treinamento instantâneo de gráficos neurais primitivos: https://nvlabs.github.io/instant-ngp <sub>⭐ 1.0k · Python</sub>
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segmento Qualquer coisa em 3D com NeRFs (Neurips 2023 e IJCV 2025) <sub>⭐ 1.0k · Python</sub>
+- [maximeraafat/BlenderNeRF](https://github.com/maximeraafat/BlenderNeRF) - Fácil criação de dados sintéticos NeRF dentro do Blender <sub>⭐ 1.0k · Python</sub>
+- [mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar) - (CVPR 2019) Pseudo-LiDAR da Estimação de Profundidade Visual <sub>⭐ 1.0k · Jupyter Notebook</sub>
+- [ashawkey/nerf2mesh](https://github.com/ashawkey/nerf2mesh) - (ICCV2023) Delicada recuperação de malha texturizada do NeRF via Refinamento Adaptativo de Superfície <sub>⭐ 967 · Python</sub>
+- [Kai-46/nerfplusplus](https://github.com/Kai-46/nerfplusplus) - Melhora sobre o Nerf em 360 captura de cenas ilimitadas. <sub>⭐ 940 · Python</sub>
+- [Totoro97/f2-nerf](https://github.com/Totoro97/f2-nerf) - Treino rápido de campo de radiação neural com trajetórias de câmera livres <sub>⭐ 939 · C</sub>
+- [ashawkey/RAD-NeRF](https://github.com/ashawkey/RAD-NeRF) - Radiância neural em tempo real, síntese de retratos falantes via Descomposição Audioespacial <sub>⭐ 925 · Python</sub>
+- [huawei-bayerlab/marigold-v2](https://github.com/huawei-bayerlab/marigold-v2) - Marigold V2: Revisitando Transformadores de Difusão para Estimação de Profundidade Monocular <sub>⭐ 872 · Python</sub>
+- [caiyuanhao1998/Open-DiffusionGS](https://github.com/caiyuanhao1998/Open-DiffusionGS) - Baking Gaussian Splatting em Difusão Desnizer para rápida e escalável de um único estágio Geração de imagens para 3D e Reconstrução (ICCV 2025) <sub>⭐ 865 · Python</sub>
+- [ventusff/neurecon](https://github.com/ventusff/neurecon) - Reconstrução 3D multi-visão usando renderização neural, implementação não oficial da UNISURF, VolSDF, NeuS e muito mais. <sub>⭐ 861 · Python</sub>
+- [ayaanzhaque/instruct-nerf2nerf](https://github.com/ayaanzhaque/instruct-nerf2nerf) - Editando cenas 3D com instruções (ICCV 2023) <sub>⭐ 853 · Python</sub>
+- [gsgen3d/gsgen](https://github.com/gsgen3d/gsgen) - (CVPR 2024) Texto para 3D usando Gaussian Splatting <sub>⭐ 845 · Python</sub>
+- [hustvl/GaussianDreamer](https://github.com/hustvl/GaussianDreamer) - Geração rápida do texto para Gaussians 3D por modelos de fusão 2D e 3D <sub>⭐ 833 · Python</sub>
+- [taichi-dev/taichi-nerfs](https://github.com/taichi-dev/taichi-nerfs) - Implementação de variantes NeRF baseadas em Taichi + PyTorch <sub>⭐ 829 · Python</sub>
+- [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) - Uma lista com curadoria de artigos 3D Vision relacionados ao domínio da Robótica na era dos grandes modelos, ou seja, LLMs/VLMs, inspirados em uma visão incrível do computador, incluindo papéis… <sub>⭐ 825</sub>
+- [chenhsuanlin/bundle-adjusting-NeRF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) - Campos de Radiância Neural Ajustando Pacotes (ICCV 2021 oral) <sub>⭐ 823 · Python</sub>
+- [chungyiweng/humannerf](https://github.com/chungyiweng/humannerf) - O HumanNeRF transforma um vídeo monocular de mover as pessoas em um vídeo de 360 pontos de visão livre. <sub>⭐ 816 · Python</sub>
+- [NVlabs/LongSplat](https://github.com/NVlabs/LongSplat) - Robusto, não colocado, Gaussiano 3D para vídeos casuais longos. <sub>⭐ 811 · Python</sub>
+- [caiyuanhao1998/SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF) - "Reconstrução 3D de raios-X" (CVPR 2024) - uma caixa de ferramentas para reconstrução da TC e síntese de visão de romance de raios-X <sub>⭐ 808 · Python</sub>
+- [shg8/3DGS.cpp](https://github.com/shg8/3DGS.cpp) - Um renderizador multiplataforma de alto desempenho para Gaussian Splatting usando Vulkan Compute. <sub>⭐ 786 · C++</sub>
+- [dunbar12138/DSNeRF](https://github.com/dunbar12138/DSNeRF) - Lançamento de código para DS-NeRF (Campos Neural Supervisionados por Dept.) <sub>⭐ 785 · Python</sub>
+- [shariqfarooq123/AdaBins](https://github.com/shariqfarooq123/AdaBins) - Implementação oficial de Adabins: estimativa da profundidade usando caixas adaptativas <sub>⭐ 783 · Python</sub>
+- [CompVis/depth-fm](https://github.com/CompVis/depth-fm) - Estimação de Profundidade Monocular Rápida com Flow Matching <sub>⭐ 760 · Jupyter Notebook</sub>
+- [wanmeihuali/taichi_3d_gaussian_splatting](https://github.com/wanmeihuali/taichi_3d_gaussian_splatting) - Uma implementação não oficial de papel 3D Gaussian Splatting para Renderização de Campo de Radiância em Tempo Real por Taichi Lang. <sub>⭐ 755 · Jupyter Notebook</sub>
+- [noahzn/Lite-Mono](https://github.com/noahzn/Lite-Mono) - Uma CNN leve e arquitetura de transformador para a estimativa da profundidade monocular auto-supervisionada <sub>⭐ 716 · Python</sub>
+- [eladrich/latent-nerf](https://github.com/eladrich/latent-nerf) - Implementação oficial para "Latent-NeRF para a geração de formas e texturas 3D" <sub>⭐ 712 · Python</sub>
+- [visonpon/New-View-Synthesis](https://github.com/visonpon/New-View-Synthesis) - Coletando artigos sobre síntese de novas visões. <sub>⭐ 712</sub>
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - Visualizador de modelos 3D apoiando GlTF e Gaussian Splats. <sub>⭐ 708 · TypeScript</sub>
+- [mli0603/stereo-transformer](https://github.com/mli0603/stereo-transformer) - Revisitando a estimativa da profundidade de Stereo de uma perspectiva de sequência para seqüência com transformadores. <sub>⭐ 706 · Jupyter Notebook</sub>
+- [apchenstu/mvsnerf](https://github.com/apchenstu/mvsnerf) - (ICCV 2021) Nosso trabalho apresenta uma nova abordagem de renderização neural que pode eficientemente reconstruir campos de radiação geométrica e neural para síntese de visão. <sub>⭐ 696 · Python</sub>
+- [CVMI-Lab/SC-GS](https://github.com/CVMI-Lab/SC-GS) - Código para SC-GS, esparse-controlado Gaussian Splatting para Editáveis Cenas Dinâmicas <sub>⭐ 653 · Python</sub>
+- [Jittor/JNeRF](https://github.com/Jittor/JNeRF) - JNeRF é um benchmark NeRF baseado em Jittor. <sub>⭐ 642 · C++</sub>
+- [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) - Implementação da EmerNeRF: decomposição temporal e espacial emergente via auto-supervisão <sub>⭐ 641 · Python</sub>
+- [lif314/awesome-NeRF-papers](https://github.com/lif314/awesome-NeRF-papers) - Todos os documentos relacionados ao NeRF @ CVPR/ICCV/ECCV/NIPS/ICML/ICLR <sub>⭐ 635</sub>
+- [yzfzzz/depth-detect](https://github.com/yzfzzz/depth-detect) - Estimativa de profundidade mono/estéreo + detecção de objetos yolo com implantação em Jeston nano/TX2/GeForce por TensorRT <sub>⭐ 629 · C++</sub>
+- [jiawei-ren/dreamgaussian4d](https://github.com/jiawei-ren/dreamgaussian4d) - "Esmagamento Generativo 4D Gaussiano" <sub>⭐ 619 · Python</sub>
+- [PeterouZh/CIPS-3D](https://github.com/PeterouZh/CIPS-3D) - GANs 3D baseados em NeRF (arXiv). <sub>⭐ 608 · Python</sub>
+- [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) - Uma curadoria crescente de texto para 3D, Difusão para 3D funciona. <sub>⭐ 607 · TeX</sub>
+- [francescofugazzi/3dgsconverter](https://github.com/francescofugazzi/3dgsconverter) - Uma linha de comando Python para converter e processar modelos Gaussian 3D, suporta conversão N-para N entre 3DGS (.ply), KSplat, SOG, SPZ, Splat, CloudCompare, Parquet, e... <sub>⭐ 599 · Python</sub>
+- [city-super/BungeeNeRF](https://github.com/city-super/BungeeNeRF) - Campo de Radiância Neural Progressivo para Renderização de Cenas em Multi-Escala Extrema <sub>⭐ 589 · Python</sub>
+- [openxrlab/xrnerf](https://github.com/openxrlab/xrnerf) - OpenXRLab Neural Radiance Field (NeRF) Toolbox e Benchmark <sub>⭐ 584 · C++</sub>
+- [xrdevrob/QuestCameraKit](https://github.com/xrdevrob/QuestCameraKit) - QuestVisionKit é uma coleção de modelos e projetos de referência demonstrando como usar a nova API da câmera Passthrough para efeitos avançados de visão AR/VR, rastreamento e shader. <sub>⭐ 578 · C#</sub>
+- [ActiveVisionLab/nerfmm](https://github.com/ActiveVisionLab/nerfmm) - Campo de Radiância Neural sem parâmetros de câmera conhecidos <sub>⭐ 574 · Python</sub>
+- [JunyuanDeng/NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM) - Representação de Implícito Neural para Odometria e Mapeamento da Grande Escala Incremental LiDAR <sub>⭐ 559 · Python</sub>
+- [OniroAI/MonoDepth-PyTorch](https://github.com/OniroAI/MonoDepth-PyTorch) - Implementação não oficial da rede neural de Estimação Monocular sem Perspectiva em PyTorch. <sub>⭐ 554 · Python</sub>
+- [chenguolin/DiffSplat](https://github.com/chenguolin/DiffSplat) - Implementação oficial de "DiffSplat: Repurposing Image Difusion Models for Scalable 3D Gaussian Splat Generation". <sub>⭐ 546 · Python</sub>
+- [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - (IROS 2025) LiDAR-aumentada Gaussian Splatting e Neural SDF para geometricamente consistente renderização e reconstrução <sub>⭐ 534 · C++</sub>
+- [ShuhongLL/SGS-SLAM](https://github.com/ShuhongLL/SGS-SLAM) - Slatting Gaussiano Semântico para Neural Densense SLAM <sub>⭐ 530 · Jupyter Notebook</sub>
+- [cvlab-kaist/VideoMaMa](https://github.com/cvlab-kaist/VideoMaMa) - Implementação oficial de "VideoMa: Mask-Guided Video Matting via Generative Prior", CVPR 2026 <sub>⭐ 528 · Python</sub>
+- [RaymondWang987/NVDS](https://github.com/RaymondWang987/NVDS) - ICCV 2023 "Neural Video Depth Stabilizer" (NVDS) & TPAMI 2024 "NVDS+: Em direção a um eficiente e versátil estabilizador neural para estimativa de profundidade de vídeo" (NVDS+) <sub>⭐ 528 · Python</sub>
+- [Visionary-Laboratory/visionary](https://github.com/Visionary-Laboratory/visionary) - Visionário: O Transportador Mundial de Modelos Construído na Plataforma Gaussiana de Gaússinos Powered WebGPU <sub>⭐ 526 · Python</sub>
+- [zju3dv/animatable_nerf](https://github.com/zju3dv/animatable_nerf) - Código para "Representações neurais implícitas para criar Avatares Realistas de Vídeos" TPAMI 2024, ICCV 2021 <sub>⭐ 525 · Python</sub>
+- [Zielon/INSTA](https://github.com/Zielon/INSTA) - INSTA - Avatares de cabeça volumétrica instantânea (CVPR2023) <sub>⭐ 520 · C++</sub>
+- [Zhefan-Xu/LV-DOT](https://github.com/Zhefan-Xu/LV-DOT) - LV-DOT: Detecção e Rastreamento de Obstáculos Dinâmicos LiDAR-Visual (C++/Python/ROS) <sub>⭐ 508 · C++</sub>
+- [EricLee0224/awesome-nerf-editing](https://github.com/EricLee0224/awesome-nerf-editing) - Uma lista de papéis curados para você mergulhar na Edição 3D baseada em Radiance. <sub>⭐ 506</sub>
+- [MrTornado24/Next3D](https://github.com/MrTornado24/Next3D) - Rasterização da textura neural para Avatares Chefes de 3D <sub>⭐ 504 · Python</sub>
+- [synthesiaresearch/humanrf](https://github.com/synthesiaresearch/humanrf) - Código oficial para "HumanRF: Campos de Radiância Neural de Alta Fidelidade para Humanos em Movimento" <sub>⭐ 497 · Python</sub>
+- [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - Código para "HumanGaussian: Geração Humana 3D Dirigida por Texto com Esplanada Gaussiana" <sub>⭐ 494 · Python</sub>
+- [D-Robotics-AI-Lab/XLens](https://github.com/D-Robotics-AI-Lab/XLens) - Estimação de profundidade métrica em tempo real com câmeras heterogêneas <sub>⭐ 490 · Python</sub>
+- [GAP-LAB-CUHK-SZ/MVImgNet](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) - CVPR2023 / MVImgNet: Um conjunto de dados em grande escala de imagens multi-view <sub>⭐ 489</sub>
+- [JiawangBian/sc_depth_pl](https://github.com/JiawangBian/sc_depth_pl) - SC-Depth (V1, V2 e V3) para estimativa de profundidade monocular sem percepção Página web //jiawangbian.github.io/sc_profundidade_pl <sub>⭐ 489 · Python</sub>
+- [apple-aiml-research/ml-facelit](https://github.com/apple-aiml-research/ml-facelit) - Repositório oficial do FaceLit: Neural 3D Relightable Faces <sub>⭐ 481 · Python</sub>
+- [MrTornado24/IDE-3D](https://github.com/MrTornado24/IDE-3D) - Edição Interativa Desembaraçada para a Síntese Retrato de Alta Resolução 3D <sub>⭐ 481 · Jupyter Notebook</sub>
+- [POSTECH-CVLab/SCNeRF](https://github.com/POSTECH-CVLab/SCNeRF) - (ICCV21) Auto-Calibrando Campos de Radiância Neural <sub>⭐ 470 · Python</sub>
+- [hugoycj/Instant-angelo](https://github.com/hugoycj/Instant-angelo) - Construir Gêmeo Digital de Alta Fidelidade em 20 minutos! <sub>⭐ 464 · Python</sub>
+- [Harry-Zhi/semantic_nerf](https://github.com/Harry-Zhi/semantic_nerf) - A implementação de "Etiquetagem e Entendimento na Cena In-Place" (ICCV 2021). <sub>⭐ 462 · Python</sub>
+- [jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI](https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI) - uma aplicação GUI, que usa YOLOS (YOLOV8, YOLO11, YOLOv13) para detecção de objetos/rastreamento, estimativa de pose humana/rastreamento de imagens, vídeos ou câmera <sub>⭐ 461 · Python</sub>
+- [graphdeco-inria/nerfshop](https://github.com/graphdeco-inria/nerfshop) - Edição Interativa de Campos de Radiância Neural <sub>⭐ 458 · Cuda</sub>
+- [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - "Tri-MipRF" representação para campos de radiação neuronais eficientes e anti-aliasing <sub>⭐ 457 · Python</sub>
+- [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023, implementação de "READ: Large-Scale Neural Scene Rendering for Autônoma Driving", os resultados experimentais são significativamente melhores do que os métodos baseados em Nerf. <sub>⭐ 449 · Python</sub>
+- [RaduAlexandru/permuto_sdf](https://github.com/RaduAlexandru/permuto_sdf) - Código para nosso papel CVPR'23 - "PermutoSDF: Reconstrução Multi-Visão Rápida com Superfícies Implícitas usando Latticas Permutohidrais" <sub>⭐ 449 · Python</sub>
+- [CrisHY1995/headnerf](https://github.com/CrisHY1995/headnerf) - Este repositório contém uma implementação de "HeadNeRF: A Real-time NeRF-based Parametric Head Model (CVPR 2022)". <sub>⭐ 448 · Python</sub>
+- [Lakonik/SSDNeRF](https://github.com/Lakonik/SSDNeRF) - (ICCV 2023) Difusão de estágio único NeRF <sub>⭐ 446 · Python</sub>
+- [niconielsen32/YOLO-3D](https://github.com/niconielsen32/YOLO-3D) - Detecção de objetos 3D usando YOLO e estimativa de profundidade <sub>⭐ 441 · Python</sub>
+- [sxyu/plenoctree](https://github.com/sxyu/plenoctree) - Treino e Conversão de NeRF-SH <sub>⭐ 440 · Python</sub>
+- [weiyithu/NerfingMVS](https://github.com/weiyithu/NerfingMVS) - Otimização Guiada de Campos de Radiância Neurais para Estéreo de Multi-Visões Interior <sub>⭐ 436 · Python</sub>
+- [kijai/ComfyUI-DepthAnythingV2](https://github.com/kijai/ComfyUI-DepthAnythingV2) - Nó de inferência V2 para estimativa da profundidade monocular. <sub>⭐ 435 · Python</sub>
+- [carlinds/splatad](https://github.com/carlinds/splatad) - Lidar em tempo real e câmera rendendo com 3D Gaussian Splatting para condução autônoma <sub>⭐ 427 · Cuda</sub>
+- [kwea123/pytorch-cppcuda-tutorial](https://github.com/kwea123/pytorch-cppcuda-tutorial) - Tutorial para escrever o kernel personalizado do pytorch cpp+cuda, aplicado em renderização de volume (NeRF) <sub>⭐ 423 · Cuda</sub>
+- [heshuting555/Awesome-3DGS-Applications](https://github.com/heshuting555/Awesome-3DGS-Applications) - Uma pesquisa sobre aplicações Gaussianas 3D: Segmentação, Edição e Geração <sub>⭐ 421</sub>
+- [vincentfung13/MINE](https://github.com/vincentfung13/MINE) - Código e modelos para o nosso papel ICCV 2021 "MIM: Rumo à Profundidade Contínua do IPM com NeRF para Síntese de Visão Novel" <sub>⭐ 421 · Python</sub>
+- [liuyuan-pal/NeuRay](https://github.com/liuyuan-pal/NeuRay) - Raios neurais para renderização baseada em imagens conscientes da oclusão <sub>⭐ 419 · Python</sub>
+- [VDIGPKU/DrivingGaussian](https://github.com/VDIGPKU/DrivingGaussian) - Condução Gaussian Composite Gaussian Splatting para cercar cenas de condução autônoma dinâmicas <sub>⭐ 417</sub>
+- [terryky/tfjs_webgl_app](https://github.com/terryky/tfjs_webgl_app) - Em tempo real, tensorFlow.js + WebGL, aplicativos de visualização 3D Hand pose estimation, 3D Human poses estimation, Face swap, Profundidade estimation, Detecção facial de maior precisão. <sub>⭐ 415 · JavaScript</sub>
+- [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - Transformador de ponto para Robust 3D Gaussian Splatting <sub>⭐ 413 · Python</sub>
+- [apple-aiml-research/ml-hugs](https://github.com/apple-aiml-research/ml-hugs) - Repositório oficial de HUGS: Human Gaussian Splats <sub>⭐ 412 · Python</sub>
+- [iwatake2222/self-driving-ish_computer_vision_system](https://github.com/iwatake2222/self-driving-ish_computer_vision_system) - Este projeto gera imagens que você provavelmente viu em demonstração de condução autônoma. <sub>⭐ 410 · C++</sub>
+- [nianticlabs/stereo-from-mono](https://github.com/nianticlabs/stereo-from-mono) - (ECCV 2020) Aprendendo estéreo de imagens simples usando redes de estimativa de profundidade monocular <sub>⭐ 408 · Python</sub>
+- [ActiveVisionLab/nope-nerf](https://github.com/ActiveVisionLab/nope-nerf) - Otimizando o campo de radiação neural sem pose prévia. <sub>⭐ 407 · Python</sub>
+- [julienkay/MobileNeRF-Unity-Viewer](https://github.com/julienkay/MobileNeRF-Unity-Viewer) - Um porto não oficial da Unidade do Telespectador MobileNeRF. <sub>⭐ 406 · C#</sub>
+- [KeKsBoTer/c3dgs](https://github.com/KeKsBoTer/c3dgs) - Splatting Gaussiano 3D comprimido para síntese acelerada de visão novel <sub>⭐ 404 · Python</sub>
+- [barbararoessle/dense_depth_priors_nerf](https://github.com/barbararoessle/dense_depth_priors_nerf) - Priors de Densa Profundidade para Campos de Radiância Neural de Vistas de Entrada Esparse <sub>⭐ 403 · Python</sub>
+- [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Pintores Gaussianos usando Splatting Gaussiano 3D. <sub>⭐ 401 · Python</sub>
+- [mks0601/V2V-PoseNet_RELEASE](https://github.com/mks0601/V2V-PoseNet_RELEASE) - Implementação oficial da "V2V-PoseNet: Rede de Previsão Voxel-a-Voxel para Mão 3D e Estimação Humana de Poses" CVPR 2018 <sub>⭐ 391 · MATLAB</sub>
+- [Zarxrax/Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2) - Uma GUI para mascaramento/rotoscoping de vídeo usando modelos de IA <sub>⭐ 391 · Python</sub>
+- [zju3dv/NeuMesh](https://github.com/zju3dv/NeuMesh) - Código para "MeuMesh: Aprendendo o Campo Implícito de Mesh Neural Desembaraçado para Geometria e Edição de Textura", ECCV 2022 <sub>⭐ 391 · Python</sub>
+- [caiyuanhao1998/HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) - "HDR-GS: síntese eficiente de novela dinâmica em 1000x de velocidade via Gaussian Splatting" (Neurips 2024) <sub>⭐ 385 · Python</sub>
+- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Implementação oficial do artigo Arxiv 4K-NeRF: Campos de Radiância Neural de Alta Fidelidade em Ultra High Resolutions <sub>⭐ 385 · Python</sub>
+- [JunjH/Revisiting_Single_Depth_Estimation](https://github.com/JunjH/Revisiting_Single_Depth_Estimation) - Implementação oficial de "Revisitando a Profundidade da Imagem Única Estimação em direção a Mapas de Resolução Superior com Limites de Objeto Precisos" <sub>⭐ 384 · Python</sub>
+- [ShenhanQian/VHAP](https://github.com/ShenhanQian/VHAP) - Um pipeline completo de rastreamento de vídeos para conjuntos de dados prontos para NeRF/3DGS. <sub>⭐ 382 · Python</sub>
+- [astra-vision/SceneRF](https://github.com/astra-vision/SceneRF) - (ICCV 2023) Implementação oficial de "SceneRF: Reconstrução Monocular 3D Auto-Supervisionada com Campos de Radiância" <sub>⭐ 381 · Python</sub>
+- [clarte53/GaussianSplattingVRViewerUnity](https://github.com/clarte53/GaussianSplattingVRViewerUnity) - Um visualizador de RV para modelos gaussianos desenvolvidos como plugin nativo para unidade com o rasterizador CUDA original. <sub>⭐ 379 · C++</sub>
+- [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) - Rastreador multiobjeto em tempo real usando variáveis YOLO <sub>⭐ 376 · Python</sub>
+- [corfyi/UCMCTrack](https://github.com/corfyi/UCMCTrack) - Multi-Object Rastreamento com Compensação de Movimento da Câmera Uniforme UCMCTrack alcança SOTA no MOT17 usando parâmetros estimados da câmera. <sub>⭐ 376 · Python</sub>
+- [Linyou/taichi-ngp-renderer](https://github.com/Linyou/taichi-ngp-renderer) - Um renderizador Instants-NGP que foi implementado usando Taichi <sub>⭐ 373 · Python</sub>
+- [kxhit/vMAP](https://github.com/kxhit/vMAP) - Mapeamento de objetos vetoriais para Campo Neural SLAM <sub>⭐ 372 · Python</sub>
+- [nerfbaselines/nerfbaselines](https://github.com/nerfbaselines/nerfbaselines) - Avaliação reprodutível dos métodos NeRF e 3DGS <sub>⭐ 372 · Python</sub>
+- [Insta360-Research-Team/DAP](https://github.com/Insta360-Research-Team/DAP) - Implementação oficial de "Depth Any Panoramas: Um Modelo da Fundação para Estimação de Profundidade Panorâmica". <sub>⭐ 371 · Jupyter Notebook</sub>
+- [WangFeng18/3d-gaussian-splatting](https://github.com/WangFeng18/3d-gaussian-splatting) - Implementação para 3d gaussian splatting <sub>⭐ 370 · Python</sub>
+- [qway/nerfmeshes](https://github.com/qway/nerfmeshes) - Um oleoduto para reconstruir malhas 3d baseadas em campos de radiação neural. <sub>⭐ 366 · Python</sub>
+- [laanlabs/metal-splats](https://github.com/laanlabs/metal-splats) - Brinquedos iOS + Metal AR Gaussian Splat Renderer <sub>⭐ 362 · Swift</sub>
+- [gautam678/Pix2Depth](https://github.com/gautam678/Pix2Depth) - Estimação do mapa de profundidade das imagens monoculares <sub>⭐ 361 · Python</sub>
+- [fabiotosi92/NeRF-Supervised-Deep-Stereo](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo) - Um novo paradigma para coletar e gerar dados de treinamento usando renderização neural. <sub>⭐ 360 · Python</sub>
+- [yuliangguo/depth_any_camera](https://github.com/yuliangguo/depth_any_camera) - Profundidade de qualquer câmera, estimativa de profundidade métrica zero-shot de qualquer câmera <sub>⭐ 359 · Python</sub>
+- [Huangying-Zhan/Depth-VO-Feat](https://github.com/Huangying-Zhan/Depth-VO-Feat) - Não Perspicaz Aprender sobre Estimação de Profundidade Monocular e Odometria Visual com Reconstrução de Recursos Profundo <sub>⭐ 358 · Python</sub>
+- [longxiang-ai/awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) - Este repositório rastreia os últimos avanços em 3D Gaussian Splatting da Arxiv, com atualizações automatizadas diárias. <sub>⭐ 358 · Python</sub>
+- [EnVision-Research/DVD](https://github.com/EnVision-Research/DVD) - Estimação de Profundidade de Vídeo Determinada com Prelados Generativos <sub>⭐ 354 · Python</sub>
+- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC) - Uma lista de documentos e recursos abertos focados na AIGC 3D. <sub>⭐ 352</sub>
+- [hustvl/TiNeuVox](https://github.com/hustvl/TiNeuVox) - Campos de Radiância Dinâmica Rápida com Voxels Neurais Com Tempo-Aware (SIGGRAPH Asia 2022) <sub>⭐ 351 · Python</sub>
+- [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - (ICLR 2023) "É Atenção Todas as Necessidades NeRF?" por Mukund Varma T*, Peihao Wang*, Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang <sub>⭐ 348 · Python</sub>
+- [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - A implementação oficial de "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation" (CVPR 2025) <sub>⭐ 340 · Python</sub>
+- [YihangChen-ee/HAC](https://github.com/YihangChen-ee/HAC) - (ECCV 2024) Implementação de Pitorque de 'HAC: Hash-grid Assisted Context para 3D Gaussian Splatting Compressão' <sub>⭐ 337 · Python</sub>
+- [caiyuanhao1998/X-Gaussian](https://github.com/caiyuanhao1998/X-Gaussian) - "Radiativo Gaussian Splatting para eficiente síntese de visão novel raio-X" (ECCV 2024) <sub>⭐ 335 · Python</sub>
+- [meyerls/FruitNeRF](https://github.com/meyerls/FruitNeRF) - Código Offical para "FruitNeRF, um campo de radiação neural unificado baseado em Fruit Counting Framework" - Inegado em Nerfstudio <sub>⭐ 335 · Python</sub>
+- [tjqansthd/LapDepth-release](https://github.com/tjqansthd/LapDepth-release) - Estimação de profundidade monocular usando resíduos de profundidade baseados em pirâmides laplacianas <sub>⭐ 335 · Jupyter Notebook</sub>
+- [haofengac/MonoDepth-FPN-PyTorch](https://github.com/haofengac/MonoDepth-FPN-PyTorch) - Estimação de profundidade de imagem única com rede Pyramid Característica <sub>⭐ 332 · Jupyter Notebook</sub>
+- [VITA-Group/SinNeRF](https://github.com/VITA-Group/SinNeRF) - (ECCV 2022) "SinNeRF: treinamento de campos de radiação neural em cenas complexas de uma única imagem", Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Humphrey Shi, Zhangyang Wang <sub>⭐ 329 · Python</sub>
+- [fabiotosi92/ZipDepth](https://github.com/fabiotosi92/ZipDepth) - Uma compacta rede de 6,1m-parâmetros para estimar a profundidade monocular de tiro zero. <sub>⭐ 327 · Python</sub>
+- [junhong-3dv/s2m2](https://github.com/junhong-3dv/s2m2) - Implementação oficial do modelo de correspondência estéreo escalável para estimativa confiável da profundidade, ICCV 2025. <sub>⭐ 325 · Python</sub>
+- [mli0603/BlenderNeuralangelo](https://github.com/mli0603/BlenderNeuralangelo) - Blender addon para inspecionar e pré-processar dados do COLMAP para Neuralangelo (CVPR 2023) <sub>⭐ 325 · Python</sub>
+- [sled-group/chat-with-nerf](https://github.com/sled-group/chat-with-nerf) - Conversar com NeRF permite que os usuários interajam com um modelo NeRF digitando em linguagem natural. <sub>⭐ 323 · Python</sub>
+- [skhu101/SHERF](https://github.com/skhu101/SHERF) - Código para o nosso papel ICCV'2023 "SHERF: Generalizável NeRF Humano de uma única imagem" <sub>⭐ 322 · Python</sub>
+- [ziplab/VolSplat](https://github.com/ziplab/VolSplat) - (ECCV 2026) VolSplat: Repensando a transmissão 3D Gaussian Splatting com previsão Voxel-Alinhado <sub>⭐ 322 · Python</sub>
+- [tumourlove/monolith](https://github.com/tumourlove/monolith) - Plug-in MCP para Unreal Engine 5.7 & 5.8 — dá aos assistentes de IA acesso total de leitura/escrita a Blueprints, Materiais, Niágara, Animação, Mesh, AI, GAS, Driver Lógico, ComboGraph, UI, Áudio… <sub>⭐ 321 · C++</sub>
+- [HKUST-Aerial-Robotics/MVDepthNet](https://github.com/HKUST-Aerial-Robotics/MVDepthNet) - Este repositório fornece a implementação PyTorch para o papel 3DV 2018 "MVDepthNet: rede neural de estimativa de profundidade em tempo real" <sub>⭐ 319 · Python</sub>
+- [VITA-Group/NeuralLift-360](https://github.com/VITA-Group/NeuralLift-360) - (CVPR 2023, Destaque) "NeuralLift-360: Levantando uma foto 2D no meio da selva para um objeto 3D com 360° de vista", Dejia Xu, Yifan Jiang, Peihao Wang, Fã Zhiwen, Yi Wang, Zhangyang Wang <sub>⭐ 318 · Python</sub>
+- [uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp) - Apresentamos o primeiro pacote de unidade VR NERF em código aberto que traz alta resolução, baixa latência, renderização 6-DOF NERF para VR. <sub>⭐ 313 · C</sub>
+- [zju3dv/object_nerf](https://github.com/zju3dv/object_nerf) - Código para "Aprendendo Campo de Radiância Neural Objeto-Composicional para Renderização Editável de Cenas", ICCV 2021 <sub>⭐ 312 · Python</sub>
+- [zju3dv/habitat-gs](https://github.com/zju3dv/habitat-gs) - (ECCV 2026) Habitat-GS: um simulador de navegação de alta fidelidade com espaçamento gaussiano dinâmico <sub>⭐ 309 · C++</sub>
+- [VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D) - Em direção a Geração de Cenas Complexos Text-to-3D através do Layout guiado Generative Gaussian Splatting <sub>⭐ 307 · HTML</sub>
+- [dontLoveBugs/DORN_pytorch](https://github.com/dontLoveBugs/DORN_pytorch) - Implementação da Rede de Regressão Ordinal Profunda para Estimação Monocular de Profundidade <sub>⭐ 305 · Python</sub>
+- [KeKsBoTer/web-splat](https://github.com/KeKsBoTer/web-splat) - 3D Gaussian Splatting Renderer implementado em WebGPU (WGPU) e Rust <sub>⭐ 304 · Rust</sub>
+- [nianticlabs/diffusionerf](https://github.com/nianticlabs/diffusionerf) - Regularizando os campos de radiação neural com modelos de difusão denoizantes <sub>⭐ 304 · Python</sub>
+- [vlongle/pixie](https://github.com/vlongle/pixie) - Modelo para previsão de física 3D com 3DGS + NeRF <sub>⭐ 304 · Jupyter Notebook</sub>
+- [xuan-li/PAC-NeRF](https://github.com/xuan-li/PAC-NeRF) - Campo de Radiância Neural para Identificação do Sistema Geométrico-Agnóstico <sub>⭐ 304 · Python</sub>
+- [DarlingHang/st-nerf](https://github.com/DarlingHang/st-nerf) - Implementações de PyTorch para o nosso documento SIGGRAPH 2021, vídeo editável de ponto de visão livre usando uma representação neural em camadas. <sub>⭐ 302 · Python</sub>
+- [google-research/sparf](https://github.com/google-research/sparf) - Este é o código oficial para SPARF: Campo de Radiância Neural de Sparse e Noisy Poses (CVPR 2023- Highlight) <sub>⭐ 300 · Python</sub>
+- [NVlabs/neuralrgbd](https://github.com/NVlabs/neuralrgbd) - Neural RGB→D Sensing: profundidade per-pixel e sua estimativa de incerteza a partir de um vídeo monocular RGB <sub>⭐ 299 · Python</sub>
+- [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Playground para criar Gaussian Splats usando o modelo SHARP da Apple. <sub>⭐ 297 · TypeScript</sub>
+- [worldbench/RoboDepth](https://github.com/worldbench/RoboDepth) - Estimação de Profundidade Fora de Distribuição sob Corrupção <sub>⭐ 297 · Python</sub>
+- [jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf) - Implementação oficial para o papel Tetra-NeRF, NeRF representado como triangulação da nuvem de ponto de entrada. <sub>⭐ 295 · Python</sub>
+- [weiyithu/SurroundDepth](https://github.com/weiyithu/SurroundDepth) - Entangling Surround Views for Self-Supervisioned Multi-Camera Propth Estimation <sub>⭐ 293 · Python</sub>
+- [SysCV/idisc](https://github.com/SysCV/idisc) - Discretização Interna para Estimação de Profundidade Monocular (CVPR 2023) <sub>⭐ 292 · Python</sub>
+- [weiqi-zhang/DiffGS](https://github.com/weiqi-zhang/DiffGS) - DiffGS funcional Gaussian Splatting Difffusion <sub>⭐ 292 · C++</sub>
+- [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF) - Segmento, qualquer coisa interativa no NeRF. <sub>⭐ 287 · Python</sub>
+- [guoriyue/3dgs-warp-scratch](https://github.com/guoriyue/3dgs-warp-scratch) - Construa um Gaussian 3D Splatting do zero com NVIDIA Warp em Python - compatível com CPU/GPU, com um design limpo e minimalista focado em aprender gráficos modernos. <sub>⭐ 286 · Python</sub>
+- [xxlong0/NeuralUDF](https://github.com/xxlong0/NeuralUDF) - Reconstrução de superfície baseada em volume usando Campos de Distância Sem Sinal <sub>⭐ 286 · Python</sub>
+- [molyswu/hand_detection](https://github.com/molyswu/hand_detection) - Este acordo documenta passos e scripts usados para treinar um detector de mãos usando a API de detecção de objetos, como em qualquer tarefa baseada na DNN, o mais caro... <sub>⭐ 282 · Python</sub>
+- [sxyu/nerfvis](https://github.com/sxyu/nerfvis) - Biblioteca de visualização NeRF em construção <sub>⭐ 282 · HTML</sub>
+- [ventusff/improved-nerfmm](https://github.com/ventusff/improved-nerfmm) - Campo de Radiância Neural sem parâmetros conhecidos da câmera <sub>⭐ 282 · Python</sub>
+- [hjxwhy/mipnerf_pl](https://github.com/hjxwhy/mipnerf_pl) - Implemento não oficial de iluminação da Mip-NeRF. <sub>⭐ 281 · Python</sub>
+- [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Localização de Monte Carlo usando campos de radiação neural <sub>⭐ 281 · Python</sub>
+- [FrozenBurning/Relighting4D](https://github.com/FrozenBurning/Relighting4D) - "Neural Relightable Human" de Vídeos <sub>⭐ 280 · Python</sub>
+- [pansanity666/Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) - Lista de recentes avanços para avatares humanos, incluindo geração, reconstrução, edição, etc. <sub>⭐ 277</sub>
+- [WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians) - Treine uma cena de imagens embaçadas do mundo real em minutos! <sub>⭐ 277 · Python</sub>
+- [mlslabs/MLSLabsGaussianSplattingRenderer-UE](https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE) - Um plugin de alto desempenho Unreal Engine 5 (UE5) desenvolvido pelo Laboratório de Áudio e Vídeo MaLanShan, projetado para visualização em tempo real, gerenciamento e renderização escalável do… <sub>⭐ 274 · C++</sub>
+- [Brummi/BehindTheScenes](https://github.com/Brummi/BehindTheScenes) - Implementação oficial do artigo Atrás das Cenas Campos de Densidade para Reconstrução de Vista Única (CVPR 2023) <sub>⭐ 273 · Python</sub>
+- [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - (ECCV2024) (3DV Nectar 2025) FlashSplat: 2D a 3D Gaussian Splatting Segmentação Resolvido Optimalmente <sub>⭐ 272 · Jupyter Notebook</sub>
+- [itsprakhar/Downstream-Dinov2](https://github.com/itsprakhar/Downstream-Dinov2) - Downstream-Dino-V2: Um repositório GitHub com uma implementação fácil de usar do modelo DINOv2 pelo Facebook para tarefas a jusante, como Classificação, Segmentação Semântica e Profundidade… <sub>⭐ 272 · Jupyter Notebook</sub>
+- [yiqun-wang/PET-NeuS](https://github.com/yiqun-wang/PET-NeuS) - Triplanos de Codificação Posicional para Superfícies Neurais (CVPR 2023) <sub>⭐ 272 · Python</sub>
+- [m-schuetz/Splatshop](https://github.com/m-schuetz/Splatshop) - Edite modelos gaussianos. <sub>⭐ 271 · C++</sub>
+- [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD) - Uma pesquisa abrangente sobre modelos de fundação de visão para condução autônoma, incluindo desafios, metodologias e oportunidades. <sub>⭐ 271</sub>
+- [samihormi/Multi-Camera-Person-Tracking-and-Re-Identification](https://github.com/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification) - Modelo simples para rastrear e identificar indivíduos em diferentes câmeras/vídeos. <sub>⭐ 269 · Python</sub>
+- [codestella/putting-nerf-on-a-diet](https://github.com/codestella/putting-nerf-on-a-diet) - Colocando o NeRF em uma dieta, Semantialmente Consistente. <sub>⭐ 266 · Python</sub>
+- [Junda24/MonSter-plusplus](https://github.com/Junda24/MonSter-plusplus) - MonSter++: Um modelo de fundação geométrica unificada para estimação da profundidade estéreo e multi-visualização através da liberação dos priores monoprofundidade <sub>⭐ 266 · Python</sub>
+- [cassiePython/CLIPNeRF](https://github.com/cassiePython/CLIPNeRF) - Manipulação por texto e imagem de campos de radiação neural <sub>⭐ 263 · Python</sub>
+- [AIVFI/Video-Depth-Estimation-Rankings-and-Stereo-Video-Conversion-Rankings](https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-Stereo-Video-Conversion-Rankings) - Pesquisadores, estamos ansiosos para modelos baseados em MiniMax H3. ChronoDepth Pro Pro Pro Pro Pro Pro DepthCrafter DreamStereo DVD Elastic3D Eye2Eye FFN GemDepth GRT HairGuard InfiniDepth... <sub>⭐ 262</sub>
+- [med-air/EndoNeRF](https://github.com/med-air/EndoNeRF) - Renderização neural para reconstrução 3D de tecidos deformáveis em cirurgia robótica. <sub>⭐ 262 · Python</sub>
+- [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - Modelo de última geração para identificação em multi-câmeras Multi-Target Tracking. <sub>⭐ 261 · Python</sub>
+- [tobias-kirschstein/nersemble](https://github.com/tobias-kirschstein/nersemble) - Campo de Radiância Neural Reconstrução de Cabeças Humanas <sub>⭐ 259 · Python</sub>
+- [nerficg-project/faster-gaussian-splatting](https://github.com/nerficg-project/faster-gaussian-splatting) - Uma eficiente e amigável estrutura Gaussian Splatting descrita no CVPR'26 papel "Faster-GS: Analisando e melhorando Gaussian Splating Optimization" <sub>⭐ 254 · Cuda</sub>
+- [lhoyer/improving_segmentation_with_selfsupervised_depth](https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth) - (CVPR21) Implementação do nosso trabalho "Três maneiras de melhorar a segmentação semântica com auto-supervisionado estimativa da profundidade" <sub>⭐ 253 · Python</sub>
+- [vLAR-group/DM-NeRF](https://github.com/vLAR-group/DM-NeRF) - DM-NeRF em PyTorch (ICLR 2023) <sub>⭐ 253 · Python</sub>
+- [rover-xingyu/L2G-NeRF](https://github.com/rover-xingyu/L2G-NeRF) - Registro local para global de campos de radiação neuronais ajustados <sub>⭐ 252 · Python</sub>
+- [r00tman/NeRF-OSR](https://github.com/r00tman/NeRF-OSR) - NeRF para Relighting de Cena ao Ar Livre (ECCV 2022) <sub>⭐ 249 · Python</sub>
+- [w-m/3dgs-compression-survey](https://github.com/w-m/3dgs-compression-survey) - Uma pesquisa aberta sobre os métodos de compressão 3D Gaussian Splatting <sub>⭐ 248 · JavaScript</sub>
+- [airalcorn2/pytorch-nerf](https://github.com/airalcorn2/pytorch-nerf) - Implementação mínima de PyTorch do NeRF e pixelNeRF. <sub>⭐ 247 · Python</sub>
+- [zubair-irshad/NeO-360](https://github.com/zubair-irshad/NeO-360) - Código de Pytorch para o papel ICCV'23. <sub>⭐ 246 · Python</sub>
+- [PRBonn/PINGS](https://github.com/PRBonn/PINGS) - O Splatting Gaussiano encontra campos de distância dentro de um mapa neurais implícito com base em pontos (RSS 25) <sub>⭐ 244 · Python</sub>
+- [wentaoL86/Awesome-Human-Video-Generation](https://github.com/wentaoL86/Awesome-Human-Video-Generation) - Este repositório foca em meio corpo, método de geração de vídeo humano, o Nerf, a gaussiana salpicando, a Motion Pose e a cabeça falante/retrato não é... <sub>⭐ 244</sub>
+- [AMAP-ML/FE2E](https://github.com/AMAP-ML/FE2E) - (CVPR 2026) Além da Geração: Avançar na Edição de Imagens Priores para Profundidade e Estimação Normal <sub>⭐ 243 · Python</sub>
+- [jkulhanek/viewformer](https://github.com/jkulhanek/viewformer) - Ver Antigo: NeRF-free Neural Rendering de Poucas Imagens Usando Transformadores <sub>⭐ 242 · Python</sub>
+- [prstrive/UniMVSNet](https://github.com/prstrive/UniMVSNet) - Repensando estimativas de profundidade para o estéreo multi-visual <sub>⭐ 241 · Python</sub>
+- [xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) - Uma lista de recursos sobre representações neurais implícitas em imagens médicas. <sub>⭐ 241</sub>
+- [Madaoer/S3IM-Neural-Fields](https://github.com/Madaoer/S3IM-Neural-Fields) - (ICCV 2023) Implementação de Pytorch de "S3IM: Similaridade estrutural estocástica e sua eficácia irracional para campos neurais". <sub>⭐ 240 · Python</sub>
+- [ajhamdi/ges-splatting](https://github.com/ajhamdi/ges-splatting) - Implementação de referência original do "GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering" (CVPR 2024) <sub>⭐ 238 · Python</sub>
+- [baegwangbin/MaGNet](https://github.com/baegwangbin/MaGNet) - Probabilidade de profundidade por fusão com a Geometria Multi-View <sub>⭐ 237 · Python</sub>
+- [kiyoakii/is-gpt-nerfed](https://github.com/kiyoakii/is-gpt-nerfed) - Detector de encolher para o Codex. <sub>⭐ 237 · Python</sub>
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - Uma estrutura geral para detecção de objetos em NeRFs. <sub>⭐ 235 · Python</sub>
+- [fanegg/Feat2GS](https://github.com/fanegg/Feat2GS) - Modelos de Fundação Visual Sondagem com Esplanada Gaussiana <sub>⭐ 234 · Python</sub>
+- [PolyCam/polyform](https://github.com/PolyCam/polyform) - Ferramentas para trabalhar com dados da Polycam, incluindo exportação para o NeRF e outros formatos. <sub>⭐ 234 · Python</sub>
+- [PRiME-project/PRiMEStereoMatch](https://github.com/PRiME-project/PRiMEStereoMatch) - Algoritmo de correspondência estéreo heterogêneo e totalmente paralelo para estimativa de profundidade, implementando uma etapa de agregação de custos do ADSW (Suporte Adaptativo Local) Guiado ao… <sub>⭐ 234 · C++</sub>
+- [nianticlabs/wavelet-monodepth](https://github.com/nianticlabs/wavelet-monodepth) - (CVPR 2021) Estimativa de profundidade monocular usando wavelets para eficiência <sub>⭐ 233 · Jupyter Notebook</sub>
+- [DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D) - Esta é a implementação oficial do Tensor4D: eficiente decomposição neural 4D para reconstrução dinâmica de alta fidelidade e renderização. <sub>⭐ 232 · Python</sub>
+- [MatrixBrain/awesome-NeRF](https://github.com/MatrixBrain/awesome-NeRF) - Uma lista de incríveis campos de radiação neural (NeRF). <sub>⭐ 229</sub>
+- [yiqun-wang/HFS](https://github.com/yiqun-wang/HFS) - Reconstrução de superfície melhorada usando detalhes de alta frequência (Neurips 2022) <sub>⭐ 229 · Python</sub>
+- [cvg/YoNoSplat](https://github.com/cvg/YoNoSplat) - Você só precisa de um modelo para o ataque 3D Gaussian. <sub>⭐ 228 · Python</sub>
+- [alvinliu0/SSP-NeRF](https://github.com/alvinliu0/SSP-NeRF) - Código para "Geração de Retratos de Vídeo Semântico-Aware Implicável" <sub>⭐ 227 · Python</sub>
+- [quan-meng/gnerf](https://github.com/quan-meng/gnerf) - Nosso método pode estimar poses de câmera e campos de radiação neural juntos quando as câmeras são inicializadas em poses aleatórias em cenários complexos, mesmo com menos... <sub>⭐ 227 · Python</sub>
+- [fuxiao0719/PanopticNeRF](https://github.com/fuxiao0719/PanopticNeRF) - (TPAMI'25) PanopticNeRF-360 / (3DV'22) <sub>⭐ 225</sub>
+- [realsenseai/hand_tracking_samples](https://github.com/realsenseai/hand_tracking_samples) - Base de códigos de pesquisa para a estimativa da posição manual baseada em profundidade usando rastreamento baseado em dinâmica e CNNs <sub>⭐ 225 · C++</sub>
+- [kwea123/nsff_pl](https://github.com/kwea123/nsff_pl) - Campo de Fluxo de Cena Neural usando pitoresca, com potenciais melhorias. <sub>⭐ 224 · Jupyter Notebook</sub>
+- [H-EmbodVis/MERGE](https://github.com/H-EmbodVis/MERGE) - Mais do que Geração, unificando geração e estimativa de profundidade através de modelos de difusão texto-imagem. <sub>⭐ 222 · Python</sub>
+- [kwea123/nerf_Unity](https://github.com/kwea123/nerf_Unity) - Projeto de unidade para Nerf_pl (Campos de Radiância Neurais) <sub>⭐ 221 · C#</sub>
+- [Aradhye2002/EcoDepth](https://github.com/Aradhye2002/EcoDepth) - (CVPR'2024) Implementação oficial do artigo "EcoDepth: Condicionamento Eficaz de Modelos de Difusão para Estimação Monocular de Profundidade" <sub>⭐ 220 · Python</sub>
+- [yihua7/NeRF-Texture](https://github.com/yihua7/NeRF-Texture) - Código para NeRF-Textura: síntese de textura com campos de radiação neural <sub>⭐ 220 · C++</sub>
+- [xhuangcv/hdr-nerf](https://github.com/xhuangcv/hdr-nerf) - A implementação oficial do CVPR 2022 papel HDR-NeRF: Campo de Radiância Neural de Alta Distância Dinâmica <sub>⭐ 218 · Python</sub>
+- [javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge) - ROS transmitindo imagens e poses para Nerfstudio. <sub>⭐ 216 · Python</sub>
+- [Kunhao-Liu/StyleGaussian](https://github.com/Kunhao-Liu/StyleGaussian) - Transferência instantânea de estilo 3D com Gaussian Splatting <sub>⭐ 216 · Python</sub>
+- [ZhenglinZhou/HeadStudio](https://github.com/ZhenglinZhou/HeadStudio) - Texto para Avatares Animatáveis com Esboço Gaussiano 3D. <sub>⭐ 216 · Python</sub>
+- [ifnspaml/SGDepth](https://github.com/ifnspaml/SGDepth) - (ECCV 2020) Estimação de Profundidade Monocular Auto-Supervisionada: Resolvendo o Problema do Objeto Dinâmico por Orientação Semântica <sub>⭐ 215 · Python</sub>
+- [LetianHuang/op43dgs](https://github.com/LetianHuang/op43dgs) - (ECCV'24) Sobre a análise de erros de 3D Gaussian Splatting e uma estratégia de projeção ideal <sub>⭐ 215 · Cuda</sub>
+- [ueda0319/neddf](https://github.com/ueda0319/neddf) - (ECCV2022) Campos de Densidade Neural-Distância (NeDDF) <sub>⭐ 215 · Python</sub>
+- [WU-CVGL/MVControl](https://github.com/WU-CVGL/MVControl) - 3DV-2025) Implementação oficial de "Geração Controlável de Texto para 3D via Splatting Gaussiano Alinhado à Superfície" <sub>⭐ 215 · Python</sub>
+- [YihangChen-ee/HAC-plus](https://github.com/YihangChen-ee/HAC-plus) - Implementação de Pytorch em direção à compressão 100X de Splatting Gaussiano 3D <sub>⭐ 215 · Python</sub>
+- [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - Nós fornecemos uma fórmula unificada para campos neurais (Campos Fatores) e um novo dicionário de factorização (Campos Dicionários) <sub>⭐ 213 · Jupyter Notebook</sub>
+- [danderfer/Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) - De acordo com todas as leis da aviação, não há como uma abelha poder voar... suas asas são muito pequenas para tirar seu corpo gordo do chão... a abelha, é claro, voa de qualquer maneira. <sub>⭐ 213 · Python</sub>
+- [leaner-forever/SEGS-SLAM](https://github.com/leaner-forever/SEGS-SLAM) - Código oficial para ICCV 2025 "SEGS-SLAM: estrutura reforçada 3D Gaussian Splatting SLAM com aparência incorporada" <sub>⭐ 212 · C++</sub>
+- [choyingw/Awesome-Monocular-Depth](https://github.com/choyingw/Awesome-Monocular-Depth) - Uma lista com curadoria de recentes trabalhos de estimativa de profundidade monocular. <sub>⭐ 211</sub>
+- [MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF) - Códigos para o Switch-NeRF (ICLR 2023) <sub>⭐ 211 · Python</sub>
+- [wangqiannudt/nerf-arxiv-daily](https://github.com/wangqiannudt/nerf-arxiv-daily) - Atualização diária de papel releado por NeRF em Arxiv <sub>⭐ 211 · Python</sub>
+- [zrporz/4DLangSplat](https://github.com/zrporz/4DLangSplat) - Implementação oficial de "4D LangSplat: 4D Language Gaussian Splatting via Modelos Multimodal Large Language" (CVPR 2025) <sub>⭐ 210 · Python</sub>
+- [ankurhanda/nerf2D](https://github.com/ankurhanda/nerf2D) - Adicionar codificação posicional à entrada preserva bordas afiadas na imagem. <sub>⭐ 208 · Python</sub>
+- [hugoycj/NeuralBaker](https://github.com/hugoycj/NeuralBaker) - Uma implementação não oficial da BakedSDF <sub>⭐ 208 · Python</sub>
+- [hwjiang1510/MegaSynth](https://github.com/hwjiang1510/MegaSynth) - Código para MegaSynth: Reconstrução de Cenas 3D com dados sintetizados (CVPR 2025) <sub>⭐ 208 · Python</sub>
+- [yuehaowang/bilarf](https://github.com/yuehaowang/bilarf) - Lançamento de código para processamento de campo guiado bilateralmente. <sub>⭐ 208 · Python</sub>
+- [yxlao/camtools](https://github.com/yxlao/camtools) - CamTools: Ferramentas de Câmera para Visão Computadora <sub>⭐ 208 · Python</sub>
+- [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - Um depósito de papéis incríveis sobre multi alvo rastreamento de câmera multi <sub>⭐ 207</sub>
+- [skizzophrenic/SquachWatch-CYD](https://github.com/skizzophrenic/SquachWatch-CYD) - SquachWatch é um firmware para a tela amarela barata que gamifica detectar coisas como câmeras de Flock, rastreadores, Meta Glasses e muito mais! <sub>⭐ 207 · C++</sub>
+- [GSFix3D/GSFix3D](https://github.com/GSFix3D/GSFix3D) - GSFix3D: Reparo guiado pela difusão de novas vistas em Gaussian Splatting <sub>⭐ 206 · Python</sub>
+- [facebookresearch/EyefulTower](https://github.com/facebookresearch/EyefulTower) - Lançamento oficial do conjunto de dados da Torre Eyeful, uma captura multi-visão de alta fidelidade de 11 cenas do mundo real, do jornal "VR-NeRF Espaços Virtualizados Andantes de Alta Fidelidade"… <sub>⭐ 204 · Python</sub>
+- [nickponline/dd-nerf-dataset](https://github.com/nickponline/dd-nerf-dataset) - O conjunto de dados da visão do computador NerF <sub>⭐ 204 · Python</sub>
+- [cvg/EMAP](https://github.com/cvg/EMAP) - (CVPR'24) Reconstrução de bordas neurais 3D <sub>⭐ 203 · Python</sub>
+- [LemonATsu/A-NeRF](https://github.com/LemonATsu/A-NeRF) - Implementação de Pytorch para A-NeRF: Campos de Radiância Neurais Articulados para Aprender Forma, Aparência e Pose Humana <sub>⭐ 202 · Python</sub>
+- [WU-CVGL/BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF) - Campo de Radiância Neural Deblur Ajustado <sub>⭐ 201 · Python</sub>
+- [eliphatfs/zerorf](https://github.com/eliphatfs/zerorf) - Reconstrução de 360° com Zero Pré-treinamento <sub>⭐ 200 · Python</sub>
+- [cvg/nerf-on-the-go](https://github.com/cvg/nerf-on-the-go) - Explorando incerteza para NeRFs livres de distração na natureza <sub>⭐ 198 · Python</sub>
+- [AndriiShramko/4DGS-Video-Generator](https://github.com/AndriiShramko/4DGS-Video-Generator) - Aplicativo profissional de desktop para converter molduras de vídeo em sequências Gaussian 4D usando o modelo SHARP da Apple <sub>⭐ 197 · Python</sub>
+
+## 🗣️ Voz, dublagem e som
+
+> Clonagem de voz, dublagem, sincronia labial e desenho de som.
+
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min de dados de voz também pode ser usado para treinar um bom modelo TTS! <sub>⭐ 62.2k · Python</sub>
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone uma voz em 5 segundos para gerar discurso arbitrário em tempo real. <sub>⭐ 60.2k · Python</sub>
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - Clone, dita, cria. <sub>⭐ 56.2k · TypeScript</sub>
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio é a alternativa de código aberto, totalmente local OnzeLabs: clonagem de voz, design de voz, dublagem de vídeo, ditado, transcrição e criação de audiolivros em 646 idiomas. <sub>⭐ 51.9k · Python</sub>
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - Um kit de ferramentas para o Texto-para-Fala, testado em pesquisa e produção <sub>⭐ 46.1k · Python</sub>
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: TTS livre de tokenizer para geração multilingual de fala, design criativo de voz e clonagem verdadeira da vida <sub>⭐ 38.3k · Python</sub>
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Clonagem de voz instantânea pelo MIT e MyShell. <sub>⭐ 37.7k · Python</sub>
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - Clone uma voz em 5 segundos para gerar discurso arbitrário em tempo real. <sub>⭐ 36.9k · Python</sub>
+- [cjpais/Handy](https://github.com/cjpais/Handy) - Um aplicativo livre, de código aberto e extensível que funciona completamente offline. <sub>⭐ 32.7k · Rust</sub>
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) - Um sistema de controle do nível industrial e eficiente Zero-Shot. <sub>⭐ 24.3k · Python</sub>
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Gere audiolivros de e-books, clonagem de voz e 1158+ idiomas! <sub>⭐ 20.3k · Python</sub>
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - Uma estrutura de IA gerativa escalável construída para pesquisadores e desenvolvedores trabalhando em Modelos de Linguagem Grandes, Multimodal, e AI Fala (Automatic Speech Recognition and… <sub>⭐ 18.5k · Python</sub>
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Discurso-texto, texto-a-fala, diarização de alto-falantes, aprimoramento da fala, separação de fonte e DAV usando Kaldi próxima-gen com onnxruntime sem conexão à Internet. <sub>⭐ 15.1k · C++</sub>
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - Clonagem de voz de alta qualidade TTS para mais de 600 idiomas <sub>⭐ 14.1k · Python</sub>
+- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS é uma série de modelos TTS desenvolvido pela equipe Qwen na Alibaba Cloud, apoiando a geração estável, expressiva e em streaming de voz, design de voz livre e voz vívida... <sub>⭐ 13.6k · Python</sub>
+- [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Este repositório contém os códigos de "A Lip Sync Expert is All You Need for Speech to Lip Generation In the Wild", publicados na ACM Multimedia 2020. <sub>⭐ 13.2k · Python</sub>
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI para criadores e desenvolvedores, com TTS chave (Edge-TTS, kokoro) e zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), com processamento de áudio Whisper, download do YouTube, Demucs… <sub>⭐ 13.0k · Python</sub>
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Kit de ferramentas de fala fácil de usar, incluindo modelo de aprendizagem auto-supervisionado, SOTA/Streaming ASR com pontuação, transmissão TTS com frontend de texto, sistema de verificação do… <sub>⭐ 12.7k · Python</sub>
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Cria vídeos, imagens, voz, avatares, tradução de vídeo e edições com agentes em um só lugar. <sub>⭐ 12.6k · TypeScript</sub>
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use o serviço de texto on-line do Microsoft Edge para falar em Python sem precisar da Microsoft Edge ou Windows ou uma chave API <sub>⭐ 12.1k · Python</sub>
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fala de baixa latência para texto, reconhecimento de intenção e texto para fala, para construir agentes de voz e interfaces. <sub>⭐ 11.2k · C++</sub>
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Em tempo real, fala local com texto em streaming ASR, diarização de alto-falantes, tradução e APIs compatíveis com OpenAI/Deepgram. <sub>⭐ 11.1k · Python</sub>
+- [mozilla/TTS](https://github.com/mozilla/TTS) - Aprendizado profundo para o "Text to Speech" (Forum de Discussão: https://discourse.mozilla.org/c/tts) <sub>⭐ 10.2k · Jupyter Notebook</sub>
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Uma robusta, eficiente e de baixa latência biblioteca fala-texto com detecção avançada de atividade de voz, ativação da palavra despertar e transcrição instantânea. <sub>⭐ 10.2k · Python</sub>
+- [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Edição de Discurso Zero-Shot e Texto-para-Fala no Selvagem <sub>⭐ 8.6k · Jupyter Notebook</sub>
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - Uma biblioteca de texto-para-fala (TTS), discurso-para-texto (STT) e fala-para-fala (STS) construída no framework MLX da Apple, fornecendo uma análise eficiente do discurso na Apple Silicon. <sub>⭐ 8.0k · Python</sub>
+- [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - Autoencoder de Variação Condicional com Aprendizagem Adversária para Texto-a-Fala <sub>⭐ 7.9k · Python</sub>
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - Biblioteca multilingue de alta qualidade, texto para fala por MyShell.ai, apoio inglês, espanhol, francês, chinês, japonês e coreano. <sub>⭐ 7.7k · Python</sub>
+- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 é um modelo de texto a fala com peso aberto treinado em mais de 200k horas de variada fala multilíngue, proporcionando expressividade e qualidade ao mesmo tempo que o TTS... <sub>⭐ 7.2k · Python</sub>
+- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - Em direção a um nível humano de texto para falar através da Difusão de Estilo e Treinamento Adversário com Modelos de Fala Grandes <sub>⭐ 6.4k · Python</sub>
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Modelos Silero: modelos pré-treinados de texto para fala feitos embaraçosamente simples <sub>⭐ 6.1k · Jupyter Notebook</sub>
+- [bytedance/LatentSync](https://github.com/bytedance/LatentSync) - Difusão Estável Dobrando para Lip Sync! <sub>⭐ 6.1k · Python</sub>
+- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Motor de texto neural rápido e local para falar. <sub>⭐ 5.7k · C++</sub>
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - Localização e dublagem de vídeo para o YouTube/Bilibili: reconhecimento de fala, tradução de legendas, clonagem de voz, mixagem de áudio e renderização. <sub>⭐ 5.6k · Python</sub>
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Envelope compatível com OpenAI para Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-falante, clone-tuning, legenda timestamps, SSML, leitura opcional da interface web UI <sub>⭐ 5.5k · Python</sub>
+- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - Um modelo rápido de clonagem de voz TTS de alta qualidade que atinge velocidades de 150x em tempo real. <sub>⭐ 5.4k · Python</sub>
+- [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - Um sistema aberto de texto para fala construído por inversor Whisper. <sub>⭐ 4.7k · Jupyter Notebook</sub>
+- [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) - Um modelo de TTS multilingue de 100M para inferência em tempo real da CPU, clonagem de voz e geração de estéreo 48kHz <sub>⭐ 4.4k · Python</sub>
+- [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converte texto para discurso em tempo real <sub>⭐ 4.0k · Python</sub>
+- [buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Reconhecimento de fala em inglês baseado na WaveNet e no tensorflow da DeepMind <sub>⭐ 4.0k · Python</sub>
+- [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Sussurre em tempo real para longas transcrições e traduções de discurso-texto. <sub>⭐ 3.7k · Python</sub>
+- [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS é um modelo de 8 bilhões, altamente emotivo. <sub>⭐ 3.2k · Python</sub>
+- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - A faca do Exército Suíço de IA Offline. Converse, veja, fale e gere imagens em seu telefone ou Mac - GGUF LLMs, visão, Whisper fala-texto, Difusão estável, chamada de ferramentas, e servidores de… <sub>⭐ 3.2k · TypeScript</sub>
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Modelos de voz 100% privados para texto e transcrição em macOS. <sub>⭐ 3.2k · Swift</sub>
+- [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Reconhecimento Automático de Fala (ASSR), Verificação do Porta-voz, Síntese da Fala, Texto-a-Fala (TTS), Modelagem de Linguagem, Sinting Voice Synthesis (SVS), Conversão de Voz (VC) <sub>⭐ 3.1k</sub>
+- [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Modelos de discurso-texto e texto-para-fala de Kyutai baseados na estrutura de modelagem dos fluxos atrasados. <sub>⭐ 3.0k · Python</sub>
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Modelos de áudio da Frontier CoreML em seus aplicativos, texto-para-falar, fala-para-texto, detecção de atividade de voz e diarização de alto-falantes. <sub>⭐ 2.9k · Swift</sub>
+- [KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning) - Clonagem de voz e clonagem de voz para o discurso chinês <sub>⭐ 2.9k · Jupyter Notebook</sub>
+- [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - Aeneas é uma biblioteca Python/C e um conjunto de ferramentas para sincronizar automaticamente áudio e texto (também conhecido como alinhamento forçado) <sub>⭐ 2.9k · Python</sub>
+- [PlayVoice/whisper-vits-svc](https://github.com/PlayVoice/whisper-vits-svc) - O motor principal da conversão de voz cantada e cantou o clone. <sub>⭐ 2.9k · Python</sub>
+- [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) - TTS vietnamitas com clonagem de voz instantânea. <sub>⭐ 2.7k · Python</sub>
+- [DanielSWolf/rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync é uma ferramenta de linha de comando que cria automaticamente animação oral 2D a partir de gravações de voz. <sub>⭐ 2.6k · C++</sub>
+- [pndurette/gTTS](https://github.com/pndurette/gTTS) - Biblioteca Python e ferramenta CLI para interface com a API de texto-para-falar do Google Translate <sub>⭐ 2.6k · Python</sub>
+- [coqui-ai/STT](https://github.com/coqui-ai/STT) - STT, o kit de ferramentas de aprendizagem profunda para o Speech-to-Text, treinar e implantar modelos STT nunca foi tão fácil. <sub>⭐ 2.6k · C++</sub>
+- [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- um sistema de síntese multilingue texto para fala escrito em java puro <sub>⭐ 2.6k · Java</sub>
+- [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Texto Offline para síntese de fala para python <sub>⭐ 2.5k · Python</sub>
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - Domar treinamento conjunto multimodal para vídeo-audio de alta qualidade <sub>⭐ 2.3k · Python</sub>
+- [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementação de VALL-E (Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html <sub>⭐ 2.2k · Python</sub>
+- [DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Controlável e rápido texto para falar por mais de 7000 idiomas! <sub>⭐ 2.2k · Python</sub>
+- [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2) - Uma implementação do "FastSpeech 2: Rápido e de alta qualidade, End-to-End Text to Speech" da Microsoft <sub>⭐ 2.2k · Python</sub>
+- [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Grátis, de alta qualidade texto-para-falar API final para substituir OpenAI, Azure, ou OnzeLabs <sub>⭐ 2.1k · Python</sub>
+- [joshnewlan/say_what](https://github.com/joshnewlan/say_what) - Usando discurso-texto para verificar completamente durante as chamadas. <sub>⭐ 2.1k · Python</sub>
+- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml fala-para-texto inferência para 16+ famílias modelo <sub>⭐ 2.0k · C++</sub>
+- [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - Implementação de sistemas neurais convolucionais baseados em modelos de síntese texto-a-fala <sub>⭐ 2.0k · Python</sub>
+- [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simples, hackeável discurso offline para texto usando o VOSK-API. <sub>⭐ 1.9k · Python</sub>
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Mensagem para a fala, RAG e LLMs. <sub>⭐ 1.9k · JavaScript</sub>
+- [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts) - Uma ferramenta CLI texto-para-fala usando o modelo Kokoro, suportando várias línguas, vozes (com mistura), e vários formatos de entrada, incluindo livros EPUB e documentos PDF. <sub>⭐ 1.9k · Python</sub>
+- [Kyubyong/tacotron](https://github.com/Kyubyong/tacotron) - Uma implementação tensorFlow de Tacotron, um modelo de síntese completa do texto para a fala. <sub>⭐ 1.8k · Python</sub>
+- [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) - Discurso local para texto para MacOS em dispositivo AI, nuvem totalmente privada e opcional. <sub>⭐ 1.8k · Swift</sub>
+- [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) - Clonagem de voz multilíngue e multidiáleto com design de voz guiado por instruções e edição de voz <sub>⭐ 1.8k · Python</sub>
+- [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Puro C inferência de Voxtral Mistral em tempo real 4B fala para modelo de texto <sub>⭐ 1.7k · C</sub>
+- [mkiol/dsnote](https://github.com/mkiol/dsnote) - Aplicativo Linux da Nota de Discurso, anotação, leitura e tradução com off-line de discurso para texto, texto para fala e tradução automática. <sub>⭐ 1.7k · C++</sub>
+- [ekwek1/soprano](https://github.com/ekwek1/soprano) - "Imediato, Ultra-Realístico Texto para Fala" <sub>⭐ 1.6k · Python</sub>
+- [met4citizen/TalkingHead](https://github.com/met4citizen/TalkingHead) - Uma aula de JavaScript para sincronia labial em tempo real usando avatares 3D. <sub>⭐ 1.6k · JavaScript</sub>
+- [Enemyx-net/VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI) - Uma integração completa com ComfyUI para o modelo VibeVoice de texto-a-fala da Microsoft, permitindo uma síntese de voz simples e multi-falante de alta qualidade diretamente dentro dos fluxos de… <sub>⭐ 1.6k · Python</sub>
+- [Marak/say.js](https://github.com/Marak/say.js) - TTS (texto para fala) para node.js. envie texto de node.js para seus alto-falantes. <sub>⭐ 1.5k · JavaScript</sub>
+- [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Este servidor oferece uma interface Web amigável, terminais de API flexíveis (incluindo OpenAI compatível), vozes pré-definidas, clonagem de voz e grande escala de audiolivro... <sub>⭐ 1.5k · Python</sub>
+- [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Estúdio de IA local portátil para Windows, Linux e MacOS. <sub>⭐ 1.4k · JavaScript</sub>
+- [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - Uma WebUI para criar capas de música com qualquer voz IA treinada RVC v2 do YouTube vídeos ou arquivos de áudio. <sub>⭐ 1.4k · Python</sub>
+- [voice-cloning-app/Voice-Cloning-App](https://github.com/voice-cloning-app/Voice-Cloning-App) - Um aplicativo Python/Pytorch para sintetizar facilmente vozes humanas <sub>⭐ 1.4k · Python</sub>
+- [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) - Um modelo multilingue para a síntese de diálogos multi-falantes com controle flexível de alto-falante e clonagem de voz sem disparo. <sub>⭐ 1.4k · Python</sub>
+- [morettt/my-neuro](https://github.com/morettt/my-neuro) - Este projeto permite criar seu próprio companheiro de trabalho com personagens personalizáveis e conversas de voz que respondem em apenas 1 segundo. <sub>⭐ 1.4k · JavaScript</sub>
+- [Aratako/Irodori-TTS](https://github.com/Aratako/Irodori-TTS) - Um modelo de texto para voz baseado em fluxo com controle de estilo dirigido por Emoji <sub>⭐ 1.4k · Python</sub>
+- [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) - Texto em tempo real com Qwen3-TTS <sub>⭐ 1.4k · Python</sub>
+- [jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision) - Dê a Claude a habilidade de assistir e entender vídeos. <sub>⭐ 1.3k · TypeScript</sub>
+- [kripken/speak.js](https://github.com/kripken/speak.js) - Texto-para-falar em JavaScript usando eSpeak <sub>⭐ 1.3k · C++</sub>
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (prompt GPT) Plug-in de IA Neovim: sessões ChatGPT e operações de texto/código instruíveis e discurso para texto (OpenAI, Ollama, Anthropic, ..) <sub>⭐ 1.3k · Lua</sub>
+- [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai) - Operador de inferência de IA para Kubernetes, a maneira mais fácil de servir modelos ML na produção, suporta VLMs, LLMs, incorporações e discurso-texto. <sub>⭐ 1.3k · Go</sub>
+- [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - Um rápido texto neural local para o motor de fala do Mycroft. <sub>⭐ 1.3k · Python</sub>
+- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Discurso nativo para o Linux, rápido, preciso, privado e hackeável ditado de sistema. <sub>⭐ 1.2k · Python</sub>
+- [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite) - Uma integração personalizada de nó ComfyUI para multi-motor local multi-linguagem Texto-para-fala e conversão de voz. Suporta: RVC, Echo-TTS, Qwen3-TTS, Voz Cozy 3, Passo Audio EditX, IndexTTS-2… <sub>⭐ 1.2k · Python</sub>
+- [hgneng/ekho](https://github.com/hgneng/ekho) - Motor chinês de texto para fala <sub>⭐ 1.2k · Lex</sub>
+- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: Face Swap, Lip Sync, Controle Remover Objetos e Texto e Fundo, Restyling, Audio Separador, Clone Voice, Geração de Vídeo. <sub>⭐ 1.2k · C++</sub>
+- [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Software de texto para fala livre e aberto <sub>⭐ 1.2k · Vue</sub>
+- [Kyubyong/dc_tts](https://github.com/Kyubyong/dc_tts) - Uma implementação tensorFlow de DC-TTS: mais um modelo de texto para fala <sub>⭐ 1.2k · Python</sub>
+- [PromtEngineer/Verbi](https://github.com/PromtEngineer/Verbi) - Uma aplicação modular de assistente de voz para experimentar com a transcrição mais moderna, geração de resposta e modelos de texto-para-fala. <sub>⭐ 1.1k · Python</sub>
+- [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - Aplicação de Exemplos Node.js para o Serviço de Texto da IBM Watson <sub>⭐ 1.1k · JavaScript</sub>
+- [WhiskeyCoder/Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter) - Converta arquivos PDFs, EPUBs, DOCX, DOC e TXT em audiolivros de alta qualidade usando **Qwen3 TTS Voice Model** - um sistema de síntese de voz de código aberto que se destaca na geração natural de… <sub>⭐ 1.1k · Python</sub>
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Totalmente local, privado e inter-plataforma Discurso em Texto com Pós-processamento LLM <sub>⭐ 1.1k · TypeScript</sub>
+- [k2-fsa/ZipVoice](https://github.com/k2-fsa/ZipVoice) - Rápido e de alta qualidade, texto a voz com correspondência de fluxo. <sub>⭐ 1.1k · Python</sub>
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - Gerador de audiolivros multi-voz com tecnologia de IA, anotação do script LLM, clonagem de voz, design de voz, treinamento LoRA, controle por linha e exportação para MP3, capítulo M4B ou Audacity… <sub>⭐ 1.0k · Python</sub>
+- [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - Rede de inversão de espectrograma baseado em GAN para síntese texto-a-fala <sub>⭐ 1.0k · Python</sub>
+- [Azure-Samples/Cognitive-Speech-TTS](https://github.com/Azure-Samples/Cognitive-Speech-TTS) - Código de exemplo da API Microsoft Text-to-Speech em vários idiomas, parte dos Serviços Cognitivos. <sub>⭐ 1.0k · Python</sub>
+- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - Uma estrutura não-autoregressiva de texto para voz (NAR-TTS), incluindo a implementação oficial da PortaSpeech (Neurips 2021) e DiffSpeech (AAAI 2022) <sub>⭐ 1.0k · Python</sub>
+- [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Framework do servidor de discurso-texto com a próxima geração Kaldi <sub>⭐ 997 · C++</sub>
+- [stepfun-ai/Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) - Um poderoso parameter 3B, baseado em LLM Reforço O modelo de edição de áudio aprende a editar emoções, falar estilo e paralinguísticas, e apresenta robusto texto-para-fala. <sub>⭐ 980 · Python</sub>
+- [kishanrajput23/Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant) - Um assistente de voz baseado em python, capaz de executar comandos de nível do sistema, integrar reconhecimento de fala e texto-para-falar, e lidar com interações assíncronas do usuário. <sub>⭐ 968 · Python</sub>
+- [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - Modelos de transformação da BERT ao GPT-4, ambientes do Hugging Face ao OpenAI... ajustes finos, treinamento e exemplos de engenharia. <sub>⭐ 967 · Jupyter Notebook</sub>
+- [ShmuelRonen/ComfyUI-LatentSyncWrapper](https://github.com/ShmuelRonen/ComfyUI-LatentSyncWrapper) - Este nó fornece capacidades de sincronização labial na ComfyUI usando o modelo LatentSync da ByteDance, que permite sincronizar lábios de vídeo com entrada de áudio. <sub>⭐ 962 · Python</sub>
+- [samuel-vitorino/sopro](https://github.com/samuel-vitorino/sopro) - Um modelo leve de texto para fala com clonagem de voz zero. <sub>⭐ 959 · Python</sub>
+- [sandrohanea/whisper.net](https://github.com/sandrohanea/whisper.net) - Discurso com texto simples usando Modelos Sussurros <sub>⭐ 947 · C#</sub>
+- [jitsi/jiwer](https://github.com/jitsi/jiwer) - Avaliar seu sistema de fala-texto com medidas de similaridade, como taxa de erro de palavras (WER) <sub>⭐ 931 · Python</sub>
+- [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) - Cliente de APIs Vonage REST para PHP. Suporte a API para SMS, Voz, Texto-para-Fala, Números, Verificar (2FA) e muito mais. <sub>⭐ 931 · PHP</sub>
+- [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - Este projeto fornece uma API com suporte de acesso ao nível do usuário para transcrever a fala para texto usando um modelo Whisper ASR refinado e processado. <sub>⭐ 914 · Python</sub>
+- [joonson/syncnet_python](https://github.com/joonson/syncnet_python) - Fora do tempo: sincronia labial automatizada na natureza. <sub>⭐ 910 · Python</sub>
+- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - Flowtron é uma rede geradora baseada em fluxo auto-regressivo para síntese de texto para fala com controle sobre variação de fala e transferência de estilo. <sub>⭐ 894 · Jupyter Notebook</sub>
+- [PABannier/bark.cpp](https://github.com/PABannier/bark.cpp) - Modelo Suno Al's Bark em C/C++ para geração rápida de texto para fala <sub>⭐ 869 · C++</sub>
+- [Improbable-AI/VisionProTeleop](https://github.com/Improbable-AI/VisionProTeleop) - VisionOS App + Python Library para transmitir dados de rastreamento manual do Vision Pro, transmissão vídeo/áudio para o Vision Pro. <sub>⭐ 828 · C++</sub>
+- [paulilaaso/lue](https://github.com/paulilaaso/lue) - Terminal eBook Reader com Audiobook-Quality Text-to-Speech - Suporta EPUB, PDF, DOCX, HTML, RTF, TXT e MD. <sub>⭐ 816 · Python</sub>
+- [VRCWizard/TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Discurso para texto para discurso, música agora tocando, envia texto como mensagens de OSC para VRChat para exibição em avatar. <sub>⭐ 809 · C#</sub>
+- [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - Um aplicativo de transcrição de voz AI 100% privado que converte fala em texto em mais de 100 idiomas, construído com Multiplataforma Compose para Android e iOS usando Whisper IA - sem uploads na… <sub>⭐ 801 · C++</sub>
+- [rnchg/APT](https://github.com/rnchg/APT) - Ferramenta de Produtividade AI, livre e open source, melhorar a produtividade do usuário e proteger privacidade e segurança de dados, incluindo mas não limitado a: ChatGPT exclusivo local integrado… <sub>⭐ 770 · C#</sub>
+- [awni/speech](https://github.com/awni/speech) - Uma Implementação de Modelos do Fim ao Fim para o Discurso ao Texto <sub>⭐ 769 · Python</sub>
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano, um pequeno modelo de texto a fala consciente e com conhecimento de contexto treinado em conversas reais. 219M params ativos (305M total), Apache 2.0, clonagem de voz, streaming, roda na CPU… <sub>⭐ 767 · Python</sub>
+- [cboard-org/cboard](https://github.com/cboard-org/cboard) - Sistema de Comunicação Alternativa e Aumentativa (AAC) com texto para fala para o navegador <sub>⭐ 759 · JavaScript</sub>
+- [dlutton/flutter_tts](https://github.com/dlutton/flutter_tts) - Pacote de Texto Flutter para Discurso <sub>⭐ 757 · Dart</sub>
+- [homelab-00/TranscriptionSuite](https://github.com/homelab-00/TranscriptionSuite) - Um aplicativo totalmente local e privado Speech-To-Text, oferecendo múltiplas infra-estruturas de modelos, diarização e modo calendário - Disponível para Windows, macOS e Linux <sub>⭐ 757 · TypeScript</sub>
+- [Macoron/whisper.unity](https://github.com/Macoron/whisper.unity) - Discurso para o modelo de texto (whisper.cpp) em Unity3d na sua máquina local. <sub>⭐ 752 · C#</sub>
+- [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - Free AI texto-para-falar, online ou auto-hospedado, OpenAI compatível! <sub>⭐ 749 · TypeScript</sub>
+- [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM espelha o serviço de TTS da OpenAI, fornecendo uma interface compatível para conversão texto-a-fala com várias opções de voz grátis. <sub>⭐ 739 · Python</sub>
+- [mmpneo/curses](https://github.com/mmpneo/curses) - Discurso para texto e legendas de entrada KB para OBS, VRChat, Twitch chat e Discórdia <sub>⭐ 731 · TypeScript</sub>
+- [Lex-au/Orpheus-FastAPI](https://github.com/Lex-au/Orpheus-FastAPI) - Servidor de texto para voz com API compatível com OpenAI, 8 vozes, etiquetas emocionais e interface web moderna. Otimizado para GPUs RTX. <sub>⭐ 720 · Python</sub>
+- [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Crie facilmente modelos de texto para fala da Piper em qualquer voz, faça um modelo de texto para fala com suas próprias gravações de voz ou use milhares de vozes RVC, funciona offline em um Pi… <sub>⭐ 718 · Shell</sub>
+- [jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts) - Um fluxo de geração para texto em voz alta via busca por alinhamento monotônico <sub>⭐ 715 · Python</sub>
+- [gitmylo/bark-voice-cloning-HuBERT-quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer) - O código para o modelo de fechamento de voz, treinamento e inferência. <sub>⭐ 710 · Python</sub>
+- [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementação da Voicebox, nova rede de texto para fala SOTA da MetaAI, em Pytorch <sub>⭐ 703 · Python</sub>
+- [ak1394/react-native-tts](https://github.com/ak1394/react-native-tts) - Reaja biblioteca de texto nativo para Android e iOS <sub>⭐ 698 · Java</sub>
+- [Picovoice/speech-to-text-benchmark](https://github.com/Picovoice/speech-to-text-benchmark) - Discurso para o quadro de referência do texto. <sub>⭐ 698 · Python</sub>
+- [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - API local, compatível com OpenAI de texto para fala (TTS) usando Chatterbox, permitindo que usuários gerem voz clonada em qualquer lugar a API OpenAI é usada (por exemplo, Open WebUI, Qualquer… <sub>⭐ 684 · Python</sub>
+- [xmarre/ComfyUI-Spectrum-MiniMax-H3](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3) - Aceleração do espectro sem treinamento para o modelo de áudio-vídeo MiniMax H3 nativo da ComfyUI. <sub>⭐ 679 · Python</sub>
+- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) - Uma interface web baseada em Gradio para clonagem de voz e design de voz, alimentada por Qwen3-TTS & VibeVoice. <sub>⭐ 675 · Python</sub>
+- [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - Uma extensão de dicionário personalizável que suporta buscas em mais de 20 idiomas, mais de 1000 dicionários, texto para fala, tradução e integração com Anki. <sub>⭐ 674 · JavaScript</sub>
+- [muaz-khan/DetectRTC](https://github.com/muaz-khan/DetectRTC) - DetectRTC é uma pequena biblioteca JavaScript que pode ser usada para detectar recursos WebRTC por exemplo, sistema com alto-falantes, microfone ou webcam, captura de tela é suportada, número de… <sub>⭐ 673 · JavaScript</sub>
+- [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) - Atualizar automaticamente o texto para fala (TTS) Papers Daily usando ações de Github (atualização a cada 12 horas) <sub>⭐ 670 · Python</sub>
+- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - Motor de voz para texto alimentado por aprendizado profundo <sub>⭐ 670 · Python</sub>
+- [daniilrobnikov/vits2](https://github.com/daniilrobnikov/vits2) - VITS2: Melhorando a qualidade e eficiência do texto de um estágio para falar com o Adversário Aprendizagem e Arquitetura Design <sub>⭐ 646 · Jupyter Notebook</sub>
+- [PlayVoice/lora-svc](https://github.com/PlayVoice/lora-svc) - E Lora para clonar a voz. <sub>⭐ 646 · Python</sub>
+- [evancohen/sonus](https://github.com/evancohen/sonus) - Então, o.nus/ STT para Node com a detecção de palavras off-line <sub>⭐ 639 · JavaScript</sub>
+- [0xSojalSec/free-voice-clone](https://github.com/0xSojalSec/free-voice-clone) - Lista de todos os modelos locais e gratuitos de voz-clone TTS e modelos de geração de música. <sub>⭐ 638</sub>
+- [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator) - Transforme PDFs e EPUBs em audiolivros, legendas ou vídeos em vídeos apelidados (incluindo tradução) e muito mais. <sub>⭐ 630 · Python</sub>
+- [watzon/pindrop](https://github.com/watzon/pindrop) - Um aplicativo nativo de ditados de barras de menu do MacOS usando discurso local com WhisperKit <sub>⭐ 627 · Swift</sub>
+- [bbc/react-transcript-editor](https://github.com/bbc/react-transcript-editor) - Um componente Reagir para corrigir transcrições automáticas de áudio e vídeo mais fácil e rápido. <sub>⭐ 620 · JavaScript</sub>
+- [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - Legado YouDub AI tradução de vídeo e pipeline de clonagem de voz. <sub>⭐ 616 · Python</sub>
+- [reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text) - Transcrição em tempo real usando sussurro mais rápido. <sub>⭐ 613 · HTML</sub>
+- [cnlinxi/book-text-to-speech](https://github.com/cnlinxi/book-text-to-speech) - Um livro sobre texto para voz em chinês. <sub>⭐ 612 · TeX</sub>
+- [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate é uma camada de automação moderna e poderosa construída em cima da FFmpeg - projetada para tornar a transcodificação de vídeo e áudio mais simples, inteligente e fácil de integrar <sub>⭐ 598 · Go</sub>
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Passando pelo reCapta V3 enviando solicitações HTTP e resolvendo o reCapta V2 usando a fala para o motor de texto. <sub>⭐ 597 · Python</sub>
+- [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - Esconder e extrair dados através de imagens, áudio, vídeo, documentos, e pacotes de rede, ou executar 11 motores avançados de detecção para descobrir ocultos... <sub>⭐ 594 · Python</sub>
+- [DeltaCircuit/react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) - React-media-gravador é um componente de reação com renderização que pode ser usado para gravar transmissões de áudio/vídeo usando a API MediaRecorder. <sub>⭐ 586 · TypeScript</sub>
+- [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - Um tubo de fala em texto otimizado para o Whisper Model suportando múltiplos motores de inferência. <sub>⭐ 580 · Jupyter Notebook</sub>
+- [zhangshaolei1998/Awesome-Simultaneous-Translation](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation) - Lista de documentos da tradução simultânea, incluindo texto-para-texto tradução automática e fala-para-texto tradução. <sub>⭐ 578</sub>
+- [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) - Biblioteca Live2D para Python (C++ impl): Suporta carregamento de modelos, sincronia labial, manipulação facial básica e teste preciso do clique. <sub>⭐ 576 · C++</sub>
+- [kapi2800/qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon) - Execute o texto Qwen3-TTS para falar localmente no Mac (M1/M2/M3/M4) clonagem de voz, design de voz, vozes personalizadas. <sub>⭐ 573 · Python</sub>
+- [MahmoudAshraf97/ctc-forced-aligner](https://github.com/MahmoudAshraf97/ctc-forced-aligner) - Alinhamento de texto para fala usando CTC. <sub>⭐ 566 · Python</sub>
+- [billwuhao/ComfyUI_IndexTTS](https://github.com/billwuhao/ComfyUI_IndexTTS) - Clonagem de voz do IndexTTS: apoia diálogo em duas pessoas <sub>⭐ 553 · Python</sub>
+- [ScenemaAI/scenema-audio](https://github.com/ScenemaAI/scenema-audio) - Clonar qualquer voz... <sub>⭐ 551 · Python</sub>
+- [FlashLabs-AI-Corp/FlashLabs-Chroma](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) - O primeiro modelo de diálogo falado em tempo real com clonagem personalizada. <sub>⭐ 549 · Jupyter Notebook</sub>
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, construído com Difusão estável, GPT, e texto neural para fala <sub>⭐ 535 · Python</sub>
+- [gotev/android-speech](https://github.com/gotev/android-speech) - Reconhecimento de fala Android e texto a discurso facilitado <sub>⭐ 534 · Java</sub>
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Voz para texto para LLM to Speech, exibido em uma interface web <sub>⭐ 529 · Python</sub>
+- [modelscope/KAN-TTS](https://github.com/modelscope/KAN-TTS) - KAN-TTS é uma estrutura de treinamento de síntese de fala, por favor tente as demonstrações que postamos em https://modelscope.cn/models?page=1&tasks=texto para falar <sub>⭐ 528 · Python</sub>
+- [prathoshap/vagdhenu](https://github.com/prathoshap/vagdhenu) - Vāgdhenu — medida em sânscrito/védico, texto-a-fala. <sub>⭐ 524 · Python</sub>
+- [r9y9/gantts](https://github.com/r9y9/gantts) - Implementação de GAN baseado em síntese de texto para voz e conversão de voz (VC) <sub>⭐ 518 · Jupyter Notebook</sub>
+- [thinhlpg/vixtts-demo](https://github.com/thinhlpg/vixtts-demo) - Um modelo de clonagem de voz vietnamita. <sub>⭐ 518 · Jupyter Notebook</sub>
+- [PunithVT/ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) - AI Avatar / plataforma humana digital - upload de uma foto, clonar uma voz, falar com qualquer rosto em tempo real com vídeo labial. <sub>⭐ 511 · Python</sub>
+- [wildminder/ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM) - Nó ComfyUI para uma fala muito expressiva e realística clonagem de voz com zero tiros <sub>⭐ 511 · Python</sub>
+- [AwesomeTTS/awesometts-anki-addon](https://github.com/AwesomeTTS/awesometts-anki-addon) - AwesomeTTS text-to-speech add-on para Anki <sub>⭐ 504 · Python</sub>
+- [wildminder/awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) - Lista de TTS de código aberto, clonagem de voz e modelos de geração musical <sub>⭐ 502</sub>
+- [kxxt/aspeak](https://github.com/kxxt/aspeak) - Um simples cliente de texto para fala da API Azure TTS. <sub>⭐ 497 · Rust</sub>
+- [char0n/ffmpeg-php](https://github.com/char0n/ffmpeg-php) - FFmpegPHP é uma porta OO PHP pura da biblioteca ffmpeg-php que foi escrita em C. Ele adiciona uma API fácil de usar, orientada para objetos para acessar e recuperar informações de arquivos de vídeo e… <sub>⭐ 494 · PHP</sub>
+- [guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) - Uma lista de papel e projeto sobre a síntese da fala de ponta, texto para voz (TTS), sintese da voz cantada (SVS), conversão de voz (VC), conversão de voz cantada (SVC), e relacionados interessante... <sub>⭐ 494</sub>
+- [petewarden/spchcat](https://github.com/petewarden/spchcat) - Ferramenta de reconhecimento de fala para converter áudio em transcrições de texto, para Linux e Raspberry Pi. <sub>⭐ 487 · C</sub>
+- [Picovoice/leopard](https://github.com/Picovoice/leopard) - Motor de discurso-texto no dispositivo alimentado por aprendizado profundo <sub>⭐ 485 · Python</sub>
+- [Aivis-Project/AivisSpeech](https://github.com/Aivis-Project/AivisSpeech) - Sistema de Imitação por Voz AI - Software de Texto para Fala <sub>⭐ 483 · TypeScript</sub>
+- [ranchlai/mandarin-tts](https://github.com/ranchlai/mandarin-tts) - Mandarim chinês tts texto-para-falar 中文, por voz rápida 2, implementado em pitorca, usando o waveglow como vocoder, com conjuntos de dados biaobei e aishell3 <sub>⭐ 477 · Python</sub>
+- [csdcorp/speech_to_text](https://github.com/csdcorp/speech_to_text) - Um plug-in Flutter que expõe o texto específico do dispositivo à capacidade de reconhecimento de fala. <sub>⭐ 474 · Dart</sub>
+- [WenJing95/SayKey](https://github.com/WenJing95/SayKey) - Um método de entrada de texto para Windows. <sub>⭐ 472 · TypeScript</sub>
+- [MasayaKawamura/MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS) - Leve e alta fidelidade, de ponta a ponta, texto-a-fala com geração multi-banda e transformação inversa de Fourier em curto prazo. <sub>⭐ 471 · Python</sub>
+- [gillesdemey/google-speech-v2](https://github.com/gillesdemey/google-speech-v2) - Engenharia Revertida Google's Speech to Text API (v2) <sub>⭐ 469</sub>
+- [asanchezyali/talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - Este projeto é um humano digital que pode falar e ouvir você, ele usa o GPT da OpenAI para gerar respostas, o Whisper da OpenAI para transcrever o áudio, 11 laboratórios para gerar voz e lábios de… <sub>⭐ 467 · JavaScript</sub>
+- [HKoon/ChatTTS-OpenVoice](https://github.com/HKoon/ChatTTS-OpenVoice) - Fuse ChatTTS com OpenVoice, faça um clipe de áudio de 10 segundos e clone sua voz personalizada do ChatTTS. <sub>⭐ 466 · Python</sub>
+- [dectalk/dectalk](https://github.com/dectalk/dectalk) - Modernas construções para a aplicação de texto-para-fala dos anos 90/00s DECtalk. <sub>⭐ 465 · PostScript</sub>
+- [SamKhoze/ComfyUI-DeepFuze](https://github.com/SamKhoze/ComfyUI-DeepFuze) - DeepFuze é uma ferramenta de aprendizagem profunda de última geração que se integra perfeitamente com a ComfyUI para revolucionar transformações faciais, sincronia labial, troca facial, tradução… <sub>⭐ 461 · Python</sub>
+- [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - Um resumo sobre nossas tentativas de usar abordagens Deep Learning para Texto Emocional para Fala <sub>⭐ 456 · Jupyter Notebook</sub>
+- [modelscope/FunCodec](https://github.com/modelscope/FunCodec) - FunCodec é um kit de ferramentas orientado para pesquisa para a quantificação de áudio e aplicações a jusante, como síntese texto-para-fala, geração de música et.al. <sub>⭐ 449 · Python</sub>
+- [davabase/transcriber_app](https://github.com/davabase/transcriber_app) - Discurso em tempo real para o aplicativo de transcrição de texto. <sub>⭐ 439 · Python</sub>
+- [phildougherty/sesame_csm_openai](https://github.com/phildougherty/sesame_csm_openai) - OpenAI compatível com TTS para Sésamo CSM:1b & dia:1.6b <sub>⭐ 438 · Python</sub>
+- [ARBML/klaam](https://github.com/ARBML/klaam) - Reconhecimento de fala árabe, classificação e texto-para-fala. <sub>⭐ 435 · Jupyter Notebook</sub>
+- [Softcatala/open-dubbing](https://github.com/Softcatala/open-dubbing) - Dublagem aberta é um sistema de dublagem de IA que usa modelos de aprendizado de máquina para traduzir e sincronizar automaticamente o diálogo de áudio em diferentes línguas. <sub>⭐ 433 · Python</sub>
+- [Weilbyte/tiktok-tts](https://github.com/Weilbyte/tiktok-tts) - Gere vozes TikTok de texto para voz em seu navegador <sub>⭐ 422 · JavaScript</sub>
+- [wenet-e2e/wetts](https://github.com/wenet-e2e/wetts) - Produção Primeiro e Produção Pronto Fim-a-Fim Texto-para-Fala <sub>⭐ 417 · Python</sub>
+- [ATH-MaaS/Marco-Voice](https://github.com/ATH-MaaS/Marco-Voice) - Um quadro unificado para síntese de fala expressa com clonagem de voz <sub>⭐ 416 · Python</sub>
+- [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) - Capacidade de codex para a produção completa do anúncio de colagem em papel, clonagem de voz local IndexTTS-2, animação, áudio e MP4 QC <sub>⭐ 415 · JavaScript</sub>
+- [art-from-the-machine/Mantella](https://github.com/art-from-the-machine/Mantella) - Mantella é um Skyrim e Fallout 4 mod que permite que você naturalmente fale com NPCs usando um Speech-to-Text → LLMs → Text-to-Speech pipeline <sub>⭐ 413 · Python</sub>
+- [andyhuo520/openclaw-assistant-mvp](https://github.com/andyhuo520/openclaw-assistant-mvp) - OpenClaw Desktop Assistant MVP - Assistente de voz baseado em AI com animações de personagens do Live2D, reconhecimento de fala em tempo real e texto para falar <sub>⭐ 409 · JavaScript</sub>
+- [coder-duibai/Contrastive-Learning-Papers-Codes](https://github.com/coder-duibai/Contrastive-Learning-Papers-Codes) - Uma lista abrangente de impressionantes papéis de aprendizagem e códigos.A pesquisa inclui, mas não se limita a: CV, NLP, áudio, vídeo, multimodal, gráfico, linguagem, etc. <sub>⭐ 407</sub>
+- [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php) - Discurso local para texto em PHP facilitado graças a Whisper.cpp e OpenAI <sub>⭐ 407 · PHP</sub>
+- [AI4Bharat/Indic-TTS](https://github.com/AI4Bharat/Indic-TTS) - Texto-para-falar para línguas da Índia <sub>⭐ 404 · Jupyter Notebook</sub>
+- [altunenes/parakeet-rs](https://github.com/altunenes/parakeet-rs) - Muito rápido discurso-texto, diarização, streaming (mesmo em CPU) com NVIDIA Parakeet em Rust <sub>⭐ 404 · Rust</sub>
+- [Vonage/vonage-node-sdk](https://github.com/Vonage/vonage-node-sdk) - Cliente de APIs Vonage para suporte a API Node.js para SMS, Voz, Texto-para-Fala, Números, Verificar (2FA) e muito mais. <sub>⭐ 395 · TypeScript</sub>
+- [carykh/lazykh](https://github.com/carykh/lazykh) - Código-fonte para o projeto automático de sincronização labial descrito neste vídeo! <sub>⭐ 393 · Python</sub>
+- [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming servidor de protocolo para mais rápido sussurro fala para o sistema de texto <sub>⭐ 390 · Python</sub>
+- [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - Um aplicativo mínimo pronto para usar que converte qualquer fala em texto. <sub>⭐ 386 · JavaScript</sub>
+- [izwi-ai/izwi](https://github.com/izwi-ai/izwi) - Primeira transcrição local, diarização de alto-falantes, TTS e clonagem de voz com uma API compatível com OpenAI. <sub>⭐ 385 · Rust</sub>
+- [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Discurso-em-texto em Obsidian usando Sussurro <sub>⭐ 380 · TypeScript</sub>
+- [mailong25/self-supervised-speech-recognition](https://github.com/mailong25/self-supervised-speech-recognition) - Discurso para texto com aprendizado auto-supervisionado baseado em estrutura wav2vec 2.0 <sub>⭐ 379 · Python</sub>
+- [nimroddolev/chime_tts](https://github.com/nimroddolev/chime_tts) - Uma integração personalizada do Home Assistant para reproduzir arquivos de áudio combinados antes e/ou depois de mensagens de texto-para-falar (TTS) <sub>⭐ 378 · Python</sub>
+- [tronghieuit/v-tts](https://github.com/tronghieuit/v-tts) - O mais leve texto vietnamita com TTS multi-falante e Clonagem de Voz Zero. <sub>⭐ 378 · Python</sub>
+- [WangHelin1997/CapSpeech](https://github.com/WangHelin1997/CapSpeech) - Ativando aplicações de baixo curso em texto com estilo. <sub>⭐ 374 · Jupyter Notebook</sub>
+- [X-LANCE/VoiceFlow-TTS](https://github.com/X-LANCE/VoiceFlow-TTS) - Este é o código oficial para VoiceFlow, texto eficiente com correspondência de fluxo retificado. <sub>⭐ 374 · Python</sub>
+- [RapidWareTech/pyttsx](https://github.com/RapidWareTech/pyttsx) - Embrulho de texto para fala cruzada. <sub>⭐ 373 · Python</sub>
+- [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS) - Ilimitado texto-para-fala no navegador usando Kokoro-JS, 100% local, 100% código aberto <sub>⭐ 373 · JavaScript</sub>
+- [edgenai/edgen](https://github.com/edgenai/edgen) - Não é necessário GPU, execute modelos de IA localmente: LLMs (Llama2, Mistral, Mixtral...), Discurso-a-texto (sussurro) e muitos outros. <sub>⭐ 367 · Rust</sub>
+- [graniet/llm](https://github.com/graniet/llm) - Uma poderosa biblioteca Rust e ferramenta CLI para unificar e orquestrar várias infra-estruturas LLM, agente e voz (OpenAI, Claude, Gemini, Ollama, OnzeLabs...) com uma única API extensível. <sub>⭐ 365 · Rust</sub>
+- [julianzq/deepvoice](https://github.com/julianzq/deepvoice) - Texto Neural em Tempo Real. <sub>⭐ 363 · Python</sub>
+- [taf2/speech2text](https://github.com/taf2/speech2text) - Usando o Google Speech para API de texto Forneça uma interface simples para converter arquivos de áudio <sub>⭐ 363 · Ruby</sub>
+- [deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning](https://github.com/deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning) - Tacotron 2 - implementação PyTorch com inferência mais rápida do que em tempo real modificada para permitir clonagem de voz lingual. <sub>⭐ 359 · Jupyter Notebook</sub>
+- [mylxsw/typeflux](https://github.com/mylxsw/typeflux) - Typeflux é uma ferramenta de entrada de voz do menu macOS construída com o Swift, projetada para um fluxo de trabalho rápido de "manter falar, liberar para inserir": pressione uma tecla de atalho… <sub>⭐ 358 · Swift</sub>
+- [VinAIResearch/XPhoneBERT](https://github.com/VinAIResearch/XPhoneBERT) - XPhoneBERT: Um modelo multilingue pré-treinado para representações de telefone para texto em voz alta (INTERSPEECH 2023) <sub>⭐ 357 · Python</sub>
+- [devnen/Dia-TTS-Server](https://github.com/devnen/Dia-TTS-Server) - Este servidor oferece uma interface web amigável, terminais de API flexíveis (incluindo OpenAI compatível), suporte para SafeTensores/BF16, clonagem de voz, geração de diálogo... <sub>⭐ 355 · Python</sub>
+- [HenestrosaDev/audiotext](https://github.com/HenestrosaDev/audiotext) - Um aplicativo de desktop que transcreve áudio de arquivos, entrada de microfone ou vídeos do YouTube com a opção de traduzir o conteúdo e criar legendas. <sub>⭐ 353 · Python</sub>
+- [5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench) - Velocidade e padrão de amostras: para todos os tipos de modelos de texto para fala (TTS) no Windows/Linux/Mac. <sub>⭐ 351 · Python</sub>
+- [AnubhavChaturvedi-GitHub/jarvis-ai-assistant](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) - Reconhecimento de fala, texto para fala, busca na web em tempo real, geração de imagens, visão computacional e automação do WhatsApp, inspirado no JARVIS do Homem de Ferro. <sub>⭐ 351 · Python</sub>
+- [megaease/easevoice-trainer](https://github.com/megaease/easevoice-trainer) - EaseVoice Trainer é um simples e fácil de usar clonagem de voz e modelo de fala. <sub>⭐ 350 · Python</sub>
+- [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) - Uma implementação local do modelo Kokoro Text-to-Speech, com carregamento dinâmico de módulos, gerenciamento automático de dependência e uma interface web. <sub>⭐ 350 · Python</sub>
+- [keonlee9420/DiffGAN-TTS](https://github.com/keonlee9420/DiffGAN-TTS) - Implementação de Diffgan-TTS de alta fidelidade e eficiente texto para falar com GANs de difusão denoizantes <sub>⭐ 349 · Python</sub>
+- [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) - Legendas ao vivo, painel do navegador, etiquetas de alto-falantes, tradução. <sub>⭐ 347 · Python</sub>
+- [keonlee9420/PortaSpeech](https://github.com/keonlee9420/PortaSpeech) - Implantação de PortaSpeech Portátil e de Alta Qualidade <sub>⭐ 341 · Python</sub>
+- [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase) - Rápido e personalizado discurso local para texto. <sub>⭐ 341 · Python</sub>
+- [isaiahbjork/csm-voice-cloning](https://github.com/isaiahbjork/csm-voice-cloning) - Clonagem de Voz Sésamo CSM 1B <sub>⭐ 338 · Python</sub>
+- [RealCorebb/bbTalkie](https://github.com/RealCorebb/bbTalkie) - Um walkie-talkie sem mãos alimentado por IA incorporada, com detecção automática de voz, animações desencadeadas por palavras-chave, e exibição em tempo real de discurso para texto. <sub>⭐ 336 · C</sub>
+- [Rongjiehuang/GenerSpeech](https://github.com/Rongjiehuang/GenerSpeech) - Um modelo de texto para fala em direção a transferência de voz personalizada da OOD. <sub>⭐ 333 · Python</sub>
+- [chrischoy/WhisperChain](https://github.com/chrischoy/WhisperChain) - Discurso para texto mas com todos os sinos e assobios e o mais importante Al, limparei suas palavras de preenchimento, editarei e refinarei o que você disse! <sub>⭐ 332 · Python</sub>
+- [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Discurso de código aberto para modelos de texto para idiomas indic <sub>⭐ 329</sub>
+- [keonlee9420/Comprehensive-Transformer-TTS](https://github.com/keonlee9420/Comprehensive-Transformer-TTS) - Um transformador não autorregressivo baseado em texto para fala, apoiando uma família de transformadores SOTA com modelagem supervisionada e sem supervisão da duração. <sub>⭐ 327 · Python</sub>
+- [leemysw/yovoice](https://github.com/leemysw/yovoice) - Criação de voz em código aberto para MacOS e Windows, TTS local, clonagem de voz e controle emocional, sem APIs de nuvem ou taxas por personagem. <sub>⭐ 327 · TypeScript</sub>
+- [khanhuitse05/speech-and-text-unity-ios-android](https://github.com/khanhuitse05/speech-and-text-unity-ios-android) - Velocidade para texto na Unity iOS use Reconhecimento de Fala Nativa <sub>⭐ 325 · C#</sub>
+- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - Um programa para dublar mídia não-inglês com síntese de fala moderna de IA, diarização e clonagem de voz! <sub>⭐ 324 · Python</sub>
+- [travisvn/obsidian-edge-tts](https://github.com/travisvn/obsidian-edge-tts) - Livre e de alta qualidade para suas notas da Obsidiana, aproveitando a API do Microsoft Edge. <sub>⭐ 322 · TypeScript</sub>
+- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - Um fluxo de trabalho Alfred 5 para usar a API do OpenAI Chat para interagir com modelos GPT também permite geração/edição/compreensão de imagens, conversão fala-texto e síntese texto-a-fala <sub>⭐ 319 · Ruby</sub>
+- [Devansh-47/Sign-Language-To-Text-and-Speech-Conversion](https://github.com/Devansh-47/Sign-Language-To-Text-and-Speech-Conversion) - Esta é uma aplicação python que converte a língua de sinais americana em texto e fala o que ajuda pessoas burras/surdas a começar a conversar com pessoas normais que não entendem essa linguagem <sub>⭐ 318 · Python</sub>
+- [hiddentao/google-tts](https://github.com/hiddentao/google-tts) - API Javascript para o motor de texto do Google. <sub>⭐ 318 · JavaScript</sub>
+- [Olney1/ChatGPT-OpenAI-Smart-Speaker](https://github.com/Olney1/ChatGPT-OpenAI-Smart-Speaker) - Este alto-falante inteligente da IA usa reconhecimento de fala, TTS (texto para fala) e STT (fala para texto) para permitir conversas com voz e visão, com recursos adicionais de busca na web via… <sub>⭐ 316 · Python</sub>
+- [carlini/audio_adversarial_examples](https://github.com/carlini/audio_adversarial_examples) - Exemplos Adversários em Sistemas de Fala-Texto <sub>⭐ 314 · Python</sub>
+- [COSS-India/VoicEra](https://github.com/COSS-India/VoicEra) - Um bloco completo de voz com integração de telefonia, apresentando discurso em tempo real, texto para fala e agentes conversacionais. <sub>⭐ 314 · Python</sub>
+- [Zyphra/ZONOS2](https://github.com/Zyphra/ZONOS2) - Zonos2 é um líder de texto aberto para fala. <sub>⭐ 314 · Python</sub>
+- [Aratako/T5Gemma-TTS](https://github.com/Aratako/T5Gemma-TTS) - Modelo TTS multilingual com clonagem de voz e controle de duração, baseado no codificador T5Gemma LLM <sub>⭐ 312 · Python</sub>
+- [mbzuai-oryx/LLMVoX](https://github.com/mbzuai-oryx/LLMVoX) - LLMVoX: Modelo de transmissão auto-regressiva de texto para voz para qualquer LLM <sub>⭐ 312 · Python</sub>
+- [dannguyen/watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - Uma prova de conceito usando a API de Discurso-para-Texto da IBM para fazer transcrições rápidas e sujas. <sub>⭐ 308 · Python</sub>
+- [tigros/Whisperer](https://github.com/tigros/Whisperer) - Discurso em lote para texto usando o sussurro do OpenAI. <sub>⭐ 308 · C#</sub>
+- [DarioFT/ComfyUI-Qwen3-TTS](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) - Uma suíte de nó personalizado ComfyUI para Qwen3-TTS, suportando modelos 1.7B e 0.6B, voz personalizada, design de voz, clonagem de voz e ajuste fino. <sub>⭐ 304 · Python</sub>
+- [heyncth/youtube-auto-dub](https://github.com/heyncth/youtube-auto-dub) - Um dublagem de vídeo no YouTube, automaticamente transcreve (Whisper), traduz (Google) e gera dublagem neural (Edge-TTS) com sincronização inteligente de áudio e vídeo... <sub>⭐ 304 · Python</sub>
+- [naoufal/react-native-speech](https://github.com/naoufal/react-native-speech) - Uma biblioteca de texto para falar nativo React. <sub>⭐ 300 · Objective-C</sub>
+- [jakovius/voxd](https://github.com/jakovius/voxd) - VOXD é um software de voz-texto, digitação de voz, ditado para distribuições linux. <sub>⭐ 298 · Python</sub>
+- [Elleo/pied](https://github.com/Elleo/pied) - Pied torna simples instalar e gerenciar vozes de Piper para uso com Dispatcher de Fala. <sub>⭐ 297 · Dart</sub>
+- [Kaljurand/K6nele](https://github.com/Kaljurand/K6nele) - Um aplicativo Android que oferece interfaces de usuário para outros aplicativos. <sub>⭐ 290 · Java</sub>
+- [zlargon/google-tts](https://github.com/zlargon/google-tts) - Google TTS (Texto-para-fala) para nod.js <sub>⭐ 287 · JavaScript</sub>
+- [n0spaces/MorshuTalk](https://github.com/n0spaces/MorshuTalk) - Morshu texto-para-fala <sub>⭐ 286 · Python</sub>
+- [QuintinShaw/openasr](https://github.com/QuintinShaw/openasr) - Uma CLI, sete famílias de modelos, catálogo assinado, API local compatível com OpenAI. <sub>⭐ 282 · Rust</sub>
+- [lucidrains/spear-tts-pytorch](https://github.com/lucidrains/spear-tts-pytorch) - Implementação de Spear-TTS - multi-falante texto para falar rede de atenção, em Pytorch <sub>⭐ 278 · Python</sub>
+- [mtttmpl/speak-js](https://github.com/mtttmpl/speak-js) - Texto-para-Fala em JavaScript <sub>⭐ 278 · JavaScript</sub>
+- [frostming/tetos](https://github.com/frostming/tetos) - Uma interface unificada para vários provedores de texto-para-fala. <sub>⭐ 277 · Python</sub>
+- [niknah/ComfyUI-F5-TTS](https://github.com/niknah/ComfyUI-F5-TTS) - Nó ComfyUI para F5-Text to Speech <sub>⭐ 277 · Python</sub>
+- [RobViren/kvoicewalk](https://github.com/RobViren/kvoicewalk) - Um pedido de clonagem para o texto Kokoro. <sub>⭐ 277 · Python</sub>
+- [alphacep/vosk-tts](https://github.com/alphacep/vosk-tts) - Texto para a síntese da fala com Vosk <sub>⭐ 274 · Python</sub>
+- [Kugelaudio/kugelaudio-open](https://github.com/Kugelaudio/kugelaudio-open) - Código aberto texto-para-falar para línguas europeias com clonagem de voz <sub>⭐ 274 · Python</sub>
+- [yuvraj108c/ComfyUI-Whisper](https://github.com/yuvraj108c/ComfyUI-Whisper) - Transcreva áudio e adicione legendas para vídeos usando Whisper em ComfyUI. <sub>⭐ 274 · Python</sub>
+- [danukim/Miko](https://github.com/danukim/Miko) - Companheiro de desktop 3D AI alimentado por Ollama, síntese de voz dupla (Fish Audio S2.1 e local GPT-SoVITS), sincronia labial em tempo real, e suporte personalizado VRM avatar. <sub>⭐ 273 · C#</sub>
+- [zeroweight-ai/ZeroTTS](https://github.com/zeroweight-ai/ZeroTTS) - Rápido, leve, de zero tiros vietnamitas texto para fala (TTS) que é executado em tempo real na CPU <sub>⭐ 271 · Python</sub>
+- [ElmTran/praises](https://github.com/ElmTran/praises) - Elogios é uma ferramenta de texto para fala que pode ajudá-lo a ler textos facilmente. <sub>⭐ 270 · TypeScript</sub>
+- [yl4579/PL-BERT](https://github.com/yl4579/PL-BERT) - BERTA DE Nível de Telefone para Prosódia Melhorada de Texto-a-Fala com Predições Grafemas <sub>⭐ 269 · Python</sub>
+- [natrys/whisper.el](https://github.com/natrys/whisper.el) - Interface discurso-texto para Emacs usando o modelo de sussurro da OpenAI e murmúrio. Cpp como motor de inferência. <sub>⭐ 268 · Emacs Lisp</sub>
+- [leaonline/easy-speech](https://github.com/leaonline/easy-speech) - Navegador transversal síntese de fala também conhecido como texto para a fala ou TTS, sem dependências, usa Web Speech API <sub>⭐ 266 · JavaScript</sub>
+- [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - Leve e de ponta a ponta texto-a-expressão via Destilação em Módulo <sub>⭐ 263 · Python</sub>
+- [watson-developer-cloud/speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Biblioteca para usar os serviços de texto e texto para fala da IBM Watson em navegadores. <sub>⭐ 263 · JavaScript</sub>
+- [keonlee9420/DailyTalk](https://github.com/keonlee9420/DailyTalk) - Repositório oficial do DailyTalk: Conjunto de dados de diálogo falado para conversação Texto-a-Fala, ICASSP 2023 <sub>⭐ 262 · Python</sub>
+- [Vyvo-Labs/VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS) - LLM-Based Text-to-Speech Training Framework <sub>⭐ 262 · Jupyter Notebook</sub>
+- [ekwek1/soprano-factory](https://github.com/ekwek1/soprano-factory) - Soprano-Factory, treine seu próprio modelo de texto para fala em tempo real. <sub>⭐ 261 · Python</sub>
+- [NTT123/vietTTS](https://github.com/NTT123/vietTTS) - Tradução e Legendagem <sub>⭐ 258 · Python</sub>
+- [1038lab/ComfyUI-QwenTTS](https://github.com/1038lab/ComfyUI-QwenTTS) - Nodos personalizados para voz, clonagem de voz e design de voz baseados em modelos Qwen3-TTS <sub>⭐ 257 · Python</sub>
+- [code-100-precent/LingEcho-App](https://github.com/code-100-precent/LingEcho-App) - LingEcho é uma plataforma inteligente de interação de voz que fornece uma solução abrangente de interação de voz IA, integra reconhecimento avançado de fala (ASR), texto-a-fala (TTS), grande... <sub>⭐ 257 · TypeScript</sub>
+- [AIFSH/ComfyUI-GPT_SoVITS](https://github.com/AIFSH/ComfyUI-GPT_SoVITS) - Você pode fazer clonagem de voz e tts em comfyui agora. <sub>⭐ 255 · Python</sub>
+- [YYuX-1145/Srt-AI-Voice-Assistant](https://github.com/YYuX-1145/Srt-AI-Voice-Assistant) - Legendagem com vários motores TTS <sub>⭐ 254 · Python</sub>
+- [ASLP-lab/VoiceSculptor](https://github.com/ASLP-lab/VoiceSculptor) - Uma solução texto-para-fala baseada na LLaSA e CosyVoice2 desenvolvida pelo laboratório da ASLP e colaboradores. <sub>⭐ 252 · Python</sub>
+- [whitphx/streamlit-stt-app](https://github.com/whitphx/streamlit-stt-app) - Aplicativo de voz para texto em tempo real com Streamlit <sub>⭐ 252 · Python</sub>
+- [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - VoxSherpa TTS Offline Neural Text-to-Speech Engine for Android Sherpa-ONNX powered Natural voice synthesis Processamento totalmente offline Sem nuvem • Sem limites <sub>⭐ 251 · Java</sub>
+- [etkecc/baibot](https://github.com/etkecc/baibot) - Um bot Matrix para usar diferentes capacidades (geração de texto, texto-para-falar, discurso-para-texto, geração de imagem, etc.) de AI / Modelos de Língua Grande (OpenAI, Anthropic, etc.) <sub>⭐ 250 · Rust</sub>
+- [robinhad/ukrainian-tts](https://github.com/robinhad/ukrainian-tts) - TTS ucraniano (texto-para-fala) usando ESPNET <sub>⭐ 250 · Python</sub>
+- [ForeignGods/ComfyUI-Mana-Nodes](https://github.com/ForeignGods/ComfyUI-Mana-Nodes) - Animação de fonte, reconhecimento automático de fala e texto para falar nós personalizados para ComfyUI <sub>⭐ 248 · Python</sub>
+- [LqNoob/Neural-Codec-and-Speech-Language-Models](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models) - Modelos de Codec Neural impressionantes, sintetizadores de texto para voz e modelos de linguagem da fala <sub>⭐ 248 · Python</sub>
+- [innnky/ar-vits](https://github.com/innnky/ar-vits) - texto para fala usando transformador autorregressivo e VITS <sub>⭐ 247 · Python</sub>
+- [brian-smith-github/ch32v003_stt](https://github.com/brian-smith-github/ch32v003_stt) - Discurso simples para texto no Microcontrolador CH32V003 <sub>⭐ 245 · C</sub>
+- [Hagsten/Talkify](https://github.com/Hagsten/Talkify) - Texto Javascript para biblioteca de fala <sub>⭐ 244 · JavaScript</sub>
+- [CMsmartvoice/One-Shot-Voice-Cloning](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning) - Uma base de clonagem por voz em Unet-TTS <sub>⭐ 243 · Jupyter Notebook</sub>
+- [nganlinh4/oneclick-subtitles-generator](https://github.com/nganlinh4/oneclick-subtitles-generator) - Vídeos de legendas automáticas com transcrição, tradução, clonagem de voz, renderização profissional, imagem de fundo e gerador de música <sub>⭐ 241 · JavaScript</sub>
+- [rishikksh20/FastSpeech2](https://github.com/rishikksh20/FastSpeech2) - Implementação da fala rápida 2: texto de fim a fim de falar rápido e de alta qualidade <sub>⭐ 237 · Jupyter Notebook</sub>
+- [yeokm1/doschgpt](https://github.com/yeokm1/doschgpt) - Uma prova de conceito ChatGPT, Hugging Face e Ollama cliente para DOS com texto-para-falar para sistemas compatíveis Sound Blaster. <sub>⭐ 237 · C++</sub>
+- [adelacvg/NS2VC](https://github.com/adelacvg/NS2VC) - Implementação não oficial do NaturalSpeech2 para conversão de voz e texto para fala <sub>⭐ 236 · Python</sub>
+- [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub) - Tente o X-Dub para sincronizar qualquer personagem em um vídeo com qualquer áudio que você gosta / repositório oficial de "De pintura a edição: desbloqueando Dublagem Visual Robust Mask-Free via… <sub>⭐ 235 · Python</sub>
+- [filliptm/ComfyUI_Fill-ChatterBox](https://github.com/filliptm/ComfyUI_Fill-ChatterBox) - TTS + Clonagem de Voz <sub>⭐ 233 · Python</sub>
+- [second-state/qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs) - Uma implementação Rust do modelo Qwen3 Text-to-Speech (TTS) inferência. <sub>⭐ 233 · Rust</sub>
+- [dunky11/voicesmith](https://github.com/dunky11/voicesmith) - VoiceSmith facilita o treinamento de texto para modelos de fala. <sub>⭐ 230 · Python</sub>
+- [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - Sussurro rápido para tarefas de fala-texto. <sub>⭐ 228 · Python</sub>
+- [scaredyfish/blender-rhubarb-lipsync](https://github.com/scaredyfish/blender-rhubarb-lipsync) - Blender Rhubarb Lipsync é um addon para Blender integrando Rhubarb Lip Sync para gerar automaticamente molduras de teclas em forma de boca de uma biblioteca de poses. <sub>⭐ 228 · Python</sub>
+- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Plug-in Obsidiana para criar transcrições de alta qualidade a partir de arquivos de áudio conectados <sub>⭐ 224 · TypeScript</sub>
+- [zaf/asterisk-googletts](https://github.com/zaf/asterisk-googletts) - Asterisco AGI que usa o texto traduzido do Google para serviço de fala. <sub>⭐ 222 · Perl</sub>
+- [abb128/april-asr](https://github.com/abb128/april-asr) - Biblioteca de discurso em C. <sub>⭐ 221 · C</sub>
+- [Vonage/vonage-ruby-sdk](https://github.com/Vonage/vonage-ruby-sdk) - Cliente de APIs REST para Ruby, suporte a API para SMS, voz, texto para fala, números, verificação (2FA) e muito mais. <sub>⭐ 221 · Ruby</sub>
+- [foges/whisper-dictation](https://github.com/foges/whisper-dictation) - Aplicativo de Ditação baseado em modelos de discurso-texto OpenAI <sub>⭐ 220 · Python</sub>
+- [MainRo/deepspeech-server](https://github.com/MainRo/deepspeech-server) - Um servidor de testes para um serviço de texto baseado em Coqui.ai <sub>⭐ 219 · Python</sub>
+- [sfortis/openai_tts](https://github.com/sfortis/openai_tts) - Texto-a-discurso para Assistente de Casa da OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox ou qualquer servidor que implemente a API de fala do OpenAI, com anúncios que restaurem seu volume e… <sub>⭐ 219 · Python</sub>
+- [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Texto para o pacote de discurso para Golang. <sub>⭐ 218 · Go</sub>
+- [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Treino de texto persa/farsi para fala (TTS) usando coqui tts <sub>⭐ 218 · Jupyter Notebook</sub>
+- [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) - Tipo Whisper para Windows, fala local com texto e tradução. <sub>⭐ 218 · C#</sub>
+- [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Criador de vídeo interativo de longa-forma a curta-forma, Claude Code habilidade com legendas animadas renderizadas por remoção, pontuação do segmento IA, rastreamento de cursores e quebra de limite… <sub>⭐ 217 · Python</sub>
+- [gpustack/vox-box](https://github.com/gpustack/vox-box) - Um servidor de texto-para-fala e discurso-para-texto compatível com a API OpenAI, apoiando Whisper, Funasr, Bark, e backends CosyVoice. <sub>⭐ 217 · Python</sub>
+- [MidCamp/live-captioning](https://github.com/MidCamp/live-captioning) - Legenda ao vivo com discurso-texto usando o navegador Chrome e o microfone do seu computador. <sub>⭐ 217 · CSS</sub>
+- [jscrane/TTS](https://github.com/jscrane/TTS) - Biblioteca de texto para voz Arduino <sub>⭐ 216 · C</sub>
+- [ykdojo/super-voice-assistant](https://github.com/ykdojo/super-voice-assistant) - Assistente de voz MacOS com teclas de atalho globais - transcrever discurso para texto com modelos offline (WhisperKit ou Parakeet) ou nuvem baseado na API Gemini, captura e transcrição de gravações… <sub>⭐ 215 · Swift</sub>
+- [OHF-Voice/wyoming-piper](https://github.com/OHF-Voice/wyoming-piper) - Servidor de protocolo Wyoming para Piper texto para sistema de fala <sub>⭐ 214 · Python</sub>
+- [pithings/voipi](https://github.com/pithings/voipi) - VoiPi é uma biblioteca universal de zero dependência, texto para fala livre para JavaScript. <sub>⭐ 214 · TypeScript</sub>
+- [snicolast/ComfyUI-IndexTTS2](https://github.com/snicolast/ComfyUI-IndexTTS2) - Embrulho leve para o IndexTTS 2 (clonação de voz + controle emocional), os nós chamam a inferência original do IndexTTS2 e mantêm o comportamento fiel ao acordo. <sub>⭐ 212 · Python</sub>
+- [billwuhao/ComfyUI_MegaTTS3](https://github.com/billwuhao/ComfyUI_MegaTTS3) - Leve e eficiente, ultra-alta qualidade clonagem de voz, chinês e inglês. <sub>⭐ 211 · Python</sub>
+- [ImperialSquid/zotero-zotts](https://github.com/ImperialSquid/zotero-zotts) - Um plug-in Zotero adicionando texto à funcionalidade de fala (TTS) em várias telas. <sub>⭐ 211 · TypeScript</sub>
+- [aws-samples/amazon-sumerian-hosts](https://github.com/aws-samples/amazon-sumerian-hosts) - Amazon Sumerian Hosts (Hosts) é um projeto experimental de código aberto que visa facilitar a criação de personagens 3D animados interativos para Babylon.js, três.js, e outros frameworks web 3D. <sub>⭐ 210 · JavaScript</sub>
+- [ezwebtools/flowpick](https://github.com/ezwebtools/flowpick) - Detectar automaticamente e a granel vídeos de download (M3U8/HLS para MP4), áudio e imagens de qualquer página da web. <sub>⭐ 210 · TypeScript</sub>
+- [mateogon/pdf-narrator](https://github.com/mateogon/pdf-narrator) - Converta seus PDFs e EPUBs em audiolivros sem esforço, com extração inteligente de texto, configurações personalizáveis de texto para fala e processamento eficiente para sistemas de baixo recurso. <sub>⭐ 210 · Python</sub>
+- [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Aplicativo experimental do macOS para fluxo de trabalho de voz em texto <sub>⭐ 209 · Swift</sub>
+- [ihuguet/picotts](https://github.com/ihuguet/picotts) - Pico TTS: texto para voz sintetizador de voz da SVOX, incluído no Android AOSP <sub>⭐ 209 · C</sub>
+- [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) - Estúdio de dublagem de vídeo AI em código aberto que custa $0.1/min (~20x mais barato do que alternativas como Onzelabs, Rask ou Speechify) <sub>⭐ 208 · TypeScript</sub>
+- [generalizingai/OpenStudio](https://github.com/generalizingai/OpenStudio) - OpenStudio - uma imagem de IA em código aberto, vídeo, cinema, bobinas e estúdio de sincronia labial alimentado por MuAPI <sub>⭐ 207 · JavaScript</sub>
+- [Ashish-Patnaik/kokoclone](https://github.com/Ashish-Patnaik/kokoclone) - Clonagem de Voz, agora dentro de Kokoro... gerar fala multilíngue natural e clonar qualquer voz alvo com facilidade. <sub>⭐ 203 · Python</sub>
+- [tanpreetjolly/browser-whisper](https://github.com/tanpreetjolly/browser-whisper) - Biblioteca NPM para transcrever áudio e vídeos completamente no navegador com WebGPU e WebCodecs. 100% privado e offline com WASM backbacks <sub>⭐ 203 · TypeScript</sub>
+- [YuriCrystal/ai-avatar-bot](https://github.com/YuriCrystal/ai-avatar-bot) - Live2D/VRM voz AI avatar com sincronia labial, base de conhecimento, painel de operações, suporte e análise <sub>⭐ 203 · JavaScript</sub>
+- [yerfor/SyntaSpeech](https://github.com/yerfor/SyntaSpeech) - SYNTA, CONHECIMENTOS DE SINAIS <sub>⭐ 201 · Python</sub>
+- [AndroidMaryTTS/AndroidMaryTTS](https://github.com/AndroidMaryTTS/AndroidMaryTTS) - Android Mary TTS - um sistema de síntese de texto para fala baseado em MaryTTS. <sub>⭐ 200 · Java</sub>
+- [ferranpons/Llamatik](https://github.com/ferranpons/Llamatik) - LLM, fala-texto e geração de imagens - alimentados por llama.cpp, sussurro.cpp e estável-difusão.cpp. <sub>⭐ 200 · Kotlin</sub>
+- [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) - Lista de ferramentas de voz e voz para Linux, MacOS, Windows, Android e iOS off-line, local e nuvem. <sub>⭐ 200 · Python</sub>
+- [Scthe/ai-iris-avatar](https://github.com/Scthe/ai-iris-avatar) - Use LLM, TTS, Unity e sincronia labial para dar vida ao personagem. <sub>⭐ 200 · C#</sub>
+- [WelkinYang/GradTTS](https://github.com/WelkinYang/GradTTS) - Implementação do "Grad-TTS: Um Modelo Probabilístico de Difusão para Texto-a-Fala" <sub>⭐ 200 · Python</sub>
+- [DarioFT/ComfyUI-Qwen3-ASR](https://github.com/DarioFT/ComfyUI-Qwen3-ASR) - Nós personalizados da ComfyUI para Qwen3-ASR (Reconhecimento Automático de Fala) - transcrição áudio-texto suportando 52 línguas e dialetos. <sub>⭐ 198 · Python</sub>
+- [keonlee9420/StyleSpeech](https://github.com/keonlee9420/StyleSpeech) - Implantação de Meta-Estilo de Expressão Multi-Falador Adaptive Text to Speech Generation <sub>⭐ 198 · Python</sub>
+- [dejan/espeak-ruby](https://github.com/dejan/espeak-ruby) - Embrulhador Ruby para 'falar' e 'lame' com açúcar em cima para criar arquivos de texto-para-fala MP3. <sub>⭐ 197 · Ruby</sub>
+- [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) - Uma lista com curadoria das últimas e mais influentes ferramentas, modelos e recursos no setor de texto para voz. <sub>⭐ 197</sub>
+
+## 🎞️ Pós-produção e restauração
+
+> Ampliação, colorização, restauração e edição assistida.
+
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - Uma super resolução de vídeo baseada em aprendizado de máquina e estrutura de interpolação. <sub>⭐ 21.9k · C++</sub>
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - Um Upscaler em tempo real de alta qualidade para vídeo Anime <sub>⭐ 21.5k · Jupyter Notebook</sub>
+- [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Estimativa de fluxo intermediário em tempo real para a Interpolação por vídeo. <sub>⭐ 5.6k · Python</sub>
+- [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline é um agente de edição de vídeo IA que transforma a edição manual em direcionamento intencional através da interação linguagem natural, planejamento alimentado por LLM, e… <sub>⭐ 3.5k · Python</sub>
+- [visomaster/VisoMaster](https://github.com/visomaster/VisoMaster) - Poderoso e fácil de usar o software de troca e edição de rostos de vídeo <sub>⭐ 2.1k · Python</sub>
+- [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption) - Uma edição completa de legendas de vídeo Reagir componente com reconhecimento de fala alimentado por IA e capacidade de edição visual. <sub>⭐ 1.8k · TypeScript</sub>
+- [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - Uma coleção de trabalhos baseados em Colorização de Imagens e Coloração de Vídeo. <sub>⭐ 1.2k</sub>
+- [sniklaus/sepconv-slomo](https://github.com/sniklaus/sepconv-slomo) - Uma implementação da Interpol de Vídeo com Convolução Separada Adaptativa usando PyTorch <sub>⭐ 1.0k · Python</sub>
+- [VisoMasterFusion/VisoMaster-Fusion](https://github.com/VisoMasterFusion/VisoMaster-Fusion) - Poderoso e fácil de usar o software de troca e edição de rostos de vídeo <sub>⭐ 940 · Python</sub>
+- [MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor) - Código aberto, primeiro editor de vídeo local onde criadores e agentes de IA editam a mesma linha do tempo real. <sub>⭐ 885 · JavaScript</sub>
+- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Filme de vídeo Interpolação e super resolução usando TensorRT da NVIDIA & Tencent NCNN inferência, lindamente elaborado e embalado em um único aplicativo <sub>⭐ 813 · JavaScript</sub>
+- [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) - Primeiro plano de controle local, agente-nativo para ComfyUI - servidor MCP + agente lateral que gera imagens, vídeo e áudio, autores e executa fluxos de trabalho, e edita seu gráfico ao vivo em… <sub>⭐ 779 · TypeScript</sub>
+- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Animação em tempo real subindo para 4K em MPV com modelos leves de super-resolução <sub>⭐ 754 · C#</sub>
+- [LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler](https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler) - Sub-escalador latente neural para Minimax H3 (24ch), passa caro 5B-param VAE decodificar/codificar, alta baixa resolução latente diretamente, depois refinar, acelera a geração de vídeo de alta… <sub>⭐ 698 · Python</sub>
+- [hetpatel-11/Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP) - Adobe Premiere Pro MCP, ferramentas para edição de vídeo com IA via MCP, para Codex, Claude e outros clientes MCP. <sub>⭐ 641 · TypeScript</sub>
+- [tschnz/Live-Video-Magnification](https://github.com/tschnz/Live-Video-Magnification) - Ampliação em tempo real de vídeo Euleriano: amplificar movimento sutil e cor a partir de webcam ou vídeo. <sub>⭐ 547 · C++</sub>
+- [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - Código-fonte grátis da ferramenta de upscaler de vídeo IA <sub>⭐ 543 · TypeScript</sub>
+- [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - Editor de vídeo com tecnologia de IA SDK construído com React, recursos linha do tempo da tela, edição drag-and-drop, legendas de IA e exportação MP4 sem servidor. <sub>⭐ 535 · TypeScript</sub>
+- [tarun005/FLAVR](https://github.com/tarun005/FLAVR) - Uma técnica de interpolação rápida e eficiente. <sub>⭐ 516 · Python</sub>
+- [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - Uma consolidação de vários produtos compilados com fonte aberta de imagem/vídeo para um CLI trabalhando amigável imagem e vídeo upscaling programa. <sub>⭐ 498 · Shell</sub>
+- [VelornLabs/velorn](https://github.com/VelornLabs/velorn) - Edição de vídeo nativa construída em torno de linhas de tempo criativas reais, fluxos de trabalho generativos e controle de agentes locais. <sub>⭐ 495 · JavaScript</sub>
+- [open-ribbi/velocut](https://github.com/open-ribbi/velocut) - O primeiro editor de vídeo local e nativo da Ribbi, é totalmente executado no navegador. <sub>⭐ 454 · TypeScript</sub>
+- [RafaelGodoyEbert/ViralCutter](https://github.com/RafaelGodoyEbert/ViralCutter) - Ferramenta gratuita para criar vídeos virais do YouTube, gerando clipes otimizados para TikTok e Instagram com transcrição automática e edição 9:16. <sub>⭐ 417 · Python</sub>
+- [zhangmozhe/Deep-Exemplar-based-Video-Colorization](https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization) - O código fonte do papel CVPR 2019 "Colorização de Vídeo Baseada em Exemplos". <sub>⭐ 370 · Python</sub>
+- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - Um repositório coletando imagens e recursos de aumento de vídeo, bem como meus próprios modelos de super resolução. <sub>⭐ 368</sub>
+- [ltkong218/IFRNet](https://github.com/ltkong218/IFRNet) - IFRNet: Rede de Refino Intermediário para Interpolação de Quadros Eficientes (CVPR 2022) <sub>⭐ 349 · Python</sub>
+- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - Reconstruí-lo como um projeto de HyperFrames editável com Codex e ChatGPT, comparar a partida, e exportar um MP4, aplicativo local para Windows e estúdio online. <sub>⭐ 347 · Python</sub>
+- [ahmetozlu/color_recognition](https://github.com/ahmetozlu/color_recognition) - Reconhecimento de cores, classificação e detecção em fluxo de webcam / em vídeo / em uma única imagem usando K-Nearest Neighbors (KNN) é treinado com características histograma de cor por OpenCV. <sub>⭐ 345 · Python</sub>
+- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - AI upscale, interpolação RIFE e restauração em uma passagem. <sub>⭐ 330 · Python</sub>
+- [0x09/resdet](https://github.com/0x09/resdet) - Detecte a resolução da fonte de imagens e vídeos em escala avançada. <sub>⭐ 313 · C</sub>
+- [AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) - Crie e edite tutoriais em vídeo de IA com lições ilustradas, apresentadores expressivos, vozes distintas e uma linha do tempo nativa. <sub>⭐ 313 · Python</sub>
+- [zzh-tech/InterpAny-Clearer](https://github.com/zzh-tech/InterpAny-Clearer) - Mais clara a qualquer momento interpolação e manipulação de qualquer coisa. <sub>⭐ 296 · Python</sub>
+- [aregrid/frame](https://github.com/aregrid/frame) - Frame é um editor de vídeo com Vibe de código aberto, oferecendo uma alternativa profissional de corte para criadores, com interação tipo cursor, automatiza edição, melhora vídeos e entrega... <sub>⭐ 283</sub>
+- [Djdefrag/FluidFrames](https://github.com/Djdefrag/FluidFrames) - FluidFrames / vídeo AI frame-generation app <sub>⭐ 281 · Python</sub>
+- [the-database/VideoJaNai](https://github.com/the-database/VideoJaNai) - GUI para modelos ONNX com NVIDIA TensorRT e Vaporsynth <sub>⭐ 280 · C#</sub>
+- [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - (CVPR 2025) FaithDiff para Rejuvenescimento Clássico de Filme, Old Photo Revival, Restauração de Mídia Social, Melhoramento de Imagem e Melhoria AIGC. <sub>⭐ 273 · Python</sub>
+- [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) - NVIDIA DLSS 5 Neural Rendering (NGX feature 18) como nós ComfyUI. Melhorar lotes de imagem e arquivos de vídeo com o renderizador neural real, com upscaling opcional. <sub>⭐ 266 · Python</sub>
+- [mikigal/Anime4K-GUI](https://github.com/mikigal/Anime4K-GUI) - Aplicativo Upperscaler GUI baseado em sombreadores Anime4K que permite salvar vídeo upscaled para disco <sub>⭐ 265 · C++</sub>
+- [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript) - Editor de vídeo baseado em texto com código aberto, edite vídeo editando texto. <sub>⭐ 261 · TypeScript</sub>
+- [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Suíte para Windows com Real-ESRGAN, RealESRNet, RealESRAnime, BSRGAN, IRCNN, GFPGAN e RIFE. <sub>⭐ 251 · Python</sub>
+- [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) - A habilidade do agente Claude de código aberto que ensina Claude Code, Claude Desktop e Claude IA a criar e editar vídeos gráficos de movimento profissional com Remoção. <sub>⭐ 247 · TypeScript</sub>
+- [SaarD00/AI-Youtube-Shorts-Generator](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) - Uma fábrica de vídeo totalmente automatizada, que transforma tópicos na tendência em usar o YouTube Shorts usando Gemini AI, Edge-TTS e edição dinâmica FFmpeg. <sub>⭐ 232 · Python</sub>
+- [yuvraj108c/4k-video-upscaler-colab](https://github.com/yuvraj108c/4k-video-upscaler-colab) - Aumente seus vídeos até 4 mil no colábulo grátis do Google usando o Real-ESRGAN. <sub>⭐ 223 · Jupyter Notebook</sub>
+- [chatman-media/timeline-studio](https://github.com/chatman-media/timeline-studio) - Timeline Studio - Edição de vídeo com IA <sub>⭐ 222 · TypeScript</sub>
+- [mtsee/unicut](https://github.com/mtsee/unicut) - Ferramenta de edição de vídeo aberta dirigida por IA <sub>⭐ 213 · HTML</sub>
+- [xuliang2024/cutcli-cookbook](https://github.com/xuliang2024/cutcli-cookbook) - Cookbook, modelos JSON, alertas de IA e documentos para cutcli - o CapCut / Jianying () rascunho CLI. Gerar rascunhos de vídeo editáveis do código, Cursor, Claude Code ou qualquer agente MCP. <sub>⭐ 197 · JavaScript</sub>
+
+---
+[⬆️ Voltar ao topo](#-ia-para-filmmaker-e-cineasta) · [← Repositórios de IA por profissão](./README.md)

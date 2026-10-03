@@ -2,9 +2,11 @@
 
 > Vagas, trabalho remoto, freelas, produtividade, comunidades e acessibilidade.
 
-[🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
 
-| Área | O que cobre | Links | Essenciais |
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/carreira/README.md) · 🇪🇸 [Español](../../i18n/es/areas/carreira/README.md) · 🇨🇳 [中文](../../i18n/zh/areas/carreira/README.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/carreira/README.md) · 🇸🇦 [العربية](../../i18n/ar/areas/carreira/README.md) · 🇫🇷 [Français](../../i18n/fr/areas/carreira/README.md) · 🇮🇹 [Italiano](../../i18n/it/areas/carreira/README.md) · 🇰🇷 [한국어](../../i18n/ko/areas/carreira/README.md) · 🇷🇺 [Русский](../../i18n/ru/areas/carreira/README.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/carreira/README.md) · 🇯🇵 [日本語](../../i18n/ja/areas/carreira/README.md)
+
+| Área | O que cobre | 🔗 Links | ⭐ Essenciais |
 |---|---|:--:|:--:|
 | [💼 **Carreira e Vagas**](./carreira-vagas.md) | Vagas, currículo, entrevistas, roadmaps de carreira e salários. | 209 | 29 |
 | [🏝️ **Trabalho Remoto e Freelancer**](./trabalho-remoto-freela.md) | Vagas remotas, plataformas de freela, nômades digitais e gestão do próprio trabalho. | 181 | 25 |
@@ -14,21 +16,23 @@
 
 ## ⭐ Um gostinho de cada área
 
+> Os primeiros essenciais de cada área deste setor, para você sentir o que há em cada página.
+
 ### 💼 Carreira e Vagas
 
 - [LinkedIn Vagas](https://www.linkedin.com/jobs/) - Busca de vagas da maior rede profissional, com alertas e candidatura simplificada.
-- [Portal Gupy](https://portal.gupy.io/) - Portal com as vagas de milhares de empresas brasileiras que recrutam pela Gupy. <sub>pt-BR</sub>
-- [Glassdoor Brasil](https://www.glassdoor.com.br/) - Vagas, avaliações de empresas e faixas salariais informadas por funcionários. <sub>pt-BR</sub>
-- [Indeed Brasil](https://br.indeed.com/) - Buscador de vagas que agrega anúncios de vários sites e empresas. <sub>pt-BR</sub>
-- [Catho](https://www.catho.com.br/) - Site brasileiro de vagas com cadastro de currículo e guias de salário. <sub>pt-BR</sub>
+- [Portal Gupy](https://portal.gupy.io/) - Portal com as vagas de milhares de empresas brasileiras que recrutam pela Gupy. <sub>🇧🇷 pt-BR</sub>
+- [Glassdoor Brasil](https://www.glassdoor.com.br/) - Vagas, avaliações de empresas e faixas salariais informadas por funcionários. <sub>🇧🇷 pt-BR</sub>
+- [Indeed Brasil](https://br.indeed.com/) - Buscador de vagas que agrega anúncios de vários sites e empresas. <sub>🇧🇷 pt-BR</sub>
+- [Catho](https://www.catho.com.br/) - Site brasileiro de vagas com cadastro de currículo e guias de salário. <sub>🇧🇷 pt-BR</sub>
 
 → [Ver todos os 209 links de Carreira e Vagas](./carreira-vagas.md)
 
 ### 🏝️ Trabalho Remoto e Freelancer
 
-- [99Freelas](https://www.99freelas.com.br/) - Marketplace brasileiro de freelas em programação, design, redação e marketing. <sub>pt-BR</sub>
-- [GetNinjas](https://www.getninjas.com.br/) - Plataforma brasileira que conecta clientes a profissionais de centenas de serviços. <sub>pt-BR</sub>
-- [Remotar](https://www.remotar.com.br/) - Vagas 100% remotas em português, de tecnologia a marketing. <sub>pt-BR</sub>
+- [99Freelas](https://www.99freelas.com.br/) - Marketplace brasileiro de freelas em programação, design, redação e marketing. <sub>🇧🇷 pt-BR</sub>
+- [GetNinjas](https://www.getninjas.com.br/) - Plataforma brasileira que conecta clientes a profissionais de centenas de serviços. <sub>🇧🇷 pt-BR</sub>
+- [Remotar](https://www.remotar.com.br/) - Vagas 100% remotas em português, de tecnologia a marketing. <sub>🇧🇷 pt-BR</sub>
 - [Upwork](https://www.upwork.com/) - Maior marketplace global de freelancers, com projetos de todas as áreas.
 - [Fiverr](https://www.fiverr.com/) - Marketplace para vender serviços freelance em pacotes com preço fixo.
 
@@ -46,20 +50,20 @@
 
 ### 👋 Comunidades, Eventos e Conteúdo
 
-- [TabNews](https://www.tabnews.com.br/) - Comunidade brasileira de conteúdo sobre programação e tecnologia. <sub>pt-BR · comunidade</sub>
-- [r/brdev](https://www.reddit.com/r/brdev/) - Subreddit dos desenvolvedores brasileiros, com discussões de carreira e mercado. <sub>pt-BR · comunidade</sub>
-- [Stack Overflow em Português](https://pt.stackoverflow.com/) - Perguntas e respostas de programação em português. <sub>pt-BR · comunidade</sub>
-- [He4rt Developers](https://heartdevs.com/) - Comunidade brasileira que ajuda iniciantes com projetos, mentorias e Discord. <sub>pt-BR · comunidade</sub>
-- [Rocketseat](https://www.rocketseat.com.br/) - Escola brasileira de programação com grande comunidade no Discord. <sub>pt-BR · comunidade</sub>
+- [TabNews](https://www.tabnews.com.br/) - Comunidade brasileira de conteúdo sobre programação e tecnologia. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
+- [r/brdev](https://www.reddit.com/r/brdev/) - Subreddit dos desenvolvedores brasileiros, com discussões de carreira e mercado. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
+- [Stack Overflow em Português](https://pt.stackoverflow.com/) - Perguntas e respostas de programação em português. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
+- [He4rt Developers](https://heartdevs.com/) - Comunidade brasileira que ajuda iniciantes com projetos, mentorias e Discord. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
+- [Rocketseat](https://www.rocketseat.com.br/) - Escola brasileira de programação com grande comunidade no Discord. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
 
 → [Ver todos os 208 links de Comunidades, Eventos e Conteúdo](./comunidades.md)
 
 ### ♿ Acessibilidade
 
-- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) - Recomendação do W3C que define os critérios de acessibilidade para conteúdo web.
-- [WCAG 2.1 em português](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/) - Tradução oficial para o português das diretrizes WCAG 2.1, pelo W3C Brasil. <sub>pt-BR</sub>
-- [W3C WAI](https://www.w3.org/WAI/) - Portal da Iniciativa de Acessibilidade Web do W3C, com guias por perfil.
-- [eMAG](https://emag.governoeletronico.gov.br/) - Modelo de Acessibilidade em Governo Eletrônico, referência brasileira baseada na WCAG. <sub>pt-BR</sub>
-- [Lei Brasileira de Inclusão](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) - Lei 13.146/2015, que garante direitos das pessoas com deficiência, inclusive acesso digital. <sub>pt-BR</sub>
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) - Recomendação do W3C que define os critérios de acessibilidade para conteúdo web. <sub>📖 documentação</sub>
+- [WCAG 2.1 em português](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/) - Tradução oficial para o português das diretrizes WCAG 2.1, pelo W3C Brasil. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [W3C WAI](https://www.w3.org/WAI/) - Portal da Iniciativa de Acessibilidade Web do W3C, com guias por perfil. <sub>📖 documentação</sub>
+- [eMAG](https://emag.governoeletronico.gov.br/) - Modelo de Acessibilidade em Governo Eletrônico, referência brasileira baseada na WCAG. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Lei Brasileira de Inclusão](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) - Lei 13.146/2015, que garante direitos das pessoas com deficiência, inclusive acesso digital. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 
 → [Ver todos os 191 links de Acessibilidade](./acessibilidade.md)

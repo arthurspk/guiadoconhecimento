@@ -2,27 +2,32 @@
 
 > Redes sociais, criação de conteúdo, creators e agendamento. **180 links** nesta área: 13 essenciais escolhidos a dedo, 10 de inteligência artificial e 157 reunidos de 8 listas curadas.
 
-[← 📈 Marketing e Vendas](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 📈 Marketing e Vendas](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/marketing-vendas/social-media.md) · 🇪🇸 [Español](../../i18n/es/areas/marketing-vendas/social-media.md) · 🇨🇳 [中文](../../i18n/zh/areas/marketing-vendas/social-media.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/marketing-vendas/social-media.md) · 🇸🇦 [العربية](../../i18n/ar/areas/marketing-vendas/social-media.md) · 🇫🇷 [Français](../../i18n/fr/areas/marketing-vendas/social-media.md) · 🇮🇹 [Italiano](../../i18n/it/areas/marketing-vendas/social-media.md) · 🇰🇷 [한국어](../../i18n/ko/areas/marketing-vendas/social-media.md) · 🇷🇺 [Русский](../../i18n/ru/areas/marketing-vendas/social-media.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/marketing-vendas/social-media.md) · 🇯🇵 [日本語](../../i18n/ja/areas/marketing-vendas/social-media.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>13</sub> <br>
 [🤖 IA para Social Media e Conteúdo](#-ia-para-social-media-e-conteúdo) <sub>10</sub> <br>
-[◾ Curated Sites for Your Social Media Toolkit](#-curated-sites-for-your-social-media-toolkit) <sub>17</sub> <br>
-[◾ Official Resources](#-official-resources) <sub>14</sub> <br>
-[◾ APIs & SDKs](#-apis--sdks) <sub>12</sub> <br>
-[◾ Data & Analytics](#-data--analytics) <sub>10</sub> <br>
-[◾ Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento) <sub>8</sub> <br>
-[◾ Analytics and Tracking](#-analytics-and-tracking) <sub>7</sub> <br>
-[◾ Communities & Forums](#-communities--forums) <sub>6</sub> <br>
-[◾ Plataformas](#-plataformas) <sub>6</sub> <br>
-[◾ Third-Party Tools](#-third-party-tools) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>71</sub> <br>
+[🎁 Recursos Oficiais](#-recursos-oficiais) <sub>14</sub> <br>
+[🔌 APIs e SDKs](#-apis-e-sdks) <sub>12</sub> <br>
+[👥 Comunidades e Fóruns](#-comunidades-e-fóruns) <sub>12</sub> <br>
+[📊 Dados e Análise](#-dados-e-análise) <sub>10</sub> <br>
+[📊 Análise e Rastreamento](#-análise-e-rastreamento) <sub>8</sub> <br>
+[🛠️ Ferramentas de desenvolvimento](#️-ferramentas-de-desenvolvimento) <sub>8</sub> <br>
+[🟢 Plataformas.](#-plataformas) <sub>6</sub> <br>
+[🛠️ Ferramentas de Terceiros](#️-ferramentas-de-terceiros) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>81</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
-- [Instagram para Empresas](https://business.instagram.com/) - Recursos oficiais do Instagram para perfis comerciais, anúncios e conteúdo.
+> Os essenciais de Social Media e Conteúdo, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
+- [Instagram para Empresas](https://business.instagram.com/) - Recursos oficiais do Instagram para perfis comerciais, anúncios e conteúdo. <sub>📖 documentação</sub>
 - [Instagram Creators](https://creators.instagram.com/) - Dicas oficiais do Instagram para criadores de conteúdo, Reels e monetização.
 - [YouTube Creators](https://www.youtube.com/creators/) - Central oficial do YouTube com guias para crescer o canal e monetizar.
 - [Canva](https://www.canva.com/) - Editor de design online com modelos para posts, stories e vídeos (plano gratuito).
@@ -30,17 +35,17 @@
 - [Buffer Resources](https://buffer.com/resources/) - Artigos e pesquisas sobre estratégia de redes sociais e criação de conteúdo.
 - [Hootsuite Blog](https://blog.hootsuite.com/) - Guias atualizados sobre algoritmos, métricas e estratégia em cada rede social.
 - [Sprout Social Insights](https://sproutsocial.com/insights/) - Artigos, dados e modelos sobre gestão de redes sociais.
-- [mLabs](https://www.mlabs.com.br/) - Ferramenta brasileira para agendar posts e gerar relatórios de redes sociais. <sub>pt-BR</sub>
+- [mLabs](https://www.mlabs.com.br/) - Ferramenta brasileira para agendar posts e gerar relatórios de redes sociais. <sub>🇧🇷 pt-BR</sub>
 - [Later Blog](https://later.com/blog/) - Blog sobre Instagram, TikTok, creators e marketing de influência.
 - [Metricool](https://metricool.com/) - Agendamento e análise de redes sociais com plano gratuito.
 - [Social Media Examiner](https://www.socialmediaexaminer.com/) - Artigos e podcast sobre marketing em redes sociais.
-- [Pinterest Business](https://business.pinterest.com/pt-br/) - Recursos oficiais do Pinterest para empresas e anúncios. <sub>pt-BR</sub>
+- [Pinterest Business](https://business.pinterest.com/pt-br/) - Recursos oficiais do Pinterest para empresas e anúncios. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 
 ## 🤖 IA para Social Media e Conteúdo
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com social media e conteúdo. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Social Media e Conteúdo. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Canva AI](https://www.canva.com/magic/) - Recursos de IA do Canva para gerar designs, imagens e textos por conversa; disponível no plano gratuito com limites.
 - [Buffer AI Assistant](https://buffer.com/ai-assistant) - Assistente de IA do Buffer para gerar, reaproveitar e adaptar posts para várias redes; incluído no plano gratuito.
@@ -48,213 +53,228 @@
 - [Descript](https://www.descript.com) - Editor de vídeo e áudio por transcrição, com recursos de IA para limpar áudio, cortar e gerar clipes; tem plano gratuito.
 - [TikTok Symphony Creative Studio](https://ads.tiktok.com/business/en-US/blog/symphony-creative-studio) - Estúdio de IA do TikTok que gera vídeos, roteiros, avatares e dublagem a partir de dados do produto; gratuito para contas do TikTok for Business.
 - [Skill de social media (Marketing Skills)](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social) - Skill para agentes de IA planejarem e escreverem conteúdo para redes sociais; gratuita (MIT).
-- [YouTube: divulgação de conteúdo gerado por IA](https://support.google.com/youtube/answer/14328491?hl=pt-BR) - Regras oficiais sobre quando o criador deve declarar conteúdo realista alterado ou gerado por IA e as penalidades por omissão. <sub>pt-BR</sub>
-- [Meta: rotulagem de conteúdo gerado por IA](https://about.fb.com/news/2024/04/metas-approach-to-labeling-ai-generated-content-and-manipulated-media/) - Política da Meta para rótulos "AI info" em Facebook, Instagram e Threads e as regras de divulgação em anúncios.
+- [YouTube: divulgação de conteúdo gerado por IA](https://support.google.com/youtube/answer/14328491?hl=pt-BR) - Regras oficiais sobre quando o criador deve declarar conteúdo realista alterado ou gerado por IA e as penalidades por omissão. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Meta: rotulagem de conteúdo gerado por IA](https://about.fb.com/news/2024/04/metas-approach-to-labeling-ai-generated-content-and-manipulated-media/) - Política da Meta para rótulos "AI info" em Facebook, Instagram e Threads e as regras de divulgação em anúncios. <sub>📖 documentação</sub>
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Ezoic](https://www.ezoic.com/) - An AI-driven platform for optimizing ad placements and increasing revenue.
-- [HireEZ](https://hireez.com/) - AI-powered recruitment tool with LinkedIn sourcing integration.
+- [Ezoic](https://www.ezoic.com/) - Uma plataforma orientada por IA para otimizar anúncios e aumentar a receita.
+- [HireEZ](https://hireez.com/) - Ferramenta de recrutamento com tecnologia de inteligência artificial com integração de fornecimentos do LinkedIn.
 
-## ◾ Curated Sites for Your Social Media Toolkit
+## 🎁 Recursos Oficiais
 
-- [About Me](https://about.me/) <sub>comunidade</sub>
-- [AllMyLinks](https://allmylinks.com/)
-- [Beacons AI](https://beacons.ai/fitehal)
-- [Bio.fm](https://bio.fm/)
-- [BioLinky.co](https://biolinky.co/)
-- [Biolincs](https://biolinc.me/)
-- [Biosites](https://biosites.com/)
-- [Bitly](https://bitly.com/pages/products/link-in-bio)
-- [Bento](https://bento.me/en/home)
-- [bio.link](https://bio.link/)
-- [Campsite Bio](https://app.campsite.bio/create-account)
-- [Carrd](https://carrd.co/build)
-- [ContactInBio](https://www.contactinbio.com/)
-- [Divsly Link in Bio](https://divsly.com/features/link-in-bio)
-- [Elink](https://elink.io/)
-- [Everlinks](https://everlink.tools/)
-- [Feedlink](https://feed.link/)
+> 14 links de Recursos Oficiais em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
 
-## ◾ Official Resources
+- [Instagram for Developers](https://developers.facebook.com/docs/instagram) - Documentação oficial da plataforma do Instagram. <sub>📖 documentação</sub>
+- [LinkedIn Developer Portal](https://developer.linkedin.com/) - Documentação oficial, APIs e SDKs. <sub>📖 documentação</sub>
+- [X Developer Platform](https://developer.x.com/) - Portal oficial de desenvolvimento para construção em X. <sub>📖 documentação</sub>
+- [YouTube Help Center](https://support.google.com/youtube/) - Apoio oficial e artigos de ajuda.
+- [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) - Acesse contas de negócios do Instagram e informações de usuários. <sub>📖 documentação</sub>
+- [LinkedIn Marketing Solutions](https://business.linkedin.com/marketing-solutions) - Publicidade e ferramentas de marketing de conteúdo.
+- [X API Documentation](https://developer.x.com/en/docs) - REST, Streaming e documentação da API de anúncios. <sub>📖 documentação</sub>
+- [YouTube Creator Academy](https://creatoracademy.youtube.com/) - Cursos gratuitos para criadores de conteúdo do YouTube.
+- [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api) - Consiga informações básicas de perfil e mídia de contas pessoais. <sub>📖 documentação</sub>
+- [LinkedIn Help Center](https://www.linkedin.com/help/linkedin) - Guias de plataforma e suporte.
+- [X Help Center](https://help.x.com/) - Apoio oficial para usuários e desenvolvedores.
+- [YouTube for Press](https://www.youtube.com/intl/en-GB/about/press/) - Recursos oficiais da mídia. <sub>🎬 vídeo</sub>
+- [Instagram Business Help Center](https://business.instagram.com/getting-started) - Orientação oficial para empresas usando o Instagram.
+- [X Terms of Service](https://x.com/tos) - Termos e políticas da plataforma.
 
-- [Instagram for Developers](https://developers.facebook.com/docs/instagram) - Official Instagram platform documentation.
-- [LinkedIn Developer Portal](https://developer.linkedin.com/) - Official documentation, APIs, and SDKs.
-- [X Developer Platform](https://developer.x.com/) - Official developer portal for building on X.
-- [YouTube Help Center](https://support.google.com/youtube/) - Official support and help articles.
-- [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) - Access Instagram Business accounts and user insights.
-- [LinkedIn Marketing Solutions](https://business.linkedin.com/marketing-solutions) - Advertising and content marketing tools.
-- [X API Documentation](https://developer.x.com/en/docs) - REST, Streaming, and Ads API documentation.
-- [YouTube Creator Academy](https://creatoracademy.youtube.com/) - Free courses for YouTube content creators.
-- [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api) - Fetch basic profile info and media from personal accounts.
-- [LinkedIn Help Center](https://www.linkedin.com/help/linkedin) - Platform guides and support.
-- [X Help Center](https://help.x.com/) - Official support for users and developers.
-- [YouTube for Press](https://www.youtube.com/intl/en-GB/about/press/) - Official media resources.
-- [Instagram Business Help Center](https://business.instagram.com/getting-started) - Official guidance for businesses using Instagram.
-- [X Terms of Service](https://x.com/tos) - Platform terms and policies.
+## 🔌 APIs e SDKs
 
-## ◾ APIs & SDKs
+> 12 links de APIs e SDKs em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
 
-- [LinkedIn REST API](https://learn.microsoft.com/en-us/linkedin/) - Official LinkedIn API for accessing profile, connections, jobs, and more.
-- [pyInstagram](https://github.com/facebookarchive/python-instagram) - Deprecated Python SDK for Instagram (historical reference).
-- [LinkedIn JavaScript SDK](https://learn.microsoft.com/en-us/linkedin/shared/authentication/javascript-sdk) - Client-side integration for login and sharing.
-- [X v2 API](https://developer.x.com/en/docs/twitter-api) - Latest version of the Twitter/X API.
-- [Instagram4j](https://github.com/Instagram4j/Instagram4j) - Java library for interacting with Instagram (Unofficial).
-- [pyLinkedIn](https://github.com/ozgur/python-linkedin) - Python library for LinkedIn REST APIs (Unofficial).
-- [X Ads API](https://developer.x.com/en/docs/twitter-ads-api) - Manage ad campaigns on X.
-- [Instaloader](https://github.com/instaloader/instaloader) - Download public Instagram photos, videos, and metadata.
-- [linkedin-api](https://github.com/tomquirk/linkedin-api) - Unofficial Python library for LinkedIn API interactions.
-- [tweepy](https://www.tweepy.org/) - Popular Python library for accessing the Twitter API.
-- [linkedin-private-api](https://github.com/eilonmore/linkedin-private-api) - Node.js wrapper for LinkedIn's private API (Unofficial).
-- [Twitter4J](https://twitter4j.org/en/index.html) - Java library for the Twitter API.
+- [LinkedIn REST API](https://learn.microsoft.com/en-us/linkedin/) - API oficial do LinkedIn para acessar perfil, conexões, empregos e muito mais.
+- [pyInstagram](https://github.com/facebookarchive/python-instagram) - Python desatualizado SDK para Instagram (referência histórica).
+- [LinkedIn JavaScript SDK](https://learn.microsoft.com/en-us/linkedin/shared/authentication/javascript-sdk) - Integração do lado cliente para login e compartilhamento.
+- [X v2 API](https://developer.x.com/en/docs/twitter-api) - Última versão da API Twitter/X. <sub>📖 documentação</sub>
+- [Instagram4j](https://github.com/Instagram4j/Instagram4j) - Biblioteca Java para interagir com o Instagram (não oficial).
+- [pyLinkedIn](https://github.com/ozgur/python-linkedin) - Biblioteca Python para as APIs do LinkedIn REST (não oficial).
+- [X Ads API](https://developer.x.com/en/docs/twitter-ads-api) - Gerencie campanhas publicitárias em X. <sub>📖 documentação</sub>
+- [Instaloader](https://github.com/instaloader/instaloader) - Baixe fotos públicas do Instagram, vídeos e metadados.
+- [linkedin-api](https://github.com/tomquirk/linkedin-api) - Biblioteca Python não oficial para interações com a API do LinkedIn.
+- [tweepy](https://www.tweepy.org/) - Biblioteca Python popular para acessar a API do Twitter.
+- [linkedin-private-api](https://github.com/eilonmore/linkedin-private-api) - Node.js embrulho para API privada do LinkedIn (não oficial).
+- [Twitter4J](https://twitter4j.org/en/index.html) - Biblioteca Java para a API do Twitter.
 
-## ◾ Data & Analytics
+## 👥 Comunidades e Fóruns
 
-- [Instagram Insights](https://business.instagram.com/insights) - Official analytics for business accounts.
-- [LinkedIn Analytics](https://www.linkedin.com/help/linkedin/answer/4499) - Official analytics dashboard for profiles, pages, and posts.
-- [Social Blade: Instagram](https://socialblade.com/instagram/) - Public account stats and analytics.
-- [Shield Analytics](https://shieldapp.ai/) - Analytics for personal LinkedIn accounts.
-- [Twitter Data Tools](https://tools.digitalmethods.net/beta/twittertools/) - Academic tools for analyzing Twitter data.
-- [HypeAuditor](https://hypeauditor.com/) - Influencer analytics and audience verification.
-- [Socialinsider LinkedIn Analytics](https://www.socialinsider.io/) - LinkedIn Page performance tracking.
-- [NodeXL](https://www.smrfoundation.org/nodexl/) - Social network analysis for Twitter and other platforms.
-- [Phlanx Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) - Check account engagement rates.
-- [Social Bearing](https://socialbearing.com/) - Free analytics for Twitter searches and accounts.
+> 12 links de Comunidades e Fóruns em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
 
-## ◾ Ferramentas de desenvolvimento
+- [r/LinkedIn](https://www.reddit.com/r/LinkedIn/) - Comunidade Reddit sobre temas do LinkedIn. <sub>👥 comunidade</sub>
+- [Twitter Developer Community](https://twittercommunity.com/) - Foros oficiais para desenvolvedores.
+- [r/LinkedInMarketing](https://www.reddit.com/r/LinkedInMarketing/) - Marketing LinkedIn e discussões de estratégia de conteúdo. <sub>👥 comunidade</sub>
+- [r/Twitter](https://www.reddit.com/r/twitter/) - Discussão no Twitter, subreddit. <sub>👥 comunidade</sub>
+- [r/Instagram](https://www.reddit.com/r/Instagram/) - Debates gerais sobre Instagram. <sub>👥 comunidade</sub>
+- [Stack Overflow: LinkedIn API](https://stackoverflow.com/questions/tagged/linkedin) - Perguntas técnicas para APIs do LinkedIn.
+- [Twitter/X Discord Communities](https://discord.com/invite/twitter) - Desenvolvedor e grupos sociais. <sub>👥 comunidade</sub>
+- [YouTube Community](https://support.google.com/youtube/community) - Fórum de ajuda oficial da comunidade.
+- [r/InstagramMarketing](https://www.reddit.com/r/InstagramMarketing/) - Comunidade para temas de marketing do Instagram. <sub>👥 comunidade</sub>
+- [r/YouTube](https://www.reddit.com/r/YouTube/) - Comunidade Reddit para discussões gerais no YouTube. <sub>👥 comunidade</sub>
+- [Stack Overflow: Instagram Graph API](https://stackoverflow.com/questions/tagged/instagram-graph-api) - Perguntas técnicas.
+- [r/NewTubers](https://www.reddit.com/r/NewTubers/) - Comunidade para novos criadores do YouTube. <sub>👥 comunidade</sub>
 
-- [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test Graph API queries, including Instagram endpoints.
-- [Access Token Debugger](https://developers.facebook.com/tools/debug/accesstoken/) - Inspect and debug Instagram API tokens.
-- [Postman LinkedIn API Collection](https://www.postman.com/) - Explore LinkedIn API endpoints (user-generated collections available).
-- [Postman Twitter API Collection](https://github.com/twitterdev/twitter-api-postman-collections) - Test and explore X APIs using Postman.
-- [Instagram App Dashboard](https://developers.facebook.com/apps/) - Manage your Instagram app integrations.
-- [OAuth 2.0 Tester](https://www.linkedin.com/developers/tools/oauth) - LinkedIn OAuth token generation tool.
-- [Hydrator](https://github.com/DocNow/hydrator) - Tool for hydrating Tweet IDs into full Tweet objects using the Twitter API.
-- [Twitter Developer Labs](https://developer.x.com/en/docs/twitter-labs) - Experimental APIs and features.
+## 📊 Dados e Análise
 
-## ◾ Analytics and Tracking
+> 10 links de Dados e Análise em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
 
-- [Google Analytics](https://analytics.google.com/) - Measure and analyze website traffic from social media.
-- [Buzzsumo](https://buzzsumo.com/) - Discover the most shared content and influencers for any topic.
-- [Brand24](https://brand24.com/) - Monitor and track social media mentions of your brand.
-- [Chartable](https://chartable.com/) - Track podcast downloads and audience growth.
-- [Google Podcasts Manager](https://podcastsmanager.google.com/) - Get insights into how listeners find your podcast on Google.
-- [Podtrac](https://analytics.podtrac.com/) - A free podcast analytics tool.
-- [Apple Podcasts Connect](https://podcastsconnect.apple.com/) - Manage and analyze your podcast's performance on Apple Podcasts.
+- [Instagram Insights](https://business.instagram.com/insights) - Análise oficial para contas de negócios.
+- [LinkedIn Analytics](https://www.linkedin.com/help/linkedin/answer/4499) - Painel de análise oficial para perfis, páginas e postagens.
+- [Social Blade: Instagram](https://socialblade.com/instagram/) - Estatísticas de contas públicas e análises.
+- [Shield Analytics](https://shieldapp.ai/) - Análise para contas pessoais do LinkedIn.
+- [Twitter Data Tools](https://tools.digitalmethods.net/beta/twittertools/) - Ferramentas acadêmicas para analisar dados do Twitter.
+- [HypeAuditor](https://hypeauditor.com/) - Análise de influência e verificação do público.
+- [Socialinsider LinkedIn Analytics](https://www.socialinsider.io/) - Rastreamento de desempenho da página do LinkedIn.
+- [NodeXL](https://www.smrfoundation.org/nodexl/) - Análise de rede social para o Twitter e outras plataformas.
+- [Phlanx Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) - Verifique as taxas de engajamento da conta.
+- [Social Bearing](https://socialbearing.com/) - Análise gratuita para buscas no Twitter e contas.
 
-## ◾ Communities & Forums
+## 📊 Análise e Rastreamento
 
-- [r/LinkedIn](https://www.reddit.com/r/LinkedIn/) - Reddit community about LinkedIn topics. <sub>comunidade</sub>
-- [Twitter Developer Community](https://twittercommunity.com/) - Official forums for developers.
-- [r/LinkedInMarketing](https://www.reddit.com/r/LinkedInMarketing/) - LinkedIn marketing and content strategy discussions. <sub>comunidade</sub>
-- [r/Twitter](https://www.reddit.com/r/twitter/) - Twitter discussion subreddit. <sub>comunidade</sub>
-- [r/Instagram](https://www.reddit.com/r/Instagram/) - General discussions about Instagram. <sub>comunidade</sub>
-- [Stack Overflow: LinkedIn API](https://stackoverflow.com/questions/tagged/linkedin) - Technical Q&A for LinkedIn APIs.
+> 8 links de Análise e Rastreamento em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
 
-## ◾ Plataformas
+- [Google Analytics](https://analytics.google.com/) - Medir e analisar o tráfego de sites das redes sociais.
+- [Buzzsumo](https://buzzsumo.com/) - Descubra o conteúdo mais compartilhado e influenciadores para qualquer tópico.
+- [Brand24](https://brand24.com/) - Monitore e rastreie as mídias sociais que mencionam sua marca.
+- [Chartable](https://chartable.com/) - Rastreie downloads de podcast e o crescimento do público.
+- [Google Podcasts Manager](https://podcastsmanager.google.com/) - Descubra como os ouvintes acham seu podcast no Google.
+- [Podtrac](https://analytics.podtrac.com/) - Uma ferramenta de análise gratuita de podcasts.
+- [Apple Podcasts Connect](https://podcastsconnect.apple.com/) - Gerencie e analise o desempenho do seu podcast na Apple Podcasts.
+- [Spotify for Podcasters](https://podcasters.spotify.com/) - Insights e análises para podcasts no Spotify.
 
-- [WordPress](https://wordpress.org/) - The most popular blogging platform, with a vast ecosystem of plugins and themes.
-- [Ghost](https://ghost.org/) - A modern, open-source platform for professional publishing.
-- [Blogger](https://www.blogger.com/) - A free platform by Google, ideal for beginners.
-- [Jekyll](https://jekyllrb.com/) - A static site generator, perfect for developers who prefer writing in Markdown.
-- [Medium](https://medium.com/) - A popular platform for sharing articles and stories with a built-in audience.
-- [Substack](https://substack.com/) - A platform for newsletters and paid subscriptions.
+## 🛠️ Ferramentas de desenvolvimento
 
-## ◾ Third-Party Tools
+> 8 links de Ferramentas de desenvolvimento em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
 
-- [BirdIQ](https://birdiq.io/) - Twitter analytics and follower insights.
-- [Twarc](https://github.com/DocNow/twarc) - Command-line tool and Python library for collecting Twitter data.
-- [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) - Automate workflows with Instagram.
-- [Twitter Archive Parser](https://github.com/DocNow/twitter-archive-parser) - Extract and analyze data from Twitter archive files.
-- [Combin](https://www.combin.com/) - Instagram growth and engagement software.
-- [Preview App](https://thepreviewapp.com/) - Plan and design Instagram feed layouts.
+- [Facebook Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Consultas de API do Gráfico de Teste, incluindo terminais do Instagram. <sub>📖 documentação</sub>
+- [Access Token Debugger](https://developers.facebook.com/tools/debug/accesstoken/) - Inspecione e depura fichas da API do Instagram. <sub>📖 documentação</sub>
+- [Postman LinkedIn API Collection](https://www.postman.com/) - Explore os endpoints da API do LinkedIn (coleções geradas pelo usuário disponíveis).
+- [Postman Twitter API Collection](https://github.com/twitterdev/twitter-api-postman-collections) - Teste e explore APIs X usando o Postman.
+- [Instagram App Dashboard](https://developers.facebook.com/apps/) - Gerencie suas integrações de aplicativos do Instagram. <sub>📖 documentação</sub>
+- [OAuth 2.0 Tester](https://www.linkedin.com/developers/tools/oauth) - Ferramenta de geração de fichas do LinkedIn OAuth.
+- [Hydrator](https://github.com/DocNow/hydrator) - Ferramenta para hidratar IDs de Tweet em objetos completos usando a API do Twitter.
+- [Twitter Developer Labs](https://developer.x.com/en/docs/twitter-labs) - APIs experimentais e recursos. <sub>📖 documentação</sub>
 
-## ◾ Mais links
+## 🟢 Plataformas.
 
-- [What is Podcasting?](https://en.wikipedia.org/wiki/Podcast) - An overview of podcasting and its history.
-- [The Podcast Host](https://www.thepodcasthost.com/) - Tips, tools, and tutorials for starting a podcast.
-- [Podnews](https://podnews.net/) - Daily news and updates from the podcasting world.
-- [Hootsuite](https://hootsuite.com/) - Manage and schedule posts across multiple social media platforms.
-- [Buffer](https://buffer.com/) - Plan, create, and schedule content for social media.
-- [Sprout Social](https://sproutsocial.com/) - Social media management and analytics platform.
-- [Later](https://later.com/) - Visual social media planner and scheduler.
-- [TweetDeck](https://tweetdeck.twitter.com/) - Monitor and manage Twitter activity with customizable columns.
-- [Audacity](https://www.audacityteam.org/) - Free, open-source audio editing software. <sub>curso</sub>
-- [Adobe Audition](https://www.adobe.com/products/audition.html) - Professional audio editing software with advanced features.
-- [GarageBand](https://www.apple.com/mac/garageband/) - A beginner-friendly audio editor for Mac users.
-- [Reaper](https://www.reaper.fm/) - A versatile digital audio workstation for recording and editing.
-- [Hindenburg Journalist](https://hindenburg.com/) - A podcasting-specific audio editing tool.
-- [TubeBuddy](https://www.tubebuddy.com/) - Browser extension for channel management and optimization.
-- [vidIQ](https://vidiq.com/) - YouTube channel growth and analytics tool.
-- [Canva](https://www.canva.com/youtube/) - Graphics and thumbnails creation for YouTube.
-- [StreamYard](https://streamyard.com/) - Browser-based live streaming tool.
-- [Adobe Spark](https://spark.adobe.com/) - Easily create videos, graphics, and web pages for social media.
-- [Unsplash](https://unsplash.com/) - A collection of high-quality, royalty-free images for your social media posts.
-- [Pexels](https://pexels.com/) - Another great source for free stock photos and videos.
-- [ThemeForest](https://themeforest.net/category/blogging) - A marketplace for premium blog themes for various platforms.
-- [GeneratePress](https://generatepress.com/) - A lightweight WordPress theme designed for speed and usability.
-- [Hugo Themes](https://themes.gohugo.io/) - A collection of themes for the Hugo static site generator.
-- [Bootstrap Blog Templates](https://startbootstrap.com/themes/blog/) - Free and premium blog templates built with Bootstrap.
-- [LinkStack](https://github.com/LinkStackOrg/LinkStack)
-- [Social Blade](https://socialblade.com/) - Analytics and statistics for YouTube channels.
-- [Noxinfluencer](https://www.noxinfluencer.com/) - Influencer marketing and analytics platform for YouTube.
-- [Keyword Tool for YouTube](https://keywordtool.io/youtube) - Discover keywords and tags for YouTube videos.
-- [Awesome Community](https://github.com/peterkokot/awesome-community) <sub>lista awesome</sub>
-- [Buzzsprout](https://www.buzzsprout.com/) - An easy-to-use podcast hosting platform with analytics.
-- [Anchor](https://anchor.fm/) - A free podcast hosting platform with built-in recording tools.
-- [Libsyn](https://libsyn.com/) - One of the oldest and most popular podcast hosting platforms.
-- [Podbean](https://www.podbean.com/) - Hosting and monetization tools for podcasters.
-- [Transistor](https://transistor.fm/) - A platform for hosting and distributing podcasts.
-- [Sprinklr](https://www.sprinklr.com/) - End-to-end social media management and customer experience platform.
-- [Zendesk](https://www.zendesk.com/) - Customer service and engagement platform for managing social media interactions.
-- [Slack](https://slack.com/) - Collaborative communication platform to engage with your team and community. <sub>comunidade</sub>
-- [Grammarly](https://www.grammarly.com/) - A tool for checking grammar, spelling, and style.
-- [Hemingway App](https://hemingwayapp.com/) - An app that helps make your writing clear and concise.
-- [Evernote](https://evernote.com/) - A powerful note-taking tool for organizing blog ideas.
-- [Notion](https://www.notion.so/) - An all-in-one workspace for planning, writing, and organizing content.
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional-grade video editing and color grading software.
-- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Open-source, local-first toolkit for agent-driven video composition, editing, and transcription.
-- [Shotcut](https://shotcut.org/) - Open-source, cross-platform video editor.
-- [LinkedIn Ads](https://www.linkedin.com/campaignmanager/) - Self-serve ad platform.
-- [Canva](https://www.canva.com/create/instagram-posts/) - Design tools specifically for Instagram visuals.
-- [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) - Design professional LinkedIn posts and banners.
-- [Instagram Creator Studio](https://business.facebook.com/creatorstudio/) - Manage content, monetization, and insights for Instagram accounts.
-- [Headliner](https://www.headliner.app/) - Create audiograms and shareable video clips from your episodes.
-- [Aweber](https://www.aweber.com/) - An email marketing platform for engaging your audience.
-- [Linktree](https://linktr.ee/) - Share all your podcast links in one place.
-- [YouTube Data API](https://developers.google.com/youtube/v3) - Official API for accessing YouTube data.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line YouTube video downloader.
-- [pytube](https://github.com/pytube/pytube) - Python library for downloading YouTube content.
-- [SEMrush](https://www.semrush.com/) - A comprehensive tool for SEO, content marketing, and social media.
-- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - A popular WordPress plugin for on-page SEO optimization.
-- [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/) - A tool for finding the right keywords to target.
-- [Moz](https://moz.com/) - An SEO platform with tools for keyword research, link building, and site audits.
-- [Facebook Ads Manager](https://www.facebook.com/business/ads) - Create and manage Facebook and Instagram ad campaigns.
-- [Google Ads](https://ads.google.com/) - Advertise on Google Search, YouTube, and other Google properties.
-- [LinkedIn Ads](https://www.linkedin.com/ad) - Run targeted advertising campaigns on LinkedIn.
-- [Twitter Ads](https://ads.twitter.com/) - Promote your content and reach your audience on Twitter.
-- [LinkedIn Talent Solutions](https://business.linkedin.com/talent-solutions) - Official LinkedIn recruitment products.
-- [PhantomBuster LinkedIn Automations](https://phantombuster.com/phantoms/linkedin) - Automate LinkedIn outreach and data scraping.
-- [Think Media](https://www.youtube.com/c/ThinkMediaTV) - YouTube channel about growing a YouTube channel and video production tips. <sub>canal</sub>
-- [Video Influencers](https://www.youtube.com/c/videoinfluencers) - YouTube marketing and growth strategies. <sub>canal</sub>
-- [Justin Brown – Primal Video](https://www.youtube.com/c/primalvideo) - Tutorials on video editing and YouTube growth. <sub>canal</sub>
-- [Matomo](https://matomo.org/) - An open-source web analytics platform that respects user privacy.
-- [Hotjar](https://www.hotjar.com/) - A tool for understanding user behavior through heatmaps and session recordings.
-- [Influence.co](https://influence.co/) - Discover and connect with influencers in your industry.
-- [BuzzStream](https://www.buzzstream.com/) - Manage and track influencer outreach campaigns.
+> 6 links de Plataformas. em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
+
+- [WordPress](https://wordpress.org/) - A plataforma de blogs mais popular, com um vasto ecossistema de plugins e temas.
+- [Ghost](https://ghost.org/) - Uma moderna plataforma de código aberto para publicação profissional.
+- [Blogger](https://www.blogger.com/) - Uma plataforma gratuita do Google, ideal para iniciantes.
+- [Jekyll](https://jekyllrb.com/) - Um gerador estático, perfeito para desenvolvedores que preferem escrever em Markdown.
+- [Medium](https://medium.com/) - Uma plataforma popular para compartilhar artigos e histórias com uma audiência integrada.
+- [Substack](https://substack.com/) - Uma plataforma para boletins e assinaturas pagas.
+
+## 🛠️ Ferramentas de Terceiros
+
+> 6 links de Ferramentas de Terceiros em Social Media e Conteúdo, reunidos das listas curadas da comunidade.
+
+- [BirdIQ](https://birdiq.io/) - Análises no Twitter e insights de seguidores.
+- [Twarc](https://github.com/DocNow/twarc) - Ferramenta de linha de comando e biblioteca Python para coletar dados do Twitter.
+- [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) - Automatize fluxos de trabalho com o Instagram.
+- [Twitter Archive Parser](https://github.com/DocNow/twitter-archive-parser) - Extrair e analisar dados de arquivos do Twitter.
+- [Combin](https://www.combin.com/) - Software de crescimento e engajamento do Instagram.
+- [Preview App](https://thepreviewapp.com/) - Planeje e projete layouts de feed do Instagram.
+
+## 🧺 Mais links
+
+> Links de Social Media e Conteúdo que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [What is Podcasting?](https://en.wikipedia.org/wiki/Podcast) - Uma visão geral do podcast e sua história.
+- [The Podcast Host](https://www.thepodcasthost.com/) - Dicas, ferramentas e tutoriais para começar um podcast.
+- [Podnews](https://podnews.net/) - Notícias diárias e atualizações do mundo dos podcasts.
+- [Hootsuite](https://hootsuite.com/) - Gerencie e programe posts em várias plataformas de mídia social.
+- [Buffer](https://buffer.com/) - Planeje, crie e programe conteúdo para redes sociais.
+- [Sprout Social](https://sproutsocial.com/) - Plataforma de gerenciamento e análise de mídia social.
+- [Later](https://later.com/) - Planejador visual de redes sociais e agendador.
+- [TweetDeck](https://tweetdeck.twitter.com/) - Monitore e gerencie a atividade do Twitter com colunas personalizáveis.
+- [LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack, a melhor solução para criar uma página de perfil personalizado e profissional.
+- [Awesome Community](https://github.com/peterkokot/awesome-community) - Uma lista de programação, desenvolvimento, suporte técnico e canais de discussão, grupos, comunidades, recursos e outras coisas brilhantes. <sub>📋 lista awesome</sub>
+- [Audacity](https://www.audacityteam.org/) - Software de edição de áudio livre e aberto. <sub>🎓 curso</sub>
+- [Adobe Audition](https://www.adobe.com/products/audition.html) - Software profissional de edição de áudio com recursos avançados.
+- [GarageBand](https://www.apple.com/mac/garageband/) - Um editor de áudio para usuários Mac.
+- [Reaper](https://www.reaper.fm/) - Uma estação de áudio digital versátil para gravação e edição.
+- [Hindenburg Journalist](https://hindenburg.com/) - Uma ferramenta de edição de áudio específica para podcast.
+- [TubeBuddy](https://www.tubebuddy.com/) - Extensão do navegador para gerenciamento de canais e otimização.
+- [vidIQ](https://vidiq.com/) - Ferramenta de crescimento e análise do canal do YouTube.
+- [Canva](https://www.canva.com/youtube/) - Criação de gráficos e miniaturas para o YouTube.
+- [StreamYard](https://streamyard.com/) - Ferramenta de transmissão ao vivo baseada em navegador.
+- [Adobe Spark](https://spark.adobe.com/) - Facilmente criar vídeos, gráficos e páginas web para redes sociais.
+- [Unsplash](https://unsplash.com/) - Uma coleção de imagens de alta qualidade e sem direitos autorais para seus posts nas redes sociais.
+- [Pexels](https://pexels.com/) - Outra ótima fonte de fotos e vídeos grátis.
+- [ThemeForest](https://themeforest.net/category/blogging) - Um mercado de blogs premium para várias plataformas.
+- [GeneratePress](https://generatepress.com/) - Um tema WordPress leve projetado para velocidade e usabilidade.
+- [Hugo Themes](https://themes.gohugo.io/) - Uma coleção de temas para o gerador estático Hugo.
+- [Bootstrap Blog Templates](https://startbootstrap.com/themes/blog/) - Modelos de blog gratuitos e premium construídos com Bootstrap.
+- [Social Blade](https://socialblade.com/) - Análise e estatísticas para canais do YouTube.
+- [Noxinfluencer](https://www.noxinfluencer.com/) - Plataforma de marketing e análise para o YouTube.
+- [Keyword Tool for YouTube](https://keywordtool.io/youtube) - Descubra palavras-chave e etiquetas para vídeos do YouTube.
+- [Buzzsprout](https://www.buzzsprout.com/) - Uma plataforma de hospedagem fácil de usar com análise.
+- [Anchor](https://anchor.fm/) - Uma plataforma de hospedagem gratuita com ferramentas de gravação integradas.
+- [Libsyn](https://libsyn.com/) - Uma das plataformas de hospedagem mais antigas e populares.
+- [Podbean](https://www.podbean.com/) - Ferramentas de hospedagem e monetização para podcasters.
+- [Transistor](https://transistor.fm/) - Uma plataforma para hospedagem e distribuição de podcasts.
+- [Sprinklr](https://www.sprinklr.com/) - Gestão de mídias sociais e plataforma de experiência do cliente.
+- [Zendesk](https://www.zendesk.com/) - Atendimento ao cliente e plataforma de engajamento para gerenciar interações nas redes sociais.
+- [Slack](https://slack.com/) - Plataforma de comunicação colaborativa para se envolver com sua equipe e comunidade. <sub>👥 comunidade</sub>
+- [Grammarly](https://www.grammarly.com/) - Uma ferramenta para verificar gramática, ortografia e estilo.
+- [Hemingway App](https://hemingwayapp.com/) - Um aplicativo que ajuda a tornar sua escrita clara e concisa.
+- [Evernote](https://evernote.com/) - Uma poderosa ferramenta de anotações para organizar ideias do blog.
+- [Notion](https://www.notion.so/) - Um espaço de trabalho único para planejar, escrever e organizar conteúdo.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Edição de vídeo profissional e software de classificação de cores.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Código aberto, kit de ferramentas local para composição, edição e transcrição de vídeo.
+- [Shotcut](https://shotcut.org/) - Editor de vídeo aberto, multi-plataforma.
+- [LinkedIn Ads](https://www.linkedin.com/campaignmanager/) - Auto-servir plataforma de anúncios.
+- [Canva](https://www.canva.com/create/instagram-posts/) - Ferramentas de design especificamente para imagens do Instagram.
+- [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) - Design de posts e banners profissionais do LinkedIn.
+- [Instagram Creator Studio](https://business.facebook.com/creatorstudio/) - Gerencie conteúdo, monetização e insights para as contas do Instagram.
+- [Headliner](https://www.headliner.app/) - Crie audiogramas e vídeos compartilháveis de seus episódios.
+- [Aweber](https://www.aweber.com/) - Uma plataforma de email marketing para atrair seu público.
+- [Linktree](https://linktr.ee/) - Compartilhe todos os seus podcasts em um só lugar.
+- [YouTube Data API](https://developers.google.com/youtube/v3) - API oficial para acessar dados do YouTube. <sub>📖 documentação</sub>
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line YouTube downloader de vídeo.
+- [pytube](https://github.com/pytube/pytube) - Biblioteca Python para baixar conteúdo do YouTube.
+- [SEMrush](https://www.semrush.com/) - Uma ferramenta abrangente para SEO, marketing de conteúdo e mídia social.
+- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - Um popular plugin WordPress para otimização de SEO na página.
+- [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/) - Uma ferramenta para encontrar as palavras-chave certas.
+- [Moz](https://moz.com/) - Uma plataforma de SEO com ferramentas para pesquisa de palavras-chave, construção de links e auditorias de sites.
+- [Facebook Ads Manager](https://www.facebook.com/business/ads) - Crie e gerencie campanhas no Facebook e Instagram.
+- [Google Ads](https://ads.google.com/) - Anuncie no Google Search, YouTube e outras propriedades do Google.
+- [LinkedIn Ads](https://www.linkedin.com/ad) - Faça campanhas publicitárias no LinkedIn.
+- [Twitter Ads](https://ads.twitter.com/) - Promova seu conteúdo e alcance sua audiência no Twitter.
+- [LinkedIn Talent Solutions](https://business.linkedin.com/talent-solutions) - Produtos oficiais de recrutamento do LinkedIn.
+- [PhantomBuster LinkedIn Automations](https://phantombuster.com/phantoms/linkedin) - Automatize o alcance do LinkedIn e rastreie os dados.
+- [Think Media](https://www.youtube.com/c/ThinkMediaTV) - Canal do YouTube sobre cultivar um canal e dicas de produção de vídeo no YouTube. <sub>📺 canal</sub>
+- [Video Influencers](https://www.youtube.com/c/videoinfluencers) - Marketing no YouTube e estratégias de crescimento. <sub>📺 canal</sub>
+- [Justin Brown – Primal Video](https://www.youtube.com/c/primalvideo) - Tutoriais sobre edição de vídeo e crescimento do YouTube. <sub>📺 canal</sub>
+- [Matomo](https://matomo.org/) - Uma plataforma de análise da web que respeita a privacidade do usuário.
+- [Hotjar](https://www.hotjar.com/) - Uma ferramenta para entender o comportamento do usuário através de mapas térmicos e gravações de sessão.
+- [Clicky](https://clicky.com/) - Uma plataforma de análise web em tempo real com recursos abrangentes de relatórios.
+- [Influence.co](https://influence.co/) - Descubra e se conecte com influenciadores em sua indústria.
+- [BuzzStream](https://www.buzzstream.com/) - Gerencie e rastreie campanhas de influência.
+- [Upfluence](https://upfluence.com/) - Encontre influenciadores, gerencie campanhas e meça resultados.
+- [Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media) - Uma lista de recursos e dicas para nivelar seu jogo de mídia social! <sub>📋 lista awesome</sub>
+- [Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint) - Uma lista de ferramentas, recursos e técnicas para investigações, jornalismo, segurança cibernética e muito mais. <sub>📋 lista awesome</sub>
+- [Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom) - Uma lista de ferramentas, plataformas, organizações e recursos que suportam acesso livre, aberto e seguro à internet. <sub>📋 lista awesome</sub>
+- [Google AdSense](https://www.google.com/adsense/start/) - Uma plataforma popular para rentabilizar seu blog com anúncios.
+- [Amazon Associates](https://affiliate-program.amazon.com/) - Um programa de marketing afiliado da Amazon. <sub>📚 livro</sub>
+- [Patreon](https://www.patreon.com/) - Oferecer conteúdo exclusivo para assinantes por receita recorrente.
+- [Supercast](https://www.supercast.com/) - Uma plataforma para assinaturas pagas de podcasts.
+- [Hashtagify](https://hashtagify.me/) - Descubra hashtags populares e de tendência relacionados ao seu conteúdo.
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [brandonhimpfen/awesome-blogging](https://github.com/brandonhimpfen/awesome-blogging) <sub>20 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-instagram](https://github.com/brandonhimpfen/awesome-instagram) <sub>20 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-linkedin](https://github.com/brandonhimpfen/awesome-linkedin) <sub>20 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-podcasting-tools](https://github.com/brandonhimpfen/awesome-podcasting-tools) <sub>20 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-social-media](https://github.com/brandonhimpfen/awesome-social-media) <sub>20 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-x](https://github.com/brandonhimpfen/awesome-x) <sub>19 links · licença CC-BY-SA-4.0</sub>
-- [brandonhimpfen/awesome-youtube](https://github.com/brandonhimpfen/awesome-youtube) <sub>19 links · licença CC-BY-SA-4.0</sub>
-- [deshabhishek007/awesome-social-media-referencing-resources](https://github.com/deshabhishek007/awesome-social-media-referencing-resources) <sub>19 links · licença GPL-3.0</sub>
+- [brandonhimpfen/awesome-blogging](https://github.com/brandonhimpfen/awesome-blogging) <sub>🔗 24 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-instagram](https://github.com/brandonhimpfen/awesome-instagram) <sub>🔗 22 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-linkedin](https://github.com/brandonhimpfen/awesome-linkedin) <sub>🔗 23 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-podcasting-tools](https://github.com/brandonhimpfen/awesome-podcasting-tools) <sub>🔗 23 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-social-media](https://github.com/brandonhimpfen/awesome-social-media) <sub>🔗 22 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-x](https://github.com/brandonhimpfen/awesome-x) <sub>🔗 21 · ⚖️ CC-BY-SA-4.0</sub>
+- [brandonhimpfen/awesome-youtube](https://github.com/brandonhimpfen/awesome-youtube) <sub>🔗 22 · ⚖️ CC-BY-SA-4.0</sub>
+- [deshabhishek007/awesome-social-media-referencing-resources](https://github.com/deshabhishek007/awesome-social-media-referencing-resources) <sub>🔗 2 · ⚖️ GPL-3.0</sub>
 
 ---
 [⬆️ Voltar ao topo](#-social-media-e-conteúdo) · [← Marketing e Vendas](README.md)

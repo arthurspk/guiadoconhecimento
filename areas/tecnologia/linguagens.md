@@ -2,1924 +2,1931 @@
 
 > Python, JavaScript, Java, Go, Rust, C#, PHP, Kotlin, Swift e dezenas de outras. **1340 links** nesta área: 19 essenciais escolhidos a dedo, 40 de inteligência artificial e 1281 reunidos de 19 listas curadas.
 
-[← 💻 Tecnologia e Desenvolvimento](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 💻 Tecnologia e Desenvolvimento](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/tecnologia/linguagens.md) · 🇪🇸 [Español](../../i18n/es/areas/tecnologia/linguagens.md) · 🇨🇳 [中文](../../i18n/zh/areas/tecnologia/linguagens.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/tecnologia/linguagens.md) · 🇸🇦 [العربية](../../i18n/ar/areas/tecnologia/linguagens.md) · 🇫🇷 [Français](../../i18n/fr/areas/tecnologia/linguagens.md) · 🇮🇹 [Italiano](../../i18n/it/areas/tecnologia/linguagens.md) · 🇰🇷 [한국어](../../i18n/ko/areas/tecnologia/linguagens.md) · 🇷🇺 [Русский](../../i18n/ru/areas/tecnologia/linguagens.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/tecnologia/linguagens.md) · 🇯🇵 [日本語](../../i18n/ja/areas/tecnologia/linguagens.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>19</sub> <br>
 [🤖 IA para Linguagens de Programação](#-ia-para-linguagens-de-programação) <sub>40</sub> <br>
-[🔤 C](#-c) <sub>74</sub> <br>
-[🔤 C# e .NET](#-c-e-net) <sub>74</sub> <br>
-[🔤 C++](#-c-1) <sub>74</sub> <br>
-[🔤 Dart](#-dart) <sub>74</sub> <br>
-[🔤 Elixir](#-elixir) <sub>74</sub> <br>
-[🔤 Go](#-go) <sub>73</sub> <br>
-[🔤 Java](#-java) <sub>73</sub> <br>
-[🔤 JavaScript](#-javascript) <sub>73</sub> <br>
-[🔤 Kotlin](#-kotlin) <sub>73</sub> <br>
-[🔤 Livros e cursos gratuitos em português](#-livros-e-cursos-gratuitos-em-português) <sub>73</sub> <br>
-[🔤 PHP](#-php) <sub>73</sub> <br>
-[🔤 Python](#-python) <sub>73</sub> <br>
-[🔤 Ruby](#-ruby) <sub>73</sub> <br>
-[🔤 Rust](#-rust) <sub>73</sub> <br>
-[🔤 Swift](#-swift) <sub>73</sub> <br>
-[🔤 TypeScript](#-typescript) <sub>73</sub> <br>
-[🔤 Linguagens de programação](#-linguagens-de-programação) <sub>19</sub> <br>
-[🔤 Lua](#-lua) <sub>18</sub> <br>
-[🔤 Scala](#-scala) <sub>15</sub> <br>
-[🔤 Assembly](#-assembly) <sub>12</sub> <br>
-[🔤 Delphi](#-delphi) <sub>11</sub> <br>
-[🔤 Julia](#-julia) <sub>11</sub> <br>
-[🔤 Matlab](#-matlab) <sub>11</sub> <br>
-[🔤 Perl](#-perl) <sub>11</sub> <br>
+[🔤 C](#-c) <sub>82</sub> <br>
+[🔤 C# e .NET](#-c-e-net) <sub>81</sub> <br>
+[🔤 C++](#-c-1) <sub>81</sub> <br>
+[🔤 Elixir](#-elixir) <sub>81</sub> <br>
+[🔤 Go](#-go) <sub>81</sub> <br>
+[🔤 Java](#-java) <sub>81</sub> <br>
+[🔤 JavaScript](#-javascript) <sub>81</sub> <br>
+[🔤 Kotlin](#-kotlin) <sub>81</sub> <br>
+[🔤 Livros e cursos gratuitos em português](#-livros-e-cursos-gratuitos-em-português) <sub>81</sub> <br>
+[🔤 PHP](#-php) <sub>81</sub> <br>
+[🔤 Python](#-python) <sub>81</sub> <br>
+[🔤 Ruby](#-ruby) <sub>81</sub> <br>
+[🔤 Rust](#-rust) <sub>81</sub> <br>
+[🔤 Swift](#-swift) <sub>81</sub> <br>
+[🔤 TypeScript](#-typescript) <sub>81</sub> <br>
+[🔤 Dart](#-dart) <sub>45</sub> <br>
+[🔤 Linguagens de programação](#-linguagens-de-programação-1) <sub>20</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
-- [Documentação do Python (pt-BR)](https://docs.python.org/pt-br/3/) - Documentação oficial do Python traduzida, com tutorial e referência da biblioteca padrão. <sub>pt-BR</sub>
-- [Pense em Python](https://penseallen.github.io/PensePython2e/) - Tradução livre do livro Think Python para quem nunca programou. <sub>pt-BR · livro</sub>
-- [MDN - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Guia e referência de JavaScript da Mozilla em português. <sub>pt-BR</sub>
-- [The Modern JavaScript Tutorial](https://javascript.info/) - Tutorial completo de JavaScript moderno, do básico ao avançado. <sub>curso</sub>
-- [Documentação do TypeScript](https://www.typescriptlang.org/docs/) - Handbook oficial e referência do TypeScript.
-- [Dev.java](https://dev.java/learn/) - Trilhas oficiais da Oracle para aprender Java e a JVM.
-- [A Tour of Go](https://go.dev/tour/) - Tour interativo oficial da linguagem Go no navegador. <sub>curso</sub>
-- [The Rust Programming Language](https://doc.rust-lang.org/book/) - Livro oficial e gratuito da linguagem Rust. <sub>livro</sub>
-- [cppreference](https://en.cppreference.com/) - Referência completa de C e C++ e de suas bibliotecas padrão.
-- [Guia do C# (Microsoft Learn)](https://learn.microsoft.com/pt-br/dotnet/csharp/) - Documentação oficial de C# e .NET em português. <sub>pt-BR</sub>
-- [Manual do PHP](https://www.php.net/manual/pt_BR/) - Manual oficial do PHP em português do Brasil. <sub>pt-BR</sub>
-- [PHP do Jeito Certo](https://br.phptherightway.com/) - Guia em português de boas práticas e padrões modernos de PHP. <sub>pt-BR</sub>
-- [Documentação do Kotlin](https://kotlinlang.org/docs/home.html) - Documentação oficial do Kotlin com tour da linguagem e tutoriais.
-- [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) - Livro oficial da Apple sobre a linguagem Swift.
-- [Ruby](https://www.ruby-lang.org/pt/) - Site oficial do Ruby em português, com documentação e guias de início. <sub>pt-BR</sub>
-- [Elixir](https://elixir-lang.org/) - Site oficial do Elixir com guias de introdução e documentação.
-- [Dart - Language tour](https://dart.dev/language) - Introdução oficial à linguagem Dart.
+> Os essenciais de Linguagens de Programação, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
+- [Documentação do Python (pt-BR)](https://docs.python.org/pt-br/3/) - Documentação oficial do Python traduzida, com tutorial e referência da biblioteca padrão. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Pense em Python](https://penseallen.github.io/PensePython2e/) - Tradução livre do livro Think Python para quem nunca programou. <sub>📚 livro · 🇧🇷 pt-BR</sub>
+- [MDN - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Guia e referência de JavaScript da Mozilla em português. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Tutorial completo de JavaScript moderno, do básico ao avançado. <sub>🎓 curso</sub>
+- [Documentação do TypeScript](https://www.typescriptlang.org/docs/) - Handbook oficial e referência do TypeScript. <sub>📖 documentação</sub>
+- [Dev.java](https://dev.java/learn/) - Trilhas oficiais da Oracle para aprender Java e a JVM. <sub>📖 documentação</sub>
+- [A Tour of Go](https://go.dev/tour/) - Tour interativo oficial da linguagem Go no navegador. <sub>🎓 curso</sub>
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) - Livro oficial e gratuito da linguagem Rust. <sub>📚 livro</sub>
+- [cppreference](https://en.cppreference.com/) - Referência completa de C e C++ e de suas bibliotecas padrão. <sub>📖 documentação</sub>
+- [Guia do C# (Microsoft Learn)](https://learn.microsoft.com/pt-br/dotnet/csharp/) - Documentação oficial de C# e .NET em português. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Manual do PHP](https://www.php.net/manual/pt_BR/) - Manual oficial do PHP em português do Brasil. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [PHP do Jeito Certo](https://br.phptherightway.com/) - Guia em português de boas práticas e padrões modernos de PHP. <sub>🇧🇷 pt-BR</sub>
+- [Documentação do Kotlin](https://kotlinlang.org/docs/home.html) - Documentação oficial do Kotlin com tour da linguagem e tutoriais. <sub>📖 documentação</sub>
+- [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) - Livro oficial da Apple sobre a linguagem Swift. <sub>📖 documentação</sub>
+- [Ruby](https://www.ruby-lang.org/pt/) - Site oficial do Ruby em português, com documentação e guias de início. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Elixir](https://elixir-lang.org/) - Site oficial do Elixir com guias de introdução e documentação. <sub>📖 documentação</sub>
+- [Dart - Language tour](https://dart.dev/language) - Introdução oficial à linguagem Dart. <sub>📖 documentação</sub>
 - [Exercism](https://exercism.org/) - Exercícios gratuitos com mentoria em mais de 80 linguagens.
 - [Learn X in Y Minutes](https://learnxinyminutes.com/) - Resumos rápidos da sintaxe de centenas de linguagens, muitos traduzidos para português.
 
 ## 🤖 IA para Linguagens de Programação
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com linguagens de programação. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Linguagens de Programação. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Aider](https://aider.chat/) - Assistente de programação em par no terminal, open source, que edita o repositório Git com o LLM de sua escolha.
 - [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Ranking que compara modelos na capacidade de editar código em várias linguagens; útil para escolher o modelo.
 - [SWE-bench](https://www.swebench.com) - Benchmark que mede se modelos e agentes resolvem issues reais do GitHub; referência para comparar assistentes de código.
 - [Context7](https://github.com/upstash/context7) - Servidor MCP que injeta documentação atualizada e por versão de bibliotecas no contexto do assistente de código.
-- [gopls MCP](https://go.dev/gopls/features/mcp) - Suporte oficial do language server do Go ao Model Context Protocol, expondo análise de código Go para agentes de IA.
+- [gopls MCP](https://go.dev/gopls/features/mcp) - Suporte oficial do language server do Go ao Model Context Protocol, expondo análise de código Go para agentes de IA. <sub>📖 documentação</sub>
 - [JetBrains AI](https://www.jetbrains.com/ai/) - Assistente de IA integrado às IDEs da JetBrains (IntelliJ, PyCharm, GoLand, Rider etc.); tem cota gratuita e planos pagos.
 - [Tabnine](https://www.tabnine.com/) - Assistente de código com foco em privacidade e opção de implantação privada para empresas; pago.
 - [Tabby](https://tabbyml.github.io/tabby/) - Assistente de código open source e auto-hospedado, alternativa local ao Copilot.
 - [Sourcery](https://sourcery.ai/) - Revisão de código e refatoração com IA para pull requests e IDEs, com origem no ecossistema Python.
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Coleção de regras e instruções prontas para guiar assistentes de código em cada linguagem e framework.
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Cursor AI](https://cursor.sh/) - is an AI-powered code editor. Cursor Project Rules are Markdown-based .mdc files that live in .cursor/rules/ and tell Cursor how to behave for specific projects, file types, frameworks, and workflows.
-- [Qwen2.5-Coder series](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) - are released, offering six model sizes (0.5B, 1.5B, 3B, 7B, 14B, 32B), with Qwen2.5-Coder-32B-Instruct now the most powerful open-source code model.
-- [IA Generativa para Iniciantes .NET - Um Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/pt) - Microsoft (GitHub) <sub>pt-BR</sub>
-- [AgentScope Java](https://github.com/agentscope-ai/agentscope-java) - Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
+- [Cursor AI](https://cursor.sh/) - Regras do Projeto de Cursor são arquivos .mdc baseados em Markdown que vivem em .cursor/regras/ e dizem ao Cursor como se comportar para projetos específicos, tipos de arquivos, frameworks e fluxos…
+- [Qwen2.5-Coder series](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) - são liberados, oferecendo seis tamanhos de modelo (0,5B, 1,5B, 3B, 7B, 14B, 32B), com Qwen2.5-Coder-32B-Instruir agora o mais poderoso código de código aberto.
+- [IA Generativa para Iniciantes .NET - Um Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/pt) - Microsoft (GitHub) <sub>🇧🇷 pt-BR</sub>
+- [AgentScope Java](https://github.com/agentscope-ai/agentscope-java) - Estrutura para construção de agentes de IA distribuídos, com execução de ferramentas, persistência e orquestração multiagente.
 - [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial, aprendizado de máquina e chatbots
-- [AegisFlow](https://github.com/saivedant169/AegisFlow) - AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.
-- [Langfuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform - Tracing, Prompt Mgmt, Evaluations, Analytics
-- [Dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++. [Boost] website
-- [emel](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
-- [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
-- [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
-- [arimxyer/models](https://github.com/arimxyer/models) - [modelsdev] - A TUI for browsing AI models, benchmarks, and coding agents
-- [langchain](https://github.com/langchain-ai/langchain) - A framework for building agents and LLM-powered applications.
-- [Anthropic](https://github.com/mozex/anthropic-php) - A PHP client for the Anthropic API, supporting messages, streaming, tool use, and batch processing.
-- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905) - is released. <sub>artigo científico</sub>
-- [Anahata ASI](https://github.com/anahata-os/anahata-asi) - Java agent container with local LLM adapters, stateful tool execution, context management and IDE integration.
-- [Aetheris](https://github.com/Colin4k1024/Aetheris) - AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go.
-- [Bubble Lab](https://github.com/bubblelabai/BubbleLab) - Open Source TypeScript-native workflow automation platform with AI-powered generation, full observability, and exportable code.
-- [cpp-mcp](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. [MIT]
-- [AshAI](https://github.com/ash-project/ash_ai) - AI and LLM toolkit for Ash applications. MCP server, MCP dev tools, vector embeddings, chat interfaces, and more.
-- [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
-- [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
-- [GCWing/BitFun](https://github.com/GCWing/BitFun) - A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications
-- [langgraph](https://github.com/langchain-ai/langgraph) - Low-level orchestration framework for building stateful, long-running LLM agents.
-- [Anthropic for Laravel](https://github.com/mozex/anthropic-laravel) - A Laravel wrapper for the Anthropic PHP client with Facades, config publishing, and testing fakes.
-- [bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models.
-- [ARA](https://github.com/xmor/ara) - Java framework for AI agents with tool calling, deterministic input and output contracts, and configurable execution strategies.
-- [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) - Framework for building stateful AI agents in Go.
-- [Veritas Kanban](https://github.com/BradGroux/veritas-kanban) - Self-hosted Kanban board with AI agent integration, built with React 19, TypeScript strict mode, Vite 6, and 1,255 tests.
-- [Genann](https://github.com/codeplea/genann) - Simple neural network library in C. [zlib]
+- [AegisFlow](https://github.com/saivedant169/AegisFlow) - Gateway de IA para roteamento, segurança e monitoramento do tráfego LLM em mais de 10 provedores. API compatível com OpenAI, plugins de política WASM, lançamentos canários, painel em tempo real.
+- [Langfuse](https://github.com/langfuse/langfuse) - Plataforma de engenharia LLM de código aberto.
+- [Dlib](https://github.com/davisking/dlib) - Um kit de ferramentas para fazer aplicações de aprendizado de máquina e análise de dados no site C++.
+- [emel](https://github.com/mrdimosthenis/emel) - Uma simples e funcional biblioteca de aprendizado de máquina escrita em elixir.
+- [langchain.rb](https://github.com/patterns-ai-core/langchainrb) - Construa aplicações com LLM em Ruby
+- [DL4S](https://github.com/palle-k/DL4S) - Diferenciação automática, operações rápidas de tensor e redes neurais dinâmicas de CNNs e RNNs para transformadores.
+- [MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) - Voz AI SDK é uma biblioteca Android reutilizável que dá a qualquer aplicativo um pipeline de conversação de IA com voz em minutos.
+- [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Ligação de lhama.cpp, executar modelo LLaMA / GPT usando C# sem ter que compilar lama.cpp.
+- [arimxyer/models](https://github.com/arimxyer/models) - Um TUI para navegar em modelos de IA, benchmarks e agentes codificadores.
+- [Bit](https://github.com/teambit/bit) - Espaços de trabalho de desenvolvimento movidos por IA com componentes reutilizáveis, claridade arquitetônica e zero sobrecarga.
+- [langchain](https://github.com/langchain-ai/langchain) - Uma estrutura para a construção de agentes e aplicações com LLM.
+- [Anthropic](https://github.com/mozex/anthropic-php) - Um cliente PHP para a API Anthropic, suportando mensagens, streaming, uso de ferramentas e processamento em lote.
+- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905) - está liberado. <sub>📄 artigo científico</sub>
+- [Anahata ASI](https://github.com/anahata-os/anahata-asi) - Container Java agente com adaptadores LLM locais, execução de ferramenta stateful, gerenciamento de contexto e integração IDE.
+- [Aetheris](https://github.com/Colin4k1024/Aetheris) - Agente da IA execute o tempo de execução com a fonte de eventos, recuperação do posto de controle e garantia de execução no máximo uma vez.
+- [Bubble Lab](https://github.com/bubblelabai/BubbleLab) - Plataforma de automação de fluxo de trabalho nativa do Open Source TypeScript, com geração alimentada por IA, observação completa e código exportável.
+- [cpp-mcp](https://github.com/hkr04/cpp-mcp) - MCP leve C++ (Protocolo de Contexto Modelo) SDK.
+- [AshAI](https://github.com/ash-project/ash_ai) - Kit de ferramentas AI e LLM para aplicativos Ash, servidor MCP, ferramentas de desenvolvimento MCP, incorporação vetorial, interfaces de chat e muito mais.
+- [openai-ruby](https://github.com/openai/openai-ruby) - Oficial Ruby SDK para a API OpenAI
+- [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Inferência LLM local rápida para Apple Silicon, construída em Swift e Metal do zero.
+- [susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
+- [LlmTornado](https://github.com/lofcz/LlmTornado) - Uma biblioteca .NET para consumir OpenAI, Anthropic, Cohere, Google, Azure, Groq e APIs auto-alojadas.
+- [GCWing/BitFun](https://github.com/GCWing/BitFun) - Um agente de IA multiplataforma com um rust runtime que trabalha em repositórios reais e pode dirigir o navegador, terminal e aplicativos desktop
+- [Infographic](https://github.com/antvis/Infographic) - Um quadro de geração e renderização Infográfico, trazer palavras para a vida com AI!
+- [langgraph](https://github.com/langchain-ai/langgraph) - Framework de orquestração de baixo nível para a construção de agentes LLM.
 
 ## 🔤 C
 
-### AI
+> 82 links sobre C: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [ccv](http://libccv.org/) - C-based/Cached/Core Computer Vision library; modern computer
-- [Cranium](https://100.github.io/Cranium/) - Portable, header-only ANN library in C99. [MIT
-- [FANN](https://github.com/libfann/fann) - Fast Artifical Neural Network library; an implementation of
-- [Genann](https://codeplea.com/genann) - Simple ANN in C89, without additional dependencies. [Zlib
-- [KANN](https://github.com/attractivechaos/kann) - Two-file ANN library. [MIT
-- [LibDEEP](https://github.com/jppbsi/LibDEEP) - Deep learning library. [BSD-3-Clause
+### 🤖 AI
 
-### Banco de dados
+- [ccv](http://libccv.org/) - C-based/Cached/Core Computer Vision biblioteca; computador moderno
+- [Cranium](https://100.github.io/Cranium/) - Portátil, biblioteca ANN só de cabeçalho em C99.
+- [FANN](https://github.com/libfann/fann) - Biblioteca da Rede Neural Artificial Rápida, uma implementação de
+- [Genann](https://codeplea.com/genann) - ANN simples em C89, sem dependências adicionais.
+- [KANN](https://github.com/attractivechaos/kann) - Biblioteca ANN de dois arquivos.
+- [LibDEEP](https://github.com/jppbsi/LibDEEP) - Biblioteca de aprendizagem profunda.
 
-- [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db) - Library for a high-performance embedded database for
-- [DuckDB](https://duckdb.org/) - Fast in-process analytical database, with C API. [MIT
-- [EJDB2](https://ejdb.org/) - Embeddable JSON Database engine. [MIT
-- [Groonga](https://github.com/groonga/groonga) - Columnar store with full-text search. [LGPL-2.1-only
-- [Hiredis](https://github.com/redis/hiredis) - Minimalistic client library for Redis.
-- [libmongoc](http://mongoc.org/) - High-performance client library for [MongoDB. [Apache-2.0
+### 🗄️ Banco de dados
 
-### Build system
+- [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db) - Biblioteca para um banco de dados incorporado de alto desempenho
+- [DuckDB](https://duckdb.org/) - Banco de dados analíticos rápidos, com API C.
+- [EJDB2](https://ejdb.org/) - Motor de banco de dados JSON incorporado.
+- [Groonga](https://github.com/groonga/groonga) - Loja colunar com busca de texto completo.
+- [Hiredis](https://github.com/redis/hiredis) - Biblioteca de clientes minimalistas para Redis.
+- [libmongoc](http://mongoc.org/) - Biblioteca de clientes de alto desempenho para MongoDB.
 
-- [Autotools](https://www.gnu.org/software/automake/manual/html_node/GNU-Build-System.html) - Also known as the GNU build system (automake, autoconf, libtool...)
-- [Autotools project skeleton](https://github.com/msune/autotools-skeleton) - A simple autotools skeleton (template) to quickly bootstrap
-- [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, package and test
-- [GNU Make](https://www.gnu.org/software/make/) - Tool which controls the generation of executables and other
-- [Meson](https://mesonbuild.com/) - Extremely fast, user-friendly build system. Based on Ninja. [Apache-2.0
-- [Premake](https://premake.github.io/) - Command-line utility which reads a scripted definition of a
+### 🖥️ Construir o sistema
 
-### Compiler
+- [Autotools](https://www.gnu.org/software/automake/manual/html_node/GNU-Build-System.html) - Também conhecido como o sistema de compilação GNU (automake, autoconf, libtool...)
+- [Autotools project skeleton](https://github.com/msune/autotools-skeleton) - Um simples esqueleto de autotools (template) para iniciar rapidamente
+- [CMake](https://cmake.org/) - Família de ferramentas para construir, empacotar e testar.
+- [GNU Make](https://www.gnu.org/software/make/) - Ferramenta que controla a geração de executáveis e outros
+- [Meson](https://mesonbuild.com/) - Sistema de construção extremamente rápido e amigável baseado em Ninja.
+- [Premake](https://premake.github.io/) - Utilitário de linha de comando que lê uma definição escrita de um
 
-- [ccache](https://ccache.dev/) - Compiler cache designed to speed up recompilation. [GPL-3.0-or-later
-- [Clang](https://clang.llvm.org/) - Compiler for LLVM. Supports C11. [NCSA
-- [cproc](https://git.sr.ht/~mcf/cproc) - A C11 compiler using QBE as a backend. [ISC
-- [distcc](https://github.com/distcc/distcc) - Program that allows builds to be distributed among several
-- [Firm](https://pp.ipd.kit.edu/firm/) - Library that provides a graph-based intermediate
-- [GCC](https://gcc.gnu.org/) - Provides a C compiler as part of its compiler set. Supports
+### 🧮 Compilador.
 
-### Compression
+- [ccache](https://ccache.dev/) - Cache de compilador projetado para acelerar a recompilação.
+- [Clang](https://clang.llvm.org/) - Compilador para LLVM. Suporta C11.
+- [cproc](https://git.sr.ht/~mcf/cproc) - Um compilador C11 usando QBE como backend.
+- [distcc](https://github.com/distcc/distcc) - Programa que permite que as construções sejam distribuídas entre vários
+- [Firm](https://pp.ipd.kit.edu/firm/) - Biblioteca que fornece um intermediário baseado em gráficos.
+- [GCC](https://gcc.gnu.org/) - Fornece um compilador C como parte de seu conjunto de compiladores.
 
-- [blosc](http://blosc.org/pages/blosc-in-depth) - Extremely fast, multi-threaded, meta-compressor library.
-- [Brotli](https://github.com/google/brotli) - General-purpose lossless compression algorithm library. Has
-- [clzip](http://lzip.nongnu.org/clzip.html) - C version of the high-quality data compressor [Lzip (LZMA
-- [CRoaring](https://github.com/RoaringBitmap/CRoaring) - C implementation of [Roaring bitmaps. [Apache-2.0
-- [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - Two highly efficient compression codecs optimized
-- [DENSITY](https://github.com/centaurean/density) - Super-fast compression library. [BSD-3-Clause
+### 🔷 Compressão
 
-### Concurrency and Parallelism
+- [blosc](http://blosc.org/pages/blosc-in-depth) - Extremamente rápido, multi-threaded, biblioteca meta-compressor.
+- [Brotli](https://github.com/google/brotli) - Biblioteca de algoritmos de compressão sem perdas.
+- [clzip](http://lzip.nongnu.org/clzip.html) - Versão C do compressor de dados de alta qualidade (Lzip
+- [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Implementação de C (Bitmaps Roaring).
+- [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - Dois codecs de compressão altamente eficientes otimizados
+- [DENSITY](https://github.com/centaurean/density) - Biblioteca de compressão super rápida.
 
-- [cchan](http://repo.hu/projects/cchan/) - Small library for channel constructs for inter-thread
-- [checkedthreads](https://github.com/yosefk/checkedthreads) - A simple library for
-- [ck](http://concurrencykit.org/) - Concurrency primitives, safe memory reclamation mechanisms and
-- [FCFS RWLock](http://www.shlomifish.org/rwlock/) - First-come first-served Readers/Writers lock for POSIX threads. [CC0-1.0
-- [Libaco](https://github.com/hnes/libaco) - A blazing fast and lightweight C asymmetric coroutine library. [Apache-2.0
-- [libconcurrent](https://github.com/sharow/libconcurrent) - Concurrent programming library, using coroutines, for
+### 🔷 Concurrência e Paralelismo
 
-### Crypto
+- [cchan](http://repo.hu/projects/cchan/) - Pequena biblioteca para construções de canais para inter-threads
+- [checkedthreads](https://github.com/yosefk/checkedthreads) - Uma simples biblioteca para
+- [ck](http://concurrencykit.org/) - Primitivos de concorrência, mecanismos seguros de recuperação de memória e
+- [FCFS RWLock](http://www.shlomifish.org/rwlock/) - Leitores/Escritores em primeiro lugar, travam para linhas POSIX.
+- [Libaco](https://github.com/hnes/libaco) - Uma rápida e leve biblioteca de coroutine C assimétrica. (Apache-2.0
+- [libconcurrent](https://github.com/sharow/libconcurrent) - Biblioteca de programação concorrente, usando coroutinas, para
 
-- [GNU SASL](https://gnu.org/software/gsasl/) - Implementation of the Simple Authentication and Security
-- [GnuTLS](http://www.gnutls.org/) - Secure communication library, implementing SSL, TLS and
-- [libgcrypt](https://gnupg.org/related_software/libgcrypt) - General-purpose cryptography library, with a range of
-- [OpenSSL](https://www.openssl.org/) - Implementation of the SSL and TLS protocols. Also includes a
-- [liboqs](https://openquantumsafe.org/) - Library for quantum-resistant cryptographicl algorithms.
-- [libsodium](https://download.libsodium.org/doc) - Modern and easy-to-use crypto library. [MIT
+### 🔒 Crypto
 
-### Data structures
+- [GNU SASL](https://gnu.org/software/gsasl/) - Implementação da simples autenticação e segurança
+- [GnuTLS](http://www.gnutls.org/) - Biblioteca de comunicação segura, implementando SSL, TLS e
+- [libgcrypt](https://gnupg.org/related_software/libgcrypt) - Biblioteca de criptografia geral, com uma gama de
+- [OpenSSL](https://www.openssl.org/) - Implementação dos protocolos SSL e TLS.
+- [liboqs](https://openquantumsafe.org/) - Biblioteca para algoritmos criptográficos resistentes a quânticos.
+- [libsodium](https://download.libsodium.org/doc) - Moderna e fácil de usar biblioteca criptográfica.
 
-- [C-Macro-Collections](https://github.com/LeoVen/C-Macro-Collections) - Generate simple and generic data structures using macros. [MIT
-- [CLIST](https://github.com/AlexanderAgd/CLIST) - Simple and lightweight [dynamic array implementation.
-- [Collections-C](https://github.com/srdja/Collections-C) - Library of generic data structures. [LGPL-3.0-or-later
-- [ds](https://github.com/recp/ds) - Common Data Structures and Algorithms. [MIT
-- [igraph](https://igraph.org/) - A graph processing library.
-- [kdtree](https://github.com/jtsiomb/kdtree) - Simple library for working with KD-trees. [BSD-3-Clause
+### 📊 Estruturas de dados.
 
-### Debugging
+- [C-Macro-Collections](https://github.com/LeoVen/C-Macro-Collections) - Gere estruturas de dados simples e genéricas usando macros.
+- [CLIST](https://github.com/AlexanderAgd/CLIST) - Simples e leve (implementação dinâmica de matriz).
+- [Collections-C](https://github.com/srdja/Collections-C) - Biblioteca de estruturas genéricas de dados.
+- [ds](https://github.com/recp/ds) - Estruturas de dados e algoritmos comuns.
+- [igraph](https://igraph.org/) - Uma biblioteca de processamento de gráficos.
+- [kdtree](https://github.com/jtsiomb/kdtree) - Biblioteca simples para trabalhar com KD-trees.
 
-- [C-Reduce](https://embed.cs.utah.edu/creduce/) - Tool that takes a large C file with a property of interest
-- [CBMC](https://www.cprover.org/cbmc/) - C Bounded Model Checker; a tool for verification of array
-- [cflow](http://www.gnu.org/software/cflow/) - Analyzes a collection of source files and prints a graph
-- [Complexity](https://www.gnu.org/software/complexity/) - Tool for measuring the complexity of source
-- [CScout](https://www.spinellis.gr/cscout/) - Source code analyzer and refactoring browser for C
-- [DDD](https://www.gnu.org/software/ddd/ddd.html) - Graphical front-end for a range of command-line
+### ✅ Depuração
 
-### Editores
+- [C-Reduce](https://embed.cs.utah.edu/creduce/) - Ferramenta que leva um grande arquivo C com uma propriedade de interesse
+- [CBMC](https://www.cprover.org/cbmc/) - C-Bounded Model Checker, uma ferramenta para verificação do array.
+- [cflow](http://www.gnu.org/software/cflow/) - Analisa uma coleção de arquivos e imprime um gráfico.
+- [Complexity](https://www.gnu.org/software/complexity/) - Ferramenta para medir a complexidade da fonte
+- [CScout](https://www.spinellis.gr/cscout/) - Analisador de código-fonte e navegador de refatoração para C
+- [DDD](https://www.gnu.org/software/ddd/ddd.html) - Interface gráfica para uma linha de comando.
 
-- [Anjuta DevStudio](http://anjuta.org/) - GNOME IDE. [GPL-2.0-only
-- [Code::Blocks](http://www.codeblocks.org/) - Extendable, configurable IDE supporting
-- [CodeLite](https://www.codelite.org/) - Cross-platform IDE. [GPL-2.0-only
-- [Geany](https://www.geany.org/) - Small and fast IDE. [GPL-2.0-or-later
-- [KDevelop](https://www.kdevelop.org/) - KDE IDE. [GPL-2.0-only
-- [zinjaI](http://zinjai.sourceforge.net/) - Simple, lightweight and feature-rich IDE. [GPL-3.0-only
+### 🛠️ Editores
 
-### Mais links
+- [Anjuta DevStudio](http://anjuta.org/) - GNOME IDE. (GPL-2.0-somente
+- [Code::Blocks](http://www.codeblocks.org/) - Sustentável, configurável suporte IDE
+- [CodeLite](https://www.codelite.org/) - IDE de plataforma cruzada. (GPL-2.0-apenas
+- [Geany](https://www.geany.org/) - IDE pequeno e rápido. (GPL-2.0-ou-depois
+- [KDevelop](https://www.kdevelop.org/) - KDE IDE. (GPL-2.0-somente
+- [zinjaI](http://zinjai.sourceforge.net/) - IDE simples, leve e rico em recursos. (GPL-3.0-somente GPL-3.0
 
-- [C Algorithms](https://fragglet.github.io/c-algorithms) - Collection of common algorithms and data structures. [ISC
-- [CPL](http://www.eso.org/sci/software/cpl/) - The Common Pipeline Library; a set of libraries designed to be a
-- [EFL](https://www.enlightenment.org/) - Large collection of useful data structures and
-- [GLib](https://wiki.gnome.org/Projects/GLib) - Library of utility functions and structures, designed to be
-- [klib](http://attractivechaos.github.io/klib/) - Small and lightweight implementations of common algorithms and
-- [Cxref](http://www.gedanken.org.uk/software/cxref/) - Generates documentation in either LaTeX, HTML, RTF or
-- [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html) - Modestly tagged markup language that can be used to
-- [Doxygen](http://www.doxygen.nl/) - De-facto standard tool for generating documentation from
-- [Allegro](https://liballeg.org/) - Cross-platform, video game development and multimedia
-- [AssetKit](https://github.com/recp/AssetKit) - 3D asset importer/exporter/util library based on COLLADA/glTF specs [MIT
-- [astera](https://github.com/tek256/astera) - C99 Cross Platform 2D Game Library [MIT
-- [Duktape](https://duktape.org/) - Embeddable Javascript engine with a focus on portability and compact footprint [MIT.
-- [MetaCall](https://github.com/metacall/core) - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [Apache-2.0
-- [b63](https://github.com/okuvshynov/b63) - Light-weight micro-benchmarking tool for C. [Apache-2.0
+### 🎮 Programação de Jogos
+
+- [Allegro](https://liballeg.org/) - Multiplataforma, desenvolvimento de videogames e multimídia
+- [AssetKit](https://github.com/recp/AssetKit) - Importador de ativos 3D/exportador/biblioteca baseada em especificações COLADA/GlTF (MIT)
+- [astera](https://github.com/tek256/astera) - C99 Cross Platform 2D Game Library (MIT)
+- [cglm](https://github.com/recp/cglm) - Matemática OpenGL/Gráfica otimizada para C. (MIT)
+- [Chipmunk2D](http://chipmunk-physics.net/) - Biblioteca de física de jogos 2D rápida e leve.
+- [cmt](https://github.com/recp/cmt) - "C-B-B-B-A" para o quadro gráfico da Apple. (MIT)
+
+### 🧺 Mais links
+
+- [C Algorithms](https://fragglet.github.io/c-algorithms) - Coleta de algoritmos e estruturas comuns.
+- [CPL](http://www.eso.org/sci/software/cpl/) - A Biblioteca Comum de Tubulação, um conjunto de bibliotecas projetadas para ser uma
+- [EFL](https://www.enlightenment.org/) - Grande coleção de estruturas de dados úteis e
+- [GLib](https://wiki.gnome.org/Projects/GLib) - Biblioteca de funções de utilidade e estruturas, projetadas para ser
+- [klib](http://attractivechaos.github.io/klib/) - Pequenas e leves implementações de algoritmos comuns e
+- [Cairo](http://cairographics.org/) - Biblioteca de gráficos 2D. (LGPL-2.1-somente ou MPL-1.1.
+- [giflib](https://sourceforge.net/projects/giflib/) - Biblioteca para ler e escrever imagens de gif.
+- [graphene](http://ebassi.github.io/graphene/) - Camada fina de tipos de dados gráficos.
+- [heman](https://github.com/prideout/heman) - Pequena biblioteca de utilitários de imagem lidando com mapas de altura
+- [Cxref](http://www.gedanken.org.uk/software/cxref/) - Gera documentação em LaTeX, HTML, RTF ou
+- [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html) - Linguagem de marcação moderada que pode ser usada para <sub>📖 documentação</sub>
+- [Doxygen](http://www.doxygen.nl/) - Ferramenta padrão de fato para geração de documentação
+- [Duktape](https://duktape.org/) - Motor Javascript incorporado com foco na portabilidade e pegada compacta (MIT.
+- [MetaCall](https://github.com/metacall/core) - Multiplataforma Polyglot Runtime que suporta NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol e muito mais. (Apache-2.0
+- [b63](https://github.com/okuvshynov/b63) - Ferramenta de microbanco leve para C. (Apache-2.0
+- [GTK+](https://www.gtk.org/) - Kit de ferramentas para widgets em plataforma cruzada.
 
 ## 🔤 C# e .NET
 
-### API
+> 81 links sobre C# e .NET: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR (Request-Endpoint-Response) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
-- [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - NET Client for Telegram Bot API
-- [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of Telegram Client API
-- [ASP.NET Web API](https://dotnet.microsoft.com/apps/aspnet/apis) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
-- [Breeze](https://breeze.github.io/doc-net/) - API framework enabling rich data access by using the OData 3 protocol. Client libraries available for JavaScript and C#.
-- [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+### 🔌 API
 
-### Application Frameworks
+- [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - Meio-termo de alto desempenho entre os controladores clássicos da API ASP.NET Core e APIs mínimas, usando um padrão REPR (Requisito-Responsão do Ponto Final), esta biblioteca elimina a placa de…
+- [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - Cliente da NET para a API do Telegram Bot
+- [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Automatize uma conta de usuário no Telegram, usando a versão mais recente da API do cliente do Telegram
+- [ASP.NET Web API](https://dotnet.microsoft.com/apps/aspnet/apis) - Framework que facilita a construção de serviços HTTP que alcançam uma ampla gama de clientes, incluindo navegadores e dispositivos móveis
+- [Breeze](https://breeze.github.io/doc-net/) - Framework API permitindo acesso a dados ricos usando o protocolo OData 3.
+- [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) - Mobius adiciona a linguagem C# vinculando ao Apache Spark, permitindo a implementação do código do driver e operações de processamento de dados em C#.
 
-- [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) - NET Core Extensions and Helper NuGet packages
-- [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
-- [ABP](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
-- [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
-- [Runtime](https://github.com/dotnet/runtime) - The runtime repo contains the library implementation (formerly called "CoreFX") for .NET (5+). It includes System.Collections, System.IO, System.Xml and many other components.
-- [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework https://cslanet.com/
+### 🧱 Frameworks de Aplicação
 
-### Application Templates
+- [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) - NET Core Extensões e pacotes Ajudantes NuGet
+- [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - Um ponto de partida para novas aplicações modernas da ASP.NET MVC com melhores práticas e ferramentas mais populares.
+- [ABP](https://github.com/abpframework/abp) - A próxima geração do framework de aplicação web da ASP.NET Boilerplate.
+- [Orleans](https://github.com/dotnet/orleans) - Orleans é uma estrutura que fornece uma abordagem direta para construir aplicações de computação distribuídas em alta escala, sem a necessidade de aprender e aplicar concorrência complexa ou outra…
+- [Runtime](https://github.com/dotnet/runtime) - O repo de execução contém a implementação da biblioteca (anteriormente chamada "CoreFX") para .NET (5+), que inclui System.Collections, System.IO, System.Xml e muitos outros componentes.
+- [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework https://cslanet.com
 
-- [.NET Boxed Templates](https://github.com/Dotnet-Boxed/Templates) - NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
-- [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - backend: .NET Core, EF Core, C#; frontend: Babel, Webpack, React, CSS Modules
-- [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
-- [Serene](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
-- [Side-Waffle](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
-- [Template10](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
+### 🧩 Modelos de Aplicação
 
-### Authentication and Authorization
+- [.NET Boxed Templates](https://github.com/Dotnet-Boxed/Templates) - Modelos de projeto NET com baterias incluídas, fornecendo a quantidade mínima de código necessária para fazê-lo ir mais rápido.
+- [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - Reagir, Módulos CSS
+- [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - Uma solução .NET prototípica recomendada pela Fundação F#-inclui configuração de sistema de arquivos, paket para dependências e FAKE para automação de construção/teste.
+- [Serene](https://github.com/volkanceylan/Serenity) - Serenity é uma plataforma de aplicação ASP.NET MVC projetada para simplificar e encurtar o desenvolvimento de aplicações empresariais centradas em dados com arquitetura baseada em serviços.
+- [Side-Waffle](https://github.com/LigerShark/side-waffle) - Uma grande coleção de modelos úteis para o desenvolvimento da Web e Desktop.
+- [Template10](https://github.com/Windows-XAML/Template10) - Modelos do Windows 10 com padrões de design.
 
-- [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. [$
-- [ASP.NET Core Identity](https://github.com/dotnet/aspnetcore/) - New membership system for ASP.NET applications
-- [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
-- [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# Hawk authentication library
-- [Logto](https://github.com/logto-io/csharp) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization [$
-- [IdentityModel](https://github.com/IdentityModel) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
+### 🟤 Autenticação e Autorização
 
-### Blazor
+- [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - Uma biblioteca de servidor OpenID Connect totalmente certificada para .NET pela Fundação OpenID, fornecendo suporte abrangente para OAuth2 e OpenID Connect em todos os perfis. ($
+- [ASP.NET Core Identity](https://github.com/dotnet/aspnetcore/) - Novo sistema de associação para aplicações da ASP.NET
+- [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - Suporte de autenticação SAML para aplicativos ASP.NET
+- [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - Uma biblioteca de autenticação F# Hawk
+- [Logto](https://github.com/logto-io/csharp) - Uma infraestrutura IAM para aplicativos modernos e produtos SaaS, apoiando OIDC, OAuth 2.0 e SAML para autenticação e autorização ($
+- [IdentityModel](https://github.com/IdentityModel) - Biblioteca auxiliar para controle de identidade e acesso na API .NET 4.5 e MVC4/Web.
 
-- [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor. - NOTE: This is not affiliated with Microsoft or .NET
-- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
-- [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
-- [blazork8s](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
-- [MudBlazor](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+### 🟢 Blazor.
 
-### Build Automation
+- [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - Um conjunto de componentes da classe empresarial de UI baseados em Bootstrap e Blazor.
+- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - Um conjunto de componentes da classe empresarial UI baseados em Ant Design e Blazor WebAssembly.
+- [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) - Um conjunto de componentes da classe empresarial UI baseados em Material Design e Blazor WebAssembly.
+- [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise é uma biblioteca de componentes construída em cima de estruturas Blazor e CSS como Bootstrap, Bulma e Material.
+- [blazork8s](https://github.com/weibaohui/blazork8s) - Gerente do K8 em Blazor e .NET Core.
+- [MudBlazor](https://github.com/MudBlazor/MudBlazor) - Um framework de design de materiais para Blazor, permitindo que desenvolvedores .NET criem rapidamente aplicativos web, com documentação e exemplos extensos.
 
-- [Psake](https://github.com/psake/psake) - NET-based build automation tool written in PowerShell
-- [FAKE](https://github.com/fsharp/FAKE) - F# Make, a cross-platform build automation system
-- [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
-- [MSBuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
-- [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
-- [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
+### ⚙️ Constrói Automação
 
-### Caching
+- [Psake](https://github.com/psake/psake) - Ferramenta de automação baseada em NET escrita em PowerShell
+- [FAKE](https://github.com/fsharp/FAKE) - F# Make, um sistema de automação multiplataforma
+- [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell construir e testar ferramenta de automação inspirada em Psake.
+- [MSBuild](https://github.com/dotnet/msbuild) - O Microsoft Build Engine (MSBuild) é a plataforma de construção para .NET e Visual Studio
+- [Cake](https://github.com/cake-build/cake) - Cake (C# Make) é um sistema de automação multiplataforma com um DSL C#.
+- [Nake](https://github.com/yevhen/Nake) - Corredor de tarefas C# baseado em script mágico
 
-- [CacheCow](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
-- [Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store
-- [EasyCaching](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier! - NOTE: This is not affiliated with Microsoft or .NET
-- [CacheManager](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
-- [FastCache](https://github.com/jitbit/FastCache) - 10X faster alternative to MemoryCache for .NET
-- [Foundatio](https://github.com/FoundatioFx/Foundatio) - A common interface with in memory, Redis and hybrid implementations.
+### 🔶 Caching
 
-### CMS
+- [CacheCow](https://github.com/aliostad/CacheCow) - Uma implementação de cache HTTP da API Web ASP.NET tanto no cliente quanto no servidor
+- [Akavache](https://github.com/reactiveui/Akavache) - Uma loja assíncrona e persistente de valor-chave.
+- [EasyCaching](https://github.com/dotnetcore/EasyCaching) - Uma biblioteca de cache que contém usos básicos e avançados de caching que podem ajudar a lidar com caching mais fácil!
+- [CacheManager](https://github.com/MichaCo/CacheManager) - Uma interface comum e camada de abstração para caching.
+- [FastCache](https://github.com/jitbit/FastCache) - 10X mais rápido alternativa para MemoryCache para .NET
+- [Foundatio](https://github.com/FoundatioFx/Foundatio) - Uma interface comum com memória, Redis e implementações híbridas.
 
-- [FluentCMS](https://github.com/fluentcms/FluentCMS) - FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS)
-- [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
-- [mojoPortal](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
-- [Orchard](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-- [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. https://piranhacms.org
-- [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+### 🟡 CMS.
 
-### Linha de comando
+- [FluentCMS](https://github.com/fluentcms/FluentCMS) - FluentCMS é código aberto AI Driven ASP.NET Core Blazor Content Management System (CMS)
+- [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - Um CMS web que se concentra em UX e adaptabilidade
+- [mojoPortal](https://github.com/i7media/mojoportal) - MojoPortal é um banco de dados extensível, multibanco, amigável móvel, sistema de gerenciamento de conteúdo da web (CMS) e framework de aplicativos da web escrito em C# ASP.NET
+- [Orchard](https://github.com/OrchardCMS/Orchard) - Projeto gratuito, de código aberto e focado na comunidade que visa entregar aplicativos e componentes reutilizáveis na plataforma ASP.NET
+- [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) - Piranha é o framework divertido, rápido e leve .NET para desenvolver aplicações web baseadas em cms com uma mordida extra.
+- [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco é um sistema livre de gerenciamento de conteúdo construído na plataforma ASP.NET
 
-- [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-- [CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
-- [CliWrap](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
-- [CommandDotNet](https://github.com/bilal-fazlani/commanddotnet) - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.
-- [Command Line Parser](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
-- [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
+### 🔷 Linha de comando
 
-### Mais links
+- [Argu](https://github.com/fsprojects/Argu) - Argumento CLI declarativo e analisador de configuração XML para aplicações F#.
+- [CliFx](https://github.com/Tyrrrz/CliFx) - Framework declarativo para construir interfaces de linha de comando.
+- [CliWrap](https://github.com/Tyrrrz/CliWrap) - Embrulho para interfaces de linha de comando.
+- [CommandDotNet](https://github.com/bilal-fazlani/commanddotnet) - Defina comandos com métodos, defina subcomandos com propriedades ou classes aninhadas.
+- [Command Line Parser](https://github.com/commandlineparser/commandline) - A Biblioteca de Parsers da Linha de Comando oferece para aplicativos CLR uma API limpa e concisa para manipular argumentos de linha de comando e tarefas relacionadas.
+- [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Este é um garfo da Microsoft.Extensões.CommandLineUtils, que não está mais em desenvolvimento ativo.
 
-- [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
-- [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. [Free for OSS] [$]
-- [NDepend](https://www.ndepend.com/) - is a Visual Studio and VS Team Services extension that estimates your .NET code quality and Technical-Debt, that lets create code rules with C# LINQ syntax, visualize code structure and focus on changes and evolution. [$]
-- [StyleCop](https://github.com/StyleCop) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
-- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
-- [OneOf](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
-- [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
-- [Towel](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
-- [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
-- [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
-- [ILRepack](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
-- [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
-- [FastReport](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
-- [NReco PivotData](https://www.nrecosite.com/pivot_data_library_net.aspx) - in-memory data aggregation/OLAP library, pivot tables generation (render to HTML, exports), ASP.NET pivot builder control [$
-- [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Modular extension for Microsoft ASP.NET Web Optimization Framework. Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
-- [BusyBee](https://github.com/mikasjp/BusyBee) - Fast, in-memory background job processing for .NET apps with configurable queues, timeouts, parallelism, and built-in OpenTelemetry support.
-- [Nethermind](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
-- [iCal.NET](https://github.com/rianjs/ical.net) - iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
-- [Stream](https://github.com/GetStream/stream-chat-net) - Official .NET API client for Stream Chat, a service for building chat applications.
-- [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
+### 🧺 Mais links
+
+- [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - Um número de analisadores diagnósticos Roslyn inicialmente desenvolvidos para ajudar a entender o projeto e implementação das APIs de análise estática.
+- [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio é um analisador estático que protege a qualidade do código, segurança (SAST) e segurança de código.
+- [NDepend](https://www.ndepend.com/) - É uma extensão Visual Studio e VS Team Services que estima sua qualidade de código .NET e Technical-Debt, que permite criar regras de código com sintaxe C# LINQ, visualizar estrutura de código e…
+- [StyleCop](https://github.com/StyleCop) - StyleCop analisa código fonte C# para impor um conjunto de regras de estilo e consistência
+- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Biblioteca .NET poderosa para benchmarking.
+- [ClojureCLR](https://github.com/clojure/clojure-clr) - Um porto de Clojure para o CLR em C#
+- [ClojureCLR Next](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Reescrever Clojure CLR em F#
+- [F#](https://github.com/fsharp/fsharp/) - A linguagem de programação F# capacita todos a escreverem um código sucinto, robusto e performático.
+- [Fable](https://github.com/fable-compiler/Fable) - F# para JavaScript, TypeScript, JSX, Python, Dardo e Rust Transpiler
+- [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel para .NET é a linguagem de programação Eiffel disponibilizada no ambiente .NET. <sub>📖 documentação</sub>
+- [OneOf](https://github.com/mcintyre321/OneOf) - OneOf fornece sindicatos discriminados para C# com correspondência exaustiva de tempo.
+- [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algoritmo e biblioteca de estrutura de dados para .NET 3.5 e para cima. Algoritmia contém algoritmos sofisticados e estruturas de dados como gráficos, filas de prioridades, comando, refazer-redo e…
+- [Towel](https://github.com/ZacharyPatten/Towel) - estruturas de dados, algoritmos, matemática, metadados, extensões, console, medições e outras coisas úteis
+- [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - Uma conveniente estrutura de dados suportando eficiente indexação e consulta na memória, incluindo consultas de alcance e correspondência de cordas fuzzy.
+- [Fody](https://github.com/Fody/Fody) - Ferramenta extensível para tecer montagens .NET.
+- [ILRepack](https://github.com/gluck/il-repack) - Alternativa de código aberto para ILmerge.
+- [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil é uma biblioteca para gerar e inspecionar programas e bibliotecas na forma ECMA CIL.
+- [.NET Fiddle](https://dotnetfiddle.net/) - Escreva, compile e execute o código C#, F# e VB no navegador.
+- [Sharplab](https://sharplab.io/) - Executar código C# usando diferentes ramos e versões de Roslyn, ver o IL que foi produzido e examinar a saída do JIT.
+- [Entity Framework Playground](https://efplayground.io/) - Examine o SQL gerado para migrações e consultas escrevendo DbContext e consultas usando-o no navegador. Aprenda por exemplo, compare diferentes versões do Entity Framework e fornecedores como...
+- [FastReport](https://github.com/FastReports/FastReport) - O gerador de relatórios de código aberto para .NET Core 2.x/.Net Framework 4.x. FastReport pode ser usado em aplicativos ASP.NET MVC, Web API.
+- [NReco PivotData](https://www.nrecosite.com/pivot_data_library_net.aspx) - Agregação de dados em memória/Biblioteca OLAP, geração de tabelas pivô (entrega para HTML, exportações), controle do construtor pivô da ASP.NET ($
+- [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Extensão modular para Microsoft ASP.NET Web Optimization Framework, seus módulos suportam LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer junto com um monte de diferentes…
+- [BusyBee](https://github.com/mikasjp/BusyBee) - Processamento rápido de tarefas em memória para aplicativos .NET com filas configuráveis, tempo limite, paralelismo e suporte OpenTelemetria embutido.
+- [Nethermind](https://github.com/NethermindEth/nethermind) - Cliente Ethereum completo no núcleo .NET
+- [iCal.NET](https://github.com/rianjs/ical.net) - A iCal.NET é uma biblioteca de classe iCalendar (RFC 5545) para .NET destinada a fornecer conformidade RFC 5545, enquanto fornece total compatibilidade com aplicativos e bibliotecas populares de…
+- [Stream](https://github.com/GetStream/stream-chat-net) - Cliente oficial da API .NET para o Stream Chat, um serviço de criação de aplicativos de chat.
 
 ## 🔤 C++
 
-### Asynchronous Event Loop
+> 81 links sobre C++: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [Asio](https://github.com/chriskohlhoff/asio/) - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. [Boost] website
-- [Boost.Asio](https://github.com/boostorg/asio) - A cross-platform C++ library for network and low-level I/O programming. [Boost] website
-- [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. [BSD-3-Clause] website
-- [Ichor](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. [MIT]
-- [libev](https://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
-- [libevent](https://libevent.org/) - An event notification library. [BSD]
+### 📺 Evento Assíncrono
 
-### Biologia
+- [Asio](https://github.com/chriskohlhoff/asio/) - Uma biblioteca C++ multiplataforma para programação de rede e baixo nível de E/S que fornece aos desenvolvedores um modelo assíncrono consistente usando uma abordagem C++ moderna.
+- [Boost.Asio](https://github.com/boostorg/asio) - Uma biblioteca C++ multiplataforma para rede e programação de baixo nível.
+- [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - Uma implementação de código aberto do modelo ator em C++.
+- [Ichor](https://github.com/volt-software/ichor) - Uma fila de eventos que se concentra na segurança dos fios e fornece injeção dependente.
+- [libev](https://libev.schmorp.de/) - Um loop completo e de alto desempenho que é modelado vagamente após a liberação, mas sem suas limitações e bugs.
+- [libevent](https://libevent.org/) - Uma biblioteca de notificação de eventos.
 
-- [BioC++](https://biocpp.sourceforge.net/) - C++ Computational Libraries for Bioinformatics. [BSD]
-- [Chaste](https://www.cs.ox.ac.uk/chaste/) - An open source C++ library for the computational simulation of mathematical models developed for physiology and biology. [BSD]
-- [libsequence](https://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. [GPL]
-- [SeqAn](https://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
-- [Vcflib](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
-- [Wham](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
+### 🩺 Biologia.
 
-### Concurrency
+- [BioC++](https://biocpp.sourceforge.net/) - Bibliotecas Computacionais C++ para Bioinformática.
+- [Chaste](https://www.cs.ox.ac.uk/chaste/) - Uma biblioteca C++ de código aberto para a simulação computacional de modelos matemáticos desenvolvidos para fisiologia e biologia.
+- [libsequence](https://molpopgen.github.io/libsequence/) - Uma biblioteca C++ para representar e analisar dados genéticos da população.
+- [SeqAn](https://www.seqan.de/) - Algoritmos e estruturas de dados para análise de sequências com foco em dados biológicos.
+- [Vcflib](https://github.com/ekg/vcflib) - Uma biblioteca C++ para analisar e manipular arquivos VCF.
+- [Wham](https://github.com/zeeev/wham) - Variantes estruturais (SVs) em Genomas, aplicando testes de associação diretamente nos arquivos BAM.
 
-- [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. [LGPLv3+]
-- [ArrayFire](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. [BSD]
-- [Async++](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]
-- [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++14 multiple-producer-multiple-consumer lock-free queues based on circular buffers and std::atomic. [MIT]
-- [Boost.Compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. [Boost] website
-- [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
+### 🔷 Concurrência.
 
-### Configuration
+- [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka) - Biblioteca de abstração para aceleração paralela do kernel.
+- [ArrayFire](https://github.com/arrayfire/arrayfire) - Uma biblioteca GPU de propósito geral.
+- [Async++](https://github.com/Amanieu/asyncplusplus) - Um framework de concordância leve para C++11, inspirado na biblioteca PPL da Microsoft e na proposta padrão N3428 C++.
+- [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++14 filas de múltiplos produtores, multi-consumidores, livres de bloqueio, baseadas em buffers circulares e std: atômica.
+- [Boost.Compute](https://github.com/boostorg/compute) - Uma biblioteca de computação da GPU C++ para OpenCL.
+- [Bolt](https://github.com/HSA-Libraries/Bolt) - Uma biblioteca de modelos C++ otimizada para GPUs.
 
-- [inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. [MIT]
-- [inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. [BSD-3-Clause]
-- [inih](https://github.com/jtilly/inih) - Single header only C++ version of inih. [BSD-3-Clause]
-- [ini-cpp](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from inih. [BSD-3-Clause] website
-- [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
-- [inipp](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. [MIT]
+### 🔵 Configuração
 
-### Frameworks
+- [inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - Um analisador de arquivos Ini só para cabeçalhos e fácil de usar para C++.
+- [inih](https://github.com/benhoyt/inih) - Simples analisador de arquivos .INI em C, bom para sistemas incorporados.
+- [inih](https://github.com/jtilly/inih) - Uma única versão C++ do Inih.
+- [ini-cpp](https://github.com/SSARCandy/ini-cpp) - Um cabeçalho só versão C++, com alguma interface de leitura/escrita útil, estende-se do site inih.
+- [iniparser](https://github.com/ndevilla/iniparser) - INI analisador de arquivos.
+- [inipp](https://github.com/mcmtroffaes/inipp) - Simples processador de ini e gerador C++.
 
-- [abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. [Apache2]
-- [Apache C++ Standard Library](https://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
-- [APR](https://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
-- [ASL](https://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
-- [AUI](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. [MPL2]
-- [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. [Boost] website
+### 🔒 Criptografia
 
-### Linha de comando
+- [Bcrypt](https://bcrypt.sourceforge.net/) - Arquivos criptografados são portáteis em todos os sistemas operacionais e processadores suportados.
+- [BeeCrypt](https://beecrypt.sourceforge.net/) - Uma biblioteca de criptografia portátil e rápida.
+- [BoringSSL](https://boringssl.googlesource.com/boringssl) - Um garfo de OpenSSL que foi projetado para atender as necessidades do Google.
+- [Botan](https://botan.randombit.net/) - Uma biblioteca de criptografia para C++.
+- [Crypto++](https://github.com/weidai11/cryptopp) - Uma biblioteca gratuita da classe C++ de esquemas criptográficos.
+- [digestpp](https://github.com/kerukuro/digestpp) - Biblioteca de digestões de mensagens somente para cabeçalhos C++11.
 
-- [Argh!](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
-- [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. [MIT]
-- [args](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
-- [Argy](https://github.com/mshenoda/argy) - Command-Line Argument Parsing Library for Modern C++ — Simple, Intuitive, and Header-only with Zero Dependencies [MIT]
-- [barkeep](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. [Apache-2.0] website
-- [Boost.Program_options](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. [Boost] website
+### 🧱 Quadros.
 
-### Química
+- [abseil-cpp](https://github.com/abseil/abseil-cpp) - Bibliotecas comuns Abseil C++.
+- [Apache C++ Standard Library](https://stdcxx.apache.org/) - STDCXX, uma coleção de algoritmos, containers, iteradores e outros componentes fundamentais.
+- [APR](https://apr.apache.org/) - Apache Portable Runtime, outra biblioteca de funções utilitários multiplataforma.
+- [ASL](https://stlab.adobe.com/) - Bibliotecas Adobe Source fornecem bibliotecas de código C++ revisadas por pares e portáteis.
+- [AUI](https://github.com/aui-framework/aui) - Kit de ferramentas declarativo para IU para C++20.
+- [Boost](https://github.com/boostorg) - Uma grande coleção de bibliotecas genéricas C++.
 
-- [d-SEAMS](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. [GPL] website
-- [gromacs](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. [GPL] website
-- [Reaktoro](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. [LGPL] website
-- [LAMMPS](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [GPL] website
-- [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. [GPL] website
-- [MPQC](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. [GPL] website
+### 🔷 Linha de comando
 
-### Áudio
+- [Argh!](https://github.com/adishavit/argh) - Um minimalista, livre de frustração, que lida apenas com argumentos.
+- [argparse](https://github.com/p-ranav/argparse) - "Parser de Argumento para C++ Moderno" (MIT)
+- [args](https://github.com/taywee/args) - Uma simples biblioteca de análise de argumentos C++.
+- [Argy](https://github.com/mshenoda/argy) - Argumento de linha de comando que analisa a Biblioteca para C++ Moderna: Simples, Intuitivo e somente Cabeçalho com Dependências Zero (MIT)
+- [barkeep](https://github.com/oir/barkeep) - Pequeno cabeçalho C++ para exibir animações assincronizadas, contadores e barras de progresso.
+- [Boost.Program_options](https://github.com/boostorg/program_options) - Uma biblioteca para obter opções de programa através de métodos convencionais, como linha de comando e arquivo de configuração.
 
-- [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. [Apache-2.0] website
-- [Aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.[GPL-3.0] website
-- [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
-- [audioFlux](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
-- [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
-- [FMOD](https://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
+### 🔬 Química
 
-### Mais links
+- [d-SEAMS](https://github.com/d-SEAMS/seams-core) - Um motor de análise da trajetória da dinâmica molecular em C++ e Lua com Nix é um acrônimo para Análise de Elucidação Estrutural Deferida para Simulações Moleculares.
+- [gromacs](https://github.com/gromacs/gromacs) - Um site de implementação da dinâmica molecular paralela que passa mensagens.
+- [Reaktoro](https://github.com/reaktoro/reaktoro) - Um framework computacional em C++ e Python para modelagem de sistemas quimicamente reativos.
+- [LAMMPS](https://github.com/lammps/lammps) - Um código clássico de dinâmica molecular com foco em modelagem de materiais é um acrônimo para Simulador Atômico/Molecular Massivo Paralelo.
+- [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - Ambiente Numérico Adaptativo Multi-Resolução para Simulação Científica.
+- [MPQC](https://github.com/ValeevGroup/mpqc) - O programa Massively Parallel Quantum Chemistry, MPQC, calcula propriedades de átomos e moléculas a partir dos primeiros princípios usando o tempo independente equação Schrödinger. (GPL) website
 
-- [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. [LGPL]
-- [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
-- [Evolving Objects](https://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
-- [fastmcpp](https://github.com/0xeb/fastmcpp) - C++ port of the fastmcp Python library. [Apache2]
-- [frugally-deep](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. [MIT]
-- [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] website
-- [fixed-containers](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]
-- [flat_hash_map](https://github.com/skarupke/flat_hash_map) - A very fast flat hashtable with Fibonacci hashing.
-- [frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. [Apache-2.0]
-- [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
-- [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
-- [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
-- [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
-- [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. website
-- [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
-- [jech/dht](https://github.com/jech/dht) - BitTorrent DHT library in C. [MIT]
-- [libtorrent](https://github.com/arvidn/libtorrent) - (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. [BSD]
-- [LibTorrent](https://github.com/rakshasa/libtorrent) - (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
-- [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
-- [bit7z](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. [MPL2]
-- [bzip2](https://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
-- [bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. [LGPL]
-- [FastLZ](https://github.com/ariya/FastLZ) - Small & portable byte-aligned LZ77 compression. [MIT]
-- [Bcrypt](https://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
-- [BeeCrypt](https://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
-- [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. [Apache2]
+### 🎵 Áudio
 
-## 🔤 Dart
+- [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Um motor de áudio multiplataforma projetado com as necessidades dos jogos em mente.
+- [Aubio](https://github.com/aubio/aubio) - Uma biblioteca para análise de áudio e música.
+- [AudioFile](https://github.com/adamstark/AudioFile) - Uma simples biblioteca C++ para ler e escrever arquivos de áudio.
+- [audioFlux](https://github.com/libAudioFlux/audioFlux) - Uma biblioteca C para análise de áudio e música, extração de recursos.
+- [dr_libs](https://github.com/mackron/dr_libs) - Bibliotecas de áudio de arquivo único para C e C++.
+- [FMOD](https://www.fmod.org/) - Uma ferramenta de criação de áudio e áudio para jogos fácil de usar.
 
-### Comunidade
+### 🧺 Mais links
 
-- [Dartlang SubReddit](https://www.reddit.com/r/dartlang/) <sub>comunidade</sub>
-- [Gitter Chat Channel](https://gitter.im/dart-lang/home)
-- [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc) <sub>comunidade</sub>
-- [Stack Overflow](https://stackoverflow.com/tags/dart)
-- [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
-- [Telegram chat (ru-RU)](https://t.me/rudart) <sub>comunidade</sub>
-
-### Ferramentas
-
-- [DevTools](https://dart.dev/tools/dart-devtools)
-- [dart2js](https://www.dartlang.org/tools/dart2js/)
-- [js2dart](https://github.com/vojtajina/js2dart)
-- [Stagehand](https://github.com/dart-lang/stagehand)
-- [Crossdart](https://crossdart.info/)
-- [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) <sub>app</sub>
-
-### Server Frameworks
-
-- [Jaguar](https://github.com/Jaguar-dart/jaguar)
-- [Start](https://github.com/lvivski/start)
-- [Shelf](https://pub.dartlang.org/packages/shelf)
-- [shelf](https://pub.dartlang.org/search?q=shelf_)
-- [Vane](https://github.com/Scorpiion/Vane)
-- [Rikulo Stream](https://github.com/rikulo/stream)
-
-### Utilitários
-
-- [Archive](https://pub.dartlang.org/packages/archive)
-- [built_collection](https://github.com/google/built_collection.dart)
-- [built_value](https://github.com/google/built_value.dart)
-- [Frappe](https://pub.dartlang.org/packages/frappe)
-- [Quiver](https://github.com/google/quiver-dart)
-- [route_hierarchical](https://github.com/angular/route.dart)
-
-### Mais links
-
-- [Flame](https://github.com/luanpotter/flame)
-- [StageXL](http://www.stagexl.org/)
-- [DartRocket](https://github.com/StrykerKKD/dartrocket)
-- [Pixi Dart](https://github.com/FedeOmoto/pixi)
-- [Ranger](https://github.com/wdevore/Ranger-Dart)
-- [html](https://pub.dartlang.org/packages/html)
-- [markdown](https://github.com/dart-lang/markdown)
-- [PetitParser](https://github.com/petitparser/dart-petitparser)
-- [XML](https://pub.dartlang.org/packages/xml)
-- [YAML](https://pub.dartlang.org/packages/yaml)
-- [Hello Dart](http://code.makery.ch/library/hello-dart/)
-- [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
-- [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial)
-- [Dart for beginner](https://www.myfreax.com/tag/dart/)
-- [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/)
-- [AngularDart Community](https://github.com/angulardart-community)
-- [Flutter](https://flutter.dev/)
-- [MDL/Dart](http://mdl.mikemitterer.at//)
-- [OverReact](https://workiva.github.io/over_react/)
-- [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/)
-- [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle)
-- [Emacs Plugin](https://github.com/nex3/dart-mode)
-- [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin)
-- [Postgres](https://github.com/stablekernel/postgresql-dart)
-- [SQLJockey](https://github.com/jamesots/sqljocky)
-- [PostgreSQL](https://github.com/xxgreg/dart_postgresql)
-- [Angular DI](https://webdev.dartlang.org/angular/guide/dependency-injection)
-- [Dependencies](https://github.com/marcguilera/dependencies.dart)
-- [package: inject](https://github.com/google/inject.dart)
-- [mustache_template](https://pub.dev/packages/mustache_template)
-- [jaded](https://github.com/dartist/jaded)
-- [mason](https://github.com/felangel/mason)
-- [Guinness](https://github.com/vsavkin/guinness)
-- [test](https://pub.dartlang.org/packages/test)
-- [spec](https://pub.dev/packages/spec)
-- [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart)
-- [Spine Dart](https://github.com/FedeOmoto/spine)
-- [universal_io](https://github.com/terrier989/universal_io)
-- [universal_html](https://github.com/terrier989/universal_html)
-- [Pub](https://pub.dartlang.org/)
-- [Cloudsmith](https://cloudsmith.io/l/dart-repository/)
-- [Constrain](https://pub.dartlang.org/packages/constrain)
-- [validator.dart](https://github.com/karan/validator.dart)
-- [Sentry](https://github.com/getsentry/sentry-dart)
-- [image](https://github.com/brendan-duncan/image)
-- [isolator](https://pub.dev/packages/isolator)
-- [Objectory](https://github.com/vadimtsushko/objectory)
-- [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd)
-- [Freezed](https://github.com/rrousselGit/freezed)
-- [Jaspr](https://docs.page/schultek/jaspr)
+- [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - Uma biblioteca de rede neural artificial baseada em GPU.
+- [btsk](https://github.com/aigamedev/btsk) - Jogo Behavior Tree Starter Kit.
+- [Evolving Objects](https://eodev.sourceforge.net/) - Uma biblioteca de computação evolucionária ANSI-C++ baseada em modelos que ajuda você a escrever seus próprios algoritmos de otimização estocástica incrivelmente rápido.
+- [fastmcpp](https://github.com/0xeb/fastmcpp) - Porta C++ da biblioteca Python fastmcp. (Apache2)
+- [frugally-deep](https://github.com/Dobiasd/frugally-deep) - Biblioteca só para usar modelos Keras em C++.
+- [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - Bibliotecas Úteis Simples, C++17/20 header-only bitset dinâmico.
+- [fixed-containers](https://github.com/teslamotors/fixed-containers) - Biblioteca C++20 só para cabeçote que fornece contêineres de constexpr com capacidade fixa.
+- [flat_hash_map](https://github.com/skarupke/flat_hash_map) - Uma hashtable plana muito rápida com Fibonacci hashing.
+- [frozen](https://github.com/serge-sans-paille/frozen) - Uma alternativa somente para cabeçalhos, constexpr para gperf para usuários C++14. (Apache-2.0)
+- [Hashmaps](https://github.com/goossaert/hashmap) - Implementação de algoritmos abertos da tabela de hash em C++.
+- [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - Uma coleção de classes e funções, que são escritas na linguagem central e parte do próprio padrão ISO C++.
+- [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - A Biblioteca Padrão de Modelos (STL).
+- [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) - Uma especificação de uma biblioteca padrão C para sistemas POSIX.
+- [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - Comitê de Normas C++.
+- [The GNU C Library](https://www.gnu.org/software/libc/manual) - O propósito deste manual é dizer como usar as instalações da Biblioteca GNU C.
+- [jech/dht](https://github.com/jech/dht) - Biblioteca BitTorrent DHT em C. (MIT)
+- [libtorrent](https://github.com/arvidn/libtorrent) - Uma funcionalidade eficiente completa implementação de Bittorrent C++.
+- [LibTorrent](https://github.com/rakshasa/libtorrent) - Biblioteca BitTorrent.
+- [libutp](https://github.com/bittorrent/libutp) - Biblioteca do Protocolo de Transporte UTorrent.
+- [bit7z](https://github.com/rikyoz/bit7z) - Uma biblioteca estática C++ oferecendo uma interface limpa e simples para as bibliotecas compartilhadas 7-zip. (MPL2)
+- [bzip2](https://www.bzip.org/) - Um compressor de dados livre de patentes e de alta qualidade.
+- [bzip3](https://github.com/kspalaiologos/bzip3) - Um sucessor espiritual melhor e mais forte da BZip2.
+- [FastLZ](https://github.com/ariya/FastLZ) - Compressão LZ77 com bytes pequenos e portáteis.
+- [commata](https://github.com/furfurylic/commata) - Só mais um analisador C++17 CSV.
+- [csv2](https://github.com/p-ranav/csv2) - Processador CSV rápido para C++ moderno.
+- [Csv::Parser](https://github.com/ashaduri/csv-parser) - Processador CSV em tempo de compilação e execução escrito em C++17.
+- [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Pequena, fácil de usar e rápida biblioteca só para ler arquivos CSV.
 
 ## 🔤 Elixir
 
-### Algorithms and Data structures
+> 81 links sobre Elixir: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [aja](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
-- [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
-- [aruspex](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
-- [bimap](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of bidirectional maps and multimaps.
-- [bitmap](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of bitmaps.
-- [blocking_queue](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
+### 📊 Algoritmos e estruturas de dados
 
-### Aplicativos
+- [aja](https://github.com/sabiwara/aja) - Vetores persistentes de alto desempenho e mapas encomendados.
+- [array](https://github.com/takscape/elixir-array) - Uma biblioteca Elixir para a matriz de Erlang.
+- [aruspex](https://github.com/dkendal/aruspex) - Aruspex é um solucionador de restrições configurável, escrito puramente em Elixir.
+- [bimap](https://github.com/mkaput/elixir-bimap) - Pura implementação de Elixir de mapas bidirecionais e múltiplos mapas.
+- [bitmap](https://github.com/hashd/bitmap-elixir) - Pura implementação de bitmaps.
+- [blocking_queue](https://github.com/joekain/BlockingQueue) - BlockingQueue é uma fila simples implementada como um GenServer.
 
-- [Caddishouse](https://github.com/caddishouse/reader) - A web-based document reader that connects to your cloud storage accounts using Phoenix/LiveView.
-- [CaptainFact](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. (Docs).
-- [chat](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-- [Consolex](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
-- [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
-- [exchat](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+### 📱 Aplicativos.
 
-### Autenticação
+- [Caddishouse](https://github.com/caddishouse/reader) - Um leitor de documentos baseado na web que se conecta às suas contas de armazenamento em nuvem usando Phoenix/LiveView.
+- [CaptainFact](https://github.com/CaptainFact/captain-fact-api) - Uma plataforma de verificação de dados em tempo real.
+- [chat](https://github.com/synrc/chat) - Uma pequena amostra de texto baseado em N2O.
+- [Consolex](https://github.com/sivsushruth/consolex) - Consolex é uma ferramenta que permite anexar um console baseado em web a qualquer projeto mix.
+- [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - Aplicativo Elixir para servir imagens de Dragonfly.
+- [exchat](https://github.com/tony612/exchat) - Um aplicativo parecido com o Slack, de Elixir, Phoenix e React.
 
-- [aeacus](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
-- [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
-- [aws_auth](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
-- [basic_auth](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
-- [coherence](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix. (Docs).
-- [doorman](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+### 🟣 Autenticação
 
-### Authorization
+- [aeacus](https://github.com/zmoshansky/aeacus) - Um simples módulo de autenticação configurável identidade/senha (compatível com Ecto/Phoenix).
+- [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Estilo Senha Hashing.
+- [aws_auth](https://github.com/bryanjos/aws_auth) - AWS Assinatura Versão 4 Assinando Biblioteca para Elixir.
+- [basic_auth](https://github.com/CultivateHQ/basic_auth) - Plug Elixir para adicionar autenticação básica HTTP a um aplicativo.
+- [coherence](https://github.com/smpallen99/coherence) - Coerência é um sistema de autenticação configurável para Phoenix.
+- [doorman](https://github.com/BlakeWilliams/doorman) - Ferramentas para tornar a autenticação Elixir simples e flexível.
 
-- [authorize](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
-- [bodyguard](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
-- [canada](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
-- [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. (Docs).
-- [speakeasy](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
-- [terminator](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. (Docs).
+### 🟢 Autorização
 
-### Build Tools
+- [authorize](https://github.com/jfrolich/authorize) - Autorização baseada em regras, para as regras de autorização avançadas.
+- [bodyguard](https://github.com/schrockwell/bodyguard) - Uma biblioteca de autorização flexível para aplicações Phoenix.
+- [canada](https://github.com/jarednorman/canada) - Uma simples biblioteca de autorização que fornece uma interface amigável usando regras declarativas de permissão.
+- [canary](https://github.com/cpjk/canary) - Uma biblioteca de autorização para aplicativos Elixir que restringe os recursos que o usuário atual pode acessar.
+- [speakeasy](https://github.com/coryodaniel/speakeasy) - Autenticação baseada em Middleware e autorização para absinto GraphQL alimentado por guarda-costas.
+- [terminator](https://github.com/MilosMosovsky/terminator) - Autorização baseada em banco de dados (ACL), com regras DSL personalizadas para exigir permissões necessárias.
 
-- [active](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-- [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
-- [dismake](https://github.com/jarednorman/dismake) - Mix compiler running make.
-- [etude](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
-- [Exscript](https://github.com/liveforeverx/exscript) - Elixir escript library.
-- [mad](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+### 🛠️ Ferramentas de Construção
 
-### Caching
+- [active](https://github.com/synrc/active) - Recompilação e recarga de mudanças no FileSystem.
+- [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Plug-in Rotor para compilar arquivos CoffeeScript.
+- [dismake](https://github.com/jarednorman/dismake) - Misture a marca do compilador em execução.
+- [etude](https://github.com/exstruct/etude) - Computador paralelo para Erlang/Elixir.
+- [Exscript](https://github.com/liveforeverx/exscript) - Biblioteca escripta Elixir.
+- [mad](https://github.com/synrc/mad) - Pequena e rápida substituição de barras.
 
-- [cachex](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with a wide featureset.
-- [con_cache](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
-- [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
-- [jc](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
-- [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
-- [memoize](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
+### 🔶 Caching
 
-### Chatting
+- [cachex](https://github.com/whitfin/cachex) - Uma poderosa biblioteca de caching para Elixir com um conjunto amplo.
+- [con_cache](https://github.com/sasa1977/con_cache) - ConCache é um armazenamento de chave/valor baseado no ETS.
+- [elixir_locker](https://github.com/tsharju/elixir_locker) - Locker é um embrulho Elixir para a biblioteca Erlang que fornece algumas bibliotecas úteis que devem facilitar o uso do armário.
+- [jc](https://github.com/jr0senblum/jc) - Em memória, cache distribuível com pub/sub, JSON-query e suporte de consistência.
+- [lru_cache](https://github.com/arago/lru_cache) - Cache simples da LRU, implementado com ets.
+- [memoize](https://github.com/melpon/memoize) - Uma macro de memorização que facilmente funciona em cache.
 
-- [alice](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
-- [chatty](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-- [cog](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-- [ExGram](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. (Docs).
-- [ExIrc](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
-- [ExMustang](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
+### 🔶 Conversando.
 
-### Mais links
+- [alice](https://github.com/alice-bot/alice) - Uma estrutura de robôs Slack para Elixir.
+- [chatty](https://github.com/alco/chatty) - Um cliente básico do IRC que é mais útil para escrever um bot.
+- [cog](https://github.com/operable/cog) - Cog é uma plataforma de chat aberto que lhe dá uma linha de comando segura e colaborativa na sua janela de bate-papo.
+- [ExGram](https://github.com/rockneurotiko/ex_gram) - Uma biblioteca para construir o Telegram Bots, você pode usar os métodos e modelos de baixo nível ou usar o framework realmente opinado incluído.
+- [ExIrc](https://github.com/bitwalker/exirc) - Adaptador de cliente IRC para projetos Elixir.
+- [ExMustang](https://github.com/techgaun/ex_mustang) - Um simples, sem noção e uma coleção de socorristas.
 
-- [alf](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
-- [bpe](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. (Doc).
-- [pooler](https://github.com/seth/pooler) - An OTP Process Pool Application.
-- [poolex](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
-- [spawn](https://github.com/eigr/spawn) - Elixir poliglot actors service mesh.
-- [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
-- [Beaver](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
-- [ExLLama](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang. (Docs).
-- [Exnn](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. (Docs).
-- [GenAI](https://github.com/noizu-labs-ml/genai) - An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models. (Docs).
-- [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
-- [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings.
-- [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK bindings.
-- [firmata](https://github.com/entone/firmata) - This package implements the Firmata protocol.
-- [synthex](https://github.com/bitgamma/synthex) - A signal synthesis library.
-- [aws](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
-- [Batteries Included](https://github.com/batteries-included/batteries-included) - A self hostable platform for automation/UI driven Kubernetes; built in Elixir and Golang the entire UI is built with Phoenix Live View.
+### ☁️ Infraestrutura e Gestão de Nuvem
+
+- [aws](https://github.com/aws-beam/aws-elixir) - Clientes da AWS para Elixir.
+- [Batteries Included](https://github.com/batteries-included/batteries-included) - Uma plataforma auto-hostável para automação/UI impulsionada por Kubernetes, construída em Elixir e Golang toda a UI é construída com Phoenix Live View.
 - [Bonny](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
-- [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
-- [discovery](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
-- [beamchmark](https://github.com/membraneframework/beamchmark) - A Tool for measuring EVM performance.
-- [benchee](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
-- [benchfella](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
-- [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
-- [connection](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
-- [gen_state_machine](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen_statem.
-- [stockastic](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
-- [bento](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
-- [tracker_request](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
-- [wire](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
-- [BSONMap](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
-- [cyanide](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
+- [Cloudi](http://cloudi.org/) - CloudI é para tarefas de processamento do servidor que requerem transações em tempo real.
+- [discovery](https://github.com/undeadlabs/discovery) - Uma aplicação de OTP para serviços de auto-descoberta com Cônsul.
+- [erlcloud](https://github.com/erlcloud/erlcloud) - Biblioteca de computação em nuvem para Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
+
+### 🟢 Análise de Código
+
+- [belvedere](https://github.com/nirvana/belvedere) - Um exemplo de integração do CircleCI com Elixir.
+- [coverex](https://github.com/alfert/coverex) - Relatórios de cobertura para Elixir.
+- [credo](https://github.com/rrrene/credo) - Uma ferramenta estática de análise de código com foco na consistência do código e ensinando Elixir. (Docs).
+- [DepViz](https://depviz.jasonaxelson.com/) - Uma ferramenta visual para ajudar os desenvolvedores a entenderem Elixir recompilação em seus projetos.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) - Misture tarefas para simplificar o uso de Dialyzer em projetos Elixir.
+- [ex_check](https://github.com/karolsluszniak/ex_check) - Uma tarefa para executar eficientemente todas as ferramentas de análise e teste de código em um projeto Elixir.
+
+### 🧺 Mais links
+
+- [alf](https://github.com/antonmi/ALF) - Framework de camada de aplicação baseado em fluxo.
+- [bpe](https://github.com/spawnproc/bpe) - Motor de Processos de Negócios em Erlang. (Doc).
+- [pooler](https://github.com/seth/pooler) - Uma Aplicação de Processo OTP.
+- [poolex](https://github.com/general-CbIC/poolex) - Gerente de piscina elixir puro.
+- [spawn](https://github.com/eigr/spawn) - Elixir Poliglot atores de rede de serviço.
+- [Axon](https://github.com/elixir-nx/axon) - Redes Neurais NX.
+- [Beaver](https://github.com/beaver-lodge/beaver) - Beaver é um kit LLVM/MLIR em Elixir e Zig.
+- [ExLLama](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensões para Elixir/Erlang. (Docs).
+- [Exnn](https://github.com/zampino/exnn) - Evolutivo Framework de Redes Neurais à la G.Sher escrito em Elixir. (Docs).
+- [GenAI](https://github.com/noizu-labs-ml/genai) - Um extenso Complemento de APIs Generativo com completação básica de bate-papo com suporte para ferramentas fornecidas para os modelos Gemini, Anthropic, OpenAI e Mistral.
+- [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio encadernação.
+- [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA encadernação.
+- [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK.
+- [firmata](https://github.com/entone/firmata) - Este pacote implementa o protocolo Firmata.
+- [synthex](https://github.com/bitgamma/synthex) - Uma biblioteca de síntese de sinais.
+- [beamchmark](https://github.com/membraneframework/beamchmark) - Uma ferramenta para medir o desempenho da EVM.
+- [benchee](https://github.com/PragTob/benchee) - Benchmarking fácil e extensível em Elixir.
+- [benchfella](https://github.com/alco/benchfella) - Ferramenta de benchmarking para Elixir.
+- [bmark](https://github.com/joekain/bmark) - Uma ferramenta de benchmarking para Elixir.
+- [connection](https://github.com/fishcakez/connection) - Comportamento de conexão para processos de conexão.
+- [gen_state_machine](https://github.com/antipax/gen_state_machine) - Embrulho Elixir para o Estado Gen.
+- [stockastic](https://github.com/shanewilton/stockastic) - Embrulho Elixir simples para a API de caças.
+- [bento](https://github.com/folz/bento) - Uma biblioteca incrivelmente rápida, correta e pura de Elixir Bencoding.
+- [tracker_request](https://github.com/alehander42/tracker_request) - Lidando com pedidos de rastreadores e respostas.
+- [wire](https://github.com/alehander42/wire) - Codifique e descodificar mensagens de protocolo com o Elixir.
+- [BSONMap](https://github.com/Nebo15/bsoneach) - Pacote Elixir que aplica uma função a cada documento em um arquivo BSON e tem um baixo consumo de memória.
+- [cyanide](https://github.com/ispirata/cyanide) - Uma biblioteca de codificação/decodificação do Elixir BSON.
 
 ## 🔤 Go
 
-### Audio and Music
+> 81 links sobre Go: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [beep](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
-- [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
-- [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
-- [go-aac](https://github.com/tphakala/go-aac) - Pure-Go AAC-LC encoder and decoder ported from FFmpeg.
-- [go-audio-resampler](https://github.com/tphakala/go-audio-resampler) - Pure-Go, high-quality audio resampler with SIMD acceleration.
-- [go-flac](https://github.com/tphakala/go-flac) - Native Go FLAC encoder and decoder with SIMD acceleration.
+### 🎵 Áudio e Música
 
-### Authentication and Authorization
+- [beep](https://github.com/gopxl/beep) - Uma simples biblioteca para reprodução e manipulação de áudio.
+- [flac](https://github.com/mewkiz/flac) - Codificador/descodificador nativo Go FLAC com suporte para fluxos FLAC.
+- [gaad](https://github.com/Comcast/gaad) - Nativo Go AAC bitstream parser.
+- [go-aac](https://github.com/tphakala/go-aac) - Codificador AAC-LC puro e decodificador portado do FFmpeg.
+- [go-audio-resampler](https://github.com/tphakala/go-audio-resampler) - Puro Go, reamostrador de áudio de alta qualidade com aceleração SIMD.
+- [go-flac](https://github.com/tphakala/go-flac) - Codificador nativo e decodificador com aceleração SIMD.
 
-- [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
-- [authgate](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant (RFC 8628), Authorization Code Flow with PKCE (RFC 6749 + RFC 7636), and Client Credentials Grant for machine-to-machine authentication.
-- [branca](https://github.com/essentialkaos/branca) - branca token specification implementation for Golang 1.15+.
-- [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
-- [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
-- [go-githubauth](https://github.com/jferrl/go-githubauth) - Utilities for GitHub authentication: generate and use GitHub application and installation tokens.
+### 🟤 Autenticação e Autorização
 
-### Bit-packing and Compression
+- [authboss](https://github.com/volatiletech/authboss) - Sistema de autenticação modular para a web.
+- [authgate](https://github.com/go-authgate/authgate) - Um leve servidor de autorização OAuth 2.0 que suporta a concessão de autorização do dispositivo (RFC 8628), fluxo de código de autorização com PKCE (RFC 6749 + RFC 7636), e bolsas de credencial para…
+- [branca](https://github.com/essentialkaos/branca) - Especificação do símbolo branco para Golang 1,15+.
+- [casbin](https://github.com/hsluoyz/casbin) - Biblioteca de autorização que suporta modelos de controle de acesso como ACL, RBAC e ABAC.
+- [cookiestxt](https://github.com/mengzhuo/cookiestxt) - fornece um analisador de formato de arquivo cookies.txt.
+- [go-githubauth](https://github.com/jferrl/go-githubauth) - Utilitários para autenticação GitHub: gerar e usar o aplicativo GitHub e tokens de instalação.
 
-- [bingo](https://github.com/iancmcc/bingo) - Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes.
-- [binpacker](https://github.com/zhuangsirui/binpacker) - Binary packer and unpacker helps user build custom binary stream.
-- [bit](https://github.com/yourbasic/bit) - Golang set data structure with bonus bit-twiddling functions.
-- [crunch](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily.
-- [go-ef](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding.
-- [roaring](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets.
+### 🟢 Embalar e Comprimir
 
-### Blockchain
+- [bingo](https://github.com/iancmcc/bingo) - Rápido, zero-alocação, lexicográfico-pedido-preservando embalagem de tipos nativos para bytes.
+- [binpacker](https://github.com/zhuangsirui/binpacker) - O empacotador binário e o desembaçador ajuda o usuário a construir um fluxo binário personalizado.
+- [bit](https://github.com/yourbasic/bit) - Golang define estrutura de dados com funções bônus.
+- [crunch](https://github.com/superwhiskers/crunch) - Ir pacote implementando buffers para lidar com vários tipos de dados facilmente.
+- [go-ef](https://github.com/amallia/go-ef) - A implementação da codificação Elias-Fano.
+- [roaring](https://github.com/RoaringBitmap/roaring) - Vá para o pacote implementando bits compactados.
 
-- [cometbft](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
-- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - A Framework for Building Public Blockchains in the Cosmos Ecosystem.
-- [gno](https://github.com/gnolang/gno) - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.
-- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
-- [gosemble](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
-- [gossamer](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host.
+### ⛓️ Blockchain
 
-### Bot Building
+- [cometbft](https://github.com/cometbft/cometbft) - É um garfo de Tendermint Core e implementa o algoritmo de consenso Tendermint.
+- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Um Framework para a construção de Blockchains públicos no ecossistema Cosmos.
+- [gno](https://github.com/gnolang/gno) - Uma suíte de contrato inteligente e abrangente construída com Golang e Gnolang, uma variante determinística para "Go" para blockchains.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) - Implementação oficial do protocolo Ethereum.
+- [gosemble](https://github.com/LimeChain/gosemble) - Uma estrutura baseada em Go para construir tempos de corrida compatíveis com Polkadot/Substrate.
+- [gossamer](https://github.com/ChainSafe/gossamer) - Uma implementação Go do Host Polkadot.
 
-- [arikawa](https://github.com/diamondburned/arikawa) - A library and framework for the Discord API.
-- [bot](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components.
-- [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
-- [go-joe](https://joe-bot.net/) - A general-purpose bot library inspired by Hubot but written in Go.
-- [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
-- [go-tg](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+### 🟡 Bloom e Cuckoo filtroes
 
-### Build Automation
+- [bloom](https://github.com/bits-and-blooms/bloom) - Vá embalar implementando filtros Bloom.
+- [bloom](https://github.com/zhenjl/bloom) - Filtros Bloom implementados em Go.
+- [bloom](https://github.com/yourbasic/bloom) - Golang Bloom implementação de filtro.
+- [bloomfilter](https://github.com/OldPanda/bloomfilter) - Mais uma implementação Bloomfilter em Go, compatível com a biblioteca de goiaba do Java.
+- [boomfilters](https://github.com/tylertreat/BoomFilters) - Estruturas de dados probabilísticas para processar fluxos contínuos e sem limites.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Filtro cuco: um filtro cuco abrangente, que é configurável e espaço otimizado em comparação com outros implementos, e todas as características mencionadas no papel original estão disponíveis.
 
-- [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands.
-- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
-- [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
-- [gaper](https://github.com/maxclaus/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
-- [gilbert](https://go-gilbert.github.io/) - Build system and task runner for Go projects.
-- [gob](https://github.com/kcmvp/gob) - Gradle/Maven like build tool for Go projects.
+### ⚙️ Edifício Bot.
 
-### Configuration
+- [arikawa](https://github.com/diamondburned/arikawa) - Uma biblioteca e framework para a API Discórdia.
+- [bot](https://github.com/go-telegram/bot) - Zero dependências Telegram Bot biblioteca com componentes adicionais UI.
+- [echotron](https://github.com/NicoNex/echotron) - Uma biblioteca elegante e concorrente para o Telegram Bots em Go.
+- [go-joe](https://joe-bot.net/) - Uma biblioteca de bots inspirada em Hubot, mas escrita em Go.
+- [go-sarah](https://github.com/oklahomer/go-sarah) - Framework para construir um bot para serviços de bate-papo desejados, incluindo LINE, Slack, Gitter e muito mais.
+- [go-tg](https://github.com/mr-linch/go-tg) - Gerado da biblioteca oficial do doutor Go para acessar a API do Telegram Bot, com baterias para construir bots complexos incluídos.
 
-- [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
-- [argus](https://github.com/agilira/argus) - File watching and configuration management with MPSC ring buffer, adaptive batching strategies, and universal format parsing (JSON, YAML, TOML, INI, HCL, Properties).
-- [azureappconfiguration](https://github.com/Azure/AppConfiguration-GoProvider) - The configuration provider for consuming data in Azure App Configuration from Go applications.
-- [bcl](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
-- [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
-- [config](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
+### ⚙️ Constrói Automação
 
-### Continuous Integration
+- [1build](https://github.com/gopinath-langote/1build) - Ferramenta de linha de comando para gerenciar comandos específicos do projeto.
+- [air](https://github.com/cosmtrek/air) - Recarregar Air-Live para aplicativos Go.
+- [anko](https://github.com/GuilhermeCaruso/anko) - Observador de aplicativos simples para múltiplas linguagens de programação.
+- [gaper](https://github.com/maxclaus/gaper) - Constrói e reinicia um projeto Go quando ele falha ou algumas mudanças de arquivos.
+- [gilbert](https://go-gilbert.github.io/) - Construir sistema e executor de tarefas para projetos Go.
+- [gob](https://github.com/kcmvp/gob) - Gradle/Maven como ferramenta de construção para projetos Go.
 
-- [abstruse](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
-- [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
-- [CDS](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
-- [coverage](https://github.com/jbunds/coverage) - A simple Web UI for Go test coverage, and the go-test-coverage-html-report reusable GitHub Action.
-- [dot](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
-- [drone](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
+### 🔵 Configuração
 
-### Linha de comando
+- [aconfig](https://github.com/cristalhq/aconfig) - Carregador de configuração simples, útil e opinativo.
+- [argus](https://github.com/agilira/argus) - Monitoramento de arquivos e gerenciamento de configuração com MPSC ring buffer, estratégias adaptativas de loteamento e análise universal de formato (JSON, YAML, TOML, INI, HCL, Propriedades).
+- [azureappconfiguration](https://github.com/Azure/AppConfiguration-GoProvider) - O provedor de configuração para consumir dados em aplicativos Azure da Go.
+- [bcl](https://github.com/wkhere/bcl) - BCL é uma linguagem de configuração semelhante à HCL.
+- [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Leitor de configuração minimalista (dos arquivos, ENV, e onde você quiser).
+- [config](https://github.com/JeremyLoy/config) - Configuração de aplicativos nativos na nuvem, ligue ENV para estruturas em apenas duas linhas.
 
-- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-- [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
-- [box-cli-maker](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
-- [bubble-table](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
-- [bubbles](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
-- [bubbletea](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+### 🔌 Integração contínua.
 
-### Mais links
+- [abstruse](https://github.com/bleenco/abstruse) - Abuso é uma plataforma de IC distribuída.
+- [Bencher](https://bencher.dev/) - Um conjunto de ferramentas contínuas de benchmarking projetadas para capturar regressões de desempenho em IC.
+- [CDS](https://github.com/ovh/cds) - Enterprise-Grade CI/CD e DevOps Automação Plataforma Open Source.
+- [coverage](https://github.com/jbunds/coverage) - Uma simples cobertura de teste da interface Web para Go, e o relatório go-test-coverage-html reutilizável GitHub Action.
+- [dot](https://github.com/opnlabs/dot) - Um sistema de integração mínima e local que usa o Docker para executar trabalhos simultaneamente em etapas.
+- [drone](https://github.com/drone/drone) - Drone é uma plataforma de integração contínua construída na Docker, escrita em Go.
 
-- [asyncmachine-go/pkg/machine](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) - Graph control flow library (AOP, actor, state-machine).
-- [Ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
-- [Goakt](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
-- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
-- [ProtoActor](https://github.com/asynkron/protoactor-go) - Distributed actors for Go, C#, and Java/Kotlin.
-- [Benthos](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
-- [CloudQuery](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
-- [confluence2md](https://github.com/gkoos/confluence2md) - Confluence to Markdown crawler and converter.
-- [omniparser](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
-- [agy-mcp](https://github.com/tphakala/agy-mcp) - Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews.
-- [ai](https://github.com/joakimcarlsson/ai) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
-- [ai-gateway](https://github.com/ferro-labs/ai-gateway) - OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability.
-- [bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
-- [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go.
-- [bloom](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
-- [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
-- [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
-- [go-css](https://github.com/napsy/go-css) - A very simple CSS parser, written in Go.
-- [go-libsass](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
+### 🔷 Linha de comando
+
+- [asciigraph](https://github.com/guptarohit/asciigraph) - Vá empacotar para fazer o gráfico de linha ASCII leve, em aplicativos de linha de comando sem outras dependências.
+- [aurora](https://github.com/logrusorgru/aurora) - Cores terminais da ANSI que suportam FMT.Printf/Sprintf.
+- [box-cli-maker](https://github.com/box-cli-maker/box-cli-maker) - Renderize caixas altamente personalizáveis no terminal.
+- [bubble-table](https://github.com/Evertras/bubble-table) - Uma mesa interativa para o chá de bolha.
+- [bubbles](https://github.com/charmbracelet/bubbles) - Componentes de TUI para o chá de bolha.
+- [bubbletea](https://github.com/charmbracelet/bubbletea) - Ir framework para construir aplicativos terminais, baseado na arquitetura Elm.
+
+### 🧺 Mais links
+
+- [asyncmachine-go/pkg/machine](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) - Biblioteca de fluxo de controle gráfico (AOP, ator, máquina estatal).
+- [Ergo](https://github.com/ergo-services/ergo) - Um Framework baseado em atores com transparência de rede para criar arquitetura orientada por eventos em Golang.
+- [Goakt](https://github.com/Tochemey/goakt) - Framework de Ator Rápido e Distribuído usando buffers de protocolo como mensagem para Golang.
+- [Hollywood](https://github.com/anthdm/hollywood) - Motor de ator rápido e leve escrito em Golang.
+- [ProtoActor](https://github.com/asynkron/protoactor-go) - Atores distribuídos para Go, C#, e Java/Kotlin.
+- [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) - Framework para a construção de agentes da IA em Go.
+- [agy-mcp](https://github.com/tphakala/agy-mcp) - Model Context Protocol (MCP) servidor envolvendo o CLI Antigravidade para executar prompts e avaliações por pares.
+- [ai](https://github.com/joakimcarlsson/ai) - Um kit de ferramentas Go para a construção de agentes de IA e aplicativos em vários fornecedores com LLM unificado, incorporação, chamada de ferramentas, e integração MCP.
+- [ai-gateway](https://github.com/ferro-labs/ai-gateway) - Gateway compatível com o OpenAI LLM, que encaminha pedidos em 30 fornecedores com recuo, limitação de taxas, orçamentos, guardiões e observação.
+- [Benthos](https://github.com/benthosdev/benthos) - Uma mensagem transmitindo uma ponte entre vários protocolos.
+- [CloudQuery](http://github.com/cloudquery/cloudquery) - Uma estrutura de integração de dados ELT de alto desempenho com arquitetura plugável.
+- [confluence2md](https://github.com/gkoos/confluence2md) - Confluência para Markdown e conversor.
+- [omniparser](https://github.com/jf-tech/omniparser) - Uma versátil biblioteca ETL que analisa a entrada de texto (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) em streaming e transforma dados em saída JSON usando esquema baseado em dados.
+- [algorithms](https://github.com/shady831213/algorithms) - Algoritmos e estruturas de dados. Estudo CLRS.
+- [go-datastructures](https://github.com/Workiva/go-datastructures) - Coleta de estruturas de dados úteis, performantes e seguras.
+- [gods](https://github.com/emirpasic/gods) - Recipientes, conjuntos, listas, pilhas, mapas, bidimaps, árvores, hashset etc.
+- [bitmap](https://github.com/kelindar/bitmap) - Densa, alocação zero, bitmap/bitset habilitado para SIMD em Go.
+- [bitset](https://github.com/bits-and-blooms/bitset) - Vá em pacotes implementando bitsets.
+- [go-css](https://github.com/napsy/go-css) - Um simples analisador de CSS, escrito em Go.
+- [go-libsass](https://github.com/wellington/go-libsass) - Vá embrulhar o projeto 100% compatível com a Sass.
+- [awesome-python](https://github.com/vinta/awesome-python) - A lista definitiva que responde: "Quero fazer X em Python, qual ferramenta devo usar?" <sub>📋 lista awesome</sub>
 
 ## 🔤 Java
 
-### Apache Commons
+> 81 links sobre Java: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [BCEL](https://github.com/apache/commons-bcel) - Byte Code Engineering Library - analyze, create, and manipulate Java class files.
-- [BeanUtils](https://github.com/apache/commons-beanutils) - Easy-to-use wrappers around the Java reflection and introspection APIs.
-- [BSF](https://github.com/apache/commons-bsf) - Bean Scripting Framework - interface to scripting languages, including JSR-223.
-- [ClassScan](https://commons.apache.org/sandbox/commons-classscan/) - Find Class interfaces, methods, fields, and annotations without loading.
-- [CLI](https://github.com/apache/commons-cli) - Command-line arguments parser.
-- [CLI2](https://commons.apache.org/sandbox/commons-cli2/) - Redesign of Commons CLI.
+### 🔶 Apache Commons.
 
-### BDD
+- [BCEL](https://github.com/apache/commons-bcel) - Biblioteca de Engenharia Byte Code - analisar, criar e manipular arquivos de classe Java.
+- [BeanUtils](https://github.com/apache/commons-beanutils) - Capas fáceis de usar em torno das APIs de reflexão e introspecção Java.
+- [BSF](https://github.com/apache/commons-bsf) - Bean Scripting Framework - interface para linguagens de script, incluindo JSR-223.
+- [ClassScan](https://commons.apache.org/sandbox/commons-classscan/) - Encontre interfaces de classe, métodos, campos e anotações sem carregar.
+- [CLI](https://github.com/apache/commons-cli) - Intermediário de argumentos da linha de comando.
+- [CLI2](https://commons.apache.org/sandbox/commons-cli2/) - Reprojeto da CLI dos Comuns.
 
-- [Cucumber](https://github.com/cucumber/cucumber-jvm) - Provides a way to describe features in a plain language which customers can understand.
-- [J8Spec](https://github.com/j8spec/j8spec) - Follows a Jasmine-like syntax.
-- [JBehave](https://github.com/jbehave/jbehave-core) - Extensively configurable framework that describes stories.
-- [JGiven](https://github.com/TNG/JGiven) - Provides a fluent API which allows for simpler composition.
-- [Kensa](https://github.com/kensa-dev/kensa) - Code-first BDD framework for Java and Kotlin that generates interactive HTML reports and sequence diagrams from test code.
-- [Serenity BDD](https://github.com/serenity-bdd/serenity-core) - Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
+### 🔷 BDD
 
-### Diversos
+- [Cucumber](https://github.com/cucumber/cucumber-jvm) - Fornece uma maneira de descrever características em uma linguagem simples que os clientes podem entender.
+- [J8Spec](https://github.com/j8spec/j8spec) - Segue uma sintaxe Jasmine.
+- [JBehave](https://github.com/jbehave/jbehave-core) - Um quadro extremamente configurável que descreve histórias.
+- [JGiven](https://github.com/TNG/JGiven) - Fornece uma API fluente que permite composição mais simples.
+- [Kensa](https://github.com/kensa-dev/kensa) - Primeira estrutura de código BDD para Java e Kotlin que gera relatórios HTML interativos e diagramas de sequência do código de teste.
+- [Serenity BDD](https://github.com/serenity-bdd/serenity-core) - Teste de aceitação automatizada e biblioteca informativa que trabalha com Pepino, JBehave e JUnit para tornar mais fácil escrever especificações executáveis.
 
-- [Awaitility](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-- [ConcurrentUnit](https://github.com/jhalterman/concurrentunit) - Toolkit for testing multi-threaded and asynchronous applications.
-- [ConsoleCaptor](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
-- [junit-dataprovider](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
-- [junit-pioneer](https://github.com/junit-pioneer/junit-pioneer) - JUnit 5 extension pack, pushing the frontiers on Jupiter.
-- [log-capture](https://github.com/dm-drogeriemarkt/log-capture) - Captures log entries and provides assertions for unit and integration testing.
+### 🟣 Diversos.
 
-### Fixtures
+- [Awaitility](https://github.com/awaitility/awaitility) - DSL para sincronizar operações assíncronas.
+- [ConcurrentUnit](https://github.com/jhalterman/concurrentunit) - Kit de ferramentas para testar aplicações multi-threaded e assíncronas.
+- [ConsoleCaptor](https://github.com/Hakky54/console-captor) - Captura a saída do console para fins de teste unitário.
+- [junit-dataprovider](https://github.com/TNG/junit-dataprovider) - Testando o provedor de dados para JUnit.
+- [junit-pioneer](https://github.com/junit-pioneer/junit-pioneer) - JUnit 5 extensão pack, empurrando as fronteiras em Júpiter.
+- [log-capture](https://github.com/dm-drogeriemarkt/log-capture) - Captura entradas de log e fornece afirmações para o teste de unidade e integração.
 
-- [AutoParams](https://github.com/AutoParams/AutoParams) - Supports generating test data or combining scenarios for parameterized tests.
-- [Datafaker](https://github.com/datafaker-net/datafaker) - Modern fake data generator forked from Java Faker.
-- [Instancio](https://github.com/instancio/instancio) - Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
-- [jFairy](https://github.com/SkillPanel/jfairy) - Fake data generator.
-- [JMock](https://github.com/xcancloud/JMock) - JMock is a high-performance data generation and simulation component library implemented in Java.
-- [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
+### 🔷 Fixações.
 
-### Frameworks
+- [AutoParams](https://github.com/AutoParams/AutoParams) - Suporta gerar dados de teste ou combinar cenários para testes parametrizados.
+- [Datafaker](https://github.com/datafaker-net/datafaker) - Gerador de dados falsificado moderno bifurcado de Java Faker.
+- [Instancio](https://github.com/instancio/instancio) - Automatiza a configuração de dados em testes unitários gerando objetos reprodutíveis e totalmente povoados, incluindo extensão JUnit 5.
+- [jFairy](https://github.com/SkillPanel/jfairy) - Gerador de dados falso.
+- [JMock](https://github.com/xcancloud/JMock) - JMock é uma biblioteca de componentes de geração e simulação de dados implementada em Java.
+- [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - Corredor de testes JUnit e plugins para executar testes JUnit com pseudo-randomness.
 
-- [BitDive Java Agent](https://github.com/bitDive/java-producer) - Java agent that captures runtime traces, SQL queries and HTTP payloads for BitDive testing.
-- [jqwik](https://github.com/jqwik-team/jqwik) - Engine for property-based testing built on JUnit 5.
-- [JUnit](https://github.com/junit-team/junit-framework) - Common testing framework.
-- [PIT](https://github.com/hcoles/pitest) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
-- [Robolectric](https://github.com/robolectric/robolectric) - Runs Android tests on the JVM without an emulator or device.
-- [selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
+### 🧱 Quadros.
 
-### Integration
+- [BitDive Java Agent](https://github.com/bitDive/java-producer) - Agente Java que captura traços de tempo de execução, consultas SQL e cargas HTTP para testes BitDive.
+- [jqwik](https://github.com/jqwik-team/jqwik) - Motor para testes baseados em propriedades construídos na JUnit 5.
+- [JUnit](https://github.com/junit-team/junit-framework) - Estrutura comum de testes.
+- [PIT](https://github.com/hcoles/pitest) - Estrutura de teste rápido para avaliar habilidades de detecção de falhas em suítes existentes da JUnit ou TestNG.
+- [Robolectric](https://github.com/robolectric/robolectric) - Faz testes Android na JVM sem emulador ou dispositivo.
+- [selenium](https://github.com/SeleniumHQ/selenium) - Sistema de automação de navegadores e ecossistema.
 
-- [Arquillian](https://github.com/arquillian/arquillian-core) - Integration and functional testing platform for Java EE containers.
-- [cdi-test](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
-- [Citrus](https://github.com/citrusframework/citrus) - Integration testing framework that focuses on both client- and server-side messaging.
-- [GreenMail](https://github.com/greenmail-mail-test/greenmail) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
-- [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
-- [Karate](https://github.com/karatelabs/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+### 🔌 Integração
 
-### Mocking
+- [Arquillian](https://github.com/arquillian/arquillian-core) - Plataforma de integração e teste funcional para recipientes Java EE.
+- [cdi-test](https://github.com/guhilling/cdi-test) - Extensão JUnit para testes fáceis e eficientes de componentes CDI.
+- [Citrus](https://github.com/citrusframework/citrus) - Estrutura de testes de integração que foca tanto em mensagens do cliente quanto no servidor.
+- [GreenMail](https://github.com/greenmail-mail-test/greenmail) - Servidor de e-mail em memória para testes de integração, suporta SMTP, POP3 e IMAP incluindo SSL.
+- [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) - Ligaduras nativas para Hoverfly, um proxy que permite simular serviços HTTP.
+- [Karate](https://github.com/karatelabs/karate) - DSL que combina a automatização de teste da API, simulações e testes de desempenho tornando os serviços de teste REST/HTTP fáceis.
 
-- [EasyMock](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
-- [JMockit](https://github.com/jmockit/jmockit1) - Integration testing, API mocking and faking, and code coverage.
-- [Mockito](https://github.com/mockito/mockito) - Mocking framework that lets you write tests with a clean and simple API.
-- [MockServer](https://github.com/mock-server/mockserver-monorepo) - Allows mocking of systems integrated with HTTPS.
-- [Moco](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks.
-- [WireMock](https://github.com/wiremock/wiremock) - Stubs and mocks web services.
+### 🔵 Brincadeira.
 
-### Outros
+- [EasyMock](https://github.com/easymock/easymock) - EasyMock é uma biblioteca Java que fornece uma maneira fácil de usar objetos Mock em testes unitários.
+- [JMockit](https://github.com/jmockit/jmockit1) - Testes de integração, API zombando e fingindo, e cobertura de código.
+- [Mockito](https://github.com/mockito/mockito) - Molhar framework que permite fazer testes com uma API limpa e simples.
+- [MockServer](https://github.com/mock-server/mockserver-monorepo) - Permite zombar de sistemas integrados com HTTPS.
+- [Moco](https://github.com/dreamhead/moco) - Serviços web concisos para escrivaninhas e zombarias.
+- [WireMock](https://github.com/wiremock/wiremock) - Enrola e zomba de serviços da web.
 
-- [CUBA Platform](https://github.com/jmix-framework/jmix) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-- [Light-4J](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in security.
-- [Spring Framework](https://github.com/spring-projects/spring-framework) - Comprehensive application framework for building Java applications.
-- [ch.vorburger.exec](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-- [zt-exec](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-- [zt-process-killer](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+### 🔶 Outros.
 
-### Projects
+- [CUBA Platform](https://github.com/jmix-framework/jmix) - Estrutura de alto nível para desenvolver aplicações empresariais com uma interface web rica, baseada em Spring, EclipseLink e Vaadin.
+- [Light-4J](https://github.com/networknt/light-4j/) - Framework de microserviços rápido, leve e produtivo com segurança integrada.
+- [Spring Framework](https://github.com/spring-projects/spring-framework) - Framework de aplicação abrangente para construir aplicações Java.
+- [ch.vorburger.exec](https://github.com/vorburger/ch.vorburger.exec) - API conveniente em torno do Apache Commons Exec.
+- [zt-exec](https://github.com/zeroturnaround/zt-exec) - Fornece uma API unificada para Apache Commons Exec e ProcessBuilder.
+- [zt-process-killer](https://github.com/zeroturnaround/zt-process-killer) - Para processos iniciados a partir de Java ou os processos do sistema via PID.
 
-- [japicmp](https://github.com/siom79/japicmp) - Compares two library JARs and reports source- and binary-incompatible changes.
-- [Revapi](https://github.com/revapi/revapi) - Extensible API analysis and change tracking with configurable source, binary and semantic compatibility checks.
-- [Roseau](https://github.com/alien-tools/roseau) - Detects source- and binary-breaking changes by comparing library versions from JAR files or source code.
-- [ArchUnit](https://github.com/TNG/ArchUnit) - Test library for specifying and asserting architecture rules.
-- [jMolecules](https://github.com/xmolecules/jmolecules) - Annotations and interfaces to express design and architecture concepts in code.
-- [jQAssistant](https://github.com/jQAssistant/jqassistant) - Static code analysis with Neo4J-based query language.
+### 🔸 Desempenho.
 
-### Text-Based User Interfaces
+- [Apache JMeter](https://github.com/apache/jmeter) - Testes funcionais e medições de desempenho.
+- [Gatling](https://github.com/gatling/gatling) - Ferramenta de teste de carga projetada para facilitar o uso, manutenção e alto desempenho.
+- [JMeter DSL.java](https://github.com/abstracta/jmeter-java-dsl) - Testes de carga com JMeter tão simples quanto um teste JUnit.
+- [bucket4j](https://github.com/bucket4j/bucket4j) - Limitação de taxa com base no algoritmo token-bucket.
+- [cactoos](https://github.com/yegor256/cactoos) - Coleta de primitivos orientados a objetos.
+- [fswatch](https://github.com/vorburger/ch.vorburger.fswatch) - Microbiblioteca para ver mudanças no sistema de arquivos, simplificando java.nio.file.WatchService.
 
-- [AliveJTUI](https://github.com/yehorsyrin/alivejTUI) - Declarative, React-style TUI library for building terminal UIs as component trees with diff-based rendering, focus management, and themes.
-- [Jansi](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-- [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like Turbo Vision.
-- [Lanterna](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses.
-- [AWS SDK for Java 2.x](https://github.com/aws/aws-sdk-java-v2) - Official Java APIs for interacting with Amazon Web Services.
-- [Google Cloud Client Libraries](https://github.com/googleapis/google-cloud-java) - Client libraries for accessing Google Cloud services from Java applications.
+### 🗂️ Projetos
 
-### Mais links
+- [japicmp](https://github.com/siom79/japicmp) - Compara dois JARs de biblioteca e reporta as mudanças incompatíveis entre fontes e binários.
+- [Revapi](https://github.com/revapi/revapi) - Análise de API e rastreamento com código configurável, compatibilidade binária e semântica.
+- [Roseau](https://github.com/alien-tools/roseau) - Detecta mudanças de código e binário comparando versões da biblioteca a partir de arquivos JAR ou código fonte.
+- [ArchUnit](https://github.com/TNG/ArchUnit) - Biblioteca de testes para especificar e afirmar regras de arquitetura.
+- [jMolecules](https://github.com/xmolecules/jmolecules) - Anotações e interfaces para expressar conceitos de design e arquitetura em código.
+- [jQAssistant](https://github.com/jQAssistant/jqassistant) - Análise de código estática com linguagem de consulta baseada em Neo4J.
 
-- [Airline](https://github.com/rvesse/airline) - Annotation-based framework for parsing Git-like command-line arguments.
-- [jbock](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
-- [JCommander](https://github.com/cbeust/jcommander) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-- [JLine](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
-- [picocli](https://github.com/remkop/picocli) - ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
-- [AssertJ](https://github.com/assertj/assertj) - Fluent assertions that improve readability.
-- [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
-- [Truth](https://github.com/google/truth) - Google's fluent assertion and proposition framework.
-- [XMLUnit](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
-- [Apache JMeter](https://github.com/apache/jmeter) - Functional testing and performance measurements.
-- [Gatling](https://github.com/gatling/gatling) - Load testing tool designed for ease of use, maintainability and high performance.
-- [JMeter DSL.java](https://github.com/abstracta/jmeter-java-dsl) - Load tests with JMeter as simple as a JUnit test.
-- [bucket4j](https://github.com/bucket4j/bucket4j) - Rate limiting library based on token-bucket algorithm.
+### 🎁 Recursos.
+
+- [Awesome Annotation Processing](https://github.com/gunnarmorling/awesome-annotation-processing) - Uma lista de recursos relacionados à API de processamento de anotações Java (JSR 269) <sub>📋 lista awesome</sub>
+- [Awesome Graal](https://github.com/neomatrix369/awesome-graal) - Uma lista de recursos incríveis para Graal, GraalVM, Truffle e tópicos relacionados. <sub>📋 lista awesome</sub>
+- [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle) - Uma lista de ótimos plugins e recursos para um melhor desenvolvimento da automação do fluxo de trabalho. <sub>📋 lista awesome</sub>
+- [Awesome Hybris](https://github.com/eminyagiz42/awesome-hybris) - Uma lista de recursos da SAP Commerce. <sub>📋 lista awesome</sub>
+- [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - Uma lista incrível sobre tudo relacionado ao J2ME, documentação, trabalhos acadêmicos, tutoriais, comunidades, IDEs, SDKs, emuladores, aplicativos, videogames. <sub>📋 lista awesome</sub>
+- [Awesome JVM](https://github.com/deephacks/awesome-jvm) - Uma lista de coisas incríveis relacionadas à JVM, inspiradas por uma incrível python. <sub>📋 lista awesome</sub>
+
+### 🖌️ Interfaces de usuário baseadas em texto
+
+- [AliveJTUI](https://github.com/yehorsyrin/alivejTUI) - Declarativo, biblioteca de TUI estilo React para construir UI terminal como árvores componentes com renderização baseada em diff, gerenciamento de foco e temas.
+- [Jansi](https://github.com/fusesource/jansi) - Códigos de fuga da ANSI para formatar a saída do console.
+- [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) - Biblioteca avançada de interface de usuário de texto (TUI), com janelas para arrastar o mouse, gerenciador de janelas e suporte à imagem de seisel.
+- [Lanterna](https://github.com/mabe02/lanterna) - Fácil console de texto-GUI biblioteca, semelhante a maldições.
+- [AWS SDK for Java 2.x](https://github.com/aws/aws-sdk-java-v2) - APIs oficiais Java para interagir com os Serviços Web da Amazon.
+- [Google Cloud Client Libraries](https://github.com/googleapis/google-cloud-java) - Bibliotecas de clientes para acessar serviços do Google Cloud de aplicativos Java.
+
+### 🧺 Mais links
+
+- [Airline](https://github.com/rvesse/airline) - Framework baseado em anotações para analisar argumentos de linha de comando tipo Git.
+- [jbock](https://github.com/jbock-java/jbock) - Analisador de linha de comando sem reflexão.
+- [JCommander](https://github.com/cbeust/jcommander) - Linha de comando para análise de argumentos com tipos personalizados e validação através de interfaces.
+- [JLine](https://github.com/jline/jline3) - Inclui características de conchas modernas como conclusão ou história.
+- [picocli](https://github.com/remkop/picocli) - Cores e estilos ANSI em uso ajudam com POSIX/GNU baseados em anotações, sintaxe, subcomandos, digitação forte para ambas as opções e args posicionais.
+- [AssertJ](https://github.com/assertj/assertj) - Asserções fluentes que melhoram a legibilidade.
+- [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - Biblioteca que simplifica a comparação do JSON em testes.
+- [Truth](https://github.com/google/truth) - O Google é fluente nas afirmações e no quadro de propostas.
+- [XMLUnit](https://github.com/xmlunit/xmlunit) - Simplifica os testes para a saída XML.
 
 ## 🔤 JavaScript
 
-### Assertion
+> 81 links sobre JavaScript: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [chai](https://github.com/chaijs/chai)
-- [Enzyme](https://airbnb.io/enzyme/index.html)
-- [react testing library](https://github.com/kentcdodds/react-testing-library)
-- [Sinon.JS](https://github.com/sinonjs/sinon)
-- [expect.js](https://github.com/Automattic/expect.js)
-- [proxyquire](https://github.com/thlorenz/proxyquire)
+### 🟤 Asserção
 
-### Bundlers
+- [chai](https://github.com/chaijs/chai) - BDD / TDD estrutura de asserção para node.js e o navegador que pode ser emparelhado com qualquer framework de testes.
+- [react testing library](https://github.com/kentcdodds/react-testing-library) - Simples e completas ferramentas de teste do React DOM que incentivam boas práticas.
+- [Sinon.JS](https://github.com/sinonjs/sinon) - Espiões de teste, canhotos e zombarias para JavaScript.
+- [expect.js](https://github.com/Automattic/expect.js) - Asserções minimalistas do estilo BDD para Node.JS e o navegador.
+- [proxyquire](https://github.com/thlorenz/proxyquire) - Proxies nodejs requerem para permitir dependências superiores durante o teste.
+- [Supertest](https://github.com/visionmedia/supertest) - Biblioteca de super-agentes para testar servidores HTTP nod.js usando uma API fluente.
 
-- [webpack](https://github.com/webpack/webpack)
-- [Rollup](https://github.com/rollup/rollup)
-- [Brunch](https://github.com/brunch/brunch)
-- [Parcel](https://github.com/parcel-bundler/parcel)
-- [Microbundle](https://github.com/developit/microbundle)
-- [FuseBox](https://github.com/fuse-box/fuse-box)
+### 🟠 Bundlers.
 
-### Frameworks
+- [webpack](https://github.com/webpack/webpack) - Um empacotador para javascript e amigos, embala muitos módulos em alguns ativos agrupados, a divisão de códigos permite carregar partes do aplicativo sob demanda, através de "loaders", os módulos…
+- [Rollup](https://github.com/rollup/rollup) - Transportador de módulo ES da próxima geração.
+- [Brunch](https://github.com/brunch/brunch) - Desde 2011.
+- [Parcel](https://github.com/parcel-bundler/parcel) - A ferramenta de configuração zero para a web.
+- [Microbundle](https://github.com/developit/microbundle) - Um empacotador de configuração zero para pequenos módulos.
+- [FuseBox](https://github.com/fuse-box/fuse-box) - Um rápido js empacotador / carregador com uma API abrangente
 
-- [mocha](https://github.com/mochajs/mocha)
-- [jasmine](https://github.com/jasmine/jasmine)
-- [qunit](https://github.com/jquery/qunit)
-- [jest](https://github.com/facebook/jest)
-- [prova](https://github.com/azer/prova)
-- [DalekJS](https://github.com/dalekjs/dalek)
+### 📊 Visualização de dados
 
-### Loaders
+- [d3](https://github.com/d3/d3) - Trazer dados à vida com SVG, Canvas e HTML.
+- [metrics-graphics](https://github.com/mozilla/metrics-graphics) - Uma biblioteca otimizada para gráficos e layouts de dados concisos e com princípios.
+- [three.js](https://github.com/mrdoob/three.js) - Biblioteca JavaScript 3D.
+- [Chart.js](https://github.com/chartjs/Chart.js) - Gráficos HTML5 simples usando a etiqueta
+- [paper.js](https://github.com/paperjs/paper.js) - A Faca do Exército Suíço de Roteiros Gráficos de Vetor – Scriptógrafo portado para JavaScript e o navegador, usando HTML5 Canvas. Criado por @lehni & @puckey
+- [fabric.js](https://github.com/kangax/fabric.js) - Biblioteca Javascript Canvas, SVG-to-Canvas (& canvas-to-SVG) Parser
 
-- [RequireJS](https://github.com/requirejs/requirejs)
-- [browserify](https://github.com/substack/node-browserify)
-- [SeaJS](https://github.com/seajs/seajs)
-- [HeadJS](https://github.com/headjs/headjs)
-- [lazyload](https://github.com/rgrove/lazyload/)
-- [script.js](https://github.com/ded/script.js)
+### 🧱 Quadros.
 
-### MVC Frameworks and Libraries
+- [mocha](https://github.com/mochajs/mocha) - Clássico, confiável e confiável quadro de testes para Node.js e o navegador
+- [jasmine](https://github.com/jasmine/jasmine) - Framework de teste JavaScript simples para navegadores e nod.js
+- [qunit](https://github.com/jquery/qunit) - Uma estrutura de teste fácil de usar da unidade JavaScript.
+- [jest](https://github.com/facebook/jest) - Testes de JavaScript deliciosos.
+- [prova](https://github.com/azer/prova) - Corredor de testes baseado em Fita e Navegação
+- [DalekJS](https://github.com/dalekjs/dalek) - DalekJS Base framework
 
-- [angular.js](https://github.com/angular/angular.js)
-- [angular](https://github.com/angular/angular)
-- [aurelia](http://aurelia.io/)
-- [backbone](https://github.com/jashkenas/backbone)
-- [ember.js](https://github.com/emberjs/ember.js)
-- [meteor](https://github.com/meteor/meteor)
+### 🟣 Carregadores.
 
-### Node-Powered CMS Frameworks
+- [RequireJS](https://github.com/requirejs/requirejs) - Um carregador de arquivos e módulos para JavaScript
+- [browserify](https://github.com/substack/node-browserify) - O lado do navegador require () o caminho nod.js
+- [SeaJS](https://github.com/seajs/seajs) - Um carregador de módulos para a Web
+- [HeadJS](https://github.com/headjs/headjs) - O único roteiro na sua cabeça.
+- [lazyload](https://github.com/rgrove/lazyload/) - Um antigo carregador de JS e CSS dos dias antes de todos terem escrito um.
+- [script.js](https://github.com/ded/script.js) - Carregador JavaScript e gerente de dependência.
 
-- [KeystoneJS](https://github.com/keystonejs/keystone)
-- [Reaction Commerce](https://github.com/reactioncommerce/reaction)
-- [Ghost](https://github.com/tryghost/Ghost)
-- [Apostrophe](https://github.com/punkave/apostrophe)
-- [We.js](https://github.com/wejs/we/)
-- [Hatch.js](https://github.com/inventures/hatchjs)
+### 🧱 MVC Frameworks e Bibliotecas
 
-### Package Managers
+- [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML aprimorado para aplicativos web!
+- [angular](https://github.com/angular/angular) - Entregue aplicativos com confiança.
+- [backbone](https://github.com/jashkenas/backbone) - Dê ao seu JS App um pouco de espinha dorsal com modelos, vistas, coleções e eventos.
+- [ember.js](https://github.com/emberjs/ember.js) - Um framework JavaScript para criar aplicações web ambiciosas
+- [meteor](https://github.com/meteor/meteor) - Meteoro, a Plataforma de Aplicações JavaScript.
+- [ractive](https://github.com/ractivejs/ractive) - Manipulação DOM da próxima geração.
 
-- [npm](https://www.npmjs.com/)
-- [Bower](https://github.com/bower/bower)
-- [component](https://github.com/componentjs/component)
-- [spm](https://github.com/spmjs/spm)
-- [jam](https://github.com/caolan/jam)
-- [jspm](https://github.com/jspm/jspm-cli)
+### 🧱 Frameworks de CMS com Node-Desenvolvido
 
-### QA Tools
+- [KeystoneJS](https://github.com/keystonejs/keystone) - O CMS sem cabeça superpoderado para Node.js - construído com GraphQL e React
+- [Reaction Commerce](https://github.com/reactioncommerce/reaction) - O projeto foi descontinuado ////// Mailchimp Open Commerce é uma plataforma de comércio sem cabeça construída pela API usando Node.js, React, GraphQL, lançada via Docker e Kubernetes.
+- [Ghost](https://github.com/tryghost/Ghost) - Tecnologia independente para publicações modernas, associações, assinaturas e newsletters.
+- [Apostrophe](https://github.com/punkave/apostrophe) - Um framework de gerenciamento de conteúdo aberto construído com Node.js que capacita as organizações combinando edição em contexto e arquitetura sem cabeça em um ambiente JS completo.
+- [We.js](https://github.com/wejs/we/) - Veja @go-catupiri como um porto de golang direto
+- [Hatch.js](https://github.com/inventures/hatchjs) - Hatch.Js - não oficialmente apoiado
 
-- [prettier](https://github.com/prettier/prettier)
-- [JSHint](https://github.com/jshint/jshint/)
-- [jscs](https://github.com/jscs-dev/node-jscs)
-- [jsfmt](https://github.com/rdio/jsfmt)
-- [jsinspect](https://github.com/danielstjules/jsinspect)
-- [buddy.js](https://github.com/danielstjules/buddy.js)
+### 🧱 Gerentes de Pacotes
 
-### Runner
+- [Bower](https://github.com/bower/bower) - Um gerenciador de pacotes para a web
+- [component](https://github.com/componentjs/component) - Gerenciador de pacotes frontend e ferramenta de construção para aplicações web modulares
+- [spm](https://github.com/spmjs/spm) - Novo gerente de pacotes estáticos.
+- [jam](https://github.com/caolan/jam) - Gerenciador de pacotes JavaScript - usando um repositório compatível com navegador e RequireJS
+- [jspm](https://github.com/jspm/jspm-cli) - Gerenciador de Pacotes de Importação de Mapas
+- [Ender](https://github.com/ender-js/Ender) - A biblioteca não-bibliotecária: módulo aberto framework JavaScript
 
-- [phantomjs](https://github.com/ariya/phantomjs)
-- [slimerjs](https://github.com/laurentj/slimerjs)
-- [casperjs](https://github.com/casperjs/casperjs)
-- [zombie](https://github.com/assaf/zombie)
-- [totoro](https://github.com/totorojs/totoro)
-- [karma](https://github.com/karma-runner/karma)
+### ✅ Ferramentas de QA
 
-### Templating Engines
+- [prettier](https://github.com/prettier/prettier) - Mais bonita é um código de opinião para matéria.
+- [JSHint](https://github.com/jshint/jshint/) - JSHint é uma ferramenta que ajuda a detectar erros e potenciais problemas em seu código JavaScript.
+- [jscs](https://github.com/jscs-dev/node-jscs) - Checador de código JavaScript Style (não mantido)
+- [jsfmt](https://github.com/rdio/jsfmt) - Para formatar, pesquisar e reescrever o JavaScript.
+- [jsinspect](https://github.com/danielstjules/jsinspect) - Detecte código copiado e estruturalmente similar.
+- [buddy.js](https://github.com/danielstjules/buddy.js) - Detecção de números mágicos para JavaScript.
 
-- [mustache.js](https://github.com/janl/mustache.js)
-- [handlebars.js](https://github.com/handlebars-lang/handlebars.js)
-- [nunjucks](https://mozilla.github.io/nunjucks/)
-- [hogan.js](https://github.com/twitter/hogan.js)
-- [doT](https://github.com/olado/doT)
-- [dustjs](https://github.com/linkedin/dustjs/)
+### 🔶 Corredor.
 
-### Type Checkers
+- [phantomjs](https://github.com/ariya/phantomjs) - Navegador de cabeça sem roteiro
+- [slimerjs](https://github.com/laurentj/slimerjs) - Um navegador scriptable como PhantomJS, baseado no Firefox
+- [casperjs](https://github.com/casperjs/casperjs) - CasperJS não é mais mantido ativamente.
+- [zombie](https://github.com/assaf/zombie) - Insanely rápido, full-stack, testando navegador sem cabeça usando nod.js
+- [karma](https://github.com/karma-runner/karma) - Corredor de Teste Espetacular para JavaScript
+- [nightwatch](https://github.com/nightwatchjs/nightwatch) - Framework de teste integrado de ponta a ponta escrito em Node.js e usando a API do Webdriver W3C desenvolvido em @browsertack
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Flow.js](https://flow.org/)
-- [Hegel](https://hegel.js.org/)
-- [TypL](https://github.com/getify/TypL)
-- [Hindley Milner Definitions](https://github.com/xodio/hm-def)
-- [Zod](https://github.com/colinhacks/zod)
+### 🔶 Motores de Templating
 
-### Mais links
+- [mustache.js](https://github.com/janl/mustache.js) - Template mínimo com bigodes em JavaScript.
+- [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Template mínimo com esteróides.
+- [hogan.js](https://github.com/twitter/hogan.js) - Um compilador para a linguagem templating Mustache
+- [doT](https://github.com/olado/doT) - O mais rápido + conciso modelo javascript motor para nodejs e navegadores.
+- [dustjs](https://github.com/linkedin/dustjs/) - Template de Javascript Assíncrono para o navegador e servidor
+- [eco](https://github.com/sstephenson/eco/) - Modelos de café embutidos.
 
-- [istanbul](https://github.com/gotwarlost/istanbul)
-- [blanket](https://github.com/alex-seville/blanket)
-- [JSCover](https://github.com/tntim96/JSCover)
-- [A-Frame](https://aframe.io/)
-- [Cocos](https://www.cocos.com/)
-- [Bit](https://github.com/teambit/bit)
-- [SWC](https://swc.rs/)
+### 🧺 Mais links
+
+- [HANDSONTABLE](https://github.com/handsontable/handsontable) - Javascript Data Grid / Tabela de dados com uma folha de cálculo Look & Feel. Funciona com React, Angular e Vue.
+- [Frappe Datatable](https://github.com/frappe/datatable) - A tabela de dados do Javascript em falta para a Web
+- [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet atualizado para Univer
+- [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet é um componente leve da grade de dados JavaScript para criar grades interativas com controles avançados de planilha.
+- [RevoGrid](https://github.com/revolist/revogrid) - Poderosa tabela de dados virtuais com a personalização avançada.
+- [TypL](https://github.com/getify/TypL) - O tipo Linter para JS
+- [Hindley Milner Definitions](https://github.com/xodio/hm-def) - Pesquisando o tipo de corrida para JS com assinaturas de Hindley Milner.
+- [Zod](https://github.com/colinhacks/zod) - Validação do esquema TypeScript com inferência estática.
+- [Yup](https://github.com/jquense/yup) - Validação do esquema de objetos simples.
+- [istanbul](https://github.com/gotwarlost/istanbul) - Outra ferramenta de cobertura de código JS que computa declaração, linha, função e cobertura de ramificação com ganchos carregadores de módulo para adicionar cobertura transparente ao executar testes.
+- [blanket](https://github.com/alex-seville/blanket) - black.js é uma biblioteca de cobertura de código simples para javascript projetado para ser fácil de instalar e usar, tanto para navegador e nodejs.
+- [JSCover](https://github.com/tntim96/JSCover) - JScover é uma ferramenta de cobertura de código JavaScript que mede a cobertura de linha, ramo e função.
+- [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) - Timeline JS v3: Uma linha de tempo para contar histórias construída no JavaScript.
+- [timesheet.js](https://github.com/sbstjn/timesheet.js) - Biblioteca JavaScript para HTML5 e CSS3
+- [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Editor Cloud9)
 
 ## 🔤 Kotlin
 
-### Bibliotecas
+> 81 links sobre Kotlin: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [leakcanary](https://github.com/square/leakcanary)
-- [p3c](https://github.com/alibaba/p3c)
-- [material-dialogs](https://github.com/afollestad/material-dialogs)
-- [flexbox-layout](https://github.com/google/flexbox-layout)
-- [anko](https://github.com/Kotlin/anko)
-- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
-- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+### 📱 Aplicativos.
 
-### Website
+- [DuckDuckGo](https://github.com/duckduckgo/Android) - Google - Aplicativo Android
+- [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress para Android
+- [fenix](https://github.com/mozilla-mobile/fenix) - Fenix (Firefox para Android) mudou-se para um novo repositório, agora é desenvolvido e mantido como parte de: https://github.com/mozilla-mobile/firefox-android
+- [iosched](https://github.com/google/iosched) - O Google I/O Android App
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Máscara Mágica para Android
+- [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - O aplicativo Sourcer faz um perfil visual de seus repositórios GitHub e git.
+- [uhabits](https://github.com/iSoron/uhabits) - Rastreador de Hábitos, um aplicativo móvel para criar e manter hábitos positivos a longo prazo.
+- [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) - A aplicação oficial KotlinConf.
+- [TapTap](https://github.com/KieronQuinn/TapTap) - Porta da torneira dupla na parte de trás do dispositivo do Android 12 para qualquer dispositivo Android 7.0+
+- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - Um aplicativo premium para gerenciar e editar suas fotos, vídeos, GIFs sem anúncios.
+- [Foodium](https://github.com/PatilShreyas/Foodium) - Foodium é um aplicativo de comida para Android criado para demonstrar o uso de ferramentas modernas de desenvolvimento Android - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, componentes de arquitetura…
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Um gerenciador de senhas e cofre leve para Android, KeePassDX permite editar dados criptografados em um único arquivo no formato KeePass e preencher os formulários de forma segura.
+- [vlc-android](https://github.com/videolan/vlc-android) - VLC para Android, TV Android e ChromeOS
+- [COVID-19-app-Android-BETA](https://github.com/nhsx/COVID-19-app-Android-BETA) - Código fonte do Beta do aplicativo Android NHS COVID-19
+- [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner para tomar notas e gerenciar listas de tarefas
+- [Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Aplicação Android compatível com o aplicativo ZX2C4 da linha de comando Pass
+- [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Aplicação Android para analisar sinais de Wi-Fi.
+- [OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Aplicação Android para escanear e manipular notas e documentos escritos à mão.
+- [immuni-app-android](https://github.com/immuni-app/immuni-app-android) - Repositório oficial para a versão Android do aplicativo immuni
+- [MarvelHeroes](https://github.com/skydoves/MarvelHeroes) - Uma aplicação de heróis da Marvel baseada na arquitetura MVVM (ViewModel, Coroutines, Room, Repository, Koin).
+- [PassAndroid](https://github.com/ligi/PassAndroid) - App Android para ver passes
+- [proton-mail-android](https://github.com/ProtonMail/proton-mail-android) - Proton Mail aplicativo Android
+- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) - O aplicativo oficial da conferência para DroidKaigi 2020 Tóquio
+- [conference-app-2019](https://github.com/DroidKaigi/conference-app-2019) - O aplicativo oficial da conferência para DroidKaigi 2019 Tóquio
 
-- [Kotlin Home](https://kotlinlang.org/)
-- [Kotlin Documents](https://kotlinlang.org/docs/reference/)
-- [Try Kotlin in your Browser](https://play.kotlinlang.org/)
-- [Kotlin Blog](http://blog.jetbrains.com/kotlin)
-- [Kotlin GitHub](https://github.com/JetBrains/kotlin)
-- [Kotlin Koans](https://github.com/Kotlin/kotlin-koans)
-- [Issue Tracker](https://youtrack.jetbrains.com/issues/KT)
+### 🧱 Bibliotecas.
 
-### Aplicativos
+- [leakcanary](https://github.com/square/leakcanary) - Uma biblioteca de detecção de vazamentos de memória para Android.
+- [p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines Pmd implementos e plugin IDE
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - Uma bela, fluida e extensível API de diálogos para Kotlin & Android.
+- [flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox para Android
+- [anko](https://github.com/Kotlin/anko) - Agradável desenvolvimento de aplicativos Android
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - O flexível, fácil de usar, tudo em uma biblioteca para o seu projeto Android.
+- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - Uma biblioteca de animação Android que adiciona facilmente itemanimador para itens RecyclerView.
+- [AppIntro](https://github.com/AppIntro/AppIntro) - Faça uma introdução legal para o seu aplicativo Android.
+- [RxBinding](https://github.com/JakeWharton/RxBinding) - APIs RxJava para os widgets de interface do Android.
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Suporte da biblioteca para Kotlin Coroutines.
+- [timber](https://github.com/JakeWharton/timber) - Um registrador com uma API pequena e extensível que fornece utilidade para além da classe normal do Android Log.
+- [ktor](https://github.com/ktorio/ktor) - Framework para criar aplicativos conectados rapidamente em Kotlin com o mínimo de esforço
+- [FlowMVI](https://github.com/respawn-app/FlowMVI) - Architecture Framework para Kotlin, reaproveite todas as linhas de código, lide com todos os erros automaticamente, sem caldeiras, construa recursos em minutos, analises, métricas, depuração em 3…
+- [okio](https://github.com/square/okio) - Uma moderna biblioteca de E/S para Android, Java e Kotlin Multiplataforma.
+- [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Plug-in de tradução para IntelliJ baseado em IDEs/Android Studio.
+- [kotlin-native](https://github.com/JetBrains/kotlin-native) - Infraestrutura Kotlin/Native
+- [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava para Kotlin.
+- [koin](https://github.com/InsertKoinIO/koin) - Koin, um quadro pragmático de injeção leve para Kotlin & Kotlin Multiplatform.
+- [Compressor](https://github.com/zetbaitsu/Compressor) - Uma biblioteca de compressão de imagens android.
+- [acra](https://github.com/ACRA/acra) - Relatórios de Crash para Android
+- [coil](https://github.com/coil-kt/coil) - Carregamento de imagens para Android e Compose Multiplataforma.
+- [ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – Um motor Vim para IDEs JetBrains
+- [topeka](https://github.com/android/topeka) - Uma diversão para jogar quiz que mostra design de material no Android
+- [MultiType](https://github.com/drakeet/MultiType) - Múltiplos tipos flexíveis para Android RecyclerView.
 
-- [DuckDuckGo](https://github.com/duckduckgo/Android)
-- [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)
-- [fenix](https://github.com/mozilla-mobile/fenix)
-- [iosched](https://github.com/google/iosched)
-- [Magisk](https://github.com/topjohnwu/Magisk)
-- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+### 🔸 Amostras
 
-### Artigos
+- [MovieNight](https://github.com/mrsegev/MovieNight) - MovieNight é um aplicativo Android que usa a abordagem de arquitetura limpa e está escrito em Kotlin.
+- [kotlin-android-examples](https://github.com/amanjeetsingh150/kotlin-android-examples) - Aplicações isoladas puramente em Kotlin, para todos os devs andróides lá fora.
+- [android-showcase](https://github.com/igorwojda/android-showcase) - Aplicação Android seguindo as melhores práticas: Kotlin, Coroutines, JetPack, Arquitetura Limpa, Módulos de Recursos, Testes, MVM, DI, Análise Estática...
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps) - android-kotlin-fundamental-apps
+- [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Um aplicativo Pokedex usando ViewModel, ViewBinding, LiveData, Sala e Navegação
+- [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - Exemplo de Aplicação Kotlin Full-stack
+- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - Este projeto contém vários exemplos que mostram como você faria as coisas do jeito "Jetpack Compose"
+- [kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Vários exemplos para Kotlin.
+- [architecture-samples](https://github.com/android/architecture-samples) - Uma coleção de amostras para discutir e mostrar diferentes ferramentas e padrões arquitetônicos para aplicativos Android.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples) - Amostras para componentes de arquitetura Android.
+- [Candy-Crush-Clone](https://github.com/TobseF/Candy-Crush-Clone) - Candy Crush Clone
+- [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compõe amostras.
+- [cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demostra a nova biblioteca Android Design.
+- [sunflower](https://github.com/android/sunflower) - Um aplicativo de jardinagem ilustrando as melhores práticas do desenvolvimento Android com migração de um aplicativo baseado em visão para Jetpack Compose.
+- [uamp](https://github.com/android/uamp) - Um aplicativo de áudio para Android.
+- [camera-samples](https://github.com/android/camera-samples) - Várias amostras mostrando as melhores práticas em APIs de câmeras no Android.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) - O desenvolvimento da CWA termina em 31 de maio de 2023, você ainda pode avisar outros usuários até 30 de abril de 2023.
+- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - Aprendendo Kotlin Coroutines e Fluxos para Android por exemplo.
+- [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX) - Com MVM padrão de arquitetura usando componentes de arquitetura Android Este é um aplicativo amostra demonstrando animação do Youtube player usando layout restrição
 
-- [Early Impressions of Kotlin](http://natpryce.com/articles/000815.html)
-- [Better Annotation Processing: Supporting Stubs in kapt](http://blog.jetbrains.com/kotlin/2015/06/better-annotation-processing-supporting-stubs-in-kapt/)
-- [One month with Kotlin](https://medium.com/@ademar111190/one-month-with-kotlin-2d3d9bbd7840)
-- [Kotlin my productivity language](https://medium.com/@mplatvoet/kotlin-6a09afc655b9)
-- [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3)
-- [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
+### 🛠️ Ferramentas.
 
-### Ferramentas
+- [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - Plug-in SonarQube para IDEs JetBrains fornecendo feedback de qualidade e segurança do código diretamente no IDE
+- [dokka](https://github.com/Kotlin/dokka) - Motor de documentação API para Kotlin
+- [kotlin-vim](https://github.com/udalov/kotlin-vim) - Plug-in Kotlin para Vim, com realce de sintaxe, recuo básico, suporte sintético.
+- [kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - Sublime pacote de texto 2 para Kotlin linguagem de programação
+- [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plug-in que gera Android Parcelable código caldeira para a classe de Kotlin.
+- [CodeGlance](https://github.com/Vektah/CodeGlance) - Plug-in Intelij IDEA para exibir um mini-mapa de código semelhante ao encontrado no Sublime
+- [kscript](https://github.com/holgerbrandl/kscript) - Melhorias de roteiro para Kotlin
+- [detekt](https://github.com/arturbosch/detekt) - Análise estática de código para Kotlin.
+- [detekt-hint](https://github.com/mkohm/detekt-hint) - Detecção de violações de princípios em Kotlin como um plugin para detekt.
+- [kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter) - Kernel Kotlin para Jupyter/IPython
 
-- [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij)
-- [IntelliJ IDEA 15](https://www.jetbrains.com/idea/download/)
-- [dokka](https://github.com/Kotlin/dokka)
-- [kotlin-vim](https://github.com/udalov/kotlin-vim)
-- [kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package)
-- [language-kotlin](https://atom.io/packages/language-kotlin)
+### 🧺 Mais links
 
-### Livros
-
-- [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers) <sub>livro</sub>
-- [Kotlin in Action (MEAP)](https://www.manning.com/books/kotlin-in-action)
-- [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
-- [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin) <sub>livro</sub>
-- [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
-- [Effective Kotlin](https://leanpub.com/effectivekotlin/) <sub>livro</sub>
-
-### Outros
-
-- [kotlin-for-android-developers-zh](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
-- [Kotlin-in-Chinese](https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details)
-- [Kotlin-Website-CN](https://github.com/cctanfujun/kotlin-web-site-cn)
-- [Kotlin Reference in Chinese](https://www.kotlincn.net/)
-- [jetpack compose](https://blog.canopas.com/jetpack-compose-mvvm-state-management-in-a-simple-way-4c632fa6f554)
-- [Kotlin SWE-bench](https://github.com/Kotlin/kotlin-swe-bench)
-
-### Recursos
-
-- [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle)
-- [Explore Kotlin](https://kandi.openweaver.com/explore/kotlin)
-- [/r/Kotlin](https://www.reddit.com/r/Kotlin/) <sub>comunidade</sub>
-- [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
-- [Kotlin Academy](https://blog.kotlin-academy.com/)
-- [Curated Kotlin Resources](https://hackr.io/tutorials/learn-kotlin)
-
-### Samples
-
-- [MovieNight](https://github.com/mrsegev/MovieNight)
-- [kotlin-android-examples](https://github.com/amanjeetsingh150/kotlin-android-examples)
-- [android-showcase](https://github.com/igorwojda/android-showcase)
-- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
-- [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex)
-- [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample)
-
-### Tutoriais
-
-- [Alpas Tutorials](https://dev.to/ashokgelal/let-s-build-a-web-app-from-scratch-to-finish-with-alpas-and-kotlin-29eo)
-- [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
-- [Streamline Android Java Code with Kotlin](http://www.sitepoint.com/streamline-android-java-code-with-kotlin/)
-- [Building APIs on the JVM Using Kotlin and Spark](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
-- [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
-- [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-
-### Vídeos
-
-- [Kotlin @ YouTube](https://www.youtube.com/kotlin)
-- [AlpasCasts](https://alpascasts.com/)
-- [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
-- [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
-- [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&feature=youtu.be)
-- [I built an app in Kotlin, and my client still paid me](https://www.youtube.com/watch?v=d7BiXy3Qdt8&feature=youtu.be)
-
-### Mais links
-
-- [Curso de Kotlin 2020 / Básico](https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn)
-- [Curso de Kotlin - Programação para Iniciantes](https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg)
-- [Curso Básico de Kotlin - Fabiano Góes](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEpabjij2vyHZnxI7Knrxkj)
-- [Mini Curso - Web API Kotlin do Zero](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEas_XSKIyaFAp_MS__5j4p)
-- [Programação Android - Geraldo Melo](https://www.youtube.com/playlist?list=PLHZwU4kNI8DXL2ennM5kR8kHm5zwS6hOz)
+- [Kotlin GitHub](https://github.com/JetBrains/kotlin) - A linguagem de programação Kotlin.
+- [Kotlin Koans](https://github.com/Kotlin/kotlin-koans) - Oficina Kotlin
+- [Kotlin SWE-bench](https://github.com/Kotlin/kotlin-swe-bench) - A referência oficial de Kotlin por JetBrains
+- [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Kotlin codificando quebra-cabeça e soluções.
 
 ## 🔤 Livros e cursos gratuitos em português
 
-### C
+> 81 links sobre Livros e cursos gratuitos em português: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [Algoritmos em Grafos](https://www.ime.usp.br/~yoshi/2005i/mac328/) - Yoshiharu Kohayakawa (HTML) <sub>pt-BR</sub>
-- [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML) <sub>pt-BR</sub>
-- [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF) <sub>pt-BR</sub>
-- [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF) <sub>pt-BR</sub>
-- [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, trl.: cv8minix3 (HTML) <sub>pt-BR</sub>
-- [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB. <sub>pt-BR</sub>
+### 🟣 C.
 
-### Docker
+- [Algoritmos em Grafos](https://www.ime.usp.br/~yoshi/2005i/mac328/) - Yoshiharu Kohayakawa (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF) <sub>🇧🇷 pt-BR</sub>
+- [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, trl.: cv8minix3 (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB. <sub>🇧🇷 pt-BR</sub>
 
-- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) - Jeferson Fernando <sub>pt-BR</sub>
-- [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva <sub>pt-BR</sub>
-- [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti <sub>pt-BR</sub>
-- [Curso Gratuito de Docker](https://www.youtube.com/playlist?list=PLNCSWIsR6ADKRq-XBvAcRd4XtqLj3f_mf) - Fernanda Kipper <sub>pt-BR</sub>
-- [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiNw3k2-TdfML9GhpsmOlhM3) - Fabricio Veronez <sub>pt-BR</sub>
-- [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiPb8hegiJTqKI8aDUJpo-IJ) - Fabricio Veronez <sub>pt-BR</sub>
+### ☁️ Docker.
 
-### Fundamentos Matemáticos Computacionais
+- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) - Jeferson Fernando. <sub>🇧🇷 pt-BR</sub>
+- [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva. <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso Gratuito de Docker](https://www.youtube.com/playlist?list=PLNCSWIsR6ADKRq-XBvAcRd4XtqLj3f_mf) - Fernanda Kipper <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiNw3k2-TdfML9GhpsmOlhM3) - Fabricio Veronez <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiPb8hegiJTqKI8aDUJpo-IJ) - Fabricio Veronez <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
 
-- [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML) <sub>pt-BR</sub>
-- [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF) <sub>pt-BR</sub>
-- [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF) <sub>pt-BR</sub>
-- [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas ( em contínuo desenvolvimento) <sub>pt-BR</sub>
-- [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF) <sub>pt-BR</sub>
-- [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF) <sub>pt-BR</sub>
+### 🔬 Fundamentos Matemáticos Computacionais
 
-### Git
+- [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas ( em contínuo desenvolvimento) <sub>🇧🇷 pt-BR</sub>
+- [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF) <sub>🇧🇷 pt-BR</sub>
 
-- [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML) <sub>pt-BR</sub>
-- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, trl.: Leonardo Siqueira Rodrigues (HTML, PDF) <sub>pt-BR</sub>
-- [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro <sub>pt-BR</sub>
-- [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB) <sub>pt-BR</sub>
-- [Curso de Git](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) - Bóson Treinamentos <sub>pt-BR</sub>
-- [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara <sub>pt-BR</sub>
+### 🟣 Git.
 
-### Go
+- [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Leonardo Siqueira Rodrigues (HTML, PDF) <sub>🇧🇷 pt-BR</sub>
+- [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro <sub>🇧🇷 pt-BR</sub>
+- [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB) <sub>🇧🇷 pt-BR</sub>
+- [Curso de Git](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) - Bóson Treinamentos <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
 
-- [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira <sub>pt-BR</sub>
-- [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie (CC BY-SA) <sub>pt-BR</sub>
-- [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF) <sub>pt-BR</sub>
-- [Go por Exemplo](http://goporexemplo.golangbr.org/) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML) (CC BY) <sub>pt-BR</sub>
-- [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech <sub>pt-BR</sub>
-- [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador <sub>pt-BR</sub>
+### 🔹 Vá.
 
-### IDE and editors
+- [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira. <sub>🇧🇷 pt-BR</sub>
+- [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - Astaxie (CC BY-SA) <sub>🇧🇷 pt-BR</sub>
+- [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho <sub>🇧🇷 pt-BR</sub>
+- [Go por Exemplo](http://goporexemplo.golangbr.org/) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML) (CC BY) <sub>🇧🇷 pt-BR</sub>
+- [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - Euprogramador <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
 
-- [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al. <sub>pt-BR</sub>
-- [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo) <sub>pt-BR</sub>
-- [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML) <sub>pt-BR</sub>
-- [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos <sub>pt-BR</sub>
-- [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy) <sub>pt-BR · curso</sub>
-- [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy) <sub>pt-BR · curso</sub>
+### 🕸️ HTML e CSS
 
-### Programação
+- [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso <sub>🇧🇷 pt-BR</sub>
+- [Curso SASS](https://github.com/amandavilela/curso-sass) - Amanda Vilela <sub>🇧🇷 pt-BR</sub>
+- [Dive Into HTML5](http://diveintohtml5.com.br/) - Mark Pilgrim <sub>🇧🇷 pt-BR</sub>
+- [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo) <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) - Gustavo Guanabara (Curso em Vídeo) <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) - Gustavo Guanabara (Curso em Vídeo) <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
 
-- [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF) (CC BY-NC-ND) <sub>pt-BR</sub>
-- [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF) <sub>pt-BR</sub>
-- [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF) <sub>pt-BR</sub>
-- [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF) <sub>pt-BR</sub>
-- [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML) <sub>pt-BR</sub>
-- [Curso Lógica de Programação Completo 2023 (Iniciantes) + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza <sub>pt-BR</sub>
+### 🛠️ IDE e editores
 
-### Mais links
+- [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al. <sub>🇧🇷 pt-BR</sub>
+- [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo) <sub>🇧🇷 pt-BR</sub>
+- [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos <sub>🇧🇷 pt-BR</sub>
+- [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy) <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini <sub>🎓 curso · 🇧🇷 pt-BR</sub>
 
-- [Introdução a Banco de Dados](https://www.ime.usp.br/~jef/apostila.pdf) - Osvaldo Kotaro Takai, Isabel Cristina Italiano, João Eduardo Ferreira (PDF) <sub>pt-BR</sub>
-- [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF) <sub>pt-BR</sub>
-- [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) - Gustavo Guanabara, Curso em Video <sub>pt-BR</sub>
-- [Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) - Bosón Treinamentos <sub>pt-BR</sub>
-- [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy) <sub>pt-BR · curso</sub>
-- [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br/) - Rubens de Melo (gitbook) <sub>pt-BR</sub>
-- [Curso Dart](https://www.youtube.com/playlist?list=PLAqdhPoZdJtBnMfZtpExJlFTuuXE0TabS) - Luis Claudio Leite Pereira <sub>pt-BR</sub>
-- [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy) <sub>pt-BR · curso</sub>
-- [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura (Udemy) <sub>pt-BR · curso</sub>
-- [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML) <sub>pt-BR</sub>
-- [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre (Livebook) <sub>pt-BR</sub>
-- [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone <sub>pt-BR</sub>
-- [Elixir (Linguagem de Programação)](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - Elly Academy <sub>pt-BR</sub>
-- [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site) <sub>pt-BR · livro</sub>
-- [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy) <sub>pt-BR · curso</sub>
-- [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera) <sub>pt-BR · curso</sub>
-- [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) - (account required) <sub>pt-BR</sub>
-- [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) - (account required) <sub>pt-BR</sub>
-- [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) - (account required) <sub>pt-BR</sub>
-- [Guia Foca Linux](https://www.guiafoca.org/) - Gleydson Maziolli (PDF) <sub>pt-BR</sub>
-- [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/) - Linux Professional Institute (HTML, PDF) (CC BY-NC-ND 4.0) <sub>pt-BR</sub>
-- [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm%3Asocm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) ( em contínuo desenvolvimento) <sub>pt-BR</sub>
-- [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook) <sub>pt-BR</sub>
-- [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF) <sub>pt-BR</sub>
-- [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim (PDF) <sub>pt-BR</sub>
-- [Engenharia de Software Moderna](https://engsoftmoderna.info/) - Marco Tulio Valente (HTML) <sub>pt-BR</sub>
-- [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF) <sub>pt-BR</sub>
-- [Melhores Práticas de Arquitetura de Software na era da Nuvem](https://leanpub.com/manual-arquitetura-software) - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site) <sub>pt-BR · livro</sub>
-- [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF) <sub>pt-BR</sub>
-- [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB) <sub>pt-BR</sub>
-- [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF) <sub>pt-BR</sub>
+### 🟠 Programação
+
+- [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF) (CC BY-NC-ND) <sub>🇧🇷 pt-BR</sub>
+- [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Curso Lógica de Programação Completo 2023 (Iniciantes) + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+
+### 🧺 Mais links
+
+- [Introdução a Banco de Dados](https://www.ime.usp.br/~jef/apostila.pdf) - Osvaldo Kotaro Takai, Isabel Cristina Italiano, João Eduardo Ferreira (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) - Gustavo Guanabara, Curso em Video <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) - Bosón Treinamentos <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br/) - Rubens de Melo (gitbook) <sub>🇧🇷 pt-BR</sub>
+- [Curso Dart](https://www.youtube.com/playlist?list=PLAqdhPoZdJtBnMfZtpExJlFTuuXE0TabS) - Luis Claudio Leite Pereira <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre <sub>🇧🇷 pt-BR</sub>
+- [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Pedra da Alquimia <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Elixir (Linguagem de Programação)](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - Academia Elly <sub>🎬 vídeo · 🇧🇷 pt-BR</sub>
+- [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site) <sub>📚 livro · 🇧🇷 pt-BR</sub>
+- [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Corsera) <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) - (conta exigida) <sub>🇧🇷 pt-BR</sub>
+- [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) - (conta exigida) <sub>🇧🇷 pt-BR</sub>
+- [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) - (conta exigida) <sub>🇧🇷 pt-BR</sub>
+- [Guia Foca Linux](https://www.guiafoca.org/) - Gleydson Maziolli <sub>🇧🇷 pt-BR</sub>
+- [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/) - Instituto Linux Professional (HTML, PDF) (CC BY-NC-ND 4.0) <sub>🇧🇷 pt-BR</sub>
+- [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm%3Asocm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) ( em contínuo desenvolvimento) <sub>🇧🇷 pt-BR</sub>
+- [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook) <sub>🇧🇷 pt-BR</sub>
+- [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim <sub>🇧🇷 pt-BR</sub>
+- [Engenharia de Software Moderna](https://engsoftmoderna.info/) - Marco Tulio Valente (HTML) <sub>🇧🇷 pt-BR</sub>
+- [Aprender o Haskell será um grande bem para você](https://github.com/taylorrf/learnhaskell) - Miran Lipovača, trl. <sub>🇧🇷 pt-BR</sub>
+- [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Melhores Práticas de Arquitetura de Software na era da Nuvem](https://leanpub.com/manual-arquitetura-software) - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site) <sub>📚 livro · 🇧🇷 pt-BR</sub>
+- [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF) <sub>🇧🇷 pt-BR</sub>
+- [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB) <sub>🇧🇷 pt-BR</sub>
+- [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF) <sub>🇧🇷 pt-BR</sub>
 
 ## 🔤 PHP
 
-### Components
+> 81 links sobre PHP: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
-- [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
-- [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-- [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
-- [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-- [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
+### 🧱 Componentes
 
-### Content Management Systems (CMS)
+- [Aura](https://auraphp.com/) - Componentes independentes, totalmente separados um do outro e de qualquer estrutura.
+- [CakePHP Plugins](https://plugins.cakephp.org/) - Um diretório de plugins CakePHP.
+- [Laminas Components](https://docs.laminas.dev/components/) - Os componentes que fazem o Framework Laminas. <sub>📖 documentação</sub>
+- [Laravel Components](https://github.com/illuminate) - Os componentes do Framework Laravel.
+- [League of Extraordinary Packages](https://thephpleague.com/) - Um grupo de desenvolvimento de pacotes PHP.
+- [Spatie Open Source](https://spatie.be/open-source) - Uma coleção de pacotes PHP e Laravel em código aberto.
 
-- [Backdrop](https://backdropcms.org/) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
-- [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
-- [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-- [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
-- [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
-- [Joomla](https://www.joomla.org/) - Another leading CMS.
+### 🖥️ Sistemas de Gestão de Conteúdo (CMS)
 
-### Dependency Management Extras
+- [Backdrop](https://backdropcms.org/) - Um CMS visando pequenas e médias empresas e sem fins lucrativos (um garfo de Drupal).
+- [Concrete5](https://www.concretecms.com/) - Um CMS mirando usuários com um mínimo de habilidades técnicas.
+- [CraftCMS](https://github.com/craftcms/cms) - Um CMS flexível e amigável para criar experiências digitais personalizadas na web e além.
+- [Drupal](https://new.drupal.org/home) - Um nível empresarial CMS.
+- [Grav](https://github.com/getgrav/grav) - Um moderno CMS de arquivo plano.
+- [Joomla](https://www.joomla.org/) - Outro CMS líder.
 
-- [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
-- [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing composer.json files.
-- [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
-- [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
-- [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
-- [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
+### 🗂️ Extras de Gestão de Dependência
 
-### Frameworks
+- [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - Um plugin de compositor para mesclar vários arquivos do Composer.Json.
+- [Composer Normalize](https://github.com/ergebnis/composer-normalize) - Um plugin para normalizar arquivos do Compositor Json.
+- [Composer Patches](https://github.com/cweagans/composer-patches) - Um plugin para o Compositor aplicar patches.
+- [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - Um plugin para verificar se as dependências mínimas podem ser instaladas e testadas.
+- [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - Ferramenta CLI para analisar dependências do compositor e verificar que nenhum símbolo desconhecido é usado nas fontes de um pacote.
+- [Composer Unused](https://github.com/composer-unused/composer-unused) - Uma ferramenta CLI para procurar por pacotes de compositores não usados.
 
-- [CakePHP](https://cakephp.org/) - A rapid application development framework.
-- [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
-- [Ecotone](https://docs.ecotone.tech/) - A Service Bus for PHP based on architectural principles of DDD CQRS and Event Sourcing.
-- [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
-- [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
-- [Nette](https://nette.org/) - A web framework comprised of mature components.
+### 🧱 Quadros.
 
-### Http
+- [CakePHP](https://cakephp.org/) - Uma estrutura rápida de desenvolvimento de aplicativos.
+- [CodeIgniter](https://codeigniter.com/) - Uma poderosa estrutura PHP com uma pegada muito pequena.
+- [Ecotone](https://docs.ecotone.tech/) - Um ônibus de serviço para PHP baseado em princípios arquitetônicos do DDD CQRS e Sourcing Evento. <sub>📖 documentação</sub>
+- [Laminas](https://getlaminas.org/) - Uma estrutura composta por componentes individuais (antigamente Zend Framework).
+- [Laravel](https://laravel.com/) - Um framework de aplicação web com sintaxe expressiva e elegante.
+- [Nette](https://nette.org/) - Uma estrutura web composta de componentes maduros.
 
-- [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
-- [Guzzle](https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
-- [HTTPlug](https://httplug.io/) - An HTTP client abstraction without binding to a specific implementation.
-- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-- [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-- [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
+### 🌐 Http
 
-### Scraping
+- [Buzz](https://github.com/kriswallsmith/Buzz) - Outro cliente HTTP.
+- [Guzzle](https://github.com/guzzle/guzzle) - Um cliente HTTP abrangente.
+- [HTTPlug](https://httplug.io/) - Uma abstração de cliente HTTP sem vincular a uma implementação específica.
+- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - Uma implementação de PSR-7 super leve, muito rígida e rápida.
+- [PHP VCR](https://php-vcr.github.io/) - Uma biblioteca para gravar e reproduzir solicitações HTTP.
+- [Requests](https://github.com/WordPress/Requests) - Uma simples biblioteca HTTP.
 
-- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
-- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
-- [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
-- [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
-- [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
-- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+### ⚙️ Raspando
 
-### Templating
+- [Chrome PHP](https://github.com/chrome-php/chrome) - Equipamento sem cabeça Chrome/Chromium da PHP.
+- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - Uma classe PHP para detectar bots/crawlers/speders através do agente usuário.
+- [DiDOM](https://github.com/Imangazaliev/DiDOM) - Um super rápido raspador HTML e analisador.
+- [Embed](https://github.com/php-embed/Embed) - Um extrator de informações de qualquer serviço ou página.
+- [PHP Spider](https://github.com/mvdbos/php-spider) - Uma aranha web configurável e extensível PHP.
+- [Symfony Panther](https://github.com/symfony/panther) - Um navegador testando e web rastreando biblioteca para PHP e Symfony.
 
-- [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
-- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
-- [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-- [PHPTAL](https://phptal.org/) - A PHP implementation of the TAL templating language.
-- [Plates](https://platesphp.com/) - A native PHP templating library.
-- [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
+### 🟢 Template
 
-### Mais links
+- [Latte](https://latte.nette.org/) - Os modelos mais seguros e intuitivos para PHP.
+- [MtHaml](https://github.com/arnaud-lb/MtHaml) - Uma implementação PHP da linguagem de modelo HAML.
+- [Mustache](https://github.com/bobthecow/mustache.php) - Uma implementação PHP da linguagem de modelo Mustache.
+- [PHPTAL](https://phptal.org/) - Uma implementação do PHP da linguagem TAL templating.
+- [Plates](https://platesphp.com/) - Uma biblioteca nativa de Templating PHP.
+- [Smarty](https://www.smarty.net/) - Um motor de modelo para complementar PHP.
 
-- [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
-- [Packagist](https://packagist.org/) - The PHP Package Repository.
-- [Packalyst](https://packalyst.com/) - The Laravel package repository.
-- [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
-- [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
-- [Composer](https://getcomposer.org/) - A package and dependency manager.
-- [Composer Installers](https://github.com/composer/installers) - A multi-framework Composer library installer.
-- [Phive](https://phar.io/) - A PHAR manager.
-- [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
-- [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
-- [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-- [Filament PHP](https://filamentphp.com/) - A powerful open source UI framework for Laravel.
-- [Inertia.js](https://inertiajs.com/) - An adapter for building single-page applications using server-side routing and controllers, without a separate API.
-- [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
-- [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
-- [Laravel Zero](https://laravel-zero.com/) - A micro-framework for console applications.
-- [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-- [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
-- [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
-- [Slim](https://www.slimframework.com/) - Another simple micro framework.
-- [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
-- [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-- [Klein](https://github.com/klein/klein.php) - A flexible router.
-- [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
-- [Cecil](https://cecil.app/) - A simple and powerful content-driven static site generator.
-- [Couscous](https://couscous.io/) - A tool for converting Markdown documentation into websites.
-- [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
-- [Sculpin](https://sculpin.io/) - A tool that converts Markdown and Twig into static HTML.
-- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-- [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
-- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
+### 🧺 Mais links
+
+- [Firegento](https://packages.firegento.com/) - Repositório de Compositores do Módulo Magento.
+- [Packagist](https://packagist.org/) - O Repositório do Pacote PHP.
+- [Packalyst](https://packalyst.com/) - O repositório de pacotes Laravel.
+- [Private Packagist](https://packagist.com/) - Arquivo de pacotes como um serviço para PHP.
+- [WordPress Packagist](https://wpackagist.org/) - Gerencie seus plugins com o Compositor.
+- [Composer](https://getcomposer.org/) - Um pacote e gerente de dependência.
+- [Composer Installers](https://github.com/composer/installers) - Um instalador de biblioteca multi-quadros.
+- [Phive](https://phar.io/) - Um gerente da PHAR.
+- [Pickle](https://github.com/FriendsOfPHP/pickle) - Um instalador de extensão PHP.
+- [Pie](https://github.com/php/pie) - O instalador oficial do PHP para extensões.
+- [CakePHP CRUD](https://github.com/friendsofcake/crud) - Um plugin de Desenvolvimento Rápido de Aplicações para CakePHP.
+- [Filament PHP](https://filamentphp.com/) - Uma poderosa estrutura de código aberto para Laravel.
+- [Inertia.js](https://inertiajs.com/) - Um adaptador para construir aplicativos de uma página usando roteamento e controladores do lado do servidor, sem uma API separada.
+- [LaravelS](https://github.com/hhxsv5/laravel-s) - Um adaptador fora da caixa entre Laravel/Lumen e Swoole.
+- [Livewire](https://livewire.laravel.com/) - Poderoso, dinâmico, interface frontal sem sair do PHP.
+- [Laravel Zero](https://laravel-zero.com/) - Um micro-frame para aplicações de console.
+- [Mezzio](https://getexpressive.org/) - Um micro-quadro de Laminas.
+- [Minicli](https://github.com/minicli/minicli) - Framework minimalista, livre de dependência para construir aplicativos PHP CLI-centrados.
+- [Silly](https://github.com/mnapoli/silly) - Um micro-quadro para aplicações CLI.
+- [Slim](https://www.slimframework.com/) - Outro micro framework simples.
+- [Aura.Router](https://github.com/auraphp/Aura.Router) - Uma biblioteca de roteamento completa.
+- [Fast Route](https://github.com/nikic/FastRoute) - Uma biblioteca rápida.
+- [Klein](https://github.com/klein/klein.php) - Um roteador flexível.
+- [Route](https://github.com/thephpleague/route) - Uma biblioteca de roteamento construída em cima da Fast Route.
+- [Cecil](https://cecil.app/) - Um simples e poderoso gerador de conteúdo estático.
+- [Couscous](https://couscous.io/) - Uma ferramenta para converter a documentação Markdown em sites.
+- [Jigsaw](https://jigsaw.tighten.com/) - Simples sites estáticos com a Lâmina Laravel.
+- [Sculpin](https://sculpin.io/) - Uma ferramenta que converte Markdown e Twig em HTML estático.
+- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - Uma biblioteca para inserir CSS em modelos de e-mail.
+- [ddeboer/imap](https://github.com/ddeboer/imap) - Biblioteca de IMAP PHP totalmente testada orientada para objetos.
+- [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - Uma biblioteca de e-mails.
+- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Uma coleção inspiradora de middlewares.
+- [Stack](https://github.com/stackphp) - Uma biblioteca de middlewares empilháveis para Symfony.
+- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware para PHP construído em cima do PSR-7.
+- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - Uma biblioteca de domínio do sufixo.
+- [sabre/uri](https://github.com/sabre-io/uri) - Uma biblioteca funcional de manipulação de UR.
+- [Uri](https://github.com/thephpleague/uri) - Outra biblioteca de manipulação de URLs.
+- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Um esqueleto para Slim.
+- [Slim PHP View](https://github.com/slimphp/PHP-View) - Um simples renderizador PHP para Slim.
 
 ## 🔤 Python
 
-### Autenticação
+> 81 links sobre Python: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [oauthlib](https://github.com/oauthlib/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
-- [authlib](https://github.com/authlib/authlib) - A comprehensive library for building OAuth, OpenID Connect, and JWT/JWS/JWE/JWK/JWA.
-- [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
-- [django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - An OAuth 2.0 authorization server for Django.
-- [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
-- [django-guardian](https://github.com/django-guardian/django-guardian) - Implementation of per-object permissions for Django.
+### 🟣 Autenticação
 
-### Computer Vision
+- [oauthlib](https://github.com/oauthlib/oauthlib) - Uma implementação genérica e completa da lógica de assinatura do pedido OAuth.
+- [authlib](https://github.com/authlib/authlib) - Uma biblioteca abrangente para construir OAuth, OpenID Connect e JWT/JWS/JWE/JWK/JWA.
+- [django-allauth](https://github.com/pennersr/django-allauth) - Aplicativo de autenticação para Django que "apenas funciona".
+- [django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - Um servidor de autorização OAuth 2.0 para Django.
+- [pyjwt](https://github.com/jpadilla/pyjwt) - Implementação do JSON Web Token em Python.
+- [django-guardian](https://github.com/django-guardian/django-guardian) - Implementação de permissões por objeto para Django.
 
-- [opencv-python](https://github.com/opencv/opencv-python) - Open Source Computer Vision Library.
-- [ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO for object detection, segmentation, pose estimation, classification, and tracking.
-- [kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
-- [fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models.
-- [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for the Tesseract OCR engine.
-- [easyocr](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ languages supported.
+### 🟣 Visão do Computador
 
-### Deep Learning
+- [opencv-python](https://github.com/opencv/opencv-python) - Biblioteca de Visão de Computador Código Aberto.
+- [ultralytics](https://github.com/ultralytics/ultralytics) - IOLO ultralítico para detecção de objetos, segmentação, estimativa de poses, classificação e rastreamento.
+- [kornia](https://github.com/kornia/kornia) - Biblioteca Diferencial de Visão Computacional Open Source para PyTorch.
+- [fiftyone](https://github.com/voxel51/fiftyone) - A ferramenta de código aberto para construir conjuntos de dados de alta qualidade e modelos de visão computacional.
+- [pytesseract](https://github.com/madmaze/pytesseract) - Uma embalagem para o motor Tesseract OCR.
+- [easyocr](https://github.com/JaidedAI/EasyOCR) - Pronto para usar OCR com 80 idiomas mais suportados.
 
-- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-- [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
-- [jax](https://github.com/jax-ml/jax) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
-- [keras](https://github.com/keras-team/keras) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
-- [tensorflow](https://github.com/tensorflow/tensorflow) - An end-to-end machine learning platform from Google.
-- [gymnasium](https://github.com/Farama-Foundation/Gymnasium) - A standard API for reinforcement learning environments with popular reference environments (gym successor).
+### 🤖 Aprendizado Profundo
 
-### Machine Learning
+- [pytorch](https://github.com/pytorch/pytorch) - Tensores e redes neurais dinâmicas em Python com forte aceleração da GPU.
+- [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Estrutura de aprendizagem profunda para treinar, implantar e enviar produtos de IA Relâmpago rápido.
+- [jax](https://github.com/jax-ml/jax) - Uma biblioteca para computação numérica de alto desempenho com diferenciação automática e compilação JIT.
+- [keras](https://github.com/keras-team/keras) - Uma biblioteca de alto nível com suporte para as infra-estruturas JAX, TensorFlow e PyTorch.
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Uma plataforma de aprendizado de máquina do Google.
+- [gymnasium](https://github.com/Farama-Foundation/Gymnasium) - Uma API padrão para reforçar ambientes de aprendizagem com ambientes de referência populares (sucessor de cigarros).
 
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-- [pgmpy](https://github.com/pgmpy/pgmpy) - A Python library for causal and probabilistic reasoning with graphical models.
-- [feature-engine](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
-- [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
-- [lightgbm](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting framework.
-- [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance gradient boosting on decision trees library.
+### 🌐 Clientes HTTP
 
-### Natural Language Processing
+- [requests](https://github.com/psf/requests) - Pedidos HTTP para Humanos.
+- [aiohttp](https://github.com/aio-libs/aiohttp) - Estrutura de cliente/servidor HTTP assíncrono para assincio e Python.
+- [httpx2](https://github.com/pydantic/httpx2) - HTTP/1.1 e HTTP/2 cliente com sincronização e APIs assincronizadas, mantidas por Pydantic (httpx garfo).
+- [urllib3](https://github.com/urllib3/urllib3) - Uma biblioteca HTTP com conexão segura, postagem de arquivos e muito mais.
+- [httpx](https://github.com/encode/httpx) - Um cliente HTTP da próxima geração para Python.
+- [yarl](https://github.com/aio-libs/yarl) - Mais uma biblioteca de URL.
 
-- [nltk](https://github.com/nltk/nltk) - A leading platform for building Python programs to work with human language data.
-- [spacy](https://github.com/explosion/spaCy) - A library for industrial-strength natural language processing in Python and Cython.
-- [gensim](https://github.com/piskvorky/gensim) - Topic Modeling for Humans.
-- [stanza](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
-- [jieba](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
-- [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
+### 🤖 Aprendizado de máquina
 
-### Web APIs
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - A mais popular biblioteca Python para Machine Learning com extensa documentação e suporte comunitário.
+- [pgmpy](https://github.com/pgmpy/pgmpy) - Uma biblioteca Python para raciocínio causal e probabilístico com modelos gráficos.
+- [feature-engine](https://github.com/feature-engine/feature_engine) - sklearn API compatível com o maior conjunto de ferramentas para engenharia e seleção de recursos.
+- [xgboost](https://github.com/dmlc/xgboost) - Um gradiente escalável, portátil e distribuído aumentando a biblioteca.
+- [lightgbm](https://github.com/lightgbm-org/LightGBM) - Uma estrutura rápida, distribuída e de alto desempenho.
+- [catboost](https://github.com/catboost/catboost) - Um gradiente rápido, escalável e de alto desempenho impulsionando a biblioteca das árvores de decisão.
 
-- [django-rest-framework](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
-- [django-ninja](https://github.com/vitalik/django-ninja) - Fast, Django REST framework based on type hints and Pydantic.
-- [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
-- [django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, msgspec, pydantic and other goodies
-- [flask-restx](https://github.com/python-restx/flask-restx) - Fully featured framework for fast, easy and documented API development with Flask.
-- [flask-smorest](https://github.com/marshmallow-code/flask-smorest) - A Flask/Marshmallow-based REST API framework with automatic OpenAPI documentation.
+### 🗣️ Processamento de Linguagem Natural
 
-### Web Frameworks
+- [nltk](https://github.com/nltk/nltk) - Uma plataforma líder para construir programas Python para trabalhar com dados de linguagem humana.
+- [spacy](https://github.com/explosion/spaCy) - Uma biblioteca para processamento de linguagem natural em Python e Cython.
+- [gensim](https://github.com/piskvorky/gensim) - Modelagem de Tópicos para Humanos.
+- [stanza](https://github.com/stanfordnlp/stanza) - A biblioteca oficial do Grupo NLP de Stanford, suportando mais de 60 idiomas.
+- [jieba](https://github.com/fxsjy/jieba) - A mais popular biblioteca de segmentação de texto chinesa.
+- [pypinyin](https://github.com/mozillazg/python-pinyin) - Converta o Hanzi chinês em pinyin.
 
-- [flask](https://github.com/pallets/flask) - A microframework for Python.
-- [django](https://github.com/django/django) - A high-level web framework that encourages rapid development and clean, pragmatic design.
-- [bottle](https://github.com/bottlepy/bottle) - A fast and simple micro-framework distributed as a single file with no dependencies.
-- [pyramid](https://github.com/Pylons/pyramid) - A small, fast, down-to-earth, open source Python web framework.
-- [fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app.
-- [starlette](https://github.com/Kludex/starlette) - A lightweight ASGI framework and toolkit for building high-performance async services.
+### 🔌 APIs da Web
 
-### Mais links
+- [django-rest-framework](https://github.com/encode/django-rest-framework) - Um kit de ferramentas poderoso e flexível para construir APIs web.
+- [django-ninja](https://github.com/vitalik/django-ninja) - Rápido, Django REST framework baseado em dicas tipo e Pydantic.
+- [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Integração de Morangos com Django.
+- [django-modern-rest](https://github.com/wemake-services/django-modern-rest) - REST moderno com velocidade, tipos, async, msgspec, pydantic e outras guloseimas
+- [flask-restx](https://github.com/python-restx/flask-restx) - Estrutura totalmente apresentada para desenvolvimento rápido, fácil e documentado da API com o Flask.
+- [flask-smorest](https://github.com/marshmallow-code/flask-smorest) - Um framework de API REST baseado em Flask/Marshmallow com documentação automática OpenAPI.
 
-- [uvicorn](https://github.com/Kludex/uvicorn) - A lightning-fast ASGI server implementation.
-- [granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.
-- [hypercorn](https://github.com/pgjones/hypercorn) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
-- [gunicorn](https://github.com/benoitc/gunicorn) - A pre-fork WSGI server with a native ASGI worker, ported from Ruby's Unicorn project.
-- [waitress](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-- [flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask.
-- [django-unfold](https://github.com/unfoldadmin/django-unfold) - A modern Django admin theme for building dashboards, internal tools, and business applications.
-- [sqladmin](https://github.com/smithyhq/sqladmin) - An admin interface for SQLAlchemy models in FastAPI and Starlette.
-- [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
-- [django-ai-plugins](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
-- [sentry-skills](https://github.com/getsentry/skills) - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
-- [trailofbits-skills](https://github.com/trailofbits/skills) - Security skills for vulnerability detection, auditing, and testing.
-- [pydantic-ai](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
-- [websockets](https://github.com/python-websockets/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
-- [channels](https://github.com/django/channels) - Brings WebSocket, long-poll HTTP, and other async support to Django.
-- [flask-socketio](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
-- [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and asyncio.
-- [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
-- [implicit](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
-- [scikit-surprise](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
-- [whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for WSGI applications, with compression and caching headers.
-- [django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
-- [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
-- [wagtail](https://github.com/wagtail/wagtail) - A Django content management system.
-- [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django.
-- [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
-- [nikola](https://github.com/getnikola/nikola) - A static website and blog generator.
-- [jinja](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
-- [mako](https://github.com/sqlalchemy/mako) - Hyperfast and lightweight templating for the Python platform.
-- [odoo](https://github.com/odoo/odoo) - A suite of open source business apps: CRM, e-commerce, accounting, inventory, and thousands of community modules.
-- [requests](https://github.com/psf/requests) - HTTP Requests for Humans.
+### 🕸️ Frameworks da Web
+
+- [flask](https://github.com/pallets/flask) - Um microframe para Python.
+- [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - Uma lista de incríveis recursos e plugins Flask. <sub>📋 lista awesome</sub>
+- [django](https://github.com/django/django) - Uma estrutura web de alto nível que incentiva o desenvolvimento rápido e design limpo e pragmático.
+- [awesome-django](https://github.com/wsvincent/awesome-django) - Uma lista de coisas incríveis relacionadas com Django. <sub>📋 lista awesome</sub>
+- [bottle](https://github.com/bottlepy/bottle) - Um micro-quadro rápido e simples distribuído como um único arquivo sem dependências.
+- [pyramid](https://github.com/Pylons/pyramid) - Um pequeno, rápido, de baixo para a terra, código aberto Python web framework.
+
+### 🧺 Mais links
+
+- [uvicorn](https://github.com/Kludex/uvicorn) - Uma implementação rápida do servidor ASGI.
+- [granian](https://github.com/emmett-framework/granian) - Um servidor HTTP Rust para aplicativos Python construídos em cima de Hyper e Tokio, apoiando WSGI/ASGI/RSGI.
+- [hypercorn](https://github.com/pgjones/hypercorn) - Um servidor ASGI e WSGI baseado em bibliotecas Hyper e inspirado por Gunicorn.
+- [gunicorn](https://github.com/benoitc/gunicorn) - Um servidor pré-forque WSGI com um trabalhador ASGI nativo, portado do projeto Unicórnio de Ruby.
+- [waitress](https://github.com/Pylons/waitress) - Multi-threaded, poderes Pirâmide.
+- [flask-admin](https://github.com/pallets-eco/flask-admin) - Estrutura de interface administrativa simples e extensível para Flask.
+- [django-unfold](https://github.com/unfoldadmin/django-unfold) - Um moderno tema de administração Django para painéis de construção, ferramentas internas e aplicações de negócios.
+- [sqladmin](https://github.com/smithyhq/sqladmin) - Uma interface de administração para modelos SQLAlchemy em FastAPI e Starlette.
+- [django-grappelli](https://github.com/sehmaschine/django-grappelli) - Uma pele alegre para o Django Admin-Interface.
+- [django-ai-plugins](https://github.com/vintasoftware/django-ai-plugins) - Django tem habilidades de agente para Django, DRF, Celery e revisão específica do código.
+- [sentry-skills](https://github.com/getsentry/skills) - Habilidades de agente que a equipe do Sentry usa para revisão de código, pedidos e Django.
+- [trailofbits-skills](https://github.com/trailofbits/skills) - Habilidades de segurança para detecção de vulnerabilidade, auditoria e testes.
+- [pydantic-ai](https://github.com/pydantic/pydantic-ai) - Um framework de agentes Python para a construção de aplicações de IA generativas com esquemas estruturados.
+- [websockets](https://github.com/python-websockets/websockets) - Uma biblioteca para a construção de servidores WebSocket e clientes com foco em correção e simplicidade.
+- [channels](https://github.com/django/channels) - Traz WebSocket, HTTP de longa duração e outro suporte assincronizado para Django.
+- [flask-socketio](https://github.com/miguelgrinberg/Flask-SocketIO) - Integração de socket.IO para aplicações Flask.
+- [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP para Python em Twisted e assincio.
+- [annoy](https://github.com/spotify/annoy) - Vizinhos mais próximos em C++/Python otimizados para uso de memória.
+- [implicit](https://github.com/benfred/implicit) - Uma rápida implementação Python de filtragem colaborativa para conjuntos de dados implícitos.
+- [scikit-surprise](https://github.com/NicolasHug/Surprise) - Uma ciquita para construir e analisar sistemas de recomendação.
+- [whitenoise](https://github.com/evansd/whitenoise) - Arquivo estático radicalmente simplificado para aplicações WSGI, com cabeçalhos de compressão e cache.
+- [django-storages](https://github.com/jschneier/django-storages) - Uma coleção de armazenamento personalizado para Django.
+- [django-compressor](https://github.com/django-compressor/django-compressor) - Compacta JavaScript ou CSS em um único arquivo.
+- [browser-use](https://github.com/browser-use/browser-use) - Faça sites acessíveis para agentes de IA com fácil automação do navegador.
+- [scrapy](https://github.com/scrapy/scrapy) - Uma estrutura rápida de rastreamento e raspagem.
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - Um rastreador de rede que fornece extração de dados estruturada e rápida, projetado especificamente para agentes de IA.
+- [wagtail](https://github.com/wagtail/wagtail) - Um sistema de gerenciamento de conteúdo Django.
+- [django-cms](https://github.com/django-cms/django-cms) - A empresa fácil de usar e amigável CMS alimentado por Django.
+- [pelican](https://github.com/getpelican/pelican) - Gerador de site estático que suporta a sintaxe Markdown e Rest.
+- [nikola](https://github.com/getnikola/nikola) - Um site estático e gerador de blogs.
+- [jinja](https://github.com/pallets/jinja) - Uma linguagem moderna e amigável.
+- [mako](https://github.com/sqlalchemy/mako) - Template hiperrápido e leve para a plataforma Python.
+- [odoo](https://github.com/odoo/odoo) - Um conjunto de aplicativos de negócios de código aberto: CRM, e-commerce, contabilidade, inventário e milhares de módulos comunitários.
 
 ## 🔤 Ruby
 
-### Admin Interface
+> 81 links sobre Ruby: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [ActiveAdmin](http://activeadmin.info/)
-- [ActiveScaffold](https://github.com/activescaffold/active_scaffold)
-- [Administrate](https://github.com/thoughtbot/administrate)
-- [Avo Admin for Rails](https://avohq.io/rails-admin)
-- [bhf](http://antpaw.github.io/bhf/)
-- [Hot Glue](https://github.com/hot-glue-for-rails/hot-glue/)
+### 🖌️ Interface de Administração.
 
-### AI and LLMs
+- [ActiveScaffold](https://github.com/activescaffold/active_scaffold) - Economize tempo e dores de cabeça, e crie um conjunto mais fácil de páginas, com ActiveScaffold. ActiveScaffold lida com todas as suas necessidades de interface do usuário CRUD (criar, ler…
+- [Administrate](https://github.com/thoughtbot/administrate) - Um motor Rails que ajuda a montar um painel de administração super flexível.
+- [Hot Glue](https://github.com/hot-glue-for-rails/hot-glue/) - Construtor de andaime rápido para Turbo-Rails e Hotwire.
+- [Madmin](https://github.com/excid3/madmin) - Uma robusta interface de administração para aplicativos Ruby on Rails.
+- [MotorAdmin](https://github.com/motor-admin/motor-admin-rails) - Painel de administração baixo código e inteligência empresarial mecanismo Rails.
+- [RailsAdmin](https://github.com/railsadminteam/rails_admin) - RailsAdmin é um motor que fornece uma interface fácil de usar para gerenciar seus dados.
 
-- [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby)
-- [langchain.rb](https://github.com/patterns-ai-core/langchainrb)
-- [openai-ruby](https://github.com/openai/openai-ruby)
-- [RubyLLM](https://github.com/crmne/ruby_llm)
-- [ruby-openai](https://github.com/alexrudall/ruby-openai)
-- [ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk)
+### 📊 Análise.
 
-### Analytics
+- [ActiveAnalytics](https://github.com/BaseSecrete/active_analytics) - Análise de tráfego focada em privacidade para aplicações da Ruby na Rails.
+- [Ahoy](https://github.com/ankane/ahoy) - Simples, poderoso, análise de primeira parte para Rails.
+- [Impressionist](https://github.com/charlotte-ruby/impressionist) - Plugin Rails que rastreia impressões e visualizações de páginas
+- [Legato](https://github.com/tpitale/legato) - Cliente de API do Google Analytics para Ruby
+- [Rack::Tracker](https://github.com/railslove/rack-tracker) - Rastreamento facilitado: não brinque com a adição de parciais de rastreamento e análise ao seu aplicativo e concentre-se nas coisas que importam.
+- [Staccato](https://github.com/tpitale/staccato) - Biblioteca Ruby para executar o rastreamento do lado do servidor no protocolo oficial de medição Google Analytics
 
-- [ActiveAnalytics](https://github.com/BaseSecrete/active_analytics)
-- [Ahoy](https://github.com/ankane/ahoy)
-- [Impressionist](https://github.com/charlotte-ruby/impressionist)
-- [Legato](https://github.com/tpitale/legato)
-- [Rack::Tracker](https://github.com/railslove/rack-tracker)
-- [Staccato](https://github.com/tpitale/staccato)
+### 🔌 Construtor de APIs e Discovery
 
-### API Builder and Discovery
+- [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - AtivoModelo: implementação de serializer e ganchos Rails
+- [Acts_As_Api](https://github.com/fabrik42/acts_as_api) - Torna a criação de respostas API em Rails fácil e divertida
+- [Alba](https://github.com/okuramasafumi/alba) - Alba é um serializador da JSON para Ruby, JRuby e TruffleRuby.
+- [Blanket](https://github.com/inf0rmer/blanket) - Um simples invólucro de API.
+- [Blueprinter](https://github.com/procore-oss/blueprinter) - Biblioteca de serialização simples, rápida e declarativa para Ruby.
+- [cache_crispies](https://github.com/codenoble/cache-crispies) - Speedy Rails serialização JSON com caching embutido
 
-- [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers)
-- [Acts_As_Api](https://github.com/fabrik42/acts_as_api)
-- [Alba](https://github.com/okuramasafumi/alba)
-- [Blanket](https://github.com/inf0rmer/blanket)
-- [Blueprinter](https://github.com/procore-oss/blueprinter)
-- [cache_crispies](https://github.com/codenoble/cache-crispies)
+### 🟣 Activo
 
-### Assets
+- [Asset Sync](https://github.com/AssetSync/asset_sync) - Sincronia: Activos entre Rails e S3
+- [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Autoprefixo para Ruby e Ruby no Rails
+- [Bundlebun](https://github.com/yaroslav/bundlebun) - Pacotes de pacote Bun, um rápido tempo de execução JavaScript, gerente de pacotes e construtor, com seus aplicativos Ruby e Rails
+- [Emoji](https://github.com/wpeterson/emoji) - Uma jóia para Emoji, para todos.
+- [Less Rails](https://github.com/metaskills/less-rails) - Menos. Js For Rails
+- [Shakapacker](https://github.com/shakacode/shakapacker) - Use o Webpack para gerenciar módulos JavaScript em Rails.
 
-- [Asset Sync](https://github.com/AssetSync/asset_sync)
-- [Autoprefixer](https://github.com/ai/autoprefixer-rails)
-- [Bundlebun](https://github.com/yaroslav/bundlebun)
-- [Emoji](https://github.com/wpeterson/emoji)
-- [Less Rails](https://github.com/metaskills/less-rails)
-- [Rails Assets](https://rails-assets.org/)
+### 🔷 Autenticação e OAuth
 
-### Authentication and OAuth
+- [API Guard](https://github.com/Gokul595/api_guard) - Solução de autenticação JWT para APIs Rails
+- [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - Um gerador de sistema de autenticação para aplicações Rails.
+- [Authlogic](https://github.com/binarylogic/authlogic) - Uma simples solução de autenticação rubi.
+- [Clearance](https://github.com/thoughtbot/clearance) - Autenticação rails com e-mail e senha.
+- [Devise](https://github.com/heartcombo/devise) - Solução de autenticação flexível para Rails com o diretor.
+- [JWT](https://github.com/jwt/ruby-jwt) - Uma implementação rubi do padrão RFC 7519 OAuth JSON Web Token (JWT).
 
-- [API Guard](https://github.com/Gokul595/api_guard)
-- [Authentication Zero](https://github.com/lazaronixon/authentication-zero)
-- [Authlogic](https://github.com/binarylogic/authlogic)
-- [Clearance](https://github.com/thoughtbot/clearance)
-- [Devise](https://github.com/heartcombo/devise)
-- [JWT](https://github.com/jwt/ruby-jwt)
+### 🟢 Autorização
 
-### Authorization
+- [acl9](https://github.com/be9/acl9) - Outro sistema de autorização baseado em papéis para Rails.
+- [AccessGranted](https://github.com/chaps-io/access-granted) - Gem de autorização multi-papel e lista branca para Rails (e não só Rails!)
+- [ActionPolicy](https://github.com/palkan/action_policy) - Estrutura de autorização para aplicações Ruby/Rails
+- [CanCanCan](https://github.com/CanCanCommunity/cancancan) - A Gem de autorização para Ruby on Rails.
+- [Consul](https://github.com/makandra/consul) - Autorização baseada em escopo para Ruby na Rails.
+- [Petergate](https://github.com/elorest/petergate) - Fácil de usar e ler ações e autorizações baseadas em conteúdo.
 
-- [acl9](https://github.com/be9/acl9)
-- [AccessGranted](https://github.com/chaps-io/access-granted)
-- [ActionPolicy](https://github.com/palkan/action_policy)
-- [CanCanCan](https://github.com/CanCanCommunity/cancancan)
-- [Consul](https://github.com/makandra/consul)
-- [Petergate](https://github.com/elorest/petergate)
+### 🚀 Lógica de negócios
 
-### Business logic
+- [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction) - Gerencie a lógica de negócios específica da aplicação.
+- [Dentaku](https://github.com/rubysolo/dentaku) - Matemática e lógica, análise e avaliação.
+- [Interactor](https://github.com/collectiveidea/interactor) - O Interator fornece uma interface comum para realizar complexas interações de usuários.
+- [Light Service](https://github.com/adomokos/light-service) - Série de ações com ênfase na simplicidade.
+- [Mutations](https://github.com/cypriss/mutations) - Componha sua lógica de negócios em comandos que higienizam e validam a entrada.
+- [Servactory](https://github.com/servactory/servactory) - Objeto de serviço poderoso para aplicações Ruby
 
-- [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction)
-- [Dentaku](https://github.com/rubysolo/dentaku)
-- [Interactor](https://github.com/collectiveidea/interactor)
-- [Light Service](https://github.com/adomokos/light-service)
-- [Mutations](https://github.com/cypriss/mutations)
-- [Servactory](https://github.com/servactory/servactory)
+### 🔶 Caching
 
-### Caching
+- [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) - Cache de ação para o Pacote de Ação (removido do núcleo em Rails 4.0)
+- [Dalli](https://github.com/petergoldstein/dalli) - Cliente de alto desempenho para Ruby.
+- [Garner](https://github.com/artsy/garner) - Um conjunto de middlewares Rack e ajudantes de cache que implementam várias estratégias de cache.
+- [IdentityCache](https://github.com/Shopify/identity_cache) - IdentityCache é uma solução de cache no nível BLOB para conectar ao Active Record.
+- [Record Cache](https://github.com/orslumen/record-cache) - Cache Active Model Records em Rails 3
+- [Second Level Cache](https://github.com/hooopo/second_level_cache) - Escreva e leia através da biblioteca de cache inspirado em CacheMoney e cache_fu, suporte ActiveRecord 4, 5 e 6.
 
-- [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching)
-- [Dalli](https://github.com/petergoldstein/dalli)
-- [Garner](https://github.com/artsy/garner)
-- [IdentityCache](https://github.com/Shopify/identity_cache)
-- [Record Cache](https://github.com/orslumen/record-cache)
-- [redis-store](http://redis-store.org/)
+### 🖥️ CLI Builder
 
-### Mais links
+- [Clamp](https://github.com/mdub/clamp) - Um framework de aplicação Ruby command-line
+- [Commander](https://github.com/commander-rb/commander) - A solução completa para executáveis de linha de comando Ruby
+- [dry-cli](https://github.com/dry-rb/dry-cli) - Interface de linha de comando para Ruby.
+- [GLI](https://github.com/davetron5000/gli) - Faça aplicações incríveis de linha de comando do jeito fácil
+- [Main](https://github.com/ahoward/main) - Uma fábrica de classe e DSL para gerar programas de linha de comando bem rápido.
+- [Optimist](https://github.com/ManageIQ/optimist) - Optimista é um analisador de opções para Ruby que sai do seu caminho.
 
-- [ActiveWorkflow](https://github.com/automaticmode/active_workflow)
-- [Danger](https://github.com/danger/danger)
-- [Huginn](https://github.com/huginn/huginn)
-- [Neovim](https://github.com/neovim/neovim-ruby)
-- [Runbook](https://github.com/braintree/runbook)
-- [ActsAsTextcaptcha](https://github.com/matthutchinson/acts_as_textcaptcha)
-- [Invisible Captcha](https://github.com/markets/invisible_captcha)
-- [Rakismet](https://github.com/joshfrench/rakismet)
-- [reCAPTCHA](https://github.com/ambethia/recaptcha)
-- [Voight-Kampff](https://github.com/biola/Voight-Kampff)
-- [Jumpstart](https://jumpstartrails.com/)
-- [Rails Blocks](https://railsblocks.com/)
-- [Speedrail](https://github.com/ryanckulp/speedrail)
-- [Wheel](https://github.com/bigbinary/wheel)
-- [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails)
-- [Gretel](https://github.com/lassebunk/gretel)
-- [loaf](https://github.com/piotrmurach/loaf)
-- [Simple Navigation](https://github.com/codeplant/simple-navigation)
-- [Clamp](https://github.com/mdub/clamp)
+### 🖥️ Utilitários CLI
+
+- [Awesome Print](https://github.com/awesome-print/awesome_print) - Pretty imprima seus objetos Ruby com estilo - em cores e com recuo adequado <sub>📋 lista awesome</sub>
+- [Betty](https://github.com/pickhardt/betty) - Amigável interface inglesa para sua linha de comando.
+- [colorize](https://github.com/fazibear/colorize) - Extensão de classe de cordas rubi, que adiciona alguns métodos para definir cor, cor de fundo e efeito de texto no console mais fácil usando sequências de escape ANSI.
+- [colorls](https://github.com/athityakumar/colorls) - Uma jóia Ruby que embeleza o comando do terminal, com cores e ícones de fonte impressionantes.
+- [formatador](https://github.com/geemus/formatador) - Formatação de texto STDOUT
+- [Paint](https://github.com/janlelis/paint) - Jóia rubi para cores terminais ANSI Muito rápido
+
+### 🧺 Mais links
+
+- [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - Fluxos de trabalho Polyglot sem deixar o conforto da sua pilha de tecnologia.
+- [Danger](https://github.com/danger/danger) - Pare de dizer "você esqueceu..." em revisão de código (em Ruby)
+- [Huginn](https://github.com/huginn/huginn) - Crie agentes que monitorem e ajam em seu nome.
+- [Neovim](https://github.com/neovim/neovim-ruby) - Ruby apoia Neovim
+- [Runbook](https://github.com/braintree/runbook) - Uma estrutura para automação gradual do sistema.
+- [ActsAsTextcaptcha](https://github.com/matthutchinson/acts_as_textcaptcha) - Pergunta lógica baseada em texto captcha para Rails
+- [Invisible Captcha](https://github.com/markets/invisible_captcha) - Proteção contra spam para aplicativos Rails.
+- [Rakismet](https://github.com/joshfrench/rakismet) - Fácil integração Akismet e TypePad AntiSpam para Rails
+- [reCAPTCHA](https://github.com/ambethia/recaptcha) - Ajudantes do ReCaptcha para aplicativos de rubi
+- [Voight-Kampff](https://github.com/biola/Voight-Kampff) - Voight-Kampff é uma jóia Ruby que detecta robôs, aranhas, rastejantes e replicantes.
+- [RubyLLM](https://github.com/crmne/ruby_llm) - Conversas, agentes, ferramentas, imagens, áudio e vídeo através de uma API consistente, em Ruby ou Rails.
+- [ruby-openai](https://github.com/alexrudall/ruby-openai) - API OpenAI + Ruby! GPT-5 e WebRTC em tempo real compatível!
+- [ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - O oficial Ruby SDK para os servidores e clientes do Protocolo de Contexto Modelo.
+- [tidewave](https://github.com/tidewave-ai/tidewave_rails) - Servidor MCP com ferramentas de nível de execução para desenvolvimento Rails
+- [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) - Um simples plugin Ruby on Rails para criar e gerenciar uma navegação de pão.
+- [Gretel](https://github.com/lassebunk/gretel) - Plugin de rubi flexível no Rails.
+- [loaf](https://github.com/piotrmurach/loaf) - Gerencia e exibe trilhas de migalhas no aplicativo Rails - magra e média.
+- [Simple Navigation](https://github.com/codeplant/simple-navigation) - Uma jóia rubi para criar navegação (com vários níveis) para suas aplicações Rails, Sinatra ou Padrino.
+- [Speedrail](https://github.com/ryanckulp/speedrail) - Modelo de aplicativo Rails 8, "Devise Auth", "Stripe Billing", "Taiwind CSS", painel de administração, ajudantes de SEO, etc.
+- [Wheel](https://github.com/bigbinary/wheel) - Não reinvente a roda para cada novo projeto Rails.
+- [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby) - O oficial AWS SDK para Ruby
 
 ## 🔤 Rust
 
-### Audio and Music
+> 81 links sobre Rust: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [AreevAI/flowcat](https://github.com/AreevAI/flowcat) - Native-Rust runtime for real-time voice AI agents (phone + WebRTC), self-hosted single binary, pipecat-compatible
-- [dano](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
-- [enginesound](https://github.com/DasEtwas/enginesound) - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
-- [Festival](https://github.com/hinto-janai/festival) - A local music player/server/client
-- [figsoda/mmtc](https://github.com/figsoda/mmtc) - [mmtc] - Minimal mpd terminal client that aims to be simple yet highly configurable
-- [Glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language, for collaborative musicking in browsers.
+### 🎵 Áudio e Música
 
-### Banco de dados
+- [AreevAI/flowcat](https://github.com/AreevAI/flowcat) - Nativo Rust Runtime para agentes de IA de voz em tempo real (telefone + WebRTC), auto-anfitrião único binário, compatível com pipecat
+- [dano](https://github.com/kimono-koans/dano) - Um hashdeep/md5tree (mas muito mais) para arquivos de mídia
+- [enginesound](https://github.com/DasEtwas/enginesound) - Uma aplicação GUI e linha de comando usada para gerar sons semi-realistas do motor, com configuração profunda, taxa variável de amostra e uma janela de análise de frequência.
+- [Festival](https://github.com/hinto-janai/festival) - Um leitor de música local, servidor, cliente.
+- [figsoda/mmtc](https://github.com/figsoda/mmtc) - (mmtc) - Cliente terminal MPD mínimo que visa ser simples, mas altamente configurável
+- [Glicol](https://github.com/chaosprint/glicol) - Linguagem de codificação ao vivo orientada a gráficos, para música colaborativa em navegadores.
 
-- [apecloud/ape-dts](https://github.com/apecloud/ape-dts) - Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.
-- [Atomic-Server](https://github.com/ontola/atomic-server/) - [atomic-server] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes.
-- [ayarotsky/redis-shield](https://github.com/ayarotsky/redis-shield) - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
-- [CozoDB](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast
-- [Curvine](https://github.com/CurvineIO/curvine) - Curvine is a high-performance, concurrent distributed cache system written in Rust, designed for low-latency and high-throughput workloads in AI,Bigdata etc.
-- [darkbird](https://github.com/Rustixir/darkbird) - [darkbird] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+### 🗄️ Banco de dados
 
-### Blockchain
+- [apecloud/ape-dts](https://github.com/apecloud/ape-dts) - Suíte de Transferência de Dados, fornece replicação de dados entre MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse e muito mais.
+- [Atomic-Server](https://github.com/ontola/atomic-server/) - Banco de dados de gráficos NoSQL com atualizações em tempo real, indexação dinâmica e interface gráfica fácil de usar para fins CMS.
+- [ayarotsky/redis-shield](https://github.com/ayarotsky/redis-shield) - Um módulo Redis que implementa o algoritmo token-bucket como um comando nativo para limitação de taxa de alto desempenho.
+- [CozoDB](https://github.com/cozodb/cozo) - Um banco de dados transacional e relacional que usa Datalog e foca em dados gráficos e algoritmos.
+- [Curvine](https://github.com/CurvineIO/curvine) - Curvine é um sistema de cache de alto desempenho, distribuído concomitantemente escrito em Rust, projetado para cargas de trabalho de baixa latência e alta produtividade em IA, Bigdata etc.
+- [darkbird](https://github.com/Rustixir/darkbird) - Alta Concorrência, Tempo Real, Depósito InMemory inspirado na mnésia de Erlang
 
-- [Anchor](https://github.com/solana-foundation/anchor) - Anchor is the leading development framework for building secure Solana programs (smart contracts).
-- [artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots.
-- [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) - [sv] - A library for working with Bitcoin SV.
-- [cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of StarkNet, a ZK-Rollup using STARK proofs
-- [ChainX](https://github.com/chainx-org/ChainX) - Fully Decentralized Interchain Crypto Asset Management on Polkadot.
-- [CITA](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
+### ⛓️ Blockchain
 
-### Embedded
+- [Anchor](https://github.com/solana-foundation/anchor) - Âncora é a principal estrutura de desenvolvimento para construir programas seguros Solana (contratos inteligentes).
+- [artemis](https://github.com/paradigmxyz/artemis) - Uma estrutura simples, modular e rápida para escrever robôs MEV.
+- [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) - Uma biblioteca para trabalhar com Bitcoin SV.
+- [cairo](https://github.com/starkware-libs/cairo) - O Cairo é a primeira linguagem completa de Turing para criar programas prováveis para computação geral.
+- [ChainX](https://github.com/chainx-org/ChainX) - Gerência de ativos totalmente descentralizada da Interchain em Polkadot.
+- [CITA](https://github.com/citahub/cita) - Um kernel blockchain de alto desempenho para usuários corporativos.
 
-- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - [embassy] - Next-generation async/await framework for embedded Rust with HALs for STM32, nRF, RP, ESP32, and more. Features embassy-time, embassy-net, embassy-usb, and low-power support.
-- [infinition/waveshare-watch-rs](https://github.com/infinition/waveshare-watch-rs) - 100% Rust no_std smartwatch firmware for Waveshare ESP32-S3-Touch-AMOLED-2.06. Features QSPI 80 MHz DMA display, Embassy async runtime, event-driven power management with Always-On Display.
-- [rmk](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
-- [rtic-rs/rtic](https://github.com/rtic-rs/rtic) - [rtic] - Real-Time Interrupt-driven Concurrency framework for building embedded real-time systems.
-- [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.
-- [Rust Embedded](https://rust-embedded.org/) - focuses on improving the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms. See awesome-embedded-rust for a curated, and more extended list of embedded Rust resources.
+### 🔧 Incorporado
 
-### Emulators
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Estrutura de última geração, assinc/await para Rust com HALs incorporados para STM32, NRF, RP, ESP32 e muito mais.
+- [infinition/waveshare-watch-rs](https://github.com/infinition/waveshare-watch-rs) - 100% Rust no_std smartwatch firmware para Waveshare ESP32-S3-Touch-AMOLED-2.06. Características QSPI 80 MHz DMA display, Embaixada em tempo de execução sincronizada, gerenciamento de energia…
+- [rmk](https://github.com/haobogu/rmk) - Um firmware de teclado rico em recursos.
+- [rtic-rs/rtic](https://github.com/rtic-rs/rtic) - Estrutura de concorrência em tempo real para construir sistemas incorporados em tempo real.
+- [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Envelope Rusty para a interface de Firmware Unificada Extensível, esta caixa facilita o desenvolvimento do software Rust que aproveita abstrações seguras, convenientes e performantes para a…
+- [Rust Embedded](https://rust-embedded.org/) - Se concentra em melhorar a experiência de ponta a ponta de usar Rust em ambientes restritos a recursos e plataformas não tradicionais, veja incrível-embutida-ferrugem para uma curadoria, e mais…
 
-- [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator.
-- [starrhorne/chip8-rust](https://github.com/starrhorne/chip8-rust) - chip8 emulator
-- [kondrak/rust64](https://github.com/kondrak/rust64) - Commodore 64 emulator
-- [Ruffle](https://github.com/ruffle-rs/ruffle) - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly.
-- [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator
-- [joamag/boytacean](https://github.com/joamag/boytacean) - GameBoy Color emulator that runs on the Web using WebAssembly.
+### 🔷 Emuladores
 
-### File manager
+- [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - Um emulador da WebAssembly Chip-8.
+- [starrhorne/chip8-rust](https://github.com/starrhorne/chip8-rust) - Emulador chip8
+- [kondrak/rust64](https://github.com/kondrak/rust64) - Comodoro 64 emulador
+- [Ruffle](https://github.com/ruffle-rs/ruffle) - Ruffle é um emulador do Adobe Flash Player, que tem como alvo o desktop e a web usando WebAssembly.
+- [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) - Um projeto de pesquisa e emulador do Game Boy.
+- [joamag/boytacean](https://github.com/joamag/boytacean) - Emulador GameBoy Color que é executado na Web usando WebAssembly.
 
-- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading dystroy.org/broot
-- [elio-fm/elio](https://github.com/elio-fm/elio) - [elio] - Batteries-included terminal file manager with rich previews, bulk actions, and trash support.
-- [FileSSH](https://github.com/JayanAXHF/FileSSH) - A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more
-- [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
-- [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files using nature language
-- [pikeru](https://github.com/dvhar/pikeru) - File picker for linux with good thumbnails and search
+### 🗂️ Gerenciador de arquivos
 
-### Finanças
+- [broot](https://github.com/Canop/broot) - Uma nova maneira de ver e navegar em árvores de diretórios (obtenha uma visão geral de um diretório, até mesmo um grande; encontre um diretório então cd para ele; nunca perca o controle da hierarquia…
+- [elio-fm/elio](https://github.com/elio-fm/elio) - Gerente de arquivos terminais com grandes visualizações, ações em massa e suporte ao lixo.
+- [FileSSH](https://github.com/JayanAXHF/FileSSH) - Um TUI rápido e fácil de usar para gerenciar arquivos em um servidor remoto, incluindo criação rápida de sessão SSH, edição de arquivos no local e mais
+- [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-como gerenciador de arquivos terminal
+- [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Pesquise seus arquivos usando linguagem natural.
+- [pikeru](https://github.com/dvhar/pikeru) - Seletor de arquivos para Linux com boas miniaturas e busca
 
-- [Ashutosh0x/rust-finance](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
-- [klirr](https://github.com/Sajjon/klirr) - [klirr] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
-- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for Longbridge Securities: real-time quotes, portfolio, trading for HK/US/A-share/SG.
-- [makeev/alphai-tui](https://github.com/makeev/alphai-tui) - [alphai-tui] - Terminal stock dashboard with keyless quotes and charts, news sentiment, SEC Form 4 insider trades and earnings reads.
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
-- [tackler](https://github.com/tackler-ng/tackler) - [tackler] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting
+### 🟡 Finanças
 
-### Graphics
+- [Ashutosh0x/rust-finance](https://github.com/Ashutosh0x/rust-finance) - Terminal de negociação de IA com ingestão, execução, modelos de risco e painel TUI.
+- [klirr](https://github.com/Sajjon/klirr) - Zero manutenção e FOSS inteligente gerando belas faturas para serviços e despesas.
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - CLI Al-Native para Longbridge Securities: aspas em tempo real, portfólio, negociação por HK/US/A-share/SG.
+- [makeev/alphai-tui](https://github.com/makeev/alphai-tui) - Terminal painel de ações com citações e gráficos sem chave, sentimento de notícia, SEC Form 4 informações privilegiadas e ganhos.
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Uma plataforma de negociação algorítmica de alto desempenho e qualidade escrita em Rust e Python.
+- [tackler](https://github.com/tackler-ng/tackler) - Motor de contabilidade rápido e confiável com suporte GIT SCM nativo para a contabilidade simples.
 
-- [dps/rust-raytracer](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
-- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - converts ASCII diagrams into SVG graphics
-- [KaminariOS/rustracer](https://github.com/KaminariOS/rustracer) - A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
-- [Limeth/euclider](https://github.com/Limeth/euclider) - A real-time 4D CPU ray tracer
-- [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
+### 🔸 Gráficos
 
-### Image Processing
+- [dps/rust-raytracer](https://github.com/dps/rust-raytracer) - Uma implementação de um raytracer muito simples baseado em Ray Tracing in One Weekend por Peter Shirley.
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Esboce e pegue notas escritas à mão.
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Converte diagramas ASCII em gráficos SVG
+- [KaminariOS/rustracer](https://github.com/KaminariOS/rustracer) - Um renderizador PBR GITF 2.0 baseado em rastreamento de raios Vulkan.
+- [Limeth/euclider](https://github.com/Limeth/euclider) - Um rastreador de raios 4D em tempo real.
+- [linebender/resvg](https://github.com/linebender/resvg) - Uma biblioteca de renderização SVG.
 
-- [Darkly](https://github.com/darkly-art/darkly) - Entropic editor for digital artists and painters.
-- [Graphite](https://github.com/GraphiteEditor/Graphite) - Vector-based graphics editor.
-- [Imager](https://github.com/imager-io/imager) - Automated image optimization.
-- [oxipng](https://github.com/oxipng/oxipng) - [oxipng] - Multithreaded PNG optimizer written in Rust.
-- [sorairolake/favico](https://github.com/sorairolake/favico) - [favico] - An utility for creating favicons
-- [Sprite Fusion Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).
+### 📷 Processamento de imagens
 
-### Jogos
+- [Darkly](https://github.com/darkly-art/darkly) - Editor entropado para artistas digitais e pintores.
+- [Graphite](https://github.com/GraphiteEditor/Graphite) - Editor gráfico baseado em vetor.
+- [Imager](https://github.com/imager-io/imager) - Otimização automática de imagem.
+- [oxipng](https://github.com/oxipng/oxipng) - Otimizador PNG multithreaded escrito em Rust.
+- [sorairolake/favico](https://github.com/sorairolake/favico) - Um utilitário para criar favicons
+- [Sprite Fusion Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - Uma ferramenta CLI e WebAssembly que limpa a arte de pixels gerada por IA para obter imagens perfeitas de pixels (MIT).
 
-- [buxx/OpenCombat](https://github.com/buxx/OpenCombat) - A realtime 2nd world war tactical game
-- [chess-tui](https://github.com/thomas-mauran/chess-tui) - A Chess TUI implementation
-- [citybound](https://github.com/citybound/citybound) - The city sim you deserve
-- [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A renderer for Doom, may progress to being a playable game
-- [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Reimplementation of Cave Story engine with some enhancements.
-- [garkimasera/gaia-maker](https://github.com/garkimasera/gaia-maker) - Planet and terraforming simulation game
+### 🎮 Jogos
 
-### Mais links
+- [buxx/OpenCombat](https://github.com/buxx/OpenCombat) - Um jogo tático de 2a Guerra Mundial em tempo real.
+- [chess-tui](https://github.com/thomas-mauran/chess-tui) - Uma implementação do TUI de xadrez.
+- [citybound](https://github.com/citybound/citybound) - A cidade que você merece.
+- [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - Um renderizador para o Destino, pode progredir para ser um jogo jogável.
+- [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Reimplementação do motor Cave Story com alguns aprimoramentos.
+- [garkimasera/gaia-maker](https://github.com/garkimasera/gaia-maker) - Planeta e jogo de simulação de terraformação.
 
-- [ad-si/Woxi](https://github.com/ad-si/Woxi) - [woxi] - An interpreter for the Wolfram Language powered by Rust.
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
-- [Andromeda](https://github.com/tryandromeda/andromeda) - JavaScript & TypeScript runtime built from the ground up in Rust and powered by The Nova Engine.
-- [Arti](https://gitlab.torproject.org/tpo/core/arti) - An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!)
-- [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
-- [lonewolf-io/Narwhal](https://github.com/lonewolf-io/narwhal) - An extensible pub/sub messaging server for edge applications.
-- [Rmqtt](https://github.com/rmqtt/rmqtt) - MQTT Server/MQTT Broker — Scalable distributed MQTT message broker for IoT in the 5G era.
-- [RobustMQ](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
-- [Rocketmq-Rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ build in Rust. Faster, safer, and with lower memory usage.
-- [dora-rs/dora](https://github.com/dora-rs/dora) - [dora-cli] - A fast and simple dataflow-oriented framework for building robotic and multi-AI applications, with Python, Rust, and C/C++ APIs
-- [locka99/opcua](https://github.com/locka99/opcua) - A OPC UA library.
-- [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - A tokio-based modbus library.
-- [api7/aisix](https://github.com/api7/aisix) - Open-source AI gateway for LLMs and AI agents: one OpenAI-compatible API plus a native Anthropic Messages API in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, and other OpenAI-compatible endpoints, with MCP and A2A gateways, semantic routing, guardrails, and semantic caching.
+### 🧺 Mais links
+
+- [ad-si/Woxi](https://github.com/ad-si/Woxi) - Um intérprete da Wolfram Language alimentado pela Rust.
+- [alacritty](https://github.com/alacritty/alacritty) - Um emulador de terminal com GPU.
+- [Andromeda](https://github.com/tryandromeda/andromeda) - JavaScript & TypeScript runtime construído do zero em Rust e alimentado pelo The Nova Engine.
+- [Arti](https://gitlab.torproject.org/tpo/core/arti) - Uma implementação de Tor. (Até agora, é um cliente não muito completo.
+- [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - Uma concha de montagem interativa.
+- [avito-tech/bioyino](https://github.com/avito-tech/bioyino) - Um servidor compatível com StatsD de alto desempenho.
+- [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - Aplicativo de desktop nativo para analisar arquivos e fluxos de logs massivos, possui um sistema de plugin WebAssembly e suporte a formatos automotivos.
+- [madesroches/micromegas](https://github.com/madesroches/micromegas) - Retorno de observação para registros, métricas e traços, com instrumentação Rust de baixo overhead, armazena telemetria como Parquet no armazenamento de objetos e consulta com SQL.
+- [MegaAntiCheat/client-backend](https://github.com/MegaAntiCheat/client-backend) - O aplicativo do cliente para MAC.
+- [openobserve](https://github.com/openobserve/openobserve) - 10x mais fácil, 140x menor custo de armazenamento, alto desempenho, escala petabyte - Elasticsearch/Splunk/Datadog alternativa.
+- [lonewolf-io/Narwhal](https://github.com/lonewolf-io/narwhal) - Um servidor de mensagens pub/sub extensível para aplicações edge.
+- [Rmqtt](https://github.com/rmqtt/rmqtt) - MQTT Server/MQTT Broker - Scalable distribuído MQTT corretor de mensagens para IoT na era 5G.
+- [RobustMQ](https://github.com/robustmq/robustmq) - A próxima geração nativa-nuvem convergiu a fila de mensagens.
+- [Rocketmq-Rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ constrói em Rust, mais rápido, seguro e com menor uso de memória.
+- [api7/aisix](https://github.com/api7/aisix) - Gateway de IA em código aberto para agentes LLMs e AI: uma API compatível com OpenAI mais uma API nativa do Anthropic Messages na frente da OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, e outra…
+- [cocoindex](https://github.com/cocoindex-io/cocoindex) - ETL framework para construir novo contexto para agentes de IA, com processamento incremental
+- [TensorZero](https://github.com/tensorzero/tensorzero) - Dados e aprendizado de volante para LLMs que unifica inferência, observação, otimização e experimentação
+- [Uteke](https://github.com/codecoradev/uteke) - Mecanismo de memória semântica para agentes de IA, binário único, dependência zero, nativo MCP.
+- [dora-rs/dora](https://github.com/dora-rs/dora) - (dora-cli) - Uma estrutura rápida e simples orientada para fluxo de dados para a construção de aplicações robóticas e multi-AI, com APIs Python, Rust e C/C++
+- [locka99/opcua](https://github.com/locka99/opcua) - Uma biblioteca UA da OPC.
+- [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - Uma biblioteca de modbus baseada em tokio.
 
 ## 🔤 Swift
 
-### Animation
+> 81 links sobre Swift: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [Advance](https://github.com/timdonnelly/Advance) - A powerful animation framework for iOS, tvOS, and OS X.
-- [AnimatedGradient](https://github.com/exyte/AnimatedGradient) - Animated linear gradient library written with SwiftUI
-- [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
-- [CocoaSprings](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
-- [Comets](https://github.com/cruisediary/Comets) - Animating Particles.
-- [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease.
+### ✨ Animação
 
-### Dependency Managers
+- [Advance](https://github.com/timdonnelly/Advance) - Um poderoso framework de animação para iOS, TVOS e OS X.
+- [AnimatedGradient](https://github.com/exyte/AnimatedGradient) - Biblioteca de gradiente linear animada escrita com SwiftUI
+- [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - Um layout e animação de dois níveis.
+- [CocoaSprings](https://github.com/MacPaw/CocoaSprings) - Animações interativas para iOS/macOS.
+- [Comets](https://github.com/cruisediary/Comets) - Partículas animadoras.
+- [Ease](https://github.com/roberthein/Ease) - Animar tudo com facilidade.
 
-- [Accio](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
-- [Carthage](https://github.com/Carthage/Carthage) - A new dependency manager.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
-- [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
-- [swift-package-manager](https://github.com/swiftlang/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
-- [Swiftly](https://github.com/swiftlang/swiftly) - Swift CLI toolchain installer to install different versions of Swift.
+### 🔌 API
 
-### Diversos
+- [GitHubAPI](https://github.com/serhii-londar/GithubAPI) - Implementação da API GitHub REST v3.
+- [GitHubRestAPISwiftOpenAPI](https://github.com/Wei18/github-rest-api-swift-openapi) - A API REST do GitHub foi gerada como código Swift da especificação OpenAPI.
+- [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Assistente de API do Google Directions.
+- [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - Framework para gerar usuários aleatórios, um SDK não oficial para randomuser.me.
+- [reddift](https://github.com/sonsongithub/reddift) - Embrulho da API Reddit.
+- [SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - Discórdia API biblioteca para bots e integrações.
 
-- [Beak](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
-- [BetterCodable](https://github.com/marksands/BetterCodable) - Level up your Codable structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom init(from decoder: Decoder) throws and suffer through boilerplate.
-- [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
-- [Forked](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
-- [Fugen](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
-- [MemberwiseInit](https://github.com/gohanlon/swift-memberwise-init-macro) - @MemberwiseInit is a Swift Macro that can more often provide your intended init, while following the same safe-by-default semantics of Swift’s memberwise initializers.
+### 📱 Roteamento da Aplicação
 
-### Patterns
+- [Appz](https://github.com/SwiftKitz/Appz) - Lançar aplicativos externos e ligação profunda com facilidade.
+- [Crossroad](https://github.com/giginet/Crossroad) - Crossroad é um roteador de URL focado em lidar com esquemas de URL personalizados.
+- [LightRoute](https://github.com/SpectralDragon/LiteRoute) - Roteando entre módulos VIPER.
+- [Linker](https://github.com/MaksimKurpa/Linker) - Maneira leve de lidar com links internos e externos para iOS.
+- [MonarchRouter](https://github.com/nikans/MonarchRouter) - Roteador baseado em estados e URLs, transições de hierarquia de controladores automáticos complexos.
+- [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow é um framework de navegação para aplicativos iOS baseado em um padrão Coordenador de Fluxo Reativo.
 
-- [App Architecture](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
-- [CleanArchitectureRxSwift](https://github.com/sergdort/ModernCleanArchitectureSwiftUI) - Example of Clean Architecture of iOS app using RxSwift.
-- [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns.
-- [GoodReactor](https://github.com/GoodRequest/GoodReactor) - GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
-- [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
-- [ReduxUI](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
+### 🗂️ Gerentes de Dependência
 
-### Third party Guides
+- [Accio](https://github.com/JamitLabs/Accio) - Um gerente de dependência baseado em SwiftPM para iOS & Co. com melhorias sobre Cartago.
+- [Carthage](https://github.com/Carthage/Carthage) - Um novo gerente de dependência.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods) - O gerente de dependência mais usado.
+- [Mint](https://github.com/yonaskolb/Mint) - Um gerenciador de pacotes que instala e executa ferramentas de linha de comando Swift.
+- [swift-package-manager](https://github.com/swiftlang/swift-package-manager) - SPM é o Gerente de Pacotes da Linguagem de Programação Swift.
+- [Swiftly](https://github.com/swiftlang/swiftly) - Instalador de ferramentas Swift CLI para instalar diferentes versões do Swift.
 
-- [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial.
-- [About Swift](https://github.com/NicolaLancellotti/about-swift) - A playground about the Swift language.
-- [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics. <sub>lista awesome</sub>
-- [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
-- [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Stanford course by Paul Hegarty.
-- [Hacking With Swift](https://www.hackingwithswift.com/) - Complete training course that teaches app development through 30 hands-on projects, for free.
+### 🟣 Diversos.
 
-### Mais links
+- [Beak](https://github.com/yonaskolb/Beak) - Uma interface de linha de comando para seus scripts Swift.
+- [BetterCodable](https://github.com/marksands/BetterCodable) - O objetivo destes invólucros de propriedade é evitar implementar um init personalizado (decodificador: Decodificador) lança e sofre através da caldeira.
+- [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - Uma coleção de PropertyWrappers para facilitar a serialização personalizada dos tipos codáveis.
+- [Forked](https://github.com/drewmccormack/Forked) - Abordagem generalizada para gerenciar dados compartilhados em aplicativos Swift para apoiar aplicativos locais.
+- [Fugen](https://github.com/almazrafi/Fugen) - Uma ferramenta de linha de comando para exportar recursos e gerar código dos seus arquivos Figma.
+- [MemberwiseInit](https://github.com/gohanlon/swift-memberwise-init-macro) - @MemberwiseInit é uma Macro Swift que pode fornecer mais frequentemente o seu init pretendido, enquanto seguindo a mesma semântica segura-por-default dos inicializadores membros de Swift.
 
-- [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview. <sub>lista awesome</sub>
-- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS. <sub>lista awesome</sub>
-- [example-ios-apps](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
-- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
-- [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models. <sub>lista awesome</sub>
-- [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
-- [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
-- [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
-- [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
-- [BTree](https://github.com/attaswift/BTree) - Fast sorted collections for Swift using in-memory B-trees.
-- [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
-- [SwiftLCS](https://github.com/Frugghi/SwiftLCS) - implementation of the longest common subsequence (LCS) algorithm.
-- [Aptabase](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
-- [Scout](https://github.com/kasianov-mikhail/scout) - Production-grade logging SDK for iOS apps using CloudKit as a backend.
-- [Tracker Aggregator](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
-- [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
-- [GitHubAPI](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
-- [GitHubRestAPISwiftOpenAPI](https://github.com/Wei18/github-rest-api-swift-openapi) - Scheduled generated GitHub's REST API as Swift code from OpenAPI specification.
-- [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-- [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
-- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) - Official Swift API design guidelines.
-- [Apple eBook](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329) - Official Apple eBook for Swift beginners.
-- [Getting Started](https://www.swift.org/getting-started/) - Find information about the how to use the Swift programming language.
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.
-- [Airbnb](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
-- [Google](https://google.github.io/swift/) - This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.
-- [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Style Guide.
-- [Raywenderlich](https://github.com/kodecocodes/swift-style-guide) - Raywenderlich guide, a must read.
-- [iOS project template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
-- [Model-View-Presenter template](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
-- [Swift Module Template](https://github.com/fulldecent/swift6-module-template) - An opinionated starting point for awesome, reusable modules.
-- [Swiftify](https://swiftify.com/) - Objective-C to Swift online code converter and Xcode extension.
-- [Zolang](https://github.com/Zolang/Zolang) - A DSL for generating code in multiple programming languages.
-- [Online Swift Playground](http://online.swiftplayground.run/) - Online Swift Playground.
-- [SwiftFiddle](https://swiftfiddle.com/) - Playground for making, sharing, and embedding Swift code.
-- [swift-vim](https://github.com/keith/swift.vim) - Vim runtime files.
-- [vim-polyglot](https://github.com/sheerun/vim-polyglot) - Language pack for vim that includes vim-swift.
-- [Capable](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
-- [xcprofiler](https://github.com/giginet/xcprofiler) - Command line utility to profile compilation time.
-- [swift-mode](https://github.com/swift-emacs/swift-mode) - Emacs support, including partial flycheck error support.
-- [swift-colab](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
-- [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
+### 🧮 Padrões
+
+- [App Architecture](https://github.com/objcio/app-architecture) - Um código de exemplo do App Architecture Book.
+- [CleanArchitectureRxSwift](https://github.com/sergdort/ModernCleanArchitectureSwiftUI) - Exemplo de arquitetura limpa do aplicativo iOS usando RxSwift.
+- [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Padrões de design.
+- [GoodReactor](https://github.com/GoodRequest/GoodReactor) - GoodReactor é uma estrutura de Reatores Inspirados em Redux para comunicação entre o Modelo de Visualização, Controlador de Vista e Coordenador.
+- [Reactant](https://github.com/Brightify/Reactant) - Reactante é uma arquitetura reativa para iOS.
+- [ReduxUI](https://github.com/gre4ixin/ReduxUI) - Framework Redux para fácil uso com SwiftUI.
+
+### 📖 Guias de terceiros
+
+- [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - Um tutorial de 30 dias legal.
+- [About Swift](https://github.com/NicolaLancellotti/about-swift) - Um playground sobre a linguagem Swift.
+- [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - Uma lista organizada de tópicos essenciais da linguagem rápida. <sub>📋 lista awesome</sub>
+- [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Assista vídeos de conferência em um aplicativo macOS nativo.
+- [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Curso de Stanford por Paul Hegarty.
+- [Hacking With Swift](https://www.hackingwithswift.com/) - Curso de treinamento completo que ensina desenvolvimento de aplicativos através de 30 projetos práticos, de graça.
+
+### 🧺 Mais links
+
+- [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - Lista das perguntas que te ajudam a se preparar para a entrevista. <sub>📋 lista awesome</sub>
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - Uma lista de aplicativos incríveis, softwares, ferramentas e coisas brilhantes para o MacOS. <sub>📋 lista awesome</sub>
+- [example-ios-apps](https://github.com/jogendra/example-ios-apps) - Uma lista incrível para pessoas que são iniciantes e aprendem o desenvolvimento de iOS e para desenvolvedores ios que precisam de qualquer exemplo aplicativo ou recurso.
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - Uma lista colaborativa de aplicativos iOS de código aberto.
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Uma lista incrível de aplicativos para MacOS.
+- [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Uma coleção de modelos originais Core ML. <sub>📋 lista awesome</sub>
+- [Espresso](https://github.com/christopherkarani/Espresso) - Compile os transformadores diretamente para o motor neural da Apple.
+- [Fazm](https://github.com/m13v/fazm) - Um agente de IA controlado por voz para MacOS usando APIs de acessibilidade e ScreenCaptureKit.
+- [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) - Agente de código aberto SDK com loop completo do agente, 34 ferramentas integradas, orquestração subagente, integração MCP e suporte multiprovidente LLM.
+- [Algorithm](https://github.com/CosmicMind/Algorithm) - Um conjunto de ferramentas para escrever algoritmos e modelos de probabilidade.
+- [BTree](https://github.com/attaswift/BTree) - Coleções rápidas para Swift usando árvores B na memória.
+- [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algoritmos e estruturas de dados, com explicações.
+- [SwiftLCS](https://github.com/Frugghi/SwiftLCS) - implementação do mais longo algoritmo de subsequência comum (LCS).
+- [Aptabase](https://github.com/aptabase/aptabase) - Código aberto, Privacy-First e simples Analytics para aplicações rápidas.
+- [Scout](https://github.com/kasianov-mikhail/scout) - Registrando SDK para aplicativos iOS usando CloudKit como infraestrutura.
+- [Tracker Aggregator](https://github.com/kafejo/Tracker-Aggregator) - Camada de abstração analítica versátil.
+- [Umbrella](https://github.com/devxoul/Umbrella) - Camada de abstração analítica.
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) - Diretrizes oficiais de projeto da API Swift.
+- [Apple eBook](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329) - EBook oficial da Apple para iniciantes Swift.
+- [Getting Started](https://www.swift.org/getting-started/) - Encontre informações sobre como usar a linguagem de programação Swift.
+- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorial oficial da SwiftUI com 4 horas de conteúdo e tutoriais interativos. <sub>📖 documentação</sub>
+- [Airbnb](https://github.com/airbnb/swift) - Guia Oficial de Estilo da Airbnb.
+- [Google](https://google.github.io/swift/) - Este guia de estilo é baseado no excelente estilo padrão da biblioteca Swift da Apple e também incorpora feedback do uso em vários projetos Swift dentro do Google.
+- [LinkedIn](https://github.com/linkedin/swift-style-guide) - Guia Oficial de Estilo do LinkedIn.
+- [Raywenderlich](https://github.com/kodecocodes/swift-style-guide) - Raywenderlich guia, uma leitura obrigatória.
+- [iOS project template](https://github.com/messeb/ios-project-template) - Modelo de projeto iOS com pistas rápidas, trabalhos de Travis CI e integrações GitHub de Codecov, HoundCI para SwiftLint e Danger.
+- [Model-View-Presenter template](https://github.com/onl1ner/ios-mvp-template) - Um modelo flexível e fácil criado para acelerar o desenvolvimento de seu aplicativo iOS baseado no padrão MVP.
+- [Swift Module Template](https://github.com/fulldecent/swift6-module-template) - Um ponto de partida para módulos incríveis e reutilizáveis.
+- [Swiftify](https://swiftify.com/) - Objetivo C para conversor de código online Swift e extensão Xcode.
+- [Zolang](https://github.com/Zolang/Zolang) - Um DSL para gerar código em múltiplas linguagens de programação.
+- [Online Swift Playground](http://online.swiftplayground.run/) - Playground online Swift.
+- [SwiftFiddle](https://swiftfiddle.com/) - Playground para fazer, compartilhar e incorporar código Swift.
+- [swift-vim](https://github.com/keith/swift.vim) - Tenho arquivos de tempo de execução.
+- [vim-polyglot](https://github.com/sheerun/vim-polyglot) - Pacote de linguagem para vim que inclui vim-swift.
+- [Capable](https://github.com/chrs1885/Capable) - Acompanhe as configurações de acessibilidade, use cores de alto contraste e use fontes escaláveis para permitir que usuários com deficiência usem seu aplicativo.
+- [xcprofiler](https://github.com/giginet/xcprofiler) - Utilitário de linha de comando para traçar o perfil.
+- [swift-mode](https://github.com/swift-emacs/swift-mode) - Suporte Emacs, incluindo suporte parcial de erro.
+- [swift-colab](https://github.com/philipturner/swift-colab) - Faça Swift em um navegador.
+- [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - Um boletim semanal para dar as últimas atualizações sobre projetos populares e desconhecidos de código aberto escritos ou relacionados com Swift.
 
 ## 🔤 TypeScript
 
-### CSS In JS With Types
+> 81 links sobre TypeScript: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [PandaCSS](https://panda-css.com/) - CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience
-- [Vanilla-Extract](https://vanilla-extract.style/) - Use TypeScript as your preprocessor. Write type‑safe, locally scoped classes, variables and themes, then generate static CSS files at build time
-- [StyleX](https://stylexjs.com/) - StyleX is a JavaScript library for defining styles for optimized user interfaces
-- [json-decoder](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
-- [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
-- [type-plus](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+### 🕸️ CSS em JS com tipos
 
-### Ferramentas
+- [PandaCSS](https://panda-css.com/) - CSS-em-JS com estilos gerados em tempo de construção, compatível com RSC, suporte multivariável e melhor experiência de desenvolvedor da classe
+- [Vanilla-Extract](https://vanilla-extract.style/) - Use TypeScript como seu pré-processador, escreva classes, variáveis e temas de segurança local, então gere arquivos CSS estáticos em tempo de construção.
+- [StyleX](https://stylexjs.com/) - StyleX é uma biblioteca JavaScript para definir estilos para interfaces de usuário otimizadas.
+- [json-decoder](https://github.com/venil7/json-decoder) - Decodificador JSON e verificador de tempo de execução.
+- [typescript-is](https://github.com/woutervh-/typescript-is) - Transformador TypeScript que gera verificação de tipo "run-time".
+- [type-plus](https://github.com/unional/type-plus) - Tipos adicionais e utilitários ajustados.
 
-- [sqlx-ts](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
-- [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
-- [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
-- [OXC](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
-- [biome](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
-- [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
+### 🛠️ Ferramentas.
 
-### Geral
+- [sqlx-ts](https://github.com/JasonShin/sqlx-ts) - SQLx-ts é uma aplicação CLI com consultas verificadas em tempo de compilação sem um DSL e gera tipos contra SQLs para manter seu código seguro
+- [bun](https://bun.sh/) - Bun é um rápido time JavaScript, gerente de pacotes, empacotador, corredor de testes
+- [deno](https://deno.land/) - Um tempo seguro para JavaScript e TypeScript.
+- [OXC](https://github.com/web-infra-dev/oxc) - Um conjunto de ferramentas de alto desempenho para JavaScript e TypeScript escrito em Rust
+- [biome](https://github.com/biomejs/biome) - Formatos biométricos e fiapos seu código em uma fração de segundo.
+- [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Gere definições de interface de digitação do esquema de banco de dados SQL
 
-- [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) - the official resource for learning TypeScript
-- [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) - fork TypeScript on Github! Or... just read the code
-- [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) - with announcements and recent updates
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
-- [Type search](https://aka.ms/typings) - search for typings on npm
-- [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com/) - online course with free first 5 chapters by Gabriel Vergnaud
+### 🔹 Geral
 
-### Types
+- [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) - O recurso oficial para aprender TypeScript
+- [Microsoft/TypeScript on Github](https://github.com/Microsoft/TypeScript) - Ou... basta ler o código.
+- [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) - com anúncios e atualizações recentes
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - O repositório para definições de tipo TypeScript de alta qualidade mantidas por Boris Yankov e milhares de contribuintes
+- [Type search](https://aka.ms/typings) - Procurem por digitações no npm.
+- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript) - Conceitos de código limpo adaptados para TypeScript
 
-- [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
-- [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
-- [utility-types](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
-- [elm-ts](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
-- [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
-- [typescript-conditional-types](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
+### 🟠 Tipos
 
-### Typescript Project Starters
+- [jsonup](https://github.com/tani/jsonup) - JSON, compile o tempo.
+- [type-o-rama](https://github.com/stereobooster/type-o-rama) - Sistema JS de interoperabilidade
+- [utility-types](https://github.com/piotrwitek/utility-types) - Tipos de Utilitário para TypeScript (forneça compatibilidade com os Tipos de Utilitário da Flow)
+- [elm-ts](https://github.com/gcanti/elm-ts) - Porto de arquitetura Elm para TypeScript com fp-ts, io-ts, rxjs5 e React
+- [ts-essentials](https://github.com/krzkaczor/ts-essentials) - Todos os tipos essenciais do TypeScript em um só lugar.
+- [typescript-conditional-types](https://github.com/LeDDGroup/typescript-conditional-types) - Ajudantes para tipos genéricos de digitação
 
-- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers.
-- [typescript-starter](https://github.com/bitjson/typescript-starter) - A CLI to quickly generate and configure new libraries and Node.js projects
-- [next-smrt](https://github.com/csprance/next-smrt) - A Typescript/NextJs boilerplate with Redux/Styled Components/Material UI and TypeSafe Actions.
-- [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
-- [MicroTS](https://www.npmjs.com/package/microts) - Microservice code generator with interface-first approach: from OpenAPI (Swagger) REST API specification is generated complete project with TypeScript code, input validator, UI, tests and Docker configuration.
-- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
+### 🧩 Iniciadores do projeto datilografado.
 
-### Validation
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Uma caldeira completa para construir aplicações web modernas com Bun, TypeScript, React, TRPC, Drizzle ORM e Cloudflare Workers.
+- [typescript-starter](https://github.com/bitjson/typescript-starter) - Um CLI para gerar e configurar rapidamente novas bibliotecas e projetos Node.js
+- [next-smrt](https://github.com/csprance/next-smrt) - Uma caldeira de tipografia/NextJs com componentes Redux/Styled/UI material e ações TypeSafe.
+- [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Fórum-como fullstack web app caldeiralplate com Next.js 7.0.2 + Sequelização 4 / Postgres + Tipo de texto + Redux + Passaporte Local Auth + Emoção
+- [MicroTS](https://www.npmjs.com/package/microts) - Gerador de código microservice com interface-primeira abordagem: da especificação do REST API OpenAPI (Swagger) é gerado projeto completo com código TypeScript, validador de entrada, UI, testes e…
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - Uma produção bem estruturada pronta próximo. Js caldeireira com digitação, Redux, Jest, Enzima, Express.js, Sass, Css, EnvConfig, Proxy Reverso, Analisador de Pacotes e CLI embutido
 
-- [@core/match](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
-- [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
-- [zod](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
-- [valibot](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
-- [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
-- [ts-codec](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+### 🟢 Validação
 
-### Mais links
+- [@core/match](https://github.com/tani/ts-match) - Destruição segura com validação de padrão.
+- [io-ts](https://github.com/gcanti/io-ts) - Sistema do tipo de execução para decodificação/codificação IO
+- [zod](https://github.com/vriad/zod) - Validação do esquema TypeScript com inferência estática.
+- [valibot](https://github.com/fabian-hiller/valibot) - Valibot é uma biblioteca de esquemas tipo Tipo Script com inferência estática, e é excepcionalmente leve em comparação com Zod, sem dependências.
+- [runtypes](https://github.com/pelotom/runtypes) - Validação do tempo de execução para tipos estáticos
+- [ts-codec](https://github.com/julienvincent/ts-codec) - Códigos TypeScript para codificação, decodificação e validação de dados
 
-- [Farm](https://farm-fe.github.io/) - Extremely fast Vite-compatible web build tool written in Rust
-- [Rspack](https://www.rspack.dev/) - A fast Rust-based web bundler
-- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
-- [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
-- [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with Grunt tasks: grunt-ts, grunt-browserify, grunt-contrib-uglify
-- [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) - Learn modern TypeScript and build your own blockchain; Supporting code samples yfain/getts
-- [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) - Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
-- [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
-- [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5) - Third edition of the bestselling guide to TypeScript. (by Adam Freeman)
-- [CATS](http://jbaron.github.io/cats/) - is an IDE for TypeScript and Web developers by @jbaron
-- [Typescript addin for](https://github.com/mrward/typescript-addin) - MonoDevelop, SharpDevelop and Xamarin Studio; a short review article
-- [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) - is a language service plugin for typescript for Neovim.
-- [Coc](https://github.com/neoclide/coc.nvim) - Make your Vim/Neovim as smart as VSCode.
-- [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
-- [Fedify](https://github.com/fedify-dev/fedify) - TypeScript framework for building federated server apps powered by ActivityPub and the fediverse
-- [feednext.io](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
-- [ionic](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
-- [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
-- [Zwitterion](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
-- [Nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
-- [Taze](https://github.com/antfu/taze) - A modern cli tool that keeps your dependencies fresh
-- [ts-node](https://github.com/TypeStrong/ts-node) - to run scripts or REPL
-- [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) - as first line to your script: #!npx ts-node
-- [Crisp BigQuery](https://github.com/winwiz1/crisp-bigquery) - Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
-- [DDB-Table](https://github.com/neuledge/ddb-table) - Strongly typed querys and tables for AWS DynamoDB
-- [DynamoDB-Toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) - Light-weight and type-safe query builder for AWS DynamoDB
-- [Factor](https://factor.dev/) - The Javascript CMS (TypeScript supported natively)
-- [Graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
-- [ReactNative](https://reactnative.dev/) - Create native apps for Android, iOS, and more using React
-- [NativeScript](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
-- [JS Bin](http://jsbin.com/) - (Select TypeScript)
-- [Codepen](http://codepen.io/) - (Select TypeScript)
-- [Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
-- [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
-- [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
-- [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - thank you @semlinker for curating the list <sub>lista awesome</sub>
-- [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossary of keywords, operators, statements and directives
+### 🧺 Mais links
+
+- [Farm](https://farm-fe.github.io/) - Ferramenta de construção web extremamente rápida e compatível, escrita em Rust.
+- [Rspack](https://www.rspack.dev/) - Um rápido empacotador baseado em Rust.
+- [Vite](https://vitejs.dev/) - Próxima Geração de Ferramentas Frontend
+- [Webpack](http://webpack.github.io/) - Suportes CommonJS e módulo AMD
+- [Browserify](http://browserify.org/) - Não é compatível com o TypeScript "fora da caixa", mas pode ser aplicado com tarefas Grunt: grunhidos-ts, grunhidos-browserify, grunhib-contrib-uglif
+- [CATS](http://jbaron.github.io/cats/) - é um IDE para desenvolvedores de TypeScript e Web por @jbaron
+- [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim) - Arquivos de sintaxe digitados para Vim
+- [Typescript addin for](https://github.com/mrward/typescript-addin) - MonoDesenvolvimento, SharpDevelop e Xamarin Studio; um breve artigo de revisão
+- [Typescript tooling for Neovim](https://github.com/mhartington/nvim-typescript) - é um plugin de serviço de linguagem para digitação para Neovim.
+- [Coc](https://github.com/neoclide/coc.nvim) - Faça seu Vim/Neovim tão inteligente quanto o VSCODE.
+- [It-Tools](https://it-tools.tech/) - Coleta de ferramentas online úteis para desenvolvedores, com grande UX
+- [Fedify](https://github.com/fedify-dev/fedify) - Framework TypeScript para construir aplicativos de servidor federados alimentados pelo ActivityPub e o Fediverse
+- [feednext.io](https://github.com/feednext/feednext) - Um aplicativo de mídia social aberto construído com digitação do lado cliente-servidor.
+- [ionic](https://github.com/ionic-team/ionic) - Um framework de desenvolvimento de aplicativos móveis em código aberto, construído no TypeScript
+- [React-UWP](https://github.com/myxvisual/react-uwp) - Reagir componentes que implementam UWP da Microsoft Design & Fluent Design.
+- [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) - Crie aplicativos React usando digitação sem configuração de construção <sub>📖 documentação</sub>
+- [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) - Um modelo inicial para TypeScript e React com um README detalhado descrevendo como usar os dois juntos, baseado em criar-reagir-aplicar
+- [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets para desenvolvedores experientes de React começando com TypeScript
+- [jsxtyper](https://github.com/fuselabs/jsxtyper) - Gera interfaces TypeScript de arquivos JSX
+- [Veritas Kanban](https://github.com/BradGroux/veritas-kanban) - Placa de Kanban auto-anfitriã com integração do agente IA, construída com React 19, modo rígido TypeScript, Vite 6 e 1.255 testes.
+- [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) - Aprenda o tipo moderno e construa seu próprio blockchain, suportando amostras de código yfain/getts.
+- [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) - Angular Development com Typescript, Second Edition é um tutorial de nível intermediário que introduz Angular e TypeScript para desenvolvedores confortáveis com a construção de aplicações web usando…
+- [Programming with Types](https://www.manning.com/books/programming-with-types) - Um livro sobre como projetar software seguro, resistente e correto que é fácil de manter e entender aproveitando o poder dos sistemas de tipo.
+- [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5) - Terceira edição do guia de best-sellers da TypeScript.
+- [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts é um pacote da NPM que lida com trabalho de compilação TypeScript em scripts de construção GruntJS
+- [Zwitterion](https://github.com/lastmjs/zwitterion) - Servidor de desenvolvimento super simples com suporte integrado para arquivos TypeScript.
+- [Nx](https://github.com/nrwl/nx) - Sistema de construção inteligente, rápido e extenso
+- [Taze](https://github.com/antfu/taze) - Uma ferramenta moderna que mantém suas dependências frescas.
+- [ts-node](https://github.com/TypeStrong/ts-node) - Para executar scripts ou REPL
+- [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) - como primeira linha para o seu script: #!npx ts-node
+- [Crisp BigQuery](https://github.com/winwiz1/crisp-bigquery) - Projeto inicial que entrega dados do Google BigQuery para navegadores de usuários finais com controle de custos.
+- [DDB-Table](https://github.com/neuledge/ddb-table) - Consultas e tabelas bem digitadas para o AWS DynamoDB
+- [DynamoDB-Toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) - Construtor de pesquisa leve e seguro para AWS DynamoDB
+- [Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - IDE livre (condicionalmente) com suporte integrado do TypeScript
+- [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Permita que você copie o código fonte C#, então cole como sintaxe Typescript que te ajuda a converter DTO ou interface
+- [NodeJS Tools for Visual Studio](https://github.com/Microsoft/nodejstools) - Node.js Ferramentas para Visual Studio
+- [Factor](https://factor.dev/) - O Javascript CMS (TypeScript suportado nativamente)
+- [Graphweaver](https://github.com/exogee-technology/graphweaver) - Transforme várias fontes de dados em um único CMS sem cabeça.
+- [ReactNative](https://reactnative.dev/) - Crie aplicativos nativos para Android, iOS e mais usando React
+- [NativeScript](https://github.com/NativeScript/NativeScript) - Framework Open Source para construir aplicativos móveis iOS, Android e Windows nativo com JavaScript.
+- [JS Bin](http://jsbin.com/) - (Selecionar TipoScript)
+- [Codepen](http://codepen.io/) - (Selecionar TipoScript)
+- [@captain-yossarian's blog](https://catchts.com/) - Totalmente dedicado a digitações estáticas em TypeScript
+- [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - Obrigado @semlinker por cuidar da lista. <sub>📋 lista awesome</sub>
+- [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossário de palavras-chave, operadores, declarações e diretrizes.
+
+## 🔤 Dart
+
+> 45 links sobre Dart: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
+
+### 🛠️ Ferramentas.
+
+- [js2dart](https://github.com/vojtajina/js2dart) - Compile JavaScript para Dardo para compilar de volta ao JavaScript e correr.
+- [Stagehand](https://github.com/dart-lang/stagehand) - Gerador de projeto de dardos - aplicativos web, aplicativos de console, servidores e muito mais.
+- [gulp-dart](https://github.com/agudulin/gulp-dart) - Plug-in Gulp para Dardo
+- [dev_compiler](https://github.com/dart-lang/dev_compiler) - DEPRECEDIDO - Movido para SDK principal
+- [webdev_proxy](https://github.com/Workiva/webdev_proxy) - Um simples proxy HTTP para o comando webdev serve (uma ferramenta de autoria da equipe dardo) que adiciona suporte para reescrever certos pedidos, ou seja, reescrever 404s para servir ao índice…
+- [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) - Ferramenta de análise de software que ajuda os desenvolvedores a analisar e melhorar a qualidade do software.
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transformar modelos ML em um código nativo (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) com dependências zero
+
+### ☁️ Frameworks de servidor
+
+- [Jaguar](https://github.com/Jaguar-dart/jaguar) - Jaguar, um framework de servidor construído para velocidade, simplicidade e extensível.
+- [Start](https://github.com/lvivski/start) - Sinatra inspirou a estrutura de desenvolvimento web para Dart.
+- [Vane](https://github.com/Scorpiion/Vane) - Estrutura do lado do servidor para Dart/Dartlang com um sistema de middleware embutido.
+- [Rikulo Stream](https://github.com/rikulo/stream) - Servidor web de dardos leves, características: roteamento de pedidos, filtragem, motor modelo, WebSocket, padrão de projeto MVC e recursos estáticos baseados em arquivos.
+- [Alfred](https://github.com/rknell/alfred) - Um performant, expressjs como o framework do servidor com alguns gadgets que tornam a vida ainda mais fácil.
+- [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) - Uma estrutura rápida e minimalista para Dart.
+
+### 🧺 Mais links
+
+- [built_collection](https://github.com/google/built_collection.dart) - Moveu-se para dardo-lang/construir
+- [built_value](https://github.com/google/built_value.dart) - Tipos de valor imutáveis, aulas de enum e serialização.
+- [Quiver](https://github.com/google/quiver-dart) - Um conjunto de bibliotecas de utilidades para Dart.
+- [route_hierarchical](https://github.com/angular/route.dart) - Mova-se para https://github.com/dart-lang/angular/tree/master/angular_router
+- [Basics](https://github.com/google/dart-basics) - Uma biblioteca de dardos contendo métodos de extensão convenientes em objetos básicos de dardos.
+- [Flame](https://github.com/luanpotter/flame) - Um motor de jogo baseado em Flutter.
+- [DartRocket](https://github.com/StrykerKKD/dartrocket) - Framework de jogos HTML5 feito com Dardo e StageXL
+- [Pixi Dart](https://github.com/FedeOmoto/pixi) - Um porto do motor de renderização Pixi.Js para Dart.
+- [Ranger](https://github.com/wdevore/Ranger-Dart) - Motor de jogo escrito em Dardo
+- [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Texto 3 Pacote Dardo
+- [Emacs Plugin](https://github.com/nex3/dart-mode) - Um modo Emacs para a linguagem Dart.
+- [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Destaque de sintaxe para Dardo em Vim
+- [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) - Extensão VSCODE que gera arquivos de barril para projetos Dart
+- [Postgres](https://github.com/stablekernel/postgresql-dart) - Dart PostgreSQL driver: suporta o formato de consulta estendida, protocolo binário e reutilização da declaração.
+- [SQLJockey](https://github.com/jamesots/sqljocky) - Conector MySQL para Dardo
+- [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - Biblioteca de banco de dados Dart Postgresql.
+- [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart) - Este é um porto de dardos da Java original Universal Tween Engine criado por Aurelien Ribbon
+- [Spine Dart](https://github.com/FedeOmoto/spine) - Uma implementação de dardos do software Esotérico Spine.
+- [universal_io](https://github.com/terrier989/universal_io) - Plataforma cruzada "Dart:io", incluindo HttpClient compatível com navegador.
+- [universal_html](https://github.com/terrier989/universal_html) - "Dart:html" em plataforma cruzada.
+- [Dependencies](https://github.com/marcguilera/dependencies.dart) - Um container de injeção simples e flexível para dardos.
+- [package: inject](https://github.com/google/inject.dart) - Injecção de dependência para Dardo e Flutter.
+- [markdown](https://github.com/dart-lang/markdown) - Uma biblioteca de marcação de dardos
+- [PetitParser](https://github.com/petitparser/dart-petitparser) - Construa gramáticas rápidas, composíveis e seguras em Dardo.
+- [jaded](https://github.com/dartist/jaded) - Porta do nó. Js Jade view motor para Dart
+- [mason](https://github.com/felangel/mason) - Ferramentas que permitem aos desenvolvedores criar e consumir modelos reutilizáveis chamados tijolos.
+- [Sentry](https://github.com/getsentry/sentry-dart) - Sentry SDK para Dardo e Flutter
+- [image](https://github.com/brendan-duncan/image) - Biblioteca de imagens de dardos para abrir, manipular e salvar vários formatos de arquivos de imagem diferentes.
+- [Objectory](https://github.com/vadimtsushko/objectory) - Não suportado: Objectory - mapper documento objeto para servidor-lado e cliente aplicações Dart
+- [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A estrutura de Desenvolvimento Rápido Aberto de Hardware (ROHD) é um framework para descrever e verificar hardware na linguagem de programação Dart.
+- [Guinness](https://github.com/vsavkin/guinness) - Um porto da estrutura de testes Jasmine para Dart.
+- [Freezed](https://github.com/rrousselGit/freezed) - Geração de código para classes imutáveis que tem uma sintaxe simples/API sem comprometer as características.
 
 ## 🔤 Linguagens de programação
 
-### Linguagens de programação
+> 20 links sobre Linguagens de programação: documentação, cursos, bibliotecas e ferramentas reunidos das listas da comunidade.
 
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <sub>pt-BR</sub>
-- [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <sub>pt-BR</sub>
+### 🟡 Linguagens de programação
+
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <sub>🇧🇷 pt-BR</sub>
 - [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
-- [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional <sub>pt-BR</sub>
-- [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas <sub>pt-BR</sub>
+- [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas <sub>🇧🇷 pt-BR</sub>
 - [Go](https://golang.org/) - Linguagem de código aberto para tornar os programadores mais produtivos
-- [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada <sub>pt-BR</sub>
-- [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance <sub>pt-BR</sub>
-- [JavaScript](http://brasil.js.org/) - Constante evolução e crescimento no mercado <sub>pt-BR</sub>
-- [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica <sub>pt-BR</sub>
-- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos) <sub>pt-BR</sub>
-- [MatLab](https://www.mathworks.com/help/matlab/) - Linguagem de programação de alto nível com foco em cálculos e construção de gráficos <sub>pt-BR</sub>
-- [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos <sub>pt-BR</sub>
-- [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica <sub>pt-BR</sub>
-- [PHP](https://www.php.net/) - A linguagem de programação dominante na web <sub>pt-BR</sub>
+- [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada <sub>🇧🇷 pt-BR</sub>
+- [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance <sub>🇧🇷 pt-BR</sub>
+- [JavaScript](http://brasil.js.org/) - Constante evolução e crescimento no mercado <sub>🇧🇷 pt-BR</sub>
+- [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica <sub>🇧🇷 pt-BR</sub>
+- [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ <sub>🇧🇷 pt-BR</sub>
+- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos) <sub>🇧🇷 pt-BR</sub>
+- [MatLab](https://www.mathworks.com/help/matlab/) - Linguagem de programação de alto nível com foco em cálculos e construção de gráficos <sub>🇧🇷 pt-BR</sub>
+- [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos <sub>📖 documentação · 🇧🇷 pt-BR</sub>
+- [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica <sub>🇧🇷 pt-BR</sub>
+- [PHP](https://www.php.net/) - A linguagem de programação dominante na web <sub>🇧🇷 pt-BR</sub>
 - [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem estáticamente tipada para sistemas rápidos, concorrentes, de baixo nível e seguros
 - [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
-- [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura <sub>pt-BR</sub>
-- [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <sub>pt-BR</sub>
-
-## 🔤 Lua
-
-### Lua
-
-- [Introdução a Lua, instalação e primeiro programa em Lua - Curso de Lua - Aula 01](https://www.youtube.com/watch?v=J9iZeIk2OII&list=PLx4x_zx8csUhdMczA1OSq9rM7N48L6OLU&ab_channel=CFBCursos)
-- [Curso de Lua - Aula 01 - Introdução e Ambiente](https://www.youtube.com/watch?v=3BA_fK0yXrI&list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt&ab_channel=Techiesse)
-- [Introdução a Programação - 00 - Sobre o Curso - É Válido e Atualizado?](https://www.youtube.com/watch?v=_EyRsqA_tKA&list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA&ab_channel=AlfredBaudisch%28Pardall%29)
-- [Introdução e configuração do ambiente - Curso programação Lua Language](https://www.youtube.com/watch?v=W_XTAaO8fiU&list=PLFzjIdwnQBMzaq4srTW6ZEvoJLm2TFvOo&ab_channel=KevinSouza)
-- [Aprenda Lua Comigo #0 - Nosso Primeiro Projeto](https://www.youtube.com/watch?v=BhP4ic8qpUA&list=PL61kTUcYddBOFrp8dBlXfRz2Buld6Xx9m&ab_channel=Glider)
-- [Aprenda Lua em 20 minutos!](https://www.youtube.com/watch?v=qxoMNzpI_2A&list=PLGVGJmkQU-wd64WNnMVI1Vy9dmpfHDzrH&ab_channel=Luaverse)
-- [Introdução ao curso (Opcional)](https://www.youtube.com/watch?v=O6ZwV0ltNlM&list=PL4iMR_FGApjL5ahV00_MbK0j5c9RShuP3&ab_channel=MilionarioScripter)
-- [Curso Basico Lua (Capitulo 1)](https://www.youtube.com/watch?v=R3ky9Z786dc&list=PLZKvFeoJSjNnpuiy_ez9PylW8neFp2-gA&ab_channel=MiguelHernandezLiebano)
-- [Aprenda Lua em 20 minutos!](https://www.youtube.com/watch?v=qxoMNzpI_2A&ab_channel=Luaverse)
-- [Lua - Dicionário do Programador](https://www.youtube.com/watch?v=35Ib4BR7WZc&ab_channel=C%C3%B3digoFonteTV)
-- [Full Lua Programming Crash Course - Beginner to Advanced](https://www.youtube.com/watch?v=1srFmjt1Ib0&ab_channel=Steve%27steacher)
-- [Game Development with LÖVE 2D and Lua – Full Course](https://www.youtube.com/watch?v=I549C6SmUnk&ab_channel=freeCodeCamp.org)
-- [OOP (Object Oriented Programming) - Lua tutorial (Part 15)](https://www.youtube.com/watch?v=xdJZdEAQOEo&ab_channel=Steve%27steacher)
-- [Lua Tutorial - DerekBanas](https://www.youtube.com/watch?v=iMacxZQMPXs&ab_channel=DerekBanas)
-- [Introduction to the Lua Programming Language - Lua Tutorial (Part 1)](https://www.youtube.com/watch?v=PW8NRGAZQs8&list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU&ab_channel=Steve%27steacher)
-- [Aprendendo Lua: um histórico rápido e primeiros passos com ferramentas de script Lua](https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O&ab_channel=BurtonsMediaGroup)
-- [Lua Introduction](https://www.youtube.com/watch?v=jwn1Vkez7og&list=PLysdvSvCcUhZ3d2AEF4XVAdAyQSBxLNRT&ab_channel=IndronilBanerjee)
-- [Lua Programming Tutorials - 1 - Downloading and Installing Lua IDE](https://www.youtube.com/watch?v=R2ozVV61qBQ&list=PLd43cTxFZWlc7vTG-3TgMhfZU6o-7pyLD&ab_channel=TutorialswithGanofins)
-
-## 🔤 Scala
-
-### Scala
-
-- [Mini Curso Scala Aula 01 - Por que utilizar a linguagem Scala?](https://www.youtube.com/watch?v=WoOZuiM28LI&list=PLRjtXwBVDaEhUXvT9s3f9T8KhzvbNIOBQ&ab_channel=DanielGoncalves)
-- [Scala Tutorial - Scala at Light Speed, Part 1: Getting Started](https://www.youtube.com/watch?v=-8V6bMjThNo&list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM&ab_channel=RocktheJVM)
-- [Spark Scala / Spark Tutorial / Scala Tutorial / Spark Scala Full Course / Intellipaat](https://www.youtube.com/watch?v=PzQ3DBrHW-U&ab_channel=Intellipaat)
-- [Scala Tutorial 1 - Introduction to Scala](https://www.youtube.com/watch?v=LQVDJtfpQU0&list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3&ab_channel=ProgrammingKnowledge)
-- [Introduction to Scala Basics](https://www.youtube.com/watch?v=iilTz5R_i6E&list=PLWPirh4EWFpFeu4K1gdw2M-97w_5qEpeU&ab_channel=TutorialsPoint)
-- [Scala Tutorial for Beginners](https://www.youtube.com/watch?v=OfngvXKNkpM&ab_channel=ProgrammingKnowledge)
-- [Apache Spark Tutorial / Spark Tutorial For Beginners / Spark Scala Full Course / Intellipaat](https://www.youtube.com/watch?v=r83NhShrNdw&ab_channel=Intellipaat)
-- [Scala Crash Course by a Scala Veteran (with some JavaScript flavor)](https://www.youtube.com/watch?v=-xRfJcwhy7A&ab_channel=DevInsideYou)
-- [Why Scala? / An introduction by Adam Warski](https://www.youtube.com/watch?v=t7SOXNJVbJo&ab_channel=SoftwareMill)
-- [Scala Tutorial 1 Why Scala ( हिन्दी)](https://www.youtube.com/watch?v=xw9N8CQo5JI&list=PLgPJX9sVy92wUdX7uVMgEzREgJrXiRdUC&ab_channel=CSGeeks)
-- [Scala Tutorial Full Course](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko)
-- [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas)
-- [Scala 3 & Functional Programming Essentials Course: An Overview of Scala](https://www.youtube.com/watch?v=Rp2b7pgXxFY&ab_channel=RocktheJVM)
-- [Functional Programming Crash Course for Scala Beginners](https://www.youtube.com/watch?v=XXkYBncbz0c&ab_channel=DevInsideYou)
-- [Scala Programming Tutorial / Learn Scala programming / Scala language](https://www.youtube.com/watch?v=pDq06gwJnLk&ab_channel=ProgrammingKnowledge)
-
-## 🔤 Assembly
-
-### Assembly
-
-- [Assembly na Prática](https://www.youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC)
-- [Curso de Assembly com Snes e Mega Drive](https://www.youtube.com/playlist?list=PLLFRf_pkM7b6Vi0ehPPovl1gQ5ubHTy5P)
-- [Curso de Assembly para PIC](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt)
-- [Minicurso Programação Assembly x86 MASM32](https://www.youtube.com/playlist?list=PLmKKLDrwQKd6iL3rXIbIowc4GWMgYh_iH)
-- [Minicurso: Linguagem Assembly 8086 no DEBUG](https://www.youtube.com/playlist?list=PL838IdaPZmcsxX3HwxFSkxm5S_-4wqcYp)
-- [Curso de Assembly - Minilord](https://www.youtube.com/playlist?list=PLhkvr9d5St4VmgSpGoeXcQamYl8vBiMeH)
-- [Papo binario - Assembly](https://www.youtube.com/playlist?list=PLWHiAJhsj4eXi1AF6N5MYz61RcwSCoVO8)
-- [Assembly Language Programming with ARM – Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&ab_channel=freeCodeCamp.org)
-- [Modern x64 Assembly](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
-- [Assembly Language Programming](https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC)
-- [Intro to x86 Assembly Language](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
-- [x86 Assembly](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
-
-## 🔤 Delphi
-
-### Delphi
-
-- [O que é o Delphi?](https://www.youtube.com/watch?v=pFni9cj4tqE&list=PLVetaKmuPN9_gBPcyRZ7YinNXsNPSfrwY&ab_channel=AugustoC%C3%A9sar)
-- [Delphi EM 10 MINUTOS: Tudo Que Você Precisa Saber para Começar!](https://www.youtube.com/watch?v=aTPgBJj6IRc&ab_channel=DevMedia)
-- [Curso de Delphi 10 Avançado - Aula 01 - Programando com Delphi](https://www.youtube.com/watch?v=6CjoKSzeHHM&list=PLxNM4ef1BpxhAExrORrdjAUhm9krPxc-R&ab_channel=PortalHugoCursos)
-- [Modelagem do Banco de Dados Inicial - Sistema de Escola Completo - Curso Delphi Gratuito](https://www.youtube.com/watch?v=2bdUJHGtwm4&list=PLVetaKmuPN99zOK1rgvKQV-gKhg96Mo5o&ab_channel=AugustoC%C3%A9sar)
-- [Curso de Delphi 10 (2017) - Aula 01 - Iniciando na programação](https://www.youtube.com/watch?v=rBJ43Usj0NM&list=PLxNM4ef1BpxjAZNWTpzSGmZ86XDAa_jf4&ab_channel=PortalHugoCursos)
-- [Delphi do Zero to Hero - #01](https://www.youtube.com/watch?v=zChvMKjmUeY&ab_channel=AcademiadoC%C3%B3digo)
-- [Delphi (soluções para Desktop, Web e Mobile) // Dicionário do Programador](https://www.youtube.com/watch?v=QKjFEMDGCYk&ab_channel=C%C3%B3digoFonteTV)
-- [Learn Delphi Programming / Unit 1.1 / Welcome To Delphi Programming for Beginners](https://www.youtube.com/watch?v=wsGpj-FVjGs&list=PLZZqoiUyRBsRTgdPJPr-eqAiOnKlP3CaP&ab_channel=LearnDelphi)
-- [Delphi Programming Course (FMX): 1 - Introduction to this course](https://www.youtube.com/watch?v=NrswPm4OCTk&list=PLfrySFqYRf2f8Tzyd8znGe1ldk72vJZ73&ab_channel=ShaunRoselt)
-- [Delphi Programming - Full Beginner Crash Course](https://www.youtube.com/watch?v=BqmJpFbRY2U&ab_channel=Steve%27steacher)
-- [Introduction to Delphi Programming](https://www.youtube.com/watch?v=NrWoheh_REU&ab_channel=CodeWithHuw)
-
-## 🔤 Julia
-
-### Julia
-
-- [Julia Lang (A Mistura de Linguagens que Deu Certo) - Dicionário do Programador](https://www.youtube.com/watch?v=Xzdg9czOxD8&ab_channel=C%C3%B3digoFonteTV)
-- [Uma LINGUAGEM para CIÊNCIA de DADOS? / Handshake #24 / Programe na Linguagem Julia](https://www.youtube.com/watch?v=Tj0CUAyxjck&list=PL5TJqBvpXQv4cAynxaIyclmpZ95g-gtqQ&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica)
-- [Linguagem de Programação Julia - Primeiras Impressões](https://www.youtube.com/watch?v=G2tYt3IKbXA&ab_channel=CaioDallaqua)
-- [Estrutura Básica / Linguagem Julia](https://www.youtube.com/watch?v=h0ubpGRtBUI&ab_channel=FilipeBraida)
-- [Tutoriais de Julia em Português - Super Tutorial do Básico](https://www.youtube.com/watch?v=Gmm5voUQaHw&ab_channel=AbelSiqueira)
-- [Julia Tutorial / Julia Data Science Basic Full Course (Complete Tutorial) for Beginners (2019)](https://www.youtube.com/watch?v=lwj-1mclq0U&ab_channel=AbhishekAgarrwal)
-- [A Gentle Introduction to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE&ab_channel=TheJuliaProgrammingLanguage)
-- [The Continuing Advancements of Scientific Machine Learning (SciML) / 2022 DigiWell Julia Seminar](https://www.youtube.com/watch?v=yHiyJQdWBY8&ab_channel=TheJuliaProgrammingLanguage)
-- [Julia for Data Science - Video 0: Welcome, by Dr. Huda Nassar (for JuliaAcademy.com)](https://www.youtube.com/watch?v=AXgLWumAOhk&list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO&ab_channel=TheJuliaProgrammingLanguage)
-- [Julia in 100 Seconds](https://www.youtube.com/watch?v=JYs_94znYy0&ab_channel=Fireship)
-- [JULIA COURSE FOR COMPLETE BEGINERS](https://www.youtube.com/watch?v=2apwJKYOdZo&ab_channel=F-Course)
-
-## 🔤 Matlab
-
-### Matlab
-
-- [Curso de MATLAB #01 - Introdução](https://www.youtube.com/watch?v=da0qJnleaEQ&list=PLE1UtdMhwaEobcUPjpo27o5HxeBSYjLEs&ab_channel=2001Engenharia)
-- [Aula 01- Apresentação do curso e do Ambiente do MATLAB](https://www.youtube.com/watch?v=XyNI0-DP-0o&list=PLJoR6gvpdNEZLB-Epf9csRTLhubXSnrzs&ab_channel=CarlosRonyheltonSantanadeOliveira)
-- [Curso de MATLAB - Introdução](https://www.youtube.com/watch?v=88NQiUU6khY&list=PLlx81VEju6qAUUSE3M6NlFoFnrSSqR59-&ab_channel=LASI-)
-- [Introdução ao Matlab para Engenharia # 001](https://www.youtube.com/watch?v=-8lHG5lX4Fg&list=PLALkrMtuSoe-0mVxznaj9NKosBUFKL7pr&ab_channel=SergioA.Casta%C3%B1oGiraldo-Brasil)
-- [Apresentação e Estrutura do Curso - Curso de Matlab - PETEE UFMG](https://www.youtube.com/watch?v=3366RoF1WaA&list=PL73kW0L8uzCK2qFoaY4Rur2FUetnNoUze&ab_channel=PETEEUFMG)
-- [The Complete MATLAB Course: Beginner to Advanced!](https://www.youtube.com/watch?v=T_ekAD7U-wU&ab_channel=JosephDelgadillo)
-- [Matlab Online Tutorial - 01 - The User Interface, Part 1](https://www.youtube.com/watch?v=w1cnxqBaljA&list=PLnVYEpTNGNtX6FcQm90I0WXdvhoEJPp3p&ab_channel=MathandScience)
-- [Learn MATLAB Episode #1: Installation & Resources](https://www.youtube.com/watch?v=nmyJTiZ3NeE&list=PLYmlEoSHldN4bz5WY7e0OvXQ90E_xUOmz&ab_channel=JosephDelgadillo)
-- [MATLAB Crash Course for Beginners](https://www.youtube.com/watch?v=7f50sQYjNRA&ab_channel=freeCodeCamp.org)
-- [Lesson 1: 1. Introduction (Old version)](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS&ab_channel=FitzleLLC)
-- [What is MATLAB? & How It Works / MATLAB Features & Types / MATLAB Tutorial for Beginners](https://www.youtube.com/watch?v=0x4JhS1YpzI&list=PLjVLYmrlmjGcNZrPa9bRg0JVlcxLX4Mu9&ab_channel=WsCubeTech)
-
-## 🔤 Perl
-
-### Perl
-
-- [Curso Perl - Alder Pinto](https://www.youtube.com/playlist?list=PLE1HNzXaOep0RJIQoWA9_-OPg4WUbjQUZ)
-- [Curso de Perl - Perfil Antigo](https://www.youtube.com/playlist?list=PLBDxU1-FpoohxqH3XfnqTqLCxTj8dz5sI)
-- [Tutorial de Perl en Español](https://www.youtube.com/playlist?list=PLjARR1053fYmN9oYz-H6ZI1fOkrjLz6L2)
-- [Curso de Perl en Español](https://www.youtube.com/playlist?list=PL8qgaJWZ7bGJPlIvAFbq8fKrFogUEJ3AJ)
-- [Curso Perl - David Elí Tupac](https://www.youtube.com/playlist?list=PL2FOMZ1Ba3plgMbgLlxE-8IXi7oIlkdVp)
-- [Perl Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpE0UEJPQ2PUeXUfvJDhPqSD)
-- [Perl Enough to be dangerous](https://www.youtube.com/watch?v=c0k9ieKky7Q&ab_channel=NedDev)
-- [Perl Tutorials](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
-- [Perl Tutorial: Basics to Advanced](https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16)
-- [Perl Programming](https://www.youtube.com/playlist?list=PL5eJgcQ87sgcXxN8EG7RUGZ_kTDUDwYX9)
-- [Perl Scripting Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga)
+- [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura <sub>🇧🇷 pt-BR</sub>
+- [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) <sub>73 links · licença CC-BY-4.0</sub>
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) <sub>0 links · licença CC0-1.0</sub>
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) <sub>73 links · licença CC-BY-SA-4.0</sub>
-- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) <sub>113 links · licença MIT</sub>
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) <sub>73 links · licença MIT</sub>
-- [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) <sub>73 links · licença Unlicense</sub>
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) <sub>74 links · licença MIT</sub>
-- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) <sub>74 links · licença MIT</sub>
-- [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) <sub>0 links · licença MIT</sub>
-- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) <sub>73 links · licença sem-licenca</sub>
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) <sub>73 links · licença CC0-1.0</sub>
-- [mcxiaoke/awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) <sub>68 links · licença sem-licenca</sub>
-- [oz123/awesome-c](https://github.com/oz123/awesome-c) <sub>74 links · licença CC-BY-SA-4.0</sub>
-- [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) <sub>74 links · licença CC0-1.0</sub>
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) <sub>73 links · licença CC0-1.0</sub>
-- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) <sub>73 links · licença sem-licenca</sub>
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) <sub>73 links · licença CC-BY-4.0</sub>
-- [yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) <sub>74 links · licença sem-licenca</sub>
-- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) <sub>73 links · licença WTFPL</sub>
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) <sub>🔗 82 · ⚖️ CC-BY-4.0</sub>
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) <sub>🔗 1 · ⚖️ CC0-1.0</sub>
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) <sub>🔗 83 · ⚖️ CC-BY-SA-4.0</sub>
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) <sub>🔗 21 · ⚖️ MIT</sub>
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) <sub>🔗 83 · ⚖️ MIT</sub>
+- [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) <sub>🔗 83 · ⚖️ Unlicense</sub>
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) <sub>🔗 83 · ⚖️ MIT</sub>
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) <sub>🔗 83 · ⚖️ MIT</sub>
+- [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) <sub>🔗 2 · ⚖️ MIT</sub>
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) <sub>🔗 83 · ⚖️ sem-licenca</sub>
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) <sub>🔗 83 · ⚖️ CC0-1.0</sub>
+- [mcxiaoke/awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) <sub>🔗 83 · ⚖️ sem-licenca</sub>
+- [oz123/awesome-c](https://github.com/oz123/awesome-c) <sub>🔗 82 · ⚖️ CC-BY-SA-4.0</sub>
+- [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) <sub>🔗 83 · ⚖️ CC0-1.0</sub>
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) <sub>🔗 83 · ⚖️ CC0-1.0</sub>
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) <sub>🔗 83 · ⚖️ sem-licenca</sub>
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) <sub>🔗 83 · ⚖️ CC-BY-4.0</sub>
+- [yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) <sub>🔗 45 · ⚖️ sem-licenca</sub>
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) <sub>🔗 82 · ⚖️ WTFPL</sub>
 
 ---
 [⬆️ Voltar ao topo](#-linguagens-de-programação) · [← Tecnologia e Desenvolvimento](README.md)

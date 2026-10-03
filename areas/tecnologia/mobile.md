@@ -1,47 +1,53 @@
 # 📱 Mobile
 
-> Android, iOS, Flutter, React Native e publicação nas lojas. **297 links** nesta área: 18 essenciais escolhidos a dedo, 37 de inteligência artificial e 242 reunidos de 6 listas curadas.
+> Android, iOS, Flutter, React Native e publicação nas lojas. **300 links** nesta área: 18 essenciais escolhidos a dedo, 40 de inteligência artificial e 242 reunidos de 6 listas curadas.
 
-[← 💻 Tecnologia e Desenvolvimento](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 💻 Tecnologia e Desenvolvimento](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/tecnologia/mobile.md) · 🇪🇸 [Español](../../i18n/es/areas/tecnologia/mobile.md) · 🇨🇳 [中文](../../i18n/zh/areas/tecnologia/mobile.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/tecnologia/mobile.md) · 🇸🇦 [العربية](../../i18n/ar/areas/tecnologia/mobile.md) · 🇫🇷 [Français](../../i18n/fr/areas/tecnologia/mobile.md) · 🇮🇹 [Italiano](../../i18n/it/areas/tecnologia/mobile.md) · 🇰🇷 [한국어](../../i18n/ko/areas/tecnologia/mobile.md) · 🇷🇺 [Русский](../../i18n/ru/areas/tecnologia/mobile.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/tecnologia/mobile.md) · 🇯🇵 [日本語](../../i18n/ja/areas/tecnologia/mobile.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>18</sub> <br>
-[🤖 IA para Mobile](#-ia-para-mobile) <sub>37</sub> <br>
-[◾ React Native](#-react-native) <sub>18</sub> <br>
-[◾ Charts](#-charts) <sub>12</sub> <br>
-[◾ Flutter](#-flutter) <sub>12</sub> <br>
-[◾ Ionic](#-ionic) <sub>12</sub> <br>
-[◾ Navigation](#-navigation) <sub>11</sub> <br>
-[◾ UI](#-ui) <sub>10</sub> <br>
-[◾ Advanced](#-advanced) <sub>6</sub> <br>
-[◾ Analytics](#-analytics) <sub>6</sub> <br>
-[◾ Animation](#-animation) <sub>6</sub> <br>
-[◾ App Routing](#-app-routing) <sub>6</sub> <br>
-[◾ Architecture Patterns](#-architecture-patterns) <sub>6</sub> <br>
-[◾ Cache](#-cache) <sub>6</sub> <br>
-[◾ Forms & Keyboard](#-forms--keyboard) <sub>6</sub> <br>
-[◾ Game Development](#-game-development) <sub>6</sub> <br>
-[◾ GUI](#-gui) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>113</sub> <br>
+[🤖 IA para Mobile](#-ia-para-mobile) <sub>40</sub> <br>
+[📊 Gráficos](#-gráficos) <sub>15</sub> <br>
+[🖌️ UI.](#️-ui) <sub>12</sub> <br>
+[🔸 Navegação](#-navegação) <sub>10</sub> <br>
+[📊 Análise.](#-análise) <sub>6</sub> <br>
+[✨ Animação](#-animação) <sub>6</sub> <br>
+[✨ Animação e Gestos](#-animação-e-gestos) <sub>6</sub> <br>
+[📱 Roteamento da Aplicação](#-roteamento-da-aplicação) <sub>6</sub> <br>
+[🧮 Padrões de Arquitetura](#-padrões-de-arquitetura) <sub>6</sub> <br>
+[🔵 Cache.](#-cache) <sub>6</sub> <br>
+[✅ Qualidade do Código](#-qualidade-do-código) <sub>6</sub> <br>
+[✨ Efeito](#-efeito) <sub>6</sub> <br>
+[🟢 Formulários e teclado](#-formulários-e-teclado) <sub>6</sub> <br>
+[🎮 Desenvolvimento de Jogos](#-desenvolvimento-de-jogos) <sub>6</sub> <br>
+[🟤 GUI](#-gui) <sub>6</sub> <br>
+[📷 Imagem](#-imagem) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>133</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
-- [Android Developers](https://developer.android.com/) - Portal oficial do Google para desenvolvimento Android.
-- [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) - Curso oficial gratuito de Android com Kotlin e Jetpack Compose. <sub>curso</sub>
-- [Kotlin para Android](https://developer.android.com/kotlin) - Ponto de partida oficial para usar Kotlin no Android.
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutoriais oficiais da Apple para criar apps com SwiftUI. <sub>curso</sub>
-- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Curso gratuito de 100 dias de Swift e SwiftUI. <sub>curso</sub>
-- [Flutter](https://docs.flutter.dev/) - Documentação oficial do Flutter com trilha de aprendizado e catálogo de widgets.
-- [Flutterando](https://github.com/Flutterando) - Maior comunidade brasileira de Flutter, com pacotes e conteúdo em português. <sub>pt-BR · comunidade</sub>
-- [React Native](https://reactnative.dev/) - Documentação oficial para apps nativos com React.
-- [Expo](https://docs.expo.dev/) - Documentação do Expo para criar, compilar e publicar apps React Native.
-- [Kotlin Multiplatform](https://kotlinlang.org/multiplatform/) - Tecnologia para compartilhar código Kotlin entre Android, iOS, desktop e web.
-- [Material Design 3](https://m3.material.io/) - Sistema de design do Google com componentes e diretrizes de interface.
-- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Diretrizes de design da Apple para iOS e demais plataformas.
+> Os essenciais de Mobile, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
+- [Android Developers](https://developer.android.com/) - Portal oficial do Google para desenvolvimento Android. <sub>📖 documentação</sub>
+- [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) - Curso oficial gratuito de Android com Kotlin e Jetpack Compose. <sub>🎓 curso</sub>
+- [Kotlin para Android](https://developer.android.com/kotlin) - Ponto de partida oficial para usar Kotlin no Android. <sub>📖 documentação</sub>
+- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutoriais oficiais da Apple para criar apps com SwiftUI. <sub>🎓 curso</sub>
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Curso gratuito de 100 dias de Swift e SwiftUI. <sub>🎓 curso</sub>
+- [Flutter](https://docs.flutter.dev/) - Documentação oficial do Flutter com trilha de aprendizado e catálogo de widgets. <sub>📖 documentação</sub>
+- [Flutterando](https://github.com/Flutterando) - Maior comunidade brasileira de Flutter, com pacotes e conteúdo em português. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
+- [React Native](https://reactnative.dev/) - Documentação oficial para apps nativos com React. <sub>📖 documentação</sub>
+- [Expo](https://docs.expo.dev/) - Documentação do Expo para criar, compilar e publicar apps React Native. <sub>📖 documentação</sub>
+- [Kotlin Multiplatform](https://kotlinlang.org/multiplatform/) - Tecnologia para compartilhar código Kotlin entre Android, iOS, desktop e web. <sub>📖 documentação</sub>
+- [Material Design 3](https://m3.material.io/) - Sistema de design do Google com componentes e diretrizes de interface. <sub>📖 documentação</sub>
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Diretrizes de design da Apple para iOS e demais plataformas. <sub>📖 documentação</sub>
 - [Google Play Console](https://play.google.com/console/about/) - Painel para publicar, testar e acompanhar apps na Google Play.
-- [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) - Regras de revisão para publicar apps na App Store.
+- [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) - Regras de revisão para publicar apps na App Store. <sub>📖 documentação</sub>
 - [fastlane](https://fastlane.tools/) - Automação de builds, capturas de tela, assinatura e publicação de apps.
 - [Firebase](https://firebase.google.com/) - Plataforma do Google com autenticação, banco de dados, crash reports e mais para apps.
 - [Android Weekly](https://androidweekly.net/) - Newsletter semanal gratuita sobre desenvolvimento Android e Kotlin.
@@ -49,351 +55,386 @@
 
 ## 🤖 IA para Mobile
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com mobile. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Mobile. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
-- [Gemini no Android Studio](https://developer.android.com/studio/gemini/overview) - Assistente de IA integrado ao Android Studio para gerar código, explicar erros e criar testes; tem nível gratuito.
-- [Escrevendo código com inteligência no Xcode](https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode) - Guia oficial da Apple para gerar, navegar e refatorar código com modelos e agentes dentro do Xcode.
-- [Foundation Models (Apple)](https://developer.apple.com/documentation/foundationmodels) - Framework para usar o modelo de linguagem on-device da Apple em apps, com saída estruturada e tool calling.
-- [Core ML](https://developer.apple.com/machine-learning/core-ml/) - Framework da Apple para integrar modelos de machine learning em apps iOS, macOS e demais plataformas.
-- [Firebase AI Logic](https://firebase.google.com/docs/ai-logic) - Acesso aos modelos Gemini direto de apps Android, iOS, Flutter e web, sem precisar de back-end próprio.
-- [ML Kit](https://developers.google.com/ml-kit) - Kit do Google de machine learning on-device para apps móveis: visão, linguagem e APIs de IA generativa.
-- [Google AI Edge](https://developers.google.com/edge) - Plataforma com MediaPipe, LiteRT e LiteRT-LM para rodar modelos e LLMs no próprio dispositivo.
-- [Flutter AI Toolkit](https://docs.flutter.dev/ai-toolkit) - Widgets oficiais para adicionar chat com IA em apps Flutter, com Firebase AI Logic ou outros provedores.
+- [Gemini no Android Studio](https://developer.android.com/studio/gemini/overview) - Assistente de IA integrado ao Android Studio para gerar código, explicar erros e criar testes; tem nível gratuito. <sub>📖 documentação</sub>
+- [Escrevendo código com inteligência no Xcode](https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode) - Guia oficial da Apple para gerar, navegar e refatorar código com modelos e agentes dentro do Xcode. <sub>📖 documentação</sub>
+- [Foundation Models (Apple)](https://developer.apple.com/documentation/foundationmodels) - Framework para usar o modelo de linguagem on-device da Apple em apps, com saída estruturada e tool calling. <sub>📖 documentação</sub>
+- [Core ML](https://developer.apple.com/machine-learning/core-ml/) - Framework da Apple para integrar modelos de machine learning em apps iOS, macOS e demais plataformas. <sub>📖 documentação</sub>
+- [Firebase AI Logic](https://firebase.google.com/docs/ai-logic) - Acesso aos modelos Gemini direto de apps Android, iOS, Flutter e web, sem precisar de back-end próprio. <sub>📖 documentação</sub>
+- [ML Kit](https://developers.google.com/ml-kit) - Kit do Google de machine learning on-device para apps móveis: visão, linguagem e APIs de IA generativa. <sub>📖 documentação</sub>
+- [Google AI Edge](https://developers.google.com/edge) - Plataforma com MediaPipe, LiteRT e LiteRT-LM para rodar modelos e LLMs no próprio dispositivo. <sub>📖 documentação</sub>
+- [Flutter AI Toolkit](https://docs.flutter.dev/ai-toolkit) - Widgets oficiais para adicionar chat com IA em apps Flutter, com Firebase AI Logic ou outros provedores. <sub>📖 documentação</sub>
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Servidor MCP que deixa agentes operarem apps iOS e Android em emuladores, simuladores e aparelhos reais.
 - [React Native ExecuTorch](https://github.com/software-mansion/react-native-executorch) - Biblioteca para rodar modelos de IA on-device em apps React Native usando o ExecuTorch.
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
-- [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
-- [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow.
-- [DL4S](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
-- [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models.
-- [iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
-- [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
-- [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile) - Run LLMs, vision models, and Stable Diffusion fully on-device. No internet, no data leaves the phone. React Native, supports iOS and Android. MIT license.
-- [LaMem](https://github.com/MiyainNYC/Visual-Memorability-through-Caffe) - Score the memorability of pictures.
-- [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
-- [ILGnet](https://github.com/BestiVictory/ILGnet) - The aesthetic evaluation of images.
-- [Swift-Brain](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI.
-- [Colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks.
-- [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
-- [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Estimating a set of tags and extracting semantic feature vectors from given illustrations.
-- [StyleArt](https://github.com/ileafsolutions/StyleArt) - Style Art library process images using COREML with a set of pre trained machine learning models and convert them to Art style.
-- [CTPN](https://github.com/tianzhi0549/CTPN) - Detecting text in natural image.
-- [MarkdownDisplayView](https://github.com/zjc19891106/MarkdownDisplayView) - A powerful iOS Markdown rendering component built on TextKit 2, providing smooth rendering performance and rich customization options. It also enables the streaming rendering of Markdown format in AI question-and-answer scenarios.
-- [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) - Find semantically-meaningful dense correspondences between two input images.
-- [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
-- [iLID](https://github.com/twerkmeister/iLID) - Automatic spoken language identification.
-- [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
-- [Fashion Detection](https://github.com/liuziwei7/fashion-detection) - Cloth detection from images.
-- [Saliency](https://github.com/imatge-upc/saliency-2016-cvpr) - The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
-- [Face Detection](https://github.com/DolotovEvgeniy/DeepPyramid) - Detect face from image.
-- [mtcnn](https://github.com/CongWeilin/mtcnn-caffe) - Joint Face Detection and Alignment.
-- [deephorizon](https://github.com/scottworkman/deephorizon) - Single image horizon line estimation.
+- [Torch7](https://github.com/prisma-ai/torch2coreml) - Tocha7 -> CoreML
+- [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) - Converso livre e aberto SDK, construa aplicativos rápidos em tempo real e agentes de IA generativos com alta performance, customizável, interface multiplataforma.
+- [Expo Skills](https://github.com/expo/skills) - Uma coleção de habilidades de agente de IA para trabalhar com projetos da Expo e serviços de aplicações da Expo
+- [AIToolbox](https://github.com/KevinCoble/AIToolbox) - Uma caixa de ferramentas de módulos de IA escrita em Swift: gráficos/trees, regressão linear, máquinas de vetor de suporte, redes neurais, PCA, KMeans, algoritmos genéticos, MDP, mistura de…
+- [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Uma grande lista de modelos em formato Caffe.
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) - A AppFlowy é o espaço de trabalho colaborativo da IA onde você consegue mais sem perder o controle dos seus dados.
+- [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - Servidor MCP para interagir com o simulador iOS
+- [DL4S](https://github.com/palle-k/DL4S) - Deep Learning for Swift: operações de tensor aceleradas e redes neurais dinâmicas baseadas em diferenciação automática do modo inverso para cada dispositivo que pode executar Swift.
+- [TensorFlow Models](https://github.com/tensorflow/models) - Modelos para TensorFlow.
+- [AI SDK](https://github.com/vercel/ai) - A IA Toolkit para TypeScript, dos criadores da Next.Js, o AI SDK é uma biblioteca de código aberto gratuita para a construção de aplicativos e agentes com tecnologia de inteligência artificial.
+- [iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler) - Uma coleção de exemplos de IA Generativas no iOS.
+- [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Outra coleção de Modelos TensorFlow.
+- [Buoy](https://github.com/Buoy-gg/buoy) - Deveres que vivem em seu aplicativo React Native e respondem ao seu agente.
+- [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile) - Sem internet, sem dados deixa o telefone, reaja nativo, suporte iOS e Android.
+- [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Coleção de modelos MXNet.
+- [Swift-AI](https://github.com/Swift-AI/Swift-AI) - A biblioteca de aprendizado de máquina Swift.
+- [LaMem](https://github.com/MiyainNYC/Visual-Memorability-through-Caffe) - Marque a memorizabilidade das fotos.
+- [Swift-Brain](https://github.com/vlall/Swift-Brain) - Inteligência Artificial/Machine Learning estruturas de dados e algoritmos Swift para o desenvolvimento futuro do iOS.
+- [ILGnet](https://github.com/BestiVictory/ILGnet) - A avaliação estética das imagens.
+- [Porcupine](https://github.com/Picovoice/Porcupine) - Mecanismo de detecção de palavras no dispositivo para macOS, iOS e watchOS, alimentado por aprendizagem profunda.
+- [Colorization](https://github.com/richzhang/colorization) - Coloração automática usando redes neurais profundas.
+- [StyleArt](https://github.com/ileafsolutions/StyleArt) - A biblioteca de arte do estilo processa imagens usando COREML com um conjunto de modelos de aprendizado de máquina pré-treinados e converte-los em estilo Arte.
+- [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Estimando um conjunto de etiquetas e extraindo vetores de características semânticas das ilustrações dadas.
+- [MarkdownDisplayView](https://github.com/zjc19891106/MarkdownDisplayView) - Um poderoso componente de renderização do iOS Markdown construído no TextKit 2, fornecendo desempenho suave e ricas opções de personalização.
+- [CTPN](https://github.com/tianzhi0549/CTPN) - Detectando texto na imagem natural.
+- [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini é um rico framework de animação baseado em pergaminhos para iOS, escrito em Swift.
+- [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) - Encontre correspondências densas semanticamente significativas entre duas imagens.
+- [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - A poderosa porta de biblioteca da rede neural do Google para iOS.
+- [iLID](https://github.com/twerkmeister/iLID) - Identificação automática da língua falada.
+- [Fashion Detection](https://github.com/liuziwei7/fashion-detection) - Detecção de panos das imagens.
 
-## ◾ React Native
+## 📊 Gráficos
 
-- [Curso de React Native - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD)
-- [Curso de React Native - Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k)
-- [Curso de React Native - Canal Geek Dev](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW)
-- [Curso de React Native - Webdesign em Foco](https://www.youtube.com/playlist?list=PLbnAsJ6zlidsqILBeTaeUr7aaWcqAtMrW)
-- [Curso de React Native - Caio Malheiros](https://www.youtube.com/playlist?list=PL69eBMqNvxhVer10WY3nxgV0qiO8xenOP)
-- [Curso de React Native - Sujeito programador](https://www.youtube.com/playlist?list=PLAF5G8rnMmBb2XMMfo79GWnsFvuDuLHA7)
-- [Curso de React Native - Developer Plus](https://www.youtube.com/playlist?list=PLxF2lyHGcERApnjQPgeeEIzJJdGurraMW)
-- [Curso de React Native - Programador BR](https://www.youtube.com/playlist?list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h)
-- [Playlist com vídeos de React Native - Renan H.](https://www.youtube.com/playlist?list=PLB5l-YuqoyEFATE6Ax6WXB0P4AGjRDljr)
-- [Curso de React Native - APP IOS e Android](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhe_PxwprF0R2fp0UurDZuw)
-- [Curso de React com MySQL - React Native](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgALv5Vm-ooZo8qYRgCzKSV)
-- [Curso de React Native - Eduardo Marques](https://www.youtube.com/playlist?list=PLvVYUfc9tf-JMETwebyYaA4vk3YoXlWAM)
-- [Playlist de vídeos sobre React Native](https://www.youtube.com/playlist?list=PLEk7yXd40KELpioDsnXbGu45nhx9xTbiL)
-- [Programação para Dispositivos Móveis 2020.1 - React Native](https://www.youtube.com/playlist?list=PLd4Jo6d-yhDIOgnG4EueCh2ADbMCJyJoX)
-- [Curso de React Native - Paulo Araujo](https://www.youtube.com/playlist?list=PL9Fgd5f5dgGIjrHsbqQNFUsgo7uQRIAdj)
-- [React Native do Zero - Stack Mobile](https://www.youtube.com/playlist?list=PLizN3WA8HR1wRbFttKXDdc_yQ5CWj2msJ)
-- [Curso de React Native - Jorge Jardim](https://www.youtube.com/playlist?list=PLvmEIQBREIvS_gS6BX5Tk1z61i85BZF7E)
-- [Curso de React Native - Marcelo Anselmo](https://www.youtube.com/playlist?list=PLBWrrrRI1gZBbmG43QE1hYOsqu5QXjilT)
+> 15 links de Gráficos em Mobile, reunidos das listas curadas da comunidade.
 
-## ◾ Charts
+- [AChartEngine](https://github.com/ddanny/achartengine) - Motor gráfico.
+- [EazeGraph](https://github.com/blackfizz/EazeGraph) - Biblioteca de gráficos e gráficos.
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Biblioteca de gráficos com boas capacidades de movimento.
+- [HelloCharts](https://github.com/lecho/hellocharts-android) - Biblioteca de gráficos e gráficos com suporte para escala, rolagem e animações.
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Um gráfico Android e biblioteca de gráficos suportando escala e arrastando por gesto.
+- [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - Desenhar Gráficos de Arco Estático Criativo.
+- [ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView é fácil de usar classe baseada em visão para exibir gráficos animados.
+- [Charts](https://github.com/danielgindi/Charts) - Um poderoso quadro gráfico, o iOS equivalente ao MPAndroidChart.
+- [core-plot](https://github.com/core-plot/core-plot) - Uma lib trace 2D que é altamente personalizável e capaz de desenhar muitos tipos de enredos.
+- [EatFit](https://github.com/Yalantis/EatFit) - Comer em forma é um componente para representação de dados atraentes inspirado no Google Fit.
+- [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph, manipulação de eventos e animação suportada.
+- [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - Uma biblioteca de gráficos para visualizar e interagir com um mapa vetorial no iOS.
+- [victory-native-xl](https://github.com/FormidableLabs/victory-native-xl) - Uma biblioteca de gráficos para React Native com foco em performance e personalização.
+- [react-native-graph](https://github.com/margelo/react-native-graph) - Gráficos e gráficos de alto desempenho para Reagir Nativo construídos com Skia
+- [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) - A biblioteca mais adorada de Bar, Linha, Área, Torta, Donut, Barra empilhada, Pirâmide Populacional, Radar, Bubble, Dispersão e Velas em React Native. Permite 2D, 3D, gradiente, animações e ao vivo...
 
-- [AChartEngine](https://github.com/ddanny/achartengine) - Charting Engine.
-- [EazeGraph](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
-- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
-- [HelloCharts](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
-- [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - Draw Creative Statistic Arc Charts.
-- [ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
-- [Charts](https://github.com/danielgindi/Charts) - A powerful chart/graph framework, the iOS equivalent to MPAndroidChart.
-- [core-plot](https://github.com/core-plot/core-plot) - A 2D plotting lib which is highly customizable and capable of drawing many types of plots.
-- [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
-- [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
-- [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS.
+## 🖌️ UI.
 
-## ◾ Flutter
+> 12 links de UI. em Mobile, reunidos das listas curadas da comunidade.
 
-- [Curso COMPLETO de Flutter](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB)
-- [Flutter Curso 2022](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
-- [Flutter e Dart - Curso](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_)
-- [Curso de FLUTTER 2022](https://www.youtube.com/playlist?list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx)
-- [Curso Flutter](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS)
-- [Curso Flutter Básico (NV1) - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S)
-- [Curso de FLUTTER e DART](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG)
-- [A Primeira Aula de Flutter Que Todo Mundo Deveria Ter](https://www.youtube.com/watch?v=J4BVaXkwmM8&ab_channel=FilipeDeschamps)
-- [Curso Flutter - Projeto COMPLETO Passo a Passo (Campo Minado)](https://www.youtube.com/watch?v=i3w3Wnouowo&ab_channel=Cod3rCursos)
-- [Education App UI Design in Flutter - Flutter UI Design Tutorial](https://www.youtube.com/watch?v=ucwBcTgxyME&ab_channel=DearProgrammer)
-- [Live Coding / Desenvolva um aplicativo em Flutter!](https://www.youtube.com/watch?v=j8Swzym_EEc&ab_channel=AluraCursosOnline)
-- [Flutter: Configurando cores dinâmicas / #AluraMais](https://www.youtube.com/watch?v=gI4-vj0WpKM&ab_channel=AluraCursosOnline)
+- [react-native-paper](https://github.com/callstack/react-native-paper) - Desenho de material para Reagir Nativo (Android & iOS)
+- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Um simples menu radial animado para Flutter.
+- [React Native Elements](https://github.com/react-native-elements/react-native-elements) - Kit de ferramentas nativo da UI em forma cruzada.
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder como cartões de efeito com Flutter.
+- [Tamagui](https://github.com/tamagui/tamagui) - Estilo Reagir rapidamente com 100% de paridade em React Native, um kit opcional de UI, e otimizando compilador.
+- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) - Um pacote para o painel com animação integrada.
+- [gluestack-ui](https://github.com/gluestack/gluestack-ui) - Reagir e Reagir Componentes nativos e padrões (copy-paste componentes e padrões criados com Tailwind CSS (NativeWind))
+- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) - O aplicativo para animação demo com Flutter implementando reações no Facebook.
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - Reagir biblioteca de UI nativa construída sobre o Eva Design System: 30+ componentes temáticos, acessíveis para iOS, Android e web. TypeScript, React 19 / RN 0.81, Eva e temas materiais com…
+- [Flushbar](https://github.com/AndreHaueisen/flushbar) - Elemento personalizado para Flutter
+- [NativeBase](https://github.com/GeekyAnts/NativeBase) - Primeiro, componentes móveis acessíveis para Reagir Nativo & Web para construir UI consistente em Android, iOS e Web.
+- [Stepper Touch](https://github.com/Rahiche/stepper_touch) - Estremecendo o widget Stepper_touch
 
-## ◾ Ionic
+## 🔸 Navegação
 
-- [Ionic - Dicionário do Programador](https://www.youtube.com/watch?v=5QqvO_9LPzQ&ab_channel=C%C3%B3digoFonteTV)
-- [Curso Ionic Completo 2022 (Iniciantes) + Desafios + Criando um Aplicativo!](https://www.youtube.com/watch?v=gEVYAdwDHwg&t=5894s&ab_channel=WhileTrue)
-- [Conhecendo o Ionic Framework](https://www.youtube.com/watch?v=HUBg2VTYRPo&list=PLuXkauUmG1ZH7iJfW5GpAKAQTo_NL5PZ7&ab_channel=RonanAdrielZenatti)
-- [Introdução ao Ionic](https://www.youtube.com/watch?v=qr9jS-ZrWpo&list=PLfhMD9jnhSMny0jU_azpnLhvsPWsvRv0q&ab_channel=JulianaCristinadosSantos)
-- [Curso de Ionic 6 - Aula 01 - Aplicativos Android e IOS](https://www.youtube.com/watch?v=mMQbYiHy59Q&list=PLxNM4ef1BpxgBAqQsMHhwBH6EmwQOD7Rq&ab_channel=PortalHugoCursos)
-- [Curso - Desenvolvimento de apps com Ionic / 01 - Apresentação](https://www.youtube.com/watch?v=xABQOK5vFZQ&list=PLVG76XkqmT1-a738T809H1xPMONh910Dl&ab_channel=JardelGarcia)
-- [Ionic 6 com Mysql - Aula 01 - Aplicativos Mobile](https://www.youtube.com/watch?v=ZYM9FYKTDnA&list=PLxNM4ef1BpxirvhqM-E96LdFPlDU8Wg6w&ab_channel=PortalHugoCursos)
-- [Ionic 3 Essencial - 1 Introdução](https://www.youtube.com/watch?v=kx7f_5IJXY8&list=PLswa9HeoJUq_Dphg3w1TwqBMgruzRCwIO&ab_channel=CodeExperts)
-- [Desenvolvimento de Aplicativos - Aula 01 - Introdução ao Curso](https://www.youtube.com/watch?v=hz7-z9JGQFw&list=PLxNM4ef1BpxgA3RP3L3Y___xZPc1g2h-5&ab_channel=PortalHugoCursos)
-- [Criando Aplicativos com Ionic / Preparação do Ambiente / Aula 1](https://www.youtube.com/watch?v=eb5i6nus8vo&list=PLxIWikUsH2nSlBxyxEEgVUTBRYbDWmFC9&ab_channel=Programa%C3%A7%C3%A3odeQuinta)
-- [Curso de Ionic - Aula 01 - Desenvolvimento de Aplicativos](https://www.youtube.com/watch?v=fOO6D1lb0OQ&list=PLxNM4ef1BpxgcK0J97u3aSJo30UIfpbNN&ab_channel=PortalHugoCursos)
-- [Ionic #01 - INSTALANDO e criando o PRIMEIRO PROJETO](https://www.youtube.com/watch?v=y2hBKxJhfGM&list=PLuUvvidbi-uCGT4LycMif1VVNhC-ZF-pi&ab_channel=SthefaneSoares-VidaPrograma%C3%A7%C3%A3o)
+> 10 links de Navegação em Mobile, reunidos das listas curadas da comunidade.
 
-## ◾ Navigation
+- [React Navigation](https://github.com/react-navigation/react-navigation) - Roteamento e navegação para aplicativos React Native e Web
+- [react-native-navigation](https://github.com/wix/react-native-navigation) - Uma solução de navegação nativa completa para React Native.
+- [react-native-screens](https://github.com/software-mansion/react-native-screens) - Primitivos de navegação nativa para seu aplicativo React Native.
+- [react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Páginas Nativas para Reagir.
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Biblioteca para criar aplicativos com menus.
+- [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - Biblioteca simples que ajuda a criar tutoriais incríveis de aplicativos Android.
+- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - Um indicador interativo para navegar entre as diferentes páginas de um ViewPager.
+- [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - Suporte para rolagem horizontal do ViewPager.
+- [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - Uma biblioteca eficiente do TabLayout implementada com o RecyclerView.
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simples assumir uma gaveta de navegação de design material.
 
-- [React Navigation](https://github.com/react-navigation/react-navigation)
-- [Expo Router](https://docs.expo.dev/router/introduction/)
-- [react-native-navigation](https://github.com/wix/react-native-navigation)
-- [react-native-screens](https://github.com/software-mansion/react-native-screens)
-- [react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
-- [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - Simple library that helps to create awesome sliding android app tutorials.
-- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
-- [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
-- [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - An efficient TabLayout library implemented with RecyclerView.
-- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
+## 📊 Análise.
 
-## ◾ UI
+> 6 links de Análise. em Mobile, reunidos das listas curadas da comunidade.
 
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-- [React Native Elements](https://github.com/react-native-elements/react-native-elements)
-- [Tamagui](https://github.com/tamagui/tamagui)
-- [gluestack-ui](https://github.com/gluestack/gluestack-ui)
-- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-- [NativeBase](https://github.com/GeekyAnts/NativeBase)
-- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu)
-- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards)
-- [Flip Panel](https://github.com/hnvn/flutter_flip_panel)
-- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation)
+- [Answers by Fabric](https://get.fabric.io/) - Respostas te dão uma visão em tempo real da experiência das pessoas no seu aplicativo.
+- [Aptabase](https://aptabase.com/for-swift) - Código aberto, Privacy-First e simples Analytics para aplicações rápidas.
+- [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Os relatórios de erros incluem dados no dispositivo, liberação, usuário e permite dados arbitrários.
+- [Countly](https://count.ly/) - Código aberto, análise móvel e web, relatórios de falhas e plataforma de notificações push para iOS e Android.
+- [devtodev](https://www.devtodev.com/) - Um serviço de análise abrangente que melhora seu projeto e economiza tempo para o desenvolvimento do produto.
+- [Embrace](http://embrace.io/) - Observabilidade móvel, construída na OpenTelemetria, para fornecer aplicativos confiáveis e focados no usuário.
 
-## ◾ Advanced
+## ✨ Animação
 
-- [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
-- [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208)
-- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart)
-- [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f)
-- [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/)
-- [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d)
+> 6 links de Animação em Mobile, reunidos das listas curadas da comunidade.
 
-## ◾ Analytics
+- [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) - Biblioteca Kotlin para simplificar animações e transições em Jetpack Compose.
+- [Rebound](https://github.com/facebook/rebound) - Rebound é uma biblioteca Java que modela a dinâmica da primavera.
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Colecção de animação com vista bonita.
+- [Android-Transition](https://github.com/kaichunlin/android-transition) - Permite a fácil criação de transições de visão que reagem às entradas do usuário.
+- [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Torna fácil criar animações complexas para as vistas.
+- [Swipper](https://github.com/mdg-iitr/Swipper) - Biblioteca Android para gestos deslizáveis para controlar volume, brilho e busca.
 
-- [Answers by Fabric](https://get.fabric.io/) - Answers gives you real-time insight into people’s experience in your app.
-- [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
-- [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
-- [Countly](https://count.ly/) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
-- [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
-- [Embrace](http://embrace.io/) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
+## ✨ Animação e Gestos
 
-## ◾ Animation
+> 6 links de Animação e Gestos em Mobile, reunidos das listas curadas da comunidade.
 
-- [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) - Kotlin library for simplifying animations and transitions in Jetpack Compose.
-- [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
-- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
-- [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
-- [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
-- [Swipper](https://github.com/mdg-iitr/Swipper) - Android library for swipeable gestures to control volume , brightness and seek .
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - Reagir biblioteca animada dos nativos reimplementada
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - API declarativa expondo a plataforma de toque nativo e sistema de gestos para Reagir Nativo.
+- [react-native-skia](https://github.com/Shopify/react-native-skia) - Gráficos nativos de alta performance usando Skia.
+- [Moti](https://github.com/nandorojo/moti) - A biblioteca de animação React Native (+ Web), alimentada por Reanimated 3.
+- [react-native-animatable](https://github.com/oblador/react-native-animatable) - Conjunto padrão de animações fáceis de usar e transições declarativas para Reagir Nativo.
+- [TypeGPU](https://github.com/software-mansion/TypeGPU) - Um kit de ferramentas modular e aberto para WebGPU, com inferência avançada do tipo e a habilidade de escrever shaders no TypeScript
 
-## ◾ App Routing
+## 📱 Roteamento da Aplicação
 
-- [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
-- [Appz](https://github.com/SwiftKitz/Appz) - Easily launch and deeplink into external applications, falling back to web if not installed.
-- [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
-- [Crossroad](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily.
-- [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
-- [JLRoutes](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API.
+> 6 links de Roteamento da Aplicação em Mobile, reunidos das listas curadas da comunidade.
 
-## ◾ Architecture Patterns
+- [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordenador é um objeto que lida com fluxo de navegação e fluxos de compartilhamento para o próximo coordenador depois de ligar a próxima cadeia.
+- [Appz](https://github.com/SwiftKitz/Appz) - Fácil lançamento e conexão profunda em aplicações externas, caindo para a web se não instalado.
+- [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - Uma biblioteca de código aberto para construir aplicações SwiftUI com composição, testes e ergonomia em mente.
+- [Crossroad](https://github.com/giginet/Crossroad) - Crossroad é um roteador de URL focado em lidar com esquemas de URL personalizados.
+- [DeepLinkKit](https://github.com/button/DeepLinkKit) - Uma maneira esplêndida de combinar rotas, baseada em blocos para lidar com suas ligações profundas.
+- [JLRoutes](https://github.com/joeldev/JLRoutes) - Biblioteca de roteamento de URLs para iOS com uma API simples baseada em blocos.
 
-- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
-- [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
-- [ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
-- [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
-- [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
-- [Spin](https://github.com/Spinners/Spin.Swift) - A universal implementation of a Feedback Loop system for RxSwift, ReactiveSwift and Combine
+## 🧮 Padrões de Arquitetura
 
-## ◾ Cache
+> 6 links de Padrões de Arquitetura em Mobile, reunidos das listas curadas da comunidade.
 
-- [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift). <sub>lista awesome</sub>
-- [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-- [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
-- [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
-- [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
-- [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
+- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) - Um projeto demo mostrando a configuração da produção do aplicativo SwiftUI com arquitetura limpa.
+- [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - Exemplo de arquitetura limpa do aplicativo iOS usando RxSwift.
+- [ios-architecture](https://github.com/tailec/ios-architecture) - Uma coleção de arquiteturas iOS - MVC, MVMM, MVM+RxSwift, VIPER, RIBs e muitos outros.
+- [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) - Este repositório contém um aplicativo de exemplo detalhado que implementa arquitetura VIPER em iOS usando bibliotecas e frameworks como Alamofire, AlamofireImage, PKHUD, CoreData etc.
+- [Reactant](https://github.com/Brightify/Reactant) - Reactante é uma arquitetura reativa para iOS.
+- [Spin](https://github.com/Spinners/Spin.Swift) - Uma implementação universal de um sistema de feedback para RxSwift, ReactiveSwift e Combine
 
-## ◾ Forms & Keyboard
+## 🔵 Cache.
 
-- [React Hook Form](https://github.com/react-hook-form/react-hook-form)
-- [Formik](https://github.com/jaredpalmer/formik)
-- [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller)
-- [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select)
-- [react-native-autocomplete-input](https://github.com/byteburgers/react-native-autocomplete-input)
-- [react-native-masked-text](https://github.com/bhrott/react-native-masked-text)
+> 6 links de Cache. em Mobile, reunidos das listas curadas da comunidade.
 
-## ◾ Game Development
+- [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Um cache delicioso no disco (escrito em Swift). <sub>📋 lista awesome</sub>
+- [Cache](https://github.com/hyperoslo/Cache) - Nada além de Cache.
+- [Disk](https://github.com/saoudrizwan/Disk) - Um framework delicioso para iOS que persista facilmente em estruturas, imagens e dados.
+- [HanekeSwift](https://github.com/Haneke/HanekeSwift) - Um cache genérico leve para iOS escrito em Swift com amor extra por imagens.
+- [mattress](https://github.com/buzzfeed/mattress) - Cachê Offline iOS para conteúdo web.
+- [PINCache](https://github.com/pinterest/PINCache) - Um cache de objetos paralelos rápido e não-deadlocking para iOS e macOS.
 
-- [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. Open Source
-- [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
-- [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
-- [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
-- [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
-- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+## ✅ Qualidade do Código
 
-## ◾ GUI
+> 6 links de Qualidade do Código em Mobile, reunidos das listas curadas da comunidade.
 
-- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout) - A swipe refresh layout is available in the v4 support library.
-- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
-- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
-- [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
-- [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
-- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
+- [Aardvark](https://github.com/square/Aardvark) - Aardvark é uma biblioteca que torna muito simples criar relatórios de bugs acionáveis.
+- [Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) - O projeto iOS foi criado para codificação de alta qualidade.
+- [Bugsee](https://www.bugsee.com/) - In-app bug e queda reportando com vídeo, registros, tráfego de rede e vestígios.
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - Biblioteca iOS para ajudar a detectar ciclos de retenção em tempo de execução.
+- [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Encontre problemas de memória e vazamentos em seu aplicativo iOS sem instrumentos.
+- [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - Encontre vazamentos de memória em seu aplicativo iOS no momento do desenvolvimento.
 
-## ◾ Mais links
+## ✨ Efeito
+
+> 6 links de Efeito em Mobile, reunidos das listas curadas da comunidade.
+
+- [Parallax](https://github.com/roughike/page-transformer) - Uma amostra para ter efeitos de transformação PageView em Flutter.
+- [Shimmer](https://github.com/hnvn/flutter_shimmer) - Um pacote fornece uma maneira fácil de adicionar efeito brilhante no projeto Flutter.
+- [Wave](https://github.com/i-protoss/wave) - Um pacote Flutter para exibir ondas.
+- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Um deslize líquido baseado em flutter
+- [PhotoFilters](https://github.com/skkallayath/photofilters) - Biblioteca de fotofiltros para Flutter
+- [Shine](https://github.com/JonathanMonga/flutter_shine.dart) - Flutter Shine é uma biblioteca para sombras bonitas e realistas, posições de luz dinâmicas, sombras extremamente personalizáveis, sem dependências de bibliotecas, texto ou sombras de caixas baseadas…
+
+## 🟢 Formulários e teclado
+
+> 6 links de Formulários e teclado em Mobile, reunidos das listas curadas da comunidade.
+
+- [React Hook Form](https://github.com/react-hook-form/react-hook-form) - Reagir Ganchos para a gestão e validação do estado.
+- [Formik](https://github.com/jaredpalmer/formik) - Construir formas em React, sem as lágrimas
+- [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Gerente de teclado que trabalha da mesma forma em iOS e Android
+- [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select) - Um componente de Picker para React Native que emula as interfaces nativas para iOS e Android
+- [react-native-autocomplete-input](https://github.com/byteburgers/react-native-autocomplete-input) - Entrada autocompleta do javascript puro para reação-nativo
+- [react-native-masked-text](https://github.com/bhrott/react-native-masked-text) - Um texto puro mascarado javascript e componente de texto para React-Native.
+
+## 🎮 Desenvolvimento de Jogos
+
+> 6 links de Desenvolvimento de Jogos em Mobile, reunidos das listas curadas da comunidade.
+
+- [Libgdx](https://libgdx.badlogicgames.com/) - Motor de jogo multiplataforma e SDK.
+- [Vuforia](https://www.vuforia.com/) - Biblioteca da Realidade Aumentada.
+- [Unity](https://unity3d.com/unity/features/multiplatform) - Sistema de criação de jogos entre plataformas.
+- [Rajawali](https://github.com/Rajawali/Rajawali) - Motor Android OpenGL ES 2.0/3.0
+- [Cocos2d-x](https://cocos2d-x.org/) - Estrutura de jogo 2D com plataforma cruzada.
+- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - Um Android de código aberto, nativo do jogo FrameWork.
+
+## 🟤 GUI
+
+> 6 links de GUI em Mobile, reunidos das listas curadas da comunidade.
+
+- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout) - Um layout de atualização está disponível na biblioteca de suporte v4. <sub>📖 documentação</sub>
+- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Biblioteca Android para construir um cartão de usuário.
+- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Vista de grade que suporta várias colunas com linhas de tamanhos variados.
+- [Flow](https://github.com/square/flow) - Biblioteca que ajuda a descrever um aplicativo como uma coleção de telas moderadamente independentes.
+- [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - Uma biblioteca Android contendo um simples TableView e um avançado TableView Selecionável fornecendo muitas possibilidades de personalização para atender todas as necessidades.
+- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Design de material ProgressBar com aparência consistente.
+
+## 📷 Imagem
+
+> 6 links de Imagem em Mobile, reunidos das listas curadas da comunidade.
+
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - Um widget de carrossel, suporte pergaminho infinito, e widget infantil personalizado.
+- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Um widget Flutter que pinta uma imagem e a move em uma velocidade mais lenta do que o conteúdo principal de rolagem.
+- [Photo View](https://github.com/renancaraujo/photo_view) - Fácil de usar, mas muito customizável widget de imagem zoomable para Flutter, Photo View fornece um gesto sensível widget zoomable.
+- [SVG](https://github.com/dnfield/flutter_svg) - SVG analisando, renderizando e widgets para Flutter
+- [Image Cropper](https://github.com/hnvn/flutter_image_cropper) - Um plugin Flutter para Android e iOS suporta imagens de corte
+- [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) - Baixar, armazenar e mostrar imagens em um aplicativo de agitação.
+
+## 🧺 Mais links
+
+> Links de Mobile que vêm de tópicos pequenos demais para ter uma seção própria.
 
 - [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile
-- [Flutter](https://flutter.dev/)
-- [Super List](https://github.com/superlistapp/super_sliver_list)
-- [Reorderables](https://github.com/hanshengchiu/reorderables)
-- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
-- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview)
-- [PlutoGrid](https://github.com/bosskmk/pluto_grid)
-- [Expo](https://expo.dev/)
-- [React Native Directory](https://reactnative.directory/)
-- [Upgrade Helper](https://github.com/react-native-community/upgrade-helper)
-- [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
-- [Expo Examples](https://github.com/expo/examples)
-- [Expo AI Agents Guide](https://docs.expo.dev/agents/)
-- [Claude Code + Expo](https://docs.expo.dev/agents/claude/)
-- [Expo Skills](https://github.com/expo/skills)
-- [Agent Skills](https://github.com/anthropics/skills)
-- [CloudRail](https://cloudrail.com/) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
-- [Instant Chat Integration](https://getstream.io/chat/sdk/flutter/)
-- [Official Gallery](https://github.com/flutter/gallery)
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples)
-- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog)
-- [Generative Art](https://github.com/Solido/flutter-d-art)
-- [Anvil](https://github.com/anvil-ui/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
-- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
-- [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
-- [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
-- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
-- [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
-- [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
-- [Expo MCP](https://docs.expo.dev/mcp/)
-- [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp)
-- [Maestro](https://maestro.dev/)
-- [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)
-- [Presentation](https://speakerdeck.com/hjjunior/why-i-chose-flutter)
-- [Flutter Web](https://medium.com/flutter-community/ins-and-outs-of-flutter-web-7a82721dc19a)
-- [llama.rn](https://github.com/mybigday/llama.rn)
-- [react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite)
-- [AI SDK](https://github.com/vercel/ai)
-- [Apple Review Guidelines](https://developer.apple.com/app-store/review/) - Highlighted some of the most common issues that cause apps to get rejected.
-- [Free App Store Optimization Tool](https://www.mobileaction.co/) - Lets you track your App Store visibility in terms of keywords and competitors.
-- [Remoter](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
-- [Service Connector](https://github.com/josesamuel/serviceconnector) - Bind Android services and callbacks to fields and methods.
-- [Welcome to Flutter](https://didierboelens.com/)
-- [SZAŁKO-BLOG](https://marcinszalek.pl/)
-- [Flutter by Example](https://flutterbyexample.com/)
-- [Flutter Institute](https://flutter.institute/)
-- [Norbert](https://medium.com/@norbertkozsir)
-- [Flutter Tips](https://medium.com/@diegoveloper)
-- [ParallaxView](https://github.com/PGSSoft/ParallaxView) - iOS controls and extensions that add parallax effect to your application.
-- [TvOSPinKeyboard](https://github.com/zattoo/TvOSPinKeyboard) - PIN keyboard for tvOS.
-- [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS.
-- [a0.dev](https://a0.dev/)
-- [Rork](https://rork.com/)
-- [Curso de C# Xamarin - Aula 01 - Android, IOS e Windows Phone com C#](https://www.youtube.com/watch?v=d2tBuQEZtH8&list=PLxNM4ef1BpxjmpXgb-_0W6hUxjbgbI0PQ&ab_channel=PortalHugoCursos)
-- [Xamarin (o concorrente do Flutter e React Native) - Dicionário do Programador](https://www.youtube.com/watch?v=rtuywS2fG2Y&ab_channel=C%C3%B3digoFonteTV)
-- [Kill Kotlin and Swift, Use C# Instead - Welcome to Xamarin.Forms!](https://www.youtube.com/watch?v=9eM9T5svYHw&list=PLdkt3RKz_b0zd3FHevP5Bd2vZYIwq12pF&ab_channel=EduardoRosas)
-- [Xamarin Android Tutorial - Linear Layout](https://www.youtube.com/watch?v=Wj-WT4uWlKA&list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8&ab_channel=EDMTDev)
-- [Xamarin Forms #0- Introduction](https://www.youtube.com/watch?v=e6LeoYD1A1I&list=PL0CKdD7TV8pG0kNyfWO5LFqeU6J6Zj_49&ab_channel=Mikaelson)
-- [Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://www.youtube.com/watch?v=93ZU6j59wL4&ab_channel=ProgrammingwithMosh)
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/)
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/)
-- [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23)
-- [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
-- [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
-- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap)
-- [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
-- [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter)
-- [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter)
-- [FlashList](https://github.com/Shopify/flash-list)
-- [Legend List](https://github.com/LegendApp/legend-list)
-- [recyclerlistview](https://github.com/Flipkart/recyclerlistview)
-- [ARKit Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
-- [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
-- [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture ARKit videos, photos, Live Photos, and GIFs.
-- [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
-- [Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1?sk=6f9cedfb550ca9cc7f88317e2e7055a0)
-- [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
-- [OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for macOS and iOS, written in Swift.
-- [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
-- [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - (In)visible ReCaptcha for iOS.
-- [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A simple OAuth library for iOS with a built-in set of providers.
-- [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
-- [ActionBarSherlock](http://actionbarsherlock.com/) - ActionBar for older Android versions.
-- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
-- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-- [react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet)
-- [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet)
-- [Zeego](https://github.com/nandorojo/zeego)
-- [Burnt](https://github.com/nandorojo/burnt)
-- [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
-- [BitcoinKit](https://github.com/yenom/BitcoinKit) - Bitcoin protocol toolkit for Swift, BitcoinKit implements Bitcoin protocol in Swift. It is an implementation of the Bitcoin SPV protocol written in swift.
-- [EthereumKit](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
-- [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
-- [web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
-- [Shaders](https://wolfenrain.medium.com/flutter-shaders-an-initial-look-d9eb98d3fd7a)
-- [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax)
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36)
-- [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4)
-- [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
-- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
-- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
-- [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN)
-- [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) <sub>canal</sub>
-- [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) <sub>canal</sub>
-- [react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown)
-- [react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display)
-- [react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink)
-- [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf)
-- [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontsize)
-- [Crescento](https://github.com/developer-shivam/crescento) - Explore new style in material design by adding curve below image view.
-- [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
-- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
-- [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
+- [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Dicas e truques impressionantes. <sub>📋 lista awesome</sub>
+- [Upgrade Helper](https://github.com/react-native-community/upgrade-helper) - Uma ferramenta para apoiar os desenvolvedores nativos na atualização de seus aplicativos.
+- [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) - Não há melhor maneira de limpar, init e depois diff.
+- [Expo Examples](https://github.com/expo/examples) - Projetos de exemplo que demonstram como usar APIs Expo e integrar Expo com outras ferramentas populares
+- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) - Roteiro altamente subjetivo para o desenvolvimento do Flutter
+- [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter) - Um guia abrangente sobre como codificar aplicativos móveis de plataforma cruzada com o framework Flutter, do zero para cima.
+- [Official Gallery](https://github.com/flutter/gallery) - Flutter Gallery foi um recurso para ajudar os desenvolvedores a avaliar e usar Flutter
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) - Simples aplicativos básicos isolados, para devs de agitação.
+- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) - Um aplicativo mostrando componentes Flutter, com visualização de código fonte lado a lado.
+- [Generative Art](https://github.com/Solido/flutter-d-art) - Arte Generativa com Flutter
+- [Agent Skills](https://github.com/anthropics/skills) - Repositório público para o Agente Skills.
+- [llama.rn](https://github.com/mybigday/llama.rn) - Reagir ligação nativa de lhama.cpp
+- [react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) - Biblioteca de alto desempenho TensorFlow Lite para Reagir Nativo com aceleração GPU
+- [CloudRail](https://cloudrail.com/) - Biblioteca de API unificada para: Armazenamento em nuvem, Perfis Sociais, Pagamento, E-mail, SMS e POI.
+- [Anvil](https://github.com/anvil-ui/anvil) - Uma pequena biblioteca para criar componentes de interface reativa, inspirados em React, fornece ligação de dados e conexão de ouvintes de eventos, se encaixa bem na MVM.
+- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - Biblioteca Oficial de Dados do Android para escrever layouts declarativos e minimizar o código de cola necessário para vincular lógica e layouts de aplicativos. <sub>📖 documentação</sub>
+- [Dagger 2](https://github.com/google/dagger) - Um injetor de dependência rápido para Android e Java.
+- [Butter Knife](http://jakewharton.github.io/butterknife/) - Veja a biblioteca "injeção" para Android.
+- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Biblioteca Android que fornece uma forma mais simples de iniciar as atividades com vários argumentos.
+- [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Anotações Java com injeção de dependência no momento da compilação.
+- [Toothpick](https://github.com/stephanenicolas/toothpick) - Uma árvore baseada em Dependência Injection (DI) biblioteca para Java.
+- [FlashList](https://github.com/Shopify/flash-list) - Uma lista melhor para React Native.
+- [Legend List](https://github.com/LegendApp/legend-list) - Uma lista de alto desempenho para Reagir Nativo e Reagir
+- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - Visão de lista de alto desempenho para React Nativo e Web!
+- [Apple Review Guidelines](https://developer.apple.com/app-store/review/) - Destaquei alguns dos problemas mais comuns que fazem aplicativos serem rejeitados. <sub>📖 documentação</sub>
+- [Free App Store Optimization Tool](https://www.mobileaction.co/) - Permite rastrear sua visibilidade da App Store em termos de palavras-chave e concorrentes.
+- [Forui](https://github.com/forus-labs/forui) - Biblioteca Flutter UI da Duobase
+- [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) - Componentes incríveis de interface para Flutter, totalmente personalizáveis.
+- [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) - Um Flutter UI componentes lib para TDesign.
+- [Remoter](https://github.com/josesamuel/remoter) - Uma alternativa para Android AIDL para serviços IPC remotos usando interfaces de java simples.
+- [Service Connector](https://github.com/josesamuel/serviceconnector) - Ligar serviços Android e chamadas para campos e métodos.
+- [ParallaxView](https://github.com/PGSSoft/ParallaxView) - Controles e extensões iOS que adicionam efeito paralaxe à sua aplicação.
+- [TvOSPinKeyboard](https://github.com/zattoo/TvOSPinKeyboard) - Teclado PIN para TVOS.
+- [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - Leitor de vídeo do YouTube para iOS, TVOS e MacOS.
+- [Super List](https://github.com/superlistapp/super_sliver_list) - Substituição de SliverList e ListView que pode lidar com grande (realmente, realmente grande) quantidade de itens com extensões variáveis e salto / animação confiável para qualquer item.
+- [Reorderables](https://github.com/hanshengchiu/reorderables) - Lista reordenável de tabelas, linhas, colunas, embrulhos e fatias que permitem arrastar e soltar as crianças.
+- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - Um indicador de atualização personalizado para o Flutter.
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) - Flutter Infinite ListView - ListView com itens que podem ser rolados infinitamente em ambas as direções.
+- [PlutoGrid](https://github.com/bosskmk/pluto_grid) - PlutoGrid é uma grade de dados para flutter que pode ser controlada pelo teclado na área de trabalho e web.
+- [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) - Um widget Tipo Ahead para Flutter, onde você pode mostrar sugestões aos usuários como eles digitam
+- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - Uma folha de fundo interativa com opções totalmente configuráveis.
+- [react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - A verdadeira experiência nativa do fundo da folha.
+- [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - Uma plataforma transversal (Android, iOS e Web) ActionSheet com um api flexível, desempenho nativo para reagir nativo.
+- [Zeego](https://github.com/nandorojo/zeego) - Menus para React (Native) feitos corretamente.
+- [Burnt](https://github.com/nandorojo/burnt) - Brindes crocantes para o React Native.
+- [react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - Reaja a torrada nativa como componente, solução javascript pura
+- [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - Um protocolo de sigilo avançado que funciona em ambientes de mensagens síncronas e assíncronas.
+- [Themis](https://github.com/cossacklabs/themis) - Framework multi-linguagem para tornar os esquemas de criptografia típicos fáceis de usar: dados em repouso, troca de dados autenticada, proteção de transporte, autenticação e assim por diante.
+- [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) - Menu Gaveta Escondida é uma biblioteca para adicionar um belo menu de modo gaveta com animação perspectiva.
+- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) - Gaveta interior é uma maneira fácil de criar uma seção lateral interna (esquerda/direita) onde você pode inserir um menu-lista ou outro.
+- [ARKit Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Colocando objetos virtuais em Realidade Aumentada.
+- [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combina a alta precisão do AR com a escala de dados GPS.
+- [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Grave e capture vídeos, fotos, fotos ao vivo e GIFs do ARKit.
+- [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - Esta biblioteca usa o rastreamento de rostos do ARKit para pegar o sorriso de um usuário.
+- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) - Plugin Flutter - FancyBottomNavigation
+- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) - Navegação circular de baixo é uma biblioteca de navegação inferior para flutuar com indicador circular e animações legais.
+- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) - Uma bela e animada navegação de fundo
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) - Uma bela e simples barra de navegação inferior com animação suave ao mudar o item selecionado.
+- [Google Nav Bar](https://github.com/sooxt98/google_nav_bar) - Um bar de navegação moderno no Google para o Flutter.
+- [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Fácil de usar a biblioteca OAuth 2 para iOS, escrita em Swift.
+- [OAuth2](https://github.com/p2/OAuth2) - Framework OAuth2 para MacOS e iOS, escrito em Swift.
+- [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Biblioteca OAuth baseada em Swift para iOS
+- [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - ReCapta visível para iOS.
+- [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - Uma simples biblioteca OAuth para iOS com um conjunto integrado de provedores.
+- [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) - Uma implementação de material elástico para Flutter.
+- [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) - Material, Cupertino ou seu próprio estilo.
+- [NoPaginate](https://github.com/NoNews/NoPaginate) - Biblioteca simples de paginação Android
+- [ActionBarSherlock](http://actionbarsherlock.com/) - ActionBar para versões mais antigas de Android.
+- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Efeito de barra de ação que pode ser visto no novo aplicativo Play Music.
+- [RangeSlider](https://github.com/boeledi/RangeSlider) - RangeSlider Widget para Flutter
+- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) - Um controle deslizante de design fluido que funciona como o material Slider widget.
+- [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) - Um controle deslizante de design e controle deslizante com suporte rtl e muitas opções e personalização para flutter
+- [react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) - Substitua o React Native's TextInput com formatação Markdown.
+- [react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) - Reaja nativo 100% compatível com CommonMark renderer
+- [react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - Um componente para reação-nativo que faz urls, links fuzzy, e-mails etc clicáveis
+- [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf) - Converta strings html para documentos PDF usando React Native
+- [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontsize) - Fonte responsiva Tamanho baseado no tamanho da tela do dispositivo em React-Native
+- [BitcoinKit](https://github.com/yenom/BitcoinKit) - Kit de ferramentas do protocolo Bitcoin para Swift, BitcoinKit implementa o protocolo Bitcoin em Swift.
+- [EthereumKit](https://github.com/yuzushioh/EthereumKit) - EthereumKit é uma estrutura livre, de código aberto Swift para interagir facilmente com o Ethereum.
+- [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Biblioteca Web3 para interagir com o Blockchain de Ethereum.
+- [web3swift](https://github.com/web3swift-team/web3swift) - Elegante funcionalidade Web3js em Swift.
+- [Offline](https://github.com/jogboms/flutter_offline) - Um utilitário arrumado para lidar com conectividade offline/online como um chefe
+- [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - Um pacote Flutter que constrói uma lista e notifica quando os widgets estão na tela.
+- [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) - Plug-in Flutter que permite mostrar suas características na aplicação Flutter.
+- [Mix](https://github.com/leoafarias/mix) - Um sistema de estilo para Flutter
+- [Blurhash](https://github.com/fluttercommunity/flutter_blurhash) - Codifique uma imagem embaçada abaixo de 30 caracteres para exibição instantânea, como a usada pela Medium.
+- [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - Uma poderosa biblioteca de câmeras nativas.
+- [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - Um módulo nativo de React que permite que você use UI nativa para selecionar mídia da biblioteca do dispositivo ou diretamente da câmera.
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android escolhedor de imagens com suporte para câmera, vídeo, compressão configurável, múltiplas imagens e corte
+- [react-native-camera-kit](https://github.com/teslamotors/react-native-camera-kit) - Um alto desempenho, fácil de usar, biblioteca de câmera sólida para aplicativos React Native.
+- [react-native-image-resizer](https://github.com/bamlab/react-native-image-resizer) - Redimensione as imagens locais com React Native.
+- [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) - Botão de ação flutuante com discagem rápida
+- [Slidable](https://github.com/letsar/flutter_slidable) - Uma implementação Flutter de um item deslizável da lista com ações direcionais.
+- [Backdrop](https://github.com/fluttercommunity/backdrop) - Implementação de fundo em Flutter.
+- [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - Um componente para reagir-nativo.
+- [react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - O melhor reprodutor de áudio para o React Native, construído na Nova Arquitetura: Android Auto, caching, pré-carregamento, reprodução de fundo e muito mais.
+- [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) - Motor de áudio de alto desempenho para reação-nativo
+- [react-native-sound](https://github.com/zmxv/react-native-sound) - Reagir módulo nativo para tocar clipes de som
+- [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - O módulo WebRTC para Reagir Nativo
+- [Crescento](https://github.com/developer-shivam/crescento) - Explore um novo estilo em design de material, adicionando curva abaixo da visão da imagem.
+- [android-crop](https://github.com/jdamcd/android-crop) - Projeto de biblioteca para cortar imagens.
+- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Vista personalizada para imagens circulares, mantendo o melhor desempenho de desenho.
+- [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Projeto de biblioteca para aplicar filtros de imagem facilmente.
+- [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor é uma biblioteca de compressão de imagens android leve e poderosa.
+- [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - Biblioteca para exibir imagens em diferentes formas.
+- [react-native-maps](https://github.com/react-native-maps/react-native-maps) - Reagir componente nativo Mapview para iOS + Android
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - Um módulo nativo para criar mapas personalizados.
+- [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) - Sofisticado, consciente da bateria de fundo, localização com movimento-detecção
+- [react-native-map-link](https://github.com/tschoffelen/react-native-map-link) - Abra o aplicativo de mapa da escolha do usuário.
+- [react-native-google-places-autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Google Places personalizável componente autocompleto para iOS e Android React-Native apps
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) - Item de calendário para o Flutter
+- [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) - Ele pode ajudá-lo a construir seu próprio widget de calendário altamente personalizável.
+- [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) - Altamente personalizável, widget de calendário para Flutter
+- [Time Planner](https://github.com/Jamalianpour/time_planner) - Um planejador de tempo para o Flutter mostrar a tarefa na mesa.
+- [Inject](https://github.com/krzysztofzablocki/Inject) - Recarregando quente para aplicações Swift
+- [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Injecção de código incluindo Swift.
+- [Vaccine](https://github.com/zenangst/Vaccine) - A vacina é uma estrutura que visa tornar seus aplicativos imunes à recompilação.
+- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FlutuandoLabel permite que você crie um tipo de golpe EditText.
+- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Suportando etiquetas flutuantes, elipse de linha única, caracteres Max/Min, texto auxiliar e texto de erro com cores personalizadas.
+- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) - Adiciona emoticons ao seu aplicativo.
+- [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Barra de pesquisa de materiais para Android
+- [InputMask](https://github.com/RedMadRobot/input-mask-android) - Entrada de usuário baseada em padrões, formatação, analisador e validador.
+- [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - Senha EditText que permite o botão personalizado alternar
+- [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) - Um kit de ferramentas da interface com a infraestrutura, construa sua interface dinâmica com Json, e o formato json é muito similar com código widget.
+- [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) - Três indicadores de pontos materiais para os pagers.
+- [BCColor](https://github.com/boycechang/BCColor) - Um kit de cores leve, mas poderoso (Swift).
+- [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - Uma intuitiva escolha de cores iOS construída em Swift.
+- [Colours](https://github.com/bennyguitar/Colours) - Um belo conjunto de cores predefinidas e um conjunto de métodos de cor para tornar sua vida de desenvolvimento iOS/MacOS mais fácil.
+- [Picasso](https://github.com/square/picasso) - Uma poderosa biblioteca de download e cache para Android.
+- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Assíncrono, fora da caixa carregando e caching de imagens.
+- [Glide](https://github.com/bumptech/glide) - Uma biblioteca de carregamento e cache para Android focada em rolagem suave, recomendada pelo Google.
+- [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - Um seletor de imagens (também com vídeo e áudio) para projetos Flutter baseados na interface do WeChat.
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) <sub>49 links · licença CC0-1.0</sub>
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) <sub>48 links · licença sem-licenca</sub>
-- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) <sub>49 links · licença MIT</sub>
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) <sub>48 links · licença sem-licenca</sub>
-- [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) <sub>0 links · licença MIT</sub>
-- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) <sub>48 links · licença MIT</sub>
+- [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) <sub>🔗 61 · ⚖️ CC0-1.0</sub>
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) <sub>🔗 62 · ⚖️ sem-licenca</sub>
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) <sub>🔗 1 · ⚖️ MIT</sub>
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) <sub>🔗 64 · ⚖️ sem-licenca</sub>
+- [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) <sub>🔗 13 · ⚖️ MIT</sub>
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) <sub>🔗 71 · ⚖️ MIT</sub>
 
 ---
 [⬆️ Voltar ao topo](#-mobile) · [← Tecnologia e Desenvolvimento](README.md)

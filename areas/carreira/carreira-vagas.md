@@ -1,59 +1,62 @@
 # 💼 Carreira e Vagas
 
-> Vagas, currículo, entrevistas, roadmaps de carreira e salários. **209 links** nesta área: 20 essenciais escolhidos a dedo, 39 de inteligência artificial e 150 reunidos de 11 listas curadas.
+> Vagas, currículo, entrevistas, roadmaps de carreira e salários. **209 links** nesta área: 20 essenciais escolhidos a dedo, 39 de inteligência artificial e 150 reunidos de 10 listas curadas.
 
-[← 🧭 Carreira e Produtividade](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🧭 Carreira e Produtividade](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/carreira/carreira-vagas.md) · 🇪🇸 [Español](../../i18n/es/areas/carreira/carreira-vagas.md) · 🇨🇳 [中文](../../i18n/zh/areas/carreira/carreira-vagas.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/carreira/carreira-vagas.md) · 🇸🇦 [العربية](../../i18n/ar/areas/carreira/carreira-vagas.md) · 🇫🇷 [Français](../../i18n/fr/areas/carreira/carreira-vagas.md) · 🇮🇹 [Italiano](../../i18n/it/areas/carreira/carreira-vagas.md) · 🇰🇷 [한국어](../../i18n/ko/areas/carreira/carreira-vagas.md) · 🇷🇺 [Русский](../../i18n/ru/areas/carreira/carreira-vagas.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/carreira/carreira-vagas.md) · 🇯🇵 [日本語](../../i18n/ja/areas/carreira/carreira-vagas.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>20</sub> <br>
 [🤖 IA para Carreira e Vagas](#-ia-para-carreira-e-vagas) <sub>39</sub> <br>
-[◾ Aumentando o network](#-aumentando-o-network) <sub>12</sub> <br>
-[◾ Blockchain](#-blockchain) <sub>12</sub> <br>
-[◾ Empresas](#-empresas) <sub>8</sub> <br>
-[◾ A - c](#-a---c) <sub>6</sub> <br>
-[◾ Android](#-android) <sub>6</sub> <br>
-[◾ AngularJS](#-angularjs) <sub>6</sub> <br>
-[◾ D - f](#-d---f) <sub>6</sub> <br>
-[◾ LinkedIn](#-linkedin) <sub>6</sub> <br>
-[◾ Programming Language](#-programming-language) <sub>6</sub> <br>
-[◾ Projetos](#-projetos) <sub>6</sub> <br>
-[◾ Web Development](#-web-development) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>70</sub> <br>
+[🚀 EMPRESAS](#-empresas) <sub>11</sub> <br>
+[🌐 Aumentando o network](#-aumentando-o-network) <sub>10</sub> <br>
+[⛓️ Blockchain](#️-blockchain) <sub>6</sub> <br>
+[🕸️ JavaScript](#️-javascript) <sub>6</sub> <br>
+[🔷 LinkedIn.](#-linkedin) <sub>6</sub> <br>
+[🗣️ Linguagem de Programação](#️-linguagem-de-programação) <sub>6</sub> <br>
+[🗂️ Projetos](#️-projetos) <sub>6</sub> <br>
+[🕸️ Desenvolvimento Web](#️-desenvolvimento-web) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>93</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
+> Os essenciais de Carreira e Vagas, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
 - [LinkedIn Vagas](https://www.linkedin.com/jobs/) - Busca de vagas da maior rede profissional, com alertas e candidatura simplificada.
-- [Portal Gupy](https://portal.gupy.io/) - Portal com as vagas de milhares de empresas brasileiras que recrutam pela Gupy. <sub>pt-BR</sub>
-- [Glassdoor Brasil](https://www.glassdoor.com.br/) - Vagas, avaliações de empresas e faixas salariais informadas por funcionários. <sub>pt-BR</sub>
-- [Indeed Brasil](https://br.indeed.com/) - Buscador de vagas que agrega anúncios de vários sites e empresas. <sub>pt-BR</sub>
-- [Catho](https://www.catho.com.br/) - Site brasileiro de vagas com cadastro de currículo e guias de salário. <sub>pt-BR</sub>
-- [InfoJobs](https://www.infojobs.com.br/) - Portal brasileiro de vagas com avaliações de empresas e comparador salarial. <sub>pt-BR</sub>
-- [Vagas.com.br](https://www.vagas.com.br/) - Plataforma brasileira de recrutamento com milhões de currículos e vagas. <sub>pt-BR</sub>
-- [ProgramaThor](https://programathor.com.br/) - Vagas para desenvolvedores no Brasil, com filtro por stack e senioridade. <sub>pt-BR</sub>
-- [GeekHunter](https://www.geekhunter.com/pt) - Plataforma brasileira de recrutamento focada em profissionais de tecnologia. <sub>pt-BR</sub>
-- [Trampos](https://trampos.co/) - Vagas brasileiras em comunicação, design, marketing e tecnologia. <sub>pt-BR</sub>
-- [CIEE](https://portal.ciee.org.br/) - Vagas de estágio e aprendiz em todo o Brasil, além de cursos gratuitos. <sub>pt-BR</sub>
-- [Nube](https://www.nube.com.br/) - Portal de estágios, aprendizes e trainees com dicas de carreira. <sub>pt-BR</sub>
-- [Front-end Brasil Vagas](https://github.com/frontendbr/vagas/issues) - Vagas de front-end publicadas como issues pela comunidade brasileira. <sub>pt-BR · comunidade</sub>
-- [Backend Brasil Vagas](https://github.com/backend-br/vagas/issues) - Vagas de back-end publicadas como issues pela comunidade brasileira. <sub>pt-BR · comunidade</sub>
+- [Portal Gupy](https://portal.gupy.io/) - Portal com as vagas de milhares de empresas brasileiras que recrutam pela Gupy. <sub>🇧🇷 pt-BR</sub>
+- [Glassdoor Brasil](https://www.glassdoor.com.br/) - Vagas, avaliações de empresas e faixas salariais informadas por funcionários. <sub>🇧🇷 pt-BR</sub>
+- [Indeed Brasil](https://br.indeed.com/) - Buscador de vagas que agrega anúncios de vários sites e empresas. <sub>🇧🇷 pt-BR</sub>
+- [Catho](https://www.catho.com.br/) - Site brasileiro de vagas com cadastro de currículo e guias de salário. <sub>🇧🇷 pt-BR</sub>
+- [InfoJobs](https://www.infojobs.com.br/) - Portal brasileiro de vagas com avaliações de empresas e comparador salarial. <sub>🇧🇷 pt-BR</sub>
+- [Vagas.com.br](https://www.vagas.com.br/) - Plataforma brasileira de recrutamento com milhões de currículos e vagas. <sub>🇧🇷 pt-BR</sub>
+- [ProgramaThor](https://programathor.com.br/) - Vagas para desenvolvedores no Brasil, com filtro por stack e senioridade. <sub>🇧🇷 pt-BR</sub>
+- [GeekHunter](https://www.geekhunter.com/pt) - Plataforma brasileira de recrutamento focada em profissionais de tecnologia. <sub>🇧🇷 pt-BR</sub>
+- [Trampos](https://trampos.co/) - Vagas brasileiras em comunicação, design, marketing e tecnologia. <sub>🇧🇷 pt-BR</sub>
+- [CIEE](https://portal.ciee.org.br/) - Vagas de estágio e aprendiz em todo o Brasil, além de cursos gratuitos. <sub>🇧🇷 pt-BR</sub>
+- [Nube](https://www.nube.com.br/) - Portal de estágios, aprendizes e trainees com dicas de carreira. <sub>🇧🇷 pt-BR</sub>
+- [Front-end Brasil Vagas](https://github.com/frontendbr/vagas/issues) - Vagas de front-end publicadas como issues pela comunidade brasileira. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
+- [Backend Brasil Vagas](https://github.com/backend-br/vagas/issues) - Vagas de back-end publicadas como issues pela comunidade brasileira. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
 - [roadmap.sh](https://roadmap.sh/) - Roadmaps de estudo e carreira por cargo e tecnologia, mantidos pela comunidade.
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Guia gratuito de preparação para entrevistas técnicas, do currículo à negociação.
 - [LeetCode](https://leetcode.com/) - Exercícios de algoritmos usados para treinar entrevistas de programação.
 - [Levels.fyi](https://www.levels.fyi/) - Dados de salários e níveis por empresa e cargo, úteis para negociar.
 - [Reactive Resume](https://rxresu.me/) - Editor de currículo gratuito e de código aberto, sem anúncios.
-- [Canva Currículos](https://www.canva.com/pt_br/curriculos/modelos/) - Modelos de currículo editáveis online, com exportação em PDF. <sub>pt-BR</sub>
+- [Canva Currículos](https://www.canva.com/pt_br/curriculos/modelos/) - Modelos de currículo editáveis online, com exportação em PDF. <sub>🇧🇷 pt-BR</sub>
 
 ## 🤖 IA para Carreira e Vagas
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com carreira e vagas. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Carreira e Vagas. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
-- [IA para seu novo emprego: do currículo à entrevista (Fundação Bradesco)](https://www.ev.org.br/cursos/iaempregos) - Curso gratuito de 2 horas, em português e com certificado, sobre usar IA para revisar currículo, perfil no LinkedIn, palavras-chave e preparação para entrevistas. <sub>pt-BR · curso</sub>
-- [FluêncIA em Inteligência Artificial (Fundação Bradesco + Microsoft)](https://www.ev.org.br/cursos/fluencia) - Curso gratuito de 4 horas, em português, com os fundamentos de IA generativa para o trabalho; bom ponto de partida para qualquer profissão. <sub>pt-BR · curso</sub>
-- [Orientação da Anthropic sobre uso de IA por candidatos](https://www.anthropic.com/candidate-ai-guidance) - Exemplo de regra clara de empresa: IA pode ajudar a revisar a candidatura e a se preparar, mas não pode ser usada em testes e entrevistas ao vivo sem permissão; leia as regras de cada processo seletivo.
+- [IA para seu novo emprego: do currículo à entrevista (Fundação Bradesco)](https://www.ev.org.br/cursos/iaempregos) - Curso gratuito de 2 horas, em português e com certificado, sobre usar IA para revisar currículo, perfil no LinkedIn, palavras-chave e preparação para entrevistas. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [FluêncIA em Inteligência Artificial (Fundação Bradesco + Microsoft)](https://www.ev.org.br/cursos/fluencia) - Curso gratuito de 4 horas, em português, com os fundamentos de IA generativa para o trabalho; bom ponto de partida para qualquer profissão. <sub>🎓 curso · 🇧🇷 pt-BR</sub>
+- [Orientação da Anthropic sobre uso de IA por candidatos](https://www.anthropic.com/candidate-ai-guidance) - Exemplo de regra clara de empresa: IA pode ajudar a revisar a candidatura e a se preparar, mas não pode ser usada em testes e entrevistas ao vivo sem permissão; leia as regras de cada processo… <sub>📖 documentação</sub>
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Ferramenta de código aberto que compara o currículo com a descrição da vaga e sugere ajustes; roda localmente com Ollama, sem enviar seus dados a terceiros.
 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - Editor de currículo gratuito e de código aberto, auto-hospedável, com integração opcional a modelos de IA (OpenAI, Gemini, Claude) para revisar textos.
 - [Jobscan](https://www.jobscan.co) - Verificador de currículo contra sistemas de triagem (ATS) que compara palavras-chave com a vaga; tem uso gratuito limitado e plano pago.
@@ -61,240 +64,248 @@
 - [Roadmap de AI Engineer (roadmap.sh)](https://roadmap.sh/ai-engineer) - Roteiro gratuito e interativo, passo a passo, para quem quer migrar a carreira para engenharia de IA.
 - [aijobs.net](https://aijobs.net) - Quadro de vagas focado em IA, aprendizado de máquina e ciência de dados, com filtros por remoto e localização.
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Anota AI](https://anota.ai/home/) - Node.js, Express, Mongo DB
-- [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
-- [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - Production-aware AI agent roadmap covering MCP, memory, RAG, workflows, evaluation, safety, and multi-agent systems.
-- [Gemini](https://gemini.com/careers) - New York, NY | Phone chat. Take-home project, discussion on-site. Questions on prior experiences and culture fit
-- [AI Applyd](https://aiapplyd.com/) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
-- [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - Systematic AI agent development roadmap covering LLM agents, RAG, tool use, memory, LangGraph, MCP, multi-agent systems, and agentic RL.
-- [KUNGFU.AI](https://www.kungfu.ai/) - Remote; Austin, TX | 30-40 minute recruiter screen, 30 minute hiring manager screen, 1.5 hour final interview (discussion only, no coding or whiteboarding).
-- [Resume Roaster](https://resume.roastlabai.com/) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
-- [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Agentic AI curriculum focused on building production-grade LangGraph systems and supporting resources.
-- [Signal AI](https://signal-ai.com/) - London, UK | Phone screen; take home code exercise; on-site code extension with pair programming and discussion
-- [ResumeOrbitz](https://resumeorbitz.com/) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
-- [Agentic Engineering Handbook](https://github.com/keyuchen21/agentic-engineering-handbook) - Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems.
-- [Tara AI](https://tara.ai/about/careers) - San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
-- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
-- [AI Engineer Roadmap](https://github.com/dswh/ai-engineer-roadmap) - AI engineering roadmap focused on LLM applications, RAG, agents, and LLMOps.
-- [Wells Fargo (Technology Program)](https://www.wellsfargojobs.com/en/university-programs/undergraduate-programs/) - San Francisco, CA; Charlotte, NC; Des Moines, IA; Minneapolis, MN; Phoenix, AZ; St. Louis, MO | One round , Behavioral + One simple System Design Question + Questions for your resume
-- [AI Dev Jobs](https://aidevboard.com/) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
-- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Artificial intelligence roadmap covering theory, tools, and hands-on practice.
-- [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
-- [AI Agents in Depth](https://github.com/bojieli/ai-agent-book) - Open-source book on AI agent design and engineering, with bilingual (Chinese/English) text and per-chapter code covering context engineering, tools, evaluation, and multi-agent systems.
-- [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
-- [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Anthropic engineering article covering practical patterns for workflows, autonomous agents, evaluation, and agent-computer interfaces.
-- [ExploreJobs.ai](https://explorejobs.ai/) - Find engineering, product, and research roles at the top AI startups.
-- [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) - Anthropic engineering article explaining context engineering strategies for long-running AI agents.
-- [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
-- [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) - Beginner-friendly 12-week artificial intelligence curriculum with 24 ordered lessons, quizzes, labs, and practical notebooks covering symbolic AI, deep learning, computer vision, NLP, reinforcement learning, and AI ethics.
-- [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
-- [AI, Governance & GTM Career Roadmaps](https://github.com/Hardik-369/ROADMAP) - Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles.
-- [Index.dev](https://index.dev/) - AI-powered platform for software talent.
-- [Deep Learning Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Reading roadmap through influential deep learning papers.
+- [Anota AI](https://anota.ai/home/) - Node.js, Expresso, Mongo DB
+- [CVExpert](https://cvexpert.com/) - Treinador de carreira assistido por IA, alfaiataria CV, rastreamento de emprego, revisão de aplicativos e redes em um espaço de trabalho.
+- [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - Roteiro do agente de IA consciente da produção cobrindo MCP, memória, RAG, fluxos de trabalho, avaliação, segurança e sistemas multi-agentes.
+- [AI Applyd](https://aiapplyd.com/) - Submete-se na página de carreiras do empregador e reporta o status que a ATS devolve, incluindo falhas.
+- [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - Roteiro de desenvolvimento de agentes de IA sistemáticos cobrindo agentes LLM, RAG, uso de ferramentas, memória, LangGraph, MCP, sistemas multi-agentes e RL agente.
+- [Resume Roaster](https://resume.roastlabai.com/) - A IA continua com a pontuação da ATS que classifica seu currículo contra uma descrição de trabalho e indica palavras-chave faltando.
+- [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - O currículo de IA agente se concentrava em construir sistemas LangGraph e recursos de suporte.
+- [ResumeOrbitz](https://resumeorbitz.com/) - Construtor gratuito de currículos com conteúdo gerado por IA, um verificador de pontuação ATS, e mais 150 modelos, sem paywall ou marca d'água.
+- [Agentic Engineering Handbook](https://github.com/keyuchen21/agentic-engineering-handbook) - Roteiro de engenharia e manual cobrindo MCP, arreios, avaliações, agentes codificadores e sistemas de agentes de produção.
+- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/) - Jobboard para engenheiros construindo sistemas de engenharia, agentes de IA, produtos movidos a LLM, orquestração de agentes, livre para postar e navegar.
+- [AI Engineer Roadmap](https://github.com/dswh/ai-engineer-roadmap) - Roteiro de engenharia de IA focado em aplicações LLM, RAG, agentes e LLMOps.
+- [AI Dev Jobs](https://aidevboard.com/) - O conselho de trabalho especializado para desenvolvedores de IA/ML. Mais de 5000 papéis com dados salariais e uma API REST para agentes.
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roteiro de inteligência artificial cobrindo teoria, ferramentas e prática.
+- [AI Jobs](https://www.moaijobs.com/) - Encontrar um emprego em uma empresa de IA de ponta, filtrar por título, localização, empresa, etc.
+- [AI Agents in Depth](https://github.com/bojieli/ai-agent-book) - Livro de código aberto sobre design e engenharia de agentes de IA, com texto bilíngue (chinês/inglês) e código por capítulo cobrindo engenharia de contexto, ferramentas, avaliação e sistemas…
+- [AI Tech Suite](https://www.aitechsuite.com/jobs) - Ferramentas de IA e agregadores de empregos com mais de 20 mil ferramentas e 5 mil trabalhos, atualizados diariamente.
+- [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Artigo de engenharia antrópica cobrindo padrões práticos para fluxos de trabalho, agentes autônomos, avaliação e interfaces agente-computador.
+- [ExploreJobs.ai](https://explorejobs.ai/) - Encontre papéis de engenharia, produto e pesquisa nas melhores empresas de IA.
+- [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) - Um artigo de engenharia antrópica explicando estratégias de engenharia contextual para agentes de IA.
+- [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Cursos de IA, avaliação e papéis de especialista em domínios (referências da Mercor) 100% remotos, contratos por hora ($23-$180/hr).
+- [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) - Curriculum de inteligência artificial de 12 semanas com 24 aulas encomendadas, testes, laboratórios e cadernos práticos cobrindo IA simbólica, aprendizagem profunda, visão computacional, NLP…
+- [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs na América do Norte ao seu alcance.
+- [AI, Governance & GTM Career Roadmaps](https://github.com/Hardik-369/ROADMAP) - Roteiros de emprego com orçamento zero para engenheiros de IA, especialistas em governança e GTM.
+- [Index.dev](https://index.dev/) - Plataforma com tecnologia de inteligência artificial para talentos de software.
+- [Deep Learning Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Lendo roteiro através de documentos influentes de aprendizagem profunda.
+- [Jobless](https://www.jobless.dev/) - Busca de emprego com I.A. com listagens 1M+, esquema de postagem e correspondência grátis.
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Curso gratuito de agentes de IA cobrindo os fundamentos do agente, smolagents, LangGraph, LlamaIndex, casos de uso e desafios de avaliação.
+- [Jobs in Next Tech](https://jobsinnexttech.com/) - Mercado de rede para o trabalho técnico da próxima geração em IA, Flutter, cripto, quântico, XR, sextech, Rust e jogos.
+- [LLM Course](https://github.com/mlabonne/llm-course) - Curso de LLM grátis com progressão em estilo roadmap e cadernos Colab práticos.
+- [TaskFavour](https://www.taskfavour.com/) - Plataforma de busca e alerta para empregos autônomos, remotos e oportunidades em tempo integral.
 
-## ◾ Aumentando o network
+## 🚀 EMPRESAS
 
-- [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos <sub>pt-BR</sub>
-- [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
-- [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord <sub>comunidade</sub>
-- [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord <sub>comunidade</sub>
-- [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
-- [Dev.to](https://dev.to/) - Rede social para desenvolvedores
-- [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
-- [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram <sub>comunidade</sub>
-- [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
-- [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação. <sub>pt-BR · comunidade</sub>
-- [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- [Comunidade PerifaCode](https://perifacode.com/)
-
-## ◾ Blockchain
-
-- [Workew Crypto Jobs](https://workew.com/crypto-jobs/) - Crypto and Blockchain roles.
-- [web3vacancy](https://web3vacancy.com/) - Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
-- [PredictionJobs](https://predictionjobs.co/) - Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
-- [Crypto Jobs List](https://cryptojobslist.com/)
-- [Jobs in Crypto](https://jobsincrypto.xyz/) - Marketplace for crypto, Web3, and onchain roles.
-- [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
-- [ChainJobs](https://chainjobs.io/) - Crypto, Web3 and Blockchain roles aggregated daily from companies' official careers pages; every listing links to the employer's own application page.
-- [Blockchain Works](https://blockchain.works-hub.com/)
-- [Maneki](https://maneki.work/) - Web3 jobs from 500+ companies' career pages, refreshed nightly; normalized salary data, remote filters, expired listings removed automatically.
-- [Web3 Jobs](https://web3.career/)
-- [Remote Web3 Jobs](https://www.remote3.co/)
-- [My Web3 Jobs](https://myweb3jobs.com/)
-
-## ◾ Empresas
+> 11 links de EMPRESAS em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
 - [3WFacoty.Tech! Fábrica de Software e SaaS](https://3wfactory.tech/) - Curitiba, PR
-- [ACERTA! Crédito Fácil](https://acertapromotora.com.br/) - Santo Cristo, RS <sub>pt-BR</sub>
-- [AFYA](https://afya.com.br/) - São Paulo, SP <sub>pt-BR</sub>
+- [ACERTA! Crédito Fácil](https://acertapromotora.com.br/) - Santo Cristo, RS <sub>🇧🇷 pt-BR</sub>
+- [AFYA](https://afya.com.br/) - São Paulo, SP <sub>🇧🇷 pt-BR</sub>
 - [AME Digital](https://www.amedigital.com/) - São Paulo, SP
-- [Andra Sistemas](https://andrasistemas.com.br/) - Campinas, SP <sub>pt-BR</sub>
-- [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) - São Paulo, SP <sub>pt-BR</sub>
+- [Andra Sistemas](https://andrasistemas.com.br/) - Campinas, SP <sub>🇧🇷 pt-BR</sub>
+- [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) - São Paulo, SP <sub>🇧🇷 pt-BR</sub>
 - [AQUARELA](https://aquarela.studio/) - Salvador, BA
 - [Accenture](https://www.accenture.com/br-pt/careers/recife) - São Paulo, SPRecife, PE
+- [AgendaEdu](https://agendaedu.com/) - Fortaleza, CE
+- [Agile Content](https://www.agilecontent.com/) - São Paulo, SP
+- [Agilize Contabilidade Online](https://www.agilize.com.br/) - Salvador, BA <sub>🇧🇷 pt-BR</sub>
 
-## ◾ A - c
+## 🌐 Aumentando o network
 
-- [Aalyria](https://ats.rippling.com/aalyria-careers/jobs) - Remote | Timeboxed design exercise and related coding exercise, followed by a technical/behavioral discussion with the team, and behavioral interview with leadership
-- [Able](https://able.co/careers) - Lima, PE / Remote | Coding interview, Technical interview (Backlog Refinement + System Design), Leadership interview (Behavioural)
-- [Abstract](https://www.abstract.com/) - San Francisco, CA
-- [Accenture](https://www.accenture.com/us-en/careers) - San Francisco, CA / Los Angeles, CA / New York, NY / Kuala Lumpur, Malaysia | Technical phone discussion with architecture manager, followed by behavioral interview focusing on soft skills
-- [Accredible](https://www.accredible.com/careers) - Cambridge, UK / San Francisco, CA / Remote | Take home project, then a pair-programming and discussion onsite / Skype round.
-- [Acko](https://www.acko.com/careers) - Mumbai, India | Phone interview, followed by a small take home problem. Finally a F2F or skype pair programming session
+> 10 links de Aumentando o network em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
-## ◾ Android
+- [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos <sub>🇧🇷 pt-BR</sub>
+- [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
+- [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord <sub>👥 comunidade</sub>
+- [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord <sub>👥 comunidade</sub>
+- [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discórdia
+- [Dev.to](https://dev.to/) - Rede social para desenvolvedores
+- [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
+- [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram <sub>👥 comunidade</sub>
+- [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
+- [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação. <sub>👥 comunidade · 🇧🇷 pt-BR</sub>
 
-- [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
-- [20 Essential Android Interview Questions from Toptal](http://www.toptal.com/android/interview-questions)
-- [25 Essential Android Interview Questions from Adeva](https://adevait.com/android/interview-questions)
-- [A couple of Android questions posted by Quora users](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer)
-- [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
-- [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
+## ⛓️ Blockchain
 
-## ◾ AngularJS
+> 6 links de Blockchain em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
-- [12 Essential AngularJS Interview Questions from Toptal](http://www.toptal.com/angular-js/interview-questions)
-- [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam)
-- [29 AngularJS Interview Questions – Can You Answer Them All? Great Article from Codementor](https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers)
-- [AngularJS interview questions and answers for experienced developers](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html)
-- [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
-- [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
+- [Workew Crypto Jobs](https://workew.com/crypto-jobs/) - Crypto e Blockchain papéis.
+- [web3vacancy](https://web3vacancy.com/) - O Conselho Cripto-Nativo agrega mais de 2.400 papéis da DeFi, L2s, carteiras e empresas de infraestrutura.
+- [PredictionJobs](https://predictionjobs.co/) - Conselho de trabalho para a previsão do espaço de mercado, com papéis no Polymarket, Kalshi etc.
+- [Jobs in Crypto](https://jobsincrypto.xyz/) - Mercado para cripto, Web3 e papéis de cadeia.
+- [ChainJobs](https://chainjobs.io/) - Crypto, Web3 e Blockchain papéis agregados diariamente das páginas oficiais de carreiras das empresas; cada listagem links para a própria página de inscrição do empregador.
+- [Maneki](https://maneki.work/) - Empregos na Web3 de mais de 500 páginas de carreira das empresas, atualizados todas as noites; dados salariais normalizados, filtros remotos, listas expiradas removidas automaticamente.
 
-## ◾ D - f
+## 🕸️ JavaScript
 
-- [Dare](https://www.dare.global/careers/) - London, UK | Phone screen, On-site (or remote) pair programming and architecture discussions
-- [Data Theorem](https://www.datatheorem.com/) - Palo Alto, CA; Paris, Fr; London, United Kingdom; Remote | Phone interview, then a take home project and finally in-person interview.
-- [DataChef](https://datachef.co/) - Amsterdam, Netherlands | Video call (technical questions about candidate's achievements), take home assignment, cultural fit zoom or face to face with rest of the team.
-- [DataMade](https://datamade.us/) - Chicago, IL | After submitting an application, selected applicants are moved on to a round of interviews and will be asked to submit a piece of code for review. If you don’t have any code you can share, DataMade will provide a short exercise for you to complete. An in-person (or remote)…
-- [Def Method](https://www.defmethod.com/) - NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
-- [Delivery Much](https://carreiras.deliverymuch.com.br/) - Florianópolis, Brazil & Remote | On-site (and/or remote) interviews about the company and the opening, with a short take-home project for leveling. <sub>pt-BR</sub>
+> 6 links de JavaScript em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
-## ◾ LinkedIn
+- [Practice common algorithms using JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript) - Resolução de algoritmos em Javascript.
+- [123 Essential JavaScript Interview Question](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question) - Entrevista JavaScript, perguntas.
+- [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises) - Alguns desafios básicos de código javascript e perguntas de entrevista
+- [Some JavaScript interview exercises](https://github.com/csvenja/javascript-exercises) - Exercícios de entrevista JavaScript
+- [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide) - O guia de entrevista MEGA, JavaScirupt, Front End, Comp Sci
+- [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges) - Uma coleção de desafios de código de entrevista moderna JavaScript para iniciantes para especialistas
 
-- [Ryan Peterman](https://www.linkedin.com/in/ryanlpeterman/) - Author of "The Developing Dev" newsletter
-- [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/) - Author of "High Growth Engineer" newsletter
-- [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/) - Author of "The Pragmatic Engineer" newsletter
-- [Addy Osmani](https://www.linkedin.com/in/addyosmani/) - Author of "Peak Performance" newsletter and Engineering leader at Google
-- [Alex Chiou](https://www.linkedin.com/in/alexander-chiou/) - Co-founder of Taro
-- [Rahul Pandey](https://www.linkedin.com/in/rpandey1234/) - Co-founder of Taro
+## 🔷 LinkedIn.
 
-## ◾ Programming Language
+> 6 links de LinkedIn. em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
-- [C++ Developer Roadmap](https://github.com/salmer/CppDeveloperRoadmap) - C++ learning roadmap with articles, visual maps, and supporting resources.
-- [Go Developer Roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Go developer roadmap covering language fundamentals, tooling, and backend topics.
-- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Java developer roadmap with a current visual learning plan and practice topics.
-- [Node.js Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - Node.js developer roadmap covering fundamentals, tooling, and backend concepts.
-- [PHP Developer Roadmap](https://github.com/thecodeholic/php-developer-roadmap) - PHP roadmap with a visual map and companion video material.
-- [Rust Web Developer Roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Rust web development roadmap covering language basics, frameworks, and deployment.
+- [Ryan Peterman](https://www.linkedin.com/in/ryanlpeterman/) - Autor da newsletter "O Desenvolvimento do Dev"
+- [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/) - Autor do boletim "Engenheiro de Alto Crescimento"
+- [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/) - Autor do boletim "O Engenheiro Pragmático"
+- [Addy Osmani](https://www.linkedin.com/in/addyosmani/) - Autor da newsletter "Peak Performance" e líder de engenharia no Google.
+- [Alex Chiou](https://www.linkedin.com/in/alexander-chiou/) - Co-fundador de Taro
+- [Rahul Pandey](https://www.linkedin.com/in/rpandey1234/) - Co-fundador de Taro
 
-## ◾ Projetos
+## 🗣️ Linguagem de Programação
 
-- [Jose Peleteiro](https://peleteiro.net/) - Isomorphic, Redux, Saga, Material-UI, JSS, Jest, TypeScript
-- [Novatics](https://www.novatics.com.br/) - Expo, Gatsby, React Native, Webpack <sub>pt-BR</sub>
-- [/ Mobills Web /](https://web.mobills.com.br/) - Redux, React Router, Material-UI, Redux Form <sub>pt-BR</sub>
-- [Moeda](https://moedaseeds.com/) - Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
-- [Pagar.me](https://pagar.me/) - CSS Modules, Storybook
-- [Pluks](https://www.pluks.com.br/) - Redux, React Native, Expo <sub>pt-BR</sub>
+> 6 links de Linguagem de Programação em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
-## ◾ Web Development
+- [C++ Developer Roadmap](https://github.com/salmer/CppDeveloperRoadmap) - C++ aprendendo roteiro com artigos, mapas visuais e recursos de apoio.
+- [Go Developer Roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Vá desenvolver roteiro cobrindo os fundamentos da linguagem, ferramentas e tópicos de backend.
+- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roteiro de desenvolvedor Java com um plano visual atual e tópicos de prática.
+- [Node.js Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - Node.js desenvolvimento roadmap cobrindo conceitos fundamentais, ferramentas e backend.
+- [PHP Developer Roadmap](https://github.com/thecodeholic/php-developer-roadmap) - Roteiro PHP com um mapa visual e material de vídeo acompanhante.
+- [Rust Web Developer Roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roteiro de desenvolvimento da Internet Rust cobrindo o básico, frameworks e implantação.
 
-- [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap) - Angular roadmap covering core concepts, tooling, RxJS, state management, and testing.
-- [Angular Developer Roadmap (Alternative)](https://github.com/saifaustcse/angular-developer-roadmap) - Alternative Angular roadmap focused on what to learn next across the ecosystem.
-- [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - ASP.NET Core roadmap with a maintained visual path and multilingual documentation.
-- [Developer Roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides, and educational content for developers.
-- [DevRoadmaps](https://github.com/rudra496/devroadmaps) - Free developer career roadmaps with 17 paths, 800+ topics, and 1700+ curated resources. PWA with offline support.
-- [Frontend Developer Roadmap](https://github.com/Yousha/Frontend-Developer-Roadmap) - Frontend developer roadmap with a visual path across core web technologies, frameworks, and tooling.
+## 🗂️ Projetos
 
-## ◾ Mais links
+> 6 links de Projetos em Carreira e Vagas, reunidos das listas curadas da comunidade.
 
-- [Addison Global - 1](http://www.addisongloballtd.com/) - Java or Scala, Any Framework & REST API
-- [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
-- [AirCall - 1](https://aircall.io/) - HTML, CSS & JS, React
-- [Simplified](https://github.com/yifeikong/reverse-interview-zh) - / Traditional
+- [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) - Reaja papel de folheto para o plugin GoogleMutant
+- [Jose Peleteiro](https://peleteiro.net/) - Isomórfico, Redux, Saga, Material-UI, JSS, Jest, TypeScript
+- [Novatics](https://www.novatics.com.br/) - Expo, Gatsby, Reagir Nativo, Webpack <sub>🇧🇷 pt-BR</sub>
+- [/ Mobills Web /](https://web.mobills.com.br/) - Redux, Roteador de Reacções, Material-UI, Formulário de Redação <sub>🇧🇷 pt-BR</sub>
+- [Moeda](https://moedaseeds.com/) - Gatsby, Recompor, Componentes Estilo, Roteador de Reagir, Redux, GraphQL, Apollo
+- [Pagar.me](https://pagar.me/) - Módulos CSS, livro de histórias
+
+## 🕸️ Desenvolvimento Web
+
+> 6 links de Desenvolvimento Web em Carreira e Vagas, reunidos das listas curadas da comunidade.
+
+- [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap) - Roteiro angular cobrindo conceitos centrais, ferramentas, RxJS, gestão estadual e testes.
+- [Angular Developer Roadmap (Alternative)](https://github.com/saifaustcse/angular-developer-roadmap) - Roteiro Angular Alternativo focado no que aprender a seguir através do ecossistema.
+- [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roteiro do núcleo ASP.NET com um caminho visual mantido e documentação multilingue.
+- [Developer Roadmap](https://github.com/nilbuild/developer-roadmap) - Roteiros interativos, guias e conteúdo educacional para desenvolvedores.
+- [DevRoadmaps](https://github.com/rudra496/devroadmaps) - Roteiros de carreira para desenvolvedores com 17 caminhos, mais de 800 tópicos e mais recursos curadores.
+- [Frontend Developer Roadmap](https://github.com/Yousha/Frontend-Developer-Roadmap) - Roteiro do desenvolvedor Frontend com um caminho visual através das principais tecnologias da web, frameworks e ferramentas.
+
+## 🧺 Mais links
+
+> Links de Carreira e Vagas que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [Addison Global - 1](http://www.addisongloballtd.com/) - Java ou Scala, qualquer framework e API REST
+- [easy-application](https://github.com/j-delaney/easy-application) - Mais de 400 empresas de engenharia de software que são fáceis de aplicar.
+- [AirCall - 1](https://aircall.io/) - HTML, CSS & JS, Reagir
+- [Eventos sobre React](https://github.com/react-brasil/awesome-react-events-br) - Uma lista incrível de eventos do React no Brasil. <sub>📋 lista awesome</sub>
+- [Simplified](https://github.com/yifeikong/reverse-interview-zh) - Tradicional.
 - [Africa's Talking - 1](https://africastalking.com/) - Scala, Regex
-- [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
+- [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Regresso ATS livre verifique que marca seu currículo com uma descrição específica do trabalho.
 - [Ambulnz](http://www.ambulnz.com/) - Git, NPM & Bower
-- [AfterShip - 1](https://www.aftership.com/) - Node.js, PHP, Java or Ruby
-- [Cviya](https://cviya.com/) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
-- [Amaro](https://amaro.com/) - React, Redux, Sass & Webpack
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [AfterShip - 1](https://www.aftership.com/) - Node.js, PHP, Java ou Ruby
+- [Cviya](https://cviya.com/) - Um construtor de currículo totalmente personalizável, sem marcas d'água com suporte nativo à RTL e capacidades multilingues para profissionais globais.
+- [Amaro](https://amaro.com/) - Reagir, Redux, Sass & Webpack
 - [Apolitical](https://apolitical.co/home) - Node.js, Express, Docker
-- [Apiki](https://apiki.com/carreira/) - HTML, CSS & JS, React
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [B2W - 1](https://ri.americanas.io/) - Java or Elixir
-- [B2W](https://ri.b2w.digital/) - Framework JS, Preprocessor CSS & Task Runners
-- [Marathi](https://github.com/Pratik-Khose/reverse-interview/blob/master/translations/Marathi.md)
-- [Bossabox](https://bossabox.com/para-profissionais) - Any Language & Any Framework & Web API
-- [Barato Coletivo](https://www.barato.com.br/) - HTML, JS, CSS, React, Vuejs, Angular <sub>pt-BR</sub>
-- [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Brainn - 2](https://brainn.co/) - Any Language & REST API
-- [Beleza Na Web](http://www.belezanaweb.com.br/) - React, CSS in JS <sub>pt-BR</sub>
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [ClickBus](https://www.clickbus.com.br/) - Java, Spring Boot, REST API <sub>pt-BR</sub>
-- [Buscapé](https://www.buscape.com.br/) - HTML, CSS & JS <sub>pt-BR</sub>
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [CodeRockr](https://coderockr.com/) - Any Language & Any Framework
-- [Chaordic - 2](https://www.chaordic.com.br/) - HTML, SASS, React, Redux <sub>pt-BR</sub>
-- [CodingSans - 1](https://codingsans.com/) - Node.js, Typescript & Koa, Express or Fastify
-- [Ciclic](https://www.ciclic.com.br/) - HTML, CSS & JS <sub>pt-BR</sub>
-- [Creditas](http://creditas.com.br/) - Any Language & Any Framework <sub>pt-BR</sub>
-- [Clima Tempo](http://www.climatempo.com.br/) - NodeJS & PHP <sub>pt-BR</sub>
-- [Cubo Network](https://cubo.network/) - Any Language & Any Framework
-- [Codeby](https://codeby.com.br/) - React, Redux & NodeJS <sub>pt-BR</sub>
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
-- [DevPartner](http://www.devpartner.com.br/) - C-Sharp, Entity Framework, Asp.net & Web API <sub>pt-BR</sub>
-- [Concrete Solutions](https://www.concrete.com.br/) - HTML, CSS & JS <sub>pt-BR</sub>
-- [DinDigital](https://dindigital.io/) - PHP, Laravel, Docker & Rest API
-- [Contabilizei](http://www.contabilizei.com.br/) - Framework JS, Preprocessor CSS & Task Runners <sub>pt-BR</sub>
-- [1000.software](https://www.1000.software/careers) - Krakow, Poland / Remote | Series of 2 interviews first on soft skills, second on technical skills (how to build things, how to solve specific, real world problem, best practice) and meeting with a team leader. Sometimes a take home, simple project.
-- [AI/ML Jobs](https://www.aimljobs.fyi/)
-- [AI Jobster](https://www.aijobster.work/)
-- [FAANG Tech Leads](https://www.faangtechleads.com/) - is currently offering resume templates and examples at 70% off.
-- [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device) - ? Are there any policies around it already?
-- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
-- [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
-- [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating)
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Maintainer and lead engineer for Docusaurus v2, a static site generator which powers the documentation of many of Meta's Open Source Projects - React Native, Jest, Relay, Reason, etc. Used by 7.6k > projects on GitHub.
-- [DataJobs.com](https://datajobs.com/)
-- [Deep Learning Jobs](https://www.deeplearningjobs.com/)
-- [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
-- [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
-- [AiJobsTracker](https://aijobs.18offers.com/)
-- [Online-Utility.org's Text Analyzer](https://www.online-utility.org/text/analyzer.jsp) - to identify regularly used keywords
-- [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
-- [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
-- [interviewing.io](https://iio.sh/r/DMCa) - is currently the best mock technical interview resource in the market. It allows you to book mock coding interviews with real Google and Facebook engineers, albeit anonymously. You could even book interviews for specific roles like Mobile, Front End, Engineering Management. Even better - if you…
-- [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) - This is a new System Design course by Alex Xu, author of the System Design Interview books, a bestseller on Amazon. The course covers system designs basics, then goes into deep dives of the design of over 10 famous common products (e.g. Designing YouTube, Facebook Newsfeed, etc) and multiple big…
-- ["Grokking the System Design Interview" by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview) - This is probably the most famous system design interview course on the internet and what makes it different from most other courses out there is that it is purely text-based, which is great for people who prefer reading over watching videos (such as myself!). It contains a repository of the…
-- ["System Design Interview Course" by Exponent](https://www.tryexponent.com/courses/system-design-interviews) - This course covers system designs basics and has a huge database of popular system design questions with videos of mock interviews. Some of the questions have text answers and a database schema and APIs for reference (which I find helpful). While the subscription might be a little pricey for…
-- ["Grokking the Advanced System Design Interview" by Design Gurus](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview) - I haven't tried this but it's by the same people who created "Grokking the System Design Interview", so it should be good! In my opinion you probably wouldn't need this unless you're very senior or going for a specialist position.
-- [InfoSec Jobs](https://infosec-jobs.net/) - Security roles across 17 countries, aggregated daily from 40+ sources.
-- [ClearedJobs.Net](https://clearedjobs.net/) - US defense and intelligence roles requiring a security clearance.
-- [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
-- [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
-- [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) - Android learning roadmap with visual maps, study notes, and companion material.
-- [Android Developer Roadmap (Alternative)](https://github.com/skydoves/android-developer-roadmap) - Alternative Android roadmap with comprehensive learning paths across the Android ecosystem.
-- [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript developer positions, updated daily.
-- [Garmin](https://careers.garmin.com/) - Tucson, AZ | Non-technical phone screen, technical phone screen (questions about projects on your resume), in-person interview: programming an arduino, given 3 hours and a laptop with internet access
-- [AIGA](https://designcareers.aiga.org/)
+- [B2W](https://ri.b2w.digital/) - Framework JS, pré-processador CSS e corredores de tarefas
+- [B2W - 1](https://ri.americanas.io/) - Java ou Elixir
+- [Barato Coletivo](https://www.barato.com.br/) - HTML, JS, CSS, React, Vuejs, Angular <sub>🇧🇷 pt-BR</sub>
+- [Bossabox](https://bossabox.com/para-profissionais) - Qualquer linguagem e qualquer framework e API da Web
+- [Beleza Na Web](http://www.belezanaweb.com.br/) - Reagir, CSS em JS <sub>🇧🇷 pt-BR</sub>
+- [Brainn - 2](https://brainn.co/) - Qualquer linguagem e API REST
+- [Buscapé](https://www.buscape.com.br/) - HTML, CSS e JS <sub>🇧🇷 pt-BR</sub>
+- [ClickBus](https://www.clickbus.com.br/) - Java, Spring Boot, API REST <sub>🇧🇷 pt-BR</sub>
+- [Chaordic - 2](https://www.chaordic.com.br/) - HTML, SASS, React, Redux <sub>🇧🇷 pt-BR</sub>
+- [CodeRockr](https://coderockr.com/) - Qualquer linguagem e qualquer quadro.
+- [Ciclic](https://www.ciclic.com.br/) - HTML, CSS e JS <sub>🇧🇷 pt-BR</sub>
+- [CodingSans - 1](https://codingsans.com/) - Node.js, digitação & Koa, Expresso ou Fastify
+- [Clima Tempo](http://www.climatempo.com.br/) - NodeJS & PHP <sub>🇧🇷 pt-BR</sub>
+- [Creditas](http://creditas.com.br/) - Qualquer linguagem e qualquer quadro. <sub>🇧🇷 pt-BR</sub>
+- [Codeby](https://codeby.com.br/) - Reagir, Redux & NodeJS <sub>🇧🇷 pt-BR</sub>
+- [Cubo Network](https://cubo.network/) - Qualquer linguagem e qualquer quadro.
+- [Concrete Solutions](https://www.concrete.com.br/) - HTML, CSS e JS <sub>🇧🇷 pt-BR</sub>
+- [DevPartner](http://www.devpartner.com.br/) - C-Sharp, Entity Framework, Asp.net e Web API <sub>🇧🇷 pt-BR</sub>
+- [Contabilizei](http://www.contabilizei.com.br/) - Framework JS, pré-processador CSS e corredores de tarefas <sub>🇧🇷 pt-BR</sub>
+- [DinDigital](https://dindigital.io/) - PHP, Laravel, API Docker e Rest
+- [ENext](http://www.enext.com.br/) - HTML, CSS e JS <sub>🇧🇷 pt-BR</sub>
+- [Estante Virtual](https://www.estantevirtual.com.br/) - Ruby, API REST <sub>🇧🇷 pt-BR</sub>
+- [Entria](https://entria.com.br/) - Reagir, Reagir Nativo, GraphQL & Relay Moderno <sub>🇧🇷 pt-BR</sub>
+- [FCamara - 1](http://www.fcamara.com.br/) - Java, API de descanso <sub>🇧🇷 pt-BR</sub>
+- [Esper](https://esper.com/) - Datilografia, Reagir e MENOS
+- [GetNinjas - 1](https://www.getninjas.com.br/) - Qualquer idioma e docker <sub>🇧🇷 pt-BR</sub>
+- [EnviaByBus](https://enviabybus.com.br/) - HTML, CSS & JS, Reagir <sub>🇧🇷 pt-BR</sub>
+- [Goomer](https://goomer.com.br/) - Tipos e Fastify ou Expresso <sub>🇧🇷 pt-BR</sub>
+- [Folha de SP](https://www.folha.uol.com.br/) - HTML, CSS e JS <sub>🇧🇷 pt-BR</sub>
+- [HurbCom](https://www.hurb.com/) - Qualquer linguagem e qualquer quadro.
+- [Hotel Urbano](https://www.hotelurbano.com/) - HTML, Pré-processador CSS, Framework JS e Testes
+- [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview) - Entrevistas/perguntas estruturadas do aplicativo RocketSkill.
+- [Interview Questions for Senior Android Developers](https://github.com/mohsenoid/Android-Interview-Questions) - Perguntas de Entrevista Android
+- [Abstract](https://www.abstract.com/) - São Francisco, CA
+- [Basecamp](https://basecamp.com/about/jobs) - Chicago, IL / Remote
+- [FAANG Tech Leads](https://www.faangtechleads.com/) - está oferecendo modelos de currículo e exemplos com 70% de desconto.
+- [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device) - Já há alguma política em torno disso?
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Mantenedor e engenheiro-chefe do Docusaurus v2, um gerador estático que alimenta a documentação de muitos dos Projetos de Fonte Aberta da Meta: Reagir Nativo, Juste, Relay, Razão, etc. Usado por 7,6k…
+- [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam) - Um exame AngularJS com perguntas de principiante a especialista por @gdi2290 da @AngularClass
+- [Endava](https://www.endava.com/en/) - Belgrado, Sérvia; Bucareste, Romênia; Chisinau, Moldávia; Cluj-Napoca, Romênia; Iasi, Romênia; Pitesti, Romênia; Skopje, Macedônia; Sofia, Bulgária; Frankfurt, Alemanha; Glasgow, Escócia; Hilversum...
+- [Etix Everywhere](https://www.etixeverywhere.com/) - Cidade de Luxemburgo, Luxemburgo.
+- [Online-Utility.org's Text Analyzer](https://www.online-utility.org/text/analyzer.jsp) - para identificar palavras-chave usadas regularmente
+- [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions) - Lista de 300 perguntas e respostas Angular Interview
+- [DataScienceJobs](https://datasciencejobs.com/) - Descubra os últimos e maiores trabalhos em ciência de dados.
+- [FindADataJob](https://findadatajob.com/) - O Conselho Global de Emprego se concentrou em funções de analista de dados.
+- [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode) - Soluções de Problemas do Código Leet
+- [I/O](https://io.co.za/opportunities) - Cidade do Cabo, África do Sul
+- [Coding exercises in Clojure, handy practice for technical interview questions](https://github.com/dpetrovics/coding-exercises) - Exercícios de codificação em Clojure, prática prática para perguntas técnicas.
+- [Interview cake Clojure solutions](https://github.com/DerekCuevas/interview-cake-clj) - Entrevistar soluções de Clojure bolo.
+- [numer.ai](https://numer.ai/) - São Francisco, CA
+- [Pleo](https://www.pleo.io/en/careers) - Remoto; Copenhague, Dinamarca; Londres, Reino Unido; Berlim, Alemanha; Estocolmo, Suécia; Madrid, Espanha/Intro-entrevista (30m-45m), levar para casa, entrevista com discussão sobre a tarefa +…
+- [Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi) - Soluções para Elementos de Programação Problemas com entrevistas escritos em Golang (trabalho em andamento)
+- [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci) - Trabalhando no meu caminho para decifrar a entrevista de codificação em Go, porque eu quero aprender.
+- [Small Improvements](https://www.small-improvements.com/) - Berlim, Alemanha
+- [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - Um pequeno guia para ajudar aqueles que procuram contratar um desenvolvedor ou designer para iOS, embora sob medida para iOS, muitas perguntas poderiam ser usadas para desenvolvedores Android ou…
+- [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview) - Entrevistas estruturadas e essenciais do aplicativo RocketSkill.
+- [Path to Senior Engineer Handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - Todos os recursos que você precisa para chegar ao engenheiro sênior e além
+- [interviewing.io](https://iio.sh/r/DMCa) - É o melhor recurso de entrevista técnica do mercado, que permite agendar entrevistas com engenheiros reais do Google e Facebook, embora anonimamente.
+- [A collection of Java interview questions and answers to them](https://github.com/svozniuk/java-interviews) - Uma coleção de perguntas e respostas de Java.
+- [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview) - Estruturas de dados e algoritmos em Java (útil no processo de entrevista)
+- [InfoSec Jobs](https://infosec-jobs.net/) - Funções de segurança em 17 países, agregadas diariamente de mais de 40 fontes.
+- [ClearedJobs.Net](https://clearedjobs.net/) - Defesa e inteligência dos EUA requer autorização de segurança.
+- [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) - Este é um novo curso de Design de Sistema, escrito por Alex Xu, autor dos livros de Entrevistas do Design de Sistema, um best-seller na Amazon.
+- ["Grokking the System Design Interview" by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview) - Este é provavelmente o mais famoso curso de design do sistema na internet e o que faz com que seja diferente da maioria dos outros cursos lá fora é que ele é puramente baseado em texto, o que é ótimo…
+- ["System Design Interview Course" by Exponent](https://www.tryexponent.com/courses/system-design-interviews) - Este curso cobre o básico do sistema e tem um enorme banco de dados de perguntas de design popular com vídeos de entrevistas simuladas.
+- ["Grokking the Advanced System Design Interview" by Design Gurus](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview) - Eu não tentei, mas foi pelas mesmas pessoas que criaram "Grokking the System Design Interview", então deve ser bom!
+- [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) - Andróide aprendendo roteiro com mapas visuais, notas de estudo e material acompanhante.
+- [Android Developer Roadmap (Alternative)](https://github.com/skydoves/android-developer-roadmap) - Roteiro alternativo para Android com caminhos de aprendizagem abrangentes através do ecossistema Android.
+- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) - Roteiro Flutter focado em tópicos de desenvolvimento de aplicativos, ferramentas e fluxo de trabalho do desenvolvedor.
+- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roteiro de desenvolvimento da plataforma Apple que descreve os principais tópicos e ferramentas usadas no desenvolvimento do iOS.
+- [TypeScriptJobs](https://typescriptjobs.net/) - Posições de desenvolvedor do TypeScript, atualizadas diariamente.
+- [Jobbsy](https://jobbsy.dev/) - Symfony, quadro de trabalho.
+- [GrepJob](https://grepjob.com/) - Empregos da SWE diretamente de empresas de alta tecnologia pagadoras.
+- [Software Tech Jobs](https://softwaretechjobs.com/) - Empregos de Software EUA e Canadá.
+- [React Native Jobs](https://reactnative-jobs.com/) - O primeiro quadro de trabalho para desenvolvedores nativos.
+- ["Behavioral Interviews" by Exponent](https://www.tryexponent.com/courses/behavioral) - Enquanto a Exponent também tem cursos sobre conteúdo técnico, o que realmente os faz se destacar da outra plataforma de preparação de entrevistas é sua disponibilidade de conteúdo para engenharia…
+- ["Grokking the Behavioral Interview" on Educative](https://www.educative.io/courses/grokking-the-behavioral-interview) - De acordo com outros cursos de Educação, este curso é baseado em texto e eles acreditam que cursos baseados em texto são os mais eficientes do que cursos de vídeo.
+- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) - Roteiro passo a passo do DevOps com recursos de aprendizagem em Git, Linux, contêineres, CI/CD, nuvem e observação.
+- [Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap) - Roteiro de engenharia da plataforma publicado como um site interativo com um repositório fonte apoiado pelo GitHub.
+- [Levels.fyi](https://www.levels.fyi/services/) - É conhecido por ser um banco de dados salarial, mas eles também oferecem serviços complementares como negociação salarial onde você será colocado em contato com recrutadores experientes para ajudá-lo…
+- [Real Job Work From Home](https://realjobworkfromhome.com/) - Livre navegação remota sem uma conta, com categoria e tipo de emprego filtros, informações de salário quando disponível, e links de inscrição empregador.
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) <sub>14 links · licença MIT</sub>
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) <sub>14 links · licença sem-licenca</sub>
-- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) <sub>12 links · licença MIT</sub>
-- [emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) <sub>14 links · licença CC0-1.0</sub>
-- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) <sub>14 links · licença MIT</sub>
-- [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) <sub>14 links · licença Zero-Public-License-1.0</sub>
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) <sub>14 links · licença MIT</sub>
-- [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) <sub>14 links · licença MIT</sub>
-- [tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) <sub>14 links · licença sem-licenca</sub>
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) <sub>12 links · licença CC-BY-SA-4.0</sub>
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) <sub>14 links · licença MIT</sub>
+- [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) <sub>🔗 20 · ⚖️ MIT</sub>
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) <sub>🔗 19 · ⚖️ sem-licenca</sub>
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) <sub>🔗 10 · ⚖️ MIT</sub>
+- [emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) <sub>🔗 34 · ⚖️ CC0-1.0</sub>
+- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) <sub>🔗 19 · ⚖️ MIT</sub>
+- [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) <sub>🔗 32 · ⚖️ Zero-Public-License-1.0</sub>
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) <sub>🔗 8 · ⚖️ MIT</sub>
+- [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) <sub>🔗 18 · ⚖️ MIT</sub>
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) <sub>🔗 2 · ⚖️ CC-BY-SA-4.0</sub>
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) <sub>🔗 18 · ⚖️ MIT</sub>
 
 ---
 [⬆️ Voltar ao topo](#-carreira-e-vagas) · [← Carreira e Produtividade](README.md)

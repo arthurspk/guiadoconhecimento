@@ -2,35 +2,41 @@
 
 > Software para hospedar você mesmo: nuvem própria, mídia, automação. **299 links** nesta área: 19 essenciais escolhidos a dedo, 39 de inteligência artificial e 241 reunidos de 5 listas curadas.
 
-[← 🧰 Ferramentas e Utilitários](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🧰 Ferramentas e Utilitários](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/ferramentas/self-hosted.md) · 🇪🇸 [Español](../../i18n/es/areas/ferramentas/self-hosted.md) · 🇨🇳 [中文](../../i18n/zh/areas/ferramentas/self-hosted.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/ferramentas/self-hosted.md) · 🇸🇦 [العربية](../../i18n/ar/areas/ferramentas/self-hosted.md) · 🇫🇷 [Français](../../i18n/fr/areas/ferramentas/self-hosted.md) · 🇮🇹 [Italiano](../../i18n/it/areas/ferramentas/self-hosted.md) · 🇰🇷 [한국어](../../i18n/ko/areas/ferramentas/self-hosted.md) · 🇷🇺 [Русский](../../i18n/ru/areas/ferramentas/self-hosted.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/ferramentas/self-hosted.md) · 🇯🇵 [日本語](../../i18n/ja/areas/ferramentas/self-hosted.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>19</sub> <br>
 [🤖 IA para Self-hosted](#-ia-para-self-hosted) <sub>39</sub> <br>
-[◾ Automação](#-automação) <sub>17</sub> <br>
-[◾ Analytics](#-analytics) <sub>12</sub> <br>
-[◾ Backups](#-backups) <sub>12</sub> <br>
-[◾ Archiving and Digital Preservation (DP)](#-archiving-and-digital-preservation-dp) <sub>6</sub> <br>
-[◾ Blogging Platforms](#-blogging-platforms) <sub>6</sub> <br>
-[◾ Booking and Scheduling](#-booking-and-scheduling) <sub>6</sub> <br>
-[◾ Bookmarking](#-bookmarking) <sub>6</sub> <br>
-[◾ Bookmarks and Link Sharing](#-bookmarks-and-link-sharing) <sub>6</sub> <br>
-[◾ Calendar](#-calendar) <sub>6</sub> <br>
-[◾ Calendar & Contacts](#-calendar--contacts) <sub>6</sub> <br>
-[◾ CMS](#-cms) <sub>6</sub> <br>
-[◾ Communication - Custom Communication Systems](#-communication---custom-communication-systems) <sub>6</sub> <br>
-[◾ Communication - Email - Complete Solutions](#-communication---email---complete-solutions) <sub>6</sub> <br>
-[◾ Communication - Email - Mail Transfer Agents](#-communication---email---mail-transfer-agents) <sub>6</sub> <br>
-[◾ Communication - Email - Mailing Lists and Newsletters](#-communication---email---mailing-lists-and-newsletters) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>128</sub> <br>
+[🟣 Automação](#-automação) <sub>18</sub> <br>
+[📊 Análise.](#-análise) <sub>11</sub> <br>
+[🏠 Reforços](#-reforços) <sub>11</sub> <br>
+[🟣 Arquivo e Preservação Digital (DP)](#-arquivo-e-preservação-digital-dp) <sub>6</sub> <br>
+[📰 Plataformas de Blog](#-plataformas-de-blog) <sub>6</sub> <br>
+[📚 Reservas e Agendamento](#-reservas-e-agendamento) <sub>6</sub> <br>
+[📚 Marcador](#-marcador) <sub>6</sub> <br>
+[📚 Favoritos e Compartilhamento de Links](#-favoritos-e-compartilhamento-de-links) <sub>6</sub> <br>
+[⏱️ Calendário](#️-calendário) <sub>6</sub> <br>
+[⏱️ Calendário e Contatos](#️-calendário-e-contatos) <sub>6</sub> <br>
+[🟡 CMS.](#-cms) <sub>6</sub> <br>
+[🖥️ Comunicação - Sistemas de Comunicação Personalizados](#️-comunicação---sistemas-de-comunicação-personalizados) <sub>6</sub> <br>
+[📣 Comunicação - E-mail - Soluções completas](#-comunicação---e-mail---soluções-completas) <sub>6</sub> <br>
+[📣 Comunicação - E-mail - Agentes de Transferência de Correio](#-comunicação---e-mail---agentes-de-transferência-de-correio) <sub>6</sub> <br>
+[📰 Comunicação - E-mail - Listas de Correio e Boletim informativo](#-comunicação---e-mail---listas-de-correio-e-boletim-informativo) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>129</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
 
+> Os essenciais de Self-hosted, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
+
 - [awesome-selfhosted.net](https://awesome-selfhosted.net/) - Versão navegável da principal lista de software para hospedar você mesmo.
 - [selfh.st](https://selfh.st/) - Newsletter semanal e diretório de apps self-hosted.
-- [Docker Docs](https://docs.docker.com/) - Documentação oficial do Docker, base da maioria das instalações self-hosted.
+- [Docker Docs](https://docs.docker.com/) - Documentação oficial do Docker, base da maioria das instalações self-hosted. <sub>📖 documentação</sub>
 - [LinuxServer.io](https://www.linuxserver.io/) - Imagens Docker padronizadas e documentadas para dezenas de apps.
 - [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview) - Plataforma de virtualização aberta para servidores domésticos e empresariais.
 - [Proxmox VE Helper-Scripts](https://community-scripts.org/) - Scripts da comunidade que instalam centenas de serviços no Proxmox.
@@ -50,351 +56,383 @@
 
 ## 🤖 IA para Self-hosted
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com self-hosted. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Self-hosted. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
 - [Ollama](https://github.com/ollama/ollama) - Forma mais simples de baixar e rodar modelos abertos (Llama, Gemma, Qwen, Mistral) no seu computador ou servidor, com API local.
-- [Open WebUI](https://docs.openwebui.com) - Interface web auto-hospedada, estilo ChatGPT, que funciona offline com Ollama e APIs compatíveis com OpenAI; documentação oficial.
+- [Open WebUI](https://docs.openwebui.com) - Interface web auto-hospedada, estilo ChatGPT, que funciona offline com Ollama e APIs compatíveis com OpenAI; documentação oficial. <sub>📖 documentação</sub>
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Motor de inferência em C/C++ que roda modelos quantizados até em CPU; base de muitas ferramentas de IA local.
 - [LocalAI](https://github.com/mudler/LocalAI) - Servidor de IA de código aberto com API compatível com OpenAI para texto, imagem, voz e visão, sem exigir GPU.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - Converse com seus documentos (RAG) e crie agentes, via Docker ou app desktop, com modelos locais; licença MIT.
 - [n8n Self-hosted AI Starter Kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - Modelo Docker Compose oficial que sobe n8n, Ollama, Qdrant e PostgreSQL para automações com IA 100% locais.
 - [Immich](https://github.com/immich-app/immich) - Alternativa auto-hospedada ao Google Fotos com reconhecimento facial e busca por conteúdo feitos por IA local.
 - [Frigate NVR](https://github.com/blakeblackshear/frigate) - Gravador para câmeras IP com detecção de objetos em tempo real feita localmente, sem nuvem.
-- [Integração Ollama do Home Assistant](https://www.home-assistant.io/integrations/ollama/) - Adiciona ao Home Assistant um agente de conversa movido por um servidor Ollama local para controlar a casa por voz ou texto.
+- [Integração Ollama do Home Assistant](https://www.home-assistant.io/integrations/ollama/) - Adiciona ao Home Assistant um agente de conversa movido por um servidor Ollama local para controlar a casa por voz ou texto. <sub>📖 documentação</sub>
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [llmrepos.com](https://llmrepos.com/) - sorts them by how fast they are gaining stars, not by how many they have.
-- [Xen](https://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures. (Source Code) GPL-2.0 C
-- [Litlyx](https://litlyx.com/) - All-in-one Analytics Solution. Setup in 30 seconds. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant. (Source Code) Apache-2.0 Docker
-- [Turso](https://turso.tech/) - Manual, later weekly
-- [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. (Source Code) MIT Python/Nodejs
+- [llmrepos.com](https://llmrepos.com/) - os classifica pelo quão rápido estão ganhando estrelas, não por quantos têm.
+- [Xen](https://www.xenproject.org/) - Monitor de máquina virtual para 32/64 bits Intel / AMD (IA 64) e PowerPC 970 arquiteturas.
+- [Litlyx](https://litlyx.com/) - Solução de análise completa, configuração em 30 segundos, exibe todos os seus dados num painel com IA, totalmente auto-hostável e compatível com o GDPR.
+- [Dify](https://github.com/langgenius/dify) - Construir fluxos de trabalho, oleodutos RAG, com um modelo de IA rico e suporte de ferramentas em um espaço de trabalho colaborativo.
+- [Turso](https://turso.tech/) - Manual, mais tarde semanalmente
+- [Netron](https://netron.app/) - Visualizador para modelos de rede neural e aprendizado de máquina.
+- [Open WebUI](https://github.com/open-webui/open-webui) - Interface de IA amigável ao usuário (Suporta Ollama, API OpenAI, ...)
 - [openclaw](https://github.com/openclaw/openclaw) - +537 (+0.1%)
-- [Karakeep](https://karakeep.app/) - Bookmark-everything app with a touch of AI for the data hoarders out there. (Demo, Source Code) AGPL-3.0 Docker
+- [Karakeep](https://karakeep.app/) - Aplicativo favorito com um toque de IA para os colecionadores de dados.
+- [Lobe Chat](https://github.com/lobehub/lobe-chat) - LobeHub é seu Agente-Chefe Operador, organizando seus agentes em 7 × 24 operações contratando, agendando e reportando toda a sua equipe de IA.
 - [superpowers](https://github.com/obra/superpowers) - +3,067 (+1.1%)
-- [Tiledesk](https://tiledesk.com/) - All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots (alternative to Intercom, Zendesk, Tawk.to and Tidio). (Source Code) MIT Docker/K8S
+- [Tiledesk](https://tiledesk.com/) - Plataforma de engajamento tudo em um cliente, desde lead-gen até pós-venda, do WhatsApp para seu site, com agentes omni-canal ao vivo e chatbots movidos por IA (alternativo para Intercom, Zendesk…
+- [Flowise](https://github.com/FlowiseAI/Flowise) - Construir agentes de IA, visualmente
 - [skills](https://github.com/mattpocock/skills) - +5,113 (+2.0%)
-- [Localess](https://localess.org/home) - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. (Source Code) MIT Docker
+- [Localess](https://localess.org/home) - Gerencie e traduza seu site ou conteúdo de aplicativo em vários idiomas, usando IA para traduzir mais rápido.
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Vane é um motor de resposta com IA.
 - [ECC](https://github.com/affaan-m/ECC) - +6,307 (+2.4%)
-- [Relaticle](https://relaticle.com/) - CRM with an MCP server, an AI assistant with human-approved changes, a REST API, custom fields, and kanban boards. (Source Code) AGPL-3.0 PHP/Docker
+- [Relaticle](https://relaticle.com/) - CRM com um servidor MCP, um assistente de IA com alterações aprovadas pelo homem, uma API REST, campos personalizados e placas kanban.
+- [PostHog](https://github.com/PostHog/posthog) - PostHog é a plataforma líder para construir produtos auto-dirigidos, nossas ferramentas de desenvolvimento – observação IA, análise, replay de sessão, bandeiras, experimentos, rastreamento de erros…
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - +2,307 (+0.9%)
-- [LibreDB Studio](https://libredb.org/) - Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver). (Source Code) MIT Docker/K8S
+- [LibreDB Studio](https://libredb.org/) - SQL IDE baseado em navegador para PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB e muito mais, com SSO, trilha de auditoria, diagramas ER e assistência opcional IA em sua…
+- [cube.js](https://github.com/cube-js/cube) - Cube Core é uma camada semântica de código aberto para IA, BI e análise incorporada.
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - +8,536 (+3.8%)
-- [OrcaQ](https://orca-q.com/) - Modern database client and IDE for managing, querying, and exploring multiple database types with built-in AI assistant. (Source Code) MIT Nodejs/deb/Docker
+- [OrcaQ](https://orca-q.com/) - Cliente moderno de banco de dados e IDE para gerenciar, pesquisar e explorar vários tipos de banco de dados com assistente integrado de IA.
+- [Countly](https://github.com/Countly/countly-server) - Contagem é uma plataforma de análise e engajamento baseada em privacidade para entender e otimizar as viagens dos clientes através de aplicativos digitais, desde desktop e celular até IoT e…
 - [security-audit-skill](https://github.com/cloudflare/security-audit-skill) - +15,314 (+465.8%)
-- [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. (Source Code) BSD-3-Clause Python
+- [Feeds Fun](https://feeds.fun/) - Leitor de notícias com etiquetas, pontuação e IA. BSD-3-Clause Python
+- [Logto](https://github.com/logto-io/logto) - Infraestrutura de autenticação e autorização para aplicativos SaaS e IA, construídos em OIDC e OAuth 2.1 com multi-dotação, SSO e RBAC.
 - [open-code-review](https://github.com/alibaba/open-code-review) - +14,246 (+57.6%)
-- [Generative Artificial Intelligence (GenAI)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) - is a subset of artificial intelligence that uses generative models to produce text, images, videos, or other forms of data.
-- [hypit](https://github.com/hypit-ai/hypit) - +12,015 (+3204.0%)
-- [Agenta](https://agenta.ai/) - LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications with collaborative prompt engineering. (Source Code) MIT Docker
-- [archify](https://github.com/tt-a1i/archify) - +7,157 (+11.6%)
-- [AnythingLLM](https://anythingllm.com/) - All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. (Source Code) MIT Nodejs/Docker
-- [orca](https://github.com/stablyai/orca) - +5,971 (+8.7%)
-- [GoModel](https://gomodel.enterpilot.io/) - AI gateway written in Go with a unified OpenAI-compatible API for multiple LLM providers, USD cost tracking, budgets, usage analytics, guardrails, caching, and an admin dashboard. (Source Code) MIT Go/Docker
-- [VoiceStudio](https://github.com/debpalash/VoiceStudio) - +5,614 (+20.0%)
-- [Khoj](https://khoj.dev/) - Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. (Demo, Source Code) AGPL-3.0 Python/Docker
-- [cua](https://github.com/trycua/cua) - +2,909 (+12.9%)
+- [Generative Artificial Intelligence (GenAI)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) - é um subconjunto de inteligência artificial que usa modelos generativos para produzir textos, imagens, vídeos ou outras formas de dados.
 
-## ◾ Automação
+## 🟣 Automação
 
-- [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. (Source Code) Apache-2.0 Java
-- [Apache Maven](https://maven.apache.org/) - Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. (Source Code) Apache-2.0 Java
-- [Bazel](https://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. (Source Code) Apache-2.0 Java
-- [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. (Source Code) GPL-3.0 C
-- [Gradle](https://gradle.org/) - Another build automation system. (Source Code) Apache-2.0 Groovy/Java
-- [OpenBolt](https://voxpupuli.org/openvox/) - Orchestration tool to run orchestration workflows or one-off tasks/scripts to automate the provisioning and management of nodes. Community fork of the last open source version of Puppet Bolt. (Source Code) Apache-2.0 Ruby
-- [Activepieces](https://www.activepieces.com/) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. (Source Code) MIT Docker
-- [Apache Airflow](https://airflow.apache.org/) - Platform to programmatically author, schedule, and monitor workflows. (Source Code) Apache-2.0 Python/Docker
-- [Automatisch](https://automatisch.io/) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). (Source Code) AGPL-3.0 Docker
-- [BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. MPL-2.0 Docker
-- [Huginn](https://github.com/huginn/huginn)
-- [changedetection.io](https://changedetection.io/) - Stay up-to-date with web-site content changes. (Source Code) Apache-2.0 Python/Docker
-- [Activepieces](https://github.com/activepieces/activepieces)
-- [Automatisch](https://github.com/automatisch/automatisch)
-- [StackStorm](https://github.com/StackStorm/st2)
-- [Beehive](https://github.com/muesli/beehive)
-- [Actionsflow](https://github.com/actionsflow/actionsflow)
+> 18 links de Automação em Self-hosted, reunidos das listas curadas da comunidade.
 
-## ◾ Analytics
+- [Apache Ant](https://ant.apache.org/) - Ferramenta de construção de automação, similar à make, uma biblioteca e linha de comando cuja missão é conduzir processos descritos em arquivos de construção como alvos e pontos de extensão…
+- [Apache Maven](https://maven.apache.org/) - Com base no conceito de um modelo de objeto de projeto (POM), Maven pode gerenciar a construção, relatórios e...
+- [Bazel](https://www.bazel.io/) - Um sistema de construção rápido, escalável, multi-linguagem e extensível.
+- [GNU Make](https://www.gnu.org/software/make/) - A ferramenta de construção mais popular da automação para muitos fins, make é uma ferramenta que controla a geração de executáveis e outros arquivos não-fonte de um programa dos arquivos fonte do…
+- [Gradle](https://gradle.org/) - Outro sistema de automação de construção.
+- [OpenBolt](https://voxpupuli.org/openvox/) - Ferramenta de orquestração para executar fluxos de trabalho de orquestração ou tarefas/scripts únicos para automatizar o provisionamento e gerenciamento de nós.
+- [Huginn](https://github.com/huginn/huginn) - Crie agentes que monitorem e ajam em seu nome.
+- [Activepieces](https://github.com/activepieces/activepieces) - Agentes de IA e MCPs & AI Workflow Automation • (~400 servidores de MPC para agentes de IA) • Automação de IA / Agente de IA com MCPs • Fluxos de trabalho de IA e Agentes de IA • MCPs para agentes de…
+- [Automatisch](https://github.com/automatisch/automatisch) - A alternativa de código aberto Zapier, criar automação sem gastar tempo e dinheiro.
+- [Automation](https://en.wikipedia.org/wiki/Automation) - Software projetado para reduzir a intervenção humana em processos.
+- [StackStorm](https://github.com/StackStorm/st2) - StackStorm (também conhecido como "IFTTT para operações") é automação orientada a eventos para auto-remediação, respostas incidentes, solução de problemas, implantações e mais para DevOps e SREs.…
+- [Activepieces](https://www.activepieces.com/) - Por exemplo, você pode enviar uma notificação Slack para cada novo cartão Trello.
+- [Beehive](https://github.com/muesli/beehive) - Um sistema flexível de eventos/agentes e automação com muitas abelhas.
+- [Apache Airflow](https://airflow.apache.org/) - Plataforma para programaticamente autor, agenda e monitora fluxos de trabalho.
+- [Actionsflow](https://github.com/actionsflow/actionsflow) - A alternativa grátis de Zapier/IFTTT para desenvolvedores automatizarem seus fluxos de trabalho baseado em ações do Github.
+- [Automatisch](https://automatisch.io/) - Ferramenta de automação de negócios que permite conectar diferentes serviços como Twitter, Slack, e mais para automatizar seus processos de negócio (alternativo a Zapier).
+- [BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Recupere os livros de leitura desaparecidos da Biblioteca Genesis.
+- [changedetection.io](https://changedetection.io/) - Mantenha-se atualizado com as alterações de conteúdo do site.
 
-- [Analytics](https://en.wikipedia.org/wiki/Analytics) - is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
-- [ANALOG](https://github.com/orangecoloured/analog) - A minimal analytics tool. Tracks events in a span of 10-30 days. MIT Nodejs/Docker
-- [Aptabase](https://aptabase.com/) - Privacy first and simple analytics for mobile and desktop apps. (Source Code) AGPL-3.0 Docker
-- [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. (Demo, Source Code) GPL-3.0 Perl
-- [Countly Community Edition](https://count.ly/) - Real time mobile and web analytics, crash reporting and push notifications platform. (Source Code) AGPL-3.0 Nodejs/Docker
-- [d8a.tech](https://d8a.tech/) - A data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database. (Demo, Source Code) MIT Go/Docker
-- [Metabase](https://github.com/metabase/metabase)
-- [PostHog](https://github.com/PostHog/posthog)
-- [Umami](https://github.com/umami-software/umami)
-- [Plausible](https://github.com/plausible/analytics)
-- [Redash](https://github.com/getredash/redash)
-- [Matomo](https://github.com/matomo-org/matomo)
+## 📊 Análise.
 
-## ◾ Backups
+> 11 links de Análise. em Self-hosted, reunidos das listas curadas da comunidade.
 
-- [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. (Source Code) GPL-3.0 Docker/Go
-- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. GPL-2.0 Shell
-- [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. (Source Code) AGPL-3.0 C++/C
-- [Backup](https://en.wikipedia.org/wiki/Backup)
-- [Barman](https://pgbarman.org/) - Backup and Recovery Manager for PostgreSQL. (Source Code) GPL-3.0 Python
-- [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. (Source Code) BSD-3-Clause Python
-- [Burp](https://burp.grke.org/) - Network backup and restore program. (Source Code) AGPL-3.0 C
-- [Rclone](https://github.com/rclone/rclone)
-- [Restic](https://github.com/restic/restic)
-- [Duplicati](https://github.com/duplicati/duplicati)
-- [Kopia](https://github.com/kopia/kopia)
-- [BorgBackup](https://github.com/borgbackup/borg)
+- [Analytics](https://en.wikipedia.org/wiki/Analytics) - é a análise computacional sistemática de dados ou estatísticas, usada para a descoberta, interpretação e comunicação de padrões significativos em dados.
+- [ANALOG](https://github.com/orangecoloured/analog) - Uma ferramenta de análise mínima, rastreia eventos em 10-30 dias.
+- [Metabase](https://github.com/metabase/metabase) - A fácil de usar código aberto Business Intelligence e ferramenta embedded Analytics que permite a todos trabalhar com dados
+- [Aptabase](https://aptabase.com/) - Privacy primeiro e simples análise para aplicativos móveis e desktop.
+- [Umami](https://github.com/umami-software/umami) - Umami é uma plataforma de análise privada, tráfego, campanhas, comportamento, conversões e receita em um só lugar.
+- [AWStats](http://www.awstats.org/) - Gere estatísticas de arquivos de servidores de web, streaming, ftp ou e-mail.
+- [Plausible](https://github.com/plausible/analytics) - Fonte aberta, análise de privacidade, alternativa do Google Analytics livre de cookies, auto-anfitrião ou nuvem.
+- [Countly Community Edition](https://count.ly/) - Análises móveis e web em tempo real, relatórios de falhas e plataformas de notificações.
+- [Redash](https://github.com/getredash/redash) - Ligue-se a qualquer fonte de dados, visualize facilmente, painel e compartilhe seus dados.
+- [d8a.tech](https://d8a.tech/) - Um serviço de coleta de dados que trabalha com sua configuração do Google Analytics para capturar a atividade do usuário e enviá-la diretamente para seu próprio banco de dados privado.
+- [Matomo](https://github.com/matomo-org/matomo) - Empoderando as pessoas eticamente — Matomo está contratando! Junte-se a nós → https://matomo.org/jobs Matomo é a principal alternativa de código aberto para o Google Analytics, dando-lhe controle…
 
-## ◾ Archiving and Digital Preservation (DP)
+## 🏠 Reforços
 
-- [ArchiveBox](https://archivebox.io/) - Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). (Source Code) MIT Python/Docker
-- [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. (Demo, Source Code) ECL-2.0 Ruby
-- [Bichon](https://github.com/rustmailer/bichon) - Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support. AGPL-3.0 Rust/Docker
-- [bitmagnet](https://bitmagnet.io/) - BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (Source Code) MIT Go/Docker
-- [CKAN](https://ckan.org/) - Make open data websites. (Source Code) AGPL-3.0 Python
-- [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. (Source Code) GPL-3.0 PHP
+> 11 links de Reforços em Self-hosted, reunidos das listas curadas da comunidade.
 
-## ◾ Blogging Platforms
+- [Backrest](https://garethgeorge.github.io/backrest/) - Backrest é uma interface web e orquestrador para backup restórico.
+- [Backupninja](https://0xacab.org/liberate/backupninja) - Sistema de meta-backup leve e extensível, fornece uma forma centralizada de configurar e coordenar vários utilitários de backup diferentes.
+- [Bareos](https://www.bareos.org/) - Solução de backup da rede que preserva, arquivos e recupera dados de todos os principais sistemas operacionais.
+- [Barman](https://pgbarman.org/) - Gerente de backup e recuperação para PostgreSQL. GPL-3.0 Python
+- [BorgBackup](https://www.borgbackup.org/) - Desduplicando arquivador com compressão e encriptação autenticada.
+- [Burp](https://burp.grke.org/) - Programa de backup e restauração da rede.
+- [Rclone](https://github.com/rclone/rclone) - "Rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+- [Restic](https://github.com/restic/restic) - Programa de backup rápido, seguro e eficiente.
+- [Duplicati](https://github.com/duplicati/duplicati) - Guarde backups criptografados na nuvem!
+- [Kopia](https://github.com/kopia/kopia) - Ferramenta de backup multiplataforma para Windows, MacOS e Linux com backups rápidos e incrementais, criptografia lado a lado do cliente, compressão e deduplicação de dados.
+- [BorgBackup](https://github.com/borgbackup/borg) - Desduplicando arquivo com compressão e criptografia autenticada.
 
-- [Antville](https://antville.org/) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. (Source Code) Apache-2.0 Javascript
-- [Chyrp Lite](https://chyrplite.net/) - Extra-awesome, extra-lightweight blog engine. (Source Code) BSD-3-Clause PHP
-- [Dotclear](https://git.dotclear.org/dev/dotclear) - Take control over your blog. GPL-2.0 PHP
-- [Ech0](https://ech0.app/) - Lightweight federated publishing platform focused on personal idea sharing (documentation in Chinese). (Demo, Source Code) AGPL-3.0 Docker/K8S
-- [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. (Source Code) GPL-2.0 PHP
-- [fx](https://github.com/rikhuijzer/fx) - Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky). MIT Docker
+## 🟣 Arquivo e Preservação Digital (DP)
 
-## ◾ Booking and Scheduling
+> 6 links de Arquivo e Preservação Digital (DP) em Self-hosted, reunidos das listas curadas da comunidade.
 
-- [Alf.io](https://alf.io/) - Ticket reservation system. (Demo, Source Code) GPL-3.0 Java
-- [Cal.diy](https://cal.diy/) - Online appointment scheduling system. (Source Code) MIT Nodejs
-- [Easy!Appointments](https://easyappointments.org/) - Allows your customers to book appointments with you via the web. (Demo, Source Code) GPL-3.0 PHP
-- [Hi.Events](https://hi.events/) - Event management and ticketing platform for conferences, concerts, and more. Offering customizable event pages and embeddable ticket widgets. (Demo, Source Code) AGPL-3.0 Docker
-- [LibreBooking](https://librebooking.readthedocs.io/) - Resource scheduling solution offering a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. (Demo, Source Code) GPL-3.0 PHP/Docker
-- [QloApps](https://qloapps.com/) - Customizable and intuitive web-based hotel reservation system and a booking engine. (Demo, Source Code) OSL-3.0 PHP/Nodejs
+- [ArchiveBox](https://archivebox.io/) - Crie arquivos HTML e screenshots de sites de seus favoritos, histórico de navegação, feeds RSS ou outras fontes (alternativas para Wayback Machine).
+- [ArchivesSpace](https://archivesspace.org/) - Aplicação de gerenciamento de informações para gerenciar e fornecer acesso à internet a arquivos, manuscritos e objetos digitais.
+- [Bichon](https://github.com/rustmailer/bichon) - Servidor de arquivos de e-mail que sincroniza contas IMAP, índices de e-mails para pesquisa de texto completo, e fornece uma API REST.
+- [bitmagnet](https://bitmagnet.io/) - BitTorrent indexer, DHT crawler, classificador de conteúdo e motor de busca torrent com interface web, API GraphQL e integração Servarr stack.
+- [CKAN](https://ckan.org/) - Faça sites de dados abertos.
+- [Collective Access - Providence](https://collectiveaccess.org/) - Estrutura altamente configurável para gerenciamento, descrição e descoberta de coleções digitais e físicas suportando uma variedade de padrões de metadados, tipos de dados e formatos de mídia...
 
-## ◾ Bookmarking
+## 📰 Plataformas de Blog
 
-- [linkding](https://github.com/sissbruecker/linkding)
-- [Shaarli](https://github.com/shaarli/Shaarli)
-- [Pinry](https://github.com/pinry/pinry)
-- [LinkAce](https://github.com/Kovah/LinkAce)
-- [Reminiscence](https://github.com/kanishka-linux/reminiscence)
-- [unmark](https://github.com/cdevroe/unmark)
+> 6 links de Plataformas de Blog em Self-hosted, reunidos das listas curadas da comunidade.
 
-## ◾ Bookmarks and Link Sharing
+- [Antville](https://antville.org/) - Projeto livre e de código aberto, voltado para o desenvolvimento de um alto desempenho, apresenta software de hospedagem rico em weblog.
+- [Chyrp Lite](https://chyrplite.net/) - Um motor de blog super-awesome e extra-leve.
+- [Dotclear](https://git.dotclear.org/dev/dotclear) - Assuma o controle do seu blog.
+- [Ech0](https://ech0.app/) - Plataforma de publicação federada leve focada em compartilhamento de ideias pessoais (documentação em chinês) AGPL-3.0 Docker/K8S
+- [FlatPress](https://flatpress.org/) - Um motor de blogs leve e fácil de configurar.
+- [fx](https://github.com/rikhuijzer/fx) - Ferramenta de micro-blog oferecendo realce de sintaxe embutido, publicação móvel e muito mais (alternativo ao Twitter, Bluesky).
 
-- [Betula](https://joinbetula.org/) - Single-user federated bookmark manager with Fediverse support and archives. (Source Code) AGPL-3.0 Go
-- [Buku](https://github.com/jarun/Buku) - Powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb
-- [Digibunch](https://ladigitale.dev/digibunch/) - Create bunches of links to share with your learners or colleagues. (Demo, Source Code) AGPL-3.0 Nodejs/PHP
-- [Espial](https://github.com/jonschoning/espial) - Web-based bookmarking server that supports multiple user accounts. AGPL-3.0 Haskell
-- [Faved](https://faved.to/) - Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. (Demo, Source Code) MIT Docker
-- [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - Host your own Firefox accounts server. (Source Code) MPL-2.0 Nodejs/Java
+## 📚 Reservas e Agendamento
 
-## ◾ Calendar
+> 6 links de Reservas e Agendamento em Self-hosted, reunidos das listas curadas da comunidade.
 
-- [Cal.com](https://github.com/calcom/cal.com)
-- [Rallly](https://github.com/lukevella/rallly)
-- [Radicale](https://github.com/Kozea/Radicale)
-- [Easy!Appointments](https://github.com/alextselegidis/easyappointments)
-- [Baïkal](https://github.com/sabre-io/Baikal)
-- [indico](https://github.com/indico/indico)
+- [Alf.io](https://alf.io/) - Sistema de reserva de ingressos.
+- [Cal.diy](https://cal.diy/) - Sistema de agendamento online.
+- [Easy!Appointments](https://easyappointments.org/) - Permite que seus clientes marquem compromissos com você através da web.
+- [Hi.Events](https://hi.events/) - Gestão de eventos e plataforma de tickets para conferências, concertos e muito mais... oferecendo páginas personalizáveis de eventos e widgets de ingressos incorporados.
+- [LibreBooking](https://librebooking.readthedocs.io/) - Solução de agendamento de recursos oferecendo uma interface flexível, amigável para dispositivos móveis e extensível para as organizações gerenciarem reservas de recursos. (Demo, Código-fonte)…
+- [QloApps](https://qloapps.com/) - Sistema de reservas baseado na web e um motor de reserva.
 
-## ◾ Calendar & Contacts
+## 📚 Marcador
 
-- [Baïkal](https://sabre.io/baikal/) - Lightweight CalDAV and CardDAV server based on sabre/dav. (Source Code) GPL-3.0 PHP
-- [DAViCal](https://www.davical.org/) - Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store. (Source Code) GPL-2.0 PHP/deb
-- [Davis](https://github.com/tchapi/davis) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. MIT PHP
-- [Keeper.sh](https://keeper.sh/) - Calendar syncing tool that pulls and pushes events between calendar sources and destinations via iCal/ICS or OAuth, with support for anonymized busy/free events. (Source Code) AGPL-3.0 Docker
-- [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. (Source Code) GPL-3.0 Nodejs/Docker
-- [Radicale](https://radicale.org/) - Simple calendar and contact server with extremely low administrative overhead. (Source Code) GPL-3.0 Python/deb
+> 6 links de Marcador em Self-hosted, reunidos das listas curadas da comunidade.
 
-## ◾ CMS
+- [linkding](https://github.com/sissbruecker/linkding) - Gerente de favoritos auto hospedado que foi projetado para ser mínimo, rápido e fácil de configurar usando Docker.
+- [Shaarli](https://github.com/shaarli/Shaarli) - O pessoal, minimalista, super-rápido, banco de dados livre, serviço de marcador - comunitário.
+- [Pinry](https://github.com/pinry/pinry) - Pinry, um sistema de placa de imagem para pessoas que querem salvar, etiquetar e compartilhar imagens, vídeos e páginas web em um formato fácil de passar.
+- [LinkAce](https://github.com/Kovah/LinkAce) - LinkAce é um arquivo auto-hospedado para coletar links de seus sites favoritos.
+- [Reminiscence](https://github.com/kanishka-linux/reminiscence) - Gerente de Bookmark e Arquivo Auto-Alojado
+- [unmark](https://github.com/cdevroe/unmark) - Um aplicativo aberto para favoritos.
 
-- [Strapi](https://github.com/strapi/strapi)
-- [Directus](https://github.com/directus/directus)
-- [Wagtail](https://github.com/wagtail/wagtail)
-- [Grav](https://github.com/getgrav/grav)
-- [october](https://github.com/octobercms/october)
-- [django CMS](https://github.com/django-cms/django-cms)
+## 📚 Favoritos e Compartilhamento de Links
 
-## ◾ Communication - Custom Communication Systems
+> 6 links de Favoritos e Compartilhamento de Links em Self-hosted, reunidos das listas curadas da comunidade.
 
-- [Communication software](https://en.wikipedia.org/wiki/Communication_software) - used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom protocols.
-- [AnyCable](https://anycable.io/) - Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc. (Demo, Source Code) MIT Go/Docker
-- [Apprise](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. MIT Python/Docker/deb
-- [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. (Demo, Source Code) MIT Go/Docker/K8S
-- [Chitchatter](https://chitchatter.im/) - Peer-to-peer chat app that is serverless, decentralized, and ephemeral. (Source Code) GPL-2.0 Nodejs
-- [Conduit](https://conduit.rs/) - A simple, fast, and reliable chat server powered by Matrix. (Source Code) Apache-2.0 Rust
+- [Betula](https://joinbetula.org/) - Gerente de favoritos federados com suporte e arquivos Fediverse.
+- [Buku](https://github.com/jarun/Buku) - Um poderoso gerenciador de favoritos e uma mini-web textual pessoal.
+- [Digibunch](https://ladigitale.dev/digibunch/) - Crie vários links para compartilhar com seus alunos ou colegas.
+- [Espial](https://github.com/jonschoning/espial) - Servidor de favoritos baseado na Web que suporta várias contas de usuários.
+- [Faved](https://faved.to/) - Gestor de favoritos artesanal combinando marcação poderosa, busca instantânea e uma interface limpa e livre de distração construída para grandes coleções e fluxos de trabalho avançados, otimizada…
+- [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - Hospede seu próprio servidor de contas do Firefox.
 
-## ◾ Communication - Email - Complete Solutions
+## ⏱️ Calendário
 
-- [AnonAddy](https://anonaddy.com/) - Email forwarding service for creating aliases. (Source Code) MIT PHP/Docker
-- [b1gMail](https://www.b1gmail.eu/) - Complete email solution that runs on any webspace with PHP and MariaDB. It supports POP3 catchall mailboxes and can also integrate with Postfix or b1gMailServer if you're running your own server. (Source Code, Clients) GPL-2.0 PHP
-- [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. (Source Code) GPL-3.0 Ansible/Python
-- [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. (Source Code) MIT Docker
-- [Inboxen](https://inboxen.org/) - Lets you have an infinite number of unique inboxes. (Source Code) GPL-3.0 Python
-- [iRedMail](https://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. (Source Code) GPL-3.0 Shell
+> 6 links de Calendário em Self-hosted, reunidos das listas curadas da comunidade.
 
-## ◾ Communication - Email - Mail Transfer Agents
+- [Cal.com](https://github.com/calcom/cal.com) - Planejando infra-estrutura para todos.
+- [Rallly](https://github.com/lukevella/rallly) - Rallly é uma ferramenta aberta de programação e colaboração projetada para facilitar a organização de eventos e reuniões.
+- [Radicale](https://github.com/Kozea/Radicale) - Um simples servidor CalDAV (calendar) e CardDAV (contato).
+- [Easy!Appointments](https://github.com/alextselegidis/easyappointments) - Programador de Nomeações Auto-Hospedados
+- [Baïkal](https://github.com/sabre-io/Baikal) - Baïkal é um servidor de Calendário+Contatos.
+- [indico](https://github.com/indico/indico) - Indico, um sistema de gerenciamento de eventos rico em recursos, feito no CERN, o lugar onde a Web nasceu.
 
-- [Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) - (MTAs) - SMTP servers.
-- [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. (Source Code) Apache-2.0 Go
-- [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. (Source Code) GPL-3.0 C/deb
-- [DragonFly](https://github.com/corecode/dma) - A small MTA for home and office use. Works on Linux and FreeBSD. BSD-3-Clause C
-- [EmailRelay](https://emailrelay.sourceforge.net/) - A small and easy to configure SMTP and POP3 server for Windows and Linux. (Source Code) GPL-3.0 C++
-- [Exim](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. (Source Code) GPL-3.0 C/deb
+## ⏱️ Calendário e Contatos
 
-## ◾ Communication - Email - Mailing Lists and Newsletters
+> 6 links de Calendário e Contatos em Self-hosted, reunidos das listas curadas da comunidade.
 
-- [Mailing list](https://en.wikipedia.org/wiki/Mailing_list) - servers and mass mailing software - one message to many recipients.
-- [HyperKitty](https://wiki.list.org/HyperKitty) - Access GNU Mailman v3 archives. (Demo, Source Code) GPL-3.0 Python
-- [Keila](https://www.keila.io/) - Reliable and easy-to-use newsletter tool (alternative to Mailchimp and Sendinblue). (Demo, Source Code) AGPL-3.0 Docker
-- [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. (Demo, Source Code) AGPL-3.0 Go/Docker
-- [Mailman](https://www.list.org/) - Manage electronic mail discussion and e-newsletter lists. (Source Code) GPL-3.0 Python
-- [Mautic](https://www.mautic.org/) - Marketing automation software (email, social and more). (Source Code) GPL-3.0 PHP
+- [Baïkal](https://sabre.io/baikal/) - CalDAV leve e servidor CardDAV baseado em sabre/dav. (Código Fonte) GPL-3.0 PHP
+- [DAViCal](https://www.davical.org/) - Servidor para compartilhamento de calendário (CalDAV) que usa um banco de dados PostgreSQL como uma loja de dados.
+- [Davis](https://github.com/tchapi/davis) - Uma interface de administração simples, dockerizável e totalmente translatável para o sabre/dav baseada em Symfony 5 e Bootstrap 4, amplamente inspirada por Baïkal.
+- [Keeper.sh](https://keeper.sh/) - Ferramenta de sincronização do calendário que puxa e empurra eventos entre fontes de calendário e destinos via iCal/ICS ou OAuth, com suporte para eventos anônimos ocupados/livres.
+- [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Gerencie minha vida maldita (MMDL) é uma frente de auto-hospedeira para gerenciar suas tarefas e calendários CalDAV.
+- [Radicale](https://radicale.org/) - Calendário simples e servidor de contato com custos administrativos extremamente baixos.
 
-## ◾ Mais links
+## 🟡 CMS.
 
-- [Docker Engine](https://docs.docker.com/engine/install/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
-- [Dify](https://github.com/langgenius/dify)
-- [Open WebUI](https://github.com/open-webui/open-webui)
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- [Lobe Chat](https://github.com/lobehub/lobe-chat)
-- [Flowise](https://github.com/FlowiseAI/Flowise)
-- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Single sign-on (SSO)](https://en.wikipedia.org/wiki/Single_sign-on)
-- [Netbird](https://github.com/netbirdio/netbird)
-- [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
-- [Automation](https://en.wikipedia.org/wiki/Automation)
-- [Dockge](https://github.com/louislam/dockge/blob/master/compose.yaml)
-- [ownCloud](https://doc.owncloud.com/server/next/admin_manual/installation/docker/)
-- [Note taking](https://en.wikipedia.org/wiki/Note-taking)
-- [Obsidian-Gitsync-Perlite](https://github.com/l4rm4nd/Obsidian-Gitsync-Perlite)
-- [authentik](https://github.com/goauthentik/authentik)
-- [Logto](https://github.com/logto-io/logto)
-- [Pocket ID](https://github.com/pocket-id/pocket-id)
-- [Pomerium](https://github.com/pomerium/pomerium)
-- [Social Networking](https://en.wikipedia.org/wiki/Social_networking_service)
-- [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. (Source Code) GPL-2.0 Python
-- [Environment Modules](https://envmodules.io/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. (Source Code) GPL-2.0 Tcl
-- [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. (Source Code) MIT Lua
-- [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. (Source Code) MIT/Apache-2.0 Python
-- [E-commerce](https://en.wikipedia.org/wiki/E-commerce)
-- [Money management](https://en.wikipedia.org/wiki/Money_management)
-- [Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software)
-- [Asset management](https://en.wikipedia.org/wiki/Asset_management)
-- [Eggdrop](https://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. (Source Code) GPL-2.0 C
-- [Errbot](https://errbot.io/) - Plugin based chatbot designed to be easily deployable, extensible and maintainable. (Source Code) GPL-3.0 Python
-- [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. (Source Code) MIT Nodejs
-- [Request-Baskets](https://github.com/darklynx/request-baskets)
-- [Mockbin](https://github.com/Kong/mockbin)
-- [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) - is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
-- [Code review](https://en.wikipedia.org/wiki/Code_review) - is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code.
-- [Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) - is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
-- [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. (Source Code) GPL-3.0 Python
-- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. (Source Code) GPL-3.0 C
-- [CINC](https://cinc.sh/) - Free distribution of Chef, a configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". (Source Code) Apache-2.0 Ruby
-- [cloud-init](https://cloud-init.io/) - Initialization tool to automate the configuration of VMs, cloud instances, or machines on a network. (Source Code) GPL-3.0/Apache-2.0 Python
-- [i-doit](https://www.i-doit.org/) - IT Documentation and CMDB. AGPL-3.0 PHP
-- [iTop](https://combodo.com/) - Complete ITIL web based service management tool. (Source Code) AGPL-3.0 PHP
-- [netbox](https://netbox.dev/) - IP address management (IPAM) and data center infrastructure management (DCIM) tool. (Demo, Source Code) Apache-2.0 Python
-- [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) - /deployment software.
-- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) - Declarative, GitOps continuous delivery tool for Kubernetes. (Source Code) Apache-2.0 Go
-- [Buildbot](https://buildbot.net/) - Python-based toolkit for continuous integration. (Source Code) GPL-2.0 Python
-- [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. (Source Code) BSD-3-Clause Go
-- [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. (Demo, Source Code) Apache-2.0 Go
-- [GitLab CI](https://about.gitlab.com/solutions/continuous-integration/) - Gitlab's built-in, full-featured CI/CD solution. (Source Code) MIT Ruby
-- [Ajenti](https://ajenti.org/) - Control panel for Linux and BSD. (Source Code) MIT Python/Shell
-- [Cockpit](https://cockpit-project.org/) - Web-based graphical interface for servers. (Source Code) LGPL-2.1 C
-- [Froxlor](https://froxlor.org/) - Lightweight server management software with Nginx and PHP-FPM support. (Source Code) GPL-2.0 PHP
-- [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). (Demo, Source Code) GPL-3.0 PHP/Shell/Other
-- [ISPConfig](https://www.ispconfig.org/) - Manage Linux servers directly through your browser. (Source Code) BSD-3-Clause PHP
-- [MeshCentral](https://meshcentral.com/) - A complete web-based remote monitoring and management web site. (Source Code) Apache-2.0 JavaScript/HTML
-- [Drone](https://github.com/drone/drone)
-- [Jenkins](https://github.com/jenkinsci/jenkins)
-- [ArgoCD](https://github.com/argoproj/argo-cd)
-- [Tekton](https://github.com/tektoncd/pipeline)
-- [GitLab CI](https://gitlab.com/gitlab-org/gitlab)
-- [Capistrano](https://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based). (Source Code) MIT Ruby
-- [CloudSlang](https://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. (Source Code) Apache-2.0 Java
-- [CloudStack](https://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. (Source Code) Apache-2.0 Java/Python
-- [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. (Source Code) GPL-2.0 Python
-- [Fabric](https://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. (Source Code) BSD-2-Clause Python
-- [FaynoSync](https://faynosync.com/) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights. (Source Code, Clients) Apache-2.0 Docker/Go
-- [Diagrams.net](https://app.diagrams.net/) - A.K.A. Draw.io. Easy to use Diagram UI with a plethora of templates. (Source Code) Apache-2.0 JavaScript/Docker
-- [Kroki](https://kroki.io/) - API for generating diagrams from textual descriptions. (Source Code) MIT Java
-- [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. (Source Code) MIT Nodejs/Docker
-- [Discourse](https://github.com/discourse/discourse)
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-- [Mattermost](https://github.com/mattermost/mattermost-server)
-- [Chatwoot](https://github.com/chatwoot/chatwoot)
-- [Jitsi](https://github.com/jitsi/jitsi-meet)
-- [Zulip](https://github.com/zulip/zulip)
-- [Ceph](https://ceph.com/en/) - Distributed object, block, and file storage platform. (Source Code) LGPL-3.0 C++
-- [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. (Source Code) GPL-2.0 C
-- [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. (Source Code) GPL-2.0/LGPL-3.0 C
-- [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. (Source Code) Apache-2.0 Java
-- [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. (Source Code) Apache-2.0 Go
-- [Kubo](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. Apache-2.0/MIT Go
-- [Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) - (MDAs) - IMAP/POP3 server software.
-- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. (Source Code) BSD-3-Clause-Attribution C
-- [DavMail](https://davmail.sourceforge.net/) - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. (Source Code) GPL-2.0 Java
-- [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. (Source Code) MIT/LGPL-2.1 C/deb
-- [Windows](https://github.com/dockur/windows)
-- [Portainer](https://github.com/portainer/portainer)
-- [Rancher](https://github.com/rancher/rancher)
-- [Dockge](https://github.com/louislam/dockge)
-- [Nomad](https://github.com/hashicorp/nomad)
-- [Dozzle](https://github.com/amir20/dozzle)
-- [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. (Source Code) Apache-2.0 Python
-- [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. (Source Code) MIT Go/Docker
-- [DomainMOD](https://domainmod.org/) - Manage your domains and other internet assets in a central location. (Source Code) GPL-3.0 PHP
-- [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. (Demo, Source Code) BSD-3-Clause Python
-- [octoDNS](https://github.com/octodns/octodns) - DNS as code - Tools for managing DNS across multiple providers. MIT Python
-- [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. (Source Code) GPL-3.0 PHP
-- [ERPNext](https://github.com/frappe/erpnext)
-- [Monica](https://github.com/monicahq/monica)
-- [snipe-it](https://github.com/snipe/snipe-it)
-- [Leantime](https://github.com/Leantime/leantime)
-- [grocy](https://github.com/grocy/grocy)
-- [DOLIBARR ERP & CRM](https://github.com/Dolibarr/dolibarr)
-- [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. (Source Code) MPL-2.0 C
-- [CoreDNS](https://coredns.io/) - Flexible DNS server. (Source Code) Apache-2.0 Go
-- [djbdns](https://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. (Source Code) CC0-1.0 C
-- [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. (Source Code) GPL-2.0 C
-- [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. (Source Code) GPL-3.0 C
-- [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. (Source Code) BSD-3-Clause C
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
-- [OctoBot](https://github.com/Drakkar-Software/OctoBot)
-- [EteSync Server](https://github.com/etesync/server)
-- [0bin](https://github.com/Tygs/0bin)
-- [lncm/bitcoind](https://github.com/lncm/docker-bitcoind)
-- [Atom Community](https://github.com/atom-community/atom) - A fork of atom A hackable text editor from Github. MIT JavaScript
-- [Brackets](https://brackets.io/) - Code editor for web designers and front-end developers. (Source Code) MIT JavaScript
-- [Eclipse](https://www.eclipse.org/) - IDE written in Java with an extensible plug-in system. (Source Code) EPL-1.0 Java
-- [Geany](https://www.geany.org/) - GTK2 text editor. (Source Code) GPL-2.0 C/C++
-- [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. (Source Code) GPL-3.0 C
-- [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE. (Source Code) GFDL-1.2 C++
-- [Cypht](https://cypht.org/) - Feed reader for your email accounts. (Source Code) LGPL-2.1 PHP
-- [Roundcube](https://roundcube.net/) - Browser-based IMAP client with an application-like user interface. (Source Code) GPL-3.0 PHP/deb
-- [SnappyMail](https://github.com/the-djmaze/snappymail) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). AGPL-3.0 PHP
-- [SquirrelMail](https://squirrelmail.org/) - Another browser-based IMAP client. (Source Code) GPL-2.0 PHP
-- [Glance](https://github.com/glanceapp/glance)
-- [Dashy](https://github.com/lissy93/dashy)
-- [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - communication software.
+> 6 links de CMS. em Self-hosted, reunidos das listas curadas da comunidade.
+
+- [Strapi](https://github.com/strapi/strapi) - Strapi é o principal CMS sem cabeça, 100% JavaScript/TypeScript, totalmente personalizável e desenvolvedor primeiro.
+- [Directus](https://github.com/directus/directus) - A infra-estrutura flexível para todos os seus projetos Transforme seu DB em um CMS sem cabeça, painéis de administração ou aplicativos com uma interface personalizada, APIs instantâneas, autenticação…
+- [Wagtail](https://github.com/wagtail/wagtail) - Um sistema de gerenciamento de conteúdo Django focado na flexibilidade e experiência do usuário.
+- [Grav](https://github.com/getgrav/grav) - Moderno, louco rápido, ridiculosamente fácil e incrivelmente poderoso arquivo plano CMS alimentado por PHP, Markdown, Twig, e Symfony
+- [october](https://github.com/octobercms/october) - Plataforma CMS auto-anfitriã baseada no Framework PHP Laravel.
+- [django CMS](https://github.com/django-cms/django-cms) - A empresa de fácil uso e desenvolvimento amigável CMS alimentado por Django
+
+## 🖥️ Comunicação - Sistemas de Comunicação Personalizados
+
+> 6 links de Comunicação - Sistemas de Comunicação Personalizados em Self-hosted, reunidos das listas curadas da comunidade.
+
+- [Communication software](https://en.wikipedia.org/wiki/Communication_software) - usado para fornecer acesso remoto a sistemas e trocar arquivos e mensagens em formatos de texto, áudio e/ou vídeo entre diferentes computadores ou usuários, usando seus próprios protocolos…
+- [AnyCable](https://anycable.io/) - Servidor em tempo real para comunicação confiável por duas vias sobre WebSockets, eventos enviados pelo servidor, etc. (Demo, Código-fonte)
+- [Apprise](https://github.com/caronc/apprise) - O registro permite enviar uma notificação para quase todos os serviços de notificação mais populares disponíveis hoje, como: Telegrama, Discórdia, Slack, Amazon SNS, Gotify, etc.
+- [Centrifugo](https://centrifugal.dev/) - Servidor de mensagens em tempo real (Websocket ou SockJS). (Demo, Código Fonte) MIT Go/Docker/K8S
+- [Chitchatter](https://chitchatter.im/) - Aplicativo de bate-papo que é sem servidor, descentralizada e efêmero.
+- [Conduit](https://conduit.rs/) - Um servidor de bate-papo simples, rápido e confiável alimentado pela Matrix.
+
+## 📣 Comunicação - E-mail - Soluções completas
+
+> 6 links de Comunicação - E-mail - Soluções completas em Self-hosted, reunidos das listas curadas da comunidade.
+
+- [AnonAddy](https://anonaddy.com/) - Serviço de encaminhamento de e-mails para criar pseudônimos.
+- [b1gMail](https://www.b1gmail.eu/) - Solução de e-mail completa que é executada em qualquer espaço web com PHP e MariaDB. Ele suporta caixas de correio POP3 catchall e também pode se integrar com Postfix ou b1gMailServer se você estiver…
+- [DebOps](https://docs.debops.org/) - Seu data center baseado no Debian em uma caixa, um conjunto de papéis Ansíveis de propósito geral que podem ser usados para gerenciar hosts Debian ou Ubuntu. <sub>📖 documentação</sub>
+- [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Um servidor de e-mail simples, pronto para produção, rodando dentro de um contêiner.
+- [Inboxen](https://inboxen.org/) - Permite que você tenha um número infinito de caixas de entrada únicas.
+- [iRedMail](https://www.iredmail.org/) - Solução completa de servidor de e-mail baseado em Postfix e Dovecot.
+
+## 📣 Comunicação - E-mail - Agentes de Transferência de Correio
+
+> 6 links de Comunicação - E-mail - Agentes de Transferência de Correio em Self-hosted, reunidos das listas curadas da comunidade.
+
+- [Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) - Servidores SMTP.
+- [chasquid](https://blitiri.com.ar/p/chasquid/) - Servidor de SMTP com foco na simplicidade, segurança e facilidade de operação.
+- [Courier MTA](https://www.courier-mta.org/) - Rápido, escalável, servidor de correio/groupware corporativo fornecendo ESMTP, IMAP, POP3, webmail, mailing list, serviços básicos de calendário e agendamento baseados na web. (Código Fonte) GPL-3.0…
+- [DragonFly](https://github.com/corecode/dma) - Um pequeno MTA para uso doméstico e de escritório, trabalha com Linux e FreeBSD.
+- [EmailRelay](https://emailrelay.sourceforge.net/) - Um pequeno e fácil de configurar SMTP e servidor POP3 para Windows e Linux. (Código Fonte) GPL-3.0 C++
+- [Exim](https://www.exim.org/) - Agente de transferência de mensagens (MTA) desenvolvido na Universidade de Cambridge.
+
+## 📰 Comunicação - E-mail - Listas de Correio e Boletim informativo
+
+> 6 links de Comunicação - E-mail - Listas de Correio e Boletim informativo em Self-hosted, reunidos das listas curadas da comunidade.
+
+- [Mailing list](https://en.wikipedia.org/wiki/Mailing_list) - Servidores e softwares de correio em massa, uma mensagem para muitos destinatários.
+- [HyperKitty](https://wiki.list.org/HyperKitty) - Acesse os arquivos GNU Mailman v3. (Demo, Código-fonte) GPL-3.0 Python
+- [Keila](https://www.keila.io/) - Ferramenta de boletim confiável e fácil de usar (alternativo para Mailchimp e Sendinblue).
+- [Listmonk](https://listmonk.app/) - Alto desempenho, auto-apresentado e gerente de lista de discussão com um painel moderno.
+- [Mailman](https://www.list.org/) - Gerencie a discussão de correio eletrônico e listas de notícias eletrônicas.
+- [Mautic](https://www.mautic.org/) - Software de automação de marketing (email, social e muito mais).
+
+## 🧺 Mais links
+
+> Links de Self-hosted que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Um proxy reverso que fornece autenticação com o Google, Azure, OpenID Connect e muitos mais provedores de identidade.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - O mais poderoso e modular modelo de difusão GUI, api e backend com uma interface grafo/nós.
+- [Netbird](https://github.com/netbirdio/netbird) - Conecte seus dispositivos, usuários e agentes a uma rede de sobreposição baseada em WireGuard® com controle SSO, MFA e acesso granular.
+- [Obsidian-Gitsync-Perlite](https://github.com/l4rm4nd/Obsidian-Gitsync-Perlite) - Contêiner de Docker para sincronizar continuamente notas de marcação da Obsidian do GitHub e publicá-lo para as webs
+- [Request-Baskets](https://github.com/darklynx/request-baskets) - HTTP pede colecionador para testar webhooks, notificações, clientes REST e muito mais...
+- [Mockbin](https://github.com/Kong/mockbin) - Insônia Mockbin é o backend subjacente para a capacidade de zombar da API Insomnia.
+- [authentik](https://github.com/goauthentik/authentik) - A cola de autenticação que você precisa.
+- [Pocket ID](https://github.com/pocket-id/pocket-id) - O fornecedor mais fácil de usar OpenID Connect CertifiedTM e OAuth 2.0 que permite aos usuários acessarem suas aplicações com chaves mestras.
+- [Pomerium](https://github.com/pomerium/pomerium) - Pomerium é um proxy de identidade e acesso consciente.
+- [EasyBuild](https://easybuild.io/) - EasyBuild constrói arquivos de software e módulos para sistemas de computação de alto desempenho (HPC) de uma forma eficiente.
+- [Environment Modules](https://envmodules.io/) - Módulos de Ambiente fornecem a modificação dinâmica do ambiente de um usuário através de arquivos de módulos.
+- [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod é um sistema de módulo baseado em Lua que lida facilmente com o problema hierárquico MODULEPATH.
+- [Spack](https://spack.io/) - Um gerenciador de pacotes flexível que suporta várias versões, configurações, plataformas e compiladores.
+- [Eggdrop](https://www.eggheads.org/) - O mais antigo bot de Internet Relay Chat (IRC) ainda em desenvolvimento ativo.
+- [Errbot](https://errbot.io/) - Chatbot baseado em plug-in projetado para ser facilmente implantável, extensível e mantendível.
+- [Hubot](https://hubot.github.com/) - Um robô personalizável, embelezador da vida.
+- [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) - é a disponibilidade sob demanda de recursos do sistema de computador, especialmente armazenamento de dados (armazenamento em nuvem) e poder computacional, sem gerenciamento direto ativo pelo usuário.
+- [Code review](https://en.wikipedia.org/wiki/Code_review) - é uma atividade de garantia da qualidade do software em que uma ou várias pessoas verificam um programa principalmente vendo e lendo partes de seu código fonte.
+- [Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) - é um processo de engenharia de sistemas para estabelecer e manter a consistência do desempenho, funcional e físico de um produto com seus requisitos, design e operacional...
+- [Ansible](https://www.ansible.com/) - Provisionando, gerenciando configuração e ferramenta de implantação de aplicativos.
+- [CFEngine](https://cfengine.com/) - Sistema de gerenciamento de configuração para configuração e manutenção automatizadas de sistemas de computador em grande escala.
+- [CINC](https://cinc.sh/) - Distribuição gratuita do Chef, uma ferramenta de gerenciamento de configuração usando um puro Ruby, linguagem específica de domínio (DSL) para escrever "recipes" de configuração do sistema.
+- [cloud-init](https://cloud-init.io/) - Ferramenta de inicialização para automatizar a configuração de VMs, instâncias na nuvem ou máquinas em uma rede.
+- [i-doit](https://www.i-doit.org/) - Documentação de TI e CMDB.
+- [iTop](https://combodo.com/) - Ferramenta completa de gerenciamento de serviços baseado na Web ITIL.
+- [netbox](https://netbox.dev/) - Gerenciamento de endereços IP (IPAM) e ferramenta de gerenciamento de infraestrutura do data center (DCIM).
+- [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) - Software de implantação.
+- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) - Declarativo, ferramenta de entrega contínua do GitOps para Kubernetes.
+- [Buildbot](https://buildbot.net/) - Kit de ferramentas baseado em Python para integração contínua.
+- [CDS](https://ovh.github.io/cds/) - Entrega contínua e automação de DevOps Plataforma Open Source.
+- [Concourse](https://concourse-ci.org/) - Concurse é uma ferramenta que trata oleodutos como objetos de primeira classe e containeriza cada passo ao longo do caminho.
+- [GitLab CI](https://about.gitlab.com/solutions/continuous-integration/) - Gitlab é uma solução completa de CI/CD.
+- [Drone](https://github.com/drone/drone) - Harness Open Source é uma plataforma de desenvolvedores com gerenciamento de controle de código, pipelines CI/CD, ambientes de desenvolvimento hospedados e registros de artefatos.
+- [Jenkins](https://github.com/jenkinsci/jenkins) - Servidor de automação Jenkins.
+- [ArgoCD](https://github.com/argoproj/argo-cd) - Declaração de Implantação Contínua para Kubernetes
+- [Tekton](https://github.com/tektoncd/pipeline) - Um recurso nativo de tubulação.
+- [Ajenti](https://ajenti.org/) - Painel de controle para Linux e BSD. MIT Python/Shell
+- [Cockpit](https://cockpit-project.org/) - Interface gráfica baseada na Web para servidores.
+- [Froxlor](https://froxlor.org/) - Software de gerenciamento de servidor leve com suporte a Nginx e PHP-FPM. (Código Fonte) GPL-2.0 PHP
+- [HestiaCP](https://hestiacp.com/) - Painel de controle do servidor web (forque da VestaCP). (Demo, Código-fonte) GPL-3.0 PHP/Shell/Outro
+- [ISPConfig](https://www.ispconfig.org/) - Gerencie servidores Linux diretamente através do seu navegador.
+- [MeshCentral](https://meshcentral.com/) - Um site de monitoramento e gerenciamento remoto baseado na web.
+- [Capistrano](https://capistranorb.com/) - Coloque sua aplicação em qualquer número de máquinas simultaneamente, na sequência ou como um conjunto de rolamento via SSH (baseado em rake). (Código fonte) MIT Ruby
+- [CloudSlang](https://www.cloudslang.io/) - Ferramenta de orquestração baseada em fluxo para gerenciar aplicativos implantados, com recursos do Docker.
+- [CloudStack](https://cloudstack.apache.org/) - Software de computação em nuvem para criar, gerenciar e implantar serviços de infraestrutura em nuvem.
+- [Cobbler](https://cobbler.github.io/) - Cobbler é um servidor de instalação Linux que permite a rápida configuração de ambientes de instalação de rede. (Código Fonte) GPL-2.0 Python
+- [Fabric](https://www.fabfile.org/) - Biblioteca Python e ferramenta cli para simplificar o uso de SSH para tarefas de implantação de aplicativos ou administração de sistemas.
+- [FaynoSync](https://faynosync.com/) - Servidor de Atualização Dinâmica Auto-hospedada com estatísticas, suportando vários atualizadores, recursos flexíveis para atualizações e insights de aplicativos.
+- [Discourse](https://github.com/discourse/discourse) - Uma plataforma para discussão comunitária, livre, aberta e simples.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - O Comando Seguro para operações críticas.
+- [Mattermost](https://github.com/mattermost/mattermost-server) - Mattermost é uma plataforma de código aberto para colaboração segura em todo o ciclo de vida do desenvolvimento de software.
+- [Chatwoot](https://github.com/chatwoot/chatwoot) - Uma alternativa para Intercom, Zendesk, Salesforce Service Cloud, etc.
+- [Jitsi](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Conferências de vídeo seguras, simples e escaláveis que você usa como um aplicativo autônomo ou incorporado em seu aplicativo web.
+- [Zulip](https://github.com/zulip/zulip) - Servidor Zulip e aplicativo web, chat de equipe aberto que ajuda as equipes a se manter produtivas e focadas.
+- [Diagrams.net](https://app.diagrams.net/) - A.K.A. Draw.io. Fácil de usar Diagrama UI com uma infinidade de modelos. (Código Fonte) Apache-2.0 JavaScript/Docker
+- [Kroki](https://kroki.io/) - API para gerar diagramas de descrições textuais.
+- [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Módulo Javascript com uma sintaxe única, fácil e abreviada integra-se em várias outras ferramentas como Grafana.
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - Quadro branco virtual para desenhar à mão como diagramas.
+- [Windows](https://github.com/dockur/windows) - Janelas dentro de um recipiente Docker.
+- [Portainer](https://github.com/portainer/portainer) - Facilitando a gestão de Docker e Kubernetes.
+- [Rancher](https://github.com/rancher/rancher) - Plataforma completa de gerenciamento de contêineres.
+- [Dockge](https://github.com/louislam/dockge) - Um elegante, fácil de usar e reativo auto-hospedado docker compor yaml stack-oriented gerente
+- [Nomad](https://github.com/hashicorp/nomad) - Nomad é um orquestrador de carga fácil de usar, flexível e performante que pode implantar uma mistura de microserviço, lote, containerizado, e aplicações não-conterizadas.
+- [Dozzle](https://github.com/amir20/dozzle) - Visualizador de registros em tempo real para contêineres, Docker, Swarm e K8s.
+- [Ceph](https://ceph.com/en/) - Plataforma de armazenamento de objetos, blocos e arquivos distribuídos.
+- [DRBD](https://linbit.com/drbd/) - Sistema de armazenamento replicado distribuído, implementado como driver do kernel Linux.
+- [GlusterFS](https://www.gluster.org/) - Armazenamento distribuído definido por software que pode escalar vários petabytes, com interfaces para armazenamento de objetos, blocos e arquivos.
+- [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Sistema de arquivos distribuído que fornece acesso a dados de aplicações.
+- [JuiceFS](https://juicefs.com/) - Sistema de arquivos POSIX distribuído construído em cima de Redis e S3.
+- [Kubo](https://github.com/ipfs/kubo) - Implementação do IPFS, um sistema de arquivos global, versionado e peer-to-peer que busca conectar todos os dispositivos de computação com o mesmo sistema de arquivos.
+- [Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) - Software de servidor IMAP/POP3.
+- [Cyrus IMAP](https://www.cyrusimap.org/) - E-mail (IMP/POP3), contatos e servidor de calendário.
+- [DavMail](https://davmail.sourceforge.net/) - POP/IMAP/SMTP/Caldav/Carddav/LDAP troca gateway permitindo que os usuários usem qualquer cliente de e-mail/calendar com um servidor Exchange, mesmo da internet ou por trás de um firewall através do…
+- [Dovecot](https://www.dovecot.org/) - Servidor IMAP e POP3 escrito principalmente com segurança em mente.
+- [ERPNext](https://github.com/frappe/erpnext) - Planejamento de recursos corporativos livre e aberto (ERP)
+- [Monica](https://github.com/monicahq/monica) - Lembre-se de tudo sobre seus amigos, família e relações comerciais.
+- [snipe-it](https://github.com/snipe/snipe-it) - Um sistema de gerenciamento livre e gratuito de TI.
+- [Leantime](https://github.com/Leantime/leantime) - Leantime é um sistema de gerenciamento de projetos focado em metas para gerentes não-projetos, construindo com TDAH, Autismo e dislexia.
+- [grocy](https://github.com/grocy/grocy) - ERP além da sua geladeira, Grocy é uma empresa de compras e gerenciamento doméstico baseada na web para sua casa.
+- [DOLIBARR ERP & CRM](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM é um pacote de software moderno para gerenciar a atividade da sua empresa ou fundação (contatos, fornecedores, faturas, pedidos, ações, agenda, contabilidade, ...).
+- [Designate](https://wiki.openstack.org/wiki/Designate) - Serviços DNSaaaS para OpenStack.
+- [DNSControl](https://dnscontrol.org/) - Sincronize seu DNS para vários provedores de um simples DSL.
+- [DomainMOD](https://domainmod.org/) - Gerencie seus domínios e outros ativos da internet em um local central.
+- [nsupdate.info](https://www.nsupdate.info/) - Serviço DNS dinâmico. BSD-3-Clause Python
+- [octoDNS](https://github.com/octodns/octodns) - DNS como código - Ferramentas para gerenciar DNS em vários fornecedores.
+- [Poweradmin](https://www.poweradmin.org/) - Painel de controle DNS baseado na Web para servidor PowerDNS. (Código Fonte) GPL-3.0 PHP
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Sites descentralizados usando Bitcoin cripto e BitTorrent Network
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Bot de negociação livre para automatizar as estratégias AI, Grid, DCA e TradingView em Binance, Hyperliquid e 15+, com uma interface simples.
+- [EteSync Server](https://github.com/etesync/server) - O servidor Etebase (para que você possa executar o seu próprio)
+- [0bin](https://github.com/Tygs/0bin) - Lado do cliente, pasta criptografada
+- [lncm/bitcoind](https://github.com/lncm/docker-bitcoind) - Imagem multi-arco flexível (amd & amd64) Bitcoin Core Docker
+- [Bind](https://www.isc.org/bind/) - Versátil, clássico, completo software servidor de nome.
+- [CoreDNS](https://coredns.io/) - Servidor flexível de DNS. Apache-2.0 Go
+- [djbdns](https://cr.yp.to/djbdns.html) - Uma coleção de aplicativos DNS, incluindo minúsculos.
+- [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Fornece infraestrutura de rede para pequenas redes: DNS, DHCP, anúncio de roteador e boot de rede.
+- [Knot](https://www.knot-dns.cz/) - Servidor DNS de alto desempenho só autorizado.
+- [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - O servidor de DNS autoritário desenvolveu velocidade, confiabilidade, estabilidade e segurança.
+- [Glance](https://github.com/glanceapp/glance) - Um painel de auto-apresentação que coloca todas as suas imagens em um só lugar.
+- [Dashy](https://github.com/lissy93/dashy) - Um painel pessoal auto-hostável construído para você, inclui verificação de status, widgets, temas, pacotes de ícones, um editor de UI e muito mais!
+- [homer](https://github.com/bastienwirtz/homer) - Uma página estática muito simples para o seu servidor.
+- [Heimdall](https://github.com/linuxserver/Heimdall) - Um painel de aplicação e lançador.
+- [Homarr](https://github.com/ajnart/homarr) - Página inicial do navegador personalizável para interagir com os contêineres Docker do seu servidor (por exemplo, Sonarr/Radarr)
+- [Flame](https://github.com/pawelmalak/flame) - Flame é uma página inicial para o seu servidor, facilmente gerencie seus aplicativos e favoritos com editores integrados.
+- [Atom Community](https://github.com/atom-community/atom) - Um garfo de átomo, um editor de texto hackeável de Github.
+- [Brackets](https://brackets.io/) - Editor de código para web designers e desenvolvedores front-end.
+- [Eclipse](https://www.eclipse.org/) - IDE escrito em Java com um sistema de plug-in extensível.
+- [Geany](https://www.geany.org/) - Editor de texto GTK2.
+- [GNU Emacs](https://www.gnu.org/software/emacs/) - Um editor de texto extensível, personalizável e muito mais.
+- [KDevelop](https://www.kdevelop.org/) - IDE pelas pessoas por trás do KDE. GFDL-1.2 C++
+- [Cypht](https://cypht.org/) - Leitor de fontes para suas contas de e-mail.
+- [Roundcube](https://roundcube.net/) - Cliente IMAP baseado em navegador com uma interface de usuário semelhante a aplicativos. (Código Fonte) GPL-3.0 PHP/deb
+- [SnappyMail](https://github.com/the-djmaze/snappymail) - Cliente de e-mail simples, moderno, leve e rápido baseado na web (forque da RainLoop).
+- [SquirrelMail](https://squirrelmail.org/) - Outro cliente IMAP baseado em navegador.
+- [code-server](https://github.com/coder/code-server) - Código VS no navegador.
+- [Elasticsearch](https://github.com/elastic/elasticsearch) - Fonte Livre e Aberta, Distribuído, Motor de Busca RESTful
+- [LocalStack](https://github.com/localstack/localstack) - Desenvolva e teste seus aplicativos de nuvem e servidor offline.
+- [MinIO](https://github.com/minio/minio) - MinIO é uma loja de objetos compatível com S3, aberta sob licença GNU AGPLv3.
+- [MeiliSearch](https://github.com/meilisearch/meilisearch) - Uma API de mecanismo de busca rápido trazendo uma pesquisa híbrida com IA para seus sites e aplicativos.
+- [Gitea](https://github.com/go-gitea/gitea) - Serviço de desenvolvimento de software, incluindo hospedagem, revisão de código, colaboração da equipe, registro de pacotes e CI/CD
+- [Identity management](https://en.wikipedia.org/wiki/Identity_management) - (IdM), também conhecido como gerenciamento de identidade e acesso (IAM ou Idam), é um quadro de políticas e tecnologias para garantir que os usuários certos (que são parte do ecossistema conectado a…
+- [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - Software de comunicação.
+- [Ergo](https://ergo.chat/) - Servidor moderno IRCv3 escrito em Go, combinando as características de um ircd, uma estrutura de serviços e um segurança.
+- [Glowing Bear](https://github.com/glowing-bear/glowing-bear) - Um frontend para WeeChat. GPL-3.0 Nodejs
+- [InspIRCd](https://www.inspircd.org/) - Servidor modular de IRC escrito em C++ para Linux, BSD, Windows e macOS. (Código Fonte) GPL-2.0 C++/Docker
+- [Kiwi IRC](https://kiwiirc.com/) - (Demo, Código-fonte) Apache-2.0 Nodejs
+- [Lightweight Directory Access Protocol (LDAP)](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) - é um protocolo de aplicação padrão aberto, neutro para fornecedores e indústria para acessar e manter serviços de informação distribuída por diretórios através de uma rede IP (Internet Protocol).
+- [389 Directory Server](https://www.port389.org/) - Servidor de código aberto LDAP para Linux. GPL-3.0 C
+- [Apache Directory Server](https://directory.apache.org/apacheds/) - Servidor de diretórios extensível e incorporável, compatível com LDAPv3 certificado, com Kerberos 5 e Suporte ao Protocolo de Mudança de Senha, gatilhos, procedimentos armazenados, filas e…
+- [FreeIPA](https://www.freeipa.org/) - Solução integrada de gerenciamento de informações de segurança combinando Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS e Dogtag Certificate System (interface web e administração de linha…
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) <sub>19 links · licença sem-licenca</sub>
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) <sub>74 links · licença CC-BY-SA-4.0</sub>
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) <sub>74 links · licença CC-BY-SA-3.0</sub>
-- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) <sub>74 links · licença sem-licenca</sub>
-- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) <sub>0 links · licença MIT</sub>
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) <sub>🔗 5 · ⚖️ sem-licenca</sub>
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) <sub>🔗 80 · ⚖️ CC-BY-SA-4.0</sub>
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) <sub>🔗 89 · ⚖️ CC-BY-SA-3.0</sub>
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) <sub>🔗 87 · ⚖️ sem-licenca</sub>
+- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) <sub>🔗 10 · ⚖️ MIT</sub>
 
 ---
 [⬆️ Voltar ao topo](#-self-hosted) · [← Ferramentas e Utilitários](README.md)

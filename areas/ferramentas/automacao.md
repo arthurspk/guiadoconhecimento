@@ -2,30 +2,35 @@
 
 > Automação de fluxos, no-code, low-code e integrações. **210 links** nesta área: 16 essenciais escolhidos a dedo, 40 de inteligência artificial e 154 reunidos de 11 listas curadas.
 
-[← 🧰 Ferramentas e Utilitários](README.md) · [🗂️ Catálogo completo](../CATALOGO.md) · [🏠 Início](../../README.md)
+[← 🧰 Ferramentas e Utilitários](README.md) · [🗂️ Catálogo de áreas](../CATALOGO.md) · [🏠 Início](../../README.md)
+
+🌍 🇧🇷 **Português (Brasil)** · 🇺🇸 [English](../../i18n/en/areas/ferramentas/automacao.md) · 🇪🇸 [Español](../../i18n/es/areas/ferramentas/automacao.md) · 🇨🇳 [中文](../../i18n/zh/areas/ferramentas/automacao.md) · 🇮🇳 [हिन्दी](../../i18n/hi/areas/ferramentas/automacao.md) · 🇸🇦 [العربية](../../i18n/ar/areas/ferramentas/automacao.md) · 🇫🇷 [Français](../../i18n/fr/areas/ferramentas/automacao.md) · 🇮🇹 [Italiano](../../i18n/it/areas/ferramentas/automacao.md) · 🇰🇷 [한국어](../../i18n/ko/areas/ferramentas/automacao.md) · 🇷🇺 [Русский](../../i18n/ru/areas/ferramentas/automacao.md) · 🇩🇪 [Deutsch](../../i18n/de/areas/ferramentas/automacao.md) · 🇯🇵 [日本語](../../i18n/ja/areas/ferramentas/automacao.md)
 
 ## 📚 Índice
 
+> Pule direto para a seção que interessa; o número ao lado é a quantidade de links.
+
 [⭐ Comece por aqui](#-comece-por-aqui) <sub>16</sub> <br>
 [🤖 IA para Automação e No-code](#-ia-para-automação-e-no-code) <sub>40</sub> <br>
-[◾ Automação](#-automação) <sub>9</sub> <br>
-[◾ Business Apps](#-business-apps) <sub>9</sub> <br>
-[◾ Chatbots](#-chatbots) <sub>9</sub> <br>
-[◾ Full fledged product](#-full-fledged-product) <sub>9</sub> <br>
-[◾ Analytics](#-analytics) <sub>7</sub> <br>
-[◾ 1. Communication & Messaging Nodes](#-1-communication--messaging-nodes) <sub>6</sub> <br>
-[◾ 3. Browser Automation & Web Scraping Nodes](#-3-browser-automation--web-scraping-nodes) <sub>6</sub> <br>
-[◾ 4. Data Processing, Validation & Utilities Nodes](#-4-data-processing-validation--utilities-nodes) <sub>6</sub> <br>
-[◾ Around community projects](#-around-community-projects) <sub>6</sub> <br>
-[◾ In your language](#-in-your-language) <sub>6</sub> <br>
-[◾ Library (embedded usage)](#-library-embedded-usage) <sub>6</sub> <br>
-[◾ Low Code Application Platform](#-low-code-application-platform) <sub>6</sub> <br>
-[◾ Other community spaces](#-other-community-spaces) <sub>6</sub> <br>
-[◾ Saas](#-saas) <sub>6</sub> <br>
-[◾ Mais links](#-mais-links) <sub>57</sub> <br>
+[🗂️ Produto completo.](#️-produto-completo) <sub>10</sub> <br>
+[🔹 Saas.](#-saas) <sub>10</sub> <br>
+[🟣 Automação](#-automação) <sub>9</sub> <br>
+[📱 Aplicações de Negócios](#-aplicações-de-negócios) <sub>9</sub> <br>
+[🔶 Chatbots.](#-chatbots) <sub>9</sub> <br>
+[📊 Análise.](#-análise) <sub>7</sub> <br>
+[👥 Em torno de projetos comunitários](#-em-torno-de-projetos-comunitários) <sub>6</sub> <br>
+[🗣️ Em sua língua](#️-em-sua-língua) <sub>6</sub> <br>
+[🔧 Biblioteca (uso incorporado)](#-biblioteca-uso-incorporado) <sub>6</sub> <br>
+[🟢 Plataforma de Aplicação com Código Baixo](#-plataforma-de-aplicação-com-código-baixo) <sub>6</sub> <br>
+[👥 Outros espaços comunitários](#-outros-espaços-comunitários) <sub>6</sub> <br>
+[🟣 Configurações Públicas](#-configurações-públicas) <sub>6</sub> <br>
+[🔧 Automação de Processo Robótico](#-automação-de-processo-robótico) <sub>6</sub> <br>
+[🧺 Mais links](#-mais-links) <sub>58</sub> <br>
 [🧾 Fontes desta área](#-fontes-desta-área)
 
 ## ⭐ Comece por aqui
+
+> Os essenciais de Automação e No-code, escolhidos a dedo pela curadoria: se você só tem tempo para poucos links, são estes.
 
 - [n8n](https://n8n.io/) - Automação de fluxos com editor visual e código, que pode ser self-hosted.
 - [Zapier](https://zapier.com/) - Automação no-code que conecta milhares de apps.
@@ -35,9 +40,9 @@
 - [Activepieces](https://github.com/activepieces/activepieces) - Alternativa aberta ao Zapier, com editor visual e self-hosting.
 - [Windmill](https://github.com/windmill-labs/windmill) - Plataforma aberta para transformar scripts em fluxos, apps internos e jobs.
 - [Huginn](https://github.com/huginn/huginn) - Agentes self-hosted que monitoram a web e executam ações automáticas.
-- [Power Automate](https://www.microsoft.com/pt-br/power-platform/products/power-automate) - Automação e RPA da Microsoft integrada ao Microsoft 365. <sub>pt-BR</sub>
-- [Google Apps Script](https://developers.google.com/apps-script) - JavaScript na nuvem para automatizar Planilhas, Gmail e Google Workspace.
-- [Atalhos da Apple](https://support.apple.com/pt-br/guide/shortcuts/welcome/ios) - Manual oficial do app Atalhos para automatizar tarefas no iPhone e iPad. <sub>pt-BR</sub>
+- [Power Automate](https://www.microsoft.com/pt-br/power-platform/products/power-automate) - Automação e RPA da Microsoft integrada ao Microsoft 365. <sub>🇧🇷 pt-BR</sub>
+- [Google Apps Script](https://developers.google.com/apps-script) - JavaScript na nuvem para automatizar Planilhas, Gmail e Google Workspace. <sub>📖 documentação</sub>
+- [Atalhos da Apple](https://support.apple.com/pt-br/guide/shortcuts/welcome/ios) - Manual oficial do app Atalhos para automatizar tarefas no iPhone e iPad. <sub>📖 documentação · 🇧🇷 pt-BR</sub>
 - [Tasker](https://tasker.joaoapps.com/) - Automação avançada de Android por contexto, horário e eventos.
 - [AutoHotkey](https://www.autohotkey.com/) - Linguagem de script para atalhos, macros e automação no Windows.
 - [Bubble](https://bubble.io/) - Construtor no-code de aplicativos web e mobile com banco de dados.
@@ -46,268 +51,293 @@
 
 ## 🤖 IA para Automação e No-code
 
-> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com automação e no-code. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
+> Ferramentas, skills, MCPs, cursos, guias de prompt e uso responsável de IA para quem trabalha com Automação e No-code. Veja também [🤖 IA para todas as áreas](../../ia/README.md).
 
-### Essenciais de IA
+### 💎 Essenciais de IA
 
-- [Agentes no n8n (documentação)](https://docs.n8n.io/build/build-and-manage-agents/) - Documentação oficial para criar, publicar e conectar agentes de IA aos seus workflows no n8n.
-- [n8n MCP Server Trigger](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/) - Nó que transforma workflows do n8n em ferramentas acessíveis por clientes MCP como Claude e ChatGPT.
+- [Agentes no n8n (documentação)](https://docs.n8n.io/build/build-and-manage-agents/) - Documentação oficial para criar, publicar e conectar agentes de IA aos seus workflows no n8n. <sub>📖 documentação</sub>
+- [n8n MCP Server Trigger](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/) - Nó que transforma workflows do n8n em ferramentas acessíveis por clientes MCP como Claude e ChatGPT. <sub>📖 documentação</sub>
 - [n8n-MCP](https://github.com/czlonkowski/n8n-mcp) - Servidor MCP (MIT) que dá a assistentes de IA o conhecimento dos nós do n8n para criar e corrigir workflows.
 - [Templates de IA do n8n](https://n8n.io/workflows/categories/ai/) - Milhares de workflows de IA prontos da comunidade n8n para importar e adaptar.
 - [Zapier MCP](https://zapier.com/mcp) - Conecta assistentes de IA a ações em milhares de apps via Zapier; incluído em todos os planos, inclusive o gratuito.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Construtor visual low-code de agentes e fluxos de IA, de código aberto (Apache 2.0) e auto-hospedável.
 - [Dify](https://github.com/langgenius/dify) - Plataforma auto-hospedável para criar apps de IA com workflows, RAG e agentes; licença baseada em Apache 2.0 com condições extras.
 - [Browser Use](https://github.com/browser-use/browser-use) - Biblioteca de código aberto (MIT) para agentes de IA navegarem e preencherem formulários em sites.
-- [Aprovação humana para ferramentas de agentes (n8n)](https://docs.n8n.io/build/integrate-ai/ai-examples/human-in-the-loop-for-tools/) - Como exigir que uma pessoa aprove antes de o agente executar ações sensíveis, como enviar e-mails ou apagar dados.
-- [OWASP Top 10 para LLMs](https://genai.owasp.org/llm-top-10/) - Os principais riscos de aplicações com LLM, como injeção de prompt e autonomia excessiva, essenciais antes de dar ferramentas a um agente.
+- [Aprovação humana para ferramentas de agentes (n8n)](https://docs.n8n.io/build/integrate-ai/ai-examples/human-in-the-loop-for-tools/) - Como exigir que uma pessoa aprove antes de o agente executar ações sensíveis, como enviar e-mails ou apagar dados. <sub>📖 documentação</sub>
+- [OWASP Top 10 para LLMs](https://genai.owasp.org/llm-top-10/) - Os principais riscos de aplicações com LLM, como injeção de prompt e autonomia excessiva, essenciais antes de dar ferramentas a um agente. <sub>📖 documentação</sub>
 
-### Mais ferramentas e recursos de IA
+### 🧪 Mais ferramentas e recursos de IA
 
-- [Sign up for n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) - (n8n Cloud trial available)
-- [Ano.chat](https://ano.chat/) - Team chat for AI-native teams. A Slack alternative that runs Claude Code natively in a shell beneath your channels. Launch it directly in any thread with shared context.
-- [Model Context Protocol](https://github.com/modelcontextprotocol) - Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.
-- [ray.run](https://ray.run/) - from idea to a production-grade MCP server in under a minute
-- [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [Rulai](https://rul.ai/) - AI Chatbot to deliver Scalable Self Service
-- [LLM Vision](https://github.com/valentinfrlch/ha-llmvision) - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,373).
-- [BigPipe](https://bigpipe.agency/) - Turns a marketing or growth agency's expertise into a self-running company: an AI builds the website, product, billing, and back office and runs them on autopilot, so you own a compounding business asset instead of billing hours.
-- [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers (policy-before-dispatch, approval gates, audit trails).
-- [KAI-Flow](https://www.kaiflow.io/) - KAI Flow is a Open Source low-code platform developed for designing and scaling complex AI workflows.
-- [Link to Template](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/) - External workflow enhancing an AI chatbot with long-term memory and dynamic tool routing capabilities.
-- [Claude Cowork](https://claude.ai/download) - (Anthropic) — Anthropic's desktop AI agent with a graphical interface. Persistent access to local files and apps, designed as a GUI-friendly complement to Claude Code (which is CLI-first). Launched January 2026. Closed-source / subscription.
-- [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main) - MCP server for Todoist integration enabling natural language task management with Claude
-- [MCP](https://modelcontextprotocol.io/) - is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations…
-- [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
-- [Bookmark](https://www.bookmark.com/) - Create a Website with AI
-- [AI Automation Suggester](https://github.com/ITSpecialist111/ai_automation_suggester) - Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (749).
-- [LLMGraph](https://llmgraph.ai/) - No-code visual builder for LLM/AI workflows: turn your docs and models into RAG chatbots and AI agents, then deploy each to a REST API and an embeddable chat widget in one click.
-- [Dagster](https://dagster.io/) - Data orchestrator for machine learning, analytics, and ETL.
-- [Rierino](https://rierino.com/) - Developer-first low-code platform for building and orchestrating enterprise backend applications, microservices, and APIs with visual flow design, composable architecture, and embedded AI capabilities. Free self-hosted Community Edition available.
-- [Komos](https://www.komos.ai/) - Ops/Compliance
-- [Perplexity Computer](https://www.perplexity.ai/hub/blog/introducing-perplexity-computer) - (Perplexity) — Cloud-based autonomous agent that orchestrates multiple AI models simultaneously, routing subtasks to the best-suited model — reasoning, deep research, image/video generation, and long-context recall — and can run workflows for hours or months. Max subscribers only ($200/mo).…
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. <sub>lista awesome</sub>
-- [web-based directory](https://glama.ai/mcp/servers) - that is synced with the repository.
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [KPeyanski](https://peyanski.com/) - Tutorials and walkthroughs covering automations, AI integrations, and energy management by Kiril Peyanski.
-- [Manifest](https://www.manifest.build/) - Build governed agentic apps with an AI powered workflow builder.
-- [Flyte](https://github.com/lyft/flyte) - A container-native, type-safe workflow and pipelines platform optimized for large scale processing and machine learning written in Golang. Workflows can be written in any language, with out of the box support for Python.
-- [AutomationAnywhere](https://www.automationanywhere.com/) - A provider of robotic process automation (RPA) software that allows businesses to automate tasks using a combination of rules-based decision-making, machine learning, and artificial intelligence. Its platform includes a user-friendly interface for creating and deploying automation, and it can be…
-- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - (NousResearch) — The self-improving AI agent. Builds reusable skills from experience and improves them during use, giving it a compounding learning loop. Persistent cross-session memory (SQLite + FTS5), multi-platform gateway (Telegram, Discord, Slack, WhatsApp, Signal, CLI), 40+ built-in tools…
+- [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook) - Exemplos de usar E2B
+- [Sign up for n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) - (N8n Cloud julgamento disponível)
+- [Ano.chat](https://ano.chat/) - Uma alternativa Slack que corre Claude Code nativamente em uma concha sob seus canais.
+- [Model Context Protocol](https://github.com/modelcontextprotocol) - Model Context Protocol (MCP) é um protocolo aberto que permite uma integração perfeita entre aplicações LLM e fontes de dados externas e ferramentas.
+- [ray.run](https://ray.run/) - de ideia para um servidor MCP em menos de um minuto.
+- [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - Uma tentativa de código aberto experimental para tornar o GPT-4 totalmente autônomo.
+- [Rulai](https://rul.ai/) - AI Chatbot para entregar o serviço de auto-escala
+- [LLM Vision](https://github.com/valentinfrlch/ha-llmvision) - Adicione inteligência visual às suas automações: caption camera instantâneos, resumir o que está acontecendo, reagir a eventos específicos (1.373).
+- [BigPipe](https://bigpipe.agency/) - Transforma a expertise de uma agência de marketing ou crescimento em uma empresa independente: uma IA constrói o site, produto, faturamento, e back office e executa-os no piloto automático, então…
+- [Cordum](https://github.com/cordum-io/cordum) - Primeiro plano de controle para agentes de IA e trabalhadores externos (política antes da expedição, portões de aprovação, trilhas de auditoria).
+- [KAI-Flow](https://www.kaiflow.io/) - KAI Flow é uma plataforma de código baixo Open Source desenvolvida para projetar e escalar fluxos complexos de IA.
+- [GitHub Repository](https://github.com/aiwaves-cn/agents) - Um Framework de Código Aberto para Agentes Autonomotivos de Linguagem Autônomos e Centrais em Dados.
+- [Link to Template](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/) - Fluxo de trabalho externo aumentando um chatbot IA com memória de longo prazo e capacidade dinâmica de roteamento de ferramentas.
+- [Claude Cowork](https://claude.ai/download) - (Anthropic) — Agente de IA do Anthropic desktop com uma interface gráfica. Acesso persistente a arquivos locais e aplicativos, projetado como um complemento GUI-friendly para Claude Code (que é…
+- [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main) - Servidor MCP para integração Todoísta permitindo o gerenciamento de tarefas de linguagem natural com Claude
+- [MCP](https://modelcontextprotocol.io/) - Esta lista se concentra em MCP pronto para produção e experimental.
+- [babyagi](https://github.com/yoheinakajima/babyagi) - Um sistema de gerenciamento de tarefas movido por IA.
+- [Bookmark](https://www.bookmark.com/) - Crie um site com IA.
+- [AI Automation Suggester](https://github.com/ITSpecialist111/ai_automation_suggester) - Analise suas entidades e peça a um provedor de IA (OpenAI, Anthropic, Google, Groq, Ollama) para sugestões personalizadas de automação, surgidas como notificações (749).
+- [LLMGraph](https://llmgraph.ai/) - Construtor visual sem código para fluxos de trabalho LLM/AI: transforme seus documentos e modelos em chatbots RAG e agentes IA, então implante cada um em uma API REST e um widget de bate-papo…
+- [Dagster](https://dagster.io/) - Orquestrador de dados para aprendizado de máquina, análise e ETL.
+- [Rierino](https://rierino.com/) - Plataforma desenvolvedora de baixo código para construir e orquestrar aplicativos corporativos, microservices e APIs com design de fluxo visual, arquitetura composível e IA incorporada...
+- [Github Repository](https://github.com/krohling/bondai) - BondAI é uma ferramenta de código aberto para o desenvolvimento de sistemas AI Agent, que lida com complexidades de implementação incluindo gerenciamento de memória/contexto, manipulação de erros…
+- [Komos](https://www.komos.ai/) - Operações/Competência
+- [Perplexity Computer](https://www.perplexity.ai/hub/blog/introducing-perplexity-computer) - Agente autônomo baseado em nuvem que orquestra vários modelos de IA simultaneamente, encaminhando subtarefas para o modelo mais adequado: raciocínio, pesquisa profunda, geração de imagem/vídeo, e...
+- [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers) - Servidores de protocolo de contexto
+- [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score) - Uma estrutura aberta para marcar o quão bem uma definição de ferramenta MCP se comunica com um agente de IA - a Pontuação de Qualidade da Definição de Ferramenta (TDQS).
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Reúna, configure e implante agentes de IA autônomos no seu navegador.
+- [KPeyanski](https://peyanski.com/) - Tutoriais e caminhadas cobrindo automação, integrações de IA, e gerenciamento de energia por Kiril Peyanski.
+- [Manifest](https://www.manifest.build/) - Construa aplicativos de gestão com um construtor de fluxo de trabalho alimentado por IA.
 
-## ◾ Automação
+## 🗂️ Produto completo.
 
-- [Integromat](https://www.integromat.com/en/) - The glue of the internet
-- [ActionDesk](https://www.actiondesk.io/) - Build powerful automations with your spreadsheet skills
-- [Microsoft Flow](https://flow.microsoft.com/fr-fr/) - Automate tasks by integrating your favorite apps
-- [Wayscript](https://wayscript.com/) - A rapid scripting platform with drag-n-drop interface for Python and Javascript
-- [Activepieces](https://www.activepieces.com/) - A no-code tool to automate your business.
-- [Appy Pie Automate](https://appypieautomate.ai/) - No-code workflow automation platform with 1,000+ integrations to connect Gmail, Slack, Shopify, HubSpot, and more.
-- [BulkPublish](https://www.bulkpublish.com/) - Social media API for publishing to 11 platforms with Zapier, n8n, Make.com, and IFTTT integrations. REST API with Python & Node.js SDKs. Free tier available.
-- [CallURL](https://callurl.com/) - Create a free AI phone line for any flyer, room, product, assignment, event, form, or workflow. Answers every call and shares by link or QR.
-- [Clay](https://clay.run/) - Build tools & workflows to supercharge your team
+> 10 links de Produto completo. em Automação e No-code, reunidos das listas curadas da comunidade.
 
-## ◾ Business Apps
+- [AiiDA](https://github.com/aiidateam/aiida-core) - Gerente de fluxo de trabalho aberto para ciência computacional com forte foco em desempenho, proveniência e extensibilidade.
+- [Airflow](https://github.com/apache/incubator-airflow) - Plataforma baseada em Python para executar gráficos acíclicos direcionados (DAGs) de tarefas
+- [Argo Workflows](https://github.com/argoproj/argo-workflows) - Motor de fluxo de trabalho nativo de contêiner aberto para trabalhar em Kubernetes.
+- [Arvados](https://github.com/arvados/arvados) - Plataforma de gerenciamento de dados e fluxo de trabalho Open Source com ênfase em reproducibilidade, escala e compartilhamento seguro de dados, implantáveis na nuvem e HPC.
+- [Azkaban](https://azkaban.github.io/) - Programador de trabalho em lote criado no LinkedIn para executar trabalhos Hadoop.
+- [Brigade](https://brigade.sh/) - A Brigada é uma ferramenta para executar tarefas automatizadas na nuvem, como parte do seu grupo Kubernetes.
+- [Bytechef](https://www.bytechef.io/) - Open-source, low-code, plataforma de automação extensível de integração e fluxo de trabalho da API
+- [CabloyJS](https://cabloy.com/) - Uma estrutura completa de Node.js com motor de fluxo de trabalho, baseado em koa + ovo + vue + framework7.
+- [Cadence](https://github.com/uber/cadence) - Um motor de orquestração para executar lógica empresarial assíncrona desenvolvida pela Uber Engineering.
+- [CDS](https://ovh.github.io/cds/) - Entrega contínua de nível empresarial e plataforma de automação DevOps desenvolvida pela OVHcloud.
 
-- [Betty Blocks](https://www.bettyblocks.com/) - No-code enterprise application development
-- [AppSheet](https://www.appsheet.com/) - Intelligent no-code app development platform
-- [Quick Base](https://www.quickbase.com/) - Best way to manage data and automate processes, so you can accomplish more
-- [Zoho Creator](https://www.zoho.com/fr/creator/) - Custom apps to run your business.
-- [Calcapp](https://www.calcapp.net/) - Build apps with your spreadsheet skills
-- [Budibase](https://budibase.com/) - Powerful low-code app builder for creating internal tools in minutes.
-- [Community.lawyer](https://community.lawyer/) - No-code App Builder designed specifically for legal service professionals
-- [DronaHQ](https://dronahq.com/) - Build Business Apps Without Coding
-- [Eyelet](https://eyelet.io/) - Create interactive guidance for your product without code
+## 🔹 Saas.
 
-## ◾ Chatbots
+> 10 links de Saas. em Automação e No-code, reunidos das listas curadas da comunidade.
 
-- [Manychat](https://manychat.com/) - Create a Messenger bot in minutes
-- [It's Alive](https://itsalive.io/) - Create a Facebook bot in minutes
-- [Chatfuel](https://chatfuel.com/) - Create chatbots for your audience
-- [Landbot](https://landbot.io/) - Lead generation landing page as chatbot
-- [Botsify](https://botsify.com/) - Create your own automated chatbot online
-- [Chatamo](https://chatamo.com/) - Create intelligent voice and chatbot for marketing and sales
-- [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python
-- [Botnation](https://botnation.ai/en/) - Create chatbots, landbots, voicebots, callbots on Messenger, Web, Google Home, Phone device.
-- [Flow XO](https://flowxo.com/) - Create a chatbot with zero coding skills required
+- [AWS Step Functions](https://aws.amazon.com/step-functions/) - Limpar fluxos de trabalho para aplicações modernas. <sub>📚 livro</sub>
+- [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Construído em um tempo de execução contêiner, implantar e correr em qualquer lugar para aumentar a escala e portabilidade ao automatizar fluxos de trabalho críticos.
+- [Braze](https://www.braze.com/) - Interações centradas no cliente entre consumidores e marcas em tempo real.
+- [Camunda Cloud](https://camunda.com/products/cloud/) - Um serviço de fluxo de trabalho executando BPMN, fornecendo vários clientes de idiomas, baseado no projeto de código aberto Zeebe.
+- [Codehooks.io](https://codehooks.io/) - Infraestrutura sem servidor com um motor de fluxo de trabalho para automação e IA, suportando fluxos de trabalho gerados pela LLM através do pacote NPM codehooks-js.
+- [Corezoid](https://corezoid.com/) - Motor de hiperautomação.
+- [Embed Workflow](https://embedworkflow.com/) - Construtor de fluxo de trabalho nativo simples para seus usuários finais
+- [Orkes Conductor](https://orkes.io/cloud/) - Orkes fornece a Netflix Condutor como um serviço de nuvem em todos os principais provedores de nuvem com recursos corporativos, tais como segurança, integrações e editor de código visual do fluxo de…
+- [Google Cloud Workflows](https://cloud.google.com/workflows/) - Combine serviços e APIs do Google Cloud para criar aplicativos confiáveis, automação de processos e oleodutos de aprendizado de dados e máquinas.
+- [Inngest](https://www.inngest.com/) - Uma plataforma de execução durável escalável e orientada por eventos.
 
-## ◾ Full fledged product
+## 🟣 Automação
 
-- [AiiDA](https://github.com/aiidateam/aiida-core) - Open source workflow manager for computational science with strong focus on performance, provenance, and extensibility.
-- [Airflow](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
-- [Argo Workflows](https://github.com/argoproj/argo-workflows) - Open source container-native workflow engine for getting work done on Kubernetes
-- [Arvados](https://github.com/arvados/arvados) - Open Source data and workflow management platform with emphasis on reproducibily, scale, and secure data sharing, deployable on cloud and HPC.
-- [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
-- [Brigade](https://brigade.sh/) - Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster.
-- [Bytechef](https://www.bytechef.io/) - Open-source, low-code, extendable API integration & workflow automation platform
-- [CabloyJS](https://cabloy.com/) - A Node.js full-stack framework with workflow engine, based on koa + egg + vue + framework7.
-- [Cadence](https://github.com/uber/cadence) - An orchestration engine to execute asynchronous long-running business logic developed by Uber Engineering.
+> 9 links de Automação em Automação e No-code, reunidos das listas curadas da comunidade.
 
-## ◾ Analytics
+- [Integromat](https://www.integromat.com/en/) - A cola da internet
+- [ActionDesk](https://www.actiondesk.io/) - Construa automações poderosas com suas habilidades de planilha.
+- [Microsoft Flow](https://flow.microsoft.com/fr-fr/) - Automatize tarefas integrando seus aplicativos favoritos.
+- [Wayscript](https://wayscript.com/) - Uma rápida plataforma de scripts com interface drag-n-drop para Python e Javascript
+- [Activepieces](https://www.activepieces.com/) - Uma ferramenta sem código para automatizar seu negócio.
+- [Appy Pie Automate](https://appypieautomate.ai/) - Plataforma de automação sem código com mais de 1.000 integrações para conectar Gmail, Slack, Shopify, HubSpot e muito mais.
+- [BulkPublish](https://www.bulkpublish.com/) - API de mídia social para publicação em 11 plataformas com Zapier, N8n, Make.com e IFTTT integrações. API REST com Python & Node.js SDKs.
+- [CallURL](https://callurl.com/) - Criar uma linha de telefone IA grátis para qualquer flyer, quarto, produto, atribuição, evento, formulário ou fluxo de trabalho.
+- [Clay](https://clay.run/) - Construir ferramentas e fluxos de trabalho para sobrecarregar sua equipe
 
-- [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and friendly analytics
-- [Google Analytics](https://analytics.google.com/) - Free website analytics
-- [Nightlamp](https://nightlamp.app/) - Managed monitoring and real-engineer diagnostics for no-code and AI-built apps (Bubble, Lovable, Webflow, Softr, Replit): catches broken workflows, failed webhooks and outages, then explains the fix.
-- [PageGuard](https://pageguard.org/) - Free website health scanner for SEO, accessibility (WCAG/ADA), performance, and best practices. No signup required.
-- [VisualSitemaps](https://visualsitemaps.com/) - Autogenerate Visual Sitemaps & Screenshots in Seconds
-- [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics.
-- [Posthog](https://posthog.com/) - Open source product analytics.
+## 📱 Aplicações de Negócios
 
-## ◾ 1. Communication & Messaging Nodes
+> 9 links de Aplicações de Negócios em Automação e No-code, reunidos das listas curadas da comunidade.
 
-- [n8n-nodes-evolution-api](https://www.npmjs.com/package/n8n-nodes-evolution-api)
-- [n8n-nodes-chatwoot](https://www.npmjs.com/package/n8n-nodes-chatwoot)
-- [n8n-nodes-zapi](https://www.npmjs.com/package/n8n-nodes-zapi)
-- [n8n-nodes-imap](https://www.npmjs.com/package/n8n-nodes-imap)
-- [@devlikeapro/n8n-nodes-waha](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-waha)
-- [@devlikeapro/n8n-nodes-chatwoot](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-chatwoot)
+- [Betty Blocks](https://www.bettyblocks.com/) - Desenvolvimento de aplicações empresariais sem código
+- [AppSheet](https://www.appsheet.com/) - Plataforma de desenvolvimento inteligente sem código.
+- [Quick Base](https://www.quickbase.com/) - Melhor maneira de gerenciar dados e automatizar processos, para que você possa realizar mais
+- [Zoho Creator](https://www.zoho.com/fr/creator/) - Aplicativos personalizados para gerenciar seu negócio.
+- [Calcapp](https://www.calcapp.net/) - Construa aplicativos com suas habilidades de planilha.
+- [Budibase](https://budibase.com/) - Poderoso construtor de aplicativos para criar ferramentas internas em minutos.
+- [Community.lawyer](https://community.lawyer/) - Construtor de aplicativos sem código projetado especificamente para profissionais do serviço legal
+- [DronaHQ](https://dronahq.com/) - Construir aplicativos de negócios sem codificação
+- [Eyelet](https://eyelet.io/) - Criar orientação interativa para o seu produto sem código
 
-## ◾ 3. Browser Automation & Web Scraping Nodes
+## 🔶 Chatbots.
 
-- [ScrapeNinja](https://scrapeninja.net/)
-- [@mendable/n8n-nodes-firecrawl](https://www.npmjs.com/package/@mendable/n8n-nodes-firecrawl)
-- [n8n-nodes-firecrawl](https://www.npmjs.com/package/n8n-nodes-firecrawl)
-- [n8n-nodes-puppeteer](https://www.npmjs.com/package/n8n-nodes-puppeteer)
-- [n8n-nodes-serpapi](https://www.npmjs.com/package/n8n-nodes-serpapi)
-- [n8n-nodes-nvk-browser](https://www.npmjs.com/package/n8n-nodes-nvk-browser)
+> 9 links de Chatbots. em Automação e No-code, reunidos das listas curadas da comunidade.
 
-## ◾ 4. Data Processing, Validation & Utilities Nodes
+- [Manychat](https://manychat.com/) - Crie um robô Mensageiro em minutos.
+- [It's Alive](https://itsalive.io/) - Crie um bot no Facebook em minutos.
+- [Chatfuel](https://chatfuel.com/) - Crie chatbots para o seu público.
+- [Landbot](https://landbot.io/) - A landing page da geração líder como chatbot.
+- [Botsify](https://botsify.com/) - Crie seu próprio chatbot automatizado online.
+- [Chatamo](https://chatamo.com/) - Criar voz inteligente e chatbot para marketing e vendas
+- [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Projete e implemente chatbots em Python.
+- [Botnation](https://botnation.ai/en/) - Criar chatbots, landbots, voicebots, callbots no Messenger, Web, Google Home, dispositivo de telefone.
+- [Flow XO](https://flowxo.com/) - Crie um chatbot com zero habilidades de codificação necessárias.
 
-- [n8n-nodes-globals](https://www.npmjs.com/package/n8n-nodes-globals)
-- [n8n-nodes-text-manipulation](https://www.npmjs.com/package/n8n-nodes-text-manipulation)
-- [n8n-nodes-datastore](https://www.npmjs.com/package/n8n-nodes-datastore)
-- [n8n-nodes-cronlytic](https://www.npmjs.com/package/n8n-nodes-cronlytic)
-- [n8n-nodes-tesseractjs](https://www.npmjs.com/package/n8n-nodes-tesseractjs)
-- [@splainez/n8n-nodes-phonenumber-parser](https://www.npmjs.com/package/@splainez/n8n-nodes-phonenumber-parser)
+## 📊 Análise.
 
-## ◾ Around community projects
+> 7 links de Análise. em Automação e No-code, reunidos das listas curadas da comunidade.
 
-- [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Help with the Python automation framework that runs alongside the core. <sub>comunidade</sub>
-- [ESPHome Discord](https://discord.gg/KhAMKrd) - Help with ESP-based DIY devices and the YAML firmware for them. <sub>comunidade</sub>
-- [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) - GitHub Discussions for the local-NVR / object-detection project.
-- [HACS Discord](https://discord.gg/apgchf8) - Help with the Home Assistant Community Store. <sub>comunidade</sub>
-- [Music Assistant Discord](https://discord.gg/kaVm8hGpne) - Chat for the multi-room music server. <sub>comunidade</sub>
-- [NetDaemon Discord](https://discord.gg/K3xwfcX) - Help with writing automations in C# / .NET. <sub>comunidade</sub>
+- [Simple Analytics](https://simpleanalytics.com/) - Simples, limpo e amigável análise.
+- [Google Analytics](https://analytics.google.com/) - Análise gratuita do site
+- [Nightlamp](https://nightlamp.app/) - Monitoramento gerenciado e diagnósticos de engenharia real para aplicativos sem código e construídos por IA (Bubble, Lovable, Webflow, Softer, Replit): captura fluxos de trabalho quebrados, falhas em…
+- [PageGuard](https://pageguard.org/) - Scanner gratuito para SEO, acessibilidade (WCAG/ADA), desempenho e melhores práticas.
+- [VisualSitemaps](https://visualsitemaps.com/) - Gerar automaticamente mapas visuais do site e imagens em segundos
+- [Simple Analytics](https://simpleanalytics.io/) - Simples, limpo e amigável análise.
+- [Posthog](https://posthog.com/) - Análise de produtos de código aberto.
 
-## ◾ In your language
+## 👥 Em torno de projetos comunitários
 
-- [Home Assistant Brasil](https://t.me/homeassistant_brasil) - Brazilian Portuguese Telegram group for users of all skill levels. <sub>comunidade</sub>
-- [Hassbian Forum](https://bbs.hassbian.com/forum.php) - Chinese-language forum for smart home enthusiasts. <sub>comunidade</sub>
-- [Home Assistant CZ](https://www.homeassistant-cz.cz/) - Czech-language forum with an active user base.
-- [Dansk Home Assistant gruppe](https://www.facebook.com/groups/209025039666209/) - Danish-language Facebook group.
-- [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch-language home-automation Discord. <sub>comunidade</sub>
-- [Home Assistant NL](https://t.me/home_assistant_nl) - Dutch-language Telegram group. <sub>comunidade</sub>
+> 6 links de Em torno de projetos comunitários em Automação e No-code, reunidos das listas curadas da comunidade.
 
-## ◾ Library (embedded usage)
+- [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Ajude com o framework de automação Python que funciona ao lado do núcleo. <sub>👥 comunidade</sub>
+- [ESPHome Discord](https://discord.gg/KhAMKrd) - Ajuda com dispositivos de DIY baseados em ESP e o firmware YAML para eles. <sub>👥 comunidade</sub>
+- [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) - Discussão do GitHub para o projeto de detecção local-NVR/object.
+- [HACS Discord](https://discord.gg/apgchf8) - Ajuda com a loja comunitária. <sub>👥 comunidade</sub>
+- [Music Assistant Discord](https://discord.gg/kaVm8hGpne) - Conversa para o servidor de música multi-sala. <sub>👥 comunidade</sub>
+- [NetDaemon Discord](https://discord.gg/K3xwfcX) - Ajuda com automatização em C# / .NET. <sub>👥 comunidade</sub>
 
-- [Automatiko](https://automatiko.io/) - a toolkit to build services and functions based on workflows (primarily BPMN2). Introduces and implements concepts: workflow as a service, workflow as a function and workflow as a function flow.
-- [C++ Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine.
-- [Camunda](https://camunda.com/) - BPMN-based workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone, including a graphical modeler and operations tooling.
-- [Captain](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
-- [CoreWF](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
-- [Dagger](https://github.com/wayfair-incubator/dagger) - Dagger is a distributed, horizontally scalable, durable, and highly available orchestration engine in python based on Faust-Streaming for running millions of long running tasks with direct integration with Kafka
+## 🗣️ Em sua língua
 
-## ◾ Low Code Application Platform
+> 6 links de Em sua língua em Automação e No-code, reunidos das listas curadas da comunidade.
 
-- [Tabidoo](https://tabidoo.cloud/) - Powerful Low Code platform, with mature workflows, rights management and integrations (REST API). Many predefined templates. No charge per user.
-- [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
-- [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
-- [Appian](https://appian.com/) - Provides a Low Code software development platform that enables organizations to rapidly develop powerful applications.
-- [Mendix](https://mendix.com/) - The fastest and easiest high-productivity platform to create and continuously improve multi-channel applications at scale.
-- [OutSystems](https://www.outsystems.com/) - A Low Code platform that enables businesses to develop, deploy, and manage enterprise-grade apps.
+- [Home Assistant Brasil](https://t.me/homeassistant_brasil) - Grupo de Telegrama Português Brasileiro para usuários de todos os níveis de habilidade. <sub>👥 comunidade</sub>
+- [Hassbian Forum](https://bbs.hassbian.com/forum.php) - Fórum em chinês para entusiastas de casas inteligentes. <sub>👥 comunidade</sub>
+- [Home Assistant CZ](https://www.homeassistant-cz.cz/) - Fórum tcheco com uma base de usuários ativa.
+- [Dansk Home Assistant gruppe](https://www.facebook.com/groups/209025039666209/) - Grupo de Facebook em língua dinamarquesa.
+- [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Discórdia de automatização em holandês. <sub>👥 comunidade</sub>
+- [Home Assistant NL](https://t.me/home_assistant_nl) - Grupo de telegramas em língua holandesa. <sub>👥 comunidade</sub>
 
-## ◾ Other community spaces
+## 🔧 Biblioteca (uso incorporado)
 
-- [Home Assistant International Telegram](https://t.me/home_assistant_international) - English-speaking Telegram group for the wider international community. <sub>comunidade</sub>
-- [r/homeautomation](https://www.reddit.com/r/homeautomation/) - The largest platform-agnostic home automation subreddit, covering all hubs, protocols, and project ideas. <sub>comunidade</sub>
-- [r/smarthome](https://www.reddit.com/r/smarthome/) - Product-focused smart home subreddit with buying advice, reviews, and setup questions. <sub>comunidade</sub>
-- [r/selfhosted](https://www.reddit.com/r/selfhosted/) - Subreddit for self-hosted software, with a large crossover into home automation and local control. <sub>comunidade</sub>
-- [Home Assistant on Lemmy](https://lemmy.world/c/homeassistant) - Fediverse alternative to the subreddit for privacy-minded users.
-- [Home Automation on Lemmy](https://lemmy.world/c/homeautomation) - General home automation community on the Fediverse.
+> 6 links de Biblioteca (uso incorporado) em Automação e No-code, reunidos das listas curadas da comunidade.
 
-## ◾ Saas
+- [Automatiko](https://automatiko.io/) - Um kit de ferramentas para construir serviços e funções baseados em fluxos de trabalho (principalmente BPMN2). Apresenta e implementa conceitos: fluxo de trabalho como um serviço, fluxo de trabalho…
+- [C++ Workflow](https://github.com/sogou/workflow) - Computação paralela C++ e motor de rede assíncrono.
+- [Camunda](https://camunda.com/) - Motor de fluxo de trabalho baseado em BPMN que pode ser incorporado como biblioteca java (por exemplo, Spring Boot) ou usado autônomo, incluindo um modelador gráfico e ferramentas de operações.
+- [Captain](https://github.com/LiveRamp/captain) - Distribuído, motor de fluxo de trabalho java leve para uma arquitetura microservice.
+- [CoreWF](https://github.com/UiPath/corewf) - WF Runtime portado para trabalhar em .NET Core
+- [Dagger](https://github.com/wayfair-incubator/dagger) - Adaga é um distribuidor, horizontalmente escalável, durável e altamente disponível motor de orquestração em python baseado em Fausto-Streaming para executar milhões de tarefas de longa duração com…
 
-- [AWS Step Functions](https://aws.amazon.com/step-functions/) - Clear workflows for modern applications. <sub>livro</sub>
-- [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Built on a containerized runtime, deploy and run anywhere to increase scale and portability while automating business-critical workflows.
-- [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
-- [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project Zeebe .
-- [Codehooks.io](https://codehooks.io/) - Serverless backend with a workflow engine for automation and AI, supporting LLM-generated workflows via the codehooks-js NPM package.
-- [Corezoid](https://corezoid.com/) - Hyperautomation engine.
+## 🟢 Plataforma de Aplicação com Código Baixo
 
-## ◾ Mais links
+> 6 links de Plataforma de Aplicação com Código Baixo em Automação e No-code, reunidos das listas curadas da comunidade.
 
-- [HACS](https://hacs.xyz/) - the Home Assistant Community Store, after you
-- [Convert your n8n workflow into full-fledged product](https://pixeljets.com/n8n-to-saas/)
-- [n8n](https://n8n.partnerlinks.io/xvc4bt53bv9e)
-- [MeterCall](https://metercall.ai/) - Universal API gateway over 10M+ APIs with AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork. Free tier, usage-based pricing.
-- [Shogo](https://shogo.ai/) - Open-source platform for building AI agents that read from your systems, take actions, and run workflows end to end. TypeScript monorepo, self-hostable; SDK and client libraries MIT-licensed with server components AGPL-3.0.
-- [Taskade Genesis](https://docs.taskade.com/genesis-living-system-builder/genesis/) - AI-powered no-code app builder documentation. Build full-stack applications from natural language with integrated automation, AI agents, and workflow execution. Includes workspace DNA architecture and examples.
-- [Power Automate (Microsoft)](https://flow.microsoft.com/) - An online workflow service that automates actions across the most common apps and services.
-- [Einstein Automate (Salesforce)](https://www.salesforce.com/products/platform/einstein-automate/) - Empower your employees to do more of what matters by automating business processes easily without needing specialized development skills.
-- [Jira Automation (Atlassian)](https://www.atlassian.com/software/jira/features/automation) - Automation is a No Code rule builder that enables customers to build if-this-then-that-rules based on events in Jira.
-- [Trello Power-Ups (Atlassian)](https://trello.com/power-ups/category/automation) - Helps teams meet their unique business needs through adaptable features and integrations.
-- [Flow (Zoho)](https://www.zoho.com/flow/) - An integration platform that helps you connect your apps without any code.
-- [Home Assistant Installation](https://www.home-assistant.io/installation/) - The official installation guides.
-- [Home Assistant Discord](https://discord.com/invite/c5DvZ4e) - The main chat, most of us are there. <sub>comunidade</sub>
-- [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - The discussion forum.
-- [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - The official subreddit. <sub>comunidade</sub>
-- [Home Assistant Facebook Group](https://www.facebook.com/groups/HomeAssistant/) - Facebook group for enthusiasts.
-- [Pineify](https://pineify.app/) - No-code visual builder and AI coding agent for creating TradingView indicators, strategies, and screeners in Pine Script v6.
-- [Throughstone](https://github.com/mherschberg/Throughstone) - Architecture-first scaffold and method for building maintainable software with AI coding agents.
-- [Explain My Build](https://explainmybuild.com/) - Reads the real code of an app you built with AI and writes a plain-English end-user guide, a founder runbook, and a code-verified fix-list — from the code, not a screen recording.
-- [MergeFix](https://mergefix.com/) - Audits an AI-built app for SEO, performance, accessibility, and security issues and opens the fixes as a real GitHub pull request. Also has a "Migrate & Own" flow to move an app built on Bolt/Lovable/Replit into a repo you fully own.
-- [Activiti](https://www.activiti.org/) - Activiti is a leading lightweight, java-centric open-source BPMN engine supporting real-world process automation needs.
-- [Activiti Cloud](https://activiti.gitbook.io/activiti-7-developers-guide/) - is now the new generation of business automation platform offering a set of cloud native building blocks designed to run on distributed infrastructures.
-- [Bonita](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
-- [Flowable](https://github.com/flowable/flowable-engine) - The Flowable project provides a core set of open source business process engines that are compact and highly efficient. They provide a workflow and Business Process Management (BPM) platform for developers, system admins and business users.
-- [jBPM](https://www.jbpm.org/) - The core of jBPM is a light-weight, extensible workflow engine written in pure Java that allows you to execute business processes using the latest BPMN 2.0 specification.
-- [Phantombuster](https://phantombuster.com/) - Marketplace of simple to use no-code APIs
-- [n8n-nodes-qrcode](https://www.npmjs.com/package/n8n-nodes-qrcode)
-- [n8n-nodes-ai-media-generate](https://www.npmjs.com/package/n8n-nodes-ai-media-generate)
-- [n8n-nodes-pdforge](https://www.npmjs.com/package/n8n-nodes-pdforge)
-- [n8n-nodes-document-generator](https://www.npmjs.com/package/n8n-nodes-document-generator)
-- [PegaSystems](https://www.pega.com/) - Provides business process and customer relationship management solutions for organizations.
-- [AgilePoint](https://agilepoint.com/) - Deploy business-changing ideas in minutes, not months, with the AgilePoint digital process automation platform.
-- [Creatio](https://www.creatio.com/) - A global software company providing a leading Low Code platform for process management and CRM.
-- [AuraQuantic](https://www.auraquantic.com/) - A digital platform designed for business users to easily and rapidly build unlimited processes and applications.
-- [Kintone](https://www.kintone.com/) - The best productivity software to business transformation Platform.
-- [Power Automate Desktop (Microsoft)](https://powerautomate.microsoft.com/en-us/robotic-process-automation/) - Automate everything from simple data transfers to complex business workflows—directly from your desktop—using RPA desktop flows in Power Automate Desktop.
-- [Servicetrace RPA (Salesforce)](https://www.servicetrace.com/) - Develop innovation in robotic solutions.
-- [Appian RPA](https://appian.com/platform/complete-automation/robotic-process-automation-rpa.html) - Orchestrate RPA bots with people, systems, and data in a single workflow, scaling automation across your entire organization.
-- [Workato RPA](https://www.workato.com/modern-rpa) - Integration-powered RPA for Intelligent Automation.
-- [UiPath](https://www.uipath.com/) - A leading provider of robotic process automation (RPA) software, which enables organizations to automate repetitive and time-consuming tasks, such as data entry and data processing. Its platform includes a visual designer for building automation workflows, a robot for executing the workflows…
-- [Notion](https://www.notion.so/) - All-in-one workspace - notes, tasks, wikis & databases
-- [Trello](https://trello.com/louisveyret1/boards) - All-in-one workspace and collaboration for businesses
-- [Fibery](https://fibery.io/) - Instead of trying to make scattered tools work, Build your own workspace
-- [Quip](https://quip.com/) - One place for all your team's work
-- [Salesflare](https://salesflare.com/) - Simple & powerful CRM for small businesses
+- [Tabidoo](https://tabidoo.cloud/) - Plataforma poderosa de código baixo, com fluxos de trabalho maduros, gerenciamento de direitos e integrações ( API REST), muitos modelos predefinidos, sem custo por usuário.
+- [Power Apps (Microsoft)](https://powerapps.com/) - Construa aplicativos em horas, não meses, que se conectam facilmente a dados, use expressões do tipo Excel para adicionar lógica e execute na web, iOS e dispositivos Android.
+- [Power BI](https://powerbi.microsoft.com/) - Unifique dados de muitas fontes para criar painéis interativos e imersivos e relatórios que fornecem insights acionáveis e direcionam resultados de negócios.
+- [Appian](https://appian.com/) - Fornece uma plataforma de desenvolvimento de software Low Code que permite às organizações desenvolverem aplicativos poderosos rapidamente.
+- [Mendix](https://mendix.com/) - A plataforma de alta produtividade mais rápida e fácil para criar e melhorar continuamente aplicações multicanais em escala.
+- [OutSystems](https://www.outsystems.com/) - Uma plataforma de código baixo que permite às empresas desenvolver, implantar e gerenciar aplicativos corporativos.
+
+## 👥 Outros espaços comunitários
+
+> 6 links de Outros espaços comunitários em Automação e No-code, reunidos das listas curadas da comunidade.
+
+- [Home Assistant International Telegram](https://t.me/home_assistant_international) - Grupo de telegramas falantes de inglês para a comunidade internacional. <sub>👥 comunidade</sub>
+- [r/homeautomation](https://www.reddit.com/r/homeautomation/) - A maior plataforma diagnóstica de automação doméstica subreddit, cobrindo todos os hubs, protocolos e idéias do projeto. <sub>👥 comunidade</sub>
+- [r/smarthome](https://www.reddit.com/r/smarthome/) - Uma casa inteligente focada em produtos, subreddit com conselhos de compra, comentários e perguntas de configuração. <sub>👥 comunidade</sub>
+- [r/selfhosted](https://www.reddit.com/r/selfhosted/) - Subreddit para software auto-hospedado, com um grande cruzamento em automação doméstica e controle local. <sub>👥 comunidade</sub>
+- [Home Assistant on Lemmy](https://lemmy.world/c/homeassistant) - Alternativa federal ao subreddit para usuários com mentalidade privada.
+- [Home Automation on Lemmy](https://lemmy.world/c/homeautomation) - Automatização geral na comunidade Fediverse.
+
+## 🟣 Configurações Públicas
+
+> 6 links de Configurações Públicas em Automação e No-code, reunidos das listas curadas da comunidade.
+
+- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig) - Provavelmente a configuração mais documentada lá fora (5.208).
+- [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - Também conhecido como Tinkerer, compartilha seus arquivos de configuração (688).
+- [geekofweek](https://github.com/geekofweek/homeassistant) - Tem mais de 300 automações (1.477).
+- [Alok Saboo](https://github.com/arsaboo/homeassistant-config) - Também conhecido como Arsaboo, regularmente atualizado (1.953).
+- [Franck Nijhof](https://github.com/frenck/home-assistant-config) - O sistema operacional assistente se baseia em uma estrutura de configuração muito diferente da dos outros.
+- [Klaas Schoute](https://github.com/klaasnicolaas/Student-homeassistant-config) - Sistema operacional Home Assistant baseado, Intel NUC, Ubuntu Server, Docker e regularmente atualizado (223).
+
+## 🔧 Automação de Processo Robótico
+
+> 6 links de Automação de Processo Robótico em Automação e No-code, reunidos das listas curadas da comunidade.
+
+- [Power Automate Desktop (Microsoft)](https://powerautomate.microsoft.com/en-us/robotic-process-automation/) - Automatize tudo, desde transferências de dados simples a fluxos de trabalho complexos - diretamente do seu desktop - usando fluxos de desktop RPA no Power Automatize Desktop.
+- [Servicetrace RPA (Salesforce)](https://www.servicetrace.com/) - Desenvolver inovação em soluções robóticas.
+- [Appian RPA](https://appian.com/platform/complete-automation/robotic-process-automation-rpa.html) - Organize robôs RPA com pessoas, sistemas e dados em um único fluxo de trabalho, escalando automação em toda a sua organização.
+- [Workato RPA](https://www.workato.com/modern-rpa) - RPA de integração para Automação Inteligente.
+- [UiPath](https://www.uipath.com/) - Um fornecedor líder de software de automação de processos robóticos (RPA), que permite às organizações automatizar tarefas repetitivas e demoradas, como entrada de dados e processamento de dados.
+- [AutomationAnywhere](https://www.automationanywhere.com/) - Um provedor de software de automação de processo robótico (RPA) que permite às empresas automatizar tarefas usando uma combinação de decisões baseadas em regras, aprendizado de máquina e inteligência…
+
+## 🧺 Mais links
+
+> Links de Automação e No-code que vêm de tópicos pequenos demais para ter uma seção própria.
+
+- [HACS](https://hacs.xyz/) - A loja comunitária de assistentes domésticos, depois de você.
+- [MeterCall](https://metercall.ai/) - Gateway de API universal mais de 10M+ APIs com roteador IA em 25+ modelos, digite uma frase em inglês simples, consiga um aplicativo funcionando, 727+ módulos prontos para bifurcar, nível livre…
+- [Shogo](https://shogo.ai/) - Plataforma de código aberto para a construção de agentes de IA que lêem de seus sistemas, tomam ações e executam fluxos de trabalho do final ao fim.
+- [Taskade Genesis](https://docs.taskade.com/genesis-living-system-builder/genesis/) - A documentação do construtor de aplicativos sem código de IA... cria aplicações completas de linguagem natural com automação integrada, agentes de IA e execução de fluxo de trabalho... inclui… <sub>📖 documentação</sub>
+- [Power Automate (Microsoft)](https://flow.microsoft.com/) - Um serviço de fluxo de trabalho online que automatiza ações nos aplicativos e serviços mais comuns.
+- [Einstein Automate (Salesforce)](https://www.salesforce.com/products/platform/einstein-automate/) - Capacite seus funcionários a fazer mais do que importa automatizando processos de negócios facilmente sem precisar de habilidades especializadas de desenvolvimento.
+- [Jira Automation (Atlassian)](https://www.atlassian.com/software/jira/features/automation) - Automation é um construtor de regras sem código que permite que os clientes construam se-isso-então-que-regras baseadas em eventos em Jira.
+- [Trello Power-Ups (Atlassian)](https://trello.com/power-ups/category/automation) - Ajuda as equipes a atender suas necessidades de negócios únicas através de recursos adaptáveis e integrações.
+- [Flow (Zoho)](https://www.zoho.com/flow/) - Uma plataforma de integração que ajuda você a conectar seus aplicativos sem nenhum código.
+- [Home Assistant Installation](https://www.home-assistant.io/installation/) - Os guias oficiais de instalação.
+- [Home Assistant Discord](https://discord.com/invite/c5DvZ4e) - O bate-papo principal, a maioria de nós está lá. <sub>👥 comunidade</sub>
+- [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - O fórum de discussão.
+- [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - O subreddit oficial. <sub>👥 comunidade</sub>
+- [Home Assistant Facebook Group](https://www.facebook.com/groups/HomeAssistant/) - Grupo de Facebook para entusiastas.
+- [Pineify](https://pineify.app/) - Construtor visual sem código e agente de codificação de IA para criar indicadores, estratégias e rastreadores TradingView em Pine Script v6.
+- [Throughstone](https://github.com/mherschberg/Throughstone) - Primeiro andaime de arquitetura e método para construir software mantenedor com agentes codificadores de IA.
+- [Explain My Build](https://explainmybuild.com/) - Lê o código real de um aplicativo que você construiu com IA e escreve um guia simples do usuário final inglês, um runbook fundador, e uma lista de correção verificada pelo código - do código, não uma…
+- [MergeFix](https://mergefix.com/) - Também tem um fluxo de "Migrate & Own" para mover um aplicativo construído em...
+- [Activiti](https://www.activiti.org/) - Activiti é um motor de fonte aberta líder leve e concentrado em java que suporta as necessidades de automação do processo real.
+- [Activiti Cloud](https://activiti.gitbook.io/activiti-7-developers-guide/) - é agora a nova geração de plataforma de automação empresarial oferecendo um conjunto de blocos de construção nativos na nuvem projetados para funcionar em infraestruturas distribuídas.
+- [Bonita](https://github.com/bonitasoft/bonita-engine) - Motor BPMN que vem com um ambiente de desenvolvimento opcional, um designer, uma interface de usuário opcional e ferramentas administrativas.
+- [Flowable](https://github.com/flowable/flowable-engine) - O projeto Flowable fornece um conjunto central de motores de processo de negócios open source que são compactos e altamente eficientes.
+- [jBPM](https://www.jbpm.org/) - O núcleo do JBPM é um motor de fluxo de trabalho leve e extensível escrito em Java puro que permite executar processos de negócios usando a mais recente especificação BPMN 2.0.
+- [Phantombuster](https://phantombuster.com/) - Mercado simples de usar APIs sem código
+- [PegaSystems](https://www.pega.com/) - Fornece processos de negócios e soluções de gerenciamento de relacionamento com clientes para organizações.
+- [AgilePoint](https://agilepoint.com/) - Lançar ideias de mudança de negócios em minutos, não meses, com a plataforma digital AgilePoint.
+- [Creatio](https://www.creatio.com/) - Uma empresa global de software que fornece uma plataforma líder em Low Code para gerenciamento de processos e CRM.
+- [AuraQuantic](https://www.auraquantic.com/) - Uma plataforma digital projetada para usuários empresariais construirem processos e aplicações sem limites.
+- [Kintone](https://www.kintone.com/) - O melhor software de produtividade para transformação empresarial Plataforma.
+- [Notion](https://www.notion.so/) - Tudo em um espaço de trabalho - notas, tarefas, wikis e bancos de dados
+- [Trello](https://trello.com/louisveyret1/boards) - Tudo em um espaço de trabalho e colaboração para empresas
+- [Fibery](https://fibery.io/) - Em vez de tentar fazer ferramentas dispersas funcionarem, construa seu próprio espaço de trabalho.
+- [Quip](https://quip.com/) - Um lugar para todo o trabalho da sua equipe.
+- [Salesflare](https://salesflare.com/) - Simples e poderoso CRM para pequenas empresas.
 - [Pipedrive](https://www.pipedrive.com/fr) - CRM Gestion de leads en pipeline
-- [Kartra](https://kartra.com/) - Online Business Made Easy
-- [Power Virtual Agents (Microsoft)](https://powervirtualagents.microsoft.com/) - Lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.
-- [Workato Workbot](https://docs.workato.com/workbot/overview.html) - A bot platform that allows you to build customizable workflows.
-- [AnveVoice](https://anvevoice.app/) - No-code AI voice agent for websites with one-line JS embed, supporting 50+ languages and requiring no coding skills.
-- [Hubspot](https://www.hubspot.com/) - A full platform of marketing, sales, customer service and CRM software
-- [Drift](https://www.drift.com/) - Customer support chatbot
-- [Crisp](https://crisp.chat/fr/) - Customer support directly in your website
-- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig) - Probably the most documented configuration out there (5,208).
-- [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer, shares his configuration files (688).
-- [n8n-nodes-evolution-api-media-downloader](https://www.npmjs.com/package/n8n-nodes-evolution-api-media-downloader)
-- [Azure Logic Apps (Microsoft)](https://azure.microsoft.com/en-us/services/logic-apps/) - A cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems.
+- [Kartra](https://kartra.com/) - Negócios Online Facilitaram
+- [Power Virtual Agents (Microsoft)](https://powervirtualagents.microsoft.com/) - Permite criar poderosos chatbots que podem responder perguntas feitas por seus clientes, outros funcionários, ou visitantes de seu site ou serviço.
+- [Workato Workbot](https://docs.workato.com/workbot/overview.html) - Uma plataforma bot que permite construir fluxos de trabalho personalizáveis. <sub>📖 documentação</sub>
+- [AnveVoice](https://anvevoice.app/) - Sem código de AI agente de voz para sites com JS embed de uma linha, suportando mais de 50 línguas e não requer nenhuma habilidade de codificação.
+- [Hubspot](https://www.hubspot.com/) - Uma plataforma completa de marketing, vendas, atendimento ao cliente e software CRM
+- [Drift](https://www.drift.com/) - Suporte ao cliente, chatbot
+- [Crisp](https://crisp.chat/fr/) - Suporte ao cliente diretamente em seu site.
+- [Azure Logic Apps (Microsoft)](https://azure.microsoft.com/en-us/services/logic-apps/) - Uma plataforma baseada na nuvem para criar e executar fluxos de trabalho automatizados que integram seus aplicativos, dados, serviços e sistemas.
+- [MuleSoft (Salesforce)](https://mulesoft.com/) - Fornece uma plataforma de integração e API que torna fácil conectar dados de qualquer sistema para criar experiências conectadas.
+- [Workato](https://www.workato.com/) - Uma plataforma de automação empresarial que ajuda as organizações a trabalhar mais rápido e inteligente sem comprometer governança e segurança.
+- [Intercom](https://www.intercom.com/) - Tudo em um suporte ao cliente.
+- [APIFY](https://apify.com/) - Extraia dados de qualquer site.
+- [DataFlowMapper](https://dataflowmapper.com/) - Migração de dados e conversão para a bordo
+- [SmartXML](https://redata.dev/smartxml/) - Um aplicativo para analisar XML de qualquer complexidade com suporte SQLite e PostgreSQL
+- [flatfile](https://flatfile.io/) - O botão de importação elegante para o seu aplicativo web
+- [Hunter](https://hunter.io/?via=joe) - Encontre endereços de e-mail em segundos.
+- [Hotjar](https://www.hotjar.com/) - Veja como seus visitantes estão realmente usando seu site.
+- [NocoDB](https://github.com/nocodb/nocodb) - Alternativa de ar livre e Open Source - transforma qualquer banco de dados SQL em planilha inteligente
+- [Trevor](https://trevor.io/) - Procure seus dados ao vivo, sem código.
+- [MuleSoft](https://www.mulesoft.com/platform/api-management) - Gerencie seu ciclo de vida da API, design rápido, teste e publique APIs.
+- [Workato API Management](https://docs.workato.com/api-management.html) - Transforme receitas calláveis em endpoints e organize os endpoints em coleções de API, tornando mais fácil para os usuários encontrar e consumir os endpoints através de outras receitas ou aplicativos… <sub>📖 documentação</sub>
+- [Figma](https://www.figma.com/) - A primeira ferramenta de design com colaboração em tempo real.
+- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) - Lentamente sincroniza suas luzes de mudança de cor com a temperatura natural do céu durante todo o dia (886).
 
 ## 🧾 Fontes desta área
 
-Os links acima (fora os essenciais) foram reunidos destas listas curadas. Obrigado a quem as mantém.
+> Os links acima, fora os essenciais, foram reunidos destas listas curadas. Obrigado a quem as mantém.
 
-- [ElijT/awesome-no-code-tools](https://github.com/ElijT/awesome-no-code-tools) <sub>26 links · licença MIT</sub>
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) <sub>0 links · licença CC-BY-4.0</sub>
-- [eudk/awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) <sub>0 links · licença CC0-1.0</sub>
-- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) <sub>0 links · licença CC0-1.0</sub>
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) <sub>26 links · licença CC-BY-4.0</sub>
-- [kairichard/awesome-nocode-lowcode](https://github.com/kairichard/awesome-nocode-lowcode) <sub>26 links · licença CC0-1.0</sub>
-- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) <sub>26 links · licença Apache-2.0</sub>
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) <sub>0 links · licença MIT</sub>
-- [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n) <sub>25 links · licença sem-licenca</sub>
-- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <sub>0 links · licença CC0-1.0</sub>
-- [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) <sub>25 links · licença CC-BY-SA-4.0</sub>
+- [ElijT/awesome-no-code-tools](https://github.com/ElijT/awesome-no-code-tools) <sub>🔗 33 · ⚖️ MIT</sub>
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) <sub>🔗 3 · ⚖️ CC-BY-NC-SA-4.0</sub>
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) <sub>🔗 3 · ⚖️ CC-BY-4.0</sub>
+- [eudk/awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) <sub>🔗 3 · ⚖️ CC0-1.0</sub>
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) <sub>🔗 3 · ⚖️ CC0-1.0</sub>
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) <sub>🔗 34 · ⚖️ CC-BY-4.0</sub>
+- [kairichard/awesome-nocode-lowcode](https://github.com/kairichard/awesome-nocode-lowcode) <sub>🔗 34 · ⚖️ CC0-1.0</sub>
+- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) <sub>🔗 33 · ⚖️ Apache-2.0</sub>
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) <sub>🔗 3 · ⚖️ MIT</sub>
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <sub>🔗 3 · ⚖️ CC0-1.0</sub>
+- [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) <sub>🔗 32 · ⚖️ CC-BY-SA-4.0</sub>
 
 ---
 [⬆️ Voltar ao topo](#-automação-e-no-code) · [← Ferramentas e Utilitários](README.md)
