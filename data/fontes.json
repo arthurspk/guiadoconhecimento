@@ -5117,5 +5117,82 @@
   "nota": "Coleção de workflows n8n prontos (arquivos JSON por pasta: Gmail, WhatsApp, Telegram, RAG, LLMs); o README tem 27 links externos e cerca de 300 links relativos para os templates, incluindo links de afiliado do n8n.",
   "area": "automacao",
   "ia": true
+ },
+ {
+  "repo": "Greenysmac/awesome-davinci-resolve",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-07",
+  "links": 253,
+  "nota": "Lista curada por r/colorists e r/davinciresolve com plugins, DCTLs, efeitos OFX, templates e scripts para DaVinci Resolve.",
+  "area": "recursos-audiovisuais"
+ },
+ {
+  "repo": "beast-ofcourse/awesome-motion-graphics",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-07-11",
+  "links": 398,
+  "nota": "Recursos gratuitos de motion graphics: transições, overlays, shaders, fontes, stock footage, SFX e música.",
+  "area": "recursos-audiovisuais"
+ },
+ {
+  "repo": "neutraltone/awesome-stock-resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-02-11",
+  "links": 286,
+  "nota": "Coleção de sites de fotos, vídeos, ilustrações e outros materiais de stock gratuitos.",
+  "area": "recursos-audiovisuais"
+ },
+ {
+  "repo": "ad-si/awesome-video-production",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "MIT",
+  "ultimo_commit": "2026-09-27",
+  "links": 133,
+  "nota": "Softwares, serviços e recursos para produzir vídeo, do roteiro e storyboard à edição e ao áudio.",
+  "area": "recursos-audiovisuais"
+ },
+ {
+  "repo": "adammakesfilm/creative-resources",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-04-30",
+  "links": 182,
+  "nota": "Softwares, áudio, gráficos e materiais visuais gratuitos voltados a cineastas e criadores.",
+  "area": "recursos-audiovisuais"
+ },
+ {
+  "repo": "stingalleman/awesome-audiovisual",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "CC0-1.0",
+  "ultimo_commit": "2026-07-21",
+  "links": 75,
+  "nota": "Projetos e ferramentas de audiovisual: vídeo, áudio, iluminação, gráficos e produção ao vivo.",
+  "area": "recursos-audiovisuais"
+ },
+ {
+  "repo": "cgwire/awesome-cg-vfx-pipeline",
+  "arquivos": [
+   "README.md"
+  ],
+  "licenca": "sem-licenca",
+  "ultimo_commit": "2026-09-16",
+  "links": 459,
+  "nota": "Tecnologias de código aberto para montar pipelines de computação gráfica e VFX.",
+  "area": "recursos-audiovisuais"
  }
 ]

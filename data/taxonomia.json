@@ -33,12 +33,13 @@
       {"slug": "osint", "nome": "OSINT e Investigação", "emoji": "🔎", "descricao": "Inteligência de fontes abertas e técnicas de investigação."},
       {"slug": "privacidade", "nome": "Privacidade e Proteção de Dados", "emoji": "🕶️", "descricao": "Privacidade digital, LGPD/GDPR e ferramentas de proteção."}
      ]},
-    {"slug": "criacao", "nome": "Design e Criação", "emoji": "🎬", "descricao": "Design, vídeo, cinema, fotografia, animação, áudio e escrita.",
+    {"slug": "criacao", "nome": "Design e Criação", "emoji": "🎬", "descricao": "Design, vídeo, cinema, recursos de audiovisual, fotografia, animação, áudio e escrita.",
      "areas": [
       {"slug": "design-ui-ux", "nome": "Design UI/UX", "emoji": "🖌️", "descricao": "Design de interfaces, UX research, design systems e prototipação."},
       {"slug": "design-grafico", "nome": "Design Gráfico e Ilustração", "emoji": "🖍️", "descricao": "Tipografia, cores, identidade visual, ilustração e recursos gráficos."},
       {"slug": "edicao-de-video", "nome": "Edição de Vídeo", "emoji": "🎞️", "descricao": "Softwares de edição, color grading, legendas, codecs e fluxo de pós-produção."},
       {"slug": "filmmaking", "nome": "Filmmaking e Cinema", "emoji": "🎥", "descricao": "Roteiro, direção, fotografia de cinema, produção e distribuição."},
+      {"slug": "recursos-audiovisuais", "nome": "Recursos para Audiovisual", "emoji": "🪄", "descricao": "LUTs, efeitos, transições, presets, overlays, fontes, efeitos sonoros, música livre e stock footage."},
       {"slug": "fotografia", "nome": "Fotografia", "emoji": "📷", "descricao": "Técnica, edição, equipamentos e bancos de imagens."},
       {"slug": "motion-3d", "nome": "Motion Design, 3D e Animação", "emoji": "🧊", "descricao": "Blender, motion graphics, animação 2D/3D e efeitos visuais."},
       {"slug": "audio-musica", "nome": "Áudio, Música e Podcast", "emoji": "🎧", "descricao": "Produção musical, DAWs, plugins, mixagem e podcasts."},

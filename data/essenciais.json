@@ -17948,5 +17948,1021 @@
   "gratuito": true,
   "area": "automacao",
   "ia": true
+ },
+ {
+  "nome": "Lutify.me Free LUTs",
+  "url": "https://lutify.me/free-luts/",
+  "descricao": "Pacote gratuito de LUTs cinematográficas compatíveis com Premiere, DaVinci Resolve, Final Cut e Photoshop.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Juan Melara - Print Film Emulation LUTs",
+  "url": "https://juanmelara.com.au/blog/print-film-emulation-luts-for-download",
+  "descricao": "LUTs gratuitas de emulação de película de cópia (Kodak 2383 e Fujifilm 3510), com explicação de como usá-las.",
+  "tipo": "artigo",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Fresh LUTs",
+  "url": "https://freshluts.com/",
+  "descricao": "Repositório comunitário para buscar, baixar e enviar LUTs criadas por outros coloristas.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "ARRI LUT Generator",
+  "url": "https://www.arri.com/en/learn-help/learn-help-camera-system/tools/lut-generator",
+  "descricao": "Ferramenta oficial da ARRI para gerar LUTs de conversão a partir de LogC3 para set e pós-produção.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Panasonic LUT Library (V-Log)",
+  "url": "https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/index.html",
+  "descricao": "Página oficial da Panasonic com LUTs para material gravado em V-Log nas câmeras Lumix.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Fujifilm 3D-LUT",
+  "url": "https://www.fujifilm-x.com/global/support/download/lut/",
+  "descricao": "Download oficial das LUTs de simulação de filme da Fujifilm para material F-Log das câmeras X e GFX.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "OpenColorIO",
+  "url": "https://opencolorio.org/",
+  "descricao": "Framework aberto de gerenciamento de cor usado em pipelines de VFX e animação.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "ACESCentral",
+  "url": "https://acescentral.com/",
+  "descricao": "Comunidade oficial do padrão ACES, com fórum, documentação e downloads sobre gerenciamento de cor.",
+  "tipo": "comunidade",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Treinamento DaVinci Resolve (Blackmagic Design)",
+  "url": "https://www.blackmagicdesign.com/br/products/davinciresolve/training",
+  "descricao": "Página oficial de treinamento do DaVinci Resolve, com vídeos e livros sobre edição e correção de cor.",
+  "tipo": "curso",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Cullen Kelly",
+  "url": "https://www.youtube.com/@CullenKelly",
+  "descricao": "Canal de um colorista profissional com aulas sobre color grading, ciência de cor e DaVinci Resolve.",
+  "tipo": "canal",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "Darren Mostyn",
+  "url": "https://www.youtube.com/@DarrenMostyn",
+  "descricao": "Canal de um colorista de televisão britânico com tutoriais de correção de cor no DaVinci Resolve.",
+  "tipo": "canal",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "LUTs e color grading"
+ },
+ {
+  "nome": "ProductionCrate",
+  "url": "https://www.productioncrate.com/",
+  "descricao": "Biblioteca de elementos de VFX, efeitos sonoros, música e modelos 3D, com parte do acervo liberada para contas gratuitas.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Video Copilot",
+  "url": "https://www.videocopilot.net/",
+  "descricao": "Site de Andrew Kramer com tutoriais de After Effects, plugins gratuitos e pacotes de efeitos.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Enchanted Media - Free VFX Overlays",
+  "url": "https://www.enchanted.media/free-vfx-overlay-videos/",
+  "descricao": "Coleção de overlays de vídeo gratuitos, como partículas, fumaça e luzes, para compor sobre a filmagem.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Mixkit - Overlay Videos",
+  "url": "https://mixkit.co/free-stock-video/overlay/",
+  "descricao": "Vídeos de overlay gratuitos e sem marca d'água para dar textura e camadas ao material.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Pixabay - Vídeos de overlay e partículas",
+  "url": "https://pixabay.com/videos/search/overlay/",
+  "descricao": "Resultados de overlays e partículas em HD e 4K sob a licença de uso livre do Pixabay.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Mixkit - Premiere Pro Transitions",
+  "url": "https://mixkit.co/free-premiere-pro-templates/transitions/",
+  "descricao": "Templates gratuitos de transições prontos para usar no Premiere Pro.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Hollywood Camera Work - Green Screen Plates",
+  "url": "https://www.hollywoodcamerawork.com/green-screen-plates.html",
+  "descricao": "Planos em HD de chroma key e VFX liberados para download e prática de composição.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "GL Transitions",
+  "url": "https://github.com/gl-transitions/gl-transitions",
+  "descricao": "Coleção aberta de transições de vídeo escritas em GLSL, reutilizáveis em editores e em código.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Grainzilla",
+  "url": "https://grainzilla.com/",
+  "descricao": "Overlays de grão de filme e efeitos cinematográficos de arrastar e soltar, com uma seção de downloads gratuitos.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos, transições e overlays"
+ },
+ {
+  "nome": "Mixkit - Free Video Templates",
+  "url": "https://mixkit.co/free-video-templates/",
+  "descricao": "Templates gratuitos para Premiere Pro, After Effects, Final Cut Pro e DaVinci Resolve.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Mixkit - DaVinci Resolve Templates",
+  "url": "https://mixkit.co/free-davinci-resolve-templates/",
+  "descricao": "Templates e macros gratuitos para DaVinci Resolve, incluindo títulos e transições.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Mixkit - Final Cut Pro Templates",
+  "url": "https://mixkit.co/free-final-cut-pro-templates/",
+  "descricao": "Templates gratuitos de Apple Motion para usar no Final Cut Pro.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Modelos do CapCut",
+  "url": "https://www.capcut.com/pt-br/template",
+  "descricao": "Galeria oficial de modelos do CapCut para vídeos e posts de redes sociais, editáveis online.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Canva - Modelos de vídeo",
+  "url": "https://www.canva.com/pt_br/videos/modelos/",
+  "descricao": "Modelos de vídeo editáveis no navegador para redes sociais, negócios e eventos.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Velosofy",
+  "url": "https://velosofy.com/",
+  "descricao": "Templates gratuitos de intros, lower thirds e logos para After Effects, Premiere, CapCut e Blender.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "JayAreTV - Free DaVinci Resolve Title Templates",
+  "url": "https://jayaretv.com/free-templates/",
+  "descricao": "Templates gratuitos de títulos para o DaVinci Resolve feitos por um instrutor da ferramenta.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Enchanted Media - Free Premiere Pro MOGRTs",
+  "url": "https://www.enchanted.media/free-premiere-pro-motion-graphics-templates/",
+  "descricao": "Motion graphics templates gratuitos e editáveis para Premiere Pro, com títulos, transições e intros.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "PremierePro.net",
+  "url": "https://premierepro.net/",
+  "descricao": "Site de Jarle Leirpoll com templates, presets e tutoriais gratuitos para editores avançados de Premiere Pro.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Animation Composer for Premiere",
+  "url": "https://misterhorse.com/animation-composer-for-premiere",
+  "descricao": "Plugin da Mister Horse que adiciona ao Premiere uma coleção de presets ajustáveis de animação e transição.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Presets e templates"
+ },
+ {
+  "nome": "Google Fonts",
+  "url": "https://fonts.google.com/",
+  "descricao": "Catálogo de fontes de código aberto do Google, liberadas para uso em vídeos, títulos e projetos comerciais.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Google Fonts Knowledge",
+  "url": "https://fonts.google.com/knowledge",
+  "descricao": "Biblioteca de artigos sobre tipografia, escolha e combinação de fontes mantida pelo Google Fonts.",
+  "tipo": "documentacao",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Font Squirrel",
+  "url": "https://www.fontsquirrel.com/",
+  "descricao": "Curadoria de fontes gratuitas com licença verificada para uso comercial.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "DaFont",
+  "url": "https://www.dafont.com/pt/",
+  "descricao": "Grande acervo de fontes decorativas para títulos; a licença varia por fonte e precisa ser conferida antes do uso comercial.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Fontshare",
+  "url": "https://www.fontshare.com/",
+  "descricao": "Serviço da Indian Type Foundry que distribui gratuitamente famílias tipográficas profissionais.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "The League of Moveable Type",
+  "url": "https://www.theleagueofmoveabletype.com/",
+  "descricao": "Fundição de fontes de código aberto, com famílias como League Gothic e Raleway.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Open Foundry",
+  "url": "https://open-foundry.com/",
+  "descricao": "Curadoria de fontes de código aberto selecionadas pela qualidade do desenho.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Velvetyne",
+  "url": "https://velvetyne.fr/",
+  "descricao": "Fundição francesa que publica fontes livres e experimentais, boas para títulos e identidades visuais.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "UNCUT.wtf",
+  "url": "https://uncut.wtf/",
+  "descricao": "Catálogo de fontes contemporâneas gratuitas para uso comercial.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Use & Modify",
+  "url": "https://usemodify.com/",
+  "descricao": "Seleção de fontes de licença livre, que podem ser usadas e modificadas.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Fontes e tipografia para vídeo"
+ },
+ {
+  "nome": "Freesound",
+  "url": "https://freesound.org/",
+  "descricao": "Banco colaborativo de sons com licenças Creative Commons, indicadas em cada arquivo.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "BBC Sound Effects",
+  "url": "https://sound-effects.bbcrewind.co.uk/",
+  "descricao": "Arquivo de efeitos sonoros da BBC, liberado para projetos pessoais e educacionais e licenciável para uso comercial.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "Zapsplat",
+  "url": "https://www.zapsplat.com/",
+  "descricao": "Biblioteca com mais de 150 mil efeitos sonoros gratuitos em MP3 e WAV, gravados profissionalmente.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "Pixabay Sound Effects",
+  "url": "https://pixabay.com/sound-effects/",
+  "descricao": "Efeitos sonoros livres de royalties para baixar em MP3 sob a licença do Pixabay.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "Mixkit Sound Effects",
+  "url": "https://mixkit.co/free-sound-effects/",
+  "descricao": "Efeitos sonoros gratuitos organizados por categoria para edição de vídeo.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "Sonniss GameAudioGDC",
+  "url": "https://sonniss.com/gameaudiogdc",
+  "descricao": "Arquivo dos pacotes anuais de efeitos sonoros profissionais distribuídos gratuitamente pela Sonniss na GDC.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "99Sounds",
+  "url": "https://99sounds.org/",
+  "descricao": "Selo independente de sound design que publica pacotes gratuitos de sons e efeitos.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "Kenney - Audio",
+  "url": "https://kenney.nl/assets/category:Audio",
+  "descricao": "Pacotes de áudio da Kenney, com sons de interface, impactos e outros efeitos para baixar.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "SoundBible",
+  "url": "https://soundbible.com/",
+  "descricao": "Clipes de som gratuitos em WAV e MP3, com a licença indicada em cada efeito.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "jsfxr",
+  "url": "https://sfxr.me/",
+  "descricao": "Gerador online de efeitos sonoros em estilo 8 bits, com exportação em WAV.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Efeitos sonoros (SFX)"
+ },
+ {
+  "nome": "Biblioteca de áudio do YouTube (Ajuda)",
+  "url": "https://support.google.com/youtube/answer/3376882?hl=pt-BR",
+  "descricao": "Guia oficial de como usar as músicas e efeitos sonoros gratuitos da Biblioteca de áudio do YouTube Studio.",
+  "tipo": "documentacao",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Incompetech",
+  "url": "https://incompetech.com/music/royalty-free/",
+  "descricao": "Catálogo de músicas livres de royalties do Incompetech, com busca por gênero e clima.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Pixabay Music",
+  "url": "https://pixabay.com/music/",
+  "descricao": "Músicas livres de royalties para uso comercial, sem exigência de atribuição.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Mixkit Stock Music",
+  "url": "https://mixkit.co/free-stock-music/",
+  "descricao": "Faixas gratuitas e livres de royalties organizadas por gênero e clima.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "NCS (NoCopyrightSounds)",
+  "url": "https://ncs.io/",
+  "descricao": "Selo de música eletrônica que libera suas faixas gratuitamente para criadores de conteúdo.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Audionautix",
+  "url": "https://audionautix.com/",
+  "descricao": "Músicas de produção de Jason Shaw sob licença Creative Commons, com busca por gênero e andamento.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "StreamBeats",
+  "url": "https://www.streambeats.com/",
+  "descricao": "Mais de 1.500 faixas gratuitas e seguras contra DMCA para streamers e criadores.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Free Stock Music",
+  "url": "https://www.free-stock-music.com/",
+  "descricao": "Músicas sem copyright e livres de royalties para YouTube e redes sociais.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Silverman Sound Studios",
+  "url": "https://www.silvermansound.com/",
+  "descricao": "Mais de 230 faixas autorais liberadas sob CC BY 4.0, em estilos como cinematográfico e medieval.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Scott Buckley - Music Library",
+  "url": "https://www.scottbuckley.com.au/library/",
+  "descricao": "Biblioteca de trilhas orquestrais e cinematográficas de Scott Buckley sob Creative Commons.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "ENDE.APP (Sascha Ende)",
+  "url": "https://ende.app/pt",
+  "descricao": "Mais de 2.000 faixas de Sascha Ende sob CC BY 4.0, gratuitas inclusive para uso comercial.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Música livre de royalties"
+ },
+ {
+  "nome": "Pexels Vídeos",
+  "url": "https://www.pexels.com/pt-br/videos/",
+  "descricao": "Banco de vídeos gratuitos em HD e 4K para uso pessoal e comercial.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Pixabay Vídeos",
+  "url": "https://pixabay.com/pt/videos/",
+  "descricao": "Clipes gratuitos em HD e 4K liberados para uso comercial sem atribuição.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Mixkit Stock Video",
+  "url": "https://mixkit.co/free-stock-video/",
+  "descricao": "Stock footage gratuito em 4K e HD, sem marca d'água e sem cadastro.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Coverr",
+  "url": "https://coverr.co/",
+  "descricao": "Vídeos de stock em HD e 4K gratuitos para uso pessoal e comercial.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Videezy",
+  "url": "https://www.videezy.com/",
+  "descricao": "Acervo de stock footage gratuito em HD e 4K, com navegação por categoria.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "NASA Image and Video Library",
+  "url": "https://images.nasa.gov/",
+  "descricao": "Acervo oficial de imagens, vídeos e áudios da NASA, pesquisável e disponível para download.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Prelinger Archives (Internet Archive)",
+  "url": "https://archive.org/details/prelinger",
+  "descricao": "Coleção com milhares de filmes educativos, industriais e publicitários antigos, muitos em domínio público.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Wikimedia Commons - Vídeos",
+  "url": "https://commons.wikimedia.org/wiki/Category:Videos",
+  "descricao": "Categoria de vídeos do Wikimedia Commons, com arquivos sob licenças livres ou em domínio público.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Openverse",
+  "url": "https://openverse.org/pt-br",
+  "descricao": "Buscador de mais de 800 milhões de imagens e áudios com licença aberta.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "ESO Videos",
+  "url": "https://www.eso.org/public/videos/",
+  "descricao": "Vídeos de astronomia do Observatório Europeu do Sul, disponíveis para download em alta resolução.",
+  "tipo": "site",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Fotos Públicas",
+  "url": "https://www.fotospublicas.com/",
+  "descricao": "Banco brasileiro de fotos jornalísticas de uso gratuito.",
+  "tipo": "site",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Stock footage e imagens"
+ },
+ {
+  "nome": "Saber (Video Copilot)",
+  "url": "https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/",
+  "descricao": "Plugin gratuito para After Effects que cria feixes de energia, neon, lasers e sabres de luz.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Plugin Everything - Free Plugins",
+  "url": "https://www.plugineverything.com/free",
+  "descricao": "Página de plugins gratuitos para After Effects, como aberração cromática e repetidores.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Animation Composer",
+  "url": "https://misterhorse.com/animation-composer",
+  "descricao": "Plugin para After Effects com presets de animação prontos para aplicar em camadas.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Duik",
+  "url": "https://rxlaboratorio.org/rx-tool/duik/",
+  "descricao": "Conjunto gratuito e aberto de ferramentas de rigging e animação de personagens para After Effects.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Reactor (We Suck Less)",
+  "url": "https://gitlab.com/WeSuckLess/Reactor",
+  "descricao": "Gerenciador de pacotes comunitário que instala plugins, macros e templates no Fusion e no DaVinci Resolve.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "openfx-misc",
+  "url": "https://github.com/NatronGitHub/openfx-misc",
+  "descricao": "Coleção de plugins OpenFX de código aberto para Natron, DaVinci Resolve e outros hosts OFX.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Valhalla Supermassive",
+  "url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+  "descricao": "Plugin gratuito de reverb e delay da Valhalla DSP, útil em sound design e trilhas.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Youlean Loudness Meter",
+  "url": "https://youlean.co/youlean-loudness-meter/",
+  "descricao": "Medidor de loudness em LUFS com versão gratuita nos formatos VST, AU e AAX.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Shutter Encoder",
+  "url": "https://www.shutterencoder.com/",
+  "descricao": "Conversor de vídeo, áudio e imagem de código aberto baseado em FFmpeg, voltado a editores.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Friction",
+  "url": "https://friction.graphics/",
+  "descricao": "Aplicativo de motion graphics de código aberto para animação vetorial e raster.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Cavalry",
+  "url": "https://cavalry.studio/pt_br/",
+  "descricao": "Software de animação 2D e motion design em tempo real com versão gratuita para Mac e Windows.",
+  "tipo": "ferramenta",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Subtitle Edit",
+  "url": "https://github.com/SubtitleEdit/subtitleedit",
+  "descricao": "Editor de legendas de código aberto para criar, sincronizar e converter arquivos de legenda.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "Plugins e ferramentas gratuitas"
+ },
+ {
+  "nome": "Whisper (OpenAI)",
+  "url": "https://github.com/openai/whisper",
+  "descricao": "Modelo aberto de reconhecimento de fala, base de muitas ferramentas de transcrição e legendagem automática.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Buzz",
+  "url": "https://github.com/chidiwilliams/buzz",
+  "descricao": "Aplicativo de desktop que transcreve e traduz áudio offline usando o Whisper.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "CapCut - Gerador de legendas automáticas",
+  "url": "https://www.capcut.com/pt-br/tools/auto-caption-generator",
+  "descricao": "Recurso do CapCut que gera legendas automaticamente a partir da fala do vídeo.",
+  "tipo": "ferramenta",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Adobe Podcast Enhance Speech",
+  "url": "https://podcast.adobe.com/enhance",
+  "descricao": "Filtro de IA da Adobe que limpa ruído e eco de gravações de voz.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Auphonic",
+  "url": "https://auphonic.com/",
+  "descricao": "Serviço de pós-produção automática de áudio, com nivelamento e redução de ruído, gratuito por duas horas ao mês.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Ultimate Vocal Remover",
+  "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+  "descricao": "Interface gráfica aberta para separar voz e instrumentos com redes neurais.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Moises",
+  "url": "https://moises.ai/pt/",
+  "descricao": "Aplicativo que separa vocais e instrumentos com IA, com plano gratuito limitado.",
+  "tipo": "app",
+  "idioma": "pt",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Video2X",
+  "url": "https://github.com/k4yt3x/video2x",
+  "descricao": "Framework aberto de super-resolução e interpolação de quadros para vídeo.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Flowframes",
+  "url": "https://github.com/n00mkrad/flowframes",
+  "descricao": "Interface para Windows que interpola quadros de vídeo com RIFE e DAIN.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "SAM 2 (Segment Anything Model 2)",
+  "url": "https://github.com/facebookresearch/sam2",
+  "descricao": "Modelo da Meta que segmenta e acompanha objetos em vídeo, útil para rotoscopia e máscaras.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "CorridorKey",
+  "url": "https://github.com/nikopueringer/CorridorKey",
+  "descricao": "Ferramenta de IA da Corridor Digital para extrair chroma key com bordas e transparências detalhadas.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "descricao": "Interface em nós para rodar modelos de difusão localmente, usada em fluxos de geração de imagem e vídeo.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Wan 2.1",
+  "url": "https://github.com/Wan-Video/Wan2.1",
+  "descricao": "Modelos abertos de geração de vídeo a partir de texto e imagem.",
+  "tipo": "repositorio",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Runway",
+  "url": "https://runway.com/",
+  "descricao": "Plataforma de geração e edição de vídeo com IA, com plano gratuito de créditos limitados.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "ElevenLabs",
+  "url": "https://elevenlabs.io/",
+  "descricao": "Plataforma de síntese de voz e dublagem com IA em dezenas de idiomas, com plano gratuito.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
+ },
+ {
+  "nome": "Descript",
+  "url": "https://www.descript.com/",
+  "descricao": "Editor de vídeo e áudio que permite editar a gravação pelo texto da transcrição, gratuito para começar.",
+  "tipo": "ferramenta",
+  "idioma": "en",
+  "gratuito": true,
+  "area": "recursos-audiovisuais",
+  "topico": "IA para audiovisual",
+  "ia": true
  }
 ]

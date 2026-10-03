@@ -16,7 +16,7 @@ from urllib.parse import urlsplit
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(RAIZ, 'data', *p)
 
-AREAS_GRANDES = {'front-end', 'back-end', 'devops-cloud', 'ia-generativa', 'ciberseguranca', 'apps-sistemas', 'self-hosted',
+AREAS_GRANDES = {'recursos-audiovisuais', 'front-end', 'back-end', 'devops-cloud', 'ia-generativa', 'ciberseguranca', 'apps-sistemas', 'self-hosted',
                  'ferramentas-online', 'ferramentas-ia', 'recursos-gratuitos', 'ciencia-de-dados-ml', 'datasets', 'apis-publicas',
                  'ferramentas-dev', 'mobile', 'sistemas-linux', 'qa-testes'}
 
@@ -149,6 +149,8 @@ def main():
     validas = {(f['repo'], f['area']) for f in fontes_cfg}
     excluir = {(f['repo'], f['area']): re.compile(f['excluir_topicos'], re.I) for f in fontes_cfg if f.get('excluir_topicos')}
     essenciais = json.load(open(D('essenciais.json'), encoding='utf-8'))
+    # descrições próprias dos projetos (scripts/descrever.py), para links cuja lista de origem não pode ser citada
+    descricoes = json.load(open(D('descricoes.json'), encoding='utf-8')) if os.path.exists(D('descricoes.json')) else {}
     st = D('status-links.json')
     quebrados = set()
     if os.path.exists(st):  # gerado por checar_links.py: fora os links que falharam 2 vezes seguidas
@@ -195,8 +197,14 @@ def main():
         if desc.lower() == nome.lower() or FRAGMENTO.match(desc): desc = ''
         lic = it.get('licenca', '')
         if lic in ('sem-licenca',) or lic.startswith(('CC-BY-NC', 'GPL')):
-            desc = ''  # sem licença compatível: só nome e link (fatos), sem o texto da descrição
+            desc = ''  # sem licença compatível: o texto da lista não é copiado
             stats['desc_omitida_licenca'] += 1
+        if ' | ' in desc:
+            desc = ''  # resto de tabela, não é descrição
+        if len(desc) < 12 and u in descricoes:
+            desc = descricoes[u]; stats['desc_do_proprio_projeto'] += 1
+        if len(desc) < 12:
+            stats['sem_descricao'] += 1; continue  # todo link do guia tem descrição
         grupo = ''
         if it['area'] == 'linguagens':
             grupo = LINGUAGEM_DA_FONTE.get(it['fonte']) or NOME_LINGUAGEM.get(topico.lower(), topico)
@@ -227,7 +235,7 @@ def main():
             if k in vistos: continue
             vistos.add(k)
             escolhidos.append({'nome': e['nome'], 'url': e['url'], 'descricao': e['descricao'],
-                               'topico': 'IA' if e.get('ia') else 'Comece por aqui',
+                               'topico': 'IA' if e.get('ia') else e.get('topico', 'Comece por aqui'),
                                'grupo': '', 'area': area, 'fonte': 'curadoria', 'licenca_fonte': 'CC-BY-SA-4.0',
                                'tipo': e.get('tipo', 'site'), 'idioma': e.get('idioma', ''), 'gratuito': e.get('gratuito'),
                                'essencial': True, 'ia': bool(e.get('ia'))})
