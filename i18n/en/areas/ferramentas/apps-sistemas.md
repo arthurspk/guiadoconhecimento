@@ -99,7 +99,7 @@
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 - [Nani Translate](https://nani.now/) - Fast AI translator that explains and refines your phrasing.
 - [NotePlus](https://noteplus.com/) - True Native Note and LLM Client
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek, a tiny 3D character, lives in your MacBook's notch and watches Claude Code and Codex: permission approvals and replies from the notch, and every session and usage limit at a glance.
 - [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
 ## 🟣 Office

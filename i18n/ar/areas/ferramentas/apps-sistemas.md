@@ -99,7 +99,7 @@
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - انظر إلى حدود استخدام (كلوداي) و(تشات جي تي) تعيشان في حانة قائمة الطعام الخاصة بك
 - [Nani Translate](https://nani.now/) - مترجم سريع يشرح ويصقل صياغتك
 - [NotePlus](https://noteplus.com/) - مفكرة أصلية حقيقية وميسرة
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - حفرة بيكسل تسكن في مكبوك وتراقب جلسات كلود مع 13 محاكاة و إخطارات ذكية ودعم متعدد الدورات
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek شخصية صغيرة ثلاثية الأبعاد تعيش في نتوء شاشة MacBook وتراقب Claude Code وCodex: الموافقة على الأذونات والرد مباشرة من النتوء، مع كل الجلسات وحدود الاستخدام في لمحة
 - [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Light weight Internet Reader driven by AI.Supports fetching of search motor information and RSS.
 
 ## 🟣 المكتب

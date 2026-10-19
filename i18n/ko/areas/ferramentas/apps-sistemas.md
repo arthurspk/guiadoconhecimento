@@ -99,7 +99,7 @@
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - Claude.ai와 ChatGPT 사용 제한을 macOS 메뉴 바에 살 수 있습니다.
 - [Nani Translate](https://nani.now/) - 빠른 AI 번역기는 당신의 phrasing를 설명하고 정제합니다.
 - [NotePlus](https://noteplus.com/) - True Native Note 및 LLM 클라이언트
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - pixel-art 게는 MacBook Notch에 살고 있으며 13 애니메이션, 스마트 알림 및 멀티 세션 지원으로 Claude Code 세션을 모니터링합니다.
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - 작은 3D 캐릭터 Peek이 MacBook 노치에 살면서 Claude Code와 Codex를 지켜봅니다. 노치에서 바로 권한을 승인하고 답장할 수 있고, 모든 세션과 사용량 한도를 한눈에 볼 수 있습니다.
 - [Saga Reader](https://github.com/sopaco/saga-reader) - AI.Supports에 의해 구동되는 Blazing-Fast 및 Extremely 경량 인터넷 독자는 검색 엔진 정보와 RSS의 fetching를 지원합니다.
 
 ## 🟣 본부장

@@ -99,7 +99,7 @@
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - 看看你的Claude.ai和ChatGPT的用法限制在您的macOS菜单栏上直播.
 - [Nani Translate](https://nani.now/) - 快速AI翻译,解释和完善了你的用词.
 - [NotePlus](https://noteplus.com/) - True 原生笔记和 LLM 客户端
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - 一个像素艺术的螃蟹生活在你的MacBook notch中,并监视克劳德代码会话,配有13个动画,智能通知和多会话支持.
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek 是一个小巧的 3D 角色，住在你的 MacBook 刘海里，替你盯着 Claude Code 和 Codex：在刘海中直接批准权限和回复，所有会话和用量限制一目了然。
 - [Saga Reader](https://github.com/sopaco/saga-reader) - 由AI.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.…
 
 ## 🟣 办公室

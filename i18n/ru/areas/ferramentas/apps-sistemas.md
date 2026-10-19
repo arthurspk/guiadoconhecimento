@@ -99,7 +99,7 @@
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - Ознакомьтесь с ограничениями использования Claude.ai и ChatGPT в меню macOS.
 - [Nani Translate](https://nani.now/) - Быстрый переводчик ИИ, который объясняет и уточняет вашу фразу.
 - [NotePlus](https://noteplus.com/) - True Native Note и клиент LLM
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Пиксельный краб живет в вырезке MacBook и контролирует сеансы Claude Code с 13 анимациями, интеллектуальными уведомлениями и поддержкой нескольких сессий.
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek, крошечный 3D-персонаж, живёт в вырезе экрана MacBook и следит за Claude Code и Codex: одобрение разрешений и ответы прямо из выреза, а все сессии и лимиты использования видны с одного взгляда.
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast и Extremely-Lightweight Internet Reader, управляемый AI.Supports для получения информации о поисковых системах и RSS.
 
 ## 🟣 Офис

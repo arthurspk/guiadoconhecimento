@@ -99,7 +99,7 @@
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - अपने Claude.ai और ChatGPT उपयोग सीमा को देखें अपने मैकओएस मेनू बार में रहते हैं।
 - [Nani Translate](https://nani.now/) - फास्ट एआई अनुवादक जो आपके ग्रॉसिंग को बताते हैं और परिष्कृत करते हैं।
 - [NotePlus](https://noteplus.com/) - ट्रू नेटिव नोट और एलएलएम क्लाइंट
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - एक पिक्सेल-आर्ट केकब आपके मैकबुक पायदान में रहता है और 13 एनिमेशन, स्मार्ट नोटिफिकेशन और बहु सत्र समर्थन के साथ क्लाउड कोड सत्र की निगरानी करता है।
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek, एक छोटा-सा 3D किरदार, आपके MacBook के नॉच में रहता है और Claude Code व Codex पर नज़र रखता है: नॉच से ही अनुमतियाँ स्वीकृत करें और जवाब दें, और सभी सेशन व उपयोग सीमाएँ एक नज़र में देखें।
 - [Saga Reader](https://github.com/sopaco/saga-reader) - एक ब्लेज़िंग-फास्ट और बेहद हल्के इंटरनेट रीडर एआई द्वारा संचालित। खोज इंजन की जानकारी और आरएसएस लाने का समर्थन करता है।
 
 ## 🟣 कार्यालय
