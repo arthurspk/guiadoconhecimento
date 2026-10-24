@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js, Express, Mongo DB
 - [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - Production-aware AI agent roadmap covering MCP, memory, RAG, workflows, evaluation, safety, and multi-agent systems.
-- [AI Applyd](https://aiapplyd.com/) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
+- [GetMattered](https://getmattered.com/) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - Systematic AI agent development roadmap covering LLM agents, RAG, tool use, memory, LangGraph, MCP, multi-agent systems, and agentic RL.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Agentic AI curriculum focused on building production-grade LangGraph systems and supporting resources.

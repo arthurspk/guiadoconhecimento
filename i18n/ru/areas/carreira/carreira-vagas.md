@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js, Express, Mongo DB
 - [CVExpert](https://cvexpert.com/) - Карьерный коучинг с помощью ИИ, CV-пошив, отслеживание работы, обзор приложений и создание сетей в одном рабочем пространстве.
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - Дорожная карта AI-агентов, охватывающая MCP, память, RAG, рабочие процессы, оценку, безопасность и мультиагентные системы.
-- [AI Applyd](https://aiapplyd.com/) - Отправляет на странице карьеры работодателя и сообщает о статусе, который возвращает их САР, включая неудачи.
+- [GetMattered](https://getmattered.com/) - Отправляет на странице карьеры работодателя и сообщает о статусе, который возвращает их САР, включая неудачи.
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - Систематическая дорожная карта разработки агентов ИИ, охватывающая агенты LLM, RAG, использование инструментов, память, LangGraph, MCP, мультиагентные системы и агентный RL.
 - [Resume Roaster](https://resume.roastlabai.com/) - ИИ возобновляет обжаривание с помощью ATS, оценивая ваше резюме по описанию работы и отмечая недостающие ключевые слова.
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Учебная программа по агентному ИИ была сосредоточена на создании систем LangGraph производственного класса и вспомогательных ресурсов.

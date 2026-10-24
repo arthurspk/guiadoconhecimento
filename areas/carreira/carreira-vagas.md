@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js, Expresso, Mongo DB
 - [CVExpert](https://cvexpert.com/) - Treinador de carreira assistido por IA, alfaiataria CV, rastreamento de emprego, revisão de aplicativos e redes em um espaço de trabalho.
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - Roteiro do agente de IA consciente da produção cobrindo MCP, memória, RAG, fluxos de trabalho, avaliação, segurança e sistemas multi-agentes.
-- [AI Applyd](https://aiapplyd.com/) - Submete-se na página de carreiras do empregador e reporta o status que a ATS devolve, incluindo falhas.
+- [GetMattered](https://getmattered.com/) - Submete-se na página de carreiras do empregador e reporta o status que a ATS devolve, incluindo falhas.
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - Roteiro de desenvolvimento de agentes de IA sistemáticos cobrindo agentes LLM, RAG, uso de ferramentas, memória, LangGraph, MCP, sistemas multi-agentes e RL agente.
 - [Resume Roaster](https://resume.roastlabai.com/) - A IA continua com a pontuação da ATS que classifica seu currículo contra uma descrição de trabalho e indica palavras-chave faltando.
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - O currículo de IA agente se concentrava em construir sistemas LangGraph e recursos de suporte.
