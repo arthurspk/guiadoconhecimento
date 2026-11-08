@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js、エクスプレス、Mongo DB
 - [CVExpert](https://cvexpert.com/) - キャリアコーチング、CVテイラーリング、ジョブトラッキング、アプリケーションレビュー、および1つのワークスペースでのネットワーキング
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - MCP、メモリ、RAG、ワークフロー、評価、安全およびマルチエージェントシステムをカバーする生産用AIエージェントロードマップ。
-- [AI Applyd](https://aiapplyd.com/) - 雇用主のキャリアページで提出し、障害を含むATSが返したステータスを報告します。
+- [GetMattered](https://getmattered.com/) - 雇用主自身の採用ページで応募を送信し、そのATSが返すステータスを失敗も含めて報告します。
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - LLMエージェント、RAG、ツール使用、メモリ、LangGraph、MCP、マルチアッセンシャルシステム、およびエージェント RLをカバーする体系的なAIエージェント開発ロードマップ。
 - [Resume Roaster](https://resume.roastlabai.com/) - AIは、ジョブの説明に対する履歴書を等級別にし、不足しているキーワードにフラグを立てるATSのスコアリングでローストを再開します。
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - 製造グレードのLangGraphシステムの構築とリソースのサポートに重点を置いたAIカリキュラム。

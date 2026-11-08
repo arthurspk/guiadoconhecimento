@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js, Express, Mongo DB를
 - [CVExpert](https://cvexpert.com/) - AI-assisted career Coaching, CV tailoring, 작업 추적, 응용 프로그램 검토 및 네트워킹 한 직장에서.
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - MCP, 메모리, RAG, 워크플로우, 평가, 안전 및 다중 시약 시스템을 포함하는 생산-aware AI 에이전트 로드맵.
-- [AI Applyd](https://aiapplyd.com/) - 고용주의 자신의 경력 페이지에 제출하고 실패를 포함하여 ATS 반환 상태를 다시보고.
+- [GetMattered](https://getmattered.com/) - 고용주의 자체 채용 페이지에서 지원서를 제출하고, 해당 ATS가 반환하는 상태를 실패를 포함해 알려 줍니다.
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - 체계적인 AI 대리인 개발 로드맵 덮음 LLM 대리인, RAG의 공구 사용, 기억, LangGraph, MCP, 다중 시약 체계 및 대리인 RL.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI 이력서 로스트 ATS scoring 그 성적 이력서에 대한 작업 설명과 깃발 누락 키워드.
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Agentic AI curriculum은 생산 등급 LangGraph 시스템 및 지원 리소스 구축에 중점을 둡니다.

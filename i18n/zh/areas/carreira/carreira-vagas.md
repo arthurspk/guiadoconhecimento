@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - 节点Js、快车、蒙戈DB
 - [CVExpert](https://cvexpert.com/) - AI辅助职业辅导,CV裁缝,工作跟踪,应用审查,以及在一个工作空间的网络.
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - 生产意识AI代理路线图涵盖MCP,内存,RAG,工作流程,评价,安全,以及多代理系统.
-- [AI Applyd](https://aiapplyd.com/) - 在雇主自己的职业网页上提交,并报告其安非他明类兴奋剂的回报情况,包括失败情况。
+- [GetMattered](https://getmattered.com/) - 在雇主自己的招聘页面上提交申请,并报告其 ATS 返回的状态,包括失败情况。
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - 系统AI代理开发路线图,涵盖LLM代理,RAG,工具使用,内存,LangGraph,MCP,多代理系统,以及代理RL.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI恢复烤肉 与ATS的分数 你根据工作说明的分数 和缺少关键词的旗帜。
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - Agentic AI课程侧重于建设生产级的LangGraph系统和支持资源.
