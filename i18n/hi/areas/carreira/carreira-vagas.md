@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js, Express, Mongo DB
 - [CVExpert](https://cvexpert.com/) - एआई-सहायता प्राप्त करियर कोचिंग, सीवी सिलाई, नौकरी ट्रैकिंग, आवेदन समीक्षा और एक कार्यस्थल में नेटवर्किंग।
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - MCP, मेमोरी, RAG, वर्कफ़्लोज़, मूल्यांकन, सुरक्षा और बहु-एजेंट सिस्टम को कवर करने वाले प्रोडक्शन-एवेयर AI एजेंट रोडमैप।
-- [GetMattered](https://getmattered.com/) - नियोक्ता के अपने करियर पेज पर जमा करता है और असफलता सहित उनके एटीएस रिटर्न की स्थिति को वापस रिपोर्ट देता है।
+- [GetMattered](https://getmattered.com/) - नियोक्ता के अपने करियर पेज पर आवेदन जमा करता है और उनके ATS द्वारा लौटाई गई स्थिति बताता है, जिसमें विफलताएँ भी शामिल हैं।
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - व्यवस्थित एआई एजेंट विकास रोडमैप जिसमें एलएलएम एजेंट, आरएजी, उपकरण उपयोग, मेमोरी, लैंगग्राफ, एमसीपी, बहु-एजेंट सिस्टम और एजेंटिक आरएल शामिल हैं।
 - [Resume Roaster](https://resume.roastlabai.com/) - एआई फिर से शुरू करने के साथ एटीएस स्कोरिंग करें कि नौकरी विवरण और झंडे लापता कीवर्ड के खिलाफ अपने फिर से शुरू को ग्रेड करता है।
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - एजेंटिक एआई पाठ्यक्रम ने उत्पादन ग्रेड लैंगग्राफ सिस्टम और सहायक संसाधनों के निर्माण पर ध्यान केंद्रित किया।

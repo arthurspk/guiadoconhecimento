@@ -69,7 +69,7 @@
 - [Anota AI](https://anota.ai/home/) - Node.js, Express, Mongo DB
 - [CVExpert](https://cvexpert.com/) - AI-assisted career traininging, CV tailoring, job tracking, application review, and networking in one work space.
 - [Agent Engineering Roadmap](https://github.com/audi0417/agent-engineering-roadmap) - خريطة طريق للعوامل المؤثرة على الإنتاج تشمل برنامج المقارنات المتعددة الأطراف، والذاكرة، ومجموعة RAG، وسير العمل، والتقييم، والسلامة، والنظم المتعددة العناصر.
-- [GetMattered](https://getmattered.com/) - يقدم على صفحة العمل الخاص ويُبلغ عن حالة عودتهم، بما في ذلك الفشل.
+- [GetMattered](https://getmattered.com/) - يقدّم الطلب على صفحة الوظائف الخاصة بصاحب العمل، ويُبلغ بالحالة التي يُرجعها نظام ATS لديه، بما في ذلك حالات الفشل.
 - [Agent Learning](https://github.com/Haozhe-Xing/agent_learning) - Systematic AI agent development roadmap covering LLM agents, RAG, tool use, memory, LangGraph, MCP, multi-agent systems, and agentic RL.
 - [Resume Roaster](https://resume.roastlabai.com/) - أَنا مُتحمّلُ ثانيةً بالضغطِ ATS الذي يَصْفُّ سيرتك الذاتية ضد a وصف عمل وأعلام مفقودة الكلمات الرئيسية.
 - [Agentic AI Roadmap with Notes and Projects](https://github.com/AdilShamim8/Agentic-AI-Roadmap-with-Notes-and-Projects) - وتركز المناهج الدراسية العملية للمبادرة على بناء نظم لانغ غراف الإنتاجية ودعم الموارد.
